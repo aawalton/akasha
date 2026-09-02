@@ -1,0 +1,167 @@
+---
+id: 8d878771-d366-5c53-a944-14f1abe1a027
+page-type-slug: story-chapter-royal-road
+title: "Chapter 422 : Frozen Dreams"
+slug: 0124-chapter-422-frozen-dreams
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 124
+ownLength: 2299
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3898943/chapter-422-frozen-dreams"
+royalRoadId: "3898943"
+---
+
+"So… Uh… Where's this labyrinth we're supposed to conquer?" Vee asked, glancing around at the endless horizon of snow and ice.
+
+"It shouldn't be too hard to find," I replied, pulling out the tiny golem, which pointed in a direction. "If we follow this, we should find it in no time."
+
+"Well, all I can say is thank goodness we made clothes before coming here. This place is freezing, and I used to love winter. Snow, snowballs, snowdays… All that sort of stuff."
+
+"I can't really comment on that myself. If I were a normal slime, I'd probably prefer a warm and damp location, and unlike you and Leon, I don't really remember much about before being slimed."
+
+"You seem to be more than making up for it. If any of your previous lives were as crazy as this, then I'll eat my words."
+
+After chuckling at her sudden declaration, we started following the guiding golem, although we didn't have to spend too long traveling in the snow as we spotted what had to be our destination in the distance. At the top of a mountain, a large sparkling sphere appeared mounted on a golden base. When we arrived, Vee poked it curiously a few times, which seemed to cause the sphere to reveal what looked like a castle-town fortress inside.
+
+"Is this a giant snow globe?" Vee asked.
+
+"It doesn't look like it's made out of snow… I'd probably say it's made out of dungeon glass."
+
+"You silly slime… A snow globe is like a glass ball with a miniature scene inside and water. You'd shake it, and it would have stuff inside that floated around, making it look like it was snowing."
+
+"That's a pretty cute idea… Although this is anything but miniature."
+
+"They are normally small enough to hold in your hands. I guess you could make a giant body and shake this one up if you wanted."
+
+"That doesn't sound like the best idea. It might anger the maker, and Juniper warned me not to do that."
+
+Vee looked around. "Are we sure this is the labyrinth? Isn't this a bit small? It's barely the size of a small house."
+
+I looked at the golem, which was pointing directly at the snow globe. Apparently, we had arrived at our destination, and to confirm that, I cast [Landmarks], which had a brand-new entry labeled "Labyrinth of Frozen Dreams."
+
+"Wow, that's a fancy name," Vee said. "But how exactly do we enter? Do we have to fall asleep?"
+
+"I hope not. That sounds like a disaster waiting to happen… Maybe there's something we have to interact with on the base?"
+
+Vee nodded in agreement, and we began searching, brushing aside any accumulated snow and looking for a button or device that might let us enter the labyrinth. Teleportation was obviously not a solution, and while I felt like I could've torn open a tunnel through the glass sphere, my gut told me it was a very bad idea, as my [Personal Rift] was behaving very strangely beyond the globe's confines.
+
+After a bit of excavating, we found a plaque that simply said that, to challenge the labyrinth, we needed to place our hand on it and declare our intent. It sounded stupidly simple, and even Vee had been expecting some sort of puzzle to enter, only to have her expectations dashed.
+
+"Well, I guess this is how we go in. I wonder where the real dungeon is?" Vee asked.
+
+"Want me to go in first, since it's safer?"
+
+"Sure. Good luck."
+
+I placed a hand against the plaque before making my declaration, "I wish to challenge the Labyrinth of Frozen Dreams!"
+
+Almost immediately, I felt my surroundings begin to twist, as if by teleportation. I had all my sensory traits on full blast, as well as ordering my [Sub-Cores] to try their best to record the experience, hoping to gain some insight like I had when traversing the elven gateways.
+
+I arrived at my destination and recognized it almost immediately. What had previously been a somewhat miniaturized fortress city was now a fully sized one, and I was outside the gates. It looked beautiful; when the light caught any of the buildings, they sparkled like crystals, leading me to believe the entire thing was likely crafted from some type of ice or glass.
+
+I kept looking around until I saw a large figure move, and when I turned to face it, I came face-to-face with a massive spider.
+
+"Vee!?" I cried out telepathically.
+
+"You've shrunk down!" Vee's voice came back, though slightly distorted. Despite her being effectively right in front of me, it was almost like we were somehow a massive distance apart.
+
+I reached out and found myself touching an invisible barrier; judging by its contour, this must have been the globe. However, when I touched it, I received a warning.
+
+<Do you wish to forfeit your challenge?>
+
+Nope! Sorry! I replied and quickly retracted my touch.
+
+I explained the situation to Vee, and she quickly understood the gist of it. I watched as her large form placed a leg against the plaque and soon vanished, appearing next to me in a much more appropriate size.
+
+"Wow! This place really is magical," Vee said fawningly.
+
+"And you didn't want to come here…"
+
+"Look after that underwater dungeon you took me to, I can't exactly say they've been scenic trips. But if others are as fancy as this… Maybe I've been wrong."
+
+I didn't have the heart to tell her that this was very against the norm. The demon abyss labyrinth, while interesting due to its implications, wasn't exactly a feast for the eyes. This, on the other hand, was quite exhilarating, as it seemed to employ some kind of spatial mastery I'd never seen before.
+
+No wonder my gut told me not to tunnel through. I would've ended up here unshrunk and potentially destroyed the place, or maybe I would've been forcibly compressed down to the correct size?
+
+While I was unsure of the consequences, I felt a similar sense of dread if I tried to tunnel my way out. There was even a chance I would remain permanently shrunken if I didn't leave appropriately, which could be disastrous.
+
+While Vee continued admiring the sights of the frozen wonderland, I was more focused on the serious consequences of our situation. Entering or exiting the globe was probably out of ordinary dimensional means, but what about inside it? I began using [Spatial Sense] along with [Position] and spreading out my [Personal Rift] to get a feel of the situation.
+
+Huh… That's weird…
+
+Understandably, the coordinates were not ordinary, and it seemed as if they had become a bunch of sub-coordinates for the location, or perhaps fractions of the original? I quickly told Vee about this to see if she had an idea, but the spider was also flummoxed.
+
+We could still teleport, but doing so was much harder than we were used to. It was like every one of our spells had an additional step or two added to its completion, which involved translating the coordinate into this fractional coordinate. Even Vee, who still had a fully functioning [Triangulate], was suffering.
+
+"I guess this means we can't cheat our way through this labyrinth," Vee said, seeming to give up. "But on the bright side, this might be a good way to train our skills. Doing these extra steps will probably level up my [Triangulate] in no time."
+
+"I'm glad you can remain positive… If I had known it would do this, I would have worked on my custom spell some more before coming here."
+
+"Well, maybe you'll finish it while we are in here?" Vee suggested. "They say pressure and personal experience bring out the best results."
+
+I wasn't entirely sold on Vee's sudden claim, but I did agree that it would be appropriate to work it out here. I wasn't entirely sure if it was intentional, but this miniaturized space did seem relatively ideal for training our dimensional magic and spatial skills.
+
+"Do you think this means we can learn a shrinking spell?" Vee abruptly asked.
+
+"You can already shrink…" I pointed out.
+
+"Yes, but a shrink ray sounds damn cool. I know we've got [Expansion] and [Reduction], but I never thought we could apply it locally to a person or specific object before."
+
+I nodded. "I wonder if the same could be applied to [Folded Geometry]."
+
+"What, you want to fold monsters in half?" Vee snickered.
+
+"It sounds brutal when you put it like that, but maybe? I've folded the space where they occupied to multiply cuts, but maybe I've been going about it the wrong way. One thing's for sure, I'll definitely be trying my best to study the monsters, items, and even structures in this place."
+
+"I wonder if this will cause a problem when you want to bring over Sylbera and the others?"
+
+I immediately paused all my other thoughts, as Vee had brought up a very good point. If things had to come through the official way to be shrunk, then it would throw a wrench into my plan. I was momentarily concerned, but then I thought of how every adventurer had storage bags; the labyrinth master must have found a way to cover for that.
+
+I reached into my [Core Storage] and pulled out an item at random, which happened to be that fancy sword I received. Mentally, I knew it was the original size, so I expected it to be huge here, but as I retrieved it, it came out the appropriate size for our current predicament.
+
+"You didn't just learn shrinking magic, did you?" Vee asked.
+
+I shook my head. "Nope. It looks like it's applied directly to anything inside here. Maybe it's a kind of stabilized pocket dimension that's been brought into reality?"
+
+"So rather than opening a door, they brought the whole house?"
+
+"Maybe?" I scratched my head awkwardly. "This is very new for me too. I just hope this sword isn't ruined…"
+
+I returned it to my storage and sighed with relief. From what I could tell, it had returned to its original size when I mentally lined it up with the other items contained there. I began pulling out other things, carefully observing them the moment they exited or returned to my storage, trying to trace the moment they were affected by this strange magic.
+
+Even with everything I had, it seemed almost impossible to pinpoint it, and my earlier guess might have been on the mark. Rather than affecting items individually, this shrunken state was effectively a rule set up in this place, or in magical terms, a domain. If I wanted to study the shrinking effect, then pulling out items wasn't the way to go; I'd be better off studying the globe itself.
+
+Either that or I try to make repeated trips back and forth through the plaque. Although... Considering it warned me about forfeiting the challenge, maybe there's a limit on how often I can enter? Maybe I'll have better luck examining the inhabitants of this realm?
+
+I also tried studying Vee and myself, but once the effect was applied, it seemed invisible, as if it had been directly incorporated into our very being. Honestly, discovering that was a little startling, as it meant that there was no duration or way to resist it now. I told Vee my theory, and she seemed quite perturbed.
+
+"Is that why we had to effectively give our permission at the plaque? It's like some kind of hidden fine print on a contract we signed?" Vee asked, sounding a bit annoyed. "I can't believe we got fooled by the oldest trick in the book…"
+
+"You're one to talk with your portals hidden in doorways."
+
+"A spider's gotta do what she can to survive," Vee snorted.
+
+"Can our hypocritical spider still change her size?"
+
+"Now that you mention it, I'm not sure… I hope so, or I won't exactly have a battle mode."
+
+Vee seemed to concentrate for a bit, and then, ever so slowly, I saw her undo her miniaturization and return to her normal size. The process was usually instant, but it didn't appear like she was struggling too much to do it, even with the unusual resistance. I was watching with fascination, trying to glean any insight into the situation as I could, studying any minor fluctuation with the utmost interest.
+
+"Okay, seems I can still change my size," Vee said with relief. "It's annoying I can't just instantly pop to the size I want, but it's better than being stuck at one size. I guess this place doesn't like change."
+
+Even Vee shrinking back again wasn't its usual smoothness. Considering this was her natural ability, this was quite an odd circumstance, but who could've predicted a shrinking spider would enter a miniaturized labyrinth contained in a giant snow globe?
+
+"What about you? Can you still grow and whatnot?" Vee asked.
+
+"I don't see why not?" I replied and began withdrawing slime.
+
+I quickly reformed a larger body and gave Vee a triumphant grin. Then, after depositing the slime mass, I shrank down to a much smaller form. My actual slime wasn't changing size; I was just adding or removing mass, so I wasn't exactly breaking the rules of this place.
+
+"It seems the slime is always allowed to cheat," Vee sighed. "I'm going to file a complaint during my next evolution."
+
+"Maybe you can ask Mother if you can evolve into a spider slime?"
+
+"Tempting… But I think I'm going to stick to my original plan. Trust me, you'll be blown away once you see it!"
+
+I chuckled and pointed towards the large, ornate, frozen gates. "Well then, shall we get started?"

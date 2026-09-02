@@ -1,0 +1,177 @@
+---
+id: eb826b59-a6ab-55c2-a410-6deb6250784c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 172 – No Regrets"
+slug: 0172-chapter-172-no-regrets
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 172
+ownLength: 2160
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3898939/chapter-172-no-regrets"
+royalRoadId: "3898939"
+---
+
+While the oasis had been freed of the gateclaw scorpions, nobody from the group could rest easily. Liora especially felt the need to check the surrounding area every minute or so, to make sure nothing was approaching them.
+
+Surprisingly enough, nothing did, which in its own right was weird. They were inside an oasis. It was smaller than the one by the dungeon entrance, containing only one water basin. Caspian was currently sleeping in it, which Liora didn't like. Would they have to drink merman water in each oasis?
+
+Still, why weren't any sharks approaching this oasis? Or any other monsters for that matter? Were they all scared of the gateclaw scorpions? That was yet another worrying thought.
+
+"I can't help but feel that we'll get in trouble," Liora muttered, scanning the desert for the tenth time.
+
+"Yeah, I can't shake that feeling either, but for the time being, we need to rest, drink, and wait for our princess to recharge his human meter," Cee noted.
+
+"Who are you calling a princess?!" Caspian grumbled from the oasis.
+
+"You, obviously! We're stuck here for at least six hours because of you," Cee shot back.
+
+"You can't expect me to endure this blistering heat! It's cooking me alive!"
+
+Liora couldn't even blame the merman. The heat was quite frankly unbearable. Her black feathers were doing a great job at attracting the heat, and sometimes she felt like she would become a roast magpie.
+
+"Maybe we should travel at night?" Cee suggested. It wasn't that desert nights were much more pleasant either. They were surprisingly cold, and the stark temperature contrast between day and night was jarring.
+
+"That might be better," Liora said. She preferred the cold to the blistering heat since her feathers did a good job of keeping her warm.
+
+All of a sudden, Na'ikiri began to gesture animatedly and click her mandibles, looking at them all in turn. Liora didn't understand a thing she was saying, so she looked to Caspian.
+
+"Na'ikiri says that we have to leave this place quickly. It is too dangerous here, because the scorpion will return," Caspian explained and replied to Na'ikiri, which seemed to send her into a bigger frenzy.
+
+Liora guessed that Caspian said that they couldn't leave until he had recharged his Landwalker skill, but Na'ikiri seemed to grow more and more frantic.
+
+"What's wrong with her? Why is she so panicked?" Liora asked.
+
+"I'm trying to make sense of it, but she's speaking so fast. I'm not that good at antkin language. She's repeating something about scorpions. Uhh… I think they never use an oasis which has gateclaw scorpions, because…. slow down a little, will you?" Caspian gesticulated at the nervous antkin.
+
+But the point was clear. Staying here would only bring them trouble.
+
+"Renir, what do we do? Caspian still needs to recharge his skill, and it's the middle of the day. It's too hot for us to travel around anyway. Can we really not wait until night?" Liora asked.
+
+The gem appeared thoughtful. "Yeah, I don't think staying here will do us any favors. But leaving isn't currently an option either. We should rest here for as long as possible, drink as much as possible, and leave as soon as trouble arises. You can always fly away."
+
+"Okay, I can carry Caspian, and Smokey can carry Cee, but we have another passenger. I'm not large enough to carry two humanoids, especially if one of them is a floppy fish. Smokey isn't yet experienced enough. His wing muscles need more training."
+
+"This is utterly stupid. Why do monsters have to be everywhere?" Cee grumbled.
+
+"It is a dungeon. We can't expect to avoid monsters," Renir said.
+
+"A dungeon," Cee scoffed. "What even is a dungeon? The creatures in it aren't even strictly alive, right? They are just part of the dungeon itself. It just makes no sense."
+
+Liora nodded in agreement. It was difficult to wrap your head around the fact that such an odd place could exist. Heck, this whole world was filled with weirdness, which Liora thought could only be possible in games and novels.
+
+"Dungeon is the manifestation of the world's magic. It is—"
+
+Liora tuned him out. This would be yet another lengthy lecture. Instead, she turned her attention to Na'ikiri and Caspian. The antkin looked to be on the verge of tears. Could ants even cry? Liora had no clue, but Na'ikiri certainly appeared desperate. Her hands were trembling.
+
+"Is there something more?" Liora asked Caspian.
+
+"I wish I could tell you, but at this point, I can't understand anything she's saying. Although staying here doesn't seem like a good idea, that much is clear…" Caspian said, his eyebrows furrowing in a pained expression.
+
+He knew that he was the main reason they had to stay here. Being such a liability likely wasn't a great feeling. At least, Liora hoped that he had the decency to feel bad about being such a slow walker.
+
+But even without him, it would have been better to travel at night. If things were calm, Liora would have settled in the shade and slept until night. But now she couldn't, and it made her irritated.
+
+"Cee, I think we need to make some traps out of your ice webs," Liora announced, yelling over Renir, who was still explaining to the spider about how dungeons worked exactly.
+
+"I mean… I can try, but they won't last," Cee said.
+
+"What do you mean? You made them for that shark matriarch, and they worked, didn't they?"
+
+"They did work, but that was only because we lured her into the webs without delay. In this heat, my ice webs won't last for more than an hour," Cee explained.
+
+"There's no choice. We'll have to make do with regular webs. Perhaps set up a few mana overcharge circles and a bedrock mandala. It's the best we can do to prepare for whatever those scorpions have in mind," Renir said.
+
+Liora didn't like it. She didn't like it one bit. The fact that Na'ikiri kept panicking wasn't helping either. When the antkin saw Cee making her traps, she just grabbed her head with her hands and sank to the ground. As if all hope had been lost already.
+
+It was rather irritating and not at all helpful, but the antkin likely wasn't panicking for no reason. Liora was already thinking of a way she could perhaps carry both Na'ikiri and Caspian, although it just didn't seem possible. Maybe if she had taken the Roc evolution.
+
+But no, she didn't want to be that huge.
+
+Once Cee had set up their traps, they decided to take turns to rest. Liora was nervous about not watching the desert, since she had the best eyesight and would notice any trouble way before others. But Cee and Renir both insisted that she sleep, saying that as their most capable fighter, she needed to be well rested.
+
+It was hard to fall asleep, but she did manage. Liora awakened some three hours later, unable to remain asleep in her restless state. Caspian still had two more hours left to soak in the water before he could transform, while Na'ikiri was cradled up in the corner of the oasis, swaying back and forth and occasionally producing a low clicking noise with her mandibles.
+
+"Anything happen while I was sleeping?" Liora asked Cee who was on the lookout.
+
+"Not as far as I can see. Shouldn't you sleep for a bit longer?" The spider asked.
+
+"I won't be able to fall asleep anyway. Go ahead and rest," Liora said and flew up to one of the palm trees. She turned into her magpie form and settled to munch on a banana while watching the desert. Renir, she placed right next to her.
+
+"You seem nervous," he noted.
+
+"I just have a bad feeling about scorpions, that's all. It doesn't hurt to be careful, does it?" Liora retorted.
+
+"I would have expected the old Liora to just fly away and let others deal with the issues."
+
+"Hey, when have I done that?"
+
+"At the start, you weren't very keen to get involved with me or anyone, for that matter. Which is odd to me. You knew that you were a human before, yet you seemed perfectly content to live as a bird. Why?"
+
+Liora sighed. She remembered far more from her human life now that Lucien had dug through her brain. But these memories didn't make her happy, even if they weren't inherently bad. It just made her painfully aware of the fact that she would never get that life back.
+
+"It was easier living as a bird. I had my flock, my stomach was full, and I didn't have to worry about work or deadlines or any other human nonsense. It was… easy…"
+
+There was a moment of silence. Liora kept watching the desert. The sun was still high, although it was past its zenith.
+
+"D-Do you regret it?"
+
+"Regret what?"
+
+"Leaving that life behind. For my sake. You could have easily abandoned me and just continued living as a bird."
+
+Liora didn't reply for a while, trying to gather her thoughts. Her life now was far from easy. She never knew what the day would bring. She didn't even know whether she would survive until tomorrow, because danger was constantly looming over her head. But did she regret rescuing Renir?
+
+"No, I don't."
+
+That was all that she said. Explanations felt mute.
+
+"Thank you," Renir replied, and they continued watching the desert in comfortable silence.
+
+Unfortunately, the moment didn't last for long. Something appeared from behind one of the dunes. A very large something, and it was followed by dozens of smaller somethings. It took a moment until they came clearly into Liora's view.
+
+It was the gateclaw scorpions from before. But there were more of them, and leading them was an even larger monster.
+
+[Gateclaw Guardian – Level 60]
+
+This larger monster was something straight out of a horror movie. It had the upper torso of a large, muscular man, although his arms were scorpion-like pincers. The bottom half was that of a larger scorpion, which had another set of much larger pincers that looked like tower shields. Not to mention the huge tail with the stinger in the back.
+
+The label was clearly red. Not quite as deep red as the shark matriarch's had been, but it was still a more powerful monster than Liora. The fact that this guy had a whole group of gateclaw scorpions with him meant that he was more dangerous.
+
+"Renir…"
+
+"What? Do you see something?"
+
+"Level 60 Gateclaw Guardian is approaching the oasis with like thirty of those small gateclaw scorpions."
+
+"Dammit!" The gem cursed. "We can't beat all of them. We'll have to flee."
+
+"Flee? But what about Caspian? And Na'ikiri? Maybe we can deter them for long enough to—"
+
+"No, Liora! The Desert Shark Matriarch was a lone monster. You had a distinct advantage over it, but this time that is not the case. I can assist you with an ice-spell just once. Even if our goal is just to deter them for long enough for Caspian to recharge, it won't be enough. We have to flee! Leave the antkin behind if we have to. Your lives are more important."
+
+Liora looked back at the trembling antkin. She had tried to warn them of the danger, likely knowing exactly what would happen. Na'ikiri didn't believe they stood a chance against these monsters. But abandoning her to her fate? Not to mention that they would have to travel with a flopping half-fish man until they found the next oasis.
+
+Caspian just might not be able to endure the journey, since it was impossible to predict how far the next oasis would be.
+
+"Dammit it all. If only we had an ice bomb or something that we could just drop on their heads!" Liora complained.
+
+"No, Liora, we can't just…" Renir suddenly trailed off.
+
+"What? Don't just go silent!"
+
+"Actually… there might be something Cee could do about this. But we'll need time to prepare."
+
+"I'll distract them!" Liora announced.
+
+"A-Are you sure?" Renir sounded apprehensive.
+
+"Of course, I am sure! Who else if not me? I'm a bird after all. Besides, it's pretty much our group dynamic at this point. I distract and deal damage while Cee creates traps," Liora announced.
+
+"I… Alright! I'll try to get this done as quickly as possible. Wake Cee up!"
+
+Liora did just that and then took her Dracoryx form, ready to face the incoming scorpions. She could feel her feathers trembling. One would think she would be used to battling by now, but her bird instincts were screaming at her that this was not the kind of opponent she should face on her own.
+
+"It's alright. I can do this!" She muttered to herself.
+
+"Liora!" Caspian suddenly. "Let me cast a special skill on you!"
