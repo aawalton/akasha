@@ -1,0 +1,5 @@
+{"id":"01a05fdb-7c99-76a6-a491-a67ae7a9f556","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c99-7de7-94e0-159741b4e7cd","count":3,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdb-7c99-7baf-90c6-bd4c7c3f691a","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c99-7b05-a908-92ea30f6926c","count":5,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c99-7dd5-b851-be5873bca636","count":5,"status":"unsupported","description":"When you deal damage with Soul Magic, you mark the target's soul dealing 1875 Magic Damage over 10 seconds, as long as they are not already marked from you.  This effect scales off the higher of your Weapon or Spell Damage."}

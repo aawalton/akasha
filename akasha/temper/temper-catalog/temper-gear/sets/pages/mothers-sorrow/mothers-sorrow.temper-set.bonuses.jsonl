@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c97-7e78-922b-a835925a63d2","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c97-771a-bae5-515fcaa955a5","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c97-7c8a-a327-9e88cdd9e6c6","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c97-7624-be0f-a163ecee184d","count":5,"status":"supported","description":"Adds 1528 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":1528}]}

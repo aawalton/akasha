@@ -1,0 +1,2 @@
+{"id":"01a05fdb-7c97-7451-b9f9-05bdf566e2ef","count":1,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-7e60-811f-27c7092453a2","count":2,"status":"unsupported","description":"When you consecutively Light Attack 2 times, you trigger Overkill for 6 seconds, which increases your Weapon and Spell Damage by 560 but also increases the cost of your abilities by 8%. This effect can occur once every 6 seconds."}

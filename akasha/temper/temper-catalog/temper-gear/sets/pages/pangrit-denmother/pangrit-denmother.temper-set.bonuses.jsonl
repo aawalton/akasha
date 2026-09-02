@@ -1,0 +1,5 @@
+{"id":"01a05fdb-7c99-7d3d-a60f-e9848c3e2c09","count":2,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdb-7c9a-742b-ba54-9b3c25c59c63","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdb-7c9a-7d1e-aa1d-235a1f720da0","count":4,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c9a-764b-83bf-1a140ef8b77c","count":5,"status":"supported","description":"Adds 1890 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1890}]}
+{"id":"01a05fdb-7c9a-7149-afcd-31aba644ec6b","count":5,"status":"unsupported","description":"When you Block, you and up to 3 group members within 12 meters gain Minor Courage for 10 seconds, increasing your Weapon and Spell Damage by 215. This effect can occur once every 5 seconds."}

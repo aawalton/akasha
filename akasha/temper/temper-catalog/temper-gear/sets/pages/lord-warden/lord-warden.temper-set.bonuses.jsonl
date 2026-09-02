@@ -1,0 +1,2 @@
+{"id":"01a05fdb-7c95-7ec8-ab30-76d69d2486d3","count":1,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdb-7c95-74af-9f31-62c6cbc69f11","count":2,"status":"unsupported","description":"When you take damage, you have a 50% chance to summon a shadow orb for 10 seconds that increases the Physical and Spell Resistance of you and your group members within 8 meters by 3180. This effect can occur once every 10 seconds."}

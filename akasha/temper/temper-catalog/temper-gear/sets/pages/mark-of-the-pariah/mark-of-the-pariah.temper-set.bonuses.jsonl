@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c96-7da2-8293-ae46b2551628","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c96-7b2a-b493-faa06ed1701b","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdb-7c96-7635-8267-6e6b6d13cde9","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdb-7c96-75c9-b504-f3babd25ab22","count":5,"status":"unsupported","description":"Increases your Physical and Spell Resistance by up to 10206 based on your missing Health.\n\nCurrent value: 2373"}

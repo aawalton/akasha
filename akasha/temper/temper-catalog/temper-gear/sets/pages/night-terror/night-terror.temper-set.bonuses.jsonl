@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c98-76fe-98c3-992e8ab0bb7f","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c98-74dc-a0f2-3d4e8750e7d2","count":3,"status":"unsupported","description":"Reduces the radius you can be detected while Sneaking by 2 meters. Reduces the cost of Sneak by 10%."}
+{"id":"01a05fdb-7c98-7532-a1a1-1ddb8fc5e86e","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c98-7325-8bfc-950b5e40dc2e","count":5,"status":"unsupported","description":"When you take melee damage, you deal 285 Poison damage to the attacker. This effect can occur once every 1 second and scales off the higher of your Weapon or Spell Damage."}

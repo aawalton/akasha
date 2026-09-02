@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c99-7e73-a8f6-af96cafca365","count":2,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c99-7a12-ab58-fd4b33d690aa","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c99-7c57-8281-08f83c5122db","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c99-7aee-a8d3-2e4c7e4d448b","count":5,"status":"unsupported","description":"While you are under 60% Health, your Health Recovery is increased by 800 and your Physical and Spell Resistance is increased by 6400."}

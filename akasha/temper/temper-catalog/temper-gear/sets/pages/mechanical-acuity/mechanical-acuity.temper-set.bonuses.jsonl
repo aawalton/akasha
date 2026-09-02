@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c97-7a87-9521-5bd5316cd947","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c97-777e-966e-e3b4dc13e38b","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c97-7677-ac15-7de5661c84b3","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-7358-8ba8-e6ea07969549","count":5,"status":"unsupported","description":"When you deal non Critical Damage, you gain a stack of Mechanical Acuity for 4 seconds, granting you 20% Critical Strike chance per stack, up to once every 1 second and stacking up to 5 times. Upon reaching max stacks or after the effect ends, this effect cannot occur again for 25 seconds."}

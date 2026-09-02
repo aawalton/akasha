@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c94-74a7-b7af-90bd87e80f71","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c94-7a41-8d91-ddbd7d37bbcb","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c94-78b6-a242-795ad23d27a6","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c95-771e-886a-e1a1d9208cd4","count":5,"status":"unsupported","description":"While you are casting or channeling an ability, your damage taken is reduced by 15%. When you are interrupted, your next Magicka ability will cost no Magicka."}

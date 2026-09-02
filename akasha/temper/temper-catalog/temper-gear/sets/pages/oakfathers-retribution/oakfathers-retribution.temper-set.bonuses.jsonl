@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c99-7944-9fb4-1a2ac17dd763","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c99-7a37-9336-d2335ff7d7ed","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c99-7ed1-832b-c18a4309cada","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c99-72ac-801e-354ec5071add","count":5,"status":"unsupported","description":"Gain 449 Offensive Penetration against enemies for each Major Buff they have active.\nGain 20 Weapon and Spell Damage against enemies for each Minor Buff they have active."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c9b-72fe-bf88-f8b70f6aabbe","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c9b-7716-a9ef-53c1c19ce25a","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdb-7c9b-70cb-94f1-f3d714d33ab5","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c9b-7526-909b-88ec7e2f1e01","count":5,"status":"unsupported","description":"While you are standing still, you gain 465 Weapon and Spell Damage. While you are moving, you gain 203 Health, Magicka, and Stamina Recovery."}

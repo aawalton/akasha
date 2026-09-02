@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c99-7412-abf0-781da5646ecc","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c99-7bf3-9a3c-ba19da37a930","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c99-79da-bb80-d678d0c82a43","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdb-7c99-7ad4-8853-8c82b39637ae","count":5,"status":"unsupported","description":"When you Bash a target, you heal for 3540 Health over 10 seconds and apply Minor Vulnerability to the enemy for 10 seconds, increasing their damage taken by 5%. The heal can only activate once every 10 seconds and scales off your Max Health."}

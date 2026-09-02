@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c97-7aad-83b1-d089caf4ecfa","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c97-7f14-b7fc-3c25fa04be14","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdb-7c97-75c6-b9fa-985e5b963485","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-7c10-ac78-b2d93d9373a7","count":5,"status":"unsupported","description":"When you activate a synergy while in combat, you gain a shadow blessing that increases your Weapon and Spell Damage by 474 or a lunar blessing that increases your Magicka Recovery by 474 for 20 seconds. You can only have one blessing active at a time."}

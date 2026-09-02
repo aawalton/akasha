@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c97-76a4-8701-86f6973cb3b7","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c97-7a4d-9b56-ad50cb0d51fe","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c97-7b08-b0d4-25c23a540c88","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-7942-ae8c-b2d71962f561","count":5,"status":"unsupported","description":"When you cast a Support ability while in combat, you increase the Physical and Spell Resistance of yourself and up to 5 group members within 10 meters by 3540 for 20 seconds."}

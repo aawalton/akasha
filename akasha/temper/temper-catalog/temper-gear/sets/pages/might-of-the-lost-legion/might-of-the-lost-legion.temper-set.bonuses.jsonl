@@ -1,0 +1,5 @@
+{"id":"01a05fdb-7c97-7b6a-b74b-5e3322f7f67c","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c97-7c4d-8ae8-057dc5908a89","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c97-793d-a444-afd90fd80548","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-7909-be9f-9beecf52679f","count":5,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c97-7bd4-a7c7-ae2ff9a82916","count":5,"status":"unsupported","description":"When you Block, you gain Empower, increasing the damage of your Heavy Attacks against monsters by 70% for 3 seconds."}

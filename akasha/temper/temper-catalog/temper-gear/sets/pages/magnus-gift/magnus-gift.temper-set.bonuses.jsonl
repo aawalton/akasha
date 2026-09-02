@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c96-76e5-a40e-294620c8661b","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c96-7fb0-b4ac-1245a41e4feb","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c96-7d85-ad8d-c9e31ddefd71","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c96-7cfc-98d6-ff4d9c53b73f","count":5,"status":"unsupported","description":"When you cast a Magicka ability, you have a 15% chance to negate that ability's cost."}

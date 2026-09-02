@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c95-7366-a7c7-d18f4088992f","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c95-7e87-a342-a1a297aafa78","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c95-70f6-a3a7-c2a1e14bb69e","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c95-7463-9b83-4f8c9a2cc873","count":5,"status":"unsupported","description":"When you deal damage, you summon a Verminous Fabricant that charges forward, dealing 1504 Shock Damage to all enemies in its path, and knocking up to 6 into the air, stunning them for 2 seconds. This effect can occur once every 8 seconds and scales off the higher of your Weapon or Spell Damage."}

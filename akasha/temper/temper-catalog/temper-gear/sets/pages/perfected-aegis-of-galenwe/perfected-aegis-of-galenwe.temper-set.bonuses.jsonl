@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c9a-77d3-a171-a1d85cd22c12","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c9a-75f5-af75-f6744eba8a2f","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdb-7c9a-7ee0-814b-27f50f53b02f","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdb-7c9a-74b0-8125-c9ecab856582","count":5,"status":"unsupported","description":"When you Block, you grant Empower to 11 other group members within 15 meters for 3 seconds, increasing the damage of their Heavy Attacks against monsters by 70%. This effect can occur once every 2 seconds."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c9a-73b9-ba9c-8a2df1879a96","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c9a-75c0-9cdf-9fd179b7eb85","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdb-7c9a-729d-9e42-a2dffe03af87","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c9a-7823-9ebd-e37af6ea8f62","count":5,"status":"unsupported","description":"When you taunt an enemy, you give yourself and 11 group members Minor Courage for 15 seconds, increasing your Weapon and Spell Damage by 215. This effect can occur once every 8 seconds."}

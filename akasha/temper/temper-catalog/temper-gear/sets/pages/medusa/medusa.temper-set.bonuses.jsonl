@@ -1,0 +1,5 @@
+{"id":"01a05fdb-7c97-7886-af8f-b05e805638c6","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c97-774d-b2fe-58d12106c078","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c97-7c28-bac8-5e051d633447","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c97-753b-9fa7-51e73b2baf44","count":5,"status":"supported","description":"Adds 892 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":892}]}
+{"id":"01a05fdb-7c97-760e-8e79-ed4cb64648cf","count":5,"status":"unsupported","description":"Gain Minor Force at all times, increasing your Critical Damage by 10%."}

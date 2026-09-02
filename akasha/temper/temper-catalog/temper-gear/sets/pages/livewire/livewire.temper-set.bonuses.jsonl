@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c95-7f3e-aaad-0b442eb4f9d4","count":2,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdb-7c95-7392-bedc-239d4bec7730","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c95-7f8a-83a3-85f5644b5dad","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdb-7c95-78a5-9797-ff170ff943ad","count":5,"status":"unsupported","description":"When you take damage, you overload your circuits, applying Concussion to enemies within 8 meters of you and healing for 1020 Health for each enemy hit. This effect can occur once every 6 seconds."}

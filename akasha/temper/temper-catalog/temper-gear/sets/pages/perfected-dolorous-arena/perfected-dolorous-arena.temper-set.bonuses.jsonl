@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c9a-774b-81a9-9b494303ceb7","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c9a-76a0-b4eb-1efa48d79df2","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdb-7c9a-7598-b579-3a329eacf7c3","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdb-7c9a-77b2-9abe-c14d75674825","count":5,"status":"unsupported","description":"While bracing you create a distortion barrier around yourself after 2 seconds. After the delay, every 2 seconds you gain 614 Armor and enemies within the distortion barrier have their Armor reduced by 1843 for 5 seconds. These effects stack up to 3 times."}

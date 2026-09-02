@@ -1,0 +1,5 @@
+{"id":"01a05fdb-7c95-7c14-b326-d332f1b5ce96","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c95-7555-8cf3-efb327e68b43","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c95-79af-ba6b-3982434cdbd1","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c95-7d40-8c7b-16d1a0dbc44e","count":5,"status":"supported","description":"Adds 150 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":150}]}
+{"id":"01a05fdb-7c95-76b6-8a34-651280f79d12","count":5,"status":"unsupported","description":"When you kill a monster they burst with blood magic, dealing 50% of their Max Health to enemies within 6 meters as Bleed Damage, up to 24096 Bleed Damage. This damage cannot critically strike. This effect can occur once every 0.5 seconds."}

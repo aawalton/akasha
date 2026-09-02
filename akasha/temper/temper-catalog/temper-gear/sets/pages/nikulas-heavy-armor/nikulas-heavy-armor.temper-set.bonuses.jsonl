@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c98-7ada-876e-78b0c4066c3e","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdb-7c98-79a4-bbc0-14a07009b6cb","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdb-7c98-74de-a1cc-c9c801eb359e","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c98-743e-abb9-72d0d391a22c","count":5,"status":"unsupported","description":"When you Block, you gain a stack of Nikulas' Resolve for 5 seconds, up to once every half second.  After 8 stacks you consume Nikulas' Resolve and deflect the next direct damaging attack made against you within 5 seconds, avoiding it completely."}

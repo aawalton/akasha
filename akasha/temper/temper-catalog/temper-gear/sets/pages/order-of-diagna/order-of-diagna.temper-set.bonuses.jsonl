@@ -1,0 +1,5 @@
+{"id":"01a05fdb-7c99-7757-9679-dc3f8c107e58","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c99-7daa-a38e-f081a42ad068","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c99-7684-b6b0-9f15a4e064d3","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdb-7c99-7132-8c70-a3d5594053fc","count":5,"status":"supported","description":"Adds 5% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.05}]}
+{"id":"01a05fdb-7c99-7ef2-9127-2e371e00ded7","count":5,"status":"unsupported","description":"Gain Minor Vitality at all times, increasing your healing received and damage shield strength by 6%."}

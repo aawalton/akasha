@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c99-7da0-b4e7-93d11704580b","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c99-715c-953c-96ee4587dfd1","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c99-75e1-9cf8-44bc552b428f","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c99-73eb-a6f6-e3eecdc8311f","count":5,"status":"unsupported","description":"Whenever you successfully Dodge, you heal yourself for 2946 Health over 5 seconds. This effect can occur every 5 seconds and scales off the higher of your Max Magicka or Stamina."}

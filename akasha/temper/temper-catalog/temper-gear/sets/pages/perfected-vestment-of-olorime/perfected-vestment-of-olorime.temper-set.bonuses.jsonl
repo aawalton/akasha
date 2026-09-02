@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c9c-7dd7-8557-b5b0c29785ac","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c9c-7eaa-a1ed-089415b1fe71","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdb-7c9c-797b-aed3-8204a68713d7","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c9c-75e5-b1f0-b29297ac4d86","count":5,"status":"unsupported","description":"Casting abilities that leave an effect on the ground in combat will create a circle of might for 5 seconds. You and your group members in the circle gain Major Courage for 20 seconds, increasing your Weapon and Spell Damage by 430 for 20 seconds.  This effect can occur once every 10 seconds."}

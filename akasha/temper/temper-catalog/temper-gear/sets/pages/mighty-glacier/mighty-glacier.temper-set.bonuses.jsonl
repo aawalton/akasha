@@ -1,0 +1,5 @@
+{"id":"01a05fdb-7c97-728f-ac4f-0ef9ba7d518c","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c97-7312-be1e-eaf20eb5fc70","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c97-768e-abb9-51bd0b8e5199","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-7897-b922-62ce8412a383","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-7d49-9f59-a42f93900f44","count":5,"status":"unsupported","description":"When you activate a snare or immobilize ability or hit a target with a snare or immobilize ability, you and up to 11 group members gain Major Resolve for 15 seconds, increasing your Physical and Spell Resistances by 5948. This effect can occur once every 10 seconds."}

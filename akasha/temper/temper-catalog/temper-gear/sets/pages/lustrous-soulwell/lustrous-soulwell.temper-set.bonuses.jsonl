@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c95-7487-bcba-057d439d8d9e","count":2,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c95-73ca-b6b2-eee1ec3bc28e","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c95-799f-b089-0b7b8dd4a28b","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c95-7be9-9261-cfaec1ee34aa","count":5,"status":"unsupported","description":"When you use an Ultimate ability while in combat, you and the closest 3 group members within 28 meters of you gain 465 Health Recovery, Magicka Recovery, and Stamina Recovery that lasts for 2 seconds for each 20 Ultimate spent."}

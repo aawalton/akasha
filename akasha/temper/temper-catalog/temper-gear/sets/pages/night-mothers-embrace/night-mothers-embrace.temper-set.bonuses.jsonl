@@ -1,0 +1,5 @@
+{"id":"01a05fdb-7c98-7bd3-8340-0facfda576d4","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c98-7b66-8018-7d2777df4178","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c98-7a02-bc28-1d3214ac6f6f","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c98-7c68-956b-67ff020ac9c1","count":5,"status":"supported","description":"Adds 171 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":171}]}
+{"id":"01a05fdb-7c98-7a7b-a227-bfb3eeb3fac9","count":5,"status":"supported","description":"Reduces the radius you can be detected while Sneaking by 2 meters. Reduces the cost of Sneak by 25%.","effects":[{"metricId":"sneak-range","type":"integer","value":-2},{"metricId":"sneak-cost","type":"fractional-change","value":-0.25}]}

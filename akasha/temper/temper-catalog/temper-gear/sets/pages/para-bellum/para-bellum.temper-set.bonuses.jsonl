@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c9a-786d-821d-4b1f1b00bd9c","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c9a-77c5-af44-4d50e5d0bdd1","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c9a-751f-9ea6-9e13a4424a5a","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c9a-725c-be95-fafc1ada0eb2","count":5,"status":"unsupported","description":"When you deal damage you gain a damage shield that absorbs up to 8412 damage for 6 seconds.  This effect can occur once every 6 seconds."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c9b-71af-9c76-196d33ab8a1c","count":2,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdb-7c9b-7810-bbec-4bd72eafb838","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdb-7c9b-7f4a-8adb-365bfc0c07ec","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c9b-74c1-a1cb-cc23a704855d","count":5,"status":"unsupported","description":"While you have more than 50% Health, the Critical Damage and Critical Healing of any group members not wearing Lucent Echoes within 28 meters of you increases by 11%.\n\nWhile you have 50% or less Health, your damage taken from monsters is reduced by 20%."}

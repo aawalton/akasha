@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c98-7bf3-9967-ad1b964fd5e0","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c98-747e-b7dd-404c515199ca","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c98-7a79-9bdc-f8cf092a3e9a","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c98-7b0b-aac5-a5e695461ce4","count":5,"status":"unsupported","description":"When you deal Critical Damage you apply Major Breach to the enemy, reducing their Physical and Spell Resistance by 5948 for 4 seconds."}

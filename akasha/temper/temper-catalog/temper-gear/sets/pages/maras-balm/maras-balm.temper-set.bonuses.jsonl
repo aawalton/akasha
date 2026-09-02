@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c96-7a02-a921-dea289704fdd","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdb-7c96-79b2-a318-aca8c235948d","count":3,"status":"supported","description":"Adds 424 Critical Resistance","effects":[{"metricId":"resistance-critical","type":"integer","value":424}]}
+{"id":"01a05fdb-7c96-7f4e-ae4c-a132860ccd67","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdb-7c96-72b3-b7c7-0a0ea30e5502","count":5,"status":"unsupported","description":"When a negative effect is removed from you, restore 1128 Health. This effect can occur once every 1 second.\n\nWhen you take damage and have 6 or more negative effects, restore 1128 Health per negative effect and then cleanse all. This effect can occur once every 30 seconds."}

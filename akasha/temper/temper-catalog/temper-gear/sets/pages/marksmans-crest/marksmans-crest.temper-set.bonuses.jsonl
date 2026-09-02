@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c96-7c6a-b88f-c50cf23a32c3","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c96-7193-aeb9-e1d6b3222089","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c96-7de5-a298-ef6b37b497ff","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c96-773d-8cbf-994beb8dc5f0","count":5,"status":"unsupported","description":"Reduces the cost of your Stamina abilities by 5% and increases the damage of your Bow abilities against Players by 8%."}

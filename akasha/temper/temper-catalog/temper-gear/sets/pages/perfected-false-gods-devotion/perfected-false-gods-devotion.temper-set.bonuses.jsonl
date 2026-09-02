@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c9a-774c-87d2-b5a982a25dd9","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c9a-7f8e-9a5d-63e0b1f6b680","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdb-7c9a-7b40-b5b2-298c6aae09b5","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c9a-766f-bd91-5c65e3119ba1","count":5,"status":"unsupported","description":"Reduces the cost of your Magicka abilities by 8%. When an enemy you recently damaged dies, you restore 2454 Magicka and gain Major Expedition for 8 seconds, increasing your Movement Speed by 30%. These effects can occur once every second."}

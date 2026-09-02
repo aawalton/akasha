@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c96-76fd-b27c-ee05d8b6166c","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdb-7c96-7b77-b40b-a0fb447487d1","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c96-754d-8fd5-1ed2f85672be","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c96-7772-9f58-f2d7f67934c2","count":5,"status":"unsupported","description":"When you take damage while you are under 50% Magicka, you restore 7590 Magicka. This effect can occur once every 30 seconds."}

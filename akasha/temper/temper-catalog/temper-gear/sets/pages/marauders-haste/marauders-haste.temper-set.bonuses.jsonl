@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c96-7bf5-8e45-e6033aad2e40","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c96-7a53-93a8-946d778a0c05","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c96-7c70-a9a5-241254a9533a","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c96-7aed-9861-7fe454ad9f94","count":5,"status":"unsupported","description":"When you apply a damage shield to yourself or an ally, increase your Movement Speed by 20% for 9 seconds."}

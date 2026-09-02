@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c94-7cb8-8f8b-356543c13aee","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c94-7b48-bf38-6cbf88167a6e","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c94-7644-a8a1-2126ddc54d46","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c94-7187-b414-36b4f1277513","count":5,"status":"supported","description":"Adds 1528 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":1528}]}

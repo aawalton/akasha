@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c97-7654-a60b-109099f88dc5","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-78a5-bf62-f29eab04d9f7","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c97-7103-bd0a-1720da0d192b","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-7ea4-a004-8a56fc0b4ebb","count":5,"status":"unsupported","description":"When you deal damage with a Light or Heavy Attack, you summon an animated weapon to attack your enemies for 15 seconds. The animated weapon's basic attacks deal 422 Physical Damage. This effect can occur once every 15 seconds and scales off the higher of your Weapon or Spell Damage."}

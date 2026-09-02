@@ -1,0 +1,2 @@
+{"id":"01a05fdb-7c98-7310-9496-5bc3efcb0251","count":1,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c98-768d-907c-294954e45063","count":2,"status":"unsupported","description":"When you heal yourself or an ally, you have a 20% chance to summon a totem for 6 seconds that heals you and your allies within 5 meters for 733 Health every 1 second. This effect can occur once every 10 seconds and scales off the higher of your Max Magicka or Stamina."}

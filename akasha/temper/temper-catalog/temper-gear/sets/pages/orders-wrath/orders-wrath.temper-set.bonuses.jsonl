@@ -1,0 +1,5 @@
+{"id":"01a05fdb-7c99-7784-9210-84d139e703ed","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c99-719e-ba61-4bfc0066e071","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c99-7652-aed6-df9fffdd1556","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c99-716e-8b79-6693c0710885","count":5,"status":"supported","description":"Adds 943 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":943}]}
+{"id":"01a05fdb-7c99-7be8-b097-ecc7e4aad5ae","count":5,"status":"unsupported","description":"Increases your Critical Damage and Critical Healing by 8%."}

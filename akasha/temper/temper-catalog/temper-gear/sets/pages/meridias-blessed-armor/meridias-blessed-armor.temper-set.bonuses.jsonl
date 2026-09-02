@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c97-7c05-ab3d-f854995adc2b","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdb-7c97-75ee-ba72-dac1a0cf1ab5","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-792f-b54a-42d75beba469","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdb-7c97-7264-90ba-89f10c0868e5","count":5,"status":"unsupported","description":"When you Block, you gain Meridia's Blessed Armor for 5 seconds, causing you to dodge all incoming attacks. This effect can occur once every 25 seconds."}

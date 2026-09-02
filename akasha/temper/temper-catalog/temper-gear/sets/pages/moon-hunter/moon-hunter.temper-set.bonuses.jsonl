@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c97-7318-a693-e9c19dee8f30","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-7ea2-9e26-7802a92dc7e6","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c97-74cd-9387-ade4312523a5","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c97-734c-a591-d11d231aac42","count":5,"status":"unsupported","description":"When your alchemical poison fires, increase your Weapon and Spell Damage by 547 for 8 seconds."}

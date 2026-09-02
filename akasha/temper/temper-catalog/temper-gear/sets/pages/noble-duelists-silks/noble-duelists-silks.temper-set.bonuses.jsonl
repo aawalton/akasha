@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c98-7c60-ac62-3d67b0f9a5d9","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c98-7aeb-8f92-cecd74e2c4b1","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c98-78ea-911f-86841d3754c3","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c98-7ec0-a35b-083f6ba5e14c","count":5,"status":"unsupported","description":"When you deal damage with a Light or Heavy Attack in melee range, you increase the damage of your Light and Heavy Attacks against monsters by 2110 for 15 seconds. This effect can occur once every 12 seconds."}

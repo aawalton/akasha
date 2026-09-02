@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c98-724c-b718-cc1a44cb6926","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c98-738e-96b0-7e7d2d427d99","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c98-7158-bd6a-879f5cad7112","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdb-7c98-75a8-a08a-35afe76821a2","count":5,"status":"unsupported","description":"Adds 401 Weapon and Spell Damage.  \n\nIncreases the cost of your active abilities by 5%."}

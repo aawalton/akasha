@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c9b-7a42-a0ea-001c180fdacd","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c9b-729b-be44-f9f407eba3d2","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdb-7c9b-76da-a390-2b86bc12d8ab","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c9b-7b73-bd1c-d7a9f02d69a5","count":5,"status":"unsupported","description":"Increase your Critical Chance by 128 for every Major Buff active on you, up to 1536 Critical Chance. \n\nIncrease your Critical Damage done by 1% for every Minor Buff active on you, up to 12% Critical Damage done.\n\nCurrent Bonus: 0 Critical Chance and 0% Critical Damage"}

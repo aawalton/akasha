@@ -1,0 +1,2 @@
+{"id":"01a05fdb-7c97-798b-8b67-79f0b487816f","count":1,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c97-747c-8b0f-1639f535b55d","count":2,"status":"unsupported","description":"While in combat, casting an ability with a cast time or channeling an ability grants you a damage shield that absorbs 5000 damage for 6 seconds.  If the damage shield is broken, you restore 985 Magicka. This effect can occur once every 7 seconds."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c98-7ea9-a5c3-32c989de11d2","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c98-7ab0-886c-b715516b151a","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c98-7fc5-b194-8a492808d6ca","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c98-7c18-b5c6-469ce672ea00","count":5,"status":"unsupported","description":"While you have Crowd Control Immunity, you are immune to Snares and Immobilizations."}

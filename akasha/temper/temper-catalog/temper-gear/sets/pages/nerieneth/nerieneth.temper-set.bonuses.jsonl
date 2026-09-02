@@ -1,0 +1,2 @@
+{"id":"01a05fdb-7c98-7cce-bce2-e7bc99ea56d6","count":1,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c98-73c6-af3b-12e1656e880c","count":2,"status":"unsupported","description":"When you deal direct damage, you have a 15% chance to summon a Lich crystal that explodes after 2 seconds, dealing 1360 Magic damage to all enemies within 4 meters. This effect can occur once every 3 seconds and scales off the higher of your Weapon or Spell Damage."}

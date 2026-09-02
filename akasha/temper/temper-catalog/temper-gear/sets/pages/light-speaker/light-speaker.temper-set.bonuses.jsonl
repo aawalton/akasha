@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c95-76fc-9d1b-31c82fb6ff48","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c95-793c-b615-5a7cac3ae86a","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c95-72b9-b11f-58970b98ec30","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c95-73a6-9baa-e96426c24645","count":5,"status":"unsupported","description":"Adds 600 Weapon and Spell Damage to your Restoration Staff abilities."}

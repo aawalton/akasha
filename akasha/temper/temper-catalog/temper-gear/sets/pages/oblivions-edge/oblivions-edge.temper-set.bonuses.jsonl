@@ -1,0 +1,5 @@
+{"id":"01a05fdb-7c99-7d11-b24c-e3ce2370daea","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdb-7c99-7b8d-bd97-7c47ac463f86","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c99-7ade-a5ae-c2370b9a7e90","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c99-77a0-a26f-cb06c9f55c69","count":5,"status":"supported","description":"Adds 258 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":258}]}
+{"id":"01a05fdb-7c99-7cc8-ace4-279f09bdd2d1","count":5,"status":"unsupported","description":"When you kill an enemy, you fill an empty Soul Gem and heal for 6155 Health.\n\nThe heal can occur once every 10 seconds and scales off the higher of your Max Magicka or Stamina."}

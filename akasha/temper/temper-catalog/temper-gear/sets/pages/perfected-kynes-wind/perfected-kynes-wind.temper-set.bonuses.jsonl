@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c9b-72d8-8ace-49ff246a9a15","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdb-7c9b-7f6d-a5b3-b6ab2d67e336","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdb-7c9b-797f-a4da-46ae7f236240","count":4,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdb-7c9b-7d12-838a-76825de2a7ea","count":5,"status":"unsupported","description":"When you overheal yourself or a group member, you create a pool of Kyne's Blessing under the target for 4 seconds. You and group members standing in Kyne's Blessing restore 420 Stamina and Magicka every 1 second. This effect can occur once every 10 seconds."}

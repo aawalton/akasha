@@ -1,0 +1,4 @@
+{"id":"01a05fdb-7c98-7d8b-abf1-17a3c0354d4f","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c98-77d0-9ad6-886db13430c4","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c98-700e-b549-4f62025464f9","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdb-7c98-7546-97ee-6a00ccdde9e4","count":5,"status":"unsupported","description":"While you have a pet active, your Max Magicka is increased by 3132."}

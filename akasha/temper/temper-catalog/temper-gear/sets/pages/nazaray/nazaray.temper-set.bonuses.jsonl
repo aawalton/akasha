@@ -1,0 +1,2 @@
+{"id":"01a05fdb-7c98-777c-9fee-8e8215ff3454","count":1,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdb-7c98-7e8c-bef3-b7b0e87fcf08","count":2,"status":"unsupported","description":"When you use an Ultimate ability, the closest 6 enemies within 12 meters have all Major and Minor debuffs applied to them extended by 1 second per 20 Ultimate spent. This effect can occur once every 30 seconds per target."}

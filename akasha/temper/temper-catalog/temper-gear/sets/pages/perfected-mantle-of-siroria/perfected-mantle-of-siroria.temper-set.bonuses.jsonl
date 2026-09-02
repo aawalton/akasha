@@ -1,0 +1,5 @@
+{"id":"01a05fdb-7c9b-7a57-b51f-5cae5635cdef","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c9b-7d67-a224-8a58f9315fc4","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdb-7c9b-7d1f-92b4-abc631bfd938","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdb-7c9b-709c-b230-b812c0f99251","count":5,"status":"supported","description":"Adds 200 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":200}]}
+{"id":"01a05fdb-7c9b-7c17-94a3-336f78357909","count":5,"status":"unsupported","description":"Dealing damage with a Light or Heavy Attack creates a ring of fire beneath you for 8 seconds. This effect can occur once every 8 seconds. Every second spent standing in the ring increases your Weapon and Spell Damage by 44 for 5 seconds, stacking up to 10 times."}
