@@ -9,6 +9,10 @@ import type { Json } from "@akasha/utils-narrow/json-value"
 import { z } from "zod"
 import { resolveAccountPageId } from "../watcher-account-page/watcher-account-page.module.code.ts"
 import { log } from "../watcher-logging/watcher-logging.module.code.ts"
+import {
+  type SignedInReader,
+  userIdFor,
+} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 export const SALES_GLOBAL_NAME = "TemperSales_SavedVariables"
 
@@ -63,15 +67,6 @@ export interface SaleImportPlan {
 export type SalePageUpsert = typeof upsertPage
 
 export type ImportReport = (message: string) => void
-
-export interface SessionAnswer {
-  readonly data: { readonly user: { readonly id: string } | null }
-  readonly error: { readonly message: string } | null
-}
-
-export interface SalesSession {
-  readonly auth: { readonly getUser: () => Promise<SessionAnswer> }
-}
 
 export interface ImportSalesOptions {
   readonly userId?: string
@@ -141,29 +136,15 @@ export function salePageValues(userId: string, action: SaleUpsert): Record<strin
   }
 }
 
-export async function readUserId(
-  supabase: SalesSession,
-  stated: string | undefined
-): Promise<string> {
-  if (stated != null) return stated
-  const answer = await supabase.auth.getUser()
-  const user = answer.data.user
-  if (answer.error || !user) {
-    const detail = answer.error?.message ?? "the session carried no user"
-    throw new Error(`no signed-in user to write these sales under (${detail})`)
-  }
-  return user.id
-}
-
 export async function writeSaleImportPlan(
   plan: SaleImportPlan,
-  supabase: SalesSession,
+  supabase: SignedInReader,
   options: ImportSalesOptions = {}
 ): Promise<void> {
   if (plan.actions.length === 0) return
 
   const upsert = options.upsert ?? upsertPage
-  const userId = await readUserId(supabase, options.userId)
+  const userId = await userIdFor(supabase, options.userId, "import these sales")
 
   await resolveAccountPageId(userId, upsert)
 
@@ -182,7 +163,7 @@ export async function writeSaleImportPlan(
 
 export async function runImportSales(
   content: string,
-  supabase: SalesSession,
+  supabase: SignedInReader,
   options: ImportSalesOptions = {}
 ): Promise<void> {
   const plan = planSaleImport(content)

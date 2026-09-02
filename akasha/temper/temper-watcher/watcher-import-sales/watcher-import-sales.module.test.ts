@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
 import { asPage } from "@akasha/pages-core/page-types"
+import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   planSaleImport,
   runImportSales,
   type SaleImportPlan,
   type SalePageUpsert,
-  type SalesSession,
   type SaleUpsert,
   salePageValues,
   saleSlug,
@@ -80,11 +80,11 @@ const NO_DEFAULT = `TemperSales_SavedVariables = { ["Other"] = {} }`
 const NO_ACCOUNT_WIDE = `TemperSales_SavedVariables = { ["Default"] = { ["@alan"] = {} } }`
 const NO_SALES = `TemperSales_SavedVariables = { ["Default"] = { ["@alan"] = { ["$AccountWide"] = { ["version"] = 1 } } } }`
 
-const SIGNED_IN: SalesSession = {
+const SIGNED_IN: SignedInReader = {
   auth: { getUser: async () => ({ error: null, data: { user: { id: "user-1" } } }) },
 }
 
-const SIGNED_OUT: SalesSession = {
+const SIGNED_OUT: SignedInReader = {
   auth: { getUser: async () => ({ error: { message: "jwt expired" }, data: { user: null } }) },
 }
 
@@ -258,7 +258,7 @@ test("a session naming no user refuses the write and names the reason the sessio
     actions: [{ saleId: "one", itemName: "A", salePrice: 2, tax: 1, netPayout: 1 }],
   }
   await expect(writeSaleImportPlan(plan, SIGNED_OUT, { upsert })).rejects.toThrow(
-    "no signed-in user to write these sales under (jwt expired)"
+    "no signed-in user to import these sales (jwt expired)"
   )
   expect(calls).toEqual([])
 })

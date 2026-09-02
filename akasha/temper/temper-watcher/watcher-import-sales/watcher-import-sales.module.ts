@@ -58,10 +58,6 @@ export const watcherImportSales = {
     },
     {
       invariantKind: "departure",
-      statement: "The supabase session answers the user id where the caller names no user id.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The account page is written before the first sale is written.",
     },
     {
