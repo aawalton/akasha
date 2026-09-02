@@ -9,12 +9,6 @@ export const awenMigrateStoryEngineToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement:
-        "The story engine's code is in akasha rather than in `alanwalton/web` and `tools`.",
-      workingMemory:
-        "The reader is `@akasha/story-ui`, 30 modules at `akasha/story/ui`, and the web app carries none of it. The three tower packages are `@akasha/story-tower`, `-core` and `-engine` under `akasha/story/tower` as of `763dd57f6a`, still holding 0 tests. Left, all under `tools/`: `ops tower` at 6 commands, `tools/lib/tower-game-access.ts`, and two files reaching `@stories/text`. `write` lands only under `akasha/`, but `edit` and `remove` reach anywhere, so each is written in and then taken away.",
-    },
-    {
       statement: "Every world, story, chapter and turn the story engine keeps is a page in akasha.",
       workingMemory:
         "Not one byte of the data has moved. 34 folders under `pages/` hold 30,341 markdown and 10,497 `.jsonl`, 40,871 files, 55.5% of every page markdown in the repo. The mass is 10,469 `*.references.jsonl` carrying 126,962 rows, then 18,073 Royal Road chapters and 4,542 skills. What was played is small: 8 games, 139 turns, 149 worlds, 123 played chapters. Mechanics carry `world-slug` and stories carry `world`, two spellings of one join.",
