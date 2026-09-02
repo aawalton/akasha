@@ -20,4 +20,5 @@ export const corpseConsumption = {
   skillType: "passive",
   subcategoryId: "necromancer-living-death",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

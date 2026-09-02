@@ -20,4 +20,5 @@ export const deathGleaning = {
   skillType: "passive",
   subcategoryId: "necromancer-bone-tyrant",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

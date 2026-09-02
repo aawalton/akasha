@@ -19,4 +19,5 @@ export const curativeCurse = {
   skillType: "passive",
   subcategoryId: "necromancer-living-death",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

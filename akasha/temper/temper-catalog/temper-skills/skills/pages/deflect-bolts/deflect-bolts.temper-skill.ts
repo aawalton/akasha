@@ -20,4 +20,5 @@ export const deflectBolts = {
   skillType: "passive",
   subcategoryId: "weapon-one-hand-and-shield",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

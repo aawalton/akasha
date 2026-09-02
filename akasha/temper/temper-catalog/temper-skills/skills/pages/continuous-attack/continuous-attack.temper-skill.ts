@@ -20,4 +20,5 @@ export const continuousAttack = {
   skillType: "passive",
   subcategoryId: "alliance-war-assault",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill
