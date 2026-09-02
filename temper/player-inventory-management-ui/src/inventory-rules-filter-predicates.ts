@@ -5,11 +5,11 @@ import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
   type CategoryRule,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import {
   getCategoryDescendantIds,
   getNodePath,
-} from "@temper/game-items-rules-core/item-category-tree-utils"
+} from "@akasha/temper-items-rules-core/item-category-tree-utils"
 import { getActionLabel, SELL_ACTIONS } from "./action-options"
 
 const SELL_ACTION_VALUES: ReadonlySet<string> = SELL_ACTIONS
