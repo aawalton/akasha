@@ -21,6 +21,27 @@ export function claimedPages(types: readonly PageType[], repo: string, root: str
   return scanIn(root, places, repo).filter((relPath) => !isDirty(relPath))
 }
 
+const MARKDOWN = ".md"
+
+/**
+ * Why a claimed page is none this can read, or nothing where it is one.
+ *
+ * Every check here reads a markdown body: a frontmatter block, a shape of sections. A page type
+ * part way through the migration states a `.ts` place beside its `.md` one, and `claimant` claims
+ * a page of either kind, so `claimedPages` hands back both. Holding a TypeScript page to a markdown
+ * shape reports it as broken over nothing — `daily-tracking`'s 133 moved days each measured `# ` as
+ * a section outside their shape — and what does hold one to its shape is akasha's own page and
+ * folder checks. So it is set aside by name and counted rather than judged, and rather than dropped
+ * without a word, which is what a page of the wrong kind used to get here.
+ */
+export function unreadableHere(relPath: string, slug: string): string | null {
+  if (relPath.endsWith(MARKDOWN)) return null
+  return (
+    `${relPath} — \`${slug}\` claims it and it is no markdown page, so nothing here reads it; ` +
+    `akasha's own page and folder checks are what hold a TypeScript page to its shape`
+  )
+}
+
 export function emptyClaim(types: readonly PageType[], repo: string): string {
   const here = types.filter((one) => reposOf(one).includes(repo))
   if (types.length === 0)
@@ -50,6 +71,11 @@ export const pagesHoldShape: Check = (repo) => {
   for (const relPath of pages) {
     const type = claimant(relPath, types).type
     if (type === null) continue
+    const unreadable = unreadableHere(relPath, type.slug)
+    if (unreadable !== null) {
+      unjudgeable.push(unreadable)
+      continue
+    }
     const shape = shapes.get(type.relPath)!
     if (shape.compiled === null) {
       unjudgeable.push(`${relPath} — \`${type.slug}\` states no shape this can hold a body to: ${shape.why}`)

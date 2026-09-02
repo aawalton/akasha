@@ -11,8 +11,9 @@ import {
   placesIn,
   scanIn,
   soleRepoOf,
-  typeSuffixOf,
+  typeSlotOf,
 } from "../../page/page-types.ts"
+import { MARKDOWN } from "../../page/page-file.ts"
 import { fileStemOf as slugOf } from "@akasha/file-page-identity"
 import { type Roots } from "@akasha/pages-system/markdown-page-at"
 import { textAt } from "../../page/text/text.ts"
@@ -25,6 +26,21 @@ export interface Where {
   readonly path: string
 }
 
+/**
+ * Where a page of this type and name stands, or where a new markdown one would.
+ *
+ * Both halves of the question used to be the markdown half. `stands` asked `typeSuffixOf`, which
+ * answers the empty text for a `.ts` name, so it was false for every one of Alan's 133 moved days
+ * before the name was ever compared; `statesSlug` then read a frontmatter block a TypeScript page
+ * does not carry. Nothing was found, and the fallback built a name ending `.md` under a folder
+ * taken from the type's `.ts` place — `akasha/alan/daily-tracking/day-2026-03-05.daily-tracking.md`,
+ * a file that is not on disk and that nothing may write, since a page under `akasha/` lands through
+ * `akasha write` alone. Fourteen callers took that path for the day.
+ *
+ * So the fallback is built from the type's markdown places only, and a type stating none of them is
+ * refused rather than answered. A caller asking where to put a page this cannot place gets nothing
+ * and can say so; a caller asking where a landed page stands gets the page, of either kind.
+ */
 export function whereFor(
   roots: Roots,
   pageType: string,
@@ -39,8 +55,8 @@ export function whereFor(
   if (root === undefined) return null
   const stands = (one: string): boolean => {
     const last = one.split("/").at(-1) ?? one
-    if (typeSuffixOf(last) !== type.slug) return false
-    return last === `${name}.md` || slugOf(last) === name
+    if (typeSlotOf(last) !== type.slug) return false
+    return last === `${name}${MARKDOWN}` || slugOf(last) === name
   }
   const statesSlug = (one: string): boolean => {
     const text = textAt(root, one)
@@ -49,7 +65,10 @@ export function whereFor(
   const stated = placesIn(type, repo)
   const filed = scanIn(root, stated, repo)
   const held = filed.find(stands) ?? filed.find(statesSlug)
-  const dir = stated.map(folderIn).find((one) => one !== "") ?? placeDirOf(type.slug)
-  const relPath = held ?? `${dir}/${newPageNameFor(type, name)}`
+  if (held !== undefined) return { root, repo, relPath: held, path: join(root, held) }
+  const markdown = stated.filter((one) => one.endsWith(MARKDOWN))
+  if (markdown.length === 0) return null
+  const dir = markdown.map(folderIn).find((one) => one !== "") ?? placeDirOf(type.slug)
+  const relPath = `${dir}/${newPageNameFor(type, name)}`
   return { root, repo, relPath, path: join(root, relPath) }
 }

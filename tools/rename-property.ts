@@ -139,7 +139,17 @@ function main(): void {
   if (!unmoved && existsSync(`${root}/${destination}`))
     fail(`${destination} already exists — a move never overwrites`)
 
-  const carrying = carriersOf(roots, types, tree, cache, onType, old)
+  const { carrying, unread } = carriersOf(roots, types, tree, cache, onType, old)
+  if (unread.length > 0) {
+    fail(
+      `${unread.length} page(s) of \`${onType}\` are TypeScript pages, whose keys this call reads ` +
+        `nowhere and whose bodies it could not land in any case — a page under \`akasha/\` is ` +
+        `written by \`akasha write\` and not by the commit composed here. Renaming only the ` +
+        `markdown pages would leave every one of these on \`${old}\` while reporting the rename ` +
+        `done, so nothing was written:\n` +
+        first(unread.map((one) => `        ${one.repo}:${one.relPath}`)).join("\n")
+    )
+  }
   const away = carrying.filter((one) => one.repo !== DEFINING_REPO)
   if (away.length > 0) {
     fail(

@@ -191,6 +191,29 @@ export function collidingTypes(
   return [...new Set(clash)]
 }
 
+/**
+ * The pages carrying a key, and the pages of that type this cannot read at all.
+ *
+ * Only the first of those two used to come back. A page was scanned, claimed, read for a markdown
+ * frontmatter block, and skipped where the block was absent — and a TypeScript page never has one,
+ * so every page under `akasha/` was dropped exactly as a page carrying nothing is dropped. Since
+ * Alan's 133 days moved, `carriersOf(…, 'daily-tracking', 'safety-level')` answered no carrier at
+ * all and `page rename-property` rewrote nothing while reporting a count that reads as complete.
+ *
+ * They are now told apart. A page whose kind this reader cannot read is `unread` rather than
+ * absent, and the caller refuses on it rather than renaming the half it can see. Reading the keys
+ * a TypeScript page declares is a different act — the keys are camel and stand in an object literal
+ * rather than in frontmatter — and landing a change to one is a third, since a page under `akasha/`
+ * is written by `akasha write` and not by the commit this tool composes. Until both exist, the
+ * honest answer is that this cannot say, said out loud.
+ */
+export interface Carriers {
+  readonly carrying: readonly Carrier[]
+  readonly unread: readonly Carrier[]
+}
+
+const MARKDOWN = ".md"
+
 export function carriersOf(
   roots: Roots,
   types: readonly PageType[],
@@ -198,8 +221,9 @@ export function carriersOf(
   cache: Chains,
   onType: string,
   key: string
-): readonly Carrier[] {
+): Carriers {
   const found: Carrier[] = []
+  const unread: Carrier[] = []
   const seen = new Set<string>()
   for (const type of types) {
     for (const repo of reposOf(type)) {
@@ -219,13 +243,17 @@ export function carriersOf(
         if (claim.type === null) continue
         const chain = chainSlugs(claim.type, tree, cache)
         if (chain === null || !chain.includes(onType)) continue
+        if (!relPath.endsWith(MARKDOWN)) {
+          unread.push({ relPath, repo })
+          continue
+        }
         const { fm, why } = blockOf(text)
         if (why !== null || !fm.fields.has(key)) continue
         found.push({ relPath, repo })
       }
     }
   }
-  return found
+  return { carrying: found, unread }
 }
 
 export function bodiesUnder(dir: string): ReadonlyMap<string, string> {

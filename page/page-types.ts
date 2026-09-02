@@ -7,6 +7,7 @@ import { AKASHA, repos } from "@akasha/pages-system/checkout-roots"
 import { MARKDOWN, pageFileIn } from "./page-file.ts"
 import { fileStemOf as stemOf } from "@akasha/file-page-identity"
 import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 import { onceInCall } from "@akasha/command-system/during-call"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { blockOf, NONE, stringAt } from "./text/text.ts"
@@ -309,8 +310,36 @@ export type Claim =
   | { readonly slug: string; readonly type: PageType; readonly why: null }
   | { readonly slug: null; readonly type: null; readonly why: string }
 
+const AKASHA_HELD = "ts"
+
+/**
+ * The page type a file's name carries, on either side of the migration.
+ *
+ * A page is a markdown file named `<stem>.<page-type>.md` or a TypeScript file named
+ * `<slug>.<page-type>.ts`, and only the markdown half was ever asked here. `pageTypeOf` is that
+ * half and says so in its own name — its module page is `markdown-page-type`, "the page type a
+ * markdown file's name carries" — so the akasha half stands beside it rather than inside it.
+ *
+ * A `.ts` name carrying anything between the page type and `.ts` names a file standing beside a
+ * page rather than a page. `page-beside.module.code.ts` is the code of the `page-beside` module
+ * page, and `foo.test.ts` outside `akasha/` is no page at all, so this asks `partedIn` for a name
+ * with no sections rather than taking whatever the last section happens to be.
+ *
+ * What this cannot say is whether the type it names is a page type standing here: no set of types
+ * is handed to it. `claimant` below settles that against the types it is given, which is where
+ * `page-file-name` puts the same question — whether the page type slot names a page type is
+ * answered against the set handed in.
+ */
+export function typeSlotOf(relPath: string): string | null {
+  const said = pageTypeOf(relPath)
+  if (said !== null) return said
+  const parted = partedIn(relPath)
+  if (parted === null || parted.sections.length > 0 || parted.held !== AKASHA_HELD) return null
+  return parted.pageType
+}
+
 export function claimant(relPath: string, types: readonly PageType[]): Claim {
-  const kind = pageTypeOf(relPath)
+  const kind = typeSlotOf(relPath)
   if (kind === null)
     return { slug: null, type: null, why: `its name carries no page type, so no page type claims it` }
   const named = types.find((one) => one.slug === kind)
