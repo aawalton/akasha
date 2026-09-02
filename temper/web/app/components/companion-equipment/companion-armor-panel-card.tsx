@@ -2,17 +2,22 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { ItemCard } from "@akasha/design-patterns/item-card"
-import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
-import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import type { CompanionArmorSlotItem } from "@akasha/temper-companions-core/companion-types"
-import type { CompanionArmorWeight } from "@akasha/temper-companions-core/companion-armor-weights"
+import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
+import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import { EquipmentIcon } from "@akasha/temper-characters-equipment-ui/equipment-icon"
 import {
   type CompanionArmorSlotId,
   companionArmorSlots,
 } from "@akasha/temper-companions-core/companion-armor-slots"
+import type { CompanionArmorWeight } from "@akasha/temper-companions-core/companion-armor-weights"
 import { getCompanionArmorIcon } from "@akasha/temper-companions-core/companion-equipment-icons"
 import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
@@ -21,8 +26,12 @@ import {
   type CompanionTraitId,
   companionTraits,
 } from "@akasha/temper-companions-core/companion-traits"
-import { getQualityClassName, getQualityVariant } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
-import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import type { CompanionArmorSlotItem } from "@akasha/temper-companions-core/companion-types"
+import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
+import {
+  getQualityClassName,
+  getQualityVariant,
+} from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import { useMemo } from "react"
 import { BulkEditTag } from "./companion-bulk-edit-tag"
 import type { CompanionEquipmentPanelProps } from "./companion-equipment-panel-types"
