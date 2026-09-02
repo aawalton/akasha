@@ -38,6 +38,7 @@ export const temperAddonGenerators = {
     "module/temper-cadwell",
     "module/temper-character-role",
     "module/temper-character-skill-activation",
+    "module/temper-collectibles",
     "module/temper-companion-activation-buff",
     "module/temper-companion-armor-slot",
     "module/temper-companion-base-role",

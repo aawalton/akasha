@@ -34,6 +34,7 @@
     "./temper-cadwell": "./temper-cadwell/temper-cadwell.module.code.ts",
     "./temper-character-role": "./temper-character-role/temper-character-role.module.code.ts",
     "./temper-character-skill-activation": "./temper-character-skill-activation/temper-character-skill-activation.module.code.ts",
+    "./temper-collectibles": "./temper-collectibles/temper-collectibles.module.code.ts",
     "./temper-companion-activation-buff": "./temper-companion-activation-buff/temper-companion-activation-buff.module.code.ts",
     "./temper-companion-armor-slot": "./temper-companion-armor-slot/temper-companion-armor-slot.module.code.ts",
     "./temper-companion-base-role": "./temper-companion-base-role/temper-companion-base-role.module.code.ts",
