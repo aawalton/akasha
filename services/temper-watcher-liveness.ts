@@ -14,14 +14,13 @@ import {
 } from "../tools/lib/temper-watcher-liveness-decide.ts"
 import { parseLogLine } from "../tools/lib/temper-watcher-parse-log-line.ts"
 import { isUnitActive } from "../tools/lib/temper-watcher-systemd.ts"
+import { writeMessage } from "../tools/lib/message-file.ts"
 
 const HEALTHY_HEARTBEAT_MESSAGE = "Realtime health: SUBSCRIBED (healthy)"
 
 const STALENESS_THRESHOLD_MS = 600_000
 
 const COOLDOWN_MS = 60 * 60_000
-
-const ALERT_TIMEOUT_MS = 60_000
 
 const FATAL_LINE_PREFIX = "FATAL "
 
@@ -63,18 +62,6 @@ interface ProbeState {
 interface LogScan {
   readonly lastHealthyMs: number | null
   readonly lastFatalMs: number | null
-}
-
-async function run(cmd: readonly string[], timeoutMs: number): Promise<{ exitCode: number }> {
-  const proc = Bun.spawn([...cmd], { stdout: "pipe", stderr: "pipe", stdin: "ignore" })
-  let timedOut = false
-  const timer = setTimeout(() => {
-    timedOut = true
-    proc.kill()
-  }, timeoutMs)
-  const exitCode = await proc.exited
-  clearTimeout(timer)
-  return { exitCode: timedOut ? 124 : exitCode }
 }
 
 function scanLog(logDir: string): LogScan {
@@ -172,52 +159,95 @@ async function main(argv: readonly string[]): Promise<number> {
       ? "never"
       : `${Math.round(lastHealthyHeartbeatAgeMs / 1000)}s ago`
 
-  async function page(content: string): Promise<undefined> {
-    const primary = await run(
-      ["ops", "seat", "record", alertTo, "--from", alertFrom, "--content", content],
-      ALERT_TIMEOUT_MS
-    )
-    if (primary.exitCode !== 0) {
-      process.stderr.write(
-        `[liveness-probe] primary alert to ${alertTo} failed (exit ${primary.exitCode}); falling back to ${alertFallback}\n`
-      )
-      await run(
-        ["ops", "seat", "record", alertFallback, "--from", alertFrom, "--content", content],
-        ALERT_TIMEOUT_MS
-      )
-    }
-    return undefined
+  // BOTH RUNGS OF THIS LADDER WERE THE SAME MISSING COMMAND. The primary paged `ops seat record
+  // ember` and the fallback paged `ops seat record dalla`, and there is no `ops seat record` —
+  // `ops seat` carries boot, fleet restart, inbox, refresh-settings, reset, resume, start,
+  // subagents and turn-end, and never a `record`. So both rungs exited non-zero together on every
+  // tick, the fallback's exit code was not read at all, and `main` returned 0 regardless. A
+  // watcher outage reached nobody, and the unit reported success while it happened.
+  //
+  // A fallback that fails with its primary is not a fallback, so the rungs are unlike each other
+  // now:
+  //
+  // 1 and 2 write the message file directly with `writeMessage`, the mailbox `ops seat inbox`
+  //   drains. Two recipients cover a fault in one recipient's directory, but they share a writer,
+  //   so they are one rung's worth of independence, not two.
+  // 3 is the rung that shares nothing with them: this process exits non-zero and the unit goes
+  //   red. It needs no git, no store and no mailbox. `services/audits-watchdog.ts:52` records
+  //   that Alan asked for nothing to be pushed to his phone and that the unit going red is the
+  //   whole signal, so this is the sanctioned alarm rather than a consolation.
+  function deliver(to: string, content: string): string | null {
+    const written = writeMessage({ to, from: alertFrom, warrant: "blocked", body: content })
+    return written.kind === "written" ? null : written.detail
   }
 
+  function page(content: string): boolean {
+    const primary = deliver(alertTo, content)
+    if (primary === null) return true
+    process.stderr.write(
+      `[liveness-probe] alert to ${alertTo} did not land (${primary}); trying ${alertFallback}\n`
+    )
+    const fallback = deliver(alertFallback, content)
+    if (fallback === null) return true
+    process.stderr.write(
+      `[liveness-probe] alert to ${alertFallback} did not land either (${fallback}); ` +
+        `no message reached anyone, so this tick exits non-zero and the unit is the alarm\n`
+    )
+    return false
+  }
+
+  let owed = 0
+  let landed = 0
+  let livenessSent = false
+  let crashSent = false
+
   if (alert.page) {
-    await page(
+    owed += 1
+    livenessSent = page(
       `temper-watcher liveness: ${decision.reason.toUpperCase()} — the from-source watcher (temper-watcher.service) ` +
         `is not importing (last healthy realtime heartbeat ${ageLabel}, systemd unit ${unitActive ? "active" : "inactive"}). ` +
         `Game→web completion/task sync is halted. Fix: \`systemctl --user reset-failed temper-watcher.service && ` +
         `systemctl --user restart temper-watcher.service\`, then confirm \`ops temper watcher status\`.`
     )
+    if (livenessSent) landed += 1
   }
 
   if (crashAlert.page && lastFatalMs !== null) {
-    await page(
+    owed += 1
+    crashSent = page(
       `temper-watcher CRASHED — the watcher logged a fatal exit at ${new Date(lastFatalMs).toISOString()} ` +
         `and was restarted. This does NOT show up as a liveness outage: the restart is sub-second and the healthy ` +
         `heartbeat resumes within seconds, so the staleness threshold never trips. Read the stack: ` +
         `\`grep -a -A20 "FATAL" ${join(logDir, "watcher.log")}\`.`
     )
+    if (crashSent) landed += 1
   }
 
+  // A COOLDOWN STAMP IS A RECORD THAT SOMEONE WAS TOLD. This wrote `alert.nextAlertedAtMs`
+  // whatever became of the page, so a page that reached nobody still opened the hour of quiet
+  // that follows one that did — the debounce kept the alarm from retrying an alert it had never
+  // delivered. Found in the live state file on 2026-09-02: `alertedAtMs` held a stamp from within
+  // the hour while every page it stood for had failed on a command that does not exist.
+  //
+  // The stamp now moves only where the message landed. An undelivered page leaves the prior stamp
+  // where it was, so the next tick tries again rather than resting on it.
+  // Only a page that was owed and did not land holds the stamp back. A healthy tick still clears
+  // it to null, so the next outage is said at once rather than an hour after it begins.
   writeState(statePath, {
-    alertedAtMs: alert.nextAlertedAtMs,
-    fatalAlertedAtMs: crashAlert.nextFatalAlertedAtMs,
+    alertedAtMs: alert.page && !livenessSent ? priorState.alertedAtMs : alert.nextAlertedAtMs,
+    fatalAlertedAtMs:
+      crashAlert.page && !crashSent ? priorState.fatalAlertedAtMs : crashAlert.nextFatalAlertedAtMs,
   })
 
+  // `paged` said whether a page was DECIDED, never whether one arrived, so the line would read
+  // `paged=true` for a page that reached nobody. It now counts what landed against what was owed,
+  // and the tick exits non-zero where those differ.
   process.stdout.write(
     `temper-watcher liveness: ${decision.reason} (healthy=${decision.healthy}, last-healthy-heartbeat=${ageLabel}, ` +
-      `unit=${unitActive ? "active" : "inactive"}, paged=${alert.page}, ` +
+      `unit=${unitActive ? "active" : "inactive"}, pages-owed=${owed}, pages-landed=${landed}, ` +
       `last-fatal=${lastFatalMs === null ? "none" : new Date(lastFatalMs).toISOString()}, crash-paged=${crashAlert.page})\n`
   )
-  return 0
+  return landed === owed ? 0 : 1
 }
 
 if (import.meta.main) process.exit(await main(process.argv.slice(2)))
