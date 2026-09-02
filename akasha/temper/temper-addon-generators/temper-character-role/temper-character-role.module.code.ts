@@ -1,5 +1,6 @@
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { rankOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const CHARACTER_ROLE_EAV_SCHEMA = z
   .object({
@@ -29,14 +30,10 @@ const KEY_RANK: Record<string, number> = {
   solo: 5,
 }
 
-function rankOf(key: string): number {
-  return KEY_RANK[key] ?? Number.MAX_SAFE_INTEGER
-}
-
 export function generateTemperCharacterRole(roleRows: readonly Page[]): string {
   const roles = roleRows.map(parseRole)
   const sorted = [...roles].sort((a, b) => {
-    const rankDelta = rankOf(a.key) - rankOf(b.key)
+    const rankDelta = rankOf(a.key, KEY_RANK) - rankOf(b.key, KEY_RANK)
     if (rankDelta !== 0) return rankDelta
     return a.key.localeCompare(b.key)
   })

@@ -15,6 +15,7 @@ export const temperAddonGenerators = {
     "module/metric-tree",
     "module/parse-restore-metrics-from-ability-text",
     "module/quality",
+    "module/rank-by-key",
     "module/render-buff-effect-entry",
     "module/render-metric-effect",
     "module/render-quality-values",

@@ -11,6 +11,7 @@
     "./metric-tree": "./metric-tree/metric-tree.module.code.ts",
     "./parse-restore-metrics-from-ability-text": "./parse-restore-metrics-from-ability-text/parse-restore-metrics-from-ability-text.module.code.ts",
     "./quality": "./quality/quality.module.code.ts",
+    "./rank-by-key": "./rank-by-key/rank-by-key.module.code.ts",
     "./render-buff-effect-entry": "./render-buff-effect-entry/render-buff-effect-entry.module.code.ts",
     "./render-metric-effect": "./render-metric-effect/render-metric-effect.module.code.ts",
     "./render-quality-values": "./render-quality-values/render-quality-values.module.code.ts",
