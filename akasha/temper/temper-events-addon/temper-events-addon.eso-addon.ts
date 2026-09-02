@@ -27,6 +27,7 @@ export const temperEventsAddon = {
     "module/next-boss-state",
     "module/next-boss-timers",
     "module/next-boss-ui-strings",
+    "type-declaration/events-addon-declarations",
     "type-declaration/next-boss-declarations",
   ],
   interfaceSlugs: ["next-boss-layout"],
