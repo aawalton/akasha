@@ -1,0 +1,16 @@
+{
+  "name": "@akasha/temper-trading-listings",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./browse-listings": "./browse-listings/browse-listings.module.code.ts",
+    "./browse-state": "./browse-state/browse-state.module.code.ts",
+    "./listing-entry-schema": "./listing-entry-schema/listing-entry-schema.module.code.ts",
+    "./listing-types": "./listing-types/listing-types.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-capture-host": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

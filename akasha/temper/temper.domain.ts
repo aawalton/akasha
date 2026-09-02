@@ -72,6 +72,7 @@ export const temper = {
     "workspace-package/temper-build-support",
     "workspace-package/temper-trading-pricing-client",
     "workspace-package/temper-hud-components",
+    "workspace-package/temper-trading-listings",
   ],
   invariants: [
     {
