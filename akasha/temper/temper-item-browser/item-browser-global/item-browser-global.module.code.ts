@@ -40,12 +40,6 @@ function rowOnMouseUp(this: void, ...args: unknown[]): undefined {
   return undefined
 }
 
-declare global {
-  var ItemBrowserListRow_OnMouseEnter: ((this: void, control: Control) => void) | undefined
-  var ItemBrowserListRow_OnMouseExit: ((this: void, control: Control) => void) | undefined
-  var ItemBrowserListRow_OnMouseUp: ((this: void, ...args: unknown[]) => void) | undefined
-}
-
 globalThis.ItemBrowserListRow_OnMouseEnter = rowOnMouseEnter
 globalThis.ItemBrowserListRow_OnMouseExit = rowOnMouseExit
 globalThis.ItemBrowserListRow_OnMouseUp = rowOnMouseUp

@@ -30,6 +30,7 @@ export const temperItemBrowser = {
     "module/item-browser-tab",
     "module/item-browser-settings",
     "module/item-browser-start",
+    "type-declaration/item-browser-global-declarations",
   ],
   invariants: [
     {

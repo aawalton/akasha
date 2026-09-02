@@ -24,7 +24,8 @@
     "./tooltip-hooks": "./item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.code.ts",
     "./types": "./item-browser-types/item-browser-types.module.code.ts",
     "./ui-strings": "./item-browser-ui-strings/item-browser-ui-strings.module.code.ts",
-    "./zone-classification": "./item-browser-zone-classification/item-browser-zone-classification.module.code.ts"
+    "./zone-classification": "./item-browser-zone-classification/item-browser-zone-classification.module.code.ts",
+    "./global-declarations": "./item-browser-global-declarations/item-browser-global-declarations.type-declaration.d.ts"
   },
   "dependencies": {
     "@akasha/temper-addon-library-types": "workspace:*",
