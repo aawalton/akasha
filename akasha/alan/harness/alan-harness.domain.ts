@@ -106,6 +106,10 @@ export const alanHarness = {
       invariantKind: "departure",
       statement: "Alan's code editor status line shows Claude usage and both readout groups.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Nothing reads a readout through the markdown engine.",
+    },
   ],
   directives: [
     {

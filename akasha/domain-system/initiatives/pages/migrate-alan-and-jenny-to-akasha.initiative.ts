@@ -9,11 +9,6 @@ export const migrateAlanAndJennyToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "Nothing reads a readout through the markdown engine.",
-      workingMemory:
-        "`ask-through` gone (`cdda094f0e`). `tracking-modules.ts:35` clear at `36fcc93bef`: `@akasha/personas-core/green-day-fraction` reads a persona's own figure and refuses one stating none, so the 10000 bar never came across. LAST REACH `session-pages.ts` is a DELETION, not a design: akasha already reads a day's sessions beside its wake-day page, and `pages/daily-tracking/` is empty. Repoint `active-calories.ts` to `loadActiveCaloriesByDay`. `65ad02a9dc` blocks deleting the tree.",
-    },
-    {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
         "First piece landed (`2abf58d75d`), but it made a SECOND empty package, not a conversion: the source manifest is the editor's own with 14 commands; the akasha one is a 6-line stub. Merge it in BEFORE repointing any symlink, or the editor loses 14 commands while `editor-extension-single` reads green through that link. 11 symlinks now, not 10. Three files reach `akasha/editor-extension` by relative path, bypassing `exports: {}`. 82/77/1, `.server` zero and the seven `@tools/lib` reaches hold.",
