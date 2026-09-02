@@ -47,7 +47,6 @@
     "shared/pages-ui",
     "shared/utils-test",
     "smilingjenny/web",
-    "stories/text",
     "temper/catalog-addon",
     "temper/player-completion",
     "temper/player-economics-ui",
