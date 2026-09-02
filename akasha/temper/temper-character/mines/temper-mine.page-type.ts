@@ -54,7 +54,6 @@ export const temperMine = {
     "text-property/flavor-text",
     "text-property/set-name",
     "text-property/trait-description",
-    "text-property/zone-name",
   ],
   properties: [
     { pagePropertySlug: "items", required: false, many: false },

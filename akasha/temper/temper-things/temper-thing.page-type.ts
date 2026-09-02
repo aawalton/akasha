@@ -45,6 +45,7 @@ export const temperThing = {
     "text-property/key",
     "text-property/parent",
     "text-property/title",
+    "text-property/zone-name",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

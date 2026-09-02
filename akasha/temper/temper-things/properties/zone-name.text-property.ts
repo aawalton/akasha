@@ -7,7 +7,7 @@ export const zoneName = {
   pageTypeSlug: "text-property",
   slug: "zone-name",
   propertySlug: "zone-name",
-  definition: "what the zone a quest is given in is called",
+  definition: "what a zone is called",
   max: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -32,7 +32,6 @@ export const temperWorldZone = {
     "page-property-entry/zone-quests",
     "text-property/activity-name",
     "text-property/completion-type-label",
-    "text-property/poi-name",
     "text-property/poi-type-label",
     "text-property/quest-name",
   ],
