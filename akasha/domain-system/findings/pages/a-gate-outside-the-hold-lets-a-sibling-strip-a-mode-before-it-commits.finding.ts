@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aGateOutsideTheHoldLetsASiblingStripAModeBeforeItCommits = {
+  id: "01a062ed-716f-7863-9623-28767404df5b",
+  pageTypeSlug: "finding",
+  slug: "a-gate-outside-the-hold-lets-a-sibling-strip-a-mode-before-it-commits",
+  domainSlug: "workspace-package/command-system",
+  claim:
+    "A mode a landing means to commit is stripped before it commits. `landing` judges outside the hold, `judged()` at :260 and `holding()` at :269, so across a gate of minutes a sibling's `restore-akasha-when-dirty` runs `git checkout HEAD -- akasha` and puts the file back at the mode HEAD holds before `committed` reads it off disk. The landing then answers `nothing was committed — what was asked for already stands`, which reads as success. Every executable file anyone lands meets this.",
+  evidence:
+    "Measured 2026-09-02 at 51d2fb1fb5 and the commits around it.\n\nWatched with no akasha command running at all. `chmod 755` on `akasha/alan/music/spotify/auth-cli/spotify-auth-cli.module.code.ts`, then one stat a second for two minutes: the bit was gone at t=2s, was 777 at t=12s where a sibling's `bun install` put it, and was gone again at t=15s. HEAD read 100644 the whole time, so nothing landed in that window and what moved the file was the hook putting it back.\n\nThe first landing met exactly this. `akasha write` answered `wrote ...`, then `40 checks judged the 1 path asked for, and none refused`, then `nothing was committed — what was asked for already stands`, with HEAD and the git index both still 100644. `committed` had read a file a sibling had already put back to 644. Nothing in that answer says a mode was dropped.\n\nIt is the gate window rather than the hold. `restore-akasha-when-dirty` takes the same hold and waits five seconds for it, so a landing that has the hold is left alone. `judged()` runs before the hold is taken, and that gate carries the typecheck and runs for minutes.\n\nThe file landed only once the bit was held across the window, by running `chmod 755` every 200ms for the length of the call. That is something a seat has to know to do rather than anything the command offers.\n\n`writeFileSync` is not the cause. Measured on its own: writing an existing file leaves that file's mode alone.\n\nThe mend is for `akasha write` to carry the mode and for `landing` to set it after it writes, rather than for `committed` to read a disk the landing does not yet hold. That changes the path every command lands through, so it is Alan's call.",
+} as const satisfies Finding
