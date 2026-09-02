@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's and Jenny's iOS apps ship to TestFlight from an akasha command.",
       workingMemory:
-        "Build 199 of Alan's app is uploaded: Apple answered UPLOAD SUCCEEDED, both binaries stamped `160c4d98e3`, the counter now 199. `akasha deploy {slug}` dispatches on kind at `0f87959daf`, and at `9b20ee92e9` refuses a commit `origin/main` does not carry. The old `alanwalton/mobile-cli` is gone at `c77988e105`, and `cut-status` was repaired from a silent exit 70. Nothing files a fingerprint yet, so `cut-status` reads stale. Alan's call: an iOS deploy takes the commit it is told.",
+        "Alan's call is met at `0d286cc9f0` and `2942fd7816`: `deploy-testflight` resolves `--ref` to one commit before anything is built and hands that commit to both the www worktree and the mac checkout, refusing only a ref naming no commit or a commit no origin ref reaches, since the mac builds by fetching origin. Build 199 is uploaded, stamped `160c4d98e3`, counter at 199. `akasha deploy {slug}` dispatches on kind at `0f87959daf`. Nothing files a fingerprint yet, so `cut-status` reads stale.",
     },
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
