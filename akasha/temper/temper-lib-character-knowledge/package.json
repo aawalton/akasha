@@ -21,6 +21,15 @@
     "./knowledge-strings-fr": "./knowledge-strings-fr/knowledge-strings-fr.module.code.ts",
     "./knowledge-strings-ru": "./knowledge-strings-ru/knowledge-strings-ru.module.code.ts",
     "./knowledge-strings-zh": "./knowledge-strings-zh/knowledge-strings-zh.module.code.ts",
-    "./knowledge-register-strings": "./knowledge-register-strings/knowledge-register-strings.module.code.ts"
+    "./knowledge-register-strings": "./knowledge-register-strings/knowledge-register-strings.module.code.ts",
+    "./knowledge-state": "./knowledge-state/knowledge-state.module.code.ts",
+    "./knowledge-lookups": "./knowledge-lookups/knowledge-lookups.module.code.ts",
+    "./knowledge-core": "./knowledge-core/knowledge-core.module.code.ts",
+    "./knowledge-item-knowledge": "./knowledge-item-knowledge/knowledge-item-knowledge.module.code.ts",
+    "./knowledge-motif": "./knowledge-motif/knowledge-motif.module.code.ts",
+    "./knowledge-scan": "./knowledge-scan/knowledge-scan.module.code.ts",
+    "./knowledge-scribing": "./knowledge-scribing/knowledge-scribing.module.code.ts",
+    "./knowledge-research": "./knowledge-research/knowledge-research.module.code.ts",
+    "./knowledge-research-get": "./knowledge-research-get/knowledge-research-get.module.code.ts"
   }
 }

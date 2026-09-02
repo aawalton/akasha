@@ -24,6 +24,15 @@ export const temperLibCharacterKnowledge = {
     "module/knowledge-strings-ru",
     "module/knowledge-strings-zh",
     "module/knowledge-register-strings",
+    "module/knowledge-state",
+    "module/knowledge-lookups",
+    "module/knowledge-core",
+    "module/knowledge-item-knowledge",
+    "module/knowledge-motif",
+    "module/knowledge-scan",
+    "module/knowledge-scribing",
+    "module/knowledge-research",
+    "module/knowledge-research-get",
   ],
   invariants: [
     {
