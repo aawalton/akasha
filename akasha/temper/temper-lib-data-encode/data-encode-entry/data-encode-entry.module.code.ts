@@ -1,11 +1,6 @@
 import { LIB_NAME } from "../data-encode-charset/data-encode-charset.module.code.ts"
 import { performSelfTest } from "../data-encode-self-test/data-encode-self-test.module.code.ts"
 import { DATA_ENCODE } from "../data-encode-surface/data-encode-surface.module.code.ts"
-import type { LibSurface } from "../data-encode-types/data-encode-types.module.code.ts"
-
-declare global {
-  var LibDataEncode: LibSurface
-}
 
 globalThis.LibDataEncode = DATA_ENCODE
 

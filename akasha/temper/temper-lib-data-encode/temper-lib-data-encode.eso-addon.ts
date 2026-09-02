@@ -19,6 +19,7 @@ export const temperLibDataEncode = {
     "module/data-encode-casts",
     "module/data-encode-types",
     "module/data-encode-entry",
+    "type-declaration/data-encode-entry-declarations",
   ],
   invariants: [
     {
