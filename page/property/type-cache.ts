@@ -1,11 +1,16 @@
 import { createHash } from "node:crypto"
 import { existsSync, mkdirSync, readFileSync, statSync } from "node:fs"
-import { gitCapped } from "../../repo/git/git.ts"
 import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
-import type { Property } from "./property.ts"
+import { gitCapped } from "../../repo/git/git.ts"
 import type { FileTree } from "../file-tree.ts"
+import {
+  folderIn,
+  PAGE_PROPERTY_TYPE_GLOB,
+  PAGE_TYPE_GLOBS,
+  PROPERTY_GLOBS,
+} from "../page-types.ts"
 import { RUNTIME_MARK } from "../runtime/runtime.ts"
-import { folderIn, PAGE_PROPERTY_TYPE_GLOB, PAGE_TYPE_GLOBS, PROPERTY_GLOBS } from "../page-types.ts"
+import type { Property } from "./property.ts"
 
 const VERSION = 5
 
@@ -18,10 +23,10 @@ export const CODE_AT: readonly string[] = [
   "akasha/file-system/answer-mark",
   "akasha/file-system/exclusive",
   "akasha/pages-system/checkout-roots",
-  "akasha/pages-system/page/markdown-document",
-  "akasha/pages-system/page/markdown-page-at",
-  "akasha/pages-system/page/markdown-page-name",
-  "akasha/pages-system/page/markdown-page-type",
+  "akasha/pages-system/pages/markdown-document",
+  "akasha/pages-system/pages/markdown-page-at",
+  "akasha/pages-system/pages/markdown-page-name",
+  "akasha/pages-system/pages/markdown-page-type",
   "akasha/pages-system/repo-path",
   "akasha/utils-fs/atomic-write",
   "akasha/utils-fs/missing",
@@ -30,11 +35,18 @@ export const CODE_AT: readonly string[] = [
   "repo",
 ]
 
-export const ANSWER_SEEDS: readonly string[] = ["page/property/frontmatter.ts", "page/property/type-cache.ts"]
+export const ANSWER_SEEDS: readonly string[] = [
+  "page/property/frontmatter.ts",
+  "page/property/type-cache.ts",
+]
 
 const IGNORE_AT = ".gitignore"
 
-const INPUT_GLOBS: readonly string[] = [...PROPERTY_GLOBS, PAGE_PROPERTY_TYPE_GLOB, ...PAGE_TYPE_GLOBS]
+const INPUT_GLOBS: readonly string[] = [
+  ...PROPERTY_GLOBS,
+  PAGE_PROPERTY_TYPE_GLOB,
+  ...PAGE_TYPE_GLOBS,
+]
 
 const NOT_LOADED = ":(exclude,glob)**/*.d.ts"
 
@@ -81,7 +93,9 @@ function recordedFor(root: string, named: readonly string[]): readonly string[] 
 }
 
 function looseIn(root: string, code: readonly string[]): readonly string[] {
-  const globs = [...new Set(INPUT_GLOBS)].sort().filter((one) => existsSync(`${root}/${folderIn(one)}`))
+  const globs = [...new Set(INPUT_GLOBS)]
+    .sort()
+    .filter((one) => existsSync(`${root}/${folderIn(one)}`))
   return [...globs.map((one) => `:(glob)${one}`), ...code, NOT_LOADED]
 }
 
@@ -142,7 +156,9 @@ export function keyFor(tree: FileTree, chain: readonly string[]): string | null 
     if (oid === undefined) return null
     named.push(`${at}:${oid}`)
   }
-  return createHash("sha256").update(`${ground.base}\n${named.join("\n")}`).digest("hex")
+  return createHash("sha256")
+    .update(`${ground.base}\n${named.join("\n")}`)
+    .digest("hex")
 }
 
 function cacheIn(root: string, slug: string): string | null {
@@ -176,7 +192,10 @@ export function keepAnswer(root: string, slug: string, key: string, answer: Answ
   if (dir === null) return
   try {
     mkdirSync(dir, { recursive: true })
-    writeFileAtomicSync(`${dir}/${key}.json`, `${JSON.stringify({ version: VERSION, key, answer })}\n`)
+    writeFileAtomicSync(
+      `${dir}/${key}.json`,
+      `${JSON.stringify({ version: VERSION, key, answer })}\n`
+    )
   } catch {
     return
   }

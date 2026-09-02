@@ -1,11 +1,11 @@
 import { createHash } from "node:crypto"
 import { existsSync } from "node:fs"
-import { gitCapped } from "../../repo/git/git.ts"
 import { AKASHA, akashaRoot, repos } from "@akasha/pages-system/checkout-roots"
-import type { FileTree } from "../file-tree.ts"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { RUNTIME_MARK } from "../runtime/runtime.ts"
+import { gitCapped } from "../../repo/git/git.ts"
+import type { FileTree } from "../file-tree.ts"
 import { folderIn, PAGE_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../page-types.ts"
+import { RUNTIME_MARK } from "../runtime/runtime.ts"
 
 export const CODE_DIRS: readonly string[] = [
   "akasha/code-system/shape-progress",
@@ -14,10 +14,10 @@ export const CODE_DIRS: readonly string[] = [
   "akasha/file-system/answer-mark",
   "akasha/file-system/exclusive",
   "akasha/pages-system/checkout-roots",
-  "akasha/pages-system/page/markdown-document",
-  "akasha/pages-system/page/markdown-page-at",
-  "akasha/pages-system/page/markdown-page-name",
-  "akasha/pages-system/page/markdown-page-type",
+  "akasha/pages-system/pages/markdown-document",
+  "akasha/pages-system/pages/markdown-page-at",
+  "akasha/pages-system/pages/markdown-page-name",
+  "akasha/pages-system/pages/markdown-page-type",
   "akasha/pages-system/repo-path",
   "akasha/utils-fs/atomic-write",
   "akasha/utils-fs/missing",
@@ -114,7 +114,8 @@ function repoParts(
   repo: string,
   root: string
 ): { readonly parts: readonly string[]; readonly blobs: ReadonlyMap<string, string> } | null {
-  if (gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...PAGE_SHAPE_NAMED]).code !== 0) return null
+  if (gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...PAGE_SHAPE_NAMED]).code !== 0)
+    return null
   const blobs = blobsNamed(root)
   if (blobs === null) return null
   const parts = [...blobs.keys()].sort().map((at) => `${repo}/${at}:${blobs.get(at)}`)
@@ -180,5 +181,7 @@ export function typeMarkOf(tree: FileTree, relPaths: readonly string[]): string 
     if (oid === undefined) return null
     named.push(`${at}:${oid}`)
   }
-  return createHash("sha256").update(`${ground.base}\n${named.join("\n")}`).digest("hex")
+  return createHash("sha256")
+    .update(`${ground.base}\n${named.join("\n")}`)
+    .digest("hex")
 }

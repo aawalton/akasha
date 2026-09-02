@@ -1,5 +1,5 @@
 import type { Domain } from "@akasha/domain-system/domain"
-import type { PageType } from "../page-type/page-type.page-type.ts"
+import type { PageType } from "../page-types/page-type.page-type.ts"
 import type { AfterChecks } from "./properties/after-checks.boolean-property.ts"
 
 export type GeneratorKind = Domain & {

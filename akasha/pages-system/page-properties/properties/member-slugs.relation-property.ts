@@ -1,4 +1,4 @@
-import type { PagePropertySlug } from "../../page-type/properties/page-property-slug.relation-property.ts"
+import type { PagePropertySlug } from "../../page-types/properties/page-property-slug.relation-property.ts"
 import type { RelationProperty } from "../../relation-properties/relation-property.page-type.ts"
 import type { List } from "../page-property.page-type.ts"
 

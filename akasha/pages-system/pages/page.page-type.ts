@@ -1,4 +1,4 @@
-import type { PageType } from "../page-type/page-type.page-type.ts"
+import type { PageType } from "../page-types/page-type.page-type.ts"
 import type { Cover } from "./properties/cover.text-property.ts"
 import type { Id } from "./properties/id.text-property.ts"
 import type { PageTypeSlug } from "./properties/page-type-slug.relation-property.ts"

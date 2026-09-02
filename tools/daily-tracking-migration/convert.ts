@@ -76,7 +76,7 @@ export function refused(outcome: Outcome): outcome is Refusal {
 /**
  * A slug becomes an export name by dropping each `-` and raising what follows.
  *
- * This is `exportedAs` in `akasha/pages-system/page/export-name/page-export-name.module.code.ts`,
+ * This is `exportedAs` in `akasha/pages-system/pages/export-name/page-export-name.module.code.ts`,
  * restated rather than imported so this file stays a value-to-value function with no package behind
  * it. The test holds both against each other.
  */

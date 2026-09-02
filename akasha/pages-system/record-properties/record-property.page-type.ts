@@ -1,6 +1,6 @@
 import type { PageProperty } from "../page-properties/page-property.page-type.ts"
-import type { PageType } from "../page-type/page-type.page-type.ts"
-import type { Properties } from "../page-type/properties/properties.record-property.ts"
+import type { PageType } from "../page-types/page-type.page-type.ts"
+import type { Properties } from "../page-types/properties/properties.record-property.ts"
 
 export type RecordProperty = PageProperty & {
   properties: Properties

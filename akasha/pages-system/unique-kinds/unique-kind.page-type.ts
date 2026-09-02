@@ -1,5 +1,5 @@
 import type { Domain } from "@akasha/domain-system/domain"
-import type { PageType } from "../page-type/page-type.page-type.ts"
+import type { PageType } from "../page-types/page-type.page-type.ts"
 
 export type UniqueKind = Domain
 
