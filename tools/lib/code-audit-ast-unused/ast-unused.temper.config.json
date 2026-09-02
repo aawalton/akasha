@@ -16,14 +16,6 @@
         "**/*.ts"
       ]
     },
-    "temper/player-completion-addon": {
-      "entry": [
-        "src/**/*.ts!"
-      ],
-      "project": [
-        "**/*.ts!"
-      ]
-    },
     "temper/player-completion-ui": {
       "entry": [],
       "project": [

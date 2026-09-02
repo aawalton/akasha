@@ -1,26 +1,25 @@
 #!/usr/bin/env bun
 
-import { refuseRetired } from "../lib/retired.ts"
-
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import ts from "typescript"
 import { CHECK_EXEMPT_DIRS } from "../../../../repo/scope/scope.ts"
-import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
 import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
 import { getRepoRoot } from "../lib/repo-root.ts"
+import { refuseRetired } from "../lib/retired.ts"
 import {
   type NormalizedFinding,
   type SyntaxScannerEntry,
   scriptKindFor,
 } from "../lib/syntax-scanner-entry.ts"
+import { listTsFiles } from "../lib/ts-file-iteration.ts"
 import {
   scanTimezoneViolations,
   type TimezoneRule,
   type TimezoneViolation,
 } from "../lib/ts-timezone-violations.ts"
-import { listTsFiles } from "../lib/ts-file-iteration.ts"
-import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 if (import.meta.main) refuseRetired()
 const PREFIX = "[timezone-handling]"
@@ -30,7 +29,6 @@ const TIMEZONE_SUCCESS_MESSAGE =
 
 const ALLOWLISTED_HELPERS: ReadonlySet<string> = new Set([
   "tools/lib/tracking/mountain-times.ts",
-  "temper/player-completion-addon/src/tracking/daily-writs.ts",
   "akasha/temper/temper-dungeons/eso-reset/eso-reset.module.code.ts",
 ])
 
