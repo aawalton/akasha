@@ -15,6 +15,11 @@ import { Button } from "@akasha/design-primitives/button"
 import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
+import {
+  isAccountMeasured,
+  isCharacterMeasured,
+  isCompanionMeasured,
+} from "@akasha/temper-player-completion/completion-measured"
 import { CompletionActivityModeContext } from "@akasha/temper-player-completion-ui/completion-activity-mode-context"
 import type {
   CompletionFilter,
@@ -26,11 +31,6 @@ import {
   activityCategories,
 } from "@temper/player-completion/activity-category-data"
 import { getTabForCard } from "@temper/player-completion/completion-card-registry"
-import {
-  isAccountMeasured,
-  isCharacterMeasured,
-  isCompanionMeasured,
-} from "@temper/player-completion/completion-measured"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 import { CompletionAccountTab } from "@/components/completion/completion-account-tab"
