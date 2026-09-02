@@ -1,0 +1,19 @@
+import type { Module } from "../../../code-system/module/module.page-type.ts"
+
+export const setsData037 = {
+  id: "01a061a3-0132-73ba-aae8-ddc168efdb67",
+  pageTypeSlug: "module",
+  slug: "sets-data-037",
+  definition: "part 037 of the gear set table, grave-guardian through green-pact",
+  code: "ts",
+  invariants: [
+    {
+      invariantKind: "constraint",
+      statement: "The sets are named here in the order the gathered table answers its ids in.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A set moved to another place breaks every build hash saved.",
+    },
+  ],
+} as const satisfies Module
