@@ -17,28 +17,37 @@ export function hookKeybindingListCallbacks(
   hideCallbackName: string
 ): undefined {
   const dataType = ZO_ScrollList_GetDataTypeTable(ZO_KeybindingsList, typeId)
+  if (dataType === undefined) return undefined
   const setupCallbackOriginal = dataType.setupCallback
   const hideCallbackOriginal = dataType.hideCallback
 
   dataType.setupCallback = function (
     this: void,
-    control: object,
-    data: object,
-    list: object
+    control: Control,
+    data: InventoryRowSlotData,
+    list?: Control
   ): undefined {
-    setupCallbackOriginal(control, data, list)
+    if (setupCallbackOriginal !== undefined) setupCallbackOriginal(control, data, list)
     CALLBACK_MANAGER.FireCallbacks(setupCallbackName, control, data)
     return undefined
   }
 
   if (hideCallbackOriginal !== undefined) {
-    dataType.hideCallback = function (this: void, control: object, data: object): undefined {
+    dataType.hideCallback = function (
+      this: void,
+      control: Control,
+      data: InventoryRowSlotData
+    ): undefined {
       hideCallbackOriginal(control, data)
       CALLBACK_MANAGER.FireCallbacks(hideCallbackName, control, data)
       return undefined
     }
   } else {
-    dataType.hideCallback = function (this: void, control: object, data: object): undefined {
+    dataType.hideCallback = function (
+      this: void,
+      control: Control,
+      data: InventoryRowSlotData
+    ): undefined {
       CALLBACK_MANAGER.FireCallbacks(hideCallbackName, control, data)
       return undefined
     }

@@ -4,7 +4,12 @@ interface InventoryRowSlotData {
 }
 
 interface ZoScrollListDataType {
-  setupCallback?: (this: void, rowControl: Control, slotData: InventoryRowSlotData) => void
+  setupCallback?: (
+    this: void,
+    rowControl: Control,
+    slotData: InventoryRowSlotData,
+    list?: Control
+  ) => void
 }
 
 interface ZoScrollListControl extends Control {

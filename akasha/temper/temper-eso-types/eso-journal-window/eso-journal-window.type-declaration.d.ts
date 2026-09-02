@@ -44,9 +44,9 @@ interface Scene {
 }
 
 interface MainMenuKeyboard {
-  categoryBar?: Control
+  categoryBar: Control
   categoryBarFragment?: SceneFragment
-  lastCategory?: number
+  lastCategory: number
 }
 
 interface KeybindStripObject {
@@ -73,7 +73,7 @@ interface ZoSortFilterListClass {
 declare const ZO_MenuBar_SelectFirstVisibleButton: (
   this: void,
   menuBar: Control,
-  blockCallback: boolean
+  blockCallback?: boolean
 ) => void
 
 interface ZoComboBox {

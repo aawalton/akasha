@@ -61,12 +61,6 @@ declare global {
 
   const SI_SLASH_DUEL_INVITE: number
 
-  const SI_SLASH_LOGOUT: number
-
-  const SI_SLASH_CAMP: number
-
-  const SI_SLASH_QUIT: number
-
   const SI_SLASH_FPS: number
 
   const SI_SLASH_LATENCY: number

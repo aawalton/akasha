@@ -3,10 +3,10 @@ declare const ZO_ScrollList_Initialize: (this: void, listControl: Control) => vo
 declare const ZO_ScrollList_AddResizeOnScreenResize: (this: void, listControl: Control) => void
 
 interface ZoScrollListDataType {
-  hideCallback?: unknown
+  hideCallback?: (this: void, rowControl: Control, slotData: InventoryRowSlotData) => void
 }
 
-declare const ZO_ObjectPool_DefaultResetControl: unknown
+declare const ZO_ObjectPool_DefaultResetControl: (this: void, control: Control) => void
 
 interface ZoControlPool<TControl extends Control = Control> {
   SetCustomFactoryBehavior: (

@@ -1,10 +1,6 @@
 export {}
 
 declare global {
-  interface ZoFadeSceneFragmentClass {
-    New: (this: unknown, control: Control) => SceneFragment
-  }
-
   const MENU_CATEGORY_INVENTORY: number
 
   const MENU_CATEGORY_MARKET: number
@@ -12,8 +8,6 @@ declare global {
   const CreateTopLevelWindow: <T extends TopLevelWindow = TopLevelWindow>(name: string) => T
 
   const ZO_CONTRAST_TEXT: ZoColorDef
-
-  const ZO_FadeSceneFragment: ZoFadeSceneFragmentClass
 
   const ZO_MenuBar_ClearButtons: (menuBar: Control) => undefined
 
@@ -23,11 +17,6 @@ declare global {
     menuBar: Control,
     descriptor: number | string | undefined
   ) => Control | undefined
-
-  const ZO_MenuBar_SelectFirstVisibleButton: (
-    menuBar: Control,
-    skipAnimation?: boolean
-  ) => undefined
 
   const ZO_MenuBar_SetDescriptorEnabled: (
     menuBar: Control,

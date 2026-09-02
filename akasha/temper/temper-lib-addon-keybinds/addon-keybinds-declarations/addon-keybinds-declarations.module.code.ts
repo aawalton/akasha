@@ -26,11 +26,6 @@ declare global {
     list: KeybindingsSortFilterList
   }
 
-  interface ScrollListDataType {
-    setupCallback: (this: void, control: object, data: object, list: object) => undefined
-    hideCallback?: (this: void, control: object, data: object) => undefined
-  }
-
   const KEYBOARD_KEYBINDING_MANAGER: KeybindingManager | undefined
 
   const KEYBINDING_MANAGER: KeybindingManager | undefined
@@ -40,13 +35,7 @@ declare global {
     panelNames: Record<number, string>
   }
 
-  const ZO_KeybindingsList: object
-
-  const ZO_ScrollList_GetDataTypeTable: (
-    this: void,
-    list: object,
-    typeId: number
-  ) => ScrollListDataType
+  const ZO_KeybindingsList: Control
 
   const ZO_GameMenu_AddControlsPanel: (
     this: void,
@@ -63,13 +52,6 @@ declare global {
   }
 
   const KEYBINDINGS_FRAGMENT: SceneFragment
-
-  const SafeAddString: (
-    this: void,
-    stringId: number,
-    text: string,
-    numOptionalArgs?: number
-  ) => undefined
 
   const SI_GAME_MENU_KEYBINDINGS: number
 

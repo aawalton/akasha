@@ -33,7 +33,7 @@ function initStationButton(): undefined {
   SecurePostHook(
     ALCHEMY,
     "SetMode",
-    function (this: void, self: AlchemyStation, mode: AlchemyDescriptor): undefined {
+    function (this: void, self: AlchemyStationObject, mode: AlchemyDescriptor): undefined {
       hideOtherTabs(mode)
       const tabData = ALCHEMY_STATION.tabs[mode]
       if (tabData !== undefined) {

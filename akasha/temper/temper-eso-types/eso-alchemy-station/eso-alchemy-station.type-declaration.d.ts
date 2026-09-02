@@ -89,12 +89,16 @@ declare function ZO_ItemIconTooltip_OnAddGameData(this: void, ...args: unknown[]
 
 declare function ZO_Loading_Initialize(this: void, control: Control, text: string): undefined
 
-interface AlchemyStationModeBar {
+interface AlchemyStationModeBar extends Control {
   m_object: Record<string, unknown>
 }
 
 interface AlchemyStationObject {
+  mode: number | string
   modeBar: AlchemyStationModeBar
+  modeBarLabel: LabelControl
+  control: Control
+  SetMode: (this: AlchemyStationObject, mode: number | string) => undefined
 }
 
 declare const ALCHEMY: AlchemyStationObject
@@ -130,7 +134,7 @@ interface WindowSoundFragmentFactory {
 declare const ZO_WindowSoundFragment: WindowSoundFragmentFactory
 
 interface FadeSceneFragmentFactory {
-  New: (control: Control, alwaysAnimate: boolean, duration: number) => SceneFragment
+  New: (control: Control, alwaysAnimate?: boolean, duration?: number) => SceneFragment
 }
 
 declare const ZO_FadeSceneFragment: FadeSceneFragmentFactory
