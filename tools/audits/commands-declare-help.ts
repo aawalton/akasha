@@ -8,6 +8,7 @@ const NAME = "commands-declare-help"
 
 export const commandsDeclareHelp: AsyncCheck = async (repo) => {
   const { verbs, unreadable } = await commandSurface()
+  const root = rootFor(repo.roots, AKASHA)
 
   if (unreadable.length > 0) {
     return {
@@ -18,7 +19,7 @@ export const commandsDeclareHelp: AsyncCheck = async (repo) => {
           refusalText(
             "command-help-surface-unread",
             { count: String(unreadable.length), detail: unreadable.slice(0, 5).join("; ") },
-            rootFor(repo.roots, AKASHA)
+            root
           ),
         ]
       ),
@@ -26,23 +27,47 @@ export const commandsDeclareHelp: AsyncCheck = async (repo) => {
     }
   }
 
+  // What is tested is where the help lives: the document's Help section, because
+  // `old-ops-command.page-type.md` says every command's help belongs in its own document. What is
+  // printed used to be about what the reader sees, and those are not the same thing.
+  // `renderCommandHelp` at `tools/ops/render.ts` reads `cmd.document?.help ?? help.description`, so
+  // a command declaring a description in code renders that description and the old message called it
+  // silent. Eleven of the fourteen this first refused were rendering prose the whole time; one of
+  // them was 1641 characters.
+  //
+  // So the code's description is read too, and only to decide which of two refusals to print. A
+  // command with one needs its prose moved; a command without one needs its prose written. Those
+  // are minutes and hours, and a caller cannot tell them apart from a count.
   const messages: string[] = []
+  let inCode = 0
   for (const verb of verbs) {
     if (verb.source === null) continue
     if ((verb.document?.help ?? "").trim() !== "") continue
+    const described = (verb.help.description ?? "").trim()
+    if (described === "") {
+      messages.push(
+        refusalText("command-help-no-description", { command: verb.command, source: verb.source }, root)
+      )
+      continue
+    }
+    inCode += 1
     messages.push(
       refusalText(
-        "command-help-no-description",
-        { command: verb.command, source: verb.source ?? "unknown" },
-        rootFor(repo.roots, AKASHA)
+        "command-help-declared-in-code",
+        { command: verb.command, source: verb.source, length: String(described.length) },
+        root
       )
     )
   }
 
+  const split =
+    messages.length === 0
+      ? ""
+      : `, ${inCode} of them declaring one in code instead and ${messages.length - inCode} declaring none anywhere`
   return {
     ...judge(
       NAME,
-      `${verbs.length} command(s) read, ${messages.length} whose document holds no Help section`,
+      `${verbs.length} command(s) read, ${messages.length} whose document holds no Help section${split}`,
       messages
     ),
     population: over(verbs.length, "command read for its help"),

@@ -7,7 +7,7 @@ import { mobilityTrend } from "@collections/exercises/tracking/digest-model"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { MOBILITY_METRIC_OPTIONS } from "../../lib/exercise-vocabularies.ts"
-import { askExercisePages } from "./ask-pages.ts"
+import { askExercisePages } from "../../lib/exercise-ask-pages.ts"
 
 export const help: CommandHelp = {
   flags: [

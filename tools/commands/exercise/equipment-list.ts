@@ -4,7 +4,7 @@ export const summary = "List equipment items (--all includes proposed/unavailabl
 import { displayTitle, fieldBool, fieldStr } from "@collections/exercises/cli/fields"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { askExercisePages } from "./ask-pages.ts"
+import { askExercisePages } from "../../lib/exercise-ask-pages.ts"
 
 export const help: CommandHelp = {
   flags: [

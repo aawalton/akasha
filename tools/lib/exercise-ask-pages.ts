@@ -5,10 +5,16 @@ import {
   type PagesRead,
   pageOfRow,
 } from "@collections/exercises/pages/access"
-import { askComposed } from "../../lib/page-query-client.ts"
+import { askComposed } from "./page-query-client.ts"
 
 /**
  * The exercise package's queries, asked of the checkout rather than of the remote index.
+ *
+ * This is a library module, and it lives here because of that. It sat under
+ * `tools/commands/exercise/` until 2026-09-02, where `declaredCommands` makes a command of every
+ * `.ts` file, so `ops exercise ask-pages` was listed among the 311 and dispatching it exited 70 on
+ * `.default is not a function`. It exports one helper and no default, and three sibling commands
+ * take that helper.
  *
  * `getPages` in that package binds the same queries to `@shared/pages-query/ask`, whose store holds
  * no page type in this family: `workout-schedule`, `exercise`, `equipment-item`,

@@ -6,7 +6,7 @@ import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { CONSTRAINT_FOCUS_OPTIONS } from "../../lib/exercise-vocabularies.ts"
-import { askExercisePages } from "./ask-pages.ts"
+import { askExercisePages } from "../../lib/exercise-ask-pages.ts"
 
 export const help: CommandHelp = {
   flags: [
