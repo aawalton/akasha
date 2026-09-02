@@ -4,6 +4,7 @@ import {
   buildKeepaliveEmitter,
   DEFAULT_DOWNSTREAM_KEEPALIVE_MS,
   KEEPALIVE_COMMENT_BYTES,
+  type KeepaliveEmitter,
   type KeepaliveTimers,
 } from "./keepalive.ts"
 import type { ObserverSlot } from "./observer-slot.ts"
@@ -96,6 +97,12 @@ export function buildCommittedKeepaliveResponse(args: {
   let closed = false
   let disconnected = false
   let activeReader: ReadableStreamDefaultReader<Uint8Array> | null = null
+  // THE EMITTER IS REACHED FROM `cancel` RATHER THAN FROM `start` ALONE. A cancel sets `closed`
+  // before `finishComplete` runs, so `finishComplete` returns at its first line and the `stop()`
+  // inside it is never reached; and `fire()` re-arms itself for as long as `stopped` is false.
+  // Held open that way, one disconnected client leaves a timer firing every 3500ms for the life of
+  // the process, its closure holding that request's whole body.
+  let heartbeatHandle: KeepaliveEmitter | null = null
 
   const stream = new ReadableStream<Uint8Array>({
     start(controller) {
@@ -112,6 +119,7 @@ export function buildCommittedKeepaliveResponse(args: {
         () => safeEnqueue(KEEPALIVE_COMMENT_BYTES),
         args.timers
       )
+      heartbeatHandle = heartbeat
 
       const finishComplete = (): undefined => {
         if (closed) return
@@ -191,6 +199,7 @@ export function buildCommittedKeepaliveResponse(args: {
     cancel(): undefined {
       disconnected = true
       closed = true
+      heartbeatHandle?.stop()
       const endMs = Date.now()
       void activeReader?.cancel().catch(() => {})
       committedObserver.onDownstreamCancel?.("committed_cancel", endMs)
