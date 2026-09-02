@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "NOT a move but a remodelling of 7844 lines. `akasha/editor-extension/src/` CANNOT EXIST: `file-has-its-page` refuses any akasha path the index does not list, proven by control. Real job: 77 module pages plus partSlugs, 653 comment lines out, 5 classes, every import rewritten. TWO BLOCKERS FIRST: `generated/vscode.d.ts` is 746912 bytes against a 15000 ceiling, and `tsconfig.json` has no akasha page type. Never repoint a symlink before code lands, or 14 commands vanish and the audit skips green.",
+        "NOT a move but a remodelling of 7844 lines: `file-has-its-page` refuses any akasha path the index does not list, so `src/` cannot exist. 77 module pages plus partSlugs, 653 comment lines out, 5 classes, every import rewritten. Both blockers answered (`db949e8a99`): tsconfig DISSOLVED, akasha packages need none; `vscode.d.ts` STAYS OUTSIDE akasha, being a private fork's surface no published package matches, and chunking breaks promote.sh's byte compare. Never repoint a symlink before code lands.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
