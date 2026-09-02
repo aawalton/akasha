@@ -2,7 +2,7 @@
 
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback } from "react"
-import { startInteraction } from "../perf/page-card-perf"
+import { startInteraction } from "@akasha/pages-ui/perf/page-card-perf"
 
 type SetProperty = (args: {
   pageTypeSlug: PageTypeSlug

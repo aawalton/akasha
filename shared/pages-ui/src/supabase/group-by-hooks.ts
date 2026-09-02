@@ -11,7 +11,7 @@ import { applyGranularityBucket } from "@akasha/pages-core/view/group-granularit
 import { useMemo } from "react"
 import { adjustTotalForClientFilters, applyClientViewFilters } from "@akasha/pages-ui/supabase/apply-client-view-filters"
 import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { type UsePagesSupabaseOptions, usePagesSupabase } from "./use-pages.tsx"
+import { type UsePagesSupabaseOptions, usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
 import { viewFilterToCondition } from "@akasha/pages-ui/supabase/view-filter-to-condition"
 
 interface GroupByArgs {

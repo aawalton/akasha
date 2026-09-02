@@ -6,7 +6,7 @@ import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value
 import { Plus, X } from "lucide-react"
 import { useMemo, useState } from "react"
 import type { PageResolverValue } from "@akasha/pages-ui/contexts/page-resolver-context"
-import { useRelationPicker } from "../contexts/relation-picker"
+import { useRelationPicker } from "@akasha/pages-ui/contexts/relation-picker-context"
 
 const SEARCH_DEBOUNCE_MS = 200
 

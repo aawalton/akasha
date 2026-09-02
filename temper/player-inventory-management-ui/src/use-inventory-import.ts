@@ -7,7 +7,7 @@ import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticCreatePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticDeletePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"
-import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
+import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
 import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
 import { computeInventoryTotalValue } from "@temper/game-items-core/inventory-value"
 import {

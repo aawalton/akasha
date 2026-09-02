@@ -7,7 +7,7 @@ import {
   type RelationPickerArgs,
   RelationPickerProvider,
   type RelationPickerResult,
-} from "../contexts/relation-picker"
+} from "@akasha/pages-ui/contexts/relation-picker-context"
 import { buildPageResolver } from "../view-engine/build-page-resolver"
 import { usePaginatedRelationPicker } from "./relation-picker"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"

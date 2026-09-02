@@ -10,13 +10,13 @@ import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { ReactNode } from "react"
 import type { MediaVariant } from "../media/page-media-player"
 import { useAllPages } from "../supabase/hooks"
-import { usePage } from "../supabase/use-page"
+import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { useRecordPageView } from "@akasha/pages-ui/supabase/use-record-page-view"
 import { PageCollectionContent } from "./page-collection-content"
 import { PageDefaultContent } from "./page-default-content"
 import { PAGE_TYPE_SLUG, selectDetailBody } from "@akasha/pages-ui/components/page-detail-content-helpers"
 import { PageReaderContent } from "./page-reader-content"
-import { type ReaderNeighborLink } from "./reader-chrome"
+import { type ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
 
 interface PageDetailContentProps {
   pageTypeSlug: PageTypeSlug

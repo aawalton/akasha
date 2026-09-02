@@ -5,7 +5,7 @@ import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"
-import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
+import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import {

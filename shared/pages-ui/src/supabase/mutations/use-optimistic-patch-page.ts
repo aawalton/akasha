@@ -1,7 +1,7 @@
 import type { PatchPageArgs } from "@akasha/pages-access/patch"
 import type { Page } from "@akasha/pages-core/page-types"
 import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
-import type { InteractionToken } from "../../perf/page-card-perf.ts"
+import type { InteractionToken } from "@akasha/pages-ui/perf/page-card-perf"
 import { runOptimisticMutation } from "./apply-prediction.ts"
 import { buildOverlay, buildPatchPlan } from "@akasha/pages-ui/supabase/mutations/build-patch-plan"
 import { extractTargetIds } from "@akasha/pages-ui/supabase/mutations/extract-target-ids"

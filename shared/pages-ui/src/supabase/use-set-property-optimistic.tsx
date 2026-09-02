@@ -3,7 +3,7 @@
 import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"
 import { isJson } from "@akasha/utils-narrow/is-json"
 import { useCallback, useMemo } from "react"
-import type { InteractionToken } from "../perf/page-card-perf"
+import type { InteractionToken } from "@akasha/pages-ui/perf/page-card-perf"
 import { useOptimisticPatchPage } from "./mutations/use-optimistic-patch-page"
 
 interface SetPropertyArgs {

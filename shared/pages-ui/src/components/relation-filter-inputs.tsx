@@ -5,7 +5,7 @@ import { SearchMultiSelect, type SearchMultiSelectItem } from "@akasha/design-fo
 import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import { useMemo, useState } from "react"
 import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
-import { useRelationPicker } from "../contexts/relation-picker"
+import { useRelationPicker } from "@akasha/pages-ui/contexts/relation-picker-context"
 import type { FilterOperator } from "@akasha/pages-core/property-types/types"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"

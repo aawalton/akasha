@@ -6,7 +6,7 @@ import {
   recordPglitePersisted,
   recordRoundTripSettled,
   recordVisibleUpdate,
-} from "../../perf/page-card-perf"
+} from "@akasha/pages-ui/perf/page-card-perf"
 
 export async function runOptimisticMutation<Result>(args: {
   readonly plans: readonly PagesMutationPlan[]

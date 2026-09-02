@@ -5,7 +5,7 @@ import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useOptimisticDeletePage } from "../supabase/mutations/use-optimistic-delete-page"
 import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
-import { PageActionsMenu } from "./page-actions-menu"
+import { PageActionsMenu } from "@akasha/pages-ui/components/page-actions-menu"
 
 interface PageDetailHeaderMenuProps {
   pageTypeSlug: PageTypeSlug

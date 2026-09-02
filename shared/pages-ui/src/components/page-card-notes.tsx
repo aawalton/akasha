@@ -7,7 +7,7 @@ import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { BlockEditor } from "../block-editor/block-editor.tsx"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { MarkdownPropertyBadge } from "../property-types/markdown.tsx"
-import { usePage } from "../supabase/use-page.ts"
+import { usePage } from "@akasha/pages-ui/supabase/use-page"
 
 interface PageCardNotesProps {
   pageId: string

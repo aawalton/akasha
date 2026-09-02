@@ -10,7 +10,7 @@ import {
   OPEN_QUESTION_STATUS,
   QUESTION_PAGE_TYPE_SLUG,
 } from "@akasha/open-questions/question-status"
-import { usePage } from "@shared/pages-ui/supabase/use-page"
+import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { type FormEvent, useState } from "react"

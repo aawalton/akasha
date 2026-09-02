@@ -6,7 +6,7 @@ import { type Page } from "@akasha/pages-core/page-types"
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useEffect, useRef, useState } from "react"
-import type { ReaderNeighborLink } from "../components/reader-chrome"
+import type { ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
 
 interface ReaderNeighbors {
   prev: ReaderNeighborLink | null

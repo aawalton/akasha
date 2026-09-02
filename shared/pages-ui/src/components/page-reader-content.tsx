@@ -23,7 +23,7 @@ import {
   resolveResumeFraction,
 } from "@akasha/pages-ui/components/position-fraction"
 import { ReaderAudioBlock } from "./reader-audio-block"
-import { type ReaderNeighborLink, ReaderPager, ReadingProgressBar } from "./reader-chrome"
+import { type ReaderNeighborLink, ReaderPager, ReadingProgressBar } from "@akasha/pages-ui/components/reader-chrome"
 import { useReaderPageSource } from "./reader-page-source"
 import { ReaderProseBody, ReaderProseStatic } from "./reader-prose-body"
 import { layoutSentenceSpans } from "@akasha/pages-ui/components/reader-sentence-layout"

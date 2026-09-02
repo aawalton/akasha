@@ -14,7 +14,7 @@ import { horizontalListSortingStrategy, SortableContext, useSortable } from "@dn
 import { Table, TableHead, TableHeader, TableRow } from "@akasha/design-primitives/table"
 import { cn } from "@akasha/design-primitives/cn"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
-import { PageTableColGroup } from "./page-table-colgroup"
+import { PageTableColGroup } from "@akasha/pages-ui/components/page-table-colgroup"
 import {
   applyColumnDrop,
   type ColumnDropZone,
