@@ -119,6 +119,9 @@
     },
     {
       "path": "./readouts"
+    },
+    {
+      "path": "./tools"
     }
   ],
   "files": []

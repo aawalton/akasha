@@ -6,6 +6,6 @@
     "types": ["@types/bun"]
   },
   "include": ["**/*.ts"],
-  "exclude": ["node_modules", "dist", "**/*.uncommitted.ts"],
+  "exclude": ["node_modules", "dist", "cand/**", "**/*.uncommitted.ts"],
   "references": [{ "path": "../lua-compiler" }]
 }
