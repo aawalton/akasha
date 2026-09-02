@@ -13,6 +13,12 @@ export const temperWeb = {
   partSlugs: [
     "stylesheet/temper-web-look",
     "module/addons-bundle-dir",
+    "module/answer-ask",
+    "module/answer-page-types",
+    "module/answer-page-write",
+    "module/answer-pages",
+    "module/mined-item-rows",
+    "module/nav-icon-svg",
     "module/served-watcher-version",
     "module/supabase-service-client",
     "module/tab-defaults",
