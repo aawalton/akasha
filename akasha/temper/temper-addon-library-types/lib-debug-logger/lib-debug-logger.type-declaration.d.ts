@@ -8,6 +8,7 @@ interface DebugLogger {
 }
 
 interface LibDebugLogger {
+  (this: void, tag: string): DebugLogger
   Create: (tag: string) => DebugLogger
   LOG_LEVEL_VERBOSE: string
   LOG_LEVEL_DEBUG: string
