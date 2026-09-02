@@ -1,20 +1,31 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { LayoutLink } from "@akasha/design-layout/router-context"
-import { Button } from "@akasha/design-primitives/button"
-import { Card, CardContent } from "@akasha/design-primitives/card"
 import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
-import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "@akasha/design-patterns/empty"
 import { FilterButton } from "@akasha/design-patterns/filter-button"
 import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { SortButton } from "@akasha/design-patterns/sort-button"
 import { TabsContent } from "@akasha/design-patterns/tabs"
-import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
+import { Button } from "@akasha/design-primitives/button"
+import { Card, CardContent } from "@akasha/design-primitives/card"
+import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
+import type { AccountSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
 import { Globe } from "lucide-react"
 import { useState } from "react"
 import {
@@ -23,7 +34,6 @@ import {
   isFilterId,
 } from "@/components/completion/completion-account-tab/account-filters"
 import { AccountPanelGrid } from "@/components/completion/completion-account-tab/account-panel-grid"
-import type { AccountSummaryData } from "@temper/player-completion/completion-card-registry"
 import type { AccountProgressData } from "@/components/completion/completion-progress/account-progress"
 import { useCompletionToolbar } from "@/components/completion/completion-toolbar-context"
 
