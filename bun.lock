@@ -1030,6 +1030,7 @@
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
         "@akasha/temper-characters-capture-addon": "workspace:*",
+        "@akasha/temper-companions-addon": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-player-completion": "workspace:*",
