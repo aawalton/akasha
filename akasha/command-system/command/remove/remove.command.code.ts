@@ -24,6 +24,12 @@ import {
   pathAt,
 } from "../write/write.command.code.ts"
 import { leftNaming, leftNamingSaid } from "./remove-naming/remove-naming.module.code.ts"
+import type { Span } from "./remove-workspacing/remove-workspacing.module.code.ts"
+import {
+  listEntrySpan,
+  workspacingFor,
+  workspacingSaid,
+} from "./remove-workspacing/remove-workspacing.module.code.ts"
 
 const AKASHA = "akasha"
 
@@ -216,24 +222,6 @@ export function namingFor(value: Value, known: Shaped, id: string): readonly Nam
   return found
 }
 
-type Span = { readonly start: number; readonly end: number }
-
-function elementSpan(text: string, node: ts.Node): Span {
-  const start = node.getFullStart()
-  let end = node.getEnd()
-  let at = end
-  while (at < text.length) {
-    const here = text[at]
-    if (here === ",") {
-      end = at + 1
-      break
-    }
-    if (here !== " " && here !== "\t" && here !== "\r" && here !== "\n") break
-    at = at + 1
-  }
-  return { start, end }
-}
-
 export type Unnamed = { readonly body: string; readonly left: readonly string[] }
 
 export function unnamed(path: string, text: string, dropping: ReadonlySet<string>): Unnamed {
@@ -244,7 +232,7 @@ export function unnamed(path: string, text: string, dropping: ReadonlySet<string
     if (ts.isStringLiteral(node) && dropping.has(node.text)) {
       const held: ts.Node | undefined = node.parent
       if (held !== undefined && ts.isArrayLiteralExpression(held)) {
-        spans.push(elementSpan(text, node))
+        spans.push(listEntrySpan(text, node))
       } else {
         left.push(node.text)
       }
@@ -403,7 +391,8 @@ export function remove(argv: readonly string[], given: Given): Answer {
   const paths = [...held.opened, ...beside].sort()
   const gone = [...held.gone].sort()
   const already = alreadyGone(gone, read.dryRun)
-  const naming = leftNaming(root, baseOf(root), held.outside, new Set([...paths, ...gone]))
+  const base = baseOf(root)
+  const naming = leftNaming(root, base, held.outside, new Set([...paths, ...gone]))
   if ("refusal" in naming) return answering([], [naming.refusal], 1)
   if (paths.length === 0) {
     if (!read.dryRun) dropReadings(root, gone)
@@ -419,9 +408,11 @@ export function remove(argv: readonly string[], given: Given): Answer {
     )
   }
   const mend = unnamingFor(root, paths)
+  const spread = workspacingFor(root, base, new Set(paths))
   const changes: readonly FileEdit[] = [
     ...paths.map((path) => ({ path, body: null })),
     ...mend.edits,
+    ...spread.edits,
   ]
   const asked: Asked = {
     changes,
@@ -437,6 +428,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
       ...leftNamingSaid(held.outside, naming, false),
       ...mend.closed,
       ...mend.left,
+      ...workspacingSaid(spread, false),
     ],
   }
   const said = landingAsked({ ...given, root }, asked)
@@ -448,6 +440,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
       ...already,
       ...mend.closed.map((one) => `${one} — and would land in the same commit`),
       ...mend.left,
+      ...workspacingSaid(spread, true),
       ...judgedByNothing(held.outside, true),
       ...leftNamingSaid(held.outside, naming, true),
       ...said.report,

@@ -9,7 +9,7 @@ export const remove = {
   test: "ts",
   testFixtures: "ts",
   changeKindSlug: "change-mechanical",
-  partSlugs: ["module/remove-naming"],
+  partSlugs: ["module/remove-naming", "module/remove-workspacing"],
   taking: [
     { said: "--file-path <path>", takes: "a path anywhere in the repository to take away" },
     { said: "--message <text>", takes: "what the commit is for" },
@@ -27,6 +27,7 @@ export const remove = {
     "a name held on its own rather than as a list entry is reported and left alone.",
     "a name in code rather than in a page property is neither found nor reported.",
     "what a tracked file left behind still names is reported, and nothing here repoints it.",
+    "the root manifest stops naming a workspace this empties, and the lockfile is made again.",
   ],
   invariants: [
     {
@@ -100,7 +101,25 @@ export const remove = {
     },
     {
       invariantKind: "absence",
-      statement: "A file naming what goes is left as that file is.",
+      statement: "A file other than the root manifest naming what goes is left as that file is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root manifest stops naming a workspace the removal empties.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A workspace is emptied where the removal takes the manifest naming that workspace.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The lockfile is made again beside the manifest and lands in the same commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A lockfile that could not be made leaves the root manifest untouched and says so.",
     },
     {
       invariantKind: "departure",
