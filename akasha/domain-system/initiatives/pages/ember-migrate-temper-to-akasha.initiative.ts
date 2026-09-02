@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "`09f964f5c5` is a pure deletion of 2,271 test files and 279,625 lines repo-wide: the tree went from 2,533 tests to 262 and holds 578 now. Its message describes ablating task pages and the diff holds none of that. It hit all 3 remaining packages — player-completion 37, scripts 27, web 13. No ablation may rest on twin-against-legacy parity until those are recovered. Player-completion recovery is in flight.",
+        "Temper outside akasha is 3 packages and 502 files: web 360, player-completion 85, scripts 57. The legacy `pages/temper-*` tree is fully mirrored — 5,557 markdown against 5,557 landed pages, 97 of 99 directories matching exactly — and is held rather than ablated, because two rulings conflict and a live capture path still writes there. Test recovery from `09f964f5c5` is done for scripts and for web, and 26 of 37 for player-completion.",
     },
   ],
   constraints: [
