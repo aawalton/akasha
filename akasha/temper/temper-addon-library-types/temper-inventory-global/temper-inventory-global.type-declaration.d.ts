@@ -14,8 +14,13 @@ interface TemperInventoryAutomation {
   companions: Record<string, TemperInventoryCompanionAutomation>
 }
 
+interface TemperInventoryBackpack {
+  bufferSlots?: number
+}
+
 interface TemperInventorySavedVariables {
   automation?: TemperInventoryAutomation
+  backpack?: TemperInventoryBackpack
 }
 
 interface TemperInventoryActionSummary {
