@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aDirectoryRemovalPassesItsDryRunAndFailsOnLanding = {
+  id: "01a063c4-9d20-7000-b451-2c7fa6e39d18",
+  pageTypeSlug: "finding",
+  slug: "a-directory-removal-passes-its-dry-run-and-fails-on-landing",
+  domainSlug: "domain/akasha",
+  claim:
+    "`akasha edit --remove <directory>` passes its dry-run and then fails on landing with `EISDIR`. The defect matters less than what it says about the dry-run: harvesting read debt by piping a write's `--dry-run` is the loop every seat on this initiative runs, and this is a case where a clean dry-run does not predict the landing. `akasha remove` takes a directory without complaint.",
+  evidence:
+    "Two observations, taken by different agents, and worth keeping apart.\n\nI ran the dry-run myself at `c8f6274f51`: `akasha edit --remove akasha/temper/temper-catalog/temper-pursuits/cadwell-levels/pages/silver --message ... --dry-run` answered `9 checks passed over the 1 path asked for` and `nothing was written`. That is the whole of what I observed; I did not land it.\n\nThe landing failure is a seat's report rather than mine. Working the addon data registry, it found the same call shape passing a dry-run at 28 checks and then failing on landing with `EISDIR`, and it went on using `akasha remove`, which handles a directory. The differing check counts are unsurprising, since the two probes named different paths.\n\nThe help text says a directory is meant to work. `akasha edit --help` states `--remove <path>` as a path under `akasha/` to take away, and says the files beside a path given to `--remove` go with it — which describes a directory rather than barring one. It also says `--remove` takes a path under `akasha/` alone and points at `akasha remove` for one outside, so the two commands are meant to differ by location and not by whether the path is a directory.\n\nThe reason to write this down is the dry-run rather than the flag. The gate refuses a write until the closure of its imports has been read, the debt arrives in tranches, and the way through is to run the write with `--dry-run`, harvest the paths it names, read them, and repeat. That loop rests on the dry-run judging what the landing will judge. Here it judged nine checks clean over a path the landing could not take. A seat that had cleared its debt this way would read the clean dry-run as meaning the work was done.",
+} as const satisfies Finding
