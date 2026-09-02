@@ -1,16 +1,16 @@
 import { DisplayFrame } from "@akasha/pages-ui/frame/display-frame"
 import { FrameViewPropertiesMenu } from "@akasha/pages-ui/frame/frame-view-properties-menu"
+import type { SessionEnvelope } from "@akasha/story-reader/client-envelope"
+import { HudPanel } from "@akasha/story-reader/hud-panel"
+import { QuestsPanel } from "@akasha/story-reader/quests-panel"
+import { SheetPanel } from "@akasha/story-reader/sheet-panel"
+import { AwenStatusDrawer } from "@akasha/story-reader/status-drawer"
+import { StorySoFar } from "@akasha/story-reader/story-so-far"
 import { useRef } from "react"
-import type { SessionEnvelope } from "../lib/client-envelope"
 import { ActionComposer, ActionRows, useActionBox } from "./action-box"
 import type { AwenGame } from "./awen-display"
-import { AwenStatusDrawer } from "./awen-status-drawer"
 import { ChapterProseChannel } from "./chapter-prose-channel"
-import { HudPanel } from "./hud-panel"
 import { NarrativeLog } from "./narrative-log"
-import { QuestsPanel } from "./quests-panel"
-import { SheetPanel } from "./sheet-panel"
-import { StorySoFar } from "./story-so-far"
 
 export function AwenLayout({ game, envelope }: { game: AwenGame; envelope: SessionEnvelope }) {
   const modules = game.display.modules

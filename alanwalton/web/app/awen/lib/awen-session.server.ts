@@ -1,9 +1,9 @@
+import type { SessionEnvelope } from "@akasha/story-reader/client-envelope"
+import { composeSessionEnvelope } from "@akasha/story-reader/session-envelope"
 import { loadActionInputs } from "./awen-actions.server"
 import { loadLatestState } from "./awen-state.server"
 import { loadStoryLedger } from "./awen-story.server"
-import type { SessionEnvelope } from "./client-envelope"
 import type { AwenGameConfig } from "./game.server"
-import { composeSessionEnvelope } from "./session-envelope"
 
 const NO_ACTIONS = { actions: [], latestTurnAt: null, latestStateAt: null } as const
 

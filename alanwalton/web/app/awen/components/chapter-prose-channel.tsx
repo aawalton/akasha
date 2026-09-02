@@ -1,13 +1,16 @@
-import type { ChapterProsePastTurns, ChapterProseTitles } from "@akasha/story-engine-core/game-schema"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { useReadEndObserver } from "@akasha/pages-ui-components/use-read-end-observer"
+import type {
+  ChapterProsePastTurns,
+  ChapterProseTitles,
+} from "@akasha/story-engine-core/game-schema"
+import type { ClientStoryTurn } from "@akasha/story-reader/client-story-session"
+import { NewestDivider } from "@akasha/story-reader/newest-divider"
+import { SessionDivider } from "@akasha/story-reader/session-divider"
+import { projectProseRows } from "@akasha/story-reader/story-prose-dividers"
 import { Fragment, type RefObject, useCallback, useEffect, useRef } from "react"
-import type { ClientStoryTurn } from "../lib/client-story-session"
-import { projectProseRows } from "../lib/story-prose-dividers"
 import { submitReadMark } from "../lib/submit-read-mark"
 import { ChapterProse } from "./chapter-prose"
-import { NewestDivider } from "./newest-divider"
-import { SessionDivider } from "./session-divider"
 
 export function ChapterProseChannel({
   turns,

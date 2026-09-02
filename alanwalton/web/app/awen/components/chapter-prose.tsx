@@ -1,7 +1,7 @@
 import { READER_PROSE_TYPOGRAPHY } from "@akasha/pages-ui-components/reader-typography"
+import type { ClientProseSegment } from "@akasha/story-reader/client-story-session"
+import { SystemCard, UnavailableSystemCard } from "@akasha/story-reader/system-card"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import type { ClientProseSegment } from "../lib/client-story-session"
-import { SystemCard, UnavailableSystemCard } from "./system-card"
 import { SystemWindowCard } from "./system-window-card"
 
 const HEADING_RE = /^#{1,6}\s+/

@@ -1,17 +1,17 @@
 "use client"
 
 import { resolveAlertPrefs } from "@akasha/story-engine-core/game-schema"
-import { useCallback, useEffect, useRef, useState } from "react"
-import type { AwenGame } from "../components/awen-display"
 import {
   type AlertPermission,
   fireContentNotification,
   notificationPermission,
   requestNotificationPermission,
-} from "../lib/alert-notification"
-import { playAlertSound, primeAudio } from "../lib/alert-sound"
-import type { SessionEnvelope } from "../lib/client-envelope"
-import { decideFrontierAdvance, deriveContentFrontier } from "../lib/content-frontier"
+} from "@akasha/story-reader/alert-notification"
+import { playAlertSound, primeAudio } from "@akasha/story-reader/alert-sound"
+import type { SessionEnvelope } from "@akasha/story-reader/client-envelope"
+import { decideFrontierAdvance, deriveContentFrontier } from "@akasha/story-reader/content-frontier"
+import { useCallback, useEffect, useRef, useState } from "react"
+import type { AwenGame } from "../components/awen-display"
 
 export interface ContentAlerts {
   readonly needsPermissionPrompt: boolean

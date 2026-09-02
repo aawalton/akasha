@@ -1,5 +1,5 @@
+import type { PendingActionInput } from "@akasha/story-reader/client-envelope"
 import { unheld } from "~/lib/pages-unheld"
-import type { PendingActionInput } from "./client-envelope"
 import type { AwenGameConfig } from "./game.server"
 
 const AWEN_TURN_SLUG = "game-turn"

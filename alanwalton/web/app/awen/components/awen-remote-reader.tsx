@@ -1,10 +1,10 @@
 "use client"
 
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
+import { AwenDisplayPropsSchema } from "@akasha/story-reader/client-envelope"
 import { type ReactNode, useEffect, useState } from "react"
 import { API_ORIGIN } from "~/lib/api-origin"
 import { AwenGameReader } from "../game-reader"
-import { AwenDisplayPropsSchema } from "../lib/client-envelope"
 import type { AwenDisplayProps } from "./awen-display"
 
 type FetchState =

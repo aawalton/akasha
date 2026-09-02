@@ -1,13 +1,16 @@
 "use client"
 
-import { type ActionBarMessageKind, classifyActionBarMessage } from "@akasha/story-engine-core/action-bar-message"
 import { Button } from "@akasha/design-primitives/button"
 import { Input } from "@akasha/design-primitives/input"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import {
+  type ActionBarMessageKind,
+  classifyActionBarMessage,
+} from "@akasha/story-engine-core/action-bar-message"
+import type { ClientPendingAction } from "@akasha/story-reader/client-envelope"
 import { type FormEvent, useEffect, useState } from "react"
 import { SignedOutNotice } from "~/components/signed-out-notice"
 import { useKeyboardInset } from "../hooks/use-keyboard-inset"
-import type { ClientPendingAction } from "../lib/client-envelope"
 import { submitPlayerAction } from "../lib/submit-player-action"
 
 type Echo = { key: string; text: string; kind: ActionBarMessageKind }
@@ -136,7 +139,7 @@ export function ActionComposer({ state }: { state: ActionBoxState }) {
         {signedOut ? (
           <SignedOutNotice />
         ) : error != null ? (
-          <p className="font-mono text-[12px] text-red">⚠ {error}</p>
+          <p className="font-mono text-[12px] text-red">! {error}</p>
         ) : null}
         <div className="flex gap-2">
           <Input

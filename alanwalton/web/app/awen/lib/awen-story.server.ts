@@ -1,6 +1,6 @@
+import type { StoryLedger } from "@akasha/story-reader/session-envelope"
 import { unheld } from "~/lib/pages-unheld"
 import type { AwenGameConfig } from "./game.server"
-import type { StoryLedger } from "./session-envelope"
 
 const AWEN_TURN_SLUG = "game-turn"
 

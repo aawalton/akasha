@@ -1,8 +1,8 @@
+import type { ClientBeat } from "@akasha/story-reader/client-session"
+import { NewestDivider } from "@akasha/story-reader/newest-divider"
+import { SystemCard } from "@akasha/story-reader/system-card"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { RefObject } from "react"
-import type { ClientBeat } from "../lib/client-session"
-import { NewestDivider } from "./newest-divider"
-import { SystemCard } from "./system-card"
 import { SystemWindowCard } from "./system-window-card"
 
 type NarrativeClientBeat = Extract<ClientBeat, { type: "narrative" }>
