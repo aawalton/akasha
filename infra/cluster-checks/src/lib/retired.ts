@@ -3,7 +3,7 @@
 // producing a result.
 //
 // The refusal is a call, not an import side effect. Seventeen of the retired
-// checks also export scanners that live code imports for, and a module that exits
+// checks also export scanners that live code imports, and a module that exits
 // while being imported ends whatever imported it with nothing said — no stack, no
 // name, no way to catch it. Refusing at call time keeps the guard and costs no
 // reader their run.
