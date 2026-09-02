@@ -39,6 +39,7 @@ export const claudeAccount = {
     "instant-property/usage-read-at",
     "module/claude-account-measuring",
     "module/claude-account-pacing",
+    "module/claude-account-selection",
     "number-property/alias-index",
     "number-property/five-hour-percent-used",
     "number-property/renewal-day",
