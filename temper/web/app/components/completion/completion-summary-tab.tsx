@@ -11,11 +11,15 @@ import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { SortButton } from "@akasha/design-patterns/sort-button"
 import { TabsContent } from "@akasha/design-patterns/tabs"
+import type {
+  AccountSummaryData,
+  CharacterSummaryData,
+  CompanionSummaryData,
+} from "@akasha/temper-player-completion/completion-card-registry"
 import { useState } from "react"
 import { AccountSummaryPanelCard } from "@/components/completion/account-summary-panel-card"
 import { CharactersSummaryPanelCard } from "@/components/completion/characters-summary-panel-card"
 import { CompanionsSummaryPanelCard } from "@/components/completion/companions-summary-panel-card"
-import type { AccountSummaryData, CharacterSummaryData, CompanionSummaryData } from "@temper/player-completion/completion-card-registry"
 import { useCompletionToolbar } from "@/components/completion/completion-toolbar-context"
 import { OverallSummaryPanelCard } from "@/components/completion/overall-summary-panel-card"
 
