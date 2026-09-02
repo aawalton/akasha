@@ -41,9 +41,34 @@ async function rowsOf(slug: string): Promise<{ rows: readonly Page[] }> {
 
 // Every accessor AddonDataPages carries, and the page type each reads. Derived
 // from addon-data-pages.ts so a generator can never be left out of this report.
+//
+// It drifted once and that is why this checks itself: nine accessors were absent, all nine of
+// them the completion section's, and the section threw on the first one. A section reported as
+// throwing when the pipeline feeds it fine is a fault the harness has and its subject does not,
+// and it reads exactly like a real one. So the table is held against the accessors
+// AddonDataPages declares, and a gap stops the run instead of colouring one section red.
 const SOURCE = JSON.parse(
   readFileSync(new URL("./addon-data-proof-sources.json", import.meta.url), "utf8")
 ) as Record<string, string>
+
+const DECLARED = [
+  ...readFileSync(
+    new URL("./lib/temper-addon-data/addon-data-pages.ts", import.meta.url),
+    "utf8"
+  ).matchAll(/^ {2}([a-zA-Z]+): PageResult$/gm),
+].map((one) => one[1])
+
+if (DECLARED.length === 0) {
+  throw new Error("addon-data-pages.ts declares no PageResult accessor, so this reads nothing")
+}
+const UNTABLED = DECLARED.filter((one) => SOURCE[one] === undefined)
+if (UNTABLED.length > 0) {
+  throw new Error(
+    `addon-data-proof-sources.json misses ${UNTABLED.length} of the ${DECLARED.length} accessors ` +
+      `AddonDataPages declares, so every section reading one would throw here and nowhere else: ` +
+      UNTABLED.join(", ")
+  )
+}
 
 const pages: Record<string, unknown> = {}
 for (const [accessor, slug] of Object.entries(SOURCE)) pages[accessor] = await rowsOf(slug)
