@@ -158,6 +158,12 @@ export const temperCharactersEquipment = {
     "module/sets-data-119",
     "module/sets-data-120",
     "module/sets-data-121",
+    "module/sets-data-122",
+    "module/sets-data-123",
+    "module/sets-all",
+    "module/set-class-restrictions",
+    "module/set-source",
+    "module/set-select-helpers",
   ],
   invariants: [
     {
