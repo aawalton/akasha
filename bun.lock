@@ -114,6 +114,9 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/alan/music/commands": {
+      "name": "@akasha/music-commands",
+    },
     "akasha/alan/music/spotify": {
       "name": "@akasha/spotify",
       "bin": {
@@ -3510,6 +3513,8 @@
     "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:akasha/mobile-cli"],
 
     "@akasha/music-choosing": ["@akasha/music-choosing@workspace:akasha/alan/music/choosing"],
+
+    "@akasha/music-commands": ["@akasha/music-commands@workspace:akasha/alan/music/commands"],
 
     "@akasha/named-for": ["@akasha/named-for@workspace:akasha/named-for"],
 

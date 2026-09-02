@@ -1,0 +1,9 @@
+import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+
+export const musicCommands = {
+  id: "01a062f5-7bb2-750a-ba0b-8e132d65105f",
+  pageTypeSlug: "workspace-package",
+  slug: "music-commands",
+  definition: "what an agent runs by name over Alan's music",
+  manifest: "json",
+} as const satisfies WorkspacePackage

@@ -1,0 +1,6 @@
+{
+  "name": "@akasha/music-commands",
+  "private": true,
+  "type": "module",
+  "exports": {}
+}
