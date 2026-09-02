@@ -1,0 +1,266 @@
+---
+id: cce0f763-b18b-53c7-b184-052b0f222ab5
+page-type-slug: story-chapter-royal-road
+title: "132: Free Range War"
+slug: 0149-132-free-range-war
+partOf: there-is-no-epic-loot-here-only-puns
+position: 149
+ownLength: 3024
+unit: words
+publishedAt: 2020-12-01
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/593573/132-free-range-war"
+royalRoadId: "593573"
+---
+
+Renny. Contract.
+A ghoul-turned-mime-turned-ringmaster; his resume is impressive. Renny runs the second-floor circus.
+
+Upgrades available. (Warning, the contract may resist or even reject changes if they disagree)
+Lesser Command: His control over his crew is increased. 5 DP
+Necrotic Energy Connoisseur: Improving Renny’s Ghoul nature to devour undead in large numbers and even tackle some undead he could not previously win against. 10 DP
+Necroscrambler: Allows Renny to become able to disassemble undead forces to feast upon their energy, removing the bindings to their necromancer masters. Stronger necromancers may remain in control, however. 30 DP
+The staff of a Showman: Grants Renny a magical focus that increases his style. Occasionally will explode undead he points the staff at. 20 DP
+Greater Ghoul: Evolve Renny to the next branch of his monstrous family tree. Usually, this would drive the ghoul to become a dangerous killing machine, but this will not occur because Renny is not a coward as ghouls often tend to be in the wild. 40 DP.
+
+ 
+
+Delta read over the upgrades that she had purchased in the log, scrolling through them idly with a finger. The enhancements were impressive, and it made her confidence soar as she gathered her forces together on the third-floor garden for her next operation. With the river trap in place, she felt more comfortable taking on the rest of the doors—Jeb and Gnashly the trolls, Van, Doctor, Dozer, and Dragon, and Renny.
+
+The library golem didn’t fare well outside the library, so Delta left it there, using it as a last line of defence if anything did escape towards her core.
+
+Renny was glowing with contentment as he fed off any idiotic spirit coming through the door. The undead princess seemed to have gotten the hint that, for the first time, she was losing troops permanently. Delta guessed that when you were used to your undead army simply picking themselves back up, you got complacent.
+
+Delta would feel sorry, but one shouldn’t pity the incurably stupid and evil cultists. Instead, you should push them down the stairs repeatedly until they repent or are no longer a problem.
+
+Whichever came first.
+
+Delta didn’t have the luxury to be kind, nor did she have the naivety to presume she could remain peaceful when the brat had done nothing but throw dead things at her. The nerve of some people really.
+
+With Renny more equipped, alongside some dashing Guardgoyles and enough troll mass to accidentally cause a small land-slide if they fell over, Delta was ready to lay down the law. There was just one thing missing that she wouldn’t dare begin without. A second later, it appeared.
+
+Out of the kitchens, Jack came running over, his flasks filled with boiling troll soup.
+
+Delta blanched.
+
+“That’s chemical warfare!” she accused, and Jack eyed the bottles with a dark look.
+
+“In the darkest of times, we must use our darkest weapons,” he said, voice low before it snapped back to his usual hiss of amusement.
+
+“Jeb has shelves full of the stuff,” he said, and Jeb looked proud, his grey skin pulling back to show a smile.
+
+“Jeb makes spicy soup... garlic soup... pepper soup,” he counted with the incorrect number of stubby fingers and Delta made a silent note to add about five different protective layers to Jeb’s store cupboard. If an adventurer went in there and knocked something over, it would scar the naive adventure or upset Jeb.
+
+Both would be quite terrible.
+
+“Just throw it away from the Dungeon,” she finally said, and Jack beamed as if he wouldn’t dare think of wasting his precious Troll Soup Bombs.
+
+“Now, I know that the Third Floor has been a challenge and many of you were denied a peaceful home to grow up in and develop like the other two floors, and I am sorry for that,” Delta said and her monsters shifted, but no one spoke.
+
+“Our enemy is eternal, and her army follows her command with no self-thought or ability to disagree with her orders. Peace and diplomacy were thrown to the floor before we could even say hello. If we didn’t defend ourselves, we would be dead and buried,” Delta paced side to side, and she looked to the double doors with the glowing protective runes.
+
+“But they made a mistake in thinking we’re scared of them,” Delta spun, eyes glowing and pointed to the direction of the undead side of the fortress.
+
+“They made a grave error by mistaking our kindness for weakness. It’s time to remind those who seem set on mocking our ideals and throwing our restraint back in our face, exactly who they’re dealing with.”
+
+Delta’s eyes looked up, and her voice turned serious.
+
+“Tonight, we make our enemies regret ever building their fortress in our way. We make them regret ever thinking this Dungeon was ever a pushover. Tonight, we will take most, if not all, of that undead brat’s toy kingdom and make it ours. ‘Cause if the princess is set on playing with dead things instead of bettering her people, then I’ll simply have to show her how a real home functions,” Delta said and held a hand up to the sky.
+
+“Tonight! All their home bases are belong to us!” she cried, and the room shook as her monsters all roared in passionate agreement, blowing Delta’s hair back, her newly acquired spine of steel cracked at the sight of so many fang-filled maws.
+
+She chuckled nervously, quickly speaking up again.
+
+“Let’s remember always to have fun and keep up the buddy system while we conquer the local undead plague army!” she reminded them brightly.
+
+Her monsters grumbled as they held hands with their neighbours, which ended up with Gnashly crushing Jack in one giant fist.
+
+Her first target was the silent menagerie.
+
+Delta grimaced. She really liked animals, which was going to make this more complicated than it needed to be.
+
+---
+
+Alpha slowly sheathed his sword as he sat on the collapsed skull of some giant. The room beyond Delta’s garden was dreary, and Alpha couldn’t see anything special about this Silence Fortress. You see one spooky subterranean castle; you’ve seen them all.
+
+Delta’s place was interesting. Every room or space had something special about it.
+
+The skull began to rattle again under his body so he pulsed with a high-grade holy aura. It went inert, most likely for only a few minutes. Alpha was truly grinding his divine skills today.
+
+It was generic since he didn’t believe in any god, but due to his ability, no skill was technically off-limits to him.
+
+Still, occasionally he had to chant a spell which needed a god’s name, so he tended to just use cereal brands from back home or other breakfast items.
+
+More than once in this battle, Alpha had called down the ‘judgement of toast’ or the ‘Bulwark of Choco-Puffs!’.
+
+He looked through the door, wondering if he should keep going. He wasn’t getting anything from this. Respawning mobs didn’t grant exp due to whatever was in their ‘soul’ giving them their powers wasn’t flowing into Alpha when he defeated them.
+
+The soul kept getting summoned back to the master of this place. Alpha could sense her... them.
+
+A sewn-together soul of two-parts anguish, one part scheming. She would be worth something, but Alpha didn’t have a quest or a reason to charge in.
+
+Delta had mentioned they were fighting, but Delta hadn’t given him a quest either, maybe he could do her... a favour. Alpha would like to do favours for Delta... He sat there, wracked by indecision. He had gone for so long without choosing for himself, that the fact he might need to...
+
+It terrified him.
+
+What did he want?
+
+He wanted Delta to be happy and safe. He wanted to be away from Perhal. He wanted to stop wanting to cry when no one was looking.
+
+He wanted to go home.
+
+Wherever that was...
+
+But those were things that required Alpha to roll initiative & take that single step forward. He imagined what Delta would do if she had a physical form and Alpha was stuck as an unseeable, intangible ghost, burying himself deeper away from people, hidden behind layers of silent monsters and deadly traps?
+
+Delta would draw her sword, smile in determination, and be a hero.
+
+Alpha had to do that.
+
+Well...Alpha had to attempt to be even a shadow of that. He stood and drew his sword, but he didn’t get far before he saw that, without his notice, a ring of mushrooms had surrounded the skull, tying it down securely with fibrous threads.
+
+“You’re a shy one,” came an exhausted voice. Alpha turned, ready for battle, but didn’t see anyone.
+
+“Down here,” the voice instructed, and Alpha pointed his sword down until he saw what looked to be a tiny firefly resting atop one of the mushrooms in the fairy ring.
+
+“Yo.”
+
+It waved a tiny energy arm... so small that it was almost impossible to see.
+
+“Hello...?” Alpha managed to reply
+
+“Delta asked me if I still had eyes out here. I’m named Hero, and until I’m back on my feet, I guess I’m going to be your guide,” the firefly managed to lift itself slowly. It wasn’t an insect, more a tiny orange mote with ghostly limbs.
+
+You might be reading a stolen copy. Visit Royal Road for the authentic version.
+
+Alpha tried not to wince as Delta had sent someone with the name ‘Hero’ to aid him.
+
+“I am Alpha. I am the first of the four it would seem. Swordsman, skill gatherer, and task fulfiller. Do you have a quest from Delta?” Alpha said evenly.
+
+“Hey listen...” the glowing bug began, “...relax. I know what it’s like to be a big powerhouse, birthed with confusing emotions and a job to do,” Hero promised, and Alpha didn’t exactly see how, but he didn’t question Hero.
+
+“I was going to...” Alpha began and hesitated.
+
+“Go on, speak your mind,” Hero encouraged.
+
+“Take over the next room,” Alpha gasped, making a choice which made his stomach bubble with hot sick acid waves. Hero landed in his hair and it was like a tiny spot of sunlight on his scalp. Warm, but not burning.
+
+“Good, how about you show me what skills you’re working with? Perhaps do a few rolls and attacks. Just so I feel confident you got the basics down?” Hero insisted, and Alpha stumbled slightly in his thoughts.
+
+That sounded exactly like a-.
+
+“Can... you teach me to double jump?” Alpha whispered, wondering if one of his many personal deep desires might come true.
+
+“How can you double jump? Air doesn’t just become solid unless you use magic! Either jump in one big jump or just get a ladder,” Hero chided.
+
+Alpha had many tricks to fake a double jump, but an actual double jump still eluded him. It had to exist somewhere, and he would find it.
+
+His stomach churned again and he wheezed, noticing too late that he made another personal choice.
+
+“Oy vey... maybe we should start with how to walk?” Hero mumbled.
+
+---
+
+The place was less a wildlife land and more a bone graveyard. Whatever life once lived here or was maintained was long gone. In its place, shambling skeletal horrors moved about with little care or order.
+
+Being cut off from the main Silence Fort had caused any ambient command over the creatures to fray. The tragedy of their existence made Delta sad rather than triumphant.
+
+Some massive monkey thing had misplaced its tail, using a snake as the replacement. The animal bickered endlessly and without reason. A bull hobbled about, one of its legs replaced with what should be on a goat or a sheep.
+
+Wolves, once deadly, had tangled their ribs together. Perhaps over time by playing too close to each other or charging wildly, now just whined in a corner.
+
+Birds with no wings looked to the large ceiling with longing. Mice hung around a donkey since most of them had suffered too much damage to make any distance under their own power. Fish flopped in long dry tanks, their minds clinging to the wrongness of their circumstances.
+
+Predator cats discard their mighty forms to escape their cages, now wandered spineless or as sad limbless creatures.
+
+Lizard-looking things doddle about, but most were either missing their heads or a tail, making them awkward things.
+
+The lone sentient undead was ‘the keeper’ according to Jack. Somehow, despite being a skeleton, he had massive bones that made him come off as porky.
+
+A fat skeleton.
+
+Delta disliked him from the moment he was flung in front of Van, serving as Delta’s eyes since she hadn’t conquered the room yet.
+
+“Get off, oof, you mangy beasts,” he clattered and managed to sit on his rear, looking down at them all despite being on the ground.
+
+“What happened to the animals?” Van asked, voice lined with a threat. The Keeper didn’t look bothered. In fact, he sounded right down smug as if nothing they could do would bother him.
+
+“What, those sad things? Depends on which one. Sometimes before we all rotted, we got hungry. A limb here, a tail there,” he shrugged then tilted his head.
+
+“Sometimes we got bored. Sometimes... those ‘smart’ guys needed subjects. Sometimes-” the skeleton leaned forward, voice rising in sinister glee.
+
+Delta didn’t quite know how she did it, but her mana surged from the garden, ignoring the rules that she couldn’t take the room since ‘someone’ was inside. The Keeper’s cocky attitude faltered as orange light began to seep out every crack in his skeleton.
+
+“Eh... what’s this? Princess Marrow... help! It’s too warm!” the Keeper attempted to smother the light, but it grew brighter.
+
+Then the Keeper’s dark seed within his essence erupted into orange fire.
+
+Then he exploded.
+
+Everyone was staring at Delta, hovering by the door, head hung low to hide her expression.
+
+She inhaled once, deeply.
+
+“I like... animals,” she said through gritted teeth.
+
+She looked up, eyes watering, but managed to stop herself from being a total wreck after only one room.
+
+“Renny... can you...” she gestured to the area and the watching animals. They weren’t quite self-aware, but their time beyond their natural lifespan had increased their intelligence. They were watching the scene intently.
+
+Renny bowed extravagantly.
+
+His power as a ringmaster seeped out like colourful cheery lines and slowly began to connect to each animal, gently...
+
+Delta got a pop-up.
+
+Ringmaster Renny would like to hire the animals of the Silence Menagerie. Spend 50 DP to increase the Circus room to hold these unique animals?
+
+Delta hit yes and smiled.
+
+“They’ve suffered enough. Let’s give these animals a good home, but if any don’t thrive... we’ll set their souls free,” she promised Renny, and a few animals seemed to shift as their forms began to vanish.
+
+Breaking down and being rebuilt on the second floor.
+
+Delta knew this was supposed to be bordering on contracts, but it was more like three steps below contracts. Delta couldn’t empower them nor would they be as well-fed on her mana (good thing they were already dead), and on top of that, they were limited to a single room as a unit.
+
+All around her, the room was becoming consumed by her Mana. She watched as the pain and suffering caused here was removed. It was cleaning itself for a better future.
+
+Delta nodded, wiping her eyes to make sure she could see it all.
+
+First, this room.
+
+Next?
+
+Every last inch of this fortress would be scrubbed clean.
+
+A notification appeared in front of her with an orange screen showing it was from the system, not Nu.
+
+Silent Menagerie absorbed. Dissolve room in exchange for one monster slot?
+
+Delta blinked.
+
+“I can do that?” she asked in shock.
+
+The system reports that clearing the excess space will cut down on third-floor performance issues. Since the animals are now on the second floor, the area here is entirely redundant over the need for more monsters to defend the core. The system, too, is learning to change the rules when the need for it arises.
+
+Well. How could Delta argue with her logic used against her?
+
+“I can get another Guardgoyle or... something!” She announced and she suddenly gave a yelp as she and all her monsters were hoisted out of the room as if attached to bungee cords. The door slammed shut before stone ran down its surface like liquid, removing any trace that it had been there. Beyond the door, the room was yeeted into the void, if Delta’s senses were correct.
+
+Total monster slots available: 2
+Please keep working hard.
+I am proud of you.
+-Sis.
+
+---
+
+Brother watched as a crumbling room was flushed down into the void below, disturbing his fishing. He didn’t quite blink in surprise, but as he slowly sipped from his off-brand soda (so interdimensional lawyers didn’t sue for using named brands),“What is she doing up there?” he asked, his Ceko-Calo can ringing empty.
+
+The room went deeper and deeper until it was only visible by the trailing orange sparkles. Brother leaned forward to see which side of the void it might hit.
+
+Down there was the demon world... the void-void, the shadow-void, and the occasional pocket-void. Little Bro was somewhere in the Void-Void, but the room smashed through the demon world barriers and the mana within landed with a loud cheer before the hole sealed up.
+
+“Wow, Sister littered. I might die of shock if I wasn’t already suffering a slow and gradual demise of the self,” Brother said leaning back in his deck chair with a stretch, causing a slight earthquake in the southern part of the world.
+
+“I guess my days of fishing quietly are coming to an end... I feel a little sad, but I’m also a little happy. Go figure,” he said with a smile.
+
+“Proud of you, Delta... Just stop corrupting my sister before she dyes her hair. The world is used to a yellow sun, blue or green might be too much,” he grinned and cast his rod again.

@@ -1,0 +1,230 @@
+---
+id: 7fa497da-052e-52e3-abd6-5d3f3d65bd74
+page-type-slug: story-chapter-royal-road
+title: "3: Mushroom Farming"
+slug: 0003-3-mushroom-farming
+partOf: there-is-no-epic-loot-here-only-puns
+position: 3
+ownLength: 1668
+unit: words
+publishedAt: 2018-01-09
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185489/3-mushroom-farming"
+royalRoadId: "185489"
+---
+
+Delta looked down at the floor just near the entrance. She tried to push down the red outline of the pitfall but it buzzed angry as it refused to form. Delta frowned and peered closely.
+
+The soil floor had a slight white tinge to it. The same feeling of the barrier that stopped Delta from going outside. It was a clear sign that whatever power that granted her these dungeon making skills, that they also prevented her from booby trapping the first step or ten into her dungeon.
+
+That posed a problem.
+
+“François? Can you leave the dungeon?” she asked the goblin in her core room. Fran, as she took to calling him, shook his head.
+
+“I dungeon make. Can’t leave,” he answered then before Delta could ponder further, he pointed to Hob and Gob.
+
+“Contracted. Lose power but gobs can leave for small while,” he scratched at his large green nose. Delta turned her attention to the two brothers.
+
+“Great! Guys, I need you to go fetch me something from outside, plants, insects, anything that’s got mana!” Delta directed and both of the goblins bowed, Hob falling over entirely before the scrambled up the tunnel and outside.
+
+They both visibly shrank and looked tired but ran off with their new task.
+
+Goblins weren’t cute but Delta liked their attitude. Sighing, she turned to the single long tunnel where one could easily see her core. Three problems jumped out of her.
+
+A man with a gun or a bow and arrow or hell, even a fireball could snipe her from the entrance. Two, it was unprotected from any advancing melee fighters and three, she felt naked.
+
+Like standing near a window with no clothes on. She had no choice, Delta needed to protect herself with space until she had more. She could stuff the tunnel filled with goblins but something told her that would only draw people faster…
+
+Walking down, Delta stopped midway and tried to puzzle how she was going to plan this.
+
+She had an… awareness of her entire dungeon, where everything was as well as whom. It was tiny and for the first time, Delta felt a hint of shame on how basic her layout was. Was that a dungeon thing or just herself latching onto anything to get her mind off her current predicament?
+
+She tried to close the tunnel leading to her core, cutting off any entrance to her core room but there was a resounding error in the response. Such a thing… wasn’t possible. Delta grabbed her head as she squeezed her eyes shut to endure the sudden headache. After a moment, it passed.
+
+“That… sucked,” she said slowly as the pain ebbed away, slowly.
+
+Lesson learned, they’re had to be a route to her core. This was some fundamental rule that Delta couldn’t ignore.
+
+These rules were becoming annoying.
+
+Rule 1: The entrance must be a safe zone of some kind.
+Rule 2: The core must be reachable by all that enter.
+
+Delta snarled at the iron rules that basically meant she couldn’t just hide and build up a sizeable power base. If someone came, and they wiped her goblins, she was fucked.
+
+No… she had options.
+
+The idea just hit her.
+
+Where was her dungeon exactly?
+
+“Fran? Where are we?” she asked suddenly and Fran paused.
+
+“Fran is new name?” it asked and Delta hummed in agreement. The dungeon rumbled just a little and above the goblin’s head words appeared.
+
+“Fran — Rare Goblin”
+
+“Oh! Fran is named!” he hollered and danced. Delta just gaped.
+
+“What… but I already gave you a name before…” she argued weakly and Fran shook his head at your orb.
+
+“Random name, not important. Fran is personal, it’s mine!” the goblin said with another dance. Delta peered at the title.
+
+Rare huh? Like a mob that had a 1 in 10 chance of appearing? It… didn’t seem to cost her any mana so what was the drawback?
+
+“So two questions, what does it mean to be rare and where exactly is my dungeon?” Delta inquired politely.
+
+Fran paused mid-jig.
+
+“Rare means special. Fran is first-floor special!” the goblin answered with a little pride in his voice. Then he scratched his head.
+
+“Dungeon is… near forest. Hob and Gob said so,” he tried and Delta mentally drew little tree symbols on her mental map.
+
+Forest was good. So, mostly grass hills and a forest somewhere nearby. That meant plants, small animals and maybe some big animals!
+
+If she just needed them to die in her dungeon to gain mana, she can move a lot quicker in getting her core somewhere safe.
+
+Then she could figure out what it was going to mean to exist as a dungeon core that lured people to their deaths.
+
+For one, Delta didn’t want to simply be known as a murderhobo dungeon. She wanted a little more than that. A theme or… something.
+
+The useless planning for the future was nice, it let Delta’s mind wander as she stood in the middle of the tunnel and pushed with her power.
+
+The soil in front of her just broke apart and vanished as it moved further down in a tunnel big enough for two men to stand side by side in.
+
+It went so far and just stopped. Delta examined her map and wondered if she could curve tunnels…
+
+Oh, she could. A little narrow near the curves but it worked out as she spent the last ten mana she had on connecting her new tunnel to the core room.
+
+With little effort, she appeared in the main tunnel and with a little tremble, closed the space between her core room and the entrance.
+
+It filled in without a problem. It took no mana to remove her spaces, to grow smaller...
+
+The sight was beautiful, Delta grinned and the sudden tiredness was quickly making her eyes droop. Then Hob and Gob returned with both their hands full of a mushroom each. Four mushrooms. They looked at each other and seemed puzzled by the lack of core room, but they suddenly bulged and grew back to their Delta-forms.
+
+This novel's true home is a different platform. Support the author by finding it there.
+
+A tentative name. Naming things made her feel better. They rushed to the core room, and dropped the mushrooms at Delta’s earthy alter.
+
+“Rooms!” they cried. The mushrooms hit her dungeon floor and were quickly turned into those odd motes.
+
+They entered Delta’s mind, and the taste followed them.
+
+Delta gagged.
+
+She wanted to throw up, but she had no mouth.
+
+So, she just tried to cough up the taste.
+
+The frick was wrong with those things?!
+
+“Most dangerous rooms! Nothing else want them!” Hob bragged. Gob nodded in agreement and dropped two more on the ground from a small fur pouch he had.
+
+“N-no!” Delta begged but they were already dissolving.
+
+The taste returned and Delta felt herself die a little. As she laid there, sobbing, the little mana bar in her menu shot up by six. One for each mushroom.
+
+Then another bar appeared.
+
+Dungeon points: 36
+
+Dungeon points? Delta stood with a groan.
+
+“Please… try to find something else,” she begged the two goblins. Hob and Gob took off with a bow, laughing with their ‘success’.
+
+Delta opened a menu and frowned.
+
+“What do I do with dungeon points?” she asked and there was no answer.
+
+She fiddled with the menu for a moment.
+
+With some close examination, she found something she hadn’t seen before. A little ‘+’ symbol hidden near bottom of the main menu.
+
+She touched it and winced as things appeared all over the menu.
+
+Dungeon points: 36
+
+Purchase Monster
+Purchase Trap
+Purchase Construction
+Upgrade Monster
+Upgrade Trap
+Upgrade room
+
+Delta blinked and clicked the first option. Purchase Monster.
+
+Monster Purchase: 
+
+Goblin - Starter.
+
+Common Bat: 5 DP
+
+Common Spider: 5 DP
+
+Mushroom Spitter: 30 DP (Special requirement unlocked: Absorb a deadly poisonous mushroom)
+
+Had she unlocked a monster? Delta thought about it. She didn’t see anything about humans, like the ones that had come before. Maybe there was some hidden clause to unlock more rare monsters?
+
+If she devoured rare stone, could she make golems? Make wolves if she killed some in her dungeon?
+
+This opened a lot of options… Gob and Hob were amazing, they could farm her materials!
+
+Delta flicked through the other menus quickly.
+
+Construction Purchase:
+
+Lair: 20 DP (one per level)
+
+Next Level - Locked
+
+Boss room: 40 DP (one per level)
+
+Trap Purchase: 
+
+Sticky Floor Panel: 10 DP
+
+Weak Tripwire: 5 DP
+
+Falling Rock (Weak): 10 DP
+
+Upgrade room and monster were greyed out for the moment. Delta could only assume she didn’t have the requirements to upgrade anything just yet.
+
+Her eyes lingered on the mushroom spitter… she had eaten that damn mushroom and it did say it was an earned monster…
+
+That DP cost was pretty high but at this point, if she was going to be forced to eat more of those disgusting mushrooms, she deserved this,
+
+She purchased the mushrooms, dropping her DP to 6.
+
+Delta switched menus and saw her monster now had two options.
+
+Goblin: 10 Mana
+Mushroom Spitter: 13 Mana
+
+Neat… now she just had to get enough mana to summon her new monster. Hopefully, Hob and Gob would be successful in finding something… that wasn’t… those mushrooms.
+
+---
+
+Gob ran, he hollered as a pitchfork flew over his head and the pig in his hands squealed with terror.
+
+Pink flabby meat for the master!
+
+Hob ran with his arms full of mushrooms, the master’s favourite!
+
+She had gasped and was speechless when they had given them to her. She’d love more! The master just wanted side meat to go with them!
+
+But first, the silly mans were closing in and the dungeon was coming near…
+
+Pigs for the master!
+
+Hob found another ‘room and picked it up as he ran past.
+
+More ‘rooms for the master!
+
+---
+
+ 
+
+---
+
+ 
+
+Spoiler: MAP

@@ -1,0 +1,825 @@
+---
+id: abf7a566-9690-53ff-80d7-a7c66832a7f2
+page-type-slug: story-chapter-royal-road
+title: "84: For Whom the Dungeon Trolls"
+slug: 0096-84-for-whom-the-dungeon-trolls
+partOf: there-is-no-epic-loot-here-only-puns
+position: 96
+ownLength: 5050
+unit: words
+publishedAt: 2019-03-29
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/347908/84-for-whom-the-dungeon-trolls"
+royalRoadId: "347908"
+---
+
+The chewing of bones was a little disturbing as Delta watched the monster known as a troll reach through the hole like an English-accented bear trying to find some delicious honey. In this case, the honey being more of the screeching bear skeletons and mindless undead variety that were trying to pierce his grey skin with brittle weapons that did little to deter the determined troll.
+
+ 
+
+Pale yellow eyes squinted as the troll pulled at something and came back with what looked like green slime and a clear dripping liquid.
+
+ 
+
+“That’s flipping ectoplasm! Those spooky birds, the ghosts, should be swarming us about now!” Jack said in surprise before turning his gaze to the troll.
+
+ 
+
+“Hero! I am in awe at the size of this lad, he looks like he eats brick shithouses for a starter meal! I could have used him back in the day!” Jack said as he scampered up the troll’s back to stand on one shoulder.
+
+ 
+
+“How goes the number crunching? Crunching being a bit more literal than these spooks are used to.” Jack added. The troll blinked at him as Delta moved closer as well. The large creature smiled a stupid grin of pleasure at her.
+
+ 
+
+“Ma! Look! I got soft crunch! I can smear it on the bones for sauce!” he showed off large yellow teeth that could crush diamonds. Delta smiled weakly but after Maestro, Bob, and even a few others… the troll was manageable.
+
+ 
+
+Delta put a reminder on her internal diary to cry about her desensitization to monsters and their appearances.
+
+ 
+
+“Good! Glad you’re enjoying your life already. You’re… a good troll!” Delta said after a beat. Devina came up and the troll blinked before he shyly turned his gaze back to the flailing skeleton he had just grabbed and stuffed it into his mouth to pretend he was busy.
+
+ 
+
+Was his grey skin turning black with a blush?
+
+ 
+
+“You are quite strong, sir troll.” Devina praised and the flush travelled all over the troll’s body. Inchy eyed him.
+
+ 
+
+“What, you got a bone to pick with Dev and Inchy?” the bird sang. Rale appeared next and on his shoulders were Numb and Billy. Numb looking pleased by the ride, Billy, less so, but the idea of a sniper’s spot was keeping him still.
+
+ 
+
+Her monsters were goddamn fusing now.
+
+ 
+
+Rale being the walking fortress of muscle as Billy fired arrows from above. Numb would just rain down fists… actually it’s not a bad idea… Delta shook her head as the Troll’s eyes lit up with joy.
+
+ 
+
+“Gobbos! Troll and Gobbos go together like meat on bone! Like… caves and bats! Like… LIKE… Troll and Gobbos!” the creature said finally, ignoring the hole filled with leering skulls and ghostly hatred.
+
+ 
+
+Goblins… trolls… spooky underground ruin filled with dead things… Delta felt like she was teetering dangerously close to being sued. If a fire demon turned up then she was going to run for the hills and hope no one served her a court day.
+
+ 
+
+“Great, we needed a walking mass of destruction that eats everything in its path. After all, we left Bacon upstairs.” Cois cackled. His staff gave off a few sparks of fire and the troll paled as if seeing something horrible.
+
+ 
+
+“Fire is bad! Gobbo not play with fire!” the troll accused. Devina, without looking, kicked Cois hard enough to send him rolling into Delta’s core with a thunk.
+
+ 
+
+“Watch out for mother!” Devina huffed. This was enough to make the troll beam again.
+
+ 
+
+“Pretty Devinah is best Gobbo… not-gobbo!” said the pleased looking troll. Delta was just watching this unfold, watching how this new piece of her family slotted in to the dynamics.
+
+ 
+
+“Devina.” the witch doctor corrected.
+
+ 
+
+“Defee!”
+
+ 
+
+“De….veeenn….nah.” Devina repeated, her face growing pained.
+
+ 
+
+“Devenha.” came the confused response.
+
+ 
+
+“Dev! And Inchy!” Inchy supplied. The troll tried to pet the bird and nearly pressed Devina’s head into her torso.
+
+ 
+
+“Devi… and Inchy!” he said proudly. The Witch Doctor frog threw her hands up in disgust.
+
+ 
+
+“Fine, Dev. And what’s your name?” she asked with a snap. Rale opened his mouth but Devina turned her glowing eyes to him.
+
+ 
+
+“You utter one name and I will ram that trident up your nose.” she warned. Rale froze then wisely shut his mouth.
+
+ 
+
+“Meat-tank!” Jack said quickly. Cois, rubbing his chin, looked like he was going to vote for that name.
+
+ 
+
+Delta turned to see the hole in the door both repairing itself and being opened with weapons. The ghosts brushed against her room, and Delta’s Mana repelled their forms easy enough, but it was more effort than Delta wanted to spend every second of her time here.
+
+ 
+
+“We are not naming him that!” she said and all eyes turned to her.
+
+ 
+
+“In fairness, one does not simply name a sentient being. One merely suggests and sees what sticks. I suggest we try some names when we’re secure and have a lovely vote where we duel each other and I blow you all up with prepared traps and win!” Jack said sagely from the top of the Troll.
+
+ 
+
+“Jack?” Delta said calmly. The Kobold tilted his head.
+
+ 
+
+“Hero, oh lovely lady of the Dungeon?” came the response.
+
+ 
+
+“You are banned from naming anything, short of a complete disaster and a lack of structured command where me and Nu are both offline and every monster that came before you is mute… dead… or missing.” Delta said pleasantly as she rolled her neck.
+
+ 
+
+“But what about my pet bombs? They are so fleeting!” Jack gasped and the troll calmly plucked him from his shoulder as he held the Kobold up to his eyes to examine the scaled creature.
+
+ 
+
+“You can name them as you start throwing them through that hole. I’m losing Mana from fending these buggers off. Devina, more spirits! Cois and Billy? I’ll try to make some ports for you both to fire from. These two doors are the only thing keeping us safe and everyone, save Jack and the troll, is not at full power. I want to secure a command post to mine gas from and build more pylons!” she ordered, trying to use Nu as an inspiration to rope the chaos back on track.
+
+ 
+
+The troll focused and there was a horrid noise that made Delta’s serious pose break as Devina gagged and Inchy fell down like a dead canary bird in a mine shaft as she fled. Jack looked like he was waving an empty flask around to bottle the stench and the goblins hooted madly with laughter as they tried to take positions to wage war.
+
+ 
+
+“Found gas!” the troll offered.
+
+ 
+
+Delta swallowed back her first words then forced a smile.
+
+ 
+
+“Thank you. I’m going to call you Jebediah. It fits more than I’d like to admit.” Delta said. The troll frowned hard.
+
+ 
+
+“Jebebe…” he tried.
+
+ 
+
+“Jeb… Just go with Jeb.” Delta said quickly and the troll looked pleased as punch.
+
+ 
+
+“Jeb! Jeb the trolly! At Ma’s service!” the troll roared in approval and saluted, sending Jack, who he had still been holding, flying through the air. The attack on the door paused for a second and as he stood there Delta finally got a proper look at the troll.
+
+ 
+
+Most of his skin looked soft on the inside of his arms and legs but his joints, fingers, and most of his shoulders looked to be covered in a grey, crusty, rock-like shell that acted like natural armour. His head and body had little to no neck between them which likely gave him a heck of an ability to use his thick skull as a battering ram if he could pick up enough speed.
+
+ 
+
+Delta turned to the menu showing info on Jebediah.
+
+ 
+
+Quote:Troll (Jebediah):
+
+Trolls are nature’s answer to the question of what would happen if a rock decided to grow legs and devour villages. They boast incredible defence and strength befitting their size as well as a moderate regenerative factor. Their blood is highly sought after for potions that involve great healing, their skin (once treated) can be used as armour, and their stomach acid is… potent. They have a fear of fire as they are somewhat flammable.
+
+ 
+
+No evolutions unlocked yet.
+
+ 
+
+Delta had a giant beatstick and she didn’t even have to tribute any monsters to bring it out. Life was good but it would be better if this undead army could stop knocking on her door for a second.
+
+ 
+
+Jebediah was… currently picking his giant potato of a nose with a finger as he seemed to be in deep thought.
+
+ 
+
+Jack picked himself up, looking rather cheerful for being tossed by an excited troll, and waltzed over.
+
+ 
+
+“Listen to Mad Jack here-” he began and Delta snorted.
+
+ 
+
+“Why would anyone not listen to you when you begin with a line like that?” she asked dryly. The Kobold grinned and pointed at the two large doors.
+
+ 
+
+“I dunno what you can do with your Dungeony core powers but you said something about blowholes, right?” he asked, expression a little more serious.
+
+ 
+
+“I did mention portholes for the goblins to fire from, yes.” she stated. Jack waved that off as unimportant.
+
+ 
+
+“All holes are blowholes if you fill them with bombs, trust me on that.” he said with an almost scarily pleased expression.
+
+ 
+
+He pointed to the door.
+
+ 
+
+“Can you fix her up and give us some windows way up, with a ladder and a platform? If we can clean the mass of bony pricks down to a small crowd, we can send Jebba boy here to do some skull cracking and I can start laying traps to slow the next wave. Not sure how much time it will take you to fill the place with your magic dust and make it all weird but we’ll buy you time.” Jack explained, his claw lightly marking his plan on the stone floor.
+
+ 
+
+Delta nodded after a moment, trying not to let Jack’s sudden logic scare her.
+
+ 
+
+“No worries, just need to push them back long enough for me to beef the door up. Even if these guys were human once… Sis doesn’t consider them to be so anymore and that means upgrading whenever and whatever I want.” Delta slapped her hands together with a smile.
+
+ 
+
+“Atta girl. I’ll go move Jeb so Dev can do her magic show.” he announced.
+
+ 
+
+“Jeb! Come see Devi do magic. Come see the fwoggy make happy lights!” Jack crooned. Jeb looked like his day had just been made and Devina looked like Jack had just called her an obese sow.
+
+ 
+
+“F…Fwoggy?!” the woman said in such an offended tone that even Delta winced.
+
+ 
+
+“FWOGGY!? Devi gonna show Ma and me some Fwoggy magic?” Jeb demanded, his feet stomping away from the door to give Devina a clear shot of the growing hole. Billy slid up next to her and took aim with more of his dangerous arrows.
+
+ 
+
+“Gobbos and Fwoggys… aren’t we terrifying?” Billy snorted.
+
+ 
+
+“This Floor has been nothing but a smear on my pride and patience!” Devina huffed, unable to glare too hard at the excited trolls face.
+
+ 
+
+Delta hid a smile while the woman began to exaggerate her arm movements as she began to call on more spirits.
+
+ 
+
+“Hear my call, oh spirits of the green and life! Help me return these poor fools back to your embrace!” she called. Delta shook her head, even more amused.
+
+ 
+
+Devina was supposed to be her level-headed monster… and yet she couldn’t resist showing off to Jeb. The balls of nature gathered around her finger, drawn from the lush powers of the second floor.
+
+ 
+
+Even weakened, Devina had a whole Jungle to draw on for a source of power. It wasn’t like Dabberghast or Wyin… not druidic in nature. Delta paused then smiled at her own little joke for a moment before she watched Devina’s spirits draw more power than before.
+
+ 
+
+Devina, as a witch doctor, drew upon the soul of the spiritual world rather than physical life and growth of the material world. Her spirits were those of growth and green, their power could help ground to become fertile or blight a land. They whispered secrets of potions to her, the art of herbs and medical brews, and they even seemed to guide her at times.
+
+ 
+
+Delta didn’t know what they were exactly, they didn’t register as monsters or guests. They came off as extension of Devina’s aura… a part hidden from Delta’s sight. Some secret piece that Devina held close to her heart.
+
+ 
+
+Delta respected that and didn’t fret too much. If Devina needed help or had issues with that part of her existence then Delta would help.
+
+ 
+
+No doubt, if she was to create some priest or such, their connection to any deity, would be personal and hidden to Delta.
+
+ 
+
+The five buzzing nature orbs suddenly screeched forward and bowled through the boney hands. The ghosts got it worse as their forms literally burst apart in slimy explosions of ectoplasm. The odd energy keeping their souls and the skeletons minds anchored to this plane lashed out and yanked the black souls deeper into the fortress as Devina guided the orbs in a dance of death and life.
+
+ 
+
+The light coming from the hole in the door erupted and the orbs exploded. The sound of bones raining down on the stone floor soon followed.
+
+ 
+
+“Devi crunch bones without touching them… Devi is much better troll than me!” Jeb whispered as softly as a runaway lawnmower to Jack.
+
+ 
+
+“Nonsense, you simply have talents better suited for… more manual labor, my good lad.” Jack promised.
+
+ 
+
+Billy narrowed his eyes and he loaded a new type of arrow. It looked rather similar to the Blood Mushroom of the second floor. He fired and the arrow slid across a metal fingernail that Billy had clipped on to his real nail. The arrow was slightly nicked and then began to bulge as it soared through the hole with perfect accuracy.
+
+ 
+
+Delta got as close as she could and saw the arrow violently explode, spraying black liquid over the gathering bone soldiers. Their bones began to hiss and a few even fell apart as the joints were sprayed.
+
+ 
+
+“Still got some kinks to work out before Mum will let me use that one on people.” he said annoyed as if Delta’s aversion to melting people was ruining his fun. Delta disagreed but she hadn’t the time to lecture Billy about morals… again.
+
+ 
+
+She focused on the twin doors, the lack of foes touching them made this so much easier as she pulled up the menu for options.
+
+ 
+
+Quote:Twin Doors of the Entrance Hall.
+
+You may enter anytime you like, but you can never leave.
+
+ 
+
+Improve the wood to be more durable! 10 DP
+
+Create twin port windows near the top to rain hell down on foes. 15 DP
+
+Install climbable ladders on the wood that lead to the windows. Adds a platform to stand on. 5 DP
+
+Install slivers of iron in the wood to cause damage to ghosts. 15 DP
+
+Close doors after a certain time. 5 DP
+
+Have the doors open automatically when allies approach from outside. Can be overridden by Core. 10 DP
+
+ 
+
+It was all pretty good and basic things. The iron chips in the wood especially sounded great right about now.
+
+ 
+
+They were all cheap so she purchased the lot. The only thing standing between her Core, her monsters, and the army of the living dead was those damn doors. If Delta saw something stronger than bones and slime come at her, she might for the first time… build traps.
+
+ 
+
+The idea was so alien that she had actually forgotten where the option was on her menu.
+
+ 
+
+Jack was right, until she could ‘claim’ the space, it might be worth filling the halls with so many traps it would be an issue in itself to invade Delta.
+
+ 
+
+How did it work out that she needed traps to keep things in, not out?
+
+ 
+
+Delta guessed that was just how she rolled now.
+
+ 
+
+The twin doors glowed with orange hues as the dark wood became glossy and lines of metallic iron streaked along the massive panels.
+
+ 
+
+A line in both doors sunk in and left behind simplistic ladder rungs that reached a spreading semi-circle platform. Delta flew up to see each platform had a large hole cut out of it. The only way to close the holes were to pull down comically large corks.
+
+ 
+
+Delta stared but they were indeed giant versions of the corks from Fera’s new wine bottles.
+
+ 
+
+Sis was getting creative. Billy and Cois raced to the top. Billy winning due to simply spending more time climbing and the fact that Cois had to heft a staff and mask up the ladders.
+
+ 
+
+“Take those suckers down!” Delta yelled and the goblins didn’t even need that much encouragement before explosive arrows and fireballs were hurled with glee. Cute little balls of destruction, her goblins were.
+
+ 
+
+The hole in the door was fully repaired and the few battered axes that got through to attack suddenly found the rotting twin doors to have gained a slightly improved paint job. The ghosts literally smoking and hissing as they tried to pass through to devour her Mana were especially nice to see.
+
+ 
+
+The most annoying part of it all was that even if bones or ghost bits landed in her room through the windows… she couldn’t absorb them. The essence, the parts that mattered were being called back by that damn annoying power.
+
+ 
+
+“Nu?” she called and she just noticed the box hadn’t been present since she came down here…
+
+ 
+
+Odd, it wasn’t like Nu to miss a chance for potential Dungeon superiority matches and a chance of bloodshed.
+
+ 
+
+Quote:I’m here but… Sis and I have been busy.
+
+ 
+
+Nu’s box shimmered into sight and Delta stared as somehow his blue box looked static and grey in places. As if chunks had been bitten out of him or downright ripped off.
+
+ 
+
+Quote:‘Tis but a flesh wound. The force behind these damned things has been trying to slyly infiltrate the System to get at you but Sis is pissed. She’s beginning a full on war with the little slug.
+
+ 
+
+This was so alarming that Delta turned to glare at Nu.
+
+ 
+
+“Why didn’t you tell me? I could be helping!” she demanded. Upset to see her Menu… her friend… so damaged. What state was Sis in?
+
+ 
+
+Quote:You have been helping! Claiming this room and blowing his pets up has been wonderfully distracting.
+
+ 
+
+Nu’s utter calmness was getting to Delta and she shook her head.
+
+ 
+
+“I can do more!” she protested.
+
+Quote:
+
+No. Not now. We are your Menu. We are the System that exists to support you. What good are we if we let bugs crash the system, Hm? Your battle is here. Trust us to deal with what we do best. The Complicated-behind-the-scenes stuff.
+
+ 
+
+Nu turned to look at the fortified door.
+
+ 
+
+Quote:Besides, you have your hands fu-
+
+ 
+
+He was about to praise Delta, she could feel it! But Jeb peered down and tried to smush Nu’s box like a fly.
+
+ 
+
+“Glow bug gone!” he smiled proudly.
+
+ 
+
+Nu flickered above the hand.
+
+ 
+
+Quote:Core Almighty. System support me…You summoned the troll and it’s already wonky. Why is it… where is the gruff killing machine?!
+
+ 
+
+Delta shrugged.
+
+ 
+
+“In there somewhere. The killing we got but can you kill that which is already dead and keeps coming back, or do you just sort of inconvenience it?” she mused. She got Nu’s attention with a snap of her fingers.
+
+ 
+
+“How is Sys?” she reminded him of the question, opening her menu to see what options she had available to beef up her current core room. Multi-tasking soothed her for some reason.
+
+ 
+
+Before Nu could answer, the answer itself became clear as Delta’s menu sparked and flickered so badly she couldn’t see any of the options.
+
+ 
+
+She stared for all of three seconds before she snapped her gaze to Nu.
+
+ 
+
+“Go to her and make sure she’s alright!” she commanded him. Nu was gone in a second.
+
+ 
+
+“Bye bye glow bug.” Jeb said sadly.
+
+ 
+
+Delta could fret… she could panic… hell, she could even pace in worry, but she wasn’t going to do any of those things. Nu’s words and Sys’s issues made her know exactly what to do.
+
+ 
+
+Sure, she couldn’t box zap and teleport like Nu into the hidden depths of her own Dungeon System but she knew how to help.
+
+ 
+
+It was something she was very good at.
+
+ 
+
+“COIS! BILLY! Hurry it up, I want those doors ready to be opened!” she ordered and her voice was so sharp her goblins nodded without any hint of joke or backtalk.
+
+ 
+
+“Got it, Mum!”
+
+ 
+
+“Give me a minute to focus!”
+
+ 
+
+She turned to Rale and Devina but they met her gaze with understanding.
+
+ 
+
+Rale’s muscles bulged as he actually frowned. Devina looked more mystical as she gathered power.
+
+ 
+
+Jack rubbed his chin.
+
+ 
+
+“I like this side of you, Hero. Jack’s at your command. Lead him well.” the Kobold grinned. Delta just nodded as she eyed the most important part of this plan.
+
+ 
+
+“Jeb… I need you to listen closely to your Ma. Okay?” she called softly. The troll nodded instantly.
+
+ 
+
+“When that door opens. I need you to make all the bones and slime filled people go away. Can you do that?” she asked with a warm smile as if she wasn’t about to let loose a troll into the hallways to rampage.
+
+ 
+
+No one… messes with Sis. That girl did nothing but her best and something had the gall to bite Nu or tear him up and attack Sis?
+
+ 
+
+Did it think Delta was just going to sit here and accept that?
+
+ 
+
+Heck to the frick no.
+
+ 
+
+“Clear!” came the response.
+
+ 
+
+“Go go go!” Cois screamed.
+
+ 
+
+Delta swiped one hand and the doors swung open, the sniper nests above now having no means of escape unless her goblins jumped. Jeb roared and the room shook as he eyed the approaching skeletons.
+
+ 
+
+“YOU WON’T TOUCH MY MA!” he shouted and took off, lumbering like a force of nature.
+
+ 
+
+“Charge!” Delta yelled.
+
+ 
+
+Her frogs weaved into battle. Jack lobbing bombs that exploded with thunder and laughter and troll gas.
+
+ 
+
+Numb took up the tail end and his fists cracked the leftovers with ease.
+
+ 
+
+“Look at me, you creepy son of a birch!” Delta whispered, hands clenched tight.
+
+ 
+
+“I’m right here and I’m coming for you!” she said, her core blazing behind her.
+
+ 
+
+---
+
+ 
+
+Sis gasped as the tendril of… well, nothing... lashed at her.
+
+ 
+
+Her chair had been overturned and her white dress was torn along the sleeves and her bare feet were covered in scratches. She shielded herself and dozens of boxes and slots covered her like armour. She repelled the touch of nothing. It devoured some boxes, ruined others. Nothing Sis couldn’t fix if given time.
+
+ 
+
+She reached out and a sword of blazing gold appeared in her grasp.
+
+ 
+
+“Thank you Yal, now go before it finds you!” she yelled to the golden box that had appeared. She swung and the space of the System erupted in golden fire, pushing the invader back. It wasn’t enough. Yal’s sword was good but it had been a quickly made weapon. Not his usual grand style.
+
+ 
+
+A green box appeared and a shield of shining emerald appeared on her arm. The other side was of Sapphire and glimmered.
+
+ 
+
+Twin sided shield.
+
+ 
+
+“You two go as well!” Sis cut the communications.
+
+ 
+
+Sis watched as gold fire and boxes were drained, turning to dust and endless silence.
+
+ 
+
+“You are such a pain. Always have been, you dirty cheater,” Sis growled. That comment almost sent the nothing into a fit of rage. Sis winced as she felt the next attack coming up. The Silence had done nothing but make this invader’s mood worse.
+
+ 
+
+She was about to hope the Twin Shield would hold when a comet of Blue smashed into the being and Nu’s form reappeared.
+
+ 
+
+Without a word, they began to make the thing chase them both. This enraged it further. Just like old times, Sis mused.
+
+ 
+
+It all came to a stop when the nothingness and Silence was broken by something in the distance. A single Mushroom poked its head out of the bleak endless nothing.
+
+ 
+
+It blazed orange and a second appeared.
+
+ 
+
+Then… it stopped. Sis blinked as the attacks ended. Nu laughed with delight.
+
+ 
+
+“Yes… it’s so much better watching her mess up other people’s grand plans!” he laughed like a madman and Sis couldn’t blame him.
+
+ 
+
+She wanted to laugh as well.
+
+ 
+
+The single glowing Mushroom pushed back the nothing and that was the last thing Sis saw before she secured the hole and patched the crack in the System.
+
+ 
+
+Her smile slipped, once she noticed how many things she now had to fix. Delta’s orange Mana had slipped into more parts of her System.
+
+ 
+
+Not good… but also… kind of good.
+
+ 
+
+Room Configuration was kind of important but it was only Delta’d to the point of being weird, not broken.
+
+ 
+
+What else could a System ask for?
+
+ 
+
+---
+
+ 
+
+Ruli wanted to contract herself to Delta just so she could kiss the damn girl.
+
+ 
+
+Delta had a bar! A real bar with seats and drinks and a grumpy barmaid! But the best part was that no one could steal Ruli’s favourite seat - yes, she had already chosen the best seat in the house. A large stool at the corner where one was not too close or too far from the musical mushrooms, which were playing some oddly energetic music that Ruli could see herself rushing into battle to.
+
+ 
+
+Close enough to order a drink but not be pushed by others ordering drinks. Good view of the room, enough space behind her to feel safe but not paranoid.
+
+ 
+
+The only downside was the place was missing the three stooges.
+
+ 
+
+Fera—Ruli had to pry that name out with a tip—told her that they were on a mission to clean Delta’s basement.
+
+ 
+
+One, Delta having a basement was odd for a Dungeon, and two, she couldn’t see that asshat Cois doing anything without a good reason and tons of bribery. Must be some near disaster on the Third Floor.
+
+ 
+
+Maybe Delta made a casino or befriended some Hydra worm. Delta was good with people like that. She sighed as she sipped her mushroom brew.
+
+ 
+
+It had a mix of the special stuff of Durence in it, but Fera had put her own spin on it as well so it was spicy and a little tongue numbing.
+
+ 
+
+Ruli didn’t like it at first… then she did, so she drank it again… then she felt conflicted.
+
+ 
+
+The drink was, quite oddly, disgustingly tasty. Ruli sipped with a grimace and then sighed in contentment. She could see why that slip of a girl got wasted. This place was just the best.
+
+ 
+
+It helped that Fera had no proper concept of prices for the outside so everything was dirt cheap. Something Ruli would fix when she was… uh… leaving. Just being a good guest.
+
+ 
+
+“What’s a girl got left to enjoy? Fishing, beer, no Quiss or Mum… this is the gooood life.” Ruli down her drink with a gag before burping in pleasure.
+
+ 
+
+“So, where’s Delta at?” Ruli asked politely.
+
+ 
+
+Fera gave her a long look.
+
+ 
+
+“Fighting some Silence bloke on the Third Floor. Waging war on some undead army and I can’t do do nothing‘cause I got to keep an eye out for guests, right?” Fera complained. She blinked as the mug rattled on the bar, the woman gone faster than Fera could detect.
+
+ 
+
+She heard Fran’s door being kicked open and then nothing else.
+
+ 
+
+She eyed the copper coins and shrugged.
+
+ 
+
+At least she paid her tab.
+
+ 
+
+Fera smirked as she poured herself a glass of Lord Mushy’s wine.
+
+ 
+
+Shame if Mama suddenly got some help in the form of that powerful woman.
+
+ 
+
+Be a real shame.
+
+ 
+
+---
+
+ 
+
+Delta watched through Devina’s eyes as Jeb turned, after finally putting down the remains of a large lion skeleton, and nearly choked in dismay as Jeb lumbered back with one of his arms having been torn off.
+
+ 
+
+He looked in pain and a little confused but he beamed as Devina tried to fuss over him.
+
+ 
+
+“No worries, Devi! Pain already gone. See!” he boasted and Delta couldn’t look. Jeb went on as Rale swished his trident and beheaded some ghosts, his trident clearly a bit more than just for show that Delta had assumed.
+
+ 
+
+She had never seen a ghost be beheaded, vanish, then reappear whole only to get blasted by Devina.
+
+ 
+
+“Arm gonna be back inna a day, wotz a few hours?” Jeb shrugged. Delta blinked and sure enough, a little nub of bone was already growing out of the stump. Gross but also kind of cool. She hadn’t forgotten Jeb could regenerate but she didn’t think that it worked for entire limbs!
+
+ 
+
+The hallways were being cleared up but if they didn’t push on… then the damn army would just be back again soon. Where was the damn summoner or creepy relic keeping them here? Delta also didn’t want Jeb to fight that thing again. Jeb didn’t have a spawn room!
+
+ 
+
+“We have to send Jeb back if we can’t make progress. Without a spawn room, he won’t come back.” Delta said, her voice actually coming from Devina’s body like an echo. Everyone blinked but Jack sounded the word ‘room’ out over and over.
+
+ 
+
+“Well, some rooms ahead. Got one with a few books. Got one with a statue… got one with a Forge Demon’s workroom but it was emptied and I think it moved on-” Jack rambled but Delta now knew what to expect at least.
+
+ 
+
+“First room becomes the Troll Space. We can set up more choke points from there!” she ordered.
+
+ 
+
+Her friends and monsters nodded grimly, pushing onwards to the next room. Jack placed odd thin traps along the way that would detonate if triggered. Delta was going to make sure he was the first one to walk back.
+
+ 
+
+Delta focused and fretted as the next room’s door loomed ahead… she had… an odd feeling she wasn’t going to like what she found in there.

@@ -1,0 +1,193 @@
+---
+id: 7bc56731-8a68-50af-97fb-33aa1a311b0b
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-Seven - Anticlimax"
+slug: 0079-chapter-seventy-seven-anticlimax
+partOf: stray-cat-strut-stubbing-never-lol
+position: 79
+ownLength: 1942
+unit: words
+publishedAt: 2020-11-06
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/580345/chapter-seventy-seven-anticlimax"
+royalRoadId: "580345"
+---
+
+Chapter Seventy-Seven - Anticlimax
+
+We crossed the barricaded street and moved through a crowd of wide-eyed idiots who didn’t seem to understand the concept of not standing right next to the incursion zone.
+
+It was probably not that big a deal, but I imagined one of those bigger flying bastards showing up. There would probably be more deaths to trampling than anything the xeno could do.
+
+The mobile base came to a rolling stop next to the temporary forward base I’d visited just a few hours ago. Hours that felt like weeks. 
+
+“Where will you be going now?” Gomorrah asked.
+
+I looked over at the nun. “I... I think I’m going to go check on my family,” I said. “They were caught in the middle of all that and...”
+
+She nodded. “That’s fine. You go see if they’re safe. I think I’m going to stick to the edges for a while. I doubt there will be much work for me to do, but I’ll be around if I’m needed.”
+
+“Cool,” I said. “Keep in touch?” I asked before extending a closed fist towards her.
+
+She bumped it after a moment’s hesitation. “Likewise.”
+
+I grinned at her before stepping off the side of the mobile base. Or at least, over the railing, then down along one of the sloped sides and onto one of the tires. The drop from there was a bit lower and a whole lot more manageable. The two Dumbasses clattered along after me with robot-cat-like grace.
+
+It earned me a few looks, but the pervasive ‘don’t fuck with a Samurai’ field kept people off my back. “You got the kitten’s address?” I asked.
+
+I do. The rooms they’re in have cameras. I can confirm that they’re in good health and somewhat safe.
+
+“Somewhat?” I asked. 
+
+They’re within five kilometers of the edge of an incursion. 
+
+That was... a fair point. I was going to comment on it when I saw a familiar soldier moving by. “Monroe!” I called out.
+
+The man stopped and turned my way. “Ma’am?” he asked.
+
+“Hey, you think I can borrow a car?” I asked. “And, uh, someone to drive it?” 
+
+“Are you returning into the incursion zone?” he asked. “I’m afraid that, per corporate regulations, our squadron won’t be able to return for another few hours, but I can find another to accompany you.”
+
+“Nah,” I said. “I just need someone to drive me out into the city. Uh, the part of the city not filled with aliens.”
+
+“Oh,” he said. “One moment then.” The soldier turned away while bringing a hand up to the side of his head. I could hear a faint murmur as he spoke at someone, but his helmet insulated me from most of it. “Speedy is free,” he said. “You can meet her over by the hovercarpool. That’s just over there. We appropriated a parking garage.”
+
+“Thanks Monroe,” I said.
+
+“No problem ma’am. And good work out there. We did good.”
+
+I gave him a thumb’s up before he went on his way, then I took off in the direction he’d pointed me in. 
+
+The parking garage was a few floors up, but the power was still on and the elevator I called down cleared up real fast when the people within took a look at me. I was a bit... bloody looking. My pants had a few tears and my hair was a bit wild. I tried to fix myself up using the reflection on the inside of the stainless steel door.
+
+When I stepped out of the elevator--having given up on cleaning myself--it was to find Speedy waiting for me leaning against the far wall. “Heya boss,” she said before flashing me a gap-toothed grin. The meds I’d given her were supposed to grow her missing teeth back, but that still left her looking like a meth addict for a bit. 
+
+“Heya Speedy,” I said.
+
+“I requisitioned one of the faster cars,” she said while pointing over her shoulder with a thumb.
+
+The ‘faster car’ turned out to be some sort of muscle car, all squarish and brutal, with armored plates riveted to its sides and a light bar across the roof. It even had additional lights at the front; the super-bright sort that could blind a person in mid-day if they annoyed the driver.
+
+Speedy was giggling to herself as she slid into the driver’s seat. I was tempted to maybe call up an Uber instead of riding with her, but the extra effort that would demand--and the charge on my rather pitiful credit account--lead me to folding.
+
+“Where to?” Speedy asked as she settled into her seat.
+
+I started looking for the belts before we took off. “Myalis can give you the address. It’s... some hotel somewhere.”
+
+“Nice!” Speedy said. A moment later one of the screens on the dashboard switched over to a map and Speedy floored it. “So,” she said as she ducked us under a lorry. “Heading to your friends?”
+
+“More like my family,” I said.
+
+“You’ve got kids?” she asked.
+
+“Nine of them.”
+
+We almost met a grisly end into the side of a skyscraper as Speedy whipped her head around.
+
+“Orphans!” I said. “Orphans. Just a big bunch of brats.”
+
+“Oh, oh that makes more sense,” she said. “Just a group of kids you’re keeping safe, eh?”
+
+“Yeah,” I said. “Me and Lucy watch over them.”
+
+“Ohh,” Speedy said, drawing it out long and low. “You and Lucy huh?” 
+
+I grinned. “Yeah. I miss her.”
+
+“I’m sure she’ll be real... excited when her hero comes back.”
+
+“I sure hope so,” I said. “I could use a bit of relaxing.”
+
+Speedy lived up to her name, because a minute later, after a dozen harrowingly close calls, we were pulling to a stop before the front lobby of a hotel. Not one of those pod places, but an honest to god high-rise hotel with an entrance lobby filled with marble and statues and art pieces that were probably worth more than what most people made in a lifetime.
+
+Unauthorized usage: this tale is on Amazon without the author's consent. Report any sightings.
+
+The moment the car stopped a pair of valets ran out of the entrance, neither of them looking terribly happy. 
+
+“I’m off,” I told Speedy as I unbuckled myself. “You have fun Speedy, and try not to run into a building.”
+
+“See you around, Cat,” she said. “And don’t forget to wear protection!” 
+
+I laughed as I stepped out and closed the door behind me. 
+
+Speedy rolled off just as the valets arrived and a group of security guards showed up by the entrance. It had to be a pretty fancy place if they had their own guards. “This parking is for esteemed customers of the Meri--”
+
+“Shush,” I said as I turned around to the valet who’d started. “I’m looking for a group of kids. Probably called the Kittens?”
+
+The man straightened. “The privacy of our clients is--”
+
+I raised a hand. “Myalis, do the thing where you show off that I’m a Samurai.”
+
+Of course! 
+
+The valets and the guards all twitched, and just like that, their demeanor changed from pissed off idiots with rods up their asses to hyper-obsequious idiots with rods up their asses. 
+
+“Just, just bring me to my friends,” I asked.
+
+One long elevator ride all the way to the top and I arrived at one of the penthouse suites. That Deus Ex had casually tossed around a few million credits to rent the place for a few days was... appreciated. It was a lot of cash to drop on a stranger on a whim. I couldn’t help but be suspicious about it, but there wasn’t much to do right then and there.
+
+I knocked on the door leading into the rooms and waited. There was screaming and tussling going on on the other side, the kind that I’d grown quite familiar with.
+
+And then the door opened and I looked down to see Junior staring up at me.
+
+The teen took me in, from my boots to my messy hair stuffed under my hood. “Shit Cat,” she said. “I’m digging the pissed off action hero look.”
+
+I sighed. “Heya Junior. Can you get out of my way or will I have to move you?”
+
+She grinned, then that grin faded a bit. “Your threats aren’t any fun when I know you could carry them out,” she said. “Can I get an arm like that? Oh, and you still owe me a knife.”
+
+I barked a laugh. “Fuck off,” I said.
+
+She pulled the door open wider to let me in, then, because she was a little shit, she shouted. “Room service!” 
+
+“I swear!” came an all too familiar and angelic voice. “When I find out which one of you ordered room service again I’ll...”
+
+Lucy stepped around a corner and froze up.
+
+“Cat!” 
+
+I was rammed backwards by a few dozen kilos of worried Lucy, her arms squishing me tight while her crutches clattered to the floor behind her. “Lucy,” I said as I pulled her close and let my head fall atop her head.
+
+“Oh, you’re alive,” she said.
+
+“Why do you sound surprised?” I asked. The joke fell short when I saw the tears in her eyes. “Hey, it’s okay?” 
+
+She sniffled, then smiled before climbing onto tip toes and pressing her lips against mine. Her hands crawled up my sides and she let out a surprised little noise when she bumped into my new arm. 
+
+I melted a little, the stress keeping me rigid dissolving, and when she tugged me back and we stumbled deeper into the penthouse, it was all I could do not to collapse onto the floor with her. 
+
+“Kids!” Lucy said as she pulled away for just a second. “We’re going to be busy for a bit.”
+
+There was a chorus of ‘ewws’ from the Kittens. 
+
+And then a deluge of questions. Where had I been, did I kill lots of aliens? Did I film it? Could they see my guns? What was up with my new eye, and the arm? 
+
+“Later,” I said while counting heads. The twins were there. Nose was on a couch staring at a screen. Daniel was out of his chair and on another couch where he waved. 
+
+Spark and Tim were... doing something to a toaster and Bargain and Nemo were paused halfway through the act of rolling across the hardwood floor mid-fight.
+
+That’s all I had time to see before Lucy yanked me into a bedroom. A nice one, with a four-poster bed, and an attached bathroom and a thick carpet underfoot. 
+
+My boots came off with a clunk and my invisibility jacket fell off at some point.
+
+And then I was sitting on the edge of the bed, Lucy pressing down on me until I fell. “How was your day?” she asked rather coyly.
+
+“It just got better,” I said.
+
+She paused, eyeing me down from within a curtain of her long hair. “Do you want to talk about it?”
+
+“I... maybe?” I said. 
+
+She smiled. “Give me a minute then. I need to use the washroom, and then we can... talk.”
+
+I grinned up at her and watched her move off. She was a bit awkward without her crutches, but it was fine. A temporary problem.
+
+My head rested back onto the bed and I smiled at the lingering scent of Lucy’s cheap shampoo. 
+
+Good night, Cat.
+
+I didn’t have the energy to ask Myalis what she meant. I was safe. I was as close to home as I could possibly be.
+
+My eyes slid shut...
+
+***

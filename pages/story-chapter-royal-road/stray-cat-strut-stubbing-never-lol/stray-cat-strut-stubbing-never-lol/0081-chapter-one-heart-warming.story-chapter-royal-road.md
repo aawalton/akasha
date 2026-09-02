@@ -1,0 +1,167 @@
+---
+id: 6529f2d4-40fa-5923-9ca4-e92132e64d67
+page-type-slug: story-chapter-royal-road
+title: "Chapter One - Heart-Warming"
+slug: 0081-chapter-one-heart-warming
+partOf: stray-cat-strut-stubbing-never-lol
+position: 81
+ownLength: 1642
+unit: words
+publishedAt: 2020-11-16
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/585806/chapter-one-heart-warming"
+royalRoadId: "585806"
+---
+
+Chapter One - Heart-Warming
+
+I shifted.
+
+Something poked at my back, just a bit above my ribs. Had Lucy snuck into my bed again? I loved the girl, but sometimes she was all elbows and knees and a real pain to sleep beside. 
+
+Turning a little, I found myself rolling onto my stumpy side, only to run into a bit of a problem. 
+
+I had an arm.
+
+Or rather, a second arm.
+
+Some of the sleep-addled grogginess faded a little and I turned back onto my back and blinked up at an entirely unfamiliar ceiling. There wasn’t any cracked drywall above me. Instead, I could see a ceiling with recessed LEDs through the gauzy curtains of a four-poster bed.
+
+There was no way in fuck that I was back at the orphanage. 
+
+“What time’s it?” I mumbled as I started to look around. I was still dressed. At least, I had pants on, and a jacket which left my stomach bare. My uncovered feet felt just shy of chilly. 
+
+It’s six forty in the morning. Your daily allotment of points has come in. Your total is sitting at eight thousand, two hundred eighty-three points.
+
+I started a little at the voice that... had come from somewhere in my head. Memories came back. The museum, the sky tearing open and aliens raining down around us. Getting impaled and becoming a Samurai... Myalis guiding and trolling me. The kittens flying off to safety. A few interminable and stressful hours spent trying to save people.
+
+“Crap,” I said as I sat up on the edge of the bed. I’d made a mess of the topmost blankets. My invisibility jacket was covered in alien blood and non-alien blood and a lot of dust and crap. A miracle Lucy even let me into the room with it on.
+
+Another memory returned.
+
+“Did I sleep through sex?” I asked with mounting horror.
+
+You didn’t make it far enough to make your statement even remotely true.
+
+“Fuck me.”
+
+That is, in fact, what didn’t happen.
+
+I groaned as I got up. Whisper, my stealth crossbow, rested against the wall next to the door. None of the kittens had grabbed it, at least. I still had my back-mounted guns and tail on, and a hand cannon tucked under my new cybernetic arm. 
+
+“I’m a mess,” I said. 
+
+I’d offer you some sort of self-cleaning system, but the washrooms in this place are... adequate. 
+
+I took off my jacket and flung it onto a sofa off to one side. Someone would need to clean the sofa, someone not me. “Yeah,” I said. “Let’s see if we can get some food first. And check on the kittens.”
+
+The penthouse we had was divided up into little rooms. Lucy dumped me in the big suite the night before, but from the open doors I crossed on the way to the kitchen area, the other suites seemed pretty damned luxurious too. The wide open lobby area, sofas and a wrap-around television off to one side, took up a space longer than a bus. 
+
+Everything done in marble and wood, with a pinch of gilding here and there. I would have called it ostentatious, but somehow it wasn’t. Obviously, they’d hired some decorators to make the place look like an old-money palace.
+
+Nose and Little Tim were knocked out on the couch, the TV playing some Samurai cartoon on mute. 
+
+I elected not to bother them as I moved around an island bigger than my room back at the orphanage and yanked open the door to the fridge behind it. The damned thing was stocked. I grabbed some cereals of the colourful sort in one of the cupboards and an expensive glass bottle of genuine cow milk in the door.
+
+I poured myself a bowl of Longb’O’s for irony’s sake, then watched as all the little rings started to glow on contact with the milk. “Neat,” I said.
+
+This food provides literally negative nutrition.
+
+I munched through a mouthful of sugary goodness. “Tastes great though,” I said. We could never afford the cool sort of junk food back home. I set the box on its side and watched the scrolling ads for cool toys pass along under a grinning image of a familiar Samurai.
+
+The bastard had been airbrushed, I just knew it. 
+
+“Cat?” 
+
+I looked up to see Bargain standing next to the island. He was a bit short, only his head poking out from above. 
+
+“Hey,” I said.
+
+He looked at me, shrewd little eyes taking me in. “What would you give me not to wake everyone up?” he asked.
+
+Some things never changed. I smiled big and wide at him, and pulled my Trench Maker from under my arm and let the heavy handgun clunk onto the top of the island. “This gun can be loaded with any kind of bullet,” I said. “Samurai magic shit, you know? How much do you wanna bet there are some specifically made to deal with annoying little shits?”
+
+You might be reading a stolen copy. Visit Royal Road for the authentic version.
+
+“That’s a good deal,” he said before running off.
+
+I think we’re going to have a weapon’s safety lesson in the near future.
+
+“The safety’s on,” I muttered before returning to my cereal. I had the envious problem of running out of glowing rings before running out of milk, which meant I was obligated to refill the bowl. 
+
+The next ones to show up were the Twins, and while I was pretty cool with Alpha and Omega, the two of them took one look at me before squealing. “Cat’s awake!” 
+
+Before I could eat any more of my cereal, they were joined by bleary-eyed kittens spawned from all over. Spark and Tim came over, then Nemo and Nose and Bargain who still seemed a bit cowed. It was too bad the others weren’t. 
+
+I listened to their babbled questions for all of a minute before I started feeling a stress headache coming on. “Would you all shut up?!” I shouted. 
+
+That worked about as well as it usually, did, which was not at all.
+
+“Kittens, be quiet,” a soft voice asked from behind the lot of them.
+
+They clamped up like mouse traps going off.
+
+“How about everyone pull up a chair and we can get some breakfast?” Lucy said as she pushed Tim towards one of the seats around the island. It was a little awkward, what with her still holding onto her crutches under one arm.
+
+“You’re going to cook?” I asked.
+
+“Hell no. They have room service here,” she said. “I bet it’s better than those.”
+
+“These,” I said while raising my spoon. “Are great.”
+
+She scrunched her nose at me. 
+
+“I actually met Longbow, you know,” I said with a gesture of my spoon towards the boxart. “He’s... kinda insane. Nice though.”
+
+“Showing off?” she asked. 
+
+I grinned back at her. “Just you wait,” I said with just a bit of a purr in my voice.
+
+She smiled right back. “I waited plenty last night, but someone decided to fall asleep.”
+
+Much to my annoyance, a few of the kittens caught on and laughed at my reddening cheeks. “Oh, shut up you lot, I had a long day.”
+
+“Is that your excuse now?” Junior asked as she came around and took a seat just a ways to my side. She slid the box of cereal over, then huffed and got up to fetch a bowl. “You still owe me a knife,” she said as she fished for a spoon.
+
+“Might as well,” I sighed. “Lucy, you wanna order that breakfast? Also, where’s Dumbass?”
+
+“Sure,” Lucy said as she clacked her way over to an old-school phone on a pedestal nearby. 
+
+Nemo ran off, returning a minute later with one of my little drones clutched between both hands. It was Dumbass the First, sans gun mounting. 
+
+I had the drones disarm when the children started playing with them.
+
+“How responsible,” I said before clearing my throat. “Alright, you little shits. This is Dumbass. It’s got some fancy medical scanner doodad in it. You let it scan you, then Myalis, my wonderful brain worm AI buddy, will tell me how to cure the stupid out of you lot.”
+
+If that were possible, wouldn’t you think I’d have tried to talk you into curing yourself a long time ago?'
+
+I saw Lucy pausing by the phone, and a few of the kittens were looking at the drone with wide, hopeful eyes. 
+
+“Th-thank you,” Bargain said. 
+
+“Oh, shut up,” I said. “You know I’m just doing it to impress Lucy.” Lucy snorted before picking up the phone. 
+
+Junior barked a laugh next to me. “You’re a shit liar,” she said. “And don’t think that curing some incurable sickness will let you off the hook.”
+
+I rolled my eyes while Dumbass got to work. “For... fine. Myalis, we got any sort of knife available?”
+
+You do. In your Sun Watcher Technologies catalogue. The cheapest is a survivalist knife with an extendable monofilament blade. It will cost you five points. 
+
+“Perfect,” I said. 
+
+A cheap plastic box appeared on the table before me and I slid it over to Junior. Her eyes lit up as she tore the package open and pulled out a foot-long knife.
+
+“Monofilament blade,” I said. “Don’t kill yourself.”
+
+“Awesome,” she said, then her smile froze and she turned the knife around. “Wait, why’s it got a cat on the handle?”
+
+I blinked and leaned over. There was, in fact, a feline on the handle. But it wasn’t a cat, it was a kitten. “I think it’s the button to retract the blade,” I said.
+
+“Why’s it shaped like a cat?” 
+
+“A kitten,” I said. “Just like you!” 
+
+She glared, which warmed my heart. 
+
+“Alright! Time to pull a Jesus.”
+
+***

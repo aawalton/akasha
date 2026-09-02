@@ -1,0 +1,563 @@
+---
+id: 0b70d37c-11de-5f58-a325-e256fb7ce1ae
+page-type-slug: story-chapter-royal-road
+title: "213: NPC vs MVP"
+slug: 0236-213-npc-vs-mvp
+partOf: there-is-no-epic-loot-here-only-puns
+position: 236
+ownLength: 3295
+unit: words
+publishedAt: 2024-10-03
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1833482/213-npc-vs-mvp"
+royalRoadId: "1833482"
+---
+
+The room was not cold enough.
+
+ 
+
+"This is interesting," Serma mused as she stood in the room dedicated to those who had fallen. Serma looked up at the main statue of the woman. It was a talented piece of work, more focused on humanizing the figure rather than making her divine, her sadness more the emphasis than any higher power.
+
+ 
+
+A funny thing for a Dungeon to do.
+
+ 
+
+She could maybe guess it was a bluff or someway to lower one's guard, but Serma didn't think so. Even if Dungeons could create almost anything, a sense of empathy wasn't one of them. She was also a little confused about the lack of actual victims.
+
+ 
+
+Even baby Dungeons had at least double digits in terms of foes they had defeated. Most were a violent upheaval in places they landed and grew into, fringes of the world teeming with unimaginable monsters or isolated spots suffering under clashing cultures and stagnate lifes
+
+ 
+
+Dungeons were catalysts, but to what end Serma could never guess.
+
+ 
+
+She looked around the room, hugging herself and a little thankful for the ridiculous suit as it seemed to have some power to contain heat even when it was so thin. Thankfully, Serma could wear comfortable clothes underneath it or she'd never have worn it.
+
+ 
+
+It was just that priestess of truth... damn her.
+
+ 
+
+Serma was mostly sure that shrewd scientist Yattina knew exactly what she was doing when she let Kemy do all the requesting and pleading and smiling and her eyes lighting up when Serma said yes and-
+
+ 
+
+Serma needed to learn to say no if she was going to be any sort of decent Queen. Her capability to disagree or reject earnest people was becoming dangerously weak.
+
+ 
+
+If Mas and his new friend Deo asked her to go to war, Serma would be on a horse waving a scepter and crying for the heads of leaders before she knew what was going on, and that was not a good thing.
+
+ 
+
+Right?
+
+ 
+
+"Mule, you know what I mean, right? A king or queen must be tough, unyielding, and solid," she told the slime who was a puddle in her hands, gurgling gently in delight.
+
+ 
+
+"Serma, you need to do an offering then we can go," came the bored tone of Grim.
+
+ 
+
+Serma needed Grim. He was the sole calm voice of this group aside from herself. He could wrangle Deo and Kemy which unburdened the load on her side immensely when it came to handling Mas and making Yattina focus.
+
+ 
+
+Serma would also sooner drown herself than ever tell Grim this as the boy took any sign of weakness as a chance to smugly stand above you.
+
+ 
+
+Except Deo, Grim was very nagging when it came to him.
+
+ 
+
+Leaving the room, Serma paused at the door and looked back, her heart heavy with worry.
+
+ 
+
+The others swore that this Dungeon was good and even friendly, but Serma worried all the same that her name or, far worse, her friends' names would appear on these walls before the day was out. It wasn't anything the Dungeon had done, but Serma just couldn't shake the lessons she had learned growing up.
+
+ 
+
+Her 'father' had told her and her sisters to behave or they'd be sent to the Dungeon for the night. The same thing he did with criminals. The criminals never escaped.
+
+ 
+
+Serma still had nightmares about that sometimes.
+
+ 
+
+Serma walked up to the offering table and without ceremony, dumped a gold ring into the bowl decorated with small but pure gems of all sorts.
+
+ 
+
+A gift she had received upon becoming twelve. It had been too large to wear until recently but Serma was glad to be rid of it. It clattered into the bowl with a ringing noise while Serma walked on.
+
+ 
+
+In Serma's ideal kingdom, royalty was not proclaimed by gold and gems worn on fragile fingers but in actions and responsibilities that took on strong shoulders.
+
+ 
+
+It was a ring of her grandmother's, but... Serma hadn't heard anything nice about her either to be fair.
+
+ 
+
+"Let's go," she instructed and walked confidently down the hall, looking for obvious holes for traps or spikes protruding from the ceiling.
+
+ 
+
+She was royally prepared for this.
+
+ 
+
+A sign jumped out from the nearby wall on some extended pole and Serma screamed, stabbing it with a knife she had in her sleeve.
+
+ 
+
+Behind her, Grim who had been far too quiet, burst out in delighted demonic cackles.
+
+ 
+
+Serma turned and threw her now empty knife sheath at him.
+
+ 
+
+---
+
+ 
+
+Delta was standing back, far back, from the group as something strange was going on.
+
+ 
+
+Frowning, she teleported down to the bottom floor to call on Nu and Prim, but only Prim showed up.
+
+ 
+
+"Nu is following up on some signals from Jellagon, the little scary monster is getting all jittery with energy," Prim explained and Delta could ask about that but she had a more pressing matter.
+
+ 
+
+"Anytime Deo and Mas interact, I get weird. My brain goes Dungeon-like," she explained and Prim pulled up what seemed to be streams of pure nonsensical data to Delta's eyes.
+
+ 
+
+"It's not a big deal, their seeds are just podmates. It makes them enticing," Prim said and turned to leave and game once more, but Delta dragged her back by her green screen corners.
+
+ 
+
+"Explain or I'm deleting all your save files," she warned and Prim shuddered.
+
+ 
+
+"Seeds all came from the Lost Little Brother, right?" Prim said, turning slowly as if to shake off the accursed sensation of 'human touch', "despite basically bleeding out all over Brother's back and making people and then falling into the Abyss, making Echoes, every seed had its place in Little Brother's body somewhere. Like cells in a squishy demon as I use a sawed-off shotgun to remove its head," Prim said casually.
+
+ 
+
+"The two children simply have seeds, even if one is now technically a replaced Dungeon clone, that came from the same 'cluster'. Seeds may corrupt and give rise to unpleasant results but the Seeds themselves contain a lot of different things. Deo and this 'Mas' seemed to be sharing 'joy'," Prim concluded.
+
+ 
+
+"Deo and Mas have seeds or children of seeds, from the Lost Brother's... good mood?" Delta tried to understand.
+
+ 
+
+"And if said seeds overflowed or became corrupted, making Echoes or something else, it would be best for a proto-type Dungeon to go berserk in trying to claim them before it grew too much, yes? Echoes would get stronger and more stable by absorbing similar wavelengths. What you're likely feeling is the old 'Dungeon' instincts. I'm sure you'll either break it, give it cursed life, make it cry, and/or destroy it," Prim concluded.
+
+ 
+
+Delta was thinking this over when a thought occurred to her.
+
+ 
+
+"Mharia?" she called and from the darkness, the stillness where death and despair could be hiding in all shades of existence, the small pixie emerged with a smile.
+
+ 
+
+"Yes, my Dungeon?" she sang.
+
+ 
+
+"Echo cults... do they tend to attract same-minded folks over time? Like weirdly similar?" she asked the undead lich.
+
+ 
+
+"You can have a different face, be a different race, and even have special taste. However, in your heart, we all echo," Mharia said and then looked far too casual.
+
+ 
+
+"Cults tend to hive mind over time, yes. Sun was different, he had so many flavors of people following him. It was more than just a single think tank, but something special... something... evolving," Mharia mused then looked away.
+
+ 
+
+"Okay, that's mildly ominous, have you been practicing?" Delta asked and Mharia looked pleased when Delta noticed.
+
+ 
+
+"I finally have more than unwaveringly loyal skeletons to give me feedback," she admitted with a twirl of her small body.
+
+ 
+
+"Does the Echo nearby in the town have that effect?" Delta wondered. Mharia looked dismissive at the concern.
+
+ 
+
+"That 'one' is a waste and a failure. It does not nurture the seeds within but converts them to boring drones. That Echo thinks 'one and one and one' is the bee's knees when everyone else is working on exponential growth. It's a little sad, but while he might have lots of Seeds he can interact with, he himself is not really a unique flavor. He's a little bit of nothing from all over," Mharia promised with a snort.
+
+ 
+
+"So, it's harmless?" Delta asked slowly.
+
+ 
+
+"Well, to us, yes! Mostly," Mharia promised and Delta stared at her.
+
+ 
+
+"Mostly."
+
+ 
+
+---
+
+ 
+
+"My, this is unexpected," Mr Japes told Vas as they stood outside the heavy metal door near the edge of town that led deep into the underbelly of the area. It had been torn open from the inside, a massive twist shrapnel of metal slammed into the lock like a delicate key.
+
+ 
+
+"Something evil escaped," Vas said and Japes patted his pride on the head.
+
+ 
+
+"Perhaps, but is it stronger than it should be or is it... more focused?" he asked himself and turned to see the path leading into a nearby alley and then Durence proper.
+
+ 
+
+Trash can lids, bricks, empty bottles, and more had all been collected as if valuable.
+
+ 
+
+"Come, Vas. Let us hunt a would-be-adventurer," Japes instructed and casually began to follow the trail, his little boy close behind.
+
+ 
+
+---
+
+ 
+
+Thomas Darkblade walked forward, the bustle of the town invigorating him with a deep desire to look for groups and ask for invites.
+
+ 
+
+"Two priests, but only one warrior. Cut her and get a mid-range offense," he said to one group, annoyed at their overreliance on healing when damage was an option. They backed away from him but something in the warrior's face changed as Thomas Darkblade's wisdom took root.
+
+ 
+
+Overwhelming firepower won most fights. Healers were just there to increase odds and help!
+
+ 
+
+He walked forward, brushing the sides of a woman.
+
+ 
+
+"That sword is old and outdated. A new one is there for some silver," he told her with a nod to a stall and the woman became annoyed.
+
+ 
+
+"It's my father's!" she snapped and then she seemed to really look at the sword with some pain as his experienced words sunk in.
+
+ 
+
+"It is a little chipped," she admitted, almost forgetting Thomas Darkblade was there. He inhaled people's insecurities, their doubts, their weaknesses, and he breathed logic into them.
+
+ 
+
+He brushed up against a group of professions in white.
+
+ 
+
+"Your weapon diversity is terrible, you need to improve the selection to optimize your pierce, blunt, and slashing," he said and they looked at him with bored expressions. Thomas Darkblade was about to move on but froze. He turned back.
+
+ 
+
+"You all have the same weapon," he repeated.
+
+ 
+
+"It's standard issue," one of them said and Thomas Darkblade narrowed his eyes.
+
+ 
+
+"Starting equipment is trash," he stressed. Something was wrong with these ones. It was as if their very souls had gone deaf, had cut their ears off and become dull fools. He cheerfully grabbed one by the neck and lifted him in a friendly manner.
+
+ 
+
+"You seem new at this. Newbies can be frustrating, but I am Thomas Darkblade. I shall ensure you get on the correct path to race to the end game and get the optimal build that makes you very special and just like everyone else!" he promised and the man was so excited he couldn't speak.
+
+ 
+
+He was so happy, he was choking!
+
+ 
+
+His two team members were trying to hit him with poor sad equipment, tobviously trying to be the first to receive his teachings, but Thomas Darkblade has near 80% reduction on all slash weapons on top of his physical damage reduction on top of his rings of protection on top of his socks of mitigating on top of his-
+
+ 
+
+Fire consumed him, lightly at first but it burned through his defenses like a hot knife.
+
+ 
+
+Thomas Darkblade dropped the man and turned with a smile.
+
+ 
+
+"A fire mage! I am a huge fan! Massive damage per second potential," he praised the blond man.
+
+ 
+
+"You wanna spend the night behind bars for attempting to choke the life out of a Fairplay member? I get the hostility but behave," the mage warned. Thomas Darkblade was ready for this.
+
+ 
+
+"Here's 2 gold for your services and to look the other way," Thomas Darkblade winked. The man took the gold, his eyes going distant for a moment. Such fun.
+
+ 
+
+He was a guard! Guards enforced the law but all guards could be bribed.
+
+ 
+
+"I..." the man wobbled as if trying to make his body behave.
+
+ 
+
+"I passed the speech check. Run along," Thomas Darkblade insisted.
+
+ 
+
+"Oi."
+
+ 
+
+Thomas Darkblade turned and a fist sunk into his face, collapsing the mimicry of bone and flesh.
+
+ 
+
+"No one breaks Quiss' mind except me and a bottle of Cherry Fairy Whiskey," the woman said. Thomas Darkblade simply stood up as his innate healing fixed the damage in seconds with the help of some stale bread.
+
+ 
+
+Now named, the guard called Quiss seemed to shake off Thomas Darkblade's influence like a cobweb.
+
+ 
+
+"And you are... interesting," Thomas Darkblade decided as he eyed the massive woman who looked like she bench pressed bovines for fun.
+
+ 
+
+"That wasn't very nice," Quiss said, pocketing Thomas Darkblade's gold without shame as he glared.
+
+ 
+
+"You make my skin crawl," the woman decided and Thomas Darkblade felt this was a boss encounter and doing what any sad solo player should do, he mentally sent out a group invite.
+
+ 
+
+An open, no limit, no level restricted, no item level group invite.
+
+ 
+
+All around them in the market, people began to go from simply watching the scuffle to turning interested. They would join in soon, but Thomas Darkblade was more interested in the little pieces of himself rushing forth from every bar, special bargain store, and cave in the nearby area.
+
+ 
+
+Thomas Darkblade reached out, and the coughing 'dull' one got to share some of Thomas Darkblade's bread.
+
+ 
+
+Even dull, even deaf, a little piece of Thomas Darkblade was pure skill.
+
+ 
+
+"Ruli, get away! Don't let him put anything near you! He's toxic!" Quiss the [Fire Mage Guard] cried out. Turning, Thomas Darkblade raised a hand and caught the woman's kick as it tried to land without warning.
+
+ 
+
+This woman was an NPC. No, almost an NPC. Too different for him to ever work with as a person but maybe... as a pack mule? A strong woman to carry all of Thomas Darkblade's things over cold mountains and in deep dungeons.
+
+ 
+
+It was almost exciting.
+
+ 
+
+---
+
+ 
+
+"We should help," Vas said as they stood far back in the shadows of an alley.
+
+ 
+
+"We will help but this is a symptom, not the cause of the problem," Japes said softly. His boy had gotten attached to the people. Japes could have prevented it but there was no problem with it in his eyes. Every healthy boy needed friends and such.
+
+ 
+
+Japes never had any, and that might have caused him to be the way he was now!
+
+ 
+
+Or was it the intense trauma and dark dealings he did in his teens?
+
+ 
+
+It was hard to guess.
+
+ 
+
+"I don't get it," Vas admitted. Japes bent down as Quiss went flying through a cart of green vegetables, making the owner weep at the loss of profits.
+
+ 
+
+"Vas, Echoes are monstrous things," he said gently.
+
+ 
+
+"How do you know?" Vas asked curiously.
+
+ 
+
+"I was one for a time, until I got bored," he said kindly and then pointed back to Tommy Dullblade.
+
+ 
+
+"Echoes focus. They become little drains and settle. Thomas was settled and now he's not. I could blame that dashing woman, Yattina. Her mind was sharp as a scalpel and just as fun to dance with," he admitted then looked back at Vas who looked more confused.
+
+ 
+
+"A little worm is wriggling in his ear, but I suspect I know who this pest is, and if it is 'her'... things are on the move. I just need to make sure this is all Thomas Darkblade and not 'Thomas Darkblade and more to come'," he told Vas who looked doubtful.
+
+ 
+
+"Thomas can be handled by mortals. Most weak Echoes can be. Once they understand his limited worldview, they'll drown him out, but Eral...she's different. She's a threat," Japes warned while standing back up in time to see robotic-acting men surging forward to ambush Quiss and Ruli.
+
+ 
+
+Vas still looked upset and Japes sighed.
+
+ 
+
+He stretched a leg out and tripped one up.
+
+ 
+
+"See, your papa is helping," he said brightly.
+
+ 
+
+Vas' response was less than he hoped for.
+
+ 
+
+---
+
+ 
+
+"Spiders, this seems simple enough," Serma decided as she eyed the mass room of webs with only some narrow passages open to move about in.
+
+ 
+
+Serma didn't mind bugs and related small critters.
+
+ 
+
+"I can cut us a way through?" Mas said before screens opened before them saying challenges had been disabled for a first time 'proper' run in the Dungeon and to come back another day to do fun challenges in each room for fun rewards.
+
+ 
+
+The Dungeon was luring them back with special events? How devious.
+
+ 
+
+"No need, this room is a response sort. The more violence you dish out, the greater the response. We should move through carefully unless your 'princess challenge' insists you beat every secret boss and such?" Grim spoke up. Serma didn't think it was fair to Grim, but for a moment his words sounded like something her father might have said far too casually.
+
+ 
+
+'Bare minimal effort. As the youngest it's all I will expect from you. It is a gift your sisters would envy,' he said to her once while her sisters performed musical shows or dined with important foreign guests. Serma was to simply exist.
+
+ 
+
+"I want the challenge," she insisted. As she spoke the words, the door on the side of the room leading deeper closed as the curtains of webbing began to ripple.
+
+ 
+
+"Oh fun. I hope you say that in every room," Grim bit out with a grimace.
+
+ 
+
+Serma managed a small smile to herself.
+
+ 
+
+Grim..ace.
+
+ 
+
+The room rippled as a massive white ghostly spider descended from nowhere, touching down with elegance that made Serma feel like a sentient potato.
+
+ 
+
+The back of the spider glowed along a jagged line before a humanoid form rose up with the head of a spider, making some sort of horrific yet beautiful centaur-like form in a long gown of glimmering web.
+
+ 
+
+"Actually this is good, I can make notes to sell at outrageous prices," Grim said.Deo waved at the spider as if it was a dear friend.
+
+ 
+
+"Serma, this is weird and scary and awesome," Mas whispered as the spider-thing turned once to the ceiling where a dozen smaller spiders carried a curving blade to the spider-woman's hands. Serma saw it come through a tiny hole in the ceiling.
+
+ 
+
+The blade itself felt different as if it weren't part of this room, this event... not yet.
+
+ 
+
+On the blade's otherwise shiny surface was a dirty stamp of sorts, like a soot mark by the maker.
+
+ 
+
+"This is really going to do wonders for arachnology and culture customs alike," Yattina decided. The spider... queen, for there was no other real word for it, pointed at Serma with her curved blade as if to invite her forward.
+
+ 
+
+"A one on one?" Grim asked with a frown to his face. Behind the queen, the smaller spiders did a series of elegant waves with their legs.
+
+ 
+
+"Wonder what they're saying?" Deo mused.
+
+ 
+
+"It's the 'you invited her to the dancefloor, now dance or begone' dance," Yattina said, looking at them with her odd eyeball.
+
+ 
+
+Feeling something in her stomach like growing fire, she pulled out her rapier, and in her mind, repeated her cloth hardening spell.
+
+ 
+
+The rest would come down to experience, luck, and whatever else came her way,

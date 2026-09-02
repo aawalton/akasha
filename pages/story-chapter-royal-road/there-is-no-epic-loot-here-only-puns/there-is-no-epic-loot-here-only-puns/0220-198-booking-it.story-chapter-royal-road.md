@@ -1,0 +1,515 @@
+---
+id: c4a86543-cd84-5838-b13c-5b884099873e
+page-type-slug: story-chapter-royal-road
+title: "198: Booking it"
+slug: 0220-198-booking-it
+partOf: there-is-no-epic-loot-here-only-puns
+position: 220
+ownLength: 3149
+unit: words
+publishedAt: 2023-12-26
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1455382/198-booking-it"
+royalRoadId: "1455382"
+---
+
+The Alchemist had the sense there was something unsavory hidden in this haven of literature that the group had found squirreled on the Third Floor.
+
+ 
+
+The books and seats felt welcoming enough but in the shadows, between the nooks and crannies, there was a creeping sensation of death being closer than normal. A chill that appeared when a book was removed too roughly or put back in the wrong place.
+
+ 
+
+The Mage was taking stacks out and declaring the library had 'everything from childish moral tales to horrific scientific notes written in very intriguing reports'. The Alchemist casually moved a monocle over his eye with a finger, the green tinted glass it contained allowed a previously invisible path of solution to light up to his eyes. This was a glowing trail of liquid that the Alchemist discreetly dispersed through a contraption in his shoes that led back to the entrance of the floor.
+
+ 
+
+It showed the floor had remained static and unmoving, for now.
+
+ 
+
+It was only really handy for the current floor since the Dungeon absorbed it on the previous floors. Not that it was any good in a jungle due to the shifting weather. The mix was even made out of a few common ingredients so the Dungeon wouldn't be able to do too much with it that it couldn't just do with its base materials.
+
+ 
+
+He frowned as the Gunsmith held up a thick book, the cover of a woman being seduced by a broomstick with massive masculine eyebrows. It was called 'The Shaft of Love'.
+
+ 
+
+Was she into that? Lo-... The Gunsmith never stuck him as a romantic sort. Trying to focus, he turned the shelves, looking for a secret passage or something to clue them into what the floor may contain.
+
+ 
+
+It was a longshot, but the only other thing to do was prod the stuffed Kobold crammed in between two bookshelves that looked glassy eyed as if heavily drunk or braindead.
+
+ 
+
+That was more the Necromancer's thing. He paused, sniffing the air as the familiar smell of explosive powder lingered in the air. It was an exotic type, a much older mixture that fell out of popularity due its small radius and somewhat unpredictable force.
+
+ 
+
+The Alchemist turned back to the Kobold. He stared at the droopy face and dull scales, he reached out slowly with a dagger he had, readying the point to pierce the eye if there was any sort of reaction.
+
+ 
+
+"I found something!" the Mage cried out and the Alchemist jumped a little, scowling at the Mage before he eyed the ugly stuffed Kobold and shook his head.
+
+ 
+
+This Dungeon was a little strange.
+
+ 
+
+"Same, there's a weird altar in the corner of this place. Made my skin crawl," the Archer said as he reappeared with the Warrior.
+
+ 
+
+"It wasn't so bad," the Warrior smiled.
+
+ 
+
+"What do you have?" the Gunsmith asked the Mage as she wandered over. The Mage held up a strange book that looked to be made out of a strange shiny translucent material. The title was 'King of Many Hats'.
+
+ 
+
+"Looks like a book, in a library," the Alchemist said, trying to shake off that creepy Kobold from his mind.
+
+ 
+
+"Except I can't open it," the Mage said and they all turned serious, eyeing the book with new eyes. The Warrior attempted brute strength, but the thing was stubborn and remained closed.
+
+ 
+
+The Archer who had messed with many locks could find no secret switch or compartment with his dexterous fingers.
+
+ 
+
+The Gunsmith who had expertise on mechanical inventions could see nothing artificial or visibly wrong with the book.
+
+ 
+
+"It is not alive or dead. An object but not," the Necromancer said wisely.
+
+ 
+
+This left it up to the Alchemist who had the smarts to do what they could not. He laid the book down and examined the latch before mixing a few tubes together with quick motions, using his mana to contain the experiments.
+
+ 
+
+The Alchemist was no mage; he couldn't use his mana to shape spells or break reality, but he could use it as tools and containers, allowing him to make more dangerous chemicals on the fly. Soon, he held a bubbling gray tube and dropped a few drops of the book edge, watching as the book almost quivered as the solution ate away the latch with alarming speed.
+
+ 
+
+The book smoked then slammed open with a burst of wind that seemed to fill the room in an outwards howl.
+
+ 
+
+The group looked around, waiting for monsters or a trap, but all they heard was the rustling of papers in the breeze.
+
+ 
+
+"All this for a book," the Archer mumbled as the Mage leaned over to glance at the pages.
+
+ 
+
+"'There was once a King given a duty and a throne too big for his body, but not his heart'," the mage said slowly and despite sounding like every other story book in the room, the words made the ambient mana stir. Usually a sign that something somewhere was reacting to them.
+
+ 
+
+It was either a trap, a treasure room, or both.
+
+ 
+
+"'The King discovered one day that what made him king was not simply an obligation but the crown upon his skull. Thus, the king could be anyone if he had a different hat'" the Mage continued to read, his fingers sinking into the book slightly.
+
+ 
+
+"I was kind of hoping for 'the big boss has a weak spot on his foot that one-shot kills it'," the Gunsmith admitted as the Mage turned the page slowly, finding it sticking to the pages below with a trail of slime.
+
+ 
+
+"'If the king wore a cap, it could be a healer. If it wore a tall hat, it could be a chef. If it fit inside a shoe, it could be a traveler'" the Mage said with a frown and a creeping sensation was filling the room and the Alchemist turned slowly, finding that nothing had changed.
+
+ 
+
+No, something had changed.
+
+ 
+
+"'The king even found if he squeezed into an empty space, he could become a book'" the Mage's voice trailed off before there was a gurgling noise.
+
+ 
+
+Where was the Kobold?
+
+ 
+
+The Alchemist snapped his head around as the Mage tossed the book across the table as it bubbles, forming a slime puddle with massive spectacles atop its head that were fogged over. It formed a rip in its mouth.
+
+ 
+
+"RULES BROKEN!" it screeched harshly, sending most of the candles in the library blowing out in reaction.
+
+ 
+
+"What is that?!" The Gunsmith shouted as she raised her weapon and took aim.
+
+ 
+
+"A fake, it's just a simulacrum!" the Mage tried to explain.
+
+ 
+
+"Mimic?!" the Warrior yelled out, axe raised as his arms bulged with contained power.
+
+ 
+
+"Tomeagon-" it gurgled in warning before it exploded in a dozen pieces of slime as the Gunsmith fired with a harsh burst of explosive bullets, punching a massive hole through the bookshelf behind the slime.
+
+ 
+
+"It's just a puppet shell for something else!" the Mage said over the ringing in their ears as the gun went off in a semi-contained space. The door to the library creaked then slammed shut as every book in the library began to shake and tremble on the various shelves.
+
+ 
+
+That was when a voice that sounded a little unhinged and delighted at the events called out from behind a bookshelf, just out of sight.
+
+ 
+
+"I would say check out some first-aid books but I think they might be against you too," the demonic little voice cackled before it faded, running away with clawed feet clacking on the wooden floor.
+
+ 
+
+From the smoking hole in the shelf, pages began to float against gravity and spin slowly together as massive books and tomes flew off the shelves, slamming into one another with dozens of more books on the way.
+
+ 
+
+"Construct! Go people!" the Warrior thundered. The Alchemist stopped thinking, stopped having worries, slipping into a routine that they had done a dozen of times.
+
+ 
+
+He and the Mage got together, firing off cutting winds and acidic flasks to slow the forming of the book golem as the Warrior, Archer, and Gunsmith sought out the source of the golem's power. It could be a single book or all the books, but something would stick out.
+
+ 
+
+The Necromancer stayed behind releasing a massive cloud of bone ash that he formed into a swarm of birds. The little gray creatures bombed the golem as well, seeping into the golem's forming body and trying to become a layer that would hinder it on all levels if it finished forming.
+
+ 
+
+"Might be a room guardian!" the Archer called out after setting another shelf on fire with his arrows, seeing it had little effect on stopping the golem.
+
+ 
+
+"Then we take it down. Archer, work on that damn door," the Warrior ordered as he pivoted, going for the now nearly complete monster.
+
+ 
+
+It was a massive construct made of books and paper with something inside to give it weight and force. The pages covering its body shifted with magical text that made it near impossible to read, but proved to be very distracting when trying to take it all in.
+
+ 
+
+It raised one of its large fists, forming a strange gesture, and the Mage shouted out a warning seconds before its fingertips glowed orange.
+
+ 
+
+"Maxoff's Second Fireball! Move!"
+
+ 
+
+When a Mage tells you to duck for a fireball, you duck.
+
+ 
+
+The Alchemist threw himself behind a toppled table, watching the room light up as a streak of fire shot overhead, hitting the wall before spreading like liquid over the stone, burning in a wave of heat.
+
+ 
+
+"That's advanced magic- KERRIN'S DEVILISH MIND PUSH!" the Mage cried out again and the Alchemist didn't know the protocol for that spell, but got the idea when three bookcases began to shoot forward with enough speed to break a bone or two.
+
+ 
+
+"Can't you counterspell?!" the Gunsmith cried out as she rolled under one of the flying bookcases.
+
+ 
+
+"Counterspell is just pushing your mana into their spells and messing it up. I can only counterspell people of the same strength, not instant casting golems!" the Mage called back, his face red and his pimples looking alarmingly close to popping due to the stress.
+
+ 
+
+The Warrior used one of the bookcases to leap forward, slamming his axe down on the golem's head, splitting the open book it was using for a face.
+
+ 
+
+A second later, a new book replaced the old one, and the golem went from slinging spells to disarming the Warrior in a complex series of motions and kicking him through the very bookshelf he had used as a platform.
+
+ 
+
+The Alchemist squinted, reading the cover of the book acting as the face.
+
+ 
+
+'The Monk that Went Downtown; an action thriller novel'
+
+ 
+
+The Gunsmith fired, blowing the head off again and a new book promptly took its place, but it did take a few more seconds to integrate than before. The Alchemist had to strain to read the book.
+
+ 
+
+"The Lion and the Walk through the geographically correct savannah'
+
+ 
+
+In a few seconds, the golem had fallen to all fours, fingers forming with curled pieces of paper into claws as a mane of bristled paper rose up, behind its body, a thick tail swished made out of leather book covers.
+
+ 
+
+It roared before it pounced towards the Gunsmith, ignoring the easily targeted Warrior.
+
+ 
+
+Also... very interesting.
+
+ 
+
+"Keep aiming for the head, we need to get a book in place we can handle!" the Alchemist shouted out as he handed the Warrior his missing axe. The Necromancer strained, slowing the lion for precious seconds with his bone ash, letting the Gunsmith to escape a mauling by a thousand papercuts.
+
+ 
+
+"Lock's being a bit tricky, just buy me time!" the Archer announced.
+
+ 
+
+"How tricky?" the Warrior called back, brushing splinters out of his hair as he readied to charge again. The Alchemist looked over to see the Archer digging a hole in the wood with an arrow.
+
+ 
+
+"No lock, so a bit trickier than normal," was the answer.
+
+ 
+
+The golem jumped, pushing off a wall with all four legs to avoid a massive bang from one of the Gunsmith's rifles which it knocked aside, forcing her to draw out a gun from her bag.
+
+ 
+
+The sound of excitement filled the room, making everyone, even the golem, stare at the Gunsmith as she aimed the small slender 'Lady Wood' gun.
+
+ 
+
+"It's not me! It's the gun!" she cried and fired, a massive glowing green bullet emerging to not only hit the golem but punch a massive hole through it that temporarily scattered the books and pages into a pile.
+
+ 
+
+It didn't take long for the pile to reform.
+
+ 
+
+"Fire again!" the Warrior said, seeing how effective the gun was.
+
+ 
+
+"I... I can't!" the Gunsmith said, the gun in her hands silent and even huffing a little as she tried to pull the trigger over and over without result.
+
+ 
+
+"Why won't it work?" she demanded and the gun actually answered her, to the shock of everyone.
+
+ 
+
+'Your man may accept that sad finger play, but I have standards. This lady needs to be wined and dined before you pull her lady trigger' the gun said in a sort of passable voice of the Wyin tree.
+
+ 
+
+"I am going to die!" she hissed.
+
+ 
+
+"Just don't do that and you'll be fine," the gun said, beginning to vibrate a little as it regained energy.
+
+ 
+
+The golem reformed, but the book atop its head was new.
+
+ 
+
+The Alchemist stared at the title with confusion.
+
+ 
+
+'1000 soups good for the soul'
+
+ 
+
+That didn't sound so bad...
+
+ 
+
+The golem held out its hand which now had funnels instead of fingers. The smell of chicken broth filled the air ominously.
+
+ 
+
+"Archer... door!" the Warrior said, taking a step back.
+
+ 
+
+"NOT YET!" the Archer responded, having the door handle mostly exposed and dancing to his fingertips.
+
+ 
+
+"We're about to be boiled alive!" the Warrior shouted but the Necromancer took a step forward and held out a hand, making the golden yellow chicken and noodle soup part like a messianic figure.
+
+ 
+
+"You... can control soup?" the Mage asked in surprise.
+
+ 
+
+"Only somewhat, but this is soul food," the Necromancer explained, but the Alchemist didn't really understand.
+
+ 
+
+"What, can you make angel cake dance?" the Alchemist asked, watching as the golem tried vegetable soup then tomato next.
+
+ 
+
+"You need a priest for that, sadly," the Necromancer said, straining as the streams kept coming.
+
+ 
+
+The golem took a step back, assessing the battle and then removed its own head.
+
+ 
+
+"Wait, that's cheating!" the Gunsmith cried, sloshing through ankle deep soup. The book that landed on its neck next was simply titled 'Here Be Dragons'.
+
+ 
+
+"Door's open!" the Archer shouted as the wooden door collapsed due to the sheer hacking it endured and the soup soaking into it.
+
+ 
+
+"TACTICAL RETREAT!" the Warrior ordered. The golem began to grow, massive wings of paper forming on its back as a glowing fire in its chest consumed paper for fuel. The emerging fireblast chased them down the hall, bringing forth steamed soup and the smell of fresh books.
+
+ 
+
+The library had defeated them.
+
+ 
+
+---
+
+ 
+
+"Thank you!" Deo said as the Library Golem handed him a book off the top shelf then brought Deo lemonade to drink at a seating area.
+
+ 
+
+"I'll be careful with it," Deo promised and the golem patted his head.
+
+ 
+
+As he sat down, Deo could taste ash and smoke. His dad had explained that Delta had 'mirrors' now. Places that were the Dungeon, but not Delta really. Like reflections of two mirrors close together. Deo didn't quite understand, but sometimes he felt, tasted, and once, even saw other people like ghosts.
+
+ 
+
+They never reacted to Deo, but he wrote down a message in chalk once and Delta kindly transported it to one of the mirrors for him.
+
+ 
+
+It was like leaving a kind message for them. He told Grim and he said Deo should write down there was a secret tunnel when there wasn't and watch them hit their heads on it.
+
+ 
+
+Deo didn't quite see the fun of the idea yet, but Grim thought it was funny so Deo would wait and see.
+
+ 
+
+He stared down at the book called 'How to Study better to get employment'.
+
+ 
+
+He was a little sad because Grim didn't hire him to watch the door. So Deo had the idea that if he finished school super fast, he could work with Grim and they could run the Grim Tale Guild together!
+
+ 
+
+He opened the front page and technical jargon jumped out at him with long dry boring sentences that talked about time management and calculated timefall events with expanding routines.
+
+ 
+
+Deo felt like his brain caught fire for a moment.
+
+ 
+
+"I need help!" he mumbled, slamming his head into the book.
+
+ 
+
+"Whatchu doing?" came a voice and Deo blinked, spotting Jack the Kobold nearby, watching him as he read something called "The Anarchist Dessert List'.
+
+ 
+
+"I'm trying to be smart but I can't figure out how to make smart simple so I can understand it," Deo summed up and to his surprise, Jack nodded gravely.
+
+ 
+
+"I hear you. I was the worst when it came to my family in terms of magic or combat," Jack said seriously.
+
+ 
+
+"How big was your family?" Deo asked, thinking Jack had a brother or maybe a sister.
+
+ 
+
+"I had thirty-six siblings, but they were all talented. I think I had thirty-six. I might have invented some to cheer myself up when I was a prisoner," Jack mumbled to himself.
+
+ 
+
+"Is thirty-six a lot?" Deo asked slowly. Jack grinned.
+
+ 
+
+"Depends. Thirty-six puppies? Not a bad thing. Thirty-six dead bodies in your basement? Maybe," he said sagely.
+
+ 
+
+"Don't you worry, I'll teach you how to be smart where it counts and you have one of the most unhinged library collections at your fingertips, complete with a self-aware search function!" Jack promised, giving Deo hope.
+
+ 
+
+"Can you teach me to be smart?" he asked and Jack gave him a strangely gentle look.
+
+ 
+
+"No, I'm going to teach you that you're already smart, but haven't had the chance to show it," he replied.
+
+ 
+
+"Thank you! You don't have to," Deo said, a little shy now as he couldn't stop smiling. Jack stared at him then down at his own claws.
+
+ 
+
+"I know, but you remind me of someone," he said and Deo blinked in confusion.
+
+ 
+
+"Who?" he asked slowly. Jack just grinned.
+
+ 
+
+"Someone I made up to feel better about myself," he winked and pulled out a new book for Deo to read.
+
+ 
+
+'How to make comrades and sway people'
+
+ 
+
+"We'll start with warfare of the mind!" Jack cried and the library lights flickered dramatically.
+
+ 
+
+"Oh, very nice," Jack praised the golem nearby who waved lazily.
+
+ 
+
+Deo was going to sway the heck out of people.

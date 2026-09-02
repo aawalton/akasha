@@ -1,0 +1,275 @@
+---
+id: 375abdbe-1276-53b6-833a-6751850fb3c0
+page-type-slug: story-chapter-royal-road
+title: "4: The Piggy in the Middle"
+slug: 0004-4-the-piggy-in-the-middle
+partOf: there-is-no-epic-loot-here-only-puns
+position: 4
+ownLength: 2148
+unit: words
+publishedAt: 2018-01-09
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185601/4-the-piggy-in-the-middle"
+royalRoadId: "185601"
+---
+
+Delta didn’t have to wait long for Hob and Gob.
+
+They announced themselves with a screech and an oink as they barrelled into the dungeon.
+
+Delta’s mouth dropped open as they carried a rather large pig into the tunnel, the animal squirming and squealing just as loudly as the goblins.
+
+“Mans!” Hob warned. Gob just screamed as the pig bit him.
+
+Fran stood with a sharp look and rushed off towards the entrance, turning the corner in the new tunnel.
+
+Gob threw the pig down and Delta closed her eyes for the next part but soon felt mana flow towards her.
+
+It was plump and calm. Delta enjoyed the feeling, this feeling was much better than-
+
+She gagged and her sight shot open as Hob dropped the dreaded mushrooms all over the dungeon floor. Delta bent over and felt winded as the vile taste of mushrooms overwhelmed her senses.
+
+“Man!” Gob shouted again and Delta tried to inhale as she watched her mana number grow.
+
+From a measly six all the way to twenty.
+
+The pig just gave her 15 mana in a single pop. The remaining mushrooms pushed past her limit and struggled to reach a number beyond her max.
+
+Twenty-five.
+
+Then it began to trickle down as the excess mana seemed to leak away.
+
+That was enough for her new monster if she hurried! Delta stumbled to her feet and to the first bend in her dungeon. She picked a spot close to the wall as the three goblins made warning noises at the person approaching the dungeon entrance.
+
+Delta focused.
+
+“Mushroom Spitter!” she ordered, and she saw her orb pulse once. Then from the ground, a cap appeared, it grew rapidly until Delta was staring at a mushroom almost as big as a child and firmly anchored in the ground. Then the living fungus wriggled and the stalk split apart horizontally to reveal a big toothy maw filled with some vicious green liquid, she would later deny having squealed in fright in any way, shape or form.
+
+It gurgled at the dungeon as it blinked its two beady glowing eyes. It seemed to send some mental ‘I live to serve’ feeling at her before it focused intently on the corner where her goblins seemed to roar.
+
+Delta ordered them all back, curious to see what her new mushroom could do.
+
+The grey flesh and dark cap made it blend well into the dungeon. It was then that Delta finally noticed that her dungeon was almost pitch black beyond the first turn. Didn’t dungeons have eternal torches or glow bugs?
+
+Did she see in some… UV or night vision? Mana vision?
+
+Mushy, she deemed him, wriggled as the goblins ran past, understanding them as ‘Dungeon’, letting them past albeit with a sense of annoyance to him.
+
+Delta knew, just knew, if one of them had bumped into it, it would have chomped down with a vengeance. It didn’t seem to really like anything other than its damp wall.
+
+“Blasted gobs! Just get back here and give me back my pig!” a man shouted, his voice more angry than afraid. He turned the corner and Delta blinked as the man held a small… gun?
+
+Delta came closer, nervous but the man didn’t seem to sense her. The ‘gun’ was a stone device held in two hands, a small red crystal plugged into the handle and the wide muzzle of the gun had an almost cartoonish iron-sight.
+
+Delta goggled at it, trying to understand what she was looking at. The crystal glowed orange and Delta tried to see inside but the man moved through her. As the man drew neared too close Mushy did what Delta guessed was what Mushy would do in any circumstance.
+
+It lashed forward and took a chunk out of the man’s leg. Delta blanched at the sight of the man's wounds but the man screamed and fired the device in his hands.
+
+The end erupted into a gout of fire that consumed Mushy. The mushroom screeched and then promptly melted.
+
+“Mushy!” Delta screamed, feeling the awareness of the monster fade as it was killed. The man gasped and tried to pull himself up the wall, gun pointed down.
+
+Delta knew logically that the man had every right to defend himself and to get revenge on his pig. It was only fair.
+
+But Delta also felt that a farmer with a boomstick was unfair. Really just unfucking fair.
+
+“Fran, Hob, Gob!” Delta yelled and the goblins rushed out. She closed her eyes, not enjoying the unfairness of the situation, on her side or the man’s.
+
+Mana flowed, but Delta ignored it. This… this was not how she wanted things to go. This wasn’t how she wanted things to go at all.
+
+To survive, she needed mana and DP. To get them, she needed time or resources.
+
+Delta either needed to kill or gather resources. Mushrooms came guilt free.
+
+She would make the goblins understand… she didn’t want to kill anyone who didn’t…
+
+This wasn’t fair. She shouldn’t have to be making moral codes for monsters and trying to live with the result.
+
+“Goblins… don’t steal from the mans again. Just… bring me things from the forest, that doesn't belong to man,” she begged and the goblins seemed to shuffle as they listened to the air.
+
+“No want piggies?” Hob asked quietly.
+
+“Not man’s piggies,” Delta agreed gently. Her mana had sky-rocketed from 11 to 32 due to the farmer’s demise. The gun on the ground was also dissolving quickly.
+
+This wasn’t a normal world of farmers and knights… that thing reeked of technology.
+
+She created a new Mushy on the same spot, the thing shivering as if still upset at the previous Mushy’s death. Delta was sure they were different mushroom monsters, they had different markings on their cap.
+
+The man had been worth 21 mana. More than her max total. With her new Mushy, the result dwindled back down to 19.
+
+The gun finished breaking apart, the crystal the last thing to go.
+
+Her mana shot to 69 and Delta blinked as a little box appeared.
+
+“Torches have been added to Construct menu due to fire element”
+“Goblin campfire has been added to construction menu due to fire element.”
+“Flame gout trap(weak) added to construction menu due to fire element”
+
+Delta wanted to squirm and look but the mana was already beginning to dip lower.
+
+She returned to the main core room and fired another hallway tunnel to the north, the earth quickly giving way to the space. Moving to the end, she created a room, it crumbled into an almost perfect shape, but she was still 19 mana up.
+
+Delta moved back to her first bend and threw down a pitfall trap. It left her with 14 over, after a moment's thought, she created an another Mushy in her core room, bring the total mana to 21.
+
+The last mana held on, and she blinked, not sure why it wasn’t fading. Opening the menu, she felt surprise rise up as her max total mana was now 25.
+
+When… how did it grow? Delta knew she had 20 exact when she began to spend. She built a hallway, like she did before, another Mushy after the second bend in the entrance tunnel and… a room.
+
+Delta eyed the new room, the deepest part of her dungeon now. It felt like she was less crushed. As if her mind had more space to stretch itself.
+
+A room added 5 more max mana. That was interesting, a lovely little discovery.
+
+This novel is published on a different platform. Support the original author by finding the official source.
+
+Delta closed her eyes and sent a small prayer for the farmer, his death was helping her, and she needed to ease the bubbling guilt rising up, even if the way he charged into a cave after a pair of goblins was Darwin awards level stupid.
+
+“Thanks…” she added lamely, not particularly religious but still hoping it helped.
+
+She eyed the furthest room as the two goblins left for the forest.
+
+It would be better to have her core there than in the middle of the dunge-
+
+Would you like to move your core? Cost 10 DP.
+
+Delta stared for a moment and then clicked yes without a word.
+
+One day she would finish a monologue without having handy notifications solve her problems. She paid the price, choking as she saw she had 82 DP.
+
+The core rumbled and flashed, the earth altar holding it breaking apart.
+
+The Orb floated gently up the tunnel and then with another groan the earth rose up and gripped the core tightly.
+
+Just like that, she had a new core room, with another room to defend her! Delta snorted, soon she would be good enough to be called a tutorial dungeon…
+
+With some grumbling, she moved back to the old core room and saw a Mushy was still skulking in the shadows.
+
+Delta hummed, it'd be a shame to have this whole room dedicated to one Mushy and there was that… lair thing she could buy.
+
+“Can I move the mushroom?” she asked and the little box appeared.
+
+Moving stationary monsters cost 1 mana and takes 10 minutes, Would you like to move the Mushroom Spitter?
+
+It asked just as she guessed. Delta felt smart and crouch down to stare with some interest as the mushroom glowered as it was slowly transported into the hallways by what looked like a magic plant pot of all things.
+
+Delta began to flick through the menus after a minute. Magic was cool but a slowly fading mushroom being carried down the hall was not as great as it seemed.
+
+The things she could outright buy….
+
+Mana: 20/25. Regen: 1 per day.
+
+Construction
+
+Corridor (50 ft): 10 mana
+
+Room (10L x 15W): 20 mana
+
+Torches: 1 Mana per torch
+
+Goblin Fire pit: 5 Mana
+
+-------------------------
+
+Monsters
+
+Goblins(chosen beginner monster): 10 mana
+
+Mushroom Spitters: 13 mana
+
+---------------
+Traps
+
+Low-grade pitfall: 5 mana
+
+--------------
+
+Then there were the things she still needed to purchase with not regenerating DP.
+
+Dungeon points: 72
+-------------------
+
+Construction Purchase:
+
+Lair: 20 DP (one per level)
+
+Next Level - Locked
+
+Boss room: 40 DP (one per level)
+
+Monster Purchase: 
+
+Common Bat: 5 DP
+
+Common Spider: 5 DP
+
+Trap Purchase: 
+
+Sticky Floor Panel: 10 DP
+
+Weak Tripwire: 5 DP
+
+Falling Rock (Weak): 10 DP
+
+Flame Gout trap: 8 DP
+
+Delta saw the evolution menu was unlocked, but she decided to hold off on temptation as the Mushy was finally moved.
+
+She flicked through the menu and tapped lair. A map opened up in front of her and the only empty room flashed for confirmation. Shrugging, Delta tapped it and the surrounding room shifted as earth rose and the walls bulged slightly. Tiny hay-filled alcoves formed and a single stone hut, small enough for a dog a or a crawling goblin formed.
+
+Delta grinned as she saw the changes she had brought with a single push of a button. The lair seemed to be a resting spot for humanoid monsters, the alcoves suggesting a place to snooze between battles.
+
+Shrugging, Delta added the fire goblin fire pit and a box appeared.
+
+Would you like to make the Lair into a goblin camp? Bonus healing to Goblins!
+
+Delta hit confirm the room changed to have empty racks of meat. The alcoves were replaced with small tribal huts and a decent sized fire roared to life in the centre, lighting the room up as it crackled with merry purpose. Fran appeared and began to praise her.
+
+Delta waved it off, feeling a blush coming to her ghostly face.
+
+Fran sat down, warming his hands by the fire.
+
+Delta smiled at his delighted face. She opened the menu and browsed through the upgraded menu.
+
+Upgrade menu. Total DP: 52. Total Mana: 15
+
+Construction:
+
+Upgrade entrance into simple entrance hall: 10 DP or 20 Mana
+
+Upgrade dungeon dirt walls into wood reinforced dirt walls: 10 DP
+
+Upgrade simple wooden torches into stone sconces. 10 DP
+
+Traps:
+
+Upgrade pitfall into Deep pitfall. (10-foot drop makes it harder to get out) : 15 DP
+
+Monsters:
+
+Goblins: Evolve into Goblin thug (5 Mana and 2 DP) or Goblin archer (5 mana and 2 DP) or Goblin apprentice (5 mana and 2 DP) Price per goblin.
+
+Mushroom Spitters: Greater Mushroom(10 Mana) or Myconid(10 Mana)
+
+Rare monster evolutions: Fran(Goblin) can evolve into a boss due to “Pig mount” absorbed. Unable to begin process due to lack of Boss room.
+
+Delta turned slowly back to the humming Fran.
+
+Boss… monster?
+
+Delta looked over the construction menu and saw the list did indeed allow for a boss room… she just didn’t give it much thought.
+
+In hindsight, it was rather obvious.
+
+But why did Fran need a pig to become a boss?
+
+---
+
+ 
+
+ 
+
+---
+
+ 
+
+ 
+
+Spoiler: map updated

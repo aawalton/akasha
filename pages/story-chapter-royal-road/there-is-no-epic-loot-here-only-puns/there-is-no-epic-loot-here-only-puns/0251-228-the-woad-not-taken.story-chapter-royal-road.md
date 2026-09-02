@@ -1,0 +1,539 @@
+---
+id: aaa23367-0d51-5ca0-a642-44a6067a7401
+page-type-slug: story-chapter-royal-road
+title: "228: The Woad not Taken"
+slug: 0251-228-the-woad-not-taken
+partOf: there-is-no-epic-loot-here-only-puns
+position: 251
+ownLength: 3559
+unit: words
+publishedAt: 2025-12-07
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2827950/228-the-woad-not-taken"
+royalRoadId: "2827950"
+---
+
+Alpha still felt strange as he tried to relax in the corner of Fera’s bar, the quiet, shadowy room offering a solace he hadn’t realized he needed. He took a sip of ‘Goke,’ a soda made by Fera, the oddly familiar taste doing little to calm his nerves.
+
+ 
+
+The experience of being enveloped by an Echo, only to be saved by Delta’s ‘bountiful’ blessing, had left his body and mind in turmoil. No matter how he walked, sat, thought, or tried to stop thinking altogether, something felt off. Each movement was just slightly wrong, like his body wasn’t responding the way it used to, like it wasn’t fully his own anymore.
+
+ 
+
+He was stuck between who he had been and who he was now, yet he grasped neither ‘self’ at all. 
+
+ 
+
+The disconnection gnawed at him, making every moment feel slightly off, like wearing a suit that no longer fit, but was all he had.
+
+ 
+
+“I can’t remember like them,” Beta said as she sat down slowly at the table where Alpha was seated, her chin jutting toward Gamma, who was stationed at the bar. “But I feel you’re upset,” she added, her tone suggesting she half-hoped Alpha would just say he was fine, avoiding any deeper conversation.
+
+ 
+
+It was like Beta knew Alpha well enough to sense trouble but found people so irritating that she had to force herself to care enough to ask.
+
+ 
+
+Alpha’s eyes drifted to the ambient orange shape of mana, watching as it swirled around Fera and Sir Fran at the bar. Gamma, as usual, was bragging that nothing Fera could offer would ever impress the talking sword.
+
+ 
+
+“I feel,” Alpha began, and Beta visibly fought the urge to grimace, “that a lot of what I am is made up of other parts. Ever since the Echo, I think some part of me woke up, and it isn’t sure if it’s ‘me’ or not.” He sipped his soda, the carbonation fizzing louder than usual in his ears, as if trying to drown out the uncomfortable silence that followed his words.
+
+ 
+
+Alpha always got free drinks; Fera claimed it was because he was ‘less of a hassle than most,’ though Alpha suspected it had more to do with her pity that she sometimes tried to hide behind her scowl.
+
+ 
+
+“Welcome to the club. My biology is so mixed with a dozen monsters that no part of me feels like me. I’m a super lifeform that exists cell by cell, just pretending to be a person,” Beta said, in what Alpha thought might have been her version of empathy, though it felt about as warm as an ice cube.
+
+ 
+
+“At least you know why you’re ‘odd.’ I was fine before, and now I’m not,” Alpha said, letting out a rare moment of complaining. Usually, he bottled all of this up, refusing to dwell on it. But being around not only Delta, but also Beta and Gamma, had his system freaking out, his emotions spiking in ways he couldn’t control.
+
+ 
+
+He much preferred being a cool cucumber, ignoring things until they went away. Beta slowly stirred her drink, which looked more like soup than something you’d want to sip.
+
+ 
+
+“Well, what’s changed recently?” Beta asked bluntly, as delicate as an axe to the neck. Yet, strangely, Alpha found himself enjoying her directness. It felt like they knew each other well enough that her harsh attitude was reassuring, not offensive, like a shared understanding they didn’t need to spell out.
+
+ 
+
+Alpha looked at her, then slowly glanced at the Dungeon they were relaxing in.
+
+ 
+
+“Delta wouldn’t make you feel bad. Weird? Yeah, but not bad. Her mana constantly screams propaganda in my ear, making me think I can take on a kingdom and a storm,” Beta said, her tone uncertain, as if she hadn’t quite decided if she enjoyed the sensation or not.
+
+ 
+
+Alpha frowned, narrowing his focus. He channeled his magical senses downward, feeling around the table and along the walls. Everything they touched was infused with Delta’s mana, after all.
+
+ 
+
+‘-AND IF A GOD TRIES TO STOP YOU, CUT THEM DOWN WITH YOUR DARLING WIT! WAGE WAR WITH YOUR CHARM AND A MASSIVE SWORD! REFUSE LIMITS! BREAK CHAINS! YOU ARE GREAT YOU ARE-’ a chorus of voices shouted, and Alpha winced, the motivational shouts teetering between gearing him up for a fantastic day or sparking a revolution.
+
+ 
+
+“How did that come from Delta?” Alpha muttered, shaking his head as if trying to dislodge the lingering voices.
+
+ 
+
+“It didn’t entirely,” Beta commented, clearing her throat like she knew something he didn’t.
+
+ 
+
+“What else changed with you between waking up and now?” she pressed, her tone sharpening as if she’d found a target to latch onto. Now, with something to focus her energy on, it was clear Beta wasn’t about to let Alpha drop the subject. Not until she had pried out the answers she wanted.
+
+ 
+
+Alpha frowned as he went over his life so far.
+
+ 
+
+Traumatic village burning, and it being all his fault. He was still processing that slowly, though the guilt never really left him.
+
+ 
+
+Becoming a knight had been more about accepting whatever quest the system threw at him. He was still learning that saying ‘no’ was an option. Sis had also stopped bombarding him with so many quests after that.
+
+ 
+
+Then came Durence. And everything else.
+
+ 
+
+Wait, that was something significant.
+
+ 
+
+“I became the Archmage,” he said suddenly, the realization hitting him like a bolt from the blue.
+
+ 
+
+“Nerd,” Beta said almost reflexively before blinking in surprise at her own words.
+
+ 
+
+“I mean, what’s that? Super wizard?” she added quickly, trying to recover. Her attempt to avoid looking embarrassed failed spectacularly, which was something of a marvel considering she could control her facial features down to the micro-cell. Yet, here she was, her discomfort written plainly on her face.
+
+ 
+
+Alpha admired Beta’s decision to show her vulnerability despite her ability to hide it. Meanwhile, he struggled with the fact that his true nature, calm and composed, was often mistaken for coldness. The irony wasn’t lost on him: he wanted to appear more open, while Beta chose to show her flaws with pride.
+
+ 
+
+“Someone who has a lot of ‘magic’ in them ends up being the majority owner of the aspect. I had a lot before, probably because Sister gathered some for me, but before long, I got my wizard name and accidentally took the title,” Alpha explained, feeling the need to add that last part in defense of himself.
+
+ 
+
+“Magus,” Beta said, almost reflexively, and the name hit Alpha like a wave. His bones ached, and his sense of self threatened to collapse under the weight of the title, but he fought to keep himself together. It would be far more embarrassing to be seen having a breakdown than to actually have one in his mind.
+
+ 
+
+“What was that name?” Alpha asked, his voice cautious but probing. Beta immediately clammed up, her face freezing into something hard, almost statue-like, as if the sudden shift of features could somehow mask her slip.
+
+ 
+
+“Just something the stupid tree mentioned, what of it?” Beta replied, her voice sharp, edged with a defensiveness Alpha hadn’t expected. Her body language shifted, and she seemed to brace herself, as if ready for Alpha to press further.
+
+ 
+
+Gamma let out a wheeze as Fera poured what looked suspiciously like cooking oil over him.
+
+ 
+
+“Is that booze-infused sword oil?” the weapon asked in shock, his metallic voice tinged with disbelief.
+
+ 
+
+“Not booze. You’re a minor,” Fera replied, her tone flat, as if she was stating an obvious fact.
+
+ 
+
+Gamma snorted, the sound sharper than usual. “I’m older than all of you combined,” he said, his tone suddenly heavier, the weight of decades slipping into his words.
+
+ 
+
+“You have identification?” Delta asked firmly, crossing their arms as they stared down Gamma.
+
+ 
+
+Gamma spluttered with a mix of outrage and indignant excuses, but when it came time to actually produce proof, there was none.
+
+ 
+
+“Then off-brand soda and fruit juice it is,” Delta declared, unyielding. Gamma let out a metallic groan of defeat.
+
+ 
+
+“I’ll give you a legendary sword of cursed ancient people... that was ancient,” Gamma said, trying, and failing, to sound mysterious.
+
+ 
+
+Fera huffed, unimpressed. “Don’t make me tap the sign again,” she warned, glancing at a small sign hanging behind her. It depicted a child drinking, with a big red X over it. She flipped it to reveal the same child now wielding a burning sword and destroying a village, accompanied by the caption: ‘Alcohol makes adults into children and children into tyrants.’
+
+ 
+
+“They seem so sure about themselves,” Alpha remarked, choosing to drop the subject with Beta despite his urge to press further.
+
+ 
+
+“Gamma? They don’t even know what day it is,” Beta scoffed, her voice tinged with dry amusement. “Don’t go thinking they’re wise just because they sound cryptic. They’re just cracked.”
+
+ 
+
+Alpha wondered what it meant when the idea of being cracked resonated inside him.
+
+ 
+
+Was it a good thing? Or a bad thing?
+
+ 
+
+He really didn’t know.
+
+ 
+
+---
+
+ 
+
+Delta felt confident as she looked down at the group: the talking sword, the half-lion girl, and Alpha, all seated in the third-floor library, watching her intently. She explained her plan to take them on a little field trip, a small exercise away from Durence, something to help them bond.
+
+ 
+
+She wanted to take Beta to the secret garden, but just in case something went wrong with the idea and Delta went ‘offline’, she wanted Beta to have support of the other two. If Delta couldn’t help Beta, then she wanted Alpha and Gamma to step in.
+
+ 
+
+So… she came up with an idea to pet two dogs with one hand.
+
+ 
+
+“I should be able to let you all piggyback off my mana while we visit a new dungeon that really needs a hand. Sis asked me to help some struggling ones figure out how to grow, so it’s kind of like being a teacher for hire,” Delta said with a warm smile.
+
+ 
+
+Gamma huffed. “You were a teacher sent to another world, and you decided to… become a teacher?” they asked, making sure they heard Delta correctly.
+
+ 
+
+“It’s in my bones, in my soul,” Delta agreed with a serious nod.
+
+ 
+
+Beta was about to ask something when she suddenly paused, her arm shifting as it formed a whip with a blade at the edge. In one smooth motion, she swung it toward the darkened corner of the room, where only a single candle flickered.
+
+ 
+
+“Something is here,” Beta warned, her voice low and focused.
+
+ 
+
+Delta, however, already knew who it was.
+
+ 
+
+“That’s Jack,” she said, her voice growing louder, directed toward the shadowy figure. “He just lingers around the sections none of you are allowed in.”
+
+ 
+
+A soft scurrying could be heard as Jack skittered away from the shadows, caught in the act but was still cackling. She would ask the library golem to keep an eye on her students to be safe. The library was a place filled with knowledge that many would find… unnatural.
+
+ 
+
+Such things could be learned elsewhere, but not from the innocent.
+
+ 
+
+“Okay, but why are you in charge of something as important as managing all the dungeons in the world? Aren’t you already handling a lot? Being asked to handle a lot?” Gamma pressed, their voice filled with skepticism.
+
+ 
+
+Delta paused, considering their words, then shrugged. “I like to help and be kind,” she said as bluntly as possible.
+
+ 
+
+“It’s Miss D. She could be sent to hell and still ask how she could help out when she got there,” Beta grunted, pulling a book from a nearby shelf. The pages were filled with images of creatures, which she effortlessly mimicked with subtle shifts in her facial features. A snake, some kind of goblin, a fish-like creature, and then a rabbit.
+
+ 
+
+Delta went very still, resisting the urge to comment on Beta’s whiskers and twitchy nose. She knew the remark would only irritate her, especially since Beta might find the idea bugged her.
+
+ 
+
+“Rabbit season,” Delta mumbled, trying to avoid getting distracted as she used her mana to form a less detailed map of the world, showing the dozens of blinking lights of dungeons sending bug reports, issue prompts, and some just showing a lack of progress.
+
+ 
+
+“Has anyone been in a dungeon before?” Delta asked, glancing around the room. Every hand went up, and Gamma glowed faintly to indicate they, too, had experience.
+
+ 
+
+“I’ve conquered a dozen, accidentally destroyed two, and ate one,” Gamma reported, their tone casual.
+
+ 
+
+Delta blinked, staring at Gamma with a mix of shock and horror.
+
+ 
+
+“They were already dead, and it was better than letting the corpse rise up and become a problem,” Gamma added quickly, noting Delta’s expression. “The accidents were on my user at the time. I am, of course, blameless.”
+
+ 
+
+“I ate maybe thirty,” Beta said bluntly, her gaze shifting away.
+
+ 
+
+Delta’s eyes widened slightly. “Thirty?”
+
+ 
+
+“According to my system, I have,” Beta clarified, scowling. “I don’t remember doing it, but I guess I did when I was being used like an attack dog.”
+
+ 
+
+“I’ve not really been in many dungeons, not deep, anyway,” Alpha chimed in, and Delta let out a quiet breath of relief. At least Alpha hadn’t also eaten a Dungeon Core.
+
+ 
+
+“Give it time, you’ll find the right one,” Gamma said with a teasing giggle, their voice light and mischievous.
+
+ 
+
+Delta studied the map, her eyes narrowing as she selected one particular dungeon, marked by a series of daily alerts. It was located on one of the many shattered fragments of the left arm. Each arm had a dozen dungeons, but while the ones on the right limb were high-functioning and progressing smoothly, the dungeons on the left arm were languishing, barely moving forward.
+
+ 
+
+The system showed a strange ‘tilt,’ indicating an imbalance between the two arms. The world was slowly shifting toward the right limb as its dungeons gained more weight, leaving the left arm’s dungeons in a weakened state. If left unchecked, the imbalance could grow worse.
+
+ 
+
+“We’ll go, in essence, to this dungeon,” Delta declared.
+
+ 
+
+“That’s cool, but I have a question!” Gamma said, flashing once more to get her attention.
+
+ 
+
+“Hm?” Delta looked at the sword with a smile.
+
+ 
+
+“Why haven’t you all interrogated me about your pasts and what your names are?” Gamma asked sweetly and the atmosphere turned suddenly tense as everyone shared a silence where no one wanted to make the first move.
+
+ 
+
+“I’ll remember,” Delta said, feeling confident enough.
+
+ 
+
+“I want to be Alpha for now,” Alpha said quietly.
+
+ 
+
+“I am doom and destruction, daughter of death,” Beta whispered, eyes flashing.
+
+ 
+
+“My god, I’ve missed you all.”
+
+ 
+
+---
+
+ 
+
+‘It’ knew only struggle and confusion. Since it awoke with a ravenous hunger and a desire to protect itself, it has done its best to do that, but it could not consume. It could not end this hunger. It shifted as beams of flashing light emerged from four set scepters, keeping the tiny core afloat and off any surface. The immediate surface around it was akin to a metal box, but below that was mana-stripped water to catch the orb if it tried to escape.
+
+ 
+
+It looked across the small lake of water, through the bars of its box to see the ancient figure creating complex drawings with chalk on black stone. As the figure worked, their mana dipped constantly only for the human to turn and pull on ‘its’ mana to replenish itself.
+
+ 
+
+The drain was like fire searing the core from the inside, but it had no mouth and it had no voice.
+
+ 
+
+It could not grow, even if it learned how to make a dungeon in the air, floating somehow, the wizard drained it of mana, its precious resource.
+
+ 
+
+Its odd screen that made no sense, with flowing words, had cracked in one corner, reflecting its mental state breaking down over time. Something dark waited for the core in space between the cracks.
+
+ 
+
+A fate it had no desire to seek.
+
+ 
+
+Then it was no longer alone. Beings with vastly more complex essences emerged from the air, no, they emerged from the core itself like its surface was a door. Ghosts of mana, so thin the wizard’s security wards didn’t even detect them.
+
+ 
+
+“Oh, this is a new kind of dungeon for me,” a ghostly humanoid said before they looked down at themselves and began to scream.
+
+ 
+
+“LEGS! I HAVE LEGS! GHOSTLY AND SHAPELY… oh my, so shapely,” they said, prancing about with dramatic steps. The core noticed that they didn’t have feet per se, but dramatically pointy edges, like they walked on sword blades.
+
+ 
+
+“It’s an avatar, Delta is letting us exist in default model mode basically,” a gruffer and more muscular form said, her skin covered in dozens of calm images of monster faces. The third form was quiet, looking like they were wearing clothes far too big for them, as beneath the surface, something pulsed at their core.
+
+ 
+
+The last figure was-
+
+ 
+
+“Hello!” the other dungeon said and the core felt relief, terror, anger, fear, and more all at once, unable to answer in its current state due to how starved it was…
+
+ 
+
+It was too devoid of any mana to even reach out and greet the new core.
+
+ 
+
+“Looks a little empty on gas, I’ll give it 1%, no maybe less. Like 10% of my 1%!” the figure mused and she tapped the core so gently.
+
+ 
+
+It felt… everything.
+
+ 
+
+--
+
+ 
+
+Yorgot Sly-Whistle was a wizard of many talents. Lying, stealing, lying about stealing, stealing liars, and creating complete seals to bind demons to his will.
+
+ 
+
+He never graduated from the Wizard School, having his final year project set on fire by some punk on the day of the exam, but now? Now he was growing massively in power as each demon he destroyed improved his magic, making him feel incredible.
+
+ 
+
+Sure, it only worked because he lied about his deals, making them in dungeon mana which was basically counterfeit currency to Demons, but they should have been more careful and the core he stole from its fledgling nest should have been more lucky to land elsewhere than in his lair.
+
+ 
+
+Cackling, he reached around without looking, not really needing the mana but enjoying how it made everything feel… soft. It was like a drink for his magic. Oddly, it came to him in a robust manner compared to the sluggish flow from before but Yorgot was not complaining if the stupid orb finally obeyed him.
+
+ 
+
+Only, the mana didn’t stop.
+
+ 
+
+He turned in confusion as the funnel spell he um… ‘found’ never came with instructions of turning itself off. Nothing should have so much mana as to sustain the spell on the other side, nothing Yorgot shouldn’t have detected sneaking into his lair.
+
+ 
+
+The dungeon core in its case was overflowing with mana, most of it going to waste and forming mana crystals on the wall or below it.
+
+ 
+
+Surprised, Yorgot raised a shield to cut the stream off, but the mana flow smashed through it like an eager river and Yogot was lifted off his feet and slammed into a wall as the beam focused on his chest, making his skin bulge and the taste of mana to be so thick Yorgot tasted…
+
+ 
+
+-warm dusty books, the smell of a classroom after everyone’s gone home, the simple pleasure of buttered toast-
+
+ 
+
+Mushrooms?
+
+ 
+
+Yorgot Sly-Whistle blinked once then exploded in orange shards as he was converted to mana, his own devoured and beaten down by an orange flood.
+
+ 
+
+‘WE ARE THE SCREAM! WE ARE THE VOICE! WE ARE THE BEST CHOICE!”
+
+ 
+
+---
+
+ 
+
+“...I feel like I should say-”
+
+ 
+
+“Don’t. Just… don’t,” Delta whispered, feeling haggard and old as she stared at 10% of her 1% power focused on a single person.
+
+ 
+
+The core fell to the ground and rolled across the water, buoyant with Delta’s mana before it came to rest on the man’s dropped staff.
+
+ 
+
+Then the core consumed the staff as its first item.
+
+ 
+
+“Look, Alpha, a nerd dungeon,” Beta said as the mana crystals began to swirl around it.
+
+ 
+
+This was fine. Delta had this under control.
+
+ 
+
+The core rose up on a fancy golden staff and seemed to make its first monster. A small poof of smoke followed by mana flowing revealed a tiny toad at the base of the staff.
+
+ 
+
+The toad had a tiny blue hat on it with red stars.
+
+ 
+
+‘Core’ has made a ‘Woad’.
+
+ 
+
+Woads are wizard toads that are magical because they have a hat that proves they’re magical. Clearly.
+
+ 
+
+“I will…” the core said, talking to Delta via the mana in the air.
+
+ 
+
+“Yes?” Delta said, smiling at the core being able to finally grow.
+
+ 
+
+“I will destroy all wizards.” the core promised, a crackle of lightning filling the chamber.
+
+ 
+
+Her smile slipped.
+
+ 
+
+“For I am the first dungeon core to absorb the essence of a wizard and his staff. I am Tim Tim-Tim-Tim!” it cried and Alpha tilted his head.
+
+ 
+
+“Triple name, most impressive,” he praised politely.
+
+ 
+
+“Lame names, why not do cool ones?” Beta asked. “Tim means nothing. His wizard name has no limits nor bonuses,” Alpha said with a calm tone as Delta tried not to panic.
+
+ 
+
+She had this under control!

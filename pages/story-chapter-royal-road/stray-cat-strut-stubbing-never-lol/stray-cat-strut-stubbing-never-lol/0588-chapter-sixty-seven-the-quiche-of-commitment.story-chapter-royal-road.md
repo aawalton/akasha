@@ -1,0 +1,156 @@
+---
+id: 7fd49fc0-8b69-5ea8-a3b2-6392c6c897f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Seven - The Quiche of Commitment"
+slug: 0588-chapter-sixty-seven-the-quiche-of-commitment
+partOf: stray-cat-strut-stubbing-never-lol
+position: 588
+ownLength: 1769
+unit: words
+publishedAt: 2024-11-01
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1878687/chapter-sixty-seven-the-quiche-of-commitment"
+royalRoadId: "1878687"
+---
+
+Chapter Sixty-Seven - The Quiche of Commitment
+
+"Quantum Quiche: A Synth-Cuisine Delight
+Ingredients:
+1 Quantum Crust (1 pack)
+(Patented multi-grain blend, infused with omega-3 nanobots for optimal crunch)
+2 Cups Bio-Enhanced Egg Substitute
+(From SynthFarm™: High-protein, low-cholesterol formula for the health-conscious consumer)
+1 Cup Neon Cheese Shreds
+(Vegan, dairy-free, and bursting with flavor synthesized from the finest algae)
+1 Cup Mutant Greens (spinach, kale, or a mix)
+(Genetically modified for maximum nutrient density; no antithesis byproducts)
+1/2 Cup Cyber Seasoning Blend
+(A proprietary mix of salt, pepper, and spice; guaranteed to elevate your taste experience)
+1/2 Cup Holo-Vegan Cream
+(Plant-based and shelf-stable; perfect for a creamy texture without the guilt)
+
+Instructions:
+1. Prepare the Quantum Crust:
+Preheat your pre-programmed oven to 375°F (190°C). Unwrap your Quantum Crust and lay it in a 9-inch pie dish. Prick the bottom with a fork (for optimal heat circulation) and pre-bake for 10 minutes.
+2. Craft the Filling:
+In a large mixing bowl, combine the Bio-Enhanced Egg Substitute and Holo-Vegan Cream. Whisk vigorously until the mixture achieves a perfect vortex of creaminess.
+3. Add the Neon Cheese and Mutant Greens:
+Fold in the Neon Cheese Shreds and your choice of Mutant Greens. Sprinkle in the Cyber Seasoning Blend to taste. This is where flavour meets the future!
+4. Assemble the Quiche:
+Pour the filling into the pre-baked Quantum Crust. Use a silicon spatula to ensure an even spread—precision is key.
+5. Bake to Perfection:
+Place the quiche in your trusty oven and bake for 35-40 minutes, or until the centre is set and the top has that golden glow of a neon skyline.
+6. Cool and Serve:
+Allow your Quantum Quiche to cool for 10 minutes before slicing. Serve it warm, or chill it in your fridge for a refreshing cyber-snack."
+
+--Quantum Quiche recipe, 2055
+
+***
+
+The anticipation was killing me. All the prep, the big spending, the whole ordeal with showing my face to the world... and yet there was still plenty of time to sit on our thumbs and wait. The antithesis were at our doorstep, but they hadn't knocked yet.
+
+We fired the Big Gun a few more times, alternating between taking some final pot-shots at the remains of Phobos and firing back towards Earth with Bee-bombs and guided explosives to tag some of the bigger chunks of the incoming swarm. The soldiers, especially the growing crowd of new faces, cheered every time the gun fired.
+
+I didn't expect that to last until morning. 
+
+In any case, I went around, made sure everyone was alive, then said my goodnights and headed out. If the aliens were going to do me the curtesy of showing up tomorrow, then I could at least spend the night at home.
+
+When I arrived, I found Lucy waiting for me just inside. She greeted me with a hungry kiss, then whispered some of the sexiest words I'd ever heard... "There's a warm quiche in the oven."
+
+"I don't know what that is, but I'm starving, so please tell me it's a kind of food."
+
+Lucy laughed and dragged me into the living room. I took off my coat as she darted to the kitchen, then bullied the kittens a little. Bargain had spilled soda all over the sofa and turned it into a sticky mess, and I had to tell him off to get him to clean it up. It was a good couch, so nothing hard to clean, but I didn't want to sit in sticky crap regardless.
+
+The kittens seemed to be in a good mood. Junior even told me that I didn't look that stupid on screen, though I had interrupted a livestream she'd been watching which was unforgivable.
+
+Apparently, I was worse than mid-roll ads, which was quite possibly the worst insult I'd ever had pointed at me.
+
+Lucy delivered the quiche. It was some sort of... egg pie? She said the veggies in it were actually real, organic veggies she'd had delivered that morning and had cut up herself, and the eggs were from chickens. 
+
+It tasted pretty good, especially spiced with hunger. Lucy sat on the arm of the couch and toyed with my hair while I complained at length about everything. 
+
+"That is a lot of points," she said once I told her how much I'd spent on AA platforms. "But I don't think it's that bad. You'll probably make them back, right? And it's not like they're not reusable."
+
+"I know," I said. "Still feels shitty. The ammo's expensive too."
+
+"Can't we make some here? I'll see if Rac wouldn't mind checking on the fabricator while we make a few rounds. Can't take more than a few minutes each."
+
+That was a good idea, actually. I was probably not using that machine to its full extent. Still, the rate at which we'd burn through ammo firing and the rate the fabricator could make more wasn't anywhere close. Unless we had weeks to stockpile it really wasn't worth the effort.
+
+"Probably best to leave it as it is. We'll have to see about setting up a bigger fabricator at some point. Maybe on one of the lower floors?"
+
+You might be reading a pirated copy. Look for the official release to support the author.
+
+"At this rate the entire tower will house half the samurai in New Montreal," Lucy said.
+
+"That means it's safe, right?" I asked. 
+
+She smiled, then leaned way down to give my cheek a peck. "I guess so," she said. "You did well, by the way, with the whole live stream."
+
+"Urgh," I groaned as I let myself fall to the side. It allowed me to crash into Lucy who laughed as I let my head rest on her lap. "That was embarrassing. It's all Emoscythe's fault. She pulled that shit on me without any warning."
+
+"That's okay. I think you did better with the... spontaneity than you would have done if you had time to think about it," Lucy said.
+
+"Is that a commentary on my ability to think?" I asked.
+
+"Yes."
+
+I huffed. What was with it with people thinking that I couldn't think well? I could think as good as the next thinker! "It was a mess. I was talking so fast. I'm not even sure what I said."
+
+"It did come off as a little stream-of-conscious," Lucy said. "But that's okay. It's a really hard vibe to pull off on purpose, so it felt authentic, and that's important. Besides, it worked, right? The call went out?"
+
+"Yeah. Gomorrah showed me this map from the Family. They're spreading everyone out. There's like, almost two hundred samurai that mobilized."
+
+"That's a lot of samurai," Lucy said. "Like, legitimately a lot of them. I don't think two hundred samurai show up to most small incursions."
+
+"Eh," I said with a shrug. "I think more show up than you'd think. It's just that a lot of them aren't... celebrity samurai? More discreet sorts, you know?"
+
+"I suppose," Lucy said. "You're more of an expert there than I am."
+
+I shrugged half-heartedly. "Myalis, is two hundred samurai a lot?"
+
+It is a rather large number. The most vanguard that ever participated in an incursion on Earth--with the exception of large assaults like the Mars project that's currently ongoing and global incursions, is four hundred and thirty-two during the Second Battle of Zurich in 2051.
+
+That was a chunk, holy shit. I didn't envy whichever poor idiot had to handle the logistics of that. 
+
+"Four-hundred is a lot," Lucy said. "Guess you'll have to try harder next time."
+
+I stuck my tongue out at her, and she laughed and tried to poke it. "There will be no next time. If Gomorrah, or god-forbid Emoscythe, ever try to put me in front of a camera again, I'm going to do nothing but swear the entire time."
+
+"I don't think that would actually tank your rankings in a meaningful way," Lucy said. "You're not exactly striking hard in the pre-teen demographic."
+
+"My rankings? Oh! That popularity poll thing?"
+
+Lucy nodded. "You're in the top three thousand now, by the way!" 
+
+Huh, that was... something. Way ahead of where I'd been just a week or two ago. Then again, the mayor thing, and that big broadcast... yeah, that was a lot of my face going around. I shouldn't have been surprised that I had gained some amount of infamy, but it still felt weird to even think about.
+
+"So, how's it feel to be dating a celebrity?" I asked.
+
+"Ohh, can we go to one of those red-carpet things? I want to hang off your arm while wearing something very skimpy," Lucy said.
+
+I laughed. "Sure. Maybe after tomorrow, though? I've got this feeling that my samurai buddies wouldn't be impressed if I go to some movie premier instead of helping."
+
+"I see and understand your argument, and in my magnanimity, I accept," Lucy said as she tilted her head back and tried to sound snobbish.
+
+I relaxed. This was nice. The kittens were mostly ignoring us and making a racket, the TV was on across the room with the volume too high, my breath stank of eggs, and my leg was asleep because of the weird way I was sitting, but it was still nice. 
+
+"Did I ever tell you that your legs are squishy?" I asked.
+
+Lucy snorted. "My legs are not squishy."
+
+I shook my head. "Squishy."
+
+"No!" 
+
+"Only good for being used as a pillow," I said.
+
+Lucy looked down at me, then reached over and tapped my nose with a finger. "Idiot," she declared. She didn't shift or kick me off, though, so it was my victory. I closed my eyes as she started to play with my hair again, long fingers rubbing at my scalp. If I could purr, I might have, cat allegations be damned.
+
+Tomorrow was going to be a whole ordeal. We'd have to gun down ten thousand aliens and hope that we took out enough of them to keep the chaos in the area to a bare minimum. There were people and orgs in the region that wanted to make a big name for themselves, and I was going to have to be there to keep tempers calm.
+
+But tomorrow was tomorrow. Right now, I had a warm Lucy to cuddle and a full stomach, and that felt like enough for the moment.
+
+Then Lucy leaned down and started to whisper some ideas into my ear, and I found that my post-food nap mood was set aside. There were other, more fun things I could be up to.
+
+***

@@ -1,0 +1,131 @@
+---
+id: 9fd280c1-c7e0-5e65-8d45-0e0f22c8385d
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-Four - Thoughts and Prayers"
+slug: 0076-chapter-seventy-four-thoughts-and-prayers
+partOf: stray-cat-strut-stubbing-never-lol
+position: 76
+ownLength: 1584
+unit: words
+publishedAt: 2020-11-02
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/578081/chapter-seventy-four-thoughts-and-prayers"
+royalRoadId: "578081"
+---
+
+Chapter Seventy-Four - Thoughts and Prayers
+
+“The generation born between 2000 and 2010 are often called the ‘lost generation’ by some modern historians. Born at a time where the unchecked growth of corporate entities began to spiral out of control, and hit by three massive recessions and two global pandemics--not to mention the first Antithesis incursions--by 2025, the entire generation can be said to have lost the opportunities that those who came before had.
+
+How strange it is, then, that they slipped so easily into the shoes of their predecessors.”
+
+--Excerpt from “The Lost Generation: the 2000s to now.” by an anonymous writer, 2047
+
+***
+
+I found Gomorrah in an unexpected position. She was off to one side of the front line, sitting in the passenger seat of one of the PMC’s little humvee. She had her hands clasped together and her head turned down, lips moving silently to say something that I couldn’t hope to catch as I approached. 
+
+Religion had never been my thing, so I didn’t know if it was cool to just... barge in and interrupt or something. Usually I wouldn’t have given a damn, but Gomorrah was pretty chill and she also had flamethrowers which was always a good argument for leaving someone be.
+
+A look around revealed a bunch of nothing. The Cleanze soldiers had set up a barricade of sorts with their carts, guns pointed out along the street, but as far as I could tell there weren’t any aliens on us yet. We probably had a few minutes before the bigger part of the hoard came around looking for something to snack on. 
+
+“I can hear you breathing,” Gomorrah said.
+
+I reached up and touched my mask. Did the little exhaling tab on it make noise? “You done praying?” I asked.
+
+She slowly lifted her head and lowered her hands. “Prayer is one of those things where you’re never quite done.”
+
+“Ah,” I said. “Like taxes.”
+
+“You do know that we don’t pay taxes, right?” she asked.
+
+“Religious exemption?” I asked.
+
+“No, I meant you and me. We’re Samurai. No taxes. Not even sales taxes. They’re removed automatically.” She grabbed onto a handle above the door and used it to swing herself out of the car. “One of the many little advantages to being Vanguards.”
+
+“Neat,” I said. “I can live with the idea that I don’t need to pay those. Do we need to fill out income tax returns too?”
+
+Gomorrah tilted her head a bit and I had the impression she was thinking. “You know, I have no idea.”
+
+I shrugged. “Well, whatever. So, uh, prayer, huh?”
+
+“What of it?” Gomorrah asked.
+
+“Dunno, just, not really familiar with religious stuff is all. Don’t really see the point to it.”
+
+Gomorrah paused in the act of straightening out her habit. “It’s... there’s a lot of pageantry, and some of that is useless. There are lots of things that I think are kind of dumb too, and sometimes the rules are a bit nonsensical, or don’t really apply anymore, but I always saw all that as, you know, the natural consequences of an organization being old.”
+
+“So why do anything about it?” I asked. It wasn’t the most interesting line of questioning, but there wasn’t anything better to do, unless I wanted to get involved with pushing people into trucks and I figured my presence there would just slow things down.
+
+Gomorrah leaned back against the car. “It’s about hope, really.”
+
+“Hope?” I asked.
+
+She nodded. “How did you think your future would play out? Before you became a saint. I mean, a Samurai.”
+
+“Uh. I don’t know, really. I’m turning eighteen in a couple of days. Lucy, that’s my best friend, she’s a bit older than me. We were planning on leaving together, then we’d... figure it out, I guess.”
+
+Gomorrah let out a long breath. “That doesn’t sound that concrete. Honestly, the chances we... normal people have? They’re kind of crap. You ever hear people from a hundred years ago talk about the future? They were optimistic. Now, you can’t decide if some natural disaster sparked by a corp will wipe you out, or if it’ll be some crippling debt that will get to you. God forbid you hurt yourself badly enough to need healing. And then there are the aliens. The future’s not bright, Cat.”
+
+“Yeah,” I said. It was the kind of thing I didn’t dwell on much. I’d heard stories of the other kids who left the orphanage. They weren’t all that nice. Those who had better lives were the ones that swore their life and loyalty to a government or corporation. 
+
+Unauthorized tale usage: if you spot this story on Amazon, report the violation.
+
+“So hope,” Gomorrah said, “Because I’d like to think that maybe there’s a chance that things will be nice in the future, but I don’t trust that it’ll come from human hands.”
+
+I pulled my mask off. It was a bad habit, but I didn’t like having things on my face, the skin over my burns was always sensitive to rubbing. “I don’t know if I can think that way. I figure things have to work out, some of the time.”
+
+Gomorrah sighed. “I don’t know. Life isn’t weighted in favour of normal people. If you’re lucky enough to start off well, then maybe life is still not too bad. But we can’t all be born with a silver spoon.”
+
+I shook my head. “Nah, but that doesn’t mean you can’t work hard.”
+
+She looked my way for a long time. “Usually, it’s the religious one that gets called naive,” she said. “I didn’t imagine that from you.”
+
+I glared over at her, but not with any real heat to it. “I’m not a paragon of optimism, but I am a bed half full kind of girl.”
+
+“A what?” Gormorrah asked.
+
+“Life’s shit, trust me, I get that, but I feel that you need to fight for shit to be fair.”
+
+The nun shook her head. “I... don’t entirely disagree, especially now that we have the tools to actually be able to fight, but I don’t think you’re seeing the full picture. You can take any corp to court if they do something to harm you, but you’ll probably lose. You can point a finger to the people in charge and say that they’re corrupt and evil, but the laws were made by them, and don’t apply to them.”
+
+“Then just punch their teeth in.”
+
+Gomorrah didn’t say anything for a while, then her shoulders started to shake and I heard a faint giggle coming from behind her mask. “I hope you keep that attitude up,” she said. “It’ll get you killed, but maybe you’ll punch some teeth in before you go.”
+
+“Damn right,” I said. “When you’re hungry, you find a rich person to eat.”
+
+The nun pushed off the car and stretched. “You’re a bit of an idiot,” she said. “But I think you have your heart in the right place.”
+
+“You mean I still have a heart. Myalis is probably plotting ways for me to replace it with some high-tech pump.”
+
+Gomorrah laughed again. “Ah, my AI is the same. He keeps insisting that I need to replace my skin with something a little more flameproof. Which, while that would be nice, it would also turn me a little bit blue, and my skin would then be lethal to anything eating me.”
+
+“You planning on getting eaten?” I asked while turning my voice a little sultry.
+
+The nun spun away from me. I’d bet my last handful of credit that she was blushing under that mask. “I take it back. Your heart is dark as pitch.”
+
+I was about to mention how other parts of me were far more fun anyway, when we were interrupted by someone jogging over to us. It didn’t take much for me to recognize Monroe. 
+
+“Ma’ams,” he said before snapping off a salute. “We have a bit of an issue. I was hoping I could request your assistance.”
+
+“What’s up?” I asked.
+
+“We think the hive’s changing tactics.”
+
+Gomorrah said something that wasn’t very Christian and shifted. I... had no idea what he was on about. Fortunately, Myalis did.
+
+An Antithesis hive will give birth to new models as time goes on, usually taking some time to produce stronger and more lethal but also more time-consuming to grow models. This is a normal progression. That normal progression is sometimes not suited to combat in any given environment. That means that the hive can stop producing models that are ineffective and focus on those that work.
+
+“What’s the change?” I asked.
+
+“We have reports from teams all across the incursion border. The orange zones have shifted back, but the ground models have been replaced by fliers. Lots of them.”
+
+“What, they’re trying to swarm people?” I asked.
+
+Monroe shook his head. “They’re seeing more Model Twos and Ones. Some Nines as well. We think they’re looking for resistance first instead of scavenging as they go.”
+
+I frowned, then started paying attention to the noises in the background. The muttering and talking of a thousand-off annoyed people was still audible, but I could now make out the thumping of AA guns in the distance. AA guns that we didn’t have here. 
+
+“Okay,” I said. “We need to get moving faster, and we need to set up some sort of deterrent. Fuck mining the streets, we’ve got a new priority.”
+
+***

@@ -1,0 +1,138 @@
+---
+id: ec68c344-b6ed-5136-b300-8b0b2aaa462a
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Six - Points Are Precious, But Explosions Are Priceless"
+slug: 0586-chapter-sixty-six-points-are-precious-but
+partOf: stray-cat-strut-stubbing-never-lol
+position: 586
+ownLength: 1610
+unit: words
+publishedAt: 2024-10-30
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1874910/chapter-sixty-six-points-are-precious-but-explosions"
+royalRoadId: "1874910"
+---
+
+Chapter Sixty-Six - Points Are Precious, But Explosions Are Priceless
+
+"The HIMAR system, or the High Mobility Artillery Rocket system, is a weapon's platform designed to carry mid to long ranged rockets onto and out of the battlefield so as to be able to assault an enemy position from a tactically advantageous angle without pre-existing defensive infrastructure. 
+
+While the HIMAR system proved its worth in the early 2000s across several theatres, its real accomplishments were during the early 2020s incursions where undefended areas were made the target of saturation bombardment by HIMAR systems in order to eradicate Antithesis threats."
+
+--History of the HIMAR, 2031
+
+***
+
+"That's not enough gun?" I asked.
+
+"Obviously not," Gomorrah said. She had her hands on her hips and was looking about as amused as usual. She was also standing next to my... what was it called again? The Mark Six Heavenly Striking Tiger Automated Anti-Air Platform? "What's the rate of fire on this thing?"
+
+"A lot?" I tried. It had four barrels. That was four times more gun per gun.
+
+Gomorrah just rolled her eyes. "Atyacus says that it fires two hundred and forty rounds a minute. That's a decent number, but it's nowhere near enough to counter the sheer volume of antithesis we're going to be dealing with, especially as some of them will take multiple strikes to take out."
+
+"Ah," I said. "So what, I need an even bigger gun?"
+
+"Or more of them," Gomorrah said. "I bought six HIMARs. One will stay here, another is heading to New Montreal, and the other four are going in every cardinal direction to provide a wider umbrella of fire. They're each loaded with sixty precision rockets each."
+
+"That feels low," I said.
+
+She shrugged. "They're reloadable. I'll be sending a truck-bed full of extras with each. My point is that we, and by extension Grasshopper and Emoscythe, can't afford to be cheap here, Catherine."
+
+Oof, she was using my whole name, which meant she was being serious. "I'm assuming it's because we're the big guys around here?"
+
+Gomorrah finally removed her hands from her hips. "Essentially. We're the highest tier'd samurai in the area. Grasshopper and Emoscythe notwithstanding, but neither of them are built for combat exclusively."
+
+I assumed she meant 'built' in the sense that they weren't exclusively focusing most of their points-earned into combat-related stuff. Grasshopper, I knew, poured a lot into education and information and even some into infrastructure. Emoscythe did fashion and mass media misinformation and propaganda stuff. 
+
+They weren't combat-specialists the way that Gom and I had somehow managed to become. 
+
+The newbies were... well, they were doing their own things. Gros Baton didn't seem to have picked any specific path yet. Hedgehog was definitely heading in a 'combat' kind of direction. I suspected the same for Tankette, though she felt more like a support and logistics kind of person. Princess and Knight... actually, I had no clue for them either. Crackshot was probably going to keep up his current 'kill things dead from afar' shtick. 
+
+Yeah, looking over at the newbies, it was clear that they were still scrounging things together. The Big Gun had given them all a massive boost, though. 
+
+"Okay," I said. "That's fair. Let me chat with the Major. I'll see about buying a few more of these guns that we can slap around."
+
+Gomorrah nodded. "Do you want me to buy you some trucks for them?"
+
+"Are they expensive?" I asked.
+
+"A cheap land-based car is only about four hundred points for me," Gomorrah said.
+
+"That few?"
+
+"Cheap," she repeated. "No easily replaceable parts, good construction quality but poor materials. Battery-powered, but not designed to be recharged, and not exactly comfortable to drive. They do have stable bases and are strong enough to carry something like your AA platform to a destination, though."
+
+That made sense, though it was a little weird to think of something as large as a car as cheap. The sheer bulk of it made me think 'expensive' but then a lot of stuff about cars were expensive in relation to just owning the damned things, right? The fuel and permits and parking and all the rest. The actual car was just plastics and some metal and a motor. Maybe some tires or whatever.
+
+"Alright," I said. "I'd appreciate that. Lemme chat with the Major. Maybe I'll get five more gun platforms as well and like, a trailer-full of ammo." I paused. "And some smaller cat bots to keep them in our hands. Just in case."
+
+"That might be wise," Gomorrah said. "I don't worry too much about that. You'd have to be mentally unwell to steal explosives from a samurai, especially explosives designed to be detonated from afar."
+
+The story has been taken without consent; if you see it on Amazon, report the incident.
+
+"Sounds like a good way to clean out the gene pool," I said. "Anyway, yeah, lemme hit up the Major. I'll be back in a bit."
+
+Gomorrah seemed pleased with herself if the way she sauntered off was any indication. I watched her go for a moment before turning back towards the rest of the camp and in particular the small mobile base slapped down in the middle of it. 
+
+The Major was there, sitting behind a desk beneath an awning that extended from the side of the mobile base. She glanced up as I squeezed past the guards standing nearby. 
+
+"Major," I said.
+
+"Samurai Stray Cat," Tinwhistle said as she stood. "Can I help you with anything?"
+
+"You might be able to, yeah," I said.
+
+"Oh, thank god," she said, and her shoulders slumped. "Ever since your broadcast went live, the army's been breathing down my back."
+
+"Trouble?"
+
+She groaned. "The brass, and by that I don't just mean the Brigadier General, but the actual top brass, are blowing smoke up my ass right now."
+
+"I don't know what that means and I'm not sure I want to," I said.
+
+She snorted. "A mere Major in the position I'm in right now is seen as... somewhat above my rank. They'd rather replace me. But by all reports we did really well here, and they don't want to rock the boat. So instead they're nagging at me non-stop."
+
+"So... this is a bad time to ask for a favor?" I asked.
+
+The Major shook her head. "God no. This is the best time. More samurai work is a valid excuse to foist off all this paperwork to some poor schmuck that isn't me."
+
+One of the major's assistants raised his head further in, and I had the distinct impression he was the poor schmuck in question. "Right, well I've got some work for you, maybe. I'm about to buy a few more of those big AA platforms and I was hoping you could spread them around. I'll probably get some cat bots too, to guard them, but more guards couldn't hurt."
+
+Major Tinwhisle frowned a bit. "I can help with the installation and the transportation as well."
+
+"Gomorrah said she'd get me some cheap trucks to move them around," I said. "Anyway, I'm sensing a but?"
+
+"My boys are engineers. Not guards. We're all armed well enough, and we've got some stationary weapons sitting around that we can lay down in a pinch, but we're not the ones you'll want guarding your machines. I'll pop a question over to the Lieutenant."
+
+"Think he'll be okay with lending us some guys?" I asked.
+
+"Oh, of course he will. The army being seen so close to this many samurai is a PR miracle. The brass are losing their shit right now. I'll bet you that recruitment numbers double in the next six to nine months. Especially if we can get footage of our people in green fighting next to you lot."
+
+Fair enough. Some hot military-types fighting the aliens next to a few samurai always looked great. Slap on some phonk and after effects and young men and women across the country would race to sign their lives away. 
+
+I looked back and noticed a small row of five extremely nondescript trucks parked not too far from my platform. "Cool! I'll buy the guns. Just have them set up before nightfall, yeah?"
+
+"Can do, ma'am!" Major Tinwhistle said. She was out and shouting orders a split second later.
+
+I walked back to the trucks, checked to see if they had room on the back, then chatted with Myalis for a moment. A few seconds after we came to an agreement, there were five distinct thunks and the trucks settled down a little.
+
+New Purchase: Mark Six Heavenly Striking Tiger Automated Anti-Air Platform (x5)
+Points Reduced To: 38,217
+
+"Alright," I said. "And now... cats and ammo."
+
+The cats were cheap enough. A semi-decent drone was a hundred point investment. I needed ten, which did sting a little, but I swallowed my cheapness and made the purchase. 
+
+New Purchase: Personal Use, Security Systems, Model Y (x10)
+Points Reduced To: 37,217
+
+And then, while the boxes were still appearing and the mechanised cats were still climbing out of them, I checked on the next set of purchases. About three thousand points worth of ammunition, split between high-velocity armour penetrating sabots and timed-explosive flak rounds.
+
+New Purchase: 30mm Anti-Air Ammunition - Various 
+Points Reduced To: 34,217
+
+That stung a little too, but it left me with several dozen large boxes, the sort that would require two strong guys to lift, filled with pointy-tipped shells with my grinning cat logo stamped onto their sides.
+
+If all of this wasn't enough to give the aliens a warm welcome, then nothing would be.
+
+***
