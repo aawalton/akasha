@@ -1842,14 +1842,14 @@
       "name": "@akasha/tower",
       "dependencies": {
         "@akasha/story-engine-core": "workspace:*",
-        "@akasha/tower-core": "workspace:*",
+        "@akasha/story-tower-core": "workspace:*",
         "@akasha/tower-engine": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
     "akasha/story/tower/core": {
-      "name": "@akasha/tower-core",
+      "name": "@akasha/story-tower-core",
       "dependencies": {
         "zod": "^4.3.6",
       },
@@ -3739,7 +3739,7 @@
 
     "@akasha/tower": ["@akasha/tower@workspace:akasha/tower"],
 
-    "@akasha/tower-core": ["@akasha/tower-core@workspace:akasha/story/tower/core"],
+    "@akasha/story-tower-core": ["@akasha/story-tower-core@workspace:akasha/story/tower/core"],
 
     "@akasha/tower-engine": ["@akasha/tower-engine@workspace:akasha/story/tower/engine"],
 

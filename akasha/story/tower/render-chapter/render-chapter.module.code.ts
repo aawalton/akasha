@@ -1,5 +1,5 @@
 import { chapterWords } from "@akasha/story-engine-core/chapter-words"
-import type { Beat, ChapterEntry } from "@akasha/tower-core/tower-state"
+import type { Beat, ChapterEntry } from "@akasha/story-tower-core/tower-state"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 
 export type RenderedChapter = {

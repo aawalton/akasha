@@ -1,11 +1,12 @@
-export const summary = "Persist a TowerState JSON as the live tower-session — the write half of a turn"
+export const summary =
+  "Persist a TowerState JSON as the live tower-session — the write half of a turn"
 
 import { readFile } from "node:fs/promises"
-import { parseTowerState, type TowerState } from "@akasha/tower-core/tower-state"
-import type { CommandHelp } from "../../ops/surface.ts"
+import { parseTowerState, type TowerState } from "@akasha/story-tower-core/tower-state"
 import { dataError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { upsertTowerSession } from "../../lib/tower-game-access.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const DEFAULT_SLUG = "the-tower"
 const DEFAULT_GAME = "the-tower"
@@ -62,18 +63,14 @@ export default async function towerCommit(args: readonly string[]): Promise<void
   try {
     raw = statePath === "-" ? await Bun.stdin.text() : await readFile(statePath, "utf8")
   } catch (err) {
-    throw dataError(
-      `cannot read --state: ${err instanceof Error ? err.message : String(err)}`
-    )
+    throw dataError(`cannot read --state: ${err instanceof Error ? err.message : String(err)}`)
   }
 
   let session: TowerState
   try {
     session = parseTowerState(raw)
   } catch (err) {
-    throw dataError(
-      `invalid TowerState: ${err instanceof Error ? err.message : String(err)}`
-    )
+    throw dataError(`invalid TowerState: ${err instanceof Error ? err.message : String(err)}`)
   }
 
   let record: { readonly id: string; readonly externalId: string }

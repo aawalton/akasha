@@ -1,6 +1,9 @@
-import { CharacterSkillSchema, type GameCharacterSheet } from "@akasha/tower-core/character-schema"
-import type { FloorEnemy } from "@akasha/tower-core/floor-schema"
-import type { Hud } from "@akasha/tower-core/revealed-sheet"
+import {
+  CharacterSkillSchema,
+  type GameCharacterSheet,
+} from "@akasha/story-tower-core/character-schema"
+import type { FloorEnemy } from "@akasha/story-tower-core/floor-schema"
+import type { Hud } from "@akasha/story-tower-core/revealed-sheet"
 import type { Sheet as CombatSheet } from "@akasha/tower-engine/combat-types"
 import { z } from "zod"
 

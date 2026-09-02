@@ -1,25 +1,26 @@
-export const summary = "Publish every archivable chapter from a Tower state file into akasha and trim its beats out of the live state.json"
+export const summary =
+  "Publish every archivable chapter from a Tower state file into akasha and trim its beats out of the live state.json"
 
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { parseTowerState, parseTrimDoc, type TrimDoc } from "@akasha/tower-core/tower-state"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { parseTowerState, parseTrimDoc, type TrimDoc } from "@akasha/story-tower-core/tower-state"
 import { planArchive } from "@akasha/tower/plan-archive"
 import { renderChapter } from "@akasha/tower/render-chapter"
 import { loadIllustrations, resolveHeroSrc } from "@akasha/tower/resolve-hero"
 import { writeFileAtomic } from "@akasha/utils-fs/atomic-write"
 import { z } from "zod"
-import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, operationalError } from "../../lib/exit.ts"
-import { composeChapterPage, composeStoryPage, statedIdIn } from "../../lib/story-publish.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import {
   playedStoryRelDir,
-  storyFileStands,
   type StoryFile,
+  storyFileStands,
   worldsHolding,
   writeStoryFiles,
 } from "../../lib/stories-write.ts"
+import { composeChapterPage, composeStoryPage, statedIdIn } from "../../lib/story-publish.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const DEFAULT_WORLD = "personas"
 const STORY_PAGE_TYPE = "story-played"
@@ -182,9 +183,7 @@ export default async function towerArchive(args: readonly string[]): Promise<voi
       `${slug}: chapter ${chapter.number} "${chapter.title}" is archived`
     )
     if (landed.kind === "unwritten") {
-      throw operationalError(
-        `the write was refused for chapter ${chapter.number}: ${landed.why}`
-      )
+      throw operationalError(`the write was refused for chapter ${chapter.number}: ${landed.why}`)
     }
 
     let trimDoc: TrimDoc

@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/tower-core",
+  "name": "@akasha/story-tower-core",
   "private": true,
   "type": "module",
   "exports": {

@@ -1,4 +1,4 @@
-import { type TowerState, TowerStateSchema } from "@akasha/tower-core/tower-state"
+import { type TowerState, TowerStateSchema } from "@akasha/story-tower-core/tower-state"
 import { TOWER_SESSION_SLUG } from "@akasha/tower/tower-page-slugs"
 import { askComposed } from "@shared/pages-query/ask"
 
