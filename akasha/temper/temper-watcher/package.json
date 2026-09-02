@@ -59,7 +59,8 @@
     "./watcher-dispatch-handling": "./watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts",
     "./watcher-dispatch": "./watcher-dispatch/watcher-dispatch.module.code.ts",
     "./watcher-supabase-session": "./watcher-supabase-session/watcher-supabase-session.module.code.ts",
-    "./watcher-session-file": "./watcher-session-file/watcher-session-file.module.code.ts"
+    "./watcher-session-file": "./watcher-session-file/watcher-session-file.module.code.ts",
+    "./watcher-main": "./watcher-main/watcher-main.module.code.ts"
   },
   "dependencies": {
     "@akasha/day": "workspace:*",
