@@ -1,4 +1,7 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
+import type { CharacterCardId } from "@akasha/temper-player-completion/completion-card-registry"
+import type { CompletionCharacter } from "@akasha/temper-player-completion/completion-ui-types"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -12,10 +15,7 @@ import {
   ACHIEVEMENT_SUBCATEGORY_ACTIVITY,
   achievementNameToActivity,
 } from "@temper/player-completion/activity-categories"
-import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import type { CharacterAchievementProgressResult } from "@temper/player-completion/completion-achievement-progress"
-import type { CharacterCardId } from "@temper/player-completion/completion-card-registry"
-import type { CompletionCharacter } from "@temper/player-completion/completion-ui-types"
 import { characterAchievementData } from "@temper/player-completion/generated/achievement-data.generated"
 
 interface CharacterAchievementsPanelCardProps {
