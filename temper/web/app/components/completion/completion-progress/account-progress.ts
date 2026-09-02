@@ -9,6 +9,8 @@ import {
 import type { AccountQuestUnionProgress } from "@akasha/temper-player-completion/completion-account-union-progress"
 import { transformAccountQuestUnion } from "@akasha/temper-player-completion/completion-account-union-progress"
 import type { AccountSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
+import type { ItemSetOverallProgress } from "@akasha/temper-player-completion/completion-item-set-progress"
+import { transformItemSetProgress } from "@akasha/temper-player-completion/completion-item-set-progress"
 import { isAccountMeasured } from "@akasha/temper-player-completion/completion-measured"
 import type { SubclassingSkillLineProgressResult } from "@akasha/temper-player-completion/completion-subclassing-progress"
 import { transformSubclassingSkillLineProgress } from "@akasha/temper-player-completion/completion-subclassing-progress"
@@ -34,8 +36,6 @@ import type { AccountAchievementOverallProgress } from "@temper/player-completio
 import { transformAccountAchievementProgress } from "@temper/player-completion/completion-achievement-progress"
 import { transformAntiquityLoreProgress } from "@temper/player-completion/completion-antiquity-lore-progress"
 import { transformCollectiblesProgress } from "@temper/player-completion/completion-collectibles-progress"
-import type { ItemSetOverallProgress } from "@temper/player-completion/completion-item-set-progress"
-import { transformItemSetProgress } from "@temper/player-completion/completion-item-set-progress"
 import { buildAccountSummary } from "@temper/player-completion/completion-summary-account"
 import { transformTributeProgress } from "@temper/player-completion/completion-tribute-progress"
 import type {

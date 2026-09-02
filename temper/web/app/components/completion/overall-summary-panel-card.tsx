@@ -5,17 +5,17 @@ import type {
   CompanionSummaryData,
 } from "@akasha/temper-player-completion/completion-card-registry"
 import {
+  sumAccountScope,
+  sumCharacterScope,
+  sumCompanionScope,
+} from "@akasha/temper-player-completion/completion-scope-rollup"
+import {
   type CompletionFilter,
   type CompletionNode,
   CompletionPanelCard,
   type CompletionSortMode,
   createNodeFilter,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import {
-  sumAccountScope,
-  sumCharacterScope,
-  sumCompanionScope,
-} from "@temper/player-completion/completion-overall-score"
 
 interface OverallSummaryPanelCardProps {
   accountSummary: AccountSummaryData
