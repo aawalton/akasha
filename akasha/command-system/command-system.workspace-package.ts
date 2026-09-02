@@ -29,6 +29,7 @@ export const commandSystem = {
     "module/folder-clearing",
     "module/outside-naming",
     "module/manifest-locking",
+    "module/body-merging",
   ],
   invariants: [
     {
