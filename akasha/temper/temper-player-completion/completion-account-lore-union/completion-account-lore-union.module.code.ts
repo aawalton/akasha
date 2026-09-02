@@ -1,11 +1,8 @@
 import type { LoreCategory } from "@akasha/temper-completion/completion-progress"
 import { LORE_LIBRARY_DATA } from "@akasha/temper-completion/lore-library-data"
 import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
+import { isNamedShape } from "../completion-named-shape/completion-named-shape.module.code.ts"
 import type { AccountLoreProgress } from "../completion-ui-types/completion-ui-types.module.code.ts"
-
-function isExhaustiveCategory(value: unknown): value is LoreCategory {
-  return typeof value === "object" && value !== null && "name" in value
-}
 
 export function transformAccountLoreUnion(
   rows: readonly CompletionCharacterRow[]
@@ -17,7 +14,7 @@ export function transformAccountLoreUnion(
     if (!loreLibrary) continue
 
     for (const [catIdx, category] of Object.entries(loreLibrary)) {
-      if (isExhaustiveCategory(category)) {
+      if (isNamedShape<LoreCategory>(category)) {
         for (const [colIdx, collection] of Object.entries(category.collections)) {
           if (collection.books) {
             for (const [bookIdx, book] of Object.entries(collection.books)) {

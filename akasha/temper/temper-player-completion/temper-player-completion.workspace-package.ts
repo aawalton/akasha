@@ -47,6 +47,7 @@ export const temperPlayerCompletion = {
     "module/completion-skill-points-progress",
     "module/completion-ui-types",
     "module/completion-summary-companion",
+    "module/completion-named-shape",
   ],
   invariants: [
     {

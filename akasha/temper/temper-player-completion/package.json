@@ -30,6 +30,7 @@
     "./completion-measured": "./completion-measured/completion-measured.module.code.ts",
     "./completion-merge-forward": "./completion-merge-forward/completion-merge-forward.module.code.ts",
     "./completion-mount-training-completeness": "./completion-mount-training-completeness/completion-mount-training-completeness.module.code.ts",
+    "./completion-named-shape": "./completion-named-shape/completion-named-shape.module.code.ts",
     "./completion-override": "./completion-override/completion-override.module.code.ts",
     "./completion-override-row": "./completion-override-row/completion-override-row.module.code.ts",
     "./completion-percent": "./completion-percent/completion-percent.module.code.ts",
