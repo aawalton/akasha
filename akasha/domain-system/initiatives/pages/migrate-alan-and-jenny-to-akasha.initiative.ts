@@ -21,7 +21,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "The premise inverts: two of the nine lights already ignore the day asked. `email-entry-lowest-inbox-count-today` and `food-entry-plants-since-waking` state no `takes`, so `dayGiven` iterates nothing, throws nothing, and the literal resolves against `Date.now()`. The hourly run scores yesterday from today for those two. Moving the readings widens this from two lights to nine rather than causing it. Read and not run; a lane is asking past days to confirm. Refusal comes before any backfill.",
+        "Confirmed by running at `9966927988`: asked for five past days, `upkeep-plants` and `inboxes-email` each gave one answer while the seven day-taking lights moved across the same keys. `dayGiven` now refuses a clock-relative query asked for a day that is not the clock's, and the refusal reaches `SourcePointsRefusal`, so no figure is written. All 79 `amy-*` persona-days from 2026-06-11 were scored through it; none was rewritten. Email is un-recomputable past its 13 pages.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
