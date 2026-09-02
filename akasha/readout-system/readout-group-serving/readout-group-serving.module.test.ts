@@ -1,10 +1,12 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { dropRelayed } from "../readout-relay/readout-relay.module.code.ts"
 import { relayedFor } from "../readout-relay/readout-relay.module.test-fixtures.ts"
+import { readingHeldOn } from "../readout-serving/readout-serving.module.code.ts"
 import {
   answerStoplightsAdmittedBy,
   inPlaceOrder,
   type Stoplight,
+  stoplightsInGroup,
 } from "./readout-group-serving.module.code.ts"
 
 const GROUP = "a-group-named-only-in-this-test"
@@ -296,6 +298,27 @@ test("the readouts are answered in the order the place on each page states", () 
     { slug: "b", place: 4 },
   ])
   expect(ordered.map((row) => row.slug)).toEqual(["a", "b", "c"])
+})
+
+test("a caller wanting the colors without a route asks for the group on its own", async () => {
+  relayedFor(READOUT, 3)
+  const held = await stoplightsInGroup(GROUP)
+  expect(held.length).toBe(1)
+  expect(held[0]?.habit).toBe("safety")
+  expect(held[0]?.tier).toBe("green")
+})
+
+test("where each reading is read from is handed in rather than settled here", async () => {
+  ANSWERED.readouts = [{ ...READOUT_ROW, lastValue: 2.5, lastValueAt: new Date().toISOString() }]
+  const carried = await stoplightsInGroup(GROUP, "habit", readingHeldOn)
+  expect(carried[0]?.tier).toBe("yellow")
+  expect(carried[0]?.readingHeld).toBeUndefined()
+})
+
+test("a caller handing in nothing has each reading read from what the relay holds", async () => {
+  ANSWERED.readouts = [{ ...READOUT_ROW, lastValue: 2.5, lastValueAt: new Date().toISOString() }]
+  const relayed = await stoplightsInGroup(GROUP)
+  expect(relayed[0]?.readingHeld).toBe("none")
 })
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {
