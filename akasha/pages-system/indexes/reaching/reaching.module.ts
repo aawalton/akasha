@@ -48,6 +48,10 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
+      statement: "A property naming members is held to the target every member declares.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value the index cannot resolve is reported rather than thrown.",
     },
     {

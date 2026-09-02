@@ -54,6 +54,36 @@ test("a name carrying a page type the target does not admit is refused, never re
   expect("refused" in reached && reached.refused).toMatch(/admits only `domain`/)
 })
 
+test("a property naming members takes the target each of those members declares", () => {
+  const { root, repo } = grounded()
+  const known = knownIn(root, repo)
+
+  expect(known.targetOf("either")).toEqual(["domain", "note"])
+  expect(known.targetOf("domain-slug")).toBe("domain")
+})
+
+test("a name one member of a one of admits reaches its page through that member", () => {
+  expect(reaches("note/c", ["domain", "note"], shaped({ "note/c": C }))).toEqual({ id: C })
+})
+
+test("a name no member of a one of admits is refused, never resolved", () => {
+  const reached = reaches("page-property/b", ["domain", "note"], shaped({ "page-property/b": B }))
+
+  expect("refused" in reached && reached.refused).toMatch(/admits only `domain` or `note`/)
+})
+
+test("a name two members of a one of reach one page by reaches that page once", () => {
+  expect(reaches("b", ["domain", "note"], shaped({ "domain/b": B, "note/b": B }))).toEqual({
+    id: B,
+  })
+})
+
+test("a name two members of a one of reach two pages by is refused rather than resolved", () => {
+  const reached = reaches("b", ["domain", "note"], shaped({ "domain/b": B, "note/b": D }))
+
+  expect("refused" in reached && reached.refused).toMatch(/narrows to 2 pages/)
+})
+
 test("a key one property carries reaches it, and a key no property carries reaches none", () => {
   const { root, repo } = grounded()
   const known = knownIn(root, repo)

@@ -1,4 +1,11 @@
-import { type Known, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
+import {
+  eachTarget,
+  type Known,
+  namesIn,
+  namingsIn,
+  reaches,
+  type Shaped,
+} from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
 import { textAt, type Value, valueIn } from "@akasha/pages-system/page-value"
@@ -119,13 +126,15 @@ export function danglingIn(
   const seen = new Set<string>()
   const judge = (propertySlug: string, held: unknown, where: string): undefined => {
     const wanted = known.targetOf(propertySlug)
-    if (wanted === null) return
+    const every = eachTarget(wanted)
+    if (every.length === 0) return
     const names = namesIn(held)
     if (names.length === 0) return
-    if (mortal.stated(wanted)) {
+    const one = every.length === 1 ? every[0] : undefined
+    if (one !== undefined && mortal.stated(one)) {
       if (seen.has(where)) return
       seen.add(where)
-      said.push({ path, reason: cannot(where, wanted) })
+      said.push({ path, reason: cannot(where, one) })
       return
     }
     for (const named of names) {

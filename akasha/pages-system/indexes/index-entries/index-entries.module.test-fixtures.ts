@@ -20,6 +20,12 @@ export const SCHEMA = {
   partSlugs:
     '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,' +
     '"slug":"part-slugs","propertySlug":"part-slugs","fileName":null}',
+  noteSlug:
+    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"note","unique":null,' +
+    '"slug":"note-slug","propertySlug":"note-slug","fileName":null}',
+  either:
+    '{"pageTypeSlug":"one-of-property","targetPageTypeSlug":null,"unique":null,' +
+    '"slug":"either","propertySlug":"either","fileName":null}',
   id: JSON.stringify({
     pageTypeSlug: idPage.pageTypeSlug,
     targetPageTypeSlug: null,
@@ -70,18 +76,37 @@ export function grounded(): { readonly root: string; readonly repo: string } {
   })
   filed("identity/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
   filed("identity/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
+  page("either.one-of-property.ts", {
+    id: "4",
+    pageTypeSlug: "one-of-property",
+    slug: "either",
+    propertySlug: "either",
+    memberSlugs: ["relation-property/domain-slug", "relation-property/note-slug"],
+  })
   filed("identity/record-property/slug/parts.jsonl", '{"path":"parts.record-property.ts","id":"3"}')
+  filed(
+    "identity/one-of-property/slug/either.jsonl",
+    '{"path":"either.one-of-property.ts","id":"4"}'
+  )
   filed("schema/page-property/file-property/slug/code.jsonl", SCHEMA.code)
   filed("schema/page-property/relation-property/slug/domain-slug.jsonl", SCHEMA.domainSlug)
   filed("schema/page-property/relation-property/slug/part-slugs.jsonl", SCHEMA.partSlugs)
+  filed("schema/page-property/relation-property/slug/note-slug.jsonl", SCHEMA.noteSlug)
+  filed("schema/page-property/one-of-property/slug/either.jsonl", SCHEMA.either)
   filed(`schema/page-property/${idPage.pageTypeSlug}/slug/id.jsonl`, SCHEMA.id)
   filed(`schema/page-property/${slugPage.pageTypeSlug}/slug/slug.jsonl`, SCHEMA.slug)
   return { root, repo }
 }
 
-const TARGETS: Readonly<Record<string, string>> = {
+const TARGETS: Readonly<Record<string, string | readonly string[]>> = {
   "part-slugs": "domain",
   "noted-slugs": "domain",
+  "either-slug": ["domain", "note"],
+}
+
+const ADMITTING: Readonly<Record<string, readonly string[]>> = {
+  domain: ["domain", "module"],
+  note: ["note"],
 }
 
 const KEYED: Readonly<Record<string, string>> = {
@@ -96,7 +121,7 @@ const KEYED: Readonly<Record<string, string>> = {
 export function shaped(pages: Readonly<Record<string, string>>): Shaped {
   return {
     targetOf: (propertySlug) => TARGETS[propertySlug] ?? null,
-    admitting: (target) => (target === "domain" ? ["domain", "module"] : []),
+    admitting: (target) => ADMITTING[target] ?? [],
     at: (pageTypeSlug, slug) => {
       const id = pages[`${pageTypeSlug}/${slug}`]
       return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]

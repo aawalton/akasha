@@ -14,14 +14,20 @@ import { readingOf } from "../index-surface/index-surface.module.code.ts"
 
 const RECORD = "record-property"
 
+const ONE_OF = "one-of-property"
+
+const MEMBERS = "memberSlugs"
+
 const DECLARED = "properties"
 
 const SAID = "pagePropertySlug"
 
 const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
 
+export type Wanted = string | readonly string[] | null
+
 export type Known = {
-  readonly targetOf: (propertySlug: string) => string | null
+  readonly targetOf: (propertySlug: string) => Wanted
   readonly admitting: (target: string) => readonly string[]
   readonly at: (pageTypeSlug: string, slug: string) => readonly Listed[]
   readonly byId: (id: string) => Listed | null
@@ -41,6 +47,16 @@ function fieldsIn(value: Value): readonly string[] {
     if (one === null || typeof one !== "object") continue
     const named = (one as Value)[SAID]
     if (typeof named === "string") found.push(slugOf(named))
+  }
+  return found
+}
+
+function membersIn(value: Value): readonly string[] {
+  const named = value[MEMBERS]
+  if (!Array.isArray(named)) return []
+  const found: string[] = []
+  for (const one of named) {
+    if (typeof one === "string") found.push(slugOf(one))
   }
   return found
 }
@@ -92,8 +108,23 @@ export function knownIn(
     if (slug !== null) fields.set(slug, fieldsIn(value))
   }
 
-  const targetOf = (propertySlug: string): string | null => {
-    return target.get(propertySlug) ?? null
+  const members = new Map<string, readonly string[]>()
+  for (const one of everyOfType(reading, ONE_OF)) {
+    const value = pageOf(one.path)
+    if (value === null) continue
+    const slug = textAt(value, "slug")
+    if (slug !== null) members.set(slug, membersIn(value))
+  }
+
+  const targetOf = (propertySlug: string): Wanted => {
+    const held = target.get(propertySlug)
+    if (held !== undefined) return held
+    const found: string[] = []
+    for (const one of members.get(propertySlug) ?? []) {
+      const said = target.get(one)
+      if (said !== undefined && !found.includes(said)) found.push(said)
+    }
+    return found.length === 0 ? null : found
   }
 
   const admitting = (wanted: string): readonly string[] => {
@@ -145,14 +176,42 @@ function only(found: readonly Listed[]): Listed | null {
   return found.length === 1 && one !== undefined ? one : null
 }
 
+export function eachTarget(wanted: Wanted): readonly string[] {
+  if (wanted === null) return []
+  return typeof wanted === "string" ? [wanted] : wanted
+}
+
+function saidAs(every: readonly string[]): string {
+  return every.map((one) => `\`${one}\``).join(" or ")
+}
+
+function onceEach(found: readonly Listed[]): readonly Listed[] {
+  const seen = new Set<string>()
+  const kept: Listed[] = []
+  for (const one of found) {
+    if (seen.has(one.id)) continue
+    seen.add(one.id)
+    kept.push(one)
+  }
+  return kept
+}
+
+function admitsNone(named: string, pageTypeSlug: string, every: readonly string[]): string {
+  const one = every[0]
+  const only =
+    every.length === 1 && one !== undefined ? `\`${one}\` and what extends it` : saidAs(every)
+  return `\`${named}\` names a \`${pageTypeSlug}\`, and this property admits only ${only}`
+}
+
 function among(named: string, found: readonly Listed[]): string {
   return `\`${named}\` narrows to ${found.length} pages and must name its page type — ${found
     .map((one) => one.path)
     .join(", ")}`
 }
 
-export function reaches(named: string, wanted: string | null, known: Known): Reached {
+export function reaches(named: string, wanted: Wanted, known: Known): Reached {
   const address = addressIn(named)
+  const every = eachTarget(wanted)
   if (address.kind === "id") {
     return known.byId(address.id) === null
       ? { refused: `no page carries the id \`${address.id}\`` }
@@ -160,12 +219,8 @@ export function reaches(named: string, wanted: string | null, known: Known): Rea
   }
   if (address.kind === "qualified") {
     const { pageTypeSlug, slug } = address
-    if (wanted !== null && !known.admitting(wanted).includes(pageTypeSlug)) {
-      return {
-        refused:
-          `\`${named}\` names a \`${pageTypeSlug}\`, and this property admits only ` +
-          `\`${wanted}\` and what stands under it`,
-      }
+    if (every.length > 0 && !every.some((one) => known.admitting(one).includes(pageTypeSlug))) {
+      return { refused: admitsNone(named, pageTypeSlug, every) }
     }
     const found = known.at(pageTypeSlug, slug)
     const one = only(found)
@@ -174,16 +229,18 @@ export function reaches(named: string, wanted: string | null, known: Known): Rea
       return { refused: `no \`${pageTypeSlug}\` carries the slug \`${slug}\`` }
     return { refused: among(named, found) }
   }
-  if (wanted === null) {
+  if (every.length === 0) {
     return { refused: `\`${named}\` names no page type and its property declares no target` }
   }
-  const found = known
-    .admitting(wanted)
-    .flatMap((pageTypeSlug) => known.at(pageTypeSlug, address.slug))
+  const found = onceEach(
+    every.flatMap((one) =>
+      known.admitting(one).flatMap((pageTypeSlug) => known.at(pageTypeSlug, address.slug))
+    )
+  )
   const one = only(found)
   if (one !== null) return { id: one.id }
   if (found.length === 0)
-    return { refused: `no page admitting \`${wanted}\` carries the slug \`${named}\`` }
+    return { refused: `no page admitting ${saidAs(every)} carries the slug \`${named}\`` }
   return { refused: among(named, found) }
 }
 

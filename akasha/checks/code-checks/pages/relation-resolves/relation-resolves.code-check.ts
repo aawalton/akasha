@@ -50,6 +50,10 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
+      statement: "A property declaring more than one target is judged on the page a name reaches.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name nested one record deep is resolved.",
     },
     {
