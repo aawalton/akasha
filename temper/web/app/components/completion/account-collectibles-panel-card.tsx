@@ -1,5 +1,6 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
+import { COLLECTIBLE_CATEGORY_TO_ACTIVITY } from "@akasha/temper-player-completion/activity-category-mapping"
 import type { AccountCardId } from "@akasha/temper-player-completion/completion-card-registry"
 import type { AccountCollectiblesProgress } from "@akasha/temper-player-completion/completion-ui-types"
 import {
@@ -10,7 +11,6 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import { COLLECTIBLE_CATEGORY_TO_ACTIVITY } from "@temper/player-completion/activity-categories"
 
 interface AccountCollectiblesPanelCardProps {
   id?: AccountCardId
