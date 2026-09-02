@@ -1,3 +1,4 @@
+import type { Query } from "@akasha/pages-system-service/asking"
 import { askingFor } from "@akasha/pages-system-service/calling"
 import { climbs, rungsIn, statedAt } from "@akasha/readout-system/readout-tier"
 import { surplusIn } from "@akasha/readout-system/upkeep-surplus"
@@ -56,7 +57,7 @@ function stated(held: unknown): string | null {
  * nothing to say. Every refusal is thrown, so the tick that met it counts against the ratchet and
  * the service goes red instead of going quiet.
  */
-async function rowsOf(query: Values, doing: string): Promise<readonly Values[]> {
+async function rowsOf(query: Query, doing: string): Promise<readonly Values[]> {
   const asked = await askingFor(query, onTheWorkstation)
   if ("refused" in asked) throw new Error(`${doing}: ${asked.refused}`)
   return asked.rows as readonly Values[]
