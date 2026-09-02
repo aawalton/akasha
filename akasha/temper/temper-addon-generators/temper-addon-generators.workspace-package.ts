@@ -75,6 +75,7 @@ export const temperAddonGenerators = {
     "module/temper-potion-crafted",
     "module/temper-potion-crown",
     "module/temper-potion-dropped",
+    "module/temper-quest",
     "module/temper-race",
     "module/temper-reagents",
     "module/temper-rotation-breakdown-row",

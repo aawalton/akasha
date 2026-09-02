@@ -71,6 +71,7 @@
     "./temper-potion-crafted": "./temper-potion-crafted/temper-potion-crafted.module.code.ts",
     "./temper-potion-crown": "./temper-potion-crown/temper-potion-crown.module.code.ts",
     "./temper-potion-dropped": "./temper-potion-dropped/temper-potion-dropped.module.code.ts",
+    "./temper-quest": "./temper-quest/temper-quest.module.code.ts",
     "./temper-race": "./temper-race/temper-race.module.code.ts",
     "./temper-reagents": "./temper-reagents/temper-reagents.module.code.ts",
     "./temper-rotation-breakdown-row": "./temper-rotation-breakdown-row/temper-rotation-breakdown-row.module.code.ts",
