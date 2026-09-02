@@ -106,7 +106,3 @@ export function grammarsIn(root: string): Grammars {
   HELD.set(root, made)
   return made
 }
-
-export function plainlyIn(root: string, sentence: string): Said {
-  return plainlyBy(grammarsIn(root), sentence)
-}
