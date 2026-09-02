@@ -196,8 +196,11 @@ async function syncStory(
     try {
       const prose = parseChapterProse(await fetchHtml(royalRoadUrl(chapter.url)))
       await delay(REQUEST_DELAY_MS)
-      if (prose === null) {
-        console.log(`    no prose found: ${chapter.title}`)
+      if (!prose.ok) {
+        // The url and the reason, not the title alone: `no prose found` named neither which page
+        // it read nor which of the parser's two refusals it hit, so 61 failures a run for a
+        // fortnight said nothing anyone could act on.
+        console.log(`    no prose: ${royalRoadUrl(chapter.url)} — ${prose.why}`)
         counts.failed += 1
         continue
       }
@@ -284,8 +287,12 @@ export async function main(argv: readonly string[]): Promise<number> {
     `composed ${counts.composed} chapter(s), restated ${counts.restated} story file(s), ` +
       `skipped ${counts.skipped} over budget, ${counts.failed} failed, ${counts.refused} refused`
   )
-  if (counts.refused > 0) return 1
-  return counts.failed > 0 && counts.composed === 0 ? 1 : 0
+  // A RUN THAT FAILED ITEMS IS A FAILED RUN. This was `failed > 0 && composed === 0`, so a run
+  // reported red only when it managed nothing at all: one new chapter landing anywhere across 103
+  // stories turned the same 61 standing failures into exit 0. Of the 259 completed runs between
+  // 2026-08-17 and 2026-09-02, 127 exited 0 while reporting 61 failed, which is the wrong 127 —
+  // the signal was suppressed on exactly the runs that had work to show and kept on the quiet ones.
+  return counts.refused > 0 || counts.failed > 0 ? 1 : 0
 }
 
 if (import.meta.main) process.exit(await main(process.argv.slice(2)))

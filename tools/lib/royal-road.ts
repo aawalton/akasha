@@ -189,12 +189,36 @@ function innerHtmlOfDiv(html: string, openPattern: RegExp): string | null {
   return html.slice(from)
 }
 
-export function parseChapterProse(html: string): { text: string; wordCount: number } | null {
+export type ProseRead =
+  | { readonly ok: true; readonly text: string; readonly wordCount: number }
+  | { readonly ok: false; readonly why: string }
+
+const NO_CONTAINER = "no `chapter-content` div is in the page"
+
+const NO_TEXT =
+  "the `chapter-content` div holds no text: no `<p>` in it carries any, and nothing survives " +
+  "reading its layout as line breaks either"
+
+// A CHAPTER IS NOT ALWAYS LAID OUT IN `<p>`. This took paragraphs alone, and answered the same
+// `null` for a page it could not find the container in as for a container it found and could read
+// nothing from. Both halves cost something.
+//
+// Measured 2026-09-02 against the 61 chapters that had failed on every run since 2026-08-17: the
+// container was found in every one of them, so the first `null` had never once fired in this set,
+// and the whole 61 were the second. What they have in common is that Royal Road serves them with
+// `<br>` between the lines and no `<p>` at all — 70 to 130 `<br>` in 8 to 16 KB of prose, across
+// stories first posted in 2016 and one posted 2026-07. So the assumption that stopped holding is
+// not recent and not one author's: it is that a paragraph is a `<p>`.
+//
+// `htmlToText` above already reads `<br>` and the block closings as breaks, and was not reached
+// from here. It is the fallback now, taken only where no `<p>` yielded text, so every chapter that
+// parsed before parses the same way byte for byte and only these gain a reading.
+export function parseChapterProse(html: string): ProseRead {
   const container = innerHtmlOfDiv(
     html,
     /<div[^>]*class="[^"]*\bchapter-content\b[^"]*"[^>]*>/i
   )
-  if (container === null) return null
+  if (container === null) return { ok: false, why: NO_CONTAINER }
   const paragraphs: string[] = []
   for (const m of container.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)) {
     const inner = m[1]
@@ -202,9 +226,9 @@ export function parseChapterProse(html: string): { text: string; wordCount: numb
     const text = decodeEntities(inner.replace(/<[^>]*>/g, "")).trim()
     if (text.length > 0) paragraphs.push(text)
   }
-  if (paragraphs.length === 0) return null
-  const text = paragraphs.join("\n\n")
-  return { text, wordCount: countChapterWords(text) }
+  const text = paragraphs.length > 0 ? paragraphs.join("\n\n") : htmlToText(container)
+  if (text.length === 0) return { ok: false, why: NO_TEXT }
+  return { ok: true, text, wordCount: countChapterWords(text) }
 }
 
 export async function fetchHtml(url: string): Promise<string> {
