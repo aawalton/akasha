@@ -1,0 +1,58 @@
+{
+  "level": 50,
+  "gender": 2,
+  "raceId": 4,
+  "classId": 1,
+  "classIcon": "/esoui/art/icons/class/class_dragonknight.dds",
+  "className": "Dragonknight",
+  "allianceId": 1,
+  "traitResearch": {
+    "1": {
+      "name": "Blacksmithing",
+      "lines": {
+        "1": {
+          "name": "Axe",
+          "traits": {
+            "1": {
+              "name": "Powered",
+              "known": true
+            },
+            "2": {
+              "name": "Charged",
+              "known": true
+            },
+            "3": {
+              "name": "Precise",
+              "known": false
+            },
+            "4": {
+              "name": "Infused",
+              "known": false
+            }
+          }
+        },
+        "2": {
+          "name": "Mace",
+          "traits": {
+            "1": {
+              "name": "Powered",
+              "known": true
+            },
+            "2": {
+              "name": "Charged",
+              "known": false
+            },
+            "3": {
+              "name": "Precise",
+              "known": true
+            },
+            "4": {
+              "name": "Infused",
+              "known": false
+            }
+          }
+        }
+      }
+    }
+  }
+}

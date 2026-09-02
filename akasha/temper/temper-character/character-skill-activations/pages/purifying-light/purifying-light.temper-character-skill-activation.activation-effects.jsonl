@@ -1,0 +1,3 @@
+{"id":"01a05fda-92ea-76a8-bca3-c1adba2a4eb2","effectType":"damage","scalingStat":"higher-resource","scalingKind":"stat-scaling","coefficient":0.542443,"damageType":"magic"}
+{"id":"01a05fda-92ea-7eba-9f5b-e1e63a4f9751","effectType":"damage","scalingStat":"higher-resource","scalingKind":"stat-scaling","coefficient":0.600347,"damageType":"magic"}
+{"id":"01a05fda-92ea-7f92-9fbd-0ac73e542037","effectType":"heal","scalingStat":"higher-resource","scalingKind":"stat-scaling","coefficient":0.280328}

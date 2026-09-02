@@ -4,8 +4,8 @@ import type { Items } from "./properties/items.page-property-entry.ts"
 import type { Quests } from "./properties/quests.page-property-entry.ts"
 
 export type TemperMine = TemperCharacterThing & {
-  items: Items
-  quests: Quests
+  items?: Items
+  quests?: Quests
 }
 
 export const temperMine = {
@@ -57,8 +57,8 @@ export const temperMine = {
     "text-property/zone-name",
   ],
   properties: [
-    { pagePropertySlug: "items", required: true, many: false },
-    { pagePropertySlug: "quests", required: true, many: false },
+    { pagePropertySlug: "items", required: false, many: false },
+    { pagePropertySlug: "quests", required: false, many: false },
   ],
   invariants: [
     {
@@ -68,6 +68,10 @@ export const temperMine = {
     {
       invariantKind: "departure",
       statement: "A row a sweep read is judged against the fields its entry shape declares.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A sweep's rows are over the byte ceiling akasha holds a file to.",
     },
   ],
 } as const satisfies PageType

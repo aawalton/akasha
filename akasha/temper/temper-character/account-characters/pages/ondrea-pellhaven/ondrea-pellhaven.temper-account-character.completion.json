@@ -1,0 +1,9 @@
+{
+  "level": 1,
+  "gender": 2,
+  "raceId": 7,
+  "classId": 6,
+  "classIcon": "/esoui/art/icons/class/class_templar.dds",
+  "className": "Templar",
+  "allianceId": 1
+}
