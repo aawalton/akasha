@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@akasha/command-system": "workspace:*"
+    "@akasha/command-system": "workspace:*",
+    "@akasha/temper-watcher": "workspace:*"
   }
 }
