@@ -3,6 +3,7 @@ import { getPages } from "@akasha/pages-access/get"
 import { patchPage } from "@akasha/pages-access/patch"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
+import { decodeBuild } from "@akasha/temper-build-codec/build-codec"
 import { extractCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { classes } from "@akasha/temper-classes/character-class"
 import type {
@@ -13,7 +14,6 @@ import type {
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { races } from "@akasha/temper-races/races"
 import type { Json } from "@akasha/utils-narrow/json-value"
-import { decodeBuild } from "@temper/game-codec/character/build-codec"
 
 function asJson(value: Record<string, unknown>): Json {
   return value as Json
