@@ -1,12 +1,12 @@
 import { upsertPage } from "@akasha/pages-access/upsert"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
-import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
-import { asRecord } from "@akasha/utils-narrow/as-record"
+import { decodeBuild, encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import type { ChampionPointId } from "@akasha/temper-champion-points/champion-point-source"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
-import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
-import { decodeBuild, encodeBuild } from "@temper/game-codec/character/build-codec"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
+import { asRecord } from "@akasha/utils-narrow/as-record"
+import type { CharacterState } from "@temper/game-characters-character/build-types"
 
 const validSkillLineIds = new Set<string>(skillLines.ids)
 
