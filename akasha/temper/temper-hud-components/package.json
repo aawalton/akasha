@@ -1,0 +1,18 @@
+{
+  "name": "@akasha/temper-hud-components",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./hud-component-labels": "./hud-component-labels/hud-component-labels.module.code.ts",
+    "./hud-component-record": "./hud-component-record/hud-component-record.module.code.ts",
+    "./hud-controls": "./hud-controls/hud-controls.module.code.ts",
+    "./hud-fragment-group": "./hud-fragment-group/hud-fragment-group.module.code.ts",
+    "./hud-scene-catalog": "./hud-scene-catalog/hud-scene-catalog.module.code.ts",
+    "./hud-scene-fragments": "./hud-scene-fragments/hud-scene-fragments.module.code.ts",
+    "./hud-scene-source": "./hud-scene-source/hud-scene-source.module.code.ts",
+    "./hud-scene-parse": "./hud-scene-parse/hud-scene-parse.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}
