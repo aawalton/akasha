@@ -8,6 +8,7 @@ import { dirname, join, resolve } from "node:path"
 import {
   addonBindingsPathIn,
   BINDINGS_FILE_NAME,
+  namedFilePathOrNull,
   namedFilePathsIn,
 } from "@akasha/temper-addon-build/addon-metadata-files"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
@@ -35,7 +36,7 @@ export const help: CommandHelp = {
     "\n" +
     "Everything written is build output, untracked, and this is the rule it is made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.\n" +
     "\n" +
-    "An addon whose `<name>.xml` is absent gets an empty one written, because ESO reads a named file rather than an optional one. `Bindings.xml` is found where the addon's own shape holds it — beside an akasha addon's page, under a game addon's `metadata/` — and an addon page claiming keybinds with no such file refuses the call rather than writing an empty document over them. Every other name the manifest ships is looked for beside the page, then under `metadata/`, and last among the pages beside it, each of which states the name its manifest loads it by; one name meets one document or the call is refused. A declared sibling folder that is not there is refused rather than skipped.",
+    "An addon's `<name>.xml` is looked for the same way every other name it ships is, and only an addon nothing anywhere holds that name for gets an empty one written, because ESO reads a named file rather than an optional one. `Bindings.xml` is found where the addon's own shape holds it — beside an akasha addon's page, under a game addon's `metadata/` — and an addon page claiming keybinds with no such file refuses the call rather than writing an empty document over them. Every other name the manifest ships is looked for beside the page, then under `metadata/`, and last among the pages beside it, each of which states the name its manifest loads it by; one name meets one document or the call is refused. A declared sibling folder that is not there is refused rather than skipped.",
   flags: [
     {
       name: "--addon",
@@ -73,10 +74,9 @@ export default async function temperAddonCopyMetadata(args: readonly string[]): 
 
   await temperAddonGenerateLoadOrder(["--addon", canonicalName, "--code-root", codeCheckout])
 
-  const namedXmlPath = join(metadataDir, `${canonicalName}.xml`)
-  const namedXml = existsSync(namedXmlPath)
-    ? await readFile(namedXmlPath, "utf-8")
-    : "<GuiXml></GuiXml>\n"
+  const namedXmlPath = await namedFilePathOrNull(addonDir, `${canonicalName}.xml`)
+  const namedXml =
+    namedXmlPath === null ? "<GuiXml></GuiXml>\n" : await readFile(namedXmlPath, "utf-8")
   await writeFile(join(distDir, `${canonicalName}.xml`), namedXml)
 
   const bindingsPath = await addonBindingsPathIn(addonDir)
