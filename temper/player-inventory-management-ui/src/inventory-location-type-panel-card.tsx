@@ -1,21 +1,24 @@
 "use client"
 
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { classifyItem } from "@temper/game-items-core/classify-item"
-import { buildLocationCurrencyNodes } from "@temper/game-items-core/inventory-currencies"
-import { type InventoryLocationGroup } from "@temper/game-items-core/inventory-grouping"
-import { ESO_BAG_BACKPACK, ESO_BAG_WORN } from "@temper/game-items-core/eso-bag-constants"
+import { classifyItem } from "@akasha/temper-items-core/classify-item"
+import { ESO_BAG_BACKPACK, ESO_BAG_WORN } from "@akasha/temper-items-core/eso-bag-constants"
+import { buildLocationCurrencyNodes } from "@akasha/temper-items-core/inventory-currencies"
+import type { InventoryLocationGroup } from "@akasha/temper-items-core/inventory-grouping"
 import {
   INVENTORY_TYPE_CATEGORY_ORDER,
   type InventoryItemRow,
   type InventoryTypeCategory,
   type InventoryTypeEntry,
   isInventoryTypeCategory,
-} from "@temper/game-items-core/inventory-grouping-types"
-import type { InventoryNode } from "@temper/game-items-core/inventory-node-types"
-import { buildInventoryTypeNodes } from "@temper/game-items-core/inventory-type-tree-builder"
-import type { CurrencyBalances, InventoryCurrencies } from "@temper/game-items-core/inventory-types"
-import type { LocationTypeId } from "@temper/game-items-core/location-type-data"
+} from "@akasha/temper-items-core/inventory-grouping-types"
+import type { InventoryNode } from "@akasha/temper-items-core/inventory-node-types"
+import { buildInventoryTypeNodes } from "@akasha/temper-items-core/inventory-type-tree-builder"
+import type {
+  CurrencyBalances,
+  InventoryCurrencies,
+} from "@akasha/temper-items-core/inventory-types"
+import type { LocationTypeId } from "@akasha/temper-items-core/location-type-data"
 import { useMemo } from "react"
 import { InventoryPanelCard, type InventorySortMode } from "./inventory-panel-card"
 
