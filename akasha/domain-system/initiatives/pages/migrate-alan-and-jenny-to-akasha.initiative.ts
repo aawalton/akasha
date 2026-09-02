@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "133 day pages and 778 session rows, but only 64 sidecars: 69 days carry no sessions file. The entries read path landed at `2a426e510e`; the write funnel at `2f5978b54d`, so every day write asks one module where a day lives. Correction: `edit` and `delete` would have thrown rather than gone blind; the silent half was `resolveOrCreateDaily` minting a duplicate markdown day. Decided: re-mint the 30 uuid version 5 ids, and prefix slugs `day-2026-03-05`.",
+        "The tracking pages are live and move, so snapshot first: 133 day pages, 64 sessions sidecars near 779 rows, and 97 completed-tasks sidecars at 1028. A session row carries no ordering field, so an ordinal must be carried or 12 rows across 4 days reorder; a task row names no day at all, only its filename does. Read path landed at `2a426e510e`, write funnel at `2f5978b54d`, checker at `645fb599c1` with 21 proven cases.",
     },
     {
       statement: "Alan's and Jenny's iOS apps ship to TestFlight from an akasha command.",
