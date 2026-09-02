@@ -1,10 +1,11 @@
-import type { Domain } from "../domain-system/domains/domain.page-type.ts"
+import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
 export const editorExtension = {
-  id: "01a04e9f-4572-71cc-b8e2-3a86a855c6fc",
-  pageTypeSlug: "domain",
+  id: "01a063f4-6690-7556-b094-e83b2ecfe46d",
+  pageTypeSlug: "workspace-package",
   slug: "editor-extension",
-  definition: "what the editor draws of the system it stands in",
+  definition: "what the editor draws of the system it sits in",
+  manifest: "json",
   partSlugs: ["module/work-initiatives", "module/panel-domains"],
   invariants: [
     {
@@ -28,4 +29,4 @@ export const editorExtension = {
       statement: "A panel row that represents a page names that page.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage

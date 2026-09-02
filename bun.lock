@@ -369,6 +369,9 @@
     "akasha/domain-system/plain-language": {
       "name": "@akasha/plain-language",
     },
+    "akasha/editor-extension": {
+      "name": "@akasha/editor-extension",
+    },
     "akasha/email-inbound": {
       "name": "@akasha/email-inbound",
     },
@@ -3070,6 +3073,8 @@
     "@akasha/digit-padding": ["@akasha/digit-padding@workspace:akasha/digit-padding"],
 
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
+
+    "@akasha/editor-extension": ["@akasha/editor-extension@workspace:akasha/editor-extension"],
 
     "@akasha/email-inbound": ["@akasha/email-inbound@workspace:akasha/email-inbound"],
 

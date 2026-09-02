@@ -1,0 +1,6 @@
+{
+  "name": "@akasha/editor-extension",
+  "private": true,
+  "type": "module",
+  "exports": {}
+}
