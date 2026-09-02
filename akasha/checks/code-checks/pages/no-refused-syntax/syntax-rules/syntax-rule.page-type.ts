@@ -29,6 +29,7 @@ export const syntaxRule = {
     "syntax-rule/exhaustive-dispatch",
     "syntax-rule/no-akasha-command-from-code",
     "syntax-rule/no-angle-bracket-cast",
+    "syntax-rule/no-body-read-beside-an-index",
     "syntax-rule/no-credential-in-script-text",
     "syntax-rule/no-double-cast",
     "syntax-rule/no-libc-by-name",
