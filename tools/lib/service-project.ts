@@ -67,6 +67,7 @@ export function readServiceDoc(root: string, slug: string, body: string): Servic
     restart: textField(fm, "restart"),
     successExitStatus: numberField(fm, "success-exit-status"),
     restartForceExitStatus: numberField(fm, "restart-force-exit-status"),
+    restartPreventExitStatus: numberField(fm, "restart-prevent-exit-status"),
     startLimitIntervalSeconds: numberField(fm, "start-limit-interval-seconds"),
     bootDelaySeconds: numberField(fm, "boot-delay-seconds"),
     intervalSeconds: numberField(fm, "interval-seconds"),

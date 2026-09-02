@@ -4,6 +4,7 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
+import { TICKS_BEFORE_ENDING, tickRatchet } from "../tools/lib/tick-ratchet.ts"
 import {
   GROUP_SLUG,
   LOG,
@@ -22,10 +23,10 @@ Where the day OPENED is what Alan slept, placed on the readout's own scale, befo
 the day costs has come off it. Where it STANDS is the readout's reading now. A stand below the
 open is a fall, and a fall is worth telling him about.
 
-A RUNG IS SAID ONLY WHERE IT IS WORSE THAN THE WORST ALREADY SAID TODAY, which the day's own
-page carries as \`surplus-tier-said\`. A day that drops two rungs between ticks therefore says
-the one it reached and never the one it passed through, and a reading that recovers and falls
-again says nothing the second time.
+A RUNG IS SAID ONLY WHERE IT IS WORSE THAN THE WORST ALREADY SAID TODAY, and what was already
+said today is read back off the notifications already sent, each of which names its rung in its
+own \`source\`. A day that drops two rungs between ticks therefore says the one it reached and
+never the one between, and a reading that recovers and falls again says nothing the second time.
 
 The readout, its scale and its source are read as pages through the page query service, so a
 threshold Alan moves is honoured on the next tick rather than on a deploy.
@@ -35,6 +36,11 @@ knows nothing about devices.
 
 A tick still working ${TICK_CEILING_MS / 1000} seconds after it started ends the process
 rather than leaving a second one to start beside it, and systemd restarts it.
+
+A THROWN TICK IS NEVER SWALLOWED FOR LONG. ${TICKS_BEFORE_ENDING} throws in a row end the
+process nonzero; systemd restarts it, and enough of those inside the unit's start-limit window
+fail the unit outright. One throw is a store blinking. ${TICKS_BEFORE_ENDING} is a service that
+has stopped working, and a service that has stopped working must not read as healthy.
 
 It runs until stopped. SIGTERM and SIGINT both end the loop at its next boundary.
 
@@ -82,11 +88,19 @@ async function main(): Promise<void> {
     `${LOG} starting tick loop pid=${process.pid} tick=${TICK_MS}ms ceiling=${TICK_CEILING_MS}ms`
   )
 
+  const ratchet = tickRatchet(WORKER_NAME, TICKS_BEFORE_ENDING)
+
   while (!ac.signal.aborted) {
     try {
       await runBoundedSurplusFallTick(WORKER_NAME, ac.signal)
+      ratchet.worked()
     } catch (err) {
-      if (!ac.signal.aborted) console.error(`${LOG} tick threw:`, err)
+      if (ac.signal.aborted) break
+      console.error(`${LOG} tick threw (${ratchet.threw()} in a row):`, err)
+      if (ratchet.spent()) {
+        console.error(`${LOG} ${ratchet.why()}`)
+        process.exit(1)
+      }
     }
     const slept = await sleepAbortable(TICK_MS, ac.signal)
     if (!slept) break

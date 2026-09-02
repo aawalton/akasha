@@ -1,18 +1,28 @@
-import { askPage } from "@shared/pages-query/ask"
+import { fetchSurplusHours } from "@akasha/readout-system/upkeep-surplus"
+import { askComposed } from "../page-query-client.ts"
 import { resolveReadoutGroup } from "../../../readouts/readout-resolver.ts"
 import { type ReadoutScale, readoutShape } from "../../../readouts/readout-scale-shape.ts"
 import { isTierColor, type Rung } from "./tier.ts"
 
-export const DAY_ARGUMENT_TYPE = "calendar-date"
+// WHERE THE TWO READINGS COME FROM. Both are keys on the day's `daily-tracking` row, asked of
+// `@akasha/pages-system-service` and reduced here. `surplus-hours` is read by the same
+// `fetchSurplusHours` the surplus reading service uses, so the tier said here and the tile drawn
+// on the website are taken off one function rather than two that can drift.
+//
+// `sleep-hours` has no such function of its own yet, so the ask is written out below in the shape
+// `fetchSurplusHours` uses. The `sleep-hours-on-day` readout query states the same page type and
+// the same target, so the two agree; if a third caller wants the night, lift this beside the
+// surplus one rather than writing it a third time.
+export const DAY_PAGE_TYPE = "daily-tracking"
 
-export const MEASURES_QUERY = "daily-tracking-all"
+export const DAY_KEY = "date"
+
+export const SLEEP_HOURS_KEY = "sleep-hours"
 
 export interface Readout {
   readonly slug: string
   readonly label: string
   readonly rungs: readonly Rung[]
-  readonly querySlug: string
-  readonly dayArgument: string
 }
 
 export function rungsOf(scale: ReadoutScale): readonly Rung[] {
@@ -34,27 +44,6 @@ export function rungsOf(scale: ReadoutScale): readonly Rung[] {
   return rungs
 }
 
-export async function dayArgumentOf(querySlug: string): Promise<string> {
-  const asked = await askPage("page-query", querySlug)
-  if (asked.outcome !== "found") throw new Error(`dayArgumentOf: ${asked.why}`)
-  const takes = asked.page.values.takes
-  if (takes === null || typeof takes !== "object" || Array.isArray(takes)) {
-    throw new Error(
-      `dayArgumentOf: the page query \`${querySlug}\` states no \`takes\`, so nothing on it says which argument the day fills`
-    )
-  }
-  const named = Object.entries(takes as Record<string, unknown>)
-    .filter(([, type]) => type === DAY_ARGUMENT_TYPE)
-    .map(([name]) => name)
-  const one = named[0]
-  if (one === undefined || named.length > 1) {
-    throw new Error(
-      `dayArgumentOf: the page query \`${querySlug}\` takes ${named.length} \`${DAY_ARGUMENT_TYPE}\` arguments, and a readout holds one day`
-    )
-  }
-  return one
-}
-
 export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
   const group = await resolveReadoutGroup(groupSlug)
   const [readout, ...rest] = group.readouts
@@ -63,41 +52,38 @@ export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
       `resolveOneReadout: the group \`${groupSlug}\` holds ${group.readouts.length} readouts, and this watches one reading rather than a strip`
     )
   }
-  const querySlug = readout.querySlug
-  if (querySlug === null) {
-    throw new Error(
-      `resolveOneReadout: the readout \`${readout.slug}\` states no \`query-slug\`, so nothing answers it`
-    )
-  }
   return {
     slug: readout.slug,
     label: readout.label,
     rungs: rungsOf(readout.scale),
-    querySlug,
-    dayArgument: await dayArgumentOf(querySlug),
   }
 }
 
-// BOTH READINGS BELOW ASKED A SAVED QUERY, AND NOTHING ANSWERS ONE. A saved query was a file in
-// the checkout, read by the page engine that `4c1f05a264` severed; `askTaking` and `askNamed`
-// have refused every slug since. Each of these asked one and threw on the refusal, so the fall
-// notifier has stopped here on every tick since that commit.
-//
-// The refusal is stated here rather than fetched from a shim that always says no. What each
-// wanted is rows and one number off them, which the service answers and does not reduce, so the
-// reduction has to be written at this caller — as `alanwalton/web/app/routes/api.claude-usage.ts`
-// does for the four saved queries it took over.
-const NO_SAVED_QUERY =
-  "a saved query is answered by the page engine that has been removed. ask `@akasha/pages-system-service/calling` for the rows and take the reading off them here"
-
-export async function readReading(readout: Readout, _day: string): Promise<number | null> {
-  throw new Error(
-    `readReading: \`${readout.slug}\` went unread — its reading stands behind the saved query \`${readout.querySlug}\`, and ${NO_SAVED_QUERY}`
-  )
+export function hoursIn(held: unknown): number | null {
+  if (typeof held !== "number" && typeof held !== "string") return null
+  const trimmed = typeof held === "string" ? held.trim() : held
+  if (trimmed === "") return null
+  const hours = Number(trimmed)
+  return Number.isFinite(hours) ? hours : null
 }
 
-export async function readSleepHours(_day: string): Promise<number | null> {
-  throw new Error(
-    `readSleepHours: sleep stands behind the saved query \`${MEASURES_QUERY}\`, and ${NO_SAVED_QUERY}`
-  )
+export async function readReading(day: string): Promise<number | null> {
+  return fetchSurplusHours(askComposed, day)
+}
+
+export async function readSleepHours(day: string): Promise<number | null> {
+  const asked = await askComposed({
+    "page-type": DAY_PAGE_TYPE,
+    where: { [DAY_KEY]: { is: day } },
+    keys: [SLEEP_HOURS_KEY],
+    limit: 1,
+  })
+  if (!asked.ok) {
+    throw new Error(
+      `readSleepHours: the tracking day went unread, so the night the day opened on is unknown rather than unslept: ${asked.why}`
+    )
+  }
+  const row = asked.rows[0]
+  if (row === undefined) return null
+  return hoursIn(row.values[SLEEP_HOURS_KEY])
 }

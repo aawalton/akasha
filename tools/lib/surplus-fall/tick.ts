@@ -1,7 +1,8 @@
-import { askComposed } from "@shared/pages-query/ask"
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { ALAN_PERSON } from "../notify.ts"
+import { askComposed } from "../page-query-client.ts"
 import { writeNotification } from "../push-notification/feed.ts"
+import { NOTIFICATION_PAGE_TYPE_SLUG } from "../push-notification/payload.ts"
 import { type Readout, readReading, readSleepHours, resolveOneReadout } from "./readout.ts"
 import { decideFall, isTierColor, tierAt, TIER_ORDER, type TierColor } from "./tier.ts"
 
@@ -13,22 +14,13 @@ export const GROUP_SLUG = "surplus"
 
 export const KIND = "surplus-fall"
 
-export const SOURCE = "readouts"
+export const SOURCE_PREFIX = "surplus-fall/"
+
+export const SAID_AT_ONCE = 50
 
 export const TICK_MS = 300_000
 
 export const TICK_CEILING_MS = 60_000
-
-export const DAY_PAGE_TYPE = "eso-daily-tracking"
-
-export const DAY_KEY = "eso-day"
-
-export const TIER_SAID_KEY = "surplus-tier-said"
-
-export interface TierSaid {
-  readonly stands: boolean
-  readonly said: TierColor | null
-}
 
 export function fallBody(label: string, tier: TierColor): string {
   return `${label} has fallen to ${tier}.`
@@ -38,42 +30,53 @@ export function isWorse(tier: TierColor, than: TierColor): boolean {
   return TIER_ORDER.indexOf(tier) < TIER_ORDER.indexOf(than)
 }
 
-export async function tierSaidOn(day: string): Promise<TierSaid> {
-  const asked = await askComposed({
-    "page-type": DAY_PAGE_TYPE,
-    where: { [DAY_KEY]: { is: day } },
-    keys: [TIER_SAID_KEY],
-    limit: 1,
-  })
-  if (!asked.ok) throw new Error(`tierSaidOn: ${asked.why}`)
-  const row = asked.answer.rows[0]
-  if (row === undefined) return { stands: false, said: null }
-  const held = row.values[TIER_SAID_KEY]
-  const said = typeof held === "string" && isTierColor(held) ? held : null
-  return { stands: true, said }
+// WHAT WAS ALREADY SAID TODAY IS READ OFF WHAT WAS ALREADY SENT. It used to be a second mark,
+// `surplus-tier-said`, written onto the day's own page after the notification went out. Two
+// writes for one fact is one too many: the second could fail after the first succeeded, and then
+// the same fall goes out again five minutes later.
+//
+// The notification carries the tier in its own `source`, so the feed is the record. Nothing else
+// reads `source`, and the tier cannot disagree with what Alan was told, because it is what Alan
+// was told.
+
+export function sourceFor(tier: TierColor): string {
+  return `${SOURCE_PREFIX}${tier}`
 }
 
-// THIS IS THE SECOND OF TWO BREAKS ON THIS PATH, AND NOTHING REACHES IT. The tick already stops
-// above, in `readReading` and `readSleepHours` at `./readout.ts:93` and `:99`, which refuse because
-// both readings stood behind a saved query. So no tick has come this far since `4c1f05a264`.
-//
-// It is stated anyway, because repairing the readings alone would not restore the notifier: what
-// is written here is the mark that says a fall has already been announced today, and it went in
-// with `patchPage` or `writePage`, both refused. Without it `tierSaidOn` above would read `null`
-// every tick and the notifier would announce the same fall every five minutes.
-const NO_KEYED_WRITE = "the page store refuses every keyed write"
+export function tierInSource(said: unknown): TierColor | null {
+  if (typeof said !== "string" || !said.startsWith(SOURCE_PREFIX)) return null
+  const held = said.slice(SOURCE_PREFIX.length)
+  return isTierColor(held) ? held : null
+}
 
-export async function sayTierOn(
-  day: string,
-  tier: TierColor,
-  stands: boolean,
-  _writer: string
-): Promise<void> {
-  throw new Error(
-    `sayTierOn: \`${DAY_PAGE_TYPE}/${day}\` was not ${stands ? "patched" : "written"} — ` +
-      `${NO_KEYED_WRITE}, so \`${TIER_SAID_KEY}\` does not record that ${tier} was announced ` +
-      `and the next tick would announce it again`
-  )
+// The day is matched by running each `sent-at` back through `getEsoDayStr`, the same function the
+// tick takes its day from. A window of timestamps would have to know where Alan's day begins, and
+// would drift from it the moment that moved.
+export async function tierSaidOn(day: string): Promise<TierColor | null> {
+  const asked = await askComposed({
+    "page-type": NOTIFICATION_PAGE_TYPE_SLUG,
+    where: { kind: { is: KIND } },
+    keys: ["source", "sent-at"],
+    "sort-by": "sent-at",
+    descending: true,
+    limit: SAID_AT_ONCE,
+  })
+  if (!asked.ok) {
+    throw new Error(
+      `tierSaidOn: the feed went unread, so what was already said today is unknown and saying it again would be a guess: ${asked.why}`
+    )
+  }
+  let worst: TierColor | null = null
+  for (const row of asked.rows) {
+    const sentAt = row.values["sent-at"]
+    if (typeof sentAt !== "string") continue
+    const at = new Date(sentAt)
+    if (Number.isNaN(at.getTime()) || getEsoDayStr(at) !== day) continue
+    const tier = tierInSource(row.values.source)
+    if (tier === null) continue
+    if (worst === null || isWorse(tier, worst)) worst = tier
+  }
+  return worst
 }
 
 async function tierOrNull(
@@ -91,7 +94,7 @@ export async function runSurplusFallTick(
 ): Promise<void> {
   const readout = await resolveOneReadout(GROUP_SLUG)
   const [current, opening] = await Promise.all([
-    tierOrNull(readout, readReading(readout, day)),
+    tierOrNull(readout, readReading(day)),
     tierOrNull(readout, readSleepHours(day)),
   ])
 
@@ -102,10 +105,10 @@ export async function runSurplusFallTick(
   }
 
   signal.throwIfAborted()
-  const held = await tierSaidOn(day)
-  if (held.said !== null && !isWorse(decision.tier, held.said)) {
+  const said = await tierSaidOn(day)
+  if (said !== null && !isWorse(decision.tier, said)) {
     console.log(
-      `${LOG} ${day}: ${decision.tier} is no worse than the ${held.said} already said today; nothing written`
+      `${LOG} ${day}: ${decision.tier} is no worse than the ${said} already said today; nothing written`
     )
     return
   }
@@ -116,13 +119,12 @@ export async function runSurplusFallTick(
       title: readout.label,
       body: fallBody(readout.label, decision.tier),
       kind: KIND,
-      source: SOURCE,
+      source: sourceFor(decision.tier),
     },
     writer
   )
   if (!written.ok) throw new Error(`${LOG} ${day}: ${written.why}`)
 
-  await sayTierOn(day, decision.tier, held.stands, writer)
   console.log(`${LOG} ${day}: wrote a fall to ${decision.tier}`)
 }
 

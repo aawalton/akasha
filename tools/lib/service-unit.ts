@@ -16,6 +16,10 @@ export interface ServiceDoc {
   readonly restart: string | null
   readonly successExitStatus: number | null
   readonly restartForceExitStatus: number | null
+  // The exit a service ends on when it has given up rather than merely died. systemd does not
+  // restart it, so the unit enters `failed` at once and reads red until someone looks. Without
+  // one, `Restart=always` hides a service that can no longer do its work behind a green light.
+  readonly restartPreventExitStatus: number | null
   readonly startLimitIntervalSeconds: number | null
   readonly bootDelaySeconds: number | null
   readonly intervalSeconds: number | null
@@ -145,6 +149,9 @@ export function serviceUnitText(doc: ServiceDoc): string {
       ...(isWrapped(doc) ? [RESTART_EXIT] : []),
     ]
     if (forced.length > 0) lines.push(`RestartForceExitStatus=${forced.join(" ")}`)
+    if (doc.restartPreventExitStatus !== null) {
+      lines.push(`RestartPreventExitStatus=${doc.restartPreventExitStatus}`)
+    }
     lines.push("", "[Install]", `WantedBy=${doc.wantedBy ?? "default.target"}`)
   }
 
