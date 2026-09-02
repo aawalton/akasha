@@ -12,9 +12,6 @@
   "references": [
     {
       "path": "../game-completion"
-    },
-    {
-      "path": "../game-characters-equipment"
     }
   ],
   "include": [
