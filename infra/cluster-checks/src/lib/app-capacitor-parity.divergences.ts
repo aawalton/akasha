@@ -60,12 +60,6 @@ export const CAPACITOR_PARITY_DIVERGENCES: readonly Divergence[] = [
   },
   {
     axis: "render-targets",
-    identifier: "QuestionDetail",
-    reason:
-      "Question answer surface (#15519). The shell mounts it online (#15520) via the `QuestionAnswerArm` wrapper — which resolves the detail props client-side under the RLS browser client — so the JSX identifier stays app-only in the page-detail route file itself while the surface renders live in the shell.",
-  },
-  {
-    axis: "render-targets",
     identifier: "PageDetailContent",
     reason:
       "Bare PageDetailContent is app-only via the app's `View properties` display mode, which reaches the property surface directly. The shell renders its generic detail through PageDetailWithReadMark (the #14959 auto-mark-read wrapper over PageDetailContent) and has no such display mode.",

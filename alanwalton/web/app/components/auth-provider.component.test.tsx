@@ -76,7 +76,6 @@ mock.module("~/lib/offline-cache-namespace", () => ({
 }))
 
 const nullComponent = () => null
-mock.module("~/components/badge-sync", () => ({ BadgeSync: nullComponent }))
 mock.module("~/components/deep-link-open-sync", () => ({ DeepLinkOpenSync: nullComponent }))
 mock.module("~/components/native-auth-refresh-sync", () => ({
   NativeAuthRefreshSync: nullComponent,

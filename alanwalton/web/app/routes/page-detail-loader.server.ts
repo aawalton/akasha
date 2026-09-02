@@ -17,7 +17,6 @@ import { resolveMediaVariants } from "~/lib/media-variants"
 import { resolveNextUnreadHref } from "~/lib/next-unread"
 import { selectPageDisplayKind } from "~/lib/page-display-kind"
 import { resolveReaderNeighbors } from "~/lib/reader-neighbors"
-import { resolveQuestionDetail } from "~/questions/lib/question-detail-loader"
 import type { Route } from "./+types/page-detail"
 
 const NAV_SLUG = "nav"
@@ -156,22 +155,6 @@ export async function loader({ params, request }: Route.LoaderArgs) {
         pageTypeSlug: resolvedSlug,
         id,
         pgn,
-        faviconIdSuffix: null,
-        title,
-      },
-      { headers }
-    )
-  }
-
-  if (displayKind === "question") {
-    const resolved = await resolveQuestionDetail({ id, pageTypeSlug: resolvedSlug })
-    return data(
-      {
-        kind: "question" as const,
-        pageTypeSlug: resolvedSlug,
-        id,
-        question: resolved.question,
-        persona: resolved.persona,
         faviconIdSuffix: null,
         title,
       },

@@ -10,7 +10,6 @@ import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { useEffect, useRef, useState } from "react"
 import { useNavigate } from "react-router"
 import { z } from "zod"
-import { BadgeSync } from "~/components/badge-sync"
 import { DeepLinkOpenSync } from "~/components/deep-link-open-sync"
 import { NativeAuthRefreshSync } from "~/components/native-auth-refresh-sync"
 import { OfflineTextSync } from "~/components/offline-text-sync"
@@ -194,7 +193,6 @@ export function AuthProvider({ children }: AuthProviderProps) {
       <OfflineTextSync />
       <PushRegistrationSync />
       <DeepLinkOpenSync />
-      <BadgeSync />
       <DeviceSecretSync />
       <NativeAuthRefreshSync />
       {children}

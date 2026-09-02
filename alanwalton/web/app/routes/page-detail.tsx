@@ -14,8 +14,6 @@ const IdleGame = lazy(() => import("~/idle/idle-game"))
 
 const ChessBoard = lazy(() => import("@akasha/chess-core/chess-board"))
 
-const QuestionDetail = lazy(() => import("../questions/question-detail"))
-
 export function buildPageDetailMeta(
   loaderData: { title: string | null; faviconIdSuffix: string | null } | undefined
 ): ReturnType<Route.MetaFunction> {
@@ -84,8 +82,7 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
     (loaderData.kind === "idle" ||
       loaderData.kind === "awen-game" ||
       loaderData.kind === "chess-game" ||
-      loaderData.kind === "chess-review" ||
-      loaderData.kind === "question")
+      loaderData.kind === "chess-review")
   ) {
     return (
       <PageDetailContent pageTypeSlug={toPageTypeSlug(loaderData.pageTypeSlug)} id={loaderData.id} />
@@ -122,15 +119,6 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
       <ViewPageFrame>
         <Suspense fallback={null}>
           <ChessBoard initialPgn={loaderData.pgn} />
-        </Suspense>
-      </ViewPageFrame>
-    )
-  }
-  if (loaderData.kind === "question") {
-    return (
-      <ViewPageFrame>
-        <Suspense fallback={null}>
-          <QuestionDetail question={loaderData.question} persona={loaderData.persona} />
         </Suspense>
       </ViewPageFrame>
     )

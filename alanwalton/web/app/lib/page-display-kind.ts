@@ -6,7 +6,6 @@ export type PageDisplayKind =
   | "chess"
   | "chess-review"
   | "persona"
-  | "question"
   | "generic"
 
 export function selectPageDisplayKind(input: {
@@ -21,7 +20,6 @@ export function selectPageDisplayKind(input: {
   }
   if (display === "chess-review") return "chess-review"
   if (display === "persona") return "persona"
-  if (display === "question") return "question"
   if (display === "idle") return "idle"
   if (display === "chess") return "chess"
   if (display === "awen") {

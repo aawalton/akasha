@@ -18,7 +18,6 @@ import { type PageDisplayKind, selectPageDisplayKind } from "~/lib/page-display-
 import { useIsOnline } from "~/lib/use-is-online"
 import { useMediaVariants } from "~/lib/use-media-variants"
 import { useNextUnreadHref } from "~/lib/use-next-unread"
-import { QuestionAnswerArm } from "./question-answer-arm"
 
 const NAV_SLUG = "nav"
 
@@ -152,8 +151,6 @@ function PageDetailDispatch({
       ) : (
         genericBody
       )
-    case "question":
-      return <QuestionAnswerArm questionId={page._id} pageTypeSlug={pageTypeSlug} />
     case "persona":
     case "generic":
       return genericBody

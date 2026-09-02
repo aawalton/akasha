@@ -4,9 +4,9 @@
 // checkout. That reach is severed. The pages are asked of `@akasha/pages-system-service` over
 // HTTP now, and the service answers for the page types the akasha index files and for no others.
 // `nav`, `game`, `game-turn`, `game-state`, `idle-game`, `idle-save`, `idle-persona-card`,
-// `persona-cover-image`, `message`, `sms-consent`, `question` and `page-property-definition` are
-// none of them filed there, so every question and every write reaching one of those is a feature
-// that is gone until its page type stands in akasha.
+// `persona-cover-image`, `message`, `sms-consent` and `page-property-definition` are none of them
+// filed there, so every question and every write reaching one of those is a feature that is gone
+// until its page type stands in akasha.
 //
 // GONE IS SAID OUT LOUD RATHER THAN DRAWN AS EMPTY. A caller reads an empty list exactly as it
 // reads a true nothing, and only one of the two is a fault: a save that went unread is not a

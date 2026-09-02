@@ -59,8 +59,6 @@ export default [
   route("api/awen/read/:externalId", "routes/api.awen.read.$externalId.ts"),
   route("api/chess/analyze", "routes/api.chess.analyze.ts"),
 
-  route("api/question/resolve", "routes/api.question.resolve.ts"),
-
   route("api/push/register", "routes/api.push.register.ts"),
 
   route("api/device-secret/admission", "routes/api.device-secret.admission.ts"),
