@@ -6,7 +6,6 @@ const INSTEAD = "`--old-file` and `--new-file`"
 
 const SAYING = {
   bare: (path: string) => `nothing is piped in for ${path}`,
-  both: "what is piped in belongs to no path",
   opening: (path: string, why: string) => `${path} would not open — ${why}`,
 }
 
@@ -61,14 +60,11 @@ test("an input that would not open says why rather than reading as nothing", () 
   expect("refusals" in held && held.refusals[0]).toContain("EAGAIN")
 })
 
-test("bytes piped in that nothing wants belong to no path", () => {
-  const held = pipedIn(pipes("alpha\n"), null, SAYING)
-  expect("refusals" in held && held.refusals[0]).toBe(SAYING.both)
-})
-
-test("an input nothing wants and nothing carries is neither taken nor refused", () => {
-  expect(pipedIn(() => ({ bytes: new Uint8Array() }), null, SAYING)).toEqual({ none: true })
-  expect(pipedIn(() => ({ tty: true }), null, SAYING)).toEqual({ none: true })
+test("an input no path wants is never reached", () => {
+  const never: Piping = () => {
+    throw new Error("the input was reached")
+  }
+  expect(pipedIn(never, null, SAYING)).toEqual({ none: true })
 })
 
 test("a passage is the lines between its markers, each with its own newline", () => {

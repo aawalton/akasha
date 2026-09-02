@@ -27,7 +27,6 @@ export type Piped =
 
 export type Wording = {
   readonly bare: (path: string) => string
-  readonly both: string
   readonly opening: (path: string, why: string) => string
 }
 
@@ -50,11 +49,8 @@ export function inputIn(): Input {
 }
 
 export function pipedIn(piping: Piping, wanted: string | null, saying: Wording): Piped {
+  if (wanted === null) return { none: true }
   const held = piping()
-  if (wanted === null) {
-    if ("bytes" in held && held.bytes.byteLength > 0) return { refusals: [saying.both] }
-    return { none: true }
-  }
   if ("tty" in held) return { refusals: [saying.bare(wanted)] }
   if ("unreadable" in held) return { refusals: [saying.opening(wanted, held.unreadable)] }
   if (held.bytes.byteLength === 0) return { refusals: [saying.bare(wanted)] }

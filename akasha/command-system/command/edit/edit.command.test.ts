@@ -271,8 +271,8 @@ test("marker blocks piped in state the substitutions, worked in the order stated
     givenIn(root),
     piped
   )
-  expect(also.code).toBe(1)
-  expect(also.refusals[0]).toContain("belongs to no path")
+  expect(also.refusals).toEqual([])
+  expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\ndelta\n")
 })
 
 test("an empty passage names no place and is refused", () => {

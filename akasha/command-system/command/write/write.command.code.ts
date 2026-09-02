@@ -303,9 +303,6 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
         ` and nothing is piped in — say it as` +
         ` \`${given.calledAs} ${FILE_PATH} ${path} ${MESSAGE} <text> <<'EOF'\`,` +
         " then the body, then `EOF` on a line of its own",
-      both:
-        `a body is piped in and every ${FILE_PATH} names a ${CONTENT_FILE},` +
-        " so the body piped in belongs to no path",
       opening: (path, why) =>
         `the body for ${path} is read from the input, and the input would not open — ${why}`,
     })

@@ -346,9 +346,6 @@ test("a marker payload the cli cannot read is refused for what it is missing", (
   expect(piped("<<<<<<< old\nalpha\n>>>>>>> new\n").said).toContain("closed by no `=======`")
   expect(piped("<<<<<<< old\nalpha\n=======\nbeta\n").said).toContain("closed by no `>>>>>>> new`")
   expect(piped(">>>>>>> new\n").said).toContain("follows no `<<<<<<< old`")
-  const one = ran(root, [...at, ...stated(root, "a", "1", "2")], new TextEncoder().encode("a\n"))
-  expect(one.code).toBe(INPUT)
-  expect(one.said).toContain("belongs to no path")
   expect(readFileSync(join(root, EDITED_AT), "utf8")).toBe(EDITED)
 }, 60000)
 

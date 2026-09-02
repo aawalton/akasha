@@ -150,9 +150,6 @@ function askingIn(read: Read, given: Given, piping: Piping): Askings {
       ` \`${given.calledAs} ${FILE_PATH} ${path} ${MESSAGE} <text> <<'EOF'\`, then` +
       ` \`${MARK_OLD}\`, the passage, \`${MARK_SPLIT}\`, what it becomes, \`${MARK_NEW}\`,` +
       " then `EOF` on a line of its own",
-    both:
-      `passages are piped in and every ${FILE_PATH} states an ${OLD_FILE},` +
-      ` so ${PIPED} belongs to no path`,
     opening: (path, why) =>
       `the passages for ${path} are read from the input, and the input would not open — ${why}`,
   })

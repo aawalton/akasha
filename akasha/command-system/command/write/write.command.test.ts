@@ -282,7 +282,7 @@ test("the bytes piped in are the body, text or not", () => {
   expect([...readFileSync(join(root, "akasha/two.bin"))]).toEqual([...raw])
 })
 
-test("what is piped in is refused where no path wants it or it holds a marker", () => {
+test("what is piped in is left unread where no path wants it, and refused where it marks", () => {
   const root = repoWith()
   const at = ["--file-path", "akasha/two.ts"]
   const piped = () => ({ bytes: bytes("alpha\n=======\nbeta\n") })
@@ -291,7 +291,8 @@ test("what is piped in is refused where no path wants it or it holds a marker", 
     expect(said.code).toBe(1)
     expect(said.refusals[0]).toContain(saying)
   }
-  refused([...at, "--content-file", bodyIn(root)], "belongs to no path")
+  const also = writing([...at, "--content-file", bodyIn(root)], givenIn(root), piped)
+  expect(also.refusals).toEqual([])
   refused(at, "handed in at --content-file")
   refused([...at, ...at, "--content-file", bodyIn(root)], "closed by no --content-file before")
 })

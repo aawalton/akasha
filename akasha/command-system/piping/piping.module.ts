@@ -21,8 +21,12 @@ export const piping = {
       statement: "An input holding no byte is nothing piped in.",
     },
     {
-      invariantKind: "departure",
-      statement: "Bytes piped in where every path names a file belong to no path.",
+      invariantKind: "constraint",
+      statement: "Reading an input that is open and holds nothing waits for that input to close.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A body piped in where every path names a file is left unread.",
     },
     {
       invariantKind: "departure",
