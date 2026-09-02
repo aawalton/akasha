@@ -1,11 +1,14 @@
-import { mkdtempSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
-import { createRequire } from "node:module"
+import { readFileSync, statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import { addressIn } from "../page-address/page-address.module.code.ts"
 
-const SCRATCH_AT = "/var/tmp"
+const transpiler = new Bun.Transpiler({ loader: "ts" })
 
-const loadFrom = createRequire(import.meta.url)
+const EXPORTED = /^export\s+/gm
+
+const NAMED = /^[A-Za-z_$][\w$]*$/
+
+const DEFAULT = "default"
 
 export type Value = Record<string, unknown>
 
@@ -22,15 +25,13 @@ export type Loaded = {
 }
 
 export function loadedFrom(body: string): Loaded {
-  const held = mkdtempSync(join(SCRATCH_AT, "akasha-index-"))
   try {
-    const at = join(held, "held.page.ts")
-    writeFileSync(at, body)
-    return { value: firstValueIn(loadFrom(at) as Record<string, unknown>), failed: null }
+    const named = transpiler.scan(body).exports.filter((one) => one !== DEFAULT && NAMED.test(one))
+    const js = transpiler.transformSync(body).replace(EXPORTED, "")
+    const declared = new Function(`${js}\nreturn {${named.join(",")}}`)() as Record<string, unknown>
+    return { value: firstValueIn(declared), failed: null }
   } catch (why) {
     return { value: null, failed: why instanceof Error ? why.message : String(why) }
-  } finally {
-    rmSync(held, { recursive: true, force: true })
   }
 }
 

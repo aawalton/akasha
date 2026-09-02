@@ -1,6 +1,5 @@
-import { mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { id as idPage } from "@akasha/pages-system/page/id"
 import { slug as slugPage } from "@akasha/pages-system/page/slug"
@@ -22,8 +21,6 @@ export function bodyOf(value: Held): string {
 export type Pair = { readonly tree: string; readonly root: string }
 
 export const scratch = scratchWorld()
-
-export const SWEEPING = 60000
 
 export const heldAt = (): string => scratch.rootFor("akasha-index-")
 
@@ -191,21 +188,6 @@ export function grounded(): Pair {
 export const IMPORTS = 'import { b } from "./b.ts"\nimport type { C } from "../c.ts"\n'
 
 export const IMPORTS_AT = "d/a.module.code.ts"
-
-export const PAGES = join(rootOf(import.meta.dir), "akasha")
-
-export function everyBodyUnder(at: string): readonly string[] {
-  const found: string[] = []
-  const walk = (here: string): undefined => {
-    for (const one of readdirSync(here, { withFileTypes: true })) {
-      const next = join(here, one.name)
-      if (one.isDirectory()) walk(next)
-      else if (one.name.endsWith(".ts")) found.push(next)
-    }
-  }
-  walk(at)
-  return found
-}
 
 export function retyped(
   root: string,

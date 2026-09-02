@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { cpSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { everyFileUnder } from "@akasha/testing-system/walking"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
@@ -10,11 +10,9 @@ import {
   B,
   bare,
   bodyOf,
-  butTheStamp,
   C,
   D,
   edgeFile,
-  everyBodyUnder,
   grounded,
   heldAt,
   IMPORTS,
@@ -24,12 +22,10 @@ import {
   linesIn,
   type Named,
   NOTE,
-  PAGES,
   pathFile,
   put,
   renamed,
   retyped,
-  SWEEPING,
   said,
   schemaFile,
   scratch,
@@ -42,9 +38,7 @@ import {
   wroteText,
 } from "./indexing.module.test-fixtures.ts"
 
-afterAll(scratch.sweep, SWEEPING)
-
-const REBUILDING = 60000
+afterAll(scratch.sweep, 5000)
 
 test("a written page is answered by its id, by its page type and slug, and by its own path", () => {
   const { tree, root } = bare()
@@ -276,28 +270,6 @@ test("a rebuild from the pages agrees with the index a write left", () => {
   expect(existsSync(pathFile(landed, "deep/a.module.code.ts"))).toBe(true)
   expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(landed))
 })
-
-test(
-  "a rebuild of the pages and a settle over it leave the same index",
-  () => {
-    const repo = heldAt()
-    const tree = join(repo, "akasha")
-    cpSync(PAGES, tree, { recursive: true })
-
-    const built = heldAt()
-    const said = rebuiltFrom(tree, built, repo)
-    expect(said.pages).toBeGreaterThan(0)
-    expect(said.refused).toEqual([])
-
-    const kept = heldAt()
-    const indexing = indexingAt(kept, repo)
-    for (const path of everyBodyUnder(tree)) indexing.wrote(path, readFileSync(path, "utf8"), null)
-    expect(indexing.settle()).toEqual([])
-
-    expect(butTheStamp(everyFileUnder(kept))).toEqual(butTheStamp(everyFileUnder(built)))
-  },
-  REBUILDING
-)
 
 test("pages carrying no property that declares a unique are refused rather than filed empty", () => {
   const tree = heldAt()

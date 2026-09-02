@@ -22,6 +22,14 @@ export const pageValue = {
     },
     {
       invariantKind: "departure",
+      statement: "A body is loaded without a file being written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body importing a value rather than a type does not load.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key is read as the type it is asked for or as nothing.",
     },
     {
