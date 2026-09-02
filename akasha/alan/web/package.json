@@ -3,11 +3,9 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./declared-effects": "./declared-effects/declared-effects.module.code.ts",
-    "./link-target": "./link-target/link-target.module.code.ts"
+    "./declared-effects": "./declared-effects/declared-effects.module.code.ts"
   },
   "dependencies": {
-    "@akasha/open-questions": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages-url": "workspace:*",

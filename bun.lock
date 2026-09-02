@@ -127,7 +127,6 @@
     "akasha/alan/web": {
       "name": "@akasha/alanwalton-web",
       "dependencies": {
-        "@akasha/open-questions": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-url": "workspace:*",

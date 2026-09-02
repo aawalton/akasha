@@ -6,5 +6,5 @@ export const alanWeb = {
   slug: "alan-web",
   definition: "the code Alan's site is built from",
   manifest: "json",
-  partSlugs: ["module/declared-effects", "module/link-target"],
+  partSlugs: ["module/declared-effects"],
 } as const satisfies WorkspacePackage
