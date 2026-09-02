@@ -61,6 +61,10 @@ export const temperPlayerCompletion = {
     "module/completion-cadwell-progress",
     "module/completion-poi-progress",
     "module/completion-account-zone-poi-union",
+    "module/completion-quest-progress",
+    "module/completion-zone-progress",
+    "module/completion-collectibles-progress",
+    "module/completion-antiquity-lore-progress",
   ],
   invariants: [
     {
