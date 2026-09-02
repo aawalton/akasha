@@ -1,14 +1,6 @@
 "use client"
 
 import { ITEM_CATEGORY_TREE } from "@akasha/temper-items-core/item-category-tree-data"
-import { INVENTORY_RULE_FILTERS } from "@temper/game-items-rules-core/filters/filter-registry"
-import type { FilterId } from "@temper/game-items-rules-core/filters/filter-types"
-import { LOCATION_OPTIONS } from "@temper/game-items-rules-core/filters/location-filter"
-import { SET_SOURCE_TYPE_OPTIONS } from "@temper/game-items-rules-core/filters/set-sources-filter"
-import {
-  getTraitFamily,
-  TRAIT_OPTIONS_BY_FAMILY,
-} from "@temper/game-items-rules-core/filters/traits-filter"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
@@ -18,11 +10,19 @@ import {
   type ItemAction,
   type MoveToDestination,
   type StockScope,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import {
   getNodeChildren,
   getNodePath,
-} from "@temper/game-items-rules-core/item-category-tree-utils"
+} from "@akasha/temper-items-rules-core/item-category-tree-utils"
+import { LOCATION_OPTIONS } from "@akasha/temper-items-rules-core/location-filter"
+import { INVENTORY_RULE_FILTERS } from "@akasha/temper-items-rules-core/rule-filter-registry"
+import type { FilterId } from "@akasha/temper-items-rules-core/rule-filter-types"
+import { SET_SOURCE_TYPE_OPTIONS } from "@akasha/temper-items-rules-core/set-sources-filter"
+import {
+  getTraitFamily,
+  TRAIT_OPTIONS_BY_FAMILY,
+} from "@akasha/temper-items-rules-core/traits-filter"
 import { useMemo, useState } from "react"
 import { ACTION_OPTIONS, NOTHING_ACTION, SELL_ACTIONS } from "./action-options"
 import { deriveConditionValues } from "./rule-card-conditions/derive"
