@@ -1,3 +1,5 @@
+import type { AccountQuestUnionProgress } from "@akasha/temper-player-completion/completion-account-union-progress"
+import { transformCompanionQuestUnion } from "@akasha/temper-player-completion/completion-account-union-progress"
 import type { CompanionSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
 import {
   transformCharacterCompanionRapport,
@@ -10,8 +12,6 @@ import type {
   CompanionProgressEntry,
   CompanionSkillLineProgress,
 } from "@akasha/temper-player-completion/completion-ui-types"
-import type { AccountQuestUnionProgress } from "@temper/player-completion/completion-account-union-progress"
-import { transformCompanionQuestUnion } from "@temper/player-completion/completion-account-union-progress"
 import { transformCompanionQuestProgress } from "@temper/player-completion/completion-quest-progress"
 import type {
   useCompletionCharacters,
