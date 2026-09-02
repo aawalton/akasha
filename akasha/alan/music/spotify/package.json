@@ -1,0 +1,24 @@
+{
+  "name": "@akasha/spotify",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./credentials": "./credentials/spotify-credentials.module.code.ts",
+    "./token-store": "./token-store/spotify-token-store.module.code.ts",
+    "./scopes": "./scopes/spotify-scopes.module.code.ts",
+    "./auth": "./auth/spotify-auth.module.code.ts",
+    "./auth-cli": "./auth-cli/spotify-auth-cli.module.code.ts",
+    "./client": "./client/spotify-client.module.code.ts",
+    "./player": "./player/spotify-player.module.code.ts",
+    "./search": "./search/spotify-search.module.code.ts",
+    "./tracks": "./tracks/spotify-tracks.module.code.ts",
+    "./personalization": "./personalization/spotify-personalization.module.code.ts"
+  },
+  "bin": {
+    "spotify-auth": "./auth-cli/spotify-auth-cli.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
