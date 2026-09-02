@@ -121,5 +121,9 @@ export const iosApp = {
       invariantKind: "departure",
       statement: "An app's icon is made from its drawing by whoever changes the drawing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A build names a commit rather than a branch.",
+    },
   ],
 } as const satisfies PageType
