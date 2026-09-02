@@ -1,12 +1,7 @@
-import { createRequire } from "node:module"
-import { join } from "node:path"
-import { everyOfType, typeSlugOf } from "@akasha/indexes"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
+import type { Answering } from "@akasha/indexes/answering"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 
 const SHAPE_TYPE = "01a05da1-60fc-76ca-8503-b43deb6d5f53"
-
-const loadFrom = createRequire(import.meta.url)
 
 export type Shape = {
   readonly slug: string
@@ -28,19 +23,15 @@ function rulesIn(held: Record<string, unknown>): readonly string[] {
   return said.filter((one): one is string => typeof one === "string")
 }
 
-function shapeIn(root: string, path: string): Shape {
+function shapeIn(index: Answering, pageTypeSlug: string, path: string): Shape {
   const said = partedIn(path)
   if (said === null) {
     throw new Error(`${path} is a sentence shape, and its name says no slug a reader can take`)
   }
-  const mod = loadFrom(join(root, path)) as Record<string, unknown>
-  const held = mod[exportedAs(said.slug)]
-  if (held === null || typeof held !== "object") {
-    throw new Error(
-      `${path} is a sentence shape, and answers to no \`${exportedAs(said.slug)}\` a reader can take`
-    )
+  const value = index.pageAt(pageTypeSlug, said.slug)
+  if (value === null) {
+    throw new Error(`${path} is a sentence shape, and its body declares nothing a reader can take`)
   }
-  const value = held as Record<string, unknown>
   const allowed = value.allowed
   return {
     slug: said.slug,
@@ -52,7 +43,8 @@ function shapeIn(root: string, path: string): Shape {
   }
 }
 
-export function shapesIn(root: string): readonly Shape[] {
-  const paths = [...new Set(everyOfType(root, typeSlugOf(root, SHAPE_TYPE)).map((one) => one.path))]
-  return paths.sort().map((path) => shapeIn(root, path))
+export function shapesIn(index: Answering): readonly Shape[] {
+  const pageTypeSlug = index.typeSlugOf(SHAPE_TYPE)
+  const paths = [...new Set(index.everyOfType(pageTypeSlug).map((one) => one.path))]
+  return paths.sort().map((path) => shapeIn(index, pageTypeSlug, path))
 }

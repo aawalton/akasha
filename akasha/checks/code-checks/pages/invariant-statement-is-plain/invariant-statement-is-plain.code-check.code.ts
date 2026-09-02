@@ -1,4 +1,5 @@
 import { lineOf, parsedAs } from "@akasha/code-system/code-source"
+import { shadowAt } from "@akasha/pages-system/shadow"
 import { type Grammars, grammarsIn, plainlyBy, scanned } from "@akasha/plain-language"
 import ts from "typescript"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -153,5 +154,5 @@ export function reasonsWith(grammars: Grammars): (given: Body) => readonly strin
 }
 
 export const invariantStatementIsPlain = judgingEach(TEXTS, (given) =>
-  found(given.path, given.text, grammarsIn(given.root))
+  found(given.path, given.text, grammarsIn(shadowAt(given.root).index))
 )

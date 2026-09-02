@@ -1,3 +1,4 @@
+import type { Answering } from "@akasha/indexes/answering"
 import type { Grammar, Parsed } from "../phrase-parsing/phrase-parsing.module.code.ts"
 import { grammarOf, parsed } from "../phrase-parsing/phrase-parsing.module.code.ts"
 import type { Shape } from "../shape-reading/shape-reading.module.code.ts"
@@ -97,12 +98,12 @@ export function plainlyBy(grammars: Grammars, sentence: string): Said {
   }
 }
 
-const HELD = new Map<string, Grammars>()
+const HELD = new WeakMap<Answering, Grammars>()
 
-export function grammarsIn(root: string): Grammars {
-  const found = HELD.get(root)
+export function grammarsIn(index: Answering): Grammars {
+  const found = HELD.get(index)
   if (found !== undefined) return found
-  const made = grammarsFrom(shapesIn(root))
-  HELD.set(root, made)
+  const made = grammarsFrom(shapesIn(index))
+  HELD.set(index, made)
   return made
 }

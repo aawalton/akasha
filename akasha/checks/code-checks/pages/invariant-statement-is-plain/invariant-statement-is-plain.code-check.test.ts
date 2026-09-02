@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
+import { shadowAt } from "@akasha/pages-system/shadow"
 import { grammarsIn } from "@akasha/plain-language"
 import { bodiesAt } from "@akasha/testing-system/bodying"
 import {
@@ -24,7 +25,7 @@ const OWN: readonly string[] = [
 
 const REPO_AT = rootOf(import.meta.dir)
 
-const judged = reasonsWith(grammarsIn(REPO_AT))
+const judged = reasonsWith(grammarsIn(shadowAt(REPO_AT).index))
 
 const given = bodiesAt(ROOT, AT)
 
