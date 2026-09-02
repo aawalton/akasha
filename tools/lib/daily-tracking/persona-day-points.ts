@@ -1,7 +1,6 @@
 import { z } from "zod"
-import { askComposed } from "../page-query-client.ts"
+import { askComposed, pageLanding } from "../page-query-client.ts"
 import { DEFAULT_GREEN_DAY_POINTS, kebabKey, WRITER } from "./tracking-modules.ts"
-import { upsertPage } from "@akasha/pages-access/upsert"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
 import type { WriteOutcome } from "./tracking-types.ts"
 
@@ -66,31 +65,49 @@ async function personaDayStands(personaSlug: string, dayStr: string): Promise<bo
   return asked.rows.length > 0
 }
 
+/**
+ * One persona's day, landed where that day is kept.
+ *
+ * This wrote through `upsertPage` from `@akasha/pages-access`, which could not land any page of any
+ * type: `fileBackedPageTypes` in `pages-access/file-read` throws for every slug it is handed, because
+ * the roster saying which page types are files was taken out when the service became the one store.
+ * A persona-day is not in that store — there are over two thousand of them as markdown files under
+ * `pages/persona-day/` — so the road out is the file writer rather than a roster that would have to
+ * name them.
+ *
+ * `pageLanding` is that writer, and it is the same one `lib/tracking/day-place.ts` lands Alan's day
+ * pages through. `patch` merges rather than replaces, so the keys a persona-day already carries are
+ * read off the file and written back, and a patch of a value the day already holds composes
+ * byte-identical text and commits nothing. That is what makes an hourly rerun of a settled day cost
+ * nothing.
+ *
+ * The id is minted only on the create arm. Handing one to a page that already stands would replace
+ * the identity of a record Alan's history is keyed by.
+ */
 async function patchPersonaDayFields(
   dayStr: string,
   fields: Readonly<Record<string, number>>,
   persona: PersonaDayTarget
 ): Promise<WriteOutcome> {
   const stood = await personaDayStands(persona.slug, dayStr)
+  const named = personaDaySlug(persona.slug, dayStr)
   const values: Record<string, string | number> = {
-    slug: personaDaySlug(persona.slug, dayStr),
+    slug: named,
     "persona-slug": persona.slug,
     date: dayStr,
     "green-day-points": persona.greenDayPoints,
   }
   if (persona.valueSlug !== undefined) values["value-slug"] = persona.valueSlug
-  if (!stood) values["source-points"] = 0
+  if (!stood) {
+    values["id"] = Bun.randomUUIDv7()
+    values["source-points"] = 0
+  }
   for (const [key, value] of Object.entries(fields)) values[kebabKey(key)] = value
 
-  await upsertPage({
-    pageTypeSlug: PERSONA_DAY_PAGE_TYPE_SLUG,
-    where: [
-      { key: "persona-slug", eq: persona.slug },
-      { key: "date", eq: dayStr },
-    ],
-    set: values,
-    writer: WRITER,
-  })
+  const landed = await pageLanding("patch", PERSONA_DAY_PAGE_TYPE_SLUG, named, values, WRITER)
+  if (!landed.ok) {
+    throw new Error(`the persona day \`${named}\` did not land: ${landed.why}`)
+  }
   return stood ? "patched" : "created"
 }
 

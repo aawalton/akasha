@@ -1,5 +1,6 @@
 import type { Asked, Query, Row } from "@akasha/pages-system-service/asking"
 import { askingFor } from "@akasha/pages-system-service/calling"
+import { askComposed } from "../page-query-client.ts"
 import { slugNamed } from "../../../page/page-address.ts"
 import { numberOf, textOf } from "./tracking-modules.ts"
 
@@ -22,17 +23,19 @@ const PERSONA_KEYS = [
 ] as const
 
 /**
- * What a points source page carries, under the name a recipe row reads it by. The service answers
- * a page's keys in the spelling a page type exports, so a multi-word key is camel here rather than
- * kebab as the saved query spelled it.
+ * What a points source page carries, under the name a recipe row reads it by.
+ *
+ * These are kebab because a page read off the checkout answers in the spelling its own frontmatter
+ * uses, and the twenty-four points source pages are markdown files under `pages/`. When they move
+ * into `akasha/` the service will answer them camel, and these keys move with them.
  */
 const SOURCE_KEYS = {
   kind: "pointsSourceKind",
   marker: "pointsSource",
   aggregate: "pointsSourceAggregate",
-  pathPrefix: "pointsPathPrefix",
-  pointField: "pointsSourcePointField",
-  weightField: "pointsSourceWeightField",
+  "path-prefix": "pointsPathPrefix",
+  "point-field": "pointsSourcePointField",
+  "weight-field": "pointsSourceWeightField",
 } as const
 
 export const PERSONA_ASKING: Query = {
@@ -40,8 +43,6 @@ export const PERSONA_ASKING: Query = {
   keys: [...PERSONA_KEYS],
   sortBy: "slug",
 }
-
-export const POINTS_SOURCE_ASKING: Query = { pageTypeSlug: POINTS_SOURCE_PAGE_TYPE_SLUG }
 
 /**
  * The rows a question answered with, or the refusal it answered with instead. A recipe built from
@@ -53,19 +54,47 @@ function everyRowIn(what: string, asked: Asked): readonly Row[] {
   return asked.rows
 }
 
+/**
+ * The two asks below take different roads because the two page types are kept in different places.
+ *
+ * `persona` moved into `akasha/` and the service answers all forty-two of them. The points sources
+ * did not move: their page type is declared only at `pages/page-type/persona-points-source.md` and
+ * their pages are twenty-four markdown files under `pages/persona-points-source/`. The service
+ * indexes only page types declared in TypeScript under `akasha/`, so it refuses this one by name.
+ *
+ * Declaring the type in TypeScript without moving the pages would not mend that. The index would
+ * hold the name and answer zero rows, every persona would parse to no recipe, and the recompute
+ * would report itself working while writing nothing — which is worse than the refusal it replaced.
+ * `daily-tracking` is already in that state: it is in the index and answers nothing against the
+ * files on disk.
+ *
+ * So the sources are asked of the checkout, where they are. `exercise-pages.ts` met the same
+ * refusal over four page types and took this road for the same reason. Nothing here decides what a
+ * query means or what a row means; the only thing this changes is which store answers.
+ */
 export async function personaRecipeRows(): Promise<
   readonly Readonly<Record<string, unknown>>[]
 > {
   const [personas, sources] = await Promise.all([
     askingFor(PERSONA_ASKING),
-    askingFor(POINTS_SOURCE_ASKING),
+    askComposed({ "page-type": POINTS_SOURCE_PAGE_TYPE_SLUG }),
   ])
   const personaRows = everyRowIn(`the \`${PERSONA_PAGE_TYPE_SLUG}\` pages`, personas)
-  const sourceRows = everyRowIn(`the \`${POINTS_SOURCE_PAGE_TYPE_SLUG}\` pages`, sources)
+  if (!sources.ok) {
+    throw new Error(`the \`${POINTS_SOURCE_PAGE_TYPE_SLUG}\` pages went unread: ${sources.why}`)
+  }
+  if (sources.rows.length !== sources.n) {
+    throw new Error(
+      `the \`${POINTS_SOURCE_PAGE_TYPE_SLUG}\` pages answered with ${sources.rows.length} of ` +
+        `${sources.n}, so a persona whose source was in the part that did not come back would ` +
+        "earn nothing with nothing saying so"
+    )
+  }
+  const sourceRows = sources.rows.map((one) => one.values)
 
   const sourceByPersona = new Map<string, Record<string, unknown>>()
   for (const row of sourceRows) {
-    const persona = slugNamed(textOf(row.domainParentSlug) ?? null)
+    const persona = slugNamed(textOf(row["domain-parent-slug"]) ?? null)
     if (persona === null) continue
     const held: Record<string, unknown> = {}
     for (const [pageKey, rowKey] of Object.entries(SOURCE_KEYS)) {
