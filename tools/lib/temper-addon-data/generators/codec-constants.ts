@@ -32,22 +32,19 @@ import {
 import { CHARACTER_BUILD_TYPE } from "../code/build-codec-v48.ts"
 import {
   COMPANION_ARMOR_WEIGHT_BITS,
+  COMPANION_ARMOR_WEIGHT_IDS,
   COMPANION_BITS,
   COMPANION_QUALITY_BITS,
   COMPANION_SKILL_BITS,
   COMPANION_TRAIT_BITS,
   COMPANION_WEAPON_TYPE_BITS,
-  companionArmorWeightIds,
   companionIds,
   companionQualityIds,
   companionSkillIds,
   companionTraitIds,
   companionWeaponTypeIds,
 } from "../code/companion-codec-indices.ts"
-import {
-  COMPANION_BUILD_TYPE,
-  ESO_VERSION_48,
-} from "../code/companion-codec-v48.ts"
+import { COMPANION_BUILD_TYPE, ESO_VERSION_48 } from "../code/companion-codec-v48.ts"
 import {
   CHARACTER_CODEC_MINOR_VERSION,
   COMPANION_CODEC_MINOR_VERSION,
@@ -82,7 +79,7 @@ export const CODEC_MINOR_VERSION = ${COMPANION_CODEC_MINOR_VERSION}
 // Bit widths (computed from data file lengths)
 export const COMPANION_BITS = ${COMPANION_BITS} // ${companionIds.length} companions
 export const ROLE_BITS = ${ROLE_BITS}
-export const ARMOR_WEIGHT_BITS = ${COMPANION_ARMOR_WEIGHT_BITS} // ${companionArmorWeightIds.length} weights
+export const ARMOR_WEIGHT_BITS = ${COMPANION_ARMOR_WEIGHT_BITS} // ${COMPANION_ARMOR_WEIGHT_IDS.length} weights
 export const TRAIT_BITS = ${COMPANION_TRAIT_BITS} // ${companionTraitIds.length} traits
 export const QUALITY_BITS = ${COMPANION_QUALITY_BITS} // ${companionQualityIds.length} qualities
 export const WEAPON_TYPE_BITS = ${COMPANION_WEAPON_TYPE_BITS} // ${companionWeaponTypeIds.length} types
