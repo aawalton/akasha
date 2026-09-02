@@ -6,4 +6,5 @@ export const shoppingPlanSchema = {
   slug: "shopping-plan-schema",
   definition: "the shape a shopping plan arrives in",
   code: "ts",
+  test: "ts",
 } as const satisfies Module

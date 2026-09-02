@@ -6,4 +6,5 @@ export const shoppingSseReader = {
   slug: "shopping-sse-reader",
   definition: "a server-sent event stream read into frames",
   code: "ts",
+  test: "ts",
 } as const satisfies Module
