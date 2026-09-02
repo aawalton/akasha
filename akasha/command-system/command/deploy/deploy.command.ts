@@ -18,15 +18,21 @@ export const deploy = {
     { said: "<slug>", takes: "the app to put up, named by the slug its page carries" },
     { said: "--dry-run", takes: "say what a web app would have applied and change nothing" },
     { said: "--no-upload", takes: "build and validate an ios app without uploading it" },
+    { said: "--ref <rev>", takes: "the commit an ios app is built at" },
   ],
   helpNotes: [
     "one call names one app, and a second name is refused rather than chosen between.",
     "which kind of app a slug names is read from the pages carrying that slug, and a slug both a web app and an ios app carry is refused rather than chosen between.",
     "an ios app is named by the `app-slug` its page states, which is its short name rather than the page's own slug.",
-    "an ios app is built on the MacBook at Release from what origin main carries, and the build takes its own number.",
+    "an ios app is built on the MacBook at Release at the commit `--ref` names, and the build takes its own number.",
+    "`--ref` takes whatever git resolves — a branch, a tag or a sha — and a call naming none builds the commit HEAD is at.",
+    "a call naming no `--ref` is refused where a tracked file differs from HEAD, because the build would leave that change out of the app without saying so.",
+    "a `--ref` named is built however the worktree differs from it, since the commit was told rather than worked out.",
+    "a commit no origin ref reaches is refused whatever names it, because the MacBook builds by fetching origin into its own clone.",
+    "the report names the commit asked for before the build begins and the commit each half was pinned to once it has.",
     "nothing is said until an ios build has finished, because a command prints nothing itself, and what the build said is the report.",
     "an upload reaches every internal tester, since each app's one group holds all builds and each build notifies, so `--no-upload` is what holds a build back from a phone.",
-    "`--dry-run` belongs to a web app and `--no-upload` to an ios app, and either on the other kind is refused rather than ignored.",
+    "`--dry-run` belongs to a web app, `--no-upload` and `--ref` to an ios app, and one named on the other kind is refused rather than ignored.",
     "what the deploy is made of is not on the call: the page names a cluster service, that page names a workload, and the code beside it emits the manifests.",
     "the namespace comes first, then what is placed in it, then the workload that reads it.",
     "a manifest the cluster already holds is applied again by nothing, so a second call does nothing.",
@@ -57,6 +63,14 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "What a deploy is made of is read from the page rather than said on the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit named on the call settles what an ios app is built at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit named twice is refused rather than chosen between.",
     },
     {
       invariantKind: "departure",

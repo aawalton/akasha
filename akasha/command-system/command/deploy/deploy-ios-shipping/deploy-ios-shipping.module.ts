@@ -18,7 +18,23 @@ export const deployIosShipping = {
     },
     {
       invariantKind: "departure",
-      statement: "A build is made from what origin main carries.",
+      statement: "A build is made at the commit the call names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no commit builds what HEAD is at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no commit is refused where a tracked file differs from HEAD.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit named is built however the worktree differs from that commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report names the commit asked for before anything is built.",
     },
     {
       invariantKind: "departure",

@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { seededWorld } from "@akasha/service-system/web-app-reading/testing"
-import { deploy } from "./deploy.command.code.ts"
+import { deploy, refNamed } from "./deploy.command.code.ts"
 import { given } from "./deploy.command.test-fixtures.ts"
 
 const WORLD = seededWorld()
@@ -69,9 +69,49 @@ test("a web app is refused the flag belonging to an ios app", async () => {
   expect(answer.refusals[0]).toContain("--dry-run")
 })
 
+test("a web app is refused a commit, since it is built at what HEAD is at", async () => {
+  const answer = await deploy(["one-web", "--ref", "4f2a91c"], HERE)
+  expect(answer.code).toBe(1)
+  expect(answer.refusals[0]).toContain("names a web app")
+  expect(answer.refusals[0]).toContain("--ref")
+})
+
 test("every ios app the mobile commands carry is reached by this command", async () => {
   for (const slug of ["alanwalton", "atlas", "smilingjenny"]) {
     const answer = await deploy([slug, "--dry-run"], HERE)
     expect(answer.refusals[0]).toContain("names an ios app")
   }
+})
+
+test("a commit named is taken off the call rather than read as a second app", () => {
+  expect(refNamed(["atlas", "--ref", "4f2a91c", "--no-upload"])).toEqual({
+    ref: "4f2a91c",
+    rest: ["atlas", "--no-upload"],
+  })
+})
+
+test("a commit named with an equals sign is the same as one named after a space", () => {
+  expect(refNamed(["atlas", "--ref=origin/change-19458"])).toEqual({
+    ref: "origin/change-19458",
+    rest: ["atlas"],
+  })
+})
+
+test("a call naming no commit answers no commit rather than a fixed one", () => {
+  expect(refNamed(["atlas", "--no-upload"])).toEqual({ ref: null, rest: ["atlas", "--no-upload"] })
+})
+
+test("a commit flag with nothing after it is refused rather than read as a flag", () => {
+  expect(refNamed(["atlas", "--ref"])).toEqual({
+    refused: "`--ref` takes the commit to build, and this call names none after it",
+  })
+  expect(refNamed(["atlas", "--ref", "--no-upload"])).toHaveProperty("refused")
+  expect(refNamed(["atlas", "--ref="])).toHaveProperty("refused")
+})
+
+test("a commit named twice is refused rather than chosen between", () => {
+  const answer = refNamed(["atlas", "--ref", "one", "--ref", "two"])
+  expect(answer).toHaveProperty("refused")
+  expect((answer as { refused: string }).refused).toContain("one")
+  expect((answer as { refused: string }).refused).toContain("two")
 })
