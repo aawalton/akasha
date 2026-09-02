@@ -161,3 +161,5 @@ declare const SI_CUSTOMERSERVICESUBMITFEEDBACKSUBCATEGORIES1304: number
 
 declare const SI_SEARCH_FILTER_BY: number
 declare const SI_COLOR_PICKER_CURRENT: number
+
+declare const SI_DEATH_PROMPT_WAYSHRINE: number
