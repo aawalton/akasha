@@ -1,8 +1,12 @@
 import * as path from 'node:path';
-import { duringOneCall } from '@akasha/command-system/during-call';
-import { colorsOf } from '../../../tools/lib/agent-turn-drawn.ts';
-import { akashaRoot, repositoryPath } from '../harness-call.ts';
+import { akashaRoot, repositoryPath, runVerb, verbPath } from '../harness-call.ts';
 import { colorNamed } from '../palette.ts';
+
+const CALL_TIMEOUT_MS = 30_000;
+
+const MAX_BUFFER = 4 * 1024 * 1024;
+
+const VERB = 'agent-turn-colors';
 
 // WHERE A SEAT STANDS, WHICH IS AKASHA AND NOWHERE ELSE. The watchers every feature registers are
 // built from these two, so pointing them here is what moves the agent tree, the terminal names and
@@ -28,9 +32,41 @@ export function coloursOf(named: Readonly<Record<string, string>>): ReadonlyMap<
 	return found;
 }
 
+export function readTurnColorAnswer(answered: unknown): Readonly<Record<string, string>> {
+	if (answered === null || typeof answered !== 'object') {
+		throw new Error(`${VERB}: the answer is not an object, so it names no colour`);
+	}
+	const held = (answered as { colors?: unknown; colours?: unknown });
+	const named = held.colors ?? held.colours;
+	if (named === null || named === undefined || typeof named !== 'object') {
+		throw new Error(`${VERB}: the answer carries neither a \`colors\` nor a \`colours\` record`);
+	}
+	const found: Record<string, string> = {};
+	for (const [id, colour] of Object.entries(named as Record<string, unknown>)) {
+		if (typeof colour !== 'string' || colour === '') {
+			throw new Error(`${VERB}: the colour answered for ${id} is no name`);
+		}
+		found[id] = colour;
+	}
+	return found;
+}
+
+// ASKED AS A CHILD RATHER THAN READ HERE. Reading a seat's turn state reaches akasha page bodies,
+// and loading one wants a transpiler only bun carries, so in this node host the whole reach threw
+// at import before a colour was ever asked for.
 export async function readSeatTurnColors(
 	agentIds: readonly string[]
 ): Promise<ReadonlyMap<string, string>> {
 	if (agentIds.length === 0) { return new Map<string, string>(); }
-	return duringOneCall(async () => coloursOf(colorsOf(agentIds)));
+	const stdout = await runVerb(verbPath(VERB), agentIds, {
+		timeout: CALL_TIMEOUT_MS,
+		maxBuffer: MAX_BUFFER,
+	});
+	let answered: unknown;
+	try {
+		answered = JSON.parse(stdout);
+	} catch (err) {
+		throw new Error(`${VERB} did not print JSON: ${String(err)}`);
+	}
+	return coloursOf(readTurnColorAnswer(answered));
 }
