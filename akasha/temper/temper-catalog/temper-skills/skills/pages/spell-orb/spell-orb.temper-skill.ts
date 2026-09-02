@@ -20,4 +20,5 @@ export const spellOrb = {
   skillType: "passive",
   subcategoryId: "guild-psijic-order",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

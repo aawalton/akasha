@@ -20,4 +20,5 @@ export const soulShatter = {
   skillType: "passive",
   subcategoryId: "world-soul-magic",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill
