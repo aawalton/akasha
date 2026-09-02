@@ -28,7 +28,7 @@ export const agent = {
       pagePropertySlug: "assignment-slug",
       required: true,
       many: false,
-      default: "domain/akasha-system",
+      default: "domain/akasha",
     },
     { pagePropertySlug: "principal-seat-name", required: false, many: false },
     { pagePropertySlug: "patch", required: false, many: false, uncommitted: true, default: "diff" },

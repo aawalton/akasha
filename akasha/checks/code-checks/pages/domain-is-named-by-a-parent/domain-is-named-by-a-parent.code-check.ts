@@ -41,7 +41,7 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "departure",
-      statement: "`domain/akasha-system` alone is passed over.",
+      statement: "`domain/akasha` alone is passed over.",
     },
     {
       invariantKind: "departure",
@@ -79,8 +79,7 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "Every page standing under `domain` is reached by reading down from `akasha-system`.",
+      statement: "Every page beneath `domain` is reached by reading down from `akasha`.",
     },
     {
       invariantKind: "upkeep",

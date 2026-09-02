@@ -14,7 +14,7 @@ const PART_SLUGS = "part-slugs"
 
 const PARTS = "partSlugs"
 
-const THE_WHOLE = "akasha-system"
+const THE_WHOLE = "akasha"
 
 function theWhole(path: string): boolean {
   const said = partedIn(path)

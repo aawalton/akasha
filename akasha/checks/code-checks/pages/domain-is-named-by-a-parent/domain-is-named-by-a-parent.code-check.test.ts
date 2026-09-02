@@ -162,11 +162,11 @@ test("a page the change takes away is passed over", () => {
   expect(judged(landing(root, { [pathFor("domain", "held")]: null }))).toEqual([])
 })
 
-test("akasha-system stands under nothing, so it alone is passed over", () => {
+test("akasha is under nothing, so it alone is passed over", () => {
   const root = rooted()
-  filing(root, "domain", "akasha-system", ONE)
-  const at = pathFor("domain", "akasha-system")
-  expect(judged(landing(root, { [at]: body("domain", "akasha-system", ONE) }))).toEqual([])
+  filing(root, "domain", "akasha", ONE)
+  const at = pathFor("domain", "akasha")
+  expect(judged(landing(root, { [at]: body("domain", "akasha", ONE) }))).toEqual([])
 })
 
 test("a page whose page type stands under domain is judged too", () => {

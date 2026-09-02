@@ -5,6 +5,6 @@ export const akashaAbc60f01e9798310d = {
   pageTypeSlug: "subagent",
   slug: "akasha-abc60f01e9798310d",
   principalSeatName: "akasha",
-  assignmentSlug: "domain/akasha-system",
+  assignmentSlug: "domain/akasha",
   dispatchedAs: "Explore",
 } as const satisfies Subagent
