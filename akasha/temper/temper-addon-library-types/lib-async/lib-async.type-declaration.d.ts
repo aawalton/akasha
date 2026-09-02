@@ -1,4 +1,4 @@
-type AsyncCallback = (this: void, ...args: unknown[]) => unknown
+type AsyncCallback = (this: void, ...args: never[]) => unknown
 
 interface AsyncTask {
   Call: (fn: AsyncCallback) => AsyncTask
@@ -7,6 +7,7 @@ interface AsyncTask {
   Do: (fn: AsyncCallback) => AsyncTask
   Cancel: () => AsyncTask
   StopTimer: () => AsyncTask
+  For: (startIndex: number, endIndex: number, step?: number) => AsyncTask
 }
 
 interface LibAsyncLib {

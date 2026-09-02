@@ -5,7 +5,7 @@ declare const REWARDS_MANAGER: RewardsManager
 declare function ZO_FormatTime(
   seconds: number,
   formatStyle: number,
-  precision: number,
+  precision?: number,
   direction?: number
 ): string
 declare function GetNumAchievements(
@@ -104,10 +104,7 @@ declare const ZO_PostHook: ((
   methodName: string,
   hookFunction: (this: void, ...args: never[]) => void
 ) => void) &
-  ((
-    existingFunctionName: string,
-    hookFunction: (this: void, ...args: never[]) => unknown
-  ) => void)
+  ((existingFunctionName: string, hookFunction: (this: void, ...args: never[]) => unknown) => void)
 
 declare const RedirectTexture: (originalTexturePath: string, newTexturePath: string) => void
 

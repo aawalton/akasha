@@ -154,7 +154,7 @@ declare function GetTrackedIsAssisted(
 ): boolean
 declare function FormatAchievementLinkTimestamp(
   this: void,
-  timestamp?: string
+  timestamp?: string | number
 ): LuaMultiReturn<[date: string, time: string]>
 declare function GetAbilityProgressionInfo(
   this: void,

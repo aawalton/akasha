@@ -87,6 +87,10 @@
     "./eso-enchanting-station": "./eso-enchanting-station/eso-enchanting-station.type-declaration.d.ts",
     "./eso-provisioner-station": "./eso-provisioner-station/eso-provisioner-station.type-declaration.d.ts",
     "./tstl-lua-length": "./tstl-lua-length/tstl-lua-length.type-declaration.d.ts",
-    "./eso-journal-window": "./eso-journal-window/eso-journal-window.type-declaration.d.ts"
+    "./eso-journal-window": "./eso-journal-window/eso-journal-window.type-declaration.d.ts",
+    "./eso-guild-history": "./eso-guild-history/eso-guild-history.type-declaration.d.ts",
+    "./eso-guild-history-legacy": "./eso-guild-history-legacy/eso-guild-history-legacy.type-declaration.d.ts",
+    "./eso-scroll-list-extra": "./eso-scroll-list-extra/eso-scroll-list-extra.type-declaration.d.ts",
+    "./eso-ui-extra": "./eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
   }
 }

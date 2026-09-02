@@ -41,6 +41,7 @@ interface LamSliderData extends LamControlBase {
   setFunc: (this: void, value: number) => void
   default?: number | ((this: void) => number)
   requiresReload?: boolean
+  clampInput?: boolean
 }
 
 interface LamDropdownData extends LamControlBase {

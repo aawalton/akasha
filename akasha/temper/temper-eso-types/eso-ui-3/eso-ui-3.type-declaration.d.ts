@@ -154,7 +154,13 @@ declare const InitializeTooltip: (
   relativePoint?: number
 ) => void
 
-declare const SetTooltipText: (tooltip: TooltipControl, text: string) => void
+declare const SetTooltipText: (
+  tooltip: TooltipControl,
+  text: string,
+  colorOrRed?: ZoColorDef | number,
+  green?: number,
+  blue?: number
+) => void
 
 declare const ClearTooltip: (tooltip: TooltipControl) => void
 
