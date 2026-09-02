@@ -1,20 +1,23 @@
-import type { AccountQuestUnionProgress } from "@temper/player-completion/completion-account-union-progress"
-import { transformCompanionQuestUnion } from "@temper/player-completion/completion-account-union-progress"
+import type { CompanionSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
 import {
   transformCharacterCompanionRapport,
   transformCompanionProgress,
-} from "@temper/player-completion/completion-companion-progress"
-import { transformCompanionQuestProgress } from "@temper/player-completion/completion-quest-progress"
-import { buildCompanionSummary } from "@temper/player-completion/completion-summary-companion"
+} from "@akasha/temper-player-completion/completion-companion-progress"
+import { buildCompanionSummary } from "@akasha/temper-player-completion/completion-summary-companion"
 import type {
   CharacterCompanionRapportProgress,
   CharacterQuestProgress,
   CompanionProgressEntry,
   CompanionSkillLineProgress,
-} from "@temper/player-completion/completion-ui-types"
-import type { useCompletionCharacters, useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
+} from "@akasha/temper-player-completion/completion-ui-types"
+import type { AccountQuestUnionProgress } from "@temper/player-completion/completion-account-union-progress"
+import { transformCompanionQuestUnion } from "@temper/player-completion/completion-account-union-progress"
+import { transformCompanionQuestProgress } from "@temper/player-completion/completion-quest-progress"
+import type {
+  useCompletionCharacters,
+  useCompletionCompanions,
+} from "@temper/player-completion-ui/use-completion"
 import { useMemo } from "react"
-import type { CompanionSummaryData } from "@temper/player-completion/completion-card-registry"
 
 export interface CompanionProgressData {
   companionProgress: readonly CompanionProgressEntry[]
