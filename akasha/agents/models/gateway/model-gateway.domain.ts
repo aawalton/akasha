@@ -19,6 +19,7 @@ export const modelGateway = {
     "module/hold-registry",
     "module/idle-timeout",
     "module/keepalive",
+    "module/message-handler",
     "module/model-unavailable",
     "module/oauth-effects",
     "module/oauth-types",
