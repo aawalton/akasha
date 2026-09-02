@@ -1,0 +1,11 @@
+{
+  "name": "TemperErrors",
+  "title": "Temper Errors",
+  "description": "Capture in-game Lua errors and write traces to SavedVariables for off-disk agent retrieval",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101041", "101042", "101049"],
+  "savedVariables": ["TemperErrors_SavedVariables"],
+  "dependsOn": []
+}
