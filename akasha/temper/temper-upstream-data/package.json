@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/temper-upstream-data",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./ts-lua-serializer": "./ts-lua-serializer/ts-lua-serializer.module.code.ts",
+    "./upstream-libraries": "./upstream-libraries/upstream-libraries.module.code.ts",
+    "./zone-eso-stubs": "./zone-eso-stubs/zone-eso-stubs.module.code.ts"
+  }
+}

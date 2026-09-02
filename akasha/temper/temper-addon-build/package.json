@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/temper-addon-build",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./consolidation-migrations": "./consolidation-migrations/consolidation-migrations.module.code.ts",
+    "./global-name-dependents": "./global-name-dependents/global-name-dependents.module.code.ts",
+    "./lua-build-command": "./lua-build-command/lua-build-command.module.code.ts"
+  },
+  "dependencies": {
+    "typescript": "5.9.3"
+  }
+}

@@ -16,6 +16,8 @@ export const temper = {
     "workspace-package/temper-commands",
     "workspace-package/temper-dungeons",
     "workspace-package/temper-explain",
+    "workspace-package/temper-upstream-data",
+    "workspace-package/temper-addon-build",
   ],
   invariants: [
     {
