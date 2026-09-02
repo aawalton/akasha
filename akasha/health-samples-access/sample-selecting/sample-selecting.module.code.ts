@@ -27,8 +27,12 @@ export function checkoutRoot(): string {
   return at
 }
 
+export function dayFolderAt(day: string): string {
+  return `${DAYS_KEPT_IN}/${DAY_SLUG_PREFIX}${day}`
+}
+
 export function dayPageAt(day: string): string {
-  return `${DAYS_KEPT_IN}/${DAY_SLUG_PREFIX}${day}.${ANCHOR_PAGE_TYPE}.ts`
+  return `${dayFolderAt(day)}/${DAY_SLUG_PREFIX}${day}.${ANCHOR_PAGE_TYPE}.ts`
 }
 
 export function sampleRowsIn(day: string): string {

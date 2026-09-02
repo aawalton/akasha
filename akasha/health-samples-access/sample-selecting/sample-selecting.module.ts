@@ -23,6 +23,10 @@ export const sampleSelecting = {
     },
     {
       invariantKind: "departure",
+      statement: "A day's page sits alone in a folder named for that day's slug.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A span holding no reading is answered empty rather than raised.",
     },
     {
