@@ -56,6 +56,7 @@ export const temperPlayerCompletion = {
     "module/completion-skill-line-progress",
     "module/completion-subclassing-progress",
     "module/completion-tribute-progress",
+    "module/shalidor-library-collections",
   ],
   invariants: [
     {
