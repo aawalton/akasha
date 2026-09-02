@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "The inventory chunks are no wall. Rejoined they are 151 captures, each landed as one `stacks` entry file beside its `temper-inventory-snapshot` page, the largest 2,832,763 bytes of 8,388,608, and every row round-trips to its source. 674,612 rows, 408MB. Two walls need Alan: the 24-file item sweep concatenates to 188,484,624 bytes, 22x over, and 22 completion captures are one document rather than rows. Nothing under `pages/` is deleted.",
+        "The inventory wall is gone: 151 capture pages hold 674,612 rows in 408,331,446 bytes, the largest using a third of the 8,388,608-byte entry ceiling. One wall is Alan's to settle: the `eso` mine's `items` runs to 196,161,960 bytes in 155,440 rows, twenty-four times what one entry file holds, and no shard the game names fits, since weapons alone are 90MB. The mine page and its `quests` have landed. Nothing under `pages/` is deleted, so landing the rest keeps two copies.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "A package moves once its dependencies are in akasha, whether or not the source is gone. Three hubs gate most of the wave and a seat has each: `catalog-core` (7 dependents), `shared-capture-host` (6), `shared-formula-framework` (4). Thirty addon packages wait on one shared set of ESO declarations; thirteen seats each wrote their own, and the collision answers 245 refusals at audit, so one seat owns deleting all thirteen. No `type-declaration` page has landed. Teardown is proven twice.",
+        "A package moves once its dependencies are in akasha, whether or not the source is gone. Thirty addon packages, six catalog collectors, four ESO libraries and LibGPS all wait on one shared set of ESO declarations; thirteen seats each wrote their own, and the collision answers 245 refusals at audit, so one seat owns deleting all thirteen. The write-time typecheck now compiles every declaration file, so a fourteenth cannot land. Teardown is proven many times over.",
     },
   ],
   constraints: [
