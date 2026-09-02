@@ -1,13 +1,20 @@
 "use client"
 
-import { useAuth } from "@shared/auth/use-auth"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { LayoutLink } from "@akasha/design-layout/router-context"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "@akasha/design-patterns/empty"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Skeleton } from "@akasha/design-primitives/skeleton"
 import { Switch } from "@akasha/design-primitives/switch-control"
-import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
+import { extractGuildBankKeys } from "@akasha/temper-items-core/inventory-guild-bank-filter"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { extractGuildBankKeys } from "@temper/game-items-core/inventory-guild-bank-filter"
+import { useAuth } from "@shared/auth/use-auth"
 import { useInventory } from "@temper/player-inventory-management-ui/hooks-inventory"
 import { useManagedGuildBanks } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import { AlertCircle, Package } from "lucide-react"
@@ -16,7 +23,6 @@ import {
   type GuildBankListState,
   resolveGuildBankListState,
 } from "@/components/settings/guild-bank-list-state"
-import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface InventoryTabProps {
   active: boolean
