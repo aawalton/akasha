@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Every temper page type is in akasha; the two the folder census read as short are landed at a finer grain, `temper-net-worth-day` as net-worth-hours with 3,395 readings proven equal and `temper-completed-month` as completed-days with 1,425 ids identical. `item`, `game`, `condition` and `collection-type` are other domains'. Both watcher writers now land at those grains, replayed byte for byte; no writer reaches the snapshot stacks grain. One wall: the `eso` mine's items, 22x the entry ceiling.",
+        "Every temper page type is in akasha; two the census read as short are landed finer, `temper-net-worth-day` as net-worth-hours with 3,395 readings equal and `temper-completed-month` as completed-days with 1,425 ids identical. `item`, `game` and `collection-type` are other domains'. Both watcher writers land at those grains, replayed byte for byte; none reaches the snapshot stacks grain. The mine's 188MB sweep is 22x the entry ceiling; the call taken is one entry property spanning numbered files.",
     },
     {
       statement: "No part of temper is outside akasha.",
