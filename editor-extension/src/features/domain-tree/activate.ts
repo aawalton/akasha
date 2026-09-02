@@ -44,7 +44,7 @@ let output: vscode.OutputChannel;
 
 // WHAT THE DRAWN ANSWER SAYS A PAGE OF ITS OWN KIND LOOKS LIKE. A domain page is named
 // `<slug>.<page-type>.ts`, so the endings the drawn rows carry are the kinds under `domain` as
-// they now stand — 68 of them here, `.module.ts` and `.command.ts` and the rest. Reading them off
+// they now stand — 67 of them here, `.module.ts` and `.command.ts` and the rest. Reading them off
 // the answer rather than writing them down is what keeps a kind added tomorrow from being a kind
 // this panel is blind to.
 function kindsIn(
