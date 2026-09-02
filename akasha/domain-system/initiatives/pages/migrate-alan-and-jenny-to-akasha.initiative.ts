@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's inboxes stoplights and widget work.",
       workingMemory:
-        "The route returns 0 of 5, and the data layer is not the gap: the resolver answers 5 of 5 and `inbox-tracking-poll` writes them every five minutes. The wire-key blocker closed at `a6d4e8ddc7`, where the shipped Swift decodes `inbox` and the server emitted `habit`, so a wrong key left the tile stale rather than failing. Owed: the earned-key and earned-color-slug properties, the group page, three scales, four readouts, two services, and the route with a test pinning `inbox`.",
+        "Five return, measured through `answerStoplightsAdmittedBy` against the live store on 8787 with the five relayed readings, against a baseline of 0. A second blocker the earlier lane missed: every inbox scale falls and `tierAt` read only climbing ones, so all five colored to null; closed at `5134e66087`. Route and test at `7d550464f1`, mutant-proved on `Object.keys`. Both timers fire and five carries reached the pod at exit 0. What is owed is a deploy, which is Alan's.",
     },
     {
       statement: "`akasha import health` replaces the old health import command.",
