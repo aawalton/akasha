@@ -1,4 +1,4 @@
-import { createMovableWindow } from "@temper/shared-interface-hud-window/movable-window"
+import { createMovableWindow } from "@akasha/temper-hud-window/movable-window"
 import { getSavedVariables } from "../saved-variables"
 import { TabManager } from "./tab-manager"
 export let window: TopLevelWindow | undefined

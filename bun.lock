@@ -899,6 +899,14 @@
     },
     "akasha/temper/temper-items-core": {
       "name": "@akasha/temper-items-core",
+      "dependencies": {
+        "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-capture-host": "workspace:*",
+        "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-saved-variables": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
     },
     "akasha/temper/temper-lib-addon-keybinds": {
       "name": "@akasha/temper-lib-addon-keybinds",
@@ -2469,6 +2477,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
+        "@akasha/temper-hud-window": "workspace:*",
         "@akasha/temper-narrow": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -2481,7 +2490,6 @@
         "@temper/game-items-rules-eval": "workspace:*",
         "@temper/game-items-rules-routing-core": "workspace:*",
         "@temper/game-trading-post-addon": "workspace:*",
-        "@temper/shared-interface-hud-window": "workspace:*",
       },
       "devDependencies": {
         "typescript": "^5.8.3",
@@ -2535,9 +2543,9 @@
       "name": "@temper/game-items-filters-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-hud-window": "workspace:*",
         "@temper/game-items-filters-core": "workspace:*",
         "@temper/game-items-rules-eval": "workspace:*",
-        "@temper/shared-interface-hud-window": "workspace:*",
       },
       "devDependencies": {
         "typescript": "^5.8.3",
@@ -2755,6 +2763,7 @@
         "@akasha/temper-capture-perf": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
+        "@akasha/temper-hud-window": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-capture-addon": "workspace:*",
@@ -2762,7 +2771,6 @@
         "@temper/game-companions-core": "workspace:*",
         "@temper/game-completion": "workspace:*",
         "@temper/player-completion": "workspace:*",
-        "@temper/shared-interface-hud-window": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.6",

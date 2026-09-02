@@ -1,5 +1,5 @@
 import { TEXT_PRIMARY, TEXT_SECONDARY } from "@akasha/design-tokens/text-color"
-import { createMovableWindow, type MovableWindowHandle } from "@temper/shared-interface-hud-window/movable-window"
+import { createMovableWindow, type MovableWindowHandle } from "@akasha/temper-hud-window/movable-window"
 import { getInventoryActionSummary } from "./plan"
 import { getSavedVariables } from "./saved-variables"
 

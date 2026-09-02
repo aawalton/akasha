@@ -1,5 +1,5 @@
 import { TEXT_PRIMARY, TEXT_SECONDARY } from "@akasha/design-tokens/text-color"
-import { createMovableWindow, type MovableWindowHandle } from "@temper/shared-interface-hud-window/movable-window"
+import { createMovableWindow, type MovableWindowHandle } from "@akasha/temper-hud-window/movable-window"
 import { getBankTransitionSummary } from "./bank-plan"
 import { recordSettlingMs } from "./bank-trace"
 import { getSavedVariables } from "./saved-variables"

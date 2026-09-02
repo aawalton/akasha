@@ -1,7 +1,7 @@
 {
   "name": "@temper/game-items-filters-addon",
   "dependencies": {
-    "@temper/shared-interface-hud-window": "workspace:*",
+    "@akasha/temper-hud-window": "workspace:*",
     "@temper/game-items-filters-core": "workspace:*",
     "@temper/game-items-rules-eval": "workspace:*"
   },

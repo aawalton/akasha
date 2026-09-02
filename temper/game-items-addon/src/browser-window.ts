@@ -1,5 +1,5 @@
 import { TEXT_PRIMARY } from "@akasha/design-tokens/text-color"
-import { createMovableWindow } from "@temper/shared-interface-hud-window/movable-window"
+import { createMovableWindow } from "@akasha/temper-hud-window/movable-window"
 import { quantityInView } from "./browser-locations"
 import type { BrowserRow, LocationViewOption } from "./browser-types"
 import { hideLocationBreakdown, showLocationBreakdown } from "./location-tooltip"

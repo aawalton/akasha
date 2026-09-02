@@ -1,6 +1,6 @@
 import type { AnyTemperFilter, FilterGroup, FilterId } from "@temper/game-items-filters-core/filter-types"
 import { TEMPER_FILTERS } from "@temper/game-items-filters-core/filter-registry"
-import { createMovableWindow, type WindowPosition } from "@temper/shared-interface-hud-window/movable-window"
+import { createMovableWindow, type WindowPosition } from "@akasha/temper-hud-window/movable-window"
 import type { BarContext } from "./filter-bar-controls"
 import {
   buildMultiselectEditor,

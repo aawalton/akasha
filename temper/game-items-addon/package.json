@@ -14,7 +14,7 @@
     "@temper/game-items-rules-eval": "workspace:*",
     "@temper/game-items-rules-routing-core": "workspace:*",
     "@temper/game-trading-post-addon": "workspace:*",
-    "@temper/shared-interface-hud-window": "workspace:*"
+    "@akasha/temper-hud-window": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3",

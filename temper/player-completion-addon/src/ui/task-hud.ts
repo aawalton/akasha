@@ -4,7 +4,7 @@ import {
   getSkillMorphEnrichment,
 } from "@temper/game-characters-skills-morphs-addon/ui/task-hud-skill-morphs"
 import { isResettingCard } from "@temper/player-completion/completion-card-reset-behavior"
-import { createMovableWindow } from "@temper/shared-interface-hud-window/movable-window"
+import { createMovableWindow } from "@akasha/temper-hud-window/movable-window"
 import { getCharactersConfig } from "../characters-config"
 import { getSavedVariables, type TaskData } from "../saved-variables"
 import { getActiveQuests } from "../tracking/active-quests"

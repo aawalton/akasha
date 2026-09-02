@@ -14,7 +14,7 @@
     "@temper/game-companions-core": "workspace:*",
     "@temper/game-completion": "workspace:*",
     "@temper/player-completion": "workspace:*",
-    "@temper/shared-interface-hud-window": "workspace:*"
+    "@akasha/temper-hud-window": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.6",
