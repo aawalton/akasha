@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-7c77-a81e-19691996e2e4","type":"damage","target":{"type":"enemy","scope":"area"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"damageType":"physical"}
+{"id":"01a0619f-2aa7-711a-8d38-72a8d0e5b395","type":"apply-debuff","debuff":{"value":0.05,"debuff":"minor-vulnerability","duration":6,"valueType":"fractional-change"},"target":{"type":"enemy","scope":"area"}}
+{"id":"01a0619f-2aa7-7a03-ae28-e27b617cf75b","type":"cast-time","duration":0.433}
+{"id":"01a0619f-2aa7-7927-85fc-7a9dd046c44c","type":"cooldown","duration":12}

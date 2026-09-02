@@ -1,0 +1,2 @@
+{"id":"01a0619f-2aa6-78c3-86b4-dc411f8cff1d","type":"health-threshold","below":75,"targetType":"self"}
+{"id":"01a0619f-2aa6-72ce-b0b7-4e3fca21ba1d","type":"enemy-type","enemyTypes":["difficult-monster"]}

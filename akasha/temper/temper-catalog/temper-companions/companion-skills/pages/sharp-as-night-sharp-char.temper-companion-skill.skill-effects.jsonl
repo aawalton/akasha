@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-7890-8f07-b584cf467130","type":"damage","target":{"type":"enemy","scope":"area"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"damageType":"magic"}
+{"id":"01a0619f-2aa8-7f46-b311-8a7d8475e7b2","type":"delayed","delay":3,"effect":{"type":"damage","target":{"type":"enemy","scope":"area"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"damageType":"magic"}}
+{"id":"01a0619f-2aa8-77bc-b6d2-16175b719583","type":"cast-time","duration":0.5}
+{"id":"01a0619f-2aa8-7eb9-a4ab-9a57e5be46d2","type":"cooldown","duration":16}

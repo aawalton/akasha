@@ -14,4 +14,6 @@ export const allSharedVanish = {
   skillLineId: "armor-medium",
   skillType: "active",
   validRoles: ["tank"],
+  skillEffects: "jsonl",
+  castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

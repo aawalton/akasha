@@ -14,4 +14,5 @@ export const allSharedRazorCape = {
   skillLineId: "weapon-dual-wield",
   skillType: "active",
   validRoles: ["dps", "tank"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

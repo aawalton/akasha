@@ -14,4 +14,6 @@ export const bastianBastianKindle = {
   skillLineId: "companion-bastian-radiating-heart",
   skillType: "active",
   validRoles: ["healer"],
+  skillEffects: "jsonl",
+  castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

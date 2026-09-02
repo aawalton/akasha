@@ -1,0 +1,2 @@
+{"id":"01a0619f-2aa8-7cae-94b4-6a98dcfa6193","type":"apply-status","status":{"status":"off-balance","duration":7},"target":{"type":"enemy","range":22,"scope":"area"}}
+{"id":"01a0619f-2aa8-7c7d-ad9d-9f0ca0b23d4b","type":"cooldown","duration":12}

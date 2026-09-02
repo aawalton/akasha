@@ -15,4 +15,5 @@ export const allSharedSkeletalAegis = {
   skillType: "active",
   validRoles: ["tank"],
   tags: ["synergy"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

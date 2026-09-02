@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-77d0-ab37-9b09d5df8e98","type":"heal","target":{"type":"ally","scope":"area","radius":20},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3}}
+{"id":"01a0619f-2aa8-785d-964b-736c4caa9bb3","type":"heal","target":{"type":"ally","scope":"area","radius":8},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"conditions":[{"type":"range","maxDistance":8}]}
+{"id":"01a0619f-2aa8-74cd-8b3e-35823aeab13c","type":"cast-time","duration":0.4}
+{"id":"01a0619f-2aa8-703f-9dad-9b35ffb9bb39","type":"cooldown","duration":12}

@@ -14,4 +14,5 @@ export const sharpAsNightSharpInfest = {
   skillLineId: "companion-sharp-as-night-beasts-of-the-hunt",
   skillType: "active",
   validRoles: ["dps", "support"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

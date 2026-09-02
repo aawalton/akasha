@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-75e5-94cd-21b938190066","type":"damage","target":{"type":"enemy","range":28,"scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":9},"conditions":[{"type":"health-threshold","below":25,"targetType":"enemy"}],"damageType":"physical","conditionalMultiplier":2.5}
+{"id":"01a0619f-2aa8-7a45-9616-98594ec752c1","type":"apply-status","status":{"status":"stun","duration":3},"target":{"type":"enemy","range":28,"scope":"single"}}
+{"id":"01a0619f-2aa8-7517-befc-4a1f853f26fa","type":"resource-cost","amount":200,"resource":"ultimate"}
+{"id":"01a0619f-2aa8-79e7-9edd-79999df9514a","type":"cast-time","duration":0.1}

@@ -14,4 +14,5 @@ export const azandarAzandarTendrilsOfTheColorlessSea = {
   skillLineId: "companion-azandar-scholar-of-apocrypha",
   skillType: "active",
   validRoles: ["dps", "support"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

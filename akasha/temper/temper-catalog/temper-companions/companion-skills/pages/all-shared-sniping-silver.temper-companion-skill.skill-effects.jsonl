@@ -1,0 +1,3 @@
+{"id":"01a0619f-2aa7-71cd-afd5-ddb96d94a2a6","type":"damage","target":{"type":"enemy","range":28,"scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"conditions":[{"type":"enemy-type","enemyTypes":["undead","daedra","werewolf"]}],"damageType":"physical","conditionalMultiplier":2}
+{"id":"01a0619f-2aa7-7750-8b43-545690c3b043","type":"cast-time","duration":0.366}
+{"id":"01a0619f-2aa7-734a-bc90-6bfad01fbc10","type":"cooldown","duration":12}

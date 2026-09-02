@@ -14,4 +14,5 @@ export const tanlorinTanlorinHazeOfCinders = {
   skillLineId: "companion-tanlorin-radiating-heart",
   skillType: "active",
   validRoles: ["healer"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

@@ -15,4 +15,5 @@ export const allSharedDestructiveBlast = {
   skillType: "active",
   validRoles: ["dps", "tank"],
   tags: ["elemental-variant"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

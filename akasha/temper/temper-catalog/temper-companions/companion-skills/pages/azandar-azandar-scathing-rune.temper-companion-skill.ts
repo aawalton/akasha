@@ -14,4 +14,5 @@ export const azandarAzandarScathingRune = {
   skillLineId: "companion-azandar-quill-knight",
   skillType: "active",
   validRoles: ["tank", "support"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

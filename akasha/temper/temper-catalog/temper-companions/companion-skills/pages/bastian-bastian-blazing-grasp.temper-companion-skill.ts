@@ -14,4 +14,6 @@ export const bastianBastianBlazingGrasp = {
   skillLineId: "companion-bastian-draconic-armor",
   skillType: "active",
   validRoles: ["tank"],
+  skillEffects: "jsonl",
+  castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

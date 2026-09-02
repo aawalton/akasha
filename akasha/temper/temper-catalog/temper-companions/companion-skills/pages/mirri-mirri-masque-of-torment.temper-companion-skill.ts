@@ -13,4 +13,5 @@ export const mirriMirriMasqueOfTorment = {
   abilityId: 153856,
   skillLineId: "companion-mirri-living-shade",
   skillType: "active",
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

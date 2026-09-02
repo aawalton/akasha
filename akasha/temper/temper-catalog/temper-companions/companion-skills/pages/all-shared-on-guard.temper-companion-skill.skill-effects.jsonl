@@ -1,0 +1,3 @@
+{"id":"01a0619f-2aa7-78a1-810b-015abb458f8e","type":"shield","target":{"type":"self","scope":"single"},"formula":{"type":"metric-percent","percent":25,"metricId":"companion-health-maximum"},"duration":6}
+{"id":"01a0619f-2aa7-70eb-a2e3-f8bf41659fc8","type":"cast-time","duration":0.566}
+{"id":"01a0619f-2aa7-7c64-b568-6a1c169c3ae5","type":"cooldown","duration":8}

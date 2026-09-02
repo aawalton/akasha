@@ -1,0 +1,3 @@
+{"id":"01a0619f-2aa8-72b8-93f2-4c166caf5efa","type":"hot","target":{"type":"ally","scope":"area","radius":8},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":0.6,"coefficientType":"per-tick"},"duration":8,"displayMode":"per-tick","initialTick":true,"tickInterval":2}
+{"id":"01a0619f-2aa8-79ce-931a-b3b2d36aaacd","type":"cast-time","duration":0.4}
+{"id":"01a0619f-2aa8-71c8-81fd-6512c08bc40f","type":"cooldown","duration":12}

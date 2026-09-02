@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-75e0-98a5-3e1641718709","type":"special","effect":"pull-to-caster"}
+{"id":"01a0619f-2aa7-70b3-82e4-0280f56f1da6","type":"apply-status","status":{"status":"taunt","duration":15},"target":{"type":"enemy","range":22,"scope":"single"}}
+{"id":"01a0619f-2aa7-76e7-af56-eeae89d12b3f","type":"cast-time","duration":0.2}
+{"id":"01a0619f-2aa7-73ef-9d95-7e74b6d45b67","type":"cooldown","duration":8}

@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-72d8-bc79-76d821454063","type":"damage","target":{"type":"enemy","scope":"cone","radius":20},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"damageType":"physical"}
+{"id":"01a0619f-2aa7-780c-9947-e4ca89397f2f","type":"apply-status","status":{"status":"immobilize","duration":4},"target":{"type":"enemy","scope":"cone","radius":20}}
+{"id":"01a0619f-2aa7-72fc-8c98-97711fe349d4","type":"cast-time","duration":0.166}
+{"id":"01a0619f-2aa7-7da6-abbc-3b697354978c","type":"cooldown","duration":16}

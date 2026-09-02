@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-7116-8566-b6869b7aca4b","type":"apply-status","status":{"status":"taunt","duration":15},"target":{"type":"enemy","scope":"single"}}
+{"id":"01a0619f-2aa7-76cc-837c-ae5de9da3c18","type":"apply-debuff","debuff":{"value":0.05,"debuff":"minor-maim","duration":15,"valueType":"fractional-change"},"target":{"type":"enemy","scope":"single"}}
+{"id":"01a0619f-2aa7-7831-ae9b-5137a8d6655d","type":"cast-time","duration":0.5}
+{"id":"01a0619f-2aa7-7626-ab56-656567c097d1","type":"cooldown","duration":12}

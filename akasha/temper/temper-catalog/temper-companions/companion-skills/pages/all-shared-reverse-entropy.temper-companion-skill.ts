@@ -14,4 +14,5 @@ export const allSharedReverseEntropy = {
   skillLineId: "guild-mages",
   skillType: "active",
   validRoles: ["healer"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

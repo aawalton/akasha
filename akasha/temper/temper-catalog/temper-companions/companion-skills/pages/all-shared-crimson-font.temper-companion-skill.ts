@@ -15,4 +15,5 @@ export const allSharedCrimsonFont = {
   skillType: "active",
   validRoles: ["healer"],
   tags: ["synergy"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

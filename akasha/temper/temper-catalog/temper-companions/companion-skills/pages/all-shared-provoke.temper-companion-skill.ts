@@ -14,4 +14,5 @@ export const allSharedProvoke = {
   skillLineId: "weapon-one-hand-shield",
   skillType: "active",
   validRoles: ["dps", "tank"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

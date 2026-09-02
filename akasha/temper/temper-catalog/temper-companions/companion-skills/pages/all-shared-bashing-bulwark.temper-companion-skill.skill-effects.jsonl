@@ -1,0 +1,2 @@
+{"id":"01a0619f-2aa6-77a4-bb25-9e99c21391cd","type":"apply-status","status":{"status":"stun","duration":4},"target":{"type":"enemy","range":22,"scope":"single"}}
+{"id":"01a0619f-2aa6-7b74-a100-be2908697308","type":"cooldown","duration":16}

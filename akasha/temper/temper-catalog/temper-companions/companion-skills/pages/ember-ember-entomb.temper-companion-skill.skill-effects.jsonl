@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-7b2b-83cf-96b513bfd7d1","type":"apply-status","status":{"status":"immobilize","duration":4},"target":{"type":"enemy","scope":"cone"}}
+{"id":"01a0619f-2aa8-72ab-9b30-4545b71b685b","type":"hot","target":{"type":"self","scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":0.9,"coefficientType":"per-tick"},"duration":8,"displayMode":"total","initialTick":true,"tickInterval":2}
+{"id":"01a0619f-2aa8-7437-ab4d-1c82e8a3ecb9","type":"cast-time","duration":0.366}
+{"id":"01a0619f-2aa8-7609-bdb6-d64de37a46fa","type":"cooldown","duration":16}

@@ -14,4 +14,5 @@ export const bastianBastianCrushingClaws = {
   skillLineId: "companion-bastian-draconic-armor",
   skillType: "active",
   validRoles: ["dps"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

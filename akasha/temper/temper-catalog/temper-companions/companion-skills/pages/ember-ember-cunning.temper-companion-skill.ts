@@ -13,4 +13,5 @@ export const emberEmberCunning = {
   skillLineId: "companion-ember",
   skillType: "passive",
   validRoles: ["dps"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

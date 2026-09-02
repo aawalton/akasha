@@ -15,4 +15,5 @@ export const allSharedSavageInstinct = {
   skillType: "active",
   validRoles: ["dps", "tank"],
   tags: ["synergy"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

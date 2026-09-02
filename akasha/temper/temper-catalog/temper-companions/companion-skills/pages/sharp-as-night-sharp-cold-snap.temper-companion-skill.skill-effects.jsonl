@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-725b-9490-4ec9e0119472","type":"apply-status","status":{"status":"immobilize","duration":3},"target":{"type":"enemy","scope":"area","radius":10}}
+{"id":"01a0619f-2aa8-7375-9900-0861eb6428c8","type":"dot","target":{"type":"enemy","scope":"area","radius":10},"formula":{"type":"metric-percent","percent":5,"metricId":"companion-health-maximum"},"duration":8,"damageType":"frost","displayMode":"total","initialTick":true,"tickInterval":1}
+{"id":"01a0619f-2aa8-78f4-9fdf-8007526ea6e5","type":"cast-time","duration":0.633}
+{"id":"01a0619f-2aa8-7480-bdf1-5a88223835d5","type":"cooldown","duration":12}

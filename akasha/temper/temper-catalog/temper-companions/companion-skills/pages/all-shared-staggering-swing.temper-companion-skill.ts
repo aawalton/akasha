@@ -15,4 +15,5 @@ export const allSharedStaggeringSwing = {
   skillType: "active",
   validRoles: ["dps"],
   tags: ["knockback-4m"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

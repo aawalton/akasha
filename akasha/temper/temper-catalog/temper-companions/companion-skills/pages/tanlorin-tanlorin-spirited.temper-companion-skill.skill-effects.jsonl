@@ -1,0 +1,2 @@
+{"id":"01a0619f-2aa8-7f13-9904-11cd3493f7dc","type":"passive","value":-0.03,"metricId":"companion-damage-taken","modifierType":"fractional-change"}
+{"id":"01a0619f-2aa8-791e-a8ce-7006e4465e97","type":"passive","value":0.03,"metricId":"companion-damage-done","modifierType":"fractional-change"}

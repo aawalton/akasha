@@ -13,4 +13,5 @@ export const emberEmberSecondWind = {
   abilityId: 166068,
   skillLineId: "companion-ember-playful-schemer",
   skillType: "active",
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

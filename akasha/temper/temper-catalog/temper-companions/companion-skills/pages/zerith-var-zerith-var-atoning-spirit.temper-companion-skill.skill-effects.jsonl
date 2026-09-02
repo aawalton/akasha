@@ -1,0 +1,3 @@
+{"id":"01a0619f-2aa8-7b34-99e8-47fef5e46c62","type":"hot","target":{"type":"lowest-health-ally","range":28,"scope":"area"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5,"coefficientType":"per-tick"},"duration":8,"displayMode":"per-tick","initialTick":true,"tickInterval":2}
+{"id":"01a0619f-2aa8-7c3b-8ff6-42f2c389712b","type":"cast-time","duration":0.3}
+{"id":"01a0619f-2aa8-7c3c-bb1b-1460fa7704c4","type":"cooldown","duration":16}

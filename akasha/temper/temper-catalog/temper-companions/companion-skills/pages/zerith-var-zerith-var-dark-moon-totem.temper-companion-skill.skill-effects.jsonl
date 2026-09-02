@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa9-7221-9100-90ae13c2d317","type":"delayed","delay":2,"effect":{"type":"apply-status","status":{"status":"fear","duration":4},"target":{"type":"enemy","scope":"area","radius":6}}}
+{"id":"01a0619f-2aa9-745e-a321-5e0163f12dfb","buff":{"buff":"minor-protection","value":0.05,"duration":8,"valueType":"fractional-change"},"type":"apply-buff","target":{"type":"ally","range":22,"scope":"area","radius":6}}
+{"id":"01a0619f-2aa9-7df4-81dc-d44da217c02c","type":"cast-time","duration":0.2}
+{"id":"01a0619f-2aa9-7653-8826-21d28ea7b14c","type":"cooldown","duration":12}

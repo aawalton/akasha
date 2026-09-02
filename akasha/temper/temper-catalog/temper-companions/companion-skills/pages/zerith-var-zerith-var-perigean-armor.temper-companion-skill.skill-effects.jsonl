@@ -1,0 +1,6 @@
+{"id":"01a0619f-2aa9-721e-b8a4-ab1144779b0e","buff":{"buff":"major-resolve","value":5948,"duration":10,"valueType":"integer"},"type":"apply-buff","target":{"type":"self","scope":"single"}}
+{"id":"01a0619f-2aa9-778e-83a9-e00715374141","type":"periodic-trigger","effect":{"type":"special","effect":"pull-to-caster"},"duration":10,"interval":2}
+{"id":"01a0619f-2aa9-750d-8db8-9be617f7208f","type":"apply-status","status":{"status":"taunt","duration":15},"target":{"type":"enemy","scope":"single"}}
+{"id":"01a0619f-2aa9-7fbf-80f1-c4788e4f0edb","type":"delayed","delay":15,"effect":{"type":"special","effect":"create-corpse"}}
+{"id":"01a0619f-2aa9-78fc-aaf3-4e71fba36acd","type":"cast-time","duration":0.2}
+{"id":"01a0619f-2aa9-76f8-96a1-d958087c75f6","type":"cooldown","duration":16}

@@ -14,4 +14,5 @@ export const emberEmberSharedWards = {
   skillLineId: "companion-ember-playful-schemer",
   skillType: "active",
   validRoles: ["healer"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

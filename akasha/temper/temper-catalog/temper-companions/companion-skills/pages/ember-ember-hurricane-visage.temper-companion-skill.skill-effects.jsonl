@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-709f-badb-00b6b69764c0","type":"dot","target":{"type":"enemy","scope":"area","radius":5},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"duration":8,"damageType":"shock","displayMode":"total","initialTick":true,"tickInterval":1}
+{"id":"01a0619f-2aa8-783a-b509-c1185b381d7c","buff":{"buff":"flat-damage-reduction","value":0.2,"duration":8,"valueType":"fractional-change"},"type":"apply-buff","target":{"type":"self","scope":"single"}}
+{"id":"01a0619f-2aa8-72aa-bee9-357e066a0b7a","type":"cast-time","duration":0.4}
+{"id":"01a0619f-2aa8-7f59-b9bb-9b3df5f22622","type":"cooldown","duration":12}

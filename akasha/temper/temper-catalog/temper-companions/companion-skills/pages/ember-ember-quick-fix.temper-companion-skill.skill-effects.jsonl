@@ -1,0 +1,3 @@
+{"id":"01a0619f-2aa8-73dd-9abf-edcab8f32532","type":"heal","target":{"type":"self-or-ally","range":28,"scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3}}
+{"id":"01a0619f-2aa8-7371-ba98-7d972864d575","type":"cast-time","duration":0.6}
+{"id":"01a0619f-2aa8-7743-ada1-ae59e1ea0ecf","type":"cooldown","duration":8}

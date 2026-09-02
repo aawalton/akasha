@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-704d-9c71-d4f00089c3ef","type":"shield","target":{"type":"self","scope":"single"},"formula":{"type":"metric-percent","percent":30,"metricId":"companion-health-maximum"},"duration":6}
+{"id":"01a0619f-2aa7-7461-b331-59418b1ccbab","name":"Bone Aegis","type":"synergy","effect":{"type":"shield","target":{"type":"ally","scope":"single"},"formula":{"type":"player-health-percent","percent":50},"duration":6}}
+{"id":"01a0619f-2aa7-7dbc-a05f-612e1ed95043","type":"cast-time","duration":0.566}
+{"id":"01a0619f-2aa7-7171-8445-fb5580dda8cb","type":"cooldown","duration":36}

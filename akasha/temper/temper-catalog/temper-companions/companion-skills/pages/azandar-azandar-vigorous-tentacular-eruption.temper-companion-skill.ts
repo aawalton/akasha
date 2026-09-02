@@ -15,4 +15,5 @@ export const azandarAzandarVigorousTentacularEruption = {
   skillType: "ultimate",
   validRoles: ["dps", "support"],
   tags: ["knockup"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

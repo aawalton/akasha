@@ -1,0 +1,7 @@
+{"id":"01a0619f-2aa8-7d44-941e-e901b6790d55","type":"damage","target":{"type":"enemy","scope":"area"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"damageType":"flame"}
+{"id":"01a0619f-2aa8-791d-ac86-38696901120e","type":"heal","target":{"type":"self","scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":0.75}}
+{"id":"01a0619f-2aa8-79a3-aba8-f15cedf3bd6e","type":"special","effect":"interrupt"}
+{"id":"01a0619f-2aa8-79e6-9187-2108218d62c8","type":"apply-status","status":{"status":"stun","duration":2},"target":{"type":"enemy","scope":"area"},"conditions":[{"type":"casting","isCasting":true}]}
+{"id":"01a0619f-2aa8-7367-9775-b6aec9587c72","type":"delayed","delay":2.5,"effect":{"type":"damage","target":{"type":"enemy","scope":"area"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"damageType":"flame"}}
+{"id":"01a0619f-2aa8-7795-81bb-375fb4af688f","type":"cast-time","duration":0.4}
+{"id":"01a0619f-2aa8-7dcd-807e-b69574d6af8b","type":"cooldown","duration":16}

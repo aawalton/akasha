@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-71ed-bf6c-6df32189223b","type":"special","effect":"dodge-next-attack"}
+{"id":"01a0619f-2aa8-712a-b4d9-9823594e4a20","buff":{"buff":"flat-damage-reduction","value":0.2,"duration":8,"valueType":"fractional-change"},"type":"apply-buff","target":{"type":"self","scope":"single"}}
+{"id":"01a0619f-2aa8-72ff-a613-16b0d0f1e17c","type":"cast-time","duration":0.566}
+{"id":"01a0619f-2aa8-7bbf-8756-595efe061aa7","type":"cooldown","duration":12}

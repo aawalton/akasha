@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-779e-a502-aeeab16cf7c2","type":"hot","target":{"type":"self-and-ally","scope":"area","radius":12},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":0.75,"coefficientType":"per-tick"},"duration":8,"displayMode":"per-tick","initialTick":true,"tickInterval":2}
+{"id":"01a0619f-2aa8-7e21-8547-d581bb564e4b","type":"apply-status","status":{"status":"snare","duration":8,"magnitude":0.5},"target":{"type":"enemy","scope":"area","radius":12}}
+{"id":"01a0619f-2aa8-7c96-9435-2bcee0d4807b","type":"cast-time","duration":0.5}
+{"id":"01a0619f-2aa8-7f3f-8287-499aa4da6126","type":"cooldown","duration":16}

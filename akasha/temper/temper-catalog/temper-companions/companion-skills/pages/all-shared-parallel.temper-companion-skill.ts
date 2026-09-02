@@ -12,4 +12,5 @@ export const allSharedParallel = {
   abilityId: 155411,
   skillLineId: "guild-mages",
   skillType: "active",
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

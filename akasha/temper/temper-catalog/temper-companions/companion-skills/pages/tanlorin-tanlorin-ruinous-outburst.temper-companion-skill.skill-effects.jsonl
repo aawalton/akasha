@@ -1,0 +1,6 @@
+{"id":"01a0619f-2aa8-746c-946f-e3565c701c79","type":"damage","target":{"type":"enemy","range":15,"scope":"area","radius":15},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"damageType":"magic"}
+{"id":"01a0619f-2aa8-72a0-a909-635b1937d042","type":"delayed","delay":0.5,"effect":{"type":"damage","target":{"type":"enemy","range":15,"scope":"area","radius":15},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"damageType":"magic"}}
+{"id":"01a0619f-2aa8-7577-98d2-536f2a534a1b","type":"apply-status","status":{"status":"knockback","duration":0},"target":{"type":"enemy","range":15,"scope":"area","radius":15}}
+{"id":"01a0619f-2aa8-7cee-91f6-14a1ac237532","type":"apply-status","status":{"status":"stun","duration":2.5},"target":{"type":"enemy","range":15,"scope":"area","radius":15}}
+{"id":"01a0619f-2aa8-7620-859b-d7fe96694b3d","type":"resource-cost","amount":200,"resource":"ultimate"}
+{"id":"01a0619f-2aa8-7f48-9f52-2664f76e7580","type":"cast-time","duration":0.4}

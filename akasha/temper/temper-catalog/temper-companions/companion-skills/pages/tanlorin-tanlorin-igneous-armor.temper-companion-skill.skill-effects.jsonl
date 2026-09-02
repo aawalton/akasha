@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-75b4-8639-875781e416fa","buff":{"buff":"major-resolve","value":5948,"duration":6,"valueType":"integer"},"type":"apply-buff","target":{"type":"ally","scope":"area","radius":12}}
+{"id":"01a0619f-2aa8-73df-9230-a1146fe58dad","type":"shield","target":{"type":"self","scope":"single"},"formula":{"type":"metric-percent","percent":31,"metricId":"companion-health-maximum"},"duration":6}
+{"id":"01a0619f-2aa8-7da5-afa1-cdae33407951","type":"cast-time","duration":0.2}
+{"id":"01a0619f-2aa8-7329-8fd8-1ff4184e5143","type":"cooldown","duration":12}

@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-74ad-96e1-4d7917d0896b","type":"shield","target":{"type":"ally","scope":"area","radius":28},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"duration":6}
+{"id":"01a0619f-2aa7-7b22-98dc-5d9278c68592","buff":{"buff":"healing-received","value":0.15,"duration":6,"valueType":"fractional-change"},"type":"apply-buff","target":{"type":"ally","scope":"area","radius":28}}
+{"id":"01a0619f-2aa7-7715-822e-e445124ac5b4","type":"cast-time","duration":0.566}
+{"id":"01a0619f-2aa7-7787-8b39-6d0aaa6b56cf","type":"cooldown","duration":12}

@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-784f-8778-f48f1bd853e1","type":"damage","target":{"type":"enemy","range":5,"scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"damageType":"physical"}
+{"id":"01a0619f-2aa7-72e3-a412-48f44a6d389f","type":"apply-status","status":{"status":"taunt","duration":15},"target":{"type":"enemy","range":5,"scope":"single"}}
+{"id":"01a0619f-2aa7-7e43-a761-74b5d36ebcc6","type":"cast-time","duration":0.3}
+{"id":"01a0619f-2aa7-708d-858c-0a74be1bc1cc","type":"cooldown","duration":12}

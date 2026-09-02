@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-7a9f-9df5-e96c28216f18","type":"damage","target":{"type":"enemy","range":15,"scope":"cone"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"damageType":"magic"}
+{"id":"01a0619f-2aa8-7bf4-aaf9-cf388e097a21","type":"player-trigger","target":{"type":"enemy","range":15,"scope":"cone"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"duration":10,"damageType":"magic"}
+{"id":"01a0619f-2aa8-751a-b3a9-2397d92c21bf","type":"resource-cost","amount":200,"resource":"ultimate"}
+{"id":"01a0619f-2aa8-7dda-810e-66eaf06cbaf6","type":"channel","duration":3.8}

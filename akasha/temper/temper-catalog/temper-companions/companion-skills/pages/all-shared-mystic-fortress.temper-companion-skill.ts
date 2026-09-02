@@ -14,4 +14,6 @@ export const allSharedMysticFortress = {
   skillLineId: "weapon-restoration-staff",
   skillType: "active",
   validRoles: ["healer", "tank"],
+  skillEffects: "jsonl",
+  castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-7709-af63-7632344f0d95","type":"damage","target":{"type":"enemy","scope":"area","radius":6},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"damageType":"flame"}
+{"id":"01a0619f-2aa7-784d-9ed3-06b0de79e43c","type":"apply-status","status":{"status":"immobilize","duration":4},"target":{"type":"enemy","scope":"area","radius":6}}
+{"id":"01a0619f-2aa7-7905-a231-6e0c28c611ed","type":"cast-time","duration":0.633}
+{"id":"01a0619f-2aa7-73d6-b80a-74f28896e2ff","type":"cooldown","duration":16}

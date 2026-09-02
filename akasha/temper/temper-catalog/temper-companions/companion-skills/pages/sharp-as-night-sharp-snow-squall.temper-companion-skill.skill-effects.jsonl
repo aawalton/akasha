@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-7014-a423-615585a862fd","type":"heal","target":{"type":"self","scope":"single"},"formula":{"type":"metric-percent","percent":25,"metricId":"companion-health-maximum"}}
+{"id":"01a0619f-2aa8-7f00-a766-5c07b12985d0","type":"hot","target":{"type":"self","scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-health-maximum","coefficient":0.0625,"coefficientType":"per-tick"},"duration":8,"displayMode":"per-tick","initialTick":false,"tickInterval":2,"durationOffset":2}
+{"id":"01a0619f-2aa8-7898-b775-52b80c3f6673","type":"cast-time","duration":0.466}
+{"id":"01a0619f-2aa8-7167-b346-bc6f0f16a920","type":"cooldown","duration":16}

@@ -13,4 +13,5 @@ export const allSharedFlow = {
   abilityId: 157728,
   skillLineId: "armor-light",
   skillType: "passive",
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

@@ -1,0 +1,2 @@
+{"id":"01a0619f-2aa7-73c5-9386-9b9668989e7b","type":"passive","value":0.03,"metricId":"companion-health-maximum","modifierType":"fractional-change"}
+{"id":"01a0619f-2aa7-7d58-ac9d-d27cc811a0d4","type":"passive","value":-0.03,"metricId":"companion-ability-cooldown","modifierType":"fractional-change"}

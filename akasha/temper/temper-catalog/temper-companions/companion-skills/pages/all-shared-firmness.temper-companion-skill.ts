@@ -13,4 +13,5 @@ export const allSharedFirmness = {
   abilityId: 157730,
   skillLineId: "armor-heavy",
   skillType: "passive",
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

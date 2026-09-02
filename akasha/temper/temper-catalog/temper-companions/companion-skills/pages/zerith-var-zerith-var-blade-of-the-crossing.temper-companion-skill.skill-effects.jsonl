@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-79e1-9449-647c0fd9be45","type":"damage","target":{"type":"enemy","range":15,"scope":"cone"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"damageType":"magic"}
+{"id":"01a0619f-2aa8-7067-bc8a-48b94beeaa61","type":"apply-debuff","debuff":{"value":168,"debuff":"minor-magickasteal","duration":10,"valueType":"integer"},"target":{"type":"enemy","range":15,"scope":"cone"}}
+{"id":"01a0619f-2aa8-70cc-9429-a4eb4a637d74","type":"resource-cost","amount":200,"resource":"ultimate"}
+{"id":"01a0619f-2aa8-7bee-8e61-fc23ed2cabbd","type":"cast-time","duration":0.5}

@@ -15,4 +15,6 @@ export const bastianBastianDrakesBlood = {
   skillType: "active",
   validRoles: ["tank"],
   tags: ["max-health-heal-25pct"],
+  skillEffects: "jsonl",
+  castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

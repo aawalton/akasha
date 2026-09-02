@@ -14,4 +14,6 @@ export const sharpAsNightSharpFungalForage = {
   skillLineId: "companion-sharp-as-night-verdant-growth",
   skillType: "active",
   validRoles: ["healer"],
+  skillEffects: "jsonl",
+  castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

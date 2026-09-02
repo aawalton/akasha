@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-7f0e-8fed-fd3c2f3233a7","type":"damage","target":{"type":"enemy","range":28,"scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"damageType":"magic"}
+{"id":"01a0619f-2aa8-74b5-aade-a32272de14c1","type":"heal","target":{"type":"ally","scope":"area"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5}}
+{"id":"01a0619f-2aa8-7c15-94c2-67ab8774e5e0","type":"hot","target":{"type":"ally","scope":"area"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":0.375,"coefficientType":"per-tick"},"duration":8,"displayMode":"per-tick","initialTick":true,"tickInterval":2}
+{"id":"01a0619f-2aa8-74cd-9028-f6f89f51e177","type":"cooldown","duration":12}

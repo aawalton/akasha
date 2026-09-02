@@ -13,4 +13,5 @@ export const bastianBastianCragSmash = {
   skillLineId: "companion-bastian-ardent-warrior",
   skillType: "active",
   validRoles: ["dps"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

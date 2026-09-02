@@ -15,4 +15,5 @@ export const allSharedOnGuard = {
   skillType: "active",
   validRoles: ["tank"],
   tags: ["max-health-shield-25pct"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

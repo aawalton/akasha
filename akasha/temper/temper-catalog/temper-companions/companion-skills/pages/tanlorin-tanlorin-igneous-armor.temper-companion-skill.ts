@@ -14,4 +14,5 @@ export const tanlorinTanlorinIgneousArmor = {
   skillLineId: "companion-tanlorin-draconic-armor",
   skillType: "active",
   validRoles: ["tank", "support"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

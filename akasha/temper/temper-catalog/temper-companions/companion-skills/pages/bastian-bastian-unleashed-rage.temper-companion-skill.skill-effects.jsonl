@@ -1,0 +1,5 @@
+{"id":"01a0619f-2aa7-7ba0-9674-7df84f84decf","type":"damage","target":{"type":"enemy","scope":"area","radius":10},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":4.5},"damageType":"flame"}
+{"id":"01a0619f-2aa7-7bdc-b391-c11a0cd88a11","type":"apply-status","status":{"status":"stun","duration":4},"target":{"type":"enemy","scope":"area","radius":10}}
+{"id":"01a0619f-2aa7-7a64-a968-833602d970dc","type":"multi-hit","target":{"type":"enemy","scope":"line"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.125},"hitCount":4,"damageType":"flame"}
+{"id":"01a0619f-2aa7-7386-8f18-89eea0a0a05c","type":"resource-cost","amount":200,"resource":"ultimate"}
+{"id":"01a0619f-2aa7-755a-bc6a-ebba43cb51e2","type":"cast-time","duration":2}

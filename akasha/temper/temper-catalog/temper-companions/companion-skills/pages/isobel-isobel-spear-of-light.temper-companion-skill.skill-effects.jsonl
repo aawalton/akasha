@@ -1,0 +1,5 @@
+{"id":"01a0619f-2aa8-7c20-9dbe-27aeea727f44","type":"special","effect":"ignore-resistance"}
+{"id":"01a0619f-2aa8-7210-ac5f-c04172280e36","type":"damage","target":{"type":"enemy","scope":"area"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"damageType":"magic"}
+{"id":"01a0619f-2aa8-7fe2-9cf3-24db0781cd9c","type":"apply-status","status":{"status":"knockup","duration":4},"target":{"type":"enemy","scope":"area"}}
+{"id":"01a0619f-2aa8-7782-aa8d-84e9692f062d","type":"cast-time","duration":0.467}
+{"id":"01a0619f-2aa8-7b36-b92f-6ce13991af13","type":"cooldown","duration":16}

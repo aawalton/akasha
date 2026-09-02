@@ -14,4 +14,6 @@ export const tanlorinTanlorinKindle = {
   skillLineId: "companion-tanlorin-radiating-heart",
   skillType: "active",
   validRoles: ["healer"],
+  skillEffects: "jsonl",
+  castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

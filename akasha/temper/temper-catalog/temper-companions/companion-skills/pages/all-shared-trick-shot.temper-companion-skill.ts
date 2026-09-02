@@ -14,4 +14,5 @@ export const allSharedTrickShot = {
   skillLineId: "weapon-bow",
   skillType: "active",
   validRoles: ["dps"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

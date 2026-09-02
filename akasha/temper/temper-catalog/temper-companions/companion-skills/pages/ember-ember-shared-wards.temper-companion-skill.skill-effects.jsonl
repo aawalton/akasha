@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-7710-9a53-1fbca14aa9af","type":"shield","target":{"type":"ally","scope":"area","radius":28},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"duration":6}
+{"id":"01a0619f-2aa8-78f5-a402-116a4a249879","type":"hot","target":{"type":"ally","scope":"area","radius":28},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"duration":8,"displayMode":"total","initialTick":true,"tickInterval":1}
+{"id":"01a0619f-2aa8-7483-a8b3-525e12ac3924","type":"cast-time","duration":0.566}
+{"id":"01a0619f-2aa8-73dd-8fd5-6404b3e500a7","type":"cooldown","duration":12}

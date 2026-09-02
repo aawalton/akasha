@@ -1,0 +1,2 @@
+{"id":"01a0619f-2aa7-79e3-9814-aa77a02b73d4","type":"passive","value":0.03,"metricId":"companion-health-maximum","modifierType":"fractional-change"}
+{"id":"01a0619f-2aa7-7637-8697-d8d79aae73fe","type":"passive","value":0.03,"metricId":"companion-damage-done","modifierType":"fractional-change"}

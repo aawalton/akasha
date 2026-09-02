@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa6-7171-b82e-6731abf01311","type":"special","effect":"block-all","duration":5}
+{"id":"01a0619f-2aa6-7c69-b741-f65358978033","type":"special","effect":"reflect-all","duration":5}
+{"id":"01a0619f-2aa6-7d4a-a4f0-581c855344f2","type":"cast-time","duration":0.6}
+{"id":"01a0619f-2aa6-7a79-8f91-0a1b4aef974d","type":"cooldown","duration":36}

@@ -14,4 +14,6 @@ export const zerithVarZerithVarAzurahsEmbrace = {
   skillLineId: "companion-zerith-var-remedy-of-atonement",
   skillType: "active",
   validRoles: ["healer"],
+  skillEffects: "jsonl",
+  castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

@@ -15,4 +15,5 @@ export const allSharedRitualOfSalvation = {
   skillType: "active",
   validRoles: ["tank", "support"],
   tags: ["ground-effect"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

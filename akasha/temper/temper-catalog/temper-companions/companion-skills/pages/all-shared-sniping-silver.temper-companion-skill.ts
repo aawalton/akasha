@@ -15,4 +15,5 @@ export const allSharedSnipingSilver = {
   skillType: "active",
   validRoles: ["dps"],
   tags: ["double-damage-vs-monsters"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

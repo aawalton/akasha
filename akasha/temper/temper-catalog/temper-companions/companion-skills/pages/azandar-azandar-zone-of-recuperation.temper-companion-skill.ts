@@ -15,4 +15,5 @@ export const azandarAzandarZoneOfRecuperation = {
   skillType: "active",
   validRoles: ["healer", "tank"],
   tags: ["ground-effect"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-7198-a3d5-74f359a49285","type":"multi-hit","target":{"type":"enemy","scope":"cone"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1},"hitCount":3,"damageType":"magic"}
+{"id":"01a0619f-2aa8-711b-911f-e971ffe90b7f","buff":{"buff":"next-attack-damage","value":0.5,"duration":10,"valueType":"fractional-change"},"type":"apply-buff","target":{"type":"self-and-ally","scope":"area"}}
+{"id":"01a0619f-2aa8-7173-8ebb-81ee5d918236","type":"channel","duration":1}
+{"id":"01a0619f-2aa8-7024-8b7e-d15b89f88162","type":"cooldown","duration":16}

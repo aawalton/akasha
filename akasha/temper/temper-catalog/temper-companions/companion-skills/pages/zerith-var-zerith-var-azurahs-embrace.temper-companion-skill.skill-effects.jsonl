@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-7ecb-8876-047a426a8337","type":"heal","target":{"type":"ally","scope":"area"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":0.6}}
+{"id":"01a0619f-2aa8-7dfb-8941-119557c00c67","type":"special","count":3,"effect":"cleanse"}
+{"id":"01a0619f-2aa8-7a72-858d-b7c358068e96","type":"cast-time","duration":0.4}
+{"id":"01a0619f-2aa8-70d3-948f-e3ec09342054","type":"cooldown","duration":12}

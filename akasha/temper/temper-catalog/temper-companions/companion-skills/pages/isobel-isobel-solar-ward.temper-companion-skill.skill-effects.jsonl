@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-7edb-a624-201ab5fc03b6","buff":{"buff":"flat-damage-reduction","value":0.2,"duration":6,"valueType":"fractional-change"},"type":"apply-buff","target":{"type":"self","scope":"single"}}
+{"id":"01a0619f-2aa8-712f-a0be-e0c6e295c777","type":"shield","target":{"type":"self","scope":"single"},"formula":{"type":"metric-percent","percent":12.5,"metricId":"companion-health-maximum"},"duration":6}
+{"id":"01a0619f-2aa8-7b49-9cac-f6056d5814bb","type":"cast-time","duration":0.967}
+{"id":"01a0619f-2aa8-7c11-adc9-11def8711820","type":"cooldown","duration":8}

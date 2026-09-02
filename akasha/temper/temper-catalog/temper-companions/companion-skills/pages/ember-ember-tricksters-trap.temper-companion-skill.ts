@@ -12,4 +12,5 @@ export const emberEmberTrickstersTrap = {
   abilityId: 165865,
   skillLineId: "companion-ember-mischievous-caster",
   skillType: "active",
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

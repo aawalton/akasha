@@ -15,4 +15,5 @@ export const allSharedElementalBarricade = {
   skillType: "active",
   validRoles: ["dps"],
   tags: ["ground-aoe"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

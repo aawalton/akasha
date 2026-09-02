@@ -1,0 +1,3 @@
+{"id":"01a0619f-2aa9-7c26-9859-ac81e9a6e1a1","type":"damage","target":{"type":"enemy","range":28,"scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"damageType":"flame"}
+{"id":"01a0619f-2aa9-7ea5-89cc-af5101aeee6c","type":"cast-time","duration":0.3}
+{"id":"01a0619f-2aa9-7e3a-a59c-36897fa6d348","type":"cooldown","duration":8}

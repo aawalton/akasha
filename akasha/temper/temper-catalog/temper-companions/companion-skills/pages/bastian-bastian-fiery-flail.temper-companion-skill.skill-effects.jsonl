@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-7528-b6e2-82a20bc07337","type":"damage","target":{"type":"enemy","range":5,"scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"damageType":"flame"}
+{"id":"01a0619f-2aa7-77eb-a117-2732c52d3943","type":"apply-status","status":{"status":"off-balance","duration":7},"target":{"type":"enemy","range":5,"scope":"single"}}
+{"id":"01a0619f-2aa7-72db-812e-89f195494f75","type":"cast-time","duration":0.5}
+{"id":"01a0619f-2aa7-77c7-be26-b841674c6fff","type":"cooldown","duration":12}

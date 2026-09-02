@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa8-7dcd-8d18-fe36f3c03db1","type":"damage","target":{"type":"enemy","scope":"cone","radius":7},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"damageType":"magic"}
+{"id":"01a0619f-2aa8-7b5c-bc2c-8f7566a056bb","type":"hot","target":{"type":"self","scope":"single"},"formula":{"type":"metric-percent","percent":50,"metricId":"companion-health-maximum"},"duration":6,"displayMode":"per-tick","initialTick":true,"tickInterval":2}
+{"id":"01a0619f-2aa8-7a57-8ccd-e3579bf1a19e","type":"cast-time","duration":0.166}
+{"id":"01a0619f-2aa8-74a4-8b45-55ecfa0888bc","type":"cooldown","duration":8}

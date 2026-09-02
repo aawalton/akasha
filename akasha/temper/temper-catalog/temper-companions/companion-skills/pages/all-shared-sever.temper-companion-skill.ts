@@ -13,4 +13,6 @@ export const allSharedSever = {
   skillLineId: "weapon-two-handed",
   skillType: "active",
   validRoles: ["dps"],
+  skillEffects: "jsonl",
+  castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

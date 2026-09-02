@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-71ab-9580-cbd327607d6d","type":"heal","target":{"type":"self","scope":"single"},"formula":{"type":"metric-percent","percent":100,"metricId":"companion-health-maximum"}}
+{"id":"01a0619f-2aa7-7a78-88ad-f166f833c9da","type":"special","effect":"become-invisible","duration":6}
+{"id":"01a0619f-2aa7-708d-b261-f9328615bef0","type":"cast-time","duration":0.433}
+{"id":"01a0619f-2aa7-707b-b0d0-3cb30c49e878","type":"cooldown","duration":36}

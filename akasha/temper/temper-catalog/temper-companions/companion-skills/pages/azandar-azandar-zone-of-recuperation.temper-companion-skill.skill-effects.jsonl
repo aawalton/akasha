@@ -1,0 +1,6 @@
+{"id":"01a0619f-2aa7-7a58-a184-d5eed5219dcb","type":"hot","target":{"type":"ally","scope":"area","radius":8},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":0.5},"duration":8,"displayMode":"total","initialTick":true,"tickInterval":2,"hdApplication":"total"}
+{"id":"01a0619f-2aa7-7bb2-b144-e92c018f1e47","buff":{"buff":"health-recovery","value":150,"duration":8,"valueType":"integer"},"type":"apply-buff","target":{"type":"ally","scope":"area","radius":8}}
+{"id":"01a0619f-2aa7-7602-b7ff-f835f336bdff","buff":{"buff":"magicka-recovery","value":150,"duration":8,"valueType":"integer"},"type":"apply-buff","target":{"type":"ally","scope":"area","radius":8}}
+{"id":"01a0619f-2aa7-7c2c-9937-e4401293703f","buff":{"buff":"stamina-recovery","value":150,"duration":8,"valueType":"integer"},"type":"apply-buff","target":{"type":"ally","scope":"area","radius":8}}
+{"id":"01a0619f-2aa7-76de-aa94-d2f0b2ae0fe4","type":"cast-time","duration":0.5}
+{"id":"01a0619f-2aa7-78ea-9a4e-08129dd872ca","type":"cooldown","duration":16}

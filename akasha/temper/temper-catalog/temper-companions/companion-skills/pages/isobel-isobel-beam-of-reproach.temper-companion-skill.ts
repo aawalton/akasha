@@ -14,4 +14,5 @@ export const isobelIsobelBeamOfReproach = {
   skillLineId: "companion-isobel-healing-grace",
   skillType: "active",
   validRoles: ["dps", "healer"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

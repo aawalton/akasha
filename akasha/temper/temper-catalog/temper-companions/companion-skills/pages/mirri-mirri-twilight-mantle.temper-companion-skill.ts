@@ -14,4 +14,6 @@ export const mirriMirriTwilightMantle = {
   skillLineId: "companion-mirri-living-shade",
   skillType: "active",
   validRoles: ["tank"],
+  skillEffects: "jsonl",
+  castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

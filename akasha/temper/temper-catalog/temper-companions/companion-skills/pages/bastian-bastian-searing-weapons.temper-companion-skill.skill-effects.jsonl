@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-722a-a658-e326acd8d37f","buff":{"buff":"light-attack-damage","value":0.15,"duration":8,"valueType":"fractional-change"},"type":"apply-buff","target":{"type":"ally","scope":"area","radius":28}}
+{"id":"01a0619f-2aa7-7018-a1c5-5c5e8432e45a","buff":{"buff":"heavy-attack-damage","value":0.15,"duration":8,"valueType":"fractional-change"},"type":"apply-buff","target":{"type":"ally","scope":"area","radius":28}}
+{"id":"01a0619f-2aa7-7f6e-b4b8-41eacadc96a6","type":"cast-time","duration":0.233}
+{"id":"01a0619f-2aa7-7bf5-a955-5f8a8a06ffd9","type":"cooldown","duration":16}

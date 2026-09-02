@@ -14,4 +14,5 @@ export const bastianBastianUnleashedRage = {
   skillLineId: "companion-bastian",
   skillType: "ultimate",
   validRoles: ["dps"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

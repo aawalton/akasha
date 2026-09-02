@@ -14,4 +14,6 @@ export const emberEmberQuickFix = {
   skillLineId: "companion-ember-playful-schemer",
   skillType: "active",
   validRoles: ["healer", "tank"],
+  skillEffects: "jsonl",
+  castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

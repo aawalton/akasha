@@ -14,4 +14,5 @@ export const azandarAzandarShieldsOfErudition = {
   skillLineId: "companion-azandar-revitalizing-researcher",
   skillType: "active",
   validRoles: ["healer", "tank"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

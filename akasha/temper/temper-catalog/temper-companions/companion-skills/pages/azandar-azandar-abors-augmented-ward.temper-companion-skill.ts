@@ -15,4 +15,5 @@ export const azandarAzandarAborsAugmentedWard = {
   skillType: "active",
   validRoles: ["dps", "tank"],
   tags: ["max-health-shield-25pct", "retaliation-damage"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

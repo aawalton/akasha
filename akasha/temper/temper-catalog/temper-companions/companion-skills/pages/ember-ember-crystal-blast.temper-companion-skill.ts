@@ -14,4 +14,5 @@ export const emberEmberCrystalBlast = {
   skillLineId: "companion-ember-lightning-caller",
   skillType: "active",
   validRoles: ["dps"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

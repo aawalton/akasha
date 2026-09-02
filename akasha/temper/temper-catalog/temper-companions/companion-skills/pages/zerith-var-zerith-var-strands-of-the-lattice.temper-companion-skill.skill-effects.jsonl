@@ -1,0 +1,5 @@
+{"id":"01a0619f-2aa9-77e5-915d-048ef9068c6b","type":"dot","target":{"type":"enemy","scope":"area","radius":5},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":4.5},"duration":10,"damageType":"disease","displayMode":"per-tick","initialTick":true,"tickInterval":2}
+{"id":"01a0619f-2aa9-7966-858b-0d523580055f","type":"dot","target":{"type":"enemy","scope":"line"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":4.5},"duration":10,"damageType":"disease","displayMode":"per-tick","initialTick":true,"tickInterval":2}
+{"id":"01a0619f-2aa9-73e0-891b-7d22e4dd1714","type":"delayed","delay":10,"effect":{"type":"damage","target":{"type":"enemy","scope":"area","radius":5},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"damageType":"disease"}}
+{"id":"01a0619f-2aa9-7bd2-a53c-f6657635d6ef","type":"cast-time","duration":0.2}
+{"id":"01a0619f-2aa9-7238-b74c-8e81ec8d8fc9","type":"cooldown","duration":12}

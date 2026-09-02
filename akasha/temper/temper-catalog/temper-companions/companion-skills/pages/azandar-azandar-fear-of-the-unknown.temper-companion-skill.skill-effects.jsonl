@@ -1,0 +1,3 @@
+{"id":"01a0619f-2aa7-7ebd-b15c-445ec1c27c3f","type":"apply-status","status":{"status":"fear","duration":4},"target":{"type":"enemy","scope":"single"}}
+{"id":"01a0619f-2aa7-70f1-bcf1-2d5d6050df2b","type":"cast-time","duration":0.433}
+{"id":"01a0619f-2aa7-7e83-a235-a6c7e06b7142","type":"cooldown","duration":8}

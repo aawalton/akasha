@@ -13,4 +13,5 @@ export const azandarAzandarFearOfTheUnknown = {
   abilityId: 194266,
   skillLineId: "companion-azandar-quill-knight",
   skillType: "active",
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

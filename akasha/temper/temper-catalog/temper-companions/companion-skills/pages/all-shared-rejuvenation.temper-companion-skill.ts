@@ -14,4 +14,5 @@ export const allSharedRejuvenation = {
   skillLineId: "weapon-restoration-staff",
   skillType: "active",
   validRoles: ["healer", "tank"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

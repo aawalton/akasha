@@ -1,0 +1,3 @@
+{"id":"01a0619f-2aa7-79c8-918f-7c0de0d3bf35","type":"cooldown-reduction","scope":"other","value":"reset"}
+{"id":"01a0619f-2aa7-7d4a-afbf-0bcd542a7c70","type":"cast-time","duration":0.566}
+{"id":"01a0619f-2aa7-7795-b04f-312d1ebb799f","type":"cooldown","duration":36}

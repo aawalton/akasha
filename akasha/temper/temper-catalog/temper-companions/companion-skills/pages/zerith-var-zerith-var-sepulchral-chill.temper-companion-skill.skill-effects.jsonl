@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa9-7ed0-aa12-252d507d3e9c","type":"dot","target":{"type":"enemy","range":28,"scope":"area","radius":6},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"duration":8,"damageType":"frost","displayMode":"per-tick","initialTick":true,"tickInterval":2}
+{"id":"01a0619f-2aa9-7fa0-aa3e-3657d42d530c","type":"apply-debuff","debuff":{"value":5948,"debuff":"major-breach","duration":6,"valueType":"integer"},"target":{"type":"enemy","range":28,"scope":"area","radius":6}}
+{"id":"01a0619f-2aa9-7fea-8fc2-03e772deef24","type":"cast-time","duration":0.33}
+{"id":"01a0619f-2aa9-7752-b295-80ebeea6d83b","type":"cooldown","duration":16}

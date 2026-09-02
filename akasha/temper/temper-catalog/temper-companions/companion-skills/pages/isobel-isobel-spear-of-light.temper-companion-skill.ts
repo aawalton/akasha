@@ -14,4 +14,5 @@ export const isobelIsobelSpearOfLight = {
   skillLineId: "companion-isobel-brilliant-shield",
   skillType: "active",
   validRoles: ["dps"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

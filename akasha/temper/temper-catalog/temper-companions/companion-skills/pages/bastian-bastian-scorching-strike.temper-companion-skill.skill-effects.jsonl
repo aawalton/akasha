@@ -1,0 +1,4 @@
+{"id":"01a0619f-2aa7-7355-be8b-213e25be6005","type":"damage","target":{"type":"enemy","range":5,"scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"damageType":"flame"}
+{"id":"01a0619f-2aa7-74c8-a14a-cb20f9737071","type":"dot","target":{"type":"enemy","range":5,"scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":4.5},"duration":8,"damageType":"flame","displayMode":"total","initialTick":false,"tickInterval":2,"durationOffset":2}
+{"id":"01a0619f-2aa7-7c1a-aab0-20ae887b280f","type":"cast-time","duration":0.2}
+{"id":"01a0619f-2aa7-738e-b1f4-67c8859df2f9","type":"cooldown","duration":16}

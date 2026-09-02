@@ -1,0 +1,7 @@
+{"id":"01a0619f-2aa6-7e96-a1a2-8fb350d66fb3","type":"damage","target":{"type":"enemy","range":28,"scope":"single"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"damageType":"magic"}
+{"id":"01a0619f-2aa6-73cf-9146-40eec8e74fcc","type":"apply-status","status":{"status":"knockback","distance":8,"duration":0},"target":{"type":"enemy","scope":"single"},"conditions":[{"type":"weapon-type","weaponType":"flame"}]}
+{"id":"01a0619f-2aa6-7796-bb2b-6b44453798ff","type":"apply-status","status":{"status":"stun","duration":2.5},"target":{"type":"enemy","scope":"single"},"conditions":[{"type":"weapon-type","weaponType":"flame"}]}
+{"id":"01a0619f-2aa6-7e93-bec3-894ef1d164cf","type":"apply-status","status":{"status":"taunt","duration":15},"target":{"type":"enemy","scope":"single"},"conditions":[{"type":"weapon-type","weaponType":"frost"}]}
+{"id":"01a0619f-2aa6-7833-ac58-4dae7ca9a554","type":"damage","target":{"type":"enemy","scope":"area"},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":1.5},"conditions":[{"type":"weapon-type","weaponType":"shock"}],"damageType":"shock"}
+{"id":"01a0619f-2aa6-781e-9465-571a8c19852e","type":"cast-time","duration":0.466}
+{"id":"01a0619f-2aa6-7215-b68e-5bf82738c472","type":"cooldown","duration":16}
