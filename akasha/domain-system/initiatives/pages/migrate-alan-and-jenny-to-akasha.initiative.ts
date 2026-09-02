@@ -21,7 +21,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "The note censused which store answers a read; the statement asks which engine is in the path, and both halves fail. The write half runs now: `page-query-landing.ts:14` routes to `page-write.ts` over checkout markdown, and `observation-writer-main.ts` was live, with 86 `pages/**.uncommitted.yaml` touched in an hour. The read half was severed rather than migrated at `fbf73c4710`; two entry modules were put back at `f9307ff1dc`, so importers resolve again. `askHere` is gone for good.",
+        "The write half still runs but has narrowed to one writer. Measured 09-02 near 15:00: 13 `pages/**.uncommitted.yaml` touched in an hour, down from 86, every one a `code-editor-group-tab`, `code-editor-group` or `code-editor-window`, with 2 `observation-writer-main` processes live. The last reach through the old write engine is the code editor observation writer, so the extension intent above blocks this one. The read half was severed at `fbf73c4710`; `f9307ff1dc` put two entry modules back.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
