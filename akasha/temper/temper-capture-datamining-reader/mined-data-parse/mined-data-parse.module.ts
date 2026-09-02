@@ -6,6 +6,8 @@ export const minedDataParse = {
   slug: "mined-data-parse",
   definition: "the rows a datamining capture holds, read out of the file it was saved as",
   code: "ts",
+  test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
