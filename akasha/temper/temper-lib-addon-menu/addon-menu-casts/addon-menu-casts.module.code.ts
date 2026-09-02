@@ -38,10 +38,6 @@ export function asLamControl(value: unknown): LamControl {
   return value as LamControl
 }
 
-export function asLamWidgetData(value: unknown): LamWidgetData {
-  return value as LamWidgetData
-}
-
 export function asString(value: unknown): string {
   return value as string
 }
@@ -86,10 +82,6 @@ export function asZoColorDef(value: unknown): ZoColorDef {
 
 export function asTimelineAnimation(value: unknown): TimelineAnimation {
   return value as TimelineAnimation
-}
-
-export function asZoComboBox(value: unknown): ZoComboBox {
-  return value as ZoComboBox
 }
 
 export function asLamComboBox(value: unknown): LamComboBox {
