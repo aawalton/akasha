@@ -32,7 +32,7 @@ export const help: CommandHelp = {
       valueShape: "token",
       default: "origin/main",
       description:
-        "Which revision to compile. The build makes its own checkout at this revision on the macbook, so any revision that repo can resolve is buildable. REFUSED unless --no-upload for anything but origin/main: TestFlight is what reaches a phone, and only what has landed may reach one.",
+        "Which commit to compile — and to upload. The ref is resolved ONCE, before anything is built, and the resolved commit is what both halves are handed: the www bundle the workstation builds in a detached worktree, and the checkout the macbook makes for the native shell. So a moving ref cannot be read twice and ship web assets from one commit under a shell from another. The ONLY requirement is that origin already carries the commit: the macbook builds by fetching origin into its own clone, so anything origin reaches — a branch, a tag, a sha, main or not — is buildable AND uploadable, and a commit only this workstation holds is refused whatever else is asked, because the macbook cannot check it out.",
     },
     {
       name: "--no-sync",
@@ -59,7 +59,11 @@ export const help: CommandHelp = {
     },
   ],
   exits: [
-    { code: 1, meaning: "input error: bad --build-number, or keychain password env not set" },
+    {
+      code: 1,
+      meaning:
+        "input error: bad --build-number, keychain password env not set, or a --ref naming no commit / naming one no origin ref reaches (the macbook could not check it out)",
+    },
     {
       code: 3,
       meaning:
@@ -78,6 +82,7 @@ export const help: CommandHelp = {
     "ops mobile deploy-testflight --no-sync --configuration Release",
     "ops mobile deploy-testflight --app atlas --no-upload",
     "ops mobile deploy-testflight --ref origin/change-19458 --no-upload",
+    "ops mobile deploy-testflight --ref 4f2a91c --wait",
   ],
 }
 
@@ -97,11 +102,6 @@ export default async function mobileDeployTestflight(args: readonly string[]): P
     throw inputError("--no-upload skips the upload, so there is nothing to --wait on")
   }
   const ref = parsed.requireString("--ref")
-  if (ref !== "origin/main" && !noUpload) {
-    throw inputError(
-      `--ref ${ref} builds something other than origin/main, so it may not upload — add --no-upload, or land it first`
-    )
-  }
 
   const { readKeychainPassword } = await foundation()
   const { acquireLocalCutLock, releaseLocalCutLock } = await localCutLock()

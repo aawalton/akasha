@@ -1,5 +1,5 @@
 import { codeRoot } from "./code-root.ts"
-import { operationalError } from "./exit.ts"
+import { inputError, operationalError } from "./exit.ts"
 import {
   altool,
   apps,
@@ -54,12 +54,12 @@ export async function runTestflightCut(opts: {
     readNativeShellRingCredentialEnv,
     readNativeShellWidgetEnv,
   } = await foundation()
-  const { computeBuildInputTreeHash, fetchOrigin, resolveRef, resolveRepoRoot } =
+  const { commitAt, computeBuildInputTreeHash, fetchOrigin, originReaches, resolveRepoRoot } =
     await gitTreeHash()
   const { buildInputSources } = await buildInputs()
   const { shellRepoRoot } = await apps()
   const { buildTestflightDeployScript } = await deployScript()
-  const { buildWwwFromMainTip } = await wwwBuild()
+  const { buildWwwAt } = await wwwBuild()
   const { ALTOOL_MARKERS, testflightFailureError } = await altool()
   const { STAMP_GATE_OK } = await buildStamp()
   const { parseAssignedBuildNumber } = await buildSerialization()
@@ -73,6 +73,35 @@ export async function runTestflightCut(opts: {
     VISIBILITY_TIMEOUT_MS,
     visibilityFailureFor,
   } = await testflightPoll()
+
+  // The ref is pinned to one commit per repo BEFORE anything is built, and both
+  // halves are handed that commit rather than the ref: a moving ref resolved
+  // twice (once for www here, once for the shell the mac checks out minutes
+  // later) can name two commits, and the app would ship web assets from one and
+  // a native shell from the other.
+  const codeRepoRoot = resolveRepoRoot(codeRoot())
+  const shellRoot = resolveRepoRoot(shellRepoRoot(app))
+  fetchOrigin(codeRepoRoot)
+  if (shellRoot !== codeRepoRoot) fetchOrigin(shellRoot)
+  const pinned = (repoRoot: string, repoName: string): string => {
+    const commit = commitAt(repoRoot, ref)
+    if (commit === null) {
+      throw inputError(
+        `--ref ${ref} names no commit in the ${repoName} repo at ${repoRoot}, so there is nothing to compile — name a branch, tag or sha that \`git rev-parse\` answers there`
+      )
+    }
+    if (!originReaches(repoRoot, commit)) {
+      throw inputError(
+        `--ref ${ref} is ${commit.slice(0, 12)} in the ${repoName} repo, which no origin ref reaches. The macbook builds by fetching origin into its own clone and checking that commit out there, so a commit only this workstation holds cannot be compiled — push it and re-run, or name a revision origin already carries`
+      )
+    }
+    return commit
+  }
+  const mainSha = pinned(codeRepoRoot, "code")
+  const cutCommit = pinned(shellRoot, "native shell")
+  process.stdout.write(
+    `Cut ships the shell at ${cutCommit.slice(0, 12)} over ${ref} at ${mainSha.slice(0, 12)}; binaries must carry the shell commit.\n`
+  )
 
   // One source, asked afresh for every read: the cut plus a --wait poll runs far
   // longer than any single token lives.
@@ -100,7 +129,6 @@ export async function runTestflightCut(opts: {
     }) via ${MACBOOK.user}@${MACBOOK.host}…\n`
   )
 
-  let mainSha: string | undefined
   if (sync && app.wwwStageScript !== null) {
     const stagingRel = app.macWwwStagingRel
     if (stagingRel === null) {
@@ -108,7 +136,9 @@ export async function runTestflightCut(opts: {
         `${app.slug} names a www stage script and no \`mac-www-staging-rel\`, so its page says nothing about where on the MacBook the build is staged`
       )
     }
-    process.stdout.write("Building www on the workstation from the origin/main tip…\n")
+    process.stdout.write(
+      `Building www on the workstation at ${mainSha.slice(0, 12)} (${ref})…\n`
+    )
     const wwwAt = Date.now()
     // The stage script inherits this terminal, so a client-build gate that
     // refuses — `no-node-in-client` among them — has already named its modules
@@ -116,9 +146,9 @@ export async function runTestflightCut(opts: {
     // exit code and lands as 70/unclassified, where this command's page says a
     // failed workstation www build is a 3. Named here, so the last line says
     // which step failed and where its detail is.
-    let built: Awaited<ReturnType<typeof buildWwwFromMainTip>>
+    let built: Awaited<ReturnType<typeof buildWwwAt>>
     try {
-      built = await buildWwwFromMainTip({ app, ref })
+      built = await buildWwwAt({ app, ref: mainSha })
     } catch (err) {
       throw operationalError(
         `the workstation www build failed, so nothing was staged to the MacBook and no build number was spent (${
@@ -126,26 +156,12 @@ export async function runTestflightCut(opts: {
         }). The stage script's own output is above — search the run for \`[stage-app]\` and read what follows it for the refusing gate and the modules it names.`
       )
     }
-    mainSha = built.mainSha
     process.stdout.write(
       `Staging www (main ${mainSha.slice(0, 12)}) → ${MACBOOK.user}@${MACBOOK.host}:~/${stagingRel}…\n`
     )
     await rsyncToHost(MACBOOK, built.wwwDir, stagingRel)
     process.stdout.write(`  www built and staged in ${elapsedSince(wwwAt)}\n`)
   }
-
-  const codeRepoRoot = resolveRepoRoot(codeRoot())
-  if (mainSha === undefined) {
-    fetchOrigin(codeRepoRoot)
-    mainSha = resolveRef(codeRepoRoot, ref)
-  }
-
-  const shellRoot = resolveRepoRoot(shellRepoRoot(app))
-  fetchOrigin(shellRoot)
-  const cutCommit = resolveRef(shellRoot, ref)
-  process.stdout.write(
-    `Cut ships the shell at ${cutCommit.slice(0, 12)} over ${ref} at ${mainSha.slice(0, 12)}; binaries must carry the shell commit.\n`
-  )
 
   const script = buildTestflightDeployScript({
     app,
