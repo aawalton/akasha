@@ -15,6 +15,14 @@
     "./map-data-index-03": "./map-data-index-03/map-data-index-03.module.code.ts",
     "./map-data-index": "./map-data-index/map-data-index.module.code.ts",
     "./map-data-table": "./map-data-table/map-data-table.module.code.ts",
-    "./map-data-pseudo-indices": "./map-data-pseudo-indices/map-data-pseudo-indices.module.code.ts"
+    "./map-data-pseudo-indices": "./map-data-pseudo-indices/map-data-pseudo-indices.module.code.ts",
+    "./map-data-lib-state": "./map-data-lib-state/map-data-lib-state.module.code.ts",
+    "./map-data-logger": "./map-data-logger/map-data-logger.module.code.ts",
+    "./map-data-build-tables": "./map-data-build-tables/map-data-build-tables.module.code.ts",
+    "./map-data-queries": "./map-data-queries/map-data-queries.module.code.ts",
+    "./map-data-update": "./map-data-update/map-data-update.module.code.ts",
+    "./map-data-events": "./map-data-events/map-data-events.module.code.ts",
+    "./map-data-public-api": "./map-data-public-api/map-data-public-api.module.code.ts",
+    "./map-data-main": "./map-data-main/map-data-main.module.code.ts"
   }
 }
