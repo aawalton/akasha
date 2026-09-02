@@ -14,4 +14,10 @@ export const design = {
     "workspace-package/design-system",
     "workspace-package/design-tokens",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Every design package is in akasha.",
+    },
+  ],
 } as const satisfies Domain

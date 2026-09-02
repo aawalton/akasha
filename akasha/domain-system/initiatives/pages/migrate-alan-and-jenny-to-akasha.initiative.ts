@@ -19,11 +19,6 @@ export const migrateAlanAndJennyToAkasha = {
         "The bridge in `readouts/ask-here.ts` holds, by decision. No type is refused by name: the index covers `akasha/` alone and its loader requires TypeScript, so a markdown body throws and the page is dropped unnoted. A probe served `value` from markdown in 131 lines, six rows checked on disk. It buys little: the stoplights ask by saved query, so closing this needs seven page types, a frontmatter parser akasha declares it has none of, caching, and a kebab-camel ruling with live callers each side.",
     },
     {
-      statement: "The design packages stand in akasha.",
-      workingMemory:
-        "Blocked on Alan. `shared/design-system` is gone, but `shared/design-patterns` must survive: its one module left, `src/components/query-error-boundary.tsx`, is a class extending `React.Component`, and `no-class` permits a class only where it extends `Error`. React 19 offers no function form and `getDerivedStateFromError` is class-only, at `3ecea90b8d`. Adding `react-error-boundary` or widening `no-class` needs his ruling. 5 importers, all in `temper/`. All 7 globals.css carry the outside glob.",
-    },
-    {
       statement: "`pages-ui` stands in akasha.",
       workingMemory:
         "95 modules, down from 110 at `4fc83ea1fc`, reached by 52 statements in 40 files. Manifests are no longer the block; cycles are. 47 layer cleanly and 48 sit in one ring of 24 around `badge-registry.ts`, plus `block-row.tsx` against `use-textarea-input.ts`. Nothing bars a cycle among siblings inside one akasha package, so the ring lands whole rather than being broken first. `readRelationConfig` already exists at `view-tab-content-href`; import rather than carry.",
