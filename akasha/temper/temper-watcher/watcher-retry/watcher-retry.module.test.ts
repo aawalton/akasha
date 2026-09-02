@@ -1,5 +1,15 @@
 import { expect, test } from "bun:test"
-import { backoffFor, isBusyError, MAX_RETRIES, retryOnBusy } from "./watcher-retry.module.code.ts"
+import { mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
+import {
+  backoffFor,
+  isBusyError,
+  MAX_RETRIES,
+  retryOnBusy,
+  writeFileAtomicWithRetry,
+} from "./watcher-retry.module.code.ts"
+
+const SCRATCH_AT = "/var/tmp"
 
 function busy(code: string): unknown {
   return Object.assign(new Error(code), { code })
@@ -91,4 +101,41 @@ test("the final attempt throws rather than waiting again", () => {
   ).toThrow("EBUSY")
   expect(attempts).toBe(MAX_RETRIES)
   expect(r.waits).toHaveLength(MAX_RETRIES - 1)
+})
+
+function scratch(): string {
+  return mkdtempSync(join(SCRATCH_AT, "akasha-watcher-retry-"))
+}
+
+test("a write reaches the path asked for holding what was handed in", () => {
+  const dir = scratch()
+  try {
+    const path = join(dir, "fresh.lua")
+    writeFileAtomicWithRetry(path, "Vars = {\n}")
+    expect(readFileSync(path, "utf-8")).toBe("Vars = {\n}")
+  } finally {
+    rmSync(dir, { recursive: true, force: true })
+  }
+})
+
+test("a write over a path already holding something replaces what it held", () => {
+  const dir = scratch()
+  try {
+    const path = join(dir, "existing.lua")
+    writeFileSync(path, "old content")
+    writeFileAtomicWithRetry(path, "new content")
+    expect(readFileSync(path, "utf-8")).toBe("new content")
+  } finally {
+    rmSync(dir, { recursive: true, force: true })
+  }
+})
+
+test("the path written beside is gone once the write has landed", () => {
+  const dir = scratch()
+  try {
+    writeFileAtomicWithRetry(join(dir, "clean.lua"), "Vars = {\n}")
+    expect(readdirSync(dir).filter((name) => name.includes(".tmp"))).toEqual([])
+  } finally {
+    rmSync(dir, { recursive: true, force: true })
+  }
 })
