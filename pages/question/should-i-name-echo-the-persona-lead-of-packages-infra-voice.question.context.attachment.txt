@@ -1,1 +1,0 @@
-Not blocking #15770 (echo's effectively holding it either way). If you confirm, it's a small tracked-doc fix (add echo as lead in voice-infer's CLAUDE.md) I'll capture as a follow-up project. Persona ownership is your call, so I'm not assigning it unilaterally.
