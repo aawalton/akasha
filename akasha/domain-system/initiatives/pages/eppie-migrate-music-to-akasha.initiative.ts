@@ -9,25 +9,20 @@ export const eppieMigrateMusicToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
+      statement: "The music commands are akasha commands rather than ops commands.",
+      workingMemory:
+        "Eight commands sit in `tools/commands/music/`, dispatched by `tools/ops/cli.ts` through the registry in `tools/ops/declared.ts`. `next.ts`, `rate.ts` and `collections/music/src/musicbrainz/import.ts` are the last three readers of the old `pages/`, so the old copies go once these move. `next` gives back a slug while `rate --id` takes a page id, so the loop cannot feed one to the other. Alan has said the behaviour may change rather than being carried across as it was.",
+    },
+    {
       statement:
         "Every song, artist and listen the music keeps is a page in akasha rather than in `pages/`.",
       workingMemory:
-        "1,656 song pages sit in `pages/music-song`, 30 rated, beside 1,372 lyrics and 1,340 synced-lyrics attachments; 14 artists; 12 day pages holding 698 listen rows; one heard-music page holding 678 heard-track rows, 29 of which name no Spotify track id. The queries turn on `play-key`, `spotify-track-id`, `title-key`, `played-at`, and `new-music-minutes` summed by persona and date. What is left of `collections/music` reads MusicBrainz and LRCLIB and waits on the new page writers.",
-    },
-    {
-      statement: "The music commands are akasha commands rather than ops commands.",
-      workingMemory:
-        "Eight commands sit in `tools/commands/music/`: now-playing, listening, play, queue, search, rate, next and import-artist. `tools/ops/cli.ts` dispatches them through the registry in `tools/ops/declared.ts`, which walks the folder and keys on `export const summary`. Nine `old-ops-command` pages in `pages/` document them. No `akasha music` command exists and `pages/ops-command/` is empty. Alan has said the behaviour may change rather than being carried across as it was.",
+        "1,656 songs, 14 artists and 649 heard tracks are pages under `akasha/alan/music`, and 698 listens are rows on the twelve ESO days they were played in. Every field and every attachment byte was compared against the source and matched: 23,184 song field comparisons and 4,863,694 attachment bytes. What is left is deleting `pages/music-song`, `pages/artist`, `pages/music-day` and `pages/heard-music`, which waits on the three files still reading them.",
     },
     {
       statement: "Alan's listening is captured again, onto the pages the new system keeps.",
       workingMemory:
         "The capture was not given up on: an agent overreached and deleted it in `2669aed6` on 1 September. Its five files and 475 lines come back out of `2669aed6^:collections/music/src/listening/` rather than being written again. `capture.ts` holds the drain from `getRecentlyPlayed`, and `play-row.ts` the arithmetic, including the rule that a priming run scores no first listen.",
-    },
-    {
-      statement: "Every heard track names the Spotify track id its type requires.",
-      workingMemory:
-        "29 of the 678 rows name none, and the old type called it required while the data went on without it. `heard-track-by-title-key` exists to work around exactly this.",
     },
   ],
   constraints: [
