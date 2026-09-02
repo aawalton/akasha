@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's upkeep widget shows all six stoplights.",
       workingMemory:
-        "The Swift ships and draws six rings today; the tile reads `No signal`. The gap is modelling rather than layout. `upkeep-safety` and `upkeep-surplus` dropped `upkeep` from their groupSlugs on the way in, so the group matches zero and `/api/habit-stoplights` answers 503 as a stub. Owed: an `upkeep.readout-group.ts`, four readouts and four scales for capacity, plants, activity and sleep, a reading and relay service each, and one route line. Two of six draws two rings rather than failing.",
+        "The group page, the groupSlugs restore and the route line landed at 4d6e5504e2, 221c5cc7cd and d1ddb90e0c, so the seam returns 2 of 6. Four lanes now hold capacity, plants, activity and sleep, each owed a readout page, its code, its test, a scale page and the reading and relay services. All four scales exist in markdown alone. Order: safety, surplus, capacity, plants, activity, sleep. Count what returns, since a partial migration shows fewer rings rather than failing.",
     },
     {
       statement: "Alan's inboxes stoplights and widget work.",
