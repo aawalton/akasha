@@ -65,18 +65,21 @@ export function respeltNames(text: string, named: ReadonlyMap<string, string>): 
   return splicedOver(text, namesIn(text, named))
 }
 
-export function namedOutside(root: string, base: string, named: readonly string[]): Found {
+export function namedTracked(
+  root: string,
+  base: string,
+  named: readonly string[],
+  limits: readonly string[]
+): Found {
   if (named.length === 0) return { paths: [] }
   const said = named.flatMap((one) => ["-e", one])
-  const done = ran(
-    argvFor(root, ["grep", "-l", "-I", "-z", "-F", ...said, base, "--", `:(exclude)${INSIDE}`])
-  )
+  const done = ran(argvFor(root, ["grep", "-l", "-I", "-z", "-F", ...said, base, "--", ...limits]))
   if (done.code === FOUND_NOTHING) return { paths: [] }
   if (done.code !== 0) {
     return {
       refusal:
-        `git could not say which files outside \`${INSIDE}\` carry what was asked after, so ` +
-        `nothing was judged — ${done.err.trim()}`,
+        "git could not say which tracked files carry what was asked after, so nothing was " +
+        `judged — ${done.err.trim()}`,
     }
   }
   const held = `${base}:`
@@ -92,7 +95,7 @@ export function outsideRespelt(
   named: readonly string[],
   respelling: Respelling
 ): Outside {
-  const found = namedOutside(root, base, named)
+  const found = namedTracked(root, base, named, [`:(exclude)${INSIDE}`])
   if ("refusal" in found) return found
   const respelt: Respelt[] = []
   for (const path of found.paths) {

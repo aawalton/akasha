@@ -13,6 +13,7 @@ import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
 import { wouldClear } from "../../folder-clearing/folder-clearing.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
+import { baseOf } from "../../landing/landing.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
   FILE_PATH,
@@ -22,6 +23,7 @@ import {
   messageIn,
   pathAt,
 } from "../write/write.command.code.ts"
+import { leftNaming, leftNamingSaid } from "./remove-naming/remove-naming.module.code.ts"
 
 const AKASHA = "akasha"
 
@@ -401,6 +403,8 @@ export function remove(argv: readonly string[], given: Given): Answer {
   const paths = [...held.opened, ...beside].sort()
   const gone = [...held.gone].sort()
   const already = alreadyGone(gone, read.dryRun)
+  const naming = leftNaming(root, baseOf(root), held.outside, new Set([...paths, ...gone]))
+  if ("refusal" in naming) return answering([], [naming.refusal], 1)
   if (paths.length === 0) {
     if (!read.dryRun) dropReadings(root, gone)
     return answering(
@@ -430,6 +434,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
       ...already,
       ...wentWith(held.under, beside, landed.cleared),
       ...judgedByNothing(held.outside, false),
+      ...leftNamingSaid(held.outside, naming.namers, false),
       ...mend.closed,
       ...mend.left,
     ],
@@ -444,6 +449,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
       ...mend.closed.map((one) => `${one} — and would land in the same commit`),
       ...mend.left,
       ...judgedByNothing(held.outside, true),
+      ...leftNamingSaid(held.outside, naming.namers, true),
       ...said.report,
     ],
     [],

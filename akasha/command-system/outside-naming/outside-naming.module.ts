@@ -10,8 +10,11 @@ export const outsideNaming = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Which files outside `akasha/` carry a name is answered by git rather than by the index.",
+      statement: "Which tracked files carry a name is answered by git rather than by the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the search covers is limited by the caller rather than here.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +26,7 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A path under the akasha folder is left out of the search.",
+      statement: "A path under the akasha folder is left out of a respelling.",
     },
     {
       invariantKind: "departure",

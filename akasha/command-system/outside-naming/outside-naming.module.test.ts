@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { namedOutside, outsideRespelt, respeltNames } from "./outside-naming.module.code.ts"
+import { namedTracked, outsideRespelt, respeltNames } from "./outside-naming.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -59,15 +59,17 @@ test("a package name is respelled and a longer name it only opens is left alone"
   expect(said).toBe('"@akasha/first/two" "@akasha/one-other" "@akasha/first"')
 })
 
-test("what carries a name is looked for outside the akasha folder alone", () => {
+test("what the caller leaves out of the search is left out, and the rest is looked at", () => {
   const root = world({ [OUTSIDE_AT]: SPELT, [INSIDE_AT]: SPELT })
-  const found = namedOutside(root, baseOf(root), ["akasha/one"])
-  expect("paths" in found ? found.paths : ["it refused"]).toEqual([OUTSIDE_AT])
+  const apart = namedTracked(root, baseOf(root), ["akasha/one"], [":(exclude)akasha/"])
+  expect("paths" in apart ? apart.paths : ["it refused"]).toEqual([OUTSIDE_AT])
+  const whole = namedTracked(root, baseOf(root), ["akasha/one"], [])
+  expect("paths" in whole ? whole.paths : ["it refused"]).toEqual([INSIDE_AT, OUTSIDE_AT])
 })
 
 test("a caller naming nothing is answered with no file", () => {
   const root = world({ [OUTSIDE_AT]: SPELT })
-  const found = namedOutside(root, baseOf(root), [])
+  const found = namedTracked(root, baseOf(root), [], [])
   expect("paths" in found ? found.paths : ["it refused"]).toEqual([])
 })
 
