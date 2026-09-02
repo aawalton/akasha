@@ -8,6 +8,7 @@ export const temperAddonBuild = {
   manifest: "json",
   partSlugs: [
     "module/lua-build-command",
+    "module/addon-tstl-config",
     "module/global-name-dependents",
     "module/consolidation-migrations",
   ],
@@ -23,6 +24,10 @@ export const temperAddonBuild = {
     {
       invariantKind: "departure",
       statement: "An addon folded into another carries the absorbed addon's saved variables over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An addon folder carrying no tsconfig is built from settings a build writes.",
     },
     {
       invariantKind: "gap",
