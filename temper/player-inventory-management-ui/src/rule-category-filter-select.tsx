@@ -1,6 +1,6 @@
 "use client"
 
-import { ITEM_CATEGORY_TREE } from "@temper/game-items-core/generated/item-category-tree.generated"
+import { ITEM_CATEGORY_TREE } from "@akasha/temper-items-core/item-category-tree-data"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
