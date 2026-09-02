@@ -11,7 +11,7 @@ export const awenMigrateStoryEngineToAkasha = {
     {
       statement: "Every world, story, chapter and turn the story engine keeps is a page in akasha.",
       workingMemory:
-        "Not one byte of the data has moved. 34 folders under `pages/` hold 30,341 markdown and 10,497 `.jsonl`, 40,871 files, 55.5% of every page markdown in the repo. The mass is 10,469 `*.references.jsonl` carrying 126,962 rows, then 18,073 Royal Road chapters and 4,542 skills. What was played is small: 8 games, 139 turns, 149 worlds, 123 played chapters. Mechanics carry `world-slug` and stories carry `world`, two spellings of one join.",
+        "No story page type is in akasha yet, and that blocks every page here. Entries are ready: `page-property-entry` declares a jsonl's columns, and 4,264 jsonl already sit inside. Copy `music/catalog/songs/song.page-type.ts` and `models/tests/properties/cases.page-property-entry.ts`. Counted on disk: royal-road chapters 18,082, skill 8,972, class 8,380. What Alan played is 488 files, world 151, turn 139, chapter-played 123, game 62, story-played 13, and only those cannot be fetched again.",
     },
     {
       statement: "No part of a story or a world exists only in the database.",
