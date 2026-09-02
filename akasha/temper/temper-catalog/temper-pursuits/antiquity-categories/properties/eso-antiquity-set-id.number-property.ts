@@ -14,5 +14,9 @@ export const esoAntiquitySetId = {
       invariantKind: "departure",
       statement: "A lead set is numbered apart from the item set an item belongs to.",
     },
+    {
+      invariantKind: "gap",
+      statement: "Nothing refuses an antiquity row stating `eso-set-id`.",
+    },
   ],
 } as const satisfies NumberProperty
