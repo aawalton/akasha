@@ -32,6 +32,7 @@ export const temperCharactersAddon = {
     "module/characters-known-id-lists",
     "module/characters-list",
     "module/characters-lore-library",
+    "module/characters-migrations",
     "module/characters-mount-training",
     "module/characters-placeholder-panel",
     "module/characters-player-stats",
