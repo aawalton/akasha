@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "Refusals fell 567 to 254, all in eight `temper-lib-*` modules; the shared set is clean and a new addon package lands. But an akasha eso-addon produces no Lua: `listWorkspaceDirs` throws on `akasha/**` and the resolver wants a literal `addon.json` the grammar bars, so no addon folder goes and a seat is mending the build. The seven `-ui` packages keep to `temper/web`, which `@shared/*` blocks as well. 101 folders left, 69 landed.",
+        "The declarations wall is down: typecheck answers zero, from 567. Three of the thirteen modules were wholly removable, the rest trimmed, and the shared set is self-consistent, so the ESO gate is open and a new addon package lands. But an akasha eso-addon still makes no Lua: `listWorkspaceDirs` throws on `akasha/**` and the resolver wants a literal `addon.json` the grammar bars, so no addon folder goes until that is mended. The seven `-ui` packages keep to `temper/web`, as `@shared/*` bars them.",
     },
   ],
   constraints: [
