@@ -26,6 +26,7 @@ export const temper = {
     "workspace-package/temper-saved-variables",
     "workspace-package/temper-settings-panel",
     "workspace-package/temper-capture-descriptor",
+    "eso-addon/temper-lib-alchemy-station",
   ],
   invariants: [
     {
