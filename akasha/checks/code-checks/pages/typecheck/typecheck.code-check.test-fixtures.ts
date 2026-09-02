@@ -196,6 +196,16 @@ export function declaring(): string {
   return root
 }
 
+export const DECLARED_AT = "akasha/eso-held.type-declaration.d.ts"
+
+const DECLARED_ID = "01a04f2b-3d24-70b3-8c3e-3076a9299149"
+
+export function declared(files: Readonly<Record<string, string>>): string {
+  const root = staged({ [DECLARED_AT]: "declare const HELD_ONE: number\n", ...files })
+  pathFiled(root, DECLARED_AT, [{ path: DECLARED_AT, id: DECLARED_ID }])
+  return root
+}
+
 export function change(
   root: string,
   over: Readonly<Record<string, string | null>>,

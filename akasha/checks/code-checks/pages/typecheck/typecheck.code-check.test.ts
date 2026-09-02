@@ -9,6 +9,7 @@ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { foundOf, omittingIn, reachedBy, rootsOf, typecheck } from "./typecheck.code-check.code.ts"
 import {
   change,
+  declared,
   declaring,
   EARLY,
   generating,
@@ -48,6 +49,11 @@ test("a page the change takes away leaves what its page type says loads it uncom
   if ("refused" in cast) throw new Error(cast.refused)
   expect(rootsOf(gone, cast.shadow.reading)).toEqual([])
   expect(typecheck(gone, cast.shadow)).toEqual([])
+})
+
+test("a declaration file akasha holds names a global for a change no import reaches it from", () => {
+  const root = declared({ "akasha/one.ts": "export const one = 1\n" })
+  expect(over(root, "akasha/one.ts", "export const one = HELD_ONE\n")).toEqual([])
 })
 
 test("a satisfies clause is narrowed where it stands, and the body keeps every line it had", () => {

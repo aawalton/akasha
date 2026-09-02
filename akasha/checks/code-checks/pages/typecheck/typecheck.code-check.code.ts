@@ -33,6 +33,8 @@ const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 
 const OMIT = "Omit"
 
+const DECLARED = ".d.ts"
+
 export type Found = {
   readonly path: string
   readonly reason: string
@@ -69,6 +71,11 @@ export function reachedBy(change: Change, reading?: Reading): readonly string[] 
 
 export function rootsOf(change: Change, reading?: Reading): readonly string[] {
   return reachedBy(change, reading).filter((one) => change.after(one) !== null)
+}
+
+export function declaringIn(change: Change, index: Answering): readonly string[] {
+  const held = index.everyPath()
+  return held.filter((one) => compiled(one) && one.endsWith(DECLARED) && change.after(one) !== null)
 }
 
 export type Minting = (path: string, text: string) => string
@@ -136,7 +143,8 @@ export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
   const root = resolve(change.root)
   const keys = [...waitingKeys(shadow)]
   const read = bodiesOf(change, mintingIn(change, keys, shadow.index))
-  const program = programOver(root, roots, read)
+  const named = [...new Set([...roots, ...declaringIn(change, shadow.index)])]
+  const program = programOver(root, named, read)
   const held = new Map<string, ts.SourceFile>()
   for (const file of program.getSourceFiles()) {
     const at = insideOf(root, resolve(file.fileName))

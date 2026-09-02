@@ -45,6 +45,18 @@ export const typecheck = {
       statement: "A file the change does not reach is not judged.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every declaration file akasha holds is compiled with every change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration file states globals no import reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration file compiled this way is not itself judged.",
+    },
+    {
       invariantKind: "absence",
       statement: "Its standing errors are the audit's.",
     },
