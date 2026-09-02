@@ -86,6 +86,9 @@
     },
     "akasha/agents": {
       "name": "@akasha/agents",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
     },
     "akasha/alan/chess": {
       "name": "@akasha/chess-core",
