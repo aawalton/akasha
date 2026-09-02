@@ -1416,6 +1416,19 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-player-completion-ui": {
+      "name": "@akasha/temper-player-completion-ui",
+      "dependencies": {
+        "@akasha/design-badges": "workspace:*",
+        "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
+        "@akasha/temper-player-completion": "workspace:*",
+        "lucide-react": "^0.576.0",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
+      },
+    },
     "akasha/temper/temper-quests-trace": {
       "name": "@akasha/temper-quests-trace",
       "dependencies": {
@@ -2761,19 +2774,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-housing-addon": {
-      "name": "@temper/game-housing-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-      },
-      "devDependencies": {
-        "@akasha/temper-lua-runner": "workspace:*",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-items-addon": {
       "name": "@temper/game-items-addon",
       "version": "0.1.0",
@@ -3252,15 +3252,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/shared-addon-libraries-lib-map-data": {
-      "name": "@temper/shared-addon-libraries-lib-map-data",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-lua-runner": "workspace:*",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/shared-addon-libraries-lib-scrollable-menu": {
       "name": "@temper/shared-addon-libraries-lib-scrollable-menu",
       "version": "0.1.0",
@@ -3290,24 +3281,6 @@
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/shared-addon-libraries-lib-treasure": {
-      "name": "@temper/shared-addon-libraries-lib-treasure",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-lua-runner": "workspace:*",
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/shared-addon-libraries-lib-zone": {
-      "name": "@temper/shared-addon-libraries-lib-zone",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-lua-runner": "workspace:*",
         "typescript": "^5.8.3",
       },
     },
@@ -3854,6 +3827,8 @@
     "@akasha/temper-player-completion": ["@akasha/temper-player-completion@workspace:akasha/temper/temper-player-completion"],
 
     "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:akasha/temper/temper-player-completion-state"],
+
+    "@akasha/temper-player-completion-ui": ["@akasha/temper-player-completion-ui@workspace:akasha/temper/temper-player-completion-ui"],
 
     "@akasha/temper-quests-trace": ["@akasha/temper-quests-trace@workspace:akasha/temper/temper-quests-trace"],
 
@@ -4577,8 +4552,6 @@
 
     "@temper/game-crafting-addon": ["@temper/game-crafting-addon@workspace:temper/game-crafting-addon"],
 
-    "@temper/game-housing-addon": ["@temper/game-housing-addon@workspace:temper/game-housing-addon"],
-
     "@temper/game-items-addon": ["@temper/game-items-addon@workspace:temper/game-items-addon"],
 
     "@temper/game-items-core": ["@temper/game-items-core@workspace:temper/game-items-core"],
@@ -4625,17 +4598,11 @@
 
     "@temper/shared-addon-libraries-lib-extended-journal": ["@temper/shared-addon-libraries-lib-extended-journal@workspace:temper/shared-addon-libraries-lib-extended-journal"],
 
-    "@temper/shared-addon-libraries-lib-map-data": ["@temper/shared-addon-libraries-lib-map-data@workspace:temper/shared-addon-libraries-lib-map-data"],
-
     "@temper/shared-addon-libraries-lib-scrollable-menu": ["@temper/shared-addon-libraries-lib-scrollable-menu@workspace:temper/shared-addon-libraries-lib-scrollable-menu"],
 
     "@temper/shared-addon-libraries-lib-sets": ["@temper/shared-addon-libraries-lib-sets@workspace:temper/shared-addon-libraries-lib-sets"],
 
     "@temper/shared-addon-libraries-lib-sets-scripts": ["@temper/shared-addon-libraries-lib-sets-scripts@workspace:temper/shared-addon-libraries-lib-sets-scripts"],
-
-    "@temper/shared-addon-libraries-lib-treasure": ["@temper/shared-addon-libraries-lib-treasure@workspace:temper/shared-addon-libraries-lib-treasure"],
-
-    "@temper/shared-addon-libraries-lib-zone": ["@temper/shared-addon-libraries-lib-zone@workspace:temper/shared-addon-libraries-lib-zone"],
 
     "@temper/shared-build-deploy-checks": ["@temper/shared-build-deploy-checks@workspace:temper/shared-build-deploy-checks"],
 
