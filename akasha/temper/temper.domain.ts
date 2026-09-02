@@ -70,6 +70,7 @@ export const temper = {
     "workspace-package/temper-capture-perf",
     "workspace-package/temper-trading-post",
     "workspace-package/temper-addon-init",
+    "workspace-package/temper-bit-codec",
   ],
   invariants: [
     {
