@@ -2,7 +2,9 @@
   "name": "@akasha/temper-lib-sets",
   "private": true,
   "type": "module",
-  "exports": {},
+  "exports": {
+    "./main": "./lib-sets-main/lib-sets-main.module.code.ts"
+  },
   "dependencies": {
     "@akasha/temper-eso-types": "workspace:*"
   }

@@ -7,6 +7,7 @@ export const temperLibSets = {
   definition: "an addon library naming every gear set in the game and saying where each one drops",
   manifest: "json",
   addonManifest: "json",
+  bundleEntrySlug: "lib-sets-main",
   partSlugs: [
     "module/lib-sets-casts",
     "module/lib-sets-bool-pair",
