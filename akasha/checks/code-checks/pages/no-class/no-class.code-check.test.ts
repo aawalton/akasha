@@ -6,6 +6,8 @@ const ROOT = "/repo"
 
 const given = bodiesIn(ROOT)
 
+const DERIVED = "  static getDerivedStateFromError(error: Error) {\n    return { error }\n  }\n"
+
 test("a file declaring no class is let through", () => {
   expect(
     reasonsIn(given("akasha/held.ts", "export function one(): number {\n  return 1\n}\n"))
@@ -63,6 +65,67 @@ test("a class extending `Error` while implementing something is still let throug
 
 test("a class named `Error` that extends nothing is refused", () => {
   expect(reasonsIn(given("akasha/held.ts", "class Error {}\n"))).toHaveLength(1)
+})
+
+test("a class extending `React.Component` that declares the static member is let through", () => {
+  const body = `export class Held extends React.Component {\n${DERIVED}}\n`
+  expect(reasonsIn(given("akasha/held.tsx", body))).toEqual([])
+})
+
+test("the boundary is let through with its two type arguments written", () => {
+  const body = `export class Held extends React.Component<Props, State> {\n${DERIVED}}\n`
+  expect(reasonsIn(given("akasha/held.tsx", body))).toEqual([])
+})
+
+test("a class extending a bare `Component` is let through on the same terms", () => {
+  const body = `class Held extends Component {\n${DERIVED}}\n`
+  expect(reasonsIn(given("akasha/held.tsx", body))).toEqual([])
+})
+
+test("the static member is read as a property as well as a method", () => {
+  const held = "  static getDerivedStateFromError = (error: Error) => ({ error })\n"
+  const body = `class Held extends React.Component {\n${held}}\n`
+  expect(reasonsIn(given("akasha/held.tsx", body))).toEqual([])
+})
+
+test("a class extending `React.Component` that declares no static member is refused", () => {
+  const said = reasonsIn(given("akasha/held.tsx", "class Held extends React.Component {}\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("which extends `React.Component`")
+  expect(said[0]).toContain("no `static getDerivedStateFromError`")
+})
+
+test("a member of that name that is not static leaves the class refused", () => {
+  const held = "  getDerivedStateFromError(error: Error) {\n    return { error }\n  }\n"
+  const body = `class Held extends React.Component {\n${held}}\n`
+  expect(reasonsIn(given("akasha/held.tsx", body))).toHaveLength(1)
+})
+
+test("`componentDidCatch` alone leaves the class refused", () => {
+  const held = "  componentDidCatch(error: Error) {\n    report(error)\n  }\n"
+  const body = `class Held extends React.Component {\n${held}}\n`
+  expect(reasonsIn(given("akasha/held.tsx", body))).toHaveLength(1)
+})
+
+test("the static member alone lets nothing through, whatever the class extends", () => {
+  const ledger = `class Held extends Ledger {\n${DERIVED}}\n`
+  expect(reasonsIn(given("akasha/held.tsx", ledger))).toHaveLength(1)
+  const bare = `class Held {\n${DERIVED}}\n`
+  expect(reasonsIn(given("akasha/held.tsx", bare))).toHaveLength(1)
+})
+
+test("a class extending a `Component` of another name is refused", () => {
+  const body = `class Held extends Preact.Component {\n${DERIVED}}\n`
+  const said = reasonsIn(given("akasha/held.tsx", body))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("which extends `Preact.Component`")
+})
+
+test("a class expression is refused even where it holds the boundary shape", () => {
+  const body = `const one = class extends React.Component {\n${DERIVED}}\n`
+  const said = reasonsIn(given("akasha/held.tsx", body))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("a class expression is a class")
 })
 
 test("a file that is not TypeScript is passed over", () => {
