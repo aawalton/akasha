@@ -9,12 +9,16 @@ import { partedIn } from "@akasha/pages-system/page-file-name"
 import type { Value } from "@akasha/pages-system/page-value"
 import { valuesOver } from "@akasha/pages-system/page-value"
 import ts from "typescript"
+import { counted } from "../../../asking/asking.module.code.ts"
 import type { Spot } from "../../refactor/type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../../refactor/type-renaming/type-renaming.module.code.ts"
+import { namesStill } from "../../refactor/type-respelling/type-respelling.module.code.ts"
 
 const SLUG = "slug"
 
 const PAGE_TYPE = "page-type"
+
+const LEFT = 12
 
 export type Renaming = {
   readonly id: string
@@ -169,4 +173,74 @@ export function addressingOver(
     }
   }
   return found
+}
+
+export type Spelling = {
+  readonly path: string
+  readonly line: number | null
+}
+
+export type Unrepointed = {
+  readonly renaming: Renaming
+  readonly spellings: readonly Spelling[]
+}
+
+type Written = { readonly path: string; readonly body: Uint8Array | null }
+
+export function spellingsStill(
+  paths: readonly string[],
+  was: string,
+  textOf: (path: string) => string | null
+): readonly Spelling[] {
+  const found: Spelling[] = []
+  for (const path of paths) {
+    if (namesStill(path, was).length > 0) found.push({ path, line: null })
+    const text = textOf(path)
+    if (text === null) continue
+    for (const line of namesStill(text, was)) found.push({ path, line })
+  }
+  return found
+}
+
+export function unrepointedIn(
+  renamings: readonly Renaming[],
+  moved: ReadonlyMap<string, string>,
+  paths: () => readonly string[],
+  changes: readonly Written[],
+  textOf: (path: string) => string | null
+): readonly Unrepointed[] {
+  if (renamings.length === 0) return []
+  const wrote = new Map<string, string>()
+  for (const one of changes) {
+    if (one.body !== null) wrote.set(one.path, new TextDecoder().decode(one.body))
+  }
+  const scanned = [...new Set([...paths(), ...moved.values()])]
+    .filter((one) => !moved.has(one))
+    .sort()
+  const at = (path: string): string | null => wrote.get(path) ?? textOf(path)
+  return renamings.map((one) => ({
+    renaming: one,
+    spellings: spellingsStill(scanned, one.was, at),
+  }))
+}
+
+export function unrepointedSaid(held: readonly Unrepointed[], dry: boolean): readonly string[] {
+  const report: string[] = []
+  for (const one of held) {
+    const found = one.spellings
+    const was = one.renaming.was
+    if (found.length === 0) {
+      report.push(`nothing else spells the old slug \`${was}\``)
+      continue
+    }
+    report.push(
+      `${counted(found.length, "place")} still ${found.length === 1 ? "spells" : "spell"} the old ` +
+        `slug \`${was}\` and ${dry ? "would go" : "went"} unrepointed — read each and judge it`
+    )
+    for (const at of found.slice(0, LEFT)) {
+      report.push(at.line === null ? `  ${at.path} — the path itself` : `  ${at.path}:${at.line}`)
+    }
+    if (found.length > LEFT) report.push(`  and ${found.length - LEFT} more`)
+  }
+  return report
 }

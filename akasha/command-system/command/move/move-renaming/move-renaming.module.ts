@@ -56,6 +56,19 @@ export const moveRenaming = {
       statement: "An address is rewritten in the form the address was written in.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Where the old slug is still spelled after a rename is answered rather than changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path spelling the old slug is answered beside the bodies spelling that slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move renaming no slug is answered with no spelling.",
+    },
+    {
       invariantKind: "absence",
       statement: "An address spelled as an id is left as that address stands.",
     },

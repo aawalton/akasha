@@ -20,6 +20,7 @@ import {
   DEEP,
   DEEPER,
   filedAt,
+  GAMMA,
   GLASSED,
   git,
   givenIn,
@@ -170,7 +171,7 @@ test("an unanswerable index leaves the importers as they stand and says so", () 
   expect(told(said)).toContain("none were repointed")
 })
 
-test("a rename carries the page, restates its slug, and repoints what names it", () => {
+test("a rename restates its slug, repoints what names it, and names what it left", () => {
   const { root, said } = renamed()
   expect(said.refusals).toEqual([])
   expect(there(root, THING)).toBe(false)
@@ -183,6 +184,8 @@ test("a rename carries the page, restates its slug, and repoints what names it",
   expect(filedAt(root, "renamed")).toEqual([THING_AT])
   expect(namersIn(root, AAAA)).toEqual(NAMERS)
   expect(told(said)).toContain("renamed from the slug `held` to `renamed`")
+  expect(told(said)).toContain("still spells the old slug `held`")
+  expect(told(said)).toContain(GAMMA)
   expect(THING_BESIDE.map((one) => there(root, one))).toEqual([false, true])
   expect(bodyIn(root, THING_BESIDE[1] ?? "")).toContain("const renamed")
 })

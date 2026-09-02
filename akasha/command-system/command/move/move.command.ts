@@ -41,6 +41,7 @@ export const move = {
     "a way in whose file leaves the package is taken out of that manifest.",
     "a package folder that moves is reached again where it arrives, before anything is judged.",
     "a value beside a renamed page named for its old slug is renamed with it.",
+    "a spelling of the old slug it cannot judge to be an address is named rather than changed.",
     "a path is read against the repository root, wherever the call was made.",
   ],
   invariants: [
@@ -188,6 +189,23 @@ export const move = {
       invariantKind: "departure",
       statement:
         "Whether a rename leaves an edge naming nobody is answered by the checks rather than here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer names every place that still spells a renamed page's old slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A place still spelling the old slug is reported rather than refusing the move.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Where a body still spells the old slug is answered by the line that slug sits on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path still spelling the old slug is answered as the path itself.",
     },
     {
       invariantKind: "absence",

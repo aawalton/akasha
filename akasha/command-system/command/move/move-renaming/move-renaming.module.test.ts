@@ -10,6 +10,8 @@ import {
   respelled,
   restated,
   statedIn,
+  unrepointedIn,
+  unrepointedSaid,
 } from "./move-renaming.module.code.ts"
 
 const AT = "akasha/one/held.thing.ts"
@@ -103,4 +105,62 @@ test("only the quoted text an address was written as is written back", () => {
     'export const it = { names: ["thing/renamed"], definition: "thing/held is not" }\n'
   )
   expect(respelled(AT, body, new Map())).toBe(body)
+})
+
+const ONE = { id: AAAA, was: "held", now: "renamed", pageTypeSlug: "thing" }
+
+const NOTHING: ReadonlyMap<string, string> = new Map()
+
+test("a spelling the rename left behind is answered with where that spelling sits", () => {
+  const bodies = new Map([[AT, 'export const THE = "held"\n']])
+  const paths = [AT, "akasha/one/other.thing.ts"]
+  const said = unrepointedIn(
+    [ONE],
+    NOTHING,
+    () => paths,
+    [],
+    (path) => bodies.get(path) ?? null
+  )
+  expect(said[0]?.spellings).toEqual([
+    { path: AT, line: null },
+    { path: AT, line: 1 },
+  ])
+  expect(
+    unrepointedIn(
+      [],
+      NOTHING,
+      () => paths,
+      [],
+      () => null
+    )
+  ).toEqual([])
+})
+
+test("what a body the move rewrote spells is read from what the move would leave", () => {
+  const at = "akasha/one/other.thing.ts"
+  const body = new TextEncoder().encode("export const it = 1\n")
+  const said = unrepointedIn(
+    [ONE],
+    NOTHING,
+    () => [at],
+    [{ path: at, body }],
+    () => 'x = "held"'
+  )
+  expect(said[0]?.spellings).toEqual([])
+})
+
+test("a rename names what it left unrepointed rather than refusing the move", () => {
+  const spellings = [
+    { path: AT, line: null },
+    { path: AT, line: 4 },
+  ]
+  const one = { renaming: ONE, spellings }
+  expect(unrepointedSaid([one], false)).toEqual([
+    "2 places still spell the old slug `held` and went unrepointed — read each and judge it",
+    `  ${AT} — the path itself`,
+    `  ${AT}:4`,
+  ])
+  expect(unrepointedSaid([{ renaming: ONE, spellings: [] }], true)).toEqual([
+    "nothing else spells the old slug `held`",
+  ])
 })

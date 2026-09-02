@@ -19,7 +19,7 @@ import { glassIn, messageIn, pathInside } from "../write/write.command.code.ts"
 import { FROM, pairsIn, TO, VALUED } from "./move-arguing/move-arguing.module.code.ts"
 import { manifestingOver } from "./move-manifesting/move-manifesting.module.code.ts"
 import { outsideIn, outsideSaid } from "./move-outside/move-outside.module.code.ts"
-import type { Renaming } from "./move-renaming/move-renaming.module.code.ts"
+import type { Renaming, Unrepointed } from "./move-renaming/move-renaming.module.code.ts"
 import {
   addressingOver,
   besideRenamed,
@@ -27,6 +27,8 @@ import {
   renamingFor,
   respelled,
   restated,
+  unrepointedIn,
+  unrepointedSaid,
 } from "./move-renaming/move-renaming.module.code.ts"
 import { repointed } from "./move-repointing/move-repointing.module.code.ts"
 import type { Pair, Spread } from "./move-spreading/move-spreading.module.code.ts"
@@ -111,6 +113,7 @@ type Reached = {
   readonly unread: string | null
   readonly outside: readonly string[]
   readonly reaching: readonly string[]
+  readonly left: readonly Unrepointed[]
 }
 
 function sidedIn(
@@ -238,6 +241,7 @@ function carrying(
         `${dry ? "would be" : "was"} repointed — ${reached.repointed.join(", ")}`
     )
   }
+  report.push(...unrepointedSaid(reached.left, dry))
   if (reached.unread !== null) report.push(reached.unread)
   report.push(...outsideSaid(reached.outside, reached.reaching, dry))
   return report
@@ -365,6 +369,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     carries.push({ was: path, now: path, from: blobIdOf(held) })
     changes.push({ path, body: new TextEncoder().encode(next), carried: true })
   }
+  const left = unrepointedIn(renamings, moved, () => everyPath(root), changes, bodyText)
   const named = new Map([...spread.folders.map((one) => [one.from, one.to] as const), ...moved])
   const outside = outsideIn(root, base, named)
   if ("refusal" in outside) return answering([], [outside.refusal], 1)
@@ -375,6 +380,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     unread: "unread" in reading ? reading.unread : null,
     outside: outside.paths,
     reaching: outside.reaching,
+    left,
   }
   const message =
     said.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`

@@ -240,6 +240,8 @@ export const ALPHA = "akasha/six/alpha.thing.ts"
 
 export const BETA = "akasha/six/beta.thing.ts"
 
+export const GAMMA = "akasha/held/gamma.thing.ts"
+
 export const SLUG_RENAME = ["--from", THING, "--to", THING_AT]
 
 export const FOLDER = "akasha/one"
@@ -413,6 +415,7 @@ export function renaming(names = '"thing/held"'): string {
     [THING_BESIDE[0] ?? ""]: "export const held = 1\n",
     [ALPHA]: thingPage("alpha", idOf("11"), names),
     [BETA]: thingPage("beta", idOf("12"), '"held"'),
+    [GAMMA]: thingPage("gamma", idOf("13"), '"thing/alpha"'),
   })
   rebuiltIn(root, TREE)
   for (const slug of ["relation-resolves", "page-named-as-stated"]) judging(root, slug)
