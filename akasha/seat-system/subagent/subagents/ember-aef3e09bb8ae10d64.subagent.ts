@@ -1,0 +1,11 @@
+import type { Subagent } from "../subagent.page-type.ts"
+
+export const emberAef3e09bb8ae10d64 = {
+  id: "01a062f1-0aae-7c94-9f6e-b04f01c0c482",
+  pageTypeSlug: "subagent",
+  slug: "ember-aef3e09bb8ae10d64",
+  principalSeatName: "ember",
+  assignmentSlug: "initiative/ember-migrate-temper-to-akasha",
+  dispatchedAs: "general-purpose",
+  agentId: "01a05d8a-1c75-7000-9939-9bad7b3cca39--aef3e09bb8ae10d64",
+} as const satisfies Subagent
