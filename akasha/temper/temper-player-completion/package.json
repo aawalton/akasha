@@ -84,6 +84,7 @@
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-skill-morphs": "workspace:*",
     "@akasha/temper-skill-morphs-access": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils-narrow": "workspace:*",
+    "fast-check": "^4.5.3"
   }
 }

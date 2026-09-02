@@ -6,6 +6,7 @@ export const completionMergeForward = {
   slug: "completion-merge-forward",
   definition: "folding a fresh reading of a player's progress into what was already counted",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",

@@ -1727,6 +1727,7 @@
         "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/temper-skill-morphs-access": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
+        "fast-check": "^4.5.3",
       },
     },
     "akasha/temper/temper-player-completion-skills-morphs-ui": {
