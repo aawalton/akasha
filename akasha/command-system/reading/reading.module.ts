@@ -30,6 +30,18 @@ export const reading = {
     },
     {
       invariantKind: "departure",
+      statement: "A line carries how far into the body the agent has read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line carrying no reach into the body means the whole body reached the agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading carrying a reach into the body answers no body.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An object id is git's own over the bytes that were read.",
     },
     {
@@ -66,6 +78,10 @@ export const reading = {
       invariantKind: "departure",
       statement:
         "A reading is carried only where the body it holds is the one the mechanical change started from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mechanical change carries how far into the body the agent had read.",
     },
     {
       invariantKind: "departure",

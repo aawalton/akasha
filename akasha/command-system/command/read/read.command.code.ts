@@ -8,10 +8,24 @@ import {
   blobIdOf,
   type Discard,
   discarded,
+  partly,
   type Reading,
+  reachOf,
   readingIn,
   recordRead,
 } from "../../reading/reading.module.code.ts"
+import type { Run } from "./long-body/long-body.module.code.ts"
+import {
+  countLines,
+  linesOf,
+  moreCall,
+  numbered,
+  overCost,
+  runFrom,
+  runLines,
+  tooWide,
+  widthOf,
+} from "./long-body/long-body.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 
@@ -22,8 +36,6 @@ const FULL = "--full"
 const SEAT = "--seat"
 
 const INSIDE = "akasha"
-
-const NUMBER_WIDTH = 6
 
 const LEADING = 8
 
@@ -65,7 +77,7 @@ type Aimed = {
 
 export function costOf(lines: readonly string[]): number {
   let total = 0
-  for (const line of lines) total += new TextEncoder().encode(line).length + 1
+  for (const line of lines) total += widthOf(line)
   return total
 }
 
@@ -153,18 +165,6 @@ function leadingOf(bytes: Uint8Array): string {
   return [...bytes.subarray(0, LEADING)].map((one) => one.toString(16).padStart(2, "0")).join("")
 }
 
-function countLines(body: string): number {
-  if (body === "") return 0
-  const lines = body.split("\n")
-  return lines[lines.length - 1] === "" ? lines.length - 1 : lines.length
-}
-
-function numbered(body: string): string {
-  const lines = body.split("\n")
-  if (lines[lines.length - 1] === "") lines.pop()
-  return lines.map((line, at) => `${String(at + 1).padStart(NUMBER_WIDTH)}\t${line}`).join("\n")
-}
-
 function alreadyOf(named: string, bytes: Uint8Array): string {
   const text = textOf(bytes)
   const held = text === null ? 0 : countLines(text)
@@ -205,8 +205,9 @@ export function tellingWith(
   seen: Reading | null,
   was: Uint8Array | null
 ): readonly string[] {
-  if (seen === null) return linesFor(named, bytes)
-  if (seen.oid === oid) return [alreadyOf(named, bytes)]
+  const held = seen !== null && partly(seen) && seen.oid !== oid ? null : seen
+  if (held === null) return linesFor(named, bytes)
+  if (held.oid === oid) return partly(held) ? linesFor(named, bytes) : [alreadyOf(named, bytes)]
   const text = textOf(bytes)
   if (text === null) return linesFor(named, bytes)
   if (was === null) return wholeOf(named, text, NOT_IN_GIT)
@@ -228,6 +229,34 @@ function tellingOf(
 ): readonly string[] {
   const asked = seen === null || seen.oid === oid ? null : seen.oid
   return tellingWith(named, bytes, oid, seen, asked === null ? null : bodyRead(root, asked))
+}
+
+export type Longing = {
+  readonly calledAs: string
+  readonly named: string
+  readonly text: string
+  readonly after: number
+  readonly budget: number
+}
+
+export type Longed = {
+  readonly lines: readonly string[]
+  readonly run: Run | null
+  readonly refusal: string | null
+}
+
+export function longAnswer(one: Longing): Longed {
+  const lines = linesOf(one.text)
+  const run = runFrom(lines, one.after, one.budget)
+  if (run === null) {
+    return { lines: [], run: null, refusal: tooWide(one.named, lines, one.after, one.budget) }
+  }
+  const said = [...runLines(one.named, run), ...moreCall(one.calledAs, one.named, run)]
+  return { lines: said, run, refusal: null }
+}
+
+export function reachedTo(run: Run): number | null {
+  return run.through === run.of ? null : run.through
 }
 
 export function readWith(argv: readonly string[], given: Given, thrown: Discard | null): Answer {
@@ -276,16 +305,35 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard 
     const seen = meant.full ? null : readingIn(given.root, agentId, at)
     const lines = tellingOf(given.root, named, bytes, oid, seen)
     const cost = costOf(lines)
-    if (cost > ANSWER_CEILING) {
-      refusals.push(
-        `${named} — its ${cost} bytes are past the ${ANSWER_CEILING} one answer holds, so the body ` +
-          "would reach nobody. A read takes no line range, so no call returns it: a file this long is " +
-          "split before it is read"
-      )
-      failed = true
-      continue
-    }
     const rest = queue.slice(order)
+    const text = textOf(bytes)
+    if (cost > ANSWER_CEILING && text !== null) {
+      if (taken > 0) {
+        left = rest
+        break
+      }
+      const over = queue.slice(order + 1)
+      const away =
+        costOf(restCall(given.calledAs, over)) + overCost(given.calledAs, named, countLines(text))
+      const after = seen !== null && seen.oid === oid ? (reachOf(seen.readThrough) ?? 0) : 0
+      const budget = Math.max(ANSWER_CEILING - spent - away, 0)
+      const long = longAnswer({ calledAs: given.calledAs, named, text, after, budget })
+      if (long.run === null) {
+        refusals.push(long.refusal ?? "")
+        failed = true
+        continue
+      }
+      report.push(...long.lines)
+      left = over
+      recordRead(given.root, agentId, {
+        path: at,
+        oid,
+        seenAt: Date.now(),
+        mechanicalOid: null,
+        readThrough: reachedTo(long.run),
+      })
+      break
+    }
     if (taken > 0 && spent + cost + costOf(restCall(given.calledAs, rest)) > ANSWER_CEILING) {
       left = rest
       break
@@ -293,7 +341,7 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard 
     report.push(...lines)
     spent += cost
     taken += 1
-    if (textOf(bytes) !== null) {
+    if (text !== null) {
       recordRead(given.root, agentId, {
         path: at,
         oid,

@@ -10,6 +10,7 @@ export const read = {
   test: "ts",
   testFixtures: "ts",
   changeKindSlug: "change-none",
+  partSlugs: ["module/long-body"],
   taking: [
     { said: "--file-path <path>", takes: "a file under `akasha/` to read" },
     { said: "--full", takes: "the whole body, whatever your record holds" },
@@ -20,6 +21,8 @@ export const read = {
     "a body your record already holds comes back as one line rather than the file.",
     "a body that moved since your record holds it comes back as what changed, where that is shorter.",
     "a read takes no line range, and one answer holds 28000 bytes.",
+    "a body longer than that comes back a run of lines at a time, and the same call takes the next run.",
+    "a body read in part answers no write until the whole of it has reached you.",
     "a path is read against the repository root, wherever the call was made.",
   ],
   invariants: [
@@ -72,7 +75,40 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A body past what one answer holds returns what the body is.",
+      statement: "A body past what one answer holds comes back a run of lines at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run of lines begins after the line the record holds as read.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run of lines short of the last line says nothing past that line reached the reader.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run of lines short of the last line is recorded as how far the body reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body reaching its last line is recorded as a body read whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body recorded as read in part is a body no record shows the agent read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body read in part whose bytes moved is begun again at its first line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body longer than one answer holds comes back alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line no answer has room for is refused rather than divided.",
     },
     {
       invariantKind: "departure",

@@ -39,6 +39,7 @@ export type Reading = {
   readonly oid: string
   readonly seenAt: number
   readonly mechanicalOid: string | null
+  readonly readThrough?: number | null
 }
 
 export type Carry = {
@@ -64,19 +65,32 @@ export function readingFileAt(root: string, agentId: string, path: string): stri
   return join(root, READS_AT, "agent", "id", agentId, "path", `${path}.jsonl`)
 }
 
+export function reachOf(said: unknown): number | null {
+  return typeof said === "number" && Number.isInteger(said) && said > 0 ? said : null
+}
+
+export function partly(held: Reading | null): boolean {
+  return held !== null && reachOf(held.readThrough) !== null
+}
+
+function withReach(said: Reading, through: number | null): Reading {
+  return through === null ? said : { ...said, readThrough: through }
+}
+
 function readingOf(value: unknown): Reading | null {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return null
-  const { path, oid, seenAt, mechanicalOid } = value as {
+  const { path, oid, seenAt, mechanicalOid, readThrough } = value as {
     path?: unknown
     oid?: unknown
     seenAt?: unknown
     mechanicalOid?: unknown
+    readThrough?: unknown
   }
   if (typeof path !== "string" || path === "") return null
   if (typeof oid !== "string" || oid === "") return null
   if (typeof seenAt !== "number" || !Number.isFinite(seenAt)) return null
   const left = typeof mechanicalOid === "string" && mechanicalOid !== "" ? mechanicalOid : null
-  return { path, oid, seenAt, mechanicalOid: left }
+  return withReach({ path, oid, seenAt, mechanicalOid: left }, reachOf(readThrough))
 }
 
 export function readingIn(root: string, agentId: string, path: string): Reading | null {
@@ -102,12 +116,14 @@ export function recordRead(root: string, agentId: string, held: Reading): undefi
 }
 
 export function sameBody(held: Reading | null, oid: string): boolean {
-  return held !== null && (held.oid === oid || held.mechanicalOid === oid)
+  if (held === null || partly(held)) return false
+  return held.oid === oid || held.mechanicalOid === oid
 }
 
 export function carriedInto(held: Reading, carry: Carry, to: string): Reading | null {
   if ((held.mechanicalOid ?? held.oid) !== carry.from) return null
-  return { path: carry.now, oid: held.oid, seenAt: held.seenAt, mechanicalOid: to }
+  const said = { path: carry.now, oid: held.oid, seenAt: held.seenAt, mechanicalOid: to }
+  return withReach(said, reachOf(held.readThrough))
 }
 
 export function agentIdsIn(root: string): readonly string[] {

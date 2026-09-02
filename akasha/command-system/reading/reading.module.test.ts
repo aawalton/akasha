@@ -12,6 +12,7 @@ import {
   carryReadings,
   discardedBy,
   dropReadings,
+  partly,
   READS_AT,
   readingFileAt,
   readingIn,
@@ -305,4 +306,40 @@ test("output alone in a file is a redirect", () => {
 test("output at a terminal reaches whoever asked", () => {
   const out = opening({ dev: 5, ino: 5, isFile: () => false })
   expect(discardedBy(out, ELSEWHERE, NOWHERE)).toBeNull()
+})
+
+test("a line carrying no reach into the body means the whole body reached the agent", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  thinAt(root, A, { path: A, oid: "abc", seenAt: 1, mechanicalOid: null })
+  const held = readingIn(root, AGENT, A)
+  expect(partly(held)).toBe(false)
+  expect(sameBody(held, "abc")).toBe(true)
+})
+
+test("a reach into the body is written and read back", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  recordRead(root, AGENT, { path: A, oid: "abc", seenAt: 1, mechanicalOid: null, readThrough: 42 })
+  expect(readingIn(root, AGENT, A)?.readThrough).toBe(42)
+})
+
+test("a reading carrying a reach into the body answers no body", () => {
+  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: "two", readThrough: 5 }
+  expect(sameBody(held, "one")).toBe(false)
+  expect(sameBody(held, "two")).toBe(false)
+  expect(sameBody({ ...held, readThrough: null }, "one")).toBe(true)
+})
+
+test("a reach that is no whole line count is no reach", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  for (const said of [0, -1, 1.5, "7", null]) {
+    thinAt(root, A, { path: A, oid: "abc", seenAt: 1, mechanicalOid: null, readThrough: said })
+    expect(partly(readingIn(root, AGENT, A))).toBe(false)
+  }
+})
+
+test("a mechanical change carries how far into the body the agent had read", () => {
+  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: "two", readThrough: 9 }
+  const carried = carriedInto(held, { was: A, now: B, from: "two" }, "three")
+  expect(carried?.readThrough).toBe(9)
+  expect(sameBody(carried, "three")).toBe(false)
 })

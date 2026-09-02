@@ -4,9 +4,12 @@ import { SEEDED_AT } from "@akasha/context-system/warranting/testing"
 import { listedFiled } from "@akasha/indexes/testing"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { mintedId } from "@akasha/testing-system/minting"
+import { said as saying } from "@akasha/utils-run/running"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { blobIdOf } from "../../reading/reading.module.code.ts"
+import type { Reading } from "../../reading/reading.module.code.ts"
+import { blobIdOf, partly, readingIn } from "../../reading/reading.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import { numbered } from "./long-body/long-body.module.code.ts"
 import {
   ANSWER_CEILING,
   costOf,
@@ -24,6 +27,10 @@ export const TAKING = readCommand.taking
 export const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"
 
 export const HELD = "akasha/one/held.ts"
+
+export const LONG = "akasha/one/long.ts"
+
+export const LONG_LINES = 600
 
 export const MANY = 12
 
@@ -55,6 +62,88 @@ export const bodyOf = bytesOf
 
 export function read(argv: readonly string[], given: Given): Answer {
   return readWith(argv, given, null)
+}
+
+export function heldRoot(body = "one\n"): string {
+  return rootWith([{ at: HELD, body }])
+}
+
+export function namingEach(paths: readonly string[]): readonly string[] {
+  const said: string[] = []
+  for (const one of paths) said.push("--file-path", one)
+  return said
+}
+
+export function committed(root: string, path: string): undefined {
+  for (const one of [
+    ["init", "--quiet"],
+    ["add", "--", path],
+    ["-c", "user.email=h@a", "-c", "user.name=h", "commit", "--quiet", "-m", path, "--", path],
+  ]) {
+    saying(["git", "-C", root, ...one])
+  }
+}
+
+export function longBody(): string {
+  return lettered(LONG_LINES)
+}
+
+export function longRoot(): string {
+  return rootWith([{ at: LONG, body: longBody() }])
+}
+
+export function ranThrough(root: string, most: number): readonly Answer[] {
+  const said: Answer[] = []
+  for (let one = 0; one < most; one += 1) {
+    said.push(read(["--file-path", LONG], givenFor(root)))
+    if (!partly(readingIn(root, AGENT, LONG))) break
+  }
+  return said
+}
+
+export function longFirst(): { readonly root: string; readonly said: Answer } {
+  const root = longRoot()
+  return { root, said: read(["--file-path", LONG], givenFor(root)) }
+}
+
+export function longWhole(): { readonly said: readonly Answer[]; readonly held: Reading | null } {
+  const root = longRoot()
+  const said = ranThrough(root, 8)
+  return { said, held: readingIn(root, AGENT, LONG) }
+}
+
+export function longBeside(): { readonly first: Answer; readonly next: Answer } {
+  const root = rootWith([
+    { at: LONG, body: longBody() },
+    { at: HELD, body: "one\n" },
+  ])
+  return {
+    first: read(namingEach([LONG, HELD]), givenFor(root)),
+    next: read(namingEach([HELD, LONG]), givenFor(root)),
+  }
+}
+
+export function begunAgain(): readonly string[] {
+  const root = longRoot()
+  read(["--file-path", LONG], givenFor(root))
+  const full = read(["--full", "--file-path", LONG], givenFor(root))
+  writeFileSync(join(root, LONG), lettered(LONG_LINES - 1))
+  const moved = read(["--file-path", LONG], givenFor(root))
+  return [full.report[0] ?? "", moved.report[0] ?? ""]
+}
+
+export function linesGiven(answers: readonly Answer[]): readonly string[] {
+  const said: string[] = []
+  for (const one of answers) {
+    for (const line of one.report) {
+      if (line.startsWith(" ")) said.push(...line.split("\n"))
+    }
+  }
+  return said
+}
+
+export function wholeNumbered(): readonly string[] {
+  return numbered(longBody()).split("\n")
 }
 
 export function manyFiles(): readonly { readonly at: string; readonly body: string }[] {
@@ -154,9 +243,7 @@ export function ceilinged(): Ceilinged {
   const root = rootWarranting(manyPages())
   const first = read(namingPages(), givenFor(root))
   const left = leftIn(first.report)
-  const again: string[] = []
-  for (const one of left) again.push("--file-path", one)
-  const second = read(again, givenFor(root))
+  const second = read(namingEach(left), givenFor(root))
   return { first, second, both: [...first.report, ...second.report], left }
 }
 
