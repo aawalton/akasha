@@ -38,3 +38,42 @@ declare const AddCustomScrollableSubMenuEntry: (
 declare const AddCustomScrollableMenuDivider: (this: void) => undefined
 
 declare const ShowCustomScrollableMenu: (this: void, owner?: unknown, options?: unknown) => unknown
+
+declare const LSM_ENTRY_TYPE_RADIOBUTTON: number
+
+declare const AddCustomScrollableMenuCheckbox: (
+  this: void,
+  text: string,
+  callback: (
+    this: void,
+    comboBox: unknown,
+    itemName: string,
+    item: unknown,
+    checked: boolean,
+    data: unknown
+  ) => void,
+  checkedFn: (this: void) => boolean | undefined
+) => unknown
+
+declare const AddCustomScrollableMenuRadioButton: (
+  this: void,
+  text: string,
+  callback: (
+    this: void,
+    comboBox: unknown,
+    itemName: string,
+    item: unknown,
+    checked: boolean,
+    data: unknown
+  ) => void,
+  checkedFn: (this: void) => boolean
+) => unknown
+
+declare const AddCustomScrollableComboBoxDropdownMenu: (
+  this: void,
+  parentControl: object,
+  comboBoxContainer: object,
+  options: { [key: string]: unknown }
+) => unknown
+
+declare const LibScrollableMenu: unknown
