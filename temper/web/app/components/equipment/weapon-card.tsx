@@ -31,6 +31,13 @@ import {
   weaponEnchantments,
 } from "@akasha/temper-characters-equipment/weapon-enchants"
 import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
+import { EquipmentIcon } from "@akasha/temper-characters-equipment-ui/equipment-icon"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityClassName,
+  getQualityLabel,
+  getQualityVariant,
+} from "@akasha/temper-characters-equipment-ui/equipment-quality-rules"
 import {
   type ArmorTraitId,
   armorTraits,
@@ -48,13 +55,6 @@ import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/eq
 import type { WeaponBar } from "@akasha/temper-equipment-kinds/weapon-bars"
 import { type WeaponSlot, weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import {
-  AVAILABLE_QUALITY_OPTIONS,
-  getQualityClassName,
-  getQualityLabel,
-  getQualityVariant,
-} from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "@/components/equipment/set-select-dialog"
 
