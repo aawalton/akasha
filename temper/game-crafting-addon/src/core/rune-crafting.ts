@@ -3,7 +3,7 @@ import { Chat, ToChat } from "../helpers"
 import { state } from "../state"
 import * as Inventory from "./inventory"
 import type { CsCookButton } from "./cooking"
-import * as RecipeCooking from "./recipe-cooking"
+import * as RecipeCooking from "./cooking"
 import * as Tooltips from "./tooltips"
 
 export interface RgbColor {

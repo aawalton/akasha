@@ -1,6 +1,6 @@
 import type { RuneGlyphDef } from "../../data/rune"
 import { state } from "../../state"
-import * as RecipeCooking from "../recipe-cooking"
+import * as RecipeCooking from "../cooking"
 import * as RuneCrafting from "../rune-crafting"
 import { asCsCookButton } from "./furniture-recipes"
 

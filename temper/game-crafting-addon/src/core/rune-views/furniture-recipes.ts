@@ -1,6 +1,6 @@
 import { state } from "../../state"
 import type { CsCookButton } from "../cooking"
-import * as RecipeCooking from "../recipe-cooking"
+import * as RecipeCooking from "../cooking"
 import * as RuneCrafting from "../rune-crafting"
 import { RuneHideVanillaUI, RuneInitialize } from "./panel"
 
