@@ -9,10 +9,11 @@ export interface DeviceTokenRegistration {
 
 const NOTHING_LANDS = [
   "a device token is written nowhere.",
-  "the page engine that took `user-id`, `platform` and `bundle-id` is gone, and the",
-  "`device-token` page type akasha carries asks for `personSlug`, `iosAppSlug` and `token`.",
-  "nothing here reads an account to a person or a bundle to an iOS app,",
-  "so no page can be composed from what a caller hands over.",
+  "the notifier reads its tokens under `user-id`, `token` and `bundle-id` from the markdown",
+  "pages, and the `device-token` page type akasha carries asks for `personSlug`, `iosAppSlug`",
+  "and `token`. a token landed in akasha is read by nothing that sends, and a token landed in",
+  "the markdown from this pod dies at the next pod start, so it is lost either way.",
+  "what is owed first is the notifier reading akasha.",
 ].join(" ")
 
 export async function registerDeviceToken(args: DeviceTokenRegistration): Promise<void> {

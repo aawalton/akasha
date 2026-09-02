@@ -21,11 +21,15 @@ export const deviceTokenRegistration = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here reads an account to a person.",
+      statement: "The notifier reads its tokens from the markdown pages rather than from akasha.",
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here reads a bundle to an iOS app.",
+      statement: "A token landed in akasha is read by nothing that sends.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A token landed in the markdown from the web pod dies at the next pod start.",
     },
   ],
 } as const satisfies Module
