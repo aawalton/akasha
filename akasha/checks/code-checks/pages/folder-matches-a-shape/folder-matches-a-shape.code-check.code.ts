@@ -19,7 +19,7 @@ import {
   textNamed,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import type { Declaring, Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
+import type { Declaring, Judging, Standing } from "./folder-shapes/folder-shape.page-type.ts"
 
 const SHAPE = "folder-shape"
 
