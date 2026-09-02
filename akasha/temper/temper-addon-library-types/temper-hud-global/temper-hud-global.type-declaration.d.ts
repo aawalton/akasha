@@ -1,4 +1,19 @@
+interface TemperHudCell {
+  text: string
+  color?: readonly [number, number, number]
+  alpha?: number
+}
+
+interface TemperHudField {
+  id: string
+  order: number
+  compute: (this: void) => TemperHudCell
+}
+
 interface TemperHudApi {
+  registerField: (this: void, field: TemperHudField) => undefined
+  refresh: (this: void) => undefined
+  isReady: (this: void) => boolean
   registerHideableComponent: (
     this: void,
     id: string,

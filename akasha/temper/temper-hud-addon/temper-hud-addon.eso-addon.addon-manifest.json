@@ -1,0 +1,13 @@
+{
+  "name": "TemperHud",
+  "title": "Temper HUD",
+  "description": "Shared on-screen status bar; other addons inject fields into it",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101041", "101042", "101049"],
+  "savedVariables": ["TemperHud_SavedVariables"],
+  "additionalLuaFiles": [],
+  "dependsOn": ["LibAddonMenu-2.0>=43"],
+  "optionalDependsOn": []
+}

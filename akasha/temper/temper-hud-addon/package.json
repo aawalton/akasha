@@ -1,0 +1,33 @@
+{
+  "name": "@akasha/temper-hud-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./hud-addon-format": "./hud-addon-format/hud-addon-format.module.code.ts",
+    "./hud-addon-visibility-version": "./hud-addon-visibility-version/hud-addon-visibility-version.module.code.ts",
+    "./hud-addon-types": "./hud-addon-types/hud-addon-types.module.code.ts",
+    "./hud-addon-saved-variables": "./hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts",
+    "./hud-addon-field-registry": "./hud-addon-field-registry/hud-addon-field-registry.module.code.ts",
+    "./hud-addon-command-registry": "./hud-addon-command-registry/hud-addon-command-registry.module.code.ts",
+    "./hud-addon-commands": "./hud-addon-commands/hud-addon-commands.module.code.ts",
+    "./hud-addon-bar": "./hud-addon-bar/hud-addon-bar.module.code.ts",
+    "./hud-addon-builtins": "./hud-addon-builtins/hud-addon-builtins.module.code.ts",
+    "./hud-addon-hide-targets": "./hud-addon-hide-targets/hud-addon-hide-targets.module.code.ts",
+    "./hud-addon-hide-types": "./hud-addon-hide-types/hud-addon-hide-types.module.code.ts",
+    "./hud-addon-hide-plan": "./hud-addon-hide-plan/hud-addon-hide-plan.module.code.ts",
+    "./hud-addon-hide-registry": "./hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts",
+    "./hud-addon-hide-init": "./hud-addon-hide-init/hud-addon-hide-init.module.code.ts",
+    "./hud-addon-settings-panel": "./hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts",
+    "./hud-addon-public-api": "./hud-addon-public-api/hud-addon-public-api.module.code.ts",
+    "./hud-addon-entry": "./hud-addon-entry/hud-addon-entry.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/design-tokens": "workspace:*",
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/temper-hud-components": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
