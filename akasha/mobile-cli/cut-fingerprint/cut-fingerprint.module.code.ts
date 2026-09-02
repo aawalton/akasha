@@ -7,7 +7,7 @@ import { z } from "zod"
 
 export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
 
-export const CUT_WRITER = "mobile deploy-testflight"
+export const CUT_WRITER = "akasha deploy"
 
 const CUT_KEYS: readonly string[] = [
   "app-slug",

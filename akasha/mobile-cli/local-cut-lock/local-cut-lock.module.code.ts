@@ -49,7 +49,7 @@ export function decideLockAcquisition(
 export function formatBusyError(holder: LockRecord, nowMs: number): string {
   const ageSeconds = Math.max(0, Math.round((nowMs - holder.startedAtMs) / 1000))
   return [
-    `another \`deploy-testflight\` is already running on this workstation`,
+    `another \`akasha deploy\` is already running on this workstation`,
     ` (pid ${holder.pid}, started ${ageSeconds}s ago).`,
     ` Refusing to stack a concurrent cut: the mac build mutex engages only AFTER`,
     ` script delivery, so a second cut can silently wedge the first (#15338).`,
