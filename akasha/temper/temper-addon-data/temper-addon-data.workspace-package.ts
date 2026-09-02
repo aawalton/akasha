@@ -44,7 +44,11 @@ export const temperAddonData = {
     },
     {
       invariantKind: "departure",
-      statement: "A table longer than one module's code holds lands as a numbered series.",
+      statement: "No numbered series any row here declares reaches an addon's Lua build.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A rendered table lands as a page's entries rather than as numbered parts.",
     },
     {
       invariantKind: "departure",
