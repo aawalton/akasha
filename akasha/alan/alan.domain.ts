@@ -11,5 +11,6 @@ export const alan = {
     "page-type/daily-tracking",
     "page-type/eso-daily-tracking",
     "workspace-package/alan-web",
+    "workspace-package/chess",
   ],
 } as const satisfies Domain
