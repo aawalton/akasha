@@ -1903,7 +1903,9 @@
         "@akasha/pages-system": "workspace:*",
         "@akasha/temper-capture-errors": "workspace:*",
         "@akasha/temper-errors-triage": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
         "@akasha/utils-run": "workspace:*",
         "zod": "^4.3.6",
@@ -3147,6 +3149,18 @@
         "typescript": "^5.8.3",
       },
     },
+    "temper/shared-capture-datamining-addon": {
+      "name": "@temper/shared-capture-datamining-addon",
+      "version": "0.1.0",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-capture-datamining": "workspace:*",
+        "@akasha/temper-capture-writer": "workspace:*",
+      },
+      "devDependencies": {
+        "typescript": "^5.8.3",
+      },
+    },
     "temper/shared-interface-keybinder-addon": {
       "name": "@temper/shared-interface-keybinder-addon",
       "version": "0.1.0",
@@ -4381,6 +4395,8 @@
     "@temper/shared-build-deploy-checks": ["@temper/shared-build-deploy-checks@workspace:temper/shared-build-deploy-checks"],
 
     "@temper/shared-build-deploy-tstl": ["@temper/shared-build-deploy-tstl@workspace:lua-compiler"],
+
+    "@temper/shared-capture-datamining-addon": ["@temper/shared-capture-datamining-addon@workspace:temper/shared-capture-datamining-addon"],
 
     "@temper/shared-interface-keybinder-addon": ["@temper/shared-interface-keybinder-addon@workspace:temper/shared-interface-keybinder-addon"],
 

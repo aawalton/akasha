@@ -25,6 +25,8 @@ export const temperWatcher = {
     "module/watcher-retry",
     "module/watcher-stable-read",
     "module/watcher-error-emissions",
+    "module/watcher-settings-lua-block",
+    "module/watcher-settings-normalize",
     "workstation-service/temper-watcher",
     "workstation-service/temper-watcher-liveness",
   ],

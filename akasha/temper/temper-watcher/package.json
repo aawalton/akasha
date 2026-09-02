@@ -20,14 +20,18 @@
     "./watcher-logging": "./watcher-logging/watcher-logging.module.code.ts",
     "./watcher-retry": "./watcher-retry/watcher-retry.module.code.ts",
     "./watcher-stable-read": "./watcher-stable-read/watcher-stable-read.module.code.ts",
-    "./watcher-error-emissions": "./watcher-error-emissions/watcher-error-emissions.module.code.ts"
+    "./watcher-error-emissions": "./watcher-error-emissions/watcher-error-emissions.module.code.ts",
+    "./watcher-settings-lua-block": "./watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts",
+    "./watcher-settings-normalize": "./watcher-settings-normalize/watcher-settings-normalize.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@akasha/temper-capture-errors": "workspace:*",
     "@akasha/temper-errors-triage": "workspace:*",
+    "@akasha/temper-items-core": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",
     "@akasha/utils-run": "workspace:*",
     "zod": "^4.3.6"
