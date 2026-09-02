@@ -8,10 +8,12 @@ cat >> "$APPDELEGATE" <<'SWIFT_BADGE'
 // ===== badge-set seam ========================================================
 // A CAPPlugin exposing setCount({ count }) — sets the app-icon badge to
 // max(0, count) via UNUserNotificationCenter.setBadgeCount (iOS 16+) with an
-// applicationIconBadgeNumber fallback, on the main queue. The web BadgeSync seam
-// calls it to re-apply the true open-question count on launch / foreground / in-app
-// resolution, healing the stale-badge class where a badge-only APNs push is accepted
-// but not applied by current iOS (#15578). A JS-method plugin (mirrors NativeAudio),
+// applicationIconBadgeNumber fallback, on the main queue. NOTHING CALLS IT NOW. The web
+// BadgeSync seam re-applied the true open-question count on launch / foreground / in-app
+// resolution, healing the stale-badge class where a badge-only APNs push is accepted but
+// not applied by current iOS (#15578); the questions system it counted is gone and no
+// other count was ever set here, so that seam went and this plugin has no caller left.
+// A JS-method plugin (mirrors NativeAudio),
 // NOT an observer. Registered in packageClassList (§2c-iv). Needs import
 // UserNotifications.
 @objc(BadgePlugin)

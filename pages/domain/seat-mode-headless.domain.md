@@ -10,14 +10,3 @@ domain-parent-slug: domain/seat-charter
 
 - **Seat mode headless** — a seat with no terminal attached.
 
-# Rules
-
-## Question Sent
-
-**Send each question to Alan through `ops ask-alan`.**
-
-Nothing else you write reaches him, so a question in your output is one nobody was asked.
-
-Your turn ending is not a question.
-
-A question in a commit message reaches nobody.

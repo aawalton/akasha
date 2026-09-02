@@ -24,7 +24,7 @@ A push is claimed before it is sent, so a notification read twice is pushed once
 
 A start begins at the newest notification already standing rather than at the head of the feed.
 
-A badge is refreshed on its own only when the count of open questions fell.
+No push carries an app-icon badge, and nothing refreshes one.
 
 # Intent
 
