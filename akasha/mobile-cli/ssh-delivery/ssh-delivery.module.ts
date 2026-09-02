@@ -6,6 +6,7 @@ export const sshDelivery = {
   slug: "ssh-delivery",
   definition: "the ssh wire settings shared by every ssh and rsync call to a host",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

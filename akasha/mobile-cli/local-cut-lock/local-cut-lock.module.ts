@@ -6,6 +6,7 @@ export const localCutLock = {
   slug: "local-cut-lock",
   definition: "the workstation file lock a testflight cut holds while it runs",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",

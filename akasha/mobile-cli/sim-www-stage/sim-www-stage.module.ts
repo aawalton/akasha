@@ -6,6 +6,7 @@ export const simWwwStage = {
   slug: "sim-www-stage",
   definition: "the web bundle staged into a native shell from the working tree",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

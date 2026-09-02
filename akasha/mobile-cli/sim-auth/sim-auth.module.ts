@@ -6,6 +6,7 @@ export const simAuth = {
   slug: "sim-auth",
   definition: "password sign-in against supabase yielding a session and the user id it belongs to",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",

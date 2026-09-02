@@ -6,6 +6,7 @@ export const simMacbook = {
   slug: "sim-macbook",
   definition: "bringing appium and a booted simulator up on the remote macbook",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

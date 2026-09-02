@@ -6,6 +6,7 @@ export const testflightPoll = {
   slug: "testflight-poll",
   definition: "the polling loop that carries an uploaded build from processing to tester-visible",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

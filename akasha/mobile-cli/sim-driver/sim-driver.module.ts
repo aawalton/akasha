@@ -6,6 +6,7 @@ export const simDriver = {
   slug: "sim-driver",
   definition: "opening an appium session on the sim and landing its webview on an app route",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",

@@ -6,6 +6,7 @@ export const appiumClient = {
   slug: "appium-client",
   definition: "a typed WebDriver client over an Appium server's HTTP endpoints",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

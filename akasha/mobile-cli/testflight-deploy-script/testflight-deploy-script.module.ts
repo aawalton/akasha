@@ -6,6 +6,7 @@ export const testflightDeployScript = {
   slug: "testflight-deploy-script",
   definition: "the bash script a mac runs to archive an ios app and upload it to testflight",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

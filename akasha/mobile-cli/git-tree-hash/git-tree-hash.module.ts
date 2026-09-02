@@ -6,6 +6,7 @@ export const gitTreeHash = {
   slug: "git-tree-hash",
   definition: "a sha256 over the git object ids named paths carry at a ref",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

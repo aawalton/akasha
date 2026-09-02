@@ -6,6 +6,7 @@ export const simSession = {
   slug: "sim-session",
   definition: "the state of the one live sim session, persisted to a file in the home directory",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",

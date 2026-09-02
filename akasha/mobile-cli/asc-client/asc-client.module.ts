@@ -6,6 +6,7 @@ export const ascClient = {
   slug: "asc-client",
   definition: "the App Store Connect REST client that mints its own ES256 JWT from the local .p8",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

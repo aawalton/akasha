@@ -6,6 +6,7 @@ export const buildStampGate = {
   slug: "build-stamp-gate",
   definition: "the shell that refuses an upload whose binaries do not carry this cut's commit",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

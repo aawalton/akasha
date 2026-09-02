@@ -7,6 +7,7 @@ export const iosSigning = {
   definition:
     "how a mac build gets its App Store distribution certificate and provisioning profile",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

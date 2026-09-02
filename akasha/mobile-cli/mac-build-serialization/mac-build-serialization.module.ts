@@ -6,6 +6,7 @@ export const macBuildSerialization = {
   slug: "mac-build-serialization",
   definition: "the shell that serialises mac builds behind a directory lock and numbers each one",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

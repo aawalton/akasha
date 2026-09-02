@@ -6,6 +6,7 @@ export const altool = {
   slug: "altool",
   definition: "the named failure classes read out of xcrun altool's validate and upload output",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

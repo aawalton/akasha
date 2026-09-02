@@ -6,6 +6,7 @@ export const mobileApp = {
   slug: "mobile-app",
   definition: "an iOS app as stated on its ios-app page, with the repo paths it spells",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -6,6 +6,7 @@ export const simRunTree = {
   slug: "sim-run-tree",
   definition: "the repo-root paths a mobile sim run is built from, delivered whole to the macbook",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
