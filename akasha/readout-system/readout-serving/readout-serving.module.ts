@@ -44,6 +44,15 @@ export const readoutServing = {
     {
       invariantKind: "departure",
       statement:
+        "A reading relayed here and a reading carried on a readout's own row are both read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading carried on a row is aged by the window a relayed reading is aged by.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The route for a single readout answers no reading for a reading too old or never taken.",
     },
     {
