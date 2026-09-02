@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./domain": "./domain/domain.page-type.ts",
+    "./domain": "./domains/domain.page-type.ts",
     "./persona-slug": "./initiatives/properties/persona-slug.relation-property.ts"
   }
 }

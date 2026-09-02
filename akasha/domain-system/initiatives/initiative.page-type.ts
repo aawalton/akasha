@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { DomainSlug } from "../domain/properties/domain-slug.relation-property.ts"
+import type { DomainSlug } from "../domains/properties/domain-slug.relation-property.ts"
 import type { Constraints } from "./properties/constraints.text-property.ts"
 import type { Intents } from "./properties/intents.record-property.ts"
 import type { ParentSlug } from "./properties/parent-slug.relation-property.ts"

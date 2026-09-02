@@ -1,4 +1,4 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "../domain-system/domains/domain.page-type.ts"
 
 export const editorExtension = {
   id: "01a04e9f-4572-71cc-b8e2-3a86a855c6fc",
