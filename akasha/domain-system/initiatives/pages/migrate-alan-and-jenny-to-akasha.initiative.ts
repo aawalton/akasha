@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "All 104 queries are pages now — `5d16cfb5cd`, `e8fdc9dd4f`, `fe70c6bcdc`, `589d2dd5e7` — round-tripped field by field against the markdown, 104 of 104, with three faults seeded into the verifier to prove that zero true rather than blind. `page-query` landed at `9fe4ee0941`; `enabled` honoured at `e833a3dfa8`. Ids are fresh v7 keeping the old v5 tail. Nothing reads the akasha copies yet and the markdown originals are untouched, so the reader switchover is the whole of what is left.",
+        "All 104 queries are pages — `5d16cfb5cd`, `e8fdc9dd4f`, `fe70c6bcdc`, `589d2dd5e7` — round-tripped 104 of 104 with three seeded faults proving that zero true. `page-query` at `9fe4ee0941`, `enabled` honoured at `e833a3dfa8`. All 17 relays now name akasha readout pages: 16 named a dead `readout/readouts/` path, exited 2, and systemd read that as success. Fixed `5eefbbf0b8`, reinstalled by slug, all exit 0 — but exit 0 proves the run, not a landed reading. Reader switchover is what is left.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
