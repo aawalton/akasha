@@ -159,6 +159,7 @@
     "@akasha/pages-url": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-server": "workspace:*",
+    "@akasha/temper-addon-build": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
     "@akasha/temper-catalog-host": "workspace:*",

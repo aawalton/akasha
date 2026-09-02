@@ -25,6 +25,40 @@ function isNoResolutionPath(
   return annotations.has(AnnotationKind.NoResolution)
 }
 
+type ResolvingProgram = ts.Program & {
+  getResolvedModule?: (
+    containing: ts.SourceFile,
+    moduleName: string,
+    mode: ts.ResolutionMode
+  ) => { resolvedModule?: { resolvedFileName: string } } | undefined
+}
+
+function resolvedFileFor(
+  context: TransformationContext,
+  moduleSpecifier: ts.Expression
+): ts.SourceFile | undefined {
+  const symbol = context.checker.getSymbolAtLocation(moduleSpecifier)
+  const declared = symbol?.declarations?.find((one): one is ts.SourceFile => ts.isSourceFile(one))
+  if (declared !== undefined) return declared
+  if (!ts.isStringLiteral(moduleSpecifier)) return undefined
+  const program = context.program as ResolvingProgram
+  if (program.getResolvedModule === undefined) return undefined
+  const containing = moduleSpecifier.getSourceFile()
+  const mode = ts.getModeForUsageLocation(containing, moduleSpecifier, program.getCompilerOptions())
+  const found = program.getResolvedModule(containing, moduleSpecifier.text, mode)
+  const name = found?.resolvedModule?.resolvedFileName
+  return name === undefined ? undefined : program.getSourceFile(name)
+}
+
+function isDeclarationOnlyModule(
+  context: TransformationContext,
+  moduleSpecifier: ts.Expression
+): boolean {
+  if (isNoResolutionPath(context, moduleSpecifier)) return false
+  const found = resolvedFileFor(context, moduleSpecifier)
+  return found !== undefined && found.isDeclarationFile
+}
+
 export function createModuleRequire(
   context: TransformationContext,
   moduleSpecifier: ts.Expression,
@@ -79,6 +113,9 @@ export const transformImportDeclaration: FunctionVisitor<ts.ImportDeclaration> =
   scope.importStatements ??= []
 
   const result: luaStatements.Statement[] = []
+
+  if (isDeclarationOnlyModule(context, statement.moduleSpecifier)) return undefined
+
   const requireCall = createModuleRequire(context, statement.moduleSpecifier)
 
   if (statement.importClause === undefined) {

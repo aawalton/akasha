@@ -96,9 +96,25 @@ export function computeWorkspaceClosure(
 
 const addonNameSchema = z.object({ name: z.string().optional() }).passthrough()
 
+const PAGE_MANIFEST_SUFFIX = ".eso-addon.addon-manifest.json"
+
+function addonManifestPathIn(dir: string): string | null {
+  const gamePath = join(dir, "addon.json")
+  if (existsSync(gamePath)) return gamePath
+  let entries: readonly string[]
+  try {
+    entries = readdirSync(dir)
+  } catch {
+    return null
+  }
+  const named = entries.filter((one) => one.endsWith(PAGE_MANIFEST_SUFFIX)).sort()
+  const first = named[0]
+  return first === undefined ? null : join(dir, first)
+}
+
 function readAddonJson(dir: string): { name?: string } | null {
-  const addonJsonPath = join(dir, "addon.json")
-  if (!existsSync(addonJsonPath)) return null
+  const addonJsonPath = addonManifestPathIn(dir)
+  if (addonJsonPath === null) return null
   try {
     const raw: unknown = JSON.parse(readFileSync(addonJsonPath, "utf-8"))
     const parsed = addonNameSchema.safeParse(raw)

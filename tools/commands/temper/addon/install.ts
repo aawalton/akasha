@@ -33,6 +33,7 @@ import { parseArgs } from "../../../lib/parse-args.ts"
 import { addonsResolve } from "../../../lib/temper-addon-code.ts"
 import { CONSOLIDATION_MIGRATIONS } from "../../../lib/temper-addon-consolidation-migrations.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"
+import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 
 const ADDONS_REL_ROOT = "temper/addons"
 
@@ -128,8 +129,8 @@ function describeForeignCopy(version: number | undefined, floors: readonly numbe
 }
 
 function readAdditionalLuaFiles(addonDir: string): readonly string[] {
-  const path = join(addonDir, "addon.json")
-  if (!existsSync(path)) return []
+  const path = addonManifestPathIn(addonDir)
+  if (path === null) return []
   try {
     const raw: unknown = JSON.parse(readFileSync(path, "utf-8"))
     const parsed = ADDON_JSON_PRESERVE_SCHEMA.safeParse(raw)
@@ -253,8 +254,8 @@ export default async function temperAddonInstall(args: readonly string[]): Promi
   const readFleetDependencyLists = (): readonly (readonly string[])[] => {
     const lists: (readonly string[])[] = []
     for (const addon of listAllAddons({ repoRoot: codeCheckout })) {
-      const path = join(addon.dir, "addon.json")
-      if (!existsSync(path)) continue
+      const path = addonManifestPathIn(addon.dir)
+      if (path === null) continue
       try {
         const raw: unknown = JSON.parse(readFileSync(path, "utf-8"))
         const parsedDeps = ADDON_JSON_DEPS_SCHEMA.safeParse(raw)

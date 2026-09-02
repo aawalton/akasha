@@ -14,6 +14,7 @@ import {
   type GlobalDependentReport,
 } from "../../../lib/temper-addon-global-name-dependents.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"
+import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 
 export const help: CommandHelp = {
   positionals: [
@@ -86,9 +87,11 @@ function isTsSource(p: string): boolean {
 }
 
 function readSavedVariables(addonDir: string): readonly string[] {
+  const path = addonManifestPathIn(addonDir)
+  if (path === null) return []
   let raw: string
   try {
-    raw = readFileSync(join(addonDir, "addon.json"), "utf8")
+    raw = readFileSync(path, "utf8")
   } catch {
     return []
   }

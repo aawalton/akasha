@@ -1,10 +1,10 @@
 import { readFile } from "node:fs/promises"
-import { join } from "node:path"
 import { askComposed } from "@shared/pages-query/ask"
 import {
   type AddonManifest,
   addonManifestSchema,
 } from "@akasha/temper-addons-resolve/addon-json"
+import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 
 const CATALOG_DOMAIN_PAGE_TYPE_SLUG = "temper-catalog-domain"
 const CATALOG_PROP_GEN_RAN_FOR_MANIFEST_API_VERSION = "generator-ran-for-manifest-api-version"
@@ -112,7 +112,8 @@ export async function readXmlFiles(addonDir: string): Promise<{
 }
 
 export async function loadAddonConfig(addonDir: string): Promise<AddonManifest | null> {
-  const configPath = join(addonDir, "addon.json")
+  const configPath = addonManifestPathIn(addonDir)
+  if (configPath === null) return null
   try {
     const content = await readFile(configPath, "utf-8")
     return addonManifestSchema.parse(JSON.parse(content))

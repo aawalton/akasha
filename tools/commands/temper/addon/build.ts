@@ -10,6 +10,7 @@ import {
 import { codeRoot } from "../../../lib/code-root.ts"
 import { dataError, inputError, operationalError } from "../../../lib/exit.ts"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
 import { tstlCommand, tstlRoot } from "../../../lib/temper-addon-build.ts"
 import { addonsResolve } from "../../../lib/temper-addon-code.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
@@ -136,9 +137,11 @@ export default async function temperAddonBuild(args: readonly string[]): Promise
   const deadline = Date.now() + RUN_CEILING_MS
 
   for (const target of targets) {
-    const tsconfigPath = join(target.dir, "tsconfig.json")
-    if (!existsSync(tsconfigPath)) {
-      throw dataError(`${target.canonicalName} carries no ${tsconfigPath}, so there is nothing to compile`)
+    const tsconfigPath = await tstlConfigPathFor(root, target.dir, target.canonicalName)
+    if (tsconfigPath === null) {
+      throw dataError(
+        `${target.canonicalName} carries no ${join(target.dir, "tsconfig.json")}, and its page names no bundle entry to write one from, so there is nothing to compile`
+      )
     }
 
     if (watch) {

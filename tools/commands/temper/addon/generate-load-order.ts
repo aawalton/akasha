@@ -85,10 +85,11 @@ export default async function temperAddonGenerateLoadOrder(args: readonly string
   const distDir = join(addonsRoot, "dist", addonName)
 
   const metadataHeader = await readMetadataHeader(addonName, addonDir)
-  const luaBundle = readTstlLuaBundle(addonDir)
+  const generatedTsconfig = join(addonsRoot, "dist/.tstl", `${addonName}.tsconfig.json`)
+  const luaBundle = readTstlLuaBundle(addonDir, generatedTsconfig)
   if (luaBundle == null) {
     throw dataError(
-      `${addonName}: no tstl.luaBundle declared in ${join(addonDir, "tsconfig.json")} — every Temper addon must declare tstl.luaBundle`
+      `${addonName}: no tstl.luaBundle declared in ${join(addonDir, "tsconfig.json")} nor in ${generatedTsconfig} — every Temper addon must declare tstl.luaBundle`
     )
   }
   const additionalLuaFiles = await readAdditionalLuaFiles(addonDir)

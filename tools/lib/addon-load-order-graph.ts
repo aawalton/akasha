@@ -6,8 +6,7 @@ const TsconfigSchema = z
   .object({ tstl: z.object({ luaBundle: z.string().optional() }).passthrough().optional() })
   .passthrough()
 
-export function readTstlLuaBundle(dir: string): string | null {
-  const tsconfigPath = join(dir, "tsconfig.json")
+function luaBundleAt(tsconfigPath: string): string | null {
   try {
     const raw = readFileSync(tsconfigPath, "utf-8")
     const parsed = TsconfigSchema.parse(JSON.parse(raw))
@@ -15,4 +14,12 @@ export function readTstlLuaBundle(dir: string): string | null {
   } catch {
     return null
   }
+}
+
+export function readTstlLuaBundle(dir: string, ...alsoAt: readonly string[]): string | null {
+  for (const path of [join(dir, "tsconfig.json"), ...alsoAt]) {
+    const found = luaBundleAt(path)
+    if (found !== null) return found
+  }
+  return null
 }

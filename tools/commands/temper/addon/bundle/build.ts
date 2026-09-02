@@ -19,6 +19,7 @@ import { dataError, inputError } from "../../../../lib/exit.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"
 import { addonsResolve } from "../../../../lib/temper-addon-code.ts"
 import type { CommandHelp } from "../../../../ops/surface.ts"
+import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 
 const ADDONS_REL_ROOT = "temper/addons"
 
@@ -82,7 +83,8 @@ function listFilesRecursive(root: string): string[] {
 }
 
 function readDependencies(addonDir: string): AddonDependencies {
-  const manifestPath = join(addonDir, "addon.json")
+  const manifestPath = addonManifestPathIn(addonDir)
+  if (manifestPath === null) throw dataError(`${addonDir}: holds no addon manifest`)
   const parsed = ADDON_JSON_DEPENDS_SCHEMA.safeParse(
     JSON.parse(readFileSync(manifestPath, "utf-8"))
   )
