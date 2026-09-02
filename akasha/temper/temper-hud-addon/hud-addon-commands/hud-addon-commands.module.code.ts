@@ -6,10 +6,6 @@ import type { TemperCommand } from "../hud-addon-types/hud-addon-types.module.co
 
 const registry = createCommandRegistry()
 
-function parseStringMatchAsString(matched: unknown): string | null {
-  return typeof matched === "string" ? matched : null
-}
-
 export function registerTemperCommand(this: void, command: TemperCommand): undefined {
   registry.register(command)
 }
@@ -38,10 +34,8 @@ function renderTemperHelp(this: void): undefined {
 
 function dispatchTemperCommand(this: void, args: string): undefined {
   const argsStr = args !== undefined ? args : ""
-  const [capturedSub, capturedRest] = string.match(argsStr, "^%s*(%S+)%s*(.-)$")
-  const subcommand = parseStringMatchAsString(capturedSub)
-  const rest = parseStringMatchAsString(capturedRest)
-  if (subcommand === null) {
+  const [subcommand, rest] = string.match(argsStr, "^%s*(%S+)%s*(.-)$")
+  if (subcommand === undefined) {
     renderTemperHelp()
     return
   }
@@ -50,7 +44,7 @@ function dispatchTemperCommand(this: void, args: string): undefined {
     d(`[Temper] Unknown command "/temper ${subcommand}". Try /temper help`)
     return
   }
-  command.handler(rest !== null ? rest : "")
+  command.handler(rest ?? "")
 }
 
 export function initializeTemperCommands(this: void): undefined {
