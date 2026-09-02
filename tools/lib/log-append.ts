@@ -22,6 +22,9 @@ export type LogLine = {
 export interface LogWriter {
   readonly write: (line: LogLine) => undefined
   readonly refused: () => string | null
+  // A LINE IS WRITTEN AFTER THE CALL THAT WROTE IT HAS RETURNED, so whoever must not lose one waits
+  // on this before going down. Nothing waits on it during normal work; that is the point of it.
+  readonly flushed: () => Promise<void>
 }
 
 function titleOf(name: string): string {
@@ -87,5 +90,6 @@ export function logWriter(
       }
     },
     refused: () => refused,
+    flushed: () => appender?.flushed() ?? Promise.resolve(),
   }
 }

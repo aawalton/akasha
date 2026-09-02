@@ -1,6 +1,7 @@
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { randomUUID } from "node:crypto"
-import { appendFileSync, existsSync, mkdirSync } from "node:fs"
+import { existsSync, mkdirSync } from "node:fs"
+import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import { partNumberOf, PART_CEILING_BYTES, rowsFileOf, rowsPartOf } from "../../page/rows-file.ts"
 import {
@@ -276,6 +277,7 @@ export interface RowAppender {
   readonly append: (values: Readonly<Record<string, unknown>>) => undefined
   readonly refused: () => string | null
   readonly at: () => string
+  readonly flushed: () => Promise<void>
 }
 
 export function rowAppender(
@@ -295,6 +297,7 @@ export function rowAppender(
   let path = held.path
   let bytes = held.bytes
   let refused: string | null = null
+  let queued: Promise<void> = Promise.resolve()
   return {
     append: (values): undefined => {
       if (refused !== null) return
@@ -305,23 +308,43 @@ export function rowAppender(
           return
         }
       }
+      let line: string
       try {
-        const line = JSON.stringify(idStamped(values, where))
-        const size = byteLength(line) + 1
-        if (bytes > 0 && bytes + size > PART_CEILING_BYTES) {
-          path = rowsPartOf(where.path, partNumberOf(path) + 1)
-          bytes = 0
-        }
-        appendFileSync(path, `${line}\n`, "utf8")
-        bytes += size
+        line = JSON.stringify(idStamped(values, where))
       } catch (error) {
         refused =
           `no row of \`${pageType}\` reached ${path}: ` +
           `${error instanceof Error ? error.message : String(error)}`
+        return
       }
+      // WHICH PART A ROW LANDS IN IS SETTLED HERE, WHILE THE WRITING OF IT IS NOT. Rolling to the
+      // next part counts bytes, so deciding that inside the queued write would let two appends read
+      // the same count and both believe they fit. Deciding it as the row arrives keeps the parts
+      // exactly as a synchronous append made them, and the queue below keeps the rows in order.
+      const size = byteLength(line) + 1
+      if (bytes > 0 && bytes + size > PART_CEILING_BYTES) {
+        path = rowsPartOf(where.path, partNumberOf(path) + 1)
+        bytes = 0
+      }
+      bytes += size
+      const at = path
+      // A ROW IS WRITTEN WITHOUT HOLDING THE THREAD THAT WROTE IT. This appender carries the seat
+      // logs, and a gateway calls it while it is carrying live model streams on the same thread. A
+      // synchronous write there is a stall the whole process takes, however brief each one looks,
+      // and a stalled gateway cannot answer the health probe that decides whether it is alive.
+      queued = queued.then(async () => {
+        try {
+          await appendFile(at, `${line}\n`, "utf8")
+        } catch (error) {
+          refused =
+            `no row of \`${pageType}\` reached ${at}: ` +
+            `${error instanceof Error ? error.message : String(error)}`
+        }
+      })
     },
     refused: () => refused,
     at: () => path,
+    flushed: () => queued,
   }
 }
 
