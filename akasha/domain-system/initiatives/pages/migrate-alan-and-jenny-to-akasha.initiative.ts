@@ -36,7 +36,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "`pages-ui` stands in akasha.",
       workingMemory:
-        "24 of 24 landed in four commits closing at `71605357c2`; `shared/pages-ui/src` holds only the 4 that cannot move. Subpath patterns are refused by `manifest-lands-on-a-file`, so the manifest was emptied of the 127 ways in nothing outside took — 11,940 bytes with 3,060 spare. What is left is `nav-command-bindings-registrar.tsx`, `use-app-nav-items.tsx` (filed at `0aebaaa341`), and the dead `serve-media.ts` with `media-server.ts` behind it.",
+        "`src` holds one file: `use-app-nav-items.tsx`. `media-server.ts` went at `7b84767250` with no importer, the registrar at `b67a9fd3c7`, and `serve-media.ts` at `4775d51c6b` — that one was never dead, so its four media routes were rewired to the akasha module first. `identifier-matches-its-place` blocks the last file: it reads a component off JSX nested inside `toNavItem` and a `useMemo`, so it asks for a component name where the hook rule asks for `use`. Four apps import it.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
