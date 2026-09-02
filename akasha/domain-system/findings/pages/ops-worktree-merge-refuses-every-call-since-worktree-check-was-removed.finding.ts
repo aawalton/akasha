@@ -4,7 +4,7 @@ export const opsWorktreeMergeRefusesEveryCallSinceWorktreeCheckWasRemoved = {
   id: "01a0614b-dae8-71e0-989d-8009d5bd1400",
   pageTypeSlug: "finding",
   slug: "ops-worktree-merge-refuses-every-call-since-worktree-check-was-removed",
-  domainSlug: "domain/ops-worktree",
+  domainSlug: "domain/akasha-migration",
   claim:
     "`ops worktree merge` refuses every call, and its refusal names a command that is not there. It lands a worktree only where that worktree's page states `passed-commit`, and nothing has stamped that field since `ops worktree check` was deleted with the old check system. The refusal tells the reader to run `ops worktree check <name>` first, which is not one of the 311 commands the surface carries. `ops worktree start` writes a worktree page holding no such field, so no worktree ever acquires one.",
   evidence:

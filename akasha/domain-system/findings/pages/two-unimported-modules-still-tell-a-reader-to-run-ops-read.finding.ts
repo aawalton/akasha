@@ -4,7 +4,7 @@ export const twoUnimportedModulesStillTellAReaderToRunOpsRead = {
   id: "01a0614b-dae8-7e42-b010-b3448076a915",
   pageTypeSlug: "finding",
   slug: "two-unimported-modules-still-tell-a-reader-to-run-ops-read",
-  domainSlug: "domain/ops-cli",
+  domainSlug: "domain/akasha-migration",
   claim:
     "There is no `ops read`. Three live sites in the checkout told a reader to run it, and the read that records a reading is `akasha read`. One of the three was `ops search --help`, which is help Alan reads, and it is fixed. The other two sit in modules nothing imports, so they are dead text naming a dead command — a deletion rather than an edit, but the reach was not measured far enough here to take it.",
   evidence:

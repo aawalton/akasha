@@ -4,7 +4,7 @@ export const askExercisePagesIsOneFunctionDeclaredInTwoFiles = {
   id: "01a0615d-7da5-7000-9734-236678e97a01",
   pageTypeSlug: "finding",
   slug: "ask-exercise-pages-is-one-function-declared-in-two-files",
-  domainSlug: "domain/ops-exercise",
+  domainSlug: "domain/akasha-migration",
   claim:
     "`askExercisePages` is one function declared in two files. `tools/lib/exercise-ask-pages.ts` and `tools/lib/daily-tracking/exercise-pages.ts` hold the same three statements character for character and reach the same client, differing only in declaration form. Neither names the other and their callers are disjoint, so a correction to how the checkout is asked reaches one set of readers and not the other. Whether the two become one is not decided here.",
   evidence:
