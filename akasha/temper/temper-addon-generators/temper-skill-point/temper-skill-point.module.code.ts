@@ -1,4 +1,5 @@
 import { TEMPER_DUNGEONS } from "@akasha/temper-dungeons/dungeon-data"
+import { SKILL_POINT_PUBLIC_DUNGEON_SOURCES } from "@akasha/temper-player-completion/skill-point-public-dungeons"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 
@@ -132,45 +133,6 @@ function rankFromMap(map: Record<string, number>, key: string): number {
   return map[key] ?? Number.MAX_SAFE_INTEGER
 }
 
-const PUBLIC_DUNGEONS: ReadonlyArray<{ key: string; label: string }> = [
-  { key: "AD1", label: "Toothmaul Gully" },
-  { key: "AD2", label: "Root Sunder Ruins" },
-  { key: "AD3", label: "Rulanyil's Fall" },
-  { key: "AD4", label: "Crimson Cove" },
-  { key: "AD5", label: "Vile Manse" },
-  { key: "DC1", label: "Bad Man's Hallows" },
-  { key: "DC2", label: "Bonesnap Ruins" },
-  { key: "DC3", label: "Obsidian Scar" },
-  { key: "DC4", label: "Lost City of the Na-Totambu" },
-  { key: "DC5", label: "Razak's Wheel" },
-  { key: "EP1", label: "Crow's Wood" },
-  { key: "EP2", label: "Forgotten Crypts" },
-  { key: "EP3", label: "Sanguine's Demesne" },
-  { key: "EP4", label: "Hall of the Dead" },
-  { key: "EP5", label: "Lion's Den" },
-  { key: "CH", label: "Village of the Lost" },
-  { key: "VFW", label: "Forgotten Wastes" },
-  { key: "VNC", label: "Nchuleftingth" },
-  { key: "WOO", label: "Old Orsinium" },
-  { key: "WRK", label: "Rkindaleft" },
-  { key: "SKW", label: "Karnwasten" },
-  { key: "SSH", label: "Sunhold" },
-  { key: "RN", label: "Rimmen Necropolis" },
-  { key: "OC", label: "Orcrest" },
-  { key: "LT", label: "Labyrinthian" },
-  { key: "NK", label: "Nchuthnkarst" },
-  { key: "SH", label: "Silent Halls" },
-  { key: "ZA", label: "Zenithar's Abbey" },
-  { key: "GHB", label: "Ghost Haven Bay" },
-  { key: "SCC", label: "Crimson Coin" },
-  { key: "GO", label: "Gorne" },
-  { key: "TU", label: "The Underweave" },
-  { key: "LW", label: "Lakewatch" },
-  { key: "SI", label: "Silo Indomitus" },
-  { key: "DG", label: "Deetra Grotto" },
-  { key: "CG", label: "Centurion's Gideon" },
-]
-
 export function generateTemperSkillPoint(skillPointRows: readonly Page[]): string {
   const parsed = skillPointRows.map(parseRow)
   const generals: ParsedGeneral[] = []
@@ -201,7 +163,7 @@ export function generateTemperSkillPoint(skillPointRows: readonly Page[]): strin
   const groupDungeonLines = TEMPER_DUNGEONS.map(
     (d) => `  { key: ${JSON.stringify(d.key)}, label: ${JSON.stringify(d.label)} },`
   )
-  const publicDungeonLines = PUBLIC_DUNGEONS.map(
+  const publicDungeonLines = SKILL_POINT_PUBLIC_DUNGEON_SOURCES.map(
     (d) => `  { key: ${JSON.stringify(d.key)}, label: ${JSON.stringify(d.label)} },`
   )
 
@@ -213,7 +175,7 @@ export function generateTemperSkillPoint(skillPointRows: readonly Page[]): strin
  * table (page type: temper-skill-point). Group-dungeon sources are
  * derived from \`TEMPER_DUNGEONS\` at codegen time so the addon and
  * engine resolve the same dungeon labels by construction. Public-dungeon
- * sources are inline in the generator — they have no other catalog home.
+ * sources are read from the player completion package.
  *
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */

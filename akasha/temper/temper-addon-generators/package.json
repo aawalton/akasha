@@ -119,6 +119,7 @@
   },
   "dependencies": {
     "@akasha/temper-dungeons": "workspace:*",
+    "@akasha/temper-player-completion": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
