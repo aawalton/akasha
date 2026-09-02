@@ -7,4 +7,5 @@ export const esoDay20260821 = {
   title: "@eso-day:2026-08-21",
   esoDay: "2026-08-21",
   healthSamples: "jsonl",
+  listens: "jsonl",
 } as const satisfies EsoDay
