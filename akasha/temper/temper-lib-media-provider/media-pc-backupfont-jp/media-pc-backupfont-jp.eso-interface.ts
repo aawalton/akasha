@@ -6,6 +6,7 @@ export const mediaPcBackupfontJp = {
   slug: "media-pc-backupfont-jp",
   definition: "the fallback fonts a Windows or Mac client loads for Japanese",
   markup: "xml",
+  loadedAs: "PC/backupfont_jp.xml",
   invariants: [
     {
       invariantKind: "departure",

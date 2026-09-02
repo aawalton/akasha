@@ -6,6 +6,7 @@ export const mediaFontstringsShared = {
   slug: "media-fontstrings-shared",
   definition: "the font names every language mode shares, each pointing through the font path",
   markup: "xml",
+  loadedAs: "fontstrings_shared.xml",
   invariants: [
     {
       invariantKind: "departure",

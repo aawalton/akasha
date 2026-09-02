@@ -6,6 +6,7 @@ export const mediaPcBackupfontZh = {
   slug: "media-pc-backupfont-zh",
   definition: "the fallback fonts a Windows or Mac client loads for Chinese",
   markup: "xml",
+  loadedAs: "PC/backupfont_zh.xml",
   invariants: [
     {
       invariantKind: "departure",

@@ -6,6 +6,7 @@ export const mediaPcBackupfontEs = {
   slug: "media-pc-backupfont-es",
   definition: "the fallback fonts a Windows or Mac client loads for Spanish",
   markup: "xml",
+  loadedAs: "PC/backupfont_es.xml",
   invariants: [
     {
       invariantKind: "departure",

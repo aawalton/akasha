@@ -6,6 +6,7 @@ export const mediaConsoleBackupfontJp = {
   slug: "media-console-backupfont-jp",
   definition: "the fallback fonts a console client loads for Japanese",
   markup: "xml",
+  loadedAs: "Console/backupfont_jp.xml",
   invariants: [
     {
       invariantKind: "departure",

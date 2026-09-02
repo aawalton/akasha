@@ -6,6 +6,7 @@ export const mediaPcBackupfontEn = {
   slug: "media-pc-backupfont-en",
   definition: "the fallback fonts a Windows or Mac client loads for English",
   markup: "xml",
+  loadedAs: "PC/backupfont_en.xml",
   invariants: [
     {
       invariantKind: "departure",

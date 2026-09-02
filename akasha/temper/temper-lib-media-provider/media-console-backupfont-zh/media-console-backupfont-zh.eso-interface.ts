@@ -6,6 +6,7 @@ export const mediaConsoleBackupfontZh = {
   slug: "media-console-backupfont-zh",
   definition: "the fallback fonts a console client loads for Chinese",
   markup: "xml",
+  loadedAs: "Console/backupfont_zh.xml",
   invariants: [
     {
       invariantKind: "departure",

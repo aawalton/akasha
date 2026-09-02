@@ -6,6 +6,7 @@ export const mediaPcBackupfontRu = {
   slug: "media-pc-backupfont-ru",
   definition: "the fallback fonts a Windows or Mac client loads for Russian",
   markup: "xml",
+  loadedAs: "PC/backupfont_ru.xml",
   invariants: [
     {
       invariantKind: "departure",

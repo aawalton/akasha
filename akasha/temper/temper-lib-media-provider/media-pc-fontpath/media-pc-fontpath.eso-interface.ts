@@ -6,6 +6,7 @@ export const mediaPcFontpath = {
   slug: "media-pc-fontpath",
   definition: "the folder the client reads fonts from on Windows and Mac",
   markup: "xml",
+  loadedAs: "PC/fontpath.xml",
   invariants: [
     {
       invariantKind: "departure",
