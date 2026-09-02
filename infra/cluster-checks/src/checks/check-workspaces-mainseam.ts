@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { execFileSync } from "node:child_process"
 import { mkdtempSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
@@ -19,6 +19,8 @@ import {
   validateWorkspacesAgainstSeam,
   type WorkspacesSeamResult,
 } from "../lib/workspaces-mainseam.ts"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[workspaces-mainseam]"
 const SEAM_PATH = "akasha/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"

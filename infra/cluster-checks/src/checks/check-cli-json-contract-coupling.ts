@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, relative, resolve } from "node:path"
@@ -18,6 +18,8 @@ import { examineFilePopulation } from "../../../../tools/lib/check-workflow/popu
 import { repoDoc } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[cli-json-contract-coupling]"
 

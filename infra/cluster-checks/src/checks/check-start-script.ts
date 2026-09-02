@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
@@ -19,6 +19,8 @@ import {
   type StartScriptFinding,
 } from "../lib/start-script-rules.ts"
 import { computeExitCode, exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[check-start-script]"
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
@@ -16,6 +16,8 @@ import { getRepoRoot } from "../lib/repo-root.ts"
 import { discoverRouterApps } from "../../../../tools/lib/check-workflow/router-apps"
 import { extractRouteModulePaths, isServerModulePath, isTestFilePath } from "../../../../tools/lib/check-workflow/rr-server-module-imports"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[client-env-inlined]"
 

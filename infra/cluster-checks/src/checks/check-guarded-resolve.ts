@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import { CHECK_EXEMPT_DIRS } from "../../../../repo/scope/scope.ts"
@@ -12,6 +12,8 @@ import { examineFilePopulation, examinePopulation } from "../../../../tools/lib/
 import { repoTopLevelDirs } from "../lib/repo-path-resolver.ts"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[guarded-resolve]"
 

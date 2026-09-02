@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync } from "node:fs"
 import { relative, resolve } from "node:path"
@@ -24,6 +24,8 @@ import { examineFilePopulation } from "../../../../tools/lib/check-workflow/popu
 import { getRepoRoot } from "../lib/repo-root.ts"
 import type { NormalizedFinding, SyntaxScannerEntry } from "../lib/syntax-scanner-entry.ts"
 import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[check-component-layout]"
 

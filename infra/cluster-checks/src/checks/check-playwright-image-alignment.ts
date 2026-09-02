@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
@@ -18,6 +18,8 @@ import { examinePopulation } from "../../../../tools/lib/check-workflow/populati
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PACKAGE_JSON_SCHEMA = z.record(z.string(), z.unknown())
 const DEP_TYPES = ["dependencies", "devDependencies", "optionalDependencies"] as const

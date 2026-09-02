@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import {
   ALANWALTON_IOS_SEAM_LABEL,
@@ -16,6 +16,8 @@ import {
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 function main(): undefined {
   const repoRoot =

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
@@ -19,6 +19,8 @@ import {
   scanHarnessCredentialScriptText,
 } from "../lib/ts-harness-credential-script-text.ts"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[harness-credential-script-text]"
 

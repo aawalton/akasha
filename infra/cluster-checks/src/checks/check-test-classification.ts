@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
@@ -21,6 +21,8 @@ import {
 } from "../lib/test-classification"
 import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { TS_FILE_NODE_TYPES, tsFileNodeIdToCodeRepoRel } from "../../../../tools/lib/graph/producers/file/ts-file/types"
+
+if (import.meta.main) refuseRetired()
 
 interface TestClassificationViolation extends Violation {
   file: string

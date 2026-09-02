@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { readdirSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
@@ -17,6 +17,8 @@ import {
 import { examineFilePopulation, type Population, populationCertifies } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[eso-live-dir-candidate-order]"
 const TS_SOURCE = "akasha/temper/temper-eso-paths/eso-paths/eso-paths.module.code.ts"

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
@@ -9,6 +9,8 @@ import { parseArgs, REPO_ROOT_FLAG } from "../lib/cli-args.ts"
 import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PACKAGE_JSON_SCHEMA = z.record(z.string(), z.unknown())
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import { codeRoot } from "../../../../tools/lib/code-root.ts"
@@ -23,6 +23,8 @@ import {
 } from "../lib/workspace-packages.ts"
 import { discoverWorkspaceTsFiles } from "../lib/workspace-ts-files.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[tailwind-sources]"
 

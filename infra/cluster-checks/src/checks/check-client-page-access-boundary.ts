@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { relative } from "node:path"
 import ts from "typescript"
@@ -14,6 +14,8 @@ import {
   scanClientPageAccess,
 } from "../lib/ts-client-page-access.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[client-page-access-boundary]"
 

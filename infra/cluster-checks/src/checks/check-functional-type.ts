@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
@@ -20,6 +20,8 @@ import {
 import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[check-functional-type]"
 

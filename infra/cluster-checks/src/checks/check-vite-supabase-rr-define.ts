@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, readFileSync } from "node:fs"
 import { basename, dirname, resolve } from "node:path"
@@ -12,6 +12,8 @@ import { examineFilePopulation } from "../../../../tools/lib/check-workflow/popu
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 import type { ViteSupabaseRrDefineViolation } from "./check-vite-supabase-rr-define-json-contract.ts"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[vite-supabase-rr-define]"
 const SUPABASE_RR_PKG = "@akasha/supabase-rr"

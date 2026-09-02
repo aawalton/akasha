@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
@@ -15,6 +15,8 @@ import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
 import { examineFilePopulation, examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[check-color-literals]"
 

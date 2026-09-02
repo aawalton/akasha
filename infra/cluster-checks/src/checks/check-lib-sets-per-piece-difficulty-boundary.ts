@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import ts from "typescript"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
@@ -9,6 +9,8 @@ import { examineFilePopulation } from "../../../../tools/lib/check-workflow/popu
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { type SyntaxScannerEntry, scriptKindFor } from "../lib/syntax-scanner-entry.ts"
 import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[lib-sets-per-piece-difficulty-boundary]"
 

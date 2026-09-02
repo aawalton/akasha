@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import { packageDependencyCycles } from "../lib/package-cycles.ts"
@@ -11,6 +11,8 @@ import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[check-acyclic-packages]"
 

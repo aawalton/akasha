@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { readFileSync } from "node:fs"
 import { basename, dirname, posix, relative, resolve } from "node:path"
@@ -14,6 +14,8 @@ import { getRepoRoot } from "../lib/repo-root.ts"
 import { extractShellLuaPathLiterals, extractTsPathLiterals } from "../lib/ts-path-literals.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[check-repo-paths]"
 

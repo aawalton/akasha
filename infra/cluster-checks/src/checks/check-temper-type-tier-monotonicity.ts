@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
@@ -32,6 +32,8 @@ import {
   tierForWorkspacePath,
 } from "../lib/temper-type-tier.ts"
 import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[check-temper-type-tier-monotonicity]"
 

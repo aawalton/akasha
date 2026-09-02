@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
@@ -17,6 +17,8 @@ import {
 import { applyFixes, type CollectionFinding, scanCollectionTypes } from "../lib/ts-collection-types.ts"
 import { listTsFiles } from "../lib/ts-file-iteration.ts"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[readonly-collections]"
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
@@ -18,6 +18,8 @@ import {
   type TstlThisVoidSelfDropFinding,
 } from "../lib/ts-tstl-this-void-self-drop.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[tstl-this-void-self-drop]"
 const AMBIENT_TYPES_REL = "temper/addons/types"

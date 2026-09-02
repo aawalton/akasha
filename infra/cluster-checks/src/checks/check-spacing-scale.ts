@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { readFileSync } from "node:fs"
 import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
@@ -28,6 +28,8 @@ import {
   type WidgetScopeViolation,
   type WidgetSite,
 } from "../lib/widget-sites.ts"
+
+if (import.meta.main) refuseRetired()
 
 type ReportedViolation = SpacingViolation | WidgetScopeViolation
 

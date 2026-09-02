@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
@@ -11,6 +11,8 @@ import { computePinViolations } from "../lib/dep-version-policy.ts"
 import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PACKAGE_JSON_SCHEMA = z.record(z.string(), z.unknown())
 

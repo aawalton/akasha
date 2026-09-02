@@ -1,7 +1,12 @@
-// Importing this module refuses and exits. It is imported first by every retired
-// cluster check so that running one says why rather than producing a result.
+// Running a retired cluster check refuses and exits. Every retired check calls
+// `refuseRetired()` under `import.meta.main`, so running one says why rather than
+// producing a result.
 //
-// Do not import this from anything that is meant to run.
+// The refusal is a call, not an import side effect. Seventeen of the retired
+// checks also export scanners that live code imports for, and a module that exits
+// while being imported ends whatever imported it with nothing said — no stack, no
+// name, no way to catch it. Refusing at call time keeps the guard and costs no
+// reader their run.
 
 const SAID = [
   "",
@@ -25,7 +30,8 @@ const SAID = [
   "",
 ].join("\n")
 
-process.stderr.write(`${SAID}\n`)
-
-// 2 is EXIT_TOOL_ERROR: this is not a clean run and not a violation count.
-process.exit(2)
+export function refuseRetired(): never {
+  process.stderr.write(`${SAID}\n`)
+  // 2 is EXIT_TOOL_ERROR: this is not a clean run and not a violation count.
+  process.exit(2)
+}

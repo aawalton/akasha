@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
@@ -16,6 +16,8 @@ import { examinePopulation } from "../../../../tools/lib/check-workflow/populati
 import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { assertManifestShape } from "../lib/sops-manifest.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[sops-manifests]"
 

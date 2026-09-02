@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
@@ -11,6 +11,8 @@ import { getRepoRoot } from "../lib/repo-root.ts"
 import type { NormalizedFinding, SyntaxScannerEntry } from "../lib/syntax-scanner-entry.ts"
 import { listTsFiles } from "../lib/ts-file-iteration.ts"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[libc-ffi-binding]"
 

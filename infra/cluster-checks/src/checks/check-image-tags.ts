@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
@@ -18,6 +18,8 @@ import { checkImage } from "../lib/image-tag-rule.ts"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[image-tags]"
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import ts from "typescript"
@@ -33,6 +33,8 @@ import { rollUpPackageImportGraphs } from "../lib/tsconfig-import-graph-rollup.t
 import { groupHeading, guidedText } from "../lib/tsconfig-rule-guidance.ts"
 import { validateNestedPackageContainment } from "../lib/tsconfig-source-layout.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[tsconfig]"
 

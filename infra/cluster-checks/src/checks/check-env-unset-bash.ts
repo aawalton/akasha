@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
@@ -9,6 +9,8 @@ import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
 import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const SCAN_GLOBS = ["**/*.ts", "**/*.tsx", "**/*.sh", "**/*.bash"]
 

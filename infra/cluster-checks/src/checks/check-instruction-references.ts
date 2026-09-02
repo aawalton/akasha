@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { execFileSync } from "node:child_process"
 import { closeSync, existsSync, openSync, readSync } from "node:fs"
@@ -13,6 +13,8 @@ import {
 import { examineFilePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[instruction-references]"
 

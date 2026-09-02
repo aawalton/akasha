@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "./lib/retired.ts"
+import { refuseRetired } from "./lib/retired.ts"
 
 import {
   decideLocalCheckExit,
@@ -11,6 +11,8 @@ import {
 import { getRepoRoot } from "./lib/repo-root"
 import { routedCheckArgv } from "../../../tools/lib/check-workflow/run-check-routing.ts"
 import { emitVerdict } from "../../../tools/lib/verdict-channel"
+
+if (import.meta.main) refuseRetired()
 
 const ROOT = getRepoRoot()
 

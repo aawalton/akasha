@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { readFileSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
@@ -14,6 +14,8 @@ import { applyRatchet, carriesProse, findRestatements, nextRatchet, PROSE_CARRIE
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { departedDetail, renderTightening } from "../lib/suppression-subject.ts"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[prose-mechanism-restatement]"
 const RATCHET_REL = "infra/cluster-checks/src/lib/prose-mechanism-restatement.ratchet.json"

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { spawnSync } from "node:child_process"
 import { existsSync } from "node:fs"
@@ -15,6 +15,8 @@ import {
 } from "../lib/porcelain-status-boundary.ts"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[porcelain-status-boundary]"
 

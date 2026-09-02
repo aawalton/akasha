@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
@@ -15,6 +15,8 @@ import { MOCK_MODULE_EDGE_TYPE, TS_FILE_NODE_TYPES, tsFileNodeIdToCodeRepoRel } 
 import { TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
 import { resolvePackageExport } from "../../../../tools/lib/graph/producers/lib/resolve-package-export"
 import { PACKAGE_NODE_TYPE, PackageAttrsSchema, packageNodeIdToWorkspaceName } from "../../../../tools/lib/graph/producers/package/types"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[cross-workspace-mock-reach]"
 

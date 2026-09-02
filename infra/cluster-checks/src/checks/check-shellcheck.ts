@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import { classifyExtension } from "../../../../file-kind/file-kind.ts"
@@ -15,6 +15,8 @@ import {
   type ShellcheckViolation,
 } from "../lib/shellcheck-violations.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[shellcheck]"
 

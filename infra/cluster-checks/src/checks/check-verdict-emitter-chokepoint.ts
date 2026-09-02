@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
@@ -17,6 +17,8 @@ import {
   reconcileChokepoint,
 } from "../lib/verdict-emitter-chokepoint.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[verdict-emitter-chokepoint]"
 const CHECK_SCRIPTS_DIR = "packages/infra/checks/src/checks"

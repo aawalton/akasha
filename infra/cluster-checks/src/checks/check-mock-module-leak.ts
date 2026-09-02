@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
@@ -15,6 +15,8 @@ import { type FetchSeamLeakFinding, findFetchSeamLeakViolations } from "../lib/f
 import { buildMockLeakContext, type MockLeakContext, slotKeyOf } from "../lib/mock-module-leak-context.ts"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 
 const PREFIX = "[mock-module-leak]"

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { readdirSync, readFileSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
@@ -15,6 +15,8 @@ import {
 import { examineFilePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[eso-global-decl-consistency]"
 const ESO_REL = "temper/addons/types/eso"

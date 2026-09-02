@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { readdirSync, readFileSync } from "node:fs"
 import { dirname } from "node:path"
@@ -9,6 +9,8 @@ import { examinePopulation } from "../../../../tools/lib/check-workflow/populati
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { PAYLOAD_MIRRORS, shapeMirrorMembers } from "../../../../tools/lib/check-workflow/widget-payload-shape-mirror"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[widget-payload-shape-mirror]"
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
 import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
@@ -11,6 +11,8 @@ import {
   type SourceFileHeader,
   scanGeneratedSuffix,
 } from "./check-generated-suffix.ts"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[generated-suffix]"
 

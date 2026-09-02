@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { realpathSync } from "node:fs"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
@@ -8,6 +8,8 @@ import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
 import { examineFilePopulation, examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[git-guard-both-forms]"
 

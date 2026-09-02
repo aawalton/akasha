@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
@@ -23,6 +23,8 @@ import { examinePopulation, type Population } from "../../../../tools/lib/check-
 import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[codegen-type-identity-drift]"
 const SUCCESS_MESSAGE =

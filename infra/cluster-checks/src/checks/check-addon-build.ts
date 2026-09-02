@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
@@ -28,6 +28,8 @@ import {
 } from "../lib/addon-build-population.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[addon-build]"
 const ADDONS_DIST_REL = "temper/addons/dist"

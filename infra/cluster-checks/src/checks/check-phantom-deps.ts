@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import { codeRoot } from "../../../../tools/lib/code-root.ts"
@@ -10,6 +10,8 @@ import { examinePopulation, type Population } from "../../../../tools/lib/check-
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { loadWorkspaces, type WorkspaceData, type WorkspaceGraph } from "./check-phantom-deps-graph.ts"
 import type { PhantomDepViolation } from "./check-phantom-deps-json-contract.ts"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[phantom-deps]"
 

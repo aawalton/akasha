@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
@@ -20,6 +20,8 @@ import { examinePopulation } from "../../../../tools/lib/check-workflow/populati
 import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { findOrphans, type SourceFile } from "../lib/yaml-usage.ts"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[yaml-usage]"
 

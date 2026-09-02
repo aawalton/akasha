@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
@@ -18,6 +18,8 @@ import {
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[properties-file-key-space]"
 

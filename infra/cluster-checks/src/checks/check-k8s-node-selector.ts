@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import "../lib/retired.ts"
+import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
@@ -24,6 +24,8 @@ import {
 } from "../lib/k8s-node-selector.ts"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+
+if (import.meta.main) refuseRetired()
 
 const PREFIX = "[k8s-node-selector]"
 
