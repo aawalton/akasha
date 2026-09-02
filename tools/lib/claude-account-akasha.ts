@@ -1,7 +1,5 @@
-import {
-  type Value,
-  valueAt,
-} from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { everyOfType } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { secretAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import {
@@ -13,9 +11,11 @@ import {
   mergeUncommitted,
   uncommittedIn,
 } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
+import {
+  type Value,
+  valueAt,
+} from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
 import { propertiesOf } from "../../akasha/pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
-import { onceInCall } from "@akasha/command-system/during-call"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 // A claude-account stands in akasha and the readers above still ask for it by the keys its
 // markdown page carried. This answers them under those keys so that moving the page changes
@@ -33,7 +33,7 @@ const PAGE_TYPE = "claude-account"
 // answer that went stale: a folder move repoints no string in this repository, so the prefix would
 // have matched nothing and every reader below would have seen a fleet of none. This constant is
 // reached only for a root the index names no account in, where there is no page to read it off.
-const ACCOUNT_DIR = "akasha/agents-system/claude-account/claude-accounts"
+const ACCOUNT_DIR = "akasha/agents-system/claude-account/pages"
 
 export function akashaRoot(): string {
   return rootFor(resolveRoots(), AKASHA)
@@ -234,7 +234,8 @@ export function holdBesideAccount(
   values: Readonly<Record<string, unknown>>
 ): string | null {
   const page = akashaAccountPath(account)
-  if (page === null) return `no page stands for \`${account}\`, and what is observed of it stands beside one`
+  if (page === null)
+    return `no page stands for \`${account}\`, and what is observed of it stands beside one`
   const root = akashaRoot()
   const held: Record<string, unknown> = {}
   const dropping: string[] = []
