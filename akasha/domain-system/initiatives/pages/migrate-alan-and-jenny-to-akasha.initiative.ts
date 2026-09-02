@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "NOT a move but a remodelling of 7844 lines: `file-has-its-page` refuses any akasha path the index does not list, so `src/` cannot exist. 77 module pages plus partSlugs, 653 comment lines out, 5 classes, every import rewritten. Both blockers answered (`db949e8a99`): tsconfig DISSOLVED, akasha packages need none; `vscode.d.ts` STAYS OUTSIDE akasha, being a private fork's surface no published package matches, and chunking breaks promote.sh's byte compare. Never repoint a symlink before code lands.",
+        "Typings now resolve from inside akasha (`000d233041`) with no copy and the original untouched. What is left is a remodelling, not a move: `file-has-its-page` bars a plain `src/`, so 77 module pages plus partSlugs, 653 comment lines out, every import rewritten, and `no-void-return` refuses the void-returning handlers these 24 files are full of. Both earlier blockers answered at `db949e8a99`. Never repoint a symlink before code lands, or 14 commands vanish while the audit skips green.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
