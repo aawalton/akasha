@@ -23,7 +23,7 @@ interface PtfComboBox {
     name: string | number,
     callback: (this: void, control: Control, text: string | number, choice: unknown) => void
   ) => PtfComboBoxItem
-  AddItem: (this: PtfComboBox, entry: PtfComboBoxItem, suppressUpdate?: boolean) => void
+  AddItem: (this: PtfComboBox, entry: PtfComboBoxItem, suppressUpdate?: unknown) => void
   SetSelectedItem: (this: PtfComboBox, itemName: string | number) => void
 }
 
