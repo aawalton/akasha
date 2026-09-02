@@ -9,11 +9,6 @@ export const migrateAlanAndJennyToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "All three iOS apps ship to TestFlight from an akasha command.",
-      workingMemory:
-        "All three uploaded and reported VALID far-side: builds 200 `alanwalton`, 22 `smilingjenny`, 2 `atlas`, each stamped `2ee5df1158`. A second lane is confirming those builds against App Store Connect before this intent is popped. `0d75e4d030` gave the command `--ref`; before it `origin/main` was hardwired and the checkout unread, so four runs exited 0 having built a tree nobody named. Confirm a build by `filter[version]`: the sorted list lagged and read a real success as absent.",
-    },
-    {
       statement: "Alan's and Jenny's safety iOS widgets work.",
       workingMemory:
         "Both halves are proven as far as the pod; the phones are unseen. Alan's deployed at `d0f4d24621`. Jenny's landed at `aceffc1382`, a second `runs` line on his relay, and `172cd167b9`, her route on the same `safety` group. Her site now serves `49134b9632`, where `/api/errors` answers 405 rather than 404. Proven against the real store and the real held reading: 401 bare, 503 with nothing carried in, 200 and a whole stoplight otherwise, plus 16 tests. Her tile shows Alan's level, by design.",
