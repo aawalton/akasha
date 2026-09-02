@@ -30,6 +30,13 @@ export function readingKept(root: string, page: string): Reading | null {
   return { value, at }
 }
 
+export function readingOn(values: Readonly<Record<string, unknown>>): Reading | null {
+  const value = values[LAST_VALUE]
+  const at = values[LAST_VALUE_AT]
+  if (typeof value !== "number" || typeof at !== "string") return null
+  return { value, at }
+}
+
 export function readingAged(kept: Reading, now: Date): number {
   const took = Date.parse(kept.at)
   if (Number.isNaN(took)) {
