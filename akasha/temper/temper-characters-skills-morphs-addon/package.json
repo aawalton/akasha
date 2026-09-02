@@ -1,0 +1,19 @@
+{
+  "name": "@akasha/temper-characters-skills-morphs-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./skill-morph-strip": "./skill-morph-strip/skill-morph-strip.module.code.ts",
+    "./skill-morph-tracking": "./skill-morph-tracking/skill-morph-tracking.module.code.ts",
+    "./skill-morph-task-hud": "./skill-morph-task-hud/skill-morph-task-hud.module.code.ts",
+    "./skill-morph-task-auto-complete": "./skill-morph-task-auto-complete/skill-morph-task-auto-complete.module.code.ts",
+    "./skill-morph-task-progress": "./skill-morph-task-progress/skill-morph-task-progress.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-characters-capture-addon": "workspace:*",
+    "@akasha/temper-completion": "workspace:*",
+    "@akasha/temper-player-completion-state": "workspace:*",
+    "@akasha/temper-skill-morphs": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

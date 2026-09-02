@@ -1051,6 +1051,16 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-characters-skills-morphs-addon": {
+      "name": "@akasha/temper-characters-skills-morphs-addon",
+      "dependencies": {
+        "@akasha/temper-characters-capture-addon": "workspace:*",
+        "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-player-completion-state": "workspace:*",
+        "@akasha/temper-skill-morphs": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
     "akasha/temper/temper-characters-stats": {
       "name": "@akasha/temper-characters-stats",
       "dependencies": {
@@ -3601,6 +3611,8 @@
     "@akasha/temper-characters-capture-addon": ["@akasha/temper-characters-capture-addon@workspace:akasha/temper/temper-characters-capture-addon"],
 
     "@akasha/temper-characters-equipment": ["@akasha/temper-characters-equipment@workspace:akasha/temper/temper-characters-equipment"],
+
+    "@akasha/temper-characters-skills-morphs-addon": ["@akasha/temper-characters-skills-morphs-addon@workspace:akasha/temper/temper-characters-skills-morphs-addon"],
 
     "@akasha/temper-characters-stats": ["@akasha/temper-characters-stats@workspace:akasha/temper/temper-characters-stats"],
 
