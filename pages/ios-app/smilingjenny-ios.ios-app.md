@@ -16,7 +16,7 @@ capacitor-config-repo-path: akasha:akasha/code-system/ios-apps/pages/smilingjenn
 shared-widget-repo-path: akasha:akasha/code-system/ios-components/pages
 own-widget-repo-path: akasha:akasha/code-system/ios-programs/pages/smilingjenny-widget
 sim-build-script: akasha:akasha/code-system/ios-apps/scripts/build-sim/build-sim.shell-script.shell.sh
-seam-script: akasha:akasha/code-system/ios-apps/pages/smilingjenny/scripts/smilingjenny-ios-seam/smilingjenny-ios-seam.shell-script.shell.sh
+seam-script: akasha:akasha/code-system/ios-apps/pages/smilingjenny/scripts/ios-seam/smilingjenny-ios-seam.shell-script.shell.sh
 entitlements-repo-path: akasha:akasha/code-system/ios-programs/pages/smilingjenny-app/smilingjenny-app.ios-program.entitlements.entitlements
 web-dir-repo-path: akasha:akasha/code-system/ios-apps/pages/smilingjenny/www
 asc-capabilities:
