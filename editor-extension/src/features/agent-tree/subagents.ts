@@ -9,6 +9,11 @@ const TRANSCRIPT_RECORD = z.custom<Record<string, unknown>>(isJsonObject);
 export interface SubagentNode {
 	readonly key: string;
 	readonly label: string;
+	// The id this subagent runs under, which is the second half of its agent id and the half its
+	// page is named for. Null until the Agent call it was dispatched by hands back a result naming
+	// it, and null for good where that call never does. A row holding null is a row akasha's pages
+	// cannot be keyed to, so it opens nothing.
+	readonly agentId: string | null;
 	readonly children: readonly SubagentNode[];
 }
 
@@ -110,7 +115,12 @@ export function createSubagentReader(): SubagentReader {
 				const state = await advance(childPath, childPath);
 				children = await descend(runningSubagents(state), subagentsDir, depth + 1);
 			}
-			nodes.push({ key: subagent.key, label: subagent.label, children });
+			nodes.push({
+				key: subagent.key,
+				label: subagent.label,
+				agentId: subagent.agentId,
+				children,
+			});
 		}
 		return nodes;
 	};

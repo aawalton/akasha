@@ -6,6 +6,8 @@ import { seatContextValue } from './toggles.ts';
 
 export const REVEAL_TERMINAL_COMMAND = 'opsAgentTree.revealTerminal';
 
+const OPEN_COMMAND = 'vscode.open';
+
 export interface SeatClick {
 	readonly id: string;
 	readonly name: string;
@@ -88,14 +90,20 @@ function buildTreeItem(element: AgentNode, filtering: boolean): vscode.TreeItem 
 	item.id = filtering ? `filtered:${element.id}` : element.id;
 	item.count = element.children.length === 0 ? undefined : element.children.length;
 	item.iconPath = new vscode.ThemeIcon('blank');
-	item.tooltip =
-		element.kind === 'subagent'
-			? element.name
-			: [
-				element.name,
-				`${element.live ? 'Running' : 'Stopped'}, ${element.place ?? 'headless'}`,
-				turnStateSaid(element.state, element.waitingOn),
-			].filter((line): line is string => line !== undefined).join('\n');
+	// THE LAST LINE OF A TOOLTIP IS THE PAGE AKASHA HOLDS FOR THE ROW, and it is there only where
+	// the page is. `forest.ts` carries a path onto a row only after the verb opened that file while
+	// composing its answer, so a tooltip naming a page is a tooltip naming one that was standing.
+	// A row akasha holds no page for says so rather than leaving the reader to guess whether the
+	// panel lost the path or the page was never there — the two look identical as a missing line.
+	item.tooltip = (element.kind === 'subagent'
+		? [element.name, element.at ?? 'akasha holds no page for this subagent']
+		: [
+			element.name,
+			`${element.live ? 'Running' : 'Stopped'}, ${element.place ?? 'headless'}`,
+			turnStateSaid(element.state, element.waitingOn),
+			element.at ?? 'akasha holds no page for this seat',
+		]
+	).filter((line): line is string => line !== undefined).join('\n');
 	if (element.kind === 'subagent') {
 		item.resourceUri = vscode.Uri.from({
 			scheme: AGENT_SCHEME,
@@ -116,12 +124,24 @@ function buildTreeItem(element: AgentNode, filtering: boolean): vscode.TreeItem 
 		element.kind === 'subagent'
 			? 'subagent'
 			: seatContextValue(element.live, element.place ?? 'headless');
+	// WHAT A CLICK DOES IS NOT THE SAME ON BOTH KINDS OF ROW, and the difference is what each row
+	// already had. A seat's click brings the terminal it is working in forward, which is the whole
+	// reason the panel is looked at while a fleet is running, and it is reachable nowhere else —
+	// `opsAgentTree.revealTerminal` is contributed to no menu. Its page is offered beside it
+	// through `opsAgentTree.openPage` rather than in place of it. A subagent's row had no click at
+	// all, so its page takes it.
 	if (element.kind === 'seat') {
 		const clicked: SeatClick = { id: element.id, name: element.name };
 		item.command = {
 			command: REVEAL_TERMINAL_COMMAND,
 			title: 'Show what this seat is doing',
 			arguments: [clicked],
+		};
+	} else if (element.at !== undefined) {
+		item.command = {
+			command: OPEN_COMMAND,
+			title: 'Open this document',
+			arguments: [vscode.Uri.file(element.at), { preview: true }],
 		};
 	}
 	return item;

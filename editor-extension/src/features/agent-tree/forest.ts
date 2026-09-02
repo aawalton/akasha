@@ -1,6 +1,13 @@
+import * as path from "node:path"
 import type { SeatMode } from "../../seat/mode.ts"
 import { dropSeatTranscripts, seatTranscriptOf } from "../transcript/sources.ts"
-import { askHarness, type HarnessRow, parseForestRows, parseStateColour } from "./harness.ts"
+import {
+  askHarness,
+  type ForestAnswer,
+  type HarnessRow,
+  parseForest,
+  parseStateColour,
+} from "./harness.ts"
 import { readSeatPlaces } from "./lookup.ts"
 import type { SubagentNode, SubagentReader } from "./subagents.ts"
 
@@ -21,6 +28,7 @@ export interface SeatRow {
   readonly state: string | null
   readonly waitingOn: string | null
   readonly colour: string | null
+  readonly at: string | null
 }
 
 export type AgentKind = "seat" | "subagent"
@@ -34,7 +42,42 @@ export interface AgentNode {
   readonly state?: string | undefined
   readonly waitingOn?: string | undefined
   readonly colour?: string | undefined
+  // The absolute path of the page akasha holds for this agent, or undefined where it holds none.
+  // A row carrying undefined names no page anywhere it draws: not in its tooltip and not in
+  // anything it opens.
+  readonly at?: string | undefined
   readonly children: readonly AgentNode[]
+}
+
+// WHERE THE PAGES ARE, JOINED TO THE ROWS THAT ARE DRAWN.
+//
+// A seat's page comes down with its own row, because the verb reading the seat is the one that
+// found it. A subagent's cannot: which subagents are running is folded out of each seat's
+// transcript here, and which have a page is answered by akasha's index there, so the two are
+// brought together on the pair a subagent page is keyed by — the seat that ran it and the id it
+// runs under.
+export interface AgentPages {
+  readonly bySubagent: ReadonlyMap<string, string>
+}
+
+// The seat name and the id part cannot both be read out of one joined string unambiguously — a
+// seat name may hold the parting character and an id may begin with it — so they are held apart
+// by a byte neither can carry rather than by a hyphen either of them may.
+const APART = "\u0000"
+
+export function subagentKey(seatName: string, own: string): string {
+  return `${seatName}${APART}${own}`
+}
+
+export function agentPagesIn(answer: ForestAnswer): AgentPages {
+  const bySubagent = new Map<string, string>()
+  const repo = answer.repo
+  if (repo !== null) {
+    for (const page of answer.subagentPages) {
+      bySubagent.set(subagentKey(page.seat, page.own), path.join(repo, page.at))
+    }
+  }
+  return { bySubagent }
 }
 
 export interface AgentForest {
@@ -50,7 +93,8 @@ export interface AgentForest {
 }
 
 export async function readAgentForest(subagents: SubagentReader): Promise<AgentForest> {
-  const rows: readonly HarnessRow[] = parseForestRows(await askHarness("agent-forest"))
+  const answer: ForestAnswer = parseForest(await askHarness("agent-forest"))
+  const rows: readonly HarnessRow[] = answer.rows
   const liveIds = new Set(rows.filter((row) => row.live).map((row) => row.id))
 
   const running = new Map<string, readonly SubagentNode[]>()
@@ -79,7 +123,15 @@ export async function readAgentForest(subagents: SubagentReader): Promise<AgentF
   }
 
   const places = readSeatPlaces(rows)
-  const roots = assembleForest(rows, liveIds, running, places, await workingColour())
+  const roots = assembleForest(
+    rows,
+    liveIds,
+    running,
+    places,
+    await workingColour(),
+    answer.repo,
+    agentPagesIn(answer)
+  )
   return {
     roots,
     alanPrincipalCount,
@@ -114,12 +166,16 @@ export function countRunning(nodes: readonly AgentNode[]): number {
   return total
 }
 
+const NO_PAGES: AgentPages = { bySubagent: new Map() }
+
 export function assembleForest(
   rows: readonly SeatRow[],
   liveIds: ReadonlySet<string>,
   subagentsBySeat: ReadonlyMap<string, readonly SubagentNode[]>,
   places: ReadonlyMap<string, SeatMode>,
-  drawnWorking?: string
+  drawnWorking?: string,
+  repo?: string | null,
+  pages: AgentPages = NO_PAGES
 ): readonly AgentNode[] {
   const present = new Set(rows.map((r) => r.id))
   const childrenByParent = new Map<string, SeatRow[]>()
@@ -144,18 +200,30 @@ export function assembleForest(
       .filter((c) => !seen.has(c.id))
       .map((c) => build(c, seen))
       .filter(holdsSomethingRunning)
+    const name = row.name ?? row.id
+    // Every subagent under a seat is keyed by that seat's NAME, at whatever depth it stands. A
+    // subagent's page is named for the seat that ran it, and the seat that ran a subagent's
+    // subagent is still that seat: the agent id at every depth is the seat's id and the id the
+    // agent runs under, parted by two hyphens, with nothing in between for a middle generation.
     const subagents = (subagentsBySeat.get(row.id) ?? []).map((one) =>
-      toAgentNode(one, drawnWorking)
+      toAgentNode(one, drawnWorking, name, pages)
     )
     return {
       id: row.id,
-      name: row.name ?? row.id,
+      name,
       kind: "seat",
       live: liveIds.has(row.id),
       place: places.get(row.id) ?? "headless",
       state: row.state ?? undefined,
       waitingOn: row.waitingOn ?? undefined,
       colour: row.colour ?? undefined,
+      // Joined here rather than at the verb, because the verb answers one repository-relative path
+      // per row and the editor opens absolute ones. A row whose verb named no page, or an answer
+      // that named no repository to join against, carries nothing.
+      at:
+        row.at === null || repo === null || repo === undefined
+          ? undefined
+          : path.join(repo, row.at),
       children: [...sortByName(seats), ...subagents],
     }
   }
@@ -163,7 +231,12 @@ export function assembleForest(
   return sortByName(roots.map((r) => build(r, new Set())).filter(holdsSomethingRunning))
 }
 
-function toAgentNode(node: SubagentNode, drawnWorking: string | undefined): AgentNode {
+function toAgentNode(
+  node: SubagentNode,
+  drawnWorking: string | undefined,
+  seatName: string,
+  pages: AgentPages
+): AgentNode {
   return {
     id: node.key,
     name: node.label,
@@ -171,7 +244,10 @@ function toAgentNode(node: SubagentNode, drawnWorking: string | undefined): Agen
     live: true,
     state: WORKING,
     colour: drawnWorking,
-    children: node.children.map((child) => toAgentNode(child, drawnWorking)),
+    // A subagent whose dispatching call has not yet named the id it runs under cannot be keyed to
+    // a page, and akasha holds no page for one that has already returned. Both read undefined.
+    at: node.agentId === null ? undefined : pages.bySubagent.get(subagentKey(seatName, node.agentId)),
+    children: node.children.map((child) => toAgentNode(child, drawnWorking, seatName, pages)),
   }
 }
 

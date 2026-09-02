@@ -130,6 +130,11 @@
         "command": "opsAgentTree.copySeatName",
         "category": "Ops Agents",
         "title": "Copy Seat Name"
+      },
+      {
+        "command": "opsAgentTree.openPage",
+        "category": "Ops Agents",
+        "title": "Open Page"
       }
     ],
     "menus": {
@@ -185,6 +190,11 @@
           "command": "opsAgentTree.copySeatName",
           "when": "view == opsAgentTree && viewItem =~ /^seat\\./",
           "group": "6_copypath@1"
+        },
+        {
+          "command": "opsAgentTree.openPage",
+          "when": "view == opsAgentTree",
+          "group": "0_open@1"
         }
       ],
       "editor/title/context/replace": [

@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { seatPageAt, subagentPagesStanding } from "./lib/agent-pages.ts"
 import { sayAnswer } from "./lib/answer.ts"
 import { readSeatForest } from "./lib/seat-forest.ts"
 import { colorOfState } from "./lib/seat-turn-color.ts"
@@ -9,8 +11,10 @@ const HELP = `bun tools/agent-forest.ts — the seats a seat tree is drawn from
 
 Prints one JSON object on stdout and nothing else:
 
-  { "rows": [ { "id", "name", "parent_agent_id", "principal", "launch", "mode",
-                "live", "state", "waitingOn", "color" }, … ] }
+  { "repo",
+    "rows": [ { "id", "name", "parent_agent_id", "principal", "launch", "mode",
+                "live", "state", "waitingOn", "color", "at" }, … ],
+    "subagents": [ { "seat", "own", "at" }, … ] }
 
 Every seat is read from its page in the memory repository and never from a row. A seat
 standing in that repository with an agent present in it reads \`live\` true. One with
@@ -37,6 +41,20 @@ before the stamps reads idle. Every row carries both keys.
 than specified, so whatever draws it picks the shade from its own palette. Every state names a
 domain that states one, so this reads null only for a seat keeping no records at all.
 
+\`repo\` is the akasha checkout every path here was resolved against, and \`at\` is a path inside
+it, so a caller joins the two rather than keeping a second copy of where the repository sits.
+
+\`at\` IS THERE ONLY WHERE THE PAGE IS. A row reads null rather than naming a page that is not
+standing, which is what a seat read back from a commit holds and what a seat that stopped between
+the walk and this line holds. Every path printed was opened while this answer was composed and
+made to declare the id the row carries, so a path the index still names for a page that has gone
+is answered as no path at all rather than as one that will not open.
+
+\`subagents\` is every subagent page akasha holds, keyed by the seat that ran the subagent and the
+id the subagent runs under — the two facts a subagent's page is named for, both read off the page.
+Which subagents are running is not answered here and cannot be: it is read from what each seat is
+doing. These are the pages, for a caller holding the running ones to join against.
+
   --help  This.
 `
 
@@ -51,6 +69,7 @@ export async function main(argv: readonly string[]): Promise<number> {
     return 1
   }
   try {
+    const repo = akashaRoot()
     const rows = readSeatForest().map((row) => {
       const reading = seatTurnStateOf(row.id)
       return {
@@ -58,9 +77,10 @@ export async function main(argv: readonly string[]): Promise<number> {
         state: reading.state,
         waitingOn: reading.waitingOn,
         color: colorOfState(reading.state),
+        at: seatPageAt(row.id, repo),
       }
     })
-    sayAnswer(`${JSON.stringify({ rows })}\n`)
+    sayAnswer(`${JSON.stringify({ repo, rows, subagents: subagentPagesStanding(repo) })}\n`)
   } catch (err) {
     process.stderr.write(`error: ${err instanceof Error ? err.message : String(err)}\n`)
     return 3

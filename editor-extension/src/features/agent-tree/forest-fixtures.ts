@@ -12,13 +12,23 @@ export function row(
 	parent: string | null,
 	principal: string | null = null
 ): SeatRow {
-	return { id, name, parent_agent_id: parent, principal, state: null, waitingOn: null, colour: null };
+	return {
+		id,
+		name,
+		parent_agent_id: parent,
+		principal,
+		state: null,
+		waitingOn: null,
+		colour: null,
+		at: null,
+	};
 }
 
 export function subagent(
 	key: string,
 	label: string,
-	children: readonly SubagentNode[] = []
+	children: readonly SubagentNode[] = [],
+	agentId: string | null = null
 ): SubagentNode {
-	return { key, label, children };
+	return { key, label, agentId, children };
 }

@@ -22,12 +22,14 @@ import {
 	setSeatTerminals,
 } from './tree-state.ts';
 import { showSeat } from './show-seat.ts';
+import { openAgentPage } from './open-page.ts';
 
 
 import { runPlan as runPlanWith } from './run-plan.ts';
 import { countRows, sampleColumns } from './sampling.ts';
 import {
 	COPY_SEAT_NAME_COMMAND,
+	OPEN_PAGE_COMMAND,
 	PLACE_HEADLESS_COMMAND,
 	PLACE_INTERACTIVE_COMMAND,
 	POLL_INTERVAL_MS,
@@ -233,7 +235,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 		vscode.commands.registerCommand(RUN_RESET_COMMAND, (n: unknown) =>
 			runPlan(n, planReset, 'run-reset')
 		),
-		vscode.commands.registerCommand(COPY_SEAT_NAME_COMMAND, (n: unknown) => copySeatName(n))
+		vscode.commands.registerCommand(COPY_SEAT_NAME_COMMAND, (n: unknown) => copySeatName(n)),
+		vscode.commands.registerCommand(OPEN_PAGE_COMMAND, (n: unknown) => openAgentPage(n))
 	);
 
 	await refresh('activate');

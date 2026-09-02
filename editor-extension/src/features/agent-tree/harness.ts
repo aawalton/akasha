@@ -31,6 +31,29 @@ export interface HarnessRow {
 	readonly state: string | null;
 	readonly waitingOn: string | null;
 	readonly colour: string | null;
+	// Where this seat's page stands inside the repository the answer names, or null where akasha
+	// holds none standing. Null is the whole of what a row with no page carries: nothing here
+	// composes a path for one, because a path composed rather than answered is a path that opens
+	// whatever has since been filed under it.
+	readonly at: string | null;
+}
+
+// One subagent page akasha holds, keyed by the seat that ran the subagent and the id the subagent
+// runs under. Which subagents are RUNNING is read from the seats' transcripts and never from here;
+// these are the pages, to be joined against the running ones on those two keys.
+export interface SubagentPage {
+	readonly seat: string;
+	readonly own: string;
+	readonly at: string;
+}
+
+export interface ForestAnswer {
+	// The akasha checkout every `at` was resolved against, or null where the verb named none. A
+	// reading with no repo carries no absolute path for anything, so every row draws without a
+	// document rather than against a root guessed at here.
+	readonly repo: string | null;
+	readonly rows: readonly HarnessRow[];
+	readonly subagentPages: readonly SubagentPage[];
 }
 
 function stringOrNull(value: unknown, field: string, at: number): string | null {
@@ -69,8 +92,48 @@ export function parseForestRows(answer: unknown): readonly HarnessRow[] {
 			state: stringOrNull(row.state, 'state', at),
 			waitingOn: stringOrNull(row.waitingOn, 'waitingOn', at),
 			colour: rowColour(row, at),
+			at: stringOrNull(row.at ?? null, 'at', at),
 		};
 	});
+}
+
+function textIn(held: Record<string, unknown>, key: string): string | null {
+	const value = held[key];
+	return typeof value === 'string' && value !== '' ? value : null;
+}
+
+// A page whose seat, id or path is missing or blank is dropped rather than kept half-keyed: it
+// could only ever be joined to a row by guessing at what it is missing, and a guess here is a row
+// opening another subagent's page.
+export function parseSubagentPages(answer: unknown): readonly SubagentPage[] {
+	if (answer === null || typeof answer !== 'object') { return []; }
+	const held = (answer as { subagents?: unknown }).subagents;
+	if (!Array.isArray(held)) { return []; }
+	const found: SubagentPage[] = [];
+	for (const raw of held) {
+		if (raw === null || typeof raw !== 'object') { continue; }
+		const one = raw as Record<string, unknown>;
+		const seat = textIn(one, 'seat');
+		const own = textIn(one, 'own');
+		const at = textIn(one, 'at');
+		if (seat === null || own === null || at === null) { continue; }
+		found.push({ seat, own, at });
+	}
+	return found;
+}
+
+export function parseForest(answer: unknown): ForestAnswer {
+	const rows = parseForestRows(answer);
+	const held = answer as Record<string, unknown>;
+	const repo = textIn(held, 'repo');
+	return {
+		repo,
+		rows,
+		// Without a repo there is nothing to join a relative path against, so the pages are dropped
+		// rather than carried as paths that would be opened relative to whatever the editor's own
+		// working directory happens to be.
+		subagentPages: repo === null ? [] : parseSubagentPages(answer),
+	};
 }
 
 export function parseStateColour(answer: unknown, state: string): string {
