@@ -1,0 +1,20 @@
+import type { TemperTask } from "../../temper-task.page-type.ts"
+
+export const antiquityLeadsMotifs = {
+  id: "01a05fd3-6985-7fb8-a50c-d7523504d3c5",
+  pageTypeSlug: "temper-task",
+  slug: "antiquity-leads-motifs",
+  title: "Antiquity Leads Motifs",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  character: "erin-solstice",
+  effectiveCharacter: "erin-solstice",
+  esoCharacterId: "8796093022338107",
+  scope: "character",
+  priority: "p2",
+  dueDate: "2026-09-01",
+  displayOrder: 0,
+  completionCardId: "antiquity-leads-motifs",
+  lastCompletedAt: "2026-08-25T14:43:19.000Z",
+  rruleRule: "FREQ=WEEKLY;BYDAY=TU",
+  rruleAnchorFromCompletion: false,
+} as const satisfies TemperTask
