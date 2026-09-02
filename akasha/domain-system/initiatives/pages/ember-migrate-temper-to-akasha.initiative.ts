@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "Worked while intent 1 waits on the ceiling. Outside: 1,777 tracked files name temper, 1,366 under `temper/` (153 packages, 4,484 files), plus `tools/commands/temper` 66, `tools/lib/temper-addon-data` 201, the Rust tray, three services. `rust-crate` and `rust-module` page types made for the tray; the Lua addon ones are owed. The 6,463 files under `pages/temper-*` must not go while the ceiling finding is open, since source holds the only copy of 570MB.",
+        "Every temper file outside akasha is assigned, and no file is unowned. The Rust tray landed as `rust-crate/watcher-tray`. Seven agents still run: commands, services with the watcher libs and Dockerfile, the 153-package `temper/` survey, and three across `tools/lib` — inventory, upstream-data with addon-*, catalog-generate. Lua addon page types are owed. `pages/temper-*`, 6,463 files, must not go while the ceiling finding is open, since source holds the only copy of 570MB.",
     },
   ],
   constraints: [
