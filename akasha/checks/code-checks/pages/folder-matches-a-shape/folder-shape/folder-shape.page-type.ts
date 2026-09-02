@@ -18,7 +18,6 @@ export type Declaring = {
 export type Standing = {
   readonly folder: string
   readonly files: readonly string[]
-  readonly deep: readonly string[]
   readonly pages: readonly Held[]
   readonly properties: readonly Held[]
   readonly strays: readonly Held[]

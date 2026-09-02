@@ -209,36 +209,53 @@ export function claimedIn(held: Held, index: Answering, filing: ReadonlyMap<stri
   }
 }
 
-export function filesUnder(files: readonly string[], folder: string): readonly string[] {
-  return files.filter((one) => folderOf(one) === folder)
+export type Grouped = {
+  readonly at: (folder: string) => readonly string[]
+  readonly foldersIn: (folder: string) => readonly string[]
 }
 
-export function subfoldersOf(folder: string, deep: readonly string[]): readonly string[] {
-  const found = new Set<string>()
-  for (const one of deep) {
-    const at = one.slice(folder.length + 1)
-    const cut = at.indexOf("/")
-    if (cut !== -1) found.add(`${folder}/${at.slice(0, cut)}`)
+export function groupedBy(files: readonly string[]): Grouped {
+  const sitting = new Map<string, string[]>()
+  const beneath = new Map<string, Set<string>>()
+  for (const one of files) {
+    const folder = folderOf(one)
+    const held = sitting.get(folder)
+    if (held === undefined) sitting.set(folder, [one])
+    else held.push(one)
+    let here = folder
+    while (here !== "") {
+      const above = folderOf(here)
+      const kept = beneath.get(above)
+      if (kept === undefined) beneath.set(above, new Set<string>([here]))
+      else kept.add(here)
+      here = above
+    }
   }
-  return [...found].sort()
+  const sorted = new Map<string, readonly string[]>()
+  return {
+    at: (folder) => sitting.get(folder) ?? [],
+    foldersIn: (folder) => {
+      const found = sorted.get(folder)
+      if (found !== undefined) return found
+      const made = [...(beneath.get(folder) ?? [])].sort()
+      sorted.set(folder, made)
+      return made
+    },
+  }
 }
 
-export function pageTypesAt(files: readonly string[], folder: string): readonly string[] {
+export function pageTypesAt(grouped: Grouped, folder: string): readonly string[] {
   const found: string[] = []
-  for (const one of filesUnder(files, folder)) {
+  for (const one of grouped.at(folder)) {
     const said = namedIn(one)
     if (said !== null && said.held === TS && said.tail === PAGE_TYPE) found.push(said.stem)
   }
   return found
 }
 
-export function fieldsIn(
-  index: Answering,
-  files: readonly string[],
-  folder: string
-): readonly string[] {
+export function fieldsIn(index: Answering, grouped: Grouped, folder: string): readonly string[] {
   const found: string[] = []
-  for (const one of filesUnder(files, `${folder}/${PROPERTIES}`)) {
+  for (const one of grouped.at(`${folder}/${PROPERTIES}`)) {
     const said = namedIn(one)
     if (said === null || said.held !== TS || said.tail !== RECORD_PROPERTY) continue
     const value = index.pageAt(RECORD_PROPERTY, said.stem)
@@ -250,13 +267,13 @@ export function fieldsIn(
 
 export function declaringOver(
   index: Answering,
-  files: readonly string[]
+  grouped: Grouped
 ): (folder: string) => Declaring | null {
   const held = new Map<string, Declaring | null>()
   return (folder) => {
     const found = held.get(folder)
     if (found !== undefined) return found
-    const slugs = pageTypesAt(files, folder)
+    const slugs = pageTypesAt(grouped, folder)
     const slug = slugs.length === 1 ? slugs[0] : undefined
     let made: Declaring | null = null
     if (slug !== undefined) {
@@ -265,7 +282,7 @@ export function declaringOver(
       made = {
         slug,
         pluralSlug: value === null ? null : textAt(value, PLURAL_SLUG),
-        propertySlugs: new Set<string>([...declared, ...fieldsIn(index, files, folder)]),
+        propertySlugs: new Set<string>([...declared, ...fieldsIn(index, grouped, folder)]),
       }
     }
     held.set(folder, made)
@@ -275,7 +292,7 @@ export function declaringOver(
 
 export function namingOver(
   index: Answering,
-  files: readonly string[],
+  grouped: Grouped,
   pageTypes: ReadonlySet<string>,
   fileProperties: ReadonlySet<string>
 ): (folder: string) => string | null {
@@ -283,7 +300,8 @@ export function namingOver(
   return (folder) => {
     const found = held.get(folder)
     if (found !== undefined) return found
-    const pages = filesUnder(files, folder)
+    const pages = grouped
+      .at(folder)
       .map((one) => heldIn(one, pageTypes, fileProperties))
       .filter((one) => one.kind === "page")
     const page = pages.length === 1 ? pages[0] : undefined
@@ -330,24 +348,22 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     }
     return held.has(pageTypeSlug)
   }
-  const files = listedFiles(shadow.index, change)
-  const declaring = declaringOver(shadow.index, files)
-  const namedFor = namingOver(shadow.index, files, pageTypes, fileProperties)
+  const grouped = groupedBy(listedFiles(shadow.index, change))
+  const declaring = declaringOver(shadow.index, grouped)
+  const namedFor = namingOver(shadow.index, grouped, pageTypes, fileProperties)
   const parts = partsOver(shadow.index, change.root, stated)
   const entering = enteringOf(shadow)
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {
-    const here = filesUnder(files, folder)
-    const deep = files.filter((one) => one.startsWith(`${folder}/`) && folderOf(one) !== folder)
+    const here = grouped.at(folder)
     const held = here.map((one) =>
       claimedIn(heldIn(one, pageTypes, fileProperties), shadow.index, filing)
     )
     const described: Standing = {
       folder,
       files: here,
-      deep,
-      subfolders: subfoldersOf(folder, deep),
-      under: (at) => filesUnder(files, at),
+      subfolders: grouped.foldersIn(folder),
+      under: (at) => grouped.at(at),
       pages: held.filter((one) => one.kind === "page"),
       properties: held.filter((one) => one.kind === "property"),
       strays: held.filter((one) => one.kind === "stray"),

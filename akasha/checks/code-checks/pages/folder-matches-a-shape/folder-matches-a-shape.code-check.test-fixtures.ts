@@ -1,5 +1,5 @@
 import { heldIn } from "@akasha/pages-system/page-file-name"
-import { filesUnder, subfoldersOf } from "./folder-matches-a-shape.code-check.code.ts"
+import { groupedBy } from "./folder-matches-a-shape.code-check.code.ts"
 import type { Standing } from "./folder-shape/folder-shape.page-type.ts"
 
 const FILE_PROPERTIES = new Set<string>(["code", "test"])
@@ -23,17 +23,17 @@ export function folderFrom(shaping: Shaping): (names: readonly string[]) => Stan
     )
     const files = held.map((each) => each.path)
     const deep = (shaping.deep ?? []).map((each) => `${shaping.folder}/${each}`)
+    const grouped = groupedBy([...files, ...deep])
     return {
       folder: shaping.folder,
       files,
-      deep,
       pages: held.filter((each) => each.kind === "page"),
       properties: held.filter((each) => each.kind === "property"),
       strays: held.filter((each) => each.kind === "stray"),
       entered: () => false,
       extending,
-      subfolders: subfoldersOf(shaping.folder, deep),
-      under: (at) => filesUnder([...files, ...deep], at),
+      subfolders: grouped.foldersIn(shaping.folder),
+      under: (at) => grouped.at(at),
       declaring,
       naming: shaping.naming ?? ((): null => null),
       parts: shaping.parts ?? ((page) => [page.path]),
