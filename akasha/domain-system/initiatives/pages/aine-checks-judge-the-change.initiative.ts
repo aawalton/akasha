@@ -15,7 +15,7 @@ export const aineChecksJudgeTheChange = {
     {
       statement: "What a landing pays for a world built from the change is measured.",
       workingMemory:
-        "Measured warm for a one-file patch on 2026-09-02, at a5c3d23c8e: standing the world up cost `tests-pass` 4.9s to 8.1s over some 30,000 paths, `lint-clean` 2.6s to 4.2s, `shell-clean` 3.2s to 3.9s. Nearly all of that was `cpSync` of the 77,000-file index. Dropping it where no engine reads it took `lint-clean` and `shell-clean` to about 10ms. Writing the shadow's filings over the copy costs `tests-pass` nothing readable above the noise.",
+        "Measured 2026-09-02. Building the world cost `lint-clean` 2.6-4.2s and `shell-clean` 3.2-3.9s copying a 77,000-file index no engine read; dropping it took both to about 10ms. An audit then spent 66,264 git spawns in the index staleness guard, memoised at bc422979b3. Typecheck ran 48.6s and 9.15 GiB cold against 19.1s and 3.10 GiB warm, once the reader stamped a content version and the build's answers were kept per root count. Bun holds 62% more than node for the same program.",
     },
     {
       statement: "A check cannot reach the index or the tree as they were before the change.",
