@@ -9,6 +9,7 @@ export const temperProgress = {
   partSlugs: [
     "page-type/temper-activity-category",
     "page-type/temper-comparison-op",
+    "page-type/temper-completed-day",
     "page-type/temper-completed-month",
     "page-type/temper-completion-category",
     "page-type/temper-completion-override",
