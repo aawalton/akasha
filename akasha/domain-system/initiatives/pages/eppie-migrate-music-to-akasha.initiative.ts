@@ -11,7 +11,7 @@ export const eppieMigrateMusicToAkasha = {
     {
       statement: "Alan's listening is captured again, onto the pages the new system keeps.",
       workingMemory:
-        "The capture was not given up on: an agent overreached and deleted it in `2669aed6` on 1 September. Its five files and 475 lines come back out of `2669aed6^:collections/music/src/listening/` rather than being written again. `capture.ts` holds the drain from `getRecentlyPlayed`, and `play-row.ts` the arithmetic, including the rule that a priming run scores no first listen.",
+        "`akasha music-capture` is built and tested and has never been run, so nothing has been captured since an agent deleted the old capture in `2669aed6` on 1 September. The arithmetic came back out of `2669aed6^` into `module/play-row`, the priming rule with it. Running it the first time is Alan's call, not an agent's. 360 tests pass. The one leg no test reaches is the commit a real capture makes.",
     },
   ],
   constraints: [
