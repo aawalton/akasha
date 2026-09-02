@@ -1,7 +1,8 @@
-import type * as vscode from "vscode"
+import * as vscode from "vscode"
 
 export function renamed(terminal: vscode.Terminal, name: string): undefined {
   terminal.rename(name)
+  terminal.noSuchMemberXyz()
   return undefined
 }
 
