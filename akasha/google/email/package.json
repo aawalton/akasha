@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/email-google",
+  "name": "@akasha/google-email",
   "private": true,
   "type": "module",
   "exports": {

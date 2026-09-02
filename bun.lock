@@ -420,7 +420,7 @@
       },
     },
     "akasha/google/email": {
-      "name": "@akasha/email-google",
+      "name": "@akasha/google-email",
       "dependencies": {
         "@akasha/email-inbound": "workspace:*",
         "@akasha/errors-core": "workspace:*",
@@ -3360,7 +3360,7 @@
 
     "@akasha/google-drive": ["@akasha/google-drive@workspace:akasha/google/drive"],
 
-    "@akasha/email-google": ["@akasha/email-google@workspace:akasha/google/email"],
+    "@akasha/google-email": ["@akasha/google-email@workspace:akasha/google/email"],
 
     "@akasha/email-inbound": ["@akasha/email-inbound@workspace:akasha/email-inbound"],
 
