@@ -33,7 +33,8 @@ const CHARACTER_SOURCES = "akasha/temper/temper-character-sources"
 const SKILL_LINES_SNAP = "akasha/temper/temper-skill-lines/skill-line-category-data"
 const EQUIPMENT_KINDS = "akasha/temper/temper-equipment-kinds"
 const COMPLETION_SNAP = "temper/player-completion/src/generated"
-const COMPLETION_ADDON = "temper/player-completion-addon/src/skill-point-data.ts"
+const SKILL_POINT_SOURCES =
+  "akasha/temper/temper-skill-point-finder/skill-point-sources/skill-point-sources.module.code.ts"
 
 export const MIRROR_GENERATORS: ReadonlyMap<string, CodegenIdentityRemedy> = new Map([
   [ADDON_RULE_TYPES, { repo: "instructions", file: gen("rule-types") }],
@@ -437,7 +438,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "skill-point-public-dungeon",
     canonical: {
       repo: "code",
-      file: COMPLETION_ADDON,
+      file: SKILL_POINT_SOURCES,
       kind: "array-field",
       symbol: "PUBLIC_DUNGEONS",
       field: "key",
