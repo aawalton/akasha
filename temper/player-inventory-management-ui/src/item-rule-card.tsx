@@ -4,16 +4,28 @@ import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import { Text } from "@akasha/design-primitives/text-body"
 import { ItemCard } from "@akasha/design-patterns/item-card"
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuSeparator,
+  DropdownMenuTrigger,
+} from "@akasha/design-primitives/dropdown-menu"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
+import { Text } from "@akasha/design-primitives/text-body"
 import {
   goalIdToValue,
   goalValueToId,
   inventoryRuleGoals,
-} from "@temper/game-items-rules-core/inventory-rule-goals"
-import type { ItemRule } from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-goals"
+import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { EllipsisVertical, Info } from "lucide-react"
 import { memo, useEffect, useState } from "react"
 import {
