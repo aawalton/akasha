@@ -80,5 +80,7 @@ export const temperEsoTypes = {
     "type-declaration/eso-interface-extra-2",
     "type-declaration/eso-interface-extra-3",
     "type-declaration/eso-interface-extra-4",
+    "type-declaration/eso-link-handler",
+    "type-declaration/eso-world-map-zoom",
   ],
 } as const satisfies WorkspacePackage

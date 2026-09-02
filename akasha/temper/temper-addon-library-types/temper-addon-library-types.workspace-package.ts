@@ -42,5 +42,6 @@ export const temperAddonLibraryTypes = {
     "type-declaration/lib-shifter-box",
     "type-declaration/interface-addon-neighbours",
     "type-declaration/temper-hud-global",
+    "type-declaration/lib-group-broadcast",
   ],
 } as const satisfies WorkspacePackage

@@ -19,7 +19,7 @@ declare const COLOR_PICKER: ColorPicker
 
 interface ChatTextEntry {
   SetText: (text: string) => void
-  Open: () => void
+  Open: (text?: string) => void
   FadeIn: () => void
 }
 interface SharedChatSystem {

@@ -15,24 +15,6 @@ declare global {
     SetAllowMarkupType: (markupType: number) => void
   }
 
-  type LinkHandlerCallback = (
-    this: void,
-    link: string,
-    button: number,
-    text: string,
-    color: unknown,
-    linkType: string,
-    ...rest: unknown[]
-  ) => boolean | undefined
-
-  interface LinkHandler {
-    LINK_CLICKED_EVENT: string
-    LINK_MOUSE_UP_EVENT: string
-    RegisterCallback: (eventName: string, callback: LinkHandlerCallback) => void
-  }
-
-  const LINK_HANDLER: LinkHandler
-
   const ZO_VALID_LINK_TYPES_CHAT: Record<string, boolean>
 
   let LibChatMessageSettings: Record<string, unknown> | undefined
