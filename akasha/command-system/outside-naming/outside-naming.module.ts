@@ -18,7 +18,27 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "Git is asked once for every name rather than once for each one.",
+      statement: "Git is asked for many names at once rather than once for each one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "More names than one command line carries are asked for over more calls.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What every call found is answered as one answer with each path said once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A part is looked for where a slash sits beside the part.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name carrying more of a segment than the part looked for is left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A character a pattern would read as a pattern is looked for as that character.",
     },
     {
       invariantKind: "departure",

@@ -101,6 +101,7 @@ type Opened = {
   readonly under: readonly string[]
   readonly gone: readonly string[]
   readonly outside: readonly string[]
+  readonly outsideUnder: readonly string[]
 }
 
 function openedIn(
@@ -112,6 +113,7 @@ function openedIn(
   const under: string[] = []
   const gone: string[] = []
   const outside: string[] = []
+  const outsideUnder: string[] = []
   const seen = new Set<string>()
   for (const one of named) {
     const path = pathAt(root, one)
@@ -159,10 +161,11 @@ function openedIn(
       seen.add(file)
       opened.push(file)
       under.push(file)
+      if (!insideAkasha(file)) outsideUnder.push(file)
     }
   }
   if (refusals.length > 0) return { refusals }
-  return { opened, under, gone, outside }
+  return { opened, under, gone, outside, outsideUnder }
 }
 
 export type Naming = {
@@ -357,7 +360,13 @@ export function remove(argv: readonly string[], given: Given): Answer {
   const gone = [...held.gone].sort()
   const already = alreadyGone(gone, read.dryRun)
   const base = baseOf(root)
-  const naming = leftNaming(root, base, held.outside, new Set([...paths, ...gone]))
+  const naming = leftNaming(
+    root,
+    base,
+    held.outside,
+    held.outsideUnder,
+    new Set([...paths, ...gone])
+  )
   if ("refusal" in naming) return answering([], [naming.refusal], 1)
   if (paths.length === 0) {
     if (!read.dryRun) dropReadings(root, gone)

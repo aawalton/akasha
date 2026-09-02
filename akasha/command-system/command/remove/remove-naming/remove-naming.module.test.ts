@@ -25,6 +25,14 @@ const RECORD = "akasha/domain-system/findings/pages/one-held-went.finding.ts"
 
 const BODY = `export const at = "temper/one-held/main.ts"\n`
 
+const WORDED = "temper/curse"
+
+const WORDED_AT = "temper/curse/main-page.md"
+
+const HELD = "a page that goes\n"
+
+const PROSE = "tools/lib/prose.md"
+
 function world(named: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-remove-naming-")
   git(root, ["init", "--quiet"])
@@ -44,51 +52,72 @@ function namersIn(found: ReturnType<typeof leftNaming>): readonly string[] {
   return "namers" in found ? found.namers : ["it refused"]
 }
 
-test("a path is looked for whole and by its last part, each spelled once", () => {
-  expect(lookedFor(["temper/one-held", "temper/one-held"])).toEqual(["one-held", "temper/one-held"])
-  expect(lookedFor(["held.ts"])).toEqual(["held.ts"])
+function wordedIn(body: string): ReturnType<typeof leftNaming> {
+  const root = world({ [WORDED_AT]: HELD, [PROSE]: body })
+  return leftNaming(root, baseOf(root), [WORDED], [WORDED_AT], new Set([WORDED_AT]))
+}
+
+test("a path is looked for whole, and by its last part and that of each file under it", () => {
+  const looked = lookedFor(["temper/one-held", "temper/one-held"], ["temper/one-held/main.ts"])
+  expect(looked.whole).toEqual(["temper/one-held"])
+  expect(looked.parts).toEqual(["main.ts", "one-held"])
+  expect(lookedFor(["held.ts"], [])).toEqual({ whole: ["held.ts"], parts: [] })
+})
+
+test("prose spelling the last part of a directory with no slash beside it is not a reach", () => {
+  expect(namersIn(wordedIn("The curse of the dunce fell on him, and the curse held.\n"))).toEqual(
+    []
+  )
+})
+
+test("a body reaching a directory that goes by a relative path is found", () => {
+  expect(namersIn(wordedIn(`{ "path": "../curse" }\n`))).toEqual([PROSE])
+})
+
+test("a body reaching a file under a directory that goes by that file's last part is found", () => {
+  expect(namersIn(wordedIn(`import "@scope/held/main-page.md"\n`))).toEqual([PROSE])
 })
 
 test("a file naming what goes is found wherever it sits, inside the akasha folder or outside", () => {
   const root = world({ [GOING]: BODY, [NAMER]: BODY, [INSIDE_AT]: BODY })
-  const found = leftNaming(root, baseOf(root), ["temper/one-held"], new Set([GOING]))
+  const found = leftNaming(root, baseOf(root), ["temper/one-held"], [GOING], new Set([GOING]))
   expect(namersIn(found)).toEqual([INSIDE_AT, NAMER])
 })
 
 test("a file reaching what goes by a relative path is found by the last part of that path", () => {
   const root = world({ [GOING]: BODY, [NAMER]: `{ "path": "../one-held" }\n` })
-  const found = leftNaming(root, baseOf(root), ["temper/one-held"], new Set([GOING]))
+  const found = leftNaming(root, baseOf(root), ["temper/one-held"], [GOING], new Set([GOING]))
   expect(namersIn(found)).toEqual([NAMER])
 })
 
 test("a finding naming what goes is answered apart from the files that would be repointed", () => {
   const root = world({ [GOING]: BODY, [NAMER]: BODY, [RECORD]: BODY })
-  const found = leftNaming(root, baseOf(root), ["temper/one-held"], new Set([GOING]))
+  const found = leftNaming(root, baseOf(root), ["temper/one-held"], [GOING], new Set([GOING]))
   expect(namersIn(found)).toEqual([NAMER])
   expect("recorded" in found ? found.recorded : []).toEqual([RECORD])
 })
 
 test("a file the removal takes is left out of what is answered", () => {
   const root = world({ [GOING]: BODY, "temper/one-held/other.ts": BODY })
-  const going = new Set([GOING, "temper/one-held/other.ts"])
-  const found = leftNaming(root, baseOf(root), ["temper/one-held"], going)
+  const under = [GOING, "temper/one-held/other.ts"]
+  const found = leftNaming(root, baseOf(root), ["temper/one-held"], under, new Set(under))
   expect(namersIn(found)).toEqual([])
 })
 
 test("a name a package name leads is found, since that is how a package is reached", () => {
   const root = world({ [GOING]: BODY, [NAMER]: `import "@temper/one-held/main.ts"\n` })
-  const found = leftNaming(root, baseOf(root), ["temper/one-held"], new Set([GOING]))
+  const found = leftNaming(root, baseOf(root), ["temper/one-held"], [GOING], new Set([GOING]))
   expect(namersIn(found)).toEqual([NAMER])
 })
 
 test("a caller naming nothing asks git nothing and is answered with no file", () => {
   const root = world({ [NAMER]: BODY })
-  expect(namersIn(leftNaming(root, "no-commit-of-that-name", [], new Set()))).toEqual([])
+  expect(namersIn(leftNaming(root, "no-commit-of-that-name", [], [], new Set()))).toEqual([])
 })
 
 test("a search git could not run is answered as a refusal rather than as nothing found", () => {
   const root = world({ [NAMER]: BODY })
-  const found = leftNaming(root, "no-commit-of-that-name", ["temper/one-held"], new Set())
+  const found = leftNaming(root, "no-commit-of-that-name", ["temper/one-held"], [], new Set())
   expect("refusal" in found ? found.refusal : "").toContain("git could not say")
 })
 

@@ -4,7 +4,14 @@ import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { namedTracked, outsideRespelt, respeltNames } from "./outside-naming.module.code.ts"
+import {
+  batchedIn,
+  escapedFor,
+  namedTracked,
+  outsideRespelt,
+  reachedTracked,
+  respeltNames,
+} from "./outside-naming.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -71,6 +78,37 @@ test("a caller naming nothing is answered with no file", () => {
   const root = world({ [OUTSIDE_AT]: SPELT })
   const found = namedTracked(root, baseOf(root), [], [])
   expect("paths" in found ? found.paths : ["it refused"]).toEqual([])
+})
+
+test("a part is found where a slash sits beside the part and no more of a segment runs on", () => {
+  const root = world({
+    "tools/lib/reaches.ts": `export const at = "../one/held.ts"\n`,
+    "tools/lib/carries.ts": `export const at = "../one-other/held.ts"\n`,
+    "tools/lib/says.ts": "one thing said as prose, and one alone\n",
+  })
+  const found = reachedTracked(root, baseOf(root), ["one"], [])
+  expect("paths" in found ? found.paths : ["it refused"]).toEqual(["tools/lib/reaches.ts"])
+})
+
+test("a file two parts both reach is answered once", () => {
+  const root = world({ "tools/lib/reaches.ts": `export const at = "../one/held.ts"\n` })
+  const found = reachedTracked(root, baseOf(root), ["one", "held.ts"], [])
+  expect("paths" in found ? found.paths : ["it refused"]).toEqual(["tools/lib/reaches.ts"])
+})
+
+test("a character a pattern would read as a pattern is looked for as that character", () => {
+  expect(escapedFor("one.two+three")).toBe("one\\.two\\+three")
+  const root = world({ "tools/lib/reaches.ts": `export const at = "../oneXtwo/held.ts"\n` })
+  const found = reachedTracked(root, baseOf(root), ["one.two"], [])
+  expect("paths" in found ? found.paths : ["it refused"]).toEqual([])
+})
+
+test("more names than one command line carries are asked for over more calls", () => {
+  const many = Array.from({ length: 20000 }, (_at, index) => `part-of-a-path-${index}`)
+  const batches = batchedIn(many)
+  expect(batches.length).toBeGreaterThan(1)
+  expect(batches.flat()).toEqual(many)
+  expect(batchedIn([]).length).toBe(0)
 })
 
 test("a body the respelling changed is answered with its bytes and the text it came from", () => {

@@ -9,7 +9,19 @@ const SEGMENT = /[A-Za-z0-9._-]/
 
 const LEADING = /[A-Za-z0-9._@/-]/
 
+const APART = SEGMENT.source.replace("[", "[^")
+
+const PATTERNED = /[$()*+.?[\\\]^{|}]/g
+
+const PARTED_BY = "/"
+
 const FOUND_NOTHING = 1
+
+const AT_MOST = 60000
+
+const AS_WRITTEN = "-F"
+
+const AS_PATTERN = "-E"
 
 export type Placed = {
   readonly at: number
@@ -65,6 +77,61 @@ export function respeltNames(text: string, named: ReadonlyMap<string, string>): 
   return splicedOver(text, namesIn(text, named))
 }
 
+export function escapedFor(one: string): string {
+  return one.replace(PATTERNED, (was) => `\\${was}`)
+}
+
+export function reachesFor(part: string): readonly string[] {
+  const held = escapedFor(part)
+  return [`${PARTED_BY}${held}($|${APART})`, `(^|${APART})${held}${PARTED_BY}`]
+}
+
+export function batchedIn(said: readonly string[]): readonly (readonly string[])[] {
+  const batches: string[][] = []
+  let held: string[] = []
+  let width = 0
+  for (const one of said) {
+    if (held.length > 0 && width + one.length > AT_MOST) {
+      batches.push(held)
+      held = []
+      width = 0
+    }
+    held.push(one)
+    width = width + one.length
+  }
+  if (held.length > 0) batches.push(held)
+  return batches
+}
+
+function foundBy(
+  root: string,
+  base: string,
+  how: string,
+  said: readonly string[],
+  limits: readonly string[]
+): Found {
+  const paths: string[] = []
+  const held = `${base}:`
+  for (const batch of batchedIn(said)) {
+    const asked = batch.flatMap((one) => ["-e", one])
+    const done = ran(
+      argvFor(root, ["grep", "-l", "-I", "-z", how, ...asked, base, "--", ...limits])
+    )
+    if (done.code === FOUND_NOTHING) continue
+    if (done.code !== 0) {
+      return {
+        refusal:
+          "git could not say which tracked files carry what was asked after, so nothing was " +
+          `judged — ${done.err.trim()}`,
+      }
+    }
+    for (const one of done.out.split("\0")) {
+      if (one.startsWith(held)) paths.push(one.slice(held.length))
+    }
+  }
+  return { paths: [...new Set(paths)].sort() }
+}
+
 export function namedTracked(
   root: string,
   base: string,
@@ -72,21 +139,17 @@ export function namedTracked(
   limits: readonly string[]
 ): Found {
   if (named.length === 0) return { paths: [] }
-  const said = named.flatMap((one) => ["-e", one])
-  const done = ran(argvFor(root, ["grep", "-l", "-I", "-z", "-F", ...said, base, "--", ...limits]))
-  if (done.code === FOUND_NOTHING) return { paths: [] }
-  if (done.code !== 0) {
-    return {
-      refusal:
-        "git could not say which tracked files carry what was asked after, so nothing was " +
-        `judged — ${done.err.trim()}`,
-    }
-  }
-  const held = `${base}:`
-  const paths = done.out
-    .split("\0")
-    .flatMap((one) => (one.startsWith(held) ? [one.slice(held.length)] : []))
-  return { paths: [...new Set(paths)].sort() }
+  return foundBy(root, base, AS_WRITTEN, named, limits)
+}
+
+export function reachedTracked(
+  root: string,
+  base: string,
+  parts: readonly string[],
+  limits: readonly string[]
+): Found {
+  if (parts.length === 0) return { paths: [] }
+  return foundBy(root, base, AS_PATTERN, parts.flatMap(reachesFor), limits)
 }
 
 export function outsideRespelt(

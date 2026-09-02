@@ -50,7 +50,19 @@ export const removeNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A path is looked for whole and by the last part of that path.",
+      statement: "A path is looked for whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The last part of a path is looked for where a slash sits beside that part.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file under a path that goes is looked for by the last part of that file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A last part no slash sits beside is prose rather than a reach.",
     },
     {
       invariantKind: "departure",
@@ -67,6 +79,11 @@ export const removeNaming = {
     {
       invariantKind: "gap",
       statement: "A body building a path out of pieces is found as one spelling that path whole.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A body spelling a last part of what goes with no slash beside that part is found.",
     },
   ],
 } as const satisfies Module
