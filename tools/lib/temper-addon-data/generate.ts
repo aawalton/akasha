@@ -1,6 +1,4 @@
-
 import { fetchAddonDataPages } from "./addon-data-pages.ts"
-import { OUTPUT_DIR } from "./constants.ts"
 import { logInventoryOutputSummary } from "./inventory-output-summary.ts"
 import { buildMappingGeneratorWrites } from "./mapping-generators.ts"
 import { buildMappingTotals } from "./mapping-totals.ts"
@@ -21,7 +19,6 @@ export async function generateAddonData(): Promise<void> {
   ]
   await Promise.all(writes)
   logMappingTotals(buildMappingTotals())
-  console.log(`\n  Output: ${OUTPUT_DIR}`)
   logPageRowTotals(buildPageRowTotals(pages))
   logInventoryOutputSummary()
   console.log("Validating equipment-mappings.ts...")

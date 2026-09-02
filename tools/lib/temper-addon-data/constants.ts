@@ -1,6 +1,5 @@
 import { temperFile } from "./code-tree.ts"
 
-export const OUTPUT_DIR = temperFile("player-completion-addon/src/generated")
 export const COMPANIONS_OUTPUT_DIR = temperFile("game-companions-addon/src/generated")
 
 export const COMPANION_CODEC_MINOR_VERSION = 8
