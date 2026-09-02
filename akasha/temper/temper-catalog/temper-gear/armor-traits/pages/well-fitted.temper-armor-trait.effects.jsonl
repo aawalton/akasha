@@ -1,2 +1,2 @@
-{"id":"01a02990-c261-7006-b8da-574019c655db","metric-id":"stamina-sprint-cost","type":"fractional-change","value":-0.06}
-{"id":"01a02990-c261-7007-a984-ac8b65a6e2d6","metric-id":"stamina-dodge-cost","type":"fractional-change","value":-0.06}
+{"id":"01a02990-c261-7006-b8da-574019c655db","metricId":"stamina-sprint-cost","type":"fractional-change","value":-0.06}
+{"id":"01a02990-c261-7007-a984-ac8b65a6e2d6","metricId":"stamina-dodge-cost","type":"fractional-change","value":-0.06}
