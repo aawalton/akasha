@@ -6,11 +6,13 @@ import { baseOf } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
   batchedIn,
+  endedFor,
   escapedFor,
   namedTracked,
   outsideRespelt,
   reachedTracked,
   respeltNames,
+  spelledTracked,
 } from "./outside-naming.module.code.ts"
 
 const scratch = scratchWorld()
@@ -126,4 +128,24 @@ test("a body the respelling did not change is left out of the answer", () => {
   const root = world({ [OUTSIDE_AT]: SPELT })
   const found = outsideRespelt(root, baseOf(root), ["akasha/one"], (_path, text) => text)
   expect("respelt" in found ? found.respelt : ["it refused"]).toEqual([])
+})
+
+test("a whole name is found where its segment ends and left out where the segment runs on", () => {
+  expect(endedFor("temper/one")).toBe("temper/one($|[^A-Za-z0-9._-])")
+  const root = world({
+    "tools/lib/holds.ts": `export const at = "temper/one/held.ts"\n`,
+    "tools/lib/carries.ts": `export const at = "temper/one-other/held.ts"\n`,
+    "tools/lib/opens.ts": `import "@scope/temper/one"\n`,
+  })
+  const found = spelledTracked(root, baseOf(root), ["temper/one"], [])
+  expect("paths" in found ? found.paths : ["it refused"]).toEqual([
+    "tools/lib/holds.ts",
+    "tools/lib/opens.ts",
+  ])
+})
+
+test("a caller spelling nothing is answered with no file rather than by asking git", () => {
+  const root = world({ [OUTSIDE_AT]: SPELT })
+  const found = spelledTracked(root, "no-commit-of-that-name", [], [])
+  expect("paths" in found ? found.paths : ["it refused"]).toEqual([])
 })

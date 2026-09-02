@@ -54,11 +54,43 @@ export const removeNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The last part of a path is looked for where a slash sits beside that part.",
+      statement: "A path is ended where the path ends rather than where a longer path carries on.",
     },
     {
       invariantKind: "departure",
-      statement: "A file under a path that goes is looked for by the last part of that file.",
+      statement: "The package name a manifest the removal takes declares is looked for as well.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest is read from the base commit rather than from the worktree.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A manifest that will not parse names no package here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a whole path or a declared name found is answered as the sure finding.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The last part of a path is swept for where a slash sits beside that part.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file under a path that goes is swept for by the last part of that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What only the wider sweep found is answered apart from the sure finding.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A file the sure finding holds is left out of the wider sweep.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How wide the wider sweep reaches is said where the sweep found anything.",
     },
     {
       invariantKind: "absence",
@@ -84,6 +116,10 @@ export const removeNaming = {
       invariantKind: "gap",
       statement:
         "A body spelling a last part of what goes with no slash beside that part is found.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A specifier is resolved through the manifest rather than looked for as text.",
     },
   ],
 } as const satisfies Module

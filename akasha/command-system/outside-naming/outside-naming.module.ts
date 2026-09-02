@@ -33,6 +33,15 @@ export const outsideNaming = {
       statement: "A part is looked for where a slash sits beside the part.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A whole name is looked for where the segment ending that name runs on no further.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What leads a whole name is left open.",
+    },
+    {
       invariantKind: "absence",
       statement: "A name carrying more of a segment than the part looked for is left out.",
     },

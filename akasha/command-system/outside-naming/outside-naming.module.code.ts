@@ -86,6 +86,10 @@ export function reachesFor(part: string): readonly string[] {
   return [`${PARTED_BY}${held}($|${APART})`, `(^|${APART})${held}${PARTED_BY}`]
 }
 
+export function endedFor(name: string): string {
+  return `${escapedFor(name)}($|${APART})`
+}
+
 export function batchedIn(said: readonly string[]): readonly (readonly string[])[] {
   const batches: string[][] = []
   let held: string[] = []
@@ -150,6 +154,16 @@ export function reachedTracked(
 ): Found {
   if (parts.length === 0) return { paths: [] }
   return foundBy(root, base, AS_PATTERN, parts.flatMap(reachesFor), limits)
+}
+
+export function spelledTracked(
+  root: string,
+  base: string,
+  spelled: readonly string[],
+  limits: readonly string[]
+): Found {
+  if (spelled.length === 0) return { paths: [] }
+  return foundBy(root, base, AS_PATTERN, spelled.map(endedFor), limits)
 }
 
 export function outsideRespelt(

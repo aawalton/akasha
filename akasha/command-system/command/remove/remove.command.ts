@@ -27,6 +27,8 @@ export const remove = {
     "a name held on its own rather than as a list entry is reported and left alone.",
     "a name in code rather than in a page property is neither found nor reported.",
     "what a tracked file left behind still names is reported, and nothing here repoints it.",
+    "a file is named for spelling a whole path that goes or a package name a manifest that goes declares.",
+    "a wider sweep for the last part of each path is reported apart, and most of it is unrelated.",
     "the root manifest stops naming a workspace this empties, and the lockfile is made again.",
   ],
   invariants: [
@@ -94,6 +96,11 @@ export const remove = {
     {
       invariantKind: "departure",
       statement: "What still names a path outside the `akasha` folder that goes is reported.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file spelling a whole path that goes is reported apart from what a wider sweep reached.",
     },
     {
       invariantKind: "departure",

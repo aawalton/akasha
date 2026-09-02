@@ -1,25 +1,38 @@
-import { counted } from "../../../asking/asking.module.code.ts"
-import { namedTracked, reachedTracked } from "../../../outside-naming/outside-naming.module.code.ts"
+import { counted, textOf } from "../../../asking/asking.module.code.ts"
+import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
+import {
+  reachedTracked,
+  spelledTracked,
+} from "../../../outside-naming/outside-naming.module.code.ts"
 
 const PARTED_BY = "/"
 
 const FINDING = ".finding.ts"
 
+const MANIFEST = "package.json"
+
+const NAME = "name"
+
 export const NAMING_SPELLING =
-  "what was looked for is the paths you named, spelled as text in the tracked bodies the base " +
-  "commit holds, and the last part of each path you named and of each file under those paths, " +
-  "spelled as a whole path part with a slash beside that part, so a body building a path out " +
-  "of pieces, or reaching what goes by a name of its own, or spelling a last part no slash " +
-  "sits beside, is not found here"
+  "what was looked for is each path you named and the package name each manifest that goes " +
+  "declares, spelled as text in the tracked bodies the base commit holds and ended where the " +
+  "path ends rather than running on into a longer one, so a body building a path out of pieces " +
+  "is not found here"
+
+export const REACHING_SPELLING =
+  "the wider sweep is the last part of each path that goes, looked for with a slash beside that " +
+  "part and nothing else asked of it, so `main.ts` reaches every `main.ts` the repository holds " +
+  "— read what it found rather than counting it"
 
 export type Found = {
   readonly namers: readonly string[]
+  readonly reaches: readonly string[]
   readonly recorded: readonly string[]
 }
 
 export type Naming = Found | { readonly refusal: string }
 
-export const NAMING_NOTHING: Found = { namers: [], recorded: [] }
+export const NAMING_NOTHING: Found = { namers: [], reaches: [], recorded: [] }
 
 export type Looked = {
   readonly whole: readonly string[]
@@ -36,6 +49,35 @@ export function lookedFor(named: readonly string[], under: readonly string[]): L
   return { whole: [...whole].sort(), parts: [...parts].sort() }
 }
 
+export function nameDeclaredIn(text: string): string | null {
+  let read: unknown
+  try {
+    read = JSON.parse(text)
+  } catch {
+    return null
+  }
+  if (read === null || typeof read !== "object") return null
+  const held = (read as Record<string, unknown>)[NAME]
+  return typeof held === "string" && held !== "" ? held : null
+}
+
+export function namesDeclared(
+  root: string,
+  base: string,
+  going: readonly string[]
+): readonly string[] {
+  const found = new Set<string>()
+  for (const one of going) {
+    if (one !== MANIFEST && !one.endsWith(`${PARTED_BY}${MANIFEST}`)) continue
+    const bytes = bodyAt(root, base, one)
+    const text = bytes === null ? null : textOf(bytes)
+    if (text === null) continue
+    const held = nameDeclaredIn(text)
+    if (held !== null) found.add(held)
+  }
+  return [...found].sort()
+}
+
 export function leftNaming(
   root: string,
   base: string,
@@ -45,16 +87,17 @@ export function leftNaming(
 ): Naming {
   if (named.length === 0) return NAMING_NOTHING
   const looked = lookedFor(named, under)
-  const whole = namedTracked(root, base, looked.whole, [])
-  if ("refusal" in whole) return { refusal: whole.refusal }
+  const declared = namesDeclared(root, base, [...named, ...under])
+  const spelled = spelledTracked(root, base, [...looked.whole, ...declared], [])
+  if ("refusal" in spelled) return { refusal: spelled.refusal }
   const reached = reachedTracked(root, base, looked.parts, [])
   if ("refusal" in reached) return { refusal: reached.refusal }
-  const left = [...new Set([...whole.paths, ...reached.paths])]
-    .sort()
-    .filter((one) => !going.has(one))
+  const sure = spelled.paths.filter((one) => !going.has(one))
+  const held = new Set(sure)
   return {
-    namers: left.filter((one) => !one.endsWith(FINDING)),
-    recorded: left.filter((one) => one.endsWith(FINDING)),
+    namers: sure.filter((one) => !one.endsWith(FINDING)),
+    reaches: reached.paths.filter((one) => !going.has(one) && !held.has(one)),
+    recorded: sure.filter((one) => one.endsWith(FINDING)),
   }
 }
 
@@ -79,5 +122,13 @@ export function leftNamingSaid(
     )
   }
   said.push(NAMING_SPELLING)
+  if (found.reaches.length > 0) {
+    said.push(
+      `a wider sweep than that one reaches ${counted(found.reaches.length, "further tracked file")}` +
+        `, and most of these will name something else of the same last part — ` +
+        found.reaches.join(", "),
+      REACHING_SPELLING
+    )
+  }
   return said
 }
