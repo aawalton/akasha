@@ -4,9 +4,18 @@ export const temperEquipment = {
   id: "01a060d5-2f11-79b8-9e55-62a1973c12cc",
   pageTypeSlug: "workspace-package",
   slug: "temper-equipment",
-  definition: "the types an Elder Scrolls Online gear set is named by",
+  definition: "the types an Elder Scrolls Online gear set and the pieces it covers are named by",
   manifest: "json",
-  partSlugs: ["module/set-ids", "module/set-ids-a-to-o", "module/set-ids-p-to-z"],
+  partSlugs: [
+    "module/set-ids",
+    "module/set-ids-a-to-o",
+    "module/set-ids-p-to-z",
+    "module/armor-weight-ids",
+    "module/set-category-ids",
+    "module/set-patterns",
+    "module/set-template",
+    "module/weapon-type-ids",
+  ],
   invariants: [
     {
       invariantKind: "departure",

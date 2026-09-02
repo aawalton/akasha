@@ -1,0 +1,13 @@
+export type SetCategoryId =
+  | "none"
+  | "trial"
+  | "dungeon"
+  | "arena"
+  | "overland"
+  | "crafted"
+  | "monster"
+  | "mythic"
+  | "pvp"
+  | "class"
+  | "other"
+  | "no-type"
