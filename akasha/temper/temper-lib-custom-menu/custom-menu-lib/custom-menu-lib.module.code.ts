@@ -1,4 +1,3 @@
-import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
 import { asMenuRegistry } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
   CATEGORY_EARLY,

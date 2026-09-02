@@ -23,7 +23,7 @@ export const temperLibCustomMenu = {
     "module/submenu-timeout",
     "module/custom-menu-types",
     "module/menu-row-setup",
-    "module/custom-menu-declarations",
+    "type-declaration/custom-menu-declarations",
   ],
   invariants: [
     {

@@ -1,4 +1,3 @@
-import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
 import { SUBMENU_SHOW_TIMEOUT } from "../custom-menu-constants/custom-menu-constants.module.code.ts"
 
 const HANDLE_PREFIX = "LibCustomMenuSubMenuTimeout"

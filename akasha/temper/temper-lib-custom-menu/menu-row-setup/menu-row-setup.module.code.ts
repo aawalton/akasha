@@ -1,4 +1,3 @@
-import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
 import { asValuedString } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
 import type {
   LcmControlBase,

@@ -1,4 +1,3 @@
-import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
 export type Valued<T> = T | ((this: void, ...args: unknown[]) => T)
 
 export type TooltipValue = string | ((this: void, control: Control, inside: boolean) => string)

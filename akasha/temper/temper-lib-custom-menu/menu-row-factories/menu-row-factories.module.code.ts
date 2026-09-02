@@ -1,4 +1,3 @@
-import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
 import type {
   LcmLabel,
   LcmRowControl,

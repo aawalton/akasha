@@ -5,7 +5,7 @@
   "exports": {
     "./custom-menu-casts": "./custom-menu-casts/custom-menu-casts.module.code.ts",
     "./custom-menu-constants": "./custom-menu-constants/custom-menu-constants.module.code.ts",
-    "./custom-menu-declarations": "./custom-menu-declarations/custom-menu-declarations.module.code.ts",
+    "./custom-menu-declarations": "./custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts",
     "./custom-menu-hooks": "./custom-menu-hooks/custom-menu-hooks.module.code.ts",
     "./custom-menu-lib": "./custom-menu-lib/custom-menu-lib.module.code.ts",
     "./custom-menu-main": "./custom-menu-main/custom-menu-main.module.code.ts",

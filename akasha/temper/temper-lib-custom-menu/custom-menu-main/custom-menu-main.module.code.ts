@@ -1,4 +1,3 @@
-import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
 import "../custom-menu-public-api/custom-menu-public-api.module.code.ts"
 
 import { ADDON_NAME } from "../custom-menu-constants/custom-menu-constants.module.code.ts"

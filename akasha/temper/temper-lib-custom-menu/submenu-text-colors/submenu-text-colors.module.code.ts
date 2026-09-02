@@ -1,4 +1,3 @@
-import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
 const [normR, normG, normB, normA] = GetInterfaceColor(
   INTERFACE_COLOR_TYPE_TEXT_COLORS,
   INTERFACE_TEXT_COLOR_NORMAL

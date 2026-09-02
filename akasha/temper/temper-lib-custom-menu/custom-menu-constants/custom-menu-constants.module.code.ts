@@ -1,4 +1,3 @@
-import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
 export const ADDON_NAME = "LibCustomMenu"
 
 export const MENU_ADD_OPTION_HEADER = 100

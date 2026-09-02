@@ -1,5 +1,4 @@
 import type { GlobalTable } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
-import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
 import { asVoidSelfFn, asZoColorDef } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
   MENU_ADD_OPTION_HEADER,

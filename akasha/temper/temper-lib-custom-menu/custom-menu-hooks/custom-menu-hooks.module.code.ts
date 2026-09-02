@@ -1,5 +1,4 @@
 import type { GlobalFnTable } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
-import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
 import {
   asLcmControlBase,
   asSlotActionsTable,
