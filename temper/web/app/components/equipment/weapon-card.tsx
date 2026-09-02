@@ -31,12 +31,12 @@ import {
   type ArmorTraitId,
   armorTraits,
   armorTraitsBuildList,
-} from "@temper/game-characters-equipment/traits/armor-traits-data"
+} from "@akasha/temper-equipment/armor-traits"
 import {
   type WeaponTraitId,
   weaponTraits,
   weaponTraitsBuildList,
-} from "@temper/game-characters-equipment/traits/weapon-traits-data"
+} from "@akasha/temper-equipment/weapon-traits"
 import type { WeaponBar } from "@akasha/temper-equipment-kinds/weapon-bars"
 import {
   type WeaponSlot,

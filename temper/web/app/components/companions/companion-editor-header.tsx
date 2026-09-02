@@ -7,7 +7,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { PAGE_TITLE_CLASSES } from "@akasha/design-layout/page-layout-data"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
-import type { CompanionVisibility } from "@temper/game-companions-core/companion-types"
+import type { CompanionVisibility } from "@akasha/temper-companions-core/companion-types"
 import { ChevronLeft, Copy, Eye, Search, Target } from "lucide-react"
 import { BuildActionButtons } from "@/components/ui/build-action-buttons"
 

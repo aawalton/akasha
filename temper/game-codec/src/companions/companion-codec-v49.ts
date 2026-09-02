@@ -1,7 +1,7 @@
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
-} from "@temper/game-companions-core/companion-base-roles-data"
+} from "@akasha/temper-companions-core/companion-base-roles"
 import type {
   CompanionArmorSlotItem,
   CompanionJewelrySlotItem,
@@ -9,14 +9,14 @@ import type {
   CompanionTargetArmorId,
   CompanionTargetHealthId,
   CompanionWeaponSlotItem,
-} from "@temper/game-companions-core/companion-types"
-import type { CompanionArmorSlotId } from "@temper/game-companions-core/equipment/companion-armor-slots-data"
-import { companionArmorSlots } from "@temper/game-companions-core/equipment/companion-armor-slots-data"
-import type { CompanionJewelrySlotId } from "@temper/game-companions-core/equipment/companion-jewelry-slots-data"
-import { companionJewelrySlots } from "@temper/game-companions-core/generated/temper-companion-jewelry-slot.generated"
-import type { CompanionWeaponSlotId } from "@temper/game-companions-core/equipment/companion-weapon-slots-data"
-import { companionWeaponSlots } from "@temper/game-companions-core/equipment/companion-weapon-slots-data"
-import { companionSkillSlots } from "@temper/game-companions-core/skills/companion-skill-slots-data"
+} from "@akasha/temper-companions-core/companion-types"
+import type { CompanionArmorSlotId } from "@akasha/temper-companions-core/companion-armor-slots"
+import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
+import type { CompanionJewelrySlotId } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import type { CompanionWeaponSlotId } from "@akasha/temper-companions-core/companion-weapon-slots"
+import { companionWeaponSlots } from "@akasha/temper-companions-core/companion-weapon-slots"
+import { companionSkillSlots } from "@akasha/temper-companions-core/companion-skill-slots"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import {
   type BitReaderState,

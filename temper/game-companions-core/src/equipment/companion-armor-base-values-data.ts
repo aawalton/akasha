@@ -1,6 +1,6 @@
 import type { EquipmentQualityId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { CompanionArmorWeight } from "../companion-types"
-import type { CompanionEquipmentQualityId } from "./companion-equipment-quality-data"
+import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 
 const ARMOR_BASE_VALUES: Record<
   Exclude<CompanionArmorWeight, "no-weight">,

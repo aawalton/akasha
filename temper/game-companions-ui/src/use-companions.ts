@@ -11,13 +11,13 @@ import { useOptimisticDeletePage } from "@shared/pages-ui/supabase/mutations/use
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import type { CompanionBuildMetadata } from "@temper/game-characters/build-metadata"
-import { type CompanionRoleId } from "@temper/game-companions-core/companion-roles"
-import { companionRoles } from "@temper/game-companions-core/generated/temper-companion-role.generated"
+import { type CompanionRoleId } from "@akasha/temper-companions-core/companion-roles"
+import { companionRoles } from "@akasha/temper-companions-core/companion-roles"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
-} from "@temper/game-companions-core/companion-base-roles-data"
-import type { CompanionVisibility } from "@temper/game-companions-core/companion-types"
+} from "@akasha/temper-companions-core/companion-base-roles"
+import type { CompanionVisibility } from "@akasha/temper-companions-core/companion-types"
 import { useMemo } from "react"
 
 const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"

@@ -9,7 +9,7 @@ import {
   type CompanionState,
   type CompanionVisibility,
   toVisibility,
-} from "@temper/game-companions-core/companion-types"
+} from "@akasha/temper-companions-core/companion-types"
 import { useCompanion as useCompanionZero } from "@temper/game-companions-ui/use-companions"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"

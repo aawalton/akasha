@@ -7,21 +7,21 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import type { CompanionJewelrySlotItem } from "@temper/game-companions-core/companion-types"
+import type { CompanionJewelrySlotItem } from "@akasha/temper-companions-core/companion-types"
 import { getCompanionJewelryIcon } from "@temper/game-companions-core/equipment/companion-equipment-icons-data"
-import type { CompanionEquipmentQualityId } from "@temper/game-companions-core/equipment/companion-equipment-quality-data"
-import { companionEquipmentQualities } from "@temper/game-companions-core/generated/temper-companion-equipment-quality.generated"
+import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
+import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import {
   capQualityForSlot,
   getAvailableQualityOptions,
   LEGENDARY_QUALITY_OPTIONS,
 } from "@temper/game-companions-core/equipment/companion-equipment-quality-rules"
-import { type CompanionJewelrySlotId } from "@temper/game-companions-core/equipment/companion-jewelry-slots-data"
-import { companionJewelrySlots } from "@temper/game-companions-core/generated/temper-companion-jewelry-slot.generated"
+import { type CompanionJewelrySlotId } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
 import {
   type CompanionTraitId,
   companionTraits,
-} from "@temper/game-companions-core/equipment/companion-traits-data"
+} from "@akasha/temper-companions-core/companion-traits"
 import { getQualityClassName, getQualityVariant } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import { useMemo } from "react"

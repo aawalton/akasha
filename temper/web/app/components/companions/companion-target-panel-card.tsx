@@ -5,7 +5,7 @@ import {
   type TargetArmorId,
   targetArmor,
 } from "@akasha/temper-character-sources/target-armors"
-import type { CompanionTargetHealthId } from "@temper/game-companions-core/companion-types"
+import type { CompanionTargetHealthId } from "@akasha/temper-companions-core/companion-types"
 import { useCompanionMetadata } from "@/components/companions/context/use-companion"
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 

@@ -1,20 +1,20 @@
 import { targetArmor } from "@akasha/temper-character-sources/target-armors"
 import type { SourceCategoryId } from "@akasha/temper-formula-framework/source-category"
-import type { CompanionState } from "../companion-types"
-import { companions } from "../companions-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import { companions } from "@akasha/temper-companions-core/companions"
 import { getCompanionArmorBaseValue } from "../equipment/companion-armor-base-values-data"
-import { companionArmorSlots } from "../equipment/companion-armor-slots-data"
-import { companionJewelrySlots } from "../generated/temper-companion-jewelry-slot.generated"
-import { getCompanionTraitMetricEffect } from "../equipment/companion-traits-data"
+import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
+import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import { getCompanionTraitMetricEffect } from "@akasha/temper-companions-core/companion-traits"
 import {
   getCompanionShieldArmorValue,
   getCompanionWeaponBaseDamage,
   isCompanionWeaponShield,
 } from "../equipment/companion-weapon-base-values-data"
-import { companionWeaponSlots } from "../equipment/companion-weapon-slots-data"
-import { companionWeaponTypes } from "../generated/temper-companion-weapon-type.generated"
+import { companionWeaponSlots } from "@akasha/temper-companions-core/companion-weapon-slots"
+import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
 import { getCompanionPassiveEffects } from "../skills/companion-passive-effects"
-import { type CompanionSkillId, companionSkills } from "../skills/companion-skills-data"
+import { type CompanionSkillId, companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import type { CompanionMetricEffect } from "./metrics/companion-metric-template"
 
 export interface CompanionEffectSource {

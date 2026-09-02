@@ -2,12 +2,12 @@ import {
   PLAYER_ARMOR_ESO_TO_TRAIT,
   PLAYER_JEWELRY_ESO_TO_TRAIT,
   PLAYER_WEAPON_ESO_TO_TRAIT,
-} from "@temper/game-characters-equipment/traits/eso-trait-map-data"
+} from "@akasha/temper-equipment/eso-trait-map"
 import {
   COMPANION_ARMOR_ESO_TO_TRAIT,
   COMPANION_JEWELRY_ESO_TO_TRAIT,
   COMPANION_WEAPON_ESO_TO_TRAIT,
-} from "@temper/game-companions-core/equipment/companion-eso-trait-map-data"
+} from "@akasha/temper-companions-core/companion-eso-trait-map"
 
 const JEWELRY_EQUIP_TYPES = new Set([2, 12])
 

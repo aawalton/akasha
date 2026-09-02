@@ -23,7 +23,7 @@ import {
   type JewelryTraitId,
   jewelryTraits,
   jewelryTraitsBuildList,
-} from "@temper/game-characters-equipment/traits/jewelry-traits-data"
+} from "@akasha/temper-equipment/jewelry-traits"
 import { AVAILABLE_QUALITY_OPTIONS, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import { useMemo } from "react"

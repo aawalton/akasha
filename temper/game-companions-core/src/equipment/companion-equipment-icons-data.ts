@@ -1,9 +1,9 @@
 import { convertIconPathToUrl } from "@temper/game-characters-equipment/sets/get-equipment-icon"
 import type { CompanionArmorWeight } from "../companion-types"
-import type { CompanionArmorSlotId } from "./companion-armor-slots-data"
-import type { CompanionEquipmentQualityId } from "./companion-equipment-quality-data"
-import type { CompanionJewelrySlotId } from "./companion-jewelry-slots-data"
-import type { CompanionWeaponTypeId } from "./companion-weapon-types-data"
+import type { CompanionArmorSlotId } from "@akasha/temper-companions-core/companion-armor-slots"
+import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
+import type { CompanionJewelrySlotId } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import type { CompanionWeaponTypeId } from "@akasha/temper-companions-core/companion-weapon-types"
 
 const ARMOR_SLOT_TO_ICON_NAME: Record<CompanionArmorSlotId, string> = {
   head: "helm",

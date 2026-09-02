@@ -7,8 +7,8 @@ import type {
   MinNode,
   MultiplyNode,
 } from "@akasha/temper-formula-framework/arithmetic-node"
-import type { CompanionBaseRoleId } from "../../companion-base-roles-data"
-import type { CompanionMetricId } from "../companion-metric-ids.generated"
+import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 
 type CompanionMetricRefNode = {
   type: "metric-ref"

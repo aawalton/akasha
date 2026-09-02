@@ -14,7 +14,7 @@ import type {
   CompanionSynergyComponent,
   Targeting,
 } from "../skills/companion-skill-effect-components"
-import type { CompanionValueFormula } from "../skills/companion-value-formula"
+import type { CompanionValueFormula } from "@akasha/temper-companions-core/companion-value-formula"
 import {
   computeAugmentedDurations,
   formatDuration,

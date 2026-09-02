@@ -5,6 +5,7 @@
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/design-system": "workspace:*",
+    "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-shopping": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",

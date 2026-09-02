@@ -1,5 +1,5 @@
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
 
 export const COMPANION_ACTIONS = {
   UPDATE_BUILD: "UPDATE_BUILD",

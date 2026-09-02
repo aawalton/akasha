@@ -1,4 +1,4 @@
-import { getDefIdByCompanionId } from "@temper/game-companions-core/companions-data"
+import { getDefIdByCompanionId } from "@akasha/temper-companions-core/companions"
 import { companionQuestData } from "./companion-quest-data"
 import { rawRapportToCompanionTier } from "./companion-rapport"
 

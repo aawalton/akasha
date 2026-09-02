@@ -1,12 +1,12 @@
-import type { CompanionState } from "../companion-types"
-import type { CompanionWeaponTypeId } from "../equipment/companion-weapon-types-data"
-import { getSkillCooldown } from "../skills/companion-skill-activation-effect-types"
-import { companionSkillLines } from "../generated/temper-companion-skill-line.generated"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionWeaponTypeId } from "@akasha/temper-companions-core/companion-weapon-types"
+import { getSkillCooldown } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
+import { companionSkillLines } from "@akasha/temper-companions-core/skill-lines-by-companion"
 import {
   type CompanionSkillSlotId,
   companionSkillSlots,
-} from "../skills/companion-skill-slots-data"
-import { type CompanionSkillId, companionSkills } from "../skills/companion-skills-data"
+} from "@akasha/temper-companions-core/companion-skill-slots"
+import { type CompanionSkillId, companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import { getValidSkillIds } from "./companion-valid-skills"
 
 const TAUNT_MAX_COOLDOWN = 16

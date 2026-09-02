@@ -4,11 +4,11 @@ import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@a
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
-import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"
+import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
 import type { CompanionEffectSource } from "@temper/game-companions-core/stats/companion-effect-sources"
 import { companionMetricToDisplayFormula } from "@temper/game-companions-core/stats/companion-metric-display-formula"
 import { type CompanionMetricValue, getCompanionMetricName } from "@temper/game-companions-core/stats/companion-metrics.generated"
-import { type CompanionMetricId } from "@temper/game-companions-core/stats/companion-metric-ids.generated"
+import { type CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 import { FormulaDisplay } from "@/components/ui/formula-display"
 
 interface CompanionStatExplanationDialogProps {

@@ -1,9 +1,9 @@
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { randomFrom } from "@akasha/temper-formula-framework/random-from"
-import type { CompanionState } from "../companion-types"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { TEMPER_COMPANION_WEAPON_ROLES } from "../generated/temper-companion-weapon-role.generated"
-import { type CompanionWeaponTypeId } from "./companion-weapon-types-data"
-import { companionWeaponTypes } from "../generated/temper-companion-weapon-type.generated"
+import { type CompanionWeaponTypeId } from "@akasha/temper-companions-core/companion-weapon-types"
+import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
 
 export interface CompanionWeaponRoleTemplate {
   id: string

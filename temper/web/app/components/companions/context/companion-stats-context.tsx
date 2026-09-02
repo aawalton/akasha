@@ -6,10 +6,10 @@ import {
   extractNonSoothingHealingDoneSources,
 } from "@temper/game-companions-core/formulas/companion-skill-formula"
 import type { RotationResult } from "@temper/game-companions-core/rotation/rotation-types"
-import type { CompanionScalingMetricId } from "@temper/game-companions-core/skills/companion-value-formula"
+import type { CompanionScalingMetricId } from "@akasha/temper-companions-core/companion-value-formula"
 import type { CompanionEffectSource } from "@temper/game-companions-core/stats/companion-effect-sources"
 import type { CompanionMetricValue } from "@temper/game-companions-core/stats/companion-metrics.generated"
-import type { CompanionMetricId } from "@temper/game-companions-core/stats/companion-metric-ids.generated"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 import { createContext, type ReactNode, useMemo } from "react"
 import { useCompanionStatsCalculation } from "@/components/companion-skills/hooks/use-companion-stats-calculation"
 import { useCompanion } from "@/components/companions/context/use-companion"

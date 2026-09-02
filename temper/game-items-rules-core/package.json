@@ -2,6 +2,8 @@
   "name": "@temper/game-items-rules-core",
   "dependencies": {
     "@akasha/temper-build-support": "workspace:*",
+    "@akasha/temper-companions-core": "workspace:*",
+    "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-character": "workspace:*",

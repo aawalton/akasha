@@ -1,9 +1,9 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { getArmorWeightForBaseRoles } from "../companion-base-roles-data"
-import type { CompanionState } from "../companion-types"
+import { getArmorWeightForBaseRoles } from "@akasha/temper-companions-core/companion-base-roles"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { companionWeaponRoles, getWeaponRole } from "../equipment/companion-weapon-roles-data"
-import { companionSkillLines } from "../generated/temper-companion-skill-line.generated"
-import { type CompanionSkillId, companionSkills } from "../skills/companion-skills-data"
+import { companionSkillLines } from "@akasha/temper-companions-core/skill-lines-by-companion"
+import { type CompanionSkillId, companionSkills } from "@akasha/temper-companions-core/companion-skills"
 
 const NO_SKILL: CompanionSkillId = "no-skill"
 

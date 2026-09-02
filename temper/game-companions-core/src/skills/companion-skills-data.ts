@@ -1,6 +1,6 @@
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { companionSkillsFromPages } from "../generated/temper-companion-skill.generated"
-import type { CompanionSkillTemplate } from "./companion-skill-activation-effect-types"
+import type { CompanionSkillTemplate } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
 
 const COMPANION_SKILLS_DATA = {
   ...companionSkillsFromPages.data,

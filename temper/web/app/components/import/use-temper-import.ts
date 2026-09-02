@@ -13,7 +13,7 @@ import type {
   CompanionCompletion,
 } from "@akasha/temper-completion/completion-progress"
 import { parseSavedVariablesContent } from "@akasha/temper-completion-import/completion-saved-variables-parser"
-import { getCompanionIdByDefId } from "@temper/game-companions-core/companions-data"
+import { getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
 import { classifyCompletionImport } from "@temper/player-completion/completion-import-outcome"
 import { mergeAccountCompletionForward, mergeCharacterCompletionForward, mergeCompanionCompletionForward } from "@temper/player-completion/completion-merge-forward"
 import { useCallback, useEffect, useRef, useState } from "react"

@@ -1,12 +1,12 @@
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
-} from "@temper/game-companions-core/companion-base-roles-data"
+} from "@akasha/temper-companions-core/companion-base-roles"
 import {
   type DecodedBuild,
   getBuildScoreWithAllRolesFallback,
 } from "@temper/game-companions-core/companion-leaderboard"
-import { type CompanionId, companions } from "@temper/game-companions-core/companions-data"
+import { type CompanionId, companions } from "@akasha/temper-companions-core/companions"
 import { useMemo } from "react"
 import type { CompanionPlanEntity } from "@/components/companions/companion-entity-panel-card"
 import type { CompanionLiveOnlyEntity } from "@/components/companions/companion-live-only-panel-card"

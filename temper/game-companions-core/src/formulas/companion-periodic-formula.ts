@@ -1,6 +1,6 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import type { CompanionValueFormula } from "../skills/companion-value-formula"
-import { getFormulaCoefficientType } from "../skills/companion-value-formula"
+import type { CompanionValueFormula } from "@akasha/temper-companions-core/companion-value-formula"
+import { getFormulaCoefficientType } from "@akasha/temper-companions-core/companion-value-formula"
 import { badTruncate } from "./bad-truncate"
 import type { CompanionFormulaStats } from "./companion-skill-formula"
 import { applyHealingDone, evaluateSkillFormula } from "./companion-skill-formula"

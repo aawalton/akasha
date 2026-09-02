@@ -1,4 +1,4 @@
-import type { CompanionEquipmentQualityId } from "@temper/game-companions-core/equipment/companion-equipment-quality-data"
+import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 
 export function getQualityVariant(
   quality: CompanionEquipmentQualityId,

@@ -1,4 +1,4 @@
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
 
 interface CompanionQuestEntry {
   questId: number

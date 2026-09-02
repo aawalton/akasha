@@ -1,11 +1,11 @@
 import { targetArmor } from "@akasha/temper-character-sources/target-armors"
-import type { CompanionState } from "../companion-types"
-import type { CompanionEffect } from "../skills/companion-skill-effect-components"
-import { companionSkills } from "../skills/companion-skills-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
+import { companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import {
   COMPANION_METRIC_IDS,
   type CompanionMetricId,
-} from "../stats/companion-metric-ids.generated"
+} from "@akasha/temper-companions-core/companion-metric-ids"
 import { calculateCompanionStatsWithBaseline } from "../stats/companion-stats-calculator-impl"
 import { accumulateDamageBuffDelta, getCritChancePercent } from "./companion-support-buff-math"
 import { EMPTY_BASELINE, type ReferenceBaseline } from "./companion-support-types"

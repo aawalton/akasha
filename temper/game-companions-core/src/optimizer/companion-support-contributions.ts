@@ -1,6 +1,6 @@
 import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
-import type { CompanionEffect } from "../skills/companion-skill-effect-components"
-import { companionSkills } from "../skills/companion-skills-data"
+import type { CompanionEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
+import { companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import { companionMetrics } from "../stats/companion-metrics.generated"
 import type { calculateCompanionStats } from "../stats/companion-stats-calculator"
 import { accumulateDamageBuffDelta } from "./companion-support-buff-math"

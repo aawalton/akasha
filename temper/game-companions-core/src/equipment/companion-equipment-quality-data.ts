@@ -1,4 +1,4 @@
-import type { companionEquipmentQualities } from "../generated/temper-companion-equipment-quality.generated"
+import type { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
 
 
 export interface CompanionEquipmentQualityTemplate {

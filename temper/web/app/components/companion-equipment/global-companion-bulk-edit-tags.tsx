@@ -1,20 +1,20 @@
 "use client"
 
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import { companionArmorSlots } from "@temper/game-companions-core/equipment/companion-armor-slots-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
 import {
   bulkUpdateAllCompanionQualities,
   bulkUpdateAllCompanionTraits,
 } from "@temper/game-companions-core/equipment/companion-bulk-update-equipment"
-import type { CompanionEquipmentQualityId } from "@temper/game-companions-core/equipment/companion-equipment-quality-data"
+import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import { LEGENDARY_QUALITY_OPTIONS } from "@temper/game-companions-core/equipment/companion-equipment-quality-rules"
-import { companionJewelrySlots } from "@temper/game-companions-core/generated/temper-companion-jewelry-slot.generated"
+import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
 import {
   type CompanionTraitId,
   companionTraits,
-} from "@temper/game-companions-core/equipment/companion-traits-data"
-import { companionWeaponSlots } from "@temper/game-companions-core/equipment/companion-weapon-slots-data"
-import { companionWeaponTypes } from "@temper/game-companions-core/generated/temper-companion-weapon-type.generated"
+} from "@akasha/temper-companions-core/companion-traits"
+import { companionWeaponSlots } from "@akasha/temper-companions-core/companion-weapon-slots"
+import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
 import { getQualityClassName, getQualityVariant } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import { useMemo } from "react"

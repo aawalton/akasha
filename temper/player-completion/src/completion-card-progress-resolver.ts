@@ -6,7 +6,7 @@ import {
   esoRaceIdToRaceId,
   getApplicableSkillLineIds,
 } from "@temper/game-characters-skills-morphs-access/eso-id-helpers"
-import { companions } from "@temper/game-companions-core/companions-data"
+import { companions } from "@akasha/temper-companions-core/companions"
 import type {
   AccountCompletion,
   CharacterCompletion,

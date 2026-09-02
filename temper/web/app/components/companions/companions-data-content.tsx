@@ -7,14 +7,14 @@ import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { applyCompanionMetadata } from "@temper/game-characters/build-metadata"
 import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
-import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"
+import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
 import {
   buildOverallRankMap,
   buildRankingsMap,
   displayRoleComboKey,
   mapBaseRolesToDisplayRoles,
 } from "@temper/game-companions-core/companion-leaderboard"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { useAllCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"

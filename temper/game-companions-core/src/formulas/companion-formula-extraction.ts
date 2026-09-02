@@ -5,16 +5,16 @@ import type {
   TargetType,
 } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
 import { companionBase } from "../companions-base-source"
-import type { CompanionSkillTemplate } from "../skills/companion-skill-activation-effect-types"
+import type { CompanionSkillTemplate } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
 import type {
   CompanionEffect,
   CompanionSkillEffectComponent,
-} from "../skills/companion-skill-effect-components"
+} from "@akasha/temper-companions-core/companion-skill-effect-components"
 import {
   type CompanionScalingMetricId,
   type CompanionValueFormula,
   getFormulaCoefficientType,
-} from "../skills/companion-value-formula"
+} from "@akasha/temper-companions-core/companion-value-formula"
 
 type EffectTriggerType =
   | "retaliation"

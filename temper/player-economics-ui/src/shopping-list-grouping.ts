@@ -1,4 +1,4 @@
-import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"
+import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
 import { getQualityClassName } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import type { CompanionGearNeed } from "@temper/game-items-core/companion-gear-diff"
 import type { ShoppingPlan } from "@akasha/temper-shopping/ttc-shopping-types"

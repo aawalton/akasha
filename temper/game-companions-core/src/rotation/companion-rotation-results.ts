@@ -1,6 +1,6 @@
 import type { DamageType } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
 import { extractFormulaComponents } from "../formulas/companion-formula-extraction"
-import { companionSkills } from "../skills/companion-skills-data"
+import { companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import { calculateLightAttackDamage } from "./companion-light-attack"
 import { classifyHealingTarget } from "./companion-rotation-state"
 import { calculateEffectiveMultiplier } from "./condition-evaluator"

@@ -6,7 +6,7 @@ import {
   extractCompanionMetadata,
 } from "@temper/game-characters/build-metadata"
 import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/companion-codec"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { type useAllCompanionList, useCompanionLifecycle } from "@temper/game-companions-ui/use-companions"
 import type { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"

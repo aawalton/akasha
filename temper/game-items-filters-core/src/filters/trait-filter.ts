@@ -1,17 +1,17 @@
-import { armorTraits } from "@temper/game-characters-equipment/traits/armor-traits-data"
+import { armorTraits } from "@akasha/temper-equipment/armor-traits"
 import {
   PLAYER_ARMOR_TRAIT_TO_ESO,
   PLAYER_JEWELRY_TRAIT_TO_ESO,
   PLAYER_WEAPON_TRAIT_TO_ESO,
-} from "@temper/game-characters-equipment/traits/eso-trait-map-data"
-import { jewelryTraits } from "@temper/game-characters-equipment/traits/jewelry-traits-data"
-import { weaponTraits } from "@temper/game-characters-equipment/traits/weapon-traits-data"
+} from "@akasha/temper-equipment/eso-trait-map"
+import { jewelryTraits } from "@akasha/temper-equipment/jewelry-traits"
+import { weaponTraits } from "@akasha/temper-equipment/weapon-traits"
 import {
   ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
   ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT,
   ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
-} from "@temper/game-companions-core/equipment/companion-eso-trait-map-data"
-import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"
+} from "@akasha/temper-companions-core/companion-eso-trait-map"
+import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
 import { checkClassification } from "@temper/game-items-rules-eval/conditions/check-classification"
 import { runChecker } from "../eval-adapter"
 import type { FilterEditorOption } from "../filter-types"

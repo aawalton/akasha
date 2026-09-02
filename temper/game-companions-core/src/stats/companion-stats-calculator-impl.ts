@@ -1,8 +1,8 @@
 import { targetArmor } from "@akasha/temper-character-sources/target-armors"
 import { calculateRatingSurplus } from "@akasha/temper-formula-framework/rating-chance"
 import { topologicalSort } from "@akasha/temper-formula-framework/topological-sort"
-import type { CompanionState } from "../companion-types"
-import { DEFAULT_COMPANION_ROTATION_CONFIG } from "../companion-types"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import { DEFAULT_COMPANION_ROTATION_CONFIG } from "@akasha/temper-companions-core/companion-types"
 import { companionBase } from "../companions-base-source"
 import {
   evaluateFormula,
@@ -21,7 +21,7 @@ import {
   extractTargetSource,
   extractWeaponSources,
 } from "./companion-effect-sources"
-import type { CompanionMetricId } from "./companion-metric-ids.generated"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 import { type CompanionMetricValue, companionMetrics } from "./companion-metrics.generated"
 import {
   computeDpsMetrics,

@@ -1,12 +1,12 @@
-import type { CompanionState } from "../companion-types"
-import type { CompanionArmorSlotId } from "../equipment/companion-armor-slots-data"
-import { companionArmorSlots } from "../equipment/companion-armor-slots-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionArmorSlotId } from "@akasha/temper-companions-core/companion-armor-slots"
+import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
 import { countEmptyTraitSlots, setNextEmptyTrait } from "../equipment/companion-equipment-slots"
-import type { CompanionJewelrySlotId } from "../equipment/companion-jewelry-slots-data"
-import { companionJewelrySlots } from "../generated/temper-companion-jewelry-slot.generated"
-import type { CompanionTraitId } from "../equipment/companion-traits-data"
-import type { CompanionWeaponSlotId } from "../equipment/companion-weapon-slots-data"
-import { companionWeaponSlots } from "../equipment/companion-weapon-slots-data"
+import type { CompanionJewelrySlotId } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import type { CompanionTraitId } from "@akasha/temper-companions-core/companion-traits"
+import type { CompanionWeaponSlotId } from "@akasha/temper-companions-core/companion-weapon-slots"
+import { companionWeaponSlots } from "@akasha/temper-companions-core/companion-weapon-slots"
 
 const GOLD_SLOT_IDS = new Set<CompanionJewelrySlotId>(["ring-1", "ring-2"])
 

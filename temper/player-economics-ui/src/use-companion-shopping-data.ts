@@ -2,9 +2,9 @@
 
 import { applyCompanionMetadata } from "@temper/game-characters/build-metadata"
 import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
-import { companions, getCompanionName } from "@temper/game-companions-core/companions-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
+import { companions, getCompanionName } from "@akasha/temper-companions-core/companions"
 import { useAllCompanionList } from "@temper/game-companions-ui/use-companions"
 import {
   type CompanionGearNeed,

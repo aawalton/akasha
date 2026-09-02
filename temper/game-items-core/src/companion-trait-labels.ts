@@ -2,8 +2,8 @@ import {
   ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
   ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT,
   ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
-} from "@temper/game-companions-core/equipment/companion-eso-trait-map-data"
-import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"
+} from "@akasha/temper-companions-core/companion-eso-trait-map"
+import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
 
 export function getCompanionTraitName(traitType: number): string | undefined {
   const traitId =

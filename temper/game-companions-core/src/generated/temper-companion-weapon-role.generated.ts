@@ -16,7 +16,7 @@
  * DO NOT EDIT -- regenerate with: ops temper addon-data generate
  */
 
-import type { CompanionWeaponRoleTemplate } from "../equipment/companion-weapon-roles-data"
+import type { CompanionWeaponRoleTemplate } from "@akasha/temper-companions-core/companion-weapon-roles"
 
 export const TEMPER_COMPANION_WEAPON_ROLES = {
   "no-weapon-role": { id: "no-weapon-role" as const, name: "No Weapon Role", weaponSkillLineId: "no-skill-line", validMainHandWeaponTypes: [] as const, validOffHandWeaponTypes: [] as const },

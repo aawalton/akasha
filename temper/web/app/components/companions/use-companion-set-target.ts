@@ -5,9 +5,9 @@ import {
   extractCompanionMetadata,
 } from "@temper/game-characters/build-metadata"
 import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/companion-codec"
-import { getBaseRoleName } from "@temper/game-companions-core/companion-base-roles-data"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import { companions as companionsData } from "@temper/game-companions-core/companions-data"
+import { getBaseRoleName } from "@akasha/temper-companions-core/companion-base-roles"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import { companions as companionsData } from "@akasha/temper-companions-core/companions"
 import { useCompanionLifecycle, useCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"

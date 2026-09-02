@@ -10,7 +10,7 @@ import { specialEffectTypes } from "@akasha/temper-skill-kinds/special-effect-ty
 import { statusEffectTypes } from "@akasha/temper-skill-kinds/status-effect-types"
 import { buffOrDebuff } from "@akasha/temper-formula-framework/buff-or-debuff-source"
 import { companionActivationBuffs } from "../generated/temper-companion-activation-buff.generated"
-import type { CompanionMetricId } from "../stats/companion-metric-ids.generated"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 import { companionPassiveMetrics } from "../stats/companion-passive-metric-data"
 
 const buffOrDebuffByName: Readonly<Record<string, { name: string }>> = buffOrDebuff.data

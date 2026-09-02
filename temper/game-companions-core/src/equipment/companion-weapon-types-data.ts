@@ -1,4 +1,4 @@
-import type { companionWeaponTypes } from "../generated/temper-companion-weapon-type.generated"
+import type { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
 
 
 export interface CompanionWeaponTypeTemplate {

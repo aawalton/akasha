@@ -1,8 +1,8 @@
 import type {
   CompanionEffect,
   CompanionSkillEffectComponent,
-} from "../skills/companion-skill-effect-components"
-import type { CompanionValueFormula } from "../skills/companion-value-formula"
+} from "@akasha/temper-companions-core/companion-skill-effect-components"
+import type { CompanionValueFormula } from "@akasha/temper-companions-core/companion-value-formula"
 import { calculatePeriodicTooltipValue } from "./companion-periodic-formula"
 import type { CompanionFormulaStats } from "./companion-skill-formula"
 import { evaluateSkillFormula } from "./companion-skill-formula"

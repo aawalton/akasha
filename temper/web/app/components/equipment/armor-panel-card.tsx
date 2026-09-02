@@ -28,7 +28,7 @@ import {
   type ArmorTraitId,
   armorTraitsBuildList,
   armorTraits as armorTraitsData,
-} from "@temper/game-characters-equipment/traits/armor-traits-data"
+} from "@akasha/temper-equipment/armor-traits"
 import { AVAILABLE_QUALITY_OPTIONS, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import { useMemo } from "react"

@@ -1,4 +1,4 @@
-import { companions } from "@temper/game-companions-core/companions-data"
+import { companions } from "@akasha/temper-companions-core/companions"
 import { MAX_COMPANION_RAPPORT } from "./companion-rapport"
 
 const RAPPORT_COMPANION_DEF_IDS: readonly number[] = companions.list

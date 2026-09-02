@@ -2,6 +2,7 @@
   "name": "@temper/player-completion",
   "dependencies": {
     "@akasha/temper-champion-points": "workspace:*",
+    "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-races": "workspace:*",

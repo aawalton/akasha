@@ -25,7 +25,7 @@ import {
   type JewelryTraitId,
   jewelryTraits,
   jewelryTraitsBuildList,
-} from "@temper/game-characters-equipment/traits/jewelry-traits-data"
+} from "@akasha/temper-equipment/jewelry-traits"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import { AVAILABLE_QUALITY_OPTIONS, getQualityClassName, getQualityLabel, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { useMemo, useState } from "react"

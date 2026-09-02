@@ -8,7 +8,7 @@ import {
   displayRolesToLabel,
   type RankedEntry,
 } from "@temper/game-companions-core/companion-leaderboard"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { LEADERBOARD_COLUMNS } from "@/components/companions/leaderboard-columns"

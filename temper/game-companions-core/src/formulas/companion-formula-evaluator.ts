@@ -1,11 +1,11 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { evaluateArithmeticNode } from "@akasha/temper-formula-framework/arithmetic-evaluate"
 import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
-import type { CompanionBaseRoleId } from "../companion-base-roles-data"
+import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
 import type { CompanionEffectSource } from "../stats/companion-effect-sources"
-import type { CompanionMetricId } from "../stats/companion-metric-ids.generated"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 import { companionMetrics } from "../stats/companion-metrics.generated"
-import { type CompanionFormulaNode } from "../stats/metrics/companion-metric-template"
+import { type CompanionFormulaNode } from "@akasha/temper-companions-core/companion-metric-template"
 
 interface CompanionFormulaContext {
   metricValues: Map<CompanionMetricId, number>

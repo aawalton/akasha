@@ -1,4 +1,4 @@
-import type { companionJewelrySlots } from "../generated/temper-companion-jewelry-slot.generated"
+import type { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
 
 
 export interface CompanionJewelrySlotTemplate {

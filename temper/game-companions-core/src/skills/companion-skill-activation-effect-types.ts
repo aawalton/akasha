@@ -1,6 +1,6 @@
 import type { EffectCondition as EffectConditionType } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
-import type { CompanionEffect } from "./companion-skill-effect-components"
-import type { CompanionSkillLineId } from "./companion-skill-lines-data"
+import type { CompanionEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
+import type { CompanionSkillLineId } from "@akasha/temper-companions-core/skill-lines-by-companion"
 
 export interface ExtractedSkillTiming {
   cooldown: number

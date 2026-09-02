@@ -3,7 +3,7 @@ import type {
   DamageType,
   EffectCondition,
 } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
-import type { CompanionSkillId } from "../skills/companion-skills-data"
+import type { CompanionSkillId } from "@akasha/temper-companions-core/companion-skills"
 
 export interface HealthSamples {
   self: number

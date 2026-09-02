@@ -1,6 +1,6 @@
 import type { CompanionMetricEffect } from "../stats/metrics/companion-metric-template"
-import { isCompanionPassiveStatEffect } from "./companion-skill-effect-components"
-import { type CompanionSkillId, companionSkills } from "./companion-skills-data"
+import { isCompanionPassiveStatEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
+import { type CompanionSkillId, companionSkills } from "@akasha/temper-companions-core/companion-skills"
 
 export function getCompanionPassiveEffects(
   skillId: CompanionSkillId

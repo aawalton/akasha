@@ -1,10 +1,10 @@
 import { requireFirst } from "@akasha/utils-narrow/require-first"
-import type { CompanionArmorWeight } from "@temper/game-companions-core/companion-types"
-import { companions } from "@temper/game-companions-core/companions-data"
-import { companionEquipmentQualities } from "@temper/game-companions-core/generated/temper-companion-equipment-quality.generated"
-import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"
-import { companionWeaponTypes } from "@temper/game-companions-core/generated/temper-companion-weapon-type.generated"
-import { companionSkills } from "@temper/game-companions-core/skills/companion-skills-data"
+import type { CompanionArmorWeight } from "@akasha/temper-companions-core/companion-armor-weights"
+import { companions } from "@akasha/temper-companions-core/companions"
+import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
+import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
+import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
+import { companionSkills } from "@akasha/temper-companions-core/companion-skills"
 
 export const companionIds = companions.ids
 

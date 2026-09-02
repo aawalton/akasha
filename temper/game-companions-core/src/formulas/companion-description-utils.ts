@@ -2,7 +2,7 @@ import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type {
   CompanionEffect,
   CompanionSkillEffectComponent,
-} from "../skills/companion-skill-effect-components"
+} from "@akasha/temper-companions-core/companion-skill-effect-components"
 
 function getAugmentableDuration(effect: CompanionEffect): number | undefined {
   switch (effect.type) {

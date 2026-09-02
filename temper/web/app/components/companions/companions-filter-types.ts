@@ -4,10 +4,10 @@ import {
   type TargetArmorId,
   targetArmor,
 } from "@akasha/temper-character-sources/target-armors"
-import { companionBaseRoles } from "@temper/game-companions-core/companion-base-roles-data"
-import { type CompanionId, companions } from "@temper/game-companions-core/companions-data"
-import { type CompanionEquipmentQualityId } from "@temper/game-companions-core/equipment/companion-equipment-quality-data"
-import { companionEquipmentQualities } from "@temper/game-companions-core/generated/temper-companion-equipment-quality.generated"
+import { companionBaseRoles } from "@akasha/temper-companions-core/companion-base-roles"
+import { type CompanionId, companions } from "@akasha/temper-companions-core/companions"
+import { type CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
+import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import type { SortField } from "@/components/companions/companions-filter-bar"
 
 export type TabValue = "plan" | "build" | "browse" | "leaderboard"

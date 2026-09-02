@@ -10,11 +10,11 @@ import type {
 import { formatDecimal } from "@akasha/temper-formula-framework/number-format"
 import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
 import { sourceCategories } from "@akasha/temper-formula-framework/source-category"
-import type { CompanionBaseRoleId } from "../companion-base-roles-data"
+import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
 import type { CompanionEffectSource } from "./companion-effect-sources"
 import { COMPANION_CATEGORIES, type CompanionMetricValue, companionMetrics, getCompanionMetricName } from "./companion-metrics.generated"
-import { type CompanionMetricId } from "./companion-metric-ids.generated"
-import { type CompanionFormulaNode } from "./metrics/companion-metric-template"
+import { type CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
+import { type CompanionFormulaNode } from "@akasha/temper-companions-core/companion-metric-template"
 
 function getContributionsByCategory(
   sources: readonly CompanionEffectSource[],

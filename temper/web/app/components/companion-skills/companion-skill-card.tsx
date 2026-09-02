@@ -11,9 +11,9 @@ import {
   extractPrimaryTargeting,
   updateDescriptionWithCalculatedValues,
 } from "@temper/game-companions-core/formulas/companion-skill-tooltip"
-import type { CompanionSkillTemplate } from "@temper/game-companions-core/skills/companion-skill-activation-effect-types"
-import { extractSkillTiming } from "@temper/game-companions-core/skills/companion-skill-activation-effect-types"
-import { isResourceCostEffect } from "@temper/game-companions-core/skills/companion-skill-effect-components"
+import type { CompanionSkillTemplate } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
+import { extractSkillTiming } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
+import { isResourceCostEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
 import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { formatAbbreviated } from "@akasha/temper-formula-framework/number-format"
 import type { ReactNode } from "react"

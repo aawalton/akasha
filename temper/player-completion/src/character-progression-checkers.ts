@@ -1,4 +1,4 @@
-import { companions } from "@temper/game-companions-core/companions-data"
+import { companions } from "@akasha/temper-companions-core/companions"
 import { loreLibraryData } from "@temper/game-completion/generated/lore-library-data.generated"
 import { companionQuestData } from "./companion-quest-data"
 import {

@@ -5,9 +5,9 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
-} from "@temper/game-companions-core/companion-base-roles-data"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import { type CompanionId, companions } from "@temper/game-companions-core/companions-data"
+} from "@akasha/temper-companions-core/companion-base-roles"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import { type CompanionId, companions } from "@akasha/temper-companions-core/companions"
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface CompanionPanelProps {

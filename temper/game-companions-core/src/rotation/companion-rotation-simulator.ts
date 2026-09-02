@@ -1,6 +1,6 @@
 import { requireGet } from "@akasha/utils-narrow/require-get"
 import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
-import { type CompanionSkillId, companionSkills } from "../skills/companion-skills-data"
+import { type CompanionSkillId, companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import { type CompanionMetricValue, companionMetrics } from "../stats/companion-metrics.generated"
 import { activateLightAttack } from "./companion-light-attack"
 import { calculateResults, createEmptyResult } from "./companion-rotation-results"

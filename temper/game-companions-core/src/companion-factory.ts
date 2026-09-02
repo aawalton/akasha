@@ -1,12 +1,12 @@
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import { randomFrom } from "@akasha/temper-formula-framework/random-from"
-import { type CompanionBaseRoleId, getArmorWeightForBaseRoles } from "./companion-base-roles-data"
-import type { CompanionState } from "./companion-types"
-import { companions } from "./companions-data"
-import type { CompanionTraitId } from "./equipment/companion-traits-data"
-import { type CompanionWeaponTypeId, DESTRUCTION_STAFF_WEAPONS, ONE_HANDED_MELEE_WEAPONS, TWO_HANDED_MELEE_WEAPONS } from "./equipment/companion-weapon-types-data"
-import { companionWeaponTypes } from "./generated/temper-companion-weapon-type.generated"
-import { getDefaultUltimateForCompanion } from "./skills/companion-skills-data"
+import { type CompanionBaseRoleId, getArmorWeightForBaseRoles } from "@akasha/temper-companions-core/companion-base-roles"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import { companions } from "@akasha/temper-companions-core/companions"
+import type { CompanionTraitId } from "@akasha/temper-companions-core/companion-traits"
+import { type CompanionWeaponTypeId, DESTRUCTION_STAFF_WEAPONS, ONE_HANDED_MELEE_WEAPONS, TWO_HANDED_MELEE_WEAPONS } from "@akasha/temper-companions-core/companion-weapon-types"
+import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
+import { getDefaultUltimateForCompanion } from "@akasha/temper-companions-core/companion-skills"
 
 const ACTUAL_COMPANIONS = companions.ids.filter((id) => id !== "no-companion")
 

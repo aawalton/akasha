@@ -9,7 +9,7 @@ import {
   getCompanionMetricTree,
 } from "@temper/game-companions-core/stats/companion-metric-tree"
 import type { CompanionMetricValue } from "@temper/game-companions-core/stats/companion-metrics.generated"
-import type { CompanionMetricId } from "@temper/game-companions-core/stats/companion-metric-ids.generated"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 import { type ReactNode, useMemo, useState } from "react"
 import { CompanionRotationBreakdownPanelCard } from "@/components/companion-skills/companion-rotation-breakdown-panel-card"
 import { CompanionStatExplanationDialog } from "@/components/companion-skills/companion-stat-explanation-dialog"

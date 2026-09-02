@@ -1,4 +1,4 @@
-import type { CompanionState } from "../companion-types"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { ReferenceBaseline } from "../optimizer/companion-support-types"
 import { getReferenceBaseline } from "../optimizer/reference-build-data"
 import {

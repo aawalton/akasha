@@ -1,9 +1,9 @@
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
-import type { CompanionRoleId } from "./companion-roles"
+import type { CompanionRoleId } from "@akasha/temper-companions-core/companion-roles"
 import type { CompanionArmorWeight, CompanionState } from "./companion-types"
 import { setAllArmorWeights } from "./equipment/companion-armor-slots-data"
-import type { CompanionTraitId } from "./equipment/companion-traits-data"
-import type { CompanionWeaponRoleId } from "./equipment/companion-weapon-roles-data"
+import type { CompanionTraitId } from "@akasha/temper-companions-core/companion-traits"
+import type { CompanionWeaponRoleId } from "@akasha/temper-companions-core/companion-weapon-roles"
 import { TEMPER_COMPANION_BASE_ROLES_BY_ID } from "./generated/temper-companion-base-role.generated"
 
 export interface CompanionBaseRoleTemplate {

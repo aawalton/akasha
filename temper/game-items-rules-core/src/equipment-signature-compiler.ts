@@ -6,18 +6,18 @@ import {
   PLAYER_ARMOR_TRAIT_TO_ESO,
   PLAYER_JEWELRY_TRAIT_TO_ESO,
   PLAYER_WEAPON_TRAIT_TO_ESO,
-} from "@temper/game-characters-equipment/traits/eso-trait-map-data"
+} from "@akasha/temper-equipment/eso-trait-map"
 import { weaponTypes } from "@temper/game-characters-equipment/weapons/weapon-types-data"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import { companions as companionsData } from "@temper/game-companions-core/companions-data"
-import { companionArmorSlots } from "@temper/game-companions-core/equipment/companion-armor-slots-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import { companions as companionsData } from "@akasha/temper-companions-core/companions"
+import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
 import {
   ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
   ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT,
   ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
-} from "@temper/game-companions-core/equipment/companion-eso-trait-map-data"
-import { companionJewelrySlots } from "@temper/game-companions-core/generated/temper-companion-jewelry-slot.generated"
-import { companionWeaponTypes } from "@temper/game-companions-core/generated/temper-companion-weapon-type.generated"
+} from "@akasha/temper-companions-core/companion-eso-trait-map"
+import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
 import { COMPANION_QUALITY_TO_ESO_GENERATED as COMPANION_QUALITY_TO_ESO, ESO_EQUIP_TYPES_GENERATED as ESO_EQUIP_TYPES } from "@temper/game-items-core/generated/temper-eso-companion-equipment-constant.generated"
 import {
   PLAYER_ARMOR_TYPE_TO_ESO,

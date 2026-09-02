@@ -3,9 +3,9 @@ import {
   getSkillCastTime,
   getSkillCooldown,
   getSkillUltimateCost,
-} from "../skills/companion-skill-activation-effect-types"
+} from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
 import type { TargetType } from "../skills/companion-skill-effect-components"
-import { type CompanionSkillId, companionSkills } from "../skills/companion-skills-data"
+import { type CompanionSkillId, companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import type { RotationCategory, RotationState, SkillState } from "./rotation-types"
 
 function classifySkill(skillId: CompanionSkillId): RotationCategory {

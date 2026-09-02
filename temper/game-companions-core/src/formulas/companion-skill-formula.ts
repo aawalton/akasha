@@ -2,7 +2,7 @@ import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type {
   CompanionScalingMetricId,
   CompanionValueFormula,
-} from "../skills/companion-value-formula"
+} from "@akasha/temper-companions-core/companion-value-formula"
 import type { CompanionEffectSource } from "../stats/companion-effect-sources"
 import { badTruncate } from "./bad-truncate"
 

@@ -1,9 +1,9 @@
-import type { CompanionState } from "./companion-types"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { companionsFromPages } from "./generated/temper-eso-companion.generated"
 import { setUltimate } from "./skills/companion-skill-slots-data"
-import type { CompanionSkillId } from "./skills/companion-skills-data"
-import { getDefaultUltimateForCompanion } from "./skills/companion-skills-data"
-import type { CompanionMetricId } from "./stats/companion-metric-ids.generated"
+import type { CompanionSkillId } from "@akasha/temper-companions-core/companion-skills"
+import { getDefaultUltimateForCompanion } from "@akasha/temper-companions-core/companion-skills"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 
 interface CompanionPassiveEffect {
   metricId: CompanionMetricId

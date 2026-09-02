@@ -1,14 +1,14 @@
 import type { CompanionFormulaStats } from "../formulas/companion-skill-formula"
 import type { SkillUsageSummary } from "../rotation/rotation-types"
-import type { CompanionSkillTemplate } from "../skills/companion-skill-activation-effect-types"
-import type { CompanionEffect } from "../skills/companion-skill-effect-components"
+import type { CompanionSkillTemplate } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
+import type { CompanionEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
 import {
   type CompanionSkillSlotId,
   companionSkillSlots,
-} from "../skills/companion-skill-slots-data"
-import { type CompanionSkillId, companionSkills } from "../skills/companion-skills-data"
+} from "@akasha/temper-companions-core/companion-skill-slots"
+import { type CompanionSkillId, companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import type { CompanionMetricValue } from "./companion-metrics.generated"
-import type { CompanionMetricId } from "./companion-metric-ids.generated"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 
 export interface SkillSlotData {
   slotId: CompanionSkillSlotId

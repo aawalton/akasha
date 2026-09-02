@@ -1,6 +1,6 @@
 import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
-import { companions, getCompanionIdByDefId } from "@temper/game-companions-core/companions-data"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
+import { companions, getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
 import type {
   CharacterCompletion,
   CompanionCompletion,

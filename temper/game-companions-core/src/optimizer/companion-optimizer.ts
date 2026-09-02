@@ -7,13 +7,13 @@ import {
 } from "../companion-base-roles-data"
 import type { CompanionArmorWeight, CompanionState } from "../companion-types"
 import { type CompanionId, companions, setCompanion } from "../companions-data"
-import type { CompanionArmorSlotId } from "../equipment/companion-armor-slots-data"
+import type { CompanionArmorSlotId } from "@akasha/temper-companions-core/companion-armor-slots"
 import {
   countEmptyTraitSlots,
   setNextEmptyTrait,
   setRingQualityToLegendary,
 } from "../equipment/companion-equipment-slots"
-import type { CompanionTraitId } from "../equipment/companion-traits-data"
+import type { CompanionTraitId } from "@akasha/temper-companions-core/companion-traits"
 import {
   type CompanionWeaponRoleId,
   getWeaponRole,
@@ -22,9 +22,9 @@ import {
 import {
   type CompanionSkillSlotId,
   companionSkillSlots,
-} from "../skills/companion-skill-slots-data"
-import { type CompanionSkillId, companionSkills } from "../skills/companion-skills-data"
-import type { CompanionMetricId } from "../stats/companion-metric-ids.generated"
+} from "@akasha/temper-companions-core/companion-skill-slots"
+import { type CompanionSkillId, companionSkills } from "@akasha/temper-companions-core/companion-skills"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 import { calculateCompanionStats } from "../stats/companion-stats-calculator"
 import { findBestPermutation, optimizeSkills } from "./companion-skill-optimizer"
 import { optimizeTraits } from "./companion-trait-optimizer"

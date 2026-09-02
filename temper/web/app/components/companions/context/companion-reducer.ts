@@ -1,6 +1,6 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { COMPANION_ACTIONS, type CompanionAction } from "./companion-actions"
 
 export function companionReducer(state: CompanionState, action: CompanionAction): CompanionState {

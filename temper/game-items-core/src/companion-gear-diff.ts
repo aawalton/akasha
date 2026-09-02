@@ -1,19 +1,19 @@
 import { capitalize } from "@akasha/utils-narrow/capitalize"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
-import { companionArmorSlots } from "@temper/game-companions-core/equipment/companion-armor-slots-data"
-import type { CompanionEquipmentQualityId } from "@temper/game-companions-core/equipment/companion-equipment-quality-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
+import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
+import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import {
   ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
   ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT,
   ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
-} from "@temper/game-companions-core/equipment/companion-eso-trait-map-data"
-import { companionJewelrySlots } from "@temper/game-companions-core/generated/temper-companion-jewelry-slot.generated"
-import type { CompanionTraitId } from "@temper/game-companions-core/equipment/companion-traits-data"
-import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"
-import { companionWeaponSlots } from "@temper/game-companions-core/equipment/companion-weapon-slots-data"
-import type { CompanionWeaponTypeId } from "@temper/game-companions-core/equipment/companion-weapon-types-data"
-import { companionWeaponTypes } from "@temper/game-companions-core/generated/temper-companion-weapon-type.generated"
+} from "@akasha/temper-companions-core/companion-eso-trait-map"
+import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import type { CompanionTraitId } from "@akasha/temper-companions-core/companion-traits"
+import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
+import { companionWeaponSlots } from "@akasha/temper-companions-core/companion-weapon-slots"
+import type { CompanionWeaponTypeId } from "@akasha/temper-companions-core/companion-weapon-types"
+import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
 import { ESO_EQUIP_TYPES_GENERATED as ESO_EQUIP_TYPES, ESO_QUALITY_TO_COMPANION_QUALITY_GENERATED as ESO_QUALITY_TO_COMPANION_QUALITY } from "./generated/temper-eso-companion-equipment-constant.generated"
 import type { InventoryDatabase } from "./inventory-types"
 

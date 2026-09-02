@@ -22,7 +22,7 @@
  * DO NOT EDIT -- regenerate with: ops temper addon-data generate
  */
 
-import type { CompanionTraitTemplate } from "../equipment/companion-traits-data"
+import type { CompanionTraitTemplate } from "@akasha/temper-companions-core/companion-traits"
 
 export const TEMPER_COMPANION_TRAITS = {
   "no-trait": { id: "no-trait" as const, name: "No Trait", description: "", metricId: null, effectType: null, isReduction: false, qualityValues: null },

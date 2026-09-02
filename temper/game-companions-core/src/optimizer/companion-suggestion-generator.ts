@@ -1,17 +1,17 @@
-import { getValidTraitIdsForBaseRoles } from "../companion-base-roles-data"
-import type { CompanionState } from "../companion-types"
-import { companionArmorSlots } from "../equipment/companion-armor-slots-data"
-import { type CompanionEquipmentQualityId } from "../equipment/companion-equipment-quality-data"
-import { companionEquipmentQualities } from "../generated/temper-companion-equipment-quality.generated"
-import { type CompanionJewelrySlotId } from "../equipment/companion-jewelry-slots-data"
-import { companionJewelrySlots } from "../generated/temper-companion-jewelry-slot.generated"
-import { companionTraits } from "../equipment/companion-traits-data"
-import { companionWeaponSlots } from "../equipment/companion-weapon-slots-data"
+import { getValidTraitIdsForBaseRoles } from "@akasha/temper-companions-core/companion-base-roles"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
+import { type CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
+import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
+import { type CompanionJewelrySlotId } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
+import { companionWeaponSlots } from "@akasha/temper-companions-core/companion-weapon-slots"
 import {
   type CompanionSkillSlotId,
   companionSkillSlots,
-} from "../skills/companion-skill-slots-data"
-import { companionSkills } from "../skills/companion-skills-data"
+} from "@akasha/temper-companions-core/companion-skill-slots"
+import { companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import { evaluate } from "./companion-optimizer"
 import { getValidSkillIds } from "./companion-valid-skills"
 

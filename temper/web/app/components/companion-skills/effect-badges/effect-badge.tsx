@@ -13,7 +13,7 @@ import {
 } from "@temper/game-companions-core/effect-display/effect-labels"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
 import { calculateEffectValue } from "@temper/game-companions-core/formulas/companion-skill-tooltip"
-import type { CompanionEffect } from "@temper/game-companions-core/skills/companion-skill-effect-components"
+import type { CompanionEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
 import { formatAbbreviated } from "@akasha/temper-formula-framework/number-format"
 import type {
   ArmorPieceCounts,

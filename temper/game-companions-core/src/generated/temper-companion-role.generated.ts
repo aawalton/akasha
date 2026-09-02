@@ -9,7 +9,7 @@
  */
 
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
-import type { CompanionRoleTemplate } from "../companion-roles"
+import type { CompanionRoleTemplate } from "@akasha/temper-companions-core/companion-roles"
 
 const COMPANION_ROLE_DATA = {
   "no-role": { id: "no-role" as const, name: "No Role" },

@@ -2,17 +2,17 @@
 
 import { CommandItem } from "@akasha/design-primitives/command"
 import { requireGet } from "@akasha/utils-narrow/require-get"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
 import { isCompanionSkillAvailable } from "@temper/game-companions-core/skills/companion-skill-line-queries"
-import { type CompanionSkillLineId } from "@temper/game-companions-core/skills/companion-skill-lines-data"
-import { companionSkillLines } from "@temper/game-companions-core/generated/temper-companion-skill-line.generated"
-import type { CompanionSkillSlotId } from "@temper/game-companions-core/skills/companion-skill-slots-data"
+import { type CompanionSkillLineId } from "@akasha/temper-companions-core/skill-lines-by-companion"
+import { companionSkillLines } from "@akasha/temper-companions-core/skill-lines-by-companion"
+import type { CompanionSkillSlotId } from "@akasha/temper-companions-core/companion-skill-slots"
 import {
   type CompanionSkillId,
   companionSkills,
   getAllSkillsForCompanion,
-} from "@temper/game-companions-core/skills/companion-skills-data"
+} from "@akasha/temper-companions-core/companion-skills"
 import { useMemo } from "react"
 import { CompanionSkillCard } from "@/components/companion-skills/companion-skill-card"
 import {

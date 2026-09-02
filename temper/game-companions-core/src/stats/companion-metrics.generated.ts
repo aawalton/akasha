@@ -11,8 +11,8 @@
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { RatingSurplusInfo } from "@akasha/temper-formula-framework/rating-chance"
 import type { SourceCategoryId } from "@akasha/temper-formula-framework/source-category"
-import type { CompanionMetricId } from "./companion-metric-ids.generated"
-import type { CompanionMetricTemplate } from "./metrics/companion-metric-template"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
+import type { CompanionMetricTemplate } from "@akasha/temper-companions-core/companion-metric-template"
 
 // Re-export types that are imported from this module
 

@@ -1,4 +1,4 @@
-import type { companionSkillLines } from "../generated/temper-companion-skill-line.generated"
+import type { companionSkillLines } from "@akasha/temper-companions-core/skill-lines-by-companion"
 
 
 export interface CompanionSkillLineTemplate {

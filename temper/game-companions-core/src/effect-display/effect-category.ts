@@ -1,5 +1,5 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import type { CompanionEffect } from "../skills/companion-skill-effect-components"
+import type { CompanionEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
 
 const DAMAGE_BUFFS = new Set([
   "minor-berserk",

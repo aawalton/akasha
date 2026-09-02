@@ -1,4 +1,4 @@
-import { companionSkills } from "../skills/companion-skills-data"
+import { companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import { evaluateCondition } from "./condition-evaluator"
 import type { HealthSamples, RotationState, SkillState } from "./rotation-types"
 import { COMPANION_GCD_DURATION, ULTIMATE_GENERATION_WINDOW_DURATION } from "./rotation-types"

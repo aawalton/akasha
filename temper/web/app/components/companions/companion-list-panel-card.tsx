@@ -6,9 +6,9 @@ import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import {
   type CompanionBaseRoleId,
   getBaseRoleName,
-} from "@temper/game-companions-core/companion-base-roles-data"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
+} from "@akasha/temper-companions-core/companion-base-roles"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import {
   companionWeaponRoles,
   getWeaponRole,

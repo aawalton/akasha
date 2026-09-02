@@ -3,10 +3,10 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableTotalCell } from "@akasha/design-primitives/table"
 import { cn } from "@akasha/design-primitives/cn"
-import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"
-import { getBaseRoleName } from "@temper/game-companions-core/companion-base-roles-data"
+import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
+import { getBaseRoleName } from "@akasha/temper-companions-core/companion-base-roles"
 import { type Build, getBuildScore } from "@temper/game-companions-core/companion-leaderboard"
-import { type CompanionId, companions } from "@temper/game-companions-core/companions-data"
+import { type CompanionId, companions } from "@akasha/temper-companions-core/companions"
 import { useMemo } from "react"
 
 interface OverallRankedCompanion {

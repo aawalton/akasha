@@ -7,22 +7,20 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import type {
-  CompanionArmorSlotItem,
-  CompanionArmorWeight,
-} from "@temper/game-companions-core/companion-types"
+import type { CompanionArmorSlotItem } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionArmorWeight } from "@akasha/temper-companions-core/companion-armor-weights"
 import {
   type CompanionArmorSlotId,
   companionArmorSlots,
-} from "@temper/game-companions-core/equipment/companion-armor-slots-data"
+} from "@akasha/temper-companions-core/companion-armor-slots"
 import { getCompanionArmorIcon } from "@temper/game-companions-core/equipment/companion-equipment-icons-data"
-import type { CompanionEquipmentQualityId } from "@temper/game-companions-core/equipment/companion-equipment-quality-data"
-import { companionEquipmentQualities } from "@temper/game-companions-core/generated/temper-companion-equipment-quality.generated"
+import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
+import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import { AVAILABLE_QUALITY_OPTIONS } from "@temper/game-companions-core/equipment/companion-equipment-quality-rules"
 import {
   type CompanionTraitId,
   companionTraits,
-} from "@temper/game-companions-core/equipment/companion-traits-data"
+} from "@akasha/temper-companions-core/companion-traits"
 import { getQualityClassName, getQualityVariant } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import { useMemo } from "react"

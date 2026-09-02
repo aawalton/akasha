@@ -5,8 +5,8 @@ import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { ItemRow } from "@akasha/design-patterns/item-row"
-import { companionEquipmentQualities } from "@temper/game-companions-core/generated/temper-companion-equipment-quality.generated"
-import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"
+import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
+import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
 import { getQualityClassName, getQualityVariant } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import {
   aggregateUnfulfilledByTraitQuality,

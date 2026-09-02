@@ -1,6 +1,6 @@
 import type { BuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash } from "@akasha/temper-formula-framework/branded-id"
-import type { CompanionState } from "../companion-types"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { computeReferenceBaseline } from "./companion-support-baseline"
 import type { ReferenceBaseline } from "./companion-support-types"
 

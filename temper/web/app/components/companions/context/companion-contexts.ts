@@ -3,7 +3,7 @@
 import type {
   CompanionState,
   CompanionVisibility,
-} from "@temper/game-companions-core/companion-types"
+} from "@akasha/temper-companions-core/companion-types"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { createContext } from "react"
 import type { CompanionAction } from "./companion-actions"

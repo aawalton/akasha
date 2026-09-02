@@ -7,7 +7,7 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "@akasha/temper-completion/completion-progress"
-import { getCompanionIdByDefId } from "@temper/game-companions-core/companions-data"
+import { getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
 import {
   type ParsedSavedVariables,
   parseSavedVariablesContent,

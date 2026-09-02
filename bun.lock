@@ -764,6 +764,7 @@
         "@akasha/temper-capture-datamining": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -884,6 +885,20 @@
         "@akasha/utils-narrow": "workspace:*",
         "extract-zip": "^2.0.1",
         "zod": "^4.3.6",
+      },
+    },
+    "akasha/temper/temper-companions-addon": {
+      "name": "@akasha/temper-companions-addon",
+      "dependencies": {
+        "@akasha/design-tokens": "workspace:*",
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-bit-codec": "workspace:*",
+        "@akasha/temper-capture-perf": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-narrow": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "akasha/temper/temper-companions-core": {
@@ -2203,6 +2218,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
       },
@@ -2233,6 +2249,7 @@
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
@@ -2393,6 +2410,8 @@
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
@@ -2548,6 +2567,7 @@
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@temper/game-characters": "workspace:*",
@@ -2685,6 +2705,8 @@
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
@@ -2727,6 +2749,8 @@
       "name": "@temper/game-items-filters-core",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
@@ -2744,6 +2768,8 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
@@ -2888,6 +2914,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
@@ -2992,6 +3019,7 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-shopping": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
@@ -3123,6 +3151,7 @@
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-completion-import": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
@@ -3515,9 +3544,11 @@
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-completion-import": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
@@ -3796,6 +3827,8 @@
     "@akasha/temper-commands": ["@akasha/temper-commands@workspace:akasha/temper/temper-commands"],
 
     "@akasha/temper-community-addons": ["@akasha/temper-community-addons@workspace:akasha/temper/temper-community-addons"],
+
+    "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:akasha/temper/temper-companions-addon"],
 
     "@akasha/temper-companions-core": ["@akasha/temper-companions-core@workspace:akasha/temper/temper-companions-core"],
 

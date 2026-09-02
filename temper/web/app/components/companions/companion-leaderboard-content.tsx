@@ -8,8 +8,8 @@ import {
   compareDisplayRoleCombos,
   displayRoleComboKey,
 } from "@temper/game-companions-core/companion-leaderboard"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
-import { companions } from "@temper/game-companions-core/companions-data"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
+import { companions } from "@akasha/temper-companions-core/companions"
 import { useCallback, useMemo } from "react"
 import { CompanionIdentityLeaderboardPanelCard } from "@/components/companions/companion-identity-leaderboard-panel-card"
 import { CompanionOverallLeaderboardPanelCard } from "@/components/companions/companion-overall-leaderboard-panel-card"

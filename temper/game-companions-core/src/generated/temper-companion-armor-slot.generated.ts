@@ -8,7 +8,7 @@
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */
 
-import type { CompanionArmorSlotTemplate } from "../equipment/companion-armor-slots-data"
+import type { CompanionArmorSlotTemplate } from "@akasha/temper-companions-core/companion-armor-slots"
 
 /**
  * Keyed record. The literal-id keys flow into `createDataFile`'s

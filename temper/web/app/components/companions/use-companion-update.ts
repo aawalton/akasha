@@ -2,12 +2,12 @@ import {
   createEquipmentForBaseRoles,
   equipmentMatchesBaseRoleDefaults,
 } from "@temper/game-companions-core/companion-factory"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import {
   getDefaultUltimateForCompanion,
   isSkillValidForCompanion,
-} from "@temper/game-companions-core/skills/companion-skills-data"
+} from "@akasha/temper-companions-core/companion-skills"
 import { useCallback } from "react"
 
 export function useCompanionUpdate(

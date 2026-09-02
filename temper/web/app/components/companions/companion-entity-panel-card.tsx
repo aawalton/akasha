@@ -9,14 +9,14 @@ import {
   type CompanionBaseRoleId,
   companionBaseRoles,
   getBaseRoleName,
-} from "@temper/game-companions-core/companion-base-roles-data"
+} from "@akasha/temper-companions-core/companion-base-roles"
 import {
   type ComboRankingsMap,
   displayRoleComboKey,
   mapBaseRolesToDisplayRoles,
 } from "@temper/game-companions-core/companion-leaderboard"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import {
   companionWeaponRoles,
   getWeaponRole,

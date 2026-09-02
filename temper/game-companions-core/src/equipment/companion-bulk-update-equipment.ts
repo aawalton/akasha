@@ -1,11 +1,11 @@
-import type { CompanionState } from "../companion-types"
-import { companionArmorSlots } from "./companion-armor-slots-data"
-import type { CompanionEquipmentQualityId } from "./companion-equipment-quality-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
+import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import { capQualityForSlot } from "./companion-equipment-quality-rules"
-import { companionJewelrySlots } from "../generated/temper-companion-jewelry-slot.generated"
-import type { CompanionTraitId } from "./companion-traits-data"
-import { companionWeaponSlots } from "./companion-weapon-slots-data"
-import { companionWeaponTypes } from "../generated/temper-companion-weapon-type.generated"
+import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import type { CompanionTraitId } from "@akasha/temper-companions-core/companion-traits"
+import { companionWeaponSlots } from "@akasha/temper-companions-core/companion-weapon-slots"
+import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
 
 function isMainHandTwoHanded(equipment: CompanionState["equipment"]): boolean {
   const mainHandSlot = equipment.weapons["main-hand"]

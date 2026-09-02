@@ -1,11 +1,11 @@
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { EquipmentQualityId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import type { CompanionState } from "../companion-types"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { TEMPER_COMPANION_TRAITS } from "../generated/temper-companion-trait.generated"
-import type { CompanionMetricId } from "../stats/companion-metric-ids.generated"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 import type { CompanionMetricEffect } from "../stats/metrics/companion-metric-template"
-import type { CompanionEquipmentQualityId } from "./companion-equipment-quality-data"
-import { companionWeaponTypes } from "../generated/temper-companion-weapon-type.generated"
+import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
+import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
 
 export interface CompanionTraitTemplate {
   id: string

@@ -1,4 +1,4 @@
-import type { CompanionVisibility } from "@temper/game-companions-core/companion-types"
+import type { CompanionVisibility } from "@akasha/temper-companions-core/companion-types"
 import type { useCompanionList } from "@temper/game-companions-ui/use-companions"
 import type { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { companionUrl } from "@akasha/temper-build-support/build-url"

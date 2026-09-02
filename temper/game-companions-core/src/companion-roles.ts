@@ -1,4 +1,4 @@
-import type { companionRoles } from "./generated/temper-companion-role.generated"
+import type { companionRoles } from "@akasha/temper-companions-core/companion-roles"
 
 export interface CompanionRoleTemplate {
   id: string

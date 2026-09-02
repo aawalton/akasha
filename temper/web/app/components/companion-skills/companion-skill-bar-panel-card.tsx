@@ -2,12 +2,12 @@
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
-import type { CompanionSkillTemplate } from "@temper/game-companions-core/skills/companion-skill-activation-effect-types"
-import { companionSkillSlots } from "@temper/game-companions-core/skills/companion-skill-slots-data"
+import type { CompanionSkillTemplate } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
+import { companionSkillSlots } from "@akasha/temper-companions-core/companion-skill-slots"
 import {
   type CompanionSkillId,
   companionSkills,
-} from "@temper/game-companions-core/skills/companion-skills-data"
+} from "@akasha/temper-companions-core/companion-skills"
 import { CompanionSkillSlotCard } from "@/components/companion-skills/companion-skill-slot-card"
 import { CompanionUltimateSlotCard } from "@/components/companion-skills/companion-ultimate-slot-card"
 

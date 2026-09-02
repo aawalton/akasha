@@ -1,11 +1,11 @@
 import type { CompanionArmorWeight, CompanionState } from "../companion-types"
-import { companionArmorSlots } from "../equipment/companion-armor-slots-data"
+import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
 import {
   type CompanionWeaponTypeId,
   ONE_HANDED_MELEE_WEAPONS,
-} from "../equipment/companion-weapon-types-data"
-import { type CompanionSkillLineId } from "./companion-skill-lines-data"
-import { companionSkillLines } from "../generated/temper-companion-skill-line.generated"
+} from "@akasha/temper-companions-core/companion-weapon-types"
+import { type CompanionSkillLineId } from "@akasha/temper-companions-core/skill-lines-by-companion"
+import { companionSkillLines } from "@akasha/temper-companions-core/skill-lines-by-companion"
 
 const WEAPON_SKILL_LINE: Partial<Record<CompanionWeaponTypeId, CompanionSkillLineId>> = {
   greatsword: "weapon-two-handed",

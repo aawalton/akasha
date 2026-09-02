@@ -1,4 +1,4 @@
-import type { CompanionMetricTemplate } from "../companion-metric-template"
+import type { CompanionMetricTemplate } from "@akasha/temper-companions-core/companion-metric-template"
 
 export const companionTooltipWeaponHealingMetric = {
   id: "companion-tooltip-weapon-healing",

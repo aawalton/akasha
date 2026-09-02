@@ -1,6 +1,8 @@
 {
   "name": "@temper/game-items-filters-core",
   "dependencies": {
+    "@akasha/temper-companions-core": "workspace:*",
+    "@akasha/temper-equipment": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
     "@temper/game-companions-core": "workspace:*",

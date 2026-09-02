@@ -1,9 +1,9 @@
-import type { CompanionState } from "../companion-types"
-import { companionArmorSlots } from "./companion-armor-slots-data"
-import type { CompanionJewelrySlotId } from "./companion-jewelry-slots-data"
-import { companionJewelrySlots } from "../generated/temper-companion-jewelry-slot.generated"
-import type { CompanionTraitId } from "./companion-traits-data"
-import { companionWeaponSlots } from "./companion-weapon-slots-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
+import type { CompanionJewelrySlotId } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import type { CompanionTraitId } from "@akasha/temper-companions-core/companion-traits"
+import { companionWeaponSlots } from "@akasha/temper-companions-core/companion-weapon-slots"
 
 const LEGENDARY_ELIGIBLE_SLOT_IDS = new Set<CompanionJewelrySlotId>(["ring-1", "ring-2"])
 

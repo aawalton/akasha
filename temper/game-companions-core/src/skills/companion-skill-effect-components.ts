@@ -13,8 +13,8 @@ import type {
   ActivationBuffEffect,
   ActivationDebuffEffect,
 } from "@akasha/temper-skill-kinds/skill-buff-debuff-types"
-import type { CompanionMetricId } from "../stats/companion-metric-ids.generated"
-import type { CompanionValueFormula } from "./companion-value-formula"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
+import type { CompanionValueFormula } from "@akasha/temper-companions-core/companion-value-formula"
 
 export interface CompanionDamageComponent {
   type: "damage"

@@ -1,8 +1,8 @@
 "use client"
 
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import type { CompanionState } from "@temper/game-companions-core/companion-types"
-import type { CompanionId } from "@temper/game-companions-core/companions-data"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { CompanionPassiveSkillsPanelCard } from "@/components/companion-skills/companion-passive-skills-panel-card"
 import { CompanionSkillBarPanelCard } from "@/components/companion-skills/companion-skill-bar-panel-card"
 import { CompanionSkillSelectDialog } from "@/components/companion-skills/companion-skill-select-dialog"

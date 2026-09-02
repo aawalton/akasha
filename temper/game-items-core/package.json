@@ -3,6 +3,8 @@
   "dependencies": {
     "@akasha/temper-build-support": "workspace:*",
     "@akasha/temper-capture-host": "workspace:*",
+    "@akasha/temper-companions-core": "workspace:*",
+    "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",

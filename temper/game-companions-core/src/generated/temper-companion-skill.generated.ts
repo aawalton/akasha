@@ -21,7 +21,7 @@
  */
 
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
-import type { CompanionSkillTemplate } from "../skills/companion-skill-activation-effect-types"
+import type { CompanionSkillTemplate } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
 
 const COMPANION_SKILLS_DATA = {
   "no-skill": {

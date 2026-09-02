@@ -1,12 +1,12 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { targetArmor } from "@akasha/temper-character-sources/target-armors"
 import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
-import type { CompanionState } from "../companion-types"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { RotationResult } from "../rotation/rotation-types"
-import type { CompanionEffect } from "../skills/companion-skill-effect-components"
-import { companionSkills } from "../skills/companion-skills-data"
-import type { CompanionValueFormula } from "../skills/companion-value-formula"
-import type { CompanionMetricId } from "./companion-metric-ids.generated"
+import type { CompanionEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
+import { companionSkills } from "@akasha/temper-companions-core/companion-skills"
+import type { CompanionValueFormula } from "@akasha/temper-companions-core/companion-value-formula"
+import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 import { type CompanionMetricValue, companionMetrics } from "./companion-metrics.generated"
 
 export interface RotationMetricEntry {

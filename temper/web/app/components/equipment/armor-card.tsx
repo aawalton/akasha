@@ -30,7 +30,7 @@ import {
   type ArmorTraitId,
   armorTraits,
   armorTraitsBuildList,
-} from "@temper/game-characters-equipment/traits/armor-traits-data"
+} from "@akasha/temper-equipment/armor-traits"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import { AVAILABLE_QUALITY_OPTIONS, getQualityClassName, getQualityLabel, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { useMemo, useState } from "react"

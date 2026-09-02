@@ -1,7 +1,7 @@
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
-import type { CompanionState } from "../companion-types"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { TEMPER_COMPANION_SKILL_SLOTS } from "../generated/temper-companion-skill-slot.generated"
-import type { CompanionSkillId } from "./companion-skills-data"
+import type { CompanionSkillId } from "@akasha/temper-companions-core/companion-skills"
 
 export interface CompanionSkillSlotTemplate {
   id: string
