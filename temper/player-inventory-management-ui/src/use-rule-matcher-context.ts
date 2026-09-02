@@ -1,11 +1,11 @@
 import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
+import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
 import {
   buildDerivedContext,
   mergeInventoryContext,
 } from "@akasha/temper-items-rules-matcher/rule-matcher-context"
 import { useCharacterList } from "@temper/game-characters-character-ui/use-characters"
 import { useCompanionList } from "@temper/game-companions-ui/use-companions"
-import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
 import type {
   CharacterBuildInput,
   RuleMatcherContext,
