@@ -6,7 +6,11 @@ export const temperPursuits = {
   slug: "temper-pursuits",
   definition: "what the game keeps a tally of a player having sought out",
   pluralSlug: "temper-pursuitss",
-  partSlugs: ["page-type/temper-pursuit-thing", "page-type/temper-tribute-patron"],
+  partSlugs: [
+    "page-type/temper-antiquity-category",
+    "page-type/temper-pursuit-thing",
+    "page-type/temper-tribute-patron",
+  ],
   invariants: [
     {
       invariantKind: "departure",
