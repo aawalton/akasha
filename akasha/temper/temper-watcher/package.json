@@ -17,13 +17,16 @@
     "./watcher-file-type": "./watcher-file-type/watcher-file-type.module.code.ts",
     "./watcher-state": "./watcher-state/watcher-state.module.code.ts",
     "./watcher-runtime": "./watcher-runtime/watcher-runtime.module.code.ts",
-    "./watcher-logging": "./watcher-logging/watcher-logging.module.code.ts"
+    "./watcher-logging": "./watcher-logging/watcher-logging.module.code.ts",
+    "./watcher-retry": "./watcher-retry/watcher-retry.module.code.ts",
+    "./watcher-stable-read": "./watcher-stable-read/watcher-stable-read.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages-system": "workspace:*",
-    "@akasha/utils-run": "workspace:*",
+    "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-process": "workspace:*",
+    "@akasha/utils-run": "workspace:*",
     "zod": "^4.3.6"
   }
 }

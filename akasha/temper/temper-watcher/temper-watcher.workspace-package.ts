@@ -22,6 +22,8 @@ export const temperWatcher = {
     "module/watcher-state",
     "module/watcher-runtime",
     "module/watcher-logging",
+    "module/watcher-retry",
+    "module/watcher-stable-read",
     "workstation-service/temper-watcher",
     "workstation-service/temper-watcher-liveness",
   ],
