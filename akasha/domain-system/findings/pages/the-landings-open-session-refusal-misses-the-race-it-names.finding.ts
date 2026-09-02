@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theLandingsOpenSessionRefusalMissesTheRaceItNames = {
+  id: "01a06093-a44e-7496-9271-b02d4cb68026",
+  pageTypeSlug: "finding",
+  slug: "the-landings-open-session-refusal-misses-the-race-it-names",
+  domainSlug: "domain/alan-harness",
+  claim:
+    "The daily-tracking landing refused to run while a session was open, and one is open most evenings, so the act could only fire in a gap Alan left. The refusal is over-broad and misses what it names. A session open ACROSS the act is safe: every markdown day moves in one act, the open row among them, so afterwards the row and its readers are in the same half. A session closed DURING the act is the real race, and a check read once at step 1 cannot see it. The refusal is a printed note now.",
+  evidence:
+    "Measured 2026-09-01 in a reflink copy of the checkout, with AKASHA_ROOT pointed at the copy so nothing reached the live tree.\n\nOpen across the act: the copy carried Alan's live open row. With the precondition removed the landing exited 0 — 133 days, 294 files, 1943 records, 18891 values, 0 faults, 1810 rows read back through entriesAt, and derived fidelity 133 pairs / 53 keys / 4838 values / 0 differences. Before the act the day answered 7 session rows, 1 of them open, kept in markdown; after it, 7 rows, 1 open, kept in akasha. `ops tracking close` then exited 0 and committed the patched row beside its landed day, leaving 7 rows and none open. `ops tracking start` exited 0 and took the day to 8 rows, 1 open. Thirteen tracking commands were run against the landed tree; the only non-zero exits were usage refusals and `recompute-totals`, which fails the same way on an unlanded control, over a page type the index does not hold.\n\nClosed during the act: a `close` fired one second after step 8's flip commit was answered `no open session` at exit 1 and wrote nothing. The row was neither moved nor lost, and the command works when it is run again. That window is open whether or not a session was open at step 1, since Alan can begin and close one inside the minute the act takes, which is why the precondition never covered the case it named.\n\nWhat holds a pen over a session row: only tools/lib/tracking/sessions.ts, reached only from tools/commands/tracking. No timer and no service writes one. The points service writes day pages, and the readout timers only read.",
+} as const satisfies Finding
