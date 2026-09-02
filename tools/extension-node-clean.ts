@@ -20,6 +20,20 @@ command once answered \`4 of 5 entry points carry no bun-only global\` while act
 dying on \`undefined stands under no akasha folder\`, because the file that activates was
 not among the five.
 
+SO NO LIST OF ENTRY POINTS IS KEPT HERE.
+
+The manifest names one: \`main\` is what the host loads, and it is read from
+\`editor-extension/package.json\` rather than spelled here, so a manifest pointing somewhere
+else is followed rather than missed. Everything that entry reaches is in its bundle and is
+judged with it.
+
+What is left over is judged too. Every \`.ts\` under the package that no entry point's bundle
+reaches becomes an entry point of its own, and that repeats until nothing is left over. So
+every file in the package is judged either as part of a bundle or as a bundle, a file added
+and not yet wired in is judged rather than invisible, and there is no list to forget to add
+it to. The five entries this once named beside \`extension.ts\` were all inside its bundle
+already, so naming them proved nothing that the one entry did not prove.
+
 Each entry point is bundled for node, and the whole bundle is judged, so a reach six
 modules down through \`tools/lib\` into akasha is caught where reading one file's imports
 would miss it.
@@ -59,7 +73,20 @@ throws. Nothing about it is a heuristic: a module that imports is a module that 
 It sees only what runs at import time, which is where activation dies, so the two stages
 catch different halves and both must pass.
 
-  --entry <path>  an entry point to judge, repeatable. Defaults to the six below.
+WHAT A GUARD IS BELIEVED TO MEAN, AND WHERE THAT STOPS.
+
+A guarded reach is carried, not proved. This runs no branch, so a file that asks
+\`typeof Bun\` and then throws, returns null, or draws nothing on the node side reads exactly
+like one that works there. That is how both usage figures on the status bar were dead while
+this said every entry point was clean: \`readUsage\` threw on every poll, an \`allSettled\`
+swallowed it, the slots drew \`—\`, and activation still counted itself whole.
+
+Deciding whether a node branch works is deciding what the code does, which no scan of the
+text can answer. The guarded reaches are counted and named at the end instead, so the
+closing line can never read as a clean bill while a guard stands unproved. Proving one needs
+a test that calls it with \`Bun\` absent, and that belongs beside the code rather than here.
+
+  --entry <path>  an entry point to judge, repeatable. Given none, they are derived.
   --no-run        read the bundles and do not import them under node.
   --help          This.
 `
@@ -89,14 +116,45 @@ export function quotedAt(line: string, at: number): boolean {
   return open !== null
 }
 
-const ENTRIES: readonly string[] = [
-  "editor-extension/src/extension.ts",
-  "editor-extension/src/features/page-tree/harness.ts",
-  "editor-extension/src/features/domain-tree/harness.ts",
-  "editor-extension/src/features/agent-tree/forest.ts",
-  "editor-extension/src/features/transcript/sources.ts",
-  "editor-extension/src/seat/observation-store.ts",
-]
+const PACKAGE = "editor-extension"
+
+const MANIFEST = "package.json"
+
+const SOURCES = "src/**/*.ts"
+
+const MAIN = "main"
+
+export function namedByManifest(text: string): string | null {
+  let held: unknown
+  try {
+    held = JSON.parse(text)
+  } catch {
+    return null
+  }
+  if (held === null || typeof held !== "object") return null
+  const said = (held as Record<string, unknown>)[MAIN]
+  if (typeof said !== "string" || said === "") return null
+  return said.replace(/^\.\//, "")
+}
+
+export function sectionsIn(bundle: string): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const line of bundle.split("\n")) {
+    const named = SECTION.exec(line)
+    if (named?.[1] !== undefined) found.add(named[1])
+  }
+  return found
+}
+
+export function unreachedIn(
+  root: string,
+  pkg: string,
+  reached: ReadonlySet<string>
+): readonly string[] {
+  return [...new Glob(`${pkg}/${SOURCES}`).scanSync(root)]
+    .filter((one) => !reached.has(one))
+    .sort()
+}
 
 const STUB = `const anything = () => new Proxy(function () {}, {
   get: (_t, k) => (k === "then" ? undefined : anything()),
@@ -164,6 +222,7 @@ export interface Judged {
   readonly threw: string | null
   readonly built: boolean
   readonly why: string | null
+  readonly reached: ReadonlySet<string>
 }
 
 function firstLines(said: string, count: number): string {
@@ -199,7 +258,7 @@ async function threwUnderNode(bundleAt: string): Promise<string | null> {
 
 export async function judge(root: string, entry: string, run: boolean): Promise<Judged> {
   const out = mkdtempSync(join(tmpdir(), "ext-node-clean-"))
-  const nothing = { refused: [], carried: [], threw: null }
+  const nothing = { refused: [], carried: [], threw: null, reached: new Set<string>() }
   try {
     const built = await Bun.build({
       entrypoints: [join(root, entry)],
@@ -217,8 +276,11 @@ export async function judge(root: string, entry: string, run: boolean): Promise<
     }
     const refused = new Set<string>()
     const carried = new Set<string>()
+    const reached = new Set<string>()
     for (const one of files) {
-      for (const reach of reachesIn(readFileSync(join(out, one), "utf8"))) {
+      const bundle = readFileSync(join(out, one), "utf8")
+      for (const said of sectionsIn(bundle)) reached.add(said)
+      for (const reach of reachesIn(bundle)) {
         if (refusedIn(reach)) refused.add(saidAs(reach))
         else carried.add(saidAs(reach))
       }
@@ -231,6 +293,7 @@ export async function judge(root: string, entry: string, run: boolean): Promise<
       threw,
       built: true,
       why: null,
+      reached,
     }
   } finally {
     rmSync(out, { recursive: true, force: true })
@@ -263,36 +326,86 @@ export async function main(argv: readonly string[]): Promise<number> {
     return 1
   }
   const root = process.cwd()
-  const entries = asked.length > 0 ? asked : ENTRIES
+  const deriving = asked.length === 0
+  const entries: string[] = [...asked]
+  if (deriving) {
+    let text: string
+    try {
+      text = readFileSync(join(root, PACKAGE, MANIFEST), "utf8")
+    } catch (err) {
+      process.stderr.write(
+        `error: ${PACKAGE}/${MANIFEST} could not be read, and it names the entry point: ` +
+          `${err instanceof Error ? err.message : String(err)}\n`
+      )
+      return 3
+    }
+    const named = namedByManifest(text)
+    if (named === null) {
+      process.stderr.write(`error: ${PACKAGE}/${MANIFEST} names no \`${MAIN}\` to judge\n`)
+      return 3
+    }
+    entries.push(`${PACKAGE}/${named}`)
+  }
+  const unreached = new Set<string>()
+  const reached = new Set<string>()
+  const unproved = new Set<string>()
   let refused = 0
   let unbuilt = 0
-  for (const entry of entries) {
+  let warned = 0
+  for (let at = 0; at < entries.length; at += 1) {
+    const entry = entries[at]!
     const judged = await judge(root, entry, run)
+    const wired = !unreached.has(entry)
+    const word = wired ? "REFUSED " : "UNWIRED "
     if (!judged.built) {
-      unbuilt += 1
+      if (wired) unbuilt += 1
       process.stdout.write(`UNJUDGED ${entry} — ${String(judged.why)}\n`)
-      continue
-    }
-    const bad = judged.refused.length > 0 || judged.threw !== null
-    if (!bad) {
-      process.stdout.write(`clean    ${entry}\n`)
     } else {
-      refused += 1
-      if (judged.refused.length > 0) {
-        process.stdout.write(`REFUSED  ${entry} reaches ${judged.refused.join(", ")}\n`)
+      const bad = judged.refused.length > 0 || judged.threw !== null
+      if (!bad) {
+        process.stdout.write(`clean    ${entry}${wired ? "" : ", which nothing reaches"}\n`)
+      } else {
+        if (wired) refused += 1
+        else warned += 1
+        if (judged.refused.length > 0) {
+          process.stdout.write(`${word} ${entry} reaches ${judged.refused.join(", ")}\n`)
+        }
+        if (judged.threw !== null) {
+          process.stdout.write(`${word} ${entry} threw under node: ${firstLines(judged.threw, 3)}\n`)
+        }
       }
-      if (judged.threw !== null) {
-        process.stdout.write(`REFUSED  ${entry} threw under node: ${firstLines(judged.threw, 3)}\n`)
+      if (wired) {
+        for (const one of judged.carried) {
+          unproved.add(one)
+          process.stdout.write(`  carried ${one}, guarded by \`${GUARD}\` in that file\n`)
+        }
       }
     }
-    for (const one of judged.carried) {
-      process.stdout.write(`  carried ${one}, guarded by \`${GUARD}\` in that file\n`)
+    for (const one of judged.reached) reached.add(one)
+    if (!deriving) continue
+    for (const one of unreachedIn(root, PACKAGE, reached)) {
+      if (entries.includes(one)) continue
+      unreached.add(one)
+      entries.push(one)
     }
   }
-  const total = entries.length
+  const total = entries.length - unreached.size
   process.stdout.write(
-    `${total - refused - unbuilt} of ${total} entry points carry no bun-only global\n`
+    `${total - refused - unbuilt} of ${total} entry points carry no unguarded bun-only global\n`
   )
+  if (unreached.size > 0) {
+    process.stdout.write(
+      `${unreached.size} ${unreached.size === 1 ? "file" : "files"} no entry point reaches ` +
+        `${unreached.size === 1 ? "was" : "were"} judged too, and ${String(warned)} would be ` +
+        `refused on being wired in. The host loads none of them, so none is counted above\n`
+    )
+  }
+  if (unproved.size > 0) {
+    process.stdout.write(
+      `${unproved.size} guarded ${unproved.size === 1 ? "reach is" : "reaches are"} unproved: ` +
+        `this runs no branch, so a guard whose node side throws is counted clean here\n`
+    )
+  }
   if (unbuilt > 0) return 4
   return refused > 0 ? 2 : 0
 }
