@@ -1,19 +1,5 @@
 {
   "workspaces": {
-    "temper/game-characters": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "temper/game-characters-character": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/game-characters-character-ui": {
       "entry": [],
       "project": [
@@ -38,14 +24,6 @@
       "entry": [],
       "project": [
         "**/*.{ts,tsx}"
-      ]
-    },
-    "temper/game-completion": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
       ]
     },
     "temper/player-completion": {
