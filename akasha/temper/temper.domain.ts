@@ -37,6 +37,7 @@ export const temper = {
     "workspace-package/temper-addons-resolve",
     "eso-addon/temper-lib-debug-logger",
     "eso-addon/temper-lib-data-encode",
+    "eso-addon/temper-lib-map-pins",
   ],
   invariants: [
     {
