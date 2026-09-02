@@ -7,10 +7,10 @@ export const globalDeclaredOnce = {
   definition: "the check refusing a global name a module body and a declaration file both declare",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnPatch: true,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "constraint",
@@ -79,10 +79,6 @@ export const globalDeclaredOnce = {
     {
       invariantKind: "absence",
       statement: "No name is kept as permitted.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement: "Every phase is off until Alan approves the check.",
     },
     {
       invariantKind: "gap",
