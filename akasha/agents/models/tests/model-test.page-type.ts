@@ -19,6 +19,7 @@ export const modelTest = {
   partSlugs: [
     "model-test/restatement",
     "page-property-entry/cases",
+    "page-type/model-test-outcome",
     "relation-property/case-page",
     "relation-property/model-family-slug",
     "text-property/case-answer",

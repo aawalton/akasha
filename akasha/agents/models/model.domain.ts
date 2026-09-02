@@ -11,6 +11,5 @@ export const model = {
     "module/model-asking",
     "page-type/model-family",
     "page-type/model-test",
-    "page-type/model-test-outcome",
   ],
 } as const satisfies Domain
