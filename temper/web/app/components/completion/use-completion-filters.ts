@@ -1,7 +1,7 @@
-import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
+import type { CompletionSortMode } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { activityCategories } from "@temper/player-completion/activity-category-data"
-import type { CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"
 import { getTabForCard } from "@temper/player-completion/completion-card-registry"
 import {
   VALID_SKILL_TYPES,
