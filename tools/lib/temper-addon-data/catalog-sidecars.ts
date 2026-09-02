@@ -41,11 +41,43 @@ const CLASS_ID: readonly string[] = ["class-id", "classId"]
 
 type Shape =
   | "effects"
+  | "effect-rows"
   | "passive-effects"
   | "flat-quality"
   | "metric-quality"
   | "trait-quality"
   | "scripts"
+
+const RENAMED: Readonly<Record<string, string>> = {
+  type: "effectType",
+  "effect-type": "effectType",
+  value: "effectValue",
+  "effect-value": "effectValue",
+  seconds: "seconds",
+  "effect-seconds": "seconds",
+}
+
+const ROW_IDENTITY = "id"
+
+/**
+ * One effect row carried through as the row itself spells it, under the names a generator reads.
+ *
+ * The narrower `effectOf` above answers one shape — a metric, a type and a value, with any duration
+ * folded into the value — which is every effect the buffs, the traits and the enchants carry. A
+ * skill carries nine shapes: an armour piece scaling by weight, an ability scaling by skill line, a
+ * weapon-type conditional, a buff with a duration and no metric. Restating those nine here would be
+ * restating the order each already states, so this renames the two fields whose spelling differs
+ * between the two halves of the corpus, drops the row's own identity, and leaves every other field
+ * where the row put it. The order a row states its fields in is the order the table carries them in.
+ */
+function effectRowOf(values: Values): unknown {
+  const held: Record<string, unknown> = {}
+  for (const [key, value] of Object.entries(values)) {
+    if (key === ROW_IDENTITY) continue
+    held[RENAMED[key] ?? key] = value
+  }
+  return held
+}
 
 function effectOf(values: Values): unknown {
   const seconds = numberOf(eitherOf(values, EFFECT_SECONDS))
@@ -111,6 +143,7 @@ function passiveOf(values: Values): unknown {
 
 function shaped(shape: Shape, held: readonly Values[]): unknown {
   if (shape === "effects") return held.map(effectOf)
+  if (shape === "effect-rows") return held.map(effectRowOf)
   if (shape === "passive-effects") return held.map(passiveOf)
   if (shape === "flat-quality") return flatQualityOf(held)
   if (shape === "metric-quality") return metricQualityOf(held)
@@ -118,9 +151,21 @@ function shaped(shape: Shape, held: readonly Values[]): unknown {
   return scriptsOf(held)
 }
 
+/**
+ * `whenNone` says what a page that names the property nowhere at all answers.
+ *
+ * A trait or an enchant that changes no number carries an empty table, so `empty` is what almost
+ * every carry wants and is the default. A skill is the one kind that tells three things apart: a
+ * skill with effects, a skill examined and found to have none, and a skill nothing has looked at
+ * yet. The middle one is an empty list and the last one is no list, and a carry answering `empty`
+ * for both would say of 1,433 unexamined skills that they were examined. So a page states the
+ * empty list itself, by naming a sidecar that holds no rows, and `absent` keeps the key off every
+ * page that names nothing.
+ */
 interface Carry {
   readonly key: string
   readonly shape: Shape
+  readonly whenNone?: "empty" | "absent"
 }
 
 const EFFECTS: readonly Carry[] = [{ key: "effects", shape: "effects" }]
@@ -140,6 +185,7 @@ const CARRIED: Readonly<Record<string, readonly Carry[]>> = {
   "temper-weapon-enchant": [...EFFECTS, { key: "qualityValues", shape: "metric-quality" }],
   "temper-weapon-trait": [...EFFECTS, { key: "qualityValues", shape: "flat-quality" }],
   "temper-jewelry-trait": [...EFFECTS, { key: "qualityValues", shape: "trait-quality" }],
+  "temper-skill": [{ key: "effects", shape: "effect-rows", whenNone: "absent" }],
   "temper-grimoire": [
     { key: "affixScripts", shape: "scripts" },
     { key: "signatureScripts", shape: "scripts" },
@@ -148,6 +194,7 @@ const CARRIED: Readonly<Record<string, readonly Carry[]>> = {
 
 const EMPTY: Readonly<Record<Shape, unknown>> = {
   effects: [],
+  "effect-rows": [],
   "passive-effects": [],
   "flat-quality": null,
   "metric-quality": {},
@@ -166,8 +213,13 @@ function entriesIn(value: unknown): readonly Values[] | null {
  * The rows of a property arrive on the page that carries them: `effects: "jsonl"` on the page names
  * a `<page>.<page-type>.<key>.jsonl` beside it, and a composed query answers that file's lines in
  * order under the same property name. So there is nothing to look up and nothing to join — this
- * reshapes what the row already holds, and a property with no rows takes the empty table its shape
- * declares rather than going absent.
+ * reshapes what the row already holds.
+ *
+ * A page that names the property and holds no rows answers the empty table its shape declares. A
+ * page that names the property nowhere answers whatever its carry says under `whenNone`, and the
+ * two are not the same fact: a sidecar with no lines is a page saying there are none, and a page
+ * with no sidecar is a page saying nothing. Collapsing them is how an empty list reaches a table
+ * that had no list, so a carry has to choose.
  */
 export function withSidecars(pageTypeSlug: string, rows: readonly Page[]): readonly Page[] {
   const carries = CARRIED[pageTypeSlug]
@@ -176,7 +228,9 @@ export function withSidecars(pageTypeSlug: string, rows: readonly Page[]): reado
     const out: Record<string, unknown> = { ...row }
     for (const carry of carries) {
       const held = entriesIn(row[carry.key])
-      out[carry.key] = held === null ? EMPTY[carry.shape] : shaped(carry.shape, held)
+      if (held !== null) out[carry.key] = shaped(carry.shape, held)
+      else if (carry.whenNone === "absent") delete out[carry.key]
+      else out[carry.key] = EMPTY[carry.shape]
     }
     return asPage(out)
   })

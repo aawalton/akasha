@@ -294,7 +294,7 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     getPages({ pageTypeSlug: "temper-set-category", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-signature-script", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-skill-bar", limit: 1000 }),
-    getPages({ pageTypeSlug: "temper-skill", limit: 5000 }),
+    catalogPages("temper-skill", 5000),
     getPages({ pageTypeSlug: "temper-skill-line", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-skill-line-category", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-skill-point", limit: 1000 }),
