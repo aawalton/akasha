@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "The addon-data pipeline is whole: twelve sections, 62 of 62 files identical, none absent and none thrown. A throw seeded into the second section used to leave one section reaching the writer and no mapping generator built at all; each generator now fails alone and names itself. Alan's page-type gap stays closed, with 122 companion-skill pages regenerating 119,803 bytes against 119,824.",
+        "The addon-data pipeline is whole: twelve sections, 62 of 62 files identical, each generator failing alone and naming itself. The entries half is open and being worked: `page-property-entry` and the `page-entries` module exist, and whether they write and read end to end is unmeasured. Entries are the answer to the codec index tables, whose order is load-bearing, and to the chunk data that lands against the file-length ceiling on a hand-written bypass.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "125 parts on this domain's page against 62 folders in `temper/`; typecheck is 0 over 18,858 roots, down from 53. Alan ruled the old copy is ablated as each part migrates, so only two copies exist at once, and `akasha remove` is being widened to reach outside `akasha/`, nothing today being able to delete a `temper/` path. No check compares a twin's artifact to temper's. The read record runs on no timer, and the family-wide wipe ended at `6256fb84d5`.",
+        "130 parts here against 52 tracked folders, read at 08:13. Count tracked files, not directories: an ablated folder keeps a `node_modules` shell, so any `isdir` sweep scores a torn-down reference as sound. `akasha remove` reaches outside `akasha/`, but no check judges a path there. Ablation owes a second step: while the root `package.json` names what went, `bun install` refuses tree-wide, and `akasha write` and `edit` refuse that file for being outside `akasha/`.",
     },
   ],
   constraints: [
