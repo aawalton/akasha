@@ -1,5 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { patchAt } from "@akasha/agents/patch-keeping"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code-system/code-format"
 import { agentPathOf } from "@akasha/context-system/warranting"
@@ -329,14 +330,19 @@ export function asReadIn(given: Given, changes: readonly FileEdit[]): readonly R
   return held
 }
 
-function draftedSaid(said: Drafted, aside: readonly string[], checks: number): readonly string[] {
+function draftedSaid(
+  said: Drafted,
+  at: string | null,
+  aside: readonly string[],
+  checks: number
+): readonly string[] {
   return [
     ...aside,
     ...said.drafted.map((one) => `drafted ${one}`),
     judgedBy(checks, said.drafted.length),
     said.patch === null
       ? "the patch was worked out to nothing and taken away"
-      : `the patch is kept against ${said.base} — say \`akasha patch\` to read it`,
+      : `the patch is kept at ${at ?? "the page of the agent that asked"} against ${said.base}`,
   ]
 }
 
@@ -371,7 +377,11 @@ function draftingAsked(
     return { report: [], refusals: [`nothing was drafted — ${whyOf(thrown)}`], code: 3 }
   }
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
-  return { report: draftedSaid(said, aside, gate.named.length), refusals: [], code: 0 }
+  return {
+    report: draftedSaid(said, patchAt(page), aside, gate.named.length),
+    refusals: [],
+    code: 0,
+  }
 }
 
 export function landingAsked(given: Given, asked: Asked): Answer {
