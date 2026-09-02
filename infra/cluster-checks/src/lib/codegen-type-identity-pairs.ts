@@ -32,9 +32,10 @@ const SKILL_KINDS = "akasha/temper/temper-skill-kinds"
 const CHARACTER_SOURCES = "akasha/temper/temper-character-sources"
 const SKILL_LINES_SNAP = "akasha/temper/temper-skill-lines/skill-line-category-data"
 const EQUIPMENT_KINDS = "akasha/temper/temper-equipment-kinds"
-const COMPLETION_SNAP = "temper/player-completion/src/generated"
 const SKILL_POINT_SOURCES =
   "akasha/temper/temper-skill-point-finder/skill-point-sources/skill-point-sources.module.code.ts"
+const PUBLIC_DUNGEON_SOURCES =
+  "akasha/temper/temper-player-completion/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"
 
 export const MIRROR_GENERATORS: ReadonlyMap<string, CodegenIdentityRemedy> = new Map([
   [ADDON_RULE_TYPES, { repo: "instructions", file: gen("rule-types") }],
@@ -403,38 +404,6 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
   },
   {
-    name: "skill-point-general-rank",
-    canonical: {
-      repo: "code",
-      file: `${COMPLETION_SNAP}/temper-skill-point.generated.ts`,
-      kind: "array-field",
-      symbol: "skillPointGeneralSources",
-      field: "key",
-    },
-    mirror: {
-      repo: "instructions",
-      file: "akasha/temper/temper-addon-generators/temper-skill-point/temper-skill-point.module.code.ts",
-      kind: "object-keys",
-      symbol: "GENERAL_KEY_RANK",
-    },
-  },
-  {
-    name: "skill-point-zone-rank",
-    canonical: {
-      repo: "code",
-      file: `${COMPLETION_SNAP}/temper-skill-point.generated.ts`,
-      kind: "array-field",
-      symbol: "skillPointZoneSources",
-      field: "key",
-    },
-    mirror: {
-      repo: "instructions",
-      file: "akasha/temper/temper-addon-generators/temper-skill-point/temper-skill-point.module.code.ts",
-      kind: "object-keys",
-      symbol: "ZONE_KEY_RANK",
-    },
-  },
-  {
     name: "skill-point-public-dungeon",
     canonical: {
       repo: "code",
@@ -445,9 +414,9 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: "akasha/temper/temper-addon-generators/temper-skill-point/temper-skill-point.module.code.ts",
+      file: PUBLIC_DUNGEON_SOURCES,
       kind: "array-field",
-      symbol: "PUBLIC_DUNGEONS",
+      symbol: "SKILL_POINT_PUBLIC_DUNGEON_SOURCES",
       field: "key",
     },
   },
