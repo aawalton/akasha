@@ -993,6 +993,12 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-characters-addon": {
+      "name": "@akasha/temper-characters-addon",
+      "dependencies": {
+        "@akasha/temper-player-completion-state": "workspace:*",
+      },
+    },
     "akasha/temper/temper-characters-capture-addon": {
       "name": "@akasha/temper-characters-capture-addon",
       "dependencies": {
@@ -3597,6 +3603,8 @@
     "@akasha/temper-character-skills": ["@akasha/temper-character-skills@workspace:akasha/temper/temper-character-skills"],
 
     "@akasha/temper-character-sources": ["@akasha/temper-character-sources@workspace:akasha/temper/temper-character-sources"],
+
+    "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:akasha/temper/temper-characters-addon"],
 
     "@akasha/temper-characters-capture-addon": ["@akasha/temper-characters-capture-addon@workspace:akasha/temper/temper-characters-capture-addon"],
 

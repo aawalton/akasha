@@ -1,0 +1,11 @@
+{
+  "name": "TemperCharacters",
+  "title": "Temper Characters",
+  "description": "Import and export ESO character builds from Temper, plus the Temper Completion — Skill Points window: a per-character, cross-character skill-point progress tracker.",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": ["TemperCharacters_SavedVariables", "TemperSkillPointFinder_SavedVariables"],
+  "dependsOn": ["LibAddonMenu-2.0>=43", "TemperTableFunctions", "TemperHud"]
+}

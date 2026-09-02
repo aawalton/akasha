@@ -1,0 +1,14 @@
+<Bindings>
+  <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
+    <Category name="SI_KEYBINDINGS_CATEGORY_TEMPER">
+      <Action name="TEMPER_TOGGLE_WINDOW">
+        <Down>TemperCharacters.ToggleWindow()</Down>
+      </Action>
+    </Category>
+    <Category name="Temper Completion — Skill Points">
+      <Action name="USPF_TOGGLE">
+        <Up>USPF:ToggleWindow()</Up>
+      </Action>
+    </Category>
+  </Layer>
+</Bindings>

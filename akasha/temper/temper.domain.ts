@@ -143,6 +143,7 @@ export const temper = {
     "workspace-package/temper-build-deploy-checks",
     "eso-addon/temper-lib-addon-menu",
     "workspace-package/temper-build-hash",
+    "eso-addon/temper-characters-addon",
   ],
   invariants: [
     {
