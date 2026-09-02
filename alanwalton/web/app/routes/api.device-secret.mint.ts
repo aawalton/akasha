@@ -1,6 +1,6 @@
 import { mintDeviceSecretSchema } from "@akasha/person-system/device-secret-body"
 import { mintDeviceSecret } from "~/device-secret/lib/device-secrets.server"
-import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { capacitorCorsHeaders, withCors } from "@akasha/alanwalton-web/capacitor-cors"
 import { holdsRouteAccess, ROUTE_TARGETS } from "~/person-access/lib/route-access.server"
 import { resolveDeviceTokenContext } from "~/push/lib/device-tokens.server"
 import type { Route } from "./+types/api.device-secret.mint"

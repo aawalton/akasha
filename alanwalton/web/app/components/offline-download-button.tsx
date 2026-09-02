@@ -3,7 +3,7 @@
 import { Button } from "@akasha/design-primitives/button"
 import { useState } from "react"
 import { useSearchParams } from "react-router"
-import { isNativeShell } from "~/lib/capacitor-bridge"
+import { isNativeShell } from "@akasha/alanwalton-web/capacitor-bridge"
 import { downloadChapter } from "~/lib/offline-downloads"
 
 type Status = "idle" | "downloading" | "done" | "error"

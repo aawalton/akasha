@@ -1,7 +1,7 @@
 import { buildKokoroSpeechInput } from "@akasha/voice-core/voice/speech"
 import type { NativeTtsAdapter, NativeTtsEvent } from "@akasha/pages-ui/media/native-tts-adapter"
 import { z } from "zod"
-import { getKokoroTts, type PluginListenerHandle } from "~/lib/capacitor-bridge"
+import { getKokoroTts, type PluginListenerHandle } from "@akasha/alanwalton-web/capacitor-bridge"
 
 const ProgressPayloadSchema = z
   .object({ positionFraction: z.number(), playedSeconds: z.number() })

@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { apiFetch } from "~/lib/api-fetch"
+import { apiFetch } from "@akasha/alanwalton-web/api-fetch"
 
 const ensureResponseSchema = z.object({
   status: z.enum(["ready", "generating", "unavailable"]),

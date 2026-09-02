@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-core/page-types"
 import type { ContentPagePersistencePort } from "@akasha/pages-ui-store/collection/content-persistence"
 import { z } from "zod"
-import { getFilesystem } from "./capacitor-bridge"
+import { getFilesystem } from "@akasha/alanwalton-web/capacitor-bridge"
 import {
   addContentPageIds,
   addPinnedIds,

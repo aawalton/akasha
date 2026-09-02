@@ -14,7 +14,7 @@ import { UniversalTitleBar } from "~/idle/components/universal-title-bar"
 import type { GameState } from "@akasha/idle-system/state"
 import { type IdleGameSnapshot, idleGameStore } from "~/idle/lib/idle-game-store"
 import { type IdleActions, useIdleActions } from "~/idle/lib/use-idle-actions"
-import { apiFetch } from "~/lib/api-fetch"
+import { apiFetch } from "@akasha/alanwalton-web/api-fetch"
 
 const RENDER_MS = 100
 

@@ -7,7 +7,7 @@ import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { useCallback } from "react"
-import { isNativeShell } from "~/lib/capacitor-bridge"
+import { isNativeShell } from "@akasha/alanwalton-web/capacitor-bridge"
 import { enqueueChapterCompletion } from "~/lib/offline-text"
 import { isCompletionAlreadySet, selectCompletionWriteMode } from "~/lib/read-completion"
 

@@ -1,6 +1,6 @@
 import { resolveIdleSaveContext } from "~/idle/lib/idle-save-context.server"
 import { loadSave } from "~/idle/lib/idle-saves.server"
-import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { capacitorCorsHeaders, withCors } from "@akasha/alanwalton-web/capacitor-cors"
 import type { Route } from "./+types/api.load"
 
 const CORS_METHODS = "GET, OPTIONS"

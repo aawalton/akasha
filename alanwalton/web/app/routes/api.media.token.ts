@@ -2,7 +2,7 @@ import { isMedium } from "@akasha/pages-core/media-formats"
 import { mediaTokenSecret, mintMediaToken } from "@akasha/pages-ui/media/media-token"
 import { MEDIA_VARIANT_PATTERN, mediaPageExists } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
-import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { capacitorCorsHeaders, withCors } from "@akasha/alanwalton-web/capacitor-cors"
 import { MEDIA_UUID_PATTERN } from "~/lib/media-page"
 import type { Route } from "./+types/api.media.token"
 

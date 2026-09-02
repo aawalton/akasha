@@ -1,6 +1,6 @@
 import { z } from "zod"
-import { apiFetch } from "./api-fetch"
-import { type FilesystemPlugin, getFilesystem } from "./capacitor-bridge"
+import { apiFetch } from "@akasha/alanwalton-web/api-fetch"
+import { type FilesystemPlugin, getFilesystem } from "@akasha/alanwalton-web/capacitor-bridge"
 import {
   type ChunkObservation,
   type DownloadProgress,

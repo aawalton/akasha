@@ -1,6 +1,6 @@
 import { serveMedia } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
-import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { capacitorCorsHeaders, withCors } from "@akasha/alanwalton-web/capacitor-cors"
 import { MEDIA_UUID_PATTERN } from "~/lib/media-page"
 import type { Route } from "./+types/api.media.$pageId.$medium"
 

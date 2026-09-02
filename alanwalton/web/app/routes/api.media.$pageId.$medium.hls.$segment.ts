@@ -3,7 +3,7 @@ import { hlsSegmentObjectKey } from "@akasha/object-store/object-store-key"
 import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
 import { MEDIA_VARIANT_PATTERN, mediaPageExists } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
-import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { capacitorCorsHeaders, withCors } from "@akasha/alanwalton-web/capacitor-cors"
 import { MEDIA_UUID_PATTERN } from "~/lib/media-page"
 import type { Route } from "./+types/api.media.$pageId.$medium.hls.$segment"
 

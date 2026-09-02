@@ -23,8 +23,8 @@ import {
   ScrollRestoration,
 } from "react-router"
 import { StatusBarSync } from "~/components/status-bar-sync"
-import { apiFetch } from "~/lib/api-fetch"
-import { isNativeShell } from "~/lib/capacitor-bridge"
+import { apiFetch } from "@akasha/alanwalton-web/api-fetch"
+import { isNativeShell } from "@akasha/alanwalton-web/capacitor-bridge"
 import { createNativeFsContentPersistence } from "~/lib/content-pages-fs"
 import { readLocalPosition } from "~/lib/offline-text"
 import { createNativeFsPagesPersistence } from "~/lib/pages-persistence-fs"

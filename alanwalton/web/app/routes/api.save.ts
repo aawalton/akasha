@@ -7,7 +7,7 @@ import { reprojectUserCardsSafely } from "~/idle/lib/idle-card-projection.server
 import { parseIdleSave } from "@akasha/idle-system/save"
 import { resolveIdleSaveContext } from "~/idle/lib/idle-save-context.server"
 import { loadSave, upsertSave } from "~/idle/lib/idle-saves.server"
-import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { capacitorCorsHeaders, withCors } from "@akasha/alanwalton-web/capacitor-cors"
 import type { Route } from "./+types/api.save"
 
 const CORS_METHODS = "POST, OPTIONS"

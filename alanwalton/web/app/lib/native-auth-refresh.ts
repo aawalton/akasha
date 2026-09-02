@@ -1,4 +1,4 @@
-import type { AppPlugin, PluginListenerHandle } from "~/lib/capacitor-bridge"
+import type { AppPlugin, PluginListenerHandle } from "@akasha/alanwalton-web/capacitor-bridge"
 
 export interface AutoRefreshControl {
   startAutoRefresh: () => Promise<void>

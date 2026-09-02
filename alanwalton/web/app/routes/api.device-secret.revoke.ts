@@ -1,6 +1,6 @@
 import { revokeDeviceSecretSchema } from "@akasha/person-system/device-secret-body"
 import { revokeDeviceSecret } from "~/device-secret/lib/device-secrets.server"
-import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { capacitorCorsHeaders, withCors } from "@akasha/alanwalton-web/capacitor-cors"
 import { resolveDeviceTokenContext } from "~/push/lib/device-tokens.server"
 import type { Route } from "./+types/api.device-secret.revoke"
 

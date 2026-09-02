@@ -1,7 +1,7 @@
 import { registerDeviceTokenSchema } from "@akasha/person-system/push-register-body"
 import { registerDeviceToken } from "@akasha/person-system/device-token"
 import { ALANWALTON_PUSH_APP } from "@akasha/person-system/push-apps"
-import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { capacitorCorsHeaders, withCors } from "@akasha/alanwalton-web/capacitor-cors"
 import { resolveDeviceTokenContext } from "~/push/lib/device-tokens.server"
 import type { Route } from "./+types/api.push.register"
 

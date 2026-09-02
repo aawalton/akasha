@@ -3,7 +3,7 @@ import { type GameState } from "@akasha/idle-system/state"
 import { type ActionIntent, actionKey } from "~/idle/lib/idle-actions"
 import { commitIntent } from "~/idle/lib/idle-apply"
 import { parseIdleSave } from "@akasha/idle-system/save"
-import { apiFetch } from "~/lib/api-fetch"
+import { apiFetch } from "@akasha/alanwalton-web/api-fetch"
 
 export type IdleStatus = "loading" | "signin" | "nosave" | "ready"
 export type IdleActionError = { readonly key: string; readonly reason: string }

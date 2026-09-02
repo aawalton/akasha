@@ -6,12 +6,12 @@ import { decidePushRoute } from "@akasha/person-system/push-routing"
 import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { useContext, useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
-import { apiFetch } from "~/lib/api-fetch"
+import { apiFetch } from "@akasha/alanwalton-web/api-fetch"
 import {
   getPushNotifications,
   isNativeShell,
   type PluginListenerHandle,
-} from "~/lib/capacitor-bridge"
+} from "@akasha/alanwalton-web/capacitor-bridge"
 
 async function postDeviceToken(deviceToken: string): Promise<void> {
   const body = registerDeviceTokenSchema.safeParse({ deviceToken, platform: "ios" })

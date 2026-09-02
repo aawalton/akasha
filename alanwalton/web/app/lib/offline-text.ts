@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { getFilesystem } from "./capacitor-bridge"
+import { getFilesystem } from "@akasha/alanwalton-web/capacitor-bridge"
 import {
   CacheIndexPersistedSchema,
   type CompletionQueue,

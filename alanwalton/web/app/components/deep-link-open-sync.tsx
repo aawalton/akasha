@@ -2,7 +2,7 @@
 
 import { useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
-import { getApp, isNativeShell, type PluginListenerHandle } from "~/lib/capacitor-bridge"
+import { getApp, isNativeShell, type PluginListenerHandle } from "@akasha/alanwalton-web/capacitor-bridge"
 import { decideOpenUrlRoute } from "@akasha/person-system/push-routing"
 
 export function DeepLinkOpenSync() {

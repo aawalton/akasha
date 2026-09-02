@@ -16,8 +16,8 @@ import {
   type RouteRead,
   routeRead,
 } from "@akasha/person-system/device-secret-minting"
-import { apiFetch } from "~/lib/api-fetch"
-import { type DeviceSecretPlugin, getDeviceSecret, isNativeShell } from "~/lib/capacitor-bridge"
+import { apiFetch } from "@akasha/alanwalton-web/api-fetch"
+import { type DeviceSecretPlugin, getDeviceSecret, isNativeShell } from "@akasha/alanwalton-web/capacitor-bridge"
 
 // `domain` is carried through rather than dropped, because WHERE the item sits decides
 // whether the widget extension can ever read it — an item in the app's default domain

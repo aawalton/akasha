@@ -2,7 +2,7 @@
 
 import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { useEffect } from "react"
-import { getApp } from "~/lib/capacitor-bridge"
+import { getApp } from "@akasha/alanwalton-web/capacitor-bridge"
 import { wireNativeAuthRefresh } from "~/lib/native-auth-refresh"
 
 export function NativeAuthRefreshSync() {

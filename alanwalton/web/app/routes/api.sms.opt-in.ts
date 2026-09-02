@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { capacitorCorsHeaders } from "~/lib/capacitor-cors"
+import { capacitorCorsHeaders } from "@akasha/alanwalton-web/capacitor-cors"
 import { unwritten } from "~/lib/pages-unheld"
 import type { Route } from "./+types/api.sms.opt-in"
 

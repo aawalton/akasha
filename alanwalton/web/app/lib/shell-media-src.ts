@@ -1,6 +1,6 @@
 import { z } from "zod"
-import { apiFetch } from "~/lib/api-fetch"
-import { API_ORIGIN } from "~/lib/api-origin"
+import { apiFetch } from "@akasha/alanwalton-web/api-fetch"
+import { API_ORIGIN } from "@akasha/alanwalton-web/api-origin"
 
 const mediaTokenResponseSchema = z.object({ token: z.string().min(1) }).strict()
 

@@ -2,7 +2,7 @@ import { healthSamplesIngestSchema } from "@akasha/person-system/health-samples-
 import { type HealthSample } from "@akasha/health-samples-access/sample-shape"
 import { upsertHealthSamples } from "@akasha/health-samples-access/sample-upsert"
 import { resolveDeviceSecretContext } from "~/device-secret/lib/device-secrets.server"
-import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { capacitorCorsHeaders, withCors } from "@akasha/alanwalton-web/capacitor-cors"
 import type { Route } from "./+types/api.tracking.health-samples"
 
 const CORS_METHODS = "POST, OPTIONS"

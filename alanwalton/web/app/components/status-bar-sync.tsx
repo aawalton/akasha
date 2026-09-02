@@ -1,5 +1,5 @@
 import { useEffect } from "react"
-import { getStatusBar, isNativeShell } from "~/lib/capacitor-bridge"
+import { getStatusBar, isNativeShell } from "@akasha/alanwalton-web/capacitor-bridge"
 import { classifyStatusBarBridge, decideStatusBarCall } from "~/lib/status-bar-chrome"
 
 export function StatusBarSync() {

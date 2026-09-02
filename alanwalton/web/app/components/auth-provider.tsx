@@ -14,7 +14,7 @@ import { DeepLinkOpenSync } from "~/components/deep-link-open-sync"
 import { NativeAuthRefreshSync } from "~/components/native-auth-refresh-sync"
 import { OfflineTextSync } from "~/components/offline-text-sync"
 import { DeviceSecretSync } from "~/device-secret/components/device-secret-sync"
-import { isNativeShell } from "~/lib/capacitor-bridge"
+import { isNativeShell } from "@akasha/alanwalton-web/capacitor-bridge"
 import { setOfflineCacheUserKey } from "~/lib/offline-cache-namespace"
 import { PushRegistrationSync } from "~/push/components/push-registration-sync"
 

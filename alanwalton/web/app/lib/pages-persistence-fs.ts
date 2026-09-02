@@ -1,6 +1,6 @@
 import type { PagesPersistencePort, PersistedPagesSnapshot } from "@akasha/pages-ui-store/collection/persistence"
 import { z } from "zod"
-import { getFilesystem } from "./capacitor-bridge"
+import { getFilesystem } from "@akasha/alanwalton-web/capacitor-bridge"
 import { deleteDocumentsFile, listDocumentsFiles } from "./offline-cache-fs"
 import { namespacedPath } from "./offline-cache-namespace"
 import { parsePagesSnapshot, serializePagesSnapshot } from "./pages-persistence-core"

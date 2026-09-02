@@ -33,12 +33,12 @@ const plugin = {
   },
 }
 
-mock.module("~/lib/capacitor-bridge", () => ({
+mock.module("@akasha/alanwalton-web/capacitor-bridge", () => ({
   isNativeShell: () => true,
   getDeviceSecret: () => plugin,
 }))
 
-mock.module("~/lib/api-fetch", () => ({
+mock.module("@akasha/alanwalton-web/api-fetch", () => ({
   apiFetch: (input: string) => {
     apiCalls.push(input)
     return Promise.resolve(new Response(JSON.stringify({ ok: true }), { status: 200 }))

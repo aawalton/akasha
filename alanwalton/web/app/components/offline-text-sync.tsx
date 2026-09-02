@@ -6,7 +6,7 @@ import { selectReadAheadChapterIds, selectUnreadChapters } from "@collections/li
 import { POSITION_WRITE_EVENT, parsePositionWriteDetail } from "@akasha/pages-ui-components/position-write-event"
 import { getContentPersistence } from "@akasha/pages-ui-store/singleton"
 import { useEffect, useRef } from "react"
-import { isNativeShell } from "~/lib/capacitor-bridge"
+import { isNativeShell } from "@akasha/alanwalton-web/capacitor-bridge"
 import {
   clearSyncedCompletions,
   clearSyncedPositions,

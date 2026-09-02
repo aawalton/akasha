@@ -1,7 +1,7 @@
 import { z } from "zod"
 import { idleGameStore } from "~/idle/lib/idle-game-store"
 import { pushReveal } from "~/idle/lib/reveal-store"
-import { apiFetch } from "~/lib/api-fetch"
+import { apiFetch } from "@akasha/alanwalton-web/api-fetch"
 
 const drawRevealSchema = z.object({
   slug: z.string(),
