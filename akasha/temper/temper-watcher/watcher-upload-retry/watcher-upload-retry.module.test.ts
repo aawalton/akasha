@@ -109,6 +109,77 @@ test("a delay is drawn from below its ceiling", async () => {
   expect(delays).toEqual([50])
 })
 
+test("the timeout the server actually returned is tried again", () => {
+  expect(
+    isRetryableUploadError(
+      new Error("bulkUpsertPages(temper-mined-item): canceling statement due to statement timeout")
+    )
+  ).toBe(true)
+  expect(isRetryableUploadError(new Error("upsert failed: 57014"))).toBe(true)
+  expect(
+    isRetryableUploadError(new Error("HTTP 502 from https://tempereso.com/api/watcher/upsert"))
+  ).toBe(true)
+})
+
+test("a token the server no longer accepts is not tried again", () => {
+  expect(isRetryableUploadError(new Error("Invalid or expired watcher token"))).toBe(false)
+})
+
+test("a caller stating no delay gets half a second doubling", async () => {
+  const delays: number[] = []
+  let attempts = 0
+  await withUploadRetry(
+    async () => {
+      attempts++
+      if (attempts < 3) throw new Error("statement timeout")
+      return "done"
+    },
+    {
+      random: () => 0.5,
+      sleep: async (ms) => {
+        delays.push(ms)
+      },
+    }
+  )
+  expect(delays).toEqual([250, 500])
+})
+
+test("anything else thrown is not delayed at all", async () => {
+  const delays: number[] = []
+  const run = withUploadRetry(
+    async () => {
+      throw new Error("Invalid or expired watcher token")
+    },
+    {
+      sleep: async (ms) => {
+        delays.push(ms)
+      },
+    }
+  )
+  await expect(run).rejects.toThrow("Invalid or expired watcher token")
+  expect(delays).toEqual([])
+})
+
+test("a long chain of failures sits at the ceiling rather than climbing past it", async () => {
+  const delays: number[] = []
+  const run = withUploadRetry(
+    async () => {
+      throw new Error("HTTP 502")
+    },
+    {
+      maxAttempts: 8,
+      baseDelayMs: 500,
+      maxDelayMs: 2000,
+      random: () => 1,
+      sleep: async (ms) => {
+        delays.push(ms)
+      },
+    }
+  )
+  await expect(run).rejects.toThrow("HTTP 502")
+  expect(delays).toEqual([500, 1000, 2000, 2000, 2000, 2000, 2000])
+})
+
 test("the final attempt throws rather than delaying again", async () => {
   const delays: number[] = []
   let attempts = 0
