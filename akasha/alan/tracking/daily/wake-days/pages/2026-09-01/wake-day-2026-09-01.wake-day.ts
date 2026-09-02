@@ -18,7 +18,7 @@ export const wakeDay20260901 = {
   nutritionPoints: 0,
   breathingPoints: 0,
   activeCalories: 14.246000000000002,
-  spannedFromDayBoundary: true,
+  spannedFromDayBoundary: false,
   inboxTasks: 24,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 22,
