@@ -7,4 +7,5 @@ export const aineA8edf5fa124b60f6b = {
   principalSeatName: "aine",
   assignmentSlug: "initiative/aine-checks-judge-the-change",
   dispatchedAs: "general-purpose",
+  agentId: "01a05918-8802-7000-9b2e-a8baf3cc6e17--a8edf5fa124b60f6b",
 } as const satisfies Subagent

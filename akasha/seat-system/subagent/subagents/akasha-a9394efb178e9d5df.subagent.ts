@@ -7,4 +7,5 @@ export const akashaA9394efb178e9d5df = {
   principalSeatName: "akasha",
   assignmentSlug: "domain/akasha",
   dispatchedAs: "general-purpose",
+  agentId: "01a05d08-3e56-7000-8a7c-bb004b91b880--a9394efb178e9d5df",
 } as const satisfies Subagent
