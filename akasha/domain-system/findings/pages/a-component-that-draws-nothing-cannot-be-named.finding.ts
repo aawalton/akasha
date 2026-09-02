@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aComponentThatDrawsNothingCannotBeNamed = {
+  id: "01a06113-1f2e-7226-8ea5-14f03af05faa",
+  pageTypeSlug: "finding",
+  slug: "a-component-that-draws-nothing-cannot-be-named",
+  domainSlug: "domain/akasha-check",
+  claim:
+    "A React component that draws nothing has no name akasha admits. `identifier-matches-its-place` reads a declaration for JSX to tell a component from a function: holding JSX it takes upper camel, holding none it takes lower camel. A component whose whole work is a hook returns null, so the check reads it as a function and refuses the upper-camel name React needs to treat the tag as a component rather than a host element.",
+  evidence:
+    "Met on 2026-09-02 moving `shared/pages-ui/src/components/nav-command-bindings-registrar.tsx` into akasha, which was built, refused, and held out of the wave.\n\nThe module declares `function RegisterKeyBinding({ binding }: { binding: KeyBinding }): null`, whose body calls `useKeyboardBinding(binding)` and returns `null`. `NavCommandBindings` draws one of these per binding, which is the only way to call a hook once per item of a list React admits. `akasha write --dry-run` answered: `line 9 declares the function RegisterKeyBinding, which is not written in name-format/lower-camel-case`.\n\nRenaming it lower camel is not open: JSX reads a lower-case tag as a host element, so `<registerKeyBinding />` would draw an unknown DOM node rather than call the component.\n\nReturning `<></>` in place of `null` makes the check read it as a component and is what React draws anyway. That was tried and refused too: `lint/complexity/noUselessFragments at line 11, column 10 — This fragment is unnecessary`. The two checks close the last gap between them.\n\nThe registry offers no way out. `akasha/design/design-primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts` exports `useKeyboardBinding` for one binding, and `useKeyboardBindings`, which reads descriptors back rather than registering any. Its `register` is a plain function, not a hook, and is not exported, so a caller cannot register a whole list in one effect.\n\nThe call taken: the module stays outside akasha rather than being bent to fit. What would let it in is a plural registration hook in design-primitives, which would delete the component and the question with it, or a check that reads a declaration returning null from a hook-calling body as a component.",
+} as const satisfies Finding
