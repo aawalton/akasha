@@ -883,7 +883,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-game-navigation-capture-host": {
+    "akasha/temper/temper-game-catalog-capture-host": {
       "name": "@akasha/temper-game-navigation-capture-host",
       "dependencies": {
         "@akasha/temper-capture-host": "workspace:*",
@@ -3718,7 +3718,7 @@
 
     "@akasha/temper-game-crafting-capture-host": ["@akasha/temper-game-crafting-capture-host@workspace:akasha/temper/temper-game-crafting-capture-host"],
 
-    "@akasha/temper-game-navigation-capture-host": ["@akasha/temper-game-navigation-capture-host@workspace:akasha/temper/temper-game-navigation-capture-host"],
+    "@akasha/temper-game-navigation-capture-host": ["@akasha/temper-game-navigation-capture-host@workspace:akasha/temper/temper-game-catalog-capture-host"],
 
     "@akasha/temper-hud-components": ["@akasha/temper-hud-components@workspace:akasha/temper/temper-hud-components"],
 

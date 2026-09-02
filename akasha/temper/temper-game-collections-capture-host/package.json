@@ -2,9 +2,7 @@
   "name": "@akasha/temper-game-collections-capture-host",
   "private": true,
   "type": "module",
-  "exports": {
-    "./collectibles-catalog-schema": "./collectibles-catalog-schema/collectibles-catalog-schema.module.code.ts"
-  },
+  "exports": {},
   "dependencies": {
     "@akasha/temper-capture-host": "workspace:*",
     "@akasha/temper-capture-shapes": "workspace:*",
