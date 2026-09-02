@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@akasha/day": "workspace:*",
+    "@akasha/indexes": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "zod": "^4.3.6"
   }
