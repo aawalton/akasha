@@ -1,0 +1,15 @@
+{
+  "name": "@akasha/temper-build-support",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./automation-settings": "./automation-settings/automation-settings.module.code.ts",
+    "./build-url": "./build-url/build-url.module.code.ts",
+    "./eso-name": "./eso-name/eso-name.module.code.ts",
+    "./row-grouping": "./row-grouping/row-grouping.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-url": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*"
+  }
+}
