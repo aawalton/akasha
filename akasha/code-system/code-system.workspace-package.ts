@@ -12,6 +12,8 @@ export const codeSystem = {
     "page-type/ios-component",
     "page-type/ios-harness",
     "page-type/ios-program",
+    "page-type/rust-crate",
+    "page-type/rust-module",
     "page-type/shell-script",
     "page-type/stylesheet",
     "page-type/workspace-package",
