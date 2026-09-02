@@ -1,6 +1,18 @@
 "use client"
 
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
+import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
+import { compileCategoryRuleToOrdered } from "@akasha/temper-items-rules-core/inventory-rule-compiler"
+import type {
+  AffectedItem,
+  ClassifiedInventoryItem,
+} from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import {
+  type CategoryRule,
+  IMPLICIT_TERMINAL_RULE_ID,
+  type ItemRule,
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
+import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { computeAllRuleAffectedItems } from "@akasha/temper-items-rules-matcher/inventory-rule-matcher"
 import {
   type AllRuleAffectedItemsCache,
@@ -9,18 +21,6 @@ import {
 import { buildManagementPlan } from "@akasha/temper-items-rules-routing/inventory-management-plan"
 import { applyDestinationCapacityFilter } from "@akasha/temper-items-rules-routing/inventory-management-plan-capacity-filter"
 import type { ManagementPlan } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
-import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
-import { compileCategoryRuleToOrdered } from "@temper/game-items-rules-core/inventory-rule-compiler"
-import type {
-  AffectedItem,
-  ClassifiedInventoryItem,
-} from "@temper/game-items-rules-core/inventory-rule-matcher-types"
-import {
-  type CategoryRule,
-  IMPLICIT_TERMINAL_RULE_ID,
-  type ItemRule,
-} from "@temper/game-items-rules-core/inventory-rule-types"
-import type { RuleMatcherContext } from "@temper/game-items-rules-core/rule-matcher-context-types"
 import { useMemo, useRef } from "react"
 
 export interface InventoryRulesTabAffectedItems {
