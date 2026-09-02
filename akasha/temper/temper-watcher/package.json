@@ -9,7 +9,9 @@
     "./watcher-log-merging": "./watcher-log-merging/watcher-log-merging.module.code.ts",
     "./watcher-unit": "./watcher-unit/watcher-unit.module.code.ts",
     "./watcher-running": "./watcher-running/watcher-running.module.code.ts",
-    "./watcher-liveness": "./watcher-liveness/watcher-liveness.module.code.ts"
+    "./watcher-liveness": "./watcher-liveness/watcher-liveness.module.code.ts",
+    "./watcher-run-outcome": "./watcher-run-outcome/watcher-run-outcome.module.code.ts",
+    "./watcher-self-write-guard": "./watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",

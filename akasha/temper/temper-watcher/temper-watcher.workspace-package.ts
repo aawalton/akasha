@@ -14,6 +14,8 @@ export const temperWatcher = {
     "module/watcher-unit",
     "module/watcher-running",
     "module/watcher-liveness",
+    "module/watcher-run-outcome",
+    "module/watcher-self-write-guard",
     "workstation-service/temper-watcher",
     "workstation-service/temper-watcher-liveness",
   ],
