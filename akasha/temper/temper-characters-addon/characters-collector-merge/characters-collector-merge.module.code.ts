@@ -1,3 +1,5 @@
+import { mergeByKey } from "../characters-keyed-merge/characters-keyed-merge.module.code.ts"
+
 export function mergeIdList(
   stored: readonly number[] | undefined,
   fresh: readonly number[]
@@ -26,34 +28,14 @@ export function mergeIdListsByKey(
   stored: Record<number, number[]> | undefined,
   fresh: Record<number, number[]>
 ): Record<number, number[]> {
-  if (stored === undefined) return fresh
-
-  const merged: Record<number, number[]> = {}
-  for (const [key, storedIds] of Object.entries(stored)) {
-    merged[Number(key)] = storedIds
-  }
-  for (const [key, freshIds] of Object.entries(fresh)) {
-    const index = Number(key)
-    const priorIds = merged[index]
-    merged[index] = priorIds === undefined ? freshIds : mergeIdList(priorIds, freshIds)
-  }
-  return merged
+  return mergeByKey(stored, fresh, mergeIdList)
 }
 
 export function mergeMaxByKey(
   stored: Record<number, number> | undefined,
   fresh: Record<number, number>
 ): Record<number, number> {
-  if (stored === undefined) return fresh
-
-  const merged: Record<number, number> = {}
-  for (const [key, storedValue] of Object.entries(stored)) {
-    merged[Number(key)] = storedValue
-  }
-  for (const [key, freshValue] of Object.entries(fresh)) {
-    const index = Number(key)
-    const priorValue = merged[index]
-    merged[index] = priorValue === undefined || freshValue > priorValue ? freshValue : priorValue
-  }
-  return merged
+  return mergeByKey(stored, fresh, (priorValue, freshValue) =>
+    freshValue > priorValue ? freshValue : priorValue
+  )
 }
