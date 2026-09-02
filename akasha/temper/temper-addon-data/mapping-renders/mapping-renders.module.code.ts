@@ -11,7 +11,6 @@ import { generateRaceMappings } from "../race-mappings/race-mappings.module.code
 import { generatePlayerEquipmentMappings } from "../render-equipment-mappings/render-equipment-mappings.module.code.ts"
 import { generateScribingMappings } from "../scribing-mappings/scribing-mappings.module.code.ts"
 import { generateSetMappings } from "../set-mappings/set-mappings.module.code.ts"
-import { generateSkillLineMappings } from "../skill-line-mappings/skill-line-mappings.module.code.ts"
 
 export type MappingRender = {
   readonly rendered: string
@@ -31,6 +30,5 @@ export const MAPPING_RENDERS: readonly MappingRender[] = [
   { rendered: "player-equipment-mappings.generated.ts", render: generatePlayerEquipmentMappings },
   { rendered: "set-mappings.generated.ts", render: generateSetMappings },
   { rendered: "scribing-mappings.generated.ts", render: generateScribingMappings },
-  { rendered: "skill-line-mappings.generated.ts", render: generateSkillLineMappings },
   { rendered: "passive-skill-mappings.generated.ts", render: generatePassiveSkillMappings },
 ]

@@ -35,7 +35,6 @@ export const temperAddonData = {
     "module/render-set-category-mappings",
     "module/scribing-mappings",
     "module/set-mappings",
-    "module/skill-line-mappings",
   ],
   invariants: [
     {

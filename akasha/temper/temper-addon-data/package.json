@@ -30,8 +30,7 @@
     "./render-scribing-total-script-count": "./render-scribing-total-script-count/render-scribing-total-script-count.module.code.ts",
     "./render-set-category-mappings": "./render-set-category-mappings/render-set-category-mappings.module.code.ts",
     "./scribing-mappings": "./scribing-mappings/scribing-mappings.module.code.ts",
-    "./set-mappings": "./set-mappings/set-mappings.module.code.ts",
-    "./skill-line-mappings": "./skill-line-mappings/skill-line-mappings.module.code.ts"
+    "./set-mappings": "./set-mappings/set-mappings.module.code.ts"
   },
   "dependencies": {
     "@akasha/pages-access": "workspace:*",
