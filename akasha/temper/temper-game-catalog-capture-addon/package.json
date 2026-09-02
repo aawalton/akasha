@@ -1,0 +1,30 @@
+{
+  "name": "@akasha/temper-game-catalog-capture-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./achievement-catalog-capture": "./achievement-catalog-capture/achievement-catalog-capture.module.code.ts",
+    "./antiquity-lore-catalog-capture": "./antiquity-lore-catalog-capture/antiquity-lore-catalog-capture.module.code.ts",
+    "./cadwell-catalog-capture": "./cadwell-catalog-capture/cadwell-catalog-capture.module.code.ts",
+    "./collectibles-catalog-capture": "./collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts",
+    "./companion-equipment-catalog-capture": "./companion-equipment-catalog-capture/companion-equipment-catalog-capture.module.code.ts",
+    "./companion-skill-catalog-capture": "./companion-skill-catalog-capture/companion-skill-catalog-capture.module.code.ts",
+    "./currency-catalog-capture": "./currency-catalog-capture/currency-catalog-capture.module.code.ts",
+    "./furniture-catalog-capture": "./furniture-catalog-capture/furniture-catalog-capture.module.code.ts",
+    "./lore-library-catalog-capture": "./lore-library-catalog-capture/lore-library-catalog-capture.module.code.ts",
+    "./poi-catalog-capture": "./poi-catalog-capture/poi-catalog-capture.module.code.ts",
+    "./recipe-catalog-capture": "./recipe-catalog-capture/recipe-catalog-capture.module.code.ts",
+    "./scribing-catalog-capture": "./scribing-catalog-capture/scribing-catalog-capture.module.code.ts",
+    "./trait-research-catalog-capture": "./trait-research-catalog-capture/trait-research-catalog-capture.module.code.ts",
+    "./tribute-catalog-capture": "./tribute-catalog-capture/tribute-catalog-capture.module.code.ts",
+    "./zone-completion-catalog-capture": "./zone-completion-catalog-capture/zone-completion-catalog-capture.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-capture-shapes": "workspace:*",
+    "@akasha/temper-capture-writer": "workspace:*",
+    "@akasha/temper-catalog-core": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/temper-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@akasha/temper-capture-sales-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./sales-addon-entry": "./sales-addon-entry/sales-addon-entry.module.code.ts",
+    "./sales-addon-name": "./sales-addon-name/sales-addon-name.module.code.ts",
+    "./sales-capture": "./sales-capture/sales-capture.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-capture-sales": "workspace:*",
+    "@akasha/temper-capture-writer": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*"
+  }
+}
