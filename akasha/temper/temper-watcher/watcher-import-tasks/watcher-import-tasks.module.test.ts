@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   applyCompletion,
   clearCompletion,
@@ -6,13 +7,11 @@ import {
   isCompleteForever,
   namesWholeTask,
   parseTaskCompletions,
-  readUserId,
   rolledDueDate,
   runImportTasks,
   seamsReady,
   type TaskPage,
   tasksByName,
-  type UserSession,
 } from "./watcher-import-tasks.module.code.ts"
 import {
   buildLua,
@@ -313,36 +312,15 @@ test("a task is reached by its id and by its slug alike", () => {
   expect(byName.get("one-off-task")).toBe(task)
 })
 
-test("a stated user id is taken without the session being asked", async () => {
-  let asked = 0
-  const session: UserSession = {
-    auth: {
-      getUser: async () => {
-        asked++
-        return { data: { user: { id: "u9" } }, error: null }
-      },
-    },
-  }
-  expect(await readUserId(session, "u1")).toBe("u1")
-  expect(asked).toBe(0)
-})
-
-test("a session carrying no user refuses the import", async () => {
-  const session: UserSession = {
+test("a session carrying no user refuses the import, naming the work", async () => {
+  const session: SignedInReader = {
     auth: {
       getUser: async () => ({ data: { user: null }, error: { message: "no session" } }),
     },
   }
-  await expect(readUserId(session, undefined)).rejects.toThrow(
-    "no signed-in user to import these completions under (no session)"
+  await expect(runImportTasks(buildLua([]), session, landing())).rejects.toThrow(
+    "no signed-in user to import these completions (no session)"
   )
-})
-
-test("a session naming a user answers that user's id", async () => {
-  const session: UserSession = {
-    auth: { getUser: async () => ({ data: { user: { id: "u9" } }, error: null }) },
-  }
-  expect(await readUserId(session, undefined)).toBe("u9")
 })
 
 test("an import completes what it resolves, clears a zero, and reports the rest unknown", async () => {

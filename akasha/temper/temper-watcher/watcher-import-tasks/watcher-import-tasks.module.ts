@@ -75,10 +75,6 @@ export const watcherImportTasks = {
     },
     {
       invariantKind: "departure",
-      statement: "The supabase session is asked for a user only where the caller names no user id.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Every reach outside this module is an argument the caller may hand in.",
     },
     {

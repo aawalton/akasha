@@ -3,7 +3,6 @@ import { instantToMillis } from "@akasha/pages-core/property-types/instant"
 import type { Row } from "@akasha/pages-system-service/asking"
 import { askingFor } from "@akasha/pages-system-service/calling"
 import { advanceRecurrenceDueDate } from "@akasha/recurrence/scheduling"
-import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { isCumulativeCard } from "@akasha/temper-player-completion/completion-card-reset-behavior"
 import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
@@ -15,6 +14,10 @@ import {
   landCompletion,
 } from "../watcher-completed-day-landing/watcher-completed-day-landing.module.code.ts"
 import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"
+import {
+  type SignedInReader,
+  userIdFor,
+} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   landTaskGone,
   landTaskValues,
@@ -32,15 +35,6 @@ export const MILLISECONDS_PER_SECOND = 1000
 export const SCOPE_MARK_AT = 36
 
 export type TaskPage = Row & { id: string; slug: string }
-
-export interface UserAnswer {
-  readonly data: { readonly user: { readonly id: string } | null }
-  readonly error: { readonly message: string } | null
-}
-
-export interface UserSession {
-  readonly auth: { getUser: () => Promise<UserAnswer> }
-}
 
 export interface ParsedTaskCompletion {
   readonly taskId: string
@@ -278,20 +272,6 @@ export async function clearCompletion(task: TaskPage, seams: ReadySeams): Promis
   return { action: "skip", reason: "no completion to clear" }
 }
 
-export async function readUserId(
-  session: UserSession,
-  stated: string | undefined
-): Promise<string> {
-  if (stated != null) return stated
-  const answer = await session.auth.getUser()
-  const user = answer.data.user
-  if (answer.error || !user) {
-    const detail = answer.error?.message ?? "the session carried no user"
-    throw new Error(`no signed-in user to import these completions under (${detail})`)
-  }
-  return user.id
-}
-
 export async function readTaskPages(
   userId: string,
   seams: ReadySeams
@@ -319,14 +299,14 @@ export function tasksByName(tasks: readonly TaskPage[]): Map<string, TaskPage> {
 
 export async function runImportTasks(
   content: string,
-  supabase: SupabaseServiceRoleClient,
+  supabase: SignedInReader,
   options: ImportTasksOptions = {}
 ): Promise<void> {
   const seams = seamsReady(options)
   const entries = parseTaskCompletions(content)
   seams.report(`Task import: ${entries.length} task completion(s) captured.`)
 
-  const userId = await readUserId(supabase, options.userId)
+  const userId = await userIdFor(supabase, options.userId, "import these completions")
   const tasks = await readTaskPages(userId, seams)
   const byName = tasksByName(tasks)
 

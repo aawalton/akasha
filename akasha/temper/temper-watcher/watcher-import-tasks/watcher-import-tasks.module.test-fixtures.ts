@@ -1,10 +1,13 @@
-import type {
-  ImportTasksOptions,
-  runImportTasks,
-  TaskPage,
-} from "./watcher-import-tasks.module.code.ts"
+import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import type { ImportTasksOptions, TaskPage } from "./watcher-import-tasks.module.code.ts"
 
-export const NO_CLIENT = {} as Parameters<typeof runImportTasks>[1]
+export const NO_CLIENT: SignedInReader = {
+  auth: {
+    getUser: async () => {
+      throw new Error("the test states a user id, so the session is never asked")
+    },
+  },
+}
 
 export const ONE_OFF_ID = "11111111-1111-7000-8000-000000000001"
 
