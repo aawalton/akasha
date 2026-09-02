@@ -67,6 +67,10 @@ export const readoutRelay = {
     },
     {
       invariantKind: "departure",
+      statement: "What a carry says names the moment rather than the reading.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Where a reading is carried to is said where the carrier is run rather than held as a secret.",
     },

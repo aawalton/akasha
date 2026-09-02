@@ -108,7 +108,7 @@ if (import.meta.main) {
   }
   try {
     await relayReading(to, secret, { ...kept, readout: readoutNamedBy(page) })
-    process.stdout.write(`${kept.value} taken ${kept.at} carried to ${to}\n`)
+    process.stdout.write(`a reading taken ${kept.at} carried to ${to}\n`)
   } catch (thrown) {
     process.stderr.write(`${saidBy(thrown)}\n`)
     process.exit(1)
