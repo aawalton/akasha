@@ -46,6 +46,13 @@ function body(kind: string, slug: string, id: string, declares?: readonly string
   )
 }
 
+function oneOf(slug: string, id: string, members: readonly string[]): Uint8Array {
+  return new TextEncoder().encode(
+    `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: "one-of-property", ` +
+      `slug: ${JSON.stringify(slug)}, memberSlugs: ${JSON.stringify(members)} }\n`
+  )
+}
+
 function rooted(): string {
   const root = scratch.rootFor("akasha-declared-")
   founded(root)
@@ -54,9 +61,14 @@ function rooted(): string {
   typed(root, "page-property", "domain")
   typed(root, "relation-property", "page-property")
   typed(root, "record-property", "page-property")
+  typed(root, "one-of-property", "page-property")
   typed(root, "page-type", "domain")
   declaring(root, "properties", { pageTypeSlug: "record-property" })
   declaring(root, "page-property-slug", {
+    pageTypeSlug: "relation-property",
+    targetPageTypeSlug: "page-property",
+  })
+  declaring(root, "member-slugs", {
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: "page-property",
   })
@@ -181,6 +193,64 @@ test("a record property declaring a field declares it as a page type would", () 
     })
   )
   expect(said.map((one) => one.path)).not.toContain(pathFor("relation-property", "held"))
+})
+
+test("a one of naming a member declares it as a page type declares a property", () => {
+  const root = rooted()
+  filing(root, "relation-property", "held", ONE)
+  filing(root, "one-of-property", "over", TWO)
+  const said = judged(
+    landing(root, {
+      [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
+      [pathFor("one-of-property", "over")]: oneOf("over", TWO, ["held"]),
+    })
+  )
+  expect(said.map((one) => one.path)).not.toContain(pathFor("relation-property", "held"))
+})
+
+test("a member the index says a one of already names is let through", () => {
+  const root = rooted()
+  filing(root, "relation-property", "held", ONE)
+  edging(root, ONE, "member-slugs", TWO, UP_AT)
+  pageFiled(root, TWO, UP_AT)
+  const said = judged(
+    landing(root, {
+      [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
+    })
+  )
+  expect(said).toEqual([])
+})
+
+test("a one of that stops naming a member leaves that member refused", () => {
+  const root = rooted()
+  filing(root, "relation-property", "held", ONE)
+  filing(root, "one-of-property", "over", TWO)
+  edging(root, ONE, "member-slugs", TWO, pathFor("one-of-property", "over"))
+  const at = pathFor("one-of-property", "over")
+  const said = judged(
+    landing(
+      root,
+      {
+        [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
+        [at]: oneOf("over", TWO, []),
+      },
+      { [at]: put(root, at, oneOf("over", TWO, ["held"])) }
+    )
+  )
+  expect(said.map((one) => one.path)).toContain(pathFor("relation-property", "held"))
+})
+
+test("a property named through a relation that declares nothing is refused still", () => {
+  const root = rooted()
+  filing(root, "relation-property", "held", ONE)
+  edging(root, ONE, "part-slugs", TWO, UP_AT)
+  pageFiled(root, TWO, UP_AT)
+  const said = judged(
+    landing(root, {
+      [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
+    })
+  )
+  expect(said.map((one) => one.path)).toEqual([pathFor("relation-property", "held")])
 })
 
 test("a property of a page type the change itself adds is judged too", () => {
