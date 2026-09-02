@@ -1,3 +1,11 @@
+import type {
+  AccountRecipeUnionProgress,
+  AccountScribingUnionProgress,
+} from "@akasha/temper-player-completion/completion-account-recipe-scribing-union"
+import {
+  transformAccountRecipeUnion,
+  transformAccountScribingUnion,
+} from "@akasha/temper-player-completion/completion-account-recipe-scribing-union"
 import type { AccountQuestUnionProgress } from "@akasha/temper-player-completion/completion-account-union-progress"
 import { transformAccountQuestUnion } from "@akasha/temper-player-completion/completion-account-union-progress"
 import type { AccountSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
@@ -12,14 +20,6 @@ import type {
 } from "@akasha/temper-player-completion/completion-ui-types"
 import type { SubclassingSkillMorphProgressResult } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
 import { transformSubclassingSkillMorphProgress } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
-import type {
-  AccountRecipeUnionProgress,
-  AccountScribingUnionProgress,
-} from "@temper/player-completion/completion-account-recipe-scribing-union"
-import {
-  transformAccountRecipeUnion,
-  transformAccountScribingUnion,
-} from "@temper/player-completion/completion-account-recipe-scribing-union"
 import type { AccountTraitResearchUnionProgress } from "@temper/player-completion/completion-account-trait-union"
 import { transformAccountTraitResearchUnion } from "@temper/player-completion/completion-account-trait-union"
 import type {
