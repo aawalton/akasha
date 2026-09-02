@@ -10,7 +10,7 @@ export const storyEngine = {
     "workspace-package/story-ui",
     "workspace-package/story-tower-core",
     "workspace-package/story-tower-engine",
-    "workspace-package/tower",
+    "workspace-package/story-tower",
   ],
   invariants: [
     {
