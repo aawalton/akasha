@@ -1,6 +1,9 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
 import { FilterButton } from "@akasha/design-patterns/filter-button"
@@ -8,8 +11,8 @@ import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { SortButton } from "@akasha/design-patterns/sort-button"
-import { type SortDirection, type SortOption } from "@akasha/design-patterns/sort-types"
-import type { CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"
+import type { SortDirection, SortOption } from "@akasha/design-patterns/sort-types"
+import type { CompletionSortMode } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { useState } from "react"
 
 type FilterId = "status" | "activity" | "character" | "skills"
