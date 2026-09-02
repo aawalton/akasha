@@ -28,7 +28,7 @@ export const MESSAGE = "--message"
 
 export const MESSAGE_FILE = "--message-file"
 
-const CONTENT_FILE = "--content-file"
+export const CONTENT_FILE = "--content-file"
 
 export const REMOVE = "--remove"
 
