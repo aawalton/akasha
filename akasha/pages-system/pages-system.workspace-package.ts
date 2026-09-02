@@ -54,6 +54,7 @@ export const pagesSystem = {
     "module/page-secret",
     "module/page-value",
     "module/page-entries",
+    "module/page-entry-writing",
     "module/shadow",
   ],
   invariants: [
