@@ -834,6 +834,26 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-build-codec": {
+      "name": "@akasha/temper-build-codec",
+      "dependencies": {
+        "@akasha/code-system": "workspace:*",
+        "@akasha/temper-alchemy": "workspace:*",
+        "@akasha/temper-build-hash": "workspace:*",
+        "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-build": "workspace:*",
+        "@akasha/temper-character-skills": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-characters-equipment": "workspace:*",
+        "@akasha/temper-classes": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
+        "@akasha/temper-equipment-kinds": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-races": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
+        "@akasha/temper-skill-lines": "workspace:*",
+      },
+    },
     "akasha/temper/temper-build-deploy-checks": {
       "name": "@akasha/temper-build-deploy-checks",
       "dependencies": {
@@ -1084,6 +1104,18 @@
         "@akasha/utils-narrow": "workspace:*",
         "extract-zip": "^2.0.1",
         "zod": "^4.3.6",
+      },
+    },
+    "akasha/temper/temper-companion-codec": {
+      "name": "@akasha/temper-companion-codec",
+      "dependencies": {
+        "@akasha/code-system": "workspace:*",
+        "@akasha/temper-build-hash": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
+        "@akasha/temper-equipment-kinds": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "akasha/temper/temper-companions-addon": {
@@ -3560,6 +3592,8 @@
 
     "@akasha/temper-bit-codec": ["@akasha/temper-bit-codec@workspace:akasha/temper/temper-bit-codec"],
 
+    "@akasha/temper-build-codec": ["@akasha/temper-build-codec@workspace:akasha/temper/temper-build-codec"],
+
     "@akasha/temper-build-deploy-checks": ["@akasha/temper-build-deploy-checks@workspace:akasha/temper/temper-build-deploy-checks"],
 
     "@akasha/temper-build-hash": ["@akasha/temper-build-hash@workspace:akasha/temper/temper-build-hash"],
@@ -3621,6 +3655,8 @@
     "@akasha/temper-commands": ["@akasha/temper-commands@workspace:akasha/temper/temper-commands"],
 
     "@akasha/temper-community-addons": ["@akasha/temper-community-addons@workspace:akasha/temper/temper-community-addons"],
+
+    "@akasha/temper-companion-codec": ["@akasha/temper-companion-codec@workspace:akasha/temper/temper-companion-codec"],
 
     "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:akasha/temper/temper-companions-addon"],
 

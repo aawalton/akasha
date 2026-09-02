@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/temper-companion-codec",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./companion-codec": "./companion-codec/companion-codec.module.code.ts",
+    "./companion-codec-indices": "./companion-codec-indices/companion-codec-indices.module.code.ts",
+    "./companion-codec-v48": "./companion-codec-v48/companion-codec-v48.module.code.ts",
+    "./companion-codec-v49": "./companion-codec-v49/companion-codec-v49.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/code-system": "workspace:*",
+    "@akasha/temper-build-hash": "workspace:*",
+    "@akasha/temper-companions-core": "workspace:*",
+    "@akasha/temper-equipment": "workspace:*",
+    "@akasha/temper-equipment-kinds": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
