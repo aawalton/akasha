@@ -1,5 +1,3 @@
-import "../debug-logger-saved-variables/debug-logger-saved-variables.module.code.ts"
-
 import { asConcatList, asLoggerTag } from "../debug-logger-casts/debug-logger-casts.module.code.ts"
 import { CALLBACK_LOG_CLEARED } from "../debug-logger-constants/debug-logger-constants.module.code.ts"
 import { INTERNAL, LIB } from "../debug-logger-state/debug-logger-state.module.code.ts"

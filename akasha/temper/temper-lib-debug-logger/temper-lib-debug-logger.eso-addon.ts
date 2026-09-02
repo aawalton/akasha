@@ -17,13 +17,13 @@ export const temperLibDebugLogger = {
     "module/debug-logger-global",
     "module/debug-logger-log-handler",
     "module/debug-logger-main",
-    "module/debug-logger-saved-variables",
     "module/debug-logger-settings",
     "module/debug-logger-startup",
     "module/debug-logger-state",
     "module/debug-logger-tagged-logger",
     "module/debug-logger-types",
     "type-declaration/debug-logger-declarations",
+    "type-declaration/debug-logger-saved-variables",
   ],
   invariants: [
     {

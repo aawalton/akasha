@@ -1,5 +1,3 @@
-import "../debug-logger-saved-variables/debug-logger-saved-variables.module.code.ts"
-
 import { asFormatArgs } from "../debug-logger-casts/debug-logger-casts.module.code.ts"
 import {
   CALLBACK_LOG_ADDED,
