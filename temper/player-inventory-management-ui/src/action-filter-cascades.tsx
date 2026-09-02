@@ -1,9 +1,15 @@
 "use client"
 
-import { useAuth } from "@shared/auth/use-auth"
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import { classifyLocation } from "@temper/game-items-core/inventory-grouping"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
+import { classifyLocation } from "@akasha/temper-items-core/location-classify"
+import { useAuth } from "@shared/auth/use-auth"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import { NULL_SENTINEL } from "./action-filter-utils"
