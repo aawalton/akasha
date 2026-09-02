@@ -1,0 +1,413 @@
+{"id":"01a0626f-6d13-7791-8c0a-2482b49b55c0","recipeItemId":114340,"recipeName":"High Elf Candleholder, Sturdy"}
+{"id":"01a0626f-6d13-77ad-92e2-04dc4786db38","recipeItemId":114370,"recipeName":"High Elf Lamppost, Spiked"}
+{"id":"01a0626f-6d13-7004-a3ed-76e0e6ad03c3","recipeItemId":114371,"recipeName":"High Elf Lamp, Oil"}
+{"id":"01a0626f-6d13-77e3-8117-4f43789c5ac7","recipeItemId":114405,"recipeName":"High Elf Brazier, Winged"}
+{"id":"01a0626f-6d13-7ee6-9d2a-eb29ba494614","recipeItemId":114406,"recipeName":"High Elf Chandelier, Winged"}
+{"id":"01a0626f-6d13-743a-a7c0-5142cbdbf4ca","recipeItemId":114407,"recipeName":"High Elf Candle, Winged"}
+{"id":"01a0626f-6d13-7dfb-b0d0-e04944a71189","recipeItemId":114408,"recipeName":"High Elf Lamppost, Stone"}
+{"id":"01a0626f-6d13-74d2-b421-adae687e16a1","recipeItemId":114409,"recipeName":"High Elf Candelabra, Winged"}
+{"id":"01a0626f-6d13-7481-ba72-b5661da0d983","recipeItemId":114410,"recipeName":"High Elf Sconce, Winged"}
+{"id":"01a0626f-6d13-76cb-a5ce-36ad1b0ba124","recipeItemId":115174,"recipeName":"Breton Lightpost, Single"}
+{"id":"01a0626f-6d13-76e6-883a-6d5482252b2d","recipeItemId":115175,"recipeName":"Breton Lightpost, Arched"}
+{"id":"01a0626f-6d13-786d-8580-f43da21d1564","recipeItemId":115176,"recipeName":"Breton Streetlight, Paired"}
+{"id":"01a0626f-6d13-7879-a7e1-ef959159e39b","recipeItemId":115177,"recipeName":"Breton Sconce, Torch"}
+{"id":"01a0626f-6d13-7fff-8987-146e0fe45ba3","recipeItemId":115210,"recipeName":"Breton Streetlight, Arched Stone"}
+{"id":"01a0626f-6d13-7327-b1e1-66c39ea90df2","recipeItemId":115211,"recipeName":"Breton Streetlight, Paired Stone"}
+{"id":"01a0626f-6d13-7c6f-b9b4-fe23c94040c2","recipeItemId":115212,"recipeName":"Breton Sconce, Sturdy Torch"}
+{"id":"01a0626f-6d13-7217-8f46-bd2227e376f3","recipeItemId":115240,"recipeName":"Breton Sconce, Floor"}
+{"id":"01a0626f-6d13-73fe-8b6e-406b03cc0076","recipeItemId":115241,"recipeName":"Breton Candle, Grand"}
+{"id":"01a0626f-6d13-78a7-923a-213eb1542a64","recipeItemId":115242,"recipeName":"Breton Candelabra, Formal"}
+{"id":"01a0626f-6d13-7552-9d82-62a2d3ea31b2","recipeItemId":115243,"recipeName":"Breton Sconce, Wall"}
+{"id":"01a0626f-6d13-73f1-8670-a186230dcfcc","recipeItemId":115245,"recipeName":"Breton Lamp, Oil"}
+{"id":"01a0626f-6d13-7c58-a094-99115345bf6c","recipeItemId":115246,"recipeName":"Breton Lamp, Hanging"}
+{"id":"01a0626f-6d13-7220-b929-3d4e3e98bf9c","recipeItemId":115247,"recipeName":"Breton Streetlight, Full Stone"}
+{"id":"01a0626f-6d13-769e-8eb3-4c4b809cbb54","recipeItemId":115248,"recipeName":"Breton Streetlight, Full"}
+{"id":"01a0626f-6d13-7482-9240-b5e2d7620b80","recipeItemId":115254,"recipeName":"Breton Chandelier, Wrought Iron"}
+{"id":"01a0626f-6d13-7357-8aa3-f7323eeb549a","recipeItemId":115285,"recipeName":"Dark Elf Candle, Claw Base"}
+{"id":"01a0626f-6d13-745d-b61c-019d12efa4fd","recipeItemId":115286,"recipeName":"Dark Elf Lantern, Oil"}
+{"id":"01a0626f-6d13-7ac5-b105-247fe37c2933","recipeItemId":115313,"recipeName":"Dark Elf Lantern, Caged"}
+{"id":"01a0626f-6d13-7ee9-8840-076d639f98eb","recipeItemId":115314,"recipeName":"Dark Elf Lantern, Hanging"}
+{"id":"01a0626f-6d13-7823-b934-3e7194f86cde","recipeItemId":115315,"recipeName":"Dark Elf Streetlamp, Stone"}
+{"id":"01a0626f-6d13-7a85-ba8a-e1bdb9b273e0","recipeItemId":115316,"recipeName":"Dark Elf Streetlamps, Stone"}
+{"id":"01a0626f-6d13-7457-9bb5-d1f861e2a7f5","recipeItemId":115338,"recipeName":"Dark Elf Lantern, Ashen"}
+{"id":"01a0626f-6d13-77fe-af19-5733a31b0c09","recipeItemId":115339,"recipeName":"Dark Elf Candelabra, Angled"}
+{"id":"01a0626f-6d13-7708-a295-784a86d35cb4","recipeItemId":115340,"recipeName":"Dark Elf Candle, Votive Tray"}
+{"id":"01a0626f-6d13-7aae-b7e4-9eb3826753ad","recipeItemId":115356,"recipeName":"Nord Lantern, Cage"}
+{"id":"01a0626f-6d13-7340-aa7b-3671c52688e5","recipeItemId":115367,"recipeName":"Nord Candle, Tealight"}
+{"id":"01a0626f-6d13-71dd-b13b-67c1dcc813bd","recipeItemId":115368,"recipeName":"Nord Candleholder, Cup"}
+{"id":"01a0626f-6d13-7cce-aabb-44dc38ced7d5","recipeItemId":115369,"recipeName":"Nord Torch, Triple"}
+{"id":"01a0626f-6d13-77f1-a87e-c33db9d7fee3","recipeItemId":115393,"recipeName":"Nord Lantern, Hanging"}
+{"id":"01a0626f-6d13-78b9-888b-52286a16436c","recipeItemId":115415,"recipeName":"Nord Candle, Antler"}
+{"id":"01a0626f-6d13-71d8-883d-978076193e3b","recipeItemId":115416,"recipeName":"Nord Chandelier, Antler"}
+{"id":"01a0626f-6d13-7810-9601-c74804a39a39","recipeItemId":115417,"recipeName":"Nord Streetlamps, Stone"}
+{"id":"01a0626f-6d13-7e43-813e-73696a5d3e31","recipeItemId":115418,"recipeName":"Nord Lamppost, Stone"}
+{"id":"01a0626f-6d13-7bfd-b912-0261ad8984fc","recipeItemId":115419,"recipeName":"Nord Brazier, Hanging"}
+{"id":"01a0626f-6d13-77d7-8ffe-3935a8c6e27f","recipeItemId":115493,"recipeName":"Argonian Lamppost"}
+{"id":"01a0626f-6d13-74ed-b3f4-6aa3249c6c2f","recipeItemId":115529,"recipeName":"Argonian Lanterns, String"}
+{"id":"01a0626f-6d13-7424-8bf1-2f75a1b012a6","recipeItemId":115530,"recipeName":"Argonian Lanterns, Strand"}
+{"id":"01a0626f-6d13-7fba-8441-2300dc6e890e","recipeItemId":115531,"recipeName":"Argonian Light, Stick"}
+{"id":"01a0626f-6d13-772f-b5b0-f48b64208f95","recipeItemId":115532,"recipeName":"Argonian Lamp, Mud"}
+{"id":"01a0626f-6d13-7496-ac4b-d3920bcf3331","recipeItemId":115533,"recipeName":"Argonian Brazier, Mud"}
+{"id":"01a0626f-6d13-7c8b-af89-7e3fc8b9b08e","recipeItemId":115534,"recipeName":"Argonian Lights, Branch"}
+{"id":"01a0626f-6d13-7082-83d4-dde7a7aeb992","recipeItemId":115545,"recipeName":"Argonian Tree of Lights"}
+{"id":"01a0626f-6d13-79b2-8ce7-d860fe76d4bd","recipeItemId":115637,"recipeName":"Khajiit Firepit, Brick"}
+{"id":"01a0626f-6d13-7856-88cf-5fdf8cc6e11d","recipeItemId":115649,"recipeName":"Khajiit Candle, Clawfoot"}
+{"id":"01a0626f-6d13-7f8f-8d16-3f0115b4e3ca","recipeItemId":115670,"recipeName":"Khajiit Brazier, Claw"}
+{"id":"01a0626f-6d13-7767-8323-8caa849c03cf","recipeItemId":115672,"recipeName":"Khajiit Lantern, Hanging"}
+{"id":"01a0626f-6d13-704c-a9f9-b42e2138176e","recipeItemId":115697,"recipeName":"Khajiit Candles, Clawfoot"}
+{"id":"01a0626f-6d13-742b-8b67-18f8e83cddf4","recipeItemId":115702,"recipeName":"Khajiit Brazier, Hanging"}
+{"id":"01a0626f-6d13-7bc9-a455-1130272c0891","recipeItemId":115704,"recipeName":"Khajiit Sconce, Spiked"}
+{"id":"01a0626f-6d13-7539-9d29-8f73d3737944","recipeItemId":115711,"recipeName":"Khajiit Candle-Filled Lamp"}
+{"id":"01a0626f-6d13-779d-b201-dcc4d64e774d","recipeItemId":116372,"recipeName":"Orcish Brazier, Smoldering"}
+{"id":"01a0626f-6d13-780c-9bf5-06e623ece17d","recipeItemId":116373,"recipeName":"Orcish Lantern, Hooded"}
+{"id":"01a0626f-6d13-77e8-81c0-04e5b0d2e497","recipeItemId":116376,"recipeName":"Breton Chamberstick, Short"}
+{"id":"01a0626f-6d13-7aa5-b30b-202e1adcc60e","recipeItemId":116377,"recipeName":"Breton Chamberstick, Tall"}
+{"id":"01a0626f-6d13-74f7-9249-ac8cf7d715eb","recipeItemId":116411,"recipeName":"Orcish Lantern, Hanging"}
+{"id":"01a0626f-6d13-7f13-b4d3-0926b66aa364","recipeItemId":116412,"recipeName":"Orcish Brazier, Pedestal"}
+{"id":"01a0626f-6d13-7985-aa30-6e4577b83275","recipeItemId":116413,"recipeName":"Orcish Chandelier, Practical"}
+{"id":"01a0626f-6d13-7142-98f3-fb419c0fc96b","recipeItemId":116414,"recipeName":"Orcish Sconce, Caged"}
+{"id":"01a0626f-6d13-7d10-aec8-8e105a00759e","recipeItemId":116460,"recipeName":"Orcish Candleholder, Horn"}
+{"id":"01a0626f-6d13-7957-a645-ded60a5e666e","recipeItemId":116461,"recipeName":"Orcish Candlestick, Horn"}
+{"id":"01a0626f-6d13-7864-8f09-8fd322630671","recipeItemId":116462,"recipeName":"Orcish Candle Sconce, Horn"}
+{"id":"01a0626f-6d13-7e2c-b977-92cf4022d551","recipeItemId":116463,"recipeName":"Orcish Brazier, Bordered"}
+{"id":"01a0626f-6d13-71a3-9171-74757d3a6f41","recipeItemId":116464,"recipeName":"Orcish Brazier, Hanging"}
+{"id":"01a0626f-6d13-7899-b24e-2624308165af","recipeItemId":116465,"recipeName":"Orcish Brazier, Tabletop"}
+{"id":"01a0626f-6d13-7663-9423-dff13ad99aa5","recipeItemId":116466,"recipeName":"Orcish Brazier, Floor"}
+{"id":"01a0626f-6d13-752b-94fa-f6069a13023f","recipeItemId":116467,"recipeName":"Orcish Sconce, Bordered"}
+{"id":"01a0626f-6d13-7d25-b43e-8f96656482f8","recipeItemId":116468,"recipeName":"Orcish Sconce, Scrolled"}
+{"id":"01a0626f-6d13-781a-9904-ba808c2557af","recipeItemId":116478,"recipeName":"Orcish Chandelier, Spiked"}
+{"id":"01a0626f-6d13-7dd0-bc8c-79d3378ef60f","recipeItemId":116516,"recipeName":"Orcish Brazier, Pillar"}
+{"id":"01a0626f-6d13-7d78-93dd-7278e8a86527","recipeItemId":117696,"recipeName":"Redguard Candlestick, Practical"}
+{"id":"01a0626f-6d13-7e41-bae3-336fb4f5a9b4","recipeItemId":117697,"recipeName":"Redguard Candleholder, Practical"}
+{"id":"01a0626f-6d13-771c-acdf-8898420d76f0","recipeItemId":117698,"recipeName":"Redguard Candelabra, Practical"}
+{"id":"01a0626f-6d13-7b43-a6df-a0e51fa895f1","recipeItemId":117744,"recipeName":"Redguard Sconce, Polished"}
+{"id":"01a0626f-6d13-75e2-864b-0e5e7920e6a3","recipeItemId":117749,"recipeName":"Redguard Streetlamp, Single"}
+{"id":"01a0626f-6d13-7a3e-9e5d-9a4e508ed213","recipeItemId":117750,"recipeName":"Redguard Streetlamps, Paired"}
+{"id":"01a0626f-6d13-745a-8cc1-3affcaf68742","recipeItemId":117751,"recipeName":"Redguard Streetlamps, Triple"}
+{"id":"01a0626f-6d13-701e-ab9d-073caef627ed","recipeItemId":117752,"recipeName":"Redguard Brazier, Robust"}
+{"id":"01a0626f-6d13-7b60-920c-64263d077d62","recipeItemId":117753,"recipeName":"Redguard Candlestick, Polished"}
+{"id":"01a0626f-6d13-767a-877c-c238475e1aee","recipeItemId":117754,"recipeName":"Redguard Candleholder, Polished"}
+{"id":"01a0626f-6d13-7b07-98bc-8f11c120d687","recipeItemId":117771,"recipeName":"Redguard Brazier, Garish"}
+{"id":"01a0626f-6d13-775e-9c8c-500868d26c12","recipeItemId":117817,"recipeName":"Redguard Lantern, Delicate"}
+{"id":"01a0626f-6d13-7f09-ad45-1613601be846","recipeItemId":117818,"recipeName":"Redguard Streetlamps, Full"}
+{"id":"01a0626f-6d13-77f9-92de-4845b1887459","recipeItemId":117819,"recipeName":"Redguard Candelabra, Twisted"}
+{"id":"01a0626f-6d13-727d-a708-cdb54180f137","recipeItemId":117820,"recipeName":"Redguard Candelabra, Polished"}
+{"id":"01a0626f-6d13-7620-bd6e-35c992e1f63d","recipeItemId":117821,"recipeName":"Redguard Chandelier, Polished"}
+{"id":"01a0626f-6d13-7ecf-943f-a2a58e6d8dec","recipeItemId":117822,"recipeName":"Redguard Chandelier, Polished Grated"}
+{"id":"01a0626f-6d13-70a7-998b-478485e7d7e8","recipeItemId":117825,"recipeName":"Redguard Firepit, Stone"}
+{"id":"01a0626f-6d13-7632-8176-8635b0381662","recipeItemId":117829,"recipeName":"Redguard Brazier, Enchanted"}
+{"id":"01a0626f-6d13-786c-9e24-1997e3cfbc2b","recipeItemId":117835,"recipeName":"Redguard Lamp, Oil"}
+{"id":"01a0626f-6d13-7e2e-9531-c37d0cb82a6f","recipeItemId":117857,"recipeName":"Redguard Lantern, Cannister"}
+{"id":"01a0626f-6d13-7cf6-851c-a23a7522d477","recipeItemId":117858,"recipeName":"Redguard Lamp, Caged"}
+{"id":"01a0626f-6d13-7b5f-96db-e687d7e5ffdb","recipeItemId":117859,"recipeName":"Redguard Lantern, Caged"}
+{"id":"01a0626f-6d13-729f-b916-6507dbebc9e0","recipeItemId":117860,"recipeName":"Redguard Lantern, Caged Stand"}
+{"id":"01a0626f-6d13-787d-acf3-0a8bde1dd321","recipeItemId":117910,"recipeName":"Redguard Chandelier, Dark"}
+{"id":"01a0626f-6d13-7ccb-a97e-5081cd1f5c9b","recipeItemId":117911,"recipeName":"Redguard Chandelier, Grated"}
+{"id":"01a0626f-6d13-7110-a980-4b1fa27d7636","recipeItemId":118036,"recipeName":"Common Candle, Set"}
+{"id":"01a0626f-6d13-7a5a-8ac0-9b6f4a9e9bf3","recipeItemId":118037,"recipeName":"Common Candles, Pair"}
+{"id":"01a0626f-6d13-73e3-9294-3bcff7e00e6b","recipeItemId":118038,"recipeName":"Common Candle, Lasting"}
+{"id":"01a0626f-6d13-7556-8157-acab9d587baf","recipeItemId":118041,"recipeName":"Common Lantern, Hanging"}
+{"id":"01a0626f-6d13-7a5e-af87-5575fb2bc858","recipeItemId":118042,"recipeName":"Common Lantern, Stationary"}
+{"id":"01a0626f-6d13-72dd-bc4e-340ec0659a27","recipeItemId":118053,"recipeName":"Common Campfire, Outdoor"}
+{"id":"01a0626f-6d13-78ae-a710-2f37e8b0b320","recipeItemId":118054,"recipeName":"Common Firepit, Outdoor"}
+{"id":"01a0626f-6d13-7692-8fd7-0d034a1097c1","recipeItemId":118055,"recipeName":"Common Firepit, Piled"}
+{"id":"01a0626f-6d13-7bd8-9851-381a3a420469","recipeItemId":118114,"recipeName":"Candle, Group"}
+{"id":"01a0626f-6d13-7f90-9cf8-119327cb76aa","recipeItemId":118115,"recipeName":"Lantern, Stationary"}
+{"id":"01a0626f-6d13-71f7-9719-a63666f8aeaf","recipeItemId":118116,"recipeName":"Lantern, Hanging"}
+{"id":"01a0626f-6d13-7812-b1a9-96c9a204b298","recipeItemId":118118,"recipeName":"Candles, Lasting"}
+{"id":"01a0626f-6d13-7136-9bf7-d747d477c852","recipeItemId":118198,"recipeName":"Candle Set, Ritual"}
+{"id":"01a0626f-6d13-70b0-8c84-4966ba1baac6","recipeItemId":126125,"recipeName":"Daedric Candles, Ritual Set"}
+{"id":"01a0626f-6d13-7a6b-a789-8d9579387ff9","recipeItemId":126126,"recipeName":"Daedric Candles, Group"}
+{"id":"01a0626f-6d13-7707-b28c-bd3cc87caa0a","recipeItemId":126134,"recipeName":"Dwarven Lamppost, Powered"}
+{"id":"01a0626f-6d13-7695-8543-4e659145eb53","recipeItemId":126135,"recipeName":"Dwarven Sconce, Powered"}
+{"id":"01a0626f-6d13-7985-a76e-1ac59e842db9","recipeItemId":126147,"recipeName":"Velothi Brazier, Temple"}
+{"id":"01a0626f-6d13-70bd-9a6d-5cccb1a09283","recipeItemId":126358,"recipeName":"Dres Lantern, Stationary"}
+{"id":"01a0626f-6d13-769a-917e-a34efc4d89da","recipeItemId":126359,"recipeName":"Dres Lamp, Portable"}
+{"id":"01a0626f-6d13-792a-ba15-b106a5ec6621","recipeItemId":126367,"recipeName":"Indoril Brazier, Knotwork"}
+{"id":"01a0626f-6d13-76c8-92e6-49642eeeb07b","recipeItemId":126368,"recipeName":"Indoril Chandelier, Knotwork"}
+{"id":"01a0626f-6d13-742a-a0d7-3527c6bcb295","recipeItemId":126369,"recipeName":"Indoril Lantern, Hanging"}
+{"id":"01a0626f-6d13-72eb-8ef0-b8ee35978353","recipeItemId":126370,"recipeName":"Dres Candles, Meditation"}
+{"id":"01a0626f-6d13-7e42-a34e-2e7d45bcd43c","recipeItemId":126371,"recipeName":"Indoril Streetlight, Brick"}
+{"id":"01a0626f-6d13-74e8-8691-77fd3228bc4e","recipeItemId":126433,"recipeName":"Indoril Brazier, Cauldron"}
+{"id":"01a0626f-6d13-7f35-a090-7468c92c5ebe","recipeItemId":126434,"recipeName":"Indoril Brazier, Pedestal"}
+{"id":"01a0626f-6d14-7e4d-bd1d-bd8f845e957a","recipeItemId":126471,"recipeName":"Telvanni Lantern, Organic Azure"}
+{"id":"01a0626f-6d14-7df3-8d63-29d8c4a9ee1c","recipeItemId":126472,"recipeName":"Telvanni Sconce, Organic Azure"}
+{"id":"01a0626f-6d14-7324-8445-77335294a155","recipeItemId":126473,"recipeName":"Telvanni Lamp, Organic Azure"}
+{"id":"01a0626f-6d14-7533-82db-98a89c6a5f44","recipeItemId":126474,"recipeName":"Telvanni Arched Light, Organic Azure"}
+{"id":"01a0626f-6d14-7146-962b-8914eb4f3762","recipeItemId":126480,"recipeName":"Telvanni Candelabra, Organic"}
+{"id":"01a0626f-6d14-71f3-ac75-32787ce8740a","recipeItemId":126482,"recipeName":"Hlaalu Lantern, Oversized Vellum"}
+{"id":"01a0626f-6d14-7cc5-a514-d215d4d66c77","recipeItemId":126483,"recipeName":"Hlaalu Lantern, Classic Vellum"}
+{"id":"01a0626f-6d14-7465-9073-766e54d625f0","recipeItemId":126484,"recipeName":"Hlaalu Lantern, Modest Vellum"}
+{"id":"01a0626f-6d14-73cb-a10d-9c8e36a3d914","recipeItemId":126485,"recipeName":"Hlaalu Sconce, Vellum"}
+{"id":"01a0626f-6d14-724e-9b17-3305b024ff76","recipeItemId":126486,"recipeName":"Hlaalu Streetlight, Vellum"}
+{"id":"01a0626f-6d14-7203-86ac-1a737f750e03","recipeItemId":126487,"recipeName":"Indoril Brazier, Kettle"}
+{"id":"01a0626f-6d14-73a3-82e5-e43d3f9ee9a7","recipeItemId":126488,"recipeName":"Indoril Candelabra, Temple"}
+{"id":"01a0626f-6d14-74a9-87ca-7a673c1b73a5","recipeItemId":126489,"recipeName":"Indoril Candelabra, Shrine"}
+{"id":"01a0626f-6d14-7129-8604-1173a39a70c6","recipeItemId":126490,"recipeName":"Indoril Sconce, Temple"}
+{"id":"01a0626f-6d14-7776-875d-9a2f86cbe4ed","recipeItemId":126491,"recipeName":"Indoril Sconce, Shrine"}
+{"id":"01a0626f-6d14-791b-8273-fea2be71e12e","recipeItemId":126492,"recipeName":"Indoril Candelabra, Shrine Chamber"}
+{"id":"01a0626f-6d14-7b77-b864-a5c1664cde49","recipeItemId":126493,"recipeName":"Indoril Candelabra, Temple Chamber"}
+{"id":"01a0626f-6d14-7dce-a67c-6fbf4ff26c8f","recipeItemId":126494,"recipeName":"Indoril Candle, Temple"}
+{"id":"01a0626f-6d14-7c42-a4fd-b9c2e51805a3","recipeItemId":126556,"recipeName":"Indoril Lightpost, Stone"}
+{"id":"01a0626f-6d14-77e8-867f-6de7f16e68b8","recipeItemId":126557,"recipeName":"Indoril Streetlight, Full Stone"}
+{"id":"01a0626f-6d14-7c77-869d-ab0aa9959dd3","recipeItemId":126558,"recipeName":"Indoril Streetlight, Stone"}
+{"id":"01a0626f-6d14-7f3e-964b-f38307c5c0a1","recipeItemId":126673,"recipeName":"Dwarven Candles, Cup"}
+{"id":"01a0626f-6d14-75cf-87d8-7ca2095cac91","recipeItemId":126674,"recipeName":"Dwarven Candles, Plate"}
+{"id":"01a0626f-6d14-77f2-aa8b-5af99ea909bd","recipeItemId":126675,"recipeName":"Dwarven Candlestick, Laboratory"}
+{"id":"01a0626f-6d14-7280-82b3-e3dac0205192","recipeItemId":126676,"recipeName":"Dwarven Candlestick, Orrery"}
+{"id":"01a0626f-6d14-7f38-b1f8-4888ffc7ef76","recipeItemId":126679,"recipeName":"Dwarven Chandelier, Framework"}
+{"id":"01a0626f-6d14-7fb9-a582-b054efb821c9","recipeItemId":126680,"recipeName":"Dwarven Chandelier, Braced"}
+{"id":"01a0626f-6d14-7fd4-be2b-26494a5672f8","recipeItemId":126681,"recipeName":"Dwarven Chandelier, Barred"}
+{"id":"01a0626f-6d14-7469-bd6d-5010950f9887","recipeItemId":126682,"recipeName":"Dwarven Chandelier, Caged"}
+{"id":"01a0626f-6d14-7c6c-8631-30c4bcd3ee2e","recipeItemId":126683,"recipeName":"Dwarven Sconce, Barred"}
+{"id":"01a0626f-6d14-73ed-8727-3cb0b95adf48","recipeItemId":126684,"recipeName":"Dwarven Sconce, Framework"}
+{"id":"01a0626f-6d14-796f-ad6d-080a820807a7","recipeItemId":126695,"recipeName":"Dwarven Lantern, Oil"}
+{"id":"01a0626f-6d14-7f20-9630-d8f6b7756ecb","recipeItemId":126697,"recipeName":"Daedric Chandelier, Ritual"}
+{"id":"01a0626f-6d14-7979-9423-41e7aae12e83","recipeItemId":126698,"recipeName":"Daedric Brazier, Standing"}
+{"id":"01a0626f-6d14-7489-85b4-b95ab876a0d0","recipeItemId":126699,"recipeName":"Daedric Brazier, Table"}
+{"id":"01a0626f-6d14-79f1-9b63-0d437503ed95","recipeItemId":130076,"recipeName":"Daedric Brazier, Coldharbour"}
+{"id":"01a0626f-6d14-7958-b88d-c11d1d12f5d6","recipeItemId":130214,"recipeName":"Ayleid Brazier, Fiery"}
+{"id":"01a0626f-6d14-7180-ba65-5fb42032a932","recipeItemId":130326,"recipeName":"Witches Brazier, Primitive Log"}
+{"id":"01a0626f-6d14-7dc7-ae44-a17d5da0cbf7","recipeItemId":130329,"recipeName":"Primal Brazier, Rock Slab"}
+{"id":"01a0626f-6d14-796d-a9af-151b35627ef2","recipeItemId":132164,"recipeName":"Telvanni Candelabra, Masterwork"}
+{"id":"01a0626f-6d14-7ef8-8ca2-2f94a07c1d6b","recipeItemId":134324,"recipeName":"Clockwork Lamppost, Gas"}
+{"id":"01a0626f-6d14-774d-94ef-c7afac410d43","recipeItemId":134367,"recipeName":"Clockwork Illuminator, Personal Desk"}
+{"id":"01a0626f-6d14-7893-8f14-79c2ee0293d2","recipeItemId":134368,"recipeName":"Clockwork Illuminator, Solitary Capsule"}
+{"id":"01a0626f-6d14-792c-95a3-06225e0178b3","recipeItemId":134369,"recipeName":"Clockwork Illuminator, Powered Capsule"}
+{"id":"01a0626f-6d14-7d5b-b4ff-87c2998823d5","recipeItemId":134370,"recipeName":"Clockwork Illuminator, Capsule Tower"}
+{"id":"01a0626f-6d14-7102-bd2b-286b3ae72062","recipeItemId":134371,"recipeName":"Clockwork Illuminator, Compact Stand"}
+{"id":"01a0626f-6d14-7f7a-9558-45ab2585becc","recipeItemId":134372,"recipeName":"Clockwork Illuminator, Compact"}
+{"id":"01a0626f-6d14-7906-bb3e-67ffd9f4eef4","recipeItemId":139168,"recipeName":"Psijic Lighting Globe, Small"}
+{"id":"01a0626f-6d14-7d8a-9fb6-a7300c5bda99","recipeItemId":139172,"recipeName":"Psijic Lighting Globe, Large"}
+{"id":"01a0626f-6d14-71f7-ba4a-4f6190a52210","recipeItemId":139196,"recipeName":"Alinor Sconce, Arched"}
+{"id":"01a0626f-6d14-765f-a50e-fc881570c002","recipeItemId":139197,"recipeName":"Alinor Sconce, Crenellated"}
+{"id":"01a0626f-6d14-7bee-a0b3-c2e9916fda4c","recipeItemId":139198,"recipeName":"Alinor Lantern, Hanging"}
+{"id":"01a0626f-6d14-7670-838a-62ef2e553c71","recipeItemId":139199,"recipeName":"Alinor Lantern, Stationary"}
+{"id":"01a0626f-6d14-76f9-b1ed-acb63a986bcb","recipeItemId":139200,"recipeName":"Alinor Sconce, Wrought Glass"}
+{"id":"01a0626f-6d14-7dca-96a2-140966b7c549","recipeItemId":139201,"recipeName":"Alinor Sconce, Arched Glass"}
+{"id":"01a0626f-6d14-733d-944a-d3e112b343cc","recipeItemId":139202,"recipeName":"Alinor Sconce, Lantern"}
+{"id":"01a0626f-6d14-722b-ab22-01db330bac67","recipeItemId":139203,"recipeName":"Alinor Brazier, Standing Coals"}
+{"id":"01a0626f-6d14-7e37-a9d0-a09a0f2eee85","recipeItemId":139204,"recipeName":"Alinor Brazier, Noble"}
+{"id":"01a0626f-6d14-787d-9f70-ed3d2467a215","recipeItemId":139205,"recipeName":"Alinor Candelabra, Wrought Iron"}
+{"id":"01a0626f-6d14-7567-84aa-d2884258b61d","recipeItemId":139206,"recipeName":"Alinor Sconce, Candles"}
+{"id":"01a0626f-6d14-79d4-9110-fd19fb14ae6a","recipeItemId":139207,"recipeName":"Alinor Sconce, Candles Tall"}
+{"id":"01a0626f-6d14-75b4-a606-0fc5f5478f36","recipeItemId":139208,"recipeName":"Alinor Candles, Tall Stand"}
+{"id":"01a0626f-6d14-790d-84af-039e32fc58a1","recipeItemId":139209,"recipeName":"Alinor Candles, Stand"}
+{"id":"01a0626f-6d14-7185-8e71-3372e4af32c4","recipeItemId":139210,"recipeName":"Alinor Brazier, Hanging Coals"}
+{"id":"01a0626f-6d14-7614-8340-d672c1a60d4d","recipeItemId":139211,"recipeName":"Alinor Streetlight, Paired Wrought Iron"}
+{"id":"01a0626f-6d14-7748-a8b9-42bd68ee3aa0","recipeItemId":139212,"recipeName":"Alinor Streetlight, Wrought Iron"}
+{"id":"01a0626f-6d14-7ce6-b834-54361066c224","recipeItemId":145330,"recipeName":"Murkmire Brazier, Engraved"}
+{"id":"01a0626f-6d14-7fbd-a42e-dbe34fd1bcac","recipeItemId":145340,"recipeName":"Murkmire Brazier, Bowl"}
+{"id":"01a0626f-6d14-7418-a0b5-3bc490eb733b","recipeItemId":145361,"recipeName":"Murkmire Lantern, Covered"}
+{"id":"01a0626f-6d14-78e0-83b9-7da80b10aea8","recipeItemId":145362,"recipeName":"Murkmire Lamp, Hanging Bottle"}
+{"id":"01a0626f-6d14-7805-8ec8-00537e2becd8","recipeItemId":145363,"recipeName":"Murkmire Lamp, Hanging Conch"}
+{"id":"01a0626f-6d14-7e7b-9c64-df17de67dbe4","recipeItemId":145364,"recipeName":"Murkmire Sconce, Shell"}
+{"id":"01a0626f-6d14-7456-8fa4-9e464b5456ef","recipeItemId":145365,"recipeName":"Murkmire Brazier, Shell"}
+{"id":"01a0626f-6d14-72aa-a115-6f18be14f416","recipeItemId":145366,"recipeName":"Murkmire Candle, Standing Shell"}
+{"id":"01a0626f-6d14-7fba-98d8-5dbcae768383","recipeItemId":145367,"recipeName":"Murkmire Candlepost, Timber"}
+{"id":"01a0626f-6d14-71b3-9575-f741d59388b4","recipeItemId":145368,"recipeName":"Murkmire Candlepost, Driftwood"}
+{"id":"01a0626f-6d14-7133-93ed-2b9eb991d18e","recipeItemId":145369,"recipeName":"Murkmire Candles, Bone Group"}
+{"id":"01a0626f-6d14-767b-93b1-b51604b29a2f","recipeItemId":145370,"recipeName":"Murkmire Candle, Bone Tall"}
+{"id":"01a0626f-6d14-7106-a34a-7d470d77fc1e","recipeItemId":145371,"recipeName":"Murkmire Candle, Bone Squat"}
+{"id":"01a0626f-6d14-7d5e-b0ed-fca5b704154b","recipeItemId":147596,"recipeName":"Hlaalu Salt Lamp, Enchanted"}
+{"id":"01a0626f-6d14-75cf-ae0a-db65745ea0b3","recipeItemId":147598,"recipeName":"Hlaalu Stove, Chiminea"}
+{"id":"01a0626f-6d14-740b-9209-fd4ceeaadf66","recipeItemId":151728,"recipeName":"Elsweyr Brazier, Ribbed"}
+{"id":"01a0626f-6d14-7a4c-ae74-5a7ec882e45c","recipeItemId":151729,"recipeName":"Elsweyr Brazier, Embellished"}
+{"id":"01a0626f-6d14-7f00-b007-27be2f3e0dbe","recipeItemId":151730,"recipeName":"Elsweyr Brazier, Tall"}
+{"id":"01a0626f-6d14-7c73-979a-bc30d2e399ea","recipeItemId":151731,"recipeName":"Elsweyr Brazier, Massive"}
+{"id":"01a0626f-6d14-7b7f-939f-daba8219f16e","recipeItemId":151732,"recipeName":"Elsweyr Lightpost, Ancient Stone"}
+{"id":"01a0626f-6d14-7197-b479-018f34c000fe","recipeItemId":151733,"recipeName":"Elsweyr Streetlight, Inlaid Stone"}
+{"id":"01a0626f-6d14-715f-812f-db373c5354c4","recipeItemId":151734,"recipeName":"Elsweyr Lightpost, Ancient Tall"}
+{"id":"01a0626f-6d14-7f4e-90c8-38309ffacdcb","recipeItemId":151735,"recipeName":"Elsweyr Lightpost, Ancient Sturdy"}
+{"id":"01a0626f-6d14-7401-bf5f-a959dc465d8a","recipeItemId":151736,"recipeName":"Elsweyr Candle, Column"}
+{"id":"01a0626f-6d14-71ac-bea4-b1758b5a7ae3","recipeItemId":151737,"recipeName":"Elsweyr Lantern, Hanging Twist"}
+{"id":"01a0626f-6d14-7367-ba83-797c80ed0d40","recipeItemId":151738,"recipeName":"Elsweyr Lantern, Metal Ring"}
+{"id":"01a0626f-6d14-7d2e-a0cb-4090763b5603","recipeItemId":151739,"recipeName":"Elsweyr Candle, Saucer"}
+{"id":"01a0626f-6d14-7492-b15c-3ab5337d6d59","recipeItemId":151740,"recipeName":"Elsweyr Sconce, Candle Elegant"}
+{"id":"01a0626f-6d14-7dfc-b780-0f0c6959f6dd","recipeItemId":151741,"recipeName":"Elsweyr Sconce, Candle Engraved"}
+{"id":"01a0626f-6d14-7bef-a315-6b1cc16f701f","recipeItemId":151742,"recipeName":"Elsweyr Sconce, Candle Carved"}
+{"id":"01a0626f-6d14-7a99-b407-5063ffa7994e","recipeItemId":151743,"recipeName":"Elsweyr Sconce, Candle Shielded"}
+{"id":"01a0626f-6d14-7397-b0c0-937bee1e0d5b","recipeItemId":151744,"recipeName":"Elsweyr Lantern, Twist"}
+{"id":"01a0626f-6d14-7a6e-8fba-010d423b247b","recipeItemId":151745,"recipeName":"Hakoshae Lantern, Linked Rings"}
+{"id":"01a0626f-6d14-7032-a0e2-af106f35334a","recipeItemId":151746,"recipeName":"Hakoshae Lantern, Blue"}
+{"id":"01a0626f-6d14-7df0-be4e-bb037ea4e054","recipeItemId":151747,"recipeName":"Hakoshae Lantern, Crimson"}
+{"id":"01a0626f-6d14-7e78-b6e5-47a0ba874a94","recipeItemId":165618,"recipeName":"Vampiric Lightpost, Amber Single"}
+{"id":"01a0626f-6d14-788f-b642-10075439a423","recipeItemId":165619,"recipeName":"Vampiric Lightpost, Amber Double"}
+{"id":"01a0626f-6d14-758f-bdbf-c64ada33b9f2","recipeItemId":165620,"recipeName":"Vampiric Lamp, Amber Triple"}
+{"id":"01a0626f-6d14-75b4-92f2-51bf6d59a62a","recipeItemId":165621,"recipeName":"Vampiric Lamp, Amber Tall"}
+{"id":"01a0626f-6d14-798b-ab12-96d52eb01a07","recipeItemId":165622,"recipeName":"Vampiric Sconce, Amber"}
+{"id":"01a0626f-6d14-7b2d-a844-1d156aa78d3e","recipeItemId":165623,"recipeName":"Vampiric Chandelier, Amber Fanged"}
+{"id":"01a0626f-6d14-7adc-99cd-26a1c14d1002","recipeItemId":165624,"recipeName":"Vampiric Brazier, Taloned"}
+{"id":"01a0626f-6d14-7b98-8b52-d5902a771ba8","recipeItemId":165628,"recipeName":"Solitude Chandelier, Horns"}
+{"id":"01a0626f-6d14-78db-99e4-27828bd47391","recipeItemId":165629,"recipeName":"Solitude Chandelier, Steel"}
+{"id":"01a0626f-6d14-74d2-9143-c9e6d5cd5962","recipeItemId":165630,"recipeName":"Solitude Sconce, Wolf's-Head Lantern"}
+{"id":"01a0626f-6d14-74d0-9a98-9af807bd9560","recipeItemId":165631,"recipeName":"Solitude Sconce, Lantern"}
+{"id":"01a0626f-6d14-7e7e-b0ef-694f4f6f2d0e","recipeItemId":165632,"recipeName":"Solitude Lantern, Hanging"}
+{"id":"01a0626f-6d14-7f5e-be36-f080e29995a6","recipeItemId":165633,"recipeName":"Solitude Sconce, Wrought Iron"}
+{"id":"01a0626f-6d14-7996-b9f0-e43edc14ef98","recipeItemId":165634,"recipeName":"Solitude Sconce, Candle"}
+{"id":"01a0626f-6d14-7037-81cb-910d154cf5dd","recipeItemId":165635,"recipeName":"Solitude Sconce, Candle Embellished"}
+{"id":"01a0626f-6d14-7d27-99b0-d60f9698d9b9","recipeItemId":165636,"recipeName":"Solitude Sconce, Torch"}
+{"id":"01a0626f-6d14-74cd-a082-294524de71c0","recipeItemId":165637,"recipeName":"Solitude Sconce, Horn"}
+{"id":"01a0626f-6d14-7ac6-a07d-43f4149418d3","recipeItemId":165638,"recipeName":"Solitude Lantern, Table"}
+{"id":"01a0626f-6d14-799c-8f8c-1e1e72298da5","recipeItemId":165639,"recipeName":"Solitude Candlestick, Horn"}
+{"id":"01a0626f-6d14-7c98-8efe-22cc86b640e5","recipeItemId":165846,"recipeName":"Solitude Streetlight, Single"}
+{"id":"01a0626f-6d14-79d4-acf3-a45170eddc99","recipeItemId":165847,"recipeName":"Solitude Streetlight, Paired"}
+{"id":"01a0626f-6d14-7824-9b26-1c73c51e4828","recipeItemId":167336,"recipeName":"Vampiric Chandelier, Azure Wrought-Iron"}
+{"id":"01a0626f-6d14-7f82-85f1-b2a1172fd3f0","recipeItemId":171334,"recipeName":"Dwarven Lamp, Cylinder Cage"}
+{"id":"01a0626f-6d14-7914-b261-e2b12844534a","recipeItemId":171335,"recipeName":"Dwarven Lamp, Conal Frustum Cage"}
+{"id":"01a0626f-6d14-7b7a-9b5c-070eaf31dc9c","recipeItemId":171336,"recipeName":"Dwarven Brazier, Square Polished"}
+{"id":"01a0626f-6d14-781f-b7bb-36d6f23fd240","recipeItemId":171337,"recipeName":"Dwarven Candlestick, Polished"}
+{"id":"01a0626f-6d14-786c-8b48-d881040098e9","recipeItemId":171338,"recipeName":"Dwarven Table Lamp, Polished Dome"}
+{"id":"01a0626f-6d14-7493-ad0f-8479c3780a57","recipeItemId":171339,"recipeName":"Reachmen Chandelier, Gnarled"}
+{"id":"01a0626f-6d14-7706-b1f6-36de7b649ff0","recipeItemId":171340,"recipeName":"Reachmen Chandelier, Shaded"}
+{"id":"01a0626f-6d14-7ae3-b7a2-ed5cf254b9a5","recipeItemId":171341,"recipeName":"Dwarven Wall Lamp, Reachfolk Adorned"}
+{"id":"01a0626f-6d14-7623-8c34-891102ad1b46","recipeItemId":171410,"recipeName":"Dwarven Crystal Sconce, Mirror"}
+{"id":"01a0626f-6d14-7813-9650-8a3df162b1b7","recipeItemId":175633,"recipeName":"Leyawiin Streetlight, Carved Waves"}
+{"id":"01a0626f-6d14-7f99-a601-7a3ee769dd49","recipeItemId":175634,"recipeName":"Leyawiin Lamppost, Floral Gilded"}
+{"id":"01a0626f-6d14-7957-84c9-9a79cc325e9c","recipeItemId":175635,"recipeName":"Leyawiin Sconce, Gilded Lantern"}
+{"id":"01a0626f-6d14-74c1-9848-bf6d25cc869a","recipeItemId":175636,"recipeName":"Leyawiin Sconce, Lantern"}
+{"id":"01a0626f-6d14-72df-87fd-a739471824cf","recipeItemId":175637,"recipeName":"Leyawiin Lantern, Stationary"}
+{"id":"01a0626f-6d14-7ead-aafb-bed3c7ae10f9","recipeItemId":175638,"recipeName":"Leyawiin Lamp, Stationary"}
+{"id":"01a0626f-6d14-715b-9be0-07cfbcb3d3e1","recipeItemId":175639,"recipeName":"Leyawiin Brazier, Short Iron Serpent"}
+{"id":"01a0626f-6d14-76a3-9f71-81f38c5722b7","recipeItemId":175640,"recipeName":"Leyawiin Brazier, Tall Copper Serpent"}
+{"id":"01a0626f-6d14-7655-ae0e-b8025224deb7","recipeItemId":175641,"recipeName":"Leyawiin Brazier, Iron"}
+{"id":"01a0626f-6d14-76a8-9b07-583f05b9ac5f","recipeItemId":175642,"recipeName":"Leyawiin Brazier, Copper"}
+{"id":"01a0626f-6d14-7881-b471-78e4757b9c8d","recipeItemId":175643,"recipeName":"Leyawiin Lamp, Oil Double"}
+{"id":"01a0626f-6d14-7dff-813c-464a4c09d325","recipeItemId":175644,"recipeName":"Leyawiin Lamp, Oil"}
+{"id":"01a0626f-6d14-752e-9faa-4c9dd074b85f","recipeItemId":175645,"recipeName":"Leyawiin Firepit, Stone"}
+{"id":"01a0626f-6d14-735c-8272-287d7a2fa67e","recipeItemId":175646,"recipeName":"Leyawiin Chandelier, Grand Brass"}
+{"id":"01a0626f-6d14-7621-aed4-f785687ae9c5","recipeItemId":175647,"recipeName":"Leyawiin Chandelier, Brass"}
+{"id":"01a0626f-6d14-7ae6-958a-5f587c6f7cc7","recipeItemId":175648,"recipeName":"Leyawiin Chandelier, Twin Lanterns"}
+{"id":"01a0626f-6d14-7c5e-8651-7535bf699b13","recipeItemId":175716,"recipeName":"Deadlands Brazier, Bladed"}
+{"id":"01a0626f-6d14-7acb-b9fa-023ca153ef50","recipeItemId":175717,"recipeName":"Deadlands Brazier, Bladed Pillar"}
+{"id":"01a0626f-6d14-7d55-973c-bb12c9e9065a","recipeItemId":175718,"recipeName":"Deadlands Brazier, Bladed Cage"}
+{"id":"01a0626f-6d14-705e-8bb2-d8f68422906d","recipeItemId":175719,"recipeName":"Deadlands Brazier, Bladed Tall"}
+{"id":"01a0626f-6d14-7050-9707-b338d2134669","recipeItemId":181495,"recipeName":"Vampiric Lamp, Azure Triple"}
+{"id":"01a0626f-6d14-7adc-8308-8cad297622a6","recipeItemId":181496,"recipeName":"Vampiric Candlestick"}
+{"id":"01a0626f-6d14-715f-a15c-5ada8e403547","recipeItemId":181497,"recipeName":"Vampiric Sconce, Azure"}
+{"id":"01a0626f-6d14-7f87-8a54-fa1355fa0548","recipeItemId":181508,"recipeName":"Leyawiin Lightpost, Ornate"}
+{"id":"01a0626f-6d14-7775-bf6a-fe5466fc3952","recipeItemId":182235,"recipeName":"Deadlands Brazier, Large Etched"}
+{"id":"01a0626f-6d14-79c4-bbbe-4187fb7a241f","recipeItemId":182236,"recipeName":"Deadlands Candelabra, Tall Caged"}
+{"id":"01a0626f-6d14-739d-9c89-d1886695b5cf","recipeItemId":182237,"recipeName":"Deadlands Candelabra, Tall"}
+{"id":"01a0626f-6d14-79f0-9572-cb46d7c5ead1","recipeItemId":182238,"recipeName":"Deadlands Crystal Brazier"}
+{"id":"01a0626f-6d14-7935-a9e9-1a7a1331f9e4","recipeItemId":182239,"recipeName":"Deadlands Candleholder, Etched"}
+{"id":"01a0626f-6d14-71d5-a408-aaabed1c2ba2","recipeItemId":182240,"recipeName":"Deadlands Sconce, Large"}
+{"id":"01a0626f-6d14-7765-9206-dd18ca8983f2","recipeItemId":182241,"recipeName":"Deadlands Wall Spikes"}
+{"id":"01a0626f-6d14-7e77-88b6-99fe5cd1a724","recipeItemId":184092,"recipeName":"Fargrave Window, Medallion"}
+{"id":"01a0626f-6d14-7d0a-b07e-dbba8951e4a9","recipeItemId":184098,"recipeName":"Fargrave Water Globules, Static"}
+{"id":"01a0626f-6d14-7983-bd67-a56c3c16c6c2","recipeItemId":184099,"recipeName":"Fargrave Window, Grand Medallion"}
+{"id":"01a0626f-6d14-7e62-a7d0-3afc7a351896","recipeItemId":187797,"recipeName":"High Isle Lantern, Table"}
+{"id":"01a0626f-6d14-78d8-b565-9a658b590a04","recipeItemId":187841,"recipeName":"High Isle Brazier, Bowl"}
+{"id":"01a0626f-6d14-7c47-9717-cc8af60ca5db","recipeItemId":187842,"recipeName":"High Isle Brazier, Standing"}
+{"id":"01a0626f-6d14-72be-89ec-cb5ff6e9440b","recipeItemId":187843,"recipeName":"High Isle Streetlight, Paired"}
+{"id":"01a0626f-6d14-7f91-bd55-4a3b09b24eb9","recipeItemId":187844,"recipeName":"High Isle Sconce, Ornate"}
+{"id":"01a0626f-6d14-702e-ab56-0c89e178bb97","recipeItemId":187845,"recipeName":"High Isle Sconce, Glass"}
+{"id":"01a0626f-6d14-7594-88b9-6c683892e18b","recipeItemId":191162,"recipeName":"Druidic Gourd Candles, Stone"}
+{"id":"01a0626f-6d14-790a-b729-e995876dbc10","recipeItemId":191163,"recipeName":"Druidic Hearth, Stone"}
+{"id":"01a0626f-6d14-7cae-81d2-0338cfefbf72","recipeItemId":191200,"recipeName":"Druidic Chandelier, Firesong"}
+{"id":"01a0626f-6d14-700a-988c-ffd27b723630","recipeItemId":191201,"recipeName":"Druidic Gourd Candle, Hanging"}
+{"id":"01a0626f-6d14-767f-9757-db43b2d7d57c","recipeItemId":193807,"recipeName":"Resonance Crystal, Cerulean"}
+{"id":"01a0626f-6d14-70cb-b8dd-f22a3b688d33","recipeItemId":197496,"recipeName":"Necrom Firepit, Elegant"}
+{"id":"01a0626f-6d14-7de7-9939-e1362f4f89e8","recipeItemId":197497,"recipeName":"Necrom Lamppost, Elegant"}
+{"id":"01a0626f-6d14-7f14-8fca-1d7a39aad0f7","recipeItemId":197498,"recipeName":"Necrom Sconce, Elegant"}
+{"id":"01a0626f-6d14-75ff-ad12-093e70fc2264","recipeItemId":197499,"recipeName":"Necrom Lamp, Elegant"}
+{"id":"01a0626f-6d14-74a9-91a6-cbf9780163a7","recipeItemId":197500,"recipeName":"Necrom Lamp, Elegant Standing"}
+{"id":"01a0626f-6d14-75e2-a3b8-2a6c86489665","recipeItemId":197524,"recipeName":"Telvanni Candles, Fungal Group"}
+{"id":"01a0626f-6d14-7007-8d3e-dfb0701e360e","recipeItemId":197532,"recipeName":"Telvanni Chandelier, Fungal"}
+{"id":"01a0626f-6d14-75e5-9cca-8a353927dbac","recipeItemId":197533,"recipeName":"Telvanni Sconce, Fungal Wall"}
+{"id":"01a0626f-6d14-79a2-9b44-4391c8dc35a0","recipeItemId":197534,"recipeName":"Telvanni Candle, Fungal Standing"}
+{"id":"01a0626f-6d14-7299-9bb4-fbaaf1a26127","recipeItemId":197538,"recipeName":"Apocrypha Candlestick, Twisted"}
+{"id":"01a0626f-6d14-7ade-950b-4c47d897b34a","recipeItemId":197539,"recipeName":"Apocrypha Sconce, Cylindrical"}
+{"id":"01a0626f-6d14-743c-98d7-ea740ab1c112","recipeItemId":197540,"recipeName":"Apocrypha Sconce, Spiral"}
+{"id":"01a0626f-6d14-7c7c-b37a-08a00931b127","recipeItemId":197692,"recipeName":"Necrom Chandelier, Elegant"}
+{"id":"01a0626f-6d14-7759-860f-78048dcf51d2","recipeItemId":197728,"recipeName":"Necrom Candle, Large Square"}
+{"id":"01a0626f-6d14-78da-8794-b4f8a1dff5b2","recipeItemId":197729,"recipeName":"Necrom Candle, Small Square"}
+{"id":"01a0626f-6d14-7f7c-a2c0-b37836f06197","recipeItemId":197848,"recipeName":"Apocrypha Lamp, Floor"}
+{"id":"01a0626f-6d14-7bcf-a780-5a52bb249a79","recipeItemId":198011,"recipeName":"Telvanni Lantern, Luminous Mushroom"}
+{"id":"01a0626f-6d14-7b3d-8626-b0fb75891313","recipeItemId":198012,"recipeName":"Indoril Chandelier, Vine-Covered"}
+{"id":"01a0626f-6d14-7a1c-9f02-d3d9d800cf63","recipeItemId":198016,"recipeName":"Necrom Window, Leaded Interior"}
+{"id":"01a0626f-6d14-7612-a26f-0e1b63d41214","recipeItemId":198034,"recipeName":"Necrom Window, Framed Exterior"}
+{"id":"01a0626f-6d14-7b7a-ad2e-d3302f9a2e83","recipeItemId":198035,"recipeName":"Necrom Window, Unframed Exterior"}
+{"id":"01a0626f-6d14-7f04-8582-9820bb4a962e","recipeItemId":198371,"recipeName":"Necrom Lamp Post, Wood"}
+{"id":"01a0626f-6d14-79f6-8577-e79064110026","recipeItemId":198434,"recipeName":"Apocrypha Light Diffusers, Bowl"}
+{"id":"01a0626f-6d14-7e06-a9b5-453fad2f8407","recipeItemId":198435,"recipeName":"Apocrypha Lamp, Desk"}
+{"id":"01a0626f-6d14-7285-9802-208d0833a7b6","recipeItemId":198436,"recipeName":"Apocrypha Lamp, Large"}
+{"id":"01a0626f-6d14-7ef1-96e4-6552e6a27acf","recipeItemId":198437,"recipeName":"Apocrypha Chandelier, Diffusers"}
+{"id":"01a0626f-6d14-7ab0-8280-d5a47a922e40","recipeItemId":198438,"recipeName":"Apocrypha Sconce, Diffuser"}
+{"id":"01a0626f-6d14-7474-83d3-847a876e9767","recipeItemId":198439,"recipeName":"Apocrypha Sconce, Intricate"}
+{"id":"01a0626f-6d14-79f0-a061-bac66ab5688b","recipeItemId":198457,"recipeName":"Necrom Candle, Elegant"}
+{"id":"01a0626f-6d14-7313-bd8c-0f40c56906df","recipeItemId":198458,"recipeName":"Necrom Candle, Tall"}
+{"id":"01a0626f-6d14-71aa-8617-ecd93f569d1a","recipeItemId":198459,"recipeName":"Necrom Lamp Post, Metal"}
+{"id":"01a0626f-6d14-7318-b50f-f039ddb411d7","recipeItemId":198460,"recipeName":"Necrom Sconce, Brass"}
+{"id":"01a0626f-6d14-7aba-875c-07b2ba2c36b9","recipeItemId":198461,"recipeName":"Necrom Brazier, Tall Stone"}
+{"id":"01a0626f-6d14-7316-a994-94002a05b6a9","recipeItemId":203279,"recipeName":"Apocrypha Light Diffuser, Stalk"}
+{"id":"01a0626f-6d14-712b-8b62-bbc9826827aa","recipeItemId":203283,"recipeName":"Apocrypha Wall, Eye"}
+{"id":"01a0626f-6d14-721d-8447-08eef572d37b","recipeItemId":204675,"recipeName":"Colovian Lantern, Table"}
+{"id":"01a0626f-6d14-7881-8dc5-08b8a6cb537b","recipeItemId":204676,"recipeName":"Colovian Lamp, Glass"}
+{"id":"01a0626f-6d14-7b7d-9637-2b1c0e93f068","recipeItemId":204677,"recipeName":"Colovian Lamp, Brass"}
+{"id":"01a0626f-6d14-765e-b8dc-682709d59632","recipeItemId":204678,"recipeName":"Colovian Sconce, Wall"}
+{"id":"01a0626f-6d14-7c3e-8ee4-95e165f75d2f","recipeItemId":204679,"recipeName":"Colovian Brazier, Hanging"}
+{"id":"01a0626f-6d14-7e6e-b55b-98b7013bcd6e","recipeItemId":204680,"recipeName":"Colovian Brazier, Basin"}
+{"id":"01a0626f-6d14-719d-9419-5668a888adc1","recipeItemId":204681,"recipeName":"Colovian Lantern, Hanging"}
+{"id":"01a0626f-6d14-7e77-a84e-d29cdaae58a0","recipeItemId":204682,"recipeName":"Colovian Lamppost, Arched"}
+{"id":"01a0626f-6d14-7fbd-ab24-6990dbad134c","recipeItemId":204683,"recipeName":"Colovian Chandelier, Metal"}
+{"id":"01a0626f-6d14-70f6-bc38-19cfb10dbd74","recipeItemId":204684,"recipeName":"Dawnwood Lantern, Table"}
+{"id":"01a0626f-6d14-7856-9d28-c3f807388e43","recipeItemId":204685,"recipeName":"Dawnwood Lantern, Antlers"}
+{"id":"01a0626f-6d14-7ebb-afcd-ccc699b706c7","recipeItemId":204686,"recipeName":"Dawnwood Lantern String, Long"}
+{"id":"01a0626f-6d14-7abf-8c9f-6b506a45c1c6","recipeItemId":204687,"recipeName":"Dawnwood Lantern String, Short"}
+{"id":"01a0626f-6d14-72b2-b4b1-fe41aea4ed0c","recipeItemId":204688,"recipeName":"Dawnwood Lantern, Hanging"}
+{"id":"01a0626f-6d14-79d7-a4ef-db71eeaefa32","recipeItemId":204689,"recipeName":"Dawnwood Sconce, Wall"}
+{"id":"01a0626f-6d14-7a42-b6c2-7f679a6d4528","recipeItemId":204690,"recipeName":"Dawnwood Crystal Lights, Sprouted"}
+{"id":"01a0626f-6d14-749e-9c5c-00a8870ce0cc","recipeItemId":208095,"recipeName":"Colovian Window, Rectangular"}
+{"id":"01a0626f-6d14-7bb9-a907-8ee8cae0001d","recipeItemId":208096,"recipeName":"Colovian Window, Peaked"}
+{"id":"01a0626f-6d14-7584-9451-35d71879aaf8","recipeItemId":208116,"recipeName":"Colovian Chandelier, Grapes"}
+{"id":"01a0626f-6d14-7955-b1a0-321a576364dd","recipeItemId":211366,"recipeName":"Ayleid Lamp, Ornate Stone"}
+{"id":"01a0626f-6d14-7ac0-b776-00cedb08cffc","recipeItemId":211368,"recipeName":"Ayleid Chandelier, Metal Tiered"}
+{"id":"01a0626f-6d14-72d8-8008-220a0ccaf803","recipeItemId":211369,"recipeName":"Ayleid Chandelier, Sturdy Caged"}
+{"id":"01a0626f-6d14-758a-938b-80e9241898fe","recipeItemId":211370,"recipeName":"Ayleid Crystal Star"}
+{"id":"01a0626f-6d14-7fa8-98b7-ff8d0998427e","recipeItemId":211371,"recipeName":"Ayleid Sconce, Caged"}
+{"id":"01a0626f-6d14-7783-b255-06ee840a6ad4","recipeItemId":211373,"recipeName":"Ayleid Crystal, Cracked"}
+{"id":"01a0626f-6d14-7652-8752-62c62fe4d4b6","recipeItemId":211375,"recipeName":"Dawnwood Firepit, Metal"}
+{"id":"01a0626f-6d14-79ea-a554-228c126a306e","recipeItemId":211395,"recipeName":"Dawnwood Crystal Lights, Sprouted Arch"}
+{"id":"01a0626f-6d14-7582-b153-106f2a695fcb","recipeItemId":211396,"recipeName":"Dawnwood Orange Light, Tall Sprouted Arch"}
+{"id":"01a0626f-6d14-70d1-869c-2365acce8312","recipeItemId":211397,"recipeName":"Dawnwood Orange Lights, Sprouted Arch"}
+{"id":"01a0626f-6d14-77ad-a90c-0e1013023d14","recipeItemId":212559,"recipeName":"Ayleid Sconce, Winged Floor"}
+{"id":"01a0626f-6d14-7786-af83-88c06ef50cca","recipeItemId":214382,"recipeName":"Tide-Born Firepit, Stone"}
+{"id":"01a0626f-6d14-732d-bdc8-c541691bc1f4","recipeItemId":214383,"recipeName":"Tide-Born Oven, Stone"}
+{"id":"01a0626f-6d14-71e8-a4d4-2685e421ad86","recipeItemId":214423,"recipeName":"Tide-Born Chandelier, Coral"}
+{"id":"01a0626f-6d14-7079-bf8c-f3a482266c0f","recipeItemId":214424,"recipeName":"Tide-Born Candleholder, Coral"}
+{"id":"01a0626f-6d14-7331-883a-9f75f58670e9","recipeItemId":214425,"recipeName":"Tide-Born Candleholder, Stone"}
+{"id":"01a0626f-6d14-7e5d-bab3-fb0add7fda15","recipeItemId":214426,"recipeName":"Tide-Born Sconce, Coral"}
+{"id":"01a0626f-6d14-7b31-8ccf-5c99a6738518","recipeItemId":214445,"recipeName":"Tide-Born Floor Lamp, Coral"}
+{"id":"01a0626f-6d14-769a-b66a-684fe5d7caba","recipeItemId":214446,"recipeName":"Tide-Born Lamp, Coral"}
+{"id":"01a0626f-6d14-7601-a1d3-0db77ca2d731","recipeItemId":214447,"recipeName":"Tide-Born Firepit, Covered Stone"}
+{"id":"01a0626f-6d14-72e4-ac4b-5a7caf545715","recipeItemId":217982,"recipeName":"Sunport Window, Dual-Arched"}
+{"id":"01a0626f-6d14-7074-8581-6d45de016689","recipeItemId":219729,"recipeName":"Worm Cult Sconce, Jaw"}
+{"id":"01a0626f-6d14-78f3-8c48-27cb6cccd0d8","recipeItemId":219732,"recipeName":"Worm Cult Lamp, Jaw"}
+{"id":"01a0626f-6d14-764c-b606-8b7c7101e3ba","recipeItemId":219740,"recipeName":"Bonfire, Alliance Camp"}
+{"id":"01a0626f-6d14-7df9-a73f-94645d3246bc","recipeItemId":220271,"recipeName":"Worm Cult Decor, Crystal Skeleton"}
+{"id":"01a0626f-6d14-7824-8bb8-46db0f0c9a8a","recipeItemId":220291,"recipeName":"Worm Cult Brazier, Cold-Flame"}
+{"id":"01a0626f-6d14-70e7-9df2-2d44959e9a9f","recipeItemId":220292,"recipeName":"Worm Cult Chandelier, Caged Cold-Flame"}
+{"id":"01a0626f-6d14-7557-9cc8-b4628db9781a","recipeItemId":220293,"recipeName":"Worm Cult Chandelier, Bone Cold-Flame"}
+{"id":"01a0626f-6d14-702a-80aa-21fedc47fa01","recipeItemId":220294,"recipeName":"Worm Cult Lamp, Floor Cold-Flame"}
+{"id":"01a0626f-6d14-7451-8a02-63583fff9033","recipeItemId":220295,"recipeName":"Worm Cult Candelabra, Cold-Flame"}
+{"id":"01a0626f-6d14-73c1-ab02-deb22885b154","recipeItemId":220296,"recipeName":"Worm Cult Lamp, Table Cold-Flame"}
+{"id":"01a0626f-6d14-7c5a-b983-e2a71961352a","recipeItemId":220298,"recipeName":"Worm Cult Sconce, Caged Cold-Flame"}
+{"id":"01a0626f-6d14-766f-9e73-65ec6dd939f8","recipeItemId":220299,"recipeName":"Worm Cult Lightpost, Caged Cold-Flame"}
+{"id":"01a0626f-6d14-7f5c-bd65-459d9a71572b","recipeItemId":220301,"recipeName":"Worm Cult Sconce, Cold-Flame Torch"}
+{"id":"01a0626f-6d14-78bc-baae-cf681a7dcc57","recipeItemId":220342,"recipeName":"Stone-Nest Sconce, Xanmeer Snake"}
+{"id":"01a0626f-6d14-78db-8e9c-5cd7d6a60426","recipeItemId":220343,"recipeName":"Stone-Nest Sconce, Xanmeer"}
+{"id":"01a0626f-6d14-7b90-8a97-971be240eafa","recipeItemId":220344,"recipeName":"Stone-Nest Brazier, Carved Stone"}
+{"id":"01a0626f-6d14-755d-9edf-0506fe81ad1f","recipeItemId":223761,"recipeName":"Worm Cult Window, Bone"}
+{"id":"01a0626f-6d14-7ad4-ae89-d96b470411ed","recipeItemId":223859,"recipeName":"Fargrave Paper Lantern, Green Round"}
+{"id":"01a0626f-6d14-7426-a120-b3a1e41d7edd","recipeItemId":223860,"recipeName":"Fargrave Paper Lantern, Green Flat"}
+{"id":"01a0626f-6d14-78d5-bc27-709174819046","recipeItemId":223861,"recipeName":"Fargrave Paper Lantern, Red Round"}
+{"id":"01a0626f-6d14-7161-88f1-deeee63f3881","recipeItemId":223862,"recipeName":"Fargrave Paper Lantern, Red Flat"}
+{"id":"01a0626f-6d14-7fc3-8559-18336a60cd2b","recipeItemId":223863,"recipeName":"Fargrave Paper Lantern, Blue Round"}
+{"id":"01a0626f-6d14-746f-973a-5175ab0b23d0","recipeItemId":223864,"recipeName":"Fargrave Paper Lantern, Blue Flat"}
+{"id":"01a0626f-6d14-7a98-8fa6-45587f3e3271","recipeItemId":223865,"recipeName":"Fargrave Paper Lantern, Purple Round"}
+{"id":"01a0626f-6d14-7be8-a4c7-25ab612e8677","recipeItemId":223866,"recipeName":"Fargrave Paper Lantern, Purple Flat"}
+{"id":"01a0626f-6d14-757b-993b-a4fb63f6de92","recipeItemId":224101,"recipeName":"Fargrave Switch Plate, Red"}
+{"id":"01a0626f-6d14-70b8-97c6-2dc4b3367c54","recipeItemId":224102,"recipeName":"Fargrave Switch Plate, Green"}
+{"id":"01a0626f-6d14-7c8b-a585-751005e94172","recipeItemId":224103,"recipeName":"Fargrave Switch Plate, Blue"}
+{"id":"01a0626f-6d14-7e70-abeb-d0eeb449dcaa","recipeItemId":224104,"recipeName":"Fargrave Switch Plate, Yellow"}

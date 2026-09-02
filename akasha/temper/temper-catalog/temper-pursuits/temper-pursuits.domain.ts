@@ -13,6 +13,7 @@ export const temperPursuits = {
     "page-type/temper-collectible-category",
     "page-type/temper-craft-type",
     "page-type/temper-pursuit-thing",
+    "page-type/temper-recipe-list",
     "page-type/temper-research-line",
     "page-type/temper-tribute-patron",
   ],
