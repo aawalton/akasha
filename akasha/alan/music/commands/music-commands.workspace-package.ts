@@ -9,7 +9,9 @@ export const musicCommands = {
   partSlugs: [
     "command/music-listening",
     "command/music-next",
+    "command/music-now-playing",
     "command/music-play",
     "command/music-queue",
+    "command/music-search",
   ],
 } as const satisfies WorkspacePackage
