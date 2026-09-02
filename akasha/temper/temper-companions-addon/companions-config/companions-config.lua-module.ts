@@ -6,6 +6,7 @@ export const companionsConfig = {
   slug: "companions-config",
   definition: "the one name the companion add-on's saved variables are read back into",
   lua: "lua",
+  loadedAs: "TemperCompanionsConfig.lua",
   invariants: [
     {
       invariantKind: "departure",
