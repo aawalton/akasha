@@ -1,12 +1,13 @@
 export const summary = "File one finding, keyed and sited from one statement"
 
-import { existsSync, readFileSync } from "node:fs"
-import { defaultMessage, land } from "../../lib/command.ts"
+import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { tmpdir } from "node:os"
+import { join } from "node:path"
+import { defaultMessage } from "../../lib/command.ts"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import {
-  composeFinding,
   declaredDomains,
-  findingPathIn,
+  filingFor,
   findingRepo,
   kebabRefusal,
   addressRefusal,
@@ -32,14 +33,7 @@ export const help: CommandHelp = {
       argLabel: "<name>",
       valueShape: "token",
       required: true,
-      description: "The file name, without `.md`, kebab-case.",
-    },
-    {
-      name: "--title",
-      argLabel: "<text>",
-      valueShape: "line",
-      required: true,
-      description: "What the finding claims, in one line.",
+      description: "The file name, without `.finding.ts`, kebab-case.",
     },
     {
       name: "--claim-file",
@@ -78,9 +72,42 @@ export const help: CommandHelp = {
     { code: 3, meaning: "operational: the write or the commit failed" },
   ],
   examples: [
-    'ops finding create --domain domain/ops-cli --slug reaches-uncredited --title "Modules the ops CLI reaches were deleted as unreferenced, though a guard credits those reaches" --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md',
-    'ops finding create --domain domain/ops-cli --slug irreversible-spelled-twice --title "Irreversibility is stated on the document and in the code, and only the code gates" --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md --dry-run',
+    "ops finding create --domain domain/ops-cli --slug reaches-uncredited --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md",
+    "ops finding create --domain domain/ops-cli --slug irreversible-spelled-twice --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md --dry-run",
   ],
+}
+
+const CLI = "akasha/command-system/cli/cli.module.code.ts"
+
+/**
+ * The finding handed to `akasha write`, which is the only door into `akasha/`.
+ *
+ * This used to compose markdown and commit it itself, through a landing that runs no check, no
+ * warrant and no minting on the akasha repo. The gate is what mints the page's `id`, judges the
+ * claim against its 500-character limit and the evidence against its 2000, and asks for the readings
+ * a write is owed — so a finding that went around it was a page no reader of findings could trust.
+ *
+ * The body goes to a scratch file outside the root because the verb takes a file and never text said
+ * in an argument. Output is inherited rather than captured: when the gate refuses for want of a
+ * reading it names each file to read, and a refusal cut in half is one nobody can act on.
+ */
+function landed(root: string, relPath: string, body: string, message: string, dryRun: boolean): void {
+  const dir = mkdtempSync(join(tmpdir(), "finding-"))
+  try {
+    const at = join(dir, "body.ts")
+    writeFileSync(at, body, "utf8")
+    const args = ["write", "--file-path", relPath, "--content-file", at, "--message", message]
+    if (dryRun) args.push("--dry-run")
+    const ran = Bun.spawnSync([process.execPath, `${root}/${CLI}`, ...args], { stdio: ["inherit", "inherit", "inherit"] })
+    if (ran.exitCode !== 0) {
+      throw operationalError(
+        `\`akasha write\` exited ${ran.exitCode ?? "on a signal"} and ${relPath} was not written — ` +
+          "what it refused for is said above, whole"
+      )
+    }
+  } finally {
+    rmSync(dir, { recursive: true, force: true })
+  }
 }
 
 function authored(path: string, what: string): string {
@@ -114,24 +141,22 @@ export default async function findingCreate(args: readonly string[]): Promise<vo
   const undeclared = undeclaredRefusal(domain, declared)
   if (undeclared !== null) throw inputError(undeclared)
 
-  const relPath = findingPathIn(root, slug)
+  const { relPath, body } = filingFor(
+    root,
+    domain,
+    slug,
+    authored(parsed.requireString("--claim-file"), "claim").trim(),
+    authored(parsed.requireString("--evidence-file"), "evidence").trim()
+  )
   if (existsSync(`${root}/${relPath}`)) {
     throw inputError(
       `${relPath} already holds a finding — filing never overwrites a claim somebody else made`
     )
   }
-  const body = composeFinding(
-    domain,
-    slug,
-    parsed.requireString("--title"),
-    authored(parsed.requireString("--claim-file"), "claim"),
-    authored(parsed.requireString("--evidence-file"), "evidence")
-  )
-  const entries = [{ relPath, body }]
   process.stdout.write(`file:   ${relPath}\n`)
 
   const stated = parsed.string("--message")?.trim()
   const message =
     stated === undefined || stated === "" ? defaultMessage(roots, "file", [relPath]) : stated
-  land(roots, entries, message, parsed.boolean("--dry-run"))
+  landed(root, relPath, body, message, parsed.boolean("--dry-run"))
 }

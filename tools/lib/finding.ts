@@ -1,27 +1,21 @@
 import { readFileSync } from "node:fs"
 import type { Repo } from "@akasha/pages-system/markdown-document"
+import { composedFor } from "@akasha/pages-system-service/composing"
 import { dataError } from "./exit.ts"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
-import { MARKDOWN, pageFileIn } from "../../page/page-file.ts"
 import { addressParts } from "../../page/page-address.ts"
-import { filedIn, pageTypePathIn, placeDirOf } from "../../page/page-types.ts"
+import { filedIn, pageTypePathIn } from "../../page/page-types.ts"
 import { scan } from "./seat-resolve.ts"
 
 export const DOMAIN_KEY = "domain-slug"
-
-const PAGE_TYPE_KEY = "page-type-slug"
 
 const FINDING = "finding"
 
 const KEBAB = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
 
-function findingsDir(): string {
-  return placeDirOf(FINDING)
-}
-
-export function findingPathIn(root: string, slug: string): string {
-  const dir = findingsDir()
-  return pageFileIn(root, dir, slug) ?? `${dir}/${slug}.${FINDING}${MARKDOWN}`
+export interface Filing {
+  readonly relPath: string
+  readonly body: string
 }
 
 export function findingRepo(root: string): Repo {
@@ -101,15 +95,35 @@ export function addressRefusal(domain: string, declared: ReadonlyMap<string, str
   )
 }
 
-export function composeFinding(
+/**
+ * The path a finding lands at and the body that lands there.
+ *
+ * A finding is an akasha page. `pages/finding/` holds 0 files and 376 findings stand at
+ * `akasha/domain-system/findings/pages/<slug>.finding.ts`, so the markdown path this used to answer
+ * named a file that was never there for any of them, and the markdown body it used to compose was
+ * frontmatter no reader of a finding parses.
+ *
+ * Where an akasha page lands is stated once, in `composedFor`, which asks the index where a page of
+ * this slug already stands and falls back to the page type's own plural folder for one that does
+ * not. Restating that here is how the two halves of one corpus come to disagree about where a page
+ * is — the same reason `rowsFileOf` and `sidecarFor` ask akasha rather than answer for it. The `id`
+ * is deliberately absent: it is minted at the gate, and a hand-written one would mint a second page
+ * rather than carry this one.
+ */
+export function filingFor(
+  root: string,
   domain: string,
   slug: string,
-  title: string,
   claim: string,
   evidence: string
-): string {
-  const said = title.trim().replace(/"/g, '\\"')
-  const front =
-    `---\n${PAGE_TYPE_KEY}: ${FINDING}\nslug: ${slug}\ntitle: "${said}"\n${DOMAIN_KEY}: ${domain}\n---`
-  return `${front}\n\n# Claim\n\n${claim.trim()}\n\n# Evidence\n\n${evidence.trim()}\n`
+): Filing {
+  const composed = composedFor(root, {
+    pageTypeSlug: FINDING,
+    slug,
+    values: { pageTypeSlug: FINDING, slug, domainSlug: domain, claim, evidence },
+  })
+  if ("refused" in composed) {
+    throw dataError(`a finding could not be composed for \`${slug}\`: ${composed.refused}`)
+  }
+  return { relPath: composed.put.path, body: composed.put.content }
 }
