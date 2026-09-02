@@ -54,7 +54,27 @@ export const restoreAkashaWhenDirty = {
     },
     {
       invariantKind: "departure",
-      statement: "An unlanded change is its own rather than a stray.",
+      statement: "Every body is copied out before that body goes back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One run's copies are kept together under the moment that run began.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A copy is kept beside the repository rather than under the akasha folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call told what went back is told where the copies are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that put nothing back keeps no copies.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the newest fifty runs of copies are kept.",
     },
     {
       invariantKind: "departure",
@@ -72,6 +92,19 @@ export const restoreAkashaWhenDirty = {
       invariantKind: "constraint",
       statement:
         "What this holds is that nothing stands on an ungated change rather than that none was made.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "What the harness hands this hook is the shell command rather than the paths that call wrote.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An unlanded change one agent left cannot be told from another agent's.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "One worktree's agents therefore put each other's unlanded work back.",
     },
   ],
 } as const satisfies AgentHook
