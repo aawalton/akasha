@@ -1,5 +1,6 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
-import { dropRelayed, holdRelayed } from "../readout-relay/readout-relay.module.code.ts"
+import { dropRelayed } from "../readout-relay/readout-relay.module.code.ts"
+import { relayedFor } from "../readout-relay/readout-relay.module.test-fixtures.ts"
 import {
   answerStoplightsAdmittedBy,
   inPlaceOrder,
@@ -53,9 +54,6 @@ beforeEach(() => {
   ANSWERED.scales = [SCALE_ROW]
 })
 
-const carried = (value: number, at: Date = new Date()) =>
-  holdRelayed({ readout: READOUT, value, at: at.toISOString() })
-
 const drawn = () => answerStoplightsAdmittedBy(new Request("http://a.test/"), () => null, GROUP)
 
 async function stoplights(): Promise<readonly Stoplight[]> {
@@ -81,7 +79,7 @@ test("a group no readout is left in is answered as no reading rather than as emp
 })
 
 test("the color answered is the rung the reading reaches on the scale the readout names", async () => {
-  carried(2.5)
+  relayedFor(READOUT, 2.5)
   const [one] = await stoplights()
   expect(one?.tier).toBe("yellow")
   expect(one?.nextTier).toBe("green")
@@ -89,36 +87,36 @@ test("the color answered is the rung the reading reaches on the scale the readou
 })
 
 test("the label and the key answered are the ones the readout's own page carries", async () => {
-  carried(3)
+  relayedFor(READOUT, 3)
   const [one] = await stoplights()
   expect(one?.label).toBe("Safety")
   expect(one?.habit).toBe("safety")
 })
 
 test("a readout whose page states no format has its reading answered as that number", async () => {
-  carried(2.5)
+  relayedFor(READOUT, 2.5)
   expect((await stoplights())[0]?.reading).toBe("2.5")
   dropRelayed()
-  carried(-1.5)
+  relayedFor(READOUT, -1.5)
   expect((await stoplights())[0]?.reading).toBe("-1.5")
 })
 
 test("the reading answered is written the way the readout's own page states", async () => {
   ANSWERED.readouts = [{ ...READOUT_ROW, figureFormat: "decimal" }]
-  carried(-0.008333333333334636)
+  relayedFor(READOUT, -0.008333333333334636)
   expect((await stoplights())[0]?.reading).toBe("-0.01")
 })
 
 test("a reading is never answered as the whole tail of the float it was added up from", async () => {
   ANSWERED.readouts = [{ ...READOUT_ROW, figureFormat: "decimal" }]
-  carried(2.6666666666666665)
+  relayedFor(READOUT, 2.6666666666666665)
   const said = (await stoplights())[0]?.reading ?? ""
   expect(said.length).toBeLessThanOrEqual(6)
   expect(said).toBe("2.67")
 })
 
 test("a reading below every rung is black rather than left out", async () => {
-  carried(-2)
+  relayedFor(READOUT, -2)
   const [one] = await stoplights()
   expect(one?.tier).toBe("black")
   expect(one?.nextTier).toBe("red")
@@ -126,36 +124,36 @@ test("a reading below every rung is black rather than left out", async () => {
 })
 
 test("a reading on the highest rung has no tier above that rung", async () => {
-  carried(5)
+  relayedFor(READOUT, 5)
   const [one] = await stoplights()
   expect(one?.tier).toBe("blue")
   expect(one?.nextTier).toBeUndefined()
 })
 
 test("a reading older than the window is left out rather than colored", async () => {
-  carried(3, new Date(Date.now() - 46 * 60_000))
+  relayedFor(READOUT, 3, new Date(Date.now() - 46 * 60_000))
   expect((await drawn()).status).toBe(503)
 })
 
 test("a reading inside the window is still a reading", async () => {
-  carried(3, new Date(Date.now() - 44 * 60_000))
+  relayedFor(READOUT, 3, new Date(Date.now() - 44 * 60_000))
   expect((await drawn()).status).toBe(200)
 })
 
 test("a readout whose page names no label is left out rather than labelled here", async () => {
-  carried(3)
+  relayedFor(READOUT, 3)
   ANSWERED.readouts = [{ ...READOUT_ROW, label: "  " }]
   expect((await drawn()).status).toBe(503)
 })
 
 test("a readout whose page names no scale is left out rather than colored", async () => {
-  carried(3)
+  relayedFor(READOUT, 3)
   ANSWERED.readouts = [{ slug: READOUT, label: "Safety" }]
   expect((await drawn()).status).toBe(503)
 })
 
 test("a scale the store withholds leaves its readout out rather than colored", async () => {
-  carried(3)
+  relayedFor(READOUT, 3)
   ANSWERED.scales = []
   expect((await drawn()).status).toBe(503)
 })
@@ -170,7 +168,7 @@ test("the readouts are answered in the order the place on each page states", () 
 })
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {
-  carried(3)
+  relayedFor(READOUT, 3)
   expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
   dropRelayed()
   expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")

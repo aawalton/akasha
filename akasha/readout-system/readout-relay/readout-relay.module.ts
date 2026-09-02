@@ -7,6 +7,7 @@ export const readoutRelay = {
   definition: "the reading carried from the machine that took it to the machine that shows it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
