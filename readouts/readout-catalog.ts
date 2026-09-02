@@ -15,6 +15,15 @@ const PAGE_TYPE = "page-type"
 const SLUG = "slug"
 const EXTENDS_SLUG = "extends-slug"
 const FILES = "files"
+const SEQUENCE_SLUGS = "sequence-slugs"
+
+/**
+ * A group page names a member as `readout/upkeep-sleep` or `value/faith`, and a readout row is
+ * keyed by the bare slug, so the part before the last slash is dropped.
+ */
+function memberSlugIn(named: string): string {
+  return named.slice(named.lastIndexOf("/") + 1)
+}
 
 export type ReadoutSortOrder = "label" | "place"
 
@@ -58,6 +67,16 @@ export interface ReadoutRows {
 
 export interface ReadoutCatalog extends ReadoutRows {
   readonly groups: ReadonlyMap<string, ReadoutSortOrder>
+  /**
+   * The member slugs each group page names under `sequence-slugs`, with the page type prefix
+   * dropped so they are spelled the way a readout row spells its own slug.
+   *
+   * A group's membership is otherwise known only from the readout side, by scanning every row for
+   * one naming the group. That direction cannot tell a member that was removed from a member that
+   * never was, so a page deleted from under a group leaves no trace. The group page names what it
+   * expects, and the two are compared in `group-shortfall.ts`.
+   */
+  readonly groupMemberSlugs: ReadonlyMap<string, readonly string[]>
   readonly scales: ReadonlyMap<string, ReadoutScale>
   readonly unreadableScales: ReadonlyMap<string, string>
   readonly queries: ReadonlyMap<string, ReadoutQuery>
@@ -265,6 +284,7 @@ function catalogOf(roots: Roots, dirs: readonly string[]): ReadoutCatalog {
   }
 
   const groups = new Map<string, ReadoutSortOrder>()
+  const groupMemberSlugs = new Map<string, readonly string[]>()
   for (const { root, relPath } of pagesOf(
     descendantsOf(READOUT_GROUP_PAGE_TYPE_SLUG, types),
     types,
@@ -278,6 +298,7 @@ function catalogOf(roots: Roots, dirs: readonly string[]): ReadoutCatalog {
     if (slug === null) continue
     const stated = stringAt(fm, "sort-order")
     groups.set(slug, stated === "place" ? "place" : SORT_ORDER_UNSTATED)
+    groupMemberSlugs.set(slug, listField(fm, SEQUENCE_SLUGS).map(memberSlugIn))
   }
 
   const queries = new Map<string, ReadoutQuery>()
@@ -302,5 +323,14 @@ function catalogOf(roots: Roots, dirs: readonly string[]): ReadoutCatalog {
     })
   }
 
-  return { readouts, unreadableReadouts, groups, scales, unreadableScales, queries, readoutTypeSlugs }
+  return {
+    readouts,
+    unreadableReadouts,
+    groups,
+    groupMemberSlugs,
+    scales,
+    unreadableScales,
+    queries,
+    readoutTypeSlugs,
+  }
 }
