@@ -1,9 +1,15 @@
 "use client"
 
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
 import { cn } from "@akasha/design-primitives/cn"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuSeparator,
+  DropdownMenuTrigger,
+} from "@akasha/design-primitives/dropdown-menu"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { ChevronDown, EllipsisVertical, Info } from "lucide-react"
 
 interface RuleCardHeaderRowProps {
