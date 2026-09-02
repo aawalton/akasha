@@ -1,6 +1,15 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter } from "@temper/player-completion-ui/completion-panel-card"
-import { type AccountSummaryData, CUMULATIVE_ACCOUNT_CARDS } from "@temper/player-completion/completion-card-registry"
+import {
+  type CompletionFilter,
+  type CompletionNode,
+  CompletionPanelCard,
+  type CompletionSortMode,
+  createNodeFilter,
+} from "@akasha/temper-player-completion-ui/completion-panel-card"
+import {
+  type AccountSummaryData,
+  CUMULATIVE_ACCOUNT_CARDS,
+} from "@temper/player-completion/completion-card-registry"
 
 interface AccountSummaryPanelCardProps {
   summary: AccountSummaryData
