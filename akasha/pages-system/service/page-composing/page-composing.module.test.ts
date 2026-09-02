@@ -81,13 +81,25 @@ test("a folder already named by the plural takes a new page under pages", () => 
 })
 
 test("a folder not named by the plural takes a new page under the plural", () => {
-  const said = pathFor("akasha/seat-system/seats/seat.page-type.ts", "seats", "seat", "one", false)
-  expect(said).toBe("akasha/seat-system/seat/seats/one.seat.ts")
+  const said = pathFor(
+    "akasha/pages-system/indexes/index/index.page-type.ts",
+    "indexes",
+    "index",
+    "one",
+    false
+  )
+  expect(said).toBe("akasha/pages-system/indexes/index/indexes/one.index.ts")
 })
 
 test("a page carrying files beside it takes a folder of its own under the plural", () => {
-  const said = pathFor("akasha/seat-system/seats/seat.page-type.ts", "seats", "seat", "one", true)
-  expect(said).toBe("akasha/seat-system/seat/seats/one/one.seat.ts")
+  const said = pathFor(
+    "akasha/pages-system/indexes/index/index.page-type.ts",
+    "indexes",
+    "index",
+    "one",
+    true
+  )
+  expect(said).toBe("akasha/pages-system/indexes/index/indexes/one/one.index.ts")
 })
 
 test("a type declaring a property held in a file carries files beside its page", () => {
