@@ -7,7 +7,7 @@ domain-parent-slug: domain/alan-harness-services
 required-reading-slugs:
   - page-type/workstation-service
 runs:
-  - timeout 120 bun services/health-samples-arrival-watchdog.ts --notify
+  - timeout 120 bun services/health-samples-arrival-watchdog.ts
 enabled: true
 schedule: "*:17"
 catch-up: true
@@ -24,7 +24,7 @@ Whether the stream is still posting is read from when a reading last arrived, ne
 
 The bound is seventy-two hours, measured off the arrival record rather than chosen: the longest gap between arrivals while the stream was healthy was forty-two hours, and forty-eight would have fired on gaps that may have been a quiet weekend.
 
-What this writes is a notification, and reaching a device is the push notifier's.
+What this writes with `--notify` is a notification, and reaching a device is the push notifier's. The flag is off, because Alan asked that nothing be pushed to his phone, so the unit going red is the whole signal until he adds it back.
 
 The newest arrival already said is latched under `/var/tmp`, so one silence is stated once rather than every hour, and a reboot costs one repeat.
 
