@@ -1,4 +1,3 @@
-import { detailConfigFor } from "@akasha/pages-access/file-detail-config"
 import {
   getPage,
   getPageByIdSuffix,
@@ -7,7 +6,6 @@ import {
 } from "@akasha/pages-access/get"
 import { getDescendantPageTypeSlugs } from "@akasha/pages-access/page-type"
 import { getMediaConfig, getSequenceConfig } from "@akasha/pages-access/page-type-config"
-import { resolveDisplayKind } from "@akasha/pages-core/schema/detail-config"
 import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
 import type { ReaderNeighborLink } from "@akasha/pages-ui-components/reader-chrome"
 import { buildPageHref, parsePageHrefParam } from "@akasha/pages-url/page-href"
@@ -98,9 +96,8 @@ export async function loader({ params, request }: Route.LoaderArgs) {
 
   const gameEngine = exact != null && typeof exact.gameEngine === "string" ? exact.gameEngine : null
   const externalId = exact != null && typeof exact.externalId === "string" ? exact.externalId : null
-  const detailConfig = await detailConfigFor(resolvedSlug)
   const displayKind = selectPageDisplayKind({
-    configDisplay: resolveDisplayKind(detailConfig ?? undefined),
+    configDisplay: undefined,
     gameEngine,
     externalId,
   })
@@ -113,7 +110,7 @@ export async function loader({ params, request }: Route.LoaderArgs) {
         id,
         faviconIdSuffix: null,
         title,
-        frame: detailConfig?.frame ?? null,
+        frame: null,
       },
       { headers }
     )
