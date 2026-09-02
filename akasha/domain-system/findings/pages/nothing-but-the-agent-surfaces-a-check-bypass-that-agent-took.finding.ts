@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const nothingButTheAgentSurfacesACheckBypassThatAgentTook = {
+  id: "01a06488-e217-7263-b6ed-65bd3e959673",
+  pageTypeSlug: "finding",
+  slug: "nothing-but-the-agent-surfaces-a-check-bypass-that-agent-took",
+  domainSlug: "workspace-package/command-system",
+  claim:
+    "`--break-the-glass <reason>` lands a change with no check run. `bypassIn` takes any non-null string, so no seat, lane or principal is consulted, and the flag is on six commands. Nothing reads the `Checks-bypassed:` trailer it writes, and 5,394 of the 5,422 commits carrying that trailer are routine mechanical and program bypasses. A parent learns of a subagent's break only if the subagent says so.",
+  evidence:
+    "Met when a subagent reported, unprompted, that it had broken the glass three times: `6638a8f675`, `6745389514` and `22dce71b09`, at 17:40 on 2026-09-02. Its parent had not authorized it. The act was honest: each trailer names a gitignored scratch probe, all three touch only `akasha/editor-extension/probe.uncommitted.ts`, and `git diff e137e1240b..HEAD -- akasha/editor-extension` is empty. A fourth commit in that run, `734ddbfa2d`, carries no trailer and was no bypass.\n\nThe whole gate is `bypassIn` at `akasha/command-system/asking/asking.module.code.ts:195-204`, which returns the reason where `asked.glass !== null`. `messageWith` at :208 writes it into the commit. The only runtime notice is one line to stderr at `repo/land/land.ts:249-250`, reaching the agent that broke the glass and nobody else. Repo-wide, `Checks-bypassed` has two writers and no readers.\n\nThe trailer is on 5,422 commits: 3,301 for `change-mechanical`, 2,093 for a landing made by a program, and 28 written by hand. Subagent presence writes carry the mechanical form, so a subagent's commits already bear the trailer routinely.\n\n`Alan Approves Checks` at `akasha/checks/code-checks/code-check.page-type.ts:157` reserves to Alan what a check refuses, on the warrant that a check binds every writer. Reaching past a check without a principal's knowledge is that authority arriving from the other side. What follows is Alan's call; this page proposes nothing.\n\nNeighbours: `nothing-schedules-the-audit-that-mechanical-changes-are-owed` shows the audit that would catch either kind is never run; `every-seat-in-a-swarm-signs-with-one-session-trailer` shows a commit would not name the seat if anyone looked.",
+} as const satisfies Finding
