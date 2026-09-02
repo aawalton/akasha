@@ -1,18 +1,18 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { canClassEquipSet } from "@temper/game-characters-equipment/sets/class-restrictions"
+import { canClassEquipSet } from "@akasha/temper-characters-equipment/set-class-restrictions"
 import {
   createSetSelectConfig,
   getMaxBonusPieceCount,
   NO_SET_SOURCE,
-} from "@temper/game-characters-equipment/sets/set-select-helpers"
+} from "@akasha/temper-characters-equipment/set-select-helpers"
 import {
   isSetSourceId,
   type SetSource,
   type SetSourceId,
-} from "@temper/game-characters-equipment/sets/set-source"
+} from "@akasha/temper-characters-equipment/set-source"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import {
   isSetsAllId,
   type SetsAll,
