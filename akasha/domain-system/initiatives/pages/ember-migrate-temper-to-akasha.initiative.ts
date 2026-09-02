@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "My 436-parts figure counted a plan as an artifact: `ADDON_DATA_TARGETS` has zero consumers, `temper-addon-data-generate` is a refusing stub, and five of the six worst rows have no parts on disk. Only `character-skills-from-pages` (85) and the sets table (124 on disk as `sets-data-NNN`, where the row says 100 and pads to two digits) are real series, and neither reaches an addon. 176 further parts are already entries and want their rows deleted, not converted.",
+        "Intent 1 blocks intent 2: nine `outputPath` rows and `ALL_OUTPUT_DIRS` still write generator output into `temper/player-completion/src/generated`, so web's last 18 edges cannot be repointed until the entries work moves them. Entries are written by the path-shaped calls alone — the nine keyed writers, `writeRow` among them, all refuse. The registry counts a plan: zero consumers, a refusing generate stub, 176 rows already entries.",
     },
     {
       statement: "No part of temper is outside akasha.",
