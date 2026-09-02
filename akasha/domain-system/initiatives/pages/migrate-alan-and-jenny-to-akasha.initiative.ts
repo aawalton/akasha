@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's and Jenny's iOS apps ship to TestFlight from an akasha command.",
       workingMemory:
-        "Alan chose `akasha deploy {slug}`, dispatching on the kind its page turns out to be. The shipper already works and sent 198 and 21 today, but answers to `mobile deploy-testflight` over `alanwalton/mobile-cli`, while the akasha copy is 28 modules nothing imports and carries two regressions. Four lanes run: parity, kind dispatch, daily-tracking entries, marketing version. Decided: a dry run stops before the mac, and a deploy refuses what origin/main does not carry.",
+        "`akasha deploy {slug}` dispatches on kind at `0f87959daf`: a web slug plans, an ios slug refuses by name, 762 tests pass, and the web body was proved extracted verbatim by diff. Parity of the akasha mobile-cli was measured rather than asserted at `cc9e269838` and `d25ce2c766`: 27 modules, 223 tests, two regressions found and fixed. Lanes: the repoint proved by a --no-upload validate, deploy refusing what origin lacks, daily-tracking entries, marketing version.",
     },
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
