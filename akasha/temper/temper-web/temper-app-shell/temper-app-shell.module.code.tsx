@@ -10,15 +10,15 @@ import { signOut } from "@akasha/supabase-rr/auth-client"
 import { LogOut } from "lucide-react"
 import { useMemo } from "react"
 import {
-  LayoutSeam,
-  PagesUISeam,
-} from "../../../router-seam-adapters/router-seam-adapters.module.code.tsx"
-import { TEMPER_APP_ID, TEMPER_APP_SLUG } from "../../../temper-app-id/temper-app-id.module.code.ts"
-import {
   PRIMARY_NAV_ITEMS,
   RESOURCES_NAV_ITEM,
   SETTINGS_NAV_ITEM,
-} from "../../navigation/nav-items/nav-items.module.code.ts"
+} from "../nav-items/nav-items.module.code.ts"
+import {
+  LayoutSeam,
+  PagesUISeam,
+} from "../router-seam-adapters/router-seam-adapters.module.code.tsx"
+import { TEMPER_APP_ID, TEMPER_APP_SLUG } from "../temper-app-id/temper-app-id.module.code.ts"
 
 function isAuthRoute(pathname: string): boolean {
   return (
