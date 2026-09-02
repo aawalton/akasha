@@ -1,8 +1,8 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import type { ControlledRule } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { ChevronRight } from "lucide-react"
 import { ControlledRuleConditions } from "./rule-card-controlled-conditions"
 import { formatDestination } from "./rule-card-destination-format"
