@@ -17,15 +17,17 @@ const BYTES = new TextEncoder()
 
 const NO_PAGE = "a path that is no page keeps no patch"
 
+const NOT_HELD = "the patch carries no body at"
+
 export type Draft = {
   readonly path: string
   readonly was: string | null
   readonly body: string | null
 }
 
-export type Drafted =
-  | { readonly patch: string | null; readonly clashed: readonly string[] }
-  | { readonly why: string }
+export type Kept = { readonly patch: string | null; readonly clashed: readonly string[] }
+
+export type Drafted = Kept | { readonly why: string }
 
 export type Bodies = ReadonlyMap<
   string,
@@ -117,6 +119,17 @@ function changesOf(held: Held): readonly Change[] {
   return [...held].map(([path, one]) => ({ path, body: one.body }))
 }
 
+function keptFrom(root: string, at: string, head: string, held: Held): Kept {
+  const next = patchOf(root, head, changesOf(held))
+  const clashed = clashedIn(held)
+  if (next === "") {
+    dropBlobs(root, at)
+    return { patch: null, clashed }
+  }
+  keepBlobs(root, at, next)
+  return { patch: next, clashed }
+}
+
 export function drafted(root: string, page: string, drafts: readonly Draft[]): Drafted {
   const at = patchAt(page)
   if (at === null) return { why: NO_PAGE }
@@ -133,16 +146,34 @@ export function drafted(root: string, page: string, drafts: readonly Draft[]): D
       answer = then
       return patch
     }
-    const next = patchOf(root, head, changesOf(then.held))
-    const clashed = clashedIn(then.held)
-    if (next === "") {
-      dropBlobs(root, at)
-      answer = { patch: null, clashed }
-      return null
+    const kept = keptFrom(root, at, head, then.held)
+    answer = kept
+    return kept.patch
+  })
+  return took ? answer : { why: NO_PAGE }
+}
+
+export function resolved(root: string, page: string, path: string, body: string): Drafted {
+  const at = patchAt(page)
+  if (at === null) return { why: NO_PAGE }
+  const head = headOf(root)
+  let answer: Drafted = { why: NO_PAGE }
+  const took = keptPatch(root, page, (patch) => {
+    const first = rebasedOnto(root, head, patch)
+    if ("why" in first) {
+      answer = first
+      return patch
     }
-    keepBlobs(root, at, next)
-    answer = { patch: next, clashed }
-    return next
+    const had = first.held.get(path)
+    if (had === undefined) {
+      answer = { why: `${NOT_HELD} ${path}` }
+      return patch
+    }
+    const next: Held = new Map(first.held)
+    next.set(path, { was: had.was, body })
+    const kept = keptFrom(root, at, head, next)
+    answer = kept
+    return kept.patch
   })
   return took ? answer : { why: NO_PAGE }
 }

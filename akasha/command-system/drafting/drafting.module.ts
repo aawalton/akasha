@@ -67,6 +67,19 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A body resolved replaces the body drafted at that path rather than merging onto that body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is resolved after the patch is rebased onto the commit at HEAD.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the patch carries no body at is refused rather than drafted whole.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A patch is read and written again under the turn the patch's file keeps.",
     },
     {
