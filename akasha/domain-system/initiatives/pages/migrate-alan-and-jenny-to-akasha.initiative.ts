@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "A rehearsal in an isolated copy says do not land. Between the two acts every day is doubled at exit 0; a session open across the turn livelocks tracking, `close` reporting success and `start` refusing forever; the read gate refuses every daemon write, since the row written is itself an owed read, and `change-mechanical` is no answer because it runs no checks either. The cell wanted, checks without a warrant, has no page. Also open: a landed day rolls up nothing, so all 133 read a surplus of 0.",
+        "The rollup is fixed at `9b6ffb6318`: a landed day stated its rows key in its own body and the deriver answered that file name instead of the rows, so all 133 read a surplus of 0. Now 64 of 133 roll up on both sides, as the markdown does. `derived.ts` at `7f945a30de` weighs the halves as read and is the check the fidelity one could not be. Left: the two acts must become one, since three saved sums double in the window, and a daemon write has no change kind that runs checks.",
     },
     {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
