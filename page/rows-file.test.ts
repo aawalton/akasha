@@ -33,8 +33,12 @@ describe("what stands beside a page", () => {
   })
 
   test("the name is akasha's own, rather than a second copy of the rule", () => {
-    expect(rowsFileOf(AKASHA_DAY, "sessions")).toBe(besideAt(AKASHA_DAY, "sessions", "jsonl"))
-    expect(rowsFileOf(AKASHA_DAY, "completed-tasks")).toBe(
+    // `besideAt` answers null for a path it cannot name, so the comparison is
+    // widened to hold that: a null here fails the test rather than the compile.
+    expect<string | null>(rowsFileOf(AKASHA_DAY, "sessions")).toBe(
+      besideAt(AKASHA_DAY, "sessions", "jsonl")
+    )
+    expect<string | null>(rowsFileOf(AKASHA_DAY, "completed-tasks")).toBe(
       besideAt(AKASHA_DAY, "completed-tasks", "jsonl")
     )
   })

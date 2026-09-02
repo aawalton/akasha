@@ -5,7 +5,7 @@ const G = "/var/home/walton/repos/akasha/temper/game-companions-core/src"
 type Row = Record<string, any>
 
 const skills = (await import(`${G}/generated/temper-companion-skill.generated.ts`)).companionSkillsFromPages
-const skillPages = (await getPages({ pageTypeSlug: "temper-companion-skill", limit: 1000 })).rows as Row[]
+const skillPages = (await getPages({ pageTypeSlug: "temper-companion-skill", limit: 1000 })).rows as readonly Row[]
 const wantOrder = skillPages.slice().sort((a, b) => {
   const sa = a.key === "no-skill" ? 0 : 1, sb = b.key === "no-skill" ? 0 : 1
   if (sa !== sb) return sa - sb
@@ -30,7 +30,7 @@ for (const p of skillPages) {
 console.log(`   field drift: ${drift}`)
 
 const companions = (await import(`${G}/generated/temper-eso-companion.generated.ts`)).companionsFromPages
-const cPages = (await getPages({ pageTypeSlug: "temper-eso-companion", limit: 1000 })).rows as Row[]
+const cPages = (await getPages({ pageTypeSlug: "temper-eso-companion", limit: 1000 })).rows as readonly Row[]
 const cWant = cPages.slice().sort((a, b) => (a.displayOrder ?? 0) - (b.displayOrder ?? 0)).map((p) => p.key)
 console.log(`eso-companion: table=${companions.ids.length} pages=${cWant.length} idsInTable=${JSON.stringify(companions.ids)}`)
 console.log(`   pages by displayOrder: ${JSON.stringify(cWant)}`)

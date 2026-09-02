@@ -32,7 +32,7 @@ async function rowsOf(slug: string): Promise<{ rows: readonly Page[] }> {
     held.set(slug, answer)
     return answer
   } catch (e) {
-    unread.push(`${slug} — ${String(e).split("\n")[0].slice(0, 160)}`)
+    unread.push(`${slug} — ${(String(e).split("\n")[0] ?? "").slice(0, 160)}`)
     const answer = { rows: [] as readonly Page[] }
     held.set(slug, answer)
     return answer
@@ -104,7 +104,7 @@ for (const [accessor, slug] of Object.entries(SOURCE)) pages[accessor] = await r
 try {
   pages.minedRestorePotions = await fetchMinedRestorePotions()
 } catch (e) {
-  unread.push(`mined restore potions — ${String(e).split("\n")[0].slice(0, 160)}`)
+  unread.push(`mined restore potions — ${(String(e).split("\n")[0] ?? "").slice(0, 160)}`)
   pages.minedRestorePotions = []
 }
 

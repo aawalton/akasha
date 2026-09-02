@@ -11,7 +11,7 @@ const jobs: [string, string, string][] = [
 for (const [slug, file, constName] of jobs) {
   const table = (await import(file))[constName] as Record<string, Row>
   const { rows } = await getPages({ pageTypeSlug: slug, limit: 1000 })
-  const pages = (rows as Row[]).slice().sort((a, b) => (a.displayOrder ?? 0) - (b.displayOrder ?? 0))
+  const pages = (rows as readonly Row[]).slice().sort((a, b) => (a.displayOrder ?? 0) - (b.displayOrder ?? 0))
   const tableKeys = Object.keys(table)
   const pageKeys = pages.map((p) => p.key)
   const orderSame = JSON.stringify(tableKeys) === JSON.stringify(pageKeys)
