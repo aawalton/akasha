@@ -1,0 +1,25 @@
+{
+  "name": "@akasha/temper-skill-kinds",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./scribing-affix-scripts": "./scribing-affix-scripts/scribing-affix-scripts.module.code.ts",
+    "./scribing-focus-scripts": "./scribing-focus-scripts/scribing-focus-scripts.module.code.ts",
+    "./scribing-signature-scripts": "./scribing-signature-scripts/scribing-signature-scripts.module.code.ts",
+    "./skill-activation-effect-types": "./skill-activation-effect-types/skill-activation-effect-types.module.code.ts",
+    "./skill-bars": "./skill-bars/skill-bars.module.code.ts",
+    "./skill-buff-debuff-types": "./skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts",
+    "./skill-slots": "./skill-slots/skill-slots.module.code.ts",
+    "./skill-types": "./skill-types/skill-types.module.code.ts",
+    "./skill-value-formulas": "./skill-value-formulas/skill-value-formulas.module.code.ts",
+    "./skills-source": "./skills-source/skills-source.module.code.ts",
+    "./special-effect-types": "./special-effect-types/special-effect-types.module.code.ts",
+    "./status-effect-types": "./status-effect-types/status-effect-types.module.code.ts",
+    "./target-scopes": "./target-scopes/target-scopes.module.code.ts",
+    "./target-types": "./target-types/target-types.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
