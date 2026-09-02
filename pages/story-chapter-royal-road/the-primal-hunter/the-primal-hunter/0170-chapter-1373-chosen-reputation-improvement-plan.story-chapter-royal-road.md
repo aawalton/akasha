@@ -1,0 +1,131 @@
+---
+id: 9004c1be-0af1-5670-873c-f576b31e6c76
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1373 - Chosen Reputation Improvement Plan"
+slug: 0170-chapter-1373-chosen-reputation-improvement-plan
+partOf: the-primal-hunter
+position: 170
+ownLength: 2887
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3900643/chapter-1373-chosen-reputation-improvement-plan"
+royalRoadId: "3900643"
+---
+
+Jake caught the arm of the vampire hunter when he tried to stab him again, twisting it and forcing the man to spin around and try to tear himself free. His big movement to free himself only threw him off balance, and Jake let go and watched the man tumble through the air.
+
+Before the hunter had a chance to stabilize, the superior hunter closed in, having drawn Eternal Hunger. He used Piercing Fang straight into the vampire hunter’s shoulder as his weapon exploded with arcane energy, blowing the entire arm off. Following up, Jake kicked him into the ground, sending him flying like a meteor as he made a decently deep hole on impact.
+
+Rather than continue attacking, Jake turned his attention to the two vampires and dragonkin that had now run over to them. The snake was still lurking and making his way over, with the four of them soon gathered.
+
+These members from the Order were all barely in B-grade, and while the dragonkin appeared to be the strongest among them besides the snake, he wasn’t a particularly powerful variant. Chances were his draconic heritage wasn’t that strong anymore, perhaps after many generations of dragonkin since an ancestor of his banged a dragon and had a kid.
+
+Still, these four weren’t entirely incompetent, so it was only right to give them a chance after Jake had helped out a little.
+
+“He’s all yours,” Jake said to his fellow Order members, who looked at him confused momentarily before realizing what he wanted them to do. The male vampire nodded and didn’t even hesitate as he summoned a spear of blood and shot it down into the hole where the vampire hunter was recovering, forcing him to respond.
+
+A blast of energy destroyed the spear as the hunter flew up, starting at Jake, who just shook his head and threw the meteor hammer down for the hunter to catch. “You wanted to hunt some vampires, right? Try it. I just evened the odds a little, but if you win, you’re free to go.”
+
+Jake wasn’t messing with the hunter either. He’d taken off the man’s arm, giving him a little dose of poison to prevent him from healing too quickly, and done a decent amount of damage overall.
+
+At the same time, the members of the Order were also injured. Going by the vampire hunter leader’s power, he should roughly be an equal match for the four of them working together, even if he was a little disadvantaged now, as his injuries were worse than the ones suffered by the Order.
+
+Plus, the same way he respected the snake and dragonkin to return, he respected this vampire hunter for sacrificing himself to have his three allies survive. Even if it was only a simulation and no one was actually going to die, it still took some level of courage.
+
+“Now go ahead,” Jake said, opening the stage for the five of them to battle. “Meanwhile, I’ll do a bit of cleanup.”
+
+“What do you-“ the leader of the vampire hunters tried to ask, but the snake who’d heard everything Jake said took advantage and erupted from below, striking at the hunter and forcing him to defend. The two vampires also didn’t hesitate to strike alongside the dragonkin as they all attacked.
+
+Jake smiled as he flew into the air, as he had three loose ends to tie up. Before the three vampire hunters fled, Jake had already used Hunter’s Mark on all of them, and even if he hadn’t, they were still within his Pulse range. While they were all fast and it seemed like they’d used stealth skills to try to disappear, nothing like that would work against Jake.
+
+Pulling out his bow, Jake did some good old sniping as he nocked the first arrow and started to charge his Arcane Powershot. Below, the vampire hunter was too busy fending off his four attackers to stop Jake, and when he did look up, it only served to distract him as the female vampire landed a deep laceration across his chest.
+
+Should focus on your fight, Jake thought as he’d already locked in on his first target. The hunter was moving using the large leaves as cover, but it didn’t take long before Jake saw the path and loosed his arrow before quickly nocking another and turning towards his next target. He didn’t even feel the need to see the result of his shot.
+
+--
+
+Several hundred kilometers away, a vampire hunter was running as fast as she could, weaving between the massive tree-like stalks of plants while making sure she didn’t leak out too much energy or make herself too obvious. Then, she suddenly felt a sense of danger from behind, but before she could react, a spike of pain went through her body. The next thing she knew, she found herself opening her eyes, sitting within a chamber within her galaxy’s Seat of the Exalted Prima.
+
+She wasn’t even sure what had happened at first, before quickly realizing. She’d been killed, and the only possible culprit was the Chosen of the Malefic Viper. A small smile crept onto her face at this realization as she muttered to herself.
+
+“Of all the ways to die... not a bad one,” she said, already imagining the stories she’d have to share about the time she was slain by the Chosen of the Malefic One within the World of the Exalted Prima. It was truly something to be proud of, having him act personally.
+
+After gathering herself, she stood up and exited the chamber she’d been sitting in, seeing as she was banned from the simulation for the next month. Given that she was the first from her Territory to die, she immediately started preparing a report while everything remained fresh in her mind. While it would likely lead to annoying complications in returning to the Seat, she was tasked with leaving and returning to the rest of the multiverse to provide an update on the current state of the system event.
+
+No, the first hunter to die hadn’t been from her Territory, but had been someone they’d met up with within the Central Domain.
+
+Right as she began her report, the door right next to her chamber also opened, and out walked a fellow vampire hunter who’d also been fleeing mere moments before. The two shared a look as he sighed.
+
+“If you want, I can be the one leaving,” he offered. “You are stronger than I and can contribute more going forward if returning within a month isn’t possible.”
+
+“We can discuss that later; we should consult with-” she said before suddenly realizing something as she looked at another door, her eyes wide open. “Wait... he’s still alive in there?”
+
+The other hunter seemed to realize as they both looked toward the door where the leader of the vampire hunters sat. How was he still alive if the Chosen had found time to kill them? Had he somehow escaped, made some kind of deal? Either way, his continued survival had to be a good thing, right?
+
+--
+
+Good shot! Yeah, try to- no, not like that, his left side was way more open! He’s clearly overcompensating for the lack of an arm; take advantage of that, come on! Jake internally commented on the fight as he sat cross-legged up in the air, watching the four versus one below.
+
+He really had to hold himself back from yelling at them as they kept making suboptimal moves, but last time he checked, it was considered very impolite to backseat people’s life-or-death battles. At least they weren’t losing, as the leader of the vampire hunters was quickly becoming more and more haggard.
+
+It hadn’t helped him that for the first period of the fight, he’d tensed up whenever Jake released an Arcane Powershot, resulting in injuries. Meanwhile, the members of the Order didn’t even seem to notice and instead fought with extreme fervor and morale, showing impressive levels of teamwork. Well, impressive for people of their power level.
+
+The vampire hunter leader was still the strongest of the four and held on for a good while, also getting in some good hits himself. He focused specifically on the vampires, seemingly having resolved himself to at least take them down with him. Sadly for him, the members of the Order noticed it and had the vampires mostly play support.
+
+In the end, the battle wasn’t super exciting and ended up taking another five or so minutes before a final victor was decided. Overextending himself to try to kill the female vampire, the hunter couldn’t fully defend himself as the dragonkin launched a beam that struck him in the side, and with an actually impressive follow-up, the snake seemed to shrink and extend his body as he shot forward and tore out a big part of the hunter’s throat.
+
+Still, despite clearly being finished, the vampire hunter made one final Hail Mary as he exploded with energy and threw his meteor hammer, infused with all his remaining power, towards the vampire. She and the male one defended with all they had, but the end result was still her losing both her arms and having her chest caved in.
+
+A nasty-looking wound, but not one that proved lethal, and with the hunter on his last legs, he couldn’t even try to launch another attack before he started falling towards the ground, turning into blue wisps of energy during the fall... while a golden eight-armed statue also appeared and started floating there.
+
+Damn, he had one of those? Now I’m starting to regret leaving him to the Order members, Jake grumbled, not letting his thoughts show as he continued floating menacingly in the sky with his arms crossed.
+
+He wasn’t going to steal the loot of his fellow Order members. Not even because it would make his reputation worse than he reckoned it already was, but mainly because it would feel super weird to ask for the statue after he’d made them all fight for their lives rather than just helped them out.
+
+Ultimately, he didn’t regret his actions, though, and a fight like this was good practice for the four of them. While they hadn’t gained big skill upgrades or suddenly grown stronger, any kind of fight with a powerful foe was a valuable experience he hoped they appreciated.
+
+With their victory, the dragonkin and the male vampire both instantly sought to help their heavily injured group member, and fortunately for them, vampires were known to be quite good at healing, and while regrowing limbs would probably take her a few minutes. Jake reckoned she would be back in peak condition soon, though she would likely need a bit of blood, or her energy reserves could get dangerously low.
+
+That was still the biggest downside of vampires: the inability to regenerate resources on their own. While their blood energy reserves were pretty damn huge compared to regular resource pools, they needed to absorb life energy – often in the form of blood – from other living entities to fully recover.
+
+She did drink a special potion made for vampires, but to fully recover, she needed blood. Jake also remembered reading that even if vampires survived only using potions, never consuming blood or life energy in other ways, it could and likely would hurt their Records. Not doing it was denying a core aspect of their Paths, after all.
+
+Once she was somewhat stabilized, the four came together to pay respect to Jake once more as they all floated into the air and bowed as the snake spoke. “We thank the Chosen for his assistance, and despite being unworthy, we hope to prove your time was worth spending on us.”
+
+It was super humble, making Jake wave off the notion immediately. “We cannot allow the Holy Church to get too cocky and push us around, much less target our members. Especially vampire hunters need to learn that perhaps they should consider a career change.”
+
+If Jake somehow managed to push for the elimination of that entire Path, he would be more than happy, as it really was something that shouldn’t exist. The system did allow for Paths around hunting specific types of creatures, but most of them were rather quickly eliminated before they could start building any solid Legacy.
+
+A great example of this was Dragon Slayers. This was a Path at one point, and quite a powerful one at that, but the Dragonflights came down hard, and combined with the title, which marked every person who had slain a dragon, those with the Path often found themselves hunted down by dragons, and any organizations that had been created were crushed.
+
+The only reason why vampire hunters were still a thing was due to the Risen and Holy Church being behind them, and the fact that vampires were a very divided and rather weak race as a whole, given that they didn’t have any peak gods on their side. Things were a little different now that the Order had returned to form and embraced vampires, but that didn’t magically get rid of all vampire hunters and make life as a vampire all safe and sound.
+
+Jake also found it a bit comical that the Risen and the Holy Church – two factions that had been at war forever – both trained vampire hunters independently of one another. They even trained them for the same reason. Vampires couldn’t become Risen or enter the Holyland, making the proliferation of vampires a strictly negative thing for both factions. Additionally, for the Risen, vampires couldn’t even properly function within their society most of the time, as there wasn’t much life energy to feed off within the empire of the dead.
+
+“Even if saving our lives was merely a whim of the Chosen, our eternal gratitude remains,” the male vampire spoke, looking touched that Jake had spoken up for vampires.
+
+“Then thank me by continuing to do right by the Order and continuing to contribute to this event,” Jake said with a smile. “Oh, and do be careful. There are many individuals in this place you wouldn’t want to encounter.”
+
+“We’re more than aware,” the snake said with a sigh. “In fact, we are considering leaving the Central Domain and focusing on strengthening our Territories, hopefully encountering more allies. With our current power, we cannot contribute much, but we will certainly do our utmost.”
+
+The snake was still being incredibly humble, but also not wrong. The disparity between individuals only grew with each grade and was especially evident in situations like this. The leader of the vampire hunters was as powerful as these four combined and a truly dangerous existence, while to Jake, he wasn’t even worth fighting and could be effortlessly disposed of.
+
+Yet, at the same time, these members of the Order could still be considered elites. Compared to the B-grades Jake had slaughtered during his Territory expansion, these four were still pretty strong, and one also had to remember that they had managed to make it to the garden in the first place. It wasn’t that they were necessarily weak; it was just that people like Jake were too abnormally strong for their level.
+
+“Do as you must,” Jake nodded, not going to argue with them about staying in the Central Domain.
+
+The snake looked towards the floating golden statue dropped by the vampire hunter before returning his attention to Jake. “The statue naturally belongs to the Chosen, as it will no doubt be more valuable in his competent hands than in ours.”
+
+Again, Jake wasn’t going to argue there. If the four of them were leaving the Central Domain, Jake wouldn’t be surprised if the statue were left behind in the first place, as it clearly had some function related to the Palace of Abundance.
+
+“If the Chosen allows me, I would be more than honored to assist in breaking through the rest of the barrier,” the male vampire who had been trying to solve the barrier before they were ambushed offered.
+
+It didn’t have a statue inside, but seeing as Jake was already there, he saw no need to leave it alone as he shrugged. “No need.”
+
+Jake one One Step and teleported down and appeared in front of the barrier. The vampire had solved more than half of the logic puzzle required to open it, and the final two weren’t exactly difficult, so about four seconds after laying a hand on it, the barrier shattered like glass, revealing a small orb that looked to be made of golden bark.
+
+The group stared at Jake for a moment before all nodding as if such a thing was only to be expected of the Chosen. After a few more words and overly respectful well-wishes by the Order members, the four of them used their escape tokens to leave the Central Domain, likely having earned more than enough Prima Credits to make up for the trip in the first place.
+
+When they were gone, Jake smiled and nodded. “That should help my reputation within the Order and not make them all think I’m some scary monster that would kill them if they said one word wrong, right?”
+
+It would not... but one could always hope.
