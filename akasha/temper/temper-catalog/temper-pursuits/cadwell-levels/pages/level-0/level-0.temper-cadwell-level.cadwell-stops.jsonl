@@ -1,27 +1,27 @@
-{"id":"01a0616b-cfee-726e-9ed0-640f562168a1","zoneIndex":1,"zoneName":"Auridon","poiIndex":4,"poiName":"Vulkhel Guard"}
-{"id":"01a0616b-cfee-7392-bf9c-1c7ae629693b","zoneIndex":1,"zoneName":"Auridon","poiIndex":1,"poiName":"Tanzelwil"}
-{"id":"01a0616b-cfee-74a5-a53c-32212fb00b6c","zoneIndex":1,"zoneName":"Auridon","poiIndex":5,"poiName":"Mathiisen"}
-{"id":"01a0616b-cfee-7885-bcda-dba010ee6aa1","zoneIndex":1,"zoneName":"Auridon","poiIndex":3,"poiName":"Skywatch"}
-{"id":"01a0616b-cfee-7aba-910b-8a7e1267d530","zoneIndex":1,"zoneName":"Auridon","poiIndex":2,"poiName":"Firsthold"}
-{"id":"01a0616b-cfee-7ac3-9b43-d49b59754b13","zoneIndex":2,"zoneName":"Grahtwood","poiIndex":2,"poiName":"Southpoint"}
-{"id":"01a0616b-cfee-7d58-8240-bafa552f3eb3","zoneIndex":2,"zoneName":"Grahtwood","poiIndex":1,"poiName":"Reliquary of Stars"}
-{"id":"01a0616b-cfee-77ab-9219-44ecdffce065","zoneIndex":2,"zoneName":"Grahtwood","poiIndex":3,"poiName":"Falinesti Winter Site"}
-{"id":"01a0616b-cfee-77fa-9e45-014b6c9b4feb","zoneIndex":2,"zoneName":"Grahtwood","poiIndex":4,"poiName":"Elden Root"}
-{"id":"01a0616b-cfee-7895-a043-c46ac795355c","zoneIndex":3,"zoneName":"Greenshade","poiIndex":4,"poiName":"Bramblebreach"}
-{"id":"01a0616b-cfee-72fe-848b-c601b10a2cd8","zoneIndex":3,"zoneName":"Greenshade","poiIndex":3,"poiName":"Greenheart"}
-{"id":"01a0616b-cfef-7249-beb2-9cc1256c6f81","zoneIndex":3,"zoneName":"Greenshade","poiIndex":5,"poiName":"Woodhearth"}
-{"id":"01a0616b-cfef-7abf-8ca1-82f787683c2c","zoneIndex":3,"zoneName":"Greenshade","poiIndex":1,"poiName":"Seaside Sanctuary"}
-{"id":"01a0616b-cfef-73b8-9e37-b91f9df47c2e","zoneIndex":3,"zoneName":"Greenshade","poiIndex":6,"poiName":"Dread Vullain"}
-{"id":"01a0616b-cfef-76da-bad2-3c28aaa6a909","zoneIndex":3,"zoneName":"Greenshade","poiIndex":7,"poiName":"Verrant Morass"}
-{"id":"01a0616b-cfef-7ddd-899a-99e804fad1f5","zoneIndex":3,"zoneName":"Greenshade","poiIndex":8,"poiName":"Driladan Pass"}
-{"id":"01a0616b-cfef-773b-a76a-e4d0c31942e4","zoneIndex":3,"zoneName":"Greenshade","poiIndex":2,"poiName":"Hectahame"}
-{"id":"01a0616b-cfef-7599-99b4-d4dcac217885","zoneIndex":4,"zoneName":"Malabal Tor","poiIndex":4,"poiName":"Velyn Harbor"}
-{"id":"01a0616b-cfef-70b5-865a-fc954f28ffcc","zoneIndex":4,"zoneName":"Malabal Tor","poiIndex":2,"poiName":"Dra'bul"}
-{"id":"01a0616b-cfef-7cbd-84ec-28593952361e","zoneIndex":4,"zoneName":"Malabal Tor","poiIndex":3,"poiName":"Jathsogur"}
-{"id":"01a0616b-cfef-7297-a19e-69e7a84e4cee","zoneIndex":4,"zoneName":"Malabal Tor","poiIndex":1,"poiName":"Silvenar"}
-{"id":"01a0616b-cfef-7376-89ce-cfe78cd0b09f","zoneIndex":5,"zoneName":"Reaper's March","poiIndex":4,"poiName":"Fort Grimwatch"}
-{"id":"01a0616b-cfef-7da5-a356-af066dffe279","zoneIndex":5,"zoneName":"Reaper's March","poiIndex":5,"poiName":"Arenthia"}
-{"id":"01a0616b-cfef-7bb9-bff0-ba29c67c028c","zoneIndex":5,"zoneName":"Reaper's March","poiIndex":2,"poiName":"Rawl'kha"}
-{"id":"01a0616b-cfef-7e5d-83b5-c18fc9277ef4","zoneIndex":5,"zoneName":"Reaper's March","poiIndex":1,"poiName":"Moonmont"}
-{"id":"01a0616b-cfef-76fb-b3e2-05c4f2009c6f","zoneIndex":5,"zoneName":"Reaper's March","poiIndex":6,"poiName":"Dune"}
-{"id":"01a0616b-cfef-7944-9601-639c79b514eb","zoneIndex":5,"zoneName":"Reaper's March","poiIndex":3,"poiName":"Two Moons Path"}
+{"id":"01a0616b-cfee-726e-9ed0-640f562168a1","zoneIndex":1,"zoneName":"Auridon","stopIndex":4,"poiName":"Vulkhel Guard"}
+{"id":"01a0616b-cfee-7392-bf9c-1c7ae629693b","zoneIndex":1,"zoneName":"Auridon","stopIndex":1,"poiName":"Tanzelwil"}
+{"id":"01a0616b-cfee-74a5-a53c-32212fb00b6c","zoneIndex":1,"zoneName":"Auridon","stopIndex":5,"poiName":"Mathiisen"}
+{"id":"01a0616b-cfee-7885-bcda-dba010ee6aa1","zoneIndex":1,"zoneName":"Auridon","stopIndex":3,"poiName":"Skywatch"}
+{"id":"01a0616b-cfee-7aba-910b-8a7e1267d530","zoneIndex":1,"zoneName":"Auridon","stopIndex":2,"poiName":"Firsthold"}
+{"id":"01a0616b-cfee-7ac3-9b43-d49b59754b13","zoneIndex":2,"zoneName":"Grahtwood","stopIndex":2,"poiName":"Southpoint"}
+{"id":"01a0616b-cfee-7d58-8240-bafa552f3eb3","zoneIndex":2,"zoneName":"Grahtwood","stopIndex":1,"poiName":"Reliquary of Stars"}
+{"id":"01a0616b-cfee-77ab-9219-44ecdffce065","zoneIndex":2,"zoneName":"Grahtwood","stopIndex":3,"poiName":"Falinesti Winter Site"}
+{"id":"01a0616b-cfee-77fa-9e45-014b6c9b4feb","zoneIndex":2,"zoneName":"Grahtwood","stopIndex":4,"poiName":"Elden Root"}
+{"id":"01a0616b-cfee-7895-a043-c46ac795355c","zoneIndex":3,"zoneName":"Greenshade","stopIndex":4,"poiName":"Bramblebreach"}
+{"id":"01a0616b-cfee-72fe-848b-c601b10a2cd8","zoneIndex":3,"zoneName":"Greenshade","stopIndex":3,"poiName":"Greenheart"}
+{"id":"01a0616b-cfef-7249-beb2-9cc1256c6f81","zoneIndex":3,"zoneName":"Greenshade","stopIndex":5,"poiName":"Woodhearth"}
+{"id":"01a0616b-cfef-7abf-8ca1-82f787683c2c","zoneIndex":3,"zoneName":"Greenshade","stopIndex":1,"poiName":"Seaside Sanctuary"}
+{"id":"01a0616b-cfef-73b8-9e37-b91f9df47c2e","zoneIndex":3,"zoneName":"Greenshade","stopIndex":6,"poiName":"Dread Vullain"}
+{"id":"01a0616b-cfef-76da-bad2-3c28aaa6a909","zoneIndex":3,"zoneName":"Greenshade","stopIndex":7,"poiName":"Verrant Morass"}
+{"id":"01a0616b-cfef-7ddd-899a-99e804fad1f5","zoneIndex":3,"zoneName":"Greenshade","stopIndex":8,"poiName":"Driladan Pass"}
+{"id":"01a0616b-cfef-773b-a76a-e4d0c31942e4","zoneIndex":3,"zoneName":"Greenshade","stopIndex":2,"poiName":"Hectahame"}
+{"id":"01a0616b-cfef-7599-99b4-d4dcac217885","zoneIndex":4,"zoneName":"Malabal Tor","stopIndex":4,"poiName":"Velyn Harbor"}
+{"id":"01a0616b-cfef-70b5-865a-fc954f28ffcc","zoneIndex":4,"zoneName":"Malabal Tor","stopIndex":2,"poiName":"Dra'bul"}
+{"id":"01a0616b-cfef-7cbd-84ec-28593952361e","zoneIndex":4,"zoneName":"Malabal Tor","stopIndex":3,"poiName":"Jathsogur"}
+{"id":"01a0616b-cfef-7297-a19e-69e7a84e4cee","zoneIndex":4,"zoneName":"Malabal Tor","stopIndex":1,"poiName":"Silvenar"}
+{"id":"01a0616b-cfef-7376-89ce-cfe78cd0b09f","zoneIndex":5,"zoneName":"Reaper's March","stopIndex":4,"poiName":"Fort Grimwatch"}
+{"id":"01a0616b-cfef-7da5-a356-af066dffe279","zoneIndex":5,"zoneName":"Reaper's March","stopIndex":5,"poiName":"Arenthia"}
+{"id":"01a0616b-cfef-7bb9-bff0-ba29c67c028c","zoneIndex":5,"zoneName":"Reaper's March","stopIndex":2,"poiName":"Rawl'kha"}
+{"id":"01a0616b-cfef-7e5d-83b5-c18fc9277ef4","zoneIndex":5,"zoneName":"Reaper's March","stopIndex":1,"poiName":"Moonmont"}
+{"id":"01a0616b-cfef-76fb-b3e2-05c4f2009c6f","zoneIndex":5,"zoneName":"Reaper's March","stopIndex":6,"poiName":"Dune"}
+{"id":"01a0616b-cfef-7944-9601-639c79b514eb","zoneIndex":5,"zoneName":"Reaper's March","stopIndex":3,"poiName":"Two Moons Path"}

@@ -1,23 +1,23 @@
-{"id":"01a0616b-cfef-71b1-b938-f737ff02bdb5","zoneIndex":3,"zoneName":"Glenumbra","poiIndex":2,"poiName":"Beldama Wyrd Tree"}
-{"id":"01a0616b-cfef-7a8b-9f47-c242f80bf5fc","zoneIndex":3,"zoneName":"Glenumbra","poiIndex":1,"poiName":"Camlorn"}
-{"id":"01a0616b-cfef-7f1e-9100-d5e0d2801632","zoneIndex":3,"zoneName":"Glenumbra","poiIndex":4,"poiName":"Lion Guard Redoubt"}
-{"id":"01a0616b-cfef-7c78-8f73-a3618e56370c","zoneIndex":3,"zoneName":"Glenumbra","poiIndex":3,"poiName":"Cath Bedraud"}
-{"id":"01a0616b-cfef-73d5-a4d0-aae1036dbcdd","zoneIndex":5,"zoneName":"Stormhaven","poiIndex":4,"poiName":"Alcaire Keep"}
-{"id":"01a0616b-cfef-7716-8195-6dda7046bc08","zoneIndex":5,"zoneName":"Stormhaven","poiIndex":3,"poiName":"Firebrand Keep"}
-{"id":"01a0616b-cfef-7531-9119-eab3d03c4071","zoneIndex":5,"zoneName":"Stormhaven","poiIndex":5,"poiName":"Pariah Abbey"}
-{"id":"01a0616b-cfef-70e0-bbfd-b0f8e9bcf14b","zoneIndex":5,"zoneName":"Stormhaven","poiIndex":2,"poiName":"at-Tura Estate"}
-{"id":"01a0616b-cfef-738c-aac2-a4002628d2ae","zoneIndex":5,"zoneName":"Stormhaven","poiIndex":1,"poiName":"Shinji's Scarp"}
-{"id":"01a0616b-cfef-71a0-ad55-2855c160b3fb","zoneIndex":4,"zoneName":"Rivenspire","poiIndex":4,"poiName":"Shornhelm"}
-{"id":"01a0616b-cfef-75e3-8425-a3f821171f8c","zoneIndex":4,"zoneName":"Rivenspire","poiIndex":5,"poiName":"Ravenwatch Castle"}
-{"id":"01a0616b-cfef-7d7c-93d0-ce9404d20690","zoneIndex":4,"zoneName":"Rivenspire","poiIndex":1,"poiName":"Camp Tamrith"}
-{"id":"01a0616b-cfef-776e-a029-b9e5f4be562f","zoneIndex":4,"zoneName":"Rivenspire","poiIndex":2,"poiName":"Lorkrata Hills"}
-{"id":"01a0616b-cfef-7d47-a81c-bf2cde6ab047","zoneIndex":4,"zoneName":"Rivenspire","poiIndex":6,"poiName":"Northpoint"}
-{"id":"01a0616b-cfef-7325-bbd9-ed3af0493fb6","zoneIndex":4,"zoneName":"Rivenspire","poiIndex":3,"poiName":"The Doomcrag"}
-{"id":"01a0616b-cfef-70bf-81f4-26a514c1d549","zoneIndex":1,"zoneName":"Alik'r Desert","poiIndex":4,"poiName":"Sentinel"}
-{"id":"01a0616b-cfef-785f-a21c-b63871efd50e","zoneIndex":1,"zoneName":"Alik'r Desert","poiIndex":3,"poiName":"Tu'whacca's Throne"}
-{"id":"01a0616b-cfef-73c5-b33f-434d6ecba876","zoneIndex":1,"zoneName":"Alik'r Desert","poiIndex":1,"poiName":"Tava's Blessing"}
-{"id":"01a0616b-cfef-7864-b676-75e3ba8afe2e","zoneIndex":1,"zoneName":"Alik'r Desert","poiIndex":2,"poiName":"Motalion Necropolis"}
-{"id":"01a0616b-cfef-757f-a8d3-5e877c521210","zoneIndex":2,"zoneName":"Bangkorai","poiIndex":4,"poiName":"Evermore"}
-{"id":"01a0616b-cfef-7aea-a54b-7d5e394ad686","zoneIndex":2,"zoneName":"Bangkorai","poiIndex":1,"poiName":"Jackdaw Cove"}
-{"id":"01a0616b-cfef-7f21-9efd-da2667a3d34c","zoneIndex":2,"zoneName":"Bangkorai","poiIndex":2,"poiName":"Bangkorai Garrison"}
-{"id":"01a0616b-cfef-70b7-a871-1365cf628501","zoneIndex":2,"zoneName":"Bangkorai","poiIndex":3,"poiName":"Hall of Heroes"}
+{"id":"01a0616b-cfef-71b1-b938-f737ff02bdb5","zoneIndex":3,"zoneName":"Glenumbra","stopIndex":2,"poiName":"Beldama Wyrd Tree"}
+{"id":"01a0616b-cfef-7a8b-9f47-c242f80bf5fc","zoneIndex":3,"zoneName":"Glenumbra","stopIndex":1,"poiName":"Camlorn"}
+{"id":"01a0616b-cfef-7f1e-9100-d5e0d2801632","zoneIndex":3,"zoneName":"Glenumbra","stopIndex":4,"poiName":"Lion Guard Redoubt"}
+{"id":"01a0616b-cfef-7c78-8f73-a3618e56370c","zoneIndex":3,"zoneName":"Glenumbra","stopIndex":3,"poiName":"Cath Bedraud"}
+{"id":"01a0616b-cfef-73d5-a4d0-aae1036dbcdd","zoneIndex":5,"zoneName":"Stormhaven","stopIndex":4,"poiName":"Alcaire Keep"}
+{"id":"01a0616b-cfef-7716-8195-6dda7046bc08","zoneIndex":5,"zoneName":"Stormhaven","stopIndex":3,"poiName":"Firebrand Keep"}
+{"id":"01a0616b-cfef-7531-9119-eab3d03c4071","zoneIndex":5,"zoneName":"Stormhaven","stopIndex":5,"poiName":"Pariah Abbey"}
+{"id":"01a0616b-cfef-70e0-bbfd-b0f8e9bcf14b","zoneIndex":5,"zoneName":"Stormhaven","stopIndex":2,"poiName":"at-Tura Estate"}
+{"id":"01a0616b-cfef-738c-aac2-a4002628d2ae","zoneIndex":5,"zoneName":"Stormhaven","stopIndex":1,"poiName":"Shinji's Scarp"}
+{"id":"01a0616b-cfef-71a0-ad55-2855c160b3fb","zoneIndex":4,"zoneName":"Rivenspire","stopIndex":4,"poiName":"Shornhelm"}
+{"id":"01a0616b-cfef-75e3-8425-a3f821171f8c","zoneIndex":4,"zoneName":"Rivenspire","stopIndex":5,"poiName":"Ravenwatch Castle"}
+{"id":"01a0616b-cfef-7d7c-93d0-ce9404d20690","zoneIndex":4,"zoneName":"Rivenspire","stopIndex":1,"poiName":"Camp Tamrith"}
+{"id":"01a0616b-cfef-776e-a029-b9e5f4be562f","zoneIndex":4,"zoneName":"Rivenspire","stopIndex":2,"poiName":"Lorkrata Hills"}
+{"id":"01a0616b-cfef-7d47-a81c-bf2cde6ab047","zoneIndex":4,"zoneName":"Rivenspire","stopIndex":6,"poiName":"Northpoint"}
+{"id":"01a0616b-cfef-7325-bbd9-ed3af0493fb6","zoneIndex":4,"zoneName":"Rivenspire","stopIndex":3,"poiName":"The Doomcrag"}
+{"id":"01a0616b-cfef-70bf-81f4-26a514c1d549","zoneIndex":1,"zoneName":"Alik'r Desert","stopIndex":4,"poiName":"Sentinel"}
+{"id":"01a0616b-cfef-785f-a21c-b63871efd50e","zoneIndex":1,"zoneName":"Alik'r Desert","stopIndex":3,"poiName":"Tu'whacca's Throne"}
+{"id":"01a0616b-cfef-73c5-b33f-434d6ecba876","zoneIndex":1,"zoneName":"Alik'r Desert","stopIndex":1,"poiName":"Tava's Blessing"}
+{"id":"01a0616b-cfef-7864-b676-75e3ba8afe2e","zoneIndex":1,"zoneName":"Alik'r Desert","stopIndex":2,"poiName":"Motalion Necropolis"}
+{"id":"01a0616b-cfef-757f-a8d3-5e877c521210","zoneIndex":2,"zoneName":"Bangkorai","stopIndex":4,"poiName":"Evermore"}
+{"id":"01a0616b-cfef-7aea-a54b-7d5e394ad686","zoneIndex":2,"zoneName":"Bangkorai","stopIndex":1,"poiName":"Jackdaw Cove"}
+{"id":"01a0616b-cfef-7f21-9efd-da2667a3d34c","zoneIndex":2,"zoneName":"Bangkorai","stopIndex":2,"poiName":"Bangkorai Garrison"}
+{"id":"01a0616b-cfef-70b7-a871-1365cf628501","zoneIndex":2,"zoneName":"Bangkorai","stopIndex":3,"poiName":"Hall of Heroes"}

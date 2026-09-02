@@ -11,7 +11,7 @@ export const cadwellStops = {
   properties: [
     { pagePropertySlug: "zone-index", required: true, many: false },
     { pagePropertySlug: "zone-name", required: true, many: false },
-    { pagePropertySlug: "poi-index", required: true, many: false },
+    { pagePropertySlug: "stop-index", required: true, many: false },
     { pagePropertySlug: "poi-name", required: true, many: false },
   ],
   invariants: [

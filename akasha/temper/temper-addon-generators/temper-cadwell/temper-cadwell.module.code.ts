@@ -6,7 +6,7 @@ const STOP_SCHEMA = z
     id: z.string(),
     zoneIndex: z.number(),
     zoneName: z.string(),
-    poiIndex: z.number(),
+    stopIndex: z.number(),
     poiName: z.string(),
   })
   .strict()
@@ -56,7 +56,7 @@ function levelOf(row: Page): OutLevel {
         `zone ${stop.zoneIndex} is named both \`${zone.name}\` and \`${stop.zoneName}\``
       )
     }
-    zone.pois.push({ poiIndex: stop.poiIndex, name: stop.poiName })
+    zone.pois.push({ poiIndex: stop.stopIndex, name: stop.poiName })
   }
   return { level: held.displayOrder, label: held.title, zones }
 }
