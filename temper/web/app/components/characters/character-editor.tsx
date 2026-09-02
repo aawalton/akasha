@@ -3,10 +3,10 @@
 import type {
   CharacterState,
   CharacterVisibility,
-} from "@temper/game-characters-character/build-types"
-import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
+} from "@akasha/temper-character-build/build-types"
 import type { Skill } from "@akasha/temper-character-skills/character-skills"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
+import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
 import { CharacterEditorContent } from "@/components/characters/character-editor-content"
 import { CharacterProvider } from "@/components/characters/context/character-context"
 
