@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/temper-lib-map-data",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./map-data-constants": "./map-data-constants/map-data-constants.module.code.ts",
+    "./map-data-types": "./map-data-types/map-data-types.module.code.ts",
+    "./map-data-casts": "./map-data-casts/map-data-casts.module.code.ts"
+  }
+}
