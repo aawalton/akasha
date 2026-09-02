@@ -9,7 +9,7 @@ export const temperCharactersAddon = {
   manifest: "json",
   addonManifest: "json",
   bindings: "xml",
-  partSlugs: ["module/characters-alliance-rank"],
+  partSlugs: ["module/characters-alliance-rank", "module/characters-current-entry"],
   invariants: [
     {
       invariantKind: "departure",
