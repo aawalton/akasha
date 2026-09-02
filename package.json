@@ -50,7 +50,6 @@
     "temper/catalog-addon",
     "temper/player-completion",
     "temper/scripts",
-    "temper/shared-interface-keybinder-addon",
     "temper/web",
     "tools/lib"
   ],

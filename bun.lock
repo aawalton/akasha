@@ -2963,16 +2963,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/shared-interface-keybinder-addon": {
-      "name": "@temper/shared-interface-keybinder-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/web": {
       "name": "@temper/web",
       "version": "0.1.0",
@@ -4173,8 +4163,6 @@
     "@temper/scripts": ["@temper/scripts@workspace:temper/scripts"],
 
     "@temper/shared-build-deploy-tstl": ["@temper/shared-build-deploy-tstl@workspace:lua-compiler"],
-
-    "@temper/shared-interface-keybinder-addon": ["@temper/shared-interface-keybinder-addon@workspace:temper/shared-interface-keybinder-addon"],
 
     "@temper/web": ["@temper/web@workspace:temper/web"],
 
