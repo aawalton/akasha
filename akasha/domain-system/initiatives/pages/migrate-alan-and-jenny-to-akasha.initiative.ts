@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
       workingMemory:
-        "An upload IS a delivery: each app has one internal group holding every build, and every build carries `autoNotifyEnabled`, so the command cannot decline to notify and its only lever is `--no-upload`. Read off the live API without uploading, filed at `8f90294f14`. Jenny's 22 and Atlas 2 are signed, stamped, Apple-validated, waiting on a person. Left to build is the command: `akasha deploy` says an iOS app is not put up by it yet, and Atlas has no page, so it is not even found.",
+        "`akasha deploy <slug>` reaches all three now, dispatched through the markdown `ios-app` registry rather than the `.ts` pages, which mark which sources have migrated and are no record of what exists. Proven four times with `--no-upload`: builds 2, 22 and 200 stamped `b0587b0306`, Apple-validated, 0 uploads and 0 build numbers spent. What is left is the upload, which delivers to a phone and waits on Alan; the call not to move Apple's switches is filed at `797a2ef58f`.",
     },
     {
       statement: "Alan's health samples are read from akasha rather than from the old markdown.",
