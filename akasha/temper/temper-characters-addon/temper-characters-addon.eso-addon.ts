@@ -24,7 +24,6 @@ export const temperCharactersAddon = {
     "module/characters-collector-merge",
     "module/characters-config",
     "module/characters-current-entry",
-    "module/characters-daily-writ-quest",
     "module/characters-daily-writs-detection",
     "module/characters-grand-master-stations",
     "module/characters-hireling-mail-count",

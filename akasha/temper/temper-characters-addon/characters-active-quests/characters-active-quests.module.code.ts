@@ -1,4 +1,4 @@
-import { isDailyCraftingWritQuest } from "../characters-daily-writ-quest/characters-daily-writ-quest.module.code.ts"
+import { isDailyCraftingWritQuest } from "../characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"
 import { formatProgressCount } from "../characters-progress-format/characters-progress-format.module.code.ts"
 
 export interface ActiveQuest {
