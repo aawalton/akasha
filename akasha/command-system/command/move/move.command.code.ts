@@ -16,11 +16,11 @@ import { linkingsIn, reachedOver } from "../../package-linking/package-linking.m
 import type { Carry } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import { glassIn, messageIn, pathInside } from "../write/write.command.code.ts"
-import { FROM, pairsIn, TO, VALUED } from "./move-arguing/move-arguing.module.code.ts"
-import { manifestingOver } from "./move-manifesting/move-manifesting.module.code.ts"
-import { importingOf, namingOf, spellingOf } from "./move-naming/move-naming.module.code.ts"
-import { outsideIn, outsideSaid } from "./move-outside/move-outside.module.code.ts"
-import type { Renaming, Unrepointed } from "./move-renaming/move-renaming.module.code.ts"
+import { FROM, pairsIn, TO, VALUED } from "./arguing/move-arguing.module.code.ts"
+import { manifestingOver } from "./manifesting/move-manifesting.module.code.ts"
+import { importingOf, namingOf, spellingOf } from "./naming/move-naming.module.code.ts"
+import { outsideIn, outsideSaid } from "./outside/move-outside.module.code.ts"
+import type { Renaming, Unrepointed } from "./renaming/move-renaming.module.code.ts"
 import {
   addressingOver,
   besideRenamed,
@@ -30,11 +30,11 @@ import {
   restated,
   unrepointedIn,
   unrepointedSaid,
-} from "./move-renaming/move-renaming.module.code.ts"
-import { repointed } from "./move-repointing/move-repointing.module.code.ts"
-import { resettlingSaid } from "./move-resettling/move-resettling.module.code.ts"
-import type { Pair, Spread } from "./move-spreading/move-spreading.module.code.ts"
-import { expandedIn, spreadSaid } from "./move-spreading/move-spreading.module.code.ts"
+} from "./renaming/move-renaming.module.code.ts"
+import { repointed } from "./repointing/move-repointing.module.code.ts"
+import { resettlingSaid } from "./resettling/move-resettling.module.code.ts"
+import type { Pair, Spread } from "./spreading/move-spreading.module.code.ts"
+import { expandedIn, spreadSaid } from "./spreading/move-spreading.module.code.ts"
 
 const AKASHA = "akasha"
 

@@ -1,6 +1,6 @@
 import { BREAK_GLASS, DRY_RUN } from "../../../asking/asking.module.code.ts"
 import { MESSAGE, MESSAGE_FILE } from "../../write/write.command.code.ts"
-import type { Pair } from "../move-spreading/move-spreading.module.code.ts"
+import type { Pair } from "../spreading/move-spreading.module.code.ts"
 
 export const FROM = "--from"
 

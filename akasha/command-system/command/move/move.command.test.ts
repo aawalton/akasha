@@ -5,6 +5,7 @@ import { unreadIn } from "@akasha/context-system/warranting"
 import { refusing } from "@akasha/testing-system/minting"
 import { there } from "@akasha/testing-system/putting"
 import { blobIdOf, readingIn } from "../../reading/reading.module.code.ts"
+import { pairsIn } from "./arguing/move-arguing.module.code.ts"
 import { move } from "./move.command.code.ts"
 import {
   AAAA,
@@ -77,7 +78,6 @@ import {
   why,
 } from "./move.command.test-fixtures.ts"
 import { move as moveCommand } from "./move.command.ts"
-import { pairsIn } from "./move-arguing/move-arguing.module.code.ts"
 
 afterAll(scratch.sweep)
 
