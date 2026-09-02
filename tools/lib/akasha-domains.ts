@@ -1,6 +1,7 @@
 import {
   everyOfType,
   everyPath,
+  readingIn,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { kindsUnder } from "../../akasha/pages-system/page-types/descent/page-type-descent.module.code.ts"
 import {
@@ -51,7 +52,7 @@ function frontmatterFrom(value: Value, parents: readonly string[]): Frontmatter 
 
 function heldIn(root: string): readonly Held[] {
   const found: Held[] = []
-  for (const kind of kindsUnder(root, DOMAIN)) {
+  for (const kind of kindsUnder(DOMAIN, readingIn(root), (path) => valueAt(path, root))) {
     for (const standing of everyOfType(root, kind)) {
       let value: Value | null
       try {
