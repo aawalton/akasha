@@ -1,3 +1,0 @@
-declare const TemperCombat_Report_TitleFightTitleBar: StatusBarControl & Control
-
-declare const TemperCombat_Report_TitleFightTitleName: LabelControl
