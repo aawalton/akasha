@@ -9,15 +9,19 @@ export const shalidorLibraryCollections = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "These collections are read out of the whole lore library by their category.",
+      statement: "The selection by category happens where this table is written out.",
     },
     {
       invariantKind: "departure",
-      statement: "The category is named by its game index rather than by its title.",
+      statement: "The category is named by the game index rather than by the title.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "These collections are the numbered runs joined in order.",
     },
     {
       invariantKind: "constraint",
-      statement: "A lore library holding no such category answers an empty list.",
+      statement: "A reader of this table carries no other lore category.",
     },
   ],
 } as const satisfies Module

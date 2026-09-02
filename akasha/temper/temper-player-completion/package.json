@@ -60,6 +60,8 @@
     "./completion-zone-progress": "./completion-zone-progress/completion-zone-progress.module.code.ts",
     "./cyrodiil-wayshrine": "./cyrodiil-wayshrine/cyrodiil-wayshrine.module.code.ts",
     "./shalidor-library-collections": "./shalidor-library-collections/shalidor-library-collections.module.code.ts",
+    "./shalidor-library-collections-00": "./shalidor-library-collections-00/shalidor-library-collections-00.module.code.ts",
+    "./shalidor-library-collections-01": "./shalidor-library-collections-01/shalidor-library-collections-01.module.code.ts",
     "./skill-point-general-sources": "./skill-point-general-sources/skill-point-general-sources.module.code.ts",
     "./skill-point-group-dungeons": "./skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts",
     "./skill-point-public-dungeons": "./skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts",

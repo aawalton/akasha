@@ -57,6 +57,8 @@ export const temperPlayerCompletion = {
     "module/completion-subclassing-progress",
     "module/completion-tribute-progress",
     "module/shalidor-library-collections",
+    "module/shalidor-library-collections-00",
+    "module/shalidor-library-collections-01",
     "module/completion-cadwell-lookup",
     "module/completion-cadwell-progress",
     "module/completion-poi-progress",
