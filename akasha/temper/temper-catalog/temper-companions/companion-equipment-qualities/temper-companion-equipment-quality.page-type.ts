@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCompanionThing } from "../temper-companion-thing.page-type.ts"
+import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
 
 export type TemperCompanionEquipmentQuality = TemperCompanionThing
 

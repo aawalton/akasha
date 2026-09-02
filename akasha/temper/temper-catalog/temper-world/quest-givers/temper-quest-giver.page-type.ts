@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCatalogThing } from "../../temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
 import type { CycleLength } from "../properties/cycle-length.number-property.ts"
 import type { Epoch } from "../properties/epoch.text-property.ts"
 

@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCatalogThing } from "../../temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
 import type { EsoSkillLineId } from "../properties/eso-skill-line-id.number-property.ts"
 import type { MaxRank } from "../properties/max-rank.number-property.ts"
 import type { SkillLineClass } from "../properties/skill-line-class.text-property.ts"

@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { IsOffHandOnly } from "../properties/is-off-hand-only.boolean-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-thing.page-type.ts"
+import type { IsOffHandOnly } from "../temper-companion-things/properties/is-off-hand-only.boolean-property.ts"
+import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
 
 export type TemperCompanionWeaponType = TemperCompanionThing & {
   isOffHandOnly: IsOffHandOnly

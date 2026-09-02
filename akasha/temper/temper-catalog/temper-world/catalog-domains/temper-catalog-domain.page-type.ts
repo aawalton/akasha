@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCatalogThing } from "../../temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
 import type { ApiVersion } from "../properties/api-version.text-property.ts"
 import type { CapturedAt } from "../properties/captured-at.instant-property.ts"
 import type { Dormant } from "../properties/dormant.boolean-property.ts"

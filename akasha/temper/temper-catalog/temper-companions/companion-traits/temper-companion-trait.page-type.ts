@@ -1,8 +1,8 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { EffectType } from "../../properties/effect-type.text-property.ts"
-import type { MetricId } from "../../properties/metric-id.text-property.ts"
-import type { IsReduction } from "../properties/is-reduction.boolean-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-thing.page-type.ts"
+import type { EffectType } from "../../temper-catalog-things/properties/effect-type.text-property.ts"
+import type { MetricId } from "../../temper-catalog-things/properties/metric-id.text-property.ts"
+import type { IsReduction } from "../temper-companion-things/properties/is-reduction.boolean-property.ts"
+import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
 
 export type TemperCompanionTrait = TemperCompanionThing & {
   isReduction: IsReduction

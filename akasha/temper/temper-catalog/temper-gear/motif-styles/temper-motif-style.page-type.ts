@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCatalogThing } from "../../temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
 import type { CollectionIndex } from "../properties/collection-index.number-property.ts"
 import type { DropSources } from "../properties/drop-sources.text-property.ts"
 import type { SourceDescription } from "../properties/source-description.text-property.ts"

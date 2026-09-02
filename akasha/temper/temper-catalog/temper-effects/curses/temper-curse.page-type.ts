@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCatalogThing } from "../../temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
 import type { EsoCurseIds } from "../properties/eso-curse-ids.number-property.ts"
 
 export type TemperCurse = TemperCatalogThing & {

@@ -1,8 +1,8 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { ValidMainHandWeaponTypes } from "../properties/valid-main-hand-weapon-types.text-property.ts"
-import type { ValidOffHandWeaponTypes } from "../properties/valid-off-hand-weapon-types.text-property.ts"
-import type { WeaponSkillLineId } from "../properties/weapon-skill-line-id.text-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-thing.page-type.ts"
+import type { ValidMainHandWeaponTypes } from "../temper-companion-things/properties/valid-main-hand-weapon-types.text-property.ts"
+import type { ValidOffHandWeaponTypes } from "../temper-companion-things/properties/valid-off-hand-weapon-types.text-property.ts"
+import type { WeaponSkillLineId } from "../temper-companion-things/properties/weapon-skill-line-id.text-property.ts"
+import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
 
 export type TemperCompanionWeaponRole = TemperCompanionThing & {
   weaponSkillLineId: WeaponSkillLineId

@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCatalogThing } from "../../temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
 import type { ConstantFamily } from "../properties/constant-family.text-property.ts"
 import type { ConstantId } from "../properties/constant-id.text-property.ts"
 import type { EsoNum } from "../properties/eso-num.number-property.ts"
