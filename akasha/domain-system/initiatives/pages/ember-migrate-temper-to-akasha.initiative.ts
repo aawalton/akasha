@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "The akasha `temper-addon-data-generate` refuses, saying its source pages are not in akasha yet — but 89 catalog page types and some 4,300 pages now are, so that premise looks overtaken and a seat is testing it per table. The live generator is the separate `tools/` one, whose sole `ALL_OUTPUT_DIRS` row writes `temper/player-completion/src/generated` and is the last hold on that package. Entries read through path-shaped calls; the nine keyed writers all refuse.",
+        "Proven against the running store: `askComposed` answers all nine completion catalogs with their jsonl entries resolved, and a wrong key refuses 400 so a reply is no default. That overtakes `temper-addon-data-generate`s refusal that its source pages are not in akasha. My ruling: catalogs stay server-side and the web loader computes progress there. The live generator is the separate `tools/` one, whose sole `ALL_OUTPUT_DIRS` row is the last hold on `player-completion`.",
     },
     {
       statement: "No part of temper is outside akasha.",
