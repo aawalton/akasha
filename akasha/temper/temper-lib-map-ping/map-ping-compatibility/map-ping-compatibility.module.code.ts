@@ -1,4 +1,3 @@
-import "../map-ping-declarations/map-ping-declarations.module.code.ts"
 import { asCompatLib, asGlobalObjectTable } from "../map-ping-casts/map-ping-casts.module.code.ts"
 import { requireHandler } from "../map-ping-initialization/map-ping-initialization.module.code.ts"
 import { LIB } from "../map-ping-lib/map-ping-lib.module.code.ts"

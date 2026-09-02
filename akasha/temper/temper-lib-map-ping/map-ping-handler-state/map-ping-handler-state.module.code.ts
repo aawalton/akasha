@@ -1,4 +1,3 @@
-import "../map-ping-declarations/map-ping-declarations.module.code.ts"
 import { PING_CATEGORY } from "../map-ping-constants/map-ping-constants.module.code.ts"
 import {
   getPingTagFromType,

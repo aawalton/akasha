@@ -1,5 +1,3 @@
-import type { GlobalFnTable, LmpPinManager } from "../map-ping-types/map-ping-types.module.code.ts"
-import "../map-ping-declarations/map-ping-declarations.module.code.ts"
 import {
   asCoordFn,
   asEsoVoidFn,
@@ -15,6 +13,8 @@ import {
 import { INTERNAL, LIB } from "../map-ping-lib/map-ping-lib.module.code.ts"
 import type {
   CoordFn,
+  GlobalFnTable,
+  LmpPinManager,
   MapPingHandlerClass,
   MapPingHandlerInstance,
   PendingPing,

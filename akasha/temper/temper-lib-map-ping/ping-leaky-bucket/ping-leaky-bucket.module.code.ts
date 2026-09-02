@@ -1,4 +1,3 @@
-import "../map-ping-declarations/map-ping-declarations.module.code.ts"
 import {
   BUCKET_SIZE,
   COMBAT_MODIFIER,

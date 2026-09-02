@@ -1,4 +1,3 @@
-import "../map-ping-declarations/map-ping-declarations.module.code.ts"
 export type CoordFn = (this: void, pingTag?: string) => LuaMultiReturn<[number, number]>
 
 export type EsoVoidFn = (this: void, ...args: unknown[]) => unknown
