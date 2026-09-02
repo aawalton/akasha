@@ -1,1 +1,0 @@
-Class bug with evidence + candidate fixes on the row (sync-then-exec, or loud preflight local-main==origin-main check). Deploy-pipeline surface = Dalla's bridge.

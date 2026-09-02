@@ -1,1 +1,0 @@
-Bug in @infra/inference comfy-client, found during Echo's MOSS smoke. Candidate fixes on row: re-fetch prior output, nonce the submit, or fail fast. Best read: aranya (ground-layer ComfyUI/GPU estate); alternative: athena (she's been on the zimage verb surface).
