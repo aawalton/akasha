@@ -6,6 +6,7 @@ export const applyCompletionOverrides = {
   slug: "apply-completion-overrides",
   definition: "raising a character's counted skill points to what a player claims by hand",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",
