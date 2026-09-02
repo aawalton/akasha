@@ -14,7 +14,6 @@ import { useCompanion as useCompanionZero } from "@akasha/temper-companions-ui/u
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { type ReactNode, useCallback, useReducer } from "react"
-import { useBuildSync } from "../../../use-build-sync/use-build-sync.module.code.ts"
 import type { CompanionAction } from "../companion-actions/companion-actions.module.code.ts"
 import { COMPANION_ACTIONS } from "../companion-actions/companion-actions.module.code.ts"
 import {
@@ -25,6 +24,7 @@ import {
 } from "../companion-contexts/companion-contexts.module.code.ts"
 import { companionReducer } from "../companion-reducer/companion-reducer.module.code.ts"
 import { CompanionStatsProvider } from "../companion-stats-context/companion-stats-context.module.code.tsx"
+import { useBuildSync } from "../use-build-sync/use-build-sync.module.code.ts"
 
 interface CompanionProviderProps {
   children: ReactNode

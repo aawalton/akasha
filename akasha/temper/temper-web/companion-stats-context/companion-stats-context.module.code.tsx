@@ -11,8 +11,8 @@ import { computeSoothingHealingDone } from "@akasha/temper-companions-core/compa
 import type { CompanionScalingMetricId } from "@akasha/temper-companions-core/companion-value-formula"
 import type { RotationResult } from "@akasha/temper-companions-core/rotation-types"
 import { createContext, type ReactNode, useMemo } from "react"
-import { useCompanionStatsCalculation } from "../../../companion-skills/hooks/use-companion-stats-calculation/use-companion-stats-calculation.module.code.ts"
 import { useCompanion } from "../use-companion/use-companion.module.code.ts"
+import { useCompanionStatsCalculation } from "../use-companion-stats-calculation/use-companion-stats-calculation.module.code.ts"
 
 export interface CompanionStatsContextValue {
   stats: Partial<Record<CompanionMetricId, CompanionMetricValue>>

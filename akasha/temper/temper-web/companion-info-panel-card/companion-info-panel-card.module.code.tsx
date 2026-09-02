@@ -13,7 +13,7 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { toVisibility } from "@akasha/temper-companions-core/companion-types"
 import { useEffect, useState } from "react"
-import { useCompanionMetadata } from "../../companions/context/use-companion/use-companion.module.code.ts"
+import { useCompanionMetadata } from "../use-companion/use-companion.module.code.ts"
 
 interface CompanionInfoPanelCardProps {
   buildName: string

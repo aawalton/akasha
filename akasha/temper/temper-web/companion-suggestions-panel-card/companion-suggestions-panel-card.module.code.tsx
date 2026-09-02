@@ -8,8 +8,8 @@ import {
   useCompanion,
   useCompanionActions,
   useCompanionMetadata,
-} from "../../companions/context/use-companion/use-companion.module.code.ts"
-import { useCompanionSuggestions } from "../hooks/use-companion-suggestions/use-companion-suggestions.module.code.ts"
+} from "../use-companion/use-companion.module.code.ts"
+import { useCompanionSuggestions } from "../use-companion-suggestions/use-companion-suggestions.module.code.ts"
 
 interface CompanionSuggestionsPanelCardProps {
   className?: string

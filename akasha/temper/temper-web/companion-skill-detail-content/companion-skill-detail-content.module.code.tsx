@@ -15,14 +15,14 @@ import {
 } from "@akasha/temper-companions-core/companion-skill-tooltip"
 import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { capitalize } from "@akasha/utils-narrow/capitalize"
-import { ConstraintBadges } from "../effect-badges/constraint-badges/constraint-badges.module.code.tsx"
-import { EffectBadge } from "../effect-badges/effect-badge/effect-badge.module.code.tsx"
+import { ConstraintBadges } from "../constraint-badges/constraint-badges.module.code.tsx"
+import { EffectBadge } from "../effect-badge/effect-badge.module.code.tsx"
 import {
   RadiusBadge,
   RangeBadge,
   TargetingBadge,
-} from "../effect-badges/targeting-badges/targeting-badges.module.code.tsx"
-import { TimingBadges } from "../effect-badges/timing-badges/timing-badges.module.code.tsx"
+} from "../targeting-badges/targeting-badges.module.code.tsx"
+import { TimingBadges } from "../timing-badges/timing-badges.module.code.tsx"
 
 const SKILL_DETAIL_WIDTH = COLUMN_WIDTH
 
