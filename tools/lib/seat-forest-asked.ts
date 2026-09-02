@@ -1,11 +1,7 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { type ForestRow, readSeatForest } from "./seat-forest.ts"
 import { colorOfState } from "./seat-turn-color.ts"
-import {
-  type SeatTurnState,
-  readSeatTurn,
-  seatTurnRecordsOf,
-} from "./seat-turn-state.ts"
+import { readSeatTurn, type SeatTurnState, seatTurnRecordsOf } from "./seat-turn-state.ts"
 
 // THE FOREST IS READ FROM AKASHA RATHER THAN ASKED OF THE OLD PAGE QUERY. This asked
 // `answer(roots, { pageType: "seat", ... })` and read the result as `asked?.rows ?? []`, so the
@@ -19,7 +15,7 @@ import {
 // have caught this: for three hours the answer was empty and honest.
 //
 // SO THE READER IS REPOINTED RATHER THAN THE ENGINE TAUGHT. A seat's page is
-// `akasha/seat-system/seat/seats/<name>.seat.ts` and what is observed of it stands beside that
+// `akasha/seat-system/seat/pages/<name>.seat.ts` and what is observed of it stands beside that
 // page. The old engine reads markdown frontmatter off a glob, so no amount of registry work makes
 // it read a seat; `readSeatForest` already walks akasha's index and is what `tools/agent-forest.ts`
 // has been reading all along. This adds the turn reading and its colour on top of that walk.

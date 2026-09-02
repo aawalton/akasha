@@ -48,7 +48,7 @@ const VERA_ID = "01a0587c-0000-7000-8000-00000000000b"
 
 const TYPE_AT = "akasha/seat-system/seat/seat.page-type.ts"
 
-const PAGE_AT = "akasha/seat-system/seat/seats/vera.seat.ts"
+const PAGE_AT = "akasha/seat-system/seat/pages/vera.seat.ts"
 
 const ONE: Renaming = {
   id: SEAT_ID,

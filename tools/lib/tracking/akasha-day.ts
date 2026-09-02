@@ -30,7 +30,7 @@ import { valueAt } from "@akasha/pages-system/page-value"
 import {
   composedFor,
   type Put,
-} from "../../../akasha/pages-system/pages-system-service/page-composing/page-composing.module.code.ts"
+} from "../../../akasha/pages-system/service/page-composing/page-composing.module.code.ts"
 import {
   COMPLETED_TASKS_SLUG,
   DAY_PAGE_TYPE,

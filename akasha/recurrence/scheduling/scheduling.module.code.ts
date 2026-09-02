@@ -1,9 +1,6 @@
 import { padTwo } from "@akasha/digit-padding"
 import { RRule } from "rrule"
-import type {
-  RecurrenceDueResult,
-  RecurrenceTask,
-} from "../recurrence-shape/recurrence-shape.module.code.ts"
+import type { RecurrenceDueResult, RecurrenceTask } from "../shape/recurrence-shape.module.code.ts"
 
 function toEpoch(date: string, time: string | null): number {
   const t = time != null && time !== "" ? time : "00:00"

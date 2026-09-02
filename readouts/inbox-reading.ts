@@ -24,17 +24,18 @@
 //
 // The counts themselves are never printed. They say how far behind Alan is today, and a service
 // log is the wrong place for that.
+
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { lowestIn } from "@akasha/readout-system/inboxes-email"
 import { tasksIn } from "@akasha/readout-system/inboxes-tasks"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { statedAt } from "@akasha/readout-system/readout-tier"
-import { getEsoDayStr } from "@akasha/day/eso-day"
 import { askComposed } from "../tools/lib/page-query-client.ts"
 import { askDayByDate } from "../tools/lib/tracking/day-place.ts"
 import { wakeDayOf } from "../tools/lib/wake-day.ts"
 
-const READOUTS = "akasha/readout-system/readout/readouts"
+const READOUTS = "akasha/readout-system/readout/pages"
 
 export const EMAIL_PAGE = `${READOUTS}/inboxes-email/inboxes-email.readout.ts`
 

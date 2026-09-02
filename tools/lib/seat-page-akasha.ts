@@ -1,3 +1,5 @@
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type {
   SeatStated,
   Stating,
@@ -6,13 +8,11 @@ import {
   statedSeat,
   tookSeat,
 } from "../../akasha/seat-system/seat-stating/seat-stating.module.code.ts"
-import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { type Outcome } from "./gated-write.ts"
+import type { Outcome } from "./gated-write.ts"
 import { principalSeatNameOf } from "./seat-principal.ts"
 import type { Stated } from "./seat-stated.ts"
 
-const DIR = "akasha/seat-system/seat/seats"
+const DIR = "akasha/seat-system/seat/pages"
 
 const SUFFIX = ".seat.ts"
 

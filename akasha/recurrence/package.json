@@ -5,7 +5,7 @@
   "exports": {
     "./labeling": "./labeling/labeling.module.code.ts",
     "./parsing": "./parsing/parsing.module.code.ts",
-    "./recurrence-shape": "./recurrence-shape/recurrence-shape.module.code.ts",
+    "./recurrence-shape": "./shape/recurrence-shape.module.code.ts",
     "./scheduling": "./scheduling/scheduling.module.code.ts"
   },
   "dependencies": {

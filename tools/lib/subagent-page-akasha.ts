@@ -1,13 +1,13 @@
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import {
   pathOf,
   pathsUnder,
-  slugOf,
   SUBAGENTS_AT,
+  slugOf,
   tookUnder,
-} from "../../akasha/seat-system/subagent/subagent-presence/subagent-presence.module.code.ts"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { type Outcome } from "./gated-write.ts"
+} from "../../akasha/seat-system/subagent/presence/subagent-presence.module.code.ts"
+import type { Outcome } from "./gated-write.ts"
 
 export function akashaSubagentSlug(seatName: string, own: string): string {
   return slugOf(seatName, own)

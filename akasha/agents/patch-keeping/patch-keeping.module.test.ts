@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { dropPatch, keepPatch, keptPatch, patchAt, patchIn } from "./patch-keeping.module.code.ts"
 
-const SEAT = "akasha/seat-system/seat/seats/dalla.seat.ts"
+const SEAT = "akasha/seat-system/seat/pages/dalla.seat.ts"
 
 const BESIDE = "akasha/seat-system/seat/seats/dalla.seat.patch.uncommitted.diff"
 

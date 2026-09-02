@@ -4,7 +4,7 @@
   "type": "module",
   "exports": {
     "./reminder": "./reminders/reminder.page-type.ts",
-    "./reminder-sending": "./reminders/modules/reminder-sending/reminder-sending.module.code.ts"
+    "./reminder-sending": "./reminders/modules/sending/reminder-sending.module.code.ts"
   },
   "dependencies": {
     "@akasha/command-system": "workspace:*",

@@ -5,7 +5,7 @@ import {
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { partedIn } from "../../pages-system/page/file-name/page-file-name.module.code.ts"
 import { type Value, valueAt } from "../../pages-system/page/value/page-value.module.code.ts"
-import { kindsUnder } from "../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
+import { kindsUnder } from "../../pages-system/page-type/descent/page-type-descent.module.code.ts"
 
 const DOMAIN = "domain"
 

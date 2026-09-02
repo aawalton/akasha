@@ -30,7 +30,7 @@ function corpusOfFixture(
   }
 }
 
-const CLIENT = 'export function askComposed() {}\nexport function pageLanding() {}\n'
+const CLIENT = "export function askComposed() {}\nexport function pageLanding() {}\n"
 
 test("a file that spells no day and takes no verb is not a finding", () => {
   const reading = readingOf(
@@ -73,10 +73,10 @@ test("the name reaches through a workspace package export, which is escape one",
       },
       {
         "@akasha/readout-system/upkeep-surplus":
-          "akasha/readout-system/readout/readouts/upkeep-surplus/upkeep-surplus.readout.code.ts",
+          "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts",
       },
       {
-        "akasha/readout-system/readout/readouts/upkeep-surplus/upkeep-surplus.readout.code.ts":
+        "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts":
           UPKEEP_SURPLUS,
       }
     )
@@ -86,7 +86,7 @@ test("the name reaches through a workspace package export, which is escape one",
   expect(found[0]?.kind).toBe("read")
   expect(found[0]?.named.how).toBe("delegate")
   expect(found[0]?.named.from).toBe(
-    "akasha/readout-system/readout/readouts/upkeep-surplus/upkeep-surplus.readout.code.ts"
+    "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts"
   )
 })
 
@@ -101,7 +101,7 @@ test("without the export map the package is opaque and escape one goes through",
       },
       {},
       {
-        "akasha/readout-system/readout/readouts/upkeep-surplus/upkeep-surplus.readout.code.ts":
+        "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts":
           UPKEEP_SURPLUS,
       }
     )
@@ -126,10 +126,10 @@ test("the repaired shape, asking the funnel for its day, is not a finding", () =
       },
       {
         "@akasha/readout-system/upkeep-surplus":
-          "akasha/readout-system/readout/readouts/upkeep-surplus/upkeep-surplus.readout.code.ts",
+          "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts",
       },
       {
-        "akasha/readout-system/readout/readouts/upkeep-surplus/upkeep-surplus.readout.code.ts":
+        "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts":
           UPKEEP_SURPLUS,
       }
     )
@@ -146,7 +146,8 @@ test("the day page type renamed twice through a barrel, which is escape two", ()
   const reading = readingOf(
     corpusOfFixture({
       "tools/lib/page-query-client.ts": CLIENT,
-      "tools/lib/rows/daily-row.ts": 'export const DAILY_TRACKING_PAGE_TYPE_SLUG = "daily-tracking"\n',
+      "tools/lib/rows/daily-row.ts":
+        'export const DAILY_TRACKING_PAGE_TYPE_SLUG = "daily-tracking"\n',
       "tools/lib/rows/modules.ts":
         'export { DAILY_TRACKING_PAGE_TYPE_SLUG as THE_DAY_TYPE } from "./daily-row.ts"\n',
       // `askingFor` off the service package, which is the road `value-points.ts` really took, and
@@ -224,7 +225,8 @@ test("the delegate rule travels one hop and no further", () => {
   const reading = readingOf(
     corpusOfFixture({
       "tools/lib/page-query-client.ts": CLIENT,
-      "tools/lib/chain/spells.ts": 'const DAY = "daily-tracking"\nexport function one() { return DAY }\n',
+      "tools/lib/chain/spells.ts":
+        'const DAY = "daily-tracking"\nexport function one() { return DAY }\n',
       "tools/lib/chain/near.ts":
         'import { one } from "./spells.ts"\n' +
         'import { askComposed } from "../page-query-client.ts"\n' +

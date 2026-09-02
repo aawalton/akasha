@@ -1,7 +1,7 @@
 /**
  * Where a converted day belongs, and what its file imports, asked of akasha rather than written down.
  *
- * `composedFor` in `akasha/pages-system/pages-system-service/page-composing/` is what the pages
+ * `composedFor` in `akasha/pages-system/service/page-composing/` is what the pages
  * system service composes every akasha page from, and it answers both questions already: `pathFor`
  * says which folder a page of a type goes in, and `importedFrom` says what specifier reaches the type
  * from there. This file is those two called with the day page type, so the migration renders the same
@@ -16,7 +16,7 @@
  */
 
 import { importedFrom } from "../../akasha/pages-system/page/body/page-body.module.code.ts"
-import { pathFor } from "../../akasha/pages-system/pages-system-service/page-composing/page-composing.module.code.ts"
+import { pathFor } from "../../akasha/pages-system/service/page-composing/page-composing.module.code.ts"
 import { DAY_PAGE_TYPE } from "./shape.ts"
 
 export type Placing = {

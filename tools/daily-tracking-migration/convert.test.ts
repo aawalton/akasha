@@ -6,11 +6,11 @@ import { slugOfFilePage } from "../../akasha/file-page-identity/file-page/file-p
 import { importedFrom } from "../../akasha/pages-system/page/body/page-body.module.code.ts"
 import { exportedAs } from "../../akasha/pages-system/page/export-name/page-export-name.module.code.ts"
 import { besideAt } from "../../akasha/pages-system/page/file-name/page-file-name.module.code.ts"
-import { pathFor } from "../../akasha/pages-system/pages-system-service/page-composing/page-composing.module.code.ts"
 import {
   ID_SUFFIX_LENGTH as AKASHA_ID_SUFFIX_LENGTH,
   buildPageHrefParam,
 } from "../../akasha/pages-system/pages-url/page-href/page-href.module.code.ts"
+import { pathFor } from "../../akasha/pages-system/service/page-composing/page-composing.module.code.ts"
 import { declaredIn, pageTypeFilesIn } from "../daily-tracking-landing/declared.ts"
 import { camelizeKey, kebabizeKey } from "../lib/tracking/keys.ts"
 import {

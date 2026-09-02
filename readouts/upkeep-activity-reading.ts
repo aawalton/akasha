@@ -27,7 +27,7 @@ import { activityIn } from "@akasha/readout-system/upkeep-activity"
 import { askDayByDate } from "../tools/lib/tracking/day-place.ts"
 
 export const READOUT_PAGE =
-  "akasha/readout-system/readout/readouts/upkeep-activity/upkeep-activity.readout.ts"
+  "akasha/readout-system/readout/pages/upkeep-activity/upkeep-activity.readout.ts"
 
 export const NOTHING_TO_TAKE =
   "no tracking day carries an activity, so there is no reading to take. A tile showing no signal " +
