@@ -51,8 +51,8 @@ export async function reprojectUserCardsSafely(
       fingerprint: "idle-card-reprojection-failed",
       message: failure.message,
       stack: failure.stack ?? "",
-      kind: failure.name,
-      app: "alanwalton-web",
+      kind: "error",
+      app: "alanwalton",
       url: `/api/save (${IDLE_PERSONA_CARD_PAGE_TYPE_SLUG})`,
       userAgent: "server",
     })
