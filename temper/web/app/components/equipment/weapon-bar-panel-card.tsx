@@ -1,39 +1,42 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import {
-  type WeaponEnchantmentId,
-  weaponEnchantments,
-} from "@temper/game-characters-equipment/enchants/weapon-enchants-data"
+import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import {
   bulkUpdateWeaponEnchant,
   bulkUpdateWeaponQuality,
   bulkUpdateWeaponSet,
   bulkUpdateWeaponTrait,
-} from "@temper/game-characters-equipment/loadout/bulk-update-weapons"
-import type { WeaponBars } from "@temper/game-characters-equipment/loadout/loadout-types"
-import { getWeaponMythicSlots } from "@temper/game-characters-equipment/loadout/mythic-set-rules"
+} from "@akasha/temper-characters-equipment/bulk-update-weapons"
+import type { WeaponBars } from "@akasha/temper-characters-equipment/loadout-types"
+import { getWeaponMythicSlots } from "@akasha/temper-characters-equipment/mythic-set-rules"
+import {
+  type WeaponEnchantmentId,
+  weaponEnchantments,
+} from "@akasha/temper-characters-equipment/weapon-enchants"
 import {
   getWeaponItem,
   isShieldSlot,
   isWeaponSlot,
   shouldHideWeaponSlot,
-} from "@temper/game-characters-equipment/loadout/weapon-slot-access"
+} from "@akasha/temper-characters-equipment/weapon-slot-access"
 import {
   removeWeaponItem,
   updateWeaponItem,
-} from "@temper/game-characters-equipment/loadout/weapon-slot-mutations"
-import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+} from "@akasha/temper-characters-equipment/weapon-slot-mutations"
+import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
 import {
   type WeaponTraitId,
   weaponTraitsBuildList,
   weaponTraits as weaponTraitsData,
 } from "@akasha/temper-equipment/weapon-traits"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { weaponSlots as weaponSlotsData } from "@akasha/temper-equipment-kinds/weapon-slots"
-import { weaponTypes } from "@temper/game-characters-equipment/weapons/weapon-types-data"
-import { AVAILABLE_QUALITY_OPTIONS, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
-import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { useMemo } from "react"
 import { BulkEditTag } from "@/components/equipment/bulk-edit-tag"
 import { BulkSetEditTag } from "@/components/equipment/bulk-set-edit-tag"
