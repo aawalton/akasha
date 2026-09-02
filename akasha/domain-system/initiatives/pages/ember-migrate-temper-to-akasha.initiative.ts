@@ -14,7 +14,11 @@ export const emberMigrateTemperToAkasha = {
       workingMemory:
         "1 of 99 page types recreated: temper-catalog/armor-traits, pages and entries. Forced by `introduced-property-is-a-part`: a property more than one page type carries lives on a base page type. `temper-thing` holds title, key, description, icon, display-order; `temper-catalog-thing` holds effect, material, eso-trait-constant-name and the `effects` and `quality-values` entry shapes. A page type extends its base and parts what it introduces. Clusters: catalog 73, character 10, holdings 6.",
     },
-    { statement: "No part of temper is outside akasha." },
+    {
+      statement: "No part of temper is outside akasha.",
+      workingMemory:
+        "Outside akasha: the `temper/` workspace is 153 packages over 4,484 tracked files; `tools/lib/temper-addon-data` is 201; three services name temper — `temper-watcher`, `temper-watcher-liveness`, `inbox-tracking-poll`. 4,835 tracked files outside `akasha/` and `pages/` name temper. The 5,557 md pages under `pages/temper-*` go once the first intent is met.",
+    },
   ],
   constraints: [
     "The entries work lands in pages-system rather than under temper.",
