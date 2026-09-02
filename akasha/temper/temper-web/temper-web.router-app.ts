@@ -75,6 +75,7 @@ export const temperWeb = {
     "module/use-companion-partner-build-url",
     "module/use-companion-plan-entities",
     "module/use-companion-skill-bars",
+    "module/use-companion-stats",
     "module/use-companion-stats-calculation",
     "module/use-companion-suggestions",
     "module/use-companion-update",
