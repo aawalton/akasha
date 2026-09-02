@@ -1,0 +1,144 @@
+---
+id: 9e999f1a-d459-541c-a4f4-b9c634bc9ffd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Convictions"
+slug: 0020-chapter-20-convictions
+partOf: savage-divinity
+position: 20
+ownLength: 2467
+unit: words
+publishedAt: 2016-03-18
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/59375/chapter-20-convictions"
+royalRoadId: "59375"
+---
+
+I stand in front of my adversary, my nemesis, my enemy.
+
+
+He must die.
+
+
+My chest rises and falls slowly as I steady my breathing. I have only one chance. I need to put everything into this single strike.
+
+
+To destroy him.
+
+
+I look down at my new sword and study it. The unadorned pommel, the hilt wrapped beautifully, a red cord base with black cord wrapped over top in an intricate pattern. The scabbard is rectangular and wooden, with a flat metal tip. More black cord is wrapped around the top portion of it, a plain metal belt clip ensnared within.
+
+
+The blade slides out, slowly. No ringing sound, just the scrape of metal on wood. My hand rests comfortably on the raised cord of the hilt, feeling the patterned X's. There's no hand guard, just a small raised rectangular portion, separating blade and hilt. The blade is straight and double-edged, 35 cm long and 4 cm wide of polished mirrored metal. Two grooves run along the length of the blade, the light causing a wavy diamond pattern to be reflected within them.
+
+
+It is a wonderfully crafted weapon, beautiful in its simplicity. It is mine. It is a part of me, in body and spirit. I will use it to cut down my enemy. I breathe in, and out, closing my eyes.
+
+I reach for Balance. The Energy of the Heavens surges into me, like waves crashing against the cliff side, gradually slowing until calm as mirror’s surface. The still energy is directed towards my sword, controlled as easily as breathing.
+
+
+I slowly swing the sword at my nemesis. It strikes, encountering resistance, a slow jagged path, furrowing path through.
+
+
+My eyes open, and Balance is lost. I study my work before me. The wooden log has a small chunk missing, about the size of a finger.
+
+
+“Mediocre.” Baatar is same as always, direct and unvarnished. “The cut is shallow, the path erratic. You are not projecting enough chi into the blade, nor is it uniform. Again.”
+
+
+Three years of training can be summed up into that one word: Again. Fail, and try again. Succeed, and do so again. It’s been drilled into my head by every one of my teachers. Again.
+
+
+My second attempt is the same as the first. So is the third and the fourth. An hours worth of attempts and the log has been reduced to kindling. My energy is spent, sweat dripping down my body, head aching from the strain, breath panting.
+
+
+Baatar snorts and walks over and places a metal bar, 30 cm in diameter, into the stand. He takes my sword and casually swings it in a backhand slice. The metal shrieks and is cut in two.
+
+
+That's just not human. It’s ridiculous.
+
+
+“I keep telling you, boy: build your foundations. You keep pestering me to teach you more methods of chi usage, but you can’t even grasp the most simple aspect without closing your eyes. It takes time and effort to build up to this. You need more practice in control. You need to grow. This is where you should be focusing. One step at a time, boy. Clean up here. We're done for today.” Baatar turns and stalks away. His tail is wagging, so I know he isn't mad. Then again, it is lunchtime.
+
+
+Time to start cleaning the remains of my nemesis. Rest in Peace Woody Woodson. He takes splintery vengeance upon me, despite my prayer for him, but that’s karma. I did hack him to pieces after all. Three years of training. One year for me to reach the first step. Two more years… and here I am, still stuck on that first step. They're really big steps.
+
+
+I’m not too upset though. The whole point of the training is just for fun anyways. It's not that I'm fighting people in death matches or anything. Herbalism and healing take up most of my time, the Martial Training is more of a hobby. A hobby that can save my life, at that. Beats playing checkers all day.
+
+
+These past two years have been good. Living in the village, learning and training. As soon as I was able to reach the State of Balance, my body went through a growth spurt, and through all those awkward preteen stages. At 16 year's old, I stand close to 165 cm, which is still a little shorter than average in the village. There are still some years of growing to go though, so hopefully I get taller. My voice has deepened, but it's still on the mid to higher range of the scale. Other than that, not much has changed. The twins are older, but still adorable, Charok and Alsantset are still madly in love, and Taduk is still a Hare Supremacist. Poor bunnies. Poor, delicious, juicy, bunnies.
+
+
+We've had a streak of luck, with no casualties of battle since before I arrived. Every year, it's been a happy and joyous occasion when Baatar returns with the Company. They love their festivals. The Company is back? A festival. The company is leaving? Another festival. New year, Harvest, Summer and Winter equinox? Festivals for all. Village life can get pretty dull, so they find a reason to celebrate almost anything.
+
+
+This morning, Baatar gifted me with my new sword, hence the new lesson. It's probably expensive, since most weapons are black iron, a world of difference from my shiny new sword. A spiritual weapon, something I can infuse with my chi. It was made in the village, so I should go find out how they're made, and see if I can get a spear as well. The sword is a little short for my tastes, but it suits the style Baatar is teaching me perfectly.
+
+
+Baatar teaches me when he's around, and the rest of the year, I learn from Alsantset. This has caused some friendly competition between the two of them, with me caught in the middle. It's especially harder around the transition times. The two of them have different styles to teach and tend to pull me in both directions. Baatar wants me to be aggressive, charging forward with short spear and shield, and now short sword. Alsantset prefers to use a longer weapon, like a normal spear, controlling the pace and keeping her distance. I had no choice but to push myself to learn both. It was easier than trying to broker a peace between them, or worse, choose one over the other. They're both so stubborn and prideful, it's hard to remember that they aren't blood related.
+
+
+The sword is a great gift, but I feel like a sword is purely a weapon, unsuitable for me. I mean, I can use a spear and bow for hunting. A short sword? It's better than nothing is the best I can say. I shouldn't be ungrateful. It's a splendid weapon.
+
+
+I brush my hands off and head out, my cleaning complete. Time for lunch. Normally it would be time to eat with Taduk and Mei, but they left on a long trip to the city. Taduk owns a villa there, and tends to visit for a few weeks at a time. A villa. I bet it's all sorts of expensive. I can't wait to earn the big bucks as a healer. Or even just visit the city. Beautiful though the village is, sometimes you need a change of scenery.
+
+Enjoying the story? Show your support by reading it on the official site.
+
+
+The familiar doors of my home are wide open, and the smell of cooked rice and spices greets me. If it weren't for all the walking and exercise, I'd be a fat bastard by now. The twins are sitting at the table, waiting for lunch already. Alsantset is bringing out food, in tiny bamboo steamers. I sit down next to Tate and wait patiently. Don't drool.
+
+
+“Husolt mentioned that Papa brought you a new sword. Show it to me.” That competitive spirit showing through. Alsantset will probably criticize it for being too short. I reach back to unhook the sheath and freeze. The sword is still at the training yard. Fuck.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+I'm still not quite used to hunting animals, especially the cute fluffy ones. One thing I wasn't expecting was the screaming. They all scream while dying. I'm not good enough with the bow to instantly kill my target every time. It sends shivers down my spine. It hasn't turned me vegetarian though. Meat tastes too good for that. It has made me appreciate meat more, seeing the amount of work required. Don't even get me started on making noodles or dumplings. So here I am, doing my part, slaughtering delicious animals. Or rather, trying to find delicious animals to slaughter. I'm being useful.
+
+
+Pafu and Suret are with me, carrying their three tiny new pups in their arms. The pups hatched in the spring, which raised all sorts of questions. Now, almost 6 months old, the little adorable floofballs are still incredibly weak, and are rarely out of sight of their parents. It takes two years for them to finish fully growing, during which the parents will raise them together. It's nice seeing good animal parents. It's heartwarming.
+
+
+The twang of my bow and hiss of an arrow, and a shrill squeal sounds out. Birds fly off and the forest goes silent for a moment, before resuming its normal sounds. Pafu drops his pup into Suret's paws and runs off to grab my kill. He comes back with a big fat rabbit in his paws and mouth, handing it to me proudly. Roosequins seem to be man's best friend around here. Useful for all sorts of things. I set about bleeding and skinning the rabbit, removing the offal and tossing little bits to the quins. My catch so far is three water birds and two giant rabbits. One more bird and I can head home. Having free afternoons lately is pretty good. The rabbit goes into the basket with his partners in deliciousness, and off we go a hunting.
+
+
+Pafu and Suret go alert, noticing something I've missed. My eyes focus in the same direction, drawing another arrow. Out here, you aren't always the hunter. I strain my ears and eyes. Normal forest noises. No moving bushes, shaking trees, no sounds of movement. Just a false alarm.
+
+
+An ear-splitting cry puckers my asshole, and I freeze for a split second before bolting away. Pafu and Suret react faster than me, well ahead and gaining distance. Fucking furry traitors. I should get a dog. Dashing through the forest, jumping logs and crashing through bushes while behind me I hear it crash through logs and rip through bushes. Fuck. Breath deep, find Balance. A root catches my foot, and I stumble a few steps, losing precious seconds. My options limited, I turn and snap an arrow off before diving to the side.
+
+
+It crashes through the trees, unable to stop. A second arrow is nocked, but I'm unable to get a clear shot. A shrill, pulsating cry sounds once again. It stalks out one slow step at a time, revealing it's meter tall body slowly, glaring at me with its tiny yellow eyes, mottled green feathers ruffled, my arrow in its shoulder. The giant, yellow beak snaps threateningly once, twice. A fucking Terror Bird. It charges once again.
+
+
+Shooting again, I dive aside again, but it's waiting for it, stepping diagonally, long neck extending, beak snapping centimeters from my leg. Thank god it doesn't corner well. Or fly at all. Dropping my bow, I draw my sword. More like knife. If only Suret didn't run off with my spear and shield. Not that it matters.
+
+
+The bird is wary of my shiny weapon. We stare at one another, it taking my measure, me trying to glare it to death. Maybe I should have held onto the bow a bit longer. A third cry, beak opened wide, toothed gullet displayed. It steps forward, snapping at me. My sword in both hands, I bat its head away, dodging around trees and rocks. It's beak snaps through them like chewing butter. My arms start to feel like noodles, its head like a steel beam, I lose ground before it, my life flashing before my eyes with each snap of its beak.
+
+
+Pafu springs out from behind, latching onto the bird's leg and pulls back. It turns to snap at him and I charge, focusing my chi into the sword. One chance. Become one with the weapon. Swinging my sword at its thick, muscular neck, the steel bites deep. A scream sends needles down my spine.
+
+Nope. A failure. Try again? I pull the blade free and ready a second swing.
+
+The air is squeezed out of my lungs, a large clawed foot kicking me in the chest. My body flies back a few meters, landing on my knees, gasping for air, my forehead striking the dirt.
+
+I need to get up. I can feel it's footsteps coming closer. Step. Step. Crash.
+
+
+My head still in the dirt, my breath comes in pants, with sharp pain accompanying each breath. Unable to stand until they subside, I lift my head to watch my impeding death.
+
+
+The Terror Bird lies on the ground, its red blood pooling the ground, bursting out in pulsing spurts, each one weaker than the last. Its mouth open, pitiful gurgling cries coming out. It's dying screams almost sound like its heartbroken. I curl up and wait for the pain in my chest to subside, watching the bird die.
+
+I don't know how long I passed out for. Something wet and furry nuzzling me wakes me. My eyes are greeted by Pafu, face covered in blood, dripping from his whiskers. Struggling to sit up, I look around. The furry little hero has been eating the Terror Bird. Suret and her pups are still there, nibbling away at the corpse. I scratch Pafu on the neck and he purrs in delight. “Who's a good roosey-goosey? You are, yes you are. You saved my life, didn't you? Ya you did.” My face is buried in his fur now. If Pafu or Suret ever turn into an Ancestral Beast, I hope they don't tell anyone about my 'cute animal' voice.
+
+
+My legs are shaky as I stand and find my bearings. The sun will be up for at least another three hours, so I wasn't out long. Making my way slowly to the dead bird, I shoo the quins away. This is my kill. Pafu gets an assist, so he can snack, but you other furry little traitors don't deserve the best bits.
+
+
+I hope this stupid bird is delicious. It would have been embarrassing, dying to a giant fucking parrot.

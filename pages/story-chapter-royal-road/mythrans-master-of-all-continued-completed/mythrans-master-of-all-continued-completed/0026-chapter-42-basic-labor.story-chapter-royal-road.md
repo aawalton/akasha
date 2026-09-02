@@ -1,0 +1,178 @@
+---
+id: 44d1a0fb-d50e-5e2e-af78-ecc1bcfd3a3d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42 - Basic Labor"
+slug: 0026-chapter-42-basic-labor
+partOf: mythrans-master-of-all-continued-completed
+position: 26
+ownLength: 2480
+unit: words
+publishedAt: 2016-10-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96201/chapter-42-basic-labor"
+royalRoadId: "96201"
+---
+
+*
+(Author's Note: Royal Road Legends servers are having a major maintenance and data migration update tomorrow for several hours, so no new chapter tomorrow. I'll have one ready for the next day, though.)
+*
+(Author's Note 2: A day off? No way! LOL)
+*
+
+Ren woke up in the spare room of the Blackmeadow Homestead. He pushed off the blanket and sat up. “Teepo?”
+
+“I'm here, Ren!” Teepo said, skittered across the ceiling, and dropped into his lap.
+
+“Good morning, Teepo.”
+
+“Good morning! I'm so glad you're finally awake!” Teepo chittered in delight.
+
+“Why? I didn't sleep in that late, did I?” Ren said and looked out the window. It wasn't too bright out, so he knew it was still early in the day.
+
+“Since yesterday! Abigail was so worried that you wouldn't wake up all day, she had Aimus go to the next homestead to get a healer.”
+
+The door to the spare room opened and in walked someone Ren didn't recognize. She had long blonde hair tied up in a high ponytail that bobbed when she walked. She looked to be in her 20s and stopped dead when she saw Ren was sitting up in the bed.
+
+“Oh! You're finally awake!” She said and turned back to the hallway. “Everyone! He's awake!” She shouted. A moment later several pairs of footsteps clambered down the hallway and three more people came into the room.
+
+“We were so worried.” Abigail said.
+
+“Yeah, my wife was worried.” Aimus said and grinned.
+
+Abigail slapped his shoulder. “Quiet, you!”
+
+Ren smiled. “I'm fine. I guess I was just exhausted, even more than I thought I was.”
+
+Ana came over and hopped up on the end of the bed. “You wouldn't wake up, no matter how much we shook you.”
+
+Ren nodded. He knew his body wouldn't have reacted in any way, no matter what they did.
+
+“It was kinda scary.” Ana said.
+
+Ren reached out and patted her head. “Don't worry, Ana. I'm okay now.”
+
+The healer spoke up then. “After I examined you, I didn't find any injuries that could have caused your unconsciousness... but just to be safe, I tried to heal you.” She walked over to a chair that wasn't there when Ren went to sleep, and sat down on it. “Your body took the mana, so I thought you might have been deeply hurt inside.” She looked at Aimus, who nodded.
+
+Ren assumed Aimus had to tell her the whole story so she would know how to treat Ren properly. Ren nodded at Aimus when he looked up.
+
+“I kept healing you all night.” The healer said.
+
+“All... night?” Ren said.
+
+Everyone in the room nodded.
+
+Ren reached out to take the healer's hand. “Thank you.” Ren said with sincerity. “Thank you very much for taking care of me.” Ren said and turned to the others. “That goes for all of you. I really appreciate it.”
+
+Blushes were seen on all the female faces.
+
+“You're under my protection as long as you're under my roof. It was only right to have you properly cared for.” Aimus said and waved to Ana to follow him as he pulled Abigail back into the kitchen.
+
+Ren focused his attention on the healer. “Can I ask your name?”
+
+“Of... of course. It's Camilla. Camilla Estevan.” Camilla said.
+
+Ren raised an eyebrow and glanced at her blonde hair.
+
+“It's my married name.” Camilla said and blushed a little.
+
+Ren smiled. “Thank you, Camilla.”
+
+Camilla nodded. “You're welcome.”
+
+Ren slipped some coins into the hand he still held.
+
+“Wh... what's this?” Camilla stammered.
+
+“I've always appreciated healers and the work that they do. I'm sure if someone hired you, they would pay you at least that much.” Ren said.
+
+Camilla looked at the three gold coins. “I... I can't take this.”
+
+“It's not enough, is it? I've always been a bad judge of what a proper amount is.” Ren said and dropped another coin into Camilla's hand.
+
+“Ren... I came here to help...” Camilla whispered.
+
+“Oh, you can drive a hard bargan!” Ren smiled and dropped another coin with the others and closed her hand with both of his. “But that's all! I'm not made of money, you know!”
+
+Camilla was left speechless. Why is he giving me so much? I'm just a low level healer. The reason it took all night was because I had to keep replenishing my mana!  Camilla tried to hand the money back, but Ren wouldn't take it.
+
+“No, you've more than earned it for taking care of me all night.” Ren said and got out of bed. “Don't insult me by trying to give it back.” Ren winked at Camilla, taking the sting out of his last few words.
+
+Camilla shook her head and put the money into her inventory. It had taken her weeks to gather enough resources to sell to the local NPCs for a couple of silver coins, and this guy was just giving gold coins away!
+
+Ren didn't know she was an actual player like himself, but he treated everyone the same, no matter who it was, so it didn't really matter to him. Ren had given her the money because when he'd checked his stats, his Mana Pool was full again. It took a lot of mana to fill it, because he knew how much mana he'd used to empty it, so Ren knew how hard she had worked all night... and she was cute. Ren chuckled. Camilla reminded Ren a lot of Lucy, except Lucy's hair was much shorter and a brighter blonde.
+
+Ren left the room and Camilla followed him. They got into the kitchen and Abigail had a great breakfast ready for them to eat. They all sat down and enjoyed themselves with the food. Conversation was about trivial things, and didn't concern anything important. Ren smiled as he watched Teepo crawling all over Camilla and she didn't react at all. Ren almost spit out a mouthful of food when Teepo crawled across her face, but he caught it in time and coughed to cover it up.
+
+Teepo!  Ren thought as Aimus slapped Ren on the back to 'help' clear the food from his throat.
+
+Teepo chittered in laughter and disappeared under Camilla's ponytail.
+
+Soon after they finished eating, Aimus offered to take Camilla home and she graciously accepted. Ren helped Aimus hook up the horse to the cart and he soon left with Camilla. Ren waved, and not once even hinted about going along. Ren knew perfectly well what leaving the homestead would mean.
+
+**
+Camilla was curious as to why Ren didn't offer to escort her, considering he seemed interested in her. He wouldn't have held her hand for so long if he wasn't. Camilla had said she got her name from being married, but that was a lie. It was to stop trolls from trying to 'hook up' with her in the game. It was one of the reasons she'd come so far away from the starter city of Aurora. Ren seemed like a genuine nice guy, though... even if he was a little short for her tastes. Camilla smiled to herself and then put such thoughts out of her mind when the cart pulled out of the homestead. You had to keep a sharp eye out for any predators when you traveled. There wasn't any time for fantasies.
+
+Love this story? Find the genuine version on the author's preferred platform and support their work!
+**
+
+Ren watched as the cart went further and further away, and waved again when Aimus looked back. I bet he's as nervous as a cat in a room full of rocking chairs that I'm going to go off on my own.  Ren laughed and Teepo chittered in delight. Don't worry, Aimus. I intend to stay and learn as much as I can before I have to leave.
+
+Ren went to the barn and found a nice piece of rope. He sat down just outside the barn doors and tried tying knots. He didn't have anything to tie the rope to, but that shouldn't matter, since he was just practicing. The knots shouldn't have to be completely tied to count, as long as they could be tied. He sat there for about an hour and leveled up his Knot Tying twice. Ren decided to look up some new knots on the internet when he logged off F.L.O.W., so he could level the skill up faster.
+
+Ren stopped practicing when he saw the cart in the distance. Aimus approached the homestead a lot faster than when he left. Aimus arrived with the cart in front of the barn and Ren led them inside. The horse was unhooked and placed into it's pen. Ren hooked a feed bag on it's harness and let it much away. Ren turned around and helped Aimus pull the cart to the side of the barn and out of the way. Ren followed Aimus to a small ladder at the end of the barn, behind the cabinet that held the bows. When Ren saw the cabinet, he remembered he still had Ana's bow in his inventory.
+
+“Aimus, you better take this before I forget to give it back.” Ren said and handed over Ana's bow and the quiver with a few arrows in it.
+
+Aimus took them from Ren with a smile and put them in their appropriate spots in the cabinet then climbed up the ladder. Ren climbed it as well, and saw that there was a lot of hay, and a huge pile of unfinished lumber. Aimus took one of the planks and tossed it out the hay door in the loft and Ren heard the plank of wood hit the ground.
+
+“Won't that damage them?” Ren asked.
+
+Aimus just shrugged and threw another one. “There's bound to be damaged ones anyways. I just cut around it or use another one.”
+
+Ren shook his head, grabbed a piece of lumber and put it in his inventory. “How many should we take?” Ren said as he kept grabbing planks.
+
+“Better take it all. We've got to make a hatch for the trench.” Aimus said and handed Ren another plank.
+
+Ren stored it all and climbed down the ladder. Aimus went outside and picked up the two pieces of lumber he'd thrown out and went to the shed behind the barn. A couple hammers and a saw was taken from the shed and Ren followed Aimus out to the trench. Aimus then put the tools and wood down and went back into the barn. He came out with two saw-horses to brace the wood on. Aimus put them down next to the trench and took one of the planks, laid it down like a bridge across the trench, and marked it with a knife. Aimus took several more planks and repeated it along the trench. He marked them all and brought them back to the saw-horses. When compared, all the markings were at the same length. Aimus glanced at Ren who just grinned. Ren had let the system guide where to dig. The trench wouldn't have been anywhere near straight otherwise.
+
+Once one board was cut, they just used it as a template and kept cutting until Aimus decided it was enough for a hatch. The hatch ended up being 8 feet long, twice the amount of the length needed to cross the 4 foot trench, making cutting everything that much easier. 4 boards across (cut in half) and 2 for the ends, and they only needed enough for 4 hatches (the trench was 30 feet and 4 hatches would be 32 feet). With Ren feeding Aimus the lumber, they were cut in no time and laid out in the right shape to be nailed. Aimus handed over some nails and a hammer to Ren and they got to work. Ren took his time with his first attempt, but succeeded without hitting hit thumb or missing the nail completely. Ren knelt beside the finished hatch when he'd completely nailed that side.
+
+New Sub Skill!You've learned a new skill.
+
+Nailing Level 1 (Beginner 0%)
+This sub skill under Woodworking allows you to attach various things to other things using nails.
+
+Higher skill levels will allow you to assemble more difficult objects more efficiently.
+
+
+
+Ren smiled. I'm pretty sure that this skill will definitely come in handy!
+
+The other three hatches were completed quickly and positioned next to the trench. Aimus waved Ren to follow and they went inside the barn. In the middle of the barn, Aimus bent down and wiped some dirt off the ground and revealed a handle. When it was pulled, inside were barrels, the same size as the one that had the grease-like substance in it. Aimus lifted the barrels out one at a time and Ren moved them to make room for the next barrel. They got all 24 of the barrels out and Aimus closed the hatch. He kicked dirt over the handle and you couldn't even tell there was anything there.
+
+“I had planned on doing this yesterday...” Aimus said as Ren helped him roll a barrel to the trench. “...but I couldn't. Someone had the pelts stored away and I couldn't get them.”
+
+Ren sighed. “Sorry about that.”
+
+Aimus chuckled. “It's okay. I didn't want to lug all these things by myself, anyways.”
+
+“What's in them?” Ren asked.
+
+“The same thing in the small tanning pit. It's a special mixture for treating pelts to make sure they don't rot away.”
+
+They got the first barrel to the trench and Aimus pulled out the crowbar like tool. He pried open the barrel and Ren recoiled from the intense smell.
+
+“Blah!” Ren said and covered his nose.
+
+“You'll get used to it... after a few years.” Aimus said and laughed.
+
+Aimus tipped the barrel over and the mixture inside sloshed out into the trench. It spilled down the hardened sides and made almost no difference at the bottom. Ren and Aimus repeated this 23 more times and the liquid ended up being just over a foot deep in the bottom of the trench.
+
+“Okay, storage guy... toss in the pelts.” Aimus said.
+
+Ren did so, and Aimus directed him to move along the trench. There was plenty of room, so when Ren had finished putting in the 365 pelts, most of them floated on the surface. Aimus went and got the mixing stick from the back of the shed and pushed the pelts down into the mixture. Ren still had his inventory open and saw something that he didn't know what to do with, until now.
+
+“Aimus, there's plenty of room... would you mind if I put something in myself?”
+
+“Hm?” Aimus looked at Ren and then shrugged. “Go ahead.”
+
+Ren smiled and dropped 100 of his 200 leathery bat wings into the mixture.

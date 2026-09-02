@@ -1,0 +1,154 @@
+---
+id: 86ea033d-e6f6-5d00-a127-26d30b91c962
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17 - Aftermath"
+slug: 0001-chapter-17-aftermath
+partOf: mythrans-master-of-all-continued-completed
+position: 1
+ownLength: 2258
+unit: words
+publishedAt: 2016-09-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/90880/chapter-17-aftermath"
+royalRoadId: "90880"
+---
+
+Ren raised his hands in front of his face. He knew there was no chance he was going to survive an impact like that, especially in his current crippled state, but he tried anyways. The chunk of rock hit his palms and he braced his arms as best he could. Much to his surprise, he caught the rock and was pushed back through the water a good distance. He had absorbed most of the shock that should have killed him.
+
+New Sub Skill!Your last ditch attempt to save yourself paid off.
+Block Level 1 (Beginner 0%)
+(Active)
+
+Thanks to your diligence in both Smithing and Mining, your body can absorb high amounts of impact shock.
+This sub skill under 'Shock Absorption' lets you attempt to stop or deflect blunt force attacks.
+Can be combined with a shield for an added bonus.
+Higher skill levels will increase the amount of force that can be blocked.
+
+"Gah!" Ren shouted and swiped the notice away. It was too late, however. Both he and the chunk of rock began to sink into the river, the rock weighed him down. He let it go but continued to sink. His health bar dropped steadily, as catching the rock had taken all of his remaining stamina.
+
+Other chunks of rock splashed into the river around him and Teepo shouted a warning.
+"Master! The water! It comes!"
+
+The loudest rumble Ren had ever heard echoed through the water and he covered his ears.
+Oh... oh no. Not that!
+
+Ren looked up and saw a chunk of rock bigger than he was hit the water... and watched as it was picked up and thrown further down the river. The water rose up and up and he could see waves of it pass by... and then the undertow got him. It picked him up and pushed him along the river's passage. Only now there wasn't a river anymore. It filled the cavern as far as Ren could see. Teepo appeared beside him. The water didn't affect him apparently, since he was just an astral projection. Teepo pointed out a wooden structure.
+
+"There, Master! Can you get to it?"
+
+Only a quarter of Ren's health remained, but he nodded and started to swim. He tried to stay with the current to lessen the strain on his weary body. His lungs burned and he regretted that he didn't take a bigger breath of air on the surface. He got to the wooden structure just as it was torn from it's base. He used Iron Grip and held on for his life. It bobbed and weaved through the current as he held on and counted in his head. He let one hand go and tried to take a healing potion, but it was swept away in the current. His health bar dropped even further.
+
+I'm not going to make it. He thought to himself. If only I'd...
+
+Just then, the wooden structure broke the surface of the water. It rolled over and flung Ren into the air. Ren gasped in a huge lungful of air as the structure hit the water again. Thankfully, the side he gripped stayed on top of the water. He let his Iron Grip go and just lay there.
+
+New Sub Skill!
+
+Hold Breath Level 1 (Beginner 0%)
+(Active)
+
+This sub-skill under 'Staying Power' allows you to hold your breath underwater.
+Higher skill levels will increase the amount of time breath can be held.
+
+Skill Increase!Shock Absorption Level 2 (Intermediate 0%)
+Staying Power Level 2 (Intermediate 0%)
+
+After another deep breath he took a healing potion out and drank it, and did the same with a mana potion. He watched as both his health and mana bars reached a quarter of their respective bars. He laid back and wanted to just float there forever. His vision was once again blocked by notices, however.
+
+Notice!You have delayed the Summoning of Evil.
+Due to your incessant digging, the Mole High Priest was too distracted and interrupted his spell of summoning to see what you were doing.
+
+Notice!Thanks to your hard work digging into the underground reservoir (and weakened it's structure), the wall burst and flooded the underground cavern that contained the Mole Men. They all drowned.
+Unfortunately, the Underground City Ruins can no longer be explored as they are completely submerged.
+
+Hidden Quest:Explore the Underground Ruins.
+Quest failed!
+
+Quest Update!The Aurora Expedition Squad
+Congratulations! You have successfully stopped the spread of evil that had started to permeate the kingdom.
+Return to Aurora to complete this quest.
+
+Ren let out a long sigh and closed his eyes. He hoped that he was safe while he floated on the water, but he was just too exausted to care much about it if he wasn't. Despite Teepo's constant chattering, he fell asleep.
+
+*******
+
+"Earthquake! Grab on to something solid!" The captain of the soldiers hollered out when the ground shook.
+
+"What the hell's solid here?!?" Clint hollered back as the wall of the cavern crumbled when he tried to brace himself against it.
+
+Rocks and dust fell from the top of the cavern as everyone tried their best to hunker down and ride out the earthquake. The rumbling went on and on and some members of the party got sick and threw up the lunch they'd just ate. The smell didn't travel far since dust covered everything and absorbed most of the liquid. The shaking and rumbling stopped after a few minutes, then all the players present got a pop-up. A loud groan was heard from most of them, and some cursed fluently.
+
+Quest Update!The Aurora Expedition
+Return to Aurora to complete this quest.
+
+"Is anyone injured?" The captain called and dug himself out of some debris. Thankfully, most of the soldiers had used their shields to cover up the healers and clerics in the group. Once everyone was gathered together again, the healers and clerics made their rounds to fix all the minor wounds that the rocks had caused. Ren's earth rune enchantments had helped immensely by letting the rocks roll off instead of impacting with their full force.
+
+Unauthorized duplication: this narrative has been taken without consent. Report sightings.
+
+Several minutes passed and they heard a whooshing sound. They couldn't see what it was, since it was still dark down below in the cavern, but they could definitely hear running water now.
+
+Ten minutes later, the water sound was getting louder and seemed to be getting closer as well.
+
+Clint looked over the side of the cliff and saw the rushing water in the cavern below.
+"Well, would you look at that!" He said to get everyone's attention.
+
+"What? What is it?" Tommy asked.
+
+"The water's risin' like there's no tomorrow. I reckon it won't be long before we could probably cross back the way we came."
+
+"You're right." Said the captain. "Men, get that rock untied from the catapult. We can just swim across to attach the line."
+
+"Um... that current's really strong, though." Tommy said with doubt in his voice.
+
+"Ha!" The captain blustered. "It'll be a cold day in Hell when I can't traverse a lousy river."
+
+The players all had a similar look like Tommy's on their faces, but the soldiers hollered and cheered. They got the rope and handed it to the captain.
+
+"Keep a good hold of this rope. Dole it out constantly. I don't need it to be too slack and get caught in the water. It'll only drag me down."
+
+The soldiers nodded and the captain secured the rope around his waist. He looked at the players that had gathered close, winked at them, and dove off the cliff and into the water. He swam upstream for a bit and then turned towards the other side. He got as far as the first pylon that had held the bridge up and floated down to it.
+
+"Ha. That sneaky old bugger." Clint said with admiration.
+
+"What?" Tommy asked.
+
+"I figured he'd be a gonner if he tried to swim all that way in one go, but he ain't. He's leapfrogging across the bridge supports."
+
+"Huh?"
+
+"He doesn't have to swim as far or as fast to beat the current of the water."
+
+"Oh."
+
+Clint just shook his head. He didn't understand how some people can be around and not have a lick of sense when it comes to doing things that any outdoorsman could do. Clint snorted to himself. He'd just answered his own question. Outdoorsman. Most of these yahoos probably don't even know what that term means.
+
+Clint saw that the captain had made it to the third bridge support when something appeared on the water. It was something quite big and looked to be made of wood. It rushed towards the captain and the support he'd just grabbed onto.
+
+"Captain! On your six!" Clint yelled. "Give him some extra slack!" He called back to the soldiers.
+
+The captain turned around in the water and saw what approached him. He had barely moments left to react. He did the only thing he could do in that situation, and dove around the pillar towards the side he'd been heading towards and hoped the current caught him before he was crushed.
+
+The structure hit the bridge support and a loud crunching sound echoed across the cavern. They heard a scream and thought the worst. The captain must have been hit. The warning had come too late. The wood broke up and splintered around the support and floated down the water, and out of sight.
+
+The solders felt disheartened. They'd just lost their leader. What were they going to do now? Some sat down and let their grip on the rope go. A moment later the rope jerked in the hands of the others and some soldiers fell from the force of it's pull.
+
+"Secure that rope, damn you!" Clint yelled at the soldiers. "He's still tied to it, you fools!"
+
+The soldiers hastened to tug the rope back into it's taught state. Clint looked out over the water to see where the captain's body might be and saw something surface 30 yards downstream.
+
+"There! I see him! He's waving, too! He's still alive!" Clint yelled, and the players cheered. Some helped the soldiers and grabbed the rope as well. They pulled and kept the rope taught and slowly the captain made his way back to the pillar, but he was only using one arm to swim. He'd been injured and that must have been the scream they'd heard. The captain only had one more pillar to go to get to the other side; but, if he was injured, should they pull him back all the way? Clint tried to holler a question, but the captain waved him off and pointed towards the other side.
+
+"Keep doling out the rope, he's almost there." Clint said to the soldiers. They nodded and continued.
+
+The captain took a lot longer to swim the last divide, but he eventually made it to safety. Everyone let out a sigh of relief as the captain slowly crawled up the other side. With only one arm working, it took a while. He got to the top and inched over the edge and out of sight. A minute later, the captain stood up and waved, reached down and gave two tugs on the rope. The soldiers tied off their end. Now the two sides were connected once again.
+
+It didn't take long for a rope bridge to be slid across the main rope, dragged by a volunteer who shimmied across the rope like a monkey. It made a nice 'v' shape that was sturdier than anything else that could be cobbled together on such short notice. The captain held up his hand and flashed several hand signals.
+
+"A Healer first." One of the soldiers said.
+
+The captain must be in real pain if he's asking for healing before securing the site with soldiers. They asked around and one of the healers still had lots of mana left. The soldier took him over first. The bridge swayed and dipped as they went across, but it didn't touch the water. It seemed the water's level had stabilized after that wooden wreckage passed by.
+
+The healer disappeared on the other side and the soldier waved the okay signal. Everyone stood and gathered their belongings for the trip across the water. A lot of space was left in between each person to lessen the strain on the ropes, and one by one they crossed the rope bridge to the other side. Now that the current crisis was past, everyone was saddened that they had to return to the city with the mission uncompleted. They hadn't even gotten that far down into the dungeon. There was going to be a lot of unhappy people in the kingdom when they returned.
+
+Clint had stayed behind to make sure everyone had gotten across. He'd already lost one team member, and he wasn't going to lose another. He laughed at himself. He'd been a lone wolf since he'd started playing this game; and here he was, worried over people that he didn't even know! He shook his head and walked across the rope bridge. Since he was used to doing such things in real life, he was swiftly across the gap in no time at all. He heard a ruckus ahead and pushed through the crowd to see what it was. To his surprise, it was something he never thought he'd see.
+
+There, laying on a makeshift stretcher, was Ren.

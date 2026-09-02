@@ -1,0 +1,225 @@
+---
+id: 087e3e1d-be20-5e52-87b8-38ebe7a0e87f
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred and Fourteen - Third Wheeling"
+slug: 0119-chapter-one-hundred-and-fourteen-third-wheeling
+partOf: cinnamon-bun
+position: 119
+ownLength: 2049
+unit: words
+publishedAt: 2020-10-18
+link: "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/570949/chapter-one-hundred-and-fourteen-third-wheeling"
+royalRoadId: "570949"
+---
+
+Chapter One Hundred and Fourteen - Third Wheeling
+
+I had never been a third wheel before, so as I followed behind the two ahead of me while they talked and laughed, I got to experience something entirely new.
+
+At least I wasn’t alone. 
+
+“Why do I feel slighted?” Amaryllis asked. “I shouldn’t. It doesn’t make sense. I don’t even like dragons, or men who are that pushy.”
+
+I rubbed her back. “It’s okay?” I said. “I don’t think you would have made a nice couple anyway.”
+
+“Of course not,” Amaryllis said. “As if I’d actually go out with an overgrown lizard.”
+
+Said overgrown lizard rocked his head back and roared with laughter while, next to him, Booksie placed a hand before her mouth and giggled. 
+
+Amaryllis glared ahead, her wings tightening across her chest. “It doesn’t make sense. What does she see in him?”
+
+I shrugged a shoulder. “They both like books and, ah, one sec.” I twitched my big bun ears forwards to better hear what Booksie was saying to Rhawrexdee.
+
+“Oh, that reminds me of my own mother. I love her, I really do, but she can be just so...” She waved her hands in the air in a gesture that could mean anything. “She’s one of the reasons I moved to an entirely different country. She kept asking me, ‘Booksie, you’re twenty-five, when will you find a nice boy? When will you bring home a basket full of grandkids for me to play with?’ It’s frustrating. I want more in life than just being a mother, I have goals!”
+
+Rhawrexdee was nodding along. “I understand. Ever since my father flew off after some Eastern dragon my mother has been so doting over my sister and me. She keeps telling me how to act, and to go find a nice dragon to spend some time with. She even confiscated my audio books! I worked hard kidnapping all those scholars! She said that I needed a proper harem, not a collection of old men with bad eyesight. Bah!” 
+
+“Urgh,” Booksie said. “I know what you mean. And I’m sorry to hear that about your dad. Mine passed away when I was young and, well, it’s not the same, but... still.” She reached out, almost carefully, and patted Rhawrexdee on the side.
+
+I rubbed at my chin. “Yeah, they’re talking about their moms. This is getting weird.”
+
+Amaryllis huffed. “As long as she takes care of our dragon problem for us I don’t care.”
+
+“I guess,” I said. I felt a big smile coming on, and allowed it to bloom. “But really, this is great! I’ve never seen two people actually fall in love before.”
+
+“I don’t know if I’d call that love,” Amaryllis said.
+
+I pointed ahead to where the couple stopped before a large puddle in the middle of the road. Booksie seemed ready to walk around when Rhawrexdee paused her with a raised claw, reached up, and tore an awning off the side of a house and placed the cloth across the puddle. He waved her forward.
+
+“That doesn’t mean anything, Broccoli.”
+
+At the next intersection, Rhawrexdee uprooted an entire rosebush, sniffed it, then carefully pressed it up against Booksie who laughed with delight.
+
+“It could be... I really hope it’s not love,” Amaryllis said.
+
+“Oh, come on, don’t you have a bit of romance in you?” I asked. 
+
+“No,” she said.
+
+“Not even a little? I always dreamed of meeting this cute boy who’d sweep me off my feet, and give me flowers, and get along with all of my friends.” 
+
+She rolled her eyes. “I think we’ve established that your dreams are incredibly pedestrian already. What was it you wanted... a little home and two kids?” 
+
+“I think I might call my firstborn daughter Amaryllis,” I said.
+
+Amaryllis blushed to the stems of her hair-feathers. “I-idiot!” 
+
+“What?” I said.
+
+“Nevermind that,” she shot right back before picking up the pace. 
+
+I jogged to catch up. “Did I say something stupid without knowing it again?” 
+
+“You do that every time you open your mouth,” she grumbled. 
+
+“Rude!” I called out with a laugh.
+
+“What?!” Rhawrexdee roared.
+
+The dragon spun around, tail swiping into a building with a heavy crunch. He stomped closer, completely ignoring the sparking electricity that appeared around amaryllis, and lowered his head until he was even with me. 
+
+“Did you know?” he asked.
+
+“Um, did I know what?” I asked.
+
+Rhawrexdee pointed back to a wide-eyed Booksie. “That this... poor young woman’s hoard was taken by, by filthy scavengers?”
+
+“Ah, yeah,” I said. “We did know. We’re gonna help her take it back though.”
+
+“You are?” he asked. “And how do you intend to do that?”
+
+“Well, ah, once we were done with your dating practice, I was thinking we might walk over to Port Royal and then talk to the authorities, see what we can do?”
+
+“Walk? At the speed you little ones move? That would take... hours!”
+
+I shrugged. “We could fly there, I guess. But I haven’t looked to see when the next ship will be heading over or how much it would cost.”
+
+Rhawrexdee shifted, looking rather awkward all of a sudden. He leaned way forwards until his head almost butted up against me. “She doesn’t speak proper dragon, right?” he asked.
+
+“She doesn’t,” I confirmed. “Just Pyrowalkian and, uh, whatever the other language most people speak is.”
+
+“Good, good, so she can’t understand us.” He leaned in even closer. “Tell me, does she have a husband?”
+
+“No? Not that I know of,” I said.
+
+“And no male rivals pinning after her?” he asked.
+
+“No?” 
+
+He nodded slowly. “Interesting. I’m merely curious, of course. It’s a scholarly interest, I assure you.”
+
+“Sure it is!” I said. “If it helps any, I think that she liked spending time with you today. I’m sure if you asked her out on another, ah, practice date, she would say yes.”
+
+He narrowed his eyes. “Maybe I will. And her hoard. All of those books that were taken from her. If I retrieve them like a gallant knight, do you think...”
+
+This story has been stolen from Royal Road. If you read it on Amazon, please report it
+
+“I think that Booksie is the kind of girl that would appreciate some help, but--and I’m saying this having only known her for a little bit--I don’t think she’s the sort to expect others to do all the work for her.”
+
+He nodded. “How very dragon-like of her. Yes, I’ve decided. I’m going to make Booksie my official dating advice counsellor in exchange for my assistance in destroying the city that robbed her.”
+
+“Ah,” I said. “Wait, back up there. I think that maybe just helping would be better.”
+
+“Wouldn’t that help?”
+
+“Uh,” I said as I tried to think faster. “Her hoard is in that city though. If you burn it all down she’ll lose it. And her customers. And what if she wants to live there again and gets hungry. She’s a bun, she can’t just pick up some passing sheep for a snack.”
+
+He hummed, deep and rumbly. “Perhaps. But then I would only be able to see her when I’m in that city.”
+
+“I mean, the rent can’t be that bad. I’m sure you could afford a nice warehouse or something near the docks.”
+
+“And then I’d be able to see her every day,” he said.
+
+I felt a grin tugging up my cheeks. “You’re really smitten.”
+
+“I am not!” he said.
+
+I nodded. “You are!” I said before clapping. “Oh, I really hope it works out between you two.”
+
+“We’re going to take things slow,” he said.
+
+“Of course,” I said. “So, ah, if we want to make it to Port Royal quickly, we’ll either need to charter a ship for there today, or find some other way to fly all the way over.”
+
+“I won’t allow a bunch of little people like you to ride on my back,” he said.
+
+I pouted. “Aww, but we hardly weigh anything at all, and, uh, think of how romantic it’ll be to ride into the sky with your special someone sitting on your head.”
+
+Rhawrexdee seemed to consider that for a moment. “That might be true, but then why would I let the likes of you come along?”
+
+“Well, you wouldn’t want it to be too romantic. So if you bring us along it turns it from a special moment shared between just the two of you, into one shared by a bigger group. Still magical, but a little less heavy-handed,” I said. I had never made up so much crud in my entire life, but there was dragon riding on the line!
+
+“Hrm,” he said. “There is only one problem then.”
+
+“What’s that?”
+
+“Port Royal is the territory of another dragon, which would mean flying through their land.”
+
+I winced. “Would you need to fight?” I asked. I could feel my plans and dreams sinking.
+
+“Worse. That dragon is my mother.”
+
+I blinked. “Is that bad?”
+
+“She’s nagging and won’t stop pestering me, I just know it.”
+
+“There, there,” I said as I patted him on the snout.
+
+Rhawrexdee blew me back with a snort. “Don’t patronize me, little bun. I will tell Booksie about my plans to assist her through her plight. If you intend to come with us then you have a few moments to gather your things.”
+
+“Right!” I said.
+
+Turning on a heel, I rushed over to Amaryllis and grabbed onto her talons. “Why are you smiling like that?” she asked. “What’s going horribly wrong now?”
+
+“Nothing!” I cheered as I tugged her along. “We’re going to Port Royal.”
+
+“What? When?” 
+
+“As soon as we pick up Awen and Orange and our stuff,” I said.
+
+“And how are we getting there?” she asked.
+
+I looked over my shoulder and grinned.
+
+“No,” she said.
+
+“I didn’t say how yet,” I said.
+
+“That’s because I’m not an idiot. I am not riding on that creature. There’s no way.”
+
+“Think of what it’ll do to your reputation though. You rode a dragon! That’ll be the kind of thing you should tell your kids and grandkids about.” I waved in the air to encompass the enormity of it. “It’s every kid’s dream, at least where I’m from.”
+
+“I’m not a child,” Amaryllis said. There was a tiny hint of reluctance there, and I pounced on it.
+
+“It’s not just kids. I bet all the adults will be jealous too.”
+
+“Envious, you moron, and I still don’t like it.”
+
+I grinned. “You could take notes. I bet there aren’t that many scientists that can write about dragon flight. Rhawrexdee is way too big for his wings to actually lift him, so there has to be magic involved.”
+
+Now I had her, I could tell by the near predatory glint in her eye. “If we could harness that, we could outstrip the Sylph’s abilities in no time at all.” She started walking just a little faster. “We’ll get Awen first. And stop giving me that look. I came to this decision on my own.”
+
+“You did,” I said.
+
+“Don’t agree with me with that tone!” 
+
+I snorted and skipped ahead of her. 
+
+Navigating the town was tricky, especially with so few people around. It seemed as if everyone was hiding, or maybe they had evacuated while there was a dragon around. All in all, it was probably a good idea. 
+
+We found Awen and Yoland both standing outside of the old tailor’s shop. “Awa, it’s you!” Awen said. “We made a vest for the dragon, and a, ah, hat.” She lifted a nice top hat before her, one big enough that she could have fit into it with a bit of contorting around. “And a tie, too.”
+
+“That’s great!” I said.
+
+“You girls do bring me interesting projects,” Yoland said.
+
+“That might be the last one, I’m afraid. We’re heading out in a bit. We came to fetch you, Awen!”
+
+“Awa? Where are we going?” Awen asked. “Should I...” she gestured to the vest and a big pile of cloth that I guessed was the aforementioned tie. 
+
+“Bring it all,” I said. ‘We’re flying over to Port Royal! That is, if you want to come.”
+
+“Of course! We’re taking a ship?” 
+
+“Nope!”
+
+***

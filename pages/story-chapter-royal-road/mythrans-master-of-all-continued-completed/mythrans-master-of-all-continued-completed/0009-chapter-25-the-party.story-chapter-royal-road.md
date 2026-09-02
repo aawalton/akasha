@@ -1,0 +1,270 @@
+---
+id: 0089e869-6bdc-5b44-88a3-85fbcf86f501
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 - The Party"
+slug: 0009-chapter-25-the-party
+partOf: mythrans-master-of-all-continued-completed
+position: 9
+ownLength: 3663
+unit: words
+publishedAt: 2016-09-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92829/chapter-25-the-party"
+royalRoadId: "92829"
+---
+
+Ren awoke to the sound of Teepo telling him that breakfast was coming. He sat up and heard clattering dishes being brought up the stairs. He hopped out of bed and unlocked the door, then jumped back into bed just as a knock was laid upon his door.
+
+“It's open.” Ren said.
+
+The door opened and the innkeeper brought in a heaping tray of food. He set it down on the desk and laid out a napkin for Ren to use.
+
+“You didn't have to bring it to the room. I would have gladly come downstairs for breakfast.”
+
+“It's no trouble, sir. No trouble at all. It's just part of the service.” The innkeeper said and smiled.
+
+Ren knew he was lying, but didn't call him on it. He didn't want the innkeeper to think poorly of him.
+
+“Thank you very much, sir.”
+
+The innkeeper bowed slightly and left the room. Ren got out of bed and went over to the desk. He saw porridge, toast, a scrambled egg, a glass of milk, and two pieces of bacon. At least, he hoped it was bacon. He had not seen any pigs in the city... or chickens. Ren shrugged and assumed they either had it delivered, or was by default the setting for 'breakfast' in the game. In any case, he sat down and gobbled up as much as he could. Teepo told Ren of his adventures around the room and Ren laughed. Teepo added in voices for the furniture and his interactions with them. By the time Ren was finished breakfast, he got the popups for 'Well Rested' and 'Well Fed', giving him a +3 bonus to his Vitality and Endurance for the next hour. Ren put Teepo on his shoulder and picked up the tray of dirty dishes. He brought it downstairs to the front desk.
+
+“Thanks so much for breakfast, sir.” Ren said and placed the tray on the desk.
+
+“You didn't have to bring the tray down. I would've gotten it eventually.” The innkeeper said.
+
+“It was the least I could do for the excellent food.” Ren said and put a silver coin on the counter.
+
+“Thank you, sir!” The innkeeper said and swiped the silver coin away in a flash. “Have yourself a good day, sir!”
+
+Ren said he'd tell everyone about where he stayed that night and about the excellent service. The innkeeper beamed a smile and waved as Ren left.
+
+********
+In the shadows across the street, a lone figure stood watch over the inn. When Ren came out the door and walked down the street, he discreetly followed. He had been told, in no uncertain terms, that he was to not let that little elfling out of his sight.
+
+********
+Ren figured the first thing he should do was pop over to the alchemist's shop and see if the old man needed any sunflowers or Balefire Moth dust. The old man was again delighted at the offer, and paid handsomely for it. Ren told him about his adventure, but left out how tough the tent had been. The old man laughed and slapped his knee.
+
+“You had a close one, then.” The old man said and had a wicked grin on his face. “Most people just open the holes and scrape the sides.”
+
+Ren just stared at the old man. “You could have told me that! I spent nearly two days there, waiting!”
+
+The old man laughed. “I wanted to see what you would do. I expected some kind of a surprise, but letting it eat your tent and getting trampled, just to get some dust? Bwahahaha!”
+
+Ren couldn't help himself and laughed, too. Teepo chittered as well. Thinking back on it now, it was pretty funny. They talked a bit more about proper technique and Ren showed him the potions he'd made. The old man was impressed that he'd advanced his learning so much in such a short time.
+
+Teepo whispered in Ren's ear. “Just as I told you! Master is a great alchemist!”
+
+Ren blushed from both comments and said goodbye to the old man. Ren and Teepo headed out the west gate to go and pick some more basic ingredients. He cleaned the field of herbs again, but remembered there was better herbs in the forest. He hadn't forgotten that there were wolves in there as well, but he wanted to try. He got near the edge of the forest but couldn't see or hear anything out of the ordinary. He activated Sneak, and crept into the forest. He got about 20 feet in and saw some fresh potency berries. He picked them gingerly and continued into the forest.
+
+********
+A figure that had been following Ren cursed to himself. He went back into town to the little house in the Housing District.
+
+“I'm sorry, miss. I lost him in the forest near the west gate.” He said.
+
+The woman just nodded and paid the man. He walked away at a brisk pace.
+He was a slippery one. The woman thought.
+
+********
+An hour later, Ren had leveled up Sneak several times and had more than enough ingredients to make a lot of potions. He wouldn't have to come back for a while. He turned around and heard a low growl. Teepo hopped off his shoulder and skittered into the underbrush. Ren reached into his inventory and took out one of his paralyzing potions.
+
+“It's all right, master. He can't see you.”
+
+But can he smell me? Ren thought.
+
+“Probably, master. It's sniffing the air. You should move to the tree on your right.” Ren did so, and no sooner had he reached the other tree when the wolf pounced on the spot he'd just been. It sniffed the air, turned around, and went back into the forest.
+
+That was close!
+
+“Not really, master. Your scent is all over this part of the forest. You could have stood right next to that tree and it wouldn't have found you. Your scent was just strongest at that last spot, since you stayed there the longest.”
+
+Oh. Thanks, Teepo.
+
+“You're welcome, master.”
+
+You can still call me Ren, you know.
+
+“I know, but it just doesn't feel right. I'm just too used to saying master, I guess.”
+
+Ren nodded and sneaked out of the forest while following Teepo. He met no other wolves on the way.
+
+When Ren and Teepo, now perched back on Ren's shoulder, entered the city they saw the city had changed while they were gone. It was covered in people. They saw jugglers and performers all over the place as they made their way into the city square. It was almost as many as when he'd come back from the expedition. Ren smiled and told Teepo it was almost time for the party at the mansion. He told Teepo all about what had happened and how he'd forgotten about him. Teepo was glad that Ren was having a party. He'd never been to a party before. Just as he approached the mansion's gate, he got a popup that he didn't expect.
+
+System Warning!You have been logged into the system for 24 hours
+Please log off and take a rest
+This system was not designed for extended use
+System administrators have been notified of your activity and will be contacting you shortly
+
+Ren nodded and assumed something like this would happen. He stepped over to the wall by the gate and tried to log off again... and nothing happened. He shrugged mentally. There still wasn't anything that he could do on his end, so Ren would wait to be contacted. He turned and tried to go through the gate and one of the guards stopped him.
+
+“Where do you think you're going, boy?”
+
+“Huh? To the party, of course.” Ren said.
+
+“Why don't you go back home to your mommy and tell her she wants you.” The guard laughed and the other guard joined in.
+
+Ren scowled at them. He'd thought he was beyond this kind of treatment, but apparently there were still some in Aurora that didn't know him by sight. He was about to explain who he was when a large but familiar figure put a gauntlet covered hand on the right shoulder of both guards, with a loud clang. Ren grinned at the new arrival and the guards visibly shook from the impact.
+
+“Ren, my boy! Are these newbies giving you trouble?” The captain of the soldiers said.
+
+“Kind of, sir.”
+
+“Well, don't you worry about it. Go on in. The Lord of Aurora is waiting for you in the main hall. You got here just in time. The party is about to start!”
+
+“Thank you, sir!” Ren said, saluted, and walked under one of the captain's extended arms.
+
+“As for you two... how could you not know who that man is? He won the contribution prize in the last quest! I think I'm going to have to take a personal interest in your training from now on...”
+
+Ren laughed and Teepo chittered. I think those guys are in for a surprise. When the captain takes an interest in you... Ren laughed again.
+
+Ren walked down the hallway to the main hall, and stepped into an alcove. It was time to try on his new outfit. He equipped it and fluffed his hair up a little. He hoped it would stop others from doing it to him themselves. Teepo was excited as well because he now had much more room to run across the padded shoulders. Ren smiled and walked into the main hall... and gasped.
+
+Everything was now a pearlescent white, with huge drapes covering most of the ceiling and walls. Lace and silver brocade accented everything, from the tables along the wall, to the ornate window casings. Ren wondered why they had replaced it all. It looked wonderful before, and he saw it as a waste... but, then he thought that it kept people working, too. He shrugged his shoulders and Teepo almost fell off. Teepo chirped at him. Sorry, Teepo. I'm still getting used to this outfit.
+
+Teepo chittered in laughter. “Master looks like a prince, now!”
+
+Ren blushed and made his way to Lord Eric, who had seen him enter the room and waved him over. “Ren! Wonderful to see you! Love the new outfit. Very fitting for the gala tonight.” Eric said.
+
+“T-thank you, sir.” Ren stammered.
+
+“Now, now... don't be shy. This is the Minister of Finance and his wife, Carmilla. Next to her is Ottomo, the Minister of Trade, and this...” He stepped to the side slightly, “...is my daughter, Sophia. She's just returned from a trip to the neighboring kingdom.”
+
+Ren nodded to each person as they were introduced, but froze when Eric introduced Sophia. She was beautiful. Long flowing red hair down to her waist, bright blue eyes, rosy cheeks, and light red lips. She looked to be about 16, but since Ren didn't have a lot of experience in judging the age of game characters, it was just a wild-ass guess. He wasn't sure how to act at first, but then he remembered an old time show about how to act in polite society if royalty was present. He'd seen it a while ago, but it should work here. He took her hand in his and bowed slightly over it. “It is both a pleasure and an honor to meet you, your highness.”
+
+Ensure your favorite authors get the support they deserve. Read this novel on Royal Road.
+
+A hush fell over the group and the princess blushed. “T-t-t-thank you, kind sir.” Sophia stammered as Ren let her hand go.
+
+Skill Increase!Etiquette Level 1 (Beginner 25%)
+
+Ren smiled a pleased smile. Sophia blushed even harder.
+
+Lord Eric laughed and the tension broke. “You see? I told you he was one of a kind, didn't I?” He said to the group. They started exchanging small talk and Ren excused himself. He had seen someone that he wanted to talk to. He didn't notice that Sophia watched him as he walked away.
+
+“Hi, Sally.” Ren said and she turned around.
+
+Tears nearly came to her eyes. “Oh, you look absolutely wonderful, Ren! You look like a prince.”
+
+Ren raised his eyebrows at that. Teepo had said the same thing. He wondered if the game only had so many compliment settings to give for the outfit, or if he really did look like a prince wearing it. He and Sally talked for a bit and people greeted him as they passed. Ren thought that the outfit's description that he'd fit right into high society had been completely accurate.
+
+Ren excused himself again and walked over to one of the many windows that went from floor to ceiling. He needed a bit of fresh air. When he got close to the window, he could feel something. On a whim, he activated his Enchanted Eyes and nearly gasped. The whole window glowed. He knew there was some kind of enchantment there, so he activated Read Rune. A giant glyph covered the whole window. Ren reached out and touched it... and the glyph shattered. Thankfully, nothing happened to the window; but Ren was instantly aware of his surroundings, and thought several pairs of eyes gazed upon him.
+
+New Rune discovered!Rune Of Protection
+This rune grants +10 defense to armor
+
+This time Ren actually did gasp. He looked around, but no one was looking at him this time. He saw salvation from his situation, though. He quickly crossed the room to where his teacher, the enchanter Isaac, stood with a group of people.
+
+“My apologies for interrupting, but could I speak to you for a moment, sir? It's rather important.” Ren said.
+
+Isaac looked at Ren's harried expression and nodded. “Of course. I always have time for my novice.” The others in his group looked at Ren with renewed interest.
+
+“Thank you, sir. Please, excuse us.” Ren said and walked back to the window where he'd destroyed the glyph. Issac followed closely behind. When they got to the window, Isaac's eyes bulged.
+
+“Ren...”
+
+“I know. I didn't mean to...”
+
+“No, you misunderstand. You shouldn't have been able to break that glyph. It was several orders above your current level.” Isaac said.
+
+“I figured... it was a giant glyph that covered most of the window...” Ren started.
+
+“Wait, you could see it all?” Isaac asked.
+
+“Yeah. I couldn't read anything from it, though. When I touched it... it broke apart.”
+
+“Show me your book of runes.” Isaac said.
+
+Ren took it out and handed it over. Isaac shook his head. “No, don't hand it to me. I told you that enchanters guard their glyphs with their lives. Just open it to the last used page and tell me what it says, please.”
+
+Ren did so. “Rune of Protection: +10 defense to armor.”
+
+Isaac was quiet for a moment and then smiled. “Ren, I was right to choose you as my novice. Now, don't worry about this window, I'll take care of it. Go, and mingle with the crowd. This is your party, after all.”
+
+Ren put his book away and nodded. When he walked away, Issac watched him leave. It's always surprises with that boy, isn't it?  Isaac shook his head, chuckled, and placed his hand on the window. The glyph reappeared in an instant. He's going to be something special one day.
+
+Ren mingled some more with the other people at the party. He was a bit surprised there wasn't any kind of dancing, just background music played by a small orchestra. He approached the tables set up at the side of the room and got a nice cool drink from Anabelle. Ren gave her a smile and she smiled back. He noticed there was some copper coins on the table, and knew that Anabelle had been standing there the whole evening and put a silver coin next to her. Her eyes widened at that but she didn't say anything. Ren smiled wider and walked over to another window. He knew what to expect now and didn't touch it. He did look at it with his Read Rune, though... and he saw his new rune scattered throughout the pattern.
+
+New Sub Skill!Decipher Level 1 (Beginner 0%)
+(Active)
+You are able to read the runes that you have the basic knowledge of in other glyphs
+Higher skill levels will make it easier to read other runes in glyphs that you don't know
+
+Ren closed the popup and got a message notification. He remembered the system warning him not long ago to expect one. He opened it.
+
+New Message!Hello, Player (Ren).
+This is the System Administrator.
+We've been aware of your situation and have worked hard to come up with a solution. We believe we've found one. If you would come to the housing district, we can get your situation resolved immediately.
+Thank you.
+
+Ren closed the message and sought out Lord Eric. He thanked Eric for the party and gave his apologies that he had to leave early. Ren had urgent business to attend do and needed to go as soon as possible. Eric nodded and Ren left the hall, and then the mansion. He made his way to the housing district and found a new house had been built there. The message didn't say what to do once he got there, though. He wasn't sure if he was supposed to wait for someone else to show up, or if a new popup would appear.
+
+“Master!” Teepo shouted. “From behind!”
+
+Ren turned around and saw two men coming towards him. His first instinct was to run, but if this was what the system administer meant, then he'd see what was happening first. When the two men were close enough, they reached out and grabbed Ren's arms.
+
+“Hey! What're you doing?” Ren shouted.
+
+“Quiet kid. We're just doing our jobs.” One of them said.
+
+“Another one, master!” Teepo shouted.
+
+“This is for the best.” The other man said... and then the third man stabbed Ren in the neck with a needle.
+
+“No!” Ren tried to struggle; but, the men held him tightly... with some difficulty.
+
+“He's only level 3! Hold him still!” One of them said.
+
+“Don't worry, kid. It'll all be over soon.” The man who'd injected him said.
+
+Ren concentrated on the man's face and swore he'd remember who it was that had done this to him. The world faded to black a few moments later.
+
+You have died!Automatic system logout has been inititated.
+Countdown to log back in: 05h:59min:40sec
+
+Ren woke up in the real world. “Motherfu-”
+
+“REN HADDON! Don't you dare use that kind of language!” Barbara shrieked.
+
+“Sorry.” Ren said. “It's just...”
+
+“I saw what they did, honey.” Barbara said as she removed the VR headset. Her hands were shaking.
+
+“Please tell me you recorded it!” Ren almost shouted.
+
+“Of course we did. Once you were stuck in there, we had to keep tabs on you to make sure you were okay.” Barbara said.
+
+Ren sighed and leaned back onto the bed... then jumped up like a gopher from it's hole in the ground. “Boy, do I need the bathroom!” He said and ran to use it.
+
+********
+Edward Torren was beside himself. “YOU DID WHAT?!?”
+
+“We killed him.” Max said.
+
+Edward sat in his chair and put his head in his hands. “Good God! Why would you do such a thing?”
+
+“We tried several different options. Irregular brain wave patterns, both internal and external, errant code, batched system commands, you name it. We even tried just unplugging the headset. Nothing worked... until one of the tech guys remembered that when you were killed in the game, it automatically logged you out for 6 hours. It seemed like the best option.”
+
+“The best option?” Edward sighed.
+
+“We were running out of time.” Max said. “He just got the 24 hour logoff notice. We've never had anyone stay online that long.”
+
+“Really?”
+
+“Yeah, and even then it was one of the programmers that had put the notice in there as a joke. I mean, come on... anyone at all would need to eat, or use the bathroom, or even just take a break from playing... at some point during the day. Most players even stick to game day time and log off at night.”
+
+Edward sighed again and lifted his head. “Is the new update ready?”
+
+“Yessir. The patch is all ready to go. Once Ren was logged off, we sent out a game wide notification to log off for a system update. Now, at any time, you can open a popup and log off manually... bypassing the normal verbal commands. If somehow you still can't log off, the IFL protocol initiates automatically at the 24 hour limit.”
+
+Edward stood up. “Good.” He looked Max square in the eye. “If you weren't the best programmer on the planet, I'd fire your ass right now.”
+
+Max got a worried look on his face when Edward continued. “As a matter of fact... I want the ones who did it on the street in 10 minutes. Consider them fired as of yesterday. Standard severance package still applies, even though I don't want them to have it. Delete their game accounts and ban their profiles. If you, heaven forbid, had regular players do it... hired or otherwise... then they are to be banned from the game as well.”
+
+Max was about to protest when Edward held up his hand. “If you even think about saying that I'm being too harsh, or going too far, then I'll have to reconsider your position as the best programmer.”
+
+Max kept his mouth shut.
+
+“Let's just hope that there isn't any video of the incident.” Edward said. “I don't want to see your face for a while. When the system is finished with the upgrade, take a day or two off. Goodbye.” Edward said.
+
+Max got up and left the office.
+
+********

@@ -1,0 +1,150 @@
+---
+id: af981890-592f-5be2-8281-4f109db3b697
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20 - Out Of The Frying Pan"
+slug: 0004-chapter-20-out-of-the-frying-pan
+partOf: mythrans-master-of-all-continued-completed
+position: 4
+ownLength: 2115
+unit: words
+publishedAt: 2016-09-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/91788/chapter-20-out-of-the-frying-pan"
+royalRoadId: "91788"
+---
+
+Everyone in the city's square saw Ren faint on the stage. At least, that's what they assumed when they saw him collapse. Only that wasn't what happened at all.
+
+System Warning!Unstable brainwave activity detected.
+Please logout immediately!
+If you cannot initiate the logout procedure yourself, you will be automatically logged out in 20 seconds. The delay is to allow the system to initiate the proper connection termination protocols.
+
+The nurses waited for the agonizing 20 seconds to pass so the system could log Ren out. They held their breath and a final notice appeared.
+
+Notice!IFL (Involuntary Forced Logout) protocol successful.
+
+They unhooked Ren and removed the VR helmet as fast as they could without hurting him. Drool leaked from the corner of his mouth and his regular day nurse, Lucy, wiped it away.
+
+"Oh, Ren!" Lucy said, as tears rolled down her face. Another nurse gave him a shot of morphine to get his muscles to relax. The doctor came in afterwards and shook his head.
+
+"I think he's going to be taking a break from the game for a while."
+
+********
+
+A few minutes before at Sid Tec:
+
+The CEO of Sid Tec sat at his desk and beamed with pride. He knew that Ren was going to do some great things with his class, but he had no idea he'd be doing them so soon! Both he and his secretary sat still as they watched the live feed through their main server. Ren crossed the stage to accept the contribution award that he'd earned. They listened carefully while Lord Eric and Ren exchanged words, and after Ren received the gold, they watched helplessly as he collapsed. Right away Edward knew that something was terribly wrong. He saw how Ren had fallen. He didn't just faint. Edward stood and looked his secretary in the eye.
+
+"Ms. Stanford. Get Max on the phone. Now."
+
+His secretary jumped out of her chair with fear in her eyes. She didn't fear her boss, who she knew blustered and hollered with the best of them. He was a kind and gentle soul underneath it all. It was Ren she feared for. Mr. Torren wouldn't have such a cold tone in his voice if things were fine. She rushed out of the office to her desk and had Max on the phone a few seconds later. She listened intently at her boss' door, but could only hear his side of the conversation.
+
+"Max, tell me what... oh... Uh-huh... Dammit, is there anything... God dammit!" Edward hollered and slammed the phone down.
+
+Elise Stanford visibly shook at his outburst. He'd never said anything like that before! She sat down at her desk and wondered what her poor little Ren was going through. She missed his cute infectious smile so much!
+
+Edward sat down at his desk again. He'd call Max back in a few minutes to apologize. He looked at the monitor and watched as the Lord of Aurora waved the captain of the guard over, who then picked Ren up off the stage and they took him up to the Lord Eric's mansion.
+
+Edward closed his eyes and hoped for the best and that Ren was okay.
+
+********
+It wasn't until several days later, after several anti-seizure medications and antibiotic drugs had been administered, that Ren finally regained consciousness.
+
+"Ugh..."
+
+"No, Ren. Don't move. Keep your eyes closed, okay?"
+
+Ren nodded and did as he was told. He could feel the IV needles in both of his arms now and the EKG (that monitors his heart) and EEG (that monitors his brain) both started to beep really fast.
+
+"It's okay, sweetie. It's okay. I'm taking them out now." A woman's voice said softly.
+
+Ren recognized the nurse. Barbara. She was his night nurse. He felt the first needle leave his body and relaxed a little.
+
+"We had to wait for you to wake up before we could take them out." She said.
+
+Ren tensed up as the second one was removed, then he visibly relaxed and the monitors slowed back to their normal rate. Normal for Ren, that is. His body and brain operated on a different level after all the experiments his parents had performed on him. The machines beeped at about twice the rate that they would for almost anyone else.
+
+"How..." Ren croaked. His mouth was so dry it hurt to talk. "How long?"
+
+"It's only been about 4 days." Barbara said as she swabbed, cleaned, and bandaged his arms. Ren opened his eyes when she was done.
+
+"Wha... what happened?"
+
+"I wasn't here, but I talked to Lucy at shift change and she told me..." Barbara had to stop and catch her breath to continue. "...she said you had a grand mal seizure."
+
+Ren groaned and rubbed his face with both of his hands. He'd been warned when he arrived in the hospital that there was always a chance that he'd have seizures. There was nothing that could be done about it, either. Occasional drug therapy and keeping calm usually let him lead a normal life. Ren laughed at himself at that word. Normal. He'd never been normal once in his life, and never would be normal after everything that he'd gone through. He dropped his hands and looked at Barbara. She had a sad face but a hopeful smile.
+
+"I'm okay, Barbara." Ren said.
+
+Barbara's smile got wider. Ren wasn't enthusiastic enough for her liking, but at least he wasn't mad at either himself or his situation. She'd been worried about that ever since she found out what had happened.
+
+Ren looked around and noticed something was missing. "Barbara, where's my VR headset?"
+
+Barbara's eyes got wide with surprise. He noticed already? "I'm so sorry, Ren. Doctor's orders. No VR for a while."
+
+Ren squinted his eyes. "How long is 'a while'?"
+
+"He didn't say."
+
+Ren closed his eyes and sighed. It'll take a lot of convincing to get the doctor to give back his VR headset now. He took away the only thing that Ren had been looking forward to doing every single day... just because he'd had one seizure.
+
+Unauthorized duplication: this narrative has been taken without consent. Report sightings.
+
+Ren didn't realize it, but a grand mal seizure is like having 10 or 20 small seizures all at the same time. It can physically damage the brain because of the massive electrical activity happening all at once over the whole brain, and not just in specific parts. It's why grand mal seizures are so dangerous. If they aren't caught in time, there's a chance that you could die because your brain can literally forget to tell your body that it's supposed to keep breathing.
+
+Over the next two weeks, Ren did his physical therapy every day, ate regular meals, talked with the nurses, and slept. He got quite bored during that time, however... as there was nothing for him to do all day except lay in bed. He couldn't remember what he used to do with his time before he started playing F.L.O.W. It seemed like he had always been playing it. The nurses tried their best, but he fell deeper and deeper into depression. He didn't even want to go out for the day with Lucy that weekend, like they had always done once each month. It was at that point that Lucy had had enough.
+
+She stormed into the doctor's office without knocking.
+
+"Doctor Hobbard! Give him back his VR helmet!" Lucy practically shouted at him. "He's so depressed he barely even talks anymore!"
+
+The doctor closed his eyes and sighed. He'd been waiting for this to happen. He knew it was coming and was ready for it.
+
+"Ms. Webber, it was the VR that caused the seizure." He said.
+
+"What?" Lucy said as her anger evaporated.
+
+"The helmet stimulates various processing centers in the brain. When he got that unbelievable award in the game, nearly all the neurons in his head fired at the same time. The EEG lit up like a christmas tree for God's sake. I actually thought he might have broken it before I reset it."
+
+Lucy sat down in the visitor's chair and hung her head in her hands. "What are we going to do? Every day he's getting worse. When he does his exercises now, I don't think he even looks at the physical therapist anymore."
+
+"I know."
+
+"So... how do we fix this?" Lucy whispered.
+
+"We limit his time in the game until we can find a balance between that and the real world for him. We'll start back at the 4 hour limit we had initially, and go from there. Very, very slowly."
+
+Lucy quietly agreed with a nod. She stood and left the office much more sedately than she had entered it. By the time she arrived at the end of the hallway, she had forced herself to smile. She took a deep breath and opened Ren's door to tell him the good news. Starting tomorrow, he was allowed back in the game.
+
+Ren saw his door open and Lucy came in with the biggest fake smile he'd ever seen her wear. You know what they say about smiles? When you're happy, you smile... and when you smile, you're happy. I know, it's funny how that works, but it does. Plus, she's really pretty and when she smiles at you, even though you know it's fake, it still makes you feel all tingly inside. He couldn't help himself and gave her a genuine smile back. He also couldn't remember the last time he'd smiled like that.
+
+Lucy saw his face light up and Ren smiled back at her. Her smile changed to a genuine one as well and she crossed the room to sit at his bedside. She looked him over and saw that he was getting a bit of muscle back on his bones. It wasn't much, but he was getting his body up to a respectable weight.
+
+"Guess what?" She said.
+
+"What! Ha, I guessed it." Ren said, deadpan.
+
+It was an old joke they'd used a thousand times, but it showed her that he was at least trying to stay positive, despite his situation.
+
+"Can you guess what tomorrow is?"
+
+Ren wracked his brain about it, but couldn't come up with anything that he had to do tomorrow. That is, besides the physical therapy and eating, there wasn't anything else that he was supposed to do. He shook his head no.
+
+Lucy smiled. "It's the day for you to 'Go with the F.L.O.W.' " 
+
+Ren's mouth opened wide in a big 'o'. "You... you're not kidding me, are you?" That's Sid Tec's slogan for their VR game! Did that mean?
+
+"I talked to the doctor just a few minutes ago, and he said we can let you go back in for up to 4 hours tomorrow."
+
+Ren nodded and agreed quickly, before they changed their minds. Any chance to get back in the game is better than sitting here doing nothing! His grin split his face and Lucy stood to lean over the bed and gave him a big hug. He didn't squirm this time and hugged her right back. Lucy was a bit shocked because he'd never done that before. He'd always squirmed and tried to stop the hug. Ren turned his face into her flowing blonde hair.
+
+"Thank you." He whispered in her ear.
+
+Lucy tensed up for a second when Ren spoke. His breath had tickled her ear, and a moment later she let him out of the hug. He let her go and when she stood up, Ren looked at her. She was blushing so hard that her face was beet red, and he kept smiling.
+
+"Y-y-you're welcome." Lucy stammered. It was just a hug! She thought to herself. It didn't mean anything. Why am I trembling? She sat down at his bedside again when Ren started to talk.
+
+"Oh, I can't wait! It's been so long!" Ren said to distract her. He hadn't seen her blush like that before. They'd hugged lots of times and he wondered why this time her reaction was so different. He shrugged mentally. He'd worry about that later.
+
+"I don't know what to do first!" Ren exclaimed.
+
+It was the first time Lucy had seen him so excited in weeks. Maybe that's what she was picking up on? She listened to him talk about the game, and how he hoped he hadn't missed too much during all the time he'd been logged out of it. She relaxed as Ren babbled on and on and she smiled at him the whole time. He really, really liked this game.

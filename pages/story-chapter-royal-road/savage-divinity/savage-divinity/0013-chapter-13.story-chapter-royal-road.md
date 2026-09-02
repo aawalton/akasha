@@ -1,0 +1,91 @@
+---
+id: 35fada86-83d4-5a8a-ad60-874d5ca57ff8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13"
+slug: 0013-chapter-13
+partOf: savage-divinity
+position: 13
+ownLength: 1535
+unit: words
+publishedAt: 2016-03-16
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58996/chapter-13"
+royalRoadId: "58996"
+---
+
+Charok walked through the gate to the home he shared with his beautiful wife, returning early from his shift at the restaurant, leaving the late night hours for others to deal with. By now, his assistants had learned enough of his tricks that the food they cooked was on par with his. That just meant more time for him to spend with his wonderful family
+
+
+His two beautiful children came running out from the dining room, happy to see their father.
+
+
+“Hello my two precious babies.” He squat down and opened his arms for them to fly into. This was pure bliss.
+
+
+“Papa! Food. Please.”
+
+
+“Sweets! Please.”
+
+
+He chortled. They were so cruel, not even a hello. He gave them each a sweet red bean bun and picked them up, watching as they ate greedily, smearing red bean paste all over their mouths. “I'm raising a pair of gluttons.” He made sure to speak to them in Common sometimes, as Rain had told him it would help if they began learning early. A font of odd knowledge and practices, that boy was, but it couldn't hurt.
+
+
+“Welcome home beloved.” Alsantset greeted him as he placed the remaining buns on the dining table. Beautiful as the day he met her, he gave her a light kiss savoring her scent. The deep, passionate kisses would have to wait until they were alone. He looked around for the missing member of his family.
+
+
+“He's out. Again. He didn't come home for dinner. Don't you dare make him anything when he returns.”
+
+
+Charok smiled at his wife. If he dared not cook for the boy, she would put him in the quin's pen for the night. “Don't be so harsh on him, my flower. He's a boy, doing things boys are wont to do. Perhaps he's out chasing girls or playing games. I will go out and find him.” He knew where Rain was, same place he always was when not at home.
+
+Alsantset glared at him, as if saying 'how dare you try to take Rains side?' “I know where he is. He never goes far. He's in the grove at the end of the street. He's out there practicing his Forms.”
+
+“So the boy is practicing. Why does this upset you? Are you not his teacher?” At times, his beautiful wife was a complete mystery, but he told himself It was part of her charm.
+
+
+Alsantset tore into a bun like it had offended her. “None would be happier than I were he out playing. He makes no friends. Instead, he secludes himself close to home and trains. He's overworking himself. He's unable to reach a state of Enlightenment or Balance, but that is natural for one who has only begun. Every time he is unable to do so, he blames himself for being weak.” She took Tate into her arms, wiped his mouth and cuddled him. “At least this one still listens to me. I've told Rain this before, time and again. He won't listen to me. And he's hurting because of it.”
+
+Charok sighed. He turned to Tali and asked “Do you want to come find your Uncle Rain with Papa?” She nodded as he wiped her mouth, her twin braids flying about.
+
+It was a short distance to the grove. It was true that Rain never went far on his own. That might change if he had some friends. Charok had never seen a child so bad at making friends. Then again, he had never met a child like Rain. When he was close to his destination, Charok began singing a nonsense song, making sure Rain would not be surprised. He'd gotten much better in the past six months, but surprising him was rarely a good idea, as some of the children had learned, to their chagrin. Tali sang along with him. 'Precious, lovable child. Never complains about my singing. She's almost as tone-deaf as I am.'
+
+Rain was sitting on the floor, and greeted him with a smile. “Hello brother. I apologize, I did not realize the time.”
+
+He was not practicing the Forms? Was the boy meditating? That's new.“You've upset your sister. Come give little Tali a kiss goodbye, before Alsantset scolds you into a quivering pile of tofu.” Unsociable though Rain may be, his love for the twins was obvious, as was theirs for him. He handed the squirming child over to Rain. A doting uncle, Rain was so gentle and loving with them, a side rarely seen by any other. Another oddity about him. Most his age would resent the responsibility of younger children. Rain seemed to thrive in it.
+
+
+“Come, let us return. I'll cook you something to eat. You've still not enough meat on your bones. It makes me seem a disgrace as a chef. I've no face with you walking around so slim.” Although Rain had filled out, he was still slender. The memories of the mines still weighed on him in many ways. He still walked hunched, with his head down, rarely making eye contact. He always ate his meals too quickly, never sitting too close to another unless forced to. Or unless they were Tate or Tali.
+
+The author's content has been appropriated; report any instances of this story on Amazon.
+
+But he was getting better. The twins were largely to thank for that. They had worried that children would agitate him, make him feel isolated from them. Instead, Rain had immediately attached himself to them at the orphanage. He helped with their feedings, their play times, even with their laundry. Charok had felt guilty about encouraging that last behavior. Raising children was so difficult, he had no idea how other families coped without someone like Rain.
+
+When they returned home, Rain apologized to Alsantset and smiled through her scolding, while he played with the twins in the garden. Charok went to the kitchen. He decided to cook some fried rice, with grilled rabbit. He set about, cooking and frying.
+
+“I am at a loss beloved. He does not listen to me.” Alsantset came in and sat down on a stool, looking defeated. “He nods and smiles, but claims he can bear it. He has the gall to suggest that if he injures himself, Taduk will heal him. I should box his ears.” She slumped in the stool, chin on her hands. “I just want him to go be a child, but there's no thought in his mind other than training.”
+
+“That's untrue, love. He has other things on his mind at times. I've caught him staring at women in the baths. He's quite obvious about it. I worry his eyes will pop out one day.”
+
+Alsantset took a deep breath.“Not. Helping. And if you are not helping?”
+
+“Then I am hindering. I apologize, my wife. I shall hinder no more.” Charok continued cooking in silence, a smile on his face. His wife sat on the stool, with a furrowed brow.
+
+“... Who does he stare at? Should we have a meeting with her parents? He's a little young, but a simple arrangement for the future isn't out of the question, is it?”
+
+Charok looked at his wife and burst out laughing. “I'm fairly certain Cierna will not leave her husband for Rain.”
+
+“The seamstress? She's older than I am. Why does he stare at her? Does he show no interest in anyone his age?”
+
+Charok caught himself before he commented on Cierna's … Perks. No good would come of that conversation. He continued cooking. When he finished, Alsantset was still there, quietly worrying. He walked over and pulled her into his embrace. “My love, I know you worry for him. But let me suggest something you will dislike: take some distance from him.”
+
+
+“Charok!” She pushed him away, horrified he would suggest such a thing.
+
+He quickly tried to placate her, waving with his hands. “I only suggest a small, emotional, distance, not a withdrawal of affection, or removal from our home.” He waited for her to be somewhat mollified before continuing. “Give the boy some room. Your worries are due to the fact that he is hardworking. It is not so terrible. He has set himself a goal, to walk down the path of a Martial Warrior. I believe he will succeed. He has the drive, the intelligence, and the dedication to do so. And even if he does not succeed, we are here for him.” He placed the bowl of fried rice and a pair of chopsticks in her hands. “He has lost the innocence that comes with being a child. We cannot ask him to masquerade as one. We can only be here, at his side, ready to pick him up if he falls, ready to support him to success.”
+
+Alsantset looked sadly at her beloved. He was right. She didn't want him to be. She wanted to be able to give Rain a childhood. But she couldn't. “I just want him to be happy.”
+
+“That's simple enough, love. Ask your most comely friends to the bath house, and send Rain in.”
+
+
+She wiped her tears while laughing. She then kissed her beloved, before she brought the food out to Rain.

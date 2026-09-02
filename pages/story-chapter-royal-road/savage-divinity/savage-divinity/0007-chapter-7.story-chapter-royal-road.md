@@ -1,0 +1,87 @@
+---
+id: bca2011f-aed1-5ddf-9f33-2cd898ce100a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7"
+slug: 0007-chapter-7
+partOf: savage-divinity
+position: 7
+ownLength: 1679
+unit: words
+publishedAt: 2016-03-11
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58137/chapter-7"
+royalRoadId: "58137"
+---
+
+“Little Rain, open your eyes. We are almost returned home.” Alsantset gently woke the boy. He would want to see the village. He was a curious boy, so full of questions, but seemed reluctant to ask them. He had seemed fascinated by Suret, and listened intently, eyes wide with interest, when she explained about the roosequin.
+
+
+He woke with a start, but then calmed once he came to. She smiled. His first morning with them, he had woken kicking and screaming because he was caught in his blanket. These days of travel had been hard on him, and he carried many hidden injuries, but he had improved so much already. He turned his head side to side, and leaned over to look at the mountainside.
+
+
+“Roosequin walking on wall! How is possible?”
+
+
+Alsantset enjoyed his moments of childish amazement. “This is their land. There is no mountain too steep that a roosequin cannot scale.” A quin running up an incline was enough to elicit childish delight. He was quiet and reserved so much of the time, trying to hide his tears and pain. She hoped he would learn to share them, to know that a burden carried by many is made light. He had lost so much, knew so little of his people, and would need someone to guide him in his return. She intended to do just so.
+
+
+Alsantset continued guiding Suret up the slope and around the overhang. She slowed down a short distance from the village proper, so little Rain could appreciate the beauty of it all. Beginning from the multi roofed village gate, over to the drum tower, to the magnificent curved wall separating each district. She marveled at the architecture of it all each time she viewed it. The vibrant green foliage, broken only by the gleaming white stone roads. The wood and brick houses built into the side of the mountain, in rising layers. There were many stone carved statues interspersed among the city, adding to the aesthetics of the village. Alsantset loved her home, and hoped little Rain would come to love it just as much. From the rice paddies to the lake, the performance square to the glowing caves, she was eager to share it all with him.
+
+
+Many villagers were moving towards them, family and friends happy to see their loved ones returned. More would arrive, as word spread. Baatar began organizing the distribution and storage of their gains. Silks and cotton to the weavers, salt and preservatives to the butchers, spices and luxuries to the warehouses to be separated. Charok was handing out candies to the village children, who happily accepted them, insisting he stop to tell them stories of their adventures. Alsantset smiled at them sadly. Little Rain is the same age as them, yet has suffered so much. How much longer before he is able to laugh and play like that? His life should have been here, among them.
+
+
+Some of the villagers were glancing at him, too polite to inquire, but too curious to not look. Their attention had made little Rain nervous, his face pressed firmly against Suret, as if he were trying to hide within her fur. She patted his head soothingly. She directed Suret back towards the house she shared with her beloved.
+
+
+“There is to be a feast tonight, with food, games, and celebration. Beloved will go to help prepare. You should sleep, so that you may be well rested for the festivities.” She continued soothing him. He was tense, overwhelmed almost to the point of panic. Perhaps they should have delayed their entrance, so that he could return more quietly. No, little Rain needs to see more love and happiness. Alsantset untied him and supported him as they walked into her home. Their home.
+
+
+“Welcome home, little Rain.”
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+I was more accurate than I thought when I called them murder ninja tribesmen. They literally live in a hidden mountain village. It's all incredibly colorful. I thought all low tech worlds would just be various shades of brown and sadness. Bright green foliage, flowers of all colors, red clay roof tiles, clear water and bright gray stone walls, it's all almost too colorful. Even the villagers clothes have been dyed, yellow, pink, blue, green, and red on some of the outfits I see. It's a rustic, and peaceful place. No faces carved into the mountains though.
+
+
+
+Stolen content warning: this content belongs on Royal Road. Report any occurrences.
+Charok and Alsantset's home is a courtyard manor. The front gate opens up on a main road. Once through the door, we walk into a lovely garden, with a small, bubbling pond. A bridge on the other side leads to a pagoda in the center of the pond. Three wooden buildings surround the central garden, each with an ornate concave roof. They let me choose a room, and I pick the one in the corner, between the middle building and the rightmost building. It's next to the dining room, which is perfect. The left building is the stable for Suret and Pafu. Everything is surprisingly clean, especially considering they've been away for most of the year. Apparently the village children help keep everything clean while they're gone.
+
+
+A year, is 360 days, made up of twelve months. Each month is 30 days divided into three ten-days. It's a lunar calendar as opposed to a solar calendar, with the new moon beginning on the first day of the first week. Very neat and orderly. They don't have any particular names for the months or days. They measure time in seconds, minutes and hours, and measure things in centimeters, meters, and kilometers.
+
+
+Charok laughed when I asked about these things, but I think Alsantset was upset that I didn't know any of this. I need to do better.
+
+
+There are four seasons, with winter approaching. Alsantset tells me the winters are mild in the village, with light snowfalls. Outside of the village though, there's much more snow and ice, as well as colder temperatures. Hidden village is too OP, even has its own climate. They tell me it isn't magic though, just that we're sheltered by the surrounding mountains. It's upsetting how low tech and low magic this stupid world is, but I'm stuck here, for better or worse. At least they have paper. Might as well make the most of it. But first, a nap. Traveling is tiring, and I don't have anything else to do.
+
+
+When I wake from my nap, Alsantset gives me a haircut. She just crops it all short, which I think suits me. I'm not really feeling the man-braids, or the bald crown look that so many of the villagers have. Close cropped hair, like Baatar suits me just fine. Then she takes me out on Suret. No ropes this time. We head to the bathhouse. It's a hot spring. A mixed gender hot spring! There's quite a few people inside, getting clean for the festival, but there's still plenty of room.
+
+
+My bath is a little spoiled due to the fact that Alsantset insists on helping wash me, despite my objections. It would be less embarrassing if she wasn't so ridiculously sexy, and I didn't have the body of a twelve year old. She has the best intentions though, and I really shouldn't be thinking of her like that. She's my savior. Plus she's freakishly strong. I think she could out-muscle the strongest slave from the mines.
+
+
+Besides, the other village women here are all very pretty, not an ugly... face ... in sight. Everyone I've seen in the village is rather attractive, male and female, humans and non. It's like a hidden paradise. With beast girls. Except for the staring. I attract a lot of stares. It's a little uncomfortable, and makes it difficult for me to ogle. Maybe it's because I'm ugly. Do I not fit into the mountain people aesthetic? At least no one tries to talk to me. That would be a bit too much right now.
+
+
+After the bath, Alsantset gives me some clothes and boots. I'm delighted. I can dress like a person again. It's been so long. Even the past few days, I've just been wearing one of the smaller soldiers shirts like a dress. It's just some hand-me-downs, a simple brown shirt and pants, with a cloth belt. Cotton maybe? Or Hemp? I don't really know how fabric is supposed to feel. It's not itchy, so that's a plus. The boots are made of cloth as well, leather bottomed, lined with soft fur, and very comfy. Everything is a little big for me, but I'll grow into it. Just wearing the entire outfit makes me feel better, like I'm stronger, or more protected. Maybe they're enchanted. I ask if there was any magic like that on them, but Alsantset just smiles and shakes her head. She seems a bit sad about coming home. Maybe she misses riding around and adventuring. I tell her she looks nice in her outfit, a simple shirt and pants like my own. She smiles at that.
+
+
+When we're outside, she lifts me onto Suret, and walks alongside, one hand on my back to make sure I don't fall. I'm not gonna lie, it's nice to be cared for. I press my cheek in Suret's soft fur. I hope my boot fur isn't from a roosequin. That would be sad. Then again, if they're dead, they won't miss it, and my boots feel awesome on my bare feet. Let's just hope the donor died of natural causes.
+
+
+Alsantset guides Suret towards a lake on the far side of the village, where the celebration is supposed to take place. I take everything in, the views, the hustle of the villagers, the running, laughing children, the delicious smell of cooking food, and Alsantset's soothing voice, as she points out landmarks and places of interest. I could get used to life like this.
+
+
+I've only just arrived, but I love it here.
+
+
+I hope they don't make me leave.

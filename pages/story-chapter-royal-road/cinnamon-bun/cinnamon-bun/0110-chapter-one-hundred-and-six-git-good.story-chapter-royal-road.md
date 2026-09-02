@@ -1,0 +1,186 @@
+---
+id: 33ef2885-2afd-5a2f-8e4c-d1439acf190d
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred and Six - Git Good"
+slug: 0110-chapter-one-hundred-and-six-git-good
+partOf: cinnamon-bun
+position: 110
+ownLength: 1979
+unit: words
+publishedAt: 2020-10-08
+link: "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/566380/chapter-one-hundred-and-six-git-good"
+royalRoadId: "566380"
+---
+
+Chapter One Hundred and Six - Git Good
+
+I kept my distance from Arugula while I studied him. He was quick on the charge, but not faster than I was. His flail gave him decent range and a lot of power to his strikes, but after the initial hit it was slow to come back and strike again. 
+
+He was tough too, but that was physically. Mentally he seemed a bit... off. Which I realized was a very rude thing to think about someone and I’d have to apologize once I was done beating him up to teach him how to have fun.
+
+“Alright Broc,” I muttered to myself. “Just need to git gud.”
+
+I rolled forwards, ended on the balls of my feet, and shot straight up and out of the reach of Arugula’s falling flail. 
+
+The man roared as he looked up to follow my path.
+
+It made it extra easy to land with my feet up on his shoulders.
+
+Strong he might have been, but he couldn’t handle all of my weight dragging him back and down. Just as he started to tip back, arms swinging around to try and bat me off, I swung myself backwards so that I was standing almost perpendicular to his chest. Then I fired a burst of stamina into a jump.
+
+I went up into the air.
+
+Arugula went in the opposite direction.
+
+He landed hard on his back, flail clattering to the ground next to him. 
+
+“Ohh, the little bunny has some bite. Arugula, on his back, prone as can be! But Broccoli isn’t taking it. What is she waiting for?” Zac shouted from above. The crowd was eating it up. I just found it kind of grating.
+
+“See how I did that?” I asked. “I tried not to hurt you, and now you’ve learnt an important lesson! This is how sparring should be,” I said.
+
+“I’m going to kill you!” Arugula roared as he jumped to his feet. “And when I’m done with you, I’m going to pluck the wings off that bird you were with, and that little blonde one? Oh, I’m going to have fun with her!” 
+
+My smile froze.
+
+Balling my hands into fists, I stomped over to the man. “Mister Arugula, you can’t just say things like that. You shouldn’t even be thinking about them,” I said as I side stepped a vertical swipe from his flail. 
+
+I reached out and grabbed his wrist. 
+
+He grabbed my arm with his other hand. “Got you,” he growled.
+
+I smiled back. “You sure did.” 
+
+I bunched up my legs under me and, using his arm as a sort of pivot, spun around so that I was hanging sideways, feet towards his tummy. 
+
+Then I kicked as hard as I could.
+
+Arugula sprayed me with spit as he bent over double. He let go of my arm and let me fall, but I wasn’t over with him yet. 
+
+Twisting around in mid-air, I landed on my hands, then pushed stamina into them to throw myself back into the air, all while still spinning. 
+
+When I reached the apex of my jump, I wrenched myself around and shot out with one foot in a sort of horizontal roundhouse that ended with the heel of my sneaker impacting Arugula's chin.
+
+The man crumpled.
+
+I landed and spun around to bleed off the excess energy from my jump. It ended with me standing above Arugula, both hands on my hips. “Are you okay?” I asked.
+
+Ding! For repeating a Special Action a sufficient number of times you have unlocked the general skill: Kicking Combat Proficiency!
+
+“Oh, that’s neat,” I said.
+
+Ding! Four of your current skills are eligible for Merging: Hopping, Kicking Combat Proficiency, Physical Manakinesis, Makeshift Weapons Proficiency. 
+
+“World’s tit’s she knocked that man out cold! Arugula the bloodletter is out! And without so much as a drop of Broccoli’s blood spilled!” Zac shouted.
+
+The walls went down around the arena and the sound of the crowd, once muted, hit me like a battering ram. I winced, but smiled and waved all the same. 
+
+It was a mistake, waving just made them cheer all the louder.
+
+I gave up on that and instead used a bit of cleaning magic to get rid of the sweat I’d built up and the bit of spit Arugula had sprayed when I’d hit him. I was about to check in the man when a team of sylphs jumped onto the stage and rushed over to his side. They pressed glowing hands into his side until one of them, the one with the fanciest hat, nodded. “He’s clear,” he said.
+
+“Ma’am, do you need assistance?” another sylph asked.
+
+I shook my head. “No, thanks, my hit points are full,” I said. He nodded and moved over to the others who were tapping Arugula on the cheeks and waking him up.
+
+I looked up to see Zac, still talking to the crowds and cheering them on into greater fervor. I needed to have a talk with him, and my friends. 
+
+“Ma’am, this way,” clipboard guy said as he ran up to me. He none-too-gently started to push me towards the back of the arena. 
+
+“Hey!” I said. “I wanted to go see my friends.” I pointed to the stands where my friends were cheering, Awen, surprisingly, loudest of them all. I could hear her ‘I love you Broccoli’ from all the way down where I was.
+
+“You’ll have the opportunity to see them during the intermission. We can’t allow you to wander until then.”
+
+I wanted to disagree, but it would have been impolite, and the next thing I knew I was being pushed into the large waiting room.
+
+“Huh,” the large amazon I’d spoken to before was the first to speak. “You made it. And you’re not even covered in blood.”
+
+I tried on a smile, if only to hide my bit of annoyance. “I have Cleaning,” I explained before stepping deeper into the room. I was soon ignored by all the other fighters again. After the fight I just had, that suited me just fine. 
+
+If you spot this tale on Amazon, know that it has been stolen. Report the violation.
+
+Stepping deeper into the building and past the armory, I found a little kitchenette area at the back. It was a little rude to just use someone else’s kettle, but I had a bag of tea on me still and I could really use a moment to calm down. So I set some water to boil atop a little rune-powered stove in one corner and sat down to think.
+
+First, the fight. For all that it had been violent, and a little scary, it was also fun. Was I becoming some sort of adrenaline junkie? 
+
+Nah, that couldn’t be. It was just some normal fun, like sports but a bit more physical. 
+
+I shook my head and looked at my notifications. 
+
+You have two Merge Skills available. 
+Way of the Killer Bun - Hopping, Kicking Combat Proficiency, Makeshift Weapon’s Proficiency
+Way of the Mystic Bun - Hopping, Kicking Combat Proficiency, Physical Manakinesis
+
+Those... both sounded kind of cool. I frowned and tried to bring up more information about them, but got nothing for my efforts. 
+
+The kettle started to whistle so I pulled it off and poured the tea into a cup I’d snatched from a cupboard. It tasted pretty good once I’d blown it cool.
+
+So, two merge skills. And I could only pick the one? I’d be losing some skills, but Amaryllis had said that merged skills generally retained a bit of their earlier skills... skillness. 
+
+I needed more words for skill related stuff. 
+
+Hopping
+Rank C - 100%
+The Ability to hop. Your reflexes and timing for hops has increased. You can now hop higher and farther. You may now expend Stamina to increase the power of your hops.
+
+Was it worth it? I thought so. Picking from the two was also easy as pie. 
+
+Ding! You have Merged the following skills:
+Hopping
+Kicking Combat Proficiency
+Physical Manakinesis
+You have unlocked the skill:
+Way of the Mystic Bun
+1 Cinnamon Bun Bun Class Skill Point Refunded!
+Do you wish to place this skill as a Class Skill or General Skill?
+
+That was an easy choice too. Into the class slot freed by Hopping it went. I downed the rest of my tea then eyed the results. 
+
+Way of the Mystic Bun
+Rank F - 00%
+You have discovered the path of the Mystic Bun, combining devastating magic-laced physical attacks with incredible mobility. 
+
+“Okay?” I wondered. That wasn’t helpful at all. 
+
+The cheering from the crowds outside were a good reminder that I was going to be fighting again, and soon. I... I needed to prepare. I downed the rest of my tea, cleaned up my kettle and cup--because I wasn’t some barbarian that didn’t do the dishes--and placed everything back where I’d found it. 
+
+Stepping back into the main room, I looked around, then walked over to the two guards standing next to the armory. “Ah, hello,” I said.
+
+The older of the two nodded to me. “Ma’am,” he said.
+
+“Um. If I want a weapon, do I need to do something?”
+
+He nodded. “You’re only allowed weapons from this armory in the ring. You need to sign them off with one of us, and return them at the end of the day, or when you’re eliminated. They’re all enchanted to do reduced damage against living tissue. Tricky bit of enchantment that.”
+
+“Oh, neat,” I said. “So can I just... go in?” 
+
+He stepped to the side. “Enjoy yourself.”
+
+Grinning, I stepped into the room and took it all in. There were racks and racks of swords, shields, spears and axes. There were stranger weapons too. Whips and flails and tridents. 
+
+None of them caught my eye as much as the one thing sitting in the corner of the room and collecting dust. 
+
+It was perfect. A little square, but with plenty of handholds. There was a H-bar at its base acting as reinforcement, and the back had a bunch of straight ribs that looked nice and tough. It was only about waist high, and lifting it showed that it was on the heavier side, but that was okay.
+
+I set it against my shoulder and walked out of the door. “I’ll use this,” I said.
+
+The guard blinked. “Ma’am, that is a chair.”
+
+“Yeah,” I confirmed. “So do I need to sign something?” 
+
+“That’s a chair,” he repeated.
+
+I nodded. “Yep. I haven’t actually tried sitting on it yet, but I’m sure it works just fine.”
+
+The guard scratched at his head, looked to his buddy, and after sharing some shrugs back and forth, he pulled a clipboard off of a nail holding it to the wall behind him. “Just sign here, I guess,” he said.
+
+I looked over the document, skimmed it real fast, then took the pencil next to it and signed my name in and wrote ‘a chair’ in the right box. “Thank you,” I said before I stepped back. 
+
+I took my new chair and sat off to one side of the room. I would have to be careful in my next fight. No hopping meant way less mobility. Still, I was pretty sure I could move the same way by pushing stamina into my limbs, I just didn’t have a skill to make it easy for me anymore. I hopped on the spot a few times to test it out, and it seemed... okay?
+
+A bit annoying, but I would give it my all nonetheless! 
+
+I shifted on my seat, then jumped to my feet. If I was going to be bored, I might as well grind some skills while I was at it.
+
+It was time for another cup of tea.
+
+***

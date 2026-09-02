@@ -1,0 +1,192 @@
+---
+id: f94f33ec-17a8-5119-9cf9-89c9e8161892
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 - Opportunity Knocks"
+slug: 0012-chapter-28-opportunity-knocks
+partOf: mythrans-master-of-all-continued-completed
+position: 12
+ownLength: 2623
+unit: words
+publishedAt: 2016-09-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/93360/chapter-28-opportunity-knocks"
+royalRoadId: "93360"
+---
+
+Ren left the fluffy pillow room and closed the door. He activated Sneak again and went down the stairs. He didn't see or hear anyone at all and continued down the hallway. He made it down the main stairs and out into the lobby. There were some people milling about, but no one paid him any attention. He deactivated Sneak and walked out through the mansion's doors. He passed the guards without causing an incident. He stepped into the city street and didn't know where to go.
+
+Huh. It's still too early to go to any shops. Any suggestions, Teepo?
+
+“I wouldn't mind a nice long walk, master.”
+
+Ren nodded and headed down the street. He hadn't walked around this side of the city before, so both he and Teepo would be getting a treat. They didn't see anyone else along the way, but enjoyed the sights nonetheless. A big waterwheel was next to the river, nestled along the riverbank right in front of a dam. The wheel was churning the water quickly. Ren wasn't sure what they were doing with all that mechanical energy, but he hoped they weren't wasting it. They walked on and passed the dock. Ren would have said harbor, but there was only room for two small boats. He assumed the river must be shallow for there not to be at least one big ship to be there.
+
+
+Buildings were everywhere and large walls surrounded the city. Ren didn't walk along the wall, though. If he could, he'd probably walk on top of it. It looked like there was some kind of walkway, but he hadn't seen any ladders or stairs to get up there. Ren moved on and continued his pretty much random walking until he reached the Artesian District again. The sun was just coming up and he thought he saw someone moving behind one of the buildings. His curiosity got the better of him and he activated Sneak. He followed the shadow behind the building and down an alleyway. Ren watched as the shadow went to a locked gate, jiggled the handle a bit, and then slipped over the top. Ren followed and stood by the gate. He listened and could hear a slight rubbing of cloth. Ren could see quite a bit better in the dark, but now that it was twilight, his vision was just about the same as a normal person.
+
+Ren hopped up and grabbed the top of the gate and pulled himself up. He sat on the edge of the wall and realized what the rubbing cloth was. Someone was moving the tent he had helped Sally with!
+
+“Hey, what are you doing?!” Ren said a bit loudly.
+
+The figure turned towards the voice, and Ren saw that it was a man with long brown hair and a disheveled look. He had a scraggly beard and wore clothes that had seen better days.
+
+“Get lost.” He whispered. “This isn't any of your business.”
+
+“Actually, it is my business.” Ren said. “I helped Sally make that tent, and I won't let anyone steal it from her.”
+
+“Steal it?” The man said, a bit shocked. He forgot to keep his voice down and a light went on in Sally's place.
+
+“Now you've done it!” He snapped at Ren. “I didn't want to wake her up!”
+
+Ren smiled. “Of course you didn't want to wake her up. It would be easier to get away if she never knew you were there.”
+
+“I'm not stealing-”
+
+They both heard a creak when the back door opened.
+
+“What's going on out here? Who's making so much noise at the ass-crack of dawn?” Sally said.
+
+“MOTHER!” The man shouted.
+
+Mother!?!  Thought Ren, surprised.
+
+********
+Edward got his secretary back to her desk and she settled down enough to not be crying constantly.
+
+“Elise, why are you acting this way? I know Ren had a hard life...”
+
+“No... you don't get it. It was my fault!” She said and sobbed.
+
+“What? Why would you think that?”
+
+“Because... I had someone follow him for a while... but they lost sight of him earlier that day. I had hoped to find him again... I wanted to keep him safe... my poor little Ren...” She said.
+
+“...but then...” She sobbed harder. “...but then... they killed him!” She bawled and Edward handed her another tissue.
+
+“You watched the video, didn't you.” Edward said. Elise nodded.
+
+“It wasn't your fault.” Edward said and sighed. “Even if you knew something like this was going to happen...”
+
+“It happened right outside my house!” She said and then slapped her hand over her mouth with a clap.
+
+“Your house?” Edward asked.
+
+Elise sighed and nodded. “I had one built in the housing district so I could try and keep tabs on him while he was trapped in the game... but... but... it didn't work.” She said and cried some more. “I failed him!”
+
+So that was why it's hit her so hard. Edward thought. She was probably sitting right there when it happened and missed the whole thing.
+
+********
+Sally invited both Ren and Aimus inside for some breakfast. They reluctantly followed her into her kitchen and she made them something to eat. Ren apologized for making so much noise, but he thought Aimus was a burglar and didn't want him robbing her. Sally laughed and Aimus grunted. They both knew Ren really did have Sally's best interest at heart.
+
+“You weren't supposed to pick up the tent until tomorrow.” Sally said to Aimus.
+
+Aimus shrugged. “I got away earlier than I expected to... and didn't find anything on the way to slow me down.”
+
+Ren turned to Sally with a question on his face, but she answered before he said anything. “Aimus hunts. If he finds any worthy game, he'll stop traveling and take hours... and sometimes days...” Sally said and rolled her eyes. “...tracking whatever it is, to kill it.”
+
+Ren nodded.
+
+Sally asked Aimus how the weather had been back home, and Aimus told her it was almost the same as it was in the city. It didn't rain once, and it was a few days travel away. They guessed it might be the beginnings of a drought.
+
+It sounds dangerous. Ren thought about Aimus's behavior. It made Ren wonder why he would do that to Sally... and then it clicked. Sally said that her husband had taught everything he knew to her son. Ren thought. She also said that her husband had died doing what he loved... Ren looked at Sally with realization in his eyes. She nodded but didn't say anything.
+
+“How long are you staying?” Ren asked. He hoped to learn leatherworking from the only expert around.
+
+Aimus smirked at him and stood. “Well, mother... thank you for the meal. I'll be taking the tent and leaving now.” He glanced at Ren with a bit of malice. “I didn't intend to wake you up so early.”
+
+“I already apologized!” Ren said.
+
+Sally laughed and gave Aimus a hug. He was a bit startled, but hugged her back.
+
+“Tell Ana I send my love.” Sally said.
+
+Aimus nodded and turned towards the door.
+
+“Wait!” Ren said.
+
+Sally and Aimus turned to Ren, who had kind of an anguished look on his face. “Take me with you.”
+
+They were shocked to hear Ren ask something like that. Aimus leaned towards him. “Why?”
+
+“I want to get out of the city for a while. It's... left a bad taste in my mouth.” Ren said.
+
+Aimus leaned back and smiled. “Gotten a glimpse of the seedy underbelly, have you?”
+
+Ren lowered his head and nodded.
+
+“Good.” Aimus said. Ren looked up and didn't see pity on either Aimus or Sally's faces.
+
+“You've gotten to see what it's really like here. Mother stays because her business is here. I left as soon as I was able.” Aimus said. “My mother likes you for some reason, so I won't object to you coming along; but it's not a free ride, either. I expect you to hold up your end.”
+
+This book is hosted on another platform. Read the official version and support the author's work.
+
+Ren grinned at him and put a half dozen gold coins on the kitchen table. “Is this enough to start?”
+
+“To start?!?” Aimus said and stared at the coins.
+
+Ren put another half dozen on the table. “How about now?”
+
+“Stop! STOP!” Aimus said and shook his head. He reached out and only took 4 of the coins. “I'll go and buy provisions for the trip.”
+
+“You'd better stop in to see Beable. He's had the traps you ordered for two weeks now and wants them out of his shop.” Sally said with a smirk on her face.
+
+Aimus smiled back at her. “That's fine. I don't know what makes him more nervous. The teeth or the wires.”
+
+Ren was intrigued. Traps?
+
+“Oh, it's definitely the 'snapping his foot off' part that makes him nervous.” Sally said and laughed.
+
+Aimus laughed too, and went out the back door.
+
+“Ren, he'll probably be gone for a while.” Sally said. “Since I'm up, I might as well go into the shop early. There's always work to be done.”
+
+Ren nodded and followed her. He had some work to do, too.
+
+They went to the front of the shop and Sally opened for business. Ren asked for the use of one of the back tables, and Sally waved him away. “Of course! You're my student. Help yourself.”
+
+Ren went to a table that didn't have anything on it and pulled out his bolt of spider silk cloth. He took off a couple yards of it and cut out a set of traveling clothes. He used the dye to make them the same as his other set of traveling clothes, sewed the pieces together, and equipped the outfit. The only thing he kept from the uniform were the High Elven boots that Sally had made. They were better and more comfortable than the standard boots. He lost his '+5 to all stats bonus' that the uniform gave him, but the new clothes still had the same high durability. Ren smiled. The best armor was the armor that people didn't know you had.
+
+Ren took out the remains of his tent and cut out the template for a coin pouch. He took his time with it, just like he always did, and finished it even quicker than before. The only thing he changed was that he used a folded over piece of spider silk cloth for the drawstring instead of the normal strap of leather. He was a bit shocked at the result, but quite pleased as well.
+
+Superb Spider Silk Coin VaultHigh Quality!
+The impeccable stitching and high durability of the materials has made this more than just a coin pouch. The stitching will never break and it cannot be cut by knives. Cannot be damaged by standard weapons.
+Binds to owner when equipped (becomes non-tradeable)
+Durability: 300/300
+
+
+
+Ren made 4 more and equipped one of them. He kept one to give to Aimus and left three on the table. He took the thread out of his old coin pouch and tossed the cloth into the box Sally kept under the counter. It was the perfect size for a rag. Ren then turned and watched Sally as she worked. She seemed content as she sat there and her hands never faltered. He didn't know what she was working on, but she finished whatever it was, put it aside, and picked up more cloth and kept working.
+
+Ren turned back to the table and took out his book of runes. He turned to the last page and imprinted the protection rune into his brain. He flipped back to the other runes at the front of the book and pictured each of them combined with the new rune of protection that he had. He felt the book's pages fill as each new glyph took shape in his mind. When he finished, he flipped through the new pages and marveled at the new glyphs. He had protection glyphs for them all.... like fire, lightning, earth, wind, water... and the best one... Holy Light of Protection: +15 defense against Undead. Ren smiled. There it was. Absolute proof that there was other kinds of magic in this world. Necromancy had to exist for there to be a defense against it!  Ren thought.
+
+He took out the old buckler shield that he'd scavenged during the expedition and absorbed the old earth rune he'd had on it. He looked back through the pages and found the protection glyph for earth. Ren placed his hand on the buckler and felt a good portion of his mana drain. The glyph etched itself into the wood.
+
+Small Wooden BucklerThis poor quality buckler has been enchanted almost to the point of it's own destruction.
+Hand of the Earth: +15 to armor
+Armor: +5
+Durability 20/20
+
+
+
+Ren chuckled at the description. The game seemed to come up with some odd things sometimes. He put the buckler away and got another popup.
+
+Ability Increase!Your ability to enchant has become better than ever before
+
+
+
+Enchanting Level 1 (Intermediate 0%)You can now combine up to 3 runes into a single glyph
+
+Higher levels will allow even more runes to be added to each glyph
+
+
+
+Ren whooped in surprise. Sally let out a startled 'yip' and looked over to him.
+
+“Sorry.” Ren said, sheepishly. Sally shook her head and went back to work.
+
+Ren looked down at his book and it's pages had doubled in size. He flipped through the book and saw that the single runes he'd had on each page, now had the single rune at the top corner and the double rune glyph he'd made during the expedition at the other corner. The book had rearranged itself! Ren looked at the page, and imagined what three of the same basic runes mixed together would look like. It took a minute for it to be clear in his mind, and the glyph appeared on the page at the bottom corner. Ren smiled. He flipped to each page and did the same thing for each rune. He tried a few other combinations, but like before, some weren't compatible with each other and didn't form on the page.
+
+Ren turned to the protection runes he'd made earlier and they had shuffled into the top corners of the pages and into smaller versions as well. He imagined glyphs with two basic runes of the same type and one protection, and one basic rune and two protection, just to see what the stat difference would be. There was about 10 points in the difference; so, if he wanted more element power, he sacrificed protection, and the more protection he had, the less element power. There was still some room left on each page and Ren smiled again. He guessed that Intermediate level 5 would give him access to the 4th rune option.
+
+Ren took out his enchanted buckler again and absorbed the glyph from it. He turn the pages of his book until he got to the earth one and put his hand on the buckler. Ren felt his mana drain a bit more than the first time. He opened his eyes and saw the glyph etch itself into the face of the wood. The buckler glowed with a dull light... and then shattered with a loud bang into hundreds of splinters of wood. Ren covered his face just in time; but when he looked around, he saw that the wood pieces had covered his table, the floor surrounding him, and most of the cloth projects that were on the next table.
+
+“Oops.”

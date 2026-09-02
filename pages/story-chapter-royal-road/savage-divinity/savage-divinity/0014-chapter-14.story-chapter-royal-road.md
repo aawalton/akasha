@@ -1,0 +1,63 @@
+---
+id: 9d581c48-d8b5-5a81-8967-10f8782a804d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14"
+slug: 0014-chapter-14
+partOf: savage-divinity
+position: 14
+ownLength: 1470
+unit: words
+publishedAt: 2016-03-16
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58997/chapter-14"
+royalRoadId: "58997"
+---
+
+Baatar always enjoyed returning home. The familiar scenery, sounds, and scents were so refreshing and soothing. But after a few months of calm, the beast would rise up within him, the need to hunt surging through his blood. For now, though, the beast was sated, calm. The festival had been loud and disorderly, not something he enjoyed doing. The soldiers and villagers needed it though. Not many were like him, the need to hunt driving them. They followed him because it was needed. They defended their lands. But the hunt wore on them. They needed to relax, to celebrate, to laugh and to cheer, and, sometimes, to cry and to mourn.
+
+For the second year in a row, there had been no casualties. It was a joyous occasion, unmarred by loss. It was worrisome. The lack of losses was due to a lack of combat. The province had been peaceful for the most part. Some small incursions, tests of the defenses, but no true invasions, not even a skirmish. No demon had attacked, no coordinated bandits. Just a few Defiled men and beasts, solitary or small groups, unaffiliated with any major faction. The enemy had been quiet these past two years. It sat on him heavily, worried that there was some reason for their quiet that he couldn't see. Baatar shook his head. He had sent his report, along with his misgivings. It was for better minds than his to determine whether there was cause to worry. He stopped in front of his destination.
+
+Baatar paused outside the gate. The boy had been here a year now. Everyone he had spoken to had shared the same opinion. They all agreed, the boy was mostly healed. He had stopped having nightmares. He no longer hid in dark spaces. There was no second incident after all the children had been warned not to surprise him, especially as a prank. The boy smiled and laughed, was polite, intelligent, and dedicated to training in the Martial Path. He excelled at his lessons in herbalism. Sarnai had commended his work ethic, Alsantset on his talent, Charok on his intelligence. Taduk was even considering marrying off his precious daughter to the boy. Baatar convinced him otherwise, for the moment, but Taduk was nothing if not opinionated. It wouldn't surprise him if next year, he returned to find them already betrothed.
+
+Not a single person spoke badly of him. The most they would say was he was remote, distant at times. There was only one problem. He had spoken to the boy's caregivers, his teacher, his supervisor. When he had asked to speak to the boy's friends, he was met with silence. The boy had no friends. He had almost no interaction with anyone outside his family, besides those he was required to. A problem, but one that could be easily fixed.
+
+He was greeted by shrieks of delight as he stepped through the gate. The twins, Tali and Tate, came running at him, their toys forgotten.
+
+“Gran papa!”
+
+He dropped down to nuzzle the two of them, growling in content. Two little innocents, chubby and pink skinned. He had seen them at the festival three days past, but to children, three days seems forever.
+
+“Hello Papa you're early. Are you hungry? We've plenty of food.”
+
+Baatar stood, the twins sitting on his shoulders, holding onto his wolf ears. He looked at his daughter oddly.
+
+Alsantset was dressed in a loose shirt and pants, far too large for her. Her hair was untied and half brushed. She caught his look and glared at him. “Like I said, you're early.” Baatar laughed at her efforts to fix her appearance.
+
+“No no, my girl, I am simply cherishing the sound of you calling me Papa. You were still calling me Captain when I left in the spring.”
+
+“You were the one who insisted. 'I'll not have a soldier in my unit refer to me as anything but Captain'.” Alsantset stood at attention, hands behind her back, a grimace on her face, parroting her father. “It took some time to adapt.” She smirked at him. “You look after my precious babies. I need to make myself presentable.”
+
+Baatar played with the twins, tossing them high into the air, and catching them. Their happy screams were delightful to hear. The boy came out and greeted him politely, carrying feed to the roosequin pen. Baatar studied the boy as he passed.
+
+Love this novel? Read it on Royal Road to ensure the author gets credit.
+
+He still walked with his head down. Hadn't grown much in height either. More meat sat on his bones though. Difficult to stay slim with Charok's cooking. Broad shoulders, down to a narrow waist. The scars were gone, no doubt Taduk's work. Short legs. Sturdy. No elegance or refinement in his steps, just heavy and determined. Fix his timid personality and the boy could be a real scrapper. Baatar smiled at that thought. Just like himself. The way Sarnai and Alsantset fought, it was fierce and quick, before fading away. A dance, forward and back, left and right. Avoiding the enemy until they could strike decisively. Too frivolous, too complicated. Get in close and do as much damage as possible in the shortest amount of time, thereby limiting the damage taken. Rend flesh and break bones, take no half measures. His decision was made.
+
+Baatar had breakfast in his daughter's home, chatting amicably, asking a few questions, telling a few stories. The boy was quiet and reserved, but attentive. He was kindest to the twins, almost a different person when interacting with them. He had stopped eating too quickly, and a calm eating pace had emerged. He shared the best parts of his breakfast with the twins, feeding them small bite sized pieces. It was true. The boy was much better, and in only a year.
+
+The boy was not completely healed, of course. The boy hid some of it well, but the fear, anger and hatred that had spawned from his time in the mines was still there. That's not terrible though. A fire in him, that Charok lacked, that even the girl didn't fully embrace.
+
+“Charok, a delicious breakfast, as always. Girl, he won't be going to your class today. Boy, come with me.” As soon as breakfast was finished, Baatar stood and walked towards the door. He was eager to teach the boy. Shape him, mold him into a weapon, to unleash upon their enemies, wield in the defense of their home.
+
+“Go clean up and change into training clothes little Rain. I'll not have father dirtying your good clothes. Don't worry, he'll wait. Go, go.” Alsantset hurried after her father. He looked at her quizzically.
+
+“What do you mean to do father?” She stood tall, stared him straight in the eye, challenging him.
+
+Baatar smiled at his angry daughter. So fierce, just like his Sarnai. “You told me he reached the State of Enlightenment once before, and that he is yet to reach the State of Balance. I am going to teach him.”
+
+“You find my teaching inadequate? He is doing well. He can Demonstrate the Forms to at least 60% perfection with only a years worth of practice. It's only a matter of time before he reaches Balance.”
+
+He had forgotten her pride. Also so like her mother. “I mean no offense, girl. He interests me. Let me teach him while I am here. I am older, and therefore wiser than you. Perhaps I can help him in ways you cannot.” Or will not. She is too lenient with him, and coddled him. Best to not mention that out loud.
+
+Alsantset stood there, eyes glaring, lips pursed, arms crossed. “Fine.” She relented, “You are not to push him too hard. He pushes himself enough. If you're going to keep him all day, you need to let Taduk know as well. He teaches Rain after lunch. He doesn't like to eat mushrooms, so feed him something appropriate. Have him back for dinner. You and mother should come as well.”
+
+“You worry too much, girl. I will let Taduk know. No mushrooms. I can't stand them anyways. Your mother and I would be glad to come for dinner.” He had intended to train outside Taduk's home in any case. The boy would require healing. Best not mention that either. He walked out the gate, and smiled, planning the lesson in his head. Had Alsantset seen the wolfish smile upon her father's face, she would have forbidden Rain from going with him. She knew the smile well. The lessons in combat from her father had been cut short when Sarnai had learned of them. Baatar was not one for half measures. He eagerly waited for the boy. To have a student again. Good, good. Good.

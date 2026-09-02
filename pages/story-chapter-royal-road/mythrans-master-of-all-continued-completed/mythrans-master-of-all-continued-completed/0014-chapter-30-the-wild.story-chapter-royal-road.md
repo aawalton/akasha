@@ -1,0 +1,121 @@
+---
+id: ba8b144f-7340-5609-9374-59cbbf51f087
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30 - The Wild"
+slug: 0014-chapter-30-the-wild
+partOf: mythrans-master-of-all-continued-completed
+position: 14
+ownLength: 2302
+unit: words
+publishedAt: 2016-09-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/93694/chapter-30-the-wild"
+royalRoadId: "93694"
+---
+
+*
+(Author's Note: I'm going away for 5 days starting tonight (Sept 18-22) so no new updates until at least a day after that. I know... I know... I've been spoiling you with writing a new chapter every day for over a week now, but I won't have internet access (or even something to write on) the whole time and I literally can't post new updates. We're going to have to wait to see what happens next. Myself included.)
+*
+
+It was about noon when they approached the mountain pass. Ren looked at it, and it was a harrowing path to follow. Dark jagged rocks pointed out everywhere and it didn't look safe to cross at all. He looked at Aimus with doubt in his eyes.
+
+Aimus laughed. “It looks that way on purpose. It keeps people who don't really want to go from passing through.”
+
+Ren thought about it. That would be a good deterrent. If people believed it to be impassable, it actually was. Ren looked back at it with this realization in mind and it seemed to be a less daunting task. He grinned. He'd guessed right.
+
+Aimus stopped the cart and they got out to take a rest. There wasn't any spots to do so on the path, so it had to be done here and once again after they'd crossed it. They fed and watered the horse and stretched their legs. Aimus took out a loaf of bread and tossed it to Ren. Ren caught it and broke a small piece off and tossed it back. Aimus had intended to give Ren the whole loaf, but was shocked when he'd only taken a small piece and gave it back. Ren took out his water skin and drank some of it to wash the bread down.
+
+Aimus ate the rest of the loaf and took out a piece of jerky he'd brought from home. He motioned to Ren and Ren nodded. He caught it just as easily as he did the loaf of bread and put it in his mouth to chew. By the feel of the jerky, he'd be chewing on it for a while. Aimus took a piece for himself and told Ren to get on the cart. Ren did so and Aimus got on as well. He took the reins and got the horse moving at a slow pace. Even though Aimus knew the mountain pass was passable, it didn't mean that it wasn't dangerous.
+
+They got about halfway through the mountain pass when Ren felt a familiar pull on his right. His arm had brushed one of the rocks and he knew something was there.
+
+“Stop the cart, please.” Ren asked Aimus.
+
+Aimus did. “What is it? There's no animals about. Did you see something?”
+
+“No, I just felt something on the rock face we just passed. Hold on a second. I'll be right back.” Ren said and got off the cart.
+
+“Don't go near the cliff's edge. It's a long way down from here.” Aimus said.
+
+Ren nodded. He went back up the path and felt along the rock. He felt the pulse again, but something was off. He activated Enchanting Eyes and a 4 foot section of the rock glowed. It was an enchantment! He activated Read Rune and Decipher, and looked at the glyph that appeared. It took a few minutes, but he saw light, earth, wind, arcane and protection. Once he saw all of them, and how they mixed into the glyph, he put his hand on it and absorbed it.
+
+The rock face crumbled and he stepped out of the way. It looked like the face was only about an inch thick because there wasn't much rock from it's collapse. Ren turned to Aimus standing next to the cart.
+
+“If this is what I think it is, get ready to run.” Ren said and went into the small opening.
+
+Ren walked for only a minute and saw only a flat wall. Teepo wasn't scared since he'd been underground his whole life and just rode Ren's shoulder in silence. Ren activated Read Rune again and saw the same glyph on the wall. He touched it and absorbed it. The wall face collapsed and behind it was another chunk of that strange glowing gem like ore that he'd found a while ago when mining. He took out his mining pick and had the ore out of the wall in seconds. He grabbed it, dropped it into his inventory with the other one and ran for his life. He knew what was coming. Teepo chittered in delight. He liked it when his master ran.
+
+Notice!You've caught the attention of the 'Spirit of Earth'
+
+
+
+Ren heard a rumbling behind him. He ran out of the hole and turned to the cart. “Go! GO!!!” He shouted and Aimus flicked the reins. The horse started to trot and Ren caught up to them easily. “Faster!” Ren said and hopped up onto the seat. He looked back and saw a large portion of the rock face bulge out. A huge rock golem appeared on the trail a moment later. It was made of dark jagged rock, just like the mountain, and looked like it meant to do him some harm. “I said faster!” Ren said and smiled.
+
+Aimus looked back and saw the rock golem following them. He had heard stories about such creatures, but he'd never seen one in person before. “What did you do!?!” Aimus shouted at Ren and flicked the reins again. The horse picked up speed and the cart started to shake. It wasn't designed to go that fast on this kind of terrain, but Aimus didn't much care what it was designed to do... he knew what it could do.
+
+Ren laughed but didn't say anything. He looked back at the rock golem again and saw it was keeping up with them, but it wasn't gaining on them. “I need to borrow one of your traps!” Ren said and hopped into the back of the cart. He rummaged through one of the bags Aimus had and pulled out a leg holding trap. He climbed back onto the front seat with the trap in his hand. Ren took out his book of runes and flipped to the right page. He held the glyph in his mind and put his hand on the trap. It glowed and a glyph etched itself on the trigger piece in the center. Ren put his rune book away.
+
+“Make sure you keep going when I jump!” Ren said and grinned. Aimus looked at him in shock and Ren hopped off the side of the cart. Teepo chittered in delight again and held on to Ren's shoulder. They rolled a couple of times and came to a stop. He lost a portion of his health but he didn't think about that. Ren set the trap right on the edge of the path next to the rock face and took off running. He knew he didn't want to be close to the trap when it went off.
+
+Ensure your favorite authors get the support they deserve. Read this novel on the original website.
+
+Ren could hear the rock golem tromping behind him and then he heard a snap and a loud grinding sound. Ren stopped running and turned around. What he saw amazed him. His gamble had worked. The rock golem had indeed set off the trap.
+
+It now stood on the road, with its leg clearly held on to by what looked like a big hand made of rock. It looked down and saw it was trapped. It tried to pull it's leg out several times, and just when Ren thought it was going to give up, it's leg popped off. It looked down again, and then teetered on the side of the cliff. It stuck out it's arms, but it was too late. It fell over the side and crumbled into a pile of rocks down the cliff face.
+
+“Master killed it!” Teepo said, happily. Ren got a popup.
+
+Notice!You have successfully defeated the Spirit of Earth - Greater Rock Golem and evaded capture.
+Rewards: 200XP
+Fame XP Bonus: 10%
+
+
+
+Ren went over to the trap and his enchanted rock hand was still there. He grinned and touched the trap, absorbing the enchantment. He really liked the 'Grip of the Earth' glyph he'd made that morning when he'd gained access to the third rune option. He didn't know it would work like that, though. Maybe it was because of what he'd enchanted? Since it was a trap, it became a trap enchantment? He'd have to experiment later on. Ren picked up the trap and looked down at the ground. He saw a black jaded rock and picked it up.
+
+Notice!You have found something interesting.
+A pet rock.
+
+
+
+Ren examined it.
+
+Pet RockThe perfect pet!
+It does not need to be fed, walked, bathed, or groomed.
+It will never be disobedient or get sick.
+It will never die.
+
+
+
+Ren laughed at the description. He put the rock away and took off running down the path, much to Teepo's delight. There were no other trails leading off of it, so he had no worries about getting lost. A half hour later he came out of the mountain pass and met Aimus at the bottom. It looked like he'd been there a while. The horse looked rested and well fed.
+
+“I was just about to go searching for your body.” Aimus said.
+
+Ren laughed and passed him back his trap. It had been beat up pretty badly after being stepped on by a big pile of rocks, but Ren had repaired it easily. Aimus asked what had happened, and Ren said that the enchanted trap had worked. The rock golem got caught and then fell over the side. Aimus commented that he'd heard the rock slide, but assumed it had been Ren falling to his death. Ren laughed again.
+
+Aimus wondered how Ren could be so flippant about falling from such a height to his death. Aimus himself wasn't immune to the heights they'd passed and it made him nervous every time he went through the mountain pass. He packed away the trap Ren had returned to him.
+
+What was with this kid?  Aimus thought as Ren helped him hook the horse back up to the cart.
+
+What Aimus didn't know was that Ren didn't fear heights in the game anymore. He knew he could still get seriously hurt or even die; but since he'd survived a fall from so great a height in that underground cavern, the mountain just seemed so small in comparison.
+
+They travelled along the road for most of the day and camped at another clearing that night. Aimus repeated the same things he did the last time they had camped overnight, and Ren set out his bedroll.
+
+“Don't go too far, Teepo.” Ren said to his little friend.
+
+Teepo hopped off his shoulder and disappeared into the sparse bushes. “Of course not, master!”
+
+Ren chuckled and figured he'd have to summon him again in the 'morning'. He considered logging out for the game's night, but since all he'd do is sleep in the real world anyways, he tucked himself into his bedroll and went to sleep.
+
+Ren awoke to the smell of eggs being cooked. He got out of his bedroll and packed it away. He saw that Aimus had a small fire going and had a small wire mesh over the top of it. The skillet sat on the mesh and sizzled with grease. Ren walked over to the fire and sat down across from Aimus.. who was once again surprised that Ren wasn't complaining about being woken up that way or about how early it was. His mother was right. He would have to get used to the idea of being surprised by Ren.
+
+Aimus took out a small plate. He slid a single egg onto it and handed it to Ren. Ren took it and dumped the egg into his mouth and chewed it up.
+
+“Ah... that was delicious. Thanks for breakfast.” Ren said and passed the plate back.
+
+Aimus looked at Ren sceptically. Was he joking? That was only the first egg I was going to give him! I only have one small plate to eat from.
+
+Ren got up and stretched his legs. What Aimus didn't know was that Ren was training both his Staying Power and his Rationing. They were getting pretty high after a few days of travel. Ren went around the cart and checked to see if everything was okay. Nothing seemed disturbed. He thought about Teepo, who immediately responded that he didn't know where he was. Ren laughed and said that it was fine and summoned him again. Teepo reappeared at Ren's feet and he picked Teepo up to put on his shoulder.
+
+Aimus ate his breakfast and put out the fire with dirt. He looked over and saw Ren who stood on the other side of the cart, staring out at the wilderness. Aimus shrugged and went to collect anything the traps had caught. What he didn't know was that Teepo was telling Ren all about his adventures in the underbrush. How he'd seen snakes, spiders (the normal kind, not the monsters found in the caves), and how he'd found a kind of sand oasis... and it had scorpions! Ren smiled. Teepo really was enjoying himself, now that he wasn't trapped in the ring anymore.
+
+Aimus soon returned without any animals. He told Ren that it was always slim pickings in this area, but that it would get better once they reached where he lived, in another half a day or so. They packed up the cart again and moved out. They were almost there.

@@ -1,0 +1,210 @@
+---
+id: ec6950c8-5541-5ec6-9716-c16ef432e3d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33 - A Loophole?"
+slug: 0017-chapter-33-a-loophole
+partOf: mythrans-master-of-all-continued-completed
+position: 17
+ownLength: 2826
+unit: words
+publishedAt: 2016-09-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/94762/chapter-33-a-loophole"
+royalRoadId: "94762"
+---
+
+*
+(Author's Note: Well, here it is. With this chapter, I'll have officially published more chapters than the original story. It's a huge milestone... and a bit sad that the original author didn't get to this point himself. I really would have liked to have seen where his story would have actually led. I can only hope that I've stayed true to the original author's intentions, and hopefully continue to bring a version of Ren's story that you, the fans, can enjoy.)
+*
+
+Ren closed his eyes and took a deep breath. Don't panic. That's not going to help. Ren thought and tried to calm himself down. Teepo's agitation and fear was coming through their link and it wasn't going to help Ren think clearly. He had an idea about the ring and activated Serene State Of Mind. The physical world faded away and Ren was alone in his thoughts. While he contemplated the problem, he concentrated on the ring and what it actually did. It summoned an astral projection so Teepo could move around in the world, but it was still a connection to Teepo. When Teepo talked, Ren could hear him from both his astral projection and from the ring. That's it! Ren thought and deactivated Serene State Of Mind.
+
+Teepo, I want you to whisper something to me as low as you can. Ren said and stood up.
+
+“What should I say?” Teepo said.
+
+It doesn't matter. Just say it really softly, okay?  Ren concentrated on Teepo's astral projection and tried to ignore the sound of Teepo's voice that came from the ring.
+
+Teepo whispered something, but Ren couldn't hear it. A little louder.
+
+Teepo whispered again. Ren still didn't hear anything. Just a bit louder, Teepo.
+
+“master.”
+
+That's perfect, Teepo. Now... repeat it every couple of seconds, okay? Ren thought. He opened his eyes, saw a field of drying grass, and turned around slowly.
+
+“master.”
+“master.”
+“maste...”
+“mast...”
+“mas...”
+“...”
+“...”
+“...”
+“...”
+“mas...”
+“maste...”
+“master.”
+
+Ren had come full circle and was now looking off into the same field he'd started looking at. He smiled. It wasn't very accurate, but he hoped that as he got closer to Teepo, it would be easier to pick out which direction it came from. Teepo must have gotten really far away if Ren could 'hear' him clearly for almost half the circle. The loudest part being slightly off to the left of where he now looked.
+
+Stat Change!Using different skills to find what you've lost has made you a little bit wiser.
+Wisdom +1
+
+
+
+Don't worry, Teepo. I'm coming for you. Find somewhere good to hide and I'll be there as soon as I can!
+
+“Thank you, master. Please hurry.”
+
+Ren ran to the shed and opened the door. “There must be something in here that I can use!” Ren grabbed each and every blade he could reach and held it. As soon as he thought of it as a weapon, though... it vanished into his inventory.
+
+“No! There has to be something!” He tried each tool he could see as well. He could wield them easily, but just like the blades, as soon as he thought of using it as a weapon, it vanished.
+
+“God DAMMIT!!!” Ren shouted and emptied his inventory of all the blades and tools he'd unintentionally gathered. He looked forlornly at the pile of useless items and felt despair. What am I going to do? I can't fight without a weapon!  Just then he heard footsteps approach the shed.
+
+“What are you doing with my tools?” Aimus said and entered the shed.
+
+Ren jumped up and nearly tackled Aimus. He'd grabbed Aimus' coat in such relief that he'd forgotten his own strength and partially ripped the fabric. “You have to help me! My friend is trapped and I can't use standard weapons! I don't know what to do!”
+
+Aimus had never seen Ren so frantic. Ren seemed to always have a cool head and took things in stride. Aimus wasn't sure if this side of Ren was better or worse than the other.
+
+“Hey, it's okay. Tell me what happened... and who is this friend of yours? I didn't see anyone else come along with you.”
+
+Ren didn't even hesitate to tell Aimus all about how he had found Teepo, became friends, and about their unique situation. Aimus needed all the info he could get if he was to help Ren get Teepo back.
+
+“I swore I'd never abandon him again.” Ren said and let Aimus' coat go. “Please help me get him back.”
+
+Aimus nodded and left the shed. Ren quickly followed him and they went to the house. Aimus told his wife Abigail he'd be gone for a bit and she didn't even bat an eye. Aimus went into his own room and Ren stopped at the doorway. Aimus used a key he had hung around his neck to open an old trunk that was at the foot of the large bed. There was a surprise inside the trunk. It was a weapons cache.
+
+Aimus loaded up on knives. He replaced some that he'd lost and added new ones. One was even the size of a machete. He took another out and tossed it to Ren.
+
+“It's for clearing any vines or other things that get in the way as we travel. There's no path that way, so we'll have to make our own.”
+
+Ren nodded and ran his hand down the side of the blade. The edge was sharp and well tended so he put it into his inventory without having to repair it.
+
+Aimus closed the trunk and left the room. Ren got out of the way when Aimus passed and then followed closely behind. They went into the barn and down to the back wall where a large cabinet stood. Aimus opened the cabinet and inside was another weapons cache... only this time it wasn't knives. Several archery bows were hung with care. Aimus grabbed a long bow and hung it across his left shoulder. He took out a quiver and hung it across the other shoulder.
+
+“Now, where did I put that...”
+
+Aimus searched through the bows but didn't find what he was looking for. He left the barn and Ren followed. “ANA!” He shouted.
+
+“It's by the back gate!” Ana said from her bedroom window. She'd been watching them run around. Aimus shook his fist at her and Ana laughed.
+
+“She knows she's not supposed to use it if I'm not around.” Aimus said and walked around the back of the house. Aimus got to the gate first. “Here, catch!” He said and threw a small bow towards Ren, who automatically reached out to catch it.
+
+“But sir! I can't equip standard weapons...” Ren said and caught it. Aimus laughed at Ren's shocked expression.
+
+“WHAAAAAAATT?!?” Ren said, astonished. Ren collected himself after a moment. “Identify.”
+
+Hunter's Small Bow Of StealthThis bow was made by a master craftsman. It was specifically designed to help while hunting, to the point that it almost absorbs sound.
+
+When equipped, grants a 5% bonus to any stealth related skills
+
+
+
+Ren looked at the bow and thought of using it as a weapon. It didn't disappear! Ren looked at Aimus, then at the bow, then back to Aimus.
+
+“You're just borrowing it. It's actually Ana's.” Aimus said and smiled.
+
+“That's right.” Ana said. She had come out of the house through the back door. Abigail stood behind her. “I can show you how to use it.”
+
+“Thanks.” Ren said and handed it to her.
+
+Ana went to the back gate and took an arrow from the quiver that hung there. She notched it on the bowstring and balanced it on the hand that gripped the middle of the bow. Ana took a deep breath and drew the arrow back to her cheek. She aimed across the field and let the arrow go. A thwok sound echoed back to them a second later and Ren could clearly see that the center of the target had been hit. Ren guessed that the target must have been about 150 feet away.
+
+A case of literary theft: this tale is not rightfully on Amazon; if you see it, report the violation.
+
+“Wow.” Ren said and Ana blushed.
+
+“That's my girl!” Aimus said, proudly.
+
+Ana blushed harder. “I-it's pretty easy, actually.” She said and then waved Ren over. Ren was taught how to stand properly, how to hold the bow right, and how to turn the arrow so that the feathers on the end didn't hook the string when you let it go.
+
+Ren listened closely and did exactly as she said. He shook himself and then did it all again. He took a short walk away and went back to the same spot and did all the same prep work. Ren wanted to make sure he got it right. When he looked at Ana, she nodded. It was time for his first shot. Ren notched the arrow onto the bowstring, balanced the arrow on his fist near the middle of the bow, and pulled the arrow back to his cheek...
+
+...and snapped the string, right where the arrow had been notched.
+
+Everyone present had astonished looks on their faces. Something like that shouldn't have happened. It was then that Ren realized what had happened.
+
+“I'm so sorry!” Ren said and picked up the two pieces of string with his hand. His other hand still held the now useless bow. It was almost straight because the string wasn't keeping the tension on it anymore. “I didn't ask how hard I was supposed to pull the arrow back.”
+
+Aimus looked at Ana, then Ana looked at Abigail, who then looked back at Aimus. The three of them turned at the same time and looked at Ren... then started to laugh.
+
+Ren didn't know what else to do so he just stood there and let them finish. After a few minutes, they dried their eyes and Aimus clapped Ren on the shoulder.
+
+“It's quite alright. I don't think we've laughed that hard in a long time.” Aimus said.
+
+“But I broke the bow!” Ren said.
+
+“I said it was alright. Follow me.” Aimus said and Ren followed.
+
+They went back into the barn and to the cabinet that held all the bows. Aimus opened it again and knelt on the floor. He took out a large box, stood up, and went back outside. Ren carried the bow outside and stopped when Aimus put the box on the ground.
+
+“There's no room to do this inside.” Aimus said and opened the box.
+
+A thick rope, a few tools that Ren couldn't figure out what they were for, and a couple of sticks were inside. Aimus took out the rope and one of the sticks. He motioned for Ren to hand him the bow, and Ren did so. Aimus then tied the rope to one end of the bow, turned it over, and then tied the rope the same way to the other end of the bow. There was quite a bit of rope left, and Aimus took one of the sticks and looped the rope around it. A few quick turns and all the extra rope was twisted around the stick. Aimus continued to twist the stick and more of the rope twisted... and started to pull the ends of the bow together.
+
+That is so cool!  Ren thought as the bow took it's shape again.
+
+Aimus turned the stick a few more times and held it in his hands. It looked like it could unravel at any moment if he didn't keep the tension on it.
+
+“Grab the string from the box, Ren.” Aimus said, with a bit of strain in his voice.
+
+Ren looked in the box and saw a spool of string. He took it and pulled out about a foot of string and then the spool was empty.
+
+“Uh oh.” Ren muttered.
+
+“What is it? Come on, I can't hold this thing all day!” Aimus said. There was definitely a strain in his voice this time.
+
+Ren looked through the box but couldn't find another spool. String. String. String. What can I use for... Ren thought. He didn't know where else to look until he thought of his own inventory. Aha!
+
+“Hold it for just another minute, Aimus.” Ren said and took out one of the bundles of spider silk he still had. He tied one end to one of the sticks and held on to it with Iron Grip. He started to wrap the spider silk around the stick and stretched it a little. He tried to do the same thing as what the spinning wheel did, but couldn't spin and twist at the same time. Ren just spun it onto the stick for now. When the bundle was done, he tied the end to the empty spool. He turned the spool with one hand, and twisted the stick with the other. He wasn't trying to make a really fine thread, but something that could be a good substitute for a bow string. It wasn't long before he was done. Ren turned back to Aimus who's face was beet red and was almost out of breath.
+
+Stat Change!Your application of previous knowledge for a new use has made you a bit smarter.
+Intelligence +2
+Wisdom +2
+
+
+
+New Recipe!Spider Silk Bow String
+
+
+
+“Sorry it took so long.” Ren said and pulled out some of the spider silk string.
+
+“Tie...a knot...on the... end.” Aimus said through gritted teeth.
+
+Ren smiled and grabbed the stick the rope was twisted around, the one that Aimus was having such a hard time with, and used Iron Grip. “I got this. Here's the string.”
+
+Aimus nearly collapsed from the exertion when he let the stick go. He looked at Ren with astonishment because Ren held the stick like it was nothing. Aimus took the string and tried to tie a knot in it.
+
+“What... the hell... is this stuff?” Aimus grunted as he finally got the end twisted arround into a proper knot and pulled it tight.
+
+“That's some spider silk string I just made.” Ren said. “There wasn't enough regular string left.”
+
+Aimus stood there and stared at Ren. He just MADE it!  Aimus thought and blinked a couple times. It feels like it's made of iron!
+
+Aimus took the knotted end of the string and hooked it in the groove on one end of the bow. He measured out a little more than the length of the space to the other end of the bow and used a knife to cut it. It took a minute, but Aimus finally got it cut from the spool and tied a knot on that end as well. He slipped that end into the groove on the other side of the bow that left a bit of slack in the string.
+
+“Okay, slowly let the twist out of the rope.” Aimus said to Ren.
+
+Ren turned the stick a little and the bow caught up the slack in the new bowstring. As the stick was untwisted, the new bowstring took up more and more of the tension of the bow. Eventually, the stick slipped out of the rope because the bow had taken all the strain from it. Aimus untied the rope from both ends of the bow and put everything away in the box, except for the spool of string that he handed to Ren who stashed it in his inventory.
+
+Ren picked up the repaired bow.
+
+Strong Hunter's Small Bow Of StealthThis bow was made by a master craftsman. It was specifically designed to help while hunting, to the point that it almost absorbs sound. The bowstring is of a superior quality than a normal string and grants more power to the user.
+
+When equipped, grants a 5% bonus to any stealth related skills
+Damage Bonus: +20%
+
+
+
+“Whoa!” Ren said and handed the bow to Aimus.
+
+Aimus took the bow and tried to pull it as if it had an arrow in it. He had a hard time at first, but after a couple of tries he did the motion smoothly, and handed it back to Ren.
+
+“I'll have to get some regular string later to put on that, so Ana can use it again.” Aimus said and took the box back to the cabinet in the barn. Ren waited for Aimus to return before going to the back of the house where Abigail and Ana waited.
+
+“Let's try shooting again.” Aimus said.
+
+Ren stepped up to the right position and took the proper stance. He took an arrow from the quiver and notched it on the string, placed it on the fist that held the bow, and pulled the arrow back to his cheek. The string didn't snap this time and Ren relaxed. He took a deep breath... and careful aim... then let the arrow go.

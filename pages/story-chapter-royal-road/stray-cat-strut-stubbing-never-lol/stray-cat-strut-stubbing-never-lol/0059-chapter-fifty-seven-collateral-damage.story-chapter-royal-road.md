@@ -1,0 +1,142 @@
+---
+id: 22c3443a-8587-5bc8-8f56-34c9485f67d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifty-Seven - Collateral Damage"
+slug: 0059-chapter-fifty-seven-collateral-damage
+partOf: stray-cat-strut-stubbing-never-lol
+position: 59
+ownLength: 1488
+unit: words
+publishedAt: 2020-09-21
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/557761/chapter-fifty-seven-collateral-damage"
+royalRoadId: "557761"
+---
+
+Chapter Fifty-Seven - Collateral Damage
+
+“Collateral Damage is my middle name!”
+
+--Tracy ‘Collateral Damage’ Weiss, Tier 3 Samurai, defending herself in court after excessive property damages caused during the Lancashire Incursion
+
+***
+
+The truck might have been a bit of a clunker, but it was in good enough shape. I could spot patches of paint over rusted bits and could tell that a few of the exterior parts had been replaced. Growing up as I had, it was easy to tell when something was old but well-maintained. Myalis had picked out something that wasn’t terrible.
+
+I shouldered Whisper and pulled out ahead of Speedy. The woman’s only weapon was a handgun that she was holding out ahead of her. I had to keep her safe until we could get moving.
+
+We came around the front of the truck and stopped. There were Model Threes rushing around, an entire pack of them, their clawed feet clicking across the pavement.
+
+Speedy was quick to snap a shot at the nearest. 
+
+Not to be outdone, I fired at the next in the line and watched as the bolt I’d fired split apart and crashed into the Model Three I’d aimed at. 
+
+Seeing the alien get shredded was satisfying, but there were a lot more of them behind it. “Fire!” I called out.
+
+My Lancejets started spitting out thin rows of missiles that pelted the nearest aliens. I joined in, firing until my Whisper clicked empty. By the time that happened I was out of xenos to target. 
+
+A look towards the far end of the street showed a couple of them coming around the corner. Not just Models Threes. I spotted a few of those worms and some Model Fours in the lot too. The tide was rolling over towards our position. 
+
+“Get in the truck,” I said. 
+
+Speedy nodded, a spent magazine falling behind her as she rushed to the driver’s side and hopped up to the door. “It’s locked!” 
+
+“Myalis?” I asked as I slotted the concussion bolts back into Whisper. 
+
+Unlocking the truck now. And I’m deactivating all of its safety systems for good measure.
+
+Speedy was in the truck a moment later, its engine revving to life. The window rolled down. “Where to?” 
+
+“Get closer to the others,” I said. “Empty the back and load the civilians in.”
+
+“Yes ma’am!” 
+
+The truck backed up a bit, then turned to head closer to the others. That was one thing done. It only left a whole bunch of aliens to deal with. “Myalis, how are we on ammo?” I asked as I moved away from the others. I crossed under a spot where there were no bridges above and let the rain splatter across my hood. 
+
+You could use a few more magazines for your shoulder mounted weapons. Your handguns are fine except for one partially used magazine in your Trench Maker. You are not carrying any additional ammunition for your Whisper. 
+
+“Hrm,” I said as I reached a poorly parked truck. It had large protrusions on its sides over its wheels. Placing Whisper there, I crouched a bit, made sure my jacket’s invisibility was working, then ordered some ammo from Myalis. It took a bit to restock everything, but it was better to do it now than when in the heat of battle. “Okay,” I said. “Time to kill things.”
+
+I pulled up Whisper and aimed down its sights. My tactical visor did point to where the gun was aiming, but it felt cooler to shoot it properly.
+
+The Model Three in the lead was only a hundred meters off by then, and it was coming in fast.
+
+Whisper hissed and a bolt plunged into the alien’s chest. 
+
+A moment later it exploded, the burst nearly silent if it wasn’t for the clatter of alien bits smacking the road. 
+
+I aimed at the next, another Model Three, and fired. Then the next. 
+
+The ammo counter in the corner of my vision slid down to nothing and I swore. It’d taken out a dozen or so aliens, some of them blasted apart even if I hit the bastard next to them. That still left a lot of them. 
+
+Looking past the front of the horde, I could make out Model Sixes coming around. “Myalis, I’ll need something with more bang.”
+
+How much bang?
+
+“Clear the road bang?” I asked.
+
+Ensure your favorite authors get the support they deserve. Read this novel on the original website.
+Then perhaps I can offer a unique solution! 
+
+“I’m listening,” I said. My shoulder mounted guns spat a few rounds, taking out the Model Threes leading the pack. 
+
+I can offer you some highly compressed canisters of... my records show that you failed nearly every chemistry class you’ve had. Nevermind. Suffice to say that they’re canisters of a gas that burns very well. Best of all, the byproduct produced by burning the chemical is a liquid that adheres to most surfaces and is highly flammable when in contact with oxygen.
+
+“So it burns, then it burns more.”
+
+Exactly.
+
+“Shoot.” 
+
+Ten points disappeared into the void that was Myalis and I had a new magazine to slot into Whisper.
+
+I fired the surprisingly heavy bolts towards the largest group of aliens, and was disappointed when they barely hurt the monsters rushing my way. I could hear a faint hissing from the cans, but that was it.
+
+The last bolt is a reactant. You might want to find some cover.
+
+I kept firing into the horde until my ammo counter was down to one, then I dipped behind the truck I was using as cover and fired the last bolt.
+
+That had been a mistake.
+
+A burst of fire washed over me. I felt my skin drying up and the air was blown out of my lungs. If it weren’t for my hearing protection I was sure my eardrums would have burst.
+
+Damn near every window in the street exploded, raining glass down in sheets. Then the air returned with a great gasp and a second wave of heat, far hotter than the first but also not as heavy, rushed out behind me.
+
+I coughed a few times and stumbled away from the truck.
+
+When I turned around and looked over the street it was to find it covered in foot-tall flames. Bits of aliens burning up all over. A few of the Model Sixes at the back had survived the initial burst and were wiggling around on fire. The bit of rain coming down into the smoke barely did anything to stop the fires. 
+
+I looked over to the others to make sure they were safe, and was happy to see that they’d been more spooked than anything. Most of the glass had missed them, and while the stack of toilet paper they had been throwing out of the truck was on fire, they all seemed okay. 
+
+I was the only idiot that had been standing in the blast radius when my little bomb lit up. 
+
+Trying to speak had me coughing more than anything. “Water,” I croaked.
+
+A NutriPack appeared in my hand and I slung Whisper over my shoulder so that I could poke it with a straw and drink. Once I was done and the pack was left behind, I coughed a few more times to clear my throat. 
+
+“That was dangerous,” I said.
+
+Fuel-air explosions usually are. Yes. 
+
+I jogged over to the others. “We need to get going,” I said. “They might have heard that.”
+
+“I don’t doubt it, ma’am,” Monroe said. His soldiers were helping the old lady into the back of the truck. They’d kept some of the paper rolls inside as padding on the floors and walls. Probably a good idea. 
+
+When the last of them were in, the soldiers rammed the door shut and rushed over to their cars. “One ahead, one behind,” Monroe called out. “Ma’am, if you’d come with me.”
+
+I nodded and moved with him over to Speedy’s now-vacant car. Monroe jumped into the driver’s seat and I hopped on the other side. A moment before I closed the door, Dumbass jumped in and tried to poke holes into my thigh with its little legs. “Almost forgot you,” I said as I placed the drone on the floor.
+
+The sergeant floored it and we shot ahead of Speedy’s truck just as she started to take off. “Where’s our next objective, ma’am?” he asked. 
+
+I raised a finger in a ‘one moment’ gesture. “Myalis. Can you put the next shelter on his GPS?”
+
+Certainly. 
+
+“That’s still in the orange zone,” Monroe said.
+
+“That’s a thousand people. Or maybe a thousand zombies. Either way, it’s something we need to take care of.”
+
+He nodded slowly. “We’ll need to steal more trucks,” he said. 
+
+“I’m sure there are a few people who can drive in that shelter. They ought to be thankful enough, I figure.”
+
+***

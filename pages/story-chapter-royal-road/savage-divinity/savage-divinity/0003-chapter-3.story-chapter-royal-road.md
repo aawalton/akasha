@@ -1,0 +1,61 @@
+---
+id: 4eb7f103-5758-5204-a284-1021d3d84095
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3"
+slug: 0003-chapter-3
+partOf: savage-divinity
+position: 3
+ownLength: 1339
+unit: words
+publishedAt: 2016-03-11
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58133/chapter-3"
+royalRoadId: "58133"
+---
+
+Mining is really very different from what I imagined. No dark caves or rail carts, just a hole in the ground and baskets. They don't even use pickaxes, just a big fucking hammer. I think we're mining iron, but honestly, I have no idea. They smash the big rocks into smaller rocks, I pick them up and put them in my basket.
+
+The work isn't all that bad to be honest. I mean, sometimes I get hit by a shard, but it's no big deal. My cuts heal pretty quickly. They still leave a scar, but they stop bleeding in a matter of minutes. It's not just me either, I've noticed. Maybe it's the slop they feed us. There's no way I could've stayed this strong for so long otherwise. Especially with the beatings.
+
+If you aren't badly injured, you keep working, and you heal soon. If it is a bad injury, then you might as well be dead. The guards have no mercy in them. They're sadists, every last one of them. They bring in new slaves every few days. I guess it's cheaper to buy new slaves than to take care of current ones. My plan of demonstrating my value seems to be greatly flawed. But I keep doing my work, day after day. What choice do I have? It's work or die, and I'm not ready to die. I don't even know for sure what happens after death. I mean, I think I reincarnated here, but with my shit luck, I'm not willing to bet on it being better after death.
+
+Everyone works in silence. The guards don't like it when we talk. Even coughing too much is enough to earn a beating. More than half the slaves have gotten sick lately. They cough, and cough, and drop down and stop working. The piggies are not very happy about it. Their health plan consists of beating sick slaves into good health. It is not very effective.
+
+The exhausting work and inadequate portions have turned me near skeletal. I've started wondering if half-pig taste like pork. I hope to find out someday. Brown slop and biscuits. Off to work. More slop and biscuits. Sleep. Our schedule never changes. I lost count of the days somewhere around 40. That was a long time ago though. The days and weeks all blend together. I wonder if there's a magic spell I can use to blend all the guards together. Alive. The guards don't seem to know any other magic. Which is probably a good thing.
+
+Every day is the same type of hell as the last, until it isn't. I wake up one day with a big problem. I seem to have gotten sick. Coughing. Fluid in my lungs I think. I can feel it sloshing around. Not good. I should've seen this coming. Haven't bathed since I got here. The communal water barrel probably isn't helping either. Plus everyone shits and pisses like 10 meters from where we sleep and eat.
+
+I need to get up and go about my day. Cough as quietly as possible. I can't let them take me away. That way lies death. Power through this. Mind over Matter. I make it to the mines. Good start. I lean down to pick up a rock, and for some reason, the ground rises up and slaps me in the face. Not so good. No matter how much I turn, it just keeps sticking to me, unwilling to get out of my face.
+
+No, wait, I don't think I'm actually moving. I think that's vertigo. I've fallen and I can't get up. Ha! Well then, I guess that's good game, well played. No rematch please. I'm just going to close my eyes. I wonder if I can pass out before the guards get to me. At least that way I can avoid suffering through the beating.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I wake up and my face is still in the dirt. Hooray, I'm not dead. I don't think I was beaten either. I'll celebrate later. Right now, I'm being crushed. Well, not really crushed, but there's a weight on my back. A lot of weight. I can barely move. It's dark, I can't see anything, and it fucking reeks. I struggle forward on my belly. I'm moving centimeters at a time. This is going to take awhile. Not like I have anything better to do.
+
+Did you know this story is from Royal Road? Read the official version for free and support the author.
+
+It takes a long time, but I finally get out from under the weight. I may have passed out once or twice, but it doesn't matter. I made it out. It's still dark though. I crawl around, trying to feel where I am. I think I'm in a ditch or something. I'm just gonna lay down in what seems to be a corner, to rest and catch my breath. Just for a bit. Dirt can actually be pretty comfortable, once you get used to it. I'll just close my eyes for a second, and then I'll figure out where I am.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The sun is up when I wake. I look at my surroundings and I immediately regret my decision to rest here. I'm in a ditch alright. Full of dead fucking slaves. They threw me in a mass grave. From the looks of it, they didn't all die at the same time either. This is probably every fucking slave that has died here since I arrived.
+
+I scramble out the ditch and dry heave for a bit. I don't have any food or water in my stomach, so nothing to throw up. I wipe my mouth with the back of my hand, before I realize how disgusting it is. I dry heave some more. At least the ditch wasn't very deep. Always a bright side.
+
+Holy shit.
+
+Stumbling away from the ditch, I half-crawl and half-walk as quickly as I can.
+
+They threw me into a ditch.
+
+A ditch with a bunch of dead bodies.
+
+They think I'm dead.
+
+I can just walk away. No one is going to look for me, not for a dead man. Well, a dead boy. Any direction away from the mountain is fine. Doesn't matter where I go, as long as it's away from here. One foot in front of the other. I can do this.
+
+What seems like an eternity later, I hear water. I follow the sound to a stream. I clean my hands and face as best I can before I take a drink. Cool. Refreshing. Most delicious water I've ever had. I drink my fill and lean back coughing. My lungs are burning, legs aching, but all in all, things are looking up. I'm going to survive. I'm going to get strong. I'll come back and kill all those fucking pigs. Make them beg like I did, until I learned to keep my mouth shut. They lose interest faster that way.
+
+Enough of that. Revenge fantasies later. Escape now.
+
+I need to be smart about this. What next? Downstream is away from the mountains, and into a forest. Bamboo maybe. Good enough. I'll follow the water. People like to live close to water, right? Keep my eyes open for some fruit, or eat some roots. God I hope I don't die of dysentery. That would be a laugh. Maybe I can make a spear and go fishing. I don't see any fish though. I also have no idea how to start a fire. Rub some sticks together? I also need to do something about this cough. And it's getting cold. Fuck it, I will deal with that when I need to. One problem at a time. I grab a piece of bamboo to use as a walking stick, and move out. Need to get away from the mines. One foot in front of the other. I survived. I'm almost free. I can do anything I want now. I just need to survive. No problem.

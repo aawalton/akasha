@@ -1,0 +1,131 @@
+---
+id: 48b8e050-5681-5bfc-a4c5-dbb1a77cf3ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-Two - In Service to the Prevention of Stupidity"
+slug: 0074-chapter-seventy-two-in-service-to-the-prevention
+partOf: stray-cat-strut-stubbing-never-lol
+position: 74
+ownLength: 1556
+unit: words
+publishedAt: 2020-10-28
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/575724/chapter-seventy-two-in-service-to-the-prevention"
+royalRoadId: "575724"
+---
+
+Chapter Seventy-Two - In Service to the Prevention of Stupidity
+
+“There’s this tendency for people to act a certain way in different situations. A person will act in a certain fashion around friends, in a different way with co-workers, and in an entirely different way with customers or their employer. 
+
+The amount of respect and submissiveness most people show to Samurai though, is sometimes quite impressive. 
+
+I suppose it goes to show that someone that can light you on fire with little difficulty and no consequences deserves some amount of respect, at least in appearance.
+
+That doesn’t mean that people actually think how they act.”
+
+--Quote from a discussion on the Void Fight forums, 2031
+
+***
+
+I walked next to Gomorrah, Whisper in hand and tail swaying contentedly with every step.
+
+That last was growing to be really annoying, but I’d wasted enough of our time already that I didn’t want to lose any more with telling Myalis to turn that off. 
+
+We crossed another bridge, this one at a slight jog because I didn’t feel like being caught out in the open again, but there were no huge-ass flying aliens out to get us this time. And then, just like that, we were on the same block as the hospital. 
+
+“I can see something,” I said as I shifted over to the side of the corridor we were walking down and looked to the street below. 
+
+Through the maze of passages and the faint haze of rain, I could just make out a dozen trucks parked across the street with maybe half that number of armoured transports set between them. There were civilians moving around there, easy to make out thanks to their colourful clothes, and soldiers in much more drab colours. 
+
+I couldn’t tell how many were moving about, but it was more than the one squad I’d had with me.
+
+It seemed as if they were shifting people around from one vehicle to another already while also setting up a barricade with their trucks and their mounted roof-weapons. 
+
+“We need to get down there,” I said.
+
+“You don’t trust them to figure things out?” Gomorrah asked.
+
+“Oh, they’ll do a much better job than I would,” I said. “No doubt about that. I’m just worried they might follow some asanine protocol and leave some people behind or do something else equally stupid. I figure being there with a big gun will keep everyone nice and honest.”
+
+Gomorrah sighed. “That’s... probably more true than I’d want to admit. We should get down.”
+
+We left the windowed corridor and headed deeper into the building. It wasn’t too hard to find a way to the next building, then the next. Myalis, and Gomorrah’s own AI, both had maps of the interior of the buildings and most of the locks we came across were either electronic, which were laughably poor at stopping Myalis, or they were big clunky things that Gomorah seemed to enjoy melting. 
+
+I could really get used to the ‘I’m a Samurai and I want to pass’ mentality on physical and not-so-physical barriers. 
+
+On arriving at the ground floor at last, we stepped out and into the rainy afternoon. The sun was more or less directly overhead, and whenever it peeked out from behind the layer of clouds above it would bathe the world in an eerie yellow. 
+
+Gomorrah and I stared across the street, hoods and habits up to cover against the rain. The roads were pretty much deserted until the line of PMC trucks started. 
+
+“Halt!” someone called out.
+
+A head poked from over the hood of one of the trucks. His face was covered in the boxy helmet that all the soldiers were wearing, and he was carrying an assault rifle of some sort. Not one of those who had been with me then. 
+
+“Identify yourselves!” he screamed. 
+
+I looked over to Gomorrah, then down to the two bots by my feet, and finally back up to the nervous kid. “We’re Samurai,” I said. “I’m Stray Cat, this is Gomorrah.”
+
+“I need proof! You could be Model Sevens again.”
+
+“Again? I’ve never been one before. And Model Sevens don’t try to talk people out of doing stupid shit.”
+
+The soldier, who sounded way too young for the job, was cut off when the familiar form of Speedy ran over. “It’s Stray Cat and the fire nun! They’re clear, they’re clear!” she screamed.
+
+I noticed for the first time that the kid ahead of us wasn’t the only soldier around, there were maybe three or four more tucked away in shadowy alcoves and behind the cover provided by their trucks. 
+
+A case of content theft: this narrative is not rightfully on Amazon; if you spot it, report the violation.
+
+“Good to have you back, ma’am,” Speedy said.
+
+“Hey Speedy,” I replied as I started forwards again. “Problems?” 
+
+She nodded. “Plenty. Bunch of civilians are whining about being boxed up in tight spaces smelling each others’ farts, the colonel they sent over with this bunch is the rule-book-up-ass sort, and we had a wave of zombies rush us on the other side.” She gestured across from all the hub-bub of all the parked vehicles.
+
+“Damn,” I said. “Is that all?”
+
+“Nah. But the rest is kinda boring. We should be moving out already but the colonel insisted that we get everyone’s names now before we got to the FOB and they get misplaced.”
+
+I blinked. “Are you fucking serious?” I asked. That sounded like a colossal waste of time. 
+
+She nodded. “Yup. We’re also reorganizing things so that each truck has an equal number of people in them. Less trucks that way. Some got dinged up on the route here.”
+
+“Dammit all,” I said. “Bring me to this colonel guy. We should be ready to move by now.”
+
+“Not gonna hit the other shelters along the way?” Speedy asked. There wasn’t any accusation in the words, just a straight question.
+
+I hesitated a bit. Those had been in the green zone earlier. Now the orange zone had moved down, so they were probably just on the edge of being at risk. But I also had to keep in mind that there were two thousand people jammed into trucks here with no way to know what was going on. 
+
+“No,” I decided. “We’ll get all of these people to the FOB, then maybe mount a rescue for the others. It’ll be harder to get to them that way, but it won’t put all of this bunch at risk.”
+
+“Cool,” Speedy said. “I’ll bring you to the new boss man. Monroe’s being all stoic and shit but you can tell he’s this close to popping the colonel’s head off.” She pinched her fingers together an inch apart. 
+
+I snorted. “We’ll see what I can do.”
+
+“Cat,” Gomorrah said. “I’m not one for talking things through. I’ll be around still, but I want to patrol the edges of the barricades.”
+
+I nodded. “Alright. Will you be heading back with us?” 
+
+“Of course,” she said. “With this many people... I wouldn’t trust them all to you alone.”
+
+I snorted and waved her off. “Have fun. Make some points and so on.”
+
+She nodded and walked off with a straight-back stride and her hands tucked in their opposite’s sleeve. I watched her go for a bit before turning back to Speedy. Speedy who was staring at my backside. “Enjoying the view?” I asked wryly.
+
+She barked a laugh and shook her head. “You have a tail now,” she pointed out. “That’ll make sitting down interesting.”
+
+I glared at her, but it was Myalis who deserved the wrath. “It’s new,” I said. “So, want to bring me to this colonel of yours?” 
+
+“Urgh, he’s not mine. Snooty little paperpusher like him. The opposite of attractive,” Speedy said as she started off. “The kind of guy my mom would love. Probably has retirement savings instead of planning on going out in a blaze of glory and unpaid healthcare bills like a normal person.”
+
+I kept a lid on my grin as we walked into the crowd of civvies milling about and being directed into lines by harried looking soldiers. We got a surprisingly nice berth, either because of Speedy’s uniform or because people recognized me in passing. Dumbass the First and the other remaining Dumbass flanked me.
+
+Speedy brought us past the mess with the trucks and to a sort of temporary base set up in the middle of the intersection. There were two transport vehicles. Low-slung things that opened at the back to reveal twin rows of seats that were being filled by the staff of the hospital. 
+
+A row of armoured cars created a barrier on the other side, while in the middle of it all sat a huge six-wheeled monstrosity of a vehicle and a single light tank with its barrel pointing off down the road. 
+
+“Damn,” I said. I hadn’t expected them to roll out with quite that much firepower, especially not for what was meant to be an otherwise simple pickup as far as I could tell.
+
+Maybe it was a good thing, seeing as how I’d turned the simple pick-up into something a bit more complex.
+
+“I know, right?” Speedy said. “C’mon, the big boss guy is in the mobile base.” 
+
+“Right,” I said.

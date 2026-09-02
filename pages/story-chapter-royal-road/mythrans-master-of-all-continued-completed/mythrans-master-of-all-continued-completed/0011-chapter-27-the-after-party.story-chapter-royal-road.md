@@ -1,0 +1,182 @@
+---
+id: deb6ac73-015d-51f3-a890-5c7a613b92ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27 - The After Party"
+slug: 0011-chapter-27-the-after-party
+partOf: mythrans-master-of-all-continued-completed
+position: 11
+ownLength: 2319
+unit: words
+publishedAt: 2016-09-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/93185/chapter-27-the-after-party"
+royalRoadId: "93185"
+---
+
+Rosie waggled her hand in front of Ren. “Well, come on. I don't bite.”
+
+“I... I can't dance.” Ren admitted to her.
+
+“Nonsense. It's easy. I'll show you.”
+
+New Quest!Let Rosie Teach You How To Dance
+
+Difficulty - E
+Rewards ???
+
+
+
+“But... but... but...” Ren sighed as Rosie waggled her hand again. “Okay.”
+
+Rosie squealed in delight, took Ren's hand, and practically dragged him to the dance area. The got to the edge of the dance floor and Rosie turned to Ren.
+
+“Okay, show me what you got.” Rosie said.
+
+“What? Oh... uh...” Ren didn't know what to do, as he'd never been dancing before, and Teepo told him what to do.
+
+Ren put his hands up next to the cheeks on his face and pointed his fingers out towards Rosie. He then squatted a little bit, then skittered to the left about a foot, then skittered to the right about 2 feet and then back to the center. It made Ren think of MC Hammer and Hammer-time. Rosie was having fits of laughter.
+
+“What...” She laughed. “...was...” She doubled over. “...that?!?” She took another fit of laughter.
+
+“Umm... someone told me that was a proper dance.” Ren said and glared down at Teepo.
+
+“It worked where I was from.” Teepo said to defend himself. “That's top form dancing!”
+
+Ren shook his head and Rosie finished laughing.
+
+“Okay, so you weren't lying when you said you couldn't dance. Got it.” Rosie said and waved him closer. “Come here.”
+
+Ren walked over to her and she took his left hand and placed it on her right hip. She then took his right hand and kept a hold of it with her left. “This is the basic waltz. Move your left foot forward when my right foot moves back, and then your other foot right after. Shuffle to the side, then move back. Follow my lead, okay?” Rosie said and Ren nodded. They moved around the floor in a small area, and he got the steps pretty quick. Rosie stopped after a minute and they switched hand placements.
+
+“Okay now you lead.” Ren looked at her in shock. “Just do the same moves, but you start them and I'll follow.” She said, with complete confidence in him. Ren closed his eyes, took a deep breath, opened his eyes and did as she said.
+
+They moved around the floor in the same pattern, only Ren was leading the way. He actually did really well, considering it was his first time. He didn't step on Rosie's foot once. He was a bit jerky in his movements, however. When they stopped, Rosie was about to tell him he did well, and he held up his hand to stop her. He took another deep breath, activated Sneak, and did the dance again.
+
+He swept Rosie off of her feet and propelled her across the dance floor, much to her amazement. Ren was shocked as well. He didn't think he could apply such a tactic to dancing! It was just a whim on his part, but it worked beautifully. He stepped lightly and quickly, and Rosie had a bit of a hard time keeping up with him. When the song finished, Ren turned Rosie to face him and he bowed to her.
+
+“Dear lady, thank you for teaching me how to dance.”
+
+Rosie was a bit breathless when she replied. “You're welcome.”
+
+Quest complete!Your debonair style has impressed Rosie beyond belief.
+
+Rewards: You can dance +50XP
+Fame XP Bonus 10%
+
+
+
+Neither of them had realized that all the other couples had stopped dancing, until a round of applause spread across the room. Rosie blushed and Ren ducked his head when they saw that they had an audience. Ren took Rosie's hand and led her off the dance floor, waving occasionally to the crowd with his other hand.
+
+Ability Increase!Etiquette Level 2 (Beginner 0%)
+
+
+
+When they got to the wall, Rosie turned on him.
+
+“I thought you said you couldn't dance!” She tried to whisper, but it came out at a normal volume.
+
+“I couldn't. You literally just showed me how to do it.” Ren said.
+
+“How did you do it so well at the end, then?” She fumed.
+
+“Rosie, you're a great teacher. I never... I've never danced before.” Ren shook his head and said in a small voice. “Ever.”
+
+Rosie heard the sincerity in his words. “Really?”
+
+Ren nodded. “You're my first dance partner. In fact, this is the first party like this that I've ever been to.”
+
+“Well... I'm glad I was able to help.” Rosie said. She'd been soothed by his truthful admission.
+
+“I'm glad, too. Thanks, Rosie. I mean it.” Ren said and bowed to her again.
+
+Rosie nodded to him and walked towards the crowd at the other side of the room. Ren went over to the refreshments table, and saw that all the coins were gone. He got another drink from Anabelle, and they exchanged smiles again. He went to put another silver on the table, but she grabbed his hand and placed a note in it. It was a bit heavy for just parchment, so he put it in his pocket. She nodded to him and said that the party was almost over. Ren thanked her and drank his drink. He walked out of the hall, down the hallway, and stepped into the same alcove he'd changed his clothes in before the party. He took out the parchment and opened it. Inside was a small key and a set of directions.
+
+Teepo came out of the main hall and skittered over to the alcove. “Master can do his own mating dance now!”
+
+Ren wasn't sure if Teepo meant the dancing part, or what the key in his hand meant. Ren blushed when he thought about the second option.
+
+No. No, I can't do that. I may be 17, but I'm stuck in this body... Ren thought. I'll just have to let her down easy.
+
+He put Teepo on his shoulder and followed the directions. He kept Sneak on and went back up the stairs and past 'his' room and down the other side of the hallway. He turned a corner and went up the smaller set of stairs located there. At the top was a small hallway with a set of doors on each side. The note said the second last one and he went to that door. Ren used the key and opened it. Inside was a plush room, filled with pillows and silk. He wasn't sure where to sit because he couldn't see any kind of chair anywhere in the room. All that was there were these giant pillows on the floor and on the bed. He shut the door and walked over to one of the big pillows. Teepo jumped off his shoulder, bounced off a nearby pillow and then disappeared behind the bed.
+
+A case of literary theft: this tale is not rightfully on Amazon; if you see it, report the violation.
+
+“Hey, don't get lost.” Ren said and Teepo chittered in delight. Neither of them had seen anything like this before.
+
+A half hour later, the door opened and Anabelle walked in. She didn't have on her maid's uniform, though. Ren stared at her frilly nightgown that was practically see-through. He got that feeling... ahem... down there... and Anabelle walked slowly towards him. He stood up when she was close enough to talk.
+
+“Uh... wait...” Ren tried to say and Anabelle kissed him.
+
+********
+The CEO of Sid Tec thought he was having an okay day, until the tech department called. He wondered where his secretary was because she didn't answer the phone for him. He picked it up after the 8th ring.
+
+“Hello. Sid Tec Incorporated. How may I help you?”
+
+“Boss, you gotta get down here.” Max said. “She's gone nuts.”
+
+Edward didn't have any clue what Max meant by that statement, considering there weren't any women in the tech department. He just shrugged his shoulders. “I'll be right there.” He said and hung up. Edward got up out of his chair and passed by his secretary's desk. “Hold all my calls, Elise. I'm heading to...” He had forgotten she wasn't there. He figured the phones could handle themselves for a while.
+
+Edward got to the tech department a few minutes later. He saw a plastic trash can hit the window; but neither it, nor the window, broke. Reinforced safety glass was a wonderful thing. He saw papers flying about and heard the occasional crashing sound. He assumed a rogue tornado must have gotten in the building somehow to cause such a ruckus. When he arrived at the door to the tech department, he knew it was a lot worse than a tornado.
+
+He had found his missing secretary.
+
+********
+At the hospital, Lucy sat by and watched Ren dance for the first time in his life, and her heart leaped. He looked so happy! She watched as he exchanged something with the servant. She was bewildered when he stepped into the alcove... and shocked when she saw the key.
+
+“Ren... don't.”
+
+She sat in silence as Ren went up the two flights of stairs and unlocked the room with all the nice fluffy pillows. Her heart sank when the girl came in a while later and wore almost nothing. She caught her breath when the girl kissed him.
+
+********
+Ren wasn't sure what to do at first; but he let his instincts take over and kissed her back. He was small, but he'd been doing lots of things to make himself stronger and he could manhandle her pretty easily. He pushed her away and tried to talk.
+
+“Look, I... I mean you're nice and...”
+
+Anabelle kissed him again and he had to hold her away at arms length. “Look, I've never... I've not... it's my first time.”
+
+“You must really want it bad.” Anabelle said and tried to wiggle free. “The most anyone's offered for a night was 15 copper. That was at last night's party. I've never had a silver coin before.”
+
+Ren let her go in shock. She kissed him again and he maneuvered her around and got her by the arms and pushed her back. “Last night's party? Hold on... you mean...”
+
+“You won the bid. For me. For tonight.” She said it like it happened every day. As far as Ren knew, it probably had. He turned her around and sat her down on one of the cushions. Anabelle tried to get up, but he held his hand up to stop her.
+
+“Are you telling me... that you get paid to... to...” Ren couldn't finish the sentence. “...and Lord Eric knows?”
+
+“Of course. Why else would he keep such a large staff around? To clean the place? Ha! One maid can do it in a day.”
+
+Ren sat down on another pillow and sighed. “I'm sorry, but... I misunderstood. I thought they were tips for your hard work in serving people all night.”
+
+She nodded. “Now I can serve you personally... all night.” She said seductively.
+
+Ren stood. “No, I won't treat a woman like that.” He reached into his inventory and pulled out a gold coin. “Here.” He said in a cold voice. “Tell 'Lord Eric' that I'm buying your services, every night, for the rest of the year.”
+
+Anabelle looked at the gold coin in her hand and then looked at Ren. “Are you going to...?”
+
+“No. Despite what my body may feel, I have too much respect for women to treat you like that.” Ren said and bent down to pick something up off the floor. 
+
+Anabelle couldn't see what it was, but it looked like Ren put something on his shoulder as he left the room. She hugged the gold coin to her chest and started to weep. She wasn't sure why.
+
+********
+Lucy let out a sigh of relief. That little hussy didn't get her claws into my Ren. Lucy startled herself with that thought. My Ren? When did he become 'my' Ren? Something like that can't happen. I'm his nurse! Lucy looked over to Ren and saw a rather large bulge had formed under his bed sheet. She blushed and looked away quickly. No. It can't happen! She glanced back. It can't!
+
+********
+Edward tried his best to calm his secretary down, but it didn't help.
+
+“Rotten...” Elise kicked another trash can across the room. “... pieces...” She picked up a chair and threw it at the cowering techs hidden behind a desk. “...of sh-”
+
+“ELISE!” Edward shouted. “Please calm down!”
+
+“NO! You know what they did to him, Edward? DO YOU KNOW?!?” He knew it was trouble. His secretary never called him by his first name. “They not only killed him... my sweet little Ren... but they used a GOD...” She picked up a paper tray and flung it at the wall. It left a dent. “...DAMNED...” Elise grabbed a fire extinguisher off the wall and smashed it into one of the work computers on the desk. “...NEEDLE!” She flung the fire extinguisher across the room. It clanged when it hit the emergency exit door, leaving yet another dent. She must have thrown it a few times, before Edward had shown up.
+
+Edward let her rant. He waited until she was exhausted and breathing hard before he spoke. “No, I didn't know. In fact, they didn't tell me it had happened until after they'd done it. They're gone, Elise. I fired them yesterday.”
+
+“Fired? FIRED? That's ALL?!?” Elise screeched.
+
+“No. I deleted their accounts and had them banned for life.” Edward said in a normal voice. He could see she was calming down as he spoke.
+
+“They're gone? They can't hurt him anymore?” She said and fell to her knees.
+
+“That's right. They can't ever get back into the game. He's safe.”
+
+Elise dropped onto her side and cried.
+
+********

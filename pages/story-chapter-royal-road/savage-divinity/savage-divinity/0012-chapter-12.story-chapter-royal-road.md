@@ -1,0 +1,132 @@
+---
+id: 15a6d80d-fac1-50a8-be9c-d986b8166635
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12"
+slug: 0012-chapter-12
+partOf: savage-divinity
+position: 12
+ownLength: 2033
+unit: words
+publishedAt: 2016-03-16
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58995/chapter-12"
+royalRoadId: "58995"
+---
+
+“List the identifying marking of the Shriet vine, and the properties of it's components.”
+
+
+“Purple spotted subulate leaves, often found on Tilia Autur trees. A pungent, purple brown sap when cut. Lime, gourd shaped fruits. The leaves make an aromatic tea, suitable for decongestion of the nasal passage and chest. The sap can be used as a topical unguent for rashes, and when burnt, the stem will ward off many variety of bugs and pests. The fruit is bitter and can be eaten, usually boiled.”
+
+
+“Recommend a course of action to alleviate joint pain in the lower back. Use only plants not found in the vicinity of our village.”
+
+
+I curse at him in my head, swatting mosquitoes, and racking my brain for an answer. Taduk knows that today, as we hike through the mountains, he has a captive audience. I'm not alone in my suffering. His daughter, Mei Lin, is with us as well. She's a year younger than me, a tiny waifish, large eyed, tanned, mountain child. She has a pair of droopy rabbit ears that she constantly has to brush out of her face, and a big pearly smile. The two of us have been press-ganged into herb harvesting for Taduk. Apparently, he found a plateau with a large amount of useful plants, and he needs more hands to carry it all back. Never one to waste time, he's been quizzing both of us on herbalism and history. It's good practice for my Common, though. For some reason, Taduk doesn't speak The Language often, as it is (pretentiously, I admit) called.
+
+
+The hike to the plateau takes two hours. Two hours in the late summer heat, each of us carrying a short bow, a quiver, a hunting knife, a variety of plant gathering tools, and a large wooden herbalist box on our shoulders. I wanted to bring bags instead, but my suggestion brought about a half hour lecture on the proper methods of plant storage and travel. Taduk carries two boxes, so Mei Lin doesn't have to. A doting father indeed. 
+
+
+By the time we arrive at our destination, Mei Lin and I are both drained, physically and mentally. We both sit down in the grass, to rest our legs.
+
+
+“Rain! On your feet. There is a pest nibbling on the Idamare! Shoot it.”
+
+
+I jump to my feet, untangling myself from the shoulder straps and draw my bow. I'm still a terrible shot, but you don't reason with Taduk when it comes to his precious herbs.
+
+
+I look at the pest that Taduk is screaming about, and stop. I glance at Taduk, unsure of how to proceed. “You... want me to kill it?”
+
+
+“YES! Do you not see it digging out the roots? The Idamare will not regrow if the roots are badly damaged.” Taduk was growing frantic.
+
+
+I look back at the pest Taduk wants me to murder. “But .. erm... Teacher... well...”
+
+
+It's a rabbit. A fluffy tailed, pointy eared, button nosed, rabbit. A huge, 20kg, two horned, rabbit, but a rabbit nonetheless. Now, I have no problems killing the rabbit, cute though it may be. They're vicious little bastards, and their horns are sharp. They're also delicious with the right spices and grilled rare. It's just that... killing it in front of my rabbit eared teacher and his rabbit eared daughter feels... wrong.
+
+
+An arrow thuds into the rabbit. Right in the neck. I turn and see Mei Lin carrying her bow. She grins expectantly, awaiting her praise.
+
+
+“Lin-Lin, you're so talented and beautiful! Now, you know the rules. You shot it, so you go clean and dress it. We'll cook it for lunch.” Taduk pats her on the head and turns to me. “Why did you hesitate, boy? You've hunted other animals before, I'm sure.”
+
+
+“I just... thought it would be awkward, seeing as it's a rabbit, and you uh....” Uh Oh. He looks angry. He's going to rant.
+
+
+“You think that My. Magnificent. Self. Is related to that... disease riddled, fur-bag of a vermin?”
+He bends forward, throwing his ears in my face and pointing at them. “Look at these. The fur, dark, satiny, rich. The texture is soft and warm, inviting. Their noble bearing, upright, strong, virile. How can you believe that my lovely ears, could have come from a beast like that.”
+
+
+He straightens up after demanding I touch them, and agree that yes, they are soft and satiny. I tell him It would be an honor to own gloves lined with his fur, so that I can feel such softness all the time. He seems pleased by this, which is not what I expected. I hope he doesn't take my joke seriously. He pulls me over to Mei Lin, who is hard at work dismantling the rabbit with her knife. Taduk points at the gory scene.
+
+
+“My foolish student, open your ears and remember my words. This creature is a bi-corn rabbit. Look at it. It is a worthless idiot creature, whose sole purpose in life is to be eaten. We stood here arguing, and it continued to dig for food, with no sense of self preservation at all.” He grimaces. “These vermin are the enemy of herbalists everywhere. Their only redeeming quality is their noses, which they use to find rare and precious herbs, plants that have succeeded in cultivating the Energy of the Heavens. Then.. IT EATS THEM! A rare and precious plant, one in ten-thousand! Eaten by these over-sized, wastes of fur!” 
+
+
+Taduk's spit is flying everywhere. Thankfully, his glare is directed at the dead rabbit. R.I.P. Little bunny. He can't hurt you now.
+
+
+“You cannot even tame one to find herbs for you. Once captured, the little idiots will try to headbutt or kick their way out of a cage, until it smashes it's head in, or breaks it's own back. Even if one of these nuisances were to live for a thousand thousand years, it would still be unable to take human form. For you to mistake myself as one of them... Magnanimous I may be, but I demand an apology! Kneel.”
+
+Unauthorized content usage: if you discover this narrative on Amazon, report the violation.
+
+
+I kneel and bow my head to my teacher, forehead touching the ground. I seem to have touched upon some taboo. “I apologize for this disciple's mistake of a lifetime. I beg for Teachers indulgence and forgiveness, and ask that he continue to educate me in the knowledge of his glorious magnificence.” I'm half serious. He might actually stop teaching me over this. I've never seen him this angry. Next to us, Mei Lin starts giggling.
+
+
+Taduk snorts. Then he lifts me up by my shoulders, and brushes the dirt off of me. “No need to go so far, my boy. A simple mistake. All is forgiven. Water beneath the bridge. No need to overreact. Just remember, your teacher, he is of the lineage of the most illustrious creature, a Cloud Chaser Hare.” I could hear the capital letters in his words. His eyes are almost shining. “A beautiful, shiny, satin animal, who, from birth, is capable of manipulating Heavenly Energies. They stride through the skies, unafraid, preying upon any creature, beast or bird, unfortunate enough to catch their eye. Their speed is such that no creature under heaven is capable of escaping.”
+
+
+I inwardly cringe. My teacher is a Hare Supremacist. Taduk continues to extol the virtues of the cloud chaser hare, while denigrating other types of bunnies. I make note of all of it. I pray to the Mother of All that he doesn't quiz me on this. I realize Mei Lin has the same ears, black and thick furred. The two of them might actually be blood related. Siblings I guess, if they share the same Ancestral Beast bloodline. That's sweet if it's true. I wonder at the odds of that.
+
+
+Mei Lin, in some of the worst acting I've ever seen, yells out, “Daddy, I cut my finger.” Why is she faking an injury?
+
+
+Taduk stopped mid rant at the sound. The words had barely finished leaving her mouth, and he was already at her side. He gestured to me, urging me to come look. 
+
+
+“A small cut, my little Lin-Lin, no need to fret. Come, show Rain how brave you are, big smile. Boy, I'm going to show you how to heal. You can't manipulate heavenly energy yet, but it's better to start understanding concepts early.” Taduk places his palm over the finger, covering it from sight. He mutters under his breath, and stands motionless for a few seconds. “There. Did you see, boy? Your thoughts? Questions?”
+
+
+Mei Lin looks at me and smiles once again, as if she has something to be proud of. 
+
+
+“That was amazing, Teacher.” I compliment using my best deadpan voice.
+
+
+“It was indeed. To heal with Heavenly energy requires the pinnacle of mastery. Let me explain it to you.”
+
+
+“I'm beginning to suspect this was a ruse, in order to lecture me.”
+
+
+He ignored me, as if I had never spoken. He was good at that. “Heavenly energy is all around us. It is invisible, intangible, inexhaustible. It comes in many natural forms, bursting up from Heavenly veins in the earth, or spewed from ever burning Heavenly fires. It can be spread by Heavenly winds, or congealed into Heavenly waters. It enters our world, and fills it, a constant source of power from the Heavens!”
+
+
+He pats me on the arm. “You've yet to reach the State of Balance. But I know you will reach it eventually. I also know that you are a skeptic. It is in your nature to doubt. You prefer to verify everything I tell you, on your own, do you not? You need not spare my feelings, your lack of trust in your teacher only causes some sleepless crying nights. My beautiful little daughter's trust is all I require.”
+
+
+“I trust you Daddy!”
+
+
+“And Daddy loves you for that, my precious little Lin-Lin. Now where was I? Ah yes. When you reach the State of Balance, you will begin drawing in Heavenly Energy. It will nourish your body, make you stronger, faster, smarter, and healthier. It will let you see farther, hold your breath for longer, and run faster than humanly possible. But that, my boy, is the most basic use of the Energy of the Heavens.”
+
+
+He pokes me in the chest, repeatedly, as he speaks. “By drawing in Heavenly Energy and making it your own, you change it. You brand it with your own essence, and it becomes Internal Energy, or Chi. Once it is yours, you can use it in ways immeasurable. You can manipulate your Chi to attack and defend, strengthen your weapons, perform incredible feats of agility and strength. With practice you will learn to heal your own injuries, not only cuts and bruises, but even lost limbs and organs. You could even emulate the most majestic of all creatures, and run in the sky like a Cloud Chaser Hare.”
+
+
+My jaw can not drop any lower. I thought all it would do was make me punch harder. “What about manipulating the elements? Summoning wind and rain, throwing fire and lightning?”
+
+
+Taduk looked at me with an impish grin. “Possible, but exceedingly difficult. More difficult than healing others, and I've already mentioned how difficult that is.” Taduk waves dismissively. “Enough on the subject for today, my boy. Your mind has been opened. Reflect on it. And cook the rabbit. You must have learned something from Charok. We've work to do, me and little Lin-Lin.” He leaves, taking Mei Lin with him to harvest what he needs.
+
+
+I start cooking, mind reeling with all the information Taduk just dumped on me. I review everything he's said on the subject. I can't wait to go home and practice. I'd only been practicing the Forms, in my spare time. It seemed more useful to me. But now, with this new information, I can't wait to go home and meditate. Visions of flying through the sky, raining fire and brimstone on my enemies, flash through my eyes.
+
+
+I'm going to be a muscle wizard.

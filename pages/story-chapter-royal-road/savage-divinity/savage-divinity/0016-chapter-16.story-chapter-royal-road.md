@@ -1,0 +1,117 @@
+---
+id: 9753f404-a74b-5509-ba60-b4f154cc500e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16"
+slug: 0016-chapter-16
+partOf: savage-divinity
+position: 16
+ownLength: 1801
+unit: words
+publishedAt: 2016-03-16
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58999/chapter-16"
+royalRoadId: "58999"
+---
+
+Dinner is delicious as always. Charok came home early to cook, but the dishes Alsantset makes are just as good, in my opinion. Baatar sits on one side of me, Alsantset on the other, with their respective spouses sitting next to them, each holding one of the twins. That Sarnai had time to come for dinner was a surprise. She rarely visits, being busy with running the village single-handedly. She's like the mayor, lawyer, clerk, city planner, and judge all rolled into one, the villagers going to her for anything they can't agree on, and she browbeats everyone into submission. She's a real firebrand.
+
+
+
+It's so sweet seeing her with Baatar though, she acts so girlish, shy, and reserved, around him. They're a cute pair, although I get a little sad thinking about it. Demi-humans have a much longer lifespan than humans, between 400-500 years. Ancestral Beasts and their pureblood children can live even longer. Humans have a natural lifespan of up to 80 it seems, but that is extended to about 120 for people who are able to reach the State of Balance. Sarnai was in the latter group, but also already in her 70's. Better to have loved and lost, and all that, I guess?
+
+
+Sarnai looks like she's in her mid 40's. Crazy for a 70+ lady. I guess the Energy of the Heavens does a body good. Is that why everyone in the village is so good-looking? Am I going to be sexy? I want to reach the State of Balance even more now.
+
+
+The seven of us eat in silence, other than the happy sounds of the twins, crunching away at their fried noodles. Charok and Sarnai had tried to keep some conversation going, but Baatar and Alsantset were in no mood for it, gloomy and taciturn.
+
+
+I have to admit, it's my fault things are like this. It seems that, while she was happy for me when I told her I found Enlightenment, Alsantset takes it as a personal failure that she couldn't help me, and her father had such progress in a single day. Her pride is hurt.
+
+
+Baatar, on the other hand, is deep in thought. After he helped me find Enlightenment, we had lunch with Taduk and Mei Lin, after a quick healing session. Taduk had made a fuss over my bruises, but after I assured him several times I was fine, and that the bruises were worth it, he relented. He was happy for me though, and Mei Lin gave me a hug to congratulate me. Afterwards, They both followed me and Baatar out to help me reach the State of Balance.
+
+
+It did not go so well. Taduk and Mei Lin came along for moral support, they claimed. That meant that I had an audience of three, watching me try to relax and meditate. It was … less than helpful. They didn't have any exercises or tips for me, besides “just close your eyes, and become one with nature”. They tried to show me by example, but that was just aggravating. Baatar just sits down cross legged, and closes his eyes like everyone else in the morning classes. Taduk and Mei Lin don't even sit up when meditating. They look like they are literally sleeping. I have a suspicion that Mei Lin actually fell asleep during her demonstration.
+
+
+With that failure hanging over him, Baatar is currently racking his brain for some method to help me. It makes for an awkward dinner, with only Charok and Sarnai actually mentally present, but they were busy feeding the twins. I eat quietly, thinking about my failure to meditate. Well, at least I reached the State of Enlightenment.
+
+
+I have been trying to attain Enlightenment for a year. Just a few words from Baatar, and I got it. I was trying too hard, thinking too much. The worst part is, Alsantset had been telling me the same thing more or less, for months. It just never clicked. I thought she meant I was overworking my body. What she meant was I was overworking my brain.
+
+
+Such a simple thing. Previously, I would have to deliberately plot out my actions, a few steps in advance. For example, if I wanted to grab someones moving arm, my thought process was like this: Full extension of the right arm, ending in a twist of the wrist, throw out my fingers, stopping their movement. Then, I can flip my wrist, and grab. Then I would execute it. Now, I do the same thing, but on the fly, without the planning. It just happens. I think of what I want to do, and my body takes care of the steps. Before, I was too engrossed in the movements, focused on the doing, that I didn't have time to really comprehend what I was doing. Couldn't see the forest for the trees.
+
+
+Now, sometimes, while doing the movements, I can get a flash of inspiration, and suddenly, I realize how the arm wave I've been doing can be used to cripple an opponent. An 'Insight into the forms'. It was like a forgotten memory, returning to me. An 'I know kung-fu' type deal. No memories of who I used to be though. An 'Insight' into the forms is awesome, but that doesn't really teach you how to fight. Just how to do massive bodily harm to someone. It requires analytical thought and practice to go from Demonstrating the Forms, to using them in real combat. Or so I'm told.
+
+
+Everyone in the village learns to fight just from these structured movements. It's incredible. I had wondered why there hadn't been any guided teaching, but sharing insights is difficult. Just showing them off doesn't always work, and explanations tend to confuse more than help. Baatar trying to explain some of his movements felt like he was trying to explain nuclear physics to a cat. Not everyone has the same insights either. Two people can do the same form, and come to different ass whooping conclusions. It makes for an eclectic and varied bunch of fighting styles.
+
+
+Baatar let me spar with him a little, and he just told me to just try to hit him, no defense. After a bit of practice, I was throwing combinations at him, left and right. Even after we stopped, I just kept thinking up different avenues of attack. I can't wait to try them out. I'm going to be a martial arts master.
+
+
+“Ah, enough is enough.” Sarnai speaks out, shocking me out of my thoughts. Alsantset and Baatar are the same. “It's rare enough for us to have a family meal. You three mule headed fools aren't even here.”
+
+
+The three of us mutter apologies. Even Baatar looks sheepish.
+
+
+“Daughter, you are an excellent teacher. The boy just needed someone to drill the lesson into his stone head. He's just like you, in that regard. As for you, Husband, the matter of the failure to teach the boy to seek Balance is because of your dog shit instincts.” Man, Sarnai does not pull punches.
+
+If you encounter this narrative on Amazon, note that it's taken without the author's consent. Report it.
+
+
+“Mother! Language!” Alsantset glares at her, and Sarnai glares right back.
+
+
+“Pei! I was worse when you were a child, and you turned out fine.”
+
+
+“Dog shit! Dog shit! Dog shit!” The twins take up a chant. I burst out laughing. I can't help it. Little kids swearing is my kryptonite.
+
+
+Sarnai and Alsantset look horrified, while everyone else starts laughing as well. Sarnai admonishes the twins, and elicit a promise from them to never say 'those words' again.
+
+
+“Ahem. As I was saying, the two of you have not failed the boy. Daughter, without you, he would not have the high level of mastery over the Forms he currently possesses. Your father just approached the situation from a different perspective.” She shoots a look over at Baatar. Even though we didn't say anything about it, I think she knows about the rocks throwing. She does not seem to approve. It is a little 'child abusey' but, I want to say, results matter.
+
+
+“As for Rain's issue with meditation, it's obvious that neither of you are qualified to help him, Taduk even less so. You are both Demi-humans with a strong bloodline. Seeking Balance was almost as easy as breathing for both of you. Of course you don't understand his difficulties. But have neither of you thought to ask someone who once had the same problems as Rain, and managed to overcome them?”
+
+
+Alsantset perked up at that. “I didn't think of it like that. Of course I couldn't help him, I never experienced those same difficulties. Mother, do you know someone as you describe? I'll go personally ask for their help in the morning.”
+
+
+Sarnai glanced incredulously at her. Then she looks at Charok.
+
+
+Charok coughed. Alsantset connects the dots. “Beloved, you never told me you had difficulties reaching Balance. You used to brag in class about how skilled you were.”
+
+
+Charok gave a defeated smile. “I may have exaggerated. I didn't want you to know, when we were younger. You made everything seem easy. It gave me quite the inferiority complex. It took me a long time to reach Balance.”
+
+
+Alsantset gave him a sad look, and leaned over to place her head against his. I'm surrounded by loving couples. It's nice, but I wonder when I can find someone like that for myself. Someone like Cierna. Beautiful woman. Half-Cow.
+
+
+Charok pointedly looks at me and asks, “Would you like my help, Rain?”
+
+
+“Of course, Brother! I would be delighted. Why didn't you help earlier?” I give him a grin, to ease the sting of my words. I don't really mean it. Not 100%.
+
+
+Charok looks stern. Never seen him like that before. “Because, little Rain, a man needs to learn to ask for help. If I went to you, my words would fly in from one ear and out the other, much like when my wife speaks to you.” Charok isn't smiling for once. He's serious about this. I reflect on it, somberly, and realize why he's so upset. With good reason.
+
+
+“Sister Alsantset, I wholeheartedly apologize for my behavior and stubbornness. Had I only listened to you, I would have reached my Enlightenment months ago. Failure lies not with the teacher, but with this foolish student. Brother Charok, I humbly ask for your aid and guidance.”
+
+
+“Flattery will get you everywhere, little Rain. Just remember that. I accept your apology.” Alsantset gives me a peck on the cheek.
+
+
+“You will always have my help, little Rain. Always.” Charok grins at me.
+
+
+It's nice to have people looking out for you. We continue our meal, more lively this time.

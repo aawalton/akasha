@@ -1,0 +1,175 @@
+---
+id: 0f62cd3d-e379-53bc-8668-6656d16157a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23"
+slug: 0023-chapter-23
+partOf: savage-divinity
+position: 23
+ownLength: 2186
+unit: words
+publishedAt: 2016-03-21
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/60012/chapter-23"
+royalRoadId: "60012"
+---
+
+Most mornings, when Baatar is in the village, I run to his personal training area near the top of the village. It's 525 steps to get to his home. I count them every day. The 525 steps are not consecutive. The village is built on a mountain top, and is far from level. They aren't well planned either. Sometimes to get from one 'level' to the next, I need to run 5 minutes to the closest stairs. It's good cardio at least. The first time I visited, I got so lost, I was almost an hour late. It terrified me, at the time. Even after all he's done for me, and all the time's I've watched him melt into a happy grandpa mode, I still find Baatar intimidating to be around.
+
+
+Akanai is far more intimidating.
+
+
+The first time I saw her, I thought she was an angel. Standing close to 200 cm, a buxom Nordic beauty, blue-eyed with hair like golden silk, tied in a perfect little bun. Deliciously toned muscles, broad shouldered, wide hips and legs that seemed to never end. A bombshell. Throw some glasses on her, and my brain would melt just looking at her.
+
+
+It was my greatest luck to have met her in the baths. It took awhile for me to even notice her antlers, wide and the same color as her hair. They grew from behind her ears, and were flat against her head, nestled under her hair like a bone plate head protector. They took nothing away from her attractiveness, rather they added to it, framing her gorgeous, icy face. No tail. I checked. Studiously.
+
+
+I never saw her again afterwards, so all I could do was cherish the memory. Often. It's tough being a teen, with all the hormones.
+
+
+Most of the time, when I arrive at Baatar's training area, he's standing at attention, hands clasped behind him, staring intently at the door I just stepped through.
+
+
+Today, I was met with the sight of my angel, standing at attention, hands clasped behind her, staring intently at me. I was in heaven. My angel has come for me, so stern and lovely.
+
+
+“You are Rain? Good. Today I will be training you. My name is Akanai, Chief Provost, Wife of Husolt the Blacksmith, Mother to Sumila.” My goddess has a smoky voice, soothing and sexy, better than anything I had imagined. I need to say something smart, and witty.
+
+
+“Uhh. Yes. Hello. My name is Rain.” I bow. God dammit brain. Wait did she say she's Sumila's mom? That little red-panda girl was really helpful yesterday. She answered all my questions, very clearly and with good detail. A little bit too much attitude, but I was asking many very basic questions.
+
+
+“We will begin with the Forms. Demonstrate them.” She watches me with her piercing eyes, and I almost lose myself in them, forgetting where I am. “Are you waiting for a written invitation? Begin!”
+
+
+I hop a little, and try to calm myself, before launching into the Forms. It isn't effortless, but it is much easier now. The movements come more naturally, a smooth transition from one to the next, my body in constant motion.
+
+
+A rock sails into my knee. Lifting it in the air, I clutch it while cursing. Fuck that hurt. That hurt!
+
+
+“Pitiful. Again.” Okay, so my angel likes it a bit rough. I can handle that. A deep breath and my chi begins to heal the bruise, and I fall back into the forms. I didn't know she'd take a page from Baatar. I'll be ready for it this time.
+
+
+She stalks around me while I demonstrate the Forms, throwing rocks every now and then. I lose count of the stones thrown at me over the next hour. She's tricky about it. Sometimes she'll throw more than one at a time, or rapid fire them at me. Most of them are dodged, some are caught or parried, but the ones that connect need healing. A brutal goddess, who demands blood. She's not as kind as I had imagined. Still sexy though.
+
+
+“Barely passable.” Akanai speaks when I'm done. “You are too reserved in the forms, too fluid and unnatural. The forms contain the full spectrum of movements and emotions. You must also embrace the jarring and abrasiveness they contain.”
+
+
+She moves through a few of the Forms. It's completely different from how I've been doing them. The same actions, but a different cadence. A wild, unpredictable beat, power inherent in every movement. She switches through different forms without pause, without delineation. I stare, this time not watching the beauty of her body, but the beauty of her movements.
+
+
+I've been treating the forms like a serene dance, a ballet, a series of steps in an ordered fashion, but I've been wrong to. It's nothing like that. Or it is, but that isn't all it is. She finishes her all too short demonstration and looks at me, again with those sexy, frowning eyes. “Are you an idiot, boy? Can your mouth not close properly?”
+
+
+I wipe my mouth with the back of my hand and close it. I need to control myself. Fucking teenage hormones. I can remember sex, but not details, just a general understanding of what I'm supposed to do. And the ever present urge to do it. Take a breath. Find Enlightenment.
+
+
+I start the Forms once more, but a rock to chest makes me stop almost immediately. Rubbing my chest, I find that I started bleeding again.
+
+
+“Enough of that for now. We move on.” Akanai turns on her heel and walks off to the weapons rack. She grabs a shield and short spear and tosses them at me, hard. I step aside and turn to watch them fly off, striking the wall. Turning back, I find Akanai glaring. “Why did you not you catch them? Go get them. We are to spar.” She grabs a second shield and short spear, and steps into the sparring square.
+
+
+I didn't catch them because you threw them like 100kmph. I would have flown into the wall if I grabbed them mid flight. Beautiful, but crazy. Never meet your idols. I inwardly sigh as I grab the errant weapons and walk into the square.
+
+
+Akanai charges towards me shield held forward and bull rushes me out of the square.
+
+
+I think I bounced off the floor. Groaning in pain, I slowly sit up.
+
+
+“Get up. Show me what Baatar has taught you. Do not hold back.” She stands tall, proud, as if bullying someone more than 30 cm shorter and probably 50 kilos lighter was something to be proud of. Crazy bitch just sucker charged me.
+
+
+Brushing myself off, I gingerly walk back to the square. She doesn't bum rush me this time. Taking my stance, shield out, spear held forward, I ready myself. She stands casually, shield at her side, spear twirling in one hand. Step by step, I circle her, closing in on her.
+
+If you spot this narrative on Amazon, know that it has been stolen. Report the violation.
+
+
+She has a longer reach and higher vantage point. She's stronger and faster than me, probably more experienced to. My advantage?
+
+
+I'm crafty.
+
+
+As soon as I'm in range, I thrust at her shoulder. She parries easily. My attacks continue without pause, aiming high on her weapon side, drawing her attention. As she brings her shield over to block, I slip into her blind spot, putting my plan into action.
+
+
+Her foot trips me, sending me crashing to the floor face first. She bops me on the head with her practice spear. Padded or not, it still fucking hurts.
+
+
+“Only an idiot believes himself smarter than his opponent. You are clever, but not as clever as you think.” She grins, the same not-smile that Baatar has. I want my angel back. Go away reality. Give me back my dreams. “Stand. Again.” Even the intonation is the same.
+
+
+“Did Baatar teach you too?” Maybe I can elicit some sympathy, as a fellow victim.
+
+
+She snorts. Even the snort is the same. How is that possible, with her lovely, defined nose? “Fool. I taught that pup, molded him into what he is today.” I cringe. Baatar is like 80 years old. How old is she? I've been tricked by her gorgeous exterior. Inside, she's a crone, a hag, an old lady.
+
+
+We continue to spar, or rather, she continues to beat me senseless. After an eternity, she steps aside and whistles. A slim, nasally, human healer comes out and takes care of my injuries, even the ones from yesterday. I was going to use those for practice. She had a healer, waiting in the wings for this? Did she expect to need one? I want to cry. Today was supposed to be fun, questions with Baatar about my new sword.
+
+
+“Again.” This time, she has a long spear. She tosses it at me, gently this time. I reluctantly catch it. She won't do the same thing twice, and bum rush me again, will she?
+
+
+As soon as I enter the square she lunges and tries to skewer me, but I was ready for it, dodging aside. Of all the nerve.
+
+
+“Fool me once, shame on you. Fool me twice, shame on me.” My best glare doesn't faze her. She just laughs, a throaty, sultry sound. I need to get laid. Or find some way to break this devil siren's hold on me.
+
+
+We begin our spear sparring in earnest. She isn't abusing her extra range, letting me into my range so I can fight. It'd be viciously one sided otherwise. Even with the allowances, I'm blocking and parrying more than attacking. A few errant strikes, to keep her from steamrolling me, but mostly defense.
+
+
+She throws a vertical chop at me. Blocking it, I hastily jump aside, her foot sailing through the space I just occupied.
+
+
+I sweep her foot before it lands, keeping her off balance, and stick check her with all my might. She barely moves, even with just one foot on the ground. Can't let her recover. Twirling my spear to strike her in the face with the butt, she deftly steps aside, forcing me back with a few sweeps.
+
+
+In position once again, she thrusts her spear at me repeatedly. They're fast and accurate, and it's all I can do to dodge and parry. Each time our weapons make contact, stinging reverberations shoot through my arms.
+
+
+I put all the strength I have into my spear, knocking away a thrust that would have ended me.
+
+
+Akanai recovers almost immediately, moving into an overhand strike.
+
+
+My spear instinctively moves into position to block, horizontally. Repeat the pattern, I dare you.
+
+
+Before her spear makes contact, I'm already moving. My feet slide, avoiding the kick, and twist my spear, catching the strike at an angle, avoiding most of the force behind it. I take another wide step and pivot the spear around her weapon, sending my weapon right into Akanai's neck. Eat that grandma.
+
+
+Or at least, that's where her neck should have been. My spear whistles through the air, striking nothing, and an impact hits me in the stomach, making me fall to me knees, like a sack of potatoes.
+
+
+My head hits the floor and my world slowly goes dark.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+Akanai stood to one side in thought, watching Tokta fuss over the boy. Rain showed a fair amount of skill, especially for one so young. Even more amazing when considering the short amount of time he had been learning. He was properly motivated from his time in the mines. At least some good came of it.
+
+
+Tokta spoke without looking up. “You may have gone too far. He is unconscious. He hit his head on the ground. Maybe cracked. Practice is over for the day.”
+
+
+Akanai waved it off. “He struck his head after I winded him. He will survive. I find the boy suitable. Good Insights into the forms, good instincts. Terrible foundation, but that's no surprise. It takes time to build. Also too engrossed with seeming elegant, slow to start, but fierce enough when pressed. What do you think?”
+
+
+Tokta nodded. “One would almost disbelieve he has only been training for three years. Even without the final counter, I would have agreed. Taduk already speaks highly of his skill in herbalism. He'd be useful in the Sentinels.”
+
+
+She laughed, happy at his approval. She didn't need it, as Chief Provost of the Sentinels, but it was good to be in agreement with your second-in-command. Akanai was pleased by the skills the boy displayed, but a sparring square and true combat held a world of difference. “We'll take him on the next trip, see how he acts under pressure. I will settle this with Baatar.”
+
+
+She smiled and walked off, leaving the boy to Tokta's care. She enjoyed the spar, even his curious turn of phrase. 'Fooled once, to your shame, fooled twice, to my shame'. She chuckled. That pup had found an interesting one.

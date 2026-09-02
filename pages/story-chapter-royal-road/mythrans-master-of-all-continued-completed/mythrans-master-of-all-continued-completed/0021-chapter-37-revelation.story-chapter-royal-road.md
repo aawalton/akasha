@@ -1,0 +1,133 @@
+---
+id: d64225a9-bac2-5fcd-8f88-f7b147f078cc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37 - Revelation"
+slug: 0021-chapter-37-revelation
+partOf: mythrans-master-of-all-continued-completed
+position: 21
+ownLength: 2229
+unit: words
+publishedAt: 2016-09-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95379/chapter-37-revelation"
+royalRoadId: "95379"
+---
+
+Teepo had clung to Ren's shoulder the whole time and never said a word. He'd never seen flames like them before and was mesmerized by their dance. The sway the flames had was hypnotic as the wind took it to more and more trees. Teepo felt that the fire hungered for more food and ate to it's heart's content... but it was never satisfied and kept eating more and more. Teepo watched in amazement as the forest was devoured by the ceaseless flame. Teepo didn't even see the fight his friend Ren had been in, since his gaze was locked on the unending flame. When Ren had finished eating, the last of the flames died out and Teepo awoke from the trance he'd been trapped in.
+
+“Ren, why is everything so wet? Did it rain?” Teepo asked.
+
+Huh? Aimus and I put out the fire with water enchantments. You didn't see us do that?
+
+“No, all I saw was the Dancing Flames.” Teepo responded.
+
+Ren looked at his friend closely. Dancing flames? It almost sounds like a title of some kind. Ren thought.
+
+“It is.” Teepo said.
+
+While Ren sat and rested, Teepo told him a story.
+
+*
+The story was from long ago, and about how the first beetle had stumbled into an old shaman's tent. It discovered the shaman has used forbidden magics and called forth a creature, the likes of which had never been seen before. In the center of the shaman's holy area, a being made of pure light floated. The shaman, greedy for the holy light the being possessed, cast spell after spell on the poor creature. It fought for as long as it could, but in the end, the shaman's will was too strong and his greed was too overpowering... and the creature collapsed in on itself, turned inside out, and became a beast of living fire. The shaman was shocked by this, so much so that the beast broke free of the binding spell and lit the shaman on fire. “You wanted my light so much, then you can have it... for as long as you can keep it.” An unearthly voice spoke over the screams of the shaman. The beast turned and ran around the small tent and everything it touched burst into flames. Once everything was burning, it found it had an audience and stood in front of the beetle. “You. What do you want? Did you want my light as well?” The voice said ominously and knelt down. The beetle, completely entranced with the way the fire danced and moved of it's own free will, didn't hear a word of what the being said. The being reached down and picked up the beetle and held it close. “You're not afraid of me at all, are you?” The being said as the beetle's legs started to crisp and sizzle from the heat. The beetle, unaware of the being's presence, continued to stare at the flame as it danced. “So... beautiful...” The beetle said. The fire consumed everything in the tent and then the tent itself. The being smiled. “Very well. From this point forward, you and all of your kind shall be my emmisaries.” The being said and a glow enveloped the beetle. It's bright white carapace turned to a dark blue, and it's legs became able to traverse the flames without harm. The beetle took it's eyes off the flames that engulfed the tent and looked right at the being that held it. “Whenever you see *Fire*, know that it is me.” The being said and put the beetle down. “Tell everyone far and wide that *Fire* is here.” The tent dissolved around the pair and neither of them took notice. They now stood in a pile of ash. The beetle did a little dance right on the spot to thank the being, and to the surprised being it looked like dancing flames. The being smiled. “Hm. Yes, that is quite the tribute. Thank you.” The beetle chittered in delight and went home. It didn't know how it as going to let everyone know about *Fire*, since it was just a beetle... but for some reason it wanted to start a family. Generation to generation, the story was passed down beetle to beetle about the Dancing Flames and how they came to be.
+*
+
+Teepo finished the story and Ren sat in silence.
+
+Notice!You have heard a story from the Lore Of The Ages Series
+
+Well... I think I just gave Dancing Flames a gigantic tribute, don't you?  Ren thought to Teepo.
+
+Teepo chittered in delight. "A good portion of the forest was a fitting tribute to Dancing Flames."
+
+Notice!You have gained Hidden Knowledge about the nature of fire, and provided a suitable tribute to it's Divine Entity.
+
+Knowledge Of Fire Level 1 (Intermediate 0%) Fire affinity and resistance increased by 10%
+
+A stat jump right to intermediate?  Ren thought, astonished. He'd gained a level or two of fire knowledge during that whole event but swiped the notices away without reading them. It seemed that each level gives a 1% increase in affinity and resistance; with a bonus for jumping ahead, apparently. Ren looked at his stat for fire knowledge and saw that it was now at 23%. Wow.
+
+Aimus stood up. “It would be best to stay here for the night. Even with the fire and most of the smaller creatures eaten by giant rats, there are still things that will come out at night to see what's been going on. I do not want to be traveling on the ground when that happens.”
+
+Ren looked up at the darkening sky and agreed. Aimus set a few traps and did the wire trick around the clearing under the lookout. Ren went to each trap and enchanted them with the 'Grip of the Earth' glyph. Boy, is that thing handy! Ren thought as he did the last one, and recieved a popup.
+
+Stat Change!Your Enchanting skill has leveled up.
+
+Enchanting Level 5 (Intermediate 0%)
+You can now use 4 runes in a single glyph.
+
+Ren was excited to see that. 4 runes per glyph!
+
+Ren had hoped with all the extra enchanting done that day would let him level up. He and Aimus climbed the ladder to the lookout and Ren put his bedroll next to the tree. Aimus tied a rope to the tree and then around Ren's chest.
+
+This story has been taken without authorization. Report any sightings.
+“What's this for?” Ren asked.
+
+“It's just in case you roll over in your sleep. Despite your uncanny ability to bounce when you fall from great heights, I'd prefer you not take the plunge if you don't have to.” Aimus said and smiled.
+
+“Me, either.” Ren said. “I still don't have a helmet!”
+
+Ren and Aimus laughed. Teepo asked Ren what he needed the helmet for, and Ren filled Teepo in on everything that happened. Teepo chittered in laughter when Ren got to the part where he fell while trying to climb. Ren took out his Book of Runes and filled in all the single rune pages with the 4 rune glyph variants. It was getting easier and easier for him to imagine what new glyphs would look like. Once each of the single rune pages was full, he turned to the next section with the protection rune in it. The variants of that were almost mind boggling, but Ren took it in stride and kept working until it was almost full dark. His eyesight allowed him to work longer than a normal human would, but when it got too hard for him to see, he put the book away and tucked himself into his bedroll.
+
+Don't go too far, Teepo. Ren thought to his friend.
+
+“I... I think... I'm just going to stick close by, if that's okay.” Teepo said sheepishly.
+
+Ren smiled. Sure, Teepo. You don't have to go exploring if you don't want to.
+
+Teepo clicked in acknowledgement and settled down on Ren's chest. Ren closed his eyes.
+
+“Logout.”
+
+********
+Ren took off the VR headset and was surprised to see most of the nurses from the floor were in his room. Lucy took the set from him and put it on the dresser. Once it was out of the way, Ren was mobbed by the nurses. They hugged and pawed at him and he flopped back and forth between having sets of boobs in his face to scowls and waving fingers.
+
+“Hi, everyone.” Ren said when he could catch a breath.
+
+“Ren! How could you do that! Setting the forest on fire like that...” Stella said.
+“I'm so glad you're okay! When those rock things came after you...” Lucy said at the same time.
+“That ghost was scary, wasn't it? Weren't you scared?” Bonnie added her voice to the chorus.
+“You saved that poor soul, too!” Another nurse said.
+
+Ren has only seen her a few times and couldn't remember her name. He let the nurses talk and he answered their questions as best as he could. In the middle of it all, he turned to Lucy.
+
+“Lucy, I was wondering if I could have lunch?” Ren asked her.
+
+“Sure. I'll be right back.” Lucy said and left.
+
+Ren pulled himself away from the nurses and managed to go to the bathroom without assistance. He cleaned up and went back to bed. The nurses had stayed and Ren kept talking to them. He had about 3 hours before he needed to log back into the game, but he didn't tell the nurses that. Lucy came in a few minutes later and Ren ate a nice turkey sandwich on white bread, with a bright red slice of tomato and crispy lettuce. There was just a touch of mayonaise on the lettuce side of the sandwich and it made the sandwich taste that much better.
+
+Lucy always makes the best sandwiches! Ren thought and ate the handful of potato chips that were on the side of his plate. Orange juice soon followed and Ren's lunch was complete.
+
+“Thanks alot, Lucy.” Ren said. “Your sandwiches are always the best.”
+
+Lucy smiled in response to the thank you, then blushed at the best comment. Ren smiled at her and she blushed a little harder. The other nurses interrputed their conversation when they saw this interaction and decided that Lucy needed a good teasing.
+
+“Yes, Lucy... your sandwiches are delicious.” Stella said and came around the bed to hug Lucy from the side.
+
+“Oh, they're just heaven!” Bonnie said and put the back of her hand to her forehead and tilted her head back, like you see those damsels in distress do in the movies.
+
+“Won't you please make us one, too?” The other nurse said as she intertwined her fingers under her chin, tilted her head to the side and batted her eyelashes.
+
+“You... you...” Lucy began and they all started laughing. It only took a moment for Lucy to laugh as well and Ren joined them, too.
+
+They really are like a family. Ren thought.
+
+“E-Everyone... I... I want to thank you. I know I don't say it enough... for all the things you've helped me with these last few years. I really do appreciate everything you do for me. If it wasn't for you... and the way you take care of me...” Ren tried to express how he really felt, and tears welled up in the corners of his eyes.
+
+“I... I don't know what my life would have been like...” Ren said and wiped his eyes before the tears escaped.
+
+“T-Thank you.” Ren said and blushed.
+
+Silence filled the room and Ren looked at each nurse in turn. The nurses slowly approached the bed and when they reached Ren, he could see the tears in the corner of their eyes, too. They hugged him and said that he didn't have to thank them and that it was their job to take care of him. Ren shook his head no, that taking care of him as a job was one thing... caring for him as a person was another. The tears flowed freely after that, and they all had a good cry. Ren included. The impromptu gathering broke up just as suddenly as it began.
+
+“Come on, Denise. We've got rounds to do.” Stella said as she let go of Ren. Her eyes were red and a bit puffy. Denise nodded and let go of Ren, too. Her eyes were red and just as puffy. They waved as they left.
+
+So that's her name. Ren thought. I'll have to remember that.
+
+Bonnie let go and stood up as well. “I better get back to the nurse's station myself. I bet the phone is ringing off the hook.” She wiped her eyes and left as well.
+
+Lucy let her hug go but stayed sitting. “Ren... I...”
+
+“You're the one I have to thank the most.” Ren said and took her hand in his. “You've been here with me every day. You've gone through just about everything that I've gone through. Out of all the people here, you're the one that's been the most important to me.”
+
+“Ren...” Lucy looked at Ren. “Ren, I...” Lucy stood up and didn't bother wiping away her tears. “I... I have to go.”
+
+Lucy turned away from the bed and left the room.

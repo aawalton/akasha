@@ -1,0 +1,135 @@
+---
+id: a33d3d6c-80d6-5cf2-8d5a-55e13e1213da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31 - The Homestead"
+slug: 0015-chapter-31-the-homestead
+partOf: mythrans-master-of-all-continued-completed
+position: 15
+ownLength: 2733
+unit: words
+publishedAt: 2016-09-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/94441/chapter-31-the-homestead"
+royalRoadId: "94441"
+---
+
+*
+(Author's Note: I got back when I said I would, and now it's the next day. It was quite difficult to get back into the mood of writing, especially after 5 days of literally mind-numbing waiting in the rain. Yep, that's right. It rained most of the time, and I wasted most of it just sitting inside and doing nothing but watching television. Greatest... Vacation... Ever! I turned my 'sarcasm filter' off for that last statement. :) )
+*
+
+The pair of travelers made good time. They arrived at the home of Aimus and his family well before noon. Aimus guided the horse and cart into a nearby barn and both he and Ren packed everything away properly and put the horse into a pen. Normally a driver would have come with the horse to ensure it's return, but thanks to Ren and the gold he'd given Aimus, it wasn't necessary. Aimus had paid a gold coin as a deposit and would pick it up next month upon his return. Teepo jumped wildly about Ren's shoulders because he could barely contain himself. Ren smiled.
+
+All right, all right! Go ahead, Teepo. I'll call you if I need you. Teepo chittered in delight and leaped off Ren's shoulder. He hit the pile of hay next to the horse at and disappeared from sight.
+
+Aimus and Ren left the barn and went over to the house. Ren heard a squeal of delight and the front door of the house burst open.
+
+“Daddy!” A little dark haired girl screamed and jumped up into Aimus' waiting arms. She looked to be about 8 years old. Aimus gave her a big wet kiss on her cheek and she giggled.
+
+“How's my little devil?” Aimus asked.
+
+“I'm not a devil, dad!” She said and squirmed in his arms. Aimus laughed and tickled her. She squealed again and he put her down. She ran back into the house and almost barreled into a raven-haired beauty who'd just stepped into the doorway.
+
+“You're back early.” She said.
+
+“I didn't find anything interesting on the way.” Aimus said and shrugged.
+
+“Didn't you?” She said and looked over at Ren.
+
+Aimus smiled. “Ren, this is my beautiful and talented wife, Abigail.” Abigail rolled her eyes at the introduction.
+
+Ren stepped forward. “It's a pleasure to met you, ma'am.”
+
+Aimus turned to his wife. “Abby, this is my mother's student, Ren.” She nodded to Ren as Aimus continued.
+
+“He's seen some of what the city is really like, and wanted to try his hand at country life. He practically begged me to drag him along.” Aimus said and grinned.
+
+Abigail nodded. “Of course. I greet you, Ren. Welcome, to the Blackmeadow Homestead.”
+
+They ate lunch and Ren thanked Abigail and Aimus for letting him stay for the month. Aimus reminded him that he'd have to do his share of the chores if he wanted to eat. Ren smiled. He'd still do his fair share, but he didn't need to eat as much food as he used to. He was going to save a ton of money in the future with not having to buy so much food. There was no need for Abigail and Aimus to know how little he actually needed to eat each day, though. They'd find out soon enough. Ren readily agreed to their terms and they finished lunch.
+
+Aimus stood and nodded. Ren stood as well, thanked Abigail for the food and followed Aimus out of the house. Aimus retrieved the pelts they'd harvested during the trip from the barn and Ren followed him into a small shack that was hidden behind the house. Ren was amazed at what he saw. Blades of every kind hung on the walls. Large pruning shears (kind of like giant sissors), grass shears, knives, sickles, hay bailing hooks, sling blades, hatchets, axes, pickaxes, shovels, hoes, spades, brush hooks, trowels, and a bunch of other things that he couldn't guess the names of because he didn't know what they were or what they could be used for. There were also normal tools that could be used. Hammers, mallets, and even sledgehammer hung on the wall. Ren asked what one tool was for. It had two spade like ends and a hinge in the center and two long handles. Aimus told him it was a post digging tool that was for digging holes in the ground, for fence posts that had fallen or were knocked over.
+
+Aimus went to a small workbench under the lone window and placed the pelts on a rack next to it. He took one of the pelts and grabbed a small set of shears from the wall. He carefully trimmed off the ragged edges all the way around the pelt and made it smooth.
+
+“Pelts the way they are now, aren't much good. They'll rot and waste away unless they're treated.” Aimus said as he worked. He trimmed all three pelts and took Ren out behind the shed. There was a large wooden trough there, with a cover on it. Aimus handed Ren the pelts and then lifted the cover. A very strong odor hit Ren in the face.
+
+“Now toss those in there and stir them around.”
+
+Ren tossed them in and pushed them down with his hands. The smell was even worse up close.
+
+“Don't use...” Aimus tried to say, but Ren stirred the pelts around and had his arms in the mixture up to his elbows. “...your hands.” Aimus nodded towards the stick that hung on the back of the shack. “You're supposed to use the stick.”
+
+“Sorry.” Ren went to grab the stick.
+
+“No!” Aimus said and Ren looked at him. “There's no need of that now. You did it already.” Aimus said and put the cover back down on the trough. “Come on. You had better wash up before that smell sticks to you permanently.”
+
+Aimus took Ren to a well that was nearby and retrieved a fresh pail of water. He passed Ren a bar of strong smelling soap and Ren lathered up before Aimus poured the water over Ren's hands and arms. Ren wasn't sure which smelled worse, though. The soap or the pelt mixture.
+
+“It'll take a few days for them to cure properly, but when they're done, you'll have the nicest pelts this side of the mountain.”
+
+Ren wasn't sure what to make of that statement. Did that mean there were nicer pelts on the other side of the mountain?  Ren thought. Maybe that's why he travels over the mountain every month.
+
+Ren asked what was in that mixture, and Aimus told him it was mostly brine. Ren asked what that was, and Aimus winked at him and said it was mostly animal urine, with some cow droppings, stomach acid, and a few plants and herbs, to help toughen up the leather and fur. Ren gagged and rubbed his hands on his clothing.
+
+Aimus laughed while he gathered a few tools, then handed a huge spool of wire to Ren. The spool was really heavy, but Ren didn't want Aimus to think he couldn't handle so simple a task. Rather than putting it into his inventory, he hefted it into his arms and followed Aimus around the outer fence of his homestead. Aimus was amazed at the kid. He figured Ren would have done the smart thing and just rolled the big spool of wire, since it was round. Any dirt that ended up on it was easily cleaned off; but no, he was actually carrying it. Ren struggled with it, but he didn't complain once. Aimus shook his head to himself and walked on.
+
+As they moved along, Aimus would stop and fix any breaks in the wire, sometimes cutting a whole section away and replacing it with new wire. Ren felt the strain on his arms and in his back, but he entered his trance like state, Serene State Of Mind, and kept going. It leveled up a few times and it took less mana to maintain. It took hours for them to go all the way around the homestead and they had to take several breaks along the way. By the time they went back to the house, Ren was exhausted and pretty much collapsed next to the barn door. They'd only used up about a quarter of the spool, but Ren didn't mind. His Strength, Endurance, and Vitality had risen by several points. He'd only been sitting there for a few minutes when Abigail called them in for supper. He stood up and followed Aimus into the house. Ren was looking forward to a good meal. He'd train his Rationing later.
+
+This novel is published on a different platform. Support the original author by finding the official source.
+
+There were no chores to be done that evening, so Abigail showed him the room that was to be his for the month. Ren thought he would be stuck in a 6 year old's room; but luckily, the house had a spare room besides the ones that the family was using. He sighed in relief when he climbed into bed. It had been a long day. Ren decided to check on his stats, since it had been a while since he'd last looked at them. His eyes bulged at the numbers. No way!
+
+StatusNameRenLevel3GenderMaleClassArtificerRaceElflingFame/Infamy1110 (Locally Known)TitlesDonan's Apprentice - 20% stat gain at his shop
+Sally's Student - 20% stat gain at her shop
+Issac's Novice - 20% stat gain at his shop
+Lemming - 5% resistance to fallsHealth550Mana420Strength80Dexterity60Vitality50Agility58Endurance65Intelligence50Luck23Wisdom40
+
+Ren was a bit shocked that everything was so high... except for his Wisdom. He understood why it was so low, though. He hadn't been back to the library since his first visit, when he'd read the books about the elements. Thinking about the library made him think about Rosie, and how she'd taught him how to dance. She'd been as shocked as he was that he'd learned so fast. Ren chuckled silently and drifted off to sleep.
+
+********
+Barbara was kind of bored. She just sat there and watched Ren play his game. She kept herself a little busy with makework and checked his vital signs. She made sure the room was at a good temperature so that Ren wasn't either too cold or too warm. Some other nurses popped in and saw that Ren was sleeping, both in real life and in the game, so they chatted with Barbara about different things. They all soon left and Barbara was once again bored. She wasn't sure if Ren getting the game was a good thing or not. On the one hand, he was happier and doing more in real life than he'd ever done before. On the other hand, he was spending less and less time with the people that cared the most about him. Barbara wasn't sure what she could do about it, or even if she should do something about it.
+
+Maybe he'll realize it on his own. Barbara thought.
+
+Not long after she thought that, the nurse's shift change began and Lucy came in a few minutes later. They exchanged pleasantries and Barbara filled Lucy in on what had happened in the game that night. Since two days in the game had passed, it was a lot to talk about.
+
+********
+Ren woke up on his own and saw it was still night out. He rubbed his eyes and wondered what time it was. Then it hit him. He had completely forgotten to log off. He tucked himself back into the bed.
+
+“Logout.”
+
+********
+Ren took off his VR headset and saw Lucy's smiling face.
+
+“Good morning, sleepyhead!” She said and laughed.
+
+“Morning.” Ren said and blushed a little. “Sorry, I forgot what time it was.” He handed Lucy the headset. She took it and placed it on the dresser.
+
+“You still have time to get to physiotherapy if you hurry.”
+
+Ren got out of bed and went to the bathroom. When he came out, Lucy had his clothes ready so he could get changed. He did so quickly and walked out of the room. Lucy followed him.
+
+“Ren!” Lucy said. Ren had forgotten to get in the wheelchair.
+
+“Don't worry. I'll have breakfast later.” Ren said and walked down the hallway and into the physiotherapy room. He did his daily exercises without complaint. When he banged his broken finger on the handle of the walking track, he just grit his teeth and kept going. Ren finished his routine in a reasonable time and wiped the sweat from his face with a towel the therapist had handed him.
+
+“You're doing much better.” She said.
+
+“Thanks.”
+
+“You need to be more careful with that finger or it won't heal properly.”
+
+Ren nodded and took a drink of the vitamin enhanced mineral water that was always there for him. He sat back and relaxed. Whew! Another day and another 100 yards. Ren took a deep breath and another mouthful of water. I wonder if they're going to push me to do more soon? Hopefully, they'll let me get used to this before adding any more.
+
+After another 10 minutes of resting, Ren thanked the therapist and left the room. He went back to his own room and waited for Lucy to come in. The nurse at the desk would page Lucy wherever she was. He always felt a little guilty about that; but since it was the nurse's job to take care of him, he couldn't really complain about it. She came in a few minutes later and asked Ren what he wanted for breakfast. He said he wanted the usual and she smiled. It took about 10 minutes for the eggs and toast to be ready and Lucy watched Ren eat his fill. He drank all the apple juice and half of the orange juice. Lucy took the tray back to the kitchen and Ren settled back into bed. Lucy came back into the room and Ren waited for her to hand him the VR headset. Lucy shook her head and pointed to the bathroom. Ren sighed and got out of bed again. He'd forgotten to take a shower after physiotherapy.
+
+Lucy called in another nurse to change the sheets on the bed and led Ren into the bathroom. He undressed while she set the temperature of the water by turning the hot and cold knobs to the right settings. She waited a minute to make sure the water was okay for him and then helped him get under the shower head. It was set to a gentle spray so it wouldn't shock him too much. He lathered up where he could reach and Lucy lathered up what he couldn't. It had been a regular routine for them ever since he'd first arrived at the hospital.
+
+Ren noticed Lucy had looked at his body a bit strangely. He looked himself over to try and see what it was she might have been staring at, but he couldn't see anything different. He was tempted to ask her what it was she was looking at, but she must have noticed him looking and turned away. He shrugged and rinsed off the last of the soap. He could always ask her later.
+
+Ren dried off his front with a towel and Lucy dried off his back. She gave him a bathrobe to put on while she went to get another change of clothes for him. She tried to pass Ren the clothes and Ren took off the robe he wore. Lucy turned away from him. She'd never done that before. She'd seen him naked hundreds of times. Ren wondered why she was acting differently this time.
+
+“Lucy...” Ren started to say.
+
+“Just get dressed.” Lucy said. She put the clothes down on the sink and left the bathroom.
+
+Boy, is she acting weird or what?  Ren thought and changed into the new set of clothes. He went out into his room and climbed back into bed. The sheets smelled like fresh linen with a hint of vanilla. Ren couldn't tell if it was Stella's perfume or Bonnie's hand lotion, though. He never could remember which was which. Ren shrugged mentally and settled down properly. Lucy avoided looking into his eyes as she handed over the VR headset. Ren put it on and relaxed. He was good and ready to play again.

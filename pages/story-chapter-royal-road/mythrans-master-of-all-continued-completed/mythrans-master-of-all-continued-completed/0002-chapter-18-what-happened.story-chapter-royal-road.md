@@ -1,0 +1,170 @@
+---
+id: 9ada3293-484b-5dfc-a82f-b9b0ab5e2b42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18 - What Happened?"
+slug: 0002-chapter-18-what-happened
+partOf: mythrans-master-of-all-continued-completed
+position: 2
+ownLength: 2034
+unit: words
+publishedAt: 2016-09-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/91092/chapter-18-what-happened"
+royalRoadId: "91092"
+---
+
+Ren opened his eyes and looked up at all the faces staring down at him.
+“Ahhh!” He shouted and jumped.
+
+Everyone laughed, and the captain bent down to pat him on the shoulder.
+“It's all right, boy. You're safe now.”
+
+Ren realized he was out of the water and on solid ground. He took a better look around and could plainly see that they were camped back at the mouth of the cave.
+
+“How long...”
+
+“It's been about a day.” Clint said and sat down next to him. “You were pretty banged up. When the healer was finished an' you didn't wake up right away, we were all pretty worried.”
+
+Ren nodded his head and sat up. “Yeah, you wouldn't believe what happened...”
+
+Clint shook his head. “No, don't say anythin'. You c'n tell us later. Just rest fer now.”
+
+It was Ren's turn to shake his head. “No way. I've had enough rest to last me a lifetime. I'm not staying in a bed any longer than I have to!” He looked Clint over and saw the state of his weapons and armor. “...and I've got work to do.” Clint laughed at him, but handed over his weapons.
+
+Ren worked diligently for a long time, fixing everything that was damaged. The soldiers had stacked their things nearby and Ren did those first. Most of the soldier's armor and shields were falling apart. He didn't know how they had gotten into such a state so quickly. He wasn't gone that long, was he?
+
+Some of the other players saw Ren was up and moving around, and came to pay their respects. He was about to tell them they'd have to wait for him to finish with the soldiers equipment before he could start on theirs, but they just asked him how he was doing. Ren was a bit shocked since they never really paid him much attention before. He figured they didn't really care about him, but he told them he was doing fine. None of them even asked him to fix their stuff.
+
+He finished his work with the soldiers equipment and sat down on the ground. He took two mana potions and told everyone he was ready. Everyone came over and formed a line in front of him. They each handed over their things for him to repair in an orderly and patient manner, and talked casually about everything that had happened during the adventure. Ren's ears perked up at the mention of him falling from the bridge and he listened carefully. He was desperate to find out what had happened afterwards.
+
+“Boy, I can't believe that cave in, huh? What a mess! I mean, just look at our clothes and armor!”
+
+“Yeah, that dust went everywhere. I really need a bath.”
+
+“Good thing the soldiers were there to cover the healers... otherwise a few of us would have been in some real trouble.”
+
+The talking stopped suddenly and Ren looked up from the chest plate he was repairing. Everyone was looking at him. His face and ears turned bright red and he went back to his work. The conversation drifted off to other topics, and some wondered what they were going to do when they got back to the city. Ren wondered that himself. What would he try to learn first? There were so many possibilities. He looked down at his high quality clothing and they were pretty ragged. He would have to stop in at Sally's place to see what he could do about it before deciding anything else. Some of the players didn't have any junk drops left to trade for his repairs, but Ren told them it was okay. He was only repairing and not enchanting, anyways. The players were grateful for that and thanked him. He just waved it off. They were headed back to the city and he had tons of stuff already.
+
+Ren finished up with the players and went back to where Clint sat. No sooner had his butt hit the ground, when the captain hollered out to the expedition.
+
+“Alright, everyone! Now that Ren's finished we can get moving. Let's go! Go! Go! Go!”
+
+Everyone seemed to groan at the enthusiasm in the captain's voice, and they reluctantly got to their feet. They gathered up their things while the soldiers dismantled the camp. Ren looked around and saw a lot of unhappy faces and wondered what was going on.
+
+They're all just tired, I guess. He thought. Of course, so am I.
+
+Ren stood up with Clint and they packed up their bedrolls. It didn't take long for the soldiers to finish, and they started their trip back to the city. Everyone was silent for a while, but it wasn't an uncomfortable one. They all just trudged along at a steady pace and no one felt the need to say anything.
+
+After a few hours, Clint finally broke the silence.
+
+“So... how did you survive the fall?” He said.
+
+“What? Oh... well... I know this is gonna sound crazy; and you're not going to believe me, but... on the way down to the bottom, I grabbed onto it's chest and used it as a cushion to break my fall.”
+
+“You WHAT?!?” Clint said and stopped walking. Ren walked on, and Clint ran to catch up.
+“Tell me you didn' just say that!”
+
+Some of the other players heard them talking and moved closer to try and get some details.
+
+Ren chuckled at Clint's expression. “I told you that you wouldn't believe me.”
+
+“Jeezus, man! Are you nuts? What made you do that?” Clint said.
+
+Ren shrugged. “Honestly, I don't really know. It just seemed like a good idea at the time.”
+
+Clint just shook his head. “Grabbin' an angry ogre was a good idea at the time?” Clint laughed. “What happened when you hit the bottom?”
+
+“I was knocked out of the game for about a day or so.”
+
+“Game time?” Clint asked.
+
+“Nope. Real time.” Ren answered.
+
+“Oh, man. That's unbelievable. I can't believe you didn't die.” Clint looked at Ren closely. “I mean... we all reckoned you actually did kick the bucket.”
+
+The narrative has been stolen; if detected on Amazon, report the infringement.
+Ren shrugged. “I thought I was dead, too... until I woke up.”
+
+“Then what happened?”
+
+“According to the game, I was severely hurt and would be crippled for about 5 more days in game unless I got healed. I could barely move at first, but I forced myself to get up and started walking.”
+
+“What about the ogre?” Tommy asked.
+
+“The ogre! I was so concerned for myself that I completely forgot about it.” Ren smacked himself on the forehead. “I didn't even loot the body.”
+
+The players close by laughed, then Clint smiled and pat him on the shoulder. Ren let out a sigh. He was tempted to look up what kind of loot that an ogre would drop, but he didn't want to torture himself about it too much. How could he have been so stupid?
+
+“Don' worry about it.” Clint said. “You had a good excuse. Plus, you wouldn' have had to go through that if it wasn' for that asshole.”
+
+Ren nodded. He thought in silence for a few moments, then something came to him.
+“Hey, wait a minute. I haven't seen Tristan around. Is he avoiding me now that I'm awake?”
+
+It was Clint and Tommy's turn to be quiet for a minute. They looked at each other, then at Ren.
+
+“About that...” Clint said. “Tristan ain't avoidin' you. He's ain't here... at all.”
+
+“Wha... what? What happened after he tripped me?”
+
+Clink looked a little dejected. “I attacked him, actually. Damn near shoved his conceited ass right off the cliff so he could follow you.”
+
+Ren's insides got warm at the thought. Clint almost did that? For him? That is, people have stood up for him before, but it still made him grateful each and every time.
+
+“Then the cap'n of the soldiers intervened. I kinda blew up at him an' near got my own ass beat for it, but then...” Clint stopped and then chuckled.
+
+“What?” Ren asked.
+
+“The cap'n told Tristan to shut up... an' you know what Tristan's like. He just kept shoutin'... and the cap'n slapped him!” Clint laughed out loud and Tommy joined him. After a minute, they stopped like a switch had been flicked.
+
+“Tristan had a shocked look on his face while the captain shouted at him. He ordered the soldiers to put Tristan in chains, to be taken back to Aurora to be tried for treason. Before they could do that, Tristan was covered in this really dark aura... and disappeared.” Tommy said.
+
+Ren was shocked. “He what? Disappeared?”
+
+Clint and Tommy nodded and stayed silent. Ren thought about it, and he didn't know what had happened. Tristan was one of the special One-Of-A-Kind classes. He couldn't even look up what happened, since no one would actually know.
+
+Wow... anything could happen in this game!  Ren thought.
+
+Over the next two days travelling back to Aurora, they talked off and on about everything else that had happened. Ren continued his story, but didn't mention Teepo. He thought it was a really good idea to keep him a secret for some reason. It was like something really depended on no one knowing about him.
+
+When Ren finally got to the part about the Mole Men and the Underground City, and how it was their objective, everyone was hanging on his every word. He told them that he couldn't do anything about it, since he'd been so hurt, but they urged him to continue. He told them about digging, and the Mole Men coming to see what he was doing... and then about the explosion the Mole Shaman had caused and broke apart the wall.
+
+“So that's what it was!” Clint exclaimed.
+
+“Yeah, only it was a dam and not a wall...” Ren continued his tale, about almost drowning and then collapsing on the wooden structure.
+
+“Ha ha! That's how the captain got you!” Tommy said.
+
+“What?”
+
+“The captain was crossing the water when he was almost crushed by this big wooden structure. We heard a scream. We thought it was him, but it must have been you!” Tommy grinned.
+
+Ren didn't remember any of that. He only remembered falling asleep on the wood, and then waking up with everyone around him. Nothing in between.
+
+“The cap'n saved you, Ren.” Clint said.
+
+“I... I didn't realize... I have to go thank him!”
+
+Ren was about to run up to the front of the expedition, but Clint caught his arm.
+
+“It's okay. Ah reckon he knows. Just havin' you back with the party was all the thanks he needed.”
+
+Ren was going to object, but then he decided that Clint was probably right. He could thank the captain on a more personal level, later on.
+
+“After all that shaking and stuff, we all got the notice to go back to Aurora to complete the quest.” Tommy said.
+
+“Yeah, me too. I wonder what we'll get?” Ren said, excitedly.
+
+“Probably linched.” Clint said.
+
+“What? What are you talking about?” Ren asked.
+
+Just then, the captain called a halt to the march. The scout sent ahead to check the way returned to say there sounded like a riot going on in the city. The gates could be seen in the distance.
+
+“Alright, men!” The captain shouted... and then blushed. “Ah, and ladies... there seems to be trouble in the city. Stay sharp, and be wary.” He pointed to the players. “If there really is a riot going on, do NOT interfere. It's the soldiers job to keep the peace in the city limits. You will bring up the rear and keep an eye out for any bandits.”
+
+The players nodded their heads and formed a party behind the ranked soldiers. Ren and the support members formed up at the back.
+
+The captain moved to the front of the soldier's formation, drew his sword and banged his shield with it once.
+
+“Company... Double March! To Aurora!” He shouted.
+
+“Ahhhh!” the soldiers screamed as they ran to the city gates.

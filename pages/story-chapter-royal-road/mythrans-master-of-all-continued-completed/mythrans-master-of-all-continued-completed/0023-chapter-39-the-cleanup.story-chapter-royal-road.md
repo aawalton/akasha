@@ -1,0 +1,169 @@
+---
+id: 0e8ae8ed-360b-5829-a58d-86d1d3f68ad5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39 - The Cleanup"
+slug: 0023-chapter-39-the-cleanup
+partOf: mythrans-master-of-all-continued-completed
+position: 23
+ownLength: 2448
+unit: words
+publishedAt: 2016-10-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95716/chapter-39-the-cleanup"
+royalRoadId: "95716"
+---
+
+Ren woke up a short while later. He was facing up, had a piece of cloth tied around his face, and his chest was tied to the tree again. Owwww. That really hurt.  Ren thought and rubbed his head. It didn't hurt now, much to his relief. How long have I been out, Teepo?
+
+“Hm? I don't know.” Teepo said.
+
+Ren looked around but didn't see his friend. Teepo? Where are you?
+
+“I'm right here, Ren.” Teepo said.
+
+Ren looked down at the ring and remembered that if he lost consciousness, Teepo's astral form would disappear.
+
+“Summon Teepo!” Ren said and tapped the ring.
+
+Teepo's astral form appeared in front of Ren and climbed onto his chest. Ren reached out and stroked his carapace.
+
+“Sorry about that. I don't know what happened.”
+
+“It's okay. It's not like you did it on purpose, unlike what a now deceased uncle used to do to me.” Teepo said and then chittered in laughter. “I'm so glad he's dead!”
+
+Ren smiled. At the time, he'd felt sorry for the beetle he'd stepped on by accident, but once he'd found Teepo and heard his sad tale about his father's murder and his uncle's revenge, Ren's regret had diminished to the point that he didn't feel sorry at all.
+
+Ren untied himself from the tree and stood up. He didn't feel woozy or anything and walked over to the edge of the platform. Ren looked over the side and saw Aimus collecting pelts from the giant rats. There was a large pile of pelts stacked next to the tree. Aimus must have been skinning them for a while to have that many already. Ren climbed down the ladder and walked over to where Aimus now stood.
+
+“So... how are you feeling?” Aimus said.
+
+“I'm okay. I just had a bad reaction to the smell.” Ren said.
+
+“I figured. After you... ah... emptied your stomach... and passed out, I put you back beside the tree and covered your nose.”
+
+“Thanks, Aimus.”
+
+Aimus shrugged and picked up another rat. It was going to take a long time to skin them all.
+
+“If you have a spare skinning knife, I can help.” Ren said.
+
+Aimus reached behind his back and pulled out another knife. Ren took it and examined it.
+
+Head Knife (Slightly Dull)This blade is used for skinning. 
+Durability: 20/30
+
+
+
+Ren nodded and walked over to the stack of pelts to sit down. Ren took out his blacksmith's tools and repaired, sharpened, and polished the blade. Ren examined it again.
+
+Head Knife (Extremely Sharp)A skilled craftsman has sharpened and polished this blade to be an effective tool for skinning. 
+Durability: 40/40
+
+
+
+
+Ren had a big grin on his face and went to the nearest giant rat corpse. Ren watched Aimus as he did the same technique he'd shown Ren with the rabbits. The proportions were slightly different, especially around the head. Ren watched Aimus do 2 more rats and picked one up himself. Ren used the head blade and the proper technique to pop off the rat's pelt, and it wasn't even ragged on the edges. A sharpened knife helps a lot, apparently. Ren continued to harvest giant rat pelts, and then looted the remains. Thankfully, the bodies disappeared after being looted. Ren didn't get much from them, though. Sometimes claws, teeth, or rat tails were left, and a couple copper coins. Ren felt it get easier and easier to make the pelts and their quality increased. After several hours of working hard gathering pelts and loot, Aimus finished cutting off the last pelt and Ren looted the body. They sat down next to the tree and drank some water.
+
+Stat Change!You're dilligent and tireless work has allowed you to increase your ability. 
+
+Skinning Level 5 (Intermediate 25%) 
+This sub skill under Leatherworking allows you to aquire quality pelts from animals.
+
+
+
+Yes! Ren thought. My Leatherworking is still only Basic Level 2, but that's okay.
+
+Ren put his water skin away and turned to Aimus. “I need to disenchant all the water glyphs I've left in the forest.”
+
+“I was wondering when you'd remember to do that.” Aimus said. “In fact, we probably should have done it before we did all this.” Aimus said and motioned to the dozen stacks of pelts next to the tree. “They're going to be soaked and rotted before we can get them back to the homestead.”
+
+Ren stood up and grabbed a giant rat pelt and put it in his inventory. To Aimus' eyes, the pelt just disappeared.
+
+“Hey, what did you do?”
+
+“It's okay. I'm just putting them away until we get back to your place.” Ren said and kept grabbing pelts and stacking them into his inventory. He had no idea how many pelts they had, since he'd lost count after the first 50 or so. When Ren was done storing all the pelts, he counted the slots they took up.
+
+“Whew! Over 3 and a half. That's a lot.” Ren said and looked at Aimus, who had a shocked look on his face. “Oh, sorry. There's 365 pelts.” Ren had completely misunderstood the reason for Aimus' expression.
+
+“Ready to go?” Ren asked.
+
+Aimus stood after a moment and shook his head. I really shouldn't be so surprised. My mother even warned me to get used to the feeling.  “All right, let's go.”
+
+It took another hour, but the pair went around the forest and Ren used Dismantle Glyph to remove all the water glyphs. Ren was tempted to leave some of them, just in case the fire somehow restarted, but the ground was soft and made squishing sounds when you stepped on it.
+
+I think it's wet enough.  Ren thought and even disenchanted the rocks at the river... and saw how Aimus had looked at them. Ren slipped a few nice sized ones into his inventory to enchant for Aimus later.
+
+Their work done, they went back to the lookout to make sure everything was okay and headed back to the homestead. Aimus asked Ren not to cut a path through the underbrush near the lookout. Even though it was enchanted to not be found, if there was a path that led right to it... that would defeat the purpose of hiding it in the first place. Ren agreed and they took their time to get back to the spot they'd had to detour from because of the rats. The journey went much quicker once they reached the nice sized path Ren had cut through the underbrush.
+
+Ren and Aimus arrived back at the homestead just as the sun set. Teepo had stayed on Ren's shoulder the whole time and occasionally asked about the things he saw. Teepo seemed much more timid than he was before this whole incident happened. Ren wasn't sure if he should encourage his friend to keep going out there and exploring, or keep him close. He didn't know if there was anything else out there that could hurt Teepo like that apparition did, but it wasn't good to just stay safe and not do anything, either.
+
+This story originates from a different website. Ensure the author gets the support they deserve by reading it there.
+
+Aimus and Ren went inside the house and had a nice supper with Abigail and Ana. They talked about everything that went on, but Aimus had asked Ren to leave out the whole spirit of lightning thing. It was a subject Aimus did not want to discuss with his wife and child. When supper was done, they said goodnight and went to their respective beds. Ren was tempted to log out for the 'night', but he'd only be sleeping out there, too. Ren decided to stay logged in and went to sleep almost as soon as his head hit the pillow. Teepo hopped off Ren's shoulder and onto the little table beside the bed. Ren smiled and closed his eyes.
+
+The next 'morning', Ren greeted Teepo, who had been on the ceiling and looking through the cobwebs in the corner. Ren smiled. He didn't have to talk to Teepo about maybe trying to explore after all. Ren slid out of the bed, went into the kitchen, and enjoyed eating breakfast with Aimus' family. Aimus left the house afterwards and Ren followed him outside.
+
+“Are you heading out to check your traps today?” Ren asked.
+
+Aimus didn't respond until they were outside the little shed behind the barn. “No.”
+
+“Why not?”
+
+“I think you know the answer to that.” Aimus opened the door to the shed. “I've had just about enough excitement to last me for a while. Haven't you?” Aimus went inside and took a shovel and a pick from the wall. Aimus came back out and handed the pick and shovel to Ren.
+
+“I need a bigger trench to treat all the pelts.” Aimus said and walked 10 steps away from the shed. “From here....” Aimus turned and walked about 30 feet, directly away from the house. “...to here.”
+
+Ren put the pick down and walked over to where Aimus had said to start digging. Aimus was about to tell Ren that he needed the pick to break up the ground, but Ren pulled out his own pick and made the shovel disappear.
+
+“How big do you want it?” Ren asked.
+
+“About 4 feet across and 4 feet down.” Aimus said. This should keep him busy for most of the day.  Aimus thought. I need to stop him from getting himself... and me... into any more trouble.  Aimus walked over to the barn to get out the tent his mother had made for him.
+
+Ren started to dig with the pick. He could have used the one Aimus tried to give him, but since he already had one, it was only fair to use that one instead. Plus, I'm used to the feel of this one.  Ren thought and felt the pick dig into the earth easily. Huh. I guess I'm too used to mining in rock. Digging in dirt is just plain easy!  Ren smiled. Teepo chittered in delight as the dirt flew past Ren's shoulder and quickly made a game of dodging the clumps of dirt as they passed by.
+
+Aimus got the tent out of the cart and dragged it out of the barn. It wasn't that the tent was heavy, but just awkward to move around with only one person. Once he got it onto the short grass of the field, it was much more manageable. Aimus dragged the tent out to the middle of the field and unfolded it. When he was finished, he was a bit surprised at the size of it. His mother always did do good work. He'd even shown up early and she'd had it finished already. He'd expected to have to wait at least another day or so for her to complete it. Aimus went back across the field to the barn to get the supporting poles he'd made to use in the tent. He picked up the ends of two of them and dragged them out of the barn. He dropped them beside the unfolded tent and then went back to the barn for another pair. There were 8 in all.
+
+“Here, let me help with that.” Ren said and picked up the ends of the poles that were dragging on the ground.
+
+Aimus didn't turn around when Ren spoke, and the weight of the poles was cut in half. When they got to where the tent was in the field, Aimus said to put down the poles along a different side.
+
+“Thanks for the help, but I thought I asked you to dig a trench?” Aimus said.
+
+“I'm done. I wasn't sure where to put the dirt, though. I just left it in a long pile by the trench.” Ren said. “I hope that's okay?”
+
+Aimus' eyes bulged out of his head. “You're done?!?”
+
+“Yeah.”
+
+Aimus couldn't believe it. There's no way he could have finished it so quickly!  Aimus thought. It's only been about half an hour!  Aimus walked back to the barn and around it to the shed. Sure enough, right there for his eyes to see, was a 4 foot wide and 4 foot deep trench, stretching out about 30 feet away.
+
+“H...how?” Aimus stammered.
+
+Ren shrugged. “I worked in the mines for a while. After that... digging dirt like this was easy.”
+
+Aimus was astonished. Again. This kid... what the hell is he?
+
+“What are you?” Aimus said.
+
+Ren shrugged again. “I'm an Adventurer.”
+
+That was the game's key phrase to tell NPCs to explain certain situations and their abilities.
+
+“I know that.” Aimus said and shook his head. “But, still... you can't be a normal one.”
+
+Ren squinted his eyes and stared at Aimus.
+
+“I didn't mean it like that!” Aimus said and raised his hands in a calm down gesture to placate Ren before Ren got mad. “I've seen adventurers and what they can do. Some of it is amazing... but I've never... the things you can do...” Aimus put a hand on Ren's shoulder and Teepo skittered out of the way. “You're something special, Ren.”
+
+Ren ducked his head so Aimus wouldn't see him blush.
+
+“In fact, now that I think about it, you're too special.” Aimus said and took his hand off Ren's shoulder. “You seem to get into situations that... frankly... no one could, or would, be prepared for.” Aimus said and sighed. “Up until now the shenanigans have been far enough away from my family that I haven't said anything, but that last... encounter... was just a bit too much, even for my own love of danger.”
+
+Aimus walked back to the barn to get the rest of the poles for the tent. Ren followed quickly behind.
+
+“There'll be no more going out into the fields, or into the forest, or doing anything else outside of the homestead for the rest of the month.” Aimus got to the barn and turned around. “Let me be clear. If you leave the homestead, at any time or for any reason during the rest of your stay here... you won't be welcomed back.”
+
+Ren looked at Aimus and saw his face was deadly serious.
+
+“I will not have my family put in danger. When I go out, I make sure it's far enough away that if anything happens, it won't get back to them. I can't let you do anything that might make something dangerous just appear out of thin air!” Aimus shook as he remembered the lightning golem. “I don't want anything that could hurt them to ever get near here. Understood?”
+
+Ren nodded. “Yes, sir.”

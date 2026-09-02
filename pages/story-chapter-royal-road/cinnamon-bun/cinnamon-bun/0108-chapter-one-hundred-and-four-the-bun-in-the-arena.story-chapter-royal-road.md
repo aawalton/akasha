@@ -1,0 +1,177 @@
+---
+id: 13585610-e082-517e-a0c5-e73a3f89cd33
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred and Four - The Bun in the Arena"
+slug: 0108-chapter-one-hundred-and-four-the-bun-in-the-arena
+partOf: cinnamon-bun
+position: 108
+ownLength: 2045
+unit: words
+publishedAt: 2020-10-06
+link: "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/565406/chapter-one-hundred-and-four-the-bun-in-the-arena"
+royalRoadId: "565406"
+---
+
+Chapter One Hundred and Four - The Bun in the Arena
+
+“Thank you!” I said to the old shopkeep. The man grinned at me and pocketed the few coppers I’d left on his counter with a swipe.
+
+They were coppers well spent. I tossed one of the little sacks full of tea leaves I’d bought into the air and then caught it before turning to my friends.
+
+“Okay, so this is my plan,” I said.
+
+All four of us--the girls and Booksie... who was also a girl but not yet ‘one of the girls’-- were a block away from the square where the tournament would take place. Even from as far as we were, I could hear the excited babble in the air as hundreds of people gathered for the show.
+
+“I’m gonna make some tea,” I said. “Lots of tea. And you three can sell that tea to the people watching the show for a few coppers each. I’ll betcha we’ll make tons of money in no time.”
+
+“You think that, huh?” Amaryllis asked.
+
+I was sensing some doubt. Lots of doubt. 
+
+“It’s a dumb idea,” Amaryllis said. 
+
+I slumped. 
+
+“Not only will you only raise, at most, a few dozen sil, you’re also putting yourself at risk. Do you know how many grabby men will be in those stands? I don’t want to see Awen carried off to a cell because she placed a bolt into some young fool whose hands wandered further than his eyes.”
+
+Awen nodded. “That would be bad. Um. Not that I’d kill someone... in public like that.”
+
+I slumped. “Darn,” I said.
+
+Amaryllis rolled her eyes and patted my shoulder. “It’s not that big a deal. It’s not even that bad an idea. C’mon. We can get some tickets in one of the boxes and you can sell some tea to the people there, at least.”
+
+“Really?!” I asked. I felt my ears perking up on my head and rubbing against the two holes I had Awen drill into the top of my hat. 
+
+I kept idly juggling my tea bag as I followed Amaryllis out of the general goods store and towards the centre of the town. There didn’t seem to be tickets or anything like that. Instead, a row of guards were blocking off the entrances to the square and demanding payment up front to allow people in. 
+
+A flash of gold on Amaryllis’ part and we were let in and even escorted through the rougher parts of the crowd by a friendly young guardsman.
+
+There were so many people trying to fit into the square that moving was a bit of a chore, but as we arrived at the back of part of the stadium and were guided towards a wooden staircase, the crowds lessened a little.
+
+“Ohh,” I said as I stepped onto the top of a viewing platform. There were three rows of benches with enough room for maybe fifty or so people, though there were only half as many attendees in the box when we arrived. The back and sides had waist-high walls to keep people from falling, but the front only had a little rail across it.
+
+I could see the arena below, a ten by ten meter square of what looked like granite raised out of the middle of the town’s square, with rails all around it and, a few meters back, huge boxes built in tiers where people were standing and milling about. 
+
+Unlike the stadiums back home, there wasn’t any seating down below. Chairs, apparently, were for the people able to afford the nicer boxed seats.
+
+“Awa, there has to be a thousand people here,” Awen said as she stared across the throng of people.
+
+I caught sight of harpies, cervids and sylphs, even a few grenoil standing tall to see the stage. And, of course, there were lots of humans. 
+
+Amaryllis was quite smug as she sat down in the front row, and soon Awen and I joined her. Booksie paused for a moment before sitting down too. I was a little worried that she would feel bad, but she was smiling. Maybe she would be swept away in the fun and would forget her worries for a bit.
+
+I set down my pack halfway under my bit of the bench, pulled out my tea kettle, and started to warm up a few cupfulls of water. 
+
+“Are you still doing that?” Amaryllis asked.
+
+I shrugged my shoulders. “Might as well grind the skill,” I said.
+
+I was just passing my friends some steaming hot mugs of their own when a shadow paused before me. When I looked up, it was to meet the wide eyes of the portly town mayor. He was standing next to a tall, skinny man who was all bones and who had a big bushy mustache riding his upper lip. “Um, hi?” I said.
+
+“Ah, yes, hello,” the mayor said as he doffed his hat. He looked to my friends, then back to me. “Are you... ah, but you didn’t have the ears. But... perhaps disguise magic?”
+
+“I’m sorry, but, what?”
+
+The mayor shook his head and plopped his hat back on. “Forgive me dear, but, ah, could you perhaps tell me.” He paused and licked his lips. “Did you happen to, um, converse with a dragon, say, yesterday afternoon.”
+
+“Oh, yeah, that was me,” I said with a nod.
+
+“Ah, yes, you... seemed familiar, but you weren’t wearing the same thing,” he said.
+
+“A girl can own multiple sets of clothing,” I said. Though... I wasn’t currently one of those girls. 
+
+The mayor nodded along. “Of course, of course,” he said before looking at my head. 
+
+I realized he was looking at my ears. “Oh. Yeah, those are new.”
+
+“Ah,” he said.
+
+“Now now, we’re hardly being polite, now are we,” said the man next to the mayor. “Hello my dearest and my dearest’s friends. I am Zac John Honenheim, but everyone calls me Zac.” He took my hand and gave the back of it a smooth kiss. “A pleasure to meet you!”
+
+“Hi!” I said. “I’m Broccoli Bunch, this is Awen, and that’s Amaryllis, and this is Booksie!” 
+
+Unlawfully taken from Royal Road, this story should be reported if seen on Amazon.
+
+“Gorgeous, all of you,” Zac said with a huge grin. “Why if I could parade you in front of these crowds I wouldn’t need to put on a show at all!”
+
+“Thanks? I think?”
+
+“Indeed! Tell me miss Bunch, are you a fighter? A bit of a daringdoer?” He asked with a waggle of his eyebrows. 
+
+“A bit, I guess.” 
+
+“My! Did you hear that, James my old pal! She’s got some fight in her yet!” Zac said to the mayor before turning back to me. “Tell me miss Bunch, how would you like to make a quick copper?” 
+
+I blinked. “Um. That would be nice, but we’re looking for ways to make quick gold right now, not copper.”
+
+“Hah!” Zac barked. “Aren’t we all? Tell you what. You seem to be the subject of a lot of gossip right now. Lots of chit and chat and so on. Now, that’s an opportunity we can’t miss out on! I just so happen to be missing one of the lads that’s supposed to fight this morning. Fellow in the tenth level, ate something disagreeable. That means I have a slot in my tournament line up, a Bunch-shaped slot.”
+
+“Oh, I see,” I said. I was already shaking my head. “I’m not really into hurting people, I’m afraid.”
+
+“No one gets hurt in a Hohenheim tournament my dear; it injures me to even hear you say as much! No no, we have the very best healers from the Slyphfree mountains and our very stage is enchanted to prevent mortal wounds. You’ll be as safe as a rabbit in its burrow.”
+
+I looked at my friends. Booksie looked amused, and Awen was wide-eyed in either shock or awe at Zac’s presence. But it was Amaryllis’ reaction that I really wanted to know. She was smart, smarter than I was at least, and I trusted her judgment. 
+
+“If you want to,” Amaryllis siad. “But not before discussing price.”
+
+“Oh, a shrewd one!” Zac said. “Five sil a fight. And of course the entire prize if you win your bracket.”
+
+“Single eliminations?” Amaryllis asked.
+
+“Indeed.”
+
+“Then that’s chump change. Two gold per fight.”
+
+“Tw-- my dear lady,” Zac said as he slapped his hands over his heart. “As beautiful and blessed as Miss Bunch may be, is she truly worth so much gold?”
+
+“Ask the dragon she scared off.”
+
+Zac considered that for a moment. “One gold.”
+
+“One and five pure silver.” 
+
+“One gold, and then five pures atop every fight she wins. So one gold in the first, then one and five, then one and ten and so on,” Zac said.
+
+Amaryllis hummed. “How many rounds?”
+
+“Four my dear,” was the quick reply.
+
+Amaryllis nodded. “If she wants it. Swindle us and we’re telling our dragon friend. You pay whether or not she wins. And if she’s injured after your precious little healers are done fixing up her bruises, I will copy any wounds onto your flesh.” She smiled even as her feathers puffed out and little snaps of electricity sparked in the air. 
+
+Zac blinked, his smile growing a little faint, and the mayor looked a little pale. “P-pardon?” he mumbled.
+
+“Cool!” I said. “I never fought in an exhibition match, but I’m sure my experience will help,” I said.
+
+“Your experience with exhibiting yourself?” Amaryllis asked.
+
+I huffed at her. But when Zac extended a hand at me, I shook. That much gold could help Booksie a lot, and it did sound like a lot of fun. That, and if the fights were so civilised, then I was sure I could tap out if things became a little too hairy.
+
+I downed my cup of tea, then hopped to my feet. “Where to?” I asked. 
+
+“Ah-hah, we have a room for our brave combatants to wait in! Follow me!”
+
+I waved goodbye to my friends and followed Zac as he rushed down the stairs two at a time. The mayor was left wringing his hands behind us, but Amaryllis was soon grilling him. “This year’s group is very exciting! Some real crowd pleasers. I think we’ll have ourselves a rousing success!”
+
+“That sounds great,” I said. I got to the bottom of the steps and straightened my skirts. I had to at least make an effort to look good. “Ah, I didn’t bring my shovel!” I said.
+
+“Your shovel?” Zac asked as he led me towards out of the area around the square and towards a large brick house set to the side of the square, the very one that had had a bell tower the day before.
+
+“My weapon,” I said.
+
+“No worries dear! The only weapons we allow our combatants to use are those enchanted to be quite harmless. Ah, I hope you’ll give the other fighters the same courtesy. We’re here to put on a show, not spill--too much--blood.”
+
+“I get it,” I said. “Kind of like boxing back home, I guess.”
+
+Zac nodded to two people standing by the doors to the building, then barged in without so much as a knock. “I return!” he cheered.
+
+The room was filled with people, nearly all of them--with the exception of three straight-back sylphs in one corner--were wearing armour of one sort or another. The men were bare chested, showing off oiled muscles, and the women were all huge amazons that looked like they could punch someone through a wall.
+
+There were a few mages, and one or two shifty looking folks wearing lots of loose clothes while they stalked the darker corners of the room.
+
+“Everyone, this is miss Bunch! She’s going to replace Jimmy today!”
+
+A lot of very unfriendly eyes turned my way.
+
+Part of me wanted to back off and nope out. But that part of me knew that I’d never make friends with that kind of attitude. I took a deep breath, made sure I was wearing my best smile, then stepped up. “Hello! I’m Broccoli!” I said. “Let’s have lots of fun!”
+
+***

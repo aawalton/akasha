@@ -1,0 +1,137 @@
+---
+id: 2e2a74b5-7540-5c79-927b-c9fb1f52c49a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 - To The Rescue"
+slug: 0019-chapter-35-to-the-rescue
+partOf: mythrans-master-of-all-continued-completed
+position: 19
+ownLength: 2039
+unit: words
+publishedAt: 2016-09-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95113/chapter-35-to-the-rescue"
+royalRoadId: "95113"
+---
+
+Aimus got to the bottom of the ladder and turned around. “Ren!” Aimus unhooked his bow and quiver. “REN!” Aimus shouted, but there was no response. “Dammit, this is a bad idea.” Aimus said and went into the underbrush himself.
+
+10 minutes later Ren passed between a couple of trees and felt some kind of energy crawl down his spine. It felt like he should run for his life. Something was going to get him! He stopped walking and visibly shook. “No.” Ren said and activated Serene State Of Mind. A calmness filled him and he could think rationally again. Ren walked back through the same couple of trees and activated Enchanted Eyes. All the trees glowed with enchantments. Ren activated Read Rune and Decipher and looked at the closest tree. A glyph unlike anything he'd ever seen before was burned into the tree. He couldn't make heads or tails of it; but, he knew that it was the cause of the irrational fear and need to escape that he suddenly felt. Ren used Dismantle Glyph consciously, reached out and touched the glyph on the tree. It shattered, but Ren didn't learn a new rune from it. He touched the nearby tree and dismantled that glyph as well.
+
+With Serene State of Mind activated, he couldn't tell if destroying those glyphs had made any difference in the fear feeling, but he didn't want to take the chance that it didn't and kept Serene State Of Mind on. His mana fell at a much quicker rate with 4 abilities going, so he took out a mana potion and drank it. It refilled his bar, but since it was a constant drain it didn't help much. Ren jogged among the trees and touched each glyph in turn, cutting a path through the dense cluster of Terror Trees. Some were absorbed to keep his mana up and others were destroyed so he could try to learn something from it. At the 23rd tree, Dismantle Glyph finally worked to it's potential.
+
+Notice!You have learned a new glyph!
+
+
+
+Ren stopped to see what it was and took out his Book Of Runes. He flipped to the last page of the single runes section. He was a little shocked to see what it was.
+
+Rune of TerrorThis rune causes great fear in anyone that is near.
+10% chance to flee in fright.
+Can be combined with other runes or glyphs for extra bonuses and greater effects.
+
+
+
+Ren looked up at the tree he stood beside and stared at the glyph. He counted 10 instances of the Rune of Terror, which guaranteed that anyone near would flee in fright, but the rest of the glyph was just squiggles and scratches. Why would someone go to all the trouble to enchant such horrible things onto so many trees in a forest?  Ren thought. It can't be just a burial ground, can it? What were they really hiding?
+
+“Treasure.” Teepo said.
+
+What?
+
+“It's treasure. I could hear the thing mumbling about protecting the treasure as it chased me.”
+
+Ren shook his head. I'm going to finish making a path through these things and I'll be right there.
+
+“Thank you, master.”
+
+You don't have to thank me, Teepo. You're my friend. I'll do everything I can for you.
+
+Teepo didn't say anything more, but Ren could feel the relief and appreciation that Teepo felt. Ren deactivated everything except Enchanted Eyes and jogged along the trees, destroying all the glyphs he could reach. He moved towards the direction Teepo's voice had come from and stopped when he reached a kind of clearing. A small mound of earth was in the center, covered in vines, tree roots, and moss. Ren looked at the surrounding trees and they all had similar glyphs to the one that had the Rune Of Terror in it. He stepped forward and hit an invisible wall.
+
+“Ow!” Ren said and rubbed his nose. He reached out and felt something was there. Some kind of barrier blocked the way. Ren's Enchanted Eyes hadn't picked it up, though. He activated Read Rune and Decipher to look down at the ground. Glyphs like the one he'd seen in the mountain pass covered the ground, only these ones were more elaborate. It looked like two or three glyphs were overlapped into one whole glyph. Ren didn't care about getting anything from it so he deactivated Read Rune and Decipher, used Absorb Enchantment, and sucked all the mana from it... or tried to, at least. Ren started to get a headache a minute later and the enchantment was still there. Ren watched his mana bar fill quickly... and then it stopped. Ren kept watching in astonishment as a second mana bar, a green one, overlapped the blue one. The enchantment glyphs slowly disappeared as they were drained and the new mana bar gradually filled up. By the time the wall was down, the new green mana bar was full. Ren sat down and rubbed his head.
+
+Notice!You have unlocked a Special Class Skill!
+
+
+
+New Skill!Mana Pool
+This skill allows you to gather mana into a holding pool.
+It can be used just like regular mana, but won't be affected by your mana regeneration. Once the pool is drained, any mana use will come from your normal mana source instead.
+
+
+
+“God, that hurts. It feels like my skull is on fire.”
+
+“Master! It's found me!” Teepo said. He wasn't whispering this time.
+
+Ren stood up and ran to the mound in the center. Enchanted Eyes showed Ren a glyph near the base and he used Dismantle Glyph on it. A small section of dirt collapsed and Ren jumped into the opening. He slid down a collapsed wall and ended up in a small hallway. He'd completely forgotten about the pain from all the extra mana he carried.
+
+Help support creative writers by finding and reading their stories on the original site.
+
+“Teepo! I'm here!” Ren shouted.
+
+“Ahhhhhh!” Teepo screamed.
+
+Ren knocked an arrow into his bow and ran towards the sound of Teepo's voice. He took two corners and came to a dead end. “No!” Ren doubled back and entered a room in the previous hallway and came out the other side. “Teepo!”
+
+“Reeeeeeeeenn!” Teepo hollered.
+
+Ren took off down the corridor and ran into a large cavern. Columns and debris were all over the place. It looked to be a natural cave, but it had stone carved walls and stone flooring with intricate details carved into the surface. Ren hopped over a fallen column and saw a ghastly sight. A kind of apparition had cornered Teepo against some kind of altar that was half smashed, but you could still make out that it was intended to make offerings. Right now though... it's offering was Teepo.
+
+“Get away from him!” Ren shouted and shot an arrow. It passed through the apparition as if it wasn't there.
+
+“Ren! Help! It... it's draining.... meeee.......”
+
+Ren saw that Teepo's bright blue color was fading and that whisps of his astral projection were being sucked into the apparition like smoke into a vaccuum. Ren didn't panic, though. He activated Serene State Of Mind and thought about the situation. If it's an apparition, then it's a ghost of some kind. If it's a ghost, then it's undead. If it's undead, then...
+
+Ren smiled and grabbed another arrow from the quiver and held it in his hand. A glyph appeared on the tip of the arrowhead and Ren notched it to his bow.
+
+“Activate.” Ren didn't think he had to say that, but it was better to be safe than sorry. The glyph glowed a bright white and he let the arrow fly.
+
+It hit the apparition in the back and a bright flash of white engulfed it.
+
+“AaaahhhhhhhHHHHH!” It screamed and passed through the altar to get away from what had hit it. It went across the room and passed through the solid wall at the back of the cavern.
+
+Teepo ran over to Ren who picked him up.
+
+“Hey, how are you, little buddy?” Ren said and deactivated Serene State Of Mind.
+
+“I'm fine now, Ren. Thank you.” Teepo said.
+
+“Anytime.” Ren said. “Think we should find this thing and finish it off?”
+
+“Oh, definitely!” Teepo agreed. “It'll be nice to let it feel a little bit of how it made me feel, as it hunted me the last few hours.”
+
+Ren took out all of the arrows and enchanted them with the Glyph of Holy Light. He put them back in the quiver and notched one to his bow. They went over to the solid wall that the apparition went through. Ren used Enchanted Eyes, but didn't see anything and turned it off.
+
+“There's no way inside.” Teepo said. “I've looked for hours and couldn't even find a crack to squeeze through!”
+
+Ren smiled. “Teepo, you remember how we first met, right?”
+
+“Yes. It was the best day of my afterlife.”
+
+“Mine, too.” Ren said and laughed. “Best day I mean, not the afterlife part.” Ren took out his mining pick and spun it in his hand. “Who needs a door, right?”
+
+Teepo chittered in laugher. “Floating through a wall? It's not going to get away that easily!”
+
+Ren swung the pick as if he were mining for real and dug a man-sized hole in the wall in only a minute.
+
+He put the pick away and entered the room behind the wall. Both Ren and Teepo were bathed in terror. They had to escape! Ren jumped out through the opening he'd made and landed on the floor. Teepo hung on and Ren rolled onto his back. Dammit, I fell for it again!  Ren thought and stood up. He used Enchanted Eyes and looked around the inside room. Glyphs covered the walls and floor.
+
+“Teepo, you better stay out here for a minute.” Ren said and Teepo hopped off his shoulder and onto the side of the opening Ren had made. Ren activated Serene State Of Mind and entered the room, then touched each of the glyphs that he could see and used Dismantle Glyph. A few minutes later, he'd cleared everything that he could reach and went back to the opening to pick up Teepo.
+
+Inside the room was a raised platform and on it was a column of rock about 10 feet wide that went right up to the ceiling. Two statues holding shields stood on each side of it. If Ren guessed the distance correctly, they should be right under the main mound of the clearing. Teepo was disappointed that the apparition wasn't in the room, but Ren pointed out that if this was it's regular haunt, then it would be back. Teepo agreed. Ren went to look closely at the statues by the column of rock and felt a familiar pulse.
+
+No way!  Ren thought. NO WAY!
+
+A ghostly hand came out of the column of rock, followed by the rest of the apparition. It happened so fast that Ren reacted without thinking, raised his bow, and shot it. The bright light in the small space blinded both Ren and the apparition.
+
+“AaaahhhhhhhHHHHH!” It screamed and passed back into the column of rock.
+
+“I'm sorry!” Ren shouted, but he sincerely doubted if the apparition could actually hear him.
+
+“Why are you apologizing?” Teepo said with a bit of disgust in his voice.
+
+“I know who that is.” Ren said as he notched another arrow onto his bow.
+
+Ren may have known who it used to be, but that didn't mean that this thing couldn't still be a real danger to him and to Teepo. Ren got his pick out again and dug at the column. When he got about halfway through, he unearthed a larger chunk of a strange gem like ore that had a slightly green glow. Nestled around it was the apparition. It hugged the stone as if it's 'life' depended on it, and as far as Ren could determine, that might actually be true. Ren put his pick and the bow away, and took a handful of arrows from the quiver.
+
+“I really am sorry about this.” Ren said... and stabbed the apparition with the handful of enchanted arrows.

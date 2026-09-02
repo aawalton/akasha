@@ -1,0 +1,143 @@
+---
+id: bd4c2e9a-87a2-5a46-99e8-0ae417e4e3a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Eight - Hitting the Fan"
+slug: 0070-chapter-sixty-eight-hitting-the-fan
+partOf: stray-cat-strut-stubbing-never-lol
+position: 70
+ownLength: 1475
+unit: words
+publishedAt: 2020-10-18
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/570945/chapter-sixty-eight-hitting-the-fan"
+royalRoadId: "570945"
+---
+
+Chapter Sixty-Eight - Hitting the Fan
+
+“The casualty rate for Samurai in the field is nearly two percent. 
+
+That might sound low to most, but that’s higher than the casualty rate of any normal job available out there. It’s twenty times higher than the rate at which soldiers die on average, even in times of active war. 
+
+What does that mean to normal folks though? Sure, Samurai die, and sure, they die fairly often, but to Joe Average that’s nothing, right?
+
+It becomes something when you realize that the best estimate on the number of Samurai worldwide is barely in the seven digits. Each loss is a blow to humanity’s chances of surviving.”
+
+--Excerpt from a censored late-night interview with former statistician Patric Whelbler.
+
+***
+
+Shit had, in my experience, an incredible ability to go from a calm standstill to hitting a fan in a miraculously small amount of time and with suddenness that was downright jarring at times.
+
+Even as the gigantic alien bird rammed into the glass-walled bridge we were standing on, my mind was still trying to work through the conversation with Gomorrah. Maybe I wasn’t used to fighting enough yet to be able to afford being distracted like that.
+
+Sharp black claws punched through safety glass and tore into the sides of the bridge as if the walls were made of so much cardboard. The floor kicked out from under me, and with my one lame leg, it took everything I had not to fall onto my ass.
+
+“Run!” Gomorrah screamed.
+
+She put actions to words and sprinted to the far end of the bridge.
+
+I didn’t have any such luck. My footing was already screwed and my balance thrown off. The huge alien face crashing through the glass stretching towards me was all it took for me to stumble backwards instead of running ahead.
+
+I tried to bring Whisper around, but by the time I did the alien’s head had torn its way out of the bridge leaving a me-sized hole in its side that allowed the rain and wind from outside to pour in.
+
+My crossbow was swinging around to aim at the alien through the glass when the bridge creaked.
+
+It felt like I was in one of those ancient cartoons. The whole world paused for a long second while the metal groaned and, finally, snapped.
+
+An I-beam crashed through the floor on the side the alien had hit, and the bridge twisted.
+
+The huge bird scrambled out and onto the top of the bridge, casting a deep shadow down onto me as its weight came down on the only side holding things up.
+
+And then, just like that, the bridge gave way.
+
+I saw Gomorrah at the far end stumble to safety as everything went sideways. My shoes found purchase on the sleek floor just as it began to tilt down. Even through my ear protection I could hear the entire structure coming apart.
+
+There was just enough time for a well-deserved “Fuck!” as the bridge came tumbling down, and it brought me down with it.
+
+In those moments of free-fall, I had entirely too long to wonder just how many floors up we were.
+
+The bridge hit something, glass and metal rending, the motion of everything around me coming to an absolute and jarring stop.
+
+I bounced off the floor hard enough to expel the air out of my lungs and the back of my head, which hit just a moment later, exploded in a whole new sort of pain that sent stars scattering across my vision.
+
+Rolling down the now nearly vertical bridge was an interesting sensation that ended with another painful thump against a glass facade.
+
+I didn’t move for a bit, too much pain and confusion running through me all at once for my mind to keep up. Still, I figured some of the many, many drugs I’d taken that day were circulating around because it didn’t take too long for me to come back to my senses.
+
+I was laying atop a pane of glass. Not the hard asphalt of the road below.
+
+It took some mental gymnastics and some staring down and into another passageway for me to figure out what had happened.
+
+The bridge I’d been on had been shorn apart, and then it did what most things did when gravity got to them. I was just stupidly lucky enough that there was another bridge beneath.
+
+This book was originally published on Royal Road. Check it out there for the real experience.
+
+A bridge which groaned under me.
+
+Coughing a few times, I took some deep breaths and rolled onto my back. The sky was barely visible above me, the twenty or so feet of bridge I’d fallen with like a tunnel pointing to the heavens.
+
+I ignored the few raindrops splattering my cheeks and face and just took a moment to be thankful I wasn’t so much goop on the streets below.
+
+Cat?
+
+“Yeah?” I muttered.
+
+Cat, that was a Model Eleven. It is undoubtedly still alive, and it is smart enough to come back for you.
+
+“Ah... shit,” I said. “Can you tell it to give me a minute?”
+
+Claws rammed into and through the walls of the bridge section above me and I screamed as I rolled into a ball to protect myself.
+
+The entire vertical shaft flipped over, somehow missing me as it fell off the side of the bridge I was now on. I could have sworn that bits of metal moved so close to me that I felt them whispering past my side.
+
+And then the rain hit in full as what little cover I had was gone.
+
+I started to roll onto my feet only for my boot to go off the edge of the bridge’s sloped roof. I decided to go a bit slower after that.
+
+A bit of looking around was enough for me to spot the Model Eleven swooping back up a moment before a catastrophic crash resounded from below. No doubt the bridge segment finally hitting the ground.
+
+The bird had to flap hard to turn in the limited space in the road, but it did, and then it was coming right for me.
+
+“Guns!” I called out.
+
+Only one of my shoulder mounted guns came back up and around. The other wiggled a bit near my back and then stopped doing even that much.
+
+The row of flechettes fired all the way over to the Model Eleven did a whole lot of nothing.
+
+I swallowed and looked around for Whisper, but the gun was nowhere in sight. One of the Dumbasses, three, I thought, was nearby, but it was a crushed mess.
+
+For a moment I imagined myself being swallowed by the huge bird, but a line of fire from the heavens cut across its path and the bird deftly swooped out of its way.
+
+Gomorrah! The nun was way above me, hanging out of the torn section left of the bridge with one of her arm cannons pointed ahead of the Model Eleven and laying out a wash of fire in its path. The damned thing was clever though, and her fire too damned slow and short ranged for it to actually stop the huge bird.
+
+It did buy me some time.
+
+I tore my Trench Maker out of its holster and started running along the length of the roof. The moment the Model Eleven spun around again I slowed to a jog and started firing at it.
+
+The impacts of the Trench Maker hitting were hard to miss as each one burst into a small ball of flames. The fact that they did nothing to slow it down was just as hard to miss.
+
+I spun my gun arm around and fired the last three shots into the glass ahead, punching fist-sized holes in it that I only made larger when I dove into the glass feet-first. The entire square of safety glass caved in, and I rode it down into the open passage below.
+
+The Model Eleven flew past the top of the bridge a moment later.
+
+“How do I kill that thing?” I asked as I shoved my Trench Maker back in place for it to reload. “A rocket?”
+
+One of your arm rockets could incapacitate or even kill it if exceptionally well-aimed, but that would be difficult.
+
+“Myalis... can I afford a rocket launcher?”
+
+Yes Cat, you can afford a rocket launcher.
+
+I felt a nasty, vindictive grin tugging at my features. “Myalis. Give me a rocket launcher.”
+
+Class I Heavy Explosive Launchers
+Points Reduced to... 4783
+
+New Purchase: Single Use ‘Simurgh’s Tear’ Anti-Aerial Rocket Launcher
+Points Reduce to... 4683
+
+Myalis, being the gem she was, didn’t even bother with the box.
+
+“Let’s see if that oversized pigeon likes explosions, shall we?”
+
+***

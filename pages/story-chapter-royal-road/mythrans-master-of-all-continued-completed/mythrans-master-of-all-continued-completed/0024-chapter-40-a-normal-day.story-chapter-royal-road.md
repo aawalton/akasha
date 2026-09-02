@@ -1,0 +1,151 @@
+---
+id: 58e20f3d-5d01-5673-a9a0-3f6b733d1c6c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40 - A Normal Day"
+slug: 0024-chapter-40-a-normal-day
+partOf: mythrans-master-of-all-continued-completed
+position: 24
+ownLength: 2040
+unit: words
+publishedAt: 2016-10-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95877/chapter-40-a-normal-day"
+royalRoadId: "95877"
+---
+
+Ren helped Aimus put all 8 poles into the tent supports and tied ropes to the top ends. Aimus stood at the base of the tent at one corner and walked out diagonally 10 steps, pulled out a giant metal spike with a loop on the top, and hammered it into the ground. This was repeated 3 more times, once at each corner of the tent. Aimus told Ren to stand at the base of the pole and to stop it from sliding, and Aimus took the end of the rope that was tied to the top of the pole. Ren braced himself as the rope was threaded through the loop on the metal spike. With Ren holding the end steady, Aimus pulled on the rope and one corner of the tent lifted up until it's part of the tent stood up straight. Aimus quickly looped the rope and tied an expert knot in the rope and let it go.
+
+“Keep a hold of that pole, kid!” Aimus shouted and went to the corner of the tent closest to Ren and grabbed another rope.
+
+Ren closed his eyes and tried not to get mad. He still doesn't know how much I hate being called that. Ren thought and then opened his eyes.
+
+“You know, I really hate being called a kid!” Ren shouted back.
+
+“Ha ha! I know.” Aimus said and grinned at Ren. “I just wanted to see how long you'd take it before saying anything.” Aimus said and threaded the rope he held through another loop and pulled.
+
+Ren shook a fist at Aimus and Teepo chittered in laughter as the tent's other corner lifted up. Aimus tied another expert knot in the rope around the loop.
+
+“Okay, you can let go. Just watch the tent doesn't flop back towards where they're tied.” Aimus said and went to the other side of the tent to grab another rope. Once it was threaded and Aimus started to pull, Ren ran to the other corner and threaded the rope through the closest loop and pulled as well. The whole side of the tent lifted up. Aimus tied off his rope and came over to Ren. Ren turned around and switched his grip from the rope through the loop to the part going to the loop instead so Aimus would have the end to tie. Ren held the rope just as securely as if he was holding it normally.
+
+Iron Grip is the best thing!  Ren thought and smiled as he watched Aimus kneel to tie the knot.
+
+Aimus didn't even blink when Ren turned around but held the rope like it was nothing. He knew that the kid was strong and was actually getting used to seeing him do things like that. Aimus finished the knot and Ren let the rope go. They turned around to see their handiwork. The tent still sagged in the middle of each side, but at least the poles there were off the ground. The ropes wouldn't have to be pulled as hard as the first ones. Aimus and Ren had the 2 sides secured in no time. Ren even successfully learned how to tie the double half-hitch knot himself.
+
+Notice!You have learned a new skill!
+
+
+
+Knot Tying Level 1 (Beginner 0%)This skill allows you to tie a knot. 
+
+Higher levels will allow the successful tying of more difficult knots and in different materials.
+
+
+
+Ren wasn't sure what he would need it for at the moment, but a skill was a skill, and was always happy to learn something new. Aimus waved to him and went to the back of the tent. This pole was almost twice the length of the others. They both grabbed the rope and pulled. The end of the tent stood up and made the nice triangle shape that you'd expect a tent to have. Aimus held the rope and Ren tied the end properly.
+
+Aimus nodded. “Great. Now the front.”
+
+They went to the front, did the same thing, and stood back and saw that the tent stood almost 20 feet high.
+
+“That's a big tent.” Ren said. “What's it for?”
+
+“It's a surprise.” Aimus said and walked away.
+
+What do you think, Teepo?  Ren asked his friend.
+
+“It's too big for us to sleep in. Maybe it's for animals?” Teepo said after thinking about it.
+
+That must be it.  Ren thought and then followed Aimus back to the house. Lunch should be ready by now.
+
+Ren enjoyed a good lunch with Abigal and Ana and went back outside when Aimus said it was time to. Aimus walked over to the barn. Ren went along and Aimus took out a barrel. It must have been filled with something heavy because Aimus was having a hard time with it. Ren helped Aimus tip it up onto the edge of it's bottom and they half-rolled it to the trench. Aimus went into the shed and got a tool with a long handle and something that looked like a crowbar. Ren had seen the tools before but didn't know what the long handled one was for. Aimus used the crowbar like tool to open the barrel and put the long handled tool down.
+
+Inside was a sludge that looked a lot like white grease. Aimus tipped the barrel over and some of grease like substance spashed out and into the trench. It flowed out slowly, so Aimus rolled the barrel along the trench until it was just about empty. When he got to the end of the trench, he tipped the barrel over and got the last of it out. Aimus brought the barrel over to Ren and put the cover back on it.
+
+“Whew. I thought that was going to last me for the rest of the year, and now I've used it all in one go!” Aimus said and laughed.
+
+Ren didn't know what he meant so he didn't join in.
+
+“Come on, I'll show you.” Aimus said and picked up the long handled tool. He went over to the trench and used the tool to spread out the grease over the soft bed of the trench and across it's sides. It didn't look like it could cover everything, but as Aimus worked the grease into the sides, he just spread any extra across the next section of trench. By the time he reached the end of the trench, every surface was covered with it. There was some extra along the bottom, but he just shoved it into the edges of the trench.
+
+Royal Road is the home of this novel. Visit there to read the original and support the author.
+
+“Now, we've got to wait for it to dry. It should be done by tomorrow.” Aimus said.
+
+Ren nodded and Aimus took the tools to the shed. Ren followed and handed him the shovel he still had in his inventory. Ren had the basic level for it, but since he barely used it, his skill didn't level up at all and didn't get a popup. I'd have to use it a lot to make any kind of difference, probably. I guess that was a drawback of getting my main skill of Mining up so high and then trying to level the sub skill of Shoveling under it.  Ren shrugged. I'm sure I'll get a chance to work on it later.
+
+There wasn't anything else to work on that day, so Ren went into the house to his room, waving to both Abigail and Ana when he passed them. There was still some time left in the day, so he sat down on the bed. Ren felt a bit guilty about doing this, but now that he was alone, his curiosity got the better of him and he took out the largest chunk of the green gem like ore.
+
+“Identify.”
+
+???????? Ore Part 1 of 3
+
+
+
+What? I still can't identify it?  Ren thought, and put it back into his inventory. I'd hoped when I got all three pieces it would tell me what it was.
+
+Teepo perked up at that. “Ren! Why not ask the Sage Of Ages? I heard she's reappeared.”
+
+What?!? How did you hear that?  Ren thought. Teepo had been trapped in the ring when the contest winners had appeared in the game.
+
+“I overheard people talking about it at the party.” Teepo said. “Some of the people were upset that she'd shown up late the night before and then wouldn't make a prediction for them.”
+
+Really?  Ren thought that was a bit odd for a sage to not make a prediction. Wasn't that their job?
+
+“It is, but they said she was all embarrassed at all the attention and left.” Teepo said.
+
+Interesting. Ren thought, and settled down into bed. It's something to think about. Thanks, Teepo.
+
+“No problem, Ren. Goodnight.”
+
+Goodnight. Ren thought.
+
+“Logout.”
+
+********
+
+Ren took off the VR headset and Barbara took it from him.
+
+“Bathroom!” Ren said and slid out of bed. He made it just in time. Barbara laughed because she could hear the force of the pee as it hit the water in the toilet. It went on for a minute or two and Ren came back out.
+
+“Washed hands?” Barbara asked.
+
+“Of course.” Ren said then stopped and turned around. “Forgot to flush.” Ren pushed the handle and came back to bed.
+
+Barbara smiled. “Are you hungry?”
+
+No sooner had she said that when Ren's stomach rumbled so loud that Barbara clearly heard it. “I'll take that as a 'yes'.” Barbara said and laughed.
+
+She left the room to get something for Ren to eat. Ren didn't wonder what it was, since his diet consisted of bland and unseasoned foods. It didn't matter what Barbara brought back, it's taste would be almost the same whatever it was. A few minutes later, Barbara came into the room with a tray. Ren's nose picked up the smell and Ren's eyes widened.
+
+“A hamburger!” Ren said when Barbara lifted the cover. “French fries!” Ren grabbed one and ate it. “Soda pop, too!” Ren exclaimed and took a drink. “Ah... root beer.”
+
+Ren looked at Barbara with a question in his eyes. “Barbara... how? I'm usually only allowed to eat something like this when I leave the hospital for the day... and even then I get in trouble for it.”
+
+Barbara shugged. “You've been doing so well, even with your finger the way it is. I thought you deserved a treat.”
+
+“You're too good to me.” Ren said and shoved the burger into his mouth.
+
+“Take it easy!” Barbara said and shook her head. “No one's going to steal it from you. Take your time.”
+
+Ren blushed and spoke with a mouthful of hamburger. “Soowy.”
+
+The apology didn't come out right, but Barbara smiled and sat down next to the bed. She sat there and watched Ren eat, making sure he took his time and didn't choke. It was hard for Ren to do that, though.
+
+It tastes so good!  Ren thought as he licked some salt from his fingers.The french fries are perfect!  After a big drink of pop Ren held his hand over his mouth and turned away from where Barbara sat.
+
+*Buuurrrp*
+
+“Excuse me.” Ren said and turned back to the tray.
+
+The meal was finished quickly, even though Ren had taken his time with it.
+
+“Oh, Barbara... that was so good!” Ren said in appreciation. “Thank you.”
+
+Barbara rubbed Ren's head and ruffled his hair. She handed Ren the drink and took the tray away. Ren sipped his root beer slowly and Barbara came back and sat down again. About 10 minutes later, Ren nearly dropped the drink as he dozed off. Barbara was prepared for that and took the drink before it spilled. Barbara waited another couple minutes until Ren's breathing evened out and was asleep.
+
+Barbara tucked Ren into bed and kissed his forehead. “Goodnight, little one.” Barbara whispered.
+
+“g'night, mom.” Ren mumbled.
+
+Barbara was startled and looked at Ren closely. She knew Ren was asleep when he started to snore a little. Barbara turned off the lights and sat in the chair by the bed.
+
+He called me mom!  Barbara thought and blushed a bright red.

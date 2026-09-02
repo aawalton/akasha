@@ -1,0 +1,193 @@
+---
+id: 9cd08d4b-1685-57ea-bf6a-73dee187331c
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred and Seventeen - Failing The Bechdel Test, but With Dragons"
+slug: 0122-chapter-one-hundred-and-seventeen-failing-the
+partOf: cinnamon-bun
+position: 122
+ownLength: 2084
+unit: words
+publishedAt: 2020-10-21
+link: "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/572358/chapter-one-hundred-and-seventeen-failing-the"
+royalRoadId: "572358"
+---
+
+Chapter One Hundred and Seventeen - Failing The Bechdel Test, but With Dragons
+
+“And these will be your rooms for the night. They’re our princess rooms,” Lawlyhoumad said as she gestured at a hole in the wall. 
+
+The inside of the dragon’s cave was surprisingly spacious. Or maybe that wasn’t too surprising, seeing as how the occupant was longer than a pair of city buses parked end to end and a bit wide at the hips. 
+
+“We’re not all princesses though, is it alright anyway?” I asked as I skipped ahead towards the entrance.
+
+Lawlyhoumad scoffed, making the ball of fire floating next to her for light flicker a bit. “We don’t have guest rooms, and you can’t sleep on my hoard or I’d have to eat you, Riftwalker or no. It’s tradition, you see.”
+
+“Right, right,” I agreed. 
+
+The princess room was a large cavern. Well, large for me, Lawlyhoumad would have a hard time squeezing into the door and I don’t think three of her could have fit in the room at once. Curtains covered the bare stone walls and runes glowed from the ceiling, casting soft light across a sea of pillows. 
+
+There were a lot of pillows. Small ones, barely bigger than two fists together, and some as long as I was tall. All in soft, pastel colours with lacy edges and floofy middles. There was a pile of them in the centre of the room, like a hill of softness just waiting for someone to bury themselves into it. 
+
+There was more furniture off to the side. Dressers and make-up tables, but really, those were secondary to all the pillows. “That’s a lot of pillows,” I said.
+
+“Hmm? Oh yes, princesses like those,” Lawlyhoumad said with the certainty of someone who thought themselves an expert. “The more the better.”
+
+“Uh-huh,” I agreed. Pillows were kind of fun, I guessed. 
+
+“There are some clothes and such in those dressers. No food for your sort, I’m afraid.”
+
+“We’ll make do,” I said. “Thanks for your hospitality, miss Lawlyhoumad,” I said.
+
+The dragon tittered. “It was nothing. Now remember, touch my hoard and I’ll make your death long and painful. Do sleep tight!” With that, the dragoness dismissed us and waddled deeper into her home, feet stomping along as she walked off. 
+
+I spun towards my friends. Booksie looked a little nervous, Awen was... also nervous, but that was normal, and Amaryllis was frowning off to the side.
+
+“Why do you all look so glum?” I asked. “Look at this room!” I skipped in, then spun around a few times. “It’s the perfect place for a sleepover!” 
+
+Amaryllis rolled her eyes. “Broccoli, we sleep together every night.”
+
+“Awa.”
+
+“Yes, but not inside a dragon’s lair! We can have... tea and hard tack, and talk about our feelings, and sleep on a giant pile of pillows.” I clapped. “Pillow forts!”
+
+Orange peeled herself out of my backpack and landed on the ground next to me. Then she sauntered over to the pile of pillows, eyed it for a moment, then skipped from one to the next until she was at the very top.
+
+“See!”
+
+“Awa, it might be nice?” Awen tried. 
+
+“Well, I suppose,” Amaryllis said. “I am rather awake right now. It’s too early for a proper rest.”
+
+Booksie shrugged. “I guess,” she said. 
+
+I cheered. “Yes! I’m gonna see if there's nice things to wear for sleep!” I said as I rushed over to the dressers. 
+
+On opening them, I found piles of very pretty dresses shoved in with more force than they probably deserved. I tugged out a large ball gown and held it up, or tried to, but the hem was huge and it trailed onto the ground. 
+
+Amaryllis was soon by my side, carefully digging into the dresses with her talons and ‘tsking’ about how unfashionable they all were. 
+
+“This is nice,” I said as I found one dresser filled with nightgowns. I ‘ooohed’ at the silkiness of them, then started undressing. 
+
+“A-awa,” Awen said. “B-Broccoli, what are you doing?” she asked.
+
+“I don’t have anything you don’t,” I scoffed as I pushed my clothes to the side, then slipped into one of the gowns. It was nice and long, ending just above the knees. Like wearing one of my dad’s old t-shirts for bed when I was little. 
+
+Soon--with much stuttering and blushing from Awen--we were all dressed for bed and had yoinked a nice number of pillows out from the pile to form a circle to sit and lay on. “I suppose this is the part where we sharpen our talons and talk about mates?” 
+
+“I don’t have talons,” I said as I wiggled my hands around. “But I guess I could do with a manicure.” I looked down at my feet and wiggled my toes. “And a pedicure. Walking so much has been giving me callouses.”
+
+“Awa, I know some magic for that. And, um, I can use my tools,” Awen said.
+
+“Really?” I asked. 
+
+Awen crawled over to her pack, then returned with a small knife and a heavy-looking file. “Do you want me to start with you?” she asked.
+
+“Sure!” I said.
+
+Having someone play with my hands, especially when they were being as gentle and caring as Awen, felt really decadent. Or maybe that was the silk gown and the pillows. 
+
+“So,” Booksie said. She was hugging a big plush rectangle to her chest. “Um. Rhawrexdee.”
+
+“Yes?” I asked. I wanted to pretend that I was being casual, but my ears were literally wiggling in her direction and Awen’s motions had slowed down a bit.
+
+“What do you intend to do about him?” Amaryllis asked.
+
+Booksie buried her face into her pillow. “I don’t know,” she whined. 
+
+I heard a faint snort from the doorway, something that I would have probably missed otherwise. I swivelled an ear that way, which felt pretty darned weird but was handy, and started listening harder. 
+
+“Your entire situation is strange,” Amaryllis said. “But if you... like him, then I suppose you could give it a try? It wouldn’t be a terribly physical relationship.”
+
+“Awa,” Awen awaed. “That’s, that’s dirty, Amaryllis.”
+
+This content has been misappropriated from Royal Road; report any instances of this story if found elsewhere.
+
+“Well, it’s true. Did you see the size of him?”
+
+Amaryllis was cut off when a red-faced Booksie flung a pillow into the side of her head. “I’m, I’m not thinking about that,'' she said. “I’m more worried about... I don’t know. It’s too soon, and I hardly know him, and now his mother thinks I’m some sort of daughter-in-law? You’d think they’d move slower.”
+
+Another huff from the door.
+
+I carefully pulled my hand back from Awen, earning a confused look from the girl. 
+
+I tapped a finger to my lips, then pointed to all the girls in turn while standing up. I made ‘talky’ gestures with my hands, then pointed to myself and the door.
+
+Amaryllis caught on fast. “I’d be more worried about his proclivities towards harems. A mate that wants more than one woman is just, urgh.”
+
+Booksie’s eyes narrowed. “I might have words with him if he thinks I’m that kind of girl.”
+
+I tip-toed over to the door, hopping over stray pillows and keeping my breathing as light as I could until I was right next to the door. I thought that maybe Rhawrexdee was spying on us, which would have been very rude. Boys shouldn’t spy on a sleepover like that. But a flash of green from above and a hint of a long dragon-y talon near the ground, one that flexed into a green-scaled claw said otherwise.
+
+Was it Lawlyhoumad?
+
+I got to the edge of the entranceway, set my arms on the edge, then brought my upper body around.
+
+I found myself staring into a pair of wide red eyes.
+
+Not Lawlyhoumad. Not unless the dragoness had shrunk and lost a few tones. “Hi!” I said.
+
+The dragon reeled back. I was getting good enough at meeting dragons--and wasn’t that the coolest thing?--that I could tell that this was a girl dragon from the slightly softer features and smaller spines around her sides. Rhawrexdee had mentioned a sister. 
+
+Her eyes narrowed and she huffed. “Who are you?” she asked.
+
+“You didn’t know?” I asked as I stepped around to be in front of her properly. “We came with Rhawrexdee. I’m Broccoli! You’re a girl dragon, right?”
+
+“What? Yeah, of course I am.” She glared, then sniffed. “There’s no way my idiot brother found a Riftwalker and a princess at the same time.”
+
+“More like we found him, and did you want to join our sleepover? We’re doing our nails and talking about boys. We could become friends!” 
+
+Cholondee
+Desired Quality: Someone who will acknowledge her for who she is.
+Dream: To have the world tremble in fear at her mere presence and to be left alone to enjoy her smut.
+
+“It’ll be fun?” I tried.
+
+Cholondee shrugged her wings. “Sure.”
+
+That was easy. I grinned up at her, then skipped back into the room. “We’re getting another girl for our party,” I said.
+
+Amaryllis looked at me with mounting horror, then sighed when Cholondee casually strolled in after me. “So, what kind of sleepover is this?” the dragon asked.
+
+“Awa,” Awen fiddled with her file. “Um. We’re just... talking, and doing our nails?” 
+
+Cholondee took that with a nod, then crashed onto the large pile of pillows. Fluff flew everywhere, and a few tatters of lace rained down on our heads. A very disgruntled Orange poked her head out from between two of the pillows Cholondee was squishing, then she flowed out from between them and stomped off in a kitty huff to find somewhere else to sleep. “Do my talons next,” Cholondee said as she placed her claws in the middle of our little circle.
+
+“Awa.... okay?” Awen said. She looked around, then carefully grabbed my hand and went back to work on it. 
+
+“So, you were talking about my idiot brother?” Cholondee asked.
+
+Booksie nodded. “We may or may not be dating,” she said. “I’m not entirely sure. In fact, I don’t think your brother knows either.”
+
+“You don’t smell like a princess. What got him to not eat you?”
+
+“I think we just... hit it off? Your brother is surprisingly nice. And he is rather gentle when he’s not planning to eat anyone.”
+
+Cholondee let her head drop so that it was resting over her claws. “Yeah. He’s a pain in the flanks, but he’s not so bad. You should see some of the other dragons out there. I swear half the boys just want me as some sort of extension to their harem and half just want to rut and move on. It’s awful.”
+
+“That is awful,” I agreed. “Boys like that aren’t very nice.”
+
+The dragon rolled her eyes. “Tell me about it. But my mom has been insisting that I go find a mate lately. Real nag about it. Can’t a girl have other goals in life than raising some brats?”
+
+I nodded along. “What do you want to do? And, uh, are dragons mammals?” 
+
+“No, we’re dragons, and yeah, there are other things I want. World domination, to set myself up as god queen of some nation, the usual. Mom doesn’t get it. She’s so last century.”
+
+I reached out, careful not to disturb Awen’s work, and patted Cholondee’s talons. “I understand,” I said. “But still, your mom seems nice. I think she wants the best for you. Maybe try talking to her?”
+
+“Urgh. But that’s so lame.”
+
+“It’s how I dealt with my parents,” I said.
+
+“Awa, I wish I could talk to mine,” Awen said. “They were very.... Um, I think Lady dragon is lucky to have such a nice mom.”
+
+“Call me Cholondee, I’m not big on the whole lady this and lady that,” the dragoness said. “So, you guys have any food?” 
+
+“Just hardtack and some travel rations,” I said. “You can have my jerky. Ever since I turned into a bun meat tastes different. It’s weird.”
+
+“You can still eat it,” Booksie said. “But it might upset your tummy if you eat too much.”
+
+“It’s okay. I don’t mind being a vegetarian. Ohh, I could put some tea on!” 
+
+I was quite proud of how quickly my friends took in a new potential friend. It was nice to see that I was surrounded by such kind people.
+
+***

@@ -1,0 +1,96 @@
+---
+id: eb8fc3e5-2f7e-5ae6-8103-a54de0caff01
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17"
+slug: 0017-chapter-17
+partOf: savage-divinity
+position: 17
+ownLength: 1873
+unit: words
+publishedAt: 2016-03-16
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/59000/chapter-17"
+royalRoadId: "59000"
+---
+
+I wake up bright and early, too excited to even try to sleep in. Today is the day Charok is going to help me reach the State of Balance. I've taken the first step on the Martial Path by reaching the State of Enlightenment which means that I can fight, I just need more practice. Now to learn to 'Harness the Power of the Heavens'.
+
+
+
+I'm lying in bed thinking about it. I can't get up yet though. The twins are still sleeping. They've taken to sleeping in my room. They still wet the bed at night, and are too big for cloth diapers to do much more than add to the pile of laundry. I've gotten in the habit of waking them to use the washroom around 1:00 am. Laundry is a huge hassle without a washing machine, but after I take them out, they refuse to let go of me, so I just keep them with me. It's easier this way. Am I spoiling them? Well, they deserve to be spoiled.
+
+
+The orphanage wasn't a cliched, horrible run down place, run by terrible, child hating people. It was a very nice building, with many nice cozy rooms, run by a few very sweet ladies. But I can't forget the look on some of those other kids faces, when we didn't take them with us. Heartbreaking. They're well cared for, but everyone should have a loving family. I watch the twins sleep, so peaceful and content. Is this what my life would have been like if I grew up here?
+
+
+Sarnai told me that there was no doubt I come from the village, just that they don't know who my parents are. I'm pure blooded, as indicated by my amber eyes. Apparently, pure blooded villagers are increasingly in short supply, what with all the demi-humans in the village, and stringent measures against inbreeding. There isn't a 'preserve the bloodline' initiative going on or anything, so no harem route. The eye color doesn't do anything special either. No bloodline limit for me. I don't get anything do I?
+
+
+The twins are stirring and wake, happy smiles abound and I take them to wash up. Charok is already awake, working in the kitchen. I wave at him, and take the twins to play with the roosequins while we wait for breakfast. I seem to have been reincarnated as an Au Pair. Nanny Reincarnated Inc. At your service. From Diapers to Diploma's.
+
+
+Tate and Tali love the roosequins, and the roosequins love them back. They love to pick the twins up in their arms, and run off to nuzzle them. It's how they carry roosequin pups, apparently. A short walk outside where the animals poop, and we head back home. Alsantset has already laid out feed for them, so Suret and Pafu head right for their troughs, while I take the twins to the dining area.
+
+
+Grilled spiced fish and herb rice, scallion pancakes wrapped around braised goat, and a hearty soup. Breakfast of champions. We eat together, Alsantset and I taking feeding duty, letting Charok fully enjoy the fruits of his labor. Tali is practicing with chopsticks, bringing tiny globs of rice to her mouth, bit by bit, interspersed with bits of carefully de-boned fish from my plate.
+
+
+After breakfast, I sit around. I don't know what to do now. Normally, I would be getting ready for martial training, but Charok is supposed to be training me today. He normally watches the twins in the morning though. Does the village have a babysitting service?
+
+
+Baatar walks in, to the delight of the twins. They love their grandfather. Probably because he likes to throw them dangerously high into the air. Crazy Grandpa. Charok motions me over.
+
+
+“Great. Are we starting training? What are we going to do?” Finally, we can begin.
+
+
+“Wash dishes. It will be easier to wash before the grime hardens.” Charok gives me a grin. Ya I should help with the dishes. It's pretty easy, especially with a clean source of water in the garden. The pond is connected to an underground river, so the water is always moving, and fresh. I grab a bucket, fill it with water, and get to washing dishes.
+
+
+I wonder if this is part of the training? Some Mr. Miyagi type deal. Wash the dishes. Wax on. Wax off. I give it my all, scrubbing pots and pans. Again, I miss technology. It doesn't help that I don't understand half of the references that pop into my head. I just shake it off, now. That's not who I am anymore. I'm Rain: Martial Warrior. Just as soon as I finish with these dishes.
+
+
+I jump up, and stretch. Finished. I empty the dirty water outside in the streets. They have gutters, along the side of the road. Amazingly high standard of living around here, considering everything is done by hand. I go back inside and find Charok.
+
+
+“Alright. Dishes are done. What now?” My body is ready.
+
+
+“Go get Suret in her harness. Pafu is already harnessed. We are going on a small trip.” I do as he says, Suret excited to be harnessed, itching to run. I bring her out of the stable, and Charok is waiting with Pafu, and a set of hunting gear. Bow, quiver, spear, hunting knife. Some camping gear as well. Guess we're going hunting? I load some of the things onto Suret. She seems even happier, carrying a heavy load. Poor thing, short runs around the village haven't been enough, I see.
+
+If you spot this story on Amazon, know that it has been stolen. Report the violation.
+
+
+We ride out of the village, Charok leading the way. It's brisk out, with winter coming on soon, but I'm dressed warmly in fur lined leathers over my clothes. We spend hours riding. We stop a few times, and try to catch some lunch. Charok managed to hit a pair of birds, water fowl. I murdered several trees, if they could die from arrows. Then we go back to riding. We stop before noon. It's a beautiful scene, the mountains edge. We're on a huge overhanging grassy plateau. I look out, and I see an almost endless mountain range. Not barren rocky mountains, but autumnal colors, teeming with life and renewal. Some plains stretch out to the south, and there's a lake in the distance, but to the east and west is all mountains. A small stream is close by, and I can see where, in the distance, It flows off into a waterfall, that feeds the lake. I don't see any villages or cities, no sign of human life at all. I've never actually seen anyone from someplace other than the mines and the village.
+
+
+Taduk's lessons in geography and history come to mind. The village is close to the northern edge of the Azure Sea Continent, and therefore of the Empire as well. The impassable Ahja Bogd mountains, better known in the Empire as the Saint's Tribulations mountains, can also be translated as the Saint's Life mountains. Funny language. Life and Tribulation, one and the same, apparently. Pessimistic bunch. A dangerous area, filled with feral beasts and Defiled skirmishers. The Azure Sea Continent is surrounded by water and ice, connected to the other landmasses only at three narrow points. The northern bridge connects us to the Frozen Tundra to the north. Nothing wholly human lives there, just the Defiled, as far as anyone knows. The bridge is about 500 km to the East of us. Although that is the only land route, at times, the Defiled can arrive by water or air. Hence the need for the patrols.
+
+
+It's impossible to go through the mountains, as an incredibly powerful Ancestral Beast has claimed the northern area as their own. The village is bordered by the territory of that beast, which keeps the village safe from 3 directions, North, East and West. We only need to worry about enemies coming from the south, and that would require them to double back, away from the Empire. The Village has never suffered an attack in it's history, although it has been used as a forward base during one particularly intense series of engagements. That was hundreds of years ago though.
+
+
+Charok doesn't interrupt me as I take in the sights. I take a look, and he's started a fire, far back from the ledge. He also has removed the harness from Pafu, letting him wander around on his own. I do the same with Suret, who's still full of energy and happy to explore. They're well trained, they won't go far and will come running at a whistle. I'm not too worried about predators. Roosequin are pretty nasty in a fight, and tough to boot. Sharp teeth, grappling hands, and toenails that can disembowel a person with a kick. Most animals avoid them.
+
+
+Charok has started cooking the birds, and is just watching them roast over the fire, a small tray underneath to catch the drippings. I wander over and sit down.
+
+
+“So what do you need me to do?” It's been half the day almost, and we haven't even started training.
+
+
+“Prepare these roots.” He hands me a bunch of tubers, to wash, peel, and chop.
+
+
+“What about for training? Any breathing exercises, or mental ones? I want to reach the State of Balance as soon as possible.” I'm a little antsy. The ride over here was fun and all, plus the scenery is beautiful, but I need to be strong.
+
+
+Charok grins. “Let us eat first.” His smile today reminds me of Baatar's. Wolfish.
+
+
+The birds do smell delicious. Herbs and spiced roast duck. Or whatever kind of bird it is. I get to work, eager to eat.
+
+
+We have lunch in silence. Charok seems to be deep in contemplation, and I realized that I don't actually have to be moving through the Forms to review them. While the movements are methodical and orderly, there are countless variations for each. Knowing when to use which one is vital. Can't always just react mindlessly. Delicious birds though. So moist, fatty, and greasy. I don't know how I used to eat, but I'm pretty sure it wasn't this good. Some leftover steamed buns to wrap the bird meat in make it the perfect meal. Pafu and Suret are close by, hoping for scraps, cute little squeaks and chirps to get my attention. I share a little when I'm done. They eat with little smacking noises, happy as can be. I want my own, but they're expensive. Not just to buy, but they're gluttons as well. Too bad, at 12 or 13 years old, I don't really have many job prospects.
+
+
+I continue to immerse myself in my thoughts as we clean up. A little camp food isn't bad. Besides, it is kind of nice out here. I can trust Charok. He wouldn't have brought me out just to play. I stretch and lay back, using Suret as a pillow. Life is good lately, and soon, I should be able to figure out this State of Balance business. I relax in the cool, autumn weather, enjoying my first day off since I got here.

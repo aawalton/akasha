@@ -1,0 +1,157 @@
+---
+id: 5c64fa16-174f-52fd-9806-ad3b1762fb00
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36 - Did I Do That?"
+slug: 0020-chapter-36-did-i-do-that
+partOf: mythrans-master-of-all-continued-completed
+position: 20
+ownLength: 3173
+unit: words
+publishedAt: 2016-09-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95247/chapter-36-did-i-do-that"
+royalRoadId: "95247"
+---
+
+Ren closed his eyes as the bright light engulfed the apparition completely. It screamed for what seemed to be a long time, but was probably only a few seconds. When it stopped, the light didn't die down, however. Ren slowly opened his eyes and was surprised at what he saw.
+
+Before him stood a wizened old man with wrinkled features and a big smile on his face. He wasn't any taller than Ren was. The picture in Ana's old storybook, The Guide To Infinite Joy, didn't do the Elder of the Tribe any justice. The old man opened his mouth and a bunch of weird sounds came out of it. The old man smiled wider, waved, and then faded from sight.
+
+Teepo jumped side to side, turned around in a circle, hung his head and sighed.
+
+“Teepo! What was that?” Ren asked.
+
+“That was the Dance of Departure. It's to send souls on their way to the other side.”
+
+“Is that what happened?”
+
+“Yes. The holy light you used has cleansed the corrupted soul that had been trapped here for centuries.” Teepo said and looked at Ren. “The Elder thanked you for freeing him from his accidental imprisonment and waved goodbye.”
+
+“You could understand what he said?” Ren said, surprised.
+
+“Of course. Every beetle knows the Core Language.”
+
+Ren thought he might be lacking in some basic knowledge. “You'll have to teach me one of these days.”
+
+“Sure. You only need a year or two to learn the alphabet first.” Teepo said.
+
+“A...a year or two just for the alphabet?” Ren sputtered.
+
+“Well, if you know a quicker way to memorize 236 consonants and 53 vowels, and be able to recite them in the proper order...”
+
+Ren shook his head. “Lets leave the language lessons alone for a while.” Ren said and rolled his eyes. “A long while.”
+
+Ren put the handful of arrows away and finally had the chance to look at the statues closely. They were made of some kind of metal. Ren didn't know what kind it was. Smelted? Coated? Bronzed? Ren couldn't tell, even when he ran his hand along one of the shields. It moved slightly and Ren looked behind the shield and saw that it was just sitting there. It wasn't a part of the statue. Ren lifted the shield from the statue's grip; it was heavy, but manageable. It was about 2 feet wide and 2 and a half feet long, with a rounded top and a slightly pointed bottom. Ren put it in his inventory and went to the other statue. It had a similar shield and Ren took that, too. Ren then turned to the chunk of ore that sat in the rock column. He took out his mining pick and quickly dug out the chunk and stashed it in his inventory. Ren turned around and ran for his life. He knew what was coming. Teepo chittered in delight. He knew what was coming, too. He always enjoyed it when Ren ran.
+
+Notice!You have caught the attention of the 'Spirit of Earth'
+
+
+
+Aimus finally got through those damnable terror causing trees. He sat down and tried to catch his breath and ease the terror feeling that filled the area. Aimus had only made it this far once before. It was how he knew that Ren couldn't go any farther in. The barrier kept people out of the sacred land. Aimus looked around but couldn't see Ren anywhere.
+
+Where is he?  Aimus thought. Don't tell me he turned back and I missed him!  Aimus reached out to touch the wall and stumbled forwards. What the...?!?
+
+A loud rumbling sound pierced the calm of the clearing. The ground shook and Aimus stood up. He saw a little figure hop out of a hole in the ground and run towards a spot not far from where Aimus now stood.
+
+“RUN! They shouldn't be too fast, but they're bigger than the other one!” Ren said as he ran closer.
+
+“What are you... oh sh-”
+
+BOOOOOM!
+
+The side of the mound exploded outwards and two gigantic stone golems climbed out of the crater. They turned and tromped across the clearing towards the fleeing Ren.
+
+“Come on! Follow me!” Ren said and ran right into the area of terror causing trees, but didn't slow down. “I'd ask if you had any traps on you, but I don't think they'd work on these guys!” Ren's voice got higher the further away he went. He had to shout so Aimus could hear him.
+
+Aimus ran into the same area Ren did, and felt relief. He didn't feel the fear anymore. “How in the world did you... No, nevermind. I don't want to know.”
+
+Ren laughed and kept running. Aimus followed Ren as the giant stone golems followed them both. Ren and Aimus had to dodge around trees and jump over bushes, but the stone golems just pushed the trees aside if they were in the way. The golems weren't as tall as the trees so it did take some effort from them to push the trees over.
+
+“Apparently fear and terror doesn't affect them!” Ren shouted after peering back to see how far away the golems were.
+
+“Why would they be afraid?” Aimus shouted back. “They're rocks!”
+
+Ren started to laugh and then understood what Aimus had said. “No, they're not rocks. They're stone! Stone and mortar!”
+
+Ren got an image in his mind of the proper glyph and touched the trees he passed. One glyph would never be enough... but using the same tactic as whoever set up that terror forest... it might just work.  Ren thought and kept touching trees. Activate!  Ren heard a sound like a match being lit and touched another tree. Activate.!  Again and again. Activate!  Activate!
+
+It wasn't long before they approached the lookout. Aimus tried to get Ren's attention, but Ren had already veered away from the spot. They ran over towards the direction that Aimus had looked for the rats. Ren looked back at his handiwork. No one was going to be scared of the trees anymore.  Ren thought, amused. The stone golems don't much like it, either.
+
+Ren had started a forest fire. The biggest forest fire anyone had seen in a long time.
+
+Ren noticed that the golems were slowing down and smiled. The stones can take a lot of heat, but the mortar is another story. Ren didn't know if something had created the creatures, or if they were just automatically generated out of the surrounding materials... but it didn't really matter at the moment. Ren lit off a few more trees as he continued to run. Aimus stayed close on his heels.
+
+How is he doing that?  Aimus thought in bewilderment. Even the best enchanter I know could probably do that many, but not all at once!
+
+Ren kept going and touching trees. If he'd only been using his regular mana, he would have had to stop and let it regenerate... but his Mana Pool was a different story. It steadily drained away with each enchantment, but it let Ren do it constantly without having to worry about the cost.
+
+“Is there a clearing nearby?” Ren shouted to Aimus.
+
+“Yeah, just up ahead by the river. Why?”
+
+“A river?” Ren said and a huge smile spread across his face. “That's perfect!”
+
+Aimus was about to ask what he meant, but just then Ren slowed down and weaved back and forth. He lit even more trees on fire. They came out of the forest into a small clearing. Ren looked back and saw he had a couple minutes before the golems got to him. The heat from the blazing forest fire was intense, but Ren ignored it. He stopped near the river's edge and put his hand on the ground. A glyph appeared there and he moved over a couple feet and put his hand on the ground. A glyph appeared there and the first glyph disappeared.
+
+“Huh? What gives? Why didn't it work?”
+
+Aimus saw what he was doing and told him the secret. “The guy I paid to hide the lookout put stones in the ground. He didn't enchant the ground itself.”
+
+Ren slapped himself on the forehead. Of course! That's how you'd get around the one glyph limitation!
+
+Ren looked around quickly, but didn't see anything that he could enchant (and then bury) in so short a time... but then saw the side of the river itself. There were lots of rocks there. Ren absorbed the glyph he'd just put on the ground and ran over to the river and kept touching rocks along the shore. Ren thought 'trap' each time he touched a rock's surface to place a glyph there. Aimus saw Ren working at something and headed across the river. It would at least give them something to stand behind as protection from the forest fire. Ren had a good 20 feet of rocks enchanted then half jumped and half swam across the slightly deep river. Aimus was waiting for him there and Ren pulled himself out of the water on the other side and envisioned another glyph in his mind. Ren smiled again and positioned rocks in the water to be within easy reach. His gamble might not work, but it sure was going to look spectacular.
+
+A case of theft: this story is not rightfully on Amazon; if you spot it, report the violation.
+
+Ren asked Aimus for his quiver and Ren enchanted 10 of the arrows with a glyph made of 3 Ice runes. Ren had barely finished when the trees he'd set fire to across the river burst apart and two very large, and quite reddish colored, stone golems came into the clearing. Seeing their prey, they stomped forward and reached the river... and activated the 'traps' Ren had set. A bunch of small rocky hands reached up and grabbed each of the golem's feet. Ren assumed that the hands weren't as big because he hadn't enchanted an actual trap with them. The hands had a hard time holding on to the smooth stones of the golem's feet, but that wasn't really their purpose. The trap was only a distraction.
+
+Ren reached into the river and touched the half a dozen rocks he'd placed there. He enchanted them with a glyph made up with a rune mixture of 2 Wind and 1 Water, saying 'Activate' each time. Ren's mana pool drained away completely and he started using his normal mana. A torrent of water blasted out of the river with each new enchantment and flew across the short space to hit the golems. The positions of the rocks weren't perfect, but most of the water hit the golems in the chest and legs. The water sizzled and boiled away quickly and a light fog seemed to cover the golems. The water kept flowing out of the river and into the fog, but the sizzling died down quickly. Ren heard a crumbling sound and a stone golem stepped out of the fog. It had broken free of the trap. Aimus drew an arrow back and let it fly. It hit the golem in the neck and ice shot out from the impact. Two more arrows hit the neck nearby and the golem shifted it's weight to turn away from the arrows... and right into a water stream. The ice thickened and the golem's head popped right off.
+
+“Aimus! The shoulders!” Ren said and took out his own bow and arrows.
+
+Aimus hit two more in each shoulder and the water expanded the ice from the arrows. The golem's arms popped off just like the head did. The legs kept coming forward, and Aimus put two more arrows into the hip joint and the water helped the ice spread quickly. The leg popped off a moment later and the torso flopped into the water with only one leg attached. A grinding and snapping sound was heard and the second golem stepped forward. It had seen what had happened to the other one and raised an arm across it's face, protecting itself... but by then it was already too late. Ren and Aimus knew what to do now.
+
+Ren had his arrows enchanted with Ice glyphs by then and handed 5 of them to Aimus. Ren shot the remaining golem in the belly, but the arrow just bounced off and fell into the water. Ren loaded another arrow and took careful aim. The golem took another step and was now halfway across the river. Ren hit the belly again, but this time the arrow hit the mortar joint between the hips and torso. The ice formed and the water spread it, but it didn't pop off like the other ones did. Ren notched another arrow and shot it into the river in front of the golem's feet. The water froze instantly in a small area and Ren shot another arrow. Both the golem's feet were now trapped in ice and Aimus took his time and shot one of the golem's hip joints with two arrows. Ren reached down, grabbed one of his enchanted rocks, and moved it to spray the golem's hip. The ice spread quickly and the leg popped off at the joint. Aimus and Ren did the same to the other hip joint, and the torso fell into the water. It still had both arms and could probably drag itself around, but Ren enchanted a few more arrows for Aimus and they took the golem's arms off as well.
+
+Notice!You have successfully defeated the Spirit of Earth - Behemoth Stone Guardian (x2) and evaded capture and possible death.
+Rewards: 1000XP
+Fame XP Bonus: 10%
+
+
+
+“Nice work, Ren.” Aimus said and pat Ren on the shoulder. “I wasn't sure what you were doing at first, but once I caught on we handled them rather quickly.”
+
+“I realized that if I could get the stone and mortar hot enough, the stones would expand and the mortar would loosen. If it was then doused with water, the stones would shrink too quickly for the mortar to adjust. I'd hoped it would become brittle and make the golems easier to fight.” Ren explained as he put his bow away.
+
+Aimus lifted the last enchanted arrow that he had. “And these?”
+
+“Ice can seep into the smallest cracks and weaken the stone. When you hit the mortar instead... well, then I knew it was going to be much easier to beat them.”
+
+Aimus nodded and thought about stepping into the water to gather up as many arrows as he could. He could always make more, but it was better to recover the used ones first. There was no need to make extra work for himself if he didn't have to. The only problem was Ren's enchanted stones were still shooting water from the river. Aimus looked up at the fire that had engulfed a good portion of the forest and then at Ren.
+
+“Are you thinking what I'm thinking?” Aimus said.
+
+“Nope.” Ren said, deadpan. Aimus looked at him with raised eyebrows.
+
+“Ha! Just kidding.” Ren chuckled and bent down to pick up 2 of his enchanted rocks. Once out of the water, the flow of the water became smaller. It went from about the size of a fire hose to that of a garden hose. Ren thought about what to do... and then he smiled. Ren crossed the river, avoiding the remains of the rock golems, just in case they might flip over on him or something, and placed one enchanted rock in the river on the other side. He braced it so the stream of water coming out of the river would arc through the air and over towards the trees. The water stream ended about 3/4 of the way to the forest.
+
+Ren absorbed all the trap enchantments he'd placed along that side of the river and climbed out of the water. He walked over to where the arc of water hit the ground and put the second rock he held at the end of that. Ren angled the rock to send an arc of water to spray into the trees and the water stream leaped along the path he'd made.
+
+Aimus saw what Ren was doing and gathered up the other enchanted rocks. He brought them to Ren who took one and held it inside the arc. Ren turned the stone around and soaked a tree. The fire died down momentarily, just enough for Ren to use his Absorb Enchantment on the 'Breath of Fire' glyph he had placed there. It worked like a charm!  Ren thought and then laughed. He had made a pun. Aimus ran back to the water and carefully picked up the arrows he could get safely.
+
+It took a while for them to move into the forest and for Ren to absorb the enchantments he'd placed. Ren had to enchant more rocks the further into the forest they went, so he could maintain the stream of water. They got back to the lookout and saw that it, and the surrounding trees, were spared the brunt of the fire. They kept going and eventually got to the spot where the terror causing trees had been. It was still burning high so Ren decided to just let it burn. He cast the 'Blast of Water' glyph on nearby trees to stop the fire from spreading back into the places they'd already saved. A constant flow of water, even such a small amount, should keep the place wet enough. Ren would have to come back and destroy them later. Too much water can cause just as much destruction as the fire would. They made their way around the rest of the fire damaged forest and spread water wherever they went.
+
+Exhaused and drained, Ren sat down under the lookout. “Whew! I'm glad that's over.”
+
+Aimus sat down next to him. “That was fun.”
+
+Ren raised a single eyebrow and looked at Aimus.
+
+“The last time I had to handle a forest fire, it had to be done the old fashioned way. Use buckets to wet down everything you owned and hoped the fire passed you by.”
+
+“Really?” Ren said.
+
+“Yeah. It was hard. The feeling to get out there and do something about it was quite strong... but I knew there wasn't anything that I could do, except to wait for it to be over.” Aimus said and shrugged. “Why else do you think I live in the middle of three open fields? It's not because I like the view.” Aimus said and laughed.
+
+“I was going to ask why you named your place Blackmeadow Homestead, but I think I just figured it out.” Ren said.
+
+Aimus nodded and didn't say anything further. Ren took out some of the food he had in his inventory, including the buns he'd taken from the table at lunch, and shared it with Aimus. They ate in silence and listened to the sound of trickling water.

@@ -1,0 +1,179 @@
+---
+id: f2c5a3e7-d06a-5677-9c95-647969750f74
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23 - The Field"
+slug: 0007-chapter-23-the-field
+partOf: mythrans-master-of-all-continued-completed
+position: 7
+ownLength: 2895
+unit: words
+publishedAt: 2016-09-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92517/chapter-23-the-field"
+royalRoadId: "92517"
+---
+
+With a ton of help from Sally, the system, and a couple more spools of fine spider silk thread he'd gone into the back room to make, Ren finally got the Elven clothing finished. They both stood back and marveled at their creation.
+
+He'd gone with a black undertone for the mid-thigh length coat, and put a thick strip of gold brocade at the sleeve cuffs, collar, and shoulders. A thinner strip went down the front where the buttons were, and along the hemline. Surprisingly enough, the system let him choose a tree and leaf style for the brocade, with vine like swirls and green leaves mixed in. He didn't know those kinds of options were even available. The tunic shirt was of a simpler design compared to the coat, but he settled on a dark green color. It had a gold filigree strip around the collar, down the front along the buttonholes, along the hemline, and on the cuffs. He went with the same color for the pants as the tunic. The pants even had a gold filigree strip down along the outside of the legs. He wasn't fussy on the sash across the chest option, so he didn't bother with it and let the system make the belt instead. It was mostly just a regular belt with some Elven decoration on the buckle. His Tailoring main skill and Stitching sub skill were now at Intermediate Level 2. Both the fabric and the thread were extremely difficult to work with. He had gained another few points in Dexterity and Strength, too.
+
+He let Sally make the boots, since he had no experience in leatherworking, and he asked her where she had learned it. She told him that her husband had shown her the basics when they were first married, but that he had passed away a long time ago. Ren apologized for bringing it up, and Sally laughed. She said he was a tough man and he died doing what he enjoyed the most. Ren asked what, and she shook her head. She just said that she'd loved him with all her heart and she will always remember all the good memories they had together. He'd also passed on all of his knowledge to their son, Aimus. When Sally was finished, the knee high boots were almost as ornate as the coat, with a black color and tree designs on the sides and on the toes and heels.
+
+Superb Elven High Court UniformHigh Quality!
+While wearing these clothes you will fit into the daunting realm of High Society with ease.
+No one will question your right to be there.
+
+Durability 300/300 (each piece)
+Full Set Bonus (5 pieces): +5 to all Stats when worn
+
+
+
+Ren's eyes bulged when he read the popup. +5 to all stats? That's... amazing!  He turned to Sally and gave her yet another hug.
+
+“You don't know how much this means to me.” He told her. He really didn't want to show up at the party dressed... well, normally.
+
+“It means just as much to me.” She said. “To have someone like you as my student, who enjoys themselves so much and isn't afraid of hard work, has been the best time of my life.”
+
+Ren ducked his head so Sally couldn't see him blush just as hard as she did before, but she knew what he was doing, laughed anyways and ruffled his hair. He looked at the bolt of fabric and saw that they had only used about half a dozen yards or so of fabric to make the whole outfit, even with the boots that needed a double layer just for the soles. Ren went to the back room and got an empty bolt roll. He took the end of the cloth and wrapped it around the new roll. He transfered about half of the bolt of cloth that was left (about 50 feet) to the new roll and cut it off from his roll.
+
+“Ren, what are you doing?”
+
+Ren smiled, secured the cloth on the roll with a couple pins, and handed it to Sally.
+
+“REN!” She almost shrieked. “No! I can't take that!”
+
+Ren kept smiling and holding it out. “If it wasn't for you, all I'd have is just a big pile of spider web silk that I wouldn't know what to do with. I know you're not going to take any more money from me, even if I tried to force you. This is the best way for me to thank you.”
+
+Sally shook her head. “Ren, do you know how much something like that is worth?”
+
+“Nope.”
+
+Sally sighed. “You're just going to leave it here anyways when you go, aren't you?”
+
+“Yep.”
+
+Sally reached out and took it gently from his outstretched hand. “T-thank you.”
+
+Ren didn't say anything and gathered up all of his things and put them away. He didn't put on the new outfit though. He wanted to save that for the party in a couple days. He asked Sally if she was going, and she said she wasn't going to... but if she got to see what he looked like in the new outfit, it would be worth it to go. Ren laughed and said that he'd be happy to see her there, and bid her farewell. Sally waved to him as he left her shop and he stepped around the corner. It was time for him to log out for the day. He figured he must have gone a bit over his time limit, but if anyone was watching, they'd have seen that he had a good excuse as to why he didn't leave in the middle of all of that.
+
+“Logout.”
+
+Ren waited for the familiar sensation of blackness... that didn't come.
+
+“Huh?” Ren took a lungful of air and almost shouted.
+
+“I said 'LOGOUT' ”
+
+... and nothing happened.
+
+“Oh, crap.”
+
+********
+Lucy watched as Ren made such beautiful clothes, and didn't disturb him, even though he was a half hour overdue on his time limit. She watched as he finally left the shop and went into the alley. When he tried to log out the first time and nothing happened, she stood up. When he tried the second time and got the same result, she ran to the doorway and hollered.
+
+“Dr. Hobbard!” She took a deep breath. “DR. HOBBARD!!!”
+
+********
+The CEO of Sid Tec was on the phone with the doctor for several minutes. He asked his secretary to connect Max from programming, turning it into a conference call. They talked for a while, but Elise didn't hear anything. She knew something else must have happened to her poor Ren and she wondered what it was. She was tempted to pick up the extension, but her boss would know right away. The light for her phone would appear on his and he'd know she was listening in. He stepped out of his office and looked at her a moment later.
+
+“Call a meeting.” He turned around and closed his door.
+
+An hour later the CEO, the VP, their secretaries, and the whole section of the Programming Division of the IT department was there.
+
+“What can we do?” Edward asked.
+
+“Not much.” Max responded.
+
+“What about the IFL protocol? It worked the last time.” Edward said.
+
+“Yeah, it would work... if there was something wrong.”
+
+“What do you mean?” The VP asked.
+
+“Well, the protocol was designed so that if there was any unstable or irregular brain activity, it would cut off feedback and safely log off the user.”
+
+“Yeah...and?” The VP said.
+
+“Well, according to the system, there's nothing wrong with his connection and the protocol won't initiate.”
+
+“Nothing wrong? We have a user trapped in the game!” Edward interjected.
+
+“There's no instability in his connection, so there's no irregular brainwave pattern.” Max replied.
+
+“Can we cause one?” The VP asked. He knew it had been a mistake when someone, who never talks at meetings, opened her mouth.
+
+“Excuse me?!?” Elise interjected. Everyone at the meeting looked at her. “Are you telling me, that you want to intentionally cause an irregular brainwave pattern and potentially cause brain damage to a young boy who's been stuck in a hospital and JUST HAD A SEIZURE FROM OUR EQUIPMENT!”
+
+Edward reached over and placed a hand on his secretary's shoulder to calm her down. He'd never seen her this riled up before.
+
+“I'm pretty sure that wasn't what he meant, right Jack?” Edward said without looking at the VP.
+
+“Um, no.” He looked around and everyone could see that that was exactly what he'd meant if it could end this crisis before it got out of hand. He was quick to think on his feet, however. “I thought if we... simulated a bad pattern, it would initiate the protocol and we'd be done with this whole mess.”
+
+Did you know this story is from Royal Road? Read the official version for free and support the author.
+
+The programming guys folded in on themselves and conferred with their head programmer Max to see if that was a viable option. He poked his head up a few minutes later.
+
+“We'll need to run some simulations, but we're willing to give it a try.”
+
+Elise barely stopped herself from launching out of her chair at Max. He saw her flinch. “On A.I. Players, okay? Not real humans.”
+
+Elise relaxed visibly and Edward called the meeting to a close. He nodded to everyone as they left but stayed sitting at the table himself and motioned for his secretary to remain as well.
+
+“What was that?” He asked his secretary.
+
+“I... I don't know.” Elise said. “It's just... you've read his story. He's been through so much... and yet he's still a well adjusted young adult. Now with the game he's been leading a normal life; in the game I mean, and now this! It's just a bit too much for one little boy to handle, don't you think?”
+
+Edward nodded. “It's getting to me, too.”
+
+********
+Ren sat down and perused all the in-game options available to him. He checked everything that he could think about that even remotely resembled his situation, but he didn't find a single thing about not being able to log out. He assumed this was the first time it happened, and he figured that there'll be a section there soon. He laughed to himself. It figures, doesn't it?  Ren had been doing a lot of 'first times' in the game... and now he was making the people who made the game have a 'first time', too. He laughed again and stood up.
+
+Well, there's no point in worrying about it for now. There's nothing else I can do here on my end. He thought to himself, but then he realized something he hadn't thought of.
+
+I'm stuck in the game. He looked around and no one was there.
+“I'm stuck... IN THE GAME!!! WHAAHOOOOO!” He yelled and then jumped into the air.
+
+Ren calmed himself down and left the alleyway. He decided to see if the old man alchemist wanted any spider poison glands, since he didn't know what he could do with them. The old man was delighted that Ren had some of them and decided to let Ren in on a little secret.
+
+“Normally I don't speak about things like this, but sometimes... unsavory people come to me occasionally... looking for exactly this kind of product.”
+
+Ren was intrigued. He assumed there were some bad people around, but he didn't expect them to be right here under his nose. The old man offered him 10 silver for each gland. Ren handed over 10 poison glands, and threw in 6 venom covered fangs because he thought the old man might want them as well. The old man gave him a nod and a gold coin. He stashed the fangs under the counter and slipped Ren a piece of parchment. Ren looked at it and it glowed, then disappeared.
+
+New Recipe!Vial of Poison
+This poison can cause severe pains and significant health loss
+If left untreated can cause serious harm but nothing permanent
+
+Ingredients:
+1 Spider Poison Gland, 1 weak poison potion, 1 potency berry
+
+
+
+Ren stared at the old man and the old man winked at him. Ren was about to ask what he would need it for when the old man handed over another piece of parchment. Ren looked at it, it glowed and disappeared just like the other one.
+
+New Recipe!Vial of Antidote
+Cures most (but not all) poison effects
+
+Ingredients:
+1 Sunflower, pinch of Balefire Moth dust, 1 weak antidote potion, 1 potency berry
+
+
+
+“I couldn't let you go with one and not give you the other, now could I?” The old man said and smiled.
+
+Ren asked where he could find the sunflowers and moths, and the old man said to head out the north gate, walk about a mile, and that he couldn't miss it. Ren thanked him and left the shop. A mile wasn't that far, so Ren decided to walk and enjoy the scenery. He could have run the whole way, but he had a day or so to kill before the party, and figured that this was as good of an opportunity as any. He saw players and NPCs moving around and doing tasks in the city. When people noticed him they waved; he waved back to some, and nodded to others, just to be polite. He went through the north gate and walked a little more than a mile. Then he saw what the old man meant. His jaw dropped open when he beheld the sight.
+
+A field of giant sunflowers was there. They swayed in the wind for as far as the eye could see. Ren walked over to the edge of the field and marveled at the sheer size of them. They were taller than he was! He looked around and listened, but he couldn't hear or see anyone else. He also didn't see any moths. Ren reached out and plucked a sunflower from the ground. It shrank in size thankfully, and he dropped it into his inventory. He picked a few more and they stacked together, just like the fangs, bat wings and spider parts did. He could store multiples of the same item in each slot. Ren grinned and continued picking. After half an hour, he still hadn't seen any moths, so he decided to go into the field to look around. He'd picked enough sunflowers to last him a long time.
+
+He made his way through the tall flowers but couldn't see a thing. All he saw were flower stems. He even tried jumping up to look over the tops, but all he could see was more and more sunflowers. He walked for an hour more, then decided that he wasn't going to find any moths by just bumbling around in the field like that. He didn't even know what he was supposed to be looking for. He probably should have asked the old man what the moths actually looked like. No sooner had he thought that when he heard a rustling noise. He turned his head so his ear was pointing in the right direction, and he heard it again. He followed the sound of the noise and it grew progressively louder. He slowed down and crept along, trying his best to not make any noise. He got to within a few feet of whatever it was that was making the noise and stopped.
+
+New Skill!Sneak Level 1 (Beginner 0%)
+Allows you to quietly move around and produce less noise
+Higher skill levels will allow you to move quicker and make little to no noise
+
+
+
+He wasn't sure he wanted to see what was going on, but he needed that last ingredient to make the antidote. He steeled himself and pushed through the last few stems.
+
+Before him was kind of a clearing. He saw caterpillar like things, about the size of a dog, moving around and munching on fallen sunflowers. There were mounds in the dirt between some of the sunflowers and a few holes. If he didn't know any better, he would have said the caterpillars came from the holes! He sat down and watched them eat. Ren didn't feel hungry, even though he hadn't eaten since he was at the mansion earlier that day. He looked up and saw that the sky had gotten dark. It was too late to walk all the way back to the city, and he still hadn't gotten the ingredient he needed. He backed away from the clearing and took out a couple yards of spider silk fabric. Ren used his tent recipe, and with the system's help, made a small one man tent. Sally would probably kill him if she knew he'd used it for something like a tent. It made him smile. He would have laughed, but he was still too close to the caterpillars to make any noise. He had no idea how they'd react if he did.
+
+Ren opened up the tent and used the bolt of cloth to prop it up inside. He had tried to use a couple sunflower stems, but they were just too weak to hold anything up. He took out his bedroll, got settled in, and went to sleep.

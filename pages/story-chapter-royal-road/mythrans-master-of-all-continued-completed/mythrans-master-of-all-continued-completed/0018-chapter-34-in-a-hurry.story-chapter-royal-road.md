@@ -1,0 +1,180 @@
+---
+id: 275613f2-baf9-5f93-b286-d3f5d3e0d71b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 - In A Hurry"
+slug: 0018-chapter-34-in-a-hurry
+partOf: mythrans-master-of-all-continued-completed
+position: 18
+ownLength: 2589
+unit: words
+publishedAt: 2016-09-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/94966/chapter-34-in-a-hurry"
+royalRoadId: "94966"
+---
+
+The arrow flew through the air and across the field... then missed the target. It was a bit too high. Ren took another arrow and notched it on the bowstring just a tiny bit higher than the last one. He drew the arrow back to his cheek, took careful aim again and let the arrow go. It flew across the field and hit the target near the bottom.
+
+“Haha!” Ren said and everyone clapped.
+
+Notice!You have learned a new skill!
+
+Archery Level 1 (Beginner 0%)
+This skill allows you to use a bow and arrow.
+Higher levels will allow for greater accuracy and to shoot at longer distances.
+
+Ren took another arrow and did it again. He could have let the system do everything for him... like aim and adjust for the wind and the distance... but he wanted to know how to do it, not just shoot randomly and let the system handle it. It's not that he thought it would be unfair, but he knew that if he had a good handle on the basics of it all, his ability will increase all the more quickly. He loosed all 20 arrows that were in the quiver; and except for the first one, they had all hit the target in some fashion. Ren walked across the field to retrieve the arrows when Teepo called to him.
+
+“Master, it's getting closer!” Teepo whispered.
+
+Are you well hidden?  Ren thought.
+
+“I think so.”
+
+Good. If you think it might find you, try and move around to another spot. I'll be there as fast as I can.
+
+“Okay.”
+
+I'll ask you to whipser to me again when I'm a bit closer. Stay safe, Teepo.
+
+“I'll try, master.” Teepo said and then went quiet.
+
+Ren gathered up the arrows quickly and ran back to the house. He put the arrows in the quiver and hooked it over his right shoulder, and hooked the bow over his left. “We have to go. Now.”
+
+Aimus nodded and said goodbye to his family. He led Ren across the field that Ren had pointed out as the direction he'd heard Teepo from. They made good time and crossed three similar fields, until they arrived at a dark and dreary forest.
+
+“Stay behind me.” Aimus said. “It's not safe in here. At all.”
+
+Aimus took out his machete like blade and hacked a spot to walk through. Ren took out the one Aimus had given him and followed closely behind. If there was anyone's advice he would take in this situation, it would be Aimus'. He knew what he was doing and Ren didn't have the first idea of what to do. Ren watched as Aimus cut through the underbrush and kept going deeper into the forest.
+
+It had only been about 20 minutes so far and Aimus looked like he was tiring out already. When they stopped for a break a couple of minutes later, Ren asked if he could do some for a while. Aimus said no at first, but he remembered how easily Ren had held that stick holding the tension on the bow. Aimus nodded and he showed Ren how to properly swing the blade so that it used momentum to hack the underbrush out of the way, and not just brute strength. Strength would definitely help, though. Ren smiled. When their break was over, Ren stepped forward and swiped through the bushes like they were nothing. Ren let out a gleeful laugh and walked at a steady pace, clearing a good sized path through the forest as if he was just taking a nice walk and nothing was in his way at all.
+
+Aimus stood stock still and watched Ren rip through the bushes. Ren had gotten a good distance away before Aimus realized that he was being left behind. He caught up to Ren quickly and kept pace with him. An hour later, after several stops to have Teepo do the whispering technique to make sure they were on the right track, they were still walking through the forest. Ren kept swiping away the bushes and vines with ease.
+
+How is he doing that?  Aimus thought to himself. My arm was nearly numb after only 20 minutes!  Aimus shook his head. Is this kid for real?
+
+Ren barely felt anything at all in his arm. Using the smithing hammer and the mining pick so often had pretty much desensitized the nerves in his arm. He didn't even have to use Iron Grip to keep a hold of the blade because his Shock Absorption reduced every impact to nothing. He checked and sharpened the blade every so often; especially after it cut a thick vine, or nicked a nearby tree trunk. He'd only repaired it once, though... and that was only because it was a half dozen points below it's total and Ren didn't want to let it get too low.
+
+Aimus reached out and touched Ren on the back a few minutes later. Ren stopped immediately and Aimus pulled him down into a crouched position. Ren activated Sneak and turned around. Aimus had a finger to his mouth. Ren didn't ask what was up, since making noise was not what Aimus wanted him to do. Aimus pointed to a spot a few trees away. Ren looked and saw something about the size of a dog. He couldn't quite make out what it was since it was half hidden in the underbrush. They waited for about 10 minutes and then the thing backed out of the bushes. It was a giant rat and it had a dead snake in it's mouth. Ren looked back at Aimus and saw he had a concerned look on his face.
+
+They waited there for a good while before the rat finished it's meal and moved off into the forest. 
+
+“I was wondering what had happened.” Aimus let out a sigh and sat down.
+
+“What?” Ren said and joined him.
+
+“Didn't you notice that there hasn't been a single snake, a boar, a bird, a bat, or even large insects while we've been walking along?” Aimus asked.
+
+“No, I didn't notice. I thought that it was just normal for this kind of forest to be so quiet.”
+
+Aimus shook his head. “No, I've been here quite a few times. My lookout is pretty close to here and it's never been this quiet. Now I know why.”
+
+Ren thought about it for a moment. “What should we do?”
+
+“We're going to be very careful and head over to my lookout. We can see for quite a ways from it. I need to know how far they've spread.” Aimus said and stood up. “If it is what I think it is, then I'll need to warn the surrounding settlements.”
+
+Ren nodded and stood up himself. They moved off into the brush, but didn't cut it away this time. It took another hour or so for them to reach the place Aimus led them to. They saw several more rats along the way and gave them a wide berth. Luckily, there weren't any around where they were now and Aimus visibly relaxed.
+
+“It's that one.” Aimus said and pointed to a tree that looked just like any other in the area. They were all about 4 feet wide and had a thick, grayish brown bark.
+
+Ren walked over to it but couldn't see any visible marks on it to distinguish it from the other trees. He was about to ask Aimus how he knew it was that one, when Ren had a thought of inspiration and activated Enchanted Eyes. A glyph appeared on the trunk of the tree. He didn't recognize it, so he activated Read Rune and Decipher. He traced the runes he could see in his mind because he knew it shouldn't be touched unless he wanted to break it. He recognized 3 of the runes, but the last one... he couldn't read it, but saw it's shape clearly.
+
+Notice!You have learned a new Rune!
+
+The genuine version of this novel can be found on another site. Support the author by reading it there.
+
+Ren put away the machete like blade and took out his Book Of Runes. He flipped to the last page of the single runes; and sure enough, a new rune was there at the top corner.
+
+Rune Of WardingThis rune grants a +5% chance of not being discovered.
+Can be combined with other runes or glyphs for extra bonuses.
+
+Ren smiled and turned around, keeping Enchanted Eyes, Read Rune, and Decipher, on. Having the abilities on at the same time drained his mana at a slow but constant rate, but he could now see there were similar glyphs around the area, scattered through the trees. When he looked down, there were some on the ground as well.
+
+I wonder how that works?  Ren thought and knelt down to look closer at the glyph closest to him. Isn't the ground only one thing?
+
+Aimus watched Ren as he looked at the tree and then took out a book. Aimus looked over Ren's shoulder, saw the glyphs marked within, and turned away quickly. He didn't want to be accused of trying to steal someone else's work. Who would have thought the kid would be an enchanter, too?  Aimus thought as Ren bent down to look at the ground. I thought he was only a tailor...
+
+“The lookout is up there.” Aimus said.
+
+Ren put his book away then stood up. He turned his head up, and up, and up. About 40 feet above their heads was a wooden platform that looked like it was precariously balanced on a branch... that didn't look strong enough to hold the extra weight.
+
+“Okay.” Ren said and walked to the tree. He saw that Aimus was taking some of his gear off and securing it properly, so it wouldn't fall off or shift his balance when he moved. Ren put the small bow and quiver that he carried into his inventory and started to climb the tree. He alternated using Iron Grip and pushing up with his feet.
+
+I wonder if there's an Iron Grip for feet?  Ren pondered as he slowly got higher up the side of the tree.
+
+Aimus got his things properly tied so he could climb the ladder easier and looked up to see Ren about 30 feet off the ground and clinging to the tree. “Hey! What're you doing?”
+
+“Huh?” Ren said, startled out of his thoughts. His foot dislodged from the tree, and since he was in the middle of climbing, he only had one hand secured. He swung out from the tree and his other foot slipped... just as the hand with Iron Grip tore off the bark he'd been holding onto.
+
+Aimus was shocked when Ren's little body swung out from the tree and then plummeted 30 feet to the ground. “Noooo!”
+
+A second later, Ren hit the ground with a thud. He had landed on his back at first; but because he had swung away from the tree and had hit with such force, his body rebounded and his momentum flipped him over onto his face. Aimus was frozen with shock and didn't try to rush over to help. There was nothing he could do for the kid now.
+
+“Ow.” Ren said as he stood up. That fall had taken almost 10% of his health. He brushed himself off as best as he could. He was so relieved that he'd taken the extra time to make such durable clothing.
+
+Aimus still stood there in shock, but for a different reason. He's not dead?  Aimus took a step towards Ren. Why isn't he dead? A fall from that height would kill a normal person!  He took a couple more steps. I...I don't think he's even broken a limb or anything! But how is that possible? The little bugger even bounced when he hit the ground!  Aimus stood in front of Ren and placed his hands on Ren's shoulders. 
+
+“Are you all right?” Aimus said in a normal voice and let none of his thoughts show on his face.
+
+“Yeah. It's a good thing I didn't land on my head, though.” Ren said and tapped the top of his head. “No helmet.”
+
+He really is fine!  Aimus thought and let Ren go. This kid is amazing.
+
+Ren turned around and went back to the tree.
+
+“Ren! Wait!” Aimus said.
+
+“It's okay. I'll do it this time.” Ren said and started to climb the tree.
+
+“No, you don't understand! There's a lad-” Aimus started to say but Ren cut him off.
+
+“I said I can do it!” Ren said with determination. He was already 10 feet up the tree.
+
+Aimus sighed and walked around the tree to the ladder he'd placed there. It led right up to the platform and to handholds at the top. Aimus climbed the ladder and a few minutes later stood carefully at the top. He turned to the side of the platform, next to the tree, to wait for Ren.
+
+“What're you looking at?” Ren said from beside Aimus, trying to see what he saw.
+
+Aimus jumped and could have fallen off the platform, but caught his balance before he did. “Ren! You scared the crap out of me! I almost fell!” Aimus said, indignantly.
+
+“I'd have grabbed you before that happened.” Ren said. “What were you looking at?”
+
+“I was looking for you.” Aimus said as he calmed down, but still had a scowl on his face. “How did you get up here so fast?”
+
+“I'm a quick learner.” Ren said, but didn't elaborate.
+
+Aimus shrugged and walked over to the small railing and looked out over the area that could be seen from such a high perch.
+
+Ren took this opportunity to talk to Teepo. It had been about a half hour since the last time they did the location finding trick.
+
+Teepo, how are you?  Ren thought.
+
+“I'm fine, master.” Teepo said.
+
+Teepo, are you still whispering?
+
+“Yes, master.”
+
+Ren smiled. Then I'm pretty close to where you are.
+
+“That's great! How much longer? I've had to move a few times so far. I don't know if I can move safely again.”
+
+It won't be much longer, Teepo. I promise. Ren said.
+
+Aimus turned to Ren. “It's not as bad as I thought. I was worried there was a new nest of them in the forest, but I don't see anything. What direction is your friend?”
+
+Ren and Teepo did the location finding technique and Ren pointed to the right. “He's pretty close.”
+
+Aimus turned as a frown formed on his face. He pushed a hand through his hair. “We can't go there.”
+
+Ren looked at Aimus with shock. “What? Why?”
+
+“That's the old burial mound. It's forbidden to trespass there.”
+
+Ren squinted his eyes at Aimus, but didn't say anything as he went to the ladder and started to climb down.
+
+“Where are you going?” Aimus asked.
+
+Ren didn't respond and kept going down. Considering it was a ladder and not just the side of a bare tree, Ren went down faster than a normal person would in the same situation. He got to the bottom in no time and took out the bow and quiver from his inventory.
+
+“Ren! Wait! There's a reason you can't go there!” Aimus shouted and started to climb down from the platform.
+
+I'm coming Teepo... no matter what!  Ren thought as he activated Sneak and moved into the underbrush.

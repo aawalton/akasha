@@ -1,0 +1,83 @@
+---
+id: 6eb05af7-85f6-5ac9-a3b6-80b432105b2b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11"
+slug: 0011-chapter-11
+partOf: savage-divinity
+position: 11
+ownLength: 1671
+unit: words
+publishedAt: 2016-03-16
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58994/chapter-11"
+royalRoadId: "58994"
+---
+
+Demonstrating the Forms isn't all we do in class. Even the older students lack the stamina to continue for four hours. The younger group stops after half an hour. I wipe the sweat from my forehead and sit down, to 'meditate' on new discoveries. 'Train the body, train the mind', Alsantset's most repeated advice.
+ 
+I cross my legs, straighten my back, close my eyes, and clasp my hands in my lap. I begin the breathing exercises I was taught. I find meditation difficult. It's not just sitting still, which I find difficult enough. “Being awake inside, without being aware of anything, except awareness itself.” Stupid idioms and platitudes. Unfortunately, meditation is a requirement for becoming strong. The State of Enlightenment is a mindset tailored to battle. See more, know more, act quickly, and react quicker. The State of Balance, as they call a true meditative state, is the first step in cultivating the Energy of the Heavens.
+ 
+I am a modern man, or at least I was. So when they told me that breathing exercises could eventually lead to me being able to chop boulders in half, due to cosmic power, I was dubious. Until I watched a petite twenty year old girl do just that. With her hands. With no idea how it was possible, I asked Taduk about the history of cultivation. I thought, maybe, there would be something behind the mechanics of cultivation. Something that seemed mysterious and mystical to them, but that I would understand due to my past life's memories.
+ 
+The history, or theology rather, begins with a creation story. The Heavenly Mother of All gave birth to the four elements: earth, fire, wind, and water. The four of them, working in tandem, created the world. Fire in the core, Earth for the land, Wind for the air, and Water for the oceans. Happy with what her children had made, she gifted this world with life. Humans and beasts, plants to feed them, trees to shelter them, the sun, the moon and the stars so that they could see, and with her teachings, all were living in harmony.
+ 
+The Father was jealous of what his wife had done, and in his rage, created the demon race. Avatars of anger and hatred, destruction and wrath. They poisoned the hearts of beast and man alike, who were then known as the Defiled. The demons, urging them on, created war and strife across the world. This lasted for a countless number of years, and a stalemate developed between the Defiled, and those who remained true to the teachings of the Mother.
+ 
+When the Father grew tired of the stalemate, he taught the demons how to take physical form. They were incredibly powerful, and were able to share their power with the Defiled. The demons then led armies to wipe out their enemies, the remnants of untainted humanity and beasts. The stalemate broke, and humans and beasts died in the millions.
+ 
+Originally, the Mother had suffered in silence watching her creations struggle. It was only fair, since the Father didn't take direct action either. She had her creations, He had his. That was the extent of their involvement. However, in giving the demons physical form, the Father had altered the conflict in his favor. Since one side had energy given physical form, in order to balance it, the Mother gave our physical forms the ability to take in energy. By cultivating the Energy of the Heavens, we could harness its power and become stronger. The greatest among the humans and beasts were able to match the strongest demons in power. With our new strength, we were once again able to fight the Defiled to a standstill. And so the stalemate continues even now.
+ 
+When I asked Taduk how much of the story was true, he laughed at me and called me a skeptic. He told me that of the story, the most important thing to note was that demons exist, and they want to kill everything. I thought the Iron Banner Company were hired for conflicts between countries, but there aren't any. Countries that is. On our Azure Sea Continent, any land unclaimed by Ancestral Beasts, belongs to the Azure Sea Empire. Taduk couldn't say which one came first, the Continent or the Empire. He did say that The Empire is responsible for creating the common script, in order to open up communication among its citizens. Most citizens speak and read it, with villages like ours, who have kept their native tongue, more rare.
+ 
+The Empire defends the people, but the continent is massive, and they can only do so much. So they hire groups like The Iron Banner Mercenary Company as part of their 'freelance defenses'. They aid in patrolling more dangerous areas, half a year at a time, and are charged with the defense of normal citizens from demons and enemy soldiers, in return for a modicum of independence and a variety of perks, including actual payment in coin, lowered taxes, and guaranteed freedom from slavery for your defined peoples.
+
+Support creative writers by reading their stories on Royal Road, not stolen versions.
+ 
+Not everyone is capable of cultivation. The strong protect the weak. The weak serve the strong. It is the fundamental law that everyone and everything living on the continent abides by. It's why there is little mercy for slaves. They are weak, and must serve. Slavery ensures service. The guards from the mines weren't breaking any laws, in the eyes of the Empire, until they murdered the slaves. Even slaves deserve to live at least. More fuel for the war machine.
+ 
+None of that was helpful in regards to my cultivation. I was still on the same level as everyone else. Lower actually, since I started late. I just need to work harder. I need to concentrate on meditation. I can figure this out. Breathe in. Breathe out.
+ 
+Calm my mind.
+ 
+Focus on nothing.
+ 
+Draw myself inwards and open myself to the Energy of the Heavens.
+ 
+Seek nothing, find everything.
+ 
+Be aware of nothing, but awareness itself.
+ 
+I am aware, of my awareness.
+ 
+I am also aware that I need to take a piss.
+ 
+God damn this mother fucking hippy bullshit. How the fuck, is Lamaze breathing exercises supposed to make me stronger?
+ 
+Why isn't there magic?
+ 
+Real magic.
+ 
+The hand waving, spell chanting, circle drawing, fire throwing, dragon summoning, Magic! That's what I want. Something with concrete rules, a system. None of this fortune cookie, cryptic, mystic, there is no spoon, the cake is a lie, quackery.
+ 
+I open my eyes. I'm too frustrated to do this. At myself, at my brain, at my failure. I look around, at the six and seven year old kids, sitting in perfect stillness. I'm being outdone by children. I hug my knees and rest my head on them. Why can't I do this?
+ 
+~~~~~~~~~~~~~~~~~~~~
+
+
+ 
+Meditation for the younger class lasts for an hour. Then comes free practice. The older students usually spar and do group exercises. For the kids, it's pretty much play time. Which is fine. Kids need to have fun. They run and play, and do kid things. I use the time to go through the Forms. At least I've had some success there, some progression.
+ 
+After free practice is weapons practice. Bow, Spear, shield, and short sword. If you weren't born or adopted into a soldier family, that's all that is taught. The standard equipment, if you will. The bow is made of horn, sinew and wood. A beautiful piece of workmanship. They're compact, made for use on the back of a horse or roosequin. The practice bows have a light draw, but the heavier bows can fire an arrow over half a kilometer. Some bows made by master craftsmen, using the best materials, can even reach ranges of two kilometers, which is ridiculous. I'm pretty sure that's the range of a sniper rifle. Myself, using the practice bow, I can barely hit a target at 15 meters.
+ 
+Again, it takes a long time to learn. It's kinda embarrassing being out performed by kids all the time, but I'm getting used to that.The spear and short sword are much easier to learn. Stab, slash, parry. Block with the shield. That's it. They don't really teach a comprehensive course on close combat. The bow is king here. While close combat is unavoidable, the reasoning is to leave it to the professionals. A villager with a bow is simple to train. All it takes it is a few hours of practice a day, for life. A full on melee combatant requires a much higher investment in time and money that most of the villagers can't afford. Everyone needs to eat, and food isn't free. Nor does it magically appear.
+ 
+So I pluck away at the bow, watching my arrows go wide of the target.
+ 
+I can't be wasting my time like this. I've been in this world a year now. If the village kicked me out tomorrow at dawn, I wouldn't bet on me surviving past sundown. I have yet to really learn something useful besides the language.
+ 
+Rome wasn't built in a day, however. I need to be patient. I just need to keep practicing.
+ 
+After this, I'll be headed to Taduk's place. He'll feed me lunch, nothing as good as Charok cooks, but after eating the brown slop at the mines, I really can't complain. Then its history and herbalism, which is rote memorization of facts. Some days, we walk around the mountain to pick herbs that he will use to make a variety of tonics, tinctures, creams and other medicinal items. He hasn't taught me any of that yet. Memorization first. The magic healing he showed me was an application of heavenly energy, so I can't learn that yet either. I've a long road ahead of me, and I haven't even managed the first step.
+ 
+I nock another arrow on my bow, aim, and let fly.
+ 
+At least this one hit the target.

@@ -1,0 +1,160 @@
+---
+id: ff0b9838-1c6c-581e-9ae8-e704afcbcc61
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24 - A Forgotten Friend"
+slug: 0008-chapter-24-a-forgotten-friend
+partOf: mythrans-master-of-all-continued-completed
+position: 8
+ownLength: 3003
+unit: words
+publishedAt: 2016-09-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92646/chapter-24-a-forgotten-friend"
+royalRoadId: "92646"
+---
+
+Ren felt multiple things poking his legs and woke up startled. When he opened his eyes, one of the dog-sized caterpillars was standing on top of him and eating his tent.
+
+“Ahhh!”
+
+There was no reaction at all from the creature.
+
+“Hey! HEY! Stop that!” Ren tried to push it, but it didn't budge at all. He was being slowly trampled under it's slowly moving legs. A quarter of his health was already gone. Ren shifted his body a little as it moved, and tried to turn to his side. He tried to become a much smaller target. It kind of worked, but the caterpillar's pointy legs hooked his pants and pinned him to the ground. At least it wasn't on his legs anymore. With nothing else to do, Ren watched the creature eat. Unlike with the sunflowers, that the caterpillars gobbled up faster than they could chew, this caterpillar took a small bite of the tent and chewed and chewed, until it finally swallowed and took another bite. Ren assumed that the sheer toughness of the fabric was giving the thing a really hard time. He guessed it must have been there nearly all night, since almost half of the tent was now missing. It hadn't gotten to the bolt of fabric holding the tent up, thank goodness. That would have been a horrible loss!
+
+Just then the caterpillar stopped eating, let out a big belch, and turned around. It trampled Ren some more, taking even more of his health, and tried to disappear into a hole right in front of the tent. It didn't get far, though. It was apparently much fatter now than when it first made the hole, and got stuck most of the way in. It's backside was sticking out and wiggled helplessly.
+
+“Serves you right, you little tent muncher!” Ren said and laughed.
+
+Ren watched it struggle for a minute and felt a little sympathy for it. It was technically Ren's fault for giving it such a big meal, even if it wasn't what Ren had intended the tent to be used for. Even though it's legs were used to dig, since they were pinned to it's side, it couldn't dig at all.
+
+“All right, hold on. I'll help.” Ren took out his mining pick and in short order dug the hole a little wider without hurting the caterpillar. He saw that the hole was only a few feet deep. The caterpillar fit into the wider hole easily. It turned around a couple of times. Ren thought it was making sure there was enough room for it, and then it spun a quick cover over the hole.
+
+“Hey, you're welcome!” Ren said.
+
+Ren looked around but couldn't see any other caterpillars. What he did see was the remnants of his tent. He sighed and put away his bedroll and the bolt of fabric. He wasn't sure what to do with the tent. He could probably leave it here and it would get eaten eventually, but he had no idea what it would do to the caterpillars. What if they choked on it or got sick? He gathered what was left of the tent and put it in his inventory. It made him think about the caterpillar he'd just helped. What's going to happen to it now that it had eaten so much? He'd better stick around to see what the results would be. He hoped all that would happen is the caterpillar would just pop back out to keep eating sunflowers. He could hear some of the others nearby doing just that.
+
+Ren knew he had some time to waste anyways, so he took out his alchemy kit and prepared the Vial of Poison recipe. He still had the weak poison potions from his first time at the old man's place. He got his mortar and pestle and ground up one of the poison glands he had left. He dropped in a potency berry, crushed them together, and poured the mixture into a bowl. He put in the weak poison potion and mixed them together. He very carefully poured it back into the potion bottle.
+
+Vial of PoisonThis poison can cause severe pains and significant health loss
+If left untreated can cause serious harm but nothing permanent
+
+Duration of effect: 20 minutes (if untreated)
+
+Ren stared at it... then he thought of something. He took another weak poison potion, and redid the Vial of Poison recipe... but this time he ground up one of the spider's fangs and threw in another potency berry.
+
+New Recipe!By mixing different ingredients you have discovered a new recipe.
+Let your enemies beware!
+
+Vial of Excruciating PainThis poison can cause extreme pain and significant health loss
+Causes paralysis for duration, even when treated
+If left untreated will cause serious harm but nothing permanent
+
+Duration of effect: 1 hour (if untreated)
+
+Ren stared at the new potion. Wow. That's just... nasty.
+
+Realizing something else, he took one of his weak antidote potions, ground up a spider's fang, and threw in a potency berry. He was going to have to gather some more basic ingredients soon. He was almost out.
+
+New Recipe!By mixing different ingredients you have discovered a new recipe.
+Play a joke on your friends!
+
+What? That was a weird comment. Ren thought... until he read what it was.
+
+Potion of ParalysisCauses paralysis for a short duration, even when treated
+
+Duration: 20 minutes
+
+Ren smiled. He knew what the comment was for, now. It probably would be a good trick to play on friends... assuming they were really good friends and could take that kind of joke. Ren laughed. It could also be very useful in other situations, too. He made another paralysis potion and then packed up his kit. He'd spend about half the day playing around with alchemy. He only had one potency berry left and wanted to save it for the antidote potion. He sat there and thought about all the things he needed to learn. It really was a daunting task, but if it was easy, he didn't think he'd want to play it. That was half the fun!  He thought. It's the best feeling in the world when you do something really hard and beat it!
+
+Ren's thoughts were interrupted when he heard a rustling sound. He didn't know what it was, but it was coming from the hole the caterpillar was in. He must be waking up to eat again.
+
+The rustling got louder and Ren watched as something pierced the silk covering. It looked like the caterpillar's backside and Ren took out the remains of his tent. The least he could do was feed the caterpillar the rest of it, since the tent was no longer of any use. The silk covering tore away and the caterpillar backed out of the hole... and spread it's wings.
+
+“Whaaaatt!” Ren said. He had expected the caterpillar and what he got was... well, he didn't know what it was that he got. It had wings that it spread out to catch the sun, it's body was covered in thick fur that covered everything. It's legs were a lot longer and covered in fur, too. It's head had segmented eyes, with hundreds of facets that reflected it's surroundings, and huge antennae. It was a bright white color, with designs along the edges of it's wings. The designs almost looked like... spiders crawling over webs.
+
+Ren cut a piece of the tent off and tossed it in front of the creature. It saw the movement and looked over at Ren. He froze. It looked down at what Ren threw, leaned forward, unfurled it's long tongue and tasted it. It pulled the tongue back and shuffled over to a sunflower. It reached out with one of it's front legs and hooked a stem. It bent the flower over and stuck it's tongue out again. Ren could hear a slurping sound. It was sucking up the nectar. Now that it had it's back to Ren, he could see a distinct design on the wings. It looked like a giant spider!
+
+It stayed there, sucking nectar from a bunch of sunflowers until it's wings had expanded to their full width. The veins in the wings were filled with blood. It flapped them once, then again. It stopped eating and flapped it's wings really hard. Ren was hit in the face with a gust of wind and knocked onto his back. He watched the thing take off and fly away. He sat there in the sunflower field and gazed in wonder at the spectacular sight. After a moment, Ren stood and looked down at himself. He was covered in some kind of dust, and then he examined it.
+
+Unauthorized duplication: this narrative has been taken without consent. Report sightings.
+
+Balefire Moth DustThe dust from the wings of a Balefire Moth
+
+“Hahahaha!” Ren laughed. He thought he was going to miss finding this ingredient and would have to come back again sometime. He opened his alchemy kit and took out the tools he thought he needed to gather up as much moth dust as he could. He scraped it off of everything he could see. He took his time because he didn't want to get any dirt or grime mixed in. If it was contaminated, he didn't know what kind of effects that would cause to any potions he added it to. He got a few vials worth, added them to his inventory, and packed up his alchemy kit. Ren gathered up the rest of his tent and put it away. He still thought it was useless as it was, and didn't want to use up any more fabric to repair it, but he also didn't want to just leave it lying around. Ren started walking back towards the road. He knew in which general direction it was, but he wasn't sure. He thought to himself how nice it would have been to have someone to tell him which way to go... and he stopped dead in his tracks.
+
+“TEEPO!!!!!” Ren shouted, and tapped the crown ring.
+
+“mumble... ugh... huh? What?”
+
+“Teepo, I'm so sorry! I completely forgot about you! Summon Teepo!”
+
+“Hmm? Oh, don't worry about that, master.” Teepo said after his spectral beetle form appeared.
+
+“But Teepo... I left you all alone, trapped in the ring, for months!”
+
+Teppo laughed. “Master, my uncle used to not talk to me for years on end. A couple of months is literally nothing. I was sound asleep the whole time, anyways.”
+
+“What? Why?” Ren asked.
+
+“Do you remember after the wood structure surfaced during the flood?” Teepo asked and Ren nodded. “When you fell asleep, I tried to warn you not to do that in such a damaged state... but when you lost consciousness not long afterwards, my astral form vanished. I assumed you'd call me again when I was needed, and went to sleep.”
+
+Ren was grateful to the little guy because he didn't hold Ren in contempt for forgetting about him. Ren promised himself that he would never abandon anyone like that again.
+
+“Well, faithful companion...” Ren said and Teepo chittered at him in delight. “I need a scout to make sure I'm going the right way.”
+
+Teepo hopped once.
+
+“To the road!” He said and pointed to where he thought the road was. Teepo skittered off at once. He had no trouble moving above ground at all. Ren could hear Teepo in his mind, and Teepo wondered at all the sunflowers. Being an underground dweller for most of his life, he had never seen such colors. Ren enjoyed Teepo's perspective because it had matched his own the first time he saw the field. Ren started walking towards Teepo just before Teepo reached the road and told Ren to follow. Ren ran through the field and caught up to Teepo about 20 minutes later.
+
+“Do you want to walk, or ride my shoulder?” Ren asked.
+
+“Shoulder, please.” Teepo said. If he was going to be out and about, he wanted to be up high so he could see even more of the outside world.
+
+Ren reached down, picked Teepo up, and placed him on his shoulder. It never crossed Ren's mind that since Teepo was an astral projection (and didn't have a physical body) that he shouldn't have been able to touch him at all.
+
+It was getting dark again, and Ren figured he'd have just enough time to make it back to the city before nightfall. He was once told by the old man alchemist that being outside of the city limits at night was not a good idea, unless he was in the safe area. He heartily agreed with that advice and ran all the way back to the north gate. Teepo chittered in delight the whole way.
+
+Ren and Teepo got into the city a few minutes before darkness fell across the countryside. With relief, Ren slowed down to a walk while Teepo ran from his left shoulder to his right, and back again, and took in all the sights. Ren could feel what he felt and smiled. He remembered feeling the same way when he first walked through the streets of Aurora. First it was the field of flowers, and now the city streets. The both of them enjoyed it when they experienced something new. This was definitely going to be a grand adventure for the both of them.
+
+They headed over to the Leisure District. If Ren was stuck in the game, he was going to need a place to sleep. He came across a nice establishment on the edge of the area. There was a sign hung above the doorway in front, with a bear on his back sleeping on a log. It was the Snoozing Bear Inn. Ren went inside and it was clean and tidy. It wasn't one of those mixed tavern and inn deals, much to Ren's relief. He didn't think he'd be getting much sleep if there was drinking going on for most of the night. He approached the innkeeper at the desk and asked for a room.
+
+“That'll be 10 silver.” The innkeeper said without looking up.
+
+Ren thought that was a bit excessive, especially since this was a starter city and no one would have the coin to stay overnight with the price that high. He looked at the innkeeper and wondered why he charged so much.
+
+“Why is the price so high?” Ren inquired.
+
+“Huh? Oh, it's because no one stays here. With what little customers I get, I have to charge more just to break even.” He still hadn't looked up.
+
+“Have you thought about advertising? Cheaper prices can draw in more customers, too.”
+
+“Hey, now... who're you to question...” Then the innkeeper looked up and saw Ren standing there at the counter. “Oh! Excuse me, sir. My apologies. I didn't realize it was you.”
+
+What did he mean by that?  Ren thought.
+
+“Please sir. It's 10 silver, but I'll put you in my best room and make sure you're not disturbed for the whole night.”
+
+Ren raised his eyebrows.
+
+“Ah... and I'll throw in a nice breakfast, too.”
+
+Ren smiled and handed over the money. He felt bad for the guy, and he did need a nice place to stay for the night.
+
+“Right this way, sir. Right this way.” The innkeeper said as he grabbed a big ornate key and came around the desk. He turned and walked up the stairs. Ren followed him and when the innkeeper stopped at the end of the hall, so did he. When the door opened, inside was a nice room. Not too overdone with the details, but it wasn't barren, either. A comfy bed was in the corner, a chair and desk in the other corner, and a medium sized window in the far wall. A picture of a unicorn was on the wall next to the bed. Ren stared at it, and the innkeeper guessed appropriately what had caught Ren's attention.
+
+“Yes, yes! They're real! Not just legend!” He said and ushered Ren into the room. “Not much is known about their whereabouts, but there's been rumors floating around for years that they're most likely in the far off land called Staibel.”
+
+Ren almost laughed in the innkeeper's face. Horses were in a stable? Really?  He thought and smiled. Teepo chittered loudly on Ren's shoulder. The innkeeper, ignorant of Ren's thoughts and Teepo's presence, fluffed the pillow and straightened up the bed sheets.
+
+“There you go, sir. Have a good night's rest!” The innkeeper said as he walked past.
+
+“Goodnight.” Ren said, then sat on the bed when the door shut.
+
+“I wonder when he'll serve breakfast?” Ren shook his head when Teepo said he didn't know. “Sorry, I didn't mean to ask that out loud, just wondering. I hope it's not too early.”
+
+Ren got up and went to the desk. He got out his alchemy kit and made a Vial of Antidote to counter the Vial of Poison that he had. It was always better to be safe than sorry. Teepo was absolutely fascinated with the kit and Ren explained what all the parts were and what he was doing with them.
+
+“Master is a great alchemist!” Teepo exclaimed.
+
+Ren shook his head and said that he just started to learn the craft, but Teepo wouldn't take his words at face value. He saw what Ren could do with so few ingredients and that was just plain magic in Teepo's eyes. Ren smiled and packed the kit away. It was time to go to sleep. He was worried about Teepo disappearing again, but Teepo reminded him that if Ren was just sleeping, then Teepo would stay around. If he was knocked unconscious, however... then Teepo couldn't keep his astral form. Ren, satisfied that Teepo could keep watch, locked the door and went to bed. Tomorrow was going to be a big day.
+
+It was time for a party!

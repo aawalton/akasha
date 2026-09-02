@@ -1,0 +1,190 @@
+---
+id: 355953e7-4e71-5cb7-ac6c-ef3d2bb2de92
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22 - Sally's Surprise"
+slug: 0006-chapter-22-sallys-surprise
+partOf: mythrans-master-of-all-continued-completed
+position: 6
+ownLength: 3172
+unit: words
+publishedAt: 2016-09-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92244/chapter-22-sallys-surprise"
+royalRoadId: "92244"
+---
+
+Ren walked over to Sally's shop and went inside. He saw her sitting at her work bench sewing some kind of tarp. He looked it over and it covered half the floor.
+
+“Excuse me, Miss. What is that you're working on?”
+
+“Hmm? Oh, it's just a covering tent for my son.” Sally didn't look up or even pay him any attention. Ren walked around the main counter and over to stand beside her, and didn't trod on the tent. It was a bit difficult to do, but he managed.
+
+Stat Increase!Agility +1
+
+Ren smiled at Sally and poked her shoulder. “Excuse me again, Miss. I'd like to buy some fabric.”
+
+Sally looked up and saw Ren standing there. “REN!” She threw the tent off of her lap as she jumped up and gathered Ren into a big hug.
+
+“Hi, Sally.” Ren said, smiling.
+
+“You're back! You're okay!”
+
+He couldn't see her face, as he was tucked under her moderate chest, but it sounded like she was crying. Can game characters cry? Tears hit him on his head and confirmed his suspicion.
+
+“You scared me so much!” She said as she let him go.
+
+“I'm sorry. I didn't mean to.”
+
+“Well, I guess I can forgive you... as long as you never do it again.” She wiped off her eyes with a cloth she'd pulled from somewhere. Ren nodded and she smiled. She reached down and pulled on his clothes. “I take it you need some fabric? What happened to those wonderful clothes you made before?”
+
+“About that...” Ren said and told her the story of what happened that day. She was surprised that he'd just woken up and the first thing he did was come to see her, but he said that he wouldn't go anywhere else for the world's best clothing. She laughed and got him another bolt of cloth. He paid her and made a new set of travelling clothes while she went back to work on the tent. He did it a lot faster this time, even though he was still careful and meticulous. He assumed that the more he did it, the easier it would get. His thought was confirmed a moment later.
+
+Stat Increase!You've produced a set of clothes at a much faster speed but still maintained your high standard of quality.
+Dex +5
+Agility +5
+
+Ren smiled and equiped the clothing right there. He asked Sally what to do with the old ones, and she said to put them in the basket under the counter. He does so and sees a bunch of other outfits there, too. He asks what they are for, and she says she sells them to other businesses as rags and scraps. He thinks this is a really good idea, since once clothing is equipped, it stays that size permanently. He went over to her and watched as she worked. He recognized the stitching she used, and observed her technique. She still had a ways to go, so Ren offered to help. She declined at first, saying that it was just mind-numbing, and he laughed and said that he enjoyed that kind as much as any other. Sally laughed too and gave him the materials to work with.
+
+New Quest!Sally needs to finish the canvas tent.
+Help her complete the tent before she loses any more time from her other work.
+
+Difficulty - D
+Rewards: ???
+
+Ren was all set to start working, but froze when Sally tried to hand him a huge needle-like tool called an awl.
+
+“What's wrong, dear boy? You look scared to death.”
+
+Ren shook his head. “N-nothing.” He took the awl from Sally and felt it's weight. He turned it over and over in his hands. He ran his finger along it's edge. He started at the handle and went all the way up to the tip. He shivered uncontrollably for a few moments. When he stopped shaking he took out his smithing hammer.
+
+“Ren! What are you doing?!?”
+
+He held the needletip of the awl to the hammer. “Repair.” The awl held a distinctive glow for a moment, and then he passed it to Sally. “Can I see the one you're using?” Ren said and looked at her. Sally was bewildered by his antics, but passed over the one she had without question. He examined it as fully as he did the first one. He didn't shiver as much this time, and repaired it as well.
+
+“What did you do?”
+
+“They were pretty old, weren't they?” Ren asked, and Sally nodded. “The both of them had flaws in the metal about halfway to the tip and near the handle. If you'd used either of them for much longer, they'd probably have shattered. But, it's okay now. I fixed them.”
+
+Sally knew full well how much damage a misused tool can cause. Ren had just saved her a lot of potential pain and loss of money from all the business she'd have lost while not able to work. She reached over and gave him another hug.
+
+“Thank you.”
+
+Ren blushed. “It was nothing.”
+
+“No, don't dismiss it like that. I saw the fear in your eyes. You've had a bad experience with large needles, haven't you?”
+
+Ren didn't say anything, but Sally nodded. “I thought as much.” She let him go. “You don't have to do this, you know. I can finish it up myself.”
+
+Quest Update!You can accept Sally's offer and let her fend for herself.
+
+Accept Offer: Yes/No
+
+Ren shook his head. “No, not only do you need my help, but I need to do this.”
+
+Sally saw the determination on his face and nodded. She passed him one of the awls and sat down. They both worked in silence for about half an hour before Ren asked her what to wear to a party. She said that his current clothes were fine for that. Ren shook his head and told her about the party that the Lord of Aurora was throwing for him at the mansion that weekend. She said she had several patterns for formal wear and would be happy to teach him how to make an outfit that would be suitable for the occasion. Ren smiled and they continued their work for another hour. When they got to the end of the cloth and joined their ends together, they both sighed in relief and laughed. They stood up and stretched. Ren helped Sally as she gathered up the finished canvas tent and packed it into a cart at the back of her shop. They went back inside and sat down to rest.
+
+Quest complete!You've helped Sally finish long before she could have while doing it alone.
+
+Reward:
+You have gained the recipe for Canvas Tent
+You have earned 100 XP
+Fame XP Bonus +10%
+
+Ren was surprised. He'd forgotten about the fame bonus. He had an idea, and told Sally he'd be right back. He went out to the tent to examine it.
+
+Sturdy Canvas Tent (Large)Durability: 800/800
+
+Someone with a bit of fame helped construct this tent.
+While within it's walls: Vitality +2
+
+Well, would you look at that!  Ren thought as he stared at it for a minute, then went back inside. He sat down beside Sally and she looked at him curiously. He told her he just wanted to check on the tent. She told him it was locked behind the gate at the back of the yard so he didn't have to worry about it. Ren nodded and asked Sally what she would do if she had some spider's silk. She told him she'd probably run it through her spinning wheel in the back room and make it into a nice thread. Ren smiled and asked her if she remembered that he'd been on a dungeon quest 2 months ago. When she said yes, he dropped a bundle of spider silk in her lap.
+
+“Ren! How did you get so much?!?”
+
+Ren smiled at her. That bundle was what one spider had dropped. He had 126 more in his inventory; along with 86 fangs, 60 poison glands and more bat wings than he cared to even think about.
+
+Sally took the bundle and he followed her into another room. There was a spinning wheel, various tools, and a huge wooden contraption near the wall. Sally sat down next to what looked like a giant comb and ran the bundle of silk through it. While she worked, she told him what she was doing was cleaning it and getting dirt and dust out of the silk. It also gets the big tangles to loosen up. She then 'carded' it. He knew that sounded weird, but she just pulled it through the bristles of two huge brushes that were almost touching. When she was done of that, she went to the spinning wheel and rolled the end a little and tied it to a spindle, pulled it a bit and wrapped it around a pulley. She started to pump her foot and the big wheel spun. She fed the mass of webbing through the pulley and it was stretched, twisted, and then spun onto the spindle. Sally worked fast; faster than Ren had thought she should have been able to... but seeing as how he hadn't seen anything like it before, she might have been going slow. He didn't have to wait long before she had a big spindle full of thread ready, and she passed it to him.
+
+You might be reading a pirated copy. Look for the official release to support the author.
+
+Spool of Spider Silk Thread (Coarse)Durability 50/50
+
+Ren asked her what it could be used for, and she told him it could be used for anything that regular thread could be used for, except that it was a lot stronger. It can only be used on parts that can't be seen however, as the quality isn't that great. Sally muttered something about how she must be getting rusty if she'd accept that as a final product and took the spool back. She ran it through the spinning wheel again, stretched and twisted it to double it's length, and passed it to Ren.
+
+Spool of Spider Silk Thread (Fine)Durability 80/80
+
+Ren stared at it, and then at Sally. “Wow!”
+
+Sally blushed.
+
+Ren asked her how much doing that kind of service cost, and she waved him away. He asked what she would normally charge, and she reluctantly said 10 copper. He gave her the money and asked if he could try it himself. She nodded and took him through the whole process again when he got another bundle from his inventory. It took a few tries for him to get it right (and three runs through the spinning wheel), but eventually he produced a spool of thread with the same quality as the one Sally did. Sally nodded at her student when he passed it to her.
+
+“Yes!” Ren exclaimed in delight.
+
+New Sub Skill!Spinning Level 1 (Beginner 0%)
+This sub skill under Tailoring will allow you to take basic materials and produce usable thread
+Higher levels will allow tougher materials to be used.
+
+“Sally, would you mind if I did this for a while? I've got a bunch more bundles to do.”
+
+“Of course not. You help yourself and I'll go back out front to continue my work.” Sally gave him back the first two spools and walked over to the door. “Have fun.”
+
+“Oh, I will! Thank you!” Ren said.
+
+Sally left the room and Ren got to work. He took his time and did each bundle slowly, making sure that all the dirt and tangles were out before moving on to the spinning wheel. He stayed that way for a long time. A hundred bundles was a lot to do in one sitting, but he barely even noticed the time pass. He was having too much fun playing out the webbing and producing a high quality thread from something a spider dropped when it died!
+
+He finished up 102 spools (including the first two), but kept 25 bundles of spider silk unspun. He wasn't sure why, but he felt that it would be a good idea to keep some in reserve. Just in case. He'd leveled up his Spinning skill to Intermediate Level 1 (20%) and even got a couple points in Dexterity and Endurance. Doing things in Sally's shop really helped him boost his skills.
+
+“Sally, I'm done!” He called out. Sally came in the room and gasped. 100 spools of fine spider silk thread covered the floor.
+
+“Ren! How did you... nevermind. I should be used to surprises from you by now.” Sally said and laughed. Ren grinned at her. She looked at the floor, at the machine by the far wall, then at the floor again. “Ren, I just had a crazy idea. Can I try something?”
+
+Ren, a bit bewildered, just nodded. Sally's face lit up and she started gathering the spools from the floor and took them to the machine. Ren saw what she was doing and helped her. In only a few minutes, Sally had the 100 spools mounted on the back. She took the ends of the threads and put them through a set of rings, through a comb like thing, around a hook like thing on a roller at the front of the machine, then back through a different set of rings, and then tied the ends to 100 empty spools. Sally pumped on a lever over and over and the thread traveled through the machine and spun onto the other spindles. She got them to about even in size, leaving the same amount of thread on each of the 200 spindles.
+
+“Now we get to work.” She said and smiled.
+
+The machine was a loom, she said. It was used in creating bolts of cloth (about 5 feet across and about 120 feet long). You need a lot of thread to do it though, and Sally said she hadn't done it in years. People just buy the whole cloth now. No one ever gets anything hand-made anymore. Ren was a little saddened by that. Weren't those the best made items? The time and effort put into something was what gave it it's value... wasn't it?
+
+Sally continued her instructions as she loaded up something called a 'shuttle' with one of the two remaining thread spools. It was an oval piece of wood that was pushed along a track between the threads. He wasn't sure what she meant, but she showed him a moment later. She ran it along it's track to the other side, pulled the big comb like thing to snug the thread against the fold, and hit a foot pedal. The rings she'd put the thread through earlier switched heights, putting the threads that were up top on the bottom, and the bottom threads on the top. She ran the shuttle back the other way, pulled the comb again and hit the pedal. She did this a few times and Ren was fascinated. She was making cloth right in front of his eyes! She was weaving!
+
+Sally continued to work and kept tension on the thread in the shuttle. You could see she was struggling with it, but she never slowed down or stopped to rest. She replaced the spool in the shuttle when it ran out and continued. Ren watched Sally work, still fascinated with the simple but elegant device. It was almost hypnotic the way she operated the machine. A half an hour later, all the thread was gone from most of the the spools and she did a neat little trick with the end of the thread in the shuttle and tied it off, but you couldn't see where the end was.
+
+Sally heaved a big sigh of relief and smiled. "Whew! I haven't worked that hard in... well, I've never worked that hard! This spider silk is really strong and I had to keep the tension on it the whole time or it would have unraveled." She cut off the remaining threads with some difficulty, considering how tough they were, unhooked the bottom roller, and slid off the finished product. She passed it to Ren.
+
+Superb Spider Silk Cloth (1 Bolt)High Quality!
+A master tailor put their heart and soul into creating this. The impressively tight weave and durability of the original materials has made this cloth more valuable than the sum of it's parts.
+
+Durability 300/300
+
+“S-S-S-Sally!” Ren stammered. He didn't know what to say.
+
+“I'm sorry that I used up all of the thread you made, Ren.” Sally had misunderstood his reaction.
+
+“Are you kidding? This... this is unbelievable! You took what was essentially spider droppings and made something so... so... beautiful... that I'm dumbfounded as to what to say!”
+
+Sally blushed so hard this time that it filled her face and reached her ears, and Ren thought she might even pass out. Ren hugged her and let her catch her breath. After a few moments he felt she had composed herself and he let her go. She looked almost back to normal. Her ears were still a little red, though.
+
+“Thank you, Ren. No one has paid me a compliment like that in years.”
+
+Ren smiled and hugged the bolt of cloth like it was a big teddy bear. Not that he'd ever had a teddy bear of his own, but he'd seen them on tv enough that he knew how to hold them properly. Sally grinned at him and stood.
+
+“Ren, I have another idea...” Sally said as she looked down at him with a twinkle in her eye.
+
+“If it's as good as the last one, I'm all for it!” Ren said, enthusiastically.
+
+Sally took his free hand and led him out to the main shop to her big project desk. She looked around for a few minutes and he watched her patiently. She checked shelves and drawers until she found what she was looking for.
+
+“I've had these things for ages, and never knew what I could do with them... but now I know.” She pulled out a set of plans and passed them to Ren. “I believe that these belong to you, now.”
+
+Ren looked them over, a light engulfed them, and they disappeared.
+
+New Recipe!Elven High Court Uniform
+This recipe will let you make a set of Elven High Court clothing
+Nobles of Elven houses have worn such clothes for centuries
+
+Items Available:
+High Elf Full Coat (Elegant), High Elf Tunic Shirt (Elegant), High Elf Pants (Elegant),
+High Elf Belt/Sash (Elegant), High Elf Knee High Boots (Elegant)
+
+Ren almost cried when he read the recipe. It was the perfect thing for a formal gathering. He looked at Sally with tears floating in the corners of his eyes.
+
+“You deserve it, Ren.” Sally said. Then she shook the bolt of fabric that he held in his hand. “...and I think I know just the fabric to make it from, don't you?”

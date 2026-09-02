@@ -1,0 +1,77 @@
+---
+id: 9ce8fff6-5e1e-5ecf-b06d-5d38473a6036
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8"
+slug: 0008-chapter-8
+partOf: savage-divinity
+position: 8
+ownLength: 1421
+unit: words
+publishedAt: 2016-03-11
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58138/chapter-8"
+royalRoadId: "58138"
+---
+
+The festivities began shortly after we arrived at the lake. It's late afternoon, and there are people handing out snacks. Dumplings on wooden skewers and steamed buns, in both savory and sweet varieties. I prefer the savory ones, filled with minced meat and chopped leeks. There's alcohol, but I'm handed a wooden cup of something that tastes like sugar cane juice. The trials of being a minor. It is delicious and refreshing though.
+
+Everyone gathers at the lakeside, where a large platform is built over the water. Five villagers are at the back of the platform, playing giant drums in a quick, heart pounding rhythm. It's loud, and the pounding feels like it shakes me down to the bones. Alsantset puts her hand on my shoulder and points. I look and see several roosequins running into the water, including Suret. Apparently they can swim as well. Adorable wall climbing, distance running, water diving animals. I wonder if there are half-roosequins? Where do demi-humans come from anyways? I should ask Charok about that later. I really hope the answer isn't bestiality. That would put a cloud over all of this.
+
+We walk around the outer perimeter, eating snacks and avoiding the big crowds. Several villagers stop to chat with Alsantset. They exchange pleasantries, and ask about respective spouses. Many of them look at me, but Alsantset doesn't introduce me. She never chats for long and brings me away quickly after some short pleasantries. Am I not supposed to be here? It IS a hidden village. Maybe there's some strict screening process. Maybe I should just go. I shouldn't make things difficult for Alsantset and Charok. They’ve already done so much for me. I start looking around for the best escape routes, but Alsantset keeps a grip on my shoulder, holding me close. It'd be tough to get away from her. It's like having an older sister though. It feels right. Even though I think I'm older than her. She's like 24-25? Can't be much older than that. Did I use to have a sister? I can't remember anymore. I've forgotten so much.
+
+I see Charok, grinning like a madman and cooking over a charcoal grill. Meat skewers. The smell is divine. I start heading in his direction. There are a lot of people watching him cook. He brushes some sauce, turns some skewers, and hands them off to people waiting. I line up with Alsantset, and wait my turn. When we get to the front, Charok's smile gets even bigger. He even hands me an extra skewer. I almost wish he hadn't. I can imagine the annoyed stares on my back. I don't deserve two. I still eat them though. Deliciously grilled, crisp on the outside, juicy and tender on the inside. I do my best not to get my clothes dirty. I don't want to go back to wearing rags.
+
+The drumming comes to a crescendo and then suddenly stops. The silence is almost deafening. Everyone stops chattering and turns towards the stage. I can't really see it from where we are, but Alsantset walks me over to a rock and lifts me up so I can sit. There's a woman on stage, who looks to be in her late 40's. Alsantset tells me that she is the Speaker, Sarnai. Her voice carries well. I can hear it clearly from way back here. Guess that's why she’s the Speaker.
+
+She's welcoming the mercenaries home. They go up, one or two at a time as their names are called, and she thanks them for their service. There's cheering and applauding, then they go stand off to one side. I guess the mercenaries are all really popular. Makes sense, seeing as how isolated this place is. Most of the villagers probably never travel. The mercenaries brought home a lot of goods as well. I guess they double as merchants, bringing in needed imports in the winter, selling off exports in the spring.
+
+Alsantset and Charok are called, and she looks at me to make sure I'm alright. I smile and nod, and she goes up. The cheering is louder than before. They're a popular couple. The rest of the ceremony doesn't take too long. There are only 30 or so soldiers. Gerel and Baatar are last. They are carrying a metal signboard on two poles. I guess that's the titular 'iron banner'. They're very literal with their naming. Alsantset for example, means 'mountain flower' while Charok means 'fiery eyes'. Baatar means “Iron”. The name of the company can be translated literally as 'Baatar's Banner Company'.
+
+They place the banner down in two slots at the back of the stage that seem designed for it. I can't read the words on the banner, but it doesn't matter, because as I watch, the words all disappear, except for a line at the top. Ooo, magic. It doesn't do anything else though.
+
+“No longer are you soldiers. Your duty done, the contract upheld. We welcome you home. We are reunited once again, as one People.”
+
+The soldiers – no the People on stage – come back down, again to applause and cheers, hugs and back slapping. A simple ceremony, no pageantry or pomp. But important. It shows appreciation and sincerity, and celebrates a homecoming. It's a nice atmosphere, loving and welcoming.
+
+Sarnai speaks again when the noise dies down. “We've another matter to attend to, before we truly begin the festivities.”
+
+Reading on this site? This novel is published elsewhere. Support the author by seeking out the original.
+
+Gerel walks towards me, Charok and Alsantset behind him. I smile and wave at them as they approach. Gerel says nothing, and just picks me up off the rock and carries me, sitting on his shoulder. What the hell dude. Stop invading my personal space. He carries me onto the stage, despite my struggling. He puts me down and turns me towards the crowd.
+
+“I bring one who claims to carry the blood of the People.” This lying son of a … I didn't claim shit! Don't put words into my mouth. I can't run. Gerel is holding me by  my collar. God damn these new clothes.
+
+Sarnai looks at me sternly for a moment. I don't think she likes me very much. A long moment later, she says, “We all know that one is not born of The People. One is accepted.” 
+
+Well shit. I guess I'm getting thrown out. I wonder if I'll starve to death, or get eaten. Which would I prefer? Will I at least get to keep the clothes? I'd settle for just the boots.
+
+She turns to the crowd and says, “Who will stand for his conduct, to guide his morality?”
+
+“I stand for him.” Baatar walks onto stage and stands behind me, his hands planted firmly on my shoulders. I calm down. Baatar's here. He's much better than that liar, Gerel.
+
+A long pause. Sarnai is glaring at Baatar. Guess she doesn't like him either. Lady has quite the glare. Finally she speaks. “Do you pledge to teach him the precepts and to take responsibility should he break them?”
+
+“I do so pledge.” Baatar replies.
+
+“Who will stand for his upbringing, to teach him humanity?”
+
+“We stand for him.” Charok and Alsantset walk up to me and each take one of my hands.
+
+“Do you pledge to feed and clothe him, love and nurture him?”
+
+“We do so pledge.” They both squeeze my hands. I start tearing up. I can't wipe my eyes if they both hold so tightly.
+
+“Who will stand for his learning, to teach him humility?”
+
+“I stand for him.” Taduk walks up, and stands to the side. Looks like he took my request seriously after all.
+
+“Do you pledge to teach him our history and our customs?”
+
+“I do so pledge.” Taduk smiles at me. I smile back.
+
+“Then so shall it be. Come forward to be known, child. It matters not who you were. Speak your name, for the first time, as one of The People.”
+
+Baatar pushes me forward, while Charok and Alsantset come with me, still holding my hands. They urge me to look forward and speak. My heart is pounding, mouth dry. I don't think I was a public speaker. I look forward, and see a crowd of faces, all smiling, waiting expectantly. They accept me. I clear my throat, and speak.
+
+“My name is Rain. I am one of The People.”
+
+The cheering is thunderous, and goes on for a long time.

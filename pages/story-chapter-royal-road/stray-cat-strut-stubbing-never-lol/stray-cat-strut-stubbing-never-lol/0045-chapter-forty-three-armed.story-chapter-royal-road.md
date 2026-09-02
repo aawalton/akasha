@@ -1,0 +1,142 @@
+---
+id: 6f5d2072-a172-58ee-b860-aa3592242db5
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty-Three - Armed"
+slug: 0045-chapter-forty-three-armed
+partOf: stray-cat-strut-stubbing-never-lol
+position: 45
+ownLength: 1493
+unit: words
+publishedAt: 2020-08-24
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/543862/chapter-forty-three-armed"
+royalRoadId: "543862"
+---
+
+Chapter Forty-Three - Armed
+
+“You can tell how experienced any given Samurai is by how human they look. If they could be any john or jane doe off the street, then they’re probably still green. If they’ve replaced a few bits, then they’ve been around for a bit.
+
+When you can’t tell if they were ever human to begin with, then you need to start worrying, because it might not just be their appearance that’s changed.”
+
+--Jim Harris, Journalist in Chief for BCB International, February 2037
+
+***
+
+I didn’t want to just abandon the AA gun. Not if I could still help it, even a little.
+
+Keeping the thing firing, even for a minute, would mean that many more dead xenos.
+
+Sure, they would come aground, collect all the alien goop, and just make more. But that would take time and resources, and maybe it would help others just a little.
+
+There was also the more selfish reason for trying to help. I wanted those points.
+
+I don’t think I was hooked to the system or anything, but I could really use a few hundred extra points. It’s why instead of running deeper into the building to find cover, I went back down to the door on the platform next to the AA emplacement and kept the entrance wide open. It overlooked the spot where the most aliens were sneaking up to the AA gun from.
+
+What I did was something like hunting down a flock of ducks by opening fire into the whole lot of them with a gatling gun.
+
+Model Ones would swoop up, Model Fours would pull themselves onto the roof, and I would greet them with a barrage of flechettes and incendiary .45s to the face.
+
+“Myalis!” I called out as I emptied a second and third round into a Model Four that was being tenacious. “I’ve got points to spend.”
+
+You do indeed! You’ve nearly accumulated a thousand points.
+
+What. “Seriously?” I asked.
+
+That was a frankly insane amount. What was I even supposed to buy with that many? I could probably buy enough guns with that amount to live a comfortable life for the next few years if I sold them all. That was, assuming I survived the next few minutes.
+
+I... was probably not the best at handling money, or points. Christ, Lucy would have been a thousand times better than I was at this. “Myalis, I need stuff,” I said.
+
+I can get you stuff. Where do you want to begin?
+
+I looked out of the door, then grimaced as I emptied the last of my magazine into a cheeky Model Four that flung itself over the edge.
+
+My shots echoed out into the open air, into a world that had gone quiet. The AA gun had been firing less and less over the last few minutes, conserving the last of its ammo while the smaller guns tied to it acted as point defence.
+
+Now it was entirely silent.
+
+I shoved my Trench Maker away and pulled the door shut with all of my weight before pressing my back against it.
+
+“Myalis,” I said. “I need a hand.”
+
+Do you mean a literal prosthetic or organic replacement for your missing arm, or do you require assistance. If it’s the arm you want, there are a few catalogues that have arms in them. If it’s assistance, then perhaps some remote stealth drones.
+
+I blinked. “I meant an arm. I, I think I could handle having two again.”
+
+Wonderful! I was worried that there might be some psychological reservations against replacing the missing limb. It’s good to see that that was unfounded.
+
+It probably wasn’t. The entire day had felt weird, being flung from one disaster to another with only a bit of snark keeping me sane. Getting a new arm, that would be... big. I didn’t have the words for it. Maybe a sort of sign that it was all real? I shook that away, it wasn’t the time to get hung up on shit like that. “Get me a really cool arm,” I said.
+
+I think my earlier suggestion that you try Class I Sun Watcher Technology. The catalogue costs one hundred and twenty points, and the arm that I think would suit you best costs two hundred points and requires a Sympathetic Neural Uplink Mark II which costs an additional fifty points.
+
+“God damn, you’re going for the expensive stuff,” I said.
+
+All prices are carefully balanced for maximum value. Don’t worry, some very smart AI have made sure that everything is worth its stated value.
+
+This story is posted elsewhere by the author. Help them out by reading the authentic version.
+
+I swallowed.
+
+The building shook, a noise like an electrical transformer blowing up zapping out from somewhere just outside.
+
+It seems as if the AA system has begun to use its cannons. I suspect that they aren’t meant to take out smaller targets, but they should do so with little difficulty. We will have to hope that Longbow’s AI is clever enough to remind him not to aim in the general direction of any population centres.
+
+“The arm, I’ll take it. Please, hurry.” I’d get it over with while I had a minute’s calm.
+
+Class I Sun Watcher Technology unlocked!
+Points reduced to... 840
+
+New Purchase: Leopard Mark IV Replacement Arm
+Points reduced to... 640
+
+New Purchase: Sympathetic Neural Uplink Mark II
+Points reduced to... 590
+
+Please close your eye for a moment.
+
+I didn’t question the AI and screwed my eye shut. It was just in time too as a wave of vertigo hit me and I almost tripped even though I wasn’t moving. Something immediately felt off, as if I was moving my body through water, but it passed within a second or two. “The fuck?”
+
+The neural uplink functioned! Now for the arm. Please press the base against your arm.
+
+“How neural is that neural uplink?” I asked.
+
+It's smaller than I am, if that helps. It was dimensionally shifted directly into the folds of your brain above your cerebellum. Don’t worry, such shifts only cause issues in point oh-oh-oh-one percent of all transfers. It will assist you in manipulating your new arm. You might have to adjust for the changed balance, but that shouldn’t take more than a few hours.
+
+“Myalis, didn’t I tell you to warn me about shit that fucks with my brain?”
+
+Not in so many words, no.
+
+“Please do so, next time,” I said.
+
+There was a box by my feet, an arm-length one. I made sure the door was properly locked and bent down just as the building shook again. Popping the lid revealed an arm. But it was more than that, of course.
+
+The arm was made of something that looked like brushed aluminum, with sections cut out of it to reveal a faintly glowing interior. There were a lot of openings and little cut-outs on there that looked like they were meant to do something.
+
+I pulled it up and looked at the hole where my stump was meant to go. It wasn’t even padded, just a shaped cone that probably fit like a glove.
+
+I slid the arm of my jacket off and stared at the burnt mess that was my right arm’s stump. I’d been right-handed, once upon a time. I wondered if it would all come back.
+
+The arm slid on, the glowing sections brightened. My new fingers twitched, and I felt them moving. I closed my new hand, and reopened it.
+
+A tug at my new metallic bicep pulled at my shoulder instead of popping the arm out like a suction cup. “Nice,” I finally decided.
+
+The first test of the arm’s agility was putting my jacket back on. It bent far more than a real arm should have been able to, but it didn’t feel wrong.
+
+There are a lot of features with the Leopard. It’s built of a high-grade titanium alloy, with incredibly strong servos operating every joint and has quite a few utilitarian features and built in weapons.
+
+“I just need something to hold a second gun,” I said. I couldn’t keep the laugh out of my voice though. It probably wasn't the time to be giddy but--
+
+It has a built-in rocket launcher.
+
+Fuck it, giddy it was.
+
+I passed my flesh and blood hand over my new arm, taking in the overlapping plates of smooth steel and the small ridges that probably hid a bunch of goodies.
+
+Your fingertips can act as deployable multitools, except for your index and middle finger which have built-in plasma casters for cutting through... anything, really.
+
+I grinned. “I’m looking forward to giving someone the finger then.”
+
+You are the model of hilarity.
+
+I snorted at the deadpan delivery. “Right, right, this is fun, but there’s still a lot of xenos out there.” I held back a shit-eating grin. “Myalis. I need guns, lots of guns.”
+
+***

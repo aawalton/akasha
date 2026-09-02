@@ -1,0 +1,113 @@
+---
+id: c6f6a852-46b8-55e3-9453-de4d9ecf7e6e
+page-type-slug: story-chapter-royal-road
+title: "Chapter Five Hundred and Ninety-Five - I'm In Your Base Stealing Your Base"
+slug: 0611-chapter-five-hundred-and-ninety-five-im-in-your
+partOf: cinnamon-bun
+position: 611
+ownLength: 1536
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3710902/chapter-five-hundred-and-ninety-five-im-in-your"
+royalRoadId: "3710902"
+---
+
+Chapter Five Hundred and Ninety-Five - I'm In Your Base Stealing Your Base
+
+The rest of the day flew by. Desiree and I followed Guinevere around while she showed us different parts of the castle, and I quickly came to realize that the older foxkin woman was just absolutely thrilled to show off her home to someone.
+
+It was kind of endearing, really. So I smiled and asked questions and made impressed noises while she showed us a few of the castle's secrets. A cute rooftop garden, a window with a nice view, a small hidden library that was really more of a bookshelf and a comfy seat tucked in a forgotten corner--all the 'secrets' were little heartwarming flourishes like that.
+
+The castle was, surprisingly, not that old. There were areas that were clearly part of the original seaside keep, and those were far older, but even those weren't ancient old, just... normal old.
+
+It reminded me a little about learning about European castles, then comparing against those I visited in North America? The ones closer to home were more like forts made during the age of sail. They were way stations and buildings designed to guard the coast, but they were relatively modern compared to the truly ancient castles elsewhere.
+
+Guinevere hummed in contemplation when I asked her about the original purpose of the keep.
+
+"You'd have to ask Tristain if you want more details. I'm hardly one to study history," she said. 
+
+Fortunately, we happened to be close to the central library-slash-study that Tristain seemed to call home. So, I popped in to ask the ratfolk why the castle seemed to be relatively young. He was happy to answer.
+
+"The original keep was not a castle at all but a single defensive tower. It dates back to, uh, about three hundred years ago? Not so old, as far as such things go. It was built during what some might call the tail end of Pyrowalks eastern expansion."
+
+"What's that?" I asked as I took a seat. We had tea again while he spoke, which was nice.
+
+"Ah, well, the nation of Pyrowalk made a great push to the east a long time ago. They never quite managed to conquer the Silverstar forest, but they did establish several cities along the northern coast, where it is relatively safe. These cities expanded into several dozen smaller towns along the coast as well. Farming towns, and fishing villages, mostly."
+
+"I think we visited a few of those," I said with a nod.
+
+"Indeed! The largest of those is Southerfell, which also happens to be the furthest Pyrowalkian city that is still part of the empire. In any case, Pyrowalk's ambitions for expansion could be said to have ended in the Ostri desert, but they still managed to plant the seeds of what became the Kingdom of Mattergrove."
+
+"And how did all of these lead to this castle?" Desiree asked. Her twin tails were flowing from one side to the other in a cascading wave, a sure sign that she was idly amused.
+
+Tristan bounced a little in his seat. "That's the exciting part! Now, the dates don't quite add up, so don't read into it too much. There's some bureaucratic nonsense that occurred. In any case, there was a plan for a second great expansion, and ahead of this, the nobility of Pyrowalk sent out a force of soldiers and engineers and mages to build several keeps along the coast."
+
+"Why?" I asked.
+
+"A few reasons. There was a need for new lighthouses along the edge of the Betrayer's Strait. It's a treacherous area to navigate through, as you can imagine from the name. The keeps could serve a dual purpose as a lighthouse and as a forward location to station troops. The other keeps along the coast, including this one." He tapped the floor with a shoe. "Were simply there to house reserve troops and army command, as well as to serve as consecutive rallying positions."
+
+"Consecutive rallying positions?" I asked.
+
+He nodded. "Basically, if an invasion force came in from the east... ah, at the time, a great fear of invasion burned in the capital, and certain men of power fanned those flames for their own ends. Anyway, the idea was that imperial soldiers could intercept the invaders, then retreat to one of the many keeps they were building. Those keeps could be resupplied by sea, and had ways of cutting themselves off from land."
+
+"Clever," Desiree said.
+
+"What do you mean by the bit about, uh, fanning the flames of fear?" I asked.
+
+The genuine version of this novel can be found on another site. Support the author by reading it there.
+
+"Hmm, it's one of the reasons we keep apart from nations," Tristan said. "Fear is a good way to motivate people. All beings that have the potential for civilization have the potential for fear. It's a driving motivation. Given the wrong fuel, however, and you can convince otherwise good people to be afraid of things that don't deserve such fear. Or sometimes they do, but the fear drives people to respond in ways that are... favorable to some, in the political sphere. We decided that we wanted to be above such things. Figuratively, and perhaps a little literally."
+
+"I think I know what you mean," I said with a nod.
+
+"Indeed. In this case, Pyrowalk, after their defeat at Come Here and Die, had a great wariness for the Ostri. Explorers and travellers from the then-still-newly-established Mattergrove came in bearing news. They spoke of great centaurs, strange frog people, floating crystals, harpies with a mountain kingdom and their ancient enemy, the fairy-like sylph."
+
+I sighed. "And people became afraid?"
+
+"Just so! That was enough impetus to build keeps all along the shore, each one half a day's walk apart. Of course, no army of harpies or frogfolk or even the already-slighted Ostri came riding out from the east, so nothing came of it."
+
+"And how did that lead to the castle falling into the Black Avatar's ownership?" Desiree asked.
+
+He shrugged. "It was abandoned, yet close enough to Southerfell and a couple of small towns that we could purchase supplies. We renovated, added several rooms, then entire wings, then undertook one of our greatest achievements in the installation of the dungeon core below and the enchantments required to make our new home float away." He waved dismissively. "It all worked out. And now we have our very own stronghold in the skies above the Moonstruck sea."
+
+"It's a very nice base," I agreed. "Speaking of nice bases, though, is this it for the Black Avatars?"
+
+"No! We have a few safehouses in a few major cities. Some of our older, more... retired members have their own estates and homes as well, scattered across Dirt. And there is a second, older stronghold, where the rest of the Black Avatars reside," he said. "This castle keeps moving about and is somewhat difficult to reach, but it's central, at least."
+
+"Central?"
+
+"Over the sea? It allows us to send smaller ships west, east, south and north, to four different kingdoms. That's enough to gather news across a wide territory. It's how we first heard rumours about dungeons acting in strange ways, and of these Evil Roots that are spreading about."
+
+I supposed that made a fair bit of sense. 
+
+We finished up our tea, and I begged Tristain and Guinevere goodbye, with a few hugs thrown in just to be safe. Then Desiree and I started making our way back to the Beaver without any escort even. 
+
+"They seem nice," I said. "I liked the dust bunnies!"
+
+"I had noticed that," Desiree replied. "Are you going to try to convince the first mate to bring one aboard?"
+
+"One? No! It would get lonely. Maybe a few? Dozen?" I tried.
+
+Desiree and I giggled and she swatted at me with her tail. "Meeting a four-tailed kin is... it's so strange. She would be a heroic figure back home, and I was ready and willing to treat her as such, but she is..."
+
+I almost said 'just human' but that wasn't quite right. So I settled on, "She's just a person?" 
+
+Desiree frowned. "Just is too small a word, but in essence, yes."
+
+"I think it's like that for a lot of celebrities. You build up a story for who they are in your head, but in your head isn't in reality, and so when things don't quite match up, you feel a little disappointed. I don't think it's a bad thing, really, but it's also a little bit of a bad thing?"
+
+"What a concise and clear response," Desiree replied, which set me off to giggling again.
+
+"Sorry! I'm not always good at explaining myself."
+
+"No need to apologize."
+
+"Sorry," I replied, then blinked. "Ah, that was a reflex."
+
+"You are a very strange bun."
+
+"I don't know, maybe I'm a very normal bun, and it's all the rest who are strange?"
+
+Desiree snorted indelicately, then hid her mouth with a tailtip. "I don't quite know if I can find it in myself to believe that, Captain Bunch, but I'll give you credit for trying."
+
+***

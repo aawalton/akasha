@@ -1,0 +1,178 @@
+---
+id: 7c5bf632-053e-5aa9-873d-532f5f466fd8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38 - There's More"
+slug: 0022-chapter-38-theres-more
+partOf: mythrans-master-of-all-continued-completed
+position: 22
+ownLength: 2462
+unit: words
+publishedAt: 2016-09-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95551/chapter-38-theres-more"
+royalRoadId: "95551"
+---
+
+Ren was so surprised when Lucy had abruptly left that he didn't say anything until she had disappeared from view.
+
+“Lucy!” Ren called out.
+
+Lucy must have ignored the shout because she didn't come back into the room. Ren sat on the bed in bewilderment.
+
+What did I say this time to make her act like that?  Ren thought. I just wanted to thank her.
+
+Ren reclined in the bed and relaxed. He felt wrung out from all the emotional feelings he'd just gone through. Ren took a deep breath, closed his eyes, and drifted off to sleep without even realizing that he was exhausted.
+
+********
+Lucy left Ren's room and didn't know what to do with herself. When Ren had thanked her so sincerely, she almost let her emotions take control... and who knew where that would have led. Lucy went to the desk to tell Bonnie that she was going on her lunch break and would be back in an hour. Bonnie logged her out of the sign in sheet and Lucy went into the break room where the nurse's personal lockers were kept. She picked up her coat, left the break room, and took the elevator to the ground floor. Lucy got out and nearly ran into a big burly man wearing a bandana and sunglasses.
+
+“Oh, I'm terribly sorry!” Lucy said, flustered. “I nearly ran into you!”
+
+The big burly man had a large pleased smile on his face. “Tha's all righ', ma'am. I wouldn'a minded tha' too much.” He could clearly see that she'd been crying. “An' you? Are ya alrigh'?”
+
+Lucy stopped dead in her tracks when she heard the man's voice. She recognized it immediately. It wasn't very often that she heard a voice that was quite so unique.
+
+“Oh, hi!” Lucy said and wasn't so flustered anymore. “I'm fine. What are you doing here?”
+
+“Ah jus' came ta see how Ren was doin'.” The burly man said.
+
+“He's doing good.” Lucy said, and relaxed. “His finger's healing nicely.”
+
+The man nodded. “Tha's good. When I rememb'r see'n it tha' time...” The man shuttered.
+
+“I know...” Lucy said and she shuttered, too. She had to change the subject. Thinking about Ren right now was not a good idea. “Say, are you busy right now? I was planning on going out for lunch.”
+
+The man's smile grew wider. “Ma'am, I'd be honor'd to accompany ya wherever ya wan' to go.”
+
+********
+
+Ren woke up from his unintentional nap and stretched his arms out. I was more tired than I thought.  Ren thought as he yawned and got out of bed. After using the bathroom, he washed his hands and went to the door to his room. He looked out into the hallway but didn't see anyone. The sound of computer keys being hit constantly echoed down the hallway.
+
+Someone's still at the nurse station.  Ren thought. I wonder where Lucy is?
+
+Ren looked back down the hallway but still didn't see anyone else. He shrugged his shoulders, went back into his room, and picked up the VR headset. He climbed into bed and put on the headset. It was about time for him to 'wake up' in the game anyways.
+
+“Flow Login Start.”
+
+********
+Ren woke up and noticed that Teepo was still settled down on his chest. Good morning, Teepo. Congratulations on resisted the temptation to go exporing.  Ren thought and smiled.
+
+Teepo stood up and stretched his legs. "Good morning."
+
+Teepo climbed over the end of the bedroll and onto Ren's shoulder. Ren opened his bedroll and rolled over onto his knees. He gathered up the bedroll, put it away in his inventory, and untied the rope Aimus had put around his chest. Aimus was standing on the edge of the lookout.
+
+“Good morning.” Ren said.
+
+“Well, it's morning, but I don't know how good it is.” Aimus said and looked down. “We... may have a little problem.”
+
+Ren walked over to the edge of the platform and looked down. You couldn't see the ground. All that could be seen were giant rats. Lots and lots of giant rats. A veritable sea of rodentery ebbed and flowed around the tree.
+
+“What happened to your early warning system?” Ren asked.
+
+“They ate it, of course.” Aimus said.
+
+“Oh. Well that sucks.”
+
+“Yeah... especially since I picked this tree because it was so far from the others. A platform could fit up here nicely, and I didn't have to worry about anything crawling over to it from another tree.”
+
+Ren thought it made sense, but that left them in a bit of a pickle. They couldn't climb down because there were too many rats below, and they couldn't climg across a branch to another tree to escape. They'd be devoured pretty quickly if they fell into the mass of rodents. Ren thought about the situation and walked back to the center of the platform. He sat down and looked through his inventory and took out his alchemy kit. Ren made up several Vial of Poison and another Vial of Antidote, just in case.
+
+“I don't know if this is going to work.” Ren said and stood up.
+
+Aimus stood there in silence. He hadn't quite seen what Ren had been doing, since his back was turned, but when Ren stood Aimus saw the handful of potion bottles. The liquid inside was a sickly green. Ren walked over to the side and handed one of the bottles to Aimus. It's contents were a golden color and reflected the sunlight.
+
+“That's an antidote potion, just in case you start feeling sick or anything. I don't know what the poison is going to do when I drop it. It could slash all over, evaporate, and the vapor could come right back up to us.”
+
+Aimus nodded and kept a hold of the bottle. Ren took one of the Vial of Poison and let it drop over the side of the lookout. The vial quickly hit a rat and smashed open. It splashed 3 rats in total and they wiggled and squirmed. You couldn't tell if they were screeching in pain or not because the sounds of all the rats together overwhelmed everything else. It took a few minutes for something to happen, then the 3 rats stopped moving and collapsed. Rats around the three turned immediately to their fallen fellows. Ren was a bit surprised that they would go to help... but that wasn't what they were doing at all. Ren almost threw up as the 3 rats were torn to shreds by a half dozen or so other rats within only a few seconds. Ren watched on as the rats who had eaten the 3 poisoned ones shivered and shook. A few moments later, they stopped moving and the swarm turned on them as well. Unfortunately, those rats didn't even shutter when they finished devouring the poisoned ones.
+
+“It'll take forever if you only hit a few with each bottle.” Aimus said.
+
+Ren nodded and opened one of the poison vials and tried to sprinkle it out. Luckily, he didn't get it on himself or Aimus when he shook the bottle to get the last few drops out. Tossing the bottles and breaking them wasn't a good option anymore. Several more rats were hit this time and more of them died; they were then eaten by the ones nearby and those died. The poison was making a dent in the throng below, but not enough to make any difference in the size of the whole pack.
+
+“This isn't working.” Ren said as the hole he'd just made in the swarm, with over a dozen dead rats, was filled as if it was never there. Ren looked closely at the rats and thought about what could be done about them.
+
+“Why do you think they're here?” Ren asked Aimus when he couldn't think of anything.
+
+Ensure your favorite authors get the support they deserve. Read this novel on Royal Road.
+
+“We've had that river unloading into the forest all night. My guess is that they actually do have a nest around here somewhere and now it's flooded.”
+
+Ren looked at the rats again. Say, they really are wet. Soaked, even.  Ren thought, and then had a really nasty idea.
+
+Aimus saw an evil grin spread across Ren's face and wondered what had caused it. A moment later, Ren pulled out some kind of metal shield and sat down.
+
+Where the hell did he get a shield from?  Aimus thought as Ren took out his book of runes.
+
+Ren turned to the appropriate page and set the glyph in his mind. Ren thought Defense! and placed a hand on the gleaming metal. Oh, this is going to look so cool!  Ren thought as the glyph etched itself onto the front of the shield. He put his book away and stood up.
+
+“It might not do much, but it's going to look spectacular!” Ren said and held the shield up. It was almost half his size and it had a pattern marked on the front of it. “Activate!” The glyph on the shield lit up and Ren held it out over the side of the lookout.
+
+“What are you doing!” Aimus said. “We could use it to defend ourselves!” Aimus said and tried to grab the shield from Ren, who let the shield go before Aimus could take it. The shield fell 50 feet to the forest floor and stayed facing down. When the shield hit the giant rats... the extremely soaked giant rats... the quadruple lightning glyph Ren had placed on it ignited. Bolts of lightning left the shield in a circular arc and struck all the rats that were touching it... and all the rats touching them... and all the rats touching those rats. They were packed together tightly and eventually they were all struck by it.
+
+Aimus stood next to Ren, dumbfounded. “What... what...”
+
+“Water is an excellent conductor of electricity.” Ren said and smiled.
+
+“El...elec...” Aimus tried to say.
+
+Ren shook his head. Right, they wouldn't know what that is. “Lightning travels easier when things are wet.”
+
+Notice!Stat Increase!
+
+Knowledge Of Lightning Level 2 (Beginner 0%) Lightning affinity and resistance increased to 11%
+Knowledge Of Water Level 3 (Beginner 0%) Water affinity and resistance increased to 12%
+
+Intelligence: +1
+Wisdom: +1
+
+
+
+Ren swiped the notice away and watched as each of the giant rats started bleeding from their eyes. The shield, since the glyph was in constant contact with the wet fur, constantly sent out lightning. Ren had used it as a defensive glyph because he thought that when the shield was touched, the glyph would damage whatever it was that was in contact with it. He didn't realize that it would keep going if it was constantly touched, though.
+
+A squelching pop was heard and Ren had to hold his mouth closed. He didn't want to throw up. Some of the giant rats' eyes were literally busting out of their heads. Ren turned away as the popping sound kept going. A louder squelch was heard soon after, but Ren didn't turn around to see what it was. He didn't want to know that badly.
+
+Teepo, is there some kind of lightning entity like Dancing Flames?
+
+“I only know the story about Dancing Flames, Ren. I haven't heard any others.”
+
+That's too bad.  Ren thought. If there was some kind of lightning entity as well, this would have made a good tribute to them.
+
+Notice!You have caught the attention of the Spirit of Lightning
+
+
+
+Just then, a giant portal appeared below the lookout and Ren gasped as something the size of a transfer truck stepped out and onto the rats. It looked like a giant rock golem, only it was completely white and made up of balls of lightning. Ren didn't understand how something like that could even stand, let alone walk around. It turned to see Ren and Aimus standing on the platform. It was at eye level with them.
+
+Ren dropped to his knees and grabbed Aimus's pants and tugged. Aimus followed suit and the creature huffed. Ren thought it was a bit odd, considering it shouldn't have lungs, but then he caught the thought before it fully formed.
+
+Please accept this gift.  Ren thought towards the creature.
+
+Ren saw the thing look down at all the writhing furry bodies and reached down. Ren thought it was going to scoop up all the giant rats and was surprised when it picked up the shield Ren had enchanted, and sniffed it. It somehow formed a mouth and swallowed the shield. The creature glowed for a second and stepped back into the hole.
+
+Notice!You have disturbed the slumber of the Spirit of Lightning
+You were fortunate that your gift was deemed as worthy.
+It was consumed... instead of you.
+
+
+
+“Holy crap!” Ren said after the portal closed and let out a sigh of relief.
+
+“WHAT THE HELL WAS THAT?!?” Aimus shouted.
+
+“I... I think it was the... the Spirit of Lightning... or... or one of it's minions.” Ren said, quite shaken.
+
+Notice!Stat Increase!
+You have gained knowledge related to the nature of lightning and it's effects.
+
+Knowledge Of Lightning Level 5 (Beginner 50%) Lightning affinity and resistance increased to 17%
+
+
+
+Now that the shield was removed from the mass of rats below, they stopped moving. It didn't take long for the smell to reach the platform and it made Ren throw up. He had just made it over to the side of the platform in time, and closed his eyes.
+
+Ugh. Boy, the game's details are unreal. I don't think I've smelled anything that bad in a long time.  Ren thought... and then an intense pain hit him right behind his eyes.
+
+“Aggghhhh!” Ren collapsed on the platform as a memory he thought he'd forgotten came to the forefront of his thoughts. It was the smell. That damned smell permeated his nostrils and he remembered the last time he'd smelled it.
+
+His parents had tested some kind of burn prevention medication on him. Not wanting to permanently damage their child's useful skin, they focused their experiment on the back of his head. It was the perfect spot for any heat based tests, since the skin was a bit tougher there and the nerves were less frequent. The hair also gave immediate visible examples of the effects. It was during one of these experiments that his parents were a little over-zealous in their attempt to test their product. It was quite unfortunate that Ren had to be conscious for all of their experiments. His reactions were his parent's baseline for the results. The smell of burning hair and melting skin filled his nostrils...
+
+...and then Ren passed out.

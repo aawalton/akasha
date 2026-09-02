@@ -1,0 +1,110 @@
+---
+id: a8674bac-6c47-56df-8dd6-a1b524e7def7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9"
+slug: 0009-chapter-9
+partOf: savage-divinity
+position: 9
+ownLength: 1366
+unit: words
+publishedAt: 2016-03-11
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58139/chapter-9"
+royalRoadId: "58139"
+---
+
+Baatar walked off the platform without a word to the boy. He was in good hands. Charok and Alsantset were the best choice to nurture him. They had both seen him at his worst, and would understand his needs. Besides, Baatar had his own problems to deal with. Sarnai had given him a look while they were on stage, a look he knew all too well. She disagreed with him. Worse, she was angry. He walked away from the celebrations to a secluded area, and waited for her.
+
+
+She didn't keep him waiting long. He smiled. Even after more than 50 years of marriage, even when furious at him, she was beautiful.
+
+
+“You did not say that you were going to be his guarantor. I almost snapped and called you a buffoon in front of the entire village. Why did you do so? The risks far outweigh the benefits.” She always was direct.
+
+
+“I did not say because you would have argued against it, nor did I make my decision lightly. I believe in him.”
+
+
+Sarnai threw her hands in the air. “Not lightly. Pei. With what you've told me about the boy? I almost want to poison his drink. It would be a mercy. The Bristleboar, they do not treat slaves well. A clan of gluttons, sadists, and deviants. With what I've seen? Never have I seen a child wound so tight. He laughs, he cries, he jumps, he broods. He is half mad as it stands.”
+
+
+“The boy is strong. He will heal.”
+
+
+“He is liable to snap. You should know. You helped him club a helpless guard to death.”
+
+
+“Helpless, but far from innocent. It was therapy for the boy. I would have killed the guard regardless.” Baatar took Sarnai into his arms. “The wine has been spilled. Let it go, my beauty. Perhaps it was wrong of me.” 'It wasn't though. He needed the release.'
+
+
+She blushed, and swatted him on the chest. “What beauty. I'm 73 years old. I'm an old woman now. You should take a second wife. A younger one, who can care for you. You should let me pick one out for you, while I'm still around. And don't think your honeyed tongue can make me forget about the boy. He's unstable. ”
+
+
+Baatar kissed her deeply. “I'll never take a second wife. Who could compare to you, my rose.”
+
+
+“I just want someone to boss around while you are out riding about. It's a big house we live in, and there is much to do.” She placed her head on his chest, and listened to his heart beat. Strong. Vital. She glanced at her hand, wrinkled and old. When they had married she'd known that this would happen. But to experience it was far more difficult than she had imagined. She softened in his embrace. “I mean it, beloved. I am old and frail, and you will be young and strong for another three or four hundred years. I worry for you. You're just so hopeless. After I die, you'll be so heartbroken and distraught, you'll fall into the arms of some empty brained, melon-titted woman, just because she offers you a smile and a kind word.”
+
+
+Baatar smiled. Stubborn woman. “You have many years yet. When you pass, I will be distraught beyond compare. I will mourn you and spend the remainder of my life reminiscing our time together. But that will not come to pass for some time. You are my wife, my rose, and I leave you lonely often enough. When I am here, I'll not have anyone else interrupt my time with you. ”
+
+
+They held one another for some time, before Sarnai pushed back, although she remained in his embrace. “I still disagree about him. The records have been checked, and all children born around his age are accounted for. The mystery of his parentage is easily solved from there. The question is how he ended up a slave. He's a danger to the village. And what if there is retribution? What if he hurts one of the other children?”
+
+
+“There will be no retribution, a trading company, against a Captain in the defense forces of the Empire? Hah. I dare them to come for me, I will wipe them from this earth.” Baatar grinned at the prospect of bloodshed. “As for the boy, I care not how he ended there, only that we have him now. I will not send him away. I do not think he will hurt anyone. He is in pain, but a kind soul.”
+
+
+“You don't think, You think shit! What makes you so sure?”
+
+A case of theft: this story is not rightfully on Amazon; if you spot it, report the violation.
+
+
+“His attitude.”
+
+
+“That's it? Ai, you stubborn headed, mule faced, dog brained man. That's why you chose to stand for him? His attitude?”
+
+
+“You did not see the boy when we found him, my rose. It's been less than two ten-days, and he has already begun healing. I cannot name a single person who, under the same circumstances, could come as far as he has in this short time.” Baatar was proud of the boy. A true-born warrior.
+
+
+“...How bad was he? To say that he has improved ...”
+
+
+He sighed. Better she learn now. Perhaps Sarnai could help him. “The boy would wake screaming for the first few days. Sometimes he would be unresponsive for hours, other times he would scream and rant in some foreign language.”
+
+
+“Ha. All that and you think he will heal? Did you lose your helmet? Have you been blocking hammers with your skull again? Should I just have the blacksmith nail one onto your head?”
+
+
+“After the first night of healing, Taduk was so distraught, the others needed to mix him a tincture to let him sleep. He could not fathom how someone could hurt a child so terribly. The boy was more bruise than not. Three broken bones, fourteen fractures. Chi burns across half his body. He was missing three fingernails, 5 toenails, and had more cracked teeth than healthy ones. Another five days, and he would have been dead of Lung Rot, drowned in his own blood.” Baatar stopped, lost in thought. He should not have let the guards die so easily.
+
+
+Sarnai slapped her husband in the chest. “Your story does not inspire confidence.”
+
+
+“Apologies, my love. I was lost in my thoughts. Even with all those injuries, the boy walked more than 20 kilometers to reach our camp. He even managed to trick Alsantset into releasing him, in order to attempt an escape. He is nothing if not tenacious.”
+
+
+Sarnai looked at her husband. Her eyes widened in realization. “You like him. You wanted to foster him.”
+
+
+Baatar grinned. “I did. But it would not have been fair to you. With me gone most of the year, all the work would be left to you. Charok and Alsantset will do right by him. The girl was ready to assault the mines alone, unarmed. She would have done so had I not order her watched and restrained. And Charok seems to understand him. The boy responds well to him.”
+
+
+“And if he doesn't heal, what then, husband?” She embraced him again. 'You should not have stood for him.' She thought
+
+
+“Then I will put him down myself. But I do not believe it will be necessary.” Baatar sighed. 'I hope it will not be necessary.' He thought
+
+
+The two of them continued to stand there, taking comfort in each other's embrace.
+
+
+“Should we find some other children to foster? Your fatherly instincts seem to have returned.” Sarnai asked him, hopeful he would agree. More children would help him cope.
+
+
+“My love, if you so wish to have me busy myself, I will see it done. But my time, I would rather spend with you and you alone.” He gently scooped her into his arms. She laughed girlishly, and rested her head on his shoulder. He kissed her on the forehead. “Enough talk about the boy. I wish to hear how my wife fared in my absence.”
+
+
+He carried her off, returning to their home.

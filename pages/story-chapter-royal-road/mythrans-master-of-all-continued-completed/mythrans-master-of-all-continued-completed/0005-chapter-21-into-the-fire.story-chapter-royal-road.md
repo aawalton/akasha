@@ -1,0 +1,238 @@
+---
+id: 8e85d12c-8762-578e-85cc-15dc46fee9cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21 - Into The Fire"
+slug: 0005-chapter-21-into-the-fire
+partOf: mythrans-master-of-all-continued-completed
+position: 5
+ownLength: 3081
+unit: words
+publishedAt: 2016-09-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/91960/chapter-21-into-the-fire"
+royalRoadId: "91960"
+---
+
+The next day didn't come too soon for Ren. He wolfed down his breakfast and he breezed through his physical therapy exercises, much to the shock of the therapist. Only the day before he seemed to struggle to do the simplest things, but today he had so much energy that they had finished early. He had practially power-walked through the whole 100 metres of track!
+
+Ren was coated in sweat and completely exausted; but, he was still in a good mood. Today was the day! He got cleaned up as best as he could, and Lucy helped with the rest. She blushed the whole time and it made Ren wonder, once again, why she was reacting this way. He didn't do or say anything to change her attitude towards him, did he? Ren didn't think so.
+
+He used the bathroom again because he knew that 4 hours was going to be almost a full day in game (which is 6 hours) and he didn't want to take a break at any time in the middle of his time limit. He finished cleaning up and got back into bed. Lucy passed him his VR headset (she'd hooked everything up while he was in the bathroom). He put it on, thanked her, and layed down.
+
+“Flow Login Start”
+
+Ren fell into the familiar void of the transition phase from login to the virtual world. His body floated there in complete darkness for a moment, and just when he would have passed through, he heard a whirring noise from the headset that he'd not heard before. A popup appeared.
+
+System Warning!Incomplete Login
+A variance in the registered user's brainwave activity has been detected.
+Recalibration required to continue.
+
+Recalibrate:
+Yes/No
+
+
+
+Ren nodded. “Yes.” He had figured something like that was going to come up. He continued to float in the darkness and waited. He felt a pinch on the back of his leg.
+
+“Ow.” He looked down, but as he was in complete darkness, he couldn't see anything. He felt another pinch on his other leg. He flinched, but didn't say anything. Another pinch hit him on his thigh, and it hurt a lot more than the others. He winced, but kept quiet. His other thigh got the same, and just as painful. His hands were hit at the same time, as were both his forarms and upper arms. He took a deep breath... and almost screamed as he was severely poked in the lower back with what felt like a giant needle.
+
+“Ahhh!” He hissed through gritted teeth.
+
+It got worse as the needles poked him all the way up his spine to the base of his neck.
+
+“Oh... oh, no. No! Not again!!!”
+
+Ren folded in on himself as the worst pain he'd ever felt stabbed him right through the bottom of his skull and into his brain. He knew that was going to happen; because it had happened to him before... at the hands of his parents. He remembered this pain all too well.
+
+Recalibration Complete.
+Rebooting...
+
+
+
+Blissful numbness overtook him as he drifted into unconsciousness.
+
+********
+
+Lucy watched Ren as he logged in. She turned to the screen and waited for the city to appear, but all that was there was a black screen. She turned back to Ren and watched him closely, but no physical signs were showing. She had missed the popups that Ren had seen. They'd only been there for a moment. She was relieved he didn't have another seizure, as that was the biggest worry that the staff had about letting him use his VR setup again. She stood there and waited. Minutes passed and nothing happened. She looked back at the screen just in time.
+
+Reboot Complete!You have successfully logged back in.
+Welcome to F.L.O.W.
+
+
+
+Lucy sighed in relief and sat down to watch Ren as he continued his journey in another world.
+
+********
+
+Ren awoke in a strange bed.
+
+A bed?!? He thought. He'd never seen a bed in the game before. What's going on?
+
+He looked around and saw that he was in an ornate and lavishly decorated room. Gold filagree covered almost every surface that he could see. The large desk in the corner, several chairs, a couch, Who has a couch in their bedroom?, and various paintings on the walls. The only things not covered in gold were the sheets on the bed (they were white) and the curtains covering the windows (which were also white). He sat up in bed, and no sooner had he done so, than the door opened and a servant bustled into the room with towels and bed linens. He looked at her curiously and she stopped dead in her tracks. She dropped the linens on the floor and sped from the room.
+
+“Master Eric! MASTER ERIC!!!”
+
+Ren laughed at her reaction. He wondered how many times she'd come into the room over the last few weeks just to see him lying there and not moving. He lifted the blanket covering him and saw that he only wore a dressing gown. He looked around again, but couldn't see his clothes anywhere. Just then another servant came through the door.
+
+“Oh, you're up. Master Eric will be pleased.”
+
+She was an older lady, and Ren assumed that was why she had kept her head and didn't scream her lungs out like the last one did.
+
+“Excuse me, Miss. Can you please tell me where my clothes are?”
+
+She looked at Ren like he had two heads. “In the dresser, of course.”
+
+“Of course.” Ren said and blushed. “Thank you.”
+
+The servant nodded and went through another door. A bathroom was inside! He'd never seen a bathroom in the game, either. Ren stared through the doorway as she proceeded to clean it, even though she must have known that it hadn't been used in weeks.
+
+Perhaps she did it every day and it didn't matter if it was dirty or not? He asked himself.
+
+Ren took this opportunity to get out of bed and went to the dresser. He opened the top drawer, and there were some clothes inside.
+
+Travelling ClothesThis is a full set of travelling clothes
+
+
+
+They were not his, however. He stood there for a few minutes because he didn't know what to do. He didn't want to wear someone else's clothes. He was about to call out to the servant in the bathroom when Lord Eric walked in.
+
+“Ah! I see you really are up, and that Annabelle hadn't completely lost her marbles.” Eric said and smiled.
+
+Ren nodded and bowed his head slightly.
+
+“Now, now. None of that! You are a guest in my home. Please, make yourself comfortable.”
+
+Ren turned around and looked back at the bed, then at the couch, at the table and chairs...
+
+Eric laughed. “Come. Sit on the couch and tell me how you are feeling.”
+
+Ren followed Eric to the couch and sat at the far corner, while Eric sat primly in the center of the left cushion. He saw where Ren sat and laughed again.
+
+“I said to make yourself comfortable. Please.” Eric said and patted the right cushion. Ren got up and sat in the center, just as Eric had on the other cushion. “There you go. Now... how are you?”
+
+Ren was about to say he had a severe headache, but just now noticed that it had vanished after he had woken up. It was no longer there. “I'm fine. I had a headache before, but now it's gone.”
+
+“Good. Good. I'm glad you're feeling better. After several days of investigation, I finally got one of your friends to tell me the whole story of your adventure in the bottomless cavern.” Eric said while he watched Ren's reaction.
+
+Ren figured he'd have asked a bunch of questions of anyone that was there, so he didn't need to comment on the Lord's actions.
+
+Eric nodded slightly and continued. “Apparently, it wasn't bottomless... just very very deep. Much to my joy, actually. If you'd died and didn't get to use your talents the way you did, the quest would have been delayed for an unknown period of time and then who knows what kind of evil would have been loosed upon my citizens.” He reached over and lightly placed his hand on Ren's shoulder. “Thank you, Ren. You saved the kingdom from a horrible fate.”
+
+Ren blushed hard at Lord Eric's words. Ren had never done anything in his life that deserved such high praise. “But, sir... I just did what I would have done in any case. It wasn't anything special.”
+
+Eric nodded and took his hand off Ren's shoulder. “There is a saying in this world that is quite fitting for this context. 'It's not the person you should be looking to, but to their actions. They speak to you of their true character.' You may not believe you've done a great service to me and my kingdom, but you have nonetheless.”
+
+Ren just sat there, motionless.
+
+Eric smiled and stood. “Now get dressed and meet me in the main dining hall. A servant can show you the way. Dinner awaits!”
+
+If you come across this story on Amazon, be aware that it has been stolen from Royal Road. Please report it.
+
+Ren stood as well. “Um... sir. About that... I can't find my clothes.”
+
+Eric looked over to the dresser to see the open drawer and the pile of clothes inside. He looked back at Ren with a question on his face.
+
+Ren blushed again. “Those aren't the clothes I wore before, sir.”
+
+“Anabelle!” Eric called out to the hallway.
+
+“Yes, Master Eric?” Anabelle said as she appeared in the doorway.
+
+“Where are this man's clothes?”
+
+She looked to the dresser and was about to speak.
+
+“The clothes he came here in.” Eric said.
+
+“I... I don't know, Master Eric.”
+
+Eric sighed. “Go find them, please. They couldn't have gotten far by themselves.” Anabelle nodded and left the room in a rush.
+
+They wouldn't get far by themselves, no. Ren thought. But I bet they could if they had help.
+
+“Until they are found, you can put those on...” Eric pointed to the dresser and the clothes inside. “...and at least have dinner while we wait for the safe return of your clothing.”
+
+Ren nodded acceptance and Lord Eric left the room. Ren shut the door and then walked over to shut the bathroom's door as well. He wasn't shy in that respect, since he'd been under the care of the nurses and they'd seen... well, everything... but he didn't feel like explaining any kind of odd situation that may arise if someone else came into the room and he's caught half undressed with a woman in the bathroom.
+
+He reached for the door and saw the other servant walk back towards the tub she'd been cleaning before. Was she listening in on our conversation? He thought as he shut the door quietly. He went back and put on the clothing from the dresser. He felt a little weird that he wasn't wearing the clothes that he'd made himself. He knew he must be a little conceited, but he could feel the odd stitch poking him in different places when he moved. Sally was totally right! If you don't take proper care with your work, shoddy things like this outfit can be made. Even by experts! Which Ren assumed was the case. Who else would make clothes for the Lord of Aurora except a highly paid professional tailor?
+
+Ren left the room and looked around. He couldn't see which way to go, as both sides of the hallway looked identical. There were no distinguishing track marks on the carpet, either. He shrugged his shoulders and turned left. He had a 50/50 shot at it being the direction he needed to go. Those were pretty good odds.
+
+Stat Increase!You 're feeling a bit lucky today.
+Luck +1
+
+
+
+Ren laughed at the popup. I guess this really is the right way!
+
+Ren made his way downstairs to the main lobby. He turned around in a slow circle, took a deep inhale through his nose, and smiled. It's thataway! He thought and headed down the side corridor on the right. It didn't take long for him to find the main dinning room. It was huge. Unlike the room he had started in, this room was all silver brocade. He marvelled at all the details as he walked across the inlaid marble flooring with silver accents. Imagine the time needed to construct such a thing! Not to mention the cost.
+
+He finally arrived at the giant table at the far end of the room and noticed the people present. Lord Eric, his wife, the captain of the guard and his wife, and surprisingly enough... Clint.
+
+“There's th' little rascal, y'all.” Clint said as he came around the table to give Ren a big pat on the back. “Howarya feelin'?”
+
+Ren smiled at him. “Much better now.”
+
+Ren didn't feel like he was in a completely different world anymore. If Clint could be here, then so could he. They walked over to the table and sat down. Servants came and went. Ren had never had a 4 course meal before. It was definitely a new experience for him. He observed how everyone at the table ate and watched to see what utensils were to be used for which food dish. After an hour, dinner was finally finished.
+
+New Skill!Etiquette Level 1 (Beginner 0%)
+You have successfully learned how to act appropriately in certain social situations
+Higher levels can determine what class of social functions you may attend in the future
+
+
+
+Ren looked at the new skill. He wasn't sure what he could use it for, but a new skill is a new skill. He wondered how he could level it up, though. If there's one thing he wasn't, it's a social butterfly.
+
+“Ha!” Ren laughed out loud.
+
+Lord Eric looked at him. “Is something funny, Ren?”
+
+“Hm? Oh... no, sir.” Ren replied sheepishly. He didn't mean to laugh like that. “I just realized something. Not too long ago I was neck deep in an underground river and lost in the dark... and now I'm eating a meal in a mansion.”
+
+Eric looked at him with surprise on his face. “Ren... that was almost 2 months ago.”
+
+“W-w-what?” Ren said.
+
+“You haven't moved from that bed for 2 months.” Eric repeated. “Why else do you think Anabelle was so shocked and upset?” He nodded to the side of the room where the servants stood. Ren looked over to her and she nodded. Wow. Two months.
+
+“I really did miss a lot, didn't I?” He had completely forgot about the time difference.
+
+“Hey, pardner. Don' worry about it. Ev'ryone's gonna be so flippin' happy you're okay.”
+
+Ren nodded and sat in silence for a while. The others talked about things that he'd missed and he listened to what they said. He had lost so many opportunities!
+
+Lord Eric declared the dinner finished and they all stood to leave.
+
+“By the way, the party in your honor will be held this weekend. It will give you a chance to settle back into your life again.” Eric said. “We've had no luck with finding your clothes, Ren. I'm sorry. I'll reimburse their value.”
+
+Ren shook his head. “That's okay. Do you mind if I borrow these until I get a new set?” He held up the shirt he was wearing.
+
+“You can just keep them.” Eric said, then passed Ren a small bag. “Here's the standard fee for blacksmiths. 15 gold. I know it's not much when compared to your reward, but you were hired for a job, remember? You completed it well beyond my wildest expectations.”
+
+Ren didn't even bother trying to say that he'd been given enough gold already. He just took the sack and added it to his inventory. “Thank you, sir.” Ren bowed slightly. “With your permission, I'll be leaving now. Thank you very much for taking care of me.”
+
+Eric waved off Ren's thanks. “It was the least I could do. Be well, Ren.”
+
+“Thank you, sir. I'll be sure to do my best.”
+
+Eric nodded. Clint and Ren left the dining room together.
+
+When they got to the main doors, Clint turned to Ren. “It shore was nice ta see ya again, Ren.” He said and gave him a one armed hug. Ren opened his mouth to explain what had happened, about why he'd been gone for so long, but Clint shook his head.
+
+“Ah know you're gonna try ta explain, but it ain' necessary. We'd all worried ya wouldn' be back atall... but here ya are. Tha's all tha' matters.”
+
+Clint winked at Ren and left with a wave. Ren waved back. Was Clint there the whole time or was he just visiting occasionally and just happened to be there today? Ren didn't know... but he had a feeling that this wouldn't be the last time he'd be seeing ol' Clint.
+
+Ren left the mansion and walked down the street. People waved at him, and he waved back. He wasn't sure why he was happy about that. It wasn't like he was used to being popular or anything, but it was nice that people didn't just ignore him anymore. Perhaps... they might even stop calling him 'boy'! A big grin spread across his face as he walked over to the Artesian District. He definitely needed a new set of clothes and he knew just the place to get them. He had plenty of time left before he had to log out for the day. He was so lost in his thoughts that he didn't notice that a new house had been built in the Housing District.
+
+********
+Inside that house:
+
+A woman with an ample chest worked diligently at her desk. Her glasses perched atop her head so she could safely bend over without them falling off. She'd already worked for several hours that way, until...
+
+“There! All finished!” She said happily and lifted up what she had been working on.
+
+She held in her hands a set of high quality travelling clothes. They were very crudely sewn together, however... it ruined their value and erased their bonuses. She held it to her face and took a deep breath.
+
+“It still smells like him!” She said and laughed. “Now where did I put that stuffing?”
+
+********

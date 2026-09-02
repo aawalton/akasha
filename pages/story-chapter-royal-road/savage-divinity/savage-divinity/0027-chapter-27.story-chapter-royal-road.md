@@ -1,0 +1,110 @@
+---
+id: 8a75bf15-6220-5b96-801e-976c4e57ca5a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27"
+slug: 0027-chapter-27
+partOf: savage-divinity
+position: 27
+ownLength: 2571
+unit: words
+publishedAt: 2016-03-25
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/60748/chapter-27"
+royalRoadId: "60748"
+---
+
+I know a bit about the city of Shen Huo from my readings, and Taduk's stories. City is a misnomer. It's an enormous megacity, spanning 300km in length, and 90km in width. It's divided into multiple districts of varying sizes, built around a large lake that is a large percentage of the city mass. Calling it a conglomerate of cities would be more accurate. I had a clear picture in my mind of what it would look like, waterfront manors and bustling streets, decorative fountains and carved statues.
+
+
+I was sorely disappointed by my first impression.
+
+
+Outside the city is verdant farmland, supplying food for the city. More endless plains, this time dotted by green pastures and fields of golden brown. Rice paddies and fruit orchards break the landscape, a peaceful and beautiful view, if not for the brown and red city walls. 18m at the lowest point, the walls block any view into the city. Twin gates, lacquered metal, garish and ugly, lay open, while wagons and carts move in and out. A tunnel sits behind the gates, at least 50m long and 8m wide, like a giant mouth, ready to devour any who enter.
+
+
+Brightly armored guards in red and gold patrol the walls and stand at the gates, halberds in hand, glaring at all who wait to enter. Officials, dressed in black robes, followed by attendants carrying sheaves of paper and writing implements, walk back and forth, inspecting each vehicle entering and exiting the gate. Our caravan waits our turn outside the gate, every Sentinel dismounted, waiting alertly, weapons holstered, prisoners closely watched, bound and gagged.
+
+
+The entire place feels more like a military base, rather than a bustling city. I spent 12 days riding for this? What's worse is we've been waiting for over an hour, as the line of people entering the city moves quickly by. The line for carts and wagons lumbers slowly, a few meters at a time. Bureaucracy at it's finest. I don't know what they're searching for, taxable goods I guess? I let out a breath and shuffle my feet.
+
+
+I spent the last few days of travel sitting in the wagon, trying to harmonize with my weapon. It's still unbranded. The time required varies, but rarely more than a week, and I've spent close to 15 days. There's no method to determine how much longer it will take. I've spent every spare moment trying to brand it, but so far, nothing. It feels like a giant weight on my belt, screaming for people to kill me and take it. I'd take it off and pack it away, but I feel like that would be more suspicious than wearing it. There isn't any way to know it's unbound, without actively trying to use it. As long as I keep it close, no one should find out.
+
+
+I spent the rest of my time chatting with Husolt. He's actually a pretty fun guy, and is good friends with Taduk, to hear him tell it. They're drinking buddies, and swap stories often, so he knows a fair bit about me. He was good enough to answer all my questions, without seeming annoyed. He actually seemed kind of happy to have someone to talk to. Sumila often hangs out with the off duty cadets, rather than her father. It's a little sad how lonely the big guy seems sometimes.
+
+
+To make a spiritual weapon is fairly simple. It's actually completely identical to making a regular weapon, except for the materials. All you really require is a 'Heart' for the weapon and binding materials. The heart can be any number of things, any item that has managed to absorb sufficient amounts of Heavenly Energy. Bones, scales, wood, rocks, crystals, anything. An animal would need to be at least 1000 years old for its body to be used as a Heart, a plant or mineral more than 10 times that. Mine is from a chunk of ore removed from an area of high concentrations of Earth Heavenly Energy, a Heavenly Vein. The fist sized chunk Baatar found was enough only for a short sword, but would have ignited a bidding war, and possible a inter-house war as well, if put on the open market. I need to properly thank him when I get back.
+
+
+Sadly, a bigger weapon requires a bigger heart, and each piece of gear requires its own heart. I can't even attach the sword to a pole, and use it that way. Almost skin contact with the Heart is required for chi to flow through it. My dreams of running around in full plate, cleaving about with a giant battle-ax, are fading quickly, since every separate piece would need it's own Heart. Why can't any of my dreams be easy? On the plus side, I'm pretty sure the village is rich as shit, with an expensive forge and ability to equip most of their warriors with a spiritual weapon. I wonder why they still live so simply?
+
+
+Once you have a Heart, you gather the appropriate binding materials, which are highly variable depending on the type of Heart. Everything is then added to whatever material you wish to make a weapon from, in my case, was steel.
+
+
+High grade steel can only be made with something called the Shen Kuo process. Something to do with pressure and heat, in a giant airtight furnace. Husolt explained it to me, but it went over my head. Heat control, and removing impurities, and charcoal? I don't know. He has one in the village, and Baatar brought the heart, as well as the binding materials. As long as you have all that, it's just the simple process of hammering out a weapon. The steel manufacturing process is incredibly intensive, and I assume expensive.
+
+
+So when it comes right down to it, my sword is fucking priceless. Husolt didn't give me a price, because he couldn't. No one in their right mind would sell an unbound weapon. Finding a heart is already incredibly difficult, binding materials almost as difficult. Why go to all that effort, just for coin? If you want money, just sell the core, the binding materials, or even the steel, and let people make their own decisions about the type of weapon they want. Sumila even forged her own weapon, with materials she hunted along with her mother. That's how most people in the village get their own spiritual weapons, killing geriatric animals. Doesn't seem very fair, or sustainable, but what do I know.
+
+
+Our turn finally arrives. A pinched faced official and his attendants go through everything, checking every bag and wagon, looking for hidden compartments and smuggled goods. I guess it is about taxes. Nothing can be certain, except death and taxes. I put up with the nosy attendant poking around my pouches and bags but Zabu is a little bitch, refusing to allow the attendant close. I have to take everything off of him for them to inspect. Little furry punk, I should cook and eat him. I bet he'd taste terrible too, just out of spite.
+
+
+When everything is done being snooped through, and we hand over all the prisoners, the official hands Akanai a writ with a wax seal on it. She gives the order, and we all mount up and move through the tunnel. Finally, I've arrived at the city.
+
+
+The view of the city proper almost brought tears to my eyes. Not of joy, just sad, dream shattering tears. The city is a giant blob of brown, with haphazard wood and mud buildings and ugly winding dirt roads. The citizens are dressed in drab, muted outfits, matching their mood. Dirty children watch us pass by, not in curiosity, only detached indifference. The stink of filth and sweat fills my nostrils, a fetid stench that makes me gag. A depressing place, a far cry from our beautiful and colorful village. The more I see of this world, the more I hate it. I should just never leave the village.
+
+Love this story? Find the genuine version on the author's preferred platform and support their work!
+
+
+“This place is horrible. Who would want to live here?”
+
+
+“These are the slums.” Sumila gives me a look, the one where she's calling me names in her head, but is trying not to vocalize them. “It's where those unable to support themselves live. If they wish to go elsewhere, then they only need to work harder.” Wow, harsh. I think I know why banditry is a popular option. The living conditions are only a few steps up from the mines.
+
+
+At least an hour of travel through all the depressing landscape and we finally reach a beautiful gated bridge, with more guards. Akanai flashes the writ, and we are let through without hassle. The bridge is enormous, maybe 8 wagons wide, made of white stone, with red lacquered wooden fencing. An incredible feat of engineering, it stands at least 8 meters above the water line. It takes 10 minutes to cross, and we arrive at a beautiful island area, that seems a different world from the shanty town we just passed through. The smell is gone, for one. Wide, white, paved stone streets spread before me in an orderly fashion. Green grass interspersed with elegant white bark trees line the roads. Clean brick and wood buildings stand, colorful concave roofs above, merchants within, shouting their wares as we pass by. The people are dressed in a myriad of colors, silks, cottons and furs, elegant shirts and beautiful dresses abound. There are also guards, dressed in what I guess are faction colors, accompanying most pedestrians, watching us closely as we pass.
+
+
+We move into what is clearly a residential area, large courtyard manors like the ones in the village, with intricately carved statues and cleverly designed fountains, or rock formations and flower gardens. This is it, the city I imagined. It's wonderful. Akanai leads us all to a manor with a round, open gate and we all file through, into a courtyard larger than the training yard in the village.
+
+
+“Big Brother Rainy! Daddy said you were going to be here!” A bundle of silk and braids runs at me and lightly jumps onto Zabu, sitting high on his harness, facing me. What the hell? The furry little bastard didn't even blink. “It was supposed to be two days ago! You're late! Did you bring me a gift?”
+
+
+Little Mei Lin has grown from a tiny waif, into a more normal sized waif. She is large eyed and tanned, dressed in a colorful shirt and pants. She still behaves like a spoiled brat sometimes, but I've grown fond of her. I pat her adorable head, her rabbit ears still drooping to cover her eyes. “Hello, Mei Lin. It's been a while. I have some gifts for you in my pack.” Just some hard candies from the village. I didn't exactly have time to go shopping.
+
+
+She pokes me in the cheek lightly. “I told you! I told you a thousand times! Don't call me Mei Lin. Just call me Lin-Lin. Meanie Rainy is bullying me! Mi-Mi, Help me!” She waves at Sumila, yelling even though there's barely a meter between us. She stands on Zabu and leaps over to the wagon, and starts chatting excitedly. Seriously, why does this stupid quin not care about what Mei Lin does? I refuse to call her Lin-Lin. I feel ridiculous saying that. Mi-Mi is just as dumb. I didn't like Rainy at first, but it seems better than the alternative.
+
+
+Looking around Taduk's villa, I realize I was right. It pays to be a healer. We're on an island, and his home could probably fit the entire caravan with room for a second caravan. Several five-storied buildings surround us, paper windows and ornately decorated wooden walls, with a lovely garden pond as the centerpiece. The trees are in full bloom, ready to wilt away for the winter, pink and white blossoms scattering with the wind. I spy Taduk walking over towards us, emerging from the pagoda by the pond. I don't understand why he lives in the village. This is much nicer than his rabbit warren house in the village. Wait is that why he likes the village? Because he can live like a hare?
+
+
+He's dressed in his customary thick robes, a design of a hare in front of the moon, stitched in gold and silver. Fancy threads. He greets Akanai and a few others, shaking hands and hugging. An army of servants starts helping everyone with their luggage, and bringing them away to find rooms and get settled. Taduk walks over to me and grins. “Not bad, eh boy?”
+
+
+“It's a beautiful home, Teacher. Thank you for inviting me into it.” I climb off Zabu while he hisses. I gladly hand him to a servant, who receives the same treatment. That makes me feel better. It's petty, but at least I'm not the only person he hates.
+
+
+“Come, come, my boy. You need a bath, and a change of clothes. Then we can have lunch, and you can tell me all about what I've missed. Baatar's one sentence descriptions don't do it justice.” He looks at me sternly. “It wouldn't hurt for you to send a message to me every now and then, you know.”
+
+
+I smile at him, without an answer. I should send letters. I'll look into it when I get back. Or just live here. It's incredible. No wonder his cooking is terrible. He's rich, he doesn't need to learn. Mei Lin is a little lady. A bratty little lady. It's so much more than I expected. I mean, with everyone able to fix their own injuries, I was worried that healer was not as lucrative as I first thought it would be, but just wow. This is almost too much. For me, a smaller place, with not as many servants would be better. Or maybe even none actually, I'm not too comfortable being served by strangers. Are they slaves? I look at the servants, but they seem happy. Even if they are slaves, Taduk wouldn't mistreat them. A far cry from the mines. Besides what am I gonna do? Free them? Then what? Send them off to the slums? That's a giant step down. Start a war to end slavery? Not likely. I'm no Lincoln. I just want to live my life.
+
+
+Heading into the bath, I find a private room with wood and paper walls, a small wooden tub in the center, with wooden dividers, heated water being poured in by servants. The floor has grates, for the water to run off in, and the roof is raised, small slits leading outside, for steam to escape. When everything is prepared, they all leave and I slip into the hot water. The dirt and grime on my body sluices off, and I sigh, while reaching for the soap to lather up. My very first private bath. Say what you will about public bathing, sometimes it's nice to scrub your ass without worrying about people watching.
+
+
+This is the life. I want this. The village is nice too, but there's always so much to do. A nice medium between the two would be perfect. A wife, some kids, a nice home.
+
+
+What more could I ask for?
+
+
+Three wives. Or maybe five.
+
+
+Perfect.

@@ -1,0 +1,155 @@
+---
+id: 7eb86b2b-ce6a-5eae-9e13-c0dcc1c7c750
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 - Is That A Clue?"
+slug: 0016-chapter-32-is-that-a-clue
+partOf: mythrans-master-of-all-continued-completed
+position: 16
+ownLength: 2072
+unit: words
+publishedAt: 2016-09-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/94589/chapter-32-is-that-a-clue"
+royalRoadId: "94589"
+---
+
+“Flow Login Start.”
+
+Ren felt the familiar tingling of transition into the game. There was no loading room this time. He assumed there were no new updates since the last time he had been on, and awoke in the spare bedroom of Aimus and Abigail's house. He got out of bed and saw it was bright and sunny out already. He left the room and went out into the kitchen. Abigail was beside the sink. It looked like she was doing the dishes.
+
+“Good morning.” Ren said and sat down at the table.
+
+“Good afternoon.” Abigail said and nodded at the clock. It was 12:15, just after noon.
+
+“Sorry. I overslept.”
+
+“That's quite alright. Aimus told me how much you did yesterday. He didn't mind letting you sleep in a little.” Abigail said and dried her hands on her apron. She got a bowl out of the cupboard and went to the big pot of stew that sat on the stove. She filled the bowl with a thick stew and gave it to Ren.
+
+“Thank you.” Ren said and started to eat. He swallowed a mouthful and asked where Aimus had gone.
+
+“Oh, he's out there somewhere.” Abigail said and waved her hand dismissively. “I'm sure he's putting out some of the new traps he brought back from Aurora.” Abigail put a bowl of fresh buns next to Ren then went back to the sink to clean some more dishes.
+
+Ren nodded and continued to eat. He took two of the buns and put them into his inventory. Abigail finished the dishes she had been cleaning and sat down at the table with Ren.
+
+“So, why did you really come all the way out here?” Abigail asked Ren when he was finished with his bowl of stew.
+
+“Well... I did want to leave the city for a while... but Sally told me a while ago that her husband had taught their son everything he knew about leatherworking.” Ren said truthfully. “I want to learn as much as I can, but I haven't asked Aimus to teach me yet.”
+
+“Don't bother asking him. He'll just say no. If you follow him around and watch what he does, you'll pick it up in no time.” Abigail said.
+
+“Really?” Ren said, a bit astonished.
+
+Abigail nodded. “If you try to make him teach you, he'll fight against it as hard as he can and you won't learn anything; but, if you're patient and learn on your own by watching him... he'll show you some of the tricks his father taught him.”
+
+Ren nodded and pondered her words. He'd already done something similar when he'd learned Skinning. If Aimus' own wife thought Ren was better off not saying anything, then that's what he would do. “Thank you for the advice.” He said and stood up.
+
+Abigail nodded. “Keep an eye out for Ana, would you? She gets up to no good when she knows her father is around. He lets her get away with everything.”
+
+Ren nodded at Abigail and went out the front door. He wasn't sure what he should do now, since he didn't know how long Aimus would be gone for and didn't want to go anywhere by himself. Ren didn't know the territory or how to get back to the homestead if he ever got lost. He was about to sit down and go over his inventory when he heard a distinctive shriek of laughter come from the barn. Ren turned around and followed the sound. He was sure that little Ana was playing with the horse. Sure enough, when he stepped into the barn he saw the little girl perched on top of the horse pen and was feeding hay to the horse.
+
+“Hey, Ana. What are you doing there?”
+
+“Feeding Sprinkles.”
+
+“Sprinkles, is it?” Ren said and looked at the horse. It didn't seem to object to the new name. Of course, Ren didn't know the horse's real name, so 'Sprinkles' might actually be an improvement. Ren chuckled. He sincerely doubted it, though.
+
+“How did you come up with such a good name?” Ren asked the girl.
+
+“It's in my fav'rite book.”
+
+“Oh, what book is that?” Ren said, just to keep the girl talking.
+
+“The live rock book.” Ana said.
+
+“Live rock?” Ren asked. It sounded familiar, but it couldn't be what he thought it was.
+
+“Sure. C'mon. I'll show you.” Ana said and hopped off the side of the pen like she'd been doing it all her life. Ren had watched helplessly as she flipped her legs over the side of the pen and slipped off to land on the ground. He didn't even have time to react to what he'd just witnessed and she had already skipped out of the barn. Ren ran out and caught up with her just as she entered the house.
+
+“Goin' to my room, ma.” Ana said as they passed through the kitchen.
+
+Abigail didn't even look up from the chicken she was chopping up. “Don't burn the house down.”
+
+“Very funny, ma.” Ana said when she and Ren entered her room. “I lit one little fire.” She said and hopped onto her bed and ducked her head under the blanket. “Burn the barn down just once...” She shook her head and lifted the edge of her mattress. “...and they never forget about it.” Ana said and pulled out what looked like a children's storybook. It was bright green and had a picture of some kind of pyramid on the front. “Here it is.” Ana handed the book to Ren.
+
+“The Guide to Infinite Joy.” Ren read on the cover.
+
+“Yep. It has everything in it. Action. Suspense. Thrills. A love story, but I could do without that part. Boys. Yuck.” Ana said and made a weird face. Ren laughed.
+
+“Do you mind if I read it?” Ren asked Ana.
+
+Ana shook her head. Ren sat down on the floor, opened the book with care, and started to read.
+
+*
+It was a story about the first tribe of settlers to the land. They had been searching for enlightenment and riches, but became lost and confused. It took them years to stumble across a magical place that was hidden deep in the forest. When they found the place, they knew it was home and built a small village there. One day, the village elder woke up with his head full of visions. “Build a temple!” He commanded the village. Since he was the elder, they did as he said. It took another few years, but they eventually finished it to his liking. The village had prospered over this time and became a good sized city. It melded into the forest and was nearly indistinguishable from the surrounding trees. Other tribes tried to take it away fromthem, but they fought well and defended their home. The elder's oldest son fell in love with a common girl from one of the tribes they had fought, much to the shock of the rest of his own tribesmen, but he didn't care what they thought. He ran away with the girl and they were never to be seen again. The elder thought nothing of the scandal and a short time later commanded the tribe to go into the mountains of the nearby land to dig. He didn't tell them what to dig for; but since he was the elder, they did as he said without question. More years passed and the city prospered again with all the ore and metal they had dug up. Battles rarely happened now that they had superior weapons to the other tribes. One day, one of the tribe stumbled into the city and was covered in cuts and bruises. He collapsed at the foot of the temple. In his hands was a rock. A very special rock. It was a green, gem like rock and it glowed a slight green as well. The elder declared the digging over and took the rock from the tribesman's bleeding hands. The elder went into the temple and did not return for several days. When he emerged, his hair was solid white and he looked as frail as a twig. He carefully walked down the temple steps. When he got to the bottom, he declared that life was perfect and died on the spot... with a look of pure joy on his face. The tribe was always a superstitious lot; they assumed that since their only elder was now dead, it was because of the temple. They destroyed as much of the temple as they could and the city was soon abandoned. The people merged into the surrounding tribes and the old city was soon lost to history.
+
+Stolen content alert: this content belongs on Royal Road. Report any occurrences.
+
+*
+Notice!You have read a book from the Lore Of The Ages Series
+
+
+
+Ren flipped back through the book, looking at each of the pictures that had appeared near some of the text. He found the page that mentioned the rock, but no picture was there. He closed the book and saw what he was looking for on the back cover.
+
+Notice!You have unlocked a Class Sub Skill
+
+Hidden Knowledge Level 1 (Beginner 0%)
+This sub skill under Speed Reading will allow you to distinguish fact from fiction when reading stories about ages past.
+Higher skill levels will allow more facts to be gained in less time.
+
+
+
+“You finished that kinda fast. Did you like it?” Ana asked.
+
+Ren nodded. There was no doubt about it in his mind now. The story really was about what he had first thought. Two slightly similar chunks of ore were sitting in his inventory.
+
+Stat change!You have gained: Wisdom +2
+
+
+
+Ren handed the book to Ana. “Thanks for letting me read it. It was a great story. I learned a lot.”
+
+Ana smiled and tucked the book back under her mattress. She sat up and smiled at Ren. “What was your favorite part?”
+
+“The rock. It must have been pretty important for them to search all those years for it.”
+
+Ana nodded. “My favorite part was the temple. Built right in the middle of that magic spot! I wonder how much is left now...”
+
+“How old is that story? How long has it been since it was supposed to have happened?” Ren said and shrugged. “There's probably only a slight hill wherever it is now.”
+
+Ana nodded again. “Yeah, I'll probably never get to see it... if it's real at all.”
+
+Ren nodded and stood up. “I have a couple things I need to do, so I better go. Thanks again for the story.”
+
+Ana waved and turned to her dresser. Ren left her room and went outside to think. Was that story about one of the chunks I have, or is it about another one?  Ren thought as he walked around the barn and sat down in the grass, out of sight of the house. He took out one of the chunks of ore and examined it. He never got around to doing it before and figured now was as good a time as any.
+
+“Identify.”
+
+???????? Ore Part 2 of 3
+
+
+
+“Huh? I can't identify it.” Ren took out the other one and used Identify again.
+
+???????? Ore Part 3 of 3
+
+
+
+“At least I only need one more part. Maybe then I can identify it.” Ren said. He thought back to the story he'd just read. No way. Ren put the two chunks of ore away. That's got to be the one I took from the mountain pass, right?  He shook his head a moment later. No, it can't be. Nowhere in the story did it say that anyone went back in to the temple to retrieve the rock. Wherever it is, it's still there.
+
+“MASTER! HELP!” Teepo shouted in Ren's head.
+
+“Ow!” Ren said and rubbed his temples with his hands. Not so loud, Teepo. Where are you?
+
+“I d-d-don't know, master!” Teepo said. “Master, something in here is trying to eat me!” Teepo whispered.
+
+It's okay, Teepo. I'll get you out of there. Ren thought.
+
+“Summon Teepo!” Ren said and tapped the ring.
+
+Ren looked down and Teepo wasn't there.
+
+“Summon Teepo!” Ren said and tapped the ring. “Summon Teepo!” Ren said and hit the ring with his other palm. “SUMMON TEEPO!” Ren shouted and punched the ring...
+
+...and nothing happened.
+
+“God DAMMIT!!!”

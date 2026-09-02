@@ -1,0 +1,150 @@
+---
+id: 68151187-d5a9-5803-a20e-af0b2bbaab61
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15"
+slug: 0015-chapter-15
+partOf: savage-divinity
+position: 15
+ownLength: 1662
+unit: words
+publishedAt: 2016-03-16
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58998/chapter-15"
+royalRoadId: "58998"
+---
+
+“You aren't a quin, boy, walk upright with eyes forward.”
+
+
+
+I jump to obey, always a little nervous around Baatar. He's not only physically intimidating, but also really intense. Does everything to the max. We haven't interacted much since the festival. I didn't even know he raised Alsantset until he came to say goodbye before leaving in the spring. He walks quickly, but not in a hurried fashion. That's just how he walks. He doesn't say anything else, and I'm almost running to keep up with him. I wish we brought Suret or Pafu. I've been learning to ride, which may have made me a bit lazy.
+
+
+We stop outside the village proper, at Taduk's house. He lives in an odd little cottage with Mei Lin. It's architecture is different from the rest of the village's Asian architecture. Taduk's cottage is wood, dirt, and stone, built right into the mountain. Like a rabbits warren. There's a small stable next door, built the same way. A wood pole fence encloses a small area around the 'house', where a variety of plants and herbs grow. There are even plants and grass growing on the 'roof' of his house. He told me he liked the solitude, and required specific conditions for his garden.
+
+
+Baatar brings me to the door and knocks. A short while later, Mei Lin opens the door, dressed in a nightshirt, rubbing the sleep out of her eyes. When she sees us, she squeaks and shuts the door. Looks like I'm not the only one Baatar intimidates.
+
+
+Taduk opens the door after a moment of scrambling. “Captain, how do you do? Some health issue I can help you with?”
+
+
+“Nothing of the sort. I've come to train the boy. I will require your assistance.”
+
+
+Taduk looks at me. Why do I see pity in his eyes? “I see, I see. Do you think it... wise? Rain is...” I guess he doesn't want to hurt my feelings by calling me a failure in front of me.
+
+
+“No need to worry. He'll be fine. As I said, I will need your assistance however. Do I have it?”
+
+
+Taduk and Baatar locked eyes for a long moment. Who knew. Silly Taduk can match glares with 'Ice Eyes' Baatar. Taduk relents first though, and sighs. “Rain always has my aid.”
+
+
+Baatar simply nods, and walks out past the fence. I turn to follow, but Taduk grabs my shoulder.
+
+
+“Rain. Do you truly wish to walk the Martial Path? You've no need to. You're a very smart boy. Once you reach the State of Balance, I believe it will only be a few short years before you can heal the injuries of others. Even without that, you'll be able to prescribe and administer herbal treatments, set bones, relieve sicknesses. You need not become a warrior, you have other paths available to you.”
+
+
+I look at my Teacher. He's genuinely worried. Should I do like he says? Being a doctor is pretty decent. Healing the sick is a noble profession and I can live my life in the village, protected. Safe. Valued.
+
+
+But I wouldn't be strong. I would just be a more valuable slave in the end. I need to learn to fight, and Baatar is the strongest person I know. I can't waste this opportunity.
+
+
+“Thank you for your concern, Teacher. Your foolish student, Rain, would still like to try.” A thought occurs to me. “Wait, are you going to stop teaching me if I go with Baatar? Because I won't if that's the case.” Taduk has been so good to me. I can't abandon him. I can just learn to fight on my own.
+
+
+“No, foolish student, I am your Teacher. You are my student. He is your Mentor. You are his disciple. I teach you a craft, so that you may support yourself. He will mentor you in a lifestyle, the life of a Martial Warrior. I will continue to teach you the in the profession of a healer for as long as you will allow me.” Taduk gives me a big hug. It's nice, warm. His robe is soft and thick, and he smells like cinnamon and spices. “Stop crying, you cry too much. Don't let little Lin-Lin see, women like their men to be strong.” He turns me around. I hear a catch in his voice.
+
+
+Taduk is an amazing person.
+
+
+I walk out to Baatar, who stands at attention with his back turned to the door, giving me time to calm myself. When I'm done erasing all evidence, I move and stand in front of him.
+
+
+Back straight. Chin Up. Eyes forward.
+
+
+I'm going to be a Martial Warrior.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+“Holy Mother of All, that hurts!”
+
+
+The boy needs more imagination in his cursing. Baatar had to wash Alsantset's mouth out with soap a dozen times at least, more commonality with her mother. Baatar smiled at the thought. The boy was muttering now, in that unknown language. The meaning was clear though. No one had asked him what the language was, or where he learned it. The boy deserved his own secrets, and it was inconsequential.
+
+
+“If it hurts, then block or avoid it, boy. Again, from the beginning.”
+
+
+As soon as they stepped a short distance from Taduk's fence, Baatar ordered the boy to demonstrate the Forms. He had to admit, the boy was good at them, much better than expected. He was even better than most his age, which was commendable. No wonder Alsantset had been so proud.
+
+
+When the boy seemed to lose focus of his surroundings, Baatar had thrown a rock at him. Not hard, he had aimed for the boy's shoulder resulting in a small bruise of no consequence. The others soft-footed around the boy as if walking on eggshells. He is strong. The boy simply grumbled a bit, and fell into his forms once again when ordered to, warily watching Baatar. The Forms suffered from the lack of attention.
+
+
+“Boy, you're doing it wrong. Do it as before. Do not worry about me throwing stones.”
+
+
+After a short time, the boy once again devoted his full attention to the Forms. So Baatar threw another rock, this time at his stomach. The glare of betrayal was off-putting, but inconsquential in the end. He can handle it. The pattern repeated, until the boy had a half a dozen bruises, and was glaring murderously at Baatar. There it is, the anger, only a stone's throw away. He chortled.
+
+If you spot this narrative on Amazon, know that it has been stolen. Report the violation.
+
+
+“What's so funny?” The boy had lost his veneer of polite manners.
+
+
+“You are, boy. What are you doing? You lose yourself in the Forms.”
+
+
+“Because you keep telling me to do that. And then you throw stones.” Frustration, evident in his tone, if not his face.
+
+
+“No, I want you to demonstrate the Forms. Do you understand?”
+
+
+The boy stopped to think. Anger and Frustration returned. “No.”
+
+
+Baatar sighed. Taduk had told him the boy was smart. Did he lie? “The purpose in the demonstration of the Forms is two-fold. First, to build up the body to withstand the infusion of Heavenly Energy. The stronger the body, the more Heavenly Energy it can absorb. The more Heavenly Energy absorbed by the body, the more powerful the warrior. Understand?” The boy nodded after a moment.
+
+
+“Is it [cumulative]?” The boy asked.
+
+
+Baatar frowned. The boy spoke a word he didn't understand. “Explain.”
+
+
+“I do the Forms and strengthen my body, to absorb more Heavenly Energy, which strengthens my body. Does the strengthening of my body using Heavenly Energy, allow my body to absorb more Heavenly Energy?”
+
+
+It took the boy drawing the process out in the dirt for Baatar to understand. A simple circle diagram. Seems Taduk wasn't lying, the boy is smart. “Ah. You are asking if the process is cumulative. No. There is a limit, based on the level of your natural body.”
+
+
+“Didn't I ask that to begin with? Is the limit different for Demi-humans?”
+
+
+The boy was getting flippant. But he deserved to. Baatar had been throwing stones at him all morning. “Demi-humans have a higher limit on how much their bodies can absorb, but a lower limit on how much Heavenly Energy they can convert to Internal energy. Heaven is fair to all its creatures.”
+
+
+“So what is the second purpose?”
+
+
+Baatar smiled at his thirst for knowledge. A better way to handle him. More mental guidance. He made a note of that. “The second purpose is to teach you how to fight. The Forms hide within them all the knowledge you require in order to do battle. These are called 'Insights into the Forms'. You simply need to allow your body to move as it pleases. You guide your body, and it hinders you from reaching Enlightenment. You should instead let your body guide you, freeing your mind. Demonstrate the Forms, boy. Do not lose yourself in them.”
+
+
+The boy stood, in quiet contemplation for some time. Baatar was patient. A half hours worth of time passed, the two of them standing in place. Then the boy slapped his face twice and spoke. “Alright. Let's do this.”
+
+
+He began his performance. Baatar watched carefully for some time. He is not losing himself, still mindful of his surroundings. Good, good. Good. Baatar prayed to the Mother of All. He walked a thin line. A failure here might push him over the edge. Fortune favors the Bold. He waited for the boy to turn away, eyes obscured, and threw a stone, this one aimed at the boy's head.
+
+
+The boy saw it coming and reacted, arm snapping out and catching the stone, scant centimeters from hitting him. He looked at the stone in his hand, smile spreading on his face.
+
+
+Baatar let loose the breath he was holding. Thank you, Mother. “Congratulations boy. You have reached the State of Enlightenment.”
