@@ -4,20 +4,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@akasha/temper-capture-writer": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
-    "@temper/game-characters-capture-addon": "workspace:*",
-    "@temper/game-collections-antiquities-capture-addon": "workspace:*",
-    "@temper/game-collections-capture-addon": "workspace:*",
-    "@temper/game-collections-lore-capture-addon": "workspace:*",
-    "@temper/game-collections-tribute-capture-addon": "workspace:*",
-    "@temper/game-companions-capture-addon": "workspace:*",
-    "@temper/game-completion-capture-addon": "workspace:*",
-    "@temper/game-crafting-capture-addon": "workspace:*",
-    "@temper/game-housing-capture-addon": "workspace:*",
-    "@temper/game-items-capture-addon": "workspace:*",
-    "@temper/game-items-currency-capture-addon": "workspace:*",
-    "@temper/game-navigation-capture-addon": "workspace:*",
-    "@akasha/temper-capture-writer": "workspace:*"
+    "@akasha/temper-game-catalog-capture-addon": "workspace:*"
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
