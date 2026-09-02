@@ -4,7 +4,7 @@ function asPortToFriendMenuHolder(value: unknown): PortToFriendMenuHolder {
   return value as PortToFriendMenuHolder
 }
 
-export const PortToFriendMenu: PortToFriendMenuHolder = asPortToFriendMenuHolder({
+export const portToFriendMenu: PortToFriendMenuHolder = asPortToFriendMenuHolder({
   name: "PortToFriendMenu",
   lam: {
     panel: undefined,

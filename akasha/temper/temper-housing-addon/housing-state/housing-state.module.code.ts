@@ -7,7 +7,7 @@ import {
   TAB_HOUSE,
 } from "../housing-constants/housing-constants.module.code.ts"
 import type { PortToFriendHolder } from "../housing-holder-types/housing-holder-types.module.code.ts"
-import { PortToFriendMenu } from "../housing-menu-state/housing-menu-state.module.code.ts"
+import { portToFriendMenu } from "../housing-menu-state/housing-menu-state.module.code.ts"
 import type {
   PortToFriendData,
   PortToFriendDefaults,
@@ -57,7 +57,7 @@ const DEFAULTS: PortToFriendDefaults = {
   defaultTab: TAB_HOUSE,
 }
 
-export const PortToFriend: PortToFriendHolder = asPortToFriendHolder({
+export const portToFriend: PortToFriendHolder = asPortToFriendHolder({
   addonName: "PortToFriendsHouse",
   version: 1,
   versionString: "2.5.46",
@@ -177,7 +177,7 @@ export const PortToFriend: PortToFriendHolder = asPortToFriendHolder({
   savedVars: undefined,
   HOUSES: {},
   purchasedHouses: {},
-  menu: PortToFriendMenu,
+  menu: portToFriendMenu,
   hacks: {
     callbackName: "PortToFriend.ContextMenuHack",
     callbackInterval: 500,
@@ -185,7 +185,7 @@ export const PortToFriend: PortToFriendHolder = asPortToFriendHolder({
 })
 
 export function getPtfSavedVars(this: void): SavedVars {
-  const savedVars = PortToFriend.savedVars
+  const savedVars = portToFriend.savedVars
   if (savedVars === undefined) {
     throw new Error("PortToFriend saved variables read before initialization")
   }
