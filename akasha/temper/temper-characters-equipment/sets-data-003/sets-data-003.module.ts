@@ -1,0 +1,19 @@
+import type { Module } from "../../../code-system/module/module.page-type.ts"
+
+export const setsData003 = {
+  id: "01a0619f-59e1-7a67-bb49-f21e1f7ceae0",
+  pageTypeSlug: "module",
+  slug: "sets-data-003",
+  definition: "part 003 of the gear set table, alessias-bulwark through ancient-dragonguard",
+  code: "ts",
+  invariants: [
+    {
+      invariantKind: "constraint",
+      statement: "The sets are named here in the order the gathered table answers its ids in.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A set moved to another place breaks every build hash saved.",
+    },
+  ],
+} as const satisfies Module
