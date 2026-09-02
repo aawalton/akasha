@@ -7,15 +7,7 @@ import { put } from "@akasha/testing-system/putting"
 import { write } from "../commands/write/write.command.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
-import {
-  committedLine,
-  judgedBy,
-  judgedOver,
-  landingAsked,
-  MECHANICAL,
-  NO_CHECKS,
-  passedOver,
-} from "./asking.module.code.ts"
+import { committedLine, landingAsked, MECHANICAL, NO_CHECKS } from "./asking.module.code.ts"
 import {
   asking,
   BROKEN,
@@ -41,6 +33,8 @@ import {
 afterAll(scratch.sweep)
 
 const CHECKED = { slug: "change-checked", runsChecks: true, runsWarrants: false }
+
+const OUT = "no check judges a path outside `akasha/`"
 
 test("a report that could not be built leaves the landing standing, and says so", () => {
   const root = repoWith()
@@ -192,25 +186,21 @@ test("a gate counts the removal it judged beside the body it wrote, so a move is
   expect(said.report[0]).toBe("1 check passed over the 2 paths asked for")
 })
 
-test("a pass names how many checks ran and how many paths they were handed", () => {
-  expect(passedOver(1, 1)).toBe("1 check passed over the 1 path asked for")
-  expect(passedOver(12, 6)).toBe("12 checks passed over the 6 paths asked for")
-  expect(passedOver(0, 2)).toBe(
-    "no check runs at this phase, so the 2 paths asked for went unjudged"
-  )
+test("a landing over a path no check reaches is not counted as judged", () => {
+  const root = repoWith()
+  const at = ["--file-path", "temper/one.ts", "--content-file", bodyIn(root)]
+  const said = write([...at, "--message", "held"], givenIn(root)).report.join("\n")
+  expect(said).toContain(`${OUT}, so the 1 path asked for landed unjudged`)
+  expect(said).not.toContain("judged the 1 path asked for")
 })
 
-test("a landing names what judged it, and says so when nothing did", () => {
-  expect(judgedBy(1, 1)).toBe("1 check judged the 1 path asked for, and none refused")
-  expect(judgedBy(0, 1)).toBe(
-    "no check runs at this phase, so the 1 path asked for landed unjudged"
-  )
-})
-
-test("a draft names how many paths the patch would leave were judged", () => {
-  expect(judgedOver(1, 1)).toBe("1 check judged the 1 path the patch would leave, and none refused")
-  expect(judgedOver(0, 2)).toBe(
-    "no check runs at this phase, so the 2 paths the patch would leave went unjudged"
+test("a landing over a mix counts only the paths a check reached", () => {
+  const root = repoWith()
+  const said = wrote(root, ["--file-path", "temper/one.ts", "--content-file", bodyIn(root)])
+  expect(said.code).toBe(0)
+  expect(said.report).toContain("1 check judged 1 of the 2 paths asked for, and none refused")
+  expect(said.report.join("\n")).toContain(
+    `${OUT}, so what these carry went unjudged — temper/one.ts`
   )
 })
 

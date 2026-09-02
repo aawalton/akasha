@@ -12,6 +12,7 @@ import { BREAK_GLASS, DRY_RUN, landingAsked } from "../../asking/asking.module.c
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
 import { wouldClear } from "../../folder-clearing/folder-clearing.module.code.ts"
+import { checkReaches, judgedByNothing } from "../../judged-saying/judged-saying.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
@@ -19,8 +20,6 @@ import {
   barredIn,
   FILE_PATH,
   glassIn,
-  insideAkasha,
-  judgedByNothing,
   MESSAGE,
   MESSAGE_FILE,
   messageIn,
@@ -136,7 +135,7 @@ function openedIn(
       gone.push(path)
       continue
     }
-    if (!insideAkasha(path)) outside.push(path)
+    if (!checkReaches(path)) outside.push(path)
     if (statSync(at).isFile()) {
       opened.push(path)
       continue
@@ -161,7 +160,7 @@ function openedIn(
       seen.add(file)
       opened.push(file)
       under.push(file)
-      if (!insideAkasha(file)) outsideUnder.push(file)
+      if (!checkReaches(file)) outsideUnder.push(file)
     }
   }
   if (refusals.length > 0) return { refusals }
@@ -355,7 +354,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
   const root = resolve(given.root)
   const held = openedIn(root, read.named)
   if ("refusals" in held) return answering([], held.refusals, 1)
-  const beside = besideAll(root, held.opened.filter(insideAkasha))
+  const beside = besideAll(root, held.opened.filter(checkReaches))
   const paths = [...held.opened, ...beside].sort()
   const gone = [...held.gone].sort()
   const already = alreadyGone(gone, read.dryRun)

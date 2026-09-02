@@ -12,10 +12,12 @@ import {
   textAt,
   textOf,
   troubling,
+  warranted,
   wroteAndTook,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
+import { judgedByNothing, outsideOf } from "../../judged-saying/judged-saying.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
@@ -33,8 +35,6 @@ export const CONTENT_FILE = "--content-file"
 export const REMOVE = "--remove"
 
 const AKASHA = "akasha"
-
-const INSIDE = `${AKASHA}/`
 
 const GIT_DIR = ".git"
 
@@ -54,7 +54,7 @@ export function unwarrantedIn(
   return owedIn(
     given.root,
     given.agentId,
-    changes.map((one) => one.path).filter(insideAkasha),
+    changes.map((one) => one.path).filter(warranted),
     changingOf(given.root, changes)
   )
 }
@@ -86,14 +86,6 @@ export function offRepo(said: string): string {
   )
 }
 
-export function insideAkasha(path: string): boolean {
-  return path.startsWith(INSIDE)
-}
-
-export function outsideOf(changes: readonly FileEdit[]): readonly string[] {
-  return changes.map((one) => one.path).filter((one) => !insideAkasha(one))
-}
-
 export function barredIn(root: string, path: string): string | null {
   if (path === GIT_DIR || path.startsWith(`${GIT_DIR}${PARTED_BY}`)) {
     return (
@@ -108,14 +100,6 @@ export function barredIn(root: string, path: string): string | null {
     `${path} is a folder at the top of the repository — name what is inside it, so no one call ` +
     "takes a whole tree away by a slip of the keyboard"
   )
-}
-
-export function judgedByNothing(outside: readonly string[], dry: boolean): readonly string[] {
-  if (outside.length === 0) return []
-  return [
-    `no check judges a path outside \`${INSIDE}\`, so what these carry ` +
-      `${dry ? "would go" : "went"} unjudged — ${outside.join(", ")}`,
-  ]
 }
 
 export function valuesOf(
@@ -427,7 +411,7 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
 
   const dryRun = argv.includes(DRY_RUN)
   const draft = argv.includes(DRAFT)
-  const unjudged = outsideOf(changes)
+  const unjudged = outsideOf(changes.map((one) => one.path))
   const answer = landingAsked(given, {
     changes,
     message:

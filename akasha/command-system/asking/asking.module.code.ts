@@ -9,6 +9,12 @@ import { INSIDE } from "../change-freshness/change-freshness.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
+import {
+  judgedBy,
+  judgedOver,
+  passedOver,
+  reachedIn,
+} from "../judged-saying/judged-saying.module.code.ts"
 import type {
   Drafted,
   FileCarry,
@@ -211,24 +217,8 @@ export function counted(many: number, one: string): string {
   return `${many} ${one}${many === 1 ? "" : "s"}`
 }
 
-export function passedOver(checks: number, paths: number): string {
-  if (checks === 0) {
-    return `no check runs at this phase, so the ${counted(paths, "path")} asked for went unjudged`
-  }
-  return `${counted(checks, "check")} passed over the ${counted(paths, "path")} asked for`
-}
-
-export function judgedBy(checks: number, paths: number): string {
-  if (checks === 0) {
-    return `no check runs at this phase, so the ${counted(paths, "path")} asked for landed unjudged`
-  }
-  return `${counted(checks, "check")} judged the ${counted(paths, "path")} asked for, and none refused`
-}
-
-export function judgedOver(checks: number, paths: number): string {
-  const held = `${counted(paths, "path")} the patch would leave`
-  if (checks === 0) return `no check runs at this phase, so the ${held} went unjudged`
-  return `${counted(checks, "check")} judged the ${held}, and none refused`
+function pathsOf(changes: readonly FileEdit[]): readonly string[] {
+  return changes.map((one) => one.path)
 }
 
 export function committedLine(said: Landed): string {
@@ -248,7 +238,8 @@ function reportOf(
   const found = [...asked.saying(said)]
   found.push(...aside)
   if (bypass === null) {
-    found.push(judgedBy(checks, asked.changes.length))
+    const paths = pathsOf(asked.changes)
+    found.push(judgedBy(counted, checks, reachedIn(paths), paths.length))
   } else {
     found.push(bypass.said)
     if (broken !== null) {
@@ -283,6 +274,7 @@ function reported(
 }
 
 function reporting(root: string, asked: Asked, gate: Judging, aside: readonly string[]): Answer {
+  const paths = pathsOf(asked.changes)
   const change = changeOf(root, { base: baseOf(root), edits: asked.changes })
   const held = { said: gate.over(change), woke: gate.checksFor(change).length }
   if (held.said.length > 0) {
@@ -298,7 +290,7 @@ function reporting(root: string, asked: Asked, gate: Judging, aside: readonly st
   return {
     report: [
       ...aside,
-      passedOver(held.woke, asked.changes.length),
+      passedOver(counted, held.woke, reachedIn(paths), paths.length),
       `nothing was written — ${DRY_RUN}`,
     ],
     refusals: [],
@@ -345,7 +337,7 @@ function draftedSaid(
   return [
     ...aside,
     ...said.drafted.map((one) => `drafted ${one}`),
-    judgedOver(checks, said.judged.length),
+    judgedOver(counted, checks, reachedIn(said.judged), said.judged.length),
     ...said.clashed.map(
       (one) => `${one} carries a conflict — resolve it in the patch before the patch applies`
     ),
