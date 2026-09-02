@@ -102,7 +102,7 @@ export interface Lib {
   gamepadPanelsByKey?: Record<string, GamepadFilterPanel>
   show_log: boolean
   loggerName: string
-  logger?: LibDebugLoggerInstance
+  logger?: DebugLogger
 
   AddPinType: (
     this: Lib,
