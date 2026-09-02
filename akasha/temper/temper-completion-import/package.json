@@ -1,0 +1,15 @@
+{
+  "name": "@akasha/temper-completion-import",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./completion-input-schema": "./completion-input-schema/completion-input-schema.module.code.ts",
+    "./completion-saved-variables-parser": "./completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-completion": "workspace:*",
+    "@akasha/temper-saved-variables": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
