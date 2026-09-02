@@ -51,6 +51,7 @@ export const temperCharactersAddon = {
     "module/characters-skill-lines-merge",
     "module/characters-skill-points",
     "module/characters-tab-manager",
+    "module/characters-task-auto-complete",
     "module/characters-task-card-match",
     "module/characters-task-hud",
     "module/characters-task-hud-companion-quests",
