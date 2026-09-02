@@ -16,7 +16,7 @@ afterAll(scratch.sweep)
 
 const REPO = join(import.meta.dir, "..", "..", "..", "..")
 
-const REAL = "akasha/agents/models/model-tests/pages/restatement/restatement.model-test.ts"
+const REAL = "akasha/agents/models/tests/pages/restatement/restatement.model-test.ts"
 
 const PAGE = "akasha/one/held.model-test.ts"
 

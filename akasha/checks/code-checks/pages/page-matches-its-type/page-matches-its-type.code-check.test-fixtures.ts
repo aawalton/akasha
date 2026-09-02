@@ -413,8 +413,7 @@ export const NARROWED = `${DEMANDS}, { pagePropertySlug: "name", required: true,
 
 export const REPO = join(import.meta.dir, "..", "..", "..", "..", "..")
 
-export const RESTATEMENT =
-  "akasha/agents/models/model-tests/pages/restatement/restatement.model-test.ts"
+export const RESTATEMENT = "akasha/agents/models/tests/pages/restatement/restatement.model-test.ts"
 
 export const NO_ID = "keeps an entry of `cases` carrying no id, and every entry carries an id"
 
