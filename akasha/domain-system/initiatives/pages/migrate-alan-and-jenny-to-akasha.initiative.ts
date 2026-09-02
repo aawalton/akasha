@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "Measured under `strace` at 13:19: `readoutCatalog()` opens 15 `*.readout.md` and no `*.readout.ts`, and `resolveReadoutGroup` answers upkeep 6, inboxes 3, values 6, surplus 1, safety 1, every one out of markdown. The reach is `readout-catalog.ts:4-6`, which value-imports three `page/` modules, and `readout.page-type.md:6` declaring `files: akasha:**/*.readout.md`, so the table points at markdown by construction. Two callers sit outside: `ios-widget-swift.ts:93` and `surplus-fall/tick.ts:95`.",
+        "The bar is already off markdown: `group-stoplights.ts` reaches `stoplightsInGroup`, which asks the pages service and gets akasha's own 16 readouts, one a slug markdown never held. `readoutCatalog()` still opens 15 `*.readout.md`, feeding the iOS widgets and surplus-fall. What blocks the rest is modelling, not wiring: akasha holds no `claude-usage` group nor its 4 readouts, no query properties against markdown's 104, and no `sequence-slugs`. `9687ce6f2e` refuses where the two engines differ.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
