@@ -56,7 +56,6 @@
     "temper/game-characters-character-ui",
     "temper/game-characters-equipment-ui",
     "temper/game-characters-skills-morphs-addon",
-    "temper/game-combat-addon",
     "temper/game-companions-ui",
     "temper/game-completion",
     "temper/player-completion",

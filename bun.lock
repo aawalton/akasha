@@ -2806,18 +2806,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-combat-addon": {
-      "name": "@temper/game-combat-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-companions-ui": {
       "name": "@temper/game-companions-ui",
       "version": "0.1.0",
@@ -4383,8 +4371,6 @@
     "@temper/game-characters-equipment-ui": ["@temper/game-characters-equipment-ui@workspace:temper/game-characters-equipment-ui"],
 
     "@temper/game-characters-skills-morphs-addon": ["@temper/game-characters-skills-morphs-addon@workspace:temper/game-characters-skills-morphs-addon"],
-
-    "@temper/game-combat-addon": ["@temper/game-combat-addon@workspace:temper/game-combat-addon"],
 
     "@temper/game-companions-ui": ["@temper/game-companions-ui@workspace:temper/game-companions-ui"],
 
