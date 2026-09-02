@@ -43,6 +43,22 @@ export const bodyMerging = {
     },
     {
       invariantKind: "departure",
+      statement: "A line conflict answers with the body git marked as well as with why.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A conflict that is no line conflict answers with why alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The labels marking a conflict are spelled here rather than by a caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body carrying the label for what a change would leave is carrying a conflict.",
+    },
+    {
+      invariantKind: "departure",
       statement: "How many conflicts git found is said in the refusal.",
     },
     {
