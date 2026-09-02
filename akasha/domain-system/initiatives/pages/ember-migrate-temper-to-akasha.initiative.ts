@@ -12,14 +12,9 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "`akasha/temper` holds one file, the domain page. Outside it: the `temper/` workspace of 151 packages over 10,545 files, 99 page types under `pages/temper-*` over 6,464 files, of which 5,557 are pages and 252 are JSONL holding 164,071 entries, plus `tools/lib/temper-addon-data` and two watcher services. 12,252 files name temper repo-wide. No page type of the 99 is defined anywhere; its shape lives in md frontmatter and in whatever reads it, so each is worked out rather than carried across.",
+        "`akasha/temper` holds one file, the domain page. Outside it: the `temper/` workspace of 151 packages over 10,545 files, 99 page types under `pages/temper-*` over 6,464 files, of which 5,557 are pages and 252 are JSONL holding 164,071 entries, plus `tools/lib/temper-addon-data` and two watcher services. No page type of the 99 is defined anywhere; its shape lives in md frontmatter and in whatever reads it, so each is worked out rather than carried across. Nothing is recreated yet.",
     },
     { statement: "No part of temper is outside akasha." },
-    {
-      statement: "Every landing names its change kind.",
-      workingMemory:
-        "Only write and edit run the gate. `calling` reads the `mechanical` boolean off the command page and hands `mechanical` down, which sets NO_GATE. `seat-stating`, `subagent-presence` and the oauth pair in `tools/lib` land through `landedMechanically` in `asking`, the one caller a program lands through. Nothing outside akasha shells out to `akasha write` any more. What is left is the boolean itself, which a relation to a change kind replaces.",
-    },
   ],
   constraints: [
     "The entries work lands in pages-system rather than under temper.",

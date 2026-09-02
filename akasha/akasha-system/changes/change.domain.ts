@@ -20,5 +20,13 @@ export const change = {
       invariantKind: "departure",
       statement: "No service lands a body an agent composed.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every command's page names the kind of change that command lands.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "What is handed to a command that lands is its change kind rather than a boolean.",
+    },
   ],
 } as const satisfies Domain
