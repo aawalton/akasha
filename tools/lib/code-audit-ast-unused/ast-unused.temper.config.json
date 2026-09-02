@@ -71,15 +71,6 @@
         "src/**/*.ts"
       ]
     },
-    "temper/shared-build-deploy-checks": {
-      "entry": [
-        "src/check-*.ts",
-        "src/**/*.test.ts"
-      ],
-      "project": [
-        "src/**/*.ts"
-      ]
-    },
     "temper/web": {
       "entry": [
         "app/**/*.{ts,tsx}!",
