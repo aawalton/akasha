@@ -1,5 +1,5 @@
 import { getPageTypeByPluralSlug } from "@akasha/pages-access/page-type"
-import { PagesFilteredContent } from "@shared/pages-ui/components/pages-by-relation-content"
+import { PagesFilteredContent } from "@akasha/pages-ui-components/pages-by-relation-content"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"

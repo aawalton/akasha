@@ -1,5 +1,5 @@
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
+import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { getRequestServerClient } from "@akasha/supabase-rr/request-session-cache"
 import { data } from "react-router"

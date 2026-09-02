@@ -3,7 +3,7 @@
 import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
 import { resolveGalleryCardSize } from "@akasha/pages-core/view/gallery"
 import { PageCardRenderer } from "@akasha/pages-ui-components/page-card-renderer"
-import { PageSystemTabContent } from "@shared/pages-ui/components/page-system-view"
+import { PageSystemTabContent } from "@akasha/pages-ui-components/page-system-view"
 import { useReorderViewWiring } from "@akasha/pages-ui-components/use-reorder-view-wiring"
 import { type PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"

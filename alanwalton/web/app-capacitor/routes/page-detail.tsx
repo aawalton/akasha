@@ -2,7 +2,7 @@
 
 import { resolveDisplayKind } from "@akasha/pages-core/schema/detail-config"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
-import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
+import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { getPageDisplay } from "@akasha/pages-ui/capabilities/page-display-registry"
 import { useAllPages, usePageByIdSuffix } from "@akasha/pages-ui/supabase/hooks"
 import { useReaderNeighbors } from "@akasha/pages-ui/supabase/use-reader-neighbors"

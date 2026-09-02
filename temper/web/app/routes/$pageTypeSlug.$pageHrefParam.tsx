@@ -1,6 +1,6 @@
 import { getPageByIdSuffix, getPages } from "@akasha/pages-access/get"
 import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
-import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
+import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { getUser } from "@akasha/supabase-rr/auth-server"
