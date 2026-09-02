@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const threeLandedAddonsMakeNoLuaOnAMultireturnMisuse = {
+  id: "01a061c6-84f4-7cc6-822d-da49795ad2a6",
+  pageTypeSlug: "finding",
+  slug: "three-landed-addons-make-no-lua-on-a-multireturn-misuse",
+  domainSlug: "domain/temper",
+  claim:
+    "Thirteen of the sixteen addons that have landed in akasha compile to Lua. `LibAsync`, `LibDebugLogger` and `TemperErrors` do not, each on TS90002: a `LuaMultiReturn` read outside a destructuring assignment, where the source each was recreated from compiles clean. The recreation dropped the destructuring, so the second value is lost and the transpiler refuses.",
+  evidence:
+    "Measured 2026-09-02 at `aa8afbd442`, building each akasha package and its source folder with the same compiler and the same two plugins.\n\n`akasha/temper/temper-lib-async/async-scheduler/async-scheduler.module.code.ts` line 55, `akasha/temper/temper-lib-debug-logger/debug-logger-startup/debug-logger-startup.module.code.ts` line 278 and `akasha/temper/temper-errors-addon/errors-addon-hooks/errors-addon-hooks.module.code.ts` lines 35 and 50 each read `LuaMultiReturn<[false, string] | [true, unknown]>` as one value. That shape is what `pcall` answers. The transpiler says so as `LuaMultiReturn misuse: expression of type ... is used outside a destructuring assignment or return statement. In Lua, only the first value is captured.`\n\n`temper/shared-addon-libraries-lib-async`, `temper/shared-addon-libraries-lib-debug-logger` and `temper/shared-capture-errors-addon` all compile to Lua with no error, so this is drift the recreation introduced rather than a fault carried across.\n\nThe mend is to destructure the answer, as the message says, and to say what the second value is for. Until then those three source folders are the only buildable copy of those three addons, so the fourteen-library teardown cannot take `lib-async` or `lib-debug-logger`.\n\nThe other thirteen compare well against their source bundles. Normalising module keys and require aliases, then replacing every identifier with one letter, leaves `LibDataEncode` 9 lines apart, `LibMediaProvider` 12, `LibAlchemyStation` and `TemperTableFunctions` 14, `LibMapPing` 16 and `libAddonKeybinds` 17. Every one of those residual lines traces to a barrel module the recreation folded into an entry module or to a cast helper it added.",
+} as const satisfies Finding
