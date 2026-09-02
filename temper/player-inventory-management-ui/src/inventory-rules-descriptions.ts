@@ -4,8 +4,8 @@ import {
   ALL_CATEGORIES_NODE,
   type CategoryRule,
   type ItemRule,
-} from "@temper/game-items-rules-core/inventory-rule-types"
-import { getNodePath } from "@temper/game-items-rules-core/item-category-tree-utils"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { getNodePath } from "@akasha/temper-items-rules-core/item-category-tree-utils"
 import { getActionLabel } from "./action-options"
 
 function describeCategoryRule(rule: CategoryRule): string {
