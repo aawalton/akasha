@@ -1,4 +1,4 @@
-import type { Artist } from "../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.ts"
 
 export const arianaGrande = {
   id: "019ea4df-daa1-7e32-acb9-6cea0dfd1807",

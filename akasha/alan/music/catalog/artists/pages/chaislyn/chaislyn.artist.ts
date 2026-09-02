@@ -1,4 +1,4 @@
-import type { Artist } from "../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.ts"
 
 export const chaislyn = {
   id: "019ea4cf-6ea5-77cd-9d9f-e55bf47b85af",

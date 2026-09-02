@@ -1,4 +1,4 @@
-import type { Artist } from "../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.ts"
 
 export const imagineDragons = {
   id: "019ea496-69af-7f85-bcbc-21cde8492feb",

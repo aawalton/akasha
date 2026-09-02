@@ -1,4 +1,4 @@
-import type { Artist } from "../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.ts"
 
 export const emBeihold = {
   id: "019ea4de-c59b-742c-ad28-1df0d95fbb6b",

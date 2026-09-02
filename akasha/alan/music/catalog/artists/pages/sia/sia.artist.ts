@@ -1,4 +1,4 @@
-import type { Artist } from "../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.ts"
 
 export const sia = {
   id: "019ea4c1-b005-73a3-8bc3-079ae41ed5e9",

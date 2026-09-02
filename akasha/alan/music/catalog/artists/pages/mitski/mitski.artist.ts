@@ -1,4 +1,4 @@
-import type { Artist } from "../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.ts"
 
 export const mitski = {
   id: "019f0e9b-d5e2-7a33-ac50-7cc143ec870a",

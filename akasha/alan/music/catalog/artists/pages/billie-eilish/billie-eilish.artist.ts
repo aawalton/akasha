@@ -1,4 +1,4 @@
-import type { Artist } from "../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.ts"
 
 export const billieEilish = {
   id: "019ea4a8-0786-72ab-b9b7-201e500144e9",

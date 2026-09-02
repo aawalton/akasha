@@ -1,4 +1,4 @@
-import type { Artist } from "../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.ts"
 
 export const aurora = {
   id: "019ea4a2-bf94-7e76-9b55-055406f66eb9",
