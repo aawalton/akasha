@@ -3232,20 +3232,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/shared-interface-hud-addon": {
-      "name": "@temper/shared-interface-hud-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/design-tokens": "workspace:*",
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-hud-components": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/shared-interface-interface-addon": {
       "name": "@temper/shared-interface-interface-addon",
       "version": "0.1.0",
@@ -4520,8 +4506,6 @@
     "@temper/shared-build-deploy-tstl": ["@temper/shared-build-deploy-tstl@workspace:lua-compiler"],
 
     "@temper/shared-capture-datamining-addon": ["@temper/shared-capture-datamining-addon@workspace:temper/shared-capture-datamining-addon"],
-
-    "@temper/shared-interface-hud-addon": ["@temper/shared-interface-hud-addon@workspace:temper/shared-interface-hud-addon"],
 
     "@temper/shared-interface-interface-addon": ["@temper/shared-interface-interface-addon@workspace:temper/shared-interface-interface-addon"],
 
