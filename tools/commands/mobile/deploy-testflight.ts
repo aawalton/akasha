@@ -67,7 +67,7 @@ export const help: CommandHelp = {
     {
       code: 3,
       meaning:
-        "operational error: workstation www build / rsync, or ssh/archive/export/validate/upload against the macbook, failed. A classified signing failure (ASC_PERMISSION_DENIED | CONCURRENT_BUILD_MUTATION | SIGNING_KEYCHAIN_ERROR) or a classified App Store rejection (MISSING_PURPOSE_STRING | APP_STORE_VALIDATION_REJECTED, the latter carrying Apple's own error code and description) prints a typed, human-readable remediation naming the exact fix.",
+        "operational error: workstation www build / rsync, or ssh/archive/export/validate/upload against the macbook, failed. A classified signing failure (ASC_PERMISSION_DENIED | CONCURRENT_BUILD_MUTATION | SIGNING_KEYCHAIN_ERROR) or a classified App Store rejection (MISSING_PURPOSE_STRING | APP_STORE_VALIDATION_REJECTED, the latter carrying Apple's own error code and description) prints a typed, human-readable remediation naming the exact fix. ALSO: an upload that succeeded whose cut fingerprint would not file after four tries. The binary IS at Apple in that case and must not be cut again — the run prints the `ops mobile cut-record` call that files the fingerprint verbatim.",
     },
     {
       code: 4,

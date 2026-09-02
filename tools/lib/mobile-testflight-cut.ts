@@ -19,6 +19,60 @@ import {
 import type { CutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
 import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
 
+const FILING_TRIES = 4
+
+const FILING_BACKOFF_MS = [2_000, 5_000, 15_000] as const
+
+type Recorder = (appSlug: string, fp: CutFingerprint) => Promise<void>
+
+/** The `ops mobile cut-record` call that files this fingerprint verbatim. */
+export function cutRecordCall(appSlug: string, fp: CutFingerprint): string {
+  const said = [
+    "ops mobile cut-record",
+    `--app ${appSlug}`,
+    `--build-number ${fp.buildNumber}`,
+    `--main-sha ${fp.mainSha}`,
+    ...(fp.shellSha === null ? [] : [`--shell-sha ${fp.shellSha}`]),
+    ...(fp.buildInputTreeHash === null
+      ? []
+      : [`--build-input-tree-hash ${fp.buildInputTreeHash}`]),
+    `--cut-at ${fp.cutAt}`,
+  ]
+  return said.join(" ")
+}
+
+/**
+ * Files the fingerprint, retrying a filing that fails. Answers null once it is
+ * filed, and why the last try failed where every try failed. A commit racing
+ * the other agents sharing this worktree is the failure this retry is for.
+ */
+export async function fileFingerprint(
+  appSlug: string,
+  fp: CutFingerprint,
+  record: Recorder,
+  sleep: (ms: number) => Promise<void> = (ms) =>
+    new Promise((resolve) => setTimeout(resolve, ms))
+): Promise<string | null> {
+  let last = "nothing was tried"
+  for (let attempt = 0; attempt < FILING_TRIES; attempt += 1) {
+    try {
+      await record(appSlug, fp)
+      return null
+    } catch (err) {
+      last = err instanceof Error ? err.message : String(err)
+      const wait = FILING_BACKOFF_MS[attempt]
+      if (wait === undefined) break
+      process.stdout.write(
+        `⚠ the cut fingerprint for build ${fp.buildNumber} did not file (${last}); trying again in ${
+          wait / 1000
+        }s\n`
+      )
+      await sleep(wait)
+    }
+  }
+  return last
+}
+
 function elapsedSince(from: number): string {
   const seconds = Math.round((Date.now() - from) / 1000)
   if (seconds < 60) return `${seconds}s`
@@ -216,31 +270,38 @@ export async function runTestflightCut(opts: {
     `\n✓ ${configuration} build ${assignedBuildNumber} uploaded to App Store Connect / TestFlight\n`
   )
 
-  try {
-    const fingerprint: CutFingerprint = {
-      buildNumber: assignedBuildNumber,
-      mainSha,
-      shellSha: cutCommit,
-      buildInputTreeHash: computeBuildInputTreeHash(
-        buildInputSources(
-          app,
-          { root: codeRepoRoot, ref: mainSha },
-          { root: shellRoot, ref: cutCommit }
-        )
-      ),
-      cutAt: new Date().toISOString(),
-    }
-    await recordCutFingerprint(app.slug, fingerprint)
+  // The fingerprint is derived from the tree this cut was taken at, and nothing
+  // recomputes it afterwards: a filing lost here used to leave `cut-status`
+  // answering against an older build with no sign that it was doing so. Build
+  // 199's had to be reconstructed by hand. So the filing is retried, and a
+  // filing that still will not land ends the run non-zero with the values
+  // printed, which `ops mobile cut-record` takes verbatim.
+  const fingerprint: CutFingerprint = {
+    buildNumber: assignedBuildNumber,
+    mainSha,
+    shellSha: cutCommit,
+    buildInputTreeHash: computeBuildInputTreeHash(
+      buildInputSources(
+        app,
+        { root: codeRepoRoot, ref: mainSha },
+        { root: shellRoot, ref: cutCommit }
+      )
+    ),
+    cutAt: new Date().toISOString(),
+  }
+  const filed = await fileFingerprint(app.slug, fingerprint, recordCutFingerprint)
+  if (filed !== null) {
     process.stdout.write(
-      `✓ recorded cut fingerprint (build ${assignedBuildNumber}, main ${cutCommit.slice(0, 12)})\n`
+      `\n⚠ the upload SUCCEEDED and build ${assignedBuildNumber} is at Apple. Only its fingerprint went unfiled.\n`
     )
-  } catch (err) {
-    process.stdout.write(
-      `⚠ cut fingerprint NOT recorded (${
-        err instanceof Error ? err.message : String(err)
-      }); the upload still succeeded — \`ops mobile cut-status\` will read stale until re-recorded\n`
+    process.stdout.write(`  ${cutRecordCall(app.slug, fingerprint)}\n`)
+    throw operationalError(
+      `build ${assignedBuildNumber} uploaded, and its cut fingerprint was not filed after ${FILING_TRIES} tries, so \`ops mobile cut-status\` would answer against an older build without saying so: ${filed}. The upload is done — file the fingerprint with the \`ops mobile cut-record\` call printed above rather than cutting again.`
     )
   }
+  process.stdout.write(
+    `✓ recorded cut fingerprint (build ${assignedBuildNumber}, main ${cutCommit.slice(0, 12)})\n`
+  )
 
   if (wait) {
     if (appId === undefined) {
