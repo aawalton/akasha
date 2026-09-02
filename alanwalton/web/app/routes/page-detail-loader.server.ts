@@ -4,7 +4,7 @@ import { getPage, getPageByIdSuffix, getPageByIdSuffixAcrossTypes, getPages } fr
 import { getDescendantPageTypeSlugs } from "@akasha/pages-access/page-type"
 import { getMediaConfig, getSequenceConfig } from "@akasha/pages-access/page-type-config"
 import { resolveDisplayKind } from "@akasha/pages-core/schema/detail-config"
-import type { ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
+import type { ReaderNeighborLink } from "@akasha/pages-ui-components/reader-chrome"
 import type { MediaVariant } from "@shared/pages-ui/media/page-media-player"
 import { buildPageHref, parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"

@@ -2,7 +2,7 @@ import { Dialog, DialogBody, DialogContent, DialogTitle } from "@akasha/design-p
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
-import { DegradingImage } from "@akasha/pages-ui/components/degrading-image"
+import { DegradingImage } from "@akasha/pages-ui-components/degrading-image"
 import { useEffect, useSyncExternalStore } from "react"
 import { ErrorMessage } from "~/idle/components/error-message"
 import { BASE_IMAGE_ID } from "@akasha/idle-system/constants"

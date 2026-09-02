@@ -6,15 +6,15 @@ import { ResponsiveColumnsSkeleton } from "@akasha/design-layout/responsive-colu
 import { CollapsibleGroupSection } from "@akasha/design-patterns/collapsible-group-section"
 import { type useCollapsedGroups } from "@akasha/design-patterns/use-collapsed-groups"
 import type { Dispatch, SetStateAction } from "react"
-import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
+import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { PageBoard } from "./page-board"
 import { PageCalendar } from "./page-calendar"
 import { PageListSection } from "./page-list-section"
 import { PageViewEmpty, TimelineLayoutBody } from "./page-system-view-helpers"
-import type { PageSystemTabContentProps, ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
-import type { withColumnWidths } from "@akasha/pages-ui/components/page-table-widths"
-import type { useBoardViewWiring } from "@akasha/pages-ui/components/use-board-view-wiring"
-import type { useCalendarViewWiring } from "@akasha/pages-ui/components/use-calendar-view-wiring"
+import type { PageSystemTabContentProps, ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
+import type { withColumnWidths } from "@akasha/pages-ui-components/page-table-widths"
+import type { useBoardViewWiring } from "@akasha/pages-ui-components/use-board-view-wiring"
+import type { useCalendarViewWiring } from "@akasha/pages-ui-components/use-calendar-view-wiring"
 
 export interface PageSystemViewBodyProps
   extends Pick<

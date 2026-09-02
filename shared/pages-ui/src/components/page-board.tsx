@@ -16,9 +16,9 @@ import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
 import { Heading } from "@akasha/design-primitives/heading"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
-import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
-import { type BoardColumnRect, computeBoardDropColumn } from "@akasha/pages-ui/components/page-board-dnd-helpers"
-import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
+import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+import { type BoardColumnRect, computeBoardDropColumn } from "@akasha/pages-ui-components/page-board-dnd-helpers"
+import type { ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
 
 interface PageBoardProps {
   groups: readonly ServerGroupedSection[]

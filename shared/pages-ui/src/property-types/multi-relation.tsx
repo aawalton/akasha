@@ -9,7 +9,7 @@ import {
   type RelationValue,
   resolveRelationName,
   resolveRelationVariant,
-} from "@akasha/pages-ui/components/relation-display"
+} from "@akasha/pages-ui-components/relation-display"
 import { RelationPopover } from "../components/relation-popover"
 import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
 import type { PropertyDefinition } from "@akasha/pages-core/types"

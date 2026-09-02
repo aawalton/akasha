@@ -8,7 +8,7 @@ import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { cn } from "@akasha/design-primitives/cn"
 import { ImagePlus, Pencil, Trash2 } from "lucide-react"
 import { useState } from "react"
-import { DegradingImage } from "@akasha/pages-ui/components/degrading-image"
+import { DegradingImage } from "@akasha/pages-ui-components/degrading-image"
 
 interface PageCoverProps {
   coverUrl: string | null

@@ -5,8 +5,8 @@ import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { buildPageResolver } from "../view-engine/build-page-resolver.ts"
 import { getPageGroupDefinition } from "../view-engine/generate-group-definitions.ts"
-import { toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
-import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
+import { toPageDataRecord } from "@akasha/pages-ui-components/page-data-json"
+import type { ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
 
 interface GroupedSource {
   pages: readonly PageWithProperties[]

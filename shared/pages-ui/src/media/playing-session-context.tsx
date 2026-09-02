@@ -9,7 +9,7 @@ import {
 } from "react"
 import { createPortal } from "react-dom"
 import { useFetcher, useLocation, useNavigate } from "react-router"
-import { fractionToTime, POSITION_RESUME_MIN_FRACTION } from "@akasha/pages-ui/components/position-fraction"
+import { fractionToTime, POSITION_RESUME_MIN_FRACTION } from "@akasha/pages-ui-components/position-fraction"
 import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
 import { STORED_READ_ALOUD_VARIANT } from "@akasha/pages-ui/media/media-src"
 import type { NativeTtsAdapter } from "@akasha/pages-ui/media/native-tts-adapter"

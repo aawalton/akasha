@@ -8,13 +8,13 @@ import { useMemo } from "react"
 import { SupabasePageResolverProvider } from "../supabase/page-resolver-provider"
 import { type PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { type Subpage, useSubpages } from "@akasha/pages-ui/supabase/use-subpages"
-import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
-import { pageRowToPageDataJSON, toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
+import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+import { pageRowToPageDataJSON, toPageDataRecord } from "@akasha/pages-ui-components/page-data-json"
 import { ToggleSection } from "./page-detail-sections"
-import { buildTableColumns } from "@akasha/pages-ui/components/card-property-columns"
+import { buildTableColumns } from "@akasha/pages-ui-components/card-property-columns"
 import { PageTable, PageTableRowCells } from "./page-table"
-import { TITLE_COLUMN_ID } from "@akasha/pages-ui/components/page-table-shared"
-import { withColumnWidths } from "@akasha/pages-ui/components/page-table-widths"
+import { TITLE_COLUMN_ID } from "@akasha/pages-ui-components/page-table-shared"
+import { withColumnWidths } from "@akasha/pages-ui-components/page-table-widths"
 
 const SUBPAGE_VISIBLE_PROPERTIES: readonly string[] = [TITLE_COLUMN_ID]
 

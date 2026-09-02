@@ -14,7 +14,7 @@ import { SortableContext, useSortable } from "@dnd-kit/sortable"
 import { GripVertical } from "lucide-react"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { type DropZoneInfo, findDropZone } from "@akasha/pages-ui/components/drop-zones"
+import { type DropZoneInfo, findDropZone } from "@akasha/pages-ui-components/drop-zones"
 
 function SortablePropertyRow({
   id,

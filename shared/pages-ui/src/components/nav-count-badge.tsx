@@ -11,7 +11,7 @@ import { usePageViewQuery } from "../supabase/hooks-view-query"
 import { useOptionListLookup } from "../supabase/use-option-list-lookup"
 import { usePageTypeDirectory } from "../supabase/use-page-type-directory"
 import { viewDataOfPage } from "@akasha/pages-ui/supabase/view-data-of-page"
-import { shouldShowCountBadge } from "@akasha/pages-ui/components/nav-count-badge-decider"
+import { shouldShowCountBadge } from "@akasha/pages-ui-components/nav-count-badge-decider"
 
 const PAGE_TYPE_SLUG = "page-type"
 

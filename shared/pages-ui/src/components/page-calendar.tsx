@@ -17,8 +17,8 @@ import {
   useState,
 } from "react"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
-import { usePageCalendarState } from "@akasha/pages-ui/components/use-page-calendar-state"
+import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+import { usePageCalendarState } from "@akasha/pages-ui-components/use-page-calendar-state"
 
 interface PageCalendarProps {
   items: readonly PageRow[]

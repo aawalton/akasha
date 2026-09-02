@@ -12,7 +12,7 @@ import { generateGroupOptions } from "@akasha/pages-core/view/apply-grouping"
 import { type GroupOption, type GroupSortOption } from "@akasha/pages-core/view/apply-grouping-shared"
 import { generateGroupSortOptions, getDefaultGroupSorts } from "@akasha/pages-core/view/apply-grouping-sort"
 import { generateSortOptions, type SortOption } from "@akasha/pages-core/view/generate-sort-options"
-import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
+import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 
 export interface UsePageViewProps {
   pages: readonly PageRow[]

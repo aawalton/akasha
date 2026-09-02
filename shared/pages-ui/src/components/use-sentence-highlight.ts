@@ -4,7 +4,7 @@ import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
 import { type RefObject, useEffect } from "react"
 import { useOptionalPlayingSession } from "../media/playing-session-context"
 import { resolveActiveSentence } from "@akasha/pages-ui/media/resolve-active-sentence"
-import type { SentenceLayout } from "@akasha/pages-ui/components/reader-sentence-layout"
+import type { SentenceLayout } from "@akasha/pages-ui-components/reader-sentence-layout"
 
 export function useSentenceHighlight(args: {
   containerRef: RefObject<HTMLElement | null>

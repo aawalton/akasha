@@ -3,7 +3,7 @@
 import { buildViewPropertiesHref } from "@akasha/pages-url/page-display-mode"
 import type { ReactNode } from "react"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { PageActionsMenu } from "@akasha/pages-ui/components/page-actions-menu"
+import { PageActionsMenu } from "@akasha/pages-ui-components/page-actions-menu"
 
 export function ViewPageFrame({
   children,

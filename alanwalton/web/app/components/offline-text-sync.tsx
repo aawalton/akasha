@@ -3,7 +3,7 @@
 import { loadStoryCatalog } from "@collections/litrpg/nova/catalog"
 import { loadChapterForOffline, loadEagerCarveoutStoryIds, loadReadingActiveStoryIds, writeChapterCompletion, writeChapterPosition } from "@collections/litrpg/nova/offline-sync"
 import { selectReadAheadChapterIds, selectUnreadChapters } from "@collections/litrpg/nova/select-internals"
-import { POSITION_WRITE_EVENT, parsePositionWriteDetail } from "@akasha/pages-ui/components/position-write-event"
+import { POSITION_WRITE_EVENT, parsePositionWriteDetail } from "@akasha/pages-ui-components/position-write-event"
 import { getContentPersistence } from "@akasha/pages-ui-store/singleton"
 import { useEffect, useRef } from "react"
 import { isNativeShell } from "~/lib/capacitor-bridge"

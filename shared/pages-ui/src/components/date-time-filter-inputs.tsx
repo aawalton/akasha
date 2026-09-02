@@ -19,7 +19,7 @@ import {
   relativeToTodayToJson,
   sentinelDateToJson,
   sentinelInstantToJson,
-} from "@akasha/pages-ui/components/date-time-filter-inputs-parse"
+} from "@akasha/pages-ui-components/date-time-filter-inputs-parse"
 
 export function DateSentinelInput({
   value,

@@ -4,10 +4,10 @@ import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { ReactElement } from "react"
-import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
+import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { PageCard } from "./page-card"
 import { PageCardNotes } from "./page-card-notes"
-import { pageRowToPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
+import { pageRowToPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
 
 export interface BareListingCardContext {
   readonly properties: readonly PropertyDefinition[]

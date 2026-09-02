@@ -14,9 +14,9 @@ import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { useRecordPageView } from "@akasha/pages-ui/supabase/use-record-page-view"
 import { PageCollectionContent } from "./page-collection-content"
 import { PageDefaultContent } from "./page-default-content"
-import { PAGE_TYPE_SLUG, selectDetailBody } from "@akasha/pages-ui/components/page-detail-content-helpers"
+import { PAGE_TYPE_SLUG, selectDetailBody } from "@akasha/pages-ui-components/page-detail-content-helpers"
 import { PageReaderContent } from "./page-reader-content"
-import { type ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
+import { type ReaderNeighborLink } from "@akasha/pages-ui-components/reader-chrome"
 
 interface PageDetailContentProps {
   pageTypeSlug: PageTypeSlug

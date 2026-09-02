@@ -24,6 +24,7 @@
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
+    "@akasha/pages-ui-components": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/web-build-version": "workspace:*",

@@ -18,12 +18,12 @@ import { useOptionListLookup } from "../supabase/use-option-list-lookup.ts"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic.tsx"
 import { createOptionOnDefinition } from "./create-option.ts"
-import { toAggregateInputs, toPageDataJSON, toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
+import { toAggregateInputs, toPageDataJSON, toPageDataRecord } from "@akasha/pages-ui-components/page-data-json"
 import {
   DETAIL_EXCLUDED_IDS,
   extractPageTypeId,
   PAGE_TYPE_SLUG,
-} from "@akasha/pages-ui/components/page-detail-content-helpers"
+} from "@akasha/pages-ui-components/page-detail-content-helpers"
 
 export function usePageDefaultContent({
   pageTypeSlug,

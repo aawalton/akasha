@@ -5,7 +5,7 @@ import { useSortable } from "@dnd-kit/sortable"
 import { cn } from "@akasha/design-primitives/cn"
 import { GripVertical } from "lucide-react"
 import type { CSSProperties, HTMLAttributes } from "react"
-import type { PropertyVisibilityOption } from "@akasha/pages-ui/components/property-visibility-picker-helpers"
+import type { PropertyVisibilityOption } from "@akasha/pages-ui-components/property-visibility-picker-helpers"
 
 interface PropertyRowProps {
   option: PropertyVisibilityOption

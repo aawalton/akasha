@@ -27,7 +27,7 @@ import {
   sectionsToLists,
   splitShownSections,
   type VisibilitySectionArrays,
-} from "@akasha/pages-ui/components/property-visibility-picker-helpers"
+} from "@akasha/pages-ui-components/property-visibility-picker-helpers"
 import { PropertyRowGhost, SortablePropertyRow } from "./property-visibility-picker-rows"
 
 interface PropertyVisibilityPickerProps {

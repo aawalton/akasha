@@ -7,12 +7,12 @@ import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-
 import { SortButton } from "@akasha/design-patterns/sort-button"
 import type { Dispatch, SetStateAction } from "react"
 import type { ViewConfig, ViewFilter } from "@akasha/pages-core/schema/view-data"
-import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
+import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import type { UsePageViewResult } from "../view-engine/use-page-view"
 import { PagesFilterBar } from "./page-filter-bar"
 import { CreatePageButton } from "./page-system-view-helpers"
 import { ViewSettingsButton } from "./page-system-view-settings"
-import type { PageSystemTabContentProps } from "@akasha/pages-ui/components/page-system-tab-content-props"
+import type { PageSystemTabContentProps } from "@akasha/pages-ui-components/page-system-tab-content-props"
 
 export interface PageSystemViewHeaderProps
   extends Pick<

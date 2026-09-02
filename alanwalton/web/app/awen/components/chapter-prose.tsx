@@ -1,4 +1,4 @@
-import { READER_PROSE_TYPOGRAPHY } from "@akasha/pages-ui/components/reader-typography"
+import { READER_PROSE_TYPOGRAPHY } from "@akasha/pages-ui-components/reader-typography"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { ClientProseSegment } from "../lib/client-story-session"
 import { SystemCard, UnavailableSystemCard } from "./system-card"

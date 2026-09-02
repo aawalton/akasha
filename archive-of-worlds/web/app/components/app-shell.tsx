@@ -2,7 +2,7 @@ import { LayoutLinkProvider, type LayoutRouter, LayoutRouterProvider } from "@ak
 import { AppShell as SharedAppShell } from "@akasha/design-layout/app-shell"
 import { useSidebarState } from "@akasha/design-layout/use-sidebar-state"
 import { type AppNavConfig } from "@akasha/design-layout/nav-types"
-import { SortableNavs } from "@akasha/pages-ui/components/sortable-navs"
+import { SortableNavs } from "@akasha/pages-ui-components/sortable-navs"
 import { useAppNavItems } from "@shared/pages-ui/components/use-app-nav-items"
 import { PagesUILinkProvider, PagesUIRouterProvider } from "@akasha/pages-ui/navigation-context"
 import { LogIn, LogOut } from "lucide-react"

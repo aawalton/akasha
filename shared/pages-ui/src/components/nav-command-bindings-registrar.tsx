@@ -4,7 +4,7 @@ import type { AppNavItem } from "@akasha/design-layout/nav-types"
 import type { KeyBinding, KeyLayer } from "@akasha/design-primitives/keyboard-registry"
 import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
 import type { ReactNode } from "react"
-import { navItemsToCommandBindings } from "@akasha/pages-ui/components/nav-command-bindings"
+import { navItemsToCommandBindings } from "@akasha/pages-ui-components/nav-command-bindings"
 
 function RegisterKeyBinding({ binding }: { binding: KeyBinding }): null {
   useKeyboardBinding(binding)

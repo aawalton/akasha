@@ -29,7 +29,7 @@ import {
   LAYOUT_OPTIONS,
   type ViewSettingsButtonProps,
   type ViewSettingsView,
-} from "@akasha/pages-ui/components/view-settings-options"
+} from "@akasha/pages-ui-components/view-settings-options"
 import { PropertyVisibilityPicker } from "./property-visibility-picker"
 import { TimelinePicker } from "./timeline-picker"
 

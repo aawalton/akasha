@@ -1,5 +1,5 @@
-import { toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
-import { type PageRow } from "@akasha/pages-ui/view-engine/view-row"
+import { toPageDataRecord } from "@akasha/pages-ui-components/page-data-json"
+import { type PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import type { Catalog } from "~/idle/lib/catalog"
 import type { GameState } from "@akasha/idle-system/state"
 import { boostedRateMap } from "@akasha/idle-system/rate"

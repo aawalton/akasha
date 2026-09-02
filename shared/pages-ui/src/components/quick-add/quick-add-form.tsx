@@ -13,9 +13,9 @@ import { useMemo, useRef, useState } from "react"
 import { SelectPropertyBadge } from "../../property-types/select"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { computeQuickAddPayload } from "@akasha/pages-ui/components/quick-add/compute-quick-add-payload"
-import { parseInlineTokens } from "@akasha/pages-ui/components/quick-add/parse-inline-tokens"
-import { type InlineCompletionSource, useInlineCompletion } from "@akasha/pages-ui/components/quick-add/use-inline-completion"
+import { computeQuickAddPayload } from "@akasha/pages-ui-components/quick-add/compute-quick-add-payload"
+import { parseInlineTokens } from "@akasha/pages-ui-components/quick-add/parse-inline-tokens"
+import { type InlineCompletionSource, useInlineCompletion } from "@akasha/pages-ui-components/quick-add/use-inline-completion"
 
 export interface QuickAddFormProps {
   readonly formId: string

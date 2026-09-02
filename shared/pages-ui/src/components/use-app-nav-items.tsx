@@ -14,7 +14,7 @@ import { z } from "zod"
 import { useNavMutations } from "../supabase/use-nav-mutations"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
 import { NavCountBadge } from "./nav-count-badge"
-import { parseShowCountBadge } from "@akasha/pages-ui/components/nav-count-badge-decider"
+import { parseShowCountBadge } from "@akasha/pages-ui-components/nav-count-badge-decider"
 import { NavItemActions } from "./nav-item-actions"
 
 const NAV_SLUG = toPageTypeSlug("nav")

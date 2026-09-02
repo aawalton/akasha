@@ -6,8 +6,8 @@ import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { cn } from "@akasha/design-primitives/cn"
 import { Fragment } from "react"
 import { useSentenceNarration } from "../media/sentence-narration-context"
-import { type ProseBlock, splitInlineEmphasis } from "@akasha/pages-ui/components/reader-prose"
-import type { BlockSentenceLayout, SentenceRun } from "@akasha/pages-ui/components/reader-sentence-layout"
+import { type ProseBlock, splitInlineEmphasis } from "@akasha/pages-ui-components/reader-prose"
+import type { BlockSentenceLayout, SentenceRun } from "@akasha/pages-ui-components/reader-sentence-layout"
 
 const SENTENCE_SPAN_CLASS =
   "rounded-sm transition-colors duration-200 data-[sentence-active]:bg-primary/10"

@@ -3,20 +3,20 @@
 import { cn } from "@akasha/design-primitives/cn"
 import { useWindowVirtualizer } from "@tanstack/react-virtual"
 import { memo, type RefObject, useImperativeHandle, useMemo, useRef } from "react"
-import { clampFraction, fractionToScrollTop } from "@akasha/pages-ui/components/position-fraction"
+import { clampFraction, fractionToScrollTop } from "@akasha/pages-ui-components/position-fraction"
 import {
   blockPositionForFraction,
   buildProseCharTable,
   fractionForBlockPosition,
-} from "@akasha/pages-ui/components/reader-char-table"
+} from "@akasha/pages-ui-components/reader-char-table"
 import {
   estimateProseBlockHeight,
   type ProseBlock,
   parseProseBlocks,
   proseBlockSource,
-} from "@akasha/pages-ui/components/reader-prose"
+} from "@akasha/pages-ui-components/reader-prose"
 import { ProseBlockView } from "./reader-prose-block"
-import type { BlockSentenceLayout } from "@akasha/pages-ui/components/reader-sentence-layout"
+import type { BlockSentenceLayout } from "@akasha/pages-ui-components/reader-sentence-layout"
 
 export interface ReaderPositionAnchor {
   readonly fractionAt: (scrollTop: number) => number

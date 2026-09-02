@@ -15,19 +15,19 @@ import {
   SentenceNarrationProvider,
   type SentenceNarrationValue,
 } from "../media/sentence-narration-context"
-import { toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
+import { toPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
 import {
   decideReadRestore,
   decideRestoreReady,
   fractionToScrollTop,
   resolveResumeFraction,
-} from "@akasha/pages-ui/components/position-fraction"
+} from "@akasha/pages-ui-components/position-fraction"
 import { ReaderAudioBlock } from "./reader-audio-block"
-import { type ReaderNeighborLink, ReaderPager, ReadingProgressBar } from "@akasha/pages-ui/components/reader-chrome"
+import { type ReaderNeighborLink, ReaderPager, ReadingProgressBar } from "@akasha/pages-ui-components/reader-chrome"
 import { useReaderPageSource } from "./reader-page-source"
 import { ReaderProseBody, ReaderProseStatic } from "./reader-prose-body"
-import { layoutSentenceSpans } from "@akasha/pages-ui/components/reader-sentence-layout"
-import { READER_PROSE_TYPOGRAPHY } from "@akasha/pages-ui/components/reader-typography"
+import { layoutSentenceSpans } from "@akasha/pages-ui-components/reader-sentence-layout"
+import { READER_PROSE_TYPOGRAPHY } from "@akasha/pages-ui-components/reader-typography"
 import { useReadEndOnScroll } from "./use-read-end-on-scroll"
 import { useReaderProgressWriter } from "./use-reader-progress-writer"
 import { useRestoreReadPosition } from "./use-restore-read-position"

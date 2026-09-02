@@ -7,7 +7,7 @@ import { useMemo } from "react"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { isEmptyValue, PropertyBadge } from "../property-types/property-badge.tsx"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
-import { selectVisibleCardProperties } from "@akasha/pages-ui/components/card-property-columns"
+import { selectVisibleCardProperties } from "@akasha/pages-ui-components/card-property-columns"
 
 interface PageCardPropertiesProps {
   definitions?: readonly PropertyDefinition[]

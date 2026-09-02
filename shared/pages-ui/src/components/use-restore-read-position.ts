@@ -2,7 +2,7 @@
 
 import { reportError } from "@akasha/errors-client/error-reporting"
 import { type RefObject, useEffect, useRef, useState } from "react"
-import { decideReadRestore, fractionToScrollTop } from "@akasha/pages-ui/components/position-fraction"
+import { decideReadRestore, fractionToScrollTop } from "@akasha/pages-ui-components/position-fraction"
 
 const LAYOUT_MAX_FRAMES = 30
 

@@ -7,7 +7,7 @@ import { useAllPages } from "../supabase/hooks"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { getLocalPositionReader } from "@akasha/pages-ui/components/local-position-port"
+import { getLocalPositionReader } from "@akasha/pages-ui-components/local-position-port"
 import { PageDetailHeaderMenu } from "./page-detail-header-menu"
 
 function useDefaultReaderLocalPosition(pageId: string): {
