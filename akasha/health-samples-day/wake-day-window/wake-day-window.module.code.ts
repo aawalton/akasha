@@ -21,13 +21,13 @@ export interface SleepBlockInput {
   readonly endTime: unknown
 }
 
-export const DAY_PAGE_TYPE = "daily-tracking"
+export const DAY_PAGE_TYPE = "wake-day"
 
 export const SESSIONS_SLUG = "sessions"
 
 const ENTRY_EXTENSION = "jsonl"
 
-const DAY_SLUG_PREFIX = "day-"
+const DAY_SLUG_PREFIX = "wake-day-"
 
 const SLEEP = "sleep"
 

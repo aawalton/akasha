@@ -178,7 +178,7 @@ export const wakeDay = {
     },
     {
       invariantKind: "departure",
-      statement: "A day is slugged `day-` before the day it is of.",
+      statement: "A day is slugged `wake-day-` before the day it is of.",
     },
     {
       invariantKind: "departure",

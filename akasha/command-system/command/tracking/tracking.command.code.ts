@@ -10,7 +10,7 @@ import {
   writing,
 } from "../write/write.command.code.ts"
 
-export const TRACKED_AT = "akasha/alan/wake-day/daily-trackings/"
+export const TRACKED_AT = "akasha/alan/tracking/daily/wake-days/pages/"
 
 export const NO_GLASS = `${BREAK_GLASS} is no flag this takes: a body the checks refuse is a fault in the program that composed it`
 

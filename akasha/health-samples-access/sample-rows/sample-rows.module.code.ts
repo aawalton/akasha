@@ -1,6 +1,6 @@
 import type { HealthSampleRecord } from "../sample-shape/sample-shape.module.code.ts"
 
-export const ANCHOR_PAGE_TYPE = "eso-daily-tracking"
+export const ANCHOR_PAGE_TYPE = "eso-day"
 
 export const ROW_CEILING = 50000
 

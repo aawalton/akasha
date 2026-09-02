@@ -4,7 +4,7 @@ import { NO_GLASS, outsideTracked, strayIn, TRACKED_AT, tracking } from "./track
 
 const ROOT = "/nowhere"
 
-const AT = `${TRACKED_AT}day-2026-09-01.wake-day.ts`
+const AT = `${TRACKED_AT}2026-09-01/wake-day-2026-09-01.wake-day.ts`
 
 function givenIn(): Given {
   return { root: ROOT, calledAs: "akasha tracking", from: ROOT, writer: null, agentId: null }

@@ -1,6 +1,6 @@
 import type { LocationTraceInsert } from "../trace-shape/trace-shape.module.code.ts"
 
-export const ANCHOR_PAGE_TYPE = "eso-daily-tracking"
+export const ANCHOR_PAGE_TYPE = "eso-day"
 
 export const ROW_PAGE_TYPE = "location-trace"
 

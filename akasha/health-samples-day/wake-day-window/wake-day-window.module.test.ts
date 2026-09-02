@@ -16,8 +16,8 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 function dayFiled(root: string, day: string, rows: readonly unknown[] | null): undefined {
-  const at = `akasha/held/day-${day}/day-${day}.wake-day.ts`
-  listedFiled(root, "daily-tracking", `day-${day}`, [{ path: at, id: `id-${day}` }])
+  const at = `akasha/held/${day}/wake-day-${day}.wake-day.ts`
+  listedFiled(root, "wake-day", `wake-day-${day}`, [{ path: at, id: `id-${day}` }])
   mkdirSync(dirname(join(root, at)), { recursive: true })
   writeFileSync(join(root, at), "export const held = {}\n")
   const beside = at.replace(/\.ts$/, ".sessions.jsonl")
