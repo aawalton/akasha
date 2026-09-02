@@ -4,9 +4,9 @@
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-system": "workspace:*",
     "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-ui": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@shared/auth": "workspace:*",
-    "@shared/pages-ui": "workspace:*",
     "@temper/player-completion": "workspace:*",
     "lucide-react": "^0.576.0"
   },

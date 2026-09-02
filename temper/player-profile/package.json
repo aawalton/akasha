@@ -13,8 +13,9 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@shared/auth": "workspace:*",
     "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-ui": "workspace:*",
+    "@shared/auth": "workspace:*",
     "@shared/pages-ui": "workspace:*",
     "@temper/game-characters": "workspace:*"
   },

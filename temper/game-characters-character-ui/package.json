@@ -2,6 +2,7 @@
   "name": "@temper/game-characters-character-ui",
   "dependencies": {
     "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-ui": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
     "@shared/auth": "workspace:*",
     "@shared/pages-ui": "workspace:*",

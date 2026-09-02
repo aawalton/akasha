@@ -6,6 +6,7 @@
     "@akasha/design-primitives": "workspace:*",
     "@akasha/design-system": "workspace:*",
     "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-ui": "workspace:*",
     "@akasha/temper-build-support": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
