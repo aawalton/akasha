@@ -68,8 +68,6 @@ export const DAY_PAGE_TYPE = "daily-tracking"
  */
 export const AKASHA_DAY_PAGE_TYPE = "wake-day"
 
-export const SLUG_PREFIX = "day-"
-
 export const SESSIONS_SLUG = "sessions"
 
 export const COMPLETED_TASKS_SLUG = "completed-tasks"
@@ -130,8 +128,7 @@ export const DAY_FIELDS: readonly DayField[] = [
   /**
    * Text, not a number.
    *
-   * `tools/daily-tracking-fidelity/ledger.ts:36` declares this `declared-number-from-text`, so the
-   * checker takes either. It is carried across as the text it is for two reasons. A session row
+   * It is carried across as the text it is for two reasons. A session row
    * carries a key of this same name and rows move across untouched, so a number here would make one
    * property two types on one day. And `version` beside it is text that reads as a number and is
    * ruined by becoming one — all 102 day values and all 617 row values, measured 2026-09-01 — so

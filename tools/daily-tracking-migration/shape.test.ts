@@ -1,51 +1,40 @@
 import { describe, expect, test } from "bun:test"
 import { AKASHA, dayNameIn, dayOfName, MARKDOWN } from "../lib/tracking/day-place.ts"
-import { SLUG_PREFIX } from "./shape.ts"
 
 /**
- * The name the migration mints and the name every reader asks for are one name.
+ * A day's name goes out and comes back, and the two stores never spell one day alike.
  *
- * `SLUG_PREFIX` in shape.ts is what `convert.ts` builds a landed day's slug out of, and it is the
- * only thing that decides what Alan's days are called once they have moved. `dayNameIn` in
- * tools/lib/tracking/day-place.ts is what every reader spells a day with when it goes looking for
- * one. Neither file imports the other, and until this test nothing made them agree — they agreed
- * because two people typed the same four characters, which is not a reason.
+ * This began as a guard that the migration's own prefix agreed with the name every reader asks
+ * for. That prefix is gone: `convert.ts` was deleted once all 133 days had moved, and
+ * `SLUG_PREFIX` went with it, so there is no second speller left to disagree with. What the
+ * guard was for has been met by removing the thing it guarded against.
  *
- * A disagreement here says nothing when it happens. The migration would write days under one name
- * and every query would ask for another, and a query that asks for a name no page answers to comes
- * back empty rather than refusing: Alan's tiles would read zero on a day he tracked, and his points
- * would be summed from nothing. That is the whole reason this is worth a test rather than a
- * comment. The funnel audit cannot see it, because neither file both names a day page type and
- * reaches a store road, which is the join that audit is built on.
+ * What is still worth holding is the funnel's own arithmetic. `dayNameIn` spells a day for a
+ * store and `dayOfName` takes the day back out of the name. A break in that pair says nothing
+ * when it happens: a query for a name no page answers to comes back empty rather than refusing,
+ * so Alan's tiles would read zero on a day he tracked and his points would be summed from
+ * nothing. That silence is why this is a test rather than a comment.
  *
- * Days are sampled rather than taken from the corpus so that this states the rule instead of
- * measuring today's data, and so it keeps saying the same thing after the corpus has moved.
+ * Days are sampled rather than taken from the corpus, so this states the rule instead of
+ * measuring today's data, and keeps saying the same thing after the corpus has moved again.
  */
 const DAYS: readonly string[] = ["2026-01-01", "2026-03-05", "2026-08-31", "2026-12-31"]
 
-describe("the migration's slug and the funnel's day name", () => {
-  test("an akasha day is minted and spelled the same way", () => {
-    for (const day of DAYS) {
-      expect(`${SLUG_PREFIX}${day}`).toBe(dayNameIn(AKASHA, day))
-    }
-  })
-
-  test("a markdown day is named by its bare date, which is what convert.ts checks a source against", () => {
+describe("the funnel's day names", () => {
+  test("a markdown day is named by its bare date", () => {
     for (const day of DAYS) {
       expect(dayNameIn(MARKDOWN, day)).toBe(day)
     }
   })
 
-  test("the funnel takes back the day from the name the migration minted", () => {
+  test("the funnel takes back the day from the name it spelled", () => {
     for (const day of DAYS) {
-      expect(dayOfName(`${SLUG_PREFIX}${day}`)).toBe(day)
       expect(dayOfName(dayNameIn(AKASHA, day))).toBe(day)
       expect(dayOfName(dayNameIn(MARKDOWN, day))).toBe(day)
     }
   })
 
-  test("the prefix is something, so a day name is not its bare date on both sides at once", () => {
-    expect(SLUG_PREFIX).not.toBe("")
+  test("the two stores never spell one day alike", () => {
     for (const day of DAYS) {
       expect(dayNameIn(AKASHA, day)).not.toBe(dayNameIn(MARKDOWN, day))
     }
