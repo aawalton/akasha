@@ -6,6 +6,7 @@ export function buildPageRowTotals(p: AddonDataPages): Record<string, Rows> {
   return {
     "temper-activity-category": p.activityCategoryPages,
     "temper-affix-script": p.affixScriptPages,
+    "temper-antiquity-category": p.antiquityCategoryPages,
     "temper-alliance": p.alliancePages,
     "temper-armor-enchant": p.armorEnchantPages,
     "temper-armor-slot": p.armorSlotPages,

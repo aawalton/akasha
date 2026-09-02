@@ -23,6 +23,7 @@ export interface AddonDataPages {
   activityCategoryPages: PageResult
   catalogDomainPages: PageResult
   tributePatronPages: PageResult
+  antiquityCategoryPages: PageResult
   affixScriptPages: PageResult
   alliancePages: PageResult
   armorEnchantPages: PageResult
@@ -206,6 +207,7 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     potionCrownPages,
     catalogDomainPages,
     tributePatronPages,
+    antiquityCategoryPages,
   ] = await Promise.all([
     getPages({ pageTypeSlug: "temper-activity-category", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-affix-script", limit: 1000 }),
@@ -303,6 +305,7 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     getPages({ pageTypeSlug: "temper-potion-crown", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-catalog-domain", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-tribute-patron", limit: 1000 }),
+    getPages({ pageTypeSlug: "temper-antiquity-category", limit: 1000 }),
   ])
   const minedRestorePotions = await fetchMinedRestorePotions()
 
@@ -310,6 +313,7 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     activityCategoryPages,
     catalogDomainPages,
     tributePatronPages,
+    antiquityCategoryPages,
     affixScriptPages,
     alliancePages,
     armorEnchantPages,
