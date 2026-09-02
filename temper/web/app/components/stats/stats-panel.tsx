@@ -13,6 +13,7 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "@akasha/design-patterns/empty"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import { METRIC_TREE } from "@akasha/temper-characters-stats/metric-tree-data"
 import {
   isMetricNode,
@@ -21,7 +22,6 @@ import {
 } from "@akasha/temper-characters-stats/metric-tree-types"
 import { getMetricDisplayName } from "@akasha/temper-characters-stats/metrics"
 import { isNamedSource } from "@akasha/temper-formula-framework/effect-source"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { Search } from "lucide-react"
 import { useCallback, useState } from "react"
 import { PanelCardSkeleton } from "@/components/characters/loading/panel-card-skeleton"
