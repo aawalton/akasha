@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { readingKept } from "../../../readout-system/readout-reading/readout-reading.module.code.ts"
+import { scratchWorld } from "../../../../command-system/scratching/scratching.module.code.ts"
+import { readingKept } from "../../../../readout-system/readout-reading/readout-reading.module.code.ts"
 import { READOUT_PAGE, takeReading } from "./monarch-reading.module.code.ts"
 
 const TAKEN = new Date("2026-08-31T12:00:00.000Z")

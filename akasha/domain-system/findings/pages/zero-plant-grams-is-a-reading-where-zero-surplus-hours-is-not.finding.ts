@@ -4,7 +4,7 @@ export const zeroPlantGramsIsAReadingWhereZeroSurplusHoursIsNot = {
   id: "01a06221-d65f-7977-ac71-6d13572ef6b3",
   pageTypeSlug: "finding",
   slug: "zero-plant-grams-is-a-reading-where-zero-surplus-hours-is-not",
-  domainSlug: "domain/alan-plants",
+  domainSlug: "domain/plants",
   claim:
     "The two upkeep tiles treat a zero oppositely, and both are right. A surplus of zero is refused as no reading; plant grams of zero are kept as a reading. The rule is not the number but where the number came from and where the scale puts it.",
   evidence:

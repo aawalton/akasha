@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/module/module.page-type.ts"
 
 export const monarchReading = {
   id: "01a057fa-c464-7f2b-9f87-031b5dbedaa9",

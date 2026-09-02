@@ -1,9 +1,9 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "../../../domain-system/domain/domain.page-type.ts"
 
-export const alanCapacity = {
+export const capacity = {
   id: "01a06230-614e-7825-b4af-dd84fd42f0ce",
   pageTypeSlug: "domain",
-  slug: "alan-capacity",
+  slug: "capacity",
   definition: "how much stress capacity Alan's day has left him in hand",
   partSlugs: [
     "readout/upkeep-capacity",

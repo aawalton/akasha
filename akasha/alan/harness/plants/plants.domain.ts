@@ -1,9 +1,9 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "../../../domain-system/domain/domain.page-type.ts"
 
-export const alanPlants = {
+export const plants = {
   id: "01a06221-d65f-739e-9acb-74d67bbe92da",
   pageTypeSlug: "domain",
-  slug: "alan-plants",
+  slug: "plants",
   definition: "the whole plants Alan has eaten since he rose",
   partSlugs: [
     "readout/upkeep-plants",

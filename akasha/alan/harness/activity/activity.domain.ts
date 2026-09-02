@@ -1,9 +1,9 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "../../../domain-system/domain/domain.page-type.ts"
 
-export const alanActivity = {
+export const activity = {
   id: "01a06222-9828-776f-bc9a-0f3774308c14",
   pageTypeSlug: "domain",
-  slug: "alan-activity",
+  slug: "activity",
   definition: "how much Alan moved on a day",
   partSlugs: [
     "readout/upkeep-activity",

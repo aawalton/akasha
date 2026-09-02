@@ -4,7 +4,7 @@ export const theActivityFigureIsDerivedInMarkdownAndNowhereInAkasha = {
   id: "01a06239-4c11-7e5a-9b73-2a1f0c84d6b1",
   pageTypeSlug: "finding",
   slug: "the-activity-figure-is-derived-in-markdown-and-nowhere-in-akasha",
-  domainSlug: "domain/alan-activity",
+  domainSlug: "domain/activity",
   claim:
     "The Activity figure the old tile asked for is a derived property only the markdown pages hold. `activity-calories` is defined there as `({active-calories} ?? 0) + ({strength-calories} ?? 0)`, over `{strength-volume} / 7`, and akasha's `daily-tracking` declares neither derived key. A reader asking akasha for `activity-calories` is answered null on every row without a refusal, and the markdown derivation itself answers zero for a day that recorded neither half.",
   evidence:

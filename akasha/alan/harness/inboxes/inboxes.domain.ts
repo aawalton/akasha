@@ -1,9 +1,9 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "../../../domain-system/domain/domain.page-type.ts"
 
-export const alanInboxes = {
+export const inboxes = {
   id: "01a06230-b156-7347-be47-6f5960ced389",
   pageTypeSlug: "domain",
-  slug: "alan-inboxes",
+  slug: "inboxes",
   definition: "the inboxes Alan keeps at empty",
   partSlugs: [
     "readout/inboxes-email",

@@ -1,9 +1,9 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "../../../domain-system/domain/domain.page-type.ts"
 
-export const alanSleep = {
+export const sleep = {
   id: "01a06220-ef8c-735b-b8a1-1cb4507d71b0",
   pageTypeSlug: "domain",
-  slug: "alan-sleep",
+  slug: "sleep",
   definition: "the hours Alan logs sleeping across a day's stretches",
   partSlugs: [
     "readout/upkeep-sleep",

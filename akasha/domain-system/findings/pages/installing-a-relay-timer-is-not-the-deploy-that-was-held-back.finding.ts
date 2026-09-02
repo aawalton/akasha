@@ -4,7 +4,7 @@ export const installingARelayTimerIsNotTheDeployThatWasHeldBack = {
   id: "01a06234-3501-7469-93b4-2d31eaa7401c",
   pageTypeSlug: "finding",
   slug: "installing-a-relay-timer-is-not-the-deploy-that-was-held-back",
-  domainSlug: "domain/alan-capacity",
+  domainSlug: "domain/capacity",
   claim:
     "The lane that migrated upkeep capacity was told not to deploy and to report instead. Installing the two workstation timers is the nearest act to a deploy that the intent cannot be met without, because the relay posts Alan's capacity to two live origins. The call taken was to install both, on the reading that a systemd timer under Alan's own home is not the cluster deploy the instruction was about.",
   evidence:

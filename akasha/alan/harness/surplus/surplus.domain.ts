@@ -1,9 +1,9 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "../../../domain-system/domain/domain.page-type.ts"
 
-export const alanSurplus = {
+export const surplus = {
   id: "01a05fc3-145a-7fb1-9715-e7a44e378f74",
   pageTypeSlug: "domain",
-  slug: "alan-surplus",
+  slug: "surplus",
   definition: "how much of Alan's night the day has left him",
   partSlugs: [
     "readout/upkeep-surplus",

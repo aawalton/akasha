@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { takeReading } from "../akasha/alan/harness/monarch-reading/monarch-reading.module.code.ts"
+import { takeReading } from "../akasha/alan/harness/monarch/reading/monarch-reading.module.code.ts"
 
 const ROOT = `${import.meta.dir}/..`
 
