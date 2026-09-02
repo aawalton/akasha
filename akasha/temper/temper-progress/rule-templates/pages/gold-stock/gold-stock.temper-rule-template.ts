@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../temper-rule-template.page-type.ts"
+import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const goldStock = {
   id: "01a05fd0-4de0-7543-a739-4a1cc29271f7",
