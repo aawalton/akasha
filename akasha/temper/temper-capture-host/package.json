@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/temper-capture-host",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./assert-schema-matches-payload": "./assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}

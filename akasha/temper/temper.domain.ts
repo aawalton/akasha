@@ -46,6 +46,7 @@ export const temper = {
     "workspace-package/temper-formula-framework",
     "workspace-package/temper-saved-vars-migration",
     "workspace-package/temper-addon-generators",
+    "workspace-package/temper-capture-host",
   ],
   invariants: [
     {
