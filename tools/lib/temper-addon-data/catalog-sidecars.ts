@@ -192,6 +192,50 @@ const CARRIED: Readonly<Record<string, readonly Carry[]>> = {
   ],
 }
 
+/**
+ * One list of ids a generator reads, named as the generator names it.
+ *
+ * `from` is what the page states and `key` is what the generator asks for.
+ */
+interface Projection {
+  readonly from: string
+  readonly key: string
+}
+
+/**
+ * The id lists a generator reads, where the page states the same ids under another name or shape.
+ *
+ * A grimoire page states its focus scripts as a list of ids and its affix and signature scripts as
+ * rows carrying a description each, while the generator reads all three as arrays of ids. So one is
+ * a rename and two are projections onto the id each row states.
+ *
+ * A projection keeps the order the rows stand in, and for the affix and signature scripts that row
+ * order is the only place a grimoire's authored order is kept. Sorting either one here would emit a
+ * list holding every id in a sequence nothing authored.
+ */
+const PROJECTED: Readonly<Record<string, readonly Projection[]>> = {
+  "temper-grimoire": [
+    { from: "focusScripts", key: "compatibleFocusScripts" },
+    { from: "signatureScripts", key: "compatibleSignatureScripts" },
+    { from: "affixScripts", key: "compatibleAffixScripts" },
+  ],
+}
+
+function idsIn(value: unknown): readonly string[] {
+  if (!Array.isArray(value)) return []
+  const out: string[] = []
+  for (const one of value) {
+    if (typeof one === "string") {
+      out.push(one)
+      continue
+    }
+    if (typeof one !== "object" || one === null) continue
+    const scriptId = textOf(eitherOf(one as Values, SCRIPT_ID))
+    if (scriptId !== null) out.push(scriptId)
+  }
+  return out
+}
+
 const EMPTY: Readonly<Record<Shape, unknown>> = {
   effects: [],
   "effect-rows": [],
@@ -222,10 +266,14 @@ function entriesIn(value: unknown): readonly Values[] | null {
  * that had no list, so a carry has to choose.
  */
 export function withSidecars(pageTypeSlug: string, rows: readonly Page[]): readonly Page[] {
-  const carries = CARRIED[pageTypeSlug]
-  if (carries === undefined) return rows
+  const carries = CARRIED[pageTypeSlug] ?? []
+  const projections = PROJECTED[pageTypeSlug] ?? []
+  if (carries.length === 0 && projections.length === 0) return rows
   return rows.map((row) => {
     const out: Record<string, unknown> = { ...row }
+    for (const projection of projections) {
+      out[projection.key] = idsIn(row[projection.from])
+    }
     for (const carry of carries) {
       const held = entriesIn(row[carry.key])
       if (held !== null) out[carry.key] = shaped(carry.shape, held)
