@@ -46,6 +46,7 @@ export const codeCheck = {
     "code-check/no-class",
     "code-check/no-code-comments",
     "code-check/no-enum-or-namespace",
+    "code-check/no-global-in-a-module",
     "code-check/no-import-cycle",
     "code-check/no-index-path-spelled",
     "code-check/no-method-signature",
