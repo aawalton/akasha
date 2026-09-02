@@ -6,6 +6,7 @@ export const completionOverrideRow = {
   slug: "completion-override-row",
   definition: "reading one stored override off an untyped row",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",
