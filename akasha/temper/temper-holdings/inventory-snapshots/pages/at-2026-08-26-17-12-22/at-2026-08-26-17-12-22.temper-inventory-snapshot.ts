@@ -9,4 +9,5 @@ export const at20260826171222 = {
   capturedAt: "2026-08-26T17:12:22.000Z",
   totalValue: 510911825.49999964,
   chunkCount: 3,
+  stacks: "jsonl",
 } as const satisfies TemperInventorySnapshot
