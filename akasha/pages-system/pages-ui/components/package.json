@@ -97,6 +97,7 @@
     "./text-property-badge": "./text-property-badge/text-property-badge.module.code.tsx",
     "./timeline-picker": "./timeline-picker/timeline-picker.module.code.tsx",
     "./url-property-badge": "./url-property-badge/url-property-badge.module.code.tsx",
+    "./use-app-nav-items": "./use-app-nav-items/use-app-nav-items.module.code.tsx",
     "./use-chrome-toggle": "./use-chrome-toggle/use-chrome-toggle.module.code.ts",
     "./use-descendant-pages": "./use-descendant-pages/use-descendant-pages.module.code.ts",
     "./use-effective-listing": "./use-effective-listing/use-effective-listing.module.code.ts",

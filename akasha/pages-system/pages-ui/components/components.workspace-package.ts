@@ -132,6 +132,7 @@ export const components = {
     "module/timeline-picker",
     "module/url-property-badge",
     "module/use-active-quick-add-page-type",
+    "module/use-app-nav-items",
     "module/use-board-view-wiring",
     "module/use-calendar-view-wiring",
     "module/use-chrome-toggle",

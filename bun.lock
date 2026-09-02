@@ -2748,6 +2748,7 @@
       "name": "readouts",
       "dependencies": {
         "@akasha/day": "workspace:*",
+        "@akasha/indexes": "workspace:*",
         "@akasha/readout-system": "workspace:*",
       },
       "devDependencies": {
