@@ -36,7 +36,6 @@ export const DEFAULT_ADAPTERS: readonly FrameworkAdapter[] = [
   { name: "next-manifest", pattern: "**/app/**/manifest.{ts,js}", role: "entry" },
   { name: "next-build-output", pattern: "**/.next/**", role: "ignore" },
   { name: "test-fixtures", pattern: "**/__fixtures__/**", role: "ignore" },
-  { name: "workflow-file", pattern: "**/*.workflow.ts", role: "entry" },
   { name: "tunnel-routes", pattern: "**/tunnel-routes.ts", role: "entry" },
   { name: "cdk8s-synth", pattern: "**/synth.ts", role: "entry" },
   { name: "next-config", pattern: "**/next.config.{ts,mjs,js}", role: "entry" },

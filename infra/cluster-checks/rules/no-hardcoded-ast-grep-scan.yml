@@ -11,8 +11,8 @@ message: |
   every spelling but one: the rule required a template-string node inside `check-configs*.ts`, so a
   double-quoted or single-quoted command slipped through on the node kind, a backtick command in any
   other file slipped through on the glob, and the binary-and-argv form was invisible altogether. A
-  check config can be written anywhere a `CheckConfig` is — `checks.workflow.ts` and
-  `packages/alanwalton/daily-tracking/` both hold one — so the reach is every TypeScript source in
+  check config can be written anywhere a `CheckConfig` is — `tools/lib/check-workflow/addon-build-co-dep.ts`
+  holds one outside `check-configs*.ts` — so the reach is every TypeScript source in
   the tree, and the three arms are the three ways a scan gets launched: a command string under a
   `commands:` key in any quoting; a process spawn handed a shell string that runs the scan; and a
   process spawn handed `ast-grep` and a `scan` subcommand as separate arguments.

@@ -147,7 +147,6 @@ export const ADAPTER_PATTERNS: readonly string[] = [
   "**/app/**/sitemap.{ts,js}",
   "**/app/**/robots.{ts,js}",
   "**/app/**/manifest.{ts,js}",
-  "**/*.workflow.ts",
   "**/tunnel-routes.ts",
   "**/synth.ts",
   "**/next.config.{ts,mjs,js}",

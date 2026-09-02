@@ -48,8 +48,6 @@
     "vite.config.ts",
     "react-router.config.ts",
     "*.cluster-service.code.attachment.ts",
-    "foundation.workflow.ts",
-    "apps.workflow.ts",
     "tunnel-routes.ts",
     "scripts/**/*.ts"
   ],

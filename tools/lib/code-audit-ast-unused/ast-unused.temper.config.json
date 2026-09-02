@@ -238,7 +238,6 @@
       "entry": [
         "app/**/*.{ts,tsx}!",
         "**/*.test.ts",
-        "*.workflow.ts",
         "tunnel-routes.ts",
         "react-router.config.ts",
         "vite.config.ts",

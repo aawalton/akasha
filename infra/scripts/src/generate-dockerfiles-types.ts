@@ -42,7 +42,6 @@ export interface DockerfileExtensions {
   no_build_step?: boolean
   no_tsconfig_base?: boolean
   output_filename?: string
-  discover_workflow_files?: boolean
   run_as_user?: string
   external_donors?: readonly { readonly name: string; readonly image: string }[]
 }
@@ -121,7 +120,6 @@ export function parseDockerfileExtensions(value: unknown): DockerfileExtensions 
     no_build_step: asBooleanOrUndefined(value.no_build_step),
     no_tsconfig_base: asBooleanOrUndefined(value.no_tsconfig_base),
     output_filename: asStringOrUndefined(value.output_filename),
-    discover_workflow_files: asBooleanOrUndefined(value.discover_workflow_files),
     run_as_user: asStringOrUndefined(value.run_as_user),
     external_donors: asExternalDonorsOrUndefined(value.external_donors),
   }

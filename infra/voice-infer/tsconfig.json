@@ -13,8 +13,7 @@
     ]
   },
   "include": [
-    "k8s/**/*.ts",
-    "foundation.workflow.ts"
+    "k8s/**/*.ts"
   ],
   "exclude": [
     "node_modules",

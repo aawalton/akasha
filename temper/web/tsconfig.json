@@ -129,8 +129,6 @@
     "vite.config.ts",
     "react-router.config.ts",
     "tunnel-routes.ts",
-    "foundation.workflow.ts",
-    "apps.workflow.ts",
     "deploy/addon-bundle-image.ts",
     "temper-web.cluster-service.code.attachment.ts"
   ],

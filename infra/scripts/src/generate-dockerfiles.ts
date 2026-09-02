@@ -5,7 +5,7 @@ import { join } from "node:path"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { generateBunServiceDockerfile } from "./generate-dockerfiles-bun"
-import { buildPackageNameMap, discoverWorkflowFiles, readJson } from "./generate-dockerfiles-deps"
+import { buildPackageNameMap, readJson } from "./generate-dockerfiles-deps"
 import { generateNextjsDockerfile } from "./generate-dockerfiles-nextjs"
 import { ROOT, SERVICES } from "./generate-dockerfiles-registry"
 import { generateToolImageDockerfile, getOutputPath } from "./generate-dockerfiles-tool"
@@ -84,11 +84,6 @@ for (const [name, config] of servicesToGenerate) {
   const ext: DockerfileExtensions = existsSync(extPath)
     ? parseDockerfileExtensions(readJson(extPath))
     : {}
-
-  if (ext.discover_workflow_files) {
-    const discovered = discoverWorkflowFiles(config.dir)
-    ext.extra_source_copies = [...(ext.extra_source_copies ?? []), ...discovered]
-  }
 
   const generated = generateDockerfile(name, config, nameMap, ext, allWorkspaceDirs)
   const outPath = getOutputPath(ROOT, config, ext)

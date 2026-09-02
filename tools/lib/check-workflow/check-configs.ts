@@ -153,7 +153,6 @@ export const STATIC_CHECKS: CheckConfig[] = [
     name: "test-step-paths",
     dispatchNodeTypes: [...TS_POPULATION, ...PACKAGE_POPULATION],
     dispatchNodes: [
-      "ts-file:code:infra/cluster-checks/src/checks.workflow.ts",
       "ts-file:instructions:infra/cluster-checks/src/checks/check-test-step-paths.ts",
       "ts-file:instructions:tools/lib/check-workflow/test-step-paths.ts",
       "ts-file:instructions:tools/lib/check-workflow/test-step-loader.ts",

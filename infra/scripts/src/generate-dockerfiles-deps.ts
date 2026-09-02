@@ -2,7 +2,6 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
-import { Glob } from "bun"
 import { z } from "zod"
 import { ROOT } from "./generate-dockerfiles-registry"
 
@@ -39,17 +38,6 @@ function asStringArrayRecord(value: unknown): Record<string, readonly string[]> 
     out[k] = asStringArray(v)
   }
   return out
-}
-
-export function discoverWorkflowFiles(excludeDir: string): readonly string[] {
-  const glob = new Glob("**/*.workflow.ts")
-  const results: string[] = []
-  for (const match of glob.scanSync({ cwd: ROOT, dot: false })) {
-    if (match.includes("node_modules/")) continue
-    if (match.startsWith(excludeDir + "/")) continue
-    results.push(match)
-  }
-  return results.sort()
 }
 
 export function buildPackageNameMap(): Map<string, string> {

@@ -11,7 +11,6 @@ import { organizeImports } from "./organize-imports"
 import { rewritePackageJsons } from "./package-json-rewrites"
 import { rewriteTsconfigs } from "./tsconfig-rewrites"
 import type { WorkspaceMove } from "./types"
-import { rewriteWorkflowPaths } from "./workflow-paths"
 
 export interface RunPackageMoveInput {
   readonly move: WorkspaceMove
@@ -61,16 +60,13 @@ export async function runPackageMove(input: RunPackageMoveInput): Promise<void> 
   log.info("\n[7/11] Config file rewrites")
   rewriteConfigs(root, move, log)
 
-  log.info("\n[8/11] Workflow path rewrites")
-  rewriteWorkflowPaths(root, move, log)
-
-  log.info("\n[9/11] Docs rewrites")
+  log.info("\n[8/10] Docs rewrites")
   rewriteDocs(root, move, log)
 
-  log.info("\n[10/11] Cleanup (tsbuildinfo, stale dist/)")
+  log.info("\n[9/10] Cleanup (tsbuildinfo, stale dist/)")
   cleanupArtifacts(root, log)
 
-  log.info("\n[11/11] Regenerate lockfile (bun install)")
+  log.info("\n[10/10] Regenerate lockfile (bun install)")
   regenerateLockfile(root, log)
 
   log.info("\n[done] package move applied")

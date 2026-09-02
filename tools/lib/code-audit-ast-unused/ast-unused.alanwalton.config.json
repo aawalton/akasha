@@ -7,7 +7,6 @@
         "react-router.config.ts",
         "vite.config.ts",
         "server.ts",
-        "*.workflow.ts",
         "deploy/k8s/**/*.ts",
         "scripts/**/*.script.ts",
         "scripts/**/*.test.ts"
@@ -46,8 +45,7 @@
         "app-capacitor/**/*.{ts,tsx}!",
         "tunnel-routes.ts",
         "react-router.config.ts",
-        "vite.config.ts",
-        "*.workflow.ts"
+        "vite.config.ts"
       ],
       "project": [
         "**/*.{ts,tsx}"

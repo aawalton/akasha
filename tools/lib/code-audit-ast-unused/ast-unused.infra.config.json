@@ -3,7 +3,6 @@
     "infra/auth-proxy": {
       "entry": [
         "**/*.test.{ts,tsx}",
-        "*.workflow.ts",
         "src/server.ts"
       ],
       "project": [
@@ -13,7 +12,6 @@
     "infra/ci-workflows": {
       "entry": [
         "**/*.test.{ts,tsx}",
-        "*.workflow.ts",
         "generate-rbac.ts",
         "rbac-*.ts",
         "src/generate-escalate-rbac.ts",
@@ -42,7 +40,6 @@
     "infra/git-transport": {
       "entry": [
         "**/*.test.{ts,tsx}",
-        "*.workflow.ts",
         "src/server.ts"
       ],
       "project": [
@@ -69,9 +66,7 @@
       ]
     },
     "infra/loki-service": {
-      "entry": [
-        "foundation.workflow.ts"
-      ],
+      "entry": [],
       "project": [
         "**/*.ts"
       ]
@@ -91,7 +86,6 @@
     },
     "infra/seaweedfs": {
       "entry": [
-        "foundation.workflow.ts",
         "src/tunnel-routes.ts"
       ],
       "project": [

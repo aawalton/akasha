@@ -5,8 +5,7 @@
         "app/**/*.{ts,tsx}",
         "tunnel-routes.ts",
         "react-router.config.ts",
-        "vite.config.ts",
-        "*.workflow.ts"
+        "vite.config.ts"
       ],
       "project": [
         "**/*.{ts,tsx}"
