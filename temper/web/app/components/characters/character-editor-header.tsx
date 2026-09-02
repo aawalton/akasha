@@ -1,13 +1,13 @@
 "use client"
 
-import { LayoutLink as Link } from "@akasha/design-layout/router-context"
 import { Badge } from "@akasha/design-badges/badge"
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
-import { Button } from "@akasha/design-primitives/button"
 import { PAGE_TITLE_CLASSES } from "@akasha/design-layout/page-layout-data"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { LayoutLink as Link } from "@akasha/design-layout/router-context"
+import { Button } from "@akasha/design-primitives/button"
 import { cn } from "@akasha/design-primitives/cn"
-import type { CharacterVisibility } from "@temper/game-characters-character/build-types"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import type { CharacterVisibility } from "@akasha/temper-character-build/build-types"
 import { ChevronLeft, Copy, Eye, Search, Target } from "lucide-react"
 import { BuildActionButtons } from "@/components/ui/build-action-buttons"
 
