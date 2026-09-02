@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's four panels each show what akasha holds.",
       workingMemory:
-        "Agents, Domains, Work and Pages are the four views. All four showed nothing: all four reach `seat/observation-store.ts` and two reach `seat/turn-color.ts`, which pulled the command gate into a node host and threw as it loaded. Each has a bun child now. Domains and Work already read akasha through `panel-domains` and `work-initiatives`. Pages still asks `readouts/ask-here.ts`, so it is the one live reader of the old query engine and moves with that intent.",
+        "All four draw: Agents 80 rows, Domains 6831, Work 13, Pages 427, proved by `tools/extension-panels-draw.ts` under node against a stub editor, each seeded and shown empty before it was believed. One long-lived bun child per window replaced a process per reach: 0.648 cores down to 0.029, 275 answers byte-identical. What is left is turn color read from markdown frontmatter, the markdown write side pulled in on every refresh, and 344 page types the Pages panel puts under no root.",
     },
     {
       statement: "Nothing reads a readout through the markdown engine.",
