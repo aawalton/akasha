@@ -58,6 +58,7 @@ export const temperWatcher = {
     "module/watcher-export-companion-builds",
     "module/watcher-export-settings",
     "module/watcher-export-tasks",
+    "module/watcher-updating",
     "workstation-service/temper-watcher",
     "workstation-service/temper-watcher-liveness",
   ],

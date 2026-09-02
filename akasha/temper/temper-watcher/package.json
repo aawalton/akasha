@@ -53,7 +53,8 @@
     "./watcher-import-tasks": "./watcher-import-tasks/watcher-import-tasks.module.code.ts",
     "./watcher-export-companion-builds": "./watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts",
     "./watcher-export-settings": "./watcher-export-settings/watcher-export-settings.module.code.ts",
-    "./watcher-export-tasks": "./watcher-export-tasks/watcher-export-tasks.module.code.ts"
+    "./watcher-export-tasks": "./watcher-export-tasks/watcher-export-tasks.module.code.ts",
+    "./watcher-updating": "./watcher-updating/watcher-updating.module.code.ts"
   },
   "dependencies": {
     "@akasha/day": "workspace:*",
