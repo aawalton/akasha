@@ -1,11 +1,6 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
-
-const DATA = 2
+import { withoutTheRuleStore } from "../code-outside-akasha/code-outside-akasha.module.code.ts"
 
 export function temperInventoryRuleDuplicate(): Answer {
-  return refused(
-    "the inventory rules code is not in akasha yet, so nothing here reads or writes a rule",
-    DATA
-  )
+  return withoutTheRuleStore("temper-inventory-rule-duplicate")
 }
