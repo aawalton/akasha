@@ -12,7 +12,7 @@ import type { CharacterState } from "@temper/game-characters-character/build-typ
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { classes } from "@akasha/temper-classes/character-class"
 import { type RaceId, races } from "@akasha/temper-races/races"
-import { characterUrl } from "@temper/shared-engine/utils/slug"
+import { characterUrl } from "@akasha/temper-build-support/build-url"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import { FolderOpen } from "lucide-react"
 import { NewCharacterButton } from "@/components/characters/new-character-button"

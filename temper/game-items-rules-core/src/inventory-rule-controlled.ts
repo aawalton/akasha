@@ -1,4 +1,4 @@
-import type { AutomationSettings } from "@temper/shared-engine/automation/automation-settings-types"
+import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import type { CategoryRule, InventoryRuleSettings } from "./inventory-rule-types"
 
 const CONTROLLED_CHARACTER_LOCK_WORN = "controlled:character:lock-worn"

@@ -8,7 +8,7 @@ import { extractCharacterMetadata } from "@temper/game-characters/build-metadata
 import { createNewCharacter } from "@temper/game-characters-character/build-factory"
 import { useCharacterLifecycle } from "@temper/game-characters-character-ui/use-characters"
 import { encodeBuild } from "@temper/game-codec/character/build-codec"
-import { characterUrl } from "@temper/shared-engine/utils/slug"
+import { characterUrl } from "@akasha/temper-build-support/build-url"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import { Plus } from "lucide-react"
 import { useState } from "react"

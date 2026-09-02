@@ -21,9 +21,6 @@
     },
     {
       "path": "../game-items-core"
-    },
-    {
-      "path": "../shared-engine"
     }
   ],
   "include": [

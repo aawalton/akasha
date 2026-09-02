@@ -30,7 +30,7 @@ import {
   armorTraits as armorTraitsData,
 } from "@temper/game-characters-equipment/traits/armor-traits-data"
 import { AVAILABLE_QUALITY_OPTIONS, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
-import { groupByCount } from "@temper/shared-engine/utils"
+import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import { useMemo } from "react"
 import type { ArmorUpdateParams } from "@/components/equipment/armor-card"
 import { ArmorCard } from "@/components/equipment/armor-card"

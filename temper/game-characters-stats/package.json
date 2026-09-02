@@ -9,7 +9,7 @@
     "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
     "@temper/game-characters-skills": "workspace:*",
-    "@temper/shared-engine": "workspace:*"
+    "@akasha/temper-build-support": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

@@ -21,7 +21,7 @@ import {
   companionWeaponRoles,
   getWeaponRole,
 } from "@temper/game-companions-core/equipment/companion-weapon-roles-data"
-import { companionUrl } from "@temper/shared-engine/utils/slug"
+import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { Search, Trophy } from "lucide-react"
 

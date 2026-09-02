@@ -8,7 +8,7 @@ import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { RaceId } from "@akasha/temper-races/races"
-import { characterUrl } from "@temper/shared-engine/utils/slug"
+import { characterUrl } from "@akasha/temper-build-support/build-url"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 
 interface LiveOnlyBuild {

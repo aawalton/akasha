@@ -18,9 +18,6 @@
     },
     {
       "path": "../game-characters-skills"
-    },
-    {
-      "path": "../shared-engine"
     }
   ],
   "include": [

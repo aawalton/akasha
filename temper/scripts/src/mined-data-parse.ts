@@ -5,7 +5,7 @@ import type { MinedItemEntry, MinedQuestEntry } from "@akasha/temper-capture-dat
 import {
   minedItemSchema,
   minedQuestSchema,
-} from "@temper/shared-capture-datamining-reader/saved-variables-schema"
+} from "@akasha/temper-capture-datamining-reader/saved-variables-schema"
 import type { z } from "zod"
 
 const SAVED_VARIABLES_NAME = "TemperDataMining_SavedVariables"

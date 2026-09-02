@@ -1,6 +1,6 @@
 import { base } from "@temper/game-characters-character/base-source"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import { indexBy } from "@temper/shared-engine/utils"
+import { indexBy } from "@akasha/temper-build-support/row-grouping"
 import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
 import { topologicalSort } from "@akasha/temper-formula-framework/topological-sort"
 import { buildStateToEffectSources } from "./adapters/build-state-adapter"

@@ -10,11 +10,11 @@ import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
 } from "@temper/game-items-rules-core/inventory-rule-compiler-types"
-import type { AutomationSettings } from "@temper/shared-engine/automation/automation-settings-types"
+import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import {
   resolveCharacterToggles,
   resolveCompanionToggles,
-} from "@temper/shared-engine/automation/automation-settings-types"
+} from "@akasha/temper-build-support/automation-settings"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 
 export async function readCharactersWithTargetBuilds(userId: string): Promise<

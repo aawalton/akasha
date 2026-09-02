@@ -3,7 +3,7 @@
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { resolveToggle } from "@temper/shared-engine/automation/automation-settings-types"
+import { resolveToggle } from "@akasha/temper-build-support/automation-settings"
 
 type AutomationToggleValue = "on" | "off" | "account-default"
 

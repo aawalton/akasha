@@ -10,7 +10,7 @@ import type {
   InventoryRuleSettings,
   ItemRule,
 } from "@temper/game-items-rules-core/inventory-rule-types"
-import type { AutomationSettings } from "@temper/shared-engine/automation/automation-settings-types"
+import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import { useDeferredValue, useMemo } from "react"
 
 export interface AssembledInventoryRules {

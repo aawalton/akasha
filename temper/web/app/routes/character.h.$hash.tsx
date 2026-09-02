@@ -1,4 +1,4 @@
-import { characterUrl } from "@temper/shared-engine/utils/slug"
+import { characterUrl } from "@akasha/temper-build-support/build-url"
 import { buildHash, esoCharacterId as toEsoCharacterId } from "@akasha/temper-formula-framework/branded-id"
 import { z } from "zod"
 import { importCharacterFromHash } from "@/app/characters/import-actions"

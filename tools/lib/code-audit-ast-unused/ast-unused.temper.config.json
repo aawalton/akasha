@@ -280,14 +280,6 @@
         "src/**/*.ts"
       ]
     },
-    "temper/shared-engine": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/web": {
       "entry": [
         "app/**/*.{ts,tsx}!",

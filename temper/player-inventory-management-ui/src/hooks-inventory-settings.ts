@@ -22,7 +22,7 @@ import type {
   AutomationSettings,
   CharacterAutomationToggles,
   CompanionAutomationToggles,
-} from "@temper/shared-engine/automation/automation-settings-types"
+} from "@akasha/temper-build-support/automation-settings"
 import { useCallback, useMemo } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"

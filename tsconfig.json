@@ -31,12 +31,6 @@
       "path": "./temper/player-build-validation"
     },
     {
-      "path": "./temper/shared-engine"
-    },
-    {
-      "path": "./temper/shared-capture-datamining-reader"
-    },
-    {
       "path": "./temper/scripts"
     },
     {

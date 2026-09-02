@@ -1,4 +1,4 @@
-import { companionUrl } from "@temper/shared-engine/utils/slug"
+import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { buildHash } from "@akasha/temper-formula-framework/branded-id"
 import { z } from "zod"
 import { importCompanionFromHash } from "@/app/companions/import-actions"

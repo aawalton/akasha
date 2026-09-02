@@ -10,7 +10,7 @@ import {
   mergeInventoryContext,
 } from "@temper/game-items-rules-matcher/rule-matcher-context"
 import { useCompletionCharacters, useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
-import type { AutomationSettings } from "@temper/shared-engine/automation/automation-settings-types"
+import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import { useMemo } from "react"
 
 export function useRuleMatcherContext(

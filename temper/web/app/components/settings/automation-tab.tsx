@@ -10,7 +10,7 @@ import { useAutomationSettings } from "@temper/player-inventory-management-ui/ho
 import type {
   CharacterAutomationToggles,
   CompanionAutomationToggles,
-} from "@temper/shared-engine/automation/automation-settings-types"
+} from "@akasha/temper-build-support/automation-settings"
 import { Info } from "lucide-react"
 import { useMemo } from "react"
 

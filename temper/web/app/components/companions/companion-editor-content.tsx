@@ -16,7 +16,7 @@ import type { CompanionState } from "@temper/game-companions-core/companion-type
 import { useCompanionLifecycle, useCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
-import { companionUrl } from "@temper/shared-engine/utils/slug"
+import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { BarChart3, Info, ShieldHalf, Swords, User } from "lucide-react"
 import { useEffect, useState } from "react"

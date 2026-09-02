@@ -14,11 +14,11 @@ import type {
   CompletionCharacterInput,
   CompletionCompanionInput,
 } from "@temper/game-items-rules-core/rule-matcher-context-types"
-import type { AutomationSettings } from "@temper/shared-engine/automation/automation-settings-types"
+import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import {
   resolveCharacterToggles,
   resolveCompanionToggles,
-} from "@temper/shared-engine/automation/automation-settings-types"
+} from "@akasha/temper-build-support/automation-settings"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 
 export function compileWantedEquipment(

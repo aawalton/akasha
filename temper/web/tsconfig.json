@@ -132,9 +132,6 @@
     },
     {
       "path": "../player-profile"
-    },
-    {
-      "path": "../shared-engine"
     }
   ],
   "include": [

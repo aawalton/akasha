@@ -16,7 +16,7 @@ import {
 import { companionWeaponSlots } from "@temper/game-companions-core/equipment/companion-weapon-slots-data"
 import { companionWeaponTypes } from "@temper/game-companions-core/generated/temper-companion-weapon-type.generated"
 import { getQualityClassName, getQualityVariant } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
-import { groupByCount } from "@temper/shared-engine/utils"
+import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import { useMemo } from "react"
 import { BulkEditTag } from "./companion-bulk-edit-tag"
 

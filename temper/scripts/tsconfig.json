@@ -38,13 +38,7 @@
       "path": "../player-build-validation"
     },
     {
-      "path": "../shared-engine"
-    },
-    {
       "path": "../shared-capture-errors-decision-core"
-    },
-    {
-      "path": "../shared-capture-datamining-reader"
     }
   ],
   "include": [

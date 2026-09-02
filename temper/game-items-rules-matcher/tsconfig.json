@@ -20,9 +20,6 @@
       "path": "../game-companions-core"
     },
     {
-      "path": "../shared-engine"
-    },
-    {
       "path": "../game-items-core"
     },
     {

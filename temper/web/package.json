@@ -54,7 +54,7 @@
     "@temper/player-economics-ui": "workspace:*",
     "@temper/player-inventory-management-ui": "workspace:*",
     "@temper/player-profile": "workspace:*",
-    "@temper/shared-engine": "workspace:*",
+    "@akasha/temper-build-support": "workspace:*",
     "class-variance-authority": "^0.7.1",
     "isbot": "^5.1.36",
     "katex": "^0.16.28",

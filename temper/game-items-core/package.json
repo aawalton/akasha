@@ -8,7 +8,7 @@
     "@temper/game-characters-skills": "workspace:*",
     "@temper/game-companions-core": "workspace:*",
     "@temper/game-completion": "workspace:*",
-    "@temper/shared-engine": "workspace:*",
+    "@akasha/temper-build-support": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

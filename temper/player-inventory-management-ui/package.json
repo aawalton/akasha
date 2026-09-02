@@ -22,7 +22,7 @@
     "@temper/game-trading-pricing": "workspace:*",
     "@temper/player-completion-ui": "workspace:*",
     "@temper/player-profile": "workspace:*",
-    "@temper/shared-engine": "workspace:*",
+    "@akasha/temper-build-support": "workspace:*",
     "class-variance-authority": "^0.7.1",
     "lucide-react": "^0.576.0",
     "recharts": "^3.6.0",

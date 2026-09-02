@@ -17,7 +17,7 @@ import { useCharacterLifecycle, useCharacterList } from "@temper/game-characters
 import { encodeBuild } from "@temper/game-codec/character/build-codec"
 import { useCompletionCharacters } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
-import { characterUrl } from "@temper/shared-engine/utils/slug"
+import { characterUrl } from "@akasha/temper-build-support/build-url"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"

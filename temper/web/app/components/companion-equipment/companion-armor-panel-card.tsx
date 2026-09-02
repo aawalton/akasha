@@ -24,7 +24,7 @@ import {
   companionTraits,
 } from "@temper/game-companions-core/equipment/companion-traits-data"
 import { getQualityClassName, getQualityVariant } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
-import { groupByCount } from "@temper/shared-engine/utils"
+import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import { useMemo } from "react"
 import { BulkEditTag } from "./companion-bulk-edit-tag"
 import type { CompanionEquipmentPanelProps } from "./companion-equipment-panel-types"

@@ -25,7 +25,7 @@ import { weaponBars } from "@temper/game-characters-equipment/weapons/weapon-bar
 import { weaponSlots } from "@temper/game-characters-equipment/weapons/weapon-slots-data"
 import { weaponTypes } from "@temper/game-characters-equipment/weapons/weapon-types-data"
 import { AVAILABLE_QUALITY_OPTIONS, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
-import { groupByCount } from "@temper/shared-engine/utils"
+import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import { useMemo } from "react"
 import { BulkEditTag } from "@/components/equipment/bulk-edit-tag"
 import { BulkSetEditTag } from "@/components/equipment/bulk-set-edit-tag"

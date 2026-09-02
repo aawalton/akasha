@@ -1,5 +1,5 @@
 import { asRecord } from "@akasha/utils-narrow/as-record"
-import { stripEsoNameSuffix } from "@temper/shared-engine/utils/eso-name"
+import { stripEsoNameSuffix } from "@akasha/temper-build-support/eso-name"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
 import {

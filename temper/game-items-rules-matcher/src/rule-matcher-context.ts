@@ -6,7 +6,7 @@ import type {
   CompletionCompanionInput,
   RuleMatcherContext,
 } from "@temper/game-items-rules-core/rule-matcher-context-types"
-import type { AutomationSettings } from "@temper/shared-engine/automation/automation-settings-types"
+import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import {
   buildGetCharacterCanLevelMorphs,
   compileCharacterCanLevelMorphs,

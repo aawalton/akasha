@@ -10,7 +10,7 @@ import { extractCompanionMetadata } from "@temper/game-characters/build-metadata
 import { encodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { createNewCompanion } from "@temper/game-companions-core/companion-factory"
 import { useCompanionLifecycle } from "@temper/game-companions-ui/use-companions"
-import { companionUrl } from "@temper/shared-engine/utils/slug"
+import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import { Plus } from "lucide-react"
 import { useState } from "react"

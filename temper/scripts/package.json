@@ -50,9 +50,9 @@
     "@temper/player-build-validation": "workspace:*",
     "@temper/player-completion": "workspace:*",
     "@temper/player-economics-core": "workspace:*",
-    "@temper/shared-capture-datamining-reader": "workspace:*",
+    "@akasha/temper-capture-datamining-reader": "workspace:*",
     "@temper/shared-capture-errors-decision-core": "workspace:*",
-    "@temper/shared-engine": "workspace:*",
+    "@akasha/temper-build-support": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

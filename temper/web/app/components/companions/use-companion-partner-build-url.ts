@@ -1,7 +1,7 @@
 import type { CompanionVisibility } from "@temper/game-companions-core/companion-types"
 import type { useCompanionList } from "@temper/game-companions-ui/use-companions"
 import type { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
-import { companionUrl } from "@temper/shared-engine/utils/slug"
+import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useMemo } from "react"
 

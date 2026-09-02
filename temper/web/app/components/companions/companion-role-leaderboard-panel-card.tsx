@@ -9,7 +9,7 @@ import {
   type RankedEntry,
 } from "@temper/game-companions-core/companion-leaderboard"
 import type { CompanionId } from "@temper/game-companions-core/companions-data"
-import { companionUrl } from "@temper/shared-engine/utils/slug"
+import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { LEADERBOARD_COLUMNS } from "@/components/companions/leaderboard-columns"
 
