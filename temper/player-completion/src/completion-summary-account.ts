@@ -1,5 +1,5 @@
 import { MAX_CHAMPION_POINTS } from "@akasha/temper-champion-points/champion-point-source"
-import type { SubclassingSkillMorphProgressResult } from "@temper/game-characters-skills-morphs-core/subclassing-morph-progress"
+import type { SubclassingSkillMorphProgressResult } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
 import { TOTAL_GRAND_MASTER_STATIONS } from "@akasha/temper-completion/completion-progress"
 import type {
   AccountRecipeUnionProgress,

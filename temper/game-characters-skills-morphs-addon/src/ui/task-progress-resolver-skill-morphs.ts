@@ -4,12 +4,12 @@ import {
   MORPHABLE_SKILLS_DETAIL_PER_LINE,
   RACIAL_ESO_LINE_ID_PER_ESO_RACE,
 } from "@temper/game-characters-capture-addon/skill-line-mappings"
-import { computeApplicableEsoSkillLineIds } from "@temper/game-characters-skills-morphs-core/applicable-eso-skill-lines"
+import { computeApplicableEsoSkillLineIds } from "@akasha/temper-skill-morphs/applicable-eso-skill-lines"
 import {
   computeCharacterMorphProgressByEsoId,
   type ExpectedMorphableSkill,
-} from "@temper/game-characters-skills-morphs-core/character-morph-progress-eso"
-import { resolveSkillMorphProgressByPath } from "@temper/game-characters-skills-morphs-core/skill-morph-progress-paths"
+} from "@akasha/temper-skill-morphs/character-morph-progress-eso"
+import { resolveSkillMorphProgressByPath } from "@akasha/temper-skill-morphs/skill-morph-progress-paths"
 import type { SavedCharacterEntry } from "../../../player-completion-addon/src/saved-variables"
 import type { TaskProgress } from "../../../player-completion-addon/src/ui/task-progress-resolver-types"
 

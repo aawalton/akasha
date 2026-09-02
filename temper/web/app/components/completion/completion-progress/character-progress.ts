@@ -1,5 +1,5 @@
 import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import type { CharacterSkillMorphProgress } from "@temper/game-characters-skills-morphs-core/morph-progress-types"
+import type { CharacterSkillMorphProgress } from "@akasha/temper-skill-morphs/morph-progress-types"
 import type { CharacterAchievementProgressResult } from "@temper/player-completion/completion-achievement-progress"
 import { transformCharacterAchievementProgress } from "@temper/player-completion/completion-achievement-progress"
 import { transformCadwellProgress } from "@temper/player-completion/completion-cadwell-progress"

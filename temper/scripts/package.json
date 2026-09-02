@@ -40,7 +40,6 @@
     "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
     "@temper/game-characters-skills": "workspace:*",
-    "@temper/game-characters-skills-morphs-core": "workspace:*",
     "@temper/game-characters-stats": "workspace:*",
     "@temper/game-codec": "workspace:*",
     "@temper/game-items-core": "workspace:*",

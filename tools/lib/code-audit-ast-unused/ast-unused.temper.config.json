@@ -60,14 +60,6 @@
         "**/*.ts!"
       ]
     },
-    "temper/game-characters-skills-morphs-core": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/game-characters-stats": {
       "entry": [],
       "project": [

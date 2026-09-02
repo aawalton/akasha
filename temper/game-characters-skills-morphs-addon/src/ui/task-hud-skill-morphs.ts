@@ -5,12 +5,12 @@ import {
   MORPHABLE_SKILLS_PER_LINE,
   SKILL_LINE_DISPLAY_ORDER,
 } from "@temper/game-characters-capture-addon/skill-line-mappings"
-import type { ExpectedMorphableSkill } from "@temper/game-characters-skills-morphs-core/character-morph-progress-eso"
+import type { ExpectedMorphableSkill } from "@akasha/temper-skill-morphs/character-morph-progress-eso"
 import {
   type MorphSuggestionEntry,
   pickRelevantSkillLineIds,
   selectMorphSuggestions,
-} from "@temper/game-characters-skills-morphs-core/select-morph-suggestions"
+} from "@akasha/temper-skill-morphs/select-morph-suggestions"
 import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
 import {
   getSavedVariables,

@@ -4,7 +4,7 @@ import {
   getSkillLineIdsForClass,
   skillLines,
 } from "@akasha/temper-skill-lines/skill-lines"
-import type { SubclassingSkillMorphProgressResult } from "@temper/game-characters-skills-morphs-core/subclassing-morph-progress"
+import type { SubclassingSkillMorphProgressResult } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import type { AccountCardId } from "@temper/player-completion/completion-card-registry"
 import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter, withActivityCategories } from "@temper/player-completion-ui/completion-panel-card"

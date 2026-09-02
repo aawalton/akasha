@@ -7,8 +7,8 @@ import {
   getSkillLineIdsForClass,
   skillLines,
 } from "@akasha/temper-skill-lines/skill-lines"
-import { type CharacterSkillMorphProgress, type MorphableSkillDetail } from "@temper/game-characters-skills-morphs-core/morph-progress-types"
-import { morphableSkillLineIds } from "@temper/game-characters-skills-morphs-core/morphable-skills"
+import { type CharacterSkillMorphProgress, type MorphableSkillDetail } from "@akasha/temper-skill-morphs/morph-progress-types"
+import { morphableSkillLineIds } from "@akasha/temper-skill-morphs/morphable-skills"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import type { CharacterCardId } from "@temper/player-completion/completion-card-registry"
 import type { CompletionCharacter } from "@temper/player-completion/completion-ui-types"

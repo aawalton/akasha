@@ -1,1 +1,1 @@
-export { morphableSkillsByLine } from "@temper/game-characters-skills-morphs-core/morphable-skills"
+export { morphableSkillsByLine } from "@akasha/temper-skill-morphs/morphable-skills"

@@ -1,5 +1,5 @@
-import type { SubclassingSkillMorphProgressResult } from "@temper/game-characters-skills-morphs-core/subclassing-morph-progress"
-import { transformSubclassingSkillMorphProgress } from "@temper/game-characters-skills-morphs-core/subclassing-morph-progress"
+import type { SubclassingSkillMorphProgressResult } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
+import { transformSubclassingSkillMorphProgress } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
 import type {
   AccountRecipeUnionProgress,
   AccountScribingUnionProgress,

@@ -21,9 +21,6 @@
     },
     {
       "path": "../player-completion-ui"
-    },
-    {
-      "path": "../game-characters-skills-morphs-core"
     }
   ],
   "include": [

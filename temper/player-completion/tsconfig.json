@@ -18,9 +18,6 @@
     },
     {
       "path": "../game-characters-skills"
-    },
-    {
-      "path": "../game-characters-skills-morphs-core"
     }
   ],
   "include": [
