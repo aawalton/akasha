@@ -10,7 +10,7 @@ export const siblingAddons = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A sibling is named in the addon's own `addon.json`.",
+      statement: "A sibling is named in the addon's own manifest.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const siblingAddons = {
     },
     {
       invariantKind: "departure",
-      statement: "An addon with no readable `addon.json` ships no sibling.",
+      statement: "An addon with no readable manifest ships no sibling.",
     },
   ],
 } as const satisfies Module

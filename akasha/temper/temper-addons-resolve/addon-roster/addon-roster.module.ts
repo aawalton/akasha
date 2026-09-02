@@ -17,7 +17,7 @@ export const addonRoster = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding no `addon.json` is no addon.",
+      statement: "A folder holding no addon manifest of either spelling is no addon.",
     },
     {
       invariantKind: "departure",

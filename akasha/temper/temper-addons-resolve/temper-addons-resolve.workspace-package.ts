@@ -8,6 +8,7 @@ export const temperAddonsResolve = {
   manifest: "json",
   partSlugs: [
     "module/addon-json",
+    "module/addon-manifest-file",
     "module/workspace-closure",
     "module/addon-roster",
     "module/deployable-addons",
@@ -18,7 +19,7 @@ export const temperAddonsResolve = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An addon is a workspace package holding an `addon.json`.",
+      statement: "An addon is a workspace package holding an addon manifest.",
     },
     {
       invariantKind: "departure",

@@ -1,6 +1,7 @@
-import { existsSync, readFileSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { addonManifestSchema } from "../addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "../addon-manifest-file/addon-manifest-file.module.code.ts"
 
 export const SIBLING_ADDONS_DIR = "siblings"
 
@@ -18,8 +19,8 @@ export function assertSafeSiblingName(name: string): undefined {
 }
 
 export function readSiblingAddonNames(addonDir: string): readonly string[] {
-  const path = join(addonDir, "addon.json")
-  if (!existsSync(path)) return []
+  const path = addonManifestPathIn(addonDir)
+  if (path === null) return []
   let raw: unknown
   try {
     raw = JSON.parse(readFileSync(path, "utf-8"))

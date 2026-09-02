@@ -5,6 +5,7 @@
   "exports": {
     "./addon-roster": "./addon-roster/addon-roster.module.code.ts",
     "./addon-json": "./addon-json/addon-json.module.code.ts",
+    "./addon-manifest-file": "./addon-manifest-file/addon-manifest-file.module.code.ts",
     "./workspace-closure": "./workspace-closure/workspace-closure.module.code.ts",
     "./deployable-addons": "./deployable-addons/deployable-addons.module.code.ts",
     "./distributable-set": "./distributable-set/distributable-set.module.code.ts",

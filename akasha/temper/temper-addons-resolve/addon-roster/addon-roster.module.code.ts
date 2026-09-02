@@ -2,6 +2,7 @@ import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
 import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { addonManifestSchema } from "../addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "../addon-manifest-file/addon-manifest-file.module.code.ts"
 import {
   computeWorkspaceClosure,
   loadWorkspaceCatalog,
@@ -31,8 +32,8 @@ export type ResolveOpts = {
 const addonNameSchema = addonManifestSchema.pick({ name: true }).partial().passthrough()
 
 function readAddonJson(dir: string): { name?: string } | null {
-  const path = join(dir, "addon.json")
-  if (!existsSync(path)) return null
+  const path = addonManifestPathIn(dir)
+  if (path === null) return null
   try {
     const raw: unknown = JSON.parse(readFileSync(path, "utf-8"))
     const parsed = addonNameSchema.safeParse(raw)
