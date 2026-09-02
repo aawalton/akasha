@@ -4,13 +4,16 @@ import type {
   InventoryItemData,
   InventoryLocationData,
 } from "@akasha/temper-items-core/inventory-types"
+import { computeBuyShortfall } from "@akasha/temper-items-rules-core/buy-rule-eval"
 import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import {
+  type BuyStock,
   compileBuyStock,
   compileCharacterPriority,
   compileConsumableStock,
   compileWantedConsumables,
   describeInventoryReadFailure,
+  type InventoryReadFailure,
   type InventoryRow,
   type InventoryRowReader,
   readLatestInventory,
@@ -317,6 +320,82 @@ test("chunks are joined in the order they are read and parsed as one database", 
       ])
     )
   ).toEqual({ ok: true, db: EMPTY_DATABASE })
+})
+
+const BUY_ITEM = 4000
+const BUY_TARGET = 4000
+const LIVE_BACKPACK = 200
+
+const SPREAD_LOCATIONS: Record<string, InventoryLocationData> = {
+  Bank: locationOf({ 1: { 0: itemAt(BUY_ITEM, 1796) } }),
+}
+for (let charId = 1; charId <= 11; charId++) {
+  SPREAD_LOCATIONS[String(charId)] = locationOf({ 1: { 0: itemAt(BUY_ITEM, LIVE_BACKPACK) } })
+}
+
+const SPREAD: InventoryDatabase = {
+  locations: SPREAD_LOCATIONS,
+  meta: { displayName: "someone", worldName: "PC-EU", lastFullScan: 0 },
+}
+
+const MID_WRITE: InventoryReadFailure = {
+  kind: "chunk-count-mismatch",
+  snapshotId: "snap-1",
+  declared: 12,
+  found: 9,
+}
+
+const EVERY_FAILURE: readonly InventoryReadFailure[] = [
+  { kind: "no-snapshot" },
+  { kind: "snapshot-has-no-id" },
+  { kind: "snapshot-has-no-timestamp", snapshotId: "snap-1" },
+  { kind: "no-chunks", snapshotId: "snap-1" },
+  MID_WRITE,
+  { kind: "chunk-not-text", snapshotId: "snap-1", chunkIndexes: [3, 4] },
+  { kind: "json-parse-failed", snapshotId: "snap-1", bytes: 41230, message: "bad" },
+]
+
+function heldTotal(stock: BuyStock, itemId: number): number {
+  const byChar = Object.values(stock.buyStockByChar[itemId] ?? {})
+  return byChar.reduce((sum, held) => sum + held, 0) + (stock.buyStockAccount[itemId] ?? 0)
+}
+
+test("every kind of read failure leaves the stock unavailable and both records empty", () => {
+  for (const failure of EVERY_FAILURE) {
+    expect(compileBuyStock({ ok: false, failure }, new Set([BUY_ITEM]))).toEqual({
+      available: false,
+      buyStockByChar: {},
+      buyStockAccount: {},
+    })
+  }
+})
+
+test("an item the account holds none of is left out of both records", () => {
+  const stock = compileBuyStock({ ok: true, db: HOLDINGS }, new Set([GARLIC_HAGFISH_ITEM, 12345]))
+  expect(stock.buyStockByChar[12345]).toBeUndefined()
+  expect(stock.buyStockAccount[12345]).toBeUndefined()
+})
+
+test("a failed read reads as owning nothing, and availability alone tells them apart", () => {
+  const failed = compileBuyStock(
+    { ok: false, failure: { kind: "no-snapshot" } },
+    new Set([BUY_ITEM])
+  )
+  const nothing = compileBuyStock({ ok: true, db: EMPTY_DATABASE }, new Set([BUY_ITEM]))
+  expect(failed.buyStockByChar).toEqual(nothing.buyStockByChar)
+  expect(failed.buyStockAccount).toEqual(nothing.buyStockAccount)
+  expect(failed.available).not.toBe(nothing.available)
+})
+
+test("a failed read collapses 3996 held across eleven characters and the bank to nothing", () => {
+  const read = compileBuyStock({ ok: true, db: SPREAD }, new Set([BUY_ITEM]))
+  expect(Object.keys(read.buyStockByChar[BUY_ITEM] ?? {}).length).toBe(11)
+  expect(heldTotal(read, BUY_ITEM)).toBe(3996)
+  expect(computeBuyShortfall(BUY_TARGET, heldTotal(read, BUY_ITEM))).toBe(4)
+
+  const failed = compileBuyStock({ ok: false, failure: MID_WRITE }, new Set([BUY_ITEM]))
+  expect(heldTotal(failed, BUY_ITEM)).toBe(0)
+  expect(computeBuyShortfall(BUY_TARGET, LIVE_BACKPACK + heldTotal(failed, BUY_ITEM))).toBe(3800)
 })
 
 test("a chunk holding an object rather than text is written back out as JSON", async () => {
