@@ -44,7 +44,10 @@
     "./watcher-page-landing": "./watcher-page-landing/watcher-page-landing.module.code.ts",
     "./watcher-net-worth-landing": "./watcher-net-worth-landing/watcher-net-worth-landing.module.code.ts",
     "./watcher-task-landing": "./watcher-task-landing/watcher-task-landing.module.code.ts",
-    "./watcher-completed-day-landing": "./watcher-completed-day-landing/watcher-completed-day-landing.module.code.ts"
+    "./watcher-completed-day-landing": "./watcher-completed-day-landing/watcher-completed-day-landing.module.code.ts",
+    "./watcher-settings-consumables": "./watcher-settings-consumables/watcher-settings-consumables.module.code.ts",
+    "./watcher-import-completion": "./watcher-import-completion/watcher-import-completion.module.code.ts",
+    "./watcher-import-item-rule-verdicts": "./watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
@@ -66,12 +69,15 @@
     "@akasha/temper-character-build": "workspace:*",
     "@akasha/temper-companion-codec": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
+    "@akasha/temper-completion": "workspace:*",
+    "@akasha/temper-completion-import": "workspace:*",
     "@akasha/temper-errors-triage": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*",
     "@akasha/temper-items-rules-matcher": "workspace:*",
+    "@akasha/temper-player-completion": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
