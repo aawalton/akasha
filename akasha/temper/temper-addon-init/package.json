@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/temper-addon-init",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./addon-init": "./addon-init/addon-init.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-eso-types": "workspace:*"
+  }
+}
