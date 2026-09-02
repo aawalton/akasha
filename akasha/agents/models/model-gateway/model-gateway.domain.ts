@@ -14,6 +14,7 @@ export const modelGateway = {
     "module/keepalive",
     "module/proxy-headers",
     "module/queue-step",
+    "module/retry",
     "module/sse-error-frame",
   ],
   invariants: [
