@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Addon-data: the render half is inside akasha and proven. `@akasha/temper-addon-data` holds the 21 generators, `mapping-renders` and `failing-alone`, at `b4f764982789` and `a57c2a75278e`; old against new, 21 of 21 and 14 of 14 byte-identical, seeded faults red. Left is the read half: `pages-bridge` wants `typesFor`, a 3,689-line reach into the root `page/` engine; the rest has twins or is under 50 lines. Where a rendered table lands is ember's call. Finding `f2bb455790`.",
+        "Addon-data's render half is landed and proven byte-identical, and both open calls are made. `typesFor` does not cross: the render module declares the shape it coerces to, and that coercion turns out to matter for one declared type in 225. The registry widened 4 rows to 38 by deriving destinations from exports rather than choosing them, leaving 19 rendered tables with none. A seat holds the read half — `pages-bridge`, then `addon-data-pages` at 421 lines and `catalog-sidecars` at 255.",
     },
     {
       statement: "No part of temper is outside akasha.",
