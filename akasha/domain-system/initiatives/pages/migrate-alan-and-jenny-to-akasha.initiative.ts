@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's four panels each show what akasha holds.",
       workingMemory:
-        "All five surfaces draw under node against a stub editor, by `tools/extension-panels-draw.ts`: Agents 85, Domains 6876, Work 13, Pages 2885, status bar 8 slots. Pages drew 427 until `c90dd573c8` — the property map is keyed qualified while the lookups were bare, so ~2115 definitions dropped in silence. A row floor landed at `ec825f4643`, since every check stayed green through that loss and only the count knew. Under load the agent tree can outrun the harness 20s wait.",
+        "Five surfaces draw: Pages 2885, Domains ~6950, Work 13, Agents live, status bar 6 slots since the values group went at `267f233e10`. No panel ever reached the pages service; `pages-access` is itself the HTTP road, and the file index holds no markdown, so moving there would have cost 2885 rows. One page-tree read walked the checkout 22 times; memoised to 1 at `03ce0c7796`. What is left is an 11s synchronous stall in the host, not in the reads.",
     },
     {
       statement: "Nothing reads a readout through the markdown engine.",
