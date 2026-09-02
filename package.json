@@ -7,7 +7,6 @@
     "alanwalton/atlas-web",
     "alanwalton/calendar-sync",
     "alanwalton/location-traces-access",
-    "alanwalton/mobile-cli",
     "alanwalton/web",
     "archive-of-worlds/web",
     "audhdalan/web",
@@ -211,7 +210,6 @@
   "dependencies": {
     "@akasha/health-samples-import": "workspace:*",
     "@akasha/imessage": "workspace:*",
-    "@alanwalton/mobile-cli": "workspace:*",
     "@collections/exercises": "workspace:*",
     "@collections/music": "workspace:*",
     "@collections/music-spotify": "workspace:*",

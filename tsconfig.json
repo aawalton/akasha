@@ -236,9 +236,6 @@
     },
     {
       "path": "./infra/zimage"
-    },
-    {
-      "path": "./alanwalton/mobile-cli"
     }
   ],
   "files": []
