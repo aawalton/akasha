@@ -86,6 +86,7 @@
     "./eso-crafting-tooltips": "./eso-crafting-tooltips/eso-crafting-tooltips.type-declaration.d.ts",
     "./eso-enchanting-station": "./eso-enchanting-station/eso-enchanting-station.type-declaration.d.ts",
     "./eso-provisioner-station": "./eso-provisioner-station/eso-provisioner-station.type-declaration.d.ts",
-    "./tstl-lua-length": "./tstl-lua-length/tstl-lua-length.type-declaration.d.ts"
+    "./tstl-lua-length": "./tstl-lua-length/tstl-lua-length.type-declaration.d.ts",
+    "./eso-journal-window": "./eso-journal-window/eso-journal-window.type-declaration.d.ts"
   }
 }

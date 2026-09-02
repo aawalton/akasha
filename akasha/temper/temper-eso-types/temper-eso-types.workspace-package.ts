@@ -82,6 +82,7 @@ export const temperEsoTypes = {
     "type-declaration/eso-interface-extra-4",
     "type-declaration/eso-link-handler",
     "type-declaration/eso-world-map-zoom",
+    "type-declaration/eso-journal-window",
     "type-declaration/eso-inventory-trade",
     "type-declaration/eso-alchemy-station",
     "type-declaration/eso-crafting-string-ids",

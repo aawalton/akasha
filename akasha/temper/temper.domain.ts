@@ -61,6 +61,7 @@ export const temper = {
     "eso-addon/temper-lib-gps",
     "eso-addon/temper-lib-saved-vars",
     "eso-addon/temper-lib-price",
+    "eso-addon/temper-lib-extended-journal",
     "workspace-package/temper-formula-framework",
     "workspace-package/temper-saved-vars-migration",
     "workspace-package/temper-addon-generators",

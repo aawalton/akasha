@@ -117,7 +117,11 @@ declare const GAMEPAD_ALCHEMY_ROOT_SCENE: SceneFragmentTarget
 
 declare const RIGHT_PANEL_BG_FRAGMENT: SceneFragment
 
-declare const FRAGMENT_GROUP: { MOUSE_DRIVEN_UI_WINDOW: object }
+declare const FRAGMENT_GROUP: {
+  MOUSE_DRIVEN_UI_WINDOW: object
+  FRAME_TARGET_STANDARD_RIGHT_PANEL: object
+  PLAYER_PROGRESS_BAR_KEYBOARD_CURRENT: object
+}
 
 interface WindowSoundFragmentFactory {
   New: (openSound: string | undefined, closeSound: string | undefined) => SceneFragment
