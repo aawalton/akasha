@@ -12,21 +12,28 @@ export interface MwimSavedVars {
   unknown?: number
 }
 
-declare global {
-  var TemperMasterWritInventoryMarker_SavedVariables: Record<string, MwimSavedVars> | undefined
+interface MwimGlobalTable {
+  TemperMasterWritInventoryMarker_SavedVariables?: Record<string, MwimSavedVars>
+}
+
+function asGlobalTable(this: void, value: unknown): MwimGlobalTable {
+  return value as MwimGlobalTable
 }
 
 let sv: MwimSavedVars | undefined
 
 export function initSavedVariables(this: void): undefined {
   const server = LibCodesCommonCode.GetServerName()
-  if (TemperMasterWritInventoryMarker_SavedVariables === undefined) {
-    TemperMasterWritInventoryMarker_SavedVariables = {}
+  const globals = asGlobalTable(globalThis)
+  let saved = globals.TemperMasterWritInventoryMarker_SavedVariables
+  if (saved === undefined) {
+    saved = {}
+    globals.TemperMasterWritInventoryMarker_SavedVariables = saved
   }
-  if (TemperMasterWritInventoryMarker_SavedVariables[server] === undefined) {
-    TemperMasterWritInventoryMarker_SavedVariables[server] = {}
+  if (saved[server] === undefined) {
+    saved[server] = {}
   }
-  sv = TemperMasterWritInventoryMarker_SavedVariables[server]
+  sv = saved[server]
   return undefined
 }
 

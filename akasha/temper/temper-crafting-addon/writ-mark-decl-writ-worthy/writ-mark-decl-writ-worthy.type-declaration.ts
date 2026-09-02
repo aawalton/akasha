@@ -1,9 +1,9 @@
-import type { Module } from "@akasha/code-system/module"
+import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
 
 export const writMarkDeclWritWorthy = {
   id: "01a061c7-e8a1-71e5-ad98-d0186cb3b817",
-  pageTypeSlug: "module",
+  pageTypeSlug: "type-declaration",
   slug: "writ-mark-decl-writ-worthy",
   definition: "the writ list the marker reads from the writ tracker beside it",
-  code: "ts",
-} as const satisfies Module
+  d: "ts",
+} as const satisfies TypeDeclaration

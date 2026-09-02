@@ -2,7 +2,6 @@ import { getPlayerSettings } from "../potion-saved-variables/potion-saved-variab
 import { PotMaker } from "../potion-state/potion-state.module.code.ts"
 import { isThirdAlchemySlotUnlocked } from "../potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
 import type { Potion } from "../potion-types/potion-types.module.code.ts"
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
 
 function swapSound(
   this: void,

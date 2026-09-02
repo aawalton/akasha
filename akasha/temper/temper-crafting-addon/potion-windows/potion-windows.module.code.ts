@@ -12,7 +12,6 @@ import {
   clearInventory,
   clearResultList,
 } from "../potion-window-helpers/potion-window-helpers.module.code.ts"
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
 
 interface HighlightLabelControl extends LabelControl {
   defaultHighlightColor?: ZoColorDef

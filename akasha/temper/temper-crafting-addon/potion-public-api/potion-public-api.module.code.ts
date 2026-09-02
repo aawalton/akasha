@@ -1,7 +1,11 @@
 import { PotMaker as holder } from "../potion-state/potion-state.module.code.ts"
 
-declare global {
-  var PotMaker: import("../potion-state/potion-state.module.code.ts").PotMaker
+interface PotionGlobalTable {
+  PotMaker: typeof holder
 }
 
-globalThis.PotMaker = holder
+function asGlobalTable(this: void, value: unknown): PotionGlobalTable {
+  return value as PotionGlobalTable
+}
+
+asGlobalTable(globalThis).PotMaker = holder

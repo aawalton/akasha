@@ -1,5 +1,3 @@
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
-
 export const ADDON_NAME = "TemperPotions"
 export const SAVED_VARIABLES_NAME = "TemperPotionMaker_SavedVariables"
 

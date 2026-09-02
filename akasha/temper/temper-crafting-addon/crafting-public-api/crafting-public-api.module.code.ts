@@ -114,8 +114,12 @@ interface TemperCraftingApi {
   Set: typeof toSet
 }
 
-declare global {
-  var TemperCrafting: TemperCraftingApi
+interface CraftingGlobalTable {
+  TemperCrafting: TemperCraftingApi
+}
+
+function asGlobalTable(this: void, value: unknown): CraftingGlobalTable {
+  return value as CraftingGlobalTable
 }
 
 const TEMPER_CRAFTING_API: TemperCraftingApi = {
@@ -193,6 +197,6 @@ setmetatable(TEMPER_CRAFTING_API, {
   },
 })
 
-globalThis.TemperCrafting = TEMPER_CRAFTING_API
+asGlobalTable(globalThis).TemperCrafting = TEMPER_CRAFTING_API
 
 export { TEMPER_CRAFTING_API }

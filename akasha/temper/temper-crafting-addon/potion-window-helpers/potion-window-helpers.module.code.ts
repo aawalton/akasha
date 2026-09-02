@@ -2,7 +2,6 @@ import { asLabelControl } from "../potion-casts/potion-casts.module.code.ts"
 import { getPlayerSettings } from "../potion-saved-variables/potion-saved-variables.module.code.ts"
 import { PotMaker } from "../potion-state/potion-state.module.code.ts"
 import { isThirdAlchemySlotUnlocked } from "../potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
 
 export function saveSolventSelection(this: void): undefined {
   const selected = PotMaker.SelectedSolvents[PotMaker.solventMode]

@@ -8,7 +8,6 @@ import { getAccountSettings } from "../potion-saved-variables/potion-saved-varia
 import { PotMaker } from "../potion-state/potion-state.module.code.ts"
 import { isScreenRightHalf } from "../potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
 import type { IngredientView, TraitData } from "../potion-types/potion-types.module.code.ts"
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
 
 interface HighlightLabel extends LabelControl {
   defaultHighlightColor?: ZoColorDef

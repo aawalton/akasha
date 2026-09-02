@@ -14,7 +14,6 @@ import {
   isScreenRightHalf,
 } from "../potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
 import type { Potion, PotionFactory } from "../potion-types/potion-types.module.code.ts"
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
 
 interface PotionButton extends Control {
   potion: Potion

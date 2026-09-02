@@ -3,7 +3,6 @@ import {
   getMotifCharId,
   getSv,
 } from "../writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
-import "../writ-mark-decl-writ-worthy/writ-mark-decl-writ-worthy.module.code.ts"
 
 export function getMasterWritSetName(
   this: void,

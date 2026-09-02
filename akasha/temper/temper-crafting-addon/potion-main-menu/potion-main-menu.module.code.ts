@@ -22,7 +22,6 @@ import {
   showFilterPage,
   showStationOrTopLevel,
 } from "../potion-window-helpers/potion-window-helpers.module.code.ts"
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
 
 interface SceneManagerView {
   AddSceneGroup: (this: SceneManagerView, name: string, sceneGroup: unknown) => undefined

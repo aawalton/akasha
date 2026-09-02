@@ -5,7 +5,6 @@ import {
   isScreenRightHalf,
 } from "../potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
 import type { Ingredient, Potion, Reagent } from "../potion-types/potion-types.module.code.ts"
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
 
 interface TraitButton extends Control {
   Trait?: string

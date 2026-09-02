@@ -97,8 +97,8 @@ export function onAddOnLoaded(this: void): undefined {
     GetWorldName(),
     CHAR_INIT
   )
-  TemperCrafting.Account = STATE.Account
-  TemperCrafting.Character = STATE.Character
+  TEMPER_CRAFTING_API.Account = STATE.Account
+  TEMPER_CRAFTING_API.Character = STATE.Character
 
   EVENT_MANAGER.RegisterForUpdate("TemperCrafting", 1000, queue)
 
@@ -181,8 +181,7 @@ export function onAddOnLoaded(this: void): undefined {
   ZO_PreHookHandler(ZO_EnchantingTopLevelModeMenuBarButton3, "OnMouseDown", runeRecipeTabShow)
 
   const settingsPanel = registerSettings()
-  globalThis.TemperCrafting = TEMPER_CRAFTING_API
-  TemperCrafting.LAM = settingsPanel
+  TEMPER_CRAFTING_API.LAM = settingsPanel
 
   scrollText()
   tooltipHandler()

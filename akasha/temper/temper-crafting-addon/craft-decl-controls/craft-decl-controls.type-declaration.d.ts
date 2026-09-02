@@ -232,7 +232,6 @@ interface ButtonControl {
   SetMouseOverFontColor: (r: number, g: number, b: number, a: number) => undefined
   SetHorizontalAlignment: (alignment: number) => undefined
   SetVerticalAlignment: (alignment: number) => undefined
-  EnableMouseButton: (button: number, enabled: boolean) => undefined
 }
 
 interface TooltipControl {

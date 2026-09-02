@@ -1,5 +1,3 @@
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
-
 function asAnnounceManager(this: void, value: unknown): CenterScreenAnnounceManager {
   return value as CenterScreenAnnounceManager
 }

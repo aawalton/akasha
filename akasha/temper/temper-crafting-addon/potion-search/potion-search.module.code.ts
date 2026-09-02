@@ -8,7 +8,6 @@ import {
 } from "../potion-saved-variables/potion-saved-variables.module.code.ts"
 import { PotMaker } from "../potion-state/potion-state.module.code.ts"
 import type { Ingredient, Potion, Quest } from "../potion-types/potion-types.module.code.ts"
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
 
 interface TraitControlView {
   trait: { name: string }

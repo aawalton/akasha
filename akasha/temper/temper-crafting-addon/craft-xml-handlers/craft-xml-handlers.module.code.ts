@@ -3,6 +3,7 @@ import { drawCharacters } from "../craft-character-panel/craft-character-panel.m
 import { recipeShowCategory } from "../craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 import { runeSetValue } from "../craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { controlShow } from "../craft-ui-updates/craft-ui-updates.module.code.ts"
+import { TEMPER_CRAFTING_API } from "../crafting-public-api/crafting-public-api.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
 import { runeShowMode } from "../rune-mode/rune-mode.module.code.ts"
 
@@ -53,5 +54,5 @@ export function setTitleText(control: LabelControl): undefined {
 }
 
 export function openSettings(): undefined {
-  LibAddonMenu2.OpenToPanel(globalThis.TemperCrafting.LAM)
+  LibAddonMenu2.OpenToPanel(TEMPER_CRAFTING_API.LAM)
 }

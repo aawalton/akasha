@@ -1,9 +1,9 @@
-import type { Module } from "@akasha/code-system/module"
+import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
 
 export const potionDeclControls = {
   id: "01a061c7-e87c-76f5-b30a-8675d44cffdb",
-  pageTypeSlug: "module",
+  pageTypeSlug: "type-declaration",
   slug: "potion-decl-controls",
   definition: "the control names the potion window's XML document creates",
-  code: "ts",
-} as const satisfies Module
+  d: "ts",
+} as const satisfies TypeDeclaration

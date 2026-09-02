@@ -6,7 +6,6 @@ import type {
   Favorite,
   PlayerSettings,
 } from "../potion-types/potion-types.module.code.ts"
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
 
 let playerSettings: PlayerSettings | undefined
 let accountSettings: AccountSettings | undefined

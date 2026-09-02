@@ -9,7 +9,6 @@ import {
   clearResultList,
   showFilterPage,
 } from "../potion-window-helpers/potion-window-helpers.module.code.ts"
-import "../potion-decl-controls/potion-decl-controls.module.code.ts"
 
 interface HideShowControlView {
   Hide: (this: HideShowControlView) => undefined
