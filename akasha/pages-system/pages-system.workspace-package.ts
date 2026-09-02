@@ -16,6 +16,7 @@ export const pagesSystem = {
     "page-type/instant-property",
     "page-type/relation-property",
     "page-type/record-property",
+    "page-type/page-property-entry",
     "page-type/file-property",
     "page-type/named-file-property",
     "page-type/phone-number-property",
