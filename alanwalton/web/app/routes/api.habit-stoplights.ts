@@ -8,11 +8,15 @@ import type { Route } from "./+types/api.habit-stoplights"
 // replaces resolved the same thing by parsing markdown frontmatter across the whole page tree,
 // uncached, once per request.
 //
-// A readout in the group with no fresh reading carried in is left out of the answer rather than
-// refused, so a group only part of the way in shows the rings it has. Only a group where nothing
-// is fresh answers 503, which the widget reads as no signal. That is the right answer there: a
-// colour shown for a reading nobody could take would tell Alan his upkeep is holding when the
-// truth is that nothing looked.
+// A readout in the group with no fresh reading carried in is answered as a stoplight carrying no
+// figure: the colour below every rung, an empty reading, and `readingHeld` naming whether no
+// reading was ever taken or the one taken went stale. Alan ruled the ring shows even where no
+// reading has come in yet, so the tile keeps its full count of six. The empty figure is what
+// names the absence, and black is a colour a scale really gives, so the colour never names it.
+//
+// Only a group no readout is left in answers 503, which the widget reads as no signal. That is a
+// group the store refuses, a group holding no readout, or a group whose every readout is stilled
+// or whose page names no label, no scale or no wire key.
 const GROUP = "upkeep"
 
 export function loader({ request }: Route.LoaderArgs): Promise<Response> {

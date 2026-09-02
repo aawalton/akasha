@@ -8,9 +8,13 @@ import type { Route } from "./+types/api.inbox-stoplights"
 // replaces resolved the same thing by parsing markdown frontmatter across the whole page tree,
 // uncached, once per request.
 //
-// A readout in the group with no fresh reading carried in is left out of the answer rather than
-// refused, so a group only part of the way in shows the rings it has. Only a group where nothing
-// is fresh answers 503, which the widget reads as no signal.
+// A readout in the group with no fresh reading carried in is answered as a stoplight carrying no
+// figure: the colour below every rung, an empty reading, and `readingHeld` naming whether no
+// reading was ever taken or the one taken went stale. The tile keeps its full count of three, and
+// the empty figure is what names the absence. Black is a colour both inbox scales really give — a
+// hundred waiting is black — so the colour never names it.
+//
+// Only a group no readout is left in answers 503, which the widget reads as no signal.
 //
 // The fourth argument is the whole difference between this route and the upkeep one beside it.
 // The shipped Swift decodes `let inbox: String`, non-optional, where the upkeep widget decodes

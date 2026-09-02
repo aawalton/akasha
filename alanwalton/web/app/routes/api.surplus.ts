@@ -8,8 +8,10 @@ import type { Route } from "./+types/api.surplus"
 //
 // The surplus is what Alan slept less what his day has cost him so far. It is taken on Alan's
 // workstation and carried in, because it lives in tracking rows no pod can see. A group with
-// nothing carried in answers 503, which the widget reads as no signal. That is the right answer:
-// hours shown for a reading nobody could take would tell Alan he has a night he does not have.
+// nothing carried in answers 200 and a stoplight carrying no figure: the colour below every rung,
+// an empty reading, and `readingHeld` naming whether nothing was ever carried or what was carried
+// went stale. The empty figure is what keeps hours off the ring, so Alan is never told he has a
+// night he does not have. Only a group no readout is left in answers 503.
 const GROUP = "surplus"
 
 export function loader({ request }: Route.LoaderArgs): Promise<Response> {

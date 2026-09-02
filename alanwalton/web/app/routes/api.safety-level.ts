@@ -7,9 +7,11 @@ import type { Route } from "./+types/api.safety-level"
 // and the color a reading lands on — is read off those pages rather than spelled here.
 //
 // The reading itself is taken on Alan's workstation and carried in, because the level lives in
-// tracking rows no pod can see. A group with nothing carried in answers 503, which the widget
-// reads as no signal. That is the right answer: a level shown for a reading nobody could take
-// would say where Alan is on evidence nobody has.
+// tracking rows no pod can see. A group with nothing carried in answers 200 and a stoplight
+// carrying no figure: the colour below every rung, an empty reading, and `readingHeld` naming
+// whether nothing was ever carried or what was carried went stale. The empty figure is what keeps
+// a level off the ring, so Alan is never told where he is on evidence nobody has. Only a group no
+// readout is left in answers 503.
 const GROUP = "safety"
 
 export function loader({ request }: Route.LoaderArgs): Promise<Response> {
