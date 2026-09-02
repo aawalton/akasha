@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/temper-build-deploy-checks",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./addon-roster-guard": "./addon-roster-guard/addon-roster-guard.module.code.ts",
+    "./cli-args": "./cli-args/cli-args.module.code.ts",
+    "./error-message": "./error-message/error-message.module.code.ts",
+    "./population-bound": "./population-bound/population-bound.module.code.ts",
+    "./repo-root": "./repo-root/repo-root.module.code.ts",
+    "./suggest-closest": "./suggest-closest/suggest-closest.module.code.ts",
+    "./ts-node-shapes": "./ts-node-shapes/ts-node-shapes.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addons-resolve": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "typescript": "^5.8.3",
+    "zod": "^4.3.6"
+  }
+}
