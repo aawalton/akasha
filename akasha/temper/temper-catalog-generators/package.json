@@ -10,12 +10,14 @@
     "./collectibles-catalog-tier": "./collectibles-catalog-tier/collectibles-catalog-tier.module.code.ts",
     "./lore-library-catalog-tier": "./lore-library-catalog-tier/lore-library-catalog-tier.module.code.ts",
     "./poi-catalog-tier": "./poi-catalog-tier/poi-catalog-tier.module.code.ts",
+    "./quest-catalog-tier": "./quest-catalog-tier/quest-catalog-tier.module.code.ts",
     "./recipe-catalog-tier": "./recipe-catalog-tier/recipe-catalog-tier.module.code.ts",
     "./trait-research-catalog-tier": "./trait-research-catalog-tier/trait-research-catalog-tier.module.code.ts",
     "./tribute-catalog-tier": "./tribute-catalog-tier/tribute-catalog-tier.module.code.ts",
     "./zone-completion-catalog-tier": "./zone-completion-catalog-tier/zone-completion-catalog-tier.module.code.ts"
   },
   "dependencies": {
+    "@akasha/temper-capture-datamining-reader": "workspace:*",
     "@akasha/temper-capture-shapes": "workspace:*",
     "@akasha/temper-game-catalog-capture-host": "workspace:*"
   }

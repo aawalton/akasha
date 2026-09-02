@@ -14,6 +14,7 @@ export const temperCatalogGenerators = {
     "module/collectibles-catalog-tier",
     "module/lore-library-catalog-tier",
     "module/poi-catalog-tier",
+    "module/quest-catalog-tier",
     "module/recipe-catalog-tier",
     "module/trait-research-catalog-tier",
     "module/tribute-catalog-tier",
