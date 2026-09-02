@@ -1,12 +1,23 @@
 import { dayAfter } from "@akasha/day/day-string"
 import { nyWallToInstant } from "@akasha/day/new-york-wall"
+import { dayOfName } from "../tools/lib/tracking/day-place.ts"
 import { type Ask, askOr } from "./readout-resolver.ts"
 
 export const SESSIONS_QUERY = "session-tracking-all"
 
 export const WAKE_HOUR = 6
 
+/**
+ * The key a session row carries the name of the day page it was written beside under.
+ *
+ * The store works this key out rather than taking it from a writer — `rowsPagesIn` in
+ * tools/lib/page-rows.ts hands the parent page's own name down as `<page-type>-slug` — so it names
+ * whichever day page the row really sits next to, in whichever half of the migration that is.
+ */
+const HELD_ON = "daily-tracking-slug"
+
 const NEEDED = [
+  HELD_ON,
   "title",
   "start-time",
   "end-time",
@@ -15,8 +26,8 @@ const NEEDED = [
   "capacity-rate",
 ] as const
 
-const SIDECAR_DAY = /\/(\d{4}-\d{2}-\d{2})\.(?:[\w-]+\.)?sessions\.jsonl#/
 const INSTANT_SHAPE = /^\d{4}-\d{2}-\d{2}T/
+const DAY_SHAPE = /^\d{4}-\d{2}-\d{2}$/
 const SLEEP_TITLE = "sleep"
 
 export interface SessionPage {
@@ -29,9 +40,31 @@ export interface SessionPage {
   readonly capacityRate: number | null
 }
 
-function parseSidecarDay(at: string): string | null {
-  const captured = SIDECAR_DAY.exec(at)
-  return captured === null ? null : (captured[1] ?? null)
+/**
+ * The date of the day a session was part of, read off the day page the row sits beside.
+ *
+ * This used to be parsed out of the row's `at` — the sidecar file path — by a regex that wanted a
+ * `/` immediately before the date. A markdown day's sidecar is
+ * `pages/daily-tracking/<date>.daily-tracking.sessions.jsonl` and matched; the same day once moved
+ * is `.../daily-trackings/day-<date>.daily-tracking.sessions.jsonl`, where the character before the
+ * date is the `-` of `day-`, and matched nothing. Because `allSessions` reads every row of both
+ * halves at once, the first day to move would have refused the whole reading rather than that one
+ * day, and Alan's wake window, capacity and active calories are all drawn from it.
+ *
+ * The repair is to stop reading the path. `daily-tracking-slug` is the name of the day page the row
+ * was filed beside, and `dayOfName` is the funnel's own inverse of the rule that spells that name.
+ * Neither this file nor the query it reads says how a day is spelled, so this reader and the writer
+ * that filed the row cannot come to disagree: they read one rule.
+ *
+ * The date rather than the name is what comes back, because `onDay` below compares it against a day
+ * the caller got from `getEsoDayStr`. A name handed back here would match nothing and report every
+ * day as empty without refusing.
+ */
+function dayHeldOn(values: Readonly<Record<string, unknown>>): string | null {
+  const held = values[HELD_ON]
+  if (typeof held !== "string" || held.trim() === "") return null
+  const day = dayOfName(held.trim())
+  return DAY_SHAPE.test(day) ? day : null
 }
 
 function textOf(values: Readonly<Record<string, unknown>>, key: string): string | null {
@@ -52,16 +85,12 @@ export function sessionOf(
   at: string | undefined,
   values: Readonly<Record<string, unknown>>
 ): SessionPage {
-  if (at === undefined) {
-    throw new Error(
-      `${SESSIONS_QUERY} handed back a session with no \`at\`, so nothing states which day it was part of`
-    )
-  }
-  const day = parseSidecarDay(at)
+  const day = dayHeldOn(values)
   if (day === null) {
     throw new Error(
-      `${SESSIONS_QUERY} handed back \`${at}\`, which names no \`<day>.sessions.jsonl\` sidecar, ` +
-        `so nothing states which day the session was part of`
+      `${SESSIONS_QUERY} handed back a session${at === undefined ? "" : ` in \`${at}\``} whose ` +
+        `\`${HELD_ON}\` reads \`${String(values[HELD_ON])}\`, which names no day page the funnel ` +
+        "spells, so nothing says which day the session was part of"
     )
   }
   return {
