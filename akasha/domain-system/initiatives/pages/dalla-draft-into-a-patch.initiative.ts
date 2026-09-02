@@ -8,12 +8,6 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement:
-        "A draft is judged against what the patch already holds rather than against the tree alone.",
-      workingMemory:
-        "The gate compiles a draft against HEAD plus that draft alone, so a second draft leaning on the first is refused. Interdependent changes cannot be queued into one patch until this is so.",
-    },
-    {
       statement: "A principal takes in the patch of a subagent that stops.",
       workingMemory:
         "Taking one in is the same three-way merge a draft is: HEAD is the base, the principal's patch is ours, the subagent's is theirs, and what conflicts lands in the principal's conflicts. The patch also keeps the agent ids it has taken in, cleared when it applies or is dropped, so the warrant refusing the next draft can say why reads are owed on files the principal never touched.",
