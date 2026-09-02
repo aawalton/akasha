@@ -1,11 +1,13 @@
-import { existsSync, statSync } from "node:fs"
+import { existsSync, rmSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages-system/code-root"
+import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
 import { TSCONFIG_NAME, tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
 import { tstlCommand, tstlRoot } from "@akasha/temper-addon-build/lua-build-command"
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
+import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
 import { ran, shown } from "@akasha/utils-run/running"
 
 const SAID_WRONG = 1
@@ -26,8 +28,7 @@ const WATCH = "--watch"
 const TAKING_A_VALUE = ["--code-root", "--tstl-root"]
 const TAKING_NOTHING = [ALL, BUILD_ONLY, WATCH]
 
-const INSTALLED_BY =
-  "temper-addon-generate-load-order, temper-addon-copy-metadata and temper-addon-install"
+const INSTALLED_BY = "temper-addon-install"
 
 type Built = {
   readonly name: string
@@ -124,7 +125,7 @@ function compiled(
 }
 
 function lineOf(one: Built): string {
-  const held = one.code === 0 ? "written" : "already there from before"
+  const held = one.code === 0 ? "written" : "emitted despite the errors"
   return `${one.name}: exit ${String(one.code)}, ${String(one.errors.length)} error(s), ${String(one.bytes)} byte(s) ${held} at ${one.bundle}`
 }
 
@@ -146,7 +147,7 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
 
   if (!watch && !said(argv, BUILD_ONLY)) {
     return refused(
-      `installing an addon waits on ${INSTALLED_BY}, each of which still refuses every call, so nothing here reaches the game folder. Say ${BUILD_ONLY} to compile to \`${DIST_UNDER}/\`.`,
+      `installing an addon waits on ${INSTALLED_BY}, which still refuses every call, so nothing here reaches the game folder. Say ${BUILD_ONLY} to build to \`${DIST_UNDER}/\`.`,
       DATA
     )
   }
@@ -237,6 +238,13 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
       target.canonicalName,
       `${target.canonicalName}${BUNDLE_SUFFIX}`
     )
+    for (const stale of [
+      join(addonsRoot, DIST_UNDER, target.canonicalName),
+      ...readSiblingAddonNames(target.dir).map((name) => siblingDistDir(addonsRoot, name)),
+    ]) {
+      rmSync(stale, { recursive: true, force: true })
+    }
+
     const one = compiled(root, tstl, config, target.canonicalName, bundle, deadline - Date.now())
     built.push(one)
     if (one.code !== 0) {
@@ -253,6 +261,18 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
         report: reportOf(built, root, tstl),
         refusals: [
           `${one.name} compiled clean and left no ${bundle}, so a build reported here is a build over nothing`,
+        ],
+        code: FAILED,
+      }
+    }
+
+    try {
+      await copyAddonMetadata(root, target.dir, target.canonicalName)
+    } catch (thrown) {
+      return {
+        report: reportOf(built, root, tstl),
+        refusals: [
+          `${one.name} compiled, and what it ships beside its Lua did not copy: ${messageOf(thrown)}`,
         ],
         code: FAILED,
       }

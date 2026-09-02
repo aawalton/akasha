@@ -26,8 +26,8 @@ export const temperAddonBuild = {
     "`--watch` takes one addon, copies nothing and installs nothing, so `--all` and `--build-only` are refused beside it.",
     "an addon folder holding no `tsconfig.json` has one written into `dist/.tstl/` from the bundle entry its page names.",
     "the answer says how many bytes of Lua each addon left, because a compiler writing nothing and a compiler finding nothing wrong read alike.",
-    "installing waits on `temper-addon-generate-load-order`, `temper-addon-copy-metadata` and `temper-addon-install`, so `--build-only` is said or the call is refused before anything compiles.",
-    "nothing already in the build output is removed first, since what would write the metadata back is not here yet.",
+    "installing waits on `temper-addon-install`, so `--build-only` is said or the call is refused before anything compiles.",
+    "the addon's build output is emptied before the compiler runs, and the metadata is written back once the Lua is there.",
     "the whole run is bounded at an hour, and a run reaching that bound refuses with what it was compiling.",
     "a checkout holding no compiler at the root named is refused before anything is compiled.",
   ],
@@ -69,12 +69,20 @@ export const temperAddonBuild = {
       statement: "A run reaching its bound refuses by naming the addon being compiled.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing already in the build output is taken away here.",
+      invariantKind: "departure",
+      statement: "An addon's build output is emptied before that addon is compiled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The build output an emptied folder held is written again once the Lua is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sibling addon's build output is emptied beside the addon shipping the sibling.",
     },
     {
       invariantKind: "gap",
-      statement: "Installing what was built waits on the commands copying metadata and installing.",
+      statement: "Installing what was built waits on the command that installs.",
     },
   ],
 } as const satisfies Command
