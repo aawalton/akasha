@@ -163,7 +163,8 @@ declare function zo_iconTextFormat(
   iconPath: string,
   width: number | string,
   height: number | string,
-  text: string
+  text: string,
+  inheritColor?: boolean
 ): string
 
 interface SceneManager {
