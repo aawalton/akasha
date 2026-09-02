@@ -31,6 +31,15 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement: "Nothing but that face reaches the shadow's reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A shadow worked out for a change comes back beside the reading that shadow was bound over.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every way a shadow is made binds that face.",
     },
     {

@@ -109,7 +109,7 @@ export const THROWS_UNDER =
 export const NAMES_SHADOW =
   "export function namesShadow(change, shadow) {\n" +
   '  const held = shadow !== undefined && typeof shadow.pageOf === "function"\n' +
-  "  return held && shadow.reading !== undefined\n" +
+  "  return held && shadow.index !== undefined\n" +
   "    ? []\n" +
   '    : [{ path: "shadow", reason: "no shadow was handed over" }]\n' +
   "}\n"

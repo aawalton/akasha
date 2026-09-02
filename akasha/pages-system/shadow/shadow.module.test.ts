@@ -139,7 +139,7 @@ function landedInto(root: string, changes: readonly FileEdit[]): string {
 
 function shadowOf(cast: Cast): Reading {
   if ("refused" in cast) throw new Error(cast.refused)
-  return cast.shadow.reading
+  return cast.reading
 }
 
 test("the shadow answers exactly what the index answers once that change has really landed", () => {
@@ -256,7 +256,7 @@ test("an audit leaves everything as it stands, so nothing is worked out and no b
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   expect(asked).toBe(0)
-  expect(everythingRead(cast.shadow.reading)).toEqual(everythingRead(readingIn(repo)))
+  expect(everythingRead(cast.reading)).toEqual(everythingRead(readingIn(repo)))
 })
 
 test("a shadow that could not be worked out is refused, never stood in for by the committed index", () => {

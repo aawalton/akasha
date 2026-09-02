@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { readingIn } from "@akasha/indexes"
 import { answeringOver } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
 import { indexTakenFrom, listedFiled, pathFiled, pathsTakenFrom } from "@akasha/indexes/testing"
@@ -93,16 +94,16 @@ function tailedWorld(): Change {
 }
 
 function counting(root: string, held: Shadow, asked: () => undefined): Shadow {
+  const base = readingIn(root)
   const reading: Reading = {
-    holds: (at) => held.reading.holds(at),
+    holds: (at) => base.holds(at),
     listing: (at) => {
       asked()
-      return held.reading.listing(at)
+      return base.listing(at)
     },
-    lines: (at) => held.reading.lines(at),
+    lines: (at) => base.lines(at),
   }
   return {
-    reading,
     index: answeringOver(reading, root, (path) => held.pageOf(path)),
     filed: () => held.filed(),
     pageOf: (path) => held.pageOf(path),

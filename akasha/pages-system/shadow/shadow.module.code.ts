@@ -8,14 +8,18 @@ import type { Change } from "../change/change.module.code.ts"
 import { type Value, valueAt, valueIn } from "../page/value/page-value.module.code.ts"
 
 export type Shadow = {
-  readonly reading: Reading
   readonly index: Answering
   readonly filed: () => readonly Filing[]
   readonly pageOf: (path: string) => Value | null
   readonly codeAt: (path: string) => string | null
 }
 
-export type Cast = { readonly shadow: Shadow } | { readonly refused: string }
+export type Made = {
+  readonly shadow: Shadow
+  readonly reading: Reading
+}
+
+export type Cast = Made | { readonly refused: string }
 
 export const NOT_WORKED_OUT =
   "the files and index as this change leaves them could not be worked out"
@@ -68,11 +72,9 @@ function codeOver(change: Change): (path: string) => string | null {
   }
 }
 
-export function shadowAt(root: string): Shadow {
-  const reading = readingIn(root)
+function shadowOver(reading: Reading, root: string): Shadow {
   const pageOf = remembering(filedIn(reading, root))
   return {
-    reading,
     index: answeringOver(reading, root, pageOf),
     filed: () => [],
     pageOf,
@@ -80,8 +82,15 @@ export function shadowAt(root: string): Shadow {
   }
 }
 
+export function shadowAt(root: string): Shadow {
+  return shadowOver(readingIn(root), root)
+}
+
 function castOver(change: Change): Cast {
-  if (nothingMoved(change)) return { shadow: shadowAt(change.root) }
+  if (nothingMoved(change)) {
+    const reading = readingIn(change.root)
+    return { shadow: shadowOver(reading, change.root), reading }
+  }
   const carried = new Set(change.changed)
   const filed = filedIn(readingIn(change.root), change.root)
   const pageOf = remembering((path) => {
@@ -99,7 +108,7 @@ function castOver(change: Change): Cast {
     const reading = settled.reading
     const index = answeringOver(reading, change.root, pageOf)
     const filed = (): readonly Filing[] => settled.filings
-    return { shadow: { reading, index, filed, pageOf, codeAt: codeOver(change) } }
+    return { shadow: { index, filed, pageOf, codeAt: codeOver(change) }, reading }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { refused: `${NOT_WORKED_OUT} — ${why}` }
@@ -107,12 +116,12 @@ function castOver(change: Change): Cast {
 }
 
 export function shadowAsked(change: Change): Shadow {
-  let held: Shadow | null = null
-  const worked = (): Shadow => {
+  let held: Made | null = null
+  const worked = (): Made => {
     if (held !== null) return held
     const found = shadowFor(change)
     if ("refused" in found) throw new Error(found.refused)
-    held = found.shadow
+    held = found
     return held
   }
   const reading: Reading = {
@@ -120,13 +129,12 @@ export function shadowAsked(change: Change): Shadow {
     listing: (at) => worked().reading.listing(at),
     lines: (at) => worked().reading.lines(at),
   }
-  const pageOf = (path: string): Value | null => worked().pageOf(path)
+  const pageOf = (path: string): Value | null => worked().shadow.pageOf(path)
   return {
-    reading,
     index: answeringOver(reading, change.root, pageOf),
-    filed: () => worked().filed(),
+    filed: () => worked().shadow.filed(),
     pageOf,
-    codeAt: (path) => worked().codeAt(path),
+    codeAt: (path) => worked().shadow.codeAt(path),
   }
 }
 
