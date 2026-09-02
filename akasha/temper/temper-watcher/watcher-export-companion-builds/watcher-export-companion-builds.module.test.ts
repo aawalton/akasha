@@ -2,15 +2,14 @@ import { expect, test } from "bun:test"
 import type { Page } from "@akasha/pages-core/page-types"
 import { asPage } from "@akasha/pages-core/page-types"
 import type {
-  CompanionBuildsSurroundings,
   SignedInAnswer,
   SignedInReader,
-} from "./watcher-export-companion-builds.module.code.ts"
+} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import type { CompanionBuildsSurroundings } from "./watcher-export-companion-builds.module.code.ts"
 import {
   readTargetBuilds,
   runExportCompanionBuilds,
   sameTargetBuilds,
-  signedInUserId,
   targetsAsConfigInputs,
   updatedAtSeconds,
   withTargetBuilds,
@@ -270,16 +269,11 @@ test("a user id the caller names is taken over the signed-in one", async () => {
   expect(result.modified).toBe(true)
 })
 
-test("a session naming no user is refused", async () => {
-  await expect(signedInUserId(SIGNED_OUT)).rejects.toThrow(
-    "no game account is signed in (the session named no user)"
-  )
-})
-
 test("a refused sign-in carries the reason given", async () => {
   const angry = supabaseAnswering({ data: { user: null }, error: { message: "token expired" } })
-  await expect(signedInUserId(angry)).rejects.toThrow(
-    "no game account is signed in (token expired)"
+  const { surroundings } = recording()
+  await expect(runExportCompanionBuilds(WITHOUT_BLOCK, angry, {}, surroundings)).rejects.toThrow(
+    "no signed-in user to export these companion builds (token expired)"
   )
 })
 

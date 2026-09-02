@@ -53,10 +53,6 @@ export const watcherExportCompanionBuilds = {
     },
     {
       invariantKind: "departure",
-      statement: "A user id the caller names is taken over the signed-in one.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A caller may hand in what reads the progress pages.",
     },
     {
@@ -78,10 +74,6 @@ export const watcherExportCompanionBuilds = {
     {
       invariantKind: "departure",
       statement: "A caller may hand in what answers who is signed in.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What answers who is signed in is asked for nothing but the user id.",
     },
     {
       invariantKind: "absence",

@@ -13,6 +13,10 @@ import {
   replaceOrInsertLuaBlock,
 } from "../watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
 import { writeSideFileIfChanged } from "../watcher-side-file/watcher-side-file.module.code.ts"
+import {
+  type SignedInReader,
+  userIdFor,
+} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 export const COMPANION_PROGRESS_PAGE_TYPE = "temper-companion-progress"
 
@@ -125,25 +129,6 @@ export const WATCHER_SURROUNDINGS: CompanionBuildsSurroundings = {
   noteError: logError,
 }
 
-export interface SignedInAnswer {
-  readonly data: { readonly user: { readonly id: string } | null }
-  readonly error: { readonly message: string } | null
-}
-
-export interface SignedInReader {
-  readonly auth: { readonly getUser: () => Promise<SignedInAnswer> }
-}
-
-export async function signedInUserId(supabase: SignedInReader): Promise<string> {
-  const { data, error } = await supabase.auth.getUser()
-  const user = data.user
-  if (error != null || user == null) {
-    const why = error?.message ?? "the session named no user"
-    throw new Error(`no game account is signed in (${why})`)
-  }
-  return user.id
-}
-
 async function companionTargetOf(
   row: Page,
   surroundings: CompanionBuildsSurroundings
@@ -204,7 +189,7 @@ export async function runExportCompanionBuilds(
   options: ExportCompanionBuildsOptions = {},
   surroundings: CompanionBuildsSurroundings = WATCHER_SURROUNDINGS
 ): Promise<ExportCompanionBuildsResult> {
-  const userId = options.userId ?? (await signedInUserId(supabase))
+  const userId = await userIdFor(supabase, options.userId, "export these companion builds")
   const targets = await collectCompanionTargets(userId, surroundings)
   const inputs = targetsAsConfigInputs(targets)
 
