@@ -1,6 +1,6 @@
-import { open, stat } from 'node:fs/promises';
 import * as path from 'node:path';
 import { z } from 'zod';
+import { emptyTail, foldTail, type Tail } from '../../seat/tail-fold.ts';
 import { anchorEnding, type Checkpoint, readCheckpoints, writeCheckpoints } from './subagent-checkpoints.ts';
 import { applyRecord, emptySubagentState, isJsonObject, type RunningSubagent, runningSubagents, type SubagentState } from './subagent-core.ts';
 
@@ -14,16 +14,20 @@ export interface SubagentNode {
 
 const MAX_SUBAGENT_DEPTH = 5;
 
-const NEWLINE = 0x0a;
-
 interface Cursor {
 	path: string;
-	offset: number;
-	// Where the last line the state has taken in ends. Read off the bytes rather than measured
-	// back off `carry`, because a read that lands mid-character decodes those bytes to one
-	// replacement character and `carry` no longer weighs what it was cut from.
-	boundary: number;
-	carry: string;
+	// Where the fold stands, held by `seat/tail-fold.ts`: always at a line ending, beside the 64
+	// bytes that say the file still reads the way it did when it was folded to there. This reader
+	// used to keep its own offset at the last byte READ and carry the undecoded remainder as text,
+	// which is where records came back wrong: a read ends at the file's size and a file being
+	// appended to lands mid-character as often as not, so those bytes decoded to a replacement
+	// character and no amount of prepending them to the next read put the character back. The
+	// transcript panel's fold had the same defect and the same cure, so there is one implementation
+	// of it rather than two that must stay in step.
+	tail: Tail;
+	// Replaced outright when the fold restarts, never merged into: a file that no longer reads the
+	// way it did is being read from its first byte again, and what this held describes bytes that
+	// are gone.
 	state: SubagentState;
 }
 
@@ -43,81 +47,53 @@ export function createSubagentReader(): SubagentReader {
 	const cursors = new Map<string, Cursor>();
 	const touched = new Set<string>();
 	// Read at once rather than on first use, so it lands while `agent-forest` is still being asked.
-	const banked = readCheckpoints().catch(() => new Map<string, Checkpoint>());
+	const bankedBook = readCheckpoints().catch(() => new Map<string, Checkpoint>());
 	let moved = false;
 	let bankedAt = 0;
 
 	const advance = async (cursorKey: string, filePath: string): Promise<SubagentState> => {
 		touched.add(cursorKey);
-		let cursor = cursors.get(cursorKey);
-		let resumable: Checkpoint | undefined;
-		if (cursor === undefined || cursor.path !== filePath) {
+		let held = cursors.get(cursorKey);
+		if (held === undefined || held.path !== filePath) {
 			// A cursor that already stands for another file keeps its state, so what it knows is
-			// newer than the book and the book is not consulted.
-			if (cursor === undefined) {
-				const held = (await banked).get(cursorKey);
-				if (held !== undefined && held.path === filePath) { resumable = held; }
+			// newer than the book and the book is not consulted. Its fold starts at the first byte
+			// of the file now named, which is not a restart of the same file and does not drop it.
+			let tail = emptyTail();
+			let state = held?.state ?? emptySubagentState();
+			if (held === undefined) {
+				const banked = (await bankedBook).get(cursorKey);
+				if (banked !== undefined && banked.path === filePath) {
+					// The offset, the anchor and the state are taken together or not at all. The
+					// fold checks the anchor at that offset and, where the file no longer reads
+					// that way, restarts from the first byte and drops the state through `reset`.
+					tail = { offset: banked.offset, anchor: banked.anchor };
+					state = banked.state;
+				}
 			}
-			cursor = {
-				path: filePath,
-				offset: 0,
-				boundary: 0,
-				carry: '',
-				state: cursor?.state ?? emptySubagentState(),
-			};
-			cursors.set(cursorKey, cursor);
+			held = { path: filePath, tail, state };
+			cursors.set(cursorKey, held);
 			moved = true;
 		}
 
-		let size: number;
-		try {
-			size = (await stat(filePath)).size;
-		} catch {
-			return cursor.state;
-		}
-
-		if (
-			resumable !== undefined &&
-			resumable.offset <= size &&
-			(await anchorEnding(filePath, resumable.offset)) === resumable.anchor
-		) {
-			cursor.offset = resumable.offset;
-			cursor.boundary = resumable.offset;
-			cursor.state = resumable.state;
-		}
-
-		if (size < cursor.offset) {
-			cursor.offset = 0;
-			cursor.boundary = 0;
-			cursor.carry = '';
-		}
-		if (size === cursor.offset) { return cursor.state; }
-
-		let text: string;
-		const handle = await open(filePath, 'r');
-		try {
-			const length = size - cursor.offset;
-			const buffer = Buffer.allocUnsafe(length);
-			const { bytesRead } = await handle.read(buffer, 0, length, cursor.offset);
-			text = buffer.subarray(0, bytesRead).toString('utf8');
-			const lastLineEnd = bytesRead === 0 ? -1 : buffer.lastIndexOf(NEWLINE, bytesRead - 1);
-			if (lastLineEnd >= 0) { cursor.boundary = cursor.offset + lastLineEnd + 1; }
-			cursor.offset += bytesRead;
-			if (bytesRead > 0) { moved = true; }
-		} finally {
-			await handle.close();
-		}
-
-		const lines = (cursor.carry + text).split('\n');
-		cursor.carry = lines.pop() ?? '';
-		for (const line of lines) {
-			if (line.trim().length === 0) { continue; }
-			try {
-				const parsed = TRANSCRIPT_RECORD.safeParse(JSON.parse(line));
-				if (parsed.success) { applyRecord(cursor.state, parsed.data); }
-			} catch {
-			}
-		}
+		const cursor = held;
+		const fold = await foldTail(cursor.tail, filePath, {
+			line: (line) => {
+				if (line.trim().length === 0) { return undefined; }
+				try {
+					const parsed = TRANSCRIPT_RECORD.safeParse(JSON.parse(line));
+					if (parsed.success) { applyRecord(cursor.state, parsed.data); }
+				} catch {
+				}
+				return undefined;
+			},
+			reset: () => {
+				cursor.state = emptySubagentState();
+				return undefined;
+			},
+		});
+		// `folded` counts the bytes committed, which stops at the last line ending: a poll that read
+		// half a record has moved nothing worth banking, and says so.
+		if (fold.folded > 0) { moved = true; }
 		return cursor.state;
 	};
 
@@ -139,17 +115,20 @@ export function createSubagentReader(): SubagentReader {
 		return nodes;
 	};
 
-	// A cursor is banked at the last line it finished, never mid-record: `carry` holds the bytes of
-	// a line not yet parsed, and a resumed fold that skipped them would lose a record entire.
+	// A cursor is banked at the last line it finished, never mid-record. `tail.offset` is that line
+	// ending and nothing else — the fold holds it there and hands back the bytes past it rather
+	// than committing them — so a checkpoint never claims more bytes than were folded, and a fold
+	// resumed on it cannot skip a record. The anchor is read again here rather than taken off the
+	// tail, so a path whose file has since gone is dropped from the book instead of banked.
 	const bank = async (): Promise<undefined> => {
-		const book = new Map<string, Checkpoint>();
+		const writing = new Map<string, Checkpoint>();
 		for (const [key, cursor] of cursors) {
-			if (cursor.boundary <= 0) { continue; }
-			const anchor = await anchorEnding(cursor.path, cursor.boundary);
+			if (cursor.tail.offset <= 0) { continue; }
+			const anchor = await anchorEnding(cursor.path, cursor.tail.offset);
 			if (anchor === null) { continue; }
-			book.set(key, { path: cursor.path, offset: cursor.boundary, anchor, state: cursor.state });
+			writing.set(key, { path: cursor.path, offset: cursor.tail.offset, anchor, state: cursor.state });
 		}
-		await writeCheckpoints(book);
+		await writeCheckpoints(writing);
 		return undefined;
 	};
 
