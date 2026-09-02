@@ -6,6 +6,8 @@ const CLIMBING = rungsIn({ redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 })
 test("a rung stated as text is read as the number that rung spells", () => {
   expect(statedAt("2.5")).toBe(2.5)
   expect(statedAt(" -1.5 ")).toBe(-1.5)
+  expect(statedAt(" 21 ")).toBe(21)
+  expect(statedAt(11)).toBe(11)
   expect(statedAt(0)).toBe(0)
 })
 
@@ -14,7 +16,10 @@ test("a rung stating nothing that is a number is no rung", () => {
   expect(statedAt("   ")).toBeNull()
   expect(statedAt("soon")).toBeNull()
   expect(statedAt(undefined)).toBeNull()
+  expect(statedAt(null)).toBeNull()
+  expect(statedAt(true)).toBeNull()
   expect(statedAt(Number.NaN)).toBeNull()
+  expect(statedAt(Number.POSITIVE_INFINITY)).toBeNull()
 })
 
 test("the rungs are ordered from black through blue rather than by what they state", () => {

@@ -1,25 +1,6 @@
 import { expect, test } from "bun:test"
 import { answering } from "../readout-answering/readout-answering.module.code.ts"
-import { declaredThreshold, readScale, scaleIn } from "./readout-scale-reading.module.code.ts"
-
-test("a rung stated as a number is that number", () => {
-  expect(declaredThreshold(11)).toBe(11)
-  expect(declaredThreshold(0)).toBe(0)
-})
-
-test("a rung stated as text is read as the number it spells", () => {
-  expect(declaredThreshold(" 21 ")).toBe(21)
-})
-
-test("a rung stating no number is no rung", () => {
-  expect(declaredThreshold("")).toBe(null)
-  expect(declaredThreshold("   ")).toBe(null)
-  expect(declaredThreshold("soon")).toBe(null)
-  expect(declaredThreshold(Number.POSITIVE_INFINITY)).toBe(null)
-  expect(declaredThreshold(null)).toBe(null)
-  expect(declaredThreshold(undefined)).toBe(null)
-  expect(declaredThreshold(true)).toBe(null)
-})
+import { readScale, scaleIn } from "./readout-scale-reading.module.code.ts"
 
 test("a page stating every rung the ring needs is a scale", () => {
   expect(scaleIn({ orangeAt: 11, redAt: 21, blackAt: 31 })).toEqual({

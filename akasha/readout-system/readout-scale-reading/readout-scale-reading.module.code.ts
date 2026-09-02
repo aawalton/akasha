@@ -1,24 +1,16 @@
 import { askingFor, type Fetcher } from "@akasha/pages-system-service/calling"
 import type { RingScale } from "../readout-body/readout-body.module.code.ts"
+import { statedAt } from "../readout-tier/readout-tier.module.code.ts"
 
 const READOUT_SCALE = "readout-scale"
 
-export function declaredThreshold(value: unknown): number | null {
-  if (typeof value === "number") return Number.isFinite(value) ? value : null
-  if (typeof value !== "string") return null
-  const trimmed = value.trim()
-  if (trimmed.length === 0) return null
-  const parsed = Number(trimmed)
-  return Number.isFinite(parsed) ? parsed : null
-}
-
 export function scaleIn(values: Readonly<Record<string, unknown>>): RingScale | undefined {
-  const orangeAt = declaredThreshold(values.orangeAt)
-  const redAt = declaredThreshold(values.redAt)
-  const blackAt = declaredThreshold(values.blackAt)
+  const orangeAt = statedAt(values.orangeAt)
+  const redAt = statedAt(values.redAt)
+  const blackAt = statedAt(values.blackAt)
   if (orangeAt === null || redAt === null || blackAt === null) return undefined
 
-  const yellowAt = declaredThreshold(values.yellowAt)
+  const yellowAt = statedAt(values.yellowAt)
   return { orangeAt, redAt, blackAt, ...(yellowAt === null ? {} : { yellowAt }) }
 }
 

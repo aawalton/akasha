@@ -10,10 +10,6 @@ export const readoutScaleReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rung stated as text is read as the number that rung spells.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A scale missing a rung the ring needs is no scale.",
     },
     {
