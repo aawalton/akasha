@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "1 of 99 page types recreated: temper-catalog/armor-traits, pages and entries. Forced by `introduced-property-is-a-part`: a property more than one page type carries lives on a base page type. `temper-thing` holds title, key, description, icon, display-order; `temper-catalog-thing` holds effect, material, eso-trait-constant-name and the `effects` and `quality-values` entry shapes. A page type extends its base and parts what it introduces. Clusters: catalog 73, character 10, holdings 6.",
+        "6 of 8 clusters landed: world, effects, companions, skills 1995, progress 471, character 116. Gear and holdings run on. A page carrying entry files needs a folder of its own under `pages/`, which the armor-traits exemplar got wrong and every cluster was repaired for. The `effects` shape now holds buff rows and scaling, so 150 refused rows can land. Left: move `temper-thing` and `temper-catalog-thing` into plural folders once the swarm settles. The 15,000-byte file ceiling loses 193MB.",
     },
     {
       statement: "No part of temper is outside akasha.",
