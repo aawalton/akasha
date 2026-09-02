@@ -8,11 +8,6 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "A patch that cannot rebase carries its conflicts where the agent resolves them.",
-      workingMemory:
-        "The marked body is carried into the patch, and the draft, `akasha patch` and a refused apply each name the paths carrying a conflict. What is left is an act to see and replace a drafted body.",
-    },
-    {
       statement:
         "A draft is judged against what the patch already holds rather than against the tree alone.",
       workingMemory:
