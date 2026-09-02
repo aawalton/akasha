@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { mergeUncommitted } from "@akasha/pages-system/page-uncommitted"
-import { keepReading, readingAged, readingKept } from "./readout-reading.module.code.ts"
+import { keepReading, readingAged, readingKept, readingOn } from "./readout-reading.module.code.ts"
 
 const PAGE = "akasha/readout-system/readout/readouts/backlog/backlog.readout.ts"
 
@@ -46,4 +46,21 @@ test("how long ago a reading was taken is measured from the moment it carries", 
 
 test("a moment that cannot be read refuses rather than answering an age", () => {
   expect(() => readingAged({ value: 19, at: "never" }, new Date(TAKEN))).toThrow()
+})
+
+test("a reading is read back off the values a page carries", () => {
+  expect(readingOn({ lastValue: 19, lastValueAt: TAKEN })).toEqual({ value: 19, at: TAKEN })
+})
+
+test("a reading of nothing on a row is a reading rather than an absence", () => {
+  expect(readingOn({ lastValue: 0, lastValueAt: TAKEN })?.value).toBe(0)
+})
+
+test("values carrying neither half carry no reading", () => {
+  expect(readingOn({ slug: "backlog" })).toBeNull()
+})
+
+test("values carrying one half alone carry no reading", () => {
+  expect(readingOn({ lastValue: 19 })).toBeNull()
+  expect(readingOn({ lastValueAt: TAKEN })).toBeNull()
 })
