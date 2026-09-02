@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const threeModulesAnswerWhenAlanWokeAndTwoOfThemGuess = {
+  id: "01a0612e-d9b2-7458-a457-c3e8e8985358",
+  pageTypeSlug: "finding",
+  slug: "three-modules-answer-when-alan-woke-and-two-of-them-guess",
+  domainSlug: "domain/alan-harness",
+  claim:
+    "Three modules answer when Alan woke and two guess: `readouts/session-readings.ts:194` and `tools/lib/wake-day.ts:81` fall back to 06:00 New York, where `@akasha/health-samples-day/wake-day-window` refuses. 94 of his 133 day pages recorded no wake, and the guess is over 30 minutes out on 40 of the 48 days it can be checked against. It barely moves active calories, under 1 percent on 23 of 30 days, but it moves plant grams by over half on 2 of 21 days, a meal at a time.",
+  evidence:
+    "Measured 2026-09-02 over the 133 `daily-tracking` pages in `akasha/alan/daily-tracking/daily-trackings`. 48 hold a session titled sleep ending inside their own ESO day; 39 hold that and so does the day after, which a whole window needs. The earliest recorded wake is 2026-06-19 and `git log --all --diff-filter=A` over `*.daily-tracking.sessions.jsonl` finds none earlier, so the days before it recorded none rather than losing them in the move.\n\nHow far out, over the 48 checkable days: 8 within 30 minutes of 06:00, 5 within the hour, 15 by 1 to 2 hours, 15 by 2 to 4, 3 by 4 to 8, 2 by over 8.\n\nHow far the figures move. Active calories, over the 30 days both spans yield one: 23 under 1 percent, 4 by 1 to 5, 1 by 5 to 10, 1 by 10 to 25, 1 by 25 to 50. The errors cancel, the span opening early into hours he slept and burned little and closing early by as much. Plant grams, over the 21 days either span yields one: 19 identical, 2 by over 50 percent. Food is a lump, so a boundary either cuts a meal off or does not.\n\nTwo stages of `runCommitPoints` write a figure counted over the guess: line 58 `rollupActiveCaloriesForDay` lands `active-calories`, line 64 `rollupNutritionForDay` lands `nutrition-points`. Line 79 reaches `wokeOn` for stoplight source points and writes nothing today, masked by an unrelated refusal. `wakeDayOf` in `inbox-tracking/email-entry.ts` and `commands/food/log.ts` only decides which day a thing files under. The `food-entry-plants-since-waking` query feeds the `upkeep-plants` readout, shown and not written.\n\n`anchored-from-completion` on this page type is the precedent for recording how a figure was reached rather than refusing the figure.",
+} as const satisfies Finding
