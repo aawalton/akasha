@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theWatchersDeletedPredecessorTestsAreStillInGitAndRecoverable = {
+  id: "01a063cc-d760-72bc-bbb7-f2799722d1b4",
+  pageTypeSlug: "finding",
+  slug: "the-watchers-deleted-predecessor-tests-are-still-in-git-and-recoverable",
+  domainSlug: "domain/temper",
+  claim:
+    "All 27 test files that `09f964f5c5` deleted from `temper/scripts` are readable at that commit's parent and carry 674 assertions between them. A recreation here does have a predecessor to differential-test against, one command away. This supersedes `the-watcher-recreation-has-no-predecessor-to-test-against`, which says no original survives, and that holds only for the working tree. Deleted from the tip is not gone.",
+  evidence:
+    "`git show 09f964f5c5^:temper/scripts/src/<path>` answers the whole body for each of the 27. Every one was extracted that way into a scratch folder and counted: 674 `expect(` calls. `git cat-file -e HEAD:temper/scripts/src/watcher/import-tasks.unit.test.ts` fails, so the files are genuinely absent at the tip and the recovery is from history rather than from the tree.\n\nTen cover watcher-exe: `auth-callback` 16 assertions, `dispatch` 53, `updater` 25, `supabase-client` 13, `config` 7, `run-outcome` 22, `run-outcome-observe` 22, `retry` 3, `self-write-guard` 7, `stable-read` 19. The rest cover the handlers and the landing helpers, `import-tasks` and `import-data-mining` among them.\n\nFour of those ten cover modules recreated the same night this was found, and the recovered files reached their authors before they finished, turning invented assertions into ported ones.\n\nThe sibling finding `a-twin-matching-the-legacy-tip-can-hold-less-proof-than-the-package-once-had` already states the rule this instances: coverage is owed against the predecessor's fullest state rather than its last one. What it did not say is that the fullest state is still readable.\n\nTwo observations from the superseded finding survive it and are not answered by any recovery. The bundler replaces `__WATCHER_VERSION__`, `__SUPABASE_URL__` and `__SUPABASE_ANON_KEY__` at build time, so the branch a compiled worker takes is unreachable from source and no test in either tree has ever run it. The worker itself has never been run from akasha, correctly, because it is outward-facing.",
+} as const satisfies Finding
