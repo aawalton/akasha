@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "Modelling landed at `7a08425a11`, `4514af0566` and `93f244918f`: a readout carries query, enabled, drawn-as and color fields, a group carries `sequence-slugs` and `sort-order`, and `claude-usage` with its 4 readouts is in akasha. The dark inbox lights are fixed: all 8 reading services ran clean at 14:50 on 09-02, timers healthy. Two blockers left — akasha has no `page-query` page type, so ~104 queries have nowhere to go, and `readout-group-serving` never reads `enabled`.",
+        "Modelling landed at `7a08425a11`, `4514af0566` and `93f244918f`. Dark inbox lights fixed: all 8 reading services ran clean at 14:50 on 09-02. `readout-group-serving` now honours `enabled` at `e833a3dfa8`; no readout in akasha states it so nothing moved today, but the markdown twin has honoured it all along and one markdown readout states false, so the two engines would have parted on the next ablation. One blocker left: akasha has no `page-query` page type, so ~104 queries have nowhere to go.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
