@@ -11,6 +11,8 @@ export type Shaping = {
   readonly declaring?: Standing["declaring"]
   readonly naming?: Standing["naming"]
   readonly parts?: Standing["parts"]
+  readonly holds?: Standing["holds"]
+  readonly declared?: Standing["declared"]
   readonly deep?: readonly string[]
 }
 
@@ -36,6 +38,8 @@ export function folderFrom(shaping: Shaping): (names: readonly string[]) => Stan
       under: (at) => grouped.at(at),
       declaring,
       naming: shaping.naming ?? ((): null => null),
+      holds: shaping.holds ?? ((): null => null),
+      declared: shaping.declared ?? ((): ReadonlySet<string> => new Set<string>()),
       parts: shaping.parts ?? ((page) => [page.path]),
     }
   }

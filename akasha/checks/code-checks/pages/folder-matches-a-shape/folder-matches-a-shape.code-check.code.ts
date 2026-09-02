@@ -9,7 +9,7 @@ import type { Known } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, type Held, heldIn, partedIn } from "@akasha/pages-system/page-file-name"
-import { textAt } from "@akasha/pages-system/page-value"
+import { textAt, textsAt } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
   bodyOf,
@@ -42,6 +42,8 @@ const MODULES = "modules"
 const PAGES = "pages"
 
 const PLURAL_SLUG = "pluralSlug"
+
+const PART_SLUGS = "partSlugs"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -313,13 +315,21 @@ export function openingWith(named: string, above: readonly string[]): string | n
   return null
 }
 
-export function namesOver(
+export type Holding = {
+  readonly names: readonly string[]
+  readonly holds: string | null
+  readonly declared: ReadonlySet<string>
+}
+
+const NOTHING: Holding = { names: [], holds: null, declared: new Set<string>() }
+
+export function holdingOver(
   index: Answering,
   grouped: Grouped,
   pageTypes: ReadonlySet<string>,
   fileProperties: ReadonlySet<string>
-): (folder: string) => readonly string[] {
-  const held = new Map<string, readonly string[]>()
+): (folder: string) => Holding {
+  const held = new Map<string, Holding>()
   return (folder) => {
     const found = held.get(folder)
     if (found !== undefined) return found
@@ -328,29 +338,27 @@ export function namesOver(
       .map((one) => heldIn(one, pageTypes, fileProperties))
       .filter((one) => one.kind === "page")
     const page = pages.length === 1 ? pages[0] : undefined
-    let made: readonly string[] = []
+    let made = NOTHING
     if (page !== undefined && page.slug !== null && page.pageTypeSlug !== null) {
       const value = index.pageAt(page.pageTypeSlug, page.slug)
       const plural = value === null ? null : textAt(value, PLURAL_SLUG)
-      made = plural === null ? [page.slug] : [page.slug, plural]
+      made = {
+        names: plural === null ? [page.slug] : [page.slug, plural],
+        holds: `${page.pageTypeSlug}/${page.slug}`,
+        declared: new Set<string>(value === null ? [] : (textsAt(value, PART_SLUGS) ?? [])),
+      }
     }
     held.set(folder, made)
     return made
   }
 }
 
-export function namingOver(
-  index: Answering,
-  grouped: Grouped,
-  pageTypes: ReadonlySet<string>,
-  fileProperties: ReadonlySet<string>
-): (folder: string) => string | null {
-  const names = namesOver(index, grouped, pageTypes, fileProperties)
+export function namingOver(holds: (folder: string) => Holding): (folder: string) => string | null {
   return (folder) => {
-    const held = names(folder)
-    const wants = held[1] ?? held[0]
+    const names = holds(folder).names
+    const wants = names[1] ?? names[0]
     if (wants === undefined) return null
-    return strippedOf(wants, names(namingFolderOf(folder)))
+    return strippedOf(wants, holds(namingFolderOf(folder)).names)
   }
 }
 
@@ -388,8 +396,8 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   }
   const grouped = groupedBy(listedFiles(shadow.index, change))
   const declaring = declaringOver(shadow.index, grouped)
-  const namesFor = namesOver(shadow.index, grouped, pageTypes, fileProperties)
-  const namedFor = namingOver(shadow.index, grouped, pageTypes, fileProperties)
+  const holds = holdingOver(shadow.index, grouped, pageTypes, fileProperties)
+  const namedFor = namingOver(holds)
   const parts = partsOver(shadow.index, change.root, stated, shadow.index.sidecarsAt())
   const entering = enteringOf(shadow)
   const found: Judged[] = []
@@ -397,7 +405,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     const named = basename(folder)
     const opening = HELD_FOLDERS.has(named)
       ? null
-      : openingWith(named, namesFor(namingFolderOf(folder)))
+      : openingWith(named, holds(namingFolderOf(folder)).names)
     if (opening !== null) {
       found.push({
         path: folder,
@@ -421,6 +429,8 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       extending,
       declaring,
       naming: namedFor,
+      holds: (at) => holds(at).holds,
+      declared: (at) => holds(at).declared,
       parts,
     }
     const said = shapes.map((one) => ({ slug: one.slug, reasons: one.judge(described) }))

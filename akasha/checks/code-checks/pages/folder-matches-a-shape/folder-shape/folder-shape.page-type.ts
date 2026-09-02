@@ -27,6 +27,8 @@ export type Standing = {
   readonly under: (folder: string) => readonly string[]
   readonly declaring: (folder: string) => Declaring | null
   readonly naming: (folder: string) => string | null
+  readonly holds: (folder: string) => string | null
+  readonly declared: (folder: string) => ReadonlySet<string>
   readonly parts: (page: Held) => readonly string[]
 }
 
@@ -44,6 +46,8 @@ export const folderShape = {
     "folder-shape/modules-only",
     "folder-shape/one-page-with-its-properties",
     "folder-shape/a-page-with-its-parts",
+    "folder-shape/a-domain-with-its-parts",
+    "folder-shape/a-page-type-with-its-parts",
     "folder-shape/pages-of-one-type",
     "folder-shape/pages-of-the-type-above",
     "folder-shape/properties-of-the-type-above",
@@ -136,6 +140,14 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement: "A folder holding more than one page answers with nothing too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder answers with the page type and the slug of the one page in that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder answers with the parts the page in that folder declares.",
     },
     {
       invariantKind: "departure",
