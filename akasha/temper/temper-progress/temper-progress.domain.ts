@@ -10,8 +10,10 @@ export const temperProgress = {
     "page-type/temper-activity-category",
     "page-type/temper-comparison-op",
     "page-type/temper-completion-category",
+    "page-type/temper-completion-override",
     "page-type/temper-metric-tree",
     "page-type/temper-progress-thing",
     "page-type/temper-rotation-breakdown-row",
+    "page-type/temper-rule-template",
   ],
 } as const satisfies Domain
