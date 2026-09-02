@@ -21,6 +21,7 @@ export const temperPlayerCompletion = {
     "module/completion-card-checker-types",
     "module/completion-card-reset-behavior",
     "module/completion-character-row",
+    "module/completion-companion-row",
     "module/completion-cumulative-cards",
     "module/completion-import-outcome",
     "module/completion-item-set-progress",

@@ -23,6 +23,7 @@
     "./completion-companion-progress": "./completion-companion-progress/completion-companion-progress.module.code.ts",
     "./completion-companion-quest-actionability": "./completion-companion-quest-actionability/completion-companion-quest-actionability.module.code.ts",
     "./completion-companion-rapport-completeness": "./completion-companion-rapport-completeness/completion-companion-rapport-completeness.module.code.ts",
+    "./completion-companion-row": "./completion-companion-row/completion-companion-row.module.code.ts",
     "./completion-cumulative-cards": "./completion-cumulative-cards/completion-cumulative-cards.module.code.ts",
     "./completion-daily-writs-progress": "./completion-daily-writs-progress/completion-daily-writs-progress.module.code.ts",
     "./completion-import-outcome": "./completion-import-outcome/completion-import-outcome.module.code.ts",
