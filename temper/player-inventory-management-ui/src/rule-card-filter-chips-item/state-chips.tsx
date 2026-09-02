@@ -1,14 +1,20 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import { BOP_TRADEABLE_OPTIONS } from "@temper/game-items-rules-core/filters/bop-tradeable-filter"
-import { BOUND_OPTIONS } from "@temper/game-items-rules-core/filters/bound-filter"
-import { CRAFTED_OPTIONS } from "@temper/game-items-rules-core/filters/crafted-filter"
-import { LOCKED_OPTIONS } from "@temper/game-items-rules-core/filters/locked-filter"
-import { QUEST_RELEVANT_OPTIONS } from "@temper/game-items-rules-core/filters/quest-relevant-filter"
-import { STACK_FULLNESS_OPTIONS } from "@temper/game-items-rules-core/filters/stack-fullness-filter"
-import { STOLEN_OPTIONS } from "@temper/game-items-rules-core/filters/stolen-filter"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
+import { BOP_TRADEABLE_OPTIONS } from "@akasha/temper-items-rules-core/bop-tradeable-filter"
+import { BOUND_OPTIONS } from "@akasha/temper-items-rules-core/bound-filter"
+import { CRAFTED_OPTIONS } from "@akasha/temper-items-rules-core/crafted-filter"
+import { LOCKED_OPTIONS } from "@akasha/temper-items-rules-core/locked-filter"
+import { QUEST_RELEVANT_OPTIONS } from "@akasha/temper-items-rules-core/quest-relevant-filter"
+import { STACK_FULLNESS_OPTIONS } from "@akasha/temper-items-rules-core/stack-fullness-filter"
+import { STOLEN_OPTIONS } from "@akasha/temper-items-rules-core/stolen-filter"
 import type { ReactNode } from "react"
 import { FilterLock } from "../rule-card-filter-lock"
 import type { RuleCardState } from "./filter-id"
