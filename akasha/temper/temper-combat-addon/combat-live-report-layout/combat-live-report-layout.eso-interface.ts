@@ -6,4 +6,5 @@ export const combatLiveReportLayout = {
   slug: "combat-live-report-layout",
   definition: "the small window shown while a fight is on",
   markup: "xml",
+  loadedAs: "TemperCombat_LiveReport.xml",
 } as const satisfies EsoInterface

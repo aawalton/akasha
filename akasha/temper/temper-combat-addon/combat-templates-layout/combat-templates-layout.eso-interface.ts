@@ -6,4 +6,5 @@ export const combatTemplatesLayout = {
   slug: "combat-templates-layout",
   definition: "every reusable control the report windows are built out of",
   markup: "xml",
+  loadedAs: "TemperCombat_Templates.xml",
 } as const satisfies EsoInterface
