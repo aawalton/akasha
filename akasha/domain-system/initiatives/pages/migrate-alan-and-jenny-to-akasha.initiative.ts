@@ -14,6 +14,11 @@ export const migrateAlanAndJennyToAkasha = {
         "The Swift ships and draws six rings today; the tile reads `No signal`. The gap is modelling rather than layout. `upkeep-safety` and `upkeep-surplus` dropped `upkeep` from their groupSlugs on the way in, so the group matches zero and `/api/habit-stoplights` answers 503 as a stub. Owed: an `upkeep.readout-group.ts`, four readouts and four scales for capacity, plants, activity and sleep, a reading and relay service each, and one route line. Two of six draws two rings rather than failing.",
     },
     {
+      statement: "Alan's inboxes stoplights and widget work.",
+      workingMemory:
+        "Next after upkeep, at Alan's word, and it may need more pages migrated to support it. `api.inbox-stoplights.ts` is a 503 stub guarded like the others. `inboxes-temper-tasks.readout.ts` exists under temper; whether it belongs to this group is unsettled. The upkeep seam is the template at `4d6e5504e2`, `221c5cc7cd` and `d1ddb90e0c`: a group page, `groupSlugs` restored where the migration dropped them, one route line. Three of five draws three rings rather than failing, so count what returns.",
+    },
+    {
       statement: "`akasha import health` replaces the old health import command.",
       workingMemory:
         "Alan's direction: the import migrates, and a backfill runs through it once the phone-side automation works. `tools/commands/elaine/health-import.ts:154` calls `upsertHealthSamples` from the workstation over ssh, the one path landing samples without the web route. Readings stopped 2026-08-23; the phone posts only when an App Intent is invoked, and the deployed build throws on every sample, so ten days wait on both. `landDay` carries no test, which is how that throw shipped.",
