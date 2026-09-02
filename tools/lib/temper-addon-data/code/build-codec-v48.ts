@@ -1,1 +1,1 @@
-export { CHARACTER_BUILD_TYPE } from "@temper/game-codec/character/build-codec-v48"
+export { CHARACTER_BUILD_TYPE } from "@akasha/temper-build-codec/build-codec-v48"
