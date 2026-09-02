@@ -6,6 +6,7 @@ export const companionRapport = {
   slug: "companion-rapport",
   definition: "how fond a companion is of a character, as a raw count and as a tier",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",
