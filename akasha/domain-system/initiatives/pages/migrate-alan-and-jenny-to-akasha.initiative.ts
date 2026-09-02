@@ -24,11 +24,6 @@ export const migrateAlanAndJennyToAkasha = {
         "The note censused which store answers a read; the statement asks which engine is in the path, and both halves fail. The write half runs now: `page-query-landing.ts:14` routes to `page-write.ts` over checkout markdown, and `observation-writer-main.ts` was live, with 86 `pages/**.uncommitted.yaml` touched in an hour. The read half was severed rather than migrated at `fbf73c4710`; two entry modules were put back at `f9307ff1dc`, so importers resolve again. `askHere` is gone for good.",
     },
     {
-      statement: "`pages-ui` stands in akasha.",
-      workingMemory:
-        "`shared/pages-ui/src` is gone. The check now reads a component off what a function answers with, `bbc3c1ded2`, and two renames at `6d191b5e19` held the repo-wide refusals at 80 either side. `use-app-nav-items` landed at `3456974975` under `pages-ui-components` rather than `pages-ui`, since `pages-ui` is already its dependency and the reverse would cycle; four app shells were repointed at `b033721784`. A husk is left: five config files, a workspaces entry, four dependency entries.",
-    },
-    {
       statement: "The interior of Alan's site stands in akasha.",
       workingMemory:
         "The interior is everything under `app/` but `routes/` and `hooks/`: 128 files, every one outside akasha. `akasha/alan/web` holds 4, and taking the basename of each `app/` file and looking for it under akasha matches none. The old note conflated mentions with imports: `@shared/pages-ui` is 22 occurrences on 18 lines, but only 4 real import statements repo-wide and 1 in Alan's site, at `app/components/app-shell.tsx:10`. `@shared/utils-test` is a second outward reach, in two component tests.",
