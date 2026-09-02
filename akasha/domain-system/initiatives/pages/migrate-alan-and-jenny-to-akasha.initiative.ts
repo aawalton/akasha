@@ -9,6 +9,11 @@ export const migrateAlanAndJennyToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
+      statement: "Alan's and Jenny's iOS apps ship to TestFlight from an akasha command.",
+      workingMemory:
+        "Alan chose `akasha deploy {slug}`, dispatching on the kind its page turns out to be. The shipper already works and sent 198 and 21 today, but answers to `mobile deploy-testflight` over `alanwalton/mobile-cli`, while the akasha copy is 28 modules nothing imports and carries two regressions. Four lanes run: parity, kind dispatch, daily-tracking entries, marketing version. Decided: a dry run stops before the mac, and a deploy refuses what origin/main does not carry.",
+    },
+    {
       statement: "Alan's and Jenny's safety iOS widgets work.",
       workingMemory:
         "Alan's half is live and proven as far as the pod, deployed at `d0f4d24621`: the reading is taken on the workstation every 5m, relayed and accepted, and the pod's own serving path answers 200 carrying one of the six tiers the shipped Swift decodes. The phone itself is unseen, no device credential being held here. The tier is resolved server-side, the call Alan took. Jenny's half is one `runs` line and her own route away and was not attempted.",
