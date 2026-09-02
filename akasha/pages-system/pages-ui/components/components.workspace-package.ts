@@ -59,6 +59,7 @@ export const components = {
     "module/use-notes-view-props",
     "module/use-overflow-fade",
     "module/use-page-calendar-state",
+    "module/use-page-view",
     "module/use-pages-filtered-hrefs",
     "module/use-property-change-perf-handler",
     "module/use-read-end-observer",
