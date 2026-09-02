@@ -11,6 +11,7 @@ export const temperGameCatalogCaptureAddon = {
     "module/achievement-catalog-capture",
     "module/antiquity-lore-catalog-capture",
     "module/cadwell-catalog-capture",
+    "module/class-catalog-capture",
     "module/collectibles-catalog-capture",
     "module/companion-equipment-catalog-capture",
     "module/companion-skill-catalog-capture",
@@ -20,6 +21,7 @@ export const temperGameCatalogCaptureAddon = {
     "module/poi-catalog-capture",
     "module/recipe-catalog-capture",
     "module/scribing-catalog-capture",
+    "module/skill-catalog-capture",
     "module/trait-research-catalog-capture",
     "module/tribute-catalog-capture",
     "module/zone-completion-catalog-capture",
@@ -44,10 +46,6 @@ export const temperGameCatalogCaptureAddon = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads what the player has done.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The character catalog collectors have yet to land in akasha.",
     },
     {
       invariantKind: "gap",

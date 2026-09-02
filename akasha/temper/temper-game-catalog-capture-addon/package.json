@@ -6,6 +6,7 @@
     "./achievement-catalog-capture": "./achievement-catalog-capture/achievement-catalog-capture.module.code.ts",
     "./antiquity-lore-catalog-capture": "./antiquity-lore-catalog-capture/antiquity-lore-catalog-capture.module.code.ts",
     "./cadwell-catalog-capture": "./cadwell-catalog-capture/cadwell-catalog-capture.module.code.ts",
+    "./class-catalog-capture": "./class-catalog-capture/class-catalog-capture.module.code.ts",
     "./collectibles-catalog-capture": "./collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts",
     "./companion-equipment-catalog-capture": "./companion-equipment-catalog-capture/companion-equipment-catalog-capture.module.code.ts",
     "./companion-skill-catalog-capture": "./companion-skill-catalog-capture/companion-skill-catalog-capture.module.code.ts",
@@ -15,6 +16,7 @@
     "./poi-catalog-capture": "./poi-catalog-capture/poi-catalog-capture.module.code.ts",
     "./recipe-catalog-capture": "./recipe-catalog-capture/recipe-catalog-capture.module.code.ts",
     "./scribing-catalog-capture": "./scribing-catalog-capture/scribing-catalog-capture.module.code.ts",
+    "./skill-catalog-capture": "./skill-catalog-capture/skill-catalog-capture.module.code.ts",
     "./trait-research-catalog-capture": "./trait-research-catalog-capture/trait-research-catalog-capture.module.code.ts",
     "./tribute-catalog-capture": "./tribute-catalog-capture/tribute-catalog-capture.module.code.ts",
     "./zone-completion-catalog-capture": "./zone-completion-catalog-capture/zone-completion-catalog-capture.module.code.ts"
