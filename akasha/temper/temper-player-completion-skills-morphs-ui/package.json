@@ -1,0 +1,21 @@
+{
+  "name": "@akasha/temper-player-completion-skills-morphs-ui",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./skill-morphs-progress-panel-card": "./skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx",
+    "./subclassing-skill-morphs-panel-card": "./subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx"
+  },
+  "dependencies": {
+    "@akasha/design-patterns": "workspace:*",
+    "@akasha/temper-classes": "workspace:*",
+    "@akasha/temper-player-completion": "workspace:*",
+    "@akasha/temper-player-completion-ui": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
+    "@akasha/temper-skill-morphs": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
+  }
+}
