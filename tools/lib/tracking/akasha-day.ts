@@ -10,7 +10,7 @@
  * pages system service composes every akasha write from. What a row file beside a page is named is
  * `besideAt`. What that file holds is `entriesIn`. What a page declares is `valueAt`. This file is
  * the four of them put in a row, plus the one thing none of them does: hand the composed bodies to
- * `akasha write`, because nothing writes under `akasha/` but akasha's own verb.
+ * `akasha tracking`, because nothing writes under `akasha/` but akasha's own verb.
  *
  * A page body states its keys camel, because a page is a TypeScript object literal, and a row beside
  * an akasha page states them camel too, because a row is judged against the fields its entry
@@ -48,6 +48,21 @@ const ID = "id"
 
 const AKASHA_REPO = "akasha"
 
+/**
+ * The verb this funnel writes through, which is not `akasha write`.
+ *
+ * `write` is `change-authored`: its page names that kind, the kind runs the warrants, and the
+ * warrants ask the read record what this process read. A daemon has no read record and can never
+ * have one — its `AGENT_ID` names no seat, and where one is fabricated the record it builds is
+ * invalidated by its own write, because the row file it is about to write is among the paths the
+ * warrant asks it to have read.
+ *
+ * `tracking` is `change-checked`: composed by a program, owing no reading, and judged by every check
+ * that judges a write. The kind is named on the command's page rather than on this call, so nothing
+ * here can ask for it and nothing here can widen it.
+ */
+const TRACKING = "tracking"
+
 /** The property each kind of row beside a day is declared under. */
 export const ROW_PROPERTIES: Readonly<Record<string, string>> = {
   [SESSIONS_SLUG]: camelizeKey(SESSIONS_SLUG),
@@ -78,9 +93,26 @@ export function camelised(values: Values): Record<string, unknown> {
  *
  * `sessions.page-property-entry.ts` declares `start-time`, and a property is reached by its slug and
  * read by its key, which is that slug written in camel. So a row beside an akasha page states
- * `startTime`, the same spelling the page itself states, and `akasha write` refuses a row keyed any
- * other way — measured 2026-09-01 against the day page and one session, which passed 34 checks camel
- * and was refused kebab on `start-time` and `daily-tracking`.
+ * `startTime`, the same spelling the page itself states.
+ *
+ * What is NOT true is that akasha refuses a row keyed any other way. The 2026-09-01 measurement that
+ * said so handed a day page and one session to `akasha write` together, and the kebab refusal it saw
+ * came from the page in that call rather than from the row. Measured again 2026-09-02 over the row
+ * file alone, with the day page already declaring `sessions`: nine checks reach a `.jsonl` beside a
+ * page — file-has-its-page, file-length, manifest-lands-on-a-file, manifest-names-what-is-reached,
+ * name-format-judges-by-one-shape, no-raw-nul-bytes, package-reached-where-named, page-named-as-
+ * stated and page-property-has-its-file — and all nine admitted a row with kebab keys, a row naming
+ * a `dailyTracking` no page carries, a row whose `id` is no uuid, a row carrying a key no property
+ * declares, and a line that is not JSON at all. Every one of the nine judges the file: that a page
+ * claims it, what it is named, how long it is, what bytes it holds. None of them opens a line.
+ *
+ * What would have to exist is one check that does: read the page standing beside the file, find the
+ * `page-property-entry` that page names for it, and judge every line against the properties that
+ * entry declares — the file parses as one JSON object to a line, every required property is there,
+ * no key is one the entry does not declare, and `id` is a uuid. `entriesIn` in
+ * `akasha/pages-system/page/page-entries` already parses; the declaration is already on the entry
+ * page; nothing puts the two together. Until it does, camelising here is what keeps a row readable
+ * rather than what makes it right.
  *
  * This is the opposite of what `tools/daily-tracking-migration/shape.ts` says: it carries the 780
  * markdown rows across untouched, and those are kebab. What reads a row is turned back the other way
@@ -157,7 +189,7 @@ export async function written(puts: readonly Put[], message: string): Promise<La
       args.push("--file-path", one.path, "--content-file", body)
     })
     args.push("--message", message)
-    const ran = Bun.spawn(["akasha", "write", ...args], {
+    const ran = Bun.spawn(["akasha", TRACKING, ...args], {
       cwd: rootOf(),
       stdout: "pipe",
       stderr: "pipe",
@@ -167,7 +199,7 @@ export async function written(puts: readonly Put[], message: string): Promise<La
       new Response(ran.stderr).text(),
       ran.exited,
     ])
-    if (code !== 0) return refused(`\`akasha write\` refused: ${(err + out).trim()}`)
+    if (code !== 0) return refused(`\`akasha ${TRACKING}\` refused: ${(err + out).trim()}`)
     return { ok: true, at: puts[0]?.path ?? "" }
   } finally {
     rmSync(scratch, { recursive: true, force: true })
