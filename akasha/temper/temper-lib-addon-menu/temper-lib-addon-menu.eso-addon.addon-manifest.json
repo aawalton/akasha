@@ -1,0 +1,12 @@
+{
+  "name": "LibAddonMenu-2.0",
+  "title": "LibAddonMenu-2.0",
+  "description": "A library to aid in the creation of option panels.",
+  "author": "AlanGaming",
+  "version": "2.0 r43",
+  "addonVersion": 43,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": [],
+  "dependsOn": [],
+  "optionalDependsOn": ["LibDebugLogger"]
+}

@@ -1,0 +1,71 @@
+import type { EsoAddon } from "@akasha/code-system/eso-addon"
+
+export const temperLibAddonMenu = {
+  id: "01a06292-8851-701c-9273-a19fa38175bb",
+  pageTypeSlug: "eso-addon",
+  slug: "temper-lib-addon-menu",
+  definition: "the settings panel other add-ons declare their options to",
+  manifest: "json",
+  addonManifest: "json",
+  bundleEntrySlug: "module/addon-menu-entry-point",
+  partSlugs: [
+    "module/addon-menu-addon-list",
+    "module/addon-menu-casts",
+    "module/addon-menu-constants",
+    "module/addon-menu-dialogs",
+    "module/addon-menu-entry-point",
+    "module/addon-menu-messages",
+    "module/addon-menu-panel-options",
+    "module/addon-menu-public-api",
+    "module/addon-menu-settings-window",
+    "module/addon-menu-state",
+    "module/addon-menu-types",
+    "module/addon-menu-ui-strings",
+    "module/addon-menu-util",
+    "module/addon-menu-widget-button",
+    "module/addon-menu-widget-checkbox",
+    "module/addon-menu-widget-colorpicker",
+    "module/addon-menu-widget-custom",
+    "module/addon-menu-widget-description",
+    "module/addon-menu-widget-divider",
+    "module/addon-menu-widget-dropdown",
+    "module/addon-menu-widget-dropdown-scroll",
+    "module/addon-menu-widget-editbox",
+    "module/addon-menu-widget-header",
+    "module/addon-menu-widget-iconpicker",
+    "module/addon-menu-widget-iconpicker-menu",
+    "module/addon-menu-widget-panel",
+    "module/addon-menu-widget-slider",
+    "module/addon-menu-widget-submenu",
+    "module/addon-menu-widget-texture",
+    "type-declaration/addon-menu-eso-combobox",
+    "type-declaration/addon-menu-eso-controls",
+    "type-declaration/addon-menu-eso-window",
+    "type-declaration/addon-menu-logger",
+    "type-declaration/addon-menu-string-ids",
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "An add-on declares a panel and its widgets as data rather than building controls.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A widget kind is added to the library by registering a factory under a name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The library publishes itself as the LibAddonMenu2 global the game's add-ons expect.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A panel is built the first time a player opens that panel rather than at load.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A control reads its value through a getter the declaring add-on supplies.",
+    },
+  ],
+} as const satisfies EsoAddon
