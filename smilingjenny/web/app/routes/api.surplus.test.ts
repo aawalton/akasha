@@ -36,6 +36,7 @@ const READOUT_ROW = {
   label: "Surplus",
   unit: "hours",
   place: 2,
+  figureFormat: "decimal",
   scaleSlug: "surplus-hours",
   wireKey: GROUP,
   groupSlugs: [GROUP],
@@ -234,6 +235,28 @@ test("a machine that starts again holds no reading", async () => {
   await carryNow(1)
   dropRelayed()
   expect((await tile()).status).toBe(503)
+})
+
+// A surplus is added up out of session hours, so it arrives as a float carrying its whole tail —
+// twenty digits of it, and a tile drawing that on one line at one size breaks it off mid-number
+// with an ellipsis. The readout page states `figure-format: decimal`, and these pin that the
+// figure reaching the widget is written to that rather than handed over raw.
+test("a surplus added up out of hours is written to the places the readout states", async () => {
+  await carryNow(-0.008333333333334636)
+  const [one] = await drawn()
+  expect(one?.reading).toBe("-0.01")
+})
+
+test("a surplus is never sent to the tile as the whole tail of a float", async () => {
+  await carryNow(2.6666666666666665)
+  const said = (await drawn())[0]?.reading ?? ""
+  expect(said).toBe("2.67")
+  expect(said.length).toBeLessThanOrEqual(6)
+})
+
+test("a surplus rounding onto zero is written as zero rather than as a signed zero", async () => {
+  await carryNow(-0.0004)
+  expect((await drawn())[0]?.reading).toBe("0")
 })
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {
