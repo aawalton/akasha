@@ -8,10 +8,31 @@ export type AddonDataTarget = {
 
 export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
   {
+    rendered: "achievement-data.generated.ts",
+    workspacePackage: "temper-player-completion",
+    moduleSlug: "completion-achievement-data",
+    partPrefix: "completion-achievement-data",
+    parts: 26,
+  },
+  {
     rendered: "alliance-mappings.generated.ts",
     workspacePackage: "temper-characters-capture-addon",
     moduleSlug: "character-capture-alliance-map",
     partPrefix: "character-capture-alliance-map",
+    parts: 1,
+  },
+  {
+    rendered: "antiquity-data.generated.ts",
+    workspacePackage: "temper-player-completion",
+    moduleSlug: "completion-antiquity-data",
+    partPrefix: "completion-antiquity-data",
+    parts: 6,
+  },
+  {
+    rendered: "cadwell-data.generated.ts",
+    workspacePackage: "temper-player-completion",
+    moduleSlug: "completion-cadwell-data",
+    partPrefix: "completion-cadwell-data",
     parts: 1,
   },
   {
@@ -41,6 +62,13 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     moduleSlug: "character-capture-codec-constants",
     partPrefix: "character-capture-codec-constants",
     parts: 1,
+  },
+  {
+    rendered: "collectibles-data.generated.ts",
+    workspacePackage: "temper-player-completion",
+    moduleSlug: "completion-collectibles-data",
+    partPrefix: "completion-collectibles-data",
+    parts: 88,
   },
   {
     rendered: "companion-mappings.generated.ts",
@@ -120,6 +148,13 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     parts: 1,
   },
   {
+    rendered: "poi-data.generated.ts",
+    workspacePackage: "temper-player-completion",
+    moduleSlug: "completion-poi-data",
+    partPrefix: "completion-poi-data",
+    parts: 21,
+  },
+  {
     rendered: "potion-mappings.generated.ts",
     workspacePackage: "temper-characters-capture-addon",
     moduleSlug: "character-capture-potion-map",
@@ -132,6 +167,13 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     moduleSlug: "potion-restore-resolve",
     partPrefix: "potion-restore-resolve",
     parts: 1,
+  },
+  {
+    rendered: "quest-data.generated.ts",
+    workspacePackage: "temper-player-completion",
+    moduleSlug: "completion-quest-data",
+    partPrefix: "completion-quest-data",
+    parts: 9,
   },
   {
     rendered: "scribing-mappings.generated.ts",
@@ -190,6 +232,13 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     parts: 1,
   },
   {
+    rendered: "temper-armor-trait.generated.ts",
+    workspacePackage: "temper-characters-equipment",
+    moduleSlug: "armor-trait-data",
+    partPrefix: "armor-trait-data",
+    parts: 1,
+  },
+  {
     rendered: "temper-armor-weight.generated.ts",
     workspacePackage: "temper-characters-equipment",
     moduleSlug: "armor-weights",
@@ -218,6 +267,27 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     parts: 1,
   },
   {
+    rendered: "temper-eso-companion-equipment-constant.generated.ts",
+    workspacePackage: "temper-items-core",
+    moduleSlug: "eso-companion-equipment-constants",
+    partPrefix: "eso-companion-equipment-constants",
+    parts: 1,
+  },
+  {
+    rendered: "temper-eso-player-equipment-constant.generated.ts",
+    workspacePackage: "temper-items-core",
+    moduleSlug: "eso-player-equipment-constants",
+    partPrefix: "eso-player-equipment-constants",
+    parts: 1,
+  },
+  {
+    rendered: "temper-eso-trait-map.generated.ts",
+    workspacePackage: "temper-characters-equipment",
+    moduleSlug: "eso-trait-map",
+    partPrefix: "eso-trait-map",
+    parts: 1,
+  },
+  {
     rendered: "temper-grimoire.generated.ts",
     workspacePackage: "temper-character-skills",
     moduleSlug: "scribing-grimoires",
@@ -225,10 +295,24 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     parts: 4,
   },
   {
+    rendered: "temper-inventory-currency.generated.ts",
+    workspacePackage: "temper-items-core",
+    moduleSlug: "inventory-currency-data",
+    partPrefix: "inventory-currency-data",
+    parts: 1,
+  },
+  {
     rendered: "temper-jewelry-enchant.generated.ts",
     workspacePackage: "temper-characters-equipment",
     moduleSlug: "jewelry-enchants-data",
     partPrefix: "jewelry-enchants-data",
+    parts: 1,
+  },
+  {
+    rendered: "temper-jewelry-trait.generated.ts",
+    workspacePackage: "temper-characters-equipment",
+    moduleSlug: "jewelry-trait-data",
+    partPrefix: "jewelry-trait-data",
     parts: 1,
   },
   {
@@ -260,6 +344,20 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     parts: 1,
   },
   {
+    rendered: "temper-set.generated.ts",
+    workspacePackage: "temper-characters-equipment",
+    moduleSlug: "set-data-from-pages",
+    partPrefix: "set-data-from-pages",
+    parts: 100,
+  },
+  {
+    rendered: "temper-skill-point.generated.ts",
+    workspacePackage: "temper-player-completion",
+    moduleSlug: "completion-skill-point-sources",
+    partPrefix: "completion-skill-point-sources",
+    parts: 1,
+  },
+  {
     rendered: "temper-skill.generated.ts",
     workspacePackage: "temper-character-skills",
     moduleSlug: "character-skills-from-pages",
@@ -274,11 +372,39 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     parts: 1,
   },
   {
+    rendered: "temper-weapon-trait.generated.ts",
+    workspacePackage: "temper-characters-equipment",
+    moduleSlug: "weapon-trait-data",
+    partPrefix: "weapon-trait-data",
+    parts: 1,
+  },
+  {
     rendered: "temper-weapon-type.generated.ts",
     workspacePackage: "temper-characters-equipment",
     moduleSlug: "weapon-types-data",
     partPrefix: "weapon-types-data",
     parts: 1,
+  },
+  {
+    rendered: "trait-research-data.generated.ts",
+    workspacePackage: "temper-player-completion",
+    moduleSlug: "completion-trait-research-data",
+    partPrefix: "completion-trait-research-data",
+    parts: 3,
+  },
+  {
+    rendered: "tribute-data.generated.ts",
+    workspacePackage: "temper-player-completion",
+    moduleSlug: "completion-tribute-data",
+    partPrefix: "completion-tribute-data",
+    parts: 1,
+  },
+  {
+    rendered: "zone-completion-data.generated.ts",
+    workspacePackage: "temper-player-completion",
+    moduleSlug: "completion-zone-data",
+    partPrefix: "completion-zone-data",
+    parts: 41,
   },
 ]
 
