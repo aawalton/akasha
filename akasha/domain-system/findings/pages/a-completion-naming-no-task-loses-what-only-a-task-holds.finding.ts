@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aCompletionNamingNoTaskLosesWhatOnlyATaskHolds = {
+  id: "01a06097-5064-7bac-b79e-765b32668b51",
+  pageTypeSlug: "finding",
+  slug: "a-completion-naming-no-task-loses-what-only-a-task-holds",
+  domainSlug: "domain/temper-progress",
+  claim:
+    "`temper-completed-day` reads a completion's title, scope, priority and recurrence from the task the completion names. A completion naming no task has no task to read them from, so those fields have no home. Of the 1,425 completions temper kept, 253 name no task: 253 lose `scope`, 218 lose `rrule-rule` and `rrule-anchor-from-completion`, 106 lose `priority`, 55 lose `link`, 26 lose `icon` and 19 lose `description`.",
+  evidence:
+    "Measured on 2026-09-01 by comparing the 1,425 records under `pages/temper-completed-month` against the completions entries under `akasha/temper/temper-progress/completed-days` and, where a record names a task, against that task's page under `akasha/temper/temper-progress/tasks/pages`.\n\nA field counted as having a home when the day completion carried the field, or when the named task page carried the field. All 21 task slugs the records name have pages, so no loss here comes from a missing task.\n\nFields with a home for every non-empty value: `id`, `title`, `due-date`, `completed-at`, `character`, `task`, `eso-character-id`, `completion-card-id`, `completion-item-path`.\n\nFields with no home, counted over non-empty values only: `scope` 253 of 1,424, `rrule-rule` 218 of 1,389, `rrule-anchor-from-completion` 218 of 1,389, `priority` 106 of 388, `link` 55 of 55, `icon` 26 of 219, `description` 19 of 19. `link` and `description` have no property anywhere in akasha, and the others go missing only for the task-less completions.\n\n`completions.page-property-entry` already carries the gap `A completion temper gave no name lands with no title` and the departure `A completion naming no task states a title`, so the task-less case was seen. The fields beyond the title were not.\n\nA separate check: 25 records looked to lose `eso-character-id` and `completion-card-id`. All 25 held the empty string for both, in rows titled `[#8781 smoke ...]` and `[#8781 probe ...]`. Dropping an empty string is right, so those 25 are no loss.\n\nThe call taken: filed rather than fixed. Whether a one-off completion should carry its own scope and recurrence, or whether temper should have made a task instead, belongs to the progress domain.",
+} as const satisfies Finding
