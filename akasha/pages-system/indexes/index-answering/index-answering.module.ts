@@ -47,7 +47,7 @@ export const indexAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "The questions bound here are the ones the checks ask of the index.",
+      statement: "The questions bound here are the ones asked of the index through a shadow.",
     },
     {
       invariantKind: "departure",

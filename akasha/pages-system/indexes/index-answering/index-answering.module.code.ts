@@ -10,6 +10,7 @@ import {
 } from "@akasha/pages-system/page-type-properties"
 import type { Value } from "@akasha/pages-system/page-value"
 import {
+  entryShapesAt,
   type Schema as Filed,
   filePropertiesAt,
   pageTypesIn,
@@ -44,6 +45,7 @@ export type Answering = {
   readonly carriedIn: (value: Value, declaredBy: string) => readonly Carried[]
   readonly declarationsOf: (pageTypeSlug: string) => readonly Carried[]
   readonly declaringOf: (id: string) => readonly Declaring[]
+  readonly entryShapesAt: () => ReadonlySet<string>
   readonly everyOfType: (pageTypeSlug: string) => readonly Listed[]
   readonly everyPath: () => readonly string[]
   readonly filePropertiesAt: () => ReadonlyMap<string, string | null>
@@ -72,6 +74,7 @@ export function answeringOver(reading: Reading, root: string, pageOf: PageOf): A
     carriedIn: (value, declaredBy) => carriedIn(value, reading, declaredBy),
     declarationsOf: (pageTypeSlug) => declarationsOf(pageTypeSlug, reading, pageOf),
     declaringOf: (id) => declaringOf(reading, id),
+    entryShapesAt: () => entryShapesAt(reading),
     everyOfType: (pageTypeSlug) => everyOfType(reading, pageTypeSlug),
     everyPath: () => everyPath(reading),
     filePropertiesAt: () => filePropertiesAt(reading),
