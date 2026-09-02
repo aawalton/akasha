@@ -21,7 +21,6 @@ export const readoutGroup = {
     "readout-group/safety",
     "readout-group/surplus",
     "readout-group/upkeep",
-    "readout-group/values",
     "relation-property/sequence-slugs",
     "text-property/sort-order",
   ],
