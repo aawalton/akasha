@@ -4,12 +4,16 @@ import type { AlternateAbilityIds } from "../temper-companion-things/properties/
 import type { Tags } from "../temper-companion-things/properties/tags.text-property.ts"
 import type { ValidRoles } from "../temper-companion-things/properties/valid-roles.text-property.ts"
 import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+import type { CastConditions } from "./properties/cast-conditions.page-property-entry.ts"
+import type { SkillEffects } from "./properties/skill-effects.page-property-entry.ts"
 
 export type TemperCompanionSkill = TemperCompanionThing & {
   abilityId: AbilityId
   validRoles?: readonly ValidRoles[]
   tags?: readonly Tags[]
   alternateAbilityIds?: readonly AlternateAbilityIds[]
+  skillEffects?: SkillEffects
+  castConditions?: CastConditions
 }
 
 export const temperCompanionSkill = {
@@ -46,6 +50,8 @@ export const temperCompanionSkill = {
     "number-property/target-radius",
     "number-property/target-range",
     "number-property/tick-interval",
+    "page-property-entry/cast-conditions",
+    "page-property-entry/skill-effects",
     "record-property/effect-buff",
     "record-property/effect-conditions",
     "record-property/effect-debuff",
@@ -86,5 +92,7 @@ export const temperCompanionSkill = {
     { pagePropertySlug: "valid-roles", required: false, many: true, max: null },
     { pagePropertySlug: "tags", required: false, many: true, max: null },
     { pagePropertySlug: "alternate-ability-ids", required: false, many: true, max: null },
+    { pagePropertySlug: "skill-effects", required: false, many: false },
+    { pagePropertySlug: "cast-conditions", required: false, many: false },
   ],
 } as const satisfies PageType

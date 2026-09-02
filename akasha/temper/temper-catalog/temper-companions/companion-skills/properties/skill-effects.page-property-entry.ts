@@ -1,0 +1,65 @@
+import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
+
+export type SkillEffects = "jsonl"
+
+export const skillEffects = {
+  id: "01a06197-3a24-7e28-90dd-a1debfd59c2a",
+  pageTypeSlug: "page-property-entry",
+  slug: "skill-effects",
+  propertySlug: "skill-effects",
+  definition: "what casting a companion's skill does, one effect to a line",
+  properties: [
+    { pagePropertySlug: "skill-effect-type", required: true, many: false },
+    { pagePropertySlug: "effect-amount", required: false, many: false },
+    { pagePropertySlug: "armor-weight", required: false, many: false },
+    { pagePropertySlug: "augment-delay", required: false, many: false },
+    { pagePropertySlug: "effect-buff", required: false, many: false },
+    { pagePropertySlug: "conditional-multiplier", required: false, many: false },
+    { pagePropertySlug: "effect-conditions", required: false, many: true, max: null },
+    { pagePropertySlug: "cooldown", required: false, many: false },
+    { pagePropertySlug: "effect-count", required: false, many: false },
+    { pagePropertySlug: "damage-type", required: false, many: false },
+    { pagePropertySlug: "effect-debuff", required: false, many: false },
+    { pagePropertySlug: "delay", required: false, many: false },
+    { pagePropertySlug: "display-mode", required: false, many: false },
+    { pagePropertySlug: "duration", required: false, many: false },
+    { pagePropertySlug: "duration-offset", required: false, many: false },
+    { pagePropertySlug: "nested-effect", required: false, many: false },
+    { pagePropertySlug: "effect-formula", required: false, many: false },
+    { pagePropertySlug: "hd-application", required: false, many: false },
+    { pagePropertySlug: "heal-count", required: false, many: false },
+    { pagePropertySlug: "hit-count", required: false, many: false },
+    { pagePropertySlug: "initial-tick", required: false, many: false },
+    { pagePropertySlug: "interval", required: false, many: false },
+    { pagePropertySlug: "max-occurrences", required: false, many: false },
+    { pagePropertySlug: "metric-id", required: false, many: false },
+    { pagePropertySlug: "modifier-type", required: false, many: false },
+    { pagePropertySlug: "synergy-name", required: false, many: false },
+    { pagePropertySlug: "resource", required: false, many: false },
+    { pagePropertySlug: "cooldown-scope", required: false, many: false },
+    { pagePropertySlug: "effect-status", required: false, many: false },
+    { pagePropertySlug: "effect-target", required: false, many: false },
+    { pagePropertySlug: "tick-interval", required: false, many: false },
+    { pagePropertySlug: "trigger", required: false, many: false },
+    { pagePropertySlug: "effect-value", required: false, many: false },
+    { pagePropertySlug: "value-per-piece", required: false, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An effect names the kind of thing casting a skill does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which fields an effect carries beyond its kind follows from that kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An effect that delays or repeats carries an inner effect.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A skill carrying no effect states no effect rather than an empty list.",
+    },
+  ],
+} as const satisfies PagePropertyEntry
