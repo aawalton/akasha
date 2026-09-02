@@ -47,6 +47,26 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
+      statement: "A function that only passes names along is no rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body holding nothing to change cannot drift.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cast is passed over however many files write that cast.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An empty body is passed over the same way.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A writer is never sent to add a module to quiet this check.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every file the index names is read on each run whatever the change carries.",
     },
     {

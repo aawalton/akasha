@@ -23,7 +23,9 @@ export function everySpeltIn(change: Change, shadow: Shadow): ReadonlyMap<string
     if (!path.endsWith(TS)) return []
     const text = textIn(change, path)
     if (text === null) return []
-    return speltIn(path, text).map((one) => ({ rule: one.rule, path, name: one.name }))
+    return speltIn(path, text)
+      .filter((one) => !one.forwards)
+      .map((one) => ({ rule: one.rule, path, name: one.name }))
   })
   return Map.groupBy(spelt, (one) => one.rule)
 }
@@ -35,6 +37,7 @@ export function reasonsIn(
 ): readonly string[] {
   const said: string[] = []
   for (const one of speltIn(path, text)) {
+    if (one.forwards) continue
     const apart = (every.get(one.rule) ?? []).filter((each) => each.path !== path)
     const first = apart[0]
     if (first === undefined) continue

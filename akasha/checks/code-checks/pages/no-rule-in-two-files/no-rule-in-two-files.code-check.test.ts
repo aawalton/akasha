@@ -86,6 +86,55 @@ test("a file saying the same thing twice is not judged here, one file being one 
   expect(reasonsIn("one.ts", both, byRule([{ path: "one.ts", text: both }]))).toEqual([])
 })
 
+test("a cast written in two files is passed over, a cast being no rule", () => {
+  const one = `function asPage(value: unknown): Page {
+  return value as Page
+}
+`
+  const two = `function asHeld(given: unknown): Page {
+  return given as Page
+}
+`
+  const every = byRule([
+    { path: "one.ts", text: one },
+    { path: "two.ts", text: two },
+  ])
+  expect(reasonsIn("one.ts", one, every)).toEqual([])
+  expect(reasonsIn("two.ts", two, every)).toEqual([])
+})
+
+test("a body passing its names to one call is passed over however many files write it", () => {
+  const one = `function bodyAt(path: string): string {
+  return textIn(change, path)
+}
+`
+  const two = `function beside(at: string): string {
+  return textIn(change, at)
+}
+`
+  const every = byRule([
+    { path: "one.ts", text: one },
+    { path: "two.ts", text: two },
+  ])
+  expect(reasonsIn("one.ts", one, every)).toEqual([])
+})
+
+test("a body holding a literal is a rule, so two files writing it are refused", () => {
+  const one = `function escapeRegex(str: string): string {
+  return str.replace(/[.*+?]/g, "\\\\$&")
+}
+`
+  const two = `function escapeRegExp(said: string): string {
+  return said.replace(/[.*+?]/g, "\\\\$&")
+}
+`
+  const every = byRule([
+    { path: "one.ts", text: one },
+    { path: "two.ts", text: two },
+  ])
+  expect(reasonsIn("one.ts", one, every)).toHaveLength(1)
+})
+
 test("a rule spelled inline is not seen, because only a function is read", () => {
   const inline = `const camel = one.slug.replace(/-([a-z0-9])/g, (_, first: string) => first.toUpperCase())\n`
   const every = byRule([{ path: "two.module.code.ts", text: EXPORTED_AS }])
