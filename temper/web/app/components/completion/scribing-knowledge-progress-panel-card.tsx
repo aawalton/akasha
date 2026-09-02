@@ -1,13 +1,20 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import {
+  type CompletionFilter,
+  type CompletionNode,
+  CompletionPanelCard,
+  type CompletionSortMode,
+  createNodeFilter,
+  withActivityCategories,
+} from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { requireFirst } from "@akasha/utils-narrow/require-first"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
+import type { CharacterCardId } from "@temper/player-completion/completion-card-registry"
 import type {
   CharacterScribingProgress,
   CompletionCharacter,
   ScribingKnowledgeItem,
 } from "@temper/player-completion/completion-ui-types"
-import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter, withActivityCategories } from "@temper/player-completion-ui/completion-panel-card"
-import type { CharacterCardId } from "@temper/player-completion/completion-card-registry"
 
 interface ScribingKnowledgeProgressPanelCardProps {
   id?: CharacterCardId
