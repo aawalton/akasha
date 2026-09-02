@@ -87,6 +87,7 @@
     "akasha/agents": {
       "name": "@akasha/agents",
       "dependencies": {
+        "@akasha/pages-system": "workspace:*",
         "zod": "^4.3.6",
       },
     },

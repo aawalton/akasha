@@ -6,6 +6,7 @@
     "./claude-account-measuring": "./claude-accounts/modules/measuring/claude-account-measuring.module.code.ts"
   },
   "dependencies": {
+    "@akasha/pages-system": "workspace:*",
     "zod": "^4.3.6"
   }
 }
