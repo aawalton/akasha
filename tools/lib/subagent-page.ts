@@ -1,5 +1,5 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { namedIn } from "../../akasha/pages-system/page/file-name/page-file-name.module.code.ts"
+import { partedIn } from "../../akasha/pages-system/page/file-name/page-file-name.module.code.ts"
 import { textAt, valueAt } from "../../akasha/pages-system/page/value/page-value.module.code.ts"
 import type { Outcome } from "./gated-write.ts"
 import { seatNameForAgent } from "./seat-presence-read.ts"
@@ -17,9 +17,12 @@ export function removeSubagentPagesOf(seat: string, why: string): Outcome {
   return removeAkashaSubagentPagesOf(seatName, why)
 }
 
+// `namedIn` went at cc5d6552f9 and this call went with it unrepaired. What it answered here was
+// its `stem`, which for a path carrying no section beyond the page type is the page's slug — and
+// every path reaching this is a `.subagent.ts` page file, which carries none.
 function namedAt(absolute: string): string {
-  const named = namedIn(absolute)
-  return named === null ? absolute : named.stem
+  const said = partedIn(absolute)
+  return said === null ? absolute : said.slug
 }
 
 function kindAt(absolute: string, root: string): string {
