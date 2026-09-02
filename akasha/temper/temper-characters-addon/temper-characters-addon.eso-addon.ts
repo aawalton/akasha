@@ -28,6 +28,7 @@ export const temperCharactersAddon = {
     "module/characters-daily-writs-detection",
     "module/characters-grand-master-stations",
     "module/characters-hireling-mail-count",
+    "module/characters-hireling-mail-subscriber",
     "module/characters-item-sets",
     "module/characters-keyed-merge",
     "module/characters-known-id-lists",
