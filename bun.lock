@@ -101,6 +101,15 @@
         "react": "^18 || ^19",
       },
     },
+    "akasha/alan/music/choosing": {
+      "name": "@akasha/music-choosing",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/spotify": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/alan/music/spotify": {
       "name": "@akasha/spotify",
       "bin": {
@@ -805,6 +814,15 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-build-deploy-checks": {
+      "name": "@akasha/temper-build-deploy-checks",
+      "dependencies": {
+        "@akasha/temper-addons-resolve": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "typescript": "^5.8.3",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/temper/temper-build-metadata": {
       "name": "@akasha/temper-build-metadata",
       "dependencies": {
@@ -1337,6 +1355,7 @@
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-items-rules-routing-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
+        "fast-check": "^4.5.3",
       },
     },
     "akasha/temper/temper-items-rules-routing-core": {
@@ -1681,10 +1700,10 @@
     "akasha/tower": {
       "name": "@akasha/tower",
       "dependencies": {
+        "@akasha/story-engine-core": "workspace:*",
         "@akasha/tower-core": "workspace:*",
         "@akasha/tower-engine": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@stories/text": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -2046,6 +2065,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
+        "@akasha/readout-system": "workspace:*",
         "zod": "^4.4.3",
       },
       "devDependencies": {
@@ -3021,19 +3041,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-navigation-addon": {
-      "name": "@temper/game-navigation-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
-      "devDependencies": {
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-lua-runner": "workspace:*",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/player-completion": {
       "name": "@temper/player-completion",
       "version": "0.1.0",
@@ -3466,6 +3473,7 @@
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-characters-stats": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
@@ -3494,7 +3502,6 @@
         "@temper/game-characters-character-ui": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-characters-equipment-ui": "workspace:*",
-        "@temper/game-characters-stats": "workspace:*",
         "@temper/game-codec": "workspace:*",
         "@temper/game-companions-ui": "workspace:*",
         "@temper/game-items-core": "workspace:*",
@@ -3635,6 +3642,8 @@
 
     "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:akasha/mobile-cli"],
 
+    "@akasha/music-choosing": ["@akasha/music-choosing@workspace:akasha/alan/music/choosing"],
+
     "@akasha/named-for": ["@akasha/named-for@workspace:akasha/named-for"],
 
     "@akasha/object-store": ["@akasha/object-store@workspace:akasha/object-store"],
@@ -3716,6 +3725,8 @@
     "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:akasha/temper/temper-antiquities-addon"],
 
     "@akasha/temper-bit-codec": ["@akasha/temper-bit-codec@workspace:akasha/temper/temper-bit-codec"],
+
+    "@akasha/temper-build-deploy-checks": ["@akasha/temper-build-deploy-checks@workspace:akasha/temper/temper-build-deploy-checks"],
 
     "@akasha/temper-build-metadata": ["@akasha/temper-build-metadata@workspace:akasha/temper/temper-build-metadata"],
 
@@ -4650,8 +4661,6 @@
     "@temper/game-items-rules-routing": ["@temper/game-items-rules-routing@workspace:temper/game-items-rules-routing"],
 
     "@temper/game-items-rules-routing-core": ["@temper/game-items-rules-routing-core@workspace:temper/game-items-rules-routing-core"],
-
-    "@temper/game-navigation-addon": ["@temper/game-navigation-addon@workspace:temper/game-navigation-addon"],
 
     "@temper/player-completion": ["@temper/player-completion@workspace:temper/player-completion"],
 

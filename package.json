@@ -76,7 +76,6 @@
     "temper/game-items-rules-matcher",
     "temper/game-items-rules-routing",
     "temper/game-items-rules-routing-core",
-    "temper/game-navigation-addon",
     "temper/player-completion",
     "temper/player-completion-addon",
     "temper/player-completion-skills-morphs-ui",
