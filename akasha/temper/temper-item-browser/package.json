@@ -1,0 +1,35 @@
+{
+  "name": "@akasha/temper-item-browser",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./constants": "./item-browser-constants/item-browser-constants.module.code.ts",
+    "./data": "./item-browser-data/item-browser-data.module.code.ts",
+    "./global": "./item-browser-global/item-browser-global.module.code.ts",
+    "./item-link": "./item-browser-item-link/item-browser-item-link.module.code.ts",
+    "./items": "./item-browser-items/item-browser-items.module.code.ts",
+    "./items-1": "./item-browser-items-1/item-browser-items-1.module.code.ts",
+    "./items-2": "./item-browser-items-2/item-browser-items-2.module.code.ts",
+    "./items-3": "./item-browser-items-3/item-browser-items-3.module.code.ts",
+    "./list": "./item-browser-list/item-browser-list.module.code.ts",
+    "./multi-account": "./item-browser-multi-account/item-browser-multi-account.module.code.ts",
+    "./refresh-state": "./item-browser-refresh-state/item-browser-refresh-state.module.code.ts",
+    "./saved-vars": "./item-browser-saved-vars/item-browser-saved-vars.module.code.ts",
+    "./settings": "./item-browser-settings/item-browser-settings.module.code.ts",
+    "./special-names": "./item-browser-special-names/item-browser-special-names.module.code.ts",
+    "./start": "./item-browser-start/item-browser-start.module.code.ts",
+    "./state": "./item-browser-state/item-browser-state.module.code.ts",
+    "./tab": "./item-browser-tab/item-browser-tab.module.code.ts",
+    "./tooltip-extension": "./item-browser-tooltip-extension/item-browser-tooltip-extension.module.code.ts",
+    "./tooltip-hooks": "./item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.code.ts",
+    "./types": "./item-browser-types/item-browser-types.module.code.ts",
+    "./ui-strings": "./item-browser-ui-strings/item-browser-ui-strings.module.code.ts",
+    "./zone-classification": "./item-browser-zone-classification/item-browser-zone-classification.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/temper-narrow": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*"
+  }
+}
