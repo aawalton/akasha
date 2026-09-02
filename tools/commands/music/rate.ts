@@ -1,6 +1,6 @@
 export const summary = "Record Alan's rating + reaction/insights onto an artist/song page"
 
-import * as eppieSelect from "@collections/music/eppie/select"
+import * as ratingLadder from "@akasha/music-choosing/rating-ladder"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
@@ -127,8 +127,8 @@ export default async function musicRate(args: readonly string[]): Promise<void> 
   const parsed = parseArgs(help, args)
   const target = parsed.requireString("--target")
   const id = parsed.requireString("--id")
-  const select = eppieSelect
-  const rating = await resolveRating(parsed.string("--rating"), select.MUSIC_RATINGS)
+  const ladder = ratingLadder
+  const rating = await resolveRating(parsed.string("--rating"), ladder.MUSIC_RATINGS)
   const reaction = parsed.string("--reaction")
   const personalConnections = parsed.string("--personal-connections")
   const insights = parsed.string("--insights")

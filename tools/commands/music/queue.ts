@@ -1,8 +1,8 @@
 
 export const summary = "Queue N tracks in one call: start the first, server-side enqueue the rest in order"
 
-import * as cliResolve from "@collections/music/cli/resolve"
-import * as spotifyPlayer from "@collections/music-spotify/endpoints/player"
+import * as trackResolving from "@akasha/music-choosing/track-resolving"
+import * as spotifyPlayer from "@akasha/spotify/player"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
@@ -98,7 +98,7 @@ export default async function musicQueue(args: readonly string[]): Promise<void>
     throw inputError("supply at least one track query to queue")
   }
 
-  const resolve = cliResolve
+  const resolve = trackResolving
 
   const tracks: ResolvedTrack[] = []
   for (const query of queries) {

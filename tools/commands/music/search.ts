@@ -1,8 +1,8 @@
 
 export const summary = "Search Spotify for tracks (pure read — no playback); print artist + URI candidates"
 
-import * as trackCandidate from "@collections/music/cli/track-candidate"
-import * as spotifySearch from "@collections/music-spotify/endpoints/search"
+import * as trackCandidate from "@akasha/music-choosing/track-candidate"
+import * as spotifySearch from "@akasha/spotify/search"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"

@@ -1,7 +1,7 @@
 
 export const summary = "Print the currently-playing Spotify track and playback state"
 
-import * as spotifyPlayer from "@collections/music-spotify/endpoints/player"
+import * as spotifyPlayer from "@akasha/spotify/player"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 

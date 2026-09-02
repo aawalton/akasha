@@ -1,9 +1,9 @@
 
 export const summary = "Play a track by query (top hit) or --uri (exact verified track)"
 
-import * as cliResolve from "@collections/music/cli/resolve"
-import * as spotifyPlayer from "@collections/music-spotify/endpoints/player"
-import * as spotifyTracks from "@collections/music-spotify/endpoints/tracks"
+import * as trackResolving from "@akasha/music-choosing/track-resolving"
+import * as spotifyPlayer from "@akasha/spotify/player"
+import * as spotifyTracks from "@akasha/spotify/tracks"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
@@ -96,7 +96,7 @@ export default async function musicPlay(args: readonly string[]): Promise<void> 
   const artist = parsed.string("--artist")
   const json = parsed.boolean("--json")
 
-  const resolve = cliResolve
+  const resolve = trackResolving
 
   let resolvedQuery: string | null
   let track: ResolvedTrack

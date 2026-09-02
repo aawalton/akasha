@@ -1,8 +1,9 @@
 
 export const summary = "Print Alan's personal Spotify listening (recently-played + top items)"
 
-import * as spotifyReads from "@collections/music/spotify-reads"
-import type { TimeRange } from "@collections/music/spotify-reads"
+import * as spotifyPersonalization from "@akasha/spotify/personalization"
+import * as spotifyPlayer from "@akasha/spotify/player"
+import type { TimeRange } from "@akasha/spotify/personalization"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
@@ -111,10 +112,11 @@ function formatListening(data: ListeningData): string {
 export default async function musicListening(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
-  const reads = spotifyReads
+  const affinity = spotifyPersonalization
+  const player = spotifyPlayer
 
   const raw = parsed.string("--window")
-  const window = resolveWindow(raw, reads.TIME_RANGES)
+  const window = resolveWindow(raw, affinity.TIME_RANGES)
   if (window === null) {
     throw inputError(`unknown --window "${raw}" (expected one of: short, medium, long)`)
   }
@@ -123,10 +125,10 @@ export default async function musicListening(args: readonly string[]): Promise<v
   const json = parsed.boolean("--json")
 
   const [currentlyPlaying, recentlyPage, topArtists, topTracks] = await Promise.all([
-    reads.getCurrentlyPlaying(),
-    reads.getRecentlyPlayed({ limit: Math.min(limit, MAX_RECENTLY_PLAYED) }),
-    reads.getTopArtists(window),
-    reads.getTopTracks(window),
+    player.getCurrentlyPlaying(),
+    player.getRecentlyPlayed({ limit: Math.min(limit, MAX_RECENTLY_PLAYED) }),
+    affinity.getTopArtists(window),
+    affinity.getTopTracks(window),
   ])
 
   const data: ListeningData = {
