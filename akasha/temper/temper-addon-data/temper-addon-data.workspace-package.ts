@@ -7,6 +7,7 @@ export const temperAddonData = {
   definition: "where each data file temper renders from its own pages is landed",
   manifest: "json",
   partSlugs: [
+    "module/addon-data-page-rows",
     "module/addon-data-target",
     "module/alliance-mappings",
     "module/champion-point-mappings",

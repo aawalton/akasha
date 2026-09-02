@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./addon-data-page-rows": "./addon-data-page-rows/addon-data-page-rows.module.code.ts",
     "./addon-data-target": "./addon-data-target/addon-data-target.module.code.ts",
     "./alliance-mappings": "./alliance-mappings/alliance-mappings.module.code.ts",
     "./champion-point-mappings": "./champion-point-mappings/champion-point-mappings.module.code.ts",
@@ -30,6 +31,8 @@
     "./skill-line-mappings": "./skill-line-mappings/skill-line-mappings.module.code.ts"
   },
   "dependencies": {
+    "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-query": "workspace:*",
     "@akasha/temper-addon-generators": "workspace:*",
     "@akasha/temper-alchemy": "workspace:*",
     "@akasha/temper-build-codec": "workspace:*",

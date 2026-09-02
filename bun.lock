@@ -821,6 +821,8 @@
     "akasha/temper/temper-addon-data": {
       "name": "@akasha/temper-addon-data",
       "dependencies": {
+        "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-query": "workspace:*",
         "@akasha/temper-addon-generators": "workspace:*",
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-build-codec": "workspace:*",
@@ -915,7 +917,6 @@
       "dependencies": {
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-lua-runner": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "typescript": "^5.8.3",
         "zod": "^4.3.6",
