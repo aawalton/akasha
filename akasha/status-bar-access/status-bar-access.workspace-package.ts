@@ -4,22 +4,13 @@ export const statusBarAccess = {
   id: "01a05c9d-4096-7000-9ca0-5ff9f4e38802",
   pageTypeSlug: "workspace-package",
   slug: "status-bar-access",
-  definition: "a day's readings taken with the page store bound into the readout engine",
+  definition: "a day's cardio reading, drawn from the health samples a watch recorded",
   manifest: "json",
-  partSlugs: ["module/ask-through", "module/session-reading"],
+  partSlugs: ["module/session-reading"],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The engine these readings are drawn by stands outside akasha in `readouts/`.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Every export here binds a port the engine asks through and forwards what the engine answers.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A caller states the day and nothing more.",
+      statement: "A caller states the day and the span the reading covers.",
     },
     {
       invariantKind: "absence",

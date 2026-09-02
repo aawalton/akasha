@@ -1,15 +1,6 @@
 import { selectHealthSamples } from "@akasha/health-samples-access/sample-selecting"
 import { activeCaloriesFromSamples } from "@akasha/health-samples-day/active-calories"
-import {
-  readSessionPages as engineReadSessionPages,
-  type SessionPage,
-  type WakeWindow,
-} from "readouts/session-readings"
-import { askVia } from "../ask-through/ask-through.module.code.ts"
-
-export async function readSessionPages(): Promise<readonly SessionPage[]> {
-  return engineReadSessionPages(askVia())
-}
+import type { WakeWindow } from "readouts/session-readings"
 
 export async function cardioReading(day: string, span: WakeWindow): Promise<number | null> {
   try {

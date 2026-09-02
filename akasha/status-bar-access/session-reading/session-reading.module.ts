@@ -9,11 +9,6 @@ export const sessionReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The sessions a day held are read through the same port every stoplight asks through.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A health sample is read from its own store rather than from the pages.",
     },
     {
