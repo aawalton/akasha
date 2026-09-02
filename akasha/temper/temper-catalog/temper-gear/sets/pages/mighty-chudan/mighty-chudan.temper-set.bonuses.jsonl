@@ -1,3 +1,3 @@
 {"id":"01a05fdb-7c97-7c9c-9b66-2f6c2effc073","count":1,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":1487}]}
 {"id":"01a05fdb-7c97-7483-873a-97c35610db3f","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
-{"id":"01a05fdb-7c97-7005-92df-ea588d6ce6a0","count":2,"status":"supported","description":"Gain Major Resolve at all times, increasing your Physical and Spell Resistance by 5948."}
+{"id":"01a05fdb-7c97-7005-92df-ea588d6ce6a0","count":2,"status":"supported","description":"Gain Major Resolve at all times, increasing your Physical and Spell Resistance by 5948.","effects":[{"buffId":"major-resolve"}]}
