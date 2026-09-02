@@ -38,7 +38,12 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "The reading answered is the number carried in said as that number.",
+      statement:
+        "The reading answered is the number carried in written the way the readout states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout whose page states no format has its reading answered as that number.",
     },
     {
       invariantKind: "departure",

@@ -1,5 +1,6 @@
 import type { Module } from "@akasha/code-system/module"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { FigureFormat } from "./properties/figure-format.text-property.ts"
 import type { GroupSlugs } from "./properties/group-slugs.relation-property.ts"
 import type { Label } from "./properties/label.text-property.ts"
 import type { LastValue } from "./properties/last-value.number-property.ts"
@@ -15,6 +16,7 @@ export type Readout = Module & {
   label: Label
   unit?: Unit
   place: Place
+  figureFormat?: FigureFormat
   scaleSlug?: ScaleSlug
   groupSlugs?: GroupSlugs
   noneLeftWords?: NoneLeftWords
@@ -36,6 +38,7 @@ export const readout = {
     "number-property/place",
     "relation-property/group-slugs",
     "relation-property/scale-slug",
+    "text-property/figure-format",
     "text-property/label",
     "text-property/none-left-emoji",
     "text-property/none-left-words",
@@ -47,6 +50,7 @@ export const readout = {
     { pagePropertySlug: "label", required: true, many: false },
     { pagePropertySlug: "unit", required: false, many: false },
     { pagePropertySlug: "place", required: true, many: false },
+    { pagePropertySlug: "figure-format", required: false, many: false },
     { pagePropertySlug: "scale-slug", required: false, many: false },
     { pagePropertySlug: "group-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "none-left-words", required: false, many: false },
@@ -75,7 +79,15 @@ export const readout = {
     },
     {
       invariantKind: "departure",
+      statement: "A readout carries how its own figure is written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A readout carries one place whatever groups draw the readout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The place a readout carries is where it sits rather than how wide its figure is.",
     },
     {
       invariantKind: "departure",

@@ -61,7 +61,7 @@ export async function stoplightOf(row: Values): Promise<Stoplight | null> {
     ...(wireKey === undefined ? {} : { habit: wireKey }),
     label,
     tier: reached.tier,
-    reading: readingSaid(value),
+    reading: readingSaid(value, stated(row.figureFormat)),
     ...(reached.nextTier === null ? {} : { nextTier: reached.nextTier }),
     ...(reached.progress === null ? {} : { progress: reached.progress }),
   }

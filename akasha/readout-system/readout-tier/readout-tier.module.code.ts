@@ -22,6 +22,8 @@ const RUNGS: readonly (readonly [string, TierColor])[] = [
   ["blueAt", "blue"],
 ]
 
+export const DECIMAL_PLACES = 2
+
 export function statedAt(value: unknown): number | null {
   if (typeof value === "number") return Number.isFinite(value) ? value : null
   if (typeof value !== "string") return null
@@ -72,6 +74,14 @@ export function tierAt(reading: number, rungs: readonly Rung[]): Tiered | null {
   return { tier, nextTier: next.color, progress: Math.min(1, Math.max(0, climbed)) }
 }
 
-export function readingSaid(reading: number): string {
+export function withoutSignedZero(said: number): number {
+  return said === 0 ? 0 : said
+}
+
+export function readingSaid(reading: number, figureFormat?: string): string {
+  if (figureFormat === "integer") return String(withoutSignedZero(Math.round(reading)))
+  if (figureFormat === "decimal") {
+    return String(withoutSignedZero(Number(reading.toFixed(DECIMAL_PLACES))))
+  }
   return String(reading)
 }

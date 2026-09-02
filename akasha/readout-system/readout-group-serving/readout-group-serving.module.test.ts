@@ -95,12 +95,26 @@ test("the label and the key answered are the ones the readout's own page carries
   expect(one?.habit).toBe("safety")
 })
 
-test("the reading answered is the number carried in, said as that number", async () => {
+test("a readout whose page states no format has its reading answered as that number", async () => {
   carried(2.5)
   expect((await stoplights())[0]?.reading).toBe("2.5")
   dropRelayed()
   carried(-1.5)
   expect((await stoplights())[0]?.reading).toBe("-1.5")
+})
+
+test("the reading answered is written the way the readout's own page states", async () => {
+  ANSWERED.readouts = [{ ...READOUT_ROW, figureFormat: "decimal" }]
+  carried(-0.008333333333334636)
+  expect((await stoplights())[0]?.reading).toBe("-0.01")
+})
+
+test("a reading is never answered as the whole tail of the float it was added up from", async () => {
+  ANSWERED.readouts = [{ ...READOUT_ROW, figureFormat: "decimal" }]
+  carried(2.6666666666666665)
+  const said = (await stoplights())[0]?.reading ?? ""
+  expect(said.length).toBeLessThanOrEqual(6)
+  expect(said).toBe("2.67")
 })
 
 test("a reading below every rung is black rather than left out", async () => {

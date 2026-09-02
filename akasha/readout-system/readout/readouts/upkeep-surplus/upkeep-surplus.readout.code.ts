@@ -2,6 +2,10 @@ const DAY = "daily-tracking"
 
 const SURPLUS_HOURS = "surplus-hours"
 
+const SLEEP_HOURS = "sleep-hours"
+
+const SPEND_HOURS = "spend-hours"
+
 const DATE = "date"
 
 export type Row = { readonly values: Readonly<Record<string, unknown>> }
@@ -16,18 +20,26 @@ export function trackingOn(day: string): Readonly<Record<string, unknown>> {
   return {
     "page-type": DAY,
     where: { [DATE]: { is: day } },
-    keys: [SURPLUS_HOURS],
+    keys: [SURPLUS_HOURS, SLEEP_HOURS, SPEND_HOURS],
     limit: 1,
   }
 }
 
-export function surplusIn(values: Readonly<Record<string, unknown>>): number | null {
-  const held = values[SURPLUS_HOURS]
+export function hoursIn(held: unknown): number | null {
   if (typeof held !== "number" && typeof held !== "string") return null
   const trimmed = typeof held === "string" ? held.trim() : held
   if (trimmed === "") return null
   const hours = Number(trimmed)
   return Number.isFinite(hours) ? hours : null
+}
+
+export function heldNothing(values: Readonly<Record<string, unknown>>): boolean {
+  return hoursIn(values[SLEEP_HOURS]) === null && hoursIn(values[SPEND_HOURS]) === null
+}
+
+export function surplusIn(values: Readonly<Record<string, unknown>>): number | null {
+  if (heldNothing(values)) return null
+  return hoursIn(values[SURPLUS_HOURS])
 }
 
 export async function fetchSurplusHours(ask: Asking, day: string): Promise<number | null> {

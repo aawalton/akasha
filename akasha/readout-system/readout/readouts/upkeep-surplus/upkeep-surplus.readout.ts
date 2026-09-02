@@ -10,6 +10,7 @@ export const upkeepSurplus = {
   label: "Surplus",
   unit: "hours",
   place: 2,
+  figureFormat: "decimal",
   scaleSlug: "surplus-hours",
   groupSlugs: ["surplus"],
   wireKey: "surplus",
@@ -17,6 +18,10 @@ export const upkeepSurplus = {
     {
       invariantKind: "departure",
       statement: "The reading is the one the tracking day carries for the day asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The surplus a day carries is the day's sleep less the day's spend.",
     },
     {
       invariantKind: "departure",
@@ -33,6 +38,11 @@ export const upkeepSurplus = {
     {
       invariantKind: "departure",
       statement: "A tracking day carrying no surplus is no reading rather than a surplus of zero.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A day holding neither sleep nor spend is no reading rather than a surplus of zero.",
     },
     {
       invariantKind: "departure",

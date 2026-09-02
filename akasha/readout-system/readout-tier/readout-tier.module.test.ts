@@ -76,8 +76,36 @@ test("a reading that is no finite number reaches no rung", () => {
   expect(tierAt(Number.POSITIVE_INFINITY, CLIMBING)).toBeNull()
 })
 
-test("a reading is said as the number it is", () => {
+test("a readout stating no format has its reading said as the number it is", () => {
   expect(readingSaid(2.5)).toBe("2.5")
   expect(readingSaid(3)).toBe("3")
   expect(readingSaid(-1.5)).toBe("-1.5")
+  expect(readingSaid(-0.008333333333334636)).toBe("-0.008333333333334636")
+})
+
+test("a figure written as a decimal is written to no more than two places", () => {
+  expect(readingSaid(-0.008333333333334636, "decimal")).toBe("-0.01")
+  expect(readingSaid(8.666666666666666, "decimal")).toBe("8.67")
+  expect(readingSaid(-3.256, "decimal")).toBe("-3.26")
+})
+
+test("a figure written as a decimal drops the places it has nothing to put in them", () => {
+  expect(readingSaid(2.5, "decimal")).toBe("2.5")
+  expect(readingSaid(3, "decimal")).toBe("3")
+  expect(readingSaid(-2, "decimal")).toBe("-2")
+})
+
+test("a figure written as an integer is written to the nearest whole number", () => {
+  expect(readingSaid(2.5, "integer")).toBe("3")
+  expect(readingSaid(-3.4, "integer")).toBe("-3")
+  expect(readingSaid(7, "integer")).toBe("7")
+})
+
+test("a figure that rounds onto zero is written as zero rather than as a signed zero", () => {
+  expect(readingSaid(-0.001, "decimal")).toBe("0")
+  expect(readingSaid(-0.4, "integer")).toBe("0")
+})
+
+test("a format no page states leaves the reading said as the number it is", () => {
+  expect(readingSaid(-0.008333333333334636, "duration")).toBe("-0.008333333333334636")
 })

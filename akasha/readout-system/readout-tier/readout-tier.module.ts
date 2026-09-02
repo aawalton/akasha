@@ -68,6 +68,30 @@ export const readoutTier = {
       statement: "A reading that is no finite number reaches no rung.",
     },
     {
+      invariantKind: "departure",
+      statement: "How wide a reading is written is the format the readout states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure written as an integer is written to the nearest whole number.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure written as a decimal is written to no more than two places.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure written as a decimal drops trailing zeros.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure that rounds onto zero is written as zero rather than as a signed zero.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout stating no format has its reading written as the number it is.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here names a readout.",
     },
