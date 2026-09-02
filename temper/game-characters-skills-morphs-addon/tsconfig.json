@@ -12,7 +12,7 @@
   },
   "include": [
     "src/**/*.ts",
-    "../addons/types/eso/**/*.d.ts"
+    "../../akasha/temper/temper-eso-types/**/*.d.ts"
   ],
   "exclude": [
     "src/**/*.test.ts"

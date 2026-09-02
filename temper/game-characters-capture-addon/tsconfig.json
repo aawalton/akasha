@@ -10,5 +10,5 @@
     "strict": true,
     "types": []
   },
-  "include": ["src/**/*.ts", "../addons/types/eso/**/*.d.ts"]
+  "include": ["src/**/*.ts", "../../akasha/temper/temper-eso-types/**/*.d.ts"]
 }
