@@ -26,6 +26,22 @@ export interface PageAnswers {
 
 const NO_PARENT = 'none';
 
+// WHAT A PROPERTY DEFINITION NAMES ITS OWNER BY, AND WHY IT IS NOT A BARE SLUG.
+//
+// `extends-slug` names a page type by its bare slug (`page`, `domain`), because a page type can
+// only extend a page type, so there is nothing to tell apart. `defined-on-slug` cannot: a property
+// is defined on a page type OR on a page property type, and those are two populations that may
+// each hold a slug of the same spelling. So it qualifies: `page-type/agent-hook`,
+// `page-property-type/block-bound`. Every one of them does — no property definition in the
+// checkout names its owner bare.
+//
+// The `types` and `propertyTypes` maps are keyed bare, so an owner is looked up under the
+// namespace it was answered in rather than by stripping the qualifier off. Stripping would key
+// both populations into one map and merge the properties of any two owners spelled alike.
+const ON_TYPE = 'page-type';
+
+const ON_PROPERTY_TYPE = 'page-property-type';
+
 const VOCABULARY_TYPE = 'page-property-type';
 const VOCABULARY_ID = 'vocabulary';
 const VOCABULARY_LABEL = 'page property types';
@@ -169,7 +185,10 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 	const build = (slug: string): PageNode => {
 		seen.add(slug);
 		const row = types.get(slug) as TypeRow;
-		const props = propertiesNode(`type/${slug}/properties`, definedOn.get(slug) ?? []);
+		const props = propertiesNode(
+			`type/${slug}/properties`,
+			definedOn.get(`${ON_TYPE}/${slug}`) ?? []
+		);
 		const kids = (children.get(slug) ?? []).filter((one) => !seen.has(one)).map(build);
 		return {
 			id: `type/${slug}`,
@@ -197,7 +216,7 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 				.map((row) => {
 					const props = propertiesNode(
 						`ptype/${row.typeSlug}/properties`,
-						definedOn.get(row.typeSlug) ?? []
+						definedOn.get(`${ON_PROPERTY_TYPE}/${row.typeSlug}`) ?? []
 					);
 					return {
 						id: `ptype/${row.typeSlug}`,
@@ -210,10 +229,15 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 		})),
 	};
 
-	const drawn = new Set([...seen, ...propertyTypes.map((row) => row.typeSlug)]);
+	// An owner is drawn under the same qualified name a property definition reaches it by, so what
+	// is left over here is an owner no answer held rather than one this failed to look up.
+	const drawn = new Set([
+		...[...seen].map((slug) => `${ON_TYPE}/${slug}`),
+		...propertyTypes.map((row) => `${ON_PROPERTY_TYPE}/${row.typeSlug}`),
+	]);
 	const unreached = [
 		...new Set([
-			...[...types.keys()].filter((slug) => !seen.has(slug)),
+			...[...types.keys()].filter((slug) => !seen.has(slug)).map((slug) => `${ON_TYPE}/${slug}`),
 			...[...definedOn.keys()].filter((slug) => !drawn.has(slug)),
 		]),
 	].sort(byText);
