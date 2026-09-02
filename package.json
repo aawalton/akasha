@@ -51,7 +51,6 @@
     "temper/addons",
     "temper/catalog-addon",
     "temper/game-characters-capture-addon",
-    "temper/game-characters-character",
     "temper/game-characters-character-ui",
     "temper/game-characters-equipment-ui",
     "temper/game-characters-skills-morphs-addon",
