@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's four panels each show what akasha holds.",
       workingMemory:
-        "Five surfaces draw: Pages 2885, Domains ~6950, Work 13, Agents live, status bar 6 slots since the values group went at `267f233e10`. No panel ever reached the pages service; `pages-access` is itself the HTTP road, and the file index holds no markdown, so moving there would have cost 2885 rows. One page-tree read walked the checkout 22 times; memoised to 1 at `03ce0c7796`. What is left is an 11s synchronous stall in the host, not in the reads.",
+        "Timed at `92a183b077`: page-tree 4357ms of a 4506ms activation wall, so Pages is the wall; drawing costs 84ms. Agents halved to 2199 once its poll stopped racing itself and drawing whichever read landed last. Alan's one fast panel is Work, the only one a held-open server answers; Domains, Pages and the bar each spawn a fresh bun per refresh. Domains is dark now: the tree prints 1,256,319 valid bytes and the host reads 1,169,408, stopping on a KiB boundary and saying nothing.",
     },
     {
       statement: "Nothing reads a readout through the markdown engine.",
