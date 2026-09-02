@@ -40,12 +40,17 @@
     "./watcher-import-sales": "./watcher-import-sales/watcher-import-sales.module.code.ts",
     "./watcher-import-companions": "./watcher-import-companions/watcher-import-companions.module.code.ts",
     "./watcher-run-reporting": "./watcher-run-reporting/watcher-run-reporting.module.code.ts",
-    "./watcher-settings-equipment": "./watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
+    "./watcher-settings-equipment": "./watcher-settings-equipment/watcher-settings-equipment.module.code.ts",
+    "./watcher-page-landing": "./watcher-page-landing/watcher-page-landing.module.code.ts",
+    "./watcher-net-worth-landing": "./watcher-net-worth-landing/watcher-net-worth-landing.module.code.ts",
+    "./watcher-task-landing": "./watcher-task-landing/watcher-task-landing.module.code.ts",
+    "./watcher-completed-day-landing": "./watcher-completed-day-landing/watcher-completed-day-landing.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
+    "@akasha/pages-query": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@akasha/supabase-server": "workspace:*",
     "@akasha/temper-addon-generators": "workspace:*",
