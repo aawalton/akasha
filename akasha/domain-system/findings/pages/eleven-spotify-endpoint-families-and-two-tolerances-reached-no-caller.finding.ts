@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const elevenSpotifyEndpointFamiliesAndTwoTolerancesReachedNoCaller = {
+  id: "01a06275-4a8f-7000-ad23-61dfe69acb27",
+  pageTypeSlug: "finding",
+  slug: "eleven-spotify-endpoint-families-and-two-tolerances-reached-no-caller",
+  domainSlug: "domain/music",
+  claim:
+    "Eleven of the Spotify client's fifteen endpoint families are absent from the recreation at `akasha/alan/music/spotify`: albums, artists, audiobooks, browse, chapters, episodes, follow, library, playlists, shows, users. So are `harness.ts`, `fetch-stub.ts`, `endpoints/types.ts`, `reachability.ts` and `restriction.ts`. Nothing outside the old package imported any of them.",
+  evidence:
+    "A grep across every tracked file for `@collections/music-spotify` found eight importers, and between them they name five ways in: `client`, `endpoints/player`, `endpoints/search`, `endpoints/tracks` and `endpoints/personalization`. The importers are `collections/music/src/spotify-reads.ts`, `collections/music/src/cli/now-playing.ts`, `collections/music/src/cli/resolve.ts`, `collections/music/src/cli/track-candidate.ts`, and `tools/commands/music/` at `now-playing.ts`, `play.ts`, `queue.ts` and `search.ts`. No file names any of the eleven.\n\nThe eleven run to 1,307 lines: albums 97, artists 113, audiobooks 79, browse 135, chapters 50, episodes 58, follow 203, library 166, playlists 268, shows 69, users 69. The five others run to 219: harness 122, types 29, reachability 34, restriction 29, fetch-stub 5.\n\n`reachability.ts` and `restriction.ts` do one job twice. Both run a call, read the thrown message for the text `spotify API 403`, and answer a record rather than throwing. `tolerateStatuses` answers `{restricted, status, detail}` and takes the statuses to tolerate as an argument; `attemptOrRecordRestriction` answers `{available, status}` and holds 403 and 404 in a list of its own. `src/endpoints/tracks.ts` carried a third, `recordReachability`, spelled inline. Only the probes read any of the three.\n\n`harness.ts` reached every family by scanning `src/endpoints/*.ts` for a default export, so each family carried a `descriptor` naming probes that make live calls. `fetch-stub.ts` builds a stub `fetch`, and nothing imported it. `src/parse.ts` held a five-line wrapper over `schema.parse` and is folded into the client's own body.",
+} as const satisfies Finding
