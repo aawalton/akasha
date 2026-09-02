@@ -1,8 +1,9 @@
 import { randomUUID } from "node:crypto"
 import { existsSync, mkdirSync, readFileSync } from "node:fs"
-import { dirname } from "node:path"
+import { dirname, resolve } from "node:path"
 import { getEsoDayStrAt } from "@akasha/day/eso-day"
 import { exclusively } from "@akasha/file-system/exclusive"
+import { canonicalize } from "@akasha/pages-system/repo-path"
 import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
 import { sampleIdentity } from "../sample-identity/sample-identity.module.code.ts"
 import { numberAt, textAt } from "../sample-rows/sample-rows.module.code.ts"
@@ -21,6 +22,28 @@ const EMPTY_REPORT: HealthSampleWriteReport = {
 }
 
 const ROWS_SUFFIX = ".jsonl"
+
+export const KEPT_IN = "HEALTH_SAMPLE_ROWS_KEPT_IN"
+
+export function keptSaid(): string | null {
+  const said = process.env[KEPT_IN]
+  return said === undefined || said.trim() === "" ? null : said.trim()
+}
+
+export function refusalWhereNothingKeeps(root: string, said: string | null): string | null {
+  if (said !== null && canonicalize(resolve(said)) === root) return null
+  const says =
+    said === null
+      ? "nothing says which checkout keeps the readings written into it"
+      : `\`${KEPT_IN}\` says \`${said}\``
+  return (
+    `${says}, and this would have written into \`${root}\`. A rows file is tracked, so a ` +
+    "checkout restored by `git reset --hard origin/main` throws away what was written into it, " +
+    "and answering this write as done would let the device move its anchor past readings " +
+    `nothing keeps. Say the checkout whose writes last in \`${KEPT_IN}\`, naming the very ` +
+    "checkout written into."
+  )
+}
 
 interface Filed {
   readonly at: number
@@ -147,6 +170,12 @@ export async function upsertHealthSamples(args: {
   if (args.samples.length === 0) return EMPTY_REPORT
 
   const root = checkoutRoot()
+  const refused = refusalWhereNothingKeeps(root, keptSaid())
+  if (refused !== null) {
+    throw new Error(
+      `upsertHealthSamples: ${args.samples.length} reading(s) were not written — ${refused}`
+    )
+  }
   const byIdentity = new Map<string, HealthSample>()
   for (const sample of args.samples) byIdentity.set(sampleIdentity(sample), sample)
 

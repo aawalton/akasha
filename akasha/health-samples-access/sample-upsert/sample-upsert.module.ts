@@ -6,6 +6,7 @@ export const sampleUpsert = {
   slug: "sample-upsert",
   definition: "health readings landed on the ESO day each began in",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -35,6 +36,14 @@ export const sampleUpsert = {
     {
       invariantKind: "departure",
       statement: "A second rows part beside the first refuses rather than filing a reading twice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading is written only into the checkout said to keep what is written there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write that cannot be kept is refused rather than answered as done.",
     },
     {
       invariantKind: "absence",
