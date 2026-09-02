@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Entries are already the dominant shape: 4,189 `.jsonl` files and 789,461 rows under akasha, read from production, and a writer for the numbered part files landed at `0d56d921e2` with an 8,114-leaf consumer proof at `f46fa0f0e5`. What that writer produces cannot land: `file-has-its-page` refuses a `.part2.jsonl` because no page claims it, and the row judge reads only the first file. Both mends are Alan's. The addon-data pipeline is whole, 62 of 62 files identical.",
+        "Entries are the dominant shape already: 4,189 `.jsonl` files and 789,461 rows under akasha, and a writer for the numbered part files landed at `0d56d921e2` with an 8,114-leaf proof at `f46fa0f0e5`. What that writer produces cannot land: `file-has-its-page` refuses a `.part2.jsonl` because no page claims it, and the row judge reads only the first file. Both mends are Alan's. The addon-data pipeline no longer runs at all: `ensureAllOutputDirs` throws on the ablated `game-characters-skills`.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "130 parts here against 52 tracked folders, read at 08:13. Count tracked files, not directories: an ablated folder keeps a `node_modules` shell, so any `isdir` sweep scores a torn-down reference as sound. `akasha remove` reaches outside `akasha/`, but no check judges a path there. Ablation owes a second step: while the root `package.json` names what went, `bun install` refuses tree-wide, and `akasha write` and `edit` refuse that file for being outside `akasha/`.",
+        "Ablation is the bottleneck now, not recreation, and the tooling caught up: `akasha remove` takes the root manifest row and remakes the lockfile at `919be4c20a`, and `akasha edit` reaches any path in the repository at `01d263ef66`. Only `akasha write` still refuses outside `akasha/`. Landed akasha code names `@temper/` in 63 files and imports it in two, three specifiers, all `game-codec`. Count specifiers by parse, never by grep.",
     },
   ],
   constraints: [
