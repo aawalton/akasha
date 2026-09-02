@@ -16,7 +16,10 @@ export const SILENT_AFTER_MS = 72 * HOUR_MS
 
 export const LOOKED_BACK_MS = 30 * 24 * HOUR_MS
 
-const LATCH_AT = "/var/tmp/health-samples-arrival-watchdog.latch"
+// The latch path is overridable so a test can prove the hold-after-send ordering against a
+// temporary file rather than the live latch, which a test writing to it would corrupt.
+const LATCH_AT =
+  process.env.HEALTH_SAMPLES_ARRIVAL_LATCH ?? "/var/tmp/health-samples-arrival-watchdog.latch"
 
 const REACH = [
   "WHAT THIS CANNOT SEE. It opens the day files in one checkout and nothing else. It makes no",
@@ -170,7 +173,7 @@ export function rootIn(argv: readonly string[]): string | null {
   return said
 }
 
-async function main(argv: readonly string[]): Promise<number> {
+export async function main(argv: readonly string[]): Promise<number> {
   if (argv.includes("--help")) {
     process.stdout.write(HELP)
     return 0
@@ -187,14 +190,29 @@ async function main(argv: readonly string[]): Promise<number> {
   if (argv.includes("--notify")) {
     const said = ruling.verdict === "arriving" ? "" : (ruling.latestArrivalAt ?? "none")
     const fresh = said !== "" && said !== latched()
-    holdLatch(said)
-    if (fresh) {
-      await notify(ALAN_PERSON, {
-        title: "Your health readings have stopped arriving",
-        body: bodyFor(ruling),
-        kind: "alert",
-        source: "health-samples-arrival-watchdog",
-      })
+    // A LATCH IS A RECORD THAT ALAN WAS TOLD, so it is held after the send and never before it.
+    // This wrote the latch first, so a `notify` that threw — or a kill in the window between the
+    // two — left the silence recorded as stated and the alert was never retried: one lost alert,
+    // silently, for as long as that same arrival stayed the newest. The latch now moves only
+    // where the notification was written, so a send that did not land is said again next run.
+    if (said === "") {
+      // Arriving again: nothing is owed, and clearing the latch lets the next silence be stated.
+      holdLatch(said)
+    } else if (fresh) {
+      try {
+        await notify(ALAN_PERSON, {
+          title: "Your health readings have stopped arriving",
+          body: bodyFor(ruling),
+          kind: "alert",
+          source: "health-samples-arrival-watchdog",
+        })
+      } catch (thrown) {
+        process.stderr.write(
+          `arrival-watchdog: the alert did not land, so the latch stays where it was and the next run states it again: ${thrown instanceof Error ? thrown.message : thrown}\n`
+        )
+        return 1
+      }
+      holdLatch(said)
     }
   }
 

@@ -189,14 +189,30 @@ async function main(argv: readonly string[]): Promise<number> {
   if (wanted) {
     const already = new Set(latchedAccounts())
     const fresh = stall.stalled.filter((one) => !already.has(one))
-    holdLatch(stall.stalled)
+    // A LATCH IS A RECORD THAT ALAN WAS TOLD, so it is held after the send and never before it.
+    // This wrote the latch first, so a `notify` that threw — or a kill in the window between the
+    // two — left every stalled account recorded as stated and the alert was never retried: one
+    // lost alert, silently, for as long as those same accounts stayed stalled. The latch now
+    // moves only where the notification was written.
     if (fresh.length > 0) {
-      await notify(ALAN_PERSON, {
-        title: `Claude account upkeep has stalled on ${stall.stalled.length} of ${stall.pages}`,
-        body: bodyFor(stall),
-        kind: "alert",
-        source: "claude-account-upkeep-stall",
-      })
+      try {
+        await notify(ALAN_PERSON, {
+          title: `Claude account upkeep has stalled on ${stall.stalled.length} of ${stall.pages}`,
+          body: bodyFor(stall),
+          kind: "alert",
+          source: "claude-account-upkeep-stall",
+        })
+      } catch (thrown) {
+        process.stderr.write(
+          `upkeep-stall: the alert did not land, so the latch stays where it was and the next run states it again: ${thrown instanceof Error ? thrown.message : thrown}\n`
+        )
+        return 1
+      }
+      holdLatch(stall.stalled)
+    } else {
+      // Nothing fresh is owed, so the latch follows what stands and recovered accounts drop out
+      // of it, letting a later stall on the same account be stated rather than swallowed.
+      holdLatch(stall.stalled)
     }
   }
 
