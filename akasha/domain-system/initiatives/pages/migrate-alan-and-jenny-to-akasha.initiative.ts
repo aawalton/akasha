@@ -26,7 +26,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The interior of Alan's site stands in akasha.",
       workingMemory:
-        "The interior is everything under `app/` but `routes/` and `hooks/`: 128 files, every one outside akasha. `akasha/alan/web` holds 4, and taking the basename of each `app/` file and looking for it under akasha matches none. The old note conflated mentions with imports: `@shared/pages-ui` is 22 occurrences on 18 lines, but only 4 real import statements repo-wide and 1 in Alan's site, at `app/components/app-shell.tsx:10`. `@shared/utils-test` is a second outward reach, in two component tests.",
+        "124 files now, from 128. `capacitor-bridge`, `api-origin`, `api-fetch` and `capacitor-cors` are four modules under `akasha/alan/web` at `e11669e66a` and `dc0ebc8f50`, and 11 of routes' 71 escapes went with them. Ordering is the only bar left, since this initiative already rules an outside dependency none: 60 of the 128 imported no interior file at all. 15 files carry `.server`, a build-time guard akasha's naming cannot spell. A `declare global` and prose in code are both refused.",
     },
     {
       statement:
