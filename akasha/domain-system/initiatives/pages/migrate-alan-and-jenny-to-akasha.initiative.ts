@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's status line shows Claude usage and both readout groups.",
       workingMemory:
-        "Alan reloaded, and activation threw `undefined stands under no akasha folder`: `gate-building` asks `rootOf(import.meta.path)` as it loads, and node answers undefined. It is reached by `work-tree/harness.ts` and `seat/turn-color.ts`, the two reaches not yet bun children, through `tools/lib` where no grep of the extension saw them. The instrument called 4 of 5 clean because it judged the files already mended rather than `extension.ts`, which is what activates.",
+        "Activation is mended and landed: `gate-building` asks whichever runtime runs it, the last two reaches are bun children, and the instrument judges `extension.ts` itself at 6 of 6 clean, with `activate()` run under node against a stub editor. Nobody has seen the bar render, so a lane is building a harness that asserts content on all five surfaces rather than leaving Alan as the instrument. Two reaches poll at 1 Hz and cost a fifth of a core each; the interval is Alan's.",
     },
     {
       statement: "The code editor's four panels each show what akasha holds.",
