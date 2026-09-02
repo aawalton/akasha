@@ -1,7 +1,7 @@
 import type { Finding } from "../finding.page-type.ts"
 
 export const theLibDataEncodeGlobalIsNamedOnlyInsideTheLibraryThatMakesIt = {
-  id: "01a06185-f68f-7728-8210-77487edaa487",
+  id: "01a06182-848e-76a6-a99b-2be37819e4cf",
   pageTypeSlug: "finding",
   slug: "the-lib-data-encode-global-is-named-only-inside-the-library-that-makes-it",
   domainSlug: "domain/temper",
