@@ -19,6 +19,12 @@ export const athenaModelGatewayIntoAkasha = {
       workingMemory:
         "Nine processes run from tools/lib/model-gateway/main.ts, spawned by supervisor-spawn-oauth-proxy.ts, which resolves the entrypoint relative to tools/lib through model-gateway-tree-version.ts:31 and can only ever spawn the old path; that resolution and the version stamp deciding when a supervisor respawns move first. pages-system-service is the precedent for running from a page, but it holds one fixed port where a gateway opens one per seat and a unix socket besides.",
     },
+    {
+      statement:
+        "The supervisor is a domain in akasha, and every module it runs from is a page there.",
+      workingMemory:
+        "The supervisor runs from tools/run-supervisor.ts across 107 supervisor-* modules, a closure of 367 files. 166 of those are shared with the gateway closure of 209, and none of the shared files sit inside model-gateway/, so both ports run at once and the shared library is ported by whichever reaches it first. supervisor-spawn-oauth-proxy.ts is the seam: it spawns the gateway and resolves that entrypoint through model-gateway-tree-version.ts.",
+    },
   ],
   constraints: [
     "The new gateway is built beside the old one, its users are moved to it, and only then is the old one removed.",
