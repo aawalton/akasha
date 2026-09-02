@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/temper-quests-trace",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./auto-quest-trace": "./auto-quest-trace/auto-quest-trace.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-saved-variables": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
