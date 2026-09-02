@@ -16,6 +16,10 @@ import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value
 import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import {
+  ACTIVITY_CATEGORIES,
+  type ActivityCategoryId,
+} from "@akasha/temper-player-completion/activity-categories"
+import {
   isAccountMeasured,
   isCharacterMeasured,
   isCompanionMeasured,
@@ -26,10 +30,6 @@ import type {
   CompletionSortMode,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { CompletionSearchContext } from "@akasha/temper-player-completion-ui/completion-search-context"
-import {
-  type ActivityCategoryId,
-  activityCategories,
-} from "@temper/player-completion/activity-category-data"
 import { getTabForCard } from "@temper/player-completion/completion-card-registry"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
@@ -155,7 +155,7 @@ export function CompletionPageContent({
   )
 
   const activityCategoryFilter: ActivityCategoryId[] = values.activity.filter(
-    (x): x is ActivityCategoryId => activityCategories.has(x)
+    (x): x is ActivityCategoryId => ACTIVITY_CATEGORIES.has(x)
   )
 
   const completionFilter: CompletionFilter = values.completionFilter.filter(
