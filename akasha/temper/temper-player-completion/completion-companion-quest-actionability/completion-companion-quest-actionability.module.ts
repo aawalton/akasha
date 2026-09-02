@@ -6,6 +6,7 @@ export const completionCompanionQuestActionability = {
   slug: "completion-companion-quest-actionability",
   definition: "the next companion quest a player can take right now",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
