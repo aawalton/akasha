@@ -25,6 +25,7 @@ function entry(message: string, count: number, traceback?: string | null): Error
 
 const LIVE: EntryVerdict = { stale: false, triage: "actionable" as never }
 const STALE: EntryVerdict = { stale: true, triage: "stale-ram" as never }
+const LIVE_RECURRENCE: EntryVerdict = { stale: false, triage: "live-recurrence" }
 
 test("an error is known by the crash signature of its message and its traceback", () => {
   expect(signatureFor(entry("boom", 1, "a.lua:1"))).toBe(signatureFor(entry("boom", 9, "a.lua:1")))
@@ -103,6 +104,70 @@ test("a missing traceback is carried up as an empty string", () => {
 test("a traceback the game gave is carried up whole", () => {
   const d = decideErrorEmissions(new Map(), [entry("boom", 1, "a.lua:12")], () => LIVE)
   expect(d.envelopes[0]?.traceback).toBe("a.lua:12")
+})
+
+test("what is carried up is stamped as a temper error from the account that saw it", () => {
+  const d = decideErrorEmissions(new Map(), [entry("boom", 1)], () => LIVE)
+  expect(d.envelopes[0]?.kind).toBe("temper-error")
+  expect(d.envelopes[0]?.account).toBe("@alan")
+  expect(d.envelopes[0]?.character).toBe("Vex")
+})
+
+test("the verdict's triage is stamped onto what is carried up", () => {
+  const d = decideErrorEmissions(new Map(), [entry("boom", 1)], () => LIVE_RECURRENCE)
+  expect(d.envelopes[0]?.triage).toBe("live-recurrence")
+})
+
+test("what is carried up carries the signature it is known by", () => {
+  const e = entry("boom", 1, "user:/AddOns/Temper/Temper.lua:4: in function 'f'")
+  const d = decideErrorEmissions(new Map(), [e], () => LIVE)
+  expect(d.envelopes[0]?.signature).toBe(signatureFor(e))
+})
+
+test("two tracebacks of one crash site are known by one signature", () => {
+  const message = "/EsoUI/Ingame/Inventory/Inventory.lua:1596: attempt to index a nil value"
+  const frame = "user:/AddOns/Temper/TemperMasterWritInventoryMarker.lua:475: in function 'f'"
+  const batch = (): ErrorEntry[] => [
+    entry(message, 1, `stack traceback:\n\t${frame}\n\tZO_MenuBar:305: in 'Release'`),
+    entry(message, 1, `stack traceback:\n\t${frame}\n\tZO_MainMenu:3: in 'MouseUp'`),
+  ]
+  const first = decideErrorEmissions(new Map(), batch(), () => LIVE)
+  expect(first.nextSeen.size).toBe(1)
+  expect(first.envelopes[0]?.signature).toBe(first.envelopes[1]?.signature)
+  expect(decideErrorEmissions(first.nextSeen, batch(), () => LIVE).envelopes).toHaveLength(0)
+})
+
+test("an error held back has its count recorded all the same", () => {
+  const e = entry("boom", 6)
+  const d = decideErrorEmissions(new Map(), [e], () => STALE)
+  expect(d.nextSeen.get(signatureFor(e))).toBe(6)
+})
+
+test("a burst carries the live errors up and holds the unloaded ones back", () => {
+  const d = decideErrorEmissions(
+    new Map(),
+    [entry("live error", 1), entry("stale residue", 1)],
+    (e) => (e.message === "stale residue" ? STALE : LIVE)
+  )
+  expect(d.envelopes.map((env) => env.message)).toEqual(["live error"])
+  expect(d.suppressed).toBe(1)
+})
+
+test("distinct crash sites are each carried up", () => {
+  const d = decideErrorEmissions(
+    new Map(),
+    [entry("first error", 1), entry("second error", 1)],
+    () => LIVE
+  )
+  expect(d.envelopes.map((env) => env.message).sort()).toEqual(["first error", "second error"])
+})
+
+test("an error carried up once is not carried up again on the next read", () => {
+  const e = entry("boom", 1, null)
+  const first = decideErrorEmissions(new Map(), [e], () => LIVE)
+  expect(first.envelopes).toHaveLength(1)
+  expect(first.nextSeen.get(signatureFor(e))).toBe(1)
+  expect(decideErrorEmissions(first.nextSeen, [e], () => LIVE).envelopes).toHaveLength(0)
 })
 
 test("an addon the game unloaded is read as residue", () => {
