@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's status line shows Claude usage and both readout groups.",
       workingMemory:
-        "The bar already carries all four and `fiveHourSpent` already answers the effective rule Alan named, so what was owed was a reload — and a reload met `Bun is not defined`, from a transpiler built at import in `page-value`. Made lazy at `75cfe9da86`, and the same node import now answers OK. Alan has since ruled the markdown readout and widget pages ablated, migrating first anything the new system reads. Three lanes hold that, the bar's move, and whether the host can be bun.",
+        "Alan has ruled the markdown readout and widget pages ablated, migrating first what the new system reads — and the widgets half reads them by a declared invariant, so migrating is the live branch rather than the exception. He has also approved bun children for the four in-process reaches the editor makes. The transpiler made lazy at `75cfe9da86` was a half-mend: `Bun.` still reaches node there and in `atomic-write`, so one crash at startup became two intermittent ones.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
