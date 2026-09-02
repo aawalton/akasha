@@ -9,7 +9,14 @@ export const temperCharactersAddon = {
   manifest: "json",
   addonManifest: "json",
   bindings: "xml",
-  partSlugs: ["module/characters-alliance-rank", "module/characters-current-entry"],
+  luaModuleSlugs: ["lua-module/characters-config-global"],
+  partSlugs: [
+    "eso-interface/skill-point-finder-layout",
+    "lua-module/characters-config-global",
+    "module/characters-alliance-rank",
+    "module/characters-current-entry",
+  ],
+  interfaceSlugs: ["skill-point-finder-layout"],
   invariants: [
     {
       invariantKind: "departure",

@@ -5,7 +5,28 @@
   "author": "AlanGaming",
   "version": "1.0.0",
   "addonVersion": 100,
-  "apiVersion": ["101049", "101050"],
-  "savedVariables": ["TemperCharacters_SavedVariables", "TemperSkillPointFinder_SavedVariables"],
-  "dependsOn": ["LibAddonMenu-2.0>=43", "TemperTableFunctions", "TemperHud"]
+  "apiVersion": [
+    "101049",
+    "101050"
+  ],
+  "savedVariables": [
+    "TemperCharacters_SavedVariables",
+    "TemperSkillPointFinder_SavedVariables"
+  ],
+  "dependsOn": [
+    "LibAddonMenu-2.0>=43",
+    "TemperTableFunctions",
+    "TemperHud"
+  ],
+  "additionalLuaFiles": [
+    "TemperCharactersConfig.lua"
+  ],
+  "xmlFiles": {
+    "afterBundle": [
+      "USPF.xml"
+    ]
+  },
+  "assets": [
+    "USPF.xml"
+  ]
 }
