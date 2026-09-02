@@ -22,7 +22,7 @@ export const awenMigrateStoryEngineToAkasha = {
     {
       statement: "No part of a story or a world exists only in the database.",
       workingMemory:
-        "`dirty/` holds 1,898 files that are database rows dumped to disk rather than pages: `story-skill` 911, `story-class` 362, `story-character-timeline` 137, `story-wiki` 33, `story-build` 3, `story-decision` 2. None of the six has a page type. They give themselves away by a camelCase `pageType`, `createdAt` and `updatedAt` in timestamptz, and `story` naming a uuid rather than a slug. No `.sql` file and no `.from(` call is anywhere in the tree, so what is still live in Supabase is unread.",
+        "`dirty/` holds 1,898 files that are database rows dumped to disk rather than pages: `story-skill` 911, `story-class` 362, `story-character-timeline` 137, `story-wiki` 33, `story-build` 3, `story-decision` 2, none with a page type. They give themselves away by a camelCase `pageType` and by `story` naming a uuid. Beside them, 20 story-engine kinds do have a page type, declare `files: none` and hold 0 pages, `game-turn` and `tower-session` among them. Nothing here reaches the database.",
     },
     {
       statement: "Alan can play a game again.",
