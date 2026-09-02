@@ -1,0 +1,47 @@
+import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
+
+export const temperCharactersCaptureAddon = {
+  id: "01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4",
+  pageTypeSlug: "workspace-package",
+  slug: "temper-characters-capture-addon",
+  definition: "what the game answers about the character playing now, read out as a build hash",
+  manifest: "json",
+  partSlugs: [
+    "module/character-capture-alliance-map",
+    "module/character-capture-base-ability",
+    "module/character-capture-champion-point-map",
+    "module/character-capture-class-map",
+    "module/character-capture-codec-constants",
+    "module/character-capture-codec-types",
+    "module/character-capture-curse-map",
+    "module/character-capture-enchant-quality",
+    "module/character-capture-equipment-map",
+    "module/character-capture-food-map",
+    "module/character-capture-morphable-00",
+    "module/character-capture-morphable-01",
+    "module/character-capture-morphable-02",
+    "module/character-capture-morphable-03",
+    "module/character-capture-morphable-04",
+    "module/character-capture-mundus-map",
+    "module/character-capture-passive-map",
+  ],
+  invariants: [
+    {
+      invariantKind: "constraint",
+      statement: "A place in these tables is the number a saved build hash carries.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An entry moved to another place misreads every build hash already saved.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "These tables are written out from the character and gear pages rather than by hand.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a build hash back.",
+    },
+  ],
+} as const satisfies WorkspacePackage

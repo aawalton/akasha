@@ -1,0 +1,32 @@
+{
+  "name": "@akasha/temper-characters-capture-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./character-capture-alliance-map": "./character-capture-alliance-map/character-capture-alliance-map.module.code.ts",
+    "./character-capture-base-ability": "./character-capture-base-ability/character-capture-base-ability.module.code.ts",
+    "./character-capture-champion-point-map": "./character-capture-champion-point-map/character-capture-champion-point-map.module.code.ts",
+    "./character-capture-class-map": "./character-capture-class-map/character-capture-class-map.module.code.ts",
+    "./character-capture-codec-constants": "./character-capture-codec-constants/character-capture-codec-constants.module.code.ts",
+    "./character-capture-codec-types": "./character-capture-codec-types/character-capture-codec-types.module.code.ts",
+    "./character-capture-curse-map": "./character-capture-curse-map/character-capture-curse-map.module.code.ts",
+    "./character-capture-enchant-quality": "./character-capture-enchant-quality/character-capture-enchant-quality.module.code.ts",
+    "./character-capture-equipment-map": "./character-capture-equipment-map/character-capture-equipment-map.module.code.ts",
+    "./character-capture-food-map": "./character-capture-food-map/character-capture-food-map.module.code.ts",
+    "./character-capture-morphable-00": "./character-capture-morphable-00/character-capture-morphable-00.module.code.ts",
+    "./character-capture-morphable-01": "./character-capture-morphable-01/character-capture-morphable-01.module.code.ts",
+    "./character-capture-morphable-02": "./character-capture-morphable-02/character-capture-morphable-02.module.code.ts",
+    "./character-capture-morphable-03": "./character-capture-morphable-03/character-capture-morphable-03.module.code.ts",
+    "./character-capture-morphable-04": "./character-capture-morphable-04/character-capture-morphable-04.module.code.ts",
+    "./character-capture-mundus-map": "./character-capture-mundus-map/character-capture-mundus-map.module.code.ts",
+    "./character-capture-passive-map": "./character-capture-passive-map/character-capture-passive-map.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-bit-codec": "workspace:*",
+    "@akasha/temper-capture-shapes": "workspace:*",
+    "@akasha/temper-capture-writer": "workspace:*",
+    "@akasha/temper-catalog-core": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
