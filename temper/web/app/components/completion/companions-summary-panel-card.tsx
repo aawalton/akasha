@@ -1,15 +1,15 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import {
+  COMPANION_CARDS,
+  type CompanionSummaryData,
+} from "@akasha/temper-player-completion/completion-card-registry"
+import {
   type CompletionFilter,
   type CompletionNode,
   CompletionPanelCard,
   type CompletionSortMode,
   createNodeFilter,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import {
-  COMPANION_CARDS,
-  type CompanionSummaryData,
-} from "@temper/player-completion/completion-card-registry"
 
 interface CompanionsSummaryPanelCardProps {
   summary: CompanionSummaryData
