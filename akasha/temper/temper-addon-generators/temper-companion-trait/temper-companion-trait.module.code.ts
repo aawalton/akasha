@@ -1,5 +1,7 @@
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { renderConstOrNull } from "../render-const-or-null/render-const-or-null.module.code.ts"
+import { renderQualityValues } from "../render-quality-values/render-quality-values.module.code.ts"
 
 const FLAT_QUALITY_VALUES_SCHEMA = z
   .object({
@@ -43,7 +45,7 @@ function parseCompanionTrait(row: Page): ParsedCompanionTrait {
     key: row.key,
     description: row.description,
     metricId: row.metricId,
-    effectType: row.effectType,
+    effectType: row.type,
     isReduction: row.isReduction,
     qualityValues: row.qualityValues,
   })
@@ -56,18 +58,6 @@ function parseCompanionTrait(row: Page): ParsedCompanionTrait {
     isReduction: eav.isReduction,
     qualityValues: eav.qualityValues,
   }
-}
-
-function renderQualityValues(qv: z.infer<typeof FLAT_QUALITY_VALUES_SCHEMA>): string {
-  return `{ normal: ${qv.normal}, fine: ${qv.fine}, superior: ${qv.superior}, epic: ${qv.epic}, legendary: ${qv.legendary} }`
-}
-
-function renderMetricId(metricId: string | null): string {
-  return metricId === null ? "null" : `${JSON.stringify(metricId)} as const`
-}
-
-function renderEffectType(effectType: "fractional-change" | "integer" | null): string {
-  return effectType === null ? "null" : `${JSON.stringify(effectType)} as const`
 }
 
 export function generateTemperCompanionTrait(rows: readonly Page[]): string {
@@ -94,7 +84,7 @@ export function generateTemperCompanionTrait(rows: readonly Page[]): string {
 
   const entries = sorted.map((t) => {
     const qualityValues = t.qualityValues === null ? "null" : renderQualityValues(t.qualityValues)
-    return `  ${JSON.stringify(t.key)}: { id: ${JSON.stringify(t.key)} as const, name: ${JSON.stringify(t.name)}, description: ${JSON.stringify(t.description)}, metricId: ${renderMetricId(t.metricId)}, effectType: ${renderEffectType(t.effectType)}, isReduction: ${t.isReduction}, qualityValues: ${qualityValues} },`
+    return `  ${JSON.stringify(t.key)}: { id: ${JSON.stringify(t.key)} as const, name: ${JSON.stringify(t.name)}, description: ${JSON.stringify(t.description)}, metricId: ${renderConstOrNull(t.metricId)}, effectType: ${renderConstOrNull(t.effectType)}, isReduction: ${t.isReduction}, qualityValues: ${qualityValues} },`
   })
 
   return `\

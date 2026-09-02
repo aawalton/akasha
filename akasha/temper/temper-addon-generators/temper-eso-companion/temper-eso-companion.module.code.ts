@@ -1,5 +1,6 @@
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { renderConstOrNull } from "../render-const-or-null/render-const-or-null.module.code.ts"
 
 const PASSIVE_EFFECT_SCHEMA = z
   .object({
@@ -63,10 +64,6 @@ function parseCompanion(row: Page): ParsedCompanion {
   }
 }
 
-function renderClassPassiveId(classPassiveId: string | null): string {
-  return classPassiveId === null ? "null" : `${JSON.stringify(classPassiveId)} as const`
-}
-
 function renderIcon(icon: string | null): string {
   return icon === null ? "null" : JSON.stringify(icon)
 }
@@ -96,7 +93,7 @@ export function generateTemperEsoCompanion(rows: readonly Page[]): string {
     fields.push(`    alliance: ${JSON.stringify(c.alliance)} as const`)
     fields.push(`    icon: ${renderIcon(c.icon)}`)
     fields.push(`    esoCompanionId: ${c.esoCompanionId}`)
-    fields.push(`    classPassiveId: ${renderClassPassiveId(c.classPassiveId)}`)
+    fields.push(`    classPassiveId: ${renderConstOrNull(c.classPassiveId)}`)
     fields.push(`    passiveEffects: ${renderPassiveEffects(c.passiveEffects)}`)
     return `  ${keyLiteral}: {
 ${fields.join(",\n")},

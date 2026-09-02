@@ -1,5 +1,7 @@
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { identityOf } from "../identity-of-key/identity-of-key.module.code.ts"
+import { nodeUnder, type TreeNode } from "../tree-node-under/tree-node-under.module.code.ts"
 
 const ITEM_CATEGORY_TREE_EAV_SCHEMA = z
   .object({
@@ -39,13 +41,6 @@ interface ParsedNode {
   itemNameContains?: string
 }
 
-function identityOf(key: string): string {
-  return key
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-}
-
 function parseRow(row: Page): ParsedNode {
   if (typeof row.id !== "string") {
     throw new Error(`temper-item-category-tree row missing id: ${JSON.stringify(row)}`)
@@ -54,10 +49,10 @@ function parseRow(row: Page): ParsedNode {
     throw new Error(`temper-item-category-tree row ${row.id} has non-string title`)
   }
   const eav = ITEM_CATEGORY_TREE_EAV_SCHEMA.parse({
-    key: row.key,
+    key: row.slug,
     parent: row.parent ?? null,
     priorityOrder: row.priorityOrder ?? null,
-    sortOrder: row.sortOrder,
+    sortOrder: row.displayOrder,
     filterTypes: row.filterTypes,
     itemTypes: row.itemTypes,
     specializedItemTypes: row.specializedItemTypes,
@@ -89,10 +84,7 @@ function parseRow(row: Page): ParsedNode {
   }
 }
 
-interface BuilderNode {
-  parsed: ParsedNode
-  children: readonly BuilderNode[]
-}
+type BuilderNode = TreeNode<ParsedNode>
 
 function buildTree(parsed: readonly ParsedNode[]): {
   priorityRoots: readonly BuilderNode[]
@@ -118,15 +110,6 @@ function buildTree(parsed: readonly ParsedNode[]): {
     }
   }
 
-  function makeNode(p: ParsedNode): BuilderNode {
-    const childRows = childrenByParentId.get(p.id) ?? []
-    const sortedChildren = [...childRows].sort((a, b) => a.sortOrder - b.sortOrder)
-    return {
-      parsed: p,
-      children: sortedChildren.map(makeNode),
-    }
-  }
-
   const rootRows = childrenByParentId.get(null) ?? []
   for (const root of rootRows) {
     if (root.priorityOrder === null) {
@@ -141,7 +124,7 @@ function buildTree(parsed: readonly ParsedNode[]): {
     }
     return ap - bp
   })
-  const priorityRoots = sortedRoots.map(makeNode)
+  const priorityRoots = sortedRoots.map((one) => nodeUnder(childrenByParentId, one))
 
   return {
     priorityRoots,

@@ -10,6 +10,7 @@ export const temperAddonGenerators = {
     "module/activity-category",
     "module/addon-data-page",
     "module/classes",
+    "module/identity-of-key",
     "module/item-category-tree",
     "module/lore-shalidor",
     "module/metric-tree",
@@ -17,6 +18,7 @@ export const temperAddonGenerators = {
     "module/quality",
     "module/rank-by-key",
     "module/render-buff-effect-entry",
+    "module/render-const-or-null",
     "module/render-metric-effect",
     "module/render-quality-values",
     "module/rule-classify",
@@ -99,6 +101,7 @@ export const temperAddonGenerators = {
     "module/temper-weapon-slot",
     "module/temper-weapon-trait",
     "module/temper-weapon-type",
+    "module/tree-node-under",
     "module/ttc-kiosk-locations",
     "module/web-rule-can-sell",
     "module/web-rule-combined-level",
@@ -133,11 +136,8 @@ export const temperAddonGenerators = {
     },
     {
       invariantKind: "departure",
-      statement: "A rendered file carries no line telling a reader to leave that file alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That sentence is an invariant on the page of the module the file lands as.",
+      statement:
+        "A rendered file landing outside akasha carries a line telling a reader not to edit it.",
     },
   ],
 } as const satisfies WorkspacePackage

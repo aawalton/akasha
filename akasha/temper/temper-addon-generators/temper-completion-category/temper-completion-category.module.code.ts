@@ -1,5 +1,7 @@
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { identityOf } from "../identity-of-key/identity-of-key.module.code.ts"
+import { nodeUnder, type TreeNode } from "../tree-node-under/tree-node-under.module.code.ts"
 
 const COMPLETION_TABS = ["account", "characters", "companions"] as const
 type CompletionTab = (typeof COMPLETION_TABS)[number]
@@ -26,13 +28,6 @@ interface ParsedNode {
   pickerLabel?: string
 }
 
-function identityOf(key: string): string {
-  return key
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-}
-
 function parseRow(row: Page): ParsedNode {
   if (typeof row.id !== "string") {
     throw new Error(`temper-completion-category row missing id: ${JSON.stringify(row)}`)
@@ -41,11 +36,11 @@ function parseRow(row: Page): ParsedNode {
     throw new Error(`temper-completion-category row ${row.id} has non-string title`)
   }
   const eav = COMPLETION_CATEGORY_EAV_SCHEMA.parse({
-    key: row.key,
+    key: row.slug,
     nodeId: row.nodeId,
     tab: row.tab,
     parent: row.parent ?? null,
-    sortOrder: row.sortOrder,
+    sortOrder: row.displayOrder,
     pickerLabel: row.pickerLabel,
   })
   return {
@@ -60,10 +55,7 @@ function parseRow(row: Page): ParsedNode {
   }
 }
 
-interface BuilderNode {
-  parsed: ParsedNode
-  children: readonly BuilderNode[]
-}
+type BuilderNode = TreeNode<ParsedNode>
 
 function buildTree(parsed: readonly ParsedNode[]): Record<CompletionTab, readonly BuilderNode[]> {
   const childrenByParentId = new Map<string | null, ParsedNode[]>()
@@ -86,15 +78,6 @@ function buildTree(parsed: readonly ParsedNode[]): Record<CompletionTab, readonl
     }
   }
 
-  function makeNode(p: ParsedNode): BuilderNode {
-    const childRows = childrenByParentId.get(p.id) ?? []
-    const sortedChildren = [...childRows].sort((a, b) => a.sortOrder - b.sortOrder)
-    return {
-      parsed: p,
-      children: sortedChildren.map(makeNode),
-    }
-  }
-
   const tabRoots = childrenByParentId.get(null) ?? []
   const byTab: Record<CompletionTab, BuilderNode | null> = {
     account: null,
@@ -107,7 +90,7 @@ function buildTree(parsed: readonly ParsedNode[]): Record<CompletionTab, readonl
         `temper-completion-category: tab-root '${root.key}' has mismatched tab '${root.tab}'`
       )
     }
-    byTab[root.tab] = makeNode(root)
+    byTab[root.tab] = nodeUnder(childrenByParentId, root)
   }
   for (const tab of COMPLETION_TABS) {
     if (byTab[tab] === null) {

@@ -19,7 +19,7 @@ function parseInventoryCurrency(row: Page): ParsedInventoryCurrency {
     throw new Error(`temper-inventory-currency row ${row.id} has null title`)
   }
   const eav = INVENTORY_CURRENCY_EAV_SCHEMA.parse({
-    currencyId: row.currencyId,
+    currencyId: row.key,
     displayOrder: row.displayOrder,
   })
   return {
