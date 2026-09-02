@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "The converter landed at `0907f2e73a`: all 133 days turn clean, 780 session rows and 1028 task rows, and the checker judges 18877 values with no fault. Under entries the rows are renamed rather than rewritten, so line order is the order and no ordinal is owed. What is left is 34 declarations: `daily-tracking` and 33 property pages absent from akasha. Read path at `2a426e510e`, funnel at `2f5978b54d`, checker at `645fb599c1`.",
+        "All 133 days turn clean and the checker judges 18877 values with no fault, by two readers sharing no code. What is left: the 34 declarations akasha lacks, then the landing itself, which snapshots, turns, verifies and flips `dayPlaceOf` as one revertable act. Converter `0907f2e73a`, checker `f8dbc80e6c`, funnel `2f5978b54d`, read path `2a426e510e`. The rows are renamed, so no ordinal is owed.",
     },
     {
       statement: "Alan's and Jenny's iOS apps ship to TestFlight from an akasha command.",
