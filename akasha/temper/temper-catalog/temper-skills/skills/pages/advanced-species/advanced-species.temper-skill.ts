@@ -20,4 +20,5 @@ export const advancedSpecies = {
   skillType: "passive",
   subcategoryId: "warden-animal-companions",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

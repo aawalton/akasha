@@ -20,4 +20,5 @@ export const mediumArmorBonuses = {
   skillType: "passive",
   subcategoryId: "armor-medium-armor",
   status: "partially-supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

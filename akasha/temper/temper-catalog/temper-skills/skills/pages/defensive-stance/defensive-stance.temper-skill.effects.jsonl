@@ -1,0 +1,2 @@
+{"id":"01a05fe6-c3d3-74e5-8bd1-a3acabe84778","metricId":"block-mitigation","type":"fractional-change","value":0.1,"slottedBehavior":"active-bar-only"}
+{"id":"01a05fe6-c3d3-7708-a38f-1f9285f67a13","metricId":"stamina-block-cost","type":"fractional-change","value":-0.1,"slottedBehavior":"active-bar-only"}

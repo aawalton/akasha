@@ -1,0 +1,3 @@
+{"id":"01a05fe6-c3d3-7853-b320-c0838aaca51b","metricId":"defense-physical-mitigation","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"heavy","valuePerPiece":0.01}
+{"id":"01a05fe6-c3d3-7580-9936-db4aeafdd4d9","metricId":"block-mitigation","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"heavy","valuePerPiece":0.01}
+{"id":"01a05fe6-c3d3-7340-9697-2f7909ab36f3","metricId":"bash-damage","valueType":"integer","type":"armor-piece-scaling","armorWeight":"heavy","valuePerPiece":30}

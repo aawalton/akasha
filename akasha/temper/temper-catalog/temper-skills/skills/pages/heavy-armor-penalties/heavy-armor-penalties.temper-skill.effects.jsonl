@@ -1,0 +1,2 @@
+{"id":"01a05fe6-c3d3-7954-bc6d-fda77cd733d9","metricId":"defense-spell-mitigation","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"heavy","valuePerPiece":-0.01}
+{"id":"01a05fe6-c3d3-7d93-8db7-deaf2861e1fc","metricId":"stamina-dodge-cost","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"heavy","valuePerPiece":0.03}

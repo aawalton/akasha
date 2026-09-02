@@ -1,0 +1,3 @@
+{"id":"01a05fe6-c3d3-78ab-b98c-db27ce1c149c","metricId":"magicka-maximum","type":"fractional-change","value":0.05,"slottedBehavior":"active-bar-only"}
+{"id":"01a05fe6-c3d3-7b2e-a306-0142372de096","buffId":"major-prophecy","slottedBehavior":"either-bar"}
+{"id":"01a05fe6-c3d3-7501-8ae2-b46fbd244dcc","buffId":"major-savagery","slottedBehavior":"either-bar"}

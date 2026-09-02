@@ -20,4 +20,5 @@ export const soulSiphoner = {
   skillType: "passive",
   subcategoryId: "nightblade-siphoning",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

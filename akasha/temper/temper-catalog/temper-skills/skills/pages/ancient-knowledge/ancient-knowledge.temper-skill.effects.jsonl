@@ -1,0 +1,6 @@
+{"id":"01a05fe6-c3d3-73d0-8df5-7b564f5ecfe8","metricId":"damage-done-dot","valueType":"fractional-change","type":"weapon-type-conditional","value":0.12,"weaponTypes":["inferno-staff"]}
+{"id":"01a05fe6-c3d3-7d8c-b77e-247c2cef0bae","metricId":"damage-done-status-effect","valueType":"fractional-change","type":"weapon-type-conditional","value":0.12,"weaponTypes":["inferno-staff"]}
+{"id":"01a05fe6-c3d3-7662-ae54-c15aac303a9d","metricId":"damage-done-direct","valueType":"fractional-change","type":"weapon-type-conditional","value":0.12,"weaponTypes":["lightning-staff"]}
+{"id":"01a05fe6-c3d3-7e50-ae06-c8266cd387a2","metricId":"damage-done-channeled","valueType":"fractional-change","type":"weapon-type-conditional","value":0.12,"weaponTypes":["lightning-staff"]}
+{"id":"01a05fe6-c3d3-767e-946f-eaefb010c683","metricId":"stamina-block-cost","valueType":"fractional-change","type":"weapon-type-conditional","value":-0.36,"weaponTypes":["ice-staff"]}
+{"id":"01a05fe6-c3d3-7178-8703-34107897555c","metricId":"block-mitigation","valueType":"fractional-change","type":"weapon-type-conditional","value":0.2,"weaponTypes":["ice-staff"]}

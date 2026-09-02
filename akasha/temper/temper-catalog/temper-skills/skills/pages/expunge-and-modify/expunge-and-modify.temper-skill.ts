@@ -19,4 +19,5 @@ export const expungeAndModify = {
   skillLineId: "necromancer-living-death",
   skillType: "active",
   subcategoryId: "necromancer-living-death",
+  effects: "jsonl",
 } as const satisfies TemperSkill

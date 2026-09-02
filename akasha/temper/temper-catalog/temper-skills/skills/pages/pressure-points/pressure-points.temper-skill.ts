@@ -20,4 +20,5 @@ export const pressurePoints = {
   skillType: "passive",
   subcategoryId: "nightblade-assassination",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

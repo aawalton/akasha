@@ -20,4 +20,5 @@ export const twinBladeAndBlunt = {
   skillType: "passive",
   subcategoryId: "weapon-dual-wield",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

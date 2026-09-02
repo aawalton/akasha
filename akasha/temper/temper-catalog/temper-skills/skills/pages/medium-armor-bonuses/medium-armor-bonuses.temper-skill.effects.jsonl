@@ -1,0 +1,3 @@
+{"id":"01a05fe6-c3d3-769a-87ea-d0d9931e68e2","metricId":"stamina-sprint-cost","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"medium","valuePerPiece":-0.01}
+{"id":"01a05fe6-c3d3-7245-ab5b-487d5ea7f73d","metricId":"sneak-cost","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"medium","valuePerPiece":-0.05}
+{"id":"01a05fe6-c3d3-7121-9326-21573c1a08e2","metricId":"stamina-block-cost","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"medium","valuePerPiece":-0.03}

@@ -20,4 +20,5 @@ export const ancientKnowledge = {
   skillType: "passive",
   subcategoryId: "weapon-destruction-staff",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

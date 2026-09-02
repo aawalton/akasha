@@ -1,0 +1,2 @@
+{"id":"01a05fe6-c3d3-75b8-a2fd-6e0db18205f9","metricId":"critical-damage","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"medium","valuePerPiece":0.02}
+{"id":"01a05fe6-c3d3-782b-8142-0fe7a854de45","metricId":"healing-critical-bonus","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"medium","valuePerPiece":0.02}

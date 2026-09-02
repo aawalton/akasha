@@ -20,4 +20,5 @@ export const splinteredSecrets = {
   skillType: "passive",
   subcategoryId: "arcanist-herald-of-the-tome",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

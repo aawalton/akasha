@@ -19,4 +19,5 @@ export const evilHunter = {
   skillLineId: "guild-fighters-guild",
   skillType: "active",
   subcategoryId: "guild-fighters-guild",
+  effects: "jsonl",
 } as const satisfies TemperSkill

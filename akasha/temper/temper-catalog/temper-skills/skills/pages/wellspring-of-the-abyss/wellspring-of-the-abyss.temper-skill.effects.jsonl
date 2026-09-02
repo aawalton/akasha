@@ -1,0 +1,3 @@
+{"id":"01a05fe6-c3d4-7380-a62d-3eecf486c1b1","metricId":"health-recovery","type":"slotted-ability-scaling","skillLineId":"arcanist-soldier-of-apocrypha","valuePerAbility":81}
+{"id":"01a05fe6-c3d4-724e-9ffb-7a0232acb51c","metricId":"magicka-recovery","type":"slotted-ability-scaling","skillLineId":"arcanist-soldier-of-apocrypha","valuePerAbility":81}
+{"id":"01a05fe6-c3d4-763e-ac9d-d52b15ca048d","metricId":"stamina-recovery","type":"slotted-ability-scaling","skillLineId":"arcanist-soldier-of-apocrypha","valuePerAbility":81}

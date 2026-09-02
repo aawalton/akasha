@@ -1,0 +1,3 @@
+{"id":"01a05fe6-c3d3-7474-8804-5dd7f22736ac","metricId":"magicka-ability-cost","type":"fractional-change","value":-0.03,"slottedBehavior":"active-bar-only"}
+{"id":"01a05fe6-c3d3-7a9f-b259-d9b1bbc1aa2d","metricId":"stamina-ability-cost","type":"fractional-change","value":-0.03,"slottedBehavior":"active-bar-only"}
+{"id":"01a05fe6-c3d3-7923-b2a1-57b5bbca10e6","metricId":"ultimate-ability-cost","type":"fractional-change","value":-0.03,"slottedBehavior":"active-bar-only"}

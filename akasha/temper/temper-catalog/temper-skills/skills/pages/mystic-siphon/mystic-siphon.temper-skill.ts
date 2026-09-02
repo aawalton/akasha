@@ -19,4 +19,5 @@ export const mysticSiphon = {
   skillLineId: "necromancer-grave-lord",
   skillType: "active",
   subcategoryId: "necromancer-grave-lord",
+  effects: "jsonl",
 } as const satisfies TemperSkill

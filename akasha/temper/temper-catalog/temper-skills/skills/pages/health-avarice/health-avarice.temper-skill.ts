@@ -20,4 +20,5 @@ export const healthAvarice = {
   skillType: "passive",
   subcategoryId: "necromancer-bone-tyrant",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

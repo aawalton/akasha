@@ -20,4 +20,5 @@ export const darkVigor = {
   skillType: "passive",
   subcategoryId: "nightblade-shadow",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

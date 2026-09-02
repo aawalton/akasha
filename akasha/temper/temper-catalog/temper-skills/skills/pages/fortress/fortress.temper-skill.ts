@@ -20,4 +20,5 @@ export const fortress = {
   skillType: "passive",
   subcategoryId: "weapon-one-hand-and-shield",
   status: "partially-supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

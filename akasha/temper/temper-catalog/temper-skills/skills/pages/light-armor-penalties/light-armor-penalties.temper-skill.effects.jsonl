@@ -1,0 +1,2 @@
+{"id":"01a05fe6-c3d3-7b93-b76b-042ab004f6c8","metricId":"defense-physical-mitigation","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"light","valuePerPiece":-0.01}
+{"id":"01a05fe6-c3d3-726b-bb3f-635b0f0a66ea","metricId":"stamina-block-cost","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"light","valuePerPiece":0.03}

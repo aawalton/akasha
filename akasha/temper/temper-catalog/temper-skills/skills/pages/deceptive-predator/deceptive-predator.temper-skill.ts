@@ -19,4 +19,5 @@ export const deceptivePredator = {
   skillLineId: "warden-animal-companions",
   skillType: "active",
   subcategoryId: "warden-animal-companions",
+  effects: "jsonl",
 } as const satisfies TemperSkill

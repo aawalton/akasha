@@ -20,4 +20,5 @@ export const lightArmorPenalties = {
   skillType: "passive",
   subcategoryId: "armor-light-armor",
   status: "partially-supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

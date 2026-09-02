@@ -1,0 +1,4 @@
+{"id":"01a05fe6-c3d4-7659-bf8b-0c01ad0a81fd","metricId":"critical-damage","perWeapon":true,"valueType":"fractional-change","type":"weapon-type-conditional","value":0.06,"weaponTypes":["axe"]}
+{"id":"01a05fe6-c3d4-709f-b593-a4890bc04d99","metricId":"penetration","perWeapon":true,"valueType":"integer","type":"weapon-type-conditional","value":1487,"weaponTypes":["mace"]}
+{"id":"01a05fe6-c3d4-7ff0-b6ad-f380149adca0","metricId":"power","perWeapon":true,"valueType":"integer","type":"weapon-type-conditional","value":129,"weaponTypes":["sword"]}
+{"id":"01a05fe6-c3d4-7c0b-b20b-e2943576f243","metricId":"critical-rating","perWeapon":true,"valueType":"integer","type":"weapon-type-conditional","value":657,"weaponTypes":["dagger"]}

@@ -20,4 +20,5 @@ export const magickaAid = {
   skillType: "passive",
   subcategoryId: "alliance-war-support",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

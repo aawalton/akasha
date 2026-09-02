@@ -19,4 +19,5 @@ export const innerLight = {
   skillLineId: "guild-mages-guild",
   skillType: "active",
   subcategoryId: "guild-mages-guild",
+  effects: "jsonl",
 } as const satisfies TemperSkill

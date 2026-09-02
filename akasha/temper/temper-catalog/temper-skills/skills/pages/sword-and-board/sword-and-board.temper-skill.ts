@@ -20,4 +20,5 @@ export const swordAndBoard = {
   skillType: "passive",
   subcategoryId: "weapon-one-hand-and-shield",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

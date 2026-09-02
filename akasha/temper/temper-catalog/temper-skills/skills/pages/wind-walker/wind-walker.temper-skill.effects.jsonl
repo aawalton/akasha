@@ -1,0 +1,2 @@
+{"id":"01a05fe6-c3d4-732b-9962-75f834cd78c6","metricId":"stamina-recovery","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"medium","valuePerPiece":0.04}
+{"id":"01a05fe6-c3d4-7d04-8502-26b5815e169d","metricId":"stamina-non-core-ability-cost","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"medium","valuePerPiece":-0.02}

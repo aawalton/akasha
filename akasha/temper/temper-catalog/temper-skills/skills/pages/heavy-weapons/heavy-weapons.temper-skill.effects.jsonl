@@ -1,0 +1,3 @@
+{"id":"01a05fe6-c3d3-7e5c-8c3e-d06cdba385cd","metricId":"power","valueType":"integer","type":"weapon-type-conditional","value":258,"weaponTypes":["greatsword"]}
+{"id":"01a05fe6-c3d3-7f48-996e-47b826c3541e","metricId":"critical-damage","valueType":"fractional-change","type":"weapon-type-conditional","value":0.12,"weaponTypes":["battleaxe"]}
+{"id":"01a05fe6-c3d3-7fa2-affa-733e8c39001d","metricId":"penetration","valueType":"integer","type":"weapon-type-conditional","value":2974,"weaponTypes":["maul"]}

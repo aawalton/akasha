@@ -1,0 +1,2 @@
+{"id":"01a05fe6-c3d3-7b91-953f-f13803695ada","metricId":"magicka-recovery","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"light","valuePerPiece":0.04}
+{"id":"01a05fe6-c3d3-7569-85cf-73cefe1601d5","metricId":"magicka-ability-cost","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"light","valuePerPiece":-0.02}

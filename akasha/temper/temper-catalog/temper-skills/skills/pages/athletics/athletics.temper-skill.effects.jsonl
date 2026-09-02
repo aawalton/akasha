@@ -1,0 +1,2 @@
+{"id":"01a05fe6-c3d3-7474-bd83-199f6559239f","metricId":"movement-sprint-speed","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"medium","valuePerPiece":0.03}
+{"id":"01a05fe6-c3d3-7347-930b-7417aad7eb50","metricId":"stamina-dodge-cost","valueType":"fractional-change","type":"armor-piece-scaling","armorWeight":"medium","valuePerPiece":-0.04}

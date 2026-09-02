@@ -20,4 +20,5 @@ export const emeraldMoss = {
   skillType: "passive",
   subcategoryId: "warden-green-balance",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

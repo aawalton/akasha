@@ -20,4 +20,5 @@ export const heavyWeapons = {
   skillType: "passive",
   subcategoryId: "weapon-two-handed",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

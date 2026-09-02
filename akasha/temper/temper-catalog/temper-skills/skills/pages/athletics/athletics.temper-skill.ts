@@ -20,4 +20,5 @@ export const athletics = {
   skillType: "passive",
   subcategoryId: "armor-medium-armor",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

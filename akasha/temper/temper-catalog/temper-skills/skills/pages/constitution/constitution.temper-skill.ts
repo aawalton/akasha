@@ -20,4 +20,5 @@ export const constitution = {
   skillType: "passive",
   subcategoryId: "armor-heavy-armor",
   status: "partially-supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

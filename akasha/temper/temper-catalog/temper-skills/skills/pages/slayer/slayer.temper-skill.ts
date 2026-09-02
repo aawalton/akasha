@@ -20,4 +20,5 @@ export const slayer = {
   skillType: "passive",
   subcategoryId: "guild-fighters-guild",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

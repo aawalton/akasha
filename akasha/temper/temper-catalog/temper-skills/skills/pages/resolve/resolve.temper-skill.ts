@@ -20,4 +20,5 @@ export const resolve = {
   skillType: "passive",
   subcategoryId: "armor-heavy-armor",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

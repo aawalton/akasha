@@ -20,4 +20,5 @@ export const wellspringOfTheAbyss = {
   skillType: "passive",
   subcategoryId: "arcanist-soldier-of-apocrypha",
   status: "supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

@@ -1,0 +1,2 @@
+{"id":"01a05fe6-c3d3-7701-9cfb-614072f14387","metricId":"power","type":"fractional-change","value":0.05,"slottedBehavior":"active-bar-only"}
+{"id":"01a05fe6-c3d3-713f-9972-4c59be2be23c","metricId":"block-mitigation","type":"fractional-change","value":0.2,"slottedBehavior":"active-bar-only"}
