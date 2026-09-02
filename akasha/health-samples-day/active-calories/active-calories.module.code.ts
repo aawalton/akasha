@@ -18,37 +18,52 @@ export function activeCaloriesFromSamples(samples: readonly HealthSampleRecord[]
   return best
 }
 
+export interface DayReading {
+  readonly reading: number | null
+  readonly unread: string | null
+}
+
 async function loadDayActiveCalories(args: {
   readonly dayStr: string
   readonly storedReading?: number | null
-}): Promise<number | null> {
-  const span = await getWakeDayWindow(args.dayStr)
+}): Promise<DayReading> {
+  const span = getWakeDayWindow(args.dayStr)
+  if ("refused" in span) return { reading: args.storedReading ?? null, unread: span.refused }
   const samples = await selectHealthSamples({
     metric: "activeEnergy",
     from: span.from,
     to: span.to,
   })
   const derived = activeCaloriesFromSamples(samples)
-  if (derived !== null) return derived
-  return args.storedReading ?? null
+  if (derived !== null) return { reading: derived, unread: null }
+  return { reading: args.storedReading ?? null, unread: null }
+}
+
+export interface CaloriesRead {
+  readonly byDay: ReadonlyMap<string, number | null>
+  readonly unread: readonly string[]
 }
 
 export async function loadActiveCaloriesByDay(args: {
   readonly dayStrs: readonly string[]
   readonly storedReadings?: ReadonlyMap<string, number | null>
-}): Promise<Map<string, number | null>> {
-  const out = new Map<string, number | null>()
+}): Promise<CaloriesRead> {
+  const byDay = new Map<string, number | null>()
+  const unread: string[] = []
   for (let at = 0; at < args.dayStrs.length; at += DAYS_AT_ONCE) {
     const readings = await Promise.all(
       args.dayStrs.slice(at, at + DAYS_AT_ONCE).map(async (dayStr) => {
-        const value = await loadDayActiveCalories({
+        const read = await loadDayActiveCalories({
           dayStr,
           storedReading: args.storedReadings?.get(dayStr) ?? null,
         })
-        return [dayStr, value] as const
+        return [dayStr, read] as const
       })
     )
-    for (const [dayStr, value] of readings) out.set(dayStr, value)
+    for (const [dayStr, read] of readings) {
+      byDay.set(dayStr, read.reading)
+      if (read.unread !== null) unread.push(dayStr)
+    }
   }
-  return out
+  return { byDay, unread }
 }

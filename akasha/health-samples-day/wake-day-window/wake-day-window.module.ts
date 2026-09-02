@@ -6,6 +6,7 @@ export const wakeDayWindow = {
   slug: "wake-day-window",
   definition: "the span from the moment Alan woke to the moment he woke next",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -21,19 +22,31 @@ export const wakeDayWindow = {
     },
     {
       invariantKind: "departure",
-      statement: "The blocks a day held are handed in rather than read here.",
+      statement: "The blocks a day held are the entries beside that day's page.",
     },
     {
       invariantKind: "departure",
-      statement: "A window raises rather than reading as the ESO day's own.",
+      statement: "A day's entries are reached through that day's page rather than by a path here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A window closes at the moment Alan woke on the day after.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A window refuses rather than reading as the ESO day's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day with no recorded wake refuses as a value rather than raising.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches a page.",
+      statement: "Nothing here invents the moment Alan woke.",
     },
     {
-      invariantKind: "gap",
-      statement: "A day's sleep is read from pages akasha carries.",
+      invariantKind: "absence",
+      statement: "Nothing here asks for a page type but the day's own.",
     },
   ],
 } as const satisfies Module

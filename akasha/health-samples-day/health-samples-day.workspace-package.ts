@@ -13,12 +13,12 @@ export const healthSamplesDay = {
       statement: "Nothing here writes a reading down.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here reaches a page.",
+      invariantKind: "departure",
+      statement: "A day's sleep is read from the entries beside that day's page.",
     },
     {
-      invariantKind: "gap",
-      statement: "A day's sleep is read from pages akasha carries.",
+      invariantKind: "departure",
+      statement: "A day whose sleep was never recorded is refused rather than given a window.",
     },
   ],
 } as const satisfies WorkspacePackage

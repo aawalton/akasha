@@ -7,6 +7,9 @@
     "./wake-day-window": "./wake-day-window/wake-day-window.module.code.ts"
   },
   "dependencies": {
-    "@akasha/health-samples-access": "workspace:*"
+    "@akasha/day": "workspace:*",
+    "@akasha/health-samples-access": "workspace:*",
+    "@akasha/indexes": "workspace:*",
+    "@akasha/pages-system": "workspace:*"
   }
 }

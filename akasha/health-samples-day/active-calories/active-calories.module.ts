@@ -22,6 +22,11 @@ export const activeCalories = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A day with no recorded wake keeps its stored reading and is named back as uncounted.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reading whose value is no finite number is passed over.",
     },
     {
