@@ -1,22 +1,29 @@
 "use client"
 
-import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
+import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "@akasha/design-patterns/empty"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { Button } from "@akasha/design-primitives/button"
-import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
-import { type SortDirection } from "@akasha/design-patterns/sort-types"
-import { computeCurrencyGoldTotal } from "@temper/game-items-core/inventory-currencies"
+import { computeCurrencyGoldTotal } from "@akasha/temper-items-core/inventory-currencies"
 import {
   filterInventoryGroups,
   groupInventoryByLocation,
   type InventoryLocationGroup,
-} from "@temper/game-items-core/inventory-grouping"
-import type { ExcludedLocation } from "@temper/game-items-core/inventory-guild-bank-filter"
+} from "@akasha/temper-items-core/inventory-grouping"
+import type { ExcludedLocation } from "@akasha/temper-items-core/inventory-guild-bank-filter"
 import type {
   InventoryCurrencies,
   InventoryDatabase,
-} from "@temper/game-items-core/inventory-types"
-import { type LocationTypeId, locationTypes } from "@temper/game-items-core/location-type-data"
+} from "@akasha/temper-items-core/inventory-types"
+import { type LocationTypeId, locationTypes } from "@akasha/temper-items-core/location-type-data"
 import { Search } from "lucide-react"
 import { useMemo } from "react"
 import { InventoryLocationSummaryPanelCard } from "./inventory-location-summary-panel-card"
