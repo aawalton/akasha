@@ -4,6 +4,8 @@
     "@akasha/day": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
+    "@akasha/pages-query": "workspace:*",
+    "@akasha/pages-system-service": "workspace:*",
     "@akasha/recurrence": "workspace:*",
     "@akasha/supabase-client": "workspace:*",
     "@akasha/supabase-server": "workspace:*",

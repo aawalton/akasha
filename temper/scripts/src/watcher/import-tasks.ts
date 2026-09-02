@@ -1,22 +1,23 @@
-import { deletePageById } from "@akasha/pages-access/delete"
-import { getPages } from "@akasha/pages-access/get"
-import { collectPages } from "@akasha/pages-access/iterate"
-import { patchPageById } from "@akasha/pages-access/patch"
-import { type Page } from "@akasha/pages-core/page-types"
-import { instantToMillis } from "@akasha/pages-core/property-types/instant"
 import { getEsoDayStr, getEsoResetTime } from "@akasha/day/eso-day"
-import { advanceRecurrenceDueDate } from "@akasha/recurrence/scheduling"
+import { instantToMillis } from "@akasha/pages-core/property-types/instant"
+import type { Row } from "@akasha/pages-system-service/asking"
+import { askingFor } from "@akasha/pages-system-service/calling"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
-import { asRecord } from "@akasha/utils-narrow/as-record"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
-import { isCumulativeCard } from "@temper/player-completion/completion-card-reset-behavior"
+import { advanceRecurrenceDueDate } from "@akasha/recurrence/scheduling"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+import { asRecord } from "@akasha/utils-narrow/as-record"
+import { isCumulativeCard } from "@temper/player-completion/completion-card-reset-behavior"
+import {
+  clearLandedCompletion,
+  completedDayOf,
+  type CompletionValues,
+  landCompletion,
+} from "./completed-day-landing.ts"
+import { landTaskGone, landTaskValues, taskProgressPath } from "./task-page-landing.ts"
 
-const COMPLETED_TASK_PAGE_TYPE_SLUG = "temper-completed-task"
+const COMPLETED_DAY_PAGE_TYPE_SLUG = "temper-completed-day"
 
-const COMPLETED_MONTH_PAGE_TYPE_SLUG = "temper-completed-month"
-
-const MONTH_LENGTH = 7
+const TASK_PAGE_TYPE_SLUG = "temper-task"
 
 interface ParsedTaskCompletion {
   taskId: string
@@ -32,42 +33,34 @@ function asText(value: unknown): string | undefined {
   return typeof value === "string" && value !== "" ? value : undefined
 }
 
-function withoutEmpty(
-  values: Readonly<Record<string, unknown>>
-): Readonly<Record<string, unknown>> {
-  const out: Record<string, unknown> = {}
-  for (const [key, value] of Object.entries(values)) {
-    if (value === null || value === undefined || value === "") continue
-    out[key] = value
-  }
-  return out
+function asInstant(value: unknown): string | number | undefined {
+  if (typeof value === "number") return value
+  return asText(value)
 }
 
-// NO COMPLETED TASK HAS BEEN FILED SINCE THE STORE STOPPED TAKING KEYED WRITES. The completion
-// row went in with `writeRow` and the month page that holds it with `patchPage`, both refused
-// unconditionally, so the first completed task in any scan threw. The month guard that stood above
-// the write went with it: reading whether a month page already stands is only worth asking if the
-// answer decides a write.
-//
-// This throw is not contained to completions. `recordCompletedTask` is reached from
-// `applyCompletion`, which runs inside link three of the `observeChain` in
-// `../watcher-exe/dispatch.ts`, so it also fails the `allSynced` gate at `dispatch.ts:239` and
-// stops `exportCharacters` behind it. The clear-completion and complete-forever paths below use
-// `@akasha/pages-access`, which still works — but nothing reaches them past this.
-//
-// The validation above the landing is kept because it is worth keeping: it refuses to file a
-// completion that names nothing, and that judgement should survive whatever writes these rows next.
-const NO_KEYED_WRITE = "the page store refuses every keyed write"
+function asPath(value: unknown): readonly string[] | undefined {
+  if (!Array.isArray(value) || value.length === 0) return undefined
+  return value.map(String)
+}
 
+/**
+ * A completion is one line on the day page for the day it was marked, under
+ * `akasha/temper/temper-progress/completed-days`. A line holds what is true of the completion
+ * rather than of the task, so what the task says about itself — its rule, its scope, its priority,
+ * its icon, its description, its link — is left on the task and read back from there.
+ *
+ * The validation above the landing refuses to file a completion that names nothing, and that
+ * judgement is worth keeping whatever writes these lines.
+ */
 async function recordCompletedTask(
   task: TaskPage,
   completedAt: string,
   completedAtMs: number
-): Promise<undefined> {
+): Promise<"landed" | "already"> {
   const slug = asText(task.slug)
   if (slug === undefined) {
     throw new Error(
-      `recordCompletedTask(${String(task.id)}): the task states no slug, so this row would record that something unnamed was completed — refusing to file it`
+      `recordCompletedTask(${String(task.id)}): the task states no slug, so this line would record that something unnamed was completed — refusing to file it`
     )
   }
   const title = asText(task.title)
@@ -81,32 +74,25 @@ async function recordCompletedTask(
       `recordCompletedTask(${slug}): the completion states no instant (${String(completedAtMs)}) — refusing to file it`
     )
   }
-  const month = getEsoDayStr(new Date(completedAtMs)).slice(0, MONTH_LENGTH)
-  const values = withoutEmpty({
+  const values: CompletionValues = {
     id: Bun.randomUUIDv7(),
-    title,
-    icon: task.icon,
-    description: task.description,
-    link: task.link,
-    priority: task.priority,
-    scope: task.scope,
-    "due-date": task.dueDate,
-    character: task.character,
-    "eso-character-id": task.esoCharacterId,
-    "completion-card-id": task.completionCardId,
-    "completion-item-path": task.completionItemPath,
-    "rrule-rule": task.rruleRule,
-    "rrule-anchor-from-completion": asBoolean(task.rruleAnchorFromCompletion),
+    completedAt,
     task: slug,
-    "completed-at": completedAt,
-  })
-  throw new Error(
-    `recordCompletedTask(${slug}): "${title}" completed at ${completedAt} was not filed — ` +
-      `${NO_KEYED_WRITE}, so neither the row on ` +
-      `\`${COMPLETED_TASK_PAGE_TYPE_SLUG}/${month}\` nor the ` +
-      `\`${COMPLETED_MONTH_PAGE_TYPE_SLUG}\` page that would hold it stands. ` +
-      `${Object.keys(values).length} value(s) were narrowed and dropped`
-  )
+    title,
+    character: asText(task.character),
+    esoCharacterId: asText(task.esoCharacterId),
+    dueDate: asText(task.dueDate),
+    completionCardId: asText(task.completionCardId),
+    completionItemPath: asPath(task.completionItemPath),
+  }
+  const landed = await landCompletion(values, () => Bun.randomUUIDv7())
+  if (landed.outcome === "refused") {
+    throw new Error(
+      `recordCompletedTask(${slug}): "${title}" completed at ${completedAt} did not land on ` +
+        `\`${COMPLETED_DAY_PAGE_TYPE_SLUG}/day-${completedDayOf(completedAt)}\` — ${landed.why}`
+    )
+  }
+  return landed.outcome
 }
 
 function rolledDueDate(task: TaskPage, completedAtMs: number): string | undefined {
@@ -158,30 +144,29 @@ function parseSavedVariables(content: string): readonly ParsedTaskCompletion[] {
   return entries
 }
 
-type TaskPage = Page & { id: string }
+type TaskPage = Row & { id: string; slug: string }
 
-function resolveTask(
-  taskId: string,
-  taskByPgId: Map<string, TaskPage>,
-  taskById: Map<string, TaskPage>
-): TaskPage | undefined {
-  return taskByPgId.get(taskId) ?? taskById.get(taskId)
+/**
+ * A task in akasha is reached by its slug, and the identity the addon carries is the identity of
+ * the page. An older saved-variables file names a task by an identity the old store minted, so the
+ * slug is tried as well and a name the addon carried through is still resolved.
+ */
+function resolveTask(taskId: string, taskById: Map<string, TaskPage>): TaskPage | undefined {
+  return taskById.get(taskId)
 }
 
+/**
+ * A cumulative card counts toward a cap, and a task that has reached its cap does not come round
+ * again whatever its rule says. The totals a task states are the totals of its progress lines added
+ * up, so the cap is read off the task rather than off the lines.
+ */
 function isCompleteForever(task: TaskPage): boolean {
   if (task.rruleRule == null) return false
   const cardId = typeof task.completionCardId === "string" ? task.completionCardId : undefined
   if (!isCumulativeCard(cardId)) return false
-  const progress = task.progress
-  if (progress === null || typeof progress !== "object" || Array.isArray(progress)) return false
-  const current = "current" in progress ? progress.current : undefined
-  const total = "total" in progress ? progress.total : undefined
+  const current = task.progressCurrent
+  const total = task.progressTotal
   if (typeof current !== "number" || typeof total !== "number") return false
-  if ("entries" in progress) {
-    const entries = progress.entries
-    if (entries === null || typeof entries !== "object" || Array.isArray(entries)) return false
-    if ("activeEntryKey" in progress) return false
-  }
   return total > 0 && current >= total
 }
 
@@ -190,9 +175,8 @@ async function applyCompletion(
   completedAtMs: number
 ): Promise<{ action: "completed"; recurring: boolean } | { action: "skip"; reason: string }> {
   const isRecurring = task.rruleRule != null
-  const taskId = task.id
 
-  const lastCompletedAtMs = isRecurring ? instantToMillis(task.lastCompletedAt) : null
+  const lastCompletedAtMs = isRecurring ? instantToMillis(asInstant(task.lastCompletedAt)) : null
   if (lastCompletedAtMs !== null) {
     if (getEsoDayStr(new Date(lastCompletedAtMs)) === getEsoDayStr(new Date(completedAtMs))) {
       return { action: "skip", reason: "already completed this logical day" }
@@ -200,77 +184,69 @@ async function applyCompletion(
   }
 
   const completedAt = new Date(completedAtMs).toISOString()
-  const { rows: existing } = await getPages({
-    pageTypeSlug: "temper-completed-task",
-    where: [
-      { key: "task", eq: task.slug },
-      {
-        or: [
-          { key: "completedAt", eq: completedAtMs },
-          { key: "completedAt", eq: completedAt },
-        ],
-      },
-    ],
-    limit: 1,
-  })
-  if (existing.length > 0) {
+  const filed = await recordCompletedTask(task, completedAt, completedAtMs)
+  if (filed === "already") {
     return { action: "skip", reason: "already imported" }
   }
 
-  await recordCompletedTask(task, completedAt, completedAtMs)
-
   if (isRecurring && !isCompleteForever(task)) {
     const nextDue = rolledDueDate(task, completedAtMs)
-    await patchPageById({
-      pageTypeSlug: "temper-task",
-      id: taskId,
-      set: {
-        completedAt: null,
-        lastCompletedAt: completedAt,
-        ...(nextDue === undefined ? {} : { dueDate: nextDue }),
-      },
-    })
+    const rolled = await landTaskValues(
+      task.slug,
+      { lastCompletedAt: completedAt, ...(nextDue === undefined ? {} : { dueDate: nextDue }) },
+      `temper: ${task.slug} was completed at ${completedAt}`
+    )
+    if (rolled.outcome === "refused") {
+      throw new Error(`applyCompletion(${task.slug}): the task did not roll — ${rolled.why}`)
+    }
     return { action: "completed", recurring: true }
   }
 
-  await patchPageById({
-    pageTypeSlug: "temper-task",
-    id: taskId,
-    set: { completedAt },
-  })
-  await deletePageById({
-    pageTypeSlug: "temper-task",
-    id: taskId,
-  })
+  const gone = await landTaskGone(
+    task.slug,
+    [taskProgressPath(task.slug)],
+    `temper: ${task.slug} was completed at ${completedAt} and does not come round again`
+  )
+  if (gone.outcome === "refused") {
+    throw new Error(`applyCompletion(${task.slug}): the task did not go — ${gone.why}`)
+  }
   return { action: "completed", recurring: false }
 }
 
+/**
+ * The completion to clear is the newest line naming this task across the days, so the days are read
+ * newest first and the first day holding a line for the task is the day the line comes off.
+ */
 async function clearCompletion(
   task: TaskPage
 ): Promise<{ action: "cleared" } | { action: "skip"; reason: string }> {
-  const { rows: completed } = await getPages({
-    pageTypeSlug: "temper-completed-task",
-    where: [{ key: "task", eq: task.slug }],
-    order: [{ by: "completedAt", dir: "desc" }],
-    limit: 1,
+  const asked = await askingFor({
+    pageTypeSlug: COMPLETED_DAY_PAGE_TYPE_SLUG,
+    sortBy: "day",
+    descending: true,
   })
-
-  if (completed.length === 0) {
-    return { action: "skip", reason: "no completion to clear" }
+  if ("refused" in asked) {
+    return { action: "skip", reason: `the days went unread — ${asked.refused}` }
   }
-
-  const mostRecent = requireFirst(completed, "completed")
-  const completedId = mostRecent.id
-  if (typeof completedId !== "string") {
-    return { action: "skip", reason: "completion row missing id" }
+  for (const day of asked.rows) {
+    const held = day.completions
+    if (!Array.isArray(held)) continue
+    const lines = held.filter(
+      (one): one is Record<string, unknown> =>
+        typeof one === "object" && one !== null && asRecord(one)?.task === task.slug
+    )
+    const last = lines[lines.length - 1]
+    if (last === undefined) continue
+    const id = asText(last.id)
+    const on = asText(day.day)
+    if (id === undefined || on === undefined) continue
+    const cleared = await clearLandedCompletion(on, id)
+    if (cleared.outcome === "refused") {
+      return { action: "skip", reason: `the completion did not clear — ${cleared.why}` }
+    }
+    return { action: "cleared" }
   }
-
-  await deletePageById({
-    pageTypeSlug: "temper-completed-task",
-    id: completedId,
-  })
-
-  return { action: "cleared" }
+  return { action: "skip", reason: "no completion to clear" }
 }
 
 export async function runImportTasks(
@@ -292,28 +268,31 @@ export async function runImportTasks(
     userId = userResult.data.user.id
   }
 
-  const rows = await collectPages({
-    pageTypeSlug: "temper-task",
-    where: [{ key: "account", eq: userId }],
-    pageSize: 1000,
+  const asked = await askingFor({
+    pageTypeSlug: TASK_PAGE_TYPE_SLUG,
+    where: { accountPage: { is: userId } },
   })
-  const tasks: TaskPage[] = rows.filter((r): r is TaskPage => typeof r.id === "string")
+  if ("refused" in asked) {
+    throw new Error(`runImportTasks: the tasks went unread — ${asked.refused}`)
+  }
+  const tasks: TaskPage[] = asked.rows.filter(
+    (row): row is TaskPage => typeof row.id === "string" && typeof row.slug === "string"
+  )
 
-  const taskByPgId = new Map<string, TaskPage>()
   const taskById = new Map<string, TaskPage>()
   for (const task of tasks) {
-    if (typeof task.pgId === "string") taskByPgId.set(task.pgId, task)
-    if (typeof task.id === "string") taskById.set(task.id, task)
+    taskById.set(task.id, task)
+    taskById.set(task.slug, task)
   }
 
   let completed = 0
   let cleared = 0
   let skipped = 0
 
-  const deletedThisRun = new Set<string>()
+  const goneThisRun = new Set<string>()
 
   for (const entry of entries) {
-    const task = resolveTask(entry.taskId, taskByPgId, taskById)
+    const task = resolveTask(entry.taskId, taskById)
     if (!task) {
       console.error(`  Task ${entry.taskId}: not found, skipping`)
       skipped++
@@ -330,7 +309,7 @@ export async function runImportTasks(
         continue
       }
 
-      if (!result.recurring) deletedThisRun.add(task.id)
+      if (!result.recurring) goneThisRun.add(task.slug)
       console.log(
         `  Task ${entry.taskId}: completed${result.recurring ? ", dueDate advanced" : " (deleted forever)"}`
       )
@@ -351,12 +330,19 @@ export async function runImportTasks(
 
   let sweptForever = 0
   for (const task of tasks) {
-    if (deletedThisRun.has(task.id)) continue
+    if (goneThisRun.has(task.slug)) continue
     if (!isCompleteForever(task)) continue
-    await deletePageById({ pageTypeSlug: "temper-task", id: task.id })
-    deletedThisRun.add(task.id)
+    const gone = await landTaskGone(
+      task.slug,
+      [taskProgressPath(task.slug)],
+      `temper: ${task.slug} reached its cumulative cap and does not come round again`
+    )
+    if (gone.outcome === "refused") {
+      throw new Error(`runImportTasks(${task.slug}): the swept task did not go — ${gone.why}`)
+    }
+    goneThisRun.add(task.slug)
     sweptForever++
-    console.log(`  Task ${task.id}: cumulative cap reached, completed forever (swept)`)
+    console.log(`  Task ${task.slug}: cumulative cap reached, completed forever (swept)`)
   }
 
   console.log(`\n=== Summary ===`)

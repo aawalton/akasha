@@ -1,4 +1,4 @@
-import { getPages } from "@akasha/pages-access/get"
+import { askingFor } from "@akasha/pages-system-service/calling"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { partitionUnmanagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-filter"
 import { readManagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-types"
@@ -7,26 +7,21 @@ import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
 import { computeInventoryTotalValue } from "@temper/game-items-core/inventory-value"
 import { shardInventoryJson } from "@temper/game-items-core/shard-inventory"
 import { inventorySnapshotName } from "./inventory-snapshot-name.ts"
+import { capturedAtOf, landNetWorthReading, netWorthHourSlug } from "./net-worth-hour-landing.ts"
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
-const NET_WORTH_DAY_PAGE_TYPE_SLUG = "temper-net-worth-day"
+
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
-// THIS IS THE ONLY THING THAT EVER WROTE A NET WORTH DOWN, AND IT HAS NOT WRITTEN ONE SINCE THE
-// STORE STOPPED TAKING KEYED WRITES. The snapshot went in with `patchPage`, its chunks with
-// `patchPage`, and the day's reading with `patchPage` plus `patchRow` — four keyed writes, all
-// refused. The first threw, so no chunk and no net worth was ever reached.
-//
-// The reading side of that history is gone too. `/api/net-worth`, the net worth card on the home
-// page, and the inventory Trends tab were all removed, because a chart that stops dead at the last
-// day filed before the writes died draws the shape of a store that stopped listening, not the
-// shape of Alan's holdings, and it had no way to tell the two apart. The readings themselves are
-// still filed; nothing serves them.
-//
-// Everything above the landing still works — the scan parses, the value and net worth compute,
-// the shards are cut — so this does all of it and then says exactly which numbers it could not
-// keep. Nothing is invented and nothing is rounded to zero.
-const NO_KEYED_WRITE = "the page store refuses every keyed write"
+// THE SNAPSHOT AND ITS CHUNKS STILL DO NOT LAND. Both page types stand in akasha —
+// `akasha/temper/temper-holdings/inventory-snapshots` and `.../inventory-chunks` — but the
+// recreation turned the sharded JSON into one `stacks` line per slot and left the chunk pages
+// counting bytes that are not in akasha. Deriving those lines from a scan is its own conversion and
+// its own proof, and a scan half filed is worse than a scan filed nowhere. So this says which
+// numbers it could not keep rather than writing a second shape of them.
+const NO_SNAPSHOT =
+  "a scan is kept in akasha as one line per slot rather than as sharded JSON, and nothing here " +
+  "turns a scan into those lines yet"
 
 export async function runImportInventory(
   content: string,
@@ -61,8 +56,9 @@ export async function runImportInventory(
   const totalValue = computeInventoryTotalValue(inventoryData)
   const lastFullScan = inventoryData.meta.lastFullScan
   const dataTimestamp = lastFullScan > 0 ? lastFullScan * 1000 : Date.now()
+  const capturedAt = capturedAtOf(dataTimestamp)
 
-  console.log(`Scan timestamp: ${new Date(dataTimestamp).toISOString()}`)
+  console.log(`Scan timestamp: ${capturedAt}`)
   console.log(
     `Estimated scanned value: ${Math.round(totalValue).toLocaleString()} gold (all locations)`
   )
@@ -84,13 +80,15 @@ export async function runImportInventory(
   const conversionRates: Record<string, number> = { gold: 1 }
   console.log(`\nNo currency pricing available — net worth will exclude currency gold values.`)
 
-  const { rows: playerRows } = await getPages({
+  const asked = await askingFor({
     pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-    where: [{ key: "title", eq: userId }],
-    select: ["settings"],
+    where: { accountPage: { is: userId } },
     limit: 1,
   })
-  const managedSet = readManagedGuildBanks(playerRows[0]?.settings)
+  if ("refused" in asked) {
+    throw new Error(`runImportInventory: the player went unread — ${asked.refused}`)
+  }
+  const managedSet = readManagedGuildBanks(asked.rows[0]?.settings)
   const { inventory: ownedInventory, excluded } = partitionUnmanagedGuildBanks(
     inventoryData,
     managedSet
@@ -98,7 +96,6 @@ export async function runImportInventory(
   const excludedGuildBankValue = excluded.reduce((sum, entry) => sum + entry.value, 0)
 
   const netWorthResult = computeNetWorth(ownedInventory, conversionRates)
-  const snapshotDate = new Date(dataTimestamp).toISOString().slice(0, 10)
 
   console.log(`\n=== Summary ===`)
   console.log(`  Locations:      ${locationCount}`)
@@ -120,12 +117,30 @@ export async function runImportInventory(
     }
   }
 
-  throw new Error(
-    `this scan was read and then dropped — ${NO_KEYED_WRITE}. ` +
-      `\`${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}/${snapshotName}\` and its ${chunkCount} chunk(s) ` +
-      `did not land, and neither did \`${NET_WORTH_DAY_PAGE_TYPE_SLUG}/${snapshotDate}\` carrying ` +
-      `a net worth of ${Math.round(netWorthResult.netWorth).toLocaleString()} gold. ` +
-      `Nothing in the app reads that history any more, so the number above is the only place ` +
-      `this scan's net worth is said at all`
+  const landed = await landNetWorthReading(
+    {
+      id: Bun.randomUUIDv7(),
+      accountPage: userId,
+      capturedAt,
+      totalValue: netWorthResult.netWorth,
+      goldAmount: netWorthResult.goldAmount,
+      currencyGoldValue: netWorthResult.currencyGoldValue,
+      itemValue: netWorthResult.itemValue,
+      excludedGuildBankValue,
+    },
+    () => Bun.randomUUIDv7()
+  )
+  if (landed.outcome === "refused") {
+    throw new Error(
+      `this scan's net worth did not land on \`${netWorthHourSlug(capturedAt)}\` — ${landed.why}`
+    )
+  }
+  console.log(
+    `\n  Net worth filed on \`${netWorthHourSlug(capturedAt)}\` (${landed.outcome} at ${landed.at}).`
+  )
+
+  console.log(
+    `  ${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}/at-${snapshotName} and its ${chunkCount} chunk(s) ` +
+      `were not filed: ${NO_SNAPSHOT}.`
   )
 }
