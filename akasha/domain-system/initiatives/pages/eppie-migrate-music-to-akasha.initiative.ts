@@ -9,11 +9,6 @@ export const eppieMigrateMusicToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "The music commands are akasha commands rather than ops commands.",
-      workingMemory:
-        "Eight commands sit in `tools/commands/music/`, dispatched by `tools/ops/cli.ts` through the registry in `tools/ops/declared.ts`. `next.ts`, `rate.ts` and `collections/music/src/musicbrainz/import.ts` are the last three readers of the old `pages/`, so the old copies go once these move. `next` gives back a slug while `rate --id` takes a page id, so the loop cannot feed one to the other. Alan has said the behaviour may change rather than being carried across as it was.",
-    },
-    {
       statement:
         "Every song, artist and listen the music keeps is a page in akasha rather than in `pages/`.",
       workingMemory:
