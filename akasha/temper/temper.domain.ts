@@ -133,6 +133,7 @@ export const temper = {
     "eso-addon/temper-lib-addon-menu-order-list-box",
     "eso-addon/temper-collections-addon",
     "workspace-package/temper-player-completion-state",
+    "workspace-package/temper-player-completion-ui",
   ],
   invariants: [
     {

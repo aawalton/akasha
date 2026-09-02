@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/temper-player-completion-ui",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./completion-activity-mode-context": "./completion-activity-mode-context/completion-activity-mode-context.module.code.tsx",
+    "./completion-panel-card": "./completion-panel-card/completion-panel-card.module.code.tsx",
+    "./completion-search-context": "./completion-search-context/completion-search-context.module.code.tsx"
+  },
+  "dependencies": {
+    "@akasha/design-badges": "workspace:*",
+    "@akasha/design-layout": "workspace:*",
+    "@akasha/design-patterns": "workspace:*",
+    "@akasha/temper-player-completion": "workspace:*",
+    "lucide-react": "^0.576.0"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
+  }
+}
