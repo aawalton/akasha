@@ -13,6 +13,11 @@ export const temperLibTreasure = {
     "module/treasure-casts",
     "module/treasure-icons",
     "module/treasure-book-ids",
+    "module/treasure-pins-data-00",
+    "module/treasure-pins-data-01",
+    "module/treasure-pins-data-02",
+    "module/treasure-pins-data-03",
+    "module/treasure-pins-data",
   ],
   invariants: [
     {
