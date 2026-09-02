@@ -5,7 +5,14 @@ export const modelGateway = {
   pageTypeSlug: "domain",
   slug: "model-gateway",
   definition: "what sits between an agent and the model it is asking",
-  partSlugs: ["module/keepalive"],
+  partSlugs: [
+    "module/bind-with-retry",
+    "module/committed-outcome",
+    "module/keepalive",
+    "module/proxy-headers",
+    "module/queue-step",
+    "module/sse-error-frame",
+  ],
   invariants: [
     {
       invariantKind: "departure",
