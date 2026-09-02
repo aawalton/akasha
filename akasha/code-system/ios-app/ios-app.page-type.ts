@@ -9,6 +9,7 @@ import type { DisplayName } from "./properties/display-name.text-property.ts"
 import type { GitIgnore } from "./properties/git-ignore.named-file-property.ts"
 import type { IconDrawing } from "./properties/icon-drawing.file-property.ts"
 import type { IconPath } from "./properties/icon-path.text-property.ts"
+import type { MarketingVersion } from "./properties/marketing-version.text-property.ts"
 import type { SpaSourcePath } from "./properties/spa-source-path.text-property.ts"
 import type { StageScript } from "./properties/stage-script.relation-property.ts"
 import type { WebEntry } from "./properties/web-entry.file-property.ts"
@@ -24,6 +25,7 @@ export type IosApp = WorkspacePackage & {
   gitIgnore: GitIgnore
   iconDrawing?: IconDrawing
   iconPath?: IconPath
+  marketingVersion: MarketingVersion
   spaSourcePath?: SpaSourcePath
   stageScript?: StageScript
   webEntry?: WebEntry
@@ -57,6 +59,7 @@ export const iosApp = {
     "text-property/development-team",
     "text-property/display-name",
     "text-property/icon-path",
+    "text-property/marketing-version",
     "text-property/spa-source-path",
     "text-property/web-env-path",
   ],
@@ -71,6 +74,7 @@ export const iosApp = {
     { pagePropertySlug: "git-ignore", required: true, many: false },
     { pagePropertySlug: "icon-drawing", required: false, many: false },
     { pagePropertySlug: "icon-path", required: false, many: false },
+    { pagePropertySlug: "marketing-version", required: true, many: false },
     { pagePropertySlug: "spa-source-path", required: false, many: false },
     { pagePropertySlug: "stage-script", required: false, many: false },
     { pagePropertySlug: "web-entry", required: false, many: false },

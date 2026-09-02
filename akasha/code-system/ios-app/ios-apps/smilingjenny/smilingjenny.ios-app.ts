@@ -13,6 +13,7 @@ export const smilingjenny = {
   developmentTeam: "M6AN6NM6FL",
   displayName: "Smiling Jenny",
   gitIgnore: "gitignore",
+  marketingVersion: "1.0",
   webEntry: "html",
   partSlugs: [
     "ios-program/smilingjenny-app",
