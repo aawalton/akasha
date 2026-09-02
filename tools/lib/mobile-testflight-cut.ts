@@ -19,6 +19,13 @@ import {
 import type { CutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
 import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
 
+export type Say = (text: string) => void
+
+/** Where a caller naming no sink is said to: this process's own output. */
+export const TO_STDOUT: Say = (text) => {
+  process.stdout.write(text)
+}
+
 const FILING_TRIES = 4
 
 const FILING_BACKOFF_MS = [2_000, 5_000, 15_000] as const
@@ -51,7 +58,8 @@ export async function fileFingerprint(
   fp: CutFingerprint,
   record: Recorder,
   sleep: (ms: number) => Promise<void> = (ms) =>
-    new Promise((resolve) => setTimeout(resolve, ms))
+    new Promise((resolve) => setTimeout(resolve, ms)),
+  say: Say = TO_STDOUT
 ): Promise<string | null> {
   let last = "nothing was tried"
   for (let attempt = 0; attempt < FILING_TRIES; attempt += 1) {
@@ -62,7 +70,7 @@ export async function fileFingerprint(
       last = err instanceof Error ? err.message : String(err)
       const wait = FILING_BACKOFF_MS[attempt]
       if (wait === undefined) break
-      process.stdout.write(
+      say(
         `⚠ the cut fingerprint for build ${fp.buildNumber} did not file (${last}); trying again in ${
           wait / 1000
         }s\n`
@@ -88,8 +96,14 @@ export async function runTestflightCut(opts: {
   readonly noUpload: boolean
   readonly password: string
   readonly ref: string
+  readonly say?: Say
 }): Promise<void> {
   const { app, configuration, buildNumber, sync, wait, noUpload, password, ref } = opts
+  // A caller naming a sink is carrying what this says back to its own reader,
+  // so nothing here reaches a terminal and the ssh output is captured rather
+  // than streamed. A caller naming none is a person watching, and streams.
+  const say = opts.say ?? TO_STDOUT
+  const watched = opts.say === undefined
   const startedAt = Date.now()
 
   const {
@@ -153,7 +167,7 @@ export async function runTestflightCut(opts: {
   }
   const mainSha = pinned(codeRepoRoot, "code")
   const cutCommit = pinned(shellRoot, "native shell")
-  process.stdout.write(
+  say(
     `Cut ships the shell at ${cutCommit.slice(0, 12)} over ${ref} at ${mainSha.slice(0, 12)}; binaries must carry the shell commit.\n`
   )
 
@@ -168,14 +182,14 @@ export async function runTestflightCut(opts: {
     ascFloor = await fetchMaxBuildVersion(appId, await ascJwt())
   } catch (err) {
     if (wait) throw err
-    process.stdout.write(
+    say(
       `⚠ could not read the App Store Connect build floor (${
         err instanceof Error ? err.message : String(err)
       }); relying on the durable mac counter\n`
     )
   }
 
-  process.stdout.write(
+  say(
     `${noUpload ? "Dry-run archive+export of" : "Cutting"} ${app.slug} (${app.bundleId}) ${configuration} TestFlight build (${
       buildNumber === undefined ? "auto-claimed number" : `build ${buildNumber}`
     }, asc floor ${ascFloor}, sync=${sync}${
@@ -190,7 +204,7 @@ export async function runTestflightCut(opts: {
         `${app.slug} names a www stage script and no \`mac-www-staging-rel\`, so its page says nothing about where on the MacBook the build is staged`
       )
     }
-    process.stdout.write(
+    say(
       `Building www on the workstation at ${mainSha.slice(0, 12)} (${ref})…\n`
     )
     const wwwAt = Date.now()
@@ -210,11 +224,11 @@ export async function runTestflightCut(opts: {
         }). The stage script's own output is above — search the run for \`[stage-app]\` and read what follows it for the refusing gate and the modules it names.`
       )
     }
-    process.stdout.write(
+    say(
       `Staging www (main ${mainSha.slice(0, 12)}) → ${MACBOOK.user}@${MACBOOK.host}:~/${stagingRel}…\n`
     )
-    await rsyncToHost(MACBOOK, built.wwwDir, stagingRel)
-    process.stdout.write(`  www built and staged in ${elapsedSince(wwwAt)}\n`)
+    await rsyncToHost(MACBOOK, built.wwwDir, stagingRel, { quiet: !watched })
+    say(`  www built and staged in ${elapsedSince(wwwAt)}\n`)
   }
 
   const script = buildTestflightDeployScript({
@@ -233,7 +247,11 @@ export async function runTestflightCut(opts: {
     cutCommit,
   })
   const macAt = Date.now()
-  const { stdout: out, code } = await runSshResult(MACBOOK, script, { stream: true })
+  const { stdout: out, code } = await runSshResult(MACBOOK, script, {
+    stream: watched,
+    quiet: !watched,
+  })
+  if (!watched) say(out.endsWith("\n") ? out : `${out}\n`)
   const macTook = elapsedSince(macAt)
 
   const successMarker = noUpload ? "MOBILE_DEPLOY_TESTFLIGHT_DRYRUN_OK" : ALTOOL_MARKERS.uploadOk
@@ -247,16 +265,16 @@ export async function runTestflightCut(opts: {
   if (!ok) {
     throw testflightFailureError(out)
   }
-  process.stdout.write(`\n  macbook checkout to exported .ipa took ${macTook}\n`)
+  say(`\n  macbook checkout to exported .ipa took ${macTook}\n`)
 
   if (noUpload) {
     const dryRunNumber = parseAssignedBuildNumber(out)
-    process.stdout.write(
+    say(
       `\n✓ ${configuration} archive + export + APP STORE VALIDATION passed (build ${
         dryRunNumber ?? "?"
       }, signed .ipa validated by Apple) — upload SKIPPED (--no-upload). No upload slot consumed.\n`
     )
-    process.stdout.write(`  whole run: ${elapsedSince(startedAt)}\n`)
+    say(`  whole run: ${elapsedSince(startedAt)}\n`)
     return
   }
 
@@ -266,7 +284,7 @@ export async function runTestflightCut(opts: {
       "TestFlight upload succeeded but the remote script emitted no MOBILE_DEPLOY_TESTFLIGHT_BUILD_NUMBER marker — cannot confirm the claimed build number"
     )
   }
-  process.stdout.write(
+  say(
     `\n✓ ${configuration} build ${assignedBuildNumber} uploaded to App Store Connect / TestFlight\n`
   )
 
@@ -289,17 +307,17 @@ export async function runTestflightCut(opts: {
     ),
     cutAt: new Date().toISOString(),
   }
-  const filed = await fileFingerprint(app.slug, fingerprint, recordCutFingerprint)
+  const filed = await fileFingerprint(app.slug, fingerprint, recordCutFingerprint, undefined, say)
   if (filed !== null) {
-    process.stdout.write(
+    say(
       `\n⚠ the upload SUCCEEDED and build ${assignedBuildNumber} is at Apple. Only its fingerprint went unfiled.\n`
     )
-    process.stdout.write(`  ${cutRecordCall(app.slug, fingerprint)}\n`)
+    say(`  ${cutRecordCall(app.slug, fingerprint)}\n`)
     throw operationalError(
       `build ${assignedBuildNumber} uploaded, and its cut fingerprint was not filed after ${FILING_TRIES} tries, so \`ops mobile cut-status\` would answer against an older build without saying so: ${filed}. The upload is done — file the fingerprint with the \`ops mobile cut-record\` call printed above rather than cutting again.`
     )
   }
-  process.stdout.write(
+  say(
     `✓ recorded cut fingerprint (build ${assignedBuildNumber}, main ${cutCommit.slice(0, 12)})\n`
   )
 
@@ -311,7 +329,7 @@ export async function runTestflightCut(opts: {
     }
     const resolvedAppId = appId
     const targetVersion = String(assignedBuildNumber)
-    process.stdout.write(
+    say(
       `Polling App Store Connect for build ${targetVersion} every ${
         POLL_INTERVAL_MS / 1000
       }s, up to ${POLL_TIMEOUT_MS / 60_000} minutes…\n`
@@ -323,7 +341,7 @@ export async function runTestflightCut(opts: {
       now: () => Date.now(),
       intervalMs: POLL_INTERVAL_MS,
       timeoutMs: POLL_TIMEOUT_MS,
-      onTick: (message) => process.stdout.write(`  ${message}\n`),
+      onTick: (message) => say(`  ${message}\n`),
     })
     if (outcome.kind === "failed") {
       throw operationalError(describeProcessingFailure(outcome.failure))
@@ -335,7 +353,7 @@ export async function runTestflightCut(opts: {
         }). The upload succeeded — check App Store Connect → TestFlight, or re-run \`ops mobile testflight-status --wait\` to keep waiting.`
       )
     }
-    process.stdout.write(
+    say(
       `\n✓ build ${outcome.build.version} VALID — polling tester visibility every ${
         POLL_INTERVAL_MS / 1000
       }s, up to ${VISIBILITY_TIMEOUT_MS / 60_000} minutes…\n`
@@ -348,7 +366,7 @@ export async function runTestflightCut(opts: {
       now: () => Date.now(),
       intervalMs: POLL_INTERVAL_MS,
       timeoutMs: VISIBILITY_TIMEOUT_MS,
-      onTick: (message) => process.stdout.write(`  ${message}\n`),
+      onTick: (message) => say(`  ${message}\n`),
     })
     if (visibility.kind !== "visible") {
       const lastState = visibility.kind === "blocked" ? visibility.state : visibility.lastState
@@ -356,9 +374,9 @@ export async function runTestflightCut(opts: {
         describeProcessingFailure(visibilityFailureFor(validBuild, lastState))
       )
     }
-    process.stdout.write(
+    say(
       `\n✓ build ${validBuild.version} VALID and tester-visible (${visibility.state}), ready to install\n`
     )
   }
-  process.stdout.write(`  whole run: ${elapsedSince(startedAt)}\n`)
+  say(`  whole run: ${elapsedSince(startedAt)}\n`)
 }
