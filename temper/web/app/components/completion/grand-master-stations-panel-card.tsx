@@ -1,7 +1,14 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { TOTAL_GRAND_MASTER_STATIONS } from "@akasha/temper-completion/completion-progress"
+import {
+  type CompletionFilter,
+  type CompletionNode,
+  CompletionPanelCard,
+  type CompletionSortMode,
+  createNodeFilter,
+  withActivityCategories,
+} from "@akasha/temper-player-completion-ui/completion-panel-card"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
-import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter, withActivityCategories } from "@temper/player-completion-ui/completion-panel-card"
 import type { AccountCardId } from "@temper/player-completion/completion-card-registry"
 
 const FALLBACK_LABELS = ["Blacksmithing", "Clothier", "Jewelrycrafting", "Woodworking"]
