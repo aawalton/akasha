@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
-export const storyReader = {
+export const storyUi = {
   id: "01a0628e-a5db-710f-96c6-55f3f7b2427a",
   pageTypeSlug: "workspace-package",
-  slug: "story-reader",
+  slug: "story-ui",
   definition: "one game session shaped for the browser a player reads it in",
   manifest: "json",
   partSlugs: [
