@@ -66,13 +66,13 @@ export function initMenu(self: Lib): undefined {
   const [cr, cg, cb, ca] = ZO_CONTRAST_TEXT.UnpackRGBA()
   libMainMenuSubcategoryButton.SetColor(cr, cg, cb, ca)
   libMainMenuSubcategoryButton.SetFont("ZoFontHeader3")
-  libMainMenuSubcategoryButton.SetHandler("OnMouseEnter", (ctrl: LabelControl) => {
+  libMainMenuSubcategoryButton.SetHandler("OnMouseEnter", (ctrl: unknown) => {
     const [hr, hg, hb, ha] = ZO_HIGHLIGHT_TEXT.UnpackRGBA()
-    ctrl.SetColor(hr, hg, hb, ha)
+    asLabelControl(ctrl).SetColor(hr, hg, hb, ha)
   })
-  libMainMenuSubcategoryButton.SetHandler("OnMouseExit", (ctrl: LabelControl) => {
+  libMainMenuSubcategoryButton.SetHandler("OnMouseExit", (ctrl: unknown) => {
     const [xr, xg, xb, xa] = ZO_CONTRAST_TEXT.UnpackRGBA()
-    ctrl.SetColor(xr, xg, xb, xa)
+    asLabelControl(ctrl).SetColor(xr, xg, xb, xa)
   })
   libMainMenuSubcategoryButton.SetMouseEnabled(true)
 

@@ -4,7 +4,7 @@ export const mainMenuGameShape1 = {
   id: "01a0605b-c803-73b6-bc0b-4d82b37a45a0",
   pageTypeSlug: "module",
   slug: "main-menu-game-shape-1",
-  definition: "the game's own globals and object shapes this addon reads",
+  definition: "the menu shapes this addon adds to the game's own typings",
   code: "ts",
   invariants: [
     {
@@ -13,7 +13,7 @@ export const mainMenuGameShape1 = {
     },
     {
       invariantKind: "departure",
-      statement: "A name here is the game's own and is never renamed.",
+      statement: "An `Lmm` name describes a game table the game itself leaves unnamed.",
     },
     {
       invariantKind: "departure",
@@ -24,8 +24,8 @@ export const mainMenuGameShape1 = {
       statement: "Nothing here is emitted into the built Lua.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "This copy is taken from the shared game typings that have yet to reach akasha.",
+      invariantKind: "constraint",
+      statement: "A name the shared game typings already hold is not declared here.",
     },
   ],
 } as const satisfies Module

@@ -4,7 +4,7 @@ export const mainMenuGameShape2 = {
   id: "01a0605b-c803-7d07-8439-d7c173d910ac",
   pageTypeSlug: "module",
   slug: "main-menu-game-shape-2",
-  definition: "the game's own globals and object shapes this addon reads",
+  definition: "the game globals this addon reads that the shared typings lack",
   code: "ts",
   invariants: [
     {
@@ -24,8 +24,8 @@ export const mainMenuGameShape2 = {
       statement: "Nothing here is emitted into the built Lua.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "This copy is taken from the shared game typings that have yet to reach akasha.",
+      invariantKind: "constraint",
+      statement: "A name the shared game typings already hold is not declared here.",
     },
   ],
 } as const satisfies Module
