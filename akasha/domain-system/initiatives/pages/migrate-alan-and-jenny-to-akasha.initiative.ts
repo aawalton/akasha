@@ -34,7 +34,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "All five lanes landed; reaches fell from 105 files to 49, mostly stubs that say so out loud. Correction worth keeping: only KEYED writes refuse for good. The file verbs work, and the new service's `/write` takes puts under `akasha/`, which is what the device-secret writes moved onto. `sms-discard` shouts before answering now. `capture-error` did regress, since akasha declares no `error` page type and five web apps call it.",
+        "All five lanes landed; reaches fell from 105 files to 49, mostly stubs that say so out loud. Correction worth keeping: only KEYED writes refuse for good. The file verbs work, and the new service's `/write` takes puts under `akasha/`, which is what the device-secret writes moved onto. `sms-discard` shouts before answering now. `capture-error` no longer regresses: the `error` page type landed at `2e37f1ecc7`; a report through the real route answered 204 and filed a page.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
