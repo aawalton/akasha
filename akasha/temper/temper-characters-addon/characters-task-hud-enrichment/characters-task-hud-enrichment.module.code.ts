@@ -206,8 +206,20 @@ function getSessionBaselineLeads(this: void): readonly ActiveAntiquityLead[] {
   return sessionBaselineLeads
 }
 
+interface AntiquityLeadsView {
+  getAntiquityDigZoneName: (this: void, antiquityId: number) => string | undefined
+}
+
+interface LeadsHost {
+  TemperLeads?: AntiquityLeadsView
+}
+
+function asLeadsHost(this: void, value: unknown): LeadsHost {
+  return value as LeadsHost
+}
+
 function resolveAntiquityDigZone(this: void, antiquityId: number): string | undefined {
-  return globalThis.TemperLeads?.getAntiquityDigZoneName(antiquityId)
+  return asLeadsHost(globalThis).TemperLeads?.getAntiquityDigZoneName(antiquityId)
 }
 
 export function getAntiquityLeadEnrichment(cardId: string): AntiquityLeadEnrichment {
