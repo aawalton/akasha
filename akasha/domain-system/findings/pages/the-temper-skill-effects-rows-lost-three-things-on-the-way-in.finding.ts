@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theTemperSkillEffectsRowsLostThreeThingsOnTheWayIn = {
+  id: "01a061a2-c2c7-7a3e-a3dd-0b916a24623e",
+  pageTypeSlug: "finding",
+  slug: "the-temper-skill-effects-rows-lost-three-things-on-the-way-in",
+  domainSlug: "domain/temper",
+  claim:
+    "Three data points left `temper-skill` between the checked-in table and the pages it is rendered from, and each reads at the parser as a drifted generator. Ninety skills carried an empty effects list, which the pages cannot tell apart from no list. Rows spell `type` and `value` where their own property declares `effect-type` and `effect-value`. Nineteen `seconds` values are absent.",
+  evidence:
+    'Measured 2026-09-02 by running `generateTemperSkill` over the live pages and comparing to `temper/game-characters-skills/src/generated/temper-skill.generated.ts`, 1165726 bytes.\n\nEmitted 1178950. A missing json decode in the addon-data bridge accounted for 9597 of that and is mended, leaving 3627 bytes of page data.\n\nEmpty lists. The file holds 203 `effects:` lines and 90 of them read `effects: [] as const,`. Exactly 113 pages name an `effects` key, 113 sidecars answer them and none is empty. The generator branches on presence at `temper-skill.module.code.ts:103` and its own header says the field is there only where the source declared it, so absent and empty mean different things to what reads it. The shape is `effects: "jsonl"` with rows beside the page, so an empty list wants a page saying `jsonl` and a sidecar of no rows, which the migration never wrote.\n\nKey spelling. 187 rows across the 113 sidecars. Census of rows against file: `type` 157 and `effectType` 157, `value` 109 and `effectValue` 109, `metricId` 157 on both, `buffId` 30, `slottedBehavior` 47, `valueType` 46. A one-for-one rename throughout. `id` is on all 187 rows and on none of the file\'s entries. The property page declares `effect-type` and `effect-value`, so the rows disagree with their own declaration rather than only with the file.\n\nSeconds. The file holds 19 `Number.POSITIVE_INFINITY` seconds across 11 skills and no sidecar row carries `seconds` at all. The generator turns a null `seconds` into that value at lines 104 to 107, which nothing now reaches. `bird-of-prey` is the shortest case.\n\nNone of the three is generator work. Two want a page type change first: a representable empty list, and an `effect-seconds` that holds null.',
+} as const satisfies Finding
