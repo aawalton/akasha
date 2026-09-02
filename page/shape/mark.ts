@@ -14,10 +14,10 @@ export const CODE_DIRS: readonly string[] = [
   "akasha/file-system/answer-mark",
   "akasha/file-system/exclusive",
   "akasha/pages-system/checkout-roots",
-  "akasha/pages-system/page/markdown-document",
-  "akasha/pages-system/page/markdown-page-at",
-  "akasha/pages-system/page/markdown-page-name",
-  "akasha/pages-system/page/markdown-page-type",
+  "akasha/pages-system/pages/markdown-document",
+  "akasha/pages-system/pages/markdown-page-at",
+  "akasha/pages-system/pages/markdown-page-name",
+  "akasha/pages-system/pages/markdown-page-type",
   "akasha/pages-system/repo-path",
   "akasha/utils-fs/atomic-write",
   "akasha/utils-fs/missing",
@@ -232,4 +232,3 @@ export function shapeMarkOf(tree: FileTree): string | null {
   const ground = groundOf(tree)
   return ground === null ? null : createHash("sha256").update(ground.base).digest("hex")
 }
-

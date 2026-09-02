@@ -2,8 +2,11 @@ import {
   everyOfType,
   everyPath,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { type Value, valueAt } from "../../akasha/pages-system/page/value/page-value.module.code.ts"
 import { kindsUnder } from "../../akasha/pages-system/page-types/descent/page-type-descent.module.code.ts"
+import {
+  type Value,
+  valueAt,
+} from "../../akasha/pages-system/pages/value/page-value.module.code.ts"
 import type { Frontmatter } from "../../page/frontmatter.ts"
 
 const DOMAIN = "domain"

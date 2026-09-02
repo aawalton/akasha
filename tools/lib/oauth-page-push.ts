@@ -2,7 +2,7 @@ import { createHash } from "node:crypto"
 import { chmodSync } from "node:fs"
 import { join } from "node:path"
 
-import { uncommittedAt } from "../../akasha/pages-system/page/file-name/page-file-name.module.code.ts"
+import { uncommittedAt } from "../../akasha/pages-system/pages/file-name/page-file-name.module.code.ts"
 import { landMechanically } from "./akasha-landing.ts"
 import {
   akashaAccountBeside,

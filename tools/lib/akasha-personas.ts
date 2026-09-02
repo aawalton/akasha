@@ -3,17 +3,17 @@ import {
   type Listed,
   listedAt,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { besideAt } from "../../akasha/pages-system/page/file-name/page-file-name.module.code.ts"
+import { besideAt } from "../../akasha/pages-system/pages/file-name/page-file-name.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
-} from "../../akasha/pages-system/page/uncommitted/page-uncommitted.module.code.ts"
+} from "../../akasha/pages-system/pages/uncommitted/page-uncommitted.module.code.ts"
 import {
   numberAt,
   textAt,
   type Value,
   valueAt,
-} from "../../akasha/pages-system/page/value/page-value.module.code.ts"
+} from "../../akasha/pages-system/pages/value/page-value.module.code.ts"
 
 const PAGE_TYPE = "persona"
 

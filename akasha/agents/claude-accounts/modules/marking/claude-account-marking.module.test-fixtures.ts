@@ -23,7 +23,7 @@ export const ABOVE_TYPE = "01a049b9-856c-7090-bd14-5a916f574259"
 
 export const TYPE_AT = "akasha/agents/claude-accounts/claude-account.page-type.ts"
 
-export const ABOVE_AT = "akasha/pages-system/page/page.page-type.ts"
+export const ABOVE_AT = "akasha/pages-system/pages/page.page-type.ts"
 
 export const PAGES_AT = "akasha/agents/claude-accounts/pages"
 
