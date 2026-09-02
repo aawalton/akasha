@@ -18,9 +18,6 @@
   "references": [
     {
       "path": "../../shared/pages-ui"
-    },
-    {
-      "path": "../game-characters"
     }
   ],
   "include": [

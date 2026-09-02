@@ -17,9 +17,6 @@
   },
   "references": [
     {
-      "path": "../player-completion"
-    },
-    {
       "path": "../player-completion-ui"
     }
   ],
