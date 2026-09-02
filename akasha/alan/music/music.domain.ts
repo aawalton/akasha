@@ -15,6 +15,15 @@ export const music = {
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "Every music package is reached through akasha rather than through `collections/`.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A live music call reads its pacing gap at the call rather than once at load.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every kind of thing music keeps has a page type of its own.",
     },
     {

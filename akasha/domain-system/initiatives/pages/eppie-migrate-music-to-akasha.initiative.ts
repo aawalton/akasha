@@ -10,15 +10,9 @@ export const eppieMigrateMusicToAkasha = {
   intents: [
     {
       statement:
-        "The Spotify client and the music collection are code in akasha rather than in `collections/`.",
-      workingMemory:
-        "`akasha/alan/music/spotify` is landed as `@akasha/spotify`, thirteen modules with 85 tests, and `catalog/` holds seven provider modules with 84. Both were recreated rather than carried, and the rate limit now reads its gap at every call. Left: `eppie/select.ts` and the three files under `cli/`, then repointing eight code files and four wiring files off the two old packages, then deleting both. `importArtistFromMusicBrainz` is written fresh against the new writers later.",
-    },
-    {
-      statement:
         "Every song, artist and listen the music keeps is a page in akasha rather than in `pages/`.",
       workingMemory:
-        "1,656 song pages sit in `pages/music-song`, 30 rated, beside 1,372 lyrics and 1,340 synced-lyrics attachments; 14 artists; 12 day pages holding 698 listen rows; one heard-music page holding 678 heard-track rows, 29 of which name no Spotify track id though the property is required. The queries turn on five keys: `play-key`, `spotify-track-id`, `title-key`, `played-at`, and `new-music-minutes` summed by persona and date.",
+        "1,656 song pages sit in `pages/music-song`, 30 rated, beside 1,372 lyrics and 1,340 synced-lyrics attachments; 14 artists; 12 day pages holding 698 listen rows; one heard-music page holding 678 heard-track rows, 29 of which name no Spotify track id. The queries turn on `play-key`, `spotify-track-id`, `title-key`, `played-at`, and `new-music-minutes` summed by persona and date. What is left of `collections/music` reads MusicBrainz and LRCLIB and waits on the new page writers.",
     },
     {
       statement: "The music commands are akasha commands rather than ops commands.",
