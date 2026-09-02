@@ -200,6 +200,7 @@ export type Sink = {
   readonly said: string[]
   readonly warned: string[]
   readonly asked: string[]
+  readonly pages: string[]
 }
 
 export function usageBody(fiveHour: number, sevenDay: number): unknown {
@@ -216,9 +217,10 @@ export function doorsWith(
   const saidLines: string[] = []
   const warnedLines: string[] = []
   const asked: string[] = []
+  const pages: string[] = []
+  const reading = said.secretsRead ?? (() => secretsHeld())
   let turn = 0
   const doors: Doors = {
-    secretsRead: () => secretsHeld(),
     usageFetch: async (token) => {
       asked.push(token)
       const answer = usage[Math.min(turn, usage.length - 1)]
@@ -233,8 +235,12 @@ export function doorsWith(
       warnedLines.push(line)
     },
     ...said,
+    secretsRead: (root, page) => {
+      pages.push(page)
+      return reading(root, page)
+    },
   }
-  return { doors, said: saidLines, warned: warnedLines, asked }
+  return { doors, said: saidLines, warned: warnedLines, asked, pages }
 }
 
 export function secretsHeld(): ReadonlyMap<string, string> {
