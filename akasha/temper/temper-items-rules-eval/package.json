@@ -1,0 +1,34 @@
+{
+  "name": "@akasha/temper-items-rules-eval",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./build-item-facts-from-inventory-item": "./build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts",
+    "./category-match": "./category-match/category-match.module.code.ts",
+    "./check-classification": "./check-classification/check-classification.module.code.ts",
+    "./check-container": "./check-container/check-container.module.code.ts",
+    "./check-container-fixtures": "./check-container-fixtures/check-container-fixtures.module.code.ts",
+    "./check-cross-character-craft": "./check-cross-character-craft/check-cross-character-craft.module.code.ts",
+    "./check-equip-target": "./check-equip-target/check-equip-target.module.code.ts",
+    "./check-flags": "./check-flags/check-flags.module.code.ts",
+    "./check-knowledge": "./check-knowledge/check-knowledge.module.code.ts",
+    "./check-location": "./check-location/check-location.module.code.ts",
+    "./check-numeric": "./check-numeric/check-numeric.module.code.ts",
+    "./check-potion-effects": "./check-potion-effects/check-potion-effects.module.code.ts",
+    "./check-result": "./check-result/check-result.module.code.ts",
+    "./check-stack-fullness": "./check-stack-fullness/check-stack-fullness.module.code.ts",
+    "./check-stock": "./check-stock/check-stock.module.code.ts",
+    "./compute-stock-groups": "./compute-stock-groups/compute-stock-groups.module.code.ts",
+    "./craft-inference": "./craft-inference/craft-inference.module.code.ts",
+    "./destination-resolve": "./destination-resolve/destination-resolve.module.code.ts",
+    "./eval-env": "./eval-env/eval-env.module.code.ts",
+    "./eval-result": "./eval-result/eval-result.module.code.ts",
+    "./evaluator": "./evaluator/evaluator.module.code.ts",
+    "./item-facts": "./item-facts/item-facts.module.code.ts",
+    "./rule-condition-eval": "./rule-condition-eval/rule-condition-eval.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-items-core": "workspace:*",
+    "@akasha/temper-items-rules-core": "workspace:*"
+  }
+}
