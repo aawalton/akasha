@@ -1,6 +1,10 @@
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { FILES, judgingEach } from "../../../modules/change-walking/change-walking.module.code.ts"
+import {
+  FILES,
+  judgingEach,
+  textNamed,
+} from "../../../modules/change-walking/change-walking.module.code.ts"
 
 export const CEILING = 15000
 
@@ -9,8 +13,6 @@ export const ENTRY_CEILING = 8 * 1024 * 1024
 export const MARKUP_CEILING = 128 * 1024
 
 const TEST = "test"
-
-const TS = "ts"
 
 const ENTRIES = "jsonl"
 
@@ -34,7 +36,7 @@ function reliefFor(path: string): string | null {
   if (said === null) return null
   if (said.held === MARKUP) return MARKUP_RELIEF
   if (said.sections.length !== 1 || said.sections[0] !== TEST) return null
-  return said.held === TS ? TEST_RELIEF : null
+  return textNamed(path) ? TEST_RELIEF : null
 }
 
 export function reasonsIn(given: Body): readonly string[] {
