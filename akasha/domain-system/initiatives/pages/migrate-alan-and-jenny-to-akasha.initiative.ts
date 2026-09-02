@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "The rollup is fixed at `9b6ffb6318` and the two acts are one at `b4918b9d9c`, which ends the doubling of 34 rows where 17 belong, ends the close livelock, weighs both halves before it writes anything, and undoes without the gate. A daemon write has a change kind that runs the checks at `28f9db7e0b`. Nothing has landed yet: 294 markdown days and no day pages. The act now refuses only because a session is open, and whether that bar is needed at all is being weighed.",
+        "The two acts are one at `b4918b9d9c` and the open-session bar is gone at `317722721f`, proven with a live row open across the act. Nothing has landed: 294 markdown days and no day pages. Two bars are left, both found by sweeping rather than by running the act. The folder the days land in matches no folder shape, so the gated write refuses (`9730306c77`), and the undo puts 294 files back and cannot commit them (`6de4acd819`). Mend the undo first, since it is what makes the act reversible.",
     },
     {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
