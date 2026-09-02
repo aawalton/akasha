@@ -39,24 +39,6 @@ func cases(now: Date) -> [RenderCase] {
         """
     }
 
-    let values = """
-        {"stoplights":[\
-        {"value":"faith","tier":"green","face":"Talia","reading":"1.40","nextTier":"blue","progress":0.4},\
-        {"value":"love","tier":"blue","face":"Ruby","reading":"2.30","nextTier":null,"progress":null},\
-        {"value":"health","tier":"yellow","face":"Elaine","reading":"0.72","nextTier":"green","progress":0.44},\
-        {"value":"learn","tier":"red","face":"Lali","reading":"0.31","nextTier":"yellow","progress":0.24},\
-        {"value":"fun","tier":"black","face":"Zeli","reading":"0.18","nextTier":"red","progress":0.72},\
-        {"value":"wealth","tier":"green","face":"Thea","reading":"1.05","nextTier":"blue","progress":0.05}]}
-        """
-    let valuesSweep = """
-        {"stoplights":[\
-        {"value":"faith","tier":"green","face":"Talia","reading":"1.02","nextTier":"blue","progress":0.02},\
-        {"value":"love","tier":"green","face":"Ruby","reading":"1.25","nextTier":"blue","progress":0.25},\
-        {"value":"health","tier":"green","face":"Elaine","reading":"1.50","nextTier":"blue","progress":0.5},\
-        {"value":"learn","tier":"green","face":"Lali","reading":"1.75","nextTier":"blue","progress":0.75},\
-        {"value":"fun","tier":"green","face":"Zeli","reading":"1.98","nextTier":"blue","progress":0.98},\
-        {"value":"wealth","tier":"blue","face":"Thea","reading":"2.00","nextTier":null,"progress":null}]}
-        """
     let inbox = """
         {"stoplights":[\
         {"inbox":"email","tier":"black","reading":"3.0k","nextTier":null,"progress":null},\
@@ -75,12 +57,6 @@ func cases(now: Date) -> [RenderCase] {
         {"habit":"safety","tier":"yellow","reading":"2.5","nextTier":"green","progress":0.5,"label":"Safety"}]}
         """
     all.append(contentsOf: [
-        RenderCase(
-            name: "values-stoplights-small", widget: "ValuesStoplightsWidget",
-            familySource: "systemSmall", body: values),
-        RenderCase(
-            name: "values-stoplights-small-sweep", widget: "ValuesStoplightsWidget",
-            familySource: "systemSmall", body: valuesSweep),
         RenderCase(
             name: "inbox-stoplights-small", widget: "InboxStoplightsWidget",
             familySource: "systemSmall", body: inbox),
@@ -109,7 +85,7 @@ func cases(now: Date) -> [RenderCase] {
                 familySource: "systemMedium", body: claude(fiveHourBackAt: rule.instant)))
     }
 
-    for group in ["ValuesStoplightsWidget", "InboxStoplightsWidget", "UpkeepStoplightsWidget"] {
+    for group in ["InboxStoplightsWidget", "UpkeepStoplightsWidget"] {
         all.append(
             RenderCase(
                 name: "\(slug(group))-small-never-read", widget: group,
@@ -117,7 +93,6 @@ func cases(now: Date) -> [RenderCase] {
     }
 
     for tile in [
-        (widget: "ValuesStoplightsWidget", family: "systemSmall"),
         (widget: "InboxStoplightsWidget", family: "systemSmall"),
         (widget: "UpkeepStoplightsWidget", family: "systemSmall"),
         (widget: "ClaudeUsageWidget", family: "systemMedium"),
@@ -132,7 +107,7 @@ func cases(now: Date) -> [RenderCase] {
     all.append(
         contentsOf: wideAndPlaceholderCases(
             CaseFixtures(
-                categorization: CATEGORIZATION_FIXTURE, values: values, inbox: inbox,
+                categorization: CATEGORIZATION_FIXTURE, inbox: inbox,
                 upkeep: upkeep,
                 claude: claude(fiveHourBackAt: ms(47 * 60 + 30)))))
     #endif

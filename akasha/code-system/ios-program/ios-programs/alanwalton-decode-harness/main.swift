@@ -163,12 +163,6 @@ func decodedCount<Payload: Decodable>(
     return count(payload)
 }
 
-func valuesCount(_ slugs: [String]) -> Int? {
-    decodedCount(ValuesStoplightsResponse.self, stoplightsBody("value", slugs)) {
-        $0.stoplights.count
-    }
-}
-
 func upkeepCount(_ slugs: [String]) -> Int? {
     decodedCount(UpkeepStoplightsResponse.self, stoplightsBody("habit", slugs)) {
         $0.stoplights.count
@@ -181,20 +175,6 @@ func inboxCount(_ slugs: [String]) -> Int? {
     }
 }
 
-let sixValues = ["faith", "love", "health", "learn", "fun", "wealth"]
-
-let scrambled = ["wealth", "fun", "learn", "health", "love", "faith"]
-let scrambledDecoded =
-    (try? JSONDecoder().decode(
-        ValuesStoplightsResponse.self, from: Data(stoplightsBody("value", scrambled).utf8)))?
-    .stoplights.map { $0.value }
-check(
-    "the values payload decodes in the order the wire sent it",
-    scrambledDecoded == scrambled,
-    "\(scrambledDecoded ?? ["<refused>"])")
-
-check("a seventh value decodes", valuesCount(sixValues + ["service"]) == 7, "seven entries")
-check("five values decode", valuesCount(Array(sixValues.dropLast())) == 5, "five entries")
 check(
     "a seventh upkeep circle decodes",
     upkeepCount(["plants", "activity", "sleep", "hygiene", "capacity", "safety", "meds"]) == 7,
@@ -204,16 +184,8 @@ check(
     inboxCount(["email", "tasks", "temperTasks", "texts", "questions"]) == 5,
     "five entries")
 
-check("an empty values payload is rejected", valuesCount([]) == nil, "no stoplights")
 check("an empty upkeep payload is rejected", upkeepCount([]) == nil, "no stoplights")
 check("an empty inbox payload is rejected", inboxCount([]) == nil, "no stoplights")
-
-check(
-    "a tier outside the five colours is still rejected",
-    (try? JSONDecoder().decode(
-        ValuesStoplightsResponse.self,
-        from: Data(#"{"stoplights":[{"value":"faith","tier":"chartreuse"}]}"#.utf8))) == nil,
-    "an unknown tier")
 
 check(
     "an entry naming the wrong key is rejected",

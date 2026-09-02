@@ -42,9 +42,6 @@ func makeView(
 ) throws -> AnyView {
     switch widget {
     #if HARNESS_ALANWALTON
-    case "ValuesStoplightsWidget":
-        let state = try feedState(ValuesStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
-        return AnyView(ValuesHomeView(entry: FeedEntry(date: date, state: state)))
     case "ClaudeUsageWidget":
         let state = try feedState(ClaudeUsage.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(
@@ -56,9 +53,6 @@ func makeView(
     case "UpkeepStoplightsWidget":
         let state = try feedState(UpkeepStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(UpkeepHomeView(entry: FeedEntry(date: date, state: state)))
-    case "PersonaStoplightsWidget":
-        let state = try feedState(PersonaStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
-        return AnyView(PersonaStoplightsHomeView(entry: FeedEntry(date: date, state: state)))
     #endif
     case "SafetyLevelWidget":
         let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
