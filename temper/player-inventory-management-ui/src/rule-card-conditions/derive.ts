@@ -1,10 +1,10 @@
+import type { ComparisonOpId } from "@akasha/temper-items-rules-core/comparison-op-data"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import type { RequiredCurseStateCondition } from "@akasha/temper-items-rules-core/required-curse-state-filter-types"
+import type { RequiredSkillLinesCondition } from "@akasha/temper-items-rules-core/required-skill-lines-filter-types"
+import { resolveThreshold } from "@akasha/temper-items-rules-core/rule-constants"
+import { QUALITY_OPTIONS } from "@akasha/temper-items-rules-core/rule-quality-filter"
 import { requireFirst } from "@akasha/utils-narrow/require-first"
-import { resolveThreshold } from "@temper/game-items-rules-core/rule-constants"
-import type { ComparisonOpId } from "@temper/game-items-rules-core/filters/comparison-op-data"
-import { QUALITY_OPTIONS } from "@temper/game-items-rules-core/filters/quality-filter"
-import type { RequiredCurseStateCondition } from "@temper/game-items-rules-core/filters/required-curse-state-filter-types"
-import type { RequiredSkillLinesCondition } from "@temper/game-items-rules-core/filters/required-skill-lines-filter-types"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
 
 export function deriveConditionValues(conditions: CategoryRule["conditions"]) {
   const qualityValue = conditions?.maxQuality != null ? String(conditions.maxQuality) : "1"
