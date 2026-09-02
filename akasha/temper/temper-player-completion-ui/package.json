@@ -5,12 +5,16 @@
   "exports": {
     "./completion-activity-mode-context": "./completion-activity-mode-context/completion-activity-mode-context.module.code.tsx",
     "./completion-panel-card": "./completion-panel-card/completion-panel-card.module.code.tsx",
-    "./completion-search-context": "./completion-search-context/completion-search-context.module.code.tsx"
+    "./completion-search-context": "./completion-search-context/completion-search-context.module.code.tsx",
+    "./use-completion": "./use-completion/use-completion.module.code.ts"
   },
   "dependencies": {
     "@akasha/design-badges": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-ui": "workspace:*",
+    "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-player-completion": "workspace:*",
     "lucide-react": "^0.576.0"
   },

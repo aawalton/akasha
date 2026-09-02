@@ -10,6 +10,7 @@ export const temperPlayerCompletionUi = {
     "module/completion-activity-mode-context",
     "module/completion-search-context",
     "module/completion-panel-card",
+    "module/use-completion",
   ],
   invariants: [
     {
