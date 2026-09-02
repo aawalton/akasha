@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/temper-shopping",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./companion-gear-shopping-bridge": "./companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts",
+    "./shopping-settings": "./shopping-settings/shopping-settings.module.code.ts",
+    "./ttc-budget-strategy": "./ttc-budget-strategy/ttc-budget-strategy.module.code.ts",
+    "./ttc-quality-text-classes": "./ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts",
+    "./ttc-shopping-optimizer": "./ttc-shopping-optimizer/ttc-shopping-optimizer.module.code.ts",
+    "./ttc-shopping-types": "./ttc-shopping-types/ttc-shopping-types.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-trading-pricing": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
