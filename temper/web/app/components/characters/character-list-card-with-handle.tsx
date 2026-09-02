@@ -3,8 +3,8 @@
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { RoleId } from "@akasha/temper-character-sources/character-roles"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { usePlayerByUserId } from "@akasha/temper-player-profile/use-player"
 import type { RaceId } from "@akasha/temper-races/races"
-import { usePlayerByUserId } from "@temper/player-profile/use-player"
 import { CharacterListPanelCard } from "@/components/characters/character-list-panel-card"
 
 interface CharacterListCardWithHandleProps {

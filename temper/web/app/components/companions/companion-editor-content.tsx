@@ -20,7 +20,7 @@ import {
 } from "@akasha/temper-companions-ui/use-companions"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useCompletionCompanions } from "@akasha/temper-player-completion-ui/use-completion"
-import { usePlayer } from "@temper/player-profile/use-player"
+import { usePlayer } from "@akasha/temper-player-profile/use-player"
 import { BarChart3, Info, ShieldHalf, Swords, User } from "lucide-react"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"

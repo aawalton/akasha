@@ -21,7 +21,7 @@ import {
 } from "@akasha/temper-characters-character-ui/use-characters"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useCompletionCharacters } from "@akasha/temper-player-completion-ui/use-completion"
-import { usePlayer } from "@temper/player-profile/use-player"
+import { usePlayer } from "@akasha/temper-player-profile/use-player"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
 import { ClassChangeConfirmationDialog } from "@/components/character/class-change-confirmation-dialog"
