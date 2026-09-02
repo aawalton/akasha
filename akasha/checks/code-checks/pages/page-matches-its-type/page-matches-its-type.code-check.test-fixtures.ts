@@ -406,7 +406,6 @@ export function besideCarried(uncommitted: boolean, secret = false): readonly Ca
       declaredBy: "beside",
       required: true,
       many: false,
-      entries: false,
       max: null,
       total: null,
       uncommitted,

@@ -27,7 +27,6 @@ export type Carried = {
   readonly declaredBy: string
   readonly required: boolean
   readonly many: boolean
-  readonly entries: boolean
   readonly max: number | null
   readonly total: number | null
   readonly uncommitted: boolean
@@ -89,7 +88,6 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
       declaredBy,
       required: one["required"] === true,
       many: one["many"] === true,
-      entries: one["entries"] === true,
       max: numberAt(one, "max"),
       total: numberAt(one, "total"),
       uncommitted: one["uncommitted"] === true,

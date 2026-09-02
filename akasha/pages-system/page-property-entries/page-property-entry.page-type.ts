@@ -34,7 +34,7 @@ export const pagePropertyEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration carrying many values keeps each value beside the page.",
+      statement: "A page states this property as the extension the file beside the page carries.",
     },
     {
       invariantKind: "gap",

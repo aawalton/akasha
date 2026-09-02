@@ -3,7 +3,6 @@ import type { Max } from "../../page-property/properties/max.number-property.ts"
 import type { Total } from "../../page-property/properties/total.number-property.ts"
 import type { RecordProperty } from "../../record-property/record-property.page-type.ts"
 import type { DefaultValue } from "./default-value.text-property.ts"
-import type { Entries } from "./entries.boolean-property.ts"
 import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
 import type { Required } from "./required.boolean-property.ts"
 import type { Secret } from "./secret.boolean-property.ts"
@@ -27,14 +26,6 @@ export type Declaration =
       uncommitted?: Uncommitted
       secret?: Secret
     }
-  | {
-      pagePropertySlug: PagePropertySlug
-      required: Required
-      entries: Entries
-      max?: Max | null
-      total?: Total | null
-      secret?: Secret
-    }
 
 export type Properties = List<Declaration>
 
@@ -48,7 +39,6 @@ export const properties = {
     { pagePropertySlug: "page-property-slug", required: true, many: false },
     { pagePropertySlug: "required", required: true, many: false },
     { pagePropertySlug: "many", required: true, many: false },
-    { pagePropertySlug: "entries", required: false, many: false },
     { pagePropertySlug: "default-value", required: false, many: false },
     { pagePropertySlug: "max", required: false, many: false },
     { pagePropertySlug: "total", required: false, many: false },
@@ -87,15 +77,6 @@ export const properties = {
     {
       invariantKind: "departure",
       statement: "Only a declaration carrying many values states a max or a total.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A declaration keeping its values beside the page says `entries` rather than `many`.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A declaration saying `entries` keeps each value on a line of its own.",
     },
     {
       invariantKind: "departure",

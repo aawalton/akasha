@@ -29,7 +29,7 @@ export const modelTest = {
   properties: [
     { pagePropertySlug: "model-family-slug", required: true, many: false },
     { pagePropertySlug: "prompt", required: true, many: false },
-    { pagePropertySlug: "cases", required: true, entries: true },
+    { pagePropertySlug: "cases", required: true, many: false },
   ],
   invariants: [
     {

@@ -30,7 +30,6 @@ function carrying(key: string, declaredBy: string): Carried {
     declaredBy,
     required: false,
     many: false,
-    entries: false,
     max: null,
     total: null,
     uncommitted: false,
