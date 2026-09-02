@@ -59,7 +59,6 @@
     "temper/player-profile",
     "temper/player-quests-addon",
     "temper/scripts",
-    "temper/shared-build-deploy-checks",
     "temper/shared-interface-keybinder-addon",
     "temper/web",
     "tools/lib"
