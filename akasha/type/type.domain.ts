@@ -1,11 +1,11 @@
 import type { Domain } from "../domain-system/domain/domain.page-type.ts"
 
-export const akashaType = {
+export const type = {
   id: "01a049e9-651c-7006-896c-2bffa71e2d0a",
   pageTypeSlug: "domain",
-  slug: "akasha-type",
+  slug: "type",
   definition: "the shape a value must have",
-  partSlugs: ["domain/akasha-import"],
+  partSlugs: ["domain/type-import"],
   invariants: [
     {
       invariantKind: "constraint",

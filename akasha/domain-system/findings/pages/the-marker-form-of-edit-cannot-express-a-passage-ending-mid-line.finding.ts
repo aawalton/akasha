@@ -4,7 +4,7 @@ export const theMarkerFormOfEditCannotExpressAPassageEndingMidLine = {
   id: "01a0622d-203c-74fc-9551-35f4255cf4a0",
   pageTypeSlug: "finding",
   slug: "the-marker-form-of-edit-cannot-express-a-passage-ending-mid-line",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   claim:
     '`akasha edit` reads marker-block passages through `linedOf` in `piping.module.code.ts`, which keeps each line\'s terminator, so `old.join("")` always ends a passage at a line end. A passage ending mid-line matches nothing and is refused, though its text is plainly in the file. The `--old-file`/`--new-file` form carries bytes exactly and repeats under one `--file-path`, so the capability is there and one form lacks it.',
   evidence:

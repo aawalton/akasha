@@ -4,7 +4,7 @@ export const aBodyAkashaAdmitsAndNoReadDeliversCanNeverBeWrittenAgain = {
   id: "01a0615e-58c0-7379-b516-a51551e8c69f",
   pageTypeSlug: "finding",
   slug: "a-body-akasha-admits-and-no-read-delivers-can-never-be-written-again",
-  domainSlug: "domain/akasha-required-reading",
+  domainSlug: "domain/required-reading",
   claim:
     "A body akasha admits and no read hands back can never be written again. `akasha read` refused every body past 28000 bytes, while `file-length` admits 8 MB of `.jsonl` and, since bc20d56ee5, 128 KB of markup. The `file-itself` warrant makes a write owe a reading of the body it replaces, so the refusal and the warrant close a ring. Creating such a file worked, because nothing was there to have been read. Replacing one was impossible.",
   evidence:

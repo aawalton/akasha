@@ -4,7 +4,7 @@ export const onePadNowFeedsTwoParsedFormatsAndNothingSaysTheWidthIsAContract = {
   id: "01a05c91-f04d-71a5-87c9-71e002d0412f",
   pageTypeSlug: "finding",
   slug: "one-pad-now-feeds-two-parsed-formats-and-nothing-says-the-width-is-a-contract",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   claim:
     "The zero pad five packages now share feeds two formats that are read back by machine, and its package does not say the width is a contract rather than a courtesy.",
   evidence:

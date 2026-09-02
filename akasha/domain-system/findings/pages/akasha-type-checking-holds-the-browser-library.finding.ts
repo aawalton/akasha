@@ -4,7 +4,7 @@ export const akashaTypeCheckingHoldsTheBrowserLibrary = {
   id: "01a06070-0ac4-70c5-8d19-26fb12c87fd9",
   pageTypeSlug: "finding",
   slug: "akasha-type-checking-holds-the-browser-library",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   claim:
     "akasha type-checks every file against the full ESNext library, which carries the browser types. A game name that matches a browser name resolves to the browser one, and the mismatch is reported inside addon code rather than at the declaration. Addon code compiles to Lua 5.1 in a sandbox with no browser, so the browser types are wrong for it and no setting turns them off.",
   evidence:

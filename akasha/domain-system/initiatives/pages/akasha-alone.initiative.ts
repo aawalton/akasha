@@ -4,7 +4,7 @@ export const akashaAlone = {
   id: "01a05324-954d-70c5-aefd-044e95822b48",
   pageTypeSlug: "initiative",
   slug: "akasha-alone",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   personaSlug: "akasha",
   parentSlug: "akasha-migration",
   intents: [

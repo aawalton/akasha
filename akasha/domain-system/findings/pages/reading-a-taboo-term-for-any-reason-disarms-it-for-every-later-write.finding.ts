@@ -4,7 +4,7 @@ export const readingATabooTermForAnyReasonDisarmsItForEveryLaterWrite = {
   id: "01a0625d-c99f-74f2-99e3-2758685ec749",
   pageTypeSlug: "finding",
   slug: "reading-a-taboo-term-for-any-reason-disarms-it-for-every-later-write",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   claim:
     "The only thing that tells a writer which word is barred and what to write in its place is the owed-read message on the term's page. `taboo-term.page-type.ts:63` makes that message one-shot: shown until the term has been read, and never again. A term page read for any unrelated reason disarms the warning for every later write in that record, and the write lands with the barred sense in it.",
   evidence:

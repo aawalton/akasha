@@ -1,15 +1,15 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "./domain-system/domain/domain.page-type.ts"
 
-export const akashaSystem = {
+export const akasha = {
   id: "01a049e9-651c-7000-b6c1-0d4d87c8b4c5",
   pageTypeSlug: "domain",
-  slug: "akasha-system",
+  slug: "akasha",
   definition: "code, data and text in a page with a type in a file",
   partSlugs: [
-    "domain/akasha-code",
-    "domain/akasha-data",
-    "domain/akasha-text",
-    "domain/akasha-file",
+    "domain/code",
+    "domain/data",
+    "domain/text",
+    "domain/file",
     "workspace-package/file-system",
     "workspace-package/utils-fs",
     "workspace-package/utils-narrow",
@@ -21,7 +21,7 @@ export const akashaSystem = {
     "workspace-package/pages-system",
     "workspace-package/domain-system",
     "workspace-package/graph-system",
-    "domain/akasha-type",
+    "domain/type",
     "domain/change",
     "domain/akasha-check",
     "workspace-package/checks",
@@ -36,7 +36,7 @@ export const akashaSystem = {
     "domain/role-system",
     "workspace-package/context-system",
     "workspace-package/agents",
-    "domain/akasha-required-reading",
+    "domain/required-reading",
     "domain/akasha-migration",
     "workspace-package/person-system",
     "workspace-package/service-system",

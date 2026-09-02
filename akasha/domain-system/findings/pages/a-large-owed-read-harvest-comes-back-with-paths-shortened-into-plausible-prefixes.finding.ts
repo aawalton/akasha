@@ -4,7 +4,7 @@ export const aLargeOwedReadHarvestComesBackWithPathsShortenedIntoPlausiblePrefix
   id: "01a0625d-c99f-72b9-a889-339224769c09",
   pageTypeSlug: "finding",
   slug: "a-large-owed-read-harvest-comes-back-with-paths-shortened-into-plausible-prefixes",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   claim:
     "Harvesting a write's owed-read list by piping `--dry-run` into `grep` is lossy once the list is large. A seat with about 138 owed paths got entries broken mid-token, such as `akasha/temper/temper-eso-typ`, on which `akasha read` answers that it names no file. No akasha command can do that. The shortening is at the caller, and what it hands back is a shorter path rather than an error.",
   evidence:

@@ -1,9 +1,9 @@
 import type { Domain } from "../domain-system/domain/domain.page-type.ts"
 
-export const akashaFile = {
+export const file = {
   id: "01a049e9-651c-7004-a164-c9c8df818b18",
   pageTypeSlug: "domain",
-  slug: "akasha-file",
+  slug: "file",
   definition: "a file in the `akasha` folder",
   invariants: [
     {

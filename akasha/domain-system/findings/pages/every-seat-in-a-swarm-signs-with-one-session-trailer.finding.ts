@@ -3,7 +3,7 @@ import type { Finding } from "../finding.page-type.ts"
 export const everySeatInASwarmSignsWithOneSessionTrailer = {
   id: "01a06249-e5dd-7000-880a-b2ec7ab9b3b3",
   pageTypeSlug: "finding",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   slug: "every-seat-in-a-swarm-signs-with-one-session-trailer",
   claim:
     "Every seat working under one coordinator signs its commits with the same `Claude-Session` trailer, the same `Co-Authored-By` line, and one of three git identities that name the tooling rather than the agent. So no part of a commit's metadata says which seat wrote it, and `git log --grep` on the trailer answers with every lane at once. Only the commit subject and the content of the page distinguish one seat's work from another's.",

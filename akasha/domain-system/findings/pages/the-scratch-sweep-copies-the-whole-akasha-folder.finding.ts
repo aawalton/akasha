@@ -4,7 +4,7 @@ export const theScratchSweepCopiesTheWholeAkashaFolder = {
   id: "01a0621b-8786-707f-bf01-fc50c824dfef",
   pageTypeSlug: "finding",
   slug: "the-scratch-sweep-copies-the-whole-akasha-folder",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   claim:
     "Two test files copy the whole `akasha/` folder into a scratch root and sweep it in an `afterAll` bounded by bun's 5s default: `indexing` copies it once, `cli` copies it ten times. The sweep is linear in the tree's file count and the tree only grows, so both fail by structure rather than by flake. Tonight's day-folder landing is not the cause.",
   evidence:

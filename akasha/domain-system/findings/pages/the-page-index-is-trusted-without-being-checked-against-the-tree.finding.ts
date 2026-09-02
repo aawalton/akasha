@@ -4,7 +4,7 @@ export const thePageIndexIsTrustedWithoutBeingCheckedAgainstTheTree = {
   id: "01a05cc3-f730-7ee6-b46f-9d273e3dc37c",
   pageTypeSlug: "finding",
   slug: "the-page-index-is-trusted-without-being-checked-against-the-tree",
-  domainSlug: "domain/akasha-data",
+  domainSlug: "domain/data",
   claim:
     "The page index is read as if it were the tree, so a page deleted outside `land()` leaves a row nothing removes and nothing detects. Every rule set reads all property-definition files eagerly, so one dead row stops all of them. That is what took the whole repo check suite down: not a wrong path in any source file, but a cache no reader is able to distrust.",
   evidence:

@@ -3,7 +3,7 @@ import type { Finding } from "../finding.page-type.ts"
 export const anUnverifiedCorrectionTakesOutATrueStatement = {
   id: "01a06263-12bb-7000-a1a4-b1ddf4250ec9",
   pageTypeSlug: "finding",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   slug: "an-unverified-correction-takes-out-a-true-statement",
   claim:
     "A claim is offered for checking and a correction is offered as the result of checking, so a correction is audited by neither its reader nor its author. Twice in one night that took out a true statement: a measured timestamp deleted from a landed page, and an accurate path retracted to a coordinator. Both reasoned from `it is not there now` to `it was never there`, which in a moving tree are different claims.",

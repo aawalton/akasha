@@ -4,7 +4,7 @@ export const theReadCapIsSizedToWhatTheCommandEmitsRatherThanWhatTheCallerReceiv
   id: "01a06241-45bb-7b60-9114-0ccb5735dbca",
   pageTypeSlug: "finding",
   slug: "the-read-cap-is-sized-to-what-the-command-emits-rather-than-what-the-caller-receives",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   claim:
     "`akasha read` caps one answer at 28,000 bytes, names the files it left, and hands back the exact next call, so the command loses nothing. That cap is larger than what one tool result delivers whole. One legal call, neither piped nor chained, had 18,061 characters removed from the middle of what reached the shell while the record held every file in it as read.",
   evidence:

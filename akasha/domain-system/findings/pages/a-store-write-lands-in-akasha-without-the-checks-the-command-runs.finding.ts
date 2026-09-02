@@ -4,7 +4,7 @@ export const aStoreWriteLandsInAkashaWithoutTheChecksTheCommandRuns = {
   id: "01a060b3-62fe-7316-8831-ea52d7a8dcab",
   pageTypeSlug: "finding",
   slug: "a-store-write-lands-in-akasha-without-the-checks-the-command-runs",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   claim:
     "The page store's `/write` lands a body into akasha without the checks the `akasha write` command runs. A file with no page, in a folder that already holds one page, under a name no page type claims, went through `writeFiles` and was committed. So the ruling that a generator lands its output through the store rather than through `fs` buys the commit and the concurrency, not the judgement: a program on that route answers for the shape of its own output.",
   evidence:

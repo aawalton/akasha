@@ -4,7 +4,7 @@ export const aLintErrorSuppressesTheFormattingThatWouldNumberIt = {
   id: "01a0627c-ac07-7657-9a98-f53ba61953af",
   pageTypeSlug: "finding",
   slug: "a-lint-error-suppresses-the-formatting-that-would-number-it",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   claim:
     "`formattedBody` runs `biome check --write` and hands the body back unchanged whenever biome exits non-zero. `check` lints as well as formats, so one lint diagnostic makes it exit non-zero. A file carrying a lint error is therefore the one file that never gets formatted, and every line number reported against it afterwards counts lines in a body nobody has. Formatting is skipped exactly where the diagnostics most need to line up.",
   evidence:

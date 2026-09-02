@@ -4,7 +4,7 @@ export const aRemovalMendsTheListsThatNamedAPageAndNotTheSwift = {
   id: "01a06257-4f34-73fc-81a5-6e7c35b2299d",
   pageTypeSlug: "finding",
   slug: "a-removal-mends-the-lists-that-named-a-page-and-not-the-swift",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   claim:
     "`akasha remove` now takes a page out of every list that named it, in the same commit, but it reaches only the names the index holds as page properties. A name a page has in Swift is a symbol rather than a page slug, so no index edge exists for it and a removal neither finds it nor reports it. Of the nine files naming the two tiles at 843f0c91f4, three held them as page-property lists, four as Swift symbols, and two as markdown outside `akasha/`.",
   evidence:

@@ -3,7 +3,7 @@ import type { Finding } from "../finding.page-type.ts"
 export const theClearingHookNamesTheSeatWhenThePayloadNamesNoSubagent = {
   id: "01a06253-76ed-7000-9e9c-e821242c4356",
   pageTypeSlug: "finding",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   slug: "the-clearing-hook-names-the-seat-when-the-payload-names-no-subagent",
   claim:
     "`clear-reads-on-context-replaced` takes the agent whose record it removes from `AGENT_ID`, which in a subagent carries the seat's id rather than its own. Only an `agent_id` in the payload names the subagent; missing that key, the hook falls back to the bare seat, taking the seat's record and leaving the subagent's. Either outcome answers alike: the removal runs with `force` and returns true whether the right folder went, the wrong one, or none.",

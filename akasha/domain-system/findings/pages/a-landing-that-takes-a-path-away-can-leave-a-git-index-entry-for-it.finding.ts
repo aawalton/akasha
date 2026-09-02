@@ -4,7 +4,7 @@ export const aLandingThatTakesAPathAwayCanLeaveAGitIndexEntryForIt = {
   id: "01a06259-3e2f-7858-98fa-512fa1eb8d49",
   pageTypeSlug: "finding",
   slug: "a-landing-that-takes-a-path-away-can-leave-a-git-index-entry-for-it",
-  domainSlug: "domain/akasha-system",
+  domainSlug: "domain/akasha",
   claim:
     "A landing that takes a path away can leave a git index entry for that path after HEAD no longer carries it. No akasha command clears such an entry, and both git repairs for it are refused, so the one route left is `git update-index --force-remove`, which the guard does not name.",
   evidence:
