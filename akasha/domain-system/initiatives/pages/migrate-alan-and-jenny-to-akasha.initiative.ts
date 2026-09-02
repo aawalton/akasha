@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's upkeep widget shows all six stoplights.",
       workingMemory:
-        "The group page, the groupSlugs restore and the route line landed at 4d6e5504e2, 221c5cc7cd and d1ddb90e0c, so the seam returns 2 of 6. Four lanes now hold capacity, plants, activity and sleep, each owed a readout page, its code, its test, a scale page and the reading and relay services. All four scales exist in markdown alone. Order: safety, surplus, capacity, plants, activity, sleep. Count what returns, since a partial migration shows fewer rings rather than failing.",
+        "Six return from the group, measured twice by separate lanes through answerStoplightsAdmittedBy itself, the function the route calls: safety, surplus, capacity, plants, activity, sleep, in place order, against a baseline of 2. The reading and relay timers are installed and firing, and both pods took the relay post. The guard is the one link nobody measured, being a device secret bound to Alan that none may mint, so his eyes on the tile are what close this.",
     },
     {
       statement: "Alan's inboxes stoplights and widget work.",
