@@ -14,6 +14,11 @@ export const migrateAlanAndJennyToAkasha = {
         "Alan reloaded, and activation threw `undefined stands under no akasha folder`: `gate-building` asks `rootOf(import.meta.path)` as it loads, and node answers undefined. It is reached by `work-tree/harness.ts` and `seat/turn-color.ts`, the two reaches not yet bun children, through `tools/lib` where no grep of the extension saw them. The instrument called 4 of 5 clean because it judged the files already mended rather than `extension.ts`, which is what activates.",
     },
     {
+      statement: "The code editor's four panels each show what akasha holds.",
+      workingMemory:
+        "Agents, Domains, Work and Pages are the four views. All four showed nothing: all four reach `seat/observation-store.ts` and two reach `seat/turn-color.ts`, which pulled the command gate into a node host and threw as it loaded. Each has a bun child now. Domains and Work already read akasha through `panel-domains` and `work-initiatives`. Pages still asks `readouts/ask-here.ts`, so it is the one live reader of the old query engine and moves with that intent.",
+    },
+    {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
         "Membership is unblocked: values landed at `b28c97dc9d` and the store answers upkeep 6, inboxes 3, values 6 = 15, matching the checkout. A shortfall guard is wired at `1c6a3718e8`, so a member losing its page refuses rather than shrinking the denominator quietly. What blocks the readings is that an akasha readout holds one `lastValue` under no day key, while the hourly run rescores yesterday too, so yesterday would be rewritten from today's readings. Values need no reading; upkeep and inboxes do.",
