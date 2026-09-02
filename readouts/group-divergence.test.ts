@@ -8,8 +8,14 @@ import {
   sidesOf,
 } from "./group-divergence.ts"
 
-// The three groups a persona's day is scored out of, as `stoplight-mean-points.ts` names them.
-const SCORED_GROUPS = ["upkeep", "inboxes", "values"] as const
+// The groups Alan's harness draws through both engines.
+//
+// `values` stood here while `stoplight-mean-points.ts` scored a day out of it. Alan ruled the six
+// values pages stay and the points and stoplights for values go, so that file and the akasha values
+// readouts were ablated. The six `alan/value/*.value.md` he kept are readout rows in markdown, by
+// `pages/page-type/value.page-type.md` extending `readout`, and they now have no akasha counterpart
+// on purpose. Naming `values` here would report that deliberate absence as a migration that stalled.
+const MIRRORED_GROUPS = ["upkeep", "inboxes"] as const
 
 const GROUP = "upkeep"
 
@@ -189,6 +195,6 @@ test("the live check still sees a member taken off the akasha side", () => {
 
 // THE LIVE CHECK. Read against the checkout and the index rather than a fixture, so an ablation
 // that takes a member from one side and not the other shows up here by name.
-test("every group the day is scored out of is the same group through both engines", () => {
-  expect(groupsDivergentIn(SCORED_GROUPS, readoutCatalog(), akashaReadouts())).toEqual([])
+test("every group Alan's harness draws is the same group through both engines", () => {
+  expect(groupsDivergentIn(MIRRORED_GROUPS, readoutCatalog(), akashaReadouts())).toEqual([])
 })
