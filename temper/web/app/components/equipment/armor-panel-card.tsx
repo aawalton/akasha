@@ -22,9 +22,9 @@ import {
   armorTraits as armorTraitsData,
 } from "@akasha/temper-equipment/armor-traits"
 import type { StandardArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
+import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import { type ArmorSlotId, armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
