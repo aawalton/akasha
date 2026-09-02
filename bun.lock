@@ -1408,6 +1408,14 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-player-completion-state": {
+      "name": "@akasha/temper-player-completion-state",
+      "dependencies": {
+        "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-player-completion": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
     "akasha/temper/temper-quests-trace": {
       "name": "@akasha/temper-quests-trace",
       "dependencies": {
@@ -3886,6 +3894,8 @@
     "@akasha/temper-narrow": ["@akasha/temper-narrow@workspace:akasha/temper/temper-narrow"],
 
     "@akasha/temper-player-completion": ["@akasha/temper-player-completion@workspace:akasha/temper/temper-player-completion"],
+
+    "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:akasha/temper/temper-player-completion-state"],
 
     "@akasha/temper-quests-trace": ["@akasha/temper-quests-trace@workspace:akasha/temper/temper-quests-trace"],
 
