@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCatalogThing } from "../temper-catalog-thing.page-type.ts"
-import type { UespId } from "./properties/uesp-id.number-property.ts"
+import type { TemperCatalogThing } from "../../temper-catalog-thing.page-type.ts"
+import type { UespId } from "../properties/uesp-id.number-property.ts"
 
 export type TemperScribingThing = TemperCatalogThing & {
   uespId: UespId
