@@ -11,7 +11,7 @@ export const cutFingerprint = {
     {
       invariantKind: "departure",
       statement:
-        "The mobile-cut pages read here are markdown files under pages/mobile-cut at the checkout root.",
+        "The mobile-cut pages here are markdown files under pages/mobile-cut at the checkout root.",
     },
     {
       invariantKind: "absence",
@@ -40,12 +40,25 @@ export const cutFingerprint = {
       statement: "An app with no `mobile-cut` page reads as no cut rather than raising.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "Recording a taken cut raises rather than filing a `mobile-cut` page.",
+      invariantKind: "departure",
+      statement: "A taken cut is filed as the `mobile-cut` page named for its app and its build.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The newest fingerprint read here never moves.",
+      invariantKind: "departure",
+      statement: "A filed cut carries the id the cut's own address yields rather than a minted id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cut without a shell sha leaves the shell sha key off the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A cut without a build input tree hash leaves the build input tree hash key off the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page no commit took raises rather than answering as filed.",
     },
   ],
 } as const satisfies Module

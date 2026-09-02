@@ -48,7 +48,7 @@ export const mobileCli = {
     },
     {
       invariantKind: "stopgap",
-      statement: "The pages this reads are markdown outside akasha.",
+      statement: "The pages this reads and files are markdown outside akasha.",
     },
     {
       invariantKind: "departure",

@@ -1,9 +1,13 @@
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { PagesMissing, readFilePages } from "@tools/lib/file-pages"
 import type { Row } from "@tools/lib/page-derive-shape"
 import { textOf } from "@tools/lib/page-query-values"
+import { writePage } from "@tools/lib/page-write"
 import { z } from "zod"
 
 export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
+
+export const CUT_WRITER = "mobile deploy-testflight"
 
 const CUT_KEYS: readonly string[] = [
   "app-slug",
@@ -53,21 +57,66 @@ export function compareCutStatus(
   }
 }
 
-export async function recordCutFingerprint(appSlug: string, fp: CutFingerprint): Promise<void> {
-  throw new Error(
-    `\`${MOBILE_CUT_PAGE_TYPE_SLUG}/${appSlug}-${fp.buildNumber}\` was not written — nothing files ` +
-      `a cut, so \`mobile cut-status\` keeps answering against the newest fingerprint already under ` +
-      `pages/${MOBILE_CUT_PAGE_TYPE_SLUG} rather than against build ${fp.buildNumber}`
-  )
+export function cutPageNameFor(appSlug: string, buildNumber: number): string {
+  return `${appSlug}-${buildNumber}`
 }
 
-const cutFingerprintValues = z.object({
+export function cutPageValuesFor(
+  appSlug: string,
+  fp: CutFingerprint
+): Readonly<Record<string, string | number>> {
+  return {
+    title: `${appSlug} cut build ${fp.buildNumber}`,
+    "app-slug": appSlug,
+    "build-number": fp.buildNumber,
+    "main-sha": fp.mainSha,
+    ...(fp.shellSha === null ? {} : { "shell-sha": fp.shellSha }),
+    ...(fp.buildInputTreeHash === null ? {} : { "build-input-tree-hash": fp.buildInputTreeHash }),
+    "cut-at": fp.cutAt,
+  }
+}
+
+export async function recordCutFingerprint(appSlug: string, fp: CutFingerprint): Promise<void> {
+  const name = cutPageNameFor(appSlug, fp.buildNumber)
+  const written = writePage(
+    resolveRoots(),
+    MOBILE_CUT_PAGE_TYPE_SLUG,
+    name,
+    cutPageValuesFor(appSlug, fp),
+    CUT_WRITER
+  )
+  if (written === null) {
+    throw new Error(
+      `\`${MOBILE_CUT_PAGE_TYPE_SLUG}/${name}\` was not written — no checkout root places the ` +
+        `\`${MOBILE_CUT_PAGE_TYPE_SLUG}\` page type, so \`mobile cut-status\` would keep answering ` +
+        `against the newest fingerprint already filed rather than against build ${fp.buildNumber}`
+    )
+  }
+  if (written.commitError !== null) {
+    throw new Error(
+      `\`${MOBILE_CUT_PAGE_TYPE_SLUG}/${name}\` was left at ${written.relPath} with no commit ` +
+        `taking it, so nothing is filed for build ${fp.buildNumber}: ${written.commitError}`
+    )
+  }
+}
+
+export const cutFingerprintValues = z.object({
   "build-number": z.coerce.number().int().positive(),
   "main-sha": z.string().min(1),
   "shell-sha": z.string().min(1).optional(),
   "build-input-tree-hash": z.string().min(1).optional(),
   "cut-at": z.string().min(1),
 })
+
+export function fingerprintOf(values: z.infer<typeof cutFingerprintValues>): CutFingerprint {
+  return {
+    buildNumber: values["build-number"],
+    mainSha: values["main-sha"],
+    shellSha: values["shell-sha"] ?? null,
+    buildInputTreeHash: values["build-input-tree-hash"] ?? null,
+    cutAt: values["cut-at"],
+  }
+}
 
 function buildNumberOf(row: Row): number {
   const said = textOf(row.values, "build-number")
@@ -96,11 +145,5 @@ export async function readLatestCutFingerprint(appSlug: string): Promise<CutFing
       `the newest \`${MOBILE_CUT_PAGE_TYPE_SLUG}\` for ${appSlug} (${newest.at}) carries no readable fingerprint: ${parsed.error.message}`
     )
   }
-  return {
-    buildNumber: parsed.data["build-number"],
-    mainSha: parsed.data["main-sha"],
-    shellSha: parsed.data["shell-sha"] ?? null,
-    buildInputTreeHash: parsed.data["build-input-tree-hash"] ?? null,
-    cutAt: parsed.data["cut-at"],
-  }
+  return fingerprintOf(parsed.data)
 }

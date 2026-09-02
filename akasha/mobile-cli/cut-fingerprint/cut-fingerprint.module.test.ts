@@ -1,12 +1,20 @@
 import { describe, expect, test } from "bun:test"
+import { idDerivedFrom } from "@akasha/file-page-identity"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { readFilePages } from "@tools/lib/file-pages"
 import { textOf } from "@tools/lib/page-query-values"
+import { landingTextFor } from "@tools/lib/page-write-compose"
+import { statedIn, textIn } from "@tools/lib/page-write-text"
+import { whereFor } from "@tools/lib/page-write-where"
 import {
   type CutFingerprint,
   compareCutStatus,
+  cutFingerprintValues,
+  cutPageNameFor,
+  cutPageValuesFor,
+  fingerprintOf,
   MOBILE_CUT_PAGE_TYPE_SLUG,
   readLatestCutFingerprint,
-  recordCutFingerprint,
 } from "./cut-fingerprint.module.code.ts"
 
 const BASIS: CutFingerprint = {
@@ -15,6 +23,22 @@ const BASIS: CutFingerprint = {
   shellSha: "04959e93f4ae2315ffd3408f64ca39be17fd7781",
   buildInputTreeHash: "5fb92d3b10db3b475c76783954598fd72a03bc49e7020135ff9ab4b077822609",
   cutAt: "2026-09-01T14:37:31.265Z",
+}
+
+function composedFor(appSlug: string, fp: CutFingerprint): string {
+  const landing = landingTextFor(
+    resolveRoots(),
+    MOBILE_CUT_PAGE_TYPE_SLUG,
+    cutPageNameFor(appSlug, fp.buildNumber),
+    cutPageValuesFor(appSlug, fp),
+    "write"
+  )
+  if (landing === null) throw new Error(`nowhere places a \`${MOBILE_CUT_PAGE_TYPE_SLUG}\` page`)
+  return landing.text
+}
+
+function readBack(text: string): CutFingerprint {
+  return fingerprintOf(cutFingerprintValues.parse(statedIn(text)))
 }
 
 describe("compareCutStatus", () => {
@@ -70,7 +94,36 @@ describe("readLatestCutFingerprint", () => {
 })
 
 describe("recordCutFingerprint", () => {
-  test("filing a cut raises, and says the reading half will not move", async () => {
-    await expect(recordCutFingerprint("alanwalton", BASIS)).rejects.toThrow(/was not written/)
+  test("a filed fingerprint reads back identically", () => {
+    expect(readBack(composedFor("alanwalton", BASIS))).toEqual(BASIS)
+  })
+
+  test("what build 198 files is byte for byte the page already filed for build 198", () => {
+    const at = whereFor(resolveRoots(), MOBILE_CUT_PAGE_TYPE_SLUG, "alanwalton-198")
+    expect(at).not.toBe(null)
+    if (at === null) return
+    expect(composedFor("alanwalton", BASIS)).toBe(textIn(at.path))
+  })
+
+  test("a fingerprint carrying no shell sha and no tree hash leaves both keys off", () => {
+    const spare: CutFingerprint = {
+      ...BASIS,
+      buildNumber: 424242,
+      shellSha: null,
+      buildInputTreeHash: null,
+    }
+    const text = composedFor("alanwalton", spare)
+    expect(text).not.toContain("shell-sha")
+    expect(text).not.toContain("build-input-tree-hash")
+    expect(readBack(text)).toEqual(spare)
+  })
+
+  test("a page filed where none was there carries the id its own address yields", () => {
+    const fresh: CutFingerprint = { ...BASIS, buildNumber: 424242 }
+    const stated = statedIn(composedFor("alanwalton", fresh))
+    expect(stated["id"]).toBe(
+      idDerivedFrom(`akasha:pages/${MOBILE_CUT_PAGE_TYPE_SLUG}/alanwalton-424242.mobile-cut.md`)
+    )
+    expect(String(stated["id"])[14]).toBe("5")
   })
 })
