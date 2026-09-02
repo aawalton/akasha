@@ -1,0 +1,63 @@
+---
+id: 1dfe0da0-3679-5436-bf6c-a1611c2cd151
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1857 - Guns Akimbo"
+slug: 0512-chapter-1857-guns-akimbo
+partOf: chrysalis
+position: 512
+ownLength: 881
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3898421/chapter-1857-guns-akimbo"
+royalRoadId: "3898421"
+---
+
+It didn't take long for confirmation to come. Not one Champion had been born into the Colony, but two. As the rest of the ants hatched from their cocoons and emerged, pale and still hardening, they were ushered away as a group to be fed their first meal and given time to adapt to their new forms. After all, they couldn't be subjected to any risk of injury until their carapaces had hardened properly. At least, any further risk of injury. Everyone was under strict instructions not to allow the first Champion to gain any sort of altitude. Even so she was constantly hopping and jumping about, as if being on the ground was literally painful to her.
+
+As much as Demetant yearned to be with them, to help care for the group as they had their first proper meals and prepared for induction into the antcademy, she herself had been whisked away along with Doonant and the others and found herself face to face with someone she had never thought she would meet.
+
+"Two Champions at once. It's never happened before in the history of the Colony," Theresant said, flustered. "And for two of them to be born into the exact same clutch of twenty? It’s unheard of. It's unprecedented! We have to know what happened here. Was there something different about this group? Did you notice something when they were eggs? In what way did their treatment differ during the larval stage?"
+
+Demetant struggled to speak, not knowing what to say. She fought frantically to find some calm, but no matter how hard she tried, she couldn't seem to find it.
+
+Brood Tenders were supposed to be placid and calm at all times, she chastised herself and demanded that she pull herself together. It didn't help.
+
+"There was nothing out of the ordinary in their treatment. By the book, as always," Doonant said, not seeming to struggle at all. She was as warm and motherly as always.
+
+"That can't be," Theresant said intensely. "There has to have been something different. Otherwise how do you explain this outcome?"
+
+"Blind luck," Doonant said. "As far as we've been able to learn, the birth of Champions is probabilistic. Higher mana concentrations increase the odds but don't guarantee anything. We've gone multiple waves without a Champion, and now two have been born. The fact they happen to be born in the same place at the same time is extremely unlikely, but not impossible."
+
+"I suppose it could be that way," Theresant muttered, but it didn't seem as though she was willing to accept it.
+
+Seeing the look of confusion on Demetant's face, Doonant leaned closer to her and explained.
+
+"They think they might be able to learn what turns an egg into a Champion and therefore increase the number of Champions born to the Colony. Two of them being born here is leading them to think there might be a secret that they can learn."
+
+"Increasing the rate of Champion births would be highly beneficial to the Colony," Theresant said, "and have a tremendous impact on the success of the family. As Brood Tenders, this is just another aspect of our role that we need to master, same as any other."
+
+"I don't disagree," Doonant deferred peacefully, "but looking for patterns to explain random chaos is wasteful. Also, this is the first clutch of brood that my fellow Tender here has cared for in her career. Right now she is missing their first meal and unable to care for them as she has always wanted."
+
+"What?" Theresant said, her mandibles snapping shut as she turned to stare at Demetant, horrified. "Why didn't someone tell me? Get out of here and go look after them! This is something you absolutely can't miss!"
+
+Shocked, Demetant didn't move at first and only when she was physically shooed out of the room by the Council member did she finally gain speed. Out into the corridor, she turned and began to walk towards where the hatchlings had been taken. After a few seconds, she found that she was running.
+
+A great mess hall filled with thousands of ants greeted her eyes. These were all of the recently hatched ants being prepared for their intake, getting ready for their first induction and being instructed in the ways of true selflessness. Her focus landed directly onto her small clutch of twenty and she raced towards them.
+
+"Ah! There she is!"
+
+Demetant looked up and was horrified to realise that the first Champion was on the roof of the chamber, other Tenders huddled beneath her while some rushed up the walls to try and catch her. How did she possibly sneak away while there were so many compound eyes on her?
+
+"BEHOLD MY MAJESTIC FLIGHT!" she screamed before launching herself from the rock.
+
+Desperate, Demetant lunged and caught the hatchling out of the air with her mandibles before landing heavily in a tangle of legs right in the middle of another group's meal.
+
+"Sorry," she said to them while the Champion laughed maniacally.
+
+"I was this close to taking flight," she declared. "Next time I'll succeed for certain."
+
+"You could grow wings when you evolve, you know?" Demetant said wearily.
+
+The hatchling jumped in shock.
+
+"Why didn't anyone tell me, dammit!?"
