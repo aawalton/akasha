@@ -5,6 +5,7 @@
   "exports": {
     "./build-factory": "./build-factory/build-factory.module.code.ts",
     "./build-types": "./build-types/build-types.module.code.ts",
+    "./character-state-schema": "./character-state-schema/character-state-schema.module.code.ts",
     "./race-source": "./race-source/race-source.module.code.ts"
   },
   "dependencies": {
@@ -13,10 +14,13 @@
     "@akasha/temper-character-skills": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-characters-equipment": "workspace:*",
+    "@akasha/temper-equipment": "workspace:*",
+    "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-races": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
   }
 }

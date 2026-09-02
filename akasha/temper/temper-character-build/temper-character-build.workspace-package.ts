@@ -6,15 +6,16 @@ export const temperCharacterBuild = {
   slug: "temper-character-build",
   definition: "the shape a character build is held in, and a new one made",
   manifest: "json",
-  partSlugs: ["module/race-source", "module/build-types", "module/build-factory"],
+  partSlugs: [
+    "module/race-source",
+    "module/build-types",
+    "module/build-factory",
+    "module/character-state-schema",
+  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The generated table of gear sets is outside akasha.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The module that checks a character build is outside akasha.",
     },
   ],
 } as const satisfies WorkspacePackage
