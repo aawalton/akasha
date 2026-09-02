@@ -64,8 +64,21 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
   }
 
   const carriers = new Map<string, Property[]>()
+  /**
+   * Every key some property declares `rows:` on, which is the one kind of key whose written value is
+   * not its value.
+   *
+   * A page with rows beside it states the extension of the file they are in — `sessions: "jsonl"` —
+   * because that is what names the file, and never the rows themselves. So a page stating one of
+   * these keys has said where to look rather than what was found, and `valueOf` looks rather than
+   * answering with the file name. Held as names alone, so the shortcut every other key takes is one
+   * `Set.has` and no declaration lookup.
+   */
+  const rowsNamed = new Set<string>()
   for (const one of bySlug.values()) {
-    if (one.rows === null || one.target === null) continue
+    if (one.rows === null) continue
+    rowsNamed.add(one.name)
+    if (one.target === null) continue
     const held = carriers.get(one.target) ?? []
     held.push(one)
     carriers.set(one.target, held)
@@ -264,12 +277,20 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
 
   const valueOf = (page: Page, key: string, depth: number): Held => {
     const written = page.values[key]
-    if (written !== undefined && listing(written).length > 0) return written
+    const stated = written !== undefined && listing(written).length > 0
+    // A page states what it holds, and the rows beside it are the one thing it does not: what it
+    // states for a `rows:` key is the extension of the file they are in, so answering with it would
+    // hand every reader the string `jsonl` where the rows belong. A markdown day states no such key
+    // and reaches the rows below; a landed day states `sessions: "jsonl"` and would have stopped
+    // here, which is why a landed day rolled up nothing from the nine rows filed beside it.
+    if (stated && !rowsNamed.has(key)) return written
     const declaration = declarationFor(page.kind, key)
     if (declaration === null) {
+      if (stated) return written
       faults.add(`\`${key}\` is declared by no property on \`${page.kind}\``)
       return null
     }
+    if (stated && declaration.rows === null) return written
     const cannot = underivable(declaration, declarationFor)
     if (cannot !== null) {
       faults.add(`\`${declaration.slug}\` ${cannot}`)
