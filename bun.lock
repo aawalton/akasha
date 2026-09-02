@@ -2971,6 +2971,7 @@
         "@akasha/temper-game-collections-tribute-capture-host": "workspace:*",
         "@akasha/temper-game-completion-capture-host": "workspace:*",
         "@akasha/temper-game-crafting-capture-host": "workspace:*",
+        "@akasha/temper-game-navigation-capture-host": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
