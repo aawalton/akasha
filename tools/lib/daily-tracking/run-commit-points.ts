@@ -76,13 +76,19 @@ export async function runCommitPoints(): Promise<void> {
   const pointsSourceDayStrs = POINTS_SOURCE_DAY_OFFSETS.map((offset) =>
     getEsoDayStrOffset(now, offset)
   )
-  const pointsSourcePersonaDays = await writeDailySourcePointsForPersonas(
-    repoRoot,
-    pointsSourceDayStrs
-  )
-  for (const f of pointsSourcePersonaDays) {
+  const pointsSource = await writeDailySourcePointsForPersonas(repoRoot, pointsSourceDayStrs)
+  for (const f of pointsSource.outcomes) {
     console.log(
       `commit-points daily-points-source ${f.dayStr}: ${f.personaTitle} sourcePoints=${f.sourcePoints} (${f.outcome})`
+    )
+  }
+  // A refused recipe writes no figure and does not end the run. It is said on stderr for every
+  // persona and day it refused, so a stoplights recipe that answers nothing is heard rather than
+  // read as a persona who scored nothing that day.
+  for (const f of pointsSource.refusals) {
+    process.stderr.write(
+      `commit-points daily-points-source ${f.dayStr}: ${f.personaTitle} REFUSED ` +
+        `(${f.kind} recipe, no figure written) — ${f.why}\n`
     )
   }
 

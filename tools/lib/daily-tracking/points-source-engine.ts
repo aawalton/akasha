@@ -276,6 +276,32 @@ export interface SourcePointsOutcome {
   readonly outcome: WriteOutcome
 }
 
+/**
+ * A recipe that could not be computed, carried back rather than thrown.
+ *
+ * Only the `stoplights` kind can raise one today: it reads the value lights, which come from the
+ * saved queries `value-all` and `persona-days-on-day`, and neither `value` nor `persona-day` is a
+ * page type the store's index holds — both were asked of the live store and refused by name. So
+ * every stoplights recipe refuses, and before this it refused by throwing out of the whole
+ * recompute, taking the rescore, the persona totals, the engine totals, the health totals and the
+ * three session ladders down with it after the day rollups had already been written.
+ *
+ * A refusal is carried, never converted to a figure. Writing a zero here would put a number on
+ * Alan's day that no reading stands behind, which is the failure this repository keeps meeting:
+ * an answer where there should have been a refusal.
+ */
+export interface SourcePointsRefusal {
+  readonly personaTitle: string
+  readonly dayStr: string
+  readonly kind: PointsSourceRecipe["kind"]
+  readonly why: string
+}
+
+export interface SourcePointsRun {
+  readonly outcomes: readonly SourcePointsOutcome[]
+  readonly refusals: readonly SourcePointsRefusal[]
+}
+
 export function filterRecipesByPersona(
   recipes: readonly PointsSourceRecipe[],
   names: readonly string[] | undefined
@@ -298,7 +324,7 @@ export async function writeDailySourcePointsForPersonas(
   repoRoot: string,
   dayStrs: readonly string[],
   options?: { readonly personaTitles?: readonly string[] }
-): Promise<readonly SourcePointsOutcome[]> {
+): Promise<SourcePointsRun> {
   const rows = await personaRecipeRows()
   const recipes = orderRecipesForCompute(
     filterRecipesByPersona(
@@ -308,13 +334,25 @@ export async function writeDailySourcePointsForPersonas(
   )
 
   const outcomes: SourcePointsOutcome[] = []
+  const refusals: SourcePointsRefusal[] = []
   for (const recipe of recipes) {
     for (const dayStr of dayStrs) {
-      const sourcePoints = await computeDayPoints(repoRoot, recipe, dayStr)
+      let sourcePoints: number | null
+      try {
+        sourcePoints = await computeDayPoints(repoRoot, recipe, dayStr)
+      } catch (err) {
+        refusals.push({
+          personaTitle: recipe.title,
+          dayStr,
+          kind: recipe.kind,
+          why: err instanceof Error ? err.message : String(err),
+        })
+        continue
+      }
       if (sourcePoints === null) continue
       const outcome = await patchPersonaDayField(dayStr, SOURCE_POINTS_FIELD, sourcePoints, recipe)
       outcomes.push({ personaTitle: recipe.title, dayStr, sourcePoints, outcome })
     }
   }
-  return outcomes
+  return { outcomes, refusals }
 }
