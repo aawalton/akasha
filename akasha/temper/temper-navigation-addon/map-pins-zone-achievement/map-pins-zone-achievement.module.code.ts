@@ -1,0 +1,17 @@
+export const ZONE_ACHIEVEMENT = {
+  alikr: 14,
+  auridon: 1,
+  bangkorai: 15,
+  deshaan: 7,
+  eastmarch: 9,
+  glenumbra: 11,
+  grahtwood: 2,
+  greenshade: 3,
+  malabaltor: 4,
+  reapersmarch: 5,
+  rivenspire: 13,
+  shadowfen: 8,
+  stonefalls: 6,
+  stormhaven: 12,
+  therift: 10,
+}

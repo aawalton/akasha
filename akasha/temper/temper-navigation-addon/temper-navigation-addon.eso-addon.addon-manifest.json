@@ -5,7 +5,11 @@
   "author": "AlanGaming",
   "version": "1.0.0",
   "addonVersion": 100,
-  "apiVersion": ["101049", "101050", "101051"],
+  "apiVersion": [
+    "101049",
+    "101050",
+    "101051"
+  ],
   "savedVariables": [
     "TemperMapPins_SavedVars",
     "TemperMapPins_SavedGlobal",
@@ -25,9 +29,15 @@
     "LibMapData>=121",
     "LibAsync>=30001"
   ],
-  "optionalDependsOn": ["DebugLogViewer", "TweakIt", "TrueExploration"],
+  "optionalDependsOn": [
+    "DebugLogViewer",
+    "TweakIt",
+    "TrueExploration"
+  ],
   "xmlFiles": {
-    "beforeBundle": ["TemperNavigation_Controls.xml"],
+    "beforeBundle": [
+      "TemperNavigation_Controls.xml"
+    ],
     "afterBundle": []
   },
   "assets": [

@@ -2,7 +2,12 @@
   "name": "@akasha/temper-navigation-addon",
   "private": true,
   "type": "module",
-  "exports": {},
+  "exports": {
+    "./destinations-preview-controls": "./destinations-preview-controls/destinations-preview-controls.type-declaration.d.ts",
+    "./minimap-string-ids": "./minimap-string-ids/minimap-string-ids.type-declaration.d.ts",
+    "./navigation-declarations": "./navigation-declarations/navigation-declarations.type-declaration.d.ts",
+    "./navigation-entry": "./navigation-entry/navigation-entry.module.code.ts"
+  },
   "dependencies": {
     "@akasha/temper-addon-init": "workspace:*",
     "@akasha/temper-addon-library-types": "workspace:*",
