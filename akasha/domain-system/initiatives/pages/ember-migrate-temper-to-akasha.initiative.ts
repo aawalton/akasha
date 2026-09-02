@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "121 packages against 64 folders in `temper/`; typecheck is 4, all in crafting's own utilities, and every route to zero is gated behind lifting `craft-decl-controls`'s `declare global` across some 39 paths. The read record has no expiry: a sibling subagent's startup deletes it for every seat at once, so fanning out is what breaks the write gate. Six dist gates take their denominator from what a build managed to write, so a build that stops early reads green.",
+        "124 parts on this domain's page against 64 folders left in `temper/`; typecheck is 1, and it is LibSets' own missing `LibZone` global, the crafting lift having taken the other four. The read record has no expiry: a sibling subagent's startup deletes it for every seat at once, so fanning out is what breaks the write gate. Six dist gates take their denominator from what a build managed to write, so a build that stops early reads green.",
     },
   ],
   constraints: [
