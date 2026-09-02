@@ -8,6 +8,11 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
+      statement: "An applied patch lands through the gate as one commit.",
+      workingMemory:
+        "A path the patch's base and HEAD hold alike was read when that path was drafted, so applying asks for no fresh read of it. A path that moved under the patch is refused until the agent reads what moved. Applying drops the patch and the ref keeping its blobs. Applying comes before conflicts because an agent holding a patch has no way out of one today.",
+    },
+    {
       statement: "A patch that cannot rebase carries its conflicts where the agent resolves them.",
     },
     {
@@ -16,7 +21,6 @@ export const dallaDraftIntoAPatch = {
         "Taking one in is the same three-way merge a draft is: HEAD is the base, the principal's patch is ours, the subagent's is theirs, and what conflicts lands in the principal's conflicts. The patch also keeps the agent ids it has taken in, cleared when it applies or is dropped, so the warrant refusing the next draft can say why reads are owed on files the principal never touched.",
     },
     { statement: "A draft says what the checks would refuse and refuses nothing." },
-    { statement: "An applied patch lands through the gate as one commit." },
     { statement: "A drafting command takes no dry run flag." },
     { statement: "The glass is broken only where a patch applies." },
     { statement: "Drafting is what write and edit do when nothing says otherwise." },
