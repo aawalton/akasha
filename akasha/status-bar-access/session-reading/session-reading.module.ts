@@ -18,7 +18,7 @@ export const sessionReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The metric a caller states is taken as one the store knows.",
+      statement: "The metric read is the active energy a watch records.",
     },
     {
       invariantKind: "absence",

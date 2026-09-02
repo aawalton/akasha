@@ -731,6 +731,7 @@
       "name": "@akasha/status-bar-access",
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
+        "@akasha/health-samples-day": "workspace:*",
         "readouts": "workspace:*",
       },
     },
