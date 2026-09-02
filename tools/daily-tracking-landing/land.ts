@@ -122,7 +122,8 @@ const HELP = `daily-tracking landing
   A rehearsal takes nothing away — it says what it would take and leaves the corpus alone. The way to
   rehearse the whole act is an isolated copy of the checkout with --for-real inside it.
 
-  This refuses while a session is open. Close it, run this, start the next one.
+  A session open across this act moves with its day and closes normally once this returns. A
+  tracking write made while this runs is refused rather than swallowed, and is made again after.
 
   Exit 0 when the day pages stand, every value round-trips and the funnel names every day moved.
   Exit 1 on any refusal, with nothing left changed. Exit 2 on a usage error.
@@ -184,19 +185,25 @@ function driftSaid(drift: readonly Drift[], when: string): readonly string[] {
 /**
  * The session Alan has open, or nothing, or why the question could not be answered.
  *
- * A landing while a session is open is the case that broke the first design, and it is worth naming
- * rather than handling. The open row is the one row of this corpus that is going to be written again
- * — that is what open means — and the write that closes it decides which half it lands in by asking
- * a funnel this act is in the middle of turning. There is no instant in the act at which that lands
- * where the row will be read from.
+ * This used to refuse the act. It no longer does, and both halves of that reversal were measured in
+ * an isolated copy rather than argued.
  *
- * So the landing refuses, and Alan closes the session first. It costs him one command and it makes
- * the corpus still for the minute this takes. Carrying the open row across instead would mean this
- * act taking responsibility for a row another process is holding a pen over, and the measured cost
- * of getting that subtly wrong is a tracking system that reports success and never closes.
+ * A session open ACROSS the act is safe. Every markdown day moves in one act, the row holding the
+ * open session among them, so once the funnel turns the row and every reader of it are in the same
+ * half. Measured: the landing ran to exit 0 with a session open, `tracking close` afterwards patched
+ * the landed row and committed it beside its day, `tracking start` after that opened the next one,
+ * and the day answered the row count it answered before.
  *
- * A read that fails is a refusal too: nothing here lands on the strength of a question it could not
- * ask.
+ * A session closed DURING the act is the real race, and the refusal never covered it. A precondition
+ * read once at step 1 cannot see a write Alan makes in the minute this takes; he can begin and close
+ * a session inside it whether or not one was open when this started. That case is answered where it
+ * happens: a write landing before the point of no return moves the fingerprint and step 7 refuses,
+ * and after the funnel turns a `tracking close` is answered `no open session` at exit 1 and writes
+ * nothing at all.
+ *
+ * So this is read and said rather than refused. Which of those two minutes Alan is in decides what
+ * his next command will tell him, and that is worth printing. A read that fails costs a note too,
+ * since nothing here now hangs on the answer.
  */
 async function sessionOpen(): Promise<{ readonly title: string } | null | { readonly why: string }> {
   try {
@@ -425,16 +432,12 @@ async function preconditions(at: Told): Promise<{
 
   const open = await sessionOpen()
   if (open !== null && "why" in open) {
-    owed.push(
-      `whether a session is open could not be read, and this landing will not move a corpus it ` +
-        `cannot see the state of :: ${open.why}`
-    )
+    say(`  NOTE  whether a session is open could not be read :: ${open.why}`)
   } else if (open !== null) {
-    owed.push(
-      `a session is open: "${open.title}". The row that closes it decides which half of the corpus ` +
-        "it lands in by asking the funnel this act turns, so there is no instant in the act at " +
-        "which closing it lands where it will be read from. Close it with `ops tracking close`, " +
-        "run this, and start the next one after — it takes about a minute."
+    say(
+      `  NOTE  a session is open: "${open.title}". Its row moves with its day and closes normally ` +
+        "once this returns. A `ops tracking close` run in the window between step 8 and step 9 is " +
+        "answered `no open session` at exit 1 and writes nothing — run it again after."
     )
   }
 
