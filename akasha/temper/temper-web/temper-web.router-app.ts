@@ -98,6 +98,7 @@ export const temperWeb = {
     "module/companion-rapport-panel-card",
     "module/companion-reducer",
     "module/companion-role-leaderboard-panel-card",
+    "module/companion-rotation-breakdown-panel-card",
     "module/companion-rotation-breakdown-table",
     "module/companion-rotation-breakdown-types",
     "module/companion-rotation-outcome",
