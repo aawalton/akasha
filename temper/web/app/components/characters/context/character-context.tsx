@@ -3,7 +3,10 @@
 import {
   applyCharacterMetadata,
   type CharacterBuildMetadata,
-} from "@temper/game-characters/build-metadata"
+} from "@akasha/temper-build-metadata/build-metadata"
+import type { Skill } from "@akasha/temper-character-skills/character-skills"
+import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import {
   type CharacterState,
   type CharacterVisibility,
@@ -11,10 +14,7 @@ import {
 } from "@temper/game-characters-character/build-types"
 import { useCharacter as useCharacterZero } from "@temper/game-characters-character-ui/use-characters"
 import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
-import type { Skill } from "@akasha/temper-character-skills/character-skills"
 import { decodeBuild, encodeBuild } from "@temper/game-codec/character/build-codec"
-import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { createContext, type ReactNode, useCallback, useReducer } from "react"
 import { useBuildSync } from "@/hooks/use-build-sync"
 import type { CharacterAction } from "./character-actions"
