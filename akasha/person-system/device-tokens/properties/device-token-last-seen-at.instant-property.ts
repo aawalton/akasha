@@ -11,7 +11,7 @@ export const deviceTokenLastSeenAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A token naming none of this has been registered once only.",
+      statement: "A token carrying no such instant has not been registered again.",
     },
   ],
 } as const satisfies InstantProperty

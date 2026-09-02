@@ -10,7 +10,11 @@ export const gateVerdictSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A verdict covers every dimension in the registry exactly once.",
+      statement: "A verdict covers every dimension in the registry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A verdict names no dimension the verdict already named.",
     },
   ],
 } as const satisfies Module

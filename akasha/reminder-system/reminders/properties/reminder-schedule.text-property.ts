@@ -17,7 +17,7 @@ export const reminderSchedule = {
     },
     {
       invariantKind: "departure",
-      statement: "A schedule naming one absolute time sends once.",
+      statement: "A schedule naming one absolute time does not repeat.",
     },
   ],
 } as const satisfies TextProperty

@@ -51,7 +51,8 @@ export const reminder = {
     },
     {
       invariantKind: "departure",
-      statement: "A reminder whose sending was missed while nothing ran is sent once.",
+      statement:
+        "A reminder whose sending was missed while nothing ran is caught up rather than dropped.",
     },
     {
       invariantKind: "departure",
