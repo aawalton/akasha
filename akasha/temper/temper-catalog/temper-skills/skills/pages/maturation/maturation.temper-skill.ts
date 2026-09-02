@@ -20,4 +20,5 @@ export const maturation = {
   skillType: "passive",
   subcategoryId: "warden-green-balance",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

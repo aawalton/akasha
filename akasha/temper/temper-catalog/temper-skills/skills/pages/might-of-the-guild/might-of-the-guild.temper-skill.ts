@@ -20,4 +20,5 @@ export const mightOfTheGuild = {
   skillType: "passive",
   subcategoryId: "guild-mages-guild",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill
