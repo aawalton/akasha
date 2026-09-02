@@ -13,8 +13,10 @@
         "@akasha/file-page-identity": "workspace:*",
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/imessage": "workspace:*",
+        "@akasha/music-choosing": "workspace:*",
         "@akasha/open-questions": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/spotify": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/temper-addon-build": "workspace:*",
@@ -41,7 +43,6 @@
         "@akasha/utils-system": "workspace:*",
         "@collections/exercises": "workspace:*",
         "@collections/music": "workspace:*",
-        "@collections/music-spotify": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
         "@googleapis/drive": "^20.2.0",
         "@googleapis/gmail": "^17.0.0",
@@ -2054,25 +2055,6 @@
     "collections/music": {
       "name": "@collections/music",
       "dependencies": {
-        "@akasha/day": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@collections/music-spotify": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "collections/music-spotify": {
-      "name": "@collections/music-spotify",
-      "version": "0.1.0",
-      "bin": {
-        "spotify-auth": "./src/auth-cli.ts",
-      },
-      "dependencies": {
-        "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -3172,13 +3154,13 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-shopping": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters": "workspace:*",
         "@temper/game-codec": "workspace:*",
         "@temper/game-companions-ui": "workspace:*",
-        "@temper/game-items-core": "workspace:*",
         "@temper/player-completion-ui": "workspace:*",
         "@temper/player-inventory-management-ui": "workspace:*",
         "@temper/player-profile": "workspace:*",
@@ -3309,6 +3291,11 @@
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-game-catalog-capture-host": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-items-rules-core": "workspace:*",
+        "@akasha/temper-items-rules-matcher": "workspace:*",
+        "@akasha/temper-items-rules-routing": "workspace:*",
+        "@akasha/temper-items-rules-routing-core": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/temper-shopping": "workspace:*",
@@ -3322,11 +3309,6 @@
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-codec": "workspace:*",
-        "@temper/game-items-core": "workspace:*",
-        "@temper/game-items-rules-core": "workspace:*",
-        "@temper/game-items-rules-matcher": "workspace:*",
-        "@temper/game-items-rules-routing": "workspace:*",
-        "@temper/game-items-rules-routing-core": "workspace:*",
         "@temper/player-completion": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -4142,8 +4124,6 @@
     "@collections/litrpg": ["@collections/litrpg@workspace:collections/litrpg"],
 
     "@collections/music": ["@collections/music@workspace:collections/music"],
-
-    "@collections/music-spotify": ["@collections/music-spotify@workspace:collections/music-spotify"],
 
     "@cspotcode/source-map-support": ["@cspotcode/source-map-support@0.8.1", "", { "dependencies": { "@jridgewell/trace-mapping": "0.3.9" } }, "sha512-IchNf6dN4tHoMFIn/7OE8LWZ19Y6q/67Bmf6vnGREv8RSbBVb9LPJxEcnwrcwX6ixSvaiGoomAUvu4YSxXrVgw=="],
 

@@ -13,7 +13,7 @@
     "@temper/game-characters": "workspace:*",
     "@temper/game-codec": "workspace:*",
     "@temper/game-companions-ui": "workspace:*",
-    "@temper/game-items-core": "workspace:*",
+    "@akasha/temper-items-core": "workspace:*",
     "@temper/player-completion-ui": "workspace:*",
     "@temper/player-inventory-management-ui": "workspace:*",
     "@temper/player-profile": "workspace:*",

@@ -1,15 +1,15 @@
 import { getPage } from "@akasha/pages-access/get"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
+import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
+import { DEFAULT_BACKPACK_SETTINGS } from "@akasha/temper-items-core/backpack-settings-types"
+import { compileRules } from "@akasha/temper-items-rules-core/inventory-rule-compiler"
+import { buildAllControlledRules } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
+import { rulesToInventoryConfig } from "@akasha/temper-items-rules-core/inventory-rule-mapping"
+import type { InventoryTimestamps } from "@akasha/temper-items-rules-core/inventory-settings-types"
+import { ruleFingerprint } from "@akasha/temper-items-rules-core/rule-fingerprint"
+import { serializeLuaBlock } from "@akasha/temper-saved-variables/lua-serializer"
 import { asRecord } from "@akasha/utils-narrow/as-record"
 import { isRecord } from "@akasha/utils-narrow/is-record"
-import { DEFAULT_BACKPACK_SETTINGS } from "@temper/game-items-core/backpack-settings-types"
-import { ruleFingerprint } from "@temper/game-items-rules-core/filters/rule-fingerprint"
-import { compileRules } from "@temper/game-items-rules-core/inventory-rule-compiler"
-import { buildAllControlledRules } from "@temper/game-items-rules-core/inventory-rule-controlled"
-import { rulesToInventoryConfig } from "@temper/game-items-rules-core/inventory-rule-mapping"
-import type { InventoryTimestamps } from "@temper/game-items-rules-core/inventory-settings-types"
-import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
-import { serializeLuaBlock } from "@akasha/temper-saved-variables/lua-serializer"
 import {
   compileBuyStock,
   compileCharacterPriority,
@@ -188,7 +188,7 @@ export async function runExportSettings(
     const latestInventory = inventoryRead.ok ? inventoryRead.db : null
     if (!inventoryRead.ok) {
       console.warn(
-        `  ⚠ Inventory stock unavailable: ${describeInventoryReadFailure(inventoryRead.failure)}.`
+        `  ! Inventory stock unavailable: ${describeInventoryReadFailure(inventoryRead.failure)}.`
       )
     }
 
@@ -228,7 +228,7 @@ export async function runExportSettings(
       compiledConfig.buyStockAccount = buyStockAccount
       if (!buyStockAvailable) {
         console.warn(
-          `  ⚠ ${buyItemIds.size} buy rule(s) suspended for item(s) ${[...buyItemIds].join(", ")}: without an inventory snapshot the addon cannot tell what is already owned, so it will decline rather than buy.`
+          `  ! ${buyItemIds.size} buy rule(s) suspended for item(s) ${[...buyItemIds].join(", ")}: without an inventory snapshot the addon cannot tell what is already owned, so it will decline rather than buy.`
         )
       }
     }

@@ -2,15 +2,15 @@
 
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { ItemRow } from "@akasha/design-patterns/item-row"
-import type { CompanionId } from "@akasha/temper-companions-core/companions"
+import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
-import { getQualityClassName } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
-import type { CompanionGearNeed } from "@temper/game-items-core/companion-gear-diff"
+import type { CompanionId } from "@akasha/temper-companions-core/companions"
+import type { CompanionGearNeed } from "@akasha/temper-items-core/companion-gear-diff"
+import { needToShoppingKey } from "@akasha/temper-shopping/companion-gear-shopping-bridge"
 import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
-import { needToShoppingKey } from "@akasha/temper-shopping/companion-gear-shopping-bridge"
+import { getQualityClassName } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import { useMemo, useState } from "react"
 import {
   type BlendedPriceKey,

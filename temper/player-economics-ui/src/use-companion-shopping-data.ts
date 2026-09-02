@@ -1,22 +1,30 @@
 "use client"
 
-import { applyCompanionMetadata } from "@temper/game-characters/build-metadata"
-import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { companions, getCompanionName } from "@akasha/temper-companions-core/companions"
-import { useAllCompanionList } from "@temper/game-companions-ui/use-companions"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import {
   type CompanionGearNeed,
   computeAllGearNeeds,
-} from "@temper/game-items-core/companion-gear-diff"
+} from "@akasha/temper-items-core/companion-gear-diff"
 import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
+import { applyCompanionMetadata } from "@temper/game-characters/build-metadata"
+import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
+import { useAllCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
-import { useInventory, usePriceExtract } from "@temper/player-inventory-management-ui/hooks-inventory"
-import { type EffectivePricingRegion, type PricingRegionNoteKind, resolvePricingRegion, resolvePricingRegionNote } from "@temper/player-inventory-management-ui/pricing-region"
+import {
+  useInventory,
+  usePriceExtract,
+} from "@temper/player-inventory-management-ui/hooks-inventory"
+import {
+  type EffectivePricingRegion,
+  type PricingRegionNoteKind,
+  resolvePricingRegion,
+  resolvePricingRegionNote,
+} from "@temper/player-inventory-management-ui/pricing-region"
 import { usePlayer } from "@temper/player-profile/use-player"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useMemo } from "react"
 import {
   type BlendedPriceKey,
