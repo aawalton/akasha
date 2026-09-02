@@ -79,4 +79,4 @@ export async function main(argv: readonly string[]): Promise<number> {
   return 0
 }
 
-if (import.meta.main) process.exit(await main(process.argv.slice(2)))
+if (import.meta.main) process.exitCode = await main(process.argv.slice(2))

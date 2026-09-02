@@ -63,15 +63,15 @@ export function openTranscriptPanel(
 
 	const state: RenderedState = { transcriptPath: null, stableCount: 0, lastSize: -1 };
 
-	const resolvePath = (): string | null => {
+	const resolvePath = async (): Promise<string | null> => {
 		if (target.agentId !== undefined) {
-			return seatTranscriptOf(target.agentId)?.transcriptPath ?? null;
+			return (await seatTranscriptOf(target.agentId))?.transcriptPath ?? null;
 		}
 		return target.transcriptPath ?? null;
 	};
 
-	const tick = (): undefined => {
-		const transcriptPath = resolvePath();
+	const tick = async (): Promise<undefined> => {
+		const transcriptPath = await resolvePath();
 		if (transcriptPath === null) {
 			if (state.transcriptPath !== null) { return; }
 			void panel.webview.postMessage({ kind: 'status', text: 'No transcript found for this seat.' });
@@ -111,8 +111,8 @@ export function openTranscriptPanel(
 		void panel.webview.postMessage({ kind: 'status', text: '' });
 	};
 
-	tick();
-	const timer = setInterval(tick, POLL_INTERVAL_MS);
+	void tick();
+	const timer = setInterval(() => void tick(), POLL_INTERVAL_MS);
 	panel.onDidDispose(() => clearInterval(timer), null, context.subscriptions);
 	return panel;
 }

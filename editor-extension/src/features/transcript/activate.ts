@@ -7,9 +7,9 @@ export interface OpenTranscriptArgs extends TranscriptTarget {
 	readonly viewColumn?: vscode.ViewColumn;
 }
 
-function seatsWithTranscripts(): readonly { agentId: string; seatName: string; mtimeMs: number }[] {
+async function seatsWithTranscripts(): Promise<readonly { agentId: string; seatName: string; mtimeMs: number }[]> {
 	const found: { agentId: string; seatName: string; mtimeMs: number }[] = [];
-	for (const seat of readSeatTranscripts()) {
+	for (const seat of await readSeatTranscripts()) {
 		try {
 			found.push({ agentId: seat.agentId, seatName: seat.seatName, mtimeMs: fs.statSync(seat.transcriptPath).mtimeMs });
 		} catch {
@@ -19,7 +19,7 @@ function seatsWithTranscripts(): readonly { agentId: string; seatName: string; m
 }
 
 async function pickSeat(): Promise<{ agentId: string; seatName: string } | undefined> {
-	const seats = seatsWithTranscripts();
+	const seats = await seatsWithTranscripts();
 	if (seats.length === 0) {
 		void vscode.window.showInformationMessage('No seat has a session transcript on this machine.');
 		return undefined;

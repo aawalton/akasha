@@ -1,7 +1,6 @@
 import * as vscode from 'vscode';
 import { repositoryPath, unreachableMessage } from '../../harness-call.ts';
 import { recordObservation } from '../../seat/observation-store.ts';
-import { dropDerivers } from '../../../../tools/lib/deriver-hold.ts';
 import { createSettledRefresh } from '../settled-refresh.ts';
 import { countPages, countRows, readPageTree } from "./harness.ts"
 import { type PageNode } from "./assemble.ts";
@@ -86,7 +85,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	const settled = createSettledRefresh(SETTLE_MS, refresh);
 
 	const moved = (why: string) => (): void => {
-		dropDerivers();
 		settled.request(why);
 	};
 

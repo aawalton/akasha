@@ -1,6 +1,5 @@
 import * as vscode from 'vscode';
 import { type Startable, startIsolated } from './activation.ts';
-import { holdDerivers } from '../../tools/lib/deriver-hold.ts';
 import * as agentTree from './features/agent-tree/activate.ts';
 import * as domainTree from './features/domain-tree/activate.ts';
 import * as editorLayout from './features/editor-layout/activate.ts';
@@ -18,8 +17,6 @@ import { readProcess } from './seat/window-identity.ts';
 
 const FEATURE_TIMEOUT_MS = 20_000;
 
-const HOLD_MS = 60_000;
-
 const features = (context: vscode.ExtensionContext): readonly Startable[] => [
 	{ name: 'terminal-rename', start: async () => terminalRename.activate(context) },
 	{ name: 'transcript', start: async () => transcript.activate(context) },
@@ -34,7 +31,6 @@ const features = (context: vscode.ExtensionContext): readonly Startable[] => [
 export async function activate(context: vscode.ExtensionContext): Promise<void> {
 	const output = vscode.window.createOutputChannel('Ops: Activation');
 	context.subscriptions.push(output);
-	holdDerivers(HOLD_MS);
 
 	const windowName = await readProcess(process.pid);
 	const observations = createObservationStore({

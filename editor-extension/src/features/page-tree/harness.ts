@@ -1,37 +1,23 @@
 import * as path from 'node:path';
 import { z } from 'zod';
-import { duringOneCall } from '@akasha/command-system/during-call';
-import { askHere } from '../../../../readouts/ask-here.ts';
-import type { Ask } from '../../../../readouts/readout-resolver.ts';
-import { akashaRoot } from '../../harness-call.ts';
+import { akashaRoot, runVerb, verbPath } from '../../harness-call.ts';
 import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from './assemble.ts';
 
+const CALL_TIMEOUT_MS = 60_000;
 
-export const TYPE_QUERIES: readonly string[] = ['page-type-all', 'rules-engine-rule-set-all'];
-export const PROPERTY_QUERIES: readonly string[] = [
-	'page-property-definition-all',
-	'alan-harness-tracking-field-all',
-];
-export const PROPERTY_TYPE_QUERY = 'page-property-type-all';
-export const DOMAIN_QUERY = 'domain-all';
+const MAX_BUFFER = 16 * 1024 * 1024;
 
 const ROW_SCHEMA = z.object({
 	at: z.string().min(1),
 	values: z.record(z.string(), z.union([z.string(), z.array(z.string()), z.null()])),
 });
 
-const ANSWER_SCHEMA = z.object({
-	n: z.number(),
-	rows: z.array(ROW_SCHEMA),
+const ANSWERS_SCHEMA = z.object({
+	types: z.array(ROW_SCHEMA),
+	properties: z.array(ROW_SCHEMA),
+	propertyTypes: z.array(ROW_SCHEMA),
+	domains: z.array(ROW_SCHEMA),
 });
-
-export function parseAnswer(body: unknown, slug: string): readonly QueryRow[] {
-	const read = ANSWER_SCHEMA.safeParse(body);
-	if (!read.success) {
-		throw new Error(`the page query \`${slug}\` answered in a shape this cannot read: ${read.error.message}`);
-	}
-	return read.data.rows;
-}
 
 export function countRows(nodes: readonly PageNode[]): number {
 	let total = 0;
@@ -61,27 +47,30 @@ function rootOfRepo(repo: string): string | undefined {
 	return undefined;
 }
 
-export async function askQuery(slug: string, ask: Ask): Promise<readonly QueryRow[]> {
-	let answer: Awaited<ReturnType<Ask>>;
-	try {
-		answer = await ask(slug, {});
-	} catch (cause) {
-		throw new Error(`${slug} went unasked: ${String(cause)}`);
+export function readPageAnswers(answered: unknown): PageAnswers {
+	const read = ANSWERS_SCHEMA.safeParse(answered);
+	if (!read.success) {
+		throw new Error(`page-tree answered in a shape this cannot read: ${read.error.message}`);
 	}
-	return parseAnswer(answer, slug);
+	const held = read.data;
+	return {
+		types: held.types as readonly QueryRow[],
+		properties: held.properties as readonly QueryRow[],
+		propertyTypes: held.propertyTypes as readonly QueryRow[],
+		domains: held.domains as readonly QueryRow[],
+	};
 }
 
-export async function readPageTree(ask: Ask = askHere()): Promise<PageTree> {
-	return duringOneCall(async () => {
-		const slugs = [...TYPE_QUERIES, ...PROPERTY_QUERIES, PROPERTY_TYPE_QUERY, DOMAIN_QUERY];
-		const answered = await Promise.all(slugs.map(async (slug) => askQuery(slug, ask)));
-		const at = (slug: string): readonly QueryRow[] => answered[slugs.indexOf(slug)] ?? [];
-		const answers: PageAnswers = {
-			types: TYPE_QUERIES.flatMap((slug) => [...at(slug)]),
-			properties: PROPERTY_QUERIES.flatMap((slug) => [...at(slug)]),
-			propertyTypes: at(PROPERTY_TYPE_QUERY),
-			domains: at(DOMAIN_QUERY),
-		};
-		return assemblePageTree(answers, akashaRoot());
+export async function readPageTree(): Promise<PageTree> {
+	const stdout = await runVerb(verbPath('page-tree'), [], {
+		timeout: CALL_TIMEOUT_MS,
+		maxBuffer: MAX_BUFFER,
 	});
+	let answered: unknown;
+	try {
+		answered = JSON.parse(stdout);
+	} catch (err) {
+		throw new Error(`page-tree did not print JSON: ${String(err)}`);
+	}
+	return assemblePageTree(readPageAnswers(answered), akashaRoot());
 }

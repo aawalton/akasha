@@ -1,8 +1,7 @@
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { z } from 'zod';
-import { akashaSeatsStanding } from '../../../../tools/lib/seat-akasha-beside.ts';
-import { akashaSeatRecordOf } from '../../../../tools/lib/seat-akasha-read.ts';
+import { runVerb, verbPath } from '../../harness-call.ts';
 
 export interface SeatTranscript {
 	readonly agentId: string;
@@ -17,24 +16,59 @@ export interface SubagentTranscript {
 	readonly filePath: string;
 }
 
-const TRANSCRIPT_KEY = 'transcript-path';
+const CALL_TIMEOUT_MS = 30_000;
 
-// WHERE A SEAT'S TRANSCRIPT IS, READ FROM AKASHA. This walked the old seat directory, opened every
-// page for its id, and took the transcript from the sidecar beside it or the page underneath. Both
-// halves of that live in akasha now: the index names every seat standing, and the transcript is one
-// of the values carried beside the page, so a seat that stands only there is no longer invisible.
-export function readSeatTranscripts(): readonly SeatTranscript[] {
-	const found: SeatTranscript[] = [];
-	for (const [agentId, seatName] of akashaSeatsStanding()) {
-		const held = akashaSeatRecordOf(agentId, TRANSCRIPT_KEY);
-		if (held === null || held.value === '') { continue; }
-		found.push({ agentId, seatName, transcriptPath: held.value });
-	}
-	return found;
+const MAX_BUFFER = 4 * 1024 * 1024;
+
+// WHERE A SEAT'S TRANSCRIPT IS, ASKED OF A BUN CHILD. Reading it opens the values kept beside a
+// seat's page, and loading one of those needs a transpiler only bun carries, so doing it here threw
+// `Bun is not defined` in an extension host that node runs. `tools/seat-transcripts.ts` answers the
+// whole list at once, and it is held for a moment because the transcript panel asks on every tick
+// and the agent tree asks once per live seat.
+const HOLD_MS = 5_000;
+
+let held: { readonly at: number; readonly seats: readonly SeatTranscript[] } | null = null;
+
+export function dropSeatTranscripts(): void {
+	held = null;
 }
 
-export function seatTranscriptOf(agentId: string): SeatTranscript | null {
-	return readSeatTranscripts().find((seat) => seat.agentId === agentId) ?? null;
+function seatsIn(answered: unknown): readonly SeatTranscript[] {
+	if (answered === null || typeof answered !== 'object' || !Array.isArray((answered as { seats?: unknown }).seats)) {
+		throw new Error('seat-transcripts: the answer carries no `seats` array');
+	}
+	return (answered as { seats: readonly unknown[] }).seats.map((raw, at) => {
+		if (raw === null || typeof raw !== 'object') {
+			throw new Error(`seat-transcripts: seats[${at}] is not an object`);
+		}
+		const row = raw as Record<string, unknown>;
+		if (typeof row.agentId !== 'string' || typeof row.seatName !== 'string' || typeof row.transcriptPath !== 'string') {
+			throw new Error(`seat-transcripts: seats[${at}] carries no agentId, seatName and transcriptPath`);
+		}
+		return { agentId: row.agentId, seatName: row.seatName, transcriptPath: row.transcriptPath };
+	});
+}
+
+export async function readSeatTranscripts(): Promise<readonly SeatTranscript[]> {
+	const now = Date.now();
+	if (held !== null && now - held.at < HOLD_MS) { return held.seats; }
+	const stdout = await runVerb(verbPath('seat-transcripts'), [], {
+		timeout: CALL_TIMEOUT_MS,
+		maxBuffer: MAX_BUFFER,
+	});
+	let answered: unknown;
+	try {
+		answered = JSON.parse(stdout);
+	} catch (err) {
+		throw new Error(`seat-transcripts did not print JSON: ${String(err)}`);
+	}
+	const seats = seatsIn(answered);
+	held = { at: now, seats };
+	return seats;
+}
+
+export async function seatTranscriptOf(agentId: string): Promise<SeatTranscript | null> {
+	return (await readSeatTranscripts()).find((seat) => seat.agentId === agentId) ?? null;
 }
 
 const subagentMetaSchema = z.looseObject({

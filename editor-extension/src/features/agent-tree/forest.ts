@@ -1,5 +1,5 @@
 import type { SeatMode } from "../../seat/mode.ts"
-import { seatTranscriptOf } from "../transcript/sources.ts"
+import { dropSeatTranscripts, seatTranscriptOf } from "../transcript/sources.ts"
 import { askHarness, type HarnessRow, parseForestRows, parseStateColour } from "./harness.ts"
 import { readSeatPlaces } from "./lookup.ts"
 import type { SubagentNode, SubagentReader } from "./subagents.ts"
@@ -10,6 +10,7 @@ let workingColourHeld: string | undefined | null = null
 
 export function dropSeatAnswers(): void {
   workingColourHeld = null
+  dropSeatTranscripts()
 }
 
 export interface SeatRow {
@@ -49,7 +50,7 @@ export async function readAgentForest(subagents: SubagentReader): Promise<AgentF
   const running = new Map<string, readonly SubagentNode[]>()
   await Promise.all(
     [...liveIds].map(async (id) => {
-      const stated = seatTranscriptOf(id)
+      const stated = await seatTranscriptOf(id)
       if (stated === null) {
         return
       }
