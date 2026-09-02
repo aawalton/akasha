@@ -1,10 +1,10 @@
-import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { SkillLineCategoryId } from "@akasha/temper-skill-lines/skill-line-category-data"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
+import type { Skill } from "@akasha/temper-character-skills/character-skills"
 import type { ScribedSkill } from "@akasha/temper-character-skills/scribed-skill-types"
 import type { AffixScriptId } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import type { FocusScriptId } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import type { SignatureScriptId } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
-import type { Skill } from "@akasha/temper-character-skills/character-skills"
+import type { SkillLineCategoryId } from "@akasha/temper-skill-lines/skill-line-category-data"
 
 export type BarType = "primary" | "backup"
 
