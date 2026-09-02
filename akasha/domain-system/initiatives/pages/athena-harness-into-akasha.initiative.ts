@@ -12,7 +12,7 @@ export const athenaHarnessIntoAkasha = {
       statement:
         "The model gateway is a domain in akasha, and every module it runs from is a page there.",
       workingMemory:
-        "model-gateway is a domain under models with nine modules in and 96 tests passing — every leaf importing nothing. retry is next: deps idle-timeout, keepalive and sse-error-frame are all in, nothing outside. Checks that refuse a body: UPPER_SNAKE constants, lowerCamel functions including an arrow in a const, no cast through unknown, no prose comment in code, 41 taboo terms, no lone pronoun or quantifier. Subagents write bodies to /var/tmp for one writer.",
+        "Ten modules in at akasha/agents/models/gateway/modules/<slug>/, 133 tests. A sibling import is ../<slug>/<slug>.module.code.ts. Nothing left is free of outside reaches: shape.ts gates 8 modules, oauth gates 8. shape.ts is not ported — akasha uses zod in 291 modules, so the gateway is recreated on zod rather than carried across. Checks refuse: UPPER_SNAKE consts, lowerCamel funcs including an arrow in a const, no cast via unknown, no comment in code, taboo terms, no lone pronoun or quantifier.",
     },
     {
       statement: "No part of the model gateway is outside akasha.",
