@@ -20,9 +20,10 @@ export const NAMING_SPELLING =
   "is not found here"
 
 export const REACHING_SPELLING =
-  "the wider sweep is the last part of each path that goes, looked for with a slash beside that " +
+  "the wider sweep is the last part of each file that goes, looked for with a slash beside that " +
   "part and nothing else asked of it, so `main.ts` reaches every `main.ts` the repository holds " +
-  "— read what it found rather than counting it"
+  "— read what it found rather than counting it, and a directory that goes is swept for by no " +
+  "last part of its own, a directory being no name a body reaches"
 
 export type Found = {
   readonly namers: readonly string[]
@@ -42,7 +43,9 @@ export type Looked = {
 export function lookedFor(named: readonly string[], under: readonly string[]): Looked {
   const whole = new Set(named)
   const parts = new Set<string>()
-  for (const one of [...named, ...under]) {
+  const directory = (path: string): boolean =>
+    under.some((file) => file.startsWith(`${path}${PARTED_BY}`))
+  for (const one of [...named.filter((path) => !directory(path)), ...under]) {
     const last = one.slice(one.lastIndexOf(PARTED_BY) + 1)
     if (last !== "" && last !== one) parts.add(last)
   }

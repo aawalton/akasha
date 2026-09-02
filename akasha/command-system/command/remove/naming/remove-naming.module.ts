@@ -74,7 +74,12 @@ export const removeNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The last part of a path is swept for where a slash sits beside that part.",
+      statement:
+        "The last part of a file that goes is swept for where a slash sits beside that part.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A directory that goes is swept for by no last part of its own.",
     },
     {
       invariantKind: "departure",

@@ -67,11 +67,22 @@ function wordedIn(body: string): ReturnType<typeof leftNaming> {
   return leftNaming(root, baseOf(root), [WORDED], [WORDED_AT], new Set([WORDED_AT]))
 }
 
-test("a path is looked for whole, and by its last part and that of each file under it", () => {
+test("a directory you named is looked for whole and never by its own last part", () => {
   const looked = lookedFor(["temper/one-held", "temper/one-held"], ["temper/one-held/main.ts"])
   expect(looked.whole).toEqual(["temper/one-held"])
-  expect(looked.parts).toEqual(["main.ts", "one-held"])
+  expect(looked.parts).toEqual(["main.ts"])
+})
+
+test("a file you named is looked for whole and by its own last part", () => {
+  const looked = lookedFor(["temper/one-held/main.ts"], [])
+  expect(looked.whole).toEqual(["temper/one-held/main.ts"])
+  expect(looked.parts).toEqual(["main.ts"])
   expect(lookedFor(["held.ts"], [])).toEqual({ whole: ["held.ts"], parts: [] })
+})
+
+test("each file under a directory you named is looked for by that file's last part", () => {
+  const under = ["temper/one-held/main.ts", "temper/one-held/in/other.ts"]
+  expect(lookedFor(["temper/one-held"], under).parts).toEqual(["main.ts", "other.ts"])
 })
 
 test("prose spelling the last part of a directory with no slash beside it is not a reach", () => {
@@ -80,10 +91,10 @@ test("prose spelling the last part of a directory with no slash beside it is not
   expect(reachesIn(found)).toEqual([])
 })
 
-test("a body reaching a directory that goes by a relative path is swept up, not named", () => {
-  const found = wordedIn(`{ "path": "../curse" }\n`)
+test("a body spelling a directory's own last part beside a slash is not swept up", () => {
+  const found = wordedIn(`{ "kind": "page-type/curse" }\n`)
   expect(namersIn(found)).toEqual([])
-  expect(reachesIn(found)).toEqual([PROSE])
+  expect(reachesIn(found)).toEqual([])
 })
 
 test("a body reaching a file under a directory that goes by its last part is swept up", () => {
@@ -98,9 +109,9 @@ test("a file naming what goes is found wherever it sits, inside the akasha folde
   expect(namersIn(found)).toEqual([INSIDE_AT, NAMER])
 })
 
-test("a file reaching what goes by a relative path is swept up by the last part of that path", () => {
-  const root = world({ [GOING]: BODY, [NAMER]: `{ "path": "../one-held" }\n` })
-  const found = leftNaming(root, baseOf(root), ["temper/one-held"], [GOING], new Set([GOING]))
+test("a file reaching a file that goes by a relative path is swept up by its last part", () => {
+  const root = world({ [GOING]: BODY, [NAMER]: `{ "path": "../main.ts" }\n` })
+  const found = leftNaming(root, baseOf(root), [GOING], [], new Set([GOING]))
   expect(namersIn(found)).toEqual([])
   expect(reachesIn(found)).toEqual([NAMER])
 })
