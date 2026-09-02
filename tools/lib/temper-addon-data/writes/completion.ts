@@ -2,6 +2,7 @@ import type { AddonDataPages } from "../addon-data-pages.ts"
 import { generateTemperActivityCategory } from "@akasha/temper-addon-generators/activity-category"
 import { generateTemperAntiquity } from "@akasha/temper-addon-generators/temper-antiquity"
 import { generateTemperCadwell } from "@akasha/temper-addon-generators/temper-cadwell"
+import { generateTemperCollectibles } from "@akasha/temper-addon-generators/temper-collectibles"
 import { generateTemperCompletionCategory } from "@akasha/temper-addon-generators/temper-completion-category"
 import { generateTemperPoi } from "@akasha/temper-addon-generators/temper-poi"
 import { generateTemperQuest } from "@akasha/temper-addon-generators/temper-quest"
@@ -63,6 +64,11 @@ export function buildAddonDataWritesCompletion(
         p.researchLinePages.rows,
         p.catalogDomainPages.rows
       )
+    ),
+    w(
+      TEMPER_COMPLETION_OUTPUT_DIR,
+      "collectibles-data.generated.ts",
+      generateTemperCollectibles(p.collectibleCategoryPages.rows, p.catalogDomainPages.rows)
     ),
   ]
 }

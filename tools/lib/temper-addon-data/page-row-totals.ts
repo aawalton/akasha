@@ -19,6 +19,7 @@ export function buildPageRowTotals(p: AddonDataPages): Record<string, Rows> {
     "temper-character-role": p.characterRolePages,
     "temper-character-skill-activation": p.characterSkillActivationPages,
     "temper-class": p.classPages,
+    "temper-collectible-category": p.collectibleCategoryPages,
     "temper-eso-companion": p.companionPages,
     "temper-companion-activation-buff": p.companionActivationBuffPages,
     "temper-companion-armor-slot": p.companionArmorSlotPages,
