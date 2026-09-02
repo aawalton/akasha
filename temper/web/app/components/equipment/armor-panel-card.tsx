@@ -1,36 +1,36 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import {
-  type ArmorSlotId,
-  armorSlots,
-} from "@akasha/temper-equipment-kinds/armor-slots"
-import {
-  type StandardArmorWeightId,
-  standardArmorWeights,
-} from "@temper/game-characters-equipment/armor/armor-weights-data"
+import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import {
   type ArmorEnchantId,
   armorEnchants,
-} from "@temper/game-characters-equipment/enchants/armor-enchants-data"
+} from "@akasha/temper-characters-equipment/armor-enchants"
 import {
   bulkUpdateArmorEnchant,
   bulkUpdateArmorQuality,
   bulkUpdateArmorSet,
   bulkUpdateArmorTrait,
   bulkUpdateArmorWeight,
-} from "@temper/game-characters-equipment/loadout/bulk-update-armor"
-import { mergeItemData } from "@temper/game-characters-equipment/loadout/merge-item-data"
-import { getMythicSlots } from "@temper/game-characters-equipment/loadout/mythic-set-rules"
-import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+} from "@akasha/temper-characters-equipment/bulk-update-armor"
+import { mergeItemData } from "@akasha/temper-characters-equipment/merge-item-data"
+import { getMythicSlots } from "@akasha/temper-characters-equipment/mythic-set-rules"
 import {
   type ArmorTraitId,
   armorTraitsBuildList,
   armorTraits as armorTraitsData,
 } from "@akasha/temper-equipment/armor-traits"
-import { AVAILABLE_QUALITY_OPTIONS, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
-import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import { type ArmorSlotId, armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
+import {
+  type StandardArmorWeightId,
+  standardArmorWeights,
+} from "@temper/game-characters-equipment/armor/armor-weights-data"
+import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { useMemo } from "react"
 import type { ArmorUpdateParams } from "@/components/equipment/armor-card"
 import { ArmorCard } from "@/components/equipment/armor-card"
