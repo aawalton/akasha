@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "All 13 generated tables render byte-identical from akasha pages, a seeded fault proving the probe sees — so the generate refusal is dead, but 10 tables have no akasha module to land in. Ruling: build no gate-write route; a table lands when an akasha consumer needs it, and once web repoints its 3 files these have none, so they go with the package. Next: empty `ALL_OUTPUT_DIRS`, then ablate. Largest table is 1,199,592 bytes, 80x the ceiling.",
+        "`ALL_OUTPUT_DIRS` is empty and the completion writes are deleted, proved by a recording writer at 0 writes aimed there with a seeded fault still throwing. `player-completion` is ready to ablate once web`s 3 edges clear; its 13 generated files stay on disk until then to keep `codegen-type-identity-drift` green. The catalog pages are not stranded — the capture writes them and the store answers them. Ruling: the 13 renderers and 9 tiers go, the pages stay.",
     },
     {
       statement: "No part of temper is outside akasha.",
