@@ -1,5 +1,10 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
+import {
+  ACHIEVEMENT_CATEGORY_ACTIVITY,
+  ACHIEVEMENT_SUBCATEGORY_ACTIVITY,
+  achievementNameToActivity,
+} from "@akasha/temper-player-completion/activity-category-mapping"
 import type { AccountCardId } from "@akasha/temper-player-completion/completion-card-registry"
 import {
   type CompletionFilter,
@@ -8,11 +13,6 @@ import {
   type CompletionSortMode,
   createNodeFilter,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import {
-  ACHIEVEMENT_CATEGORY_ACTIVITY,
-  ACHIEVEMENT_SUBCATEGORY_ACTIVITY,
-  achievementNameToActivity,
-} from "@temper/player-completion/activity-categories"
 import type { AccountAchievementOverallProgress } from "@temper/player-completion/completion-achievement-progress"
 
 interface AccountAchievementsPanelCardProps {
