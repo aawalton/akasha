@@ -12,6 +12,7 @@ import { cliHelpFlagReferences } from "./cli-help-flag-references.ts"
 import { commandHelpBound } from "./command-help-bound.ts"
 import { commandsDeclareHelp } from "./commands-declare-help.ts"
 import { commandsDeclareSummary } from "./commands-declare-summary.ts"
+import { declarationsOrphaned } from "./declarations-orphaned.ts"
 import { defaultsNotRequired } from "./defaults-not-required.ts"
 import { domainEdges } from "./domain-edges.ts"
 import { editorExtensionSingle } from "./editor-extension-single.ts"
@@ -49,6 +50,7 @@ export const AUDITS: Readonly<Record<string, Levy>> = {
   "command-help-bound": { repos: ["akasha"], run: commandHelpBound },
   "commands-declare-help": { repos: ["akasha"], run: commandsDeclareHelp },
   "commands-declare-summary": { repos: ["akasha"], run: commandsDeclareSummary },
+  "declarations-orphaned": { repos: ["akasha"], run: declarationsOrphaned },
   "defaults-not-required": { repos: ["akasha"], run: defaultsNotRequired },
   "domain-edges": { repos: ["akasha"], run: domainEdges },
   "editor-extension-single": { repos: ["akasha"], run: editorExtensionSingle },
