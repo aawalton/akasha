@@ -26,6 +26,10 @@ export const alanSurplus = {
     },
     {
       invariantKind: "departure",
+      statement: "A carry that fails to one site does not stop the carry to another site.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The tile shows the surplus Alan's workstation last took.",
     },
     {
