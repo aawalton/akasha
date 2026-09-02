@@ -1,7 +1,14 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import {
+  type CompletionFilter,
+  type CompletionNode,
+  CompletionPanelCard,
+  type CompletionSortMode,
+  createNodeFilter,
+  withActivityCategories,
+} from "@akasha/temper-player-completion-ui/completion-panel-card"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import type { AccountPoiUnionProgress } from "@temper/player-completion/completion-account-zone-poi-union"
-import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter, withActivityCategories } from "@temper/player-completion-ui/completion-panel-card"
 import type { AccountCardId } from "@temper/player-completion/completion-card-registry"
 
 interface AccountPoiPanelCardProps {
