@@ -14,6 +14,8 @@ export const arianaGrande3435 = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
+  rating: "A",
   lyrics: "txt",
   syncedLyrics: "txt",
+  insights: "txt",
 } as const satisfies Song

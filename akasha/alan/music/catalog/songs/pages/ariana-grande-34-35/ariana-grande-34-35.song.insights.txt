@@ -1,0 +1,1 @@
+A probe written by the music-rate migration to prove the write path, and taken away again.
