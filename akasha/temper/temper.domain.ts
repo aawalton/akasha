@@ -41,6 +41,7 @@ export const temper = {
     "eso-addon/temper-lib-slash-commander",
     "workspace-package/temper-community-addons",
     "eso-addon/temper-lib-media-provider",
+    "eso-addon/temper-lib-async",
   ],
   invariants: [
     {

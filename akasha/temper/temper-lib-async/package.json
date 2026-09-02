@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/temper-lib-async",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./main": "./async-main/async-main.module.code.ts"
+  }
+}
