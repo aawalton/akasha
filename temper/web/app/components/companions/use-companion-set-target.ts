@@ -3,15 +3,15 @@
 import {
   applyCompanionMetadata,
   extractCompanionMetadata,
-} from "@temper/game-characters/build-metadata"
-import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/companion-codec"
+} from "@akasha/temper-build-metadata/build-metadata"
 import { getBaseRoleName } from "@akasha/temper-companions-core/companion-base-roles"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { companions as companionsData } from "@akasha/temper-companions-core/companions"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
+import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { useCompanionLifecycle, useCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useMemo, useState, useTransition } from "react"
 import type { SetTargetEntity } from "@/components/ui/set-target-dialog"
 
