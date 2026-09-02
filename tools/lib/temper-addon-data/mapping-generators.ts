@@ -1,3 +1,4 @@
+import { rendered } from "./failing-alone.ts"
 import { generateAllianceMappings } from "./generators/alliance-mappings.ts"
 import { generateChampionPointMappings } from "./generators/champion-point-mappings.ts"
 import { generateClassMappings } from "./generators/class-mappings.ts"
@@ -11,8 +12,6 @@ import { generatePotionMappings } from "./generators/potion-mappings.ts"
 import { generateRaceMappings } from "./generators/race-mappings.ts"
 import { generateScribingMappings } from "./generators/scribing-mappings.ts"
 import { generateSetMappings } from "./generators/set-mappings.ts"
-import { generateSkillLineMappings } from "./generators/skill-line-mappings.ts"
-import { rendered } from "./failing-alone.ts"
 import { TEMPER_CHARACTERS_CAPTURE_OUTPUT_DIR } from "./output-dirs.ts"
 import { type AddonDataWrite, writeToDisk } from "./writes.ts"
 
@@ -29,7 +28,6 @@ const MAPPING_GENERATORS: Array<{ generate: () => string; filename: string }> = 
   { generate: generatePlayerEquipmentMappings, filename: "player-equipment-mappings" },
   { generate: generateSetMappings, filename: "set-mappings" },
   { generate: generateScribingMappings, filename: "scribing-mappings" },
-  { generate: generateSkillLineMappings, filename: "skill-line-mappings" },
   { generate: generatePassiveSkillMappings, filename: "passive-skill-mappings" },
 ]
 
