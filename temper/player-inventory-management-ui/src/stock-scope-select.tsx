@@ -1,12 +1,18 @@
 "use client"
 
-import { useAuth } from "@shared/auth/use-auth"
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
 import type {
   MoveToDestination,
   StockScope,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { useAuth } from "@shared/auth/use-auth"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import type { ActionVariant } from "./action-options"
