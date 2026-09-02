@@ -737,6 +737,8 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-core": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
+        "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
