@@ -12,6 +12,7 @@ import {
   referencesOf,
   spelledAs,
   type Typing,
+  typed,
   typingOver,
 } from "@akasha/code-system/code-typing"
 import type ts from "typescript"
@@ -28,8 +29,6 @@ const LEFT = 12
 const NAME = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
 const COUNT = /^[1-9][0-9]*$/
-
-const TS = ".ts"
 
 export type Tokening = {
   readonly path: string
@@ -63,7 +62,7 @@ type Target = { readonly nodes: ReadonlySet<ts.Node>; readonly key: boolean }
 type Picked = Target | { readonly refused: string }
 
 export function tokeningFor(path: string, from: string, to: string, line?: string): Asked {
-  if (!path.endsWith(TS)) return { refused: `\`${path}\` names no TypeScript body` }
+  if (!typed(path)) return { refused: `\`${path}\` names no TypeScript body` }
   if (!NAME.test(from)) return { refused: `\`${from}\` is no name a body carries` }
   if (!NAME.test(to)) return { refused: `\`${to}\` is no name a body carries` }
   if (from === to) {
