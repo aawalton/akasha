@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/temper-eso-paths",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./eso-paths": "./eso-paths/eso-paths.module.code.ts",
+    "./eso-clone-stamp": "./eso-clone-stamp/eso-clone-stamp.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}

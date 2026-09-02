@@ -21,6 +21,7 @@ export const temper = {
     "workspace-package/temper-upstream-data",
     "workspace-package/temper-addon-build",
     "workspace-package/temper-capture-shapes",
+    "workspace-package/temper-eso-paths",
   ],
   invariants: [
     {
