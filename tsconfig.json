@@ -160,9 +160,6 @@
       "path": "./temper/game-items-filters-core"
     },
     {
-      "path": "./temper/player-quests-addon-cli"
-    },
-    {
       "path": "./temper/shared-addon-libraries-lib-sets-scripts"
     },
     {

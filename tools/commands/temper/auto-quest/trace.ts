@@ -1,7 +1,7 @@
 export const summary = "Read the auto-quest debug trace captured by TemperQuests (text by default; --json for full AutoQuestTraceEntry[])"
 
 import { readFile } from "node:fs/promises"
-import { rootSchema } from "@temper/player-quests-addon-cli/temper/auto-quest/saved-variables-schema"
+import { TEMPER_QUESTS_SAVED_VARIABLES } from "@akasha/temper-quests-trace/auto-quest-trace"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import type { CommandHelp } from "../../../ops/surface.ts"
 import { dataError } from "../../../lib/exit.ts"
@@ -116,7 +116,7 @@ export default async function autoQuestTrace(args: readonly string[]): Promise<v
   }
 
   const raw = parseLuaSavedVariablesFile(content, SAVED_VARIABLES_NAME)
-  const root = rootSchema.parse(raw) as SavedVariablesRoot
+  const root = TEMPER_QUESTS_SAVED_VARIABLES.parse(raw) as SavedVariablesRoot
   const entries = collectEntries(root)
 
   if (entries.length === 0) {
