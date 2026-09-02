@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "The two acts are one at `b4918b9d9c` and the open-session bar is gone at `317722721f`, proven with a live row open across the act. Nothing has landed: 294 markdown days and no day pages. Two bars are left, both found by sweeping rather than by running the act. The folder the days land in matches no folder shape, so the gated write refuses (`9730306c77`), and the undo puts 294 files back and cannot commit them (`6de4acd819`). Mend the undo first, since it is what makes the act reversible.",
+        "A landing ran whole in a copy at exit 0: 133 days, 0 faults, 0 differences over 4838 values, and every read on the road to both tiles answers the same before and after. Both tiles answer 200 with a reading, and 503 with nothing carried in. The surplus keys are worked out by `pages/page-property-definition/` files the act never removes, so the day type declaring none of them is right. What blocks the act in main is `day-place.test.ts`: six assertions turn at the flip and `land.ts` rewrites one.",
     },
     {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
