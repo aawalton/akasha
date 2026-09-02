@@ -8,12 +8,9 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "An applied patch lands through the gate as one commit.",
-      workingMemory:
-        "A reading never ages out, so only a moved body or a wiped record discharges one. A path the patch's base and HEAD hold alike was read when that path was drafted, so applying records that reading again where a context replacement took it away. A path that moved is left to the warrant to refuse until the agent reads what moved. Applying drops the patch and the ref keeping its blobs. Applying comes before conflicts because an agent holding a patch has no way out of one today.",
-    },
-    {
       statement: "A patch that cannot rebase carries its conflicts where the agent resolves them.",
+      workingMemory:
+        "A conflict refuses the draft and refuses the apply, and `akasha patch` reports it. What is left is carrying the conflict marks into the patch so the agent resolves them there.",
     },
     {
       statement: "A principal takes in the patch of a subagent that stops.",
