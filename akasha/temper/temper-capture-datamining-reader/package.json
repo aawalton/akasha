@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/temper-capture-datamining-reader",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./saved-variables-schema": "./saved-variables-schema/saved-variables-schema.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-capture-datamining": "workspace:*",
+    "@akasha/temper-capture-host": "workspace:*",
+    "@akasha/temper-saved-variables": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
