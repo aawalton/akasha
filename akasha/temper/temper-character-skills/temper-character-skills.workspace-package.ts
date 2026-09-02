@@ -10,6 +10,18 @@ export const temperCharacterSkills = {
     "module/character-skill-activation-types",
     "module/character-skill-template",
     "module/grimoire-template",
+    "module/scribed-skill-template",
+    "module/scribed-skills",
+    "module/scribed-skills-00",
+    "module/scribed-skills-01",
+    "module/scribed-skills-02",
+    "module/scribed-skills-03",
+    "module/scribed-skills-04",
+    "module/scribing-grimoires",
+    "module/scribing-grimoires-00",
+    "module/scribing-grimoires-01",
+    "module/scribing-grimoires-02",
+    "module/scribing-grimoires-03",
   ],
   invariants: [
     {
