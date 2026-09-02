@@ -5,4 +5,13 @@ export const upkeep = {
   pageTypeSlug: "readout-group",
   slug: "upkeep",
   definition: "whether the daily keeping of Alan and his surroundings is holding",
+  sequenceSlugs: [
+    "readout/upkeep-safety",
+    "readout/upkeep-surplus",
+    "readout/upkeep-capacity",
+    "readout/upkeep-plants",
+    "readout/upkeep-activity",
+    "readout/upkeep-sleep",
+  ],
+  sortOrder: "place",
 } as const satisfies ReadoutGroup

@@ -5,6 +5,15 @@ export const values = {
   pageTypeSlug: "readout-group",
   slug: "values",
   definition: "how well a day served each of the things that matter to Alan",
+  sequenceSlugs: [
+    "readout/faith",
+    "readout/love",
+    "readout/health",
+    "readout/learn",
+    "readout/fun",
+    "readout/wealth",
+  ],
+  sortOrder: "place",
   invariants: [
     {
       invariantKind: "departure",
