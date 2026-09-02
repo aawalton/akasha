@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aFingerprintFilingThatFailsIsOwedForever = {
+  id: "01a060d1-4042-7000-bc74-5b8e6d0d5d0c",
+  pageTypeSlug: "finding",
+  slug: "a-fingerprint-filing-that-fails-is-owed-forever",
+  domainSlug: "domain/alan-harness",
+  claim:
+    "The fingerprint a build is known by is filed by the run that makes it, and a filing that fails is owed forever. `runTestflightCut` files one after every upload that succeeds, inside a catch that prints a warning and lets the run exit 0, and the function it calls has one caller, so nothing files one afterwards. Build 199's was rebuilt by hand, its `cut-at` copied off Apple rather than read from a clock.",
+  evidence:
+    "`tools/lib/mobile-testflight-cut.ts:233` calls `recordCutFingerprint(app.slug, fingerprint)`, and :237-243 catches whatever that throws to print `fingerprint NOT recorded (...); the upload still succeeded`. The run carries on to the `--wait` poll and exits 0, so a build ships with nothing filed and no status saying so.\n\nOne caller reaches it. The tree answers three places for the name: its definition at `akasha/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts:79`, its own test, and that one call. No command files one after the fact, so the only repair is by hand.\n\nIt throws for two reasons: :83 where no checkout root places a `mobile-cut` page, and :90 where the commit that would take the page fails. The second is the live one. `landOne` at `tools/lib/page-write-commit.ts:59-80` answers a `commitError` for anything `landFiles` throws, and this repository's main worktree is shared by every agent, so a commit racing another lane is ordinary here.\n\nWhat the pages say. `pages/mobile-cut/alanwalton-197.mobile-cut.md` carries `2026-09-01T12:49:50.728Z` against a commit at 12:49:51Z; `-198` carries `14:37:31.265Z` against 14:37:31Z; `smilingjenny-21` carries `21:22:23.047Z` against 21:22:23Z. Each was written by the run that made it. `alanwalton-199` carries `2026-09-02T01:23:05.000Z` against a commit 16 minutes later at 01:39:07Z, and that value is the App Store Connect `uploadedDate` for build 199 exactly, to the second and with no milliseconds. It was copied off Apple rather than read from a clock.\n\nPlacement is not what failed: `whereFor` answers `pages/mobile-cut/` for alanwalton-200, smilingjenny-22 and atlas-2 today.",
+} as const satisfies Finding
