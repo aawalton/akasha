@@ -1,17 +1,13 @@
 import { existsSync, readdirSync, rmdirSync } from "node:fs"
 import { dirname, join } from "node:path"
 
-const AKASHA = "akasha"
-
-const INSIDE = `${AKASHA}/`
-
 const PARTED_BY = "/"
 
 export function emptiedBy(gone: readonly string[]): readonly string[] {
   const dirs = new Set<string>()
   for (const path of gone) {
     let dir = dirname(path)
-    while (dir.startsWith(INSIDE)) {
+    while (dir.includes(PARTED_BY)) {
       dirs.add(dir)
       dir = dirname(dir)
     }

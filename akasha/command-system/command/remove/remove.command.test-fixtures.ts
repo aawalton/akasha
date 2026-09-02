@@ -45,4 +45,8 @@ export const KEPT = "akasha/two/kept.module.ts"
 
 export const DEEP = "akasha/one/deep/held.module.ts"
 
+export const OUTSIDE = "temper/one/held.ts"
+
+export const BESIDE_IT = "temper/one/held.test.ts"
+
 export const BODY = `export const held = 1\n`

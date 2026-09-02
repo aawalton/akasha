@@ -51,11 +51,16 @@ export function unwarrantedIn(
   )
 }
 
-export function pathInside(root: string, said: string): string | null {
+export function pathAt(root: string, said: string): string | null {
   const full = isAbsolute(said) ? resolve(said) : resolve(root, said)
   const rel = relative(resolve(root), full)
-  if (isAbsolute(rel) || rel.startsWith("..")) return null
-  if (!rel.startsWith(`${AKASHA}/`)) return null
+  if (rel === "" || isAbsolute(rel) || rel.startsWith("..")) return null
+  return rel
+}
+
+export function pathInside(root: string, said: string): string | null {
+  const rel = pathAt(root, said)
+  if (rel === null || !rel.startsWith(`${AKASHA}/`)) return null
   return rel
 }
 

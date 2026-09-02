@@ -21,9 +21,11 @@ function world(...paths: readonly string[]): string {
   return root
 }
 
-test("the folders a change could empty climb from what went and stop below the akasha folder", () => {
+test("the folders a change could empty climb from what went and stop below the repository top", () => {
   expect(emptiedBy([DEEP])).toEqual(["akasha/one/deep", "akasha/one"])
   expect(emptiedBy(["akasha/held.module.ts"])).toEqual([])
+  expect(emptiedBy(["temper/one/deep/held.ts"])).toEqual(["temper/one/deep", "temper/one"])
+  expect(emptiedBy(["held.ts"])).toEqual([])
 })
 
 test("a folder left holding nothing goes, and the folder above it goes with it", () => {

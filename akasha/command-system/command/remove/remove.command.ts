@@ -10,7 +10,7 @@ export const remove = {
   testFixtures: "ts",
   changeKindSlug: "change-mechanical",
   taking: [
-    { said: "--file-path <path>", takes: "a path under `akasha/` to take away" },
+    { said: "--file-path <path>", takes: "a path anywhere in the repository to take away" },
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
@@ -19,7 +19,9 @@ export const remove = {
   helpNotes: [
     "--file-path repeats, so several paths go in one commit.",
     "a directory named takes away every file git holds under it.",
-    "the files standing beside what you name go with it.",
+    "the files beside what you name under `akasha/` go with it.",
+    "a path outside `akasha/` goes too, and no check judges one, which the answer says.",
+    "a folder at the top of the repository is refused — name what is inside it.",
   ],
   invariants: [
     {
@@ -58,6 +60,30 @@ export const remove = {
     {
       invariantKind: "departure",
       statement: "A directory holding no tracked file is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path anywhere in the repository is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path inside `.git` is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder at the top of the repository is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No check judges a path outside the `akasha` folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path no check judged is named in the answer.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A file beside a path outside the `akasha` folder is left alone.",
     },
     {
       invariantKind: "departure",

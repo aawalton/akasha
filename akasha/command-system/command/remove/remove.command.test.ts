@@ -7,6 +7,7 @@ import { readingIn, recordRead } from "../../reading/reading.module.code.ts"
 import { namedIn, remove } from "./remove.command.code.ts"
 import {
   BESIDE,
+  BESIDE_IT,
   BODY,
   DEEP,
   git,
@@ -15,6 +16,7 @@ import {
   head,
   KEPT,
   naming,
+  OUTSIDE,
   repoWith,
   scratch,
 } from "./remove.command.test-fixtures.ts"
@@ -35,6 +37,7 @@ test("named paths are taken away and the removal is committed", () => {
   expect(git(root, ["ls-files"]).trim()).toBe("akasha/one/kept.module.ts")
   expect(said.report[0]).toBe(`${HELD} taken away`)
   expect(said.report.join("\n")).not.toContain("took away ")
+  expect(said.report.join("\n")).not.toContain("unjudged")
   expect(said.report.at(-1)).toStartWith("committed as ")
 })
 
@@ -137,15 +140,39 @@ test("a check that refuses a deletion stops the removal, and nothing is taken aw
   expect(head(root)).toBe(was)
 })
 
-test("a path standing outside the akasha folder, or named twice, is refused", () => {
-  const root = repoWith({ "elsewhere/held.ts": BODY, [HELD]: BODY })
-  const out = remove(naming("elsewhere/held.ts"), givenIn(root))
-  expect(out.code).toBe(1)
-  expect(out.refusals[0]).toContain("is not under `akasha/`")
-  expect(there(root, "elsewhere/held.ts")).toBe(true)
+test("a path named twice is refused", () => {
+  const root = repoWith({ [HELD]: BODY })
   const twice = remove(naming(HELD, HELD), givenIn(root))
   expect(twice.code).toBe(1)
   expect(twice.refusals[0]).toContain("named more than once")
+})
+
+test("a path outside akasha goes unjudged, and the file beside it is left alone", () => {
+  const root = repoWith({ [OUTSIDE]: BODY, [BESIDE_IT]: BODY, [HELD]: BODY })
+  const dry = remove([...naming(OUTSIDE), "--dry-run"], givenIn(root))
+  expect(dry.code).toBe(0)
+  expect(dry.report.join("\n")).toContain(`would go unjudged — ${OUTSIDE}`)
+  expect(there(root, OUTSIDE)).toBe(true)
+  const said = remove(naming(OUTSIDE), givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(said.report.join("\n")).toContain(`went unjudged — ${OUTSIDE}`)
+  expect(git(root, ["ls-files"]).trim()).toBe(`${HELD}\n${BESIDE_IT}`)
+})
+
+test("a directory outside the akasha folder opens onto every file git holds under it", () => {
+  const root = repoWith({ [OUTSIDE]: BODY, "temper/one/deep/under.ts": BODY, [HELD]: BODY })
+  expect(remove(naming("temper/one"), givenIn(root)).refusals).toEqual([])
+  expect(git(root, ["ls-files"]).trim()).toBe(HELD)
+  expect(there(root, "temper/one")).toBe(false)
+  expect(there(root, "temper")).toBe(true)
+})
+
+test("a folder at the top of the repository is refused, and so is a path inside .git", () => {
+  const root = repoWith({ [HELD]: BODY, [OUTSIDE]: BODY })
+  expect(remove(naming("temper"), givenIn(root)).refusals[0]).toContain("at the top of the")
+  expect(remove(naming("akasha"), givenIn(root)).code).toBe(1)
+  expect(remove(naming(".git/config"), givenIn(root)).refusals[0]).toContain("`.git/`")
+  expect(git(root, ["ls-files"]).trim()).toBe(`${HELD}\n${OUTSIDE}`)
 })
 
 test("naming no path is refused rather than committed empty", () => {
@@ -312,7 +339,7 @@ test("a path is read against the repository root, wherever the call was made", (
   const root = repoWith({ [HELD]: BODY })
   const said = remove(naming(HELD), { ...givenIn(root), from: join(root, "akasha") })
   expect(said.refusals).toEqual([])
-  const out = remove(["--file-path", "elsewhere/held.ts"], givenIn(root))
+  const out = remove(["--file-path", "../elsewhere/held.ts"], givenIn(root))
   expect(out.refusals[0]).toContain("read against the repository root")
 })
 

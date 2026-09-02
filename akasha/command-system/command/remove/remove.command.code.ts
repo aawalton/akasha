@@ -15,12 +15,16 @@ import {
   MESSAGE,
   MESSAGE_FILE,
   messageIn,
-  pathInside,
+  pathAt,
 } from "../write/write.command.code.ts"
 
 const AKASHA = "akasha"
 
 const INSIDE = `${AKASHA}/`
+
+const GIT_DIR = ".git"
+
+const PARTED_BY = "/"
 
 const VALUED = [FILE_PATH, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
@@ -81,10 +85,31 @@ export function trackedUnder(root: string, path: string): readonly string[] | nu
   }
 }
 
+export function insideAkasha(path: string): boolean {
+  return path.startsWith(INSIDE)
+}
+
+export function barredIn(root: string, path: string): string | null {
+  if (path === GIT_DIR || path.startsWith(`${GIT_DIR}${PARTED_BY}`)) {
+    return (
+      `${path} is inside \`${GIT_DIR}/\`, which holds the repository itself rather than ` +
+      "anything the repository says"
+    )
+  }
+  if (path.includes(PARTED_BY)) return null
+  const at = join(root, path)
+  if (!existsSync(at) || !statSync(at).isDirectory()) return null
+  return (
+    `${path} is a folder at the top of the repository — name what is inside it, so no one call ` +
+    "takes a whole tree away by a slip of the keyboard"
+  )
+}
+
 type Opened = {
   readonly opened: readonly string[]
   readonly under: readonly string[]
   readonly gone: readonly string[]
+  readonly outside: readonly string[]
 }
 
 function openedIn(
@@ -95,14 +120,20 @@ function openedIn(
   const opened: string[] = []
   const under: string[] = []
   const gone: string[] = []
+  const outside: string[] = []
   const seen = new Set<string>()
   for (const one of named) {
-    const path = pathInside(root, one)
+    const path = pathAt(root, one)
     if (path === null) {
       refusals.push(
-        `\`${one}\` is not under \`${INSIDE}\` — a path is read against the repository root, ` +
-          "and this takes nothing from outside that folder"
+        `\`${one}\` is no path inside the repository — a path is read against the repository ` +
+          "root, and this takes nothing from outside the repository"
       )
+      continue
+    }
+    const barred = barredIn(root, path)
+    if (barred !== null) {
+      refusals.push(barred)
       continue
     }
     if (seen.has(path)) {
@@ -115,6 +146,7 @@ function openedIn(
       gone.push(path)
       continue
     }
+    if (!insideAkasha(path)) outside.push(path)
     if (statSync(at).isFile()) {
       opened.push(path)
       continue
@@ -142,7 +174,15 @@ function openedIn(
     }
   }
   if (refusals.length > 0) return { refusals }
-  return { opened, under, gone }
+  return { opened, under, gone, outside }
+}
+
+function judgedByNothing(outside: readonly string[], dry: boolean): readonly string[] {
+  if (outside.length === 0) return []
+  return [
+    `no check judges a path outside \`${INSIDE}\`, so what these carry ` +
+      `${dry ? "would go" : "went"} unjudged — ${outside.join(", ")}`,
+  ]
 }
 
 function alreadyGone(gone: readonly string[], dry: boolean): readonly string[] {
@@ -210,7 +250,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
   const root = resolve(given.root)
   const held = openedIn(root, read.named)
   if ("refusals" in held) return answering([], held.refusals, 1)
-  const beside = besideAll(root, held.opened)
+  const beside = besideAll(root, held.opened.filter(insideAkasha))
   const paths = [...held.opened, ...beside].sort()
   const gone = [...held.gone].sort()
   const already = alreadyGone(gone, read.dryRun)
@@ -238,10 +278,20 @@ export function remove(argv: readonly string[], given: Given): Answer {
       ...landed.took.map((one) => `${one} taken away`),
       ...already,
       ...wentWith(held.under, beside, landed.cleared),
+      ...judgedByNothing(held.outside, false),
     ],
   }
   const said = landingAsked({ ...given, root }, asked)
   if (said.code === 0 && !read.dryRun) dropReadings(root, [...paths, ...gone])
   if (said.code !== 0 || !read.dryRun) return said
-  return answering([...wouldGo(root, paths, held.under, beside), ...already, ...said.report], [], 0)
+  return answering(
+    [
+      ...wouldGo(root, paths, held.under, beside),
+      ...already,
+      ...judgedByNothing(held.outside, true),
+      ...said.report,
+    ],
+    [],
+    0
+  )
 }
