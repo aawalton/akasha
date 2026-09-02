@@ -19,6 +19,11 @@ export const migrateAlanAndJennyToAkasha = {
         "Alan ruled it ablated, migrating first what the new system reads. Blocked twice, both measured. `values` has no page in akasha at all, so the group the bar calls `daily` has nowhere to land. And the three groups are the denominator of Alan's daily points, where a member going missing resolves to zero with nothing thrown, so his points would quietly get larger. Lanes hold the values migration and the points engine; the markdown itself is untouched.",
     },
     {
+      statement: "The code editor's extension sits in akasha.",
+      workingMemory:
+        "Seven files are in already: the domain page, `panel-domains` and `work-initiatives`. Seventy-two more sit under `editor-extension/src`, 56 of them features and 12 seat, beside a manifest, a tsconfig and a generated folder. What escapes the package is 10 relative reaches into `tools/lib`, 3 into `readouts` and 6 `@akasha` statements; `vscode` and `zod` are npm and no bar. The 3 into `readouts` tie this to the markdown ablation, which goes first.",
+    },
+    {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
         "The census is in at `9445bc2c0f` and it inverts the premise: no live page read in the deployed app reaches the pod's own checkout. The second reader is Alan's editor, where `askHere` asks the checkout first and reaches the service only on one refusal word, so a wrong answer and an absent one take the same road. The 262 was no lasting condition, and a reading is written to a `*.uncommitted.*` file and never committed, so no freshness ever carried one.",
