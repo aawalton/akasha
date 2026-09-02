@@ -1,9 +1,9 @@
 import type { Finding } from "../finding.page-type.ts"
 
-export const elevenSitesReachADebugLoggerAndTwoManifestKindsExplainThem = {
+export const theAddonManifestExplainsEveryDebugLoggerReach = {
   id: "01a06160-cddc-7437-a457-6451d9700cd8",
   pageTypeSlug: "finding",
-  slug: "eleven-sites-reach-a-debug-logger-and-two-manifest-kinds-explain-them",
+  slug: "the-addon-manifest-explains-every-debug-logger-reach",
   domainSlug: "domain/temper",
   claim:
     "A `DebugLogger` is reached eleven ways across akasha, not four, and the addon manifest is what splits them. Three packages declaring `LibDebugLogger` under `dependsOn` fail loud when it is absent; four declaring it under `optionalDependsOn` degrade to chat or to a no-op; four declare it nowhere and reach it anyway. One pair matches byte for byte and is the only pair refused. `temper-lost-treasure` answers the library rather than a logger.",
