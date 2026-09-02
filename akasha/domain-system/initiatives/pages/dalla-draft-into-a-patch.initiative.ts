@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "An applied patch lands through the gate as one commit.",
       workingMemory:
-        "A path the patch's base and HEAD hold alike was read when that path was drafted, so applying asks for no fresh read of it. A path that moved under the patch is refused until the agent reads what moved. Applying drops the patch and the ref keeping its blobs. Applying comes before conflicts because an agent holding a patch has no way out of one today.",
+        "A reading never ages out, so only a moved body or a wiped record discharges one. A path the patch's base and HEAD hold alike was read when that path was drafted, so applying records that reading again where a context replacement took it away. A path that moved is left to the warrant to refuse until the agent reads what moved. Applying drops the patch and the ref keeping its blobs. Applying comes before conflicts because an agent holding a patch has no way out of one today.",
     },
     {
       statement: "A patch that cannot rebase carries its conflicts where the agent resolves them.",
