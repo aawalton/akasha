@@ -149,6 +149,8 @@ declare const ITEM_SET_TYPE_WEAPON: number
 declare const ITEM_SET_TYPE_WORLD: number
 type ItemStyleChapter = number
 declare const ITEM_STYLE_CHAPTER_ALL: number
+
+declare const ITEM_STYLE_CHAPTER_MAX_VALUE: number
 declare const ITEM_STYLE_CHAPTER_AXES: number
 declare const ITEM_STYLE_CHAPTER_BELTS: number
 declare const ITEM_STYLE_CHAPTER_BOOTS: number

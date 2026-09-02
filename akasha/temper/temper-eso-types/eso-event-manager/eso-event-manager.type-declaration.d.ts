@@ -11,7 +11,12 @@ interface EventManager {
     filterType: number,
     ...args: unknown[]
   ) => boolean
-  RegisterForUpdate: (namespace: string, interval: number, callback: () => void) => boolean
+  RegisterForUpdate: (
+    namespace: string,
+    interval: number,
+    callback: () => void,
+    registerOnce?: boolean
+  ) => boolean
   UnregisterForUpdate: (namespace: string) => boolean
 }
 

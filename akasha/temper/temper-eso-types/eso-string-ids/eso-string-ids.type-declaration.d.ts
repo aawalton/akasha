@@ -163,3 +163,11 @@ declare const SI_SEARCH_FILTER_BY: number
 declare const SI_COLOR_PICKER_CURRENT: number
 
 declare const SI_DEATH_PROMPT_WAYSHRINE: number
+
+declare const SI_YES: number
+declare const SI_OPTIONS_DEFAULTS: number
+declare const SI_OPTIONS_RESET: number
+declare const SI_ANTIQUITY_EMPTY_LIST: number
+declare const SI_SCRIBING_TITLE: number
+declare const SI_SMITHING_TAB_RESEARCH: number
+declare const SI_CRAFTED_ABILITY_NAME_FORMATTER: number
