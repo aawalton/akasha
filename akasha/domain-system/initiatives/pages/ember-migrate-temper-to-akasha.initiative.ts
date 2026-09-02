@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "32 packages and 2,009 files remain under `temper/`. Ablation is the bottleneck and most already name a twin in `partSlugs`, so the question is how complete it is. `shared/auth` is gone, yet the eight `-ui` packages are still held by 8 edges in 6 files onto three `@temper` packages: finding `4e64eb556d`. A symbol census must normalise case and punctuation yet skip each module page const, or it calls a twin whole that is not.",
+        "28 packages and 1,392 files remain under `temper/`, from 38 and 2,291. Ablation is the bottleneck and most already name a twin in `partSlugs`, so the question is how complete it is. Census the real build inputs the synthesized `dist/.tstl/<Addon>.tsconfig.json` names, read inside `declare global` bodies, and drop page FILES rather than slug-named consts — three seats over-reported absence each way. Run two instruments: one had a dangling `else` and read 3,340 for 13,043.",
     },
   ],
   constraints: [
