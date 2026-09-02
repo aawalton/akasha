@@ -25,6 +25,7 @@ export const readoutScale = {
   partSlugs: [
     "readout-scale/backlog-count",
     "readout-scale/safety-level",
+    "readout-scale/surplus-hours",
     "number-property/black-at",
     "number-property/blue-at",
     "number-property/green-at",

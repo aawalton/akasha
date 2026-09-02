@@ -9,6 +9,6 @@ export const readoutGroup = {
   slug: "readout-group",
   definition: "the readings drawn together",
   pluralSlug: "readout-groups",
-  partSlugs: ["readout-group/categorization", "readout-group/safety"],
+  partSlugs: ["readout-group/categorization", "readout-group/safety", "readout-group/surplus"],
   extendsSlug: "page-type/domain",
 } as const satisfies PageType

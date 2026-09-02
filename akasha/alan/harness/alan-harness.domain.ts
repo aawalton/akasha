@@ -8,6 +8,7 @@ export const alanHarness = {
   partSlugs: [
     "domain/monarch",
     "domain/alan-safety",
+    "domain/alan-surplus",
     "workspace-package/readout-system",
     "workspace-package/voice-core",
     "workspace-package/idle-system",
