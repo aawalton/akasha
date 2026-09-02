@@ -1,13 +1,13 @@
 import { upsertPage } from "@akasha/pages-access/upsert"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
-import { asRecord } from "@akasha/utils-narrow/as-record"
-import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/companion-codec"
+import { decodeCompanion, encodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import { companionRoles } from "@akasha/temper-companions-core/companion-roles"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { companions, getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
 import { buildHash } from "@akasha/temper-formula-framework/branded-id"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 
 function toLuaKeyedRecord(value: unknown): Record<string, unknown> {
   if (Array.isArray(value)) {
