@@ -964,6 +964,17 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-collections-addon": {
+      "name": "@akasha/temper-collections-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-dungeon-champions": "workspace:*",
+        "@akasha/temper-item-browser": "workspace:*",
+        "@akasha/temper-lorebooks": "workspace:*",
+        "@akasha/temper-lost-treasure": "workspace:*",
+        "@akasha/temper-skyshards": "workspace:*",
+      },
+    },
     "akasha/temper/temper-combat-addon": {
       "name": "@akasha/temper-combat-addon",
       "dependencies": {
@@ -2512,6 +2523,7 @@
       "dependencies": {
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
@@ -2522,7 +2534,6 @@
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
-        "@temper/game-characters-skills": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -2586,62 +2597,16 @@
         "react-dom": "^18 || ^19",
       },
     },
-    "temper/game-characters-skills": {
-      "name": "@temper/game-characters-skills",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-classes": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/temper-races": "workspace:*",
-        "@akasha/temper-skill-kinds": "workspace:*",
-        "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters-equipment": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-characters-skills-morphs-access": {
-      "name": "@temper/game-characters-skills-morphs-access",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-classes": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/temper-races": "workspace:*",
-        "@akasha/temper-skill-lines": "workspace:*",
-        "@temper/game-characters-skills": "workspace:*",
-        "@temper/game-characters-skills-morphs-core": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-characters-skills-morphs-addon": {
       "name": "@temper/game-characters-skills-morphs-addon",
       "version": "0.1.0",
       "dependencies": {
         "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-capture-addon": "workspace:*",
-        "@temper/game-characters-skills-morphs-core": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-characters-skills-morphs-core": {
-      "name": "@temper/game-characters-skills-morphs-core",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters-skills": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2652,6 +2617,7 @@
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
@@ -2660,7 +2626,6 @@
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
-        "@temper/game-characters-skills": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -2673,6 +2638,7 @@
       "dependencies": {
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
@@ -2685,7 +2651,6 @@
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
-        "@temper/game-characters-skills": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -2757,7 +2722,6 @@
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
-        "@temper/game-characters-skills": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -2838,10 +2802,10 @@
         "@akasha/temper-hud-window": "workspace:*",
         "@akasha/temper-narrow": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/temper-trading-post": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-capture-addon": "workspace:*",
-        "@temper/game-characters-skills-morphs-core": "workspace:*",
         "@temper/game-items-core": "workspace:*",
         "@temper/game-items-filters-addon": "workspace:*",
         "@temper/game-items-filters-core": "workspace:*",
@@ -2867,7 +2831,6 @@
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
-        "@temper/game-characters-skills": "workspace:*",
         "@temper/game-completion": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2946,10 +2909,10 @@
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/temper-skill-morphs-access": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
-        "@temper/game-characters-skills-morphs-access": "workspace:*",
         "@temper/game-codec": "workspace:*",
         "@temper/game-items-core": "workspace:*",
         "@temper/game-items-rules-core": "workspace:*",
@@ -3008,17 +2971,17 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/temper-skill-morphs": "workspace:*",
+        "@akasha/temper-skill-morphs-access": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
-        "@temper/game-characters-skills": "workspace:*",
-        "@temper/game-characters-skills-morphs-access": "workspace:*",
-        "@temper/game-characters-skills-morphs-core": "workspace:*",
         "@temper/game-completion": "workspace:*",
       },
       "devDependencies": {
@@ -3060,8 +3023,8 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters-skills-morphs-core": "workspace:*",
         "@temper/player-completion": "workspace:*",
         "@temper/player-completion-ui": "workspace:*",
       },
@@ -3263,8 +3226,6 @@
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
-        "@temper/game-characters-skills": "workspace:*",
-        "@temper/game-characters-skills-morphs-core": "workspace:*",
         "@temper/game-characters-stats": "workspace:*",
         "@temper/game-codec": "workspace:*",
         "@temper/game-items-core": "workspace:*",
@@ -3493,6 +3454,7 @@
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
@@ -3506,6 +3468,8 @@
         "@akasha/temper-shopping": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/temper-skill-morphs": "workspace:*",
+        "@akasha/temper-skill-morphs-access": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/temper-trading-pricing-client": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -3520,9 +3484,6 @@
         "@temper/game-characters-character-ui": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-characters-equipment-ui": "workspace:*",
-        "@temper/game-characters-skills": "workspace:*",
-        "@temper/game-characters-skills-morphs-access": "workspace:*",
-        "@temper/game-characters-skills-morphs-core": "workspace:*",
         "@temper/game-characters-stats": "workspace:*",
         "@temper/game-codec": "workspace:*",
         "@temper/game-companions-ui": "workspace:*",
@@ -3789,6 +3750,8 @@
     "@akasha/temper-characters-stats": ["@akasha/temper-characters-stats@workspace:akasha/temper/temper-characters-stats"],
 
     "@akasha/temper-classes": ["@akasha/temper-classes@workspace:akasha/temper/temper-classes"],
+
+    "@akasha/temper-collections-addon": ["@akasha/temper-collections-addon@workspace:akasha/temper/temper-collections-addon"],
 
     "@akasha/temper-combat-addon": ["@akasha/temper-combat-addon@workspace:akasha/temper/temper-combat-addon"],
 
@@ -4626,13 +4589,7 @@
 
     "@temper/game-characters-equipment-ui": ["@temper/game-characters-equipment-ui@workspace:temper/game-characters-equipment-ui"],
 
-    "@temper/game-characters-skills": ["@temper/game-characters-skills@workspace:temper/game-characters-skills"],
-
-    "@temper/game-characters-skills-morphs-access": ["@temper/game-characters-skills-morphs-access@workspace:temper/game-characters-skills-morphs-access"],
-
     "@temper/game-characters-skills-morphs-addon": ["@temper/game-characters-skills-morphs-addon@workspace:temper/game-characters-skills-morphs-addon"],
-
-    "@temper/game-characters-skills-morphs-core": ["@temper/game-characters-skills-morphs-core@workspace:temper/game-characters-skills-morphs-core"],
 
     "@temper/game-characters-stats": ["@temper/game-characters-stats@workspace:temper/game-characters-stats"],
 
