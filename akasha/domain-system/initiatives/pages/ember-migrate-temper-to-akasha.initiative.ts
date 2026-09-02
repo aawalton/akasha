@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "The inventory wall is gone: 151 capture pages hold 674,612 rows in 408,331,446 bytes, the largest using a third of the 8,388,608-byte entry ceiling. One wall is Alan's to settle: the `eso` mine's `items` runs to 196,161,960 bytes in 155,440 rows, twenty-four times what one entry file holds, and no shard the game names fits, since weapons alone are 90MB. The mine page and its `quests` have landed. Nothing under `pages/` is deleted, so landing the rest keeps two copies.",
+        "Six page types are short and only two are temper's: `temper-net-worth-day` at 94 pages and `temper-completed-month` at 6, and a seat has both. The `item`, `game`, `condition` and `collection-type` folders carry other domains' worlds, so they fall outside this initiative. 6,363 temper pages are in akasha against 6,751 source files. One wall is left: the `eso` mine's `items`, 188,484,624 bytes shaped, 22x the entry ceiling, no shard that fits, and three consumers reading it.",
     },
     {
       statement: "No part of temper is outside akasha.",
