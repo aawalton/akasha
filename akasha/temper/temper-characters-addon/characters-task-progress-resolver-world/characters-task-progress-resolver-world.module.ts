@@ -6,4 +6,5 @@ export const charactersTaskProgressResolverWorld = {
   slug: "characters-task-progress-resolver-world",
   definition: "how far one character has got through what the world holds for it",
   code: "ts",
+  test: "ts",
 } as const satisfies Module
