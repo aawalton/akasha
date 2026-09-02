@@ -4,7 +4,7 @@ export const readoutTier = {
   id: "01a05f42-92f5-7001-98d7-66166fa0b0f6",
   pageTypeSlug: "module",
   slug: "readout-tier",
-  definition: "the rung a reading reaches on the scale it is drawn against",
+  definition: "the rung a reading reaches on the scale it is read against",
   code: "ts",
   test: "ts",
   invariants: [
@@ -27,7 +27,7 @@ export const readoutTier = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading reaches the highest rung whose number the reading has passed.",
+      statement: "A reading reaches the highest rung whose number the reading has gone over.",
     },
     {
       invariantKind: "departure",
@@ -61,7 +61,36 @@ export const readoutTier = {
     },
     {
       invariantKind: "departure",
-      statement: "A scale whose rungs do not climb is refused rather than read the other way.",
+      statement: "A scale whose numbers shrink from black through blue is read as a falling scale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A scale whose rungs neither climb nor fall is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A falling reading reaches the first rung from black whose number the reading has not gone under.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading under every rung of a falling scale is on the best rung that scale states.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A falling rung holds the band from that rung's number up to the number of the rung before.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "How far a falling reading has come is the fraction of the rung's band the reading has come down.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading over every rung of a falling scale has come a fraction that is unknown rather than zero.",
     },
     {
       invariantKind: "departure",
@@ -102,10 +131,6 @@ export const readoutTier = {
     {
       invariantKind: "absence",
       statement: "Nothing here decides a reading is too old to show.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A scale whose rungs fall is drawn here too.",
     },
   ],
 } as const satisfies Module

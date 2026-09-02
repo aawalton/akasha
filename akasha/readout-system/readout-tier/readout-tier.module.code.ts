@@ -53,10 +53,18 @@ export function climbs(rungs: readonly Rung[]): boolean {
   return true
 }
 
-export function tierAt(reading: number, rungs: readonly Rung[]): Tiered | null {
-  if (!Number.isFinite(reading)) return null
-  if (!climbs(rungs)) return null
+export function falls(rungs: readonly Rung[]): boolean {
+  if (rungs.length < 2) return false
+  for (let i = 1; i < rungs.length; i += 1) {
+    const under = rungs[i]
+    const over = rungs[i - 1]
+    if (under === undefined || over === undefined) return false
+    if (under.at >= over.at) return false
+  }
+  return true
+}
 
+function climbedTo(reading: number, rungs: readonly Rung[]): Tiered {
   let reached = -1
   for (let i = 0; i < rungs.length; i += 1) {
     const rung = rungs[i]
@@ -72,6 +80,35 @@ export function tierAt(reading: number, rungs: readonly Rung[]): Tiered | null {
   const span = next.at - here.at
   const climbed = (reading - here.at) / span
   return { tier, nextTier: next.color, progress: Math.min(1, Math.max(0, climbed)) }
+}
+
+function fellTo(reading: number, rungs: readonly Rung[]): Tiered {
+  let reached = rungs.length - 1
+  for (let i = 0; i < rungs.length; i += 1) {
+    const rung = rungs[i]
+    if (rung !== undefined && reading >= rung.at) {
+      reached = i
+      break
+    }
+  }
+
+  const here = rungs[reached]
+  if (here === undefined) return { tier: BELOW_EVERY_RUNG, nextTier: null, progress: null }
+  const next = rungs[reached + 1]
+  const over = rungs[reached - 1]
+  if (next === undefined) return { tier: here.color, nextTier: null, progress: null }
+  if (over === undefined) return { tier: here.color, nextTier: next.color, progress: null }
+
+  const span = over.at - here.at
+  const fell = (over.at - reading) / span
+  return { tier: here.color, nextTier: next.color, progress: Math.min(1, Math.max(0, fell)) }
+}
+
+export function tierAt(reading: number, rungs: readonly Rung[]): Tiered | null {
+  if (!Number.isFinite(reading)) return null
+  if (climbs(rungs)) return climbedTo(reading, rungs)
+  if (falls(rungs)) return fellTo(reading, rungs)
+  return null
 }
 
 export function withoutSignedZero(said: number): number {

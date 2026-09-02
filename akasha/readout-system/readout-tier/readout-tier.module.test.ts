@@ -1,7 +1,16 @@
 import { expect, test } from "bun:test"
-import { climbs, readingSaid, rungsIn, statedAt, tierAt } from "./readout-tier.module.code.ts"
+import {
+  climbs,
+  falls,
+  readingSaid,
+  rungsIn,
+  statedAt,
+  tierAt,
+} from "./readout-tier.module.code.ts"
 
 const CLIMBING = rungsIn({ redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 })
+
+const FALLING = rungsIn({ blackAt: 100, redAt: 10, yellowAt: 1, blueAt: 0 })
 
 test("a rung stated as text is read as the number that rung spells", () => {
   expect(statedAt("2.5")).toBe(2.5)
@@ -36,16 +45,25 @@ test("a rung the scale states nothing for is left out", () => {
 
 test("a scale of fewer than two rungs says nothing about which way a reading runs", () => {
   expect(climbs(rungsIn({ redAt: 1 }))).toBe(false)
+  expect(falls(rungsIn({ redAt: 1 }))).toBe(false)
   expect(tierAt(1, rungsIn({ redAt: 1 }))).toBeNull()
 })
 
-test("a scale whose rungs fall is refused rather than drawn the other way", () => {
-  const falling = rungsIn({ blackAt: 31, redAt: 21, orangeAt: 11, yellowAt: 1 })
-  expect(climbs(falling)).toBe(false)
-  expect(tierAt(25, falling)).toBeNull()
+test("a scale climbs or falls and never both", () => {
+  expect(climbs(CLIMBING)).toBe(true)
+  expect(falls(CLIMBING)).toBe(false)
+  expect(falls(FALLING)).toBe(true)
+  expect(climbs(FALLING)).toBe(false)
 })
 
-test("a reading reaches the highest rung whose number the reading has passed", () => {
+test("a scale whose rungs neither climb nor fall is refused", () => {
+  const neither = rungsIn({ redAt: 5, yellowAt: 5, greenAt: 9 })
+  expect(climbs(neither)).toBe(false)
+  expect(falls(neither)).toBe(false)
+  expect(tierAt(7, neither)).toBeNull()
+})
+
+test("a reading reaches the highest rung whose number the reading has gone over", () => {
   expect(tierAt(1, CLIMBING)?.tier).toBe("red")
   expect(tierAt(2.5, CLIMBING)?.tier).toBe("yellow")
   expect(tierAt(3, CLIMBING)?.tier).toBe("green")
@@ -79,6 +97,47 @@ test("a reading on the highest rung has no tier above it", () => {
 test("a reading that is no finite number reaches no rung", () => {
   expect(tierAt(Number.NaN, CLIMBING)).toBeNull()
   expect(tierAt(Number.POSITIVE_INFINITY, CLIMBING)).toBeNull()
+})
+
+test("on a falling scale the rung reached is the first from black the reading has not gone under", () => {
+  expect(tierAt(240, FALLING)?.tier).toBe("black")
+  expect(tierAt(100, FALLING)?.tier).toBe("black")
+  expect(tierAt(24, FALLING)?.tier).toBe("red")
+  expect(tierAt(10, FALLING)?.tier).toBe("red")
+  expect(tierAt(9, FALLING)?.tier).toBe("yellow")
+  expect(tierAt(1, FALLING)?.tier).toBe("yellow")
+  expect(tierAt(0, FALLING)?.tier).toBe("blue")
+})
+
+test("a reading under every rung of a falling scale is on the best rung the scale states", () => {
+  expect(tierAt(-3, FALLING)).toEqual({ tier: "blue", nextTier: null, progress: null })
+  expect(tierAt(0, FALLING)).toEqual({ tier: "blue", nextTier: null, progress: null })
+})
+
+test("the tier a falling reading is next to reach is the rung after the one reached", () => {
+  expect(tierAt(240, FALLING)?.nextTier).toBe("red")
+  expect(tierAt(24, FALLING)?.nextTier).toBe("yellow")
+  expect(tierAt(9, FALLING)?.nextTier).toBe("blue")
+  expect(tierAt(0, FALLING)?.nextTier).toBeNull()
+})
+
+test("how far a falling reading has come is the fraction of its band it has come down", () => {
+  expect(tierAt(55, FALLING)?.progress).toBe(0.5)
+  expect(tierAt(10, FALLING)?.progress).toBe(1)
+  expect(tierAt(5.5, FALLING)?.progress).toBe(0.5)
+  expect(tierAt(1, FALLING)?.progress).toBe(1)
+})
+
+test("a reading over every rung of a falling scale has come an unknown fraction rather than none", () => {
+  expect(tierAt(240, FALLING)?.progress).toBeNull()
+  expect(tierAt(100, FALLING)?.progress).toBeNull()
+})
+
+test("an inbox at empty is blue and one over a hundred is black", () => {
+  const lowest = rungsIn({ blackAt: 100, redAt: 20, yellowAt: 10, greenAt: 1, blueAt: 0 })
+  expect(tierAt(0, lowest)?.tier).toBe("blue")
+  expect(tierAt(101, lowest)?.tier).toBe("black")
+  expect(tierAt(9, lowest)?.tier).toBe("green")
 })
 
 test("a readout stating no format has its reading said as the number it is", () => {
