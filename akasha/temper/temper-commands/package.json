@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/temper-commands",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@akasha/command-system": "workspace:*"
+  }
+}

@@ -12,6 +12,7 @@ export const temper = {
     "domain/temper-holdings",
     "domain/temper-progress",
     "page-type/temper-thing",
+    "workspace-package/temper-commands",
     "workspace-package/temper-dungeons",
   ],
   invariants: [

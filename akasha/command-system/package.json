@@ -5,6 +5,7 @@
   "exports": {
     "./asking": "./asking/asking.module.code.ts",
     "./calling": "./calling/calling.module.code.ts",
+    "./command": "./command/command.page-type.ts",
     "./committing": "./committing/committing.module.code.ts",
     "./during-call": "./during-call/during-call.module.code.ts",
     "./fault-saying": "./fault-saying/fault-saying.module.code.ts",
