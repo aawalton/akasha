@@ -109,14 +109,14 @@ interface LamIconpickerData extends LamControlBase {
 
 interface LamEditboxData extends LamControlBase {
   type: "editbox"
-  getFunc: (this: void) => string
+  getFunc: (this: void) => string | number
   setFunc: (this: void, text: string) => void
   isMultiline?: boolean
   isExtraWide?: boolean
   maxChars?: number
   textType?: number | ((this: void) => number)
   requiresReload?: boolean
-  default?: string | ((this: void) => string)
+  default?: string | number | ((this: void) => string | number)
   helpUrl?: string | ((this: void) => string)
   resetFunc?: (this: void, control: Control) => void
 }
@@ -168,6 +168,7 @@ type LamControlData =
 interface LibAddonMenu2 {
   RegisterAddonPanel: (addonId: string, panelData: LamPanelData) => Control
   RegisterOptionControls: (addonId: string, optionsTable: LamControlData[]) => void
+  OpenToPanel: (panel: unknown) => void
 }
 
 declare const LibAddonMenu2: LibAddonMenu2
