@@ -25,6 +25,7 @@ export const temperLibAsync = {
     "module/async-scheduler-manager",
     "module/async-global",
     "module/async-main",
+    "type-declaration/async-global-declarations",
     "type-declaration/async-saved-vars-declarations",
   ],
   invariants: [
