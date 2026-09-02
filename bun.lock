@@ -2034,6 +2034,7 @@
     "akasha/temper/temper-web": {
       "name": "@akasha/temper-web",
       "dependencies": {
+        "@akasha/code-system": "workspace:*",
         "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
@@ -2045,6 +2046,7 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-query": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
+        "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
