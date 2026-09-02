@@ -1,25 +1,25 @@
 "use client"
 
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { canClassEquipSet } from "@temper/game-characters-equipment/sets/class-restrictions"
-import { convertIconPathToUrl } from "@temper/game-characters-equipment/sets/get-equipment-icon"
+import { convertIconPathToUrl } from "@akasha/temper-characters-equipment/get-equipment-icon"
+import { canClassEquipSet } from "@akasha/temper-characters-equipment/set-class-restrictions"
 import {
   createSetSelectConfig,
   getMaxBonusPieceCount,
   NO_SET_SOURCE,
-} from "@temper/game-characters-equipment/sets/set-select-helpers"
+} from "@akasha/temper-characters-equipment/set-select-helpers"
 import {
   isSetSourceId,
   type SetSource,
   type SetSourceId,
-} from "@temper/game-characters-equipment/sets/set-source"
+} from "@akasha/temper-characters-equipment/set-source"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { typedPartialRecordKeys } from "@akasha/temper-formula-framework/record-parts"
 import {
   isSetsAllId,
   type SetsAll,
   type SetsAllId,
 } from "@temper/game-characters-equipment/sets/sets-all-data"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import { typedPartialRecordKeys } from "@akasha/temper-formula-framework/record-parts"
 import { Shield } from "lucide-react"
 import { useMemo } from "react"
 import { FilterableSelectDialog } from "@/components/ui/filterable-select-dialog"
