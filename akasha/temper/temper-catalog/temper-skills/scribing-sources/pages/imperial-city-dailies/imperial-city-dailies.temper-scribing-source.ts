@@ -1,4 +1,4 @@
-import type { TemperScribingSource } from "../temper-scribing-source.page-type.ts"
+import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
 
 export const imperialCityDailies = {
   id: "01a05fce-295b-72d7-bec4-917c1fb0ccc0",

@@ -1,4 +1,4 @@
-import type { TemperGrimoire } from "../temper-grimoire.page-type.ts"
+import type { TemperGrimoire } from "../../temper-grimoire.page-type.ts"
 
 export const smash = {
   id: "01a05fce-2957-764c-b963-d9a99d848f4f",

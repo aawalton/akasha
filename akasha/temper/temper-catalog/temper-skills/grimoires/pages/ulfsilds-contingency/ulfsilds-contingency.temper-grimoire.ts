@@ -1,4 +1,4 @@
-import type { TemperGrimoire } from "../temper-grimoire.page-type.ts"
+import type { TemperGrimoire } from "../../temper-grimoire.page-type.ts"
 
 export const ulfsildsContingency = {
   id: "01a05fce-2958-73bb-b25a-8b2b6fdb14e8",

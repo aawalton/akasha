@@ -1,4 +1,4 @@
-import type { TemperScribingSource } from "../temper-scribing-source.page-type.ts"
+import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
 
 export const magesGuildDaily = {
   id: "01a05fce-295b-75a1-8e8c-37ce9116354e",

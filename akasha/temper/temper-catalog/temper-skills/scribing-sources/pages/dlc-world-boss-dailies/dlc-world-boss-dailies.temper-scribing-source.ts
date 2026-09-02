@@ -1,12 +1,12 @@
-import type { TemperScribingSource } from "../temper-scribing-source.page-type.ts"
+import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
 
-export const dlcIncursionDailies = {
-  id: "01a05fce-295a-7833-bd7f-4abc5710996e",
+export const dlcWorldBossDailies = {
+  id: "01a05fce-295a-7842-af37-dfe96f98f1a2",
   pageTypeSlug: "temper-scribing-source",
-  slug: "dlc-incursion-dailies",
-  title: "DLC Incursion Dailies",
+  slug: "dlc-world-boss-dailies",
+  title: "DLC World Boss Dailies",
   displayOrder: 2,
-  scriptType: "affix",
+  scriptType: "signature",
   tierAchievements: "jsonl",
   zoneSlugs: [
     "solstice",
@@ -21,5 +21,10 @@ export const dlcIncursionDailies = {
     "northern-elsweyr",
     "southern-elsweyr",
     "summerset",
+    "vvardenfell",
+    "wrothgar",
+    "clockwork-city",
+    "murkmire",
+    "hews-bane",
   ],
 } as const satisfies TemperScribingSource

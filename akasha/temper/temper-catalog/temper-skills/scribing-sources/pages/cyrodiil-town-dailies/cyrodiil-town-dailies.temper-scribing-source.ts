@@ -1,4 +1,4 @@
-import type { TemperScribingSource } from "../temper-scribing-source.page-type.ts"
+import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
 
 export const cyrodiilTownDailies = {
   id: "01a05fce-2959-74b8-97c6-5f751ff9b973",
