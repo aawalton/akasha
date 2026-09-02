@@ -59,6 +59,22 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
+      statement: "Where each reading is read from is handed in rather than settled here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller handing in nothing has each reading read from what the relay holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller wanting the colors without a route asks for the group on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A store that refuses the group answers as a group holding nothing answers.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every readout the group admits is answered as a stoplight.",
     },
     {
