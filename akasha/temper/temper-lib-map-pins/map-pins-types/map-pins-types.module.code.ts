@@ -1,4 +1,3 @@
-import "../map-pins-declarations/map-pins-declarations.module.code.ts"
 export interface LmpPinData {
   pinTypeString?: string
   filterTooltipCreator?: ((this: void) => string) | undefined

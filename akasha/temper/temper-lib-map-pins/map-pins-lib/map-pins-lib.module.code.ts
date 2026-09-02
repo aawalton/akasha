@@ -1,6 +1,3 @@
-import type { LmpPinManager } from "../map-pins-types/map-pins-types.module.code.ts"
-import "../map-pins-declarations/map-pins-declarations.module.code.ts"
-
 import {
   LIB_NAME,
   LIB_VERSION,
@@ -9,7 +6,7 @@ import {
 } from "../map-pins-constants/map-pins-constants.module.code.ts"
 import { dm as dmImpl } from "../map-pins-debug/map-pins-debug.module.code.ts"
 import { getCurrentMapFilterGroup } from "../map-pins-helpers/map-pins-helpers.module.code.ts"
-import type { Lib } from "../map-pins-types/map-pins-types.module.code.ts"
+import type { Lib, LmpPinManager } from "../map-pins-types/map-pins-types.module.code.ts"
 import {
   getZoneAndSubzone,
   myPosition,

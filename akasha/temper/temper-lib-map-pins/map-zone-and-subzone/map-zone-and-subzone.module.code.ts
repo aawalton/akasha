@@ -1,4 +1,3 @@
-import "../map-pins-declarations/map-pins-declarations.module.code.ts"
 function splitOnSlash(input: string): string[] {
   const t: string[] = []
   for (const [str] of string.gmatch(input, "([^%/]+)")) {

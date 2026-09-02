@@ -1,4 +1,3 @@
-import "../map-pins-declarations/map-pins-declarations.module.code.ts"
 import type {
   GamepadFilterInfo,
   LmpHookPin,

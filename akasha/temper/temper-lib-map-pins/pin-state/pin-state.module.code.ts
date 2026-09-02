@@ -1,5 +1,3 @@
-import "../map-pins-declarations/map-pins-declarations.module.code.ts"
-
 import { LIBMAPPINS_GLOBAL_MAPGROUP } from "../map-pins-constants/map-pins-constants.module.code.ts"
 import {
   getCurrentGamepadMapFilterPanel,

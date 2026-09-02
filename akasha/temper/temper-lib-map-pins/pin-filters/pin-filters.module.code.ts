@@ -1,4 +1,3 @@
-import "../map-pins-declarations/map-pins-declarations.module.code.ts"
 import { asFilterPanel } from "../map-pins-casts/map-pins-casts.module.code.ts"
 import { LIBMAPPINS_GLOBAL_MAPGROUP } from "../map-pins-constants/map-pins-constants.module.code.ts"
 import {
@@ -237,7 +236,7 @@ export function setPinFilterHidden(
   if (filter) {
     const rawControl = filter[mapGroup]
     if (rawControl != null) {
-      const control = rawControl as Control
+      const control = rawControl as MapPinsFilterControl
       if (control.IsControlHidden() !== hidden) {
         control.SetHidden(hidden)
         const [, point, relativeTo, relativePoint, offsetX, anchorOffsetY, restrain] =

@@ -1,5 +1,4 @@
 import type { GlobalTable } from "../map-pins-casts/map-pins-casts.module.code.ts"
-import "../map-pins-declarations/map-pins-declarations.module.code.ts"
 import { asPinTypeId } from "../map-pins-casts/map-pins-casts.module.code.ts"
 import {
   LIBMAPPINS_AVA_IMPERIAL_MAPGROUP,

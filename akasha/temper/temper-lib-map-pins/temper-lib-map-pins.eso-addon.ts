@@ -12,7 +12,6 @@ export const temperLibMapPins = {
     "module/map-pins-casts",
     "module/map-pins-constants",
     "module/map-pins-types",
-    "module/map-pins-declarations",
     "module/map-pins-helpers",
     "module/map-zone-and-subzone",
     "module/map-pins-debug",
@@ -23,6 +22,7 @@ export const temperLibMapPins = {
     "module/map-pins-hooks",
     "module/map-pins-public-api",
     "module/map-pins-main",
+    "type-declaration/map-pins-declarations",
   ],
   invariants: [
     {

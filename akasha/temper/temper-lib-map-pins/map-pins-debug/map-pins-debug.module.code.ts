@@ -1,5 +1,4 @@
 import type { TableKey } from "../map-pins-casts/map-pins-casts.module.code.ts"
-import "../map-pins-declarations/map-pins-declarations.module.code.ts"
 
 import type { Lib } from "../map-pins-types/map-pins-types.module.code.ts"
 

@@ -6,7 +6,7 @@
     "./map-pins-casts": "./map-pins-casts/map-pins-casts.module.code.ts",
     "./map-pins-constants": "./map-pins-constants/map-pins-constants.module.code.ts",
     "./map-pins-types": "./map-pins-types/map-pins-types.module.code.ts",
-    "./map-pins-declarations": "./map-pins-declarations/map-pins-declarations.module.code.ts",
+    "./map-pins-declarations": "./map-pins-declarations/map-pins-declarations.type-declaration.d.ts",
     "./map-pins-helpers": "./map-pins-helpers/map-pins-helpers.module.code.ts",
     "./map-zone-and-subzone": "./map-zone-and-subzone/map-zone-and-subzone.module.code.ts",
     "./map-pins-debug": "./map-pins-debug/map-pins-debug.module.code.ts",
