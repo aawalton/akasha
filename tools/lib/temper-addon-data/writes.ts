@@ -3,7 +3,6 @@ import type { AddonDataPages } from "./addon-data-pages.ts"
 import { buildAddonDataWritesAlchemy } from "./writes/alchemy.ts"
 import { buildAddonDataWritesCodec } from "./writes/codec.ts"
 import { buildAddonDataWritesCompanionMappings } from "./writes/companion-mappings.ts"
-import { buildAddonDataWritesCompanionRotations } from "./writes/companion-rotations.ts"
 import { buildAddonDataWritesCompletion } from "./writes/completion.ts"
 import { buildAddonDataWritesEquipment } from "./writes/equipment.ts"
 import { buildAddonDataWritesInventory } from "./writes/inventory.ts"
@@ -12,7 +11,6 @@ import { buildAddonDataWritesRules } from "./writes/rules.ts"
 import { buildAddonDataWritesScribing } from "./writes/scribing.ts"
 import { buildAddonDataWritesSets } from "./writes/sets.ts"
 import { buildAddonDataWritesStats } from "./writes/stats.ts"
-import { buildAddonDataWritesCompanions } from "./writes-companions.ts"
 import { buildAddonDataWritesSkills } from "./writes-skills.ts"
 
 
@@ -33,8 +31,6 @@ export const ADDON_DATA_SECTIONS: readonly AddonDataSection[] = [
   ["rules", buildAddonDataWritesRules],
   ["scribing", buildAddonDataWritesScribing],
   ["stats", buildAddonDataWritesStats],
-  ["companions", buildAddonDataWritesCompanions],
-  ["companion-rotations", buildAddonDataWritesCompanionRotations],
   ["companion-mappings", (_p, w) => buildAddonDataWritesCompanionMappings(w)],
   ["skills", buildAddonDataWritesSkills],
 ]

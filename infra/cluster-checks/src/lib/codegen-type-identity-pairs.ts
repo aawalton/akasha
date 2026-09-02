@@ -27,7 +27,7 @@ const GEN = INSTRUCTIONS_MIRROR_DIR
 function gen(slug: string): string {
   return `${GEN}/${slug}/${slug}.module.code.ts`
 }
-const COMPANIONS_SNAP = "temper/game-companions-core/src/generated"
+const COMPANIONS_CORE = "akasha/temper/temper-companions-core"
 const SKILL_KINDS = "akasha/temper/temper-skill-kinds"
 const CHARACTER_SOURCES = "akasha/temper/temper-character-sources"
 const SKILL_LINES_SNAP = "akasha/temper/temper-skill-lines/skill-line-category-data"
@@ -105,7 +105,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "companion-role-rank",
     canonical: {
       repo: "code",
-      file: `${COMPANIONS_SNAP}/temper-companion-role.generated.ts`,
+      file: `${COMPANIONS_CORE}/companion-roles/companion-roles.module.code.ts`,
       kind: "object-keys",
       symbol: "COMPANION_ROLE_DATA",
     },
@@ -143,7 +143,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
       repo: "instructions",
       file: gen("temper-target-scope"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
@@ -158,7 +158,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
       repo: "instructions",
       file: gen("temper-target-type"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
@@ -173,7 +173,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
       repo: "instructions",
       file: gen("temper-status-effect-type"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
@@ -188,7 +188,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
       repo: "instructions",
       file: gen("temper-special-effect-type"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
@@ -203,74 +203,74 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
       repo: "instructions",
       file: gen("temper-comparison-op"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
     name: "companion-armor-slot-precedence",
     canonical: {
       repo: "code",
-      file: `${COMPANIONS_SNAP}/temper-companion-armor-slot.generated.ts`,
+      file: `${COMPANIONS_CORE}/companion-armor-slots/companion-armor-slots.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_COMPANION_ARMOR_SLOTS_BY_ID",
+      symbol: "COMPANION_ARMOR_SLOT_DATA",
     },
     mirror: {
       repo: "instructions",
       file: gen("temper-companion-armor-slot"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
     name: "companion-jewelry-slot-precedence",
     canonical: {
       repo: "code",
-      file: `${COMPANIONS_SNAP}/temper-companion-jewelry-slot.generated.ts`,
+      file: `${COMPANIONS_CORE}/companion-jewelry-slots/companion-jewelry-slots.module.code.ts`,
       kind: "object-keys",
-      symbol: "COMPANION_JEWELRY_SLOTS_DATA",
+      symbol: "COMPANION_JEWELRY_SLOT_DATA",
     },
     mirror: {
       repo: "instructions",
       file: gen("temper-companion-jewelry-slot"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
     name: "companion-weapon-slot-precedence",
     canonical: {
       repo: "code",
-      file: `${COMPANIONS_SNAP}/temper-companion-weapon-slot.generated.ts`,
+      file: `${COMPANIONS_CORE}/companion-weapon-slots/companion-weapon-slots.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_COMPANION_WEAPON_SLOTS",
+      symbol: "COMPANION_WEAPON_SLOT_DATA",
     },
     mirror: {
       repo: "instructions",
       file: gen("temper-companion-weapon-slot"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
     name: "companion-weapon-role-precedence",
     canonical: {
       repo: "code",
-      file: `${COMPANIONS_SNAP}/temper-companion-weapon-role.generated.ts`,
+      file: `${COMPANIONS_CORE}/companion-weapon-roles/companion-weapon-roles.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_COMPANION_WEAPON_ROLES",
+      symbol: "COMPANION_WEAPON_ROLE_DATA",
     },
     mirror: {
       repo: "instructions",
       file: gen("temper-companion-weapon-role"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
     name: "companion-activation-buff-rank",
     canonical: {
       repo: "code",
-      file: `${COMPANIONS_SNAP}/temper-companion-activation-buff.generated.ts`,
+      file: `${COMPANIONS_CORE}/companion-activation-buffs/companion-activation-buffs.module.code.ts`,
       kind: "object-keys",
       symbol: "COMPANION_ACTIVATION_BUFF_DATA",
     },
@@ -285,30 +285,30 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "companion-skill-slot-precedence",
     canonical: {
       repo: "code",
-      file: `${COMPANIONS_SNAP}/temper-companion-skill-slot.generated.ts`,
+      file: `${COMPANIONS_CORE}/companion-skill-slots/companion-skill-slots.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_COMPANION_SKILL_SLOTS",
+      symbol: "COMPANION_SKILL_SLOT_DATA",
     },
     mirror: {
       repo: "instructions",
       file: gen("temper-companion-skill-slot"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
     name: "companion-trait-precedence",
     canonical: {
       repo: "code",
-      file: `${COMPANIONS_SNAP}/temper-companion-trait.generated.ts`,
+      file: `${COMPANIONS_CORE}/companion-traits/companion-traits.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_COMPANION_TRAITS",
+      symbol: "COMPANION_TRAIT_DATA",
     },
     mirror: {
       repo: "instructions",
       file: gen("temper-companion-trait"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
@@ -323,7 +323,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
       repo: "instructions",
       file: gen("temper-skill-bars"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
@@ -338,7 +338,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
       repo: "instructions",
       file: gen("temper-skill-slot"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
@@ -353,7 +353,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
       repo: "instructions",
       file: gen("temper-skill-type"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
@@ -368,14 +368,14 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
       repo: "instructions",
       file: gen("temper-weapon-bar"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {
     name: "rotation-breakdown-row-precedence",
     canonical: {
       repo: "code",
-      file: `${COMPANIONS_SNAP}/temper-rotation-breakdown-row.generated.ts`,
+      file: `${COMPANIONS_CORE}/rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts`,
       kind: "object-keys",
       symbol: "TEMPER_ROTATION_BREAKDOWN_ROWS",
     },
@@ -383,7 +383,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
       repo: "instructions",
       file: gen("temper-rotation-breakdown-row"),
       kind: "object-keys",
-      symbol: "PRECEDENCE",
+      symbol: "precedence",
     },
   },
   {

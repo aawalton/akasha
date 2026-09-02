@@ -12,7 +12,6 @@ export const TEMPER_EQUIPMENT_SETS_OUTPUT_DIR = temperFile("game-characters-equi
 export const TEMPER_EQUIPMENT_TRAITS_OUTPUT_DIR = temperFile("game-characters-equipment/src/traits/generated")
 export const TEMPER_EQUIPMENT_WEAPON_OUTPUT_DIR = temperFile("game-characters-equipment/src/weapons/generated")
 export const TEMPER_CHARACTERS_CAPTURE_OUTPUT_DIR = out("game-characters-capture-addon")
-export const TEMPER_COMPANIONS_OUTPUT_DIR = out("game-companions-core")
 export const TEMPER_COMPLETION_OUTPUT_DIR = out("player-completion")
 export const TEMPER_ADDONS_CHARACTERS_GENERATED_DIR = out("player-completion-addon")
 export const TEMPER_INVENTORY_CORE_OUTPUT_DIR = out("game-items-core")
@@ -30,7 +29,6 @@ const ALL_OUTPUT_DIRS: readonly string[] = [
   TEMPER_EQUIPMENT_TRAITS_OUTPUT_DIR,
   TEMPER_EQUIPMENT_WEAPON_OUTPUT_DIR,
   TEMPER_CHARACTERS_CAPTURE_OUTPUT_DIR,
-  TEMPER_COMPANIONS_OUTPUT_DIR,
   TEMPER_COMPLETION_OUTPUT_DIR,
   TEMPER_ADDONS_CHARACTERS_GENERATED_DIR,
   TEMPER_INVENTORY_CORE_OUTPUT_DIR,
