@@ -2,7 +2,6 @@ import * as Characters from "../craft-characters/craft-characters.module.code.ts
 import { SETS } from "../craft-sets-data/craft-sets-data.module.code.ts"
 import { CB_UPDATE_PLAYER } from "../crafting-constants/crafting-constants.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 const defined = <T>(value: T | undefined): T =>
   value ?? error("TemperCrafting: unexpected nil value")
@@ -19,11 +18,11 @@ let CSLOOT: ObjectPool<InspirationContainer> | undefined
 
 export function scrollText(): undefined {
   function drawControl(pool: ObjectPool<InspirationContainer>): InspirationContainer {
-    const container = TemperCrafting_QuestFrame.CreateControl(
+    const container = TemperCrafting_QuestFrame.CreateControl<InspirationContainer>(
       `TemperCrafting_Inspiration${pool.GetNextControlId()}`,
       CT_CONTROL
     )
-    const c = container.CreateControl("$(parent)Loot", CT_LABEL)
+    const c = container.CreateControl<LabelControl>("$(parent)Loot", CT_LABEL)
     c.SetFont("TemperCraftingInsp")
     c.SetColor(1, 1, 1, 1)
     c.SetAnchor(1, container, 1, 0, 0)

@@ -42,7 +42,6 @@ import {
   runeInitialize,
   runeView,
 } from "../rune-panel/rune-panel.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 const defined = <T>(value: T | undefined): T =>
   value ?? error("TemperCrafting: unexpected nil value")

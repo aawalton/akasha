@@ -5,7 +5,6 @@ import { runeSetValue } from "../craft-rune-crafting/craft-rune-crafting.module.
 import { controlShow } from "../craft-ui-updates/craft-ui-updates.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
 import { runeShowMode } from "../rune-mode/rune-mode.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 export type CoordKey = "style" | "recipe" | "blueprint" | "rune" | "cook" | "overview"
 export type AnchorKey = "button" | "questbox" | "position"

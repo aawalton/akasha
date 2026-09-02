@@ -3,7 +3,6 @@ import type { RuneRefineGlyphEntry } from "../craft-rune/craft-rune.module.code.
 import { CB_INVENTORY_SPACE } from "../crafting-constants/crafting-constants.module.code.ts"
 import { CHAT } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 export interface GlyphStack extends RuneRefineGlyphEntry {
   name: string

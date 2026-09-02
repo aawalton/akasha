@@ -2,7 +2,6 @@ import { COOK } from "../craft-cook/craft-cook.module.code.ts"
 import * as DataValidation from "../craft-validation/craft-validation.module.code.ts"
 import { splitLink } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

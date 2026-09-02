@@ -35,6 +35,6 @@ declare const ZO_ProvisionerTopLevelDetailsDivider: Control
 declare const ZO_ProvisionerTopLevelDetails: Control
 
 interface InspirationContainer extends Control {
-  CreateControl: (name: string, controlType: CtLabel) => LabelControl
+  CreateControl: <T extends Control = LabelControl>(name: string, controlType: number) => T
   c?: LabelControl
 }

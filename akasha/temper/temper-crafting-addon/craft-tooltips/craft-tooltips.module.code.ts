@@ -4,7 +4,6 @@ import * as DataValidation from "../craft-validation/craft-validation.module.cod
 import { MAXCRAFT } from "../crafting-constants/crafting-constants.module.code.ts"
 import { stripLink } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 export function setTimer(control: TemperCraftingButton, hour: number): undefined {
   const account = STATE.Account

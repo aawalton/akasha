@@ -2,7 +2,6 @@ import type { RgbColor } from "../craft-rune-crafting/craft-rune-crafting.module
 import { CB_CONTROL_SHOW } from "../crafting-constants/crafting-constants.module.code.ts"
 import { hideControl } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 export function runeView(mode: number): undefined {
   const close = () => {

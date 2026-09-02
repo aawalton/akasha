@@ -4,7 +4,6 @@ import * as runeRefining from "../craft-rune-refining/craft-rune-refining.module
 import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
 import { runeHideVanillaUI, runeInitialize } from "../rune-panel/rune-panel.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 function asRefineButton(c: ButtonControl): RefineButton {
   return c as RefineButton

@@ -3,7 +3,6 @@ import * as RecipeCooking from "../craft-cooking/craft-cooking.module.code.ts"
 import * as RuneCrafting from "../craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
 import { runeHideVanillaUI, runeInitialize } from "../rune-panel/rune-panel.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 export function asCsCookButton(c: Control): CsCookButton {
   return c as CsCookButton

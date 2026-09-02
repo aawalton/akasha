@@ -8,7 +8,6 @@ import * as UiUpdates from "../craft-ui-updates/craft-ui-updates.module.code.ts"
 import * as Utilities from "../craft-utilities/craft-utilities.module.code.ts"
 import { CHAT, texture } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 const mustControl = <T extends Control = Control>(name: string): T =>
   WINDOW_MANAGER.GetControlByName<T>(name) ?? error(`TemperCrafting: missing control ${name}`)

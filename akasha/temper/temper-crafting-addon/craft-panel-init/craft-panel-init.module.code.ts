@@ -3,7 +3,6 @@ import * as ResearchGrid from "../craft-research-grid/craft-research-grid.module
 import * as RuneCrafting from "../craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
 
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 import { runeShowMode } from "../rune-mode/rune-mode.module.code.ts"
 
 const WM = WINDOW_MANAGER

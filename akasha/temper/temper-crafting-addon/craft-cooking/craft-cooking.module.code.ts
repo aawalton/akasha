@@ -4,7 +4,6 @@ import * as Utilities from "../craft-utilities/craft-utilities.module.code.ts"
 import { MAXCRAFT } from "../crafting-constants/crafting-constants.module.code.ts"
 import { CHAT, hideControl } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

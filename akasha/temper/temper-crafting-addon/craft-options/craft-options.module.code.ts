@@ -7,7 +7,6 @@ import type { CsTooltipOwner } from "../craft-tooltips/craft-tooltips.module.cod
 import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
 import { nilCheckSet, toChat } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 function asWidth(this: void, value: unknown): number {
   return value as number

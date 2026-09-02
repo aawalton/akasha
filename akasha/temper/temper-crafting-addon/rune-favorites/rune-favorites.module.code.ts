@@ -2,7 +2,6 @@ import * as RecipeCooking from "../craft-cooking/craft-cooking.module.code.ts"
 import * as RuneCrafting from "../craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
 import { asCsCookButton } from "../rune-furniture-recipes/rune-furniture-recipes.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 export function runeShowFavorites(): undefined {
   const tt = STATE.Loc.TT

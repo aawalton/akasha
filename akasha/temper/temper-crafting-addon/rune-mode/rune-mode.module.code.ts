@@ -10,7 +10,6 @@ import { runeShowCategory } from "../rune-glyph-creation/rune-glyph-creation.mod
 import { runeShowRefine } from "../rune-glyph-refining/rune-glyph-refining.module.code.ts"
 import { runeSearch } from "../rune-search/rune-search.module.code.ts"
 import { runeShowWrit } from "../rune-writs/rune-writs.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 export function runeShowMode(atStationOnly?: boolean): undefined {
   if (atStationOnly === undefined) {

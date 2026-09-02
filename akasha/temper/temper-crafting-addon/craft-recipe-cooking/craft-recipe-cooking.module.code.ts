@@ -3,7 +3,6 @@ import { type CsQualityColor, QUALITY } from "../craft-quality/craft-quality.mod
 import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
 import { hideControl, toChat } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

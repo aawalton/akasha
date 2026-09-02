@@ -4,7 +4,6 @@ import * as RuneCrafting from "../craft-rune-crafting/craft-rune-crafting.module
 import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
 import { splitLink, toChat } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 export interface SelectorButtonData {
   [key: string]: unknown

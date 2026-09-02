@@ -4,7 +4,6 @@ import * as RecipeCooking from "../craft-recipe-cooking/craft-recipe-cooking.mod
 import type { StyleApi } from "../craft-styles-data/craft-styles-data.module.code.ts"
 import { CB_CONTROL_SHOW } from "../crafting-constants/crafting-constants.module.code.ts"
 import { STATE, type StyleNameRow } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

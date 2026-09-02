@@ -5,7 +5,6 @@ import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
 import { MAXCRAFT } from "../crafting-constants/crafting-constants.module.code.ts"
 import { CHAT, toChat } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 export interface RgbColor {
   1: number

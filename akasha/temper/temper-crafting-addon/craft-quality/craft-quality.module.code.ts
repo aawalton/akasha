@@ -1,5 +1,3 @@
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
-
 export interface CsQualityColor {
   1: number
   2: number

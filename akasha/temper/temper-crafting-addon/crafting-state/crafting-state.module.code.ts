@@ -18,7 +18,6 @@ import {
   MagickaName,
   StaminaName,
 } from "../crafting-constants/crafting-constants.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 export interface StyleNameRow {
   name: string

@@ -4,7 +4,6 @@ import * as Options from "../craft-options/craft-options.module.code.ts"
 import type { CsTooltipOwner } from "../craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 const trackingFlag = (tracking: Record<string, boolean>, char: string): boolean => {
   const current = tracking[char]

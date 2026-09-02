@@ -13,7 +13,7 @@
     "./craft-cook": "./craft-cook/craft-cook.module.code.ts",
     "./craft-cooking": "./craft-cooking/craft-cooking.module.code.ts",
     "./craft-crafting": "./craft-crafting/craft-crafting.module.code.ts",
-    "./craft-decl-controls": "./craft-decl-controls/craft-decl-controls.module.code.ts",
+    "./craft-decl-controls": "./craft-decl-controls/craft-decl-controls.type-declaration.d.ts",
     "./craft-flask": "./craft-flask/craft-flask.module.code.ts",
     "./craft-furnisher": "./craft-furnisher/craft-furnisher.module.code.ts",
     "./craft-furnisher-early": "./craft-furnisher-early/craft-furnisher-early.module.code.ts",

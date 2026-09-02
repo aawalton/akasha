@@ -71,7 +71,6 @@ import { STATE } from "../crafting-state/crafting-state.module.code.ts"
 import { initializeTemperPotions } from "../potion-init/potion-init.module.code.ts"
 import { initializeTemperWrit } from "../writ-init/writ-init.module.code.ts"
 import { initializeMasterWritInventoryMarker } from "../writ-mark-init/writ-mark-init.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
 export function onAddOnLoaded(this: void): undefined {
   CALLBACK_MANAGER.RegisterCallback(CB_UPDATE_PLAYER, updatePlayer)

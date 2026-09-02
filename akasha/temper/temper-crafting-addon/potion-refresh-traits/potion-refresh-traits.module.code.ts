@@ -7,7 +7,6 @@ import {
 } from "../potion-result-controls/potion-result-controls.module.code.ts"
 import { PotMaker } from "../potion-state/potion-state.module.code.ts"
 import type {} from "../potion-types/potion-types.module.code.ts"
-import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 import "../potion-decl-controls/potion-decl-controls.module.code.ts"
 
 function refreshTraits(this: void): boolean {
