@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./activity-categories": "./activity-categories/activity-categories.module.code.ts",
+    "./activity-category-mapping": "./activity-category-mapping/activity-category-mapping.module.code.ts",
     "./apply-completion-overrides": "./apply-completion-overrides/apply-completion-overrides.module.code.ts",
     "./companion-quest-data": "./companion-quest-data/companion-quest-data.module.code.ts",
     "./companion-rapport": "./companion-rapport/companion-rapport.module.code.ts",
@@ -53,6 +54,7 @@
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
+    "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-races": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",

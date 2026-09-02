@@ -14,6 +14,7 @@ export const temperPlayerCompletion = {
     "module/completion-card-id",
     "module/completion-override",
     "module/activity-categories",
+    "module/activity-category-mapping",
     "module/apply-completion-overrides",
     "module/companion-rapport",
     "module/completion-cadwell-sort",
