@@ -68,7 +68,7 @@ function testFor(condition: PageCondition): Readonly<Record<string, unknown>> {
   return { empty: true }
 }
 
-function composedFor(query: PageQuery): ComposedQuery {
+export function composedFor(query: PageQuery): ComposedQuery {
   const where: Record<string, unknown> = {}
   for (const condition of query.where ?? []) where[kebabKey(condition.key)] = testFor(condition)
   const first = query.order?.[0]
@@ -86,6 +86,18 @@ function composedFor(query: PageQuery): ComposedQuery {
 export interface PagesRead {
   readonly rows: readonly Page[]
 }
+
+/**
+ * Asking this package's queries of *some* store, rather than of the one below.
+ *
+ * `getPages` binds these queries to `@shared/pages-query/ask` — the remote half, which answers
+ * `400: '<page type>' names no page type the index holds` for every page type this package reads.
+ * A reader that needs the checkout the pages actually stand in takes one of these instead, states
+ * the query whole through the local client, and hands the rows back through `pageOfRow` — this
+ * package's own reducer — so what a row means is decided here either way and only where the answer
+ * comes from changes.
+ */
+export type AskPages = (query: PageQuery) => Promise<PagesRead>
 
 export async function getPages(query: PageQuery): Promise<PagesRead> {
   const asked = await askComposed(composedFor(query))

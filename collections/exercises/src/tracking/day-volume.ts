@@ -1,5 +1,5 @@
 import { fieldBool, fieldNum, fieldStr } from "../cli/lib/fields"
-import { getPages } from "../pages/access"
+import { type AskPages, getPages } from "../pages/access"
 import type { Page } from "../pages/page"
 import { computeSessionVolume, type VolumeSetInput } from "./volume"
 
@@ -26,8 +26,8 @@ export function toVolumeInputs(
   })
 }
 
-export async function loadClientBodyweight(): Promise<number> {
-  const profiles = await getPages({
+export async function loadClientBodyweightWith(ask: AskPages): Promise<number> {
+  const profiles = await ask({
     pageTypeSlug: "client-profile",
     select: ["id", "bodyweight"],
   })
@@ -39,8 +39,16 @@ export async function loadClientBodyweight(): Promise<number> {
   return bodyweight
 }
 
-export async function loadSessionVolume(sessionSlug: string, bodyweight: number): Promise<number> {
-  const setLogs = await getPages({
+export function loadClientBodyweight(): Promise<number> {
+  return loadClientBodyweightWith(getPages)
+}
+
+export async function loadSessionVolumeWith(
+  ask: AskPages,
+  sessionSlug: string,
+  bodyweight: number
+): Promise<number> {
+  const setLogs = await ask({
     pageTypeSlug: "set-log",
     where: [{ key: "sessionSlug", eq: sessionSlug }],
   })
@@ -53,7 +61,7 @@ export async function loadSessionVolume(sessionSlug: string, bodyweight: number)
   ]
   const loadByExerciseSlug = new Map<string, ExerciseLoad>()
   if (exerciseSlugs.length > 0) {
-    const exercises = await getPages({
+    const exercises = await ask({
       pageTypeSlug: "exercise",
       where: [{ key: "slug", in: exerciseSlugs }],
       select: ["id", "slug", "loadFactor", "implementCount"],
@@ -69,9 +77,21 @@ export async function loadSessionVolume(sessionSlug: string, bodyweight: number)
   return computeSessionVolume(toVolumeInputs(setLogs.rows, loadByExerciseSlug), bodyweight)
 }
 
-export async function loadDayVolume(dayStr: string): Promise<number> {
-  const bodyweight = await loadClientBodyweight()
-  const sessions = await getPages({
+export function loadSessionVolume(sessionSlug: string, bodyweight: number): Promise<number> {
+  return loadSessionVolumeWith(getPages, sessionSlug, bodyweight)
+}
+
+/**
+ * A day's strength volume, read of whichever store the caller asks of.
+ *
+ * The day the points recompute wants is read out of the checkout, not out of the remote index, so
+ * the caller hands in the ask rather than this file reaching for one. Reaching for `getPages` here
+ * is what made the recompute die on `400: 'client-profile' names no page type the index holds`
+ * before the first figure of the night was computed.
+ */
+export async function loadDayVolumeWith(ask: AskPages, dayStr: string): Promise<number> {
+  const bodyweight = await loadClientBodyweightWith(ask)
+  const sessions = await ask({
     pageTypeSlug: "workout-session",
     where: [{ key: "date", eq: dayStr }],
     select: ["id", "slug"],
@@ -79,7 +99,7 @@ export async function loadDayVolume(dayStr: string): Promise<number> {
   let total = 0
   for (const session of sessions.rows) {
     if (session.slug === null) continue
-    total += await loadSessionVolume(session.slug, bodyweight)
+    total += await loadSessionVolumeWith(ask, session.slug, bodyweight)
   }
   return total
 }
