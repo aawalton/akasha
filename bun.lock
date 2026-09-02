@@ -2884,30 +2884,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-items-addon": {
-      "name": "@temper/game-items-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/design-tokens": "workspace:*",
-        "@akasha/temper-hud-window": "workspace:*",
-        "@akasha/temper-narrow": "workspace:*",
-        "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/temper-skill-morphs": "workspace:*",
-        "@akasha/temper-trading-post": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters-capture-addon": "workspace:*",
-        "@temper/game-items-core": "workspace:*",
-        "@temper/game-items-filters-addon": "workspace:*",
-        "@temper/game-items-filters-core": "workspace:*",
-        "@temper/game-items-rules-core": "workspace:*",
-        "@temper/game-items-rules-eval": "workspace:*",
-        "@temper/game-items-rules-routing-core": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/game-items-core": {
       "name": "@temper/game-items-core",
       "version": "0.1.0",
@@ -4646,8 +4622,6 @@
     "@temper/game-completion": ["@temper/game-completion@workspace:temper/game-completion"],
 
     "@temper/game-crafting-addon": ["@temper/game-crafting-addon@workspace:temper/game-crafting-addon"],
-
-    "@temper/game-items-addon": ["@temper/game-items-addon@workspace:temper/game-items-addon"],
 
     "@temper/game-items-core": ["@temper/game-items-core@workspace:temper/game-items-core"],
 
