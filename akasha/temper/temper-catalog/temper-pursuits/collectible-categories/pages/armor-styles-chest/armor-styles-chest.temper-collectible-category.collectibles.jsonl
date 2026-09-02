@@ -1,0 +1,853 @@
+{"id":"01a0616b-c5b4-7399-9b77-684fddbf2648","esoCollectibleId":3939,"collectibleName":"Abah's Watch Cuirass"}
+{"id":"01a0616b-c5b4-7d01-a37a-025a7d7c6766","esoCollectibleId":3963,"collectibleName":"Abah's Watch Jack"}
+{"id":"01a0616b-c5b4-7846-9f99-d0825c0991f0","esoCollectibleId":3946,"collectibleName":"Abah's Watch Jerkin"}
+{"id":"01a0616b-c5b4-792f-b201-2768d42f842f","esoCollectibleId":3953,"collectibleName":"Abah's Watch Robe"}
+{"id":"01a0616b-c5b4-7a89-bc4f-11f6ec27cf0b","esoCollectibleId":6165,"collectibleName":"Abnur Tharn's Jerkin"}
+{"id":"01a0616b-c5b4-71e2-bf7f-0868a10ef4cf","esoCollectibleId":2955,"collectibleName":"Akaviri Cuirass"}
+{"id":"01a0616b-c5b4-7388-80cd-ad7372bc6f5a","esoCollectibleId":2940,"collectibleName":"Akaviri Jack"}
+{"id":"01a0616b-c5b4-794b-b81e-49514dc5b9ec","esoCollectibleId":2947,"collectibleName":"Akaviri Jerkin"}
+{"id":"01a0616b-c5b4-78f7-9cb8-2d2224accaa3","esoCollectibleId":8742,"collectibleName":"Akaviri Potentate Cuirass"}
+{"id":"01a0616b-c5b4-72a0-aff5-1fb74ffce2ec","esoCollectibleId":2954,"collectibleName":"Akaviri Robe"}
+{"id":"01a0616b-c5b4-73bc-a4ad-06235b18b7aa","esoCollectibleId":3608,"collectibleName":"Aldmeri Cuirass"}
+{"id":"01a0616b-c5b4-7684-a1e5-71f077149d21","esoCollectibleId":12383,"collectibleName":"Aldmeri Eagle Knight Cuirass"}
+{"id":"01a0616b-c5b4-7ca2-8175-e4c047de770e","esoCollectibleId":3647,"collectibleName":"Aldmeri Jack"}
+{"id":"01a0616b-c5b4-70cc-9c3b-4b392a66fca5","esoCollectibleId":3632,"collectibleName":"Aldmeri Jerkin"}
+{"id":"01a0616b-c5b4-7167-a9a2-4f51277b3a14","esoCollectibleId":3639,"collectibleName":"Aldmeri Robe"}
+{"id":"01a0616b-c5b4-76d8-b981-c1062cb33086","esoCollectibleId":12306,"collectibleName":"Alessian Rebel Jack"}
+{"id":"01a0616b-c5b4-76f8-8579-f16f45dfb7ac","esoCollectibleId":11851,"collectibleName":"All-Maker Cuirass"}
+{"id":"01a0616b-c5b4-7553-b807-3f4de65b8597","esoCollectibleId":8389,"collectibleName":"Ancestral Akaviri Cuirass"}
+{"id":"01a0616b-c5b4-7c26-ab6c-3ac532746785","esoCollectibleId":8396,"collectibleName":"Ancestral Akaviri Jack"}
+{"id":"01a0616b-c5b4-7568-8ab8-39e69eb3bfa8","esoCollectibleId":8403,"collectibleName":"Ancestral Akaviri Jerkin"}
+{"id":"01a0616b-c5b4-7bb4-98d6-51983861b07f","esoCollectibleId":8410,"collectibleName":"Ancestral Akaviri Robe"}
+{"id":"01a0616b-c5b4-71f9-aa11-c420d7ff5e2b","esoCollectibleId":8421,"collectibleName":"Ancestral Breton Cuirass"}
+{"id":"01a0616b-c5b4-7e75-9066-124ed33da6ba","esoCollectibleId":8428,"collectibleName":"Ancestral Breton Jack"}
+{"id":"01a0616b-c5b4-71a1-8b26-2b3469bf8415","esoCollectibleId":8435,"collectibleName":"Ancestral Breton Jerkin"}
+{"id":"01a0616b-c5b4-7051-8e3d-889a1d783ee2","esoCollectibleId":8442,"collectibleName":"Ancestral Breton Robe"}
+{"id":"01a0616b-c5b4-7c5d-95ab-977767e21c5e","esoCollectibleId":7933,"collectibleName":"Ancestral High Elf Cuirass"}
+{"id":"01a0616b-c5b4-775e-a1ea-d3a54966fe96","esoCollectibleId":7940,"collectibleName":"Ancestral High Elf Jack"}
+{"id":"01a0616b-c5b4-71ff-b7d4-76a5341b1bf7","esoCollectibleId":7947,"collectibleName":"Ancestral High Elf Jerkin"}
+{"id":"01a0616b-c5b4-7485-9a49-d3c9de024e08","esoCollectibleId":7954,"collectibleName":"Ancestral High Elf Robe"}
+{"id":"01a0616b-c5b4-7d41-a82e-6ddc59e8b15a","esoCollectibleId":7898,"collectibleName":"Ancestral Nord Cuirass"}
+{"id":"01a0616b-c5b4-7bb4-8da6-fafb5a4d2bd0","esoCollectibleId":7905,"collectibleName":"Ancestral Nord Jack"}
+{"id":"01a0616b-c5b4-7bd1-b3cf-293fdc1c5a7e","esoCollectibleId":7912,"collectibleName":"Ancestral Nord Jerkin"}
+{"id":"01a0616b-c5b4-7442-a162-ef9126a6eac2","esoCollectibleId":7919,"collectibleName":"Ancestral Nord Robe"}
+{"id":"01a0616b-c5b4-79b8-a105-1a3814b80f3d","esoCollectibleId":7965,"collectibleName":"Ancestral Orc Cuirass"}
+{"id":"01a0616b-c5b4-7434-bc57-7b03ffe31971","esoCollectibleId":7972,"collectibleName":"Ancestral Orc Jack"}
+{"id":"01a0616b-c5b4-7c48-964f-00b65993aebf","esoCollectibleId":7979,"collectibleName":"Ancestral Orc Jerkin"}
+{"id":"01a0616b-c5b4-7734-8961-1a2df10ef4ee","esoCollectibleId":7986,"collectibleName":"Ancestral Orc Robe"}
+{"id":"01a0616b-c5b4-789b-b35e-2eea95a58c33","esoCollectibleId":8475,"collectibleName":"Ancestral Reach Cuirass"}
+{"id":"01a0616b-c5b4-7c61-b08d-456d9987ebc1","esoCollectibleId":8482,"collectibleName":"Ancestral Reach Jack"}
+{"id":"01a0616b-c5b4-7d8c-bf1e-3029f579c273","esoCollectibleId":8489,"collectibleName":"Ancestral Reach Jerkin"}
+{"id":"01a0616b-c5b4-700c-bfc3-b0a9eb215713","esoCollectibleId":8496,"collectibleName":"Ancestral Reach Robe"}
+{"id":"01a0616b-c5b4-7d26-a948-6a1a92cd009b","esoCollectibleId":9091,"collectibleName":"Ancient Daedric Cuirass"}
+{"id":"01a0616b-c5b4-7056-8f23-99ff046290de","esoCollectibleId":9098,"collectibleName":"Ancient Daedric Jack"}
+{"id":"01a0616b-c5b4-71b8-a6d5-7f53e92f53f6","esoCollectibleId":9105,"collectibleName":"Ancient Daedric Jerkin"}
+{"id":"01a0616b-c5b4-765b-88b7-ed5a680d70c0","esoCollectibleId":9112,"collectibleName":"Ancient Daedric Robe"}
+{"id":"01a0616b-c5b4-7427-9d19-944d772444f2","esoCollectibleId":6802,"collectibleName":"Ancient Dragon Hunter Jack"}
+{"id":"01a0616b-c5b4-78e4-87dd-d51ef553354e","esoCollectibleId":2683,"collectibleName":"Ancient Elf Cuirass"}
+{"id":"01a0616b-c5b4-73e8-a2c9-71be5ece0037","esoCollectibleId":2690,"collectibleName":"Ancient Elf Jack"}
+{"id":"01a0616b-c5b4-7ab0-885c-94fe5084a89a","esoCollectibleId":2697,"collectibleName":"Ancient Elf Jerkin"}
+{"id":"01a0616b-c5b4-72e1-836f-46e36fc612d1","esoCollectibleId":2704,"collectibleName":"Ancient Elf Robe"}
+{"id":"01a0616b-c5b4-76ee-915e-a40d7c47a640","esoCollectibleId":12637,"collectibleName":"Ancient Mirrormoor Jerkin"}
+{"id":"01a0616b-c5b4-7262-a5f4-1721e94f91f5","esoCollectibleId":3466,"collectibleName":"Ancient Orc Cuirass"}
+{"id":"01a0616b-c5b4-7e14-b3ef-8ceecc237ed6","esoCollectibleId":3459,"collectibleName":"Ancient Orc Jack"}
+{"id":"01a0616b-c5b4-79de-ab94-0dd33ebed996","esoCollectibleId":3473,"collectibleName":"Ancient Orc Jerkin"}
+{"id":"01a0616b-c5b4-7e63-ac66-74c87fd0159d","esoCollectibleId":3480,"collectibleName":"Ancient Orc Robe"}
+{"id":"01a0616b-c5b4-7cd2-a2b5-30638c39e574","esoCollectibleId":6541,"collectibleName":"Anequina Cuirass"}
+{"id":"01a0616b-c5b4-7ada-a8df-05b49a367b8e","esoCollectibleId":6548,"collectibleName":"Anequina Jack"}
+{"id":"01a0616b-c5b4-7a13-92a8-85d7ec05aa9f","esoCollectibleId":6555,"collectibleName":"Anequina Jerkin"}
+{"id":"01a0616b-c5b4-7a6b-8657-f7815f2a2140","esoCollectibleId":6562,"collectibleName":"Anequina Robe"}
+{"id":"01a0616b-c5b4-7808-a780-65cab3179df1","esoCollectibleId":9592,"collectibleName":"Annihilarch's Chosen Cuirass"}
+{"id":"01a0616b-c5b4-721a-9afa-ad26dc55020b","esoCollectibleId":9599,"collectibleName":"Annihilarch's Chosen Jack"}
+{"id":"01a0616b-c5b4-7fe2-b0bb-64a5f45efded","esoCollectibleId":9606,"collectibleName":"Annihilarch's Chosen Jerkin"}
+{"id":"01a0616b-c5b4-7c7b-a6b8-00998361e809","esoCollectibleId":9613,"collectibleName":"Annihilarch's Chosen Robe"}
+{"id":"01a0616b-c5b4-790f-a445-3fc9aa48cca5","esoCollectibleId":11595,"collectibleName":"Apocrypha Expedition Jack"}
+{"id":"01a0616b-c5b4-7d2f-97dd-3d30a3c390fd","esoCollectibleId":4947,"collectibleName":"Apostle Cuirass"}
+{"id":"01a0616b-c5b4-7d00-9143-f5a39ef214f7","esoCollectibleId":4940,"collectibleName":"Apostle Jack"}
+{"id":"01a0616b-c5b4-7ca1-845c-b8ac6ee0e7d1","esoCollectibleId":4932,"collectibleName":"Apostle Jerkin"}
+{"id":"01a0616b-c5b4-7fad-8aa8-928d88297440","esoCollectibleId":4939,"collectibleName":"Apostle Robe"}
+{"id":"01a0616b-c5b4-705a-bd9b-3eaf46c7ba18","esoCollectibleId":2541,"collectibleName":"Argonian Cuirass 1"}
+{"id":"01a0616b-c5b4-7524-b511-de6c8ee10b64","esoCollectibleId":2547,"collectibleName":"Argonian Cuirass 2"}
+{"id":"01a0616b-c5b4-77f8-9bb5-90fcac04f234","esoCollectibleId":2554,"collectibleName":"Argonian Cuirass 3"}
+{"id":"01a0616b-c5b4-7124-9ab5-03fc23d03b64","esoCollectibleId":2561,"collectibleName":"Argonian Cuirass 4"}
+{"id":"01a0616b-c5b4-7f89-8f69-44d41e6f7fb0","esoCollectibleId":2571,"collectibleName":"Argonian Jack 1"}
+{"id":"01a0616b-c5b4-7986-8a8b-17db8d96a1e8","esoCollectibleId":2608,"collectibleName":"Argonian Jack 2"}
+{"id":"01a0616b-c5b4-710c-a8d0-66cc489e22cf","esoCollectibleId":2615,"collectibleName":"Argonian Jack 3"}
+{"id":"01a0616b-c5b4-7fc6-8610-645918e47b32","esoCollectibleId":2622,"collectibleName":"Argonian Jack 4"}
+{"id":"01a0616b-c5b4-7139-a2ef-038f275ad66a","esoCollectibleId":2577,"collectibleName":"Argonian Jerkin 1"}
+{"id":"01a0616b-c5b4-75b3-ace0-a293a93caeec","esoCollectibleId":2584,"collectibleName":"Argonian Jerkin 2"}
+{"id":"01a0616b-c5b4-7d56-8fa6-fbd002f1e447","esoCollectibleId":2592,"collectibleName":"Argonian Jerkin 3"}
+{"id":"01a0616b-c5b4-77fd-87a7-f0059bfa5269","esoCollectibleId":2600,"collectibleName":"Argonian Jerkin 4"}
+{"id":"01a0616b-c5b4-7f17-9404-1be5e01f8c65","esoCollectibleId":2583,"collectibleName":"Argonian Robe 1"}
+{"id":"01a0616b-c5b4-72c3-9ba6-39199cbc5d9a","esoCollectibleId":2591,"collectibleName":"Argonian Robe 2"}
+{"id":"01a0616b-c5b4-74ca-a537-9f2fdc0f1a71","esoCollectibleId":2599,"collectibleName":"Argonian Robe 3"}
+{"id":"01a0616b-c5b4-74b5-8d2c-ae3d043f638e","esoCollectibleId":2607,"collectibleName":"Argonian Robe 4"}
+{"id":"01a0616b-c5b4-71cd-81fb-86b065bda9e9","esoCollectibleId":12578,"collectibleName":"Arkay Unending Cycle Cuirass"}
+{"id":"01a0616b-c5b4-70e1-804a-f28a289f865e","esoCollectibleId":8588,"collectibleName":"Arkthzand Armory Cuirass"}
+{"id":"01a0616b-c5b4-7149-8661-b8d36a86122c","esoCollectibleId":8595,"collectibleName":"Arkthzand Armory Jack"}
+{"id":"01a0616b-c5b4-7af6-a09a-46b75413ad1d","esoCollectibleId":8602,"collectibleName":"Arkthzand Armory Jerkin"}
+{"id":"01a0616b-c5b4-78f5-a80f-c2ddb7d74022","esoCollectibleId":8609,"collectibleName":"Arkthzand Armory Robe"}
+{"id":"01a0616b-c5b4-765f-99ce-abb5f1a12730","esoCollectibleId":9763,"collectibleName":"Ascendant Knight Cuirass"}
+{"id":"01a0616b-c5b4-7ab0-9622-cbc232c09efb","esoCollectibleId":9945,"collectibleName":"Ascendant Order Cuirass"}
+{"id":"01a0616b-c5b4-77f6-9119-799ce1cc85ab","esoCollectibleId":9952,"collectibleName":"Ascendant Order Jack"}
+{"id":"01a0616b-c5b4-75d9-bc5f-8d551b73fdea","esoCollectibleId":9959,"collectibleName":"Ascendant Order Jerkin"}
+{"id":"01a0616b-c5b4-7c05-b26c-5c66ed82d215","esoCollectibleId":9966,"collectibleName":"Ascendant Order Robe"}
+{"id":"01a0616b-c5b4-77a2-b1cb-3ce4b150bdc1","esoCollectibleId":4527,"collectibleName":"Ashlander Cuirass"}
+{"id":"01a0616b-c5b4-78ae-8cfa-b48a4a03a01e","esoCollectibleId":4520,"collectibleName":"Ashlander Jack"}
+{"id":"01a0616b-c5b4-7fea-ad13-cbaafa6ee7eb","esoCollectibleId":4510,"collectibleName":"Ashlander Jerkin"}
+{"id":"01a0616b-c5b4-78e3-be0b-d37028ab4494","esoCollectibleId":4519,"collectibleName":"Ashlander Robe"}
+{"id":"01a0616b-c5b4-7e8b-8f41-d8c47f3f71a8","esoCollectibleId":3414,"collectibleName":"Assassins League Cuirass"}
+{"id":"01a0616b-c5b4-7f00-820f-5f4c1fb97368","esoCollectibleId":3421,"collectibleName":"Assassins League Jack"}
+{"id":"01a0616b-c5b4-7551-975f-23dce17cf547","esoCollectibleId":3407,"collectibleName":"Assassins League Jerkin"}
+{"id":"01a0616b-c5b4-72a4-bcd1-9f3f5d433dfe","esoCollectibleId":3413,"collectibleName":"Assassins League Robe"}
+{"id":"01a0616b-c5b4-7aae-a621-768be95aefa5","esoCollectibleId":12188,"collectibleName":"Ayleid Lich Jerkin"}
+{"id":"01a0616b-c5b4-796e-b3bb-86a071264fbc","esoCollectibleId":11027,"collectibleName":"Balfieran Sentinel Cuirass"}
+{"id":"01a0616b-c5b4-764c-b77c-d6a3f7fe72fe","esoCollectibleId":2398,"collectibleName":"Barbaric Cuirass"}
+{"id":"01a0616b-c5b4-75ef-9c28-11bac63e5935","esoCollectibleId":2405,"collectibleName":"Barbaric Jack"}
+{"id":"01a0616b-c5b4-7ae3-9795-22c7c814594a","esoCollectibleId":2412,"collectibleName":"Barbaric Jerkin"}
+{"id":"01a0616b-c5b4-7ad2-be08-0e1f1fccbacb","esoCollectibleId":2419,"collectibleName":"Barbaric Robe"}
+{"id":"01a0616b-c5b4-77d0-a9fb-aa7196d06eb7","esoCollectibleId":11694,"collectibleName":"Basalt-Blood Warrior Jack"}
+{"id":"01a0616b-c5b4-724c-998e-09ab920df3fe","esoCollectibleId":14276,"collectibleName":"Battlefield Provisioner Apron"}
+{"id":"01a0616b-c5b4-7cf6-bb25-aa0bf7b741e7","esoCollectibleId":6728,"collectibleName":"Battleground Runner Jack"}
+{"id":"01a0616b-c5b4-7177-b318-09876ca2d3b9","esoCollectibleId":9746,"collectibleName":"Black Drake Clanwrap Jerkin"}
+{"id":"01a0616b-c5b4-7f1b-9496-832940d06a15","esoCollectibleId":9130,"collectibleName":"Black Fin Legion Cuirass"}
+{"id":"01a0616b-c5b4-77c8-afc3-53ad600563d1","esoCollectibleId":9137,"collectibleName":"Black Fin Legion Jack"}
+{"id":"01a0616b-c5b4-7c6f-9077-0f6ca9c24c50","esoCollectibleId":9144,"collectibleName":"Black Fin Legion Jerkin"}
+{"id":"01a0616b-c5b4-7577-bb9b-d7efb6aadc32","esoCollectibleId":9151,"collectibleName":"Black Fin Legion Robe"}
+{"id":"01a0616b-c5b4-7f2c-be27-180ea532e24c","esoCollectibleId":6981,"collectibleName":"Black Kiergo Brigand Jerkin"}
+{"id":"01a0616b-c5b4-73f0-ae48-1a4739765ff7","esoCollectibleId":13309,"collectibleName":"Black Soul Gem Cuirass"}
+{"id":"01a0616b-c5b4-7ab7-b6fc-f634db42fc93","esoCollectibleId":13316,"collectibleName":"Black Soul Gem Jack"}
+{"id":"01a0616b-c5b4-71b3-bee7-a98eb06badb2","esoCollectibleId":13323,"collectibleName":"Black Soul Gem Jerkin"}
+{"id":"01a0616b-c5b4-774e-a7e2-f17401fcf4b5","esoCollectibleId":13330,"collectibleName":"Black Soul Gem Robe"}
+{"id":"01a0616b-c5b4-7c7c-be88-50e9879313f3","esoCollectibleId":7700,"collectibleName":"Blackreach Vanguard Cuirass"}
+{"id":"01a0616b-c5b4-70a8-85c8-25cdb3de436b","esoCollectibleId":7707,"collectibleName":"Blackreach Vanguard Jack"}
+{"id":"01a0616b-c5b4-7f38-96f7-2f3f1b80e499","esoCollectibleId":7714,"collectibleName":"Blackreach Vanguard Jerkin"}
+{"id":"01a0616b-c5b4-7d71-b75d-a16442ec46d2","esoCollectibleId":7721,"collectibleName":"Blackreach Vanguard Robe"}
+{"id":"01a0616b-c5b4-7916-a129-5c1c8f142d6b","esoCollectibleId":10966,"collectibleName":"Blessed Inheritor Cuirass"}
+{"id":"01a0616b-c5b4-776d-a772-83b8f3809226","esoCollectibleId":10973,"collectibleName":"Blessed Inheritor Jack"}
+{"id":"01a0616b-c5b4-7e9a-bab9-1761f8082c27","esoCollectibleId":10980,"collectibleName":"Blessed Inheritor Jerkin"}
+{"id":"01a0616b-c5b4-7806-b8a2-47623cb5a814","esoCollectibleId":10987,"collectibleName":"Blessed Inheritor Robe"}
+{"id":"01a0616b-c5b4-7d52-bccf-f9e96ed31042","esoCollectibleId":11963,"collectibleName":"Blind Path Cultist Cuirass"}
+{"id":"01a0616b-c5b4-7020-9b80-59a42147b08d","esoCollectibleId":11970,"collectibleName":"Blind Path Cultist Jack"}
+{"id":"01a0616b-c5b4-7614-b406-30b918d78861","esoCollectibleId":11977,"collectibleName":"Blind Path Cultist Jerkin"}
+{"id":"01a0616b-c5b4-7028-9c42-e2050c264a5b","esoCollectibleId":11984,"collectibleName":"Blind Path Cultist Robe"}
+{"id":"01a0616b-c5b4-7c46-9820-fca1146a10f8","esoCollectibleId":4580,"collectibleName":"Bloodforge Cuirass"}
+{"id":"01a0616b-c5b4-7791-bba1-313df5643e43","esoCollectibleId":4588,"collectibleName":"Bloodforge Jack"}
+{"id":"01a0616b-c5b4-7013-8023-2b6da49f01e6","esoCollectibleId":4574,"collectibleName":"Bloodforge Jerkin"}
+{"id":"01a0616b-c5b4-7f5f-bd2c-923baa6af50a","esoCollectibleId":4594,"collectibleName":"Bloodforge Robe"}
+{"id":"01a0616b-c5b4-74d5-b575-4b0b6d8db1c3","esoCollectibleId":10898,"collectibleName":"Bonemold Cuirass"}
+{"id":"01a0616b-c5b4-70d0-91db-785128518b4d","esoCollectibleId":1531,"collectibleName":"Breton Cuirass 1"}
+{"id":"01a0616b-c5b4-7be2-8d6e-4ef3bd098952","esoCollectibleId":1536,"collectibleName":"Breton Cuirass 2"}
+{"id":"01a0616b-c5b4-7071-9c6c-f1d22850b65e","esoCollectibleId":1541,"collectibleName":"Breton Cuirass 3"}
+{"id":"01a0616b-c5b4-7647-ae85-f31ef1585474","esoCollectibleId":1547,"collectibleName":"Breton Cuirass 4"}
+{"id":"01a0616b-c5b4-71f1-bd73-5fc4aad4306f","esoCollectibleId":1509,"collectibleName":"Breton Jack 1"}
+{"id":"01a0616b-c5b4-7fc2-b098-e9ca5a36d7d3","esoCollectibleId":1514,"collectibleName":"Breton Jack 2"}
+{"id":"01a0616b-c5b4-7191-8f0a-cdf78e9591b0","esoCollectibleId":1519,"collectibleName":"Breton Jack 3"}
+{"id":"01a0616b-c5b4-70f9-a2dc-cf92850c3310","esoCollectibleId":1525,"collectibleName":"Breton Jack 4"}
+{"id":"01a0616b-c5b4-7288-84ab-cb1f8a03b723","esoCollectibleId":1866,"collectibleName":"Breton Jerkin 1"}
+{"id":"01a0616b-c5b4-7b1a-b174-2cf0383a8a03","esoCollectibleId":1867,"collectibleName":"Breton Jerkin 2"}
+{"id":"01a0616b-c5b4-7d96-937c-ba3fbf7c958d","esoCollectibleId":1868,"collectibleName":"Breton Jerkin 3"}
+{"id":"01a0616b-c5b4-7210-b20a-41c28f60e1a3","esoCollectibleId":1869,"collectibleName":"Breton Jerkin 4"}
+{"id":"01a0616b-c5b4-7145-91d1-a212530b66a9","esoCollectibleId":1488,"collectibleName":"Breton Robe 1"}
+{"id":"01a0616b-c5b4-7d13-9384-4a9155f61e64","esoCollectibleId":1492,"collectibleName":"Breton Robe 2"}
+{"id":"01a0616b-c5b4-7bea-9979-1fbd4bab9118","esoCollectibleId":1497,"collectibleName":"Breton Robe 3"}
+{"id":"01a0616b-c5b4-78cb-bca5-c46908a2e1a3","esoCollectibleId":1503,"collectibleName":"Breton Robe 4"}
+{"id":"01a0616b-c5b4-7373-9d9b-10e573e8c5ce","esoCollectibleId":11810,"collectibleName":"Bristleback Hunter Jack"}
+{"id":"01a0616b-c5b4-7f2e-96c5-e543314096e8","esoCollectibleId":13373,"collectibleName":"Brutal Mercenary Cuirass"}
+{"id":"01a0616b-c5b4-78c8-bc13-102da1916c84","esoCollectibleId":4481,"collectibleName":"Buoyant Armiger Cuirass"}
+{"id":"01a0616b-c5b4-7977-bdd2-fe5eaf8668af","esoCollectibleId":4474,"collectibleName":"Buoyant Armiger Jack"}
+{"id":"01a0616b-c5b4-74bf-943c-02b5ab457fe6","esoCollectibleId":4467,"collectibleName":"Buoyant Armiger Jerkin"}
+{"id":"01a0616b-c5b4-714d-92ac-2a450e624002","esoCollectibleId":4489,"collectibleName":"Buoyant Armiger Robe"}
+{"id":"01a0616b-c5b4-722c-ad7c-560dcb4f531f","esoCollectibleId":6239,"collectibleName":"Cadwell's \"Cuirass\""}
+{"id":"01a0616b-c5b4-73ee-a366-61d37675944a","esoCollectibleId":3341,"collectibleName":"Celestial Cuirass"}
+{"id":"01a0616b-c5b4-7562-83de-74a6ec8a5eb6","esoCollectibleId":3348,"collectibleName":"Celestial Jack"}
+{"id":"01a0616b-c5b4-7815-9ae5-4997ea1fb7ae","esoCollectibleId":3355,"collectibleName":"Celestial Jerkin"}
+{"id":"01a0616b-c5b4-7bf0-9d80-1f385b7d1537","esoCollectibleId":3362,"collectibleName":"Celestial Robe"}
+{"id":"01a0616b-c5b4-7e44-8682-f8574225c346","esoCollectibleId":13215,"collectibleName":"Chaplain of the Worm Cuirass"}
+{"id":"01a0616b-c5b4-7d6f-96c6-720c8c2af3ac","esoCollectibleId":14293,"collectibleName":"Charming Rogue Cuirass"}
+{"id":"01a0616b-c5b4-74f1-a548-10b975aa1e72","esoCollectibleId":14300,"collectibleName":"Charming Rogue Jack"}
+{"id":"01a0616b-c5b4-7250-be34-0c90ddac294b","esoCollectibleId":14307,"collectibleName":"Charming Rogue Jerkin"}
+{"id":"01a0616b-c5b4-7842-a2db-9bc4bd7881a1","esoCollectibleId":8081,"collectibleName":"Chitinous Jack"}
+{"id":"01a0616b-c5b4-7f1c-949d-d8b419ae941b","esoCollectibleId":14208,"collectibleName":"Chosen of Anu Jack"}
+{"id":"01a0616b-c5b4-7aeb-a48a-b6273d0e6c3b","esoCollectibleId":14215,"collectibleName":"Chosen of Padomay Cuirass"}
+{"id":"01a0616b-c5b4-7d0c-a1c8-78a7a790ed75","esoCollectibleId":11261,"collectibleName":"Clan Dreamcarver Cuirass"}
+{"id":"01a0616b-c5b4-7968-84a6-6673889e7af4","esoCollectibleId":11268,"collectibleName":"Clan Dreamcarver Jack"}
+{"id":"01a0616b-c5b4-7f46-8311-0f67a247a0ed","esoCollectibleId":11275,"collectibleName":"Clan Dreamcarver Jerkin"}
+{"id":"01a0616b-c5b5-7955-bd8b-7216e89ee6a4","esoCollectibleId":11282,"collectibleName":"Clan Dreamcarver Robe"}
+{"id":"01a0616b-c5b5-7951-a048-f2b3356bfb46","esoCollectibleId":10727,"collectibleName":"Claw-Dance Acolyte Jack"}
+{"id":"01a0616b-c5b5-7657-b376-b833dc711737","esoCollectibleId":13150,"collectibleName":"Coldharbour Dominator Cuirass"}
+{"id":"01a0616b-c5b5-76e9-8f4f-90bc80304e93","esoCollectibleId":13157,"collectibleName":"Coldharbour Dominator Jack"}
+{"id":"01a0616b-c5b5-772a-ae53-2b7942971b4b","esoCollectibleId":13164,"collectibleName":"Coldharbour Dominator Jerkin"}
+{"id":"01a0616b-c5b5-7654-9625-bba4a4783483","esoCollectibleId":13171,"collectibleName":"Coldharbour Dominator Robe"}
+{"id":"01a0616b-c5b5-766f-a14c-af6a06d3c38c","esoCollectibleId":6331,"collectibleName":"Coldsnap Goblin Cuirass"}
+{"id":"01a0616b-c5b5-7af4-b999-05c9b3f1a325","esoCollectibleId":6338,"collectibleName":"Coldsnap Goblin Jack"}
+{"id":"01a0616b-c5b5-7669-93fb-b3fab4fa476b","esoCollectibleId":6345,"collectibleName":"Coldsnap Goblin Jerkin"}
+{"id":"01a0616b-c5b5-73f8-987a-c8359f0669ef","esoCollectibleId":6352,"collectibleName":"Coldsnap Goblin Robe"}
+{"id":"01a0616b-c5b5-7a7d-a40c-730f0a31e7d2","esoCollectibleId":12220,"collectibleName":"Companion Revelry Cuirass"}
+{"id":"01a0616b-c5b5-7aa2-b3ad-9e5cecf3dc18","esoCollectibleId":9307,"collectibleName":"Crested Viper Cuirass"}
+{"id":"01a0616b-c5b5-7a38-b0dc-2b4a1974a9af","esoCollectibleId":9472,"collectibleName":"Crimson Oath Cuirass"}
+{"id":"01a0616b-c5b5-77fb-8877-31719db99a78","esoCollectibleId":9479,"collectibleName":"Crimson Oath Jack"}
+{"id":"01a0616b-c5b5-7dc6-8853-1526386db6e7","esoCollectibleId":9486,"collectibleName":"Crimson Oath Jerkin"}
+{"id":"01a0616b-c5b5-7f39-887c-1ae06856fcb7","esoCollectibleId":9493,"collectibleName":"Crimson Oath Robe"}
+{"id":"01a0616b-c5b5-72f3-83bf-ded9e6c9bee6","esoCollectibleId":11588,"collectibleName":"Crowborne Hunter Jerkin"}
+{"id":"01a0616b-c5b5-7633-a0b8-6d169dd12425","esoCollectibleId":11414,"collectibleName":"Cryptcanon Vestments"}
+{"id":"01a0616b-c5b5-7345-9820-29cbf1cbf648","esoCollectibleId":11565,"collectibleName":"Cumberland Cavalier Cuirass"}
+{"id":"01a0616b-c5b5-7159-b8cd-4366cca663ad","esoCollectibleId":2526,"collectibleName":"Daedric Cuirass"}
+{"id":"01a0616b-c5b5-792a-bca1-7748eaa51695","esoCollectibleId":2519,"collectibleName":"Daedric Jack"}
+{"id":"01a0616b-c5b5-708b-862c-7762ceb37357","esoCollectibleId":1850,"collectibleName":"Daedric Jerkin"}
+{"id":"01a0616b-c5b5-7218-a7c1-2b5508f52f03","esoCollectibleId":1808,"collectibleName":"Daedric Robe"}
+{"id":"01a0616b-c5b5-7425-9754-e59e663a33be","esoCollectibleId":3664,"collectibleName":"Daggerfall Cuirass"}
+{"id":"01a0616b-c5b5-78f0-9387-ce468dec7074","esoCollectibleId":3640,"collectibleName":"Daggerfall Jack"}
+{"id":"01a0616b-c5b5-7337-b543-1bd5ca8f2f39","esoCollectibleId":3624,"collectibleName":"Daggerfall Jerkin"}
+{"id":"01a0616b-c5b5-71f7-bb8b-d1e1687d0049","esoCollectibleId":3631,"collectibleName":"Daggerfall Robe"}
+{"id":"01a0616b-c5b5-7463-96d8-be1b93185181","esoCollectibleId":13979,"collectibleName":"Dapper Daredevil Jerkin"}
+{"id":"01a0616b-c5b5-78d1-8e0a-d0b7c08b294c","esoCollectibleId":3745,"collectibleName":"Dark Brotherhood Cuirass"}
+{"id":"01a0616b-c5b5-763f-a96c-b747c6011ba8","esoCollectibleId":3739,"collectibleName":"Dark Brotherhood Jack"}
+{"id":"01a0616b-c5b5-7ac8-b446-d7ed17c28651","esoCollectibleId":3751,"collectibleName":"Dark Brotherhood Jerkin"}
+{"id":"01a0616b-c5b5-7bbc-b3ee-f8e19355c748","esoCollectibleId":3756,"collectibleName":"Dark Brotherhood Robe"}
+{"id":"01a0616b-c5b5-74a0-997e-d506c845df8f","esoCollectibleId":2165,"collectibleName":"Dark Elf Cuirass 1"}
+{"id":"01a0616b-c5b5-787f-a7ce-bf6c27563fb2","esoCollectibleId":2158,"collectibleName":"Dark Elf Cuirass 2"}
+{"id":"01a0616b-c5b5-7cf7-a7c8-c47cbce1107c","esoCollectibleId":2131,"collectibleName":"Dark Elf Cuirass 3"}
+{"id":"01a0616b-c5b5-777f-b488-434de8632e13","esoCollectibleId":2091,"collectibleName":"Dark Elf Cuirass 4"}
+{"id":"01a0616b-c5b5-77e8-9400-4809ab9dbd52","esoCollectibleId":2151,"collectibleName":"Dark Elf Jack 1"}
+{"id":"01a0616b-c5b5-7ccc-b5c4-b4ba4f18f8eb","esoCollectibleId":2144,"collectibleName":"Dark Elf Jack 2"}
+{"id":"01a0616b-c5b5-7d6e-8b0f-5da50473f1e2","esoCollectibleId":2137,"collectibleName":"Dark Elf Jack 3"}
+{"id":"01a0616b-c5b5-7aa4-a888-3bf50c6905c4","esoCollectibleId":2076,"collectibleName":"Dark Elf Jack 4"}
+{"id":"01a0616b-c5b5-7165-9813-1b4309b24ee8","esoCollectibleId":2075,"collectibleName":"Dark Elf Jerkin 1"}
+{"id":"01a0616b-c5b5-76fc-b4f6-311639340915","esoCollectibleId":2090,"collectibleName":"Dark Elf Jerkin 2"}
+{"id":"01a0616b-c5b5-71f1-9a5c-be1d29c46fca","esoCollectibleId":2170,"collectibleName":"Dark Elf Jerkin 3"}
+{"id":"01a0616b-c5b5-7b0f-bbd8-7a3fd0b60b34","esoCollectibleId":2185,"collectibleName":"Dark Elf Jerkin 4"}
+{"id":"01a0616b-c5b5-77b2-9b7d-414e7827a813","esoCollectibleId":2069,"collectibleName":"Dark Elf Robe 1"}
+{"id":"01a0616b-c5b5-7631-91aa-1bae8ca0a095","esoCollectibleId":2083,"collectibleName":"Dark Elf Robe 2"}
+{"id":"01a0616b-c5b5-7a2d-8136-dccc27dbe770","esoCollectibleId":2177,"collectibleName":"Dark Elf Robe 3"}
+{"id":"01a0616b-c5b5-7988-a5a7-2af8ce1f0368","esoCollectibleId":2186,"collectibleName":"Dark Elf Robe 4"}
+{"id":"01a0616b-c5b5-77d2-b158-7ed59b1b752e","esoCollectibleId":12390,"collectibleName":"Dark Executioner Jack"}
+{"id":"01a0616b-c5b5-7c14-bd2c-cfd8dc9b56f5","esoCollectibleId":9038,"collectibleName":"Dawn's Avenger Cuirass"}
+{"id":"01a0616b-c5b5-78b5-84bd-1688c801443e","esoCollectibleId":11294,"collectibleName":"Dead Keeper Cuirass"}
+{"id":"01a0616b-c5b5-71eb-aa9c-fba8c2e76679","esoCollectibleId":11301,"collectibleName":"Dead Keeper Jack"}
+{"id":"01a0616b-c5b5-7ffd-b033-98a803833dae","esoCollectibleId":11308,"collectibleName":"Dead Keeper Jerkin"}
+{"id":"01a0616b-c5b5-7449-ba80-74af54cf61d2","esoCollectibleId":11315,"collectibleName":"Dead Keeper Robe"}
+{"id":"01a0616b-c5b5-74bb-946b-eb039040008a","esoCollectibleId":5939,"collectibleName":"Dead-Water Cuirass"}
+{"id":"01a0616b-c5b5-797f-bb56-b7f35b3a4c06","esoCollectibleId":5946,"collectibleName":"Dead-Water Jack"}
+{"id":"01a0616b-c5b5-7f8b-a845-906131fb11cd","esoCollectibleId":5953,"collectibleName":"Dead-Water Jerkin"}
+{"id":"01a0616b-c5b5-72af-86a3-ed859c87fef1","esoCollectibleId":5960,"collectibleName":"Dead-Water Robe"}
+{"id":"01a0616b-c5b5-75c6-9d2f-c040f36db056","esoCollectibleId":8770,"collectibleName":"Deadlands Gladiator Cuirass"}
+{"id":"01a0616b-c5b5-7049-a8fa-2cd96f7daf54","esoCollectibleId":8777,"collectibleName":"Deadlands Gladiator Jack"}
+{"id":"01a0616b-c5b5-75d5-bfae-32fd08049bcf","esoCollectibleId":8784,"collectibleName":"Deadlands Gladiator Jerkin"}
+{"id":"01a0616b-c5b5-72c3-abb2-aaf726562984","esoCollectibleId":8791,"collectibleName":"Deadlands Gladiator Robe"}
+{"id":"01a0616b-c5b5-77e2-9f26-1e5071324f87","esoCollectibleId":12401,"collectibleName":"Dibella's Exaltation Jack"}
+{"id":"01a0616b-c5b5-792c-840a-7e6c4af754e7","esoCollectibleId":5260,"collectibleName":"Divine Prosecution Cuirass"}
+{"id":"01a0616b-c5b5-7f30-91bf-c2f380468978","esoCollectibleId":5267,"collectibleName":"Divine Prosecution Jack"}
+{"id":"01a0616b-c5b5-711f-a9a7-27db3690a6c4","esoCollectibleId":5274,"collectibleName":"Divine Prosecution Jerkin"}
+{"id":"01a0616b-c5b5-706f-a9ed-c5fa0f4e5b9a","esoCollectibleId":5281,"collectibleName":"Divine Prosecution Robe"}
+{"id":"01a0616b-c5b5-71d2-b3da-ffe366cb7873","esoCollectibleId":8674,"collectibleName":"Doctrine Ordinator Jack"}
+{"id":"01a0616b-c5b5-70a8-a384-e461c6c7721a","esoCollectibleId":11824,"collectibleName":"Dovah's Du'ul Cuirass"}
+{"id":"01a0616b-c5b5-7bd4-b788-ff4b7371426e","esoCollectibleId":6065,"collectibleName":"Dragon Bone Cuirass"}
+{"id":"01a0616b-c5b5-7bec-b452-448bf6999895","esoCollectibleId":6072,"collectibleName":"Dragon Bone Jack"}
+{"id":"01a0616b-c5b5-7ba3-8a31-ad30bbbe6d29","esoCollectibleId":6079,"collectibleName":"Dragon Bone Jerkin"}
+{"id":"01a0616b-c5b5-79ef-b259-a19ffa8d4ab5","esoCollectibleId":6086,"collectibleName":"Dragon Bone Robe"}
+{"id":"01a0616b-c5b5-7b52-9101-90407b4509b8","esoCollectibleId":9853,"collectibleName":"Dragonguard Berserker Jack"}
+{"id":"01a0616b-c5b5-7930-8458-acf4b3bdce7a","esoCollectibleId":7025,"collectibleName":"Dragonguard Cuirass"}
+{"id":"01a0616b-c5b5-7ed9-8e1d-4502cf3a811d","esoCollectibleId":7032,"collectibleName":"Dragonguard Jack"}
+{"id":"01a0616b-c5b5-7f16-8e32-0763e798e610","esoCollectibleId":7039,"collectibleName":"Dragonguard Jerkin"}
+{"id":"01a0616b-c5b5-785d-a46e-e2deeb7fd557","esoCollectibleId":7046,"collectibleName":"Dragonguard Robe"}
+{"id":"01a0616b-c5b5-76ba-b4f2-f60fc1f2454f","esoCollectibleId":2783,"collectibleName":"Draugr Cuirass"}
+{"id":"01a0616b-c5b5-7775-9a27-227b4effc601","esoCollectibleId":2790,"collectibleName":"Draugr Jack"}
+{"id":"01a0616b-c5b5-76b9-a6fc-625d865c3d57","esoCollectibleId":2806,"collectibleName":"Draugr Jerkin"}
+{"id":"01a0616b-c5b5-7ed9-9f4e-972ed86f8a03","esoCollectibleId":2813,"collectibleName":"Draugr Robe"}
+{"id":"01a0616b-c5b5-7bde-9c73-4527fdf6a38a","esoCollectibleId":4621,"collectibleName":"Dreadhorn Cuirass"}
+{"id":"01a0616b-c5b5-7093-8cd8-ab21f88fed12","esoCollectibleId":4620,"collectibleName":"Dreadhorn Jack"}
+{"id":"01a0616b-c5b5-779c-add8-e280301090cf","esoCollectibleId":4606,"collectibleName":"Dreadhorn Jerkin"}
+{"id":"01a0616b-c5b5-7374-b54a-e6be013c0a3f","esoCollectibleId":4612,"collectibleName":"Dreadhorn Robe"}
+{"id":"01a0616b-c5b5-7fd8-ad49-c151464e6419","esoCollectibleId":9913,"collectibleName":"Dreadsails Cuirass"}
+{"id":"01a0616b-c5b5-7da4-88fa-f63991427860","esoCollectibleId":9920,"collectibleName":"Dreadsails Jack"}
+{"id":"01a0616b-c5b5-7556-82be-db4f2da8e708","esoCollectibleId":9927,"collectibleName":"Dreadsails Jerkin"}
+{"id":"01a0616b-c5b5-7c0b-ab46-8429f337d591","esoCollectibleId":9934,"collectibleName":"Dreadsails Robe"}
+{"id":"01a0616b-c5b5-7799-8703-0d8a183e73c0","esoCollectibleId":4652,"collectibleName":"Dremora Cuirass"}
+{"id":"01a0616b-c5b5-7564-aa06-69dd28467a2c","esoCollectibleId":4645,"collectibleName":"Dremora Jack"}
+{"id":"01a0616b-c5b5-71e0-abca-0213228c654b","esoCollectibleId":4637,"collectibleName":"Dremora Jerkin"}
+{"id":"01a0616b-c5b5-7d41-935e-dd2487f1feb8","esoCollectibleId":8803,"collectibleName":"Dremora Kynreeve Cuirass"}
+{"id":"01a0616b-c5b5-7846-bd21-59c623d9ac63","esoCollectibleId":4643,"collectibleName":"Dremora Robe"}
+{"id":"01a0616b-c5b5-7132-9a6f-5cda4915dc80","esoCollectibleId":11381,"collectibleName":"Dreugh Queen Cuirass"}
+{"id":"01a0616b-c5b5-70bf-8419-fdc0d50a005c","esoCollectibleId":3864,"collectibleName":"Dro-m'Athra Cuirass"}
+{"id":"01a0616b-c5b5-71cf-9899-278f8ef8fccf","esoCollectibleId":3881,"collectibleName":"Dro-m'Athra Jack"}
+{"id":"01a0616b-c5b5-755d-8756-0027a56741df","esoCollectibleId":3888,"collectibleName":"Dro-m'Athra Jerkin"}
+{"id":"01a0616b-c5b5-7d5d-8589-b6013e306868","esoCollectibleId":3895,"collectibleName":"Dro-m'Athra Robe"}
+{"id":"01a0616b-c5b5-719f-86b6-8a9ac8b7b4fe","esoCollectibleId":10477,"collectibleName":"Drowned Mariner Cuirass"}
+{"id":"01a0616b-c5b5-7969-a90f-b02360f0a415","esoCollectibleId":10484,"collectibleName":"Drowned Mariner Jack"}
+{"id":"01a0616b-c5b5-7eed-965f-8b3bf64517ea","esoCollectibleId":10491,"collectibleName":"Drowned Mariner Jerkin"}
+{"id":"01a0616b-c5b5-731d-ac90-5da14caecb82","esoCollectibleId":10498,"collectibleName":"Drowned Mariner Robe"}
+{"id":"01a0616b-c5b5-7262-a50c-8943210be0f7","esoCollectibleId":3007,"collectibleName":"Dwarven Cuirass"}
+{"id":"01a0616b-c5b5-7ac1-bb48-48b65aa43c32","esoCollectibleId":3000,"collectibleName":"Dwarven Jack"}
+{"id":"01a0616b-c5b5-736f-aed9-f30275c57f84","esoCollectibleId":2992,"collectibleName":"Dwarven Jerkin"}
+{"id":"01a0616b-c5b5-7ecc-9077-3fe711426565","esoCollectibleId":2999,"collectibleName":"Dwarven Robe"}
+{"id":"01a0616b-c5b5-7a72-95a3-8915f14f2c47","esoCollectibleId":11995,"collectibleName":"Earthbone Ayleid Jerkin"}
+{"id":"01a0616b-c5b5-7bfc-8721-7e1e9013b52e","esoCollectibleId":3569,"collectibleName":"Ebonheart Cuirass"}
+{"id":"01a0616b-c5b5-7198-94f7-dd05523f279e","esoCollectibleId":3584,"collectibleName":"Ebonheart Jack"}
+{"id":"01a0616b-c5b5-73f5-8dc2-1fbdea577b7a","esoCollectibleId":3576,"collectibleName":"Ebonheart Jerkin"}
+{"id":"01a0616b-c5b5-767f-9c24-e66dabbebc7d","esoCollectibleId":3583,"collectibleName":"Ebonheart Robe"}
+{"id":"01a0616b-c5b5-7d6c-983d-6e982688f342","esoCollectibleId":4961,"collectibleName":"Ebonshadow Cuirass"}
+{"id":"01a0616b-c5b5-7ecf-affb-322f448e3182","esoCollectibleId":4954,"collectibleName":"Ebonshadow Jack"}
+{"id":"01a0616b-c5b5-7b49-aeea-0dcb190ceb56","esoCollectibleId":4969,"collectibleName":"Ebonshadow Jerkin"}
+{"id":"01a0616b-c5b5-7219-a0c4-8f0d5850c093","esoCollectibleId":4968,"collectibleName":"Ebonshadow Robe"}
+{"id":"01a0616b-c5b5-7c36-b916-427061dbe8a1","esoCollectibleId":8749,"collectibleName":"Ebonsteel Knight Cuirass"}
+{"id":"01a0616b-c5b5-7ad9-ab80-252070886689","esoCollectibleId":4136,"collectibleName":"Ebony Cuirass"}
+{"id":"01a0616b-c5b5-76b5-92e6-3a2ebb5081ad","esoCollectibleId":4147,"collectibleName":"Ebony Jack"}
+{"id":"01a0616b-c5b5-7830-9521-6082364ff4d1","esoCollectibleId":4154,"collectibleName":"Ebony Jerkin"}
+{"id":"01a0616b-c5b5-772f-87db-fa2af210d482","esoCollectibleId":4160,"collectibleName":"Ebony Robe"}
+{"id":"01a0616b-c5b5-71bb-9d40-0279f9edfa79","esoCollectibleId":8178,"collectibleName":"Eccentric Experimenter Jack"}
+{"id":"01a0616b-c5b5-70d2-90ea-31fb649212f5","esoCollectibleId":5971,"collectibleName":"Elder Argonian Cuirass"}
+{"id":"01a0616b-c5b5-7fa7-9550-aa7765073851","esoCollectibleId":5978,"collectibleName":"Elder Argonian Jack"}
+{"id":"01a0616b-c5b5-7762-89d4-380f43a34207","esoCollectibleId":5985,"collectibleName":"Elder Argonian Jerkin"}
+{"id":"01a0616b-c5b5-7d49-96aa-74dea6852666","esoCollectibleId":5992,"collectibleName":"Elder Argonian Robe"}
+{"id":"01a0616b-c5b5-7343-a565-b97f0ca8caef","esoCollectibleId":6597,"collectibleName":"Elder Dragon Hunter Jack"}
+{"id":"01a0616b-c5b5-77ac-aa1a-b01d42ce0d59","esoCollectibleId":12320,"collectibleName":"Eltheric Revenant Jerkin"}
+{"id":"01a0616b-c5b5-73d2-a77f-9690d732673f","esoCollectibleId":9720,"collectibleName":"Evergloam Champion Cuirass"}
+{"id":"01a0616b-c5b5-764a-8387-311654e34ba1","esoCollectibleId":10720,"collectibleName":"Evergreen Jack"}
+{"id":"01a0616b-c5b5-7272-83bc-f82c4e015a5e","esoCollectibleId":12878,"collectibleName":"Exile's Revenge Cuirass"}
+{"id":"01a0616b-c5b5-7dc1-81cc-b7668ac4964d","esoCollectibleId":12885,"collectibleName":"Exile's Revenge Jack"}
+{"id":"01a0616b-c5b5-7f40-b793-5ddead6ce53b","esoCollectibleId":12892,"collectibleName":"Exile's Revenge Jerkin"}
+{"id":"01a0616b-c5b5-73ab-b82e-804435160202","esoCollectibleId":12899,"collectibleName":"Exile's Revenge Robe"}
+{"id":"01a0616b-c5b5-7c47-844c-ca70ccabc1d6","esoCollectibleId":13706,"collectibleName":"Faithful Housecarl Jack"}
+{"id":"01a0616b-c5b5-7f3b-91d3-73ca5214114d","esoCollectibleId":5377,"collectibleName":"Fang Lair Cuirass"}
+{"id":"01a0616b-c5b5-7bd4-9582-3dc0f0c9a138","esoCollectibleId":5332,"collectibleName":"Fang Lair Jack"}
+{"id":"01a0616b-c5b5-7778-aa55-3f30f481ad20","esoCollectibleId":5324,"collectibleName":"Fang Lair Jerkin"}
+{"id":"01a0616b-c5b5-795d-b430-994a5b1c8dab","esoCollectibleId":5330,"collectibleName":"Fang Lair Robe"}
+{"id":"01a0616b-c5b5-7616-ba17-bf210eaa80cf","esoCollectibleId":5370,"collectibleName":"Fanged Worm Cuirass"}
+{"id":"01a0616b-c5b5-710b-9449-572ef98f5a92","esoCollectibleId":5363,"collectibleName":"Fanged Worm Jack"}
+{"id":"01a0616b-c5b5-7dba-9874-f9c64098fa93","esoCollectibleId":5355,"collectibleName":"Fanged Worm Jerkin"}
+{"id":"01a0616b-c5b5-71c1-b771-7780764a7036","esoCollectibleId":5361,"collectibleName":"Fanged Worm Robe"}
+{"id":"01a0616b-c5b5-7c2d-ab8c-933800c2b11a","esoCollectibleId":9686,"collectibleName":"Fargrave Guardian Cuirass"}
+{"id":"01a0616b-c5b5-79a4-a98b-7a0f5e9a6b6b","esoCollectibleId":9693,"collectibleName":"Fargrave Guardian Jack"}
+{"id":"01a0616b-c5b5-74b1-946d-161cfa923317","esoCollectibleId":9700,"collectibleName":"Fargrave Guardian Jerkin"}
+{"id":"01a0616b-c5b5-7f6f-a85e-1fc168d38331","esoCollectibleId":9707,"collectibleName":"Fargrave Guardian Robe"}
+{"id":"01a0616b-c5b5-75a7-b62b-59f1adf234c7","esoCollectibleId":10772,"collectibleName":"Faun's Lark Cladding Jack"}
+{"id":"01a0616b-c5b5-7404-87f2-24ce2ec394ad","esoCollectibleId":13699,"collectibleName":"Fharun Moonlight Cuirass"}
+{"id":"01a0616b-c5b5-72aa-a1c8-765abd6aca45","esoCollectibleId":5645,"collectibleName":"Fire Drake Cuirass"}
+{"id":"01a0616b-c5b5-7f0d-a5fb-176f9bc07d28","esoCollectibleId":12557,"collectibleName":"Fire Drake Jack"}
+{"id":"01a0616b-c5b5-7913-ae01-ee40a4eff1cc","esoCollectibleId":10773,"collectibleName":"Firesong Cuirass"}
+{"id":"01a0616b-c5b5-7e96-bf49-fe9e7cd8b1e2","esoCollectibleId":10780,"collectibleName":"Firesong Jack"}
+{"id":"01a0616b-c5b5-7b2c-ae25-928873a4dfde","esoCollectibleId":10787,"collectibleName":"Firesong Jerkin"}
+{"id":"01a0616b-c5b5-757e-ade6-230563a3b995","esoCollectibleId":10794,"collectibleName":"Firesong Robe"}
+{"id":"01a0616b-c5b5-701f-8721-c61764472df8","esoCollectibleId":13641,"collectibleName":"Fish Boon Pioneer Jack"}
+{"id":"01a0616b-c5b5-7026-a851-8bd201da7995","esoCollectibleId":11917,"collectibleName":"Frandar's Tribute Jack"}
+{"id":"01a0616b-c5b5-7d3b-887d-852536a2d3e1","esoCollectibleId":4316,"collectibleName":"Frostcaster Cuirass"}
+{"id":"01a0616b-c5b5-7ae4-869b-3113714756e6","esoCollectibleId":4323,"collectibleName":"Frostcaster Jack"}
+{"id":"01a0616b-c5b5-7955-aca8-340229c685e2","esoCollectibleId":4308,"collectibleName":"Frostcaster Jerkin"}
+{"id":"01a0616b-c5b5-7c30-85ec-b05fdd28a424","esoCollectibleId":4322,"collectibleName":"Frostcaster Robe"}
+{"id":"01a0616b-c5b5-7a09-9508-199c062fa570","esoCollectibleId":12313,"collectibleName":"Galeskirmish Gladiator Cuirass"}
+{"id":"01a0616b-c5b5-7174-bbae-1f622bb4b67d","esoCollectibleId":11729,"collectibleName":"Gardener of Seasons Jack"}
+{"id":"01a0616b-c5b5-7951-a0f0-6f739768fa27","esoCollectibleId":12648,"collectibleName":"Giantkin Jack"}
+{"id":"01a0616b-c5b5-7827-861e-dc9570fd32b0","esoCollectibleId":3555,"collectibleName":"Glass Cuirass"}
+{"id":"01a0616b-c5b5-7e4d-acc3-0e84c31b31b0","esoCollectibleId":3562,"collectibleName":"Glass Jack"}
+{"id":"01a0616b-c5b5-7e1d-9308-edb2824aacb0","esoCollectibleId":3591,"collectibleName":"Glass Jerkin"}
+{"id":"01a0616b-c5b5-73a7-a7c6-c95e60d7c569","esoCollectibleId":3598,"collectibleName":"Glass Robe"}
+{"id":"01a0616b-c5b5-73bf-b7c5-2809179a0c14","esoCollectibleId":6787,"collectibleName":"Glenmoril Wyrd Jerkin"}
+{"id":"01a0616b-c5b5-7c83-9854-01b77fa3549f","esoCollectibleId":6794,"collectibleName":"Glenmoril Wyrd Robe"}
+{"id":"01a0616b-c5b5-7ac2-bfd0-cdf85ea14114","esoCollectibleId":10710,"collectibleName":"Gloamsedge Jack"}
+{"id":"01a0616b-c5b5-70b6-b040-ff4411555fbe","esoCollectibleId":12181,"collectibleName":"Gold Road Dragoon Jack 1"}
+{"id":"01a0616b-c5b5-707f-a357-989d1fcde507","esoCollectibleId":12430,"collectibleName":"Gold Road Dragoon Jack 2"}
+{"id":"01a0616b-c5b5-72c0-abc1-e0d3bc208fc8","esoCollectibleId":11371,"collectibleName":"Gravegrasp Cuirass"}
+{"id":"01a0616b-c5b5-7d38-a636-dd20e407ca1b","esoCollectibleId":7830,"collectibleName":"Greymoor Cuirass"}
+{"id":"01a0616b-c5b5-7bdb-a5a0-6c0c5ccb2115","esoCollectibleId":7837,"collectibleName":"Greymoor Jack"}
+{"id":"01a0616b-c5b5-736c-b41d-1e9f24a7e69d","esoCollectibleId":7844,"collectibleName":"Greymoor Jerkin"}
+{"id":"01a0616b-c5b5-77b7-a93a-ca1f16fdd7cf","esoCollectibleId":7851,"collectibleName":"Greymoor Robe"}
+{"id":"01a0616b-c5b5-78dd-a064-a0c12f36cc52","esoCollectibleId":4105,"collectibleName":"Grim Harlequin Cuirass"}
+{"id":"01a0616b-c5b5-7476-9985-560b7f29ea6a","esoCollectibleId":4112,"collectibleName":"Grim Harlequin Jack"}
+{"id":"01a0616b-c5b5-73e5-bbff-06d383fba035","esoCollectibleId":4119,"collectibleName":"Grim Harlequin Jerkin"}
+{"id":"01a0616b-c5b5-783b-9b3c-139d8aa44803","esoCollectibleId":4126,"collectibleName":"Grim Harlequin Robe"}
+{"id":"01a0616b-c5b5-7f4b-8eae-5c1ae21a4ed5","esoCollectibleId":8262,"collectibleName":"Hazardous Alchemy Cuirass"}
+{"id":"01a0616b-c5b5-7591-85b9-5f81a7bd6480","esoCollectibleId":8269,"collectibleName":"Hazardous Alchemy Jack"}
+{"id":"01a0616b-c5b5-798b-97b4-dc4f50c78a23","esoCollectibleId":8276,"collectibleName":"Hazardous Alchemy Jerkin"}
+{"id":"01a0616b-c5b5-7db7-9345-81f092f51fc1","esoCollectibleId":8283,"collectibleName":"Hazardous Alchemy Robe"}
+{"id":"01a0616b-c5b5-70cc-a509-63af564a44f9","esoCollectibleId":13634,"collectibleName":"Heart's Day Duelist Jerkin"}
+{"id":"01a0616b-c5b5-799c-b354-5930018239d2","esoCollectibleId":4799,"collectibleName":"Hide Chest"}
+{"id":"01a0616b-c5b5-7dd9-b908-0750edf44565","esoCollectibleId":2852,"collectibleName":"High Elf Cuirass 1"}
+{"id":"01a0616b-c5b5-75ea-9945-e63cfb6d7960","esoCollectibleId":2858,"collectibleName":"High Elf Cuirass 2"}
+{"id":"01a0616b-c5b5-7525-891c-2daf005a69ba","esoCollectibleId":2864,"collectibleName":"High Elf Cuirass 3"}
+{"id":"01a0616b-c5b5-7bbb-8e15-554a6bbabebf","esoCollectibleId":2871,"collectibleName":"High Elf Cuirass 4"}
+{"id":"01a0616b-c5b5-7428-bd95-5f87f8047705","esoCollectibleId":2825,"collectibleName":"High Elf Jack 1"}
+{"id":"01a0616b-c5b5-7230-ae46-5db97e9925b8","esoCollectibleId":2831,"collectibleName":"High Elf Jack 2"}
+{"id":"01a0616b-c5b5-780a-8356-f4ad6203e8e6","esoCollectibleId":2838,"collectibleName":"High Elf Jack 3"}
+{"id":"01a0616b-c5b5-7df6-a8d4-c882d941f9f7","esoCollectibleId":2845,"collectibleName":"High Elf Jack 4"}
+{"id":"01a0616b-c5b5-7ce9-9005-a72ce1fbe85a","esoCollectibleId":2816,"collectibleName":"High Elf Jerkin 1"}
+{"id":"01a0616b-c5b5-76ed-b4c2-121df00dba35","esoCollectibleId":2904,"collectibleName":"High Elf Jerkin 2"}
+{"id":"01a0616b-c5b5-776f-8901-d472a3ed1d49","esoCollectibleId":2911,"collectibleName":"High Elf Jerkin 3"}
+{"id":"01a0616b-c5b5-7ef2-b84d-54a325043d1d","esoCollectibleId":2920,"collectibleName":"High Elf Jerkin 4"}
+{"id":"01a0616b-c5b5-73b3-9852-932b1850d997","esoCollectibleId":2822,"collectibleName":"High Elf Robe 1"}
+{"id":"01a0616b-c5b5-75e7-8cce-f790fc7758cf","esoCollectibleId":2910,"collectibleName":"High Elf Robe 2"}
+{"id":"01a0616b-c5b5-7668-99a1-7a6bce73a1f0","esoCollectibleId":2918,"collectibleName":"High Elf Robe 3"}
+{"id":"01a0616b-c5b5-7995-9b40-a161ae7cd164","esoCollectibleId":2927,"collectibleName":"High Elf Robe 4"}
+{"id":"01a0616b-c5b5-765f-9618-a12e900f18d2","esoCollectibleId":10292,"collectibleName":"High Rock Spellsword Jerkin"}
+{"id":"01a0616b-c5b5-78de-82e9-30fa86ddc2df","esoCollectibleId":10299,"collectibleName":"High Rock Spellsword Robe"}
+{"id":"01a0616b-c5b5-70ee-8b80-7b83ca752c7a","esoCollectibleId":11572,"collectibleName":"Highborn Gallant Cuirass"}
+{"id":"01a0616b-c5b5-7d98-8368-9267bb394166","esoCollectibleId":12274,"collectibleName":"Hircine Bloodhunter Cuirass"}
+{"id":"01a0616b-c5b5-75f9-849d-fd58d58799e1","esoCollectibleId":12281,"collectibleName":"Hircine Bloodhunter Jack"}
+{"id":"01a0616b-c5b5-7ef8-8439-e17f5e1131b2","esoCollectibleId":12288,"collectibleName":"Hircine Bloodhunter Jerkin"}
+{"id":"01a0616b-c5b5-70c1-a839-20f575f1b5fd","esoCollectibleId":12295,"collectibleName":"Hircine Bloodhunter Robe"}
+{"id":"01a0616b-c5b5-7773-b0ea-84ccff29091d","esoCollectibleId":4403,"collectibleName":"Hlaalu Cuirass"}
+{"id":"01a0616b-c5b5-75db-a9d4-2989f5598529","esoCollectibleId":4277,"collectibleName":"Hlaalu Jack"}
+{"id":"01a0616b-c5b5-79ac-891b-d8c26c6c50aa","esoCollectibleId":4284,"collectibleName":"Hlaalu Jerkin"}
+{"id":"01a0616b-c5b5-7fab-8be5-6dd4f4a89d1b","esoCollectibleId":4288,"collectibleName":"Hlaalu Robe"}
+{"id":"01a0616b-c5b5-797a-bd1f-ffcd73b88442","esoCollectibleId":4246,"collectibleName":"Hollowjack Cuirass"}
+{"id":"01a0616b-c5b5-7f91-bb72-0345ab6421bf","esoCollectibleId":4252,"collectibleName":"Hollowjack Jack"}
+{"id":"01a0616b-c5b5-79b5-a73f-1c73212f2503","esoCollectibleId":4259,"collectibleName":"Hollowjack Jerkin"}
+{"id":"01a0616b-c5b5-7205-8371-69c87139f66c","esoCollectibleId":4266,"collectibleName":"Hollowjack Robe"}
+{"id":"01a0616b-c5b5-7b59-89b3-5e8a2599d406","esoCollectibleId":6124,"collectibleName":"Honor Guard Cuirass"}
+{"id":"01a0616b-c5b5-7458-a7b9-63cddcd200db","esoCollectibleId":6117,"collectibleName":"Honor Guard Jerkin"}
+{"id":"01a0616b-c5b5-7262-a26d-e1a5cd463327","esoCollectibleId":6131,"collectibleName":"Honor Guard Jerkin"}
+{"id":"01a0616b-c5b5-773b-abcf-65b3a5b70587","esoCollectibleId":6138,"collectibleName":"Honor Guard Robe"}
+{"id":"01a0616b-c5b5-79ce-ab19-00b034cf2f65","esoCollectibleId":5445,"collectibleName":"Horned Dragon Cuirass"}
+{"id":"01a0616b-c5b5-7b6e-a0f4-f09d4bcc3b6c","esoCollectibleId":5439,"collectibleName":"Horned Dragon Jack"}
+{"id":"01a0616b-c5b5-7df0-a0cf-e2e4f26db681","esoCollectibleId":5430,"collectibleName":"Horned Dragon Jerkin"}
+{"id":"01a0616b-c5b5-7e5d-bd3b-1ac291e34814","esoCollectibleId":5436,"collectibleName":"Horned Dragon Robe"}
+{"id":"01a0616b-c5b5-7081-80fd-d898d66def3e","esoCollectibleId":10279,"collectibleName":"House Dufort Banneret Cuirass"}
+{"id":"01a0616b-c5b5-7468-973a-466999f5f4bb","esoCollectibleId":8698,"collectibleName":"House Hexos Cuirass"}
+{"id":"01a0616b-c5b5-7ae8-9dcf-3193ceff46f6","esoCollectibleId":8705,"collectibleName":"House Hexos Jack"}
+{"id":"01a0616b-c5b5-7d80-8e10-23b621868cec","esoCollectibleId":8712,"collectibleName":"House Hexos Jerkin"}
+{"id":"01a0616b-c5b5-7fe5-8f66-2666713908be","esoCollectibleId":8719,"collectibleName":"House Hexos Robe"}
+{"id":"01a0616b-c5b5-772e-9878-ad109d97271b","esoCollectibleId":10805,"collectibleName":"House Mornard Cuirass"}
+{"id":"01a0616b-c5b5-7031-9ea5-84949ab80d97","esoCollectibleId":10812,"collectibleName":"House Mornard Jack"}
+{"id":"01a0616b-c5b5-74c1-a956-c877e48b7cc7","esoCollectibleId":10819,"collectibleName":"House Mornard Jerkin"}
+{"id":"01a0616b-c5b5-7d21-a520-5c50ad99bea3","esoCollectibleId":10826,"collectibleName":"House Mornard Robe"}
+{"id":"01a0616b-c5b5-7cae-beeb-c3c6b3dacd54","esoCollectibleId":5781,"collectibleName":"Huntsman Cuirass"}
+{"id":"01a0616b-c5b5-7dcc-956e-3b1ffa4891be","esoCollectibleId":5774,"collectibleName":"Huntsman Jack"}
+{"id":"01a0616b-c5b5-7fe5-afa8-f0d2c92474cf","esoCollectibleId":5766,"collectibleName":"Huntsman Jerkin"}
+{"id":"01a0616b-c5b5-71d7-910d-b713f9a6deca","esoCollectibleId":5772,"collectibleName":"Huntsman Robe"}
+{"id":"01a0616b-c5b5-710b-a4ed-c89f561c5a78","esoCollectibleId":7469,"collectibleName":"Icereach Coven Cuirass"}
+{"id":"01a0616b-c5b5-7bcc-9945-1036861a92ef","esoCollectibleId":7476,"collectibleName":"Icereach Coven Jack"}
+{"id":"01a0616b-c5b5-726f-a5e4-b69c31f5d9c9","esoCollectibleId":7483,"collectibleName":"Icereach Coven Jerkin"}
+{"id":"01a0616b-c5b5-70f9-8f1f-2714a24e4dc9","esoCollectibleId":7490,"collectibleName":"Icereach Coven Robe"}
+{"id":"01a0616b-c5b5-71c4-9b0b-ed41b152aa75","esoCollectibleId":9045,"collectibleName":"Imperial Champion Cuirass"}
+{"id":"01a0616b-c5b5-7845-8f0a-17685c2a0464","esoCollectibleId":2535,"collectibleName":"Imperial Cuirass 1"}
+{"id":"01a0616b-c5b5-790e-b31a-d28b506f8ec3","esoCollectibleId":3155,"collectibleName":"Imperial Cuirass 2"}
+{"id":"01a0616b-c5b5-7547-906e-22b9caef4b9d","esoCollectibleId":3162,"collectibleName":"Imperial Cuirass 3"}
+{"id":"01a0616b-c5b5-70f4-81d8-ae54a790c9e7","esoCollectibleId":3186,"collectibleName":"Imperial Cuirass 4"}
+{"id":"01a0616b-c5b5-7910-b9fa-c76ac206440d","esoCollectibleId":2668,"collectibleName":"Imperial Jack 1"}
+{"id":"01a0616b-c5b5-7ae9-8f62-5fef17279acb","esoCollectibleId":3117,"collectibleName":"Imperial Jack 2"}
+{"id":"01a0616b-c5b5-746e-a406-8f7ba5e6e00e","esoCollectibleId":3123,"collectibleName":"Imperial Jack 3"}
+{"id":"01a0616b-c5b5-7259-a6de-68eb9dc268f1","esoCollectibleId":3130,"collectibleName":"Imperial Jack 4"}
+{"id":"01a0616b-c5b5-7fff-ab4f-3181c1731eca","esoCollectibleId":2675,"collectibleName":"Imperial Jerkin 1"}
+{"id":"01a0616b-c5b5-7004-b8d2-cef3e4cde436","esoCollectibleId":3170,"collectibleName":"Imperial Jerkin 2"}
+{"id":"01a0616b-c5b5-79f3-aca1-e5ef099cfc97","esoCollectibleId":3193,"collectibleName":"Imperial Jerkin 3"}
+{"id":"01a0616b-c5b5-7831-bdd0-032d8f6fdb26","esoCollectibleId":3178,"collectibleName":"Imperial Jerkin 4"}
+{"id":"01a0616b-c5b5-741c-9435-6932acec35f6","esoCollectibleId":2680,"collectibleName":"Imperial Robe 1"}
+{"id":"01a0616b-c5b5-77f1-9465-1c12ad6c9cac","esoCollectibleId":3177,"collectibleName":"Imperial Robe 2"}
+{"id":"01a0616b-c5b5-7318-bc9e-ae8ab99176e6","esoCollectibleId":3198,"collectibleName":"Imperial Robe 3"}
+{"id":"01a0616b-c5b5-78dc-82dd-73022d18e426","esoCollectibleId":3185,"collectibleName":"Imperial Robe 4"}
+{"id":"01a0616b-c5b5-7b2f-b8e3-5e2dfd179d8d","esoCollectibleId":9165,"collectibleName":"Ivory Brigade Cuirass"}
+{"id":"01a0616b-c5b5-7bd9-996c-9c297ca0f921","esoCollectibleId":9172,"collectibleName":"Ivory Brigade Jack"}
+{"id":"01a0616b-c5b5-7320-a9f5-0a57acd05780","esoCollectibleId":9179,"collectibleName":"Ivory Brigade Jerkin"}
+{"id":"01a0616b-c5b5-7c40-ae84-7da12eda6ad0","esoCollectibleId":9186,"collectibleName":"Ivory Brigade Robe"}
+{"id":"01a0616b-c5b5-73e5-9b16-b199bf3ed4c8","esoCollectibleId":9290,"collectibleName":"Ja'zennji Siir Jack"}
+{"id":"01a0616b-c5b5-786b-a90d-10eaf883932d","esoCollectibleId":7331,"collectibleName":"Jephrine Paladin Cuirass"}
+{"id":"01a0616b-c5b5-723d-b952-65f4148e2470","esoCollectibleId":12830,"collectibleName":"Jester's Aldmeri Mimicry Jack"}
+{"id":"01a0616b-c5b5-720e-bd85-6dd1a69c0bd4","esoCollectibleId":12834,"collectibleName":"Jester's Covenant Mimicry Jack"}
+{"id":"01a0616b-c5b5-7761-8d48-fb6aa179c061","esoCollectibleId":12832,"collectibleName":"Jester's Pact Mimicry Jack"}
+{"id":"01a0616b-c5b5-7ae0-b684-e9be47a0ca60","esoCollectibleId":12002,"collectibleName":"Jester's Seeker Suit Jerkin"}
+{"id":"01a0616b-c5b5-7c03-af6f-e12f60b753e8","esoCollectibleId":14259,"collectibleName":"Justiciar of Stendarr Cuirass"}
+{"id":"01a0616b-c5b5-7072-896c-de78bbdf4a3d","esoCollectibleId":9839,"collectibleName":"Keptu Chief Cuirass"}
+{"id":"01a0616b-c5b5-7a05-bbff-8b957bbb365f","esoCollectibleId":3072,"collectibleName":"Khajiit Cuirass 1"}
+{"id":"01a0616b-c5b5-7b9a-8dd8-1301423f4b61","esoCollectibleId":3078,"collectibleName":"Khajiit Cuirass 2"}
+{"id":"01a0616b-c5b5-7707-994a-2f0c814a694f","esoCollectibleId":3085,"collectibleName":"Khajiit Cuirass 3"}
+{"id":"01a0616b-c5b5-709e-8b11-d542a8d1512b","esoCollectibleId":3092,"collectibleName":"Khajiit Cuirass 4"}
+{"id":"01a0616b-c5b5-7640-937f-3639736b5b20","esoCollectibleId":3045,"collectibleName":"Khajiit Jack 1"}
+{"id":"01a0616b-c5b5-7fed-ae37-cc1962786977","esoCollectibleId":3051,"collectibleName":"Khajiit Jack 2"}
+{"id":"01a0616b-c5b5-7f4f-87aa-ac2cb2ee0ed4","esoCollectibleId":3058,"collectibleName":"Khajiit Jack 3"}
+{"id":"01a0616b-c5b5-7bad-bd4b-0c2cc095a12e","esoCollectibleId":3065,"collectibleName":"Khajiit Jack 4"}
+{"id":"01a0616b-c5b5-7e8c-9151-d767f45aac31","esoCollectibleId":3014,"collectibleName":"Khajiit Jerkin 1"}
+{"id":"01a0616b-c5b5-7898-b187-4ea6c1a4ff49","esoCollectibleId":3021,"collectibleName":"Khajiit Jerkin 2"}
+{"id":"01a0616b-c5b5-7d4e-b1b4-49ba527dc5fb","esoCollectibleId":3029,"collectibleName":"Khajiit Jerkin 3"}
+{"id":"01a0616b-c5b5-7145-88da-fe98613ec5d6","esoCollectibleId":3037,"collectibleName":"Khajiit Jerkin 4"}
+{"id":"01a0616b-c5b5-72a2-a7b4-d4bb9f00a055","esoCollectibleId":3020,"collectibleName":"Khajiit Robe 1"}
+{"id":"01a0616b-c5b5-772e-b202-261a07223a37","esoCollectibleId":3028,"collectibleName":"Khajiit Robe 2"}
+{"id":"01a0616b-c5b5-7c62-926f-6eff1b7829aa","esoCollectibleId":3036,"collectibleName":"Khajiit Robe 3"}
+{"id":"01a0616b-c5b5-7a51-818d-6e2d18de32c0","esoCollectibleId":3044,"collectibleName":"Khajiit Robe 4"}
+{"id":"01a0616b-c5b5-705e-9fc6-1ceee0da5269","esoCollectibleId":9328,"collectibleName":"Khenarthi's Pride Cuirass"}
+{"id":"01a0616b-c5b5-7f00-8286-67d8448afdb0","esoCollectibleId":11328,"collectibleName":"Kindred's Concord Cuirass"}
+{"id":"01a0616b-c5b5-76c0-8eec-5526f64d4b80","esoCollectibleId":11335,"collectibleName":"Kindred's Concord Jack"}
+{"id":"01a0616b-c5b5-7cd8-8dea-3b01b3e74a26","esoCollectibleId":11342,"collectibleName":"Kindred's Concord Jerkin"}
+{"id":"01a0616b-c5b5-77dd-ae1c-07ee570ed0da","esoCollectibleId":11349,"collectibleName":"Kindred's Concord Robe"}
+{"id":"01a0616b-c5b5-7efe-baf7-b9a893a2e73b","esoCollectibleId":14098,"collectibleName":"Kireth's Kit Jerkin"}
+{"id":"01a0616b-c5b5-7d25-a9e7-2915c9418cd7","esoCollectibleId":7338,"collectibleName":"Knight of the Circle Cuirass"}
+{"id":"01a0616b-c5b5-7864-87ed-e7512c06775a","esoCollectibleId":9321,"collectibleName":"Knight-Aspirant Cuirass"}
+{"id":"01a0616b-c5b5-7800-b6de-80ee06df9619","esoCollectibleId":13625,"collectibleName":"Knights of the Scythe Cuirass"}
+{"id":"01a0616b-c5b5-7c16-9f34-d58447a1f339","esoCollectibleId":10762,"collectibleName":"Knowledge Eater Robe"}
+{"id":"01a0616b-c5b5-7481-b94b-a9d235d7b225","esoCollectibleId":14227,"collectibleName":"Koldane Cartel Cuirass"}
+{"id":"01a0616b-c5b5-756c-9e0e-1c29fe48201e","esoCollectibleId":14234,"collectibleName":"Koldane Cartel Jack"}
+{"id":"01a0616b-c5b5-7db7-8375-cc5ccb5ef0ff","esoCollectibleId":14241,"collectibleName":"Koldane Cartel Jerkin"}
+{"id":"01a0616b-c5b5-72f0-824f-800053f8de96","esoCollectibleId":14248,"collectibleName":"Koldane Cartel Robe"}
+{"id":"01a0616b-c5b5-7d63-8c06-508f806e8454","esoCollectibleId":11090,"collectibleName":"Kwama Miner's Kit Jack"}
+{"id":"01a0616b-c5b5-7353-ad9f-77805064d37b","esoCollectibleId":12571,"collectibleName":"Legacy of the Draoife Cuirass"}
+{"id":"01a0616b-c5b5-705d-a71f-954583d7038a","esoCollectibleId":7090,"collectibleName":"Legendary Dragon Jack"}
+{"id":"01a0616b-c5b5-7597-860f-363cc1622dc7","esoCollectibleId":7310,"collectibleName":"Legion Zero Cuirass"}
+{"id":"01a0616b-c5b5-725a-964a-72c4fcda8910","esoCollectibleId":8356,"collectibleName":"Legion Zero Vigiles Jack"}
+{"id":"01a0616b-c5b5-7712-b688-448e400f09b3","esoCollectibleId":13648,"collectibleName":"Light of Knowledge Jerkin"}
+{"id":"01a0616b-c5b5-7f03-a607-4ddacc799938","esoCollectibleId":12585,"collectibleName":"Lion Guard Captain Cuirass"}
+{"id":"01a0616b-c5b5-7420-90ba-2052190edb60","esoCollectibleId":12137,"collectibleName":"Lucent Sentinel Cuirass"}
+{"id":"01a0616b-c5b5-720b-a579-cd99083f1874","esoCollectibleId":12144,"collectibleName":"Lucent Sentinel Jack"}
+{"id":"01a0616b-c5b5-7d2c-a20e-f3d6fc2d3dfd","esoCollectibleId":12151,"collectibleName":"Lucent Sentinel Jerkin"}
+{"id":"01a0616b-c5b5-7e65-bcea-07fc000a86bd","esoCollectibleId":12158,"collectibleName":"Lucent Sentinel Robe"}
+{"id":"01a0616b-c5b5-7e4e-870c-24baa55c4461","esoCollectibleId":6155,"collectibleName":"Lyris Titanborn's Cuirass"}
+{"id":"01a0616b-c5b5-7d1e-8b65-20997f611124","esoCollectibleId":3787,"collectibleName":"Malacath Cuirass"}
+{"id":"01a0616b-c5b5-7c9b-bc38-c3354bf99a84","esoCollectibleId":3802,"collectibleName":"Malacath Jack"}
+{"id":"01a0616b-c5b5-7c91-9d4c-2adf316d35be","esoCollectibleId":3809,"collectibleName":"Malacath Jerkin"}
+{"id":"01a0616b-c5b5-78ec-b9b1-ea417e0fe16f","esoCollectibleId":3826,"collectibleName":"Malacath Robe"}
+{"id":"01a0616b-c5b5-779b-8464-078e4fbc9f7e","esoCollectibleId":4161,"collectibleName":"Mazzatun Cuirass"}
+{"id":"01a0616b-c5b5-70e8-b20f-e27e7dd53736","esoCollectibleId":4175,"collectibleName":"Mazzatun Jack"}
+{"id":"01a0616b-c5b5-7eaf-93cd-caff5c13ddc1","esoCollectibleId":4189,"collectibleName":"Mazzatun Jerkin"}
+{"id":"01a0616b-c5b5-76c6-bd20-5bff79201fa5","esoCollectibleId":4196,"collectibleName":"Mazzatun Robe"}
+{"id":"01a0616b-c5b5-70a7-b473-369639bd0f17","esoCollectibleId":3680,"collectibleName":"Mercenary Cuirass"}
+{"id":"01a0616b-c5b5-75ed-a94e-8fe31af500de","esoCollectibleId":3687,"collectibleName":"Mercenary Jack"}
+{"id":"01a0616b-c5b5-7730-a915-ed0ab26abfcf","esoCollectibleId":3656,"collectibleName":"Mercenary Jerkin"}
+{"id":"01a0616b-c5b5-7cb6-af66-0724d8968c55","esoCollectibleId":3663,"collectibleName":"Mercenary Robe"}
+{"id":"01a0616b-c5b5-7ae2-bed7-4df500f39e24","esoCollectibleId":6299,"collectibleName":"Meridian Cuirass"}
+{"id":"01a0616b-c5b5-78c4-b39c-fc43e084b261","esoCollectibleId":6306,"collectibleName":"Meridian Jack"}
+{"id":"01a0616b-c5b5-7f05-ad2b-62e3a8a9db4b","esoCollectibleId":6313,"collectibleName":"Meridian Jerkin"}
+{"id":"01a0616b-c5b5-7ec9-9327-8a386d1ddb39","esoCollectibleId":6320,"collectibleName":"Meridian Robe"}
+{"id":"01a0616b-c5b5-7360-884e-1c6e8260728d","esoCollectibleId":14123,"collectibleName":"Mesa Stalker Cuirass"}
+{"id":"01a0616b-c5b5-7f91-ae98-9bb2e46c27bc","esoCollectibleId":14130,"collectibleName":"Mesa Stalker Jack"}
+{"id":"01a0616b-c5b5-7f3a-8181-2d31bcbc57f8","esoCollectibleId":14137,"collectibleName":"Mesa Stalker Jerkin"}
+{"id":"01a0616b-c5b5-758c-a9b8-dfbe56abc235","esoCollectibleId":14144,"collectibleName":"Mesa Stalker Robe"}
+{"id":"01a0616b-c5b5-79f7-9977-beebfd8d9ad3","esoCollectibleId":12910,"collectibleName":"Militant Monk Cuirass"}
+{"id":"01a0616b-c5b5-72e2-894d-215a1a569a95","esoCollectibleId":12917,"collectibleName":"Militant Monk Jack"}
+{"id":"01a0616b-c5b5-7e94-a749-283b276acbb7","esoCollectibleId":12924,"collectibleName":"Militant Monk Jerkin"}
+{"id":"01a0616b-c5b5-7514-94f3-2761976ebf3b","esoCollectibleId":12931,"collectibleName":"Militant Monk Robe"}
+{"id":"01a0616b-c5b5-7bf1-9a08-2abc21acc445","esoCollectibleId":4490,"collectibleName":"Militant Ordinator Cuirass"}
+{"id":"01a0616b-c5b5-7d61-9a6d-a0280101e377","esoCollectibleId":4496,"collectibleName":"Militant Ordinator Jack"}
+{"id":"01a0616b-c5b5-7616-9721-d332a0ee560d","esoCollectibleId":4502,"collectibleName":"Militant Ordinator Jerkin"}
+{"id":"01a0616b-c5b5-7f89-8d6b-fc11d2b6c00f","esoCollectibleId":4508,"collectibleName":"Militant Ordinator Robe"}
+{"id":"01a0616b-c5b5-79c3-8edb-a740b2fbd876","esoCollectibleId":4010,"collectibleName":"Minotaur Cuirass"}
+{"id":"01a0616b-c5b5-7935-b0a6-bf5cbc30b30c","esoCollectibleId":4017,"collectibleName":"Minotaur Jack"}
+{"id":"01a0616b-c5b5-7141-b2de-50c1c39bd944","esoCollectibleId":4066,"collectibleName":"Minotaur Jerkin"}
+{"id":"01a0616b-c5b5-72c3-a16b-8eaac3b72010","esoCollectibleId":4024,"collectibleName":"Minotaur Robe"}
+{"id":"01a0616b-c5b5-7b09-ac3e-994abb74ea08","esoCollectibleId":11715,"collectibleName":"Monolith of Storms Cuirass"}
+{"id":"01a0616b-c5b5-7132-b3f3-fe4eb34033ca","esoCollectibleId":7144,"collectibleName":"Moongrave Fane Cuirass"}
+{"id":"01a0616b-c5b5-7011-8b83-dfcb29c2f9a3","esoCollectibleId":7151,"collectibleName":"Moongrave Fane Jack"}
+{"id":"01a0616b-c5b5-7702-a57d-b32db401f469","esoCollectibleId":7158,"collectibleName":"Moongrave Fane Jerkin"}
+{"id":"01a0616b-c5b5-73d7-8fd0-c46c4a4a90e2","esoCollectibleId":7165,"collectibleName":"Moongrave Fane Robe"}
+{"id":"01a0616b-c5b5-7e12-af70-62194be27f63","esoCollectibleId":3911,"collectibleName":"Morag Tong Cuirass"}
+{"id":"01a0616b-c5b5-74c5-8197-89428cc09e63","esoCollectibleId":3904,"collectibleName":"Morag Tong Jack"}
+{"id":"01a0616b-c5b5-7f57-8d79-95cfd548c420","esoCollectibleId":3896,"collectibleName":"Morag Tong Jerkin"}
+{"id":"01a0616b-c5b5-7a8f-9b50-23e9b24978ab","esoCollectibleId":3903,"collectibleName":"Morag Tong Robe"}
+{"id":"01a0616b-c5b5-7af7-882d-ee5a6e27281c","esoCollectibleId":11817,"collectibleName":"Morningstar Frostwear Jerkin"}
+{"id":"01a0616b-c5b5-7f00-8804-9b82b31c4970","esoCollectibleId":5111,"collectibleName":"Mystic Eye Psijic Cuirass"}
+{"id":"01a0616b-c5b5-7df6-808c-bb9ed93b0f64","esoCollectibleId":12174,"collectibleName":"Nantharion's Royal Cuirass"}
+{"id":"01a0616b-c5b5-7e3e-aa2a-030391d5bcd7","esoCollectibleId":11539,"collectibleName":"Necrom Armiger Jack"}
+{"id":"01a0616b-c5b5-7312-8c7b-5ffc5e32b15c","esoCollectibleId":7176,"collectibleName":"New Moon Priest Cuirass"}
+{"id":"01a0616b-c5b5-76b9-8ce8-dd79b7c1a75c","esoCollectibleId":7183,"collectibleName":"New Moon Priest Jack"}
+{"id":"01a0616b-c5b5-731e-aa64-62e229a6ce0c","esoCollectibleId":7190,"collectibleName":"New Moon Priest Jerkin"}
+{"id":"01a0616b-c5b5-76a6-b897-d57fdf8445fc","esoCollectibleId":7197,"collectibleName":"New Moon Priest Robe"}
+{"id":"01a0616b-c5b5-7ed2-b864-3eb89c2b9034","esoCollectibleId":9280,"collectibleName":"Nibenese Court Wizard Jerkin"}
+{"id":"01a0616b-c5b5-786f-8414-83f555b2db17","esoCollectibleId":8552,"collectibleName":"Nighthollow Cuirass"}
+{"id":"01a0616b-c5b5-720e-871a-c299ca9390e6","esoCollectibleId":8559,"collectibleName":"Nighthollow Jack"}
+{"id":"01a0616b-c5b5-7899-ac47-340b525e4427","esoCollectibleId":8566,"collectibleName":"Nighthollow Jerkin"}
+{"id":"01a0616b-c5b5-77ea-ab30-7555ddc7bf97","esoCollectibleId":8573,"collectibleName":"Nighthollow Robe"}
+{"id":"01a0616b-c5b5-72a0-95a2-cc83b70d2417","esoCollectibleId":11701,"collectibleName":"Nobility in Decay Jack"}
+{"id":"01a0616b-c5b5-7c72-8138-94311d7fe52e","esoCollectibleId":9798,"collectibleName":"Nord Carved Cuirass"}
+{"id":"01a0616b-c5b5-7e95-b8d3-6bf0b57109da","esoCollectibleId":2291,"collectibleName":"Nord Cuirass 1"}
+{"id":"01a0616b-c5b5-7f82-8efb-50f7ee8f6a34","esoCollectibleId":2323,"collectibleName":"Nord Cuirass 2"}
+{"id":"01a0616b-c5b5-783c-8583-5ffb15cd5bb5","esoCollectibleId":2330,"collectibleName":"Nord Cuirass 3"}
+{"id":"01a0616b-c5b5-749e-8d08-c4df955f8b51","esoCollectibleId":2337,"collectibleName":"Nord Cuirass 4"}
+{"id":"01a0616b-c5b5-746d-848b-3b5fbd252621","esoCollectibleId":2297,"collectibleName":"Nord Jack 1"}
+{"id":"01a0616b-c5b5-7b30-8754-95b2c59c629a","esoCollectibleId":2302,"collectibleName":"Nord Jack 2"}
+{"id":"01a0616b-c5b5-7900-9437-f54d9462523a","esoCollectibleId":2309,"collectibleName":"Nord Jack 3"}
+{"id":"01a0616b-c5b5-724b-ada4-8112821ce023","esoCollectibleId":2316,"collectibleName":"Nord Jack 4"}
+{"id":"01a0616b-c5b5-7803-9987-b2da0d27fe6a","esoCollectibleId":2289,"collectibleName":"Nord Jerkin 1"}
+{"id":"01a0616b-c5b5-7362-a3e4-84587bcf9b25","esoCollectibleId":2351,"collectibleName":"Nord Jerkin 2"}
+{"id":"01a0616b-c5b5-733d-b3be-ffad710f37da","esoCollectibleId":2352,"collectibleName":"Nord Jerkin 3"}
+{"id":"01a0616b-c5b5-7a7c-9963-48697237ce5c","esoCollectibleId":2360,"collectibleName":"Nord Jerkin 4"}
+{"id":"01a0616b-c5b5-736c-a372-143865796ed5","esoCollectibleId":2288,"collectibleName":"Nord Robe 1"}
+{"id":"01a0616b-c5b5-722c-8595-7324a8fd04f8","esoCollectibleId":2344,"collectibleName":"Nord Robe 2"}
+{"id":"01a0616b-c5b5-7a75-b809-d18fdd5781c7","esoCollectibleId":2359,"collectibleName":"Nord Robe 3"}
+{"id":"01a0616b-c5b5-7bdd-8e32-1e27d8f126cd","esoCollectibleId":2367,"collectibleName":"Nord Robe 4"}
+{"id":"01a0616b-c5b5-7910-9de7-feb8152f6f2d","esoCollectibleId":10514,"collectibleName":"Oaken Order Jack"}
+{"id":"01a0616b-c5b5-7064-8ae0-defb9d1b9b20","esoCollectibleId":13986,"collectibleName":"One Bad Knight Cuirass"}
+{"id":"01a0616b-c5b5-74e7-9417-9f30c0b10abf","esoCollectibleId":1768,"collectibleName":"Orc Cuirass 1"}
+{"id":"01a0616b-c5b5-70ba-93d2-38e15f63413d","esoCollectibleId":1774,"collectibleName":"Orc Cuirass 2"}
+{"id":"01a0616b-c5b5-7fe8-a463-58570ab12ae8","esoCollectibleId":1781,"collectibleName":"Orc Cuirass 3"}
+{"id":"01a0616b-c5b5-7bb7-9b13-1a25c6b6042a","esoCollectibleId":1788,"collectibleName":"Orc Cuirass 4"}
+{"id":"01a0616b-c5b5-7c19-bb4a-7bf9dc121589","esoCollectibleId":1795,"collectibleName":"Orc Jack 1"}
+{"id":"01a0616b-c5b5-7162-a8d4-7080784719e2","esoCollectibleId":1801,"collectibleName":"Orc Jack 2"}
+{"id":"01a0616b-c5b5-7e7c-8fcd-5abcf918b0dc","esoCollectibleId":1821,"collectibleName":"Orc Jack 3"}
+{"id":"01a0616b-c5b5-7a45-9857-d1567ee694b2","esoCollectibleId":1828,"collectibleName":"Orc Jack 4"}
+{"id":"01a0616b-c5b5-781b-978a-d12a57466577","esoCollectibleId":1845,"collectibleName":"Orc Jerkin 1"}
+{"id":"01a0616b-c5b5-758b-83f9-51c5a0e87599","esoCollectibleId":1846,"collectibleName":"Orc Jerkin 2"}
+{"id":"01a0616b-c5b6-77de-8e84-b8766eb84f16","esoCollectibleId":1847,"collectibleName":"Orc Jerkin 3"}
+{"id":"01a0616b-c5b6-799b-905d-b70b67031b13","esoCollectibleId":1848,"collectibleName":"Orc Jerkin 4"}
+{"id":"01a0616b-c5b6-7c1f-b2e4-c8dd675ca1a7","esoCollectibleId":1748,"collectibleName":"Orc Robe 1"}
+{"id":"01a0616b-c5b6-79f5-ac43-cfd9f2c17033","esoCollectibleId":1755,"collectibleName":"Orc Robe 2"}
+{"id":"01a0616b-c5b6-7a12-b565-c5742d91e5ba","esoCollectibleId":1815,"collectibleName":"Orc Robe 3"}
+{"id":"01a0616b-c5b6-7cb6-9f84-03a462a6df6d","esoCollectibleId":1835,"collectibleName":"Orc Robe 4"}
+{"id":"01a0616b-c5b6-71ba-b911-8b5c18d878d1","esoCollectibleId":4058,"collectibleName":"Order of the Hour Cuirass"}
+{"id":"01a0616b-c5b6-7a6c-93d6-cdc8037b677d","esoCollectibleId":4040,"collectibleName":"Order of the Hour Jack"}
+{"id":"01a0616b-c5b6-7958-94c9-51f695481ca7","esoCollectibleId":4050,"collectibleName":"Order of the Hour Jerkin"}
+{"id":"01a0616b-c5b6-7990-8409-943c6b0a7911","esoCollectibleId":4057,"collectibleName":"Order of the Hour Robe"}
+{"id":"01a0616b-c5b6-7ce4-a34b-5a146bd69b51","esoCollectibleId":12043,"collectibleName":"Order of the Lamp Cuirass"}
+{"id":"01a0616b-c5b6-7386-a636-94663b7c6fd9","esoCollectibleId":3287,"collectibleName":"Outlaw Cuirass"}
+{"id":"01a0616b-c5b6-7a79-9e66-53db18c03338","esoCollectibleId":3280,"collectibleName":"Outlaw Jack"}
+{"id":"01a0616b-c5b6-710c-bb26-2f79df319a65","esoCollectibleId":3273,"collectibleName":"Outlaw Jerkin"}
+{"id":"01a0616b-c5b6-7cf0-b63d-b92116425c81","esoCollectibleId":9314,"collectibleName":"Paravant's Letale Jack"}
+{"id":"01a0616b-c5b6-744c-9651-e6c2ac1a83bc","esoCollectibleId":10684,"collectibleName":"Pelin's Paragon Jack"}
+{"id":"01a0616b-c5b6-7f3c-9819-881c96b628d8","esoCollectibleId":6509,"collectibleName":"Pellitine Cuirass"}
+{"id":"01a0616b-c5b6-7d0c-8502-e8c7ff0d3998","esoCollectibleId":6516,"collectibleName":"Pellitine Jack"}
+{"id":"01a0616b-c5b6-75f1-b8b5-4629ae5d6ffd","esoCollectibleId":6523,"collectibleName":"Pellitine Jerkin"}
+{"id":"01a0616b-c5b6-7fd7-8fad-5a1af9e43225","esoCollectibleId":6530,"collectibleName":"Pellitine Robe"}
+{"id":"01a0616b-c5b6-73fb-af3d-4aa6e0f001a0","esoCollectibleId":5621,"collectibleName":"Pit Daemon Cuirass"}
+{"id":"01a0616b-c5b6-79f2-9dbd-749e21ba8a82","esoCollectibleId":12543,"collectibleName":"Pit Daemon Jerkin"}
+{"id":"01a0616b-c5b6-72fc-a578-7ce881af7389","esoCollectibleId":1611,"collectibleName":"Primal Cuirass"}
+{"id":"01a0616b-c5b6-76d6-8498-e9fd3a39fa84","esoCollectibleId":1742,"collectibleName":"Primal Jack"}
+{"id":"01a0616b-c5b6-79dd-9482-89e69d0a37bb","esoCollectibleId":2397,"collectibleName":"Primal Jerkin"}
+{"id":"01a0616b-c5b6-77e3-934e-924e6be613c3","esoCollectibleId":1761,"collectibleName":"Primal Robe"}
+{"id":"01a0616b-c5b6-7a01-a861-d7f48ce0eff7","esoCollectibleId":4990,"collectibleName":"Prisoner's Shirt 1"}
+{"id":"01a0616b-c5b6-76df-bf55-95fb47703414","esoCollectibleId":4986,"collectibleName":"Prisoner's Shirt 2"}
+{"id":"01a0616b-c5b6-7f91-9488-418ea4dbefc6","esoCollectibleId":6366,"collectibleName":"Prophet's Jerkin"}
+{"id":"01a0616b-c5b6-70a5-9233-063648a91a6a","esoCollectibleId":6145,"collectibleName":"Prophet's Robe"}
+{"id":"01a0616b-c5b6-7b78-8f0c-04feee69ffaf","esoCollectibleId":5317,"collectibleName":"Psijic Order Cuirass"}
+{"id":"01a0616b-c5b6-77aa-9a1f-cbe4d77c19be","esoCollectibleId":5310,"collectibleName":"Psijic Order Jack"}
+{"id":"01a0616b-c5b6-75d0-9366-f645305d3ad2","esoCollectibleId":5302,"collectibleName":"Psijic Order Jerkin"}
+{"id":"01a0616b-c5b6-77f3-9b66-f5f82a08a0ca","esoCollectibleId":5308,"collectibleName":"Psijic Order Robe"}
+{"id":"01a0616b-c5b6-7cfb-945f-fc234b4e1e4b","esoCollectibleId":12564,"collectibleName":"Psijic Psion Jerkin"}
+{"id":"01a0616b-c5b6-74d5-9030-7f0fb9ccb7cf","esoCollectibleId":13079,"collectibleName":"Psijic Psion Robe"}
+{"id":"01a0616b-c5b6-7862-96f2-ea4fbcc2ab02","esoCollectibleId":5485,"collectibleName":"Pyandonean Cuirass"}
+{"id":"01a0616b-c5b6-740f-97d1-74c256a8ecb5","esoCollectibleId":5500,"collectibleName":"Pyandonean Jack"}
+{"id":"01a0616b-c5b6-79ca-8e74-b6f4b73bc889","esoCollectibleId":5492,"collectibleName":"Pyandonean Jerkin"}
+{"id":"01a0616b-c5b6-7a37-8d1a-e33ce9a3b43e","esoCollectibleId":5499,"collectibleName":"Pyandonean Robe"}
+{"id":"01a0616b-c5b6-75b1-8b98-5d3e6572be48","esoCollectibleId":7539,"collectibleName":"Pyre Watch Cuirass"}
+{"id":"01a0616b-c5b6-7b26-9c83-01760a2460d8","esoCollectibleId":7546,"collectibleName":"Pyre Watch Jack"}
+{"id":"01a0616b-c5b6-72e4-8e89-0c2953c5b531","esoCollectibleId":7553,"collectibleName":"Pyre Watch Jerkin"}
+{"id":"01a0616b-c5b6-7ea1-a8db-53a51e3d6c96","esoCollectibleId":7560,"collectibleName":"Pyre Watch Robe"}
+{"id":"01a0616b-c5b6-70ee-b2a1-8f21705a1a3a","esoCollectibleId":3927,"collectibleName":"Ra Gada Cuirass"}
+{"id":"01a0616b-c5b6-79c9-9c05-5863f30201c6","esoCollectibleId":3933,"collectibleName":"Ra Gada Jack"}
+{"id":"01a0616b-c5b6-7d3e-80fe-712eebcf498c","esoCollectibleId":3970,"collectibleName":"Ra Gada Jerkin"}
+{"id":"01a0616b-c5b6-7382-b74b-372a17edd62b","esoCollectibleId":3976,"collectibleName":"Ra Gada Robe"}
+{"id":"01a0616b-c5b6-7e90-ae89-12e994ab1365","esoCollectibleId":11678,"collectibleName":"Reawakened Hierophant Jerkin"}
+{"id":"01a0616b-c5b6-76e9-867f-35c29970a47b","esoCollectibleId":12344,"collectibleName":"Reclaimed Soul Cuirass"}
+{"id":"01a0616b-c5b6-7b4e-a202-0f34b9cf1c98","esoCollectibleId":10531,"collectibleName":"Red Rook Bandit Jerkin"}
+{"id":"01a0616b-c5b6-778c-865e-5cbf7775be09","esoCollectibleId":1933,"collectibleName":"Redguard Cuirass 1"}
+{"id":"01a0616b-c5b6-7354-a97f-197caf8b391f","esoCollectibleId":1957,"collectibleName":"Redguard Cuirass 2"}
+{"id":"01a0616b-c5b6-7b13-b275-1719b801a303","esoCollectibleId":1964,"collectibleName":"Redguard Cuirass 3"}
+{"id":"01a0616b-c5b6-78b2-97fb-a7a9b95e3c33","esoCollectibleId":2003,"collectibleName":"Redguard Cuirass 4"}
+{"id":"01a0616b-c5b6-729c-89c7-61bff2a30ec5","esoCollectibleId":1930,"collectibleName":"Redguard Jack 1"}
+{"id":"01a0616b-c5b6-7ada-865d-d89a7e00a413","esoCollectibleId":1949,"collectibleName":"Redguard Jack 2"}
+{"id":"01a0616b-c5b6-79e0-8ae2-81f7b5cecf65","esoCollectibleId":2010,"collectibleName":"Redguard Jack 3"}
+{"id":"01a0616b-c5b6-73da-b894-1756cfcb9b20","esoCollectibleId":2023,"collectibleName":"Redguard Jack 4"}
+{"id":"01a0616b-c5b6-7bb2-94bc-3bce31b1278e","esoCollectibleId":1956,"collectibleName":"Redguard Jerkin 1"}
+{"id":"01a0616b-c5b6-74c3-a8ab-79ff3f7077fe","esoCollectibleId":1971,"collectibleName":"Redguard Jerkin 2"}
+{"id":"01a0616b-c5b6-70e9-b4d1-4f9745ee2095","esoCollectibleId":2041,"collectibleName":"Redguard Jerkin 3"}
+{"id":"01a0616b-c5b6-7c10-af43-5bede40acb09","esoCollectibleId":2042,"collectibleName":"Redguard Jerkin 4"}
+{"id":"01a0616b-c5b6-7062-9849-681489c7df11","esoCollectibleId":2050,"collectibleName":"Redguard Robe 1"}
+{"id":"01a0616b-c5b6-7143-9370-089658ee42b6","esoCollectibleId":2051,"collectibleName":"Redguard Robe 2"}
+{"id":"01a0616b-c5b6-7d4d-ac27-a016fa0772cd","esoCollectibleId":2052,"collectibleName":"Redguard Robe 3"}
+{"id":"01a0616b-c5b6-7275-aa53-a6cf70872a28","esoCollectibleId":2053,"collectibleName":"Redguard Robe 4"}
+{"id":"01a0616b-c5b6-7f2a-af39-5a70521b8a1d","esoCollectibleId":4422,"collectibleName":"Redoran Cuirass"}
+{"id":"01a0616b-c5b6-7f9a-ad60-cdd4724d291e","esoCollectibleId":4433,"collectibleName":"Redoran Jack"}
+{"id":"01a0616b-c5b6-7c10-9798-33c330d68769","esoCollectibleId":4448,"collectibleName":"Redoran Jerkin"}
+{"id":"01a0616b-c5b6-741d-9aa5-19d446315f5c","esoCollectibleId":4455,"collectibleName":"Redoran Robe"}
+{"id":"01a0616b-c5b6-7ac4-b53e-0e726b39263b","esoCollectibleId":4564,"collectibleName":"Refabricated Cuirass"}
+{"id":"01a0616b-c5b6-70f2-8de6-5c7068dee061","esoCollectibleId":4551,"collectibleName":"Refabricated Jack"}
+{"id":"01a0616b-c5b6-7617-9e79-908aa90ffe85","esoCollectibleId":4543,"collectibleName":"Refabricated Jerkin"}
+{"id":"01a0616b-c5b6-7b3b-becb-a8a529f03f56","esoCollectibleId":4549,"collectibleName":"Refabricated Robe"}
+{"id":"01a0616b-c5b6-7dc0-91c1-be256a9cf915","esoCollectibleId":9020,"collectibleName":"Regal Regalia Jerkin"}
+{"id":"01a0616b-c5b6-77dc-a485-1cc688124293","esoCollectibleId":10336,"collectibleName":"Saarthal Scholar Jerkin"}
+{"id":"01a0616b-c5b6-77d9-9216-4ebf94171c83","esoCollectibleId":9846,"collectibleName":"Saberkeel Panoply Cuirass"}
+{"id":"01a0616b-c5b6-7ace-be12-7336e809292a","esoCollectibleId":6157,"collectibleName":"Sai Sahan's Jack"}
+{"id":"01a0616b-c5b6-79a9-8b48-a9d738caead6","esoCollectibleId":11243,"collectibleName":"Sancre Tor Sentry Cuirass"}
+{"id":"01a0616b-c5b6-7694-be77-98fcc7caacaf","esoCollectibleId":5532,"collectibleName":"Sapiarch Cuirass"}
+{"id":"01a0616b-c5b6-7eee-b1e6-85f89caaaac3","esoCollectibleId":5525,"collectibleName":"Sapiarch Jack"}
+{"id":"01a0616b-c5b6-7686-974c-93ad64ba71c9","esoCollectibleId":5518,"collectibleName":"Sapiarch Jerkin"}
+{"id":"01a0616b-c5b6-7265-a6dd-9110ba7461e5","esoCollectibleId":5517,"collectibleName":"Sapiarch Robe"}
+{"id":"01a0616b-c5b6-74db-87c8-f0a4f3b340d8","esoCollectibleId":5403,"collectibleName":"Scalecaller Cuirass"}
+{"id":"01a0616b-c5b6-74fb-8a28-14d9587c9b55","esoCollectibleId":5396,"collectibleName":"Scalecaller Jack"}
+{"id":"01a0616b-c5b6-7ad3-8779-28220ddc58bf","esoCollectibleId":5388,"collectibleName":"Scalecaller Jerkin"}
+{"id":"01a0616b-c5b6-77e1-a11d-07cfa76a6e24","esoCollectibleId":5394,"collectibleName":"Scalecaller Robe"}
+{"id":"01a0616b-c5b6-7060-8042-7ac49910c9cd","esoCollectibleId":9727,"collectibleName":"Scorianite Gladiator Jack"}
+{"id":"01a0616b-c5b6-76de-b428-10d0b6e211ee","esoCollectibleId":10934,"collectibleName":"Scribes of Mora Cuirass"}
+{"id":"01a0616b-c5b6-7b12-9a60-32461b9a29ee","esoCollectibleId":10941,"collectibleName":"Scribes of Mora Jack"}
+{"id":"01a0616b-c5b6-7599-bcf4-6cc12933edd7","esoCollectibleId":10948,"collectibleName":"Scribes of Mora Jerkin"}
+{"id":"01a0616b-c5b6-7f5d-9f87-77a9d28e9522","esoCollectibleId":10955,"collectibleName":"Scribes of Mora Robe"}
+{"id":"01a0616b-c5b6-77b3-80b6-4288ae0980df","esoCollectibleId":7865,"collectibleName":"Sea Giant Cuirass"}
+{"id":"01a0616b-c5b6-7404-89b9-fa30484fc9a9","esoCollectibleId":7872,"collectibleName":"Sea Giant Jack"}
+{"id":"01a0616b-c5b6-75d2-ae81-f410d40e5a7c","esoCollectibleId":7879,"collectibleName":"Sea Giant Jerkin"}
+{"id":"01a0616b-c5b6-7914-a0d5-d6a6a49d04c6","esoCollectibleId":7886,"collectibleName":"Sea Giant Robe"}
+{"id":"01a0616b-c5b6-7a22-b85b-699eff7113ee","esoCollectibleId":10548,"collectibleName":"Seamount Raider Jack"}
+{"id":"01a0616b-c5b6-7215-a6cd-aac9b1ec1edc","esoCollectibleId":6586,"collectibleName":"Second Legion Jack"}
+{"id":"01a0616b-c5b6-7ad1-a173-1dcb2ca91006","esoCollectibleId":10000,"collectibleName":"Second Seed Raiment Jerkin"}
+{"id":"01a0616b-c5b6-769c-8c94-4594ee6f357f","esoCollectibleId":12351,"collectibleName":"Sentinel Regal Guard Jack"}
+{"id":"01a0616b-c5b6-7e7f-bc9f-d17f8f5a3180","esoCollectibleId":12073,"collectibleName":"Shardborn Cuirass"}
+{"id":"01a0616b-c5b6-7e3b-afe8-341ee87caa5a","esoCollectibleId":12080,"collectibleName":"Shardborn Jack"}
+{"id":"01a0616b-c5b6-7be3-a804-f678fcbf3eca","esoCollectibleId":12087,"collectibleName":"Shardborn Jerkin"}
+{"id":"01a0616b-c5b6-754c-a8d4-b1134c72b465","esoCollectibleId":12094,"collectibleName":"Shardborn Robe"}
+{"id":"01a0616b-c5b6-7f48-9062-83dc14288728","esoCollectibleId":7237,"collectibleName":"Shield of Senchal Cuirass"}
+{"id":"01a0616b-c5b6-7c3d-9833-4bf3bf82e3b1","esoCollectibleId":7244,"collectibleName":"Shield of Senchal Jack"}
+{"id":"01a0616b-c5b6-75c6-a86c-0b2b7723a769","esoCollectibleId":7251,"collectibleName":"Shield of Senchal Jerkin"}
+{"id":"01a0616b-c5b6-7006-9edc-30cff19fea47","esoCollectibleId":7258,"collectibleName":"Shield of Senchal Robe"}
+{"id":"01a0616b-c5b6-7857-b9d9-58611e2ad525","esoCollectibleId":11039,"collectibleName":"Shroomtender Jerkin"}
+{"id":"01a0616b-c5b6-73d1-9799-9af26ace3127","esoCollectibleId":11173,"collectibleName":"Shroomtender Robe"}
+{"id":"01a0616b-c5b6-7087-9cd3-281e6d1cf46b","esoCollectibleId":3760,"collectibleName":"Silken Ring Cuirass"}
+{"id":"01a0616b-c5b6-7d2e-87fb-b693b5b33a9f","esoCollectibleId":3767,"collectibleName":"Silken Ring Jack"}
+{"id":"01a0616b-c5b6-7637-91a5-0e42369143c8","esoCollectibleId":3773,"collectibleName":"Silken Ring Jerkin"}
+{"id":"01a0616b-c5b6-7c5b-8a90-246ef7443279","esoCollectibleId":3779,"collectibleName":"Silken Ring Robe"}
+{"id":"01a0616b-c5b6-7944-af77-d8d07b106404","esoCollectibleId":5813,"collectibleName":"Silver Dawn Cuirass"}
+{"id":"01a0616b-c5b6-76e7-9c19-84bbe6edc38f","esoCollectibleId":5806,"collectibleName":"Silver Dawn Jack"}
+{"id":"01a0616b-c5b6-7379-afa3-3051e387de43","esoCollectibleId":5798,"collectibleName":"Silver Dawn Jerkin"}
+{"id":"01a0616b-c5b6-7636-9b1b-c26d66f0f720","esoCollectibleId":5804,"collectibleName":"Silver Dawn Robe"}
+{"id":"01a0616b-c5b6-73bf-be7a-72cedbba7af9","esoCollectibleId":9533,"collectibleName":"Silver Rose Cuirass"}
+{"id":"01a0616b-c5b6-788a-9df8-820ee58f2419","esoCollectibleId":9540,"collectibleName":"Silver Rose Jack"}
+{"id":"01a0616b-c5b6-7379-8fe3-1ead91498e10","esoCollectibleId":9547,"collectibleName":"Silver Rose Jerkin"}
+{"id":"01a0616b-c5b6-7cee-81c6-2c66608f6738","esoCollectibleId":9554,"collectibleName":"Silver Rose Robe"}
+{"id":"01a0616b-c5b6-77a6-bf55-5607ec2e19dd","esoCollectibleId":7293,"collectibleName":"Skaal Explorer Jerkin"}
+{"id":"01a0616b-c5b6-781a-acc9-c8e3986977c4","esoCollectibleId":4086,"collectibleName":"Skinchanger Cuirass"}
+{"id":"01a0616b-c5b6-7879-8c50-7ea6e9e24850","esoCollectibleId":4142,"collectibleName":"Skinchanger Jack"}
+{"id":"01a0616b-c5b6-7304-8814-6e472656b8b6","esoCollectibleId":4127,"collectibleName":"Skinchanger Jerkin"}
+{"id":"01a0616b-c5b6-731a-914d-f861794e0d0c","esoCollectibleId":4134,"collectibleName":"Skinchanger Robe"}
+{"id":"01a0616b-c5b6-7b3d-9f59-c9c05a8c452f","esoCollectibleId":11796,"collectibleName":"Skingrad Vedette Cuirass"}
+{"id":"01a0616b-c5b6-7e64-9d64-dae8169c2259","esoCollectibleId":8116,"collectibleName":"Snowhawk Mage Jerkin"}
+{"id":"01a0616b-c5b6-7612-89ea-11af4fa6db9e","esoCollectibleId":8123,"collectibleName":"Snowhawk Mage Robe"}
+{"id":"01a0616b-c5b6-7ea5-b0a7-e0957485132f","esoCollectibleId":3514,"collectibleName":"Soul Shriven Cuirass"}
+{"id":"01a0616b-c5b6-736c-8477-44089daf3c77","esoCollectibleId":3530,"collectibleName":"Soul Shriven Jack"}
+{"id":"01a0616b-c5b6-7d6b-9998-63992ac74d61","esoCollectibleId":3523,"collectibleName":"Soul Shriven Jerkin"}
+{"id":"01a0616b-c5b6-7ae0-a741-6bbf8d1d30e1","esoCollectibleId":3528,"collectibleName":"Soul Shriven Robe"}
+{"id":"01a0616b-c5b6-720d-a270-588a20e4f058","esoCollectibleId":11708,"collectibleName":"Soulcleaver Jack"}
+{"id":"01a0616b-c5b6-7aee-832d-e2255049d5a3","esoCollectibleId":8367,"collectibleName":"Sovngarde Stalwart Jack"}
+{"id":"01a0616b-c5b6-7dcf-8237-e29ff9e8e2cb","esoCollectibleId":6852,"collectibleName":"Stags of Z'en Cuirass"}
+{"id":"01a0616b-c5b6-7784-b5fe-d495611a46e0","esoCollectibleId":6859,"collectibleName":"Stags of Z'en Jack"}
+{"id":"01a0616b-c5b6-7838-b393-e859186618be","esoCollectibleId":6866,"collectibleName":"Stags of Z'en Jerkin"}
+{"id":"01a0616b-c5b6-74d1-87e0-8002510e7161","esoCollectibleId":6873,"collectibleName":"Stags of Z'en Robe"}
+{"id":"01a0616b-c5b6-74d6-933c-337eff637ce4","esoCollectibleId":8763,"collectibleName":"Stalhrim Frostguard Cuirass"}
+{"id":"01a0616b-c5b6-7bfd-8521-7d43cc5f08ad","esoCollectibleId":10105,"collectibleName":"Steadfast Society Cuirass"}
+{"id":"01a0616b-c5b6-752a-91b0-bf2a31ab548b","esoCollectibleId":10112,"collectibleName":"Steadfast Society Jack"}
+{"id":"01a0616b-c5b6-7f51-86fc-50159e56a179","esoCollectibleId":10119,"collectibleName":"Steadfast Society Jerkin"}
+{"id":"01a0616b-c5b6-71cb-8070-048f570adeee","esoCollectibleId":10126,"collectibleName":"Steadfast Society Robe"}
+{"id":"01a0616b-c5b6-73f0-b04d-45b1f33eded1","esoCollectibleId":13118,"collectibleName":"Stirk Fellowship Cuirass"}
+{"id":"01a0616b-c5b6-7410-b4ef-31aee9dffec1","esoCollectibleId":13125,"collectibleName":"Stirk Fellowship Jack"}
+{"id":"01a0616b-c5b6-7579-b5a7-b54b6e8453f9","esoCollectibleId":13132,"collectibleName":"Stirk Fellowship Jerkin"}
+{"id":"01a0616b-c5b6-7a17-9b71-6023b5c84bba","esoCollectibleId":13139,"collectibleName":"Stirk Fellowship Robe"}
+{"id":"01a0616b-c5b6-716f-9f3a-b5826976e8e9","esoCollectibleId":10691,"collectibleName":"Stonelore Jack"}
+{"id":"01a0616b-c5b6-7a15-925f-8be6797de50d","esoCollectibleId":5628,"collectibleName":"Storm Lord Cuirass"}
+{"id":"01a0616b-c5b6-7cb3-b325-b2fb1db076c3","esoCollectibleId":12550,"collectibleName":"Storm Lord Jerkin"}
+{"id":"01a0616b-c5b6-753c-99d4-0b81c7642c6e","esoCollectibleId":9197,"collectibleName":"Sul-Xan Cuirass"}
+{"id":"01a0616b-c5b6-7488-b30c-37e65c7b17d4","esoCollectibleId":9204,"collectibleName":"Sul-Xan Jack"}
+{"id":"01a0616b-c5b6-7836-b818-53b19eabe98f","esoCollectibleId":9211,"collectibleName":"Sul-Xan Jerkin"}
+{"id":"01a0616b-c5b6-7a0f-ad42-063ea0450bbf","esoCollectibleId":9218,"collectibleName":"Sul-Xan Robe"}
+{"id":"01a0616b-c5b6-73da-87a4-adc95640951c","esoCollectibleId":6874,"collectibleName":"Sunspire Cuirass"}
+{"id":"01a0616b-c5b6-71d3-9eb1-f88eb0f6291d","esoCollectibleId":6881,"collectibleName":"Sunspire Jack"}
+{"id":"01a0616b-c5b6-7714-9be9-24ead6dbdeeb","esoCollectibleId":6888,"collectibleName":"Sunspire Jerkin"}
+{"id":"01a0616b-c5b6-73e5-a4bb-a21a9fef37d1","esoCollectibleId":6895,"collectibleName":"Sunspire Robe"}
+{"id":"01a0616b-c5b6-70ff-bdbe-9a575beda659","esoCollectibleId":7640,"collectibleName":"Swordthane Cuirass"}
+{"id":"01a0616b-c5b6-752a-a309-7cdb0a21b9e4","esoCollectibleId":7647,"collectibleName":"Swordthane Jack"}
+{"id":"01a0616b-c5b6-79ec-aa55-3de48bd4742c","esoCollectibleId":7654,"collectibleName":"Swordthane Jerkin"}
+{"id":"01a0616b-c5b6-7d95-91d4-39f115090b2a","esoCollectibleId":7661,"collectibleName":"Swordthane Robe"}
+{"id":"01a0616b-c5b6-7f87-90f9-f3a9335f9d6f","esoCollectibleId":10073,"collectibleName":"Syrabanic Marine Cuirass"}
+{"id":"01a0616b-c5b6-7c71-9b96-9bbfabbfe93a","esoCollectibleId":10080,"collectibleName":"Syrabanic Marine Jack"}
+{"id":"01a0616b-c5b6-76f9-b72e-68874542c731","esoCollectibleId":10087,"collectibleName":"Syrabanic Marine Jerkin"}
+{"id":"01a0616b-c5b6-70a9-a7e1-441bd53f5811","esoCollectibleId":10094,"collectibleName":"Syrabanic Marine Robe"}
+{"id":"01a0616b-c5b6-7cd4-8fb4-eda45439d77a","esoCollectibleId":10137,"collectibleName":"Systres Guardian Cuirass"}
+{"id":"01a0616b-c5b6-7f89-824b-96bc388740b2","esoCollectibleId":10144,"collectibleName":"Systres Guardian Jack"}
+{"id":"01a0616b-c5b6-744b-9daa-c9e1f86440be","esoCollectibleId":10151,"collectibleName":"Systres Guardian Jerkin"}
+{"id":"01a0616b-c5b6-71f9-9fc8-239add560eee","esoCollectibleId":10158,"collectibleName":"Systres Guardian Robe"}
+{"id":"01a0616b-c5b6-74e2-8e69-eb677ff787f5","esoCollectibleId":13655,"collectibleName":"Tava's Goshawk Cuirass"}
+{"id":"01a0616b-c5b6-739d-b57f-31e692a8c745","esoCollectibleId":4441,"collectibleName":"Telvanni Cuirass"}
+{"id":"01a0616b-c5b6-7497-a7d6-ae9280860a9f","esoCollectibleId":4423,"collectibleName":"Telvanni Jack"}
+{"id":"01a0616b-c5b6-7c4e-b8d8-8aeca71b0ce8","esoCollectibleId":4410,"collectibleName":"Telvanni Jerkin"}
+{"id":"01a0616b-c5b6-7b24-831d-7cf548a61396","esoCollectibleId":4414,"collectibleName":"Telvanni Robe"}
+{"id":"01a0616b-c5b6-79e6-8048-7195b944ed04","esoCollectibleId":11581,"collectibleName":"Thane of Falkreath Cuirass"}
+{"id":"01a0616b-c5b6-7613-9f43-7fd09b361ee5","esoCollectibleId":11927,"collectibleName":"The Recollection Cuirass"}
+{"id":"01a0616b-c5b6-7ed9-bb43-07e43ff36616","esoCollectibleId":11934,"collectibleName":"The Recollection Jack"}
+{"id":"01a0616b-c5b6-71aa-a369-13007b870ff9","esoCollectibleId":11941,"collectibleName":"The Recollection Jerkin"}
+{"id":"01a0616b-c5b6-7cf3-b608-e8574e49fe3f","esoCollectibleId":11948,"collectibleName":"The Recollection Robe"}
+{"id":"01a0616b-c5b6-7952-94a4-5aaded326d46","esoCollectibleId":3833,"collectibleName":"Thieves Guild Cuirass"}
+{"id":"01a0616b-c5b6-7874-ac11-e2f1d2468eeb","esoCollectibleId":3839,"collectibleName":"Thieves Guild Jack"}
+{"id":"01a0616b-c5b6-78b4-8a60-9cdbf643f368","esoCollectibleId":3846,"collectibleName":"Thieves Guild Jerkin"}
+{"id":"01a0616b-c5b6-7ad7-8354-5b02ec1f005c","esoCollectibleId":3863,"collectibleName":"Thieves Guild Robe"}
+{"id":"01a0616b-c5b6-7b8c-b493-ebf3e80a1f2a","esoCollectibleId":8230,"collectibleName":"Thorn Legion Cuirass"}
+{"id":"01a0616b-c5b6-7abe-b966-48214cd02d07","esoCollectibleId":8237,"collectibleName":"Thorn Legion Jack"}
+{"id":"01a0616b-c5b6-79e2-ae9f-c0b2b889622d","esoCollectibleId":8244,"collectibleName":"Thorn Legion Jerkin"}
+{"id":"01a0616b-c5b6-7668-8d98-f9b9497b2b6d","esoCollectibleId":8251,"collectibleName":"Thorn Legion Robe"}
+{"id":"01a0616b-c5b6-7ba3-86af-43fbd860d9d9","esoCollectibleId":13182,"collectibleName":"Tide-Born Cuirass"}
+{"id":"01a0616b-c5b6-7f5c-9dd2-eeb7b42f9935","esoCollectibleId":13189,"collectibleName":"Tide-Born Jack"}
+{"id":"01a0616b-c5b6-7134-99aa-b6e3172d3e0d","esoCollectibleId":13196,"collectibleName":"Tide-Born Jerkin"}
+{"id":"01a0616b-c5b6-7ad8-bffd-317f283407d4","esoCollectibleId":13203,"collectibleName":"Tide-Born Robe"}
+{"id":"01a0616b-c5b6-7fe4-b53d-37e0cadb08aa","esoCollectibleId":13251,"collectibleName":"Time's Herald Cuirass"}
+{"id":"01a0616b-c5b6-72a8-99c6-ba59305bc15c","esoCollectibleId":7208,"collectibleName":"Topal Corsair Jerkin"}
+{"id":"01a0616b-c5b6-7a99-9dfe-35695d78c7f7","esoCollectibleId":12327,"collectibleName":"Tree-Sap Legion Jack"}
+{"id":"01a0616b-c5b6-7fc4-86b1-15307d3b1dbb","esoCollectibleId":3780,"collectibleName":"Trinimac Cuirass"}
+{"id":"01a0616b-c5b6-7939-93a8-38e05c3b3a93","esoCollectibleId":3827,"collectibleName":"Trinimac Jack"}
+{"id":"01a0616b-c5b6-723a-8d14-7bae9a81b7f7","esoCollectibleId":3794,"collectibleName":"Trinimac Jerkin"}
+{"id":"01a0616b-c5b6-7b59-8b40-c445146fa9d4","esoCollectibleId":3801,"collectibleName":"Trinimac Robe"}
+{"id":"01a0616b-c5b6-7c86-8db0-e3fcf50d4057","esoCollectibleId":8921,"collectibleName":"True-Sworn Cuirass"}
+{"id":"01a0616b-c5b6-73fc-82ea-ae9874df1ae3","esoCollectibleId":8928,"collectibleName":"True-Sworn Jack"}
+{"id":"01a0616b-c5b6-7dd3-ae95-2dfba98fb9db","esoCollectibleId":8935,"collectibleName":"True-Sworn Jerkin"}
+{"id":"01a0616b-c5b6-7847-a581-4fc331d3eff6","esoCollectibleId":8942,"collectibleName":"True-Sworn Robe"}
+{"id":"01a0616b-c5b6-7561-a098-55ca3197fc18","esoCollectibleId":13229,"collectibleName":"Truth in Wisdom Jack"}
+{"id":"01a0616b-c5b6-711e-985b-2435d202874d","esoCollectibleId":4360,"collectibleName":"Tsaesci Cuirass"}
+{"id":"01a0616b-c5b6-782e-9d27-70aac44cfcb4","esoCollectibleId":4367,"collectibleName":"Tsaesci Jack"}
+{"id":"01a0616b-c5b6-72ac-8e05-4c7d7670312a","esoCollectibleId":4374,"collectibleName":"Tsaesci Jerkin"}
+{"id":"01a0616b-c5b6-7df2-8c9a-512424119eeb","esoCollectibleId":4381,"collectibleName":"Tsaesci Robe"}
+{"id":"01a0616b-c5b6-78b0-adc2-5e258cc2ac21","esoCollectibleId":13419,"collectibleName":"Vaermina's Terror Jerkin"}
+{"id":"01a0616b-c5b6-7240-a128-1816cc82cac6","esoCollectibleId":11632,"collectibleName":"Vinedusk Assassin Jerkin"}
+{"id":"01a0616b-c5b6-79de-a4d4-c162ab2f6a85","esoCollectibleId":13341,"collectibleName":"Voskrona Guardian Cuirass"}
+{"id":"01a0616b-c5b6-7539-a9b0-350c26e05dbe","esoCollectibleId":13348,"collectibleName":"Voskrona Guardian Jack"}
+{"id":"01a0616b-c5b6-7b1b-86a6-aa9603af04f2","esoCollectibleId":13355,"collectibleName":"Voskrona Guardian Jerkin"}
+{"id":"01a0616b-c5b6-735d-ac9e-3b0bc29e6ad8","esoCollectibleId":13362,"collectibleName":"Voskrona Guardian Robe"}
+{"id":"01a0616b-c5b6-7906-a83a-f46308c75fc3","esoCollectibleId":8962,"collectibleName":"Waking Flame Cuirass"}
+{"id":"01a0616b-c5b6-7d67-8353-bcda2348c8f8","esoCollectibleId":8969,"collectibleName":"Waking Flame Jack"}
+{"id":"01a0616b-c5b6-74be-a45b-29f687bec98e","esoCollectibleId":8976,"collectibleName":"Waking Flame Jerkin"}
+{"id":"01a0616b-c5b6-7cea-8b7d-6d518c9d81cc","esoCollectibleId":8983,"collectibleName":"Waking Flame Robe"}
+{"id":"01a0616b-c5b6-7c10-967b-ebf8838ce266","esoCollectibleId":13948,"collectibleName":"Warrior Wave Marine Jack"}
+{"id":"01a0616b-c5b6-72a0-849b-3663f8620885","esoCollectibleId":8620,"collectibleName":"Wayward Guardian Cuirass"}
+{"id":"01a0616b-c5b6-7dce-ae27-cea816a86df1","esoCollectibleId":8627,"collectibleName":"Wayward Guardian Jack"}
+{"id":"01a0616b-c5b6-7870-ba2b-5c9b0ab517bc","esoCollectibleId":8634,"collectibleName":"Wayward Guardian Jerkin"}
+{"id":"01a0616b-c5b6-7647-85ea-da7d945a1d89","esoCollectibleId":8641,"collectibleName":"Wayward Guardian Robe"}
+{"id":"01a0616b-c5b6-7390-8e36-0b9aa3098cb6","esoCollectibleId":5665,"collectibleName":"Welkynar Cuirass"}
+{"id":"01a0616b-c5b6-70a6-818e-c677b86aedd7","esoCollectibleId":5672,"collectibleName":"Welkynar Jack"}
+{"id":"01a0616b-c5b6-752d-9228-99339f40139b","esoCollectibleId":5679,"collectibleName":"Welkynar Jerkin"}
+{"id":"01a0616b-c5b6-7bf7-ac7b-115766eb1468","esoCollectibleId":5686,"collectibleName":"Welkynar Robe"}
+{"id":"01a0616b-c5b6-7d31-9d39-050da43663b0","esoCollectibleId":12868,"collectibleName":"Welwa Feathered Warrior Jerkin"}
+{"id":"01a0616b-c5b6-775b-9740-25fe84f98e8e","esoCollectibleId":12105,"collectibleName":"West Weald Legion Cuirass"}
+{"id":"01a0616b-c5b6-771b-89d1-a68e7219c4d4","esoCollectibleId":12112,"collectibleName":"West Weald Legion Jack"}
+{"id":"01a0616b-c5b6-73b8-8813-55615641c248","esoCollectibleId":12119,"collectibleName":"West Weald Legion Jerkin"}
+{"id":"01a0616b-c5b6-73d4-90e7-239863deb258","esoCollectibleId":12126,"collectibleName":"West Weald Legion Robe"}
+{"id":"01a0616b-c5b6-75dd-b49d-e5872e1a868a","esoCollectibleId":13380,"collectibleName":"Wickerchain Soul Jerkin"}
+{"id":"01a0616b-c5b6-7664-947f-2d4d38756bb6","esoCollectibleId":7374,"collectibleName":"Windhelm Scale Tunic"}
+{"id":"01a0616b-c5b6-7342-a799-b61a0eecdb9b","esoCollectibleId":10360,"collectibleName":"Witchmother's Servant Jerkin"}
+{"id":"01a0616b-c5b6-7289-a8ed-ebee937a2f14","esoCollectibleId":1715,"collectibleName":"Wood Elf Cuirass 1"}
+{"id":"01a0616b-c5b6-7bc0-9f0b-a086d38230fc","esoCollectibleId":1721,"collectibleName":"Wood Elf Cuirass 2"}
+{"id":"01a0616b-c5b6-7d97-b220-b835b3711647","esoCollectibleId":1726,"collectibleName":"Wood Elf Cuirass 3"}
+{"id":"01a0616b-c5b6-77fd-86a4-03ea293611b4","esoCollectibleId":1731,"collectibleName":"Wood Elf Cuirass 4"}
+{"id":"01a0616b-c5b6-7bf5-9c9d-6a477d2a824c","esoCollectibleId":1654,"collectibleName":"Wood Elf Jack 1"}
+{"id":"01a0616b-c5b6-70a4-b631-5e4708412b75","esoCollectibleId":1660,"collectibleName":"Wood Elf Jack 2"}
+{"id":"01a0616b-c5b6-7346-88db-7f99354d629e","esoCollectibleId":1667,"collectibleName":"Wood Elf Jack 3"}
+{"id":"01a0616b-c5b6-7ceb-b7a8-153496a7870f","esoCollectibleId":1673,"collectibleName":"Wood Elf Jack 4"}
+{"id":"01a0616b-c5b6-7f61-82dd-6c1d3d59b22c","esoCollectibleId":2098,"collectibleName":"Wood Elf Jerkin 1"}
+{"id":"01a0616b-c5b6-7914-b6c9-9c5a59eb6d63","esoCollectibleId":2099,"collectibleName":"Wood Elf Jerkin 2"}
+{"id":"01a0616b-c5b6-700d-993f-c4af045fd251","esoCollectibleId":2100,"collectibleName":"Wood Elf Jerkin 3"}
+{"id":"01a0616b-c5b6-7ea9-999c-dfbe32dc9ecb","esoCollectibleId":2101,"collectibleName":"Wood Elf Jerkin 4"}
+{"id":"01a0616b-c5b6-7b70-b0fc-b98963f72c76","esoCollectibleId":1679,"collectibleName":"Wood Elf Robe 1"}
+{"id":"01a0616b-c5b6-773f-b6d0-dfef5b82ae6a","esoCollectibleId":1681,"collectibleName":"Wood Elf Robe 2"}
+{"id":"01a0616b-c5b6-7f8c-97c0-1c317d34efb4","esoCollectibleId":1686,"collectibleName":"Wood Elf Robe 3"}
+{"id":"01a0616b-c5b6-79ed-82b1-deea621f828c","esoCollectibleId":1691,"collectibleName":"Wood Elf Robe 4"}
+{"id":"01a0616b-c5b6-7af2-ac63-2d0388e6c788","esoCollectibleId":13257,"collectibleName":"World-Eater's Ruin Cuirass"}
+{"id":"01a0616b-c5b6-79dd-8b48-30b7d9355609","esoCollectibleId":4214,"collectibleName":"Worm Cult Cuirass"}
+{"id":"01a0616b-c5b6-7e48-9566-c4d57a99818d","esoCollectibleId":12836,"collectibleName":"Worm Cult Hunter Jack"}
+{"id":"01a0616b-c5b6-77fb-99a8-f7aa0777c657","esoCollectibleId":4229,"collectibleName":"Worm Cult Jack"}
+{"id":"01a0616b-c5b6-7ce5-81ce-b0ddb8037cf2","esoCollectibleId":4221,"collectibleName":"Worm Cult Jerkin"}
+{"id":"01a0616b-c5b6-7ef9-885a-b99558f762ae","esoCollectibleId":4228,"collectibleName":"Worm Cult Robe"}
+{"id":"01a0616b-c5b6-7feb-85e0-e336bd2dfc7b","esoCollectibleId":13407,"collectibleName":"Wormwrithe Jack"}
+{"id":"01a0616b-c5b6-7be4-9afc-686793be7a54","esoCollectibleId":11722,"collectibleName":"Wrathsun Cuirass"}
+{"id":"01a0616b-c5b6-770c-9ed9-b54ed879d78c","esoCollectibleId":3428,"collectibleName":"Xivkyn Cuirass"}
+{"id":"01a0616b-c5b6-7b44-bad7-02d814304246","esoCollectibleId":3435,"collectibleName":"Xivkyn Jack"}
+{"id":"01a0616b-c5b6-7334-ba1b-fcf50cb9c554","esoCollectibleId":3442,"collectibleName":"Xivkyn Jerkin"}
+{"id":"01a0616b-c5b6-77fb-afa8-0eb44fc6d3be","esoCollectibleId":3449,"collectibleName":"Xivkyn Robe"}
+{"id":"01a0616b-c5b6-7874-b830-9c40d61f9f5a","esoCollectibleId":11803,"collectibleName":"Y'ffre's Fallen-Wood Cuirass"}
+{"id":"01a0616b-c5b6-7591-9e6f-fbfe2fb48498","esoCollectibleId":10442,"collectibleName":"Y'ffre's Will Cuirass"}
+{"id":"01a0616b-c5b6-75c0-9aee-1b0911b6c6d8","esoCollectibleId":10449,"collectibleName":"Y'ffre's Will Jack"}
+{"id":"01a0616b-c5b6-7de2-814b-ce83f74a7de0","esoCollectibleId":10456,"collectibleName":"Y'ffre's Will Jerkin"}
+{"id":"01a0616b-c5b6-7935-afbc-5a998145a916","esoCollectibleId":10463,"collectibleName":"Y'ffre's Will Robe"}
+{"id":"01a0616b-c5b6-74f1-90c4-d955bbf1d71a","esoCollectibleId":13672,"collectibleName":"Yaghra's Bane Cuirass"}
+{"id":"01a0616b-c5b6-7a57-b5da-cd655def787b","esoCollectibleId":3334,"collectibleName":"Yokudan Cuirass"}
+{"id":"01a0616b-c5b6-7dcc-a964-363a8d040cd5","esoCollectibleId":3327,"collectibleName":"Yokudan Jack"}
+{"id":"01a0616b-c5b6-7db2-8905-1d9ade142e69","esoCollectibleId":3381,"collectibleName":"Yokudan Jerkin"}
+{"id":"01a0616b-c5b6-7127-a3a7-b53a63592ca9","esoCollectibleId":3387,"collectibleName":"Yokudan Robe"}
+{"id":"01a0616b-c5b6-7cfd-aaad-f3d1610fdb3a","esoCollectibleId":8811,"collectibleName":"Ysgramor's Ascendance Cuirass"}
+{"id":"01a0616b-c5b6-7b15-9acc-b5d79df9eec4","esoCollectibleId":13222,"collectibleName":"Zenithar Battlesmith Jack"}
