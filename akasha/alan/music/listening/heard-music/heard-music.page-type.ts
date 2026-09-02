@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { PersonSlug } from "../../../../seat-system/seats/properties/person-slug.relation-property.ts"
-import type { Tracks } from "../tracks/tracks.page-property-entry.ts"
+import type { Tracks } from "./tracks/tracks.page-property-entry.ts"
 
 export type HeardMusic = Page & {
   personSlug: PersonSlug
