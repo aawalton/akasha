@@ -85,6 +85,7 @@
     "./eso-ui-extra": "./eso-ui-extra/eso-ui-extra.type-declaration.d.ts",
     "./eso-world-map-filters": "./eso-world-map-filters/eso-world-map-filters.type-declaration.d.ts",
     "./eso-world-map-pins": "./eso-world-map-pins/eso-world-map-pins.type-declaration.d.ts",
+    "./eso-world-map-window": "./eso-world-map-window/eso-world-map-window.type-declaration.d.ts",
     "./eso-world-map-zoom": "./eso-world-map-zoom/eso-world-map-zoom.type-declaration.d.ts",
     "./eso-writ": "./eso-writ/eso-writ.type-declaration.d.ts",
     "./eso-writ-right-click": "./eso-writ-right-click/eso-writ-right-click.type-declaration.d.ts",

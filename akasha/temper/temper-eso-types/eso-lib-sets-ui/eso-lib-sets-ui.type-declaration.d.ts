@@ -57,7 +57,7 @@ declare const ZO_SortHeader_Initialize: (
 
 declare const zo_mixin: (this: void, target: object, ...sources: object[]) => void
 
-declare const ZO_WorldMap_PanToWayshrine: (this: void, wayshrineNodeId: number) => void
+declare let ZO_WorldMap_PanToWayshrine: (this: void, wayshrineNodeId: number) => void
 declare const ZO_WorldMap_IsPinGroupShown: (this: void, mapFilterType: number) => boolean
 declare const ZO_WorldMap_MouseUp: (
   this: void,

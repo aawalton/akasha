@@ -114,7 +114,7 @@ declare const WORLD_MAP_ZONE_STORY_GAMEPAD_FRAGMENT: SceneFragment
 
 declare const WORLD_MAP_KEY_FILTERS_FRAGMENT: SceneFragment
 
-declare const ZO_WorldMap_ShowWorldMap: ((this: void) => undefined) | undefined
+declare let ZO_WorldMap_ShowWorldMap: ((this: void) => undefined) | undefined
 
 declare const ZO_WorldMap_GetMode: (this: void) => number
 
