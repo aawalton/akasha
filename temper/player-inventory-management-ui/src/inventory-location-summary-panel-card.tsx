@@ -3,9 +3,9 @@
 import type {
   InventoryLocationGroup,
   InventoryLocationSummary,
-} from "@temper/game-items-core/inventory-grouping"
-import type { InventoryNode } from "@temper/game-items-core/inventory-node-types"
-import { type LocationTypeId, locationTypes } from "@temper/game-items-core/location-type-data"
+} from "@akasha/temper-items-core/inventory-grouping"
+import type { InventoryNode } from "@akasha/temper-items-core/inventory-node-types"
+import { type LocationTypeId, locationTypes } from "@akasha/temper-items-core/location-type-data"
 import { InventoryPanelCard } from "./inventory-panel-card"
 
 interface InventoryLocationSummaryPanelCardProps {
