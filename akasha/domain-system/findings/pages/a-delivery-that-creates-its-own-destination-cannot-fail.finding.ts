@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aDeliveryThatCreatesItsOwnDestinationCannotFail = {
+  id: "01a06202-3164-7000-a507-9237ebfc019d",
+  pageTypeSlug: "finding",
+  slug: "a-delivery-that-creates-its-own-destination-cannot-fail",
+  domainSlug: "workspace-package/seat-system",
+  claim:
+    "A delivery that creates its own destination cannot fail, so a wrong address reads as a successful send. `writeMessage` made the recipient's directory as it wrote, so a misspelled name was answered `written` with an id rather than refused. Three defects of this one shape sat on the temper-watcher alert path at once: the send, the report of the send, and the stamp recording it.",
+  evidence:
+    "Measured 2026-09-02.\n\nTHE INSTANCE. `tools/lib/message-file.ts` checked a recipient for a slash and a leading dot, then took any name at all, and the write it makes creates the directory it addresses. `pages/message/` holds 68 messages nobody drained, in three directories no seat was ever named for: `change-harness-cluster-operator` 39, addressed by itself; `domain-archivist-review-documents` 28, from `supervisor`; `amy-alan-handler` 1, from `service`. The newest is 2026-08-27. Both directories named for a seat hold nothing, because a seat drains what it is sent. Repaired in 3476363b56.\n\nTHE SHAPE, which is worth more, because one alert path carried three of it. In `services/temper-watcher-liveness.ts`, before 5c4423c3a6: the primary alert and its fallback were both `ops seat record`, which does not exist, and the fallback's exit code was never read, so a page reached nobody while `main` returned 0; the printed `paged=` reported whether a page had been decided, never whether one arrived; and the cooldown stamp advanced whatever became of the page, so an undelivered alert opened the hour of quiet that follows a delivered one, and the debounce suppressed retrying it.\n\nWhat unites the four is not messaging. Each recorded an intention as an outcome — a directory made, an exit code unread, a decision printed, a stamp written — and none of them is evidence that anything arrived. The question that finds this shape is what would be observably different had the act failed. Where the answer is nothing, the success is unfalsifiable.\n\nThe predicate already existed at `agent-record.ts:writeAnnouncement`. It guarded one caller of seven.",
+} as const satisfies Finding
