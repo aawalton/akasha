@@ -3,7 +3,7 @@ import type { Addressed } from "../ops-cli/global/address.ts"
 import { anyRefused, render } from "@akasha/verdict/outcome"
 import { carriesBytes } from "../page/file-kind/carries-bytes.ts"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { pageOfSidecar, sidecarCarriedTo, sidecarsOf } from "../page/sidecar/sidecar.ts"
+import { pagesOfSidecar, sidecarCarriedTo, sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { fail } from "../patches/patch.ts"
 import { type Carry, land, type Landing, LandingRefused } from "../repo/land/land.ts"
 import { canonicalize } from "@akasha/pages-system/repo-path"
@@ -89,8 +89,7 @@ export function expandDirectories(
         quarantined += 1
         continue
       }
-      const page = pageOfSidecar(each)
-      if (page !== null && inside.has(page)) {
+      if (pagesOfSidecar(each).some((one) => inside.has(one))) {
         beside += 1
         continue
       }
