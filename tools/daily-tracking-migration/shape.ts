@@ -31,11 +31,26 @@ export const ENTRY_EXTENSION = "jsonl"
 /**
  * The import the rendered page states, and the type it satisfies.
  *
- * No `daily-tracking.page-type.ts` exists under `akasha/` yet. The converter renders this line
- * anyway, because a page that does not name its type is not a page, and the dry run counts the
- * property pages the type still needs. Change these two when the type lands somewhere else.
+ * The type is landed at `akasha/alan/daily-tracking/daily-tracking.page-type.ts`, and a day lands
+ * at `pages/daily-tracking/day-<date>.daily-tracking.ts`, which is two folders below the repo root.
+ * So the specifier is that path, relative, and it is relative for three reasons.
+ *
+ * `akasha/alan/alan.domain.ts` names its parts `page-type/daily-tracking` and
+ * `workspace-package/alan-web`. Akasha's own domain page therefore already says which of the two
+ * this is, and a package specifier would need it to be the other one.
+ *
+ * A page outside `akasha/` that reaches a type inside it does say `@akasha/...` — fourteen do, under
+ * `alanwalton/calendar-sync` and `alanwalton/location-traces-access`. But every one of the fourteen
+ * sits in a folder that is itself a workspace package and declares `"@akasha/code-system":
+ * "workspace:*"` for the reach. Neither `pages/` nor `pages/daily-tracking/` is a package, so there
+ * is nowhere for a day page to declare such a dependency.
+ *
+ * And every `.ts` under `pages/` reaches the rest of the repo this way already: all 39 of them, at
+ * `pages/workflow-template/`, which is the same depth, say `../../tools/lib/...`.
+ *
+ * Change these two when the type lands somewhere else.
  */
-export const DECLARING_IMPORT = "@akasha/alan/daily-tracking"
+export const DECLARING_IMPORT = "../../akasha/alan/daily-tracking/daily-tracking.page-type.ts"
 
 export const DECLARING_TYPE = "DailyTracking"
 
@@ -139,8 +154,9 @@ export const DAY_REFERENCE_KEY = "daily-tracking"
 /**
  * Which property page each key needs before a day can land.
  *
- * `akasha` holds a page property page for `title` alone out of all of these, so this list is what
- * stands between a converted day and a landed one. The dry run prints it.
+ * The dry run holds this list against what the page type declares, and every one of them is
+ * declared as of 2026-09-01. It is kept because the day's keys and the type's properties are two
+ * lists that may drift apart again, and the dry run is where that drift is meant to be seen.
  */
 export const PROPERTY_PAGES_NEEDED: readonly string[] = [
   ...DAY_FIELDS.filter((f) => f.key !== "id" && f.key !== "page-type-slug" && f.key !== "slug").map(
