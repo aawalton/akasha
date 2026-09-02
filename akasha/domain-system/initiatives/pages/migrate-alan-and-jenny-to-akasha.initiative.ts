@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "Re-derived at 13:22 with `ts.preProcessFile`, three runs identical and no specifier unresolved: the extension program holds 306 files outside its folder, not 197. tools/ 66, akasha/ 194, page/ 35, repo/ 7, agent/ 2, refusal/ 1, patches/ 1. The old five buckets summed to 195 and were read off a build from 10:56. Direction is right: akasha 35 to 194 while tools 116 to 66. The folder has not moved, though: 76 files under `src`, a workspace member, and `code-editor/extensions/ops` symlinks to it.",
+        "82 tracked files, 77 `.ts` and 1 `.md` under `src`. Only ONE tracked file imports inward, `tools/verb-server.test.ts:12`, so nothing pins the folder. `.server` markers: a verified zero. Not one symlink but 10, four absolute across separate editor checkouts. The old `tools 116 to 66` was two root sets, not two dates. Seven `@tools/lib` reaches clear `imports-inside` by blindness to wildcard exports, so they move last. First piece: set `akasha/editor-extension` up as a package exporting nothing.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
