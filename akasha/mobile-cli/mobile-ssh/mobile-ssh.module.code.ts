@@ -28,6 +28,7 @@ function sshArgs(target: SshTarget): readonly string[] {
 
 export interface RunSshOptions {
   readonly stream?: boolean
+  readonly quiet?: boolean
 }
 
 export interface SshResult {
@@ -35,7 +36,16 @@ export interface SshResult {
   readonly code: number
 }
 
-function rsyncFileToHost(target: SshTarget, localFile: string, remotePath: string): Promise<void> {
+function stdioFor(quiet: boolean | undefined): "inherit" | ["ignore", "ignore", "ignore"] {
+  return quiet === true ? ["ignore", "ignore", "ignore"] : "inherit"
+}
+
+function rsyncFileToHost(
+  target: SshTarget,
+  localFile: string,
+  remotePath: string,
+  quiet?: boolean
+): Promise<void> {
   return new Promise<void>((resolve, reject) => {
     const child = spawn(
       "rsync",
@@ -47,7 +57,7 @@ function rsyncFileToHost(target: SshTarget, localFile: string, remotePath: strin
         localFile,
         `${target.user}@${target.host}:${remotePath}`,
       ],
-      { stdio: "inherit" }
+      { stdio: stdioFor(quiet) }
     )
     child.on("error", (err: Error & { code?: string }) => {
       if (err.code === "ENOENT") {
@@ -74,10 +84,16 @@ function sshExec(
   options: RunSshOptions
 ): Promise<SshResult> {
   return new Promise<SshResult>((resolve, reject) => {
+    const quiet = options.quiet === true
     const child = spawn("ssh", [...sshArgs(target), remoteCommand], {
-      stdio: ["ignore", "pipe", "inherit"],
+      stdio: ["ignore", "pipe", quiet ? "pipe" : "inherit"],
     })
     let stdout = ""
+    if (quiet && child.stderr) {
+      child.stderr.on("data", (chunk: Buffer) => {
+        stdout += chunk.toString()
+      })
+    }
     if (child.stdout) {
       child.stdout.on("data", (chunk: Buffer) => {
         stdout += chunk.toString()
@@ -109,7 +125,7 @@ async function deliverAndRun(
   const remotePath = remoteScriptPath(`${process.pid}-${Date.now()}`)
   try {
     writeFileSync(localFile, script, { mode: 0o600 })
-    await rsyncFileToHost(target, localFile, remotePath)
+    await rsyncFileToHost(target, localFile, remotePath, options.quiet)
     return await sshExec(target, remoteRunScriptCommand(remotePath), options)
   } finally {
     rmSync(dir, { recursive: true, force: true })
@@ -126,6 +142,7 @@ export function runSshResult(
 
 export interface RsyncOptions {
   readonly excludes?: readonly string[]
+  readonly quiet?: boolean
 }
 
 export function rsyncToHost(
@@ -147,7 +164,7 @@ export function rsyncToHost(
         `${localDir}/`,
         `${target.user}@${target.host}:${remoteDir}/`,
       ],
-      { stdio: "inherit" }
+      { stdio: stdioFor(options.quiet) }
     )
     child.on("error", (err: Error & { code?: string }) => {
       if (err.code === "ENOENT") {

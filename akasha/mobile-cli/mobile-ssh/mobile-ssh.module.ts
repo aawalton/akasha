@@ -22,7 +22,15 @@ export const mobileSsh = {
     },
     {
       invariantKind: "departure",
-      statement: "Remote stderr is inherited straight to this process and never captured.",
+      statement: "Remote stderr is inherited straight to this process.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller asking to be quiet is given that stderr among what the run said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A quiet rsync says nothing on either stream.",
     },
     {
       invariantKind: "departure",
