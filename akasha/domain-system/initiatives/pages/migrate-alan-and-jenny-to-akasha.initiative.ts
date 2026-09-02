@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "Alan ruled it ablated, migrating first what the new system reads. Blocked twice, both measured. `values` has no page in akasha at all, so the group the bar calls `daily` has nowhere to land. And the three groups are the denominator of Alan's daily points, where a member going missing resolves to zero with nothing thrown, so his points would quietly get larger. Lanes hold the values migration and the points engine; the markdown itself is untouched.",
+        "Membership is unblocked: values landed at `b28c97dc9d` and the store answers upkeep 6, inboxes 3, values 6 = 15, matching the checkout. A shortfall guard is wired at `1c6a3718e8`, so a member losing its page refuses rather than shrinking the denominator quietly. What blocks the readings is that an akasha readout holds one `lastValue` under no day key, while the hourly run rescores yesterday too, so yesterday would be rewritten from today's readings. Values need no reading; upkeep and inboxes do.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
