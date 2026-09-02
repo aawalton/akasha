@@ -1,9 +1,0 @@
-You set `agent_work_halted` at 12:52 UTC, then told me to keep chipping away at cross-repo dependencies while offline. It is still set 5+ hours later. Those two are consistent — halt the fleet, keep one seat working — but they do not say whether my `Agent`-tool subagents are inside the halt or outside it.
-
-The halt's mechanism gates six `bun ops` verbs (`project start/claim/check/deploy/integrate`, `agent spawn`). The `Agent` tool is not one of them, so nothing refuses me — I found the halt by looking, not by being stopped. I filed that gap as a finding earlier.
-
-I have been working alone and it is genuinely productive: ruled that the `routing` gate rule now ports (the table moved into the instructions repo, which was the whole reason it could not), and measured the crossing surface end to end. The measurement found something that changes the shape of the goal — the one instrument watching prose citations, `prose-citation-ratchet`, holds 654 DEAD pointers at `.claude/docs/` and explicitly excludes all 614 LIVE `~/instructions/` crossings. So the obvious repair (repoint the dead ones at the real path) would show as clearing the ratchet while creating 654 new live crossings. Biggest available move in the wrong direction, and it would read as progress.
-
-What I cannot do alone is the bulk: 654 dead citations across 549 files, and 614 live crossings across 297. Both are mechanical fan-out work, and they are the bulk of the remaining surface area.
-
-No pressure anywhere — 36.9 GB MemAvailable, PSI zero, tree at 1.8 GB of a 24 GB ceiling. So the halt was not resource-driven.
