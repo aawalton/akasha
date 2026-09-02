@@ -43,9 +43,7 @@ func cases(now: Date) -> [RenderCase] {
         {"stoplights":[\
         {"inbox":"email","tier":"black","reading":"3.0k","nextTier":null,"progress":null},\
         {"inbox":"tasks","tier":"blue","reading":"0","nextTier":null,"progress":null},\
-        {"inbox":"temperTasks","tier":"red","reading":"23","nextTier":"yellow","progress":0.8444444444444444},\
-        {"inbox":"texts","tier":"green","reading":"6","nextTier":null,"progress":null},\
-        {"inbox":"questions","tier":"yellow","reading":"2","nextTier":"green","progress":0.5}]}
+        {"inbox":"temperTasks","tier":"red","reading":"23","nextTier":"yellow","progress":0.8444444444444444}]}
         """
     let upkeep = """
         {"stoplights":[\

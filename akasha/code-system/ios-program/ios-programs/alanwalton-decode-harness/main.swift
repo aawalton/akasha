@@ -180,9 +180,9 @@ check(
     upkeepCount(["plants", "activity", "sleep", "hygiene", "capacity", "safety", "meds"]) == 7,
     "seven entries")
 check(
-    "five inbox circles decode",
-    inboxCount(["email", "tasks", "temperTasks", "texts", "questions"]) == 5,
-    "five entries")
+    "three inbox circles decode",
+    inboxCount(["email", "tasks", "temperTasks"]) == 3,
+    "three entries")
 
 check("an empty upkeep payload is rejected", upkeepCount([]) == nil, "no stoplights")
 check("an empty inbox payload is rejected", inboxCount([]) == nil, "no stoplights")

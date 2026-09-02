@@ -7,9 +7,7 @@ export const alanInboxes = {
   definition: "the inboxes Alan keeps at empty",
   partSlugs: [
     "readout/inboxes-email",
-    "readout/inboxes-questions",
     "readout/inboxes-tasks",
-    "readout/inboxes-texts",
     "workstation-service/inbox-reading-service",
     "workstation-service/inbox-relay-service",
   ],
