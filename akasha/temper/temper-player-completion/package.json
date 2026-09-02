@@ -51,6 +51,8 @@
     "./completion-named-shape": "./completion-named-shape/completion-named-shape.module.code.ts",
     "./completion-override": "./completion-override/completion-override.module.code.ts",
     "./completion-override-row": "./completion-override-row/completion-override-row.module.code.ts",
+    "./completion-progress-index": "./completion-progress-index/completion-progress-index.module.code.ts",
+    "./completion-card-task-progress": "./completion-card-task-progress/completion-card-task-progress.module.code.ts",
     "./completion-percent": "./completion-percent/completion-percent.module.code.ts",
     "./completion-poi-progress": "./completion-poi-progress/completion-poi-progress.module.code.ts",
     "./completion-quest-progress": "./completion-quest-progress/completion-quest-progress.module.code.ts",

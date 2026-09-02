@@ -36,6 +36,8 @@ export const temperPlayerCompletion = {
     "module/completion-merge-forward",
     "module/completion-mount-training-completeness",
     "module/completion-override-row",
+    "module/completion-progress-index",
+    "module/completion-card-task-progress",
     "module/completion-percent",
     "module/completion-scope-rollup",
     "module/cyrodiil-wayshrine",
