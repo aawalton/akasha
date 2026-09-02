@@ -63,7 +63,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A shorthand names the key and the value at once.",
+      statement: "A shorthand names the key and the value.",
     },
     {
       invariantKind: "departure",

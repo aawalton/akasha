@@ -13,7 +13,7 @@ export const modelAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "Four prompts are in flight at once.",
+      statement: "Four prompts are in flight.",
     },
     {
       invariantKind: "departure",

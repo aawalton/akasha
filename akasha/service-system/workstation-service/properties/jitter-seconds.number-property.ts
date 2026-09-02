@@ -12,7 +12,7 @@ export const jitterSeconds = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Timers stating this do not all start at once.",
+      statement: "Each timer stating this starts at its own moment.",
     },
   ],
 } as const satisfies NumberProperty

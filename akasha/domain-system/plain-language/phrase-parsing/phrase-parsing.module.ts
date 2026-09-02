@@ -9,7 +9,7 @@ export const phraseParsing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A word carrying more than one class is read every way at once.",
+      statement: "A word carrying several classes is read every way.",
     },
     {
       invariantKind: "departure",

@@ -10,7 +10,7 @@ export const serviceReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A service is reached by its slug or every service is reached at once.",
+      statement: "A reading naming no slug reaches every service.",
     },
     {
       invariantKind: "departure",
