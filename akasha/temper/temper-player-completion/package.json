@@ -35,6 +35,8 @@
     "./completion-override-row": "./completion-override-row/completion-override-row.module.code.ts",
     "./completion-percent": "./completion-percent/completion-percent.module.code.ts",
     "./completion-recipe-progress": "./completion-recipe-progress/completion-recipe-progress.module.code.ts",
+    "./completion-scribing-progress": "./completion-scribing-progress/completion-scribing-progress.module.code.ts",
+    "./completion-skill-line-progress": "./completion-skill-line-progress/completion-skill-line-progress.module.code.ts",
     "./completion-skill-points-progress": "./completion-skill-points-progress/completion-skill-points-progress.module.code.ts",
     "./completion-summary-companion": "./completion-summary-companion/completion-summary-companion.module.code.ts",
     "./completion-ui-types": "./completion-ui-types/completion-ui-types.module.code.ts",
@@ -46,12 +48,16 @@
     "./skill-point-zone-sources": "./skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
   },
   "dependencies": {
+    "@akasha/temper-character-skills": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-races": "workspace:*",
+    "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
+    "@akasha/temper-skill-morphs": "workspace:*",
+    "@akasha/temper-skill-morphs-access": "workspace:*",
     "@akasha/utils-narrow": "workspace:*"
   }
 }
