@@ -4,13 +4,19 @@ import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { EditableNumber } from "@akasha/design-forms/editable-number"
 import { InputGroup, InputGroupAddon, InputGroupInput } from "@akasha/design-forms/input-group"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
 import type {
   CategoryRule,
   DestinationChain,
   MoveToDestination,
   StockScope,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { ChevronRight } from "lucide-react"
 import {
   ACTION_OPTIONS,
