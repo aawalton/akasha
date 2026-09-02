@@ -1,7 +1,13 @@
 "use client"
 
-import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
-import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
+import {
+  Dialog,
+  DialogBody,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+} from "@akasha/design-primitives/dialog"
+import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { ReactNode } from "react"
 import { AffectedItemsViews } from "./affected-items-views"
 
