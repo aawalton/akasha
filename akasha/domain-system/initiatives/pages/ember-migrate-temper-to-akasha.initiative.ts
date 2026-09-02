@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Akasha writes one entry file per property, so the old `.partN` split is a stray and the 8,388,608-byte ceiling holds the whole. Of 252 source jsonl, 227 had landed overnight and 1 more did. Three walls need Alan: the 24-file item sweep concatenates to 188,484,624 bytes, 22x over; 381MB of inventory chunks and 22 completion captures are each one document rather than rows, so the entry ceiling does not reach them. Nothing under `pages/` is deleted.",
+        "The inventory chunks are no wall. Rejoined they are 151 captures, each landed as one `stacks` entry file beside its `temper-inventory-snapshot` page, the largest 2,832,763 bytes of 8,388,608, and every row round-trips to its source. 674,612 rows, 408MB. Two walls need Alan: the 24-file item sweep concatenates to 188,484,624 bytes, 22x over, and 22 completion captures are one document rather than rows. Nothing under `pages/` is deleted.",
     },
     {
       statement: "No part of temper is outside akasha.",
