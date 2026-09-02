@@ -5,4 +5,11 @@ export const musicListening = {
   pageTypeSlug: "domain",
   slug: "music-listening",
   definition: "what has been listened to",
+  partSlugs: [
+    "page-type/heard-music",
+    "page-type/music-day",
+    "text-property/artist-name",
+    "text-property/spotify-track-id",
+    "text-property/track-name",
+  ],
 } as const satisfies Domain
