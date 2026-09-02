@@ -2,7 +2,7 @@ import { getPageByIdSuffix, getPageByIdSuffixAcrossTypes } from "@akasha/pages-a
 import { getDescendantPageTypeSlugs } from "@akasha/pages-access/page-type"
 import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
+import { PageDetailContent } from "@akasha/pages-ui-components/page-detail-content"
 import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { data } from "react-router"

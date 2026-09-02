@@ -1,5 +1,5 @@
 import { getPageByIdSuffix, getPages } from "@akasha/pages-access/get"
-import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
+import { PageDetailContent } from "@akasha/pages-ui-components/page-detail-content"
 import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
