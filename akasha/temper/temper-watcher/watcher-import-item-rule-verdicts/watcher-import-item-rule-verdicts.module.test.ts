@@ -266,6 +266,40 @@ test("a queue whose every entry is refused reports an error naming the discard",
   ])
 })
 
+test("a queue keyed from four rather than from one reads back whole", () => {
+  const entry = `[4] =\n{\n["kind"] = "item-rule-verdict",\n["itemId"] = 45855,\n["itemName"] = "Ancestor Silk",\n["action"] = "sell",\n},`
+  const content = savedVariables(accountWith("@alan", entry))
+  expect(JSON.stringify(extractPendingSettingsMutations(content))).toBe(
+    '{"found":1,"mutations":[{"kind":"item-rule-verdict","itemId":45855,"itemName":"Ancestor Silk","action":"sell"}]}'
+  )
+})
+
+test("a queue there holding nothing reads as nothing found", () => {
+  expect(
+    JSON.stringify(extractPendingSettingsMutations(savedVariables(accountWith("@alan", ""))))
+  ).toBe('{"found":0,"mutations":[]}')
+})
+
+test("an entry missing a field the shape names is refused whole", () => {
+  expect(
+    JSON.stringify(
+      parsePendingSettingsMutations([{ kind: "item-rule-verdict", itemName: "A", action: "sell" }])
+    )
+  ).toBe('{"found":1,"mutations":[]}')
+})
+
+test("an entry refused part way through the queue does not stop the entries after it", () => {
+  const content = savedVariables(
+    accountWith(
+      "@alan",
+      `${verdictEntry(1, "Ore", "nothing")}\n${verdictEntry(2, "Silk", "explode")}\n${verdictEntry(3, "Hagfish", "sell")}`
+    )
+  )
+  expect(JSON.stringify(extractPendingSettingsMutations(content))).toBe(
+    '{"found":3,"mutations":[{"kind":"item-rule-verdict","itemId":1,"itemName":"Ore","action":"nothing"},{"kind":"item-rule-verdict","itemId":3,"itemName":"Hagfish","action":"sell"}]}'
+  )
+})
+
 test("inventory settings that are not JSON raise rather than being written", async () => {
   const content = savedVariables(accountWith("@alan", verdictEntry(123, "Foo", "sell")))
   const written: unknown[] = []
