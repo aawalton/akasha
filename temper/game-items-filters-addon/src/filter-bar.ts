@@ -1,5 +1,5 @@
-import type { AnyTemperFilter, FilterGroup, FilterId } from "@temper/game-items-filters-core/filter-types"
-import { TEMPER_FILTERS } from "@temper/game-items-filters-core/filter-registry"
+import type { AnyTemperFilter, FilterGroup, FilterId } from "@akasha/temper-items-filters-core/search-filter-types"
+import { TEMPER_FILTERS } from "@akasha/temper-items-filters-core/search-filter-registry"
 import { createMovableWindow, type WindowPosition } from "@akasha/temper-hud-window/movable-window"
 import type { BarContext } from "./filter-bar-controls"
 import {

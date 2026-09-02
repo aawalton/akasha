@@ -1,4 +1,4 @@
-import type { SavedSearch, SavedSearchStore } from "@temper/game-items-filters-core/saved-search"
+import type { SavedSearch, SavedSearchStore } from "@akasha/temper-items-filters-core/saved-search"
 import { getSavedVariables } from "./saved-variables"
 
 export function getSavedSearches(this: void): SavedSearchStore {

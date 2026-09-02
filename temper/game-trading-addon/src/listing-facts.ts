@@ -1,11 +1,11 @@
-import { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
-import type { InventoryItemData } from "@temper/game-items-core/inventory-types"
-import type { ClassifiableItem } from "@temper/game-items-core/item-category-tree-types"
+import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
+import type { InventoryItemData } from "@akasha/temper-items-core/inventory-types"
+import type { ClassifiableItem } from "@akasha/temper-items-core/item-category-tree-types"
 import {
   buildItemFactsFromInventoryItem,
   resolveStaticItemKey,
-} from "@temper/game-items-rules-eval/build-item-facts-from-inventory-item"
-import type { ItemFacts } from "@temper/game-items-rules-eval/item-facts"
+} from "@akasha/temper-items-rules-eval/build-item-facts-from-inventory-item"
+import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
 import type { BrowseListing } from "@akasha/temper-trading-listings/browse-listings"
 
 function asNumber(value: unknown): number | undefined {

@@ -13,8 +13,8 @@ import {
   PADDING_X,
   PADDING_Y,
 } from "@temper/game-items-filters-addon/filter-bar-controls"
-import type { AnyTemperFilter, FilterGroup, FilterId, FilterValue } from "@temper/game-items-filters-core/filter-types"
-import { TEMPER_FILTERS } from "@temper/game-items-filters-core/filter-registry"
+import type { AnyTemperFilter, FilterGroup, FilterId, FilterValue } from "@akasha/temper-items-filters-core/search-filter-types"
+import { TEMPER_FILTERS } from "@akasha/temper-items-filters-core/search-filter-registry"
 import type { BrowseEngine } from "./browse-engine"
 import {
   buildHeader,

@@ -7,7 +7,7 @@ import {
   PADDING_Y,
 } from "@temper/game-items-filters-addon/filter-bar-controls"
 import { getItemPriceKey, suggestSellPrice } from "@akasha/temper-trading-listings/sell-pricing"
-import { createSellFlow, type SellFlow } from "@temper/game-trading-post-addon/guild-store-poster"
+import { createSellFlow, type SellFlow } from "@akasha/temper-trading-post/guild-store-poster"
 import { ADDON_NAME } from "./constants"
 import { getLastSold, putLastSold } from "./sell-price-store"
 

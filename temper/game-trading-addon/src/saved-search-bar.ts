@@ -8,9 +8,9 @@ import {
   PADDING_Y,
   setButtonActive,
 } from "@temper/game-items-filters-addon/filter-bar-controls"
-import { buildFilterIndex } from "@temper/game-items-filters-core/filter-registry"
-import { type ActiveFilterValues } from "@temper/game-items-filters-core/filter-set"
-import { deserializeSavedSearch, serializeSavedSearch } from "@temper/game-items-filters-core/saved-search"
+import { buildFilterIndex } from "@akasha/temper-items-filters-core/search-filter-registry"
+import { type ActiveFilterValues } from "@akasha/temper-items-filters-core/search-filter-set"
+import { deserializeSavedSearch, serializeSavedSearch } from "@akasha/temper-items-filters-core/saved-search"
 import {
   addSavedSearch,
   getSavedSearches,

@@ -1,4 +1,4 @@
-import type { SearchRequestCollector, ServerFilterField, ServerRangeField } from "@temper/game-items-filters-core/filter-types"
+import type { SearchRequestCollector, ServerFilterField, ServerRangeField } from "@akasha/temper-items-filters-core/search-filter-types"
 
 function nativeFilterType(field: ServerFilterField): number | undefined {
   switch (field) {

@@ -1,7 +1,7 @@
-import type { ActiveFilterValues } from "@temper/game-items-filters-core/filter-set"
-import type { AnyTemperFilter, FilterId, FilterValue } from "@temper/game-items-filters-core/filter-types"
-import { itemPassesFilters } from "@temper/game-items-filters-core/filter-set"
-import type { ItemFacts } from "@temper/game-items-rules-eval/item-facts"
+import type { ActiveFilterValues } from "@akasha/temper-items-filters-core/search-filter-set"
+import type { AnyTemperFilter, FilterId, FilterValue } from "@akasha/temper-items-filters-core/search-filter-types"
+import { itemPassesFilters } from "@akasha/temper-items-filters-core/search-filter-set"
+import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
 
 export type FactsSource = (this: void, slotData: InventoryRowSlotData) => ItemFacts | undefined
 

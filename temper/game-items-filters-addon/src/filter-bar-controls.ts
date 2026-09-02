@@ -1,4 +1,4 @@
-import type { AnyTemperFilter, FilterEditorOption, FilterRangeValue } from "@temper/game-items-filters-core/filter-types"
+import type { AnyTemperFilter, FilterEditorOption, FilterRangeValue } from "@akasha/temper-items-filters-core/search-filter-types"
 import type { FilterController } from "./panel-filter-binding"
 
 export const COLOR_PRIMARY = [0.8442, 0.8442, 0.8442] as const

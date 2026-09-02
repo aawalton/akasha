@@ -1070,12 +1070,30 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-items-filters-core": {
+      "name": "@akasha/temper-items-filters-core",
+      "dependencies": {
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-items-rules-core": "workspace:*",
+        "@akasha/temper-items-rules-eval": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
     "akasha/temper/temper-items-rules-core": {
       "name": "@akasha/temper-items-rules-core",
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-items-rules-eval": {
+      "name": "@akasha/temper-items-rules-eval",
+      "dependencies": {
+        "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-items-rules-core": "workspace:*",
       },
     },
     "akasha/temper/temper-lib-addon-keybinds": {
@@ -3881,7 +3899,11 @@
 
     "@akasha/temper-items-core": ["@akasha/temper-items-core@workspace:akasha/temper/temper-items-core"],
 
+    "@akasha/temper-items-filters-core": ["@akasha/temper-items-filters-core@workspace:akasha/temper/temper-items-filters-core"],
+
     "@akasha/temper-items-rules-core": ["@akasha/temper-items-rules-core@workspace:akasha/temper/temper-items-rules-core"],
+
+    "@akasha/temper-items-rules-eval": ["@akasha/temper-items-rules-eval@workspace:akasha/temper/temper-items-rules-eval"],
 
     "@akasha/temper-lib-addon-keybinds": ["@akasha/temper-lib-addon-keybinds@workspace:akasha/temper/temper-lib-addon-keybinds"],
 

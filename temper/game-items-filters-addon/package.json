@@ -2,8 +2,8 @@
   "name": "@temper/game-items-filters-addon",
   "dependencies": {
     "@akasha/temper-hud-window": "workspace:*",
-    "@temper/game-items-filters-core": "workspace:*",
-    "@temper/game-items-rules-eval": "workspace:*"
+    "@akasha/temper-items-filters-core": "workspace:*",
+    "@akasha/temper-items-rules-eval": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"
