@@ -91,8 +91,8 @@ export function generateTemperCompanionBaseRole(rows: readonly Page[]): string {
  */
 
 import type { CompanionArmorWeight } from "../companion-types"
-import type { CompanionTraitId } from "../equipment/companion-traits-data"
-import type { CompanionWeaponRoleId } from "../equipment/companion-weapon-roles-data"
+import type { CompanionTraitId } from "@akasha/temper-companions-core/companion-traits"
+import type { CompanionWeaponRoleId } from "@akasha/temper-companions-core/companion-weapon-roles"
 
 interface CompanionBaseRoleTemplate {
   id: string

@@ -125,7 +125,7 @@ ${fields.join(",\n")},
  */
 
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
-import type { CompanionTemplate } from "../companions-data"
+import type { CompanionTemplate } from "@akasha/temper-companions-core/companions"
 
 const COMPANIONS_DATA = {
 ${entries.join("\n")}
