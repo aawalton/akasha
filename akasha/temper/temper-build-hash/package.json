@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/temper-build-hash",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./build-hash-base64url": "./build-hash-base64url/build-hash-base64url.module.code.ts",
+    "./build-hash-bit-reader": "./build-hash-bit-reader/build-hash-bit-reader.module.code.ts",
+    "./build-hash-bit-writer": "./build-hash-bit-writer/build-hash-bit-writer.module.code.ts",
+    "./record-from-keys": "./record-from-keys/record-from-keys.module.code.ts"
+  }
+}

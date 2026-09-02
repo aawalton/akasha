@@ -844,6 +844,9 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-build-hash": {
+      "name": "@akasha/temper-build-hash",
+    },
     "akasha/temper/temper-build-metadata": {
       "name": "@akasha/temper-build-metadata",
       "dependencies": {
@@ -2882,6 +2885,25 @@
         "typescript": "^5.8.3",
       },
     },
+    "temper/game-items-rules-core": {
+      "name": "@temper/game-items-rules-core",
+      "version": "0.1.0",
+      "dependencies": {
+        "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
+        "@akasha/temper-equipment-kinds": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "@temper/game-characters-character": "workspace:*",
+        "@temper/game-characters-equipment": "workspace:*",
+        "@temper/game-items-core": "workspace:*",
+      },
+      "devDependencies": {
+        "@types/bun": "^1.3.9",
+        "fast-check": "^4.5.3",
+        "typescript": "^5.8.3",
+      },
+    },
     "temper/player-completion": {
       "name": "@temper/player-completion",
       "version": "0.1.0",
@@ -3573,6 +3595,8 @@
     "@akasha/temper-bit-codec": ["@akasha/temper-bit-codec@workspace:akasha/temper/temper-bit-codec"],
 
     "@akasha/temper-build-deploy-checks": ["@akasha/temper-build-deploy-checks@workspace:akasha/temper/temper-build-deploy-checks"],
+
+    "@akasha/temper-build-hash": ["@akasha/temper-build-hash@workspace:akasha/temper/temper-build-hash"],
 
     "@akasha/temper-build-metadata": ["@akasha/temper-build-metadata@workspace:akasha/temper/temper-build-metadata"],
 
@@ -4489,6 +4513,8 @@
     "@temper/game-crafting-addon": ["@temper/game-crafting-addon@workspace:temper/game-crafting-addon"],
 
     "@temper/game-items-core": ["@temper/game-items-core@workspace:temper/game-items-core"],
+
+    "@temper/game-items-rules-core": ["@temper/game-items-rules-core@workspace:temper/game-items-rules-core"],
 
     "@temper/player-completion": ["@temper/player-completion@workspace:temper/player-completion"],
 

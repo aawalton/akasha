@@ -142,6 +142,7 @@ export const temper = {
     "eso-addon/temper-navigation-addon",
     "workspace-package/temper-build-deploy-checks",
     "eso-addon/temper-lib-addon-menu",
+    "workspace-package/temper-build-hash",
   ],
   invariants: [
     {
