@@ -71,6 +71,7 @@ export const temperAddonGenerators = {
     "module/temper-jewelry-type",
     "module/temper-location-type",
     "module/temper-motif-style",
+    "module/temper-poi",
     "module/temper-poison-effects",
     "module/temper-potion-crafted",
     "module/temper-potion-crown",
