@@ -6,4 +6,11 @@ export const fcoGlobal = {
   slug: "fco-global",
   definition: "the global table other add-ons reach the interface tweaks through",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "constraint",
+      statement:
+        "A key on the global table is spelled as the markup that calls the key spells the key.",
+    },
+  ],
 } as const satisfies Module

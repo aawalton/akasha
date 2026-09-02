@@ -15,7 +15,7 @@ export interface TemperFCOChangeStuffGlobal extends Record<string, unknown> {
   toggleGroupElectionAutoDecline: typeof toggleGroupElectionAutoDecline
   switchBankMenuBarDescriptor: typeof switchBankMenuBarDescriptor
   TogglePromotionalEventTrackerUI: typeof togglePromotionalEventTrackerUi
-  scrollScrollList: typeof scrollScrollList
+  ScrollScrollList: typeof scrollScrollList
 }
 
 declare global {
@@ -30,5 +30,5 @@ globalThis.TemperFCOChangeStuff = {
   toggleGroupElectionAutoDecline,
   switchBankMenuBarDescriptor,
   TogglePromotionalEventTrackerUI: togglePromotionalEventTrackerUi,
-  scrollScrollList,
+  ScrollScrollList: scrollScrollList,
 }
