@@ -7,7 +7,7 @@ import {
   sourceIn,
 } from "@akasha/pages-system/page-type-properties"
 import { wholeValue } from "@akasha/pages-system/page-uncommitted"
-import type { Value } from "@akasha/pages-system/page-value"
+import { slugAt, textAt, type Value } from "@akasha/pages-system/page-value"
 import { matches, weigh } from "../where-testing/where-testing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
@@ -90,6 +90,81 @@ export function carriedFor(root: string, pageTypeSlug: string): readonly Carried
 
 export function keysOf(root: string, pageTypeSlug: string): ReadonlySet<string> {
   return new Set(carriedFor(root, pageTypeSlug).map((one) => one.key))
+}
+
+export type Declared = {
+  readonly key: string
+  readonly type: string
+  readonly title: string
+  readonly pageId: string
+  readonly on: string
+  readonly values: unknown
+  readonly targetSlug: string | null
+  readonly slugProperty: string | null
+  readonly mayBeGone: boolean
+}
+
+export type Shape = {
+  readonly pageType: string
+  readonly pageTypeId: string
+  readonly ownerSlug: string | null
+  readonly declarations: readonly Declared[]
+}
+
+export type Shaped = { readonly shape: Shape | null } | { readonly refused: string }
+
+type Held = Map<string, ReadonlyMap<string, Value>>
+
+function pagesOfType(root: string, held: Held, pageTypeSlug: string): ReadonlyMap<string, Value> {
+  const found = held.get(pageTypeSlug)
+  if (found !== undefined) return found
+  const made = new Map<string, Value>()
+  for (const one of valuesOfType(root, pageTypeSlug)) {
+    const slug = textAt(one.value, "slug")
+    if (slug !== null && !made.has(slug)) made.set(slug, one.value)
+  }
+  held.set(pageTypeSlug, made)
+  return made
+}
+
+export function declaredOf(one: Carried, page: Value | undefined, on: string): Declared {
+  const said = one.pagePropertySlug
+  return {
+    key: one.propertySlug,
+    type: one.pageTypeSlug,
+    title: page === undefined ? said : (textAt(page, "definition") ?? said),
+    pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
+    on,
+    values: one.many ? [] : null,
+    targetSlug: page === undefined ? null : slugAt(page, "targetPageTypeSlug"),
+    slugProperty: one.propertySlug,
+    mayBeGone: !one.required,
+  }
+}
+
+export function shaping(root: string, pageTypeSlug: string): Shaped {
+  if (listedAt(root, PAGE_TYPE, pageTypeSlug).length === 0) return { shape: null }
+  try {
+    const held: Held = new Map()
+    const own = pagesOfType(root, held, PAGE_TYPE).get(pageTypeSlug)
+    const declarations = carriedFor(root, pageTypeSlug).map((one) =>
+      declaredOf(
+        one,
+        pagesOfType(root, held, one.pageTypeSlug).get(one.pagePropertySlug),
+        pageTypeSlug
+      )
+    )
+    return {
+      shape: {
+        pageType: pageTypeSlug,
+        pageTypeId: own === undefined ? "" : (textAt(own, "id") ?? ""),
+        ownerSlug: null,
+        declarations,
+      },
+    }
+  } catch (thrown) {
+    return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
+  }
 }
 
 export function askedFor(query: Query): readonly (readonly [string, string])[] {

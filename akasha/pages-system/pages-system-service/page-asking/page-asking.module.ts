@@ -112,6 +112,38 @@ export const pageAsking = {
       statement: "A file beside a page that will not read refuses the question.",
     },
     {
+      invariantKind: "departure",
+      statement: "What a page type declares is answered as its shape.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape names every property the page type and those above it declare.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration is keyed as a page's file spells that key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration carries the property page's own definition.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration carries the property page's own id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration carries the page type a property points at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name that is no page type is shaped as nothing rather than refused.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A shape states no owner.",
+    },
+    {
       invariantKind: "absence",
       statement: "No page's own file is opened.",
     },
