@@ -1,13 +1,13 @@
 "use client"
 
 import { ITEM_CATEGORY_TREE } from "@akasha/temper-items-core/item-category-tree-data"
-import { INVENTORY_RULE_FILTERS } from "@temper/game-items-rules-core/filters/filter-registry"
-import type { FilterId } from "@temper/game-items-rules-core/filters/filter-types"
-import { getTraitFamily } from "@temper/game-items-rules-core/filters/traits-filter"
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { INVENTORY_RULE_FILTERS } from "@akasha/temper-items-rules-core/rule-filter-registry"
+import type { FilterId } from "@akasha/temper-items-rules-core/rule-filter-types"
+import { getTraitFamily } from "@akasha/temper-items-rules-core/traits-filter"
 import type React from "react"
 import type { RuleCardOnUpdate } from "./use-rule-card"
 
