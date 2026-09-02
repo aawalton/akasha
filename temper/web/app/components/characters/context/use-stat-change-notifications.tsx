@@ -1,19 +1,19 @@
 "use client"
 
-import type { CharacterState } from "@temper/game-characters-character/build-types"
-import { buildStateToEffectSources } from "@temper/game-characters-stats/adapters/build-state-adapter"
+import { buildStateToEffectSources } from "@akasha/temper-characters-stats/build-state-adapter"
 import {
   compareMetricValuesUnfiltered,
   filterByAffectedMetrics,
-} from "@temper/game-characters-stats/compare-stats"
+} from "@akasha/temper-characters-stats/compare-stats"
 import {
   diffEffectSources,
   summarizeEffectChanges,
-} from "@temper/game-characters-stats/diff-effect-sources"
-import { calculateBuildStatsByBar } from "@temper/game-characters-stats/metric-calculator"
-import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
-import type { MetricValue } from "@temper/game-characters-stats/metrics/types"
+} from "@akasha/temper-characters-stats/diff-effect-sources"
+import { calculateBuildStatsByBar } from "@akasha/temper-characters-stats/metric-calculator"
+import type { MetricValue } from "@akasha/temper-characters-stats/metric-value"
 import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
+import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { useEffect, useRef } from "react"
 import { toast } from "sonner"
 import {
