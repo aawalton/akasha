@@ -11,6 +11,7 @@ export const completions = {
   properties: [
     { pagePropertySlug: "completed-at", required: true, many: false },
     { pagePropertySlug: "task", required: false, many: false },
+    { pagePropertySlug: "title", required: false, many: false },
     { pagePropertySlug: "character", required: false, many: false },
     { pagePropertySlug: "eso-character-id", required: false, many: false },
     { pagePropertySlug: "due-date", required: false, many: false },
@@ -31,8 +32,16 @@ export const completions = {
       statement: "A line outlives the task the line was written from.",
     },
     {
+      invariantKind: "departure",
+      statement: "A completion naming no task states a title.",
+    },
+    {
       invariantKind: "gap",
       statement: "A line naming a task the tasks no longer hold loses what that task said.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A completion temper gave no name lands with no title.",
     },
   ],
 } as const satisfies PagePropertyEntry
