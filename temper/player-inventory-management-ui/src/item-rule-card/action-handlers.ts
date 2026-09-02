@@ -6,7 +6,7 @@ import type {
   MoveToDestination,
   StockScope,
   Tier,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { ACTION_OPTIONS, SELL_ACTIONS, SELL_DESTINATION_OPTIONS } from "../action-options"
 
 type UpdateItemRule = (
