@@ -7,6 +7,8 @@ export const completionTraitResearchProgress = {
   definition:
     "the item traits each character has researched, counted by research line and by craft",
   code: "ts",
+  test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -35,6 +37,10 @@ export const completionTraitResearchProgress = {
     {
       invariantKind: "departure",
       statement: "Each completeness check takes the catalog as arguments too.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "An empty catalog leaves nothing for a completeness check to hold true.",
     },
   ],
 } as const satisfies Module
