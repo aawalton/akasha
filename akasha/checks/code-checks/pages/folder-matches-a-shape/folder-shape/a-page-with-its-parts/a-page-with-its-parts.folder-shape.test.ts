@@ -7,12 +7,7 @@ const FOLDER = "akasha/code-checks"
 
 const PAGE_TYPES = new Set<string>(["page-type", "domain", "module", "code-check"])
 
-const NAMING = new Map<string, string>([
-  [FOLDER, "code-checks"],
-  [`${FOLDER}/model-checks`, "model-checks"],
-  [`${FOLDER}/naming`, "naming"],
-  [`${FOLDER}/rules`, "rulings"],
-])
+const NAMING = new Map<string, string>([[FOLDER, "code-checks"]])
 
 function over(deep: readonly string[]): (names: readonly string[]) => Standing {
   return folderFrom({
@@ -34,21 +29,16 @@ test("one page with the parts it is allowed takes the shape", () => {
   expect(aPageWithItsParts(held(["code-check.page-type.ts"]))).toEqual([])
 })
 
-test("a subfolder named for the one page it holds is a part", () => {
-  const held = over(["model-checks/model-check.page-type.ts"])
-  expect(aPageWithItsParts(held(["code-check.page-type.ts"]))).toEqual([])
-})
-
-test("a subfolder holding a domain named for it is a part too", () => {
-  const held = over(["naming/naming.domain.ts"])
-  expect(aPageWithItsParts(held(["code-check.page-type.ts"]))).toEqual([])
-})
-
-test("a subfolder named other than what its page calls it is refused, and named", () => {
-  const held = over(["rules/rule.page-type.ts"])
-  const said = aPageWithItsParts(held(["code-check.page-type.ts"]))
+test("a subfolder other than modules, pages or properties is refused, however it is named", () => {
+  const forItsPage = over(["model-checks/model-check.page-type.ts"])
+  const said = aPageWithItsParts(forItsPage(["code-check.page-type.ts"]))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("rules")
+  expect(said[0]).toContain("model-checks")
+
+  const otherwise = over(["rules/rule.page-type.ts"])
+  const held = aPageWithItsParts(otherwise(["code-check.page-type.ts"]))
+  expect(held).toHaveLength(1)
+  expect(held[0]).toContain("rules")
 })
 
 test("a folder named other than what its page calls it is refused, naming both", () => {

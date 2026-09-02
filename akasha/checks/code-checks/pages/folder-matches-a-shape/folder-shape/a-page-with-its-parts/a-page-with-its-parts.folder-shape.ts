@@ -48,7 +48,7 @@ export const aPageWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "A subfolder named for the one page that subfolder holds is a part too.",
+      statement: "A subfolder named anything else is no part of that page.",
     },
     {
       invariantKind: "absence",

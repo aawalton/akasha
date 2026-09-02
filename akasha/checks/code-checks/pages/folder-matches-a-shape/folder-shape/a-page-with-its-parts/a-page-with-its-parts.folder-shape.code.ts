@@ -4,12 +4,6 @@ import type { Standing } from "../folder-shape.page-type.ts"
 
 const PARTS = new Set<string>(["modules", "pages", "properties"])
 
-function partOf(standing: Standing, at: string): boolean {
-  const named = basename(at)
-  if (PARTS.has(named)) return true
-  return standing.naming(at) === named
-}
-
 export function aPageWithItsParts(standing: Standing): readonly string[] {
   const page = standing.pages[0]
   if (page === undefined) return ["it holds no page of its own"]
@@ -33,7 +27,7 @@ export function aPageWithItsParts(standing: Standing): readonly string[] {
       `it is named \`${named}\` rather than \`${wants}\`, what \`${page.slug}\` calls its folder`
     )
   }
-  const stray = standing.subfolders.filter((at) => !partOf(standing, at))
+  const stray = standing.subfolders.filter((at) => !PARTS.has(basename(at)))
   if (stray.length > 0) {
     said.push(
       `${stray.length} subfolders are no part of \`${page.slug}\`: ${saidInside(standing.folder, stray)}`
