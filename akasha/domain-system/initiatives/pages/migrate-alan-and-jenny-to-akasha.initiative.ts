@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's inboxes stoplights and widget work.",
       workingMemory:
-        "Next after upkeep, at Alan's word, and it may need more pages migrated to support it. `api.inbox-stoplights.ts` is a 503 stub guarded like the others. `inboxes-temper-tasks.readout.ts` exists under temper; whether it belongs to this group is unsettled. The upkeep seam is the template at `4d6e5504e2`, `221c5cc7cd` and `d1ddb90e0c`: a group page, `groupSlugs` restored where the migration dropped them, one route line. Three of five draws three rings rather than failing, so count what returns.",
+        "The route returns 0 of 5, and the data layer is not the gap: the resolver answers 5 of 5 and `inbox-tracking-poll` writes them every five minutes. The wire-key blocker closed at `a6d4e8ddc7`, where the shipped Swift decodes `inbox` and the server emitted `habit`, so a wrong key left the tile stale rather than failing. Owed: the earned-key and earned-color-slug properties, the group page, three scales, four readouts, two services, and the route with a test pinning `inbox`.",
     },
     {
       statement: "`akasha import health` replaces the old health import command.",
