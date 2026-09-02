@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./monarch-unreviewed-transactions": "./readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts",
+    "./upkeep-activity": "./readout/readouts/upkeep-activity/upkeep-activity.readout.code.ts",
     "./upkeep-safety": "./readout/readouts/upkeep-safety/upkeep-safety.readout.code.ts",
     "./upkeep-surplus": "./readout/readouts/upkeep-surplus/upkeep-surplus.readout.code.ts",
     "./readout-asking": "./readout-asking/readout-asking.module.code.ts",

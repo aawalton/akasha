@@ -23,6 +23,7 @@ export const readoutScale = {
   definition: "what turns a reading into a color",
   pluralSlug: "readout-scales",
   partSlugs: [
+    "readout-scale/activity-calories",
     "readout-scale/backlog-count",
     "readout-scale/safety-level",
     "readout-scale/surplus-hours",
