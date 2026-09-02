@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/temper-inventory-automation",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./automation-settings-shape": "./automation-settings-shape/automation-settings-shape.module.code.ts",
+    "./automation-toggle-change": "./automation-toggle-change/automation-toggle-change.module.code.ts",
+    "./automation-toggles": "./automation-toggles/automation-toggles.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/errors-core": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
