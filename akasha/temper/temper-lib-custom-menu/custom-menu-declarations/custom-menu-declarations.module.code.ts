@@ -27,8 +27,6 @@ declare global {
 
   const ZO_CheckButton_SetUnchecked: (this: void, checkButton: Control) => void
 
-  const ZO_ScrollList_GetData: (this: void, control: Control) => unknown
-
   const ZO_WHITE: ZoColorDef
 
   const ZO_DEFAULT_DISABLED_COLOR: ZoColorDef

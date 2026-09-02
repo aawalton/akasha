@@ -27,7 +27,7 @@ interface LibMultiAccountSetsApi {
     server: string | undefined,
     account: string | undefined,
     setId: number,
-    slot: number
+    slot: Id64
   ) => boolean
 
   GetItemCollectionAndTradabilityStatus: (

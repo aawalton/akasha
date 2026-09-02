@@ -95,7 +95,7 @@ declare const ZO_ScrollList_ShowCategory: (listControl: Control, categoryId: unk
 
 declare const ZO_ScrollList_HideCategory: (listControl: Control, categoryId: unknown) => void
 
-declare const ZO_ScrollList_GetData: (rowControl: Control) => unknown
+declare const ZO_ScrollList_GetData: <T = unknown>(rowControl: Control) => T
 
 declare const ZO_ScrollList_GetDataControl: <T extends Control = Control>(
   listControl: Control,
