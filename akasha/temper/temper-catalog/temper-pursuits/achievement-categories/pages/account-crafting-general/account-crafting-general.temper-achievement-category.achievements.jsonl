@@ -1,0 +1,63 @@
+{"id":"01a06170-8d55-7425-ae30-d2fbd2325d10","esoAchievementId":64,"name":"Apprentice Crafting Harvester","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-73da-9486-be956b425f56","esoAchievementId":65,"name":"Journeyman Crafting Harvester","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7cd8-9e90-dbf0b1da4fa2","esoAchievementId":66,"name":"Expert Crafting Harvester","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7944-81e6-e147f7ff10b3","esoAchievementId":67,"name":"Master Crafting Harvester","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7a17-b233-cbf36d94bfed","esoAchievementId":68,"name":"Grand Master Crafting Harvester","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7b3e-96d5-90c2f8aca225","esoAchievementId":1017,"name":"Apprentice Deconstructor","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7813-8928-635b255b0f0e","esoAchievementId":1018,"name":"Expert Deconstructor","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7c42-827c-0ad53a5f1630","esoAchievementId":1019,"name":"Master Deconstructor","achievementPoints":10,"totalSteps":1}
+{"id":"01a06170-8d55-761e-8d61-f8d3700a4039","esoAchievementId":1020,"name":"Apprentice of Refinement","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-70e1-ac3d-09e6b9d29a11","esoAchievementId":1021,"name":"Expert of Refinement","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-77b0-9e82-66cbee3542b2","esoAchievementId":1022,"name":"Master of Refinement","achievementPoints":10,"totalSteps":1}
+{"id":"01a06170-8d55-7c5f-8322-a8ac2c95c7f4","esoAchievementId":1023,"name":"Learn a Trait","achievementPoints":5,"totalSteps":16}
+{"id":"01a06170-8d55-7ee2-949d-5fb7d6375830","esoAchievementId":1025,"name":"Racial Style Learned","achievementPoints":5,"totalSteps":14}
+{"id":"01a06170-8d55-7eab-bc42-fe68908d213d","esoAchievementId":1030,"name":"Alliance Style Master","achievementPoints":15,"totalSteps":9}
+{"id":"01a06170-8d55-7973-a2fb-a62e1d71e245","esoAchievementId":1041,"name":"Trait Master","achievementPoints":50,"totalSteps":16}
+{"id":"01a06170-8d55-7a32-8997-7b0c45665a6a","esoAchievementId":1042,"name":"Truly Legendary","achievementPoints":50,"totalSteps":1}
+{"id":"01a06170-8d55-79de-b617-a91aa4f67684","esoAchievementId":1043,"name":"Rare Style Master","achievementPoints":50,"totalSteps":5}
+{"id":"01a06170-8d55-7308-9523-cfb0267fb71e","esoAchievementId":1125,"name":"Learn the Nirnhoned Trait","achievementPoints":5,"totalSteps":2}
+{"id":"01a06170-8d55-7446-8661-584b821bdfa9","esoAchievementId":1144,"name":"Dwemer Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-77c1-be52-7511d3f682d9","esoAchievementId":1145,"name":"Certified Jack-of-All-Trades","achievementPoints":10,"totalSteps":6}
+{"id":"01a06170-8d55-786e-a796-81b181be3835","esoAchievementId":1146,"name":"First Writ","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7ba3-93d6-1c63d0380032","esoAchievementId":1147,"name":"I Must Complete My Contract","achievementPoints":10,"totalSteps":1}
+{"id":"01a06170-8d55-7ebd-b3de-42659a9c0dcd","esoAchievementId":1148,"name":"Signed the Manifest","achievementPoints":15,"totalSteps":1}
+{"id":"01a06170-8d55-7d12-b799-c9d5bedcc941","esoAchievementId":1149,"name":"Writ Upon the Sky","achievementPoints":50,"totalSteps":1}
+{"id":"01a06170-8d55-750d-b2b4-7c13df79d311","esoAchievementId":1318,"name":"Akaviri Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-71fe-aa6e-0cfd6963e4c4","esoAchievementId":1319,"name":"Glass Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-7bdb-9499-e5613467411e","esoAchievementId":1348,"name":"Mercenary Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-74ec-9189-d5de90e9dd16","esoAchievementId":1414,"name":"Ebonheart Pact Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-7ef1-910c-0e4b6bdad533","esoAchievementId":1415,"name":"Aldmeri Dominion Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-7266-a7ba-f3a803fdd2ee","esoAchievementId":1416,"name":"Daggerfall Covenant Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-7907-ba2e-ea5aaa209e53","esoAchievementId":1418,"name":"Soul Shriven Style Master","achievementPoints":15,"totalSteps":1}
+{"id":"01a06170-8d55-7b3c-bcfd-fefde92c520a","esoAchievementId":1713,"name":"Yokudan Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-784d-acdb-29295063e1ae","esoAchievementId":1715,"name":"Draugr Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-7d0e-8940-43bfe5b89b55","esoAchievementId":1797,"name":"Ra Gada Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-7517-8c77-c8d8d482e3b4","esoAchievementId":1798,"name":"Ebony Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-7949-90a7-e2664f191fbb","esoAchievementId":1799,"name":"Master Crafter","achievementPoints":10,"totalSteps":1}
+{"id":"01a06170-8d55-7d53-9e76-2713e22e9450","esoAchievementId":1800,"name":"Master of Many Crafts","achievementPoints":15,"totalSteps":1}
+{"id":"01a06170-8d55-7dd1-865f-f2608ea18d2e","esoAchievementId":1801,"name":"Unsurpassed Crafter","achievementPoints":50,"totalSteps":1}
+{"id":"01a06170-8d55-72fb-9b9c-784a9d8e9e00","esoAchievementId":2120,"name":"Worm Cult Style Master","achievementPoints":50,"totalSteps":14}
+{"id":"01a06170-8d55-70a5-97aa-4daeabad5d4e","esoAchievementId":2121,"name":"Rank 1 Deconstruction Analyst","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7bad-b1db-2a590f617618","esoAchievementId":2122,"name":"Rank 2 Deconstruction Analyst","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7b4c-be14-a94ef96e86f2","esoAchievementId":2123,"name":"Rank 3 Deconstruction Analyst","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7df0-a685-e658b7f2484c","esoAchievementId":2124,"name":"Rank 4 Deconstruction Analyst","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-782b-9939-d49513ca8908","esoAchievementId":2125,"name":"Rank 5 Deconstruction Analyst","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7f6e-8c46-69376ac2fccb","esoAchievementId":2126,"name":"Rank 6 Deconstruction Analyst","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7582-b906-726dc6b4754a","esoAchievementId":2127,"name":"Rank 7 Deconstruction Analyst","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7756-8729-2c331340364b","esoAchievementId":2128,"name":"Rank 8 Deconstruction Analyst","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-79c4-8561-6a9847caee1f","esoAchievementId":2129,"name":"Rank 9 Deconstruction Analyst","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7729-9a74-a4c4c569a2f3","esoAchievementId":2130,"name":"Rank 10 Deconstruction Analyst","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7bf3-af04-c509f4420fa0","esoAchievementId":2223,"name":"Learn a Jewelry Trait","achievementPoints":5,"totalSteps":9}
+{"id":"01a06170-8d55-7041-a844-21aed8049b83","esoAchievementId":2224,"name":"Jewelry Trait Master","achievementPoints":15,"totalSteps":9}
+{"id":"01a06170-8d55-7c46-bb2b-900132b39c2b","esoAchievementId":2225,"name":"Certified Jewelry Crafter","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7b22-81a3-92605f0bc75c","esoAchievementId":2226,"name":"Professions Master","achievementPoints":15,"totalSteps":7}
+{"id":"01a06170-8d55-7d29-bcff-aa65a04884ca","esoAchievementId":2227,"name":"Grand Master Crafter","achievementPoints":50,"totalSteps":9}
+{"id":"01a06170-8d55-71dd-bf58-29b11b0ff8ec","esoAchievementId":2228,"name":"Fledgling Style Master","achievementPoints":10,"totalSteps":1}
+{"id":"01a06170-8d55-7496-9237-fe002ac0b73f","esoAchievementId":2229,"name":"Budding Style Master","achievementPoints":15,"totalSteps":1}
+{"id":"01a06170-8d55-7b6d-bc63-f8fee7f887f1","esoAchievementId":2230,"name":"True Style Master","achievementPoints":50,"totalSteps":1}
+{"id":"01a06170-8d55-7c12-bbf7-22ac08599bf1","esoAchievementId":3724,"name":"Apprentice Fish Cleaner","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7100-afa9-4461a64c538f","esoAchievementId":3725,"name":"Deft Fish Cleaner","achievementPoints":5,"totalSteps":1}
+{"id":"01a06170-8d55-7ff0-b306-58c11ea079f9","esoAchievementId":3726,"name":"Professional Fish Cleaner","achievementPoints":10,"totalSteps":1}
+{"id":"01a06170-8d55-7445-8af6-a0dc5b3b4026","esoAchievementId":3727,"name":"Expert Fish Cleaner","achievementPoints":15,"totalSteps":1}
+{"id":"01a06170-8d55-7816-903c-6327c30f11d8","esoAchievementId":3728,"name":"Master Fish Cleaner","achievementPoints":50,"totalSteps":1}
+{"id":"01a06170-8d55-7bc7-96e1-b0ca20471e62","esoAchievementId":4200,"name":"Survey Maven","achievementPoints":50,"totalSteps":6}
