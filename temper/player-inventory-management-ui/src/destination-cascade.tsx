@@ -1,8 +1,14 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import type { MoveToDestination } from "@temper/game-items-rules-core/inventory-rule-types"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
+import type { MoveToDestination } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { ChevronRight } from "lucide-react"
 import type { ActionVariant } from "./action-options"
 import type { DestinationOptions } from "./use-destination-options"
