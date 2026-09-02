@@ -1106,6 +1106,20 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-characters-character-ui": {
+      "name": "@akasha/temper-characters-character-ui",
+      "dependencies": {
+        "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
+        "@akasha/temper-build-metadata": "workspace:*",
+        "@akasha/temper-character-build": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
+      },
+    },
     "akasha/temper/temper-characters-equipment": {
       "name": "@akasha/temper-characters-equipment",
       "dependencies": {
@@ -3490,6 +3504,8 @@
     "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:akasha/temper/temper-characters-addon"],
 
     "@akasha/temper-characters-capture-addon": ["@akasha/temper-characters-capture-addon@workspace:akasha/temper/temper-characters-capture-addon"],
+
+    "@akasha/temper-characters-character-ui": ["@akasha/temper-characters-character-ui@workspace:akasha/temper/temper-characters-character-ui"],
 
     "@akasha/temper-characters-equipment": ["@akasha/temper-characters-equipment@workspace:akasha/temper/temper-characters-equipment"],
 

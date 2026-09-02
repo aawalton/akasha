@@ -1,0 +1,19 @@
+{
+  "name": "@akasha/temper-characters-character-ui",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./use-characters": "./use-characters/use-characters.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-ui": "workspace:*",
+    "@akasha/temper-build-metadata": "workspace:*",
+    "@akasha/temper-character-build": "workspace:*",
+    "@akasha/temper-character-sources": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
+  }
+}
