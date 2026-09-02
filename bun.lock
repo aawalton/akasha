@@ -2792,20 +2792,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-characters-capture-addon": {
-      "name": "@temper/game-characters-capture-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-bit-codec": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "@akasha/temper-capture-writer": "workspace:*",
-        "@akasha/temper-catalog-core": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-characters-character-ui": {
       "name": "@temper/game-characters-character-ui",
       "version": "0.1.0",
@@ -4362,8 +4348,6 @@
     "@tanstack/virtual-core": ["@tanstack/virtual-core@3.17.8", "", {}, "sha512-BfEvehNpOT75r5Ksc5xW6NZuXujTfb7nlSEyVu4XHG3gdxNg1KqXruWbDewXOUaUYIo4oRbSfkjIajz4MAT8tA=="],
 
     "@temper/catalog-addon": ["@temper/catalog-addon@workspace:temper/catalog-addon"],
-
-    "@temper/game-characters-capture-addon": ["@temper/game-characters-capture-addon@workspace:temper/game-characters-capture-addon"],
 
     "@temper/game-characters-character-ui": ["@temper/game-characters-character-ui@workspace:temper/game-characters-character-ui"],
 
