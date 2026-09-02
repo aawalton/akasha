@@ -42,13 +42,13 @@ function asCsCookButton(c: Control): CsCookButton {
 }
 
 type RuneIdTable = Record<number, number>
-type PotencyRuneTables = Record<number, RuneIdTable>
-type RuneTableEntry = Record<number, number | RuneIdTable> | undefined
+export type PotencyRuneTables = Record<number, RuneIdTable>
+export type RuneTableEntry = Record<number, number | RuneIdTable> | undefined
 
-function asRuneIdTable(t: RuneTableEntry): RuneIdTable {
+export function asRuneIdTable(t: RuneTableEntry): RuneIdTable {
   return t as RuneIdTable
 }
-function asPotencyRuneTables(t: RuneTableEntry): PotencyRuneTables {
+export function asPotencyRuneTables(t: RuneTableEntry): PotencyRuneTables {
   return t as PotencyRuneTables
 }
 
