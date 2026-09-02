@@ -7,6 +7,8 @@ export const temperTradingPricing = {
   definition: "what Tamriel Trade Centre last saw an item sell for",
   manifest: "json",
   partSlugs: [
+    "module/companion-gear-ids",
+    "module/companion-gear-price-lookup",
     "module/crown-consumable-price-lookup",
     "module/currency-price-lookup",
     "module/is-price-entry",

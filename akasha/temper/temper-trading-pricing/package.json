@@ -3,6 +3,8 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./companion-gear-ids": "./companion-gear-ids/companion-gear-ids.module.code.ts",
+    "./companion-gear-price-lookup": "./companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts",
     "./crown-consumable-price-lookup": "./crown-consumable-price-lookup/crown-consumable-price-lookup.module.code.ts",
     "./currency-price-lookup": "./currency-price-lookup/currency-price-lookup.module.code.ts",
     "./is-price-entry": "./is-price-entry/is-price-entry.module.code.ts",
@@ -12,6 +14,7 @@
     "./ttc-listing-types": "./ttc-listing-types/ttc-listing-types.module.code.ts"
   },
   "dependencies": {
+    "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
 }

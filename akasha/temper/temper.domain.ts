@@ -73,6 +73,7 @@ export const temper = {
     "workspace-package/temper-bit-codec",
     "workspace-package/temper-capture-writer",
     "workspace-package/temper-narrow",
+    "workspace-package/temper-items-core",
     "workspace-package/temper-equipment-kinds",
   ],
   invariants: [

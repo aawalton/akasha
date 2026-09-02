@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/temper-items-core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./item-link-parser": "./item-link-parser/item-link-parser.module.code.ts"
+  }
+}
