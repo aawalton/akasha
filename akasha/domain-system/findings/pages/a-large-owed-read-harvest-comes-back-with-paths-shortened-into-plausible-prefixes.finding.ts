@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aLargeOwedReadHarvestComesBackWithPathsShortenedIntoPlausiblePrefixes = {
+  id: "01a0625d-c99f-72b9-a889-339224769c09",
+  pageTypeSlug: "finding",
+  slug: "a-large-owed-read-harvest-comes-back-with-paths-shortened-into-plausible-prefixes",
+  domainSlug: "domain/akasha-system",
+  claim:
+    "Harvesting a write's owed-read list by piping `--dry-run` into `grep` is lossy once the list is large. A seat with about 138 owed paths got entries broken mid-token, such as `akasha/temper/temper-eso-typ`, on which `akasha read` answers that it names no file. No akasha command can do that. The shortening is at the caller, and what it hands back is a shorter path rather than an error.",
+  evidence:
+    "Seen 2026-09-02 by the seat coordinating this initiative, and checked here in the code. Two harvests through the same pipe: 29 owed paths came back whole, longest 83 characters, and about 138 came back with entries broken mid-token. The pipe is not the boundary, because `grep` reads the whole stream from the command and emits whole lines; what differs is the size of the answer the caller then has to deliver.\n\nThat no command did it is checkable. `write.command.code.ts` holds no answer ceiling and does not shorten its own output, so the dry run emits its owed list whole however long it runs. Where a command does cap, it caps by whole lines and says so: `heldTo` at audit.command.code.ts:79 counts bytes line by line and appends `N refusals in all, and the M above are what one answer holds at 28000 bytes`. `akasha read` names the files it leaves and hands back the call for them. Neither can leave half a path.\n\nThis is worse to meet than a shortened body. A shortened body carries a marker. A shortened path is still a path: `akasha read` answers that it names no file, which reads as a stale or renamed page, so a seat re-harvests and blames the tree rather than distrusting the harvest.\n\nThe recipe that holds is to redirect the dry run into a file, grep the file, and take the count from `wc -l` rather than from what is on screen. `awk 'length<25'` over the result is a cheap tripwire, no page path being that short. Both landings after this was found used it.\n\nSame mechanism as `the-read-cap-is-sized-to-what-the-command-emits-rather-than-what-the-caller-receives`, met somewhere else: any large tool result is shortened at the caller, and the read cap is only the case where a command's own limit sits above what one result delivers whole.",
+} as const satisfies Finding
