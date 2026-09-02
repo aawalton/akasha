@@ -17,7 +17,12 @@ export function hookKeybindingListCallbacks(
   hideCallbackName: string
 ): undefined {
   const dataType = ZO_ScrollList_GetDataTypeTable(ZO_KeybindingsList, typeId)
-  if (dataType === undefined) return undefined
+  if (dataType === undefined) {
+    throw new Error(
+      `the keybindings list holds no data type ${typeId}, so ${setupCallbackName} would never ` +
+        "fire and the rows this library adds would go unhooked without saying so"
+    )
+  }
   const setupCallbackOriginal = dataType.setupCallback
   const hideCallbackOriginal = dataType.hideCallback
 
