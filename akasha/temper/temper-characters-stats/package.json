@@ -5,6 +5,10 @@
   "exports": {
     "./formula-types": "./formula-types/formula-types.module.code.ts",
     "./metric-template": "./metric-template/metric-template.module.code.ts",
+    "./metric-tree-data": "./metric-tree-data/metric-tree-data.module.code.ts",
+    "./metric-tree-data-01": "./metric-tree-data-01/metric-tree-data-01.module.code.ts",
+    "./metric-tree-data-02": "./metric-tree-data-02/metric-tree-data-02.module.code.ts",
+    "./metric-tree-queries": "./metric-tree-queries/metric-tree-queries.module.code.ts",
     "./metric-tree-types": "./metric-tree-types/metric-tree-types.module.code.ts",
     "./metric-value": "./metric-value/metric-value.module.code.ts",
     "./metric-value-types": "./metric-value-types/metric-value-types.module.code.ts",

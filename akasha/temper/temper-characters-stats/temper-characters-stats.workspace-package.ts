@@ -30,6 +30,10 @@ export const temperCharactersStats = {
     "module/metrics-data-16",
     "module/metrics",
     "module/metric-value",
+    "module/metric-tree-data-01",
+    "module/metric-tree-data-02",
+    "module/metric-tree-data",
+    "module/metric-tree-queries",
   ],
   invariants: [
     {
