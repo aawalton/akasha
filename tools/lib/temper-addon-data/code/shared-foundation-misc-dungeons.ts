@@ -1,1 +1,1 @@
-export { TEMPER_DUNGEONS } from "@temper/shared-foundation-misc-dungeons/generated/temper-dungeons.generated"
+export { TEMPER_DUNGEONS } from "@akasha/temper-dungeons/dungeon-data"

@@ -6,7 +6,6 @@ import { buildAddonDataWritesCodec } from "./writes/codec.ts"
 import { buildAddonDataWritesCompanionMappings } from "./writes/companion-mappings.ts"
 import { buildAddonDataWritesCompanionRotations } from "./writes/companion-rotations.ts"
 import { buildAddonDataWritesCompletion } from "./writes/completion.ts"
-import { buildAddonDataWritesDungeons } from "./writes/dungeons.ts"
 import { buildAddonDataWritesEquipment } from "./writes/equipment.ts"
 import { buildAddonDataWritesInventory } from "./writes/inventory.ts"
 import { buildAddonDataWritesLore } from "./writes/lore.ts"
@@ -30,7 +29,6 @@ export function buildAddonDataWrites(p: AddonDataPages): readonly Promise<number
     ...buildAddonDataWritesCharacters(p, w),
     ...buildAddonDataWritesCompletion(p, w),
     ...buildAddonDataWritesLore(p, w),
-    ...buildAddonDataWritesDungeons(p, w),
     ...buildAddonDataWritesInventory(p, w),
     ...buildAddonDataWritesRules(p, w),
     ...buildAddonDataWritesScribing(p, w),

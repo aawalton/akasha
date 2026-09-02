@@ -21,6 +21,7 @@
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-catalog-host": "workspace:*",
         "@akasha/temper-community-addons": "workspace:*",
+        "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-game-navigation-capture-host": "workspace:*",
         "@akasha/temper-lua-runner": "workspace:*",
@@ -727,6 +728,15 @@
     },
     "akasha/temper/temper-capture-datamining": {
       "name": "@akasha/temper-capture-datamining",
+    },
+    "akasha/temper/temper-capture-datamining-reader": {
+      "name": "@akasha/temper-capture-datamining-reader",
+      "dependencies": {
+        "@akasha/temper-capture-datamining": "workspace:*",
+        "@akasha/temper-capture-host": "workspace:*",
+        "@akasha/temper-saved-variables": "workspace:*",
+        "zod": "^4.3.6",
+      },
     },
     "akasha/temper/temper-capture-descriptor": {
       "name": "@akasha/temper-capture-descriptor",
@@ -1942,9 +1952,9 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/temper-addons-resolve": "workspace:*",
+        "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@temper/player-completion": "workspace:*",
-        "@temper/shared-foundation-misc-dungeons": "workspace:*",
       },
       "devDependencies": {
         "typescript": "^5.8.3",
@@ -2719,6 +2729,7 @@
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
         "@temper/game-characters-capture-addon": "workspace:*",
         "@temper/game-characters-skills-morphs-addon": "workspace:*",
@@ -2728,7 +2739,6 @@
         "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
         "@temper/shared-capture-perf": "workspace:*",
         "@temper/shared-foundation-misc-codec": "workspace:*",
-        "@temper/shared-foundation-misc-dungeons": "workspace:*",
         "@temper/shared-interface-hud-window": "workspace:*",
         "@temper/shared-narrow": "workspace:*",
       },
@@ -2935,6 +2945,7 @@
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-game-collections-antiquities-capture-host": "workspace:*",
@@ -2971,7 +2982,6 @@
         "@temper/shared-capture-datamining-reader": "workspace:*",
         "@temper/shared-capture-errors-decision-core": "workspace:*",
         "@temper/shared-engine": "workspace:*",
-        "@temper/shared-foundation-misc-dungeons": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -3337,14 +3347,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/shared-foundation-misc-dungeons": {
-      "name": "@temper/shared-foundation-misc-dungeons",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/shared-interface-hud-addon": {
       "name": "@temper/shared-interface-hud-addon",
       "version": "0.1.0",
@@ -3441,6 +3443,7 @@
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
@@ -3475,7 +3478,6 @@
         "@temper/player-inventory-management-ui": "workspace:*",
         "@temper/player-profile": "workspace:*",
         "@temper/shared-engine": "workspace:*",
-        "@temper/shared-foundation-misc-dungeons": "workspace:*",
         "class-variance-authority": "^0.7.1",
         "isbot": "^5.1.36",
         "katex": "^0.16.28",
@@ -3672,6 +3674,8 @@
     "@akasha/temper-alchemy": ["@akasha/temper-alchemy@workspace:akasha/temper/temper-alchemy"],
 
     "@akasha/temper-capture-datamining": ["@akasha/temper-capture-datamining@workspace:akasha/temper/temper-capture-datamining"],
+
+    "@akasha/temper-capture-datamining-reader": ["@akasha/temper-capture-datamining-reader@workspace:akasha/temper/temper-capture-datamining-reader"],
 
     "@akasha/temper-capture-descriptor": ["@akasha/temper-capture-descriptor@workspace:akasha/temper/temper-capture-descriptor"],
 
@@ -4628,8 +4632,6 @@
     "@temper/shared-engine": ["@temper/shared-engine@workspace:temper/shared-engine"],
 
     "@temper/shared-foundation-misc-codec": ["@temper/shared-foundation-misc-codec@workspace:temper/shared-foundation-misc-codec"],
-
-    "@temper/shared-foundation-misc-dungeons": ["@temper/shared-foundation-misc-dungeons@workspace:temper/shared-foundation-misc-dungeons"],
 
     "@temper/shared-interface-hud-addon": ["@temper/shared-interface-hud-addon@workspace:temper/shared-interface-hud-addon"],
 

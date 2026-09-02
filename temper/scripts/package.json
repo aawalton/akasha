@@ -16,6 +16,7 @@
     "@akasha/temper-catalog-core": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
+    "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-game-collections-antiquities-capture-host": "workspace:*",
@@ -52,7 +53,6 @@
     "@temper/shared-capture-datamining-reader": "workspace:*",
     "@temper/shared-capture-errors-decision-core": "workspace:*",
     "@temper/shared-engine": "workspace:*",
-    "@temper/shared-foundation-misc-dungeons": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

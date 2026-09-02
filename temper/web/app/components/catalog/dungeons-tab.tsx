@@ -5,8 +5,8 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Text } from "@akasha/design-primitives/text-body"
 import { TabsContent } from "@akasha/design-patterns/tabs"
-import { TEMPER_DUNGEONS, TEMPER_QUEST_GIVERS } from "@temper/shared-foundation-misc-dungeons/generated/temper-dungeons.generated"
-import { getSoloDifficulty } from "@temper/shared-foundation-misc-dungeons/solo-difficulty"
+import { TEMPER_DUNGEONS, TEMPER_QUEST_GIVERS } from "@akasha/temper-dungeons/dungeon-data"
+import { getSoloDifficulty } from "@akasha/temper-dungeons/solo-difficulty"
 
 const DIFFICULTY_VARIANT = {
   easy: "elevation",

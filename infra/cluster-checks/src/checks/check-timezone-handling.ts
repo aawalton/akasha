@@ -29,7 +29,7 @@ const TIMEZONE_SUCCESS_MESSAGE =
 const ALLOWLISTED_HELPERS: ReadonlySet<string> = new Set([
   "tools/lib/tracking/mountain-times.ts",
   "temper/player-completion-addon/src/tracking/daily-writs.ts",
-  "temper/shared-foundation-misc-dungeons/src/eso-day.ts",
+  "akasha/temper/temper-dungeons/eso-reset/eso-reset.module.code.ts",
 ])
 
 const ESO_DOMAIN_PREFIXES: readonly string[] = [

@@ -3,6 +3,7 @@
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
+    "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-settings-panel": "workspace:*",
     "@temper/game-characters-capture-addon": "workspace:*",
     "@temper/game-characters-skills-morphs-addon": "workspace:*",
@@ -12,7 +13,6 @@
     "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
     "@temper/shared-capture-perf": "workspace:*",
     "@temper/shared-foundation-misc-codec": "workspace:*",
-    "@temper/shared-foundation-misc-dungeons": "workspace:*",
     "@temper/shared-interface-hud-window": "workspace:*",
     "@temper/shared-narrow": "workspace:*"
   },

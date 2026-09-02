@@ -1,7 +1,7 @@
 import {
   getEsoDayStringFromSec,
   getEsoResetTimestampSec,
-} from "@temper/shared-foundation-misc-dungeons/eso-day"
+} from "@akasha/temper-dungeons/eso-reset"
 import { ADDON_NAME } from "../constants"
 import type { SavedCharacterEntry } from "../saved-variables"
 import { isDailyCraftingWritQuest } from "./daily-writs-detection"

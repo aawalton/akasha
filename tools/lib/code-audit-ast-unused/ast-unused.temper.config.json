@@ -288,14 +288,6 @@
         "**/*.ts"
       ]
     },
-    "temper/shared-foundation-misc-dungeons": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/web": {
       "entry": [
         "app/**/*.{ts,tsx}!",

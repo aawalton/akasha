@@ -1,6 +1,6 @@
-import { TEMPER_DUNGEONS, TEMPER_QUEST_GIVERS } from "@temper/shared-foundation-misc-dungeons/generated/temper-dungeons.generated"
-import { getTodaysPledges as dungeonsGetTodaysPledges, type TodaysPledge } from "@temper/shared-foundation-misc-dungeons/pledge-rotation"
-import { getSoloDifficulty } from "@temper/shared-foundation-misc-dungeons/solo-difficulty"
+import { TEMPER_DUNGEONS, TEMPER_QUEST_GIVERS } from "@akasha/temper-dungeons/dungeon-data"
+import { getTodaysPledges as dungeonsGetTodaysPledges, type TodaysPledge } from "@akasha/temper-dungeons/pledge-rotation"
+import { getSoloDifficulty } from "@akasha/temper-dungeons/solo-difficulty"
 import { getSavedVariables } from "./saved-variables"
 
 export type UndauntedPledge = TodaysPledge

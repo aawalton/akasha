@@ -135,9 +135,6 @@
     },
     {
       "path": "../shared-engine"
-    },
-    {
-      "path": "../shared-foundation-misc-dungeons"
     }
   ],
   "include": [
