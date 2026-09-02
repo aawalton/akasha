@@ -4,7 +4,7 @@ import { AKASHA, akashaRoot, repos } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { gitCapped } from "../../repo/git/git.ts"
 import type { FileTree } from "../file-tree.ts"
-import { folderIn, PAGE_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../page-types.ts"
+import { folderIn, PAGE_SHAPE_GLOBS } from "../page-types.ts"
 import { RUNTIME_MARK } from "../runtime/runtime.ts"
 
 export const CODE_DIRS: readonly string[] = [
@@ -26,21 +26,30 @@ export const CODE_DIRS: readonly string[] = [
   "repo",
 ]
 
-export const CODE_SEEDS: readonly string[] = [
-  "page/file-tree.ts",
-  "page/page-types.ts",
-  "page/property/type-cache.ts",
-  "page/property/value.ts",
-  "page/shape/shape.ts",
-]
-
 const PAGE_SHAPE_NAMED: readonly string[] = [
   ...new Set(PAGE_SHAPE_GLOBS.map((one) => one.slice(one.lastIndexOf("/") + 1))),
 ]
 
 interface Ground {
   readonly base: string
-  readonly blobs: ReadonlyMap<string, string>
+}
+
+// What one checkout is asked for. A root is asked once, however many repositories or code
+// folders stand in it, because every `git` here loads the whole index — 17MB in this checkout —
+// and that load, not the answer, is what a call costs. `diff-index` over the sixteen code
+// folders, over the six shape folders and over the six shape names measured 103ms, 63ms and
+// 144ms apart and 156ms together, so asking three times spends 154ms on nothing but re-reading
+// an index that had not changed between the reads.
+interface Ask {
+  readonly root: string
+  readonly oidDirs: string[]
+  readonly cleanSpecs: string[]
+  named: boolean
+}
+
+interface Answered {
+  readonly oids: ReadonlyMap<string, string>
+  readonly named: ReadonlyMap<string, string>
 }
 
 function presentIn(root: string, globs: readonly string[]): readonly string[] {
@@ -54,21 +63,8 @@ function recordedAt(root: string, dirs: readonly string[]): readonly string[] | 
   return oids.length === dirs.length ? oids : null
 }
 
-function matchesCommit(root: string, dirs: readonly string[]): boolean {
-  return gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...dirs]).code === 0
-}
-
-function blobsUnder(root: string, dirs: readonly string[]): ReadonlyMap<string, string> | null {
-  const listed = gitCapped(root, ["ls-tree", "-r", "HEAD", "--", ...dirs])
-  if (listed.code !== 0) return null
-  const blobs = new Map<string, string>()
-  for (const line of listed.stdout.split("\n")) {
-    if (line === "") continue
-    const [head, at] = line.split("\t")
-    const oid = head?.split(" ")[2]
-    if (at !== undefined && oid !== undefined) blobs.set(at, oid)
-  }
-  return blobs
+function matchesCommit(root: string, specs: readonly string[]): boolean {
+  return gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...specs]).code === 0
 }
 
 function blobsNamed(root: string): ReadonlyMap<string, string> | null {
@@ -84,68 +80,133 @@ function blobsNamed(root: string): ReadonlyMap<string, string> | null {
   return blobs
 }
 
-function ownCodeParts(): readonly string[] | null {
-  const root = akashaRoot()
-  const dirs = presentIn(root, CODE_DIRS)
-  if (dirs.length !== CODE_DIRS.length) return null
-  const oids = recordedAt(root, dirs)
-  if (oids === null) return null
-  if (!matchesCommit(root, dirs)) return null
-  return dirs.map((at, index) => `${AKASHA}/${at}:${oids[index]}`)
+// The asks a checkout stands under, one entry per root. `askFor` is what merges them: two
+// repositories in one checkout, or the code folders and the shape folders of the same one, come
+// back as a single entry and so cost a single load of that index.
+function askFor(asks: Map<string, Ask>, root: string): Ask {
+  const held = asks.get(root)
+  if (held !== undefined) return held
+  const made: Ask = { root, oidDirs: [], cleanSpecs: [], named: false }
+  asks.set(root, made)
+  return made
+}
+
+// Cleanliness is asked first and alone, because it is the answer that says no. A checkout with
+// any of this uncommitted has no mark, and finding that out costs one call rather than the two
+// or three it took to reach the same no before.
+function readAt(ask: Ask): Answered | null {
+  if (ask.cleanSpecs.length > 0 && !matchesCommit(ask.root, [...new Set(ask.cleanSpecs)]))
+    return null
+  const oids = new Map<string, string>()
+  const dirs = [...new Set(ask.oidDirs)]
+  if (dirs.length > 0) {
+    const found = recordedAt(ask.root, dirs)
+    if (found === null) return null
+    dirs.forEach((at, index) => oids.set(at, found[index] as string))
+  }
+  if (!ask.named) return { oids, named: new Map() }
+  const named = blobsNamed(ask.root)
+  return named === null ? null : { oids, named }
+}
+
+function answeredFor(asks: ReadonlyMap<string, Ask>): ReadonlyMap<string, Answered> | null {
+  const done = new Map<string, Answered>()
+  for (const ask of asks.values()) {
+    const one = readAt(ask)
+    if (one === null) return null
+    done.set(ask.root, one)
+  }
+  return done
+}
+
+// An oid that is not there is answered as no ground rather than written into the mark as the
+// word `undefined`. Two checkouts standing apart would otherwise carry the same mark and one
+// would be handed the other's answer.
+function partsFor(
+  done: ReadonlyMap<string, Answered>,
+  root: string,
+  dirs: readonly string[],
+  under: string
+): readonly string[] | null {
+  const oids = done.get(root)?.oids
+  if (oids === undefined) return null
+  const parts: string[] = []
+  for (const at of dirs) {
+    const oid = oids.get(at)
+    if (oid === undefined) return null
+    parts.push(`${under}${at}:${oid}`)
+  }
+  return parts
+}
+
+// The code the reading is done by stands in whichever checkout this process runs out of, which
+// is not always the root the tree is read over, so it is asked for by its own root.
+function ownDirs(): readonly string[] | null {
+  const dirs = presentIn(akashaRoot(), CODE_DIRS)
+  return dirs.length === CODE_DIRS.length ? dirs : null
 }
 
 export function groundOverCommit(root: string): Ground | null {
   const dirs = presentIn(root, PAGE_SHAPE_GLOBS)
   if (dirs.length === 0) return null
-  const oids = recordedAt(root, dirs)
-  if (oids === null) return null
-  if (!matchesCommit(root, dirs)) return null
-  const own = ownCodeParts()
-  if (own === null) return null
-  const blobs = blobsUnder(root, presentIn(root, PAGE_TYPE_GLOBS))
-  if (blobs === null) return null
-  const parts = dirs.map((at, index) => `${at}:${oids[index]}`)
-  parts.push(...own)
-  parts.push(RUNTIME_MARK)
-  return { base: parts.join("\n"), blobs }
-}
-
-function repoParts(
-  repo: string,
-  root: string
-): { readonly parts: readonly string[]; readonly blobs: ReadonlyMap<string, string> } | null {
-  if (gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...PAGE_SHAPE_NAMED]).code !== 0)
-    return null
-  const blobs = blobsNamed(root)
-  if (blobs === null) return null
-  const parts = [...blobs.keys()].sort().map((at) => `${repo}/${at}:${blobs.get(at)}`)
-  const dirs = presentIn(root, PAGE_SHAPE_GLOBS)
-  if (dirs.length > 0) {
-    const oids = recordedAt(root, dirs)
-    if (oids === null) return null
-    if (!matchesCommit(root, dirs)) return null
-    parts.push(...dirs.map((at, index) => `${repo}/${at}:${oids[index]}`))
-  }
-  return { parts, blobs }
+  const code = ownDirs()
+  if (code === null) return null
+  const asks = new Map<string, Ask>()
+  const over = askFor(asks, root)
+  over.oidDirs.push(...dirs)
+  over.cleanSpecs.push(...dirs)
+  const here = askFor(asks, akashaRoot())
+  here.oidDirs.push(...code)
+  here.cleanSpecs.push(...code)
+  const done = answeredFor(asks)
+  if (done === null) return null
+  const shape = partsFor(done, root, dirs, "")
+  const own = partsFor(done, akashaRoot(), code, `${AKASHA}/`)
+  if (shape === null || own === null) return null
+  return { base: [...shape, ...own, RUNTIME_MARK].join("\n") }
 }
 
 export function groundSpanning(roots: Roots): Ground | null {
-  const own = ownCodeParts()
-  if (own === null) return null
-  const parts: string[] = []
-  const blobs = new Map<string, string>()
+  const code = ownDirs()
+  if (code === null) return null
+  const asks = new Map<string, Ask>()
+  const here = askFor(asks, akashaRoot())
+  here.oidDirs.push(...code)
+  here.cleanSpecs.push(...code)
+  const shaped = new Map<string, readonly string[]>()
   for (const repo of repos()) {
     const root = roots[repo]
     if (root === undefined) continue
-    const one = repoParts(repo, root)
-    if (one === null) return null
-    parts.push(...one.parts)
-    for (const [at, oid] of one.blobs) blobs.set(at, oid)
+    const one = askFor(asks, root)
+    one.named = true
+    one.cleanSpecs.push(...PAGE_SHAPE_NAMED)
+    const dirs = presentIn(root, PAGE_SHAPE_GLOBS)
+    shaped.set(repo, dirs)
+    one.oidDirs.push(...dirs)
+    one.cleanSpecs.push(...dirs)
   }
-  if (blobs.size === 0) return null
-  parts.push(...own)
-  parts.push(RUNTIME_MARK)
-  return { base: parts.join("\n"), blobs }
+  const done = answeredFor(asks)
+  if (done === null) return null
+  const parts: string[] = []
+  const held = new Set<string>()
+  for (const repo of repos()) {
+    const root = roots[repo]
+    if (root === undefined) continue
+    const one = done.get(root)
+    if (one === undefined) return null
+    for (const at of [...one.named.keys()].sort()) {
+      parts.push(`${repo}/${at}:${one.named.get(at)}`)
+      held.add(at)
+    }
+    const shape = partsFor(done, root, shaped.get(repo) ?? [], `${repo}/`)
+    if (shape === null) return null
+    parts.push(...shape)
+  }
+  if (held.size === 0) return null
+  const own = partsFor(done, akashaRoot(), code, `${AKASHA}/`)
+  if (own === null) return null
+  parts.push(...own, RUNTIME_MARK)
+  return { base: parts.join("\n") }
 }
 
 const grounds = new WeakMap<FileTree, Ground | null>()
@@ -172,16 +233,3 @@ export function shapeMarkOf(tree: FileTree): string | null {
   return ground === null ? null : createHash("sha256").update(ground.base).digest("hex")
 }
 
-export function typeMarkOf(tree: FileTree, relPaths: readonly string[]): string | null {
-  const ground = groundOf(tree)
-  if (ground === null) return null
-  const named: string[] = []
-  for (const at of relPaths) {
-    const oid = ground.blobs.get(at)
-    if (oid === undefined) return null
-    named.push(`${at}:${oid}`)
-  }
-  return createHash("sha256")
-    .update(`${ground.base}\n${named.join("\n")}`)
-    .digest("hex")
-}
