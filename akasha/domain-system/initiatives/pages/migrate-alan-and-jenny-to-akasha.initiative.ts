@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's status line shows Claude usage and both readout groups.",
       workingMemory:
-        "The bar draws 8 slots under node against a stub editor: session 65, weekly 25, upkeep 6, inboxes 3, values 6. Both numbers were dead until `a9491d26eb` — `readUsage` loaded page bodies with `Bun.Transpiler` in a node host, `allSettled` swallowed the fault, and the slots read a dash while activation said 8 of 8. `extension-node-clean` counted that clean, since a guard whose node side throws looks like a file that runs under both. It now says so.",
+        "The bar draws 6 slots since the values group went at `267f233e10`: session, weekly, upkeep 6, inboxes 3. The stoplights were dark because `pages-system-service` had died at 10:34 under another lane's rename `7f560bc005`, not because the bar was wrong; with it running, all nine draw. Its own reads cost 370ms and 121ms warm and the whole surface medians 484ms, so what Alan calls slow is not these reads. Usage is the one read no held-open server answers.",
     },
     {
       statement: "The code editor's four panels each show what akasha holds.",
