@@ -1,6 +1,7 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { wakeDayWindow } from "../wake-day.ts"
-import { askComposed, numberOf } from "./tracking-modules.ts"
+import { askComposed } from "../page-query-client.ts"
+import { numberOf } from "./tracking-modules.ts"
 import type { QueryRow } from "./tracking-types.ts"
 
 const FOOD_ENTRY_PAGE_TYPE_SLUG = "food-entry"
@@ -20,5 +21,5 @@ export async function loadDayPlantGrams(dayStr: string): Promise<number> {
     keys: ["id", "plant-grams"],
   })
   if (!asked.ok) throw new Error(`loadDayPlantGrams: ${asked.why}`)
-  return sumPlantGrams(asked.answer.rows)
+  return sumPlantGrams(asked.rows)
 }

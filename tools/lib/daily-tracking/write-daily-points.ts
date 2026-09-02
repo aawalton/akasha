@@ -1,4 +1,4 @@
-import { DAILY_TRACKING_PAGE_TYPE_SLUG } from "./daily-row.ts"
+import { DAILY_TRACKING } from "../tracking/day-place.ts"
 
 export type WriteOutcome = "patched" | "created"
 
@@ -13,7 +13,7 @@ export type WriteOutcome = "patched" | "created"
  */
 function unwritable(dayStr: string, field: string): never {
   throw new Error(
-    `the ${field} for ${dayStr} went unwritten: a \`${DAILY_TRACKING_PAGE_TYPE_SLUG}\` page is ` +
+    `the ${field} for ${dayStr} went unwritten: a \`${DAILY_TRACKING}\` page is ` +
       "written by naming a path and a whole body, and nothing renders that body out of the keys a " +
       "page carries, so this figure has nowhere to land"
   )

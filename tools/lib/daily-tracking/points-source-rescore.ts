@@ -1,5 +1,5 @@
+import { askComposed } from "../page-query-client.ts"
 import {
-  askComposed,
   GREEN_DAY_POINTS_FIELD,
   kebabKey,
   numberOf,
@@ -86,7 +86,7 @@ export async function rescorePersona(args: {
     keys: ["persona-slug", "date", GREEN_DAY_POINTS_KEY],
   })
   if (!asked.ok) throw new Error(`rescorePersona(${slug}): ${asked.why}`)
-  const rows = asked.answer.rows.map((row) => row.values)
+  const rows = asked.rows.map((row) => row.values)
 
   const days = rows
     .map((r) => textOf(r.date))

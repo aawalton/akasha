@@ -1,23 +1,25 @@
-import { fetchSurplusHours } from "@akasha/readout-system/upkeep-surplus"
-import { askComposed } from "../page-query-client.ts"
+import { surplusIn } from "@akasha/readout-system/upkeep-surplus"
+import { dayValuesByDate } from "../tracking/day-place.ts"
 import { resolveReadoutGroup } from "../../../readouts/readout-resolver.ts"
 import { type ReadoutScale, readoutShape } from "../../../readouts/readout-scale-shape.ts"
 import { isTierColor, type Rung } from "./tier.ts"
 
-// WHERE THE TWO READINGS COME FROM. Both are keys on the day's `daily-tracking` row, asked of
-// `@akasha/pages-system-service` and reduced here. `surplus-hours` is read by the same
-// `fetchSurplusHours` the surplus reading service uses, so the tier said here and the tile drawn
-// on the website are taken off one function rather than two that can drift.
+// WHERE THE TWO READINGS COME FROM. Both are keys on the day's tracking row, and the row is asked
+// for through `dayValuesByDate` — the funnel's by-date reader, which is what says where a day is
+// kept. Neither reading composes a query of its own any more: this file used to name the day page
+// type and hand the query straight to the page client, which decided for itself which half of the
+// migration the day was in, and would have gone on reading the markdown half after the day moved.
 //
-// `sleep-hours` has no such function of its own yet, so the ask is written out below in the shape
-// `fetchSurplusHours` uses. The `sleep-hours-on-day` readout query states the same page type and
-// the same target, so the two agree; if a third caller wants the night, lift this beside the
-// surplus one rather than writing it a third time.
-export const DAY_PAGE_TYPE = "daily-tracking"
-
-export const DAY_KEY = "date"
-
+// What each reading *means* is still decided in akasha. `surplusIn` is the same reducer
+// `fetchSurplusHours` uses and the same one the surplus reading service draws its tile from, so the
+// tier said here and the tile on the website are taken off one function rather than two that can
+// drift. The split is that akasha says what a reading means and the funnel says where the day is.
+//
+// `sleep-hours` has no reducer of its own, so `hoursIn` is applied to the key below. The
+// `sleep-hours-on-day` readout query names the same key, so the two agree.
 export const SLEEP_HOURS_KEY = "sleep-hours"
+
+const SURPLUS_KEYS = ["surplus-hours", SLEEP_HOURS_KEY, "spend-hours"] as const
 
 export interface Readout {
   readonly slug: string
@@ -68,22 +70,13 @@ export function hoursIn(held: unknown): number | null {
 }
 
 export async function readReading(day: string): Promise<number | null> {
-  return fetchSurplusHours(askComposed, day)
+  const values = await dayValuesByDate(day, SURPLUS_KEYS)
+  if (values === null) return null
+  return surplusIn(values)
 }
 
 export async function readSleepHours(day: string): Promise<number | null> {
-  const asked = await askComposed({
-    "page-type": DAY_PAGE_TYPE,
-    where: { [DAY_KEY]: { is: day } },
-    keys: [SLEEP_HOURS_KEY],
-    limit: 1,
-  })
-  if (!asked.ok) {
-    throw new Error(
-      `readSleepHours: the tracking day went unread, so the night the day opened on is unknown rather than unslept: ${asked.why}`
-    )
-  }
-  const row = asked.rows[0]
-  if (row === undefined) return null
-  return hoursIn(row.values[SLEEP_HOURS_KEY])
+  const values = await dayValuesByDate(day, [SLEEP_HOURS_KEY])
+  if (values === null) return null
+  return hoursIn(values[SLEEP_HOURS_KEY])
 }

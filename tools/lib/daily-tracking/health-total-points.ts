@@ -1,7 +1,7 @@
+import { askComposed } from "../page-query-client.ts"
 import { loadActiveCaloriesByDay } from "@akasha/health-samples-day/active-calories"
 import { z } from "zod"
 import {
-  askComposed,
   decideTotalPointsWrite as decideTotalPointsWriteBridge,
   numberOf,
   textOf,
@@ -137,7 +137,7 @@ export async function readHealthPersonaTotals(): Promise<readonly HealthPersonaT
     keys: [PERSONA_SLUG_KEY, DATE_KEY, ACTIVE_CALORIES_KEY, POINTS_KEY],
   })
   if (!asked.ok) throw new Error(`health totals: ${asked.why}`)
-  const { n, rows } = asked.answer
+  const { n, rows } = asked
   if (rows.length !== n) {
     throw new Error(
       `health totals: the ${PERSONA_DAY_PAGE_TYPE_SLUG} read came back with ${rows.length} of ` +

@@ -12,11 +12,24 @@ export { evaluateCoherenceRules } from "@akasha/pages-core/schema/coherence-rule
 // a page engine that was removed, and a keyed write cannot become a file — and the re-export is
 // why that went unseen: no search for `@shared/pages-query` named any of the six. Whoever needs
 // the store now names the package at the call site, so the next such refusal is findable.
-export { askComposed } from "@shared/pages-query/ask"
+//
+// `askComposed` was re-exported here too, from `@shared/pages-query/ask` — the remote half of the
+// query facade, fixed at "the checkout is not here". The store it goes to answers that none of
+// `session-tracking`, `daily-tracking`, `page-property-definition`, `food-entry`, `completed-task`,
+// `to-do` or `persona-day` names a page type its index holds, so all five callers of it refused on
+// every run, and the re-export hid that for the same reason it hid the six. It is gone: a caller
+// asking about a day or a session asks the funnel in `lib/tracking/day-place.ts`, and a caller
+// asking about anything else names the client it wants where it calls it.
 import { getEsoDayStrOffset as esoDayStrOffset } from "@akasha/day/eso-day"
 
 export { getEsoDayStr, getEsoDayStrOffset, getEsoDayWindow } from "@akasha/day/eso-day"
-export { cardioReading, readSessionPages } from "@akasha/status-bar-access/session-reading"
+// `readSessionPages` came from `@akasha/status-bar-access/session-reading` beside `cardioReading`.
+// That one binds the readout engine to a port that asks for a query by slug, and the engine which
+// read those query files is gone, so it raised on every call. It now comes from `./session-pages.ts`,
+// which states the query whole through the funnel. `cardioReading` reads health samples rather than
+// pages and is unaffected.
+export { cardioReading } from "@akasha/status-bar-access/session-reading"
+export { readSessionPages } from "./session-pages.ts"
 export { assertNever } from "@akasha/utils-narrow/assert-never"
 export const SOURCE_POINTS_FIELD = "sourcePoints"
 export { DEFAULT_GREEN_DAY_POINTS } from "../../../readouts/ring/ladder/ladder.ts"

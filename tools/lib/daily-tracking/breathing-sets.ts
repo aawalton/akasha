@@ -1,6 +1,5 @@
-import { askComposed, getEsoDayWindow, numberOf } from "./tracking-modules.ts"
-
-const MAX_DAY_SESSIONS = 200
+import { sessionsInSpan } from "../tracking/day-place.ts"
+import { getEsoDayWindow, numberOf } from "./tracking-modules.ts"
 
 export type BreathingRowInput = {
   readonly startTime: unknown
@@ -34,26 +33,19 @@ export function sumBreathingSetsForDay(rows: readonly BreathingRowInput[], daySt
   return total
 }
 
+/**
+ * The breathing sets Alan did on a day, summed from that day's sessions.
+ *
+ * The span is asked for through the funnel. This used to compose the query here and hand it to
+ * `askComposed` off `./tracking-modules.ts` — the remote half of the query facade, which answers
+ * that `session-tracking` names no page type the index holds, so this refused for every day it was
+ * asked about and the reduction below had never once run.
+ */
 export async function loadDayBreathingSets(dayStr: string): Promise<number> {
   const window = getEsoDayWindow(dayStr)
-  const asked = await askComposed({
-    "page-type": "session-tracking",
-    where: {
-      "start-time": {
-        "at-or-after": window.start.toISOString(),
-        before: window.end.toISOString(),
-      },
-    },
-    "sort-by": "start-time",
-    limit: MAX_DAY_SESSIONS,
-    keys: ["start-time", "breathing-sets"],
-  })
-  if (!asked.ok) throw new Error(`loadDayBreathingSets: ${asked.why}`)
+  const rows = await sessionsInSpan(window.start, window.end, ["start-time", "breathing-sets"])
   return sumBreathingSetsForDay(
-    asked.answer.rows.map((r) => ({
-      startTime: r.values["start-time"],
-      breathingSets: r.values["breathing-sets"],
-    })),
+    rows.map((row) => ({ startTime: row.startTime, breathingSets: row.breathingSets })),
     dayStr
   )
 }

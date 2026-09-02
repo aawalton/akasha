@@ -4,7 +4,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { relationshipsForTitle } from "../../lib/relationship-match.ts"
-import { dayById, SESSION_TRACKING } from "../../lib/tracking/day-place.ts"
+import { dayById, sessionById } from "../../lib/tracking/day-place.ts"
 import {
   echoedDay,
   pagesAccess,
@@ -136,7 +136,7 @@ export default async function trackingEdit(args: readonly string[]): Promise<voi
   const format = await trackingFormat()
   const { titleMatchesAnyWord } = await titleWordMatch()
   const { getMountainEveningDayStr } = await resetTimes()
-  const { getPage, getPages } = await pagesAccess()
+  const { getPages } = await pagesAccess()
   const { getPageAccessClient } = await pagesClient()
   const { amendSession } = await trackingSessions()
   const { parseRelationshipTokens, resolveRelationshipIds } = await trackingRelationships()
@@ -148,10 +148,13 @@ export default async function trackingEdit(args: readonly string[]): Promise<voi
   const stated = relationshipsGiven
     ? await resolveRelationshipIds(sb, parseRelationshipTokens(relationshipOccurrences))
     : undefined
-  const session = await getPage(sb, {
-    pageTypeSlug: SESSION_TRACKING,
-    where: [{ key: "id", eq: id.trim() }],
-  })
+  // The id is all this command has, and which day the row is beside is only known once the row is
+  // back, so there is no day string to ask `dayPlaceOf` about first. `sessionById` is the funnel's
+  // by-id reader, which answers the row wherever it is kept. The query used to be composed here and
+  // handed to the page client, which decided that for itself: once the day had moved, the read would
+  // answer nothing and the refusal below would say "session not found" about a session that is
+  // there — a wrong statement about Alan's day rather than a refusal to state one.
+  const session = await sessionById(id.trim())
   if (session == null) {
     throw inputError(`session not found: ${id.trim()}`)
   }

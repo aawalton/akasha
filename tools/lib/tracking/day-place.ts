@@ -2,18 +2,25 @@ import type { Page } from "../daily-tracking/tracking-types.ts"
 import { dataError } from "../exit.ts"
 import {
   type Answered,
+  type AnsweredRow,
   askComposed,
   type Landed,
   pageLanding,
   removeRow,
   rowLanding,
 } from "../page-query-client.ts"
+import { addressOf } from "../../../page/page-address.ts"
 import { landAkashaDayPage, landAkashaSessionRow } from "./akasha-day.ts"
 import { pageOf } from "./pages.ts"
 
 export const DAILY_TRACKING = "daily-tracking"
 
 export const SESSION_TRACKING = "session-tracking"
+
+/** The page type a page type is, and the page type a property definition is. */
+const PAGE_TYPE = "page-type"
+
+const PROPERTY_DEFINITION = "page-property-definition"
 
 export const MARKDOWN = "markdown"
 
@@ -175,4 +182,206 @@ export function dayByDate(dayStr: string): Promise<Page | null> {
 
 export function dayById(dailyId: string): Promise<Page | null> {
   return only(askDayById(dailyId))
+}
+
+/**
+ * A day's values as the store holds them, in the store's own key spelling.
+ *
+ * `dayByDate` above hands back a `Page`, whose keys have been camelized. A caller that reduces a
+ * day with a function written against the kebab spelling — the readout engine's `surplusIn`, which
+ * reads `surplus-hours` — needs the values untouched, so it asks here instead of camelizing and
+ * then spelling every key a second way.
+ */
+export async function dayValuesByDate(
+  dayStr: string,
+  keys?: readonly string[]
+): Promise<Readonly<Record<string, unknown>> | null> {
+  const answer = await askComposed({
+    "page-type": DAILY_TRACKING,
+    where: { date: { is: dayStr } },
+    ...(keys === undefined ? {} : { keys }),
+    limit: 1,
+  })
+  if (!answer.ok) throw dataError(`reading the ${DAILY_TRACKING} day ${dayStr}: ${answer.why}`)
+  const row = answer.rows[0]
+  return row === undefined ? null : row.values
+}
+
+/**
+ * How many session rows one day is read as holding at the outside.
+ *
+ * Every by-day session read below carries it, so the two callers that used to hold their own copy
+ * of this number cannot drift apart from each other.
+ */
+export const MAX_DAY_SESSIONS = 200
+
+/**
+ * The session rows of a day, wherever that day is kept.
+ *
+ * These readers exist because a session row is half of a day, and every caller that wanted one used
+ * to compose its own query over `session-tracking` and hand it to the page client directly. That is
+ * the same fault as writing a day around `landSessionRow`: the reach decides for itself where the
+ * rows are, and once one day is markdown and the next is akasha it answers out of one half and
+ * reports the other half as empty.
+ *
+ * A `where` over a field rather than over a page name reaches both halves as it is, because the
+ * `session-tracking` page type names both places in its `files:`. What the funnel adds is that the
+ * decision is made in one file: when the two halves stop being readable by one query, these change
+ * and no caller does.
+ */
+function askSessions(query: Readonly<Record<string, unknown>>): Promise<Answered> {
+  return askComposed({ "page-type": SESSION_TRACKING, ...query })
+}
+
+async function sessionRows(asked: Promise<Answered>, doing: string): Promise<readonly Page[]> {
+  const answer = await asked
+  if (!answer.ok) throw dataError(`${doing}: ${answer.why}`)
+  return answer.rows.map((row) => pageOf(row.values))
+}
+
+/** The one session left open, newest first, or nothing where none is open. */
+export async function openSession(): Promise<Page | null> {
+  const rows = await sessionRows(
+    askSessions({
+      where: { "end-time": { empty: true } },
+      "sort-by": "start-time",
+      descending: true,
+      limit: 1,
+    }),
+    "finding the open session"
+  )
+  return rows[0] ?? null
+}
+
+/** The sessions begun before an instant, newest first. */
+export function sessionsBefore(beforeInstant: Date, limit: number): Promise<readonly Page[]> {
+  return sessionRows(
+    askSessions({
+      where: { "start-time": { before: beforeInstant.toISOString() } },
+      "sort-by": "start-time",
+      descending: true,
+      limit,
+    }),
+    "finding the prior closed session"
+  )
+}
+
+/** The sessions beside one day, named by that day's id, oldest first. */
+export function sessionsOfDay(dailyId: string, keys?: readonly string[]): Promise<readonly Page[]> {
+  return sessionRows(
+    askSessions({
+      where: { [DAILY_TRACKING]: { is: dailyId } },
+      "sort-by": "start-time",
+      limit: MAX_DAY_SESSIONS,
+      ...(keys === undefined ? {} : { keys }),
+    }),
+    "listing the sessions of a day"
+  )
+}
+
+/** The sessions begun within a span, oldest first. */
+export function sessionsInSpan(
+  fromInstant: Date,
+  beforeInstant: Date,
+  keys?: readonly string[]
+): Promise<readonly Page[]> {
+  return sessionRows(
+    askSessions({
+      where: {
+        "start-time": {
+          "at-or-after": fromInstant.toISOString(),
+          before: beforeInstant.toISOString(),
+        },
+      },
+      "sort-by": "start-time",
+      limit: MAX_DAY_SESSIONS,
+      ...(keys === undefined ? {} : { keys }),
+    }),
+    "reading the sessions of a span"
+  )
+}
+
+/**
+ * The session row carrying an id, wherever that row is kept.
+ *
+ * `commands/tracking/edit.ts` and `commands/tracking/delete.ts` hold a session id and no day: which
+ * day the row is beside is only known once the row is back, so neither can ask `dayPlaceOf` before
+ * it reads. An id is unique across both halves, so the honest shape is a reader that answers "the
+ * row with this id, wherever it is kept" and lets the caller take the day off the row it got. Every
+ * by-id lookup the migration needs is this shape.
+ */
+export async function sessionById(sessionId: string): Promise<Page | null> {
+  const rows = await sessionRows(
+    askSessions({ where: { id: { is: sessionId } }, limit: 1 }),
+    `finding the session ${sessionId}`
+  )
+  return rows[0] ?? null
+}
+
+export interface AllSessions {
+  /** How many rows the store counted, which a caller compares against what it was handed. */
+  readonly n: number
+  readonly rows: readonly AnsweredRow[]
+}
+
+/**
+ * Every session row there is, unfiltered, with the store's own count beside it.
+ *
+ * Two callers total sessions over the whole history rather than over a day, and a total summed from
+ * a short read is low without anything saying so. That comparison is made here, because a short read
+ * of *every* row is wrong for any caller of this — there is no reading it could be right for. The
+ * count is handed back beside the rows all the same, so a caller with a further check of its own
+ * makes it against the number the store gave rather than against one this call invented.
+ *
+ * The rows are handed back whole rather than as `Page`s, because a caller that works out which day
+ * a row was part of reads it off the row's `at` — the sidecar file the row is kept in — and
+ * camelizing the values would leave that behind.
+ */
+export async function allSessions(): Promise<AllSessions> {
+  const answer = await askSessions({})
+  if (!answer.ok) throw dataError(`reading every ${SESSION_TRACKING} row: ${answer.why}`)
+  if (answer.rows.length !== answer.n) {
+    throw dataError(
+      `the ${SESSION_TRACKING} read came back with ${answer.rows.length} of ${answer.n} row(s), ` +
+        "so any total summed from it would be low"
+    )
+  }
+  return { n: answer.n, rows: answer.rows }
+}
+
+/**
+ * What a session row is declared as able to carry.
+ *
+ * This is asked of the page type rather than of a day, but it names the session page type to do it,
+ * so it is asked here: the one file that knows what a session page type is called is the one that
+ * names it.
+ */
+export async function sessionPropertyDefinitions(): Promise<
+  readonly Readonly<Record<string, unknown>>[]
+> {
+  const answer = await askComposed({
+    "page-type": PROPERTY_DEFINITION,
+    where: { "defined-on-slug": { is: addressOf(PAGE_TYPE, SESSION_TRACKING) } },
+  })
+  if (!answer.ok) throw dataError(`reading what a ${SESSION_TRACKING} row may carry: ${answer.why}`)
+  return answer.rows.map((row) => row.values)
+}
+
+/**
+ * Why a property may not be scored across sessions, or nothing where it may.
+ *
+ * A caller that sums a property no definition declares gets 0 from every row and cannot tell that
+ * apart from a real total of nothing, so it would write an instrument's silence as a measurement.
+ * The answer is a sentence rather than a `false` because the sentence has to name the session page
+ * type to be worth reading, and this is where that name is kept.
+ */
+export async function sessionPropertyUndeclared(propertyKey: string): Promise<string | null> {
+  const defs = await sessionPropertyDefinitions()
+  const declared = defs.some((def) => (def as { readonly key?: unknown }).key === propertyKey)
+  if (declared) return null
+  return (
+    `no property definition declares \`${propertyKey}\` on \`${SESSION_TRACKING}\`, so every ` +
+    "session scores 0 and any total written from it would state an instrument's silence as a " +
+    "measurement"
+  )
 }

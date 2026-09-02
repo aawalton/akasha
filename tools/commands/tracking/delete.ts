@@ -3,11 +3,9 @@ export const summary = "Take a mis-created session off its day; it vanishes from
 import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { SESSION_TRACKING } from "../../lib/tracking/day-place.ts"
+import { sessionById } from "../../lib/tracking/day-place.ts"
 import {
   deleteEcho,
-  pagesAccess,
-  pagesClient,
   trackingFormat,
   trackingSessions,
 } from "../../lib/tracking-capability.ts"
@@ -47,16 +45,16 @@ export default async function trackingDelete(args: readonly string[]): Promise<v
   const trimmedId = id.trim()
 
   const format = await trackingFormat()
-  const { getPage } = await pagesAccess()
-  const { getPageAccessClient } = await pagesClient()
   const { buildDeleteEcho } = await deleteEcho()
   const { dropSession } = await trackingSessions()
 
-  const sb = getPageAccessClient()
-  const session = await getPage(sb, {
-    pageTypeSlug: SESSION_TRACKING,
-    where: [{ key: "id", eq: trimmedId }],
-  })
+  // The id is all this command has, and which day the row is beside is only known once the row is
+  // back — so there is no day string to ask `dayPlaceOf` about before the read. `sessionById` is
+  // the funnel's by-id reader, which answers the row wherever it is kept. Composing the query here
+  // and handing it to the page client, as this used to, decided that for itself: after the day
+  // moved, the read would answer nothing and the line below would say "session not found", which
+  // is a wrong statement about Alan's day rather than a refusal to state one.
+  const session = await sessionById(trimmedId)
   if (session == null) {
     throw inputError(`session not found: ${trimmedId}`)
   }

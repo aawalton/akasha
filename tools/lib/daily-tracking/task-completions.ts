@@ -1,4 +1,5 @@
-import { askComposed, getEsoDayWindow, textOf } from "./tracking-modules.ts"
+import { askComposed } from "../page-query-client.ts"
+import { getEsoDayWindow, textOf } from "./tracking-modules.ts"
 
 const COMPLETED_TASK_PAGE_TYPE_SLUG = "completed-task"
 const TO_DO_PAGE_TYPE_SLUG = "to-do"
@@ -113,7 +114,7 @@ export async function loadDayHealthTaskPoints(dayStr: string): Promise<number> {
   ])
   if (!snapshotsAsked.ok) throw new Error(`loadDayHealthTaskPoints: ${snapshotsAsked.why}`)
   if (!poolAsked.ok) throw new Error(`loadDayHealthTaskPoints: ${poolAsked.why}`)
-  const toDos = poolAsked.answer.rows.map((r) => r.values)
+  const toDos = poolAsked.rows.map((r) => r.values)
 
   return computeHealthTaskPointsForWindow(
     {
@@ -123,7 +124,7 @@ export async function loadDayHealthTaskPoints(dayStr: string): Promise<number> {
           slug: values.slug,
           completedAt: values["last-completed-at"],
         })),
-      snapshots: snapshotsAsked.answer.rows.map((r) => ({
+      snapshots: snapshotsAsked.rows.map((r) => ({
         toDoSlug: r.values["to-do-slug"],
         completedAt: r.values["completed-at"],
       })),

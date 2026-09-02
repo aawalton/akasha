@@ -1,5 +1,5 @@
+import { askComposed } from "../page-query-client.ts"
 import {
-  askComposed,
   getEsoDayStrOffset,
   getEsoDayWindow,
   kebabKey,
@@ -45,7 +45,7 @@ async function drain(
     ...(Object.keys(where).length > 0 ? { where } : {}),
   })
   if (!asked.ok) throw new Error(`\`${pageTypeSlug}\` went unread: ${asked.why}`)
-  const { n, rows } = asked.answer
+  const { n, rows } = asked
   if (rows.length !== n) {
     throw new Error(
       `\`${pageTypeSlug}\` answered with ${rows.length} of ${n} page(s), so a total summed from ` +

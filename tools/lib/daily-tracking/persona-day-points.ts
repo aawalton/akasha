@@ -1,5 +1,6 @@
 import { z } from "zod"
-import { askComposed, DEFAULT_GREEN_DAY_POINTS, kebabKey, WRITER } from "./tracking-modules.ts"
+import { askComposed } from "../page-query-client.ts"
+import { DEFAULT_GREEN_DAY_POINTS, kebabKey, WRITER } from "./tracking-modules.ts"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
 import type { WriteOutcome } from "./tracking-types.ts"
@@ -62,7 +63,7 @@ async function personaDayStands(personaSlug: string, dayStr: string): Promise<bo
       `personaDayStands: whether \`${personaDaySlug(personaSlug, dayStr)}\` is already written could not be read, so nothing is written over: ${asked.why}`
     )
   }
-  return asked.answer.rows.length > 0
+  return asked.rows.length > 0
 }
 
 async function patchPersonaDayFields(

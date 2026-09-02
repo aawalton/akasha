@@ -1,11 +1,19 @@
 import type { Page } from "../daily-tracking/tracking-types.ts"
-import { dataError, inputError, operationalError } from "../exit.ts"
-import { askComposed } from "../page-query-client.ts"
-import { askDayById, askDayByDate, DAILY_TRACKING, landDayPage, SESSION_TRACKING } from "./day-place.ts"
+import { inputError, operationalError } from "../exit.ts"
+import {
+  dayByDate,
+  dayById,
+  landDayPage,
+  openSession,
+  sessionsBefore,
+  sessionsOfDay,
+} from "./day-place.ts"
 import { displayTitle, fieldStr } from "./format.ts"
-import { pageOf, type PageAccessClient } from "./pages.ts"
-
-const MAX_DAY_SESSIONS = 200
+// A type and nothing else. Every read below is asked of the funnel, so this file no longer takes
+// anything off `./pages.ts` that reaches the page store, and a caller of it is not reaching one
+// either — which is what `lib/inbox-tracking/persist.ts` and `./sessions.ts` were counted for while
+// this module still held a client of its own.
+import type { PageAccessClient } from "./pages.ts"
 
 const PRIOR_SCAN_LIMIT = 5
 
@@ -14,16 +22,7 @@ export const TRACKING_WRITER = "ops-tracking"
 export const DAILY_TRACKING_VERSION = "3.0"
 
 export async function findOpenSession(_sb: PageAccessClient): Promise<Page | null> {
-  const asked = await askComposed({
-    "page-type": SESSION_TRACKING,
-    where: { "end-time": { empty: true } },
-    "sort-by": "start-time",
-    descending: true,
-    limit: 1,
-  })
-  if (!asked.ok) throw dataError(`finding the open session: ${asked.why}`)
-  const row = asked.rows[0]
-  return row === undefined ? null : pageOf(row.values)
+  return openSession()
 }
 
 export async function requireOpenSession(sb: PageAccessClient): Promise<Page> {
@@ -48,16 +47,7 @@ export async function findPriorClosedSession(
   _sb: PageAccessClient,
   beforeInstant: Date
 ): Promise<Page | null> {
-  const asked = await askComposed({
-    "page-type": SESSION_TRACKING,
-    where: { "start-time": { before: beforeInstant.toISOString() } },
-    "sort-by": "start-time",
-    descending: true,
-    limit: PRIOR_SCAN_LIMIT,
-  })
-  if (!asked.ok) throw dataError(`finding the prior closed session: ${asked.why}`)
-  for (const raw of asked.rows) {
-    const row = pageOf(raw.values)
+  for (const row of await sessionsBefore(beforeInstant, PRIOR_SCAN_LIMIT)) {
     if (fieldStr(row, "endTime") !== undefined) return row
   }
   return null
@@ -70,22 +60,17 @@ export async function blockDay(
   if (session === null) return undefined
   const dailyId = fieldStr(session, "dailyTracking")
   if (dailyId === undefined) return undefined
-  const asked = await askDayById(dailyId)
-  if (!asked.ok) throw dataError(`finding the day a block stands in: ${asked.why}`)
-  const row = asked.rows[0]
-  if (row === undefined) return undefined
-  return fieldStr(pageOf(row.values), "date")
+  const day = await dayById(dailyId)
+  if (day === null) return undefined
+  return fieldStr(day, "date")
 }
 
 export async function resolveOrCreateDaily(
   _sb: PageAccessClient,
   dayStr: string
 ): Promise<{ readonly id: string; readonly created: boolean }> {
-  const asked = await askDayByDate(dayStr)
-  if (!asked.ok) throw dataError(`finding the day ${dayStr}: ${asked.why}`)
-  const standing = asked.rows[0]
-  const held = standing === undefined ? undefined : standing.values.id
-  if (typeof held === "string") return { id: held, created: false }
+  const held = await dayByDate(dayStr)
+  if (held !== null && held.id !== "") return { id: held.id, created: false }
 
   const id = Bun.randomUUIDv7()
   const landed = await landDayPage(
@@ -104,12 +89,5 @@ export async function listDaySessions(
   _sb: PageAccessClient,
   dailyId: string
 ): Promise<readonly Page[]> {
-  const asked = await askComposed({
-    "page-type": SESSION_TRACKING,
-    where: { [DAILY_TRACKING]: { is: dailyId } },
-    "sort-by": "start-time",
-    limit: MAX_DAY_SESSIONS,
-  })
-  if (!asked.ok) throw dataError(`listing the sessions of a day: ${asked.why}`)
-  return asked.rows.map((row) => pageOf(row.values))
+  return sessionsOfDay(dailyId)
 }

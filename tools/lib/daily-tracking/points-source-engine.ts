@@ -1,6 +1,6 @@
+import { askComposed } from "../page-query-client.ts"
 import { z } from "zod"
 import {
-  askComposed,
   assertNever,
   DEFAULT_GREEN_DAY_POINTS,
   evaluateCoherenceRules,
@@ -184,7 +184,7 @@ async function askedPages(
 ): Promise<readonly Readonly<Record<string, unknown>>[]> {
   const asked = await askComposed({ "page-type": pageTypeSlug, where })
   if (!asked.ok) throw new Error(`\`${pageTypeSlug}\` went unread: ${asked.why}`)
-  const { n, rows } = asked.answer
+  const { n, rows } = asked
   if (rows.length !== n) {
     throw new Error(
       `\`${pageTypeSlug}\` answered with ${rows.length} of ${n} page(s), so the figure summed ` +

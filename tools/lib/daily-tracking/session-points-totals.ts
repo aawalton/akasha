@@ -1,5 +1,4 @@
 import {
-  askComposed,
   DEFAULT_GREEN_DAY_POINTS,
   getEsoDayWindow,
   numberOf,
@@ -7,6 +6,11 @@ import {
   textOf,
   WRITER,
 } from "./tracking-modules.ts"
+import {
+  allSessions,
+  sessionPropertyDefinitions,
+  sessionPropertyUndeclared,
+} from "../tracking/day-place.ts"
 import { type PersonaDayTarget, patchPersonaDayField } from "./persona-day-points.ts"
 import { landTotalPoints } from "./persona-total-landing.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
@@ -19,14 +23,6 @@ import {
   sumSessionPointsForWindow,
 } from "./session-points-compute.ts"
 import type { PropertyDefinition, ReadonlyJSONValue } from "./tracking-types.ts"
-
-import { addressOf } from "../../../page/page-address.ts"
-
-const PAGE_TYPE_PAGE_TYPE = "page-type"
-
-const PROPERTY_DEFINITION_PAGE_TYPE_SLUG = "page-property-definition"
-
-const SESSION_TRACKING_PAGE_TYPE_SLUG = "session-tracking"
 
 export interface PersonaSessionSpec {
   readonly personaSlug: string
@@ -60,46 +56,39 @@ export interface SessionPointsSource {
   readonly undeclared: string | null
 }
 
+/**
+ * What a session row is declared as able to carry, and every session row there is.
+ *
+ * All three reads are asked through the funnel. They used to be composed here and handed to
+ * `askComposed` off `./tracking-modules.ts` — the remote half of the query facade, which answers
+ * that neither `page-property-definition` nor `session-tracking` names a page type the index holds.
+ * So both refused, and the four functions below them had never once run against a real reading.
+ *
+ * The short-read comparison and the sentence about an undeclared property both went to the funnel
+ * with them, because both are statements about the session page type, and the funnel is the one
+ * thing that says what that page type is called and where its rows are kept.
+ */
 async function loadSessionTrackingDefs(): Promise<readonly PropertyDefinition[]> {
-  const asked = await askComposed({
-    "page-type": PROPERTY_DEFINITION_PAGE_TYPE_SLUG,
-    where: { "defined-on-slug": { is: addressOf(PAGE_TYPE_PAGE_TYPE, SESSION_TRACKING_PAGE_TYPE_SLUG) } },
-  })
-  if (!asked.ok) throw new Error(`session points: ${asked.why}`)
-  return asked.answer.rows.map((row) => row.values as unknown as PropertyDefinition)
+  const defs = await sessionPropertyDefinitions()
+  return defs.map((values) => values as unknown as PropertyDefinition)
 }
 
 async function loadAllSessionRows(): Promise<
   readonly Readonly<Record<string, ReadonlyJSONValue>>[]
 > {
-  const asked = await askComposed({ "page-type": SESSION_TRACKING_PAGE_TYPE_SLUG })
-  if (!asked.ok) throw new Error(`session points: ${asked.why}`)
-  const { n, rows } = asked.answer
-  if (rows.length !== n) {
-    throw new Error(
-      `session points: the ${SESSION_TRACKING_PAGE_TYPE_SLUG} read came back with ` +
-        `${rows.length} of ${n} page(s), so any total summed from it would be low`
-    )
-  }
+  const { rows } = await allSessions()
   return rows.map((row) => row.values as Readonly<Record<string, ReadonlyJSONValue>>)
 }
 
 export async function readSessionPointsSource(
   spec: PersonaSessionSpec
 ): Promise<SessionPointsSource> {
-  const [defs, rows] = await Promise.all([loadSessionTrackingDefs(), loadAllSessionRows()])
-  const declared = defs.some((def) => (def as { readonly key?: unknown }).key === spec.pointsPropId)
-  if (!declared) {
-    return {
-      defs,
-      rows,
-      undeclared:
-        `no property definition declares \`${spec.pointsPropId}\` on ` +
-        `\`${SESSION_TRACKING_PAGE_TYPE_SLUG}\`, so every session scores 0 and any total ` +
-        `written from it would state an instrument's silence as a measurement`,
-    }
-  }
-  return { defs, rows, undeclared: null }
+  const [defs, rows, undeclared] = await Promise.all([
+    loadSessionTrackingDefs(),
+    loadAllSessionRows(),
+    sessionPropertyUndeclared(spec.pointsPropId),
+  ])
+  return { defs, rows, undeclared }
 }
 
 async function personaFor(
