@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "All 133 days turn clean and the checker judges 18877 values with no fault, by two readers sharing no code. The 34 declarations landed at `6400a9d100`; the dry run counts 32 because its glob cannot match an entry declaration, so nothing is owed there. What is left is the landing itself, which snapshots, turns, verifies and flips `dayPlaceOf` as one revertable act. Converter `0907f2e73a`, checker `f8dbc80e6c`, funnel `2f5978b54d`, readers `d0a08f8579`.",
+        "The landing is built and rehearsed at `bf0ddf6ad1`: 133 days, 294 files, 1941 records, 18877 values, 0 faults, 1808 rows read back through akasha own reader, in 0.3s, never writing to the old markdown. It is three acts rather than one, since no akasha command reaches outside akasha. What blocks the flip: the funnel akasha read and write halves are stubs, and the day pages declaring import resolves to nothing. Declarations landed `6400a9d100`.",
     },
     {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
