@@ -5,4 +5,27 @@ export const temper = {
   pageTypeSlug: "domain",
   slug: "temper",
   definition: "a companion suite for The Elder Scrolls Online",
+  pluralSlug: "tempers",
+  partSlugs: [
+    "domain/temper-catalog",
+    "domain/temper-character",
+    "domain/temper-holdings",
+    "domain/temper-progress",
+    "number-property/display-order",
+    "text-property/description",
+    "text-property/icon",
+    "text-property/key",
+    "text-property/title",
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "Where a thing falls among its siblings is stated by `display-order` and by no other property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type temper carries is worked out from what its pages state.",
+    },
+  ],
 } as const satisfies Domain
