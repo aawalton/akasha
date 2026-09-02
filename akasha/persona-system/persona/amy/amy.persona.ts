@@ -38,5 +38,5 @@ export const amy = {
       statement: "The Activity stoplight drives the behaviour Alan set that stoplight to drive.",
     },
   ],
-  totalPoints: 80.72467320261438,
+  totalPoints: 81.06290849673204,
 } as const satisfies Persona
