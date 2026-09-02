@@ -6,6 +6,7 @@ export const models = {
   slug: "models",
   definition: "the models work can be put to",
   partSlugs: [
+    "domain/model-gateway",
     "module/model-asking",
     "page-type/model-family",
     "page-type/model-test",
