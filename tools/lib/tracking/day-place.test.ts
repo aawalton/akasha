@@ -58,6 +58,7 @@ const {
   dayPageAt,
   dayPlaceIn,
   dayPlaceOf,
+  derivedDayIn,
   dropSessionRow,
   landDayPage,
   landSessionRow,
@@ -158,8 +159,13 @@ describe("create, edit and delete agree on where a day is", () => {
       (): unknown => sessionRowAt(AKASHA, "write-row", day),
       (): unknown => sessionRowAt(AKASHA, "patch-row", day),
       (): unknown => sessionRowAt(AKASHA, "remove-row", day),
+      (): unknown => derivedDayIn(AKASHA, day),
     ]
     for (const one of asked) expect(one).toThrow(day)
+  })
+
+  test("markdown: a derived read is let through", () => {
+    expect(() => derivedDayIn(MARKDOWN, day)).not.toThrow()
   })
 })
 

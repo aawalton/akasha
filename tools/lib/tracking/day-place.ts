@@ -101,6 +101,35 @@ export function sessionRowAt(place: DayPlace, act: SessionAct, dayStr: string): 
   return { place, act, pageType: SESSION_TRACKING, name: dayNameIn(place, dayStr) }
 }
 
+/**
+ * Refuse a *derived* read of a day that has moved.
+ *
+ * `sleepBlocksOn` in tools/lib/wake-day.ts reads day rows and session rows straight off the
+ * deriver. It is synchronous, and it is called from inside the page query engine itself
+ * (tools/lib/page-query.ts, wherever a query's `where` names `wake-day`), so it cannot await
+ * `dayByDate` — the readers below are async and asking one from there would be the engine asking
+ * itself. What it can do is ask where the day is kept before it looks.
+ *
+ * That matters because the deriver walks the markdown checkout, and whether it will also walk the
+ * akasha half is not settled — no day is written there yet. If it does not, a moved day derives no
+ * rows at all: the day reads as having no sleep, `wakeInstantOn` falls back to the start of the day
+ * window, and a wrong wake instant is handed to every caller with no fault raised. A refusal is the
+ * only honest answer until the akasha half exists, so whoever builds it decides here.
+ */
+export function derivedDayIn(place: DayPlace, dayStr: string): void {
+  if (place !== AKASHA) return
+  throw operationalError(
+    `a derived read of the day ${dayStr} was answered from the markdown checkout, and ` +
+      "`dayPlaceOf` in tools/lib/tracking/day-place.ts names that day migrated. A derive that " +
+      "cannot see the akasha half finds no rows for this day and answers that the day is empty, " +
+      "raising nothing. Settle what the deriver reaches, or take the day out of the migrated set."
+  )
+}
+
+export function derivedDayOf(dayStr: string): void {
+  derivedDayIn(dayPlaceOf(dayStr), dayStr)
+}
+
 export function landDayPage(
   act: DayAct,
   dayStr: string,

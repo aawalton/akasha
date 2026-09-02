@@ -1,5 +1,6 @@
 import { getEsoDayStr, getEsoDayWindow } from "./eso-day.ts"
 import { deriverFor } from "./deriver-hold.ts"
+import { DAILY_TRACKING, derivedDayOf, SESSION_TRACKING } from "./tracking/day-place.ts"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 export const WAKE_DAY = "wake-day"
@@ -41,9 +42,18 @@ function textAt(values: Readonly<Record<string, unknown>>, key: string): string 
   return typeof value === "string" ? value : null
 }
 
+/**
+ * The sleep sessions standing on a day, read off the deriver rather than asked for.
+ *
+ * This finds the day by its `date` value across every day row, not by the name its page answers
+ * to, so the funnel's naming rule does not reach it. What the funnel does decide for it is whether
+ * the day is somewhere this derive can see at all: `derivedDayOf` refuses for a day that has moved
+ * rather than let an empty derive read as an empty day.
+ */
 export function sleepBlocksOn(roots: Roots, dayStr: string): readonly SleepBlock[] {
+  derivedDayOf(dayStr)
   const derive = deriverFor(roots)
-  const days = derive.rows("daily-tracking")
+  const days = derive.rows(DAILY_TRACKING)
   if (days === null) return []
   let dayId: string | null = null
   for (const row of days) {
@@ -52,11 +62,11 @@ export function sleepBlocksOn(roots: Roots, dayStr: string): readonly SleepBlock
     break
   }
   if (dayId === null) return []
-  const sessions = derive.rows("session-tracking")
+  const sessions = derive.rows(SESSION_TRACKING)
   if (sessions === null) return []
   const blocks: SleepBlock[] = []
   for (const row of sessions) {
-    if (textAt(row.values, "daily-tracking") !== dayId) continue
+    if (textAt(row.values, DAILY_TRACKING) !== dayId) continue
     blocks.push({
       title: row.values.title,
       startTime: row.values["start-time"],

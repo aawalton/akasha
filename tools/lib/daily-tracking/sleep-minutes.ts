@@ -1,5 +1,6 @@
+import { askComposed } from "../page-query-client.ts"
+import { DAILY_TRACKING, dayByDate, SESSION_TRACKING } from "../tracking/day-place.ts"
 import { MINUTE_WORDS, titleMatchesAnyWord } from "../tracking/title-words.ts"
-import { askComposed } from "./tracking-modules.ts"
 
 const MS_PER_MINUTE = 60_000
 const MAX_DAY_SESSIONS = 200
@@ -29,27 +30,32 @@ export function sumSleepMinutes(
   return Math.round(totalMs / MS_PER_MINUTE)
 }
 
+/**
+ * How long Alan slept on a day, summed from that day's sleep sessions.
+ *
+ * The day is asked for by date, not by id, because the caller has a day string and nothing else.
+ * `dayByDate` is the funnel's by-date reader, so this asks where the day is kept before it looks —
+ * which is the whole point once one day is markdown and the next is akasha.
+ *
+ * This used to take `askComposed` from `./tracking-modules.ts`, which is `@shared/pages-query/ask`:
+ * the remote half of the query facade, fixed at "the checkout is not here", so it went to the page
+ * store over HTTP. The store answers `daily-tracking` names no page type the index holds, so both
+ * reads below refused and this function threw for every day it was asked about. The funnel's reader
+ * asks the checkout standing on this machine, which is where the days are.
+ */
 export async function loadDaySleepMinutes(dayStr: string): Promise<number> {
-  const dailyAsked = await askComposed({
-    "page-type": "daily-tracking",
-    where: { date: { is: dayStr } },
-    keys: ["id", "date"],
-    limit: 1,
-  })
-  if (!dailyAsked.ok) throw new Error(`loadDaySleepMinutes: ${dailyAsked.why}`)
-  const daily = dailyAsked.answer.rows[0]
-  const dailyId = daily === undefined ? undefined : daily.values.id
-  if (typeof dailyId !== "string") return 0
+  const daily = await dayByDate(dayStr)
+  if (daily === null || daily.id === "") return 0
   const sessionsAsked = await askComposed({
-    "page-type": "session-tracking",
-    where: { "daily-tracking": { is: dailyId } },
+    "page-type": SESSION_TRACKING,
+    where: { [DAILY_TRACKING]: { is: daily.id } },
     "sort-by": "start-time",
     limit: MAX_DAY_SESSIONS,
     keys: ["title", "start-time", "end-time"],
   })
   if (!sessionsAsked.ok) throw new Error(`loadDaySleepMinutes: ${sessionsAsked.why}`)
   return sumSleepMinutes(
-    sessionsAsked.answer.rows.map((r) => ({
+    sessionsAsked.rows.map((r) => ({
       title: r.values.title,
       startTime: r.values["start-time"],
       endTime: r.values["end-time"],
