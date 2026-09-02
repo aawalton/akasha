@@ -1,6 +1,6 @@
-import { classifyLocation } from "@temper/game-items-core/inventory-grouping"
-import { ITEM_CATEGORY_TREE } from "@temper/game-items-core/generated/item-category-tree.generated"
-import { type LocationTypeId, locationTypes } from "@temper/game-items-core/location-type-data"
+import { ITEM_CATEGORY_TREE } from "@akasha/temper-items-core/item-category-tree-data"
+import { classifyLocation } from "@akasha/temper-items-core/location-classify"
+import { type LocationTypeId, locationTypes } from "@akasha/temper-items-core/location-type-data"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
