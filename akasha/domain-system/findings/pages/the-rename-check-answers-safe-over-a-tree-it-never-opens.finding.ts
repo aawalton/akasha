@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theRenameCheckAnswersSafeOverATreeItNeverOpens = {
+  id: "01a061f5-908e-7232-bcdc-7031b1c5d633",
+  pageTypeSlug: "finding",
+  slug: "the-rename-check-answers-safe-over-a-tree-it-never-opens",
+  domainSlug: "domain/temper",
+  claim:
+    "`ops temper addon global-name-dependents` gathers its files from `<addon>/src` and `<addon>/metadata`, and no addon recreated in akasha holds either. Of 63 roster addons, the 34 under akasha hold 2132 TypeScript files and it opens 0 of them. Asked about `TemperCombatSettings`, which 12 lines across three akasha files read, it answers rename-safe with 0 dependents.",
+  evidence:
+    'Measured 2026-09-02 against the live command. `tools/commands/temper/addon/global-name-dependents.ts:131` gathers TypeScript from `join(addon.dir, "src")` and `:138` markup from `join(addon.dir, "metadata")`. An addon recreated in akasha holds neither: its code sits in per-module folders and its markup beside the page. `collectFiles:57-61` catches the `readdirSync` throw and answers with an empty list, so nothing is said about a folder it could not open.\n\nCounted over the roster `listAllAddons` returns: 63 addons, 34 under `akasha/temper` and 29 under `temper`. All 29 pre-migration addons hold `src/` or `metadata/`, and all 1517 of their TypeScript files are opened. All 34 akasha addons hold neither, and 0 of their 2132 files are opened.\n\nRun live: `ops temper addon global-name-dependents --global TemperCombatSettings` answers `rename-safe (no dependents) — 0 dependent(s)`. That name is read on 12 lines across three files under `akasha/temper/temper-combat-addon`. The control answers correctly for `TemperCombat`, and every dependent it names is under `temper/game-combat-addon/metadata/`, so what it answers from is the tree being ablated. `:172-173` prints `no colliding global with statically-visible dependents found` over the same set.\n\nThis is a recreation loss rather than a defect in the reader: the shape the reader was written to no longer holds. It becomes total once the pre-migration folders go, and it goes quiet rather than empty, because an empty answer here spells `rename-safe`.\n\nOne correction to my own working, since the number would otherwise be wrong: my first split keyed on the absolute path holding `/akasha/temper/`, which every path in this checkout holds. Keying on `repoRelDir` gives the 34 and 29 above.',
+} as const satisfies Finding
