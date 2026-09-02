@@ -128,6 +128,12 @@
         "playwright-core": "1.61.1",
       },
     },
+    "akasha/calendar-sync": {
+      "name": "@akasha/calendar-sync",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/checks": {
       "name": "@akasha/checks",
       "dependencies": {
@@ -535,11 +541,16 @@
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@akasha/web-build-version": "workspace:*",
+        "@types/mdast": "^4.0.4",
+        "mdast-util-to-hast": "^13.2.1",
         "sonner": "^2.0.7",
+        "unified": "^11.0.5",
         "zod": "^4.3.6",
       },
       "peerDependencies": {
+        "lucide-react": ">=0.400",
         "react": "^18 || ^19",
+        "react-router": ">=7",
       },
     },
     "akasha/pages-system/pages-ui-store": {
@@ -561,10 +572,12 @@
       "name": "@akasha/pages-ui-components",
       "dependencies": {
         "@akasha/day": "workspace:*",
+        "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-client": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
@@ -577,6 +590,7 @@
         "@dnd-kit/core": ">=6",
         "@dnd-kit/modifiers": ">=7",
         "@dnd-kit/sortable": ">=8",
+        "@dnd-kit/utilities": ">=3",
         "lucide-react": ">=0.400",
         "react": "^18 || ^19",
       },
@@ -721,6 +735,7 @@
     "akasha/temper/temper-addon-build": {
       "name": "@akasha/temper-addon-build",
       "dependencies": {
+        "@akasha/code-system": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/temper-saved-vars-migration": "workspace:*",
         "typescript": "5.9.3",
@@ -866,9 +881,38 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-character-build": {
+      "name": "@akasha/temper-character-build",
+      "dependencies": {
+        "@akasha/temper-alchemy": "workspace:*",
+        "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-skills": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-characters-equipment": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-races": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
+        "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-character-skills": {
+      "name": "@akasha/temper-character-skills",
+      "dependencies": {
+        "@akasha/temper-characters-equipment": "workspace:*",
+        "@akasha/temper-classes": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-races": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
+        "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
     "akasha/temper/temper-character-sources": {
       "name": "@akasha/temper-character-sources",
       "dependencies": {
+        "@akasha/temper-characters-equipment": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
@@ -884,6 +928,15 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-characters-equipment": {
+      "name": "@akasha/temper-characters-equipment",
+      "dependencies": {
+        "@akasha/temper-equipment": "workspace:*",
+        "@akasha/temper-equipment-kinds": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
     "akasha/temper/temper-characters-stats": {
       "name": "@akasha/temper-characters-stats",
       "dependencies": {
@@ -896,6 +949,16 @@
       "name": "@akasha/temper-classes",
       "dependencies": {
         "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-combat-addon": {
+      "name": "@akasha/temper-combat-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
@@ -1082,6 +1145,15 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-item-browser": {
+      "name": "@akasha/temper-item-browser",
+      "dependencies": {
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-narrow": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+      },
+    },
     "akasha/temper/temper-items-core": {
       "name": "@akasha/temper-items-core",
       "dependencies": {
@@ -1121,6 +1193,8 @@
       "name": "@akasha/temper-items-rules-core",
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
@@ -1139,6 +1213,15 @@
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-items-rules-eval": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-items-rules-routing": {
+      "name": "@akasha/temper-items-rules-routing",
+      "dependencies": {
+        "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-items-rules-core": "workspace:*",
+        "@akasha/temper-items-rules-routing-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
@@ -1171,8 +1254,19 @@
     "akasha/temper/temper-lib-debug-logger": {
       "name": "@akasha/temper-lib-debug-logger",
     },
+    "akasha/temper/temper-lib-extended-journal": {
+      "name": "@akasha/temper-lib-extended-journal",
+    },
     "akasha/temper/temper-lib-gps": {
       "name": "@akasha/temper-lib-gps",
+    },
+    "akasha/temper/temper-lib-histoire": {
+      "name": "@akasha/temper-lib-histoire",
+      "dependencies": {
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+      },
     },
     "akasha/temper/temper-lib-main-menu": {
       "name": "@akasha/temper-lib-main-menu",
@@ -1189,11 +1283,34 @@
     "akasha/temper/temper-lib-notification": {
       "name": "@akasha/temper-lib-notification",
     },
+    "akasha/temper/temper-lib-price": {
+      "name": "@akasha/temper-lib-price",
+    },
+    "akasha/temper/temper-lib-saved-vars": {
+      "name": "@akasha/temper-lib-saved-vars",
+    },
+    "akasha/temper/temper-lib-sets": {
+      "name": "@akasha/temper-lib-sets",
+      "dependencies": {
+        "@akasha/temper-eso-types": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-lib-shifter-box": {
+      "name": "@akasha/temper-lib-shifter-box",
+    },
     "akasha/temper/temper-lib-slash-commander": {
       "name": "@akasha/temper-lib-slash-commander",
     },
     "akasha/temper/temper-lib-table-functions": {
       "name": "@akasha/temper-lib-table-functions",
+    },
+    "akasha/temper/temper-lorebooks": {
+      "name": "@akasha/temper-lorebooks",
+      "dependencies": {
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+      },
     },
     "akasha/temper/temper-lost-treasure": {
       "name": "@akasha/temper-lost-treasure",
@@ -1282,6 +1399,21 @@
       "name": "@akasha/temper-skill-point-finder",
       "dependencies": {
         "@akasha/temper-settings-panel": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-trading-addon": {
+      "name": "@akasha/temper-trading-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-capture-perf": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-items-filters-addon": "workspace:*",
+        "@akasha/temper-items-filters-core": "workspace:*",
+        "@akasha/temper-items-rules-eval": "workspace:*",
+        "@akasha/temper-trading-listings": "workspace:*",
+        "@akasha/temper-trading-post": "workspace:*",
       },
     },
     "akasha/temper/temper-trading-listings": {
@@ -1463,19 +1595,6 @@
         "@types/react-dom": "^19",
         "typescript": "^5.8.3",
         "vite": "^8.0.3",
-      },
-    },
-    "alanwalton/calendar-sync": {
-      "name": "@alanwalton/calendar-sync",
-      "dependencies": {
-        "@akasha/code-system": "workspace:*",
-        "@infra/k8s-types": "workspace:*",
-        "@shared/pages-query": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
       },
     },
     "alanwalton/location-traces-access": {
@@ -2949,23 +3068,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-trading-addon": {
-      "name": "@temper/game-trading-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-capture-perf": "workspace:*",
-        "@akasha/temper-items-core": "workspace:*",
-        "@akasha/temper-items-filters-core": "workspace:*",
-        "@akasha/temper-items-rules-eval": "workspace:*",
-        "@akasha/temper-trading-listings": "workspace:*",
-        "@akasha/temper-trading-post": "workspace:*",
-        "@temper/game-items-filters-addon": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/player-completion": {
       "name": "@temper/player-completion",
       "version": "0.1.0",
@@ -3691,6 +3793,8 @@
 
     "@akasha/calendar-google": ["@akasha/calendar-google@workspace:akasha/google/calendar"],
 
+    "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:akasha/calendar-sync"],
+
     "@akasha/checkout-version": ["@akasha/checkout-version@workspace:akasha/version/checkout"],
 
     "@akasha/checks": ["@akasha/checks@workspace:akasha/checks"],
@@ -3873,13 +3977,21 @@
 
     "@akasha/temper-champion-points": ["@akasha/temper-champion-points@workspace:akasha/temper/temper-champion-points"],
 
+    "@akasha/temper-character-build": ["@akasha/temper-character-build@workspace:akasha/temper/temper-character-build"],
+
+    "@akasha/temper-character-skills": ["@akasha/temper-character-skills@workspace:akasha/temper/temper-character-skills"],
+
     "@akasha/temper-character-sources": ["@akasha/temper-character-sources@workspace:akasha/temper/temper-character-sources"],
 
     "@akasha/temper-characters-capture-addon": ["@akasha/temper-characters-capture-addon@workspace:akasha/temper/temper-characters-capture-addon"],
 
+    "@akasha/temper-characters-equipment": ["@akasha/temper-characters-equipment@workspace:akasha/temper/temper-characters-equipment"],
+
     "@akasha/temper-characters-stats": ["@akasha/temper-characters-stats@workspace:akasha/temper/temper-characters-stats"],
 
     "@akasha/temper-classes": ["@akasha/temper-classes@workspace:akasha/temper/temper-classes"],
+
+    "@akasha/temper-combat-addon": ["@akasha/temper-combat-addon@workspace:akasha/temper/temper-combat-addon"],
 
     "@akasha/temper-commands": ["@akasha/temper-commands@workspace:akasha/temper/temper-commands"],
 
@@ -3929,6 +4041,8 @@
 
     "@akasha/temper-inventory-automation": ["@akasha/temper-inventory-automation@workspace:akasha/temper/temper-inventory-automation"],
 
+    "@akasha/temper-item-browser": ["@akasha/temper-item-browser@workspace:akasha/temper/temper-item-browser"],
+
     "@akasha/temper-items-core": ["@akasha/temper-items-core@workspace:akasha/temper/temper-items-core"],
 
     "@akasha/temper-items-filters-addon": ["@akasha/temper-items-filters-addon@workspace:akasha/temper/temper-items-filters-addon"],
@@ -3940,6 +4054,8 @@
     "@akasha/temper-items-rules-eval": ["@akasha/temper-items-rules-eval@workspace:akasha/temper/temper-items-rules-eval"],
 
     "@akasha/temper-items-rules-matcher": ["@akasha/temper-items-rules-matcher@workspace:akasha/temper/temper-items-rules-matcher"],
+
+    "@akasha/temper-items-rules-routing": ["@akasha/temper-items-rules-routing@workspace:akasha/temper/temper-items-rules-routing"],
 
     "@akasha/temper-items-rules-routing-core": ["@akasha/temper-items-rules-routing-core@workspace:akasha/temper/temper-items-rules-routing-core"],
 
@@ -3957,7 +4073,11 @@
 
     "@akasha/temper-lib-debug-logger": ["@akasha/temper-lib-debug-logger@workspace:akasha/temper/temper-lib-debug-logger"],
 
+    "@akasha/temper-lib-extended-journal": ["@akasha/temper-lib-extended-journal@workspace:akasha/temper/temper-lib-extended-journal"],
+
     "@akasha/temper-lib-gps": ["@akasha/temper-lib-gps@workspace:akasha/temper/temper-lib-gps"],
+
+    "@akasha/temper-lib-histoire": ["@akasha/temper-lib-histoire@workspace:akasha/temper/temper-lib-histoire"],
 
     "@akasha/temper-lib-main-menu": ["@akasha/temper-lib-main-menu@workspace:akasha/temper/temper-lib-main-menu"],
 
@@ -3969,9 +4089,19 @@
 
     "@akasha/temper-lib-notification": ["@akasha/temper-lib-notification@workspace:akasha/temper/temper-lib-notification"],
 
+    "@akasha/temper-lib-price": ["@akasha/temper-lib-price@workspace:akasha/temper/temper-lib-price"],
+
+    "@akasha/temper-lib-saved-vars": ["@akasha/temper-lib-saved-vars@workspace:akasha/temper/temper-lib-saved-vars"],
+
+    "@akasha/temper-lib-sets": ["@akasha/temper-lib-sets@workspace:akasha/temper/temper-lib-sets"],
+
+    "@akasha/temper-lib-shifter-box": ["@akasha/temper-lib-shifter-box@workspace:akasha/temper/temper-lib-shifter-box"],
+
     "@akasha/temper-lib-slash-commander": ["@akasha/temper-lib-slash-commander@workspace:akasha/temper/temper-lib-slash-commander"],
 
     "@akasha/temper-lib-table-functions": ["@akasha/temper-lib-table-functions@workspace:akasha/temper/temper-lib-table-functions"],
+
+    "@akasha/temper-lorebooks": ["@akasha/temper-lorebooks@workspace:akasha/temper/temper-lorebooks"],
 
     "@akasha/temper-lost-treasure": ["@akasha/temper-lost-treasure@workspace:akasha/temper/temper-lost-treasure"],
 
@@ -3998,6 +4128,8 @@
     "@akasha/temper-skill-lines": ["@akasha/temper-skill-lines@workspace:akasha/temper/temper-skill-lines"],
 
     "@akasha/temper-skill-point-finder": ["@akasha/temper-skill-point-finder@workspace:akasha/temper/temper-skill-point-finder"],
+
+    "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:akasha/temper/temper-trading-addon"],
 
     "@akasha/temper-trading-listings": ["@akasha/temper-trading-listings@workspace:akasha/temper/temper-trading-listings"],
 
@@ -4046,8 +4178,6 @@
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:native-shell/atlas"],
 
     "@alanwalton/atlas-web": ["@alanwalton/atlas-web@workspace:alanwalton/atlas-web"],
-
-    "@alanwalton/calendar-sync": ["@alanwalton/calendar-sync@workspace:alanwalton/calendar-sync"],
 
     "@alanwalton/location-traces-access": ["@alanwalton/location-traces-access@workspace:alanwalton/location-traces-access"],
 
@@ -4750,8 +4880,6 @@
     "@temper/game-navigation-addon": ["@temper/game-navigation-addon@workspace:temper/game-navigation-addon"],
 
     "@temper/game-navigation-capture-addon": ["@temper/game-navigation-capture-addon@workspace:temper/game-navigation-capture-addon"],
-
-    "@temper/game-trading-addon": ["@temper/game-trading-addon@workspace:temper/game-trading-addon"],
 
     "@temper/player-completion": ["@temper/player-completion@workspace:temper/player-completion"],
 
