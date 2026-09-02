@@ -28,6 +28,9 @@ const TS = "ts"
 
 const FRAMES_AT_MOST = 3
 
+const TAKES_EVERY_CHECK =
+  "this change takes away every check that would judge it, so a clean answer would mean nothing"
+
 const loadFrom = createRequire(import.meta.url)
 
 export function checkSlugIn(root: string): string {
@@ -142,12 +145,25 @@ function takesFrom(one: Gathered, change: Change, shadow: Shadow): boolean {
   }
 }
 
+function takenAway(one: Gathered, change: Change): boolean {
+  const code = besideAt(one.page, CODE, TS)
+  for (const path of change.changed) {
+    if (path !== one.page && path !== code) continue
+    if (change.after(path) === null) return true
+  }
+  return false
+}
+
+export function checksLeftBy(every: readonly Gathered[], change: Change): readonly Gathered[] {
+  return every.filter((one) => !takenAway(one, change))
+}
+
 export function checksFor(
   every: readonly Gathered[],
   change: Change,
   shadow: Shadow
 ): readonly Gathered[] {
-  return every.filter((one) => takesFrom(one, change, shadow))
+  return checksLeftBy(every, change).filter((one) => takesFrom(one, change, shadow))
 }
 
 function fileIn(frame: string): string {
@@ -187,9 +203,14 @@ export function judgingBy(every: readonly Gathered[]): Judging {
     },
     over: (given) => {
       const change = insideOf(given)
+      const left = checksLeftBy(every, change)
+      const first = every[0]
+      if (left.length === 0 && first !== undefined) {
+        return [{ path: first.page, reason: TAKES_EVERY_CHECK }]
+      }
       const shadow = shadowAsked(change)
       const said: Judged[] = []
-      for (const one of checksFor(every, change, shadow)) {
+      for (const one of checksFor(left, change, shadow)) {
         try {
           said.push(...one.run(change, shadow))
         } catch (thrown) {

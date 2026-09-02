@@ -3,7 +3,9 @@ import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { idFiled, listedFiled, noneOfTypeFiled, pathFiled } from "@akasha/indexes/testing"
+import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { onDisk } from "../change-walking/change-walking.module.code.ts"
 
 export const CHECK = "code-check"
 
@@ -146,6 +148,33 @@ export const TWO_CHECKS = [
   { slug: "input-ts", runsOn: ["patch"], body: INPUT_TS },
   { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
 ]
+
+export const ADMITS = "admits-all"
+
+export const REFUSES = "refuses-all"
+
+export const BOTH_CHECKS = [
+  { slug: ADMITS, runsOn: ["patch"], body: ADMITS_ALL },
+  { slug: REFUSES, runsOn: ["patch"], body: REFUSES_ALL },
+]
+
+export function checkAt(slug: string): string {
+  return `akasha/checks-system/code-check/${slug}/${slug}.${CHECK}.ts`
+}
+
+export function checkCodeAt(slug: string): string {
+  return `${checkAt(slug).slice(0, -".ts".length)}.code.ts`
+}
+
+export function taking(root: string, gone: readonly string[]): Change {
+  const disk = onDisk(root)
+  return {
+    root,
+    changed: [...gone],
+    before: disk,
+    after: (path) => (gone.includes(path) ? null : disk(path)),
+  }
+}
 
 export const INPUT_THROWS_CHECKS = [
   { slug: "input-throws", runsOn: ["patch"], body: INPUT_THROWS },

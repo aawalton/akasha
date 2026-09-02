@@ -8,14 +8,19 @@ import { shadowAsked } from "@akasha/pages-system/shadow"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 import { checkPagesIn, checksAt, checksFor, checksIn, judgingBy } from "./checking.module.code.ts"
 import {
+  ADMITS,
   ADMITS_ALL,
+  BOTH_CHECKS,
   CHECK,
   CHECK_TYPE,
+  checkAt,
+  checkCodeAt,
   HELD_CODE_AT,
   HELD_PAGE_AT,
   INPUT_THROWS_CHECKS,
   NAMES_SHADOW,
   pagedRoot,
+  REFUSES,
   REFUSES_ALL,
   REFUSES_TAKING,
   ROOT,
@@ -25,6 +30,7 @@ import {
   THROWS,
   THROWS_UNDER,
   TWO_CHECKS,
+  taking,
 } from "./checking.module.test-fixtures.ts"
 
 const ONE_TS = "akasha/one.ts"
@@ -136,6 +142,43 @@ test("a phase takes only the checks that state it", () => {
   expect(checksAt(every, "patch").map((one) => one.slug)).toEqual(["admits-all"])
   expect(checksAt(every, "deploy").map((one) => one.slug)).toEqual(["refuses-all"])
   expect(checksAt(every, "worktree")).toEqual([])
+})
+
+test("the check a change takes away no longer refuses the change taking it", () => {
+  const root = rootWith(BOTH_CHECKS)
+  const gate = judgingBy(checksIn(root))
+  const change = taking(root, [checkAt(REFUSES), checkCodeAt(REFUSES)])
+  expect(gate.named).toEqual([ADMITS, REFUSES])
+  expect(gate.checksFor(change)).toEqual([ADMITS])
+  expect(gate.over(change)).toEqual([])
+})
+
+test("a check the change leaves still judges the change taking its neighbour away", () => {
+  const root = rootWith(BOTH_CHECKS)
+  const gone = [checkAt(ADMITS), checkCodeAt(ADMITS)]
+  const gate = judgingBy(checksIn(root))
+  expect(gate.checksFor(taking(root, gone))).toEqual([REFUSES])
+  expect(gate.over(taking(root, gone)).map((one) => one.path)).toEqual(gone)
+})
+
+test("a check whose code alone the change takes away does not run", () => {
+  const root = rootWith(BOTH_CHECKS)
+  expect(judgingBy(checksIn(root)).checksFor(taking(root, [checkCodeAt(REFUSES)]))).toEqual([
+    ADMITS,
+  ])
+})
+
+test("a check whose page alone the change takes away does not run", () => {
+  const root = rootWith(BOTH_CHECKS)
+  expect(judgingBy(checksIn(root)).checksFor(taking(root, [checkAt(REFUSES)]))).toEqual([ADMITS])
+})
+
+test("a change taking away every check is refused rather than judged clean", () => {
+  const root = rootWith([{ slug: ADMITS, runsOn: ["patch"], body: ADMITS_ALL }])
+  const gone = [checkAt(ADMITS), checkCodeAt(ADMITS)]
+  const said = judgingBy(checksIn(root)).over(taking(root, gone))
+  expect(said.map((one) => one.path)).toEqual([checkAt(ADMITS)])
+  expect(said[0]?.reason).toContain("takes away every check")
 })
 
 test("a check page whose code is not there stops the whole run", () => {

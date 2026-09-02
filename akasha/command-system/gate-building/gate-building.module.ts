@@ -94,5 +94,9 @@ export const gateBuilding = {
       invariantKind: "absence",
       statement: "This is never told whether it ran.",
     },
+    {
+      invariantKind: "gap",
+      statement: "The checks a change alters are loaded as that change leaves those checks.",
+    },
   ],
 } as const satisfies Module

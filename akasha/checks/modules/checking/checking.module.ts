@@ -56,6 +56,23 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A check the change takes away runs over no part of that change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A check is taken away where the change takes away the check's page or the code beside that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change taking away every check is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check's code is loaded from the tree rather than from the change.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check stating no input runs for every change.",
     },
     {
@@ -133,6 +150,14 @@ export const checking = {
       invariantKind: "departure",
       statement:
         "A check needing what the check was not handed reads the change's body rather than the disk's.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A check the change adds runs over that change.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A check whose code the change alters runs as the change leaves that code.",
     },
   ],
 } as const satisfies Module
