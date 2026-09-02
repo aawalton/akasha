@@ -4,7 +4,7 @@ page-type-slug: page-type
 title: "ESO daily tracking"
 extends-slug: page
 files:
-  - akasha:akasha/alan/eso-daily-tracking/**/*.eso-daily-tracking.ts
+  - akasha:akasha/alan/tracking/daily/eso-days/**/*.eso-day.ts
 body-shape-slug: empty
 slug: eso-daily-tracking
 domain-parent-slug: domain/alan-harness-tracking-store-page
