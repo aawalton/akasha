@@ -4,6 +4,7 @@ import { writing } from "@akasha/command-system/scratching/testing"
 import { idFiled, listedFiled, pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
+import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
 import { declaring } from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
@@ -237,12 +238,13 @@ function rooted(): string {
 }
 
 function arriving(root: string, bodies: Record<string, string>): Change {
+  const was = onDisk(root)
   return {
     root,
     changed: Object.keys(bodies),
     after: (path: string): Uint8Array | null => {
       const said = bodies[path]
-      return said === undefined ? null : encoder.encode(said)
+      return said === undefined ? was(path) : encoder.encode(said)
     },
     before: (): null => null,
   }
