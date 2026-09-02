@@ -1,0 +1,12 @@
+import type { TemperInventoryChunk } from "../temper-inventory-chunk.page-type.ts"
+
+export const at202608211850000 = {
+  id: "01a06004-3757-7559-8078-29a99fe87196",
+  pageTypeSlug: "temper-inventory-chunk",
+  slug: "at-2026-08-21-18-50-00-0",
+  title: "2026-08-21T18:50:00.000Z chunk 0",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  inventory: "at-2026-08-21-18-50-00",
+  chunkIndex: 0,
+  byteCount: 900000,
+} as const satisfies TemperInventoryChunk
