@@ -6,7 +6,7 @@ slug: inboxes-email
 domain-parent-slug: readout-group/inboxes
 required-reading-slugs:
   - page-type/readout
-label: email
+label: Email
 unit: messages
 place: 1
 scale-slug: lowest-inbox-count

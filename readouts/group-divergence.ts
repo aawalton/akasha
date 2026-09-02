@@ -17,9 +17,14 @@ import { type ReadoutCatalog, readoutCatalog } from "./readout-catalog.ts"
  * aimed at it stayed green because each one could see a single side. The instrument that was
  * missing is this one: resolve each group through both and refuse where the member sets differ.
  *
- * This compares what each side would DRAW. The markdown side holds `enabled: false` for a readout
- * Alan ruled must stay on the page while leaving the strip, so a stilled member is not a member
- * here. The akasha page type carries no such property, so everything it holds is drawn.
+ * This compares what each side would DRAW. Both sides hold `enabled: false` for a readout Alan
+ * ruled must stay on the page while leaving the strip, so a stilled member is not a member here.
+ *
+ * The akasha side did not always carry that property. While it did not, everything the index held
+ * was drawn, and reading it that way was right. `inboxes-texts` is the page that proved otherwise:
+ * the moment it landed with `enabled: false`, this reported it as a light reaching the wire that
+ * markdown does not know about — a divergence in the instrument rather than in the tree. A reader
+ * that ignores a property the pages have started to carry does not go quiet, it goes wrong.
  */
 
 const READOUT = "readout"
@@ -34,6 +39,8 @@ export interface AkashaReadout {
   readonly scaleSlug: string | null
   readonly wireKey: string | null
   readonly groupSlugs: readonly string[]
+  /** Whether anything draws it. A page stating nothing is drawn, as the page type's default says. */
+  readonly enabled: boolean
 }
 
 function textIn(held: unknown): string | null {
@@ -83,6 +90,7 @@ export function akashaReadouts(root: string = rootHolding()): ReadonlyMap<string
       scaleSlug: textIn(value.scaleSlug),
       wireKey: textIn(value.wireKey),
       groupSlugs: namesIn(value.groupSlugs),
+      enabled: value.enabled !== false,
     })
   }
   return held
@@ -124,7 +132,8 @@ function heldInAkasha(
 ): readonly string[] {
   const held: string[] = []
   for (const [slug, one] of akasha) {
-    if (one.groupSlugs.includes(groupSlug)) held.push(slug)
+    if (!one.enabled || !one.groupSlugs.includes(groupSlug)) continue
+    held.push(slug)
   }
   return held.sort()
 }

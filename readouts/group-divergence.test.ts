@@ -50,12 +50,20 @@ function catalogOf(rows: readonly ReadoutRow[]): ReadoutCatalog {
 }
 
 function akashaOf(
-  named: readonly (readonly [string, readonly string[], string | null])[]
+  named: readonly (readonly [string, readonly string[], string | null, boolean?])[]
 ): ReadonlyMap<string, AkashaReadout> {
   return new Map(
-    named.map(([slug, groupSlugs, wireKey]) => [
+    named.map(([slug, groupSlugs, wireKey, enabled = true]) => [
       slug,
-      { slug, label: slug, place: null, scaleSlug: "green-day-units", wireKey, groupSlugs },
+      {
+        slug,
+        label: slug,
+        place: null,
+        scaleSlug: "green-day-units",
+        wireKey,
+        groupSlugs,
+        enabled,
+      },
     ])
   )
 }
@@ -102,6 +110,31 @@ test("a markdown member marked `enabled: false` is no divergence", () => {
   expect(groupsDivergentIn([GROUP], catalog, akasha)).toEqual([])
 })
 
+// The akasha side carries `enabled` too, since `readout-enabled` was declared on the page type.
+// `inboxes-texts` landed stilled on both sides, and while this read only the markdown side's
+// property it called that page a light reaching the wire. A stilled member is no member either side.
+test("an akasha member marked `enabled: false` is no divergence", () => {
+  const catalog = catalogOf([rowOf("a", [GROUP]), rowOf("b", [GROUP], false)])
+  const akasha = akashaOf([
+    ["a", [GROUP], null],
+    ["b", [GROUP], null, false],
+  ])
+  expect(groupsDivergentIn([GROUP], catalog, akasha)).toEqual([])
+})
+
+// THE SEEDED FAULT FOR THE LINE ABOVE. Stilled on the akasha side alone is still a divergence,
+// so the check above passes because both sides agree rather than because nothing is compared.
+test("a member stilled on the akasha side alone is refused", () => {
+  const catalog = catalogOf([rowOf("a", [GROUP]), rowOf("b", [GROUP])])
+  const akasha = akashaOf([
+    ["a", [GROUP], null],
+    ["b", [GROUP], null, false],
+  ])
+  const why = groupsDivergentIn([GROUP], catalog, akasha)
+  expect(why.length).toBe(1)
+  expect(why[0]).toContain("`b`")
+})
+
 test("a group the akasha index knows nothing of is named as unmigrated rather than as drift", () => {
   const catalog = catalogOf([rowOf("a", [GROUP]), rowOf("b", [GROUP])])
   const why = groupsDivergentIn([GROUP], catalog, akashaOf([]))
@@ -133,13 +166,25 @@ test("two readings sharing no wire key are two members lost rather than a rename
 
 // THE INSTRUMENT PROVES ITSELF ON LIVE DATA BEFORE ANY CLEAN READING IS BELIEVED.
 //
-// `claude-usage` is drawn out of markdown by four readouts and the akasha index holds none of
-// them. If this went green the check could not see its subject, and every other live reading here
-// would be a false negative wearing the same string as a true one.
-test("the live check sees the divergence that is really standing in `claude-usage`", () => {
-  const why = groupsDivergentIn(["claude-usage"], readoutCatalog(), akashaReadouts())
+// This used to name `claude-usage`, which markdown drew and the akasha index did not hold at all.
+// That gap is closed, and closing it took the proof down with it: the test went red for the one
+// reason a test here must never go red — the tree got better. A self-proof resting on a real gap
+// expires the moment the gap does, and what it leaves behind is a live check nothing vouches for.
+//
+// So the fault is seeded into live data rather than borrowed from it. The catalog and the index
+// are the real ones; one member is taken off the akasha side before the comparison. A false
+// negative and a true negative are the same empty list, and this is what tells the two apart.
+test("the live check still sees a member taken off the akasha side", () => {
+  const catalog = readoutCatalog()
+  const maimed = new Map(akashaReadouts())
+  const [taken] = [...maimed.keys()].filter((slug) =>
+    maimed.get(slug)?.groupSlugs.includes("upkeep")
+  )
+  expect(taken).toBeDefined()
+  maimed.delete(taken as string)
+  const why = groupsDivergentIn(["upkeep"], catalog, maimed)
   expect(why.length).toBeGreaterThan(0)
-  expect(why[0]).toContain("has not been migrated")
+  expect(why[0]).toContain(`\`${taken}\``)
 })
 
 // THE LIVE CHECK. Read against the checkout and the index rather than a fixture, so an ablation

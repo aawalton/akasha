@@ -6,7 +6,7 @@ slug: inboxes-tasks
 domain-parent-slug: readout-group/inboxes
 required-reading-slugs:
   - page-type/readout
-label: tasks
+label: Tasks
 unit: tasks
 place: 2
 scale-slug: daily-inbox

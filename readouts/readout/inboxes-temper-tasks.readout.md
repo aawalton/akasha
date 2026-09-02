@@ -6,7 +6,7 @@ slug: inboxes-temper-tasks
 domain-parent-slug: readout-group/inboxes
 required-reading-slugs:
   - page-type/readout
-label: temper-tasks
+label: Temper tasks
 unit: tasks
 place: 3
 scale-slug: daily-inbox
