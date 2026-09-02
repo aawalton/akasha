@@ -18,9 +18,6 @@
   ],
   "references": [
     {
-      "path": "../shared-capture-host"
-    },
-    {
       "path": "../shared-formula-framework"
     }
   ]

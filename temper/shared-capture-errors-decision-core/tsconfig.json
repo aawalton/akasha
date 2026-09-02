@@ -21,13 +21,7 @@
       "path": "../shared-capture-errors-core"
     },
     {
-      "path": "../shared-capture-host"
-    },
-    {
       "path": "../shared-foundation-misc-eso-paths-resolve"
-    },
-    {
-      "path": "../shared-saved-variables"
     }
   ]
 }

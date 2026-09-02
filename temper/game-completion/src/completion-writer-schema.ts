@@ -1,4 +1,4 @@
-import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
+import { assertSchemaMatchesPayload } from "@akasha/temper-capture-host/assert-schema-matches-payload"
 import { z } from "zod"
 import type {
   AccountCompletion,

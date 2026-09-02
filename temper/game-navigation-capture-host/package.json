@@ -15,8 +15,8 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
+    "@akasha/temper-capture-host": "workspace:*",
     "@akasha/temper-capture-shapes": "workspace:*",
-    "@temper/shared-capture-host": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

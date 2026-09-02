@@ -20,10 +20,10 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
+    "@akasha/temper-capture-host": "workspace:*",
+    "@akasha/temper-saved-variables": "workspace:*",
     "@temper/shared-capture-errors-core": "workspace:*",
-    "@temper/shared-capture-host": "workspace:*",
     "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
-    "@temper/shared-saved-variables": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

@@ -1,7 +1,7 @@
 import type { DataMiningPayload } from "@temper/shared-capture-datamining-core/types"
-import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
-import { savedVariablesRootSchema as captureRootSchema } from "../../shared-saved-variables/src/saved-variables-account-wide"
-import { luaArrayOrEmpty } from "@temper/shared-saved-variables/lua-array"
+import { assertSchemaMatchesPayload } from "@akasha/temper-capture-host/assert-schema-matches-payload"
+import { savedVariablesRootSchema as captureRootSchema } from "@akasha/temper-saved-variables/account-wide"
+import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
 import { z } from "zod"
 
 export const setBonusSchema = z

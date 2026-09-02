@@ -55,9 +55,6 @@
       "path": "./temper/shared-engine"
     },
     {
-      "path": "./temper/shared-capture-host"
-    },
-    {
       "path": "./temper/shared-capture-datamining-reader"
     },
     {
@@ -182,24 +179,6 @@
     },
     {
       "path": "./temper/catalog-host"
-    },
-    {
-      "path": "./temper/game-collections-antiquities-capture-host"
-    },
-    {
-      "path": "./temper/game-collections-capture-host"
-    },
-    {
-      "path": "./temper/game-collections-lore-capture-host"
-    },
-    {
-      "path": "./temper/game-collections-tribute-capture-host"
-    },
-    {
-      "path": "./temper/game-completion-capture-host"
-    },
-    {
-      "path": "./temper/game-crafting-capture-host"
     },
     {
       "path": "./temper/game-navigation-capture-host"

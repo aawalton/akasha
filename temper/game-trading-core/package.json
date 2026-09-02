@@ -1,9 +1,9 @@
 {
   "name": "@temper/game-trading-core",
   "dependencies": {
+    "@akasha/temper-capture-host": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-items-core": "workspace:*",
-    "@temper/shared-capture-host": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

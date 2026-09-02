@@ -12,9 +12,6 @@
   "references": [
     {
       "path": "../game-items-core"
-    },
-    {
-      "path": "../shared-capture-host"
     }
   ],
   "include": [

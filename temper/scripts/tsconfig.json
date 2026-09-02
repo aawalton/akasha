@@ -59,9 +59,6 @@
       "path": "../shared-engine"
     },
     {
-      "path": "../shared-capture-host"
-    },
-    {
       "path": "../shared-capture-sales-core"
     },
     {

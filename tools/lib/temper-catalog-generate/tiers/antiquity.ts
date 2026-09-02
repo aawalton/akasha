@@ -1,5 +1,5 @@
 
-import { antiquityLoreCatalogSchema } from "@temper/game-collections-antiquities-capture-host/saved-variables-schema"
+import { antiquityLoreCatalogSchema } from "@akasha/temper-game-collections-antiquities-capture-host/antiquity-lore-catalog-schema"
 import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
 

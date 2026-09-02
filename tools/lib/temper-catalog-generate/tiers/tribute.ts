@@ -1,5 +1,5 @@
 
-import { tributeCatalogSchema } from "@temper/game-collections-tribute-capture-host/saved-variables-schema"
+import { tributeCatalogSchema } from "@akasha/temper-game-collections-tribute-capture-host/tribute-catalog-schema"
 import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
 

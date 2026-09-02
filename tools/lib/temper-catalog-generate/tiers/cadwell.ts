@@ -1,5 +1,5 @@
 
-import { cadwellCatalogSchema } from "@temper/game-completion-capture-host/cadwell-catalog-schema"
+import { cadwellCatalogSchema } from "@akasha/temper-game-completion-capture-host/cadwell-catalog-schema"
 import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
 

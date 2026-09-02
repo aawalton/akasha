@@ -1,5 +1,5 @@
 
-import { zoneCompletionCatalogSchema } from "@temper/game-completion-capture-host/zone-completion-catalog-schema"
+import { zoneCompletionCatalogSchema } from "@akasha/temper-game-completion-capture-host/zone-completion-catalog-schema"
 import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
 

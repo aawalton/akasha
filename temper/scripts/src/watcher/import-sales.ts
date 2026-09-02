@@ -1,10 +1,10 @@
 import { upsertPage } from "@akasha/pages-access/upsert"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { asRecord } from "@akasha/utils-narrow/as-record"
-import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
-import { readFirstAccountWide } from "../../../shared-saved-variables/src/saved-variables-account-wide"
+import { assertSchemaMatchesPayload } from "@akasha/temper-capture-host/assert-schema-matches-payload"
+import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
 import type { SalesPayload } from "@temper/shared-capture-sales-core/types"
-import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { z } from "zod"
 
 const saleEntrySchema = z

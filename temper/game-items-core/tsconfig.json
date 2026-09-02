@@ -23,13 +23,7 @@
       "path": "../game-characters-skills"
     },
     {
-      "path": "../shared-capture-host"
-    },
-    {
       "path": "../shared-engine"
-    },
-    {
-      "path": "../shared-saved-variables"
     }
   ],
   "include": [

@@ -1,5 +1,5 @@
 import type { PoiCatalogZone } from "@akasha/temper-capture-shapes/poi-catalog"
-import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
+import { assertSchemaMatchesPayload } from "@akasha/temper-capture-host/assert-schema-matches-payload"
 import { z } from "zod"
 
 const poiCatalogEntrySchema = z
