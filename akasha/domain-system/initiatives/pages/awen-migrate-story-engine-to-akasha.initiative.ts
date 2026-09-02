@@ -12,7 +12,7 @@ export const awenMigrateStoryEngineToAkasha = {
       statement:
         "The story engine's code is in akasha rather than in `alanwalton/web` and `tools`.",
       workingMemory:
-        "The reader is `@akasha/story-ui`, 30 modules at `akasha/story/ui`. The web app carries none of it: 29 files and four API routes went at `e284363224`. Four render components came across at `044d341f15`, taking a submit callback and a signed-out node as props. `stories/text` lives on for two files in `tools/`, which no akasha command may touch. Left: `ops tower` at 6 commands, and `tower`, `tower-core` and `tower-engine`, untested and beside `akasha/story` rather than under it.",
+        "The reader is `@akasha/story-ui`, 30 modules at `akasha/story/ui`, and the web app carries none of it. The three tower packages are `@akasha/story-tower`, `-core` and `-engine` under `akasha/story/tower` as of `763dd57f6a`, still holding 0 tests. Left: `ops tower` at 6 commands in `tools/commands/tower/`, `tools/lib/tower-game-access.ts`, and the two files reaching `@stories/text` — all under `tools/`, which no akasha command may touch.",
     },
     {
       statement: "Every world, story, chapter and turn the story engine keeps is a page in akasha.",

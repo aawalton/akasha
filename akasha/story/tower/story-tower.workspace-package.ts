@@ -26,7 +26,7 @@ export const storyTower = {
     },
     {
       invariantKind: "departure",
-      statement: "A saved game is read by the shapes tower-core states.",
+      statement: "A saved game is read by the shapes story-tower-core states.",
     },
   ],
 } as const satisfies WorkspacePackage
