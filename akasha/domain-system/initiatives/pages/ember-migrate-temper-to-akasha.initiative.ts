@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "Typecheck answers zero, from 567, but that is one check of forty: the full audit exits 2 on duplication, so `--check typecheck` is never the answer. An akasha eso-addon still makes no Lua, as `listWorkspaceDirs` throws on `akasha/**` and the resolver wants a literal `addon.json` the grammar bars, so no addon folder goes until that is mended. The shared declaration set answers 11 diagnostics `skipLibCheck` hides, and a check compiling it against itself is being written.",
+        "85 packages are in `akasha/temper`. What remains is mostly four addons: 4.3MB over 658 modules, 97.6% hand-written, so the generated-output ruling reaches 0.33% and there is no shortcut. Eight XML files are over the 15,000 ceiling, `TemperCombat.xml` at eleven times it. An akasha eso-addon still makes no Lua. Typecheck answers zero, from 567, but that is one check of forty and the full audit exits 2, so `--check typecheck` is never the answer.",
     },
   ],
   constraints: [
