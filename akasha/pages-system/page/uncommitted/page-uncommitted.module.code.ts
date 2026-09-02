@@ -1,4 +1,5 @@
 import {
+  chmodSync,
   existsSync,
   mkdirSync,
   readFileSync,
@@ -26,6 +27,8 @@ const WAITED = 5
 const WAITED_AT_MOST = 20000
 
 const HELD_AT_MOST = 10000
+
+const MODE_BITS = 0o7777
 
 function abandoned(lock: string, mark: string): boolean {
   const held = holderOf(markIn(mark))
@@ -140,7 +143,9 @@ function besideOr(page: string): string {
 
 function writtenAt(full: string, page: string, values: Value): undefined {
   const scratch = `${full}.${process.pid}.${PART}`
+  const found = statSync(full, { throwIfNoEntry: false })
   writeFileSync(scratch, bodyFor(page, values), "utf8")
+  if (found !== undefined) chmodSync(scratch, found.mode & MODE_BITS)
   renameSync(scratch, full)
 }
 
