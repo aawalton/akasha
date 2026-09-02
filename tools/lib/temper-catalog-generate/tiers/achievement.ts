@@ -1,5 +1,5 @@
 
-import type { AchievementCatalogEntry } from "@temper/game-completion-capture-core/achievement-catalog"
+import type { AchievementCatalogEntry } from "@akasha/temper-capture-shapes/achievement-catalog"
 import { achievementCatalogSchema } from "@temper/game-completion-capture-host/achievement-catalog-schema"
 import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"

@@ -4,7 +4,7 @@ import type {
   LoreLibraryCatalogBook,
   LoreLibraryCatalogCategory,
   LoreLibraryCatalogCollection,
-} from "@temper/game-collections-lore-capture-core/lore-library-catalog"
+} from "@akasha/temper-capture-shapes/lore-library-catalog"
 
 const COLLECTION_BOOK_PROBE_CEILING = 100
 

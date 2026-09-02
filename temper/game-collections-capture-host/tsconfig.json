@@ -5,9 +5,20 @@
     "noEmit": false,
     "emitDeclarationOnly": true,
     "declarationDir": "dist",
-    "types": ["@types/bun"]
+    "types": [
+      "@types/bun"
+    ]
   },
-  "include": ["src/**/*.ts"],
-  "exclude": ["node_modules", "dist"],
-  "references": [{ "path": "../game-collections-capture-core" }, { "path": "../shared-capture-host" }]
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+  "references": [
+    {
+      "path": "../shared-capture-host"
+    }
+  ]
 }

@@ -23,18 +23,7 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@temper/game-characters-capture-core": "workspace:*",
-    "@temper/game-collections-antiquities-capture-core": "workspace:*",
-    "@temper/game-collections-capture-core": "workspace:*",
-    "@temper/game-collections-lore-capture-core": "workspace:*",
-    "@temper/game-collections-tribute-capture-core": "workspace:*",
-    "@temper/game-companions-capture-core": "workspace:*",
-    "@temper/game-completion-capture-core": "workspace:*",
-    "@temper/game-crafting-capture-core": "workspace:*",
-    "@temper/game-housing-capture-core": "workspace:*",
-    "@temper/game-items-capture-core": "workspace:*",
-    "@temper/game-items-currency-capture-core": "workspace:*",
-    "@temper/game-navigation-capture-core": "workspace:*",
+    "@akasha/temper-capture-shapes": "workspace:*",
     "@temper/shared-capture-descriptor": "workspace:*"
   },
   "devDependencies": {

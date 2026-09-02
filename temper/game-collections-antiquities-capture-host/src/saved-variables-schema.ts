@@ -1,4 +1,4 @@
-import type { AntiquityLoreCatalogEntry } from "@temper/game-collections-antiquities-capture-core/antiquity-lore-catalog"
+import type { AntiquityLoreCatalogEntry } from "@akasha/temper-capture-shapes/antiquity-lore-catalog"
 import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
 import { z } from "zod"
 

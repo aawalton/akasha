@@ -4,7 +4,7 @@ import type {
   CadwellCatalogLevel,
   CadwellCatalogPOI,
   CadwellCatalogZone,
-} from "@temper/game-completion-capture-core/cadwell-catalog"
+} from "@akasha/temper-capture-shapes/cadwell-catalog"
 export const CADWELL_LEVELS = [
   CADWELL_PROGRESSION_LEVEL_BRONZE,
   CADWELL_PROGRESSION_LEVEL_SILVER,

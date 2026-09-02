@@ -4,7 +4,7 @@ import type {
   ZoneCompletionCatalogActivity,
   ZoneCompletionCatalogType,
   ZoneCompletionCatalogZone,
-} from "@temper/game-completion-capture-core/zone-completion-catalog"
+} from "@akasha/temper-capture-shapes/zone-completion-catalog"
 export const ZONE_COMPLETION_TYPES = [
   ZONE_COMPLETION_TYPE_DELVES,
   ZONE_COMPLETION_TYPE_FEATURED_ACHIEVEMENTS,

@@ -1,4 +1,4 @@
-import type { AchievementCatalogData } from "@temper/game-completion-capture-core/achievement-catalog"
+import type { AchievementCatalogData } from "@akasha/temper-capture-shapes/achievement-catalog"
 import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
 import { z } from "zod"
 

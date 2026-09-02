@@ -8,8 +8,8 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
+    "@akasha/temper-capture-shapes": "workspace:*",
     "@temper/catalog-core": "workspace:*",
-    "@temper/game-collections-capture-core": "workspace:*",
     "@temper/shared-capture-core": "workspace:*",
     "@temper/shared-narrow": "workspace:*"
   },

@@ -3,7 +3,7 @@ import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor
 import type {
   CompanionSkillCatalogAbility,
   CompanionSkillCatalogLine,
-} from "@temper/game-companions-capture-core/companion-skill-catalog"
+} from "@akasha/temper-capture-shapes/companion-skill-catalog"
 import { runBatched } from "@temper/shared-capture-core/run-batched"
 
 const BATCH_SIZE = 100

@@ -1,4 +1,4 @@
-import type { CadwellCatalogLevel } from "@temper/game-completion-capture-core/cadwell-catalog"
+import type { CadwellCatalogLevel } from "@akasha/temper-capture-shapes/cadwell-catalog"
 import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
 import { z } from "zod"
 

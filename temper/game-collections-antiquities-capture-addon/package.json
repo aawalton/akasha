@@ -8,8 +8,8 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
-    "@temper/catalog-core": "workspace:*",
-    "@temper/game-collections-antiquities-capture-core": "workspace:*"
+    "@akasha/temper-capture-shapes": "workspace:*",
+    "@temper/catalog-core": "workspace:*"
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"

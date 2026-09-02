@@ -1,6 +1,6 @@
 import { registerCatalogDomain } from "@temper/catalog-core/registry"
 import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor"
-import type { AntiquityLoreCatalogEntry } from "@temper/game-collections-antiquities-capture-core/antiquity-lore-catalog"
+import type { AntiquityLoreCatalogEntry } from "@akasha/temper-capture-shapes/antiquity-lore-catalog"
 export function collectAntiquityLoreCatalog(
   this: void,
   onComplete: (this: void) => void

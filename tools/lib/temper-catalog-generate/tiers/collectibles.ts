@@ -1,5 +1,5 @@
 
-import type { CollectiblesCatalogSubCategory } from "@temper/game-collections-capture-core/collectibles-catalog"
+import type { CollectiblesCatalogSubCategory } from "@akasha/temper-capture-shapes/collectibles-catalog"
 import { collectiblesCatalogSchema } from "@temper/game-collections-capture-host/saved-variables-schema"
 import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"

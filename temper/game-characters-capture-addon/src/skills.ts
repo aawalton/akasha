@@ -4,7 +4,7 @@ import type {
   SkillCatalogAbility,
   SkillCatalogLine,
   SkillCatalogMorph,
-} from "@temper/game-characters-capture-core/skill-catalog"
+} from "@akasha/temper-capture-shapes/skill-catalog"
 import { runBatched } from "@temper/shared-capture-core/run-batched"
 
 const BATCH_SIZE = 100

@@ -16,8 +16,8 @@
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
   },
   "dependencies": {
+    "@akasha/temper-capture-shapes": "workspace:*",
     "@temper/catalog-core": "workspace:*",
-    "@temper/game-characters-capture-core": "workspace:*",
     "@temper/shared-capture-core": "workspace:*",
     "@temper/shared-foundation-misc-codec": "workspace:*",
     "@temper/shared-narrow": "workspace:*"

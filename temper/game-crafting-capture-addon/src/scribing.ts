@@ -3,7 +3,7 @@ import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor
 import type {
   ScribingCatalogGrimoire,
   ScribingCatalogScript,
-} from "@temper/game-crafting-capture-core/scribing-catalog"
+} from "@akasha/temper-capture-shapes/scribing-catalog"
 export const SCRIBING_SLOTS = [
   SCRIBING_SLOT_PRIMARY,
   SCRIBING_SLOT_SECONDARY,

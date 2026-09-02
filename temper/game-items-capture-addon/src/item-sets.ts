@@ -4,7 +4,7 @@ import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor
 import type {
   ItemSetCatalogEntry,
   ItemSetCatalogPiece,
-} from "@temper/game-items-capture-core/item-set-catalog"
+} from "@akasha/temper-capture-shapes/item-set-catalog"
 import { runBatched } from "@temper/shared-capture-core/run-batched"
 export function resolveCategoryNames(itemSetId: number): {
   categoryName?: string

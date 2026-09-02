@@ -691,14 +691,27 @@
         "typescript": "5.9.3",
       },
     },
+    "akasha/temper/temper-capture-descriptor": {
+      "name": "@akasha/temper-capture-descriptor",
+    },
+    "akasha/temper/temper-capture-shapes": {
+      "name": "@akasha/temper-capture-shapes",
+    },
     "akasha/temper/temper-commands": {
       "name": "@akasha/temper-commands",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
+        "@akasha/temper-watcher": "workspace:*",
       },
     },
     "akasha/temper/temper-dungeons": {
       "name": "@akasha/temper-dungeons",
+    },
+    "akasha/temper/temper-eso-paths": {
+      "name": "@akasha/temper-eso-paths",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
     },
     "akasha/temper/temper-explain": {
       "name": "@akasha/temper-explain",
@@ -709,6 +722,22 @@
         "@akasha/errors-core": "workspace:*",
         "zod": "^4.3.6",
       },
+    },
+    "akasha/temper/temper-lib-alchemy-station": {
+      "name": "@akasha/temper-lib-alchemy-station",
+    },
+    "akasha/temper/temper-lib-table-functions": {
+      "name": "@akasha/temper-lib-table-functions",
+    },
+    "akasha/temper/temper-saved-variables": {
+      "name": "@akasha/temper-saved-variables",
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/temper/temper-settings-panel": {
+      "name": "@akasha/temper-settings-panel",
     },
     "akasha/temper/temper-upstream-data": {
       "name": "@akasha/temper-upstream-data",
@@ -1729,18 +1758,7 @@
       "name": "@temper/catalog-core",
       "version": "0.1.0",
       "dependencies": {
-        "@temper/game-characters-capture-core": "workspace:*",
-        "@temper/game-collections-antiquities-capture-core": "workspace:*",
-        "@temper/game-collections-capture-core": "workspace:*",
-        "@temper/game-collections-lore-capture-core": "workspace:*",
-        "@temper/game-collections-tribute-capture-core": "workspace:*",
-        "@temper/game-companions-capture-core": "workspace:*",
-        "@temper/game-completion-capture-core": "workspace:*",
-        "@temper/game-crafting-capture-core": "workspace:*",
-        "@temper/game-housing-capture-core": "workspace:*",
-        "@temper/game-items-capture-core": "workspace:*",
-        "@temper/game-items-currency-capture-core": "workspace:*",
-        "@temper/game-navigation-capture-core": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/shared-capture-descriptor": "workspace:*",
       },
       "devDependencies": {
@@ -1777,21 +1795,13 @@
       "name": "@temper/game-characters-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-characters-capture-core": "workspace:*",
         "@temper/shared-capture-core": "workspace:*",
         "@temper/shared-foundation-misc-codec": "workspace:*",
         "@temper/shared-narrow": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-characters-capture-core": {
-      "name": "@temper/game-characters-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2039,18 +2049,10 @@
       "name": "@temper/game-collections-antiquities-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-collections-antiquities-capture-core": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-collections-antiquities-capture-core": {
-      "name": "@temper/game-collections-antiquities-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2058,7 +2060,7 @@
       "name": "@temper/game-collections-antiquities-capture-host",
       "version": "0.1.0",
       "dependencies": {
-        "@temper/game-collections-antiquities-capture-core": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/shared-capture-host": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2071,8 +2073,8 @@
       "name": "@temper/game-collections-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-collections-capture-core": "workspace:*",
         "@temper/shared-capture-core": "workspace:*",
         "@temper/shared-narrow": "workspace:*",
       },
@@ -2080,19 +2082,11 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-collections-capture-core": {
-      "name": "@temper/game-collections-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-collections-capture-host": {
       "name": "@temper/game-collections-capture-host",
       "version": "0.1.0",
       "dependencies": {
-        "@temper/game-collections-capture-core": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/shared-capture-host": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2105,18 +2099,10 @@
       "name": "@temper/game-collections-lore-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-collections-lore-capture-core": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-collections-lore-capture-core": {
-      "name": "@temper/game-collections-lore-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2124,7 +2110,7 @@
       "name": "@temper/game-collections-lore-capture-host",
       "version": "0.1.0",
       "dependencies": {
-        "@temper/game-collections-lore-capture-core": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/shared-capture-host": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2137,18 +2123,10 @@
       "name": "@temper/game-collections-tribute-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-collections-tribute-capture-core": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-collections-tribute-capture-core": {
-      "name": "@temper/game-collections-tribute-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2156,7 +2134,7 @@
       "name": "@temper/game-collections-tribute-capture-host",
       "version": "0.1.0",
       "dependencies": {
-        "@temper/game-collections-tribute-capture-core": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/shared-capture-host": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2199,19 +2177,11 @@
       "name": "@temper/game-companions-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-companions-capture-core": "workspace:*",
         "@temper/shared-capture-core": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-companions-capture-core": {
-      "name": "@temper/game-companions-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2269,8 +2239,8 @@
       "name": "@temper/game-completion-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-completion-capture-core": "workspace:*",
         "@temper/shared-capture-core": "workspace:*",
         "@temper/shared-narrow": "workspace:*",
       },
@@ -2278,19 +2248,11 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-completion-capture-core": {
-      "name": "@temper/game-completion-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-completion-capture-host": {
       "name": "@temper/game-completion-capture-host",
       "version": "0.1.0",
       "dependencies": {
-        "@temper/game-completion-capture-core": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/shared-capture-host": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2314,18 +2276,10 @@
       "name": "@temper/game-crafting-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-crafting-capture-core": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-crafting-capture-core": {
-      "name": "@temper/game-crafting-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2333,7 +2287,7 @@
       "name": "@temper/game-crafting-capture-host",
       "version": "0.1.0",
       "dependencies": {
-        "@temper/game-crafting-capture-core": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/shared-capture-host": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2370,18 +2324,10 @@
       "name": "@temper/game-housing-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-housing-capture-core": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-housing-capture-core": {
-      "name": "@temper/game-housing-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2425,19 +2371,11 @@
       "name": "@temper/game-items-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-items-capture-core": "workspace:*",
         "@temper/shared-capture-core": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-items-capture-core": {
-      "name": "@temper/game-items-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2464,18 +2402,10 @@
       "name": "@temper/game-items-currency-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-items-currency-capture-core": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-items-currency-capture-core": {
-      "name": "@temper/game-items-currency-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2606,18 +2536,10 @@
       "name": "@temper/game-navigation-capture-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/catalog-core": "workspace:*",
-        "@temper/game-navigation-capture-core": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-navigation-capture-core": {
-      "name": "@temper/game-navigation-capture-core",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2625,7 +2547,7 @@
       "name": "@temper/game-navigation-capture-host",
       "version": "0.1.0",
       "dependencies": {
-        "@temper/game-navigation-capture-core": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@temper/shared-capture-host": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2964,6 +2886,7 @@
         "@akasha/recurrence": "workspace:*",
         "@akasha/supabase-client": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/catalog-core": "workspace:*",
@@ -2978,13 +2901,11 @@
         "@temper/game-characters-stats": "workspace:*",
         "@temper/game-codec": "workspace:*",
         "@temper/game-collections-antiquities-capture-host": "workspace:*",
-        "@temper/game-collections-capture-core": "workspace:*",
         "@temper/game-collections-capture-host": "workspace:*",
         "@temper/game-collections-lore-capture-host": "workspace:*",
         "@temper/game-collections-tribute-capture-host": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
         "@temper/game-completion": "workspace:*",
-        "@temper/game-completion-capture-core": "workspace:*",
         "@temper/game-completion-capture-host": "workspace:*",
         "@temper/game-crafting-capture-host": "workspace:*",
         "@temper/game-items-alchemy": "workspace:*",
@@ -3859,13 +3780,27 @@
 
     "@akasha/temper-addon-build": ["@akasha/temper-addon-build@workspace:akasha/temper/temper-addon-build"],
 
+    "@akasha/temper-capture-descriptor": ["@akasha/temper-capture-descriptor@workspace:akasha/temper/temper-capture-descriptor"],
+
+    "@akasha/temper-capture-shapes": ["@akasha/temper-capture-shapes@workspace:akasha/temper/temper-capture-shapes"],
+
     "@akasha/temper-commands": ["@akasha/temper-commands@workspace:akasha/temper/temper-commands"],
 
     "@akasha/temper-dungeons": ["@akasha/temper-dungeons@workspace:akasha/temper/temper-dungeons"],
 
+    "@akasha/temper-eso-paths": ["@akasha/temper-eso-paths@workspace:akasha/temper/temper-eso-paths"],
+
     "@akasha/temper-explain": ["@akasha/temper-explain@workspace:akasha/temper/temper-explain"],
 
     "@akasha/temper-inventory-automation": ["@akasha/temper-inventory-automation@workspace:akasha/temper/temper-inventory-automation"],
+
+    "@akasha/temper-lib-alchemy-station": ["@akasha/temper-lib-alchemy-station@workspace:akasha/temper/temper-lib-alchemy-station"],
+
+    "@akasha/temper-lib-table-functions": ["@akasha/temper-lib-table-functions@workspace:akasha/temper/temper-lib-table-functions"],
+
+    "@akasha/temper-saved-variables": ["@akasha/temper-saved-variables@workspace:akasha/temper/temper-saved-variables"],
+
+    "@akasha/temper-settings-panel": ["@akasha/temper-settings-panel@workspace:akasha/temper/temper-settings-panel"],
 
     "@akasha/temper-upstream-data": ["@akasha/temper-upstream-data@workspace:akasha/temper/temper-upstream-data"],
 
@@ -4537,8 +4472,6 @@
 
     "@temper/game-characters-capture-addon": ["@temper/game-characters-capture-addon@workspace:temper/game-characters-capture-addon"],
 
-    "@temper/game-characters-capture-core": ["@temper/game-characters-capture-core@workspace:temper/game-characters-capture-core"],
-
     "@temper/game-characters-champion-points": ["@temper/game-characters-champion-points@workspace:temper/game-characters-champion-points"],
 
     "@temper/game-characters-character": ["@temper/game-characters-character@workspace:temper/game-characters-character"],
@@ -4573,25 +4506,17 @@
 
     "@temper/game-collections-antiquities-capture-addon": ["@temper/game-collections-antiquities-capture-addon@workspace:temper/game-collections-antiquities-capture-addon"],
 
-    "@temper/game-collections-antiquities-capture-core": ["@temper/game-collections-antiquities-capture-core@workspace:temper/game-collections-antiquities-capture-core"],
-
     "@temper/game-collections-antiquities-capture-host": ["@temper/game-collections-antiquities-capture-host@workspace:temper/game-collections-antiquities-capture-host"],
 
     "@temper/game-collections-capture-addon": ["@temper/game-collections-capture-addon@workspace:temper/game-collections-capture-addon"],
-
-    "@temper/game-collections-capture-core": ["@temper/game-collections-capture-core@workspace:temper/game-collections-capture-core"],
 
     "@temper/game-collections-capture-host": ["@temper/game-collections-capture-host@workspace:temper/game-collections-capture-host"],
 
     "@temper/game-collections-lore-capture-addon": ["@temper/game-collections-lore-capture-addon@workspace:temper/game-collections-lore-capture-addon"],
 
-    "@temper/game-collections-lore-capture-core": ["@temper/game-collections-lore-capture-core@workspace:temper/game-collections-lore-capture-core"],
-
     "@temper/game-collections-lore-capture-host": ["@temper/game-collections-lore-capture-host@workspace:temper/game-collections-lore-capture-host"],
 
     "@temper/game-collections-tribute-capture-addon": ["@temper/game-collections-tribute-capture-addon@workspace:temper/game-collections-tribute-capture-addon"],
-
-    "@temper/game-collections-tribute-capture-core": ["@temper/game-collections-tribute-capture-core@workspace:temper/game-collections-tribute-capture-core"],
 
     "@temper/game-collections-tribute-capture-host": ["@temper/game-collections-tribute-capture-host@workspace:temper/game-collections-tribute-capture-host"],
 
@@ -4601,8 +4526,6 @@
 
     "@temper/game-companions-capture-addon": ["@temper/game-companions-capture-addon@workspace:temper/game-companions-capture-addon"],
 
-    "@temper/game-companions-capture-core": ["@temper/game-companions-capture-core@workspace:temper/game-companions-capture-core"],
-
     "@temper/game-companions-core": ["@temper/game-companions-core@workspace:temper/game-companions-core"],
 
     "@temper/game-companions-ui": ["@temper/game-companions-ui@workspace:temper/game-companions-ui"],
@@ -4611,15 +4534,11 @@
 
     "@temper/game-completion-capture-addon": ["@temper/game-completion-capture-addon@workspace:temper/game-completion-capture-addon"],
 
-    "@temper/game-completion-capture-core": ["@temper/game-completion-capture-core@workspace:temper/game-completion-capture-core"],
-
     "@temper/game-completion-capture-host": ["@temper/game-completion-capture-host@workspace:temper/game-completion-capture-host"],
 
     "@temper/game-crafting-addon": ["@temper/game-crafting-addon@workspace:temper/game-crafting-addon"],
 
     "@temper/game-crafting-capture-addon": ["@temper/game-crafting-capture-addon@workspace:temper/game-crafting-capture-addon"],
-
-    "@temper/game-crafting-capture-core": ["@temper/game-crafting-capture-core@workspace:temper/game-crafting-capture-core"],
 
     "@temper/game-crafting-capture-host": ["@temper/game-crafting-capture-host@workspace:temper/game-crafting-capture-host"],
 
@@ -4629,21 +4548,15 @@
 
     "@temper/game-housing-capture-addon": ["@temper/game-housing-capture-addon@workspace:temper/game-housing-capture-addon"],
 
-    "@temper/game-housing-capture-core": ["@temper/game-housing-capture-core@workspace:temper/game-housing-capture-core"],
-
     "@temper/game-items-addon": ["@temper/game-items-addon@workspace:temper/game-items-addon"],
 
     "@temper/game-items-alchemy": ["@temper/game-items-alchemy@workspace:temper/game-items-alchemy"],
 
     "@temper/game-items-capture-addon": ["@temper/game-items-capture-addon@workspace:temper/game-items-capture-addon"],
 
-    "@temper/game-items-capture-core": ["@temper/game-items-capture-core@workspace:temper/game-items-capture-core"],
-
     "@temper/game-items-core": ["@temper/game-items-core@workspace:temper/game-items-core"],
 
     "@temper/game-items-currency-capture-addon": ["@temper/game-items-currency-capture-addon@workspace:temper/game-items-currency-capture-addon"],
-
-    "@temper/game-items-currency-capture-core": ["@temper/game-items-currency-capture-core@workspace:temper/game-items-currency-capture-core"],
 
     "@temper/game-items-filters-addon": ["@temper/game-items-filters-addon@workspace:temper/game-items-filters-addon"],
 
@@ -4662,8 +4575,6 @@
     "@temper/game-navigation-addon": ["@temper/game-navigation-addon@workspace:temper/game-navigation-addon"],
 
     "@temper/game-navigation-capture-addon": ["@temper/game-navigation-capture-addon@workspace:temper/game-navigation-capture-addon"],
-
-    "@temper/game-navigation-capture-core": ["@temper/game-navigation-capture-core@workspace:temper/game-navigation-capture-core"],
 
     "@temper/game-navigation-capture-host": ["@temper/game-navigation-capture-host@workspace:temper/game-navigation-capture-host"],
 

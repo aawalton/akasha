@@ -1,4 +1,4 @@
-import type { PoiCatalogZone } from "@temper/game-navigation-capture-core/poi-catalog"
+import type { PoiCatalogZone } from "@akasha/temper-capture-shapes/poi-catalog"
 import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
 import { z } from "zod"
 

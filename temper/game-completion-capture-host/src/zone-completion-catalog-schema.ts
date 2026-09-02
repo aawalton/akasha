@@ -1,4 +1,4 @@
-import type { ZoneCompletionCatalogZone } from "@temper/game-completion-capture-core/zone-completion-catalog"
+import type { ZoneCompletionCatalogZone } from "@akasha/temper-capture-shapes/zone-completion-catalog"
 import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
 import { z } from "zod"
 

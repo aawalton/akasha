@@ -1,7 +1,7 @@
 import { BATCH_DELAY, BATCH_SIZE } from "@temper/catalog-core/batch-config"
 import { registerCatalogDomain } from "@temper/catalog-core/registry"
 import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor"
-import type { AchievementCatalogData } from "@temper/game-completion-capture-core/achievement-catalog"
+import type { AchievementCatalogData } from "@akasha/temper-capture-shapes/achievement-catalog"
 import { runBatched } from "@temper/shared-capture-core/run-batched"
 import { requireDefined, requireNumericKey } from "@temper/shared-narrow"
 export interface AchievementWorkItem {

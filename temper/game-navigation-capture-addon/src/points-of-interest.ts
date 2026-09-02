@@ -3,7 +3,7 @@ import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor
 import type {
   PoiCatalogEntry,
   PoiCatalogZone,
-} from "@temper/game-navigation-capture-core/poi-catalog"
+} from "@akasha/temper-capture-shapes/poi-catalog"
 export function collectPoiCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: Record<number, PoiCatalogZone> = {}

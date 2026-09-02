@@ -3,7 +3,7 @@ import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor
 import type {
   RecipeCatalogList,
   RecipeCatalogRecipe,
-} from "@temper/game-crafting-capture-core/recipe-catalog"
+} from "@akasha/temper-capture-shapes/recipe-catalog"
 export function collectRecipeCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: Record<number, RecipeCatalogList> = {}

@@ -1,4 +1,4 @@
-import type { CollectiblesCatalogData } from "@temper/game-collections-capture-core/collectibles-catalog"
+import type { CollectiblesCatalogData } from "@akasha/temper-capture-shapes/collectibles-catalog"
 import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
 import { z } from "zod"
 

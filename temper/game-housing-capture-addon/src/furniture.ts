@@ -3,7 +3,7 @@ import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor
 import type {
   FurnitureCatalogData,
   FurnitureCatalogSubCategory,
-} from "@temper/game-housing-capture-core/furniture-catalog"
+} from "@akasha/temper-capture-shapes/furniture-catalog"
 export function collectFurnitureCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: FurnitureCatalogData = { categories: {} }

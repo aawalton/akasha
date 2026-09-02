@@ -1,6 +1,6 @@
 import { registerCatalogDomain } from "@temper/catalog-core/registry"
 import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor"
-import type { CompanionEquipmentCatalogData } from "@temper/game-companions-capture-core/companion-equipment-catalog"
+import type { CompanionEquipmentCatalogData } from "@akasha/temper-capture-shapes/companion-equipment-catalog"
 export function collectCompanionEquipmentCatalog(
   this: void,
   onComplete: (this: void) => void

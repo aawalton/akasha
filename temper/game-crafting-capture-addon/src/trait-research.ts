@@ -4,7 +4,7 @@ import type {
   TraitResearchCatalogCraftType,
   TraitResearchCatalogLine,
   TraitResearchCatalogTrait,
-} from "@temper/game-crafting-capture-core/trait-research-catalog"
+} from "@akasha/temper-capture-shapes/trait-research-catalog"
 export const CRAFTING_TYPES = [
   CRAFTING_TYPE_BLACKSMITHING,
   CRAFTING_TYPE_CLOTHIER,

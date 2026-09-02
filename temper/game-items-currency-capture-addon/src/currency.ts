@@ -1,6 +1,6 @@
 import { registerCatalogDomain } from "@temper/catalog-core/registry"
 import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor"
-import type { CurrencyCatalogEntry } from "@temper/game-items-currency-capture-core/currency-catalog"
+import type { CurrencyCatalogEntry } from "@akasha/temper-capture-shapes/currency-catalog"
 export const CURRENCY_TYPES = [
   CURT_MONEY,
   CURT_ALLIANCE_POINTS,

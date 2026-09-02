@@ -3,7 +3,7 @@ import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor
 import type {
   TributePatronCatalogCard,
   TributePatronCatalogEntry,
-} from "@temper/game-collections-tribute-capture-core/tribute-catalog"
+} from "@akasha/temper-capture-shapes/tribute-catalog"
 export function collectTributeCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
   const catalog: Record<number, TributePatronCatalogEntry> = {}

@@ -1,5 +1,5 @@
-import type { RecipeCatalogList } from "@temper/game-crafting-capture-core/recipe-catalog"
-import type { TraitResearchCatalogCraftType } from "@temper/game-crafting-capture-core/trait-research-catalog"
+import type { RecipeCatalogList } from "@akasha/temper-capture-shapes/recipe-catalog"
+import type { TraitResearchCatalogCraftType } from "@akasha/temper-capture-shapes/trait-research-catalog"
 import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
 import { z } from "zod"
 

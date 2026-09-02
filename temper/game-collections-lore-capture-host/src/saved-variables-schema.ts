@@ -2,7 +2,7 @@ import type {
   LoreLibraryCatalogBook,
   LoreLibraryCatalogCategory,
   LoreLibraryCatalogCollection,
-} from "@temper/game-collections-lore-capture-core/lore-library-catalog"
+} from "@akasha/temper-capture-shapes/lore-library-catalog"
 import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
 import { z } from "zod"
 
