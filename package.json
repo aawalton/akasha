@@ -64,7 +64,6 @@
     "temper/player-quests-addon",
     "temper/scripts",
     "temper/shared-build-deploy-checks",
-    "temper/shared-capture-datamining-addon",
     "temper/shared-interface-keybinder-addon",
     "temper/web",
     "tools/lib"
