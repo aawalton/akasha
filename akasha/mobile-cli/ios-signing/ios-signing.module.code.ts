@@ -17,7 +17,7 @@ const ASC_PERMISSION_REMEDIATION =
   "Integrations, then re-run."
 
 const CONCURRENT_BUILD_MUTATION_REMEDIATION =
-  "two deploy-testflight builds raced on the shared mac checkout (Package.swift regenerated " +
+  "two `akasha deploy` builds raced on the shared mac checkout (Package.swift regenerated " +
   "mid-archive, or a shared DerivedData build.db hit a concurrent-access I/O error) — the " +
   "mac build mutex now serializes builds, so simply re-run: the retry runs alone under the " +
   "lock. If it recurs, a prior build likely left a stale lock — check " +

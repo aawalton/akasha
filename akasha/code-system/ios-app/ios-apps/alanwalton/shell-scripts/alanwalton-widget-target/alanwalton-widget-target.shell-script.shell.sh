@@ -86,7 +86,7 @@ widget.build_configurations.each do |config|
   bs["GENERATE_INFOPLIST_FILE"] = "NO"
   bs["DEVELOPMENT_TEAM"] = team
   # MANUAL signing pinned to the ensured App Store distribution profile (by name).
-  # The archive drops the project-wide CODE_SIGN_STYLE=Automatic (deploy-testflight.ts),
+  # The archive drops the project-wide CODE_SIGN_STYLE=Automatic (testflight-deploy-script.module.code.ts),
   # so this per-target Manual is honored; the App target is pinned to matching manual
   # distribution signing above (both must use the same cert). Automatic here would demand
   # a nonexistent iOS App Development profile for the widget bundle id and time out trying
