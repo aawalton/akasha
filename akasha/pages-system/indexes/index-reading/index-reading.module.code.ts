@@ -171,9 +171,13 @@ export function importersIn(given: string | Reading, path: string): readonly str
   return pathsIn(readingOf(given), join(IMPORT, AT_PATH, `${path}${ENDING}`))
 }
 
-export function importersOf(root: string, path: string, reading: Reading): readonly string[] {
+export function importersOf(
+  root: string | null,
+  path: string,
+  reading: Reading
+): readonly string[] {
   const asked = `which files import \`${path}\``
-  const why = staleFor(root, indexIn(root))
+  const why = root === null ? null : staleFor(root, indexIn(root))
   if (why !== null) throw new Error(`${asked} could not be answered — ${why}`)
   const under = join(IMPORT, AT_PATH)
   return answered(reading, under, asked, (held) => importersIn(held, path))

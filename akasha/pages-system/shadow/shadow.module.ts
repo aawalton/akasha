@@ -41,6 +41,14 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A shadow over a change that moves something holds the index to no commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shadow over a change that moves nothing holds the index to the commit at HEAD.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A shadow answers the index's questions through a face of its own.",
     },
     {

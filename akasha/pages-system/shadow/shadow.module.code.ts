@@ -61,6 +61,10 @@ function nothingMoved(change: Change): boolean {
   return change.after === change.before
 }
 
+function heldToHead(change: Change): string | null {
+  return nothingMoved(change) ? change.root : null
+}
+
 function keyOf(bytes: Uint8Array): string {
   return createHash("sha256").update(bytes).digest("hex")
 }
@@ -121,7 +125,7 @@ function castOver(change: Change): Cast {
     }))
     const settled = settlingOver(readingIn(change.root), change.root, moving, pageOf)
     const reading = settled.reading
-    const index = answeringOver(reading, change.root, pageOf)
+    const index = answeringOver(reading, heldToHead(change), pageOf)
     const filed = (): readonly Filing[] => settled.filings
     return { shadow: { index, filed, pageOf, codeAt: codeOver(change) }, reading }
   } catch (thrown) {
@@ -146,7 +150,7 @@ export function shadowAsked(change: Change): Shadow {
   }
   const pageOf = (path: string): Value | null => worked().shadow.pageOf(path)
   return {
-    index: answeringOver(reading, change.root, pageOf),
+    index: answeringOver(reading, heldToHead(change), pageOf),
     filed: () => worked().shadow.filed(),
     pageOf,
     codeAt: (path) => worked().shadow.codeAt(path),

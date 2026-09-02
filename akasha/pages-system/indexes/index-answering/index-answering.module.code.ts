@@ -69,7 +69,7 @@ export type Answering = {
   readonly typeSlugOf: (id: string) => string
 }
 
-export function answeringOver(reading: Reading, root: string, pageOf: PageOf): Answering {
+export function answeringOver(reading: Reading, root: string | null, pageOf: PageOf): Answering {
   return {
     carriedIn: (value, declaredBy) => carriedIn(value, reading, declaredBy),
     declarationsOf: (pageTypeSlug) => declarationsOf(pageTypeSlug, reading, pageOf),

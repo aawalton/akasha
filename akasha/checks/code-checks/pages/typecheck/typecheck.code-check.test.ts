@@ -3,7 +3,7 @@ import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { stampTakenFrom } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
-import { shadowFor } from "@akasha/pages-system/shadow"
+import { shadowAsked, shadowFor } from "@akasha/pages-system/shadow"
 import ts from "typescript"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { foundOf, omittingIn, reachedBy, rootsOf, typecheck } from "./typecheck.code-check.code.ts"
@@ -280,7 +280,7 @@ test("a file outside the akasha folder never becomes a root, however the index n
   ])
 })
 
-test("an index naming no commit is refused, because an index that cannot answer names no importer", () => {
+test("an index naming no commit still answers a change, its importers being the ones it leaves", () => {
   const root = staged({
     "akasha/one.ts": "export const one = 1\n",
     "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
@@ -288,7 +288,12 @@ test("an index naming no commit is refused, because an index that cannot answer 
   const changed = { "akasha/one.ts": "export const one = 2\n" }
   expect(reached(change(root, changed))).toEqual(["akasha/one.ts", "akasha/two.ts"])
   stampTakenFrom(root)
-  expect(() => judged(change(root, changed))).toThrow(NAMING_NO_COMMIT)
+  const held = change(root, changed)
+  const audit: Change = { ...held, before: held.before, after: held.before }
+  expect(() => reached(audit)).toThrow(NAMING_NO_COMMIT)
+  expect(reached(held)).toEqual(["akasha/one.ts", "akasha/two.ts"])
+  expect(reachedBy(held, shadowAsked(held).index)).toEqual(["akasha/one.ts", "akasha/two.ts"])
+  expect(judged(held).map((one) => one.path)).toEqual(["akasha/two.ts"])
 })
 
 test("an index standing and naming no importer is an answer, so the change alone is compiled", () => {

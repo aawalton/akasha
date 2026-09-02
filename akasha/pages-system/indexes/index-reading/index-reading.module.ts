@@ -83,6 +83,10 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A caller filing a change names no root.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An index's path under the root is said here alone.",
     },
     {

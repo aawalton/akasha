@@ -315,6 +315,30 @@ test("what imports a file is refused when a commit the index never saw stands", 
   )
 })
 
+test("a caller filing a change reads those importers though the index never saw HEAD", () => {
+  const root = stampedAt()
+  importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
+  mkdirSync(join(root, "akasha"), { recursive: true })
+  writeFileSync(join(root, "akasha", "late.ts"), "export const late = 1\n")
+  gitIn(root, ["add", "--", "akasha/late.ts"])
+  gitIn(root, ["commit", "--quiet", "-m", "late", "--", "akasha/late.ts"])
+
+  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
+    /akasha\/late\.ts/
+  )
+  expect(importersOf(null, "akasha/a.module.code.ts", readingIn(root))).toEqual([
+    "akasha/one.module.code.ts",
+  ])
+})
+
+test("a caller filing a change is refused all the same where the import index is not there", () => {
+  const root = stampedAt()
+
+  expect(() => importersOf(null, "akasha/a.module.code.ts", readingIn(root))).toThrow(
+    /import\/path/
+  )
+})
+
 test("an index's own place is answered under the index root", () => {
   expect(indexAt("held").startsWith(indexIn(""))).toBe(true)
   expect(indexAt("held", "page", "id")).toBe(`${indexAt("held")}/page/id`)

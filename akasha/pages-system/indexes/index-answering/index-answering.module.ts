@@ -39,6 +39,10 @@ export const indexAnswering = {
     },
     {
       invariantKind: "departure",
+      statement: "A caller filing a change binds no root.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Nothing more is bound here.",
     },
     {

@@ -31,6 +31,7 @@ import {
 } from "../index-reading/index-reading.module.code.ts"
 import {
   idFiled,
+  importFiled,
   listedFiled,
   pathFiled,
   readingLaidOver,
@@ -153,6 +154,17 @@ test("what the reader beneath refuses is refused here in the same words", () => 
   const said = "the index names no commit it was built from"
   expect(() => answeringOver(reading, root, pageOf).importersOf(HELD_AT)).toThrow(said)
   expect(() => importersOf(root, HELD_AT, reading)).toThrow(said)
+})
+
+test("a caller filing a change binds no root, so what imports a file is not refused", () => {
+  const root = seeded()
+  importFiled(root, HELD_AT, [{ path: TYPE_AT }])
+  const reading = readingIn(root)
+
+  expect(() => answeringOver(reading, root, pageOf).importersOf(HELD_AT)).toThrow(
+    "the index names no commit it was built from"
+  )
+  expect(answeringOver(reading, null, pageOf).importersOf(HELD_AT)).toEqual([TYPE_AT])
 })
 
 test("a question is answered from the reading bound rather than from the index at a root", () => {
