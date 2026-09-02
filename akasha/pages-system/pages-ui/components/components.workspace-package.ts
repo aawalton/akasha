@@ -139,6 +139,7 @@ export const components = {
     "module/use-effective-listing",
     "module/use-gallery-view-props",
     "module/use-inline-completion",
+    "module/use-nav-command-bindings",
     "module/use-notes-view-props",
     "module/use-overflow-fade",
     "module/use-page-calendar-state",

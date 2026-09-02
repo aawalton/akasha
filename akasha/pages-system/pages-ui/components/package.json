@@ -100,6 +100,7 @@
     "./use-chrome-toggle": "./use-chrome-toggle/use-chrome-toggle.module.code.ts",
     "./use-descendant-pages": "./use-descendant-pages/use-descendant-pages.module.code.ts",
     "./use-effective-listing": "./use-effective-listing/use-effective-listing.module.code.ts",
+    "./use-nav-command-bindings": "./use-nav-command-bindings/use-nav-command-bindings.module.code.ts",
     "./use-page-calendar-state": "./use-page-calendar-state/use-page-calendar-state.module.code.ts",
     "./use-read-end-observer": "./use-read-end-observer/use-read-end-observer.module.code.ts",
     "./use-read-end-on-scroll": "./use-read-end-on-scroll/use-read-end-on-scroll.module.code.ts",
