@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { mergedOnto } from "./body-merging.module.code.ts"
+import { CLASH_MARK, clashing, type Merged, mergedOnto } from "./body-merging.module.code.ts"
 
 const held = new TextEncoder()
 
@@ -11,6 +11,18 @@ function textOf(merged: { readonly body: Uint8Array | null } | { readonly why: s
   if ("why" in merged) throw new Error(`merged answered a refusal — ${merged.why}`)
   if (merged.body === null) throw new Error("merged answered nothing where a body was wanted")
   return new TextDecoder().decode(merged.body)
+}
+
+function whyIn(merged: Merged): string {
+  if (!("why" in merged)) throw new Error("merged answered a body where a refusal was wanted")
+  return merged.why
+}
+
+function markedIn(merged: Merged): string {
+  if (!("why" in merged) || merged.marked === undefined) {
+    throw new Error("merged answered no marked body")
+  }
+  return new TextDecoder().decode(merged.marked)
 }
 
 const WORKSPACES = ["alpha", "game-characters-stats", "game-crafting", "game-items-addon", "zulu"]
@@ -53,9 +65,9 @@ test("two changes touching one line are refused, and the refusal counts them", (
   const mine = bodyOf("one\nMINE\nthree\n")
   const theirs = bodyOf("one\nTHEIRS\nthree\n")
   const said = mergedOnto(base, mine, theirs)
-  expect(said).toEqual({
-    why: "it moved under this change in 1 place this change also moved, so the two cannot be merged",
-  })
+  expect(whyIn(said)).toBe(
+    "it moved under this change in 1 place this change also moved, so the two cannot be merged"
+  )
 })
 
 test("a merge that conflicts twice says two places", () => {
@@ -63,9 +75,9 @@ test("a merge that conflicts twice says two places", () => {
   const mine = bodyOf("A\nb\nc\nd\ne\nf\ng\nh\ni\nj\nK\n")
   const theirs = bodyOf("z\nb\nc\nd\ne\nf\ng\nh\ni\nj\nz\n")
   const said = mergedOnto(base, mine, theirs)
-  expect(said).toEqual({
-    why: "it moved under this change in 2 places this change also moved, so the two cannot be merged",
-  })
+  expect(whyIn(said)).toBe(
+    "it moved under this change in 2 places this change also moved, so the two cannot be merged"
+  )
 })
 
 test("a path taken away under a change that writes it refuses that change", () => {
@@ -120,7 +132,26 @@ test("a body with no closing newline merges where the changes are apart", () => 
 
 test("a last line with no closing newline that both changes moved is refused", () => {
   const said = mergedOnto(bodyOf("one\ntwo"), bodyOf("ONE\ntwo"), bodyOf("one\nTWO"))
-  expect(said).toEqual({
-    why: "it moved under this change in 1 place this change also moved, so the two cannot be merged",
-  })
+  expect(whyIn(said)).toBe(
+    "it moved under this change in 1 place this change also moved, so the two cannot be merged"
+  )
+})
+
+test("a line conflict answers with the body git marked as well as with why", () => {
+  const base = bodyOf("one\ntwo\nthree\n")
+  const said = mergedOnto(base, bodyOf("one\nMINE\nthree\n"), bodyOf("one\nTHEIRS\nthree\n"))
+  const marked = markedIn(said)
+  expect(marked).toContain("MINE")
+  expect(marked).toContain("THEIRS")
+  expect(marked).toContain(CLASH_MARK)
+  expect(clashing(marked)).toBe(true)
+})
+
+test("a conflict that is no line conflict answers with why alone", () => {
+  expect("marked" in mergedOnto(null, bodyOf("mine\n"), bodyOf("theirs\n"))).toBe(false)
+})
+
+test("a body carrying no mark is carrying no conflict", () => {
+  expect(clashing("one\ntwo\n")).toBe(false)
+  expect(clashing(null)).toBe(false)
 })

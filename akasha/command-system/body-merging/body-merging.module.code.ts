@@ -15,11 +15,25 @@ const NOT_TEXT = 0
 
 const CONFLICTED_AT_MOST = 127
 
-export type Merged = { readonly body: Uint8Array | null } | { readonly why: string }
+const MINE_SAID = "what this change would leave"
+
+const BASE_SAID = "what this change was built from"
+
+const THEIRS_SAID = "what HEAD holds"
+
+export const CLASH_MARK = `<<<<<<< ${MINE_SAID}`
+
+export type Merged =
+  | { readonly body: Uint8Array | null }
+  | { readonly why: string; readonly marked?: Uint8Array }
 
 export function sameBody(one: Uint8Array | null, two: Uint8Array | null): boolean {
   if (one === null || two === null) return one === two
   return Buffer.from(one).equals(Buffer.from(two))
+}
+
+export function clashing(body: string | null): boolean {
+  return body?.split("\n").includes(CLASH_MARK) === true
 }
 
 function isText(body: Uint8Array): boolean {
@@ -37,11 +51,11 @@ function mergedByGit(base: Uint8Array, mine: Uint8Array, theirs: Uint8Array): Me
       "merge-file",
       "-p",
       "-L",
-      "what this change would leave",
+      MINE_SAID,
       "-L",
-      "what this change was built from",
+      BASE_SAID,
       "-L",
-      "what HEAD holds",
+      THEIRS_SAID,
       join(dir, MINE),
       join(dir, BASE),
       join(dir, THEIRS),
@@ -51,6 +65,7 @@ function mergedByGit(base: Uint8Array, mine: Uint8Array, theirs: Uint8Array): Me
       const many = said.code === 1 ? "1 place" : `${String(said.code)} places`
       return {
         why: `it moved under this change in ${many} this change also moved, so the two cannot be merged`,
+        marked: said.out,
       }
     }
     return { why: `\`git merge-file\` would not run — ${said.err.trim()}` }
