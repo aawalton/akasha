@@ -38,8 +38,17 @@ export const filePageTypeConfig = {
       statement: "A key a page type declares no property for is refused by the pages.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A tree where no page type states a media config is refused rather than read as empty.",
+    },
+    {
       invariantKind: "gap",
-      statement: "The `page-type` page type declares neither `sequence` nor `mediaConfig`.",
+      statement: "The `page-type` page type declares no `sequence`.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "No page type states a media config.",
     },
     {
       invariantKind: "absence",

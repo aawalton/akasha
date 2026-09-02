@@ -140,5 +140,10 @@ export async function fileMediaPageTypeSlugs(
     if (!inheritsFrom(slug, declares, extendsOf)) continue
     kin.add(slug)
   }
+  if (kin.size === 0) {
+    throw new Error(
+      `fileMediaPageTypeSlugs: the pages answered over ${extendsOf.size} page types and not one states \`${MEDIA_CONFIG_KEY}\`, so nothing here is rendered as audio or as an image and no media route can serve anything; an empty set would read as this page id being no media page rather than as a tree holding no media page type at all`
+    )
+  }
   return kin
 }
