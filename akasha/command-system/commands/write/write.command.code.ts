@@ -73,7 +73,10 @@ export function pathInside(root: string, said: string): string | null {
 }
 
 export function outside(said: string): string {
-  return `${said} is not under \`${AKASHA}/\`, and this writes nothing the checks do not address`
+  return (
+    `${said} is not under \`${AKASHA}/\` — a removal here carries the files beside a page, ` +
+    "so say `akasha remove` for a path outside it"
+  )
 }
 
 export function offRepo(said: string): string {
@@ -376,9 +379,14 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
   const changes: FileEdit[] = []
   const seen = new Set<string>()
   for (const one of read.pairs) {
-    const path = pathInside(given.root, one.path)
+    const path = pathAt(given.root, one.path)
     if (path === null) {
-      mistaken.push(outside(one.path))
+      mistaken.push(offRepo(one.path))
+      continue
+    }
+    const barred = barredIn(given.root, path)
+    if (barred !== null) {
+      mistaken.push(barred)
       continue
     }
     if (seen.has(path)) {
@@ -419,6 +427,7 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
 
   const dryRun = argv.includes(DRY_RUN)
   const draft = argv.includes(DRAFT)
+  const unjudged = outsideOf(changes)
   const answer = landingAsked(given, {
     changes,
     message:
@@ -430,7 +439,7 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
     dryRun,
     glass: glass.glass,
     unmoved: [],
-    saying: wroteAndTook,
+    saying: (landed) => [...wroteAndTook(landed), ...judgedByNothing(unjudged, false)],
     draft,
   })
   if (answer.code === 0 && !dryRun && !draft) {
@@ -439,7 +448,8 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
       changes.filter((one) => one.body === null).map((one) => one.path)
     )
   }
-  return answer
+  if (answer.code !== 0 || (!dryRun && !draft)) return answer
+  return { ...answer, report: [...judgedByNothing(unjudged, true), ...answer.report] }
 }
 
 export function write(argv: readonly string[], given: Given): Answer {

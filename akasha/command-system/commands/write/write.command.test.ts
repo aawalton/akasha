@@ -10,7 +10,7 @@ import { bodyIn, checking, givenIn } from "../../asking/asking.module.test-fixtu
 import { baseOf as headOf } from "../../landing/landing.module.code.ts"
 import { blobIdOf, readingIn, recordRead } from "../../reading/reading.module.code.ts"
 import { write, writing } from "./write.command.code.ts"
-import { AGENT, repoWith, scratch } from "./write.command.test-fixtures.ts"
+import { AGENT, repoWith, scratch, wroteAt } from "./write.command.test-fixtures.ts"
 import { write as writeCommand } from "./write.command.ts"
 
 afterAll(scratch.sweep)
@@ -19,10 +19,7 @@ test("a write over a body the record does not show read is refused", () => {
   const root = repoWith()
   put(root, "akasha/loose.ts", "loose\n")
   const was = headOf(root)
-  const said = write(
-    ["--file-path", "akasha/loose.ts", "--content-file", bodyIn(root)],
-    givenIn(root)
-  )
+  const said = wroteAt(root, "akasha/loose.ts")
   expect(said.code).toBe(2)
   expect(said.refusals[0]).toContain("the record does not show you read this")
   expect(said.refusals[0]).toContain("akasha read --file-path akasha/loose.ts")
@@ -51,30 +48,21 @@ test("a write over a body that changed since it was read is refused", () => {
     seenAt: 1,
     mechanicalOid: null,
   })
-  const said = write(
-    ["--file-path", "akasha/one.ts", "--content-file", bodyIn(root)],
-    givenIn(root)
-  )
+  const said = wroteAt(root, "akasha/one.ts")
   expect(said.code).toBe(2)
   expect(said.refusals[0]).toContain("it has changed since")
 })
 
 test("a body the record shows read is written over", () => {
   const root = repoWith()
-  const said = write(
-    ["--file-path", "akasha/one.ts", "--content-file", bodyIn(root)],
-    givenIn(root)
-  )
+  const said = wroteAt(root, "akasha/one.ts")
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
 })
 
 test("a path standing at no body is written without a reading", () => {
   const root = repoWith()
-  const said = write(
-    ["--file-path", "akasha/new.ts", "--content-file", bodyIn(root)],
-    givenIn(root)
-  )
+  const said = wroteAt(root, "akasha/new.ts")
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
 })
@@ -82,10 +70,7 @@ test("a path standing at no body is written without a reading", () => {
 test("the glass broken writes over a body the record does not show read", () => {
   const root = repoWith()
   put(root, "akasha/loose.ts", "loose\n")
-  const said = write(
-    ["--file-path", "akasha/loose.ts", "--content-file", bodyIn(root), "--break-the-glass", "held"],
-    givenIn(root)
-  )
+  const said = wroteAt(root, "akasha/loose.ts", ["--break-the-glass", "held"])
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("proposed\n")
@@ -128,11 +113,7 @@ test("a write whose kind runs no warrant lands charged to no agent", () => {
 
 test("a change that passes is written and committed", () => {
   const root = repoWith()
-  const from = bodyIn(root)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
-    givenIn(root)
-  )
+  const said = wroteAt(root, "akasha/two.ts", ["--message", "held"])
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
@@ -144,8 +125,7 @@ test("a refused change writes nothing and moves no head", () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
   const was = headOf(root)
-  const from = bodyIn(root)
-  const said = write(["--file-path", "akasha/two.ts", "--content-file", from], givenIn(root))
+  const said = wroteAt(root, "akasha/two.ts")
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("refused for the test")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
@@ -220,10 +200,7 @@ test("a path taken away is forgotten by the record, so it can be written again",
   expect(gone.refusals).toEqual([])
   expect(readingIn(root, AGENT, "akasha/two.ts")).toBeNull()
   expect(readingIn(root, AGENT, "akasha/one.ts")).not.toBeNull()
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root)],
-    givenIn(root)
-  )
+  const said = wroteAt(root, "akasha/two.ts")
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
@@ -240,23 +217,30 @@ test("a removal of what is not there is refused as data that is wrong", () => {
 
 test("breaking the glass with no reason is refused", () => {
   const root = repoWith()
-  const from = bodyIn(root)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--break-the-glass", "   "],
-    givenIn(root)
-  )
+  const said = wroteAt(root, "akasha/two.ts", ["--break-the-glass", "   "])
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is empty")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
 })
 
-test("a path outside the akasha folder is refused", () => {
+test("a path outside the akasha folder is written, and what no check judged is said", () => {
   const root = repoWith()
-  const from = bodyIn(root)
-  const said = write(["--file-path", "elsewhere/two.ts", "--content-file", from], givenIn(root))
-  expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("is not under `akasha/`")
-  expect(existsSync(join(root, "elsewhere/two.ts"))).toBe(false)
+  const said = wroteAt(root, "elsewhere/two.ts")
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "elsewhere/two.ts"), "utf8")).toBe("proposed\n")
+  expect(said.report.join("\n")).toContain("outside `akasha/`, so what these carry went unjudged")
+})
+
+test("a path inside .git and a folder at the top of the repository are both refused", () => {
+  const root = repoWith()
+  expect(wroteAt(root, ".git/config").refusals[0]).toContain("holds the repository itself")
+  expect(wroteAt(root, "akasha").refusals[0]).toContain("folder at the top of the repository")
+})
+
+test("a path outside the akasha folder is refused at --remove", () => {
+  const root = repoWith()
+  const said = write(["--remove", "elsewhere/two.ts"], givenIn(root))
+  expect(said.refusals[0]).toContain("say `akasha remove` for a path outside it")
 })
 
 test("a path climbing out of the root is refused", () => {
@@ -264,7 +248,7 @@ test("a path climbing out of the root is refused", () => {
   const from = bodyIn(root)
   const said = write(["--file-path", "../akasha/two.ts", "--content-file", from], givenIn(root))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("is not under `akasha/`")
+  expect(said.refusals[0]).toContain("is no path inside the repository")
 })
 
 test("a file path naming no content file with nothing piped in is refused", () => {
