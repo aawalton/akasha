@@ -6,6 +6,7 @@ export const completionSummaryCompanion = {
   slug: "completion-summary-companion",
   definition: "one line per companion card, counting what an account has of what there is",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
