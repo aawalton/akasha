@@ -41,15 +41,6 @@ const RAW_SLOTS: readonly SlotDef[] = [
 		priority: 0,
 		section: 'inbox',
 	},
-
-	{ kind: 'separator', id: 'opsStatusBar.sep.inboxValues', priority: 0 },
-
-	{
-		kind: 'stoplights',
-		id: 'opsStatusBar.stoplights',
-		priority: 0,
-		section: 'daily',
-	},
 ];
 
 export const SLOTS: readonly SlotDef[] = RAW_SLOTS.map((slot, i) => ({

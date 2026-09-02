@@ -9,7 +9,6 @@ export type StoplightLegends = Readonly<Record<StoplightsSection, string | undef
 export const NO_LEGENDS: StoplightLegends = {
 	inbox: undefined,
 	upkeep: undefined,
-	daily: undefined,
 };
 
 export type LegendRead = (section: StoplightsSection) => Promise<string>;

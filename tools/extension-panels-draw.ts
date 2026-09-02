@@ -87,7 +87,6 @@ const RUN_TIMEOUT_MS = 180_000
 const PINNED_GROUPS: readonly { readonly id: string; readonly said: string; readonly count: number }[] = [
   { id: "opsStatusBar.upkeepStoplights", said: "upkeep", count: 6 },
   { id: "opsStatusBar.inboxStoplights", said: "inboxes", count: 3 },
-  { id: "opsStatusBar.stoplights", said: "values", count: 6 },
 ]
 
 const USAGE_SLOTS: readonly { readonly id: string; readonly said: string }[] = [
@@ -318,7 +317,7 @@ export function judgeStatusBar(drawn: Drawn): Verdict {
   return {
     surface: "statusBar",
     green: true,
-    said: `the status bar drew ${String(items.length)} slots, both usage numbers and 6/3/6 stoplights`,
+    said: `the status bar drew ${String(items.length)} slots, both usage numbers and 6/3 stoplights`,
     notes,
   }
 }

@@ -1,9 +1,6 @@
 import * as os from 'node:os';
 import * as path from 'node:path';
-import { getEsoDayStr } from '@akasha/day/eso-day';
 import { duringOneCall } from '@akasha/command-system/during-call';
-import { askHere } from '../../../../readouts/ask-here.ts';
-import { getDailyValues, getValuesLegend } from '../../../../readouts/daily-stoplights.ts';
 import * as vscode from 'vscode';
 import { recordObservation } from '../../seat/observation-store.ts';
 import { glyphsOf, legendOf, nameTheStore, readGroup } from './group-stoplights.ts';
@@ -27,10 +24,7 @@ const LEGEND_READS: Readonly<
 > = {
 	upkeep: async () => legendOf(await readGroup(UPKEEP_GROUP)),
 	inbox: async () => legendOf(await readGroup(INBOX_GROUP)),
-	daily: getValuesLegend,
 };
-
-const ask = askHere();
 
 let output: vscode.OutputChannel;
 
@@ -64,7 +58,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	});
 
 	let freshAts: FreshAts = {
-		daily: undefined,
 		inbox: undefined,
 		upkeep: undefined,
 		usage: undefined,
@@ -82,17 +75,14 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
 	const refresh = async (trigger: string): Promise<undefined> => {
 		legendStore.pump();
-		const day = getEsoDayStr(new Date());
-		const [daily, inbox, upkeep, usage] = await duringOneCall(async () =>
+		const [inbox, upkeep, usage] = await duringOneCall(async () =>
 			Promise.allSettled([
-				getDailyValues({ day, ask }),
 				readGroup(INBOX_GROUP).then(glyphsOf),
 				readGroup(UPKEEP_GROUP).then(glyphsOf),
 				readUsage(),
 			])
 		);
 		const outcomes: ReadOutcomes = {
-			daily,
 			inbox,
 			upkeep,
 			usage,
@@ -100,7 +90,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 		const reads = settleReads(outcomes, freshAts, Date.now());
 		applyToItems(items, reads, legendStore.read());
 		freshAts = {
-			daily: reads.daily.lastFreshAt,
 			inbox: reads.inbox.lastFreshAt,
 			upkeep: reads.upkeep.lastFreshAt,
 			usage: reads.usage.lastFreshAt,
@@ -123,7 +112,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
 function logRefresh(trigger: string, outcomes: ReadOutcomes): undefined {
 	const failures: string[] = [];
-	if (outcomes.daily.status === 'rejected') { failures.push(`values: ${String(outcomes.daily.reason)}`); }
 	if (outcomes.inbox.status === 'rejected') { failures.push(`inbox: ${String(outcomes.inbox.reason)}`); }
 	if (outcomes.upkeep.status === 'rejected') {
 		failures.push(`upkeep: ${String(outcomes.upkeep.reason)}`);

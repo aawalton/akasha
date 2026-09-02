@@ -1,4 +1,3 @@
-import type { DailyValues, ValueFace } from '../../../../readouts/daily-stoplights.ts';
 import type * as vscode from 'vscode';
 import type { StoplightLegends } from './legends.ts';
 import { SLOTS } from './slots.ts';
@@ -11,21 +10,18 @@ export type SectionResult<T> = {
 };
 
 export type SettledReads = {
-	readonly daily: SectionResult<DailyValues>;
 	readonly inbox: SectionResult<string>;
 	readonly upkeep: SectionResult<string>;
 	readonly usage: SectionResult<UsageReading>;
 };
 
 export type ReadOutcomes = {
-	readonly daily: PromiseSettledResult<DailyValues>;
 	readonly inbox: PromiseSettledResult<string>;
 	readonly upkeep: PromiseSettledResult<string>;
 	readonly usage: PromiseSettledResult<UsageReading>;
 };
 
 export type FreshAts = {
-	readonly daily: number | undefined;
 	readonly inbox: number | undefined;
 	readonly upkeep: number | undefined;
 	readonly usage: number | undefined;
@@ -49,7 +45,6 @@ function settleSection<T>(
 
 export function settleReads(outcomes: ReadOutcomes, prev: FreshAts, now: number): SettledReads {
 	return {
-		daily: settleSection(outcomes.daily, prev.daily, now),
 		inbox: settleSection(outcomes.inbox, prev.inbox, now),
 		upkeep: settleSection(outcomes.upkeep, prev.upkeep, now),
 		usage: settleSection(outcomes.usage, prev.usage, now),
@@ -63,10 +58,6 @@ function formatStaleSuffix(stale: boolean, lastFreshAt: number | undefined): str
 		return ` (stale since ${t})`;
 	}
 	return ' (stale — no successful poll yet)';
-}
-
-function faceTooltip(faces: readonly ValueFace[]): string {
-	return faces.map((f) => f.face ?? '—').join(' · ');
 }
 
 function legendTooltip(legend: string | undefined, suffix: string): string | undefined {
@@ -94,15 +85,10 @@ export function applyToItems(
 			const suffix = formatStaleSuffix(section.stale, section.lastFreshAt);
 			const value = section.value;
 			const legend = legends[slot.section];
-			if (value === undefined) {
-				item.tooltip = legendTooltip(legend, suffix);
-			} else if (typeof value === 'string') {
+			if (value !== undefined) {
 				item.text = value;
-				item.tooltip = legendTooltip(legend, suffix);
-			} else {
-				item.text = value.glyphs;
-				item.tooltip = `${faceTooltip(value.faces)}${suffix}`;
 			}
+			item.tooltip = legendTooltip(legend, suffix);
 		}
 	}
 	return undefined;
