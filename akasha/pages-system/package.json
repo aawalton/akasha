@@ -48,6 +48,7 @@
     "./page/slug": "./page/properties/slug.text-property.ts",
     "./phone-number-property": "./phone-number-property/phone-number-property.page-type.ts",
     "./process-property": "./process-property/process-property.page-type.ts",
+    "./page-property-entry": "./page-property-entries/page-property-entry.page-type.ts",
     "./record-property": "./record-property/record-property.page-type.ts",
     "./relation-property": "./relation-property/relation-property.page-type.ts",
     "./repo-path": "./repo-path/repo-path.module.code.ts",

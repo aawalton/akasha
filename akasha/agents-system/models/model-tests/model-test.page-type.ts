@@ -1,6 +1,6 @@
 import type { Module } from "@akasha/code-system/module"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Cases } from "./properties/cases.file-property.ts"
+import type { Cases } from "./properties/cases.page-property-entry.ts"
 import type { ModelFamilySlug } from "./properties/model-family-slug.relation-property.ts"
 import type { Prompt } from "./properties/prompt.text-property.ts"
 
@@ -17,16 +17,19 @@ export const modelTest = {
   definition: "a prompt and the labelled cases that say whether it works",
   pluralSlug: "model-tests",
   partSlugs: [
-    "file-property/cases",
     "model-test/restatement",
+    "page-property-entry/cases",
+    "relation-property/case-page",
     "relation-property/model-family-slug",
+    "text-property/case-answer",
+    "text-property/case-statement",
     "text-property/prompt",
   ],
   extendsSlug: "page-type/module",
   properties: [
     { pagePropertySlug: "model-family-slug", required: true, many: false },
     { pagePropertySlug: "prompt", required: true, many: false },
-    { pagePropertySlug: "cases", required: true, many: false },
+    { pagePropertySlug: "cases", required: true, entries: true },
   ],
   invariants: [
     {
