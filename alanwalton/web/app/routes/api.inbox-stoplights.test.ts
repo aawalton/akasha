@@ -2,7 +2,7 @@
 // receiving route, and the group-serving path answers them as the `stoplights` body his shipped
 // widget decodes. The relay secret is the only made-up thing here, generated fresh for each run.
 //
-// The readings are fixtures, and they are the five in the widget's own `INBOX_PREVIEW`. Alan's own
+// The readings are fixtures, and they are the three in the widget's own `INBOX_PREVIEW`. Alan's own
 // inbox counts are never read here, and no test asserts a count as though it were his.
 //
 // What this pins that the upkeep files do not:
@@ -14,13 +14,21 @@
 // so. The assertion is on `Object.keys` of the decoded body rather than on field access, because
 // `habit` and `inbox` are both declared on `Stoplight` and reading either one typechecks.
 //
-// The count. Three of five readouts would answer three rings and look right, so these count what
-// comes back rather than asking whether anything did.
+// The count. Two of three readouts would answer two rings and look right, so these count what
+// comes back rather than asking whether anything did. Three is the number: two and four are both
+// failures that draw a plausible tile.
 //
-// The direction. All three inbox scales fall — a hundred waiting is black and an empty inbox is
+// The membership. `READOUT_ROWS` below is a hand-copy of the pages, so it would go on answering
+// three however many readouts really name the group. `the pages naming the inboxes group` reads
+// the pages themselves off disk instead, and is the one test here that a readout left in the group
+// by a half-finished removal cannot get past.
+//
+// The direction. Both inbox scales fall — a hundred waiting is black and an empty inbox is
 // blue — where every upkeep scale climbs. A `tierAt` that reads only climbing scales answers null
-// for all five, and a readout answering null is left out rather than refused, so the tile would
+// for all three, and a readout answering null is left out rather than refused, so the tile would
 // have shown no rings while nothing errored.
+import { join } from "node:path"
+import { Glob } from "bun"
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
 import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
@@ -38,7 +46,7 @@ process.env.READING_RELAY_SECRET = RELAY_SECRET
 
 const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
 
-// The five readouts naming the `inboxes` group and the three scales they are read against, as
+// The three readouts naming the `inboxes` group and the two scales they are read against, as
 // those pages state them. Held here so a change to any of them shows up as a failure rather than
 // as a missing ring.
 const READOUT_ROWS = [
@@ -72,26 +80,6 @@ const READOUT_ROWS = [
     wireKey: "temperTasks",
     groupSlugs: [GROUP],
   },
-  {
-    slug: "inboxes-texts",
-    label: "Unread texts",
-    unit: "texts",
-    place: 4,
-    figureFormat: "integer",
-    scaleSlug: "daily-inbox",
-    wireKey: "texts",
-    groupSlugs: [GROUP],
-  },
-  {
-    slug: "inboxes-questions",
-    label: "Questions",
-    unit: "questions",
-    place: 5,
-    figureFormat: "integer",
-    scaleSlug: "live-count",
-    wireKey: "questions",
-    groupSlugs: [GROUP],
-  },
 ]
 
 const SCALE_ROWS: Record<string, Record<string, unknown>> = {
@@ -111,7 +99,6 @@ const SCALE_ROWS: Record<string, Record<string, unknown>> = {
     greenAt: 1,
     blueAt: 0,
   },
-  "live-count": { slug: "live-count", redAt: 4, yellowAt: 2, greenAt: 1, blueAt: 0 },
 }
 
 // The widget's own preview payload, which is the record of what the old server sent.
@@ -119,8 +106,6 @@ const CARRIED: readonly (readonly [string, number])[] = [
   ["inboxes-email", 0],
   ["inboxes-tasks", 4],
   ["inboxes-temper-tasks", 23],
-  ["inboxes-texts", 6],
-  ["inboxes-questions", 2],
 ]
 
 const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: READOUT_ROWS }
@@ -192,9 +177,41 @@ async function ringFor(inbox: string): Promise<Stoplight | undefined> {
   return (await drawn()).find((one) => one.inbox === inbox)
 }
 
-test("nothing carried in shows five empty rings rather than an empty list", async () => {
+const AKASHA = join(import.meta.dir, "..", "..", "..", "..", "akasha")
+
+// Every readout page under `akasha/` that names the inboxes group, read off the pages rather than
+// off the fixture above. A readout page left behind by a removal shows up here by its own slug.
+async function readoutsNamingInboxes(): Promise<readonly string[]> {
+  const named: string[] = []
+  for await (const relative of new Glob("**/*.readout.ts").scan({ cwd: AKASHA })) {
+    if (relative.includes("node_modules")) continue
+    const loaded = (await import(join(AKASHA, relative))) as Record<
+      string,
+      { slug?: string; groupSlugs?: readonly string[] } | undefined
+    >
+    for (const one of Object.values(loaded)) {
+      if (one?.slug === undefined) continue
+      if (one.groupSlugs?.includes(GROUP) === true) named.push(one.slug)
+    }
+  }
+  return named.sort()
+}
+
+test("the pages naming the inboxes group are the three the fixture holds", async () => {
+  expect(await readoutsNamingInboxes()).toEqual([
+    "inboxes-email",
+    "inboxes-tasks",
+    "inboxes-temper-tasks",
+  ])
+})
+
+test("the fixture holds every page naming the group and no page it does not", async () => {
+  expect(READOUT_ROWS.map((one) => one.slug).sort()).toEqual([...(await readoutsNamingInboxes())])
+})
+
+test("nothing carried in shows three empty rings rather than an empty list", async () => {
   const some = await drawn()
-  expect(some.length).toBe(5)
+  expect(some.length).toBe(3)
   for (const one of some) {
     expect(one.readingHeld).toBe("none")
     expect(one.reading).toBe("")
@@ -202,9 +219,9 @@ test("nothing carried in shows five empty rings rather than an empty list", asyn
   }
 })
 
-test("all five inboxes come back when all five have been carried in", async () => {
+test("all three inboxes come back when all three have been carried in", async () => {
   await carryAll()
-  expect((await drawn()).length).toBe(5)
+  expect((await drawn()).length).toBe(3)
 })
 
 test("every stoplight carries its key under `inbox` rather than under `habit`", async () => {
@@ -215,40 +232,21 @@ test("every stoplight carries its key under `inbox` rather than under `habit`", 
   }
 })
 
-test("the five keys are the five the shipped widget looks its labels up by", async () => {
+test("the three keys are the three the shipped widget looks its labels up by", async () => {
   await carryAll()
-  expect((await drawn()).map((one) => one.inbox)).toEqual([
-    "email",
-    "tasks",
-    "temperTasks",
-    "texts",
-    "questions",
-  ])
+  expect((await drawn()).map((one) => one.inbox)).toEqual(["email", "tasks", "temperTasks"])
 })
 
 test("the rings come back in the place order the readout pages state", async () => {
   await carryAll()
-  expect((await drawn()).map((one) => one.label)).toEqual([
-    "Email",
-    "Tasks",
-    "Temper tasks",
-    "Unread texts",
-    "Questions",
-  ])
+  expect((await drawn()).map((one) => one.label)).toEqual(["Email", "Tasks", "Temper tasks"])
 })
 
 test("an inbox with no fresh reading keeps its ring rather than leaving the tile short", async () => {
   await carryNow("inboxes-email", 0)
-  await carryNow("inboxes-questions", 2)
   const some = await drawn()
-  expect(some.length).toBe(5)
-  expect(some.map((one) => one.inbox)).toEqual([
-    "email",
-    "tasks",
-    "temperTasks",
-    "texts",
-    "questions",
-  ])
+  expect(some.length).toBe(3)
+  expect(some.map((one) => one.inbox)).toEqual(["email", "tasks", "temperTasks"])
   expect((await ringFor("email"))?.reading).toBe("0")
   expect((await ringFor("email"))?.readingHeld).toBeUndefined()
   expect((await ringFor("tasks"))?.reading).toBe("")
@@ -274,10 +272,9 @@ test("an inbox at empty is blue, with no tier above it", async () => {
 
 test("a falling scale colours a rising count worse rather than better", async () => {
   await carryAll()
-  const [, tasks, temperTasks, texts] = await drawn()
+  const [, tasks, temperTasks] = await drawn()
   expect(tasks?.tier).toBe("yellow")
   expect(temperTasks?.tier).toBe("red")
-  expect(texts?.tier).toBe("yellow")
 })
 
 test("an inbox over a hundred is black rather than a reading gone missing", async () => {
@@ -293,7 +290,7 @@ test("a count of zero and a count never carried are told apart on the wire", asy
   expect(carried?.reading).toBe("0")
   expect(carried?.readingHeld).toBeUndefined()
 
-  const absent = await ringFor("texts")
+  const absent = await ringFor("temperTasks")
   expect(absent?.reading).toBe("")
   expect(absent?.readingHeld).toBe("none")
 })
@@ -307,11 +304,9 @@ test("the tier a falling reading is next to reach is the better one", async () =
 
 test("how far a falling reading has come is the fraction of its band it has come down", async () => {
   await carryAll()
-  const [, tasks, temperTasks, texts, questions] = await drawn()
+  const [, tasks, temperTasks] = await drawn()
   expect(tasks?.progress).toBeCloseTo(6 / 9, 12)
   expect(temperTasks?.progress).toBeCloseTo(77 / 90, 12)
-  expect(texts?.progress).toBeCloseTo(4 / 9, 12)
-  expect(questions?.progress).toBe(1)
 })
 
 test("a count reaches the widget as a string, which is what the widget decodes", async () => {
@@ -327,7 +322,7 @@ test("a count is written whole rather than as the float the relay carried", asyn
 test("a reading past forty-five minutes shows an empty ring rather than the count it held", async () => {
   await carryAll(new Date(Date.now() - 46 * 60_000))
   const some = await drawn()
-  expect(some.length).toBe(5)
+  expect(some.length).toBe(3)
   for (const one of some) {
     expect(one.readingHeld).toBe("stale")
     expect(one.reading).toBe("")
