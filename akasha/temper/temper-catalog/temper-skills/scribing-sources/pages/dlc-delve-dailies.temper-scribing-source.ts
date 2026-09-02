@@ -1,0 +1,30 @@
+import type { TemperScribingSource } from "../temper-scribing-source.page-type.ts"
+
+export const dlcDelveDailies = {
+  id: "01a05fce-2959-72f4-be3d-cf1275008a12",
+  pageTypeSlug: "temper-scribing-source",
+  slug: "dlc-delve-dailies",
+  title: "DLC Delve Dailies",
+  displayOrder: 1,
+  scriptType: "focus",
+  tierAchievements: "jsonl",
+  zoneSlugs: [
+    "solstice",
+    "west-weald",
+    "telvanni-peninsula",
+    "high-isle",
+    "galen",
+    "the-deadlands",
+    "blackwood",
+    "western-skyrim",
+    "the-reach",
+    "northern-elsweyr",
+    "southern-elsweyr",
+    "summerset",
+    "vvardenfell",
+    "wrothgar",
+    "hews-bane",
+    "murkmire",
+    "clockwork-city",
+  ],
+} as const satisfies TemperScribingSource

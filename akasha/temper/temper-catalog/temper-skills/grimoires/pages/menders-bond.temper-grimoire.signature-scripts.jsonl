@@ -1,0 +1,7 @@
+{"id":"01a05fce-28de-7c02-8f22-6a45efb6eb24","scriptId":"sages-remedy","description":"Heals the ally and other allies when they leave the link for 1428 Health over 5 seconds."}
+{"id":"01a05fce-28de-7d99-8c93-5f690172c9d7","scriptId":"class-mastery","classId":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
+{"id":"01a05fce-28de-7385-8268-6560fac257c2","scriptId":"hunters-snare","description":"Reduces the Movement Speed of enemies in the link by 30% for 2 seconds."}
+{"id":"01a05fce-28de-7242-8f05-a91d5cff23f0","scriptId":"knights-valor","description":"Increases Block amount by 8% and reduces Block cost by 8% for the ally and other allies in the link."}
+{"id":"01a05fce-28de-7f7b-8c4a-024fd0201734","scriptId":"warmages-defense","description":"Grants a damage shield when other allies leave the link that absorbs 1279 damage for 6 seconds."}
+{"id":"01a05fce-28de-7753-891f-cb3ae7a1a2e5","scriptId":"druids-resurgence","description":"Restores 80 Magicka and 80 Stamina every 1 second for 5 seconds to the ally and other allies when they leave the link."}
+{"id":"01a05fce-28de-7a76-aa04-3ef2ef2681f7","scriptId":"crusaders-defiance","description":"Grants immunity to disabling effects for 3 seconds to the ally."}

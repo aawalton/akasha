@@ -1,0 +1,12 @@
+{"id":"01a05fce-28de-7459-ac2f-362d76f3e434","scriptId":"maim","description":"Afflicts Minor Maim to enemies in the link for 10 seconds, reducing damage done by 5%."}
+{"id":"01a05fce-28de-7c29-b39a-ccb32e660b48","scriptId":"force","description":"Grants Minor Force to the ally and allies in the link for 10 seconds, increasing Critical Damage by 10%."}
+{"id":"01a05fce-28de-74a3-bde1-13f7be1130f8","scriptId":"breach","description":"Afflicts Minor Breach to enemies in the link for 10 seconds, reducing Physical and Spell Resistance by 2974."}
+{"id":"01a05fce-28de-7be9-a9ba-b27d9f83157c","scriptId":"brittle","description":"Afflicts Minor Brittle to enemies in the link for 10 seconds, increasing their Critical Damage taken by 10%."}
+{"id":"01a05fce-28de-7d62-ab01-21136c7bed4c","scriptId":"courage","description":"Grants Minor Courage to the ally and allies in the link for 10 seconds, increasing Weapon and Spell Damage by 215."}
+{"id":"01a05fce-28de-7f4b-b30d-373e5dd82f1f","scriptId":"empower","description":"Grants Empower to the ally and allies in the link for 10 seconds, increasing the damage of Heavy Attacks against monsters by 70%."}
+{"id":"01a05fce-28de-7f26-8f65-c400f9d89b1e","scriptId":"evasion","description":"Grants Minor Evasion to the ally and allies in the link for 10 seconds, reducing damage from area attacks by 10%."}
+{"id":"01a05fce-28de-768d-b409-63022169a8e8","scriptId":"heroism","description":"Grants Minor Heroism to the ally and allies in the link for 10 seconds, generating 1 Ultimate every 1.5 seconds."}
+{"id":"01a05fce-28de-7fa6-8df0-1ab274e20f91","scriptId":"vitality","description":"Grants Minor Vitality to the ally and allies in the link for 10 seconds, increasing healing received and damage shield strength by 6%."}
+{"id":"01a05fce-28de-7ad8-a95a-3bbe60d9d582","scriptId":"protection","description":"Grants Minor Protection to the ally and allies in the link for 10 seconds, reducing damage taken by 5%."}
+{"id":"01a05fce-28de-7252-a4f6-f8a48b91dfad","scriptId":"vulnerability","description":"Afflicts Minor Vulnerability to enemies in the link for 10 seconds, increasing damage taken by 5%."}
+{"id":"01a05fce-28de-7f0e-a28b-1dd0d9cb1199","scriptId":"intellect-and-endurance","description":"Grants Minor Intellect and Minor Endurance to the ally and allies in the link for 10 seconds, increasing Magicka and Stamina Recovery by 15%."}

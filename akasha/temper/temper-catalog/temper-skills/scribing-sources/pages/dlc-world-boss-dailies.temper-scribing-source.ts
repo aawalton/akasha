@@ -1,0 +1,30 @@
+import type { TemperScribingSource } from "../temper-scribing-source.page-type.ts"
+
+export const dlcWorldBossDailies = {
+  id: "01a05fce-295a-7842-af37-dfe96f98f1a2",
+  pageTypeSlug: "temper-scribing-source",
+  slug: "dlc-world-boss-dailies",
+  title: "DLC World Boss Dailies",
+  displayOrder: 2,
+  scriptType: "signature",
+  tierAchievements: "jsonl",
+  zoneSlugs: [
+    "solstice",
+    "west-weald",
+    "telvanni-peninsula",
+    "high-isle",
+    "galen",
+    "the-deadlands",
+    "blackwood",
+    "western-skyrim",
+    "the-reach",
+    "northern-elsweyr",
+    "southern-elsweyr",
+    "summerset",
+    "vvardenfell",
+    "wrothgar",
+    "clockwork-city",
+    "murkmire",
+    "hews-bane",
+  ],
+} as const satisfies TemperScribingSource

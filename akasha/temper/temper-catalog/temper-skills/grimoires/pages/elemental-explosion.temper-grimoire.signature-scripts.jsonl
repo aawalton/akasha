@@ -1,0 +1,7 @@
+{"id":"01a05fce-28de-7500-ac5c-f04640b2ed95","scriptId":"class-mastery","classId":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
+{"id":"01a05fce-28de-73bb-8c1b-5e1593f2e0da","scriptId":"hunters-snare","description":"Create a field of distortion under the first enemy hit for 6 seconds, reducing the Movement Speed of enemies inside by 40%."}
+{"id":"01a05fce-28de-7bda-ba94-fa1031783c97","scriptId":"assassins-misery","description":"Afflicts enemies with Burning, Chill, and Concussion."}
+{"id":"01a05fce-28de-77a2-bf44-a6552101dd39","scriptId":"warmages-defense","description":"If an enemy was hit, grants you a damage shield that absorbs 2055 damage for 6 seconds. Each additional enemy hit increases the shield's strength by 20%."}
+{"id":"01a05fce-28de-7dbc-ab99-e819d0c434e1","scriptId":"druids-resurgence","description":"Restores 470 Magicka to you per enemy hit."}
+{"id":"01a05fce-28de-7cf9-a3a6-3675a97175d0","scriptId":"lingering-torment","description":"Deals 2980 Magic Damage over 20 seconds to enemies."}
+{"id":"01a05fce-28de-763f-b292-832731eff993","scriptId":"immobilizing-strike","description":"Immobilizes enemies for 3 seconds."}

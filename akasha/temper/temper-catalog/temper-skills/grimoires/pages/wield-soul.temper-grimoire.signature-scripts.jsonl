@@ -1,0 +1,6 @@
+{"id":"01a05fce-28df-76fe-bc88-ba3ba8f35d4e","scriptId":"sages-remedy","description":"Heals for 1435 Health over 10 seconds."}
+{"id":"01a05fce-28df-7e36-b763-a6cdf8b5c71d","scriptId":"class-mastery","classId":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
+{"id":"01a05fce-28df-7d7f-9b28-7784052b9532","scriptId":"druids-resurgence","description":"Restores 600 Magicka and 600 Stamina."}
+{"id":"01a05fce-28df-767e-92a1-627fd364349a","scriptId":"lingering-torment","description":"Deals 1790 Magic Damage over 10 seconds to the enemy."}
+{"id":"01a05fce-28df-7935-9694-cdc919168f68","scriptId":"anchorites-cruelty","description":"Consumes a Soul Gem to deal 1.5% of the enemy's Max Health as Oblivion Damage every 1 second for 5 seconds, up to a maximum of 1500 damage. Deals up to 100% more damage to enemies under 50% Health and can occur once every 5 seconds."}
+{"id":"01a05fce-28df-7a82-8335-d1203db978e5","scriptId":"anchorites-potency","description":"If in combat, consumes a Soul Gem to generate 4 Ultimate, up to once every 5 seconds."}

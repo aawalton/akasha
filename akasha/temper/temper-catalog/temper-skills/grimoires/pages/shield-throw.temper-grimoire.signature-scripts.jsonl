@@ -1,0 +1,8 @@
+{"id":"01a05fce-28de-7df8-aa07-af88e1021132","scriptId":"sages-remedy","description":"Heals you for 2046 Health on return, scaling off your Max Health."}
+{"id":"01a05fce-28de-76d3-bbbc-ec981c8b426f","scriptId":"class-mastery","classId":"warden","description":"Create an 8 meter area for 2 seconds under your target once every 8 seconds that snares enemies by 70%, and charms them for 3 seconds when it expires. If no enemies are charmed, you restore 1435 Magicka and Stamina."}
+{"id":"01a05fce-28de-720c-8fb0-c1b95e5b34f4","scriptId":"fencers-parry","description":"Deflects the next direct damage attack made against you within 3 seconds on return. This can occur once every 3 seconds."}
+{"id":"01a05fce-28de-7862-a6da-f8bed6564ebe","scriptId":"knights-valor","description":"Deals 1 Physical Damage and Bashes the enemy."}
+{"id":"01a05fce-28de-7f20-be4f-2087562fcb2d","scriptId":"thiefs-swiftness","description":"Grants you the ability to pass through enemies for 5 seconds on return."}
+{"id":"01a05fce-28de-7747-9ffc-6bc8617c1bf9","scriptId":"druids-resurgence","description":"Increases your Health, Magicka, and Stamina Recovery by 165 for 10 seconds on return."}
+{"id":"01a05fce-28de-7c03-b749-371fd30006ef","scriptId":"lingering-torment","description":"Deals 1790 Physical Damage over 10 seconds to the enemy. This effect can trigger your weapon enchantment."}
+{"id":"01a05fce-28de-726d-ac3f-d81fd1ca3cb8","scriptId":"wayfarers-mastery","description":"Increases your Bash damage by 333 for 5 seconds on return."}

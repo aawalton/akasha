@@ -1,0 +1,9 @@
+{"id":"01a05fce-28df-7cfc-8b62-a66b463e6ffc","scriptId":"class-mastery","classId":"warden","description":"Create an 8 meter area for 2 seconds under your target once every 8 seconds that snares enemies by 70%, and charms them for 3 seconds when it expires. If no enemies are charmed, you restore 1435 Magicka and Stamina."}
+{"id":"01a05fce-28df-7b11-9d0f-e175cb7c1595","scriptId":"fencers-parry","description":"Deflects the next direct damage attack used against you within 3 seconds. This can occur once every 3 seconds."}
+{"id":"01a05fce-28df-7478-85a2-74510ceef2d2","scriptId":"hunters-snare","description":"Reduces the Movement Speed of enemies by 30% for 4 seconds."}
+{"id":"01a05fce-28df-72df-ba57-5bd81e09e3b7","scriptId":"leeching-thirst","description":"Heals you for 25% of the damage done."}
+{"id":"01a05fce-28df-71b7-b620-90cdb3dc3827","scriptId":"assassins-misery","description":"Increases the chance to apply status effects on enemies by 100% for 10 seconds."}
+{"id":"01a05fce-28df-7e2b-ae31-af090bf35348","scriptId":"warmages-defense","description":"Grants you a damage shield that absorbs 1798 damage for 6 seconds."}
+{"id":"01a05fce-28df-7093-81e4-e159f2654a74","scriptId":"lingering-torment","description":"Deals 2380 Physical Damage over 20 seconds to enemies."}
+{"id":"01a05fce-28df-7bde-86fd-10057fc155c2","scriptId":"wayfarers-mastery","description":"Enemies hit are susceptible to your Ruffian passive ability for 6 seconds."}
+{"id":"01a05fce-28df-7054-a2e7-c05c060d3313","scriptId":"warriors-opportunity","description":"Enemies hit take 8% more Martial damage for 5 seconds."}
