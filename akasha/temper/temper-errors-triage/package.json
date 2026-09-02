@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/temper-errors-triage",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./errors-saved-variables": "./errors-saved-variables/errors-saved-variables.module.code.ts",
+    "./errors-collect": "./errors-collect/errors-collect.module.code.ts",
+    "./errors-crash-signatures": "./errors-crash-signatures/errors-crash-signatures.module.code.ts",
+    "./errors-liveness": "./errors-liveness/errors-liveness.module.code.ts",
+    "./errors-triage": "./errors-triage/errors-triage.module.code.ts",
+    "./errors-triage-gather": "./errors-triage-gather/errors-triage-gather.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-capture-errors": "workspace:*",
+    "@akasha/temper-capture-host": "workspace:*",
+    "@akasha/temper-eso-paths": "workspace:*",
+    "@akasha/temper-saved-variables": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
