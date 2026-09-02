@@ -22,6 +22,7 @@ export const patch = {
     "a path that moved under the patch is refused until the agent reads what moved there.",
     "an apply the checks refuse leaves the patch to be worked on further.",
     "a patch applied or dropped takes the ref keeping its blobs with it.",
+    "a patch outlives a context replacement, which takes away every reading the agent held.",
   ],
   invariants: [
     {
