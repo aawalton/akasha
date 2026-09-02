@@ -5,6 +5,7 @@ import {
   ascAuthArgs,
   buildKeychainUnlock,
   buildNativeSync,
+  buildOnCleanup,
   buildRunCheckout,
   CHECKOUT_ROOT,
   SCRIPT_HEADER,
@@ -74,6 +75,7 @@ export function buildTestflightDeployScript(opts: {
     buildKeychainUnlock(opts.password),
     buildLoginOnlyKeychainScope(),
     buildAcquireMacBuildLock(opts.app),
+    buildOnCleanup(`rm -rf "${opts.app.macBuildLockDir}" 2>/dev/null || true`),
     buildRunCheckout(opts.cutCommit),
   ]
   if (opts.sync) {

@@ -6,9 +6,12 @@ import {
   classifyProcessingState,
   describeProcessingFailure,
   formatProcessingFailureMarker,
+  NOT_YET_LISTED,
+  POLL_READ_FAILURE_TOLERANCE,
   type PollDeps,
   PROCESSING_FAILURE_MARKER_KIND,
   pollBuildUntilTerminal,
+  pollElapsed,
   pollUntilTesterVisible,
   processingFailureFor,
   type VisibilityPollDeps,
@@ -71,7 +74,7 @@ describe("processing failure marker", () => {
 })
 
 function harness(opts: {
-  readonly results: readonly (LatestBuild | null)[]
+  readonly results: readonly (LatestBuild | null | Error)[]
   readonly isTarget?: (b: LatestBuild) => boolean
   readonly timeoutMs?: number
 }): { deps: PollDeps; ticks: readonly string[]; sleeps: readonly number[] } {
@@ -83,7 +86,7 @@ function harness(opts: {
     fetchLatest: () => {
       const value = opts.results[Math.min(index, opts.results.length - 1)] ?? null
       index += 1
-      return Promise.resolve(value)
+      return value instanceof Error ? Promise.reject(value) : Promise.resolve(value)
     },
     isTarget: opts.isTarget ?? (() => true),
     sleep: (ms) => {
@@ -133,7 +136,9 @@ describe("pollBuildUntilTerminal", () => {
     const outcome = await pollBuildUntilTerminal(deps)
     expect(outcome.kind).toBe("valid")
     if (outcome.kind === "valid") expect(outcome.build.version).toBe("5")
-    expect(ticks.filter((t) => t.includes("waiting for the uploaded build")).length).toBe(2)
+    const waiting = ticks.filter((t) => t.includes(NOT_YET_LISTED) && !t.includes("\u2192"))
+    expect(waiting.length).toBe(2)
+    expect(ticks.at(-1)).toContain("finished processing")
   })
 
   test("times out when the build never reaches a terminal state", async () => {
@@ -224,5 +229,98 @@ describe("pollUntilTesterVisible", () => {
     const outcome = await pollUntilTesterVisible(deps)
     expect(outcome.kind).toBe("timeout")
     if (outcome.kind === "timeout") expect(outcome.lastState).toBe("PROCESSING")
+  })
+})
+
+describe("pollElapsed", () => {
+  test("says seconds under a minute and minutes-and-seconds over one", () => {
+    expect(pollElapsed(0)).toBe("0s")
+    expect(pollElapsed(45_000)).toBe("45s")
+    expect(pollElapsed(60_000)).toBe("1m00s")
+    expect(pollElapsed(30 * 60_000)).toBe("30m00s")
+  })
+
+  test("a negative elapsed reads as zero rather than as a negative time", () => {
+    expect(pollElapsed(-5_000)).toBe("0s")
+  })
+})
+
+describe("a poll outliving a transient App Store Connect read failure", () => {
+  test("one failed read is retried at the next interval rather than thrown", async () => {
+    const { deps, ticks } = harness({
+      results: [new Error("ECONNRESET"), build({ processingState: "VALID" })],
+    })
+    const outcome = await pollBuildUntilTerminal(deps)
+    expect(outcome.kind).toBe("valid")
+    expect(ticks.some((t) => t.includes("could not read App Store Connect"))).toBe(true)
+    expect(ticks.some((t) => t.includes("ECONNRESET"))).toBe(true)
+  })
+
+  test("a retry tick says which of the tolerated failures this one is", async () => {
+    const { deps, ticks } = harness({
+      results: [new Error("ECONNRESET"), build({ processingState: "VALID" })],
+    })
+    await pollBuildUntilTerminal(deps)
+    expect(ticks[0]).toContain(`1/${String(POLL_READ_FAILURE_TOLERANCE)}`)
+  })
+
+  test("failures in a row up to the tolerance raise the error, so a dead key is still loud", () => {
+    const { deps } = harness({ results: [new Error("401 Unauthorized")] })
+    expect(pollBuildUntilTerminal(deps)).rejects.toThrow("401 Unauthorized")
+  })
+
+  test("a read that answers resets the count, so scattered failures never accumulate", async () => {
+    const { deps } = harness({
+      results: [
+        new Error("blip one"),
+        new Error("blip two"),
+        build({ processingState: "PROCESSING" }),
+        new Error("blip three"),
+        new Error("blip four"),
+        build({ processingState: "VALID" }),
+      ],
+    })
+    const outcome = await pollBuildUntilTerminal(deps)
+    expect(outcome.kind).toBe("valid")
+  })
+
+  test("the visibility poll outlives a transient beta-detail read failure too", async () => {
+    let index = 0
+    let clock = 0
+    const results: readonly (string | null | Error)[] = [new Error("ETIMEDOUT"), "IN_BETA_TESTING"]
+    const ticks: string[] = []
+    const deps: VisibilityPollDeps = {
+      fetchState: () => {
+        const value = results[Math.min(index, results.length - 1)] ?? null
+        index += 1
+        return value instanceof Error ? Promise.reject(value) : Promise.resolve(value)
+      },
+      sleep: () => {
+        clock += 1_000
+        return Promise.resolve()
+      },
+      now: () => clock,
+      intervalMs: 1_000,
+      timeoutMs: 60_000,
+      onTick: (m) => ticks.push(m),
+    }
+    const outcome = await pollUntilTesterVisible(deps)
+    expect(outcome).toEqual({ kind: "visible", state: "IN_BETA_TESTING" })
+    expect(ticks.some((t) => t.includes("could not read the build's beta detail"))).toBe(true)
+  })
+
+  test("the visibility poll raises once the failures in a row reach the tolerance", () => {
+    let clock = 0
+    const deps: VisibilityPollDeps = {
+      fetchState: () => Promise.reject(new Error("403 Forbidden")),
+      sleep: () => {
+        clock += 1_000
+        return Promise.resolve()
+      },
+      now: () => clock,
+      intervalMs: 1_000,
+      timeoutMs: 60_000,
+    }
+    expect(pollUntilTesterVisible(deps)).rejects.toThrow("403 Forbidden")
   })
 })

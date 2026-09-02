@@ -18,6 +18,14 @@ export const testflightDeployScript = {
     },
     {
       invariantKind: "departure",
+      statement: "The mac build lock is removed on the way out however the run ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run dying at the archive leaves no lock directory for the next run to judge.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The ipa is gated on carrying the cut commit before the ipa is uploaded.",
     },
     {
