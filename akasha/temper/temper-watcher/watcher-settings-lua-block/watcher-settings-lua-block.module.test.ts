@@ -59,6 +59,43 @@ test("content no anchor is found in is handed back unchanged", () => {
   expect(out).toEqual(FILE)
 })
 
+test("a block opening and closing on one line is replaced whole", () => {
+  const oneLine = [
+    "TemperInventory =",
+    "{",
+    '    ["Default"] = { ["sell"] = { 1, 2, 3, }, ["db"] = {}, },',
+    "}",
+  ]
+  const out = replaceOrInsertLuaBlock(
+    oneLine,
+    "sell",
+    ['    ["Default"] = { ["sell"] = { 9, }, ["db"] = {}, },'],
+    ["db"]
+  )
+  expect(out).toEqual([
+    "TemperInventory =",
+    "{",
+    '    ["Default"] = { ["sell"] = { 9, }, ["db"] = {}, },',
+    "}",
+  ])
+})
+
+test("a sibling named but not there is passed over for the next one named", () => {
+  const out = replaceOrInsertLuaBlock(FILE, "gamma", ["NEW"], ["nowhere", "beta"])
+  expect(out.indexOf("NEW")).toBe(8)
+})
+
+test("no sibling named at all leaves content unchanged", () => {
+  expect(replaceOrInsertLuaBlock(FILE, "gamma", ["NEW"], [])).toEqual(FILE)
+})
+
+test("content with no wrapper around it is handed back unchanged", () => {
+  const orphan = ['["tasks"] =', "{", '    ["uuid"] = { ["title"] = "Skill Morphs", },', "},"]
+  const siblings = ["characters", "account", "navigation"]
+  const out = replaceOrInsertLuaBlock(orphan, "characterPriority", ["NEW"], siblings)
+  expect(out).toEqual(orphan)
+})
+
 test("the indent is taken from the key's own line where the key is there", () => {
   expect(detectIndent(FILE, "alpha", [])).toBe("        ")
   expect(detectIndent(FILE, "Default", [])).toBe("    ")
