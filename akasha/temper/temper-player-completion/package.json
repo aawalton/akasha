@@ -26,6 +26,7 @@
     "./completion-cumulative-cards": "./completion-cumulative-cards/completion-cumulative-cards.module.code.ts",
     "./completion-daily-writs-progress": "./completion-daily-writs-progress/completion-daily-writs-progress.module.code.ts",
     "./completion-import-outcome": "./completion-import-outcome/completion-import-outcome.module.code.ts",
+    "./completion-item-set-progress": "./completion-item-set-progress/completion-item-set-progress.module.code.ts",
     "./completion-lore-collection": "./completion-lore-collection/completion-lore-collection.module.code.ts",
     "./completion-lore-library-progress": "./completion-lore-library-progress/completion-lore-library-progress.module.code.ts",
     "./completion-measured": "./completion-measured/completion-measured.module.code.ts",
@@ -52,6 +53,7 @@
   },
   "dependencies": {
     "@akasha/temper-character-skills": "workspace:*",
+    "@akasha/temper-characters-equipment": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",

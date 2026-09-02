@@ -23,6 +23,7 @@ export const temperPlayerCompletion = {
     "module/completion-character-row",
     "module/completion-cumulative-cards",
     "module/completion-import-outcome",
+    "module/completion-item-set-progress",
     "module/completion-lore-collection",
     "module/completion-measured",
     "module/completion-merge-forward",
