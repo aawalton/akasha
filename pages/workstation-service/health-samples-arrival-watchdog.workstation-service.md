@@ -28,7 +28,9 @@ What this writes is a notification, and reaching a device is the push notifier's
 
 The newest arrival already said is latched under `/var/tmp`, so one silence is stated once rather than every hour, and a reboot costs one repeat.
 
-It reads the day files of one checkout. A reading that landed in a pod's own checkout and was never pushed is invisible to it, so it can call a live stream dead, and the check says so in its own answer rather than leaving the next reader to find out.
+It reads the day files of one checkout, and that checkout is the only place these rows exist: the pod's is reset onto origin/main at every start and nothing there commits, so no reading accumulates in it. Silence here is therefore real silence rather than a partition.
+
+What it cannot say is which of the phone, the POST and the writer stopped, since all three read alike from the rows, and the check writes that reach into its own answer rather than leaving the next reader to find it.
 
 A silent stream exits nonzero, so the unit goes red as well as saying so.
 

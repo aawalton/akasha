@@ -20,11 +20,14 @@ const LATCH_AT = "/var/tmp/health-samples-arrival-watchdog.latch"
 
 const REACH = [
   "WHAT THIS CANNOT SEE. It opens the day files in one checkout and nothing else. It makes no",
-  "request, reaches no device, and knows nothing about whether the phone is posting. A reading",
-  "written into a pod's own checkout is committed by `tools/lib/page-write-commit.ts`, which",
-  "never pushes, so a reading landing there reaches no other checkout and is invisible here:",
-  "this can report a dead stream while readings arrive into a container, and it can report a",
-  "live stream off rows some other writer carried in. Silence here is silence in this checkout.",
+  "request and reaches no device, so it cannot tell a phone that is not posting from a POST that",
+  "is failing from a writer that is refusing. All three read here as silence, and which one it",
+  "is wants a look at the seam, the route and the journal rather than at these rows.",
+  "",
+  "IT IS NOT PARTITIONED, THOUGH. The web pod's checkout is reset onto origin/main at every pod",
+  "start and nothing there commits or pushes, so no reading has ever accumulated in the pod: a",
+  "row landing there is discarded at the next start rather than kept out of sight. This checkout",
+  "is the only place these rows exist, so silence here is silence everywhere, not a partition.",
 ].join("\n")
 
 function hoursOf(ms: number): string {
@@ -133,8 +136,9 @@ export function bodyFor(ruling: ArrivalRuling): string {
     `Nothing has posted a health reading for ${aged}. Points for those days are counted off ` +
     "readings that are not there, so they read low rather than reading unknown. The sender is " +
     "an App Intent on the phone with no background trigger, so running the Shortcut once drains " +
-    "the whole backlog and no reading is lost. This reads one checkout and cannot see a reading " +
-    "that landed anywhere else."
+    "the whole backlog and no reading is lost. This reads the one checkout these rows exist in, " +
+    "so the silence is real; what it cannot say is which of the phone, the POST and the writer " +
+    "is the one that stopped."
   )
 }
 
