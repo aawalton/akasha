@@ -42,8 +42,15 @@ const ALSO_READ: Readonly<Record<string, string>> = {
   lastViewedAt: "last_viewed_at",
 }
 
+const PAGE_TYPE = "page-type"
+
+const ROSTER_HELD_MS = 60_000
+
 const NO_ROSTER =
-  "`@akasha/pages-system-service` answers for every page akasha holds and draws no line between a page type whose pages are files and one whose pages are rows somewhere else. There is no roster of file-backed page types left to read, and an empty one would read as a tree where no page is a file."
+  "the page types `@akasha/pages-system-service` lists are the page types whose pages it holds as files, and that listing did not come back"
+
+const NO_PAGE_TYPE =
+  "`@akasha/pages-system-service` listed no page type at all, and an empty roster would read as a tree where no page is a file"
 
 export function pageOf(raw: Readonly<Record<string, unknown>>): Page {
   const page = flattenRow({ ...raw })
@@ -67,8 +74,45 @@ export class RosterUnreachable extends Error {
   }
 }
 
-export async function fileBackedPageTypes(): Promise<ReadonlySet<string>> {
-  throw new RosterUnreachable(NO_ROSTER)
+let known: ReadonlySet<string> | null = null
+let knownAt = 0
+let pending: Promise<ReadonlySet<string>> | null = null
+
+export function forgetFileBackedPageTypes(): undefined {
+  known = null
+  knownAt = 0
+  pending = null
+}
+
+async function rosterFrom(ask: (query: Query) => Promise<Asked>): Promise<ReadonlySet<string>> {
+  const asked = await ask({ pageTypeSlug: PAGE_TYPE, keys: ["slug"] })
+  if ("refused" in asked) throw new RosterUnreachable(`${NO_ROSTER}: ${asked.refused}`)
+  const slugs = new Set<string>()
+  for (const row of asked.rows) {
+    const slug = row.slug
+    if (typeof slug === "string" && slug !== "") slugs.add(slug)
+  }
+  if (slugs.size === 0) throw new RosterUnreachable(NO_PAGE_TYPE)
+  return slugs
+}
+
+export async function fileBackedPageTypes(
+  ask: (query: Query) => Promise<Asked> = askingFor
+): Promise<ReadonlySet<string>> {
+  if (known !== null && Date.now() - knownAt < ROSTER_HELD_MS) return known
+  pending ??= rosterFrom(ask).then(
+    (slugs) => {
+      pending = null
+      known = slugs
+      knownAt = Date.now()
+      return slugs
+    },
+    (thrown: unknown) => {
+      pending = null
+      throw thrown
+    }
+  )
+  return pending
 }
 
 export async function isFileBacked(pageTypeSlug: string): Promise<boolean> {

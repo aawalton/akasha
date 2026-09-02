@@ -49,13 +49,18 @@ export const fileRead = {
         "A question the pages refuse is raised rather than read as a page type holding no page.",
     },
     {
-      invariantKind: "gap",
-      statement: "Which page types are backed by files refuses.",
+      invariantKind: "departure",
+      statement:
+        "Which page types are backed by files is the page types `@akasha/pages-system-service` lists.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "departure",
+      statement: "That roster is asked once and held for a minute rather than per page read.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "`@akasha/pages-system-service` tells no page kept as a file from a page kept elsewhere.",
+        "A roster holding no page type refuses rather than reading as no page being a file.",
     },
   ],
 } as const satisfies Module
