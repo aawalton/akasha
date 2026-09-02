@@ -12,6 +12,7 @@ export const musicCommands = {
     "command/music-now-playing",
     "command/music-play",
     "command/music-queue",
+    "command/music-rate",
     "command/music-search",
   ],
 } as const satisfies WorkspacePackage
