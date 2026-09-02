@@ -4,8 +4,8 @@ import { secretAt, uncommittedAt, uncommittedBesideAt } from "@akasha/pages-syst
 import { partsOf } from "@akasha/pages-system/page-file-parts"
 import { slugFor } from "@akasha/pages-system/page-property-key"
 import { slugAt, textAt, type Value } from "@akasha/pages-system/page-value"
-import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
-import { indexSchema } from "../index/index-schema/index-schema.index.ts"
+import { indexIdentity } from "../index/identity/index-identity.index.ts"
+import { indexSchema } from "../index/schema/index-schema.index.ts"
 import { answered, readingIn, valuesOfType } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 

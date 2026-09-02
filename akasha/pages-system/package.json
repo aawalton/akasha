@@ -43,7 +43,7 @@
     "./page-file-name": "./page/file-name/page-file-name.module.code.ts",
     "./page-file-parts": "./page/file-parts/page-file-parts.module.code.ts",
     "./page-property": "./page-property/page-property.page-type.ts",
-    "./page-property-key": "./page-property/page-property-key/page-property-key.module.code.ts",
+    "./page-property-key": "./page-property/key/page-property-key.module.code.ts",
     "./page-type": "./page-type/page-type.page-type.ts",
     "./page-type-descent": "./page-type/descent/page-type-descent.module.code.ts",
     "./page-type-properties": "./page-type/declared-properties/declared-properties.module.code.ts",
