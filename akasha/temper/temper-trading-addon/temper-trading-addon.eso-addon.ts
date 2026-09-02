@@ -30,6 +30,7 @@ export const temperTradingAddon = {
     "module/trading-skip-kiosk-dialog",
     "module/trading-trader-kiosk-info",
     "module/trading-entry",
+    "type-declaration/trading-globals-declarations",
   ],
   invariants: [
     {
