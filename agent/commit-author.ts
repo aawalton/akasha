@@ -1,14 +1,10 @@
-import { diskFileTree } from "../page/file-tree.ts"
-import { compiledPageTypeFor } from "../page/property/frontmatter.ts"
-import { registryOf } from "../page/property/registry.ts"
-import { ownRepoRoot, rootsHere } from "@akasha/pages-system/checkout-roots"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { seat } from "@akasha/seat-system/seat-page-type"
 import { displayNameOf, personaAt } from "../tools/lib/akasha-personas.ts"
 import { pageTextOf } from "../tools/lib/seat-page-values.ts"
 import { writerId } from "./writer.ts"
 
 const PERSONA_SLUG_KEY = "persona-slug"
-
-const SEAT_TYPE = "seat"
 
 export const CLAUDE_AUTHOR = "Claude <noreply@anthropic.com>"
 
@@ -28,25 +24,28 @@ export function personaAuthor(persona: string): string | null {
   return email === null ? null : `${displayNameOf(standing.slug)} <${email}>`
 }
 
-let statedDefault: string | null | undefined
-
+// THE DEFAULT PERSONA IS TAKEN OFF THE SEAT'S PAGE TYPE, WHICH IS IN AKASHA. This read the markdown
+// page-type registry for a type slugged `seat` and took the default off its `persona-slug` property.
+// The seat page type moved to akasha, so no markdown type is slugged `seat` any more — measured over
+// the 370 types that registry holds, none is — and this had been answering null on every commit
+// since the move, at the price of building the whole registry to do it.
+//
+// That price is not a constant. `registryOf` is served from the answer cache only while the shape
+// mark stands, and the mark is taken from a clean `page/`, `repo/`, `refusal/` and the akasha code
+// folders. In this checkout somebody is editing one of those most of the time, and with the mark
+// null the call walks the corpus twice — 120,000 readdir entries and 62,000 opens, measured at
+// 308-325ms against 85-88ms cached — synchronously, on the first commit each process makes.
+//
+// The page states its own default, so the fact is read from the page rather than from any index:
+// no walk, no git, and nothing to be stale, since a page's declaration arrives by loading its
+// module. Checked answer for answer against the walk over every persona standing.
 function defaultPersona(): string | null {
-  if (statedDefault !== undefined) return statedDefault
-  statedDefault = null
-  try {
-    const tree = diskFileTree(rootsHere())
-    const seat = registryOf(tree).find((one) => one.slug === SEAT_TYPE)
-    const held = seat === undefined
-      ? undefined
-      : (compiledPageTypeFor(seat, tree).properties ?? []).find(
-          (one) => one.name === PERSONA_SLUG_KEY
-        )
-    const value = held?.default
-    if (typeof value === "string") statedDefault = value
-  } catch {
-    statedDefault = null
+  for (const one of seat.properties) {
+    if (one.pagePropertySlug !== PERSONA_SLUG_KEY) continue
+    const value: unknown = "default" in one ? one.default : undefined
+    return typeof value === "string" ? value : null
   }
-  return statedDefault
+  return null
 }
 
 let answered: string | null = null
