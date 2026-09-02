@@ -11,6 +11,7 @@ export const temperTradingListings = {
     "module/browse-state",
     "module/listing-entry-schema",
     "module/listing-types",
+    "module/sell-pricing",
   ],
   invariants: [
     {
