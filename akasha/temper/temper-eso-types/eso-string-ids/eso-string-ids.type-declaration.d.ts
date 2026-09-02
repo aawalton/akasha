@@ -171,3 +171,7 @@ declare const SI_ANTIQUITY_EMPTY_LIST: number
 declare const SI_SCRIBING_TITLE: number
 declare const SI_SMITHING_TAB_RESEARCH: number
 declare const SI_CRAFTED_ABILITY_NAME_FORMATTER: number
+
+declare const SI_DIALOG_ACCEPT: number
+
+declare const SI_HOUSINGEDITORCOMMANDTYPE1: number

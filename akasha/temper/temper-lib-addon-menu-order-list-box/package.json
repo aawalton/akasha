@@ -1,0 +1,22 @@
+{
+  "name": "@akasha/temper-lib-addon-menu-order-list-box",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./order-list-box-build": "./order-list-box-build/order-list-box-build.module.code.ts",
+    "./order-list-box-casts": "./order-list-box-casts/order-list-box-casts.module.code.ts",
+    "./order-list-box-constants": "./order-list-box-constants/order-list-box-constants.module.code.ts",
+    "./order-list-box-dialogs": "./order-list-box-dialogs/order-list-box-dialogs.module.code.ts",
+    "./order-list-box-drag-cursor": "./order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts",
+    "./order-list-box-drag-methods": "./order-list-box-drag-methods/order-list-box-drag-methods.module.code.ts",
+    "./order-list-box-entry": "./order-list-box-entry/order-list-box-entry.module.code.ts",
+    "./order-list-box-entry-methods": "./order-list-box-entry-methods/order-list-box-entry-methods.module.code.ts",
+    "./order-list-box-errors": "./order-list-box-errors/order-list-box-errors.module.code.ts",
+    "./order-list-box-list-methods": "./order-list-box-list-methods/order-list-box-list-methods.module.code.ts",
+    "./order-list-box-move-buttons": "./order-list-box-move-buttons/order-list-box-move-buttons.module.code.ts",
+    "./order-list-box-publish": "./order-list-box-publish/order-list-box-publish.module.code.ts",
+    "./order-list-box-row-setup": "./order-list-box-row-setup/order-list-box-row-setup.module.code.ts",
+    "./order-list-box-state": "./order-list-box-state/order-list-box-state.module.code.ts",
+    "./order-list-box-widget": "./order-list-box-widget/order-list-box-widget.module.code.ts"
+  }
+}

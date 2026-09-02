@@ -111,8 +111,8 @@ declare const RedirectTexture: (originalTexturePath: string, newTexturePath: str
 interface ZO_DialogInfo {
   canQueue?: boolean
   gamepadInfo?: { dialogType: number; allowShowOnNextScene?: boolean }
-  title?: { text: string | number | ((this: void, dialog: ZO_DialogData) => string) }
-  mainText?: { text: string | number | ((this: void, dialog: ZO_DialogData) => string) }
+  title?: { text: string | number | ((this: void, dialog: ZO_DialogData) => string) | undefined }
+  mainText?: { text: string | number | ((this: void, dialog: ZO_DialogData) => string) | undefined }
   buttons?: Array<{
     text: string | number
     keybind?: string
@@ -121,7 +121,7 @@ interface ZO_DialogInfo {
   }>
 }
 
-interface ZO_DialogData {
+interface ZO_DialogData extends Control {
   data: Record<string, unknown>
 }
 

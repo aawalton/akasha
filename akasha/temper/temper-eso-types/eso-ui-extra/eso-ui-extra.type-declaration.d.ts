@@ -62,3 +62,10 @@ declare const SI_SLASH_CAMP: number
 declare const SI_SLASH_QUIT: number
 declare const SI_LOG_OUT_GAME_CONFIRM_KEYBIND: number
 declare const SI_QUIT_GAME_CONFIRM_KEYBIND: number
+
+interface ButtonControl {
+  SetPressedMouseOverTexture: (texture: string) => void
+  SetDisabledTexture: (texture: string) => void
+  SetPressedOffset: (x: number, y: number) => void
+  SetTextureCoords: (left: number, right: number, top: number, bottom: number) => void
+}

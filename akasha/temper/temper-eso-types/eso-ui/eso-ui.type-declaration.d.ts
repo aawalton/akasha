@@ -154,7 +154,7 @@ interface WindowManager {
     ) => Control)
 
   CreateControlFromVirtual: <T extends Control = Control>(
-    name: string,
+    name: string | undefined,
     parent: Control | undefined,
     virtualName: string
   ) => T

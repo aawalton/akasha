@@ -27,6 +27,7 @@
     "./shape-progress": "./shape-progress/shape-progress.module.code.ts",
     "./shell-script": "./shell-scripts/shell-script.page-type.ts",
     "./stylesheet": "./stylesheet/stylesheet.page-type.ts",
+    "./type-declaration": "./type-declaration/type-declaration.page-type.ts",
     "./workspace-package": "./workspace-package/workspace-package.page-type.ts"
   },
   "dependencies": {

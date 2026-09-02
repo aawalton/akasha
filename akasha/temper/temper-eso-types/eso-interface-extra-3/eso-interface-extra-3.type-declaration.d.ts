@@ -209,6 +209,7 @@ interface ScrollbarButtonsCache {
 
 interface ScrollbarControl extends Control {
   FCOChangeStuffScrollbarButtons?: ScrollbarButtonsCache
+  GetMinMax: () => LuaMultiReturn<[min: number, max: number]>
 }
 
 interface ScrollbarParentControl {
