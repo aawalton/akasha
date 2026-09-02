@@ -1,6 +1,10 @@
 import { basename } from "node:path"
 
-const NAMED = /^(.+)\.([a-z0-9-]+)\.([a-z0-9]+)$/
+const SEGMENT = /^[a-z0-9-]+$/
+
+const HELD_PART = /^[a-z0-9]+$/
+
+const LEAST = 3
 
 const TS = ".ts"
 
@@ -11,6 +15,13 @@ const UNCOMMITTED = "uncommitted"
 const SOPS = "sops"
 
 const HELD_YAML = "yaml"
+
+export type Parted = {
+  readonly slug: string
+  readonly pageType: string
+  readonly sections: readonly string[]
+  readonly held: string
+}
 
 export type Named = {
   readonly stem: string
@@ -29,14 +40,26 @@ export type Held = {
   readonly propertySlug: string | null
 }
 
+export function partedIn(path: string): Parted | null {
+  const parts = basename(path).split(".")
+  if (parts.length < LEAST) return null
+  const slug = parts[0]
+  const pageType = parts[1]
+  const held = parts[parts.length - 1]
+  if (slug === undefined || pageType === undefined || held === undefined) return null
+  if (!SEGMENT.test(slug) || !SEGMENT.test(pageType) || !HELD_PART.test(held)) return null
+  const sections = parts.slice(2, -1)
+  if (sections.some((one) => !SEGMENT.test(one))) return null
+  return { slug, pageType, sections, held }
+}
+
 export function namedIn(path: string): Named | null {
-  const said = NAMED.exec(basename(path))
+  const said = partedIn(path)
   if (said === null) return null
-  const stem = said[1]
-  const tail = said[2]
-  const held = said[3]
-  if (stem === undefined || tail === undefined || held === undefined) return null
-  return { stem, tail, held }
+  const last = said.sections[said.sections.length - 1]
+  if (last === undefined) return { stem: said.slug, tail: said.pageType, held: said.held }
+  const stem = [said.slug, said.pageType, ...said.sections.slice(0, -1)].join(".")
+  return { stem, tail: last, held: said.held }
 }
 
 export function pageNamed(path: string, pageTypes: ReadonlySet<string>): boolean {
@@ -71,54 +94,37 @@ export function secretAt(path: string): string | null {
   return besideAt(path, SOPS, HELD_YAML)
 }
 
+function strayAt(path: string): Held {
+  return { path, kind: "stray", slug: null, pageTypeSlug: null, page: null, propertySlug: null }
+}
+
 export function heldIn(
   path: string,
   pageTypes: ReadonlySet<string>,
   fileProperties: ReadonlySet<string>
 ): Held {
-  const said = namedIn(path)
-  if (said === null) {
-    return { path, kind: "stray", slug: null, pageTypeSlug: null, page: null, propertySlug: null }
+  const said = partedIn(path)
+  if (said === null) return strayAt(path)
+  const page = `${said.slug}.${said.pageType}`
+  const only = said.sections.length === 1 ? said.sections[0] : undefined
+  if (only === UNCOMMITTED) {
+    return { path, kind: "uncommitted", slug: null, pageTypeSlug: null, page, propertySlug: null }
   }
-  if (said.tail === UNCOMMITTED) {
-    return {
-      path,
-      kind: "uncommitted",
-      slug: null,
-      pageTypeSlug: null,
-      page: said.stem,
-      propertySlug: null,
-    }
+  if (only === SOPS) {
+    return { path, kind: "secret", slug: null, pageTypeSlug: null, page, propertySlug: null }
   }
-  if (said.tail === SOPS) {
-    return {
-      path,
-      kind: "secret",
-      slug: null,
-      pageTypeSlug: null,
-      page: said.stem,
-      propertySlug: null,
-    }
-  }
-  if (said.held === HELD_TS && pageTypes.has(said.tail)) {
+  if (said.sections.length === 0 && said.held === HELD_TS && pageTypes.has(said.pageType)) {
     return {
       path,
       kind: "page",
-      slug: said.stem,
-      pageTypeSlug: said.tail,
-      page: `${said.stem}.${said.tail}`,
+      slug: said.slug,
+      pageTypeSlug: said.pageType,
+      page,
       propertySlug: null,
     }
   }
-  if (fileProperties.has(said.tail)) {
-    return {
-      path,
-      kind: "property",
-      slug: null,
-      pageTypeSlug: null,
-      page: said.stem,
-      propertySlug: said.tail,
-    }
+  if (only !== undefined && fileProperties.has(only)) {
+    return { path, kind: "property", slug: null, pageTypeSlug: null, page, propertySlug: only }
   }
-  return { path, kind: "stray", slug: null, pageTypeSlug: null, page: null, propertySlug: null }
+  return strayAt(path)
 }
