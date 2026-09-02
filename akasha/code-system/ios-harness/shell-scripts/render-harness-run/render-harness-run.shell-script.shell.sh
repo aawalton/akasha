@@ -54,7 +54,7 @@ else
   # Which components this app compiles is stated on its akasha ios-app page. The
   # directory holds every app's, and compiling all of them would put two
   # definitions of one symbol into a single build.
-  NAMED="$(cd "$AKASHA_ROOT" && bun -e 'import {componentSwiftFor} from "./alanwalton/mobile-cli/src/lib/ios-components.ts"; process.stdout.write(componentSwiftFor(process.argv[1]).join("\n"))' "$APP")" || {
+  NAMED="$(cd "$AKASHA_ROOT" && bun -e 'import {componentSwiftFor} from "@akasha/mobile-cli/ios-program-components"; process.stdout.write(componentSwiftFor(process.argv[1]).join("\n"))' "$APP")" || {
     echo "ERROR: could not read the components --app $APP names from its akasha ios-app page." >&2
     exit 2
   }

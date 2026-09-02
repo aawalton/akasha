@@ -15,7 +15,7 @@ COMPONENTS_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-component/ios-componen
 # Which components this harness compiles is stated on its akasha ios-program page.
 # The directory holds every app's, and compiling all of them would put two
 # definitions of one symbol into a single build.
-NAMED="$(cd "$AKASHA_ROOT" && bun -e 'import {componentSwiftForProgram} from "./alanwalton/mobile-cli/src/lib/ios-components.ts"; process.stdout.write(componentSwiftForProgram(process.argv[1]).join("\n"))' "$PROGRAM")" || {
+NAMED="$(cd "$AKASHA_ROOT" && bun -e 'import {componentSwiftForProgram} from "@akasha/mobile-cli/ios-program-components"; process.stdout.write(componentSwiftForProgram(process.argv[1]).join("\n"))' "$PROGRAM")" || {
   echo "ERROR: could not read the components $PROGRAM names from its akasha ios-program page." >&2
   exit 2
 }
