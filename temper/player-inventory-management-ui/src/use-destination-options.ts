@@ -1,7 +1,7 @@
 "use client"
 
+import { classifyLocation } from "@akasha/temper-items-core/location-classify"
 import { useAuth } from "@shared/auth/use-auth"
-import { classifyLocation } from "@temper/game-items-core/inventory-grouping"
 import type {
   DestinationCategory,
   MoveToDestination,
