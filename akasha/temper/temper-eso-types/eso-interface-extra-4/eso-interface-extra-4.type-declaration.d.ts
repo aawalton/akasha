@@ -28,7 +28,9 @@ declare function zo_strfind(
 interface ZoAnchor {
   ResetToAnchor: (anchor: unknown) => void
   Set: (control: unknown) => void
-  SetFromControlAnchor: (control: unknown) => void
+  SetFromControlAnchor: (control: unknown, anchorIndex?: number) => void
+  GetOffsetX: (this: ZoAnchor) => number
+  GetOffsetY: (this: ZoAnchor) => number
 }
 
 interface ZoAnchorClass {

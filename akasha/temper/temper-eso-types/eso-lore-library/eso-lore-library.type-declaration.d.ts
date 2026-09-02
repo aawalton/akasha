@@ -47,10 +47,7 @@ interface KeybindButtonGroupDescriptor {
   visible?: (this: void) => boolean
 }
 interface KeybindStripObject {
-  AddKeybindButtonGroup: ((
-    this: KeybindStripObject,
-    descriptor: DlwcKeybindButtonGroup
-  ) => void) &
+  AddKeybindButtonGroup: ((this: KeybindStripObject, descriptor: DlwcKeybindButtonGroup) => void) &
     ((this: KeybindStripObject, descriptor: KeybindButtonGroupDescriptor[]) => void)
   RemoveKeybindButtonGroup: ((
     this: KeybindStripObject,
@@ -120,6 +117,9 @@ interface WorldMapPanAndZoom {
     normalizedX: number,
     normalizedY: number
   ) => void
+  SetCurrentNormalizedZoom: (this: WorldMapPanAndZoom, zoom: number) => void
+  GetCurrentNormalizedZoom: (this: WorldMapPanAndZoom) => number
+  SetCurrentOffset: (this: WorldMapPanAndZoom, offsetX: number, offsetY: number) => void
 }
 declare function ZO_WorldMap_GetPanAndZoom(this: void): WorldMapPanAndZoom
 declare function ZO_WorldMap_IsWorldMapShowing(this: void): boolean

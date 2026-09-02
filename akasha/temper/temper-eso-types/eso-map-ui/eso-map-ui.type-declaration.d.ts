@@ -22,6 +22,8 @@ declare const ZO_SELECTED_TEXT: ZoColorDef
 declare const ZO_TOOLTIP_DEFAULT_COLOR: ZoColorDef
 
 declare const ZO_WorldMapMouseoverName: LabelControl
+declare const ZO_WorldMapContainer: Control
+declare const ZO_WorldMap_SetMapByIndex: (this: void, mapIndex?: number) => unknown
 
 interface ZoMapPinObject {
   GetPOIZoneIndex: (this: ZoMapPinObject) => number
