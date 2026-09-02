@@ -1,5 +1,10 @@
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import {
+  renderConstEffect,
+  renderEffects,
+} from "../render-metric-effect/render-metric-effect.module.code.ts"
+import { renderQualityComponents } from "../render-quality-values/render-quality-values.module.code.ts"
 
 const METRIC_EFFECT_SCHEMA = z
   .object({
@@ -71,31 +76,6 @@ function parseJewelryEnchant(row: Page): ParsedJewelryEnchant {
   }
 }
 
-function renderEffect(effect: z.infer<typeof METRIC_EFFECT_SCHEMA>): string {
-  return `{ metricId: ${JSON.stringify(effect.metricId)} as const, effectType: ${JSON.stringify(effect.effectType)} as const, effectValue: ${effect.effectValue} }`
-}
-
-function renderEffects(effects: readonly z.infer<typeof METRIC_EFFECT_SCHEMA>[]): string {
-  if (effects.length === 0) return "[]"
-  return `[${effects.map(renderEffect).join(", ")}]`
-}
-
-function renderQualityValues(qv: z.infer<typeof QUALITY_VALUES_SCHEMA>): string {
-  return `{ normal: ${qv.normal}, fine: ${qv.fine}, superior: ${qv.superior}, epic: ${qv.epic}, legendary: ${qv.legendary} }`
-}
-
-function renderQualityComponents(
-  components: Readonly<Record<string, z.infer<typeof QUALITY_VALUES_SCHEMA>>>
-): string {
-  const entries = Object.entries(components)
-  if (entries.length === 0) return "{}"
-  const sortedEntries = [...entries].sort(([a], [b]) => a.localeCompare(b))
-  const inner = sortedEntries
-    .map(([k, v]) => `${JSON.stringify(k)}: ${renderQualityValues(v)}`)
-    .join(", ")
-  return `{ ${inner} }`
-}
-
 export function generateTemperJewelryEnchant(rows: readonly Page[]): string {
   const parsed = rows.map(parseJewelryEnchant)
 
@@ -112,7 +92,7 @@ export function generateTemperJewelryEnchant(rows: readonly Page[]): string {
   }
 
   const templateEntries = sorted.map((e) => {
-    return `  ${JSON.stringify(e.key)}: { id: ${JSON.stringify(e.key)} as const, name: ${JSON.stringify(e.name)}, glyphName: ${JSON.stringify(e.glyphName)}, essenceRune: ${JSON.stringify(e.essenceRune)}, effect: ${JSON.stringify(e.effect)}, effects: ${renderEffects(e.effects)}, esoEnchantConstantName: ${JSON.stringify(e.esoEnchantConstantName)} },`
+    return `  ${JSON.stringify(e.key)}: { id: ${JSON.stringify(e.key)} as const, name: ${JSON.stringify(e.name)}, glyphName: ${JSON.stringify(e.glyphName)}, essenceRune: ${JSON.stringify(e.essenceRune)}, effect: ${JSON.stringify(e.effect)}, effects: ${renderEffects(e.effects, renderConstEffect)}, esoEnchantConstantName: ${JSON.stringify(e.esoEnchantConstantName)} },`
   })
 
   const qualityEntries = sorted

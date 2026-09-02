@@ -1,5 +1,10 @@
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import {
+  renderEffects,
+  renderPlainEffect,
+} from "../render-metric-effect/render-metric-effect.module.code.ts"
+import { renderQualityValues } from "../render-quality-values/render-quality-values.module.code.ts"
 
 const METRIC_EFFECT_SCHEMA = z
   .object({
@@ -76,19 +81,6 @@ function parseJewelryTrait(row: Page): ParsedJewelryTrait {
   }
 }
 
-function renderEffect(effect: z.infer<typeof METRIC_EFFECT_SCHEMA>): string {
-  return `{ metricId: ${JSON.stringify(effect.metricId)} as const, effectType: ${JSON.stringify(effect.effectType)}, effectValue: ${effect.effectValue} }`
-}
-
-function renderEffects(effects: readonly z.infer<typeof METRIC_EFFECT_SCHEMA>[]): string {
-  if (effects.length === 0) return "[]"
-  return `[${effects.map(renderEffect).join(", ")}]`
-}
-
-function renderFlatQualityValues(qv: z.infer<typeof FLAT_QUALITY_VALUES_SCHEMA>): string {
-  return `{ normal: ${qv.normal}, fine: ${qv.fine}, superior: ${qv.superior}, epic: ${qv.epic}, legendary: ${qv.legendary} }`
-}
-
 function isTriuneQualityValues(
   qv: z.infer<typeof QUALITY_VALUES_SCHEMA>
 ): qv is z.infer<typeof TRIUNE_QUALITY_VALUES_SCHEMA> {
@@ -111,23 +103,19 @@ export function generateTemperJewelryTrait(rows: readonly Page[]): string {
   }
 
   const templateEntries = sorted.map((t) => {
-    return `  ${JSON.stringify(t.key)}: { id: ${JSON.stringify(t.key)} as const, name: ${JSON.stringify(t.name)}, material: ${JSON.stringify(t.material)}, effect: ${JSON.stringify(t.effect)}, effects: ${renderEffects(t.effects)}, esoTraitConstantName: ${JSON.stringify(t.esoTraitConstantName)} },`
+    return `  ${JSON.stringify(t.key)}: { id: ${JSON.stringify(t.key)} as const, name: ${JSON.stringify(t.name)}, material: ${JSON.stringify(t.material)}, effect: ${JSON.stringify(t.effect)}, effects: ${renderEffects(t.effects, renderPlainEffect)}, esoTraitConstantName: ${JSON.stringify(t.esoTraitConstantName)} },`
   })
 
   const qualityEntries: string[] = []
   for (const t of sorted) {
     if (t.qualityValues === null) continue
     if (isTriuneQualityValues(t.qualityValues)) {
+      qualityEntries.push(`  "${t.key}-health": ${renderQualityValues(t.qualityValues.health)},`)
       qualityEntries.push(
-        `  "${t.key}-health": ${renderFlatQualityValues(t.qualityValues.health)},`
-      )
-      qualityEntries.push(
-        `  "${t.key}-resource": ${renderFlatQualityValues(t.qualityValues.resource)},`
+        `  "${t.key}-resource": ${renderQualityValues(t.qualityValues.resource)},`
       )
     } else {
-      qualityEntries.push(
-        `  ${JSON.stringify(t.key)}: ${renderFlatQualityValues(t.qualityValues)},`
-      )
+      qualityEntries.push(`  ${JSON.stringify(t.key)}: ${renderQualityValues(t.qualityValues)},`)
     }
   }
 

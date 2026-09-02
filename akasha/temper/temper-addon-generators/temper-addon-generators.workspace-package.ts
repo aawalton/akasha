@@ -15,6 +15,8 @@ export const temperAddonGenerators = {
     "module/metric-tree",
     "module/parse-restore-metrics-from-ability-text",
     "module/quality",
+    "module/render-metric-effect",
+    "module/render-quality-values",
     "module/rule-classify",
     "module/rule-types",
     "module/skill-line-categories",

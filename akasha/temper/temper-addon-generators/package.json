@@ -11,6 +11,8 @@
     "./metric-tree": "./metric-tree/metric-tree.module.code.ts",
     "./parse-restore-metrics-from-ability-text": "./parse-restore-metrics-from-ability-text/parse-restore-metrics-from-ability-text.module.code.ts",
     "./quality": "./quality/quality.module.code.ts",
+    "./render-metric-effect": "./render-metric-effect/render-metric-effect.module.code.ts",
+    "./render-quality-values": "./render-quality-values/render-quality-values.module.code.ts",
     "./rule-classify": "./rule-classify/rule-classify.module.code.ts",
     "./rule-types": "./rule-types/rule-types.module.code.ts",
     "./skill-line-categories": "./skill-line-categories/skill-line-categories.module.code.ts",
