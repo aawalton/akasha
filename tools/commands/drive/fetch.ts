@@ -2,9 +2,9 @@ export const summary = "Download a Drive file by URL or id to disk and print the
 
 import { mkdir } from "node:fs/promises"
 import { basename, isAbsolute, join, resolve } from "node:path"
-import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -101,13 +101,13 @@ async function reaching<T>(fileId: string, act: () => Promise<T>): Promise<T> {
 export default async function driveFetch(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
-  const files = await import("@akasha/drive-google/files")
+  const files = await import("@akasha/google-drive/files")
   const fileId = files.parseDriveFileId(parsed.requireString("--source"))
 
   const outRaw = parsed.string("--out")
   const outDir = outRaw === undefined ? process.cwd() : resolve(outRaw)
 
-  const { makeDriveClient } = await import("@akasha/drive-google/client")
+  const { makeDriveClient } = await import("@akasha/google-drive/client")
   const client = await makeDriveClient()
   const metadata = await reaching(fileId, () => files.fetchFileMetadata(client, fileId))
 

@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/drive-google",
+  "name": "@akasha/google-drive",
   "private": true,
   "type": "module",
   "exports": {

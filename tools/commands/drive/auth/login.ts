@@ -1,11 +1,11 @@
 export const summary = "One-time OAuth consent that mints the read-only Drive refresh token"
 
-import { DRIVE_SCOPES } from "@akasha/drive-google/env"
-import { parseOauthCallbackUrl } from "@akasha/google-oauth/oauth-callback"
+import { DRIVE_SCOPES } from "@akasha/google-drive/env"
 import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
-import type { CommandHelp } from "../../../ops/surface.ts"
+import { parseOauthCallbackUrl } from "@akasha/google-oauth/oauth-callback"
 import { googleOauthConsent } from "../../../lib/google-oauth-consent.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 const REFRESH_TOKEN_VAR = "GOOGLE_DRIVE_OAUTH_REFRESH_TOKEN"
 

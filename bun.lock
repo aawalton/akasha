@@ -410,7 +410,7 @@
       },
     },
     "akasha/google/drive": {
-      "name": "@akasha/drive-google",
+      "name": "@akasha/google-drive",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
         "@akasha/google-oauth": "workspace:*",
@@ -3322,6 +3322,8 @@
 
     "@akasha/browser-test-harness": ["@akasha/browser-test-harness@workspace:akasha/browser/test-harness"],
 
+    "@akasha/google-calendar": ["@akasha/google-calendar@workspace:akasha/google/calendar"],
+
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:akasha/calendar-sync"],
 
     "@akasha/checkout-version": ["@akasha/checkout-version@workspace:akasha/version/checkout"],
@@ -3356,7 +3358,7 @@
 
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
 
-    "@akasha/drive-google": ["@akasha/drive-google@workspace:akasha/google/drive"],
+    "@akasha/google-drive": ["@akasha/google-drive@workspace:akasha/google/drive"],
 
     "@akasha/email-google": ["@akasha/email-google@workspace:akasha/google/email"],
 
@@ -3373,8 +3375,6 @@
     "@akasha/geo-io": ["@akasha/geo-io@workspace:akasha/geo-io"],
 
     "@akasha/git": ["@akasha/git@workspace:akasha/git"],
-
-    "@akasha/google-calendar": ["@akasha/google-calendar@workspace:akasha/google/calendar"],
 
     "@akasha/google-oauth": ["@akasha/google-oauth@workspace:akasha/google/oauth"],
 
