@@ -2867,19 +2867,6 @@
         "react-dom": "^18 || ^19",
       },
     },
-    "temper/game-characters-skills-morphs-addon": {
-      "name": "@temper/game-characters-skills-morphs-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-characters-capture-addon": "workspace:*",
-        "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-skill-morphs": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-companions-ui": {
       "name": "@temper/game-companions-ui",
       "version": "0.1.0",
@@ -4391,8 +4378,6 @@
     "@temper/game-characters-character-ui": ["@temper/game-characters-character-ui@workspace:temper/game-characters-character-ui"],
 
     "@temper/game-characters-equipment-ui": ["@temper/game-characters-equipment-ui@workspace:temper/game-characters-equipment-ui"],
-
-    "@temper/game-characters-skills-morphs-addon": ["@temper/game-characters-skills-morphs-addon@workspace:temper/game-characters-skills-morphs-addon"],
 
     "@temper/game-companions-ui": ["@temper/game-companions-ui@workspace:temper/game-companions-ui"],
 
