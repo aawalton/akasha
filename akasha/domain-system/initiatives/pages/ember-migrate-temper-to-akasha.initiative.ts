@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "A content census settled what no name rule could, 93 rows at `scratchpad/ember/PARITY.md`: 49 folders are landed and duplicated, 13 part-landed, 19 outside, 12 outside this migration, and 14 of the 19 are landable today. `shared-interface-hud-addon` is the leverage, since landed packages name TemperHud where akasha holds no such addon. Of teardowns, 38 clear content and none is proven safe. Typecheck is zero over 17,274 roots; the tree holds 99 refusals.",
+        "A content census settled what no name rule could, 93 rows at `scratchpad/ember/PARITY.md`: 49 folders landed and duplicated, 13 part-landed, 19 outside, 12 outside this migration. Of teardowns, 38 clear content and none is proven safe. The Lua wall is down: 13 of 16 landed addons build to a bundle, the roster reads a manifest at either spelling, and the build writes the tstl settings from the page's bundle entry. Three fail on TS90002 of their own, and one shipping XML stops at the copy step.",
     },
   ],
   constraints: [
