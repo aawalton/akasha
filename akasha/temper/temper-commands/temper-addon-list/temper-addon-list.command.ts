@@ -6,6 +6,7 @@ export const temperAddonList = {
   slug: "temper-addon-list",
   definition: "the command naming every addon source folder the checkout holds",
   code: "ts",
+  test: "ts",
   changeKindSlug: "change-none",
   taking: [
     {
@@ -17,6 +18,7 @@ export const temperAddonList = {
   helpNotes: [
     "both the flat layout and the nested layout are discovered.",
     "the roster is read from the checkout rather than from any list written by hand.",
+    "a checkout holding no addon is refused, since an empty roster and an unreadable one read alike.",
   ],
   invariants: [
     {
@@ -26,6 +28,14 @@ export const temperAddonList = {
     {
       invariantKind: "departure",
       statement: "The roster is read from the checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A checkout holding no addon is refused rather than reported empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each addon is named beside the folder that addon was found in.",
     },
     {
       invariantKind: "absence",
