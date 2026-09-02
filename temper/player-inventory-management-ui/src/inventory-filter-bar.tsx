@@ -1,14 +1,17 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
 import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
 import { FilterButton } from "@akasha/design-patterns/filter-button"
 import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { SortButton } from "@akasha/design-patterns/sort-button"
-import { type SortDirection } from "@akasha/design-patterns/sort-types"
-import { TRAIT_OPTIONS_BY_FAMILY } from "@temper/game-items-rules-core/filters/traits-filter"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import { TRAIT_OPTIONS_BY_FAMILY } from "@akasha/temper-items-rules-core/traits-filter"
 import { useState } from "react"
 import {
   type InventoryViewFilterDef,
