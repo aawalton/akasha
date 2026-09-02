@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's health samples are read from akasha rather than from the old markdown.",
       workingMemory:
-        "Rows die because the pod writes its own checkout and nothing commits. Durability is the service road; `akasha/` is only the toll gate, since `/write` refuses every path outside it. This is a page-type migration on the daily-tracking recipe: mint the akasha type and entry property, move 234 days to `.ts` with 233 `.jsonl` beside them. Whole-file put with a `read` precondition and bounded retry; append is barred because the writer upserts. `sampleRowsAt` restates the rule and refuses at `.part2`.",
+        "Whole-file put with a `read` precondition is proven: 16/16 on a private root naming no remote — `.jsonl` byte-identical over four landings, CAS refuses a stale put without corrupting, lands where no file is, and is per-path, so two days never contend. The move has not begun: 234 pages and 233 rows files are still in `pages/eso-daily-tracking/`. Each is re-slugged, since `2026-01-01` is no export name. Go through `akasha` commands; a hook reverts akasha writes made outside the gate.",
     },
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
