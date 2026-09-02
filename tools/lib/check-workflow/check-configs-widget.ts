@@ -20,9 +20,7 @@ export const WIDGET_MIRROR_CHECKS: CheckConfig[] = [
     // own ios-widget directories emptied and are gone. Bare, like every other
     // `under` in the tree: this is matched against a repo-relative listing as
     // written, so a repo prefix here selects nothing rather than selecting it.
-    dispatchNodeTypes: [
-      { kind: "swift-file", under: "akasha/code-system/ios-component/ios-components" },
-    ],
+    dispatchNodeTypes: [{ kind: "swift-file", under: "akasha/code-system/ios-component/pages" }],
     dispatchNodes: [...CANONICAL_SEEDS, ...DECLARED_SEEDS],
     script: "infra/cluster-checks/src/checks/check-widget-payload-shape-mirror.ts",
   },

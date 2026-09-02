@@ -7,7 +7,7 @@ domain-parent-slug: domain/readout-system
 app-slug: smilingjenny-ios
 group-slugs:
   - surplus
-widget-path: akasha:akasha/code-system/ios-component/ios-components/surplus-ring/surplus-ring.ios-component.swift.swift
+widget-path: akasha:akasha/code-system/ios-component/pages/surplus-ring/surplus-ring.ios-component.swift.swift
 caption: "Alan's Surplus"
 gallery-name: "Surplus"
 gallery-description: "Hours of sleep left after what Alan's day cost."
