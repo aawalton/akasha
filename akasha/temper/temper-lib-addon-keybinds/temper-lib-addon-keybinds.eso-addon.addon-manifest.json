@@ -1,0 +1,12 @@
+{
+  "name": "libAddonKeybinds",
+  "title": "libAddonKeybinds",
+  "description": "Splits Controls – Keybindings menu into Standard Keybinds and Addon Keybinds. Also provides hooks for add-ons to augment keybind settings.",
+  "author": "AlanGaming",
+  "version": "6",
+  "addonVersion": 6,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": [],
+  "dependsOn": [],
+  "optionalDependsOn": ["LibAddonMenu-2.0>=32"]
+}

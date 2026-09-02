@@ -28,6 +28,8 @@ export const temper = {
     "workspace-package/temper-capture-descriptor",
     "eso-addon/temper-lib-alchemy-station",
     "workspace-package/temper-lua-runner",
+    "eso-addon/temper-lib-notification",
+    "eso-addon/temper-lib-addon-keybinds",
   ],
   invariants: [
     {

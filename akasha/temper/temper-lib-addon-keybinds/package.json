@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/temper-lib-addon-keybinds",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./addon-keybinds-bootstrap": "./addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.code.ts",
+    "./addon-keybinds-casts": "./addon-keybinds-casts/addon-keybinds-casts.module.code.ts",
+    "./addon-keybinds-names": "./addon-keybinds-names/addon-keybinds-names.module.code.ts",
+    "./addon-keybinds-list-hooks": "./addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts",
+    "./addon-keybinds-load": "./addon-keybinds-load/addon-keybinds-load.module.code.ts",
+    "./addon-keybinds-menu-entry": "./addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts",
+    "./addon-keybinds-types": "./addon-keybinds-types/addon-keybinds-types.module.code.ts",
+    "./addon-keybinds-strings": "./addon-keybinds-strings/addon-keybinds-strings.module.code.ts",
+    "./addon-keybinds-declarations": "./addon-keybinds-declarations/addon-keybinds-declarations.module.code.ts",
+    "./addon-keybinds-entry": "./addon-keybinds-entry/addon-keybinds-entry.module.code.ts"
+  }
+}
