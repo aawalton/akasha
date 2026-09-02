@@ -13,7 +13,7 @@ import {
   ALL_DESTRUCTIVE_ACTIONS,
   type InventorySafetySettings,
 } from "@temper/game-items-core/inventory-safety-types"
-import type { ShoppingSettings } from "@temper/player-economics-core/shopping-not-available-types"
+import type { ShoppingSettings } from "@akasha/temper-shopping/shopping-settings"
 import { useCallback, useMemo } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"

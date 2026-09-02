@@ -35,9 +35,6 @@
       "path": "../game-items-core"
     },
     {
-      "path": "../player-economics-core"
-    },
-    {
       "path": "../player-inventory-management-ui"
     },
     {

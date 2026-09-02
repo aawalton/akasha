@@ -1,7 +1,7 @@
 import { TTC_AGO } from "@akasha/temper-trading-pricing/ttc-listing-types"
 import { createTTCListingClient } from "@temper/game-trading-pricing-client/ttc-listing-client"
-import { optimizeShopping } from "@temper/player-economics-core/ttc-shopping-optimizer"
-import { type ShoppingItem } from "@temper/player-economics-core/ttc-shopping-types"
+import { optimizeShopping } from "@akasha/temper-shopping/ttc-shopping-optimizer"
+import { type ShoppingItem } from "@akasha/temper-shopping/ttc-shopping-types"
 import type { Route } from "./+types/api.shopping.optimize"
 
 const ttcClient = createTTCListingClient()

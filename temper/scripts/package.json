@@ -26,6 +26,7 @@
     "@akasha/temper-game-catalog-capture-host": "workspace:*",
     "@akasha/temper-races": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
+    "@akasha/temper-shopping": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-trading-listings": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",
@@ -47,7 +48,6 @@
     "@temper/game-trading-pricing-client": "workspace:*",
     "@temper/player-build-validation": "workspace:*",
     "@temper/player-completion": "workspace:*",
-    "@temper/player-economics-core": "workspace:*",
     "@temper/shared-capture-errors-decision-core": "workspace:*",
     "zod": "^4.3.6"
   },

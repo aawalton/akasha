@@ -15,7 +15,7 @@ import {
 } from "@temper/game-items-core/companion-gear-diff"
 import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
-import { needToShoppingKey } from "@temper/player-economics-core/companion-gear-shopping-bridge"
+import { needToShoppingKey } from "@akasha/temper-shopping/companion-gear-shopping-bridge"
 import { useMemo, useState } from "react"
 import {
   type BlendedPriceKey,

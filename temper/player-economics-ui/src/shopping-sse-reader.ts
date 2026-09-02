@@ -1,4 +1,4 @@
-import type { ShoppingPlan } from "@temper/player-economics-core/ttc-shopping-types"
+import type { ShoppingPlan } from "@akasha/temper-shopping/ttc-shopping-types"
 import { z } from "zod"
 
 interface ProgressEvent {

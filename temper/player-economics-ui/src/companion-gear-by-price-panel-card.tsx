@@ -9,7 +9,7 @@ import { companionTraits } from "@temper/game-companions-core/equipment/companio
 import { getQualityClassName } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import type { CompanionGearNeed } from "@temper/game-items-core/companion-gear-diff"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
-import { needToShoppingKey } from "@temper/player-economics-core/companion-gear-shopping-bridge"
+import { needToShoppingKey } from "@akasha/temper-shopping/companion-gear-shopping-bridge"
 import { useMemo, useState } from "react"
 import {
   buildBlendedPriceMap,

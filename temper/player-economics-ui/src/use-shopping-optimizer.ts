@@ -1,7 +1,7 @@
 "use client"
 
 import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
-import type { PurchaseRecommendation, ShoppingItem } from "@temper/player-economics-core/ttc-shopping-types"
+import type { PurchaseRecommendation, ShoppingItem } from "@akasha/temper-shopping/ttc-shopping-types"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { pinLocationIndex, recomputeLocations } from "./shopping-optimizer-helpers"
 import type {

@@ -1,5 +1,5 @@
-import type { ShoppingSettings } from "@temper/player-economics-core/shopping-not-available-types"
-import type { PurchaseRecommendation, ShoppingPlan } from "@temper/player-economics-core/ttc-shopping-types"
+import type { ShoppingSettings } from "@akasha/temper-shopping/shopping-settings"
+import type { PurchaseRecommendation, ShoppingPlan } from "@akasha/temper-shopping/ttc-shopping-types"
 
 type OptimizerStatus = "idle" | "searching" | "complete" | "error"
 

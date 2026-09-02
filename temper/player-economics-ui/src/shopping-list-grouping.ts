@@ -1,7 +1,7 @@
 import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"
 import { getQualityClassName } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import type { CompanionGearNeed } from "@temper/game-items-core/companion-gear-diff"
-import type { ShoppingPlan } from "@temper/player-economics-core/ttc-shopping-types"
+import type { ShoppingPlan } from "@akasha/temper-shopping/ttc-shopping-types"
 import { getCompanionGearItemName, resolveNeedPrice } from "./companion-gear-pricing-helpers"
 import type { MissingItemDisplay } from "./shopping-route-overview-panel-card"
 

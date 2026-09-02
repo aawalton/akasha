@@ -218,12 +218,6 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "temper/player-economics-core": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/player-economics-ui": {
       "entry": [
         "**/*.test.{ts,tsx}"

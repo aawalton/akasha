@@ -1,5 +1,5 @@
 import { kioskLocationName } from "@akasha/temper-trading-pricing/kiosk-location-name"
-import type { PurchaseRecommendation } from "@temper/player-economics-core/ttc-shopping-types"
+import type { PurchaseRecommendation } from "@akasha/temper-shopping/ttc-shopping-types"
 
 export function recomputeLocations(
   purchases: readonly PurchaseRecommendation[]

@@ -107,7 +107,6 @@
     "temper/player-completion-addon",
     "temper/player-completion-skills-morphs-ui",
     "temper/player-completion-ui",
-    "temper/player-economics-core",
     "temper/player-economics-ui",
     "temper/player-inventory-management-ui",
     "temper/player-profile",

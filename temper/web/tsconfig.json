@@ -119,9 +119,6 @@
       "path": "../player-completion-ui"
     },
     {
-      "path": "../player-economics-core"
-    },
-    {
       "path": "../player-economics-ui"
     },
     {
