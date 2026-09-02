@@ -1,8 +1,8 @@
-import { DEFAULT_RULES } from "@temper/game-items-rules-core/default-rules-data"
+import { DEFAULT_RULES } from "@akasha/temper-items-rules-core/default-rules-data"
 import type {
   InventoryRuleSettings,
   ItemAction,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 
 const DEFAULT_RULE_GOALS = new Map(DEFAULT_RULES.map((r) => [r.id, r.goal]))
 
