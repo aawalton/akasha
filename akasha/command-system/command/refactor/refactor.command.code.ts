@@ -290,8 +290,13 @@ export function tokenLanded(
   inStrings: boolean
 ): Answer {
   const every = everyPath(root).filter(compiled)
-  const typed = reachingInto(root, [one.path], [IMPORT], compiled)
-  const made = bindingFor(root, { typed, every, inStrings }, one, bodyTextOf(root, baseOf(root)))
+  const reached = reachingInto(root, [one.path], [IMPORT], compiled)
+  const made = bindingFor(
+    root,
+    { typed: reached, every, inStrings },
+    one,
+    bodyTextOf(root, baseOf(root))
+  )
   if ("refused" in made) return answering([], [made.refused], 1)
   return respelledLanded(
     given,
