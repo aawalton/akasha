@@ -54,6 +54,10 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
+      statement: "A body is opened rather than looked for and then opened.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body that is not text refuses the check reading that body.",
     },
     {

@@ -1,4 +1,4 @@
-import { existsSync, readFileSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { everyPath } from "@akasha/indexes"
 import type { Answering } from "@akasha/indexes/answering"
@@ -7,6 +7,7 @@ import type { Change } from "@akasha/pages-system/change"
 import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
 import { type Loaded, loadedFrom } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
+import { isMissing } from "@akasha/utils-fs/missing"
 import type { Judged, Running } from "../judging/judging.module.code.ts"
 
 export type Body = {
@@ -225,8 +226,12 @@ export function everythingIn(root: string): Change {
 
 export function onDisk(root: string): (path: string) => Uint8Array | null {
   return (path) => {
-    const full = join(root, path)
-    return existsSync(full) ? readFileSync(full) : null
+    try {
+      return readFileSync(join(root, path))
+    } catch (thrown) {
+      if (isMissing(thrown)) return null
+      throw thrown
+    }
   }
 }
 

@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { answeringOver } from "@akasha/indexes/answering"
@@ -351,6 +351,13 @@ const HANDED: Reading = {
 
 test("a reading handed in says which files stand, so a check may ask of the index it will leave", () => {
   expect(everyFileIn(worldOf([PAGE_AT]), HANDED)).toEqual(["akasha/held.ts"])
+})
+
+test("a body that will not open refuses the check reading it rather than reading as nothing", () => {
+  const root = scratch.rootFor("akasha-on-disk-")
+  symlinkSync("b.ts", join(root, "a.ts"))
+  symlinkSync("a.ts", join(root, "b.ts"))
+  expect(() => onDisk(root)("a.ts")).toThrow("ELOOP")
 })
 
 const HANDED_COLD: Reading = { holds: () => false, listing: () => [], lines: () => [] }
