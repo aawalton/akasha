@@ -5,4 +5,14 @@ export const musicCatalog = {
   pageTypeSlug: "domain",
   slug: "music-catalog",
   definition: "the songs and the artists who made them",
+  partSlugs: [
+    "page-type/artist",
+    "page-type/song",
+    "text-property/catalog-tags",
+    "text-property/external-id",
+    "text-property/external-link",
+    "text-property/last-synced-at",
+    "text-property/rating",
+    "text-property/source",
+  ],
 } as const satisfies Domain
