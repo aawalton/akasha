@@ -7,7 +7,7 @@ import type { DispatchedAs } from "./properties/dispatched-as.text-property.ts"
 export type Subagent = Agent & {
   principalSeatName: PrincipalSeatName
   dispatchedAs: DispatchedAs
-  agentId?: AgentId
+  agentId: AgentId
 }
 
 export const subagent = {
@@ -22,7 +22,7 @@ export const subagent = {
   properties: [
     { pagePropertySlug: "principal-seat-name", required: true, many: false },
     { pagePropertySlug: "dispatched-as", required: true, many: false },
-    { pagePropertySlug: "agent-id", required: false, many: false },
+    { pagePropertySlug: "agent-id", required: true, many: false },
   ],
   invariants: [
     {
