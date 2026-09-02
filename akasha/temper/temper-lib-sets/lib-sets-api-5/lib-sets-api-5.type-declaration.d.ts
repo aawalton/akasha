@@ -94,7 +94,12 @@ interface LibSetsApi {
 
   RegisterCustomTooltipHook: (this: void, tooltipControlName: string, addonName: string) => boolean
 
-  SearchUI: LibSetsSearchUIDescriptorExt
+  SearchUI: {
+    name: string
+    controlName: LuaMap<boolean, string>
+    control: LuaMap<boolean, unknown>
+    KeyboardVars: { minWidth: number; minHeight: number }
+  }
 
   searchUIKeyboard?: LibSetsSearchUIKeyboardObject
 
