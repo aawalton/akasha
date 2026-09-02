@@ -8,10 +8,15 @@ export const temperCompanions = {
   pluralSlug: "temper-companionss",
   partSlugs: [
     "page-type/temper-companion-activation-buff",
+    "page-type/temper-companion-armor-slot",
+    "page-type/temper-companion-equipment-quality",
+    "page-type/temper-companion-jewelry-slot",
     "page-type/temper-companion-passive-metric",
     "page-type/temper-companion-role",
     "page-type/temper-companion-skill-slot",
     "page-type/temper-companion-thing",
+    "page-type/temper-companion-weapon-role",
     "page-type/temper-companion-weapon-slot",
+    "page-type/temper-companion-weapon-type",
   ],
 } as const satisfies Domain
