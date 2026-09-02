@@ -1,8 +1,8 @@
 import { askComposed } from "@shared/pages-query/ask"
 import { isJson } from "@akasha/utils-narrow/is-json"
 import type { InventoryRuleSettings } from "@temper/game-items-rules-core/inventory-rule-types"
-import { AutomationSettingsSchema } from "./automation-settings-schema.ts"
-import type { AutomationSettings } from "./automation-types.ts"
+import { AutomationSettingsShape } from "@akasha/temper-inventory-automation/automation-settings-shape"
+import type { AutomationSettings } from "@akasha/temper-inventory-automation/automation-toggles"
 import { createDefaultRuleSettings } from "./game-code.ts"
 import { InventoryRuleSettingsSchema } from "./rule-settings-schema.ts"
 
@@ -121,7 +121,7 @@ export async function readAutomationSettings(accountUserId: string): Promise<Aut
   if (sliceValue === undefined) {
     return { characters: {}, companions: {} }
   }
-  return AutomationSettingsSchema.parse(sliceValue)
+  return AutomationSettingsShape.parse(sliceValue)
 }
 
 export async function writeAutomationSettings(

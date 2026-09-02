@@ -432,6 +432,7 @@
       "dependencies": {
         "@akasha/code-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
+        "@akasha/file-page-identity": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/pages-system": "workspace:*",
         "@akasha/shell": "workspace:*",
@@ -681,6 +682,44 @@
       "name": "@akasha/supabase-server",
       "dependencies": {
         "@supabase/supabase-js": "^2.104.0",
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/temper/temper-addon-build": {
+      "name": "@akasha/temper-addon-build",
+      "dependencies": {
+        "typescript": "5.9.3",
+      },
+    },
+    "akasha/temper/temper-commands": {
+      "name": "@akasha/temper-commands",
+      "dependencies": {
+        "@akasha/command-system": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-dungeons": {
+      "name": "@akasha/temper-dungeons",
+    },
+    "akasha/temper/temper-explain": {
+      "name": "@akasha/temper-explain",
+    },
+    "akasha/temper/temper-inventory-automation": {
+      "name": "@akasha/temper-inventory-automation",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/temper/temper-upstream-data": {
+      "name": "@akasha/temper-upstream-data",
+    },
+    "akasha/temper/temper-watcher": {
+      "name": "@akasha/temper-watcher",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@akasha/utils-process": "workspace:*",
+        "@akasha/utils-run": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -3817,6 +3856,20 @@
     "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:akasha/supabase-rr"],
 
     "@akasha/supabase-server": ["@akasha/supabase-server@workspace:akasha/supabase-server"],
+
+    "@akasha/temper-addon-build": ["@akasha/temper-addon-build@workspace:akasha/temper/temper-addon-build"],
+
+    "@akasha/temper-commands": ["@akasha/temper-commands@workspace:akasha/temper/temper-commands"],
+
+    "@akasha/temper-dungeons": ["@akasha/temper-dungeons@workspace:akasha/temper/temper-dungeons"],
+
+    "@akasha/temper-explain": ["@akasha/temper-explain@workspace:akasha/temper/temper-explain"],
+
+    "@akasha/temper-inventory-automation": ["@akasha/temper-inventory-automation@workspace:akasha/temper/temper-inventory-automation"],
+
+    "@akasha/temper-upstream-data": ["@akasha/temper-upstream-data@workspace:akasha/temper/temper-upstream-data"],
+
+    "@akasha/temper-watcher": ["@akasha/temper-watcher@workspace:akasha/temper/temper-watcher"],
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
 

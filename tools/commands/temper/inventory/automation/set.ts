@@ -5,7 +5,7 @@ import type { CommandHelp } from "../../../../ops/surface.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { type AutomationSettings, inventorySettings } from "../../../../lib/temper-inventory.ts"
-import * as automationSet from "../../../../lib/temper-inventory/automation-set.ts"
+import * as automationSet from "@akasha/temper-inventory-automation/automation-toggle-change"
 
 export const help: CommandHelp = {
   flags: [

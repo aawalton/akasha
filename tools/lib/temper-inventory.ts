@@ -8,7 +8,7 @@ import type {
   AutomationSettings,
   CharacterAutomationToggles,
   CompanionAutomationToggles,
-} from "./temper-inventory/automation-types.ts"
+} from "@akasha/temper-inventory-automation/automation-toggles"
 import {
   readAutomationSettings,
   readInventoryRuleSettings,
