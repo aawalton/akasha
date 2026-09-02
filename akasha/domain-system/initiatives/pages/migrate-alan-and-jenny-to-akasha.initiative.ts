@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's status line shows Claude usage and both readout groups.",
       workingMemory:
-        "The bar draws 6 slots since the values group went at `267f233e10`: session, weekly, upkeep 6, inboxes 3. The stoplights were dark because `pages-system-service` had died at 10:34 under another lane's rename `7f560bc005`, not because the bar was wrong; with it running, all nine draw. Its own reads cost 370ms and 121ms warm and the whole surface medians 484ms, so what Alan calls slow is not these reads. Usage is the one read no held-open server answers.",
+        "The bar is 4th fastest of 8 features in every condition, so what Alan reads as slow is the host frozen under it. Muting the observation write took blocked time 11064ms to 945ms, twice over: `observation-store.ts` looks like an HTTP POST and lands in-process, a 117k-file readdir plus 6 spawnSync git children plus a lock spin, fed by three panels polling at 1s. A 10s minimum between flushes was revert-tested and gave nothing, so the write must leave the loop rather than run less often.",
     },
     {
       statement: "The code editor's four panels each show what akasha holds.",
