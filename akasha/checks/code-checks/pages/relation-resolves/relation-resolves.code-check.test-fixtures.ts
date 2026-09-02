@@ -154,14 +154,15 @@ export function over(
   bodies: Record<string, string | null>
 ): Change {
   const encoder = new TextEncoder()
-  const at = (path: string): Uint8Array | null => {
-    const said = bodies[path]
-    if (said === undefined || said === null) return null
-    return encoder.encode(said)
-  }
   const was = (path: string): Uint8Array | null => {
     const full = join(root, path)
     return existsSync(full) ? new Uint8Array(readFileSync(full)) : null
+  }
+  const at = (path: string): Uint8Array | null => {
+    if (!(path in bodies)) return was(path)
+    const said = bodies[path]
+    if (said === undefined || said === null) return null
+    return encoder.encode(said)
   }
   return { root, changed, after: at, before: was }
 }
