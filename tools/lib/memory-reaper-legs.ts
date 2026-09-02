@@ -8,7 +8,7 @@ export type MemoryKillDecision = {
   reason: string
 }
 
-export const MAX_RSS_GB = 8
+export const MAX_RSS_GB = 32
 
 export type MemoryKillInput = {
   rssKb: number
