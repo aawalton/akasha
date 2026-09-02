@@ -4,9 +4,6 @@
       "path": "./shared/pages-query"
     },
     {
-      "path": "./shared/design-patterns"
-    },
-    {
       "path": "./temper/game-characters-character"
     },
     {
@@ -50,9 +47,6 @@
     },
     {
       "path": "./alanwalton/web"
-    },
-    {
-      "path": "./alanwalton/calendar-sync"
     },
     {
       "path": "./alanwalton/location-traces-access"

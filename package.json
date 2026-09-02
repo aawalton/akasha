@@ -5,7 +5,6 @@
   "workspaces": [
     "akasha/**",
     "alanwalton/atlas-web",
-    "alanwalton/calendar-sync",
     "alanwalton/location-traces-access",
     "alanwalton/web",
     "archive-of-worlds/web",
@@ -47,7 +46,6 @@
     "native-shell/atlas",
     "readouts",
     "shared/auth",
-    "shared/design-patterns",
     "shared/pages-query",
     "shared/pages-ui",
     "shared/utils-test",
