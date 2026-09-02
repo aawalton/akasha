@@ -13,6 +13,10 @@ const UUID_V7 = "uuid-v7"
 
 const ID = "id"
 
+const NEW_PAGE = "a page being created states none of its own"
+
+const NEW_ENTRY = "an entry arriving without one is given one"
+
 const STAMPED = 6
 
 const OVER = 256
@@ -20,6 +24,7 @@ const OVER = 256
 export type Filled = {
   readonly path: string
   readonly keys: readonly string[]
+  readonly why: string
 }
 
 export type Minted = {
@@ -150,7 +155,7 @@ function entriedOnto(shadow: Shadow, changes: readonly FileEdit[]): Minted {
       continue
     }
     held.push({ ...one, body: new TextEncoder().encode(next) })
-    filled.push({ path: one.path, keys: [ID] })
+    filled.push({ path: one.path, keys: [ID], why: NEW_ENTRY })
   }
   return { changes: held, filled }
 }
@@ -195,7 +200,7 @@ export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted 
       continue
     }
     held.push({ ...one, body: new TextEncoder().encode(text) })
-    filled.push({ path: one.path, keys })
+    filled.push({ path: one.path, keys, why: NEW_PAGE })
   }
   return { changes: held, filled: [...entried.filled, ...filled] }
 }

@@ -8,6 +8,8 @@ import type { FileEdit } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
   earlyIn,
+  identified,
+  identifiedOver,
   insertedInto,
   mintedFor,
   mintingOnto,
@@ -151,7 +153,9 @@ test("a page being created is given the value it does not carry", () => {
     ["id", { key: "id", kind: "uuid-v7", afterChecks: false }],
   ])
   const said = mintingOnto(root, [carrying(BODY)])
-  expect(said.filled).toEqual([{ path: AT, keys: ["id"] }])
+  expect(said.filled).toEqual([
+    { path: AT, keys: ["id"], why: "a page being created states none of its own" },
+  ])
   expect(textOf(said.changes)).toMatch(/\{ id: "[0-9a-f-]{36}", pageTypeSlug: "thing"/)
 })
 
@@ -161,7 +165,9 @@ test("a page of a page type landing in the same change is given the value it doe
     { ...carrying(TYPE_BODY), path: TYPE_AT },
     { ...carrying(WIDGET_BODY), path: WIDGET_AT },
   ])
-  expect(said.filled).toEqual([{ path: WIDGET_AT, keys: ["id"] }])
+  expect(said.filled).toEqual([
+    { path: WIDGET_AT, keys: ["id"], why: "a page being created states none of its own" },
+  ])
   expect(textOf(said.changes, WIDGET_AT)).toMatch(/\{ id: "[0-9a-f-]{36}", pageTypeSlug: "widget"/)
 })
 
@@ -200,4 +206,33 @@ test("a path taken away takes no value", () => {
   const said = mintingOnto(root, [{ path: AT, body: null }])
   expect(said.filled).toEqual([])
   expect(said.changes).toEqual([{ path: AT, body: null }])
+})
+
+test("an entry arriving without an id is given one, and the id goes in first", () => {
+  const held: Record<string, unknown> = JSON.parse(identified('{"page": "one"}') ?? "{}")
+  expect(Object.keys(held)).toEqual(["id", "page"])
+  expect(String(held["id"])).toMatch(SHAPE)
+})
+
+test("an entry already carrying an id is left alone", () => {
+  expect(identified(`{"id": "${HELD_ID}", "page": "one"}`)).toBeNull()
+})
+
+test("a line carrying no object is left alone", () => {
+  expect(identified("")).toBeNull()
+  expect(identified("   ")).toBeNull()
+  expect(identified("[1]")).toBeNull()
+  expect(identified("what is no json at all")).toBeNull()
+})
+
+test("only the entries arriving without an id are given one", () => {
+  const said = identifiedOver(`{"page": "one"}\n{"id": "${HELD_ID}", "page": "two"}\n`)
+  const lines = (said ?? "").split("\n")
+  expect(String(JSON.parse(lines[0] ?? "{}")["page"])).toBe("one")
+  expect(String(JSON.parse(lines[1] ?? "{}")["id"])).toBe(HELD_ID)
+  expect(lines[2]).toBe("")
+})
+
+test("a file whose entries all carry an id is left alone", () => {
+  expect(identifiedOver(`{"id": "${HELD_ID}", "page": "one"}\n`)).toBeNull()
 })

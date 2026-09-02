@@ -79,7 +79,7 @@ export function filledSaid(filled: readonly Filled[]): readonly string[] {
   return filled.map(
     (one) =>
       `worked out ${one.keys.map((key) => `\`${key}\``).join(", ")} for ${one.path} as it landed` +
-      " — a page being created states none of its own"
+      ` — ${one.why}`
   )
 }
 
