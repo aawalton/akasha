@@ -18,6 +18,15 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
+      statement: "A rebase says which paths moved between the patch's base and the commit at HEAD.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path moved is a path whose body at HEAD is not the body the patch was built on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body that moved under a draft is merged rather than overwritten.",
     },
     {
