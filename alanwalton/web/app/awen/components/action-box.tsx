@@ -7,7 +7,7 @@ import {
   type ActionBarMessageKind,
   classifyActionBarMessage,
 } from "@akasha/story-engine-core/action-bar-message"
-import type { ClientPendingAction } from "@akasha/story-reader/client-envelope"
+import type { ClientPendingAction } from "@akasha/story-ui/client-envelope"
 import { type FormEvent, useEffect, useState } from "react"
 import { SignedOutNotice } from "~/components/signed-out-notice"
 import { useKeyboardInset } from "../hooks/use-keyboard-inset"

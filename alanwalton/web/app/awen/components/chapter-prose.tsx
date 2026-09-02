@@ -1,6 +1,6 @@
 import { READER_PROSE_TYPOGRAPHY } from "@akasha/pages-ui-components/reader-typography"
-import type { ClientProseSegment } from "@akasha/story-reader/client-story-session"
-import { SystemCard, UnavailableSystemCard } from "@akasha/story-reader/system-card"
+import type { ClientProseSegment } from "@akasha/story-ui/client-story-session"
+import { SystemCard, UnavailableSystemCard } from "@akasha/story-ui/system-card"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { SystemWindowCard } from "./system-window-card"
 

@@ -4,10 +4,10 @@ import type {
   ChapterProsePastTurns,
   ChapterProseTitles,
 } from "@akasha/story-engine-core/game-schema"
-import type { ClientStoryTurn } from "@akasha/story-reader/client-story-session"
-import { NewestDivider } from "@akasha/story-reader/newest-divider"
-import { SessionDivider } from "@akasha/story-reader/session-divider"
-import { projectProseRows } from "@akasha/story-reader/story-prose-dividers"
+import type { ClientStoryTurn } from "@akasha/story-ui/client-story-session"
+import { NewestDivider } from "@akasha/story-ui/newest-divider"
+import { SessionDivider } from "@akasha/story-ui/session-divider"
+import { projectProseRows } from "@akasha/story-ui/story-prose-dividers"
 import { Fragment, type RefObject, useCallback, useEffect, useRef } from "react"
 import { submitReadMark } from "../lib/submit-read-mark"
 import { ChapterProse } from "./chapter-prose"

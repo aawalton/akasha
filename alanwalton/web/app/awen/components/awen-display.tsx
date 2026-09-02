@@ -1,8 +1,8 @@
 "use client"
 
 import type { ResolvedGameDisplay } from "@akasha/story-engine-core/game-schema"
-import { AlertControls } from "@akasha/story-reader/alert-controls"
-import { type SessionEnvelope, SessionEnvelopeSchema } from "@akasha/story-reader/client-envelope"
+import { AlertControls } from "@akasha/story-ui/alert-controls"
+import { type SessionEnvelope, SessionEnvelopeSchema } from "@akasha/story-ui/client-envelope"
 import { useEffect, useState } from "react"
 import { API_ORIGIN } from "~/lib/api-origin"
 import { useContentAlerts } from "../hooks/use-content-alerts"

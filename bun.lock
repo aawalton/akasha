@@ -731,7 +731,7 @@
       },
     },
     "akasha/story/ui": {
-      "name": "@akasha/story-reader",
+      "name": "@akasha/story-ui",
       "dependencies": {
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
@@ -1965,7 +1965,7 @@
         "@akasha/sms-core": "workspace:*",
         "@akasha/status-bar-access": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
-        "@akasha/story-reader": "workspace:*",
+        "@akasha/story-ui": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
@@ -3479,7 +3479,7 @@
 
     "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:akasha/story/engine/core"],
 
-    "@akasha/story-reader": ["@akasha/story-reader@workspace:akasha/story/ui"],
+    "@akasha/story-ui": ["@akasha/story-ui@workspace:akasha/story/ui"],
 
     "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:akasha/supabase-auth"],
 

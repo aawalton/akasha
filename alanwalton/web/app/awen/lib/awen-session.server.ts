@@ -1,5 +1,5 @@
-import type { SessionEnvelope } from "@akasha/story-reader/client-envelope"
-import { composeSessionEnvelope } from "@akasha/story-reader/session-envelope"
+import type { SessionEnvelope } from "@akasha/story-ui/client-envelope"
+import { composeSessionEnvelope } from "@akasha/story-ui/session-envelope"
 import { loadActionInputs } from "./awen-actions.server"
 import { loadLatestState } from "./awen-state.server"
 import { loadStoryLedger } from "./awen-story.server"

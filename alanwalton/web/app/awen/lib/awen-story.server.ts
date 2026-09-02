@@ -1,4 +1,4 @@
-import type { StoryLedger } from "@akasha/story-reader/session-envelope"
+import type { StoryLedger } from "@akasha/story-ui/session-envelope"
 import { unheld } from "~/lib/pages-unheld"
 import type { AwenGameConfig } from "./game.server"
 

@@ -6,10 +6,10 @@ import {
   fireContentNotification,
   notificationPermission,
   requestNotificationPermission,
-} from "@akasha/story-reader/alert-notification"
-import { playAlertSound, primeAudio } from "@akasha/story-reader/alert-sound"
-import type { SessionEnvelope } from "@akasha/story-reader/client-envelope"
-import { decideFrontierAdvance, deriveContentFrontier } from "@akasha/story-reader/content-frontier"
+} from "@akasha/story-ui/alert-notification"
+import { playAlertSound, primeAudio } from "@akasha/story-ui/alert-sound"
+import type { SessionEnvelope } from "@akasha/story-ui/client-envelope"
+import { decideFrontierAdvance, deriveContentFrontier } from "@akasha/story-ui/content-frontier"
 import { useCallback, useEffect, useRef, useState } from "react"
 import type { AwenGame } from "../components/awen-display"
 

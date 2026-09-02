@@ -1,4 +1,4 @@
-import type { PendingActionInput } from "@akasha/story-reader/client-envelope"
+import type { PendingActionInput } from "@akasha/story-ui/client-envelope"
 import { unheld } from "~/lib/pages-unheld"
 import type { AwenGameConfig } from "./game.server"
 
