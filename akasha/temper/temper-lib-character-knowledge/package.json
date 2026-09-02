@@ -47,6 +47,8 @@
     "./knowledge-base-data": "./knowledge-base-data/knowledge-base-data.module.code.ts",
     "./knowledge-curated-motifs": "./knowledge-curated-motifs/knowledge-curated-motifs.module.code.ts",
     "./knowledge-curated-invalid-ids": "./knowledge-curated-invalid-ids/knowledge-curated-invalid-ids.module.code.ts",
-    "./knowledge-curated-style-quality": "./knowledge-curated-style-quality/knowledge-curated-style-quality.module.code.ts"
+    "./knowledge-curated-style-quality": "./knowledge-curated-style-quality/knowledge-curated-style-quality.module.code.ts",
+    "./knowledge-public-api": "./knowledge-public-api/knowledge-public-api.module.code.ts",
+    "./knowledge-main": "./knowledge-main/knowledge-main.module.code.ts"
   }
 }
