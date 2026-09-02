@@ -6,6 +6,7 @@ export const temperAddonResolve = {
   slug: "temper-addon-resolve",
   definition: "the command answering which addon a name reaches",
   code: "ts",
+  test: "ts",
   changeKindSlug: "change-none",
   taking: [
     {
@@ -17,6 +18,7 @@ export const temperAddonResolve = {
   helpNotes: [
     "a canonical name, a flat directory leaf and a nested parent domain all reach the same addon.",
     "a name reaching no addon is refused by name.",
+    "the resolver answers a folder path even for a name no addon carries, so the resolver's answer is checked against the roster first.",
   ],
   invariants: [
     {
@@ -26,6 +28,14 @@ export const temperAddonResolve = {
     {
       invariantKind: "departure",
       statement: "A name reaching no addon is refused by name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The resolver's answer is checked against the roster before that answer is given.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call carrying no name to resolve is refused.",
     },
     {
       invariantKind: "absence",
