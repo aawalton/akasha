@@ -68,6 +68,7 @@ export const pagesUi = {
     "module/resolve-active-sentence",
     "module/save-queue",
     "module/sentence-narration-context",
+    "module/serve-media",
     "module/slash-menu",
     "module/tanstack-live",
     "module/transport-selection",

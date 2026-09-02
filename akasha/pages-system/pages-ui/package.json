@@ -56,6 +56,7 @@
     "./media/playing-session-storage": "./media/playing-session-storage/playing-session-storage.module.code.ts",
     "./media/resolve-active-sentence": "./media/resolve-active-sentence/resolve-active-sentence.module.code.ts",
     "./media/sentence-narration-context": "./media/sentence-narration-context/sentence-narration-context.module.code.tsx",
+    "./media/serve-media": "./media/serve-media/serve-media.module.code.ts",
     "./media/transport-selection": "./media/transport-selection/transport-selection.module.code.ts",
     "./media/use-audio-auto-advance": "./media/use-audio-auto-advance/use-audio-auto-advance.module.code.ts",
     "./media/use-audio-seek-and-play": "./media/use-audio-seek-and-play/use-audio-seek-and-play.module.code.ts",
