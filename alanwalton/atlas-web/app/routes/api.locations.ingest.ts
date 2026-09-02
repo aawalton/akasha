@@ -1,5 +1,5 @@
-import { insertLocationTraces } from "@alanwalton/location-traces-access/trace-insert"
-import { type LocationTraceInsert } from "@alanwalton/location-traces-access/trace-shape"
+import { insertLocationTraces } from "@akasha/location-traces-access/trace-insert"
+import { type LocationTraceInsert } from "@akasha/location-traces-access/trace-shape"
 import { locationBatchSchema } from "~/lib/location-batch"
 import { resolveLocationIngestContext } from "~/lib/location-ingest-context.server"
 import type { Route } from "./+types/api.locations.ingest"

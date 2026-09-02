@@ -5,7 +5,6 @@
   "workspaces": [
     "akasha/**",
     "alanwalton/atlas-web",
-    "alanwalton/location-traces-access",
     "alanwalton/web",
     "archive-of-worlds/web",
     "audhdalan/web",

@@ -20,7 +20,7 @@
     "@akasha/design-primitives": "workspace:*",
     "@akasha/geo-io": "workspace:*",
     "@akasha/id-minting": "workspace:*",
-    "@alanwalton/location-traces-access": "workspace:*",
+    "@akasha/location-traces-access": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
