@@ -36,7 +36,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "All five lanes landed; reaches fell from 105 files to 49, mostly stubs that say so out loud. Correction worth keeping: only KEYED writes refuse for good. The file verbs work, and the new service's `/write` takes puts under `akasha/`, which is what the device-secret writes moved onto. `sms-discard` shouts before answering now. `capture-error` no longer regresses: the `error` page type landed at `2e37f1ecc7`; a report through the real route answered 204 and filed a page.",
+        "Two reach sets were conflated. `@shared/pages-query`, the HTTP client, is heavily stubbed and refuses loudly. `tools/lib/page-query*.ts`, the local engine, is not gutted: 50 files reach it, 0 stubs, and ten unattended daemons sit on them. Seven more match only pure helpers touching no page, which inflates every count. The stoplights cannot come off markdown until the `value` and `persona-day` page types move; the live store refuses both by name.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
