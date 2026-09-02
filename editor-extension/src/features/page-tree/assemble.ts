@@ -126,6 +126,26 @@ function allIds(nodes: readonly PageNode[]): readonly string[] {
 	return nodes.flatMap((node) => [node.id, ...allIds(node.children)]);
 }
 
+// WHICH IDS APPEAR TWICE, COUNTED THROUGH A SET RATHER THAN BY LOOKING EACH ONE UP AGAIN.
+//
+// The check itself is not optional — two rows sharing an id collapse into one row in the editor's
+// tree, and the tree carries about 2,900 of them. What was optional was its cost. Asking the array
+// where each id first sits is a scan per id, four million string comparisons over this corpus, and
+// it measured at 13–19ms of the 18–26ms the whole assembly costs: the most expensive thing the
+// extension host does to a page answer, and it draws nothing. Read through a set it is under 2ms.
+//
+// The ids come back in the order their second occurrence was met, which is the order the scan it
+// replaces returned them in, and they are only ever spelled into the refusal below.
+function repeatedIn(ids: readonly string[]): readonly string[] {
+	const seen = new Set<string>();
+	const twice = new Set<string>();
+	for (const id of ids) {
+		if (seen.has(id)) { twice.add(id); }
+		seen.add(id);
+	}
+	return [...twice];
+}
+
 export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 	const types = new Map<string, TypeRow>();
 	for (const row of answers.types) {
@@ -244,8 +264,7 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 
 	const roots = [...typeRoots, vocabulary];
 
-	const ids = allIds(roots);
-	const repeated = [...new Set(ids.filter((id, at) => ids.indexOf(id) !== at))];
+	const repeated = repeatedIn(allIds(roots));
 	if (repeated.length > 0) {
 		throw new Error(
 			`the page queries answered a shape this cannot read: ` +
