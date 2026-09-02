@@ -81,6 +81,7 @@ export const temperWeb = {
     "module/collapsible-skill-card",
     "module/companion-actions",
     "module/companion-armor-panel-card",
+    "module/companion-automation-panel-card",
     "module/companion-bulk-edit-tag",
     "module/companion-context",
     "module/companion-contexts",
