@@ -16,7 +16,6 @@ export const utilsNarrow = {
     "module/collapse",
     "module/create-data-file",
     "module/delete-record-key",
-    "module/ember-probe-user",
     "module/get-subcategory",
     "module/is-json",
     "module/is-object-record",
