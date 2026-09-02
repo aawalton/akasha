@@ -27,6 +27,14 @@ const DECLARED = ".d.ts"
 
 const OPENING = /^[A-Z]/
 
+const THROUGH = 1
+
+const JOINING = new Set<ts.SyntaxKind>([
+  ts.SyntaxKind.AmpersandAmpersandToken,
+  ts.SyntaxKind.BarBarToken,
+  ts.SyntaxKind.QuestionQuestionToken,
+])
+
 export type Placing = {
   readonly nameFormatSlug: string
   readonly matching: Matching
@@ -63,17 +71,41 @@ function boundToAFunction(node: ts.VariableDeclaration): boolean {
   return ts.isArrowFunction(held) || ts.isFunctionExpression(held)
 }
 
+function drawn(node: ts.Expression, through: number): boolean {
+  const held = heldIn(node)
+  if (ts.isJsxElement(held) || ts.isJsxSelfClosingElement(held) || ts.isJsxFragment(held)) {
+    return true
+  }
+  if (ts.isParenthesizedExpression(held)) return drawn(held.expression, through)
+  if (ts.isConditionalExpression(held)) {
+    return drawn(held.whenTrue, through) || drawn(held.whenFalse, through)
+  }
+  if (ts.isBinaryExpression(held) && JOINING.has(held.operatorToken.kind)) {
+    return drawn(held.left, through) || drawn(held.right, through)
+  }
+  if (ts.isArrayLiteralExpression(held)) {
+    return held.elements.some((one) => drawn(one, through))
+  }
+  if (ts.isCallExpression(held) && through > 0) {
+    return held.arguments.some((one) => drawn(one, through - 1))
+  }
+  return false
+}
+
 export function drawing(node: ts.Node): boolean {
+  const working = workingIn(node)
+  if (working === null) return false
+  if (!ts.isBlock(working.body)) return drawn(working.body as ts.Expression, THROUGH)
   let found = false
   const walk = (each: ts.Node): undefined => {
-    if (found) return
-    if (ts.isJsxElement(each) || ts.isJsxSelfClosingElement(each) || ts.isJsxFragment(each)) {
-      found = true
+    if (found || ts.isFunctionLike(each)) return
+    if (ts.isReturnStatement(each)) {
+      if (each.expression !== undefined && drawn(each.expression, THROUGH)) found = true
       return
     }
     ts.forEachChild(each, walk)
   }
-  walk(node)
+  walk(working.body)
   return found
 }
 

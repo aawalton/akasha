@@ -55,7 +55,23 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A function whose body holds a JSX element is judged as a component.",
+      statement: "A function is judged a component by what the function answers with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An element is drawn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A list of elements is drawn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An element handed to a call is drawn where the call answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A function answering with an object holding elements draws nothing.",
     },
     {
       invariantKind: "constraint",

@@ -309,6 +309,30 @@ test("a declaration file states names another writer chose, so none of them is j
   expect(refusedIn(AT, body, PLACES)).toHaveLength(1)
 })
 
+test("a function answering with an object holding an element draws nothing", () => {
+  const held = "export function heldOver() {\n  return { slot: <p>one</p> }\n}\n"
+  const over = "export function HeldOver() {\n  return { slot: <p>one</p> }\n}\n"
+  expect(refusedIn(DRAWN_AT, held, PLACES)).toEqual([])
+  const said = refusedIn(DRAWN_AT, over, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the function `HeldOver`")
+})
+
+test("an element a nested function answers with belongs to the nested function", () => {
+  const held =
+    "export function heldOver() {\n  const DrawOne = () => <p>one</p>\n  return DrawOne\n}\n"
+  expect(refusedIn(DRAWN_AT, held, PLACES)).toEqual([])
+})
+
+test("a list, a call and a condition each carry what a function answers with", () => {
+  const list = 'export function HeldOver() {\n  return [<p key="one">one</p>]\n}\n'
+  const call = "export function HeldOver() {\n  return holding(<p>one</p>, at)\n}\n"
+  const held = "export function HeldOver(one: boolean) {\n  return one ? <p>one</p> : null\n}\n"
+  expect(refusedIn(DRAWN_AT, list, PLACES)).toEqual([])
+  expect(refusedIn(DRAWN_AT, call, PLACES)).toEqual([])
+  expect(refusedIn(DRAWN_AT, held, PLACES)).toEqual([])
+})
+
 test("the formats judged are the ones the place pages state", () => {
   expect(typeIdentifier.nameFormatSlug).toBe("name-format/upper-camel-case")
   expect(functionIdentifier.nameFormatSlug).toBe("name-format/lower-camel-case")
