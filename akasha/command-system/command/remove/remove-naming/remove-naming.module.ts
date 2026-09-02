@@ -49,8 +49,24 @@ export const removeNaming = {
       statement: "Nothing here reads the index.",
     },
     {
+      invariantKind: "departure",
+      statement: "A path is looked for whole and by the last part of that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A finding naming what goes is answered apart from the rest.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A finding is a record of what was so rather than a file to repoint.",
+    },
+    {
       invariantKind: "gap",
       statement: "A body reaching what goes by a name of its own is found.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A body building a path out of pieces is found as one spelling that path whole.",
     },
   ],
 } as const satisfies Module
