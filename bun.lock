@@ -1818,12 +1818,6 @@
     },
     "akasha/temper/temper-upstream-data": {
       "name": "@akasha/temper-upstream-data",
-      "dependencies": {
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-lua-runner": "workspace:*",
-        "@akasha/utils-run": "workspace:*",
-        "@infra/git-porcelain": "workspace:*",
-      },
     },
     "akasha/temper/temper-watcher": {
       "name": "@akasha/temper-watcher",
