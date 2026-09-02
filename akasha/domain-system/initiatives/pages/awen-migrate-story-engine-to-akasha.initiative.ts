@@ -11,7 +11,7 @@ export const awenMigrateStoryEngineToAkasha = {
     {
       statement: "Every world, story, chapter and turn the story engine keeps is a page in akasha.",
       workingMemory:
-        "All 149 worlds are pages under `akasha/story/worlds/pages`, with the-wandering-inn's 11,411 readings as entries, and the markdown they came from went at `09a6112fe2`. Every id was a uuid v5 and is re-minted v7 keeping its last eight hex. What let the fiction through the taboo gate is `runsTabooCheck` on a page type. The old world page type stays until the two dozen kinds naming it move. Story, game, turn and chapter have no page type yet, each a copy of what `world` did.",
+        "149 worlds and the 13 stories Alan played are pages, their markdown gone at `09a6112fe2` and `d34c77b0aa`. `story-played` extends `collection`, which another lane landed today, so position, part-of-slugs, published-at and unit-slug come free. Left: 123 chapters, 139 turns, 8 games. Every chapter and turn already resolves to a landed story. A page type lands before its pages, since the taboo flag is read from the index. Ids are v5 and re-mint to v7 keeping the last eight hex.",
     },
     {
       statement: "No part of a story or a world exists only in the database.",
