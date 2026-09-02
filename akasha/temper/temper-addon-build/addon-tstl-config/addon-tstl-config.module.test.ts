@@ -63,6 +63,7 @@ test("the written settings name the entry, the bundle and the repository root", 
     },
     include: [
       "/repo/akasha/temper/temper-lib-table-functions/**/*.module.code.ts",
+      "/repo/akasha/temper/temper-lib-table-functions/**/*.d.ts",
       "/repo/akasha/temper/temper-eso-types/**/*.d.ts",
       "/repo/akasha/temper/temper-addon-library-types/**/*.d.ts",
     ],

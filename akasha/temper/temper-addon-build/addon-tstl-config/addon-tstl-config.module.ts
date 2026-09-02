@@ -27,6 +27,10 @@ export const addonTstlConfig = {
     },
     {
       invariantKind: "departure",
+      statement: "The written settings reach every declaration the addon folder holds.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The game's own names are described by the akasha packages of declarations.",
     },
     {

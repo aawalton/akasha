@@ -13,6 +13,8 @@ const HELD_AT = "dist/.tstl"
 
 const CODE_UNDER = `**/*${CODE_SUFFIX}`
 
+const OWN_DECLARATIONS_UNDER = "**/*.d.ts"
+
 const DECLARATIONS_UNDER = [
   "akasha/temper/temper-eso-types/**/*.d.ts",
   "akasha/temper/temper-addon-library-types/**/*.d.ts",
@@ -107,6 +109,7 @@ export function tstlConfigBody(asked: TstlConfigAsked): string {
     },
     include: [
       join(asked.addonDir, CODE_UNDER),
+      join(asked.addonDir, OWN_DECLARATIONS_UNDER),
       ...DECLARATIONS_UNDER.map((one) => join(asked.repoRoot, one)),
     ],
   }
