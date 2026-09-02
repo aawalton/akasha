@@ -20,6 +20,7 @@ export const modelGateway = {
     "module/fast-mode-strip",
     "module/forced-tool-choice",
     "module/forward",
+    "module/fresh-credential",
     "module/hold-registry",
     "module/idle-timeout",
     "module/in-flight",
