@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/temper-interface-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./assistant-collectibles": "./assistant-collectibles/assistant-collectibles.module.code.ts",
+    "./assistant-bindings": "./assistant-bindings/assistant-bindings.module.code.ts",
+    "./assistant-entry": "./assistant-entry/assistant-entry.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-eso-types": "workspace:*"
+  }
+}

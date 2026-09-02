@@ -27,3 +27,5 @@ declare const zo_strgmatch: (
 ) => LuaIterable<LuaMultiReturn<[string]>>
 
 declare const zo_strtrim: (this: void, text: string) => string
+
+declare const SI_COLLECTIBLE_NAME_FORMATTER: number
