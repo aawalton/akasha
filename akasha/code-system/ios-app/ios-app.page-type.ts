@@ -1,5 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { WorkspacePackage } from "../workspace-package/workspace-package.page-type.ts"
+import type { AscCapabilities } from "./properties/asc-capabilities.text-property.ts"
 import type { BuildScript } from "./properties/build-script.relation-property.ts"
 import type { BundleId } from "./properties/bundle-id.text-property.ts"
 import type { CapacitorConfig } from "./properties/capacitor-config.file-property.ts"
@@ -11,8 +12,10 @@ import type { IconPath } from "./properties/icon-path.text-property.ts"
 import type { SpaSourcePath } from "./properties/spa-source-path.text-property.ts"
 import type { StageScript } from "./properties/stage-script.relation-property.ts"
 import type { WebEntry } from "./properties/web-entry.file-property.ts"
+import type { WebEnvPath } from "./properties/web-env-path.text-property.ts"
 
 export type IosApp = WorkspacePackage & {
+  ascCapabilities?: AscCapabilities
   buildScript?: BuildScript
   bundleId: BundleId
   capacitorConfig: CapacitorConfig
@@ -24,6 +27,7 @@ export type IosApp = WorkspacePackage & {
   spaSourcePath?: SpaSourcePath
   stageScript?: StageScript
   webEntry?: WebEntry
+  webEnvPath?: WebEnvPath
 }
 
 export const iosApp = {
@@ -48,14 +52,17 @@ export const iosApp = {
     "shell-script/stage-web-entry",
     "shell-script/widget-components",
     "shell-script/write-capacitor-config",
+    "text-property/asc-capabilities",
     "text-property/bundle-id",
     "text-property/development-team",
     "text-property/display-name",
     "text-property/icon-path",
     "text-property/spa-source-path",
+    "text-property/web-env-path",
   ],
   extendsSlug: "page-type/workspace-package",
   properties: [
+    { pagePropertySlug: "asc-capabilities", required: false, many: true, max: null },
     { pagePropertySlug: "build-script", required: false, many: false },
     { pagePropertySlug: "bundle-id", required: true, many: false },
     { pagePropertySlug: "capacitor-config", required: true, many: false },
@@ -67,6 +74,7 @@ export const iosApp = {
     { pagePropertySlug: "spa-source-path", required: false, many: false },
     { pagePropertySlug: "stage-script", required: false, many: false },
     { pagePropertySlug: "web-entry", required: false, many: false },
+    { pagePropertySlug: "web-env-path", required: false, many: false },
   ],
   invariants: [
     {

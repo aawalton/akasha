@@ -6,6 +6,7 @@ export const smilingjenny = {
   slug: "smilingjenny",
   definition: "the app on Jenny's phone and the shell it runs in",
   manifest: "json",
+  ascCapabilities: ["PUSH_NOTIFICATIONS"],
   bundleId: "me.smilingjenny.app",
   buildScript: "shell-script/build-sim",
   capacitorConfig: "json",

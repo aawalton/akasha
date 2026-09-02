@@ -6,6 +6,7 @@ export const alanwalton = {
   slug: "alanwalton",
   definition: "the app on Alan's phone and the shell it runs in",
   manifest: "json",
+  ascCapabilities: ["PUSH_NOTIFICATIONS", "HEALTHKIT"],
   buildScript: "shell-script/build-sim",
   bundleId: "com.alanwalton.app",
   capacitorConfig: "json",
@@ -16,6 +17,7 @@ export const alanwalton = {
   iconPath: "native-shell/alanwalton/ios-icon/AppIcon-1024.png",
   spaSourcePath: "alanwalton/web",
   stageScript: "shell-script/alanwalton-stage-app",
+  webEnvPath: "alanwalton/web/.env.local",
   partSlugs: [
     "ios-program/alanwalton-app",
     "ios-program/alanwalton-decode-harness",
