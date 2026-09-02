@@ -2,7 +2,8 @@ interface EventManager {
   RegisterForEvent: <T extends unknown[] = unknown[]>(
     namespace: string,
     event: number,
-    callback: (eventCode: number, ...args: T) => void
+    callback: (eventCode: number, ...args: T) => void,
+    registerOnce?: boolean
   ) => boolean
   UnregisterForEvent: (namespace: string, event: number) => boolean
   AddFilterForEvent: (
