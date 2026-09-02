@@ -9,7 +9,6 @@ import { functionIdentifier } from "@akasha/pages-system/name-place/function-ide
 import { typeIdentifier } from "@akasha/pages-system/name-place/type-identifier"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { partedIn } from "@akasha/pages-system/page-file-name"
-import { shadowAt } from "@akasha/pages-system/shadow"
 import ts from "typescript"
 import {
   bodyOf,
@@ -259,7 +258,7 @@ export function placesIn(
 const refusalsIn: Running = (change, shadow) => {
   const wanted = change.changed.some((one) => one.startsWith(INSIDE) && textNamed(one))
   if (!wanted) return []
-  const places = placesIn(change.root, shadowAt(change.root).index, shadow.codeAt)
+  const places = placesIn(change.root, shadow.index, shadow.codeAt)
   return overEachFile(change, (given) => {
     if (!given.path.startsWith(INSIDE) || !textNamed(given.path)) return []
     return refusedIn(given.path, bodyOf(given), places)
