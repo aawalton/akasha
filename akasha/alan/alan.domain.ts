@@ -9,7 +9,7 @@ export const alan = {
     "domain/alan-harness",
     "domain/music",
     "page-type/daily-tracking",
-    "page-type/eso-daily-tracking",
+    "page-type/eso-day",
     "workspace-package/alan-web",
     "workspace-package/chess",
   ],

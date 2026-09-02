@@ -9,7 +9,7 @@ export const HEALTH_SAMPLE_PAGE_TYPE = "health-sample"
 
 export const SAMPLE_ROWS_KEY = "health-samples"
 
-export const DAYS_KEPT_IN = "akasha/alan/eso-daily-tracking/eso-daily-trackings"
+export const DAYS_KEPT_IN = "akasha/alan/eso-day/eso-daily-trackings"
 
 export const DAY_SLUG_PREFIX = "eso-day-"
 
