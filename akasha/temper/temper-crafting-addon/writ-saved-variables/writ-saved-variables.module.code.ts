@@ -3,7 +3,6 @@ import {
   SAVED_VARIABLES_NAME,
 } from "../writ-constants/writ-constants.module.code.ts"
 import { str } from "../writ-i18n/writ-i18n.module.code.ts"
-import type { WritSavedChariable } from "../writ-writworthy-global/writ-writworthy-global.module.code.ts"
 
 export const WW_DEFAULT: {
   log?: unknown

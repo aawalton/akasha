@@ -7,7 +7,6 @@ import { newSmithingParser } from "../writ-smith-parser/writ-smith-parser.module
 import type { KnowList, MatList, Parser } from "../writ-types/writ-types.module.code.ts"
 import { fail, round } from "../writ-util/writ-util.module.code.ts"
 import { toWritFields } from "../writ-writ-fields/writ-writ-fields.module.code.ts"
-import type { TemperWritSavedVariables } from "../writ-writworthy-global/writ-writworthy-global.module.code.ts"
 
 type ParserFactory = (this: void) => Parser
 

@@ -1,11 +1,14 @@
 import { ADDON_NAME, ADDON_VERSION } from "../writ-constants/writ-constants.module.code.ts"
-import type { TemperWritGlobal } from "../writ-writworthy-global/writ-writworthy-global.module.code.ts"
 
-declare global {
-  var TemperWrit: TemperWritGlobal
+interface WritGlobalTable {
+  TemperWrit: TemperWritGlobal
 }
 
-globalThis.TemperWrit = {
+function asGlobalTable(this: void, value: unknown): WritGlobalTable {
+  return value as WritGlobalTable
+}
+
+asGlobalTable(globalThis).TemperWrit = {
   name: ADDON_NAME,
   version: ADDON_VERSION,
 }

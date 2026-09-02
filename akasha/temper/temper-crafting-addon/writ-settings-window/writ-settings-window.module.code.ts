@@ -1,6 +1,5 @@
 import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { ADDON_NAME, ADDON_VERSION } from "../writ-constants/writ-constants.module.code.ts"
-import type { TemperWritSavedVariables } from "../writ-writworthy-global/writ-writworthy-global.module.code.ts"
 
 function savedVars(): TemperWritSavedVariables {
   const sv = TemperWrit.savedVariables

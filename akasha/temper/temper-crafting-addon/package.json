@@ -176,7 +176,7 @@
     "./writ-ui-strings-static": "./writ-ui-strings-static/writ-ui-strings-static.module.code.ts",
     "./writ-util": "./writ-util/writ-util.module.code.ts",
     "./writ-writ-fields": "./writ-writ-fields/writ-writ-fields.module.code.ts",
-    "./writ-writworthy-global": "./writ-writworthy-global/writ-writworthy-global.module.code.ts"
+    "./writ-writworthy-global": "./writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
   },
   "dependencies": {
     "@akasha/temper-addon-init": "workspace:*",

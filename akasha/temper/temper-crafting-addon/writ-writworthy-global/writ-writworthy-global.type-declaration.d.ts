@@ -1,22 +1,10 @@
-import type { AlchemyNamespace } from "../writ-alchemy-data/writ-alchemy-data.module.code.ts"
-import type { EnchantingNamespace } from "../writ-enchanting-parser/writ-enchanting-parser.module.code.ts"
-import type { KnowNamespace } from "../writ-know/writ-know.module.code.ts"
-import type { LogNamespace } from "../writ-log/writ-log.module.code.ts"
-import type { MatRowNamespace } from "../writ-mat-row/writ-mat-row.module.code.ts"
-import type { ProfilerNamespace } from "../writ-profiler/writ-profiler.module.code.ts"
-import type { ProvisioningNamespace } from "../writ-prov-data/writ-prov-data.module.code.ts"
-import type { RequiredSkillNamespace } from "../writ-required-skill/writ-required-skill.module.code.ts"
-import type { SmithingNamespace } from "../writ-smithing/writ-smithing.module.code.ts"
-import type { GoldAmount } from "../writ-types/writ-types.module.code.ts"
-import type { UtilNamespace } from "../writ-util/writ-util.module.code.ts"
-
-export interface WritSavedChariable {
+interface WritSavedChariable {
   STATE?: string | undefined
   use_mimic?: boolean
   last_seen_ts?: number | undefined
 }
 
-export interface TemperWritSavedVariables {
+interface TemperWritSavedVariables {
   filter_max_gold_per_voucher?: number | undefined
   enable_banked_vouchers?: boolean
   enable_station_colors?: boolean
@@ -32,29 +20,29 @@ export interface TemperWritSavedVariables {
   [key: string]: unknown
 }
 
-export interface TemperWritSavedChariables {
+interface TemperWritSavedChariables {
   writ_unique_id?: Record<string, WritSavedChariable | undefined>
   [key: string]: unknown
 }
 
-export interface TemperWritGlobal {
+interface TemperWritGlobal {
   name: string
   version: string
 
-  Util?: UtilNamespace
-  Log?: LogNamespace
+  Util?: import("../writ-util/writ-util.module.code.ts").UtilNamespace
+  Log?: import("../writ-log/writ-log.module.code.ts").LogNamespace
   Logger?: typeof import("../writ-log/writ-log.module.code.ts").logger
   LogOne?: typeof import("../writ-log/writ-log.module.code.ts").logOne
   LogOneWarnError?: typeof import("../writ-log/writ-log.module.code.ts").logOneWarnError
-  Know?: KnowNamespace
-  MatRow?: MatRowNamespace
-  Profiler?: ProfilerNamespace
+  Know?: import("../writ-know/writ-know.module.code.ts").KnowNamespace
+  MatRow?: import("../writ-mat-row/writ-mat-row.module.code.ts").MatRowNamespace
+  Profiler?: import("../writ-profiler/writ-profiler.module.code.ts").ProfilerNamespace
 
-  Alchemy?: AlchemyNamespace
-  Enchanting?: EnchantingNamespace
-  Provisioning?: ProvisioningNamespace
-  Smithing?: SmithingNamespace
-  RequiredSkill?: RequiredSkillNamespace
+  Alchemy?: import("../writ-alchemy-data/writ-alchemy-data.module.code.ts").AlchemyNamespace
+  Enchanting?: import("../writ-enchanting-parser/writ-enchanting-parser.module.code.ts").EnchantingNamespace
+  Provisioning?: import("../writ-prov-data/writ-prov-data.module.code.ts").ProvisioningNamespace
+  Smithing?: import("../writ-smithing/writ-smithing.module.code.ts").SmithingNamespace
+  RequiredSkill?: import("../writ-required-skill/writ-required-skill.module.code.ts").RequiredSkillNamespace
 
   Str?: typeof import("../writ-i18n/writ-i18n.module.code.ts").str
   SI?: typeof import("../writ-i18n/writ-i18n.module.code.ts").si
@@ -116,7 +104,9 @@ export interface TemperWritGlobal {
   savedVariables?: TemperWritSavedVariables
   savedChariables?: TemperWritSavedChariables
 
-  GOLD_UNKNOWN?: GoldAmount
+  GOLD_UNKNOWN?: import("../writ-types/writ-types.module.code.ts").GoldAmount
 
   [key: string]: unknown
 }
+
+declare const TemperWrit: TemperWritGlobal
