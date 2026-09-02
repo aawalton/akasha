@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theReadRecordRunsOnNoTimer = {
+  id: "01a0623f-375c-7d09-a6c2-3f730eb3be15",
+  pageTypeSlug: "finding",
+  slug: "the-read-record-runs-on-no-timer",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "The read record runs on no timer. A write gate cleared by reads taken 12 minutes 22 seconds earlier was still admitted, six times the two-minute expiry that `a-read-the-harness-saves-to-a-file-is-recorded-as-read` builds its remedy on. What empties the record is a sibling subagent starting, which takes it from every seat at once. So the dilemma that finding describes is not forced, and the horn it chose is the one that loses the bodies.",
+  evidence:
+    "Measured 2026-09-02 on the akasha checkout. A sixteen-file closure was cleared by four separate `akasha read` calls, the last finishing at or before 06:58:12, timed by the mtime of a scratch file written immediately after it. `akasha edit --dry-run` over the warranted path was then admitted at 07:10:34, all 36 checks clear. That is 12 minutes 22 seconds later, with about ten intervening tool calls, several of them long reads.\n\nWhy it matters. That finding reasons the record expires in about two minutes and a round trip between the read and the write loses it, and concludes a seat must either read few enough pages to fit one answer or batch every read into one shell call and let the harness swallow most of them. Its own measurement shows what the second choice costs: twenty bodies recorded, two delivered. With no timer running, the choice is imaginary. Several small reads, each delivered whole, then the write, is available, and is what this measurement used.\n\nThe record is fragile on a different mechanism. It was emptied five times tonight across two seats, every time at a sibling subagent's startup, never on a clock. Batching is no defence against that either, since a wipe mid-batch loses the batch too. What works is re-running the dry-run after each tranche and taking the debt from the write's own refusal rather than from the read's trailing count of what it left unread.\n\nBoth instruments are cheap: `stat -c %y` on a scratch file written beside the read, and `date` beside the gate. Neither was reached for before, and the wrong mechanism was inferred from the wipes being frequent rather than from any interval being timed.",
+} as const satisfies Finding
