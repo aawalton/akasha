@@ -31,6 +31,7 @@ export const designPatterns = {
     "module/log-viewer",
     "module/lucide-icon",
     "module/path",
+    "module/query-error-boundary",
     "module/responsive-overlay",
     "module/search-button",
     "module/search-sort-filter-row",

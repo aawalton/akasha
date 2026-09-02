@@ -27,6 +27,7 @@
     "./log-viewer": "./log-viewer/log-viewer.module.code.tsx",
     "./lucide-icon": "./lucide-icon/lucide-icon.module.code.tsx",
     "./path": "./path/path.module.code.ts",
+    "./query-error-boundary": "./query-error-boundary/query-error-boundary.module.code.tsx",
     "./responsive-overlay": "./responsive-overlay/responsive-overlay.module.code.tsx",
     "./search-button": "./search-button/search-button.module.code.tsx",
     "./search-sort-filter-row": "./search-sort-filter-row/search-sort-filter-row.module.code.tsx",
