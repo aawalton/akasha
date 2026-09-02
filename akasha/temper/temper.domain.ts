@@ -7,6 +7,7 @@ export const temper = {
   definition: "a companion suite for The Elder Scrolls Online",
   pluralSlug: "tempers",
   partSlugs: [
+    "workspace-package/temper-character-build",
     "workspace-package/temper-lorebooks",
     "workspace-package/temper-characters-equipment",
     "workspace-package/temper-characters-stats",

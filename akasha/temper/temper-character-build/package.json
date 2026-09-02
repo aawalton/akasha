@@ -1,0 +1,22 @@
+{
+  "name": "@akasha/temper-character-build",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./build-factory": "./build-factory/build-factory.module.code.ts",
+    "./build-types": "./build-types/build-types.module.code.ts",
+    "./race-source": "./race-source/race-source.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-alchemy": "workspace:*",
+    "@akasha/temper-champion-points": "workspace:*",
+    "@akasha/temper-character-skills": "workspace:*",
+    "@akasha/temper-character-sources": "workspace:*",
+    "@akasha/temper-characters-equipment": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/temper-races": "workspace:*",
+    "@akasha/temper-skill-kinds": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

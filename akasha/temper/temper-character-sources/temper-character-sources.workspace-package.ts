@@ -21,6 +21,7 @@ export const temperCharacterSources = {
     "module/food-source",
     "module/drink-source",
     "module/food-or-drink-source",
+    "module/mundus-source",
   ],
   invariants: [
     {

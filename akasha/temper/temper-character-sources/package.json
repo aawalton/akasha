@@ -13,11 +13,13 @@
     "./eso-plus-source": "./eso-plus-source/eso-plus-source.module.code.ts",
     "./food-or-drink-source": "./food-or-drink-source/food-or-drink-source.module.code.ts",
     "./food-source": "./food-source/food-source.module.code.ts",
+    "./mundus-source": "./mundus-source/mundus-source.module.code.ts",
     "./target-armors": "./target-armors/target-armors.module.code.ts",
     "./target-source": "./target-source/target-source.module.code.ts",
     "./vampire-stages": "./vampire-stages/vampire-stages.module.code.ts"
   },
   "dependencies": {
+    "@akasha/temper-characters-equipment": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/utils-narrow": "workspace:*"
   }
