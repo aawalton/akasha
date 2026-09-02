@@ -1,0 +1,19 @@
+{
+  "name": "TemperCombat",
+  "title": "Temper Combat",
+  "description": "Fight recording and combat performance analysis (CombatMetrics port) for Temper",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101041", "101042", "101049"],
+  "savedVariables": ["TemperCombat_Save", "TemperCombat_FightData", "TemperActions_SavedVariables"],
+  "dependsOn": ["LibAddonMenu-2.0", "LibCustomMenu", "LibDataEncode"],
+  "optionalDependsOn": ["LibDebugLogger"],
+  "xmlFiles": {
+    "afterBundle": [
+      "TemperCombat_Templates.xml",
+      "TemperCombat_Report.xml",
+      "TemperCombat_LiveReport.xml"
+    ]
+  }
+}

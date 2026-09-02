@@ -1,0 +1,1595 @@
+<GuiXml>
+
+	<Controls>
+		<Label name="TemperCombat_LabelFontControl" font="ZoFontGameSmall" virtual="true">
+
+			<Controls>
+				<Control name="$(parent)Font">
+					<Anchor point="TOPLEFT" />
+					<Dimensions x="0" y="0" />
+					<OnInitialized>
+						self.font = {GetString(SI_TEMPER_COMBAT_BOLD_FONT), GetString(SI_TEMPER_COMBAT_FONT_SIZE), "soft-shadow-thin"}
+						self:GetParent():SetFont(string.format("%s|%s|%s", unpack(self.font)))
+					</OnInitialized>
+				</Control>
+			</Controls>
+
+		</Label>
+
+		<Button name="TemperCombat_ButtonFontControl" font="ZoFontGameSmall" virtual="true">
+
+			<Controls>
+				<Control name="$(parent)Font">
+					<Anchor point="TOPLEFT" />
+					<Dimensions x="0" y="0" />
+					<OnInitialized>
+						self.font = {GetString(SI_TEMPER_COMBAT_BOLD_FONT), GetString(SI_TEMPER_COMBAT_FONT_SIZE), "soft-shadow-thin"}
+						self:GetParent():SetFont(string.format("%s|%s|%s", unpack(self.font)))
+					</OnInitialized>
+				</Control>
+			</Controls>
+
+		</Button>
+
+		<Label name="TemperCombat_ValueFontControl" font="ZoFontGameSmall" virtual="true">
+
+			<Controls>
+				<Control name="$(parent)Font">
+					<Anchor point="TOPLEFT" />
+					<Dimensions x="0" y="0" />
+					<OnInitialized>
+						self.font = {GetString(SI_TEMPER_COMBAT_STD_FONT), GetString(SI_TEMPER_COMBAT_FONT_SIZE), "soft-shadow-thin"}
+						self:GetParent():SetFont(string.format("%s|%s|%s", unpack(self.font)))
+					</OnInitialized>
+				</Control>
+			</Controls>
+
+		</Label>
+
+		<Label name="TemperCombat_ValueFontSmallControl" font="ZoFontGameSmall" virtual="true">
+
+			<Controls>
+				<Control name="$(parent)Font">
+					<Anchor point="TOPLEFT" />
+					<Dimensions x="0" y="0" />
+					<OnInitialized>
+						self.font = {GetString(SI_TEMPER_COMBAT_STD_FONT), GetString(SI_TEMPER_COMBAT_FONT_SIZE_SMALL), "soft-shadow-thin"}
+						self:GetParent():SetFont(string.format("%s|%s|%s", unpack(self.font)))
+					</OnInitialized>
+				</Control>
+			</Controls>
+
+		</Label>
+
+		<Label name="TemperCombat_InfoFontControl" font="ZoFontGameSmall" virtual="true">
+
+			<Controls>
+				<Control name="$(parent)Font">
+					<Anchor point="TOPLEFT" />
+					<Dimensions x="0" y="0" />
+					<OnInitialized>
+						self.font = {GetString(SI_TEMPER_COMBAT_STD_FONT), GetString(SI_TEMPER_COMBAT_FONT_SIZE_TITLE), "soft-shadow-thin"}
+						self:GetParent():SetFont(string.format("%s|%s|%s", unpack(self.font)))
+					</OnInitialized>
+				</Control>
+			</Controls>
+
+		</Label>
+
+		<Label name="TemperCombat_TitleFontControl" font="ZoFontGameSmall" virtual="true">
+
+			<Controls>
+				<Control name="$(parent)Font">
+					<Anchor point="TOPLEFT" />
+					<Dimensions x="0" y="0" />
+					<OnInitialized>
+						self.font = {GetString(SI_TEMPER_COMBAT_BOLD_FONT), GetString(SI_TEMPER_COMBAT_FONT_SIZE_TITLE), "soft-shadow-thin"}
+						self:GetParent():SetFont(string.format("%s|%s|%s", unpack(self.font)))
+					</OnInitialized>
+				</Control>
+			</Controls>
+
+		</Label>
+
+		<Line name="TemperCombat_Line_Thin" thickness="16" textureFile="TemperCombat/art/line1.dds" virtual="true" />
+		<Line name="TemperCombat_Line" thickness="16" textureFile="TemperCombat/art/line2.dds" virtual="true" />
+		<Line name="TemperCombat_Line_Graph" thickness="16" textureFile="TemperCombat/art/line2.dds" pixelRoundingEnabled="false"
+			virtual="true" />
+		<Line name="TemperCombat_Line_Solid" thickness="16" textureFile="TemperCombat/art/line4.dds" virtual="true" />
+
+		<Backdrop name="TemperCombat_BackgroundFramed_Solid" virtual="true" edgeColor="FFFFFFFF" centerColor="00000000">
+
+			<Edge file="TemperCombat/art/simpleframe4.dds" edgeFileWidth="128" edgeFileHeight="16" edgeSize="8" />
+
+		</Backdrop>
+
+		<Backdrop name="TemperCombat_BackgroundFramed" virtual="true" edgeColor="FFFFFFFF" centerColor="00000000">
+
+			<Edge file="TemperCombat/art/simpleframe2.dds" edgeFileWidth="128" edgeFileHeight="16" edgeSize="8" />
+
+		</Backdrop>
+
+		<Backdrop name="TemperCombat_BackgroundFramed_Thin" virtual="true" edgeColor="FFAAAAAA" centerColor="00000000">
+
+			<Edge file="TemperCombat/art/simpleframe1.dds" edgeFileWidth="128" edgeFileHeight="16" edgeSize="8" />
+
+		</Backdrop>
+
+		<Backdrop name="TemperCombat_HighLight" edgeColor="00000000" centerColor="33FFFFFF" layer="OVERLAY"
+			excludeFromResizeToFitExtents="true" virtual="true">
+
+			<AnchorFill />
+			<Edge file="TemperCombat/art/simpleframe2.dds" edgeFileWidth="128" edgeFileHeight="16" edgeSize="8" />
+
+		</Backdrop>
+
+		<Control name="TemperCombat_ControlFramed" virtual="true">
+			<Controls>
+				<Backdrop name="$(parent)BG" inherits="TemperCombat_BackgroundFramed">
+					<AnchorFill />
+				</Backdrop>
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_ControlTooltip" mouseEnabled="true" virtual="true">
+			<OnMouseEnter>
+                TemperCombat.OnMouseEnter(self)
+            </OnMouseEnter>
+
+			<OnMouseExit>
+                ZO_Options_OnMouseExit(self)
+			</OnMouseExit>
+		</Control>
+
+		<Button name="TemperCombat_ButtonTooltip" mouseEnabled="true" virtual="true">
+			<OnMouseEnter>
+                TemperCombat.OnMouseEnter(self)
+            </OnMouseEnter>
+
+			<OnMouseExit>
+                ZO_Options_OnMouseExit(self)
+			</OnMouseExit>
+		</Button>
+
+		<Label name="TemperCombat_LabelTooltip" mouseEnabled="true" virtual="true">
+			<OnMouseEnter>
+                TemperCombat.OnMouseEnter(self)
+            </OnMouseEnter>
+
+			<OnMouseExit>
+                ZO_Options_OnMouseExit(self)
+			</OnMouseExit>
+		</Label>
+
+		<Texture name="TemperCombat_TextureTooltip" mouseEnabled="true" virtual="true">
+			<OnMouseEnter>
+                TemperCombat.OnMouseEnter(self)
+            </OnMouseEnter>
+
+			<OnMouseExit>
+                ZO_Options_OnMouseExit(self)
+			</OnMouseExit>
+		</Texture>
+
+		<Button name="TemperCombat_NavigationButton" virtual="true">
+			<Dimensions x="32" y="32" />
+			<ButtonState state="DISABLED" />
+		</Button>
+
+		<Texture name="TemperCombat_SelectorButton" virtual="true" layer="CONTROLS">
+			<Dimensions x="32" y="32" />
+		</Texture>
+
+		<Label name="TemperCombat_StatRowLabel" virtual="true" inherits="TemperCombat_LabelFontControl">
+			<Dimensions y="20" />
+		</Label>
+
+		<Label name="TemperCombat_StatRowValue" virtual="true" inherits="TemperCombat_ValueFontControl">
+			<Dimensions y="20" />
+		</Label>
+
+		<Label name="TemperCombat_StatRowValue2" virtual="true" inherits="TemperCombat_ValueFontSmallControl">
+			<Dimensions y="18" />
+		</Label>
+
+		<Control name="TemperCombat_StatRowLine" virtual="true">
+			<Controls>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_StatRowLabel" text="LABEL:" horizontalAlignment="RIGHT">
+					<Anchor point="LEFT" />
+					<Dimensions x="116" />
+				</Label>
+
+				<Label name="$(parent)Value" inherits="TemperCombat_StatRowValue" text="0" horizontalAlignment="RIGHT">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Label" offsetX="4" />
+					<Dimensions x="74" />
+				</Label>
+
+				<Label name="$(parent)Value2" inherits="TemperCombat_StatRowValue" text="0" horizontalAlignment="RIGHT">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Value" offsetX="8" />
+					<Dimensions x="74" />
+				</Label>
+
+				<Label name="$(parent)Value3" inherits="TemperCombat_StatRowValue" text="0 %" horizontalAlignment="RIGHT">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Value2" offsetX="8" />
+					<Dimensions x="48" />
+				</Label>
+
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_StatRowLine2" inherits="TemperCombat_ControlTooltip" virtual="true">
+			<Controls>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_StatRowLabel" text="LABEL:" horizontalAlignment="RIGHT">
+					<Anchor point="LEFT" />
+					<Dimensions x="116" />
+				</Label>
+
+				<Label name="$(parent)Value" inherits="TemperCombat_StatRowValue" text="0" horizontalAlignment="RIGHT">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Label" offsetX="4" />
+					<Dimensions x="72" />
+				</Label>
+
+				<Label name="$(parent)Value2" inherits="TemperCombat_StatRowValue" text="0" horizontalAlignment="RIGHT">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Value" offsetX="4" />
+					<Dimensions x="72" />
+				</Label>
+
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_StatRowLine3" inherits="TemperCombat_ControlTooltip" virtual="true">
+			<Controls>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_StatRowLabel" text="LABEL:" horizontalAlignment="RIGHT">
+					<Anchor point="LEFT" />
+					<Dimensions x="116" />
+				</Label>
+
+				<Label name="$(parent)Value" inherits="TemperCombat_StatRowValue" text="0" horizontalAlignment="RIGHT">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Label" offsetX="4" />
+					<Dimensions x="72" />
+				</Label>
+
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_StatRowTitleLine" virtual="true">
+			<Controls>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_StatRowLabel" text="Damage" horizontalAlignment="LEFT">
+					<Anchor point="TOPLEFT" />
+					<Dimensions x="116" />
+				</Label>
+
+				<Line name="$(parent)Sep" color="SI_TEMPER_COMBAT_SEP_COLOR" inherits="TemperCombat_Line_Thin">
+					<Anchor point="BOTTOMLEFT" />
+					<Anchor point="BOTTOMRIGHT" />
+				</Line>
+
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_InfoSkillIcon" virtual="true">
+			<Dimensions x="20" y="20" />
+			<Controls>
+				<Texture name="$(parent)BG" textureFile="EsoUI/Art/ActionBar/abilityframe64_up.dds" level="0">
+					<AnchorFill />
+				</Texture>
+
+				<Texture name="$(parent)Texture" textureFile="EsoUI/Art/crafting/gamepad/crafting_alchemy_trait_unknown.dds" level="1">
+					<Anchor point="TOPLEFT" offsetX="2" offsetY="2" />
+					<Anchor point="BOTTOMRIGHT" offsetX="-2" offsetY="-2" />
+				</Texture>
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_InfoSkillRow" virtual="true">
+
+			<Dimensions x="310" y="20" />
+
+			<Controls>
+
+				<Control name="$(parent)Icon" inherits="TemperCombat_InfoSkillIcon" mouseEnabled="true">
+
+					<Anchor point="LEFT" />
+
+					<OnMouseEnter> if self:GetParent().id then TemperCombat.SkillTooltip_OnMouseEnter(self) end </OnMouseEnter>
+					<OnMouseExit> TemperCombat.SkillTooltip_OnMouseExit(self) </OnMouseExit>
+
+				</Control>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="LEFT"
+					mouseEnabled="true">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Icon" relativePoint="RIGHT" offsetX="4" />
+					<Dimensions x="134" y="20" />
+
+					<OnMouseEnter> if self:GetParent().id then TemperCombat.SkillTooltip_OnMouseEnter(self) end </OnMouseEnter>
+					<OnMouseExit> TemperCombat.SkillTooltip_OnMouseExit(self) </OnMouseExit>
+
+				</Label>
+
+				<Label name="$(parent)Value1" inherits="TemperCombat_ValueFontControl" text="-" horizontalAlignment="CENTER">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Label" relativePoint="RIGHT" offsetX="4" />
+					<Dimensions x="28" y="20" />
+
+				</Label>
+
+				<Label name="$(parent)Value2" inherits="TemperCombat_ValueFontControl" text="-" horizontalAlignment="CENTER">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Value1" relativePoint="RIGHT" offsetX="4" />
+					<Dimensions x="40" y="20" />
+
+				</Label>
+
+				<Label name="$(parent)Value3" inherits="TemperCombat_ValueFontControl" text="-" horizontalAlignment="CENTER">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Value2" relativePoint="RIGHT" offsetX="4" />
+					<Dimensions x="28" y="20" />
+
+				</Label>
+
+				<Label name="$(parent)Value4" inherits="TemperCombat_ValueFontControl" text="-" horizontalAlignment="CENTER">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Value3" relativePoint="RIGHT" offsetX="4" />
+					<Dimensions x="40" y="20" />
+
+				</Label>
+
+			</Controls>
+
+		</Control>
+
+		<Control name="TemperCombat_InfoAbilityBlock" virtual="true">
+			<Controls>
+				<Label name="$(parent)Title" inherits="TemperCombat_LabelFontControl" text="SI_TEMPER_COMBAT_BAR"
+					horizontalAlignment="LEFT">
+					<Anchor point="TOPLEFT" offsetX="4" offsetY="4" />
+					<Dimensions x="60" y="20" />
+				</Label>
+
+				<Control name="$(parent)Werewolf" mouseEnabled="true" hidden="true">
+					<Anchor point="TOPRIGHT" offsetX="0" offsetY="2" />
+					<Dimensions x="20" y="20" />
+
+					<Controls>
+						<Backdrop name="$(parent)Bg" inherits="TemperCombat_BackgroundFramed">
+							<AnchorFill />
+						</Backdrop>
+
+						<Texture name="$(parent)Texture" textureFile="art/fx/texture/footprint_wolf_01.dds">
+							<AnchorFill />
+						</Texture>
+					</Controls>
+
+					<OnMouseEnter>TemperCombat.SkillbarButtonMouseOver(self, true)</OnMouseEnter>
+					<OnMouseExit>TemperCombat.SkillbarButtonMouseOver(self, false)</OnMouseExit>
+					<OnMouseUp>TemperCombat.SkillbarToggleWerewolf(self)</OnMouseUp>
+				</Control>
+
+				<Label name="$(parent)Label1" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_TIMEC"
+					horizontalAlignment="LEFT">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Title" relativePoint="RIGHT" offsetX="6" />
+					<Dimensions x="40" y="20" />
+				</Label>
+
+				<Label name="$(parent)Value1" inherits="TemperCombat_ValueFontControl" text="0 %" horizontalAlignment="RIGHT">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Label1" relativePoint="RIGHT" offsetX="4" />
+					<Dimensions x="45" y="20" />
+
+				</Label>
+
+				<Label name="$(parent)Label2" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_DAMAGEC"
+					horizontalAlignment="LEFT">
+
+					<Anchor point="TOPLEFT" relativePoint="CENTER" offsetX="40" offsetY="4" />
+					<Dimensions x="60" y="20" />
+
+				</Label>
+
+				<Label name="$(parent)Value2" inherits="TemperCombat_ValueFontControl" text="0 %" horizontalAlignment="RIGHT">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Label2" relativePoint="RIGHT" offsetX="4" />
+					<Dimensions x="45" y="20" />
+
+				</Label>
+
+				<Control name="$(parent)Header">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Title" relativePoint="BOTTOMLEFT" offsetX="-4" offsetY="4" />
+					<Anchor point="TOPRIGHT" offsetY="6" constrains="X" />
+
+					<Dimensions y="18" />
+
+					<Controls>
+
+						<Label name="$(parent)1" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_SKILL"
+							horizontalAlignment="LEFT">
+
+							<Anchor point="LEFT" offsetX="24" />
+							<Dimensions x="134" y="20" />
+
+						</Label>
+
+						<Label name="$(parent)2" inherits="TemperCombat_ValueFontControl TemperCombat_LabelTooltip"
+							text="SI_TEMPER_COMBAT_SHARP" horizontalAlignment="CENTER">
+
+							<Anchor point="LEFT" relativeTo="$(parent)1" relativePoint="RIGHT" offsetX="4" />
+							<Dimensions x="28" y="20" />
+
+							<OnInitialized>self.tooltip = {SI_TEMPER_COMBAT_SKILLTIME_TT1}</OnInitialized>
+
+						</Label>
+
+						<Label name="$(parent)3" inherits="TemperCombat_ValueFontControl TemperCombat_LabelTooltip"
+							text="SI_TEMPER_COMBAT_SKILLTIME_LABEL2" horizontalAlignment="CENTER">
+
+							<Anchor point="LEFT" relativeTo="$(parent)2" relativePoint="RIGHT" offsetX="4" />
+							<Dimensions x="40" y="20" />
+
+							<OnInitialized>self.tooltip = {SI_TEMPER_COMBAT_SKILLTIME_TT2}</OnInitialized>
+
+						</Label>
+
+						<Label name="$(parent)4" inherits="TemperCombat_ValueFontControl TemperCombat_LabelTooltip"
+							text="SI_TEMPER_COMBAT_SKILLTIME_LABEL3" horizontalAlignment="CENTER">
+
+							<Anchor point="LEFT" relativeTo="$(parent)3" relativePoint="RIGHT" offsetX="4" />
+							<Dimensions x="28" y="20" />
+
+							<OnInitialized>self.tooltip = {SI_TEMPER_COMBAT_SKILLTIME_TT3}</OnInitialized>
+
+						</Label>
+
+						<Label name="$(parent)5" inherits="TemperCombat_ValueFontControl TemperCombat_LabelTooltip"
+							text="SI_TEMPER_COMBAT_TIME" horizontalAlignment="CENTER">
+
+							<Anchor point="LEFT" relativeTo="$(parent)4" relativePoint="RIGHT" offsetX="4" />
+							<Dimensions x="40" y="20" />
+
+							<OnInitialized>self.tooltip = {SI_TEMPER_COMBAT_SKILLTIME_TT4}</OnInitialized>
+
+						</Label>
+
+					</Controls>
+				</Control>
+
+				<Line name="$(parent)Sep" color="SI_TEMPER_COMBAT_SEP_COLOR" inherits="TemperCombat_Line_Thin">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Header" relativePoint="BOTTOMLEFT" offsetY="3" offsetX="-1" />
+					<Anchor point="TOPRIGHT" relativeTo="$(parent)Header" relativePoint="BOTTOMRIGHT" offsetY="3" />
+
+				</Line>
+
+				<Control name="$(parent)LightAttack" inherits="TemperCombat_InfoSkillRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Header" relativePoint="BOTTOMLEFT" offsetY="8" />
+
+				</Control>
+
+				<Control name="$(parent)HeavyAttack" inherits="TemperCombat_InfoSkillRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)LightAttack" relativePoint="BOTTOMLEFT" offsetY="6" />
+
+				</Control>
+
+				<Control name="$(parent)Ability1" inherits="TemperCombat_InfoSkillRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)HeavyAttack" relativePoint="BOTTOMLEFT" offsetY="6" />
+
+				</Control>
+
+				<Control name="$(parent)Ability2" inherits="TemperCombat_InfoSkillRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Ability1" relativePoint="BOTTOMLEFT" offsetY="2" />
+
+				</Control>
+
+				<Control name="$(parent)Ability3" inherits="TemperCombat_InfoSkillRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Ability2" relativePoint="BOTTOMLEFT" offsetY="2" />
+
+				</Control>
+
+				<Control name="$(parent)Ability4" inherits="TemperCombat_InfoSkillRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Ability3" relativePoint="BOTTOMLEFT" offsetY="2" />
+
+				</Control>
+
+				<Control name="$(parent)Ability5" inherits="TemperCombat_InfoSkillRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Ability4" relativePoint="BOTTOMLEFT" offsetY="2" />
+
+				</Control>
+
+				<Control name="$(parent)Ultimate" inherits="TemperCombat_InfoSkillRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Ability5" relativePoint="BOTTOMLEFT" offsetY="6" />
+
+				</Control>
+
+				<Line name="$(parent)Sep2" color="SI_TEMPER_COMBAT_SEP_COLOR" inherits="TemperCombat_Line_Thin">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Ultimate" relativePoint="BOTTOMLEFT" offsetY="6" offsetX="-1" />
+					<Anchor point="TOPRIGHT" relativeTo="$(parent)Ultimate" relativePoint="BOTTOMRIGHT" offsetY="6" />
+
+				</Line>
+
+				<Control name="$(parent)Stats2">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Sep2" relativePoint="BOTTOMLEFT" offsetY="2" />
+					<Dimensions x="300" y="20" />
+
+					<Controls>
+
+						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontControl TemperCombat_LabelTooltip"
+							text="SI_TEMPER_COMBAT_AVERAGEC" horizontalAlignment="LEFT">
+
+							<Anchor point="LEFT" offsetX="6" />
+							<Dimensions x="176" y="20" />
+
+						</Label>
+
+						<Label name="$(parent)Label2" inherits="TemperCombat_ValueFontControl TemperCombat_LabelTooltip"
+							text="SI_TEMPER_COMBAT_TOTALC" horizontalAlignment="LEFT">
+
+							<Anchor point="LEFT" constrains="Y" />
+							<Anchor point="TOPLEFT" relativePoint="TOP" constrains="X" offsetX="38" offsetY="0" />
+							<Dimensions x="100" y="20" />
+
+						</Label>
+
+					</Controls>
+
+				</Control>
+
+			</Controls>
+
+		</Control>
+
+		<Control name="TemperCombat_EquipLine" virtual="true">
+			<Dimensions y="22" />
+			<Controls>
+
+				<Texture name="$(parent)Icon" textureFile="EsoUI/Art/CharacterWindow/gearSlot_head.dds">
+					<Anchor point="TOPLEFT" />
+					<Dimensions x="22" y="22" />
+				</Texture>
+
+				<Texture name="$(parent)Icon2" textureFile="EsoUI/Art/CharacterWindow/gearSlot_head.dds">
+					<Anchor point="TOPLEFT" />
+					<Dimensions x="22" y="22" />
+				</Texture>
+
+				<Label name="$(parent)ItemLink" text="" inherits="TemperCombat_LabelFontControl" linkEnabled="true" mouseEnabled="true">
+					<Anchor point="LEFT" relativeTo="$(parent)Icon" relativePoint="RIGHT" offsetX="4" offsetY="0" />
+					<Dimensions x="280" y="22" />
+
+					<OnLinkClicked> 
+						ClearTooltip(ItemTooltip)
+						ZO_LinkHandler_OnLinkClicked(linkText, button)
+					</OnLinkClicked>
+
+					<OnMouseEnter> TemperCombat.ItemTooltip_OnMouseEnter(self) </OnMouseEnter>
+					<OnMouseExit> TemperCombat.ItemTooltip_OnMouseExit(self) </OnMouseExit>
+				</Label>
+
+				<Label name="$(parent)Trait" text="" inherits="TemperCombat_ValueFontControl">
+					<Anchor point="LEFT" relativeTo="$(parent)ItemLink" relativePoint="RIGHT" offsetX="4" offsetY="0" />
+					<Dimensions x="100" y="22" />
+				</Label>
+
+				<Label name="$(parent)Enchant" text="" inherits="TemperCombat_ValueFontControl" linkEnabled="true" mouseEnabled="true">
+					<Anchor point="LEFT" relativeTo="$(parent)Trait" relativePoint="RIGHT" offsetX="10" offsetY="0" />
+					<Anchor point="RIGHT" offsetX="-4" />
+
+					<Dimensions y="22" />
+
+					<OnLinkClicked> 
+						ClearTooltip(ItemTooltip)
+						ZO_LinkHandler_OnLinkClicked(linkText, button) 
+					</OnLinkClicked>
+
+					<OnMouseEnter> TemperCombat.ItemTooltip_OnMouseEnter(self) </OnMouseEnter>
+					<OnMouseExit> TemperCombat.ItemTooltip_OnMouseExit(self) </OnMouseExit>
+				</Label>
+			</Controls>
+		</Control>
+
+		<Control name="Misc_Setup_Item" virtual="true" mouseEnabled="true">
+			<Dimensions x="202" />
+			<Controls>
+				<Texture name="$(parent)Icon1" textureFile="EsoUI/Art/CharacterWindow/gearSlot_head.dds">
+					<Anchor point="TOPLEFT" offsetX="2" />
+					<Dimensions x="20" y="20" />
+				</Texture>
+
+				<Label name="$(parent)Name1" text="Name" inherits="TemperCombat_LabelFontControl" verticalAlignment="CENTER"
+					wrapMode="ELLIPSIS">
+					<Anchor point="LEFT" relativeTo="$(parent)Icon1" relativePoint="RIGHT" offsetX="4" offsetY="0" />
+					<Dimensions x="170" y="20" />
+				</Label>
+
+				<Texture name="$(parent)Icon2" textureFile="EsoUI/Art/CharacterWindow/gearSlot_head.dds">
+					<Anchor point="BOTTOMLEFT" offsetX="0" />
+					<Dimensions x="20" y="20" />
+				</Texture>
+
+				<Label name="$(parent)Name2" text="Name" inherits="TemperCombat_LabelFontControl" verticalAlignment="CENTER"
+					wrapMode="ELLIPSIS">
+					<Anchor point="LEFT" relativeTo="$(parent)Icon2" relativePoint="RIGHT" offsetX="4" offsetY="0" />
+					<Dimensions x="170" y="20" />
+				</Label>
+			</Controls>
+		</Control>
+
+
+		<Control name="TemperCombat_StarRow" virtual="true" mouseEnabled="true">
+
+			<Dimensions y="20" />
+
+			<Controls>
+
+				<Label name="$(parent)Value" text="0" inherits="TemperCombat_ValueFontControl" horizontalAlignment="RIGHT">
+
+					<Anchor point="RIGHT" />
+					<Dimensions x="24" y="22" />
+
+				</Label>
+
+				<Label name="$(parent)Name" text="Celestial Star 1" inherits="TemperCombat_ValueFontControl">
+
+					<Anchor point="LEFT" />
+					<Anchor point="RIGHT" relativeTo="$(parent)Value" relativePoint="LEFT" offsetX="-8" offsetY="0" />
+
+					<Dimensions x="24" y="22" />
+
+				</Label>
+
+			</Controls>
+
+		</Control>
+
+		<Control name="TemperCombat_StarPassive" virtual="true" mouseEnabled="true">
+
+			<Dimensions x="18" y="18" />
+
+			<OnMouseEnter> TemperCombat.CPTooltip_OnMouseEnterLegacy(self) </OnMouseEnter>
+			<OnMouseExit> TemperCombat.CPTooltip_OnMouseExitLegacy(self) </OnMouseExit>
+
+		</Control>
+
+		<Control name="TemperCombat_StarSign" virtual="true">
+
+			<Dimensions x="346" y="66" />
+
+			<Controls>
+
+				<Label name="$(parent)Title" text="CPNAME" inherits="TemperCombat_LabelFontControl">
+
+					<Anchor point="TOPLEFT" />
+					<Dimensions x="200" y="20" />
+
+				</Label>
+
+				<Texture name="$(parent)Passive1" textureFile="esoui/art/mainmenu/menubar_champion_up.dds"
+					inherits="TemperCombat_StarPassive">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Title" relativePoint="RIGHT" offsetX="8" offsetY="0" />
+
+				</Texture>
+
+				<Texture name="$(parent)Passive2" textureFile="esoui/art/mainmenu/menubar_champion_up.dds"
+					inherits="TemperCombat_StarPassive">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Passive1" relativePoint="RIGHT" offsetX="4" offsetY="0" />
+
+				</Texture>
+
+				<Texture name="$(parent)Passive3" textureFile="esoui/art/mainmenu/menubar_champion_up.dds"
+					inherits="TemperCombat_StarPassive">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Passive2" relativePoint="RIGHT" offsetX="4" offsetY="0" />
+
+				</Texture>
+
+				<Texture name="$(parent)Passive4" textureFile="esoui/art/mainmenu/menubar_champion_up.dds"
+					inherits="TemperCombat_StarPassive">
+
+					<Anchor point="LEFT" relativeTo="$(parent)Passive3" relativePoint="RIGHT" offsetX="4" offsetY="0" />
+
+				</Texture>
+
+				<Control name="$(parent)Row1" inherits="TemperCombat_StarRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Title" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="4" />
+					<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="BOTTOM" offsetX="-8" offsetY="0" constrains="X" />
+
+				</Control>
+
+				<Control name="$(parent)Row2" inherits="TemperCombat_StarRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Row1" relativePoint="TOPRIGHT" offsetX="12" offsetY="0" />
+					<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="4" constrains="X" />
+
+				</Control>
+
+				<Control name="$(parent)Row3" inherits="TemperCombat_StarRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Row1" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="2" />
+					<Anchor point="TOPRIGHT" relativeTo="$(parent)Row1" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="2" />
+
+				</Control>
+
+				<Control name="$(parent)Row4" inherits="TemperCombat_StarRow">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Row2" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="2" />
+					<Anchor point="TOPRIGHT" relativeTo="$(parent)Row2" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="2" />
+
+				</Control>
+
+			</Controls>
+
+		</Control>
+
+		<Control name="TemperCombat_StarControl" virtual="true" mouseEnabled="true" excludeFromResizeToFitExtents="true">
+			<Dimensions x="165" y="20" />
+
+			<OnMouseEnter> TemperCombat.CPTooltip_OnMouseEnter(self) </OnMouseEnter>
+			<OnMouseExit> TemperCombat.CPTooltip_OnMouseExit(self) </OnMouseExit>
+
+			<Controls>
+				<Texture name="$(parent)Icon" textureFile="/esoui/art/champion/champion_star_pulse.dds">
+					<Anchor point="CENTER" relativeTo="$(parent)" relativePoint="LEFT" offsetX="10" offsetY="0" />
+					<Dimensions x="30" y="30" />
+				</Texture>
+
+				<Texture name="$(parent)Ring" textureFile="/esoui/art/champion/actionbar/champion_bar_slot_frame_disabled.dds">
+					<Anchor point="LEFT" />
+					<Dimensions x="20" y="20" />
+				</Texture>
+
+				<Label name="$(parent)Value" text="0" inherits="TemperCombat_ValueFontControl" horizontalAlignment="RIGHT">
+					<Anchor point="RIGHT" />
+					<Dimensions x="24" y="20" />
+				</Label>
+
+				<Label name="$(parent)Name" text="Star" inherits="TemperCombat_ValueFontControl">
+					<Anchor point="LEFT" offsetX="24" offsetY="0" />
+					<Anchor point="RIGHT" relativeTo="$(parent)Value" relativePoint="LEFT" offsetX="-8" offsetY="0" />
+					<Dimensions x="97" y="20" />
+				</Label>
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_Constellation" virtual="true">
+			<Controls>
+				<Label name="$(parent)Title" text="CPNAME" inherits="TemperCombat_LabelFontControl" excludeFromResizeToFitExtents="true">
+					<Anchor point="TOPLEFT" />
+					<Anchor point="TOPRIGHT" />
+				</Label>
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_ScribedSkillScriptControl" virtual="true">
+			<Dimensions x="154" y="16" />
+			<Controls>
+				<Texture name="$(parent)Icon" textureFile="EsoUI/Art/crafting/gamepad/crafting_alchemy_trait_unknown.dds">
+					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
+					<Dimensions x="16" y="16" />
+				</Texture>
+
+				<Label name="$(parent)Name" text="Script" inherits="TemperCombat_ValueFontSmallControl">
+					<Anchor point="LEFT" relativeTo="$(parent)Icon" relativePoint="RIGHT" offsetX="2" offsetY="0" />
+					<Anchor point="TOPRIGHT" />
+				</Label>
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_ScribedSkillControl" virtual="true" mouseEnabled="true">
+			<Dimensions x="330" y="35" />
+			<OnMouseEnter> TemperCombat.ScribedSkillTooltip_OnMouseEnter(self) </OnMouseEnter>
+			<OnMouseExit> TemperCombat.ScribedSkillTooltip_OnMouseExit(self) </OnMouseExit>
+			<Controls>
+				<Control name="$(parent)Icon" inherits="TemperCombat_InfoSkillIcon">
+					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="4" offsetY="0" />
+					<Dimensions x="18" y="18" />
+				</Control>
+
+				<Label name="$(parent)Name" text="Scribed Skill" inherits="TemperCombat_LabelFontControl" horizontalAlignment="LEFT">
+					<Anchor point="LEFT" relativeTo="$(parent)Icon" relativePoint="RIGHT" offsetX="4" offsetY="0" />
+					<Dimensions x="154" y="18" />
+				</Label>
+
+				<Control name="$(parent)Script1" inherits="TemperCombat_ScribedSkillScriptControl">
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Name" relativePoint="TOPRIGHT" offsetX="4" offsetY="0" />
+				</Control>
+
+				<Control name="$(parent)Script2" inherits="TemperCombat_ScribedSkillScriptControl">
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Name" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="1" />
+				</Control>
+
+				<Control name="$(parent)Script3" inherits="TemperCombat_ScribedSkillScriptControl">
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Script1" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="3" />
+				</Control>
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_BuffPanelBox" virtual="true">
+
+			<Controls>
+
+				<Backdrop name="$(parent)Bg" edgeColor="00000000" centerColor="00000000">
+
+					<Edge edgeSize="1" />
+					<AnchorFill />
+
+				</Backdrop>
+
+				<Backdrop name="$(parent)Overlay" edgeColor="BB000000" centerColor="BB000000" hidden="true" layer="OVERLAY"
+					excludeFromResizeToFitExtents="true">
+
+					<Edge edgeSize="1" />
+
+					<Anchor point="TOPLEFT" offsetX="4" offsetY="2" />
+					<Anchor point="BOTTOMRIGHT" offsetX="-2" offsetY="2" />
+
+				</Backdrop>
+
+				<Line name="$(parent)Line" color="SI_TEMPER_COMBAT_SEP_COLOR" inherits="TemperCombat_Line_Thin">
+					<Anchor point="BOTTOMLEFT" offsetX="4" />
+					<Anchor point="BOTTOMRIGHT" offsetX="-4" />
+				</Line>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_LabelFontControl" text="" horizontalAlignment="CENTER"
+					verticalAlignment="CENTER">
+
+					<AnchorFill />
+
+				</Label>
+
+			</Controls>
+
+			<OnMouseUp>TemperCombat.SelectRightPanel(self)</OnMouseUp>
+
+		</Control>
+
+		<Control name="TemperCombat_FightListTemplate" virtual="true">
+
+			<Controls>
+				<Control name="$(parent)Header">
+
+					<Anchor point="TOPLEFT" offsetX="6" offsetY="4" />
+					<Anchor point="TOPRIGHT" offsetX="-4" offsetY="4" />
+					<Dimensions y="20" />
+
+					<Controls>
+
+						<Label name="$(parent)Name" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_RECENT_FIGHT"
+							horizontalAlignment="LEFT">
+
+							<Anchor point="BOTTOMLEFT" offsetX="0" offsetY="0" />
+							<Dimensions x="260" y="20" />
+
+						</Label>
+
+						<Label name="$(parent)Char" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_CHARACTER"
+							horizontalAlignment="LEFT">
+
+							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" offsetX="4" offsetY="0" />
+							<Dimensions x="176" y="20" />
+
+						</Label>
+
+						<Label name="$(parent)Zone" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_ZONE"
+							horizontalAlignment="LEFT">
+
+							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Char" offsetX="4" offsetY="0" />
+							<Dimensions x="176" y="20" />
+
+						</Label>
+
+						<Label name="$(parent)Time" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_TIME2"
+							horizontalAlignment="LEFT">
+
+							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Zone" offsetX="4" offsetY="0" />
+							<Dimensions x="128" y="20" />
+
+						</Label>
+
+						<Label name="$(parent)Duration" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_DURATION"
+							horizontalAlignment="CENTER">
+
+							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Time" offsetX="4" offsetY="0" />
+							<Dimensions x="68" y="20" />
+
+						</Label>
+
+						<Label name="$(parent)DPS" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_DPS"
+							horizontalAlignment="CENTER">
+
+							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Duration" offsetX="4" offsetY="0" />
+							<Dimensions x="68" y="20" />
+
+						</Label>
+
+						<Label name="$(parent)Buttons" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_DELETE"
+							horizontalAlignment="CENTER">
+
+							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)DPS" offsetX="4" offsetY="0" />
+							<Dimensions x="68" y="20" />
+
+						</Label>
+
+					</Controls>
+
+				</Control>
+
+				<Line name="$(parent)Sep" color="SI_TEMPER_COMBAT_SEP_COLOR" inherits="TemperCombat_Line_Thin">
+
+					<Anchor point="BOTTOMLEFT" relativeTo="$(parent)Header" offsetY="2" />
+					<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)Header" offsetY="2" />
+
+				</Line>
+
+				<Control name="$(parent)Panel" inherits="ZO_ScrollContainer" mouseEnabled="true">
+
+					<Anchor point="TOPLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)Sep" offsetX="-2" offsetY="2" />
+					<Anchor point="BOTTOMRIGHT" relativePoint="BOTTOMRIGHT" offsetX="-4" offsetY="-4" />
+
+				</Control>
+
+				<Label name="$(parent)LoadingLabel" text="SI_TEMPER_COMBAT_LOADING" verticalAlignment="CENTER"
+					horizontalAlignment="CENTER" inherits="TemperCombat_TitleFontControl" hidden="true">
+					<Anchor point="TOPLEFT" relativePoint="TOPLEFT" relativeTo="$(parent)Panel" />
+					<Anchor point="BOTTOMRIGHT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)Panel" />
+				</Label>
+			</Controls>
+
+			<OnInitialized>
+
+				local scrollList = GetControl(self, "PanelScrollChild")
+				scrollList:SetResizeToFitPadding(0, 20)
+
+			</OnInitialized>
+
+		</Control>
+
+		<Control name="TemperCombat_ResourceListTemplate" virtual="true">
+
+			<Controls>
+
+				<Control name="$(parent)Header">
+
+					<Anchor point="TOPLEFT" offsetX="4" />
+					<Anchor point="TOPRIGHT" offsetX="-4" />
+					<Dimensions y="20" />
+
+					<Controls>
+
+						<Label name="$(parent)Name" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_REGENERATION"
+							horizontalAlignment="LEFT">
+
+							<Anchor point="BOTTOMLEFT" offsetX="0" offsetY="0" />
+							<Dimensions x="246" y="20" />
+
+						</Label>
+
+						<Label name="$(parent)Count" inherits="TemperCombat_ValueFontControl TemperCombat_LabelTooltip"
+							text="SI_TEMPER_COMBAT_SHARP" horizontalAlignment="RIGHT">
+
+							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" offsetX="4" offsetY="0" />
+							<Dimensions x="30" y="20" />
+							<OnInitialized>self.tooltip = {SI_TEMPER_COMBAT_BUFFCOUNT_TT}</OnInitialized>
+
+						</Label>
+
+						<Label name="$(parent)Rate" inherits="TemperCombat_ValueFontControl TemperCombat_LabelTooltip"
+							text="SI_TEMPER_COMBAT_PM_SEC" horizontalAlignment="RIGHT">
+
+							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Count" offsetX="4" offsetY="0" />
+							<Dimensions x="50" y="20" />
+							<OnInitialized>self.tooltip = {SI_TEMPER_COMBAT_UPTIME_TT}</OnInitialized>
+
+						</Label>
+
+					</Controls>
+
+				</Control>
+
+				<Line name="$(parent)Sep" color="SI_TEMPER_COMBAT_SEP_COLOR" inherits="TemperCombat_Line_Thin">
+
+					<Anchor point="BOTTOMLEFT" relativeTo="$(parent)Header" offsetY="2" />
+					<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)Header" offsetY="2" />
+
+				</Line>
+
+				<Control name="$(parent)Panel" inherits="ZO_ScrollContainer">
+
+					<Anchor point="TOPLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)Sep" offsetX="0" offsetY="2" />
+					<Anchor point="BOTTOMRIGHT" offsetX="-4" offsetY="-4" />
+
+				</Control>
+
+			</Controls>
+
+			<OnInitialized>
+
+				local scrollList = GetControl(self, "PanelScrollChild")
+				scrollList:SetResizeToFitPadding(0, 20)
+
+			</OnInitialized>
+
+		</Control>
+
+		<Control name="TemperCombat_CombatLogButtonTemplate" mouseEnabled="true" virtual="true">
+
+			<Dimensions x="22" y="22" />
+
+			<Controls>
+
+				<Texture name="$(parent)Icon">
+					<AnchorFill />
+				</Texture>
+
+				<Backdrop name="$(parent)Overlay" edgeColor="66FFFFFF" centerColor="CC000000" layer="OVERLAY">
+					<AnchorFill />
+					<Edge edgeSize="1" />
+				</Backdrop>
+
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_CombatLogTextButtonTemplate" mouseEnabled="true" virtual="true">
+
+			<Dimensions x="22" y="22" />
+
+			<Controls>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="CENTER"
+					verticalAlignment="CENTER">
+					<AnchorFill />
+				</Label>
+
+				<Backdrop name="$(parent)Overlay" edgeColor="66FFFFFF" centerColor="CC000000" layer="OVERLAY">
+					<AnchorFill />
+					<Edge edgeSize="1" />
+				</Backdrop>
+
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_RowTemplate" resizeToFitDescendents="true" mouseEnabled="true" virtual="true">
+
+			<OnMouseUp> TemperCombat.AddSelection( self, button, upInside, ctrl, alt, shift ) </OnMouseUp>
+
+		</Control>
+
+		<Control name="TemperCombat_UnitRowTemplate" resizeToFitDescendents="true" mouseEnabled="true" virtual="true">
+
+			<Controls>
+
+				<Backdrop name="$(parent)HighLight" inherits="TemperCombat_HighLight" />
+
+				<Label name="$(parent)Name" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="LEFT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="LEFT" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Backdrop name="$(parent)Bar" edgeColor="00000000" centerColor="99CC0000">
+					<Anchor point="TOPLEFT" relativePoint="TOPLEFT" relativeTo="$(parent)Name" offsetX="-2" />
+					<Anchor point="BOTTOMLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)Name" />
+					<Dimensions x="50" />
+
+					<Edge edgeSize="1" />
+				</Backdrop>
+
+				<Label name="$(parent)PerSecond" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Total" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)PerSecond" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Fraction" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Total" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+			</Controls>
+
+			<OnMouseUp> 
+				if button == MOUSE_BUTTON_INDEX_RIGHT then 
+					TemperCombat.UnitContextMenu( self, upInside ) 
+				else
+
+					TemperCombat.AddSelection( self, button, upInside, ctrl, alt, shift )
+
+				end
+
+			</OnMouseUp>
+
+		</Control>
+
+		<Control name="TemperCombat_BuffRowTemplate" resizeToFitDescendents="true" mouseEnabled="true" virtual="true">
+
+			<Controls>
+
+				<Backdrop name="$(parent)HighLight" inherits="TemperCombat_HighLight" />
+
+				<Control name="$(parent)Indicator">
+					<Anchor point="LEFT" offsetX="0" offsetY="0" />
+					<Dimensions x="10" y="10" />
+				</Control>
+
+				<Button name="$(parent)IndicatorSwitch" hidden="true">
+
+					<Anchor point="TOPLEFT" relativePoint="TOPLEFT" relativeTo="$(parent)Indicator" offsetX="-2" offsetY="0" />
+					<Anchor point="BOTTOMRIGHT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)Indicator" offsetX="0" offsetY="0" />
+
+					<Textures
+						normal="esoui/art/buttons/dropbox_arrow_normal.dds"
+						mouseOver="esoui/art/buttons/dropbox_arrow_mouseover.dds"
+						pressed="esoui/art/buttons/dropbox_arrow_mousedown.dds"
+						disabled="esoui/art/buttons/dropbox_arrow_disabled.dds"
+					/>
+
+					<OnClicked> TemperCombat.CollapseButton( self, upInside ) </OnClicked>
+
+				</Button>
+
+				<Texture name="$(parent)Icon">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Indicator" offsetX="2" />
+					<Dimensions x="20" y="20" />
+				</Texture>
+
+				<Label name="$(parent)Name" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="LEFT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="4" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Backdrop name="$(parent)GroupBar" edgeColor="00000000" centerColor="CC000099">
+					<Anchor point="TOPLEFT" relativePoint="TOPLEFT" relativeTo="$(parent)Name" offsetX="-2" />
+					<Anchor point="BOTTOMLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)Name" constrains="Y" />
+					<Dimensions x="50" />
+					<Edge edgeSize="1" />
+				</Backdrop>
+
+				<Backdrop name="$(parent)PlayerBar" edgeColor="00000000" centerColor="CC000099">
+					<Anchor point="TOPLEFT" relativePoint="TOPLEFT" relativeTo="$(parent)Name" offsetX="-2" />
+					<Anchor point="BOTTOMLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)Name" constrains="Y" />
+					<Dimensions x="50" />
+					<Edge edgeSize="1" />
+				</Backdrop>
+
+				<Label name="$(parent)Count" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Uptime" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Count" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+			</Controls>
+
+			<OnMouseUp> 
+				if button == MOUSE_BUTTON_INDEX_RIGHT then 
+					TemperCombat.BuffContextMenu( self, upInside ) 
+				else
+
+					TemperCombat.AddSelection( self, button, upInside, ctrl, alt, shift )
+
+				end
+
+			</OnMouseUp>
+
+		</Control>
+
+		<Control name="TemperCombat_ResourceRowTemplate" inherits="TemperCombat_RowTemplate" virtual="true">
+
+			<Controls>
+
+				<Backdrop name="$(parent)HighLight" inherits="TemperCombat_HighLight" />
+
+				<Label name="$(parent)Name" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="LEFT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="LEFT" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Backdrop name="$(parent)Bar" edgeColor="00000000" centerColor="CC000099">
+					<Anchor point="TOPLEFT" relativePoint="TOPLEFT" relativeTo="$(parent)Name" offsetX="-2" />
+					<Anchor point="BOTTOMLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)Name" />
+
+					<Edge edgeSize="1" />
+				</Backdrop>
+
+				<Label name="$(parent)Count" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Rate" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Count" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+			</Controls>
+
+		</Control>
+
+		<Control name="TemperCombat_ResourceRowSeperatorTemplate" virtual="true">
+
+			<Controls>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_ValueFontControl" text="SI_TEMPER_COMBAT_DRAIN"
+					horizontalAlignment="LEFT" verticalAlignment="CENTER">
+					<Anchor point="TOPLEFT" offsetX="4" />
+					<Anchor point="BOTTOMLEFT" />
+					<Dimensions x="50" />
+				</Label>
+
+				<Line name="$(parent)Sep" color="FFFFFFFF" inherits="TemperCombat_Line_Thin">
+					<Anchor point="BOTTOMLEFT" />
+					<Anchor point="BOTTOMRIGHT" offsetX="-2" />
+					<Dimensions y="1" />
+				</Line>
+
+			</Controls>
+
+		</Control>
+
+		<Control name="TemperCombat_AbilityRowTemplate" inherits="TemperCombat_RowTemplate" virtual="true">
+
+			<Controls>
+
+				<Backdrop name="$(parent)HighLight" inherits="TemperCombat_HighLight" />
+
+				<Texture name="$(parent)Icon">
+					<Anchor point="LEFT" relativePoint="LEFT" offsetX="2" />
+					<Dimensions x="18" y="18" />
+				</Texture>
+
+				<Label name="$(parent)Name" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="Left"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="4" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Backdrop name="$(parent)Bar" edgeColor="00000000" centerColor="FF806600">
+					<Anchor point="TOPLEFT" relativePoint="TOPLEFT" relativeTo="$(parent)Name" offsetX="-2" />
+					<Anchor point="BOTTOMLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)Name" />
+					<Dimensions x="50" />
+
+					<Edge edgeSize="1" />
+				</Backdrop>
+
+				<Label name="$(parent)Fraction" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)PerSecond" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Fraction" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Total" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)PerSecond" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Crits" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Total" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Hits" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="LEFT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Crits" offsetX="0" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)CritRatio" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Hits" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Average" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)CritRatio" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)MinMax" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Average" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+			</Controls>
+
+		</Control>
+
+		<Control name="TemperCombat_FightlistRowTemplate" resizeToFitDescendents="true" mouseEnabled="true" virtual="true">
+
+			<Controls>
+
+				<Label name="$(parent)Name" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="LEFT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="LEFT" offsetX="2" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Char" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="LEFT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" offsetX="4" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Zone" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="LEFT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Char" offsetX="4" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Time" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="LEFT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Zone" offsetX="4" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)Duration" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Time" offsetX="4" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Label name="$(parent)DPS" inherits="TemperCombat_ValueFontControl" text="" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Duration" offsetX="4" />
+					<Dimensions x="50" y="20" />
+				</Label>
+
+				<Backdrop name="$(parent)HighLight" edgeColor="00000000" centerColor="22FFFFFF" layer="OVERLAY" hidden="true">
+					<Anchor point="TOPLEFT" />
+					<Anchor point="BOTTOMRIGHT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)DPS" offsetX="2" />
+					<Edge edgeSize="1" />
+
+				</Backdrop>
+
+				<Control name="$(parent)Buttons">
+					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)DPS" offsetX="2" />
+					<Dimensions x="50" y="20" />
+
+					<Controls>
+
+						<Button name="$(parent)DeleteLog" mouseEnabled="true" inherits="TemperCombat_ButtonTooltip">
+							<Anchor point="TOPRIGHT" relativePoint="TOP" offsetX="-4" />
+							<Anchor point="BOTTOMRIGHT" relativePoint="BOTTOM" offsetX="-4" />
+							<Dimensions x="20" />
+
+							<Textures
+								normal="TemperCombat/icons/deletelogiconup.dds"
+								pressed="TemperCombat/icons/deletelogicondown.dds"
+								mouseOver="TemperCombat/icons/deletelogiconover.dds"
+								disabled="TemperCombat/icons/deletelogicondisabled.dds"
+							/>
+
+							<ButtonState state="NORMAL" />
+
+							<OnInitialized>self.tooltip = {SI_TEMPER_COMBAT_DELETE_COMBAT_LOG}</OnInitialized>
+
+							<OnMouseUp>TemperCombat.DeleteItemLog(self)</OnMouseUp>
+						</Button>
+
+						<Button name="$(parent)Delete" mouseEnabled="true" inherits="TemperCombat_ButtonTooltip">
+							<Anchor point="TOPLEFT" relativePoint="TOP" offsetX="4" />
+							<Anchor point="BOTTOMLEFT" relativePoint="BOTTOM" offsetX="4" />
+							<Dimensions x="20" />
+
+							<Textures
+								normal="TemperCombat/icons/deleteicon2up.dds"
+								pressed="TemperCombat/icons/deleteicon2down.dds"
+								mouseOver="TemperCombat/icons/deleteicon2over.dds"
+								disabled="TemperCombat/icons/deleteicon2disabled.dds"
+							/>
+
+							<ButtonState state="NORMAL" />
+
+							<OnInitialized>self.tooltip = {SI_TEMPER_COMBAT_DELETE_FIGHT}</OnInitialized>
+
+							<OnMouseUp>TemperCombat.DeleteItem(self)</OnMouseUp>
+						</Button>
+
+					</Controls>
+
+				</Control>
+			</Controls>
+
+			<OnMouseEnter> self:GetNamedChild("HighLight"):SetHidden(false) </OnMouseEnter>
+			<OnMouseExit> self:GetNamedChild("HighLight"):SetHidden(true) </OnMouseExit>
+			<OnMouseUp>TemperCombat.LoadItem(self)</OnMouseUp>
+
+		</Control>
+
+		<Line name="TemperCombat_PlotLine" color="AAFFFF00" inherits="TemperCombat_Line_Graph" layer="CONTROLS" level="2" virtual="true">
+		</Line>
+
+		<Backdrop name="TemperCombat_PlotBar" edgeColor="00000000" centerColor="66CCCCFF" layer="CONTROLS" level="2" virtual="true">
+		</Backdrop>
+
+		<Control name="TemperCombat_PlotControlXY" virtual="true">
+			<AnchorFill />
+		</Control>
+
+		<Control name="TemperCombat_PlotControlBar" virtual="true">
+
+			<Controls>
+
+				<Texture name="$(parent)Icon" inherits="TemperCombat_TextureTooltip">
+
+					<Anchor point="LEFT" />
+					<Dimensions x="20" y="20" />
+
+				</Texture>
+
+			</Controls>
+
+		</Control>
+
+		<EditBox name="TemperCombat_GraphTickLabel_Edit" hidden="true" inherits="ZO_DefaultEdit" virtual="true">
+
+			<Controls>
+				<Control name="$(parent)Font">
+					<AnchorFill />
+					<OnInitialized>
+						self.font = {GetString(SI_TEMPER_COMBAT_STD_FONT), GetString(SI_TEMPER_COMBAT_FONT_SIZE_SMALL), "soft-shadow-thin"}
+						self:GetParent():SetFont(string.format("%s|%s|%s", unpack(self.font)))
+					</OnInitialized>
+				</Control>
+			</Controls>
+
+			<OnFocusLost>	
+				TemperCombat.EditLabelEnd(self)
+			</OnFocusLost>
+		</EditBox>
+
+		<Line name="TemperCombat_GraphTickY" color="FF444444" inherits="TemperCombat_Line_Thin" virtual="true">
+
+			<Controls>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" text="0" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER" mouseEnabled="true">
+					<Anchor point="RIGHT" relativePoint="LEFT" offsetX="-3" />
+					<Dimensions x="45" y="20" />
+				</Label>
+
+				<Label name="$(parent)LabelR" inherits="TemperCombat_ValueFontSmallControl" text="100%" horizontalAlignment="RIGHT"
+					verticalAlignment="CENTER">
+					<Anchor point="LEFT" relativePoint="RIGHT" offsetX="3" />
+					<Dimensions x="30" y="20" />
+				</Label>
+
+			</Controls>
+
+		</Line>
+
+		<Line name="TemperCombat_GraphTickX" color="FF333333" inherits="TemperCombat_Line_Thin" virtual="true">
+
+			<Controls>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" text="0" horizontalAlignment="CENTER"
+					verticalAlignment="TOP">
+					<Anchor point="TOP" relativePoint="BOTTOM" offsetY="3" />
+					<Dimensions x="45" y="20" />
+				</Label>
+
+			</Controls>
+
+		</Line>
+
+		<Control name="TemperCombat_DataSelector" virtual="true">
+
+			<Dimensions y="24" />
+
+			<Controls>
+
+				<Backdrop name="$(parent)ColorBox" centerColor="FF333333" edgeColor="FF333333" mouseEnabled="true" layer="CONTROLS">
+
+					<Anchor point="LEFT" offsetX="0" offsetY="0" />
+
+					<Dimensions x="10" y="24" />
+
+					<Edge edgeSize="2" />
+
+				</Backdrop>
+
+				<Backdrop name="$(parent)Dropdown" centerColor="FF000000" edgeColor="FF333333" mouseEnabled="true" layer="CONTROLS">
+
+					<Anchor point="LEFT" relativeTo="$(parent)ColorBox" relativePoint="RIGHT" offsetX="4" offsetY="0" />
+					<Anchor point="RIGHT" offsetX="0" offsetY="0" />
+
+					<Dimensions y="24" />
+
+					<Edge edgeSize="2" />
+
+					<OnMouseUp> TemperCombat.PlotSelectionMenu(self) </OnMouseUp>
+
+				</Backdrop>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_LabelFontControl" text="-" horizontalAlignment="LEFT"
+					verticalAlignment="CENTER">
+
+					<Anchor point="TOPLEFT" relativeTo="$(parent)Dropdown" offsetX="4" />
+					<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)Dropdown" offsetX="-4" />
+
+				</Label>
+
+			</Controls>
+		</Control>
+
+		<Control name="TemperCombat_BuffSelector" virtual="true">
+
+			<Dimensions y="24" />
+
+			<Controls>
+
+				<Backdrop name="$(parent)ColorBox" centerColor="FF333333" edgeColor="FF333333" mouseEnabled="true">
+
+					<Anchor point="LEFT" offsetX="0" offsetY="0" />
+
+					<Dimensions x="10" y="24" />
+
+					<Edge edgeSize="2" />
+
+				</Backdrop>
+
+				<Texture name="$(parent)GroupSelector" textureFile="esoui/art/journal/gamepad/gp_questtypeicon_group.dds"
+					inherits="TemperCombat_TextureTooltip">
+
+					<Anchor point="RIGHT" offsetX="4" offsetY="0" />
+
+					<Dimensions x="22" y="22" />
+
+				</Texture>
+
+				<Label name="$(parent)Label" inherits="TemperCombat_LabelFontControl" text="-" horizontalAlignment="LEFT"
+					verticalAlignment="CENTER">
+
+					<Anchor point="LEFT" relativeTo="$(parent)ColorBox" relativePoint="RIGHT" offsetX="8" offsetY="0" />
+					<Anchor point="RIGHT" relativeTo="$(parent)GroupSelector" relativePoint="RIGHT" offsetX="-8" offsetY="0" />
+
+				</Label>
+
+			</Controls>
+		</Control>
+
+
+	</Controls>
+</GuiXml>

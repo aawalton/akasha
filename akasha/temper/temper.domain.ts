@@ -115,6 +115,7 @@ export const temper = {
     "eso-addon/temper-lib-sets",
     "workspace-package/temper-item-browser",
     "workspace-package/temper-character-skills",
+    "eso-addon/temper-combat-addon",
   ],
   invariants: [
     {
