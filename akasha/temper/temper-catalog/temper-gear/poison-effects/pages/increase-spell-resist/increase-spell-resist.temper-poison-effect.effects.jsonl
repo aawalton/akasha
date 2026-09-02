@@ -1,2 +1,2 @@
-{"id":"01a05fd8-a3b8-7d4e-b25b-e4f91d2b6291","metricId":"target-spell-resistance","type":"number-for-seconds","value":-1320,"seconds":5.5}
-{"id":"01a05fd8-a3b8-7ade-aff7-ce757938360b","metricId":"resistance-spell","type":"number-for-seconds","value":1320,"seconds":5.5}
+{"id": "01a05fd8-a3b8-7d4e-b25b-e4f91d2b6291", "metricId": "target-spell-resistance", "type": "number-for-seconds", "value": -1320, "seconds": 5.5}
+{"id": "01a05fd8-a3b8-7ade-aff7-ce757938360b", "metricId": "resistance-spell", "type": "number-for-seconds", "value": 1320, "seconds": 5.5}

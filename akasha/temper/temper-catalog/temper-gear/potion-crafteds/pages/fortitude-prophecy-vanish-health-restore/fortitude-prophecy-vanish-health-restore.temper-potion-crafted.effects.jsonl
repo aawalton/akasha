@@ -1,1 +1,4 @@
-{"id":"01a05fd8-a3b8-78c1-bfc3-032359197344","metricId":"health-restore","type":"number-per-seconds","value":8369,"seconds":45}
+{"id": "01a05fd8-a3b8-78c1-bfc3-032359197344", "metricId": "health-restore", "type": "number-per-seconds", "value": 8369, "seconds": 45}
+{"id": "01a05fd8-a3b8-7361-9432-ac470f917efe", "buffId": "major-fortitude", "seconds": 36.6}
+{"id": "01a05fd8-a3b8-773c-812d-e335e62b182d", "buffId": "vanish", "seconds": 12}
+{"id": "01a05fd8-a3b8-72ac-ac3c-ed9606724b46", "buffId": "major-prophecy", "seconds": 36.6}

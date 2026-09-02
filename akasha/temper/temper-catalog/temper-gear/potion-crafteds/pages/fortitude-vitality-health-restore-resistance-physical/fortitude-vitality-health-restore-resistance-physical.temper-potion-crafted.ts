@@ -16,5 +16,4 @@ export const fortitudeVitalityHealthRestoreResistancePhysical = {
     },
   ],
   effects: "jsonl",
-  buffs: "jsonl",
 } as const satisfies TemperPotionCrafted

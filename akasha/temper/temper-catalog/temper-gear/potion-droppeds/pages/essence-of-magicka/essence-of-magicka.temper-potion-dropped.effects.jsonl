@@ -1,1 +1,2 @@
-{"id":"01a05fd8-a3b8-7b8a-a0c7-79090848f13a","metricId":"magicka-restore","type":"number-per-seconds","value":6066,"seconds":45}
+{"id": "01a05fd8-a3b8-7b8a-a0c7-79090848f13a", "metricId": "magicka-restore", "type": "number-per-seconds", "value": 6066, "seconds": 45}
+{"id": "01a05fd8-a3b8-7cc1-a071-55e20c2bb592", "buffId": "major-intellect", "seconds": 22.1}

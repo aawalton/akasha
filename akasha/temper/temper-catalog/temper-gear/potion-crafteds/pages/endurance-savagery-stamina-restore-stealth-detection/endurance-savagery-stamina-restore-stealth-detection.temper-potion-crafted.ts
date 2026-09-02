@@ -16,5 +16,4 @@ export const enduranceSavageryStaminaRestoreStealthDetection = {
     },
   ],
   effects: "jsonl",
-  buffs: "jsonl",
 } as const satisfies TemperPotionCrafted

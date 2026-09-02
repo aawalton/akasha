@@ -9,5 +9,5 @@ export const protection = {
   icon: "resources/crafting_poison_trait_protection.png",
   isPositive: true,
   oppositeId: "vulnerability",
-  buffs: "jsonl",
+  effects: "jsonl",
 } as const satisfies TemperPoisonEffect

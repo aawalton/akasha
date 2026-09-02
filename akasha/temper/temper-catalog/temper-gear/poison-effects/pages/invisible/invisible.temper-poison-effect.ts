@@ -9,5 +9,5 @@ export const invisible = {
   icon: "resources/crafting_alchemy_trait_invisible.png",
   isPositive: true,
   oppositeId: "detection",
-  buffs: "jsonl",
+  effects: "jsonl",
 } as const satisfies TemperPoisonEffect

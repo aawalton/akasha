@@ -9,5 +9,5 @@ export const enervation = {
   icon: "resources/crafting_alchemy_trait_lowerweaponcrit.png",
   isPositive: false,
   oppositeId: "increase-weapon-crit",
-  debuffs: "jsonl",
+  effects: "jsonl",
 } as const satisfies TemperPoisonEffect

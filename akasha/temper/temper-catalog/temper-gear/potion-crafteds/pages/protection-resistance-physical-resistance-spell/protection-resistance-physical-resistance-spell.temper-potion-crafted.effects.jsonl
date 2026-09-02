@@ -1,2 +1,3 @@
-{"id":"01a05fd8-a3b8-76e8-acd6-ded6c011113b","metricId":"resistance-physical","type":"number-for-seconds","value":5280,"seconds":36.6}
-{"id":"01a05fd8-a3b8-77f0-84d6-746cf981fa07","metricId":"resistance-spell","type":"number-for-seconds","value":5280,"seconds":36.6}
+{"id": "01a05fd8-a3b8-76e8-acd6-ded6c011113b", "metricId": "resistance-physical", "type": "number-for-seconds", "value": 5280, "seconds": 36.6}
+{"id": "01a05fd8-a3b8-77f0-84d6-746cf981fa07", "metricId": "resistance-spell", "type": "number-for-seconds", "value": 5280, "seconds": 36.6}
+{"id": "01a05fd8-a3b8-7a5c-ab25-c6a31c16eea7", "buffId": "minor-protection", "seconds": 12}

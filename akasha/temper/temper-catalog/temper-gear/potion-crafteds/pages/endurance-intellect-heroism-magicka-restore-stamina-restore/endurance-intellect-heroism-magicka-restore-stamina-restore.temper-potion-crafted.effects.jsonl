@@ -1,2 +1,5 @@
-{"id":"01a05fd8-a3b8-794e-93c2-cead6b2ac0c2","metricId":"stamina-restore","type":"number-per-seconds","value":7582,"seconds":45}
-{"id":"01a05fd8-a3b8-771a-8a6f-7ea4003e5c3a","metricId":"magicka-restore","type":"number-per-seconds","value":7582,"seconds":45}
+{"id": "01a05fd8-a3b8-794e-93c2-cead6b2ac0c2", "metricId": "stamina-restore", "type": "number-per-seconds", "value": 7582, "seconds": 45}
+{"id": "01a05fd8-a3b8-771a-8a6f-7ea4003e5c3a", "metricId": "magicka-restore", "type": "number-per-seconds", "value": 7582, "seconds": 45}
+{"id": "01a05fd8-a3b8-7ff6-8ca4-1d95ce885a3d", "buffId": "major-endurance", "seconds": 36.6}
+{"id": "01a05fd8-a3b8-7bcf-a5f3-e9d663502ea7", "buffId": "major-intellect", "seconds": 36.6}
+{"id": "01a05fd8-a3b8-73d3-94ea-28f047846398", "buffId": "minor-heroism", "seconds": 36.6}

@@ -9,5 +9,5 @@ export const maim = {
   icon: "resources/crafting_alchemy_trait_lowerweaponpower.png",
   isPositive: false,
   oppositeId: "increase-weapon-power",
-  debuffs: "jsonl",
+  effects: "jsonl",
 } as const satisfies TemperPoisonEffect

@@ -9,5 +9,5 @@ export const speed = {
   icon: "resources/crafting_alchemy_trait_speed.png",
   isPositive: true,
   oppositeId: "hindrance",
-  buffs: "jsonl",
+  effects: "jsonl",
 } as const satisfies TemperPoisonEffect

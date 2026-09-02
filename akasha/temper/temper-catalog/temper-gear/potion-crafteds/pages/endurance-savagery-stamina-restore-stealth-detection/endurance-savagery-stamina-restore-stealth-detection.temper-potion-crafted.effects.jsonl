@@ -1,2 +1,4 @@
-{"id":"01a05fd8-a3b8-7509-9cda-87ad8a16885a","metricId":"stamina-restore","type":"number-per-seconds","value":7582,"seconds":45}
-{"id":"01a05fd8-a3b8-73cf-955e-3a82a1e6663c","metricId":"stealth-detection","type":"number-for-seconds","value":43.5,"seconds":12}
+{"id": "01a05fd8-a3b8-7509-9cda-87ad8a16885a", "metricId": "stamina-restore", "type": "number-per-seconds", "value": 7582, "seconds": 45}
+{"id": "01a05fd8-a3b8-73cf-955e-3a82a1e6663c", "metricId": "stealth-detection", "type": "number-for-seconds", "value": 43.5, "seconds": 12}
+{"id": "01a05fd8-a3b8-71eb-8ca7-81cc77b75a73", "buffId": "major-endurance", "seconds": 36.6}
+{"id": "01a05fd8-a3b8-777e-a121-8f6ec141d3ff", "buffId": "major-savagery", "seconds": 36.6}

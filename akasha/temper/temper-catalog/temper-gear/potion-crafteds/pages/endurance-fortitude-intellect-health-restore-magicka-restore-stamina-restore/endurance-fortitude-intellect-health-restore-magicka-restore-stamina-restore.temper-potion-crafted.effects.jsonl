@@ -1,3 +1,6 @@
-{"id":"01a05fd8-a3b8-7d4a-b6be-36786ce07b64","metricId":"stamina-restore","type":"number-per-seconds","value":7582,"seconds":45}
-{"id":"01a05fd8-a3b8-78c6-9ee6-245a05c7b3d0","metricId":"health-restore","type":"number-per-seconds","value":8369,"seconds":45}
-{"id":"01a05fd8-a3b8-7bf4-9d39-8cf976e6c419","metricId":"magicka-restore","type":"number-per-seconds","value":7582,"seconds":45}
+{"id": "01a05fd8-a3b8-7d4a-b6be-36786ce07b64", "metricId": "stamina-restore", "type": "number-per-seconds", "value": 7582, "seconds": 45}
+{"id": "01a05fd8-a3b8-78c6-9ee6-245a05c7b3d0", "metricId": "health-restore", "type": "number-per-seconds", "value": 8369, "seconds": 45}
+{"id": "01a05fd8-a3b8-7bf4-9d39-8cf976e6c419", "metricId": "magicka-restore", "type": "number-per-seconds", "value": 7582, "seconds": 45}
+{"id": "01a05fd8-a3b8-77ce-8f90-271e4bb561b5", "buffId": "major-endurance", "seconds": 36.6}
+{"id": "01a05fd8-a3b8-7da5-be7e-2f5f881f25dc", "buffId": "major-fortitude", "seconds": 36.6}
+{"id": "01a05fd8-a3b8-7594-a94c-03c1c78a30ab", "buffId": "major-intellect", "seconds": 36.6}

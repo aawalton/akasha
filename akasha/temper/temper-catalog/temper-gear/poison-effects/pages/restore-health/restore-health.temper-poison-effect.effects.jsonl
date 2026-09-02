@@ -1,2 +1,2 @@
-{"id":"01a05fd8-a3b8-7e17-86bf-740d7e7e186c","metricId":"target-damage-taken-poison","type":"number-for-seconds","value":1266,"seconds":3.9}
-{"id":"01a05fd8-a3b8-7211-9405-55c3e0d28450","metricId":"health-restore","type":"number-for-seconds","value":1266,"seconds":3.9}
+{"id": "01a05fd8-a3b8-7e17-86bf-740d7e7e186c", "metricId": "target-damage-taken-poison", "type": "number-for-seconds", "value": 1266, "seconds": 3.9}
+{"id": "01a05fd8-a3b8-7211-9405-55c3e0d28450", "metricId": "health-restore", "type": "number-for-seconds", "value": 1266, "seconds": 3.9}

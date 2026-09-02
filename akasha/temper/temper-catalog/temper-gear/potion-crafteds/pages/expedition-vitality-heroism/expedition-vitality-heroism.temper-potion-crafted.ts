@@ -15,5 +15,5 @@ export const expeditionVitalityHeroism = {
       names: ["Dragon's Bile", "Dragon Rheum", "Powdered Mother of Pearl"],
     },
   ],
-  buffs: "jsonl",
+  effects: "jsonl",
 } as const satisfies TemperPotionCrafted

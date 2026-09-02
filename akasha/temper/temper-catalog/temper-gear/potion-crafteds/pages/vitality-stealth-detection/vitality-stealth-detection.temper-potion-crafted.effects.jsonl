@@ -1,1 +1,2 @@
-{"id":"01a05fd8-a3b8-70ce-b1bd-47605019350e","metricId":"stealth-detection","type":"number-for-seconds","value":43.5,"seconds":12}
+{"id": "01a05fd8-a3b8-70ce-b1bd-47605019350e", "metricId": "stealth-detection", "type": "number-for-seconds", "value": 43.5, "seconds": 12}
+{"id": "01a05fd8-a3b8-7f92-ba67-510bdd5a744f", "buffId": "major-vitality", "seconds": 12}

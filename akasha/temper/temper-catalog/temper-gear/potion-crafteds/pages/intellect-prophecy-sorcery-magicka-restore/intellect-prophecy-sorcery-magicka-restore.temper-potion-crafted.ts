@@ -22,5 +22,4 @@ export const intellectProphecySorceryMagickaRestore = {
     },
   ],
   effects: "jsonl",
-  buffs: "jsonl",
 } as const satisfies TemperPotionCrafted

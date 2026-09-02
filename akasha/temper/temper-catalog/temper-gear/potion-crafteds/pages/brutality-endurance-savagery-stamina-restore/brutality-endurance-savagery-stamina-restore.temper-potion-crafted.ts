@@ -19,5 +19,4 @@ export const brutalityEnduranceSavageryStaminaRestore = {
     },
   ],
   effects: "jsonl",
-  buffs: "jsonl",
 } as const satisfies TemperPotionCrafted

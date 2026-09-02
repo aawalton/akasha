@@ -1,2 +1,2 @@
-{"id":"01a05fd8-a3b8-7ce9-b85b-6a7fc9db7167","metricId":"target-stamina-ability-cost","type":"fraction-change-for-seconds","value":0.1,"seconds":5.5}
-{"id":"01a05fd8-a3b8-7699-9f9c-3053d80a3414","metricId":"stamina-restore","type":"number-for-seconds","value":238,"seconds":5.5}
+{"id": "01a05fd8-a3b8-7ce9-b85b-6a7fc9db7167", "metricId": "target-stamina-ability-cost", "type": "fraction-change-for-seconds", "value": 0.1, "seconds": 5.5}
+{"id": "01a05fd8-a3b8-7699-9f9c-3053d80a3414", "metricId": "stamina-restore", "type": "number-for-seconds", "value": 238, "seconds": 5.5}

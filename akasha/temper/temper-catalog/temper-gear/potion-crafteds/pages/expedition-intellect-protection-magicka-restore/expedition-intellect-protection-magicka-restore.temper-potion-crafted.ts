@@ -16,5 +16,4 @@ export const expeditionIntellectProtectionMagickaRestore = {
     },
   ],
   effects: "jsonl",
-  buffs: "jsonl",
 } as const satisfies TemperPotionCrafted

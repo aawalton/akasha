@@ -16,5 +16,4 @@ export const crownTriRestorationPotion = {
   level: "Scaled",
   seconds: 36.3,
   effects: "jsonl",
-  buffs: "jsonl",
 } as const satisfies TemperPotionCrown

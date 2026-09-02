@@ -16,5 +16,4 @@ export const intellectMagickaRestoreResistanceSpellStealthDetection = {
     },
   ],
   effects: "jsonl",
-  buffs: "jsonl",
 } as const satisfies TemperPotionCrafted

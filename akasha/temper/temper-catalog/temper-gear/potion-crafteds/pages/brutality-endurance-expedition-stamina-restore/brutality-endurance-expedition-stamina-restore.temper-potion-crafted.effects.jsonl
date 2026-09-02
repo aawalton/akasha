@@ -1,1 +1,4 @@
-{"id":"01a05fd8-a3b8-7298-9ef6-99d81507e2ab","metricId":"stamina-restore","type":"number-per-seconds","value":7582,"seconds":45}
+{"id": "01a05fd8-a3b8-7298-9ef6-99d81507e2ab", "metricId": "stamina-restore", "type": "number-per-seconds", "value": 7582, "seconds": 45}
+{"id": "01a05fd8-a3b8-7a94-8230-412dbf8a9aa5", "buffId": "major-expedition", "seconds": 12}
+{"id": "01a05fd8-a3b8-72d2-b9a0-92a81b1683c9", "buffId": "major-endurance", "seconds": 36.6}
+{"id": "01a05fd8-a3b8-7b21-bf38-b416c1c1b410", "buffId": "major-brutality", "seconds": 36.6}

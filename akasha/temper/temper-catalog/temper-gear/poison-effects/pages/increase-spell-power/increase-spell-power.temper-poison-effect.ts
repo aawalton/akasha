@@ -9,5 +9,5 @@ export const increaseSpellPower = {
   icon: "resources/crafting_alchemy_trait_increasespellpower.png",
   isPositive: true,
   oppositeId: "cowardice",
-  buffs: "jsonl",
+  effects: "jsonl",
 } as const satisfies TemperPoisonEffect

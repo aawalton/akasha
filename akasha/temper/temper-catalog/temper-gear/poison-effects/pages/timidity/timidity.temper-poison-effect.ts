@@ -9,5 +9,5 @@ export const timidity = {
   icon: "resources/crafting_alchemy_trait_timidity.png",
   isPositive: false,
   oppositeId: "heroism",
-  debuffs: "jsonl",
+  effects: "jsonl",
 } as const satisfies TemperPoisonEffect

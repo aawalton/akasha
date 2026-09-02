@@ -19,5 +19,4 @@ export const fortitudeProphecyVanishHealthRestore = {
     },
   ],
   effects: "jsonl",
-  buffs: "jsonl",
 } as const satisfies TemperPotionCrafted

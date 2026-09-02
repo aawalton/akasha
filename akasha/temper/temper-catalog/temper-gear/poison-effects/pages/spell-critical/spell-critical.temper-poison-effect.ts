@@ -9,5 +9,5 @@ export const spellCritical = {
   icon: "resources/crafting_alchemy_trait_spellcrit.png",
   isPositive: true,
   oppositeId: "uncertainty",
-  buffs: "jsonl",
+  effects: "jsonl",
 } as const satisfies TemperPoisonEffect

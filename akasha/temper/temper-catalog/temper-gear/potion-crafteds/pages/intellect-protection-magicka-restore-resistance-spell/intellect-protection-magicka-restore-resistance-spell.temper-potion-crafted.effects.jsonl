@@ -1,2 +1,4 @@
-{"id":"01a05fd8-a3b8-72c2-843a-7204eae43842","metricId":"resistance-spell","type":"number-for-seconds","value":5280,"seconds":36.6}
-{"id":"01a05fd8-a3b8-7fa4-8d3b-27742de1641e","metricId":"magicka-restore","type":"number-per-seconds","value":7582,"seconds":45}
+{"id": "01a05fd8-a3b8-72c2-843a-7204eae43842", "metricId": "resistance-spell", "type": "number-for-seconds", "value": 5280, "seconds": 36.6}
+{"id": "01a05fd8-a3b8-7fa4-8d3b-27742de1641e", "metricId": "magicka-restore", "type": "number-per-seconds", "value": 7582, "seconds": 45}
+{"id": "01a05fd8-a3b8-7d88-9ba8-a3dd6b2b2b61", "buffId": "major-intellect", "seconds": 36.6}
+{"id": "01a05fd8-a3b8-7407-967d-f0bfc503475a", "buffId": "minor-protection", "seconds": 12}

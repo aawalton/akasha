@@ -1,1 +1,2 @@
-{"id":"01a05fd8-a3b8-7272-959f-cb2a01bf69fc","metricId":"stamina-restore","type":"number-per-seconds","value":6066,"seconds":45}
+{"id": "01a05fd8-a3b8-7272-959f-cb2a01bf69fc", "metricId": "stamina-restore", "type": "number-per-seconds", "value": 6066, "seconds": 45}
+{"id": "01a05fd8-a3b8-7a9e-8914-89ed146ce04f", "buffId": "major-endurance", "seconds": 22.1}

@@ -73,5 +73,4 @@ export const vitalityStealthDetection = {
     },
   ],
   effects: "jsonl",
-  buffs: "jsonl",
 } as const satisfies TemperPotionCrafted

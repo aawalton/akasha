@@ -1,2 +1,4 @@
-{"id":"01a05fd8-a3b8-7985-9472-b1c699246ff5","metricId":"stealth-detection","type":"number-for-seconds","value":43.5,"seconds":12}
-{"id":"01a05fd8-a3b8-7187-afe1-8d49c2de2c8e","metricId":"magicka-restore","type":"number-per-seconds","value":7582,"seconds":45}
+{"id": "01a05fd8-a3b8-7985-9472-b1c699246ff5", "metricId": "stealth-detection", "type": "number-for-seconds", "value": 43.5, "seconds": 12}
+{"id": "01a05fd8-a3b8-7187-afe1-8d49c2de2c8e", "metricId": "magicka-restore", "type": "number-per-seconds", "value": 7582, "seconds": 45}
+{"id": "01a05fd8-a3b8-725f-8b49-86409ed165bf", "buffId": "major-intellect", "seconds": 36.6}
+{"id": "01a05fd8-a3b8-771a-9e73-7f51bd1c2c1a", "buffId": "major-sorcery", "seconds": 36.6}

@@ -14,5 +14,4 @@ export const essenceOfMagicka = {
   level: "CP160",
   seconds: 22.1,
   effects: "jsonl",
-  buffs: "jsonl",
 } as const satisfies TemperPotionDropped

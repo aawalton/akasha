@@ -1,2 +1,4 @@
-{"id":"01a05fd8-a3b8-77d4-8e64-8fe344310c01","metricId":"resistance-physical","type":"number-for-seconds","value":5280,"seconds":36.6}
-{"id":"01a05fd8-a3b8-71a0-ac8a-2c79e89575d9","metricId":"health-restore","type":"number-per-seconds","value":8369,"seconds":45}
+{"id": "01a05fd8-a3b8-77d4-8e64-8fe344310c01", "metricId": "resistance-physical", "type": "number-for-seconds", "value": 5280, "seconds": 36.6}
+{"id": "01a05fd8-a3b8-71a0-ac8a-2c79e89575d9", "metricId": "health-restore", "type": "number-per-seconds", "value": 8369, "seconds": 45}
+{"id": "01a05fd8-a3b8-72d0-8147-2cc940fa0fec", "buffId": "major-vitality", "seconds": 12}
+{"id": "01a05fd8-a3b8-79ee-ac44-af68dc6e2aa6", "buffId": "major-fortitude", "seconds": 36.6}

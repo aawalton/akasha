@@ -9,5 +9,5 @@ export const defile = {
   icon: "resources/crafting_poison_trait_decreasehealing.png",
   isPositive: false,
   oppositeId: "vitality",
-  debuffs: "jsonl",
+  effects: "jsonl",
 } as const satisfies TemperPoisonEffect

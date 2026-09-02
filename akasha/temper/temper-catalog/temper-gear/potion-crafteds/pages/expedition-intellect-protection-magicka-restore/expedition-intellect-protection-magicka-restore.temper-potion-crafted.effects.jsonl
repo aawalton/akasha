@@ -1,1 +1,4 @@
-{"id":"01a05fd8-a3b8-7cc9-9948-47020c9d71c6","metricId":"magicka-restore","type":"number-per-seconds","value":7582,"seconds":45}
+{"id": "01a05fd8-a3b8-7cc9-9948-47020c9d71c6", "metricId": "magicka-restore", "type": "number-per-seconds", "value": 7582, "seconds": 45}
+{"id": "01a05fd8-a3b8-799e-b277-3d7acf1fdaf3", "buffId": "major-expedition", "seconds": 12}
+{"id": "01a05fd8-a3b8-7a7a-91c9-4e23c3a4e035", "buffId": "major-intellect", "seconds": 36.6}
+{"id": "01a05fd8-a3b8-701d-8c66-08b8d47d4065", "buffId": "minor-protection", "seconds": 12}
