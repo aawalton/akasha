@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's four panels each show what akasha holds.",
       workingMemory:
-        "The host was the wall, not the panels: the observation write held the thread 4579ms of every stretch and holds 124ms since `8be23cdcca`. Domains reads fell 10.9 a minute to 4.4 and redraws to 0.75 at `b1b5f17e6e`, once equal bytes stopped being reparsed. What is left is that Pages reads from outside akasha — 3180 of its 3243 rows come from `pages/`, the markdown store, against 63 from akasha. Alan says akasha only, served from the index.",
+        "All four panels and the bar draw, measured at `7a6d788132`: activation 278ms against the 4506ms recorded here, page-tree 64ms against 4357ms. Pages draws 2376 rows over 997 akasha files and none from anywhere else, where before it drew 3180 from `pages/` and none from akasha. Domains 7313 rows on 16 roots, Work 13, Agents 93. Two gaps: 258 Pages rows open no document, since no domain page is named for a property kind, and Agents reads transcripts rather than pages.",
     },
     {
       statement: "Nothing reads a readout through the markdown engine.",
