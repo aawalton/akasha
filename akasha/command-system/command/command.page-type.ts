@@ -20,6 +20,7 @@ export const command = {
     "command/audit",
     "command/deploy",
     "command/edit",
+    "command/importing",
     "command/index",
     "command/ios-app",
     "command/lint",
