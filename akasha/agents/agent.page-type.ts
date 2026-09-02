@@ -2,10 +2,12 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { AssignmentSlug } from "../seat-system/seat/properties/assignment-slug.text-property.ts"
 import type { PrincipalSeatName } from "../seat-system/seat/properties/principal-seat-name.relation-property.ts"
+import type { Patch } from "./properties/patch.file-property.ts"
 
 export type Agent = Page & {
   assignmentSlug: AssignmentSlug
   principalSeatName?: PrincipalSeatName
+  patch?: Patch
 }
 
 export const agent = {
@@ -16,7 +18,11 @@ export const agent = {
   pluralSlug: "agents",
   extendsSlug: "page-type/page",
   mortal: true,
-  partSlugs: ["relation-property/principal-seat-name", "text-property/assignment-slug"],
+  partSlugs: [
+    "file-property/patch",
+    "relation-property/principal-seat-name",
+    "text-property/assignment-slug",
+  ],
   properties: [
     {
       pagePropertySlug: "assignment-slug",
@@ -25,6 +31,7 @@ export const agent = {
       default: "domain/akasha-system",
     },
     { pagePropertySlug: "principal-seat-name", required: false, many: false },
+    { pagePropertySlug: "patch", required: false, many: false, uncommitted: true, default: "diff" },
   ],
   invariants: [
     {
@@ -46,6 +53,10 @@ export const agent = {
     {
       invariantKind: "departure",
       statement: "An agent answers for the assignment the agent states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent drafts into one patch rather than into a patch for each change.",
     },
     {
       invariantKind: "gap",

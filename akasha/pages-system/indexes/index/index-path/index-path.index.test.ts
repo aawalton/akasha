@@ -3,11 +3,17 @@ import type { SidecarsBy } from "../../index-entries/index-entries.module.code.t
 import { A } from "../../index-entries/index-entries.module.test-fixtures.ts"
 import { pathIn } from "./index-path.index.code.ts"
 
+const BESIDES: ReadonlyMap<string, string> = new Map()
+
 const NONE: SidecarsBy = new Map()
 
-const SECRET: SidecarsBy = new Map([["domain", { secret: true, uncommitted: false }]])
+const SECRET: SidecarsBy = new Map([
+  ["domain", { secret: true, uncommitted: false, besides: BESIDES }],
+])
 
-const UNCOMMITTED: SidecarsBy = new Map([["domain", { secret: false, uncommitted: true }]])
+const UNCOMMITTED: SidecarsBy = new Map([
+  ["domain", { secret: false, uncommitted: true, besides: BESIDES }],
+])
 
 test("a path is filed under the path alone, with no scope or property above it", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
@@ -35,6 +41,62 @@ test("a page whose type declares an uncommitted value claims the file beside it"
   expect(pathIn(value, "/repo/a.domain.ts", "/repo", new Map(), UNCOMMITTED)).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
     { at: "path/a.domain.uncommitted.ts.jsonl", line },
+  ])
+})
+
+test("a page whose type declares an uncommitted file property claims that file beside it", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const line = `{"path":"a.domain.ts","id":"${A}"}`
+  const drafting: SidecarsBy = new Map([
+    ["domain", { secret: false, uncommitted: true, besides: new Map([["patch", "diff"]]) }],
+  ])
+  const filed = new Map<string, string | null>([["patch", null]])
+
+  expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, drafting)).toEqual([
+    { at: "path/a.domain.ts.jsonl", line },
+    { at: "path/a.domain.uncommitted.ts.jsonl", line },
+    { at: "path/a.domain.patch.uncommitted.diff.jsonl", line },
+  ])
+})
+
+test("a page states no uncommitted file property, so the page claims it without stating it", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", patch: "diff" }
+  const line = `{"path":"a.domain.ts","id":"${A}"}`
+  const drafting: SidecarsBy = new Map([
+    ["domain", { secret: false, uncommitted: false, besides: new Map([["patch", "diff"]]) }],
+  ])
+  const filed = new Map<string, string | null>([["patch", null]])
+
+  expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, drafting)).toEqual([
+    { at: "path/a.domain.ts.jsonl", line },
+    { at: "path/a.domain.patch.diff.jsonl", line },
+    { at: "path/a.domain.patch.uncommitted.diff.jsonl", line },
+  ])
+})
+
+test("an uncommitted value held in no file claims no file beside the page", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const line = `{"path":"a.domain.ts","id":"${A}"}`
+  const held: SidecarsBy = new Map([
+    ["domain", { secret: false, uncommitted: true, besides: new Map([["model", "ts"]]) }],
+  ])
+
+  expect(pathIn(value, "/repo/a.domain.ts", "/repo", new Map(), held)).toEqual([
+    { at: "path/a.domain.ts.jsonl", line },
+    { at: "path/a.domain.uncommitted.ts.jsonl", line },
+  ])
+})
+
+test("a property naming its file outright claims no uncommitted file beside it", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const line = `{"path":"a.domain.ts","id":"${A}"}`
+  const held: SidecarsBy = new Map([
+    ["domain", { secret: false, uncommitted: false, besides: new Map([["manifest", "json"]]) }],
+  ])
+  const filed = new Map<string, string | null>([["manifest", "package.json"]])
+
+  expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, held)).toEqual([
+    { at: "path/a.domain.ts.jsonl", line },
   ])
 })
 

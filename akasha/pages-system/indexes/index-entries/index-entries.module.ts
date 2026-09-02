@@ -34,6 +34,23 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page whose type declares an uncommitted file property claims that property's file beside the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That file is claimed from the page's type rather than from what the page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That file is held under the extension its declaration states as a default.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property whose file is named outright is claimed once rather than twice.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The naming grammar lets no other page claim either file.",
     },
     {
@@ -54,7 +71,7 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "A file that a page claims without stating is not asked to stand.",
+      statement: "A file that a page claims without stating is not asked to be there.",
     },
   ],
 } as const satisfies Module
