@@ -5,7 +5,7 @@ export const athena = {
   pageTypeSlug: "seat",
   slug: "athena",
   personaSlug: "athena",
-  assignmentSlug: "initiative/athena-model-gateway-into-akasha",
+  assignmentSlug: "domain/athena-model-gateway-into-akasha",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
