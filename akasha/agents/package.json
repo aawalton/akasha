@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./claude-account-measuring": "./claude-accounts/modules/measuring/claude-account-measuring.module.code.ts"
+    "./claude-account-measuring": "./claude-accounts/modules/measuring/claude-account-measuring.module.code.ts",
+    "./patch-keeping": "./patch-keeping/patch-keeping.module.code.ts"
   },
   "dependencies": {
     "@akasha/pages-system": "workspace:*",

@@ -31,6 +31,7 @@ export const commandSystem = {
     "module/manifest-locking",
     "module/body-merging",
     "module/patching",
+    "module/drafting",
   ],
   invariants: [
     {
