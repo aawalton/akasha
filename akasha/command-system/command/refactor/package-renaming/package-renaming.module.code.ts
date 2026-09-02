@@ -10,11 +10,7 @@ import {
   respeltNames,
 } from "../../../outside-naming/outside-naming.module.code.ts"
 import { nameIn, reachedOver } from "../../../package-linking/package-linking.module.code.ts"
-import {
-  bodyTextOf,
-  respelledLanded,
-  were,
-} from "../refactor-landing/refactor-landing.module.code.ts"
+import { bodyTextOf, respelledLanded, were } from "../landing/refactor-landing.module.code.ts"
 import type { Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
 

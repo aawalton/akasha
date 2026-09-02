@@ -1,8 +1,8 @@
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
-import { shipIosApp } from "./deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
-import { IOS_APP, kindNamed } from "./deploy-kind-reading/deploy-kind-reading.module.code.ts"
-import { putUpWebApp } from "./deploy-web-putting-up/deploy-web-putting-up.module.code.ts"
+import { shipIosApp } from "./ios-shipping/deploy-ios-shipping.module.code.ts"
+import { IOS_APP, kindNamed } from "./kind-reading/deploy-kind-reading.module.code.ts"
+import { putUpWebApp } from "./web-putting-up/deploy-web-putting-up.module.code.ts"
 
 const INPUT = 1
 const DATA = 2

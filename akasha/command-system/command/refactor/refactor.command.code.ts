@@ -17,9 +17,6 @@ import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import { importingOf, move, spellingOf } from "../move/move.command.code.ts"
 import { repointed } from "../move/move-repointing/move-repointing.module.code.ts"
 import { glassIn, messageIn } from "../write/write.command.code.ts"
-import type { Keying, Respelling } from "./key-respelling/key-respelling.module.code.ts"
-import { keyingFor, respellingFor } from "./key-respelling/key-respelling.module.code.ts"
-import { packageLanded } from "./package-renaming/package-renaming.module.code.ts"
 import {
   AT,
   FROM,
@@ -28,12 +25,11 @@ import {
   PLURAL,
   TO,
   VALUED,
-} from "./refactor-arguing/refactor-arguing.module.code.ts"
-import {
-  bodyTextOf,
-  respelledLanded,
-  were,
-} from "./refactor-landing/refactor-landing.module.code.ts"
+} from "./arguing/refactor-arguing.module.code.ts"
+import type { Keying, Respelling } from "./key-respelling/key-respelling.module.code.ts"
+import { keyingFor, respellingFor } from "./key-respelling/key-respelling.module.code.ts"
+import { bodyTextOf, respelledLanded, were } from "./landing/refactor-landing.module.code.ts"
+import { packageLanded } from "./package-renaming/package-renaming.module.code.ts"
 import { pairFor, passedOn } from "./slug-renaming/slug-renaming.module.code.ts"
 import type { Tokening } from "./token-renaming/token-renaming.module.code.ts"
 import {

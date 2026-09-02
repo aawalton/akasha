@@ -27,13 +27,13 @@ import {
   offRepo,
   pathAt,
 } from "../write/write.command.code.ts"
-import { leftNaming, leftNamingSaid } from "./remove-naming/remove-naming.module.code.ts"
-import type { Span } from "./remove-workspacing/remove-workspacing.module.code.ts"
+import { leftNaming, leftNamingSaid } from "./naming/remove-naming.module.code.ts"
+import type { Span } from "./workspacing/remove-workspacing.module.code.ts"
 import {
   listEntrySpan,
   workspacingFor,
   workspacingSaid,
-} from "./remove-workspacing/remove-workspacing.module.code.ts"
+} from "./workspacing/remove-workspacing.module.code.ts"
 
 const VALUED = [FILE_PATH, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
