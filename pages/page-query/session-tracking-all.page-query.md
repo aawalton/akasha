@@ -9,6 +9,7 @@ keys:
   - start-time
   - end-time
   - daily-tracking
+  - daily-tracking-slug
   - safety-level
   - difficulty-level
   - capacity-rate
