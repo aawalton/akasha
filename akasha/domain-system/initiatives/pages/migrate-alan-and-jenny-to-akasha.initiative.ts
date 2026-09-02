@@ -41,7 +41,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The interior of Alan's site stands in akasha.",
       workingMemory:
-        "`lib` 53, `idle` 50, `awen` 51, `components` 19, `hooks` 2, `questions` 4 under `alanwalton/web/app/`: 179 files as one landing, none moved. `app/` holds 257, so 78 files sit outside that census. Only pages-ui gates it now; design-primitives landed, reached in 23 files over 49 statements. What waits is 31 `@shared/pages-ui` statements in 22 files, rewritten twice if this went first. `.json` and `.css` are no crux: `file-has-its-page` holds no extension list and they land as file properties.",
+        "`@shared/pages-ui` is down to 15 statements in 13 files, and 7 of those are akasha prose. The code is 4 `app-shell.tsx` and 2 under `infra/cluster-checks`, every one reaching the single file left in `src`: `use-app-nav-items.tsx`. So one naming conflict gates this intent as well as pages-ui, where `identifier-matches-its-place` reads a component off JSX nested in a callback. The `awen` folder went at `e284363224`, so the 179-file census wants retaking before this lands.",
     },
     {
       statement:
