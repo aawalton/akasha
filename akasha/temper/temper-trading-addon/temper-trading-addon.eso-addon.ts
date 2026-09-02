@@ -7,6 +7,7 @@ export const temperTradingAddon = {
   definition: "the add-on a player browses guild store listings from and prices a sale by",
   manifest: "json",
   addonManifest: "json",
+  bundleEntrySlug: "trading-entry",
   bindings: "xml",
   gitIgnore: "gitignore",
   partSlugs: [
