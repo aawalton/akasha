@@ -8,7 +8,7 @@ export const personSlug = {
   pageTypeSlug: "relation-property",
   slug: "person-slug",
   propertySlug: "person-slug",
-  definition: "the person whose seat this is",
+  definition: "the person a page is of",
   targetPageTypeSlug: "page-type/person",
   invariants: [
     {
