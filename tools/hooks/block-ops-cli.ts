@@ -1,7 +1,8 @@
 const REASON =
   "The ops CLI is turned off. Use the ordinary tools instead: read and write files " +
-  "with the file tools, search with ripgrep, run git directly. Under `akasha/`, read " +
-  "and write with the akasha CLI, which records what you read and gates what you write."
+  "with the file tools, search with ripgrep, and ask git about the history. Under " +
+  "`akasha/`, read and write with the akasha CLI, which records what you read and gates " +
+  "what you write. This migration commits locally, so a push is refused wherever it is asked."
 
 function segmentsOf(command: string): string[] {
   const parts: string[] = []
