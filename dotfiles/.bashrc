@@ -138,11 +138,12 @@ export PATH="$HOME/.local/bin:$PATH"
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
-# personal cli. The generator moved to the instructions repository under #18237, where
-# every launcher it emits already reads its documents and calls its seat verb. `bun run`
-# on the direct entry path rather than a `node_modules/.bin` symlink: that repo declares
-# no bin field, and the same spelling is what `init/reload.ts` probes for on every launch.
-eval "$(bun run "$AKASHA_ROOT/tools/aw/cli.ts" init bash)"
+# personal cli. The set of shell functions is composed by `akasha shell-init-bash`, which
+# stands at `akasha/seat-system/commands/shell-init-bash/`. It composed nothing here for a while:
+# the generator it replaced kept being evalled after its own imports had stopped resolving, and a
+# generator that exits nonzero inside `$(...)` leaves the shell with no functions and says nothing.
+# `_akasha_reload` probes this same spelling on every launch, so the two agree by construction.
+eval "$("${AKASHA_ROOT:-$HOME/repos/akasha}/dotfiles/bin/akasha" shell-init-bash)"
 export DISABLE_COST_WARNINGS=1
 
 export PATH="$AKASHA_ROOT/infra/scripts:$PATH"
