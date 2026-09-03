@@ -14,19 +14,19 @@ import type { SeatResume } from "@akasha/seat-system/supervisor-args"
 import { materializeBootPrompt } from "@akasha/seat-system/supervisor-boot-prompt"
 import { stage } from "@akasha/seat-system/supervisor-boot-stage"
 import { LOG } from "@akasha/seat-system/supervisor-config"
-import { buildInteractiveCLIArgs } from "@tools/lib/claude-launch-args"
-import { armForceExitTimer } from "@tools/lib/supervisor-lifecycle"
-import { resolveMcpConfig } from "@tools/lib/supervisor-mcp"
-import type { CarriedAgentName } from "@tools/lib/supervisor-rebind-carry"
-import type { ClearRebindDeps } from "@tools/lib/supervisor-rebind-deps"
-import { isPendingReExec } from "@tools/lib/supervisor-self-heal-state"
+import type { CarriedAgentName } from "@akasha/seat-system/supervisor-rebind-carry"
+import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
+import { isPendingReExec } from "@akasha/seat-system/supervisor-self-heal-state"
 import {
   disallowedToolsForLaunch,
   resolveSubagentDefinitions,
-} from "@tools/lib/supervisor-spawn-agents"
-import { materializeSpawnSettings } from "@tools/lib/supervisor-spawn-settings"
-import { setOAuthProxyHandle } from "@tools/lib/supervisor-state"
-import type { AgentProcess } from "@tools/lib/supervisor-types"
+} from "@akasha/seat-system/supervisor-spawn-agents"
+import { materializeSpawnSettings } from "@akasha/seat-system/supervisor-spawn-settings"
+import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
+import type { AgentProcess } from "@akasha/seat-system/supervisor-types"
+import { buildInteractiveCLIArgs } from "@tools/lib/claude-launch-args"
+import { armForceExitTimer } from "@tools/lib/supervisor-lifecycle"
+import { resolveMcpConfig } from "@tools/lib/supervisor-mcp"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,

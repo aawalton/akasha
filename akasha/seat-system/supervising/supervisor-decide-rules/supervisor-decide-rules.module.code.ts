@@ -13,12 +13,12 @@ import {
   type ProxyAdoptionInput,
 } from "@akasha/seat-system/supervisor-proxy-adoption-decide"
 import { decideProxyLiveness } from "@akasha/seat-system/supervisor-proxy-liveness-decide"
-import { fail } from "@tools/lib/command"
-import { arr, bool, maybe, num, obj, str } from "@tools/lib/narrow"
 import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,
-} from "@tools/lib/supervisor-self-heal-jitter-decide"
+} from "@akasha/seat-system/supervisor-self-heal-jitter-decide"
+import { fail } from "@tools/lib/command"
+import { arr, bool, maybe, num, obj, str } from "@tools/lib/narrow"
 import {
   classifyChildExit,
   collapseChildExitStatus,

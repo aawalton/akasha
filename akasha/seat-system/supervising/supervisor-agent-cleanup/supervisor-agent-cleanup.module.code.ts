@@ -1,7 +1,7 @@
 import { existsSync, rmSync, unlinkSync } from "node:fs"
+import { processes } from "@akasha/seat-system/supervisor-state"
+import type { AgentProcess } from "@akasha/seat-system/supervisor-types"
 import { pushCredentialFileToPage } from "@tools/lib/oauth-file"
-import { processes } from "@tools/lib/supervisor-state"
-import type { AgentProcess } from "@tools/lib/supervisor-types"
 import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 const CREDENTIAL_PUSH_TIMEOUT_MS = 1_500

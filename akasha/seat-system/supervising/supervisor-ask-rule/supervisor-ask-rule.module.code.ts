@@ -2,7 +2,7 @@ import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,
 } from "@akasha/seat-system/supervisor-limit-resume-effects"
-import type { AskDecide } from "@tools/lib/supervisor-resume-asks"
+import type { AskDecide } from "@akasha/seat-system/supervisor-resume-asks"
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 export type RuleAnswer<T> = { readonly value: T; readonly notice: string | null }

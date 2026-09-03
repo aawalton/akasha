@@ -14,6 +14,7 @@ import {
   SEAT_MODE_INTERACTIVE,
   SEAT_MODES,
 } from "@akasha/seat-system/seat-modes"
+import type { StatedAgentSlots } from "@akasha/seat-system/supervisor-rebind-deps"
 import {
   composeSeatName,
   FLEET,
@@ -40,7 +41,6 @@ import { help } from "../../lib/seat-start-help.ts"
 import { setTurnState } from "../../lib/seat-turn.ts"
 import { type StatedIdentity, spawnSeat } from "../../lib/spawn-seat.ts"
 import { stateSpawnedSeat } from "../../lib/state-spawned-seat.ts"
-import type { StatedAgentSlots } from "../../lib/supervisor-rebind-deps.ts"
 
 export { help }
 

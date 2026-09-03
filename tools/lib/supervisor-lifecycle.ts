@@ -2,24 +2,27 @@ import type { ChildExitRuleSource } from "@akasha/seat-system/supervisor-child-e
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import { takeSeatPage } from "@akasha/seat-system/supervisor-heartbeat-beat"
 import { shouldWriteTerminalStoppedStatus } from "@akasha/seat-system/supervisor-lifecycle-death-write"
-import { shape } from "./shape.ts"
-import { teardownProxyVersionSubscription } from "./supervisor-proxy-version.ts"
-import { attemptInPlaceReExec } from "./supervisor-reexec.ts"
-import { resolveReExecArgv } from "./supervisor-self-heal.ts"
+import { teardownProxyVersionSubscription } from "@akasha/seat-system/supervisor-proxy-version"
+import { attemptInPlaceReExec } from "@akasha/seat-system/supervisor-reexec"
+import { resolveReExecArgv } from "@akasha/seat-system/supervisor-self-heal"
 import {
   getCurrentAgentIdForSelfHeal,
   isPendingReExec,
   SUPERVISOR_SCRIPT,
   teardownVersionSubscription,
-} from "./supervisor-self-heal-state"
-import { killProcessesForShutdown, recordShutdownEvent } from "./supervisor-shutdown-procs.ts"
+} from "@akasha/seat-system/supervisor-self-heal-state"
+import {
+  killProcessesForShutdown,
+  recordShutdownEvent,
+} from "@akasha/seat-system/supervisor-shutdown-procs"
 import {
   activeLifecycles,
   getObservedChildExit,
   isShuttingDown,
   processes,
   setShuttingDown,
-} from "./supervisor-state.ts"
+} from "@akasha/seat-system/supervisor-state"
+import { shape } from "./shape.ts"
 
 const SHUTDOWN_FORCE_EXIT_MS = 10_000
 const SHUTDOWN_SIGKILL_BACKSTOP_MS = 1_500

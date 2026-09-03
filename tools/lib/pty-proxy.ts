@@ -1,6 +1,7 @@
 #!/usr/bin/env bun
 
 import { writeSync } from "node:fs"
+import { applySttySane, TERMINAL_MODE_RESET } from "@akasha/seat-system/supervisor-terminal"
 import { type BunPtyTerminal, spawnPty } from "./bun-pty.ts"
 import {
   createRisingEdgeDetector,
@@ -8,7 +9,6 @@ import {
   INJECT_DELAY_MS,
 } from "./pty-proxy-detector.ts"
 import { createTerminalDeathController } from "./pty-terminal-death.ts"
-import { applySttySane, TERMINAL_MODE_RESET } from "./supervisor-terminal.ts"
 import { createTypingMinuteRecorder } from "./typing-minutes.ts"
 
 const TERMINAL_DEATH_GRACE_MS = 15_000
@@ -24,12 +24,10 @@ function rows(): number {
 function restoreTerminal(): undefined {
   try {
     if (process.stdin.isTTY === true) process.stdin.setRawMode(false)
-  } catch {
-  }
+  } catch {}
   try {
     writeSync(1, TERMINAL_MODE_RESET)
-  } catch {
-  }
+  } catch {}
   applySttySane()
 }
 
@@ -61,8 +59,7 @@ async function main(): Promise<number> {
           setTimeout(() => {
             try {
               term.write("\r")
-            } catch {
-            }
+            } catch {}
           }, INJECT_DELAY_MS)
         }
       },
@@ -78,16 +75,14 @@ async function main(): Promise<number> {
   process.stdin.on("data", (d: Uint8Array) => {
     try {
       term.write(d)
-    } catch {
-    }
+    } catch {}
     typingMinutes.note(Date.now())
   })
 
   process.on("SIGWINCH", () => {
     try {
       term.resize(cols(), rows())
-    } catch {
-    }
+    } catch {}
   })
 
   const forward = (): undefined => {
@@ -96,8 +91,7 @@ async function main(): Promise<number> {
     } catch {
       try {
         term.close()
-      } catch {
-      }
+      } catch {}
     }
   }
   process.on("SIGTERM", forward)
@@ -108,8 +102,7 @@ async function main(): Promise<number> {
     sigkillChild: (): undefined => {
       try {
         proc.kill(9)
-      } catch {
-      }
+      } catch {}
     },
     exit: (): undefined => process.exit(0),
     schedule: (onElapsed: () => void): (() => void) => {
@@ -124,8 +117,7 @@ async function main(): Promise<number> {
       process.stderr.write(
         `pty-proxy: controlling terminal died (${reason}); tearing down supervisor tree\n`
       )
-    } catch {
-    }
+    } catch {}
   }
   process.stdin.on("end", () => onTerminalDeath?.("stdin-end"))
   process.stdin.on("close", () => onTerminalDeath?.("stdin-close"))

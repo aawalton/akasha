@@ -1,5 +1,9 @@
 import { akashaRoot, resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { LOG } from "@akasha/seat-system/supervisor-config"
+import {
+  getCurrentAgentIdForSelfHeal,
+  getCurrentSessionIdForSelfHeal,
+} from "@akasha/seat-system/supervisor-self-heal-state"
 import type { Outcome } from "@tools/lib/gated-write"
 import { keepBeside } from "@tools/lib/seat-beside"
 import { nameFromHistory } from "@tools/lib/seat-page-history"
@@ -8,10 +12,6 @@ import { composedNameOf } from "@tools/lib/seat-rename"
 import { clearRotated } from "@tools/lib/seat-rotated-session"
 import { keepSession } from "@tools/lib/seat-session"
 import { keepTranscript } from "@tools/lib/seat-transcript-path"
-import {
-  getCurrentAgentIdForSelfHeal,
-  getCurrentSessionIdForSelfHeal,
-} from "@tools/lib/supervisor-self-heal-state"
 
 const BEAT = "seat-page-beat.ts"
 

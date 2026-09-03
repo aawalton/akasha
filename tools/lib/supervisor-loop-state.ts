@@ -1,6 +1,6 @@
 import type { SeatResume } from "@akasha/seat-system/supervisor-args"
-import type { CarriedAgentName } from "./supervisor-rebind-carry.ts"
-import type { AgentIdHandle } from "./supervisor-self-identity.ts"
+import type { CarriedAgentName } from "@akasha/seat-system/supervisor-rebind-carry"
+import type { AgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
 
 export type LoopState = {
   cwd: string

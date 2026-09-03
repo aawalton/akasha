@@ -9,23 +9,23 @@ import {
   resolveProxyOwnerAgentId,
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "@akasha/seat-system/supervisor-handoff-env"
-import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
-import { claimSeatSupervision } from "@tools/lib/seat-supervisor-claim"
-import { shape } from "@tools/lib/shape"
-import { startPerAgentMonitors } from "@tools/lib/supervisor-monitors-wire"
-import { installProxyVersionSubsystem } from "@tools/lib/supervisor-proxy-version"
+import { installProxyVersionSubsystem } from "@akasha/seat-system/supervisor-proxy-version"
 import {
   AGENT_MODE_HEADLESS,
   AGENT_MODE_INTERACTIVE,
   stateSeatDefaults,
-} from "@tools/lib/supervisor-seat-defaults"
-import { setProxyOwnerAgentIdForSelfHeal } from "@tools/lib/supervisor-self-heal-state"
-import { createAgentIdHandle } from "@tools/lib/supervisor-self-identity"
+} from "@akasha/seat-system/supervisor-seat-defaults"
+import { setProxyOwnerAgentIdForSelfHeal } from "@akasha/seat-system/supervisor-self-heal-state"
+import { createAgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
 import {
   setInheritedClaude,
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
-} from "@tools/lib/supervisor-state"
+} from "@akasha/seat-system/supervisor-state"
+import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
+import { claimSeatSupervision } from "@tools/lib/seat-supervisor-claim"
+import { shape } from "@tools/lib/shape"
+import { startPerAgentMonitors } from "@tools/lib/supervisor-monitors-wire"
 import { toolRestrictions } from "@tools/lib/tool-access"
 import type {
   InteractiveBootArgs,

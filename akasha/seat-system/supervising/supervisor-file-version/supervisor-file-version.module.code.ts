@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { dirname, join, normalize } from "node:path"
-import { AGENT_SETTINGS_PATH } from "@tools/lib/supervisor-spawn-settings"
+import { AGENT_SETTINGS_PATH } from "@akasha/seat-system/supervisor-spawn-settings"
 
 const RELATIVE_IMPORT = /from\s+"(\.[^"]*)"/g
 

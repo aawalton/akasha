@@ -5,22 +5,22 @@ import { spawnOrAdoptChild } from "@akasha/seat-system/supervisor-child-spawn"
 import { reconcileClaimedRedelivery } from "@akasha/seat-system/supervisor-claimed-reconcile"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
+import type { ClearRebindHooks } from "@akasha/seat-system/supervisor-rebind"
+import type { CarriedAgentName } from "@akasha/seat-system/supervisor-rebind-carry"
+import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
+import { redeliveryHoldoff } from "@akasha/seat-system/supervisor-redelivery-holdoff"
+import {
+  setCurrentAgentIdForSelfHeal,
+  setCurrentSessionIdForSelfHeal,
+} from "@akasha/seat-system/supervisor-self-heal-state"
+import type { AgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
+import { processes, setRestoreConsoleHandle } from "@akasha/seat-system/supervisor-state"
+import type { AgentProcess, InheritedProc } from "@akasha/seat-system/supervisor-types"
 import { readOwnTranscriptTail } from "@tools/lib/agent-io-probe"
 import { claimSeatSupervision } from "@tools/lib/seat-supervisor-claim"
 import { ANNOUNCE, sendMessage, USER_SOURCE } from "@tools/lib/supervisor-limit-resume-send"
 import { readClaimedBefore, releaseMessageClaim } from "@tools/lib/supervisor-message-claim"
-import type { ClearRebindHooks } from "@tools/lib/supervisor-rebind"
-import type { CarriedAgentName } from "@tools/lib/supervisor-rebind-carry"
-import type { ClearRebindDeps } from "@tools/lib/supervisor-rebind-deps"
-import { redeliveryHoldoff } from "@tools/lib/supervisor-redelivery-holdoff"
-import {
-  setCurrentAgentIdForSelfHeal,
-  setCurrentSessionIdForSelfHeal,
-} from "@tools/lib/supervisor-self-heal-state"
-import type { AgentIdHandle } from "@tools/lib/supervisor-self-identity"
 import { sessionProjectDir } from "@tools/lib/supervisor-session-project-dir"
-import { processes, setRestoreConsoleHandle } from "@tools/lib/supervisor-state"
-import type { AgentProcess, InheritedProc } from "@tools/lib/supervisor-types"
 import { USER_ID } from "@tools/lib/user-id"
 import { keepSeatTranscript } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type {

@@ -1,13 +1,13 @@
+import {
+  type SupervisorOAuthProxyHandle,
+  spawnOrAdoptOAuthProxy,
+} from "@akasha/seat-system/supervisor-spawn-oauth-proxy"
+import { writePacingSnapshot } from "@akasha/seat-system/supervisor-usage-snapshot"
 import { isAccountTerminal, markAccountTerminal } from "@tools/lib/account-terminal"
 import { reportOAuthRecovered, reportTerminalOAuthError } from "@tools/lib/agent-health-write"
 import { LIVE_HEALTH, writeTerminalHealth } from "@tools/lib/oauth-account-health"
 import { refreshCredentialFromPage, watchCredentialFile } from "@tools/lib/oauth-file"
 import type { ProxyAdoptionRuleSource } from "@tools/lib/supervisor-proxy-adoption-rule"
-import {
-  type SupervisorOAuthProxyHandle,
-  spawnOrAdoptOAuthProxy,
-} from "@tools/lib/supervisor-spawn-oauth-proxy"
-import { writePacingSnapshot } from "@tools/lib/supervisor-usage-snapshot"
 import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 import { guardTick } from "../supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 
