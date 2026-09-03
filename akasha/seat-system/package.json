@@ -11,6 +11,7 @@
     "./role-slug": "./seats/properties/role-slug.relation-property.ts",
     "./seat-launching": "./seat-launching/seat-launching.module.code.ts",
     "./seat-page-type": "./seats/seat.page-type.ts",
+    "./seat-pending": "./seat-pending/seat-pending.module.code.ts",
     "./seat-reading": "./seat-reading/seat-reading.module.code.ts",
     "./seat-stopping": "./seat-stopping/seat-stopping.module.code.ts",
     "./subagent-presence": "./subagents/presence/subagent-presence.module.code.ts"

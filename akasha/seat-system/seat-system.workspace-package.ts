@@ -28,6 +28,7 @@ export const seatSystem = {
     "module/seat-launching",
     "module/seat-name-claim",
     "module/seat-naming",
+    "module/seat-pending",
     "module/seat-reading",
     "module/seat-stating",
     "module/seat-stopping",
