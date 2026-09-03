@@ -16,20 +16,19 @@ import {
 } from "@akasha/supabase-rr/request-session-cache"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import { type SentenceMark, sentenceMarkSchema } from "@akasha/voice-core/voice/mark-schema"
-import { data } from "react-router"
+import { data, type LoaderFunctionArgs } from "react-router"
 import { z } from "zod"
 import { resolveReaderNeighbors } from "../../alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
 import { resolveMediaVariants } from "../../media-variants/media-variants.module.code.ts"
 import { resolveNextUnreadHref } from "../../next-unread/next-unread.module.code.ts"
 import { selectPageDisplayKind } from "../../page-display-kind/page-display-kind.module.code.ts"
-import type { Route } from "./+types/page-detail"
 
 const NAV_SLUG = "nav"
 const chessGamePgnSchema = z.string().catch("")
 const audioSentenceMarksSchema = z.array(sentenceMarkSchema)
 const READING_STORY_SLUG = "reading-story"
 
-export async function loader({ params, request }: Route.LoaderArgs) {
+export async function loader({ params, request }: LoaderFunctionArgs) {
   const { pageTypeSlug, pageHrefParam } = params
   if (pageTypeSlug === undefined || pageHrefParam === undefined) {
     throw new Response("Not Found", { status: 404 })

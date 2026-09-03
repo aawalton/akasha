@@ -1,7 +1,6 @@
 import { getUser } from "@akasha/supabase-rr/auth-server"
-import { data } from "react-router"
+import { data, type LoaderFunctionArgs } from "react-router"
 import { unheld } from "../../pages-unheld/pages-unheld.module.code.ts"
-import type { Route } from "./+types/_app-layout"
 
 const NAV_PAGE_TYPE_SLUG = "nav"
 
@@ -13,7 +12,7 @@ const NAV_PAGE_TYPE_SLUG = "nav"
 // falls through to its own client-side fetch, which is what it already did every time this query
 // failed. So the shell degrades to painting its nav after hydration rather than before, and the
 // reason it does is said out loud in the log rather than swallowed.
-export async function loader({ request }: Route.LoaderArgs) {
+export async function loader({ request }: LoaderFunctionArgs) {
   const { user, headers } = await getUser(request)
   const userEnvelope = user ? { id: user.id, email: user.email ?? undefined } : null
   if (user) {
