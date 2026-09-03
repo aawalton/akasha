@@ -26,6 +26,7 @@ export const editorExtension = {
     "module/activation",
     "module/group-stoplights",
     "module/terminal-lookup",
+    "module/harness-call",
   ],
   invariants: [
     {

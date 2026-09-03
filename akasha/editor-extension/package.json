@@ -9,6 +9,7 @@
     "./domain-tree-ids": "./domain-tree-ids/domain-tree-ids.module.code.ts",
     "./editor-group": "./editor-group/editor-group.module.code.ts",
     "./group-stoplights": "./group-stoplights/group-stoplights.module.code.ts",
+    "./harness-call": "./harness-call/harness-call.module.code.ts",
     "./page-tree-ids": "./page-tree-ids/page-tree-ids.module.code.ts",
     "./palette": "./palette/palette.module.code.ts",
     "./panel-domains": "./panel-domains/panel-domains.module.code.ts",
