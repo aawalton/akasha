@@ -27,6 +27,11 @@ export const akashaMigration = {
       workingMemory:
         "FIVE WAYS AN INSTRUMENT LIES, every one measured tonight. Four report absence because they never looked: `| head` truncation, a pipeline degraded to matching nothing, searching by name where a rename leaves only content, and `grep -r` skipping symlinks. One reports a difference that is not there: heuristic comparison across a transform, where you must transform the input and compare bytes. Seed a fault the way real data arrives, and pin every count to a commit.",
     },
+    {
+      statement: "Every worker can find the swarm brief.",
+      workingMemory:
+        "BRIEF: /var/home/walton/akasha-swarm-brief/BRIEF.md — the landing rules, the defaults trap, the query API split, the prose caps, and the instruments that lie. `akasha read` refuses any path outside akasha/, so open it with your harness Read tool or `cat`, never `akasha read`. NEVER put scratch in /tmp: it is tmpfs, capped at 1,048,576 inodes, 80% used now, and `df -h` reads 32% while writes fail. /var/home is btrfs with no inode ceiling.",
+    },
   ],
   constraints: [
     "Nothing is out of reach and everything may break while the migration runs. Completing the migration is the sole priority, not keeping systems outside akasha stable while it proceeds.",
