@@ -1,11 +1,11 @@
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { CeilingExceeded } from "@tools/lib/ci-container-reaper/ceiling"
+import { CeilingExceeded } from "@akasha/ci-containers/ci-reaper-ceiling"
 import {
   LOG,
   runBoundedCiContainerReaperTick,
   TICK_CEILING_MS,
   TICK_MS,
-} from "@tools/lib/ci-container-reaper/tick"
+} from "@akasha/ci-containers/ci-reaper-tick"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import {
   sleptUntilStopped,
   stopsOnSignal,

@@ -1,5 +1,4 @@
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { openCluster } from "@tools/lib/ci-container-dispatcher/cluster"
+import { openCluster } from "@akasha/ci-containers/ci-dispatch-cluster"
 import {
   type DispatcherState,
   initialDispatcherState,
@@ -7,7 +6,9 @@ import {
   runBoundedDispatcherTick,
   TICK_CEILING_MS,
   TICK_MS,
-} from "@tools/lib/ci-container-dispatcher/tick"
+} from "@akasha/ci-containers/ci-dispatcher-tick"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { stepDefinition } from "@tools/lib/step-definition"
 import {
   sleptUntilStopped,
   stopsOnSignal,
@@ -17,6 +18,8 @@ async function main(): Promise<void> {
   const ac = stopsOnSignal()
 
   const roots = resolveRoots()
+  const definitions = (stepSeq: string): Readonly<Record<string, unknown>> =>
+    stepDefinition(roots, stepSeq)
   const cluster = await openCluster()
   const gitAccessToken = process.env.GIT_ACCESS_TOKEN ?? ""
   const stickyPinning = process.env.CI_STICKY_PINNING_ENABLED === "1"
@@ -30,7 +33,7 @@ async function main(): Promise<void> {
     const startedAt = Date.now()
     try {
       const report = await runBoundedDispatcherTick(
-        { roots, cluster, gitAccessToken, stickyPinning },
+        { roots, cluster, gitAccessToken, stickyPinning, definitions },
         state,
         ac.signal
       )
