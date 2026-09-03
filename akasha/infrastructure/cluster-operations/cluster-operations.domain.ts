@@ -9,6 +9,8 @@ export const clusterOperations = {
     "shell-script/bootstrap-namespace",
     "shell-script/ci-apply-manifests",
     "shell-script/create-tunnel",
+    "shell-script/deploy-dns-functions",
+    "shell-script/deploy-functions",
     "shell-script/mirror-base-images",
     "shell-script/promote",
     "shell-script/registry-gc",
