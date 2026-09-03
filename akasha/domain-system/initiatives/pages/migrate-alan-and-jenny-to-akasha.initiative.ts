@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "11 modules landed of 77 src files. The hinge is `command-server-client.ts` — 44 of the 68 left wait on it — NOT `harness-call.ts`, which only leads on direct dependents. Its class is dissolved (6ccb189fc9) so it is landable NOW and is the highest-leverage item. TWO type-only import cycles, agent-tree forest/lookup and work-tree harness/colors, are invisible to `no-import-cycle` because it erases type imports yet they break typecheck: merge each pair into one module.",
+        "11 modules landed of 77. NO class blocker remains — both dissolved at 6ccb189fc9 and bf3ebc59d0 with 14 tests holding. The hinge is `command-server-client.ts`: 44 of the 68 left wait on it, NOT `harness-call.ts`. TWO type-only import cycles (agent-tree forest/lookup, work-tree harness/colors) are invisible to `no-import-cycle` yet break typecheck — merge each pair into one module. Left: 13 void-return sites and 558 comments to triage into 6 to 12 invariants each.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
