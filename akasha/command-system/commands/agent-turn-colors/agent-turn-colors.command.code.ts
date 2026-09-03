@@ -1,7 +1,7 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { colorsOf } from "@tools/lib/agent-turn-drawn"
-import { colorOfState } from "@tools/lib/seat-turn-color"
 import { SEAT_TURN_STATES, type SeatTurnState } from "@tools/lib/seat-turn-state"
 
 export const STATE = "--state"

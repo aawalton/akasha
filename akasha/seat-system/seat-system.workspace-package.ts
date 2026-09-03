@@ -224,6 +224,10 @@ export const seatSystem = {
     "module/terminal-reload",
     "module/terminal-seat-launchers",
     "module/terminal-seat-stating",
+    "module/launch-flags",
+    "module/tool-access",
+    "module/message-file-watch",
+    "module/seat-turn-color",
   ],
   invariants: [
     {

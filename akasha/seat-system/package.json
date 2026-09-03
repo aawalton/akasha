@@ -186,7 +186,11 @@
     "./seat-akasha-read": "./seat-akasha-read/seat-akasha-read.module.code.ts",
     "./seat-page-values": "./seat-page-values/seat-page-values.module.code.ts",
     "./seat-presence-read": "./seat-presence-read/seat-presence-read.module.code.ts",
-    "./seat-proxy-state": "./seat-proxy-state/seat-proxy-state.module.code.ts"
+    "./seat-proxy-state": "./seat-proxy-state/seat-proxy-state.module.code.ts",
+    "./launch-flags": "./launch-flags/launch-flags.module.code.ts",
+    "./tool-access": "./tool-access/tool-access.module.code.ts",
+    "./message-file-watch": "./messaging/message-file-watch/message-file-watch.module.code.ts",
+    "./seat-turn-color": "./seat-turn-color/seat-turn-color.module.code.ts"
   },
   "dependencies": {
     "@akasha/supabase-auth": "workspace:*",

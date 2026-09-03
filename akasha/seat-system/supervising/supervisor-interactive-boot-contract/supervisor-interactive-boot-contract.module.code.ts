@@ -6,7 +6,7 @@ import type { startPerAgentMonitors } from "@akasha/seat-system/supervisor-monit
 import type { ProxyAdoptionRuleSource } from "@akasha/seat-system/supervisor-proxy-adoption-rule"
 import type { ProxyLivenessRuleSource } from "@akasha/seat-system/supervisor-proxy-liveness-rule"
 import type { AgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
-import type { ToolRestrictions } from "@tools/lib/tool-access"
+import type { ToolRestrictions } from "../../tool-access/tool-access.module.code.ts"
 
 export type InteractiveOpts = {
   resume: boolean

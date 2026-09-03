@@ -1,6 +1,6 @@
-import { colorOfState } from "./seat-turn-color.ts"
+import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { seatWorkNow } from "./seat-work.ts"
-import { type Drawn } from "./work-tree.ts"
+import type { Drawn } from "./work-tree.ts"
 
 export function drawnNow(): Drawn {
   const work = seatWorkNow()

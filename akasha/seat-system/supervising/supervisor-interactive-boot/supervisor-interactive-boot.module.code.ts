@@ -26,7 +26,7 @@ import {
 } from "@akasha/seat-system/supervisor-state"
 import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
 import { shape } from "@tools/lib/shape"
-import { toolRestrictions } from "@tools/lib/tool-access"
+import { toolRestrictions } from "../../tool-access/tool-access.module.code.ts"
 import type {
   InteractiveBootArgs,
   InteractiveSessionBoot,

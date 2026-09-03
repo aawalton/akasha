@@ -1,8 +1,8 @@
 #!/usr/bin/env bun
 
-import { sayAnswer } from "./lib/answer.ts"
+import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { colorsOf } from "./lib/agent-turn-drawn.ts"
-import { colorOfState } from "./lib/seat-turn-color.ts"
+import { sayAnswer } from "./lib/answer.ts"
 import { SEAT_TURN_STATES, type SeatTurnState } from "./lib/seat-turn-state.ts"
 
 const STATE_FLAG = "--state"

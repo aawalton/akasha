@@ -1,5 +1,5 @@
+import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { agentStands, agentTurnStateOf } from "./agent-turn-state.ts"
-import { colorOfState } from "./seat-turn-color.ts"
 
 export function colorDrawnFor(agent: string): string | null {
   if (!agentStands(agent)) return null
