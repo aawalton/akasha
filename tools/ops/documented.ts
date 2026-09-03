@@ -1,55 +1,59 @@
-import { readdirSync, readFileSync } from "node:fs"
-import { placeDirOf } from "@akasha/markdown-pages/page-types"
+import { existsSync, readFileSync } from "node:fs"
+import { join } from "node:path"
+import { everyOfType } from "@akasha/indexes"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import { sectionNamed, trimEdges } from "../lib/section.ts"
+import { besideAt } from "@akasha/pages-system/page-file-name"
+import { textAt, valueAt } from "@akasha/pages-system/page-value"
 import type { CommandDocument } from "./surface.ts"
 
-const EXT = ".md"
-const FENCE = "---"
+/**
+ * The help each ops command prints, read off the akasha pages that hold it.
+ *
+ * These documents were markdown under `pages/old-ops-command/` until the old markdown page store
+ * began to go. They are `ops-command` pages now, one folder each, with the help prose in a file
+ * beside the page rather than in a `# Help` section of it. Nothing here parses front matter or
+ * sections any more: the page states its own values and the prose is a whole file.
+ *
+ * A command whose page states no `opsPath` reaches no command and is left out, which is the same
+ * test the markdown reader made on its `path:` line.
+ */
+const PAGE_TYPE = "ops-command"
 
-function frontmatter(body: string): Record<string, string> {
-  if (!body.startsWith(`${FENCE}\n`)) return {}
-  const closes = body.indexOf(`\n${FENCE}`, FENCE.length)
-  if (closes === -1) return {}
-  const found: Record<string, string> = {}
-  for (const line of body.slice(FENCE.length + 1, closes).split("\n")) {
-    if (line.startsWith(" ") || line.startsWith("-")) continue
-    const at = line.indexOf(": ")
-    if (at <= 0) continue
-    found[line.slice(0, at)] = line.slice(at + 2).trim()
-  }
-  return found
+const HELP = "ops-help"
+
+const OPS_PATH = "opsPath"
+
+const OPS_ENTRY_FILE = "opsEntryFile"
+
+const OPS_HELP = "opsHelp"
+
+const SLUG = "slug"
+
+function proseFor(repoRoot: string, path: string, held: string | null): string {
+  if (held === null || held === "") return ""
+  const beside = besideAt(path, HELP, held)
+  if (beside === null) return ""
+  const at = join(repoRoot, beside)
+  if (!existsSync(at)) return ""
+  return readFileSync(at, "utf8").trim()
 }
 
 export function commandDocuments(repoRoot: string = akashaRoot()): readonly CommandDocument[] {
-  const dir = placeDirOf("old-ops-command")
-  let names: readonly string[]
-  try {
-    names = readdirSync(`${repoRoot}/${dir}`)
-      .filter((one) => one.endsWith(EXT) && one.length > EXT.length)
-      .sort()
-  } catch {
-    return []
-  }
   const found: CommandDocument[] = []
-  for (const name of names) {
-    let body = ""
-    try {
-      body = readFileSync(`${repoRoot}/${dir}/${name}`, "utf8")
-    } catch {
-      continue
-    }
-    const front = frontmatter(body)
-    const invocation = front.path
-    if (invocation === undefined || invocation === "") continue
-    const section = sectionNamed(body, "Help")
-    const help = section === null ? "" : trimEdges(section.body)
+  for (const one of everyOfType(repoRoot, PAGE_TYPE)) {
+    const value = valueAt(one.path, repoRoot)
+    if (value === null) continue
+    const invocation = textAt(value, OPS_PATH)
+    if (invocation === null || invocation === "") continue
+    const help = proseFor(repoRoot, one.path, textAt(value, OPS_HELP))
     found.push({
-      slug: name.slice(0, -EXT.length),
-      path: invocation.split(" ").filter((one) => one !== ""),
-      entryFile: front["command-path"] ?? "",
+      slug: textAt(value, SLUG) ?? "",
+      path: invocation.split(" ").filter((word) => word !== ""),
+      entryFile: textAt(value, OPS_ENTRY_FILE) ?? "",
       ...(help === "" ? {} : { help }),
     })
   }
-  return found
+  return [...found].sort((one, other) =>
+    one.slug < other.slug ? -1 : one.slug > other.slug ? 1 : 0
+  )
 }
