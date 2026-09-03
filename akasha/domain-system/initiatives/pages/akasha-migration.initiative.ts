@@ -25,7 +25,7 @@ export const akashaMigration = {
     {
       statement: "Nothing outside akasha duplicates what is already inside it.",
       workingMemory:
-        "MATCH ON SLUG AND FIELDS; report the id, never key on it. Never re-mint an id before counting what points at it. DISTINCTNESS has three arms, none implying another; body-only must strip id, slug AND the export name, since a re-filed page carries a new export name, so a two-line strip is blind. An arm is proven only when a seeded pair collapses under it. `migration-reach` cannot judge code; only `--told` reaches code. 10,469 sidecars hold 126,962 rows with no home; a folder sweep destroys them.",
+        "AN OLD PAGE TYPE NAMES ITS SUCCESSOR: `files: akasha:<path>` in its front matter, verified daily-tracking to wake-day. Take that road; a rename defeats slug matching and constraint 20 defeats prose matching. Ablating a page type before its counterpart lands manufactures absence for every definition pointing at it. Body-only distinctness must strip id, slug AND the export name. 10,469 sidecars hold 126,962 rows; a folder sweep destroys them.",
     },
   ],
   constraints: [
