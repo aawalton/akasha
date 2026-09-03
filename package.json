@@ -35,7 +35,6 @@
     "lua-compiler",
     "readouts",
     "shared/vscode-typings",
-    "temper/player-completion",
     "temper/scripts",
     "tools/lib",
     "tools/ops"
