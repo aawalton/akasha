@@ -1,7 +1,7 @@
 import type { Finding } from "../finding.page-type.ts"
 
 export const theEnumeratedAgentsManifestHoldsTheLastGatewayFilesInPlace = {
-  id: "59eedf3d-20cf-4509-96f7-e4134d95cbd2",
+  id: "01a068d6-ba13-73b2-9497-4bcd4d95cbd2",
   pageTypeSlug: "finding",
   slug: "the-enumerated-agents-manifest-holds-the-last-gateway-files-in-place",
   domainSlug: "domain/akasha-migration",
