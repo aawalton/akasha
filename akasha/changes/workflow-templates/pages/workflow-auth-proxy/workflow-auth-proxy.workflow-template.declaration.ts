@@ -14,7 +14,7 @@ export default workflow("auth-proxy", {
     kubectlApply({
       name: "auth-proxy-apply-namespace",
       namespace: "auth-proxy",
-      files: "infra/auth-proxy/generated/namespace.generated.yaml",
+      files: "akasha/infrastructure/auth-proxy/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -49,7 +49,7 @@ export default workflow("auth-proxy", {
       ...buildkitBuild({
         name: "auth-proxy-build",
         context: "",
-        dockerfile: "infra/auth-proxy",
+        dockerfile: "akasha/infrastructure/auth-proxy",
         tag: (ci) => `${REGISTRY}/infra/auth-proxy:${ci.inputsHash}`,
         cache: false,
       }),
@@ -61,7 +61,7 @@ export default workflow("auth-proxy", {
       ...kubectlApply({
         name: "auth-proxy-apply-deployment",
         namespace: "auth-proxy",
-        files: "infra/auth-proxy/generated/deployment.generated.yaml",
+        files: "akasha/infrastructure/auth-proxy/generated/deployment.generated.yaml",
         serverSide: true,
         imageSubstitution: {
           placeholder: "MUST_BE_SET_BY_DEPLOY",
@@ -75,7 +75,7 @@ export default workflow("auth-proxy", {
       ...kubectlApply({
         name: "auth-proxy-apply-service",
         namespace: "auth-proxy",
-        files: "infra/auth-proxy/generated/service.generated.yaml",
+        files: "akasha/infrastructure/auth-proxy/generated/service.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["auth-proxy-apply-namespace"],
