@@ -1,0 +1,27 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const wallSit = {
+  id: "019efbfe-eadb-7eee-9280-975810ea4813",
+  pageTypeSlug: "exercise",
+  slug: "wall-sit",
+  title: "Wall Sit",
+  exerciseCategory: "strength",
+  equipment: "body-only",
+  force: "static",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "squat",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps"],
+  scoringMode: "time",
+  secondaryMuscles: ["glutes", "hamstrings", "calves"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies Exercise

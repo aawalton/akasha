@@ -1,0 +1,27 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const waiterWalk = {
+  id: "019f9756-dcfc-7e43-971c-5ad4fd9130ae",
+  pageTypeSlug: "exercise",
+  slug: "waiter-walk",
+  title: "Waiter Walk",
+  exerciseCategory: "strength",
+  equipment: "kettlebells",
+  force: "static",
+  gripDemand: "low",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "unilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "carry",
+  muscleFocus: "push",
+  primaryMuscles: ["shoulders", "forearms"],
+  scoringMode: "time",
+  secondaryMuscles: ["traps", "abdominals"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies Exercise

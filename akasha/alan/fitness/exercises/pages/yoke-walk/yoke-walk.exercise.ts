@@ -1,0 +1,42 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const yokeWalk = {
+  id: "019ebc78-c33a-7272-98f6-5780fef3d98c",
+  pageTypeSlug: "exercise",
+  slug: "yoke-walk",
+  title: "Yoke Walk",
+  exerciseCategory: "strongman",
+  equipment: "other",
+  exerciseExternalId: "Yoke_Walk",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Yoke_Walk",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Yoke_Walk/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Yoke_Walk/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "carry",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps"],
+  scoringMode: "time",
+  secondaryMuscles: [
+    "abdominals",
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower-back",
+  ],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

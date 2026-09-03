@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const starJump = {
+  id: "019ebc78-a283-76c1-b411-85ef22ff41cb",
+  pageTypeSlug: "exercise",
+  slug: "star-jump",
+  title: "Star Jump",
+  exerciseCategory: "plyometrics",
+  equipment: "body-only",
+  exerciseExternalId: "Star_Jump",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Star_Jump",
+  force: "push",
+  gripDemand: "none",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/0.jpg",
+  implementCount: 1,
+  isBallistic: true,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "squat",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps"],
+  scoringMode: "reps",
+  secondaryMuscles: ["calves", "glutes", "hamstrings", "shoulders"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

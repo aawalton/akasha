@@ -1,0 +1,45 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const sumoDeadliftWithChains = {
+  id: "019ebc78-a629-7869-b099-fe6b022641ed",
+  pageTypeSlug: "exercise",
+  slug: "sumo-deadlift-with-chains",
+  title: "Sumo Deadlift with Chains",
+  exerciseCategory: "powerlifting",
+  equipment: "barbell",
+  exerciseExternalId: "Sumo_Deadlift_with_Chains",
+  exerciseExternalLink:
+    "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Sumo_Deadlift_with_Chains",
+  force: "pull",
+  gripDemand: "high",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sumo_Deadlift_with_Chains/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sumo_Deadlift_with_Chains/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0.6,
+  mechanic: "compound",
+  movementPattern: "hinge",
+  muscleFocus: "legs",
+  primaryMuscles: ["hamstrings"],
+  scoringMode: "reps",
+  secondaryMuscles: [
+    "abductors",
+    "adductors",
+    "forearms",
+    "glutes",
+    "lower-back",
+    "middle-back",
+    "quadriceps",
+    "traps",
+  ],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

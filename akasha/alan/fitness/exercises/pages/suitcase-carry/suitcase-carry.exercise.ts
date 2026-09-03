@@ -1,0 +1,27 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const suitcaseCarry = {
+  id: "019f9756-d498-791c-a5e1-963d689c2503",
+  pageTypeSlug: "exercise",
+  slug: "suitcase-carry",
+  title: "Suitcase Carry",
+  exerciseCategory: "strength",
+  equipment: "dumbbell",
+  force: "static",
+  gripDemand: "high",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "unilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "carry",
+  muscleFocus: "pull",
+  primaryMuscles: ["forearms", "abdominals"],
+  scoringMode: "time",
+  secondaryMuscles: ["traps", "glutes", "quadriceps"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies Exercise
