@@ -954,10 +954,6 @@
     },
     "akasha/persona-system": {
       "name": "@akasha/persona-system",
-      "dependencies": {
-        "@akasha/pages-system": "workspace:*",
-        "@tools/lib": "workspace:*",
-      },
     },
     "akasha/personas-core": {
       "name": "@akasha/personas-core",
@@ -993,6 +989,9 @@
         "@akasha/pages-system": "workspace:*",
         "@akasha/utils-run": "workspace:*",
       },
+    },
+    "akasha/rule-population": {
+      "name": "@akasha/rule-population",
     },
     "akasha/rules-engine": {
       "name": "@akasha/rules-engine",
@@ -3371,6 +3370,8 @@
     "@akasha/reminder-system": ["@akasha/reminder-system@workspace:akasha/reminder-system"],
 
     "@akasha/royal-road": ["@akasha/royal-road@workspace:akasha/collection-system/royal-road"],
+
+    "@akasha/rule-population": ["@akasha/rule-population@workspace:akasha/rule-population"],
 
     "@akasha/rules-engine": ["@akasha/rules-engine@workspace:akasha/rules-engine"],
 

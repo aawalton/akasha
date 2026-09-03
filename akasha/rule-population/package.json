@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/rule-population",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./rule-population-notice": "./rule-population-notice/rule-population-notice.module.code.ts"
+  }
+}
