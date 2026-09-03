@@ -31,7 +31,7 @@ import { codeRoot } from "@akasha/pages-system/code-root"
 import { dataError, inputError, operationalError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { addonsResolve } from "../../../lib/temper-addon-code.ts"
-import { CONSOLIDATION_MIGRATIONS } from "../../../lib/temper-addon-consolidation-migrations.ts"
+import { CONSOLIDATION_MIGRATIONS } from "@akasha/temper-addon-build/consolidation-migrations"
 import type { CommandHelp } from "../../../ops/surface.ts"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 

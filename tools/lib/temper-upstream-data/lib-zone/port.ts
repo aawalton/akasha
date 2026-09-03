@@ -3,8 +3,8 @@ import { join } from "node:path"
 import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { PACKAGE_OF } from "../libraries.ts"
-import { SERIALIZE_TS_LUA } from "../serialize-ts-lua.ts"
-import { ESO_STUBS } from "./eso-stubs.ts"
+import { SERIALIZE_TS_LUA } from "@akasha/temper-upstream-data/ts-lua-serializer"
+import { ESO_STUBS } from "@akasha/temper-upstream-data/zone-eso-stubs"
 
 const DATA_SOURCE = join(addonsDir(), "LibZone", "LibZone_Data.lua")
 const GEO_SOURCE = join(addonsDir(), "LibZone", "LibZone_GeoData.lua")

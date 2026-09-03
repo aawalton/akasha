@@ -12,7 +12,7 @@ import {
   type DependentSourceFile,
   enumerateGlobalDependents,
   type GlobalDependentReport,
-} from "../../../lib/temper-addon-global-name-dependents.ts"
+} from "@akasha/temper-addon-build/global-name-dependents"
 import type { CommandHelp } from "../../../ops/surface.ts"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 

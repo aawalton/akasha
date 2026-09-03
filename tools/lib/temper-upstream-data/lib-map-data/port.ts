@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { PACKAGE_OF } from "../libraries.ts"
-import { SERIALIZE_TS_LUA } from "../serialize-ts-lua.ts"
+import { SERIALIZE_TS_LUA } from "@akasha/temper-upstream-data/ts-lua-serializer"
 
 const SOURCE = join(addonsDir(), "LibMapData", "LibMapData_Data.lua")
 

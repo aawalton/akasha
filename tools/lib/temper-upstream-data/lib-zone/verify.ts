@@ -6,7 +6,7 @@ import { PUBLIC_DUNGEON_MAP_IDS } from "@akasha/temper-lib-zone/zone-public-dung
 import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { diff, dumpJsWalk, LUA_DUMP } from "../leaf-dump.ts"
 import { PortMismatch } from "../libraries.ts"
-import { ESO_STUBS } from "./eso-stubs.ts"
+import { ESO_STUBS } from "@akasha/temper-upstream-data/zone-eso-stubs"
 
 const DATA_SOURCE = join(addonsDir(), "LibZone", "LibZone_Data.lua")
 const GEO_SOURCE = join(addonsDir(), "LibZone", "LibZone_GeoData.lua")

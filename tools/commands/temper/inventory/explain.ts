@@ -10,7 +10,7 @@ import {
   type OutcomeJson,
   type RuleTraceRow,
   type TtcBreakdown,
-} from "../../../lib/temper-explain-walk.ts"
+} from "@akasha/temper-explain/explain-walk"
 import {
   allBagItems,
   explainCapabilities,

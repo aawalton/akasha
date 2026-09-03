@@ -7,7 +7,7 @@ import {
   formatExplainWalk,
   type JsonOutput,
   type RuleTraceRow,
-} from "../../../lib/temper-explain-walk.ts"
+} from "@akasha/temper-explain/explain-walk"
 import { TEMPER_INVENTORY_LUA, savedVarsFile } from "../../../lib/temper-inventory-paths.ts"
 import { readLastExplain } from "../../../lib/temper-inventory/replay-explain.ts"
 
