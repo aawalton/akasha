@@ -20,5 +20,8 @@ export const chess = {
     "module/chess-move-list",
     "module/chess-state",
     "stylesheet/chess-board-look",
+    "page-type/chess-game",
+    "page-type/chess-progress",
+    "page-type/chess-puzzle-set",
   ],
 } as const satisfies WorkspacePackage
