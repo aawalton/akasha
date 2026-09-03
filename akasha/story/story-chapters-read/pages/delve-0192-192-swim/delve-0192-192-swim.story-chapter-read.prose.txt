@@ -134,3 +134,162 @@ Suffocation—whether by drowning or by any other means—was dangerous, even to
 
 He breathed in.
 
+Water flooded his nose and mouth, frigid despite the influence of Thermal Regulation. The enchantment had begun to catch up, his armor acting like a wetsuit, but this was too much, too fast. Rain had to fight off an instinctual pang of horror as his body declared its outrage at the wrongness of what he’d just done. His will, though, was iron. He quashed the terror, forcing his body to draw the liquid deep into his lungs. Significantly harder to quash was the overpowering taste and smell of salt, rotting fish, and plant matter.
+
+Urk!
+
+Rain spluttered, exhaling a cloud of bubbles, then forced himself to draw in another foul breath. Before he had set them hauling their waste up the cliff, the people of Three Cliffs had simply pitched whatever refuse they generated straight into the ocean. They wouldn’t have been throwing out industrial runoff, plastic soda rings, and what have you—stuff that wouldn’t eventually break down—but still. Enough of it had stuck around to make the water downright nasty.
+
+Purify!
+
+White light billowed forth, illuminating the darkness and banishing the nasty flavor best left unthought about. Detection automatically re-configured itself to accommodate the second aura, slowing its pulses and interleaving them with Purify, creating an eerie strobing wave effect. The spell had no trouble spreading with the level of power he was feeding it, but it was slower than it would have been in air, for sure.
+
+Rain’s practice with Prismatic Intent had taken a back burner, given his growing realization of just what was possible with his interface and Channel Mastery alone. He wouldn’t have had a snowball’s chance in hell of doing this level of fast switching unaided, but with his scripts, it was almost child’s play. As if in response to the hubris of that thought, his spells froze, then canceled themselves. Purify winked out, reverting to Force Ward as he’d programmed it to in case of complete failure.
+
+error: slot_collision
+
+Damn it.
+
+He banished the error message before sighing a bubbly sigh.
+
+That damn bug again. What the hells is causing that?
+
+With a flick of will, Rain canceled Force Ward, then re-booted his scripts, dropping the pulse rate of Detection by half and re-interleaving Purify. Unfortunately, the initialization of the map display was still semi-manual, requiring active effort on his part every time he wanted it. Yet another thing to work on.
+
+Shaking his head, he oriented himself in time for his feet to make contact on the bare stone of the ocean floor. The meter on his HUD displayed his depth as thirty-seven meters—fairly impressive as far as his eardrums were concerned. There was no sand here, only a thick layer of mud and decay that Purify had banished in a semi-sphere around his landing zone. The ocean floor itself was gently sloped, dropping unevenly away to his left for as far as he could see, which wasn’t very far. While Purify had reached the full ten-meter range he’d configured it for, it hadn’t done a damn thing about the algae.
+
+He switched to holding his breath again, not liking the slimy feeling of it slithering into his lungs. It was almost as bad as the potion.
+
+Algae are...protists, right? They’re like plants, but not.
+
+Despite the teasing he occasionally had to endure from his friends, Rain wasn’t so much of a bleeding heart that he cared about algae’s feelings. Still, the knowledge that it was alive had apparently been enough to stop Purify in its tracks.
+
+Hmm. Well, plants, protists, whatever, they’re definitely below the threshold of what the system calls an ‘entity.’ Purify works fine on harmful bacteria, and it had no problem dealing with the moss in Fel Sadanis. Moss is way more complicated, biologically speaking. It’s got, like, roots and stuff. So what gives?
+
+Rain looked down at the bare stone, and his frown deepened. Numerous clusters of mollusks had been revealed with the removal of the muck, and crabs and various other bottom feeders were scuttling about, doubtless terrified at the sudden scouring of their habitat. There wasn’t much in the way of plantlife, but there was some, notably some alien broccoli-looking things that Rain couldn’t otherwise identify. Wherever those had taken root, the muck had managed to resist Purify’s influence. Apparently, the simple fact that plants were growing in it warranted an upgrade from sludge to soil. Bad luck for the mollusks, though.
+
+My environmental devastation is only partial this time. Yay. Go me.
+
+Rain jumped as Ameliah’s voice suddenly sounded in his mind. [Are you coming to find me, or not? You got distracted by something, didn’t you?]
+
+He felt his cheeks heating despite the cold water.
+
+She knows me too well. Smiling to himself, he concentrated. Algae isn’t supposed to be here. Not this much. This is a bloom, brought about by dumping by the city. Sure. We’ll go with that. The point is... It. Is. ⟬FILTH⟭!
+
+As Rain leaned on Dozer’s instinctual understanding, his magic abruptly found purchase. Like a slow-motion explosion from a depth charge, the white light began eating away at the murk in an expanding shell, the magic still pulsating due to the interleaving with Detection. The only water that remained in the bubble left behind by the expanding front of magic was crystal clear.
+
+Still salty, though.
+
+Rain breathed deep, then exhaled, releasing a cloud of bubbles. The water was cool and surprisingly soothing, but the bubbles tickled. A quick manual check with Detection told him the gas was carbon dioxide.
+
+Makes sense, I guess.
+
+He looked around at the clear water and frowned.
+
+Still, though. I’m not sure I like the implications of being able to banish life just because I’ve decided it’s unclean. If I get strong enough—as in, goldplate strong—will I be able to banish, like, insects? Rats? Other entities?
+
+...
+
+Assholes? Can...people...be filth? Just where is the line, exactly?
+
+*ploop*
+
+Transmitted through the water, the sound of Dozer’s arrival seemed several octaves lower to Rain’s ears.
+
+[Shit, Dozer! I told you, there’s—]
+
+[SALT!!!!]
+
+*ploop*
+
+The space Dozer had occupied imploded, the water snapping back to fill the void he’d left behind with a crash.
+
+Rain sighed, exhaling another cloud of bubbles. [I warned you,] he scolded. [Don’t say I didn’t.]
+
+Dozer replied without words, conveying, basically, ‘big sulk.’
+
+[What the depths are you up to over there?] Ameliah asked suddenly. [What was that sound? And why are you flickering?]
+
+Ameliah herself appeared a moment later, swimming out of the murk at high speed and dragging a swirling plume of algae after her. With uncharacteristic gracelessness, she almost crashed into him, twisting herself out of the way at the last moment. She managed to stop her momentum before she shot completely past him and out the other side of his bubble. Exhaling a cloud of bubbles from beneath her visor, she turned to face him. Her helmet then vanished, allowing Rain to see her face as she inhaled deeply in clear relief.
+
+[Gods, breathing the water before you cleaned it was such a mistake.]
+
+Rain smiled, beginning to walk in her direction, taking his flickering bubble of cleanliness with him. With the weight of his armor holding him down, he found that he had no trouble staying on the bottom. True liquid offered quite a bit more resistance than the magically-thick air in the Sparkscale Deep had, but it was much the same in effect. The difference was that here, swimming would be far more effective if he had to go any sort of distance.
+
+By the time Rain reached Ameliah, her hair had spread out to float around her head like a golden halo. Raising his visor, he opened his mouth to speak, though he didn’t expect he’d actually be able to. As he’d feared, his words escaped in a warbling gurgle, any meaning completely lost in the swarm of bubbles.
+
+[Try again, genius,] Ameliah said, smirking at him.
+
+Grinning back, Rain switched to hand code. “Quickest way to find out is to try. The flicker is me mixing Detection and Purify. Speaking of finding out, have you tried Airwalk?”
+
+[Yes, and it doesn’t work,] Ameliah replied, making the sign for negation at the same time before switching to hand code herself. “Hardly surprising. Would have been nice, though.”
+
+Rain shrugged. “Oh well.”
+
+“What was that sound?” she asked for the second time.
+
+“Another genius that likes finding out quickly,” Rain replied, smiling. “I told Dozer we were going to be in the ocean before we came down here. I told him that it would be salty. Does he listen? Why does nobody take my word for things?”
+
+Ameliah laughed, switching back to Message. [Because half of what you say sounds absurd. I’ll admit, you were right about the lizards, though. It’s your win. It IS possible to run on water, and it WAS fun. With more speed or less weight, it would likely be even easier. Someone like Velika could probably run right across the ocean, if not for, you know, Leviathans.]
+
+Rain felt a shiver run down his spine at that, even with the comforting sense of Ameliah’s soul beside him and with Detection assuring him that there was nothing monstrous out there. It was still dark beyond his Purified sphere. Contemplating that darkness, he felt the pressure of the water and the fear of the unknown suddenly pressing down on him.
+
+He’d been doing some reading.
+
+The ocean was terrifying.
+
+Leviathans weren’t just big and tentacle-y; they were full-on eldritch horrors, not only sensing magic but using it too. Each one was unique and an ecosystem unto itself. Like dragons, they laughed in the face of rank restrictions, rising to the surface at will and staying there, sometimes for months at a time. The sheer power emitted by the colossal creatures was sufficient to sustain lesser monsters in their vicinity, essentially raising the area rank around them wherever they went. Occasionally, one or more of the shipping lanes would have to be closed because a particular Leviathan had drifted too close. Mercifully for the existence of society, however, no Leviathan had ever been recorded in sight of land. Rain could only conclude that there was some instinctual preference holding them back. Dragons, too, restrained themselves. They seemed to prefer Karmark over other continents, sometimes flying over others but never landing on them, though there was nothing saying they couldn’t.
+
+[Can you clear up the water further than this?] Ameliah asked, gesturing at the murk and seemingly oblivious to his thoughts. [I’d like to see the Whale that’s probably coming to eat us in time to do something about it. On that note, I should test my bow.] Not waiting for a response, she unlimbered the weapon and reached for an arrow, one of the ultra-streamlined ones Tallheart had made her.
+
+Rain nodded, pushing aside his fears. Leviathans weren’t a concern here. Even Whales had never been sighted in this harbor. Ameliah was right, though, that the visibility was a problem. The Fist of Progress was heavily warded against Divination, and those protections seemed to have survived its sinking. Detection only reported scattered scraps of metal around—tools, coins, and the like, and perhaps the occasional metal-heavy rock. Definitely not two halves of an enormous wreck. There was no sense swimming all over the harbor looking for it just to avoid a little more ecological devastation.
+
+Who knows? With the algae gone, the ecosystem might actually bounce back stronger... He said, justifying it to himself.
+
+PURIFY NOVA!
+
+At his mental command, Aura Focus overrode and crashed his scripts, Detection failing and taking his HUD along with it. He’d expected that, though, already having played around a bit with Aura Focus. The metamagic didn’t tolerate any interleaving of the aura it was boosting, just as it didn’t tolerate being used on more than one aura at a time.
+
+Having nothing better to do while he waited for the magic to work, Rain summoned the skill card for Purify to check the range, though he already knew what it would say.
+
+modmon.sh: [‘amplify aura’, ‘extend aura’, ‘aura focus’, 'channel mastery']
+
+modmon.sh: Channel Mastery: +100%
+
+Purify (15/15)
+
+Purify poison, corruption, and contamination
+
+Range: 626 meters
+
+Cost: 320 mp/s
+
+Ridiculous.
+
+Smiling, he gave it a good ten-count to compensate for the decreased speed of the spell in water, then dropped the magic and opened his eyes.
+
+Holy shit!
+
+He exhaled a huge cloud of bubbles, looking around at the dazzling and bizarre landscape revealed by Purify’s light, still racing away from him in an expanding shell. Fish shimmered in the morning light, zipping all around him in startled, flashing schools. The seafloor sloped down into the far distance, speckled here and there with the bizarre broccoli plants and other splotches of color from plantlife. Amidst boulders and outcrops of stone, Rain could see the burned wreckage left over from the ships that had been unfortunate enough to be in the harbor when the Adamants attacked. The last of the magic faded, but there was still plenty of light from the sun filtering through the pristine water.
+
+All of that was backdrop, though, as not far down the slope, perhaps thirty meters distant, was what they had come for. The Adamant Empire ship was enormous, even at this distance, lying in two pieces surrounded by a greenish cloud of algae. The metal had clearly robbed Purify of some of its strength, but not enough to stop the spell entirely, and the ocean currents were rapidly taking care of the rest. The ship gleamed, silver and shining, visible for all to see. Rain released an Aura-Focus empowered pulse of Detection, just to check, but the spell swore that it wasn’t there.
+
+[Nice work,] Ameliah said in his mind. [Your Purify is getting insane.] There was a thrum as she released an arrow, and Rain watched it streak over the wreck of the ship to sail off into the fathomless depths. If the projectile was slowed at all by the water, Rain couldn’t see a difference. She loosed again, and this time, the arrow split, sizzling and leaving thick streaks of bubbles as Fire magic flashed the water to steam. [Great, that’s working. Come on. Let’s go check out our new ship.]
+
+Thrast goggled, staring at the pair of armored figures on the ocean floor. There had been an enormous wave of light, almost blinding in intensity as it burst up from the ocean. When it had finally cleared, the Adamant Empire’s ship had been the first thing he’d noticed, revealed as if the murky water had been changed for air. After the cries of surprise and terror had faded, the entire harbor had gone entirely silent, everyone, like him, simply staring in awe. Except for Commander Vanna, that was.
+
+“See? There he is,” she said, standing beside him near the newly-constructed dock, utterly unperturbed by the overwhelming show of power. “Like I said, he’s busy.” She gestured toward the breathtakingly-clear expanse of ocean. “If you want to take up your complaint about your community service placement with him, be my guest and jump right in. Otherwise, get back to the lumberyard and back to work. Just because you’re awakened, it doesn’t mean you can’t take orders from someone who’s not. Now, if you’ll excuse me, I really am quite busy.”
+
+She slipped away, and Thrast didn’t have the presence of mind to do anything but let her go. He shook his head numbly, watching as Rain’s companion on the seafloor did something that sent streaks of bubbles away from her in a fan. It was clearly an attack of some kind, though against what, he couldn’t see. Regardless, his instincts were screaming at him, telling him in no uncertain terms that whatever she’d just done was far more deadly than it had seemed.
+
+And Rain...
+
+The man had been using magic constantly since he’d arrived in the city. Only now was it dawning on Thrast what that meant. He hadn’t been doing it with the level of power he’d just displayed, obviously, but to keep that up for so long...and to still have enough mana left to do something like this...
+
+His mana pool must be as bottomless as the ocean.
+
+Thrast licked his lips. Rain and his organization weren’t on the same level as the Sea Kings like he’d thought. No, they were above them. They were soft, ruling over the city with none of the brutality that their predecessors had employed, but it wasn’t because they were weak. They simply didn’t need to be brutal, and he’d been the fool who’d refused to see it. It was like being in a DKE city or under the thumb of one of the stricter Guild leaders. The rules were the rules. Interfering with those that enforced them was courting death, whether those enforcers were stronger than you or not.
+
+Thrast swallowed heavily, squashing his pride as he turned away to do as he’d been told.
+
+Maybe this...community service thing...isn’t so bad, after all.

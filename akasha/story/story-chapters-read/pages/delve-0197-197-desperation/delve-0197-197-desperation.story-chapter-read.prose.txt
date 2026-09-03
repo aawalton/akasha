@@ -112,3 +112,120 @@ Ameliah winced, her ears ringing from the volume of Halgrave’s shout even at t
 
 “Aaaah!”
 
+Closer now, Ameliah watched Mahria by the mana circulating through her body. The current lack of Fireballs made it too dark to see more than her shadowed outline with normal vision. Dimly, Ameliah registered a hit to her armor’s saturation, but she paid it no mind. Mahria had fallen over and was clutching at her stomach, and two dimmer forms had come out to drag her back in through one of the hatches. Halgrave crashed into the deck moments later, followed by the barrage of magic that had been chasing him. He dashed to the hatch as it cleared, spreading his arms wide to form a metal wall. “I told you to stay inside!”
+
+“I’m...fine!” Mahria choked out with a cough as Ameliah alighted on the deck. “It was just an arrow, and we’ve got a healer!”
+
+Ameliah left Halgrave to it and turned to face the Adamant ships. What she saw made her gasp. The imperials hadn’t launched another wave of Fireballs. Instead, a literal wave was bearing down on them at horrifying speed, easily twice the height of the ship. Worse, standing atop it and riding a platform forged of water and Force mana was a group of people that blazed to her magical vision. One of them shone even brighter than the enemy ships. The mana was so strong that it seemed to be tearing the mage apart from the inside.
+
+“Incarn!” was all she had time to yell before the wave struck.
+
+She managed to keep her grip on her bow, but the force of the water blasted her from the deck and over the side. She tried to use Airwalk to catch herself, but being subsumed by the wave, the skill refused to engage. She crashed into the ocean’s surface, the weight of her armor dragging her swiftly down as she flailed.
+
+Shit!
+
+Slinging her bow over her shoulder, she got herself pointed back at the surface and swam for all she was worth, bubbles streaking from her fingertips with how quickly she clawed at the water. She broke the surface, sucking in a gasp of air as she worked to stay there, trying to get a foot high enough for her Airwalk to activate. Before she could manage it, a watery fist slammed her back down, the magic threading through the liquid telling her that it was under the Incarn’s control. Her armor broke that control, absorbing the Force mana, but it didn’t do anything about the pressure of the water itself.
+
+Shit, shit, shit!
+
+Clawing again for the surface, Ameliah’s mind scrambled for a plan. She could just let herself sink and use her bow to try and take out the Incarn from below. She could swim down, then back up, trying to build up enough speed to launch herself into the air. Neither plan struck her as particularly appealing, and both fled from her as she broke the surface and someone clasped her arm, hauling her roughly into the air.
+
+“Having fun?” Velika asked, standing on nothing.
+
+Ameliah coughed, the air hardening through Airwalk as she got her feet under her. Velika released her to slash at yet another wave headed for them, the wind from her strike parting it neatly in two and sending the Incarn surfing atop it flying. The mage didn’t cry out, and moments later, a pillar of water grew from the ocean to catch him.
+
+“You good?” Velika said, ignoring the enemy as she looked at Ameliah. Her arm blurred behind her back, and there was a small clack, then a splash. “Arrow,” she said by way of explanation. “So, what’ll it be? Do you want to play with Splashy? Or do you want to go back to plinking the ship? Fuck-all that was doing, by the way.”
+
+“You take the ship,” Ameliah said, having regained her breath. She freed her bow and launched a Seeker Shot toward the Incarn, who summoned a curtain of water to block. She jumped into the air to get away from his retaliatory blast of water, figuring that the more distance she put between herself and the ocean in this fight, the better.
+
+Velika kept pace, wobbling to a stop beside Ameliah as she prepared another shot. “Woah,” the ex-Citizen said, whirling her arms. “Damn it, what the fuck? You’re making this look easy. Why is everyone so much better at Airwalk than I am?”
+
+“Get the damn ships!” Ameliah yelled, loosing her arrow and dodging as a watery tentacle sliced through the air where she’d been standing. “Do that thing you did before! Cut them in half!”
+
+“Not gonna happen,” Velika said, hopping after her. “Even if I felt like breaking my sword trying, those barriers look stronger than last time.” She rubbed her chin, slashing behind herself again to sever a water tentacle as it went for her, then continued in a casual tone. “They didn’t have Incarns last time either. I think I made someone mad. Oh hey! Would you look at that! Looks like I’m not the only one to piss them off.”
+
+“What?” Ameliah said, glancing at her, then following her gaze to the city and the gigantic, flaming rock descending toward it.
+
+No!
+
+She raised her bow, knowing it was too far but that she had to try anyway. Before she could even draw, a water tentacle wrapped around her ankle and yanked her roughly out of the sky.
+
+Numbers danced through Rain’s mind at lightning speed as he beheld the Meteor plummeting toward them.
+
+The first number was two. Two seconds. All the time they had.
+
+His gut screamed at him to use Inverted Immolate and Force Ward together, but there was a problem with that plan. Like Fireball, Meteor’s damage was split, two-thirds being Heat, and the other third being Force. There was no question that the spell would hit the damage limit, so that was 3,333 Force damage and 6,666 Heat. To the system, damage mitigation and flat resistance were the same, both capped at 75% of the damage limit. Except it wasn’t that simple. The cap was distributed across the elements according to the ratio of the incoming damage. Force Ward being active didn’t change that critical, original ratio. Inverted Immolate couldn’t do a full block. Each target struck by the Meteor would still need to tank 1,666 Heat damage.
+
+It was too much.
+
+For him, the number would be survivable. Barely. He’d asked Mereck to start healing him on the way over, but he was still far from full. For the others, though...
+
+Samson was level six. Mereck, Stint, and Vanna were all level five. Even with Strength equipment, they simply didn’t have the hitpoints. The math painted an even grimmer picture for Dozer, Dust, and the townsfolk watching from the surrounding buildings. They would all die.
+
+That was unacceptable.
+
+Rain hauled open his skill window to acquire the required system context but didn’t bother with any buttons, using his will to slam one of his precious free skill points into Heat Ward. With approximately zero seconds left, he applied the changes and activated his magic, screaming in furious defiance as Aura Focus swallowed the world in black.
+
+modmon.sh: ['amplify aura', 'extend aura', 'aura compression', 'channel mastery']
+
+autocompress.sh: Target: 30 meters
+
+autocompress.sh: Extend Aura unnecessary, disabling
+
+autocompress.sh: Compression Applied: 52.8 meters
+
+autopower.sh: Target: 100%
+
+autopower.sh: Amplify Aura unnecessary, disabling
+
+autopower.sh: CM Setting: 15.58%
+
+Force Ward (15/15)
+
+Increase physical resistance by 100% for all entities
+
+Range: 30 meters
+
+Cost: 0.155796 mp/dmg mitigated
+
+modmon.sh: ['amplify aura', 'extend aura', 'aura compression', 'channel mastery', 'aura focus']
+
+autocompress.sh: Target: 30 meters
+
+autocompress.sh: Compression Applied: 323.3 meters
+
+autopower.sh: Target: 100%
+
+autopower.sh: Amplify Aura unnecessary, disabling
+
+autopower.sh: CM Setting: 14.11%
+
+Heat Ward (1/15) Exp: 0/100
+
+Increase heat resistance by 100% for all entities
+
+Range: 30 meters
+
+Cost: 2.25778 mp/dmg mitigated
+
+dmgnum.sh version 0.5.0
+
+Force Damage Detected
+
+Heat Damage Detected
+
+Mana: -93,667
+
+Force Ward: 100%
+
+Rate: 0.155796 mp/dmg
+
+Heat Ward: 100%
+
+Rate: 2.25778 mp/dmg
+
+Force Resist: 228.6
+
+Heat Resist: 1,028.6
+
+Original Damage: ERROR_MULTI_TARGET

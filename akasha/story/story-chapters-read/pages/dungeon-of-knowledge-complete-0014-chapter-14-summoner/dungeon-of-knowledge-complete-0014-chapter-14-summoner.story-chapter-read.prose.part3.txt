@@ -1,7 +1,0 @@
-Runic Script has reached level 3.
-
-There we go, that should help decipher some of this puzzle, she thought, digging in for some serious study time.
-
-***
-
-Name: Aliandra AmarielRace: FaeTitles: AncientClass: Grove Warden – level 4- Grasping Roots – level 4- Arcane Bolt – level 5- Barrier – level 5- Grimoire of Summoning – level 7- Runic Script – level 3- Sage of Learning – level 4- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Reading – level 7- Identify – level 5- Sculpting – level 2Aptitudes- Languages: Ancient Dal’mohran, Elvish, Dwarven, Common- Mana (Affinities): Arcane, Nature- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50% - Mana Sense (Racial): You are sensitive to nearby mana- Domain (Class): Your mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 20- Strength: 4- Endurance: 5- Dexterity: 10- Perception: 11- Intelligence: 33- Wisdom: 27Health: 100/100Stamina: 50/50Mana: 409/430 (21 Reserved)Grimoire: Imprints1- Verdant Moss2- Wood3- Sewer Rat4- Giant Spider5-6-7-

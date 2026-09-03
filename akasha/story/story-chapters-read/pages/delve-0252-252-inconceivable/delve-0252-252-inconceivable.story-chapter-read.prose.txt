@@ -228,3 +228,164 @@ Rain suppressed a chuckle at the imagined message, coming back with no appreciab
 
 “The insert comes out,” Rain said excitedly. “There’s another layer below that that’s all GranTel.”
 
+“This is...more than I requested,” Tallheart said. For him, that tiny pause had been the equivalent of anyone else dropping the case in shock. “I thank you.”
+
+“That’s not all we brought back,” Rain said, unable to hold back his grin. “That’s Ameliah’s share and mine put together. The balance went to the company at the Entrusted mission rate. It’s mostly in base Tel and Crysts. We figured that would be better for our lower-level crafters.”
+
+“How did you collect so much?” Tallheart rumbled. “Did you find a lucrative biome?”
+
+Rain shrugged. “Not as such. Having a full team of randos with us let us kick over a few problematic monster nests that had been plaguing Nadir for years. Even splitting with our patrol mates, we still made out like bandits. Seeing essence is a great way of telling what fights you can pick and what fights will get you killed, and Detection’s great for recovering lost equipment. If you’re asking how we got the rarer varieties of Crysts, we exchanged them. One of the few things the Bank’s good for. It was expensive, but there’s also Dozer. He can make GranTel now.”
+
+“I do not believe you,” Tallheart said, closing the case with a click.
+
+“Come on, Tallheart,” Rain laughed. “Would I lie?”
+
+“If you thought it would fool me in an amusing and innocent way, yes, but that is not what I mean,” Tallheart said with a confounded rumble. “I do not believe you. The things that you do. They are absurd.”
+
+“Says the man building an airship,” Rain said.
+
+“Based upon concepts and principles that you carried here from another reality,” Tallheart countered.
+
+“I mean, fair.”
+
+“Do you wish to see it?”
+
+“Hells yes!” Rain said, clapping Tallheart on the shoulder as the two of them moved toward the gap in the panels. “So, when are you making your new armor?”
+
+“I will get to it,” Tallheart said, tucking the case under his arm as they entered the enclosed area, bringing the airship into view. “Metal remains an issue. The mining expedition we will discuss this afternoon will help.”
+
+Rain simply couldn’t reply at that moment, too awestruck by the vessel crammed in beneath the trees. It was large enough to seat a full party with room to spare, with four seats that he could see through the crystal-clear cockpit windows. The skin of the craft was aluminum, stretched over a titanium frame that Detection outlined in its geometric perfection. It was enchanted—he could feel the rune-bound essence from here. Compact wings melded smoothly into a cylindrical fuselage, and a ramp at the rear was open to reveal a glimpse of an illuminated interior. Other details—like the wheeled landing gear—paled before the impact of the two massive engines built into the wings. They were actuated, presently pointed straight up with their four-bladed props spinning slowly in the dappled light.
+
+Rain couldn’t handle it.
+
+“YOU BUILT A DAMN TILTROTOR!?”
+
+“It seemed to be the most practical design for our needs,” Tallheart rumbled in satisfaction as Staavo poked his head out of the cargo bay.
+
+“Tallheart, it was barely practical in my old world!” Rain protested. “I mean, when it works, it’s brilliant, but the complexity... How? Just how?! Does it even fly? What the filth powers it!?”
+
+“It is not only you that has made good use of their inner world,” Tallheart rumbled. “It has allowed me to iterate without consequence.”
+
+“What POWERS IT, Tallheart?” Rain demanded. “Gasoline? Jet Fuel? Methane from Myth and Reason’s Alchemical bullshit? WHAT!?”
+
+“Already got yourself in a twist, I see, Captain,” Staavo said by way of greeting as he joined them. Bluewash had joined him from somewhere, but Rain barely noticed before he was assaulted by an ear-shattering Inception bwah from his interface.
+
+Alert!
+
+Staavo Detected within birthday radius!
+
+NOT NOW, DAMN IT!
+
+“It’s powered by a core, to answer your question,” Bluewash said proudly as Rain forcibly suppressed the dialog—something that was quite difficult, as he’d just finished designing it to be unsuppressible. “Though it’s not a typical journey core, by any definition.”
+
+Rain closed his eyes, taking deep breaths. “Somebody explain before I explode.”
+
+“I kind of don’t want to now,” Staavo said. Rain opened his eyes in time to see Bluewash swat him.
+
+“A normal journey core provides the animating force,” she said, beckoning, then moving toward the open ramp to the cargo bay. Rain followed in a daze as she continued. “The subcore we got from the Breathless Wasteland—that’s the lair below us—was nowhere near powerful enough for that, but it did have another property I could use. I’ve hoodwinked it into making hydrogen, just like the lair it came from. All you need to do is feed it mana. We’re calling it a fuel core.”
+
+“The hydrogen is stored in that bottle to feed Tallheart’s miniature reactor,” Staavo supplied, pointing as they entered the cargo bay. “The fuel core can’t keep up when the reactor is at full power, and the bottle can only be so big before the hydrogen starts decaying back into mana, but the ship’s range should be effectively unlimited as long as someone silver-ish is on board to charge the runes feeding the core.”
+
+“Mmm,” Tallheart rumbled as Rain goggled at the machinery behind the cargo netting. “Without the fuel core, we would have had to squeeze Kettel in the reactor for long voyages.”
+
+“Hang on, that was your plan?” Bluewash said. “But he’s not strong enough to—oh. Oh, you were joking. Haha. Wait, were you? I guess it would work if he and Cessa both—”
+
+“It’s up through here,” Staavo said, cutting her off and leading the way up a steep stairwell. Another beside it probably led to the turret. “Now that you’re back, we can finally have a proper test.”
+
+“I’ll just watch from outside...” Bluewash said, only to yelp as Tallheart caught her by the nape of her Ascension jacket.
+
+“We need you to monitor the core.”
+
+“But—“
+
+“Rain is using Force Ward. You will be safe.”
+
+“Oh.” Bluewash swallowed heavily. “Right.”
+
+“You coming or what?” Staavo called down the stairwell.
+
+“How am I the absurd one?” Rain demanded of Tallheart, following the antlered smith up the stairs as Bluewash went to close the ramp. “Seriously, I want to know.”
+
+Tallheart didn’t answer, turning sideways to get through but managing it without too much trouble. Despite the restrictions on space, an accommodation had clearly been made for him.
+
+The room the stairs emptied into was furnished. There was a table and chairs, each bolted to the floor and fitted with a crash harness. The machinery from below continued up through the floor, the ‘miniature’ reactor not seeming very miniature at all. A number of control panels surrounded it, and it was clearly active. Rain could see the rotor turning where it protruded through the generator coil, but there was no sound, not even an electric hum.
+
+Muffle runes?
+
+Staavo was standing impatiently, tapping his artificial foot against the decking near the passage to the cockpit, but Rain could not let this lie. He pointed at the coils. “It’s only been a month!? How did you even wrap that much wire? You’d have had to do it for the engines, too, so—”
+
+“Velika is very fast,” Tallheart rumbled. He negotiated his way around the table, then passed Staavo to take the lead into the cockpit.
+
+“And very grumpy,” Staavo said, disappearing up the stairs after him. “Watch out for her, Rain,” he continued out of sight. “She wants to talk to you about something.”
+
+With his options being follow or be left behind, Rain chose to follow, entering the glass cockpit to see Tallheart already strapping himself into what was clearly the pilot’s chair. Much like on Temerity’s bridge, a console rose in front of him, festooned with various controls and glowing lights. The main difference was the pair of pedals and the flight stick.
+
+“I don’t believe this,” Rain muttered, searching around and finding a place to sit. “I’ve gone insane. I’ve gone insane. Totally granny-scrambled.”
+
+Staavo barked out a laugh, punching Tallheart in the shoulder. “Told you we’d break him.”
+
+“Mmm,” Tallheart said, flipping a switch. “Samson. Do you receive?”
+
+There was a momentary delay, then the radio crackled with Samson’s voice. “I hear you. I take it you’re ready then?”
+
+“Indeed,” Tallheart rumbled. “The captain is with us. Inconceivable requests clearance for test flight.”
+
+“Good name,” Rain muttered emphatically. He wasn’t even mad they hadn’t taken his suggestion of ‘Enterprise’.
+
+“Flight permission granted,” Samson said. “Head south. If you’re spotted, I’d rather it not be nearby. And good luck. Try not to crash.”
+
+“Received,” Tallheart rumbled, and Rain almost yelped as the whole craft jerked.
+
+Bluewash actually did yelp, her voice echoing up from the stairwell. “Just a second! Let me strap in!”
+
+“There are electric motors on the wheels, too,” Staavo said as they began to creep toward a gap in the trees that yawned onto a clearing like a hangar door. “Damn convenient, electricity. Much better than steam. Makes it almost easy to get power to where it needs to be.”
+
+“As long as you are not the one who has to wrap the wire,” Tallheart said.
+
+“That goes without saying,” Staavo said. “I’m thinking of making a machine for it.”
+
+“I literally cannot even,” Rain said.
+
+“I almost forgot,” Tallheart said, holding up a pair of goggles. As he split the band to tie them on, Rain recognized them as the pair he’d given him for the test of the first forgewagon, long, long ago. “Check beneath your seat.”
+
+Rain did, finding his own pair, and that was enough to break him out of his shock. A grin spread across his face, and he suddenly had to contend with a different problem—that of the undignified squee trying to escape his throat. By the time they rolled out into the sunlight, he was quivering in his seat harder than Dozer after a three-foot drop.
+
+“The lair’s just below this clearing,” Staavo said, having strapped on a pair of goggles of his own. “We moved the entrance. Still working on fortifications.”
+
+“Staavo, readout, please,” Tallheart said.
+
+“Pressure is steady, generator output nominal,” the old scholar replied, peering at the panel in front of him. “We’re good to go. Now, gently, you pointy-headed maniac.”
+
+“Mmm,” Tallheart rumbled. “It would not do to frighten the elderly.” He grasped what was clearly the throttle lever and began moving it forward.
+
+A vibration began to build, rattling Rain’s chair up through the floor. Reflexively, he checked the settings on Force Ward, though there was no need with how finely tuned his macros were at this point. The sound of rushing air built and built, dust swirling outside the windows in a cloud. As the speed of the rotors increased, the vibration smoothed out into a comfortable purr.
+
+“We’re still working on balancing everything,” Staavo said. ”The first full-speed tethered test nearly shook us apart.”
+
+“The balance is sufficient for now,” Tallheart said, moving the throttle further forward still. “Readout?”
+
+“Still good,” Staavo said irritably, adjusting a lever of his own. “I’m keeping pace with the generator. You do your job; I’ll do mine.”
+
+“Here we go,” Tallheart rumbled, and seconds later, Rain felt the bottom drop out of his stomach as the entire craft began to tilt.
+
+“Ahhhh!” Bluewash screamed in terror from below. “Ahhhh! Ahhhhh! Stop! Stop!”
+
+“What is it?” Staavo yelled back as Tallheart eased off the throttle. They settled back down with a lurch. “Is there a problem with the core?”
+
+There was a brief pause before Bluewash shakily answered, “It’s fine! No problem! I just... Sorry! Do it! Do it before I change my mind!”
+
+“Doing it,” Tallheart said calmly.
+
+Again, the bottom fell out of Rain’s stomach, and they lurched into the sky. The smith’s hands were a blur as he worked the controls—his confident movements telling a story of long hours spent practicing inside his soul—but despite his evident skill, they nearly clipped the canopy before they rose above it. They nearly clipped it again as he angled the rotors forward, sending them into a swooping dive, but then they began to rise, acceleration pressing Rain back into his seat.
+
+They were flying.
+
+Sure, the view from the cockpit couldn’t compare to soaring with Ameliah.
+
+Sure, the flight was bumpy as hell.
+
+Sure, they were probably going to break apart and slam into the trees at any moment...
+
+But they were flying.
+
+Rain couldn’t help it. The squee escaped.

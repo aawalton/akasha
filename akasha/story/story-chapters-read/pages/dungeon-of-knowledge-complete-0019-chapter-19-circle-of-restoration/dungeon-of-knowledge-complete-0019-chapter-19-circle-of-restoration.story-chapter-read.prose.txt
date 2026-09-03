@@ -110,3 +110,34 @@ She barely noticed the chime and the notification of her skill increase, but its
 
 Sage of Learning has reached level 7.
 
+Suddenly, understanding blossomed in a cascading chain reaction within her mind. Falling back with a gasp, she saw each of the runes, concepts, and layers as if they were complex glowing puzzle pieces floating within the expanse of her mind. All she needed to do was sort them and fit them together in the correct arrangement. She reached out and nudged one piece, connecting it to its partner in a thrilling spark of understanding. As she examined the new configuration, she saw an additional connection that now seemed obvious. Reaching again, she coaxed the next piece to connect, building upon what she had just learned. Each time, understanding advanced, and her cascade accelerated like an avalanche which suddenly culminated in a pristine and clear picture, a circle of magic hovering, glowing, pulsing within her mind.
+
+Her awareness slowly returned to her body as she held the image within her mind. She was surprised to find her body drenched with sweat and trembling from exertion. But she had it – hovering in crystal clarity was the first magic spell she had fully grasped, completely understood.
+
+Ok, step one was successful, she thought, allowing some time for her breathing to return to normal. Sage is really hungry, she thought looking at the decimated remnants of her previously almost full mana pool. After she had recovered a little, she patiently deconstructed each of the items in her little bundle of loot, refilling her mana once more.
+
+Now for the hard part, she thought, shuffling and dragging herself along the floor to where Mato lay. His breathing was noticeably weaker now. He doesn’t have much time. Can I even make it?
+
+There was no choice. She would either succeed in time, or she would fail – and they would both die down here in the darkness, posthumous victims of the vicious Kobold Fire Mage.
+
+Diligently, Ali reviewed the glowing magical construct in her mind and then she began channeling her mana into her Runic Script skill. Intense magic shot forth from her hand in a bright green glowing stream, flecked with golden sparkles as she wielded her skill to duplicate the runes she had pictured. It didn’t matter that the ground upon which she scribed her magic was stone covered with congealing blood, her skill simply etched the spell-work directly onto the stone.
+
+The task was every bit as hard as she had anticipated – she mustered her focus and concentration to the extreme, striving to replicate exactly every tiny detail, every minuscule but essential connection. As she worked, the pain and exhaustion racking her body grappled with her mental focus, causing her to falter and lapse repeatedly. Each time she did so, she had to reset the entire rune she was working on and rebuild it from scratch. With painstaking slowness, running entirely on the force of her willpower, she grew a circle of glowing runes around Mato’s fallen body.
+
+Runic Script has reached level 6.
+
+Her vision was beginning to fade in and out by the time she reached the last few runes, sheer exhaustion taking its toll. Ali blinked the droplets of sweat out of her eyes and restarted the rune she was focused on, correcting a mistake. It was a silly mistake, but she had stopped chiding herself for them, reduced to merely hoping she would be able to hold out long enough to complete the construct. She swayed as she caught herself before passing out, and readjusted her mana, just in time to avoid making yet another error.
+
+Suddenly, surprisingly, there was nothing more to scribe. The circle closed with a snap and a rush of magical energy as the entire ring of intricate runes flared brightly in green with accents of gold. A substantial chunk of her mana surged out of her into the ring as her body staggered from the waves of exhaustion.
+
+Your reserved mana has increased by +44.Runic Script has reached level 7.
+
+She stared blankly for a while at the glowing magical construct. Within the circle, ethereal green aurorae began to dance, rising into the air like ghostly flames shot through with flickers of golden sparks and barely perceptible translucent shapes that looked like leaves floating on a breeze. Mato’s breathing began to slow and deepen as the magic flowed through his body. Ali cast Identify to see what she had made.
+
+Restoration – level 6Creates a Restoration aura within the circle.Runic Circle
+
+It worked. She knew she should feel more, but all that came was a sense of profound relief that she was done and could now let go. Thinking nothing of the danger, she crawled into the runic circle and collapsed beside Mato. The green aurora caressed her skin like the afternoon sun shining down on her face as she lay upon a grassy bank. She released herself into its embrace and finally allowed her consciousness to fade.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientClass: Grove Warden – level 7- Grasping Roots – level 5- Arcane Bolt – level 7- Barrier – level 7- Grimoire of Summoning – level 8- Runic Script – level 7- Sage of Learning – level 7- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Reading – level 7- Identify – level 6- Sculpting – level 2Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Mana Sense (Racial): You are sensitive to nearby mana- Domain (Class): Your mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawalAttributes- Unspent: 20- Vitality: 20- Strength: 4- Endurance: 5- Dexterity: 10- Perception: 11- Intelligence: 38- Wisdom: 32Health: 4/100Stamina: 3/50Mana: 31/520 (83 Reserved)Grimoire Imprints1- Verdant Moss2- Wood3- Sewer Rat4- Giant Spider5- Starving Wolf6- Mushroom7- Stone8-

@@ -178,3 +178,74 @@ Leaving Shu and Samson to it, Rain took a moment to check on the spy with Detect
 
 “Full speed,” Samson confirmed, pressing the drive levers all the way forward.
 
+Rain felt himself being pressed gently backward. The acceleration was only mild if you failed to consider the size of the vessel. Dozer was certainly impressed. He gave up his ball impression in favor of bouncing excitedly between the floor and the rear wall.
+
+[Tilt!!!]
+
+[That would depend on your reference frame,] Rain sent. He turned, then walked to the rear windows and looked down, seeing only blackness. The ship’s wash wasn’t visible, but he could hear its churning fury.
+
+Good thing we don’t need to worry about passive sonar.
+
+After the failure that had left them stranded midway between Ekrustia and Rellagia, Tallheart had tweaked the angle of the impeller blades in an attempt to eliminate the cavitation issues they’d had. With his help, Staavo had also re-engineered the condenser into something that would actually work under load. They were now running the turbines in a properly closed cycle, eliminating the plume of steam that had followed them previously. The real improvement, though, was something only a few were authorized to know. The leftover adamant from their trip into the depths was now hidden within key components of Temerity’s powertrain.
+
+It was a very Tallheart solution—the issue of precision and balance circumvented through excessive strength. That wasn’t to say Tallheart’s work wasn’t unbelievably precise, of course. It was just that he was working with a hammer, not a CNC mill.
+
+Soon enough, the acceleration leveled off, and Rain relaxed as it became clear that there wasn’t going to be another failure. [Fun’s over, Dozer.]
+
+[Clean instead?]
+
+[Nap instead,] Rain countered, much to the slime’s immediate and loud discontent. He suppressed a sigh, beginning a familiar mental battle as he relieved Vanna from the aux console. Once seated, he began a delicate dance with the boiler team, watching the dials carefully and gradually increasing output from his Immolate anchor so they’d have to draw less heat from the smelter. They’d need that heat later. Between that, pinging with Detection, and his continuing argument with his slimy charge, he found himself quite occupied.
+
+In what seemed like a blink of an eye, they were across. Samson slowed through another turn, then accelerated to maximum again, pointed straight eastward.
+
+“When do we cut, Shu?” Vanna asked.
+
+“It should be no more than a hand of minutes to the first ridge,” the navigator replied.
+
+“I still think it’s too risky to take that one,” Samson said. “I’d like a report from Engineering on the ship’s performance before we risk deep water.”
+
+“It’s already on its way,” Rain said, noting that Ellis’s signal was making its way rapidly toward them.
+
+“Hey!” Vanna shouted abruptly. “Dozer!? What are you doing?”
+
+“Just be glad I got him to stop jumping on people,” Rain said, looking up to see the slime milling around Vanna’s legs. “He’ll settle down if you pick him up. I can come get him if you don’t want to deal with it.”
+
+“Why do you have him out here, anyway?” Vanna asked, hoisting the grumpy slime into her arms.
+
+“Because there’s nothing left for him to do inside and he refuses to accept that answer,” Rain said.
+
+“Really?” Vanna asked, raising an eyebrow as she stroked Dozer’s membrane. She glanced significantly at Shu, who wasn’t authorized for anything soul related, then back to Rain.
+
+Rain nodded, not needing the reminder. “Really,” he said and left it at that.
+
+There was some chaos left, technically, but he was saving it in a special holding tank. It had its uses, notably for time acceleration. The coefficient had improved by leaps and bounds as he’d purified his soul, but whatever principle drove it—he hadn’t found a structure—needed chaos as fuel. Chaos specifically, as in completely raw and unrefined. It was incredibly odd and highly inconvenient, as it was proving difficult to acquire more.
+
+As much of a brat as Dozer was being, the system was being an even bigger one. It was happy to take his potential during essence exchange but was refusing to give him any fresh chaos in return. That had started not long after he’d made his first ‘ramscoop.’ The intake structures worked, pushing him over the amount of essence he was ‘supposed’ to have, but they were slow. Agonizingly slow. The system would up his allocation if he earned more experience, and indeed he’d returned to unlocking skill trees to do just that, but it wasn’t enough. Even if he dipped below his limit so the system would help him, it could only do so much. There just wasn’t much essence around for it to gather.
+
+I need to delve.
+
+Rain tightened his jaw. There was still plenty to do before he was truly stuck. Making more and better ramscoops, to start, as well as fixing the inner layer of his paling. The essence comprising it was rank-eighteen, taken from the soul of the Musk Wolf that had tried to snackify him what seemed a lifetime ago. He’d already started cleaning up the edges, but it was slow going. The system’s tendrils were threaded all through the barrier like fine wire. At the edge, they’d snapped and then snarled themselves into a hopeless mess. And that was just the inner layer. He was only up to rank-twenty essence, so the outer layer remained immutable, and if the trouble he’d had with the rank-five pattern was any indicator, the pattern for rank twenty-five was going to be hell.
+
+A wall indeed.
+
+The opening of a hatch precluded any further musing, and Rain looked over his shoulder to see Ellis enter. He nodded in greeting, then inclined his head toward Vanna before returning to the dials. Once Ellis finished his report, Vanna and Samson asked a few questions, then sent him back down to Tallheart and Staavo. Emerton checked in through the comms console not long after, which was staffed by Nails and had been this entire time. Nails then Messaged Ameliah, updating her on the ship’s status and getting her report in return.
+
+Things continued in this way for a little while, with reports coming in, orders going out, and Rain’s blood pressure steadily rising. There were no issues by the time Dozer fell asleep. No unexpected developments by the time Shu called out that it was time.
+
+Finally, Vanna had Nails call Ameliah and Emerton back, then directed Samson into starting the turn. Only then did Rain’s tension begin to drain away. The real pressure was now on, and he didn’t have the luxury of worry. Instead, he watched with growing focus as Samson worked the levers, finally leaving them at a mere quarter of their maximum throttle. The vibration of the ship faded, dropping to a low, barely perceptible thrum.
+
+“Five in ten south of east,” Shu said in a soft voice. “No overshoot. Well done on the helm.”
+
+“Yes, well done,” Vanna agreed. “Time for the signal.”
+
+“Signaling,” Samson said, immune to the praise. He sounded the ship’s horn, the escaping steam seeming almost insolent from the way it shattered the silence.
+
+As the echo of the blast faded, Rain canceled Immolate. He stopped Detection next, as well as all his Wards. He then disabled the macros responsible for periodically running his Purify and Essence Well anchors. Last, he came for Winter, shivering with the anti-chill of the magic’s departure.
+
+Shu’s lens winked out, and the Star Guide clasped his arms behind his back. Samson sighed, settling back into his chair. Vanna said nothing, for there was nothing more to say, her tension betrayed only by her soul and by how tightly she was hugging Dozer to her stomach. Nails, too, remained silent, surprising no one.
+
+It was time to go dark for real.
+
+Reaching out to the console, Rain flipped one final switch, killing the emergency lights and plunging the bridge into blackness. Beyond the windows, the galaxy twinkled like a tapestry above the yawning, fathomless ocean.
+
+Not even when he’d been alone in the infinity of the Void had he ever felt so small.

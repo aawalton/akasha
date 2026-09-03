@@ -132,3 +132,176 @@ Rain ignored the voice, fighting off the wave of unease that had come with revea
 
 “You…want to run that by me one more time?” Gus said after a long pause. He started feeling behind himself for his stool, and when he didn’t find it, looked to see it lying on the ground.
 
+Rain smiled, speaking loudly so his voice would carry. “We have about eight hundred people camped on top of the cliff. We need a way to get them down, first, and then we’ll need lodgings, food, and water. Can I post some bills on the board for local adventurers to help with that stuff, or—?”
+
+“What in the Waste’s going on in here!” a rough voice shouted, far louder than any of the previous outbursts.
+
+Rain grimaced. Shit. Thrast. Did he follow us?
+
+He turned smoothly to see the red-and-yellow armored silverplate staring at him, wearing much the same expression as upon their initial meeting.
+
+“Should have known it was you three,” Thrast said, marching forward carelessly as people scrambled to get out of his way. “Why didn’t you say you were new to the city? I swear to the deep, if there’s been a ship and nobody told me, I’ll skin the lot of you.”
+
+“We didn’t come by ship,” Rain said, walking out to meet the silverplate in the clear space in the center of the Guildhall. He wanted to be as far as possible from anything or anyone that might get broken, and it looked like this space had even been designed with that in mind. There was even a circle of white stone set into the scuffed floor. From the size, it was probably meant as a dueling arena. His alternate guess—dance floor—didn’t seem likely.
+
+“Well, where the depths did you come from, then?” Thrast asked, poking his finger into Rain’s chest. “Was that you, flying up over the city?”
+
+Rain looked down at the finger, pressed firmly against his armor. “Do I look like I can fly?”
+
+“Rain!” Gus hissed from behind him, but his voice was swallowed by Thrast’s angry growl.
+
+“Sass me, you spoiled brat, and maybe we’ll see how you fly off the edge of the cliff.” Removing his finger, he instead rapped his knuckles on Rain’s chest, making a metallic sound. “I’m sure you feel strong in that armor daddy bought you, but I’ll teach you how little it means against someone like me. I bought my armor.”
+
+“No sass,” Rain said, taking a step back, mostly to get away from the man’s breath.
+
+Thrast smirked. “So, are you going to tell me where you’re from, or are you really an Adamant after all?”
+
+“He said he’s from Vestvall!” someone from the crowd supplied. “He said they walked here and that they’ve got the whole city with ‘em.”
+
+Thrast turned to look at the speaker, then scoffed. “Don’t tell me you believed that.” He turned back to sneer at Rain. “I say he’s a lying Adamant spy.”
+
+“That’s right, Thrast!” someone shouted. “He ain’t got a plate! Kick his ass!”
+
+“What happened to your plate, lying liar,” Thrast asked, crossing his arms smugly.
+
+Rain sighed. Thanks to his improved Perception sync, he could easily tell that Thrast didn’t believe what he was saying. It was obvious from his posture, tone, and the stupid, self-confident grin on his face that he was just spoiling for a fight.
+
+Careful to move very slowly and to keep his hands away from his sword, Rain spread his arms. “I am not with the Empire, and I have spoken no lie. I put my plate away, but I can show it to you if you’d like. Gus can confirm that it’s real. He knows me.”
+
+“Who?” Thrast asked over Gus’s panicked squawk.
+
+“I don’t want trouble,” Rain said, deciding that it was probably better to leave the clerk out of it. “Please just calm down.”
+
+Thrast laughed right in his face, and it was all Rain could do not to recoil from the fishy aroma. The silverplate spun away, spreading his arms confidently to the crowd. “Says he doesn’t want trouble, then steps into the ring to face me with a sword at his belt? Ha. Liar, liar, liar.” He spun back to face Rain, having reached the opposite side of the ring. He placed his hand on the hilt of his sword. “Well? Let’s see what this liar’s made of, shall we? Duel Start!”
+
+In response to Thrast’s shout, the air shimmered, and a translucent curtain of purple light snapped from the circle on the floor to the ceiling.
+
+Oh.
+
+“Yeah!” Kick-His-Ass Guy yelled as the onlookers scrambled to surround the ring. The barrier seemed to suppress sound, but he could hear their excited chatter well enough.
+
+Rain looked at his opponent. Somehow, despite this unexpected turn, he found that he was…unconcerned. He couldn’t put his finger on it, but something was telling him that Thrast, silverplate though he was, wasn’t a threat. Perhaps it was something picked up by his enhanced Perception, or perhaps it was just a feeling, but he knew he could win. It was the collateral damage that he feared, but with the barrier, depending on how strong it was…
+
+Am I really considering this? No, one last try.
+
+“Please don’t do this,” Rain said, spreading his arms. “I don’t know how tough this barrier is, but if you go all out, I’m sure you could break it. Everyone says you’re strong. People could get hurt.”
+
+“Ha!” Thrast laughed, drawing his sword. “Trying to flatter me won’t work! If you’re a bronzie like you say, I won’t need to lift a finger to put you on the floor, and you might learn something on the way down. And if you’re not a bronzie, that would make you a lying Adamant, now wouldn’t it? Shut up and duel!”
+
+“No,” Rain said, making no move to touch his own sword. “I refuse.”
+
+“You can’t refuse!” someone shouted from the crowd. “Unless you’re silver too, you gotta do what he says! Them’s the rules here!”
+
+“Stupid rules,” Rain said. “Okay, fine. I’m silver. I refuse.”
+
+“Bullshit!” Kick-His-Ass Guy shouted, dragging out the word. “If you’re silver, where’s your plate?”
+
+Rain sighed. This isn’t working.
+
+“Start!” Thrast suddenly bellowed, then he blurred.
+
+Rain had just enough time to swap Arcane Ward for Force Ward before the point of Thrast’s sword speared into his shoulder. There was a ping like cracking ice and a ripple in the air, combined with a small draw on his mana.
+
+dmgnum.sh version 0.4.0
+
+Physical Damage Detected
+
+Kinetic Conversion Triggered (Momentum Only)
+
+Mana: -86
+
+Armor Charge: -2
+
+Force Ward: 25%
+
+Rate: 0.03444 mp/dmg
+
+Hardness + Force Resist: 7,500 (capped)
+
+Original Damage: ~9999 (capped)
+
+He actually tried to kill me. Actually, maybe not. He did go for my shoulder.
+
+Either way, rude!
+
+Thrast had retreated and was staring at the point of his sword in confusion. “What in the hells was that?”
+
+“Ouch,” Rain said, casually reaching up to rub the spot where the blade had struck him. Other than a tiny hole in his new coat—sigh—there was no damage. “Can we stop now?”
+
+[Convincing,] Nails said flatly. [Also, Ameliah is on her way. She says don’t embarrass her.]
+
+Rain glanced at him, then nodded, also having noted that Jamus was standing ready in case something went down outside the barrier.
+
+Okay then.
+
+Rain turned his eyes forward again. Deciding he wanted a marker for this, he quickly set one without triggering an essence exchange. A progress report popped up automatically—
+
+Progress Report
+
+marker_1: giddyup [3061 Seedlings 12 09:00]
+
+marker_2: thrasts_ass_is_grass [3061 Seedlings 18 11:44]
+
+Span: 6.1 days
+
+Skills
+
+Force Ward: +134,889 exp, 10 -> 15 (+5)
+
+Arcane Ward: +67,880 exp, 10 -> 15 (+5)
+
+Velocity: +67,870 exp, 10 -> 15 (+5)
+
+Mental Ward: +67,398 exp, 10 -> 15 (+5)
+
+Suppression: +217,600 exp, 10 -> 14 (+4)
+
+Aura Compression: +206,761 exp, 10 -> 14 (+4)
+
+Aura Focus: +56,956 exp, 11 -> 15 (+4)
+
+Shroud: +50,425 exp, 11 -> 15 (+4)
+
+Amplify Aura: +25,905 exp, 11 -> 15 (+4)
+
+Aura IFF: +94,686 exp, 12 -> 15 (+3)
+
+Extend Aura: +17,168 exp, 12 -> 15 (+3)
+
+Essence Well: +6,484 exp, 11 -> 12 (+1)
+
+Winter: +3,385 exp
+
+Mana Manipulation: +996 exp
+
+Prismatic Intent: +2 exp
+
+Synchronization
+
+Endurance: 7.4 -> 7.6 (+0.2)
+
+Perception: 22.3 -> 26.9 (+4.6)
+
+—but he banished it without reading a single word. He knew what it said. He’d eased up on his mana restriction six days ago, no longer worried about his paling. Even limiting himself to ten skill ranks per day, the progress had been significant. Two million mana spent would do that.
+
+Rain was surprised to find that he was smiling.
+
+“Finally decided to fight, did you?” Thrast asked, apparently having picked up on Rain’s mood from his posture—his face, of course, being safely hidden.
+
+“Since you won’t give me a choice,” Rain replied, inclining his head toward the barrier. “Really, though. How strong is this? If I hit it as hard as you just hit me, will it break?”
+
+Thrast narrowed his eyes, but didn’t respond. Rain had been watching his opponent closely too. A hint of wariness had crept into his bearing. Just a hint, though.
+
+Not nearly enough.
+
+Calling on his combat macros, Rain adjusted Force Ward, increasing the level of protection to keep his weapon from breaking.
+
+If he hits me with anything tricky, though, or manages to pin me, the gloves come off. Keeping up the facade is pointless if it gets me killed.
+
+Slowly, Rain drew his mock blade—plain steel, unenchanted—meeting Thrast stare for stare. “If I hit you as hard as you hit me, will you break?”
+
+“For someone with that many openings, I’m hearing a lot of talk,” the Swordsman growled.
+
+“Come, then,” Rain said, raising his blade and sliding into the basic stance of First Sparrow.
+
+His mana, of course, was long since back at full.

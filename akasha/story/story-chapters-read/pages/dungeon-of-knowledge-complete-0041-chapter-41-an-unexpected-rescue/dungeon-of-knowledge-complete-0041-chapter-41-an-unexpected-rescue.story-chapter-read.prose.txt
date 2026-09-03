@@ -148,3 +148,158 @@ Basil’s face had been terrified as he fled the Goblins – and rightly so. If 
 
 Hmm… Ali considered the problem, but she didn’t have a lot of options that fit what he was describing.
 
+“How about dinner?” Mato asked, interrupting her thoughts with the rattle and crash of pans and cookware appearing from his ring. “Calen and I cleared the tunnels, so the town should be safe for a bit. We can discuss ideas while we eat.”
+
+***
+
+Ali considered the problem while Mato peeled and chopped vegetables into a pot. The others had brought up several ideas so far, but nothing seemed particularly promising. I could just leave a few Kobolds there. The issue was that the Kobolds were expensive, and they could only be in one place. It would be rather inefficient to guard the entrance and not be able to use them for anything else. While her mana pool had grown enormously from the expansion of her domain through the southern part of the cavern, it was still a lot for a permanent guard.
+
+“I wish it wasn’t quite so far away,” Ali mused.
+
+“Perhaps not helpful for the immediate problem, but you could grow your plants up there in the sewer. At least the moss and the mushrooms,” Calen suggested.
+
+“I didn’t think of that.” It was an intriguing idea. The sewer had not been filled with dungeon mana and nobody would mind if she took over that space. It would definitely give her another, largely free, area to expand through. “Not sure how I can get my domain up through the hole to that level though. Perhaps I can grow a tree close to the rockfall?” Moss on the walls, maybe?
+
+“It’s a shit job for sure,” Malika put in, drawing an exaggerated groan from Calen.
+
+“What about using an ivy or a creeper plant?” Mato suggested. “There’s a few that could be very easy to collect without even leaving town.”
+
+“Oh, that’s a good idea,” Ali said. She had just earned a new chapter in her Grimoire, so it might even be something she wanted to try.
+
+“I’ll grab a bunch next time I’m in town,” he said.
+
+She had considered growing plants, blocking the entrances with stone, or even stationing Kobolds as guards, but she had one other skill that might prove useful.
+
+“Hey, Mato, can I borrow your Druid book for a bit? I have an idea.”
+
+“Sure,” he said, making it appear and handing it to her.
+
+“Thanks!” Ali took the book and scanned through the table of contents, searching for what she was sure must be there. It was rather strange to be looking for the skill she had removed, but she found it quickly enough: Grasping Roots. She turned to the relevant chapter and began to read. Even though she used to have the skill, she hadn’t really learned the spell. The skill simply took care of that stuff for her, but for her Runic Script, she would have to learn it the hard way. She continued to study, feeling her Sage of Learning drawing from her mana pool as she began to unravel the runic structure of the magical formation she needed.
+
+Sage of Learning has reached level 9.
+
+She carefully set the book down beside her and began to inscribe the magic she had just learned. It still took a few minutes, but, to her immense satisfaction, she managed to get it right the first time.
+
+Grasping Roots – level 1 (Nature)Summons Grasping Roots on anything entering the circle.Runic CircleYour reserved mana has increased by +5.
+
+Ali examined her newest creation. The glowing green runes enclosed an area of about two meters in diameter. The spell was such that the size would be adjustable – at least within reason – at the time she inscribed it.
+
+And it’s cheap. It probably wouldn’t be much use against higher-level Goblins, or the larger ones like Bugbears, but Calen and Mato had said that most of the intruders had been Scavengers – the primary scouts of this horde.
+
+“What do you guys think of this?” Ali asked, pointing at her circle.
+
+“Think of what?” Calen asked.
+
+“You can’t see it?”
+
+“I can see something is there, but not what it is,” he answered, squinting his eyes comically.
+
+“Oh. It’s a runic circle with the Grasping Roots spell. Level one.” It surprised her that Calen couldn’t see it. Ali had just identified the circle and the information had been there as intuitively as identifying a person. It must be Runic Script, she realized. Her knowledge skill was enhancing her Identify without her even noticing.
+
+“That’s a good idea,” Calen said. “Is it expensive?”
+
+“This one is only five mana at my current level,” Ali answered. “What if I make some cheaper creatures and these circles at the sewer entrance?” She had just recently learned the imprint for Toxic Slime, and now she might actually get some real use out of the blobby creatures.
+
+“It’s like a trap and a few monsters, I like it,” Calen answered.
+
+***
+
+Her plan had to wait a day before she could implement it. The vanguard of the Goblin horde had arrived overnight, and the garrison put in an urgent order for more arrows. Ali had spent a few hours making those before she and Calen had taken their turn on the patrol roster once again.
+
+They killed several Goblins hiding in the streets and alleys during their patrols. While they didn’t have to come to anyone’s immediate rescue like the previous night, Ali was certain they had saved lives by wiping out the Goblins who had figured out how to infiltrate the town. But their mere presence highlighted the urgency of figuring out how to block the sewers. Apparently, the garrison was far too busy preventing the main body of the Goblin horde from scaling the walls.
+
+“Here you go,” Mato said, dumping a pile of dark green ivy on the mossy ground beside the rockfall, summoned from his ring.
+
+“Thanks!” Ali immediately deconstructed all of it. Eager to set their plan into motion, she had already extended her domain all the way to the rock pile under the sewer entrance. She had been in the process of removing the loose rock and attempting to make a channel to divert the flow of sewage away from her domain when Mato had finally arrived bringing the essential component.
+
+Imprint: Ivy completed.
+
+Ali’s Grimoire obligingly opened to the last remaining blank chapter, and she quickly committed her newest imprint to its pages, expanding the book yet again. So far, her Grimoire had awarded her a chapter per skill level, and every time she learned something new, the book would add pages, expanding in size.
+
+How large will it get? she wondered, marveling at how large it already was. It was a superficial vanity, but she just loved being able to whip out an enormous magical spellbook whenever she wanted.
+
+She turned her attention back to her plants, and because she had been spending so much time growing them lately, she couldn’t help but notice the effects of Mato’s aura.
+
+“What are you doing with your aura?” she asked. “The plants are growing.” It was a subtle effect, but she could see delicate tendrils and ribbons of his mana suffusing the area. Strange little ethereal leaves appeared to float around for a bit before fading. Under the influence of this continuous magic, the plants she had made seemed to shift infinitesimally as if reaching hungrily for the mana.
+
+“Ever since Arboreal Sanctuary got Advanced Regeneration, it shares my regeneration with everything I consider an ally. Including plants.”
+
+“Why including plants?”
+
+He shrugged. “I’m a Druid.”
+
+I suppose that makes sense, she thought. Although, Ali thought it might have a lot more to do with Mato’s love of plants and nature than the fact that he was a Druid. Or perhaps he is a Druid because of that. “Seems useful,” she observed.
+
+“I can’t turn it off,” Mato said, grumbling. “I’m starting to grow stuff in town. Nobody has noticed yet, but I can tell.”
+
+Ali could certainly empathize. Passive skills were powerful, but they definitely had their drawbacks. She had experienced it with both Arcane Insight and Sage of Learning.
+
+Ali channeled her mana into her ivy imprint and, after a surprisingly short time, and not very much mana used, her spell completed, leaving her with a small plant with two leaves on the ground. It was less than ten centimeters tall.
+
+Aah, not what I expected. She knelt down and carefully inspected the tiny ivy plant she had made, but the only thing she could think of was how she had extended her mana usage to create several arrows simultaneously. Perhaps something like that will work? She gave it a try, channeling more mana into her imprint this time. She stretched it out in a way that seemed intuitive, aiming her magic along the wall from the ground upward. The runic patterns and constructs grew rapidly across the rock face mirroring the direction of her will, drawing more and more mana as she focused higher and higher. Eventually, the streamers of magic climbed up through the hole beside the dangling rope, and Ali decided to see if that was enough. She halted her mana and the spell suddenly completed. All the runes coalesced into a thick wall of ivy stretching from the ground up the rock face and into the sewer via the hole.
+
+The ivy did not have any special mana affinity, so Ali expected it would behave much like the trees, and indeed, she could already see the newly created plant beginning to siphon mana from the domain near the ground and draw it up the rock wall into the sewers above.
+
+“Looks like it works perfectly,” she smiled at Mato. “Thank you!”
+
+“No problem,” he answered, gruffly.
+
+Ali hauled herself laboriously up the rope, accepting Calen’s offered hand at the top. She was huffing and puffing from the exertion, and envious of the others with their higher physical attributes.
+
+“I’ll be the lookout while you work your magic,” Calen offered.
+
+“It’ll take a while,” Ali admitted. While her magic was quick, planting things, especially on the scale they would need here, took a surprisingly long time.
+
+“I don’t mind,” he answered, smiling at her.
+
+By the bright clear light of Calen’s magic, Ali studied the decaying brick of the sewer walls and the floor, both of which seemed treacherously unstable. Her dark green ivy had grown all the way up through the hole in the floor and even partway up the brick walls of the sewer, seemingly unbothered by the total lack of sunshine. The room stank from the thick brown sludge that flowed through the central channel and out through the hole in the ground and into the cavern below. Ali was so grateful Calen had placed the rope to the side so that she didn’t have to get splashed.
+
+Several of her Kobold minions began scaling the rope to join them, but Ali didn’t wait. The tunnel extended away into the darkness, and she had a lot of ground to cover. Trying the same technique she used with the ivy, Ali channeled mana into her moss imprint and began to carpet the floor of the tunnel. She had to switch it up a few times to ensure she was planting enough of the Verdant Moss rather than the Feather Moss. For a while, she regretted learning the Feather Moss because it had made planting her domain harder, but she simply learned to alternate quickly enough so that the randomness of her Grimoire wouldn’t unduly affect her goal.
+
+Ali began to walk slowly down the sewer tunnel. Green moss rippled outward from around her feet, growing constantly as she channeled a continuous stream of mana through her Grimoire. Calen vanished from sight, but she didn’t mind. His light was following her, so she knew he would be nearby. A few minutes later he confirmed by reappearing and dumping the corpse of a Sewer Rat beside her.
+
+“For your mana,” he said and vanished again.
+
+Oh, perfect. She deconstructed it, replenishing some of her spent mana with the heady rush from her skill. “You guys go hunt too,” she told her Kobolds. “Bring me back the corpses of anything you kill.”
+
+She created a whole line of mushrooms alongside the sewer channel and then paused to deconstruct a second corpse that had been dropped off while she was busy. She was about to deconstruct the Blackened Deathcaps and Forest Amanitas as usual, when she caught herself.
+
+That looks odd. Unusually intense mana surrounded the mushrooms she had just planted, particularly around the Blackened Deathcaps, forming little black vortices that extended out into the immediate surroundings. The mushrooms seemed to be drawing in a large amount of mana and expelling it as purified mana. Of course, it was death affinity mana, showing up with that confusingly bright black color she was growing accustomed to from her Arcane Insight.
+
+She leaned in a little closer, trying to figure out what was going on. As she studied the mana flow, she realized that the mushrooms were voraciously sucking mana from the soiled water in the sewer channel. And sure enough, the flow of brown sludge downstream seemed just a little clearer after it passed her mushroom patch.
+
+Fascinated, she created several more patches of mushrooms, not caring particularly which varieties she got. As the mana began to flow, they too began glowing, drawing in mana from the soiled sewer water and expelling it in whatever affinity they had. Suddenly, it became clear to her.
+
+They’re feeding on the dead organic matter in the water.
+
+It made a lot of sense – ordinary mushrooms fed on death and decaying matter. The only difference was that these mushrooms were attached to her domain and transforming it into mana which was being expelled as a byproduct. If I plant enough of them, can I clean the water? She found the idea of eliminating the sewer smell remarkably appealing and decided right there and then that the unwanted mushrooms could stay in this part of her domain.
+
+Calen guided her through the maze of sewer tunnels as more and more side passages joined, filling the sewage channel till it was wide enough that Ali wouldn’t attempt to jump across. Finally, she reached the end – a broken metal grate with cracked and shattered brick all around.
+
+“This is it,” Calen said. “We’re right below the south wall of town, and right above your lake. The Goblins have been scaling the cliffs to reach this outlet and sneaking in through there.” He pointed to where the protective metal grate had rusted through, just wide enough for her – or a small Goblin – to wriggle by.
+
+Ali approached cautiously, pressed up against the wall for safety. She could see why Calen had said blocking it wouldn’t work – it looked like any extra weight might send the entire thing crashing down to the ground far below. She stared down through a hole in the floor, following the foul waterfall as it launched itself out into the outside world, cascading into an old riverbed far below.
+
+Arrayed below them, she had a perfect view of the horde of Goblins that covered the once-verdant fields to the south of town like a plague of locusts.
+
+“What is that water leaking out at the bottom?” Ali asked. Far below there seemed to be a small trickle of water seeping out of the foundations of the cliff face and joining the waterfall of sewage in the old riverbed.
+
+“I think that’s your lake leaking out through the rocks.”
+
+Ali reoriented her picture in her mind, placing her cavern below her feet in the way Calen described before she grasped it. It was deceptively high up compared to what she had thought, but that made sense to her because the cavern below was so vast.
+
+Ali crept back to the relative safety of the tunnel. Time to get started.
+
+She wielded her mana once again, via Runic Script, etching the ground with her magic. A minute later, her runic circle flared to life, filling the entire side of the tunnel from the crumbling wall to the edge of the sewage channel. Then she opened her Grimoire and began summoning. Surprisingly quickly, a murky green-brown blob materialized before her, wobbling for a moment before slithering away to submerge itself in the foul stream.
+
+Well, that seems appropriate. She continued, summoning several more Toxic Slimes to act as guards for this location. Her plan didn’t have much subtlety to it. The Grasping Roots circle would grapple with the Goblins, holding them in place while the slimes ate or poisoned them. For anything more dangerous – something capable of wiping out her slimes – she should be able to tell as soon as her mana reservation snapped – and she could warn someone.
+
+Simple plans are the best. She just hoped it would work – but at least Calen had thought it was clever.
+
+“I found you a good spot for the next trap,” Calen said, pointing down the tunnel.
+
+A few hours later, she was done, having created ten runic circles and almost thirty slimes.
+
+Runic Script has reached level 9.Your reserved mana has increased by +196.
+
+It’s a good thing they’re individually cheap. And I have more mana from my domain now.

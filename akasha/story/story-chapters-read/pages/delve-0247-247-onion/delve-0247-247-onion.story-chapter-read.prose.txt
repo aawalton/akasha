@@ -144,3 +144,116 @@ Staavo looked down at the puzzle table, then began to swear, the string of exple
 
 “My air is low,” Evonna signed. “I don’t know if I have enough for a core panic.” She looked at Bluewash. “There will be a core panic, yes?”
 
+Bluewash nodded. “Until I use my skill on the core.” She turned to Mereck. “The lair doesn’t have another monster type. We would have seen it.” She hesitated. “Probably.”
+
+“Great,” Mereck signed unhappily.
+
+“I am low on air as well,” Ander signed.
+
+Bluewash frowned. It made sense that the Defenders would have used up their air faster, but they couldn’t just send someone out to get fresh tanks. The moment anyone so much as touched the barrier, everything would reset. No, they should have brought fresh tanks, but Tallheart had only just finished enchanting these ones.
+
+“We’re getting to the core today,” Staavo signed, repeating his words from that morning with great determination.
+
+“I have enough air over here,” Mereck signed, tapping his tank. “Trade?”
+
+“Good idea,” Staavo said, spitting out his regulator and shrugging out of the straps holding the tank to his back. “Smart people trade with dumb people.”
+
+“Oi!” Carten said, though he was already removing his own tank. “Don’ call yerself dumb!”
+
+Checking her own regulator, Bluewash hesitated. She did indeed have enough left, but…
+
+“Here,” Evonna said, holding out her regulator to her after taking a long breath from it. “Blue?”
+
+Blue stared at the regulator like it was a snake. Unlike hers, which had a rubbery mask that shrouded her nose and cheeks, Evonna’s was the standard design—just a bare mouthpiece and a bulky valve thing.
+
+“Seriously?” Evonna asked. “You’re going to let your hangups jeopardize the mission?”
+
+Blushing furiously, Bluewash snatched the regulator out of the other woman’s hand, swapping it for her own before she could think better of it.
+
+“Humans,” Ander said, rumbling with high-pitched amusement as he swapped with Reason.
+
+“Gah! What the hells did you eat for breakfast?” Staavo spluttered, spitting out Carten’s regulator to glare at him. “Oh, right. Onions.”
+
+“Let’s just start,” Bluewash mumbled, mercifully tasting nothing oniony about her own borrowed regulator. Honestly, any sanitary concerns paled beside the horror of being exposed.
+
+“Start, then,” Lyn said with a gesture.
+
+Bluewash started, and the panic of what came next pushed all worries about embarrassment out of her mind. Indeed it was a panic, and in the literal sense, for the core went wild the moment the pillar began to retract, carrying away its final attempted bribe. The screech of the Thirst Shades was ear-splitting as all of them spawned at once—the lair throwing literally everything it had at them to stop her from exposing the core.
+
+Fortunately, the five-by-five puzzle was no different than the four-by-four, just larger. With Staavo’s help, they chewed through it, realizing that the picture was one of these very ruins in their current state, right down to the eight of them standing around the puzzle table with their tanks and Ascension overcoats.
+
+“Hurry up!” Carten shouted, his voice sounding hoarse even with the pitch altered.
+
+Staavo pointed, and Bluewash moved like lightning, swapping six tiles in rapid sequence before sliding the final piece into place. With a flash, the entire board vanished, revealing a stone vault in which the core rested. The purple gem was about the size of an onion, fittingly enough, floating without obvious support. She hesitated not at all to reach in and grab it, and as she did, everything fell silent, the monsters vanishing to dust as she used her skill.
+
+Core Access
+
+Breathless Wasteland - Rank 4Arcane: 92% Chemical: 6% Cold: 2%Charge: 100%Integrity: 100%Sub-Cores: 0/0Age: 347 yearsAccolade: Tier-1 Skill
+
+Monster Templates: 1/1Thirst Shade [2]
+
+Modifiers: 3/3Puzzle [Arcane]Hostile Atmosphere [Chemical]Thirst [Arcane]
+
+Bluewash grinned around her regulator in satisfaction as she read the floating text.
+
+This was the skill that distinguished her from other Coresmiths. It was aberrant, but only in a very minor way, listing more detail than usual. Nobody she’d ever heard of but her could see modifiers. It wasn’t a big advantage, helping her guess what a particular core would be suitable for, but the fact that she was special made for great motivation. The rest of her success she’d earned through hard work, study, and dedication.
+
+Until she’d lost it all, anyway.
+
+“Well?” Staavo signed as the others puffed heavily from their regulators. “Do the thing already!”
+
+“Thinking,” Bluewash signed, hesitating over the accolade listing. A skill accolade wasn’t easy to pass up. With the core at full, the drop would be a good one. That said, Ascension had voted on what to do with the lair. It wasn’t the type to ever spawn a blue, not with the way it summoned and dismissed its monsters, but that didn’t mean it couldn’t be exploited. Nobody had the skills to recharge it now, but Ameliah could get them, and she and Rain would be back soon enough. Besides, she couldn’t say she was upset about the decision. It centered on her, after all.
+
+She slipped her other hand into the vault to gently cup the core between them.
+
+Core Override
+
+Core Command: Calve
+
+Core Stabilization
+
+A thunderous crack resounded, and the very fabric of space shook as the lair’s integrity dropped to fifty percent. Its charge plummeted more slowly, but it didn’t stop, continuing until the lair was completely drained. The two halves of the lair’s fractured core split apart as she spread her hands, both trying to get away from her. Releasing one—the original—to zip back to the center of its earthen vault, she grasped the one she’d captured firmly. “Time to go!” she signed with her free hand, then, without waiting, sprinted from the ruins, cradling the newly-born sub-core against her chest.
+
+Breathless Wasteland Sub-Core - Rank 4
+
+Arcane: 100%
+
+Charge: 50%
+
+Integrity: 50%
+
+Age: 0 years
+
+Smiling as she read its status, Bluewash drew deeply from her regulator, barely even noticing the way it didn’t cover her cheeks. Her smile didn’t last long, though, as now that she’d touched the lair’s core, she could access its details from anywhere inside the barrier, and what she was seeing wasn’t good.
+
+Breathless Wasteland - Rank 4
+
+Arcane: 92% Chemical: 6% Cold: 2%
+
+Charge: 0%
+
+Integrity: 36%
+
+Sub-Cores: 1/0
+
+Age: 347 years
+
+The integrity was dropping faster than she’d expected. A lair of this rank was not supposed to have a sub-core, and if she didn’t get it out of here in time, the main core would shatter. The sub-core would have shattered instead already had she not been stabilizing it. Fortunately, she hadn’t neglected her physical stats entirely when she’d decided to become a crafter, and she was moving so fast by the time the barrier appeared that she scarcely had time to use Core Extraction.
+
+And then she was through.
+
+And then she tripped.
+
+Wailing in tinny distress, her regulator going flying, she curled into a protective ball around her prize. The ground showed her little mercy as she plowed into it, and she cursed Corrin for having compacted the dirt over the days they’d been working here. “Ooph!” she cried, somersaulting into the rear wall hard enough to tear the air tank from its straps.
+
+“What has happened?” Tallheart rumbled urgently, and Bluewash felt a strong hand grip her shoulder, steadying her on the rebound. “Are you injured?”
+
+“F-fine,” Bluewash gasped, sucking in a lungful of sweet-tasting air but refusing to unclench from around the sub-core, as doing so would also reveal her face.
+
+“The others?” Samson asked, out of sight, but the Swordsman’s question was answered by Lyn.
+
+“What the hells, Blue?!” the Defender demanded in her chipmunk voice, scrambling to stop before she crashed into the wall beside her.
+
+Bluewash didn’t answer other than to release the laughter bubbling up from inside her. Rolling onto her back and burying her mouth in her elbow, she thrust up her other hand in victory, holding the sub-core aloft.
+
+Now, she just needed to figure out what she was going to actually make.

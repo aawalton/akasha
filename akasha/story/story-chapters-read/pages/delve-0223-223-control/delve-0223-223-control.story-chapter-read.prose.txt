@@ -162,3 +162,118 @@ Tallheart rumbled, shaking his head. Corrin had a knack for Stonemolding molten 
 
 Lime-gas—‘chlorine’ to Chemists, ‘fund-17’ to Alchemists—was commonly sold in brittle flasks with exactly that in mind. Rain had been most unhappy when he had found out. Regardless of his admittedly justified concerns, lime-gas bombs were popular amongst low-level adventurers who could not afford anything stronger. Myth and Reason had refrained from selling them in Fel Sadanis—partly because they shared Rain’s concerns, but mostly because Chemical attacks did not work well on Slimes. They still knew how to produce the gas, however.
 
+They had split it from salt, leaving behind a metal Tallheart hadn’t encountered outside of Rain’s periodic table. Sodium, it was called, or fund-11. There was no name for it beyond its Chemical and Alchemical designations, for it had no common use outside those professions. Not until now. The filter Romer was still working on was made from it—from Heat Sodium, technically—prevented from tarnishing by a matrix of Chemical Resistance and Durability runes.
+
+A new frontier.
+
+Tallheart smiled. With Reason’s assistance, it hadn’t taken long to determine the metal’s intrinsic rune, helped more by the purity of the Chemist’s sample than his cryptic coaching. Being a component of salt, the metal’s rune contained features common to that of the combined material. That allowed similarity targeting. Making a filter from salt directly would have removed the need for such advanced runework, but he was not a Stoneworker. Regardless, the extra effort would only be needed once if this went well. With the rune and a pure sample, he could make a filter for titanium from titanium.
+
+Unfortunately, getting that sample was proving difficult.
+
+The Adamants had done something to Temerity’s hull. Something so subtle that he had only realized it when he had gone to remove the other metals from the alloy. The runes were tangled, for lack of a better word. They still registered to Order of Metal, but they refused to be separated from each other. It was an alloy not just in physical composition, but metaphysical composition as well. There was no skill any of them could point to that could have done such a thing, and yet, the effect was frustratingly persistent, similar to binding in a certain light. It had forced them to start from the beginning.
+
+Tallheart rumbled again, glancing at a second glass tank installed not far from the chlorine. This one was filled with a faintly yellow, almost clear liquid.
+
+Perhaps not entirely from the beginning.
+
+Despite the tangling in Temerity’s hull, it had taught him enough about titanium’s rune to satisfy Identify Ore. The skill had revealed the metal to be abundant, though not so abundant as aluminum. Following his skill’s guidance, he’d selected and pulverized the stones with the highest concentrations. The resulting powder was gone now, the titanium extracted by the chlorine and bound to it.
+
+Supposedly.
+
+It made little sense for a gas and a solid to make a liquid, but he was not a Chemist. It made little sense for salt to have metal inside it, either.
+
+“How’s this?” Romer shouted, tapping Tallheart unexpectedly on the elbow.
+
+Blinking, Tallheart looked down to see the shorter human standing beside him and holding out the filter. He took it gently so as to not damage it, then inspected the runes. The error had been corrected, and with a solution even neater than the one he’d had in mind. After a few more moments of inspection, checking the piece as a whole, he nodded. “Excellent work. This should function.”
+
+“Thanks,” Romer said proudly over the wind. He turned, calling out and waving his arms to attract the others’ attention. “Hey! Hey, we’re ready!”
+
+Reason waved back, then began leading the others around the smelter. Romer turned again to Tallheart, then took a step to the side and scooped Nibs up from the table. “I’ll go get Corrin and whoever’s on boiler duty.”
+
+Tallheart rumbled, nodding his assent as he moved to stand beside the glass enclosure to wait. After a moment, Reason and the others joined him, Meloni busy retying her hair with a bandanna against the wind.
+
+“What took so long?” Staavo asked, peering at the filter Tallheart held. “I thought I was going to die and rot away before you two finished.”
+
+“Staavo!” Meloni scolded. “Be nice. Also, you’re not that old.”
+
+Tallheart grunted. “He is, though.” He turned to stare at Staavo. “Like a dry raisin.” He paused, then tilted his head. “Hmm, no. Raisins are sweet.”
+
+Things continued in this way for a few minutes, banter turning to discussions of the filter and the upcoming process before Romer finally returned, Corrin and Kettel in tow. After some brief instruction, the red-haired youth moved to the far side of the smelter and began blasting it with Firebolts.
+
+“Where’s Mereck?” Myth called, looking around.
+
+“He’s coming,” Romer called back, pointing. “I asked Ellis to get him.”
+
+“How hot d’ya want this thing?” Kettel asked, pausing his assault.
+
+“Much hotter than that,” Tallheart said, pressing a hand to the side of the smelter to check the sodium within. As expected, it was nowhere near melting.
+
+There has to be a simpler way. If only Rain knew how his people had done this.
+
+“Jus’ say when, then!” Kettel replied, resuming his barrage.
+
+A few minutes passed before Mereck appeared, panting. “Sorry,” the former innkeeper wheezed. “I was on Velika duty, and she just found out what waffles are, so— Sorry. I’m here now.”
+
+“About time, safety officer!” Kettel shouted. “I was about ta’ die of boredom!” He punctuated his statement with another blast of fire. “Hot enough yet? I ain’t got infinite mana like some people!”
+
+Tallheart rumbled, shaking his head. “No. More heat.” He turned to Corrin. “Open it.”
+
+“Oh, that’s us!” Meloni said, hurrying with Reason to the edge of the glass enclosure while Kettel downed a mana potion. She nodded to Reason, who nodded back, then both raised their hands toward the structure. “Okay.”
+
+“Here we go,” the Geomancer said, touching the glass seal molded over the frame to hold the nearest panel in place. Meloni and Reason took on looks of concentration as he worked, glass flowing away from his fingers. The two Chemists were using Fume Control, as the argon filling the vestibule could not be allowed to mix with the outside air. It was all of the inert gas that they had, besides what was in the latest generation of light bulbs. Fuse—the spell Myth used to produce it—required a significant amount of mana. It also made Rain spit blood, which was an interesting side effect for a skill to have. It was a pity that it did not work well on metals. Otherwise, all of this trouble may not have been necessary.
+
+Corrin grunted. “Almost done. Someone grab this panel.”
+
+As one, Mereck and Staavo stepped forward, taking the glass pane as it was freed, then carefully walking it to the side. The look of concentration on Meloni’s and Reason’s faces intensified.
+
+“Hurry!” Meloni shouted, the strain clear in her voice.
+
+Tallheart took a deep breath, then, careful of his antlers, slipped inside, ignoring the panel being hauled back into place behind him. He again touched the exposed side of the smelter, topping off its charge to maintain the heat-gathering enchantments, then probing the contents with his skills. The sodium inside was only just beginning to melt. More importantly, the sealed vessel had maintained itself well enough that only a few contaminants had slipped inside.
+
+Good.
+
+He looked up, catching Kettel’s attention, then signing to him in hand code. “More.”
+
+Myth, meanwhile, had moved to stand beside the lever that would flood the chamber with the titanium-containing liquid.
+
+“When you’re ready,” the Alchemist signed.
+
+Tallheart motioned for him to wait, then after one last inspection of the filter, slipped it into the slot designed to hold it. Next, he made sure a ceramic crucible was properly positioned beneath the spout before looking up again and nodding. There was no sense in letting the molten salt get everywhere.
+
+Myth nodded back, turning the valve, and a tremor quickly grew, the side of the smelter vibrating in the unbreathable air. Tallheart straightened as much as he could, unconcerned. He had not designed it to fail. Once more, he placed his hand against the metal body, his brow furrowing as he realized the sodium was beginning to recrystallize.
+
+We should have warmed the liquid first.
+
+Shaking his head, he looked up. “More heat.”
+
+Kettel nodded, and crimson light flashed, but he stopped after only a few bolts.
+
+“More!” Tallheart signed sharply. He was irritated, he realized. He did not want this attempt to fail.
+
+Kettel glanced at Mereck, then shrugged and reached to his belt, extracting a second blue potion, which he downed before continuing his assault. He said something, his lips moving, and Romer nodded, darting off.
+
+Unbreathing, Tallheart waited, straining his senses to the utmost. The sodium was molten again, but he couldn’t sense any titanium yet, except...no. It was there, but faint. He could sense it, growing slowly, ever so slowly stronger as the heat continued to build. Before long, Romer returned, bringing Cessa with him, who walked over to lay a hand on Kettel’s shoulder. Panting, he gladly made way for the higher-leveled Fire Mage.
+
+‘How hot?’ she asked, Tallheart reading the words from her lips.
+
+Doubting she knew hand code, he merely returned his gaze to the smelter, then jabbed a finger straight up. In the corner of his eye, he noted that the others had begun moving away. That was perhaps wise of them.
+
+Cessa’s first Firebolt struck, twice as bright as those Kettel had been producing. Tallheart knew for a fact that she was capable of more, but she could not exactly use Fireball without shattering the glass, enchanted or not. As she fell into a rhythm, he closed his eyes again, ignoring the beginning complaints of his lungs. Still, he waited, but before lack of air became an issue, he felt the filter beginning to fail from the heat. He could wait no longer.
+
+This will have to do.
+
+He pulled the lever.
+
+Rather than the river of molten salt he’d expected, he was met by an explosion. The blinding torrent of vapor was enough to make his ears pop, a sharp snap telling him the toughened alchemical glass had broken somewhere, though it had not shattered. Unable to see and with his eyes stinging from vapors hot enough to overwhelm his resistances, Tallheart probed with his skills instead. Astonishingly, as the vapor continued pouring through the filter, he realized that the titanium he had sensed was not molten. The salt had boiled before the metal had even melted.
+
+It is like the tungsten all over again. We need not have bothered with the filter.
+
+Releasing the lever, Tallheart felt for the spout with his hands, grasping either side firmly and peeling the metal away like it was the rind of a rockmelon. He reached inside, finding the titanium bloom with the tip of a finger.
+
+Knowledge exploded in his mind. He could see it clearly. The rune.
+
+Order of Metal
+
+The spongy metal responded, blisteringly hot flecks tearing themselves free from impurities as the unreacted sodium was driven away. He rumbled in satisfaction, the sound slightly deeper than usual to his ears as his long-held breath mingled with the argon and crystallizing salt.
+
+Now, I can begin.

@@ -244,3 +244,52 @@ Looking at this, if the usable skill tier scales with Focus, then the usable ski
 
 With one hand, Rain reached up and flicked himself in the forehead.
 
+ANYWAY. It says active skills, which rules out passives like Intrinsic Focus, but what about metamagic? That counts as ‘active,’ right? And what about something like Aura Synergy? If Tarny was in range, would his aura ranks count toward my total, assuming no overlap? I’m gonna go with...probably not? What about Stacked Shot, though? Could Ameliah use it with Shots she doesn’t have?
+
+He sighed.
+
+Questions, questions. The tier scaling is testable, at least.
+
+Fiddling with his rings, he found that the max tier of a borrowed skill dropped to zero below one hundred Focus. He had to sacrifice a little health to push the stat high enough in the other direction, but at one thousand points, the tier limit jumped to two.
+
+Well, shit. By that pattern, it’s 10,000 Focus for tier three. He clicked his tongue. So much for Flight. I suppose I’d have Empire of Will, though, so maybe it’s not that unreasonable. Let me run the numbers.
+
+Empire of Will (0/15) (+)
+
+Boost Focus by 58 for all entities
+
+Range: 5.8 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Essence Well
+
+Assuming the Focus boost scales with level, that’s 870 Focus at max rank, times two for Channel Mastery, times two and a half for Amplify Aura, times who-the-hell-knows for Aura Compression and Aura Synergy...
+
+No, the real limit is going to be tolerance. It’s one hundred times your level for silver, and unless it changes again at gold...
+
+He sat up sharply.
+
+I can bloody well ask! Even if Halgrave won’t tell me because of whatever bullshit reason, Velika basically promised to give me that kind of info! I just need to catch her when she’s conscious for more than thirty seconds.
+
+Rain muttered a curse. As his ability to see souls had grown, so had his awareness of just how bad Velika’s condition was. Compared to her, he was the model of spiritual health.
+
+Sana says she’s improving, but I haven’t noticed a difference. It’s like somebody punched their fist into a cake and clawed out a huge handful to nosh on. Still, if she’s pulling herself back together, does that mean she knows soul-fu? She must, having been raised by a Citizen. Hells, she can break the damage limit and muscle her way through lair boundaries for crying out loud. Next time she wakes up, I’ll ask her if—
+
+A chime from Rain’s interface brought him up short, and he blinked, then looked at the time. A rush of excitement ran through him, one that had nothing to do with skills, souls, or anything else of that nature.
+
+Finally!
+
+Swiping away all his open skill windows, he opened his macro configuration instead and switched it from a passive posture to full combat mode. He then further slanted his Wards toward Force before reaching up and raising his visor. The sudden tickle of wind against his cheeks almost made him slam it back closed, but he grit his teeth and pulled his trembling hands away.
+
+The Wards are enough. The Wards are enough. The Wards are enough.
+
+“Hey,” Ameliah said, the golden glow of her soul washing over him as she approached right on time.
+
+“Hey,” he said, scrambling up off the crate and over to meet her. “Ready?”
+
+“I’ve been ready,” Ameliah said, brushing a strand of hair out of her face, then stepping up to kiss him. As she pulled away, she slipped her arm through his. “So, where are we going first?”
+
+Rain grinned, guiding her toward the gangway. “Have you ever had ice cream?”

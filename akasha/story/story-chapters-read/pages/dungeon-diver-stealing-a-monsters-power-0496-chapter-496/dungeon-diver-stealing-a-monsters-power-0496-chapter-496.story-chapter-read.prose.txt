@@ -238,3 +238,142 @@ Telekinesis
 
 Appraisal [Special Grade]
 
+Conceal [Special Grade]
+
+Berserker [Mythic Grade]
+
+Dungeon Walker [Legendary Grade]
+
+Intimidation [Mythic Grade]
+
+Dagger Mastery [Mythic Grade]
+
+Stealth [Mythic Grade]
+
+Bloodlust [Mythic Grade]
+
+Equivalent Exchange
+
+Combat Magic [Extreme Wind Summoning]
+
+All-Seeing Eye
+
+Extreme Strength [Mythic Grade]
+
+Dual Wielding [Mythic Grade]
+
+Telepathy [Legendary Grade]
+
+Final Breath [Mythic Grade]
+
+Combat Magic [Extreme Earth Summoning]
+
+Combat Magic [Extreme Mana Manipulation]
+
+Life Steal [Mythic Grade]
+
+Hibernation [Special Grade]
+
+Combat Magic [Advanced Demonic Energy Manipulation]
+
+Combat Magic [Extreme Ice Summoning]
+
+Body Double [Legendary Grade]
+
+Lie Detector [Legendary Grade]
+
+Hush [Legendary Grade]
+
+Craftsmanship [Mythic Grade]
+
+Extreme Speed [Mythic Grade]
+
+Combat Magic [Extreme Water Summoning]
+
+Screech [Mythic Grade]
+
+Phantom Step [Mythic Grade]
+
+Flare [Mythic Grade]
+
+Confusion [Mythic Grade]
+
+Blast [Mythic Grade]
+
+Bind [Legendary Grade]
+
+Bloodweaver [Legendary Grade]
+
+Poison Mist [Legendary Grade]
+
+Iron Fist [Mythic Grade]
+
+Extreme Stamina [Mythic Grade]
+
+Combat Magic [Extreme Lightning Summoning]
+
+Combat Magic [Superior Dark Summoning]
+
+____________________
+
+Items Equipped: [15 Slots Available Post 2nd Rank Up][Current Items Equipped]
+
+Platinum Ring of Visual Manipulation [+151% Mental Strength][+111% Speed][+100% Agility][+99% Strength][+74% Defense][Illusion Attribute]
+
+The Behemoth's Platinum Amulet [+141% Defense][+125% Strength][+125% Mental Strength]
+
+Enchanted Boots of Extreme Speed [+152% Speed]
+
+Enchanted Ice Serpent's Pendant [+110% Agility] [+75% Magic Resistance] [+95% Ice Magic Resistance]
+
+Platinum Ring of The Blue Ogre King [+131% Mental Strength] [+125% Speed][+125% Agility][+110% Defense]
+
+The Flame Emperor's Sword [Advanced Fire Aspect][+421% Strength][+350% Mental Strength][+234% Defense][+255% Speed][+261% Agility]
+
+Berserker King's Armor Set [Blood Bonded] [+312% Defense]
+
+Cloak of Total Darkness[+680% Mental Strength][+595% Agility][+498% Speed][+200% Perception][Blood Bonded][Hidden Passive Ability][Concealment Attribute][Dark Attribute]
+
+Enchanted Lightweight Gauntlets[+165% Defense][+120% Strength][Hardening Attribute]
+
+Infinite Essence of Regeneration[Blood Bonded][+439% Strength][+399% Defense][+375% Mental Strength][+346% Speed][+344% Agility][Hidden Ability]
+
+The Dark Emperor's Blade [+729% Strength][+666% Mental Strength][+512% Speed][+478% Agility][+401% Defense][Blood Bonded][Dark Attribute][Hidden Ability]
+
+Greater Demon's Core [+50% All Stats]
+
+Arch Demon's Core [+100% All Stats]
+
+Ring of the Divine [Hidden Ability]
+
+Final Slot[15th]:[Interchangeable]
+
+[Storm King's Dagger Set][Blood Bonded][+312% Speed][+299% Mental Strength][+276% Agility][+250% Strength][+250% Defense][Lightning Attribute][Wind Attribute]
+
+Midnight Dagger
+
+____________________
+
+Skill Buffs:
+
+[Berserker] +250% Strength + Mental Strength
+
+[BloodLust] +250% Speed + Agility + Mental Strength , +100% Perception
+
+[Extreme Strength] +250% Strength
+
+[Extreme Speed] +250% Speed
+
+[Final Breath] ~ +400% All Stats (Exact % will vary, conditions & circumstances apply)
+
+____________________
+
+Permanent Buffs:
+
+Rising Emperor's Domain[Hidden Ability][Passive]
+
+Rising Emperor's Greater Form[Hidden Ability][Active]
+
+Red Hydra's Rage[Soul Bond Attribute][Active]
+
+____________________
