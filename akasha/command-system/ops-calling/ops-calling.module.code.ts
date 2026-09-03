@@ -476,6 +476,26 @@ async function ran(
   )
 }
 
+export type Leaving = {
+  readonly code: number
+  readonly said: string | null
+  readonly atOnce: boolean
+}
+
+/**
+ * What ends the process, worked out apart from ending it.
+ *
+ * A CHILD'S CODE IS SET RATHER THAN EXITED ON, so the process ends of its own accord and whatever
+ * is still on its way out of a stream goes before it does. Only a refusal ends the process at
+ * once, and what it says is awaited onto the error stream first, because `process.exit` gives up
+ * whatever has not left yet and a large answer through a pipe ends at a 64 KiB boundary.
+ */
+export function opsLeaving(ending: Ending): Leaving {
+  if (ending.ended === "threw") return { code: ending.code, said: ending.said, atOnce: true }
+  if (ending.ended === "child") return { code: ending.code, said: null, atOnce: false }
+  return { code: EXIT.OK, said: null, atOnce: false }
+}
+
 export async function opsAnswered(argv: readonly string[], world: OpsWorld): Promise<Ending> {
   const match = opsMatchIn(world.documents, argv)
   try {
@@ -577,17 +597,12 @@ if (import.meta.main) {
 
     ignoreClosedConsumerWrites([process.stdout, process.stderr])
 
-    const ending = await opsAnswered(process.argv.slice(2), opsLiveWorld(root, documents))
-
-    // A CHILD'S CODE IS SET RATHER THAN EXITED ON, so the process ends of its own accord and
-    // whatever is still on its way out of a stream goes before it does. Only a refusal exits at
-    // once, and what it says is awaited onto the error stream first, because `process.exit` gives
-    // up whatever has not left yet and a large answer through a pipe ends at a 64 KiB boundary.
-    if (ending.ended === "child" && ending.code !== EXIT.OK) process.exitCode = ending.code
-    if (ending.ended === "threw") {
-      await Bun.write(Bun.stderr, `${ending.said}\n`)
-      process.exit(ending.code)
-    }
+    const leaving = opsLeaving(
+      await opsAnswered(process.argv.slice(2), opsLiveWorld(root, documents))
+    )
+    if (leaving.said !== null) await Bun.write(Bun.stderr, `${leaving.said}\n`)
+    if (leaving.atOnce) process.exit(leaving.code)
+    if (leaving.code !== EXIT.OK) process.exitCode = leaving.code
   } catch (thrown) {
     await Bun.write(Bun.stderr, `${normalizeThrowable(thrown).message}\n`)
     process.exit(documents === null ? UNREACHABLE_CODE_REPOSITORY : EXIT.OPERATIONAL)

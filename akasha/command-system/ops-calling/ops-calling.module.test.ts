@@ -15,6 +15,7 @@ import {
   opsDocumentsIn,
   opsEntryAt,
   opsKnownPrefix,
+  opsLeaving,
   opsListing,
   opsMatchIn,
   opsSiblingHint,
@@ -299,4 +300,24 @@ test("every ops-command page names a file that is there", () => {
   expect(documents.length).toBeGreaterThan(0)
   const missing = documents.filter((one) => opsEntryAt(root, one) === null)
   expect(missing.map((one) => one.slug)).toEqual([])
+})
+
+test("a refusal ends the process at once and says why", () => {
+  expect(opsLeaving({ ended: "threw", said: "ops: unknown command", code: EXIT.INPUT })).toEqual({
+    code: EXIT.INPUT,
+    said: "ops: unknown command",
+    atOnce: true,
+  })
+})
+
+test("a child's code is set rather than exited on, so the streams empty first", () => {
+  expect(opsLeaving({ ended: "child", code: 7 })).toEqual({
+    code: 7,
+    said: null,
+    atOnce: false,
+  })
+})
+
+test("a call that did what it was asked leaves nothing behind it", () => {
+  expect(opsLeaving({ ended: "done" })).toEqual({ code: EXIT.OK, said: null, atOnce: false })
 })
