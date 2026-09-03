@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const handCompilationPipeline = {
   id: "01a06594-c684-700c-8743-ce74889caaf3",
