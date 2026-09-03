@@ -12,7 +12,6 @@ export interface MobileApp {
   readonly widgetBundleId: string | null
   readonly developmentTeam: string
   readonly nativeShellRepoPath: string | null
-  readonly iconRepoPath: string | null
   readonly simBuildScript: string | null
   readonly wwwStageScript: string | null
   readonly spaSourceRepoPath: string | null
@@ -106,7 +105,6 @@ function required(value: Value, key: string, path: string): string {
 
 function mobileAppOf(value: Value, path: string): MobileApp {
   const webEnvPath = stated(value, "webEnvPath")
-  const iconPath = stated(value, "iconPath")
   return {
     slug: required(value, "slug", path),
     pagePath: path,
@@ -115,7 +113,6 @@ function mobileAppOf(value: Value, path: string): MobileApp {
     widgetBundleId: stated(value, "widgetBundleId"),
     developmentTeam: required(value, "developmentTeam", path),
     nativeShellRepoPath: stated(value, "nativeShellRepoPath"),
-    iconRepoPath: iconPath === null ? null : inAkasha(iconPath),
     simBuildScript: scriptAt(value, "buildScript", path),
     wwwStageScript: scriptAt(value, "stageScript", path),
     spaSourceRepoPath: stated(value, "spaSourcePath"),

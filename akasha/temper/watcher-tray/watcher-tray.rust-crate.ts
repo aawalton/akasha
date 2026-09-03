@@ -7,7 +7,7 @@ export const watcherTray = {
   definition: "the Windows tray program keeping Temper's SavedVariables worker running",
   cargoManifest: "toml",
   cargoBuildScript: "rs",
-  iconPath: "temper-watcher/tray/assets/icon.ico",
+  icon: "json",
   moduleSlugs: [
     "rust-module/watcher-tray-installer",
     "rust-module/watcher-tray-logger",

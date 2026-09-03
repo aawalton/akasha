@@ -18,7 +18,6 @@ const APP: MobileApp = {
   widgetBundleId: "com.example.fixture.widgets",
   developmentTeam: "TEAM123456",
   nativeShellRepoPath: "packages/example/native-shell",
-  iconRepoPath: null,
   simBuildScript: null,
   wwwStageScript: null,
   spaSourceRepoPath: null,

@@ -16,7 +16,6 @@ const APP: MobileApp = {
   widgetBundleId: null,
   developmentTeam: "TEAM123456",
   nativeShellRepoPath: "akasha:native-shell/example",
-  iconRepoPath: null,
   simBuildScript: null,
   wwwStageScript: null,
   spaSourceRepoPath: null,

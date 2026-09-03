@@ -149,9 +149,7 @@ export function planFor(root: string, appSlug: string): Planned {
   const programs = programsOf(root, app, appSlug)
   if ("why" in programs) return { refused: [programs.why] }
   const shellPath = dirname(appPath)
-  const icon = textAt(app, "iconPath")
   const deliver = [shellPath, ...SHARED_PATHS]
-  if (icon !== null) deliver.push(dirname(icon))
   return {
     appSlug,
     shellPath,

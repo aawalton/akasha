@@ -5,6 +5,7 @@
   "exports": {
     "./app-building": "./ios-apps/app-building/app-building.module.code.ts",
     "./body-text": "./body-text/body-text.module.code.ts",
+    "./carried-file": "./carried-file/carried-file.module.code.ts",
     "./code-format": "./code-format/code-format.module.code.ts",
     "./container-recipe": "./container-recipes/container-recipe.page-type.ts",
     "./code-lint": "./code-lint/code-lint.module.code.ts",

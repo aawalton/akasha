@@ -1,5 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
+import type { AppIcon } from "./properties/app-icon.file-property.ts"
 import type { AppProfileName } from "./properties/app-profile-name.text-property.ts"
 import type { AscCapabilities } from "./properties/asc-capabilities.text-property.ts"
 import type { BuildScript } from "./properties/build-script.relation-property.ts"
@@ -10,7 +11,6 @@ import type { DevelopmentTeam } from "./properties/development-team.text-propert
 import type { DisplayName } from "./properties/display-name.text-property.ts"
 import type { GitIgnore } from "./properties/git-ignore.named-file-property.ts"
 import type { IconDrawing } from "./properties/icon-drawing.file-property.ts"
-import type { IconPath } from "./properties/icon-path.text-property.ts"
 import type { MacBuildLockDir } from "./properties/mac-build-lock-dir.text-property.ts"
 import type { MacBuildNumberFile } from "./properties/mac-build-number-file.text-property.ts"
 import type { MacWwwStagingRel } from "./properties/mac-www-staging-rel.text-property.ts"
@@ -33,8 +33,8 @@ export type IosApp = WorkspacePackage & {
   developmentTeam: DevelopmentTeam
   displayName: DisplayName
   gitIgnore: GitIgnore
+  icon?: AppIcon
   iconDrawing?: IconDrawing
-  iconPath?: IconPath
   macBuildLockDir?: MacBuildLockDir
   macBuildNumberFile?: MacBuildNumberFile
   macWwwStagingRel?: MacWwwStagingRel
@@ -55,6 +55,7 @@ export const iosApp = {
   definition: "the app on a phone and the shell it runs in",
   pluralSlug: "ios-apps",
   partSlugs: [
+    "file-property/app-icon",
     "file-property/capacitor-config",
     "file-property/icon-drawing",
     "file-property/web-entry",
@@ -77,7 +78,6 @@ export const iosApp = {
     "text-property/default-device-udid",
     "text-property/development-team",
     "text-property/display-name",
-    "text-property/icon-path",
     "text-property/mac-build-lock-dir",
     "text-property/mac-build-number-file",
     "text-property/mac-www-staging-rel",
@@ -99,8 +99,8 @@ export const iosApp = {
     { pagePropertySlug: "development-team", required: true, many: false },
     { pagePropertySlug: "display-name", required: true, many: false },
     { pagePropertySlug: "git-ignore", required: true, many: false },
+    { pagePropertySlug: "app-icon", required: false, many: false },
     { pagePropertySlug: "icon-drawing", required: false, many: false },
-    { pagePropertySlug: "icon-path", required: false, many: false },
     { pagePropertySlug: "mac-build-lock-dir", required: false, many: false },
     { pagePropertySlug: "mac-build-number-file", required: false, many: false },
     { pagePropertySlug: "mac-www-staging-rel", required: false, many: false },

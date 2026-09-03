@@ -7,6 +7,8 @@ import {
   simRunSourceRepoPaths,
 } from "./sim-run-tree.module.code.ts"
 
+const SEAM_SHARED_COUNT = 3
+
 const APP: MobileApp = {
   slug: "example",
   pagePath: "akasha:pages/ios-app/example-ios.ios-app.md",
@@ -15,7 +17,6 @@ const APP: MobileApp = {
   widgetBundleId: null,
   developmentTeam: "TEAM123456",
   nativeShellRepoPath: "akasha:native-shell/example",
-  iconRepoPath: null,
   simBuildScript: null,
   wwwStageScript: null,
   spaSourceRepoPath: null,
@@ -28,8 +29,6 @@ const APP: MobileApp = {
   macWwwStagingRel: null,
   defaultDeviceUdid: null,
 }
-
-const WITH_ICON: MobileApp = { ...APP, iconRepoPath: "akasha:art/example/icon-1024.png" }
 
 const SHELLLESS: MobileApp = { ...APP, nativeShellRepoPath: null }
 
@@ -67,13 +66,8 @@ describe("simRunSourceRepoPaths", () => {
     for (const path of paths) expect(path.startsWith("..")).toBe(false)
   })
 
-  test("an app naming no icon delivers no icon directory", () => {
-    expect(simRunSourceRepoPaths(APP)).toEqual(paths)
-    expect(paths.some((path) => path.includes("art/"))).toBe(false)
-  })
-
-  test("an app naming an icon delivers the directory holding it rather than the file", () => {
-    expect(simRunSourceRepoPaths(WITH_ICON)).toContain("art/example")
+  test("an app delivers its own shell and the shared seam trees and nothing else", () => {
+    expect(paths.length).toBe(1 + SEAM_SHARED_COUNT)
   })
 })
 

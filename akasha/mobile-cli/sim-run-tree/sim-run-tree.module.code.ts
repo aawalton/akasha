@@ -1,12 +1,11 @@
 import { existsSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import { InputError } from "@akasha/errors-core/exit-code"
 import { said } from "@akasha/utils-run/running"
 import { MACBOOK } from "../macbook-target/macbook-target.module.code.ts"
 import {
   type MobileApp,
   shellRepoPath as shellRepoPathOf,
-  splitRepoPath,
 } from "../mobile-app/mobile-app.module.code.ts"
 import { rsyncToHost, runSshCapture } from "../mobile-ssh/mobile-ssh.module.code.ts"
 
@@ -31,13 +30,8 @@ export function shellRepoPath(app: MobileApp): string {
   return shellRepoPathOf(app).path
 }
 
-function iconDirRepoPath(app: MobileApp): readonly string[] {
-  if (app.iconRepoPath === null) return []
-  return [dirname(splitRepoPath(app.iconRepoPath).path)]
-}
-
 export function simRunSourceRepoPaths(app: MobileApp): readonly string[] {
-  return [shellRepoPath(app), ...SEAM_SHARED_REPO_PATHS, ...iconDirRepoPath(app)]
+  return [shellRepoPath(app), ...SEAM_SHARED_REPO_PATHS]
 }
 
 export function simRunNativeShellDir(app: MobileApp): string {
