@@ -4,9 +4,21 @@ import { secretAt } from "@akasha/pages-system/page-file-name"
 import { type Secrets, secretsIn } from "@akasha/pages-system/page-secret"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
 import { parseAllDocuments, stringify } from "yaml"
-import type { Plan } from "../deploy/deploy.ts"
-import { type Ran, runKubectlOn } from "../kubectl/kubectl.ts"
-import { DeployRefused } from "../refusal/refusal.ts"
+import {
+  type Plan,
+  type Ran,
+  runKubectlOn,
+} from "../../cluster-services/workload-deploying/workload-deploying.module.code.ts"
+
+// The refusal deploy-system raised. It came from `deploy-system/refusal/refusal.ts`, which went
+// with the rest of that folder, and nothing inside akasha replaced it, so it stands here beside
+// its only thrower.
+export class DeployRefused extends Error {
+  constructor(message: string) {
+    super(message)
+    this.name = "DeployRefused"
+  }
+}
 
 const SECRET_GLOB = "*.secret.ts"
 
@@ -178,11 +190,11 @@ export function placeSecrets(akasha: string, plan: Plan): Placing {
     }
     ran.push(
       runKubectlOn(
-        ["apply", "--server-side", "--force-conflicts", "-n", plan.service.namespace, "-f", "-"],
+        ["apply", "--server-side", "--force-conflicts", "-n", plan.workload.namespace, "-f", "-"],
         stringify({
           apiVersion: "v1",
           kind: "Secret",
-          metadata: { name, namespace: plan.service.namespace },
+          metadata: { name, namespace: plan.workload.namespace },
           type: "Opaque",
           stringData: values,
         })

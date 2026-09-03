@@ -1,11 +1,8 @@
-import type { ClusterService } from "../service/service.ts"
-import { runKubectl } from "../kubectl/kubectl.ts"
+import type { ClusterService } from "../cluster-service.page-type.ts"
+import type { Workload } from "../web-app-reading/web-app-reading.module.code.ts"
+import { runKubectl } from "../workload-deploying/workload-deploying.module.code.ts"
 
-export interface Running {
-  readonly kind: string
-  readonly namespace: string
-  readonly name: string
-}
+export type Running = Workload
 
 export type Reached =
   | { readonly reached: true; readonly workloads: readonly Running[] }
