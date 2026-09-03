@@ -2,8 +2,8 @@ import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { frontmatterFromHistory, nameFromHistory } from "@tools/lib/seat-page-history"
 import { pageValuesOf } from "@tools/lib/seat-page-values"
 import { agentPresence } from "@tools/lib/seat-presence-read"
-import type { SeatPresence } from "@tools/lib/seat-proc-key"
 import { sessionOf } from "@tools/lib/seat-session"
+import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
 
 const TITLE = "title"
 

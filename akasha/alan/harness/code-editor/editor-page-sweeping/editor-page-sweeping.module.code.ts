@@ -3,6 +3,7 @@ import { whereFor } from "@akasha/markdown-pages/page-write-where"
 import { registryOf } from "@akasha/markdown-pages/property-registry"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { type SeatPresence, statedProcessPresence } from "@akasha/seat-system/seat-proc-key"
 import {
   GROUP,
   type Named,
@@ -14,7 +15,6 @@ import {
 } from "@tools/lib/editor-arrangement"
 import { removePage } from "@tools/lib/page-write"
 import { frontmatterOf } from "@tools/lib/seat-presence-read"
-import { type SeatPresence, statedProcessPresence } from "@tools/lib/seat-proc-key"
 
 function processPresence(
   roots: Roots,

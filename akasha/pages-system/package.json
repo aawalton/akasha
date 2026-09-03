@@ -79,6 +79,9 @@
     "./select-property": "./select-properties/select-property.page-type.ts",
     "./shadow": "./shadow/shadow.module.code.ts",
     "./text-property": "./text-properties/text-property.page-type.ts",
-    "./url-property": "./url-properties/url-property.page-type.ts"
+    "./url-property": "./url-properties/url-property.page-type.ts",
+    "./live-store-write-guard": "./live-store-write-guard/live-store-write-guard.module.code.ts",
+    "./markdown-property": "./markdown-property/markdown-property.module.code.ts",
+    "./markdown-property-stated": "./markdown-property-stated/markdown-property-stated.module.code.ts"
   }
 }

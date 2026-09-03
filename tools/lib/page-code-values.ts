@@ -3,7 +3,7 @@ import type { Held } from "@akasha/markdown-pages/page-file-values"
 import type { Reached } from "@akasha/markdown-pages/page-reach"
 import type { Property } from "@akasha/pages-system/markdown-property"
 import { seatIsAttached } from "@akasha/seat-system/seat-attached"
-import { type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
+import { type SeatPresence, statedProcessPresence } from "@akasha/seat-system/seat-proc-key"
 
 const SUPERVISOR_PROCESS = "supervisor-process"
 

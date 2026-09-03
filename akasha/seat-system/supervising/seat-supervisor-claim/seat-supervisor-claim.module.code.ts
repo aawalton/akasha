@@ -6,7 +6,7 @@ import {
   readSeatProcKey,
   type SeatPresence,
   statedProcessPresence,
-} from "@tools/lib/seat-proc-key"
+} from "../../seat-proc-key/seat-proc-key.module.code.ts"
 
 export interface SeatSupervisionInput {
   readonly holderProcess: string | null

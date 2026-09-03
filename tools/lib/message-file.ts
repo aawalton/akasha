@@ -1,4 +1,5 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
+import { landBodies, landRemovals } from "@akasha/command-system/gated-landing"
 import { parseFrontmatter } from "@akasha/markdown-pages/frontmatter"
 import { MARKDOWN } from "@akasha/markdown-pages/page-file"
 import { placeDirOf } from "@akasha/markdown-pages/page-types"
@@ -8,7 +9,6 @@ import {
   removeUncommitted,
 } from "@akasha/markdown-pages/uncommitted"
 import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
-import { landBodies, landRemovals } from "./gated-landing.ts"
 import { akashaSeatIdForName } from "./seat-akasha-beside.ts"
 
 const PAGE_TYPE = "message"

@@ -6,6 +6,7 @@ import { duringOneCall } from "@akasha/command-system/during-call"
 import { idOfFilePage as pageId } from "@akasha/file-page-identity"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import type { RowsHome } from "@akasha/markdown-pages/page-rows-home"
 import {
   appendable,
   appendLines,
@@ -21,6 +22,7 @@ import {
   standingIn,
   writeOutParts,
 } from "@akasha/markdown-pages/page-rows-parts"
+import { declaredFor } from "@akasha/markdown-pages/page-type-declared"
 import { type Where, whereFor } from "@akasha/markdown-pages/page-write-where"
 import { judgeRow } from "@akasha/markdown-pages/property-judge"
 import { partNumberOf, rowsFileOf, rowsPartOf } from "@akasha/markdown-pages/rows-file"
@@ -29,8 +31,6 @@ import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Property } from "@akasha/pages-system/markdown-property"
 import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
-import type { RowsHome } from "../page/page-rows-home.ts"
-import { declaredFor } from "../page/page-rows-home.ts"
 import { forgetRowsPages } from "./page-rows.ts"
 import { RowsHomeUnresolved, rowsHomeFor } from "./page-rows-resolve.ts"
 import type { Written } from "./page-write.ts"

@@ -1,13 +1,13 @@
-import type { FileTree } from "@akasha/markdown-pages/file-tree"
-import { slugNamed } from "@akasha/markdown-pages/page-address"
-import { DEFINED_ON, PROPERTY_GLOBS } from "@akasha/markdown-pages/page-types"
-import { answeredWhole } from "@akasha/markdown-pages/property-answer-cache"
-import { compiledPageTypeFor } from "@akasha/markdown-pages/property-frontmatter"
-import { registryOf } from "@akasha/markdown-pages/property-registry"
-import { shapeMarkOf } from "@akasha/markdown-pages/shape-mark"
-import { blockOf, stringAt } from "@akasha/markdown-pages/text-at"
 import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
-import type { Property } from "@akasha/pages-system/markdown-property"
+import type { FileTree } from "../markdown-file-tree/markdown-file-tree.module.code.ts"
+import { slugNamed } from "../markdown-page-address/markdown-page-address.module.code.ts"
+import {
+  DEFINED_ON,
+  PROPERTY_GLOBS,
+} from "../markdown-page-types/markdown-page-types.module.code.ts"
+import { answeredWhole } from "../markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts"
+import { shapeMarkOf } from "../markdown-shape-mark/markdown-shape-mark.module.code.ts"
+import { blockOf, stringAt } from "../markdown-text-at/markdown-text-at.module.code.ts"
 
 export const PAGES = "pages"
 
@@ -55,20 +55,6 @@ function homesIn(tree: FileTree): ReadonlyMap<string, readonly RowsHome[]> {
     else standing.push(one)
   }
   return homes
-}
-
-const declared = new WeakMap<FileTree, Map<string, readonly Property[] | null>>()
-
-export function declaredFor(tree: FileTree, pageType: string): readonly Property[] | null {
-  const byType = declared.get(tree) ?? new Map<string, readonly Property[] | null>()
-  declared.set(tree, byType)
-  const found = byType.get(pageType)
-  if (found !== undefined) return found
-  const type = registryOf(tree).find((one) => one.slug === pageType)
-  const got = type === undefined ? null : compiledPageTypeFor(type, tree).properties
-  const set = got === null || got.length === 0 ? null : got
-  byType.set(pageType, set)
-  return set
 }
 
 type HomesData = readonly (readonly [string, readonly RowsHome[]])[]

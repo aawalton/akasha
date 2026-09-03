@@ -7,11 +7,14 @@ import {
 import type { Outcome } from "@tools/lib/gated-write"
 import { keepBeside } from "@tools/lib/seat-beside"
 import { nameFromHistory } from "@tools/lib/seat-page-history"
-import { formatSeatProcKey, readSeatProcKey } from "@tools/lib/seat-proc-key"
 import { composedNameOf } from "@tools/lib/seat-rename"
 import { clearRotated } from "@tools/lib/seat-rotated-session"
 import { keepSession } from "@tools/lib/seat-session"
 import { keepTranscript } from "@tools/lib/seat-transcript-path"
+import {
+  formatSeatProcKey,
+  readSeatProcKey,
+} from "../../seat-proc-key/seat-proc-key.module.code.ts"
 
 const BEAT = "seat-page-beat.ts"
 

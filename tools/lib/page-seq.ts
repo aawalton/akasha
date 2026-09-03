@@ -1,10 +1,10 @@
 import { spawnSync } from "node:child_process"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { landBodies } from "@akasha/command-system/gated-landing"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { parseFrontmatter, textField } from "@akasha/markdown-pages/frontmatter"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { landBodies } from "./gated-landing.ts"
 
 const OUTPUT_CEILING = 64 * 1024 * 1024
 

@@ -1,6 +1,6 @@
+import type { SeatPresence } from "@akasha/seat-system/seat-proc-key"
 import { ruleText } from "./instructions-rule.ts"
-import type { SeatPresence } from "./seat-proc-key.ts"
-import { decideSpawnGuard, DECLARATION_RELATIVE_PATH } from "./spawn-guard.ts"
+import { DECLARATION_RELATIVE_PATH, decideSpawnGuard } from "./spawn-guard.ts"
 
 export interface NameHolder {
   readonly id: string

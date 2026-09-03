@@ -1,5 +1,4 @@
-
-import type { SeatPresence } from "./seat-proc-key.ts"
+import type { SeatPresence } from "@akasha/seat-system/seat-proc-key"
 
 export const DECLARATION_RELATIVE_PATH = "tools/lib/spawn-guard.ts"
 

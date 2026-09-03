@@ -58,7 +58,9 @@
     "./sidecar": "./markdown-sidecar/markdown-sidecar.module.code.ts",
     "./text-at": "./markdown-text-at/markdown-text-at.module.code.ts",
     "./tracked": "./markdown-tracked/markdown-tracked.module.code.ts",
-    "./uncommitted": "./markdown-uncommitted/markdown-uncommitted.module.code.ts"
+    "./uncommitted": "./markdown-uncommitted/markdown-uncommitted.module.code.ts",
+    "./page-rows-home": "./markdown-page-rows-home/markdown-page-rows-home.module.code.ts",
+    "./page-type-declared": "./markdown-page-type-declared/markdown-page-type-declared.module.code.ts"
   },
   "dependencies": {
     "@akasha/code-system": "workspace:*",

@@ -1,4 +1,5 @@
 import { readdirSync, readFileSync } from "node:fs"
+import { type GatedAct, type GatedBody, landBodies } from "@akasha/command-system/gated-landing"
 import { listField, parseFrontmatter, textField } from "@akasha/markdown-pages/frontmatter"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import type { RawChapter } from "@akasha/royal-road/royal-road-pages"
@@ -8,7 +9,6 @@ import {
   parseFictionPage,
   royalRoadUrl,
 } from "@akasha/royal-road/royal-road-pages"
-import { type GatedAct, type GatedBody, landBodies } from "@tools/lib/gated-landing"
 
 const ROOT = akashaRoot()
 const STORY_TYPE = "story-read-royal-road"

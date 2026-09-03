@@ -1,5 +1,5 @@
-import { canonicalize } from "@akasha/pages-system/repo-path"
-import { checkoutBeside, repos } from "@akasha/pages-system/checkout-roots"
+import { checkoutBeside, repos } from "../checkout-roots/checkout-roots.module.code.ts"
+import { canonicalize } from "../repo-path/repo-path.module.code.ts"
 
 export const TEST_RUN = "AKASHA_TEST_RUN"
 

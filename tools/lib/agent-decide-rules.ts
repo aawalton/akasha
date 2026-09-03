@@ -4,6 +4,7 @@ import {
   PENDING_VERDICTS,
   pendingAllowsStopAlone,
 } from "@akasha/seat-system/seat-pending"
+import { SEAT_PRESENCES } from "@akasha/seat-system/seat-proc-key"
 import {
   decideRelaunchName,
   RELAUNCH_NAME_OUTCOMES,
@@ -19,7 +20,6 @@ import {
 } from "@akasha/seat-system/seat-spawn-name-decide"
 import { fail } from "./command.ts"
 import { bool, maybe, num, obj, oneOf, str } from "./narrow.ts"
-import { SEAT_PRESENCES } from "./seat-proc-key.ts"
 import { decideSkillTokenGuard, SKILL_TOKEN_GUARD_DECISIONS } from "./skill-token-guard.ts"
 import { decideSpawnGuard, SPAWN_GUARD_DECISIONS } from "./spawn-guard.ts"
 

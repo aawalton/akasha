@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
 import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { type RowsHome, rowsHomesFor } from "@akasha/markdown-pages/page-rows-home"
 import { whereFor } from "@akasha/markdown-pages/page-write-where"
 import { registryOf } from "@akasha/markdown-pages/property-registry"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { type RowsHome, rowsHomesFor } from "../page/page-rows-home.ts"
 
 const NONE = "none"
 

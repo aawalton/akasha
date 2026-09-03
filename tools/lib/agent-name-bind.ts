@@ -1,8 +1,8 @@
 import { readFileSync } from "node:fs"
+import { parseSeatProcKey, seatProcKeyPresence } from "@akasha/seat-system/seat-proc-key"
 import type { AgentNameBindInput, SeatPresence } from "./name-claim-guard.ts"
 import { planSeatResolution } from "./seat-handle.ts"
 import { agentHolderProcess } from "./seat-presence-read.ts"
-import { parseSeatProcKey, seatProcKeyPresence } from "./seat-proc-key.ts"
 
 const ANCESTRY_DEPTH_LIMIT = 32
 

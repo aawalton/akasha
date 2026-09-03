@@ -1,9 +1,9 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { statedProcessPresence } from "@akasha/seat-system/seat-proc-key"
+import { FLEET } from "./compose-seat-name.ts"
 import { akashaHolderProcessOf, akashaSeatIdForName } from "./seat-akasha-beside.ts"
 import { akashaSeatsStated, akashaSeatValuesOf } from "./seat-akasha-read.ts"
 import { pageFromHistory } from "./seat-page-history.ts"
-import { statedProcessPresence } from "./seat-proc-key.ts"
-import { FLEET } from "./compose-seat-name.ts"
 
 const MAX_ANCESTOR_GENERATIONS = 10
 

@@ -1,10 +1,10 @@
 import { diskFileTree } from "@akasha/markdown-pages/file-tree"
+import { declaredFor } from "@akasha/markdown-pages/page-type-declared"
 import { kebabized } from "@akasha/markdown-pages/property-key-spelling"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { TRACKING_DAY } from "@akasha/pages-system/page-query-day"
 import type { Given } from "@akasha/pages-system/page-query-request"
 import type { PageQuery, Test } from "@akasha/pages-system/page-query-shape"
-import { declaredFor } from "../page/page-rows-home.ts"
 import { dayNameOf } from "./tracking/day-place.ts"
 
 export type { Given }

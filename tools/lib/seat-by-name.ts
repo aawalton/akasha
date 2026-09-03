@@ -1,5 +1,5 @@
+import { type SeatPresence, statedProcessPresence } from "@akasha/seat-system/seat-proc-key"
 import { akashaHolderProcessOf, akashaSeatIdForName } from "./seat-akasha-beside.ts"
-import { type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
 
 export interface SeatByName {
   readonly id: string

@@ -1,4 +1,5 @@
 import type { Where } from "@akasha/markdown-pages/page-write-where"
+import { refuseALiveTestWrite } from "@akasha/pages-system/live-store-write-guard"
 import { commitAuthor } from "../../agent/commit-author.ts"
 import { commitPaths, whileHoldingLanding } from "../../repo/git/git.ts"
 import {
@@ -8,7 +9,6 @@ import {
   type Landings,
   landFiles,
 } from "../../repo/land/land.ts"
-import { refuseALiveTestWrite } from "./live-store-write-guard.ts"
 import { deferringCommits, queueCommit } from "./page-commit-queue.ts"
 
 export function commitPages(

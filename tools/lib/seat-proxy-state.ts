@@ -1,7 +1,11 @@
-import { seatNameForAgent } from "./seat-presence-read.ts"
-import { formatSeatProcKey, parseSeatProcKey, readProcStartTicks } from "./seat-proc-key.ts"
+import {
+  formatSeatProcKey,
+  parseSeatProcKey,
+  readProcStartTicks,
+} from "@akasha/seat-system/seat-proc-key"
 import { akashaObservedOf } from "./seat-akasha-read.ts"
 import { keepBeside } from "./seat-beside.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 
 export interface OAuthProxyStateToWrite {
   readonly pid: number
@@ -40,7 +44,6 @@ export function readProxyState(agentId: string): OAuthProxyState | null {
     ...(owner === null ? {} : { supervisorPid: owner.pid }),
   }
 }
-
 
 export function writeProxyState(agentId: string, state: OAuthProxyStateToWrite): undefined {
   const seatName = seatNameForAgent(agentId)

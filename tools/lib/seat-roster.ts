@@ -1,9 +1,9 @@
 import { slugNamed } from "@akasha/markdown-pages/page-address"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { SeatPresence } from "@akasha/seat-system/seat-proc-key"
 import { akashaSeatsInHistory } from "./seat-akasha-history.ts"
 import { akashaSeatsStated } from "./seat-akasha-read.ts"
 import { agentPresence } from "./seat-presence-read.ts"
-import type { SeatPresence } from "./seat-proc-key.ts"
 import { sessionOf } from "./seat-session.ts"
 
 const SESSION_KEY = "claude-code-session-uuid"
