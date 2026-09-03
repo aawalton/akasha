@@ -10,7 +10,7 @@ export const akashaMigration = {
     {
       statement: "All files in the akasha repo are in the akasha subfolder.",
       workingMemory:
-        "Now 1,529 outside akasha against 137,064 inside, from 69,894 and 32,904 at dispatch: pages 979, tools 512, readouts 10, root 9. MEASURED: this field caps at 500 chars; `akasha read` records only where stdout and stderr reach one file, so `> f 2>&1` records and a bare `>`, a pipe or /dev/null record nothing. `landedMechanically` answers `{report, refusals, code}`: no `wrote`, so a guard on it never fires; check `refusals` and `code`. NEVER `akasha service install`: it drops 37 units, 20 live.",
+        "Now 568 outside akasha against 137,298 inside, from 69,894 and 32,904 at dispatch: tools/lib 317, page-property-definition 145, tools loose 32, readouts 10, root 4. The largest single block is a 125-file model-gateway closure held by tools/lib/model-gateway-tree-version.ts, 9 readers. MEASURED: a census spelling `@tools/lib/<stem>.ts` misses the extensionless specifier; 7 of 12 apparent zeros had live readers, 2 under running units.",
     },
     {
       statement: "Alan's own records are akasha pages.",
