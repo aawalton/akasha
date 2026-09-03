@@ -1,0 +1,21 @@
+{
+  "name": "@akasha/k8s-types",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./cdk8s-synth": "./cdk8s-synth/cdk8s-synth.module.code.ts",
+    "./hostnames": "./hostnames/hostnames.module.code.ts",
+    "./hostnames-ci-enrollment": "./hostnames-ci-enrollment/hostnames-ci-enrollment.module.code.ts",
+    "./k8s-manifest-scanner": "./k8s-manifest-scanner/k8s-manifest-scanner.module.code.ts",
+    "./labels": "./labels/labels.module.code.ts",
+    "./orchestrator-cache": "./orchestrator-cache/orchestrator-cache.module.code.ts",
+    "./orchestrator-cache-helpers": "./orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts",
+    "./orchestrator-cache-locations": "./orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts",
+    "./secret-checksum": "./secret-checksum/secret-checksum.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-run": "workspace:*",
+    "cdk8s": "^2.70.60",
+    "zod": "^4.3.6"
+  }
+}

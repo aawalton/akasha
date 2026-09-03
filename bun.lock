@@ -808,6 +808,14 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/infrastructure/k8s-types": {
+      "name": "@akasha/k8s-types",
+      "dependencies": {
+        "@akasha/utils-run": "workspace:*",
+        "cdk8s": "^2.70.60",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/location-traces-access": {
       "name": "@akasha/location-traces-access",
     },
@@ -3293,6 +3301,8 @@
     "@akasha/imessage": ["@akasha/imessage@workspace:akasha/imessage"],
 
     "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
+
+    "@akasha/k8s-types": ["@akasha/k8s-types@workspace:akasha/infrastructure/k8s-types"],
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:akasha/location-traces-access"],
 

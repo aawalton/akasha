@@ -11,6 +11,7 @@ export const infrastructure = {
     "domain/secret",
     "domain/telemetry",
     "domain/inference",
+    "workspace-package/k8s-types",
   ],
   invariants: [
     {
