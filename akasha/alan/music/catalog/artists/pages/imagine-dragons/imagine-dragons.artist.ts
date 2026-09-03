@@ -7,6 +7,7 @@ export const imagineDragons = {
   title: "Imagine Dragons",
   externalId: "012151a8-0f9a-44c9-997f-ebd68b5389f9",
   externalLink: "https://musicbrainz.org/artist/012151a8-0f9a-44c9-997f-ebd68b5389f9",
+  unitSlug: "minutes",
   source: "musicbrainz",
   lastSyncedAt: "2026-06-08",
   genre: [

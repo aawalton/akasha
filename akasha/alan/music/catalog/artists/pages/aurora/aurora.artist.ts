@@ -7,6 +7,7 @@ export const aurora = {
   title: "AURORA",
   externalId: "484a4e90-6899-4e4b-a948-a2255d365340",
   externalLink: "https://musicbrainz.org/artist/484a4e90-6899-4e4b-a948-a2255d365340",
+  unitSlug: "minutes",
   source: "musicbrainz",
   lastSyncedAt: "2026-06-08",
   genre: [

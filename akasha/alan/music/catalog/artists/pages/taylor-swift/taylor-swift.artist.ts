@@ -7,6 +7,7 @@ export const taylorSwift = {
   title: "Taylor Swift",
   externalId: "20244d07-534f-4eff-b4d4-930878889970",
   externalLink: "https://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+  unitSlug: "minutes",
   source: "musicbrainz",
   lastSyncedAt: "2026-06-08",
   genre: [

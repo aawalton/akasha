@@ -7,6 +7,7 @@ export const mitski = {
   title: "Mitski",
   externalId: "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
   externalLink: "https://musicbrainz.org/artist/fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+  unitSlug: "minutes",
   source: "musicbrainz",
   lastSyncedAt: "2026-06-28",
   genre: [

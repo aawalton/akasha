@@ -7,6 +7,7 @@ export const zaraLarsson = {
   title: "Zara Larsson",
   externalId: "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
   externalLink: "https://musicbrainz.org/artist/134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+  unitSlug: "minutes",
   source: "musicbrainz",
   lastSyncedAt: "2026-06-08",
   genre: [

@@ -7,6 +7,7 @@ export const jessicaBaio = {
   title: "Jessica Baio",
   externalId: "fddc6fba-d749-483e-a816-296962a11789",
   externalLink: "https://musicbrainz.org/artist/fddc6fba-d749-483e-a816-296962a11789",
+  unitSlug: "minutes",
   source: "musicbrainz",
   lastSyncedAt: "2026-06-08",
 } as const satisfies Artist

@@ -7,6 +7,7 @@ export const emBeihold = {
   title: "Em Beihold",
   externalId: "7575e3b8-ba04-4acc-a895-9cc528f86525",
   externalLink: "https://musicbrainz.org/artist/7575e3b8-ba04-4acc-a895-9cc528f86525",
+  unitSlug: "minutes",
   source: "musicbrainz",
   lastSyncedAt: "2026-06-08",
   genre: ["pop", "singer-songwriter", "teen pop"],

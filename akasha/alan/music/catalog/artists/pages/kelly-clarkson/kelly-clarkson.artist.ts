@@ -7,6 +7,7 @@ export const kellyClarkson = {
   title: "Kelly Clarkson",
   externalId: "d339efbb-77b9-4147-ba9e-59f2f24550b2",
   externalLink: "https://musicbrainz.org/artist/d339efbb-77b9-4147-ba9e-59f2f24550b2",
+  unitSlug: "minutes",
   source: "musicbrainz",
   lastSyncedAt: "2026-06-08",
   genre: ["pop", "pop rock"],

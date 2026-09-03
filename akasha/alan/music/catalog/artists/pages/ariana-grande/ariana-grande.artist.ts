@@ -7,6 +7,7 @@ export const arianaGrande = {
   title: "Ariana Grande",
   externalId: "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
   externalLink: "https://musicbrainz.org/artist/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+  unitSlug: "minutes",
   source: "musicbrainz",
   lastSyncedAt: "2026-06-08",
   genre: ["pop", "r&b", "dance-pop", "contemporary r&b", "trap soul"],
