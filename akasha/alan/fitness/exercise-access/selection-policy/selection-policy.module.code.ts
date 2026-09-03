@@ -3,8 +3,7 @@ import type { Row } from "@tools/lib/page-derive-shape"
 import { answer } from "@tools/lib/page-query"
 import { textOf } from "@tools/lib/page-query-values"
 import { patchPage } from "@tools/lib/page-write"
-
-const POLICY = "selection-policy"
+import { selectionPolicy as stated } from "../../selection-policies/pages/selection-policy/selection-policy.selection-policy.ts"
 
 const PROFILE = "client-profile"
 
@@ -52,33 +51,29 @@ function number(row: Row, pageType: string, key: string): number {
 }
 
 export function readSelectionPolicy(): SelectionPolicy {
-  const row = only(POLICY)
-  const at = (key: string): number => number(row, POLICY, key)
   return {
     weights: {
-      longevity: at("weight-longevity"),
-      energy: at("weight-energy"),
-      functionality: at("weight-functionality"),
-      aesthetics: at("weight-aesthetics"),
+      longevity: stated.weightLongevity,
+      energy: stated.weightEnergy,
+      functionality: stated.weightFunctionality,
+      aesthetics: stated.weightAesthetics,
     },
-    noveltyCapPerSession: at("novelty-cap-per-session"),
-    anchorBlockWeeks: at("anchor-block-weeks"),
-    weeklySetFloor: at("weekly-set-floor"),
-    weeklySetCeiling: at("weekly-set-ceiling"),
-    zone2WeeklyFloor: at("zone2-weekly-floor"),
-    recencyWeight: at("recency-weight"),
-    recencySaturationDays: at("recency-saturation-days"),
+    noveltyCapPerSession: stated.noveltyCapPerSession,
+    anchorBlockWeeks: stated.anchorBlockWeeks,
+    weeklySetFloor: stated.weeklySetFloor,
+    weeklySetCeiling: stated.weeklySetCeiling,
+    zone2WeeklyFloor: stated.zone2WeeklyFloor,
+    recencyWeight: stated.recencyWeight,
+    recencySaturationDays: stated.recencySaturationDays,
   }
 }
 
 export function selectionPolicyStated(): ReadonlyMap<string, number> {
-  const stated = new Map<string, number>()
-  for (const [key, held] of Object.entries(only(POLICY).values)) {
-    if (typeof held !== "string") continue
-    const value = Number(held)
-    if (held.trim() !== "" && Number.isFinite(value)) stated.set(key, value)
+  const held = new Map<string, number>()
+  for (const [key, value] of Object.entries(stated)) {
+    if (typeof value === "number") held.set(key, value)
   }
-  return stated
+  return held
 }
 
 export function readBodyweight(): number {
