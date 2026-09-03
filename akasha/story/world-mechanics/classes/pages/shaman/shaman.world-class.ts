@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const shaman = {
   id: "01a0657e-0252-7463-9375-bccbdb8c422d",

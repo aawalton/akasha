@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const shadowmaster = {
   id: "01a0657e-024d-73b0-9433-77b24e3f7479",

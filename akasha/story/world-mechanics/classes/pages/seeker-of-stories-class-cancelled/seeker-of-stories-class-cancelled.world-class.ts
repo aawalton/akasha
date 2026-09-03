@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const seekerOfStoriesClassCancelled = {
   id: "01a0657e-024c-77dc-9bb7-a1f2eb160e18",

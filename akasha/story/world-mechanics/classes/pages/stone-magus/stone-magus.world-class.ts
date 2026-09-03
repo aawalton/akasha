@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const stoneMagus = {
   id: "01a0657e-025f-72f2-a934-59cee995efc8",

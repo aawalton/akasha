@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const selfSufficiencyCook = {
   id: "01a0657e-024c-745b-8a61-1c3e28109254",

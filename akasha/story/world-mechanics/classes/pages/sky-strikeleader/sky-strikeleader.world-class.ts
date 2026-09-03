@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const skyStrikeleader = {
   id: "01a0657e-0256-7462-a119-f2330b5e67b6",

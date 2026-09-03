@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const shipwright = {
   id: "01a0657e-0254-78eb-9569-88422fcfd4e8",

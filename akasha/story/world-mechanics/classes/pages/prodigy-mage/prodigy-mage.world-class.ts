@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const prodigyMage = {
   id: "01a06586-0a18-78bd-ada1-19aa25ce2b71",

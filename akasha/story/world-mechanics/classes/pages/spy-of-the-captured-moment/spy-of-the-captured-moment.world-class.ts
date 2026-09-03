@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const spyOfTheCapturedMoment = {
   id: "01a0657e-025e-731f-8f4d-c6c612717a97",

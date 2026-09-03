@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const stitchDoctor = {
   id: "01a0657e-025f-7ed1-8557-3d87ab41d2cb",

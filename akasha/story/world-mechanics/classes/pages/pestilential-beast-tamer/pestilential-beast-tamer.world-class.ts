@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const pestilentialBeastTamer = {
   id: "01a06586-0a06-7b63-8e0d-f70b415c1d32",

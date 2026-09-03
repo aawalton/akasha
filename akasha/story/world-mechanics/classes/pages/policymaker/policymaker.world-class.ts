@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const policymaker = {
   id: "01a06586-0a0a-76ff-b42f-45b0dd28ff12",

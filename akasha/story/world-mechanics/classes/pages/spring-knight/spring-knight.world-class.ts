@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const springKnight = {
   id: "01a0657e-025e-7b10-9c29-e2d8062b3761",

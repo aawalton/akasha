@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const physician = {
   id: "01a06586-0a06-754f-b1b0-bb3b8c7f7eec",

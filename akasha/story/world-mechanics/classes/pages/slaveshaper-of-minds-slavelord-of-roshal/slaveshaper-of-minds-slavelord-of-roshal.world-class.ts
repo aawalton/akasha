@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const slaveshaperOfMindsSlavelordOfRoshal = {
   id: "01a0657e-0258-728c-88e7-49fd217559a9",

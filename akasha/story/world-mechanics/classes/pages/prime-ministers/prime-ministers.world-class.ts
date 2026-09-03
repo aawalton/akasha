@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const primeMinisters = {
   id: "01a06586-0a0c-77a6-9b9b-c3d1fcdef521",

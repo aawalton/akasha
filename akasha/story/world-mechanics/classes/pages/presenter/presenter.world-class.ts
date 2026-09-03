@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const presenter = {
   id: "01a06586-0a0b-745a-95ed-c6b8b7bec4cc",
