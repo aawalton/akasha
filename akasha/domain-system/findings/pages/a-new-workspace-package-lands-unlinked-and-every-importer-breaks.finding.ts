@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aNewWorkspacePackageLandsUnlinkedAndEveryImporterBreaks = {
+  id: "01a0686c-e937-700a-a93a-c212c99a378e",
+  pageTypeSlug: "finding",
+  slug: "a-new-workspace-package-lands-unlinked-and-every-importer-breaks",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`landedMechanically` makes `bun.lock` again beside a `package.json` it carries, and it does not run an install, so a workspace package landing for the first time gets no `node_modules/@akasha/<name>` link. Every file repointed onto that package in the same commit stops resolving the moment the commit lands. The landing reports success and the lockfile is correct; only the symlink is missing.",
+  evidence:
+    "Measured 2026-09-03 12:19 landing @akasha/pipeline-sweep at akasha/changes/pipeline-sweep. The landing printed '`bun.lock` was made again beside the 2 `package.json` this change carries, and lands in the same commit' and committed 513f1e95c4. `ls node_modules/@akasha/pipeline-sweep` answered 'No such file or directory', and `bun build --target=bun` refused five files with 'Could not resolve: \"@akasha/pipeline-sweep/pipeline-page-statuses\". Maybe you need to \"bun install\"?'.\n\nIt is not only a build-time reading. The live sweep daemon went straight back to crash-looping: `journalctl --user -u sweep-pipeline-pages.service` shows 'Cannot find module @akasha/pipeline-sweep/pipeline-page-statuses from .../decide-pipeline.ts' at 12:18:57 and again from dispatch-guards.ts at 12:19:08, a landing and a half after it had been brought back up.\n\nThe repair, which took one command: `ln -sfn ../../akasha/changes/pipeline-sweep node_modules/@akasha/pipeline-sweep`, matching the form of the links bun had already made for its siblings — `node_modules/@akasha/pipeline-orchestration -> ../../akasha/changes/pipeline-orchestration`. All five files then built and the daemon recovered inside one restart interval.\n\nWhat this asks of a worker: creating a workspace package is not done when the manifest and the lockfile land. Make the link in the same breath, then build one importer to prove it. The failure is invisible to `code === 0`, invisible to the lockfile, and invisible to a name-collision scan, and it takes down anything already running that the repoint reached. Every lane in this migration that carries a folder into a package it has just invented meets this.",
+} as const satisfies Finding
