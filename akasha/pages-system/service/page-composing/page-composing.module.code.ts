@@ -122,7 +122,8 @@ export function composedFor(root: string, named: Naming): Composed {
     if (one.uncommitted) outside[one.key] = value
     else inside[one.key] = value
   }
-  if (inside[ID] === undefined && was?.[ID] !== undefined) inside[ID] = was[ID]
+  const wasId = was === null ? undefined : was[ID]
+  if (inside[ID] === undefined && wasId !== undefined) inside[ID] = wasId
   const content = bodyOf({
     pageTypeSlug: named.pageTypeSlug,
     slug: named.slug,
