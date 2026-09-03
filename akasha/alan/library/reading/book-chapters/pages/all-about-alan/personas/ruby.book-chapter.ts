@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const ruby = {
   id: "01a06594-c687-7007-91e2-69fc7d387a34",

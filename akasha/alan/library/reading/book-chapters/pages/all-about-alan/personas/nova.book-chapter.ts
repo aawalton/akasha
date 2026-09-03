@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const nova = {
   id: "01a06594-c687-7006-9b6f-5824fa9e4e56",

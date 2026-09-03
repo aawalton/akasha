@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const ceri = {
   id: "01a06594-c686-700f-a52c-05cb7cebb8ba",

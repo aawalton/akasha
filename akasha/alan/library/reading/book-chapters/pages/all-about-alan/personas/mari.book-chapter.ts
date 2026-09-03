@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const mari = {
   id: "01a06594-c687-7003-a2b1-7f87ac15f0b0",

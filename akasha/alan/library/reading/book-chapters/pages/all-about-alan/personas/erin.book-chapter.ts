@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const erin = {
   id: "01a06594-c686-7012-a0dd-aca6ba715b8e",

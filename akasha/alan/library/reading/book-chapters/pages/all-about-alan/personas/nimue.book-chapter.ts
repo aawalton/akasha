@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const nimue = {
   id: "01a06594-c687-7005-9207-1dc4969ed1b2",

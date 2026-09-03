@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const iris = {
   id: "01a06594-c687-7001-97e9-ee5793a8fd85",
