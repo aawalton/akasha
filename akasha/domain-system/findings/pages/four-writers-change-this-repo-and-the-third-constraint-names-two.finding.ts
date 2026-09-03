@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const fourWritersChangeThisRepoAndTheThirdConstraintNamesTwo = {
+  id: "01a0676b-1062-72ca-9d24-ded4a2d81d78",
+  pageTypeSlug: "finding",
+  slug: "four-writers-change-this-repo-and-the-third-constraint-names-two",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "The migration's third constraint names two writers, the swarm and the alan handler. Four were live: those two, Alan's own session working with aura on game design, and five workstation sync timers. The timers went off at 06:58 on 2026-09-03 and cannot fire. Their unit sources survive under ~/.local/state/workstation-services, so each goes back with one link and one enable, and the five .service units were never touched.",
+  evidence:
+    "Written down 2026-09-03 07:20 MDT so the recipe outlives the session that made it. The coordinating session has been replaced twice already.\n\nTHE FIVE, AND WHAT EACH WROTE. royal-road-sync, one pages/story-chapter-royal-road/*.md an hour. wandering-inn-sync, pages/story-chapter-wandering-inn/*.md daily. great-courses-sync, *.great-course.ts daily. monarch-poll, the recent months under akasha/alan/harness/monarch/monarch-months/pages/, every minute. monarch-sync, the whole of that folder, daily.\n\nTO PUT ONE BACK, with <u> any of royal-road-sync, wandering-inn-sync, great-courses-sync, monarch-sync, monarch-poll:\n\n  systemctl --user link /var/home/walton/.local/state/workstation-services/<u>.timer\n  systemctl --user enable --now <u>.timer\n\nDisable deleted two links for each: ~/.config/systemd/user/timers.target.wants/<u>.timer, and ~/.config/systemd/user/<u>.timer itself. `enable` remakes the first and `link` the second, which is why `enable` on its own answers that the unit does not exist. All five sources are present and all five .service units read LoadState=loaded, so nothing else needs putting back.\n\nWHY THE WRITER COUNT MATTERS. A lane counting a folder gets a number that is true when taken and drifts afterwards, and the drift does not show in the number itself. Two lanes counting an hour apart disagree and both are right.\n\nOFF IS NOT UNREACHABLE. `systemctl --user show <u>.timer -p LoadState` answers not-found for all five, so none can fire on a schedule. Even so, monarch-poll ran at 07:00:13 and 07:07:01 and monarch-sync at 07:07:06, each with TriggeredBy and OnSuccess empty, so something in the swarm starts them by hand. That is swarm work rather than a schedule.",
+} as const satisfies Finding
