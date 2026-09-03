@@ -164,3 +164,4 @@ For now, I have to focus on keeping the tutorial stable and not allowing Diligen
 
 The Imitation of Master Lissandra is advancing something she’s been sneakily doing for a while, and she’s been ramping it up now that she has that ridiculous dagger.
 
+There’s no stopping her now, but we still have to do our best to keep the tutorial from breaking.

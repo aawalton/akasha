@@ -158,3 +158,114 @@ Identifies you as a creature not of this world. Your presence will affect those 
 
 Allows you to obtain low-tier spells with relative ease. Prerequisites must be met to learn anything above the second tier.
 
+Interesting. Cale raised an eyebrow. He hadn't been expecting the spell descriptions to have so much personality. There wasn't anything about stats or the like, so this fortunately wasn't one of the worlds with the more intrusive type of assistive construct. He shuddered at the memory—the last time one of those worlds had claimed to offer him "Wisdom"...
+
+As for the rest, well. He didn't like [Marked], but there wasn't much he could do about it other than try to dispel it, and after the last time he'd tried dispelling a construct-granted effect like that one, he'd learned to be a little more cautious with his dispels.
+
+Hopefully, he'd find out a little more about what it actually meant with time. Cale hated vague spell descriptions, especially ones like that. They were often more trouble than they were worth.
+
+[Spell Intuitionist], though? Now that was an interesting one. It must have been the reason he'd picked up the other two aurics so easily. Cale was a little tempted to just start messing around to see what happened, but it would probably be easier to do that outside of some gloomy cave.
+
+Or someone's basement. It was possible this was just a basement. He wouldn't put it past either of those elves to have a cave as a basement.
+
+Cale examined the ritual the elves were conducting critically. They were chanting frantically now, still trying to keep it stable—a lost cause, by his estimation, but he wasn't about to stop them. He could try to learn that...
+
+But no. Blood magic was boring. Now, if this had been necromancy, he might have considered studying it until he got a spell out of it. Cale sighed. Of all the people to get summoned by, why did it have to be blood mages?
+
+"Hey," he said, more amicable than he really felt. He coated himself with his mana, recreating the thick barrier he usually kept active as a basic defensive measure, and waved to get the elves' attention. "Do you two think you could use a spell or something? Preferably something that's not blood magic."
+
+That little bit of magic was the last straw needed to tip the ritual over into destabilizing. Cale took a casual step back as the circle promptly exploded, then waited. One, two, three...
+
+Hassan stepped out of the resulting smoke, clothes singed. "Seleya," he growled. "Shall we teach this human a lesson?"
+
+"Gladly," Seleya responded.
+
+Cale was also glad. Mostly because he could finally stop calling her "the other elf" in his head.
+
+"You will regret what you have done," Hassan said disdainfully. "We will make sure your death is slow. Painful. Tell me, mortal—what feeds your arrogance? You have only just entered this world. Your only ally has left."
+
+"I did get four new spells," Cale said brightly. Hassan snorted.
+
+"Ones related to your incessant babbling, no doubt," the elf said. "Enough. We will start simple. You wish to see a spell? Very well. [Burn]."
+
+Cale watched with interest as the spell activated. Magic poured through the elf's mana channels and into some sort of construct created by the system; he couldn't read the construct, but he could certainly interpret the effects.
+
+Easy enough. A basic conversion from base mana into a sticky sort of fire mana that clung to the target and burned them alive. And in theory—
+
+You have learned [Fire Resistance]!
+
+You have learned [Burn]!
+
+Excellent. Cale hummed, pleased, and examined the two new spells.
+
+[Fire Resistance, Level 1] [Common, Auric Passive]
+
+Increases fire resistance.
+
+[Burn, Level 1] [First Tier, Active] [10 Mana]
+
+Set a target alight with your mana.
+
+"Interesting," he said aloud. Active spells had tiers! Excellent. It looked like it was the tier system he was already used to, even, so that wasn't going to take him a bunch of extra work to figure out.
+
+He didn't really need the [Fire Resistance]—his shield was doing an excellent job keeping him safe—but he wasn't going to say no to an extra auric. In fact, Cale amused himself by allowing some of his shield to slip away.
+
+Then he winced and shook his hand. "Ow," he said. One level of fire resistance didn't do much, apparently.
+
+Hassan was staring at him. Cale couldn't tell if he was in disbelief or if he was simply still in denial about the whole situation. Seleya was a little smarter, at least—she had recognized the danger and was slowly starting to back away—so he formed a quick barrier around the exit and went back to examining [Burn].
+
+Cale did not, historically, have a good relationship with spells. Oh, he was good with magic. He had an absolutely monstrous supply of mana and could wield it like an absurd, overpowered hammer. Problem was, he didn't really have the commensurate level of control needed for his reserves, which meant more complex spells were usually beyond him. Things like teleportation and transmutation, for example. Or baking spells, which—oddly enough—had some of the most complex spell structures he'd ever seen.
+
+Even those few times he'd ended up in worlds that offered premade spells like this one, the ones that required mana almost always broke when he tried to use them. He'd long ago learned that it was best for him to just close off his core and prevent any system from reading or using his mana, which was probably the reason the system here wasn't giving him any kind of mana measurement.
+
+Besides, not all systems were benevolent. Giving one unfettered access to his mana was just asking for trouble.
+
+"How much is ten mana, anyway? Is the unit of measurement different here?" Cale asked out loud. Hassan was looking increasingly pale—which was impressive, considering how pale he already was—and was finally beginning to back away. "Eh, don't worry about it. I'll figure it out."
+
+The spell would probably break, but this was a new system. No harm giving it a shot.
+
+He activated the spell, then manually fed his power into the construct that emerged.
+
+Mana overload detected! Attempting to compensate...
+
+Whoops. Cale sighed dramatically. Here it was: the spell would undoubtedly break and fail, and he'd have to just blast the elves or something.
+
+Adjusting spell construct...
+
+Cale blinked.
+
+[Burn] has evolved into [Plasma Transmutation]!
+
+He blinked again. That seemed a little much. He ignored the all-consuming silver flames that erupted before him and eyed the new spell. Maybe he'd really overadjusted the input?
+
+[Plasma Transmutation, Level 1] [Eighth Tier (Unique), Active] [1.0e27 Mana]
+
+Transform your target into a new state of matter. The new state of matter is fire, to be clear.
+
+Okay, there was no way he'd used that much mana. Had he?
+
+Come to think of it, the fact that a simple effect like [Burn] cost ten mana should probably have been an indicator of how the units of mana worked here. In the last world, it would have cost a fraction of a single unit of mana.
+
+Still... transmutation! He'd never been able to perform transmutation before! Okay, yes, technically the spell just lit things on fire with incredible violence, but this world's system called it transmutation and that was good enough for him. He grinned to himself, practically bursting with excitement.
+
+There were many world constructs that would simply reject or try to steal his mana if he were to overload a spell construct to this degree. Many more would simply shatter and then refuse his magic. This one had adapted. It had created something new, judging by that Unique qualifier.
+
+Cale had encountered many things across all the worlds he'd visited and all the lives he'd lived. Certain things were constants: dragons, dark lords, the intricacies of divine prophecy, and the fundamental nature of magic.
+
+So it was saying a lot that he'd never encountered this specific variant of fire transmutation before. Granted, this one wasn't exactly interesting. But the potential! If the spell constructs this system made could evolve to accommodate his mana, he might discover entirely new forms of magic. Entirely new spells that were adapted for him.
+
+He might be able to do things other than blow everything up!
+
+"I hesitate to ask," a dry voice came from behind him. Cale whirled around to see Akkau standing there, one scaled brow slightly raised. "But should I be concerned to find you standing in front of two puddles of melted elf and grinning like a fool?"
+
+"What?" Cale turned back around to look at the still-glowing floor. The rest of the elves had... evaporated. "Uh, no, the grinning is unrelated. I swear."
+
+"Indeed," Akkau said, entirely deadpan. "Come with me, human. If you hold the Thread of Fate, then we must have a conversation."
+
+Ah. It was happening already. Cale frowned. "Can you at least show me a baking spell?" he asked hopefully.
+
+Akkau paused and stared at him. "A... baking spell," he repeated, like he wasn't sure what Cale had said.
+
+"A baking spell," Cale agreed. No further elaboration needed. He stared at Akkau with big, hopeful eyes.
+
+"If you come with me," Akkau said after a moment, "I will ensure you learn all the magic you desire."

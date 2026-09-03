@@ -142,3 +142,42 @@ Syphus was outright delighted by the sand, but that didn't surprise Cale. The go
 
 "I will demonstrate one spell from the Standard Array that neither of you have learned," the professor said, his arms folded neatly behind his back. "As a reminder, the average mage requires thirty minutes to an hour to learn a spell from the Standard Array. The acquisition challenge stipulates that the spell must be acquired within fifteen minutes, or else the challenge selector—in this case, Cale—forfeits the challenge. Otherwise, the mage that first acquires the spell is considered the victor."
 
+Whiteleaf rolled her eyes. "Seriously," she said. "You chose acquisition? Against a Brightgrove royal? The Gift favors us, you know."
+
+Cale ignored her, much to her irritation. "How will you know who got the spell first?" he asked. "Do we have to demonstrate the spell?"
+
+"No," Graystalk said. "Official challenges such as these are mediated in part by the Gift. It will mark whoever acquires the spell first with golden mana."
+
+"Perfect." Cale nodded, satisfied. The elves were muttering among one another, alternating between staring at Cale and Whiteleaf; one or two of them, he noticed, were starting to look hesitant, like they understood something here was off.
+
+Those were the clever ones. He winked at them, and they immediately pretended they hadn't been staring.
+
+"If there are no further questions, we will begin," Graystalk said. He closed his eyes and reached out, palm up. "O Gift of Karath, we call on your attention, for a challenge has been set and must be answered; grant us the gift of knowledge, that we may know fool from victor, and mage from charlatan..."
+
+Cale blinked. He hadn't expected that. It was similar to a divine chant of sorts, but sure enough, he could feel the Gift's attention slowly grow on both he and Whiteleaf, not that Whiteleaf seemed like she noticed anything.
+
+"Now," Graystalk said. "Watch closely."
+
+He lifted his wand and began to channel a spell. Cale took a moment to admire how perfectly efficient Graystalk's spellcasting was—it was a thing of beauty, really. Even with his casting slightly slowed for the purposes of the challenge, it was over remarkably quickly. The energy around Graystalk flashed into a network of charged, mirror-attuned mana, buzzing with potential.
+
+"Wha—you did that too fast!" Whiteleaf blustered, outrage. Cale gave her a quizzical look.
+
+"Even if he did, you can tell what spell he cast based on its effect and learn it that way, can't you?" he asked. She turned to stare at him.
+
+"What are you talking about?" she said. "That's not how it works. If you think it is, then I'd like to see you try—"
+
+Golden mana exploded out of Cale. It roared out of him as a shockwave, almost, carrying with it a degree of physical force that simply being marked as a victor probably shouldn't have held.
+
+You have learned [Lesser Reflection]!
+
+[Lesser Reflection, Level 1] [Second Tier, Active] [100 Mana]
+
+Reflect a percentage of any incoming magical effect that is second tier or less.
+
+"Ooh, neat," Cale said, pleased. "Was that supposed to be so dramatic?"
+
+Graystalk grinned. Whiteleaf's jaw dropped. Syphus, who had no particular inclination to hold itself to any politically correct standard, burst into raucous laughter.
+
+"Now," Graystalk said, making no effort to hide his own amusement. "Shall we move on to the next challenge? I believe you chose the one based on casting speed."
+
+"Faster mage wins, am I right?" Cale gave Whiteleaf a pleasant smile. "I thought I'd give you a freebie."
