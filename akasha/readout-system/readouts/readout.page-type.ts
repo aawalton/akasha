@@ -15,6 +15,7 @@ import type { Place } from "./properties/place.number-property.ts"
 import type { QueryArgument } from "./properties/query-argument.text-property.ts"
 import type { QueryKey } from "./properties/query-key.text-property.ts"
 import type { QuerySlug } from "./properties/query-slug.text-property.ts"
+import type { ReadLiveFrom } from "./properties/read-live-from.relation-property.ts"
 import type { Enabled } from "./properties/readout-enabled.boolean-property.ts"
 import type { ScaleSlug } from "./properties/scale-slug.relation-property.ts"
 import type { Unit } from "./properties/unit.text-property.ts"
@@ -37,6 +38,7 @@ export type Readout = Module & {
   querySlug?: QuerySlug
   queryKey?: QueryKey
   queryArgument?: QueryArgument
+  readLiveFrom?: ReadLiveFrom
   enabled?: Enabled
   lastValue?: LastValue
   lastValueAt?: LastValueAt
@@ -55,6 +57,7 @@ export const readout = {
     "number-property/place",
     "relation-property/color-from-slug",
     "relation-property/group-slugs",
+    "relation-property/read-live-from",
     "relation-property/scale-slug",
     "text-property/color-slug",
     "text-property/drawn-as",
@@ -87,6 +90,7 @@ export const readout = {
     { pagePropertySlug: "query-slug", required: false, many: false },
     { pagePropertySlug: "query-key", required: false, many: false },
     { pagePropertySlug: "query-argument", required: false, many: false },
+    { pagePropertySlug: "read-live-from", required: false, many: false },
     { pagePropertySlug: "readout-enabled", required: false, many: false, default: "true" },
     { pagePropertySlug: "last-value", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "last-value-at", required: false, many: false, uncommitted: true },
