@@ -16,7 +16,6 @@
     "infra/voice-infer",
     "infra/wan",
     "infra/workspace-cli",
-    "infra/zimage",
     "readouts",
     "shared/vscode-typings",
     "tools/lib",
