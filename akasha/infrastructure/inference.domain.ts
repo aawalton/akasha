@@ -5,7 +5,11 @@ export const inference = {
   pageTypeSlug: "domain",
   slug: "inference",
   definition: "the services that run models and keep a record of every run",
-  partSlugs: ["domain/generation"],
+  partSlugs: [
+    "domain/generation",
+    "workspace-package/inference-pool",
+    "workspace-package/voice-inference",
+  ],
   invariants: [
     {
       invariantKind: "departure",

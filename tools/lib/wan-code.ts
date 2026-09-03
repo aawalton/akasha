@@ -1,12 +1,12 @@
-import * as extendGraphModule from "@infra/wan/cli/extend-graph"
-import * as i2vGraphModule from "@infra/wan/cli/i2v-graph"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import {
   WAN_DEFAULT_NEGATIVE_PROMPT,
   WAN_FPS,
   WAN_FULL_STEPS,
   WAN_LIGHTNING_STEPS,
-} from "@infra/wan/cli/wan-backbone"
-import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
+} from "@akasha/wan/wan-backbone"
+import * as extendGraphModule from "@akasha/wan/wan-extend-graph"
+import * as i2vGraphModule from "@akasha/wan/wan-i2v-graph"
 import { z } from "zod"
 import { fetchImage, runComfyGraph } from "./inference/cli/comfy-client.ts"
 import { buildInferenceRunRecord, sha256Hex } from "./inference/inference-run-record.ts"

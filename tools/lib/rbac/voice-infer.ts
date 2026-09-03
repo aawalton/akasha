@@ -1,6 +1,6 @@
 import type { NamespaceProfile } from "@akasha/workflow-language/rbac-types"
 
-export const packageName = "@infra/voice-infer"
+export const packageName = "@akasha/voice-inference"
 
 export const profiles: NamespaceProfile[] = [
   {

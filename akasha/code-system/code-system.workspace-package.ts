@@ -8,6 +8,8 @@ export const codeSystem = {
   manifest: "json",
   partSlugs: [
     "page-type/module",
+    "page-type/container-recipe",
+    "page-type/python-module",
     "page-type/eso-addon",
     "page-type/eso-interface",
     "page-type/ios-app",

@@ -1,6 +1,6 @@
-import { PoolConfigSchema } from "@infra/inference/src/services/traffic-cop/config"
+import { PoolConfigSchema } from "@akasha/inference-pool/pool-config"
 
-export type { PoolConfig, PoolService } from "@infra/inference/src/services/traffic-cop/config"
+export type { PoolConfig, PoolService } from "@akasha/inference-pool/pool-config"
 
 export async function trafficCopPoolConfigSchema(): Promise<typeof PoolConfigSchema> {
   return PoolConfigSchema
