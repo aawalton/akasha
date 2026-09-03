@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceSpearShards = {
-  id: "01a05fd2-1e89-7627-9961-9999e15f402e",
+  id: "019e6f53-a98e-7ec0-b349-68075492af83",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-spear-shards",
   title: "Vengeance Spear Shards",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeancePowerBash = {
-  id: "01a05fd2-1e7d-7892-8da8-1961329f0bc5",
+  id: "019e6f53-a954-741f-827a-6e96344e451c",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-power-bash",
   title: "Vengeance Power Bash",

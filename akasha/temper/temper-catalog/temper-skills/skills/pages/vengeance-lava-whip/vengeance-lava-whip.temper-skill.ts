@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceLavaWhip = {
-  id: "01a05fd1-d2ae-7f77-9004-45814405babe",
+  id: "019e6f53-a92d-7aa7-83a7-9f3d74edd06f",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-lava-whip",
   title: "Vengeance Lava Whip",

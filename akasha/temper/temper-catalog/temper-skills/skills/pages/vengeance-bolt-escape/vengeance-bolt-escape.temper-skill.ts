@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceBoltEscape = {
-  id: "01a05fd1-d28d-7d90-a3c5-3a0e5002457d",
+  id: "019e6f53-a8c6-7610-8f34-2e711258ccf7",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-bolt-escape",
   title: "Vengeance Bolt Escape",

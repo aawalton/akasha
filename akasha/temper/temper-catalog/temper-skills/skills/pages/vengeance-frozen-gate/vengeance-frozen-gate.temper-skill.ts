@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceFrozenGate = {
-  id: "01a05fd1-d2a7-7e22-82fa-0efc80f6ea3a",
+  id: "019e6f53-a917-7ecd-9835-855a06b9301f",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-frozen-gate",
   title: "Vengeance Frozen Gate",

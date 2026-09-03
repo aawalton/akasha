@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceRadialSweep = {
-  id: "01a05fd2-1e7e-7998-9531-829738856194",
+  id: "019e6f53-a959-7e58-bfa5-c815fed44038",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-radial-sweep",
   title: "Vengeance Radial Sweep",

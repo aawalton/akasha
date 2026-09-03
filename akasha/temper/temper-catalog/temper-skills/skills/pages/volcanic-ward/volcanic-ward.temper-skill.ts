@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const volcanicWard = {
-  id: "01a05fd2-1e94-7fe4-b4f7-dc2b4ac9bf33",
+  id: "019e6245-a766-73e5-834e-a9a10a99f219",
   pageTypeSlug: "temper-skill",
   slug: "volcanic-ward",
   title: "Volcanic Ward",

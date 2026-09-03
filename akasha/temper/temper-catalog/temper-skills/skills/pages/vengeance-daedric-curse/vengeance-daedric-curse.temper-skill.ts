@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceDaedricCurse = {
-  id: "01a05fd1-d294-7bbf-9c1e-4c80e2b9f364",
+  id: "019e6f53-a8e0-7feb-bb73-f400a371d872",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-daedric-curse",
   title: "Vengeance Daedric Curse",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceScorch = {
-  id: "01a05fd2-1e85-7db5-ab00-e90f1c4b1874",
+  id: "019e6f53-a97a-7dbb-b9bf-99d38018fa5f",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-scorch",
   title: "Vengeance Scorch",

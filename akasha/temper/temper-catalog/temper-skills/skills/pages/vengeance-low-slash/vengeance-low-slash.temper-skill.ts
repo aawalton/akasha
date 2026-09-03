@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceLowSlash = {
-  id: "01a05fd2-1e76-7aae-b8ed-f0746e734049",
+  id: "019e6f53-a936-7345-b7fd-66a82b7cdfb6",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-low-slash",
   title: "Vengeance Low Slash",

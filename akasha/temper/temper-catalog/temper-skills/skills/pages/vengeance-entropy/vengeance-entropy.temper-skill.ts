@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceEntropy = {
-  id: "01a05fd1-d29f-7d99-8a3e-6d2cbe109fe2",
+  id: "019e6f53-a8ff-7be5-be72-043ce194bde0",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-entropy",
   title: "Vengeance Entropy",

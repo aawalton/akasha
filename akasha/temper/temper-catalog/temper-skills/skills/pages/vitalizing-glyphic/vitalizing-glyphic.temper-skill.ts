@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vitalizingGlyphic = {
-  id: "01a05fd2-1e93-7fd0-8f4a-b9f67b4c5f20",
+  id: "019e6f53-a9c9-793c-98d5-055f6c09fda3",
   pageTypeSlug: "temper-skill",
   slug: "vitalizing-glyphic",
   title: "Vitalizing Glyphic",

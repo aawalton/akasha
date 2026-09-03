@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const volcanicRune = {
-  id: "01a05fd2-1e93-7877-8b07-8819b7214ccf",
+  id: "019e6238-c32d-7c6b-bf4b-ab94a448fd05",
   pageTypeSlug: "temper-skill",
   slug: "volcanic-rune",
   title: "Volcanic Rune",

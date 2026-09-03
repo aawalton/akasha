@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const wellspringOfTheAbyss = {
-  id: "01a05fd2-1e96-72d4-8bc6-f78b4e48c90e",
+  id: "019e6245-a769-7a21-a053-8299fd9c6c2b",
   pageTypeSlug: "temper-skill",
   slug: "wellspring-of-the-abyss",
   title: "Wellspring of the Abyss",

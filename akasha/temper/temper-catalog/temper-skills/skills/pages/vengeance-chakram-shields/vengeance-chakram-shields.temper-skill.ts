@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceChakramShields = {
-  id: "01a05fd1-d290-7384-b517-5a8cdf1beeb0",
+  id: "019e6f53-a8d1-7b99-988a-e2ebb01f8eb8",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-chakram-shields",
   title: "Vengeance Chakram Shields",

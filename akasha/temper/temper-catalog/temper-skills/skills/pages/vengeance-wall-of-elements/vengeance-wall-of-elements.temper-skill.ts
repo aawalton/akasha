@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceWallOfElements = {
-  id: "01a05fd2-1e8f-7d6a-b176-0fc848049b45",
+  id: "019e6f53-a9ae-7a7a-b853-8370a24db2a4",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-wall-of-elements",
   title: "Vengeance Wall of Elements",

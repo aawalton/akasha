@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const werewolfBerserker39076 = {
-  id: "01a05fd2-1e96-785e-a5e7-fbca2bfc5ee4",
+  id: "019e6f53-a9e5-750a-a40e-92e4951adfc4",
   pageTypeSlug: "temper-skill",
   slug: "werewolf-berserker-39076",
   title: "Werewolf Berserker",

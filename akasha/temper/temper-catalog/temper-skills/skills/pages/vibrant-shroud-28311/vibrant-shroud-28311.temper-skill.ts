@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vibrantShroud28311 = {
-  id: "01a05fd2-1e92-7c3c-8541-25b82d0c5ad3",
+  id: "019e6f53-a9c2-7f83-aefe-4da3ade87974",
   pageTypeSlug: "temper-skill",
   slug: "vibrant-shroud-28311",
   title: "Vibrant Shroud",

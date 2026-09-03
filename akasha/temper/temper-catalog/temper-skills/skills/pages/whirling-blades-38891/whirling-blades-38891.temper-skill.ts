@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const whirlingBlades38891 = {
-  id: "01a05fd2-1e97-7177-a888-8a11cc8618b9",
+  id: "019e6f53-a9ec-7149-aa13-cda411d0c5ed",
   pageTypeSlug: "temper-skill",
   slug: "whirling-blades-38891",
   title: "Whirling Blades",

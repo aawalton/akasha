@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceOfEldritchHorror = {
-  id: "01a05fd2-1e7a-78ef-ac92-ad240f4051e3",
+  id: "019e6f53-a948-7a9f-be99-a266b37744ae",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-of-eldritch-horror",
   title: "Vengeance of Eldritch Horror",

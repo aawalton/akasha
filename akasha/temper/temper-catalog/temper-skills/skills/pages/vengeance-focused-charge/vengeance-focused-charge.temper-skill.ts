@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceFocusedCharge = {
-  id: "01a05fd1-d2a5-713b-9488-f0aee33e306c",
+  id: "019e6f53-a910-7c8e-a2f1-e172dd1aa376",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-focused-charge",
   title: "Vengeance Focused Charge",

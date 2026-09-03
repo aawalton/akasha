@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceRunePrison = {
-  id: "01a05fd2-1e82-7459-8719-235e1986e5ee",
+  id: "019e6f53-a96d-7e1c-9a4d-9d9abd8e07be",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-rune-prison",
   title: "Vengeance Rune Prison",

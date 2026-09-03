@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceReverseSlash = {
-  id: "01a05fd2-1e82-7bf4-9c6a-463b6de632d1",
+  id: "019e6f53-a969-78da-b3b8-2dafbbae504e",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-reverse-slash",
   title: "Vengeance Reverse Slash",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vengeanceVitalizingGlyphic = {
-  id: "01a05fd2-1e8f-70d7-8048-86e32f7571cf",
+  id: "019e6f53-a9ab-7c6e-b32b-0156061f3f21",
   pageTypeSlug: "temper-skill",
   slug: "vengeance-vitalizing-glyphic",
   title: "Vengeance Vitalizing Glyphic",
