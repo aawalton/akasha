@@ -1,0 +1,19 @@
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+
+export const theLegendOfRandidlyGhosthound0708Chapter2443 = {
+  id: "01a06591-437a-7f81-a55f-f5be00245fc4",
+  pageTypeSlug: "story-chapter-read",
+  slug: "the-legend-of-randidly-ghosthound-0708-chapter-2443",
+  title: "Chapter 2443",
+  partOfSlugs: ["the-legend-of-randidly-ghosthound"],
+  position: 708,
+  ownLength: 2473,
+  ownProgress: 2473,
+  unitSlug: "words",
+  completedAt: "2026-06-29T22:05:28.727Z",
+  publishedAt: "2024-09-19",
+  externalLink:
+    "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/1810587/chapter-2443",
+  externalId: "1810587",
+  prose: "txt",
+} as const satisfies StoryChapterRead
