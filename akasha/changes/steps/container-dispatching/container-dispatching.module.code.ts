@@ -8,11 +8,11 @@ import {
   TICK_MS,
 } from "@akasha/ci-containers/ci-dispatcher-tick"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { stepDefinition } from "@tools/lib/step-definition"
 import {
   sleptUntilStopped,
   stopsOnSignal,
 } from "../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+import { stepDefinition } from "../step-definition/step-definition.module.code.ts"
 
 async function main(): Promise<void> {
   const ac = stopsOnSignal()

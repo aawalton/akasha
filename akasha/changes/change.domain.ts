@@ -22,6 +22,7 @@ export const change = {
     "module/pipeline-seqs",
     "module/pipeline-driving",
     "module/pipeline-page-sweeping",
+    "module/step-definition",
     "page-type/workflow-template",
     "page-type/change-kind",
     "page-type/pipeline",
