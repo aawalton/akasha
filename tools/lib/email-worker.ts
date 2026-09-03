@@ -1,10 +1,10 @@
 
 import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { personOr } from "./akasha-people.ts"
-import { forwardOf } from "./email-forward.ts"
+import { forwardOf } from "@akasha/google-email/forwarded-message"
 import { decide, rulesOf } from "./email-rules.ts"
 import type { Rule } from "./email-rules.ts"
-import type { Mailbox, Message } from "./gmail.ts"
+import type { Mailbox, Message } from "@akasha/google-email/gmail-mailbox"
 
 const STATE_DIR = `${process.env.HOME ?? "/nonexistent"}/.local/state/alan-email`
 const STATE_FILE = `${STATE_DIR}/state.json`

@@ -13,7 +13,7 @@ import { parseMatch, ruleFolderOf, ruleLocation } from "./email-rule.ts"
 import { emailRuleSet } from "./email-rule-set.ts"
 import type { Rule } from "./email-rules.ts"
 import { rulesOf } from "./email-rules.ts"
-import type { Message } from "./gmail.ts"
+import type { Message } from "@akasha/google-email/gmail-mailbox"
 import type { Group, Meeting, Printers, RuleSubject, Unreadable } from "./rules-subject.ts"
 
 export const MESSAGES = "distinguishable message(s)"

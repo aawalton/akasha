@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { mailbox } from "../tools/lib/gmail.ts"
+import { mailbox } from "@akasha/google-email/gmail-mailbox"
 import { recordToAgent } from "../tools/lib/agent-record.ts"
 import { markTold, onePass, untoldClaims } from "../tools/lib/email-worker.ts"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"

@@ -5,7 +5,7 @@ import { listField, parseFrontmatter, textField } from "../../page/frontmatter.t
 import type { Condition } from "./email-rule.ts"
 import { parseMatch, ruleFolderIn, ruleKinds } from "./email-rule.ts"
 import { emailRuleSet } from "./email-rule-set.ts"
-import type { Message } from "./gmail.ts"
+import type { Message } from "@akasha/google-email/gmail-mailbox"
 
 export type Action = "notify" | "unsubscribe"
 
