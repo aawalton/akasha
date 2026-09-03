@@ -45,5 +45,32 @@ export const requiredReading = {
       invariantKind: "gap",
       statement: "A seat assigned an initiative reads the persona that initiative states.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "The tool definitions carry context nobody here controls.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "principle",
+      name: "Dilution",
+      act: "Weigh an instruction against every reader at every boot, never against the one it was written for.",
+      warrant:
+        "The cost is not the line but the weight it takes off every other line, and nothing reports that.",
+      aids: [
+        "Put a line on the narrowest document it serves.",
+        "Never reword a narrow line to sound general.",
+      ],
+    },
+    {
+      directiveKind: "principle",
+      name: "Cut The Obvious",
+      act: "Keep an instruction only where Opus 5 would consistently make avoidable mistakes without it.",
+      warrant: "A line the model would have obeyed anyway reads exactly like one it needs.",
+      aids: [
+        "One agent's slip is not a consistent mistake.",
+        "Test a single word the way you test a document.",
+      ],
+    },
   ],
 } as const satisfies Domain
