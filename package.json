@@ -39,7 +39,6 @@
     "infra/workspace-cli",
     "infra/zimage",
     "lua-compiler",
-    "lua-compiler/vendor/*",
     "media/cli",
     "native-shell/atlas",
     "readouts",
