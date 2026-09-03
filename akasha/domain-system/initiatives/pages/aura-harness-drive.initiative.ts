@@ -12,16 +12,18 @@ export const auraHarnessDrive = {
       workingMemory:
         "Chou's eight drives are pages under game-design, each carrying his number, name and definition beside ours. The harness is a memory prosthetic and an executive function support before it is a game, and its win condition is going quiet so Alan leaves. Warm colours and black mean a goal unmet; green and blue are both wins. Recovery is a chain of integrals, stress level to surplus to safety to life satisfaction, each on a longer cadence than the last.",
     },
-    { statement: "Alan's core stoplights are sleep, safety, surplus and capacity." },
     { statement: "Alan's daily upkeep habits read as six attribute stoplights." },
-    { statement: "The Inboxes group has no Texts stoplight." },
     { statement: "Both stoplight sets draw as widgets in Alan's native app." },
-    { statement: "Both stoplight sets draw as sections in the code editor's status bar." },
     { statement: "Every attribute's daily input is recorded where the harness can read it." },
     {
       statement: "Every attribute point is earned at the fixed amount its attribute names.",
       workingMemory:
         "Strength 1000 kg lifted. Endurance 400 active calories. Constitution 100 g whole plants. Wisdom 10,000 net words added to all-about-alan topics. Intelligence 10,000 net words added to the five learn-everything sidecars. Charisma one hour where safety less difficulty is at least 1. Luck one rejection attempt. Words are counted per commit over whole files and never go negative. Bands are blue 2, green 1, yellow 0.5, red 0.25, else black. These amounts are pinned; the bands may be recalibrated.",
+    },
+    {
+      statement: "The index the checks read holds every attribute page.",
+      workingMemory:
+        "The attribute page type and its seven pages landed through the glass in d2b757f1 and 16af44d6, because a page type a change adds is invisible to the checks that read the index, so the parent edge and the pages under it both dangle. `akasha index refresh` is the rebuild that would settle it and it throws ENAMETOOLONG on a persona-wallpaper description used where a file extension belongs.",
     },
     {
       statement: "Every attribute carries the points Alan has earned in it for all time.",
