@@ -3,8 +3,6 @@ import { basename, dirname, join } from "node:path"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import { isMissing } from "@akasha/utils-fs/missing"
 
-export const PART_CEILING_BYTES = 8 * 1024 * 1024
-
 const SUFFIX = ".jsonl"
 
 const UNCOMMITTED_SUFFIX = ".uncommitted.jsonl"

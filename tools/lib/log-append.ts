@@ -3,9 +3,9 @@ import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { uncommittedPartAt } from "@akasha/pages-system/page-file-parts"
-import { PART_CEILING_BYTES } from "../../page/rows-file.ts"
 
 const CALLED_AS = "log-append"
 
@@ -179,7 +179,7 @@ function appenderFor(
       // the same count and both believe they fit. Deciding it as the line arrives keeps the parts
       // exactly as a synchronous append made them, and the queue below keeps the lines in order.
       const size = Buffer.byteLength(text, "utf8") + 1
-      if (bytes > 0 && bytes + size > PART_CEILING_BYTES) {
+      if (bytes > 0 && bytes + size > ENTRY_CEILING) {
         const next = partAt(dayPathOf(dayNameOf(source, seatName, date)), part + 1)
         if (next === null) {
           refused = `no part beyond ${String(part)} could be named beside ${pagePath}`
@@ -224,7 +224,8 @@ export function logWriter(
         if (today !== date) {
           date = today
           appender = appenderFor(root, source, seatName, today)
-          if (appender === null) refused = `no log day could be opened for \`${seatName}\` on ${today}`
+          if (appender === null)
+            refused = `no log day could be opened for \`${seatName}\` on ${today}`
         }
         appender?.append(line)
         const say = appender?.refused() ?? null

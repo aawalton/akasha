@@ -1,7 +1,8 @@
 import { appendFileSync, readFileSync, statSync } from "node:fs"
-import { rowsPartOf, rowsPartsOf, PART_CEILING_BYTES, partNumberOf } from "../../page/rows-file.ts"
-import { isMissing } from "@akasha/utils-fs/missing"
+import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
+import { isMissing } from "@akasha/utils-fs/missing"
+import { partNumberOf, rowsPartOf, rowsPartsOf } from "../../page/rows-file.ts"
 
 export const NAMING: readonly string[] = ["slug", "id"]
 
@@ -83,7 +84,7 @@ export function partsHeld(basePath: string): Part[] {
 
 export function appendable(basePath: string, parts: Part[], line: string): Part {
   const last = parts[parts.length - 1] as Part
-  if (last.lines.length === 0 || last.bytes + byteLength(line) + 1 <= PART_CEILING_BYTES) return last
+  if (last.lines.length === 0 || last.bytes + byteLength(line) + 1 <= ENTRY_CEILING) return last
   const next: Part = {
     path: rowsPartOf(basePath, partNumberOf(last.path) + 1),
     lines: [],
@@ -122,7 +123,7 @@ export function appendLines(basePath: string, lines: readonly string[]): readonl
   }
   for (const line of lines) {
     const size = byteLength(line) + 1
-    if (bytes > 0 && bytes + size > PART_CEILING_BYTES) {
+    if (bytes > 0 && bytes + size > ENTRY_CEILING) {
       flush()
       path = rowsPartOf(basePath, partNumberOf(path) + 1)
       bytes = 0

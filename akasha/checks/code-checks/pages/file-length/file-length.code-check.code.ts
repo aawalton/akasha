@@ -1,3 +1,4 @@
+import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
@@ -8,7 +9,7 @@ import {
 
 export const CEILING = 15000
 
-export const ENTRY_CEILING = 8 * 1024 * 1024
+export { ENTRY_CEILING }
 
 export const MARKUP_CEILING = 128 * 1024
 

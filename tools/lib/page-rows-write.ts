@@ -1,17 +1,29 @@
-import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { randomUUID } from "node:crypto"
 import { existsSync, mkdirSync } from "node:fs"
 import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
-import { partNumberOf, PART_CEILING_BYTES, rowsFileOf, rowsPartOf } from "../../page/rows-file.ts"
+import { duringOneCall } from "@akasha/command-system/during-call"
+import { idOfFilePage as pageId } from "@akasha/file-page-identity"
+import { exclusively } from "@akasha/file-system/exclusive"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
+import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
+import { diskFileTree, type FileTree } from "../../page/file-tree.ts"
+import { judgeRow } from "../../page/property/judge.ts"
+import type { Property } from "../../page/property/property.ts"
+import { partNumberOf, rowsFileOf, rowsPartOf } from "../../page/rows-file.ts"
+import type { RowsHome } from "../page/page-rows-home.ts"
+import { declaredFor } from "../page/page-rows-home.ts"
+import { forgetRowsPages } from "./page-rows.ts"
 import {
   appendable,
   appendLines,
   byteLength,
   lastPartOf,
   linesIn,
-  namedIn,
   NAMING,
+  namedIn,
   objectOfLine,
   type Part,
   partsHeld,
@@ -19,22 +31,10 @@ import {
   standingIn,
   writeOutParts,
 } from "./page-rows-parts.ts"
-import { forgetRowsPages } from "./page-rows.ts"
-import { duringOneCall } from "@akasha/command-system/during-call"
-import { exclusively } from "@akasha/file-system/exclusive"
-import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
-import { type Written } from "./page-write.ts"
-import { commitAll } from "./page-write-commit.ts"
-import { whereFor, type Where } from "./page-write-where.ts"
-import { idOfFilePage as pageId } from "@akasha/file-page-identity"
-import { type FileTree, diskFileTree } from "../../page/file-tree.ts"
-import { judgeRow } from "../../page/property/judge.ts"
-import type { Property } from "../../page/property/property.ts"
-import { declaredFor } from "../page/page-rows-home.ts"
 import { RowsHomeUnresolved, rowsHomeFor } from "./page-rows-resolve.ts"
-import type { RowsHome } from "../page/page-rows-home.ts"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-
+import type { Written } from "./page-write.ts"
+import { commitAll } from "./page-write-commit.ts"
+import { type Where, whereFor } from "./page-write-where.ts"
 
 interface ResolvedHome {
   readonly at: Where
@@ -172,7 +172,8 @@ function landRows(
     }
   }
   const at = standingIn(held)
-  const refused = properties === null ? null : refusalsOver(rows, held, at, act, pageType, properties)
+  const refused =
+    properties === null ? null : refusalsOver(rows, held, at, act, pageType, properties)
   if (refused !== null) return { changed: false, refused, paths: [] }
   for (const values of rows) {
     const named = namedIn(values)
@@ -322,7 +323,7 @@ export function rowAppender(
       // the same count and both believe they fit. Deciding it as the row arrives keeps the parts
       // exactly as a synchronous append made them, and the queue below keeps the rows in order.
       const size = byteLength(line) + 1
-      if (bytes > 0 && bytes + size > PART_CEILING_BYTES) {
+      if (bytes > 0 && bytes + size > ENTRY_CEILING) {
         path = rowsPartOf(where.path, partNumberOf(path) + 1)
         bytes = 0
       }

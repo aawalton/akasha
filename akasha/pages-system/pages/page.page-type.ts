@@ -25,6 +25,7 @@ export const page = {
     { pagePropertySlug: "cover", required: false, many: false },
   ],
   partSlugs: [
+    "module/entry-ceiling",
     "module/markdown-document",
     "module/markdown-page-at",
     "module/markdown-page-name",
