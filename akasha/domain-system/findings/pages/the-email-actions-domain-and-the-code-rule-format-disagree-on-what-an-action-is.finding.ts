@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theEmailActionsDomainAndTheCodeRuleFormatDisagreeOnWhatAnActionIs = {
+  id: "01a06860-54a2-7916-9071-3590c29dee10",
+  pageTypeSlug: "finding",
+  slug: "the-email-actions-domain-and-the-code-rule-format-disagree-on-what-an-action-is",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`akasha/person-system/people/email/email-action/email-action.domain.ts` models archiving, forwarding and skipping as three of its five actions. The 54 code rules do not. Filing is a key of its own holding `archive` or `skip`, forwarding is `forward-to-slug` naming a person, and `actions` admits only `notify` and `unsubscribe`. They were landed on the format's shape rather than the domain's, because that is what the data is.",
+  evidence:
+    'The two akasha pages already disagree in writing. `email-rule-code.page-type.ts` carries `Filing is a key of its own, archiving or skipping, rather than one of the actions.` and the absence `There is no forward action.`, while `email-action.domain.ts` carries `domain/email-action-archive`, `domain/email-action-forward` and `domain/email-action-skip` among its five parts. So this is a tension between two pages inside akasha rather than between akasha and the old system.\n\nThe old system states the same split the page type does. `pages/rules-engine-rule-set/email-rule.rules-engine-rule-set.md` reads that a code rule\'s filing is a key of its own rather than one of its actions, and that a code rule forwards by naming a recipient with no forward action. The three keys were declared separately: `email-rule-code-filing` required over `archive` and `skip`, `email-rule-code-actions` as `list(select(lower-kebab-case), max 2)` over `notify` and `unsubscribe`, and `email-rule-code-forward-to-slug` as a relation onto `person`.\n\nThe data agrees with the format. Over all 54 markdown code rules: `filing` stands on 54, 52 archiving and 2 skipping; `actions` stands on 5 and is `["unsubscribe"]` every time; `forward-to-slug` stands on 6 and is `jenny` every time; `delay` stands on 1 and is `15m`. Nothing writes archiving, skipping or forwarding as an action, so modelling them as actions would have invented values no rule states.\n\nNot measured: whether anything reads the email actions as one vocabulary, in which case the five action domains and the three keys need reconciling rather than recording.',
+} as const satisfies Finding

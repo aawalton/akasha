@@ -1,7 +1,16 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { EmailRule } from "../email-rule.page-type.ts"
+import type { EmailRuleCodeActions } from "./properties/email-rule-code-actions.select-property.ts"
+import type { EmailRuleCodeDelay } from "./properties/email-rule-code-delay.text-property.ts"
+import type { EmailRuleCodeFiling } from "./properties/email-rule-code-filing.select-property.ts"
+import type { EmailRuleCodeForwardToSlug } from "./properties/email-rule-code-forward-to-slug.relation-property.ts"
 
-export type EmailRuleCode = EmailRule
+export type EmailRuleCode = EmailRule & {
+  filing: EmailRuleCodeFiling
+  actions?: readonly EmailRuleCodeActions[]
+  delay?: EmailRuleCodeDelay
+  forwardToSlug?: EmailRuleCodeForwardToSlug
+}
 
 export const emailRuleCode = {
   id: "01a06828-59d3-7d52-bae3-818debc51db7",
@@ -10,6 +19,18 @@ export const emailRuleCode = {
   definition: "an email rule its own clauses carry out",
   pluralSlug: "email-rule-codes",
   extendsSlug: "page-type/email-rule",
+  partSlugs: [
+    "relation-property/email-rule-code-forward-to-slug",
+    "select-property/email-rule-code-actions",
+    "select-property/email-rule-code-filing",
+    "text-property/email-rule-code-delay",
+  ],
+  properties: [
+    { pagePropertySlug: "email-rule-code-filing", required: true, many: false },
+    { pagePropertySlug: "email-rule-code-actions", required: false, many: true, max: 2 },
+    { pagePropertySlug: "email-rule-code-delay", required: false, many: false },
+    { pagePropertySlug: "email-rule-code-forward-to-slug", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -27,11 +48,6 @@ export const emailRuleCode = {
     {
       invariantKind: "absence",
       statement: "There is no forward action.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "The filing, the delay, the actions and who mail is forwarded to are yet to stand as properties.",
     },
   ],
 } as const satisfies PageType

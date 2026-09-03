@@ -7,6 +7,7 @@ export const inbox = {
   definition: "the inboxes Alan keeps at empty",
   pluralSlug: "inboxes",
   partSlugs: [
+    "page-type/email-rule-code",
     "readout/inboxes-email",
     "readout/inboxes-tasks",
     "workstation-service/inbox-reading-service",
@@ -41,6 +42,11 @@ export const inbox = {
     {
       invariantKind: "departure",
       statement: "The game tasks among Alan's inboxes belong to temper rather than here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Alan's own email rules stand here, and the folder they stand in is whose they are.",
     },
   ],
   directives: [

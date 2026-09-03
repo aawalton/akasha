@@ -1,9 +1,11 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
+import type { EmailRuleMatches } from "./properties/email-rule-matches.record-property.ts"
 
 export type EmailRule = Page & {
   title: Title
+  matches: EmailRuleMatches
 }
 
 export const emailRule = {
@@ -13,7 +15,16 @@ export const emailRule = {
   definition: "what to do with some of a person's mail",
   pluralSlug: "email-rules",
   extendsSlug: "page-type/page",
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  partSlugs: [
+    "record-property/email-rule-matches",
+    "select-property/email-rule-match-comparison",
+    "select-property/email-rule-match-field",
+    "text-property/email-rule-match-values",
+  ],
+  properties: [
+    { pagePropertySlug: "title", required: true, many: false },
+    { pagePropertySlug: "email-rule-matches", required: true, many: true, max: 10 },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -33,8 +44,7 @@ export const emailRule = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "The match, the filing, the delay and the actions are yet to stand as properties, so the rule carries only its name.",
+      statement: "The filing, the delay and the actions are yet to stand as properties.",
     },
   ],
 } as const satisfies PageType
