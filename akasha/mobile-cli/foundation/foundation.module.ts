@@ -36,5 +36,15 @@ export const foundation = {
       invariantKind: "absence",
       statement: "An app stating no widget bundle id exports no widget name and no components.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A container step running as root leaves files `git worktree remove` cannot delete.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Taking the mac checkout away falls back to `rm -rf` where `git worktree remove --force` cannot.",
+    },
   ],
 } as const satisfies Module
