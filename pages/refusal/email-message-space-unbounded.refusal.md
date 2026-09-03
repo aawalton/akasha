@@ -16,4 +16,4 @@ What a walk that stopped early reports is not a proof: it finds nothing wrong ov
 
 The count grows with the values the rules compare against rather than with the number of rules, and `contains` values grow it fastest, every one of them standing beside every other. Give a rule a sender to sit under, or take a value out.
 
-Where the rule set is meant to be this large, raise `CEILING` at `tools/lib/rules-partition.ts` and pay the run time. That one number is the ceiling every rule set is walked against.
+Where the rule set is meant to be this large, raise `CEILING` at `akasha/rules-engine/rule-partition/rule-partition.module.code.ts` and pay the run time. That one number is the ceiling every rule set is walked against.
