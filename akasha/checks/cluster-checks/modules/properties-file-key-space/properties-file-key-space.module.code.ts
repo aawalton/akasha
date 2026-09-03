@@ -108,7 +108,7 @@ export function scanPropertiesFileKeySpace(
 }
 
 export const CANARY_FIXTURE =
-  "infra/cluster-checks/__fixtures__/properties-file-key-space/canary.ts"
+  "akasha/checks/cluster-checks/modules/properties-file-key-space/__fixtures__/canary.ts"
 
 export const CANARY_EXPECTED: readonly string[] = [
   `25:{ ${PROPERTIES_FILE_WRONG_KEY}:`,

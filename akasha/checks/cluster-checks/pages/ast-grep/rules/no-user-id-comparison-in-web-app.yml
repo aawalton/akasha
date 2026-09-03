@@ -1,0 +1,41 @@
+id: no-user-id-comparison-in-web-app
+message: |
+  This compares against `USER_ID`, the single-user identity compiled into the source. Code that
+  decides who it serves from that constant serves exactly one person, and widening it to a second
+  means editing and redeploying this file — which is what made every gated surface here Alan-only.
+  Decide from the access record instead: `holdsRouteAccess(userId, target)` in
+  `~/person-access/lib/route-access.server`, with a target from `ROUTE_TARGETS`, which that same
+  file re-exports from `@akasha/person-system/route-access`. Alan holds his own grants as ordinary
+  `person-access` pages, so nothing here has to name him, and opening a surface to somebody new
+  becomes a grant on the access record rather than a deploy.
+
+  BOUNDS — what this rule does NOT cover:
+    * `shared/**`. `assertCredentialPathAllowed` (`supabase/auth/src/protected-user.ts`)
+      compares against `USER_ID` on purpose: it keeps test and dev seams from operating AS the real
+      user, which is a question about a build rather than about who is being served. It sits
+      outside this rule by PATH rather than by an exemption entry, because a path boundary cannot
+      be widened one filename at a time the way an `ignores:` list can.
+    * ASSIGNMENT of the constant. `app/idle/lib/idle-protected-user.ts` re-exports it as
+      `PROTECTED_SAVE_USER_ID`; that is not a comparison and is not matched. Nor is a comparison
+      against that ALIAS — this rule reads the constant's own name and no other.
+    * the raw uuid as a string literal. Three test files under `app/` already spell it, so catching
+      it here would take a test-file exemption this rule declines to open.
+severity: error
+language: ts
+files:
+  - "alanwalton/web/app/**/*.ts"
+  - "alanwalton/web/app/**/*.tsx"
+# Both operand orders and all four equality operators, spelled out. A single
+# `kind: binary_expression` carrying the constant would be shorter and would also fire
+# on `USER_ID + suffix`, which is not a decision about who is being served; enumerating
+# the comparisons is what keeps this rule to the mistake it names.
+rule:
+  any:
+    - pattern: $X === USER_ID
+    - pattern: $X !== USER_ID
+    - pattern: $X == USER_ID
+    - pattern: $X != USER_ID
+    - pattern: USER_ID === $X
+    - pattern: USER_ID !== $X
+    - pattern: USER_ID == $X
+    - pattern: USER_ID != $X
