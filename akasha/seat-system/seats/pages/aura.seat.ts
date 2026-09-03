@@ -5,7 +5,7 @@ export const aura = {
   pageTypeSlug: "seat",
   slug: "aura",
   personaSlug: "aura",
-  assignmentSlug: "domain/game-design",
+  assignmentSlug: "initiative/aura-harness-drive",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
