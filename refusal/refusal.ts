@@ -1,17 +1,8 @@
-import { readFileSync } from "node:fs"
-import { HOLE } from "../page/document/holes.ts"
-import { pageRelIn, placeDirOf } from "../page/page-types.ts"
 import { AKASHA, rootFor, rootsHere } from "@akasha/pages-system/checkout-roots"
+import { textAt, valueAt } from "@akasha/pages-system/page-value"
+import { HOLE } from "../page/document/holes.ts"
 
-const REFUSAL_TYPE = "refusal"
-
-export const REFUSAL_DIR = placeDirOf(REFUSAL_TYPE)
-
-const OPENING = "---\n"
-
-const CLOSING = "\n---\n"
-
-const HEADING = /^#[^\n]*\n/
+const REFUSALS = "akasha/checks/refusals/pages"
 
 export class HoleMismatch extends Error {}
 
@@ -38,15 +29,14 @@ export function refusalText(
   values: Readonly<Record<string, string>>,
   root: string = rootFor(rootsHere(), AKASHA)
 ): string {
-  const at = pageRelIn(root, REFUSAL_TYPE, slug)
-  let raw: string
-  try {
-    raw = readFileSync(`${root}/${at}`, "utf8")
-  } catch {
+  const at = `${REFUSALS}/${slug}.refusal.ts`
+  const value = valueAt(at, root)
+  if (value === null) {
     throw new Error(`${root}/${at} is not there, so there is no refusal to print`)
   }
-  const text = raw.replace(/\r\n/g, "\n")
-  const closed = text.startsWith(OPENING) ? text.indexOf(CLOSING, OPENING.length) : -1
-  const below = closed === -1 ? text : text.slice(closed + CLOSING.length)
-  return fill(below.trimStart().replace(HEADING, "").trim(), values)
+  const text = textAt(value, "text")
+  if (text === null) {
+    throw new Error(`${root}/${at} states no words to print, so there is no refusal to print`)
+  }
+  return fill(text, values)
 }
