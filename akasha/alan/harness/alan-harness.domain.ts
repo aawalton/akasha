@@ -7,6 +7,7 @@ export const alanHarness = {
   definition: "how Alan does things",
   partSlugs: [
     "domain/alan-harness-agents",
+    "domain/code-editor",
     "domain/monarch",
     "domain/safety",
     "domain/surplus",
