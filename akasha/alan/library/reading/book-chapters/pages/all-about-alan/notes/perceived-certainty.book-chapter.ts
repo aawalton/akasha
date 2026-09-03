@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const perceivedCertainty = {
   id: "01a06594-c67b-7014-a6b9-ba7717089902",

@@ -4,16 +4,15 @@ import {
   aloneIn,
   answering,
   heldOr,
-  refusalIn,
   refusedBy,
   told,
+  wasRefused,
   wordsIn,
 } from "../inference-answering/inference-answering.module.code.ts"
 
 export async function inferenceActivate(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])
-  const saidRefused = refusalIn(said)
-  if (saidRefused !== null) return refusedBy(saidRefused)
+  if (wasRefused(said)) return refusedBy(said.refused)
 
   const refusals: string[] = []
   const name = heldOr(aloneIn(said, "the pool service"), refusals) ?? undefined

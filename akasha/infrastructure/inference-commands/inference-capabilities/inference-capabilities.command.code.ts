@@ -8,10 +8,10 @@ import { runSshCapture } from "@akasha/inference-pool/inference-ssh"
 import { buildMfluxQueryScript } from "@akasha/inference-pool/provision-script"
 import {
   answering,
-  refusalIn,
   refusedBy,
   targetOf,
   told,
+  wasRefused,
   wordsIn,
 } from "../inference-answering/inference-answering.module.code.ts"
 
@@ -40,8 +40,7 @@ export function isImagePool(service: InferenceService): boolean {
 
 export async function inferenceCapabilities(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])
-  const saidRefused = refusalIn(said)
-  if (saidRefused !== null) return refusedBy(saidRefused)
+  if (wasRefused(said)) return refusedBy(said.refused)
   if (said.loose.length > 0) {
     return refusedBy([`\`${said.loose[0]}\` follows nothing this takes — it takes nothing`])
   }

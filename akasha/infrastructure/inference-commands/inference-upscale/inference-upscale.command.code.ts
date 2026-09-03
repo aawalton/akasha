@@ -14,9 +14,9 @@ import {
   countAt,
   heldOr,
   oneOf,
-  refusalIn,
   refusedBy,
   told,
+  wasRefused,
   wordsIn,
   wroteTo,
 } from "../inference-answering/inference-answering.module.code.ts"
@@ -71,8 +71,7 @@ export function upscaleHomeOf(said: string | undefined): string {
 
 export async function inferenceUpscale(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)
-  const saidRefused = refusalIn(said)
-  if (saidRefused !== null) return refusedBy(saidRefused)
+  if (wasRefused(said)) return refusedBy(said.refused)
 
   const refusals: string[] = []
   const loose = heldOr(aloneIn(said, "the image"), refusals) ?? undefined

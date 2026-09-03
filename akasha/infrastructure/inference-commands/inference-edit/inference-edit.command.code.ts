@@ -16,9 +16,9 @@ import {
   heldOr,
   oneOf,
   proseNeededAt,
-  refusalIn,
   refusedBy,
   told,
+  wasRefused,
   wordsIn,
   wroteTo,
 } from "../inference-answering/inference-answering.module.code.ts"
@@ -88,8 +88,7 @@ export function configOf(
 
 export async function inferenceEdit(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)
-  const saidRefused = refusalIn(said)
-  if (saidRefused !== null) return refusedBy(saidRefused)
+  if (wasRefused(said)) return refusedBy(said.refused)
 
   const refusals: string[] = said.loose.map(
     (one) => `\`${one}\` follows nothing this takes — it takes flags alone`

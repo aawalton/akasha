@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const thermoregulation = {
   id: "01a06594-c685-7003-86ad-13a169700e75",

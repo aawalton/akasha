@@ -14,10 +14,10 @@ import {
   calledAs,
   countAt,
   heldOr,
-  refusalIn,
   refusedBy,
   serviceNamed,
   told,
+  wasRefused,
   wordsIn,
   wroteTo,
 } from "../inference-answering/inference-answering.module.code.ts"
@@ -62,8 +62,7 @@ const SECOND_MS = 1000
 
 export async function inferenceSegment(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)
-  const saidRefused = refusalIn(said)
-  if (saidRefused !== null) return refusedBy(saidRefused)
+  if (wasRefused(said)) return refusedBy(said.refused)
 
   const refusals: string[] = []
   const loose = heldOr(aloneIn(said, "the image"), refusals) ?? undefined

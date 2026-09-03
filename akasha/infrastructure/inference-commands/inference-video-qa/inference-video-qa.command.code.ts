@@ -20,10 +20,10 @@ import {
   countAt,
   heldOr,
   proseNeededAt,
-  refusalIn,
   refusedBy,
   serviceNamed,
   told,
+  wasRefused,
   wordsIn,
 } from "../inference-answering/inference-answering.module.code.ts"
 
@@ -77,8 +77,7 @@ async function urlsIn(dir: string, wanted: number): Promise<readonly string[]> {
 
 export async function inferenceVideoQa(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, TAKING, [])
-  const saidRefused = refusalIn(said)
-  if (saidRefused !== null) return refusedBy(saidRefused)
+  if (wasRefused(said)) return refusedBy(said.refused)
 
   const refusals: string[] = said.loose.map(
     (one) => `\`${one}\` follows nothing this takes — it takes flags alone`

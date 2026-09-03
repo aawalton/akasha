@@ -1,4 +1,4 @@
-import type { List } from "../../domain-system/lists/list.page-type.ts"
+import type { List } from "../../../domain-system/lists/list.page-type.ts"
 
 export const idleLiveSeat = {
   id: "01a06862-a02e-7ce3-acaa-c4e902ab9c81",
