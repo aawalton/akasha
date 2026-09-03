@@ -1,0 +1,33 @@
+{
+  "name": "@akasha/cluster-manifests",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./app-namespaces-synth": "./app-namespaces-synth/app-namespaces-synth.module.code.ts",
+    "./cgroup-psi-constants": "./cgroup-psi-constants/cgroup-psi-constants.module.code.ts",
+    "./ci-storage-scripts-synth": "./ci-storage-scripts-synth/ci-storage-scripts-synth.module.code.ts",
+    "./cnpg-cluster": "./cnpg-cluster/cnpg-cluster.module.code.ts",
+    "./cnpg-object-store": "./cnpg-object-store/cnpg-object-store.module.code.ts",
+    "./cnpg-scheduled-backup": "./cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts",
+    "./exporter-daemonsets": "./exporter-daemonsets/exporter-daemonsets.module.code.ts",
+    "./headscale-configmaps": "./headscale-configmaps/headscale-configmaps.module.code.ts",
+    "./headscale-constants": "./headscale-constants/headscale-constants.module.code.ts",
+    "./headscale-statefulsets": "./headscale-statefulsets/headscale-statefulsets.module.code.ts",
+    "./kube-state-metrics-manifests": "./kube-state-metrics-manifests/kube-state-metrics-manifests.module.code.ts",
+    "./kubepods-oom-constants": "./kubepods-oom-constants/kubepods-oom-constants.module.code.ts",
+    "./pgbouncer-exporter-manifests": "./pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts",
+    "./postgres-exporter-manifests": "./postgres-exporter-manifests/postgres-exporter-manifests.module.code.ts",
+    "./prometheus-constants": "./prometheus-constants/prometheus-constants.module.code.ts",
+    "./prometheus-manifests": "./prometheus-manifests/prometheus-manifests.module.code.ts",
+    "./query-perf-constants": "./query-perf-constants/query-perf-constants.module.code.ts",
+    "./registry-constants": "./registry-constants/registry-constants.module.code.ts",
+    "./registry-gc-manifests": "./registry-gc-manifests/registry-gc-manifests.module.code.ts",
+    "./retry-transient-ddl": "./retry-transient-ddl/retry-transient-ddl.module.code.ts",
+    "./tunnel-route": "./tunnel-route/tunnel-route.module.code.ts",
+    "./tunnel-route-discovery": "./tunnel-route-discovery/tunnel-route-discovery.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/k8s-types": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
