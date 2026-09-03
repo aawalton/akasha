@@ -21,6 +21,7 @@ export const storyEngine = {
     "page-type/story-build",
     "page-type/story-decision",
     "page-type/named-event",
+    "page-type/gm-doctrine-pack",
     "domain/world-mechanics",
     "workspace-package/story-engine-core",
     "workspace-package/story-ui",
