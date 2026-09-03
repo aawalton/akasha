@@ -14,7 +14,7 @@ import {
   siblingDistDir,
 } from "@akasha/temper-addons-resolve/sibling-addons"
 import { type Zippable, zipSync } from "fflate"
-import { codeRoot } from "../../../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"
 import { addonsResolve } from "../../../../lib/temper-addon-code.ts"

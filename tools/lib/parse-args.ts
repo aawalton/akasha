@@ -1,10 +1,10 @@
 import { readFileSync } from "node:fs"
-import { expandTilde } from "./expand-tilde.ts"
+import { expandTilde } from "@akasha/utils-fs/expand-tilde"
 import { type ExitError, inputError } from "./exit.ts"
 import "./command-entry.ts"
 import type { CommandHelp, HelpFlag } from "../ops/surface.ts"
 import { expandProseRoutes, normalizeRouteValue, planProseRouteReads } from "./prose-route.ts"
-import { suggestClosest } from "./suggest-closest.ts"
+import { suggestClosest } from "@akasha/temper-build-deploy-checks/suggest-closest"
 
 export interface ParsedArgs {
   string: (name: string) => string | undefined

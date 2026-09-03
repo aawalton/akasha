@@ -3,7 +3,7 @@ export const summary = "Regenerate (--fix) or verify the @infra/checks producer 
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import type { CommandHelp } from "../ops/surface.ts"
-import { errorMessage } from "../lib/check-workflow/error-message.ts"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation } from "../lib/check-workflow/population.ts"
 import {
   computeExitCode,

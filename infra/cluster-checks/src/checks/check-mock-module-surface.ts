@@ -14,9 +14,9 @@ import {
   tsFileNodeIdToCodeRepoRel,
 } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { codeRoot } from "../../../../tools/lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { parseArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { computeRuntimeExportSurface } from "../lib/runtime-export-surface.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"

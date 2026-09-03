@@ -16,7 +16,7 @@ import {
 } from "../lib/component-layout-boundary.ts"
 import { isCompoundSlotInBoundedFamily } from "../lib/component-slot-detection.ts"
 import { discoverComponentSources, isBareTs, isExcludedSource } from "../lib/component-sources.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { findHeadStylesViolations } from "../lib/head-styles-violations.ts"
 import { extractJsxClassUsagesFrom } from "../lib/jsx-class-tokens.ts"
 import { collectTopLevelComponentNames } from "../lib/jsx-class-tokens-roots.ts"

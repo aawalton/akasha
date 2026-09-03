@@ -2,7 +2,7 @@ export const summary =
   "Rule that every kubectl command a pipeline-engine step runs is covered by a permission the engine holds"
 
 import type { CommandHelp } from "../ops/surface.ts"
-import { errorMessage } from "../lib/check-workflow/error-message.ts"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation } from "../lib/check-workflow/population.ts"
 import {
   exitOnResult,

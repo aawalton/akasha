@@ -7,7 +7,7 @@ import {
   readSiblingAddonNames,
   siblingDistDir,
 } from "@akasha/temper-addons-resolve/sibling-addons"
-import { codeRoot } from "../../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { dataError, inputError, operationalError } from "../../../lib/exit.ts"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"

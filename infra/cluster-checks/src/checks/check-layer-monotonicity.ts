@@ -16,9 +16,9 @@ import {
 } from "../../../../tools/lib/graph/producers/package/types.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { Edge, Graph, Node } from "../../../../tools/lib/graph/types.ts"
-import { codeRoot } from "../../../../tools/lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { type FunctionalType, FunctionalTypeSchema, RANK_BY_TYPE } from "../../../../tools/lib/check-workflow/functional-type"
 import {
   judgeLayerMonotonicity,

@@ -2,7 +2,7 @@ export const summary =
   "Emit the pipeline-engine ServiceAccount, deploy ClusterRole and ClusterRoleBinding, and the ci namespace Role and RoleBinding, as one YAML document"
 
 import type { CommandHelp } from "../ops/surface.ts"
-import { errorMessage } from "../lib/check-workflow/error-message.ts"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { exitOnToolError } from "../lib/check-workflow/violation-reporter.ts"
 import { tupleOf, tupleSet } from "../lib/cluster-rbac/permissions.ts"
 import { profileSources } from "../lib/cluster-rbac/profiles.ts"

@@ -3,7 +3,7 @@ export const summary = "Rule that every check the composed CI workflows invoke i
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import type { CommandHelp } from "../ops/surface.ts"
-import { errorMessage } from "../lib/check-workflow/error-message.ts"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation, type Population } from "../lib/check-workflow/population.ts"
 import {
   DECLARED_UNEXAMINED_SOURCES,

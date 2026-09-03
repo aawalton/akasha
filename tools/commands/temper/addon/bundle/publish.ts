@@ -4,7 +4,7 @@ export const summary = "Build the Temper addon bundle here and publish it to the
 import { createHash } from "node:crypto"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { codeRoot } from "../../../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { dataError, operationalError } from "../../../../lib/exit.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"

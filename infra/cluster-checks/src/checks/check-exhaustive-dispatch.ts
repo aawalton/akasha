@@ -6,7 +6,7 @@ import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import ts from "typescript"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import {

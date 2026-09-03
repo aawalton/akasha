@@ -2,7 +2,7 @@ export const summary =
   "Rule that the deploy ClusterRole grants create and patch on every cluster-scoped kind the synths emit"
 
 import type { CommandHelp } from "../ops/surface.ts"
-import { errorMessage } from "../lib/check-workflow/error-message.ts"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation } from "../lib/check-workflow/population.ts"
 import {
   exitOnResult,

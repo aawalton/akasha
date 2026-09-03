@@ -27,7 +27,7 @@ import {
 import { applyConsolidationMigrations } from "@akasha/temper-saved-vars-migration/saved-vars-migration"
 import { addonsDir, savedVarsDir as esoSavedVarsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { z } from "zod"
-import { codeRoot } from "../../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { dataError, inputError, operationalError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { addonsResolve } from "../../../lib/temper-addon-code.ts"

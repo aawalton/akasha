@@ -20,7 +20,7 @@ import {
   siblingManifestsIn,
   siblingSourceDir,
 } from "@akasha/temper-addons-resolve/sibling-addons"
-import { codeRoot } from "../../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { dataError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { addonsResolve } from "../../../lib/temper-addon-code.ts"

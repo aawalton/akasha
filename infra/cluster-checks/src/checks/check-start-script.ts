@@ -8,7 +8,7 @@ import { isSynthPath } from "@infra/k8s-synth/manifests"
 import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
 import { z } from "zod"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examineFilePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import {

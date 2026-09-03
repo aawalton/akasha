@@ -5,7 +5,7 @@ export const summary =
 import { realpathSync } from "node:fs"
 import { readFile, writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { codeRoot } from "../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { chatterNamesModule } from "../../lib/eso-chatter-names.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"

@@ -2,7 +2,7 @@
 export const summary = "Port an upstream ESO library's data into the files this repository's package carries"
 
 import { realpathSync } from "node:fs"
-import { codeRoot } from "../../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { inputError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import {

@@ -2,7 +2,7 @@
 export const summary = "Report whether an intentional TestFlight cut is OWED (origin/main is ahead of the last shipped cut) or devices are CURRENT. On-demand, read-only, exit-0 always — a signal you query, never a blocking CI gate"
 
 import type { CommandHelp } from "../../ops/surface.ts"
-import { codeRoot } from "../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { APP_FLAG } from "../../lib/mobile-vocabulary.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { apps, buildInputs, cutFingerprints, gitTreeHash } from "../../lib/mobile-code.ts"

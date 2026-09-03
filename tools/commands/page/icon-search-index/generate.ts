@@ -14,7 +14,7 @@ import {
 import { dirname, join, resolve } from "node:path"
 import { $ } from "bun"
 import * as z from "zod"
-import { codeRoot } from "../../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { operationalError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"

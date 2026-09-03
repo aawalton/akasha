@@ -9,7 +9,7 @@ import {
   type SeriesSpec,
   stageSeries,
 } from "../../lib/akasha-name-series.ts"
-import { codeRoot } from "../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { collectLuaFiles, esoDocApiVersion, esoPaths } from "../../lib/eso-clone-code.ts"
 import { extractColonMethodNames } from "../../lib/eso-colon-methods.ts"
 import { dataError, inputError } from "../../lib/exit.ts"

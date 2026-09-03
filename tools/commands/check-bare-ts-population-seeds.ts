@@ -16,7 +16,7 @@ import {
 import { examinePopulation } from "../lib/check-workflow/population.ts"
 import { ALLOWLISTED_REPO_WIDE_TS_SCANNERS } from "../lib/check-workflow/repo-wide-ts-scanners.ts"
 import { exitOnResult, exitOnToolError } from "../lib/check-workflow/violation-reporter.ts"
-import { codeRoot } from "../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { parseArgs } from "../lib/parse-args.ts"
 import { repoFilesAt } from "../lib/repo-files-at.ts"
 import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"

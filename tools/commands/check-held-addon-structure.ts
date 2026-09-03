@@ -13,7 +13,7 @@ import {
   TERRITORY_MAP_PATH,
 } from "../lib/check-workflow/territory-map.ts"
 import { exitOnResult, exitOnToolError } from "../lib/check-workflow/violation-reporter.ts"
-import { codeRoot } from "../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { parseArgs } from "../lib/parse-args.ts"
 import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import { addonsResolve } from "../lib/temper-addon-code.ts"

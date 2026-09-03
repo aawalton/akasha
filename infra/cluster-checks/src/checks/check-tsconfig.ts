@@ -6,7 +6,7 @@ import { resolve } from "node:path"
 import ts from "typescript"
 import { type TreeReading, treeReadingAt } from "../lib/tree-reading.ts"
 import { workspaceDirsIn } from "../lib/workspace-packages.ts"
-import { codeRoot } from "../../../../tools/lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import {
   ALLOWED_ALLOW_IMPORTING_TS_EXTENSIONS,
   ALLOWED_CYCLES,
@@ -15,7 +15,7 @@ import {
   ALLOWED_SPURIOUS_REFERENCES,
 } from "../lib/check-tsconfig-allowlists.ts"
 import { parseArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { type FunctionalType, FunctionalTypeSchema } from "../../../../tools/lib/check-workflow/functional-type"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import {

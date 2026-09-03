@@ -19,7 +19,7 @@ import {
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
-import { codeRoot } from "../../../../tools/lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { computeInputsHashAcrossRepos } from "../../../../tools/lib/workflow-dsl/inputs-hash.ts"
 import {
   addonBuildPopulationLine,
@@ -27,7 +27,7 @@ import {
   type DeployableOutcome,
 } from "../lib/addon-build-population.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 
 if (import.meta.main) refuseRetired()
 

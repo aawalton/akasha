@@ -12,7 +12,7 @@ import {
   type SidecarCall,
   SIDECAR_HELPER_NAME,
 } from "../lib/check-workflow/code-sync-sidecar-memory.ts"
-import { errorMessage } from "../lib/check-workflow/error-message.ts"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation } from "../lib/check-workflow/population.ts"
 import { loadWorkspaces } from "../lib/check-workflow/test-step-loader.ts"
 import { exitOnResult, exitOnToolError } from "../lib/check-workflow/violation-reporter.ts"

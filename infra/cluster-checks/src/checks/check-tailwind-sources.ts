@@ -3,8 +3,8 @@
 import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
-import { codeRoot } from "../../../../tools/lib/code-root.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { codeRoot } from "@akasha/pages-system/code-root"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { type CssFile, readCssFiles } from "../lib/css-source-directives.ts"

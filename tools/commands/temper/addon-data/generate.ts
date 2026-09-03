@@ -2,7 +2,7 @@
 export const summary = "Generate the addon data files Temper's packages and addons carry, from the pages that hold their source"
 
 import { realpathSync } from "node:fs"
-import { codeRoot } from "../../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { dataError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"

@@ -7,7 +7,7 @@ import { join } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { z } from "zod"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import {
   BYPASS_PREDICATES,

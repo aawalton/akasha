@@ -8,7 +8,7 @@ import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
 import { z } from "zod"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { type FunctionalType, readFunctionalType, workspacePackageJsonPath } from "../../../../tools/lib/check-workflow/functional-type"
 import { type FixpointWorkspace, runFunctionalTypeFixpoint } from "../lib/functional-type-fixpoint.ts"
 import {

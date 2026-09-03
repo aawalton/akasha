@@ -7,7 +7,7 @@ import { resolve } from "node:path"
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import { CHECK_EXEMPT_DIRS } from "../../../../repo/scope/scope.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root"
 import {

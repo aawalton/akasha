@@ -2,7 +2,7 @@ export const summary =
   "Rule that the deploy ClusterRole holds every apiGroup, resource and verb any namespace Role grants"
 
 import type { CommandHelp } from "../ops/surface.ts"
-import { errorMessage } from "../lib/check-workflow/error-message.ts"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation } from "../lib/check-workflow/population.ts"
 import {
   exitOnResult,

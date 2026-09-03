@@ -3,7 +3,7 @@ export const summary =
 
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { codeRoot } from "../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import {
   findUndocumentedRecoveryRates,
   NotesTextSchema,

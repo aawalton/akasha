@@ -4,7 +4,7 @@ import { refuseRetired } from "../lib/retired.ts"
 
 import { existsSync } from "node:fs"
 import { parseArgs } from "../lib/cli-args"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"

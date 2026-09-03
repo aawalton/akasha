@@ -5,7 +5,7 @@ export const summary =
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
 import { z } from "zod"
-import { codeRoot } from "../../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { addonGlobalOwnership, addonsResolve } from "../../../lib/temper-addon-code.ts"
 import {

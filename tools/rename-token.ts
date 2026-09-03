@@ -10,7 +10,7 @@ import { agentId } from "./lib/read-record.ts"
 import { RENAME_TOKEN_HELP } from "./lib/rename-token-help.ts"
 import { type Roots } from "@akasha/pages-system/markdown-page-at"
 import { resolveRoots, targetRoot } from "@akasha/pages-system/checkout-roots"
-import { codeRoot } from "./lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { defaultMessage, fail, land, operational } from "./lib/command.ts"
 import { type Landing } from "../repo/land/land.ts"
 

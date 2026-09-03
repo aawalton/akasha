@@ -9,7 +9,7 @@ import type { HudComponentRecord } from "@akasha/temper-hud-components/hud-compo
 import { HUD_SCENE_CATALOG_SCHEMA } from "@akasha/temper-hud-components/hud-component-record"
 import { buildCatalog } from "@akasha/temper-hud-components/hud-scene-parse"
 import { HUD_SCENE_SOURCE } from "@akasha/temper-hud-components/hud-scene-source"
-import { codeRoot } from "../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { esoPaths } from "../../lib/eso-clone-code.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"

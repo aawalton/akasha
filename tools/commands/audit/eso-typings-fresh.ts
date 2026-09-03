@@ -11,7 +11,7 @@ import type { StampedArtifact } from "@akasha/temper-build-deploy-checks/eso-doc
 import { parseEsoDocApiVersion } from "@akasha/temper-eso-paths/eso-clone-stamp"
 import { esouiDocPath } from "@akasha/temper-eso-paths/eso-paths"
 import { renderAuditReading, summarizeAudit } from "../../lib/audit-reading.ts"
-import { codeRoot } from "../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import type { CommandHelp } from "../../ops/surface.ts"

@@ -7,7 +7,7 @@ import {
   isChecksumSubstitutionStep,
   scanChecksumSubstitutionReachability,
 } from "../lib/check-workflow/checksum-substitution-reachability.ts"
-import { errorMessage } from "../lib/check-workflow/error-message.ts"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation } from "../lib/check-workflow/population.ts"
 import { exitOnResult, exitOnToolError } from "../lib/check-workflow/violation-reporter.ts"
 import { buildWorkflowSurface } from "../lib/workflow-surface/build"

@@ -4,7 +4,7 @@ export const summary = "Rebuild the opt-in ESO API typings this repository carri
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { realpathSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { codeRoot } from "../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { esoPaths } from "../../lib/eso-clone-code.ts"
 import {
   generateEnumsFile,

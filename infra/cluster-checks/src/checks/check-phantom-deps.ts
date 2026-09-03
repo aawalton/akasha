@@ -3,9 +3,9 @@
 import { refuseRetired } from "../lib/retired.ts"
 
 import { resolve } from "node:path"
-import { codeRoot } from "../../../../tools/lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { loadWorkspaces, type WorkspaceData, type WorkspaceGraph } from "./check-phantom-deps-graph.ts"

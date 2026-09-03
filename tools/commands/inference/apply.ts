@@ -1,7 +1,7 @@
 export const summary = "Reconcile declared inference services onto their non-cluster host (apply + prune)"
 
 import type { CommandHelp } from "../../ops/surface.ts"
-import { codeRoot } from "../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { inferenceReconcile } from "../../lib/inference-reconcile.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 

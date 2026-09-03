@@ -1,7 +1,7 @@
 export const summary = "Print the inference reconcile plan without executing it (dry run)"
 
 import type { CommandHelp } from "../../ops/surface.ts"
-import { codeRoot } from "../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { inferenceReconcile } from "../../lib/inference-reconcile.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 

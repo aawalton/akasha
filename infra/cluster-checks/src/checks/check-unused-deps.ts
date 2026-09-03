@@ -2,7 +2,7 @@
 
 import { refuseRetired } from "../lib/retired.ts"
 
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { loadRepoContext, parseArgs } from "./check-unused-deps-context.ts"
 import { findingsForWorkspace } from "./check-unused-deps-credit.ts"

@@ -9,9 +9,9 @@ import {
   YamlFileAttrsSchema,
 } from "../../../../tools/lib/graph/producers/file/yaml-file/types.ts"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { codeRoot } from "../../../../tools/lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { assertManifestShape } from "../lib/sops-manifest.ts"

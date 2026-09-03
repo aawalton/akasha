@@ -4,7 +4,7 @@ import {
   workflowPages,
 } from "../../../../../tools/lib/workflow-dsl/discovery.ts"
 import type { DiscoveredWorkflow, Step } from "../../../../../tools/lib/workflow-dsl/types.ts"
-import { errorMessage } from "../../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import {
   PROBE_CONTEXT_IDS,
   PROBE_CONTEXTS,

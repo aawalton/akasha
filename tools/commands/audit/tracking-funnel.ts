@@ -6,7 +6,7 @@ import { dataError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import type { AuditReading } from "../../lib/audit-reading.ts"
 import { renderAuditReading, summarizeAudit } from "../../lib/audit-reading.ts"
-import { codeRoot } from "../../lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import {
   ALLOWED_TO_REACH,
   type Bypass,

@@ -1,5 +1,5 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { suggestClosest } from "../../../../tools/lib/suggest-closest"
+import { suggestClosest } from "@akasha/temper-build-deploy-checks/suggest-closest"
 
 export type FlagSpec =
   | { readonly kind: "boolean"; readonly default?: boolean }

@@ -11,9 +11,9 @@ import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8
 import { CODE_REPO } from "../../../../repo/scope/scope.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
-import { codeRoot } from "../../../../tools/lib/code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import {
   ACCEPTED_SELECTOR_KEYS_HUMAN,
   evaluateManifestNode,
