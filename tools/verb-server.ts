@@ -2,6 +2,7 @@
 
 import { writeSync } from "node:fs"
 import { duringOneCall } from "@akasha/command-system/during-call"
+import { sayAnswer } from "./lib/answer.ts"
 import { LEASE_ENV, LEASE_MS, leaseAsked, PROTOCOL, VERBS_SERVED } from "./lib/verb-served.ts"
 
 const HELP = `bun tools/verb-server.ts — answer verbs over a pipe, so a caller pays bun's startup once
@@ -70,7 +71,41 @@ const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Verb }>>> = {
   "agent-turn-colors": () => import("./agent-turn-colors.ts"),
   "claude-usage": () => import("./claude-usage.ts"),
   "seat-transcripts": () => import("./seat-transcripts.ts"),
-  "work-tree": () => import("./work-tree.ts"),
+}
+
+// THE VERBS THAT ARE AKASHA COMMANDS RATHER THAN FILES UNDER `tools/`. Each is answered by
+// `calling`, which finds the command's page through the index and runs the code file beside it, in
+// this same held-open runtime. So a verb here costs what one on the LOAD table costs, and the loose
+// file it was is gone rather than kept as a second copy of the same answer.
+//
+// WHAT THIS COUPLES THAT THE LOAD TABLE DID NOT, and it is the thing to know before moving another
+// verb across. `calling` reads `.git/data/index` to find out which page carries a name, so a verb
+// here cannot be answered for a checkout that carries no index, where a verb on the LOAD table
+// needed only the file. `verb-server.test.ts` builds a root of its own holding one page and no
+// index at all, and asks `agent-turn-colors` of it — which is why that verb is still on the table
+// above and why moving it across wants the fixture rebuilt first, not just the entry moved.
+const COMMANDED: ReadonlySet<string> = new Set(["work-tree"])
+
+// LOADED WHEN IT IS FIRST ASKED FOR, like everything on the LOAD table: `calling` reaches the index
+// and the page loader, and hello is meant to go out before any of that is paid for.
+async function commanded(verb: string, argv: readonly string[]): Promise<number> {
+  const { calling } = await import("@akasha/command-system/calling")
+  const { akashaRoot } = await import("@akasha/pages-system/checkout-roots")
+  const root = akashaRoot()
+  const answer = await calling([verb, ...argv], {
+    root,
+    calledAs: "akasha",
+    from: root,
+    writer: null,
+    agentId: null,
+  })
+  for (const one of answer.refusals) process.stderr.write(`${one}\n`)
+  // Said the way every verb says it, so the caller's short-read guard keeps working across the
+  // move: `sayAnswer` states the byte count on stderr before writing the answer on stdout, and
+  // `whole` in the editor's harness refuses an answer whose arrival disagrees with what was said.
+  // A command that returns no line at all says nothing, which is what a refusal is.
+  if (answer.report.length > 0) sayAnswer(answer.report.map((one) => `${one}\n`).join(""))
+  return answer.code
 }
 
 // WHAT KEEPS THE TWO LISTS FROM DRIFTING APART. What this server can load and what the caller
@@ -81,26 +116,40 @@ const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Verb }>>> = {
 // spawned as a fresh child by every poll, which is the fifth of a core this server exists to stop
 // paying, quietly back with nothing reporting it. So they are compared, and a server that finds
 // them apart refuses to be a server.
-export function verbsAdrift(loadable: readonly string[], served: readonly string[]): readonly string[] {
+export function verbsAdrift(
+  loadable: readonly string[],
+  served: readonly string[]
+): readonly string[] {
   const canLoad = new Set(loadable)
   const isNamed = new Set(served)
   return [
     ...served
       .filter((verb) => !canLoad.has(verb))
-      .map((verb) => `${verb} is named in VERBS_SERVED and is not in this server's LOAD table, so every ask for it would be refused as unserved`),
+      .map(
+        (verb) =>
+          `${verb} is named in VERBS_SERVED and is not in this server's LOAD table, so every ask for it would be refused as unserved`
+      ),
     ...loadable
       .filter((verb) => !isNamed.has(verb))
-      .map((verb) => `${verb} is in this server's LOAD table and is not named in VERBS_SERVED, so the caller would spawn a child for it and never ask`),
+      .map(
+        (verb) =>
+          `${verb} is in this server's LOAD table and is not named in VERBS_SERVED, so the caller would spawn a child for it and never ask`
+      ),
   ]
 }
 
-export const VERBS_LOADABLE: readonly string[] = Object.keys(LOAD)
+export const VERBS_LOADABLE: readonly string[] = [...Object.keys(LOAD), ...COMMANDED].sort()
 
 const loaded = new Map<string, Verb>()
 
 async function verbFor(named: string): Promise<Verb | null> {
   const held = loaded.get(named)
   if (held !== undefined) return held
+  if (COMMANDED.has(named)) {
+    const verb: Verb = (argv) => commanded(named, argv)
+    loaded.set(named, verb)
+    return verb
+  }
   const load = LOAD[named]
   if (load === undefined) return null
   const verb = (await load()).main
@@ -163,7 +212,10 @@ interface Caught {
   readonly stderr: string
 }
 
-async function ran(verb: Verb, ask: Ask): Promise<{ readonly code: number; readonly failure: string | null } & Caught> {
+async function ran(
+  verb: Verb,
+  ask: Ask
+): Promise<{ readonly code: number; readonly failure: string | null } & Caught> {
   const out: string[] = []
   const err: string[] = []
   const stdoutWas = process.stdout.write
@@ -171,7 +223,9 @@ async function ran(verb: Verb, ask: Ask): Promise<{ readonly code: number; reado
   const argvWas = process.argv
   const caught = (into: string[]) =>
     ((chunk: unknown, ...rest: readonly unknown[]): boolean => {
-      into.push(typeof chunk === "string" ? chunk : Buffer.from(chunk as Uint8Array).toString("utf8"))
+      into.push(
+        typeof chunk === "string" ? chunk : Buffer.from(chunk as Uint8Array).toString("utf8")
+      )
       const then = rest.find((one) => typeof one === "function")
       if (typeof then === "function") (then as () => void)()
       return true
@@ -196,7 +250,11 @@ async function ran(verb: Verb, ask: Ask): Promise<{ readonly code: number; reado
 async function serve(ask: Ask): Promise<undefined> {
   if (leaseOver || ageMs() >= LEASE) {
     leaseOver = true
-    return refuse(ask, "lease", `this server's lease of ${LEASE}ms is up, so it answers nothing more`)
+    return refuse(
+      ask,
+      "lease",
+      `this server's lease of ${LEASE}ms is up, so it answers nothing more`
+    )
   }
   let verb: Verb | null
   try {
