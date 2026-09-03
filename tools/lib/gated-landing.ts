@@ -1,9 +1,5 @@
-import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join, resolve } from "node:path"
-import { resolveRoots, rootEnvName, rootFor } from "@akasha/pages-system/checkout-roots"
-import { toolArgv } from "./tool-argv.ts"
-
-const SCRATCH_ROOT = "/var/tmp"
+import { landedMechanically } from "@akasha/command-system/asking"
+import { resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export type GatedRepo = "akasha"
 
@@ -23,59 +19,35 @@ export type Landed =
   | { readonly ok: true; readonly sha: string | null; readonly unpushed: string | null }
   | { readonly ok: false; readonly why: string }
 
-interface Run {
-  readonly code: number
-  readonly output: string
+interface Change {
+  readonly path: string
+  readonly body: Uint8Array | null
 }
 
 function rootOf(act: GatedAct): string {
   return act.root ?? rootFor(resolveRoots(), act.repo)
 }
 
-const TOOLS_ROOT = resolve(dirname(new URL(import.meta.url).pathname), "..", "..")
-
-function runTool(act: GatedAct, tool: string, args: readonly string[]): Run {
-  const env: Record<string, string | undefined> = {
-    ...process.env,
-    AGENT_ID: act.writer,
-    ACTING_AGENT_ID: "",
-  }
-  if (act.root !== undefined) env[rootEnvName(act.repo)] = act.root
-  const dir = mkdtempSync(join(SCRATCH_ROOT, "gated-landing-run-"))
-  const outPath = join(dir, "out.txt")
-  try {
-    const sink = Bun.file(outPath)
-    const proc = Bun.spawnSync([process.execPath, ...toolArgv(tool, args, TOOLS_ROOT)], {
-      cwd: rootOf(act),
-      stdout: sink,
-      stderr: sink,
-      env,
-    })
-    let output = ""
-    try {
-      output = readFileSync(outPath, "utf8")
-    } catch {
-      output = ""
-    }
-    return { code: proc.exitCode ?? 1, output: output.trim() }
-  } finally {
-    rmSync(dir, { recursive: true, force: true })
-  }
-}
-
-const COMMITTED = /^commit: /m
+// The landing reports the commit in its own words. The older `commit: <sha>` line came from the
+// ops-cli commands this no longer calls, and is read here too so an older report is still understood.
+const COMMITTED = /(?:committed as|^commit:)\s+([0-9a-f]{7,40})/m
 
 export function shaIn(output: string): string | null {
-  const said = /^commit:\s+([0-9a-f]{7,40})\s*$/m.exec(output)
+  const said = COMMITTED.exec(output)
   return said === null ? null : (said[1] as string)
 }
 
-function outcomeOf(run: Run): Landed {
-  if (run.code === 0) return { ok: true, sha: shaIn(run.output), unpushed: null }
-  if (run.code === 3 && COMMITTED.test(run.output)) {
-    return { ok: true, sha: shaIn(run.output), unpushed: run.output }
+// This runs on the workstation, so the bytes go into the landing in process rather than out to the
+// pages service or through a command line. A body of null is how a landing is told to take a path
+// away, so one call carries both what is written and what goes. A path is read against the root,
+// so it is named relative to the root rather than absolute.
+function landing(act: GatedAct, changes: readonly Change[]): Landed {
+  if (changes.length === 0) return { ok: true, sha: null, unpushed: null }
+  const said = landedMechanically(rootOf(act), act.writer, changes, act.message)
+  if (said.code !== 0) {
+    return { ok: false, why: said.refusals.join("\n") || said.report.join("\n") }
   }
-  return { ok: false, why: run.output }
+  return { ok: true, sha: shaIn(said.report.join("\n")), unpushed: null }
 }
 
 export function landBodies(
@@ -83,43 +55,15 @@ export function landBodies(
   bodies: readonly GatedBody[],
   removing: readonly string[] = []
 ): Landed {
-  if (bodies.length === 0 && removing.length === 0) return { ok: true, sha: null, unpushed: null }
-  const scratch = mkdtempSync(join(SCRATCH_ROOT, "gated-landing-"))
-  try {
-    const input = join(scratch, "write.json")
-    const at = rootOf(act)
-    writeFileSync(
-      input,
-      JSON.stringify(bodies.map((one) => ({ file_path: join(at, one.relPath), content: one.body }))),
-      "utf8"
-    )
-    return outcomeOf(
-      runTool(act, "write.ts", [
-        "--repo",
-        act.repo,
-        "--mechanical",
-        "--input-file",
-        input,
-        ...removing.flatMap((relPath) => ["--remove", join(at, relPath)]),
-        "--message",
-        act.message,
-      ])
-    )
-  } finally {
-    rmSync(scratch, { recursive: true, force: true })
-  }
+  return landing(act, [
+    ...bodies.map((one) => ({ path: one.relPath, body: new TextEncoder().encode(one.body) })),
+    ...removing.map((relPath) => ({ path: relPath, body: null })),
+  ])
 }
 
 export function landRemovals(act: GatedAct, relPaths: readonly string[]): Landed {
-  if (relPaths.length === 0) return { ok: true, sha: null, unpushed: null }
-  const at = rootOf(act)
-  return outcomeOf(
-    runTool(act, "rm.ts", [
-      ...relPaths.map((relPath) => join(at, relPath)),
-      "--repo",
-      act.repo,
-      "--message",
-      act.message,
-    ])
+  return landing(
+    act,
+    relPaths.map((relPath) => ({ path: relPath, body: null }))
   )
 }
