@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/email-watch",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./inbox-run": "./inbox-run/inbox-run.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/google-email": "workspace:*",
+    "@tools/lib": "workspace:*"
+  }
+}

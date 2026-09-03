@@ -23,6 +23,7 @@ export const alanHarness = {
     "workspace-package/sms-core",
     "workspace-package/personas-core",
     "workspace-package/email-inbound",
+    "workspace-package/email-watch",
     "workspace-package/ssh-access",
     "workspace-package/google-oauth",
     "workspace-package/google-drive",

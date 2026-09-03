@@ -666,6 +666,13 @@
     "akasha/email-inbound": {
       "name": "@akasha/email-inbound",
     },
+    "akasha/email-watch": {
+      "name": "@akasha/email-watch",
+      "dependencies": {
+        "@akasha/google-email": "workspace:*",
+        "@tools/lib": "workspace:*",
+      },
+    },
     "akasha/errors-client": {
       "name": "@akasha/errors-client",
       "dependencies": {
@@ -3238,6 +3245,8 @@
     "@akasha/editor-extension": ["@akasha/editor-extension@workspace:akasha/editor-extension"],
 
     "@akasha/email-inbound": ["@akasha/email-inbound@workspace:akasha/email-inbound"],
+
+    "@akasha/email-watch": ["@akasha/email-watch@workspace:akasha/email-watch"],
 
     "@akasha/errors-client": ["@akasha/errors-client@workspace:akasha/errors-client"],
 
