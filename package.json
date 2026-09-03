@@ -39,7 +39,8 @@
     "temper/player-completion",
     "temper/scripts",
     "temper/web",
-    "tools/lib"
+    "tools/lib",
+    "tools/ops"
   ],
   "dependencies": {
     "@akasha/browser-launch-env": "workspace:*",
