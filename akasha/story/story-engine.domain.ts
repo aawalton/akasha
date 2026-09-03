@@ -58,5 +58,34 @@ export const storyEngine = {
       statement:
         "A message wrapped whole in square brackets speaks to the game master rather than acts in the world.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A chapter is what a reader reads at one sitting.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is true in a world that no story has told is a sketch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sketch a story has told becomes lore.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every word a game master is served changes without a deploy.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Alan Approves Lore",
+      act: "Change lore only at Alan's asking; a sketch is yours to change.",
+      warrant:
+        "A chapter read before its lore changed goes false, and nothing re-reads that chapter.",
+      aids: [
+        "New lore that makes a chapter false is a change.",
+        "Take a clash between two pieces of lore to Alan.",
+      ],
+    },
   ],
 } as const satisfies Domain
