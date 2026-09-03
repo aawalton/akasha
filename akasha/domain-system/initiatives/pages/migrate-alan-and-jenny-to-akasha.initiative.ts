@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "16 modules landed. 79 src files and ZERO import cycles — the two type-only pairs were split at 718e4f2b3d with transpiled emit proven identical. NO class blocker remains (6ccb189fc9, bf3ebc59d0; 14 tests hold). The hinge is `command-server-client.ts` — 44 of the rest wait on it, NOT `harness-call.ts` — and it is landable NOW. Left: 13 void-return sites and ~558 comments to triage into 6 to 12 invariants per module. akasha typecheck judged 33134 files and refused none.",
+        "18 modules landed. The hinge `command-server-client` is IN at cb7cbb64c5 and unblocks 44 of the rest. The landing formatter sorts import members and reports only that it reformatted — check the wire key survived each time. ZERO import cycles (718e4f2b3d) and ZERO class blockers (6ccb189fc9, bf3ebc59d0; 14 tests hold). Left: 13 void-return sites and ~558 comments to triage into 6 to 12 invariants per module. Next is `harness-call.ts`, then wave 3.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
