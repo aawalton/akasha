@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aSyncRunRecordWasAblatedOnAPremiseThatHasSinceTurnedFalse = {
+  id: "01a0687b-de90-7001-a005-4c7dd05a8ea1",
+  pageTypeSlug: "finding",
+  slug: "a-sync-run-record-was-ablated-on-a-premise-that-has-since-turned-false",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "A rebuild that ablates behaviour states its reason in the code, and that reason can stop being true without anything failing. `akasha/great-courses/sync-run` records no sync run and says so, on the ground that the record lives outside akasha. The record now lives inside akasha. Two of the three syncs stopped recording runs and nothing reported it, because a sync that records nothing and a sync that records a clean run both exit zero.",
+  evidence:
+    'Measured 2026-09-03. `akasha/great-courses/sync-run/sync-run.module.code.ts` exports `trackSyncRun(source, syncFn)`, whose whole body is a `console.warn` naming `NO_ROW_ROAD` — "a `sync-run` row is inside a page\'s body rather than at a path of its own, the store answers for `akasha/` alone, and this record is `pages/sync/<source>.sync.runs.jsonl` outside it" — then the sync, then a throw if any item failed. No row is opened or settled. That premise is now false: the rows stand at `akasha/collection-system/syncs/pages/<source>.sync.sync-runs.jsonl`, inside akasha. Row counts and newest row at the time of measurement: wandering-inn 213, `2026-09-02T13:41:50Z`; the-great-courses 29, `2026-09-01T13:39:34Z`; royal-road 1,382, `2026-08-18T00:30:43Z`. `akasha/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts` matches `sync-run|runStatus|recordingRun|trackSyncRun|rowLanding|running-run` zero times, against a control confirming the search sees `syncWanderingInn` where it is present. So the only live implementation of run recording in the repository was `tools/lib/wandering-inn/run-record.ts`, reached by the wandering inn sync alone. It was carried into akasha at `ba266f5e38` as `akasha/story/wandering-inn/sync-run-recording`, kept generic in the `source` it records for so great-courses and royal-road can adopt it. Its home is wrong on purpose: it is a collection-system concern sitting in a story package because that is where its only reader lives, and creating a new workspace package for it would have added a contended manifest and a lockfile regeneration to a lane that had both breaking already.',
+} as const satisfies Finding
