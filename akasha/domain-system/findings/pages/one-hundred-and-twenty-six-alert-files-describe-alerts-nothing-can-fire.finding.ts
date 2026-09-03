@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const oneHundredAndTwentySixAlertFilesDescribeAlertsNothingCanFire = {
+  id: "01a0655a-5fb1-7298-b1e8-62b8380ab1d2",
+  pageTypeSlug: "finding",
+  slug: "one-hundred-and-twenty-six-alert-files-describe-alerts-nothing-can-fire",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`pages/alert` holds 65 alert pages and 61 description attachments, and no alert any of them names can fire, because the Prometheus this repository deploys is given an empty rule set. Their one reader is a CLI nothing in the repository invokes. This is the shape `forty-two-refusal-documents-reach-no-instrument` found, one folder over and whole rather than in part.",
+  evidence:
+    "Measured 2026-09-03.\n\nNOTHING FIRES THEM. `infra/k8s/src/prometheus/synth-prometheus.ts:13` declares `const NO_ALERT_RULES = \"groups: []\\n\"` and `:26` is the only writer of the configmap's `alerts.yml` key, which takes it. `infra/k8s/src/prometheus/generated/prometheus-configmap.generated.yaml:13-14` is that output on disk. Searching the repository outside node_modules and .git for a PromQL rule key, `- alert:` at the head of a YAML entry, returns nothing, and `expr:` under `infra/` returns only TypeScript AST variables in `infra/cluster-checks/src/lib/`. No alert expression exists anywhere to evaluate.\n\nNOTHING READS THEM EITHER. 38 of the 65 template `{{ $labels.* }}` into `summary`, so they are written as Prometheus rule annotations. `tools/lib/recipient-derivation.ts:62` `readAlertRequirements` is the only code that reads a page of type `alert`; it takes each page's `domain` and `person-slug` and answers who a firing alert is owed to. Its one caller is `resolveAlertRecipient` at `:75`, whose one caller is the `alertRecipient` key at `tools/recipient.ts:59`. Searching every `.ts`, `.sh`, `.md` and `.json` outside node_modules, dist and .git for `recipient.ts`, `ops recipient` or `alertRecipient` returns no site but those two files. No service, script, tool or document invokes it.\n\nSo the routing table is complete and unreached: 65 pages saying who answers for an alert, behind a decision no caller asks, about alerts no rule can raise. 53 name `domain: infrastructure`; one carries a `person-slug`.\n\nI did not remove them. A refusal document is only a string to print, so an unprinted one is nothing; an alert page carries a definition and a runbook attachment saying what to check, which outlives the deployment gap. What is missing is the rules, not the pages.",
+} as const satisfies Finding
