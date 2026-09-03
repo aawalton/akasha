@@ -14,6 +14,7 @@ import { indexImport } from "../index/import/index-import.index.ts"
 import { indexPath } from "../index/path/index-path.index.ts"
 import { indexRelation } from "../index/relation/index-relation.index.ts"
 import { indexSchema } from "../index/schema/index-schema.index.ts"
+import { indexValue } from "../index/value/index-value.index.ts"
 import type { Entry } from "../index-entries/index-entries.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import {
@@ -107,6 +108,14 @@ export function listedAlsoFiled(
   lines: readonly unknown[]
 ): undefined {
   adding(root, join(indexIdentity.name, pageTypeSlug, SLUG, slug), lines)
+}
+
+export function valueAlsoFiled(
+  root: string,
+  pageTypeSlug: string,
+  lines: readonly unknown[]
+): undefined {
+  adding(root, join(indexValue.name, pageTypeSlug), lines)
 }
 
 export function listedFiledIn(root: string, pageTypeSlug: string, slug: string): boolean {

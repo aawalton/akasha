@@ -1,6 +1,12 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { listedFiled, pathFiled, relationFiled, schemaFiled } from "@akasha/indexes/testing"
+import {
+  listedFiled,
+  pathFiled,
+  relationFiled,
+  schemaFiled,
+  valueAlsoFiled,
+} from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
@@ -47,6 +53,19 @@ export function typed(
     `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said},` +
       ` properties: [${declared(declares)}] }\n`
   )
+  // what a page type declares is read from its value, so a world that types one files it
+  valueAlsoFiled(root, PAGE_TYPE, [
+    {
+      path,
+      value: {
+        id: `id-${slug}`,
+        pageTypeSlug: PAGE_TYPE,
+        slug,
+        extendsSlug: above === null ? null : `${PAGE_TYPE}/${above}`,
+        properties: declares.map((one) => ({ pagePropertySlug: one })),
+      },
+    },
+  ])
 }
 
 export type Shape = {
