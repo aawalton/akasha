@@ -1,0 +1,98 @@
+Chapter 493
+
+Taking a slightly wider than normal rectangle of talisman paper off the stack, Quill quickly dipped it in a lime green alchemical solution before plunging it into a bath of Tier 10 resonance aura.
+
+Watching the countdown, he glared at the stumbling block of three months. Thanks to Amelia’s help, he’d been sure that a talisman parchment would be the material he needed, but after months of failing to properly imbue various animal hides with resonance aura, he’d started looking for alternatives.
+
+The good news was that the best base talisman material he’d been able to locate was a surprisingly cheap paper that could be made out of a mixture of wheat, straw and a few common elemental herbs. The latter could be tweaked to better target the specific monster the talisman was going to be used on, but that wasn’t what he wanted out of them.
+
+The bad news was that any savings the talisman material might give was swallowed by the aura imbuing process and then some.
+
+When the timer reached zero, he immediately withdrew the talisman paper from the resonance aura while wrapping it with his spiritual perception, locking the aura that tried to dissipate upon contact with the air. Quickly dipping it in two stabilizing solutions, he pulled all the moisture he could out of the soaked papers before dunking it back into the resonance aura for the briefest instant.
+
+Slowly waving it through a carefully aerosoled finishing solution, Quill scrutinized the talisman paper and the perfectly blended aura. It looked good. Between the unprocessed wheat paper’s tan hue, and the processes required to lock the resonance aura in, the final product had a high quality feel and appearance.
+
+It was incidental, but would help justify the final prices he intended to charge.
+
+Going through the process fourteen more times, he had eleven products he considered acceptable, with four encountering problems in the processing. In production, he’d expect them to be thrown out, but he was testing and so kept them.
+
+Taking his time, Quill carefully drew the detailed runic formations on each of the fifteen talismans. When he was done, he opened a [Portal] into his business and popped through to find most of his employees settling into their roles.
+
+The enchanters and his two testers were waiting eagerly in one of the break rooms. When he arrived, they took a [Portal] to the outer system where low Tier rifts were more plentiful and testing could commence.
+
+Quill watched as his people slipped into rifts, sighing at his misfortune. He’d love to be doing it all himself, or at least assisting, but he was left twiddling his thumbs as his people vanished. Twenty minutes later, the last one exited with a smile on their face, sending him their recordings of the delve while removing the talisman.
+
+With all the tests and not a single new problem cropping up this time, Quill let his happiness shine through.
+
+Whistling, he opened the [Portal] and brought his people back. He didn’t need to tell them work was officially about to start, and from the eagerness in their eyes, they were just as excited as he was. A universal tracking talisman had been a dream creation for countless generations of talisman designers. He just needed to succeed one more time.
+
+With a working long form talisman, the last step was to simplify the entire talisman into less than a dozen runes. It also happened to be one of the hardest steps. More often than not, it served as the dividing line between the profitable talismans and trash. In fact, most talisman development could be encompassed in that final step.
+
+There, the designer had to take a book's worth of information and condense it into a few pages. Far from an easy step on its own, most talismans in development stopped there. They might exist but the effort, resources, and time required to create each talisman ensured they would never leave a workshop.
+
+However, that was far from the limit. A skilled enough, or Talented, crafter could reduce that book into a single page worth of text. That level of simplification was generally considered the baseline for profitability, but came with its own issues.
+
+It was all too easy when condensing information to complicate the resulting runes to the point few talisman artists could make the final product. The commonly available runes, pulled from rifts, created from spell effects, or simplified themselves all had gone through the process, to the point that entire concepts could be conveyed with a singular easy to draw rune.
+
+Quill would have loved to grab presolved answers, but he’d developed several entirely new systems that didn’t have untold years of refinement behind them.
+
+Letting his [AI] condense what he could, Quill was left with a patchwork book that had entire sections left in long form between intermittent and varied shorthand. Together with his employees and a few messages to Titan’s Torch, they managed to reduce everything down to two pages worth of information, with just under half being presimplified.
+
+At that point, Quill took everything they had and threw it into his [AI], letting it iterate on the problem and see what it would come up with. He’d already had it working on the entirely new runes, but combining its previous efforts with their inputs bred fantastic results.
+
+Two months and dozens iterations later, they had something he happily called a viable product.
+
+His [AI] had two downright ingenious ideas among the numerous ones he rejected. The first was a specific modification of the cycle gate he’d created. At first it only seemed like a new, more robust variation of the existing rune, making it better handle the aura empowered activations. But the refinement let him fit another cycle limit, giving the talisman more flexibility. He set it to ten by default, giving delvers a longer term tracking option at the cost of wasting cycles should they need it. Because he was nice, and it made less work for him, he ensured that a skilled enough talisman maker could change that final preset number on the fly by leaving it on the outermost edge of the talisman.
+
+The second improvement his [AI] managed was condensing the blood tracking runes by half again what he’d been able to do after weeks of iterations. Seeing the result, he couldn’t help but question whether his [AI] was mad or clever. Blending both the blood sensing and detecting runes together never should have worked, but he couldn’t find any degradation between long and short-form testing.
+
+The resulting rune looked like a complicated butterfly wing, with one half containing four overlapping runes, and the other empty. It was undoubtedly one of the most complex runes that neared the limit of what the average at-Tier talisman artist could draw, but compared to the three runes it was replacing, it was an improvement.
+
+Everything else it offered were smaller but helpful shortcuts.
+
+Not content with releasing a single product like he had at Tier 10, their next task was scaling the talisman’s Tier up and down.
+
+Catching what felt like his first break in the project, Quill was happy when his previous care in his rune choices meant his [AI] was able to downgrade the existing Tier 30 talisman blueprint into a Tier 15 variant without any substantial issues. He really wanted to make a mortal Tier variation, but breaking through that barrier felt like a wall.
+
+After two months with no progress, he redirected their focus upward. Things seemed to go well until Tier 38, where his [AI] failed to deduce a simplified tracking rune that could work with the available low Tier aura, and he accepted his current design limits.
+
+He wasn’t too upset. Tier 15 through Tier 37 may have covered slightly less than half of the Realm’s Tiers, but they were also some of the most valuable markets, especially for delving commodities. Immortals, and delvers in particular, had all the time in the world to deepen their bank accounts, and they would spend when it mattered.
+
+Feeling playful, he checked his weekly ducal update and saw that Tim was between projects. His unwitting retainer seemed like the perfect person to help them get the talisman below Tier 15, so after confirming with Luna, he hired him as a foreign contractor.
+
+Quill was confident he was breaking several laws by doing so, but when submitting his credentials to the Corporations’ database, he solved them all by putting Rosemarie as Tim’s local reference. For reasons unknown to him, the application was approved after only a week rather than the decades he was warned the process normally took.
+
+Knowing Tim’s previous Domain and motivation hardship, Quill didn’t want to push too much work on him, but the kid seemed especially eager.
+
+Quill's correspondence with Luna about how he could take advantage of his skill amnesia revealed why, and he couldn't help but laugh when he watched Luna’s gloating reply message.
+
+Looking like she just came back from a night in high society, Luna sat in a wicker chair with a glass of something amber in her off hand.
+
+As interesting as seeing his manager dressed up was, his attention was drawn to her shit eating grin. “Well timed? Your delusions make me laugh. I figured there was a better than even chance you would want an assistant for testing lower Tier things when you told me about the trip and making a business. The good timing isn't now, it was you telling me then, before we unleashed our own rabbit for him to chase. You're welcome, and don’t forget to send me the data from your training. If you haven't done it yet, find the time. I’m visiting friends I haven’t seen in a while, and if you make me come and get them myself I will take more than a pound of flesh.”
+
+Seeing her teeth start to transform as her smile turned feral, Quill sent her the information but deliberately sent it the slowest way he thought he could get away with. She had given him the excuse and he was going to milk it for all it was worth. How could she get mad at him when he framed it as giving her a few more uninterrupted days with her friends?
+
+Of course, they both knew the picture of the estimated delivery date he sent express was just in case something happened to the first message and she needed to track it down. He was being careful, just like she taught him.
+
+Feeling great, he didn’t even mind every time JR got to drill holes in his mind. With each session things were improving, but he would be lying if he said he enjoyed them. He was thoroughly looking forward to when the Natural Treasures were processed, as JR said most of the pain would end there.
+
+That implied more pain would happen after, but the break would be welcome.
+
+What he did enjoy was the talisman reveal he gave to his friends.
+
+Happily handing everyone a talisman of the appropriate Tier, he explained as he walked. “They aren’t perfect, and my people are still testing some possible improvements, but they are universal tracking talismans. One drop of blood and you get just over two hours worth of cycles. At Tier 25, that means close to 72,000 cycles with a new ping ten times a second. At Tier 15, it's slightly under the expected 21,600, which would equate to about three every second. But not by much. Tier 35 ones normally get just over the expected 1,440,000, which is fantastic.”
+
+Impatient, Allie waved at him as she fiddled with the talisman. “Okay, but how do they work? I was told I need blood. I expected a circle or maybe a box. I just see squiggles. Can I just put the blood anywhere?”
+
+“I only see impatience.” Returning her rude gesture, he continued, “Since the lady asks, I’ll oblige. But first, I need to tell the story — I mean explain the origin for the idea.”
+
+Seeing everyone grow irritated, even his and Aster’s friends, he laughingly pivoted back. “In the larger empty butterfly wing. Wa—”
+
+Getting her answer, Allie immediately poked Aster with a dagger and put the wipes of blood on the talisman.
+
+She was laughing as she stuck it to an exposed forearm and teleported away. When she returned a moment later, she hadn’t moved, but the sound had stopped as she stared at Aster.
+
+Knowing what she was experiencing, he nodded. “It’s a surprisingly good tracking talisman, even out of a rift. Our range is roughly ten to fifteen percent of a typical at-Tier rift. Using a higher Tier talisman gets you more range, but I can’t see how anyone needs it. Because I know none of us use them, let me give some context. Currently available tracking talismans’ ranges normally hover around seven percent of an at-Tier rift's size. Though, if I’m being honest, I can’t see too many use cases where you have the person's blood and need the talisman, while also not having access to a more specialized tracker who can do wayyy more with biological material. But it works just fine on a person. Doesn't work on the twins. We tried. Oh, before I forget, once the talisman is bloodied, its target can’t be changed. Even if you dip more blood, the tracking is set on the first type.”
+
+Eageringly poking Allie, Aster got her talisman going and the two of them started a system wide game of tag between the gas giant's many moons. Seeing they already had a hang of it, he explained to everyone else so they could play in the rifts he’d reserved for the ad agency that Quill’s Quality Quintessentials contracted for the reveal.
+
