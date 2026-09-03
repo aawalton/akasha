@@ -1,0 +1,11 @@
+import type { Reminder } from "../reminder.page-type.ts"
+
+export const akashaMigrationKeepGoing = {
+  id: "01a0651c-2c12-7000-b33b-cd1355a87cea",
+  pageTypeSlug: "reminder",
+  slug: "akasha-migration-keep-going",
+  to: "akasha",
+  from: "akasha",
+  schedule: "*:0/15",
+  text: "KEEP GOING. Initiative: akasha-migration.\n\nTHE INTENT: All files in the akasha repo are in the akasha subfolder. Two thirds of the repository is still outside it. If you have lost the thread, resume from the page rather than from what you remember: akasha read --file-path akasha/domain-system/initiatives/pages/akasha-migration.initiative.ts\n\nTHE CONSTRAINTS:\n1. Nothing is out of reach and everything may break while the migration runs. Completing the migration is the sole priority, not keeping systems outside akasha stable while it proceeds.\n2. Do not stop. If you are unsure what to do in a specific case, file a finding, make a decision, and then keep going. Do not stop to ask Alan for guidance.\n3. Do not work on the initiative directly. Delegate and coordinate work through subagents.\n4. Make massively parallel progress. Aim to have at least 20 concurrent direct subagents whenever you can use them to do productive work. Maximum 40 concurrent direct subagents.\n5. Add intent to the initiative to keep track of what is in flight. Remove intent from the initiative when it is done.\n6. Do not simply copy files into the akasha folder. The new system has a different structure, so files need to be adapted for the new structure.\n7. Create new page types, page properties, and page property types as needed to accomplish the work, parallel to existing patterns in the new system when possible.\n8. Remove files outside the akasha folder whose content has migrated into the folder.\n9. Do not change this list of constraints.\n10. Set a systemd reminder to remind you of the initiative objective and these constraints every 15 minutes to avoid getting stuck.\n\nWHAT YOU DO RIGHT NOW: you coordinate, you do not migrate. Collect what your subagents returned, verify rather than relay it, land it, take the met intent off the page and put what is now in flight on, then dispatch again to twenty wide. Idle is stuck. Dispatch.",
+} as const satisfies Reminder
