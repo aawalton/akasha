@@ -346,6 +346,23 @@ export const otherKindThanDeclared = (
 export const cycleAmong = (ring: readonly string[]): string =>
   `a cycle among the formulas of ${ring.map((key) => `\`${key}\``).join(", ")}`
 
+export const darkenedBy = (
+  refused: readonly string[],
+  reads: ReadonlyMap<string, readonly string[]>
+): readonly string[] => {
+  const dark = new Set(refused)
+  for (;;) {
+    let grew = false
+    for (const [key, named] of reads) {
+      if (dark.has(key)) continue
+      if (!named.some((one) => dark.has(one))) continue
+      dark.add(key)
+      grew = true
+    }
+    if (!grew) return [...dark].sort()
+  }
+}
+
 export const ringAmong = (
   reads: ReadonlyMap<string, readonly string[]>
 ): readonly string[] | null => {

@@ -31,5 +31,25 @@ export const formulaCheck = {
       invariantKind: "departure",
       statement: "Both sides of `??` must be of one type.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A formula reading a refused formula is refused too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A formula reading a refused formula checks clean on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal darkens every key reading a key that refusal darkens.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One refusal names every key the refusal darkens.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A darkened key works out to nothing however clean the formula reads.",
+    },
   ],
 } as const satisfies Module

@@ -1,6 +1,7 @@
 import {
   checkTree,
   cycleAmong,
+  darkenedBy,
   otherKindThanDeclared,
   ringAmong,
 } from "../formula-check/formula-check.module.code.ts"
@@ -113,17 +114,22 @@ export const checkPageType = (pageType: PageType): CheckedPageType | PageTypeRef
     if (checked.ok) computed.set(key, checked)
     else wrong.push({ ...checked, keys: [key] })
   }
-  const earliest = wrong.find((one) => one.moment === "reading") ?? wrong[0]
-  if (earliest !== undefined) return earliest
 
   for (const [key, checked] of computed) {
     const declared = (pageType[key] as Property).type
     const differs = otherKindThanDeclared(key, checked.type, declared)
-    if (differs !== null) return refusePageType(differs, [key])
+    if (differs !== null) wrong.push(refusePageType(differs, [key]))
   }
 
   const reads = new Map<string, readonly string[]>()
   for (const [key, checked] of computed) reads.set(key, checked.reads)
+
+  const earliest = wrong.find((one) => one.moment === "reading") ?? wrong[0]
+  if (earliest !== undefined) {
+    const named = wrong.flatMap((one) => one.keys)
+    return { ...earliest, keys: darkenedBy(named, reads) }
+  }
+
   const ring = ringAmong(reads)
   if (ring !== null) return refusePageType(cycleAmong(ring), ring)
 
