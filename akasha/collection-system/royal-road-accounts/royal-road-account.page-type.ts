@@ -1,7 +1,10 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { RoyalRoadUsername } from "./properties/royal-road-username.email-address-property.ts"
 
-export type RoyalRoadAccount = Page
+export type RoyalRoadAccount = Page & {
+  username: RoyalRoadUsername
+}
 
 export const royalRoadAccount = {
   id: "01a06838-e8da-73c2-8412-6234b402ec6a",
@@ -10,6 +13,11 @@ export const royalRoadAccount = {
   definition: "the login the Royal Road sync reads Alan's follow list from",
   pluralSlug: "royal-road-accounts",
   extendsSlug: "page-type/page",
+  partSlugs: ["email-address-property/royal-road-username", "text-property/royal-road-password"],
+  properties: [
+    { pagePropertySlug: "royal-road-username", required: true, many: false },
+    { pagePropertySlug: "royal-road-password", required: true, many: false, secret: true },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -18,6 +26,10 @@ export const royalRoadAccount = {
     {
       invariantKind: "departure",
       statement: "What authorises an account's sign-in is held as a secret rather than as text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An account is reached by its slug rather than by the address it signs in as.",
     },
     {
       invariantKind: "gap",
