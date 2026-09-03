@@ -34,6 +34,14 @@ export const emailEntry = {
     },
     {
       invariantKind: "departure",
+      statement: "An entry is slugged `email-entry-` before the day the entry is of.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No entry is slugged by its day alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The entry is what a readout of the mail inbox is read from.",
     },
     {
