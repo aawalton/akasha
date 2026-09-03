@@ -13,13 +13,13 @@ export const workflows = [
       kubectlApply({
         name: "temper-infra-apply-service",
         namespace: "temper",
-        files: "temper/web/generated/web-service.generated.yaml",
+        files: "akasha/temper/temper-web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
       sopsDecryptApply({
         name: "temper-infra-apply-secrets",
         namespace: "temper",
-        secretFile: "temper/web/deploy/secrets.sops.yaml",
+        secretFile: "akasha/temper/temper-web/deploy/secrets.sops.yaml",
       }),
     ],
   }),

@@ -1,8 +1,5 @@
 {
   "workspaces": {
-
-
-
     "temper/player-completion": {
       "entry": [
         "**/*.test.{ts,tsx}"
@@ -11,9 +8,6 @@
         "**/*.ts"
       ]
     },
-
-
-
     "temper/scripts": {
       "entry": [
         "src/**/*.script.ts",
@@ -23,17 +17,19 @@
         "src/**/*.ts"
       ]
     },
-    "temper/web": {
+    "akasha/temper/temper-web": {
       "entry": [
-        "app/**/*.{ts,tsx}!",
-        "**/*.test.ts",
+        "*.{ts,tsx}",
+        "routes/**/*.{ts,tsx}",
+        "*/*.module.code.{ts,tsx}",
+        ".server/*/*.module.code.ts",
         "tunnel-routes.ts",
         "react-router.config.ts",
         "vite.config.ts",
         "server.ts"
       ],
       "project": [
-        "**/*.{ts,tsx}!"
+        "**/*.{ts,tsx}"
       ]
     }
   }
