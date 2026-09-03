@@ -1,7 +1,7 @@
 import type { TemperInventoryChunk } from "../temper-inventory-chunk.page-type.ts"
 
 export const at202608192346471 = {
-  id: "01a06004-3730-7b76-99ca-36c77acce01c",
+  id: "019e8a04-9e62-7a51-9ed1-3d67acc7170f",
   pageTypeSlug: "temper-inventory-chunk",
   slug: "at-2026-08-19-23-46-47-1",
   title: "2026-08-19T23:46:47.000Z chunk 1",
