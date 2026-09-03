@@ -37,6 +37,7 @@
     "./seat-children": "./seat-children/seat-children.module.code.ts",
     "./seat-launching": "./seat-launching/seat-launching.module.code.ts",
     "./seat-modes": "./seat-modes/seat-modes.module.code.ts",
+    "./seat-name-claim": "./seat-name-claim/seat-name-claim.module.code.ts",
     "./seat-page-type": "./seats/seat.page-type.ts",
     "./seat-parentless-refusal": "./seat-parentless-refusal/seat-parentless-refusal.module.code.ts",
     "./seat-pending": "./seat-pending/seat-pending.module.code.ts",
