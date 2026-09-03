@@ -16,8 +16,8 @@ export const dispatchedAs = {
       statement: "A kind is spelled as the tool running the kind takes the name.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The kinds a subagent is run as do not stand as pages.",
+      invariantKind: "departure",
+      statement: "A kind states this name and a subagent run as that kind repeats it.",
     },
     {
       invariantKind: "gap",
