@@ -64,7 +64,10 @@
     "./supervisor-log-path": "./supervisor-log-path/supervisor-log-path.module.code.ts",
     "./supervisor-precliff-restart-decide": "./supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts",
     "./supervisor-proxy-adoption-decide": "./supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts",
-    "./supervisor-proxy-liveness-decide": "./supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
+    "./supervisor-proxy-liveness-decide": "./supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts",
+    "./supervisor-rc-degraded-thresholds": "./supervising/supervisor-rc-degraded-thresholds/supervisor-rc-degraded-thresholds.module.code.ts",
+    "./supervisor-rc-degraded-state": "./supervising/supervisor-rc-degraded-state/supervisor-rc-degraded-state.module.code.ts",
+    "./supervisor-rc-degraded-decide": "./supervising/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
   },
   "dependencies": {
     "@tools/lib": "workspace:*",

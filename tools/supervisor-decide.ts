@@ -8,6 +8,7 @@ import {
   parseWaitResume,
 } from "@akasha/seat-system/supervisor-decide-payload"
 import { RULE_DECISIONS } from "@akasha/seat-system/supervisor-decide-rules"
+import { decideRcDegradedBatch } from "@akasha/seat-system/supervisor-rc-degraded-decide"
 import { notices } from "./compose-notices.ts"
 import { fail } from "./lib/command.ts"
 import { decideClaimedRedelivery } from "./lib/decide-claimed-redelivery.ts"
@@ -16,7 +17,6 @@ import {
   LIMIT_RESUME_FLOOR_MS,
   type LimitResumeDecision,
 } from "./lib/decide-limit-resume.ts"
-import { decideRcDegradedBatch } from "./lib/decide-rc-degraded.ts"
 import { decideRemoteControlBatch } from "./lib/decide-remote-control.ts"
 import { planRestartNotice, type ResumeNotices } from "./lib/decide-restart-notice.ts"
 import { decideUncertainBlockBatch } from "./lib/decide-uncertain-wait.ts"

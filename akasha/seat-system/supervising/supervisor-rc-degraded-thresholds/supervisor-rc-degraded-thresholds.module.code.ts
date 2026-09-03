@@ -1,4 +1,3 @@
-
 export const RC_CONNECTION_SIGNATURE = {
   activeStart: 7,
   idleBaseline: 2,

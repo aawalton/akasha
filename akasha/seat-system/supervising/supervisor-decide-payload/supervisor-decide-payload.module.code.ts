@@ -1,9 +1,9 @@
+import type { RcDegradedSeat } from "@akasha/seat-system/supervisor-rc-degraded-decide"
 import type {
   ClaimedCandidate,
   ClaimedTranscriptFinding,
 } from "@tools/lib/decide-claimed-redelivery"
 import type { LimitResumeInput } from "@tools/lib/decide-limit-resume"
-import type { RcDegradedSeat } from "@tools/lib/decide-rc-degraded"
 import type { RemoteControlSeatQuestion } from "@tools/lib/decide-remote-control"
 import type { RestartNowEvent } from "@tools/lib/decide-restart-notice"
 import type { UncertainBlockSeat } from "@tools/lib/decide-uncertain-wait"

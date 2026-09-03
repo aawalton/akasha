@@ -1,4 +1,3 @@
-
 export interface RcSeatStreak {
   readonly degradedStreak: number
   readonly healthyStreak: number
