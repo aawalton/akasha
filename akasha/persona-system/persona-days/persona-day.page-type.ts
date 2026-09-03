@@ -2,9 +2,11 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { ActiveCalories } from "../../alan/tracking/daily/wake-days/properties/active-calories.number-property.ts"
 import type { BreathingPoints } from "../../alan/tracking/daily/wake-days/properties/breathing-points.number-property.ts"
+import type { CardioPoints } from "../../alan/tracking/daily/wake-days/properties/cardio-points.number-property.ts"
 import type { Date as TrackedDate } from "../../alan/tracking/daily/wake-days/properties/date.text-property.ts"
 import type { NutritionPoints } from "../../alan/tracking/daily/wake-days/properties/nutrition-points.number-property.ts"
 import type { SleepPoints } from "../../alan/tracking/daily/wake-days/properties/sleep-points.number-property.ts"
+import type { StrengthPoints } from "../../alan/tracking/daily/wake-days/properties/strength-points.number-property.ts"
 import type { StrengthVolume } from "../../alan/tracking/daily/wake-days/properties/strength-volume.number-property.ts"
 import type { TaskPoints } from "../../alan/tracking/daily/wake-days/properties/task-points.number-property.ts"
 import type { PersonaSlug } from "../../domain-system/initiatives/properties/persona-slug.relation-property.ts"
@@ -23,7 +25,9 @@ export type PersonaDay = Page & {
   sourceTotalSnapshot?: SourceTotalSnapshot
   taskPoints?: TaskPoints
   sleepPoints?: SleepPoints
+  strengthPoints?: StrengthPoints
   strengthVolume?: StrengthVolume
+  cardioPoints?: CardioPoints
   nutritionPoints?: NutritionPoints
   breathingPoints?: BreathingPoints
   activeCalories?: ActiveCalories
@@ -41,13 +45,18 @@ export const personaDay = {
     "number-property/active-calories",
     "number-property/breathing-points",
     "number-property/byte-points",
+    "number-property/cardio-points",
     "number-property/green-day-points",
     "number-property/nutrition-points",
     "number-property/sleep-points",
     "number-property/source-points",
     "number-property/source-total-snapshot",
+    "number-property/strength-points",
     "number-property/strength-volume",
     "number-property/task-points",
+    "formula-property/green-day-fraction",
+    "formula-property/green-day-rung",
+    "formula-property/points",
     "relation-property/persona-slug",
     "text-property/date",
     "text-property/value-slug",
@@ -61,11 +70,16 @@ export const personaDay = {
     { pagePropertySlug: "source-total-snapshot", required: false, many: false },
     { pagePropertySlug: "task-points", required: false, many: false },
     { pagePropertySlug: "sleep-points", required: false, many: false },
+    { pagePropertySlug: "strength-points", required: false, many: false },
     { pagePropertySlug: "strength-volume", required: false, many: false },
+    { pagePropertySlug: "cardio-points", required: false, many: false },
     { pagePropertySlug: "nutrition-points", required: false, many: false },
     { pagePropertySlug: "breathing-points", required: false, many: false },
     { pagePropertySlug: "active-calories", required: false, many: false },
     { pagePropertySlug: "byte-points", required: false, many: false },
+    { pagePropertySlug: "points", required: false, many: false },
+    { pagePropertySlug: "green-day-fraction", required: false, many: false },
+    { pagePropertySlug: "green-day-rung", required: false, many: false },
   ],
   invariants: [
     {
@@ -87,8 +101,7 @@ export const personaDay = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The fraction a day draws green by is its source points over its green-day points.",
+      statement: "The three figures a day is read by are worked out rather than stored.",
     },
     {
       invariantKind: "departure",
