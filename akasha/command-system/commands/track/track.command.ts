@@ -141,10 +141,6 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "Every stretch of a day ends where the next stretch begins.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A day carries one open stretch at most.",
     },
     {
@@ -272,8 +268,16 @@ export const track = {
       statement: "`check` refuses a difficulty outside 0 to 5.",
     },
     {
-      invariantKind: "departure",
-      statement: "`check` refuses a gap or an overlap between two stretches.",
+      invariantKind: "absence",
+      statement: "`check` judges no gap between two stretches.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "`check` judges no overlap between two stretches.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "`check` says nothing beyond what `check` refuses.",
     },
     {
       invariantKind: "departure",
