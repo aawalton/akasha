@@ -2,20 +2,20 @@
 
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
-import { listWorkspaceDirs } from "../../../../../tools/lib/check-workflow/workspace-paths"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   findOrphanSources,
   type OrphanReport,
 } from "../../modules/orphan-source/orphan-source.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

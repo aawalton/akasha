@@ -1,22 +1,19 @@
 #!/usr/bin/env bun
 
 import ts from "typescript"
-import {
-  FILESYSTEM_WALK_EXEMPT_DIRS,
-  findFiles,
-} from "../../../../../tools/lib/check-workflow/file-finder.ts"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population.ts"
-import {
-  exitOnResult,
-  type Violation,
-} from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
 import { parseArgs, STANDARD_FLAGS } from "../cli-args/cli-args.module.code.ts"
+import { FILESYSTEM_WALK_EXEMPT_DIRS, findFiles } from "../file-finding/file-finding.module.code.ts"
+import { examineFilePopulation } from "../population/population.module.code.ts"
 import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../retired/retired.module.code.ts"
 import {
   type SyntaxScannerEntry,
   scriptKindFor,
 } from "../syntax-scanner-entry/syntax-scanner-entry.module.code.ts"
+import {
+  exitOnResult,
+  type Violation,
+} from "../violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

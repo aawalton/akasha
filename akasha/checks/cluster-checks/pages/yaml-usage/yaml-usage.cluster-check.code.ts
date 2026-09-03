@@ -5,16 +5,6 @@ import { resolve } from "node:path"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import {
-  FILESYSTEM_WALK_EXEMPT_DIRS,
-  findFiles,
-} from "../../../../../tools/lib/check-workflow/file-finder"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../tools/lib/check-workflow/remediation-doc"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { buildFrom, readAt } from "../../../../../tools/lib/graph/held-snapshot.ts"
 import {
   YAML_FILE_NODE_TYPES,
@@ -23,7 +13,17 @@ import {
 import { readRepoFile } from "../../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../../tools/lib/graph/types.ts"
 import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import {
+  FILESYSTEM_WALK_EXEMPT_DIRS,
+  findFiles,
+} from "../../modules/file-finding/file-finding.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
+import { remediationHint } from "../../modules/remediation-doc/remediation-doc.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 import { findOrphans, type SourceFile } from "../../modules/yaml-usage/yaml-usage.module.code.ts"
 
 if (import.meta.main) refuseRetired()

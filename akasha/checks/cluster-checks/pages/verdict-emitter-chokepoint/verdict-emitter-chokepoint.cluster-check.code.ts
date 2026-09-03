@@ -5,12 +5,8 @@ import { join } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { z } from "zod"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
   BYPASS_PREDICATES,
@@ -19,6 +15,10 @@ import {
   classifyEmission,
   reconcileChokepoint,
 } from "../../modules/verdict-emitter-chokepoint/verdict-emitter-chokepoint.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

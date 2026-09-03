@@ -3,18 +3,6 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import {
-  type FunctionalType,
-  FunctionalTypeSchema,
-  RANK_BY_TYPE,
-} from "../../../../../tools/lib/check-workflow/functional-type"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../tools/lib/check-workflow/remediation-doc"
-import {
-  exitOnResult,
-  exitOnToolError,
-  type Violation,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { buildFrom, readAt } from "../../../../../tools/lib/graph/held-snapshot.ts"
 import {
   PACKAGE_NODE_TYPE,
@@ -30,12 +18,24 @@ import { readRepoFile } from "../../../../../tools/lib/graph/repos.ts"
 import type { Edge, Graph, Node } from "../../../../../tools/lib/graph/types.ts"
 import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
+  type FunctionalType,
+  FunctionalTypeSchema,
+  RANK_BY_TYPE,
+} from "../../modules/functional-type/functional-type.module.code.ts"
+import {
   judgeLayerMonotonicity,
   type PackageEdge,
   type RankInversionFinding,
   type WorkspaceEntry,
 } from "../../modules/layer-monotonicity/layer-monotonicity.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
+import { remediationHint } from "../../modules/remediation-doc/remediation-doc.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+  type Violation,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

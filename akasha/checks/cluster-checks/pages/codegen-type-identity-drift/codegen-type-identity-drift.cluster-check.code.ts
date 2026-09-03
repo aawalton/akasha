@@ -3,15 +3,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 import {
-  examinePopulation,
-  type Population,
-} from "../../../../../tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../tools/lib/check-workflow/remediation-doc"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
-import {
   type FlagSpec,
   parseArgs,
   STANDARD_FLAGS,
@@ -30,8 +21,17 @@ import {
   INSTRUCTIONS_MIRROR_DIR,
   MIRROR_GENERATORS,
 } from "../../modules/codegen-type-identity-pairs/codegen-type-identity-pairs.module.code.ts"
+import {
+  examinePopulation,
+  type Population,
+} from "../../modules/population/population.module.code.ts"
+import { remediationHint } from "../../modules/remediation-doc/remediation-doc.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

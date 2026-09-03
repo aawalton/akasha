@@ -5,15 +5,6 @@ import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import ts from "typescript"
 import {
-  type FunctionalType,
-  FunctionalTypeSchema,
-} from "../../../../../tools/lib/check-workflow/functional-type"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
-import {
   ALLOWED_ALLOW_IMPORTING_TS_EXTENSIONS,
   ALLOWED_CYCLES,
   ALLOWED_MISSING_REFERENCES,
@@ -21,6 +12,11 @@ import {
   ALLOWED_SPURIOUS_REFERENCES,
 } from "../../modules/check-tsconfig-allowlists/check-tsconfig-allowlists.module.code.ts"
 import { parseArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import {
+  type FunctionalType,
+  FunctionalTypeSchema,
+} from "../../modules/functional-type/functional-type.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
   type TreeReading,
@@ -43,6 +39,10 @@ import {
   guidedText,
 } from "../../modules/tsconfig-rule-guidance/tsconfig-rule-guidance.module.code.ts"
 import { validateNestedPackageContainment } from "../../modules/tsconfig-source-layout/tsconfig-source-layout.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 import { workspaceDirsIn } from "../../modules/workspace-packages/workspace-packages.module.code.ts"
 
 if (import.meta.main) refuseRetired()

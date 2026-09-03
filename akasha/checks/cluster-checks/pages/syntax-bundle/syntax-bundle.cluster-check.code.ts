@@ -4,16 +4,12 @@ import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import ts from "typescript"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
 import {
   describeClosure,
   resolveChangeClosure,
 } from "../../modules/change-closure/change-closure.module.code.ts"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import { SYNTAX_SCANNER_ENTRIES as ENTRIES } from "../../modules/scanner-registry/scanner-registry.module.code.ts"
@@ -27,6 +23,10 @@ import {
   scriptKindFor,
 } from "../../modules/syntax-scanner-entry/syntax-scanner-entry.module.code.ts"
 import { listTsFiles } from "../../modules/ts-file-iteration/ts-file-iteration.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

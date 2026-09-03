@@ -3,9 +3,8 @@
 import { existsSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
 import ts from "typescript"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population.ts"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
 import { parseArgs, STANDARD_FLAGS } from "../cli-args/cli-args.module.code.ts"
+import { examineFilePopulation } from "../population/population.module.code.ts"
 import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../retired/retired.module.code.ts"
 import {
@@ -19,6 +18,7 @@ import {
   scanVoidDeclarations,
   type VoidDeclarationFinding,
 } from "../ts-void-declarations/ts-void-declarations.module.code.ts"
+import { exitOnResult } from "../violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

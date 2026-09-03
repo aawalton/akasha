@@ -1,5 +1,5 @@
 import { z } from "zod"
-import type { Violation } from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
+import type { Violation } from "../violation-reporting/violation-reporting.module.code.ts"
 
 export const PRODUCTION_PARTICIPLES: readonly string[] = [
   "generated",

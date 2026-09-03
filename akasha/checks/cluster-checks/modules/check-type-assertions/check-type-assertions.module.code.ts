@@ -4,13 +4,9 @@ import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import ts from "typescript"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population.ts"
-import { remediationHint } from "../../../../../tools/lib/check-workflow/remediation-doc.ts"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
 import { parseArgs, STANDARD_FLAGS } from "../cli-args/cli-args.module.code.ts"
+import { examineFilePopulation } from "../population/population.module.code.ts"
+import { remediationHint } from "../remediation-doc/remediation-doc.module.code.ts"
 import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../retired/retired.module.code.ts"
 import {
@@ -23,6 +19,10 @@ import {
   type AssertionFinding,
   scanTypeAssertions,
 } from "../ts-type-assertions/ts-type-assertions.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

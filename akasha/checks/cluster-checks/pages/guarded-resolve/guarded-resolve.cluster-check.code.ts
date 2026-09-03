@@ -1,11 +1,6 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import {
-  examineFilePopulation,
-  examinePopulation,
-} from "../../../../../tools/lib/check-workflow/population"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
 import {
   type ChangeClosure,
@@ -17,10 +12,15 @@ import {
   findGuardedResolveViolations,
   type GuardedResolveViolation,
 } from "../../modules/guarded-resolve/guarded-resolve.module.code.ts"
+import {
+  examineFilePopulation,
+  examinePopulation,
+} from "../../modules/population/population.module.code.ts"
 import { repoTopLevelDirs } from "../../modules/repo-path-resolver/repo-path-resolver.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { CHECK_EXEMPT_DIRS } from "../../modules/repo-scope/repo-scope.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

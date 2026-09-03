@@ -2,7 +2,7 @@ import {
   FUNCTIONAL_TYPES,
   type FunctionalType,
   type ReadFunctionalTypeResult,
-} from "../../../../../tools/lib/check-workflow/functional-type.ts"
+} from "../functional-type/functional-type.module.code.ts"
 
 export interface WorkspaceTypeRead {
   readonly path: string

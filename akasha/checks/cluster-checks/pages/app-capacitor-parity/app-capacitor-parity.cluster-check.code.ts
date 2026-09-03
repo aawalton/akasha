@@ -2,8 +2,6 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import {
   extractRouteEntries,
   hasDefaultExport,
@@ -14,8 +12,10 @@ import {
 } from "../../modules/app-capacitor-parity/app-capacitor-parity.module.code.ts"
 import { CAPACITOR_PARITY_DIVERGENCES } from "../../modules/app-capacitor-parity-divergences/app-capacitor-parity-divergences.module.code.ts"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

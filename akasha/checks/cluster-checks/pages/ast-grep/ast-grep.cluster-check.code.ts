@@ -16,10 +16,10 @@ import {
   discoverSgconfigs,
   readAstGrepRules,
 } from "../../../../../tools/lib/check-workflow/check-configs-ast-grep"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 const PREFIX = "[ast-grep]"
 

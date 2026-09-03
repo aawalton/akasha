@@ -4,11 +4,6 @@ import { existsSync } from "node:fs"
 import { relative, resolve } from "node:path"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import ts from "typescript"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population.ts"
-import {
-  exitOnResult,
-  type Violation,
-} from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
 import { parseArgs as parseCliArgs } from "../cli-args/cli-args.module.code.ts"
 import {
   hasDescendantTargetingVariant,
@@ -27,12 +22,17 @@ import {
 import { findHeadStylesViolations } from "../head-styles-violations/head-styles-violations.module.code.ts"
 import { extractJsxClassUsagesFrom } from "../jsx-class-tokens/jsx-class-tokens.module.code.ts"
 import { collectTopLevelComponentNames } from "../jsx-class-tokens-roots/jsx-class-tokens-roots.module.code.ts"
+import { examineFilePopulation } from "../population/population.module.code.ts"
 import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../retired/retired.module.code.ts"
 import type {
   NormalizedFinding,
   SyntaxScannerEntry,
 } from "../syntax-scanner-entry/syntax-scanner-entry.module.code.ts"
+import {
+  exitOnResult,
+  type Violation,
+} from "../violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

@@ -2,10 +2,6 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, relative, resolve } from "node:path"
-import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { repoDoc } from "../../../../../tools/lib/check-workflow/remediation-doc"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import {
   type ContractCouplingViolation,
   findContractImports,
@@ -15,8 +11,12 @@ import {
   type ModuleContractSchema,
   uncoupledImportedContract,
 } from "../../modules/cli-json-contract-coupling/cli-json-contract-coupling.module.code.ts"
+import { findFiles } from "../../modules/file-finding/file-finding.module.code.ts"
+import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
+import { repoDoc } from "../../modules/remediation-doc/remediation-doc.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

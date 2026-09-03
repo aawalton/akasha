@@ -1,4 +1,4 @@
-import type { FunctionalType } from "../../../../../tools/lib/check-workflow/functional-type.ts"
+import type { FunctionalType } from "../functional-type/functional-type.module.code.ts"
 import { inferFunctionalType } from "../functional-type-discriminators/functional-type-discriminators.module.code.ts"
 import type { PackageJsonShape } from "../functional-type-shapes/functional-type-shapes.module.code.ts"
 

@@ -2,18 +2,18 @@
 
 import { realpathSync } from "node:fs"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
+import { findFiles } from "../../modules/file-finding/file-finding.module.code.ts"
 import {
   examineFilePopulation,
   examinePopulation,
-} from "../../../../../tools/lib/check-workflow/population"
+} from "../../modules/population/population.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
   exitOnResult,
   exitOnToolError,
   type Violation,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
-import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
-import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

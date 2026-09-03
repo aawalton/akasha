@@ -2,11 +2,6 @@
 
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import {
-  exitOnResult,
-  exitOnToolError,
-  type Violation,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
-import {
   loadRepoContext,
   parseArgs,
 } from "../../modules/check-unused-deps-context/check-unused-deps-context.module.code.ts"
@@ -17,6 +12,11 @@ import type {
   RepoContext,
 } from "../../modules/check-unused-deps-types/check-unused-deps-types.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+  type Violation,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

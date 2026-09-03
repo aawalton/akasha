@@ -4,11 +4,6 @@ import { readdirSync, readFileSync } from "node:fs"
 import * as semanticTokens from "@akasha/design-tokens/semantic-color"
 import * as surfaceTokens from "@akasha/design-tokens/surface-color"
 import * as textTokens from "@akasha/design-tokens/text-color"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { parseArgs, REPO_ROOT_FLAG } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   type ColorToken,
@@ -23,8 +18,13 @@ import {
   type Rgb,
   type TokenSpec,
 } from "../../modules/design-token-parity/design-token-parity.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

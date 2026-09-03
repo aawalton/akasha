@@ -3,11 +3,6 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { buildFrom, readAt } from "../../../../../tools/lib/graph/held-snapshot.ts"
 import { readRepoFile } from "../../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../../tools/lib/graph/types.ts"
@@ -25,8 +20,13 @@ import {
   type MockLeakContext,
   slotKeyOf,
 } from "../../modules/mock-module-leak-context/mock-module-leak-context.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import { CODE_REPO } from "../../modules/repo-scope/repo-scope.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

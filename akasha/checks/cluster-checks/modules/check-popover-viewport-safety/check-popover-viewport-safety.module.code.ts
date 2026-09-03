@@ -4,21 +4,21 @@ import { existsSync, readdirSync } from "node:fs"
 import { relative, resolve } from "node:path"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import ts from "typescript"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population.ts"
-import {
-  exitOnResult,
-  exitOnToolError,
-  type Violation,
-} from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
 import { parseArgs as parseCliArgs } from "../cli-args/cli-args.module.code.ts"
 import { extractJsxClassUsagesFrom } from "../jsx-class-tokens/jsx-class-tokens.module.code.ts"
 import { derivePopoverFamilyTags } from "../popover-family-wrappers/popover-family-wrappers.module.code.ts"
+import { examineFilePopulation } from "../population/population.module.code.ts"
 import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../retired/retired.module.code.ts"
 import type {
   NormalizedFinding,
   SyntaxScannerEntry,
 } from "../syntax-scanner-entry/syntax-scanner-entry.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+  type Violation,
+} from "../violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

@@ -1,7 +1,5 @@
 #!/usr/bin/env bun
 
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import {
   ALANWALTON_IOS_SEAM_SCRIPT,
   alanwaltonIosSeamFiles,
@@ -13,8 +11,10 @@ import {
   findMissingAppIntentViolations,
 } from "../../modules/app-intent-brand-word-violations/app-intent-brand-word-violations.module.code.ts"
 import { parseArgs, REPO_ROOT_FLAG } from "../../modules/cli-args/cli-args.module.code.ts"
+import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

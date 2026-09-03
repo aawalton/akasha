@@ -1,7 +1,5 @@
 #!/usr/bin/env bun
 
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import {
   ALANWALTON_IOS_SEAM_LABEL,
   ALANWALTON_IOS_SEAM_SCRIPT,
@@ -13,8 +11,10 @@ import {
   findHealthSamplesStreamViolations,
   type HealthSamplesStreamViolation,
 } from "../../modules/health-samples-stream-violations/health-samples-stream-violations.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

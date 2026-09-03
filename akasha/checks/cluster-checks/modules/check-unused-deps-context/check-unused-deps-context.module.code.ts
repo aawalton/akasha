@@ -3,7 +3,6 @@ import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { z } from "zod"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population.ts"
 import { buildFrom, readAt } from "../../../../../tools/lib/graph/held-snapshot.ts"
 import {
   LOCKFILE_RESOLVES_EDGE_TYPE,
@@ -23,6 +22,7 @@ import type {
 } from "../check-unused-deps-types/check-unused-deps-types.module.code.ts"
 import { usageByWorkspace } from "../check-unused-deps-usage/check-unused-deps-usage.module.code.ts"
 import { parseArgs as parseCliArgs } from "../cli-args/cli-args.module.code.ts"
+import { examinePopulation } from "../population/population.module.code.ts"
 
 const GIT_CEILING_MS = 60_000
 

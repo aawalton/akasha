@@ -4,19 +4,19 @@ import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import ts from "typescript"
+import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   FILESYSTEM_WALK_EXEMPT_DIRS,
   findFiles,
-} from "../../../../../tools/lib/check-workflow/file-finder"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  type Violation,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
-import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+} from "../../modules/file-finding/file-finding.module.code.ts"
+import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import { scriptKindFor } from "../../modules/syntax-scanner-entry/syntax-scanner-entry.module.code.ts"
+import {
+  exitOnResult,
+  type Violation,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

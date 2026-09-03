@@ -1,5 +1,5 @@
 import ts from "typescript"
-import type { Violation } from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
+import type { Violation } from "../violation-reporting/violation-reporting.module.code.ts"
 
 const EXCLUDED_TEST_SUFFIXES: readonly string[] = [
   ".cli.test.ts",

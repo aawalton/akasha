@@ -1,6 +1,6 @@
-import type { Violation } from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
 import type { CssFile } from "../css-source-directives/css-source-directives.module.code.ts"
 import { globBase } from "../css-source-directives/css-source-directives.module.code.ts"
+import type { Violation } from "../violation-reporting/violation-reporting.module.code.ts"
 import {
   transitiveWorkspaceDeps,
   type WorkspacePackage,

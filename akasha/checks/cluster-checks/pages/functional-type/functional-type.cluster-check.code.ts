@@ -4,23 +4,14 @@ import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { z } from "zod"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   type FunctionalType,
   readFunctionalType,
   workspacePackageJsonPath,
-} from "../../../../../tools/lib/check-workflow/functional-type"
-import {
-  examinePopulation,
-  type Population,
-} from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-  type Violation,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
-import { listWorkspaceDirs } from "../../../../../tools/lib/check-workflow/workspace-paths"
-import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+} from "../../modules/functional-type/functional-type.module.code.ts"
 import {
   type FixpointWorkspace,
   runFunctionalTypeFixpoint,
@@ -31,8 +22,17 @@ import {
   findFunctionalTypeViolations,
   type WorkspaceTypeRead,
 } from "../../modules/functional-type-rules/functional-type-rules.module.code.ts"
+import {
+  examinePopulation,
+  type Population,
+} from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+  type Violation,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

@@ -2,23 +2,23 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
-import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
 import { discoverRouterApps } from "../../../../../tools/lib/check-workflow/router-apps"
 import {
   extractRouteModulePaths,
   isServerModulePath,
   isTestFilePath,
 } from "../../../../../tools/lib/check-workflow/rr-server-module-imports"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   type ClientEnvViolation,
   extractDefinedEnvKeys,
   scanClientEnvRefs,
 } from "../../modules/client-env-inlined/client-env-inlined.module.code.ts"
+import { findFiles } from "../../modules/file-finding/file-finding.module.code.ts"
+import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

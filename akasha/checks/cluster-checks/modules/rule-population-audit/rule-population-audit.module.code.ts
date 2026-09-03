@@ -1,11 +1,8 @@
 import { resolve } from "node:path"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import ts from "typescript"
-import {
-  examineFilePopulation,
-  populationCoverage,
-} from "../../../../../tools/lib/check-workflow/population.ts"
 import type { AuditReading } from "../audit-reading/audit-reading.module.code.ts"
+import { examineFilePopulation, populationCoverage } from "../population/population.module.code.ts"
 import {
   emptyRules,
   type RuleReading,

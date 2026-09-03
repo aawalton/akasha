@@ -1,5 +1,6 @@
 import { resolve } from "node:path"
 import { Glob } from "bun"
+import { CHECK_EXEMPT_DIRS } from "../repo-scope/repo-scope.module.code.ts"
 
 export const FILESYSTEM_WALK_EXEMPT_DIRS: ReadonlySet<string> = new Set([
   "node_modules",
@@ -10,8 +11,7 @@ export const FILESYSTEM_WALK_EXEMPT_DIRS: ReadonlySet<string> = new Set([
   ".cache",
   "build",
   "coverage",
-  "__fixtures__",
-  "generated",
+  ...CHECK_EXEMPT_DIRS,
 ])
 
 export interface FindFilesOptions {

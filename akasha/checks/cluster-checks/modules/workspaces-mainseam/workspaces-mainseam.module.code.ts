@@ -9,11 +9,8 @@ import {
 } from "node:fs"
 import { join } from "node:path"
 import { z } from "zod"
-import {
-  examinePopulation,
-  type Population,
-} from "../../../../../tools/lib/check-workflow/population.ts"
-import type { Violation } from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
+import { examinePopulation, type Population } from "../population/population.module.code.ts"
+import type { Violation } from "../violation-reporting/violation-reporting.module.code.ts"
 
 const MANIFEST = "package.json"
 

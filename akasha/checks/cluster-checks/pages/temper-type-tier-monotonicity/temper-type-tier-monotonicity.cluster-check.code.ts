@@ -3,13 +3,6 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { repoDoc } from "../../../../../tools/lib/check-workflow/remediation-doc"
-import {
-  exitOnResult,
-  exitOnToolError,
-  type Violation,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { buildFrom, readAt } from "../../../../../tools/lib/graph/held-snapshot.ts"
 import {
   PACKAGE_NODE_TYPE,
@@ -28,6 +21,8 @@ import {
   type PackageEdge,
   type WorkspaceEntry,
 } from "../../modules/layer-monotonicity/layer-monotonicity.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
+import { repoDoc } from "../../modules/remediation-doc/remediation-doc.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
   isCompositionRoot,
@@ -35,6 +30,11 @@ import {
   TIER_RANK_BY_TIER,
   tierForWorkspacePath,
 } from "../../modules/temper-type-tier/temper-type-tier.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+  type Violation,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

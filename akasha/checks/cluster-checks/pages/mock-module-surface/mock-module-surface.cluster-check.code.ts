@@ -3,11 +3,6 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { buildFrom, readAt } from "../../../../../tools/lib/graph/held-snapshot.ts"
 import {
   MockModuleAttrsSchema,
@@ -20,8 +15,13 @@ import {
 } from "../../../../../tools/lib/graph/producers/file/ts-file/types.ts"
 import type { Graph } from "../../../../../tools/lib/graph/types.ts"
 import { parseArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import { computeRuntimeExportSurface } from "../../modules/runtime-export-surface/runtime-export-surface.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

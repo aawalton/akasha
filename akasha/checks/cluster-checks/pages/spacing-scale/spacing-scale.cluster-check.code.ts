@@ -1,15 +1,11 @@
 #!/usr/bin/env bun
 
 import { readFileSync } from "node:fs"
-import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
+import { findFiles } from "../../modules/file-finding/file-finding.module.code.ts"
 import {
   examinePopulation,
   type Population,
-} from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
+} from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
@@ -19,6 +15,10 @@ import {
   judgeLiterals,
   type SpacingViolation,
 } from "../../modules/spacing-scale/spacing-scale.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 import {
   deriveSeamJoins,
   deriveWidgetSites,

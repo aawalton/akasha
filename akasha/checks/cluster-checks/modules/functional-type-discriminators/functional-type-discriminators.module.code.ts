@@ -1,4 +1,4 @@
-import type { FunctionalType } from "../../../../../tools/lib/check-workflow/functional-type.ts"
+import type { FunctionalType } from "../functional-type/functional-type.module.code.ts"
 import {
   hasIoWorkspaceDep,
   hasOnlyPureWorkspaceDeps,

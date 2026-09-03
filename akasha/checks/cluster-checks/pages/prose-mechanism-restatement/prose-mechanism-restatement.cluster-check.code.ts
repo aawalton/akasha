@@ -5,7 +5,6 @@ import { resolve } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { z } from "zod"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
 import {
   applyRatchet,
   carriesProse,
@@ -18,15 +17,16 @@ import {
   restatementKey,
   UNLEXED_KINDS,
 } from "../../../../../tools/lib/check-workflow/prose-mechanism-restatement"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
   departedDetail,
   renderTightening,
 } from "../../modules/suppression-subject/suppression-subject.module.code.ts"
+import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

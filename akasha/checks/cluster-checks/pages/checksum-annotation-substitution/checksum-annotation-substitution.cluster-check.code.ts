@@ -12,22 +12,22 @@ import {
   type SeamSubstitutionCensus,
   scanChecksumAnnotationSubstitution,
 } from "../../../../../tools/lib/check-workflow/checksum-annotation-substitution"
-import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
-import {
-  examinePopulation,
-  type Population,
-} from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
 import {
   type FlagSpec,
   parseArgs,
   STANDARD_FLAGS,
 } from "../../modules/cli-args/cli-args.module.code.ts"
+import { findFiles } from "../../modules/file-finding/file-finding.module.code.ts"
+import {
+  examinePopulation,
+  type Population,
+} from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

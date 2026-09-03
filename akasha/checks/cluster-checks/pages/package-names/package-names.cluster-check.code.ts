@@ -1,13 +1,13 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { z } from "zod"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
-import { listWorkspaceDirs } from "../../../../../tools/lib/check-workflow/workspace-paths"
 import { parseArgs, REPO_ROOT_FLAG } from "../../modules/cli-args/cli-args.module.code.ts"
+import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

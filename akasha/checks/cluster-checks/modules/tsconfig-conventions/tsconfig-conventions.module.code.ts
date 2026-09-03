@@ -1,5 +1,5 @@
-import type { FunctionalType } from "../../../../../tools/lib/check-workflow/functional-type.ts"
-import { isLibraryType } from "../../../../../tools/lib/check-workflow/functional-type.ts"
+import type { FunctionalType } from "../functional-type/functional-type.module.code.ts"
+import { isLibraryType } from "../functional-type/functional-type.module.code.ts"
 import {
   validateExcludeShape,
   validateNoOutDir,

@@ -3,16 +3,12 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   type CssFile,
   readCssFiles,
 } from "../../modules/css-source-directives/css-source-directives.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
   enumerateTailwindApps,
@@ -25,6 +21,10 @@ import {
   type TreeReading,
   treeReadingAt,
 } from "../../modules/tree-reading/tree-reading.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 import {
   readWorkspacePackages,
   type WorkspacePackage,

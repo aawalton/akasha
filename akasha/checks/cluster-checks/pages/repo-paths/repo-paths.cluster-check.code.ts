@@ -2,15 +2,11 @@
 
 import { readFileSync } from "node:fs"
 import { basename, dirname, posix, relative, resolve } from "node:path"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { z } from "zod"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
-import { listWorkspaceDirs } from "../../../../../tools/lib/check-workflow/workspace-paths"
 import { parseMdLinks } from "../../../../../tools/lib/graph/producers/file/md-file/parse.ts"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import { discoverRepoFiles } from "../../modules/repo-files/repo-files.module.code.ts"
 import {
   repoTopLevelDirs,
@@ -22,6 +18,10 @@ import {
   extractShellLuaPathLiterals,
   extractTsPathLiterals,
 } from "../../modules/ts-path-literals/ts-path-literals.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

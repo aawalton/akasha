@@ -5,13 +5,13 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { generateBarrel } from "../../akasha/checks/cluster-checks/modules/generate-producer-barrel/generate-producer-barrel.module.code.ts"
+import { examinePopulation } from "../../akasha/checks/cluster-checks/modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../akasha/checks/cluster-checks/modules/repo-root/repo-root.module.code.ts"
-import { examinePopulation } from "../lib/check-workflow/population.ts"
 import {
   computeExitCode,
   exitOnToolError,
   reportViolations,
-} from "../lib/check-workflow/violation-reporter.ts"
+} from "../../akasha/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.code.ts"
 import { parseArgs } from "../lib/parse-args.ts"
 import type { CommandHelp } from "../ops/surface.ts"
 

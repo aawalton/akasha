@@ -6,14 +6,14 @@ import { join, relative } from "node:path"
 import { SERVICES } from "../../../../../infra/scripts/src/generate-dockerfiles-registry.ts"
 import { getOutputPath } from "../../../../../infra/scripts/src/generate-dockerfiles-tool.ts"
 import { parseDockerfileExtensions } from "../../../../../infra/scripts/src/generate-dockerfiles-types.ts"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
+import { parseArgs, REPO_ROOT_FLAG } from "../../modules/cli-args/cli-args.module.code.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
   exitOnResult,
   exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
-import { parseArgs, REPO_ROOT_FLAG } from "../../modules/cli-args/cli-args.module.code.ts"
-import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
-import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

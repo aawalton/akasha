@@ -4,10 +4,9 @@ import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import ts from "typescript"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population.ts"
-import { repoDoc } from "../../../../../tools/lib/check-workflow/remediation-doc.ts"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
 import { parseArgs, STANDARD_FLAGS } from "../cli-args/cli-args.module.code.ts"
+import { examineFilePopulation } from "../population/population.module.code.ts"
+import { repoDoc } from "../remediation-doc/remediation-doc.module.code.ts"
 import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../retired/retired.module.code.ts"
 import {
@@ -20,12 +19,13 @@ import {
   type PopulationReadSwallowFinding,
   scanPopulationReadSwallow,
 } from "../ts-population-read-swallow/ts-population-read-swallow.module.code.ts"
+import { exitOnResult } from "../violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 
 const PREFIX = "[population-read-swallow]"
 
-const REMEDIATION_DOC = repoDoc("tools/lib/check-workflow/population.ts")
+const REMEDIATION_DOC = repoDoc("../population/population.module.code.ts")
 
 function isExcluded(rel: string): boolean {
   return /\.(test|spec)\.tsx?$/.test(rel)

@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@akasha/k8s-synth": "workspace:*",
+    "@akasha/workspace-paths": "workspace:*",
     "typescript": "5.9.3"
   }
 }

@@ -3,16 +3,12 @@
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
-import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
+import { parseArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import { findFiles } from "../../modules/file-finding/file-finding.module.code.ts"
 import {
   examineFilePopulation,
   type Population,
-} from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  type Violation,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
-import { parseArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+} from "../../modules/population/population.module.code.ts"
 import {
   CANARY_FIXTURE,
   canaryDisagreement,
@@ -23,6 +19,10 @@ import {
 } from "../../modules/properties-file-key-space/properties-file-key-space.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  exitOnResult,
+  type Violation,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

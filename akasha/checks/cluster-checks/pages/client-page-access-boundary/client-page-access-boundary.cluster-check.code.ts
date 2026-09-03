@@ -2,19 +2,15 @@
 
 import { relative } from "node:path"
 import ts from "typescript"
+import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   FILESYSTEM_WALK_EXEMPT_DIRS,
   findFiles,
-} from "../../../../../tools/lib/check-workflow/file-finder"
+} from "../../modules/file-finding/file-finding.module.code.ts"
 import {
   examineFilePopulation,
   type Population,
-} from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
-import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+} from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
@@ -22,6 +18,10 @@ import {
   type ClientPageAccessKind,
   scanClientPageAccess,
 } from "../../modules/ts-client-page-access/ts-client-page-access.module.code.ts"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 
