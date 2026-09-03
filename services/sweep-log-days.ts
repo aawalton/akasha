@@ -3,13 +3,13 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
-import { mkdtempSync, readdirSync, readFileSync, rmSync } from "node:fs"
+import { readdirSync, readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
 import { fileStemOf } from "@akasha/file-page-identity"
 import { sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
-import { toolArgv } from "../tools/lib/tool-argv.ts"
+import { landRemovals } from "../tools/lib/gated-landing.ts"
 
 const HELP = `bun services/sweep-log-days.ts — delete every log day past the window a log is kept for
 
@@ -42,8 +42,6 @@ Usage:
 const DEFAULT_KEEP_DAYS = 7
 
 const DAY_MS = 86_400_000
-
-const SCRATCH = "/var/tmp"
 
 const WRITER = "log-day-sweeper"
 
@@ -95,45 +93,22 @@ function removeSidecars(root: string, relPath: string): void {
   for (const one of sidecarsOf(root, relPath)) rmSync(join(root, one), { force: true })
 }
 
+// A daemon composes this removal rather than authoring it, so it lands mechanically, in process,
+// owing no read record. The sidecar beside each page is gitignored and goes separately, after.
 function removePages(
   relPaths: readonly string[],
   root: string
 ): { code: number; output: string } {
-  const dir = mkdtempSync(join(SCRATCH, "sweep-log-days-"))
-  const outPath = join(dir, "out.txt")
-  try {
-    const proc = Bun.spawnSync(
-      [
-        process.execPath,
-        ...toolArgv(
-          "rm.ts",
-          [
-            ...relPaths.map((one) => join(root, one)),
-            "--repo",
-            AKASHA,
-            "--message",
-            `past the window a log is kept for, so ${relPaths.length === 1 ? "this log day goes" : "these log days go"}: ${relPaths.map((one) => fileStemOf(one)).join(", ")}`,
-          ],
-          root
-        ),
-      ],
-      {
-        stdout: Bun.file(outPath),
-        stderr: "pipe",
-        env: { ...process.env, AGENT_ID: WRITER, ACTING_AGENT_ID: "" },
-      }
-    )
-    let output = ""
-    try {
-      output = readFileSync(outPath, "utf8")
-    } catch {
-      output = ""
-    }
-    const stderr = proc.stderr === null ? "" : new TextDecoder().decode(proc.stderr)
-    return { code: proc.exitCode ?? 1, output: `${output}${stderr}` }
-  } finally {
-    rmSync(dir, { recursive: true, force: true })
-  }
+  const landed = landRemovals(
+    {
+      repo: AKASHA,
+      writer: WRITER,
+      root,
+      message: `past the window a log is kept for, so ${relPaths.length === 1 ? "this log day goes" : "these log days go"}: ${relPaths.map((one) => fileStemOf(one)).join(", ")}`,
+    },
+    relPaths
+  )
+  return landed.ok ? { code: 0, output: "" } : { code: 1, output: landed.why }
 }
 
 function keepDaysFrom(argv: readonly string[]): number | null {

@@ -1,29 +1,14 @@
 import { spawnSync } from "node:child_process"
-import { accessSync, constants, existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { toolArgv } from "./tool-argv.ts"
+import { landBodies } from "./gated-landing.ts"
 
 const OUTPUT_CEILING = 64 * 1024 * 1024
 
-function runner(): string {
-  if (process.versions.bun !== undefined) return process.execPath
-  for (const dir of (process.env["PATH"] ?? "").split(":")) {
-    if (dir === "") continue
-    const at = join(dir, "bun")
-    try {
-      accessSync(at, constants.X_OK)
-      return at
-    } catch {
-      continue
-    }
-  }
-  throw new Error("no `bun` is on PATH, and what this runs is TypeScript")
-}
-
-const SCRATCH_ROOT = "/var/tmp"
+const WRITER = "page-seq-writer"
 
 const NEXT_SEQ_KEY = "next-seq"
 
@@ -77,45 +62,39 @@ function runOf(first: number, count: number): string {
   return count === 1 ? `#${first}` : `#${first} to #${first + count - 1}`
 }
 
+// The counter is advanced by substituting one line, which is what the old `edit` tool was handed
+// as an old_string and a new_string. The substitution is done here and the whole body lands
+// mechanically: a program composes this body rather than authoring it, so it owes no read record,
+// and the caller holds the seq lock across the landing either way.
 function advance(source: SeqSource, first: number, count: number): Advance {
   const root = rootFor(resolveRoots(), AKASHA)
-  const scratch = mkdtempSync(join(SCRATCH_ROOT, "page-seq-"))
-  const payloadPath = join(scratch, "advance.json")
-  writeFileSync(
-    payloadPath,
-    JSON.stringify({
-      file_path: join(root, source.pageTypeRelPath),
-      old_string: `${NEXT_SEQ_KEY}: ${first}`,
-      new_string: `${NEXT_SEQ_KEY}: ${first + count}`,
-    })
-  )
-  const proc = spawnSync(
-    runner(),
-    [
-      ...toolArgv(
-        "edit.ts",
-        [
-          "--repo",
-          "akasha",
-          "--mechanical",
-          "--input-file",
-          payloadPath,
-          "--message",
-          `${source.noun}: ${runOf(first, count)} ${count === 1 ? "is" : "are"} taken`,
-        ],
-        root
-      ),
-    ],
-    { cwd: root, maxBuffer: OUTPUT_CEILING, stdio: ["ignore", "pipe", "pipe"], env: { ...process.env } }
-  )
-  const decode = (raw: Uint8Array | null | undefined): string =>
-    raw === null || raw === undefined ? "" : new TextDecoder().decode(raw)
-  const run = {
-    code: proc.status ?? 1,
-    output: `${decode(proc.stdout)}${decode(proc.stderr)}`.trim(),
+  const was = `${NEXT_SEQ_KEY}: ${first}`
+  const now = `${NEXT_SEQ_KEY}: ${first + count}`
+  let text: string
+  try {
+    text = readFileSync(join(root, source.pageTypeRelPath), "utf8")
+  } catch (err) {
+    return { code: 1, output: `${source.pageTypeRelPath} would not open: ${String(err)}` }
   }
-  rmSync(scratch, { recursive: true, force: true })
-  return run
+  const parts = text.split(was)
+  if (parts.length !== 2) {
+    return {
+      code: 1,
+      output:
+        `\`${was}\` stands ${parts.length - 1} time(s) in ${source.pageTypeRelPath}, and the ` +
+        "counter is advanced only where it stands exactly once",
+    }
+  }
+  const landed = landBodies(
+    {
+      repo: AKASHA,
+      writer: WRITER,
+      root,
+      message: `${source.noun}: ${runOf(first, count)} ${count === 1 ? "is" : "are"} taken`,
+    },
+    [{ relPath: source.pageTypeRelPath, body: parts.join(now) }]
+  )
+  return landed.ok ? { code: 0, output: "" } : { code: 1, output: landed.why }
 }
 
 export function takeSeqsOf(source: SeqSource, count: number): number {

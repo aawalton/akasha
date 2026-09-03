@@ -1,18 +1,9 @@
-import {
-  existsSync,
-  mkdtempSync,
-  readFileSync,
-  readdirSync,
-  rmSync,
-  statSync,
-  writeFileSync,
-} from "node:fs"
-import { dirname, join } from "node:path"
+import { existsSync, readFileSync, readdirSync, statSync } from "node:fs"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { MARKDOWN } from "../../page/page-file.ts"
 import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { landBodies, landRemovals } from "./gated-landing.ts"
 import { akashaSeatIdForName } from "./seat-akasha-beside.ts"
-import { toolArgv } from "./tool-argv.ts"
 import { patchUncommitted, readUncommitted, removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { placeDirOf } from "../../page/page-types.ts"
 
@@ -23,11 +14,7 @@ const MESSAGES = placeDirOf(PAGE_TYPE)
 
 const PAGE_SUFFIX = `.${PAGE_TYPE}${MARKDOWN}`
 
-const SCRATCH = "/var/tmp"
-
 const WRITER = "message-file-writer"
-
-const TOOLS = dirname(import.meta.dir)
 
 const CLAIMED_AT = "claimed-at"
 
@@ -94,33 +81,6 @@ export function composeMessage(stated: {
   ].join("\n")
 }
 
-export interface Run {
-  readonly code: number
-  readonly output: string
-}
-
-export function runWriteTool(tool: string, args: readonly string[], writer: string): Run {
-  const dir = mkdtempSync(join(SCRATCH, "message-file-"))
-  const outPath = join(dir, "out.txt")
-  try {
-    const proc = Bun.spawnSync([process.execPath, ...toolArgv(tool, args, dirname(TOOLS))], {
-      stdout: Bun.file(outPath),
-      stderr: "pipe",
-      env: { ...process.env, AGENT_ID: writer, ACTING_AGENT_ID: "" },
-    })
-    let output = ""
-    try {
-      output = readFileSync(outPath, "utf8")
-    } catch {
-      output = ""
-    }
-    const stderr = proc.stderr === null ? "" : new TextDecoder().decode(proc.stderr)
-    return { code: proc.exitCode ?? 1, output: `${output}${stderr}` }
-  } finally {
-    rmSync(dir, { recursive: true, force: true })
-  }
-}
-
 const FAILED = /^\s*\[[a-z-]+\]\s+fail\b/
 
 export function whyRefused(report: string): string {
@@ -174,27 +134,13 @@ export function writeMessage(stated: {
   if (unknown !== null) return { kind: "refused", detail: unknown }
   const id = Bun.randomUUIDv7()
   const relPath = messageRelPath(stated.to, id)
-  const dir = mkdtempSync(join(SCRATCH, "message-file-"))
-  try {
-    const bodyPath = join(dir, "body.md")
-    writeFileSync(bodyPath, composeMessage({ ...stated, slug: id }), "utf8")
-    const wrote = runWriteTool("write.ts", [
-      "--repo",
-      AKASHA,
-      "--file-path",
-      join(akashaRoot(), relPath),
-      "--content-file",
-      bodyPath,
-      "--mechanical",
-      "--message",
-      `message to ${stated.to} from ${stated.from}`,
-    ], WRITER)
-    return wrote.code === 0
-      ? { kind: "written", id, relPath }
-      : { kind: "refused", detail: whyRefused(wrote.output) }
-  } finally {
-    rmSync(dir, { recursive: true, force: true })
-  }
+  const landed = landBodies(
+    { repo: AKASHA, writer: WRITER, message: `message to ${stated.to} from ${stated.from}` },
+    [{ relPath, body: composeMessage({ ...stated, slug: id }) }]
+  )
+  return landed.ok
+    ? { kind: "written", id, relPath }
+    : { kind: "refused", detail: whyRefused(landed.why) }
 }
 
 function claimedAtMsOf(absolute: string): number | null {
@@ -301,14 +247,15 @@ export function takeMessage(to: string, id: string): Taken {
     removeUncommitted(absolute)
     return { kind: "gone" }
   }
-  const taken = runWriteTool("rm.ts", [
-    absolute,
-    "--repo",
-    AKASHA,
-    "--message",
-    `message to ${to} is read, and read is the file's absence`,
-  ], WRITER)
-  if (taken.code !== 0) return { kind: "refused", detail: whyRefused(taken.output) }
+  const taken = landRemovals(
+    {
+      repo: AKASHA,
+      writer: WRITER,
+      message: `message to ${to} is read, and read is the file's absence`,
+    },
+    [relPath]
+  )
+  if (!taken.ok) return { kind: "refused", detail: whyRefused(taken.why) }
   removeUncommitted(absolute)
   return { kind: "taken" }
 }

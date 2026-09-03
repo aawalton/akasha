@@ -1,8 +1,7 @@
 
-import { spawn } from "node:child_process"
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { toolArgv } from "../tools/lib/tool-argv.ts"
+import { landBodies } from "../tools/lib/gated-landing.ts"
 import type { MonarchTransaction } from "./client.ts"
 import { accountPages, categoryPages, keyOf, monthOf, monthSlugs, sidecarOf, tagPages } from "./files.ts"
 import type { TransactionLine } from "./files.ts"
@@ -229,49 +228,6 @@ export async function patchTransactionLines(
 
 export const WRITER = "monarch-writer"
 
-const WRITER_ENV = { ...process.env, AGENT_ID: WRITER, ACTING_AGENT_ID: "" }
-
-const TOOL_CEILING_MS = 300_000
-
-function tool(
-  name: string,
-  args: readonly string[],
-  stdin: string | null,
-  cwd: string = AKASHA
-): Promise<{ readonly code: number; readonly said: string }> {
-  return new Promise((resolve, reject) => {
-    const child = spawn("bun", [...toolArgv(name, args, AKASHA)], {
-      cwd,
-      env: WRITER_ENV,
-      stdio: [stdin === null ? "ignore" : "pipe", "pipe", "pipe"],
-    })
-    let said = ""
-    const ceiling = setTimeout(() => {
-      child.kill("SIGKILL")
-      reject(
-        new Error(
-          `tools/${name} did not finish inside ${TOOL_CEILING_MS / 1000}s, so the month files ` +
-            `were left as they stood. What it had said:\n${said}`
-        )
-      )
-    }, TOOL_CEILING_MS)
-    child.stdout?.on("data", (chunk: Buffer) => (said += chunk.toString()))
-    child.stderr?.on("data", (chunk: Buffer) => (said += chunk.toString()))
-    child.on("error", (error) => {
-      clearTimeout(ceiling)
-      reject(error)
-    })
-    child.on("close", (code) => {
-      clearTimeout(ceiling)
-      resolve({ code: code ?? 1, said })
-    })
-    if (stdin !== null && child.stdin !== null) {
-      child.stdin.write(stdin)
-      child.stdin.end()
-    }
-  })
-}
-
 /**
  * This lands the month files, and it reads nothing first.
  *
@@ -284,21 +240,18 @@ function tool(
  * `tools/lib/tracking/akasha-day.ts` states for the day funnel: its `AGENT_ID` names no seat, and
  * where one is fabricated the record it builds is invalidated by its own write, the file it is
  * about to write being among the ones the warrant asks it to have read. These bodies are composed
- * by a program rather than authored, which is what `--mechanical` on the write below says, and a
+ * by a program rather than authored, which is what landing mechanically below says, and a
  * composed body owes no reading.
  */
-export async function through(items: readonly WriteItem[], message: string): Promise<void> {
-  const root = AKASHA
-  const named = ["--repo", AKASHA_REPO]
-  const wrote = await tool(
-    "write.ts",
-    [...named, "--input-file", "-", "--mechanical", "--message", message],
-    JSON.stringify(items.map((item) => ({ ...item, file_path: join(root, item.file_path) }))),
-    root
+export function through(items: readonly WriteItem[], message: string): Promise<void> {
+  const landed = landBodies(
+    { repo: AKASHA_REPO, writer: WRITER, root: AKASHA, message },
+    items.map((item) => ({ relPath: item.file_path, body: item.content }))
   )
-  if (wrote.code !== 0) {
-    throw new Error(`landing the ${AKASHA_REPO} files exited ${wrote.code}:\n${wrote.said}`)
+  if (!landed.ok) {
+    throw new Error(`landing the ${AKASHA_REPO} files was refused:\n${landed.why}`)
   }
+  return Promise.resolve()
 }
 
 export async function landTransactionFiles(

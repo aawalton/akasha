@@ -1,5 +1,5 @@
 import { keepBeside } from "./seat-beside.ts"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot, resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { BeatReport } from "../seat-page-beat.ts"
 import type { Outcome } from "./gated-write.ts"
 import { nameFromHistory } from "./seat-page-history.ts"
@@ -10,12 +10,15 @@ import {
 import { formatSeatProcKey, readSeatProcKey } from "./seat-proc-key.ts"
 import { composedNameOf } from "./seat-rename.ts"
 import { LOG } from "./supervisor-config.ts"
-import { toolArgv } from "./tool-argv.ts"
 import { clearRotated } from "./seat-rotated-session.ts"
 import { keepSession } from "./seat-session.ts"
 import { keepTranscript } from "./seat-transcript-path.ts"
 
 const BEAT = "seat-page-beat.ts"
+
+function beatArgv(args: readonly string[]): readonly string[] {
+  return [`${akashaRoot()}/tools/${BEAT}`, ...args]
+}
 
 function reportFrom(output: string, code: number): BeatReport {
   const line = output.trim().split("\n").at(-1) ?? ""
@@ -38,7 +41,7 @@ function reportFrom(output: string, code: number): BeatReport {
 
 function runBeat(args: readonly string[]): BeatReport {
   try {
-    const proc = Bun.spawnSync([process.execPath, ...toolArgv(BEAT, args)], {
+    const proc = Bun.spawnSync([process.execPath, ...beatArgv(args)], {
       stdout: "pipe",
       stderr: "inherit",
     })
@@ -50,7 +53,7 @@ function runBeat(args: readonly string[]): BeatReport {
 
 async function runBeatAsync(args: readonly string[]): Promise<BeatReport> {
   try {
-    const proc = Bun.spawn([process.execPath, ...toolArgv(BEAT, args)], {
+    const proc = Bun.spawn([process.execPath, ...beatArgv(args)], {
       stdout: "pipe",
       stderr: "inherit",
     })
