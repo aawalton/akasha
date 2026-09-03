@@ -10,7 +10,7 @@ export const akashaMigration = {
     {
       statement: "All files in the akasha repo are in the akasha subfolder.",
       workingMemory:
-        "Now 10,183 outside akasha against 124,920 inside, from 69,894 and 32,904 at dispatch. MEASURED, correcting what this said before: audit runs its 41 checks SERIALLY in one process, peaks at 17.2 GB over 911s, and ACCEPTS redirected output. The licence is lifted; the rule is one full audit at a time. Only `akasha read` refuses a pipe, so `script -qec` is owed to nothing else, and an exit 144 is an OOM kill rather than a refusal. Refusal counts cannot be compared across runs on a live tree.",
+        "Now 5,371 outside akasha against 130,300 inside, from 69,894 and 32,904 at dispatch; the 316 property definitions came back at fee94d0eb1 and afea396f22. MEASURED: audit runs its 41 checks SERIALLY in one process, peaks at 17.2 GB over 911s, and ACCEPTS redirected output; one full audit at a time. Only `akasha read` refuses a pipe; exit 144 is an OOM kill. Build debris cleared, 4,870 ignored files gone; 919 `*.uncommitted.*` page-data files kept because the backup does not hold them.",
     },
     {
       statement: "Alan's own records are akasha pages.",
@@ -25,7 +25,7 @@ export const akashaMigration = {
     {
       statement: "Nothing outside akasha duplicates what is already inside it.",
       workingMemory:
-        "MATCH ON SLUG AND FIELDS; report the id, never key on it: some discard ids, some carry them. temper-skill 1,636/1,636 on slug, 0 on id; persona-day 2,079/2,079 carried, 1,938 pointed at by id from inside. Never re-mint an id before counting what points at it. `migration-reach` cannot judge code: a module names no page type, so it answers that no counterpart could be looked for, forever; only `--told` reaches code. 10,469 sidecars hold 126,962 rows with no home; a folder sweep destroys them.",
+        "MATCH ON SLUG AND FIELDS; report the id, never key on it. Never re-mint an id before counting what points at it. DISTINCTNESS has three arms, none implying another; body-only must strip id, slug AND the export name, since a re-filed page carries a new export name, so a two-line strip is blind. An arm is proven only when a seeded pair collapses under it. `migration-reach` cannot judge code; only `--told` reaches code. 10,469 sidecars hold 126,962 rows with no home; a folder sweep destroys them.",
     },
   ],
   constraints: [
