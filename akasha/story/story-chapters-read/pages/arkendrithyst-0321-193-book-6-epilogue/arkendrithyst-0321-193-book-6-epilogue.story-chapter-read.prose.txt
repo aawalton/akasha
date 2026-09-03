@@ -346,3 +346,756 @@ Favored Ability waiting!
 
 Apparently there was no level 100, according to Jane, which was a bit of a surprise, but didn’t really matter. Erick was comfortable with his level, and though he was near the ‘cap’ and he wouldn’t be getting any more easy points that way (probably never again, actually, because he wasn’t going back down to the Core unless he needed to), he could still get points through the Quest Board.
 
+So Erick planned out how he would spend his points all the way down to 20, in case he needed some Restricted Magics later. Those special spells, of which Erick actually didn’t know of aside from [Create Food and Water], each cost 5 points if you accidentally or purposefully unlocked one. [Duplicate] had cost him 5 points when he Remade that one. According to Kirginatharp, unlocking a Restricted spell without having 5 extra points on hand was a Bad Time, and usually resulted in points being stripped from your highest Stat in order to pay the cost.
+
+Such a removal was what actually caused the Bad Time, and not only because of the loss of 5 points from a high-point Stat usually meant a lot less Health or Mana or Regen, but it also hurt like a terrible soul wound.
+
+… Erick decided to keep 21 points around in case of emergency. He liked having even Stats, after all.
+
+Otherwise, 28 points went into both Willpower and Focus.
+
+Erick Flatt
+
+Protean, age 0
+
+Level 96, Class: Particle Mage
+
+Exp: 3.41 e21 /8.36 e21
+
+Class: 10/10
+
+Points: 21
+
+HP
+
+1,590/1,590
+
+56,220 per day
+
+MP
+
+13,260/13,260
+
+56,220 per day
+
+Strength
+
+25
+
++28
+
+[53]
+
+Vitality
+
+25
+
++28
+
+[53]
+
+Dexterity
+
+25
+
++28
+
+[53]
+
+Constitution
+
+25
+
++28
+
+[53]
+
+Perception
+
+25
+
++28
+
+[53]
+
+Willpower
+
+193
+
++28
+
+[221]
+
+Focus
+
+193
+
++28
+
+[221]
+
+Intelligence
+
+25
+
++28
+
+[53]
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Erick looked at his Status.
+
+… And he wasn’t sure he liked it, actually.
+
+Not for any numerical reasons. The numbers were fine. Now that he was back on Veird, with Intelligence pulling a lot of weight and his Normal Form’s Scion filling in his missing mana, he cast spells for pennies on the dollar and recovered faster than he needed to.
+
+No. He wanted something simpler, and mainly because he’d probably rarely ever be looking at his Status ever again. Like, sure. He still had use for his Status, but he rarely needed to look at all those numbers anymore. He knew that other Statuses were possible, but he had never looked into that option for himself. Such a thing was easy enough to find with his Minor Entity access, though.
+
+And so, Erick started perusing through Variant Status options. He glanced over the ‘build your own Status’ option, too, but he didn’t think that would be necessary. The offered options were pretty good. In fact, Erick found one he kinda liked—
+
+Oh! And there were options to have dual Statuses; He could have one Status for normal use, while keeping the expanded one in case it was needed to check on his actual numbers. That was good. Erick liked that a whole lot… But he didn’t actually like the offered Statuses, since they didn’t reflect his [Blessing of Recovery] very well. So he tinkered around with the options for a little bit, and then he selected his new Status. The change deducted 1 grand rad from his current stock of hundreds he had already banked with Rozeta, but that was fine.
+
+Erick pulled up his new Status
+
+Erick Flatt
+
+Level 96, Class: Particle Mage
+
+Class: 10/10
+
+Health
+
+1,590/1,590
+
+Mana
+
+13,260/13,260
+
+Recovery
+
+54,630 per day
+
+… Now that he looked at it, he wasn’t sure if he liked what he had done. It was kinda… Simple. Too simple? Probably too simple.
+
+One thing that the Script lacked was the ability to show active spell effects, and it had always lacked that option, so the most important things to keep track of were untrackable. Erick couldn’t see at a glance how much his [Unbreakable Form] was blocking, or even how much a [Personal Ward] still had left in it. Ah! Oh well. He probably wouldn’t use the new Status much.
+
+Ah. But wait. Erick reconsidered. What was the purpose of the smaller Status? It would be to prove who he was to people who might not know. With that in mind, Erick spent another grand rad out of his hundreds available, and made himself a slightly different Status.
+
+Erick Flatt
+
+Class: Particle Mage
+
+Yup! That worked.
+
+He moved on. It was time to check Class Abilities.
+
+He checked his current Abilities first, to remind himself what he had, but also to see if any Benevolence-stuff had happened to Light Dedication, like what had happened to his [Greater Lightwalk] and [Lodestar].
+
+Spend 100 mana to discover if a Particle spell is possible, greatly reducing the risk of Errors.
+
+If you witness a Particle spell and you understand it, you may unlock that spell for free.
+
+Major Mana Shaping applies to all Spells. Altering ongoing Auras is considerably easier.
+
+Double Base Mana
+
+Double Base Mana Regen
+
+Your ability to create new Particle Spells is Greatly Increased.
+
+Quest Board
+
+Blood Mana
+
+Light Dedication
+
+Force Savant
+
+Huh. Surprisingly, nothing had changed there. Which was good! So Erick checked to see if he had gained any new Ability options—
+
+His eyes went wide.
+
+Apparently all of his Abilities were up for reevaluation.
+
+Gatemaster – Double the effective range of your gate space. Minor improvements to everything gate related.
+
+Shifting Runes – your power will linger in your runes for at least 24 hours after being carved, allowing your runes to shift to better fit the magic running through them.
+
+Lesser World Warden – double all resources, deal double damage.
+
+Mental Defenses – double your effective defenses against all harmful mental magic.
+
+Erick hadn’t thought that he would ever consider replacing his Double Mana or Double Mana Regeneration Abilities, but Lesser World Warden was just better. And for half opportunity costs, too.
+
+… It was possible that the Abilities would stack, though, and so Erick would need to clear out something else in order to accept Lesser World Warden… So what would go?— Eh. No need to guess without full information. He was a Minor Entity, so he could just ask the developer these questions.
+
+“Does Lesser World Warden stack with the other multipliers? And why ‘lesser’?”
+
+Erick had expected Rozeta to telepathically talk to him, as she had before, but instead a blue box appeared.
+
+Lesser World Warden is a complicated Ability that is different for most people who qualify for it. For you, Lesser World Warden is apparently a confluence of all Double Abilities that few souls would be capable of handling. This does not stack with the normal Double Abilities. Choosing this Ability would replace your current pair of Doubling Abilities.
+
+The normal World Warden Ability is an on-use ability that empowers the user with a short-duration spell that is similar to Phagar’s [Death’s Approach] that you used in Last Shadow’s Feast. Instead of 10 times Mana and Infinite Regen for one hour, though, you would gain 5 times Mana, Health, and Regen, for 1 hour, with a similar downtime due to soul damage as you experienced after [Death’s Approach].
+
+The Script usually assigns the person gaining the Ability which type of World Warden Ability they prefer, but I can switch yours to the Normal version if you desire?
+
+Do you want to talk about your Boon, now?
+
+“No Boon right now. And I do like the Lesser version better. Thanks.”
+
+Another blue box appeared.
+
+Then I will attempt to answer whatever other questions you may have, but most of my efforts are elsewhere at the moment. A lot of things are happening all at once, Erick!
+
+Good luck.
+
+The blue box closed.
+
+Erick went on with his Status updating. He selected Lesser World Warden. An expected Quest popped up.
+
+Class Ability Quest!
+
+Receive approval from a Major Relevant Entity of the Script. 0/1
+
+Reward: Lesser World Warden
+
+A box instantly appeared with Rozeta’s approval written small and centered, flickering open and shut almost at the same time, and then the Quest completed. Two more blue boxes appeared just as fast.
+
+Class Ability Quest!
+
+Receive approval from a Major Relevant Entity of the Script. 1/1
+
+Reward: Lesser World Warden
+
+Notice!
+
+Activating Lesser World Warden will deactivate your Class Abilities:
+
+<Double Base Mana>
+
+<Double Base Mana Regen>
+
+Notice!
+
+You have more Class Abilities than Slots!
+
+You are at Maximum Slots!
+
+Seek out a Registrar if you wish to change Class Abilities.
+
+Erick flicked through some blue boxes, canceling his Double Mana and Double Mana Regen Abilities—
+
+Suddenly, he held twice as much mana as he could actually hold. It was an uncomfortable feeling, like a pressure inside his chest and head and guts and every part of him, all at once. White glows began to leak from his body, turning to tiny jolts of lightning, as that extra mana began to fall away—
+
+He selected Lesser World Warden.
+
+An easy solidity touched his soul and then expanded everything. It was not a comfortable feeling, but it was a feeling of strength developing out of weakness, and so it was acceptable. Erick endured, and when it was over, he felt it had not been much worse than trying to hold in his own mana, over his current limits, back when he was practicing that sort of thing in Ar’Cosmos—
+
+Erick flinched at that memory; at the whole memory of being trapped in Ar’Cosmos at all.
+
+He breathed for a moment.
+
+He moved on. It was time to do the housekeeping for his Other Form.
+
+A part of him was looking forward to seeing if he got any strange monster-based Class Abilities, but he was pretty sure that it didn’t work that way. Monsters got Abilities based on their natural accretion and natural inclinations. Monsters didn’t get Registrar-enabled Quests at all. They didn’t need the help! The whole purpose of the Script was to contain all mana, but it was only people who got a boost to power to help them compete against the monsters.
+
+If the Open Script wasn’t there to help those who needed help, then only people like Erick or dragons or otherwise would have any easy access to mana at all, and that’s not even touching upon how much harder it would be to get magic. Making magic required mana, firstly, but a magically-uneducated person only made 1 mana per day. Even a magically educated and expanded person, under the Script, only made 10 mana. Erick made a million mana per day. A dragon made anywhere from 500 to 5,000.
+
+… His monster form probably didn’t get any Abilities.
+
+Erick switched to his Other form.
+
+And then, as he attempted to pull up his Class Ability screen, a few things happened all at once. First, he felt resistance, as if the Script wasn’t ready to accept his inputs as a Minor Entity. And then, his mental command slipped sideways. The Ability options appeared—
+
+And a blue box appeared atop the Ability options.
+
+You appear to be a sapient monster attempting to reach for what you have lost.
+
+We wish you would attempt to return to civilization, but since you cannot or will not, then the Script adapts. All your Class Abilities are still there, but you must provide a point to reach them. Failing that, you must provide a grand rad in order to start a Quest to gain a new Ability.
+
+Ah. So—
+
+Oh.
+
+Something strange had happened when he tried to access what he thought he would be able to access, and the Script compensated down a different path… or something? Probably. And now Erick was here, looking at his Class Abilities like he had expected. He had just gotten here weirdly.
+
+Erick dismissed the notification and glanced over his Class Abilities.
+
+… No new additions!
+
+“Expected, and yet not actually expected,” Erick mumbled—
+
+He paused. He asked, “Could I get double [Personal Ward]s? From the Class: Warder?”
+
+Feel free to Wizard yourself into that capability but I cannot do this for you.
+
+Double Wards is the central capability of Warder, which is one of the central Classes of the Script.
+
+A different central Class is Force Mage, and it is upon this progenitor that all of Particle Mage was built, because Particle Magic is mostly advanced telekinesis. If you went for telekinesis a lot more than you actually have, you might be able to gain the Class Ability Innate Telekinesis or Super Fine Telekinesis, or maybe even World Shaper, though all of those are not your style, so you probably wouldn’t qualify for those particular Abilities anyway.
+
+Huh. She was pulling back the curtain, wasn’t she.
+
+And yet...
+
+“… But I have Shifting Runes? That seems like it doesn’t fit this progenitor Class system. Shouldn’t I only be able to get Minor Shifting Runes?”
+
+There are many answers there and all of them are possible.
+
+You did some Pure Wizardry there, just like you’ve done a lot of Wizardry in a lot of places.
+
+Or.
+
+In the creation of [Renew] and the corresponding rune, you have shifted your soul toward a runic language, and therefore shifted your own capabilities to include something that is normally not included. While the rune creation itself was Wizardry, you likely already got most of the way there on your own. It is impossible to separate Wizardry from Skill.
+
+Or.
+
+You really, really want Shifting Runes, and the Script is helping you, as it often does.
+
+“… Ah.”
+
+Double [Personal Ward]s went into the pile of Wizardry-to-investigate as Erick nixed that idea, for now. Instead, he pondered how much he wanted Shifting Runes (not a lot, actually) and what to do with all these points in his Other Form. He had gathered quite a few, it seemed, and he was still rather ‘low level’ in this form, too.
+
+Erick Flatt
+
+Protean, age 0
+
+Level 65, Class: Particle Mage
+
+Exp: 1.08e15/ 2.77e15
+
+Class: 10/10
+
+Points: 180
+
+HP
+
+3600/3600
+
+6420 per day
+
+MP
+
+3720/3720
+
+6420 per day
+
+Strength
+
+92
+
++28
+
+[120]
+
+Vitality
+
+91
+
++28
+
+[119]
+
+Dexterity
+
+92
+
++28
+
+[120]
+
+Constitution
+
+91
+
++28
+
+[119]
+
+Perception
+
+103
+
++28
+
+[131]
+
+Willpower
+
+124
+
++28
+
+[152]
+
+Focus
+
+123
+
++28
+
+[151]
+
+Intelligence
+
+104
+
++28
+
+[132]
+
+Favored Spell Waiting!
+
+Favored Spell Waiting!
+
+Favored Spell Waiting!
+
+Favored Spell Waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+He also needed to place some Favored Spells and Skills here and there.
+
+… He had never done much with his Health-Cost skills, had he? A Favoring on [Hunter’s Instincts], and that was it! He hadn’t even used that skill that much recently. Looking back on it, he hadn’t done much killing of anything in a month; not since he was leaving the Core with Kromolok, Tasar, and Sitnakov at his side—
+
+Well. He did help Kromolok clear out some threats all around Stratagold, but that didn’t really count. Erick didn’t need to use [Hunter’s Instincts] then.
+
+It was quite interesting, though, that apparently he had 7 Favored Abilities (but they’re actually Favored Skills? Why the disparity in the Script like that?) to apply, and 4 more Favored Spells. Apparently, having this Other Form allowed him to double up on those bonuses which naturally came from Clarity and Precision, which he had Remade in Ar’Cosmos and only gotten the boxes for just… yesterday.
+
+… Gods above, so much shit happened yesterday.
+
+Erick ignored that trauma, and considering which spells to Favor, though with his Intelligence and with the Script helping, his mana costs were already next to negligible. And so, since there were no needs…
+
+Yggdrasil got a Favoring, because he deserved one, of course. Ophiel already had a Favoring so it was only right for Yggdrasil to get one, too. [Gate] got a Favoring because of course it did. [Pristine Benevolence] got a Favoring, too. Erick had never Favored [Greater Lightwalk], it seemed, but it wasn’t like he had needed that Favoring, anyway. Now, though, with [Pristine Benevolence] being weird and new, a Favoring there might actually matter in the most extreme of cases, though Erick couldn’t think of such a case at the moment. The last thing to get a Favoring was… Nothing, actually. Erick couldn’t think of anything else he had that needed another 25% cost reduction.
+
+The Favored Abilities could just stay there, too.
+
+Lastly, he selected the Class Quest for Mental Defenses. Because, duh. YES, he was going to pick that one. Of course. But then, as the Quest popped up, and then a secondary prompt appeared, Erick was suddenly not so sure that this would work out how he had wanted.
+
+Class Ability Quest!
+
+Achieve tier 3 Mind Magic.
+
+Reward: Mental Defenses
+
+Caution!
+
+You possess no mind magic capabilities!
+
+The Quest <Mental Defenses> might be impossible for you.
+
+“Well fuck,” Erick said.
+
+… Well. Not a total loss. With doubled Health he would be more resistant to Mind Magic. Theoretically. According to what Quilatalap and others had said, anyway.
+
+Erick moved on, selecting his next option with which to fill the space created by Double Mana and Double Mana Regen getting absorbed into the singular Lesser World Warden.
+
+It was Mana Shield, which would split any damage received between his Mana and his Health. With how high he expected his Mana and Health to be after he finally activated his Class Abilities in his Other Form, taking a hit to the deep resources of his Mana in order to have double effective Health, seemed like a good idea. The only way he was in danger of dying these days was from some sort of concentrated…
+
+Attack. Spell. Mind mani—
+
+From quite a fucking lot, actually.
+
+Erick’s thoughts began to spiral as he considered all the danger looming all around him, threatening to drown him, to kill, to take away everything, to leave him in a world of ash and death. Dragons burning the horizons. Fairies leaping out from behind cabinet drawers with knives in their hands and lulling words on their lips. Shades with swords made of voids, sticking those voids through his chest and cutting off his arms.
+
+Erick breathed deep.
+
+He breathed deep for a little while.
+
+Then he looked back to the blue boxes. He rapidly spent some points to flush out his Other Form’s Willpower and Focus, trying to get through this bookkeeping while he still had a chance, and as fast as he could. He then simply spent 9 points to reactivate his Class Abilities, and then he got the Quest for Mana Shield.
+
+Mana Shield was a rather simple Quest since it was a very basic ability; cast a [Personal Ward] worth 10,000 defense.
+
+Well.
+
+It was simple for Erick.
+
+For a normal mage, just starting out with 20 in Willpower and the x3 Skill for 600 Mana, and with Clarity and a Favored [Ward] for 25% costs, they’d normally only be able to get a [Personal Ward] worth 1,200 defense, since [Personal Ward] was a double cost magic. But for a real mage, middling capability, with Scion of Willpower and 50 Willpower for 6,000 Mana, a similarly fully-powered and Skilled [Personal Ward] would be worth around 12,000 defense.
+
+A world of difference.
+
+It was why a lot of mages went for Scion of Willpower, because ten times as much [Personal Ward] defense was a lot.
+
+Life versus death for most adventuring mages. Do you survive a swipe from a monster and live to reposition, or not? Do you just die? Are you able to get back home and hug your parents, or your kids? Or do they burn a painting of you, because they had no body to burn? Do you—
+
+Ah.
+
+Spiraling thoughts again.
+
+Erick stilled himself.
+
+Then he spent a meager 900 mana, and with his effective 3% mana costs via Intelligence, produced a 15,000 defense [Personal Ward]. As that white glow settled into his body and vanished, two things happened. The stacked [Unbreakable Form] that had suffused his body, providing him with 500 points of absolute defense, vanished; you could only have one [Personal Ward] active at a time.
+
+And a blue box appeared.
+
+Class Ability Quest Complete!
+
+Cast a personal ward worth at least 10,000 defense. 1/1
+
+Reward: Mana Shield
+
+And then Erick spent a point on that Ability, to activate it in his Other Form, because, of course, the Script was meant to help people; not monsters. Monsters could unlock Abilities if they were sapient, but they had to spend a lot of extra resources to actually gain those Abilities. Erick smiled a bit at that. He also grinned as he took in his Other Form’s Status. He was looking robust—
+
+“Whoop!” Erick said, applying a point into a thing he had told himself he would do, and then almost forgot. “And Scion of Balance, for a double multiplier in every…” Erick’s voice failed him as his selection finalized and a sudden wooziness took hold. He mumbled, “Oh. Right. This is a stressful… adjustment...” With airy words, Erick whispered, “Right.”
+
+And then he crashed to the floor.
+
+- - - -
+
+Erick sat up.
+
+“Hello, Erick,” Rozeta said, as she moved around glowing white runes upon a blue wall the size of a standard chalkboard. She was in her human-shaped white wrought form and wearing a snappy white pantsuit. “I’ll be right with you.”
+
+The sky was a blue expanse. The ground was a solid white cloud, and Erick had just sat up from that ground. It was as soft as a very firm bed and a part of him wanted to lay right back down, but he did not. There were no walls. Rozeta’s blue chalkboard just hung there, while she clicked and dragged runes around, as one would move a single ball around in a vertically-aligned ball pit. Erick tried to understand what he was seeing, but there were too many runes and they were layered too deep to make any sense of them.
+
+He couldn’t be here, anyway. He had no time to waste.
+
+What if something happened—
+
+“We’re time-dilated, Erick,” Rozeta said, while still dealing with her runes. “Normally, the choosing of a Scion is a chance to greet a god that suits you and to gain some insight into what might be the rest of your life, but you’ve already done a lot of that and I’m exceedingly busy at the moment. And so, much like that time when you gained all those New Stats back at Last Shadow’s Feast, let’s do that again, okay? I’ll watch over you while you adjust, however you need to adjust. Your body is already done, by the way, but mentally…” She glanced his way. “You can take as much time as you want.”
+
+Erick instantly collapsed back on the soft, yet firm cloudy floor. He felt some emotion adjacent to relief that he couldn’t quite put into words. Relief, and also thankfulness, probably.
+
+Rozeta returned to her work, while her voice drifted over him, “Feel free to conjure some of your favorite foods from Earth, or anything else you wish to conjure. This is effectively a dream space half under your control.”
+
+Erick remained flat on the floor, softly breathing. He sat up, “Do you have any movies from Earth? Any of the new stuff?”
+
+“Nope.” Rozeta said, “We’re not actually connected to Earth at all, but you could watch a movie that you’ve already seen before. It’ll be an approximation cobbled together from your memories, but since your memories are rather good, it might be close to the original.”
+
+Erick had hoped…
+
+He wasn’t sure what he had hoped for. He did not want to go back to Earth. He also knew that Veird was not connected to Earth at all. Maybe there had been a movie coming out that he had wanted to see, but which his fall to Veird had prevented… Though. No. That wasn’t it, either.
+
+Maybe he just wanted some normalcy.
+
+Or to sleep.
+
+“I want to sleep for a while, and know that I’m actually safe.” Erick asked, “Can I do that, here?”
+
+“Absolutely.”
+
+A bed lifted Erick out of the clouds. Perfectly-sized pillows and warm-looking comforters materialized out of the intangible white mist all around. Erick smiled at that, chuckling a little. And then he covered himself up. He was already wearing pajamas, too, so that was perfect.
+
+Rozeta didn’t look away from her chalkboard as she said, “Your body will only be out of it for moments, but if you wish, I can ask Sitnakov to station himself nearby. The man is truly repentant.”
+
+Erick had a hard time believing Sitnakov was actually sorry, but…
+
+Maybe he was.
+
+“Sitnakov can show up when I wake up.”
+
+Rozeta said, “Sure thing. I’ll let him know. Also: Phagar has some Time Magic tricks that will allow you to do this yourself. Speeding up one’s own time is difficult, but should be easy for yourself.”
+
+Now that made Erick feel a lot better. Better enough to chuckle a little. Erick smiled to himself as he said, “Time Magic with Phagar was already on the list, but it’s just moved up a few notches.”
+
+Rozeta glanced backward at Erick, smirking, then she returned to her duties, saying, “Good luck with Time Magic. You should be very good at it.”
+
+Erick nodded, feeling sleepy. Then he looked over to Rozeta and tried to understand what she was doing. “Good luck with… Whatever you’re doing, too.”
+
+“Mostly soulwork and mana wrangling.” Rozeta continued doing what she was doing, saying, “A lot of mana wrangling. Do you want to know more?”
+
+Did he want to know more?
+
+Well… Yeah.
+
+Erick blinked to try and clear his eyes. The chalkboard now looked like an open window into a world of fractally-floating marbles, each spinning into and on the others in continuous spirals of transformation and recombination. In some places the spirals and movements were too complicated for the marbles to handle, and some of those marbles broke off to float free among all the rest. Rozeta was plucking those free floaters out of the sea of marbles, to place them back where they had to go, or to put them into a new spiral she was starting off to the side. Erick blinked a bit, and the whole vista of an ocean behind the chalkboard transformed back into a mishmash ball pit, like the one Jane had used to love when she was a kid, until someone peed in the ball pit and she got all wet. They never went back to that place, afterward. It closed down a year later.
+
+… Erick wanted to know what was happening, but whatever Rozeta was doing with the ocean of fractal marbles was too much for him right now
+
+“Maybe later, Rozeta. Thanks for the offer, though.”
+
+Rozeta nodded, and continued doing what she was doing.
+
+Erick put his head down on the pillows. He heard Rozeta wish him a good night, but he was already asleep.
+
+- - - -
+
+Ten hours and ten moments later, Erick awoke with his face planted on the stone floor of his mage tower. He blinked a bit, and then he got up and stretched. And he felt fantastic. Once again, and in a way that would likely never get old until he had done it a thousand times already, Erick was amazed at how nice his body moved, and the wonder that was physical Stats.
+
+His first action was to check on the Ophiel around him, but when he saw nothing untoward outside of the Privacy he had cast into his mage tower, he moved on; back to what he had been doing before he selected Scion of Balance. He checked his Status.
+
+And he wondered if he would ever have a reason to switch back to his Normal Form.
+
+Erick Flatt
+
+Protean, age 0
+
+Level 65, Class: Particle Mage
+
+Exp: 1.08e15/ 2.77e15
+
+Class: 10/10
+
+Points: 27
+
+HP
+
+3635/14,400
+
+41,040 per day
+
+MP
+
+2,845/26,760
+
+41,040 per day
+
+Strength
+
+92
+
++28
+
+[120]
+
+Vitality
+
+91
+
++28
+
+[119]
+
+Dexterity
+
+92
+
++28
+
+[120]
+
+Constitution
+
+91
+
++28
+
+[119]
+
+Perception
+
+103
+
++28
+
+[131]
+
+Willpower
+
+195
+
++28
+
+[223]
+
+Focus
+
+195
+
++28
+
+[223]
+
+Intelligence
+
+104
+
++28
+
+[132]
+
+Favored Spell Waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Like, sure, his Normal Form had a lot more Mana Regen with Lesser World Warden, but this Other Form had over 14,000 Health. Around 11,000 more Health! And since Health was a barrier against the most dangerous of magics, like Soul Magic and Mind Magic, with this, he was a lot more resistant to that stuff!
+
+Theoretically.
+
+Fairy Moon didn’t seem to care about Health when she worked her Mind Magic, tho—
+
+Like a bolt of lightning from the blue, Erick had a thought.
+
+The very second he had stepped into that [Gate] of hers, had his Health vanished? His Health had still been there when he was inside the Twisted Vision, but maybe, in that specific case, inside that springtime tunnel of pink and green and white, Fairy Moon had pulled him directly into the part of Ar’Cosmos where his Health didn’t matter. Perhaps?
+
+Something to think about.
+
+Most people only had 600 Health, max. That wouldn’t protect anyone from the kind of magic that was truly dangerous, though, but warriors, with 12,000 Health, were expected to shrug off most dangerous magics unless they lost a lot of Health, first. Theoretically, with 14k Health, Erick should be as ‘immune’ to mental and soul attacks as a strong Scion of Strength warrior! Hopefully.
+
+Another sudden thought occurred…
+
+Did he want to remain in this Other Form? More than only when needed?
+
+14,000 Health meant a lot more Health could be spent on spell costs, too, through Blood Mana. His Normal Form only had around 3,000 Health. As a ‘monster’ Erick effectively gained 50% more ‘Mana’— Well. This was the primary reason for trying out Scion of Balance, wasn’t it? Having all these extra resources had been the primary reason long before he actually had all these other thoughts about protecting himself from Mind Magic.
+
+But also, in this Other Form, he could keep an eye on his core at all times, ensuring that it was well-maintained. Later, when he figured out a [Blessing of Renew], or something else to allow him to maintain his core without his direct supervision, he could forgo that need. But for now he could check himself whenever.
+
+Plus, he liked being physically strong.
+
+Erick grabbed an edge of his stone table by the window and—
+
+SNAP
+
+The stone edge crumbled and broke as Erick pinched the stone in his hand. That was kinda fun. He cast a [Mend] on the table—
+
+Nothing happened.
+
+… Nothing happened?—
+
+Oh! He was inside a Privacy, so nothing happened, of course. Or maybe there was some interaction between Fairy Moon’s necklace erasing his worldline and the manasphere history of everything he touched. Hmm. Well. Something to investigate, but whatever. Erick [Stoneshape]d the broken bits back into the table, repairing back to how it should be, and reconsidered if he wanted to wear this necklace at all. If it was interfering with [Mend], then maybe not. But… People would see his core if he took this off...
+
+Anyway! Back to his rocking body! Erick smiled at himself, because having this sort of physical strength was a draw, for sure…
+
+Erick mentally pulled back, attempting to reevaluate all of his thoughts.
+
+People didn’t like monsters, therefore, Erick probably shouldn’t be a ‘monster’ most of the time. Plus, a core was actually a vulnerability, but, his Normal Form’s physical brain and such was just as much a vulnerability as a core. A brain was on the edge of his body though, when compared to a core which was center mass. Sniper-types tried to aim for brains to score a Critical, but often missed, while most other types and general auto-targeting spells, like [Force Bolt], all went toward center mass; toward the core/heart area.
+
+Erick wasn’t quite sure if he could survive missing a head. He wasn’t an orcol. But then again, he wasn’t a human, either. And, he had a core, which was where his soul was anyway. As long as his soul remained, the body could be healed, right?
+
+Or was that wrong.
+
+That was probably wrong.
+
+Moving on.
+
+There was no need to have a core to make magic, while under the Script. Leaving aside all the physical boosts that accretion gave a person, a core was only necessary when the Script wasn’t there, or when the Script had a hard time reaching, like in places such as Ar’Cosmos. In almost all other places, the Script was there to assist in all ways. If Erick ever went back into Ar’Cosmos it would be too soon, so therefore he would likely have Script access for the foreseeable future.
+
+… He would likely need to go into Ar’Cosmos for some shitty reason, wouldn’t he.
+
+… And eventually, Erick would need to get used to having a core.
+
+But perhaps even more than that, the Script was an assistant, and one day the training wheels would be coming off. Not tomorrow, and maybe not even in 50 years, but in 100 years all bets were off. When new worlds opened up, the Script to come next could take any form at all, and so the only truly reliable way to cast magic was to have a core.
+
+And besides that, Erick was a Wizard.
+
+He needed to understand all the foibles of living with a core. All the weaknesses and strengths. The goal, after all, was to fully transform into a mana crystal of his own making while simultaneously retaining a normal, functional body; a Paradox. When that happened he would have a core without having a core; like he was now, but as a cohesive whole, and without the Script supporting and dictating how his two halves were split.
+
+Once he managed to put himself together in a cohesive way and achieve a fully crystalline self, like how the Shades apparently were, no one could influence his mind or his soul or any part of him without his consent. Physical damage of all sorts would remain a problem, but all the more dangerous magics would be solved.
+
+No more mind control.
+
+No more fairy problems.
+
+“I suppose... I’ll be this for a while,” Erick mumbled to himself, as he looked down at his hands, and at the corded muscles of his forearms. He made two strong fists—
+
+Benevolent lightning danced across his fingers, flickering out from inside his body before settling back below his skin. The white sparks left not a trace in their passing, except in the widening of Erick’s eyes.
+
+“… It’ll take some getting used to.”
+
+He didn’t notice how his eyes flickered with white lighting, but he would soon enough.

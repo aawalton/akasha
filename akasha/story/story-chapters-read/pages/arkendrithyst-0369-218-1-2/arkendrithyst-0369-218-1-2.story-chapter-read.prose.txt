@@ -124,3 +124,190 @@ Erick said, “Yes, but what does that actually mean?”
 
 Bright Smile rattled off, “For Ar’Cosmos, which is in Fairy, and which surely has different options than what you will likely have with Benevolence, we can change the color and presentation of the [Gates]. We can make [Gate]s into Ar’Cosmos come back if they are destroyed. Inside of Fairy itself, we can create layers of gate spaces, with the deepest ones good for hiding things and the higher ones good for living on. Perhaps the most well-known power of my uncle, though, is that he has the power to deny the Realities of others; it is how he mitigates the Curse to nothing, and how we restrict all Script Magic inside our lands. It is theorized that this sort of power is rather normal for Fairy, but my Uncle has control over that. There are a few other minor benefits to Gatemaster that I will not divulge in mixed company, and if you ask me later I will likely tell you, yet ask you not to divulge them either.
 
+“As for Redflame’s personal use of [Gate], it has different applications inside Ar’Cosmos and outside. In both locations, he can open [Gate]s into all layers of Ar’Cosmos as he desires, and he can move people from one layer to another, or out entirely, without those people needing to actually enter a [Gate] at all. His [Gate]s are resistant to being destroyed, and will survive slight external movements. He can also open or close [Gate]s outside of the Script Second.” Bright Smile said, “And that’s the publicly available intelligence that others have on Ar’Cosmos, so I will keep it that way.” She turned to Aisha, pointedly asking, “How much of that did you already know? And how much did you learn, getting Erick to ask this of me, here and now?”
+
+Erick rapidly said, “She didn’t do anything—”
+
+“All that Bright Smile has shared is already known,” Aisha said, “It is news, however, that these capabilities are actually the product of Gatemaster, and not personal power, or Fae Magic.”
+
+Bright Smile grinned wide, showing off sharp teeth, as she said, “Like I said; the capabilities of Ar’Cosmos might have little bearing on what Benevolence can do. I imagine that a Gatemaster of Death or Lava would also have vastly different capabilities. And Redflame hasn’t had cause to come to the Surface in an age, so perhaps all that we know he can do is simply skill, and has nothing to do with Gatemaster at all.”
+
+Erick moved on, saying, “Much appreciated, Bright Smile. Would you like to stay for the discussion of Gate Version 6?”
+
+Bright Smile glanced at the lightsculptures overhead, then said, “No. I don’t believe I could be much help with this. The Gates of Ar’Cosmos don’t operate like how your Gates operate, nor do we want them…” Her ruby eyes lingered on a particular display. She pointed to the automagical Gate idea, saying, “All the rest of your concerns will have to be solved in other ways, but this problem is semi-solved, alongside the Hub Gate idea. We have a House Death summoner cast a spell that consumes a gate space node, and then that summoner can control the node to cast [Gate]. This is the main function of House Death; to control the pathways leading to Ar’Cosmos. Your man Burhendurur was denied learning this magic, for it is one of our greatest secrets. We would ask that you not ask us for this spellwork, either, as this is a massive security concern. All I can tell you is that this problem is easily solved, and through this problem I suppose all the others are made easier?” She glanced at another display. “You probably don’t want others tromping around inside your Gate Space, though, since you likely don’t have multiple layers of land within which to hide the node.” She ignored the displays, and turned to Erick. “Unless you do?”
+
+Erick said, “I do not have Gatemaster, so I don’t really know, yet, but Yggdrasil is inside there, anyway. He could provide overall protection, and I can assign others to operate inside of there since I am sure that having someone inside Benevolence will be necessary to spot deeper future problems… once I have the time to make extra nodes, anyway. I would ask for Redflame to assist me with understanding how to make extra nodes, exactly, if he could.”
+
+Bright Smile’s grin widened. “I’ll inform uncle of your needs, and have a missive for you soon enough. We’ll talk about Ar’Cosmos’s Gate needs at that time, too, if I cannot get my needs met through your castellan, that is.”
+
+Erick suddenly wondered if Redflame would be up for making a Gate Network, too. He made it once. He could make it again. But then again… Erick doubted Redflame would want to do such a thing, or that Ar’Cosmos would want that. Erick decided not to bring up that topic right now.
+
+“I’m sure Zolan will assist Ar’Cosmos’s Gate needs as best he can. Your guidance is appreciated, Bright Smile.”
+
+Bright Smile gave a small nod, then stepped away.
+
+Erick turned back to the others. “So! A summon to eat a node, to cast [Gate]?”
+
+Lapis said, “That is sort of what I was talking about earlier. I am sure there is a better way to do this than to give a [Gate] to another, to operate in your stead, and thus make your gate space vulnerable to… Quite a lot of things, truly. Too many. But a ‘node eating summon’ does seem like the proper solution here.”
+
+Quilatalap said, “I agree, but let us talk this out, for maybe there is an answer here, anyway. In my mind, you would want an autonomous summon to eat a node, and then the summon would respond to a certain type of intent... Probably a telepathic ping. With a proper ping, the summon would automatically respond with a [Gate] from one location to another. I imagine an end-user sending out a telepathic signal to the consumed node and getting a [Gate] from their current location to their envisioned endpoint… But doing it that way would leave the node vulnerable to a [Telepathy] attack, which is likely why Ar’Cosmos doesn’t do it that way; they use manual control from an approved mage. Probably have some layers of defense between the mage and the [Gate]-requester, too.”
+
+Aisha said, “From your descriptions, I feel that there is a [Gate] network that works based on a ‘ping’. The [Gate] you can purchase in the Script. For 500 mana, you get a [Gate] from one location to the next.”
+
+Quilatalap’s eyes went wide. “Oh!”
+
+Lapis thought. She wasn’t convinced— And then she was convinced. “Could that be the reason for spending 10 points?”
+
+“I believe so.” Quilatalap said, “You have to spend personal power to make the summon which attaches to a personal node. Not the nodes that actually exist all around… Probably in some Divine Realm, somewhere. For 10 points, the Script could make a gate space for anyone. The Script could certainly do something like that.”
+
+Erick considered. “Huh… And an autonomous summon could place limits on what goes through? Or maybe the limits are baked-in to the node the Script makes for you? That might be exactly why the Script [Gate] has limits at all, when my [Gate] and the [Gate]s of Ar’Cosmos have no throughput limits at all.”
+
+Aisha looked pensive. “I suppose that makes sense… Should we aim for that design as the goal? Hobbled nodes?”
+
+Lapis looked unsure. Quilatalap didn’t like that idea, either.
+
+Erick looked back at his diagrams, then said, “I want a device where people can touch buttons and dial a Gate, and not have any root access to Benevolence space itself. When other people make their own [Gate]s then they can do that sort of thing and take on that risk, but not right now, not here at the start when the security we devise will remain in place for at least 50 years, and be the bedrock upon which all modern Surface movement is based upon.”
+
+Lapis said, “Counterpoint: a system of multiple nodes, separated from you, will be harder to take down than you think, for you can always cancel the summon that you use to eat the node, if the person you have given the [Gate Maker] to decides to mess with your systems. A summon that eats a node will expand your territory a great deal, since you can set the node out there far away from current locations. And, a summon that is made to be directable can be directed with runic devices quite easily. And we know that a node-eating summon works.” Lapis said, “We don’t know that whatever pure-runic devices we attempt to create now will ever work, and we need a solution as soon as possible; not two months from now. And, I doubt that a pure runic device will work at all. There needs to be some soul magic in there, somewhere.”
+
+Aisha and Quilatalap listened to Lapis. Both of them had some thoughts about the Shade’s words, with Aisha distrusting the woman but unable to find fault, and Quilatalap ready to work on that node-eating spell right now.
+
+Erick wasn’t happy with it, but action mattered. “Then we shall move forward with this node eating idea, and I will… figure out how to make the nodes? Limited nodes, I suppose. Which means somehow copying spellwork inside of me and giving a copy to a secondary core.”
+
+“Dragons can make extra cores rather easily” Lapis said, “If you have no experience with that I will help, but, I think Quilatalap has some ideas?”
+
+Quilatalap did have some ideas. His toothed soul flexed a bit, as he said, “We don’t need to have the node to actually make the eating spell.”
+
+Aisha tried not to show that she was miffed at her inability to participate in a Soul Magic discussion, as she said, “I have knowledge of how spellwork can be copied through multiple cores, but no actual experience with that.” In a much easier tone, she said, “But making spell-eating magic which then uses the magic it ate, according to the whims of the caster, is an application of Book Magic, and I am rather good at that. I am rather sure that we could solve this entire set of problems you have listed through Book Magic, and runic workings, and we don’t have to do Soul Magic, node-eating magic, at all. Simply eating a single cast of [Gate] should be all we really need to do.”
+
+Erick rapidly backtracked on his previous course of action. “Yes. Let’s do that instead.”
+
+Lapis said, “I would use Book Magic to make the node-eating magic as well, but to fully accomplish this without a deeply altered [Conjure Force Elemental], and thus push this spellwork into the realm of Soul Magic, would be needlessly complicated.”
+
+“It might be possible to do this without Soul Magic.” Quilatalap said, “Might even be possible to do this without [Conjure Force Elemental] at all.”
+
+Lapis was not convinced.
+
+Erick smiled a little, feeling that they were getting rather far with this little discussion. At the mention of Book Magic, a few ideas swirled inside his own mind, including that time he had managed to make [Teleport Magic] through Tasar’s assistance. A lot of people considered Book Magic a different way of viewing all magic, and yet Tasar had not even brought up the subject when it came to that spell, or all the other Spatial Magic spells she knew, which, to the untrained eye, might also look like Book Magic. Erick hadn’t done much with that branch of spellwork, but he knew most of the basics. It appeared he would need to learn more than the basics, though, and fast.
+
+Erick said, “I would like to stay away from Soul Magic for this, and focus on Book Magic. I like the idea of making a magic that eats a specific [Gate], instead of a full node, and then moves that [Gate] under the control of the caster. Getting that sort of spell into a runic device might be a problem, too. But that’s for later. The major problem is that I know next to no Book Magic, and my Soul Magic is mostly instinctual, too, so we’ve got our work cut out for us.”
+
+Lapis was unsure. Aisha looked determined and willing to try, but there was trepidation there, too.
+
+Quilatalap shrugged, saying, “If anyone can do it, you can.”
+
+“Hopefully.” Erick asked, “Anyone want to start explaining Book Magic, first? Let’s start from the very top, if we can. We can get to the actual [Gate Control] spell in a few hours.”
+
+The orcol archlich, the iridescent wrought archmage, and the human Shade, each looked at each other. A small discussion later, circling around depth of instruction and who wanted to go first, and the first person was ready to speak.
+
+- - - -
+
+Aisha began, “I am a Book Mage, so my perspective is rather skewed, but I believe that Book Magic is the most useful magic in existence. Not the most powerful. Not at all, but it is the most useful. This is because, at its base, Book Magic is about editing reality. Book Magic can take a bowl of cold soup and edit away the ‘cold’, replacing it with ‘hot’. And like with what Architect O’Lark did with the three different ideas of the house of House Benevolence, Book Magic can edit multiple things together, in the most fascinating sorts of ways.
+
+“This editing ability is so powerful, that among the non-wrought, Book Magic is theorized to be the basis for the Script. That theory is true in some respects, yet it is also not true at all. The Script is an act of godly power and pure magical intent, along with a bunch of other things that are outside of the scope of Book Magic. Perhaps there is a ‘Divine Book Magic’, used by Rozeta herself to organize the world… Perhaps.
+
+“The Book Magic that we use, though, is much more restricted.
+
+“The most common restriction is that you can only really use Book Magic on various things that are fundamentally yours. Spells qualify most easily for this restriction, and indeed, Book Magic is very useful for making new spells that have truly strange effects.” She began summoning light sculptures to illustrate her words. “For instance, under normal Script designs, you can take [Force Bolt], Mana Altering Fire, Altering Ice, and Altering for Elemental Book, and produce the tier 2 spell [Burning Frost Bolt]; a spell which hits with the sting of ice, and leaves a freezing fire behind that sucks the heat out of the target.
+
+“But instead of making that one spell, you can use Elemental Book to have fun with all the various Bolt spells you have ever made, without needing to lock yourself into actually making [Burning Frost Bolt].
+
+“You simply use [Editing Bolt], instead.
+
+“Casting this spell will take some skill, because you cannot simply cast the spell like you would any other Script spell; simply flicking your intent and mana into your desire to cast, and it will be cast. To use [Editing Bolt] properly you must also mentally link with the two or more Bolt spells that you wish to cast at the same time, and you must also decide, on the run, which effects you desire from those input-spells.
+
+“As another example, imagine a [Fireball] spell, and another spell similar in scope, but not in effect, [Frostbomb]. Now, you could simply combine the two spells, making a higher-tier spell based on that combination. You might end up with the standard [Frostfireball], which causes a creeping frost that deals damage over time, and slows all affected by the spell. But, under the limits of the Script, when combining magic, the outcome that you get is the outcome that you get, and you must break that combination if you wish to try for a different combination. This means your [Frostfireball] is static. Unchanging. What you cast was what you got, and if you want to make a different sort of [Frostfireball], leaning more into the initial damage, or the damage over time, or the area, or whatever, you must break that spell, wait the appropriate amount of time based on the tier of the magic, and then try again.
+
+“But we’re going to do some Book Magic and bypass those limits.
+
+“For this example you would use [Editing Bomb], since all of these input spells are based on [Force Bomb], and that is how Book Magic works best; between things that are already similar, but vastly different in specific ways.
+
+“Instead of making any higher-tier magic at all, you simply use [Editing Bomb], linking with your [Fireball] and [Frost Bomb] spells, and you mentally adjust the output spell as you desire. In this way, your [Editing Bomb] spell will produce a [Frostfireball], or a [Flashice Bomb] which explodes sharp ice in a large area, or a [Mistyfireball] which spreads a floating mist that burns and lingers. You can use the same three spells and focus on some different desired aspects each time, altering your arsenal, tailoring your destruction for what is actually needed, at that moment.
+
+“Through a modicum of Book Magic, and heavy initial investment, one is able to switch around one’s magic at will.” Aisha asked, “Does that all make sense?”
+
+“… Huh.” Erick said, “Never had it explained quite like that— So are you doing something Paradoxical when you use Book Magic? Like when you [Teleport], and what you’re actually doing is rewriting the past to put yourself in a different place in the present; are you rewriting the outcome of combining [Frost Bomb] and [Fireball] through Elemental Book, and Book Magic?”
+
+“Ah! [Teleport] is actually a special case of where something looks like it could be Book Magic, and you can make a Book Magic sort of [Teleport], but it’s not the same thing at all.” Aisha said, “In [Teleport], you are changing a past event and propagating that change to the present, like, say, a decision to eat lunch in one city versus a different city. That’s the most common example of what it means to [Teleport]. This version of [Teleport] will put you in that different city.
+
+“But [Reposition], the Elemental Book version of [Teleport], looks like this:”
+
+Greater Reposition, instant, super long range, 1 mana + Variable
+
+You change your location based on the transformation of one attribute.
+
+“That’s my version, anyway.” Aisha continued, “And as you can guess it is a lot more limited than [Teleport], but it can do a lot if you know how to work it. For instance, for 500 base mana, I can [Reposition] from here to Oceanside, though I have absolutely no control over where I actually end up at Oceanside. Usually it’s some unprotected library.” Aisha allowed herself a brief excitement, and then controlled that excitement back down to normal levels, as she said, “I have been working on a [Benevolent Reposition] which hasn’t gone anywhere recently. The goal with that one is to enact the change from ‘I am here’ to ‘I am where I need to be’, which is a very large transformation. Difficult.” She added, “And just so you know, the wording change to get me from here to Oceanside or back is ‘I am here at the Gate District’ to ‘I am here at Oceanside’. If you switch around your language in which you conduct your formation of intent, you can make Book Magic easier, or much harder than it needs to be. Ancient Script is good for Book Magic in some ways, but harder in others. It’s all rather self-evident, though, once this has been pointed out… Yes, you get it.”
+
+That was all so fascinating. Erick wasn’t sure where he wanted to continue his questions.
+
+After a moment, Erick picked what seemed like the largest concern to get out of the way, and asked, “What are the limitations of Book Magic, with regard to the things altered, for example?”
+
+Aisha gave a nod, beginning to speak halfway through the motion, “Book Magic works best on what is yours, and yours alone. ‘Bars of gold’ is something that you might own according to your bank accounts, but not according to Book Magic. Book Magic makes really good buffing magic, because you can temporarily do things like give yourself 200 extra Willpower— Which has very deep soul-problem-issues if you use something like that with any regularity at all. Once every year would be about all you could handle with that…” Aisha thought. She said, “Book Magic is also most used in information tracking. [Remember] is a version of a basic Book Magic buffing spell, which is a result of [Identify] and Mana Alter Book, and a self-buffing sort of framework, which allows you to sort your memories in a way that allows for easy retrieval and indexing. Most Book Mages keep that one running all the time, in a way that every mage casts a [Personal Ward] at the start of the day. It’s a cheap spell, and once you learn it, you don’t need it active all the time in order to still make use of the indexing that you’ve built within yourself…” Aisha paused. “And that’s a good start. Obviously you could write a book on Book Magic—” She grinned, having told a very old joke. “—but we’re not here to read books. Who wants to go next?”
+
+Lapis and Quilatalap shared a look.
+
+- - - -
+
+Lapis began, “Most applications of Book Magic are limited to self-magics, but this sort of transformation is a much deeper magic than simple memory spells. The big example there is [Polymorph]. All the best mimicry magic is also Book Magic. [Duplicate] is considered Book Magic, but since [Duplicate] is so heavily controlled, no one really knows what category that falls under. Book Magic makes the most sense for that one, though.
+
+“Because, at its base, Book Magic is about categorizing everything, and then, if you pull and push and snip and rearrange well enough, Book Magic is also Editing Magic. Indeed, many Book spells are named ‘editing’ in some way. Overseer Aisha touched upon how one can only shift around one’s own stuff, but the deeper answer is that one can only shift things that are minor, and only between similar circles of interaction.
+
+“If you have a reed basket of apples and a thin-wood plate of limes, and everything is the same except for the nature of their containers, you can use a basic editing-focused spell in order to easily transform the reed basket into thin wood, and the thin-wood plate into reeds. To transform the positions of the apples and limes, you’ll have to use more mana and have a better visualization of the change you are enacting upon the items. One of the hardest things to do would actually be to tip the apples or limes out of their containers with a Book spell, since that would be completely transforming the nature of the situation, from one of order, to one of random disorder. Some of the other hardest things for Book Magic to do is to change anything that the user doesn’t think is easy to change.
+
+“Teleport will get you out of a welded-shut cage. Book Magic will have a tougher time.
+
+“The most basic editing spell is something with [Identify], Altering for Elemental Book, and [Force Wave]. This working creates a splash of power that you must then focus on the things you wish to edit, and if you can visualize the shift easily enough, then it will happen. Normal people will fail at all applications of Elemental Book, for their visualizations are terrible. You will likely find this part of Book Magic easy, due to your various senses.
+
+“For the purposes of making a simple [Gate Redirector] —tentative name, non-Soul Magic— what you will be editing is the location of the other side of the [Gate], to predetermined locations, primed to accept a [Gate]. The editing process should be rather simple in this case, for the shift will simply be ‘this [Gate] connects to pair-Gate 1’, and then you shift the ‘1’ to any of the other options in the system.” Lapis ended with, “I am completely unversed in what sort of editing-level power one must be able to achieve to move a [Gate], but the Mind Mages use a version of this ‘connection selection’ when it comes to their Crossings; their [Telepathy] network.”
+
+And Lapis was done.
+
+Semi-excited, Aisha said, “It might not be nearly as difficult to switch the end-point of a [Gate] as I thought— I mean. Well. A ‘Gate Hub’ would need to have some codes and such in order to prevent someone from making a theoretical ‘Gate #11’ in a 10 Gate system, and then flicking the Master Gate to an unapproved location… But then again maybe that’s a good thing? Room for expansion and contraction of Gates, as necessary?”
+
+Lapis, having a weird moment at sharing excitement with a wrought, said, “Adjustable Gate Hubs seems like it would solve a great deal of future issues, like mismanaged expectations on travel loads here and there causing a buildup or dearth of Gates.”
+
+This was very, very good. Erick had known that Book Magic was exceedingly useful for the editing of worked objects, and books, and even one’s mind. From what Lapis and Aisha had already said, it seemed like Book Magic was the way to go in this project.
+
+Erick felt better and better about this. One more person was here to speak his ideas, too, though, so Erick asked, “Quilatalap? I’d love to hear your opinions.”
+
+From their expressions, Lapis and Aisha dearly wanted to hear the lessons of the Archlich of Necromancy, too, but while the Shade was openly interested, the wrought was still coming to grips that this was happening. Aisha was working alongside beings she knew of as unrepentantly evil, and yet they were working toward a common good. It was messing with her, a lot. She was coming to accept this new part of her life, though.
+
+Quilatalap stood from his chair, as Lapis sat back down.
+
+- - - -
+
+“Book Magic is a crude tool that can do anything you want it to do, if you’re good with mental shifts and if you’re okay with having a crude final product.” Quilatalap said, “If you want a plant to grow in a certain way, you use a directed [Grow], carefully using the Elemental Water and a variation on Ooze called Wood or Plant, and adjusting the whole transformation from seed to tree. You do not do a Book-shift, violently changing the plant from ‘seed’ to ‘tree’, for you will end up with a dead tree, or a stunted thing, or any number of other problems. You don’t use a Book-shift to heat your water, editing its ‘cold’ status to ‘hot’, because you might end up with boiling tea, or bath-water tea, or a flash-transformation into steam. The [Reposition] of Book Magic can get you from here to another city halfway around the world, but you’ll end up in some random location in that city every single time, and [Reposition] certainly can’t get you to any specific place like [Teleport] or elementalstepping can.
+
+“The best, most controlled way to use Book-shifts, and to end up with a proper result, is to target two or more objects and to edit their parameters, moving desired and undesired parameters around until you’re happy with one of the objects, and willing to throw away the rest. If your Book Magic isn’t targeting two or more things that are fully under your authority, then you’re going to have a bad time.
+
+“Gaining authority over an object for the purposes of Book Magic is only truly achievable through a Book Domain of some sort. An Elemental Book aura can be used to exert authority, but this is a half-measure at best. Same goes for any other type of Domain, while any other aura spell will do less than nothing; it will actively harm your attempts to use whatever Book spell you’re using.
+
+“There are some spells you need to experiment with before you attempt to make [Gate Control], or whatever it ends up being called.
+
+“The best combination for making a basic, all-around editing spell is something close to what Lapis suggested. [Identify], plus Altering for Elemental Book, which is to add directable Book into the [Identify] spell, and then [Force Wave]. When made properly, which means no damage from the Wave and all power turned into classification and malleability, this sort of spell looks like it should cost around 100 mana. If you make the version for 100 mana, then you have done it wrong.
+
+“If you make it correctly, it will cost 50 mana plus Variable, and still be rather difficult to use. You will only achieve a measure of skill with the spell when you get the hang of mentally labeling the things you wish to edit before you cast the spell, and then you use the spell to edit those things, while also pumping enough mana into the working to ensure that the edit actually takes place. If you spend too much mana, then you will have unintended edits, causing shifts in areas you did not intend to shift. If you don’t spend enough, then you will have accomplished nothing.” Quilatalap finished with, “Literally anything you can do with Book Magic, you can do cheaper, and more exact, with other schools of magic, except when it comes to the one thing Book Magic excels at; the generalized editing of the attributes of two or more things.”
+
+Erick felt a lot better about the future as he listened to Quilatalap. “Thank you, Quilatalap. I feel I’ve been neglecting Book Magic for far too long, and now I think I need to actually go make this spell.”
+
+Quilatalap said, “You haven’t been neglecting anything. Book Magic is unwieldy. But yes. I’ll make this magic with you. To the throne room?”
+
+Erick’s heart soared. “Yes.” He turned to Aisha and Lapis, saying, “Do either of you have any other suggestions for Book Magic workings? Any necessary things?”
+
+Aisha said, “Try out something simple like [Editing Bolt] and a bunch of assorted Bolt spells to get the feel of Elemental Book before you try to make a generalized [Edit], which is the name of the [Identify], Book, and Wave spell that Lapis and Quilatalap suggested. It’s a fine version of [Edit], and can easily be transformed into an aura spell, so I have no qualms about that.”
+
+Erick nodded.
+
+Lapis said, “You’ll need a Super Long Range version of [Editing] in order to make the [Gate Relocation]s spell, which is… I’m not sure how difficult that is, but it seems doable with Spatial Magics, and using runic devices to push back the Darkness… Certainly not a normal spell, though.”
+
+“I have some suggestions on that front, Erick,” Aisha said. “But getting through the first round of spell creation will be important to do, long before we get to making [Gate Relocation] magic.”
+
+Erick said, “Think of other options besides [Gate Relocation] while I’m working on this, and also whatever Soul Magic that might be good, too. But, I’m rather sure that [Gate Relocation] will solve a myriad of security issues, from allowing the shut down of a [Gate], to minimizing the need for Gates here in the District, to making it so that there aren’t open [Gate]s just… Every-fucking-where— Wow, that’s going to be a security nightmare... I want this to work.” He glanced over to Zolan, and everyone else planning out Gate Network expansions. “I think Zolan knows the new plan—”
+
+Zolan looked up from what he was doing, and nodded, then he went back to talking about Gates in Nelboor. He had been listening to the discussion happening over here while he was also working over there. A lot of people had been, actually.
+
+“—but we can’t actually expect this to work until I get it to work. So. Thanks for being here, and helping to stem this tide of horror.”
+
+Aisha gave a half bow. Lapis swelled with sudden pride, and gave a bow slightly lower than Aisha’s.
+
+And then Erick grabbed Quilatalap and stepped the both of them back to the throne room for magical experimentation.

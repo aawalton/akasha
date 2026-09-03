@@ -140,3 +140,390 @@ Poi raised his head to look at the old archmage.
 
 Tenebrae continued, “A nomad adventurer who likely broke herself of the mental block that hampers [Teleport] long ago, and a Mind Mage, who likely had that thought drowned out of him when he came to Spur, where everyone in that city got there either through their own Spatial Magics, or through the Wayfarer’s Guild. It’s no wonder you never heard of this. If you had been born and raised on a nothing-farm in some nothing-part-of-the-world where you never moved outside of a ten square kilometer box your entire life, you would have had a lot of trouble with [Teleport]. But surely you had trouble with some spells. So what were they?”
 
+Erick went with the flow, saying, “I had a lot of trouble with wardlights until I came to magic with an open, unafraid mind.” He gestured to the right, and cast a complicated structure of—
+
+Tenebrae lifted his hand. “[Dispel]!”
+
+The light sculpture that Erick had been trying to make, collapsed. White light broke into motes that drifted into the ambient manasphere like so much disappearing dust. Erick was almost too stunned to be mad, and then he was mad.
+
+Tenebrae glowered. “It’s rude to cast magic in Polite Society without announcing it first.”
+
+Erick clipped off his angry response, and said, “You’re right. It is.”
+
+“And yes! You cannot be afraid of magic if you wish to be a mage!” Tenebrae laughed right at him. “It’s a wonder you got anywhere at all! Your methods are not applicable to everyone. Your magic is not foolproof. You are not the archmage you pretend to be! So! Continue with your basic lesson, Erick, and I will point out more problems and their roots.” Tenebrae smiled. “This is fun.”
+
+“…” Erick gestured to his chalkboard. “So as I was saying, all magic is based on the Elements—”
+
+“Wrong!” Tenebrae said, “Shaping is just as important as Elemental usage. For instance, Spatial Magic is not Elemental, at all! Many magics are not Elemental. [Teleport], [Mend], [Telekinesis], and more! If all you deal with is Elemental magic, then you are only learning half of the story—”
+
+Erick interrupted, “Force is an Element. Spatial Magic is therefore based in Force.”
+
+With a greater smile, Tenebrae said, “Force is the absence of Elemental power! Your conventions are not normal conventions, Erick! And I bet you can’t even shape— No. Wait…” He looked at Erick, and saw something there that made Erick worried. Tenebrae said, “Ha! Your problems are even more basic than that. You just never considered the shape, did you?” Tenebrae instantly recanted, “No. That’s wrong. You must have considered the shapes of your magic otherwise you would never have gotten anywhere. When you make a magic, how do you shape the magic?”
+
+Erick found himself figuratively stripped bare.
+
+First of all, Force was an Element, for sure. Erick had no idea what Tenebrae was smoking, but Force was definitely an Element. It was even in that book of Elements that Syllea recommended. And, also, Erick was adept at making magic. He had made Force Element spells before. Force was an Element!
+
+But.
+
+Shaping was important. Possibly even more important than the Elements that would occupy the shape of the desired magic.
+
+Shape was so important, that Erick had never really considered the shapes of his magic, at all.
+
+Of course you would need a canvas before you began painting. Of course you needed a turkey for Thanksgiving, or a car before you considered going on a road trip, or a house before you considered hosting a house party. These were just givens that Erick had never truly considered more than ‘oh yeah, this is what is necessary’. Therefore, the shapes of Erick’s magic was exactly what it needed to be.
+
+But had Erick ever truly considered the shape before? Yes, and also no.
+
+Erick answered, “I shape the magic in the most cost-effective way I can think of for any particular spell.”
+
+“Boil a stew to burned residue!” Tenebrae laughed. He demanded, almost joyfully, “How do you actually shape your spells? Let us discuss [Ice Spike]. And no! Not you.” He looked to Jane. “You. You’ve heard from your father. You’ve had lessons before this, for sure. So! [Ice Spike]! Tell me where you would begin.”
+
+Jane looked to Erick, and Erick gave a ‘whatever’ face.
+
+Jane paused in thought, then said, “[Force Bolt] with Mana Altering for Ice, then infusing the idea with… Motionless thoughts of motion, touching and impacting the target.”
+
+Tenebrae nodded, then said, “Basic start, muddling middle, basic ending. A failure of a spell. Perfectly normal. Not good enough for an aspiring mage.” He looked to Erick. “Now you.”
+
+Jane sputtered.
+
+Erick almost warned Tenebrae off from talking to his daughter like that, but that would lead to a deterioration of everything; ruin lay in that direction. He did glance at Jane, though. She glanced back at him, and calmed, putting her own professional facade back on. She handled herself just fine.
+
+Erick turned to Tenebrae, and said, “Mana Altering for Ice and [Force Bolt], channeling the mana for both through my hands to hear them—”
+
+“What is this nonse—!”
+
+“You asked. Let me finish. Tear apart the whole thing, after I am done explaining. Please.”
+
+Tenebrae scowled. “… Continue.”
+
+“First, I decipher Elemental Ice, which is a variant element of Water, which is technically the sound for Water but slightly larger, since frozen water is larger than ice. There’re also connotations of deepness and spreading and the leeching of all heat in there, and some Particle ideas, but I need not go too far for those when it comes to [Ice Bolt], which is the kind of spell I would prefer to make; not [Ice Spike]. I like actually hitting my target, and—”
+
+Tenebrae interrupted, “Not what I asked for, but sound reasoning and not everyone can aim properly, though you give up most chances to critical when you do this. That you have this failing is not the largest of your failings. I will allow it.”
+
+“… And then I take the sounds of [Force Bolt] and join them with the sound of Ice, and create a cohesive whole, which I then shape into something that is sure to touch the target, and to bypass all defenses. In this way, I make an Ethereal, Inexorable [Ice Bolt], which is probably upgraded to [Glacial Bolt], or something. I haven’t actually tried that particular one yet.”
+
+Tenebrae smiled, showing off white teeth. “You haven’t made this one? Lying now, are we?”
+
+“Ah… Wait.” Erick just remembered, “I have made this one. But it was long ago, and…” He looked up his Status. “Ah. It’s called [Ice Spike]. I made it back when I was first starting. I would make a different one if I was doing this today. I must have barely tripped the line toward the naming conventions… Or something. I made [Glacial Crash] using this spell and then Mana Altering for fire, and that one does not have ‘unerring’. I could probably remake that one, too.”
+
+“Let me see. Both spells.”
+
+Erick… decided to show him.
+
+Ice Spike, instant, long range, 22 MP
+
+A bolt of pure ice unerringly strikes a target for 55 + WIL
+
+Glacial Crash, instant, long range, 55 MP
+
+A shard of pure ice strikes a target for 200 + 2x WIL
+
+Erick watched as Tenebrae read. The man obviously wanted to tear Erick a new one, but his joyful sneer vanished, replaced by a small frown. And then Tenebrae’s smile returned.
+
+Tenebrae said, “Over four times the original cost for what is surely a fraction of the damage of a four-times [Force Bolt], depending on your Willpower. And no ability to Slow the target; which is the purpose of Ice Altering. A failure of the spell. The second is even worse! The only impressive thing at all is that you have managed to combine the diametrically opposed Elements of Ice and Fire into this [Glacial Crash] while managing to retain the ‘pure’ designation. If I were you, I would rip these up and try again. They are a disgrace for any archmage, even if the archmage in question is you.”
+
+“You’re right.” Erick deleted the spells immediately, saying, “I have erased them. I will be remaking [Ice Bolt] at my earliest convenience.”
+
+Tenebrae narrowed his eyes. They flickered grey. He nodded. “And barely a shift…” He sat up. “At least you were aware enough of your own shortcomings so that you didn’t need to uproot a whole tree of spell failures.”
+
+“Yup.” Erick said, “I only ever made the two, and that was way at the beginning. I have only been at this for a year. Please forgive me for my failures.”
+
+“Not forgiven. Not yet. Maybe not ever.” Tenebrae said, “Especially when you talk of ‘musically combining spells’! Even the Songstresses of the Songli Highlands use some maths in their magic.”
+
+Erick felt his heart sink. “Oh, gods. Math.”
+
+Tenebrae laughed. “Yes! Maths! I have decided where we shall begin with your reeducation!”
+
+… He was getting a reeducation?
+
+Tenebrae declared, “We will work on proper spell matrices! Gridwork! This would enable a clarity of shaping and elemental designations much more than your ridiculous ‘hearing the magic’ ever could. Not everyone hears properly, and emotional magic is insanity waiting to happen. Your methods are deeply flawed, even if they have —somehow!— worked for you.” He stood and flicked his hand at Erick. “Get away from that chalkboard. I will speak of the true basic start to any spell creation! I will speak of gridwork, and you will learn.”
+
+Erick… thought he might have heard of gridwork before, but he wasn’t quite sure. It might have been in some of those math classes at Oceanside. But! Whatever! This might as well be happening. Erick walked to the chair beside Jane and sat down.
+
+Jane raised her hand, hoping to ask a question.
+
+Tenebrae glowered, then warned, “If you dare to say some variation of ‘Doesn’t the Script do it all for me’, then I will end this talk now and you’re not getting dinner for a week.”
+
+Jane kept her hand raised. She did not flinch under Tenebrae’s glower. She did, however, put on an even nicer, more congenial smile.
+
+“… Ask your question.”
+
+Jane asked, “Isn’t all math just a representation of the real world? Or do maths have some actual, intrinsic function upon magic? Does 2 plus 2 have a basis in this reality?”
+
+Tenebrae paused, as though he had walked into an [Invisible Force Wall]. He asked, “What? Where would you ever get that idea? Mana is possibility, and maths have a direct effect upon the world through the act of sympathy, which is the oldest and best known way in which magic functions, as its most core. Mana is possibility. Magic is the shaping and condensation of possibility. Maths are how you turn Possibility into Reality. Maths are magic, and they’re also not. Maths are sympathy at its most core. Maths are representative, and also so much more than that. I could repeat it a few different ways, but you get the idea. I hope.” Tenebrae added, “But while 2 plus 2 does not have a basis in our reality, it does have a basis in our subjective, personal Reality, therefore it does have a use when considering the symbology we erect in order to enact sympathy with the mana in order to create magic. Do you understand? I cannot make it more basic than that.”
+
+Jane nodded. “Sympathy. Right. Makes sense.”
+
+“… Do you know of sympathy?” Tenebrae asked, almost dumbfounded.
+
+Jane said, “Like-works-as-like.”
+
+Tenebrae found his footing again, saying, “Okay. Yes. For a second there I thought I would need to talk to you as if you were a complete idio—” He rounded on Erick. “Did you know of sympathy, before now?”
+
+“Yes.” Erick said, “I knew. Which is why I never bothered to learn the math. I got plenty of sympathy already. Just, not with the maths.”
+
+Jane said, “I told him about that stuff years and years ago. It was part of Earth’s magic traditions.”
+
+Tenebrae frowned; silent. Then he said, “I’ve read your reports to the Headmaster, but explain what you just said.”
+
+Jane said, “If you have read all my reports to the Headmaster, you might have noticed that there’s so many parallels from Earth’s magic to the magic of Veird. There are even some parallels with animals like the unicorn and the ideas of elves and fae and angels and demons, too, but what I have seen on Veird is only partially similar to what has been imagined on Earth, and that is a whole different topic, somewhat. Not a fully different topic, because. Well...
+
+“The similarities might have to do with all the magic that poured into this universe from the Sundering, that was not caught and kept by the Script. Maybe that unbound mana moved faster than light and instantly spread across the universe, catching upon the various worlds out there, and remained, somehow? There’s obviously some broken physics in there, which seems to go hand-in-hand with mana, or maybe something even stranger happened, but whatever the case, maybe some of that mana fell to Earth and we fell into a pocket of it, or something. Not too sure about that. But they do say that you cannot destroy mana, so while I suspect a lot of it fell into stars or black holes, a lot of it must have found planets like our Earth. This is what I mean when I talk about Earth’s magical traditions having parallels with Veird. But they’re, like, strange parallels.
+
+“And then, there’s the idea that mana is also Melemizargo, therefore it is possible that Melemizargo is already on many different worlds, and he just doesn’t know it.” Jane asked Tenebrae, “He is the mana, isn’t he? That’s what I’ve heard.”
+
+Erick and Tenebrae both listened to Jane, but while Tenebrae’s eyes turned distant and fearful, Erick was just proud.
+
+His daughter had independently come to a lot of the same conclusions he had; Erick had just never expressed them, for those were terribly scary thoughts, as Tenebrae was currently demonstrating. Erick had hoped to never give those thoughts a voice, but there they were, suddenly, out in the open, and put out there by someone other than himself. He didn’t want his daughter out there on her own though, so—
+
+Erick said, “I’ve heard that Melemizargo is the mana, too. I’m pretty sure that your ideas are exactly close to what might have happened, Jane, or at least I’ve had the same ones. I just… Didn’t want to voice those thoughts.”
+
+Jane sat back in her chair, looking triumphant, as she playfully chided, “Can’t be scared of the magic, dad.”
+
+Erick laughed. “I guess you’re right.”
+
+Tenebrae startled. He declared, “This lesson is over.”
+
+The older archmage rapidly walked away, visibly disturbed, and silent, back through the door at the base of his tower. The door to Tenebrae’s tower slowly closed shut, all on its own.
+
+Erick and Jane, and Poi, watched that happen.
+
+A moment passed.
+
+Uh. So. That just happened.
+
+“… Huh.” Jane said, “I did not expect that reaction from him.”
+
+Erick stared at his daughter, and laughed, nervously. He calmed, but not really. “Giving a voice to the fearful thoughts is not always a good idea.”
+
+“Eh.” Jane said, “Try not to worry about that stuff. Let’s just enjoy the adventure of it all.”
+
+Erick smiled, and he just had to hug his daughter, so he leaned over and wrapped his arms around her. She laughed over his shoulder as she hugged him too, and patted him on the back.
+
+“Love you.”
+
+“Love you, too.” Erick released Jane and went back to the chalkboard, saying, “So! The Elements. I consider Force an Element, but I guess not everyone does. You’ve been reading that book Syllea suggested, right?”
+
+Jane said, “Yeah. It’s in the room. It’s a bit juvenile, but it’s interesting.”
+
+Erick nodded. “So! The Elements—”
+
+Tenebrae’s door slammed open again. “Nope! We’re doing gridwork! Force is not an element!”
+
+Erick sighed.
+
+Then he stepped away from the chalkboard.
+
+Tenebrae retook his position as professor.
+
+A minute later, Erick and Jane watched as Tenebrae stepped away from the chalkboard, looking triumphant over his drawings, or rather, his gridwork he had placed upon the board. And it was a lot of gridwork, and each tiny space was filled with the Ancient Script symbols for various Elements; mostly Fire. He had even had to summon another chalkboard to write out all of his ‘gridwork’.
+
+Ninety-nine, hundred-by-hundred grids, written out over three boards. There were 99 100x100grids because each of those 100x100 grids was a slice of a 3D magic construction, exploded out into exacting detail. When placed next to each other in the proper way, and if you had a hundred, then you wouldn’t have had an exact-center box, which was necessary in about half of magic, since a lot of magic needed a ‘central tenet’, where the Ancient Script symbol was that would hold the whole working together; if it needed such a thing.
+
+Tenebrae explained the basic overview of it all as he cast the gridwork upon the board, but he did not explain everything. Mostly, he just told them what he was doing, but not the ‘why’ of it.
+
+Erick had seen smaller grids like these in his short time in Oceanside, but he had never truly understood them, or even tried to understand them. But now…
+
+This was complicated. And written small. Small enough to require most people to use [Ultrasight] to read the boxes from three meters away. Erick, almost uncomfortably, found he could read all of that just fine without any spells. Jane had had to squint, and then activate [Ultrasight].
+
+The idea of all these grids was simple, though, once you understood that the grids corresponded to individual slices of a spell, taken at the moment of casting. Each box had a symbol that corresponded to An element, or a direction, or a shaping of the magic inside that box. Putting all of this sliced-gridwork together into a 3D lightward, and a mage could see what they would need to do to make the spell therein.
+
+The problem with spell matrices, and why Erick had not seen many of them, was that even a 99 by hundred by hundred matrix could only describe the most basic of magics. No one used this methodology for anything over tier 3, except as a general guide, because gridwork failed at higher densities of spellwork.
+
+But gridwork was great for learning basic magics.
+
+“There! Now you know what you’re looking at.” Tenebrae asked, “So what is this spell? Jane.”
+
+Jane’s eyes went wide. Erick frowned. Was the old archmage picking on Erick’s daughter? All Tenebrae had done was explain a bit about the gridwork in front of him; not what he was actually putting in that gridwork. Was he pouncing on Jane just because he could, just because she had no experience, at all, with this ‘gridwork’? He probably was.
+
+But Jane was smart; she could handle this.
+
+Jane guessed, “Fire… Something. An individual spell. So not… Wave… [Fireball]?”
+
+Erick smiled. That was going to be his guess, too, except—
+
+“Incorrect!” Tenebrae said, “Erick! Now you try!”
+
+Erick frowned, complaining, “What you made has all the hallmarks of [Fireball] what with the majority of the gridwork looking like what I do to manually cast [Force Bomb]. That tiny bit of [Force Wave] you have in there is not a large enough part of the spell to make my daughter necessarily wrong.”
+
+Tenebrae smiled wider. “So what would you name this spell?”
+
+Erick guessed, “[Firewave] or [Fire Spreader]. The purpose seems to create a conflagration at the detonation point that spreads outward, putting all of the damage of the initial spell into the ‘over time’ part of the magic, with almost no damage in the initial effect. A common way to use Fire spells.”
+
+“You have fallen into my trap!” Tenebrae gloated. “It’s [Extinguisher]!”
+
+“What! There’s no Destruction mana anywhere in that—”
+
+Tenebrae pointed at box 50, the center box, at the very center of the spell, and Erick fell silent. Tenebrae had left that central spot blank. Erick had assumed this was because he was not focusing on the explosion part of the spell… or… Actually. He didn’t know why the man had left it blank. The spell had lots of blank spots in its gridwork. None of them really meant anything, except for directions for the surrounding mana to flow, or transform, or…
+
+Erick wasn’t too sure about gridwork, actually. It was one step removed from math and useless for higher level spellwork, so what was the point of learning it?
+
+… To trick people who thought they knew everything? Seemed like a poor way to use a teaching tool.
+
+Okay. Okay. Erick admitted, and only to himself, that he had no idea what was actually going on here.
+
+Poi snorted a laugh to the side.
+
+Tenebrae ignored Poi, and instructed, “A proper [Force Bomb] spell is a 100x100x100 grid. If you knew your gridwork, you would have known that. This one is 99x100x100 to enable this central square in box 50. You can shift around the gridwork as necessary. You could even do 99x99x99 and make it all symmetrical in a different way, if you wish. This blank spot, and all the others, are for Destruction to occur. If you look upon the structure here, and here, you can see that the Fire mana is sucked into the blank spaces, and nothing comes out. In actual casting, this would create Destructive Fire that would nullify any fire in the area. This is how you properly create a Destruction-based spell, since you never use Destruction in itself. You always have the desired Element you wish destroyed to flow into Destruction, or, in some rare cases, for Destruction to overtake the targeted Element. The first instance is normal application, as we see here. The second instance is almost Propagation, and unless you limit the spell most severely, it will not work due to the Propagation Ban of the Script. Don’t use the Propagation-Destruction except in applications of war. This second type of spell usually has ‘Destruction’ in its name. [Fire Destruction], for example.” He said, “It is with gridwork like this, that you create a perfectly-made [Extinguisher] spell, which will be named whatever Rozeta feels like naming your spell, but if you have a name you’re working with, your spell will likely get that name, unless you run counter to the Naming Conventions of the Script, in which case Rozeta will name your spell without your input. Questions?”
+
+Erick had a few, but—
+
+Jane instantly asked, “So circling back to the idea that math is representation is sympathy is magic: If you were to create a [Ward] with this gridwork, what would happen? And if a spell was not created, then why not?”
+
+Erick almost said that nothing would happen. Lightwards were not spells… Right?
+
+Tenebrae’s eyebrows scrunched. He said, “Nothing would happen if you made this out of a lightward. You have to make it out of [Force Bomb], Mana Altering for Fire and Destruction, and [Force Wave].”
+
+Jane asked, “Okay. But. How? How does this translate into all of those things you just said?”
+
+“It just does?” Tenebrae frowned. “I’m not sure what the problem is, here.”
+
+Jane clarified, “Where is the gridwork for [Force Bomb] in the spell [Force Bomb]? I never see grids when I cast.”
+
+Tenebrae frowned, then pointed upward. Erick watched, as the air around the man flickered, twisting inward upon the tip of his finger. A grey dot launched from his digit to soar past the roofs of the castle and detonate with a spack upon the [Air Shield] of the estate, grey light briefly glittering in the explosion. Tenebrae said, “The gridwork is right there. In the manual casting. It’s not actually a part of the spellwork. Gridwork lets you understand how to Shape and Alter the mana while you are casting the spell.”
+
+“Oh!” Jane said, “Manual casting! Okay. Yes. I get that.”
+
+Erick nodded. “That makes sense.”
+
+“… What did you two think I meant?”
+
+“I thought you meant inside [Force Bomb]s blue box.” Jane shrugged. “Somehow… inside that box. I didn’t understand that. How is magic inside the blue box? That makes no sense.”
+
+“I was confused a little, too.” Erick said, “They spoke a little about gridwork in one class I took at Oceanside; that it was somehow in those boxes. I didn’t understand it at all, and the professor never properly clarified. I didn’t even know about manual casting till Kiri looked it up and showed it was possible.”
+
+“Ah. This problem.” Tenebrae said, “Oceanside trains warriors that work for the Headmaster, or other powerhouses around the world. All Arcanaeums are like this. They train warriors, even if they call themselves mages. And they were not wrong to simplify manual casting to the blue boxes. The same thing happens in the manasphere when you activate magic using the Script, but you cannot feel that shift unless you manually cast your magic, but many teachers are forbidden from explaining about the Remake Quests and about aura work. Students have to come to that on their own. Most do, eventually, unless they’re purposefully kept from those lessons when they are deemed a risk to themselves or others. That happens quite a bit, too.” Tenebrae said, “The blue box for [Force Bomb] is one slight step above the truth of manually shaping the mana; it is an automated process to use that box. Meanwhile, Mana Altering is one slight step above the truth of aura altering for the various Elements; it is an automated process to use that box, too. Understanding these deeper truths of Shaping and Altering, through the process of gridwork, will allow you to properly visualize and then work both [Force Bomb] and Fire Altering in the best possible way. Do you understand?”
+
+Jane said, “Okay! That makes a lot of sense!”
+
+Erick understood quite a bit more, now. Gridwork was like the difference between drawing using freeform, or using tools. He begrudgingly admitted, to himself, that this ‘gridwork’ held possibilities.
+
+He liked his own song magic methods, though.
+
+But Jane was rather analytical. Maybe she would do well with this method? She probably would.
+
+Tenebrae asked, “Do either of you have experience at all with using your aura to cast magic?”
+
+Jane said, “I can cast with [Greater Shadowalk], and some of the rest. I have never learned aura control.”
+
+Tenebrae sighed. “Elemental Bodies are shortcuts to aura control, and you need to learn how to properly control your aura.” Tenebrae zeroed in on Jane. “You have [Prismatic Body]. You need to work on turning that into [Greater Prismatic Body], either through remaking it with every Greater Elemental Body, or through aura work and great aura control. I suggest you choose the path of aura control, since this will allow you to mimic much of the smaller aspects of [Greater Prismatic Body] while that particular spell is not active, as well as allow you to cast smaller magics outside of the Script Second. You will be able to cast [Fireball] or any other low-tier spell whenever you wish. This will also save you on mana costs, since you will not need to be constantly running an Elemental Body if you want to simply pick up a cup of tea from the other side of the table. Save your Script Seconds for when they are needed. Never waste them.”
+
+Jane’s eyes went wide. “Casting outside of the Script Second, for everything?”
+
+“No no no!” Tenebrae said, “Low-tier magics, only, that will have full mana costs. It’s not as good as using the Script to cast. Clarity does not work for manually cast magic. But for you, with all of your Elemental Body experience, there are fewer time constraints when you use proper aura control to cast your smaller spells.”
+
+Erick was too busy thinking about the need for better aura control, himself, that he almost missed when Tenebrae rounded on him.
+
+The glowering archmage turned to Erick. “And what of your aura control?”
+
+“Ah…” Erick admitted, “Non-existent outside of [Greater Lightwalk].”
+
+“… What!” Tenebrae exploded, “What travesty is this! And you made it to Archmage with—! How has this happened! What the f—!” He suddenly calmed as he closed his eyes and gripped the bridge of his nose between a thumb and forefinger. He opened his eyes, dropped his hands, and said, “You have given me a headache, Erick Flatt, because you are technically an archmage. You’ve even got a tier 9 spell. You are qualified. And yet, you astound me.” He stared at Erick. He asked, “Are you a Wizard?”
+
+Erick’s response was calm; measured, even. He saw what was coming, and he answered as best he could. “What is a Wizard, exactly? I know they produce their own mana and have a core, but that’s about it. Why does the possession of a core mean that they’re able to overcome the Script?”
+
+Jane seemed unable to help herself as she stared at her father, and then at Tenebrae, then frowned a little, and tried to turn her face unreadable. She mostly failed.
+
+Tenebrae bargained, “I would not be nearly as hostile with you if you were a Wizard. We could work together to achieve something that should have been done a long time ago, for Wizards can truly cast magic outside of the Script. They can remove curses that gods themselves have placed upon lineages, or individuals. They can travel through time, with perfect accuracy, and without Phagar’s limitations. They can create new Elements.” Tenebrae seemed genuine, and sad, and desperate, all at the same time, while trying to appear as none of those. “I ask again. Are you a Wizard?”
+
+“No.”
+
+And it was the truth. Erick had none of the hallmarks anyone had ever said should be there. So what if other people called him a Wizard? That didn’t make it true.
+
+Erick asked, “Should I bring a truthstone with me, too, when I deal with you and your possible ‘lessons’? You claim the Headmaster is purposefully hindering the magical growth of the people of this entire world, and that seems like something I would have been better served to hear while a truthstone was present.”
+
+He didn’t know where it was, but there was no doubt in his mind that there was at least one of those truthstones somewhere around here.
+
+Tenebrae scowled, but the heat was not there. He spoke the truth, “I would never use one of those against you.”
+
+“Ah.” Erick understood. “Because you can just cast the base spells yourself. I should have guessed as much.”
+
+“Exactly!” And then softer, “Exactly.” Tenebrae should have been triumphant; he had won a fight that he thought they were both fighting. But Erick was not fighting, and Tenebrae was not triumphant. He was just sad. “You should have guessed as much. Learn all the magic there is, yourself. Learn to cast as much of it as you can, outside of the Script Second; manually. Delve into the deepest Soul Magic. Explore Mind Magic, and don’t mind the Mind Mages; they get uppity, but you’re beyond them. Rip apart a million monsters to learn Blood Magic. Enchanting is a fine pastime, or a way to make some yellow on the side, but an archmage with need for trinkets is not a true archmage. Even those rings on your fingers… Well. I would have called them useless and a waste of time and even a detriment. But it appears you’ve made artifacts…” He tried again, “And you’re sure you’re not a Wizard?”
+
+“As much as anyone can be sure.” Erick said, “I ask again: How is a Wizard able to overcome the Script?”
+
+Tenebrae sighed, then said, “Okay. Now I’m done.”
+
+And then he walked off. The door to his tower gently shut behind him.
+
+Erick asked Jane, “Do you want to try out some of that ‘gridwork’?”
+
+“Yes!” She said, excitedly. “Do you have any books on that?”
+
+“Nope. We’ll both have to muddle through it together.”
+
+Jane hummed, then looked toward the closed door to Tenebrae’s tower. “… I’ll ask him if he has any books at lunch, maybe.” She turned back, eyeing her father. ‘Are you a Wizard?’
+
+‘Nope.’
+
+Usually, Erick would have felt bad about lying to his daughter, but that was only ‘usually’. This was not a usual case.
+
+‘Okay… Well. If you were… Which type would you want to be? I read all about them. If you picked ‘Time Wizard’ I would tease you relentlessly by calling you The Doctor.’
+
+‘So you’d pick the Paradox Wizard?’
+
+‘...They have a better name for them?’ Jane’s eyes went wide. ‘Paradox, you say! Oh! Okay! Paradox is a lot more varied than I thought! You could do—’
+
+Erick cut in, before Jane got on a roll, sending, ‘I’m going to give you a bit of advice, and I urge you to consider it: Gifts of Time are useless in the face of absolute power. There’s also the Destruction Wizard, and the Creation Wizard. Together with the Paradox Wizard, you have the three archetypes. It’s my understanding that you can only pick one, and that you have to produce your own mana and take that mana and create a core, from which you then cast all your magics. I am almost a hundred percent sure that Wizards are like Shades in that regard. I’m not sure of the connection to Melemizargo and to monsters, but there is one there, for sure.’
+
+Jane listened, then said, ‘I thought I had read about Wizards, but I guess not. That’s a lot more on the subject than I ever found. All I ever found were horror stories.’
+
+‘What sort of horror stories? I never sought any of that out.’
+
+‘Oh… There was that one Wizard Pirate a while ago that terrorized Archipelago Nergal. Hullbreaker was his name, I think. Made a lot of artifacts and stole from every ship he passed as well as created some still-hidden island that no one has been able to find. They say all of his stuff is still there. But I bet the Headmaster found it all. Every Wizard has some hidden caches around the world; that’s how the stories go, anyway. What sort of Wizard do you think Hullbreaker was?’
+
+Erick thought, then said, ‘I don’t know of him. But… Creation— No. I’m not sure.’
+
+‘Creation, eh?’ Jane started to silently think.
+
+Erick changed the subject, speaking aloud, “So? Gridwork?”
+
+Jane went with it, saying, “What does [Force Bolt] look like as a grid? And does it look like what I think it looks like? When I manually make a few hundred at a time with [Greater Shadowalk], I make it like— Well.” She held up her hands and sort of did a spiky, gathering motion. “That’s how it usually happens. Oh! You know what?” She stood, saying, “Let’s make some 3D lightwards for [Force Bolt], and then compare! I’m going to make mine over here.” She rushed into the blocky house and stepped behind a wall, saying, “No peeking!”
+
+Teressa spoke from inside the house, “What are you doing now?”
+
+“Gridwork!” Jane answered.
+
+“Magic stuff. Got it.” Teressa promptly ignored Jane and went back to reading.
+
+Meanwhile, in the courtyard, Erick held a hand up and cast a lightward that was representative of what he did with his [Greater Lightwalk] in order to manually cast a [Force Bolt]. It was a simple design, really. Just gathering mana then linking that mana toward the idea of touching a target in the distance—
+
+Ah.
+
+Erick ran into a problem. How to represent that ‘touching’ aspe— Oh. Put the Ancient Script designation for ‘target’ in the center of the ‘gridwork’. Obviously. But then…
+
+Jane mumbled, “This is more difficult than I thought it would be.”
+
+Teressa absently said, “Mm’hmm.”
+
+Erick heard Teressa flip another page in her book.
+
+Erick concentrated on his own working. He recast his gridwork several times before rapidly abandoning the ‘grids’ after only a few recasts. When he was happy, he dispersed his working, then recast it, attaching the working to the chair beside him. Jane seemed to still be working on hers. Erick waited.
+
+After five minutes, he said, “Okay. Come on back. Let’s check.”
+
+“One sec! It’s taking me…” Silence. “Ah. Blast it all. This is good enough.” Jane walked back into sight, carrying a cube of light that had been divided into smaller and smaller cubes, each with a speck of notation inside of each tiny cube. She held it up, then looked to Erick’s, attached to the chair. “What!”
+
+Erick looked at his own representation of [Force Bolt]. It was fully clear, with no smaller, inner gridworks.
+
+Jane said, “You didn’t even divide that tiny thing into grids!”
+
+“I don’t understand the need for that.” Erick held up his perfectly fine representation, saying, “This is fine! It’s only a 5 mana spell. How complicated do you need to be?”
+
+While Jane’s gridwork was a bunch of arrows and boxes filled with Ancient Script for gathering and targeting, Erick’s spell representation more resembled a bit of glasswork in the shape of a spiral galaxy. The center of his spell had the ‘target’ part of the spell, while four spiral arms contained all of the inexorable and ethereal parts of the spell which were prepared to crash into the center, whereupon the whole thing would then take off and impact the target. The ‘target’ itself was a variable that could change based on need.
+
+Erick’s and Jane’s representations were different in another way, too. His lightward gridwork was a handspan across and a singular construction. Hers was half a meter across, and made of several overlapping lightwards; the ‘grid’ itself was a single lightward, possibly so that she could recast the central ‘work’ pieces as she refined her idea of [Force Bolt].
+
+Erick gestured to the chair next to him, and the accompanying gridwork.
+
+Jane handed him a stone with its attached lightward. She likely kept that stone in her pocket for just such a necessity such as setting a mobile [Ward], for there were no useless stones anywhere in this estate; the place might be boring, but it was immaculate. Erick should keep a useless rock in his pocket, too.
+
+She said, “You should keep around something to attach mobile [Ward]s to, dad.”
+
+They began reading each other’s gridwork.
+
+- - - -
+
+Tenebrae watched them from his position in the Lighthouse. He mumbled, “It’s like giving new toys to deprived children.”
+
+He couldn’t help but smile.

@@ -136,3 +136,338 @@ Peron said, “About three million, over a ten kilometer diameter space. Normal 
 
 Dawning horror turned into something darker, as Erick realized what sort of ‘Cultists’ he was going up against. At least when he had been in Shadow’s Feast, no one could escape the Feast Barrier, and he didn’t have to worry about hostages and collateral damage. But this? This was worrying.
 
+Koropo said, “Syllea gave me a breakdown of her brother’s capabilities when he proved himself a traitor. Pretty much the only spells he has are Star-based, so we don’t have to worry too much about Blood or Soul magic, but the fucking traitor probably hid that stuff from her. You see it all the time with these types. They lead double lives in the shadows, practicing ritual murder and conspiring in ways that any normal person would never consider doing. As for what Syllea knew, Omaz is at least level 75, and he certainly has Intelligence. Syllea clocked her brother at a max of 36,000 mana, or 150 Willpower, but that could be a screen, too. If he gets the chance to retaliate, then he would certainly put on some temporary Stat Rings to boost his Willpower higher. That much mana in a mage would normally be a limiting factor, even if it is rather high, but with his Intelligence, we have no doubt that he can cast his [Starlight Fall] at least ten times in a row, and still have mana left to escape.”
+
+A lot of things stuck out in that little bit of information, but what Erick focused on, was asking, “How are you able to wear casters out?” He clarified, “I mean: You speak of how many times he can cast his spells, and I think you’re vastly underestimating the value of Intelligence, but I have literally never seen a long fight. Everything is always over within minutes, if not faster. Do you plan on winning by wearing out the opposition? Is that a real win condition? How do you do that and not just kill them, accidentally or otherwise?”
+
+Peron couldn’t help but smile, it seemed. “Not everyone’s magic is as strong as an archmage’s.”
+
+“Ah.” Erick said, “Well. Yes. My experience with fighting is not normal. I accept that. But you can still Critical someone by hitting them in the head.”
+
+Peron nodded, accepting Erick’s words as they were.
+
+Koropo said, “We have a lot of experience taking down strong targets while minimizing casualties. The problems arise when people outside of the targets get wind of what we’re doing to their friends. They start shit where we can’t see them, and where we’re not prepared. Which is what will happen if we do this wrong.” Koropo asked, “But is the question you’re asking about taking down targets without killing them?”
+
+“Yes. How do you do that?”
+
+Koropo nodded, then said, “Most of the people in my Special Units have vetted experience with Blood Magic and Soul Magic, and most of them are Mage Hunters, but we also have a few Warrior Hunters for the less usual targets.” Koropo said, “I’m a Witch Hunter myself. All of us have high-rate [Mana Drain Wards] which we can latch onto various targets we're actively fighting. We even have several people with [Curse of Locality], to prevent [Teleport], as well as counterspellers to prevent the use of magic. But our best offense, is to take people out before they realize they’re in a fight. We don’t like long fights, either, for when that happens, something has gone wrong. But if we do end up in a long fight, we’re always at an advantage because our Drain spells not only deny the targets many of their resources, but we take those resources for ourselves. That is what Mage Hunters do.”
+
+Koropo’s words were a shock to Erick’s mind. How could he have forgotten about [Drain Ward]? The rate it drained was rather slow, but there had to be some way to make it drain faster!
+
+[Drain Ward] was an inherent part of [Ward]’s big blue box, and Erick had somehow forgotten about that when it came time to think of ways to incapacitate a person without killing them. He had certainly remembered the Drain part of [Ward] when he was making [Ward Destruction], though!
+
+And then there was the Class itself.
+
+Erick recalled all of what he had heard of Mage Hunters. The first time he heard about them was back when he was wondering about ways to take mana from someone else, for his own use, and for ways to give his own mana to another person. Kiri suggested Mage Hunter as the Class that took mana from a target, then she told him that Font was the Class that gave mana to another person.
+
+He had heard about Mage Hunters again, when he was asking around how to figure out the [Polymorph] problem; how to track a person through the vagaries of [Polymorph]. Even [Cascade Imaging] didn’t break that absolute protection provided by [Polymorph]’s lifestyle shift. [Cascade Imaging] sidestepped that problem by being able to track shed DNA, and that stuff got around, especially if the [Polymorph] target didn’t take special steps to clean themselves between shifts.
+
+Erick sighed to himself, as he considered making a Health and Mana [Drain Ooze] to complement his Counterspelling [Blood Ooze]. Such a spell would go well with his eventual [Anesthesia] Particle Spell. Maybe a few Wind spells just to tie it all together. Bloody Wind spells, too.
+
+… He could pretend to be a Mage Hunter, when he was out in the world, going incognito. That actually seemed really good.
+
+He wasn’t out to lie about his life going forward. He wasn’t seeking a new identity. Just something that he could don when traveling through, like, Nergal and the Underworld and Nelboor and… And pretty much anywhere except for Treehome. He had already fucked up his chances to be incognito in this city, even if it was rather large.
+
+Only five seconds passed in silence while Erick thought. He came back to the conversation, thinking of how Caizoa followed him through his lightstepping, and asked, “What about following people through a [Teleport]? Do you have some ways to do that?”
+
+“Of course.” Koropo, straight-faced but with the barest hint of pride in his voice, said, “You don’t get to be Special Forces unless you have [Teleport Link] or some other niche spells or abilities. A full 25% of my people can do this.” He turned sterner, slightly, and said, “But that’s dangerous. We don’t do that on any but the highest value targets, and only if they’re fully debuffed. No telling where you might end up once that tether gets latched on. They drill a lot of lessons into us when we’re at the academy.”
+
+“Do you have Mercy spells to incapacitate, too?”
+
+Koropo nodded, saying, “And Draining Cuffs and a Tattooist for more permanent means of incapacitation.”
+
+“Then…” Erick said, “We need a test run. I need to see how you work, and you need to see how I can help you. Name your time and place.”
+
+Koropo said, “Now, and just down the hall. We have some targets outside of the Cultists that we would like gone, but which we haven’t been able to find. You get us close, and we can take it from there. I can promise you now that the targets I can put together in the next hour will not test your line in the sand at all, or else we have a much bigger problem on our hands than I thought.”
+
+Erick said, “I may be a pacifist, Koropo, but even I know that some people don’t deserve multiple chances.” He added, “Our definitions of acceptable targets are likely more in line than you think.”
+
+Koropo’s stoic face took on the tiniest smile, as he said, “We’ll see.”
+
+Peron, however, was not happy at all, but he said nothing.
+
+Erick had met with Koropo and Peron inside Wyrmrest’s home office, which was located on the other side of the Arbor from Syllea’s house. As their first meeting ended, Erick followed Koropo and Peron to the next room. They passed by a training yard next to Arbor Wyrmrest’s trunk. It looked rather similar to the space beside Syllea’s house, which was somewhere directly on the other side. Erick wondered if she knew that her Chieftain and Warchief were hunting her brother. He wondered if Syllea knew that he was helping Peron and Koropo to hunt for her brother.
+
+There was some drama waiting to happen there, when she found out.
+
+Would she want to go hunting for her brother, too? Or would she try to stay away? Ah… She probably felt really bad when it turned out Omaz was a traitor. Erick had a hard time imagining what he would do if any one of his people turned traitor, becoming a pawn of Melemizargo’s insanity.
+
+Rats, or rather, Xendross Sands, as was his real name… He was the closest thing Erick had ever encountered to a traitor, and even that would be stretching the meaning of the term so far as to be untruthful. Rats leaving had hurt an awful lot, and that was probably nothing compared to losing a brother to the Darkness.
+
+Koropo led the way into a large office, filled with wall space, mobile blackboards, corkboards, and several tables. The room was empty, and possibly recently cleaned, as evidenced by the order of it all. There was a place for everything and everything was in its place. It looked ready for work; for papers to be splashed and tacked up on a cork board, and for clues to be written on blackboards. A double stack of chairs rested in a corner, waiting to be spread around the room, while a glass dome in the ceiling let in scattered light, offering a great view of Wyrmrest, so high in the sky he seemed frozen in time. Erick strained for a moment to look for movement. Person-sized leaves rustled in the wind, kilometers above, as Starfruit gently glowed, even in the light of day.
+
+Koropo spoke, and Erick’s attention came back to his surroundings. He said, “If this works, this room is our headquarters. I don’t want your map or that glowing ball over the space, unless we have to do that. I will need your Imaging off-site, and a recreation made here for us and Wyrmrest to see, but if you can’t do the recreation in addition to the map then I can have someone else make that. There’ll be some adjustments as we learn to work together, but as for our first target—” He lifted his head. A telepathic line of intent flowed from him, into the starlit manasphere. “I just got a call from one of our team leaders. She’ll be here soon. She’s been chasing this guy for years—”
+
+The air blipped on the other side of the room, revealing a thin orcol woman with dark green skin, short black hair, and dark eyes. She wore ruddy leather armor. Real armor too. Not the conjured stuff.
+
+She put a fist over her chest, and bowed, saying, “Sir!”
+
+“Speak of the Darkness—” Koropo said, “Squad Leader Naervion. Meet Archmage Erick Flatt. Erick, meet Naervion.” Koropo indicated Poi, saying, “This is Erick’s Mind Mage oversight for this meeting. You will comply with a mental scan of whatever the Archmage wants, and answer all his questions as truthfully as you can, and he’ll be doing the searching. Is that clear?”
+
+“Sir, yes sir. Thank you for this honor!” Naervion stood at attention, asking, “Where should I start?”
+
+Erick asked, “Before that. Something else is bothering me. Why don’t the Arbors see the killers and such? They see everything, don’t they?”
+
+Peron stepped into the conversation, saying, “They only see when they want to see, or when their attention is called. For the most part, all of these problems mostly happen outside of the Districts, in the nomadic parts of Treehome. These itinerant lands are the problem, as we find almost all of our targets out there. Don’t go blaming Wyrmrest for stuff that happens outside of his perusal.”
+
+Koropo added, “Almost all the area you’re going to be searching, Archmage, is well outside of Treehome. From the Wyrmridge mountains to the deep Forest, to the coasts surrounding the Forests. These people might commit their crimes here, but they live elsewhere. Sometimes we manage to catch them when they show up here, but mostly, we find them in the itinerant lands.” He gestured back to Naervion.
+
+Naervion waited for Erick to speak again.
+
+“Well, okay then.” Erick stepped toward the woman, closing a little of the distance, and asked, “Who are we hunting, and why? If there’s gore or other horrors involved, just be up front about it. I’ve seen some shit so don’t worry about offending me.”
+
+With utter professionalism, and relaxing only a little, Naervion began, “We call him the Flower Killer. He is one of the few who come in and kill directly under the Arbor’s boughs. He’s operated under the canopies of practically every single Arbor, too. He’s one of the more dangerous ones.”
+
+Peron almost frowned, but he kept that under control.
+
+Naervion gestured to a blackboard. “The paperwork is on the way, and should be here in minutes, but—” With great control she cast several images into the air, directly onto the slate. She explained what she had conjured, saying, “The corpse is always laid directly on the ground, in the sun. The chest is always methodically pried open, with the organs mostly intact, except for the heart. With the heart thus exposed, the Flower Killer then plants a Carmine Lily directly in the heart, and then [Grow]s it to full size, meaning a green stalk of about a meter long with a fist-sized brush-like flower on top. He has been doing this for the last twenty nine years, at least twice a year, and though the exact date changes, he always finds a victim during the Triumph of Light. The second one usually comes six or seven months later. Sometimes he drops two bodies at a time.” She added, “We haven’t found the victim for this Triumph yet, so we don’t think he’d killed yet.”
+
+Erick looked toward Poi.
+
+Poi nodded.
+
+Erick turned back toward Naervion, asking, “How has your investigation gone so far?”
+
+“I took up the cause when my previous Squad Leader was killed by the Flower Killer, years ago.” Naervion lost a bit more of her professionalism, growing angry for a brief moment, before stuffing that emotion down and away. She continued, “We’ve tried policing Carmine Lilies, but that was basically a fool’s errand. They’re—” She almost continued, but she instantly changed track, saying, “We’ve tried Seers. Blood Mages to track him down. Necromancers, in the rare case that the victim’s family has agreed to such a thing, in order to call back the dead and ask questions. Nothing has worked. The Flower Killer doesn’t stick to a single District. He doesn’t stick to a single type of victim. But we do know a few things about him. We know that he is a fantastic Polymage and that he routinely changes bodies, and that he is a remorseless killer.”
+
+“How do you know he’s a ‘he’?”
+
+“When we have had a necromancer call back the souls of the victims, we were able to ask enough to know that they were attacked by a man. Some have called the man tall, or fat, or short, or muscular, or skinny, with everything from brown hair to white to black. This is how we know— How we suspect, very strongly, that he is a Polymage.” She said, “But there’s no real way to verify that information. Our resident Necromancer was barely able to pull together that much, as the Flower Killer opens the target’s chest while they are alive, killing their target with horrific pain. It is a horrible way to go and leaves a lot of trauma on the soul.”
+
+Erick nodded, then asked, “So why did you interrupt yourself regarding the Carmine Lilies?”
+
+Every orcol in the room turned slightly uncomfortable.
+
+“Oh!” Erick understood. He said, “It’s a Red Dream thing.” While Koropo suddenly had to cough and look away, Peron blinked long, and Naervion went stock still, her eyes glazing over as she mentally retreated inward. Erick asked, “Or is it a funeral thing, for the Red Dream?”
+
+Naervion whispered, “And he keeps saying it.”
+
+Erick said, “And I’m a part of the Red Dream, too. Did a Quest for Aloethag, bringing someone back from the Rage. I know all about all of that. Even had my own ‘experience’ with it not too soon after that Quest completion. Had no idea what was going on. I thought it was real.”
+
+An intern, or a clerk, walked into the room at that moment, carrying a large box of papers, then walked right back out.
+
+Erick continued, “So less embarrassment, and more talking. Like I said: I’ve seen some shit.” He thumbed toward Poi, saying, “And he’s a Mind Mage! He’s seen worse than everyone in this room, no doubt!”
+
+Koropo sniffed, once, then said, “Like the archmage says, Squad Leader. Full disclosure.”
+
+“Apologies, sir.” She corrected herself, saying. “Sirs.” Naervion breathed deep, then said, “The Flower Killer is tied symbolically to the Red Dream, somehow, and we’re not quite sure how. Aloethag won’t help find the killer, but there is a long-standing Quest to find and kill the Flower Killer.”
+
+“Oh!” Erick said, “Hold on, one second.” He turned to his Quest Board, and searched for ‘Flower Killer’.
+
+A blue box appeared.
+
+Find or Kill the Flower Killer
+
+Find: 0/1
+
+Kill: 0/1
+
+Reward: 2 points, ???
+
+Note: Half reward for a location that leads to a kill.
+
+Poster: Aloethag, Goddess of Beauty and Brutality
+
+Lesser Posters: The Arbors of Treehome; Wyrmrest, O’kabil, Firebrand, Icebrand, Rottundra, Heral-ken, Home, Nosier, Leaf-cutter, Redarrow, Steel Branch, Ikabobbi. The collective tribes of Treehome.
+
+Erick said, “I have a Quest for that, now.”
+
+Naervion asked, “You have a Quest Board?”
+
+Koropo said, “Most high-level people do, Squad Leader.”
+
+“Recently acquired, yes.” Erick said, “Still getting used to it.” But noticing that Naervion knew what a Quest Board was, he asked, “How do these Quests get made, anyway? Or posted, rather?”
+
+Naervion glanced to Peron. Koropo did the same.
+
+Peron said, “A Quest maker, usually a mortal, beseeches a Relevant Entity for sponsorship, usually through a Church, and then gives over whatever they wish to give for the Quest Reward. Around here, the Arbors and the Chieftains each give portions of their power to institute some of those Quests, but for Quests that the gods make themselves, they grant power from themselves to empower those Quests.”
+
+“Huh,” Erick said. Then he gestured to some of the diagrams and dates drawn in wardlight on the corkboard, saying, “Run me through this, from the top? How to find this guy? Don’t have to do much, though. This is a valid kill, as far as I’m concerned. I just want to know how we’ll be working together.”
+
+Naervion said, “Certainly. The Flower Killer first appeared...”
+
+- - - -
+
+A bell rang overhead, set to chiming by the opening of the door, as Rudidi walked into the shop. The scent of a dozen different orchids swirled around him as he started down the main aisle, searching for his target. He almost stopped to smell the flowers well before he spotted the one he had come here for, because it wasn’t every day that you see such perfectly cultured specimens. Why, the reds of that Bloodheart Orchid were simply divine! And that Radiant Dew! It sparkled like frozen light. ...But.
+
+No. He was here for a certain orchid. A specific target.
+
+And then he saw it. He had not been lied to.
+
+He almost froze on the spot. A Flaming Sapphire orchid! He sighed out the sigh of a man who had finally found water in the desert. It was a perfect specimen, too. The sweeping, upward curves of the blue stem matched the upward curves of the transparent blue flowers. It glowed with health, and with a bit of mana, too.
+
+Rudidi was so enthralled by the Flaming Sapphire, that he didn’t notice the employee of the shop coming up from his right. The man spoke, “It’s a—”
+
+“Wha—!” Rudidi practically jumped a half meter. Then he instantly realized he wasn’t in any danger. He smiled, sighed again, and said, “Didn’t see you there.” He gestured to the orchid. “How did you ever get such a fantastic Flaming Sapphire to grow so well? I must have it. I’ve been looking for one of these for a very long time.”
+
+Rudidi noticed the exact moment that he lost the purchase. This employee was the only employee here, and the shop was rather off the normal paths, and though it was technically inside Arbor Nosier’s domain, it was also technically outside of that Arbor’s domain. It was just a flower shop, after all. The flowers here weren’t even that magical. Most of them, anyway.
+
+Those various facts, combined with Rudidi asking how the man managed to get the flower to grow so well, and then speaking of directly purchasing it, caused the employee, or more accurately, the owner, to narrow his eyes, and frown.
+
+The owner said, “If you can’t take care of him, then you don’t deserve to own him. Get out of my garden.”
+
+Rudidi instantly said, “I’m very terribly sorry, sir. I shouldn’t have said such an awful thing about such a nice orchid. I do know how to take care of them, sir, but every time I get them to bud, they go up in flames! How did you manage to arrest the impetus to self-immolate? Please, tell me how you manage to get yours to live?”
+
+The owner’s frown deepened. He took another look at Rudidi’s clothes, which were rather nice, but said nothing. Rudidi had certainly started off on the wrong path with this man.
+
+Rudidi tried, “I will pay you the price of this one if you can just tell me. I still have bulbs that I have in storage, but I fear growing another if they’re just going to burn down my garden like that one did.” Rudidi shivered, recalling waking to that blue fire. That had been awful.
+
+The owner scowled. “What sort of fool horticulturalist are you? You can’t grow a Flaming Sapphire?”
+
+“Well… I can. Technically.” Rudidi scratched the back of his head, then asked, “I can pay you for the cost of this orchid, if you will help me with some information? How much is it, anyway?”
+
+The owner crossed their arms, then said, “It’s 25 gold.”
+
+Rudidi didn’t even balk at the inflated costs, or at least he tried not to. Something must have shown, for the owner got a rather disgusted look on his face.
+
+The owner said, “No. Get out of my shop. You don’t deserve—”
+
+“But! Please!” Rudidi got closer to the man, pleading, “I need—”
+
+Before their relationship could deteriorate any more, Rudidi whipped a hand out, up, and directly into the owner’s chest, driving inward with all of his might. The man didn’t even know what had hit him as Rudidi grabbed onto what was left of the man’s heart, his hand encircling a mass of tough vines that had evaded all attempts to tell them apart from actual arteries and veins until just half an hour ago, when Archmage Flatt narrowed in on this space and confirmed what no one else could see. The Flower Killer was part flower himself.
+
+Right as Rudidi’s hand struck true, four people stepped out of the shadows and into the room. One cast an entangling [Ward] that wrapped around the Flower Killer, into his body, and then down into his heart, draining Mana. Another cast a similar spell that began draining Health. The third person cast a special Curse onto the Flower Killer, preventing it from using all Spatial Magic for a short while; hopefully their presence would prove to be superfluous. The fourth was a new person, and so their timing was off, slightly. They cast a flash of black magic into the air, instantly killing every plant in the room, turning precious, well-tended flowers into naught but sludge—
+
+Rudidi banished that stupid thought, and focused on herself, and the mission. Naervion, with her arm in the Flower Killer’s chest, finally had another second of the battle to use another attack. As the Flower Killer’s heart flailed against her touch, trying to dig into her hands, but faltering because of the pulse of black that turned it weaker than a shadowolf, Naervion pulsed burning light through her hand.
+
+The Flower Killer’s skeleton, along with all the vines and roots inside of him, turned radiant, illuminating him from the inside-out, before flashing through his skin, and detonating the body. Blood, organs, bone, and roots, exploded into the room, splattering against everything and everyone.
+
+No notification came.
+
+And yet, there she was, currently [Polymorph]ed into Rudidi, with her hand empty, and still, no notification.
+
+She didn’t have to yell that the target was getting away. She had worked with most of these people before, and they all knew what ‘no notification’ meant. Every single person in that room should have gotten at least 1% if the target was dead.
+
+“There!” shouted the new guy, as he pointed at the ceiling at a glob of flesh and root stuck upon the stone. The blob was moving.
+
+Fire and lightning blew a hole in the stone ceiling, revealing the light from outside. Still no notification. Three awful, terrible seconds had passed since the start of the actual fight. Naervion leapt through the roof.
+
+She paused. Anger stilled, as she saw the salvation of her fuck up, hovering in the air before her.
+
+A fluttering abomination of light, eyes, and wings, shone like a second sun had come down to Veird. A pleasant trilling of violins flowed on the breeze, as Naervion’s eyes moved from ‘Ophiel’ to what looked almost like a solar flare coming off of the [Familiar]. Inside that pustule of light, was a ball of bloody roots. It struggled against its confines like a crazed spider.
+
+Erick’s voice came through the air, “It’s trapped. It’s not going anywhere; not with those spells and that Curse you put on it, but at the same time, I don’t want to kill it—” He seemed to change tactics, as he said, “I mean: I don’t want to kill it because then I’ll get full Quest completion.” He said, “I won’t steal this win from you if you want to kill it yourself.”
+
+“I’m not an ‘it’!” yelled the ball of roots. “I’m just trying to have a child! Let me go! Don’t do this to m—”
+
+Something happened to the light around the Flower Killer. It railed harder against its cage, but no sound came out.
+
+Naervion took one look at the Flower Killer, the one who had killed her former boss, the one she desperately wanted to kill herself, and knew that if she asked for the chance to kill it while Erick held it, it might be able to slip away. She couldn’t take that chance. She said, “Kill the fucking thing and be done with it!”
+
+Ophiel’s glowing light flexed around the root ball, crushing inward, twisting, then flexing back out.
+
+And the rootball still moved. Still, no notification appeared.
+
+Erick’s voice came through, “What is this thing made of?”
+
+He crushed again, and with a great deal more force than probably necessary. Naervion watched as the very air seemed to crack and break as light piled into light, crushing, tearing, and forming even brighter cracks in the radiance all around.
+
+The air popped, as the root ball broke inward, all resistance vanishing.
+
+A notification came, like blessed rain after a drought. Naervion looked upon the proof of death, and blinked long, as a wave of memories came over her that she would spend a long time dissecting. Disbelief, rage, acceptance, even more disbelief. She sniffled, then [Polymorph]ed back into her normal body. When she opened her eyes again, Ophiel was still there. The notification was still there, and she would deal with that later. Her old boss’s final theories had been right, and Archmage Flatt had proved him right, or at least on the right track.
+
+You have slain Carmine Changeling Vine!
+
+31 % participation!
+
++20,328,157,991,507 exp
+
+And then a second notification joined the first.
+
+Special Quest Complete!
+
+Find or Kill the Flower Killer
+
+Find: 0/1
+
+Kill: 1/1
+
+Reward: 1 point
+
+Erick seemed happier, as he said, “Oh! Quest Complete! And I didn’t get major Kill credit. Who did? All I got was 30 percent.”
+
+All Naervion wanted to do was visit the old boss’s grave and tell him how he could rest easy, now that the Flower Killer was dead. But she maintained poise. She said, “That would be me, sir. 31 percent.”
+
+“Very good then. I’m glad it worked out like that.” Erick asked, “So? Next target?”
+
+“Right!” Naervion rolled with the emotional punch to her face, the quick shift from one problem to then think about the next, muttering, “The next target.”
+
+She’d go to the old boss’s grave after work. Or maybe in a few days, when work calmed down. She had seen the map that Erick had summoned. She had seen the ease at which he put together facts and postulated answers that no one had thought of. No one, except for one.
+
+The old boss was the first to consider that the Flower Killer was a plant himself. Because of that, some of those files were left in the case file, and Erick had seen them. And yet, even the old boss had given up his thoughts of killer plants when further pursuit of the ‘plant angle’ got them nothing and brought them no closer to catching the Flower Killer. For if the Flower Killer was a Deathsoul Shroom, or a Changeling Vine, or a Meat Gardner, then why were the victims left with their soul, or why were there victims at all? Deathsoul Shrooms consumed the person from the inside out, eating their soul, as they spread spores over a population center. The Flower Killer didn’t do that. Changeling Vines ate their victims whole, before spitting out copies to entice or force more people into the Forest. The Flower Killer left their victims in the middle of roads, or other sun-filled places, with a Carmine Orchid growing out of their opened rib cage. Meat Gardners fit the Flower Killer’s profile the best, but even those treant-like beasts weren’t methodical enough to drop bodies every 6 to 7 months.
+
+But a Variant Changeling Vine?!
+
+Someone had to have made that. Someone created that creature, on purpose. The creature spoke, too, so some soul magic had to be involved. Or maybe the creators were trying for an intelligent Changeling Vine? Those plants were already almost creatures, based on intelligence alone. Maybe the old boss had gone back to the plant angle on his own, off the record, and gotten himself killed for it…
+
+Some Cultist probably made that Carmine Changeling Vine. The arrival of that killer was pretty close to the Insurrection 30 years ago. Was there something to that angle, there? Maybe the old boss had pursued that angle, too.
+
+Ahhh. Yet another thing to tell the old boss when Naervion visited his grave. But then again, he probably already knew. He was probably watching them from the Red Dream right now, and smiling.
+
+We finally got the bastard, sir.
+
+- - - -
+
+Erick sat up in his chair. “That ‘Carmine Changeling Vine’ was just trying to procreate? Huh?” After a moment, he asked, “Failed experimental monster? Or a dead-end natural evolution?”
+
+Poi said, “No way of knowing, sir.”
+
+Koropo, who oversaw the whole operation from his own [Viewing Screen], from his own seat to the side, said, “A lot of blame for these sorts of things is irrationally laid at the feet of the Cultists of Melemizargo, and the Forest produces a lot of strange monsters... But my gut is telling me that this was a Cult project. Chimeras usually are, and this one managed to live underneath Nosier for a long while.” He added, “The only time that happens is when the Cult is involved.”
+
+Erick didn’t want to argue with the man. The Halls of the Dead and their Queen Daydropper had no known ties to the Cult of Melemizargo. The Flare Couatl was a product of Messalina. Messalina made the Toxic Hydras, too, centuries ago. But he recognized that he lived in Spur, a land where Cultists could not survive at all, and why would they want to? Ar’Kendrithyst was a safe haven for them, just on the horizon.
+
+Erick said, “A lot of people make monsters. If this was a Cult-made monster, then I doubt it would have failed to procreate after all this time. I have a feeling that it was actually a strange cross-pollination event, perhaps involving dragon essence, since that is a melting pot of biology.” He added, “I’m just glad you guys had samples of every possible monster you’ve encountered. I couldn’t have tracked down this chimera without those.”
+
+“I’m surprised those samples worked for you. We keep them around for Scanning people we have in custody for the stranger of the Forest’s infections, but that long range Scan of yours is something else...” Koropo’s gravely voice turned fractionally harder, as he asked, “How did that work, exactly? Never seen that kind of Blood Magic before.”
+
+Erick said, “The less people that know about this right now, the better. I will not answer that question.”
+
+Koropo grumbled something resembling either assent, or resignation. And then he returned to work. With a grab and a flop, he moved a thick folder from the pile beside him, onto the table in front of him, saying, “Moving right along. The next target is…”
+
+Erick listened to Koropo, but he also glanced around the room, watching as more Special Forces put up more police work onto more cork boards, for Erick’s eventual perusal, while a cadre of paper pushers gradually added more and more thick folders to the pile beside Koropo. It was going to be a long day, and Koropo had already said that they likely weren’t getting to the Cultists till tomorrow, and maybe not even then.
+
+Erick suddenly had a question, and he couldn’t wait till Koropo was through with his overview of the next killer, so he interrupted, saying, “Sorry for the interruption, but I just have to ask.”
+
+Koropo looked up at Erick, asking, “Yes?”
+
+“How many violent crimes go unsolved each year?” Erick looked to the stack again, asking, “How many murders per year?” Erick thought again about what he had seen across the city, which was more like 12 different kingdoms all connected over a vast area of land a good forty kilometers across, and that was just for the main Districts under each Arbor. He asked, “How many people live here?”
+
+Koropo seemed to organize his thoughts, then said, “You have to know a few things for me to answer that question. Firstly, there’s about 9 million orcols who call Treehome home at least part of the year, with most of those being nomadic. Maybe 40% permanent, 60% nomadic. Then you gotta know that there are two categories of killers. You got your low-level crimes of passion or unprepared planning. And then you got your high-level premeditated murders.
+
+“The Guards of the Districts take care of all of the first category and we rarely have to step in to help, though when we do, it's a near 95% clear rate. Otherwise, the Guards of those Districts clear low-level murder cases at about an 85% rate. For this last year of 1436, we had about 250 low-level murders of passion inside the Districts of Treehome, and 1500 in the itinerant lands, with the vast majority being low-level problems and quickly solved. We had about 75 high-level murders this year, with most of the culprits being Hunters or terrorists or cultists, though there is quite a bit of overlap with the terrorists and the cultists. We don’t get much of the Quiet War up here, thank the gods.
+
+“As for violent crimes, total, including rape and assault and burglary and such, we had 2500 cases in the Districts, and 18,000 in the itinerant lands, with rape being very low on the list of crimes, but it does happen.” Koropo said, “But you don’t need to worry about all that. The Guardmasters take care of much of that. All we’re having you deal with are the high-level or weird murder cases that are strictly the realm of Special Forces, like the Flower Killer. Special Forces has about a 30 percent clear rate on these dangerous cases, but that number comes with a high mortality rate for our people, and many of them don’t get solved for decades, when the killer dies of old age or just stops killing for whatever reason.
+
+“I’d like to say that what you saw happen with the Flower Killer today was an aberration, but these are the sorts of cases Special Forces deals with, but we’re only mortal. Usually, we know exactly who has done what, but the trouble is finding them, and when we do manage to find them, our people are rarely as prepared as we were today with the Flower Killer. But even that wasn’t enough, as you well saw.” Koropo said, “You’re saving a lot more than just the lives of future victims by helping us today, Archmage Flatt, so thank you for this.”
+
+Erick couldn’t help but compare the violent crime statistics of Treehome to the violent crime statistics of New York City. That was why Erick had asked after Treehome’s statistics, after all. Somehow, New York City’s violent crime numbers, from a should-have-been forgotten internet surf so long ago, had surfaced onto the mindscape of his brain and dominated his focus.
+
+New York City went from something like 2,200 murders per year in the 90s, and half a million assorted violent crimes, to something like 500 murders per year in recent times, and a hundred thousand violent crimes. That place had a population of something like 8 million people in a much smaller space than the widespread Districts and the surrounding land of Treehome. NYC was about half the space of Treehome, actually, and that wasn’t counting much of the rural land further out from the Districts.
+
+Koropo asked, “Is something wrong?”
+
+“… Ah. No. I’m just… I was thinking of a city of comparable size back on Earth. My home planet.” Erick said, “People have told me that Treehome is one of the best places to live on Veird, and I guess I didn’t actually believe them, until now.”
+
+A gentle smile broke across Koropo’s face. He said, “Damn straight. We work hard to keep those numbers that low, and it’s not always easy, but we get the job done.” And then he lost his smile, as he complained, “I don’t mean to disparage others in my own comparable position, but those assholes over in the Greensoil Republic are a shame to the job. I hear that they’re lucky if they get 50% clear rates for violent crimes in some of their major cities. The Kingdoms are not much better, hovering around 60%.” He waved a hand, saying, “And the Sovereign Cities are terrible. Every single one of them is a pile of shit, and the people in charge are shitlords themselves. Never walk those streets if you can help it. Stepping on the mud out there is taking your life in your hands, for sure.”
+
+Erick felt a pang of sorrow, and said, “Yeah. My daughter went there once… I did too. It was… It was awful how they treat their people over there.”
+
+Koropo said, “I heard that they’ve got a major rebellion on their hands. They’re calling themselves ‘Dicers’ and they’re killing every noble they can find, and killing hundreds in the crossfire.” He added, “Their problems are systemic, from top to bottom, from noble to mudslinger.”
+
+Erick went silent, and then he began, “The Shades…”
+
+The room was full of people, moving around, getting ready for more operations, but at Erick’s words, almost all of them paused. Koropo just listened. Erick knew that the Warchief was pumping Erick for information, or maybe he was just an amiable man, but Erick was willing to oblige this much, especially if the ‘Dicers’ were killing hundreds in the crossfire. But just to be sure, he glanced to Poi.
+
+Poi just nodded.
+
+Then Erick turned back to Koropo, and said, “The Shade who called himself the Toymaker created these dice artifacts, about the size of a fist. When I was at the Feast, he bragged about seeding the Sovereign Cities with them. Tania, the former Champion of Melemizargo, wanted to expand that program to the rest of the world. What those dice did was grant someone one step on the path toward an Elemental Body that was best in tune with their nature. This action automatically Matriculates a person, you see.” Erick left the rest unsaid.
+
+Koropo breathed in, deep, then said, “I see. So that’s where they’re all coming from. The current rumors had the Dicers as having some unknown dungeons where they were gathering elemental essence, and then unlocking new people in defiance of the law. But Shade artifacts? I don’t think many people guessed that.” He added, “They probably did, but thinking that the Shades are responsible for all the evil in this world is…” He almost smiled, but he didn’t, as he said, “Well, that thinking is going to have to change an awful lot, isn’t it?”
+
+Erick said, “I gave out a full accounting of all the artifacts I heard about, including those dice. Someone should have heard about those dice by now.” He almost said that he was glad that the Sovereign Cities were imploding in revolution. Couldn’t have happened to a more deserving place. But to hear of collateral damage put a heavy damper on that thought, and Erick said no more on the subject.
+
+Koropo turned back to his paperwork, asking, “Back to the case?”
+
+“Yes. Of course. I’m listening. Thanks for the tangent. I’ll try to keep them to a minimum going forward.”
+
+Koropo nodded, then restarted, saying, “So this woman is a Hunter who...”

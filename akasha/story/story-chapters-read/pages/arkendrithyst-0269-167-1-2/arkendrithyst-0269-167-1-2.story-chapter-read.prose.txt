@@ -132,3 +132,304 @@ Darabella nodded. “About 36,000 gold poor, yes—”
 
 Erick stifled a sudden laugh.
 
+“—so now his weapon goes to the tournament, instead.” Darabella said, “The guy was a competent caster, too! He could have paid the artifact price money rather easily by hunting down some grand cores. It’s not like these weapons go bad.”
+
+Erick nodded. “So how do you make a good mage weapon, then?”
+
+“Hmm… You want to make one?”
+
+“Yes.”
+
+Darabella nodded, then said, “Let’s start with the theory and implementation of joining runes together, first, and then we’ll go from there to making a mage weapon.”
+
+Erick nodded.
+
+Darabella trailed her knife through the air, conjuring lightwards to explain herself, as she said, “There are two ways to join runes together. The first, and the easiest, is to place the desired runes on two ends of a system. A ‘system’ can be any single metallic object.
+
+“There’s some complicated math involved here based on the magic saturation rates of metal and the outflow of spell effect and the distance between runes and a whole bunch of smaller stuff, like the type of metal you’re using, with magical metals of all kinds generally being better for all runework than mundane metals. But we’re going to ignore all of that, for now, and I’ll give you a few good rules to follow, and there is some math involved in this.
+
+“For every letter of a completed rune, the magical effect imbued into that rune will effortlessly transmit a decimeter through the material in a spherical area, not a linear area, with the runework at the anchored center.
+
+“This means, if you have a ten meter long stretch of steel that is a meter in diameter, and you put [Conjure Weapon], which is 8 runes, onto the caps of both ends of the system, you have made a system that will fail. The runes simply will not link that far.” She drew out some math, saying, “The volume of the area that [Conjure Weapon] can imbue is .27 cubic meters, while the volume of the 10 meter long cylinder is 7.85 cubic meters, meaning that to make a 10 meter cylinder of steel into a weapon, would require at least 30 joined carvings of [Conjure Weapon]. And the appropriate amount of spellwork imbued, of course.
+
+“Also, ‘spherical area affected’ means that if you have a cylinder of steel only 10 centimeters in diameter, and ten meters long, which is a volume of .08 cubic meters, then a single [Conjure Weapon] rune will affect the entire system. Wires are very good for conducting runes. Generally, though, when you put down runes, the system to which you have attached them will generally be able to sustain the power of those runes, unless you're doing thick construction work.
+
+“Large scale runework is very complicated, though, and much more complicated than simply ‘carving more runes’, or ‘making the system thinner’, but that’s as far as we’re going with that, right now. Because you also have to take into account the area affected by the original spellwork which exists outside of the affected metal, which is also attached to the runework you imbue.” Darabella said, “For instance, [Flying Weapon] naturally allows for the user to use the conjured sword in a close-range area, which varies by specific person.
+
+“But ignoring those variations, now we get into multi-imbues, which temporarily throws everything I already said out the window, because multi-imbuing changes everything.
+
+“For every spell imbued into those runes, you double the distance that the runes affect, multiplying the volume affected by around 8. The average runework is more than enough to cover most every person-sized effect you would ever need to consider, from pixies to orcols, because, notice I said ‘spherical area’, and a sword is much, much, much less than a sphere.
+
+“Now: there’s two parts to most spellwork. For [Conjure Weapon], there’s the actual effect, which is a sword in hand, but there’s also the connection it has to you, which is a lot more ephemeral. It is through the usage of this secondary aspect of spells that we are able to make mage-rune items; that we’re able to project the spellwork away from the staff.
+
+“But unless you make this secondary aspect of your mage runes well, then you’ll only ever end up with staffs of [Fireball]s that explode in your face. Normal enchanting doesn’t have this problem, because the core dust takes care of all of these problems for you. But runework very much has this problem. The artifact [Flying Scorchball] staff I made had a range of Large, because it was very, very well made, with lots and lots of runes.
+
+“[Flying Weapon] swords are limited by this spherical restriction, too, but you always use those close to your body except on rare occasions, so this is fine.” Darabella stopped her lecture, to see if Erick was understanding.
+
+Erick summed it all up, “Expansive runework systems are needed to make a large item function properly, while specific runeworks are needed to ensure that you get range for your imbued spells.”
+
+“Exactly.” Darabella said, “[Conjure Weapon] is 8 letters, so with a single set of runes you can fully rune swords of all but the most impractical sizes, since you’re still holding onto the weapon yourself.” She added, “Another way to increase range is to increase the number of spells you imbue into the item. Simply casting the same spell into an item twice will double the range, more than octupling the area affected. A third cast will only increase the area affected by half of the number of runework letters… And I think I’ve gotten into the math too much. But we can do a bit, here, to illustrate the progression.
+
+“8 letters means .8 meters, which means about .27 cubic meters of volume. Let’s overcharge the [Conjure Weapon] with another cast, for 1.6 meters, or about 2.14 cubic meters of affected space. A third cast brings us to 2.4 meters, though, or about 7.24 cubic meters. The second imbue octuples the volume, but the third imbue only increases it by a factor of 3.4.
+
+“Diminishing returns on volume and distance start to hit even harder than that, once you get up to four imbues. And while overcharging runes provides a brief boost of distance, that distance settles down to more duration rapidly enough, at a rate that goes down about as fast as the original spell’s duration decays, based upon how much overcharging you’ve done.
+
+“Now, when it comes to very large systems, with many, many people putting in more and more power, you’re practically always on the lowest end of a downswing.” Darabella said, “Your range is more or less at the original size. But your duration is very, very large.” She looked to Erick for confirmation of understanding.
+
+Erick said, “More power is useful temporarily, when the system has nothing in it, but more than anything, the number of runes in a system is what determines the distance the runes work at.”
+
+“Correct.” Darabell said, “But we don’t write novels in weapons, for the mana prefers simple to complex, and too many directions will confuse the final product, just as it would for any actual tierwork done in the creation of higher spells.
+
+“And this is where we get complicated. As in ‘creating spells’ complicated. Because that’s what we’re doing when we create mage-rune items. The user of the [Flying Scorchball] staff will essentially be creating a new spell every time they use that weapon, for non-standard, self-centered effects are difficult to make the mana understand what magic you want out of it.
+
+“[Flying Striker]? Perfectly understandable; it's a weapon that’s controlled with your mind, which is what you’re already doing when you put a sword in your hand and swing it with your real muscles. [Flying Striker] uses an effect tethered to you, using your own physical capacity, except done magically, with as much skill as you possess yourself. Simple stuff. Using a Flying Weapon is about as hard as swinging a sword with an arm you didn’t know you had.
+
+“[Flying Scorchball]? That secondary aspect of spells comes up again, because what have you made? Is it a [Fireball] centered on you? No. Is it a randomly moving conjured elemental? No. Is it a summon under your control? Yes. How does that work? Telepathically? Not really; it’s more of a general guidance which some people do with verbal commands, and some do with other means. Pointing and intent can fill a lot of blanks, but that’s not good enough for a spell effect you want to use strategically, and allow it to work under its own auspices.” Darabella said, “And this is why mage-runecraft is harder than warrior-runecraft.
+
+“But there are solutions.
+
+“For mage-rune items, you center your runes around the end-effect; simple, just like carving [Conjure Weapon] into a sword. But this will usually blow up in your face, so you have to add side-runes in an order-of-operations-like methodology. This is fine for base auras, though. A staff of auras is easy to make, and easy to power, too. But other spells are harder.
+
+“For [Flying Scorchball], you actually add in a bunch of stuff that isn’t part of the spellwork itself so that the mana understands what you’re asking of it. For the staff I made, I added [Force Bolt], for the homing aspect and control aspect, along with [Force Platform] for the stability and more control. The guy who ordered the weapon was very skilled at controlling his spheres of power, but a weapon cannot do this without considerable intelligence, so several chained runes went into the staff to replicate his own honed capability and to allow the conjured elemental some of its own ‘fill in the blank’ power.
+
+“Because putting a spell into a staff is essentially handing over most of the spell to the staff, itself.” Darabella said, “It’s complicated.” She smiled. “So let’s work out some of those complications! Now for this lesson, we’re going to be creating runes which will allow an imbued lightward to create a ball of light that hovers outside of the metal plate which contains your runework. So to do that, we will…”
+
+Soon, Erick was carving.
+
+Light and [Ward] were the first two runes, joined with a simple line, since that’s how you joined runes together. This prompted a small discussion about naming conventions because Erick had not written [Light Ward], which was Darabella’s preferred incarnation of that particular rune set; he had written them with the bracket spell designators only around [Ward], while Light was left on its own. Erick’s design worked, though had a different meaning than Darabella’s and was probably what caused the steel plate of the previous day’s wardlight experiment to light with a fluorescent bulb-like effect.
+
+Then came [Force Platform], written smaller than the main runes, along with a single line branching off from the thicker line which had joined Light and [Ward] together. [Force Platform] was a subordinate spell to the main effect, after all. In this way, you would end up with a lightward floating in the direction the runes faced.
+
+If, however, you did a trio of lines that joined every single word to each other, or a branching line that joined the three runes together, then you’d end up with the steel plate becoming the centerpiece of a solid light effect, instead of having a floating ball of light hover a meter away from the spellwork.
+
+Usually.
+
+“You can end up with really odd effects with seemingly insignificant changes in operational structure.” Darabella said, “But even more than that, if you imbued runework with spellwork that isn’t the main focus of the runes, then you’ll switch everything around, and you’d end up with the steel plate becoming a very weak [Force Platform] that glowed a bit. This is due to a loss of effect because you put the wrong magic in. This small bit of loss isn’t anything special, but when you run magic through a hundred different runes, then those inefficiencies add up exponentially. But go ahead and try imbuing [Force Platform] instead of a [Light Ward]; it should still function, somewhat.”
+
+Erick did so.
+
+The small steel plate acted exactly as Darabella expected it to act; a gently glowing [Force Platform] that looked both small, and weak. The steel plate itself hovered next to him and moved around tethered to Erick, as Erick moved, testing the spell. It behaved exactly as a [Force Platform] should, but then Erick pressed his hand onto the metal plate and the spell broke. The steel plate clattered to the ground.
+
+He picked it back up and imbued it with a lightward.
+
+A ball of light sprung out of the plate’s surface, to hover a meter away from the steel. Erick shook the steel plate, and the ball of light lazily tried to remain a meter away from the runed surface. Then Erick rapidly moved the plate through the air, from one side to the other, and the ball of light tracked its anchor, always attempting to remain a meter away from the front surface of the metal plate. Erick spun the metal plate, and the lightward tracked that spinning, too.
+
+… There was a lot of potential here, but for exactly what, Erick could not say.
+
+Darabella smiled the whole time Erick experimented. When he finished, she said, “Looks like you made it perfectly well! Let’s move on to more complicated experiments. Any requests?”
+
+“Sure.” Erick asked, “Could I make a rune that only turns on when someone touches a part of it, or imbues a basic spell into it, triggering a main effect? No need to imbue spellwork at all?”
+
+“Ah! So you have been reading up a bit! This is a triggering effect, and it’s necessary for all the higher uses of runes.”
+
+“Uh. I haven’t read anything at all.” Erick said, “Nice to know my guess was correct, though.”
+
+Darabella smiled wide, then said, “Let’s move on to triggering mechanisms, then. Let’s make a staff of [Glowballs]s that stores four [Glowballs]s and then releases at a target with the power of five [Glowballs]s when you put in number five. It is easy to extrapolate this mechanism to larger workings, like for making a staff of [Grand Fireballs], but through the use of runes, it’s considerably easier than trying to actually make that spell, or that staff. Mana costs and opportunity costs not taken into consideration, obviously.”
+
+Erick was all ears.
+
+Darabella nodded, saying, “There are two ways to make a staff of grand [Glowball]s using runes. This is why I spoke of the area of spellwork as it is linked to runework being dependent on several factors, of which infusion speed and decay time are the two most important factors.
+
+“It is through this mechanism that we can make imbued spellwork ‘cross thresholds’ and thus trigger.
+
+“The first way to make a staff trigger and release a [Grand Glowball], or whatever, is to make it so that when you throw five [Glowball]s into the staff in five Script Seconds, the expansion of area of effect caused by the imbued spellwork’s existence will trigger a release of the imbued spellwork.
+
+“The second, much better way to make a staff of [Grand Glowball]s, is to make the triggering mechanism a different rune system, that can link to and trigger the main rune system via the expansion of affected area effect. In this way, you can actually stick many, many more [Glowball]s into the [Glowball] rune system, and they can lay dormant until the triggering rune is flipped. With a well-enough made system, you could soak a staff with a thousand [Glowball]s, and through utilizing ten different triggering systems, you could have a staff that triggers up to ten times in one hour, or, with a much more complicated system, you can have a staff that triggers once every other Script Second.
+
+“The first method is safer, but opportunity costs are terrible when you’re in the moment, and everything you do matters. It’s fine when you have all the mana and time you want, but what you need is power. This is often not the case, though, since mana and time are usually much more important than power.
+
+“The second method is for when you can prepare ahead of time, and then unload your spellwork when you need to. The second method is the preferred methodology, since it allows you to spend mana and time when you have extras of both. Either formation can create artifacts, but I prefer the second formation, because of stated reasons. This is the methodology that I carved into the staff of [Flying Scorchballs].
+
+“That particular staff is rated for a million mana worth of [Flying Scorchball]s, which is about 4000 casts. Releasing the first, and permanent scorchball is necessary to release all the rest, and it can be released once per half hour, for 10 mana a pop, with the trigger based on [Force Bolt], which acts as initial destination/target for the [Flying Scorchball]. More scorchballs can be released for 10 mana per ball, with a max of five out at any one time, each of those extras circling around the main ball.
+
+“There’s a third storage and triggering method that is rarely used, but we will talk about it if only to acknowledge it, for this third method is far beyond the skills of most Rune Smiths. This third method is used at the Bastion Down Below, where we have canisters of [Fireball] that we can fill up off-site, and then, during a time of trouble, we stick the canisters into the cannons. One hit of the triggering runes will discharge the cannon, firing off a [Grand Fireball] that is almost a Super Large Area spell.
+
+“I’m going to teach you the first two methods, because the triggering mechanism is more delicate than the main mechanism, and works on an arcane understanding of runes.”
+
+For a long moment, Erick was reminded of how Darabella had mentioned that runework was sort of like [Renew]. Now that she spoke of ‘triggering mechanisms’ and ‘canisters filled off-site’, Erick believed her. He said, “So you really can take a dozen [Fireball]s cast by a dozen different people, throw them in a canister, save it for a later day, and then fire off all that spellwork at once, when needed?”
+
+“Very much, yes. But we’ll work on [Glowball] today.” Darabella smiled, happy that she had been fully understood, as she added, “A flash of light is much easier to recover from than a room full of flames!”
+
+“But what about the fact that magic from different people doesn’t like to mix?” Erick asked, “That cooperative casting is a big hurdle to overcome when dealing with magic cast by many separate people?”
+
+“Oh? We mostly dodge that problem through the use of runes.” Darabella said, “Proper runework will force the spells cast into them to adhere to certain shapes. Like…” She paused in thought. She said, “Imagine instead of carving runes, you’re carving a hole into a sheet of metal of a certain shape. Imagine punching a four-point star into a sheet of metal. This shape defines the shape of the spells that can be accepted by the metal. Now, with everyone else, they all cast their ‘star magic’ of different shapes. You got your bulbous stars, or five-point stars, or three-point stars. But the rune does not move, while the magics of people are mutable. So when a caster shoves their star into the star-shaped hole, the caster’s star either bends to fit the shape, but with loss of power, or it doesn’t fit at all.
+
+“I believe I mentioned that some people could not contribute to the [Light Ward]s of Enduring Forge? Or to any of the other spells in the runic web, for that matter.” Darabella said, “This is the ‘cooperative casting’ problem; most people can shove their spells into the proper slots, but with a bit of loss, but some people cannot fit their spellwork into the system at all.
+
+“This is also why I have the Class Ability of Greater Shifting Runes. It’s not so useful for the runic web of a city, but for artisanal weapons, used by the specific people they’re made for, this allows the runes I scribe to shift to better fit the spellwork shoved into them.”
+
+“… Oh.” Erick was struck by the idea of [Renew] again, and questions spilled out of him, “Could anyone shove any amount of mana into a fixed rune and have the magic described by that rune function as written? What about a filtering system for mana, so that any input could be transformed into the appropriate output? Could I make a runic web that allowed people to shove in any amount of mana they wanted, and the outcome would be a [Prismatic Ward] sized to the runic web?”
+
+Because that would solve the problem of town defense; such a solution could be easily sized to any city and population.
+
+… But it probably didn’t work like that, and as Darabella took a little while to consider her response, Erick realized that it very much didn’t work like that.
+
+“Mostly no. Technically yes.” Darabella said, “Such a working is possible, and people have been trying to do it for a long time with some success, but this is the problem of shoving the wrong magic into a runic web. For small systems, you simply get odd effects, but for large systems, you end up with nothing. We do have a few successful examples of what you theorize, though. Those successes are locked up in vaults in the noble district. I have seen several of them, but mostly… The problem is mana conversion is very, very costly. For a thousand mana input, for such a conversion, you might get a single mana of properly aligned output.”
+
+Erick breathed out slowly and with great deliberation as the weight of Darabella’s words took hold. If he could refine a process that had already proven possible, then…
+
+That would be [Renew].
+
+Thinking about it now, such a spell would probably look like a donor taking their mana and making it manifold and —for lack of a better classification at the moment— ‘bouncy’ or ‘flexible’, or something like that. The mana would have to be stable enough to stick together through the paring-down process that seemed to occur when it went through a runic web, through a bunch of molding runes, and then entered the final casting runes, taking on the exact shape it needed to take before it was ‘shoved into the star-shaped slot’, as Darabella put it.
+
+He might be wildly off-base with all of that, though.
+
+But according to his own Undertow experiments, it was certainly possible to Drain a person’s mana and use that mana in a zero-loss manner to bolster the Undertow spell. Therefore, it should be possible for a sufficiently advanced runic system to be able to accept raw, donated mana. And if not, then Erick could just make a runic web with an Undertow spell inside of it that could then do most of the required ‘molding’ work.
+
+Erick said, “So this is all really amazing. I’m glad I came here to learn this.”
+
+Darabella grinned, showing off pearly teeth. “Me too! So let’s work on a staff of [Glowball]s— Ah. Wait. Uh. I have a few adamantine pieces to rune today. I think your daughter’s sword and your other guard’s armor are among them?” She glanced up, and up, at Teressa, then turned back to Erick, saying, “Yup. Your other guard’s armor. The smaller one.”
+
+Teressa grinned in the corner of the room, saying nothing.
+
+Darabella said, “Want to see me rune those items? Then I can answer all your questions about those and then we can make the staff of [Glowball]s; All of these lessons work well together.”
+
+Erick said, “I would be delighted to see all of that, and then, if you have any recommendations for any reading, then I would be honored to know those recommendations, too. I can get out of your space after that, since I know you must be busy.”
+
+“No no!” Darabella had a controlled panic, then she calmed, saying, “You don’t have to go that fast! But… Reading? Eh…” Darabella said, “Yeah, we have some books… Nothing published like the Arcanaeum Consortium publishes them, but we do have our own logbooks of runes and diagrams and all that.” She said to him, “Anyway. It’ll take twenty minutes to do your daughter’s and your guard’s items, and then we can move on? Sounds good? We can take all the time we need, or want, Erick.”
+
+Erick smiled. “Sounds great.”
+
+“Then let me set up some stuff…”
+
+Darabella told Erick what she was doing as she went to the various wooden crates sitting to the side of the room. With a flick of her wooden knife, she popped open the crate labeled for ‘Jane Flatt’. With a quick dig into the woodchips inside, she retrieved the weapon. Jane’s black sword was a weighty thing of 6.5 kilos of solid adamantium, hilt and all, with a blade a meter in length, and a 30 centimeter hilt. It was single-edged and straight, with a straight-back tip and no crossguard at all. It was meant to be able to fly and pierce into then cleave out of an enemy, and it seemed rather capable of doing that, looking much like a weaponized length of rebar, and not much like a proper sword at all. Still, it was what Jane had wanted; a bit bigger than a normal sword for her size frame, and heavily focused on cutting power. Packed away in the box was a little removable crossguard, too, which could slide onto the blade and click into place, but for now, the removable hilt remained off of the weapon.
+
+The weapon itself already had nascent grooves, pre-carved, that would accept the main [Flying Weapon] runes that Darabella was to imbue. Darabella would be putting a bunch more smaller, refining runes into the entire piece, where she felt like it, but those smaller control runes had not been pre-carved.
+
+Working on adamantium after it was allowed to cool was a large problem, though, and carving runes was no exception. Darabella had a solution to that, though. She brought the sword over to the white stone table and locked it into place in the center, then she went to the manasphere controls at the side of the room. Those controls connected to the surrounding wall, and the adamantium spheres that rested upon that wall.
+
+“You might feel a tingling in the air; that’s normal!” Darabella said, as she touched off some complicated shifting of the controls, sending bright copper glows into the workings.
+
+Two stories down and floating on the wall around the whole tower, meter-wide adamantium spheres began to softly glow with a burnished-copper light, like the sea at sunset; the color of Darabella’s mana. Those orbs rotated slightly, aligning ‘properly’, whatever that meant; whatever was happening out there was too far out of Erick’s expertise to understand. All he truly knew was that, yes, the air did start to tingle, and his mana sense dropped to maybe half of its original distance. Darabella was letting her Domain out to play.
+
+Darabella said, “Step back, please. Beyond the black line in the floor.”
+
+Erick did so, stepping a good two meters away to leave Darabella as the only one in the room near the stone table, near the sword. This was fine, as Erick’s Perception, remaining mana sense, and his good eyesight was more than enough to see the smallest details that she might carve into Jane’s sword.
+
+“When I pick up my actual enchanting blade, please do not talk to me, or disturb my creation. We can talk after I put my tools back into their box.”
+
+Erick nodded, saying nothing. He watched.
+
+Darabella looked to him, and seeing compliance, she nodded, too. Then she closed her eyes.
+
+The manasphere tingled. The world seemed to highlight with color and sensation as Darabella opened her hands and relaxed, dropping her wooden knife as she metaphysically let her hair down. Her Domain blossomed outward, highlighting the world near her in fractured rainbows. And then she opened her eyes, and glared upon her task. Her and the sword; those were the only two things in the entire world at the moment. She smiled a cutting smile as her eyes focused her dissecting sight upon the length of Jane’s future weapon.
+
+And then she breathed out, and she changed.
+
+Gone was all frivolity, and uncertainty. Here now was a woman who could cut the world in half and felt no sympathy for its survivors. Erick almost took another half step back. Teressa went on edge, but hers was a weak thing compared to Darabella’s; a butter knife compared to metaphysical molecular wire.
+
+Darabella saw the sword. She touched the bladed tip with a finger. The black adamantium shifted to white, and grey, and every monochrome color in between black and radiance. She pulled her finger back, and smiled a predatory grin as the sword calmed down to dull illusions.
+
+With a deft flick, she opened a small compartment on the side of the white stone table, exposing a black adamantium knife that seemed ancient with power. And then the knife was in her hands; she had not moved to pick it up, and it had not flown to her grip. The knife was simply where it was supposed to be; in her grip.
+
+Together, the Rune Smith and her knife became one complete entity of cutting horizons. Darabella’s edges became cut-glass rainbows, while her hand became a monochromatic dance of light and shadows, narrowed to a single, glorious point.
+
+Darabella and Jane’s sword were still the only two things of notice in the entire room, but while one was perfect in her delineation, the other was a poor facsimile of a Truth. So Darabella worked on fixing that discrepancy of what was, turning it into what should be.
+
+She carved runes of power into one side of the black blade, like the world’s most perfect calligrapher, her arms forever steady, her hands never not where they were supposed to be, her knife always carving away exactly what it was meant to carve. She revealed the jewel underneath a drab exterior.
+
+[Flying Striker] appeared out of the deep grooves of the weapon. The sword creator’s original wording was completely obliterated by Darabella’s, as she shaped her perfect version of the world with her impeccable runes.
+
+Then she added more designs, smaller than the original one, and quickly emplaced here and there as only a master Rune Smith knew how to do, flipping the sword over with the controls on the table as she needed. ‘Pierce’ went into the three sides of the weapon, near the tip. A hundred ‘Cut’s, in tiny, almost imperceptible Ancient Script, went down the length of fuller, near the edge, first on one side, and then on the other. A bevy of ‘Control’ and ‘Solid’ and ‘Swift’ and a bunch of other Ancient Script runes of which Darabella knew how to use, but which she had not explained to Erick, circled the hilt, transforming the solid surface into a grippable surface with spiraling, tiny words.
+
+And then even more runes went into the weapon. A particularly strong-looking series of six runes circled around the base of the hilt; ‘Fire’, ‘Air’, ‘Light’, ‘Water’, ‘Stone’, ‘Shadow’. Followed by ‘Prismatic’ placed directly in a location of power directly on the end of the hilt itself.
+
+A few more stray runes went into the working here and there, and then Darabella switched from carving runes to producing artistic swirls and flows, surreptitiously joining runes to each other in a flowing manner which Erick only sort of understood because he knew Jane’s desired outcome. Everything else he saw was easily understandable from there, for Jane wanted a sword that would work with every single Elemental Body she had, and she had all of them. The sword would let her borrow the adamantium’s indelible strength whenever she was air, or light, or prismatic, or anything else.
+
+Darabella pulled back from the sword, her eyes scouring the weapon for faults and finding none.
+
+Then she went back in, and with one final touch, ran her monochrome horizon across the edge at a shallow angle, imparting a small token of her own severe edge to the sword. And then she had the stone table flip the weapon over and she sharpened the other side.
+
+Darabella pulled back and eyed her work, and was satisfied. She was done. She slipped her adamantium rune dagger back into the slot in the side of the stone table, and closed that drawer. The world seemed to linger on the edge of severity for one long moment, and then it was over. Darabella’s horizons vanished.
+
+She sighed, as though she was picking her burdens back up, and perhaps she was, for she tiredly went over to the control mechanisms of the adamantium orbs, and flipped a few gears. The air calmed.
+
+The moment of magic had passed.
+
+Darabella smiled softly, breathing deep, and said, “You can talk now, and approach the table.” She walked back to the table with the sword, her exhaustion rapidly fading as she asked, “What do you think?”
+
+“That. Was. Amazing!” Erick stepped to the weapon, saying, “That’s a heck of a lot more complicated than I would have thought!”
+
+“Oh yeah.” Darabella said, “I like to do more than is necessary, than to find out after the fact I have not done enough, since Shifting Runes will allow for gradual optimization of all runic structures, and your daughter’s request was a lot more complicated than normal.” She gestured to the sword. “So let’s go over this. Here you have…”
+
+They spoke for a good twenty minutes on the intricacies of the runic structure, going over the flow of the main runes, as well as the influencing runes which would bring about specific effects. Those influencing runes, the ‘cut’s and the ‘control’s, were new to Erick.
+
+“I’m surprised that you got the edge so straight when you sharpened it, too.” Erick said, “That’s a master’s skill in itself.”
+
+Darabella blushed as she smiled, her cheeks dimpling. “When you’ve sharpened as many swords as I have, then this much is expected.”
+
+“I can see that, I suppose.” Erick asked, “How do you test it to see if it’s an artifact or not?” He smirked. “Am I going to have to pay the artifact price?”
+
+Darabella blushed even more, laughing a little. “Even if it is an artifact, that’s fine. Don’t worry about that. But I don’t think it is; I didn’t feel the usual pull when I make an artifact. But if it should happen to turn into an artifact through use? Then that’s your good fortune— or your daughter’s I suppose. That happens sometimes.”
+
+“Ah.” Erick said, “Okay.”
+
+Darabella nodded, and went right along, saying, “But about the testing… Your daughter will have to use the weapon for a while, cycling through all of her Elemental Bodies as she does. She’ll have about a week of experimentation and tempering before my Greater Shifting Runes fades, so she’ll have to work the weapon as hard as she can during that time.”
+
+“She’ll be thrilled, I am sure.”
+
+Darabella asked, “Ready for your guard’s armor? This one should be easier.”
+
+“Yes, please.” Erick said, “It’s amazing watching you work.”
+
+Darabella gave a few small giggles as she picked the weapon off of the table and brought it back to the box, where she stuffed it back into the woodchips and closed the lid. Then she moved that box aside and grabbed the box with Poi’s armor set.
+
+Poi’s runework required the adamantium orbs outside to be in a different configuration than they had been for the sword, bringing a tempered solidity to the air instead of an amplification of horizons, which was only a part of the difference of enacting this particular runework. The most major difference of this job, though, was the inclusion of joining runes between every single separate piece of armor, to allow Poi’s [Weightless Armor of Silent Reflections] spell to bridge the air gaps between armor pieces, ensuring that his spellwork imbued the entire shiny black thing, from the helmet, to the gauntlets, to the greaves, and everything between. Once it was fully imbued, it should turn fully silver, too; Poi would not be walking around in black armor in Spur, no way.
+
+Other than that, the armor’s carving was a rather simple runic map that mostly took place on the interior of the breastplate.
+
+When that was over, Darabella shifted the adamantium orbs to a neutral position, explaining how they were only necessary when carving adamantium, to make the impossibly hard metal more pliant to her touch.
+
+They moved on to mage staff creation, as Darabella plucked an unadorned steel staff out of a box in another room. It was a simple four-sided thing that was thicker on one end and tapered to a flat bottom on the other; it was to be the staff of [Glowball]s.
+
+After twenty minutes of Darabella carving into the steel staff with her wooden dagger, explaining everything she was putting into the working, the staff was done. Erick didn’t have the spell [Glowball] himself, but after Darabella explained what the spell was, exactly, Erick had little difficulty flowing mana through [Ward], but for lightwards, and [Force Bomb], to make the necessary spell. He showed off his own skills with making spells, and Darabella seemed to find that interesting too, in her own way.
+
+The spell [Glowball] was rather unimpressive, but Erick supposed that it would be useful for conjuring a light into hostile hordes.
+
+Glowball, instant, long range, 75 mana
+
+Conjure a quick ball of mana that unfolds into a large light upon striking a surface. The light lasts for 24 hours.
+
+After that, Erick could have stuck around for more lessons, but he saw the work piling up downstairs. It was time to go.
+
+“Thank you, so much, Darabella.” Erick said, “This has been very enlightening.”
+
+“I’ve had fun, too!” Darabella smiled brightly, almost going to ask him something, but she stopped and turned away. She softly said, “Thanks for coming by.”
+
+Erick latched on to the opportunity, saying, “They’re holding a banquet or something in a few days at the noble district if I have that right. Would you like to go with me?”
+
+Darabella brightened, but a shadow crossed her eyes. After a moment, Darabella said, “Yes. I would love to.”
+
+Erick mentally took his paranoia out back and shot it in the head, and then he put on a happy face and said, “Then I will pick you up at the appropriate time… Wherever your home may be? Or from here?”
+
+With a tight smile, Darabella asked, “Uh? Sure? I. Uh. Live down on Steel Street, across from the Church of Forgotten Light— Ah. Ha ha? You don’t really need directions though. You could find me wherever I went?”
+
+Darabella’s expression was only superficially a smile.
+
+Things had gotten very weird, very fast.
+
+Erick brushed off his own concerns and tried to mitigate whatever might be going on with Darabella, saying, “If you don’t want to, that’s fine. I merely thought that—”
+
+“I want to go with you to the banquet.” Darabella discarded her own inhibitions and spoke with calm authority, “Pick me up an hour before the event. I don’t know when the banquet is, but I’ll be sure to have at least ten different people remind me when it’s happening so that I can be ready. I haven’t been to a banquet in a long time though, Erick, so please forgive me for my oddities.”
+
+Erick smiled softly, saying, “Then I will pick you up an hour before the event, Darabella.”
+
+Darabella nodded, saying, “I look forward to the night, Erick— Oh! Wait. Uh.” She lost her edge again, going a bit scatterbrained as she said, “You’re leaving now then, yeah?”
+
+Erick paused, feeling like he had been tossed from one side of the room to the other.
+
+And then Darabella handed Erick the staff, saying, “Here. Take this. And the other stuff, too, of co— Oh!” She rushed to her desk, paused to look around, then she grabbed two small books from the shelves behind the desk. She handed those off to Erick. “Some books on runes. Bring them back when you’re done and don’t forget your completed items! Tell me how they work out!”
+
+“… Of course. Thanks again, Darabella.”
+
+“See you later, Archma— Erick.”
+
+…
+
+Erick nodded.
+
+Between Erick and Teressa and Ophiel they had more than enough hands to make light work of carrying the loot back to the rooms. Which is what they did.
+
+Along the way out of the Smithy, Teressa smirked as she teased, ‘Good luck with that one, Boss.’
+
+‘Ah… Thanks.’

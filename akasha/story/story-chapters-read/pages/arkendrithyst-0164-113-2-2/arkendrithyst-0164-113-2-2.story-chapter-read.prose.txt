@@ -98,3 +98,276 @@ Erick said, “Sounds like an over-deity decided to end your cosmology.”
 
 Erick was glad for the shift in topic. Too many heavy things had come at him, all at once, and the food smelled good. But... Erick asked, “It’s not from a human-cow, is it? Or any of the other people Hollowsaur transformed into cows? Hollowsaur slaughtered one in front of me and taunted that it would be at the Feast.”
 
+Quilatalap almost spoke, but then he looked down to the meat. He held a hand above the steaks, and he must have cast a spell, but Erick didn’t see any magelight; the archlich’s magic was either invisible, or very, very well made. He said, “It’s showing up as ‘cow’ to me.” He looked to the cold box. “Queen fills that storage box for me when I come by, and I know not many would be willing to risk feeding me tormented meat. Hollowsaur is not one of those people.” He looked to Erick, adding, “He’ll definitely try to do that to you, though.”
+
+“And that’s a good enough time as any.” Fallopolis got up from the couch, saying, “It doesn’t look like any immediate murder attempts are going to happen—”
+
+Erick sighed. Obviously, someone trying to kill him was a possibility, but for Fallopolis to be so blatant about it...
+
+Fallopolis continued, “So I should go see what nefarious plots are unfolding outside these walls.” She turned to Quilatalap. “Thanks for the offer, but no thank you.”
+
+“Bye,” Erick said, to be friendly.
+
+Fallopolis turned to him, and smiled, “Bye!” She waved, took a shadowed step, and was gone.
+
+Quilatalap looked to Erick. “Care for some? You should throw a [Cleanse] at it, first, just so you know it’s safe.”
+
+Erick had decided to be personable well before now, and so, in continuing that way of thinking and acting, he had an Ophiel throw a [Cleanse] into the room. No thick air. He said, “I’d love some. Thanks for the offer.”
+
+“Queen might open up the party soon enough, so maybe don’t have too much. I’m only having a light snack.”
+
+Erick tried to be casual and fun, as he looked to the three steaks, and piles of veggies, and said, “That’s a light snack?”
+
+Quilatalap patted his tight belly, smiling as he said, “It is to me.”
+
+Erick sat down at the kitchen table to eat a ‘light snack’ with the archlich of Ar’Kendrithyst. It was a bit surreal. But it was nice. At Erick’s first slice into the steak, he knew it would be a good one. And it was. The guy was a good cook.
+
+Hopefully he wasn’t eating people-cow.
+
+Partway through, Erick looked around, and wondered where his butler had gone. He asked, “You didn’t happen to see where Violet went, did you?”
+
+“She’s guarding the perimeter, along with Tobari and Dolorent.”
+
+Erick cocked his head.
+
+Quilatalap helpfully supplied, “The guy that tried to push you and the girl who I stopped from skewering you with a [Bloodspike].”
+
+“… A [Bloodspike]?”
+
+“She pulled her spell when I turned Tobari into dust and then recreated his body.”
+
+“Oh?” Erick said, rolling with the revelation of his own attempted murder. There would be a lot of that, he was sure. After an odd second, he decided that a simple [Bloodspike] probably wouldn’t have done anything. He didn’t know what a [Bloodspike] was, but if it was anything like a [Mindspike], then it couldn’t be too bad. He asked, “What did they want, anyway?”
+
+“I removed them from my tutelage years ago, when I found them using the knowledge I granted them on adventurers in Ar’Kendrithyst. I cursed them with corpse bodies for their transgressions. Oh. Thirty years ago. Not just a few years. Time flies, you know? Anyway. Every year since then they’ve invaded Shadow’s Feast, trying to gain an audience with me.” He said, “I put them on guard duty for you, so tell me how they do at the end of all this, if you want?”
+
+That sounded fine, maybe. Erick asked, “A [Bloodspike] wouldn’t have actually done anything, would it?”
+
+“Want to test it?” Quilatalap said, “It won’t hurt much.”
+
+“… Sure.” Erick wrapped himself in his sunform, but kept it close. “Okay.”
+
+A spike of red light flashed from Quilatalap’s shoulder, impacting the shoulder of Erick’s sunform. White flecks of his [Personal Ward] broke away as the spike turned to red light, and then vanished completely. The [Bloodspike] had gotten through his sunform and done actual damage to his form. If he had been in his mortal form, and that had been aimed at his head…
+
+He had to know. Erick had a rod of [Treat Wounds] in his room. He dropped the sunform and asked, “Shoot me again, same spot.”
+
+Quilatalap did so, without hesitation.
+
+The [Bloodspike] struck, and broke against Erick’s [Personal Ward]. It didn’t get through that layer of defense. [Ward] and Health were both the final layers of defense a person had, and Blood Magic couldn’t get past those? Good to know.
+
+“So [Ward] and Health still work against Blood Magic?”
+
+“Correct.” Quilatalap said, “Weaker Blood Magic would even be stopped by metal shields and such, but only novice Blood Mages cast those versions. My [Bloodspike], and Dolorent’s, too, are Ethereal, meaning that they will fly through metal shields and other such mundane defenses.”
+
+Erick popped out the box for his [Blood Bolt], asking, “Is this Ethereal?”
+
+Blood Bolt, instant, long range, 10 mana + Variable
+
+A bolt of your power unerringly strikes a target for Variable damage.
+
+Quilatalap said, “Nope.” He popped out a blue box, saying, “This is Ethereal.”
+
+Blood Spike, instant, long range, 15 mana + Variable
+
+An ethereal spike of power strikes for 50 damage + 5x Variable.
+
+Erick chuckled. “You got a pretty good Variable on there! That’s almost the same one I read about in Esoteric Elements.”
+
+Quilatalap grinned, saying, “It’s okay.”
+
+- - - -
+
+“So was Xoat a planar guy? You had those in the Old Cosmology?”
+
+“It’s one of the rarer interpretations, but yes, we did have planars back then, too.”
+
+“How did planar people fall to your universe?”
+
+“I’m sure someone figured out how it worked, exactly, but the most widely believed idea was that A Wizard Did It, since those guys operated outside of normal magical practices.”
+
+Erick asked, “What is a Wizard, anyway?”
+
+“A person gifted in some strange way by the mana, who produced more mana than most.
+
+“Back then, everyone produced mana. Eh. That’s a big topic. Short version: Wizards made mana that was compatible with them, meaning that they could cast the exact magic they wanted, more than most.
+
+“Using this mana, Wizards almost always followed a pattern. Either they Created. They Destroyed. Or they caused a Paradox. The Time Travelers were firmly in the third category, for only a Wizard could actually affect the past or the future and not affect themselves in the process. A really accomplished mage could mimic the ability of a Paradox Wizard, but if they stepped outside of certain bounds, they were as Unmade as any normal person was when attempting to fuck with time.
+
+“The Generators were the most well known Creator Wizards. They had their main headquarters in the Radiant Depths, but they had thousands of branch offices all throughout the known universe. They made worlds.
+
+“Destruction Wizards didn’t last long whenever they happened. There were small groups of them that were attached to the Generators, though. Destruction and Creation could get along real well, if they felt like it.
+
+“No one could make themselves a Wizard, though. A person either had it, or they didn’t. Wizards all came from all walks of life; there were no bloodlines, or soullines, or anything like that.” Quilatalap cut his steak with his knife, saying, “Now that you’ve been declared a Wizard, they’re going to force you to choose something that will benefit Melemizargo, you know.”
+
+“… They are, aren’t they.” Erick circled back to the other big news Quilatalap let loose. “But… Generating mana? How? What? How do you generate mana?” He said, “My daughter spoke of that, once. She wasn’t sure how to make a mana generating spell, but it was on her list of desired magics.”
+
+“I can tell right now that you’re not generating any mana at all. I’ve heard that you’ve been observed during your spell creation, too, and even then you weren’t generating mana. No one is quite sure how you’ve been declared a Wizard, but we’re all pretty sure you are.” Quilatalap said, “Normally, it’s quite obvious when a person is a Wizard. Normally, all the natural mana generation of every living thing on Veird, is moved to be generated, instead, in the Core of Veird.” He added, “And that’s a complicated topic.”
+
+Erick moved back to the topic of Wizardry, and rolling with everything he was hearing, he said, “So… Assuming I even am a Wizard, what are the choices?”
+
+“Normally I’d just tell you, but I should get Priestess in here. She’s impossible to live with when anyone messes up her plans for the Feast.”
+
+“… Shit.”
+
+Quilatalap added, “But if it makes you feel any better, I can show you some soul magic to protect yourself from mental and ethereal attacks. You seem strategically important to Melemizargo, so I feel like I should offer you this opportunity now, before you get a hundred such offers.” He looked serious for a moment, adding, “Most of those offers will be tainted by the motives of those offering, you should understand.”
+
+“Yeah. I… I got that.” Erick asked, “So what’s your motive?”
+
+“I wish to remain neutral, and if you pick one of those Shades out there to help you move forward, then my neutrality will be impossible to maintain.” Quilatalap said, “Big things are coming, Erick. Big, world-changing events.”
+
+- - - -
+
+The Priestess sat upon a nice stone bench beside the pond, beside Quilatalap’s house. Her bones and black-ribbon robes directly touched the stone. Erick suddenly wondered at her quality of life. Did she choose to be like this? Or was this a curse of some sort? It couldn’t have been pleasant to be a skeleton.
+
+Erick sat upon a similar stone bench, a meter from the tall skeleton that was Melemizargo’s Priestess. Quilatalap sat on the other side of the pond, at a small table with his two apprentices, Tobari and Dolorent. Tobari was back to looking like a corpse; his brief respite from sagging flesh and protruding bones seemed to be over.
+
+Priestess began with a happy tone, saying, “Thank you for the invitation, Erick. I had expected to speak to you tomorrow, but… The pavilion is occupied with arguments that are outside of my control.” She gave a dismissive nod toward where the black pavilion lay, on the other side of so many parts of the scattered Palace District. “Those young ones. They’re so perturbed by the revelations of this past year.” She looked to Erick with her constellation-filled eye sockets, asking, “How are you weathering this storm?”
+
+“I’ve made this storm myself, so I’ll just have to get over it.”
+
+She giggled; a chiming sound. “It is a good thing you can control the weather.”
+
+Erick found himself smiling at Priestess’s pleasant attitude. And then she had to ruin it.
+
+“Have you considered controlling your own future? One where you aren’t a slave to the gods?” She added, “It’s my understanding that My God offered you Shadedom, and you hesitated, but I am here to offer it to you again. As the Fire of the Age, you would be a beacon of light to guide the way for the rest of us lost Shades of Melemizargo, and thus the rest of the world.”
+
+Erick tried to keep the sarcasm out of his voice, as he said, “You don’t offer [Cleanse], and that’s literally my favorite spell. I cast the equivalent of thousands and thousands of [Cleanse]s in Candlepoint, every day. Not to mention the ones I cast upon myself.”
+
+She looked down at Erick, for the simple fact that she was a good head or three taller than him, even when sitting. She asked, “And if Melemizargo provided [Cleanse]?”
+
+With a discarded thought given to wondering how he had managed to get himself into a religious conversion attempt, let alone the Shade-conversion attempt, Erick brushed over all that, and said, “It would be a start, but I cannot overlook the pain and suffering that is constantly committed by the people who follow him. I was just talking about the people Hollowsaur had transformed into cows, and how he killed one of them in front of me, and how he’s probably going to try and feed me some of that meat at this Feast, if he didn’t already manage to sneak it into the storage box in Quilatalap’s house.”
+
+Priestess confidently said, “All of that is going to change. It started with Candlepoint, and in a few years, all of the rougher Shades will be brought to heel.”
+
+“… What does that mean?” Erick probably injected too much emotion into those words.
+
+Priestess stoically said, “We cannot cull all of those who are detrimental to the world we wish to make, for that would be giving up our defenses, and we are all too aware of the desired vengeance of the outside world. But if the current rate of improvement continues, the Kendrithyst that you know as Ar’Kendrithyst will not exist in ten years.” She happily declared, “I have already put forth a motion to the Shades of the Spire to hunt down and end every Shade who failed to attend this year, or who we decide are too far gone. There are a lot more crazy ones out there than Dorofiend. Poor things. They’re not who they used to be.” She turned her gaze upward, saying, “By this time next year, we might even have Dark Temples out in the rest of the world!” She turned back to Erick. “Oh, sure, they’re going to have to be careful and quiet and reach out slowly, but we’ll look into joining the Interfaith Church, too, and eventually we’ll be all out in the open.”
+
+Erick sat dumbfounded. He quickly found his voice, and asked, “But what about the horrors already committed?”
+
+“We’ll sacrifice about ten Shades. That should clear the way for a much more unified Clergy. When we’re unified, we can begin to make amends.” She said, “One of the ways we’re thinking of beginning to make amends is that we help to eliminate the Crystal Mimics in the Crystal Forest, and then we start transforming it into arable land. Once that is done, we’ll cast a few [City Shape]s out there, and then there will be tax and safety incentives for new people. We’ll create a nation in the Crystal Forest, with Kendrithyst as the capital.” She added, “We can’t stop the monsters, or even control most of them, but we can surely provide safety.”
+
+Erick’s emotions were a jumble at the moment. He spoke without considering his words, “You wish to become… a nation? You wish to rule that way? Instead of killing all who come for you? You might need to drop the megalomania if you wish to be peaceful.”
+
+Priestess’s laugh was a wonderful chime, which flowed to something more normal. She looked down at the mortal, saying, “Erick. There is no megalomania here, for we already rule the world. I am not boasting or lying when I say that, either. We’ve been rather disordered for a while, but we’re finally getting better.”
+
+Erick just looked at the skeleton woman, uncomprehending.
+
+Priestess noticed. She explained, “We have well over sixty archmage-level casters. Do you know how many archmages there are in the Wasteland? The answer is three. In the rest of the world? 47, with most of them being wrought who hide down in the Geodes who deal with their own problems, divorced from the rest of the world. On the surface? There are 17, and you, makes 18. We have more archmages than the rest of the world combined. And we know where every single one of them hides.
+
+“Even if they were to fight us, we would win in the long run.” She added, “And even if we lose the initial confrontation, we just resurrect the fallen. The only ones capable of true resurrections out in the world are the Lifebinder, with her imperfect spells, and a handful of others down at the Fractured Citadels. Only Messalina is a free agent, but even with her, whom we would just kill at the first real instance of her joining a war, all of them are hindered by the Headmaster’s hatred of [Resurrection].
+
+“We have already won any true war. And even if we Shades and the other archmages wisely stayed off of the field of battle, all of this—” She gestured out over the waters of the pond in front of them, to the Palace, to the air above, then back to Erick. “All of this is veneer to our true power. You saw the souls wandering the crystal roads near the Spire, did you not? Those ones are capable of being raised into generals, and commanders. But out in the city? Those wild shadows? They’re all alive, and we could turn them into a chaotic force to cleanse the world nine times over, before the Geodes could ever respond. There are hundreds of thousands of waiting soldiers in every single kendrithyst spire in this city.
+
+“We have already won any possible martial victory, Erick.” She said, “This is what victory looks like for us. Every day, we Shades challenge those who would challenge God, in order to forge the world stronger than it was the day before. I will admit that the horror and the bloodshed can be a bit much sometimes, but you cannot bake a cake without breaking eggs.”
+
+Anger rose in Erick as the skeleton spoke. When she was done with her sermon, for of course, priests couldn’t speak without giving a sermon, Erick shot back, “Then why does Melemizargo believe himself in a [Mesmerize]? Why haven’t you broken the world completely?”
+
+“We have helped him when he has asked. He’s usually only asked for oddities or for generalities, but this Candlepoint thing was his idea, from start to finish, and we Clergy readily followed his commands. But before you came along and lit a Fire for Melemizargo, it was much, much harder to organize the crazed and the murderous Shades into a cohesive whole.” She added, “We don’t destroy the world, because that is not who we are, though our doctrines do tend to draw those types to the Clergy. In the end, we support all who would make the world stronger than it was before.”
+
+Erick felt like that was a lie. He couldn’t quite tell how he could tell, but something about this whole conversation felt off. He looked to the stretched-skeleton of the Priestess, and said, “You have no facial features so that you can lie easier.”
+
+She looked down, and folded her bare-bones hands over each other, on top of her black-cloth wrapped legs. “That is not why I am like this, but you are not the first to level this complaint at me.” She spoke with a heavy voice. “I used to be alvani; the child of the love between an angel and a human. But then the Ancient Demons acted as Ancient Demons did, and killed my people, and every other Half on Veird, in an attempt to murder the remaining angels.
+
+“I keep this form because it is as close to my own as I can, but I cannot ever regain who I was, because the Script denies me my truth. When the Ancient Demons killed the Halves, their changes to the Script collapsed part of that great and terrible magic, ensuring that their damage could never be undone.” She looked across the pond, to Quilatalap, and his people. The orcol glanced her way, but turned back to his students, as Priestess said, “Have you not wondered why Quilatalap is an orcol? Those people did not exist before the Sundering, before the treachery of the Ancient Demons, and the creation of the incani. He might be a lich twice as old as the Script itself, but even he cannot circumvent this particular problem of the over-magic that strangles this world.”
+
+As Priestess went quiet, Erick simply sat there, and wondered at her words. He imagined that he would be wondering at her words for a long time, but right now, words only laid the foundation for further words, and that seemed rather useless. Maybe Priestess was telling him the truth, or maybe she was simply speaking of truths that Erick wanted to hear. Whatever the case, she had implied that she was older than the Script, and had lived through the Sundering.
+
+“How old were you when the Sundering happened?”
+
+Priestess said, “A hundred and one.” She added, “After the Sundering, I perished. I have come back since then, occasionally, but only when Melemizargo demands. My life is in His hands, and though I have seen many horrors carried out in His name, I have always stood by His side. But I have only lived a handful of centuries since the Script took hold of Veird.” She lifted her right arm and regarded the bones, and the black cloth that wrapped around invisible flesh. The bones were cracking; tiny hairline fractures that leaked shadow, but at her directed sight, the bone returned to solid. Erick hadn’t noticed, until that moment, but her whole body was in a constant state of decay. “It is painful to live this life, but I am the only one of my kind left, and it is impossible to simply move on to a new vessel; I have tried. My soul is held together by His Wizardry, Erick, for the only other option is the End, and I will not go quietly into oblivion.”
+
+Erick looked away, not sure how to respond to the depth of the conviction in her voice. Eventually, he managed to say, “Sorry that happened to you.”
+
+She sat straight. “Yes. It is a sorry thing.” She asked, “What do you know of Wizards?”
+
+Erick rolled with the conversation, saying, “They cause magic to manifest in odd ways and they’re capable of feats outside of the Script. And that they caused the Sundering.” He added, “And I just learned that they produce mana.”
+
+Priestess nodded. “It is entirely possible that the Old Wizards caused the Sundering, but that is doubtful. They were not all-powerful. Even before the Script, with its Propagation Ban, replication magic was rather limited in scope because the Darkness was there to prevent the more horrendous abuses of magic. But speaking of... The Bans of the Script is a good segue into Wizardry.
+
+“We do not know how the Sundering happened, but all of the Bans were created to stop the most obvious ways that the Sundering could have occurred. Propagation, for obvious reasons. Dimensional, for similarly obvious reasons. The Infinitesimal Ban was not to stop Particle Magic, though that is probably what led to Particle Magic never being discovered until now. That third Ban was enacted to prevent people from interacting with the Script itself, and to limit the creation of Wizards.” She looked to Erick, adding, “Though some Wizards still exist, by proof of your own existence sitting right in front of me.”
+
+Erick scrunched his eyebrows at the woman.
+
+“I can see you are confused. It is a confusing topic, with many, many parallels into your current situation. Keep in mind, though, that I feel you have not fully explored your own Wizardry, and I wish to help you make the final leap, as it were, to True Wizardry. You must also keep in mind that some of the facts of the Old Cosmology are still true to this day. Let me explain:
+
+“Before the Sundering, Wizards created new magics.
+
+“This creation was due entirely to the fact that Wizards created mana. Like Xoat who came First, all Wizards naturally create mana that is perfectly attuned to them.
+
+“As an aside: All creatures created mana back before the Sundering, but only Wizards did so in a measurable abundance. Even the strongest Archmage had to use exterior mana in order to cast.
+
+“This mana used to need to be refined into usable mana and held in your ‘core’, which was your mana pool. Then you took your core and cast your spells.” She pointed to the white core in the center of her own ribcage. “Shades use this old method of casting. This method of casting is not blockable by the Script if you gain Melemizargo’s favor and are broken from the Script with His Wizardry.
+
+“Anyway: Wizards created more mana than any other creature or person or sunstone, or anything else. Taking this perfectly attuned mana, they Created, Destroyed, and caused Paradoxes. For mana is possibility, and when mana is perfectly tuned to a person, the possibilities are infinite.
+
+“Wizards created mana. Their students, the mages, could take this excess environmental mana into their own cores, and cast the spells of their Wizard benefactors. This was how the mage dynasties came into being.
+
+“The Script stopped all of that, with the Infinitesimal Ban. Whatever minuscule personal mana is generated by the people of Veird these days is automagically manifested in the Core of Veird.”
+
+Erick wasn’t sure about any of that. His understanding of the Infinitesimal Ban was not Priestess’s understanding. But. Sure, some of her words might be true, but when the gods took Erick up to be judged by Atunir, Sininindi, and Phagar, they had used the words ‘Atomic Magic’ and ‘fusion and fission are not possible under the Sundering Bans’, or something like that. They had certainly used ‘infinitesimal’ to mean the same thing as ‘atomic’, hadn’t they?
+
+… There was something strange going on here. Either this woman was lying to him, or the gods were. Or maybe they were both telling the truth? Maybe the Infinitesimal Ban worked on more than just Particles, and it was a happy coincidence that atomic bombs weren’t possible under the Script? Stranger things had happened?
+
+Or. Hmm...
+
+Rozeta had once said that other planar people had fallen to Veird who held similar knowledge as Erick. During that conversation in that black volcano, someone had asked after the possibility of creating another Ban. Maybe they had already created an ‘Atomic Ban’, and Erick had been conflating that one with ‘Infinitesimal Ban’ this whole time? The gods were known to let people think whatever they wanted to think, after all; Rozeta, in particular, was heavily guilty of this.
+
+If an ‘Atomic Ban’ was out there, and specifically killed all atomic weaponry…
+
+How come no one had ever heard of ‘Particles’ before?
+
+Ah. Right. The gods might have released a Forgotten Campaign to kill that magic. Maybe… Maybe the mage who made Atomic Magic had never shared their magic like Erick had, and the choice to enact a Forgotten Campaign was much easier against that forgotten mage?
+
+How would Erick even go about searching for that sort of magic? To see if he was right? He could just talk to Phagar, maybe. If knowledge of all atomic spells were truly erased from Veird, then Phagar would know.
+
+Should he ask Phagar that question, though?
+
+Priestess continued, “But as a Wizard, it is possible to focus on increasing your own production of mana, on drawing out infinity through the void as the Wizards of Old once did.” Now excited, Priestess said, “And then you can condense a core, and with a core, you can cast true Wizardry! You can do anything you want! You might even be able to create [Gate]s back to your own world, or guard yourself against any exterior magic, or any number of other techniques.”
+
+Oh, yeah. That. Erick saw right through all of that. “You mean I can cause a mana rad to condense around my heart, and thus fall to monsterfication and into Melemizargo’s claws.”
+
+Priestess lightly shook her head, as she said, “Ah. No. That would not happen, but I can see how you would think this. I can see you don’t trust me, or any of us, and that is sad, but understandable. Thank you for listening to me. Even this much is more than I could have hoped for.” She slowly stood, to float into the air away from Erick.
+
+Erick stood, to bid her farewell, but—
+
+She turned to Erick, saying, “I will leave you with this: Wizards, once they create their core and solidify their Wizardry, cannot change their choice. Creation, Destruction, Paradox. Whichever one you choose, that is you, forever.
+
+“You have likely used some of your Wizardry to create Particle Magic, but you cannot have used much of it, since you have only been on Veird for a very short time, and people the entire world over are inventing Particle Spells. In addition to that, I cannot feel any mana coming off from you at all, so if it were not for My God, I would not consider you a Wizard at all.
+
+“It is my guess that in the creation of Particle Magic, you merely unlocked something that was already here to begin with.
+
+“But even if you did use your Wizardry to craft Particle Magic into the world, without a core you cannot have done much harm to your future power.
+
+“Whatever choice you make with your power, sundering souls is how most people create excess mana these days. If you used your Wizardry specifically to create more mana, then when we eventually spread to the other worlds of this New Cosmology, we won’t have to sunder souls in order to fill these new worlds with mana.”
+
+Erick froze.
+
+Priestess spoke with a terrible, soft voice, “We never hid the fact that Melemizargo wants to spread from this Scripted world. You and many, many world leaders have already put all the clues together. Good for you.
+
+“But know this:
+
+“When we are successful in our travels to new worlds, there will be a problem. A problem for you. Not for us.
+
+“When I say ‘us’ I’m not speaking of just us Shades and of the Clergy. I mean everyone on Veird. The Interfaith Church. The rulers of all the nations of Veird. All of us! Once word gets out that we can travel to new worlds and turn those dead hunks of rock out there into living worlds, everyone will want a piece, and Melemizargo will give it to them, as the God of Magic always has.
+
+“But these new worlds would be empty of mana, for they have had no Script to hold in that mana.” The Priestess said, “Worlds without mana are useless, and we will all look to the Wizards and the condemned to power these new worlds, and the result won’t be pretty, for you, or for others.
+
+“They would never give you and the dregs of society a house on an empty planet and tell you all to live for a thousand years, while they wait for that world’s mana to fill to an acceptable level. They will tear you apart. They will sunder your soul just like the Darkness did to Xoat, all those millions of years ago, to create the Old Cosmology.
+
+“So I helpfully suggest that you attune your Wizard core into a mana generator, and that you give that ability to your Yggdrasil, so that you can then plant him on every world of this system. He will do all the heavy lifting. World Trees are good like that.
+
+“This is the only way everyone wins.”
+
+Erick frowned at her, for many, many reasons. So many reasons, he was having a hard time of what to say next. So he said nothing, and left it at that.
+
+Priestess acknowledged Erick’s silence with a slight dip in her floating form, then departed.
+
+Erick stared at the pond in front of him. Eventually Quilatalap walked over.
+
+The archlich said, “I think the first Feast is starting soon. Ready for some mingling?”
+
+Erick looked up at the man. “Got some good booze in this place?”
+
+“Only the best.”
+
+“Good.”

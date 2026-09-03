@@ -144,3 +144,426 @@ It read well. It read really well.
 
 But how did it work?
 
+Erick reached out and stuck his hand in the calm waters, and it felt like touching nothing at all. He glanced at his Status and saw that, yes, he was being Drained. But he didn’t feel like he was being Drained.
+
+He smiled wider. Yes; this was a good spell. He had made a painless [Drain Ward] (half of it was painless, anyway). It had taken some convoluted thinking, tied to an ancient source of symmetry in the Mana Ocean itself, but he had done it.
+
+Erick spared a single thought toward the implication that he could not have made a painless [Drain Ward] in the normal way, through normal, non-harmful intent, like a true Healer could.
+
+- - - -
+
+It wasn’t till later at night, when he was laying in bed, that he realized…
+
+He might have just solved [Renew].
+
+Well.
+
+A certain type of [Renew], for sure. Not a generalized [Renew], but an edge case that he could pull at, to see how the magic unwound.
+
+- - - -
+
+Bright and early the next day, Erick sat in the middle of the third floor room, his hands surrounding an unmoving [Shooting Star]. He was also channeling mana through the part of his soul that was [Shooting Star], to produce [Shooting Star] mana, then funneling that power through a hundred tendrils of [Greater Lightwalk], into the energetic ball of light. He had done this a hundred times already, so he was getting rather good at it, in his opinion. But it was difficult work.
+
+His tendrils stabbed into the lightball, reinforcing every errant break in the spellwork, his Perception stressed to the max, his mana sense focused completely. He ignored the sweat dripping down his face. He ignored the laughter of the little ball. He igno—
+
+Six-point-two seconds after casting [Shooting Star] (in his estimation) the ball of light puttered out like an ice cube melting all at once, making a little ‘phbbt’ sound as it went, along with a near-silent laugh.
+
+Erick’s thought train derailed.
+
+… Did it…
+
+Did the spell just fart at him?
+
+Perhaps it had!
+
+Erick sat back, annoyed.
+
+And then he went through the numbers. Checking his Status, he had spent over a thousand mana, nearly four times original mana cost of [Shooting Star], and all he managed to do was to get the ball of light to stick around for a singular extra second. Erick deflated. This was getting nowhere.
+
+Well.
+
+It was working, but only for a very loose definition of ‘working’.
+
+Erick sat back, and pondered.
+
+Eventually, he said, “Maybe the problem is [Shooting Star] itself.”
+
+So Erick decided to try something else.
+
+He went back to the drawing board, but not too far. Maybe the problem was that when he made [Shooting Star] he had put absolutely no effort into making it last forever, or be easily repairable. Thanks to his success with [Draining Undertow], and with a fair bit of Permanency practice, he knew what ‘easily repairable’ spells looked like. So Erick decided to try making a few more ‘easily repairable’ spells.
+
+It wasn’t [Renew], but if he could combine [Draining Undertow]’s framework with, say, [Force Wall], then he could cast a [Force Wall] that could repair itself.
+
+Theoretically.
+
+Nothing to do but try!
+
+He had his Ophiel gather around and then handed the sounds of the Mana Ocean to one [Familiar], and the solidity of [Force Wall] to another. He listened to…
+
+It was the sound of an ocean floor; a delineation.
+
+In himself, he combined that spellwork—
+
+He stopped. There was not enough space in this small room.
+
+He moved back to the roof.
+
+After Poi and Teressa both followed him back onto the roof, Erick looked to the clear blue northern skies, and with Ophiel singing all around him, he cast.
+
+The mana responded.
+
+A white wall manifested in the sky, forty meters across, and ten meters tall. And then the whiteness faded, and what was left was a shadow. A depth upon the world. That depth radiated a pull far in excess of its size. With Meditation active, Erick could see that pull. In fact—
+
+Erick switched his senses to an Ophiel who was already running [Mana Sight].
+
+The Void in the [Force Wall] was not a Rift. It was clearly a wall. But now that he saw it as such…
+
+He should make an ‘Undertow Rift’, shouldn’t he? Like with his [Pure Sunlight Rift], an [Undertow Rift] might be really good—
+
+“Erp!” Teressa sputtered, from five meters behind Erick.
+
+Poi instantly said, “Turn it off!”
+
+“What— Oh?” Erick saw the problem.
+
+He was Draining mana from everyone! Whoopsie!
+
+A blue box appeared right as Erick was canceling the spell.
+
+Undertow’s Edge, instant, long range, 1750 mana
+
+Conjure a stable, stationary wall of Abyssal Void that will initially absorb 500 damage.
+
+Drain WIL Health and 2x WIL Mana per second from every target within the wall’s effect. Drain is stronger in the depths. Targets in the shallows might not understand that they are being drained. Lasts 24 hours. For every first 2 resources drained, this spell will last another 1 minute. For every second 2 resources drained, the conjured wall will gain another 20 points of absorption.
+
+As the abyssal wall faded into the manasphere Erick read the spell he had made and his eyes went wide.
+
+Some quick math told him that in the twenty seconds that the spell had been active, and at his 161 Willpower, disregarding how Constitution worked to lessen the Drain…
+
+A single person in the area of effect of this new spell would have lost 6440 Mana, and 3220 Health. Most people did not have that much Mana, and only warriors had that much Health, but disregarding that fact... The wall had gained 9664 resources from every single person nearby. Erick had Constitution so he wasn’t affected too much, but he was still down almost 500 Health.
+
+If it weren’t for everyone on this roof having Constitution, the wall would have gained nearly 29,000 resources, which meant that, in 20 seconds, the wall could have been worth 145,000 points of defense.
+
+His own [Prismatic Ward], when cast himself, with all his modifiers, was worth a million points of defense, but he could only have one of those active. Erick’s singular cast of [Prismatic Ward] was wrapped around his house back in Spur.
+
+When Ophiel cast [Prismatic Ward], it was worth nearly 60,000 points of defense, and Erick could only have 10 of those because of some weird quirk of each Ophiel being able to cast his own Solid Ward.
+
+But with this spell!
+
+An Ophiel could cast this and make a barrier against attackers that was worth… way too much.
+
+Millions of points of defense. Perhaps billions, if the targeted group was large enough.
+
+Erick spared a glance with his mana sense to the room below, where he had been given the City Shield to study in detail. That magical item was decent for protecting a city from a monster horde, but Erick could cast [Undertow’s Edge] around any border in preparation for a monster horde, and it could ‘feed’ off of the resources of the monsters…
+
+Could that work?
+
+Had he just invented a better City Shield?
+
+—No. Maybe this spell couldn’t be Shaped to only pull from the enemy side of the wall? If it couldn’t, then that ended this idea before it got off the ground.
+
+So Erick turned back to the sky and cast the spell again, this time Shaping it so that the spell effect was directed away from himself; if such a thing were possible, anyway.
+
+A dark wall appeared, and on the other side, laid the figment of an ancient ocean. Erick checked his mana… No Drain!
+
+The spell had been pointed away, successfully.
+
+Teressa gave a tiny, startled gasp as the second [Undertow’s Edge] appeared, then she relaxed; she was checking her Status and must have seen that the Drain was gone. Poi almost said something, but then he refrained.
+
+Okay. So. That worked.
+
+Erick canceled that spell and cast again, Shaping it into something different; something self contained.
+
+[Undertow’s Edge] appeared like a shadowed sphere in the sky, six meters wide; about the same size as a medium sized area. There was no blue box this time. There was also no widespread Drain. The spell was completely contained. Erick knew that with a shift in Shaping, he could invert that sphere; he could protect himself inside the space and Drain every single person around him of their resources.
+
+He had not solved the problem of [Renew], but…
+
+He had solved something that was almost like [Renew].
+
+Using the methodology for [Draining Undertow], Erick could possibly create a ton of world-wide defenses against monsters, or whatever, and protect people long after he was no longer around.
+
+It was exactly what he wanted to be able to do… Ah. He deflated. This was great, except not at all.
+
+He wanted people to be involved in their own defenses. He did not want to solve everyone’s problems for them. In that way, [Draining Undertow] was great for personal use! But it was not [Renew].
+
+Erick canceled the spell, then turned to his people, and said, “I did not set out to do that, but I guess it works.” He changed the subject, “So! How’s the trip preparation going? Let’s go back inside.”
+
+Teressa turned away from the space where the Drain had hung in the sky, and took a moment to shift modes. “Uh.” She blinked twice, then said, “It’s going. I got jerky and hard breads and other staples…”
+
+The three of them went back into the house, while Erick listened to Teressa’s preparations. Erick soon decided that he needed some more coffee for the trip, for sure. They’d have to go to Alaralti to get that, though, so that is what they did.
+
+- - - -
+
+A day later, Erick received an invitation from Star Song to come to a special announcement gathering. The previous gathering was to bear witness to the announcement of a breakthrough in treating the Antirhine Elixir. This get together was much smaller than that one, but it, too, was about the Elixir.
+
+Over nice drinks and pleasant conversation, Patriarch Mirizo Song stood up and brought the gathering to order.
+
+The Alchemists of their Potion Houses had enacted the first successful chelation in a rat.
+
+There were a lot of caveats to that, of course. It was only a partial chelation, for one. The full story was more complicated, and came out over the course of an hour, but Alchemist Ving, one of the four Erick had given Intelligence to, enlightened everyone in attendance, telling them the full story of their partial success after the appetizers had been served and eaten.
+
+The rat in question had been exposed to a standard Elixir two weeks ago, along with hundreds of others, but with daily blood drains and subsequent transfusions with chelation-treated, compatible blood, they were able to reduce the antirhine aura in the rat by 25%. Magic was able to reach the rat’s skin! It was a subdued miracle. That rat wasn’t the only one of that group to show success, but it was the largest success of them all. The rest of the rats had suffered less kind fates.
+
+Out of the original test group of that chelation formulation, which was composed of 100 rats, 67 of them died due to so very many complications, most of which were attributed to disease and failures to thrive. All the ones that lived, though, all showed marked reductions in the size of their antirhine aura, with reduction values hovering around 15%, with more than a few with over 20% reduction.
+
+So!
+
+Good news.
+
+Not full treatment. Not yet. But it was getting there. Good news.
+
+Erick enjoyed the gathering. He also enjoyed getting to talk to Xue again, who was doing well as an Elder of Enforcement. Riri was doing fine as a Loremaster, though everyone treated her as an Elder these days. From what Erick overheard, Riri was becoming a very, very rich lady.
+
+Ari was not there, but when Erick asked after her, everyone else said that she was doing fine, and that she spoke with people in Star Song all the time.
+
+Xue said, “She’s unhappy there, but in a year, she’ll either be running the place, or be allowed to leave. There’s absolutely nothing that the Palace could possibly find in her soul or in her past that would mark her as a Soul Mage that needed culling. She’s the most scrupulous person I know.”
+
+Riri added, “Arilitilo has connections. She also has all of us. We won’t let her wallow in there unnecessarily.”
+
+“I’m glad to hear it.” Erick said, “If it wasn’t for her, I would have died at the very beginning of the battle.”
+
+That truth seemed to make many people uncomfortable, so the conversation moved on.
+
+Soon enough, the discussion moved toward the reorganization of classes and employment opportunities for newly raised clansmen, and from there, Riri spoke wanting more of the new clansmen to come to her remade spider house, to learn weaving.
+
+Xue had a light frown as he said, “We need more enforcers right now, Riri.”
+
+“And those enforcers need the money that a remade spider house can bring in.” Riri said, “I’m not asking for your hothead enforcers. I’m asking for you to keep an eye out for those who would do well as crafters.”
+
+Xue said, “There are none.”
+
+“There have to be some.” Riri said, “Work with me, Xue.”
+
+“Perhaps if you tithed in the full amo—” Xue stopped himself.
+
+Riri held her sake cup in front of her lips, so as not to show her frown to the world. There was stress in Star Song, and the conversation between Xue and Riri was degrading past public decency.
+
+So Erick changed topics, asking, “How’s Jane getting along in your thread weaving, Riri?”
+
+Jane was over at the other table, with some enforcers. The music was loud enough to disguise some of the words floating around, but Jane noticeably flinched at the utterance of her name.
+
+“Your daughter’s skills are coming along admirably, Erick,” Riri said, happy for the distraction. “I could make a lot of money with an employee like her, but it is too bad that she’s so focused on that enforcer mentality.”
+
+Xue frowned, openly.
+
+Erick chuckled. Hopefully it didn’t sound too much like a nervous chuckle!
+
+Riri added, “You should come in some time; see how woven enchantments work.” She brightened. “I could even get you a spider form!” Suddenly serious, she asked, “Ohh. Would you like a Light Weaver? It’s good for a beginner— Ah. No. You should find a Red Thread Weaver in the Forest of Glaquin and then come to my spidery. [Telekinetic Thread] is great for woven enchantments. Your daughter is learning quite fast.”
+
+Erick chuckled, and this time it was clearly a nervous chuckle. “No thank you!” With eyes a bit wide, he said, “I have just now realized that you probably have a lot of spiders where you work.”
+
+Polite laughter came from most people at the table.
+
+“Not enough spiders, sometimes.” Riri smiled, and said, “If you ever come across another Radiant Nacreous Weaver, I have half a million gold set aside to buy it from you.”
+
+“Oh…” Erick’s mirth took a dive. He said, “I am sorry about Pearlchan. I don’t think I said that yet. I heard, but— I am sorry for your loss.”
+
+Riri went unreadable for a brief moment, and then she relaxed. She softly said, “Thank you, Erick. She was a beloved pet, and I will miss her.” She found some of her fire, and her words turned lively, “Don’t misunderstand. I don’t mean ‘if you find another Radiant Variant I want it for a pet’. I won’t grow attached like that again. This time I mean to have the [Polymorph] form.”
+
+Erick nodded, then said, “I’ll keep a lookout.”
+
+Xue smirked as he looked between Riri and Erick, then said, “She ca—”
+
+Riri frowned at Xue, sighing deeply, loud enough to interrupt him.
+
+Xue continued, “She can afford three times that.”
+
+Not wanting to get involved in this spat, Erick said, “Oh, I know she can. But I’m already getting million gold offers to conjure up some white mountains around here. It’s not about the money. I’m already fantastically rich.”
+
+Xue laughed.
+
+Riri asked Erick, “Are you looking to spend that money in ways that will make you more money? We’ve got investment opportunities everywhere.”
+
+Erick chuckled, then paused, and considered. A moment later, he said, “I already spent a lot on Red Ledger, maybe I should look into investment opportunities. Do you have any investment opportunities like that?”
+
+Xue asked, “What was your goal there? Exactly?”
+
+A lot of people at the table were interested in Erick’s answer. Heck! A lot of the entirety of Songli was wondering why Erick got involved in Red Ledger’s University. Erick hadn’t answered those inquiries yet, because words were kinda hollow compared to actions, but here was a good time to say a few good words on the subject.
+
+Erick said, “I gave them money to gain oversight control on an institution which heals people, because I want Red Ledger to continue doing their good work, and I wish to be involved in that good work.” Erick said, “The other reason I chose to help them is because the financial truth of Red Ledger’s hospitals and university is a lot more difficult than I think it needs to be, with injured people unable to pay their bills all over the place, which means that Red Ledger is unable to pay their bills. They used to supplement their income with the warriors of the clan going out and killing monsters for cores, and hunting many of their own herbs and stuff like that. But because of Terror Peaks, that lifeline of warriors is no more. Therefore, I have stepped into that role.
+
+“My hope is that they can do what they need to do to heal people, without worrying too much about the financials, because making money off of a hospital is the very opposite of what I want in life. If anything, I hope to provide enough resources so that Red Ledger can operate more like Oceanside’s hospital; where treatment is free unless you’re rich. It’s probably gonna take some time for Red Ledger to understand my desires for how I want them to be, but Patriarch Tsung seems amenable to much of what I want from them.” He turned to Riri, “So if you got opportunities for me to make money to allow others to heal without worry, then tell me what you got.”
+
+As others around the table absorbed Erick’s words and prepared to speak to him, Riri was already there, talking.
+
+Opportunities abounded in Songli for the casual investor, with options everywhere, from small scale hospitality-based buy-ins with percentage based returns, to shareholder systems for larger scale operations, like Star Song’s spider house, or the trade school houses of Diligent Scribe. She even spoke of ways for Erick to make money that were focused on his ability as an archmage, instead of his riches, which was, arguably, the most solid way for him to make money. Selling services is always a valid money making ‘scheme’.
+
+As they spoke business, other people around the table spoke of their own opportunities when they gained a moment to interject, but Riri was the queen of gold at this particular table, and everyone else toiled at her pleasure. Star Song, and Songli, all had prosperity aplenty; all one had to do was buy into the system.
+
+Before Erick knew it, the second and third courses were served and eaten, and dessert was wheeled out on silver carts, along with after-dinner coffee.
+
+As the evening wound down, Xue eventually said to Erick, “We never got to do any blood enchanting at all.”
+
+“Ah. Yeah.” Erick said, “I’ll be back in town eventually, but I’ve never been good at enchanting, anyway.”
+
+Xue laughed. “It’s heartening to know that you’re bad at something.”
+
+Erick chuckled.
+
+It was a good night.
+
+- - - -
+
+Erick shot awake.
+
+He checked on everything around him, slamming on [Hunter’s Instincts], then preparing himself with all the rest of his usual spells. Ophiels went from fluffy feathered to knife-edged, instantly spreading out into the world, trying to find whatever had woken Erick.
+
+He searched the sky. He searched the clan mountain underneath. He searched the other houses of the nobles on top of the mountain. He searched his room with every spell imaginable, and when that wasn’t enough, he had an Ophiel fly into his room and activate a [Lodestar] empowered [Fulmination Aura], designating himself as friendly.
+
+A lightning mandala materialized around Erick. Shimmering arcs of electricity ripped through the room, smashing apart the water clock in the corner, breaking a window, spilling across the walls like so many sparks, ripping across clothes and fabrics and books and setting the bed on fire. Erick let it happen.
+
+But nothing died.
+
+Soon enough, he turned off the lightning.
+
+He was alone.
+
+He had ripped his room up? Ah. Shit.
+
+Shame lodged itself into his heart, with a smaller stab of shame piercing his brain from behind. Cold ice trailed across his skin as he realized what he had done. Oh. Shit.
+
+This wasn’t good.
+
+A [Mending Aura] brought back the room to its original state, though some of the books were on the ground, and some of the clothes had fallen off of their hooks. The water clock had spilled its now-steaming liquid contents all over the floor.
+
+Erick sat there, on his bed, and tried to silence the unnatural worry inside his head. No one had tripped any alarms. Nothing was out there. Nothing was happening.
+
+“… Boss?” Teressa called from outside the closed door to his room.
+
+Erick called back, “Nothing is happening! Sorry for waking you!”
+
+“… Okay,” Teressa said, nicely. “Well I’m awake now and it’s only an hour till sunrise. Want breakfast?”
+
+Erick canceled [Hunter’s Instincts] and pulled Ophiel off of high alert. He got out of bed, saying, “Yeah. I want breakfast.” He opened the door and saw Teressa standing there, along with Poi behind her and Jane down the hall. Motes of light fell out of Jane’s hand, going from the shape of a sword back to ambient mana. Erick repeated, “Sorry for waking everyone.”
+
+Breakfast was a subdued affair.
+
+Afterward, Erick spent the day fixing every little problem he could imagine.
+
+He made sure that Devouring Nightmare set up a stone box where Erick could place [Personal Delirium Charm]s without needing to hand them directly to Warzi, or anyone else.
+
+He prodded the Alchemists of Star Song about their chelation advancements, because he wanted to know what, exactly, they thought their chelation molecule looked like. He found that they weren’t working with calcium disodium EDTA, but they were working with something similar, and it would work, eventually.
+
+He spent four hours in the afternoon with Riri, going over various investment opportunities. At the end of it all, he decided on spending 1.5 million gold in ten different markets. They were stable investments, only; nothing risky. Farming businesses, building contractors, streets with businesses that Star Song owned that could use money to make better products, gathering squads that pay people to go out and harvest natural resources like cores from monsters, and the like. In a year, the income from those investments should go a long way toward providing for Red Ledger’s yearly shortfall.
+
+After spending all that money, though, Erick felt rather light in the bank, because he was. Only a quarter million gold left in his account! So he decided to fix that problem in the same way he had fixed the problem before, but with a little adjustment. After all, this part of the world had no crystal mimics.
+
+He didn’t even have to stop farming because of nightfall. He just kept going. There were more monsters out at night, anyway.
+
+That he didn’t feel like sleeping due to nightmares was just a coincidence.
+
+- - - -
+
+In the Tribulations, where monsters roamed deep green valleys filled with mist, and wild mountain peaks poked above that fog like islands in an ocean, Erick hunted at a distance. The sun had long since set, but work was never done.
+
+Ophiels flew surrounded by [Domain of the Withering Slime], each of them like a white moon flying across the misty oceans, trailing a tsunami of thick air with them. That air touched mist stone gluttons and ripped water out of the monsterized lizards, most violently. The rock, air, and water elementals became broken sand, while [Cleanse]s pulsed out of the remains, briefly brushing aside the ever present mist.
+
+Kill Notifications scrolled past Erick’s eyes like a blue rain.
+
+In the wake of such destruction, came helpers; a tide of stone-like summons, preying on the dead. Each summon looked like a torso-sized quartz crystal with a hundred telekinetic tendrils, while each tendril was tipped with a stone knife, all the better to dig into dried and desiccated bodies, to get at the treasure within. None of them were very good at what they did, so Erick summoned thousands upon thousands of them, instead.
+
+His name was Jewels, and the tide of him sparkled under misty moonlight; it was a beautiful sight.
+
+Summon Jewels, instant, close range, 720 MP
+
+Summon a creation of hardy stone that will retrieve a large amount of rads from as many monsters it can, while it can. Lasts 1 hour.
+
+Erick had barely used Jewels except for this exact scenario; when he needed to gather all of the rads/cores from all the monsters he killed. Jewels stuck every core he found to his quartz-like body, gathering up as many as he could, before his time in this world was used up, and he dissipated back into the mana, dropping all of his cores where he was.
+
+This functionality would have been a problem for most people; It was not a problem for Erick.
+
+A [Cascade Imaging] in the sky, tracking cores, easily found every pile of cores every Jewels left behind.
+
+While mist stone gluttons were the normal monster in the Tribulations, there were others. Erick killed them all. He came across a few Deep Hydras in the deeper valleys, with their spewing poison and their multiple grand cores. He discovered some monsterized people, too; cannibals who had lost their minds and their souls to the mana. He found colonies of couatls and gatherings of vulture-like birds.
+
+All died under the [Domain of the Withering Slime].
+
+All cores were gathered.
+
+In the morning, all of those cores were deposited at the Clan Exchange of Songli; the Mage Guild.
+
+The final count for small cores was a little under 7000; each of them was worth 3 gold, or 5 mana, depending on how a person used them. This small number of small cores was to be expected. There weren’t many smaller monsters in the Tribulations.
+
+Of normal cores, each worth 5 gold, or 10 mana, there were 945,000.
+
+In a single night and a bit of the next morning, Erick had restocked his bank account.
+
+The sun was shining. Birds and Ophiel were singing.
+
+Now this was a good time to take a nap; in the daytime, when nothing could get him in the dark.
+
+This was a perfectly normal response to trauma caused by the dark things of the world, yes sir!
+
+Erick slept all the way to midnight and woke up in another cold sweat. There, once again in the dark, Erick foresaw many more days of this shit.
+
+He whispered to himself, “Dammit.”
+
+- - - -
+
+Erick did not get back to sleep that night. Instead, he stayed awake and theorycrafted some spells in order to better defend himself while he tried to sleep. Maybe with enough proper defenses, he wouldn’t have nightmares anymore.
+
+It wasn’t paranoia if they truly were out to get you!
+
+Anyway.
+
+Out in the field, he could probably use some illusions to mask his presence; to actually hide [Prismatic Ward] and [Sealed Privacy Ward] from mana senses and other Sight spells. But then again… [True Sight] had served Erick well when hunting Terror Peaks soldiers, but high level illusions, like that of the Mirage Dragon, seemed to be able to get around [True Sight]’s ability to see through magical effects. Perhaps high level illusions actually (temporarily) manifested whatever it was the illusion pretended to be?
+
+Sure.
+
+Sounded plausible.
+
+Erick grumbled as another thought hit him, that only served to reinforce his trepidation into expanding his illusion repertoire. High grade illusions would help to obscure any possible camp out in the field, but they did nothing to protect him while he was inside his house, where everyone knew he lived.
+
+So Illusions were a no-go for defensive work. He wanted true defenses; not the false defenses of being invisible to the world.
+
+His thoughts instantly locked on to [Draining Undertow], and its ability to drain everyone of their resources, and also reinforce itself in the process. It was almost a Permanent effect, too.
+
+The ‘Undertow’ effect could probably be attached to any type of framework, too. Forget [Renew] as a Basic Spell. With Undertow, he could revolutionize defensive spells the world over… or at least make his own sleeping space rather damn well protected.
+
+But how to expand upon this framework? Which direction would be best to go in, first?
+
+There was, perhaps, at least one apparent use for an Undertow line of spells, and the idea was not just an idea born of Undertow, but from the very first magic that he was exposed to when he came to Songli: the Void Song.
+
+The Void Song could negate magic around itself. It was a constant counterspell and dispeller of varying effectiveness, with the only true limit to the anti-magic effect being the power behind the caster of the Song, and how much mana they were willing to put into such a working.
+
+But with Undertow…
+
+There was probably some effective limit to what Undertow was able to do; the Propagation Ban was right there, after all.
+
+But, with Undertow as made… And with the Void Song…
+
+Erick might be able to make an Abyssal Void Song Rift.
+
+With the Void Song singing from that Rift, Erick would automatically counterspell and [Dispel] every single magic in the area of the Rift!
+
+Oh!
+
+And he could also add in some designating capabilities, too, with [Ward], so that he could cast the Rift in a specific spot, like around himself at night, without having it affect any of his people. Once emplaced, the spell would automatically drain the resources from every single unauthorized person who got too close, and also shut down all of their spellwork with a constant counterspell. If he made the rift well enough, or perhaps if he just added enough Shaping and size to the resulting spell, he could have it stretch out to a very, very large distance—
+
+Oh!
+
+And with a [Spatial Denial] spell to supplement the Rift, he could make a spell that would simultaneously prevent anyone from blipping directly next to him, as well as drain the resources from anyone who braved the [Spatial Denial]!
+
+Ohhh… This would be a complicated spell, but it wasn’t complicated like [Renew] was complicated. [Renew] was touching upon Wizardry, because it dealt with aspects of magic that were fundamentally not compatible, like the fact that everyone casts spells differently. It was like every single person used different electrical outlets. One needed an adapter, usually in the shape of some magical item or an artifact, in order to circumvent that innate disparity.
+
+[Abyssal Void Antimagic Rift] would be complicated, but in the way of putting together a large machine would be complicated. A lot of moving parts in that spell, but all the moving parts naturally worked well together.
+
+As soon as the idea fully manifested in his mind, even knowing that he didn’t have all the pieces, Erick knew he had to make it work.
+
+Like.
+
+Yes.
+
+The paranoia was digging deep into his brain matter and having its way with his psyche. Erick was not senseless. He acknowledged this. But he was a target, as evident by the several assassination attempts he had survived so far, ever since he came to Veird.
+
+Erick just needed to experiment a bit more with Elemental Void to see how it worked to ‘[Dispel]’ without actually ‘[Dispel]ing’. The spell [Dispel] was Shadow based, so however Void managed this was outside of Erick’s expertise. At an educated guess, though, he imagined that Void would simply rip apart opposing spells with pure elemental force, instead of anything approaching spell-based force.
+
+He could probably rip apart spells with his own [Physical Domain], too, but he had never tried it.
+
+… He decided to try that before he tried making an Undertow Rift.
+
+To that end, Erick first waited till everyone else was awake, and then he had Poi send a message off to Matriarch Lingxing Void Song, to ask if she, or someone under her, would be willing to show him a bit about how the Void Song worked.
+
+Erick got a quick reply. Lingxing herself would answer his questions for about an hour, if he allowed one of her own people to join in their meeting.
+
+He… tentatively agreed.

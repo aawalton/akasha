@@ -136,3 +136,288 @@ Kiri smiled a little. “No. You’ve done a great deal for me, Erick. You say s
 
 Sure, she said that he was doing enough, but Erick didn’t feel like he was contributing nearly enough to this teacher-apprentice relationship. So Erick said, “Then here’s another bit of interest for you: ‘Plasma’, according to this book, is a form of Fire and Air, which is sort of how I think of it too, but not at all, because Fire is not Plasma.
 
+“Fire is the transformation of some burnable substance into something else, and burning typically only occurs when Oxygen is present, and is therefore able to chemically react with the burning substance to release the stored chemical energy in the form of Heat and Light. Fire is therefore actually rather close to Decay, and I imagine that I will find this out when I read far enough in this book, if this book is realistic at all.
+
+“I think, that the understanding of Plasma as a combination of Fire and Air is correct, but only in a surface understanding. The true nature of such a combination, and how to get ‘Plasma’ in your spell description, is to feed oxygen, or ‘Air’, to a fire, and thus make the Fire work to Decay the target in a more robust manner.
+
+“But that Elemental Plasma is not the true nature of plasma.
+
+“The point of that tangent was to say this: The true nature of plasma is as a system that is so full of Energy, or Heat, that the electrons are stripped from their atoms and everything is floating around in a soupy mess of very hot particles.” He added, “With that as the basic idea of the true nature of Plasma, then you can refine that idea into something like cold Plasma, and completely ignore the Fire aspect of normal Plasma spells.
+
+“As far as I know, lightning was the most common form of plasma back on Earth, because normal fire from burning wood just doesn’t get hot enough to turn particles into a free-flowing soup of itself. There was also plasma in light fixtures, to cast pale glows that a lot of people used in office buildings. That form of plasma was a cold plasma; it was just used for its electrical conductivity, and when you passed an electrical current through that plasma, it created light. It did that job quite well, since it was a mass of free-flowing particles, and the electrical conductivity of plasma is usually rather high.” He finished, asking, “Now… How much of that seemed reasonable to you?”
+
+Kiri’s eyes went wide as Erick spoke, but quickly narrowed. He had hit upon some fundamental incompatibility somewhere in his little speech, but she listened without interrupting. It was only when Erick was done, that she said, “I am not sure of this Fire and Decay connection. I mean… I can see that Fire acts like Decay… I’m not sure of this Cold Plasma idea, either.” She added, “You never talked about plasma before, when you spoke of lightning?”
+
+“The true nature of Plasma completely slipped my mind until now.” Erick looked to one of his spells, then pushed it across the room, floating it to Kiri, saying, “By the way, have you tried making this one?”
+
+Death Spiral Plasma, instant, close range, 17,009 MP
+
+Wrap a target in fire, dealing WIL damage a second until the target dies.
+
+Kiri read the spell, her eyes going wide again. She smiled, saying, “I could try.”
+
+“You could probably do a lot more than that, knowing that the true nature of Plasma is as a collection of loose Particles without any true structure, instead of as some combination of high Fire and Air magics. In a similar vein, Radiance is probably more of an Infrared Light, sort of thing, instead of as a mix of Fire and Light ideology.”
+
+Kiri paused, as she turned back to her ‘Dawning Sun Style’ book, with new ideas behind her eyes.
+
+Erick thoughtfully said, “Maybe that’s why I only got ‘Radiance’ on a few of my firelight spells, instead of on all of them. I was going for the magic angle instead of the Infrared angle.”
+
+Kiri offhandedly said, “I don’t know. There’s… There’s so much inside of all of what you just said...” Her voice trailed off.
+
+Erick went back to reading. But he did not start at the beginning. He skipped around, looking for clues among his crafted spells, and how they related to these other ‘Elements’. One of his most interesting spells was [Vivid Gloom].
+
+Vivid Gloom X, instant + 1 minute, super long range, 500 MP
+
+Chaotic radiance expands to fill a super large area, dealing <damage> every second to all inside. <Various effects of direct exposure include, but are not limited to, Cancer, Blindness, Magic Failure, Immolation, Boiling, and other Decay-like effects.> Spell lasts <1 hour> after conjuring is complete. Effects last longer.
+
+Particle Mage Only.
+
+[Vivid Gloom] had ‘Radiance’ in the spell description as well as a whole bunch of Decay effects, but the main thing that caught Erick’s eye was the name, itself. ‘Gloom’ was Air, shifted towards Shadow.
+
+The ‘Radiance’ part made a lot of sense. The spell was based upon Light of all sorts, but trapped into a space to inflict damage in that space. The trapping itself was sort of like a ‘Shadow’ effect, since Shadow came from Light easily enough, and the spell did turn all of its power inward, sucking in all light and making a void-like space. The ‘Decay’ part also made sense. Erick was going for Extreme Light, which was Veird’s term for ionizing radiation; the sort of radiation that ‘Decayed’ magic itself, or rather, removed the intent from ongoing magic. Nothing Erick knew of actually destroyed mana itself.
+
+The ‘Gloom’ part of the spell, though… That was interesting.
+
+Why did Rozeta call it ‘Gloom’? She named the spells—
+
+Erick had called it ‘Gloom’. He remembered, now. Mystery almost solved, but his spells didn’t always come out the way he called them. The Script and Rozeta named all magic, as it was created. Could this here [Vivid Gloom] be some sort of interaction with his own Airy nature, according to Syllea’s dice that he had rolled?
+
+He smiled a bit, as he wondered at the complexity that Rozeta dealt with in a single day. All these little words and hints inside all of these little blue boxes painted a vast mural of the truth of the Script, but even that mural was a small thing, compared to the enormity of mana itself.
+
+Magic was wonderful.
+
+For about the hundredth time, Erick was glad that he met Al, and was turned on to Scion of Focus. The time since then had been kinder to Erick because he never ran out of mana, except in extreme situations. But anyone fighting Bulgan would have run out of mana, too.
+
+… they probably would have fought better than him, too. But Erick could work on that!
+
+With ‘Esoteric Elements’ sitting open on his lap, Erick pondered a question he had picked up and put down more than a few times. He could switch his Scion. He could go to Irogh and pick up a quest to switch to Scion of Balance, and after completing it, his Regen would drop from 35,000 to 20,000-ish, but he could also double his base mana from 8220 to 16,440. That much mana would allow him to do much larger spells. Maybe, if he figured out some good ‘Variable damage’ spells, that much of a difference would be massive. And maybe if Jane were in his position, she would have chosen to switch.
+
+But Erick liked his current build.
+
+He returned to his book, and read about Radiance. It wasn’t long before he wanted to check on something, so with a bit of [Lightwalk] lightform, he picked up a book off of the shelf; the one Anhelia had given him to help him make some good light spells, to fight Shades. Most of Anhelia’s book was written in Ecks, but the spell formulae were written in Ancient Script. She had called her Fire and Light spells ‘Firelight’, both in the Ecks part, and in the Ancient Script part. Meanwhile, in ‘Esoteric Elements’ they never used the word ‘Firelight’, instead opting for ‘Radiance’. With a bit of cross referencing, Erick saw that Firelight and Radiance were almost the same word in Ancient Script. One had a scratch in the center of the word, the other did not.
+
+For a long moment, Erick sat there, confused.
+
+He had read the words just fine, and could even write those words down, but this particular understanding of ‘Firelight’ and ‘Radiance’ as the same word did not come to him until he did some language delving of his own. He had learned both Ecks and Ancient Script through [Language Acquisition], though, so there were bound to be some oddities here and there. Was this just one of them?
+
+He decided to leave that alone for now. He was never that good with languages. Thank the gods for [Language Acquisition]! The answer to this discrepancy probably had to do more with the fact that mana was possibility, and possibility was shaped by language, so if a person didn’t have the right language for something, then that thing wasn’t a possibility for that person. But Erick had no idea where he was going with that thought, so it sort of flowed away from him without much care beyond ‘oh, interesting trivia’.
+
+He returned to reading about them elmen on the Continent, and how they all worked, fought, played, and birthed each other.
+
+Some parts of the book were weirder than others.
+
+Three hours later, he got to the story on Rebound.
+
+Kiri had left the library to get snacks, but when she came back carrying two small plates of crackers and cheese, Erick was ready to ask her another question. She set down one plate next to Erick.
+
+“Thank you.” Erick said, “Did you ever make that [Reflection] spell?”
+
+Kiri held her own plate of crackers and cheese, as she sat back down in her chair, saying, “I thought about it. I have the rhyme and the idea and everything all laid out, waiting to make it. But I think you should make the spell and get the points, Erick. I do not feel comfortable taking that from you.”
+
+“I hear you, but I disagree.” Erick said, “Go make it, and then show me.”
+
+Kiri leveled a gaze at him. “Are you sure?”
+
+“Yes!” Erick almost laughed. “Yes. Go. Do it now, in fact.” He pointed to his own book, saying, “I’ve got about ten spells on the mind right now, and I don’t have time for something you’ve already figured out.” He teased, “But I will make fun of you if you do it wrong! I’m gonna need ten days per spell level duration, at least. Chop chop, git er done!”
+
+Kiri was torn between joy and embarrassment. She said, “I’ll be right back.” She left in a blip of green.
+
+Her crackers and cheese remained on the table next to her own books. When Erick was done with his own snack, which took a good twenty minutes, he moved on to hers. And he read. He also retrieved a beer from the keg in the cold room, cleaned out a few violet eel groupings in Candlepoint’s lake, brought platinum rain to both Candlepoint’s Farm and Spur’s Garden, reasserted his control over the weather to give clouds to the sky, and played around with some preliminary Plasma spellwork out in the Crystal Forest.
+
+An hour later, Kiri walked into the room, holding two diamond spheres and smiling wide. She looked to the two empty plates, lingering for a second, but quickly moved on, saying, “I did it!”
+
+Erick smiled back, saying, “I can see you did. Show me.”
+
+In her left hand, held in the tips of her black claws, was a sphere like a perfect mirror; a white ball bearing turned shiny to the nth degree. The other sphere, in her other claws, was clear, like usual. Erick watched the second sphere, as green light flashed around the diamond, leaving in its wake a second perfect mirror, looking like curved and distorted mirror copy of the world around it.
+
+A blue box appeared.
+
+Perfect Mirror 1, instant, close range, 250 mana
+
+A large or smaller object or space perfectly reflects all light, both magical and mundane. If you cast Perfect Mirror on the same object or space as before, you will renew the duration of Perfect Mirror. Lasts 10 days per spell level.
+
+“Oh my gods, Kiri!” Erick exclaimed, “This is better than I thought it would be!”
+
+Kiri’s greenscaled face turned deeper green with embarrassment, as she smiled. “Thank you.”
+
+“I have to try this.” Having already prepared for this, Erick picked up a [Luminous Trap] enchanted diamond bracelet that he had set upon a nearby shelf, that he had already enchanted with some small Stats, and covered with a purple lightmask. The central diamond already sucked in all light, and seemed more a cutout of reality framed in purple than any physical object. Erick cast his new spell. Void was replaced by purple Mirror. “Ah! Look at that!” He took off his rings and put on the bracelet. Plus 10 All-Stats. He said to his apprentice, “Good job, Kiri. Very good job.”
+
+Kiri watched, silently smiling, as Erick continued the experiment.
+
+With a cast, he popped a jumbled purple, black, green, and brown lightward into the air. This type of lightward was not common, but lightwards of all sorts would disrupt the All-Stat imbue inside a void diamond; hence the need for Kiri’s reflection spell. Tulamana Blackvoid had had to create the very same reflective solution to her rings, all those centuries ago, in order to be able to use her rings out in the world.
+
+Erick held his wrist, and the mirrored diamond bracelet up into the lightward. The conjured light broke upon his skin, like it normally did, in small sparkles of disrupted lightspace.
+
+The conjured light also broke upon the reflective diamond. Normally, it would have soaked in.
+
+Kiri’s spell was a success!
+
+Erick began taking off the bracelet as he put on his rings, saying, “Excellent job, Kiri.”
+
+Demure, but proud, Kiri gave a tiny bow, saying, “Thank you, Erick.”
+
+“That name, though. Wasn’t that the one that Tulamana Blackvoid made? But it’s a Particle spell?”
+
+Kiri grinned, saying, “Multiple spells can have the same names, but wildly different effects. Like [Comet Swarm]. I did use ‘Perfect Mirror’ in my song, though.”
+
+Erick smirked, then asked, “Want to go experiment with Plasma?”
+
+Suddenly highly excited, Kiri said, “Yes!”
+
+Before either of them could make a move, a low drone came from the ceiling, sounding like a corpse waking from the grave. Erick stared upward, as Kiri flinched from the sound. Sunny undulated pink. Ophiel stared for a good, hard second, then broke into song, repeating the sound and adding his own baritone background drone.
+
+Kiri started, “What the fu—!”
+
+A tired voice carried through, ‘Wait! Wait… I’ll be ready in a… In a minute.’
+
+Erick laughed. Poi had woken up. They had woken him up. Erick sent back, ‘No worries, Poi. We can wait.’ He said to Kiri, “We can wait.”
+
+Kiri let loose a shiver, then agreed, “We can wait.”
+
+- - - -
+
+The sun shone overhead, but clouds obscured some of the blue. It wasn’t too hot, nor was it too cold. This was good weather for playing around with Plasma and plasma, both the Element, and the fourth state of matter.
+
+Erick and Kiri stood on the sands, just outside of a dense air, while Poi sat on a chair Erick had conjured for the tired man, inside the dense air of a [Prismatic Ward]. Erick had had to juggle a few casts of [Prismatic Ward], through his Ophiels, when the densities he had set up around Candlepoint and under that lake flickered out, but he sorted that problem quick enough.
+
+Teressa had been a late addition to the party, at Poi’s request. She stood beside the man providing a bit more vigilance than the sapphire-scaled man was capable of achieving right now.
+
+Poi grumbled at Erick’s unsaid thoughts.
+
+Erick just smiled, then said to Kiri, “So what’s your goal, here? Mine is a Variable cost Variable damage spell. Preferably with a large multiplier.”
+
+Kiri almost said something, but she seemed to choose different words, saying, “I’ve been thinking about it since you mentioned it before, and I remembered a discussion about Variable Cost Variable Damage spells from my time in the Tower.” She continued, “Leaving off the various tactical mana problems of such a spell, because we can, mostly— Firstly: What spell are you thinking of for the base spell?”
+
+“[Force Bolt].” Erick smiled. “I want perfect ‘unerring’, and a times ten multiplier, too.”
+
+Kiri eyed him, saying, “That much mana into a [Force Bolt] is going to make it wickedly unwieldy. Besides that, if you’re throwing a 15,000 point Bolt at something, it’s going to go through the target. For some creatures, that won’t matter.” She said, “It’s like: I can stick a knife through a person, but to cleave them in half would be much more effective at the desired goal of killing. I think, if you were going for VCVD, then having some of that VD be in damage over time? This would be a good option. This is also why I like Fire spells so much. There is a lot of upfront damage, but the damage over time ensures that your mana is not wasted.”
+
+Erick listened. He thought. He said, “Those are some good points.” He added, “I still want massive damage, massive— [Force Bolt], [Force Bomb]. Explodes on contact with target for— What’d you say? VCVD. I like that.” Erick decided, “A bolt that carries a VCVD charge that explodes on contact for massive damage.”
+
+“Then...” Kiri said, “How about you also try a VCVD [Plasma Bolt] that imparts all of its energy to the target, instead of one that punches through?”
+
+“… Oh!” Erick said, “That’s a good way to do it, too. How to impart energy, though? [Force Wave] is the usual way.”
+
+“That was my thinking, too.” Kiri asked, “How much energy do you think Plasma can hold?”
+
+Erick looked up to the sun, behind the clouds. “A lot.” He looked back down, saying, “Plasma is also capable of conducting a vast amount of electrical charge.” He decided, “So we’re making at least two spells, then. One to impart Heat to a target. The other to coat them with something that will greatly increase the damage of all Lightning spells.” He added, “And then, you know. [Lightning Beam], or something. I already have [Call Lightning], so I’ll try to make [Lightning Beam] the normal way.”
+
+“That’s another thing to consider.” Kiri said, “Electrical charges attract quite easily. In this way, you can likely ignore the weighty problems of a VCVD [Lightning Force Bolt].”
+
+“Oh!” Erick said, “I like that.” He said, “So a few spells to try out. VCVD punching [Plasma Bolt]. VCVD heating [Plasma Bolt]. [Lightning Gathering Bolt]. VCVD [Lightning Ball Bolt].”
+
+Kiri stepped back, into the dense air behind them both, saying, “I’m not even sure how to make a VCVD spell. So. Good luck!”
+
+Erick turned to face the orange desert, smiling. He had no idea how to make a VCVD spell, either, but he was going to try! ‘Esoteric Elements’ had given him some ideas, but only when it came to Blood. Blood magic had a lot of Variable options, it seemed. Erick had the Blood Magic Class Ability, too, so this should be a simple application of an already known phenomenon.
+
+He had never really used his Blood Magic option, but there was no time to try like the present!
+
+With his palm held up, he channeled pure Health through his hand. A fountain of white light appeared, as his body broke out in a sweat and his heart beat hard, like he was running for his life. Fear roiled through his body and he cut the channel short. He had channeled Health before, but it was always terrifying, for some reason. He channeled again. He got a feel for the sound of his pure Health, and the feeling of terror that came with it. He moved on.
+
+Channeling his own Mana was something he had done long before today. That particular prominence of white sounded like possibility beyond the physical.
+
+Going back to Health, he heard now the physicality of the white flare. The stability. The solidness.
+
+Flaring Mana was like listening to the ethereal.
+
+He pointed to a pillar he had already conjured, about thirty meters away. That pillar was the only thing sticking up from the ground, for several kilometers around. Aside from the mimics and agave, of course, but those monsters and plants were well away from this location.
+
+A bolt of white light ripped from the edge of the aura that surrounded his pointed finger, pulling away his solidity, his Health, as he cast a [Force Bolt], sending away a part of his ethereal self. As the bolt left his control, it left numbness in its passing. As the bolt struck the pillar, Erick shook his arm, working his blood back into his hand. Pins and needles touched across his fingers like a hundred tiny bugs, as a blue box appeared.
+
+Blood Bolt, instant, long range, 10 mana + Variable
+
+A bolt of your power unerringly strikes a target for Variable damage.
+
+… It was okay. It was not great. It wasn’t anything like the [Pure Blood Bolt] Erick had seen in ‘Esoteric Elements’, but he had gotten the VCVD part correct. And, you know what? [Blood Bolt] was pretty good for his very first Blood spell, ever! Actually hitting the uncommon Elements in your magic was pretty hard to do.
+
+Kiri spoke up, “What was that?”
+
+Erick turned and said, “[Blood Bolt]. I got VCVD, too.” Erick handed her the blue box—
+
+Kiri did not take the box, as she recoiled, saying, “What the fu—! Blood!? Really?”
+
+Teressa laughed, and teased, “Oh? Is magic scary now, Kiri?”
+
+Poi, still shading his eyes with his hand, spoke up, “Kiri. He’s an archmage, vetted and approved by the powers of Spur. Please keep that in mind when you speak of magics that are illegal in most cities of the world.”
+
+Erick frowned at Poi’s obvious attempt to educate everyone around him. Poi returned the frown, with a knowing look in his eyes as if to say ‘Yes, that was a restricted spell.’
+
+Kiri looked mollified, briefly, before turning subdued, saying, “You know what? You’re right. Sorry. That was immature of me.”
+
+Erick was now hung up on everyone’s reaction, though, saying to them all, “It’s just spending Health in addition to Mana. It’s basically a [Strike], and—” He pinned Teressa with his eyes, saying, “You warriors do that all the time? What’s the big deal?”
+
+Teressa just smiled, and shrugged. “It’s not that illegal in orcol lands. But we’re protected from unwanted Blood Magic because of Aloethag.”
+
+“I overreacted.” Kiri said, “Sorry. Won’t happen again. I just… I just need to make clear, that…” She looked to Poi. “That we really will be experimenting with these sorts of magics. Legally experimenting.”
+
+Poi grumbled out, “Erick can. You’re going to have to prove your worth to Spur, if you want the same dispensation.”
+
+Erick sort of frowned at everyone, though.
+
+Kiri said, “Okay. Then… Okay.” She looked to Erick, saying, “Sorry.”
+
+It seemed, for not the first time, Erick simply did not have the same cultural background that would have caused him to fear things like Blood Magic. But besides all that: he just didn’t find any of this dangerous stuff all that fear inducing, at all. What was Blood Magic, but magic that attacked the body? Bah! So did a [Rock Bolt] to the brainpan. Shadow magic was similarly shunned, for what was the problem of Shadow Magic? That Shades used it? Bah! Shadow magic was his daughter’s magic, and the magic of the enemy. That was all it was.
+
+The only actually fearful things, in Erick’s mind, were Soul Magic, and Mind Magic. But people like Poi had a good lid on Mind Magic, and if Poi was anything to go by, there was nothing to fear from that angle. And people like Silverite kept Soul Magic out of Spur, as best she could. Silverite’s murder of all necromancers and all angels and demons in the area was the main thing keeping the Quiet War at bay, in Spur, by dropping the Participation Percentage from humanoid kills to 1%, at the most.
+
+So what was Blood Magic, but yet another one of the many ways to inflict pain upon a person?
+
+Erick asked, “Can’t you just heal up most Blood Magic damage with a [Greater Treat Wounds], or such? Or is there some lasting effect that I just don’t know about.” He rapidly concluded, “There are lasting effects, aren’t there.”
+
+Kiri paled a little.
+
+To Erick’s surprise, it was not Poi or Kiri who spoke, but Teressa.
+
+She said, “Almost all Blood Mage effects are long lasting. A proper Blood Mage can cut off your arm and prevent it from being regrown without special healing. There’s also tumors that suck up healing magic, and Blood Curses that are passed down through children. The more useful side of it is cosmetic surgery that lasts, or fixing congenital health issues. But the major issue that most people run into with hunting down errant Blood Mages, and what Aloethag does not protect against, is that Blood Magic can partially ignore all defenses. A shield that can negate a thousand damage can also turn a well made thousand point [Blood Bolt] aside, but the warrior would still feel the pinch of maybe half of that spell.”
+
+… That actually sounded amazing. Maybe he should look into Blood Magic, more?
+
+At that thought, Poi eyed Erick, and then Teressa. He sighed.
+
+Teressa said, “When you’re fighting a Blood Mage, you either run away, or you get a temporary blessing from Aloethag. If you don’t, then you or your children could die later to some unforeseen problem.”
+
+“Okay.” Erick said, “Now I understand why Blood Magic is scary.”
+
+“The lasting effects is the part that scares me.” Kiri said, “Blood Mages can craft unique magical diseases that [Cleanse] cannot overcome. Decay-based afflictions that tear you up for increasing amounts of damage, from the smallest cuts.” She shivered. “Spells that turn you into abominations… ugh!”
+
+Teressa teased Kiri, “Someone told you about Medicant, didn’t they?”
+
+“Holy gods! Yes! They did.” Kiri exclaimed, “That story kept me up for days!”
+
+“They killed him a hundred years ago, Kiri,” Poi said.
+
+Kiri countered, “His magic is still around!”
+
+“Oh yeah, it is.” Teressa said, “I saw one of them once—”
+
+Kiri shivered, and recoiled, like she had touched the absolute nastiest thing in the world, saying, “Ew ew ew ew ew!”
+
+“Who?” Erick asked, finally fed up with not knowing what anyone else was talking about.
+
+Teressa explained, “Blood Mage Shade. He’s the creator of [Grand Aberration]. Killzone killed him after the Great Purge of Spur, when they were taking back Forward Base. But [Grand Aberration]s still pop up from time to time.”
+
+Poi explained better, “Sometimes some adventurers will go poking where they really shouldn’t poke, and they end up joined together in an unholy mass of blood and viscera and themselves. This pile of people then crawls around, growing ever larger. It’s a city killer. We know [Grand Aberration] is not the actual name of the spell, and that it is likely a form of [Familiar] summoning. But that’s what we’ve called those Blood Magic monsters.”
+
+Teressa said, “The Medicant probably left some artifact to transform the user somewhere down below. Doesn’t work on wrought. Killzone always goes out to kill every one that appears.”
+
+“Oh.” Erick said, “That’s good and scary.”
+
+Kiri shivered. Teressa smirked at her, but said nothing else, as Poi shaded his eyes with his hand.
+
+Erick turned back to the pillar. Back to work! Back to playing with possibly unethical and dangerous magic. He conjured an Ophiel. He took a step back.
+
+Teressa giggled, seeing what was about to happen.
+
+Erick had that Ophiel expend his full self on a [Blood Bolt].
+
+A dot of white exploded from Ophiel like a cannon fired from the broadside of a warship, ripping the air with a cacophonous blast, blowing Erick’s hair back, first, and then knocking him off his feet via the sheer proximity to the spell casting. The white dot plowed toward the stone pillar, throwing sand into the air as it traveled.
+
+It missed.
+
+It struck the ground, sending up a massive plume of sand and stone into the air. Erick laughed. Teressa laughed, too. As the dust settled and a crater twenty meters long appeared, Erick laughed louder from his seated position, covered in sand. The pillar still stood strong.
+
+Almost clinically, Kiri said, “For a moment, it looked like you might have overcome the aiming limitation.”
+
+“It curved a little.” Erick got up to his feet with a helping hand from Teressa. “Thank you.” He dusted himself off, then said, “Now to make something that curves better!” What he didn’t say, was that he was also interested in making a [Blood Bolt] that cut through all defenses, to deal real damage. That seemed rather useful.
+
+Poi sighed, long and suffering.

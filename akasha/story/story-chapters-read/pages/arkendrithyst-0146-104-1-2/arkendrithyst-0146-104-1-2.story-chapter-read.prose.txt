@@ -126,3 +126,336 @@ A medium-sized lightward of evershifting brilliance supports the growth of Light
 
 Syllea read the box, and almost said something, but she stopped. She read the box again, narrowing her eyes. She asked, “Permanent? I mean… It’s obviously a lightward. A specialty lightward, and those can be made permanent. But it has an effect… and...” She narrowed her eyes, curiously, asking, “You made an active spell out of a plain lightward?” She rapidly added, “Obviously not ‘plain’.”
 
+“I thought the ‘support Light Essence creatures’ was the impressive part?”
+
+Syllea shook her head, saying, “That’s just a rare variation on Rift magics not many people are capable of achieving.” She asked, “Did you put one of these up in your light slime dungeon?”
+
+“No.” Erick said, “I got this while crafting the dungeon, with very complicated lightwards. The Headmaster did not want a [Kaleidoscopic Radiance] on his property.” As he said the words, he remembered that the Headmaster did not say that, exactly. “Ah. No. He said to put one or two up at the bottom, if I felt like it. But I did not.”
+
+“I hear your dungeon is already producing a lot of slimes, anyway.” Syllea said, “I had thought the Headmaster had filled the place with Light Rifts, to speed up the process. But I guess not?” She said, “That’s what you can do with magic like this, when you have an under-performing dungeon. You put up rifts or other essence support magics, and more slimes will pop out.” She said, “How’d you make it permanent, though?”
+
+Erick explained, “I’ve been working on permanent magic for a while. I’ve already got my artifact rings, and I’m working on figuring out the Grand [Prestidigitation] Stove variations, but the goal is permanent magics of any of my spells. Another of my long term goals is figuring out a [Renew] Basic Spell, or whatever tier it has to be, but something low. Something anyone could cast on an ongoing spell, to [Renew] the duration of that spell.”
+
+Syllea looked off into the distance, thoughtful. “That’s a very interesting problem.”
+
+“I was thinking that I would like your assistance on this [Renew] problem, too, if you’d like to have a discussion about permanent lightwards, and such, some other time. Your ability with buffs might be what I’m missing.” He gestured back to his house. “This [Prismatic Ward] is permanent, too.”
+
+Syllea’s eyes had been glinting with an unseen light, as Erick spoke, but at his last words her eyes went wide, as she looked around at the dense air. Syllea said, “I can tell it’s Restful, but… Permanent, too?” She looked at him, asking, “Why do you want to make permanent magics, Erick?”
+
+Erick almost laughed at Syllea’s questioning gaze, but she seemed serious, so Erick spoke candidly, “So I can protect people long after I’m gone, of course.”
+
+Syllea looked away, thoughtful. “Ah.” She said, “We can talk more about permanency, later. With regard to your [Kaleidoscopic Radiance], it reads like a more subdued version of a Rift attuned to supporting Light Essence creatures. The wording on a spell like that usually reads like this.” She popped out a blue box, and handed it to Erick.
+
+Light Rift, instant, medium range, 150 mana
+
+A medium-sized rift of light empowers all Light Essence creatures and magic cast in the area. Lasts 12 hours.
+
+Syllea continued, “My spell uses basic language and says ‘empowers’, but yours uses words like ‘evershifting brilliance’, as well as stating it supports the growth of Light Essence creatures, but no nod to affecting magic in the area. Based upon that, I feel that your spell is likely of a higher refinement than mine. The ‘Radiance’ part of it means that you’ve dipped a short ways toward Fire, for some reason, and that’s rather interesting… The permanency effect is unknown to me —I never try for permanent buffs.” She added, “There’s not much use for your spell outside of dungeons, or raising specialty animals, either.”
+
+Erick asked, “How about for use on shadelings, to bring them back to themselves?”
+
+Syllea frowned, as she looked away, in thought. Erick waited.
+
+Syllea said, “Spells like my [Light Rift] are used to heal and support the growth of those types of creatures.” She added, “It’s possible. I honestly don’t know what it would do to shadelings, though. You’d likely have to try [Kaleidoscopic Radiance] with [Shadow Conversion], in order to achieve the best results.”
+
+Erick said, “I used [Tree of Light] on a grove of those fruit trees I mentioned, and the people seemed to like both the glowing fruits and the glowing trees.”
+
+“They’re eating the fruits of your magic plant?” Syllea said, almost incredulously. “Well. Okay?” She added, “Conversion from Light to Shadow is rather easy. Some people find the action almost instinctual. That’s probably what’s going on with your [Tree of Light] trees and the shadelings. There’s entire groves of those kinds of plants inside Ar’Kendrithyst. I hear Treant, the Shade of the Garden, has enchanted his whole stretch of land with various growing spells.”
+
+Erick asked, “What about going the other way? From Shadow to Light?”
+
+“Difficult, but doable.” Syllea said, “It’s easier if you leave the direct path, and go from Shadow, to Void, to Starlight. The final step to Light is simple.”
+
+Erick smiled. “You rattled that off, rather easy.”
+
+“You get a feel for it, after a while. With regard to transforming Shadow to Light, you can go through Illusion, but I find the purity of not traversing through Illusion to be much better for most solid actions.” Syllea said, “I prefer solid spellwork, but it all depends on your goals, really. Do you want to hit hard, or do you want to be less present on the battlefield?”
+
+“The second, for me.”
+
+Syllea smiled, small. “Me too.” She thumbed back toward Bayth, standing behind them, saying, “She’s all for the former, though.”
+
+Bayth huffed, “And it works!”
+
+Syllea said, “Let’s go back inside. You’re going to want to try out the rest of your [Illusion Infusion] in a larger space, through your [Familiar].”
+
+Erick smiled as he threw a [Cleansing Flame] on the remains of the tree, igniting it to white fire, casting shadows and light across the flat orange land of the Human District.
+
+The rest of Erick’s experiments with [Illusion Infusion] involved sitting in the sunroom with Syllea, and casting spells through Ophiel, at raised stone pillars in the dark dunes of the Crystal Forest. Syllea watched through her viewing screen.
+
+Ophiel held a wing forward, casting Light-aspect [Force Beam]s from the tip, but the spell did not just erupt from his feathers, but also from three different spots in the air around the [Familiar]. Each line of white zipped away from Ophiel, to hold in the air like the [Familiar] had dashed four different ways through the sky; but he hadn’t. Each burning line of light carved tiny furrows in the stone pillar, all of them going wide and then swinging back to target, like they were drunk Rookies, unable to aim properly. A few more tests of the same spell, now knowing what he was looking at, enabled Erick to throw the four beams around with a slight semblance of control. They were still drunk Rookies, but now they were drunk, focused rookies.
+
+Erick was excited to try his next spell, but if he was honest with himself, he was also a little afraid. [Luminous Beam] would come out weird, for sure. But how weird?
+
+Ophiel held still in the dark air, his wings fluttering, his eyes trained forward. A ball of light flashed in front of him, casting brilliance into the night sky, shading wings and eyes into deep shadow and brilliant light, as the spell opened up like a raging river pushed through a pin hole. Luster and glitter instantly surged a kilometer forward; a cone of light and otherwise that crashed against the stone pillar and a good few hundred meters in every direction, obliterating—
+
+Ah. No. That’s not what happened. [Luminous Beam] lasted five seconds, but it was only in the final moments that Erick understood what he was watching.
+
+The original [Luminous Beam] moved at the speed of light. This one did not. That was the first major change Erick noticed. This barely moved slow enough to see countless blasts of light carve forward through the maybe-90 degree light cone. But half of those bolts struck the land, and did nothing. Another half struck the land, and burrowed holes into the dunes. Another half, somehow, were completely invisible, carving holes into the orange sand where no light had been. When the spell ended, the land was swiss cheese, and rapidly caved in on itself.
+
+Syllea stared at her viewing screen, laughing, asking, “What was that!”
+
+“Particle spell.” Erick handed Syllea the box for [Luminous Beam].
+
+Luminous Beam X, instant, super long range, 500 mana
+
+Conjure a coruscating, tightly controlled plume of severing light that deals <massive damage> and lasts for <5 seconds>.
+
+Particle Mage Only.
+
+She read the box, disbelieving. She tossed it away with a laugh and a scowl, before quickly coming back to something that was mostly professional, but still full of disregard. “Light is not a particle.”
+
+Erick smiled wide. “You are correct, but only on a technicality.”
+
+“… Fine. I guess I can accept that one of the Elements is not exactly as I always envisioned it to be.”
+
+Erick laughed. “What! You changed your mind that easy?”
+
+“Well of course.” Syllea said, “The spell says ‘Particle Mage Only’, therefore it must be a Particle Spell. That’s easy enough to understand. The Script doesn’t lie, though it always obfuscates.” She added, perhaps a bit darkly, “On the other path, it could be that you’ve been lying to us about what ‘particles’ are, this whole time.”
+
+“You didn’t think I’d give away all my secrets in one lecture, did you?” Erick asked, “Are you telling me everything you know about Veird’s Elements?”
+
+“… Okay. I see your point. One lecture could never cover everything.” She said, “If everything is made of ‘particles’, then light must be made of particles, too? I can accept that. What about shadow?”
+
+Erick waved his hand. “When I first came here, I heard from someone trustworthy that they didn’t believe shadow existed, in truth, but only in magic.” He said, “Honestly, I have no idea what Shadow is truly supposed to be.”
+
+Syllea frowned a little, then asked, “What other Elements are actually particles?” She offered, “Fire is particles moving fast. Ice is particles moving slow—”
+
+“Cold,” Erick corrected. “Not ‘Ice’. To me, Ice is not an element, but a thing that water becomes when it is cold.”
+
+“… Cold then. Electricity is those electron things?”
+
+“Electrons, yes.” Erick added, “And electricity is much more complicated than just electrons. Literally everything has an electrical charge. Sometimes that electrical charge is ‘zero’. Visible light is actually a cross between electrical charge and magnetic charge; a wave of power moving through the fabric of reality, but also quantized as a particle.”
+
+With a far off look in her eyes, Syllea asked, “When you gaze upon the world, how many elements do you see?”
+
+Now that, was a tricky question. Erick could have given the answer Syllea already knew, that there were something like 150 elements on the Periodic Table, but that’s not what she was actually asking, and Erick wasn’t even sure about that ‘150’ number. It had been a long time since he saw a Periodic Table.
+
+The last table he had seen was actually back when he was at Oceanside, when people had been compiling a ‘list of elements’ and Erick had been privy to that gossip. That endeavor had gotten up to 100, last he knew. Last he heard, Rozeta was gearing up to release [Condense Element], as the base Particle Spell, too, and grandfathering in all those basic spells people had created to interact with specific elements.
+
+But that wasn’t what Syllea was asking. She was asking something much deeper than about the ‘elements’ of Erick’s reality. But just to make sure…
+
+Erick asked, “What are you asking?”
+
+“This [Luminous Beam] is clearly different than the elements you spoke of, and this is the first I’m hearing of electrical and magnetic ‘fields’, or whatever those are. It’s like… Like...” She paused, as her eyes went wide. “It says ‘Particle Mage’, but you’re actually a Force Mage! OH my gods. You’re a Force Mage! But you’re not! OH!” Like a cloudy sky opening up, revealing a sunny, pale blue eternity, Syllea’s eyes glinted bright and clear, as she said, “You’re a Reality Mage!”
+
+“… A what?” Erick said, his throat feeling constricted.
+
+Had she just called him a wizard?
+
+That wasn’t good.
+
+“What’s with that reaction!” Syllea brushed him off, saying, “It’s not a real Class; just an informal designation of those who take their chosen field far enough to be able to affect everything. Force Mage, which is what I actually am, is closer than most to becoming a Reality Mage...” She eyed him.
+
+Erick chuckled nervously, saying, “What?”
+
+“Oh. I get it.” Syllea said, “I did not call you that. You’ve probably been called a Wizard before, haven’t you?”
+
+Erick tensed.
+
+“People are uneducated.” Syllea shook her head, saying, “When you’re raised on stories of Wizards ending the Old Cosmology, or experimenting on souls to drown nations in undead, or Wizards creating monsters and furthering Melemizargo’s insane agenda— Whatever the case: People will call Reality Mages what they know to call them; Wizards. And they’re wrong, obviously. Doesn’t stop the occasional mage from getting murdered by their neighbors.”
+
+Erick gave a weak laugh.
+
+She paused again, and looked at Erick, again. “OH my gods. I’m so sorry! You were probably called that a lot, weren’t you?” She mumbled to herself, “I should have realized that before I opened my mouth.”
+
+Erick had only been called a Wizard by one person, and only in anger over having her job taken from her, but even Krakina apologized for doing so, later, when she became a part of the Farmer’s Council. Krakina had called him that in anger, and that was fine. But besides her, the Headmaster certainly implied he was a Wizard, didn’t he?
+
+… And Silverite had warned him that ‘You don’t invite Wizards into your home’.
+
+… And then there were the big names who had called him a Wizard, and weighed that fact against his life, in a divine trial, in a blackened crater, in some godly part of the world. Sininindi, Phagar, Atunir, Koyabez, Rozeta. All of the gods had labeled him a Wizard.
+
+Erick brushed her off, saying, “Don’t worry about it.” He lied, “I never understood the insult. What’s the big deal about a Wizard?”
+
+Syllea quickly said, “You just don’t understand— I can tell you: Wizards were responsible for the Sundering. The deaths of untold trillions. The slavery of people, the Corruption of Melemizargo. The deaths of gods! The end of a universe, Erick.”
+
+“Let’s just… forget about… that.” Erick put on his least complicated facial expression, and asked, “What’s a Reality Mage?”
+
+For the briefest of moments, Syllea looked like she was speaking to someone incapable of understanding, but she recovered fast. With a calmer voice, she said, “It’s not Wizardry, at all. Reality Mages are just able to tap in to the fundamentals of reality. Take Force, for example. Force is undifferentiated possibility, condensed down into a solid form. But a good Force Mage, or Force Warrior, or even a few of the Prismatic Classes out, we’re all able to become Reality Mages or Warriors, if they apply themselves toward Reality, instead of toward any specific, singular magic.
+
+“Stone Mages will never get there, because they like Stone too much. Same goes for Fire or Water or any of the other, more esoteric Elements. Sword and shield fighters would never get there, either. It’s only when you have a focus on influencing what actually exists, instead of what you believe exists, that you can awaken to the path of True Magic. The Path of the Reality Mage.” Syllea said, “Like me, with all my Mana Altering. I went down this path in order to understand more about the base components that made up the Old Cosmology, that compose Force. Eventually, I found Fundamental Force; the basic building block upon which magic is based. It’s really nothing to do with wizardry at all, and I am sorry for bringing that up.”
+
+“Well…” Erick wasn’t sure what to say, so he said, “Thank you.”
+
+Syllea smiled, saying, “And your Particle Mage is just like Force Mage, except you’ve focused on the Fundamental Force of this New Cosmology, whatever those might be?” With a cheery voice, she asked, “So what are they? Particles, sure! Light is another one? Or is that wrong?” She decided, “That has to be wrong. But how wrong?”
+
+“No. That’s not...” Erick felt… odd. He wasn’t sure how he felt. Syllea was a beautiful, cheerful woman, and Erick found he truly liked talking magic with her, but something felt off. Maybe he shouldn’t have shown her [Luminous Beam]? But, eh. That was fine. He was just being nervous, after almost being called a Wizard.
+
+The cultures of Veird had a strange relationship with Wizardry, with the exact definition between what was magic and what was Wizardry being outside of Erick’s understanding. Wizardry was a case of ‘You know it when you see it’, and Erick had no idea what it looked like, but he understood why people hated it. According to some, Wizardry killed the Old Cosmology. According to Rozeta, herself, Melemizargo was a Wizard.
+
+Darkness and Wizardry were often interchangeable terms.
+
+He said, “When people experiment enough with Particle Magic, I’m sure you’ll uncover at least two of the Fundamental Forces of this New Cosmology.” Briefly, he felt like life had decided to do a repeat of nearly a year ago, when he spoke to the crowds in Sirocco Zago’s Mage Guild classrooms. He did not repeat the exact words he had said then, but they were similar, “But I don’t feel I should upset established magic that much, just yet. I’m sure with enough experimentation that others will get there, and have much more math and knowledge to go with their words, than I have, right now.”
+
+Syllea said, “Right, right.”
+
+An uncomfortable silence filled the room. Syllea picked up her tea, sipped it, then frowned as she sat it back down, and conjured a [Heat Ward] over the cup. Erick’s own coftea was cold, too.
+
+Syllea changed the subject, “So how much do you have left on [Illusion Infusion]? It’s getting late, and I can leave you with [Shadow Conversion] to try out on your own. I’m sure you have other necessities and I am—” Like a highschool girl that Erick had seen in the halls of his local school, but in a way wholly different from anything he had ever seen from Jane, Syllea blurted out, “I have made a Royal Ass of myself, with my unkind words, and I wish to salvage this situation on another day.”
+
+Erick reflexively said, “Okay. Yes. Let’s do the rest of this some other day— after I’ve had a chance to try out some of your suggestions.” He asked “Awareness of these new elements is key to using them, yes?”
+
+Syllea relaxed, her shoulders losing tension, as her eyes focused from the wall behind Erick, to Erick. She stood, saying, “Yes. Much like how your elements are the same. That is the quick and bloody of it— Waitwaitwaitwait. There’s one, fast thing we can do.” She asked, “How would you like to find out your Element?”
+
+Erick had stood with her, but he almost faltered. “… My Element?”
+
+Syllea put on a happy face,. “It’s fun! You might like it?”
+
+“Okay. Sure.”
+
+“First, you just have to expel whatever is left of [Illusion Infusion]. Dismissing makes the buff end rather uncomfortably, though.” Syllea suggested, “Just cast a really expensive lightward outside?”
+
+Erick went with Syllea’s suggestion. With a mental command to the Ophiel on his shoulder, that ball of feathers blipped out in to the middle of a sandy, dark nowhere. Erick cast. 3000 mana went into the Variable cost of a lightward, producing a rainbow tetrahedron that stretched across the sky, which then began to morph into a fractal. The floating, glowing shape multiplied itself on every triangular face, then did it again, but smaller, on its new surfaces. Erick watched for a few moments as the lightward ended up being ten times more complicated than he expected it to be, as Illusion took his idea and ran with it, creating a triangular air that folded endlessly into itself, and spread out into the land, turning sight upsidedown, or sideways, or backwards, as it was wont.
+
+Back in the sunroom, Erick took note of how he felt, as the buff faded. Like a buzz in his ears that he didn’t know he was hearing until it was gone, [Illusion Infusion] ended. He breathed deep, centering himself. He said, “Not bad.”
+
+Syllea said, “I’m sure you can learn how to make good buffs, too.” She smiled wide again. “But let’s see where you should start!” With a quick reach into the pockets of her leathers, she pulled out a six sided die. She held it out to Erick, saying, “One side for each main element. All you do is hold it for a moment, then roll it as many times as you want. It’s not an exact magical item; more like a toy, that taints itself with your aura, and activates based on that.”
+
+Erick smiled as he picked up the die that was sized for orcol hands. Three centimeters across, each side was emblazoned with an elemental symbol. Erick hefted the die; it was pretty weighty.
+
+“Cup it in both hands,” Syllea said, “Then roll it.”
+
+Erick did as she suggested. The first time the die ended, it landed on ‘Air’. He kept rolling, puzzling how the die was magically weighted. Syllea smiled, as one element turned up a lot more than the others.
+
+Air. Air. Air. Light. Light. Water. Air. Air. Light. Water. Air. Air.
+
+Erick had done enough. He picked up the die, and did not roll it again, saying, “That’s a lot of Air.”
+
+“I knew it!” Syllea said, “It makes so much sense. The Lightning. The Rain. Obviously, you’re Air, Light, and Water.”
+
+“How does this die work?” Erick asked, “What are you?”
+
+“The die comes up pretty much evenly, for me.” To accentuate her point, she took the die from Erick’s hand, and cupped it in her hands, and began rolling. It turned up every element, before rolling duplicates. There were, maybe, one or two more ‘Water’ and ‘Stone’ for every set of rolls, but Erick wasn’t really counting that closely. She said, “It used to mean something, back in the Old Cosmology. Whatever you rolled determined where you should most focus your talents. It still means something, these days, but not nearly as much as it did.” She picked up the die after it had rolled every Element for the fourth time, saying, “These days, a lot of people just use it as a dating guide.” She put the die away, saying, “It works based on tasting your aura and combining that with the essences infused in each face of the die, and a weight in the center that moves away from what you are.”
+
+“Dating?” Erick smiled, asking, “What element should a lightning and rain guy go for?”
+
+Syllea teased, “Something to keep you grounded, for sure.” She glanced to the dark window, saying, “It’s getting late. Would you like to experiment with [Shadow Conversion]?”
+
+“Yes.”
+
+Syllea reached over and tapped Erick on the shoulder. Magic flashed between them, to soak into Erick’s being. The tiny difference in his sense of the world was noticeable, this time, but still not detrimental. She said, “That’s 9000 mana of conversion. Have fun—” She looked to the door to the room. Bayth stood there, ready to go. Syllea nodded to the massively muscular woman, then said to Erick, “Time to go. Contact me when you wish to continue, or after you’ve had some time to experiment with the odder elements. If you want a book on the subject, I recommend ‘Esoteric Elements’. It’s what got me started on this whole Mana Altering jaunt, twenty years ago. It might be written for children, but there’s a lot of knowledge packed into that tiny book!”
+
+Erick said, “Thank you, Syllea. I’ll look for that book. I hope your people’s trip to Ar’Kendrithyst goes well.”
+
+Syllea lost some of her joy. “I hope so, too.” She stepped to Bayth, adding, “We’ll have to take the quick route, Erick. Sorry for being rude.”
+
+Erick said, “It was great to finally talk to you again.”
+
+Syllea smiled. “It was great to talk to you again, too, but my bargain of trade isn’t nearly discharged yet. See you later.”
+
+Syllea and Bayth flickered with clear light, and vanished from the sunroom.
+
+After a long moment of staring at the space they had occupied, Erick removed both Syllea’s and Bayth’s [Prismatic Ward] permissions. He sat back down, and heated up his cold coftea in a quick [Heat Ward], while he nibbled on one of the two remaining lemon cookies. And he thought.
+
+Poi walked in, asking, “Is everything alright?”
+
+“Not really.” Erick asked, “Are Teressa and Justine asleep?”
+
+“Justine is upstairs on the third floor veranda, tending to her plants. Teressa is walking here right now.”
+
+Teressa walked into the room, but paused. “Uh. I can go away if you want?”
+
+“No. That’s not it… I just… I haven’t had to deal with being called a wizard in a long time and it’s making me wonder where all my people are. If they’re safe.” He asked, “Kiri will be here tomorrow?”
+
+“Yes, sir,” Poi said.
+
+“Good.” Erick said, “I don’t know why I faltered at being called a Wizard. That was strange. We even have a deck of Wizard’s Towers cards over there.” He gestured to a bookshelf in the room, then said, “What’s up with that?”
+
+Teressa looked to the shelves, and offered, “It’s… fun to use such an awful thing in a playful light?”
+
+“Wizards are Moon Reachers, sir—” Poi paused, then said, “I mean. Boogeymen?” He asked Teressa, “When was the last time you heard of one?”
+
+“The only one I grew up hearing stories of was the Wizard of the Fractal Citadel.” Teressa said, “She’s some Reacher in some lost Fractured Citadel, in Quintlan. That’s a four hundred year old story, though.”
+
+Poi looked a little disappointed at Teressa, while the large woman scoffed at him, as if to say, ‘What’?
+
+Poi turned to Erick, saying, “The last known Wizard was the Hullbreaker, in the Letri Ocean—”
+
+“Oh yeah,” mumbled Teressa. “That was twenty years ago.”
+
+Poi continued, “The Headmaster took care of Hullbreaker, though. Sent out a good hundred Elites to kill the Wizard Pirate. Hullbreaker took out half of them, but they got him before a month passed, from Hullbreaker’s ascension to power.”
+
+Teressa joked, “A lot of people thought you were a Wizard—
+
+Poi cleared his throat.
+
+Erick looked away, as Teressa soldiered on, “But anyone who knows how can make a Particle spell.” She said, “You’re not a wizard, and I’ll punch anyone who says otherwise, Boss.”
+
+Erick smiled at the window, and kept his smile as he turned back to Teressa. “Thank you.”
+
+“Of course, Boss!”
+
+Erick changed the subject, “Has Jane spoken to Kiri, and then to you, Poi?”
+
+Poi said, “Not about anything in particular, but they are housing together in Windy Manor. Jane is fine, as far as I know. She is running missions for the Headmaster and getting some personalized instruction in return, but that is the extent of my knowledge.”
+
+“She said she was coming right home, but that’s hasn’t happened yet—” A lightbulb went off, and Erick’s eyes went wide. “I should invent texting!” He frowned. “One more thing to add to the pile.” He asked Teressa and Poi, “So that was Syllea Wyrmrest. What did you think of her?”
+
+Teressa reported, “About as kooky as I’ve heard, but still deeply knowledgeable about many esoteric magics. That die she had you roll was something she invented herself, and has been trying to popularize ever since she graduated from Oceanside, 25 years ago. The mana-sensing dice tradition comes from South Nelboor.” She added, “Aside from all that: Orcols have a long history of buffing magic because we can endure the aftereffects easier than most other races. This was why I started down the path of developing my [Warcry], but Syllea has taken orcol buffs to extremes unheard of until she came along. Not to mention the whole ‘archmage’ thing. Most people focus on the ‘archmage’ thing, though. Big explosions and magical solutions to every problem are all anyone really sees.”
+
+“She was fine.” Poi said, “But I still feel that buffs are dangerous.”
+
+“And they are.” Teressa said, “But small edges here and there can mean a lot in any fight.”
+
+Erick decided, “I’m going to have to learn some buff spells. At least something approaching your [Warcry], Teressa. The percentage buff to damage and defense cannot be overlooked, going forward.”
+
+Teressa said, “You’re going to have to learn from someone else besides me. I know I got it wrong.” She brightened, to say, “But when we visit Treehome, I’m sure you can find a proper instructor, or at least a good book on the subject.”
+
+Erick smiled. “I will do that, then.” He asked, “Now… I think I want to put up a [Kaleidoscopic Radiance], but with this [Shadow Conversion], up at Candlepoint. But that’s just an idea. I’m asking your opinions, first.”
+
+Teressa subtly froze. She said, “Uh.” She went silent.
+
+Poi spoke up, “I cannot give you a suggestion, for I would never trust anything Shadow. That is a blind spot of mine, especially since my people have vetted Justine as being her own person, without any controls on her mind. You should have this conversation with Justine. Alternatively, I can ask Silverite.” He heavily said, “You should ask Silverite, sir.”
+
+Teressa thawed, and said, “I think you should do this for them. Make them come back to themselves, sir. Help them become real again.”
+
+Poi turned toward Teressa, his bluescaled eyebrows furrowing. “Really?”
+
+“Yes.” Teressa stood tall, saying, “If it works that way; if it actually brings them back to themselves, then you have to. But you should be able to know if that spell of yours would actually work how you think it would work. I don’t know much of anything about dungeons, but I do know that working dungeons are highly controlled, with daily changes to keep the slime populations well regulated. I didn’t know they did it with rifts, though.”
+
+“Right.” Erick said, “If what I made is like the spells they use to regulate dungeons, then there should be some information somewhere about how Elemental Essence boosting magic affects essence monsters— shadelings do have shadow essence in them, don’t they? I wasn’t sure, but they have to, right?”
+
+Poi said, “Yes. Enough essence for [Shadow Blend].”
+
+Teressa said, “People hunt shadelings for shadow essence, sometimes. Mostly, they don’t. But it does happen.”
+
+Erick got up, saying, “I’m sure I have those dungeoneering books in my library, somewhere.” He nodded, he said, “Okay… Now I need to talk to Justine.”
+
+Teressa said, “I’ll go get her.”
+
+“Thank you, Teressa.” As she left, Erick said, “Poi, can you ask Silverite her opinion? She’s still awake at this hour, right?”
+
+“Yes. I will ask her.” Poi sent out tendrils of thought.
+
+When eventually Teressa returned to the sunroom, escorting Justine. The incani woman looked to Erick with tired, but strong eyes, saying, “Hello, sir.” And then her facade cracked, and seemed like a woman headed to an executioner’s block. Erick’s heart almost broke as she sat down on the couch across from him. Her facade was back in place.
+
+Erick said, “I know today has been rough, but it’s getting better.” He got right to it, “I just wanted to ask you about spells that boost the growth of shadow essence monsters— I mean. Shadelings.”
+
+Justine blinked her ruby red eyes for a few moments, then said, “How do you mean?”
+
+“I wish to help shadelings come back to themselves, easier.”
+
+“Ah.” Justine said, “These spells do help shadelings come back to themselves, yes, among other powers. The same is true for any spell that boosts the growth of light essence creatures. Though the second option requires a certain ability among the shadeling in question, in order to begin the conversion, and not everyone has that ability.” She said, “A spell that supports the growth of shadow creatures will likely do a lot that I am unaware of. I suggest you ask someone else more knowledgeable on that particular situation. I was never one for dungeon work.”
+
+“What about something that boosts illusion… Well. Not essence. But that boosts illusion creatures?” He said to himself, “I should have asked Syllea if there were such a thing.”
+
+Justine, unsure, said, “I… have no idea. I’ve never done much with buffing, or dungeon work, or illusions, for that matter. The only person I knew who ever did was the Witch, but I never worked with her. I have no idea what the effect would be on light essence or shadow essence existences.”
+
+Teressa tensed slightly at the mention of the Witch. If Erick didn’t know about Teressa’s history with that Shade, he would have missed her reaction.
+
+Erick said, “Okay. Thank you, Justine. And what level are you?” Erick offered, “If you want an escort into the Crystal Forest for an hour tomorrow, I can get you to 32 rather fast. Maybe a bit beyond.”
+
+Justine sat straighter, saying, “I’m level twelve, and have been pushing myself, daily, to the edge of Mana Exhaustion. I would appreciate a boost in the morning, or at your leisure.” She said, “As far as leveling plans are concerned, I will be going for Focus, unlike how I went for Willpower back when we first met.”
+
+Erick smirked; he saw what Justine was doing. “It’s my understanding that most would see a Scion of Focus as an underpowered Mage, but that’s just one of the many cultural things I do not understand.”
+
+Justine just nodded.
+
+“Then it’s decided: we can do some boosting in the morning.” Erick then set a small stone box on the table between them. Ophiel had blipped it in when Teressa went to go get Justine. Erick said, “I should have given you one of these earlier, especially since Koyabez vouches for your sincerity. I think you already know what they are.”
+
+Justine gazed down at the stone box. Water blurred her ruby red eyes. She blinked, as she took the box. As she opened it, and saw the pair of silver rings inside, small tears rolled down her pale skin. She said a shaky, “Thank you.”
+
+“They should make you feel a little safer; I know that’s what they’ve done for me. Each one is plus-25 All Stats— Heh. I’m going to have to stop calling it that.” He said, “If they’re not your size, I can make others.”
+
+Justine shook her head, as she took the rings out and slipped them on her fingers. “These are perfect.” She smiled, sniffled, and laughed, then said, “They feel good, too.” She held up a hand, and smiled at the silver band upon her finger. “No Stat Sickness, just like I heard.”
+
+Erick smiled, to see Justine happy.

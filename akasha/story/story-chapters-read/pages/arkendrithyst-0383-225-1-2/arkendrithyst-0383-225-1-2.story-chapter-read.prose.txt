@@ -112,3 +112,316 @@ Ah.
 
 Melemizargo missed him.
 
+Well, Erick had grown somewhat friendly with Melemizargo, too, over the years. There had been a lot less accidental murder or catastrophe when talking to the God of Magic these days, so he was easy to get along with, even though he was usually several buildings bigger than everyone else in the area. Which was fine, though somewhat awkward for most people not used to it.
+
+But there were a few things Erick wasn’t sure about right now, that made all this rather questionable.
+
+“Why do you think I went [Onward] for eleven years?”
+
+Melemizargo eyed Erick, and lowered his head closer to the ground. “I am not insane, Erick. I know what I see.” He raised back up. “Never before on this lifeboat of a planet— I know what I saw, and I saw you, a few months after—” He paused. He said, “Tell me of the day you made [Onward] and the methodology you used.”
+
+“… It was two months into the new year, after the Dungeon Exodus and the Teleport Exodus, and I wanted to get through some rather boring meetings with awful people faster than I was able to do so on my own, and I was facing down two solid months of Gate creation. So I took a break and worked on both [Return] and [Onward], the first to avoid the bad ends in those future meetings and all other future meetings, and the [Onward] to sort of ‘turn my mind off’ when facing months and months of routine runic creation.
+
+“I had been toying with the functionality of both spells for a while, and while both spells are similar in creation, they are vastly different in their function. [Return] takes my conscious soul when I cast the spell and updates the me-of-however-long-ago, depending on mana spent, with the experiences of future-me, by melding my future self with my past self through my world-line. This is possible through mana’s general ability to ignore time, and, in my case, Benevolence’s easily-used Elemental-Time-adjacent properties.
+
+“As for [Onward]...”
+
+- - - -
+
+Erick stood in his warehouse on Yggdrasil’s branches, staring at the job ahead of him.
+
+He didn’t much care for what he was seeing. This was a task that needed to be done yesterday, and yet, he did not want to do this, at all.
+
+The warehouse held a thousand thousand blocks of grey-black iron, ready to be transformed into intricate runework Gates, all while they were currently inside in the middle of a continuing, global emergency. You couldn’t just [Duplicate] a working Gate, though, or else Erick would have done that.
+
+Runic webs required that magic be carved directly into them, and a copied gate did not copy over magic at all. There had been some experiments with [Duplicate]ing magical items long, long before Erick’s time, and Kirginatharp had all of that information with him, and he had shown Erick all of it. The long and short of it was that magic did not like to be copied, unless it copied itself, which the Propagation Ban stopped short. Shade Lapis had a suggestion, though it was one she didn’t believe Erick would take and it wasn’t one she was recommending, anyway.
+
+Magic could be copied easily if one were to construct a living artifact to do this work. Such an artifact would include an undead arm capable of wielding a runic knife, a brain capable of doing a complex spellwork chore and not burning out from doing that chore, and senses enough to allow the arm to hold the knife and carve the runes.
+
+Erick chose to ignore that ‘living artifact’ option.
+
+He would have enlisted actual help, with real people, but that was a non-starter, as well. Stratagold and Tasar and Archmage’s Rest and Oceanside were all working overtime to get there, but Erick was the one with all the spellwork that went into these things. He couldn’t really offload half the job, either, because when you introduced multiple mages to a working, then you ran into the cooperative casting problem, and though [Renew] helped with that…
+
+The tolerances for this job required that Erick do the work himself.
+
+So instead, Erick focused on a different solution.
+
+He had made [Return] about an hour ago, and it worked well.
+
+Now, it was time for the other option. [Onward]; a spell framework that allowed the user to flash forward through a task, or for a set amount of time. The spell would allow Erick to get through work quickly, though time would still pass. If he did it well enough, then he could even use this magic inside a [Hasted Shelter], and that’s when [Onward] started to actually look like a good option.
+
+Phagar had originally told Erick about both [Return] and [Onward] back at that first real lesson in Time Magic months ago, right before Erick had made [Hasted Shelter]. The God of the End and Time had told Erick that there were certain types of Time Magic that were easy, and others that were difficult, and some which were the realm of Wizards only.
+
+Speeding up or slowing down localized time was easy enough. One just had to focus on Elemental Time in an area, and then drink deep in one way or the other; faster or slower. Elemental Time was already everywhere, after all, but by altering one's temporal rate of flow with that Time, time would alter accordingly.
+
+Ophiel twittered in the air near Erick, humming an odd tune of guitar-string worry.
+
+Erick smiled, saying, “Don’t worry, Ophiel. This is just me skipping forward. I won’t be going anywhere.”
+
+Yggdrasil’s [Scry] eye bounced in a worried-sort of way. “But you won’t be here.”
+
+“I won’t be leaving long.” Erick said, “I doubt I’ll use this magic much at all, but it’s a part of the full set of Time Magics, and I need to have it, just to have it. I might be able to use it inside a [Hasted Shelter], too; Phagar was able to [Return] me inside the Feast Barrier that one time, on the day you were born. Normally Time Magic doesn’t play exactly well with each other, but it does work fine if you can work it well.”
+
+“How does it work?” Yggdrasil asked.
+
+Erick had Ophiels begin to hum in Elemental Time, as Erick explained, “[Onward] takes my consciousness and sort of ‘plucks me upward’ while my body and soul and everything else continues to operate normally. I’m here, but I also become unmoored in time, and when the spell ends, I come back to myself and a certain amount of time has passed without me really experiencing it. It’s more of a loosening of the soul and allowing the world to happen as it would, and less like actually trying to affect anything in a temporal sense. [Onward] is sort of like how you can walk through town from one normal location to another normal location in a routine-sort of way, and zone out while doing so.”
+
+Yggdrasil asked, “Like when I’m sleepy, but still awake?”
+
+Erick smiled. “Yes. Almost exactly like that. Your body is still growing and changing and working but you’re not really there. Now imagine if your body and your mind were there, and doing something, but you were not really there at all.”
+
+“Subconscious?”
+
+“Something like that. It’s a lot less complicated than [Return].” Erick said, “Because of the natural direction of the arrow of causality, [Return] costs about a hundred times more mana than [Onward]. Honestly, the ‘zoning out’ that [Onward] can cause is also easily achieved with certain drugs, or what have you.
+
+“I’ve been warned that doing the magic that way is like putting yourself into a true fugue, instead of achieving the type of [Onward] where you can still work while casting the spell. So I won’t be doing it that way.
+
+“A much better way to think of [Onward] is to think of it more as a ‘flow state’, in which all your goals become incredibly easy to achieve, and then suddenly they’re achieved.
+
+“A third way to think of [Onward] is to imagine yourself at the point where you wish to end up, and then you cast the spell, and then you’re there.” Erick tuned Ophiel with his intentions as he spoke, and the little guy began to sing a happy song, and Erick felt as though a radio had come on and his favorite song was playing. He just needed to turn up the volume; he needed to actually cast the magic, and then the workday would pass him by. Before he did that, though, he said, “Please know that I’m still here, Yggdrasil, Ophiel. You can talk with me about whatever, but I do plan on doing this work right now. I’m just turning on the music and getting into the groove, okay?”
+
+In a breezy sort of way, Yggdrasil sighed, saying, “Okay.”
+
+And Erick turned up the volume.
+
+A song that only he could hear played for him, and he began to move to the beat; shaping metals and carving them deep with his runic knife, time passing oh-so-quickly. One runic Gate was suddenly done, and then the next and the next; complete, complete, complete—
+
+The music ended in a sudden record scratch.
+
+Erick breathed deep as he came back to himself, halfway into the next Gate creation but having stopped at a good part to stop—
+
+A blue box appeared.
+
+Onward, instant, self, 1,000 mana + Variable
+
+Speed through to the future by at least 100 Script seconds.
+
+“That was like, ten minutes?” Erick commented to Yggdrasil, “That wasn’t so bad, was it, Yggdrasil?”
+
+The room darkened a fraction and then brightened back up, as Yggdrasil flickered unsure colors outside the windows. “… It worked?”
+
+Ophiel twittered unsure guitar strings, for he was also confused. Did the magic even happen?
+
+“Yes, it worked.” Erick showed Yggdrasil and Ophiel the blue box. Ophiel didn’t get anything out of that, not really, but Yggdrasil did. The big guy’s floating white eye nodded a little. Erick said, “Now this time, I want you to talk to me, okay? I’m still here, so talk to me about anything at all.”
+
+“… Okay?”
+
+Erick cast the spell again.
+
+A minute into his next Gate, Yggdrasil asked, “Is the spell active?”
+
+“Yes, it is, Yggdrasil.”
+
+“But you’re talking to me?”
+
+“Please don’t treat this as me skipping out on you. Please treat this as me dealing with work, and then coming back to you and everyone else after the day is through. But just like when I’m at work, you’re able to give me a call anytime you want. Okay?” Erick replied cheerfully, as he finished the last line on a runic carve.
+
+“… Really?”
+
+Erick said, “Really. You can always talk to me, no matter what’s going on in my working life, or whatever.”
+
+“I already knew that,” Yggdrasil said, perhaps defensively.
+
+Erick grinned a little. Before he moved onto the next part of this Gate, he asked, “Tell me about your day? How was the fishing at Treehome?”
+
+Yggdrasil was unsure at first, and then he began talking about scarlet kings and green lads and bright, bright golden darters, and about how he was moving around the river in order to make better habitats for all of them.
+
+“I’m really glad you’re helping all those scarlet kings to grow up well and plentiful, Yggdrasil,” Erick said, as he continued to work on his Gates. [Onward] ended, and then he recast it, and said, “They’re such good fish.”
+
+Excitedly, Yggdrasil said, “I found good one for you! He’s old and big! Ready to eat!”
+
+Erick chuckled as he imagined the treat waiting for him after this Gate-making marathon, and Yggdrasil talked about anything and everything. Only one of his newest children was talking right now, but Ophiel was listening a lot.
+
+Finally, when Erick was comfortable with [Onward], Erick told Yggdrasil that he needed to put up another [Hasted Shelter] and truly work to make these Gates happen faster. Yggdrasil suggested a [Hasted Shelter] large enough to house him, so he could continue to talk with his father, and Erick let him do that.
+
+And so, Yggdrasil put a giant [Hasted Shelter] around all of himself at Candlepoint, including all of Erick’s warehouses, and he continued to talk with his dad for the next 24 hours, while Erick [Onward]ed through his Gate making.
+
+At the end of that, Yggdrasil decided he hated having a part of himself inside the [Hasted Shelter], but that he really liked talking with Erick.
+
+- - - -
+
+“And I loved the whole experience,” Erick said, “I was there for the whole thing, but I was able to put myself into an [Onward] and get right into that flow state. I never really used the spell outside of those specific situations, though.”
+
+And that was the full story, as far as Erick knew. Making those two spells had been about the only break Erick had had in that first year after the Teleport Exodus, and even then, that ‘break’ had been in order to allow him to work better; him and House Benevolence. He abused [Hasted Shelter] way too much… All the time, really. But especially back there in the beginning when everything was changing and people were dying the world over due to any number of factors.
+
+Lack of food was a big one.
+
+The Underworld did a lot better than the Surface, for the Underworld hadn’t had [Teleport] for a long time, but even then, the Underworld got shipping through the Surface, so it was a complete mess all the world over.
+
+Erick added, “I have used and continue to use [Return] when the situation calls for it, but I never really had a use for [Onward] outside of making the grunt work go faster. Like, theoretically, I can see how I might have wanted to [Onward] through paperwork and many of the bureaucratic meetings I have had over the years that never really meant anything aside from giving people face by being there with them...” And then he frowned at Melemizargo, saying, “I’ve spoken with you tens of times since I made that magic and you never said anything about this before. That time with the Anarchy Wizard and quite a lot of talking afterward, and then there was the time you actually came to the Feast, in person that one year; we all talked then, too.”
+
+Melemizargo listened the whole time Erick spoke, and then at the end, he said, “There were, and continue to be, many different discrete factors working in concert with each other in order to produce what happened there, with you traveling [Onward] to the current day. I’m not sure when, exactly, you came out of your fugue, except that you only really came back when you sang that spellwork there in that dungeon, but it likely started when Yggdrasil asked to be freed.
+
+“Now I know what you’re thinking, and yes, you did sing to the mana a few times before now, so how do I explain that? We’ll get to that.
+
+“When you created Benevolence, you Established many different things. A bit of how some of your spells work. A bit of how your [Familiar]s function. Etcetera. I suspect, based on how this whole situation with how you and I and Veird has gone, that, from the very beginning, you probably did a little bit of Establishment and other assorted magics to get to this point, and that includes [Onward].
+
+“To explain: Back in that first year and then second year after the ‘Last Shadow’s Feast’, the effect was minimal. I couldn’t even tell until now what you had done back then, when you hadn’t actually done anything at all, except for here, in the ‘distant future’.
+
+“Of course there are likely countless realities where you failed and none of this growth happened at all. But here we are, in this reality, so I can only say that this one is the real one and all the other ones are imaginary.
+
+“Moving on:
+
+“And now we come to this Time Magic, when you actually learned Time Magic and then tried to make some more yourself. The first few tries were normal. [Hasted Shelter] or what have you. But then you tried for the higher tier Time Magics.
+
+“The Script smoothed over both [Return] and [Onward]. It’s possible that you even flubbed [Return], though, and you shoved yourself all the way back to the beginning of your time on Veird; in the mana. No way to really know about that, because if you did, then you flubbed the consciousness transfer part of that magic. Maybe only your subconscious went into the past, and that directed all of your actions to this current future? I doubt this is the case, though. It was unnoticeable back then.
+
+“The effects of [Onward] were similarly unnoticeable until now. I couldn’t even tell that you had flubbed up [Onward] until today. Here is how:
+
+“The first evidence is that Benevolence is an Element with properties of Time, with the major duty to prevent disaster from now until forever. I believe you have always been Benevolence, but that you became your true self when you became Benevolence Itself, and that true self also went backward and forward through time, in order to nudge and poke events into the best possible order so that it would come into being. Backwards-capability is not within Benevolence’s currently established powers, but you are a Paradox Wizard, and those get all over the place.
+
+“The second piece of evidence is that you’re not a Full Wizard yet. While you have been able to make spells like [True Resurrection], and all your various other smaller spellwork in the years since you cast [Onward], you haven’t been able to take that final step into Wizardry. This is because you weren’t fully here all this time.
+
+“There are a few smaller bits of evidence here and there.
+
+“And the last bit of evidence is this: I know. This little song you sang there in that dungeon was real, Erick. It had something to it that was not present in all the other songs you have sung over the years.
+
+“Plus: Paradox Wizards always miscast something, somewhere in their history, and you were well overdue for a miscast.
+
+“This [Onward] was your miscast. Perhaps because you didn’t know how to cast it properly because of the many, many nuances to Time Magic which weren’t explained to you because you’ve never needed them explained before, and you’ve never had formal study, or maybe you miscast [Onward] because you wanted to skip the last eleven years. I can’t really blame you for that last one.” Melemizargo said, “Personally, it was very frustrating dealing with you and your bureaucratic mindset. Yes, you were consolidating power and whatnot and that’s perfectly reasonable. But looking back on it, you were always asking me to ‘cut to the chase’ and saying that you couldn’t stay because you ‘needed to go do this-and-that’; running off and going back to work for two days every day. And you’re even having a real emotional response right now! See? You wouldn’t have had this before. This is you. You’re back. Welcome back from your fugue.”
+
+Erick’s heart felt tight. His skin seemed dry and wet at the same time. His breath came out slowly and evenly only due to the many lessons he learned on the job as the Apparent King; to never show weakness—
+
+“I remember everything perfectly, though,” Erick said, “There are no gaps.”
+
+“It was a low-level [Onward] and you have a high Intelligence, and you were ‘in the flow’, as you say. If you had cast Mind Magic to get into the flow then the Mind Mages would have noticed it moments before I noticed it, but you did not touch that spellframe. Perhaps that is where the actual fault lay in your spellwork; you tried to include Mind Magic, when you have no capability with Mind Magic at all.” Melemizargo added, “Wizardry is dangerous, Erick, but when you screwed up, the whole world got eleven years of prosperity and stability, because, I think, you might have been ‘inside the mana’, as you say, and helping yourself and everyone else without even knowing it.
+
+“You might have ‘pulled yourself out of yourself’ just enough to be everywhere your Benevolence was, which is something Creation Wizards usually learn how to do, but which you might have Paradoxed your way into, at least a little bit.
+
+“And your failure was just what we needed, really, after I introduced the Dungeon Cores and demanded the Teleport Exodus. I’d give you a boon for that wonderful feat of near-Establishment magic, but as I have already said I’m not doing any real boons these days.” Melemizargo waved a wing dismissively. “Politics and all that.”
+
+“But I was there,” Erick complained, disbelieving everything he was hearing.
+
+“90% there. Maybe 40% during the boring parts.” Melemizargo hummed a little. “Maybe less— Oh!” He looked to the side. “Ah? Now what is she doing here?”
+
+A portal to Springtime opened, all green and pink and white and whirling.
+
+A little person stepped out of that [Gate] into Fairy. She was dressed in brightest jewels of every color imaginable, layered onto her like they were some sort of armored-business-suit-dress. Erick knew this one well, and he was glad to see her, though her timing was suspect. Her name was Gnowmi, and she was already smiling at seeing Erick. And then she saw Melemizargo, did a double take, and then gave a courtly bow to the God of Magic.
+
+Melemizargo dipped his head.
+
+Erick was surprised to see Gnowmi, but it was not an unwelcome surprise.
+
+‘Gnowmi’ had popped out of creation when Rozeta relaxed the Bands of Intent of Elemental Fairy around five years ago. Fairy Moon had brought Gnowmi, along with the nine other recently revived fairy, out to a grand Presentation Gala, where everyone who was anyone visited, which ended up being a lot of people from the Fairy-side of reality, and also Erick. Events then happened, and Gnowmi had picked the name ‘do you know me?’, and then asked for it to be translated into some other language she did not know. After a small talk, Erick supplied her with a shortened name, in English. It was only after he was done naming Gnowmi, and seven other of the nine newest (oldest) fairies to be reborn on Veird, that he realized that he had named her ‘gnome’.
+
+That particular naming had given Gnowmi a whole slew of expectations, from being an inventor and creator, to being very, very fast. In Erick’s opinion Gnowmi ended up a rather awesome person, and she loved her name, so there was no issue there. All of the new fae loved their English names, and even Fairy Moon was happy they were happy.
+
+Gnowmi was the only fairy that Erick really interacted with these days, though, and then only once or twice every few months.
+
+“Gnowmi?” Erick asked, unsure of her arrival into this particular meeting, though it was still nice to see her. “Does the Fairy Court have a request, or is this a social visit?”
+
+Gnowmi stepped a single step onto the white stone, and out of the Springtime [Gate]. She seemed to be about business today. With a high voice, she exclaimed to Melemizargo, “Greetings, Melemizargo, God of Magic. I apologize for my impertinence for interrupting your talk. Please forgive.”
+
+Melemizargo nodded a little bit. “It is of no trouble at all.”
+
+Gnowmi gave a small bow again, and then she turned to Erick. “House Benevolence has contacted me to get into contact with you. There is something big happening, and you are needed.”
+
+An icicle to the heart; that’s what those words were.
+
+Melemizargo furrowed his brows then glanced to the air— “Ahh… Someone is trying to contact you. Ahh. I hoped to have some time... Well I will cut this short, since you’re going to come back here anyway. A few final things: I’m not removing my part of the seal until the others have removed theirs; that was the stated agreement and I’m sticking to it. We can talk more about Time Magic when you come back. You’re rather skilled with [Return], so there’s likely no problem there, but I suggest you don’t do [Onward] without the Script assisting you, for you might find yourself suddenly standing ten or twenty years down the timeline.”
+
+Gnowmi’s eyes flickered in bright concern as she heard what Melemizargo said, and then she put together a lot of her own facts of the last several years. She rapidly believed that Melemizargo must have been mistaken, and so she turned her attention back to Erick.
+
+Erick decided that the timeline-thing was a lot to handle right now, and that he did not need to be handling that at this very moment. Especially with something happening at House Benevolence that required them to ask Gnowmi to come get him. So Erick said to Melemizargo, “Good to see you, then, Melemizargo. See you later.”
+
+Melemizargo smiled a little, and nodded.
+
+Erick asked Gnowmi, “Will you be coming with me?” as he opened a white-lightning [Gate] to his throne room in the House—
+
+As Erick looked on the other side, saw the gathering over there, he rapidly decided that he probably didn’t have time to spend with Gnowmi at all, talking about odd Fae Magic, or whatever. He was still thankful for her help in developing [Fairy Banishing] and a few smaller fairy spells, but he had only really given her record players and calculators and light bulbs in return.
+
+And Gnowmi had already decided that she was needed elsewhere, anyway. “Farewell, Erick. We’ll get to work on more inventions eventually!”
+
+Erick suddenly remembered Ezekiel.
+
+He needed to introduce Gnowmi to Ezekiel, or perhaps his repro, Ezekiel, was already in contact with Gnowmi? Maybe not, though, if Gnowmi was asking about more inventions. Maybe Ezekiel just didn’t want to cloud the connections to Erick’s life?
+
+“I have someone to introduce you to later, Gnowmi.” Erick simply said, “I’ll tell you something fun the next time I can. You’ll like it, I’m sure.”
+
+Gnowmi smiled brightly. Then bowed and stepped backward into a suddenly-swallowing [Gate] to Springtime, and then she was gone.
+
+Erick said to Melemizargo, “Farewell!”
+
+Melemizargo nodded serenely.
+
+And Erick stepped through the [Gate]—
+
+- - -
+
+—into a shouting match that had only stopped because of his presence. Or perhaps everyone here had seen Melemizargo on the other side of the hole in the world and that brought them up short, too. Probably a bit of both. With a mental switch, Erick shut the [Gate] behind him, popped out his horns, became the ‘Apparent King’, and studied the scene in his throne room for a leveling-glare moment.
+
+Kiri wore a nice dress, and all of her was well put-together, with her [Familiar] Sunny loosely curled up around her neck like a boa. She was not doing well, though. Her emerald-scale face was haggard, and her shoulders were tense in an abnormal way. Not many people would have noticed that except for Erick and other people closer to her, but the room was full of ‘other people closer to her’, so a lot of people noticed.
+
+Teressa stood near Aisha, the Overseer of Magic, the large orcol woman and the petite human-shaped celesteel wrought forming something of a bloc amongst the gathering.
+
+Poi stood between Teressa and Kiri, but not directly between them, looking worried, but not overly worried. That was good. That meant that whatever this was had to be solvable. Not quite solvable on their own, though, or else they never would have sent Gnowmi after him.
+
+And then there was Burhendurur. The incani-shaped Overseer of Enforcement had gone google-eyed when he saw Erick, as though he was embarrassed that they needed to call Erick in at all.
+
+Volaro, the orcol-shaped Overseer of Law, and Raingorl, the Overseer of Wellbeing and the Chancellor of Candlepoint Arcanaeum, were both missing. That was rather normal for a ‘not everyone needs to be concerned about this’ sort of emergency. Mox, the Overseer of the Exterior, was also missing, though, so whatever this was… Well maybe Mox just hadn’t gotten here yet. A few other Overseers were missing, though, which was completely normal for them to be absent. The Overseer of Trade. The Overseer of the Council. The Overseer of Gate Expansion, who was a man by the name of Vixo and who had been Kiri’s secretary prior to his promotion. None of them were in attendance either…
+
+One missing person should not be missing, though. Zolan, the Castellan of House Benevolence. A quick mana sensing found the man. He was downstairs dealing with—
+
+Ophiel alighted on Erick’s shoulder, cooing in happiness as he said, “Welcome back, Father!”
+
+Yggdrasil’s [Scry] eye appeared before him, bright and iridescent white. “Thank you, Father, for doing what you are doing. I have seen it and I know it has been tough. Something came up though, as you can tell from the gathering here. That is why I asked Gnowmi to get you.”
+
+“Ah. You called her. That’s fine.” Erick stood a bit taller. He nodded. “That’s one mystery solved, then. From what I’m seeing here, that decision to involve the fae was a controversial one?”
+
+“It was.” Yggdrasil said, “I made the call, though.”
+
+Burhendurur sighed a little; he would not scowl, but he was close.
+
+Erick said, “Burhendurur; you are of the opinion that I did not need to be called?”
+
+“The prognostication is several months out,” Burhendurur said, “We have a firm grip on the House and on the land and on the world. There are no disasters that go unnoticed, and we have noticed this one early enough to get all the way in front of it. Your presence is appreciated, but not needed at this time.”
+
+Not a Wizard-level disaster, then. Something smaller. Something that was prognosticated. By whom? Erick would usually ping Aisha for a prognostication about something bad, but—
+
+Erick saw Poi glance at Teressa.
+
+So Erick looked to Teressa. “Summarize what you have seen.”
+
+Teressa easily said, “I have Seen a problem down at Storm’s Edge—”
+
+Erick flicked some runic workings in the wall, enacting some dormant spellwork that was layered into the throne room and was only now active. The bright sky beyond the glass dome turned suddenly black, and the only light in the room came from the wardlights set up all around the perimeter of the room, near the reliefs of trees that was the wall. It was a Privacy working, and it was rather perfect, except in specific ways to allow Yggdrasil and Ophiel and Sunny to operate without issue. No one outside this room would know what was happening in this room.
+
+There used to be days when activating that spellwork would suddenly drop some hidden people out of the air, and onto the floor, or that a dozen [Scry]-eyes would pop. No [Scry]-eyes popped this time, though, and no unseen people fell out of the air.
+
+Most everyone in the throne room had a reaction to the Privacy going up which was somewhere between relief and a solidification of worries. Everyone in that room knew what Erick had been up to, generally, in that ‘he’s down at Storm’s Edge’, but only Poi had any specifics at all. Yggdrasil obviously knew what Erick had been up to, too, for he knew about Soltic and Vanya, and he had some rather good long-range [Scry] spellwork, courtesy of Erick’s efforts with that magic years ago.
+
+Teressa probably knew more than the others due to her prognostication abilities, which was probably partially responsible for the altercation that Erick had walked into. Mostly, this altercation was due to some people wanting to keep Erick out of it, and others wanting to draw him back in. Erick didn’t care about that altercation, though, but if something had caused Yggdrasil to act on his own like he did, then this was a big deal.
+
+So Erick simply said, “Please continue, Teressa. Leave nothing out. Bring me up to speed on whatever happened, and then we’ll solve whatever happened.”
+
+The tension in the room began to lessen, though Burhendurur was still embarrassed that House Benevolence couldn’t function without Erick—
+
+A knock came at the door.
+
+Erick checked who it was, and then he canceled the Privacy and let Zolan into the throne room. As soon as the pale-purple incani man walked into the room, Erick shut the door and activated the Privacy again.
+
+Zolan did a double-take upon seeing Erick, and then he chuckled, and said, “You’re supposed to be on vacation.”
+
+“Events ever conspire against me,” Erick said, and then he nodded to Teressa.
+
+Teressa resumed, “Around noon, three hours ago, Archmage Wiloza Tidewalker enacted the Prognostication Clause of our Gate Treaty, asking about some people who approached the Regency looking to alter the dungeon system. Since we’ve been hands-off with Storm’s Edge, and especially since you were down there, I did that prognostication myself. Apparently, Wiloza investigated Soltic and Vanya for the past day, and she found dead end after dead end. She brought that paperwork with her, and I read it. She was rightfully worried based on what I read.
+
+“And so, I did the prognostication. The exact wording of that reading is this: ‘Have them make the dungeon into a shelter. Devote the majority of the inner lands into a truly defensible location. Somewhere that all of Storm’s Edge can shelter inside, for there is a storm coming and it is not of Sinininidi’s make at all.’ And then came the big part: ‘The Grand Dungeon of Storm’s Edge must hold all of the life of the Archipelago, and more besides. It will be The Lighthouse, The Castle That Withstands All, The Vault In The Ground Under The Roots Of The World Tree, The Protected Cove, and more, and you, Wiloza Tidewalker, must make that happen. Through the Death that is yet to come, there will be life, or there will be nothing at all for you and yours when lightning lashes Storm’s Edge.’ And that was the full prophecy.
+
+“The current timeline has this happening is between 6 to 9 months from now. The exact nature of the ‘storm not of Sininindi’s make’ is unknown.
+
+“And now we’re here.”
+
+Erick took a moment to think.
+
+And then he said, “Here’s what we’re going to do. House Benevolence will make an overture to the Regency offering assistance. It will not be an offer, though. If necessary, it will be an action from us onto them, through the proper channels of the Gate Treaty, but it will be a unilateral action, if necessary. I would prefer to work alongside them, though. Inform them not to touch the dungeons until I have a chance to inspect them myself. I will be arriving in an hour, but until then, I will move an Ophiel into position around those dungeons as soon as possible, and if they should touch those dungeons, then I will be arriving earlier than declared.
+
+“That hour is to allow me to talk to Sininindi and to get approval for visiting. If, however, she does not approve my visit, then I will be visiting anyway, and things might get diplomatically problematic.
+
+“None of you are to speak of the truth of Soltic or Vanya at all. We will maintain that secrecy.
+
+“And I will be solving this problem, personally.” This was actually really good, now that Erick had spoken the suddenly-made plan aloud. The prognostication was worrisome, but in the perfect case scenario, Erick could go down there, ensure that Quilatalap got his Grand Dungeon and that the city of Storm’s Edge supported Vanya’s work. And then Storm’s Edge and the Archipelago would be set to weather the coming storm, whatever that might be. Erick said, “And that’s the plan. As for the eventual prophecy, we’ve got time. Since the prophecy only speaks of the Archipelago it might not be a large event that would actually cause worry. Might be a Wizard, though, so Destiny will need to be contacted, soon. For now, we solve the problem in front of us. Zolan, begin the missives. Teressa or Aisha; one of you is coming with me to Storm’s Edge, alongside Poi. Everyone else is to maintain their work here. I will be talking individually with some of you soon enough.”
+
+Erick canceled the Privacy surrounding the throne room. The glass dome brightened as darkness retreated, and soon, they were all standing under natural sunlight again.
+
+People began moving, once again under the auspices of the Apparent King.

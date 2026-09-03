@@ -104,3 +104,336 @@ Was this… Okay?
 
 Redflame, thankfully, brought the concern back to the actual problem. “We might have created a monster ourselves, but the core-problem aside: This will work, won’t it? Erick’s new design? Will it save people from [Stasis], and from the Trial of the Wyrm?”
 
+“Oh yes. I would hesitate to call this [Renew Soul] a true transformation— a [Reincarnation], as you call it— but only because it’s a magic that has not been recognized by the Script. But that problem is easily solved when you get back to Veird, Erick. Just sing a little song to the mana and make a Blessing out of this magic.” Inferno Maw turned to Redflame, saying, “You and I might be able to extrapolate this effect into a Blessing, too. You, Redflame, might be able to create a Blessing of Carnage, and anyone so blessed might be able to accrete for a theoretical [Carnage Body]. It would still take an act of Wizardry to cause a person with both [Carnage Body] and [Dragon Body] to join them together, using Carnage to erase the Curse in the Dragon Essence, but it seems theoretically doable. It would be a lot more difficult than using [Renew] to simply cause Carnage Dragon, or Fae Dragon, or Death Dragon, but it should be doable.” He turned to Erick. “Similarly, you might not be able to create a Benevolence Dragon, but you could likely enable a person —through the use of a specific enough Blessing— to accrete toward a [Benevolence Body]. From there, the blessed person would need to accrete a [Dragon Body] on their own, but they should be able to then gain a Benevolence Dragon existence through the combination of those two abilities— with your assistance, of course.”
+
+Redflame hesitated to be joyful, electing prudence instead, saying, “I desire to first heal our people. Anything else that comes about will have to happen on its own time.”
+
+Erick stepped in, saying, “I want to heal people, too. Not make soldiers for war.”
+
+Redflame flinched, and then nodded.
+
+“… Ah.” Inferno Maw paused. “Hmm. I am not one for war, either, but I could see how most people would assume this would be for war… I was considering how much power it would take to tame the Crystal Forest. But this would be used for war, first and foremost, wouldn’t it.” He paused. He said, “Okay. New plan. All of what I just said about cores and accretion will remain theoretical, since Erick is the only one who can actually do this right now, since he has [Renew]. So we simply won’t experiment in that direction. Let us stick to healing the malformed.”
+
+Erick felt a great relief. He also felt a lot better about who Inferno Maw was, as a person, too. The Death Dragon hadn’t said a single thing about Erick being a Wizard, or that all of Erick’s accomplishments were based on Wizardry. Erick had been worried about that, but that was probably just his self consciousness talking.
+
+By Redflame’s expression he felt a great sort of relief at not making soldiers for war, too.
+
+And then Inferno Maw brought back Erick’s anxiety, saying, “But I do want to test a properly made machine on a monster. I need to see if it can turn a monster into a spirit beast. I need to see if it can heal a wyrm.”
+
+“… Okay.” Erick said, “I guess I need to know if it actually works that way, too.”
+
+In the future, Erick expected this Renewal Tank system to be well studied. Many people would find out that the only real difference between the core-version of the Renewal Tank and the non-core version was a sub-runic-web which used [Identify] to check for a core, or for the absence of a core, and then adjust accordingly between a focused [Renew] or a larger scale [Renew]. The core-system was a lot simpler than a non-core system, too.
+
+Ahh.
+
+Super soldiers which required those soldiers to come in for weekly treatments.
+
+Maybe that wouldn’t happen, though?
+
+Erick could only think back to Rats, who left over a year ago, and his weekly healing treatments to deal with his lingering Necromancer-caused soul and body wounds. Had Rats been an attempt at a super soldier program?
+
+Redflame breathed deep, worried, and yet resigned.
+
+Fairy Moon nodded, also satisfied, then she said, “It’s past the dinner hour, anyway, so let’s pause this pursuit of knowledge and do more soul surgery when we have satiated stomachs.” She gestured toward the door. “Maid Maria and Redflame’s Chefs have manufactured a magnificent meal which awaits our presence in the small-persons solarium.”
+
+Another realization struck Erick, and this time directly in his stomach. He hadn’t eaten in at least 18 hours. “I could eat.”
+
+For a brief moment Inferno Maw looked like he was going to object to Fairy Moon’s proclamation, but he resigned himself to dinner.
+
+Because Redflame was happy to hear the news of food. He grinned. “Yes! It is time for a break. We will speak more of specifics over a nice meal.” He began walking to the door, saying, “I know that some of our designs are less than perfect, Inferno Maw, so if you have any ideas there they would be most welcome.”
+
+As a group, Erick, Inferno Maw, and Fairy Moon began walking alongside Redflame.
+
+Inferno Maw began, “Well. There are some oddities I see in the design, but I would speak of larger philosophy-level design issues. For one, the [Sleep] magic included in the working could be better, or not included at all, and anesthetic magical herbs should be used instead. Sleepweed for orcol bodies. Drowsydip for human bodies. Rednumb weed as a general numbing agent would be good. Also, [Sleep] is not a good spell for this since it doesn’t actually numb the body.”
+
+Erick offered, “What about a Particle Magic sleeping-like overlapping spell, that includes [Cleanse] to both keep the person under, while also numbing their body? That spell is highly flammable, though; just to caution you.”
+
+Inferno Maw began, “Ah. A specific Particle Magic sleeping spell would be useful, though you would need to strip out the [Cleanse] effect and make multiple Particle-based spells; one for each race. This would highly complicate the whole structure. Possibly too much. My suggestion was made in order to simplify the whole thing.”
+
+“Oh. Well. I can see how the [Cleanse] would be dangerous outside of Script-assistance on Veird, since the [Cleanse] effect in the Renewal Tank needs to be targeted—” Erick said, “But my Particle spell is just one spell. Works on everyone. It’s not a [Sleep], for too much will kill a person, but it works on everyone.”
+
+Redflame and Inferno Maw both stared at Erick.
+
+“You have a Particle Magic sleeping spell?” Inferno Maw asked. “That works on everyone?”
+
+“Everyone tested so far. Monsters and animals and otherwise.” Erick said, “Normally, it should not work like that, but I think that many of the underlying aspects of life on Veird are rather uniform, and likely due to the Grand Translation.”
+
+Redflame’s eyes were wide.
+
+Inferno Maw stared for a single moment, then he threw his head back and laughed once. “I look forward to this alliance, Erick, for you are so much more than a Wizard.”
+
+Flattery was nice, Erick supposed. He smiled a little.
+
+Redflame asked, “It’s not a simple numbness particulate, is it? Because that would lead to soul trauma from a ‘locked-in’ person suffering through everything.”
+
+Erick nodded, understanding the question, and then he started talking about the history of anesthesia back on Earth. It wasn’t long till Inferno Maw spoke of the various methods for [Sleep]-adjacent magics that could be used on the people of Veird, and how the Mind Mages had a lockdown on the actual [Sleep] spell. Erick smiled and talked of how his own [Sleep]-adjacent Particle Magic had already been vetted as ‘okay’.
+
+From there, the conversation moved onto [Renew] as they entered the dining room.
+
+Over a wonderful meal, Redflame began speaking of various different ailments that could be fixed with this new methodology. Anyone with withered-soul syndrome to parasite syndrome, to maybe even Curses, both large and small, could be healed by a reset-to-Null. Inferno Maw was a bit more reserved in his hopes than that, stating what Erick was already thinking.
+
+“This new magic is both a blessing and a curse.” Inferno Maw rhetorically asked, “Does everyone want to be reset to Null? Absolutely not. I don’t want that, and neither do you, or Erick here, either. We all have our own powers inside of ourselves that would spell the End for us if we were to erase them. In this way, while you have created a wonder of modern medicine, you have also created a new weapon of unparalleled power. Healing Magic that can turn a person into a weakling.”
+
+Redflame scowled. “You are being too dramatic, Inferno Maw. I admit the rate of change to a rat’s soul and shape was rather worryingly quick, but people are larger, and such a rate of change would naturally take longer, because the rate of change is based upon the size of the targeted soul. Such a magic is not instant, and that type of magic would be truly dangerous. Density likely plays a part in transformation times as well, and we don’t even know if this will work on a target that is able to defend itself through Health or other soul-defenses.” He added, “We’re here in Ar’Cosmos, where people don’t have Health, so that normal defense system is simply not present.”
+
+Erick had felt a spike of worry at Inferno Maw’s words, but Redflame’s perspective brought some much needed calm. And besides that, “It’s just the removal of Elemental Essence influences and the healing of a soul to full, anyway. It won’t actually stop someone from still being dangerous. I imagine that outside of specific spellwork or hospital settings that this type of thing might not ever see a battlefield.”
+
+Except in the case of super soldiers, but Erick didn’t voice that concern.
+
+Inferno Maw shrugged, adding, “Capturing and containing a person is not difficult for one such as you or I, and once a target is captured, this magic would certainly make it easier to contain those particular malcontents. With enough research into this phenomenon one might even be able to make spellwork that can erase Script-implanted spells, taking for yourself the ability that only gods and House Fae possess.”
+
+Fairy Moon spoke up, “I caution against claiming that particular power, or any other Wizardly ways that Ar’Cosmos already knows are not allowed in the wider world.”
+
+Inferno Maw shrugged. “Rozeta doesn’t like unsanctioned Wizards; this is true. She’ll likely send paladins after you if you mucked around with those sorts of powers, or even for possessing such knowledge and theoretical capability.” He looked around the table, at Redflame, and at Fairy Moon, saying, “On another note: I’m not too sure how we’re going to settle a few particular long-term grievances, for I am loathe to have my mind stripped by inquisitors or anyone else.”
+
+Erick frowned a little, asking, “Is that going to be an actual problem? Are they going to ask to mind wipe— Ah. They… They already did ask to mind wipe me when I left the Core.”
+
+Redflame and Inferno Maw both nodded, knowingly.
+
+Fairy Moon, however, just said, “Tell them to go wallow in deep water, for every Forgotten Campaign they ever enacted has been fulfilled first by Rozeta’s removal of Reality from the mana. We might know of some magics out there, but we cannot cast them, or touch them, or make the mana manifest as it could, or should, be able to act.”
+
+Erick had no idea what to say to that, but he found some words anyway. “You mean… the Forgotten Campaigns were successful? Even here?”
+
+Fairy Moon said, “Ar’Cosmos has been breached before. Never fully, but full death has come, and come again for this fae land.”
+
+Redflame frowned a little, as he stared down at his half-eaten dinner. Inferno Maw took a bit too long to cut another bite off of his steak.
+
+And then Inferno Maw sped back up, shrugging off his concerns, and saying, “The Mind Mages have taken much from us, but they have left us with our lives, which is more than what I can say for what the wrought would do to us, if they could. Tiny tyrants in the making, each and every one of them. At least the alliance of the Mind Mages and the wrought is not sheathed-sword perfect. We might have some leeway to avoid some of the Mind Mage problems… Not all of it, though.”
+
+Redflame put on a falsely bright facade, moving along the discussion as he said to Erick, “If everything goes well with keeping you safe and ensuring this alliance of ours survives past stepping out our front door, I would like to see a new city in the Crystal Forest in about five months. I hope to have our people healed by then, and ready to actually take to the desert.”
+
+Inferno Maw said, “I’m surprised that you don’t want to start a new city in the Forest, Redflame. You’ve spoken about that before.”
+
+“I can help a new forest grow anywhere I wish.” Redflame smile a bit more, and this time it was real. “The forests south of the Wyrmridge were smaller than the ones here up north, so that is why I settled up here. But I could move south. Might be nice!”
+
+The conversation moved on to other, nicer topics.
+
+Dinner was rather good.
+
+Eventually, Erick, Inferno Maw, and Redflame got back to the enchanting room. Fairy Moon came along, but she barely said anything, contenting herself to observe while everyone else drew up plans and secured materials. She did tell Erick that he could take Ophiel off of the node, though, when Redflame started talking about the hundreds of people already lined up and waiting for their success.
+
+And so, Erick began resummoning Ophiel, and they began constructing prototype 4.
+
+- - - -
+
+The large tank was made of clear glass, thick as a hand and about four meters across. It was wrapped with a vertical band of platinum just as thick, forming a heavily-carved runic-web [Renew] rune that surrounded the glass enclosure. The only opening was at the top, where the gap in the rune allowed a test subject to be placed into the machine. There was no patient yet, for right now Inferno Maw was telekinetically guiding a small pool’s worth of water from the spigot in the wall, into that tank, like flowing a stream through the air.
+
+They had used up a few cubic meters of platinum to make the runic part of the machine, along with some specialty glass that was technically crystal and would eventually turn into near-unbreakable crystal when enough of a single-source magic had passed nearby. The whole thing was set into a dense, steel housing, which supported the weight of it, but which did not actually touch the machine; special, magically-inert ironwood shims had been set between the Renewal Tank and the support structure.
+
+Four Ophiel hung out on four different rungs built into the sides of the rune. They would be providing the mana, and soon.
+
+With a telekinetic twist, Inferno Maw shut off the water spigot while he simultaneously deposited the last of the water into the tank with a near-silent plip of dropping water. And then he stood back, and smiled a little.
+
+Redflame was already standing back, looking apprehensive, but also excited.
+
+Erick was more than a little excited, too. For all the misuse that could come out of this machine, or a machine like it, it was going to help a lot of people finally get back out into the world. It was going to solve the wyrm problem, too, or at least the wyrm problem that everyone here was willing to talk about; the problem that stemmed from the half-dragons trying to turn into full dragons.
+
+Erick had tried asking the question of eggs and new dragon births and how wyrms came from them, too, but he had been awkwardly non-answered. Now that they were here, though, Erick decided to ask again, and more directly. “So the wyrms that come from dragon eggs not having enough clean mana when they’re born? Is that going to remain a problem? Or will this sort of magic eliminate that problem, too? Will Wyrm Season mostly stop due to this invention? Or what?”
+
+Redflame winced. He did not want to answer.
+
+Inferno Maw scowled a little, but it was all deflection, for it was easy to tell that the man was embarrassed.
+
+Fairy Moon watched. Erick waited.
+
+Neither of the dragons were willing to speak, though, and Erick got the distinct impression that they would remain that way.
+
+Fairy Moon sighed, then said, “Likely not. That particular problem is one that we solve with sword and spell. The Free Dragons are already the fourth faction of Ar’Cosmos, and they believe what they believe, and likely because they are dragons undiluted by Carnage, Fae, or Death.”
+
+She was speaking of things far outside of Erick’s current sphere of knowledge, but that was fine. He could catch up soon enough.
+
+Inferno Maw turned his scowl onto Fairy Moon, then said, “Some dragons believe that more is better, and that only whoever survives the birthing is worthy to rise to the top. Therefore, even if a hatching does manage to create two or more viable hatchlings, then the Dragon Curse does the rest, and forces them to fight anyway. I doubt those people would care about this sort of solution.”
+
+Redflame frowned. “We will still tell them, though. But yes.” He said to Erick, “Their ways are barbaric—” He stopped himself. “Nope. Forget I said that, please. I must remain neutral, here.”
+
+Inferno Maw said, “In simple terms this will not solve all the causes for Wyrm Season. It will solve 50% of the causes of Wyrm Season. Some people will always prefer to place their eggs out in the middle of nowhere, and if any of them survive, then they survive. Most do not, though, and those ones turn to wyrms when their Dragon Essence is ripped out by the champion of the hatching.”
+
+Redflame scowled. “It’s barbaric— Nope. No.” He stopped himself. He breathed, and turned to the Renewal Tank. He asked, “Inferno Maw? The monster?” He said to Erick, “Channeling, please. Let’s get the tank ready for breathing.”
+
+A 50% solution to Wyrm Season was still good, right?
+
+Right.
+
+Inferno Maw nodded, then went to the cages to the side and began extracting a sleeping, orcol-sized rat from its cage. It was a monstrous rat with a grand rad for a core, and with hair that was more like stone bristles than hair, but aside from its size and its Stone Essence and the largeness of its core marking it as a higher-level monster, it was basically just a big rat. Not even that dangerous of a monster. The other rats lined up in other cages were odder varieties. Before the night was through, and unless there were any unforeseen surprises, they would all become normal, massive rats.
+
+Or maybe they would turn back into small rats, their core dissolving and their soul returning to their body, though that was an outside possibility. Erick was hoping for this outcome, though.
+
+Erick had each of his Ophiel hanging on their perches begin to channel [Renew] into the machine. White magic flowed from each Ophiel’s perch, creating a counterclockwise stream inside the vertical platinum [Renew] rune. Within seconds the placid waters began to take on a lively sort of sheen as droplets of glowing white light gathered at the entrance to the tank, and then fell down inside, like milk falling into a pond; vanishing, and yet leaving a faint trace in their passing. Bubbles began to form streamers in the waters, like it was a tank full of champagne.
+
+Erick cut Ophiel’s power. The white river inside the rune stopped. The white rain stopped, too,
+
+The air seemed to turn weighty.
+
+A dozen researchers from both House Carnage and House Death held to the sides of the room where they either watched from afar with [Scry] eyes, or they watched from closer, each of them with notepads in their hands. Erick hoped this worked, and so did everyone else in that room, too, along with people outside the room, as well; Erick spotted some [Scry] eyes that did not belong to anyone there. Inferno Maw looked excited. Redflame looked worried.
+
+And then Redflame said, “Commence experiment.”
+
+And so they did.
+
+Inferno Maw slipped the monster rat into the tank. Erick had Ophiel begin a slow channel of undirected [Renew], since that was the whole point; they wanted the machine to do the heavy lifting of precise Soul Magic. It was certainly runed up enough to do everything itself…
+
+And it seemed to be working.
+
+The runes glowed brightly. White waters fell into the machine.
+
+Streamers of magic flowed into the rat’s core. The rat breathed in aerated, cleaning waters. And little by little, the harsh, stony hairs of the monster began to soften, like dirt falling apart in the bath, leaving behind pure white fur.
+
+The rat continued to sleep, unaware that it was being transformed.
+
+Inferno Maw’s mouth dropped open. He whispered, “Oh my bright and bountiful gods. Look at its grand rad. This is working.”
+
+Erick was looking at its rad. When the rat went into the machine, the rad was about the size of a human head and heavily faceted with a splash of sharp crystals poking out of one small part of it. Now, though, as Ophiel channeled, and the white magic flowed into the rat, it touched that rad, and the rad began to flex—
+
+The rat flinched, jerking a bit. The [Sleep] spell held.
+
+No one was worried of the rat waking up, though, and neither was Erick, but the rat continued to jerk and twitch as its core began to smooth over. It was like watching a jumble of ice floating in a [Gravity Ward], as that ice began to melt into water and naturally form a sphere in the zero-G gravity. The malformed grand rad inside the rat melted and flowed together. Much of it was lost in the process, but what remained turned solid and smooth.
+
+All the rest of the rat was fully transformed. Its fur was white and soft, while its tail was pink and twice the length of its body. It blinked a little, as though dreaming and trying to wake up, but it failed to wake. The magic kept it under.
+
+Five minutes after starting, the rat had a core that any accretor would be proud to have.
+
+Erick cut the power. Slowly, the white glows in the water began to fade, though the water itself would remain breathable, self-cleaning, and sedative for hours still, now that the machine had been used once.
+
+Redflame breathed out, “Well would you look at that.”
+
+“It works like I hoped it would!” Inferno Maw smiled wide, saying, “Ohhh! This is wonderful! Ah ha! Haha!” He clapped twice in great, yet subdued joy. “This changes everything. All of my stude— No. Wait. No bloodline.” He shrugged away his annoyance at the lack of perfection, and said, “This is a great accomplishment. It can help everyone who has ever accreted incorrectly. It strips out the bloodline, but that is… Fine? Yes. That is fine. It should work on a wyrm… Or on any wyrm’s grand rad… Maybe?”
+
+Redflame chuckled a little, then teased, “I was going to be mad at you if you weren’t happy with this.”
+
+“Bah! I can have my sights on the horizon if I want.” Inferno Maw said, “But this is good. This is great! It might not be perfect but this works!”
+
+Erick felt ten different kinda ways, but most of those ways were good. “This will heal a lot of people, so let’s get to it?”
+
+“Let’s finish up the rats.” Inferno Maw telekinetically plucked the newly-white rat from the tank and brought him over to a new cage already charged with very, very strong [Ward]s; the man had come prepared for whatever sort of odd outcomes this medical marvel might have made. And then he plucked the next sedated, massive and monstrous rat out of its cage. This rat glowed with a faint red shimmer. “And now for the Carnage rat!”
+
+The Carnage rat went into the water.
+
+Erick had Ophiel begin channeling [Renew].
+
+Five minutes later, the rat came out of the water with white fur with brown spots, and no Carnage to it at all.
+
+Redflame still looked happy as he shrugged, saying, “An expected outcome.”
+
+Inferno Maw frowned a little, having deep thoughts. He shared those thoughts, “We might not be able to cultivate for specific bloodlines at all.”
+
+“This is miracle enough,” Erick said.
+
+Inferno Maw nodded. “Quite right! This is miracle enough. Let’s do the rest of the rats and then move on to healing the people who need it.” He added, “Only ten for now, though. We need to observe them for at least five days before I will call this machine fit for all uses.”
+
+Erick suddenly flinched. He asked, “Really?” Sudden doubt crept into his mind. “Does this machine not work perfectly, or something?”
+
+Redflame seemed to share Erick’s sudden concern but he just waited for Inferno Maw to elaborate.
+
+“I knew that would meet with resistance…” Inferno Maw sighed a little, then looked to both of them, saying, “This is a totally new sort of Soul Magic. There are bound to be uncertainties and odd outcomes. You both are simply too caught up in the miracle of it all to be objective. I was, too, for a while.” He added, “And those ten people to first use this machine need to be people we fully interview beforehand, so we can check for memory and soul anomalies after the fact. I doubt this machine harms the patient, but it does replace parts of the soul that do not work correctly, and thus there are bound to be some unforeseen issues. We need to know of these issues before large-scale deployment.”
+
+Erick frowned, but it was mostly at himself. He had certainly pushed hard to get this done today because he knew he would never get another chance to help, here… But the machine was made, and it worked, so this was fine? He could move on.
+
+Erick said, “Prudence is fine, but I’m getting the distinct feeling that my time here in Ar’Cosmos is up. Inferno Maw, Redflame. I won’t be able to help with this beyond today.” He wasn’t sure why, but he said, “I need to talk once more to Bright Smile, then I need to organize whatever needs to be done before I leave this land. You all distrust the Mind Mages a great deal, but I plan on getting them on my side before anyone else approaches. I am reasonably sure that going to them first will be the right call. Them, or perhaps the Church of Koyabez, and the Church of Rozeta. I might actually get to use that [Zone of Peace] I made last year, if only by proxy.” He rambled, “From there? I suppose I’ll either see if the wrought want to kill me, or what. But I’m guessing they don’t, because Yggdrasil’s [Scry] eye is still with me.”
+
+At the mention of his name, the big guy’s little eye bobbed up and down on Erick’s shoulder.
+
+Erick added, “And since I’m not dead, that means Rozeta wants to talk, which means that the Inquisitors and the wrought likely want to talk, too. I have no idea about Kirginatharp, but I’m sure that he will also start with words, and not weapons. I need to give them that chance. I might be able to secure a world where we all live in peace, and so, I must try.”
+
+No one spoke for a long moment.
+
+And then Redflame said, “Our people are still debating on how to best proceed with an alliance and so that mess is likely to include you as soon as we can figure out our own stance, but we have never had any luck hashing out any long lasting treaties with the wrought or Kirginatharp or the Mind Mages, and the Dragon Stalkers are simply genocidal. Whatever the outcome, though, I want you to know that I desire to be a strong ally going forward. So if you can make peace happen, and if we need to adjust ourselves to give peace a chance, then I will support any rational actions proposed and backed up by your magic and presence.”
+
+Erick said, “I have no idea if any of this will work without some sort of war, but I hope it does.”
+
+As if coming to a decision he had been considering for a while, Inferno Maw said, “House Death wishes for a strong alliance as well.” He added, “My people are still at those debates, but from what they tell me the Free Dragons, House Fae, and House Carnage are each demanding their own provisions to include in whatever treaty we might decide to enact, though mostly that conversation has devolved into war preparations. Bright Smile is convinced that war is inevitable, and this is perfectly rational behavior, since war has always been the outcome of us stepping outside of Ar’Cosmos. Hopefully we can create some borders and secure them, and then the wrought will test us, and then we can push them back while you call on them to cease their war.” Inferno Maw said, “This is all contingent on whether or not they choose to try and control you or not. They have already come to Ar’Cosmos for talks, and in each one, they demanded we turn you over to them, for they won’t allow us to ‘control Benevolence’, whatever that means. Tyrants; all of them. You can’t really control a new Element once it is made, for now that it is out there it will naturally grow or die depending on who it resonates with, and I suspect that Benevolence will resonate with quite a few of the more paranoid wrought.”
+
+“Ah?” Wide-eyed, Erick asked, “They’re already here?”
+
+“Oh? You were not informed? Ah. I see. You weren’t informed.” Inferno Maw asked, “Do you wish to meet with them this next time? Should be tomorrow around noon.”
+
+For a moment, Erick was paranoid. Had someone failed to inform him that the wrought were already here? Or had that information been purposefully kept from him?
+
+Fairy Moon and Redflame just watched, both of them wondering what Erick would say. Fairy Moon looked impassive, while Redflame looked worried. Redflame did not want Erick to meet the wrought, but more because of his own bad experiences with the wrought, as opposed to any desire to control Erick. Seeing Redflame’s reaction, Erick imagined that, as the creator and thus lynchpin of Ar’Cosmos, Redflame had been targeted by wrought for assassination at least a hundred times already.
+
+Erick said, “I want to meet with these wrought.”
+
+“Of course.” Inferno Maw paused for a fraction of a moment, then said, “Pardon me for not bringing it up sooner. Ah! Would you accept an assistant? Someone to allow us to contact you without contacting you directly? I know how gauche it appears to offer you such assistance, but— Ah! We could send a request for someone else to come here and fulfill that niche. Someone you know and trust? Your own people?”
+
+Erick did need some of his own people here. And maybe not just his own people? He considered, then said, “I’d like to have my whole team here, and a delegation from Stratagold involving Tasar, Sitnakov, and Kromolok. How about a delegation from Oceanside, too, if they’ll have it?”
+
+Inferno Maw paused again, unsure how he had gotten here. He had not expected such a large request, and now he was trying to decide how to best tell Erick ‘no’, or to figure out the logistics of such a massive security breach.
+
+Redflame suddenly held his breath.
+
+“Thy desire shall be done.” Fairy Moon said, “Your guests shall be led to their own layer, which will come about by your continued casting of [Renew] into a node. If they shall choose not to chase you into this lovely land, then they will not be forced. Be warned now for I will warn them too, that they will be housed under hospitality rites, and all those oldest of ordinations. Break the peace and have pieces broken in turn.”
+
+Erick turned his full attention to Fairy Moon, and then he pulled back the sudden vitriol threatening to come out of his mouth. He said, “If peace is to have a chance, then all sides must abide by a high level of professionalism. No tricks. If you trap them in sleep and they wake up enraged and rightfully lash out, don’t take their agency from them, Fairy Moon. That is a bad trick.”
+
+Fairy Moon smirked, and said, “I’ll try.”
+
+Erick almost sighed. ‘I’ll try’ could mean that she would try her worst.
+
+“You will try to be diplomatic, and non-tricky?” Erick asked.
+
+Fairy Moon chuckled a little, then said, “I’ll be as diplomatic as deeds demand and not a mote more, but mostly I will make myself a phantom of principles and power, and not much for actual politics. I will scare the scrupulous into shackles of a temporary time until they leave this land. This should suffice, shall it not?”
+
+Erick…
+
+Erick said, “Sure. Fine.”
+
+Redflame gave a wan smile.
+
+Inferno Maw gave a small, real smirk, trying not to show too much of his own surprise and joy at the moment, for he was truly happy that this thing was working out. With a half-sarcastic tone, because that’s the kind of person he was, he said, “If we get everyone to agree to such provisions, then maybe we won’t go to war!”
+
+Those words jogged a memory.
+
+Erick asked, “Have you ever interacted with the grass travelers north of Songli? You probably have, or at least you know what I’m talking about, but they have this thing where they debate in open forums over laws and such. ‘Polite War’, it’s called. They only actually go to war if they cannot solve their problems in open debate, first.”
+
+“Ahh!” Redflame smiled wide, saying, “That brings me back. We used to have that around here. That was the original reason for the coliseum.”
+
+Inferno Maw said, “These days we’re rather entrenched in our ways with a power structure that works. There’s little room for advancement for the younger generations, and that’s a problem, but we’ve been debating problems in the Rotunda for hundreds of years now.”
+
+“Oh yes.” Redflame said, “We moved past Polite War because of limited space, but I imagine that something like that might come back, now that our environs might expand.” He smiled brighter—and then he realized his teeth were showing, so his joy took a bit of a tempering as he closed his lips. The momentary lapse of propriety, or whatever it was (Erick suspected Redflame’s aversion to open smiling had something to do with Bright Smile, but he did not know for sure), quickly passed, and Redflame began talking about his favorite subject; History. “Back in the Old Cosmology, it used to be said that there were a thousand and one ways to run a proper, growing society, but they all basically boiled down to a few tenets: Freedom of common movement, freedom of common commerce, freedom of basic education, protection against monsters and outsiders, protection against common violence which means both theft and murder and everything like that, and protection against uncommon magics. All the definitions of every category varied between societies and civilizations, but the basic ideas were the same.
+
+“Now the most common form of stable government was usually enacted under an immortal Wizard King, which was a specific designation handed out by the various Wizard alliances across the Old Cosmology and did not always include a Wizard. Sometimes the Wizard King was actually a dragon. Such a system was mostly like a monarchy, but with extra steps, which included…” His voice trailed off. “Well. It was complicated. I’d love to have you over again tomorrow evening, and we can continue to discuss all that.”
+
+“I’ll take you up on your offer, if I can,” Erick said, and he meant it. He felt a sort of relaxed joy as he listened to Redflame talk of what came before, and it was only now that he realized why. Redflame did not speak of what came before the Sundering like it was an impossible-to-reclaim dream. He spoke of history like he had lived it, experienced it, and then moved on, but those past glories were never truly gone. They could always be remade. It was rather refreshing, actually. “Whatever comes next will hopefully be good for all.”
+
+“I do hope so!” Redflame said.
+
+Inferno Maw nodded. Then he turned back to the machines, “A few more experiments, then.”
+
+“Of course,” Erick agreed.
+
+- - - -
+
+With the moon high overhead and it being well into night, Erick, Fairy Moon, and Maid Maria eventually left Redflame’s castle, heading back out across the forest to return to Fairy Moon Manor.
+
+Erick had left four Ophiel with Redflame for more tests. In the morning, in about 10 hours, Erick would join Fairy Moon, Inferno Maw, Redflame, Illustrious Moon, Bright Smile, and the current Speaker of the Free Dragons in the Rotunda, to discuss what shape a ‘House Benevolence’ would take, and the nature of the latest breakthrough with the Renewal Tank.
+
+Hopefully the talk would be boring, with Erick laying out his plans and his hopes for ‘another city beside Candlepoint, where people could live however they wanted to live’. There would be more to it than that, of course, but that was the basic idea. Complications were sure to arise, though.
+
+Thanks to Fairy Moon’s explanation of what would happen, Erick now knew of one of those complications before it occurred. The current Speaker of the Free Dragons was a woman named Redrubyflare, who normally went by the name ‘Red’ while out and about in the world. Erick had heard that name before, and Fairy Moon confirmed his suspicions. Red was the same ‘Red’ that oversaw all the lands of Songli, killing all dragons that showed themselves in the Highlands, quickly ending dragon fights before they threatened the populace.
+
+Redrubyflare was actually distantly related to Redflame, as well as Bright Smile, by about four generations, according to Fairy Moon. She did not speak much on personal matters, but she did say that Red’s side of their family branched off of Carnage and moved out of Ar’Cosmos nearly a thousand years ago; they weren’t even truly family anymore.
+
+“There are many families like that,” Fairy Moon said, as they strolled through the moonlit forest, on the way back to Fairy Moon Manor. The stars sparkled overhead and the night was bright with the light of a full moon. “House Fae has current claims in Continental Nergal. House Death has deep ties to Quintlan. House Carnage has family all over, but those ties are rather removed from current control. Redrubyflare does provide much providence to Ar’Cosmos, though she does not domain here, and it is through that payment of produce and products that we have elevated her to Speaker of the Free Dragons.”
+
+Erick listened, and nodded. One thing about Fairy Moon’s words stood out to him, though. “Red isn’t actually a normal dragon then, is she? She’s a Carnage Dragon? Which means she’s speaking for people she’s not a part of?”
+
+“Correctly calculated, but not wholly correct. Sometimes some scattered souls manage to make of themselves a true Paradox’d dragon.” Fairy Moon said, “Redrubyflare is one such soul. This is still a point of contention for the people of that community, for she is not singularly Dragon, but Redrubyflare does a decent job keeping herself in power.”
+
+Another oddity stood out to Erick. “If she doesn’t need to kill dragons like all the rest… Does she actually kill the dragons she finds fighting in her lands?”
+
+Fairy Moon nodded as she casually leapt over a small stream, twirling in the air, to land on the other side like a ballerina, arms lightly spread and hands held poised for the briefest of moments. Erick and Maid Maria just stepped over the stream, following along.
+
+Fairy Moon said, “She kills and kills and kills to keep her claim on her harbors and her hearth. Least that’s how it was the last time I was temporarily there.”
+
+“How long ago was that?”
+
+“Two years ago. An ancient age in this ever changing world, to be sure!” Fairy Moon smiled wide at him, then she turned and continued to daintily hop down the forest path, saying, “As of the birthing of Benevolence we are now in a new age of ancient powers, freshly forged, awaiting the simple turning of the times in order to come into their own commands! All this talk and threats and working and wills clashing is but a chiming of the clock of infinity, hitting a new hour, sending hammer blows billowing wide, breaking and remaking the world in its passing.” Fairy Moon paused in a shaft of moonlight, staring up at the heavens, to say, “A time of power and purpose. I have seen it a thousand times before and I will see it a thousand times hence, but each time it is a thrill and a terror entwined.” She turned to Erick. “Don’t get yourself dead, Erick. Long as you can manage life, the mana will manifest magnificently.”
+
+Erick frowned a little as he stepped over a rock. “I need to do more than simply survive. I need to make everyone else survive, too.”
+
+“That’s one way to wiggle out of death’s dark designs.” Fairy Moon shrugged. “Do what you desire!”
+
+And then the fae went skipping through the forest again.
+
+Eventually, the three of them made it back to the manor.
+
+Maid Maria said nothing the entire time.

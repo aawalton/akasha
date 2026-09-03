@@ -144,3 +144,894 @@ Draining Void, instant, close range, 500 mana
 
 Drain WIL Health and Mana per second from every target in a large area. Lasts 24 hours. Lasts longer based on resources drained.
 
+That spell had Void in it, which allowed it to Void the Mana and Health inside, keeping drain highly active so that the spell would literally never reach equilibrium, which was the main killer for normal [Draining Ward]s.
+
+[Draining Void] was using those resources in order to stabilize itself, for Erick had put in some of his Permanency-thoughts into that spell when he was making it, even if he didn’t realize he was doing that at the time. It was just best practices to include that particular spellwork into all his [Ward] stuff, after all.
+
+So.
+
+Erick had already made a Drain spell that supported itself, but he had made it in the heat of battle, so it was likely inferior to a properly made Drain. A properly made Drain seemed ripe for applying a true Permanency-type framework to the Drain.
+
+So what was needed here were a few new spells. Maybe only two.
+
+A Drain, but not with Void, that would collect mana, and also stabilize itself to Permanency, while also filling up a reservoir with mana that could then be used by other spells. Primary concern here would be ensuring that the Drain kept itself active above the needs of whatever spell came afterward. Two reservoirs, then? One for the Drain, another for everything else? Yeah, sure. Sounds fine.
+
+And then there would be a whole new line of spells that used the mana gathered by the drain in order to support themselves to Permanency, along with all their personal spell effects.
+
+The important parts here were getting the Drain physically (mana-cally?) right, which seemed easy enough. There probably needed to be some sort of [Cleanse] in there, to turn the gathered mana into balanced mana…
+
+Oh yeah. That’s a good—
+
+Or maybe not. Erick’s white mana from the popped [Draining Ward] had vanished into the manasphere when he did that.
+
+But whatever the case about [Cleanse], there was still the problem of getting subsequent spellwork to use the drained mana.
+
+Erick had never heard of anyone ever using ‘atmospheric mana’ to do anything. Everyone either used the mana that was in themselves, or in magical items…
+
+Ah. But!
+
+Elementals used atmospheric mana to come into existence! There was something there…
+
+… But what was it…
+
+Something… mmm…
+
+Like.
+
+It couldn’t be as simple as having a [Conjure Force Elemental] that supports itself off of the gathered mana, could it? A [Conjure Force Elemental] that casts the spell that it is charged with casting, using the mana that has been drained for it to use?
+
+… Could that be it?
+
+A [Draining Elemental]? Or something?
+
+… Could he just make [Draining Elemental]s that were permanent living spells? [Draining Elemental, Anti-Teleport]? [Draining Elemental, Domain of Light]? [Draining Elemental, Call Lightning]? [Draining Elemental, Gate]?
+
+[Draining Elemental Withering Slime].
+
+Erick had a tiny gasp.
+
+Like lightning crashing across the sky, or a wind howling in the distance, Erick felt he suddenly stood upon a distant shore, watching a storm on the horizon, only minutes away from crashing over him and turning his world to rain and turmoil.
+
+He was onto something. He knew it.
+
+He had to sit down and think, and so he did. He rapidly arrived at some questions he needed answered.
+
+The zeroth question was did these spells violate the Propagation Ban? Maybe? Maybe not.
+
+Moving away from that roadblock thought—
+
+The first question was: How did the Class Abilities of Doctors allow them to make [Draining Ward]s painless, or unnoticeable? Maybe he only needed to see a Doctor’s [Draining Ward] in order to see what was happening there. Solving that issue was likely the work of a single telepathic message and a trip to whatever Doctor felt like humoring him.
+
+The second question was: Is there a way to use atmospheric or gathered mana to cast spells? This City Shield had to use mana given to it by a person, didn’t it? Such a thing was not the same thing as the mana collected by a [Drain Ward] at all… Or was it? Answering this question would likely necessitate… Probably a single telepathic message to Elder Varo to point him in the direction of Eralis’ finest mages, or whatever expert they had in the field.
+
+These City Shields were likely made by someone, or maybe even a group of someones, right? They weren’t just old artifacts they still used from a thousand years ago, or some shit like that, were they?
+
+Oh! And here’s an odd thought: Could he just make a physical mana conduit system, like the manacyclers Tenebrae had shown them, to cast the spells he wanted cast?
+
+… But that wasn’t the same thing as [Renew] at all; it was making enchanted objects again. But… After thinking on it for a minute, Erick decided that he probably could go this route, but then he’d have to figure out how to make the mana of other people flow through a space.
+
+Probably doable?
+
+If it was doable, someone else likely already did it.
+
+But. Hmm.
+
+Could it be as easy as having the [Draining Ward] flow the mana through the manacycler?
+
+Would that work? It probably would.
+
+But! That wouldn’t be [Renew]. It would be cobbling together a bunch of different systems to get the effect he wanted out of just one spell.
+
+… Erick shoved a lot of those stray thoughts into ‘Plan B’.
+
+And then he went back to literally poking his [Draining Ward], to see if his hypothesis as to what was happening continued to reflect what he was seeing.
+
+Forty-nine [Draining Ward]s of various make later, Poi interrupted, saying, “Patriarch Hangzi and Young Master Warzi are arriving in a minute.”
+
+Erick smiled wide—
+
+And then he winced. Ah. Dammit. He had no treats for guests! Well… He had just moved in, right? They shouldn't expect him to have anything like that, would they? And besides! Hangzi should be bringing him a welcome gift.
+
+… Which he was, actually.
+
+- - - -
+
+Erick opened the door and saw Hangzi standing there in brilliant white robes with black trim, with a gold half-cape over his right shoulder. Warzi was a miniature version of his older brother, but without the gold addition. Behind them were three guards in white and black, surrounding a hovering [Force Platform] that held what could only be the City Shield. The item was currently in a wooden crate about a meter square, with the item inside filling much of the box.
+
+The only oddity in the small gathering was the third man, who wore white and black robes, but with the addition of a curling dragon and parting clouds upon his back, done in iridescent white embroidery; it was Rozeta. He had to be a mage of some sort, and though he was the picture of perfect professional restraint, Erick saw in the thrum of his heartbeat and in the casual wideness of his eyes as he looked up at Erick that this man was excited to be here.
+
+This would have been a fine start to the meeting, but Erick suddenly felt under dressed again. He had no excuse, except that he didn’t like wearing his expensive stuff when he was making magic. Sure, [Mend] was a spell that existed, but Erick had an ingrained need to set aside his nice things when he knew he was going to make a mess.
+
+Erick ignored that tiny train of thought and pulled back from the open door, saying, “Greetings. The foyer and the front rooms have no [Prismatic Ward] so you may move freely in these spaces. Come on in.”
+
+Hangzi replied with a nod, and walked in, following Erick to a front room, where Teressa had already set out tea under a [Heat Ward], waiting for everyone to arrive and sit down. Warzi and the unknown mage followed, the crate floating behind the mage. Two of the guards stayed outside to stand to the left and right of the entrance, while the third followed into the room and took a stance in the corner, mirroring Poi’s own stance in the opposite corner.
+
+Warzi had walked silently, but strongly, his head down but his mana sense obviously wide open; he twitched. Whatever he was reacting to was happening far outside of Erick’s own mana sense.
+
+“Please sit,” Erick said, gesturing to the tea and the seats around the table, before sitting down hims—
+
+“We cannot,” Hangzi said, “For Devouring Nightmare is on a tight schedule at the moment. Thank you for your hospitality but we will have to forgo your offering and accept it some other time.”
+
+Erick did not fully sit down, so it was easy to straighten back up. “Perfectly understandable. Then—” Erick turned to the boy, and said, “I have a present for you, Warzi. First, you can read what it does.” He handed over the blue box for [Delirium Charm]; both to Warzi, and Hangzi. The mage at Hangzi’s side probably had a mana sense, too, for as he read the spell’s box without being anywhere near it, his pulse beat fast.
+
+Warzi’s and Hangzi’s hearts beat hard as they read the spell.
+
+Without waiting for permission, Erick cast the spell, coalescing a drop of white light into his hand, saying, “I wasn’t able to make it Permanent, but I was able to make it last ten days. With any luck, another one of my great spellwork goals will solve this Permanency problem, but I fear I am a ways away from that goal.”
+
+At this, the unknown mage could not contain himself anymore. “Perma—!” He asked, “What sp—” He cut himself off twice in quick succession, his lips pulling between his teeth to keep his mouth shut, fully aware that he was out of line.
+
+Hangzi didn’t even flinch at the guy’s outburst; he must know the man well. Like, obviously he knew the man well, or else he wouldn’t have brought him here. But this guy was able to get away with breaches of protocol without anyone batting an eye, and that meant something.
+
+Erick smirked at the new guy, then held out the charm to Warzi, bending down a little to get closer to the kid’s level. Warzi looked upon the orb in Erick’s hand like it was the most delicious candy that he ever wanted. He almost took it, but he stopped himself at the last moment.
+
+Hangzi watched, silent, but when his brother didn’t take the offered charm, he asked, “What’s stopping you, Warzi?”
+
+Warzi suddenly got over his hesitation and grabbed the bauble, holding it in his hand like he never wanted to let go. And then he flinched at some outside force, and held the charm tighter. He frowned.
+
+Before he could start crying, Erick said, “Try holding it against your wrist.”
+
+Erick summoned another one, and showed him. The charm wrapped gossamer threads around his wrist, and expanded out its mana sense blocking sphere. Suddenly, everything past three meters was invisible.
+
+Warzi breathed out in sudden, blinding relief—
+
+And then Erick removed the charm from his wrist, canceling the spell at the same time. As the charm turned to glittering mana that vanished back into the atmosphere, the mana sense blockage vanished.
+
+Warzi’s eyes went wide again, distraught, and that was enough of an impetus to get him to activate the charm properly. Once set against his own wrist, the pearl sent out threads and wrapped solidly around the little boy’s wrist. The mana sense blockage came back, and Warzi smiled, relaxing.
+
+Erick let the moment linger for a little while longer, before saying, “If you need the size of the sphere adjusted, I could do that with some minor Shaping at the next casting. Let me know how this works out for you, okay?”
+
+Warzi looked up at Erick, and nodded, silently. A few small tears of happiness escaped from his eyes, but he quickly brushed them away and stepped back to stand by his brother. He was such a proper little kid. At his age, he should be running around and playing, or at least speaking up when spoken to. Maybe he could open up now that his world had been closed off a little.
+
+Hangzi smiled a little to see his brother so happy. Then he turned to Erick, and discarded that obvious emotion. “Devouring Nightmare thanks you for your service. Let it be known that there are approximately thirty other young children in Songli also afflicted with a wandering soul. Seeing this success here, Devouring Nightmare wants to know if you would be amenable to helping those children, as well.”
+
+Erick happily said, “Of course I can do that! Just tell me where, and I can show up and hand out some charms.”
+
+Hangzi said, “Then I will have Elder Varo contact you about these arrangements. For now, let us move on.” He turned to his mage accompaniment, and said, “This is Mage Ishibo. He is one of our crafters of City Shields. He is here to answer all of your questions about this City Shield, and to show you how this one works. It would be easy to get you unenchanted City Shields if you wish to see one before they’re enchanted, but please do not break this fully enchanted one and expect us to hand you another. Mage Ishibo can likely repair this one if you don’t break it too badly, so please keep that in mind.”
+
+So introduced, Ishibo bowed past parallel to the ground, saying, “Sir!” Then he rose, and waited.
+
+Erick had a surreal moment of being an important person. Then he discarded that, and said, “Mage Ishibo and I will talk for a while, then.”
+
+Hangzi nodded, saying, “Then the day’s business is concluded. Please be prepared to cast more of these [Delirium Charm]s as needed. We approve of the ten day duration, but we will need to contract you for further casting of this spell, perhaps every nine days. I expect this to be an acceptable timetable, considering Ophiel can fly anywhere you wish.”
+
+Ophiel twittered in violin sounds to hear his name.
+
+“I’d be happy to do that.” With sudden curiosity getting the better of him, and because he felt that the question might be applicable, Erick asked any of them, “Do you know of any ways to extend the duration of an active spell? Or have anyone that knows more? Also I need to talk to someone about how a Doctor is able to make their [Draining Ward] painless.”
+
+Ishibo’s eyes lit up as he almost spoke, for sure almost giving a litany of answers, but he slammed his mouth shut again.
+
+Hangzi was caught unprepared for a moment, a blank look betraying his lack of an answer, but then he calmly said, “I will have Elder Varo get back to you on that.” He glanced to Ishibo, “Or maybe Mage Ishibo has an answer?”
+
+Given the go-ahead, Ishibo rapidly said, “Extending the duration of a spell is near impossible. The problem lies in that active magic is not the same as simple mana. Imagine a meadow and a stream through all the seasons; winter, when it’s frozen, summer when it’s lush and green, and all the rest. This is mana. Magic, however, is a lightpainting of a specific scene within that entire year, taken from a certain angle known only to the caster. This is the problem with restoring active magic, to extend duration, and thus it is near impossible. But it is only near impossible! There are Class Abilities that allow for the extension of spell duration, and this is the easiest way to make one’s own magic last longer. As for making someone else’s magic last longer; this is a matter of precisely restoring the spellwork that went into the magic, so this part is mostly impossible for ten different reasons. Simply injecting mana into an active spell is more likely to disturb the ‘moment in time’ that is an active spell than it is to restore that spell to vibrancy.” He added, “I have no idea how Doctors make their [Drain Ward] painless, but I can find out!”
+
+Erick smiled. “Okay. Sounds like you know some stuff, then. This should be acceptable.”
+
+Hangzi said, “Then Devouring Nightmare will leave you to do your magics. Please don’t blow up anything too important, and direct your larger spellwork toward the open air outside of your house, or do it elsewhere entirely. Thank you.” Hangzi gestured toward the guards, who lowered the crate containing the City Shield to the ground; Ishibo hadn’t been carrying it, the guard had. Then Hangzi said, “Good day to you, Archmage Flatt.” He said to Warzi, “Come along now,” as he walked toward the door.
+
+Warzi didn’t immediately follow. Instead, he looked up at Erick, and whispered, “Thank you.”
+
+“You’re welcome,” Erick said, smiling.
+
+Warzi hopped to it, following Hangzi out of Erick’s residence. The soldier followed.
+
+Soon, it was just Ishibo, Erick, and Poi in the room with the box. At this point, Erick took his seat, and Ishibo took his, fighting to keep his smile from his face the entire time. Poi came over and poured the tea for Erick and Ishibo, as Erick decided where he wanted to start with this guy. He looked like a rather normal looking human, maybe 35, of pale skin and brown hair and eyes. Not a demi? Probably not.
+
+Erick asked, “Tell me a little bit about yourself.”
+
+Ishibo instantly said, “Accredited by Holorulo Cabal when I was twenty, attached to Devouring Nightmare when I was 25 after they noticed I was rather proficient with large-scale magics, and with large-scale enchanting. Three years later, I gained the right to call myself a Mage of Devouring Nightmare, and was raised to a minor noble title because of that. I’ve been making City Shields at a rate of about one a month since then. My highest tier of well-made magic is tier 7. I’m not an archmage yet, but I hope to be in the next few years, once I work out the crimps in a particular spell I’ve been working on that will add anti-Spatial Magic effects to my City Shields.” He added, “It’s practically the only thing that prevents them from being used for normal operation, outside of monster surges.”
+
+Well that was a bit surprising. Anyway! Erick discovered why this guy was here. He was practically an archmage himself.
+
+“Congratulations on being so close.” Erick asked, “Did you participate in the recent war?”
+
+“Yes!” Ishibo said, “I did. Of course I did. Mostly in and around my own buildings. We were hit hard and often, as Devouring Nightmare’s enchanting houses are a big target. Most of my magic is defensive in nature— Oh yeah. I’m a Warder.” He continued, “So I protected that which I could protect. I wasn’t out there like you. I don’t even have a proper [Familiar] yet.”
+
+Ishibo seemed like a good guy as well as truly honest and enthusiastic. Erick was convinced this would be fine.
+
+The guy was obviously digging for whatever nuggets of information Erick felt like dispensing, but that was to be expected. Erick was getting a lot of information out of this exchange, too; theoretically. He hadn’t heard anything groundbreaking yet, but he was sure it was simply a matter of time.
+
+Erick said, “Sounds good. So what makes a City Shield work? Do you have the original Tears of Aloeth somewhere in Songli, too?”
+
+Ishibo chuckled, saying, “I wish we had a Tear! No; all we have are diagrams and codes and the principles behind the Tears. Oh! If we had a Tear, then we could make these Shields work so much better!” He added, “Did you hear about one of those artifact Staffs of Cooperative Casting that they had given out at Candlepoint? I mean! Of course you did. I theorize that having one of those staves would make these City Shields work much better, too, since the entire idea and spellwork behind these things is designed upon principles of cooperative casting.” He said, “But we never got one of them, no matter how much I tried to get the acquisition approved.”
+
+Erick said, “Sorry to disappoint, but I have no idea where any of those items ended up. None of those items were directly inside Candlepoint, anyway. Each item was shipped individually from Ar’Kendrithyst to Candlepoint whenever someone handed in enough dark chips, but with the fall of the Dead City, everything scattered to the winds, including all the artifacts.”
+
+Ishibo looked like he had bitten into a lemon. He backpedaled, saying, “I didn't mean to presume that you had one, just—” He stopped himself, then said, “So? City Shields! I’ve been making them for a while. They’re not simple enchantments. They’re practically machines.” He gestured toward the crate. “Want to open her up?”
+
+Erick made a quick gesture of white light toward the box. With deft flicks of strength, the nails holding the crate came out of the wood, and the box began to fall open. Erick helped the crating fall to the side, placing the five sheets of wood against the wall. Ishibo smiled as his work was exposed.
+
+The City Shield was half of a cube on the bottom, with a silver sphere nestled inside that cube that was about the same size as the cube. The sphere rotated gently in its housing, for it floated inside its base, while the four corners of the lower base each had indentations upon them that resembled hand prints. Now that Erick had observed the item for a little while, as he and Ishibo talked, he knew much of what he wanted to ask about the whole thing. The cooperative casting was the largest question.
+
+Erick asked, “So tell me about your machine. What do you tell a layman when they come to operate it?”
+
+Ishibo lightly shook his head, saying, “We don’t allow laymen to operate a Shield. They’d just break it. But! Ah. It only takes a month of training to learn how to cooperative cast. Most mage soldiers are required to learn how to do this, anyway, or they don’t get their accreditation.”
+
+“… So tell me how you cooperative cast.”
+
+Ishibo startled. “You’ve never… Ah! Well… You have [Force Wall]? That’s the spell the Shield is based upon. All you have to do is match your own casting of [Force Wall] to the spell already imbued in the Shield; like how the Singers harmonize their own magic together in order to increase the effects of their Songs.” Ishibo said, “That’s all there is to it, but it’s easy to break the Shield if too many people imbue it incorrectly, so we have everyone learn to cast [Force Wall] a specific way and then the machine unifies those pieces into a whole. The specific casting is either hexagonal [Force Wall]s for a full-scale deployment, or curved rectangles for normal deployment.”
+
+Erick scrunched his face as he looked upon the machine, inspecting it with both his lightform and his mana sense, and all his other Sights. Broadly, it seemed to be a machine of two parts. The base was a reservoir of some sort with the walls of the tank having a layer of core dust inside the silver metal. The handprints led to runework and crystal rods, which led to the tank, but the tank was empty at the moment.
+
+The silver sphere was a lot more complicated. It reminded Erick of the [Force Wall] gridwork that he had seen Tenebrae turn into a manacycler that produced a curved, round shield, but on a much larger scale.
+
+Erick said, “Correct me if I’m wrong, but it looks like the tank somehow collects mana, and then it purposefully injects that mana into a massive manacycler, empowering some sort of [Force Wall], but on a massive scale.”
+
+“Ah!” Ishibo smiled, proud, as he said, “The sphere is more complicated than a manacycler, but some of the principles are the same. The main thing here is in how the Shield collects magic, not mana. It’s like that question you posed about extending the duration of a spell. It’s nearly impossible to work with other people’s mana that they’ve already injected into their magic, but it is very possible to work with the magic that people start off in harmony, in order to make that harmony rise to a level far above the original magic. You can achieve the same thing with a City Shield that you can with a hundred casters all cooperatively casting at the same time, but that is another near impossibility. So we’ve circumvented the issue by having a machine that takes in magic, keeps it in potentiality instead of active, and then harmonizes it all into one framework, which then outputs the magic that you would have had if you had a concert of a hundred casters going all at once.”
+
+Erick smiled a little.
+
+Keeping magic as ‘potentiality’ instead of as active? Brilliant sidestep to the issue of gathered mana! Also, maybe he needed to ask Kaffi about cooperative casting lessons.
+
+And!
+
+Could he cooperative cast with Ophiel? Everyone had said ‘no’, but why not? He hadn’t even tried. Now seemed like a good time to try.
+
+But that led to another question:
+
+Why did Ophiel have his own mana?
+
+Since the mana Erick had was a part of the hole in his soul… did Ophiel have a hole in his soul, too? Erick glanced over at his [Familiar]. According to [Soul Sight], there was a whiteness inside of the little guy that was barely denser than it was last week, and about a thousand times thinner than a normal person’s soul.
+
+Well… A person’s mana pool was inside of them, but it wasn’t really inside of them; it was a part of their soul, and there were probably a lot of implications, there, when it came to why Ophiel had his own mana pool.
+
+Eh.
+
+That line of thinking was not profitable right now. Erick set aside his questions about Ophiel’s ability to have mana of his own.
+
+Erick looked to Ishibo. “It seems like you could use any specifically attuned mana to make this City Shield work.” He asked, “Could you use atmospheric mana to power the Shield?”
+
+Ishibo said, “I don’t know how to make atmospheric mana do anything. That stuff is practically useless.”
+
+“… Why not? Because it’s already clouded with too much intent?”
+
+“Exactly.”
+
+“So why not [Cleanse] it first?”
+
+“Well…” Ishibo backtracked, “You want the intent. But just a specific kind; the kind you’re using. The random amalgamation of atmospheric mana is too random to get anything done. [Cleanse] will reset atmospheric mana to balance and make all resulting spellwork in such a space act normally.” He added, “And even that is such a minor balancing that it’s not really necessary, unless you’re dealing with a really dirty space, in which case the balancing will have more than a minor effect.”
+
+“How about running atmospheric mana through a tube of antirhine, first? And then you run that empty mana through some sort of filter to add in the necessary intent. It seems like the usual ‘filter’ for this sort of addition is people, and their souls, but what if you just had [Force Wall] spellwork act as the filter instead.” Erick chanced, “Or! How about you ignore all of that, and use atmospheric mana, but with a [Drain Ward] that sucks up only the [Force Wall]-aligned mana in the air?”
+
+For the first time, Ishibo did not answer immediately. He paused in thought, then he said, “Filtering through a curtain of Extreme Light would be less dangerous to the workings of the item. More room for error, anyway.”
+
+“… Okay. That’s a good idea, too.”
+
+Ishibo smirked and chuckled, happy for the praise, then he said, “But you can’t trap mana inside a cage of Extreme Light.”
+
+Maybe he was unwilling to speak on the second half of Erick’s postulation? About draining specific mana from people? Or whoever?
+
+Ah.
+
+Erick was talking about human experimentation, wasn’t he. Hmm.
+
+Okay. He let that thread of the conversation go.
+
+“You’ve solved the trapping problem in your City Shield, though.” Erick asked, “What is that? Crushed core dust in the walls of the lower half?”
+
+“Not just any core dust!” Ishibo said, “It’s core dust from Force Weasels. They’re some of the only monsters out there that are completely force-aligned. Easy to raise, too. We have a few ranches of them out in the drylands. So not only is the interior of the City Shield primed for holding Force-aligned mana, donated by the people who are cleared to donate, but it also prevents the egress of any other type of mana into the structure.” He said, “One of the primary advancements my workshop is credited with adding to the standard model of City Shield is this new style of containment. The old ones used random cores that Singers harmonized into Force, but with these naturally occurring weasel cores, we’ve improved on previous designs, allowing the layer of dusted cores to last for years instead of a single year. That’s with proper maintenance, of course.”
+
+Erick’s eyes went a little wide. “Oh? You can do that? Harmonize a core? And then use it as a better ingredient to enchant aligned magical items?”
+
+“Oh, yes!” Ishibo said, “It’s always much better to use a core from a monster that is already aligned with the end-goal item. So many enchanters use whatever cores they want to use, and sure, that works most of the time. But the high quality enchantments are always done with cores aligning with the enchantment.”
+
+Ah. And here was the gold mine for Erick to plunder, while Ishibo tried to plunder from him in turn.
+
+There were just so many ways in which all of magic was connected to every other bit. Erick felt like he was on that beach again, watching the storm roll in, or more appropriately, that time when he made his [Physical Domain]. His [Harmonize] seemed like it would be useful, here. He could make monster cores align to whatever spellwork he wanted, couldn’t he?
+
+… If he could force the mana to harmonize in the way he wanted, as the Singers had done…
+
+With one of those record players he made back in Treehome.
+
+And some gridwork from Tenebrae.
+
+The Tricking Magic Erick learned about from Opal, months and months ago, was probably applicable here, too. Especially that spell [Intent Understanding], which was the basis for all of the rest of that Breaker magic, and his [Grand Dispel]. One had to understand the active spellwork before one could interact with it, after all!
+
+And with what Ishibo was telling him right now…
+
+It was all coming together. He’d likely still need to talk to the dragons, wherever they might be, but he could do that some other time. [Gate] was getting closer. [Renew] and [Draining Elemental], too.
+
+For now…
+
+Erick stood up, gesturing to the City Shield. “Show me how it works.”
+
+Ishibo merrily stood up and walked over to the Shield, saying, “It all starts with cooperative casting; with a person harmonizing their link to the magic already inside the machine…”
+
+They spoke for a while, with Erick asking about every little part of the machine, and how it related to every other part. It wasn’t long till Ishibo started casting lightward images to illustrate the principles behind the inner workings, so that they could pull those apart, without pulling apart the City Shield itself.
+
+In broad strokes, the machine worked by collecting the spell casts of people who cast into the Shield, and then it distributed those spell casts over a super large area.
+
+Somewhere in the middle of all that, Erick asked, “So what if I just cast the same spell myself, over and over and over and over into the machine? Could I power this myself? From what you’re telling me it seems like that would work.”
+
+“Oh yeah! Sure that would work. But you’d have to pour in a lot of [Force Wall]s.” Ishibo said, “And I mean a lot! This thing is capable of covering about 80 square kilometers in single-layer Force, about 2.5 kilometers radius, but since half of that is underground and unnecessary, along with most of the area above ten meters also unnecessary for monster surges, those 80 square kilometers are layered against the ground all around a central location. In regular, circular deployment, the shield stretches for 15.5 kilometers around the central location, which, at normal operation of a ten meter high wall, translates into a shield of 500 layers. A quarter million points of defense that the monsters have to tear through before they can attack the people inside. Monsters are fully capable of doing that, too, if not for the defenders inside the space. But anyway! Powering one of these is a lot of casts. You don’t fill one of these up yourself.”
+
+Erick verbally did some math, “Sounds like 80,000,000 square meters covered, at 10 square meters per cast, means eight million casts, means 200,000,000 mana worth of [Force Shield]s? Counting Clarity on everyone, of course.” Something struck him about those numbers. Filling one of these City Shields, all on his own, with his Intelligence, would still be 40,000,000 mana. He said, “That seems inefficient.” He admitted, “Even though it does produce enough of a defense to stop most all monsters… And I suppose it is cast from a central location without needing to go out into the monster surge. Okay. Actually. I changed my mind. It is rather efficient.”
+
+Ishibo seemed to be happier when Erick was dragging his work through the mud, and proved as much when he said, “I agree with your first assessment. City Shields are very inefficient. It takes a border clan about a month of casts from every single capable donor, to get a Shield in working order. A lot of people complain about that routine, and then about the topping-off that needs to happen all the time because the reservoir is not perfect. These things are almost never used, but when they are, they’re lifesavers. But you have to understand that the spell inside of the City Shield is tier 7, and every individual person is only contributing a basic tier spell, thus there is some inefficiency.” He produced a blue box, saying, “This is the spell they’re based on, that allowed me to get this position as a mage in Devouring Nightmare.”
+
+Grand Force Shield, one hour, super large area, Solid Ward, 21,500 mana + Variable
+
+Create a malleable shield of pure force that covers a super large area and adjusts to your needs. You may repair or adjust the shield for Variable costs.
+
+You may only have one Solid Ward active at any one time.
+
+Erick read, then revised his previous backtrack, saying, “So... This City Shield seems inefficient.”
+
+Ishibo smiled. “It is! But enchanting an actual [Grand Force Shield] doesn’t allow the end user to layer the shield however it needs to be layered in order to provide the most protection possible. The cost of producing a [Grand Force Shield] item is actually a little bit more expensive than producing a City Shield, too. So in the end, a City Shield is a much better option, even if it does require so much magic to power the darn thing.” He asked, “If you know of a way to make it work off of ambient mana instead, I’d love to hear it! That’s actually been the goal of many enchanters over the centuries, but I’ve never come close and gave up years ago.”
+
+Erick decided then and there to tell Ishibo his own desires.
+
+“I’m trying to make a spell that would allow anyone to [Renew] the duration of any other active spell; even the spellwork of other mages, or archmages, or whoever. Every so often I come across something that points me in that direction, and you have done a good job of giving me a lot of new hints. Not everything here is applicable to my needs, but some of it is, for sure.” Erick asked, “[Renew] should be able to recognize the mana in the active spellwork, and then harmonize to that active spellwork, but I haven’t gotten much further than that. Further applications of this [Renew] spell will be to make these [Renew]s permanent area effects, themselves be powered by painless [Drain Ward]s that can be cast on streets, or wherever, so that the general population can then empower spellwork such as your [Grand Force Shield]. Or maybe the [Drain Ward]s can collect ambient mana to power the [Renew]s, which power the [Grand Force Shield]s? It’s all still unknown to me how it would work in the end, but I’m getting there.”
+
+Ishibo’s eyes went wide, and then he said, “I would have no idea how to make a spell to do all of that, but I’m eager to try! Taking it from the beginning, I think you’d need… Maybe you’d want to start… I’m not sure what paths to walk here. I must say, though, that I am very interested in learning how to make Permanent magic at all! That’s the marking of a finely crafted spell, no doubt! How do you do that?”
+
+Erick knew that Devouring Nightmare would be learning from him just as much as he would be learning from them, so this much was fine. Ishibo was rather enthusiastic about the whole thing, too, which seemed to bode well for future interactions.
+
+Erick upheld the unsaid deal, saying, “Permanent spells, as far as I’ve understood them, are a matter of working in simplicity and repetition. Take a look at the only Permanent effect that exists in the Open Script: Lightwards. All I did was extrapolate from there, with a lot of personal experimentation on various lightwards. One thing I noticed right away is that balanced spells uphold a Permanency better than others. This [Prismatic Ward] is permanent, as you no doubt have noticed as a Warder.”
+
+Ishibo could barely contain his excitement at the mention of [Prismatic Ward], but he did.
+
+Erick continued, “I have a few other balanced, simple Permanent spells like these. The simpler they are, and the deeper the understanding of those spells, the longer they last. There’s also a fair bit of spellwork that is meant to ensure that the spellwork repairs itself over time.
+
+“I’m sure if there’s some way to make a [Renew] spell work for any magic out there, it probably won’t work on the complicated spellwork where there’s a lot of moving parts; it’ll be relegated to the simple, well made spells that are easy to understand. Or spells that are specifically made with [Renew] in mind.” He added, “That [Delirium Charm] I made for Warzi was well made, but even that will break down after a while, and likely because of the Elemental Destruction used to create the effect. Destruction seems anathema to Permanency.”
+
+Ishibo blurted out, “Have you looked at grand cores? I mean, really studied them? They’re the only sort of core that won’t break down, and will draw in ambient mana to stabilize itself and other magics around itself when those other magics are laid down properly. Well— I say ‘magic’, but I mean enchantments made with core dust or otherwise. But that’s a whole thing! Grand cores can exist on their own, but small cores cannot; they’ll eventually disintegrate if left in the open air for a while. The timetable there is in months, but the fact remains.” He said, “I had thought that Permanency magic was all about being at a state of perpetual renewal by taking mana from the atmosphere, as the grand cores do, but I have never had much luck with that. Would you—” He breathed, and relaxed a little, as he professionally asked, “Would you mind showing me the box for your [Prismatic Ward]?” He rapidly added, “Not the spellwork! Just the box?”
+
+Erick had already thought about it, and so he readily said, “Sure.”
+
+He handed over the box for [Prismatic Ward].
+
+Prismatic Ward, instant, short range, permanent, Solid Ward, 100 MP + Variable
+
+Create a solid, large space, that absorbs six times Variable damage before breaking.
+
+Prismatic Ward regenerates integrity based on your Rested mana regeneration rate.
+
+You and those you permit are able to operate within Prismatic Ward without restriction. You may grant or revoke this permission at will.
+
+All beings permitted inside Prismatic Ward are at Rest while inside.
+
+You may only have one Solid Ward active at a time.
+
+Ishibo’s mouth dropped open as he read, and then he turned puzzled. He narrowed his eyes, and then dismissed the box. He asked, “Uh. You have more than one [Prismatic Ward] active, though.”
+
+Erick laughed. “Yeah! Don’t ask me how that works. Ophiel is special.”
+
+Ophiel twittered upon hearing his name.
+
+Erick gestured back to the City Shield, asking, “If grand cores pull in and stabilize other cores, why don’t you have a grand core in this one?”
+
+Ishibo briefly resembled a man derailed, and then he got back on track, and said, “The core dust is sealed in Deep Sky Silver, which is an excellent sealant, while the configuration acts like a pseudo grand-core.” He said, “If I had some way to turn force weasel cores into a grand core, I could probably make one of these City Shield much cheaper, but the problem is finding a fully force-aligned grand core monster. Once they get to the grand core size, they’re no longer simple force monsters. Even rivergrieves have Water and Etherealness in their mostly Force grand cores, so that’s a non-starter.”
+
+Erick nodded, then asked some more questions.
+
+They continued to talk for a while, with Erick receiving personal training on how to imbue the Shield with a [Force Wall] spell, and then he did so, following Ishibo’s lead. Somewhat. His first imbue was a failure, but then Erick watched Ishibo imbue again, and then he tried again. The second time, he got it right, and the reservoir inside seemed to be fractionally denser with ambient Force Magic.
+
+It was an odd thing to see. Normally, mana had no aspects except in rare occasions. The Script ensured that mana remained balanced, after all. If the world got unbalanced in any great way, then apparently great [Cleanse]s would descend from the Edge of the Script, billowing down from the sky, turning problems into thick air. But that sort of event hadn’t been seen since the dawn of the Script, 1450 years ago.
+
+When Erick brought up the problem of people casting [Cleanse] near the City Shield, Ishibo instantly told him how bad of an idea that was, as a [Cleanse] on a fully powered City Shield could blow it up! Never use [Cleanse] around a Shield!
+
+They continued to talk for a while, but soon they were retreading ground, and Erick called it quits. He saw Ishibo out the front door, thanking him for his time and expertise, saying that they both had some more experimenting to do, to which Ishibo readily agreed. Ishibo invited Erick to see his workshops, but Erick wasn’t sure if he had the time right now. Maybe in several days.
+
+Erick shut the door and went to the City Shield, alone.
+
+He imbued it again, and the interior got a bit more ‘[Force Wall]-like’, a bit more white.
+
+He was lucky that his mana color was already white, for mana altering to white was one of the first parts of being able to operate a City Shield, and also to be a part of the army. All those Songli soldiers in the recent war were wearing white armor, after all.
+
+Erick floated the City Shield further into the house, into the dense air of the [Prismatic Ward], and marveled a bit at the machine as it sat there in the sun. It was so unlike any other magical item he had ever come across, for it could take the mana from donors and use it to empower the contained spell. That spell that Ishibo had shown him, [Grand Force Shield], was different, too, in that it had an hour cast time. Apparently, that increased cast time allowed the spell to be shaped to the desired needs, which was just such an odd way of doing magic that Erick had trouble reconciling that hour cast time with almost all the other spellwork that he had ever seen. The only other spell that had a large cast time was [Fabricate], at a minute.
+
+… So thinking about [Grand Force Shield] as a way of fabricating [Force Wall]s into the correct position… Okay. He saw it now. Yeah, that made sense. Erick would not have made his own [Grand Force Shield] with [Fabricate], but it was probably necessary to do it that way in order for the variable shaping to work after the spell had been put into this City Shield.
+
+Leaving the shield behind, Erick went to his temporary library, back to the books. He had learned a lot of interesting facts today. It was time to put some of those facts to work.
+
+Surrounded by papers and books, Erick started brainstorming about [Renew], and about how other people’s mana could flow into active spellwork. Soon, wardlight sculptures of methodology and magic appeared throughout the air of the room, and Erick refined what he knew.
+
+He wasn’t close, but he was on the right track.
+
+With a way to harmonize areas to form [Gate]s, and the [Renew]s and [Draining Ward]s so that anyone could power those [Gate]s, or any other spellwork that needed to be maintained around a city…
+
+It was an interesting idea.
+
+Of course, if these ideas came to fruition, they would negate the need for the Singers of Songli, or for Ishibo’s City Shields, but it would also free those people to pursue other options in life, and more importantly, it would ensure that cities were truly safe spaces. Safe not only from monsters, but also from the abuses of magic that allowed nations like Terror Peaks from attacking a peaceful population… Well.
+
+Erick needed to invent a [Teleport Lock], too, he supposed.
+
+Actually.
+
+That seemed like the easiest thing to make, right now, according to everything he now knew. Ah. Well. A simple [Teleport Lock] still wouldn’t work on attacking through [Gate]s, but it would work on individuals…
+
+But it wouldn’t work against bombs being dropped from on high, from outside the various Locking spells a city could cast upon itself.
+
+Okay. Well.
+
+Erick wasn’t going to reinvent the entire way that cities defended themselves overnight. But it was something to work toward, alongside all the other things currently on his plate. There was a singular goal in all of this magic, after all; to ensure peace and prosperity and connections with others who all want the same thing, while simultaneously denying harm and the chances for harm to happen.
+
+In his course of living on Veird for a year and traveling for the last two months, Erick had come across a half a dozen good ways to ensure that society flourished while the monsters were kept at bay. All of them had their good points, and all of them had their bad points.
+
+Spur had more archmages per citizen than anywhere else in the world. Great defense! Great prosperity and stability in the form of an immortal Mayor, too. But it was a fragile defense, cultivated by the Shades, meant to keep their ‘eternal source of adventurers and entertainment’ vulnerable, in case Spur needed to be purged. All they needed to do was kill the few large powers, or mitigate them, and the city was then defenseless. Such an event had actually happened a hundred years ago, and it wasn’t till Erick showed up with his rains that the city started coming back to life.
+
+The Sovereign Cities over in western Glaquin had perhaps the worst possible system of government, where everyone was out for themselves, no one cared about anyone, and no one was allowed to Matriculate into the Script, because if you Matriculated, then you were bound for war against the other Cities. They had a civil war happening over there right now because that system had been disrupted by the former Shade Toymaker, and some elemental dice that matriculated a person to the Script with a bit of Elemental Essence. Now, radicals were Matriculating outside of the supervision of the people in charge, and it was throwing everything into chaos.
+
+Every so often Erick heard a little bit about that civil war. At Erick’s victory meal in Holorulo, where the Court decided his fate, people were talking about that civil war. Apparently it was getting bad, with hundreds of thousands dead already.
+
+Denying magic was not the proper way to a stable society.
+
+Just look at the Wasteland Kingdoms of the incani.
+
+They tried to do the same thing, but that was 50 years ago. That fallout was still felt on the Wasteland, all these years later, for that civil war was the reason that the place was called the ‘Wasteland’. Poison and decay marred what was once lush and green and full of life. In many places, the people who survived were still rebuilding, all these years later. But perhaps the worst outcome of the political failures that led to the Wasteland, were the births of terrorist organizations like the Halls of the Dead, which went off to poke at the Greensoil Republic, to harm the humans who they believed started off the civil wars that harmed their homeland.
+
+Luckily, the Halls of the Dead were now dead and gone, but their mark had been left on Odaali, and the rest of the Greensoil Republic.
+
+The Greensoil Republic also controlled access to the Script, but in a different way than most.
+
+Sure! You could Matriculate; you were even encouraged to do so. But natural leveling stopped at level 14 to 16, and the strongest monsters around were slimes, which were at even lower levels than that.
+
+[Weaken Monsters] was how the Greensoil Republic subdued their land. A single spell, tier 8, purchasable through the Script, which covered a super, super large area, and lasted a whole month. This single spell, which anyone could get, was outlawed in the rest of the world because of its single, terrible side effect.
+
+When the spell lapsed, the affected monsters went into a rage, rapidly shooting up in levels and power, often mutating into Variants, and always becoming immune to [Weaken Monsters].
+
+The Greensoil Republic ‘solved’ this problem by having hordes of ‘archmages’ flying around their entire nation, which was the size of Asia, casting [Weaken Monsters] in gridwork patterns. It was a stable solution, except when some monsters burrowed into the ground and missed a Weaken, or they randomly wandered out of the effect, or when some ‘archmage’ just didn’t bother to do their job right, or when any of a hundred other situations happened.
+
+Such problematic monsters never showed right away, but every single time you heard of a large monster attack in the Greensoil Republic, it was no doubt a monster that somehow evaded a [Weaken Monsters].
+
+There was always some small village in Greensoil, having never even seen a monster larger than a slime, suddenly coming under attack by a raging ooze, or raging wyrm. Kiri’s home of Tower Town had been attacked by one such raging wyrm, back when she was a small child. That monster had gotten pretty far before an elite showed up to take it down, too.
+
+That such a beast had managed to get that deep into Greensoil, and then managed to do damage before it was put down, just proved how weak Greensoil’s solution was to the monster problem. People needed to be stronger than [Weaken Monsters] allowed them to be. [Weaken Monsters], ironically, made the people it protected weak, as well.
+
+In fact, weakness was a problem for many civilian populations the world over, but not for one.
+
+The orcols were raised on war with monsters, and with the Forest. They knew the value in fighting for their lives and making sure that the kids learned how to fight, too. Of course, they had some inherent boons that allowed them to stand on those front lines and not worry too much about being wounded at the end of the day. For an orcol, any Healing Magic at all would speed up their natural [Regeneration], allowing them to recover from lost limbs and sometimes even decapitation.
+
+And, of course, all of them were at least three gods-damned meters tall and built like brick houses.
+
+The orcols had some serious physiological advantages to a life of monster hunting, which was good for them, but impossible to replicate upon the other races of Veird. ‘Just be an orcol!’ was not a proper solution to the monster and safety problems the world over.
+
+According to what Erick had seen so far, the Highlands had great solutions to many problems. From the City Shields to the Void Song to the clan society that held those who killed monsters in high regard. Songli seemed to do alright. A population of 40 million was pretty damned good! Hard to argue with numbers like that, when every other place in the world had populations in the hundreds, for small towns, to hundreds of thousands.
+
+But perhaps Songli’s greatest strength was their culture of politeness and hospitality and deference. That culture is what allowed them to grow so large. The politeness of the wars around here helped, too, until the precepts of war were trampled over, of course.
+
+And there was the weakness. Now that the war with Terror Peaks had happened, he saw another one: The reliance on concerts of individuals in order to provide active defense.
+
+Well.
+
+Like.
+
+There was no way to get around needing boots on the ground in order to defend people and places, but when enemy elites came in they walked through local low-level guards and smaller defenses like they were nothing. Even the larger defenses of Songli had been shut down by the terror that was Terror Peaks. The Void Song of Eralis was even negated by concentrated countersong. [Gate]s had popped up over the Alluvial District and bombed the place with Extreme Light. Assassins got in, and there was no real solution to that problem, but still!
+
+There should be better defenses versus those sorts of things.
+
+The easiest solution would be to rewrite the Script to deny easy access to magic to everyone, for it was the ease of [Teleport] which allowed the worst war crimes to happen.
+
+But barring that, cultivating a culture of respect and politeness seemed paramount.
+
+And then came the need for true elites, like Erick himself, to put down enemy elites.
+
+And infantry to kill the monsters. Strong infantry, too. Strong like Terror Peaks, but not with their culture, for sure.
+
+… Songli seemed to get a lot right about a lot of things. Spur did, too. Erick could even learn a thing or two from his enemies.
+
+And his conclusion was this: everyone could do better.
+
+And yet… Xue’s words came back to Erick. Violence and death came for everyone, but if the people in charge solved the violence part, then the death part would come unexpectedly, for no one would be prepared for it.
+
+People had to look out for themselves.
+
+The counter to that idea was a basic one, and one that Erick upheld his whole life, even before he came to Veird: The state still needed to provide the base of protection for its citizens, or else there would be no state at all.
+
+For there was another true axiom, told to Erick by Tenebrae, when they were on that beach in the middle of nowhere. That idyllic land had seemed wonderful, so why weren’t there people living there? The answer was simple, of course: Because there were no powerhouses to protect the people who lived there from the vagaries of monsters.
+
+Anyway.
+
+[Renew] would change how society functioned, if Erick managed to make it right. Safer strongholds, with hundreds of overlapping anti-magics active at all times! Cities with anti-[Teleport] spells strewn throughout, to ensure that assassin armies, like that from Terror Peaks, never get a chance to blip inside and wreak havoc.
+
+That goal was still rather far off, but Erick was gathering pieces to [Renew] every day. A [Drain Magic for use in other Magic] spell seemed like a large piece of that puzzle that he didn’t even know he was looking for until he found it.
+
+[Gate] was still far off, too, but once he got that, he could hand that spell over to Yggdrasil, and then Yggdrasil could connect separate safe spaces together.
+
+As for something that was closer to here and now, [Teleport Lock] seemed a lot more necessary now than it seemed months ago, back when Erick was trying to figure out how to lock down a Shade from escaping from combat, and also how to negate the Lock that every Shade had, in order to escape from a Shade if necessary.
+
+So many ideas!
+
+And quite a lot of time to do them all, too.
+
+Not too much time, though.
+
+He’d need to solve a majority of these problems sooner rather than later, because Candlepoint would need them. Now there was a city of problems that were unmatched in the entire rest of the world. With the Shades gone, it was only a matter of time till someone got the fool idea to attack that place. Luckily, Candlepoint was doing fine, for now, according to the messages Poi was getting. It was getting built up, and envoys came into the city all the time now, but still no traders. Candlepoint was self-sufficient, though. Soon, it would be producing excess. People were actually wearing real clothes now, too, instead of whatever scraps they could find! The fish in the lake were growing up, and spawning. The land was turning lush with life and the future looked good!
+
+Life was looking up!
+
+It was only a matter of time before someone wanted what Candlepoint had, and they decided violence was the best way to do it.
+
+By the time Erick got to bed, he had gotten rather far with his ideas of city protection, but he had not solved anything at all. Tomorrow, though! Tomorrow, he could solve some future problems.
+
+- - - -
+
+The alchemists of Star Song did not show; apparently they were in the middle of making great strides with chelation, and they could not leave the potion house.
+
+Erick got the distinct impression that he would need to seek them out himself, if he wanted to see how they, and Tadashi, were doing.
+
+Maybe tomorrow… or the day after.
+
+- - - -
+
+The sun peeked up above the eastern horizon, while the clan mountains of Holorulo were surrounded by an ocean of fog that had drifted in from the Wanzhi River, hiding much of the ceremonial land below and making the clan cities seem like giant ships at sea. It was a good view. Erick enjoyed the sights, as he ate a simple breakfast of cinnamon rolls and fresh coffee on the open third floor of his temporary housing, listening to birds caw and chirp in the cultivated forests nearby, and then listening to Ophiel as the [Familiar] mimicked the birds.
+
+He was glad for the coffee. He had found some people growing the trees when he had rained over in Alaralti, so it was a simple matter to get some proper coffee from those growers. It was a fine blend, too, as the people there were tenth generation Classed Farmers; a small branch family under High Clan Severing Crescent. They had altered Erick’s initial plant into something slightly less bitter, with hints of vanilla. There would likely be lots of similar coffee varieties in several decades and lots more people drinking the stuff, for coffee was great for waking up; tea simply couldn’t compare.
+
+Erick glanced downstairs with his mana sense.
+
+Poi was in the kitchen —which was set up for a Cook, no doubt!— getting himself some of the cinnamon rolls that Erick had made; he’d be up here soon enough. Jane and Teressa were both still asleep in their own beds. Teressa seemed to be doing alright. Jane was doing fine, too. She was still working under Patriarch Mirizo Star Song in order to fulfill her end of the bargains Erick had made between her and them, but she would be sleeping in the same house as Erick, every night, which was great. The deployments to the Underworld had been canceled, too. With all the restructuring required due to the recent war and the loss of personnel, Jane had even agreed to monster hunting duty above and beyond their bargain.
+
+Killing monsters was a big responsibility of the clans of Songli. It was a big responsibility of anyone who donned the mantle of political power, here in Nelboor, or anywhere else, actually.
+
+But keeping people safe from other people was another matter entirely.
+
+Erick had started breakfast with two cinnamon rolls, but he had only gotten through one and a half when the need to create overtook him. He stood up, then walked to the edge of the third floor, to look down upon the land beyond his rooms, beyond the edge of the clan mountain, where fog hid everything.
+
+He had once heard Archmage Opal, of Spur, say that she had been working to make [Teleport Lock] for the longest time but had never quite gotten there. Even so, surely she must have had some marginal successes over the years.
+
+A marginal success would be fine, for now.
+
+Erick channeled mana though his hand, listening to the sound of [Teleport]. It was the sound of a journey, and of another place and time. Of other roads taken instead of the one currently underfoot.
+
+In his other hand, he channeled the mana of Destruction, and heard the end of all things.
+
+With a twist of thought, Erick combined the two, into something less, and yet more. It was the sound of stability and solid choice. A destruction of other paths. The finality of here and now.
+
+The addition of [Ward] was a natural addition to the other two magics; to denote a space for the effect.
+
+A trio of Ophiel sang alongside him, feeding into the music with their own, strengthening the whole into a cohesive harmony.
+
+In this new space, fate would follow as fate demanded. Reality would not be subverted by the casual blipping of those who could. Specific subjectivity collapsed. Stability reigned for as long as Erick would allow it, with the initial restrictions of the spell going far beyond simple [Teleport], touching all aspects of Spatial Magic.
+
+Erick smiled as he cast into the air before him.
+
+A white shimmer blossomed five hundred meters away into a sphere, then suddenly expanded to brush against the railing in front of Erick. A kilometer wide spell! Erick had been hoping, but to see it actually work filled him with joy.
+
+He had inundated a small part of the world with stable static, which then vanished like disappearing fog. But the sphere of denial was still there. Erick stuck his hand forward, into the spell effect, and felt the solidity of the magic holding his form in one place, and no other.
+
+It was a bit itchy, actually.
+
+Ah.
+
+It felt like the [Teleport Lock] he had experience back in Last Shadow’s Feast.
+
+A blue box appeared.
+
+Spatial Denial, instant, super long range, 500 mana
+
+Limit the capabilities of all spatial magic in a super large area. Lasts 1 hour.
+
+Erick smiled. Oh, how far he had come! Last year, he had no clue how to do what he had just done, but this year? He had grown a lot, and this latest spell proved it. He was happy for what he had managed to do, yes, but also conflicted.
+
+Why did everyone say that [Teleport Lock] was difficult?
+
+… Hmm.
+
+At a thought, an Ophiel flew inside the effect. With another thought, Ophiel tried to [Teleport] exactly one hundred meters through the space. Ophiel blipped white—
+
+And appeared three meters forward.
+
+Hmm.
+
+Not a perfect Lock, then.
+
+Okay. So maybe, for a moment, Erick was full of himself.
+
+He was allowed to be a little full of himself sometimes! He had earned that. But still… Yeah.
+
+“This is not [Teleport Lock], either,” Erick mumbled to himself.
+
+Having come up with his breakfast in hand, Poi spoke up from the table behind Erick, “Try having Ophiel blip into the space from outside.”
+
+Erick silently nodded, then did exactly that. Ophiel lightstepped a good four hundred kilometers away, and then attempted to [Teleport] into the exact center of the [Spatial Denial].
+
+Ophiel came back into existence about a meter into the edge of the effect. He was nowhere near his true destination.
+
+Erick’s eyebrows went up. “Oh! It’s not perfect! But it works against people entering the space!”
+
+Poi smiled as he bit into his cinnamon roll.
+
+Erick ran a few more experiments with his new [Spatial Denial], and discovered that moving around inside the space was possible, but almost every Spatial spell he had was suppressed to near-uselessness. [Blink] got Ophiel a half-meter forward. [Teleport] gave at most five meters, and that was pushing it. [Teleport Other] was similarly denied… Which was something Erick would just have to live with. This was a good spell. Not perfect! But good enough.
+
+Good enough to prove a theory true; that he could cast denials targeting whole schools of magic.
+
+These denials would be necessary to provide safety in defended locations. Erick could likely create the same ‘Denial Magic’ for all the schools of magic out there. [Stoneshape] suppression would be big, in order to keep people from tearing down structures with people inside of them.
+
+And then he could link those spells to a [Draining Renew] or a [Draining Renew Elemental], to keep those spells active over a population, preventing the worst sort of attacks that were possible under the Script.
+
+But there were more spells to make than the most obvious ones. The results of one such spell were directly underfoot.
+
+Devouring Nightmare’s clan mountain was made of the same tree-like, stone-like, super lightweight material that was present in every single stronghold of Songli. Whatever it was, it was immune to [Stoneshape] by virtue of not being stone, and that was wonderful. It was probably some sort of specialty [Treeshape], or something. It probably wasn’t nanotubes though, or other carbon-based ‘stone’, how Erick initially thought it might be, for if it was, then it would have burned up when exposed to fire. And worse: small chips of the stuff would break down into asbestos-like health hazards. The Health provided by the Script might protect most people from such hazards, but Erick didn’t want to contribute to any potential problem.
+
+Plus, if these mountains were a nanotube-situation, then that would mean some people inside Songli knew enough about the particle physics of carbon in order to make a spell out of it, and that seemed too far-fetched.
+
+He likely could ask around, and someone would tell him how the mountains were made.
+
+… Now that he thought about it, before he went and made a spell that would cost him a week of downtime should it prove incorrectly made, he should probably ask around about clan mountain creation. It might be a variant of [City Shape], which required nothing more than a dozen spare points, and then that final leap into odder materials. Perhaps into a [Metaltree City Shape] or [Stonetree City Shape] of some sort.
+
+Anywho.
+
+He could make a [Stoneshape Denial] spell, exactly how he made his [Spatial Denial], and replicate some more of the Void Song’s capabilities, but on his own terms.
+
+Erick smiled as he remembered back when he first tried to make denial spells in order to make the world safer. He went too far, too fast, and the mana helped him to make [Zone of Peace] while the Script almost killed him in return. He had come a long way from that time in his life, though.
+
+He held out a hand and channeled mana through [Stoneshape]. It was the sound of solidity and strength, except under his control, or anyone who cast such a spell. It was stability put to use in odd ways.
+
+Combined with the sounds of Destruction, Erick edited out everything except for the stability, creating a pure sound of a settled land, unmoving. Sleeping, perhaps. Unable to be roused to anyone’s needs. [Ward] helped to designate the space of the effect, as it always did. Ophiel helped with choral song.
+
+And it sounded stronger than the music that came from [Spatial Denial].
+
+Erick cast.
+
+The sky before Erick blossomed with white light, then faded into nothing. Not even static. The effect was there, but it was tiny, and there was no stone in the space to be affected, anyway.
+
+A blue box appeared.
+
+Unmoving Stone, instant, super large area, 1000 mana
+
+Lull the land to slumber!
+
+Lasts 24 hours.
+
+Erick smiled. He would need to do some experimenting with that one. This could be the perfect spell to use against assassins with [Stone Body], too. Maybe. Some testing would be required. Erick canceled the spell, and the faint white glow in the air faded back into the mana.
+
+He moved far down the list, to the denial of Light, so he could test the spell out against his own lightform. Theoretically, his own Domain could serve the same function, but he couldn’t go putting up his Domain everywhere he wanted, all willy nilly. Someone could learn how to poke at it and take it down, no doubt; no, his Domain was to be used only when he needed to pull out some big magic, or big defense.
+
+These denial spells would be like half-domains, where no one was allowed to cast certain spells.
+
+Thirty seconds later, after listening to the magic of light, another spell blossomed to fill the sky and then faded into the background. Another blue box appeared.
+
+Unmoving Light, instant, super large area, 1000 mana
+
+Lull the light to slumber!
+
+Lasts 24 hours.
+
+Erick had Ophiel turn to light, and then step into the sp—
+
+Ophiel struck the side of the spell effect like both he and the spell were made of gelatin, instantly eliciting a squawk from the little guy. Unhappy flutes filled the air as Ophiel extricated himself from the space like pulling himself from quicksand. When he was finally free, he slapped the spell effect with his wings, causing the light to ripple under the small effect.
+
+Erick cast a [Luminous Beam] into the space, cutting through the spell like it was nothing, disturbing the spellwork with its radiation. [Unmoving Light] burst into so many motes of light that drifted away on the breeze, to vanish back into the flow of mana crossing the sky.
+
+… Erick recast [Unmoving Light], and played around with smaller spells. A few [Lightballs] exploded like fireballs against the edge, but did not reach the interior. Ophiel flew inside under normal [Airshape] means, then tried casting a few of Erick’s other light-based spells. [Shooting Star] conjured a tiny dot of light that drifted through the air like a dandelion seed. [Broken Light] spat tiny glints of light forward, crossing centimeters, instead of meters. [Luminous Beam] cast from inside the space broke the spell again; [Luminous Beam] was unimpeded in all ways, it seemed.
+
+With [Lodestar] active, and inside the space, all of Ophiel’s spellwork returned to normal. Not supercharged, though. Just normal. Domains could get around this sort of spellwork, but not fully.
+
+… And then Erick had Ophiel flex his sunform, breaking the [Unmoving Light] with a flick of power.
+
+So it looked like these spells had nothing on Domains. Good to know.
+
+They were still good spells.
+
+Erick moved on.
+
+Soon, he had the full suite of ‘Unmoving’ spells.
+
+Unmoving Shadow, instant, super large area, 1000 mana
+
+Lull the shadow to slumber!
+
+Lasts 24 hours.
+
+Unmoving Water, instant, super large area, 1000 mana
+
+Lull the water to slumber!
+
+Lasts 24 hours.
+
+Unmoving Fire, instant, super large area, 1000 mana
+
+Lull the fire to slumber!
+
+Lasts 24 hours.
+
+Unmoving Air, instant, super large area, 1000 mana
+
+Lull the air to slumber!
+
+Lasts 24 hours.
+
+By the time he finished the last one, people from other nearby pagodas were watching the show. A pair of old women watched from a balcony while they enjoyed their own breakfast. A trio of young male nobles watched from higher up that particular pagoda. Others watched from behind curtains, trying to be circumspect about it.
+
+Teressa had joined Poi on the roof, behind Erick, also watching.
+
+Poi spoke up, “Do you want to go talk to the people you Blessed, and ask them questions? The warden of that place asked about twenty minutes ago, but you were working. Also, later today they’re going to question Raidu if you wish to be present.”
+
+Erick frowned, the weight of the world once again crashing down on his shoulders. He said, “I suppose… Let’s go do that. And then we’re not doing anything important for a week. At least.”
+
+Teressa smiled. “Sounds good to me.”
+
+Erick added, “Thanks for waiting till I was at a good stopping point, Poi.”
+
+Poi had ruined the mood, as he likely knew he would, but stuff still needed to get done even when Erick felt like he was already at a breaking point.
+
+Poi said, “You can make them wait on you. All you have to do is tell them that they have to delay their own time tables to better fit your schedule.”
+
+Teressa glanced from Poi to Erick, asking, “Was that even a question? Of course you can make them wait on you, Boss.”
+
+Erick frowned again, feeling uncomfortable with that. Erick supposed he ranked a bit higher than some warden somewhere. It was odd to think like that, but… Yeah. They were right.
+
+And yet, Erick wasn’t willing to do that. After this, though… After this, it was time for a break. This Worldly Path was supposed to be a vacation!
+
+- - - -
+
+The commune for the Blessed was much better than the one the orcols had made near Treehome.
+
+A clan mountain of High Clan Severing Crescent loomed in the distance, looking like a proper mountain in the middle of perfectly flat farmland. All around that large mountain were farms, and people tending to those farms. Rice paddies, wheat fields, orchards, and the like.
+
+But over here, in the middle of some rice paddies and fishing ponds, the commune was made out of the same stuff as the clan mountains, and it was shaped like a clan mountain, but it was more like a clan hill. At barely fifty meters tall, with only a few house-like structures scattered across the forested surface, this place looked like a summer home for some noble family. Someone had put up a Solid Ward around the place. Maybe it was from a City Shield? Just to keep people out of the place? But what about Spatial Magic? It seemed like there was none active, but maybe they just had runes in the walls inside.
+
+They probably had runes in the walls inside. Anti-[Teleport] runes seemed like a pain in the ass; Erick’s own spellwork wasn’t perfect, but it was better than runes in the walls.
+
+An important man greeted them at the gate, saying, “Welcome to the Paddy House, Archmage Flatt. I’m the manager, Olariz Severing Crescent.”
+
+Erick replied, “Thanks for having me. Now let’s get a look around, shall we?”
+
+Olariz hopped to it, leading them down the walkway toward the Paddy House, toward the main doors, speaking all the way. This place was apparently a guest house for problematic individuals, under the oversight of Severing Crescent. The main defenses were the shield, cast by him, the manager, as well as many runes layered throughout the location to block off most magic. But the ‘guests’ were tattooed anyway; the runes were just there to prevent their casual extraction by other parties.
+
+Erick approved that Olariz cast the Solid Ward shield himself.
+
+Olariz led them past the check-in station, and up a small path to the front doors of the guest house. Soldiers in white manned those doors, but inside, there were no soldiers on duty.
+
+Erick could see through the entire place with his mana sense, and he saw all the people he had Blessed, as well as the people overseeing the Blessed. All of the former assassins and elites of Terror Peaks had tattoos swirling around their bodies, like chains of void, constantly pulling out their Mana and their Health. Other than that, they all looked healthy. No one was locked in a cage, either.
+
+This was a lot better treatment than Erick had expected.
+
+Everyone walked wherever they wanted, and more or less acted like they were guests, and not prisoners.
+
+Some ‘guests’ were cooking in the kitchen, in teams. Others were talking in small groups with each other here and there. Some were alone, and gently weeping. Everywhere, there were workers in white, some seeing to the needs of the people with [Cleanse]s or other small spellworks, or simply standing guard in conspicuous places. Erick spotted Beniza Wounder, the assassin who had been wrapped around the soul spear in [Air Body] to hide in the mana of that heavily enchanted item. Beniza was currently working on a loom, hand-making some sort of fabric. Not a single guest was on the first floor, though.
+
+This place down here seemed only for the servants and otherwise.
+
+Olariz explained, “In addition to the Solid Wards around the guest house to keep our guests safe, we have security measures in place to keep them off of certain floors. This first floor is the only one that is completely off limits, though, since it’s servants quarters. All servant hallways are off limits to them. Thankfully, they’re rather unlike our usual guests. They’re calm and sad, most of them, but they’re not violent, which is a miracle considering how we acquired them.”
+
+Olariz seemed like a decent guy, he even seemed sincere when he called these prisoners ‘guests’. Erick listened to him speak of the workings of the guest house, and how every one of the guests had been questioned already. If Erick wished to read those transcripts, he had but to ask.
+
+Erick turned to the man, and said, “Actually. That sounds like a good idea. I want to read them all.”
+
+Olariz nodded, then walked a different direction, saying, “Right this way, then.”
+
+The manager led Erick to a medium-sized tea room with the walls made of cubbies, each of them labeled with the name of a guest, and each filled with folders of papers. They had space for a hundred guests, but only 45 of them were currently in use.
+
+Olariz asked, “Is there anyone you wish to know about in particular? I can help narrow down your search.”
+
+Erick rattled off, “Beniza Wounder, and two others that you think exemplify the problem of Terror Peaks, and two that you feel could be released without trouble, and without the restraining tattoos.”
+
+Olariz kept a professional facade up and active, but inside, he had some turmoil.
+
+Erick added, “I’d like your opinion on release. That was the idea behind the creation of the Blessing of Empathy; to allow people to repent for their sins, doing as much good as they could to try and flip the scales of justice back into positive karma.”
+
+Olariz’s turmoil vanished; replaced by awe, and a little bit of envy, and terror. He kept all of that perfectly hidden behind a mask of propriety, but Erick saw most of all of it. Olariz took a moment to gather his thoughts, and Erick let him.
+
+Olariz said, “I feel that your Blessing does what you intended, however, the idea of repentance, when held in the minds of certain people, will result in unexpected outcomes, some of which might be undesirable if they are released at this moment.” He went to the shelves and plucked out a folder to set it on the table in the center of the room. “Beniza is as good of a study case of this as any of them. She blames her failures on the people who ordered her into committing heinous acts. She does not recognize that she is responsible for her own actions. I fear if she were let loose at this moment, she would find someone else’s will to enact, and then do whatever they said as long as they could make her believe that she was doing the right thing.”
+
+Erick breathed out. “Ahh… That’s…”
+
+That was a lot of things, for sure.
+
+With a firm voice, Erick decided, “What I’m hearing is that Beniza needs a proper guiding hand. Will Songli give her that guiding hand? Or will I need to remove these people from your care?” Before the man could answer, Erick asked, “What are your qualifications for being in charge of this place?”
+
+Olariz panicked for a brief moment, then a calm descended upon him. He stood straight, and said, “I am the seneschal of this paddy house, and have been for the last fifteen years. When I was young and foolish, I was on the path of destruction, but the guards of Alaralti caught me and gave me mercy. I was interred at a different paddy house for a year, under the same protocols that are still used in every single paddy house in Alaralti; draining tattoos, easy work, therapy, and calm spaces to live. Every day, I talked to people who helped me get over myself and get my mind on the right path, and afterward, I wished to help others get back on the right paths as well. Thus, I got my accreditation at the Main House, and was assigned this location. Every day, we help people recover from War Response. Every day, we help people deal with the trauma of blood and death, and any of a hundred different maladies of the mind. This is a place of healing, sir, and I have helped to make it such for a long time, so I do not appreciate being disparaged like this.”
+
+Ah?
+
+So it was like that?
+
+Erick rapidly reevaluated everything that he had seen so far, and…
+
+Okay.
+
+Erick’s eyes went fractionally wider. He was more than a little stunned, for he had no idea that places like this existed. He felt a little foolish himself, for being so unwilling to see where his actions had placed these Blessed people, for fear that he had taken them out of the fires of war just to see them crushed under the heel of Songli.
+
+It was Songli’s right to kill enemy soldiers, after all…
+
+Wasn’t it?
+
+No.
+
+Wait.
+
+Erick had a moment of surreal disconnect, and then the moment passed.
+
+Enemy soldiers, once subdued, should not be murdered offhand. They were non-combatants at that point. Erick took a metaphorical step back from himself. He should have kept closer tabs with the people he Blessed. If he had, he wouldn’t have been blindsided like this.
+
+… The real solution here was to rely more on others. Everything about Songli had told him that it was a decent place, for he had yet to see anyone murdered offhand by a noble, and he was beginning to suspect that that was state-sponsored propaganda to keep the commoners in line.
+
+Erick came back to the conversation, and said, “I had believed that when you said ‘Paddy House’, you were referring to the name of the location. But what you meant was ‘paddy house’; an asylum. A place of healing for chronic mental illness.” He added, “Sorry about that. I was not aware these places existed on Veird, or here in Songli. I was always under the impression that the Mind Mages helped with this sort of thing, but no one else did anything.”
+
+Now that he mana sensed the area again, and looked to the room he was in, he saw many hallmarks of this being an institution, rather than a ‘guest house’ of Severing Crescent. They likely used the term ‘guest house’ to make the place seem less… like it was.
+
+The hallways were organized. The rooms were laid out in precise manners. The ‘servants corridors’ were locked, only to be opened by keys kept on the belts of the orderlies. They likely called them ‘servants’ instead of ‘orderlies’ in order to also make the place seem less sinister.
+
+Olariz seemed taken aback by Erick’s apology. He said, “Well. Then. Thank you for the apology.” He brushed past that, and returned to the folders in front of Erick, saying, “Songli is prepared to give these people proper care, but some might not ever be fit to return to the world. Some of these people are heavily damaged. Some just sit in their rooms and won’t leave. Some won’t eat, and those people will be fine for a while, but eventually we’ll have to force feed them. We are doing what we can, but even we cannot provide miracles.”
+
+“I understand. Thank you for your help with this. I hoped that by Blessing these people that they would become functional members of society, but I can see that was a far-off hope. It will take time.”
+
+In that moment, Olariz saw something in Erick that he felt the need to crush, and so he said, “In my humble opinion, your Blessing is divinity itself. Every single one of these people planned to die in war fighting enemies that only existed in their minds. And now they aren’t going to die in that war. Now they want to help others instead of killing them. This [Blessing of Empathy] is a holy spell and it should be employed more, in more wars the world over.”
+
+While Erick was suddenly reeling from that—
+
+Olariz continued, “Sure, there are problems right now. But problems can be worked through when murder is no longer an option, and you have taken away that option from them. Some of our guests are calling it a Curse, and trying to figure out how to get rid of it, but in time, I know they will all see it for the Blessing it truly is. So while our guests cannot say these words right now, I know they will want to say them to you later, so I will say them in their stead: thank you for Blessing them, Archmage Flatt.”
+
+Erick felt a well of uncomfortable emotions; a distant hope, perhaps.
+
+“Ah…” Erick glanced away, then said, “Thanks for picking up the battle where I left off.”
+
+Olariz nodded, resolutely, then said, “Then I will leave you with their paperwork. If you wish to speak to any of them, let a guard know and the person can be escorted to you. I have one such guard stationed outside of the room for your use. I ask you not to show up in front of the guests themselves, though, for some of them are truly having trouble coming to terms with their new life.”
+
+Erick nodded.
+
+Olariz pointed out a few cubbies of people who matched what Erick had asked to see; people ready to move on soon, and people who were truly problem cases. And then he left.
+
+Erick started reading.
+
+An hour later, he had gone through every single case file.
+
+What he read was story after story of people at war with themselves, and their pasts.
+
+He knew how he would have helped these people back on Earth. Mostly, he would have handed them off to other social workers who specialized in cases with post traumatic stress disorder. But he knew the broader strokes. And this paddy house was doing all of them.
+
+Talks with therapists. Talks in groups. Minor chores to keep the body busy. Exercise. Meditation. Medication with various alchemical compounds, including blue weed and pills with names like ‘Restful Blue Days’ and ‘Tranquil Pond’. They even had Mind Mages coming in every day in the afternoon, to talk to whoever felt like talking, and apparently a lot of people felt like talking; there were signup sheets because there were so many volunteers.
+
+Erick’s heart went out to these people, for they were trying. They had been here for ten days already, some only for nine, so the initial disaster of a changed life was already starting to pass for some people.
+
+All because of his Blessing.
+
+He felt a strange sort of validation. A joy in the pit of his stomach. Half of that feeling was due to his own actions, but the other half was the fact that these people were in good hands.
+
+Of course, they had been questioned over their involvements in the war, and those parts were also in their paperwork. There was no such thing as psychiatrist-patient confidentiality, here. Erick had no doubt that these papers were copied and sent off to any Clan who asked after them.
+
+From what Erick read, all of these people were goaded into war, doing exactly what they did all the time, which was follow the adamant will of Patriarch Xangu and Scion Raidu and all the rest of their Elders. They were all soldiers. They were little more than pawns.
+
+Elite pawns, sure. Assassins, soloists like Jane, spearheads of the campaign one and all, but still pawns.
+
+Erick put the folders back into their proper locations in the shelves. He knew that these people were in good hands, for every single base report had a front page with an overview of the person in question, and every one of those had a section for a target release date. Many of those sections were empty, but some of them were at 1 month, or 2 months, or one year. Some of these people were eventually going to be released. Maybe most of them.
+
+Honestly, Erick should have expected that.
+
+Songli didn’t kill captured soldiers.
+
+The Antirhine Elixir had been the usual solution to the problem of captured enemy combatants, but now there was another. And if these reports were to be believed, then a lot of the therapists and guardians writing these reports truly approved of the Blessing as an alternative to the Elixir.
+
+Erick wanted to congratulate Olariz on his way out, but the man was currently talking to some former Terror Peaks soldiers upstairs, and he didn’t want to disturb the man; that conversation looked intense. So Erick just told the guard on his way out that he approved of what was happening here, and that he would be checking in occasionally, if they didn’t mind.
+
+The guard, of course, went dead silent as he stared at Erick, then rapidly acknowledged that he was being talked to by an archmage, and that he would relay Erick’s message right away!
+
+Erick let the guard go do that, as he looked to Teressa and Poi, saying, “Now to talk to Raidu.”
+
+With a wrap of light, Erick stepped the three of them to the next destination.
+
+- - - -
+
+The Palace of the Eternal Court.
+
+That was the name of the building in front of Erick right now. He had seen the place as he lightstepped in, and every so often when he sent Ophiel flitting by, but none of those experiences compared to standing there on the steps of the palace.
+
+In overall shape, the building was like the Courthouse of Spur, or the Capitol Building of Washington DC, but hundreds of meters tall and a kilometer wide and with a staircase of a hundred steps leading up to the front doors, with both stairs and doors much, much larger than they needed to be. The whole place was a work of columns and sloped gold roofs and tall, tall windows, built to withstand hurricanes and quakes.
+
+Everything inside the Royal City was much, much larger than it had to be.
+
+This was one of the few ‘public’ buildings in the capital city, and as such there were people of all walks of life walking up and down the court stairwell, right alongside Erick. Just like them, he and his people had come up to this place from the Teleport Square to the south of the Palace of the Eternal Court.
+
+Erick suspected that the placement of the Teleport Square and the grandeur of the sight ahead of him, was intentional. Walking in from the east or the west would not be nearly as impressive.
+
+Well. Like. Duh.
+
+People built structures to be impressive when they wanted them to be impressive, Erick.
+
+Erick smiled, adjusted his good robes a little, and then kept right on walking up the staircase, toward the doors that everyone was filling through.
+
+Ari stepped out from a side door, behind a column, right as Erick reached the top. She wore a plain white dress, and was flanked by two stern-looking women in white. Right away, Erick saw a problem. It was nothing specific, but it was a lot of little things. The look in Ari’s violet eyes. The stance of her ‘guards’. The way she wore a rather innocuous golden necklace that was enchanted in some way, and that a few other people in the crowd instantly recognized the necklace and thus turned deferential or scared, but tried not to show it.
+
+Ari saw that he saw her problem, but she did not seem to want to speak on her own problems, as she shook her head a little. Her guards didn’t seem to notice Ari’s obvious breach of protocol, or whatever it was; they, like a lot of people in the immediate area, were completely focused on Teressa, towering above everyone at three meters tall. It wasn’t every day you saw an orcol in Holorulo.
+
+Ari spoke up, “Welcome to The Palace of the Eternal Court, Archmage Flatt. Please follow me.”
+
+At her words, her guards locked eyes with Erick, returning to their proper duties, whatever those were.
+
+And now the moving crowd was looking at him, too.
+
+Apparently, archmages ranked above orcols!
+
+Erick left the suddenly-silent and staring crowd behind as he followed Ari and her guards through a separate door, set to the far left of the main entrance.

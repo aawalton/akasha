@@ -138,3 +138,400 @@ It started off as a lark, but Erick could make soda if he wanted, couldn’t he?
 
 Frozen Mist X, instant, medium range, 25 MP
 
+Cool a small area, dealing physical damage per second. Creatures caught in the effect are slowed if they cannot become warm. Effect stacks. Lasts 10 minutes.
+
+Eduard had invented that one, right alongside his sister Maia’s [Incandescent].
+
+And since Erick was creating a new spell anyway, and for some symmetry, Erick channeled [Frozen Mist] and Aurify through an Ophiel hanging out high in the sky. Ice instantly formed on beating wings, then shed away like so much scattered frost. The air turned to winter, as a cold mist billowed away from Ophiel.
+
+And Ophiel kinda liked it. He ducked and weaved into the air, trailing a chill all around him, scattering ice with every beat of his wings, and with every note of his violin song.
+
+Frozen Mist Aura, instant, medium range, 1 mana per second + Variable
+
+Cool a small area, dealing physical damage per second. Creatures caught in the effect are slowed if they cannot become warm. Effect can be modulated at will.
+
+Erick let that aura lapse. It was dry ice making time! He combined the original [Frozen Mist] with—
+
+He stopped.
+
+Why not use [Mysticalshape] to make it work better? Well. Yeah. That was one of the Big Things he wanted to try using that spell for, wasn’t it; to make some Particle Magic without extraneous contaminants, like what happened when he used [Crystallize Diamond].
+
+Erick smiled. Okay. Well. He had to make this one himself; he couldn’t make this spell through Ophiel as he sat there, on the porch of his yurt. So he excused himself from the screening area, saying, “I’m going to make a spell. Shouldn’t take too long.”
+
+Nirzir instantly, and excitedly asked, “What spell! Can I watch?”
+
+Jane just smiled as she watched Erick go.
+
+“Of course.” Erick stepped off of the yurt and walked a bit away, saying, “It’ll be a spell that makes the material which can then be used to make carbonated drinks.”
+
+“What’s ‘carbonated’?” Nirzir asked. “Something to do with making something have more carbon?”
+
+“Exactly. The formula for this molecule is one carbon and two oxygen. I’m adding in [Mysticalshape] and [Frozen Mist] to see if I can make the spell operate without producing byproducts, and to make a solid material that can be transported later, in case I want to make a product with this spell at another time.”
+
+Nirzir nodded, waiting for the magic. She asked no more questions.
+
+Erick held a hand forward and channeled mana through his various spells. The Particle spells sounded of static, but [Mysticalshape] sounded like a possibility sliding into place, while [Frozen Mist] was the sound of a frozen morning, crackling with ice— Huh. That spell had gained some sound to it, too. Before, it was just another static sound.
+
+Anyway.
+
+Erick tuned the song a few different ways, trying to find the vibrations that turned cold possibility into a fizzy, harmless sensation. He didn’t find the correct combination right away, but knowing that CO2 condensed into a solid well below 0 degrees, he went for a deeper cast of [Frozen Mist], trying to make it cold enough for—
+
+Yup!
+
+That did it. That was the proper sound of a cold soda.
+
+Smiling, Erick cast, twisting magics together, targeting the space above the corner of a stone platform.
+
+Flowing streamers of misty white cold swirled out of the manasphere, condensing into a small teaspoon-sized pile that grew larger as moments piled up; like the falling of snow onto a specific part of the world. The yield was small, and the production was slow, but CO2 was precipitating out of the air, well enough.
+
+Ah! To have this spell back on Earth— Actually. Having [Grow] would probably be a better solution to climate change than carbon sequestration. Erick always thought that was just pushing the problem forward, onto the next generation.
+
+Anyway.
+
+Erick threw a [Cleanse] on the pile, bursting white light across the space to check to see if there were any toxic byproducts. No thick air came up from the pile, though it was a bit hard to see through the cold, white swirls flowing through the space.
+
+He’d throw another [Cleanse] over the whole thing once it was done.
+
+A blue box appeared well before the crystallization was complete.
+
+Harmless Frozen Particles, instant, close range, 250 mana
+
+Cause particles of a specific type to condense in a small area. Lasts 10 minutes.
+
+The name was a bit odd and the description was rather purposefully vague, but the spell was a success, though the product was slower forming than Erick had expected.
+
+Nirzir asked, “Was that a success?”
+
+“Yes. But I think I can adjust the yield by changing the local environment, as with any Particle Spell.”
+
+Erick grabbed some nearby grasses with an Ophiel, brought those grasses into the dry ice spell, and had Ophiel [Incandescent Aura] the grass into particulate. Almost instantly, Erick knew he had harmed his new spell with the heat, for the whole freezing sphere of magic suddenly shrunk; probably due to the heating spell, which was rather perfectly aligned against the cold spell. Particle spells worked well against each other, after all. The grass still went up in flames, though, producing ash which was swept up by the white streamers of the cold spell, into the interior, where the yield of dry ice suddenly doubled, then tripled, like snow knocked down onto the ground.
+
+Erick decided to let the spell run its course without any more interference, for it was working well enough on its own. The yield was growing faster than diamonds grew, so this was fine.
+
+He said, “The next version of this spell is the aura, but that can come later.”
+
+Nirzir asked, “What can you do with the snow, though? Er. It’s not snow, is it.”
+
+Erick smiled. Nirzir was rather smart. And the pile of CO2 snow was about two handfuls large; this was more than enough to show her what dry ice could do. Erick canceled the rest of the spell then cast a [Cleanse] over the space. White streamers vanished back into the manasphere and thick air flexed, yet removed none of the particulate from the ground.
+
+Success! Including [Mysticalshape] had worked wonders.
+
+“You put it in a drink and you drink it!” Jane said, coming forward with a pitcher of lemon water that she had been working on while Erick made his spell. She handed the container off to her father. “It’s mostly sugar and the juice of half a lemon. It should function, but the recipe needs obvious work.”
+
+With a sweep of hard light, Erick compacted most of the dry ice into a small block of solid white, about half the size of his fist, while he also took the pitcher from Jane. The ice went into the container, and instantly started bubbling. Nirzir craned her neck, eyeing the smoke pouring off of the bubbling lemonade.
+
+“And that’s it!” Erick said. “All you have to do is let the dry ice fully dissolve into the drink, and that’s all it takes to make soda water.” He handed the container back to Jane, adding, “You should lightly close off the lid, though, to ensure the carbonation takes.”
+
+Jane eagerly took the pitcher, giving a laugh as she wrapped it in shadows, saying, “You could have done this a year ago, dad.”
+
+“A year ago, the Queen Daydropper had killed most of Odaali using what I assume is a variation of this spellwork, and [Grow].”
+
+Jane winced. “… Ah. Yeah.”
+
+Nirzir’s eyes shot wide. “It’s dead air!?”
+
+“That’s what most people would call it, yes,” Erick said. “But it’s no more dangerous than any other magic out there.”
+
+Nirzir instantly regained control of herself. “I— Yes. Of course. I was simply surprised. Pardon my temporary naivety. Would you mind if I cast a [Cleanse] upon the… bubbling water? To. Uh. To alleviate my own concerns?”
+
+Erick smirked. “Go ahead.”
+
+Nirzir did so. The white smoke coming out of the pitcher was unaffected. “… I see you are correct.”
+
+“We’ll wait until it finishes bubbling, then we can try some,” Erick said. “Don’t ever drink dry ice. That might kill you.”
+
+Nirzir stood straight. “Ah.”
+
+Jane said, “Oh! It won’t kill you.”
+
+“It could seriously hurt you, Jane,” Erick said. “… Though, with Health… I don’t know.”
+
+Nirzir still looked unsure, but Jane was wholly ready for a soda. Soon enough, they returned to watching the debates, and this time they had another beverage option. Jane sipped her lemon soda, smiling gently as she watched Teressa sputter her drink to the side, spitting out the ‘nasty’ stuff that ‘stung’. Jane teased Teressa mercilessly over that, but Erick just smiled as he sipped his own drink. And yeah… It did sting a bit more than Erick remembered. Teressa declared all of the people of Earth ‘Obvious sadists’, which earned a large laugh from both Erick and Jane.
+
+Poi emphatically declared that soda did not live up to the hype, but he drank it anyway.
+
+The five of them continued to watch the debates, but none of what was said would likely impact any of them, except for maybe Nirzir.
+
+… The debates were important. The world was changing, and the grass travelers were beset on all sides and from within, by pressures that would sweep over them if they did not solidify in the face of those pressures. But the debates weren’t important to Erick, except that he needed to make allies everywhere he went. Allies were important.
+
+For someone, someday, would discover that he was a Wizard. And the Shades still had a heavy interest in him. And he had shadelings to watch over. And a Crystal Forest to clean up of crystal mimics. And there was still a Converter Angel out there, though Erick hadn’t seen any of the Angel’s soul modifications in a long while.
+
+Erick had irrevocably changed the world in so many different ways, and he had a responsibility to see that the changes he caused were good ones, and that people weren’t coming after him for what he had done.
+
+But the debates here weren’t that important for Erick, for he might be done with the grass travelers, especially if Ordoonarati had truly abandoned his need to assassinate Erick. Though what, exactly, had he done to stop the dragon from choosing violence? Could have been anything, really.
+
+A lot happened past the edges of Erick’s sight.
+
+- - - -
+
+In a distant yurt, far away from Ooloraptoor, a man warmed himself by the firepit in the center of his home, enjoying the flames in the deepening night, though the light could have been brighter, and the warmth stronger. He was still cold, but he wanted to save on wood, so he simply grabbed a nearby blanket and layered it over the one already around his shoulders.
+
+And he waited, his eyes locked on the flap of leather that served as a door. He had been waiting for hours. Green shadows swirled behind him; the firelight doing nothing against that ephemeral darkness. Rather than banish the shadows to the corners, the light seemed to deepen them. The cold seemed to deepen, too.
+
+The flap of the yurt suddenly swung open, letting out the heat, letting out the light, letting in the intruder.
+
+She was a woman, completely unlike the man, completely out of place in the rustic setting of the man’s humble yurt. Her armor was of thin red silk; diaphanous and flowing. Her strength was in her spine, and in the depths of her ruby eyes. Her weapons were her words, and she would likely draw more blood than the man tonight.
+
+Red went on the offense, “You play a dangerous game.”
+
+“We play the game well.”
+
+“A bluff.” Red said, “You tried to kill him, but then you realized you were too weak so you switched tactics. Do not pretend you have tricked anyone into doing anything, for you are not nearly clever enough for that.”
+
+The green shadows swirled, but the man’s face remained impassive.
+
+One of Red’s perfectly shaped eyebrows rose, ever so slightly. “You didn’t respond to the goad. Something else is going on here. Enlighten us now, or face extinction.”
+
+Another goad, meant to draw him out in a way that would expose something vital. If her threat was anything less than solid, then the man would have changed tactics, again; he would have gone on the offensive. But unlike Erick, Red gave no mercy. She would have to find the man first, but with the world of the grass travelers changing, many routines would change as well. He didn’t think he would mess up and accidentally expose himself to another unknown dragon, but that was what Integration risked. It was a risk that he had to take, though.
+
+The man said, “All the usual opposition to Integration has vanished, either through purge or conversion or honest change. Erick won without really trying, so who are we to get in the way of his Worldly Path? We would have to be fools of the highest caliber to go up against his light.”
+
+Red’s face became a mask. “Are you trying for Empire?”
+
+“We are trying to remain alive in a changing world, and apparently, hiding among the itinerant masses is not good enough. So we will take refuge in the houses our people build.” He went on the offensive, saying, “Which brings us to this: My people are deciding that they need a centralized government, and they wish to be treated as equals by your people. Is this a problem for you? A single, allied city that is not under your direct control? One out of ten thousand?”
+
+“Not at all.” Red’s mask broke in fractions, becoming something nicer and more sinister all at once. “Hopefully not in a hundred years, either, when your pitiful population has a hundred cities and finally gains some true numbers.”
+
+The man felt the need to goad the woman about her own desires for Empire, but that would be a foolish [Strike] indeed. So he said, “Allied states are good to have. You might actually get one on your northern borders after all this time, as long as you leave us alone.”
+
+Red’s mask fully broke as she smiled; a genuine threat and an expression of joy all in one. “You may keep your shitty cow-flecked land and demented ideas of government to yourself. All I need from your people is beef to feed our people. So don’t skimp on herding after you finally Integrate, or else we will need to have a second conversation, and you will not enjoy that.” She lost her smile and stared for a long moment; until she was satisfied that she had won.
+
+And she had; after all these years, she had finally won.
+
+The woman went to exit the yurt, grabbing the leather flap— She stopped. She turned back, her ruby eyes glinting in the firelight. “We probably aren’t coming for you when we roll over the rest of this shitty continent, so don’t give us a reason to reconsider that stance.”
+
+And then she left.
+
+The room grew colder again. The man threw another log on the fire. Warmth soon swirled around the cabin as the green shadows vanished, pulling back from the meeting.
+
+The man yawned. It was warmer now, and the sounds of the rest of his clan came to him; a comfort. It was getting late. Perhaps he should just go to bed, and yet— Oh. He must have dozed off a bit, there. He checked on the debates— They were still happening, but the man had lost interest. It was time for bed.
+
+- - - -
+
+Erick didn’t watch the whole debate. Mostly, he did everything else he had to do, and then he did more. When he ran out of monster kill requests, he went out and gathered more applications from the people waiting outside of his protected space.
+
+But as the sun set, and the sky turned purple and gold, Erick returned to watch the debates, because Koori took the podium.
+
+The eighth speaker from Blue Sky was nearing the end of the elder’s patience, so they went out in style, attacking a great deal of people by speaking of how Pale Cow’s orthodoxy was a problem. Every single idea that Pale Cow put forth was fundamentally flawed because they came from a place of willful ignorance about how the world truly worked. People used magic in the real world; they didn’t hide it like some shameful secret.
+
+That much insult finally earned that speaker the elders’ ire; they got voted off.
+
+The speaker from Pale Cow was already barely staying afloat, so they graciously left, which bought the rest of Pale Cow some goodwill. That was when Koori took the stand.
+
+Koori said, “Many of you know me, or perhaps you know of my history with the depths of magic, and the dangers. For those of you who do not know, I will tell you.
+
+“I have achieved tier 9 spellwork. I am an archmage by all conventional use of the word, though I would never call myself by such a title. I achieved this ranking many years ago, learning from a Speaker who I abandoned later, much to my shame. But back before I was orthodox, before I learned of what magic had done to my body, before the failures that led me to orthodoxy, I was an archmage.
+
+“Everything I ever gained and lost was because of magic; because of [Cleanse].
+
+“Four miscarriages, before I was finally graced with my daughter. I thought I was broken inside, but I was not; magic did that to me.” She paused. She continued, “A child, one year old. A sky tether yanked him out of his mother’s arms and my own misstarget erased both the monster, and the child.
+
+“And then there was my brother. I was angry at him, once, and now I can never see him again.”
+
+Erick’s eyes went wide. The audience was dead silent. Jane stopped chewing her snacks, and she wasn’t the only one.
+
+“All of my failures are horrific, and I’m sure many of you have the same sorts of experience. If it were only I who failed to wield magic properly, if it were only I that made mistakes, then orthodoxy wouldn’t be so prevalent among our people.” Koori said, “Magic is deceptive in what it grants you. Those blue boxes hold power that no one should wield. They are unknowable boundaries that no one should push. And yet we use this power because we have this power, for the Darkness and the monsters are always out there, always threatening.
+
+“Make no mistake. I do not think that anyone should openly wield the power that the Script grants us all, but I understand the need. I understand. That need is what drove me to learn magic in the first place.
+
+“Pale Cow understands that most people use magic and that we will have to accept the open use of magic after Integration. Many of our people might even choose to go standard.” She said, “And I will be one of them.” The crowd gasped. “That is why I am on the stage today. My break from orthodoxy is an example of the commitment of Pale Cow to the prosperity of every single grass traveler, and as a show of solidarity, I will be participating in the standard Polite Battle after this debate, if it should get so far. Let us hope that it does not go that far, for power is dangerous, and not all of us are able to wield it so well as other archmages around here.” Koori said, “It is my hope that if we do Integrate, that we continue to have orthodoxy, but Pale Cow certainly understands that orthodoxy is not for everyone. Just as we would expect none of you to impose your beliefs on us, Pale Cow would never seek to impose upon you...”
+
+Her speech moved on to the importance of having the freedom to choose one’s own beliefs, and of how an Integrated government should not impinge on those beliefs, in any direction.
+
+The debate wore on till a few hours after sundown, with Pale Cow having lost 8 speakers, and Blue Sky having lost all 10. Pale Cow was declared the winner, and Blue Sky accepted their loss; there would be no battle over this debate.
+
+Most people had stopped watching long before that, including all of Erick’s party, except for Erick himself. After Elder Teer gave a final exit speech, Erick shut off the [True Viewing Screen], and then he was on first watch.
+
+- - - -
+
+The next morning, Amasar showed up at the edge of the property bright and early. Erick let him in, and the man spoke quickly and professionally, stating that Clan Brown Dog had chosen to forgo a debate. Clan Pale Cow had won their three scheduled debates, which meant that Green Grass, Blue Sky, and Brown Dog would reach out and accept envoys from Songli. They would learn more of Integration, and of the greater political and economic realities of Nelboor. Amasar assured Erick that he was welcome to stay as long as he wished; Niyazo and Koori would have come to tell him this, but they are in talks with many other clans right now.
+
+Erick thanked Amasar for his report.
+
+His duty discharged, Amasar bowed, and said one more thing, “Clan Pale Cow is hosting a feast tonight to celebrate the win. We wish for you to be there. Will you attend?”
+
+“Of course!”
+
+Amasar bowed again, and then left.
+
+Erick turned away, and smiled a little.
+
+This particular chapter of the Integrator versus True Traveler conflict was over, and though Ordoonarati had threatened destruction if he lost, he had taken the loss. This all but proved that Ordoonarati had changed his mind. Perhaps Erick would accept the offer of a feast from clan Green Grass, from Linxel, too.
+
+It might be nice to see that guy again, and in a better setting.
+
+But first came steel making, motor construction, and all the other small jobs he had lined up for himself, along with one more: Dry ice production. Not for himself, but because Jane wished to try her hand at remaking some of her favorite sodas.
+
+Halfway through the afternoon, and yet already done with most of the important tasks of the day, Jane had one more important thing for him to do: Taste testing various drinks. She had ten options lined up, and she had to have his opinion.
+
+Erick felt a wonderful surge of happiness in his chest as he tasted the first one. “It’s good.”
+
+Jane, with all her seriousness, asked, “But does it taste like it should? Or is this next one better?”
+
+Erick laughed a little, then tried the second option. “This one is great, too.”
+
+“Come on, dad. I want actual criticism.”
+
+Erick shrugged, then tried number three. “Ah. This one is the best of them all.”
+
+Jane couldn’t stop a small smile from creeping onto her face, but she got rid of it as fast as she could. She pretended to ignore her father, then asked Nirzir, “Which one did you like?”
+
+Nirzir said, “I like number 6 the best.”
+
+Jane frowned. “The berry-based one?”
+
+Erick was already tasting number six. “Tastes like strawberries and blueberries. It’s pretty good, too!”
+
+- - - -
+
+Lanterns hung from ropes that had been strung between yurts, providing soft glows to the people that drank and ate and danced below. A band of seven men and women played instruments on a stage across the field from the cooking yurts, which held so many different types of food and in such quantities that the gatherings of Songli would be shamed. Erick even said as much to Niyazo. Niyazo’s head went back as he laughed loudly into the night, a boisterous sound, splashing his drink to the grassland underfoot. He wasn’t the only one having a good time.
+
+It was a good night, filled with many speeches over possible futures, but thankfully they were kept small.
+
+Erick debuted ‘Jane’s fizzy drink’, which earned him a great big frown from his daughter, but she couldn't fool him; she loved the attention. Some of the people loved her drinks, too, but most just loved the misty smoke coming off of the drinks.
+
+Except…
+
+It started with catching the frightened eyes of a young girl who saw the smoke coming off of Jane’s concoctions. In that moment, his perception shifted, slightly.
+
+And as Erick looked around, he saw more and more scared eyes of the people of Clan Pale Cow, sparking in the firelight. Some people looked away as soon as they saw that Erick had seen them, or they tried to play off their terror as something else. But he caught the whispers. ‘The debate is over, he should be leaving now, right?’ and ‘What is that stuff coming out of the drinks?! I’m not drinking that.’ and ‘Archmages! tsk.’
+
+Erick had overstayed his welcome, and Pale Cow was not as happy as they appeared to be.
+
+As the old saying went, ‘Guests are like fish; they get old after three days.’ It had been many more than three days since Erick forced his way into Clan Pale Cow. The people here genuinely came to appreciate him, though, and he had done a lot of good for this community, but now they were wondering when he would leave. They were scared of what his presence signified.
+
+Niyazo continued to be truly welcoming, though. He even asked if Erick would be willing to move to Clan Pale Cow permanently, and it was only half a joke; the other half was a true inquiry, for Pale Cow could do well with a second archmage among them.
+
+As though hearing her name, Koori came over to Erick and Niyazo, carrying another drink in her hand to hand off to her husband. Then, she turned to Erick, genuinely saying, “Thank you, Erick.” Her words encompassed a lot more than a simple ‘thank you’, though.
+
+Erick was feeling a bit melancholy, but he could act personable enough. He teased, “For what, exactly?”
+
+Koori leveled a withering stare at him.
+
+Niyazo playfully threw an arm around his wife, saying, “Come now, Koori! You’re in the searchlight now.”
+
+With a heavy sigh, Koori reached up and took Niyazo’s free hand in hers, holding on tight, as she looked to Erick, saying, “The powerful can never show weakness, Erick, especially to other people in power. So I will say thank you, and leave it at that.”
+
+“I accept your thanks, but your idea that the powerful can never show weakness is untrue.” Erick smiled, saying, “But not every archmage is the same.”
+
+Koori stared for a moment, then she sipped her drink, saying nothing.
+
+The night wore on.
+
+Erick went back to the people that truly mattered to him, trying to recapture the celebration amongst all the falsity. He only found a more uncomfortable truth. He saw now that Jane did not love the attention upon her new drinks, for most people who tried them did not truly like them, either. More than once, Jane spoke a bit too loudly that ‘her father made the snow that went into the drinks’ and ‘I didn’t make it myself’. She said that so that people would like it, and they at least pretended to. Jane was not happy that her drinks weren’t more popular, though.
+
+Teressa seemed to be doing fine while the children had been clamoring around her, asking for more stories, but by now the kids had been forced to go to bed by their parents. Now, Teressa was surrounded by horny men who kept trying to peek under her veils. It was a miracle that she hadn’t clobbered anyone yet.
+
+Nirzir and Poi, though, were both divorced from the party. The people of Pale Cow had never truly warmed up to the Mind Mage, and though Nirzir had a working relationship with those at the cooking yurt, it seemed the older woman Cook, Waveni, was the only one who truly cared about the princess of Void Song.
+
+Erick decided to end the night—
+
+Ah. Looks like the night was not going to end there.
+
+Erick’s heart fluttered uncomfortably as Linxel Green Grass walked into the party, coming in off of the Teleport Square set up outside. He wore a thick leather robe of greys and whites, obscuring much of the form of his body, but hinting at everything that lay beneath. Gold jewelry wrapped around the base of his black horns, glinting in the firelight. Niyazo and Koori were there to greet the tall man as he entered the party, but he looked around until he saw Erick. They locked eyes for a moment, both of them giving a tiny, unprompted grin, and then Linxel was able to focus on Niyazo and Koori, to accept their welcome into the gathering.
+
+Beyond Linxel came leaders from other clans.
+
+Clan Blue Sky’s Leader, Roodi, came in from Linxel’s left. The warlord was a pale man of average height, with a shaved head, and two tiny pale horns poking up from his forehead. The man scanned the welcoming party, and locked eyes with Erick from twenty meters away. He didn’t look happy, but he also looked like he wanted to talk.
+
+Clan Brown Dog’s Leader Fara came in on Linxel’s right. She was a brown-skinned woman of no odd features, with thick braids gathered in a bun. Her right hand was half raised to her side, gently commanding a gigantic brown dog to stand down. The dog looked like a cross between a mastiff and a lion, and it obeyed Fara’s command with a perfect adherence. The dog’s eyes scanned the crowd with as much intelligence behind them as any other person, which was odd, because it seemed like a normal dog. It certainly wasn’t a monster.
+
+Someone else seemed to enjoy the sight of the dogs, though.
+
+At Erick’s side, Teressa giddily whispered, “It’s the dogs! The famous dogs!”
+
+“What?” Jane asked.
+
+“The wardogs of Nelboor!” All of Teressa’s previous tension seemed to leave her in that moment as she smiled brightly, under her veil. “I wondered if we would ever see them.”
+
+Nirzir looked up at Teressa, weirded out, then she seemed to accept what she was seeing. “I suppose their story is a bit popular. But that story doesn’t come from these dogs; it comes from the wardog people of northwest Nelboor.”
+
+Jane repeated, “What?”
+
+“They breed dogs to fight monsters. Very respectable.” Teressa said, “Beastmasters back home use all kinds of beasts against the Forest, but only dogs have ever proven repeatedly viable. Dogs can join a community, and this fact sets them apart from many other Beastmaster options. Very loving creatures.” Teressa added, “Their sense of smell makes them great trackers, too; easy to sniff out nearby monsters.”
+
+“Oh.” Jane looked at the large dog again, but this time she seemed to be appraising the animal. “I wouldn’t be comfortable being a dog.”
+
+Erick burst a laugh that drew some attention. “Spiders are better?”
+
+“They are,” Jane said, nodding resolutely.
+
+“Dogs are great, Jane, they— Ach.” Teressa began moving into position, to stand behind Erick. “They’re coming this way.”
+
+Linxel led the slow, methodical charge toward Erick. His allied leaders followed his lead, the people of Pale Cow parting for their path. Soon, the tall man stood only two meters away. Erick had to look up to see his face, and he liked that. For a moment, he was unprofessional, but he quickly banished that feeling and tried to be simply personable.
+
+Linxel said, “Greetings, Erick.”
+
+Roodi and Fara added their own, “Greetings.”
+
+“Greetings, Linxel. Roodi. Fara.” Erick asked, “What brings you all here tonight?”
+
+“Aligned interests with Pale Cow which we hope will lead to friendship.” Linxel said, “And since you’re here, I hoped to speak to you, as well, but I will let the others go first.”
+
+Not wasting any time, Roodi stepped forward, saying, “From what I understand, you are the one to thank for much of Pale Cow’s newfound spine, and also their newfound flexibility. Before, they didn’t have any true answers to any of our larger questions, and all decorum aside, Koori has been an utterly intractable witch.” The pale man turned to Koori, who did not look angry at all, saying, “I’m glad to see you come to your senses. Pale Cow and Blue Sky have been friends before, and I would see us be friends again. I would speak with you, if you are amenable.”
+
+Koori said, “I am.”
+
+Roodi said, “Thank you, Archmage Flatt. Good night.”
+
+“Good night, Leader Roodi. A pleasure to meet you.”
+
+Roodi paused a bit, examining Erick for a moment, looking for dishonesty. He found none, so he nodded, then walked off with Koori, speaking in hushed, halfway-angry tones at the woman as the two of them went to the tables full of drinks.
+
+Fara’s dog huffed a bit as both the beast and his master spared a glance to watch Roodi and Koori walk away, then the two of them turned to Erick in unison. Fara’s voice was rough, but even, “You did a good service for us grass travelers, Archmage Flatt. Our dogs kept us free of face stealers and otherwise, but we couldn’t provide that sort of service to everyone, like you. Thanks for cleaning up our lands. But I heard you were here for a dragon, so if we catch wind of a dragon, you got some way to contact you? I’d prefer to not have one of those things around here, either.”
+
+Erick was momentarily stunned, then he said, “Uh. I do not, actually.” He would have offered a telepathic contact, but Erick wouldn’t be here in grass traveler land for much longer. He said, “Send a message to Silverite at Spur, perhaps?” He looked to Poi for confirmation.
+
+Poi said, “A standard [Telepathy] will reach the archmage, anywhere in the world; we will ensure it, but please do not abuse this function.”
+
+“Easy, then. Understood.” Fara turned to Niyazo, saying, “Now you and I gotta talk.” Briefly, she said, “Nice meeting you, Archmage Flatt.”
+
+“Nice meeting you, too,” Erick said.
+
+As Fara and Niyazo walked away together, with Fara’s massive hound trundling alongside them, Teressa subvocalized toward the dog, ‘Nice meeting you, doggie!’
+
+Erick grinned at that.
+
+Linxel seemed to take that smile in another way, as he said, “And that leaves you for me. Would you care for a walk upon the plains?”
+
+“Yes.” Erick’s grin remained as he said, “I was about to end the night here, so I’ll end the night with you, instead.” He told his people, “You can all head back to the yurt.”
+
+Teressa happily said, “See you later, boss,” while Nirzir’s eyes shot wide as she said, “Real— Okay! Uh,” and Jane gave a tiny chuckle. Poi just nodded, and led the way back to the yurt.
+
+- - - -
+
+Under the bright, night sky, Erick silently walked beside Linxel, feeling butterflies in his stomach for the first time in a while. He was also feeling the stirring of something wanting for the first time in a while, too. Erick tried not to look at Linxel, to gauge the man’s reaction, to see if he felt the same, but he couldn’t help himself, for he had to keep aware of his surroundings, right? Right.
+
+And yeah.
+
+Linxel was experiencing the same sort of stirrings as Erick. Heart beating faster. Blood rushing to other places...
+
+Erick distracted himself with a glance north. Clan Pale Cow’s party and all their people were half a kilometer away; little more than a bit of light on the horizon that melded into all the other lights, from all the other clans camped out in Ooloraptoor.
+
+That quick look seemed to break some building tension, or perhaps Linxel was worried that Erick was going to run. Maybe Erick should run, but before he could, Linxel broke the silence of the night, “I am not good at this sort of thing, but if you are sticking around Ooloraptoor, I would court you. Romantically.”
+
+For a long moment, Erick felt lighter than air, and then the rest of Linxel’s words came to him.
+
+Crushed.
+
+An apt description for his emotional state. It was an emotion that he shared with Linxel, though. Linxel looked ready to be crushed in turn, to be denied.
+
+“I’m moving on as soon as I’m sure that I’ve left no enemies behind.” He looked up to Linxel. The man looked away. Erick said, “Otherwise, I would accept your courtship. Or at least I’d like to know you in a more relaxed setting.”
+
+Linxel turned back. He said nothing.
+
+So Erick said, “Believe me that I am interested. But I can’t stay here. People are scared and I have obligations in other directions.”
+
+Linxel smiled softly, his voice cracking a little, “I had to take my [Strike], but I understand.”
+
+“Would you like to visit Spur, sometime?” Erick said, “Or I might actually come back here, but not for a while. I can’t actually live here, for all my obligations are over there, but I might have [Gate] soon, so that could work.”
+
+Linxel blinked a few times. “Oh. You aren’t just letting me down easy, are you.” A joyful chuckle came out of his throat. “Oh. I actually have a chance. Uh. I didn’t expect this.”
+
+Erick smiled brightly. “Yeah. You have a, uh, large chance. You are… very attractive.”
+
+“Uh. You too.”
+
+Linxel went full mast under his robes. Erick was already there. Linxel leaned down. He tasted of want, and Erick found he enjoyed that a lot.
+
+A [Sealed Privacy Ward] went up.

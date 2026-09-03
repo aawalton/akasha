@@ -116,3 +116,394 @@ Tenebrae looked to Erick. “And all you ever had trouble with was [Ward]?”
 
 “… And making Ophiel and [Prismatic Ward] and a lot of other things, but not as much trouble now, no,” Erick said.
 
+Tenebrae relaxed with a sigh. “Okay. That sounds better. Much more normal. Particle Magic is a major outlier, but this sounds more normal.” Tenebrae said to everyone, “I never placed much faith in the ideas of exposing children to extreme mana experiences, but it seems we have an anecdotal case supporting that idea, right here. Maybe for you, Jane, this is what has caused all of your problems, for Spatial Magic is unlike almost all other magics. For Erick… I have no idea from where his success springs, aside from uncommonly well thought-out Intent, and sometimes that is enough.” He looked to Jane. “The only way anyone ever overcomes maligned magic issues similar to yours is through hard work and restructuring their entire approach to magic. We will begin some of that restructuring with a proper introduction to gridwork and [Fireball]. We will rebuild you from the ground up. You will learn. Teressa, you seem to have some of the same issues, so you will relearn, too.”
+
+Teressa forced a smile, and pleasant words, “Thank you.”
+
+Tenebrae said to everyone, “We will have a day or two more before we reach the Green Labyrinth, but we will likely have lots of time once we are there, while Erick sees what he needs to see regarding the Gates. These lessons need not end once we arrive, for I suspect we will be fighting off hordes upon hordes of monsters as we race for exits in the Vision, and then we will spend a great deal of time waiting for the Vision to calm down. That is what usually happens.”
+
+A Rocky walked into the room, carrying a wide, thin book. Erick guessed it was barely over a hundred pages long. He set the book beside Tenebrae.
+
+“Ah! Good.” Tenebrae set the book beside Jane. “Mage work for all of you. Only one book, but you can share as needed. It shouldn’t take a half hour to read this whole thing.” And then he spoke to Jane, directly, “Teressa, Poi, and your father have their own paths, so I don’t care if they fail, but if you’re not dedicated to this then I will stop teaching you the second I feel you are not worth my time.”
+
+Jane, wide-eyed and seeming happy, gratefully took the book, saying, “Thank you, archmage. I can learn!”
+
+“Good. See that you do.”
+
+Erick wondered what would have happened if Kiri had been here. Would his apprentice have gone gaga over private lessons with another archmage? Maybe she would have, a little. Jane was certainly happy, and that was both worrying, and wonderful to see. Hopefully Tenebrae’s gridwork would help her more than Erick’s own methodology.
+
+- - - -
+
+After lunch, while Jane sat in a conjured chair in their rooms with the book in her hands, Erick read over her shoulder with an Ophiel. Jane read fast, for much of the book was rather easy to read; it was just a primer. Erick had his turn with the book next, but found that actually reading it himself was mostly unnecessary for he had mostly read it all through Ophiel. Intelligence was a boon that allowed near-perfect recall, and while that disturbed him a bit, he got over it. Teressa got the book next, and then Poi. Poi didn’t seem to need to refer to the book after the first read-through, but Jane and Teressa shared it between the two of them as they worked on their own grids.
+
+Meanwhile, Erick sat in a chair in the courtyard, applying what he had read to lightward gridwork, but not for [Fireball]. He had already moved onto something else. Something more important.
+
+He had never tried to recreate the Basic Particle Spells he had made so long ago, like [Call Lightning] or [Luminous Beam], but they were Basic Spells, and therefore able to be mapped to gridwork.
+
+Theoretically.
+
+Problems arose right away when the idea of gridwork just couldn’t account for the sky-spanning change that [Call Lightning] called forth. The most Erick could grid was the interaction of electrical charge and Force, the most basic Element of mana. (Force was totally an Element. Tenebrae was wrong.)
+
+[Call Lightning] was only truly possible because water still had polarity, and through the power of magic nudging nature just a bit, a mage was able to take the moisture in Super Large Area of air and cause it to coalesce and then rub against each other, stripping electrons, moving them from one side of the cloud to the other, causing that cloud to become polarized. That same magic further allowed the mage to designate a point where a balancing of that gathered electrical charge could occur, causing a lightning bolt to connect most anything to most anything else.
+
+So… The gridwork for such a spell was, at its most basic…
+
+“Water molecules rubbing against one another?” Erick mumbled as he sat in the courtyard, shaping a lightward of gridwork that might have described [Call Lightning], or maybe only a very, very small part of it. “And then there’s a separation of— Oh. No.” Erick wiped away that lightward, and cast a different one. “It’s all about charge generation; yes. Which means…”
+
+He cast for a while, imagining and reimagining [Call Lightning]. After an hour, he still wasn’t quite happy with his gridwork. [Call Lightning]’s existence was easy to understand, as a whole, but hard to put into a box, if only because the actual spell took place over an absolutely massive scale.
+
+And there was something rather… maddening about magic being shoved inside a box, at all.
+
+But gridwork was not about tackling the problem from the end result; Erick had read that, of course, but he had not internalized it until he had tried his own methods for a while. Gridwork was about the initial cast of the spell. What did that look like? What shape did that take?
+
+That initial shaping was just a packet of Intent.
+
+It was a thought that spread out, replicated X number of times.
+
+… Which had interesting implications when one considered the Propagation Ban.
+
+Oh.
+
+Ah. Okay. So that’s how this works.
+
+Erick dismissed the gridwork he had made, and started over, focusing on what was necessary for [Call Lightning]. Primarily, you had water drawn from the air. Then you had wind, or rather, the tumbling of water. So right there, you just had tumbling water out of air. That was easy to do. The next item was charge separation based on that tumbling, with electrons flowing downward through the space. From there, you had target designation.
+
+A three part spell, with a fourth part, which was just ‘repeat this process as far as my 500 mana will go’. The electrons did not move to the bottom of each part of the spell, but instead moved through every single space without stopping at any individual border. In this way, one piece of the spell was replicated over a Super Large Area.
+
+And that limit was only there because 500 mana seemed to be the limit of what a Basic Tier Spell was able to do. That limit had to be there because of the Propagation Ban.
+
+Erick sat upright. He might have just discovered something that other archmages already knew. The Propagation Ban halted the unrestrained repeating of magic, but if your magic had a limit, then the Propagation Ban did not come into effect.
+
+Maybe 500 mana was the ‘natural’, Script-imposed limit to ‘how far’ a Basic spell could go. Erick’s [Call Lightning], and many of his other Basic Spells, were simple replications of natural forces taken as far as they could go. That meant hitting that 500 mana Propagation Limit.
+
+“Huh,” Erick muttered to himself.
+
+Erick continued to refine his idea of [Call Lightning]; to take the mystical and put it into little boxes.
+
+Before he knew it, it was dinner time.
+
+- - - -
+
+Tenebrae sat down at the table, smiling. Before anyone else could speak, he said, “Erick played around with spells that were not [Force Bomb] or Mana Altering to Fire. Jane practiced what I asked her to practice. Teressa and Poi had middling success. Unless you have a good reason, Erick, I will consider your goodwill spent, and I will no longer help you or your daughter with your magic. What say you, in your defense?”
+
+Erick easily answered, “I was working on [Call Lightning]. I think I got it worked out, too. It’s basically Force magic, and it is only tier one, so maybe I could even make a whistle of [Call Lightning]. How cool would that be? And this is the gridwork for how I would do [Fireball].” He held up his hand and cast a grid into the air. “What do you think?”
+
+Erick had only worked for a few minutes on his gridwork for [Fireball], but it was well-made, in his opinion.
+
+[Fireball] was derived from [Force Bomb], which began with a packet of gathering intent in the center of a hundred-by-hundred-by-hundred grid. He could have gone with a 100x100x99 grid, but that type of grid felt unbalanced, for there was no ‘perfect center’ that he wished to gather around. The inner gathering of this gridwork was a small sphere-ish space that served as a separation and a condenser. When the mana for the spell went into the gathering, that separation protected it from randomly exploding until it touched a target, and that gathering membrane was actually broken. There were also some nods toward etherealness that would prevent the gathering from exploding on any random stuff that might get in the way, and other nods toward other effects that Erick wanted to achieve.
+
+A second gathering was attached to the central gathering, on the caster’s side of the [Force Bomb]. This second gathering was shaped like a cone. This second gathering would produce the propulsion effect. The size and shape of the second gathering, and even the shape of the [Force Bomb]s main detonation packet, denoted how the spell would move through the air. Would it wobble, or would it fly true? Erick’s design would likely fly true, due to the stabilization fins and a few other items that he had put into the working, though he would likely have to experiment with some wind tunnels to get the whole thing rather perfect. He was not a rocket scientist. Yet.
+
+This was good enough, for now.
+
+To change the basic [Force Bomb] to [Fireball], all of the designations for Elemental Force had been switched over to Elemental Fire, though, again, there were nods to etherealness here, too.
+
+Erick still wasn’t sure how to manually make Force become Fire, and the book Tenebrae had given them had not said how, but Aura Control was outside of his current skill set, and the Mana Altering Skill took care of that Elemental shift anyway.
+
+Erick had manually cast [Force Bomb] before today. He knew how to flex his lightform in order to cast this spell. But before today, Erick’s manually-cast [Force Bomb] had been a one-off thing, just done in order to complete the Remake Quest, and get that point. But in being forced to put his own manually-cast [Force Bomb] down into a quantifiable imagery, he had identified many minor issues that surely led to a loss of power. From the shape of the charge, to the shape of the propulsion, to the size of the gathering, to the way it cut through the air and could be made to ignore crosswinds; there had been a lot of room for improvement.
+
+He hadn’t actually made his ‘theoretical [Fireball]’ yet, but he was sure that this gridwork version would turn out well.
+
+The question was: Would this [Gridwork Fireball] be as good as a [Sound it out Fireball]?
+
+And would he be able to make both of those theoretical [Fireball]s, or would he have to destroy one in order to make the other? Would a bit of Mana Shaping allow for him to have multiple different [Fireball]s inside his Status, and overcome the Script’s limitations for combining spells? Erick would try that sort of experiment with a different spell. [Ice Ball], or something. He would leave [Fireball] for Tenebrae to ‘help’ him with.
+
+Tenebrae’s eyes darted across Erick’s gridwork, his expression turning from ‘smug bully’ to ‘relaxed teacher’ in a matter of moments. He even managed a small smile. But then he realized he had smiled, and discarded that obvious show of emotion. He pretended reluctance, saying, “Passable.”
+
+Erick nodded. “Thank you.”
+
+Tenebrae turned to Jane. He waited.
+
+She cast a grid into the air. It was a good grid! Looked fine to Erick. Jane looked ashamed, though.
+
+Tenebrae said, “Good gridwork. We can work on visualization and actualization after we eat.” He looked to Teressa, and Poi, sitting on the other side of the table from Erick and Jane. “And?”
+
+Teressa produced a passable grid that might have been better than Jane’s, but Erick would never voice that aloud. From what Erick had read, Teressa’s gridwork was pretty much a basic [Force Ball] but switched to Fire. Poi did the exact same thing, except for Elemental Ice.
+
+Jane steeled herself, and did not slink into her chair, though Erick could tell she wanted to.
+
+Tenebrae just smiled. “Good work, everyone.” And then he breathed in the smell of the dinner sitting before him, underneath [Heat Ward]s. “Good cooking, Palodia! Thank you!”
+
+It was some sort of eel, wrapped like an ouroboros and stuffed with breading and sausage, sitting on a bed of rice. Everyone got one ‘eel donut’ except for Teressa. Teressa got three.
+
+Palodia called out from the kitchen, “I don’t appreciate you putting my food under [Heat Ward]s!”
+
+Tenebrae said, “Let us eat,” then he canceled the [Heat Ward]s over all the food, and dug in.
+
+Teressa smiled as the subject turned away from magic, and followed the old archmage’s lead. Poi was right behind her. Neither of them had qualms about eels, and even Jane seemed interested in the food sitting before them. Erick, however, had been trying to avoid eating, once he saw what was for dinner.
+
+It was… good.
+
+Erick had the stuffing, the rice, and only some of the eel. And then he had the rest of the eel. It was quite good, actually. Dessert was more chocolate cake, and that was wonderful. Palodia really knew how to cook!
+
+- - - -
+
+To the west, the sun set over the darkened, endless Forest. To the east, the sky was already purple with night and stars. Below, the shadowed Forest flowed away as Tenebrae’s Castle flew north west, at a slightly slower speed than they had been flying at the start of their journey. They had to go slower, after all.
+
+Four times today, Tenebrae’s Stone Men had needed to adjust course and speed when monsters had flown up from the Forest, trying to attack. Those four times, Rockys had taken their places on the battlements and cast siege magics at a flying tangle of gore-ridden wyrms, then at a flying Forest Hydra the next time, then at some ghost-like things of which no one knew about and which didn’t actually die (no notification boxes), and then, finally, to beat back another tangle of wyrms.
+
+During the day, and for the most part, the Rockys remained on high alert on the battlements as the Castle flew, while Erick, Jane, Poi, and Teressa, had busied themselves with gridwork, down in the courtyard, and elsewhere.
+
+Now, at sunset, Erick, Jane, Poi, Teressa, and Tenebrae, stood on the southern wall, overseeing the darkened Forest below, as it flowed away under the flying castle.
+
+Teressa went first.
+
+She pointed. She cast. A brilliant sparkle of grey magic flew out of her hand. It touched the [Air Shield] a good thirty meters away and detonated in a conflagration of grey-tinted fire that was quickly washed away by the tearing winds just beyond. She read the air, and startled. “Huh. It’s never been that good before.”
+
+Tenebrae happily demanded, “Let us see!”
+
+Teressa handed out her box for [Fireball].
+
+Fireball, instant, long range, 75 MP
+
+Launch a quick ball of fire that explodes on contact, damaging a medium area for 50 + 2x WIL and igniting everything touched, dealing WIL damage per second for 10 seconds.
+
+Erick read, and smiled.
+
+Tenebrae clapped. “A perfectly made [Fireball]! Very standard. Well made. Good job, Teressa. You need not destroy that one unless you wish to do so.”
+
+“Uh. Thanks?” Teressa seemed to have a hard time processing what she had just done, but she put on a smile, and repeated, “Thank you.” She stepped away from the forward position, to stand back in line with everyone, as she mumbled, “It’s never been that easy.”
+
+Tenebrae said, “Gridwork is a fantastic tool for sympathy and visualization. For those who have always had trouble with magic and who might not want to venture past tier 3, gridwork is one of the best tools in a person’s arsenal.” He turned to Poi. “Next.”
+
+Poi already had [Fireball]; he had displayed as much to Erick just the other day. He stepped forward, pointed, and cast. A speck of sapphire-blue light arced forward and detonated against the [Air Shield], briefly flashing brilliant blue light, and then it was gone. Poi frowned just a little as he read the air, then he turned and handed out his new spell.
+
+Frost Bomb, instant, long range, 83 MP
+
+Launch a quick ball of ice that explodes on contact, damaging and chilling everything in a medium area for 65 + 2x WIL. Entities near the center are chilled more.
+
+Poi silently retook his place.
+
+Tenebrae said, “Decent. You could remake that one, if you wished. ‘Chill’ is not as good as ‘Slow’. ‘Chill’ is what one might experience if they were dunked into glacier water without preparation. ‘Slow’ is an Elemental Effect which lingers, which directly affects a person’s thoughts and actions. As a positive: you got the ‘Quick’ and a decently sized area. Ice tends to have smaller areas than other elements, but you have not experienced this problem.”
+
+Poi said, “Thank you, Archmage.”
+
+“That said.” Tenebrae asked, “What does your [Fireball] look like?”
+
+Poi winced, then handed out a second spell box.
+
+Fireball, instant, long range, 95 MP
+
+Launch a quick ball of fire that explodes on contact, damaging a medium area for 50 + WIL and igniting everything touched, dealing WIL damage per second for 15 seconds.
+
+Tenebrae announced, “Just shy of acceptable. You should remake that. The longer duration is commendable, but you might as well go for the whole conversion. 30 seconds of conflagration for 2 times Willpower, or, 20 seconds of 2 times Willpower and a large area; these are the numbers you should strive for.”
+
+“Understood and appreciated, Archmage,” Poi said.
+
+Tenebrae nodded. He looked to Jane. “You’re up.”
+
+Jane breathed in, then out. She hardened her eyes and her expression, then stepped forward, lifted her arm, and cast. A dark sparkle of deep blue light shot forward to detonate against the [Air Shield]. Midnight-blue fires expanded then fell through the [Air Shield], to vanish.
+
+She held her breath as she read the air. Erick held his breath, too.
+
+Jane’s face broke into a wonderful smile. She laughed, and Erick’s heart flip-flopped to see her happy. She wiped away tears then bowed to Tenebrae, saying, “Thank you.” She stood and handed out blue boxes, then took her place back in the line, right beside Erick. She grabbed his hand to hold it; he squeezed back.
+
+Erick was proud of her; he always had been. But he felt a new swell of emotion as he read her new spell.
+
+Fireball, instant, long range, 66 MP
+
+Launch a quick ball of fire that explodes on contact, damaging a medium area for 50 + 2x WIL and igniting everything touched, dealing WIL damage per second for 10 seconds.
+
+“Well made, Jane,” Erick said.
+
+Tenebrae nodded, then declared, “An excellent [Fireball]! I can see that you have taken the lessons of gridwork to heart. You have even managed to create something that is below the expected costs for such a working, showing that you are focused on efficiency, which is a different way to do well in the further tiers. Well done.” He turned to Erick. “Your turn.”
+
+Erick let go of Jane’s hand. She patted him on the back as he stepped forward just two steps.
+
+He pointed. He cast.
+
+A lightning-fast speck of twisting, flaming white light flashed through the air, slipped through [Air Shield] thirty meters away, and kept on going. And going. And going. In a perfectly straight line, uncaring for the wind or anything else—
+
+It exploded when it passed double ‘long range’; maybe 250 meters. From that distance, the explosion wasn’t very impressive. It looked somewhat like an expanding flower. But then the ‘petals’ of that expanding flower fell, like a falling firework, spreading out as they descended, giving the whole spell the look of a weeping willow tree. It was exactly what Erick was going for. He had even packed the gridwork for the spell with what he recalled of firework preparation, which was a rather odd thing to pop in to his mind when he was making his [Fireball], but it was appropriate, so he went with it. He wanted the end result to leave flaming fire everywhere on every surface, anyway. But maybe he needed more duration and less initial blast. From what he was seeing, most of the falling fire from this [Fireball] probably wouldn’t do anything at all since it was falling so slowly—
+
+A blue box appeared.
+
+Erick reconsidered his idea that this falling fire ‘wouldn’t do anything at all’. With a duration that long, some of those petals would surely reach the Forest below.
+
+Fireball, instant, long range, 100 MP
+
+Launch a super quick ethereal missile of fire that explodes on contact or at the end of its path, creating a large tumult of cloying fire. Deals WIL damage then ignites everything touched, dealing 3x WIL damage per second for 25 seconds.
+
+He handed out the box.
+
+Jane gave a quick laugh, while Teressa smirked, and Poi just nodded. Tenebrae snatched the spell, read it, then dismissed it. Erick waited. Everyone waited.
+
+“I expected failure, but I got success. I would have been happy either way, but in this way…” Tenebrae declared, “I will gloat even more! Ha! My methods have a hundred percent success rate! Yours has a success rate of… What? One success, one half-success, and one failure; You, your apprentice, and your daughter. I have won this contest, and I can only hope you have seen the error of your ways. Do not teach your methods to other people. They are flawed.” He stared at Erick, almost imperiously, demanding, “What say you against proof of my competency and your inadequacy? What defense do you have against the truth of proper magic!”
+
+Erick did not smile. That would set Tenebrae off, for sure. But he was happy and it was hard to keep his joy off of his face. He said, “Thank you, very, very much, for helping my daughter, and to do what I could not. My methods are flawed. They don’t work for everyone. But not everyone learns the same, and my methods work very well for me. If you don’t mind, I will be sharing this ‘gridwork’ with others, as I see fit, and I will credit you each time. My apprentice will especially enjoy this.”
+
+Tenebrae stared down his nose at Erick. “It is only gridwork. This is… Acceptable.”
+
+“Thank you again, Tenebrae.” Erick nodded, half-bowing, saying, “Archmage.”
+
+Tenebrae seemed to accept the deference. A whisper of a smirk appeared on his face, and then vanished, as he said, “You should work that [Fireball] into a [Grand Fireball]. It is decent enough for such an upgrade. Your daughter’s [Fireball] is not there yet, but a few dozen more tries at efficiency and she will get there, too. With this method of gridwork, anyone can learn basic magic. It’s not hard, once you have the proper teaching.” He added, “And it’s not my invention. I will not take credit for this. Do not tell people that I created it.”
+
+Erick couldn’t stop himself from smiling at that. He said, “Now, I just need to learn what it takes to make a [Grand Fireball]! I’m guessing it’s just a Mana Shaping for 500, and the replication of the original spell for that 500 more mana?”
+
+“… Try it and find out. It’s only a tenday wait if you’re wrong.” Tenebrae turned, saying, “I will have questions for you on the morrow. You and I will have a private breakfast. Expect ten questions… Maybe a few more than that.”
+
+“See you tomorrow,” Erick called to him.
+
+Tenebrae disappeared down a trapdoor in the battlements that Erick had not noticed before it was there, and the archmage was gone from sight. The stone swung back into place and sealed with seamless magic, leaving the four of them mostly alone on the battlements, except for a few Rockys in their watchtowers to the left and the right.
+
+Jane instantly hugged her dad, tight. He hugged her back. She laughed, then broke away.
+
+Teressa chuckled. “[Fireball] has never been that easy.”
+
+“Not for me either!” Jane practically shouted, “That was amazing! Kiri eat your heart out!”
+
+Erick laughed, then playfully chided, “Ohhh! I’ll tell her about all of this soon enough.”
+
+“I’m still gonna enjoy the moment.” Jane smiled, relaxing a bit, as she echoed Teressa’s words, “[Fireball] has never been easy. But that was easy!”
+
+Teressa laughed again. “Easy!”
+
+“Easy!” Jane shouted to the sky.
+
+Poi cracked a smile. Erick did, too.
+
+Jane started rushing down the stairs, into the courtyard, saying, “I brought a bottle of rum! Let’s open it!”
+
+- - - -
+
+Erick sat across from Tenebrae in a nice little room off of the side of a tower, where breakfast breads and teas awaited on a small cart to the side. A large arc of the stone walls to the left were enchanted to be as transparent as glass. The Forest whipped by, from left to right, as the sun rose on the right.
+
+They were headed west, instead of north. They had switched directions in the middle of the night.
+
+Tenebrae had called Erick here a little after sunrise. So far, all Erick had done was to greet the older archmage, and for Tenebrae to hum an unintelligible greeting. The older archmage had yet to say anything of substance. He just sat there in his chair, seeming at a loss for words, or planning something, or… something else. After moments of just sitting there, obviously thinking of how he wanted to start, Tenebrae decided to start in on breakfast. Erick wordlessly picked up his own tarrinol roll, which was almost like a cinnamon roll. Erick preferred cinnamon, but he had invented cinnamon himself and it had yet to make any real waves to go very far. Apogee, the former Wayfarer Guildmaster of Spur, seemed to like the cinnamon, but other than him? Nothing.
+
+These tarrinol rolls had a rather thick sugar frosting, though, so they were pretty great.
+
+Ophiels were already scattered around both Erick, and his people, and he saw nothing too untoward, but this silence was… worrying.
+
+Erick tried to break the silence with, “I see we shifted course in the middle of the night. Trying to outrun the sun?”
+
+Tenebrae’s knife and fork halted in the middle of cutting up his tarrinol roll.
+
+Erick continued, “Or were we just avoiding the Blood Valleys?”
+
+A moment of silence turned into a minute. Erick got through a roll. Tenebrae started on his second.
+
+Erick tried, “Any other places we’re avoiding?”
+
+“… There are a few places in the Forest that require avoidance, no matter how powerful one is, if only to protect those who have come along for the ride. The Blood Valleys are one such place.”
+
+Erick was happy for the engagement, but he kept his voice even as he said, “I noticed the danger of the Blood Valleys when we culled those Reachers and Shrooms. Luckily, there were only a few of them in there. Took my apprentice four times to get in there and complete those hunts.”
+
+“Hmm.”
+
+Tenebrae ate a bite of his roll.
+
+Erick had a bite of his own, and then took a sip of tea. He said, “Great tea and rolls. Palodia is a great cook.”
+
+“She is one of the best.” Tenebrae said, “Hired her sixty years ago and though she’s come and gone a few times, she’s here, now.” His voice turned harder. “I would protect her with my life.”
+
+Erick set down his fork. It seemed they were finally getting into the discussion that Tenebrae wanted to have.
+
+Tenebrae set down his own fork, then said, “You should stop teaching your methods to others. Emotional magic is dangerous if only for the fact that it is rooted in force of personality, and not in actual magical theory. Your ideologies are what various accidental archmages the world over have been allowing into popular consciousness, and they are dangerous. Century after century, these ideas poison the well of true magic. Your guard, Teressa, is the most common reaction to that poisoning. An excellent mana sense, but she abandoned the idea of pursuing magic long ago, and opted to become a warrior. Your daughter is another. Popular magical ideas and your own ease of becoming an archmage have stunted her growth. I have proven that there is no one that is truly incapable of learning magic, and that your methods are dangerous. What say you against these accusations?”
+
+Erick said, “I say that you’re somewhat right. I will stop teaching some of my ideas to others. But you’re also wrong because magic is possibility, and possibilities allow for my methods to work, as well. This gridwork is wonderful, but in the end, it is just another tool for visualization; to evoke a sympathy from the manasphere. Gridwork’s main boon is that it allows someone to put their spellwork into ink, so that the maker can see the problems they might have made for themselves, and also so that others may see that work and assist with problems that the caster cannot see themselves. My methods have none of that capability.” He added, “Yet.”
+
+Tenebrae regarded Erick. “… Yet?”
+
+Erick said, “Ask your questions, if you wish. We will probably go over some of what my ‘Yet’ means if you ask the right ones.”
+
+“Very well. Then my first question is for you to elaborate what you mean by ‘Yet’.”
+
+Erick chuckled. Then he said, “Sound exists in waves, like the surface of the ocean, where densities of particles correspond to peaks and troughs. Do you know of sound waves?”
+
+“… Not like you do.”
+
+“No one does. Just like no one knew of particles, not really.”
+
+Tenebrae said, “You are too full of yourself. Alchemists have been working with the physical world for a millennium before you came along.”
+
+“Even the alchemists and metallurgists just knew enough to get by in their jobs and to establish some rudimentary formulation and chemistry. None of them knew what they were doing aside from that it worked, or else they did know what they were doing, and they hid that knowledge from the world. None of them made magic or shared their notes with each other. Not like I did. I came along, and with a few small lectures, changed the world.” Erick said, “False modesty does neither of us favors.”
+
+Tenebrae frowned, but he was emotionally on the edge of his seat. Erick could tell. He could tell a lot about the people around him, all the time, these days. Mostly, he edited the awful thoughts that occasionally bubbled up in his brain, like how Teressa was on the edge of leaving their little group, but she felt obligated to stay. Or how Jane resented him, and couldn’t bring herself to actually say or do anything that would give away those inner thoughts. Silverite was worried about needing to kill him, if he turned ‘evil’. The people of Candlepoint wondered if they were getting ready for war against the world, with Erick leading the way. Kiri blamed Erick for her current troubles and triumphs, and she, too, wanted him to go away, to leave her to her own devices and power, though she, too, would never have said those things. She was happy in Spur, though; Erick had checked.
+
+Poi was the only one who wasn’t an open book, and that was nice, but Erick wondered how much of that was Poi, himself, or due to Poi’s magic allowing him to mentally edit himself. Such a thing was surely possible, right? Soul editing existed. Therefore mind editing must exist, too.
+
+… Blood editing existed, as well. The practice wasn’t very popular in Spur, but in other parts of the world, people edited their bodies all the time. Or, at least, that’s what Erick heard. He wasn’t too sure where ‘other parts of the world’ existed.
+
+But anyway.
+
+And then there was Tenebrae, sitting right in front of him. Sometimes, he was as easy to read as the words on a page. Tenebrae was obviously suffering from some deep, untreated trauma, which likely had to do with a dead family. Erick guessed that they had all died long ago, each to horrible circumstances.
+
+Normally, Erick shut off that cynical part of himself, that had recently grown so large with the introduction of Intelligence. But now, he let that part of himself out to play, to make sure that he wasn’t being played, himself.
+
+From what he had seen, he was pretty sure that Tenebrae was a rather good man.
+
+But still...
+
+“Please do not pretend that I am not divulging huge ideas to you right now.” Erick said, “Elaborating on what I mean by ‘yet’ is massive. Do not do both of us a disservice and pretend otherwise.”
+
+“… We shall see.”
+
+“Fair enough.” Erick explained, “Sound is a wave. It is a density of energy that propagates through a medium. This world has tuning forks—” Erick grabbed an extra fork from the side, then lifted it up. With little effort, [Metalshape] turned the two-pronged utensil into a two-pronged musical tuner. “Like this one.”
+
+Tenebrae said, “I have an entire set of those. You needn’t have ruined my silver.”
+
+“It is hardly ruined. I’ll repair it when I’m done.” Erick tapped the tuning fork against the stone breakfast table. It vibrated with a rather normal sound. “I think I’ve tuned this one correctly to 440 waves per second, also known as 440 hertz. That is just a measurement, though; it doesn’t matter. What matters is that this little bit of metal will send out pressure waves in the air, at 440 waves per second. Longitudinal waves, to be precise. Those are compression waves; compression on particles, mind you. Transverse waves are the other type of waves.” Erick did not elaborate on those types. He did, however, cast a moving lightward into the air, showing a moving sinusoidal wave against a graph-paper-like background. “This is a representation of a soundwave, and unless my time in Oceanside was complete misdirection, then I know you have never seen this before.”
+
+Tenebrae narrowed his eyes, and slowly nodded.
+
+“Sound is characterized by a few things.” Erick pointed, as he continued, “In no particular order, you have:
+
+“The speed of the sound, which is an intrinsic property of the material that the sound travels through. Sound travels faster through metal than through air, for example, because metal is denser than air; the particles are closer together, which is what makes a thing ‘dense’. Incidentally, the speed of sound in air is around 343 meters per second; though I have not taken that measurement on Veird, this is mostly what it was back home, at sea-level, and it seems to be the same here on Veird. On Veird, even way up in the sky, it might still be 343 meters per second. This is due to the Script mostly ‘evening out’ pressure throughout all of Veird.
+
+“Anyway.
+
+“The first characteristic of sound is frequency, which is the number of compression points in a given amount of time. High pitched voices have higher frequency. Low-pitched voices have lower frequency. There are points beyond high and low that are above or below a person’s ability to hear.
+
+“Second, you have the intensity of sound, which is the power of that sound. This is the amplitude, or how tall the crests are. Louder sounds have higher intensity, and softer sounds have lower intensity.
+
+“That’s all there really is to understanding how sound exists and functions. Except, I suppose, to understand that sound radiates out from where it was made in a spherical pattern, and with distance from the source, the intensity will naturally decrease as the sound expends its energy to move through its medium.
+
+“As for why I imagine that my methods don’t work as well as yours, is that I don’t know how to let other people hear the magic as I hear the magic. Kiri barely hears what I hear. Jane even less so. I am almost a hundred percent sure that mana can vibrate with the soul, and hearing those sounds is not as simple as listening to the vibrations that channeled mana makes upon the air, which then vibrate a person’s ear drums.” Erick said, “But! I am sure that some machine, some day, will be able to understand mana and magic perfectly, and after hearing a spell, that machine will be able to copy what it hears, and thus be able to recast the spell that it heard by recreating those sounds, and eliciting a resonance with the magic that is already out there.”
+
+Erick stopped talking. He had given away more than enough hints and truths.
+
+He repaired the tuning fork back into a real fork. He dismissed the lightward that described wavelengths.
+
+Tenebrae sat back in his chair, eyeing Erick, but also thinking, deeply.
+
+Erick sipped his tea.
+
+Tenebrae eventually said, “I was taught that sound was an aspect of Force. I was taught that Force was the base nature of reality, and that the physical detritus that composed this physical world was a necessity of the transition to this New Cosmology.” He said, “I understand, now, why you think that Force is an Element. To me, Force is just the real nature of reality which we can only experience as temporary and personal Reality. To me, you must Mana Alter Force in order to get Sound, which is what the soul hears through the physical medium of the various parts of the ear. To me, Sound is derived from Thunder which is right next to Lightning, which is an offshoot of Air and Light. It has nothing to do with ‘frequency’ or ‘particle density’… Can you prove what you say?”
+
+“I can make a Particle Spell with the theory I just spouted; sure.” Erick said, “I already have, actually. Here.” He passed over the box for [Stillness].
+
+Stillness X, instant, super long range, 250 mana.
+
+Dampen all ambient physical damage in a super large area, turning that damage into light. Lasts 1 hour.
+
+Erick said, “It used to say ‘Drop all <sound> to the level of a <speaking voice> in a super large area for 1 hour.’ But that was before Rozeta added Particle Magic to the Open Script.”
+
+Tenebrae read, then postulated, “An application of the transformation of one element into another, or, in this case, the transformation of sound ‘intensity’ into Light. Perhaps?”
+
+“Something like that.”
+
+“… I see. I also see that these ‘waves’ are easily a form of maths. But you don’t like maths. What is going on there?”
+
+“Uh.” Erick stumbled a bit, then said, “I mean… I guess. Yeah. They’re math. Not like your magic math, though. I don’t know how to translate those two systems into a working whole.”
+
+“Hmm.”
+
+After a moment, Tenebrae stood up, saying, “You have discharged your debt to me.”
+
+Erick stood up, and nodded. “I hope you use this information well.”
+
+“Perhaps. I won’t be sharing it with anyone, if that’s what you’re worried about.”
+
+“I admit, that was a small worry, but it is good to know that we can trust each other with secrets.”
+
+“Hmm. Quite.” Tenebrae said, “I don’t need to see you make another spell. I have seen enough. Prepare yourself for entry into the Green Labyrinth. We will be there in a few hours.”
+
+“We’re ready.” Erick said, “Thank you again for helping my daughter with her spellwork.”
+
+Tenebrae paused, then said, “She seems like a capable young woman, but she needs to develop proper aura control if she is to fully utilize her Prismatic Class. I have no idea how to help you with yours, but I suggest the same to you. All proper mages need proper aura control.”
+
+“I’ve been working on it, though I do admit that aura control has dropped rather low on my current list of necessary goals.”
+
+Tenebrae nodded, then walked off, saying, “I remember when I was like that.”

@@ -176,3 +176,240 @@ With a slight joy in her eyes, Syllea said, “Wind.”
 
 Syllea paused, a smirk on her face. After a moment of thinking, she asked, “What if I told you that you can make painless Decay magic?”
 
+“… I am intrigued. But it’s too slow, isn’t it?”
+
+“Yes. Decay is slow. But a well made Merciful Decay would be a ‘container’ spell; something you cast on someone in order to keep them down.” Syllea said, “Most mid-range mages have a handful of spells that they use all the time; somewhere between four to ten. Not counting all the utility spells, of course. We can make three spells today, or maybe just get started on them. First, you need to be able to use Mercy… Which is a problem for some, but likely not for you. Now…” Slightly intrigued, but withholding judgment, Syllea held out a hand, palm up, and said, “I’ve heard that you can hear the mana?”
+
+A prominence of thick air, like a mirage, bent the light around Syllea’s hand as the sound of reaching out and touching the world combined with some other, subdued sound. Erick readily identified [Force Bolt]. The second part must have been Mana Altering for Mercy. It was kinda hard to understand, but it was definitely the sound of something held back.
+
+Erick said, “I hear [Force Bolt] and Mercy, I’m guessing. Never played around with Mercy before. I have read about it in that book you told me to get. Esoteric Elements. That’s a good book, by the way. Really helped me along in more than a few ways.” While he spoke, he had the Ophiel on his shoulder listen, tease out the [Force Bolt] from Syllea’s mana, and focus on the other sound present.
+
+Soon, Ophiel sang a song of restraint; muted, and yet full, like background noise turned into a flat surface. Like the stripping of defenses, and a laying low of the opposition. A knife that would never fall all the way. Erick had not heard the full sound of Mercy at first, but he did once Ophiel had sussed it out from the whole.
+
+Erick continued, “And Ophiel helps me with the more difficult sounds.”
+
+Ophiel stopped singing Mercy, and instead trilled in violins.
+
+Syllea smiled. She lifted her left hand toward the center of the open space. A burst of mana conjured a block of crystal from the ground that quickly grew to the size of an orcol. She said, “There’s a target.”
+
+Erick combined Ophiel’s song with his own power, and cast.
+
+A bolt of gold-flecked white slammed into the crystal. A blue box appeared.
+
+Mercy Bolt, instant, long range, 10 mana.
+
+A bolt of mercy inexorably strikes a target for 15 + WIL.
+
+Erick frowned a little.
+
+Syllea said, “That one looked good. What were the numbers?”
+
+Erick showed her the box, saying, “Mercy element. Inexorable. 15 plus Willpower.”
+
+Syllea read the box, her eyes briefly going wide before she settled with a slight smile on her lips. She said, “That’s pretty great for your first time.” A bit more serious, she asked, “Do you have experience with Ethereal? And Blood Magic, for the multi-Variable costs?”
+
+And there was the source of Erick’s current frown. “I do have experience with those.” He said, “I was trying all of that… But… I only got inexorable.”
+
+“I do have [True Sight], Erick. Don’t worry too much about getting any of this all right now.” With kindness, Syllea said, “That you were able to do this much with the current damage to your soul shows a lot of talent and skill. Just don’t try for anything beyond tier two until your soul is better.”
+
+Erick looked away as he felt a flush of something nice inside of his chest. Syllea was a great person. This was why she was the ‘darling of the Wyrmrest Tribe’, as Teressa had once called her. Syllea was actually 45, though, which was pretty close to his own 48. Erick had found that out when—
+
+Erick banished those thoughts, and said, “It is true that I don’t feel so great, but I don’t need strict bed rest yet. Thank you for your concern, though. But back to the magic:” He asked, “[True Sight]?”
+
+Syllea rattled off, “[Witness], [Blood Sight], [Soul Sight], [Mana Sight], and [Future Sight]. You can achieve all of those through accomplishments with mana sense and various personal shifts in perception. All of those are base tier spells you have to buy. You have to buy [True Sight], too. Can’t make any of those yourself, or Remake Quest them —I’ve tried— so I hope you have points saved up.”
+
+“I do.” Erick said, “I just need to work on [Witness] and [Future Sight], then.”
+
+“Good.” Syllea said, “I almost fucked myself out of that one, but eventually Bayth and I and a few others managed to secure some high-level kills inside a particularly nasty Twisted Vision of the Forest. [True Sight] was my goal with those latest levels, and that cost has never been better spent.”
+
+“What is a Twisted Vision of the Forest? I’ve heard that twice now.”
+
+“They’re high-level monsters that are more environmental hazards than actual monsters, but make no mistake; they’re one of the most deadly things in the Forest. Twisted Visions cultivate monsters like the Arbors cultivate civilization.” Syllea said, “We’ll probably see at least one when we go out into the Forest to find Gates. You’ll know one of them is near when you see a bunch of the exact same monster. And I mean exact.”
+
+“… Oh. That doesn’t sound good.”
+
+“They never are. You’ll find Twisted Visions in Deep Forests all over Veird, but the ones up here like to take in wyrms and spawn hundreds of copies. I usually deal with about three wyrm-spawners every year.”
+
+And that was another topic that Erick wanted to broach with another archmage, and Syllea was right here. So.
+
+Erick asked, “How valid and good would it be to cast rolling monster-killing spells? Super large? Wipes out a good ten-kilometers of monsters as it lasts hours, or more? Covers thousands of kilometers before it ends?” He clarified, “I mean: Why don’t more archmages do this? Or— Why don’t we all do more of this?” He added, “I really wanted to ask this of a Poison Archmage down in the Wasteland about organizing widespread monster kills when I saw her during the clearing of the mimics out of the Wasteland, but she didn’t seem to want to talk. I think her name was Orenza. She had this Decay magic that covered a diameter of at least 25 kilometers.” Erick said, “Her and Peatrice Shallowhammer, their Stone Archmage, would be a great addition to any plan to clear the Crystal Forest of Crystal Mimics. You said you wanted to talk about that, back at Oceanside, right?”
+
+“Orenza is about as caustic as her magic, so that doesn’t surprise me.” Syllea frowned a little, and said, “When I was younger, I, too, wished to be able to unleash my monster-only variant [Starlight Fall] upon the lands outside of Treehome. To clear out hundreds of kilometers of land. To free us of the monsters. But every time we do that, it means that the others who live here will never grow stronger. They will never know of the actual dangers out there in the Forest.” She stated, “And we orcols are a people who cannot afford to grow complacent.”
+
+“Fair enough. But… Not everyone is an orcol. Not everyone can regrow their heads.”
+
+Syllea said, “They do widespread monster control in the Greensoil Republic. The archmages there— They’re not real archmages. Every single one of them purchases their way to that rank. Anyway. The archmages there all have [Weaken Monsters]. It’s a massive spell of suppression, turning every monster in a hundred square kilometers into something weaker than it was before.” She said, “All this does is ensure that their people never know personal strength.”
+
+Erick was getting real close to saying that Syllea’s words sounds strangely close to Melemizargo’s. But that would be extremely rude. So he said, “But this wouldn’t be weakening the monsters and allowing them to go berserk when the spell lapses. I mean actually killing them.”
+
+“Same problems. One day, you won’t be around, Erick.” Syllea said, “And the exact same thing will happen on those days that you’re not there to support your people, that happens in the Greensoil Republic when [Weaken Monsters] lapses, and a monster goes berserk and kills a dozen people before it’s stopped— By yet another person who actually fights the monsters, I might add. The farmers and the merchants of that place know nothing of monsters, and it shows in their dependency on [Weaken Monsters].”
+
+“… That’s fair, too.”
+
+Syllea said, “But with all that said, the Crystal Forest is a blight upon the world that needs to eventually be culled and reseeded with actual green growth. I have absolutely nothing against rolling magics through that land, killing everything that lives, and then reseeding the whole place afterward.” She added, “And now that the Shades are dead, maybe we could look into that decade-long plan.”
+
+Erick’s face broke into a wide smile. “Sounds good to me.”
+
+And then another thought occurred. Would turning the Crystal Forest into a real forest be a good thing, if it became a forest like the Forest surrounding Treehome?
+
+It was something to think about, anyway.
+
+“Anyway!” Syllea said, “I think you should try for some Air-based workings. Here are some spells I’ve already made, that you might like to make yourself.” She popped out a few boxes.
+
+Wind Cutter, instant, medium range, 10 mana
+
+Ten wide bands of sharp wind slice forward, each dealing 25 + WIL
+
+May cause suffocation.
+
+Air Decay, instant, medium range, 50 mana
+
+The air around a medium-sized target begins to rot, dealing WIL per second.
+
+High chance to suffocate the target.
+
+Triple Air Bomb, instant, long range, 150 mana
+
+Launch a quick ball of air that explodes on contact, dealing 50 + 2x WIL damage in a medium area, and then again, and again.
+
+May cause suffocation.
+
+Syllea popped out a few more blue boxes, saying, “And here’s some more ideas.”
+
+Merciful Purge, instant, medium range, 500 mana
+
+Inflict ongoing 5x WIL False Damage to a medium-sized target. Lasts 1 minute.
+
+Merciful Ooze, instant, medium range, 50 mana
+
+Summon a Merciful Ooze under your command that will trap and stifle a target, dealing False Damage for 1 minute.
+
+Merciful Ooze Mothertree, instant, long range, 2500 mana
+
+Summon an ethereal Merciful Ooze Mothertree under your control. The Mothertree constantly and consistently spawns and shoots inexorable Merciful Oozes at designated targets. Lasts 1 minute.
+
+Attacks which destroy the Mothertree will release all Merciful Oozes at once.
+
+Erick read those boxes, and saw a few good ways to proceed.
+
+“This [Merciful Purge] is nice.” He said, “[Merciful Ooze Mothertree] seems pretty amazing, too.”
+
+“The first is a [Force Bolt] strung through Blood Magic for the multiplier and then switched over to Mercy. Blood and Mercy are closely related, so this works rather well, but maybe don’t try that one till your soul heals.” Syllea said, “I mostly use [Merciful Ooze] when I need to subjugate a lot of people. Haven’t killed someone with that one, yet! The base spell is [Force Bolt] then Mana Altered for Ooze and Mercy. To get the Mothertree, you have to Alter again for Tree. You can throw in some Blood Magic, too, if you want higher multipliers on that one, but I found that high multipliers on Oozes tend to be too deadly to use for subjugation.” She stressed, “But while Mercy is good for not-killing people, if you use it against monsters you’re asking for a bad time. Monsters don’t really care about Health, headaches make them mad, and monsters like wyrms will not even care at all about your Mercy.”
+
+“I have a question about suffocation.” Erick asked, “Is that as deadly as I think it is?”
+
+“Suffocation is the weaker version of asphyxiation.” Syllea said, “Certain spells have a way of getting into the body more than others. Air is one of these. Most living things breathe the same way, via sacs of blood in the lungs, and when you use Air spells you have a tendency to rip up those tender sacs inside the lungs. Suffocation is one of the ways Elemental damage can get through the natural shielding of Health and Shield, but it's a very superficial thing. Like how cold slows, and lightning paralyzes. In the case of Air Magic, we’re talking about how pressure waves propagate around corners.
+
+“The only time you’re going to actually kill a person with low-grade Air magic is when they take your spell head-on, breathing in the whole time.” She added, “Birds and other hardy beasts also aren’t affected much by Air Magic’s generalized ‘chance to suffocate’. Mostly, an Air spell will just inflict a bit of extra damage and stagger a person when they realize they can’t breathe, but it usually goes away based on the duration of the spell.” She hastily added, “All of this only works against stuff that breathes based on lung physiology, anyway.”
+
+Erick frowned a little at the viciousness of suffocating someone with a spell. But this was life on Veird, wasn’t it?
+
+And yet… There was still something distasteful about denying something the ability to breathe. Sure, Erick had killed monsters by ripping out all their water, or frying them, or blasting them, but to make them suffocate? To make them suffer?
+
+No.
+
+Or maybe… He could at least try it out on some monsters, right?
+
+And that gave him another idea.
+
+“What about poison that puts things to sleep?”
+
+“Alchemy can do this…” Syllea said, “I don’t do alchemy. Or much Decay magic, for that matter. Those two go hand-in-hand quite often. Here’s your problem with a [Sleepy Cloud]— It wouldn’t be called that, since you aren’t using the [Sleep] spell, for without using the [Sleep] spell, you’d have to make a different magic for different people. There’s flowers in Nelboor, Wild Calm Roses, that puts orcols to sleep, but does nothing against anyone else. There’s calming tea made from Townhouse Tree roots that knocks out humans, but does nothing to anyone else. This is the problem with weaponizing sleeping poison; it might not work on the person you’re using it against.”
+
+Erick considered generalized anesthesia, and filed that idea away under ‘possible Particle Magic’. Syllea wasn’t well versed in alchemy, so maybe she just didn’t know? That was possible. It was also possible that anesthesia just didn’t work on Veird how he thought it could work.
+
+… He could still try to make Diethyl Ether, anyway.
+
+What was that again? Ah! Right! (C2 H5)2 O.
+
+Ohh. Intelligence was kinda scary. When did he even read about that? Huh.
+
+Syllea raised an eyebrow at Erick’s trailing words. “Are you thinking of manually putting the brain into a sleep-state?”
+
+Well now he was. “I am.” But where to even begin? There was the hypothalamus and the pineal gland that controlled melatonin… Which was another thing Erick could see about recreating with Particle Magic. But as for controlling the brain directly? Erick decided, “I don’t know enough to mess with that and I’m not willing to experiment.”
+
+Syllea smiled. “I would have been surprised if you did. I’ve read old books about people committing atrocities in order to create spells like [Induce Rest] to get around the Mind Mage control over [Sleep]. But in the end, almost all of those people have just found out how to make [Sleep], and then the Mind Mages move in and that knowledge is taken from them.”
+
+Erick almost asked her if she had a problem with Mind Mages, but he left that door closed, as he asked, “Got any suggestions for keeping a low profile? I feel I am likely missing some rather obvious things.”
+
+“You are,” Syllea said, with a smirk. “You should look into some permanent alchemical or Blood Magic options to change the color of your eyes to something less white-white-black. Maybe change your hair, too. Don’t do any temporary spells; those just light up for anyone with a Sight to see. Your eyes are one of the most noticeable things about you, so fix that and you should be good. That, and your clothes, I suppose. Those are definitely the robes of a well-off man. Put on some shabbier shoes. I have a whole room for outfits for undercover work and that’s usually enough, as long as I don’t draw the attention of anyone who would know me for me. I hardly ever use the eye dyes, but they’re decent.” She added, “You also need to find or think of a way to hide Ophiel, but you already knew that. Other than those few things, you should be good for walking anonymously through most human towns.” She shrugged. “Or you could try your hand at what sort of Polymorph you might have? Do you feel like you’d rather be some other race than human? If so, and since you’ve lived in Spur for a while, perhaps you have a different form just sitting there, waiting to be found.”
+
+“I’ll go with the alchemical dyes.” He glanced to Poi. “I can probably find someone to sell me that stuff back home.”
+
+Poi nodded.
+
+Erick turned back to Syllea, saying, “Thank you for this. I still haven’t gotten around to making any buff spells, but I might need to make some of those, too.”
+
+“Don’t go wandering back home, yet.” Syllea said, “We still haven’t gotten the basics of what we just talked about, and you shouldn’t try to make a buff in your condition, or any difficult spells. But if you make some less-than-ideal mid-range spells, then I’ll at least know you know what you’re doing.” She rapidly added, “Not that I don’t think you don’t know what you’re doing! Ah. That came out wrong.”
+
+Erick smiled at Syllea’s unexpected, small contrition. “I’ve only been at this for a year. I’m completely sure that I only have the barest idea that I know what I’m doing.”
+
+“You do seem to be doing alright for yourself, but there’s always more.” With a conspiratorial eye, Syllea asked, “Have you ever experimented with Elemental Destruction?”
+
+Erick paused. “I have. It’s useful for creating specific counterspells. I was warned away from using it in actual spells, though.”
+
+“Oh, drat. Here I was hoping to let you in on a big secret.” Syllea added, “And yeah. You don’t want to make actual Destruction spells. On the spectrum between Order and Chaos, Destruction is wildly chaotic. I lost limbs and otherwise on five separate occasions before I finally decided that I was done with Destruction.”
+
+Erick smiled, and asked, “Have you tried experimenting with [Healing Word]?”
+
+“Bah. That damn thing.” Syllea asked, “You talking about the [Quick Spell]?”
+
+“Yes!” Delighted, but tempered by Syllea’s reaction, Erick asked, “But it seems you dislike it?”
+
+“The problem with [Quick Spell] is that it naturally decreases the power of the resulting spell by a factor between 10 to 5, while multiplying costs to somewhere between the original spell’s cost, to three times the original cost.” Syllea said, “[Quick Spell] is a very hard spell to get right. How good is yours?”
+
+Erick showed her, asking, “About that good?”
+
+Syllea dismissed the spell box, saying, “Not a good way to judge. Did you make a spell from it?”
+
+Erick showed her [Quick Wall], saying, “A tenth as good as the original.”
+
+“Rip it up and try again.” She added, “Working magic with a damaged soul is difficult. Maybe wait on that one, too.”
+
+While Erick mourned his failure to correctly make [Quick Spell], he was glad to finally get confirmation that he had screwed up. With a mental tug he ripped [Quick Spell] apart, feeling something shift in his soul…
+
+Two things shifted.
+
+Erick winced, as [Quick Wall] broke, too. A cascading failure. That was new. Erick had heard of what would happen if he ever tore apart a ‘building block’ spell, and now he finally got to experience it for himself. It wasn’t as bad as creating new magic, though, and it certainly wasn’t as bad as an Error.
+
+Syllea still noticed. She asked, “Did you make a lot of magic with that one?”
+
+“Just [Quick Wall].”
+
+Syllea hummed. She said, “Maybe… Maybe you should try for an Air Element spell, so that I can see that you’ve got it, and then we stop here. A mage doesn’t normally get cascading Deletion Fatigue like that unless they destroy the basis of a large branch of their magic. Ten spells or more.”
+
+“That’s…” Erick felt something like heartburn in his chest, and then it was gone. “We can stop after another spell. That sounds like a good idea.”
+
+Syllea held out her hand, channeling an airy [Force Bolt], saying, “Here. This is [Air Bolt].”
+
+Erick listened, but Ophiel teased out the sound of ‘air’ better than he could at the moment. With a concentrated Mana Altering and a mixing of possibility, Erick cast at the summoned crystal, five meters away. A bolt of swirling white air struck the crystal with a blast of wind, and a blue box appeared.
+
+Air Bolt, instant, long range, 10 mana.
+
+A bolt of air inexorably strikes a target for 15 + WIL. May cause suffocation.
+
+Erick flashed the box toward Syllea, saying, “I know I messed that up a little, but it’s close enough. Thank you.” He winced.
+
+Syllea looked down at Erick, and frowned. “Yeah… We’re stopping here. When you’re feeling better, Alter for Air, then Shape as needed, as with all Esoteric Elements. The specific Element Shape spells, like [Airshape], work better than the generalized Mana Shaping, but working with the more Esoteric Elements, like Lightning, requires specialized Element Shaping that you need to make yourself. You could probably make a very good [Lightning Shape] if you tried. But you don’t need those specific Shapings quite yet, and you probably shouldn’t try too hard for them, either.”
+
+“Heard and understood.” Erick felt another odd thing flex inside of himself, and also not. “Ow— Okay. That was a weird stitch in my side.”
+
+With kindness, Syllea asked, “What did you do to yourself?”
+
+“Oh… A lot of things.” Erick stood up straight and tried to stand strong, but a triplicate stitch ran up his right side. He bent over as nausea rolled through his chest. The nausea vanished, quick as it came. He stood up; a bit less straight this time, but more or less okay. “I’m fine.” He breathed hard, then said, “Okay! Yes. We can cut this early. I think I need a nap again.”
+
+“How about some tea?” Syllea said, “Have you tried Soul Palm Balm tea? I have some. It should help your soul better than sleep. It’s pretty rare, but I know some people.”
+
+That was the stuff Jane got in the Headmaster’s hospital. She only got a few doses of it to get her out of the worst of her Dragon Essence sickness, for Soul Palm Balm was supposed to be incredibly expensive. Erick said, “No thank you, I couldn’t possibly impose more than I already have—”
+
+“You aren’t imposing!” Syllea said, with perhaps a bit too much fervor. She paused. She looked away and walked toward her house, saying, “They take the sap of the tree and pack it into little cubes. You have to do a special preparation, which I can show you, and then you can take a decagram with you.” She stopped and turned around at the doorway, saying, “I insist.”
+
+“… That would be great.” Erick decided, “I would appreciate that.”
+
+He followed her into her house, while Bayth and Poi followed him.
+
+Within a minute, Erick had a nice little paper package of cubed tree sap, with each cube glowing with faint flickering embers. It reminded him of the broken Shroud around his own soul.
+
+Syllea sent him off, saying, “I’m going to get you some better blueweed, too. Someone will deliver it to your room.” She added, “Get some rest, Erick.”
+
+Erick felt a warmth of kindness bloom in his chest. He said, “Thank you, Syllea. I will.”

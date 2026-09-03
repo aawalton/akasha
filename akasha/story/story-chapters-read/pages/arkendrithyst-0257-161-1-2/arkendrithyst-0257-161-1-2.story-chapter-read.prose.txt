@@ -122,3 +122,336 @@ The second lathe ran like a well-oiled machine, with a central yoke that spun wi
 
 From there, Erick made straight axles and gears with properly segmented teeth. And then he put them all together.
 
+A differential was what they called the collection of gears that was located, usually, in the rear axle of a car. This 6 part gear system, allowed the turning force of an engine to then turn a large gear that connected to two smaller gears, that were then connected to the left and right halves of the axle. This complicated structure allowed the engine to supply power to the wheels, while it also allowed those wheels to turn at different speeds, to allow a car to take corners without skidding.
+
+Making the frame was easy enough, since precision wasn’t needed for that, for now. All he did was stretch metal out into a dune buggy-like configuration, leaving all of the innards fully exposed. Two latticework chairs went into the two available spaces for seating, which was located directly above the central axle. Erick created basic metal wheels out of spun steel, and then he attached them to a split rear axle. Those two rear axles then went into the differential, which was then connected to the central drive shaft.
+
+And that was it! There were about a hundred other parts to make and shove together and experiment upon, but this was the basic differential setup that Elder Uriol was so fascinated with. It allowed wheels to take corners, without one wheel digging into the dirt, or lifting out of the dirt, like with what happened on solid axle setups.
+
+Now… if it worked, Erick would be truly surprised.
+
+Erick took his seat, and looked down, and back. Everything was exposed. The parts were not in oil, and they should be. Erick frowned. From this perspective, the gears looked a lot more wonky than they should…
+
+Still! He tested it.
+
+He held his breath, and manually turned the central drive shaft with his light. This, in turn… broke the gears of the differential. Ping! Snap! Crunch!
+
+Crunch was never a good sound to hear when starting a car.
+
+“Ah. Well then.” Erick realized something important. He mumbled to himself, “Because I made the gear teeth like normal gear teeth. They need to be beveled gears. Ah. And those ones need to be helical. Right…”
+
+The second generation differential worked better than the first, but odd stresses broke the gears in different places, this time.
+
+Erick went back to the drawing board.
+
+[Metalshape] was the problem, here. It was a well known problem, actually. Shaping metals worked fine for enchanting, or for other low-stress needs, but when the metal was to be stressed, either in weapons or in armor, then you needed to know how to make metal both hard and tough, and that’s what Smiths did. This ‘Problem of [Metalshape]’ was what gave rise to the Class of Smiths, of all types. A Smith usually achieved their mastery of metal through secret formulas of metallurgy, and temperature control, and legacies passed down from master to apprentice, but Erick had none of that. All he had were youtube videos that he barely watched, years ago, and wikipedia pages that he skimmed only out of a bare interest in the subject.
+
+But hey!
+
+All of that free knowledge had helped him out lots, before! And it would help him out here, too.
+
+Erick recognized that he’d need to do a lot of experimenting on his own, though. A lot of tempering, and diagram building, and metal smashing tests— Oh! And hardening, too. Tempering and hardening were different.
+
+Tempering was the addition of heat and cooling to a metal in order to remove hardness and add toughness. Hardening was the exact opposite, where you used heat and then cooling in order to… create hardness, and remove toughness.
+
+Okay. So. Erick realized that his knowledge was lacking, and probably mixed up, somehow. This might be more difficult than he thought it would be.
+
+Erick sat back down in his captain’s chair and had a think. When he came out of that think, he knew one thing: He would need to experiment. For normal steel production, Erick expected he needed to heat his gears until they were cherry red, and then he needed to cool them in oil, or something. That was his starting point.
+
+It was probably wrong! But everyone started somewhere.
+
+Oh. He had a half-remembered thought about only heating the teeth of the gears? To create toughness? While leaving the center not-that-heated, in order to create hardness? Eh! Sure! Maybe?
+
+Okay!
+
+Erick had never done this before. And yet! He smiled. This might be fun. There was one more question, though: How to get the requisite heat in order to get metal up to temperature? [Heat Ward] wouldn’t cut it, for that was only useful for cooking, and Fire Magic actually burned metals, so you couldn’t just use [Fire Beam], or something, to make metals hotter. Erick knew that much about smithing on Veird, but not much more than that.
+
+Oh! Induction heating! Would that work?
+
+… How did that work?
+
+… Induction heating worked by, for example, having a metal wire wrap around an empty space, and then an alternating electrical current was run through that wire, creating a powerful magnetic field inside the wrapped space. When a resistive metal is placed inside that wrapped space, the resistivity of that metal butted up against the electric field, and the friction of the electrons in that resistive metal caused the metal to heat to truly high degrees, depending on the strength of the electrical field and the resistivity of the metal.
+
+… That seemed correct.
+
+Erick already had an electricity spell, too.
+
+Battery X, instant, medium range, 500 mana
+
+Electricity flows. Lasts for 1 minute per spell level.
+
+But [Battery X] was a direct current spell.
+
+… He could invent power inverters? But if he invented power inverters, he would probably need to invent transformers, too, to decrease the power of [Battery X] to something smaller, and more manageable. [Battery X] was a darn powerful spell, after all. So how did a transformer work?
+
+Well, those worked by having two wires coiling around two sides of a circle of electrically motive metal. Depending on the number of coils on the input versus the output, you could increase or decrease the voltage of the output. All three electrical systems needed to be insulated from each other—
+
+So he’d need to invent electrical insulation, too?
+
+But plastic needed oils, and there wasn’t a lot of that on Veird; not like there was on Earth.
+
+Could he create oil from thin air, using Particle Magic?
+
+Heh. Such a spell would be world changing back on Earth. Ya know. If the oil companies didn’t kill or bury whoever made such a magic. Honestly, Erick expected more of that sort of situation to happen to him, here on Veird— Meh. No more of that sort of thinking.
+
+How to make plastic from air?
+
+Hmmm…
+
+Probably not going to do that.
+
+At least he already had magnets sorted! He already knew [Magnetize]; Archmage Ryul, the Force Mage harpy Erick had met at Oceanside, had invented that spell.
+
+Ryul lived in Nelboor, right? Why hadn’t Erick met him, yet? Where did he live?
+
+Eh! Too much going on right now to worry about that. If he showed, he showed, and that he hadn’t already, likely meant he wouldn’t at all. To be fair, though, Erick hadn’t sought out the guy, either.
+
+Anyway!
+
+Magnets! And Electricity! And metal!
+
+Erick felt torn in several directions at once.
+
+He went where his mood took him.
+
+- - - -
+
+Jane woke up an hour before noon.
+
+When she stepped outside, she paused, and tried to understand exactly what she was looking at. She got most of it easily enough. Her father had created multiple stone platforms all around the yurt, and atop some of those platforms, he had recreated bits of Earth in the form of car parts. Gears. Axles. Frames and wheels. But then she looked to the left, the rest of the platforms. One of them, which was truly puzzling, contained stone containers— Oh. Crucibles. Have to be. Except... They were not normal crucibles. Instead of air and fire spells and pushing fire, metal rods coiled around the crucibles, and all of the crucibles were broken. Some of them had melted into slag. So… Failures? All failures, then.
+
+Her father was on yet another platform, further to the left, working at a stone table, upon a bunch of small metal bits. She walked over to him, and looked over what he was making. She didn’t understand any of it.
+
+“Hey, Jane” Erick fiddled with some small wires while asking, “What do you remember about transistors and other fast-switching electrical currents? AC power?”
+
+“Absolutely nothing at all.”
+
+“Ah.” Erick’s Shaping spells went still. He took one long look at what he was working on, and said, “Well. Then…” He put down his bits of metal. “This was going too far, I think. I think I need to do something else.”
+
+Jane only had the barest idea of what her father was doing. “Good luck, dad. I’m gonna go see what’s happening at the cheese yurt and bring back lunch. You need anything?”
+
+“Nope; I’m good. Nirzir and Teressa brought back sandwiches earlier.” Erick waved her off, saying, “I think Nirzir is at the cooking yurt.”
+
+Jane nodded, then walked off, passing layers of [Prismatic Ward] and then walking under an [Undertow Star]. The [Undertow Star] was new since she went to sleep. Had something happened? Or was her father just being more defensive?
+
+Whatever her father was working on, he was at least doing it on high alert, and that made Jane kinda happy. She had wanted him to put a Star into the sky last night, but she feared asking him to do that would set off his paranoia.
+
+Granted, he had reason to be paranoid.
+
+Jane kinda missed when he was just her laid back father, though.
+
+… Ha!
+
+She almost laughed at herself. What an odd thing to want! Her father, back to being a laid-back pacifist? No way! Jane was glad for the changes she was seeing.
+
+Well… Most of them.
+
+Some of them.
+
+This life certainly wasn’t great for her father. He wasn’t cut out for the blood and the killing. He was getting there, for sure, but… He was changing, too, and it was anyone’s guess what Erick would look like once the changes reached equilibrium.
+
+- - - -
+
+Erick stared at his failed transistors. The bits of metal and stone were little more than imitations of the real thing; There was absolutely no way that Erick was ever going to recreate this major, tiny bit of technology out here, in the middle of cow land—
+
+Oh. Transistors were made out of silicon semi-conductors, with two types of silicon, either doped with phosphorus, to give one side extra electrons, to make them naturally negatively charged, or boron, which had a valence shell holes in its makeup, which made them naturally positively charged. These materials, when sandwiched in NPN and PNP type transistors, created electrically stable open circuits, until an electrical force was applied to the central area. When electrical force was applied to the central part of the transistor, the depletion layers vanished, and the circuit closed.
+
+It was because of this physical arrangement of physical forces, that transistors could open or close their circuits very, very fast. Billions of times a second, even!
+
+This was how computers worked!
+
+Ah.
+
+But.
+
+Hmm.
+
+Transistors were used for a variety of things, but for Erick’s purpose, he needed them in order to make his direct current [Battery] work as alternating current, so that he could use induction heating to precisely melt metals to make gears not break… under… loads.
+
+Erick realized that he was trying to recreate way too many technologies, too fast. He didn’t actually need to do any of this, either. But...
+
+There was a future problem that Erick was trying to solve, that wasn’t apparent when he first spoke of cars to the Elders of Ooloraptoor, and that problem was a future energy crisis. Yes; he realized this was thinking too far ahead, and there were so many problems right now that he was effectively just making more work for himself.
+
+But.
+
+When [Gate]s to other worlds opened up, there wouldn’t be any resources at all in those new places. There might not be any Script-assist, either, if Melemizargo got his way, and Erick expected the Dark God would get his way at least a little bit. Therefore, electricity, which could be stored and recharged through a simple application of [Battery X] (or more realistically, some other mechanical force), would be necessary in lands where magic might be different. Therefore, solving an electricity crisis before it became a crisis, and before market forces and other powerhouses got their hold on this technology, would be a good thing.
+
+Of course, this was also not Erick’s problem to solve. But, if he could solve this problem before it became a problem, then wouldn’t that be nice? Or, phrasing it another way: Wouldn’t it be nice to not create a future problem for himself, or anyone else, by skipping the oil and burnable-fuel industrial revolution? Just go straight to electricity!
+
+… This was obviously too much of a problem to solve here, in these grasslands, surrounded by cows and mobile houses and with none of the materials that he needed to have, in order to actually create any of these technologies. All he had was iron. He didn’t even know how to get silicon. But even trying to solve the transistor was trying to run a marathon while in a full body cast.
+
+Eh! Whatever! It was still nice to know the distance to the new goalpost.
+
+But anyway!
+
+Back to metallurgy:
+
+Erick already had the spell necessary to help him heat up metals, and it wasn’t an Elemental Fire spell, so it should work fine in this application. It was a spell that Maia of the mage trio had created and which Erick had gained through witnessing her magic.
+
+Incandescent X, instant, medium range, 25 MP
+
+Heat a small area to brilliance, dealing physical damage per second. Effect stacks. Lasts 10 minutes.
+
+In exchange for that spell, Erick had created one for Maia.
+
+Shimmer X, instant, long range, 250 MP
+
+Tiny specks of incandescent heat fill a large space, dealing physical damage and possibly igniting flammable objects to deal even more physical damage. Lasts 10 minutes.
+
+The smaller spell would fill out a meter-wide space with heat energy, rapidly turning stone to magma and passively setting fire to the surroundings. The larger spell did the same thing across an area the size of a house. Erick would not be using [Shimmer] to harden and temper steel, though. [Incandescent] would work just fine, once Erick made it into an aura.
+
+Erick stepped away from his workbench, then walked over to stand atop the bare, grassy ground. With a flicker of intent, he exploded a meter-wide section of plains into burning debris. Hot dirt fell down in a five meter radius, with some of the more distant burned dirt landing much further than that, while a small cloud of black smoke rose into the air. What was left of the targeted area became a dip of melted and melting ground that sent even more black smoke into the air. Soon, the smoke vanished, as all burnable materials were consumed by the spell.
+
+Erick was a bit surprised, but he also realized he shouldn’t have been.
+
+[Incandescent] operated differently here, than when he cast it on the sands outside Spur. There was actual plant matter and moisture in the ground here, so that made sense. This was why it was imperative to test things! Erick hadn’t been thinking about this particular complication when he decided he needed to Aurify [Incandescent], but now he knew.
+
+He turned off [Lodestar], and then he cast.
+
+[Incandescent].
+
+Aurify.
+
+The world turned to flaming fire in every direction, melting the ground underneath into black glass and the air into a ripping tempest. And yet Erick was not harmed, for he was a being of light in the center of those flames. There were entirely too many flames, though. Barely a second had passed, and Erick was already setting fire to all of his surroundings. Even from ten meters away, under a bubble of [Prismatic Ward] that extended outside of all the rest, Erick’s fire was reaching the yurt and blackening the white wood, not to mention he had exploded the land for a good three meters in every direction and set fire out to fifteen meters away.
+
+A blue box appeared, exactly as Erick expected it to.
+
+Incandescent Aura, instant, close range, 1 mana per second + Variable
+
+Heat your surroundings to brilliance. Effect can be modulated at will.
+
+Erick pulled back the flames, controlling his aura into something smaller; lesser. A [Cleanse] erased the damage around him, turning burned brown grounds into thick air, leaving behind a suspiciously clean spot in the prairie. He would leave that damage for now, for he doubted that he was done doing damage to his surroundings for the day. Stepping upon the light, Erick moved away from the divot in the ground, controlling his new aura to the palm of his outstretched hand, forming the spell into a small, yet brilliant plume of white fire. As he moved back to the steel ingot area, he played with his new spell, flickering the flames higher, then smaller, then denser, then into stars, then a square, then a series of triangles, and finally, a collection of spheres.
+
+With a grab of light, Erick picked up an iron ingot and began applying his new aura to the metal, while simultaneously protecting the rest of the area from the rush of heat with a dense application of hard light. Soon, the metal was cherry red, but it wasn’t getting much hotter than that.
+
+So Erick funneled more mana into his new aura, strengthening the spell, rapidly turning red hot steel into white hot metal, then into a sudden liquid state. The liquid almost exploded from the rapid temperature change, but he felt this much through his light, and he kept the metal together. The metal relaxed into a bowl of light. With this much contact against his lightform, Erick had to shove more mana into [Greater Lightwalk], too, to keep himself together. He could partially feel the heat, himself. It was not a great sensation, but it was manageable. Erick retracted his heat aura, and soon, the metal calmed down, solidifying once again—
+
+His thoughts about the particle makeup of transistors shook loose thoughts regarding the particle makeup of this steel. Was it steel? Or was it iron? What sort of carbon content was necessary to make iron into steel? A lot of carbon? Or very little?
+
+Were these ‘steel ingots’ actually cast iron?
+
+Erick smiled wide. He could actually find out the exact components of this steel. He had all the necessary spells to do so, from [Condense Carbon], to [Condense Iron], along with all the other various spells to see what sort of trace elements they threw into their metal.
+
+So Erick did just that—
+
+Ah. Wait. He needed a vacuum spell, didn’t he? Something that could create a space that allowed for no other particles to enter… Or perhaps he could just harden his light and expand it outward, manually creating a vacuum?
+
+Erick tried for the easiest solution, first. He took his light and made a bubble in front of him. The bubble was only a handspan across, and that was more than enough. With a pulse of intent, he made the light solid, to push out all the air in the space.
+
+He barely got a single inch of vacuum space in the center of the light bulge before his lightform collapsed back down. Hmm. Not too easy, making a vacuum! He tried again. Erick flexed his light outward, pushing against everything, stretching his lightform into a bubble of pure vacuum— The edge cracked and wind whistled into the interior of his light.
+
+So that was a failure.
+
+He set down the still-orange block of steel and tried a few more times to make a vacuum, stressing his lightform —without [Lodestar]— into producing a void, but he knew that he wasn’t going to get anywhere with this level of magic, alone. So he turned off his heat aura, and turned on his [Lodestar]. This time, Erick easily kept his sunform together, creating a vacuum a meter across without any trouble at all. Keeping it together required focus, but this much focus was easy enough to achieve. But he couldn’t directly work [Incandescent Aura], [Greater Lightwalk], and [Lodestar], all at the same time, by himself. Aurify only allowed him to have two auras active at any one time; not three.
+
+There were many solutions here. He could split his focus through multiple Ophiel and do everything he wanted to do at the same time. He could just plain ignore fidelity in his material sciences; who cared about metal contents! Leave that up to the people who came next. But…
+
+Erick could make a new magic to solve this problem.
+
+Erick chose to make some new magic.
+
+He expanded his mana sense into the recent past, as he sent off a hundred mana and a question into the manasphere.
+
+Divine fire flickered through the sun-bright air, like golden flames barely visible in the light. Erick’s own voice came back to him, saying, ‘Go for it.’
+
+Erick smiled and returned to himself. He stared out into the sky, then he focused on the world directly in front of him. This would be a small spell; something for precision work. Something that would allow the [Condense] line of Particle Spells to work well within its confines.
+
+A limerick would do.
+
+“I heard once tell of a room,
+
+“That was, in effect, a tomb
+
+“For all particles were cowed
+
+“Though some were allowed
+
+“But for most, it was perfect [Vacuum].”
+
+The manasphere flexed.
+
+A spell popped into existence; a simple, three meter wide sphere with a faint white sheen to the surface. The interior was empty, but the sphere soon began to fill with white glows, like fog appearing in the morning. Whatever was happening in the interior began to spread to the exterior, the fog churning like whirlpools. Suddenly, that fog swirled out of the edge of the space, shooting out of a dozen pores in the surface of the spell, looking and sounding like high pressure water from a hose. The spell whined, with a low whistle, like a teapot revving up with steam.
+
+That sound soon lessened, as most of the interior of the spell was forcibly moved to the exterior.
+
+Erick watched as the enchanted space emptied itself of air, the white fog inside thinning with each passing second. Eventually, there was the barest amount of white fog left inside the space. The magic’s edge remained thin, as if only to warn onlookers that something was there, but as those final dregs of white gasses left the spell, the entire sphere cleared to a simple ring of white.
+
+It was still very much a sphere, but the only part of the spell that Erick could actually see was that thicker edge that seemed to form a ring in the direction he looked from.
+
+A few blue boxes appeared. There were the normal ones that congratulated him for adding magic to the Script, and then there was the actual spell description. Erick cast a [Greater Treat Wounds] on himself while he read, though he didn’t actually feel that had damaged himself— Ah. No. There’s the nosebleed. And now it’s gone.
+
+Particle Vacuum 1, instant, medium range, 100 mana
+
+Create a medium area that strips out extraneous particles from its interior, and which continues to remove extraneous particles for the duration of the spell. Will not remove particles that are purposefully placed into the space, by you, or any other. Vacuums can cause physical damage. Lasts 1 minute.
+
+Erick smiled. [Particle Vacuum] was just about perfect!
+
+Perhaps he could add a [Cleanse] effect to this spell, to clear out the last bits of contaminants, to make a truly [Perfect Vacuum]... But that would be playing around with the actual functionality of [Cleanse], and there was no need to be that dangerous in this experiment. Whatever fidelity of vacuum was provided by [Particle Vacuum] was probably good enough for Erick, for now.
+
+But that was probably all of the metallurgy that Erick was going to get done, today.
+
+People had been showing up at the edge of Erick’s protected property for the last hour. As it was nearly noon, it was almost time to start talking to all of them, even though most of them looked perfectly happy to watch his experiments of metals and fire and to witness the creation of new magic.
+
+Erick grabbed some chairs from the yurt, floating them behind him as he walked toward the edge of his temporary property. His destination was a stone platform beyond the edge of his [Undertow Star] and his [Prismatic Ward], where he had planted his mailbox. An Ophiel perched above that mailbox, ensuring that people could grab applications if they wanted, but otherwise he chased them off of the area. The archmage was not ‘in’, yet.
+
+But now, as Erick moved toward that area —and Poi rushed out of the yurt to follow Erick to the worksite— only about a third of the petitioners quickly lined up; those people were used to the bureaucracy of the Highlands, for sure. It showed in their well made robes and polite demeanor. The other two thirds formed loose groups here and there, and some of them were obviously from the Highlands, too, but they did not feel like falling into line. From what Erick was seeing, only two people of the gathered 47 had come on their own, without a group.
+
+About half of the people out there were human, incani, or demi. The rest were an eclectic mix of the various races of Veird. There was a duo of snake shifters, with scaled masks and the smallest, faintest scales upon their bodies; only the most blind of people would mistake them for dragonkin. There was even a trio of harpies with bright red feathers, and very little in the way of clothes; they stood together, off to the side.
+
+Five goblins had come together, and those tiny green people stayed well away from absolutely everyone. Their eyes studied every possible threat around them while they kept their hands on their sheathed swords, though calling those tiny daggers ‘swords’ was only true because of the height of the wielders. Apart from their rather unique stature, their other most notable features were that they were all dressed in black iron breastplates, with two of them wearing fullplate made of the same black iron. And it was iron, too; it was not conjured Force. Kinda unique to see that much metal on display.
+
+There were even some pixies. Those decimeter tall people were a bit of a surprise. Messalina, the Life Binder, had created that race a few hundred years ago. Were these people an envoy from the Headmaster’s old flame, who was now his enemy? Or were they independent? From what Erick had heard, most of the pixies were independent, but rumors said that if you needed the Life Binder’s services, all you had to do was ask enough pixies, and you would eventually find the Life Binder. Wonder what they wanted?
+
+People watched as Erick stepped onto his stone platform. It was only five meters square, but it was more than large enough for small meetings, especially since he wasn’t going to meet with whole groups, if he could help it.
+
+Erick set down his chairs and turned to his petitioners. He projected his voice, “Many of you were here yesterday, though some of you are new to me. I will attempt to get through those who were here first, yesterday, and then the rest of you afterward. But before that happens, I am going to attempt to decrease my workload. To that end, if you have a quick question, or if you want something you don’t mind other people seeing, please hold up your paperwork now, toward me. I will read them all quickly, and then solve whatever problems I choose to solve, or I will send you on your way. Monster kill requests fall under this category, unless they’re deep in the Underworld or exceedingly far away. And by ‘far away’, I mean ‘outside of Nelboor’s surface’.”
+
+A few people rapidly held up their paperwork, while a few others spoke quietly amongst themselves. Eventually, half of the petitioners raised their paperwork, while the others kept theirs hidden. Their requests either did not fall under the constraints Erick had put out there, which meant their kill requests were for monsters outside of Nelboor, or else what they wanted was more complicated than ‘kill this monster’.
+
+Ophiels flitted through the air, around the scattered groups.
+
+Erick started reading.
+
+Almost everyone who raised their paperwork needed a monster killed. Erick decided that he needed to add another few boxes to his application; primarily a check box for ‘Monster: Y / N’ and then a space for an approximate location and description of the monster. A few had included proper directions and descriptions, though, which was nice to see.
+
+The goblins started yelling at each other. A fight rapidly ended before it could begin when a female goblin hit the lead male goblin on the head, grabbed the application out of his hands, and held it upward. The bonked goblin held his bumped head and frowned over his wounded pride. One of the armored goblins put a comforting hand on the lead male goblin’s shoulder, which seemed to soothe the guy’s pride.
+
+Erick mostly ignored the commotion, and called out, “Okay. Looks like almost all of you have monster kill requests. Except for you three.” His Ophiel indicated the three groups. “I will answer your questions first: All are ‘no’.” The three groups frowned, but accepted their answers. Erick spoke to the rest of the people, “All of the rest of your requests look doable except for the variant toxic hydras in Nergal. That might be a bit too far to complete this very moment. You’ll have to wait around until I’m done with everyone else.” He asked the pixies, “Is your homeland in danger right this second?”
+
+As all eyes turned toward the pixies the central pixie floated forward, his dragonfly wings barely beating. In a voice that sounded like it came from a very large man, the pixie succinctly explained, “The Decay pools caused by the toxic hydras threaten a major population center. For the last week, we have sent out representatives to every archmage and power that we know of in an attempt to kill the beasts, and yet all those who have tried, have failed. We have three days to kill the beasts before the protective measures we have been able to take will be overwhelmed. At that point, we will need to evacuate thousands and thousands of people, and we already have no other easy place to go.”
+
+Erick said, “Okay. Thank you for that quick explanation. I will deal with that later today since your problem might be the furthest one of all the rest. You may come back when I am finished with everyone else, or you may wait around.”
+
+“We will make ourselves unobtrusive and return at the end of the day.”
+
+The pixie and his two people dipped in the air. And then they vanished from sight, and most senses. They couldn’t fool Erick’s [True Sight] and his mana sense, though. While a few people stared at the space where the pixies vanished, or rapidly looked around, trying to see where they had gone, Erick ignored the pixies as they flitted off toward Ooloraptoor.
+
+Erick said to the goblins, “Your request is a strange one, but I can do it. The only problem is that you’re in the near Underworld. How deep, and where, exactly?”
+
+As some of the goblins yelped with joy, the female goblin squeaked out, “Homeland be a great big hole just north of the South Western Tribulation Split! It may be Underworld, but it’s exposed to the sky, it is!”
+
+The leader goblin spoke up, “Almost directly southwest, 13 [Teleport]s.” He glared at the woman briefly before he snatched the paperwork out of her waving hand. He set the paperwork backwards, onto a conjured bit of [Force Platform], and began writing as he said, “We can add a map.”
+
+A map was a good idea, and Erick vowed to add that to the next generation of his applications, too, but the few directions the goblins had given had been enough. Erick found their ‘Homeland.’
+
+Ophiels stretched their connections from the grasslands, to the South Central Tribulations, across a bit of ocean, and then to another landmass further beyond. Beyond even more rolling hills and forests and expansive land, the western branch of the Tribulations rose into the sky, looking much like all the rest of the Tribulations; mountains much bigger than any natural process could have ever created.
+
+A bit of rapid searching beyond that had brought Erick’s sight to a giant wound in the world that went three times as deep as the mountains were tall. This place was the Near Underworld, and this particular rent in the world was filled with towers and buildings and walls and farms and lots, and lots, of goblins.
+
+Erick said, “A map is good. In fact: everyone with a monster kill request, please add a general map and a description or lightsculpture of the monster you wish eliminated. As for you five, I will have to talk to you directly, and that will come after the other monster kill requests. Please make yourself comfortable, or come back later.”
+
+The five goblins each heard and understood Erick’s words in their own ways. They kept their eyes out on everyone else nearby, but they backed down from high alert. Erick got the distinct impression that they were a persecuted people, and that his words had put them at ease. The girl goblin nodded rapidly, then began creating a wardlight sculpture of the monster they wanted moved; not killed. Their request was an odd request, for sure. Erick almost dismissed it out of hand, but he would at least hear them out.
+
+With that settled, Erick began organizing the rest of the people according to what they had written on their paperwork.
+
+Three groups wanted tangled hydras killed before those monsters threatened their coastal cities, while the rest of the kill requests were similarly dangerous monsters which most people couldn’t handle on their own. There was even one instance of ‘mystery monsters’ that had been disappearing people out of the middle of a city, located on the other side of the South Central Tribulations, in a land far north of where Terror Peaks had been. Those mystery monsters turned out to be a small group of moon reachers that had made their home in the nearby forest. When those petitioners heard mention of ‘moon reachers’, they freaked, but Erick had already killed all of the moon reachers in a thousand kilometers, according to his [Cascade Imaging]. He had actually managed to kill more groups of moon reachers than the few who had preyed upon that clan, too; about 120 in total.
+
+Those kill requests didn’t take much time at all. In a little over 45 minutes, Erick had ended existential threats to thousands and thousands of people, or enabled refugee populations to return to their homes. It didn’t even take a full hour!
+
+Erick felt a wave of disgust for all monsters, and also that most people would never be able to fight against many of the ones he so easily dispatched. A few of the monsters, though, like the moon reachers, should have been killable by the defenses of an average town. Erick expected that those people had something wrong with them, though; some reason to bring this problem to him. Like, sure, he had killed hundreds of thousands of moon reachers, but those people didn’t even know that they had a moon reacher problem, and that was a bigger problem than the moon reachers themselves.
+
+Most of the petitioners didn’t pick up on his disgust, though.
+
+Those with solved problems moved on, cutting through 29 of the original 47 people who had been there when Erick started doing this. But even though Erick had gotten through half of the crowd, the actual number of petitioners had not decreased, at all. Now there were 75 people waiting for him, though as for the number of groups, there were only 31.
+
+He elected to speak to the goblins, now.

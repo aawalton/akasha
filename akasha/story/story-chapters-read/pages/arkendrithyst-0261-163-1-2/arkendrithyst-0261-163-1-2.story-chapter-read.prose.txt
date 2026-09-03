@@ -128,3 +128,518 @@ Koori asked, “How?” She asked, “How does one treat with Shades, and dragon
 
 Ah.
 
+Erick said, “Pick a good goal, and then stick to that goal, yet know that deviations will occur because no plan survives contact with reality. Be ready for those deviations. Acknowledge the mistakes you make, and then fix whatever mistakes you have made along the way, if you can. Always deal with the problems that come at you; never let them pile up. Always act with compassion. Don’t fall into thinking that the problems others create because of your actions are somehow your fault.” He added, “Unless they are your fault, and then you gotta fix them.”
+
+Koori listened, breathlessly. Then she nodded.
+
+Niyazo spoke up, shifting the conversation away from his wife, “I would hear how you think your three-branch government would work on Veird, if you were to implement it here.”
+
+Erick felt a moment of whiplash, then he came back to himself. He thought for a second; did he want to tell this stuff to Niyazo? Jane had been right that it was nice to be able to talk to your leader, on Veird. It was nice that the space separating the average grass traveler from the ‘ruler’ was so small. But then again, any form of government that oversaw millions of people would suffer the same sorts of ‘disconnected from the common citizen’ fate that came from a three-part government. But at that same time, having a system in place where everyone was replaceable, meant that it could last long past the people who invented the system.
+
+Erick decided to answer Niyazo’s question. He started off circumspect, saying, “Now, this probably won’t work on Veird, because a three-part system is not responsive to existential threats in the same way that most governments around here are responsive to existential threats. This is both good and bad. Good, in that malicious forces cannot bring down the system in one fell swoop. Bad, in that such a system should not be able to respond in the timely manner necessary to avert certain disasters, like monsters. And yet, with some tweaking, you should be able to make a three-part system that is responsive to monster threats, or what-have-you.”
+
+“But what does that look like, exactly?” Niyazo asked.
+
+Erick spoke.
+
+Soon, they switched to coffee.
+
+Niyazo asked questions, and he posed interesting arguments. More than once, he understood exactly what could go wrong with a three-branch system of government, long before Erick got to the specific warnings of what could go wrong. ‘If the majority of people thought a certain way, then there would be no room for minorities in your system’; ‘Which is why special care must be taken to ensure minorities have a voice, with leaders voted in who bring those voices to the table’. ‘We grass travelers often have to combat lies, which is why we have elders to show the easily-swayed what is truth and what is fiction. Where would you put the Elders in your system?’; ‘Anywhere people would vote for them to be, but probably as judges’.
+
+They also spoke of voting, and local elections, and representatives which would form a council which would communicate the needs of their territories to the ruling party. And then Niyazo spoke of voting problems, where people either voted for a single party, or their vote was useless. Koori spoke up about how a ‘two party’ system was also a possible problem. To this, Erick brought up a novel form of voting, where people voted not for a single person, but instead ranked their top three or five people in order of who they want for a certain position, and then those people won council positions based on how many votes they received, and how many positions needed to be filled.
+
+“That’s called transferable voting, and it does prevent the ‘party rule’ problem.” Koori said, “They use that in the Greensoil Republic.”
+
+Erick smiled. “Ah! They do? I didn’t know they did that.” He chuckled. “I’m glad to see that the theory actually works! No one does that back home, and I wish they would have.”
+
+“Their implementation only resembles the ideas that you speak of. Only nobles are allowed to vote over there, which is something we would not allow here.” Koori said, “But at least they’re not the Sovereign Cities.”
+
+Erick nodded. “That place is still at civil war.”
+
+“And they will be, as long as the nobility exists. Which is why we cannot have a nobility happen here.” Niyazo said, “I would say that is most everyone’s actual fear when it comes to Integration; the rise of a nobility. Too much power passing down into the hands of children who have done nothing to earn that power besides to be born into it.” He added, “And at the same time… Transferable votes are a headache and a half. Better than the clan system they have in Songli, though.”
+
+Koori nodded, humming in acknowledgment as she sipped her hot rice wine. Mostly, she stayed silent as Erick and Niyazo spoke, her mind and her thoughts her own, but more than once she shared those thoughts.
+
+The night wore on. Eventually, it got to be too late, and Niyazo and Koori went back to their own home. Erick wished them well in their debate with Blue Sky tomorrow. He might watch, but he would not participate…
+
+Unless something horrible happened. But Erick didn’t say that part; he wasn’t willing to tempt Fate that much.
+
+- - - -
+
+As the sun rose in the east, Erick set to work making a better DC engine. He started with metals—
+
+But before he began, Niyazo and Koori showed up at the edge of the property, walking his way. Erick re-enabled their [Prismatic Ward] permissions and welcomed them into his workshop, asking if they wanted a cup of coffee. He didn’t want to say it, but both of them looked exhausted, as though they had been awake all night long, talking to people. Maybe they had.
+
+“We cannot stay overlong, Erick,” Niyazo said, standing next to a new pile of copper ingots Erick had purchased not ten minutes ago. “We came to inform you that we will be using some of your ideas in the debate today, so that you are aware of it before it happens.”
+
+Erick’s eyes went wide. “You are? Well. Okay. Good luc—” He warned, “The systems I spoke about are likely not compatible with the realities of life on Veird. Here, you need to respond to danger and to the changing world in a single moment, and if you can’t, then you die. Back home, all the big problems were caused by the system’s inability to respond to existential threats, for everything was too entrenched, but at that same time, a lot of big problems were avoided, because everything was so entrenched; some wacko couldn’t come along and destroy everything all on their own. The system itself remained intact.” Erick said, “I think that the politics of my homeland and the reality of life here are intrinsically incompatible, and to attempt to map them together would only cause problems.”
+
+Niyazo said, “The politics of your homeland were what they needed to be to allow your people to break the nobility that plagued your people, just like it plagues ours. Most of the ideas you spoke of don’t translate perfectly, but there are many that do. The main one is the establishment of a system that will last long after the creators are gone, that has checks against abuses and avenues for justice that the systems we have around here simply do not have.” Niyazo said, “That is much of what our arguments will focus on, going forward. With that, we hope to ensure that a nobility will never rise from the systems we lay down.”
+
+Koori said, “We thank you for your assistance and your words and your knowledge, but we’re taking it from here. You are welcome to watch, if you wish.”
+
+Erick looked at both of them for a moment, then he realized another problem that they didn’t discuss nearly enough. He said, “The city you want to make out of the clans of the grass travelers is not going to look how you want it to look. They’re going to want a lot of magic in their lives. They won’t be orthodox. You’re going to need to change.”
+
+Niyazo’s eyebrows went up, as though he couldn’t believe that Erick was putting to words his own concern. Then he turned to see his wife’s reaction.
+
+Koori stood resolute, like she was facing the executioner’s block with strength. She had some ‘big red buttons’ of her own, didn’t she? In that moment, she pressed one of those buttons; she stepped down a path that she did not want to go, but that she knew she must. Her voice was solid, yet smaller than usual, “I understand.”
+
+Erick looked to Niyazo again, and then back to Koori, his gaze settling on the woman who a Registrar once offered to help become empress. He saw her in that moment, more than he had ever seen her before. Perhaps what he saw was a trick of the manasphere, or a particularly deep moment of mana sense; probably both.
+
+Koori was dressed in a raiment of impeccable shadows made of thick air. A [Cleanse]d darkness that draped from every surface of her body and layered downward, like an ephemeral idea brought to this side of reality. Something dark swirled around her hornless head, resembling a crown, but also horns.
+
+And then it was gone.
+
+Erick would have said something, he would have asked questions, except, all he had seen was a figment of the manasphere; like a [Scry] eye that was only visible when under Meditation, or like one of the many monstrous forms that lurked in the un-Reality that surrounded them all.
+
+So all Erick said was, “Good luck.”
+
+Koori nodded. Hers was a stiff gesture, as though she was also trying to understand some odd thing in the moment. Perhaps she had seen what he had seen in the manasphere, though most people didn’t run Meditation unless they were expecting problems that required a magical solution, and two people almost never saw the same odd figments unless they were of like minds.
+
+Niyazo noticed the oddity that passed between his wife and the archmage, but he just smiled a little, and moved on, saying, “Thank you, Erick.” He bowed a little. “Archmage.”
+
+Koori just nodded deeply.
+
+The two of them walked away, back to their clan.
+
+Erick took a moment to actually mana sense toward the near past. He looked at Koori again, in that odd moment. She had no shadowy garments on this time, but there was a wispy sensation in the air around her. It almost looked like a garment made of nothing, for it was ‘made’ of the ‘blanking’ that occurred when someone purposefully erased the history of the manasphere, or when powerful magics tainted the manasphere. It was a weak effect, whatever it was, for as Erick watched that moment, frozen in time, the manasphere filled itself back in, and Koori just looked like Koori. No dark raiment; no thick shadows.
+
+Odd.
+
+Erick fully came back to himself.
+
+He turned toward his metals…
+
+And he got to work! What else was he supposed to do about an oddity such as Koori? Whatever he had seen certainly wasn’t a trick of the light, or a trick of Meditation. But whatever it was, it was not Erick’s problem…
+
+… But he wanted to pick the brain of someone who might know more about this sort of thing. Teressa was still in the yurt, so it was easy enough to get to her. She was organizing monster-killing lesson plans out of a book for children.
+
+Erick stepped into the room, asking, “Teressa. You’ve been reading up about fortune telling and stuff like that, right?”
+
+Teressa looked up from her book. “...Yes?”
+
+“Have you ever [Future Sight]ed around a person and seen something…” Erick wasn’t quite sure how to phrase it, so he said, “Seen something solidify? Around them? The notes I got from Redarrow spoke a bit about seeing someone’s future in the manasphere, but most of his words were open to interpretation, and I have not done nearly as much [Future Sight] as you have.”
+
+Teressa looked up at nothing in particular, then she looked to Erick. “Did it look… malicious? Like death? Or did it look more like a blossoming?”
+
+“… The second one. Pretty sure.” Erick said, “I’m not sure what I saw, so it’s bugging me more than I thought it would.”
+
+Teressa’s eyes briefly unfocused, then she came back to herself. “I don’t see any— Ah. You saw something appear and then vanish, and now it’s not even in the manasphere, is it?”
+
+“That’s exactly it.” Erick asked, “Do you know what it was?”
+
+Nirzir, Jane, and Poi watched on, listening. Nirzir and Jane looked worried, but Poi was not worried at all.
+
+“And it did not look like death to you?” Teressa asked, a little bit worried. She rapidly added, “If it looked like a good thing, tell no one what you saw.” She glanced to Poi. “If it was a good thing, it’s bad enough that two people know about it now.”
+
+Poi shrugged.
+
+Erick said, “It seemed neither good nor bad; just something that was.”
+
+Teressa nodded, her worries falling away. “What you saw was likely a glimpse of the future. I’ve never seen them, but the best Prognosticators see them all the time... If they focus on seeing them, anyway. I’ve focused on large events and big happenings since Poi does the small stuff, so I doubt I’ll ever be able to see the small details.
+
+“Fortune Tellers, for instance, focus on seeing those glimpses. Those types can study a person and see their path through life, or at least the larger events. There are Death Tellers that are either very good at predicting death, or very bad, but no one but them and the Mind Mages would know if they were good at their profession and Class, or not, because the future changes once people know of it. And a lot of people get the Death Teller Class specifically to stop the deaths they see.
+
+“But any lay-person can see those glimpses when the events are large enough. Or at least... That’s what I’ve heard. I’ve also heard that glimpses aren’t spoiled by telling people about them. Except...” Teressa turned her head toward Clan Pale Cow, to where Niyazo and Koori had walked off. “I’m tempted to ask what you saw, but if it was good, then let’s not risk shifting it.”
+
+Erick agreed.
+
+- - - -
+
+Once again back on the front lawn outside of his yurt, Erick stood with a bunch of metals and a brand new book he picked up in Songli not two minutes ago. It was a book of basic metallurgy for the prospective Smith, dealing mostly with iron and the process of making steel. Erick read it for a little while and confirmed many of his own half-remembered thoughts on the subject of smithing, but it didn’t go into depth about anything, and it used terminology for various metals that were a lot different from what Erick called them. Well what did he expect? To learn everything from a book, when Smithing was a rather secretive trade? Some parts of it were flat out wrong, though. It spoke of heating the metal and then cooling it under precise [Cooling Ward]s to ‘align the mana forces inherent in the metal’. Well, no, that’s not what careful cooling did…
+
+Well maybe the book was right, but what the cooling and heating was for was to form grains and crystalline structures in the metal… But maybe mana played a heavy part in metal work on Veird.
+
+It probably did.
+
+Whatever!
+
+Erick grabbed a hunk of iron —or perhaps steel— that had been gifted to him by the elders of Ooloraptoor, and prepared a test site to find out what it was made out of, exactly.
+
+[Particle Vacuum] emptied the air of air and every other small particulate mass. The permeable sphere of translucent white magic settled in front of Erick; waiting. Erick had his notebook nearby so he could take down numbers while he used his sunform to hold the metals, and an Ophiel used [Incandescent Aura] to melt the metals.
+
+He grabbed a block of iron with his light and pressed it into the vacuum. The grey metal ingot passed into the enchanted space without issue.
+
+With a twitch of intent, Ophiel burst into flames, and then he concentrated that aura down into a small sphere, away from his body. The little guy singed himself a little and Erick apologized, but Ophiel brushed off the apology with a roll of his many eyes; there was work to be done!
+
+Erick turned his attention back to the metal.
+
+Heat met iron, and iron became red, then yellow, only to stabilize. Ophiel upped the heat and the iron fell apart into a liquid slurry, into Erick’s cupping light. The iron bubbled as gasses escaped from the iron, to escape the vacuum, but that was fine. Later, Erick would need to set up the separation spells beforehand, to catch whatever particulate out-gassed from the iron, but for now…
+
+Erick cast two Condense spells into the space. First came [Condense Iron], Shaped like a curled teardrop. Then came [Condense Carbon], Shaped like an opposing teardrop. It was almost a yin-yang symbol, but it was not shaped like that for any mystical reasons, but instead so that Erick could shove the molten ingot into the Iron side of it all, and—
+
+Yup! It worked.
+
+Erick held the molten ingot into the [Condense Iron], and the spell grabbed the metal from his sunform grasp. He held his sunform out to try and collect any droplets, but nothing fell. Ophiel applied the heat, keeping it all molten.
+
+It was almost like watching a lava lamp, as the molten metal hovered there in the [Condense Iron] side, around the tip of the [Condense Carbon] space. Soon enough, that inserted tip began to pull out specks of carbon from the free-floating iron, drawing that carbon to its own center. Some iron tried to follow the carbon as it floated away, but those bubbles of molten iron stopped when they hit the edge of [Condense Iron].
+
+“Pretty,” Erick said.
+
+He watched the dance of molten blobs float around, sorting themselves out in a lazy sort of way. Ophiel kept it all nice and molten.
+
+… Even the carbon was molten, which was interesting to see. That took a lot of power… Or perhaps, magic that directly heated stuff by exciting its molecules lowered the melting temperature of the particles? … Probably not.
+
+Maybe this was actually working? Maybe the Condensing spells were separating and trapping the carbon and iron properly within the vacuum? That’s what the spells should be doing, but it was hard to know, for sure, because none of the Particle spells worked directly on singular particles—
+
+Erick’s thought train derailed.
+
+If [Condense Carbon] didn’t work on individual carbon atoms, then wouldn’t [Condense Carbon] not work at all, in this case? There were no groups of carbon chain molecules within this steel…
+
+All the iron counted as a molecule, though, since it was bonded to itself through valence bonds, but the carbon was scattered throughout the iron. Steel was an interstitial alloy, with none of the carbon touching other carbon atoms.
+
+But there was clearly molten carbon collecting in the [Condense Carbon] area, and where the tail of [Condense Iron] stuck into that carbon collector, no iron was coming out. The [Condense Carbon] space was pure carbon. And none of it was in molecular form, at all… right?
+
+Did…
+
+Did Particle Magic itself change when Erick wasn’t looking? Was this magic able to affect individual particles now?
+
+Or…
+
+Was molten carbon a molecule? Is that what Erick was doing here? With the Condense line of spells, with molten elements? And that was another thing! The carbon was molten here! It took a lot of power to achieve that! Erick looked at Ophiel, and at the power of the [Incandescent Aura] he was putting out, into the vacuum. Melting iron was pretty easy, at around 1600 degrees Celsius, but melting carbon required 3600 degrees.
+
+Erick queried Ophiel’s reserves by mana sensing the density of Ophiel’s mana-formed body. By his estimates, Ophiel had plenty of mana left. He might have spent barely two thousand mana to keep up this level of heat. Ophiel was putting out nearly quadruple power into his [Incandescent Aura] in order to make the carbon go molten, but...
+
+But… Hmm.
+
+No. Erick was not melting the carbon. If he were melting the carbon, he would be boiling the iron, since iron boiled at around 2900 degrees and Ophiel was applying the same level of heat to the entire spell. Boiling iron would cause all sorts of explosions and sputters, and there had been none of that so far.
+
+Something odd was going on here, and Erick wasn’t sure what it was.
+
+This required more testing, but at the same time, he was separating carbon from iron, exactly how he wanted. Erick could just ignore these oddities and proceed with the rest of the separations, to see what sort of other metals lurked inside the ingots from Ooloraptoor. He didn’t need to figure out what was going on with his spellwork right this second. At least not right now.
+
+From eyeing the floating remnants of the iron bar, as compared to the bits of carbon inside the [Condense Carbon], Erick estimated that there had been about 1% carbon content in this bar, so that lined up with his estimates that this was rather high carbon steel. He would weigh it all out when the experiment was done, of course, but for now…
+
+The spells seemed to be working well.
+
+The spells seemed to be doing a lot more than Erick expected them to do, too.
+
+He smiled. He decided to continue engineering, and to let the mystery of the magic go, for now. He’d figure out what was going on with all that, later, because he was having too much fun to stop and poke at any gods right now.
+
+Magic was wonderful.
+
+The test finished seconds before Erick was ready for it to finish. The vacuum went away all at once. The resultant shockwave from the returning atmosphere blasted apart the fragments of cooled carbon far and away, while the lump of iron had no chance to cool yet, and thus scattered across the front yard.
+
+Erick was safe behind his sunform, though; he had been quick to deploy that.
+
+As he eyed the scattered metals all around, Erick realized that he needed some scales and some weights, so that he could take actual measurements and record actual data.
+
+- - - -
+
+Iron bar #1
+
+failure
+
+Iron bar #2
+
+5021 g
+
+[C Iron]
+
+4863 g
+
+[C Carbon]
+
+62 g
+
+Missing weight:
+
+96 g
+
+Iron bar #3, control
+
+5063 g
+
+Heat in vacuum
+
+Ending weight w/[Condense Iron]:
+
+5034 g
+
+Missing weight:
+
+29 g
+
+Iron bar #3
+
+5027 g
+
+[C Iron]
+
+4660 g
+
+[C Nickel]
+
+11 g
+
+[C Chromium]
+
+15 g
+
+[C Manganese]
+
+33 g
+
+[C Vanadium]
+
+0 g
+
+[C Molybdenum]
+
+0 g
+
+[C Titanium]
+
+0 g
+
+[C Carbon]
+
+59 g
+
+Missing weight:
+
+251 g
+
+Iron bar #4
+
+5042 g
+
+[C Iron]
+
+4662 g
+
+[C Nickel]
+
+13 g
+
+[C Chromium]
+
+21 g
+
+[C Manganese]
+
+39 g
+
+[C Carbon]
+
+58 g
+
+Missing weight:
+
+249 g
+
+25 tests later, and eventually running through the entire periodic table of the elements, Erick saw a confirmation of what he saw in those first 3 (actually 4) tests. With every spell he tacked onto the working, no matter if it pulled anything out of the central melting pool or not, there was more and more missing weight, directly proportional to how much magic Erick performed on the molten metal.
+
+If he only heated the metal, he’d lose half a percent of the iron.
+
+If he targeted only the metals he knew were inside the ingot, then he’d get more of those end products.
+
+But if he cast 40 different Condensing spells, most of which would do nothing, then every single metal that he expected to get would be lessened, which made no sense.
+
+… Erick had a moment of inspiration, and changed his methodology to run the next tests.
+
+After ten more tests, it turned out all of that oddity with missing metals was just a methodology error.
+
+Abandoning his ‘yin-yang’ setup, Erick had moved to a ‘venn diagram’ setup, where the heated target was in the conjoining all of the various Condensing spells. Iron flowed to the iron side, but in that movement, it hit the barriers of all the other Condensing spells, and if the iron contained something besides iron, those bits of molten metal bounced back; back into the splitting area. Inside of this splitting area, all of the various particles did a lot of bouncing from side to side, breaking apart into molten dust, which eventually passed through the barriers of all the other Condensing spells once the iron and other metals and particles were stripped away by the bouncing. These separated particles then settled into the larger, specific Condensing spell to which those particles were attuned. But in order to actually get those particles to better flow to the center of the designated space, in order to fully collect them, Erick cast more and more Condensing spells of the targeted type, in those smaller areas, like Russian nesting dolls. This design helped to cement all the stray dusted particles into the center of the Condensing spaces.
+
+Using this new methodology, Erick had all but eliminated the problem of the missing metals.
+
+Also! Whoever made these metals put some weird shit in them. Arsenic was present; a few grams per ingot. Silicon, too. Probably from sand getting into the mix? Sulfur and copper and tin were often present, but not always. Oxygen got into the mix, for sure, along with a bunch of other elements that always boiled away under as much heat as Erick was applying, so it was hard to tell how much of that was going on. Also: these metal ingots looked the same, with each of them being grey, 5 kilogram bars, but they all came from multiple different foundries, or at least from multiple different Smiths, for sure. Sometimes the carbon was at .5%, sometimes it was at 3%. Most of the time it was around 1-1.5%. The exact mix of metallic content varied, too, likely due to whatever metallic traditions that particular smelter followed.
+
+And that was enough experimenting for now.
+
+Erick stopped working, for the morning was gone, and it was almost time for the debates. Also, he realized he was unable to do anything with all of this information he had gathered. He knew the particles. He knew how to draw them out of the iron. He knew what interstitial and substitutional alloys were, and how all of that related to carbon and iron and many of the other elements…
+
+But he didn’t know much about metals beyond all that. He had no actual history with metalwork.
+
+This particular project needed to be shelved, for now. Perhaps the Smiths up north could give him some good lessons on this stuff, for there was not much more book learning Erick could do on the subject.
+
+Getting prototype-level gears and axles and such out of this metal won’t be too difficult, for Erick could over-engineer all of that, but making professional gears and frames and axles? Not happening. Erick would need some fantastic sources of molybdenum, first, and he didn’t find any of that in any of his extractions. He’d need good sources of chromium and manganese, too. Sulfur and phosphorus and silicon wouldn’t be too hard to get, for Erick was just now remembering that all of that stuff was important to have in chrome-moly steel…
+
+He wasn’t sure of the quantities of specific metals, though… Or of anything, really. How much chromium? How much molybdenum? How much of all the other tiny inclusions? All he really knew was the name ‘chrome-moly’ to go on. How high of heat? How should it be cooled? How to make ‘martensite’ crystal structures in metal? He barely even remembered that name; ‘martensite’.
+
+Today’s metallurgy had technically been a flop. Erick had not learned what his spells were doing, and he did not know how to make ‘the best steel for gears and such’, which was the nebulous goal at the moment.
+
+But in other ways, the day’s efforts had paid off well. Erick had learned a lot, and now he had a lot of nice metals to play around with, too. He didn’t have all the metals he wanted to play around with, but he had enough to make some of his own steel. It might not turn out as well as the steel that these professionals had made, but it would be fun to try.
+
+Another bit of learning came by varying Ophiel’s Heat Aura. In this way, Erick was able to confirm the melting points of various metals he already knew, and to learn a few of the physical properties of other metals that he did not know before today.
+
+But he had gained one serious question: Had Particle Magic suddenly gained the ability to target individual atoms when Erick wasn’t looking? Or had he always just assumed that it couldn’t target single atoms, because that’s what everyone said? That’s what the gods said, too…
+
+Yeah...
+
+Erick was pretty sure that Particle Magic changed when he wasn’t looking.
+
+… Or maybe, when things were molten, and under high vacuum, and there was little in the way of interference from non-selected particles, and everything was a soup of various melted stuff, then he could target individual atoms? Maybe there was a multiplicative effect gained through all the spells he nested inside one another, too. In some of these extractions there were over 250 spells going all at once.
+
+Huh.
+
+Okay… Maybe Erick was onto something there, with those last thoughts. But like any good scientist, just having a hypothesis that seemed right wasn’t good enough. It was time to test that hypothesis!
+
+… After the debates… Which came after lunch, first.
+
+Jane and Nirzir had brought back food from Pale Cow’s cooking yurts. Over that hearty stew, Erick sat down and extended his senses half toward the debate stage. No one there, yet. Looked like they were still setting up—
+
+Erick asked Nirzir, “Do you have [Viewing Screen]? I keep meaning to get it, but I’ve never bothered.”
+
+“I do have that spell, but only the low-grade and medium-grade versions.”
+
+“What spells did you use for it?”
+
+“The usual.” Nirzir said, “[Force Wall] and [Scry]. I’ve used [True Sight] in a separate spell for when that’s needed. None of my Screens are stable, though, but I don’t want to make the stable versions because I don’t want to be a hermit.”
+
+“No popping protections?”
+
+Nirzir nodded. “Correct; anyone on the other side can pop the sensor if they want to.” Nirzir said, “I don’t even use [True Viewing Screen] that often, as it’s too expensive for most long-term viewing. Usually, [Viewing Screen] is good enough for me. Neither are as good as a mana sense on-site, though. Or even a proper [True Scry]. That whole suite of spells is rather niche.”
+
+Erick said, “I’m going to make a [Viewing Screen], then, so we can watch the debates.” He held out his left hand and rapidly channeled mana through the appropriate spells until they clicked together, into something harmonious— Erick stopped. “It’s missing something.”
+
+Nirzir nodded as she stuck her fork into a piece of meat in her stew. “Yeah. That’s another reason I never made any high-grade [Viewing Screen]. You can go in almost any direction with that, and none of them sound complete. [Force Platform] makes the Screen move as you wish. Shifting the sound and intent can make the Screen appear at both locations, so that you can communicate with someone without using [Telepathy]— Ah. You need to add [Prestidigitation] for that one, so that the other side can hear what you say. [Prestidigitation] needs to go into any [Viewing Screen] you make, if you want anyone besides you to hear what’s happening on the other side. In a different sort of way, [Telepathy] can allow both sides to communicate with each other, but that can make for some nasty False Damage headaches if anyone on either side doesn’t want to participate.” Nirzir said, “You can go a lot of ways with that spell.”
+
+Teressa spoke up, “The Army puts out a book on all sorts of [Viewing Screen] defensive and offensive measures. We could get you one?”
+
+Poi nodded; this was easy enough to do.
+
+Erick said, “Eh. I’ll just make the basic spell right now. Work on something better, later.”
+
+And so he did. [True Sight] was massively expensive, though, at 25 mana per second, but he could handle those sorts of costs, so Erick included that into the spell. He did shuffle [Force Wall]’s 100 minute duration into something smaller, though, to lessen the final costs.
+
+Near the end of his combination, Erick got the distinct impression that he was somehow using a magnifying glass and a sound amplifier to watch a TV that someone had placed at the other end of a stadium. It sounded odd, but it sounded clear, too, so he went with that, and continued onto the next part. After adding in the usual ‘renew-like’ magics that he included in most of his magic these days, the spell sounded clearer, like he was viewing some far away part of the world through a fiber optic cable.
+
+It was weird, but it worked.
+
+True Viewing Screen, instant, super long range, 12,250 mana
+
+Conjure a quick sensor at a known location which sees through all nearby falsehoods, and projects an image of the location onto a screen in front of you. Lasts 10 minutes.
+
+Recasting this spell on the same screen will renew the duration of the spell.
+
+Erick felt a bit lightheaded as mana swirled out of him to create a ‘television screen’ that hovered to the side of the dinner table, showing the empty debate stage near the water. He smiled. “It worked.” He handed the spell out to Jane, who wordlessly wanted to know how his spell had turned out, and then, seeing the inquisitive eyes of Nirzir, he handed out the spell to everyone. “A bit expensive, but not too bad.”
+
+Nirzir’s eyes went wide. “That’s a… large duration, there. Mine lasts a minute.”
+
+“Yeah, but I can afford it. Anyway.” Erick turned away from the screen, asking Nirzir, “Have you gotten far with your self-repairing spellwork?”
+
+“Haven’t managed it yet, though I have been able to see what you were talking about when it came to the natural degradation of a Permanent wardlight, and the wardlight’s ‘desire’ to recreate itself.” Nirzir asked, “Have you managed a new [Personal Ward]?”
+
+Erick smiled. “Not yet. I’m pondering a simple Blood Magic, Variable Cost Variable Defense, though. Have you tried that?”
+
+“It’s better than the base defense provided by [Personal Ward], for sure, but that comes with a few severe drawbacks that makes that option rather useless for most people; one more than most.” Nirzir handed Erick a blue box, saying, “Here. This is one of those I made a while ago. You can see the problem.”
+
+Bloody Personal Ward, instant, personal ward, 100 mana + Variable
+
+Conjure a defensive ward across your body that prevents 90% of damage, and up to a 2x Variable amount of damage prevented.
+
+“Oh yeah.” Erick said, “Even if you can prevent 300,000 damage, you’d need 30,000 Health in order to make use of that protection.”
+
+Nirzir nodded. “Exactly. I abandoned that path early on since I’m not a Scion of Balance, or a Blood Mage. If you’re a Blood Mage you should be able to get that percentage up to 95% and with a times-five Variable multiplier. For a Scion of Balance, [Bloody Personal Ward] is also an attractive option. But not for me.” She added, “Though, Health isn’t everything. Health-theory states that the natural body has a 5 to 10 damage resistance, so if all you’re taking is 100 Health hits, and you have a 90% modifier, then even without any Health at all, you won’t take actual damage— Well… Not dangerous damage. Usually”
+
+Jane perked up. “If you had natural armor, though, you’d have a lot more effective Health, right?”
+
+Poi instantly said to Jane, “Blood Magic is generally heavily restricted; outlawed, in a lot of places.”
+
+“Yet another problem with Blood Magic.” Nirzir said, “But if you can do it, monsters almost always have a high damage resistance, and Polymages can easily take advantage of this benefit.” She waved an empty fork, saying, “I’ve gone pretty far down the ‘damage resistance route’ with my [Personal Ward]s, but it’s hard to do that without [Polymorph], and… No offense, but I’m not turning my skin into chitin. There is obvious useful overlap with some of the [Stone Body]-like magics we spoke of the other day, and there is merit there, but not enough to pursue.” She said, “[Bloody Personal Ward] is just not good enough for me.”
+
+Jane glanced to Poi, then turned back to Nirzir, asking, “But if you had chitin, then you could Blood Magic up some really, really impressive defenses?”
+
+“Only numerically.” Nirzir said, “Which is good enough for most uses, but not enough for me and my goals.”
+
+Erick said, “Might be good enough for me. I’ll try it, after lunch.”
+
+Poi sighed. “Of course you will.” He added, “You know Blood Magic is dangerous, right? Long term unforeseen effects pile up when you use Blood Magic, and this is a [Personal Ward] you’re talking about.”
+
+Teressa hadn’t spoken much, but she clearly agreed with Poi, if her expression was anything to go by. Jane suddenly, silently agreed with him, too.
+
+Nirzir nodded. “He’s right. That’s another reason I didn’t go that route. In the blue box, [Bloody Personal Ward] looks good, but in reality, it fails to live up to the numbers.”
+
+Erick frowned. “Ah. Well. Hmm.”
+
+Erick discarded that idea.
+
+Poi made no attempt to hide his relieved expression, or his light, happy chuckle.
+
+Teressa joked, “Disaster averted!”
+
+Jane said, “But I have the monster ability Perfected Body, which makes me immune to all the long term effects of Blood Magic. I could use a [Bloody Personal Ward] just fine.”
+
+Erick’s eyes weren’t the only ones to go a bit wide.
+
+Nirzir exclaimed, “Lucky! Ugh! That’s the one thing I would want out of Polymage. Everything else I could do without.”
+
+Jane looked like the cat that caught the canary.
+
+“Would that work?” Erick asked Nirzir.
+
+“It does work exactly like that,” Nirzir said.
+
+Jane chuckled lightly.
+
+Poi looked to her, saying, “You need a license.”
+
+“Then I will get one!” Jane confidently declared.
+
+The conversation moved on to other magics, with questions and answers passing back and forth between Nirzir, and Erick. They spoke of the metals outside, and of electromotive forces. Erick asked after what she knew about steel, and Nirzir admitted she had no idea about any of that, but it was an interesting challenge; to make metals strong and resilient to the normal damage that occurred through regular use. Usually only Smiths managed to make anything worthwhile, and those gains were mostly due to their Class Ability, Metal Sense. That Ability allowed rather fine observation of metals in a way that normal mana sense did not.
+
+And that was an interesting problem. Teressa and Erick spoke of mana sensing the interiors of metals, wondering what it was that Smiths could see that they could not. Nirzir shrugged; she wasn’t privy to any Smithing secrets, either.
+
+Erick renewed the Viewing Screen as needed. Jane, Poi, and Teressa, each eventually moved on from the table.
+
+By the time Erick needed to go out to the meeting platform and help the people out there, the debates still hadn’t begun. They were an hour behind schedule. Once at the platform, and since he was already running around with Ophiel, Erick asked a few people here and there about the delay, concerned that something bad had happened. Niyazo and his leaders were in heavy discussions in their gathering yurt, though, so he didn’t disturb them.
+
+Apparently, nothing was wrong; the debates would simply be three hours late.
+
+So Erick went back to work.
+
+Except for the monster hunts, which he could do on his own time, Erick completed all of the major problems people brought to him well before the debates actually began.
+
+When the debates began, Erick was already sitting on his porch, watching through the [Viewing Screen] that hovered in the air, like it was a giant television.
+
+Jane sat beside him, munching on some fried rice balls and sipping a beer. Teressa, Poi, and Nirzir sat behind Erick and Jane. Sitting down and settling in, Erick only now noticed that everyone had a snack except for him. All of them had gone out into the ‘temporary city’ of Ooloraptoor at some point in time, except for him.
+
+Erick asked, “And no one got me a snack?”
+
+Nirzir almost panicked, gripping the last cookie of her bucket of cookies. She had already taken a bite out of the cookie, too.
+
+Jane pointed. “All of your snacks are waiting for you to buy them way over there, at the food vendor street about four kilometers that way.” Then she held the bag out to him, “Or, we can share, but this one is the really spicy kind.” She added, “And I have no idea what sort of stuff out there you’d like. It’s all weird, dad.”
+
+Teressa held close her own large paper bag of near-raw beef strips, not wanting to offer, but offering anyway, “You want a klorztal?”
+
+Poi said, “I got dried fish. You don’t like dried fish.” Almost happily, he added, “No one likes dried fish.”
+
+Erick said to them all, “I think you all purposefully cultivated a joy of terrible snacks in order to not have to share them with anyone else.”
+
+Teressa laughed loud.
+
+Poi just nodded; of course he had done this, for this was what you did while in the army.
+
+Erick glanced to Nirzir’s empty cookie bucket, saying, “Nirzir gets a pass since she ate all of hers before the debate actually began.”
+
+Nirzir just looked at the bite mark in her cookie, unsure of what to do. And then she held it out to Erick.
+
+Erick smiled. “No thank you, but thank you for the offer.”
+
+Nirzir, still unsure, took the cookie back.
+
+Erick looked at Jane’s bag and the clumps of balled rice within. They were made of savory marshmallow fluff and dusted with something green. “I am going to try one of these, though.”
+
+“It’s spicy~~~” Jane teased.
+
+Erick plucked one from the bag and smelled it—
+
+Olfactory pain ripped through nostrils, throat, and mouth. He tossed the treat back into the bag as he turned his head and sneezed into the crook of his arm as his eyes watered.
+
+Jane laughed, saying, “Gross! Don’t throw the snack back in the bag!”
+
+Erick kept sneezing. Tears rolled down his face.
+
+Nirzir said, “I think I need a new snack, too. Anyone else want to come with me?”
+
+Erick blinked out tears and regained himself, saying, “Sure!”
+
+Poi set down his dried fish.
+
+Soon, the three of them were at the food vendor street. Erick got snacks enough for everyone, and they were the good kind. ‘It’s all weird’; phssh! Erick was delayed getting back, though, because a lot of people noticed him and wanted to talk to him, though almost everyone was rather decent about not actually talking to him. Those that tried got told to take an application at the platform outside of his yurt.
+
+The three of them made it back to their seats minutes before the debate started.
+
+… Erick had a strange need for a soda, at that moment. No carbonated drinks on Veird, though; or at least none that weren’t also alcoholic. Meh; whatever.

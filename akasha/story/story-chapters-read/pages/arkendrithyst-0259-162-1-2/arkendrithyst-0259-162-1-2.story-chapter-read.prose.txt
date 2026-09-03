@@ -180,3 +180,356 @@ Of the 740 people in Xue’s packet, Erick narrowed down the possibilities to a 
 
 Ophiel rapidly investigated those hundred people and their properties.
 
+As Erick guessed before he started his search, the various alchemy labs here and there were filled with more plants than metals; the Lightning Mages were the only ones he actually needed to speak with, but it was always good to be diligent. Perhaps Erick’s perfect target was obscuring their work behind various [Ward]s and whatnot, but Erick didn’t need the perfect target; he just needed any target at all.
+
+Erick rapidly found two people with workshops filled with iron and copper and all sorts of conducting metals. One of the Lightning Mages was not home, so Erick went with the other.
+
+In a wide open back yard, a conglomeration of five-meter tall steel rods arced electricity from tip to tip, while a female mage stood between them all, under a cage made of thick wires and wearing thick, dark glasses. Her off-white tunic and pants were singed, while her black hair was cut as short as a crew cut, and her exposed skin was as little exposed as it could be. Flickers of lightning occasionally burst from the surrounding poles to strike at the cage, but the mage seemed unworried. She was trying to do something with the lightning, and though Erick saw something unnatural shift in the arcing bolts, he had no idea what the woman was actually doing. Or trying to do.
+
+However, the goal of ‘Zolique Diligent Scribe, age 46, Lightning Mage’, as listed in her one page information sheet, was to make metal armor obsolete through the application of perfected Lightning Magic. So she was probably doing something related to that. Something to make lightning target metal better than it already could.
+
+Ophiel floated down into the side of the arena, near the house, equipped with an [Animadversion] to keep the electricity away, though he was already nowhere near the danger zone.
+
+Zolique didn’t notice. But her helper, a young man who barely seemed old enough to Matriculate, did notice. Ophiel had descended to float only a few meters away from the boy, after all, so he darned well better notice. Experimenting mages had watchers for reasons, after all; to look over them while they were in the throes of magic-making. The boy even had a rod of [Treat Wounds] in one hand, and another rod of [Dispel]. The second rod was rated for 100 mana [Dispel]s according to the words on the side; an expensive one, for sure, but likely not too useful. Perhaps it was all they could afford? The house/workshop behind the boy was filled with scattered metal experiments, but very little in the way of comforts.
+
+The young man started yelling, “Ma! Ma!.”
+
+Son and mother, then.
+
+Zolique yelled without turning to look, “I’m busy!”
+
+“MOTHER! LOOK! NOW!”
+
+Zolique whipped around, saying, “Wha— OH.” With a wave of her arm, the lightning stopped. She raised her dark glasses and shoved open the metal cage, rapidly taking off her gloves and letting them fall to the ground as she said, “Oh my Bright Gods. It’s you! Well. Your [Familiar] but. Hello, Archmage Flatt. What brings you to my humble home?” She brightened, her eyes glittering with bright blue-white light. “It’s my breakthroughs, isn’t it!”
+
+Her son calmed immensely and became almost a background figure, now that his mother was in the moment.
+
+“Hello, Zolique Diligent Scribe.” Erick said, “I’m not too sure about your specific breakthroughs, but I have heard that you have managed to do some work with Particle Magic, and lightning, in particular. I’d like to know about a few of your spells, if you’re amenable.”
+
+Zolique’s smile brightened. “Yes I am! I would love to talk about that!” She gestured to her house, saying, “Would you like to come here in person? I can make some tea.”
+
+“Perhaps another day. I’m in the middle of one of my own experiments, and I’m sure you wish to get back to yours, too—”
+
+“Oh yes! Of course of course.” Zolique went with the flow. “Which spells are you interested in?”
+
+“I have a sheet of paper here that says you have [Small Spark], [Insulate], and [Superconductor].” Erick said, “I’d like to see you perform those three spells, as well as any smaller ones you have that are at the power level of [Small Spark].”
+
+“Sure!” Zolique said, “All I require is the answering of a few questions and three grand cores, so that I may fund more of my own research.”
+
+Surprisingly direct.
+
+Erick approved.
+
+“I have the grand cores; that cost will not be an issue. The questions might be problematic.” Erick said, “Ask three questions.”
+
+“How do I make [Call Lightning]?”
+
+“Be a Particle Mage; It’s Particle Mage only.”
+
+Zolique’s joy died in that moment; a sudden death, for sure.
+
+“… Fuck!” Zolique scowled as she stomped her foot— She pushed her hands down and out, slowly exhaling, calming with every passing moment. When she was done with that, she paused. She thought. She said, “Okay. Question two of three: Your world ran on lightning. How?”
+
+“I’m working on replicating some of that right now, which is what prompted this visit in the first place. All my spellwork is too strong to be useful, and truthfully, I’m thinking that even [Small Spark] might be too strong, but I won’t know until I actually have the spell myself.” Erick said, “The short, inadequate answer is ‘copper and other types of wires carrying electricity to various tools that work on electricity’. The longer answer would be a full university education, of which I know only the basics. Someone besides me would have to put that together for you, so check back in a hundred years after this stuff gets around enough. Or figure it out yourself, and found that school.”
+
+Zolique stood straight, hanging on every one of Erick’s words. She didn’t speak for a while after he finished, her eyes trailing off into the distance as she thought. And then she looked to Ophiel, and said, “I wish to save my third question. I will show you the three spells I have— I didn’t actually make them myself— I mean. I did. But what I tried to make was not what came out. What came out was the standardized spells of the Script.” She rushed, saying, “I have no other Particle Spells that I am comfortable showing.”
+
+“Understandable.”
+
+Zolique gestured to her iron pole yard, then walked that way, saying, “I can cast all the pieces here.”
+
+Ophiel followed.
+
+Zolique went to the side of the yard, to a bin that was [Ward]ed with some sort of magic. Most of the space around here was [Ward]ed, and Erick guessed that it was [Insulation Ward], since the lightning in the large rods hadn’t jumped at much, besides each other and Zolique’s metal cage. Zolique opened the bin and pulled out a small block of shiny red-orange copper—
+
+She stopped.
+
+She retrieved the gloves she had dropped onto the ground and slipped them back on her hands. She held the block of copper, and said, “[Small Spark].”
+
+A single, tiny flicker of blue-white electricity sparked from the metal block and flowed into the air, but went nowhere. The sparks did not touch her gloves, for the gloves must have been insulated, perhaps even [Insulate]d. Well [Small Spark] was a rather simple spell, wasn’t it. Erick saw how it worked, too.
+
+Erick checked himself, and, yup! There was the blue box for [Small Spark]. He spoke through Ophiel, “Okay. Thanks. I see how that one works. Next?”
+
+“[Insulate] is easy.” She walked over to a metal pole sticking out of the ground and cast a spell upon it, then moved the charged copper block close to the pole. Small sparks jumped away from the bar, but didn't touch the pole; it was insulated. "There we go. The pole is protected from Particle Lightning. No singeing." She held up the gloves, saying, “I enchanted these with [Insulate] a while ago, so that’s the only reason they’re not singed, either. Do you see?”
+
+“I do.” Just like that, another blue box was added to his Status.
+
+“[Superconductor] seems to make all Lightning Magic ineffective against a metal target, but in a way I’m still trying to understand. It does other odd stuff, as well.” Zolique cast the spell in question on the metal rod, then held the sparking copper next to it. Sparks arced from the copper to the metal rod, like someone had opened the tap on a water faucet, and then the sparks died, for the copper was out of power. She tapped the metal rod where the sparks had touched. “No lightning damage in this case, either. Usually there’s some when you’re using Lightning Magic, but not here. And yet, when you cast [Superconductor] on the copper bar—” She did so. “And then you cast [Small Spark]—” She did so. The copper bar sparked with twice as much intensity as before. “I think it heightens the [Small Spark]’s transferal of electrons. Is that what is happening—” She shut her mouth. She said, “That is not my third question.”
+
+Erick smiled as he checked for his new blue box, and yup, there it was. [Superconductor]. With a thought, and a bit of action, Erick laid five grand cores from his recent kills onto the ground next to Zolique’s house. Zolique’s son noticed the new wealth much faster than his mother. The kid’s mouth dropped open as he stared at the wealth in front of him. He almost dropped the rod of [Treat Wounds] but he caught himself before the life-saving item slipped too far out of his grip.
+
+“Thank you, Zolique. That was most instructive.” Erick gestured to the house, to the pile of grand cores. “I’ve included 2 extra grand cores because I felt like it.”
+
+Zolique whipped around. She saw. “Oh! Oh my gods! Yes!” She wanted to rush over there and put her hands on the darkly glittering cores, each of which was the size of her own head. Her son was already poking them with a finger like he had never seen so much money. Zolique reluctantly turned back to Erick’s avatar, though half of her words were thrown in the direction of her new wealth, “Thank you, Archmage! My grand core was lost in the fires, but this is! This is great! I can sell two and fund everything! Thank you!”
+
+Erick said, “Thank you for your bit of assistance in gaining these basic tier spells. And because this has gone so well: here’s some hints about electricity. Have you tried using [Superconductor] metal around magnets? Do you have the Basic Tier spell: [Magnetize]? Do you know how to make a magnet? You should learn. Have you tried running [Small Spark] through wires? Through coiled wires? The wires have to be insulated against themselves, of course. You might need a mundane solution to see the effect, though. Anyway. Lightning is very dangerous. I’m glad to see you’re taking the danger seriously.”
+
+Zolique was speechless. Her joy over the grand cores was completely overshadowed by her drive to experiment with electricity. And then she snapped her fingers at her son. “Paper! Pen!” She asked Erick, “Could you? Uh. Repeat all that?”
+
+Her son rushed Zolique’s way with a pad of paper and a pen in hand.
+
+“I’m not going to repeat that.” Erick said, “But I will say that the only thing that fueled my world’s need to tame lightning was so that we could have lights at night. You don’t have that need here. It might take longer for any sort of electrical revolution to happen on Veird, so I might drop in sometime in the future, if I feel like it, and if you would be amenable to another visit.”
+
+Zolique instantly said, “I understand! Thank you, Archmage. I would graciously accept your visitation at any point you wish to return.” She bowed.
+
+Her son stopped where he was, and bowed, too.
+
+Erick departed.
+
+- - - -
+
+Small Spark 1, instant, touch, 5 mana
+
+Electricity flows in an object of small size. Lasts 1 minute.
+
+Exp: 0/100
+
+Insulate 1, instant, touch, 10 mana
+
+Prevent the flow of electricity in an object of medium size or smaller. Lasts 1 minute.
+
+Exp: 0/100
+
+Superconductor 1, instant, touch, 50 mana
+
+Electricity may flow freely in a conductive object of medium size or smaller. Produces a myriad of effects. Lasts 1 minute.
+
+Exp: 0/100
+
+When Erick checked on the same spells in the Open Script, both [Insulate] and [Superconductor] had their sizes listed as ‘small’, while [Small Spark] was listed as ‘minor’. Erick guessed that his Class was responsible for the obvious increase in power. This was probably fine. It probably meant that his [Small Spark] was more like a ‘[Medium Spark]’, though.
+
+This was fine!
+
+It was time to experim—
+
+Ah.
+
+He needed copper.
+
+And paper and mineral oil. And enamel to coat the wires; something flexible and yet resilient enough to last for a while without flaking— No. Wait. It wasn’t actually enamel that coated wires. It was polymers… Which came from oil, which Erick already knew would be a problem.
+
+Finding the paper and copper itself was easy enough. The paper came from the papermakers, and was of butcher-paper quality. Erick got a whole cylinder of the tan-colored stuff.
+
+The copper was a bit more difficult. Enchanting material shops (which doubled as wrought-quality metal diners in a few locations) only had wrought-quality copper. Erick needed the plain stuff. This sent Ophiel skipping off to some mines in the foothills of the Tribulations. It was there, directly from the source, that Erick got his copper. It wasn’t of the purest quality, but he could refine it himself, if it needed refinement.
+
+If he had wanted, he could have gone to the bank and withdrawn a thousand gold worth of copper coins, but that was wasteful, technically illegal, and the copper content of coins was rather suspect to begin with. Erick wasn’t sure what copper coins were cut with, but such testing was unnecessary, anyway.
+
+Finding oil was impossible. Not just any oil would do; it had to be mineral oil, which was usually a byproduct of crude oil refinement. In fact, all crude oil byproducts were non-existent. There were lots of organic oil products, though, all of which were derived from plant-based sources. But plant-based oil would eventually go rancid. Mineral oil did not go rancid.
+
+A bit of further exploration led to the happy discovery that someone had invented ‘eternal oil’, which Erick was almost 100% positive was just their name for ‘mineral oil’. He found it at a paint store. Eternal oil came from a variant of the oil vine, and it had a shelf life of ‘forever’. There were a few warnings on the metal container that it was not for consumption, and would cause loose bowels when taken orally, but otherwise it was great for mechanical lubrication needs, for it would allow the [Alter Friction] of even the most middling of mages to achieve near-zero friction capabilities, and for [Control Machine] to work with even less scraping and breaking. Mostly, though, eternal oil was used to mix oil paints. From the display set up in the paint store, Erick got the distinct impression that the seller was trying to sell their product in other markets, but they were having little luck.
+
+At the same paint store, Erick picked up a few different varnishes and enamels, to see if they worked for his insulation needs, but he doubted they would; they all dried hard, and brittle. Some applications of heat and specific cooling might change that, though. But the better bet was to get some rubber insulation, so Erick went around looking for rubber vines, and he eventually found some at an alchemist's shop. He purchased a bucket of the stuff, fresh from the vine, as well as instructions on how to harden it using a packet of provided yellow rocks. The alchemist called the rocks ‘yellow mold’, though Erick knew them as sulfur, and he knew the process the alchemist spoke of as vulcanization.
+
+He had actually used rubber before when he made his gramophone, but with that project, Erick had used preformed rubber that would resolve to stiffness under gentle heat. This stuff was baseline; pure. Erick would need to do the whole vulcanization process himself.
+
+He was ready to make some electric prototypes!
+
+Erick organized his new materials, sat down, and smiled.
+
+Buckets of oil and rubber and a dozen different types of enamel and varnish rested on the table before him, along with some last minute resin purchases that might work well for specific applications. The roll of butcher paper was off to the side; Erick wouldn’t need that right now. He also grabbed a clump of eternal stonewood from his mountain down south; that would be useful for casings and other stuff like that. For non-wire metal needs, Erick had the steel bars from the elders of Ooloraptoor, sitting off to the side, while directly in front of him laid 12 bars of copper, each weighing in at 5 kg apiece. All of everything here was a lot more expensive than Erick thought it would have been, with the total costs coming in at 79 gold.
+
+Erick chuckled to himself. This was so, so much cheaper than enchanting materials!
+
+This made so much more sense to him than enchanting, too, though he was probably going to end up incorporating some magic to this project somewhere down the line. If the varnish/enamel/rubber/resin proved to be a failure point for creating insulation on his wires, then [Insulate], combined with some specific Shapings, would be the next plan. Short circuits would likely be the largest failure point of this whole project.
+
+Then again, short circuits were the largest failure points for all electrical devices, weren’t they?
+
+Jane came by, looking at his stuff, and declared, “You’re trying to put insulation on wires, right?”
+
+There was something about her tone that made Erick worry.
+
+He gave a tentative, “Yes?”
+
+“Why not use spider silk? I might be able to make it conductive on the inside and insulated on the outside. No need for wires, at all.” Jane paused, then went, “Err… Or, if that didn’t work— It probably wouldn’t work because of overheating concerns. Probably too many points of failure there to make it a repeatable thing, too. Which, in that case, you can just cover copper wires in silk which I know is non-conductive, stable for a long time, heat resistant, and able to fully envelop something as small as a copper wire. It’s also non-sticky as soon as it dries, and it dries in moments.”
+
+Erick stared at his daughter, watching as she slowly grinned, wider and wider.
+
+For a long moment the last few hours seemed like a waste—
+
+But then Erick considered the needed complexity of wires and polymers when it came to actual electronic devices, like a solid state drive—
+
+Nope. ‘Solid state drives’! He was kidding himself thinking that far down the line. He had seen more than enough engineering videos about electricity to know the basics, so he had no doubt that he could build an electrical engine as soon as he gathered all the pieces, since he had made a small DC motor when he was a teenager. In a similar fashion, cars were easy. But Erick barely understood how a computer actually worked, and, as his thoughts solidified, he found he didn’t care how a computer worked, either.
+
+All Erick wanted to do was experiment with electrical motors and other fun engineering projects. Building a car was fun. Shaping houses out of eternal stonewood was fun. Making the yurt was fun, too. Making Veird’s first electrical motor would be super fun!
+
+But the tiny stuff? Let someone else figure that out!
+
+… But he would have to figure out how to make a transistor himself, soon enough. Maybe next month.
+
+Erick asked, “Want to try some engineering with your old dad? Make an electric motor?”
+
+“Yes,” Jane said, without reservation.
+
+Erick gestured to the chair sitting beside his own, asking, “How do you know your silk isn’t conductive?”
+
+“When I was with Riri; we went over all of that stuff.” Jane sat down on the second chair. She flexed out her left arm, her shirt sleeve fluttering and then bulging with extra flesh as her arm shifted underneath. Her hand became a bit larger to accommodate some sort of central structure, while her fingertips changed, flattening out and then becoming grippers all of their own. “She taught me a lot. See?” Her hand was now a collection of precise pedipalps, while spinnerets filled the base of her palm; a good 15 tiny extruders, each capable of their own silk production. She made a grabbing motion, smiling as she said, “I need a wire, dad.”
+
+Erick’s attention lingered on Jane’s hand; her whole arm, really. It was impressive. Jane had what appeared to be a few hundred biological systems laid down in her flesh, each working alongside each other. It was also completely terrifying. Erick tried to keep that emotion to himself, though, as he said, “That’s an impressive [Polymorph].”
+
+Jane smirked. “I know it freaks you out.”
+
+“I mean… Yes. But it’s still impressive.”
+
+“Copper wire, please!” Jane said, making a horrific, yet playful grabbing motion with her left ‘hand’.
+
+Erick ignored all that and grabbed a bar of copper. He began Shaping it out into a wire, drawing the metal around with both his light and an intentful [Metalshape]— He stopped. He had produced maybe a meter of wire before he realized just how much 5kg of copper would make. Erick took his 5kg blob and divided it into three.
+
+“How much polymer do you think you could wrap around a wire?” Erick asked, “Going for minimum thickness and maximum distance?”
+
+“Thin as a hair and I can probably coat a few hundred meters before needing to eat.” Jane said, “[Thread Control] speeds up metabolism, forcing silk production, but that material does come from the body.”
+
+Erick nodded. He grabbed a third of the copper wire and [Metalshape]d it with the spell and with his own solid light, rapidly extruding the metal through a pinhole a bit larger than a millimeter. A minute later, he was done. The wire was probably 16 or 18 gauge; he wasn’t sure. Once it got a spider silk coating it would be much thicker, but hopefully not too much thicker.
+
+He could use solid-bar copper for larger motors, but he wasn’t sure if that would work for a prototype size, and he wanted actual wires, anyway.
+
+Erick moved the large spool to Jane, saying, “That’s about 125 meters of copper wire. Get coating!”
+
+Jane laughed, then she grabbed the wire.
+
+While Erick spun the next two copper bits into two more 125 meter-long sections of wire, he watched his daughter work. She took one end of the copper in her spinner hand and began by manipulating it through her spinnerets, using her pedipalp-like fingers to guide the silk onto the metal. A few twists of her hand and a bit of repositioning later, and Jane had perfectly white silk spinning around the wire, coating it in a layer… Jane looked at the pile of copper wire in front of her.
+
+Jane paused. She said, “I need to reposition this whole thing. This angle is not going to work”
+
+Erick offered, “I can make you a machine that can hold it for you?”
+
+“No no.” Jane extended her shadows into the air, grabbing the wire and holding it tight, “I can do this, too— Or!” Her shadow retreated as she flickered; a brief solidness taking over her flesh, before that retreated, too. And suddenly, Jane had control over the metal wire. The coil lifted into the air as Jane stood up, and moved away from the table. With concentration showing on her face, the large coil of wire hung suspended around her right hand, where it gently turned, feeding a length of wire across the air, to Jane’s spinneret hand, where she layered silk around the wire. The coated wire continued on, to gently arc through the air, into a large loop. It was kinda graceful. Jane smiled, saying, “I got it.”
+
+Erick asked, “[Stone Body]?”
+
+“Yup.” Jane said, “I’m not stressing the wire into deformation territory, either, since it’s just [Stone Body] and not [Metal Body].”
+
+That was a really nice application of that Elemental Body. Perhaps Erick needed that one. Except…
+
+Erick asked, “Do you feel like you could deform the wire? Or that you might accidentally?”
+
+“Oh yes. I definitely could. But I’m just holding it and guiding it. This is not the delicate balance of holding and not crushing a wardlight, while in [Lightwalk]. This is more like holding a solid marshmallow; I could bend it out of shape, but that would require effort.”
+
+“Huh. Good.” Erick said, “Stop when you get to 50 meters. I want to try out a coil… If it’s dry enough?” He glanced toward the coiling wire, watching it hang in the air next to Jane. Parts of it were already touching itself. “I guess it is?”
+
+“Fast drying silk.” Jane said, “I tested electrically insulating silks with Riri for applications on anti-lightning charms, and webbing, in general. Lightning Magic likes to flow along a surface and webs are way too vulnerable to that sort of disruption, so it’s important to preemptively guard against that sort of thing.” She added, “When your engineering brings you to make a lightsaber; I want one, dad.”
+
+Erick laughed. Then he paused. “Would you like a plasma based one? Or a lightning based one? Or one that cuts really well?”
+
+“Yes.”
+
+Erick smiled. “I already swore off making weapons, so you might be out of luck. How about I make you a go-kart, instead? You always wanted one of those growing up, and I can finally get you one!”
+
+Jane laughed. “No thanks, but tell me how you plan on making an engine.”
+
+Erick began, “It starts with the left hand rule. Do you remember anything about that?”
+
+“Nope!” Jane said, “Explain it to me.”
+
+“Well. The first thing is that you don’t have to remember the left hand rule from Earth, because I’m changing how it was taught.” Erick nodded. “Take your left hand thumb up, pointer finger extended forward, middle finger extended to the right. The current flows from negative to positive; from the base of your pointer finger, to the tip. When in the presence of another magnetic field, which is indicated north to south based on the direction your middle finger points, the force that acts upon the flowing current moves the wire the direction of your raised thumb.
+
+“Now, curl your hand like this, with the thumb up and the fingers curled into a fist.
+
+“The direction your thumb points is the direction of electron flow in a wire, from negative to positive. The curl of your fingers is the direction the magnetic field spins along that wire, and along that field, you get north and south poles. We’re always going north to south, here.
+
+“You already know that north repels north, and is attracted to south, and vice versa.
+
+“Taking all that together, you can make a system of wires that turn into electromagnets, and when the system rotates, you turn some circuits on, and some circuits off, depending on the path of least resistance between the negative in flow and the positive out flow, creating a constantly rotating system of north and south magnets.
+
+“… We’ll go over that part a few times, so don’t worry about that.
+
+“The whole trick is about putting these electromagnets around real magnets, and with a bit of engineering, you can make the switching-electromagnet constantly try to align itself with the permanent north and south magnets of your machine. It is like Sisyphus, constantly rolling the boulder uphill.” Erick said, “But all of that is just the engineering parts, and I might have told it wrong. I’ll have to do actual experiments to see if I can combine these jumbled ‘conventional’ and ‘electron flow’ ideas into reality.
+
+“In this way, you create an electric motor. The only limits to the power of a motor is the engineering fidelity, the materials used, the load you place upon that spinning motor, and inertia and all that.” Erick knew he had lost Jane, but that was fine. “We can make a small motor together. It’s really quite easy once you get all the pieces together. I made one when I was a teenager. I tried to make one with you when you were in highschool, too.”
+
+“Yeah… I… Was not good with that.” Jane went a bit further with her wire coating, then flicked the metal with her pedipalp fingers, cutting off the coated section from the rest. With a gesture, the completed wire floated up, into her hand. “I think that’s ten meters.” She handed it over, saying, “You know, I always screwed up conventional current versus actual electron flow. I barely passed that whole section of science class.”
+
+“And now, we have the makeup exams!” Erick grinned as he took the wire.
+
+“Ha,” Jane deadpanned.
+
+Erick smiled, and with a clip of hard light, he sheared off a few decimeters of the coated wire and set the rest to the side. “We won’t have those sorts of ‘conventional current’ versus ‘electron flow’ problems here. North and south are what we say they are, and I’m only telling people about electron flow, negative to positive, and that’s going to be synonymous with conventional current. What I said about the left hand rule is not actually what you learned in class years ago, but I’m making it the rule. I will have to make adjustments, of course.”
+
+“You’ve already lost me.” Jane sat down beside her father, shifting her left hand back to normal as she said, “But that’s fine.”
+
+“I didn’t explain it all that well, either. But anyway! We begin with this wire. Let’s see if it short circuits!”
+
+Erick explained to Jane what he was doing as he grabbed a hunk of iron with a [Metalshape], turning it into a thumb-sized item. He twisted the small section of Jane's wrapped wire into a jumble, then, exposing two ends of the wrapping, he cast [Small Spark] onto the iron bolt, and put the two ends of the wire onto the two ends of the gently sparking iron bolt. Sparks latched onto the copper wire as the conductive path was much easier to flow through the wire than through the air. Erick watched for short circuits in the coil, where the only thing stopping a short was Jane’s coating. He expected sparks, but he only got heat, and not much of it, either.
+
+And soon enough, a minute passed.
+
+“And the coating works great!” Erick smiled wide. “No shorts. No heat failures! The copper wire is actually hot, but I can’t tell by touching the coated part. The coating is fantastic insulation!” Erick got up and hugged Jane. “Awesome. This is fantastic.”
+
+Jane hugged her father back, happily saying, “I’m glad I could help.” She laughed as she pulled away, saying, “Now show me how all the rest of it works.”
+
+“Of course! Let’s start with this:” Erick floated an iron bar into the air before them, and with a [Metalshape], burst it out flat and thin. One 5 kilogram bar became over a meter square, with a half millimeter thickness. “Now, we take this and cut out flat circles, then pinch those circles so they have a three raised Ts on the edge, with the top part of the T facing outward, each of them 120 degrees off of the next. We take a bunch of these and affix them in a series on a wooden dowel, with thin bits of wood separating each section of iron. This, and a bunch of wires wrapped around those T blocks, will form the basic armature, which will be the drive shaft of the motor; the rotor. We also have to have specific sections of metal sticking out from this rotor, where the metal brushes will touch, and thus form a continually shifting circuit as the whole thing spins…”
+
+Erick spoke as he assembled a motor, right before Jane’s interested eyes. Some parts of the motor were less than well done. For instance, permanent magnets would be nice to have, for at least this prototype. But… It shouldn’t be too much work to make electromagnets out of the same power source that fed the rotor? That would be having a series electromagnet rotor… Right?
+
+Yes. Erick could do that, too.
+
+OH! And using electromagnets, set in parallel with the rotor, will make everything a lot better, as there will be no need for permanent magnets!…
+
+That would be version 2. For now [Magnetize] and the resultant semi-permanent magnets would serve for this first prototype…
+
+Oh. Wait. He could make actual permanent magnets with [Magnetize]. Probably? Oh. Yes! He could.
+
+Erick showed Jane how to take a bit of metal, cast [Magnetize] upon it, and then heat and hit the metal to force the magnet to retain the [Magnetize] effect long after the spell actually wore off. He wasn’t sure if his demonstration was going to work as he expected it to work, but it should have. And then, it did; once the [Magnetize]d bit of metal cooled down, and [Magnetize] wore off, the bit of metal retained its magnetic properties. Exactly how Erick thought it would.
+
+Erick held up the now-permanent magnet, and smiled, telling Jane, “I have ‘enchanted’ [Magnetize] onto a bit of metal, with a bit of heat and hitting, I have affixed this spell to this bit of metal; permanently!” He joked, “It’s an artifact!”
+
+Jane sarcastically said, “With all these accomplished capabilities, one might think you an archmage.”
+
+“Hey now. Permanent enchantment is a big deal!”
+
+Jane went back to the motor, pointing at the coils wrapped around the rotor, “I need you to explain this part again, with the electromotive forces and the left hand thing. How can you tell where the force goes?”
+
+Erick pointed with light as he spoke, “By seeing how the polarity is induced in the coil, and based on where the magnets to the sides are, this is how...”
+
+While Erick taught Jane, he also leveled his new spells to 10. Each one changed in the expected way; to last ten minutes per cast instead of one.
+
+Small Spark X, instant, touch, 5 mana
+
+Electricity flows in an object of small size. Lasts 10 minutes.
+
+Insulate X, instant, touch, 10 mana
+
+Prevent the flow of electricity in an object of medium size or smaller. Lasts 10 minutes.
+
+Superconductor X, instant, touch, 50 mana
+
+Electricity may flow freely in a conductive object of medium size or smaller. Produces a myriad of effects. Lasts 10 minutes.
+
+With his magnets set on opposite sides of the motor’s housing, and his three-coil rotor sitting between those magnets, Erick put the final touches on the brushing setup which would transfer [Small Spark] onto a varying circuit. The whole thing was about the size of a large coffee mug. Where the axle came out of the rotor, Erick placed a tiny fan, more for looks than to do anything impressive.
+
+And then he cast [Small Spark] on a prepared block of copper the size of his thumb, and placed the block into a holder connected to the brushings—
+
+The rotor rapidly spun the very moment the copper got near the terminals. Erick smiled, snapping the copper firmly into place, ensuring a good connection. The rotor spun even faster; the tiny fan kicked up a mighty, tiny gale.
+
+And then the rotor broke. The coiling innards lodged themselves sideways in the engine while the fan took a trip across the yard.
+
+Erick laughed. “Okay! It works!”
+
+Jane, wide-eyed, said, “I guess it does.”
+
+Erick started troubleshooting, saying, “Ah. See here? The brushings melted.” He said to Jane, “Brushings are a failure point anyway since they’re constantly rubbing and that’s bad. This can be fixed by making a different type of motor, called an induction motor, but that requires AC current, and all we have is DC current. I need to make transistors in order to change DC to AC, and I’m not able to do that right now.” He added, “I could make a brushless DC motor if I had actual electronics, or even just some simple parts like transistors and diodes and resistors, but we don’t have any of those right now, either. I’d need all of that to make AC current out of DC current, too. So this is the bottleneck now; transistors.”
+
+Jane poked at the broken rotor with her shadows, frowning. “This seems more complicated than enchanting.” She looked at the other coils of wire, asking, “Want me to web the rest?”
+
+“Yes, please.” Erick asked, “You want to make your own motor? Try it out? I want to grab lunch before it’s time to talk to people.” He glanced across the way, to where groups had been gathering near his platform for the last hour. There were maybe a hundred people today, and Erick had not taken a moment to inspect any of them. Between what it took to create this motor, and Bless the cultists up north, and teach Jane the basics of electromagnetism, Erick’s processes were full. He eyed some of those people now, though, and studied them as they studied Erick and his experiment from afar. “I think some of them are only here to watch me work.”
+
+“They’ve been staring at us for the last few hours.” Jane nodded.
+
+Erick’s gaze lingered on a few rubberneckers as he devoted some of his attention their way. “I see a few people with requests I completed after I told everyone to go home. Maybe they just want to thank me?”
+
+Jane ignored all of that, and looked to the clump of eternal stonewood on the ground, saying, “I’ll find my own source of wood.”
+
+“Ah! I can fix that. Here.” Erick had an Ophiel near the Blessing site in the mountains take a detour for a moment, to find a tree with some seeds. In the work of another three moments, that Ophiel lightstepped back to Erick, at his yurt, carrying a seed. He planted the seed in the ground, away from the pond, and cast [Living Petrified Treeshape] on the seed, rapidly raising a twisted, stony tree out of the ground. The tree continued to grow as Erick said, “That’s [Stoneshape]able wood. It might be too dense, but I know it’s electrically non-conductive. Or, you could just use more webbing, for the whole thing.”
+
+“I’ll try both.” Jane asked, “Have you tried casting [Small Spark] on the wire in the motor, itself? That way, you wouldn’t have brushings.”
+
+“Well. The only way that the motor turns is because the shifting electrical current constantly shifts the north-south polarity around, thus turning the motor.” Erick said, “Of course, there could be a way to make your suggestions work, but I haven’t thought of it. Anyway, it’s almost noon.” He saw Poi standing on the yurt, then turned back to Jane. “I’ve got to get to work. Love you. Have fun!”
+
+Jane waved him off, saying, “If you need me, I’m here.”
+
+“I know; thank you.” Erick waved, and walked away from his daughter and his projects, toward the edge of the dense air surrounding— He hooked a right, toward the yurt, and walked to Poi. “A quick lunch, first.”
+
+Poi had a hearty sandwich and a cheesy stew waiting for him. As Erick ate, he had Ophiel glance over the various petitioners waiting outside his temporary property. Most of the people out there had large concerns that were only easy for an archmage, or for a team of highly skilled and high-leveled people. Erick would dismiss the rest of them, but all of them could wait a few more minutes. This food was delicious!
+
+As Erick headed back out of his protected space with Poi following at his side, he felt good.
+
+Helping people felt great.

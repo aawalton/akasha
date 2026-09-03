@@ -142,3 +142,424 @@ Erick smirked, saying, “I’m an archmage, so I got one in the mail from Rozet
 
 Kiri leveled a glare at Erick. “If you don’t want to tell me, that’s fine.”
 
+Erick smiled, having already given the answer he was willing to give…
+
+Mainly because he had no idea what he had done. Was it [Duplicate]? Or something else?
+
+Kiri waved dismissively as she walked away.
+
+Returning to his work, Erick wondered if [Duplicate] was all it took to make wrought-quality metals. There was a test for this. He could use a coin. The common copper piece, silver piece, and gold piece were slag iron at their core, each wrapped in layer of the appropriate metal. They were also horrible for enchanting. Ophiel retrieved coins from Erick’s bags upstairs in his room and brought them to the tower.
+
+Erick made rings out of each kind of coin, and then he copied them.
+
+The copied rings all worked as wrought-quality metal.
+
+“… What?” Erick sat back in his chair. “I guess… The act of copying makes them semi-magical metals? Is that all?”
+
+But then an anomaly appeared.
+
+The original rings were also wrought-quality metals.
+
+They should not have been wrought-quality metals. They were mixed metals, and though Erick [Cleanse]d them first, they were still partially rusted on the insides of three of his coins. Erick couldn’t even tell that they were rusted on the inside until he [Metalshape]d them, but they were. And the rust didn’t interfere with the enchantment-capability of the metal!
+
+“What is going on here?” he mumbled to himself.
+
+He got Kiri involved, at that point, because this was too silly.
+
+Kiri took one look at the coin-metal rings, and said, “That’s not possible.” She smiled wide, seeing something that should not be, so it obviously needed investigating. “Let’s get more coins.”
+
+And so they did. From inside the house, first, but Kiri quickly moved to outside sources. While Erick worked on the rings, he had Kiri purchase a few necessary items at four different stores before it was strictly necessary to purchase them, like milk, and meat, and a few spices that were running low. She got coins in exchange, which was the true purpose of the buying spree. She even stopped by the Mage Bank to turn in some rusted gold coins for fresh ones.
+
+[Mend] didn’t work on rust, for some strange reason—
+
+Nope. No more tangents. Get back on track.
+
+Every single coin gained from outside the house acted as it should have. In other words: it did not work as wrought-quality enchanting metal. There were a few 5% Stat-resonance pieces, but even that was considered a failure by any measure of enchanting.
+
+Every single [Duplicated] coin, worked.
+
+But then came another problem. Kiri figured out the full extent of Erick’s current experiment when he absentmindedly copied a coin-ring right in front of her. As soon as he did it, he froze, thinking horrible thoughts, yet knowing them to be untrue. Kiri froze, too.
+
+And then she laughed.
+
+“Wow. The look on your face.” Kiri smiled, saying, “I already knew that you had this spell, Erick. But… I thought you just had access. Like. A helper. I mean… You had a small box of darkchips and then you had a million. I didn’t see it, but I heard the story.” She shook her head, then said, “I’m not telling anyone, of course. I know how big this spell is— Let’s just… Never speak of this again.”
+
+Erick smiled softly. “Sounds good to me. And now, you can help me experiment some more!”
+
+“Well… Then…” Kiri pointed to the dense air, saying, “Experimenting inside a [Ward] is bad enough, but this thing is probably a lot worse.”
+
+“… Fair enough.”
+
+They moved the entire experiment to the empty third floor room.
+
+The first [Duplicate]d coin ring gave 0% resonance. So did the next one, and the next one. Copied gold, Deep Sky Silver, iron bars both wrought-quality and not, all metal was ‘dead metal’ once copied outside of the [Prismatic Ward].
+
+Not a single bit of copied metal worked when it was copied outside of the dense air.
+
+It took an hour to prove this, with every bit of metal at Erick’s disposal, but it was proven easily enough. Even the innately ‘magical’ grey bars taken from the condensation of [Exalted Storm Aura]’s platinum rain, turned non-magical when copied.
+
+This was the normal outcome, now that Erick thought of it.
+
+Duplicate, instant, touch, 100 Mana
+
+Create a copy of a non-magical, non-living item.
+
+“[Duplicate] does not copy magical items,” Erick said.
+
+Kiri said, “Your [Prismatic Ward] is even better than I thought.”
+
+Erick shook the inert grey-metal bar in his hand, at the other metal bars sitting on the table before him. “But why?”
+
+“No idea!” Kiri said, all cheerful. “But it means you can make wrought-metal from any metal. That’s… That’s a lot of money and saved time. I wasn’t kidding about that Deep Sky Silver. The wrought-quality version is a delicacy to them. I heard royalty eat it.” She added, “Oh yeah! Royal wrought like those blacklights you made, too. I heard you gave Killzone one of them. Someone saw him glowing purple and thought it was an attack but then he got all meek —which was a weird look, let me tell you. He got all meek and showed off the bauble you made. If I hadn’t seen it myself, I never would have thought the General of Spur’s Army could turn from black to vibrant purple, just like that.” She got to the question she needed to ask, “It’s some form of light, right?”
+
+Kiri’s words knocked something loose in Erick’s mind.
+
+With a small part of his attention on Kiri’s question, he said, “Yeah. It’s a form of… light...”
+
+With the major portion of his attention, he took control of an Ophiel and had the little guy pluck the +213 All-Stat crown from its hiding place in the walls of his mage tower. In a white blip, the crown landed in his hand, in the third floor room. Kiri’s previous line of inquiry died, as she eyed the off-black iron crown and its three void-dark octahedron diamonds. It was different than Erick remembered. The whole thing was tinted purple, even though Erick had only put the lightmasks on the diamonds themselves.
+
+Kiri asked, “Did you make another one of them? That looks different than I remember.”
+
+“… No. This is the same one as before.” Erick put it on his head. He breathed deep as he saw his Status. He took off the crown, saying, “Plus 224 All-Stats. It grew again. It was 210 when I made it, but then 213 the last time I used it. Now it’s at 224, and the permanent lightmask has shifted to cover the whole object.”
+
+Kiri eyed the piece with a more critical eye, saying, “That shouldn’t happen. Lightwards don’t shift unless under extreme magical stress. Lightmasks shouldn’t shift, either.”
+
+“None of the other magical items in the house have been affected by the [Prismatic Ward].”
+
+“… But none of the other ones suck in all light, like this one. But you keep this one in the wall. No light in the wall.”
+
+“It’s still subjected to the [Prismatic Ward].”
+
+Erick brought up the blue box, and handed a copy to Kiri.
+
+Prismatic Ward, instant, short range, permanent, Solid Ward, 100 MP + Variable
+
+Create a solid, large space, that absorbs six times Variable damage before breaking.
+
+Prismatic Ward regenerates integrity based on your Rested mana regeneration rate.
+
+You and those you permit are able to operate within Prismatic Ward without restriction. You may grant or revoke this permission at will.
+
+All beings permitted inside Prismatic Ward are at Rest while inside.
+
+You may only have one Solid Ward active at a time.
+
+“The Headmaster called it a ‘well-made spell’.” Erick asked, “Have you managed to make it yet, Kiri?”
+
+Kiri said, “Not yet. Not as good as this one. I’ve tried. I’m still trying.” She chuckled, adding, “This is a career-culminating spell, you know.”
+
+“Eh. You’ll get it sooner or later, and then make something better. It took me a while.” He asked, “You have all the ritual parts I gave you, right?”
+
+“Yup.” Kiri said, “All I have to do is succeed.”
+
+“You’ll get it, sooner or later.” He added, “But anyway. That solves the mystery of the coins…” He looked to the crown in his hands, saying, “But not the mystery of this growing crown, or the problem of creating Stat items out of thin air.”
+
+Kiri stared at the crown for a long moment. She said, “I don’t think you can solve that last one. Even Tulamana Blackvoid’s rings were made of glass. You can use almost any old sand to make decent enough glass. Or crystal. Your rains can bring the metal. That stuff is automatically wrought-quality, for whatever reason.” She guessed, “Possibly due to the fact that it was magically pulled out of the atmosphere.”
+
+“… As good a guess as any.”
+
+Kiri eyed the crown again, saying, “If the void spell lasts more than the full hundred days, it could actually be an artifact. ‘The Growing Crown’. Otherwise it’s anomalous magic interacting in weird ways.”
+
+Erick held the purple crown for a little while longer. Were the points on the twisted metal slightly longer than before?
+
+… No. That had to be his imagination.
+
+Erick blipped the crown back in its hiding place with a [Teleport Object], then he gestured to the metals laying before them. “Take your pick, Kiri. Want to do some enchanting of your own?”
+
+“Deep Sky Silver. The wrought-quality version.”
+
+No hesitation. No deliberation. Just a straight-up enthusiastic answer. Erick laughed, and then he obliged.
+
+When he eventually remembered about it, he dismissed the purple-mirror-void ball he had conjured in his tower. Nothing had come of that experiment, for whatever reason.
+
+- - - -
+
+Erick’s new view on his [Prismatic Ward] caused him to reevaluate how he had used the spell in the past. The spell was currently active in five locations, his house, under his own power, and the three springs of Candlepoint, and the dense air at the bottom of the Crystal in the center of town, under Ophiel’s purview.
+
+The Crystal was the trading area where people turned in darkchips and got items, but the giant, 50 meter tall black quartz crystal was also a magical item that had created the greatsword-wielding automatons that had occupied the city. Maybe. It might not be a magical item. It could have just been a diversion. But in case that it was a magical item, Erick had put a [Prismatic Ward] across most of the bottom of the 50-meter tall black quartz, if for no other reason that to keep curious fingers from touching hidden switches, of which Erick had found none.
+
+Placing that dense air down there had seemed like a good idea at the time.
+
+But now, knowing that [Prismatic Ward] imbued metals with magic—
+
+Was that all a Rested State meant?
+
+No no no. No tangents. Here for a reason. Pack that thought up and throw it into the [Renew] idea-box and then get back on track.
+
+Knowing that the [Prismatic Ward] imbued metals with magic, had Erick been ‘charging’ the Crystal this whole time? Or something? [Prismatic Ward] didn’t charge rods or wands or anything like that, but who knows what other hidden effects it could have.
+
+So Erick turned his attention to the Crystal.
+
+Ophiel was still there, under the Crystal’s gazebo section, still in his lightform self, still tapping away at every broken or dirty thing that any shadeling brought him. A [Mend] here, a [Cleanse] there, an occasional [Mirage Slime] cast out into the city, to roam about and turn messes to thick air, as it was wont to do.
+
+Taking brief control of a second Ophiel, Erick inspected the Crystal, flying through the gazebo-section in the bottom, poking around at walls, soaking into the Crystal itself. Soaking inside didn’t seem to do anything but turn the Crystal from black to white, like Ophiel’s body was pushing an ‘ink’ away from the inside of the Crystal.
+
+… Did Erick want to [Domain of Light] the Crystal?
+
+… He kinda really, really wanted to, just to see what would happen.
+
+But! No. Not right now.
+
+Erick, as Ophiel, poked around at the entire 50 meter black crystal. He poked at 20 meters up, then at 40, then at the top, where Bulgan had stood. He dipped down into the flexible darkness inside the stone, flowing in all the way, turning inky blackness into the undersides of lightning-hiding clouds.
+
+But he found nothing inside the Crystal, save for shadows.
+
+He flowed out. Nothing stood in the Courtyard of the Crystal, save for a few people looking up at Erick’s stony ministrations. No protectors swarmed out of the Crystal. No hidden switches laid within.
+
+… Whatever.
+
+Dead End!
+
+Time to get on with life, and check on some other projects.
+
+Erick blipped Ophiel into the center of the lake, to hover where every coast and the habitations of Candlepoint were far out of sight, past the curve of Veird. He conjured a map to better view the blue depths all around. In a few short minutes, his search for ‘violet eels’ turned up zero blue dots. Rejoice! The infection had finally been eradicated! He left the map to run for longer, to make sure, as he blipped across the waters to visit the million fish grass plateau.
+
+Limpid lengths of green grass floated in the water, meters long in some places, shorter in others. Streamers of tiny bubbles rose from the grasses, while some grasses released bubbling seeds that flowed along with the natural currents of the lake. When the seeds eventually lost their buoyant bubble that kept them afloat, they would settle down into the dirt, and likely fail to grow.
+
+It was then, that Erick noticed a small problem in the waters. The waters near the million fish grass were crystal clear. The waters everywhere else, were not. With the clouds above, Erick hadn’t noticed immediately. But now that he did, Ophiel blipped to other parts of the lake, checking. There was only a bit of cloudiness here and there in the north, but a gross yellow foam floated on the lake’s southern surface, where wind-tossed waves pushed grime into a glacier of scum, that rested on the land, pushing almost all the way to the wall, a dozen meters past the beach. In the muddy brown bottom, lay skeletons and dying fish, while the foam and the cloudiness were likely the digested remnants of a violet eel massacre, or bacteria growths. Erick wasn’t sure.
+
+He could solve this problem.
+
+With ten minutes of work, mostly spent in finding other good places to plant via the map he had already made, Erick spread million fish grass seeds all along the southern coast, and on a particularly large underwater plateau in the west. With three hours of work, and filling the lake with platinum rain, three more seeds finally took hold in the silt and began to grow. 40-ish square kilometers of squid-like cleaning-grass wasn’t that impressive, when the whole lake was almost 2000 square kilometers, but it was good enough for now. Erick’s rain had beaten down the yellow-foam masses of scum, but only time and proper ecology would truly rid the lake of its problem.
+
+Erick checked on the map again. It had been running for three hours, and still, it showed no signs of violet eels. The lake was truly clean, now. Some of the scanning magics even got into the springs below, showing that there were no eels in there, either.
+
+That was more than a bit surprising.
+
+Erick found out why, when he went down to investigate. Someone, likely Ava and maybe others, had turned each spring inlet into something… More.
+
+Where once was a simple ten-meter crack into the depths of Veird, plugged by a [Prismatic Ward], was now a monument to water and air. A trio of massive Ophiel, like three winged gods each twenty meters tall and much more than that wide, stood to the sides of the inlet. Wing in wing, they watched over the spring, as water constantly gushed upward, flowing past the stone Ophiel like a strong breeze.
+
+While Erick’s [Prismatic Ward] had not been disturbed in the creation of the Stone Ophiel, someone had gotten around the density of the water, and carved down, deep. Erick floated down the hole. Surface light already had a hard time getting all the way down here, but once in the spring, proper, light vanished.
+
+Until Ophiel turned to light, and illuminated everything.
+
+Caverns, that’s what had been created down here. Massive caverns, carved deep and wide. Twisting and turning, but never blocking the flow, Erick followed the winding caverns through the top level, then down to another, then down another, until he reached a forest of pillars that stretched ten meters tall from floor to ceiling. Ophiel slipped past the pillars easily enough, but Erick almost lost his connection to Ophiel. So Erick brought in another to bridge the gap, and connect him from Ophiel to Ophiel, as he so often did when he was exploring with his [Familiar] over vast distances.
+
+The pillar forest continued on through one more, whole cavern, before Erick poked through to a staging area. The staging area would have been comfortable enough, but it was merely a turn in the stone, and one only had to step forward a few meters to have their world drop out from under them. Which Erick did.
+
+Dark. Deep. A true abyss.
+
+The ceiling was stone, the ground was abyss, and Ophiel was the only light in an ocean full of unseen threats.
+
+Erick breathed deep. He came halfway back to himself, as he patted the Ophiel on his shoulder. And then he smiled. Ophiel didn’t seem to feel bad about any lurking enemies, so Erick wouldn’t either. He returned to the Ophiel at the edge of the abyss.
+
+Ophiel descended. The water flowed stronger once he ventured out into the deep dark.
+
+Something moved in the waters—
+
+Something flashed in the depths.
+
+Darkness coiled around Ophiel like a swirl of ink that filled the entire unseen Underworld Ocean. And then it was gone. Ophiel’s light shone out across untold depths of water, illuminating nothing but the tiny divot that Ophiel had come from, and the endless, craggy rock ceiling. The entrance to Candlepoint’s lake suddenly looked so far away.
+
+Erick cast another map into the water, throwing out a streaming orb of cascading light, while a layer of mist hung in the illuminated depths. That mist slowly became a scan of the ocean, and it truly was an ocean. Eventually, the map showed an edge, but at the scale of the map, that edge was at least a good three hundred, or maybe four hundred, kilometers down. It wasn’t an even depth, either. The ceiling of this ocean was craggy, but the deeper side was full of mountains and pits and canyons and spires.
+
+Erick almost wanted to explore. There was no water pressure down here. Ophiel wouldn’t be crushed to bits. Script shenanigans kept the Underworld open, stabilizing the force of gravity throughout Veird. The bottoms of surface lakes were full of pressure, but that pressure never got too bad, and once you got deep enough to be in the Underworld proper, pressure normalized.
+
+If Jane ever saw this, she would be terrified and thrilled and way, way too eager to explore.
+
+Erick was going to explore, too, but just a bit. Stilling his nerves, Erick set the map to scan for violet eels. He was going to find and kill the main eel, if possible.
+
+He found a trail, almost immediately.
+
+With a few more Ophiel filing in from behind, Erick extended his reach for hundreds of kilometers below the surface of Veird, through deep waters, into hidden rivers, and into twisted caves. The parasites weren’t that present in the beginning, but as Erick continued to follow the trail, he realized…
+
+“I don’t have enough Ophiel to get all the way.”
+
+The thought hit him like a slap out of nowhere, as he sat up in his chair. There was no point in proceeding. If there were a main eel somewhere close, he would have found it. With a thought, he dismissed the Ophiel and the spells he had left under the surface of the world. With a few more thoughts, he reconjured Ophiel and sent the majority back to Candlepoint.
+
+The other two springs in the lake were similar to the first; both had similar stone Ophiel sculptures around them, and similar cavern systems down below, but both were of a smaller scale than the main spring. They all led to the same Underworld Ocean, too.
+
+Erick was sure the Underworld Ocean had a name, but that much was beyond his ken, just as the main violet eel was beyond his reach. He could try to solve both his dearth of knowledge and the eel problem, but both would have to wait for another day.
+
+With the springs done, and the violet eels gone, all the lake needed now was bobber worms and glowfish to keep the parasite problem solved for good. In addition to them, Erick also needed shipments of the three other fish that already existed in Spur’s Lake.
+
+Erick went to find Ava, and Slip. Whichever one he spotted first was probably good enough.
+
+Ava was easy enough to find. The majority of Candlepoint was made of black stone and sandy places where trees and grass grew, but as Erick looked, he saw an addition to all of that.
+
+Crystals, bright and full of light, glittered upon the domed top of Candlepoint’s courthouse, like rock candy stuck to a dark surface. Erick watched for a few moments, as shadelings moved torso-sized crystals either telekinetically, or by using [Stoneshape], up from the street outside the courthouse, to the roof, to Ava, who then planted the crystals in the dark dome, like stacking bricks. The crystals were shaped on site, it seemed, in order to ensure that they locked together with no gaps between. Ava had managed to get three rows of crystal down so far; she was working her way from the bottom edge of the dome, toward the peak.
+
+Ava didn’t stop laying crystal as Ophiel floated in, but she did smile wide, flashing small fangs as tiny scales dotted her pale neck. She also had a band of green, opalescent paint, like thick makeup, laid horizontal across her face, across her eyes. She said, “Hello, Erick! Like what you see?”
+
+“I do.” He also found the strip of paint to be somewhat interesting. He hadn’t seen anyone wear makeup of any sort, until now. He said, “I like the sculptures and designs you got out by the springs, too.”
+
+She smiled wide as she maneuvered a crystal into place. “We’re ready for the bobber worms and glowfish whenever you’re ready.”
+
+“Sure, sure. But how much of the city has everyone agreed to change to crystal?”
+
+“Not nearly enough.” Ava said, “But I’m going to make this place as beautiful as I can.” She paused in setting crystals, then breathed deep the warm air, and said, “Could you spread some lakeseed down in the deeper parts and all over the rest of the lake? I worked with Slip to get the spring traps done, but we need the ecosystem in place in order to make it work like it should. Otherwise, soon as you remove those [Prismatic Ward]s, the eels could come back. I managed to make the flow a lot less direct, so we shouldn’t get any real infestations unless something breaks, or a greater violet eel moves in to our lake, which also shouldn't happen, but you never know.” She said, “I heard you managed to get some million fish grass growing in other places in the last few hours, so that should keep the normal ecosystem working, soon as there is a normal ecosystem.”
+
+That was all good news, and exactly what Erick wanted to hear. He said, “Thank you, Ava. Well done.”
+
+She smiled at the sky, then at the city, saying, “This place is going to be a jewel. A crowning achievement. A joy to behold, but not until that lake gets settled. Two thousand square kilometers of fresh water, and in the Crystal Forest, too! If we don’t get dead by outsiders, wild success will happen whether we want it to, or not. I can’t wait till the day I can see sailing ships flying cloth of every color of the rainbow, plying the waters, turning up fish for dinner.” She added, “We need some of those expensive freshwater fishes, Erick. We need some Bountiful Fortuna for that lake. And Ripping Xerix— Oh! Any xerix you can get at all would be good! You need to talk to Slip. He was a fisherman, you know? Course I think that’s just his cover.” She looked to the shadeling orcol man who handed her the crystals, and took another from him, saying, “Slip is a Shade, right?”
+
+The man chuckled, saying, “I ain’t know shit what goes on round here. Don’t ask me questions like that.”
+
+Ava flipped her hand at the man and then at Ophiel, saying, “Ain’t no one knows shit what goes on round, here, like young mister Worz has so eloquently stated. If we live to see sailing vessels and xerix and everyone wearing good fashion, then I will count my life as lived.” She turned to Erick. “To that end, I need merchants willing to sell to us. Can you make this happen?”
+
+Erick said, “I can try.”
+
+She set another crystal ‘brick’ into the courthouse dome, saying, “Thank you.” She immediately laid another crystal, adding, “That’s all I can ask— NO WAIT!” She spun to Ophiel, her eyes going wide, then deviously narrow.
+
+Erick would have instinctively backed up, but he was controlling Ophiel, and let none of his sudden apprehension show.
+
+In her most serious tone, Ava declared, “I heard you can make diamonds.”
+
+“… Would you like a diamond that is you-sized? Or a lot of smaller ones?”
+
+“Ohmytunnelsandtraps.” She recoiled as though she had won the lottery. Tears streamed from her eyes as she cried out, her voice going high-pitched halfway through, “I want one me-sized! Yes!”
+
+Erick smiled, as he turned to the man who held another crystal, waiting for Ava to collect herself so she could collect the crystal. “Anything you want?”
+
+“Better food. Better beds.” Worz’s answer was instantaneous. And then he added, “And some drums. The proper kind. Big and made for war. Festival is coming up, and I don’t feel proper without the real stuff.”
+
+While Ava cried for joy over diamonds as big as herself, Erick assured Worz that he would get some better stuff for people. Maybe even a merchant contract with the merchants of Spur? Perhaps. Ava came back to clarity when Erick spoke of merchant contracts. She had some ideas, and while Erick listened, he couldn’t promise anything.
+
+Leaving Ava to her enthusiastic crystal-laying, Erick put up a stone board in the center of town, near the Crystal. He labeled it, ‘Necessary Items’ and left written instructions to inscribe upon the surface what was needed. While he left that to be, he went to find Slip.
+
+The not-Shade was currently in the north of town, helping out with the rice harvest. He noticed Ophiel, right away. Explaining the current status of the lake didn’t take long.
+
+“Yeah.” Slip said, “Those’re good fish. If the eels are gone, then it’s time to start seeding. Fish can come later. I left the bag of lakeseed in my office.”
+
+Erick went to work.
+
+Ophiel lugged a huge, 50 kilo bag of lakeseed to the northern shores of the lake, almost 20 kilometers from Candlepoint itself. The coast ended a good hundred meters before the wall, leaving a beach-like area of hard-packed dirt and sand between water and the wall that separated the lake area from the rest of the Crystal Forest.
+
+The shallows here were a good place to start.
+
+Ophiel cut a hole in the bag, and began flying along the coast, dropping seeds in the shallows, while Erick released mist across the cloud-dark land. Mist became fog, became rising clouds, that flashed with silver light in the depths. Platinum rain began to fall. Ophiel expanded a [Weather Ward] around himself and the seeds, by casting it upon the bag itself, preventing early germination.
+
+As Ophiel flew, lilies sprang from the shallows, like dots of green expanding on the water’s surface. Grasses grew up the beach, spindly at first, then ripping into the soil, spreading up the platinum soaked land to turn into tall stalks that then flowered, red and gold. Different grasses grew in other shallows, while different lilies grew in the deeper waters, like great, floating barges.
+
+Ophiel flew faster, spreading seeds over greater distances.
+
+When he was done, he left behind a kilometer or two of starter plants. From the grasses that took hold of the land, all the way to the wall, to the lilies and water grasses that managed to grow a kilometer or more out into open lake, Erick hadn’t done much, considering the size of the lake. He’d given it a start, though, and that’s about anyone was really capable of doing, in this life, or the next, but with any luck, he’d be around to see ships sailing these waters, just like Ava envisioned.
+
+And with that, it was time to buy fishies! Or rather, it was time for someone to buy fishies. Probably not Erick, himself. Erick got up from his chair, to see Kiri sitting across the room from him.
+
+He said, “Oh good! You’re already here.”
+
+Kiri smirked, as she closed her book. “Time to buy something?”
+
+After handing over a list and his badge, Kiri was off to Oceanside, and probably Portal, with maybe a stop by Quartermaster Liquid’s office, too.
+
+- - - -
+
+With a casual glance over to Candlepoint, Erick watched as a load of iridescent fish dumped out of the air, plopping into the shallows of the lake. Erick had shown Kiri around a bit, through Sunny, and introduced her [Familiar] to Mephistopheles, then Valok, then Ava and Zaraanka, and Slip. From there, the competent young woman had brought in the fish, one load at a time, blipping them on her own [Teleporting Platform] all the way from Oceanside. Kiri had price-compared both Portal and Oceanside, and chosen the latter, picking the same place where Erick had gotten the mud flits.
+
+Dari’s Fishstock did well by their fish. The place had been started by a graduate of the arcanaeum centuries ago, and continued its [Husbandry] tradition to this day, becoming part of Oceanside Academy sometime shortly after its inception. It was there, that they taught young adults how to employ [Husbandry], to raise fish of all kinds, though the lessons learned were applicable to all animal care. When Kiri showed up to buy the hundred thousand fish needed for the lake, they used [Husbandry] on a select few to ensure that they would mate and lay eggs in a day or five. It was a service rarely provided, but one that the current professor, a tenth-generation descendant of Dari himself, came out to cast on a few fish, just for Erick and for Candlepoint’s Lake.
+
+That was good, and Erick had Kiri thank the woman, but something didn’t sit right. Erick had no problem with Oceanside, or with the extra service; that all seemed rather above-board and nice of them.
+
+Erick had a problem with [Husbandry]. He had the spell, since it was one of the enrollment requirements, but the spell didn’t say anything about making animals more fertile.
+
+Husbandry X, instant, touch, 50 MP + Variable
+
+An animal’s opinion of you improves.
+
+But then again, he never studied the spell, or any of its combinations or mutations. He knew it was widely used in animal care, and that was all.
+
+Al smiled, as he asked, “What you looking at?”
+
+Erick came back to the moment. He had invited Al out to music and a meal, at a warehouse-sized, open-air orcol restaurant that Al chose. They had just sat down. The sun had yet to touch the western horizon, and the music had yet to start. But already, person-sized drums sat on the stage, waiting. Set into stands and angled slightly toward each other, the drums had taut-leather covers that looked like they would make a raucous sound, once people got to playing them. This seemed to be exactly what everyone in the bar/restaurant wanted, though. The crowd below was already packed in, but getting fuller by the moment.
+
+He said, “I’m checking on Kiri. She’s transporting fish to the lake that have been imbued with a [Husbandry]-derived fertility spell, but I’m not sure what spell the seller used, exactly.”
+
+Al smiled wide, revealing lower fangs. He grabbed his beer, saying, “Apogee would know for sure, but I bet it’s just [Husbandry] and aura work. You ever use that spell?”
+
+“Never.”
+
+Al sipped his beer, then said, “Neither have I. Thought about it, once or twice. There’s a certain appeal to raising cattle, but then I decided I couldn’t eat what I had raised.”
+
+Erick grinned. “Softie.”
+
+“That is correct,” Al proudly declared, wearing his designation with a grin as he picked up a fried chicken tender, battered and spiced to a flaming red color. “But I’m perfectly happy eating what other people raised.”
+
+“Not to go off on too much of a tangent, but I’m going to anyway: One thing I’ve noticed about Veird is that not many people have pets. Working animals, sure. Cats. Cows. Bees.” Erick asked, “Do people not like cuddly animals, or what?” He reached up and patted Ophiel on his shoulder, eliciting a coo from the little guy. “Ophiel is great, but he’s not really a pet.”
+
+“And how many places have you been?” Al scoffed in a friendly way. “You don’t bring animals to a place like Spur. Shadowolves eat them.”
+
+“Missoli has cats.” Erick said, “I see them prowling in the Garden sometimes. Saw one in my own garden, once. It ran away before I could give it some fish. But those are working cats?”
+
+“Those are working cats.” Al nodded. “You don’t bring them inside the house.”
+
+“So no pets in Spur.” Erick said, “I haven’t had a pet in years, but I expected there to be more… somewhere.”
+
+“Maybe in the Republic, in the calmer places. Wardogs in Nelboor are pretty popular, but those are working dogs. Only the fabulously wealthy have time to take care of an animal that can’t take care of itself.”
+
+A thought occurred, and Erick said, “Oh! Sirocco has cats! A white and black one.”
+
+“Nope.” Al smirked. “[Familiar]s.”
+
+“… Oh.” Erick said, “I guess I’ll settle for [Familiar]s, then.”
+
+Ophiel cooed a tiny violin sound.
+
+Al and Erick spoke of nothing crucial, but they spoke anyway, for Erick liked Al, and he knew that Al liked him, but not in that way, and that was okay. Friends are fine, and good.
+
+In the second round of beer and monsterized chicken strips, Al gasped, and looked down stairs, saying, “They’re starting!” He whispered to Erick, “These people are good.”
+
+Erick gazed around at the restaurant, and the stage up ahead. He had gotten good seats for the show, near the edge of the second floor, overlooking the first, but the first floor down below was absolutely packed. He didn’t even notice it getting that full.
+
+It was nuts-to-butts, elbow-and-beer-room only. The only reason the large venue didn’t overheat was due to people constantly recasting [Temperature Ward]s, that quickly died under the assault of so many orcols. Green, brown, teal, even a few people a few degrees from red; Erick had never seen so many orcols in one location. The men were shirtless, and bulging everywhere with muscles and… other, more hidden-in-pants items. While some women wore normal clothes, others wore bra-adjacent tops that barely held in their prodigious perky parts.
+
+An orcol man wearing a loincloth and nothing else, stepped onto the stage to the sudden cheers of the audience. Even Al leapt up and shouted. Poi stood to the side, a few steps away. He looked surprisingly happy, but he had nothing on Teressa. Erick’s orcol guard stood just behind him, shouting at the loincloth-dude. Loincloth-dude held up a pair of sticks and raised them high to smash them together, eliciting a loud crack of wood on wood.
+
+Ophiel fluffed up big as he suddenly repeated the cracking sound, twice, much to Erick’s total embarrassment and the loincloth-dude’s wide smile. Erick locked down Ophiel after that, muttering about proper behavior that Erick himself didn’t quite hear.
+
+Two other loincloth-people joined the dude on the stage, both of them women, both wearing white cloth like it was too expensive to make a full bikini. They rivaled the dude for sheer muscle size and for the amount of flesh hidden by those strained, white cloths.
+
+Oh man. Vitality in the 80’s strikes again. Erick’s pants got wildly uncomfortable, but he was still sitting down, so this was fine.
+
+Three drums sat on the stage, each the size of an orcol themselves. Two slightly smaller drums were positioned to the left and right on the stage, and angled mostly upward, but slightly inward, while the third drum sat in the back, its bare face angled toward the crowd.
+
+The largest woman approached the rear drum, showing her backside to the crowd.
+
+And wow! That ass! Those thighs!
+
+Erick controlled himself as she struck the rear drum, vibrating the room, drowning out the sound of the cheering crowd, but only briefly. The crowd cheered louder, then the second woman tapped her own drum, followed by the man on his. Silence fell as echoes penetrated the world.
+
+The drumming began with tiny taps. A rainfall of beats, heralding a storm.
+
+A sudden slam of power vibrated the beer in Erick’s mug, sending a drop of liquid into the air. Slams came fast and hard, as the drop fell back into the drink, and thunderous noise pulsed into his lungs and set his bones to shaking. Erick laughed as his [Personal Ward] took a tiny hit with each pulse, flickering white, but he recovered fast enough, for this sound was the pulse of war; it was power, it was the joy of life. A hunt completed and blood spilled in the forest.
+
+Erick wasn't the only one who flickered with a [Personal Ward], but there were not many others.
+
+Ophiel fluffed himself up on Erick’s shoulder, his wings beating the air in time to the tune. Erick held a slight control on him, not wanting him to fly off and join the band, but as his own heart matched the rhythm to the main drum slammed by the woman in the back, he let his control falter. Ophiel just fluffed up a bit more, really getting into the beat, but not making any of his own sounds—
+
+“Hey, dad.”
+
+Erick barely heard it, but he turned to see Savral step near the table. The large blackscale dragonkin was looking more than a little sheepish as he stood there, waiting for acknowledgment, from Al, his father. He didn’t wait more than a half second, just long enough for Al to turn around. He had heard those words, too, and his first instinct was to freeze. But he thawed. He turned. Al smiled wide, laughing loud, but not as loud as the drums, as he rushed his son with a heavy hug.
+
+Savral hadn’t been home in a while. Erick wasn’t sure exactly how long the blackscale boy had been gone, or where he had been, but he had run off after being resurrected by Messalina, after he had died in Caradogh’s attack on Spur, and the Farms. The tall blackscale spoke to his father of something too quiet to hear, and Erick didn’t want to, anyway. Al and Savral looked happy, as father and son, and that was the important thing. Erick tried to excuse himself, so Al could catch up with his son, but neither of them were having it. Erick stayed for two more songs then he begged off, and Al let him go.
+
+As Erick left the bar, the band was still playing, and he paid the tab for everyone there, in the entire bar, for the whole night. The manager was more than happy to take his money, but she wouldn’t let Erick go without an explanation. Erick just told her to say ‘happy homecoming’, and that was good enough for her.
+
+Walking home on the twilight streets, Erick could still feel the beat of the drums in his chest. Ophiel still fluffed up in time to the music, as he waved his wings like a tiny drummer drumming a tiny invisible drum.
+
+And then Erick heard the whole bar cheer again, and shout ‘Happy Homecoming!’ all at once.
+
+Erick smiled. Teressa blushed. Poi chuckled, once.
+
+When Erick had sat down with Al in the beginning of the evening, he had asked after the significance of the drums. If they had any meaning, or what they were about. They were big drums, after all. It was hard not to notice them, or that they were different from all other drums Erick had seen before. Al’s reply had been because drums are awesome. After a bit more poking, Al went on to say that the drums were reminiscent of the heartbeat of a tribe going to hunt, or to war, or to greet people coming home from an adventure, or difficult journey. A unity of sound, linking person to person in the beating of their hearts. A welcome home.
+
+It was a good sound to walk home to.
+
+- - - -
+
+It was too early to go to bed. Not when Shadow’s Feast was tomorrow night.
+
+So Erick stayed up and read about Tree [Familiars], thanks to a few books Kiri brought back from the Book Cellar, in Oceanside. Kiri also picked up a few books for herself while she was out shopping. Across the library, the young emeraldscale read from a leather-bound journal, without a title. Kiri had readily supplied the name of the journal, though, back when Erick first inquired. It was apparently a journal on the ‘Sun Style’, penned by a no-name woman who attempted to piece together everything she could find regarding the Headmaster’s ‘Sun Style’, and every other strong and/or popular Light/Fire/Air style publicly known on the continent of Nelboor.
+
+Erick turned away from his apprentice, and read about trees.
+
+- - - -
+
+Slivered moons hang in the skies over Spur, barely shedding light at all. White, silver, and pink; Celes, the Silver Star, and Hell.
+
+Witness those slivers become less, then vanish altogether.
+
+Tonight is already a time of darkness, save for distant stars too dim to illuminate anything, and the wardlights of civilization too weak to drive back the night. Watch as a mother conjures a brighter nightlight for her scared son, to drive away the shadows in the corner. Hark to the sound of a sword knocked aside by ravenous wolves, and the gnashing of teeth, and the ending of a life. Feel the rumble as the very ground moves under ponderous weight. Thump. Thump. Thump. Crunch. Something is outside, and the walls are too thin to keep it out. Don’t speak. Don’t breathe. It can hear you.
+
+Tomorrow will be worse.
