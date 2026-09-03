@@ -1,6 +1,6 @@
 import type { NamespaceProfile } from "@akasha/workflow-language/rbac-types"
 
-export const packageName = "@infra/eso-rig"
+export const packageName = "@akasha/eso-rig"
 
 export const profiles: NamespaceProfile[] = [
   {
