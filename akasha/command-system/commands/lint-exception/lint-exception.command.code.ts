@@ -3,7 +3,6 @@ import { isAbsolute, join, relative, resolve } from "node:path"
 import {
   BREAK_GLASS,
   bytesAt,
-  DRY_RUN,
   landingAsked,
   mistaking,
   textOf,
@@ -36,7 +35,7 @@ export const UNDER = "/**"
 
 const VALUED = [PACKAGE_PATH, RULE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
-const BARE = [DRY_RUN]
+const BARE: readonly string[] = []
 
 export type Ruled = {
   readonly group: string
@@ -326,7 +325,7 @@ export function lintException(argv: readonly string[], given: Given): Answer {
     message:
       message.message ??
       `the linter no longer judges \`${ruled.group}/${ruled.name}\` over ${worked.added.join(", ")}`,
-    dryRun: argv.includes(DRY_RUN),
+    dryRun: false,
     glass: glass.glass,
     unmoved: [{ path: CONFIG, was: held.bytes }],
     saying: (landed) => [
