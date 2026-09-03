@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@import "@akasha/design-system/styles.css";
+@import "@fontsource-variable/literata";
+
+@font-face {
+  font-family: "Literata Fallback";
+  src: local("Georgia");
+  size-adjust: 107.6714%;
+  ascent-override: 109.3141%;
+  descent-override: 28.6056%;
+  line-gap-override: 0%;
+}
+
+@theme {
+  --font-read: "Literata Variable", "Literata Fallback", "Iowan Old Style", Georgia, Cambria, serif;
+}
+
+@source "../../../akasha/design/system/**/*.{ts,tsx}";
+@source "../../../akasha/design/badges/**/*.{ts,tsx}";
+@source "../../../akasha/design/layout/**/*.{ts,tsx}";
+@source "../../../akasha/design/forms/**/*.{ts,tsx}";
+@source "../../../akasha/design/patterns/**/*.{ts,tsx}";
+@source "../../../akasha/design/primitives/**/*.{ts,tsx}";
+@source "../../../akasha/pages-system/pages-ui/**/*.{ts,tsx}";
+@source "./idle/**/*.{ts,tsx}";
