@@ -73,14 +73,6 @@
       "project": [
         "**/*.ts"
       ]
-    },
-    "infra/seaweedfs": {
-      "entry": [
-        "src/tunnel-routes.ts"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
     }
   }
 }
