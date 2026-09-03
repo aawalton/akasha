@@ -29,7 +29,8 @@ export default workflow("ci", {
     sopsDecryptApply({
       name: "ci-apply-pipeline-secrets",
       namespace: "ci",
-      secretFile: "infra/ci-workflows/ci-workflows.k8s-secret.sops.yaml",
+      secretFile:
+        "akasha/infrastructure/cluster-manifests/cluster-secrets/pipeline-engine.k8s-secret.sops.yaml",
     }),
   ],
 })

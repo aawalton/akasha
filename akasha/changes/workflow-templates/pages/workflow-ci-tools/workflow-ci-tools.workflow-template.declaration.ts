@@ -11,7 +11,8 @@ export default workflow("ci-tools", {
     kubectlApply({
       name: "ci-tools-apply-ci-namespace",
       namespace: "ci",
-      files: "infra/ci-workflows/k8s/generated/namespace.generated.yaml",
+      files:
+        "akasha/infrastructure/cluster-manifests/ci-namespace-synth/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
