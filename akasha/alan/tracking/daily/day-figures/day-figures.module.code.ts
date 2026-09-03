@@ -61,7 +61,7 @@ export function shapeOf(partSlugs: readonly string[]): Shape {
           "and a formula reading it would be refused for a misspelling it does not have"
       )
     }
-    shape[slug] = { kind }
+    shape[slug] = kind
   }
   return shape
 }
