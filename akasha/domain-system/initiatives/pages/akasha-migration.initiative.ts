@@ -23,11 +23,6 @@ export const akashaMigration = {
         "21,300 files and the largest single assignment: skill 8,972, class 8,380, spell 3,597, then item, condition, enchantment, title, quest and the smaller kinds. One shared shape to be found first, page types built once, then the mass through landedMechanically. Distinct from the temper family despite the overlapping vocabulary.",
     },
     {
-      statement: "The temper pages are akasha pages.",
-      workingMemory:
-        "Every temper page type already exists in akasha. The census puts 97 folders and 6,264 files as carried, and 91 of the 93 fully-accreted folders are temper. So this is verification and ablation rather than design, and it retires 91 of the 261 folders. Confirm slug and field correspondence folder by folder before removing anything, and treat any sidecar as its own file with its own evidence.",
-    },
-    {
       statement: "Alan's own records are akasha pages.",
       workingMemory:
         "Roughly 9,300 files: persona-day 2,079 against the live persona system, the library family near 2,600, location 1,210, exercise 884, relationship 697, food-entry 333, the car hierarchy 644, monarch and money near 700. Accuracy matters more than speed here and some of it is live data the running system reads.",
