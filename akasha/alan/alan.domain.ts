@@ -27,6 +27,7 @@ export const alan = {
     "domain/tracking",
     "domain/visual-arts",
     "domain/world-lore",
+    "page-type/attribute",
     "router-app/alan-atlas-web",
     "router-app/alan-web",
     "router-app/alan-web-capacitor",

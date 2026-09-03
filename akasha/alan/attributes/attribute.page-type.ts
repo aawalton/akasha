@@ -15,7 +15,17 @@ export const attribute = {
   definition: "a capacity Alan builds through a daily habit",
   pluralSlug: "attributes",
   extendsSlug: "page-type/domain",
-  partSlugs: ["number-property/lifetime-points", "text-property/point-unit"],
+  partSlugs: [
+    "attribute/charisma",
+    "attribute/constitution",
+    "attribute/endurance",
+    "attribute/intelligence",
+    "attribute/luck",
+    "attribute/strength",
+    "attribute/wisdom",
+    "number-property/lifetime-points",
+    "text-property/point-unit",
+  ],
   properties: [
     { pagePropertySlug: "point-unit", required: true, many: false },
     { pagePropertySlug: "lifetime-points", required: true, many: false },
