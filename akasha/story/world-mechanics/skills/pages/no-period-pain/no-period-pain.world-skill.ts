@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const noPeriodPain = {
   id: "01a0657d-027b-7268-8c76-f56a2ca6d2a2",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const mightyPounce = {
   id: "01a0657d-024d-73d2-a405-ac16d2ebae2e",

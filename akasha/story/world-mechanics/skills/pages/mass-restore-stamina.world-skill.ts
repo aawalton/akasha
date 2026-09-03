@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const massRestoreStamina = {
   id: "01a0657d-024b-78fb-a1c7-a6428647ede4",

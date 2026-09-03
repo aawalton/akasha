@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const manaSiphonObject = {
   id: "01a0657d-0242-788e-b246-57472984508a",

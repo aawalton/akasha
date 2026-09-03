@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const magnifiedTraining = {
   id: "01a0657d-0242-7d12-9215-8185158f4fe6",

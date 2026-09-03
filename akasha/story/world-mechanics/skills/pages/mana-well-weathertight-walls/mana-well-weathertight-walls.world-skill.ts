@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const manaWellWeathertightWalls = {
   id: "01a0657d-0242-782e-9798-e502c95afea2",

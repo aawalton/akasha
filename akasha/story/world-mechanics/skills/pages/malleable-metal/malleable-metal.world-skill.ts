@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const malleableMetal = {
   id: "01a0657d-0242-7b90-85b0-f940b25084bb",

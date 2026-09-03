@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const naturalGiftFortressBeaversFurOfTheFortressRe = {
   id: "01a0657d-0271-7066-82f2-08b4e9f23108",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const naturalFoeTranslateLanguageLowGoblin = {
   id: "01a0657d-0271-75cc-ada0-ec76db53a899",

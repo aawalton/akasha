@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const myNobleVirtueProtection = {
   id: "01a0657d-0270-72c4-acdb-d6b31036844c",

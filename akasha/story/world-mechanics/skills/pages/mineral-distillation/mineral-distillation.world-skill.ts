@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const mineralDistillation = {
   id: "01a0657d-024d-742c-86b2-a38d11d68b61",

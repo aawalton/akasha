@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const nemesisCrustaceans = {
   id: "01a0657d-027a-7a1c-aa07-1ecfab7fb27e",

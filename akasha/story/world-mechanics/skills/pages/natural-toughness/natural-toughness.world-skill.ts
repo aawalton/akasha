@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const naturalToughness = {
   id: "01a0657d-0271-7040-beda-d459c0ac3771",

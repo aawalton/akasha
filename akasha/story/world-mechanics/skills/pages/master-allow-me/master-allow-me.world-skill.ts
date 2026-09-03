@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const masterAllowMe = {
   id: "01a0657d-024b-79d9-9dbd-7c87f3d41c7a",

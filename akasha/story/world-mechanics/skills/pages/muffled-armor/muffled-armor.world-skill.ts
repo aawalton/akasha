@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const muffledArmor = {
   id: "01a0657d-0270-7dc0-baae-6ba84e11b8c8",

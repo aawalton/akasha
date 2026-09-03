@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const numbingTouch = {
   id: "01a0657d-027b-78db-a050-cffd012abdaa",

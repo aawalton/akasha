@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const masterfulHolderRune = {
   id: "01a0657d-024c-75ef-a12f-ca3cfe9b1eb8",

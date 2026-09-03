@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const myNobleVirtueSpeech = {
   id: "01a0657d-0270-7f13-843f-f270d05dc652",

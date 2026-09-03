@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const mendDocumentation = {
   id: "01a0657d-024c-73ee-886d-80776f6e6451",

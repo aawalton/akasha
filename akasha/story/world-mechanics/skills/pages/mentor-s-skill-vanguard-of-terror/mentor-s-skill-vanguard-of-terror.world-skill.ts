@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const mentorSSkillVanguardOfTerror = {
   id: "01a0657d-024c-77fd-9faa-86aff2be66a0",

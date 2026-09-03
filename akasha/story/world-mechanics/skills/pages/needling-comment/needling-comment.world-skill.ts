@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const needlingComment = {
   id: "01a0657d-027a-7c45-9d5d-b9501d4b9067",

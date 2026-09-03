@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const naturalAllySariantLambs = {
   id: "01a0657d-0271-7109-9b5a-cdc89f1bd1f9",

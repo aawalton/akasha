@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const mutualConditionBarbarousLoyalty = {
   id: "01a0657d-0270-72ce-b605-fb67e3fc41ed",

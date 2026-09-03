@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const massedPrayerWithFlamingSwordInHand = {
   id: "01a0657d-024b-7637-b487-9bc33037e3a0",

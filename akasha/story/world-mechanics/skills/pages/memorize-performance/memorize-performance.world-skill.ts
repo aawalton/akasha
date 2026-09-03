@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const memorizePerformance = {
   id: "01a0657d-024c-79c8-a8df-420edf66dfbe",

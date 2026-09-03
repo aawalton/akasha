@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const mitigateHearingDamage = {
   id: "01a0657d-026f-7e26-b312-f5b9417348c0",

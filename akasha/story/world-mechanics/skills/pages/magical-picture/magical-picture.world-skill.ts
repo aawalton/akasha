@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const magicalPicture = {
   id: "01a0657d-0242-7062-bb3b-b9396c77f276",

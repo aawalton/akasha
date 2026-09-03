@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const marchOfAnnihilation = {
   id: "01a0657d-0243-72ff-88a3-c262e666b59e",

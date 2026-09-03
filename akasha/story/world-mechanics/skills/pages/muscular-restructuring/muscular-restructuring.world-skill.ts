@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const muscularRestructuring = {
   id: "01a0657d-0270-7848-b483-3570598ea9fe",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const melodyOfSpeed = {
   id: "01a0657d-024c-7bef-8292-7be9ca58b558",

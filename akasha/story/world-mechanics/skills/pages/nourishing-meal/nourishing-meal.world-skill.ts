@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const nourishingMeal = {
   id: "01a0657d-027b-7a9e-8479-775c765daaac",

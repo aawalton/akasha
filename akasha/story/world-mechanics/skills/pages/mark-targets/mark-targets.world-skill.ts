@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const markTargets = {
   id: "01a0657d-024b-715a-ac36-448d33e32704",

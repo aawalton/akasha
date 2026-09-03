@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const marrowstrike = {
   id: "01a0657d-024b-7a2d-a110-f2e223b71105",

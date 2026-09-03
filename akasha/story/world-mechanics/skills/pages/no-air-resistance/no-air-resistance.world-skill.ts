@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const noAirResistance = {
   id: "01a0657d-027b-71fd-8360-fe989996218d",

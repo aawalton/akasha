@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const massedPrayerPillarOfLight = {
   id: "01a0657d-024b-70ff-9fd8-2f8280c12d07",

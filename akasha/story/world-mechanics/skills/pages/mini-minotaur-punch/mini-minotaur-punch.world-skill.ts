@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const miniMinotaurPunch = {
   id: "01a0657d-024d-7c0a-9652-317561f92df3",

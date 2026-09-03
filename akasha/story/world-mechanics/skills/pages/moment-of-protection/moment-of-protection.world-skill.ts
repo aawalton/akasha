@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const momentOfProtection = {
   id: "01a0657d-026f-7dfa-829d-ff8921bd7530",

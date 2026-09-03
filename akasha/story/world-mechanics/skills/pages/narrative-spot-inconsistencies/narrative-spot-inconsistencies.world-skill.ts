@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const narrativeSpotInconsistencies = {
   id: "01a0657d-0271-76ba-a8eb-3e2a854de92c",

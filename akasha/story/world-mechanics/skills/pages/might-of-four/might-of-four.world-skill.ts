@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const mightOfFour = {
   id: "01a0657d-024d-75e6-af0a-689a4ac8e348",

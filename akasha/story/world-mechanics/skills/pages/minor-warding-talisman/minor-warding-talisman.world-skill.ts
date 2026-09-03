@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const minorWardingTalisman = {
   id: "01a0657d-024d-758c-b10d-760f64947ce4",

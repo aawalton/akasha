@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const memoryOfTheEarth = {
   id: "01a0657d-024c-753f-9d1a-4c15fa5ea044",

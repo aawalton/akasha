@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const memoryOfTheQuarass = {
   id: "01a0657d-024c-706a-970a-eaa5b3caf5c6",
