@@ -14,6 +14,7 @@ export const monarchUnreviewedTransactions = {
   noneLeftWords: "All reviewed!",
   noneLeftEmoji: "🎉",
   wireKey: "unreviewed",
+  readLiveFrom: "monarch",
   invariants: [
     {
       invariantKind: "departure",
