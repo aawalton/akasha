@@ -3,18 +3,19 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
 
 const COMPILER_PACKAGE = "akasha/language-design/lua-compiler"
 
-const COMPILER_ENTRY = "src/cli/tstl.ts"
+const COMPILER_ENTRY = "tstl-cli/tstl-cli.module.code.ts"
 
-const PLUGIN_DIR = "src/plugins"
-
-const PLUGIN_FILES = ["tstl-no-truthy-numbers.js", "tstl-no-multi-store.js"] as const
+const PLUGIN_FILES = [
+  "tstl-plugin-tstl-no-truthy-numbers/tstl-plugin-tstl-no-truthy-numbers.module.code.ts",
+  "tstl-plugin-tstl-no-multi-store/tstl-plugin-tstl-no-multi-store.module.code.ts",
+] as const
 
 export function tstlRoot(stated?: string): string {
   return stated ?? join(rootFor(resolveRoots(), AKASHA), COMPILER_PACKAGE)
 }
 
 export function luaPluginsArgument(root: string): string {
-  return JSON.stringify(PLUGIN_FILES.map((one) => ({ name: join(root, PLUGIN_DIR, one) })))
+  return JSON.stringify(PLUGIN_FILES.map((one) => ({ name: join(root, one) })))
 }
 
 export function tstlCommand(
