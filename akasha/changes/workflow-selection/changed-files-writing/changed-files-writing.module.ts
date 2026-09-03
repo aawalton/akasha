@@ -6,4 +6,23 @@ export const changedFilesWriting = {
   slug: "changed-files-writing",
   definition: "the files a pipeline is for, written out as a manifest the checks read",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The manifest is written inside a cluster container rather than on the workstation.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pipeline page is asked of the pages service rather than of a checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the pipeline page type does not declare is refused by the service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest naming no file is refused rather than written.",
+    },
+  ],
 } as const satisfies Module

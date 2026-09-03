@@ -1,7 +1,7 @@
 import { writeFileSync } from "node:fs"
-import { askComposed } from "@tools/lib/page-query-client"
+import { askingFor } from "@akasha/pages-system-service/calling"
 
-export const CHANGED_FILES_KEY = "changed-files"
+export const CHANGED_FILES_KEY = "changedFiles"
 
 const PIPELINE = "pipeline"
 
@@ -25,18 +25,13 @@ export function filesIn(held: unknown): readonly string[] {
 }
 
 export async function readChangedFiles(seq: string): Promise<readonly string[]> {
-  const asked = await askComposed({
-    "page-type": PIPELINE,
+  const asked = await askingFor({
+    pageTypeSlug: PIPELINE,
     where: { [SEQ_KEY]: { is: seq } },
     keys: [CHANGED_FILES_KEY],
   })
-  if (!asked.ok) {
-    throw new Error(`the pipeline page at seq ${seq} went unread: ${asked.why}`)
-  }
-  if (asked.unfound.includes(CHANGED_FILES_KEY)) {
-    throw new Error(
-      `the pipeline page at seq ${seq} knows no key \`${CHANGED_FILES_KEY}\`, so this zero names a misspelling rather than a change`
-    )
+  if ("refused" in asked) {
+    throw new Error(`the pipeline page at seq ${seq} went unread: ${asked.refused}`)
   }
   if (asked.rows.length !== 1) {
     throw new Error(
@@ -44,7 +39,7 @@ export async function readChangedFiles(seq: string): Promise<readonly string[]> 
     )
   }
   const row = asked.rows[0]
-  const files = row === undefined ? [] : filesIn(row.values[CHANGED_FILES_KEY])
+  const files = row === undefined ? [] : filesIn(row[CHANGED_FILES_KEY])
   if (files.length === 0) {
     throw new Error(
       `the pipeline page at seq ${seq} states an empty \`${CHANGED_FILES_KEY}\`, and a pipeline stands only for a diff that named a file`
