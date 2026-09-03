@@ -1,5 +1,5 @@
+import { akashaTreePath } from "@akasha/ci-containers/ci-container-name"
 import { IMAGES } from "@akasha/workflow-language/images"
-import { akashaTreePath } from "../ci-container-dispatcher/container-name.ts"
 import type { StepPlan } from "./create.ts"
 
 export const AKASHA_TREE_STEP_NAME = "preparation-akasha-tree"

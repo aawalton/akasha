@@ -1,3 +1,5 @@
+import type { Candidate, NodeCapacity, Requests } from "@akasha/ci-containers/ci-dispatch-shapes"
+import { asHostname, type Hostname } from "@akasha/k8s-types/hostnames"
 import {
   aggregatePhases,
   computeStoreDelta,
@@ -15,8 +17,6 @@ import {
 } from "./benchmark-aggregate.ts"
 import { type InnerReport, reportTypes, runCore, type StoreVariant } from "./benchmark-code.ts"
 import type { MarginSweepRow, SweepArgs } from "./benchmark-margin-sweep.ts"
-import type { Candidate, NodeCapacity, Requests } from "./ci-container-dispatcher/types.ts"
-import { asHostname, type Hostname } from "@akasha/k8s-types/hostnames"
 
 export const BASELINE_CAVEAT =
   "buildkit runs on node-06 as of #14492 (live on main): node-06 numbers include a resident buildkit; cross-node deltas are not buildkit-neutral."
@@ -213,4 +213,3 @@ export async function assembleOuterReport(args: AssembleOuterReportArgs): Promis
     undeclaredReds: undeclaredUnion,
   }
 }
-

@@ -4,14 +4,14 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
-import { CeilingExceeded } from "../tools/lib/ci-container-reaper/ceiling.ts"
+import { CeilingExceeded } from "@akasha/ci-containers/ci-reaper-ceiling"
 import {
   LOG,
   runBoundedCiContainerReaperTick,
   TICK_CEILING_MS,
   TICK_MS,
-} from "../tools/lib/ci-container-reaper/tick.ts"
-import { WEDGE_EXIT_CODE } from "../tools/lib/ci-container-reaper/wedge.ts"
+} from "@akasha/ci-containers/ci-reaper-tick"
+import { WEDGE_EXIT_CODE } from "@akasha/ci-containers/ci-wedge"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const HELP = `bun services/ci-container-reaper.ts — clear finished step containers off the cluster

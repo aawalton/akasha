@@ -4,7 +4,8 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
-import { openCluster } from "../tools/lib/ci-container-dispatcher/cluster.ts"
+import { openCluster } from "@akasha/ci-containers/ci-dispatch-cluster"
+import { isRecord } from "@akasha/ci-containers/ci-dispatch-shapes"
 import {
   DEFAULT_SCAN_LIMIT,
   type DispatcherState,
@@ -13,8 +14,10 @@ import {
   runBoundedDispatcherTick,
   TICK_CEILING_MS,
   TICK_MS,
-} from "../tools/lib/ci-container-dispatcher/tick.ts"
+} from "@akasha/ci-containers/ci-dispatcher-tick"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { readUncommitted } from "../page/uncommitted/uncommitted.ts"
+import { whereFor } from "../tools/lib/page-write-where.ts"
 
 const HELP = `bun services/ci-container-dispatcher.ts — place dispatching steps into containers on the cluster
 
@@ -77,6 +80,17 @@ async function main(): Promise<void> {
   process.on("SIGINT", () => ac.abort())
 
   const roots = resolveRoots()
+
+  // A step's definition is a nested record only the markdown page's uncommitted sidecar holds,
+  // and every page query flattens it to text. That store stands outside akasha, so the reading
+  // is wired here rather than reached for from a module inside it.
+  const definitions = (stepSeq: string): Readonly<Record<string, unknown>> => {
+    const at = whereFor(roots, "step", stepSeq)
+    if (at === null) return {}
+    const stated = readUncommitted(at.path)?.definition
+    return isRecord(stated) ? stated : {}
+  }
+
   const cluster = await openCluster()
   const gitAccessToken = process.env.GIT_ACCESS_TOKEN ?? ""
   const stickyPinning = process.env.CI_STICKY_PINNING_ENABLED === "1"
@@ -90,7 +104,7 @@ async function main(): Promise<void> {
     const startedAt = Date.now()
     try {
       const report = await runBoundedDispatcherTick(
-        { roots, cluster, gitAccessToken, stickyPinning },
+        { roots, cluster, gitAccessToken, stickyPinning, definitions },
         state,
         ac.signal
       )

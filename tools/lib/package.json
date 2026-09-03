@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@akasha/ci-benchmark": "workspace:*",
+    "@akasha/ci-containers": "workspace:*",
     "@akasha/k8s-synth": "workspace:*",
     "@akasha/git": "workspace:*",
     "@akasha/graph-system": "workspace:*",

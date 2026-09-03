@@ -1,5 +1,5 @@
-import { selectNext } from "./ci-container-dispatcher/select-next.ts"
-import type { Admission, Candidate, NodeCapacity } from "./ci-container-dispatcher/types.ts"
+import { selectNext } from "@akasha/ci-containers/ci-dispatch-placement"
+import type { Admission, Candidate, NodeCapacity } from "@akasha/ci-containers/ci-dispatch-shapes"
 
 export interface MarginSweepRow {
   readonly stickyPinning: boolean
