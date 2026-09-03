@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const tough = {
-  id: "01a05fd1-d26d-7770-ad3c-bbd30b1f2dfd",
+  id: "019e624a-12e4-79ec-8385-beae0a3eb1f4",
   pageTypeSlug: "temper-skill",
   slug: "tough",
   title: "Tough",

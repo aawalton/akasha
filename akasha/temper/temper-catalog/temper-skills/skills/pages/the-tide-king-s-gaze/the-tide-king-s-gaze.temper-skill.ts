@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const theTideKingSGaze = {
-  id: "01a05fd1-d266-79ef-b828-dcd815797ccf",
+  id: "019e6f53-a834-7842-898d-5b399a4e987e",
   pageTypeSlug: "temper-skill",
   slug: "the-tide-king-s-gaze",
   title: "The Tide King's Gaze",

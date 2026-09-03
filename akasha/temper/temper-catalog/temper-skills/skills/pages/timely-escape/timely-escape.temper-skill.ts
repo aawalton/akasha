@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const timelyEscape = {
-  id: "01a05fd1-d26a-7a59-a1ef-4ef97603dce5",
+  id: "019e6238-c326-7b88-a983-df9b47918b91",
   pageTypeSlug: "temper-skill",
   slug: "timely-escape",
   title: "Timely Escape",

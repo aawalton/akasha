@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const temporalGuard = {
-  id: "01a05fd1-d262-7482-825d-bb0876f91981",
+  id: "019e6238-c324-7f41-af93-e3830213820e",
   pageTypeSlug: "temper-skill",
   slug: "temporal-guard",
   title: "Temporal Guard",

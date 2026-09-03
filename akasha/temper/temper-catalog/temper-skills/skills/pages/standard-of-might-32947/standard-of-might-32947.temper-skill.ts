@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const standardOfMight32947 = {
-  id: "01a05fd1-d244-740e-95e0-efd33d56badf",
+  id: "019e6f53-a7b5-7c30-8df1-8715d51cfe33",
   pageTypeSlug: "temper-skill",
   slug: "standard-of-might-32947",
   title: "Standard of Might",

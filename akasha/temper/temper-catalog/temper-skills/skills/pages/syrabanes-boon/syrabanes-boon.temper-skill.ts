@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const syrabanesBoon = {
-  id: "01a05fd1-d25e-7799-929f-dfc5f59ea042",
+  id: "019e624a-12e3-78b0-9135-0d98f7a6a4b4",
   pageTypeSlug: "temper-skill",
   slug: "syrabanes-boon",
   title: "Syrabane's Boon",

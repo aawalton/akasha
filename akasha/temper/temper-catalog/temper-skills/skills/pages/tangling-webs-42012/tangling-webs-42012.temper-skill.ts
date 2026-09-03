@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const tanglingWebs42012 = {
-  id: "01a05fd1-d260-7f79-b69d-7426e2e15f86",
+  id: "019e6f53-a820-7a6f-a116-eb8fc5076c0c",
   pageTypeSlug: "temper-skill",
   slug: "tangling-webs-42012",
   title: "Tangling Webs",

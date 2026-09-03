@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const stalwartGuard = {
-  id: "01a05fd1-d242-77c7-8a6b-6b773a49c030",
+  id: "019e6251-4cf1-7d99-b2e9-cc86dfd2dd55",
   pageTypeSlug: "temper-skill",
   slug: "stalwart-guard",
   title: "Stalwart Guard",

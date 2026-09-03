@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const soulLock = {
-  id: "01a05fd1-7cd2-7204-b81a-23ce1efc2c7c",
+  id: "019e6251-4cec-7c8d-9e53-bf0d04a3d3bc",
   pageTypeSlug: "temper-skill",
   slug: "soul-lock",
   title: "Soul Lock",

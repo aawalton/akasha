@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const summonWingedTwilight = {
-  id: "01a05fd1-d252-7ee4-b556-f7ecad114442",
+  id: "019e6f53-a7ee-73e5-8758-a1576f9230c7",
   pageTypeSlug: "temper-skill",
   slug: "summon-winged-twilight",
   title: "Summon Winged Twilight",

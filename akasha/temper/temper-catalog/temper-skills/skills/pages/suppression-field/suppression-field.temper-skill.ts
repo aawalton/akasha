@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const suppressionField = {
-  id: "01a05fd1-d255-74da-8e07-37b415c31b16",
+  id: "019e6245-a74b-7ff6-a176-3111bf4d5d41",
   pageTypeSlug: "temper-skill",
   slug: "suppression-field",
   title: "Suppression Field",

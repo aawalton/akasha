@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const theLanguidEye189867 = {
-  id: "01a05fd1-d265-7858-bf83-ddde94e2a819",
+  id: "019e6f53-a831-7c62-8438-269dc71efdb2",
   pageTypeSlug: "temper-skill",
   slug: "the-languid-eye-189867",
   title: "The Languid Eye",

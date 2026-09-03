@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const transfer36587 = {
-  id: "01a05fd1-d270-7bce-acf6-f8b3546be7b8",
+  id: "019e6f53-a85a-7a7b-932d-43c1bd951048",
   pageTypeSlug: "temper-skill",
   slug: "transfer-36587",
   title: "Transfer",

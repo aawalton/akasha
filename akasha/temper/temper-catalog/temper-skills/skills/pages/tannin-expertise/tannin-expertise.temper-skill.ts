@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const tanninExpertise = {
-  id: "01a05fd1-d261-717b-9eb8-7949c7de2d9f",
+  id: "019e6224-ccb2-760b-823a-deef5566640f",
   pageTypeSlug: "temper-skill",
   slug: "tannin-expertise",
   title: "Tannin Expertise",

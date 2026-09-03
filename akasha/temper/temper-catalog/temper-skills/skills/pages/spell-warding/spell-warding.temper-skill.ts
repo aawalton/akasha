@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const spellWarding = {
-  id: "01a05fd1-d23d-76fa-90ae-a0ceaaa01abc",
+  id: "019e6238-c318-78f3-8e50-aaffd0809693",
   pageTypeSlug: "temper-skill",
   slug: "spell-warding",
   title: "Spell Warding",

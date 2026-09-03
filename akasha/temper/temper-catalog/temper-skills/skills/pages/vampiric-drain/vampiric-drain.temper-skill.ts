@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vampiricDrain = {
-  id: "01a05fd1-d283-787b-b462-04544f3cfca4",
+  id: "019e6f53-a8a4-77d0-803c-29c9145c0939",
   pageTypeSlug: "temper-skill",
   slug: "vampiric-drain",
   title: "Vampiric Drain",

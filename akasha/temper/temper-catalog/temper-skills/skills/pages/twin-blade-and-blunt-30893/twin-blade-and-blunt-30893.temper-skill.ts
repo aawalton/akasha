@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const twinBladeAndBlunt30893 = {
-  id: "01a05fd1-d276-746e-9333-88a855c96d74",
+  id: "019e6f53-a86c-7d42-af52-29bee4756bba",
   pageTypeSlug: "temper-skill",
   slug: "twin-blade-and-blunt-30893",
   title: "Twin Blade and Blunt",

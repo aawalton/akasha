@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const timeFreeze104079 = {
-  id: "01a05fd1-d26a-7160-9672-5dcd91268d8e",
+  id: "019e6f53-a842-789f-8cd0-079be14544e6",
   pageTypeSlug: "temper-skill",
   slug: "time-freeze-104079",
   title: "Time Freeze",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const strife = {
-  id: "01a05fd1-d247-715b-98b7-a4443a6b6852",
+  id: "019e6f53-a7c4-7354-860f-091d7669ed6e",
   pageTypeSlug: "temper-skill",
   slug: "strife",
   title: "Strife",

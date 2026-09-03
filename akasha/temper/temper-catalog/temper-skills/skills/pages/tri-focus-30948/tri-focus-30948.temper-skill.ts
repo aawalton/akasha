@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const triFocus30948 = {
-  id: "01a05fd1-d272-79f9-971f-39eadf1dc8af",
+  id: "019e6f53-a862-75ad-98c8-31d2ea672d1b",
   pageTypeSlug: "temper-skill",
   slug: "tri-focus-30948",
   title: "Tri Focus",

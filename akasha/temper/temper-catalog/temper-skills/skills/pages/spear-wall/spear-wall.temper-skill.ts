@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const spearWall = {
-  id: "01a05fd1-7cd7-7443-8c76-674e342c7e3b",
+  id: "019e6245-a73e-7310-b09d-48560670abaa",
   pageTypeSlug: "temper-skill",
   slug: "spear-wall",
   title: "Spear Wall",

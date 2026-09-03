@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const spellRecharge = {
-  id: "01a05fd1-7cd9-76bb-818b-57c7e137a902",
+  id: "019e624a-12e0-73a6-85fb-26d3108403f8",
   pageTypeSlug: "temper-skill",
   slug: "spell-recharge",
   title: "Spell Recharge",

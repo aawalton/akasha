@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const toxicBarrage = {
-  id: "01a05fd1-d26e-7949-a063-2b5456aefd54",
+  id: "019e6226-011a-7864-b768-1fa3fee7242f",
   pageTypeSlug: "temper-skill",
   slug: "toxic-barrage",
   title: "Toxic Barrage",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const unstableWallOfElements = {
-  id: "01a05fd1-d280-7fba-af71-498fb703f05f",
+  id: "019e6226-011d-71b2-bdb4-1a99379cedfa",
   pageTypeSlug: "temper-skill",
   slug: "unstable-wall-of-elements",
   title: "Unstable Wall of Elements",

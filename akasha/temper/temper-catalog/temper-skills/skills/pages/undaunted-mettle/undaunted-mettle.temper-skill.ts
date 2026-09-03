@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const undauntedMettle = {
-  id: "01a05fd1-d27a-78d4-a8ac-fd7112150b0f",
+  id: "019e6238-c329-76dd-96b9-91e2459f70a0",
   pageTypeSlug: "temper-skill",
   slug: "undaunted-mettle",
   title: "Undaunted Mettle",

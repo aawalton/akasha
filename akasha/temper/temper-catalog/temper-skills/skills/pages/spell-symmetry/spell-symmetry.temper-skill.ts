@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const spellSymmetry = {
-  id: "01a05fd1-d23a-7bd7-bf32-8a69f69104a5",
+  id: "019e6238-c317-7a9c-be6e-670d7bc768cc",
   pageTypeSlug: "temper-skill",
   slug: "spell-symmetry",
   title: "Spell Symmetry",

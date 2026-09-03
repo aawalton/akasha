@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const topplingCharge15540 = {
-  id: "01a05fd1-d26c-75b2-9c11-9b2238ccdca9",
+  id: "019e6f53-a84a-7e0f-8147-c1445fb4d5b7",
   pageTypeSlug: "temper-skill",
   slug: "toppling-charge-15540",
   title: "Toppling Charge",

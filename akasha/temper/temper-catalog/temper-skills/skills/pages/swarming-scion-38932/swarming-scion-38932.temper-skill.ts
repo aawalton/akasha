@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const swarmingScion38932 = {
-  id: "01a05fd1-d25a-7959-aefe-1064937c637e",
+  id: "019e6f53-a806-79d7-a6c6-bc8f46ebe548",
   pageTypeSlug: "temper-skill",
   slug: "swarming-scion-38932",
   title: "Swarming Scion",

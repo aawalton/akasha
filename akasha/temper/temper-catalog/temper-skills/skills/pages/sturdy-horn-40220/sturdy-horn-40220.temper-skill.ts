@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const sturdyHorn40220 = {
-  id: "01a05fd1-d24a-7365-894f-cb18ecf095ea",
+  id: "019e6f53-a7d3-7cfb-9497-0084a71a9dc9",
   pageTypeSlug: "temper-skill",
   slug: "sturdy-horn-40220",
   title: "Sturdy Horn",

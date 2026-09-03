@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const takeFlight32719 = {
-  id: "01a05fd1-d25f-707f-a2bf-03c9fe9ff90e",
+  id: "019e6f53-a81d-7295-a563-ffe6be1fc181",
   pageTypeSlug: "temper-skill",
   slug: "take-flight-32719",
   title: "Take Flight",

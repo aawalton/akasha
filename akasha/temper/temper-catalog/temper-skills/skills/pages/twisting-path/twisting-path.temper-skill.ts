@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const twistingPath = {
-  id: "01a05fd1-d277-76ec-be20-1f6efde17bf9",
+  id: "019e6245-a756-7bb3-9f8d-8cb0d85290b4",
   pageTypeSlug: "temper-skill",
   slug: "twisting-path",
   title: "Twisting Path",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const spellOrb103819 = {
-  id: "01a05fd1-7cd9-7f02-a99b-9e060a889f2d",
+  id: "019e6f53-a78d-719f-b490-126a4b8371e0",
   pageTypeSlug: "temper-skill",
   slug: "spell-orb-103819",
   title: "Spell Orb",

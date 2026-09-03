@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const unstableCore = {
-  id: "01a05fd1-d27f-7233-8f2d-9afd7f103131",
+  id: "019e6245-a75d-787a-9722-36cefe64c366",
   pageTypeSlug: "temper-skill",
   slug: "unstable-core",
   title: "Unstable Core",

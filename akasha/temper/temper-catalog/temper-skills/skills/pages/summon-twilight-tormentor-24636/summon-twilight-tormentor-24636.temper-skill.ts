@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const summonTwilightTormentor24636 = {
-  id: "01a05fd1-d24f-73fe-bfef-696bc14f741f",
+  id: "019e6f53-a7e4-78e5-a20a-51fd6eb095b2",
   pageTypeSlug: "temper-skill",
   slug: "summon-twilight-tormentor-24636",
   title: "Summon Twilight Tormentor",

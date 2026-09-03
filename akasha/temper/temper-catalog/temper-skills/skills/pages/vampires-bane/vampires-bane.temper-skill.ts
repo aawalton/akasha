@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const vampiresBane = {
-  id: "01a05fd1-d282-7594-931c-f09048475c5b",
+  id: "019e6245-a75e-7be4-8bee-fe77af884d08",
   pageTypeSlug: "temper-skill",
   slug: "vampires-bane",
   title: "Vampire's Bane",

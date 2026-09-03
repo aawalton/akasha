@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const tentacularDread185823 = {
-  id: "01a05fd1-d264-70b8-9cff-ae60b6c22a21",
+  id: "019e6f53-a82c-7f48-a67e-43f76182dd1c",
   pageTypeSlug: "temper-skill",
   slug: "tentacular-dread-185823",
   title: "Tentacular Dread",

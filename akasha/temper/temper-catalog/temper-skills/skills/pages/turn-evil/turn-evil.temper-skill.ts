@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const turnEvil = {
-  id: "01a05fd1-d275-749b-ad21-b42dd2d9a462",
+  id: "019e6238-c327-799c-ba29-cfb6fc5be8fd",
   pageTypeSlug: "temper-skill",
   slug: "turn-evil",
   title: "Turn Evil",

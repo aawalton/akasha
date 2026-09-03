@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const veilOfBlades = {
-  id: "01a05fd1-d283-7baa-9ec7-86d536b7b2c7",
+  id: "019e6245-a760-705f-83ed-85937e8ddbbc",
   pageTypeSlug: "temper-skill",
   slug: "veil-of-blades",
   title: "Veil of Blades",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const trafficker = {
-  id: "01a05fd1-d26e-7aa0-8d0c-d5d5b78dd444",
+  id: "019e6251-4cf9-7505-bd13-cd37c6fe9348",
   pageTypeSlug: "temper-skill",
   slug: "trafficker",
   title: "Trafficker",

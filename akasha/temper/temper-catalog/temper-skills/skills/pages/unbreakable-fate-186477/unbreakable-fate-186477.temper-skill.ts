@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const unbreakableFate186477 = {
-  id: "01a05fd1-d279-74f1-b883-8cc636d91433",
+  id: "019e6f53-a875-71d9-937f-310c10bd1bb0",
   pageTypeSlug: "temper-skill",
   slug: "unbreakable-fate-186477",
   title: "Unbreakable Fate",

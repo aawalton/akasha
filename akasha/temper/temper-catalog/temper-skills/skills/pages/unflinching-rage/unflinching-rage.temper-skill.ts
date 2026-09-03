@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const unflinchingRage = {
-  id: "01a05fd1-d27c-726c-afed-33e961997754",
+  id: "019e624a-12e5-7b32-ae3a-936b53bb3044",
   pageTypeSlug: "temper-skill",
   slug: "unflinching-rage",
   title: "Unflinching Rage",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const soulSiphoner = {
-  id: "01a05fd1-7cd4-7ff7-8728-81361545c1e0",
+  id: "019e6245-a73c-70b5-aea6-883e3d35eae5",
   pageTypeSlug: "temper-skill",
   slug: "soul-siphoner",
   title: "Soul Siphoner",

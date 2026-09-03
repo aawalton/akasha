@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const surpriseAttack25260 = {
-  id: "01a05fd1-d257-7f98-9247-ee6218b83c51",
+  id: "019e6f53-a7fe-7624-b612-03bd7af30f55",
   pageTypeSlug: "temper-skill",
   slug: "surprise-attack-25260",
   title: "Surprise Attack",

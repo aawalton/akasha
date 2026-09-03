@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const unstoppableBrute = {
-  id: "01a05fd1-d281-79af-95b6-92f366ef2629",
+  id: "019e6238-c32c-7033-874d-6e5743112f56",
   pageTypeSlug: "temper-skill",
   slug: "unstoppable-brute",
   title: "Unstoppable Brute",

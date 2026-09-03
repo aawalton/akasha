@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const splinteredSecrets = {
-  id: "01a05fd1-d241-73ab-844b-680991bbe217",
+  id: "019e6245-a741-75fa-be8b-dfc5706f2875",
   pageTypeSlug: "temper-skill",
   slug: "splintered-secrets",
   title: "Splintered Secrets",

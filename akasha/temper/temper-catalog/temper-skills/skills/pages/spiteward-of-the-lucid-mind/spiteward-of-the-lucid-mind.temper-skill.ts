@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const spitewardOfTheLucidMind = {
-  id: "01a05fd1-d240-7b37-bd6a-bab47c453aed",
+  id: "019e6245-a740-746c-9b6a-d53809139d24",
   pageTypeSlug: "temper-skill",
   slug: "spiteward-of-the-lucid-mind",
   title: "Spiteward of the Lucid Mind",

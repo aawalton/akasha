@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const solventProficiency = {
-  id: "01a05fd1-7ccf-76bf-9921-be25df3f42bf",
+  id: "019e6224-ccae-7f33-86df-ff1a843a8037",
   pageTypeSlug: "temper-skill",
   slug: "solvent-proficiency",
   title: "Solvent Proficiency",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const undauntedCommand = {
-  id: "01a05fd1-d27a-7c59-8032-3967aac641d2",
+  id: "019e6238-c328-78c6-9ff4-12421f8ce619",
   pageTypeSlug: "temper-skill",
   slug: "undaunted-command",
   title: "Undaunted Command",

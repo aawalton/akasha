@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const timeStop = {
-  id: "01a05fd1-d26a-735c-99f5-1558ceca66e0",
+  id: "019e6f53-a843-7eb3-b870-44fc28a8404e",
   pageTypeSlug: "temper-skill",
   slug: "time-stop",
   title: "Time Stop",

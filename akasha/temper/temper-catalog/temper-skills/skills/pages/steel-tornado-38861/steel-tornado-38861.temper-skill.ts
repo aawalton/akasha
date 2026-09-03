@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const steelTornado38861 = {
-  id: "01a05fd1-d245-7f20-a849-635800ba41e1",
+  id: "019e6f53-a7ba-799e-a839-ee3e0ca046a0",
   pageTypeSlug: "temper-skill",
   slug: "steel-tornado-38861",
   title: "Steel Tornado",

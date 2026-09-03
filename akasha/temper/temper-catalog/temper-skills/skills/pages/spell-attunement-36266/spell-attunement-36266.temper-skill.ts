@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const spellAttunement36266 = {
-  id: "01a05fd1-7cd8-7441-829c-a567dc8cdc30",
+  id: "019e6f53-a789-7884-b99a-ea4c2005e546",
   pageTypeSlug: "temper-skill",
   slug: "spell-attunement-36266",
   title: "Spell Attunement",

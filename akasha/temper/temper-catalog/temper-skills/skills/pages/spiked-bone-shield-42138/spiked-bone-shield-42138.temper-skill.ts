@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const spikedBoneShield42138 = {
-  id: "01a05fd1-d23e-7053-97fe-d95672831b3b",
+  id: "019e6f53-a79d-768c-acac-27276f53e85f",
   pageTypeSlug: "temper-skill",
   slug: "spiked-bone-shield-42138",
   title: "Spiked Bone Shield",

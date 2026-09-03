@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const undeadConfederate = {
-  id: "01a05fd1-d27a-7922-be78-45b8b04084da",
+  id: "019e6245-a758-7d67-b855-19bd0dba40c2",
   pageTypeSlug: "temper-skill",
   slug: "undead-confederate",
   title: "Undead Confederate",
