@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const threskSSteelWarspears = {
   id: "01a06572-95e7-7704-8ba1-1625cd36d397",

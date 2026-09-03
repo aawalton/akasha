@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const storedShock = {
   id: "01a06572-95e4-7d37-bb17-da5190ae5dc9",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const urgentMessage = {
   id: "01a06572-95e8-764b-a6bd-abda39323fa8",

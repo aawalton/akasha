@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const summonAlliesExtremeRange = {
   id: "01a06572-95e4-7f97-9744-f0234a59388b",

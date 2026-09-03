@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const stepOfLight = {
   id: "01a06572-95e3-7643-b0ac-ff8b7283fd19",

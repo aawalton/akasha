@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const steelScales = {
   id: "01a06572-95e2-7e2c-89f3-46c7286905fe",

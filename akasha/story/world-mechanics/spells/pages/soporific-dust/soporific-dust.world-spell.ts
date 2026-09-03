@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const soporificDust = {
   id: "01a06572-95e1-74df-b2bd-27bfd811790c",

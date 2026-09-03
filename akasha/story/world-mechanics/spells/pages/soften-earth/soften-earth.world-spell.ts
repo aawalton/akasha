@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const softenEarth = {
   id: "01a06572-95e1-71e0-ab9d-df9773917f2a",

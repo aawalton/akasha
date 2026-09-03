@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const spellguard = {
   id: "01a06572-95e2-7992-8673-88429d950b3f",

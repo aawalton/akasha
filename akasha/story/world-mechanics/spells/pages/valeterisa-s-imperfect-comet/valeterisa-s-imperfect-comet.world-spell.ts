@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const valeterisaSImperfectComet = {
   id: "01a06572-95e8-7a54-b646-1510fa0059e2",

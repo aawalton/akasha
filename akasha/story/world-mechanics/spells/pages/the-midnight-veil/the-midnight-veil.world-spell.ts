@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const theMidnightVeil = {
   id: "01a06572-95e6-7f04-9076-7c8462342b74",

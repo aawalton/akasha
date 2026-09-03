@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const theLightOfShaliVere = {
   id: "01a06572-95e6-7e50-a334-f40c9c1651bc",

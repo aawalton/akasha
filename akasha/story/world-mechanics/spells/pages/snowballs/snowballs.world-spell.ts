@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const snowballs = {
   id: "01a06572-95e1-7aee-aab2-b4447601ff04",

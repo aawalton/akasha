@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const valeterisaSLightningCatchers = {
   id: "01a06572-95e8-7133-9ce6-832d660a2dbc",

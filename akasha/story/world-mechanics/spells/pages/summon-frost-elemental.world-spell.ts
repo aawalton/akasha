@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.ts"
+import type { WorldSpell } from "../world-spell.page-type.ts"
 
 export const summonFrostElemental = {
   id: "01a06572-95e4-7033-9564-1440ee560e27",

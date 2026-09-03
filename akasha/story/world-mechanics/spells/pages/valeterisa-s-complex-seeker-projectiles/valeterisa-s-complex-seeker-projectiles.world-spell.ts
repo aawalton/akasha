@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const valeterisaSComplexSeekerProjectiles = {
   id: "01a06572-95e8-75ec-b736-2a67c732d23c",

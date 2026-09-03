@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const stoneArrows = {
   id: "01a06572-95e3-71ad-ad3f-2489cea6b66a",

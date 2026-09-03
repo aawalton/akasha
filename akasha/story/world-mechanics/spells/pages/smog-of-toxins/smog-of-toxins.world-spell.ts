@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const smogOfToxins = {
   id: "01a06572-95e1-7ae1-9c8b-b6af8a98cd9f",

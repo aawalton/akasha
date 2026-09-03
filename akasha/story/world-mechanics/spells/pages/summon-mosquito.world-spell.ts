@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.ts"
+import type { WorldSpell } from "../world-spell.page-type.ts"
 
 export const summonMosquito = {
   id: "01a06572-95e4-7660-933b-c71f7e63094b",

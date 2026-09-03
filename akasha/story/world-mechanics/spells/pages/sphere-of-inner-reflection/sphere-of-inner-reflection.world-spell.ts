@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const sphereOfInnerReflection = {
   id: "01a06572-95e2-7e12-afa8-eb49e284ea6d",

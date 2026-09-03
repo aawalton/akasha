@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const stoneToMud = {
   id: "01a06572-95e3-7af8-9537-36d3fce86936",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const summonBlackHole = {
   id: "01a06572-95e4-7442-b8c6-d2f0bfbeba37",

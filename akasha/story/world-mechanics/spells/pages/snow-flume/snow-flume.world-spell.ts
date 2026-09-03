@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const snowFlume = {
   id: "01a06572-95e1-7d7b-b441-07099a3bcbdc",

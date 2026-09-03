@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const sylphSpark = {
   id: "01a06572-95e5-73ac-8cba-5f7ae3b96a9f",

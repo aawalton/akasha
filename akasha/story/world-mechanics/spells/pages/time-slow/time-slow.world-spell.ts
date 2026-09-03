@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const timeSlow = {
   id: "01a06572-95e7-72fa-9d7f-cb794f82a9c3",

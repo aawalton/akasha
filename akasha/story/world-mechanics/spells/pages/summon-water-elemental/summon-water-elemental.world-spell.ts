@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const summonWaterElemental = {
   id: "01a06572-95e4-760e-a895-90ff274c29eb",

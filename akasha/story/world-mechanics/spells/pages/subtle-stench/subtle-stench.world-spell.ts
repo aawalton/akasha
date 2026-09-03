@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const subtleStench = {
   id: "01a06572-95e4-7d91-ab48-02544c196309",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const valmiraSFallingStarrySky = {
   id: "01a06572-95e8-7361-9cbb-1afe338e13f3",

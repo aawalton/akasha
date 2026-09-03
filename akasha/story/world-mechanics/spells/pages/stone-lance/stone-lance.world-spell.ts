@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const stoneLance = {
   id: "01a06572-95e3-7c27-aef8-efd0de676b7a",

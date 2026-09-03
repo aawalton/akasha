@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const valmiraSComets = {
   id: "01a06572-95e8-7867-aa14-c14bd862952d",

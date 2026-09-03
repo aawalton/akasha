@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const stomachOfTheCow = {
   id: "01a06572-95e3-7bce-95ad-192cd11e2c29",

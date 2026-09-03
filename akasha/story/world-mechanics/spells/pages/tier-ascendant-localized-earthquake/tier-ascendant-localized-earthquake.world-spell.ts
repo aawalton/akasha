@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const tierAscendantLocalizedEarthquake = {
   id: "01a06572-95e7-7774-91fc-19f6a5f3a720",

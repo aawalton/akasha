@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const untilInfinityExhaustsItself = {
   id: "01a06572-95e8-7b18-8951-928ef24525a3",

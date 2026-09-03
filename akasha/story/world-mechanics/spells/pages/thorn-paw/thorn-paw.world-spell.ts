@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const thornPaw = {
   id: "01a06572-95e6-70ce-a675-7e9776508c6c",

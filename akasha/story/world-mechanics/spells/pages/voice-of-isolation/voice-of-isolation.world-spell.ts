@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const voiceOfIsolation = {
   id: "01a06572-95e8-74b1-848c-3024efd30b69",

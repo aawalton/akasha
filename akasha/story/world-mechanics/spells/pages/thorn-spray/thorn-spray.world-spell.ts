@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const thornSpray = {
   id: "01a06572-95e6-78a7-93c3-b58637325a30",

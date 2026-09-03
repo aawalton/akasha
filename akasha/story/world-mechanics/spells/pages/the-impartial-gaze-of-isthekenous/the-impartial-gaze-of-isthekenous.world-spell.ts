@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const theImpartialGazeOfIsthekenous = {
   id: "01a06572-95e6-7179-93f0-a22f2f1fb9af",

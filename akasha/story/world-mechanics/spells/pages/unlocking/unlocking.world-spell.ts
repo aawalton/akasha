@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const unlocking = {
   id: "01a06572-95e8-754d-abe2-50cd3d1daa50",

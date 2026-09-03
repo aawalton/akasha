@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const vortexOfAnnihilation = {
   id: "01a06572-95e8-7701-9c87-313fcbad4273",

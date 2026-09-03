@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const thunderStep = {
   id: "01a06572-95e7-7b00-a6ac-4bbda7fade13",

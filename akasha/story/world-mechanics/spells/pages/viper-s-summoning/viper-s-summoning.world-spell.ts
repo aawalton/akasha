@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const viperSSummoning = {
   id: "01a06572-95e8-7e6b-88ac-fdaa8fced826",

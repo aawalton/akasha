@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const theCarrionHawkOfAmegediaVair = {
   id: "01a06572-95e6-77db-8d03-e70fa3dcb90b",

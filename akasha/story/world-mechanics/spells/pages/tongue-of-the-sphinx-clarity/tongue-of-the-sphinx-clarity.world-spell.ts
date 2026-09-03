@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const tongueOfTheSphinxClarity = {
   id: "01a06572-95e7-7109-b202-eacf27db2940",

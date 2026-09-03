@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const stinkingCloud = {
   id: "01a06572-95e3-79e6-8cb6-f580e4b29116",

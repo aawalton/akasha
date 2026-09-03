@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const soundlessWheels = {
   id: "01a06572-95e1-7074-b63e-daa3589c5558",

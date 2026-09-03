@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const voidWall = {
   id: "01a06572-95e8-7e18-a41b-39b411e8e365",

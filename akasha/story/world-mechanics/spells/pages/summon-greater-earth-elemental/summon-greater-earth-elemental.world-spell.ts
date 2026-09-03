@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const summonGreaterEarthElemental = {
   id: "01a06572-95e4-7619-ae83-e563f84ea807",

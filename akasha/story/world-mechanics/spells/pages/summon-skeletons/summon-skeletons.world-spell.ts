@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const summonSkeletons = {
   id: "01a06572-95e4-7004-a7a0-d2e75588fb17",

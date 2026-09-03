@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const spectralOrbs = {
   id: "01a06572-95e2-79ef-9457-7c71a9805e50",

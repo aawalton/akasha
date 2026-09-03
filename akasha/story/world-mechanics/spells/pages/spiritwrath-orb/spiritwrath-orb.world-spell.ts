@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const spiritwrathOrb = {
   id: "01a06572-95e2-7ab6-a261-7d63d96224c9",

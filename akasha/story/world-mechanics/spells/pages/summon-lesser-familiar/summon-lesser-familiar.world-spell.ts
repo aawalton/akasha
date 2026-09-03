@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const summonLesserFamiliar = {
   id: "01a06572-95e4-7538-b89f-cecd24568fed",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const theBloodFestersAndRots = {
   id: "01a06572-95e6-72f9-b399-b52b364ba935",

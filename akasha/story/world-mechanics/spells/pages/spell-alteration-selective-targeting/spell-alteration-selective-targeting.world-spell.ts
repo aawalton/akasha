@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const spellAlterationSelectiveTargeting = {
   id: "01a06572-95e2-70be-90c5-d6c0535ae301",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const spearOfLightVolley = {
   id: "01a06572-95e1-7501-8718-c014d7d11c24",

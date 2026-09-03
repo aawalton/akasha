@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const tenfoldHomingSpeedLightArrows = {
   id: "01a06572-95e6-78ae-95eb-33eaffbf6ec5",

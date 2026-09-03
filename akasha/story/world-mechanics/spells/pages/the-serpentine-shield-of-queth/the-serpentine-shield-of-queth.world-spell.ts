@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const theSerpentineShieldOfQueth = {
   id: "01a06572-95e6-7915-bfa3-6c1355239113",

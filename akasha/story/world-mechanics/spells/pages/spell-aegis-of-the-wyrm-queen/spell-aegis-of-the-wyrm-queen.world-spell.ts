@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const spellAegisOfTheWyrmQueen = {
   id: "01a06572-95e2-70d5-b78a-a47fd9eab330",

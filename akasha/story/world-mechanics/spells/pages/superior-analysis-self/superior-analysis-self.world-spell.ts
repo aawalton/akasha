@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const superiorAnalysisSelf = {
   id: "01a06572-95e4-79bb-8180-4a8d8451b37a",

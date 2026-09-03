@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const timeCheck = {
   id: "01a06572-95e7-7b2c-8d5b-2dfbb7e2a201",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const theCeruleanEaterAwakes = {
   id: "01a06572-95e6-7bc8-b060-7d82aa990515",

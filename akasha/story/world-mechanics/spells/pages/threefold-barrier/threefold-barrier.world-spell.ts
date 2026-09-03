@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const threefoldBarrier = {
   id: "01a06572-95e6-7c19-b833-c8d4cd84ac8d",

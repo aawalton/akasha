@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const steelBody = {
   id: "01a06572-95e2-7d39-8439-094e6292c69d",

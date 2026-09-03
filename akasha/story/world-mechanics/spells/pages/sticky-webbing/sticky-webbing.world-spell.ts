@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const stickyWebbing = {
   id: "01a06572-95e3-7444-84cc-4a3e9a76b92d",

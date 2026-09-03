@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const stoneDart = {
   id: "01a06572-95e3-7ea3-9295-b2e0d06d2f7a",
