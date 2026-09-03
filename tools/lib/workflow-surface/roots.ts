@@ -1,5 +1,5 @@
 import type { HelpFlag } from "../../ops/surface.ts"
-import { codeRoot } from "../code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 

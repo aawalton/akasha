@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import type { HelpFlag } from "../../ops/surface.ts"
-import { codeRoot } from "../code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { buildWorkflowSurface } from "./build.ts"
 import { type WorkflowSurface, WorkflowSurfaceSchema } from "./surface.ts"

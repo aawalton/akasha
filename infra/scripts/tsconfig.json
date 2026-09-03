@@ -13,8 +13,7 @@
   },
   "include": [
     "src/**/*.ts",
-    "../../page/page-file.ts",
-    "../../tools/lib/code-root.ts"
+    "../../page/page-file.ts"
   ],
   "exclude": [
     "node_modules",

@@ -1,4 +1,4 @@
-import { codeRoot } from "../code-root.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { askingAt, graphOrigin } from "../graph/origin.ts"
 import { loadAllWorkflowConfigsAtShaInProcess } from "../pipeline-run/pipeline-configs-sha-pinned.ts"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
