@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const defendersResistanceToArrows = {
   id: "01a06575-9802-707b-97ea-e62d7eca90ca",

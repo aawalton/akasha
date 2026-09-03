@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const disarmingParry = {
   id: "01a06575-9804-79d2-b329-7a03b45612a4",

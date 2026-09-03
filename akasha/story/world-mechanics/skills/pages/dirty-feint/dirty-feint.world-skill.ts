@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const dirtyFeint = {
   id: "01a06575-9803-7884-9314-8af902b6283b",

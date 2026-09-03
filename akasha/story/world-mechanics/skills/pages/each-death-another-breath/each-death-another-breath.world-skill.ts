@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const eachDeathAnotherBreath = {
   id: "01a06575-9806-7f95-bfaa-80e97cac8901",

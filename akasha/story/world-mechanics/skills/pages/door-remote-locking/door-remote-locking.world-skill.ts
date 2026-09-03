@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const doorRemoteLocking = {
   id: "01a06575-9805-7493-b00a-87190cd05625",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const cutStoneLikeWater = {
   id: "01a06575-9800-72cf-8178-3db39bec0dc7",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const dramasense = {
   id: "01a06575-9805-70d6-8d95-6cb9047fa8c5",

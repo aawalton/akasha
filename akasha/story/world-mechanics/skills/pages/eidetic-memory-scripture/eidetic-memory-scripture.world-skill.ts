@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const eideticMemoryScripture = {
   id: "01a06575-9807-7cfa-bbbf-3ad5824a8529",

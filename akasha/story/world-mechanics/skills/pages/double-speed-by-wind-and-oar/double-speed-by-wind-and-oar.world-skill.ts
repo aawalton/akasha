@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const doubleSpeedByWindAndOar = {
   id: "01a06575-9805-78a0-9a2c-11e9c105c25e",

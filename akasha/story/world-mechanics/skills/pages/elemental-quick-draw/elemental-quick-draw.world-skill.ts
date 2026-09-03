@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const elementalQuickDraw = {
   id: "01a06575-9807-79c3-bf3a-41baf2f86207",

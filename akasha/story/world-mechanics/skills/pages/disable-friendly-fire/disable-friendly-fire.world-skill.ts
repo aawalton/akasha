@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const disableFriendlyFire = {
   id: "01a06575-9803-7eb2-8530-61805b5f2c0e",

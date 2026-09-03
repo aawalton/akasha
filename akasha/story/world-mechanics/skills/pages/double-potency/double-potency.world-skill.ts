@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const doublePotency = {
   id: "01a06575-9805-74cf-9da3-78dbd7feb176",

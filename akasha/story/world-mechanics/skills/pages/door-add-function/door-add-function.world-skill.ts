@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const doorAddFunction = {
   id: "01a06575-9804-750e-813d-0fcf6e4efb21",

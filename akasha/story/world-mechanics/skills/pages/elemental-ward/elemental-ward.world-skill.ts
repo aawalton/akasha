@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const elementalWard = {
   id: "01a06575-9807-7046-baaf-8447d2b39fe5",

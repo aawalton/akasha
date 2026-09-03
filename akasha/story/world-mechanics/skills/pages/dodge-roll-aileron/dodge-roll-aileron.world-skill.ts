@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const dodgeRollAileron = {
   id: "01a06575-9804-7b66-9fdb-ff1438093a82",

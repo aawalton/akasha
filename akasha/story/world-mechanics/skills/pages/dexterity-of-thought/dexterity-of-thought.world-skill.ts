@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const dexterityOfThought = {
   id: "01a06575-9803-760d-978f-f1a66fd648b1",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const dirtdwellerSFriend = {
   id: "01a06575-9803-79bc-99fb-de2cde4972be",

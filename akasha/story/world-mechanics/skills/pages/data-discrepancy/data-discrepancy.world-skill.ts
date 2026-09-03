@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const dataDiscrepancy = {
   id: "01a06575-9801-7cce-855f-d5654f5cb9da",

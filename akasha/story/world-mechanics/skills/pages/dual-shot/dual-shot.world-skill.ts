@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const dualShot = {
   id: "01a06575-9806-7288-8e59-cde86dd44bb2",

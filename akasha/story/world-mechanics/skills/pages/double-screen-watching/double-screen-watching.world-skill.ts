@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const doubleScreenWatching = {
   id: "01a06575-9805-76af-beee-99933d421a34",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const dimensionalNoteStorage = {
   id: "01a06575-9803-756b-a921-3e43e18fc99c",

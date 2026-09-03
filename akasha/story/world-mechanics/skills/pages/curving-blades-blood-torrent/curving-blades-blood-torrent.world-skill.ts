@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const curvingBladesBloodTorrent = {
   id: "01a06575-97ff-7e3e-9b36-a2a33e70107b",

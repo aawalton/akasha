@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const detectVoid = {
   id: "01a06575-9803-72ed-b441-9f4fa4129dc5",

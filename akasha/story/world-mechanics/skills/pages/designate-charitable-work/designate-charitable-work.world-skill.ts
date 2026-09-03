@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const designateCharitableWork = {
   id: "01a06575-9803-78b1-8109-dd1728b06c3a",

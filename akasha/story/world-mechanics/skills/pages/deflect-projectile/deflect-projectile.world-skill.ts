@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const deflectProjectile = {
   id: "01a06575-9802-7ec5-95d8-bbe46241292c",

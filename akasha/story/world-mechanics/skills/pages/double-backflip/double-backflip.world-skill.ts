@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const doubleBackflip = {
   id: "01a06575-9805-7b5f-81e0-a6a3935539fe",

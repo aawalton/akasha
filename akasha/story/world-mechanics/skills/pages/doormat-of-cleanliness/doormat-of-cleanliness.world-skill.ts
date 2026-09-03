@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const doormatOfCleanliness = {
   id: "01a06575-9805-7f0b-ade9-221ca429c076",

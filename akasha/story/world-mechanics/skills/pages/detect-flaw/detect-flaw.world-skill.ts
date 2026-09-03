@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const detectFlaw = {
   id: "01a06575-9803-737d-9c43-17a4deb0faf5",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const cuttingWindslash = {
   id: "01a06575-9800-7c89-84b3-5b23d32282c8",

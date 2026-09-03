@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const earthshakerSBlow = {
   id: "01a06575-9806-7b5e-9018-fee6b93cd9da",

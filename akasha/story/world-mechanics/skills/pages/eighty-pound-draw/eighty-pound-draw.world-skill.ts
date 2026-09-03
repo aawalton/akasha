@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const eightyPoundDraw = {
   id: "01a06575-9807-706f-8077-00be11687d33",

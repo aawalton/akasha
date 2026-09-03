@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const diagonalSlash = {
   id: "01a06575-9803-7a61-82ca-77df97b21146",

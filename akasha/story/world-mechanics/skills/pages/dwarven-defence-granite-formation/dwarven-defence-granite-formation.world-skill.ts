@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const dwarvenDefenceGraniteFormation = {
   id: "01a06575-9806-7a07-be82-06f678bc016a",

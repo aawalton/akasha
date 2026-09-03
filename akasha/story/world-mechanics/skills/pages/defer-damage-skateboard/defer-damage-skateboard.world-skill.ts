@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const deferDamageSkateboard = {
   id: "01a06575-9802-7956-b4f8-afa56871a92a",

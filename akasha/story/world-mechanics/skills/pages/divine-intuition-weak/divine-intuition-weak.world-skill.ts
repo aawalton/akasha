@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const divineIntuitionWeak = {
   id: "01a06575-9804-740a-950a-4a25ca536709",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const deployMassLandmines = {
   id: "01a06575-9803-7284-bd5e-58e83b170fe3",

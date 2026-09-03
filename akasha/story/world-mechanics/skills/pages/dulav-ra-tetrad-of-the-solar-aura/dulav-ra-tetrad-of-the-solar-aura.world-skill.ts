@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const dulavRaTetradOfTheSolarAura = {
   id: "01a06575-9806-7bf8-98f7-d611dc927e1c",

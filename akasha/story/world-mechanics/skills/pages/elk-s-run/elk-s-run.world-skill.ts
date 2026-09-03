@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const elkSRun = {
   id: "01a06575-9807-73a0-8597-51a24baf4441",

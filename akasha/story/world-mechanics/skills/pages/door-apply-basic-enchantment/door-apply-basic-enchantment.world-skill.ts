@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const doorApplyBasicEnchantment = {
   id: "01a06575-9804-76fa-9920-ba01cfa648ad",

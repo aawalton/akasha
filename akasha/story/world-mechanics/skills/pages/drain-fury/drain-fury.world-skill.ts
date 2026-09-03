@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const drainFury = {
   id: "01a06575-9805-7a9b-a551-9552acbfd680",

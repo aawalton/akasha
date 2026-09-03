@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const danceOfWisps = {
   id: "01a06575-9800-7c32-8ddc-420559f60e73",

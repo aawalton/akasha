@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const doubledRange = {
   id: "01a06575-9805-7a7e-946f-7d05ab68e0f7",
