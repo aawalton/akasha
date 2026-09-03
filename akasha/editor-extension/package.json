@@ -11,6 +11,7 @@
     "./panel-domains": "./panel-domains/panel-domains.module.code.ts",
     "./seat-mode": "./seat-mode/seat-mode.module.code.ts",
     "./seat-page": "./seat-page/seat-page.module.code.ts",
+    "./settled-refresh": "./settled-refresh/settled-refresh.module.code.ts",
     "./status-bar-theme": "./status-bar-theme/status-bar-theme.module.code.ts",
     "./terminal-marks": "./terminal-marks/terminal-marks.module.code.ts",
     "./tree-filter": "./tree-filter/tree-filter.module.code.ts",

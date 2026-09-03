@@ -21,6 +21,7 @@ export const editorExtension = {
     "module/tree-filter",
     "module/editor-group",
     "module/window-identity",
+    "module/settled-refresh",
   ],
   invariants: [
     {
