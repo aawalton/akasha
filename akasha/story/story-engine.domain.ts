@@ -10,6 +10,11 @@ export const storyEngine = {
     "page-type/story-played",
     "page-type/story-turn-played",
     "page-type/world",
+    "page-type/story-design",
+    "page-type/story-design-note",
+    "page-type/story-wiki-entry",
+    "page-type/story-build",
+    "page-type/story-decision",
     "domain/world-mechanics",
     "workspace-package/story-engine-core",
     "workspace-package/story-ui",
@@ -29,6 +34,10 @@ export const storyEngine = {
     {
       invariantKind: "upkeep",
       statement: "Every part of a story the story engine keeps is a page in akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How a story is meant to read is kept apart from what the story says.",
     },
     {
       invariantKind: "absence",
