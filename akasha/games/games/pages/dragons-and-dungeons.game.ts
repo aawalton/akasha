@@ -1,7 +1,7 @@
 import type { Game } from "../game.page-type.ts"
 
 export const dragonsAndDungeons = {
-  id: "01a0673e-7218-7000-a54c-2ecf1e53a44d",
+  id: "01a0673f-a3d6-7000-abe5-40f31e53a44d",
   pageTypeSlug: "game",
   slug: "dragons-and-dungeons",
   title: "Dragons & Dungeons",

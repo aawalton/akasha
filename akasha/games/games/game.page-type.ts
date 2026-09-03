@@ -45,7 +45,7 @@ export type Game = Collection & {
   tone?: Tone
   readerFraming?: ReaderFraming
   genre?: readonly Genre[]
-  themes?: readonly Themes[]
+  themes?: Themes
   maintainsLore?: MaintainsLore
   maintainsDesign?: MaintainsDesign
   requiresPerTurnGate?: RequiresPerTurnGate
@@ -118,7 +118,7 @@ export const game = {
     { pagePropertySlug: "tone", required: false, many: false },
     { pagePropertySlug: "reader-framing", required: false, many: false },
     { pagePropertySlug: "genre", required: false, many: true, max: null },
-    { pagePropertySlug: "themes", required: false, many: true, max: null },
+    { pagePropertySlug: "themes", required: false, many: false },
     { pagePropertySlug: "maintains-lore", required: false, many: false },
     { pagePropertySlug: "maintains-design", required: false, many: false },
     { pagePropertySlug: "requires-per-turn-gate", required: false, many: false },

@@ -1,7 +1,7 @@
 import type { Game } from "../game.page-type.ts"
 
 export const theTower = {
-  id: "01a0673e-7219-7001-b3bc-6d9f1be588cb",
+  id: "01a0673f-a3d7-7000-afc1-88181be588cb",
   pageTypeSlug: "game",
   slug: "the-tower",
   title: "The Tower",

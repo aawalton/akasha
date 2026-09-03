@@ -1,7 +1,7 @@
 import type { Game } from "../game.page-type.ts"
 
 export const partnersIi = {
-  id: "01a0673e-7219-7000-aa3f-f4b784fb0b2e",
+  id: "01a0673f-a3d6-7003-8d45-3d6b84fb0b2e",
   pageTypeSlug: "game",
   slug: "partners-ii",
   title: "Partners II",
@@ -18,6 +18,7 @@ export const partnersIi = {
   tone: "Warm, playful, indulgent — and earned. Danger is real at the edges, never grim.",
   readerFraming: "Second person, present tense. You are yourself, arrived in Aravel.",
   requiresPerTurnGate: true,
+  themes: "Bonds as power; mutual becoming; appetite and trust; the earned yes.",
   genre: ["litrpg", "adventure", "progression"],
   displayConfig: "json",
   gmContext: "json",

@@ -7,7 +7,7 @@ export const themes = {
   pageTypeSlug: "text-property",
   slug: "themes",
   propertySlug: "themes",
-  definition: "what a game keeps returning to",
-  max: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  definition: "what a game keeps returning to, said in a line",
+  max: 300,
+  nameFormatSlug: null,
 } as const satisfies TextProperty

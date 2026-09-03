@@ -1,7 +1,7 @@
 import type { Game } from "../game.page-type.ts"
 
 export const partners = {
-  id: "01a0673e-7218-7002-b8c2-7899a0d57d57",
+  id: "01a0673f-a3d6-7002-8d32-922da0d57d57",
   pageTypeSlug: "game",
   slug: "partners",
   title: "Partners",

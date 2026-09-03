@@ -1,7 +1,7 @@
 import type { Game } from "../game.page-type.ts"
 
 export const dateNightTheReadingRoom = {
-  id: "01a0673e-7217-7001-ac95-7528424704f7",
+  id: "01a0673f-a3d5-7001-b86a-6843424704f7",
   pageTypeSlug: "game",
   slug: "date-night-the-reading-room",
   title: "Date Night — The Reading Room",
