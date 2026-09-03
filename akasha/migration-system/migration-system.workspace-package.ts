@@ -11,6 +11,8 @@ export const migrationSystem = {
     "module/migration-landing",
     "module/migration-reach",
     "command/migration-reach",
+    "module/part-census",
+    "command/part-census",
   ],
   invariants: [
     {
