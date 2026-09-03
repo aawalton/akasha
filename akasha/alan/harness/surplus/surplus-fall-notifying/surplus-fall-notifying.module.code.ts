@@ -1,15 +1,15 @@
 import { TICKS_BEFORE_ENDING, tickRatchet } from "@akasha/service-system/tick-ratchet"
 import {
+  sleptUntilStopped,
+  stopsOnSignal,
+} from "../../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+import {
   LOG,
   runBoundedSurplusFallTick,
   TICK_CEILING_MS,
   TICK_MS,
   WORKER_NAME,
-} from "@tools/lib/surplus-fall/tick"
-import {
-  sleptUntilStopped,
-  stopsOnSignal,
-} from "../../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+} from "../surplus-fall-ticking/surplus-fall-ticking.module.code.ts"
 
 async function main(): Promise<void> {
   const ac = stopsOnSignal()
