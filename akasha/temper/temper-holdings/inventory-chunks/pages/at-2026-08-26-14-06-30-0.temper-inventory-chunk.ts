@@ -9,5 +9,4 @@ export const at202608261406300 = {
   inventory: "at-2026-08-26-14-06-30",
   chunkIndex: 0,
   byteCount: 900002,
-  data: "json",
 } as const satisfies TemperInventoryChunk
