@@ -5,9 +5,20 @@
   "exports": {
     "./bodying": "./bodying/bodying.module.code.ts",
     "./declaring": "./declaring/declaring.module.code.ts",
+    "./dom-guarding": "./dom-guarding/dom-guarding.module.code.ts",
+    "./dom-guard-setting": "./dom-guard-setting/dom-guard-setting.module.code.ts",
+    "./dom-registering": "./dom-registering/dom-registering.module.code.ts",
     "./minting": "./minting/minting.module.code.ts",
     "./putting": "./putting/putting.module.code.ts",
     "./waiting": "./waiting/waiting.module.code.ts",
     "./walking": "./walking/walking.module.code.ts"
+  },
+  "dependencies": {
+    "@happy-dom/global-registrator": "^20.8.3",
+    "@testing-library/react": "^16.3.2"
+  },
+  "peerDependencies": {
+    "react": "^19",
+    "react-dom": "^19"
   }
 }

@@ -16,6 +16,8 @@ export const testingSystem = {
     "module/walking",
     "module/putting",
     "module/dom-guarding",
+    "module/dom-guard-setting",
+    "module/dom-registering",
   ],
   invariants: [
     {
