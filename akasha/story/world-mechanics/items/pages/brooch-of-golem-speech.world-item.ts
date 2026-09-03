@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../world-item.page-type.ts"
+import type { WorldItem } from "../world-item.page-type.ts"
 
 export const broochOfGolemSpeech = {
   id: "01a0655a-7b7f-7c9e-b788-c7a70f8ca72f",

@@ -1,4 +1,4 @@
-import type { WorldSpecies } from "../../world-species.page-type.ts"
+import type { WorldSpecies } from "../world-species.page-type.ts"
 
 export const drake = {
   id: "01a0655a-0687-7fd4-b572-3f6bec7bcbf1",

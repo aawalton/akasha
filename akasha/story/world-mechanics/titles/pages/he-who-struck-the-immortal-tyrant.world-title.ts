@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.ts"
+import type { WorldTitle } from "../world-title.page-type.ts"
 
 export const heWhoStruckTheImmortalTyrant = {
   id: "01a0655a-7b7c-7241-a20a-8bbb3dc8df34",

@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../../world-item.page-type.ts"
+import type { WorldItem } from "../../world-item.page-type.ts"
 
 export const scrollOfGreaterTeleport = {
   id: "01a0655a-7b7f-7f2d-9b4a-fbe98156844b",

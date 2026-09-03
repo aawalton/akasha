@@ -1,4 +1,4 @@
-import type { WorldReputation } from "../../world-reputation.page-type.ts"
+import type { WorldReputation } from "../world-reputation.page-type.ts"
 
 export const shipFriendOfTheLiminalFolk = {
   id: "01a0655a-0688-78e8-9ae1-6cbce754dbf0",

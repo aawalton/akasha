@@ -1,4 +1,4 @@
-import type { WorldQuest } from "../../world-quest.page-type.ts"
+import type { WorldQuest } from "../world-quest.page-type.ts"
 
 export const legendaryQuest = {
   id: "01a0655a-0688-72f0-8d16-874303f95a54",

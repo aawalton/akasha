@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../../world-item.page-type.ts"
+import type { WorldItem } from "../../world-item.page-type.ts"
 
 export const evanescentSafeOfPassingMoments = {
   id: "01a0655a-7b7f-7b8a-b391-8ffb7cd40e7c",

@@ -1,4 +1,4 @@
-import type { WorldReputation } from "../../world-reputation.page-type.ts"
+import type { WorldReputation } from "../world-reputation.page-type.ts"
 
 export const infamyNowMyFame = {
   id: "01a0655a-0688-7f7c-9640-4e45b98c088b",

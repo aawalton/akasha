@@ -1,4 +1,4 @@
-import type { WorldCurse } from "../../../world-curse.page-type.ts"
+import type { WorldCurse } from "../../world-curse.page-type.ts"
 
 export const bloodOfEnemiesBoil = {
   id: "01a0655a-0687-72d9-aa10-461adb309f61",

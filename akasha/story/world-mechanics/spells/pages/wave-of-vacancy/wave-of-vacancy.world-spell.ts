@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const waveOfVacancy = {
   id: "01a06572-95e9-7b09-b372-4ecaeb5c155e",

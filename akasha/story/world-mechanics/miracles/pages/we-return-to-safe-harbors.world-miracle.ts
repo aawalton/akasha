@@ -1,4 +1,4 @@
-import type { WorldMiracle } from "../../world-miracle.page-type.ts"
+import type { WorldMiracle } from "../world-miracle.page-type.ts"
 
 export const weReturnToSafeHarbors = {
   id: "01a0655a-7b7c-7cd8-88e5-ff3603895c2e",

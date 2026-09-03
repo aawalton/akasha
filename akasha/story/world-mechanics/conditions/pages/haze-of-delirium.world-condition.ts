@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.ts"
+import type { WorldCondition } from "../world-condition.page-type.ts"
 
 export const hazeOfDelirium = {
   id: "01a0655a-7b7b-7949-a902-260526117bd5",

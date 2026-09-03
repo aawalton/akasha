@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../../world-condition.page-type.ts"
+import type { WorldCondition } from "../../world-condition.page-type.ts"
 
 export const constitutionOfTheChampion = {
   id: "01a0655a-7b7a-7dd5-be7b-b8a2d69cd58d",

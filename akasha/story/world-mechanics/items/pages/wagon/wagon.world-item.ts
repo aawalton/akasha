@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../../world-item.page-type.ts"
+import type { WorldItem } from "../../world-item.page-type.ts"
 
 export const wagon = {
   id: "01a0655a-7b80-7fd2-a093-d0953f96257d",

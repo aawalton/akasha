@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const whisper = {
   id: "01a06572-95ea-700d-8e90-1ef8a159f425",

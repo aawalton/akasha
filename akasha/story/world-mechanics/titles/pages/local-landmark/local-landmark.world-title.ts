@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../../world-title.page-type.ts"
+import type { WorldTitle } from "../../world-title.page-type.ts"
 
 export const localLandmark = {
   id: "01a0655a-7b7e-7a00-bbeb-8a65b57906ad",

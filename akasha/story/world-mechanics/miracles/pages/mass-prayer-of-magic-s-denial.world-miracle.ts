@@ -1,4 +1,4 @@
-import type { WorldMiracle } from "../../world-miracle.page-type.ts"
+import type { WorldMiracle } from "../world-miracle.page-type.ts"
 
 export const massPrayerOfMagicSDenial = {
   id: "01a0655a-7b7c-74b6-b5fe-756bf5a44d8e",

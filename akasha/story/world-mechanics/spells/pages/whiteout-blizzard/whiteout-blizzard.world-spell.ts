@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const whiteoutBlizzard = {
   id: "01a06572-95ea-7151-8875-4663188ab605",

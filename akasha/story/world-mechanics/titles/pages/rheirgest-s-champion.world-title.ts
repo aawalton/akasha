@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.ts"
+import type { WorldTitle } from "../world-title.page-type.ts"
 
 export const rheirgestSChampion = {
   id: "01a0655a-7b7e-7acc-8297-b97b2789eca7",

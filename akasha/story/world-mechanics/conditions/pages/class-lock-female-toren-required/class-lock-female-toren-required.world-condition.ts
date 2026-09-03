@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../../world-condition.page-type.ts"
+import type { WorldCondition } from "../../world-condition.page-type.ts"
 
 export const classLockFemaleTorenRequired = {
   id: "01a0655a-7b7a-7916-b634-dcf6b57687ca",

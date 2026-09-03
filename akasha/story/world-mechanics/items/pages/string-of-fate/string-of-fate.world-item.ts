@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../../world-item.page-type.ts"
+import type { WorldItem } from "../../world-item.page-type.ts"
 
 export const stringOfFate = {
   id: "01a0655a-7b80-7674-9277-eda94ffc896b",

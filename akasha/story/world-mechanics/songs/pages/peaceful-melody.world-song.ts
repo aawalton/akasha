@@ -1,4 +1,4 @@
-import type { WorldSong } from "../../world-song.page-type.ts"
+import type { WorldSong } from "../world-song.page-type.ts"
 
 export const peacefulMelody = {
   id: "01a0655a-0688-7f77-b8a8-4145aef07660",

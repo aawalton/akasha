@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const whiteflameJet = {
   id: "01a06572-95ea-71ba-8e5a-f9fcba41abdc",

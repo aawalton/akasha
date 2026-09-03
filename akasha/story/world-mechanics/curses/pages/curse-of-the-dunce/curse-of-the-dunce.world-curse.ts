@@ -1,4 +1,4 @@
-import type { WorldCurse } from "../../../world-curse.page-type.ts"
+import type { WorldCurse } from "../../world-curse.page-type.ts"
 
 export const curseOfTheDunce = {
   id: "01a0655a-0687-7f80-92f7-7ecf0eb31fff",

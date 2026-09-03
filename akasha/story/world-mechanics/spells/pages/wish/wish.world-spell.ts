@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const wish = {
   id: "01a06572-95ea-7d9b-ba70-cf7ecdb89644",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const weight = {
   id: "01a06572-95ea-72ac-b954-d623d8c89da0",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const wordOfDeath = {
   id: "01a06572-95ea-7861-85e8-d8d61bb9ce07",

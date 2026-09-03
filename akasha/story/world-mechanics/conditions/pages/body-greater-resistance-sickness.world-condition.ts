@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.ts"
+import type { WorldCondition } from "../world-condition.page-type.ts"
 
 export const bodyGreaterResistanceSickness = {
   id: "01a0655a-7b7a-7995-892e-dc99d4bbfb96",

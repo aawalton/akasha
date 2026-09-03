@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.ts"
+import type { WorldTitle } from "../world-title.page-type.ts"
 
 export const aGlimpseOfMagicSTruth = {
   id: "01a0655a-7b7c-7c06-bce0-3841636a661f",

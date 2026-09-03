@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const waterOrb = {
   id: "01a06572-95e9-7c53-8930-acfa3a258f39",

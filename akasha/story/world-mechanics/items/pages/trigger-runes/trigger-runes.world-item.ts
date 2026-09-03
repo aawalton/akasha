@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../../world-item.page-type.ts"
+import type { WorldItem } from "../../world-item.page-type.ts"
 
 export const triggerRunes = {
   id: "01a0655a-7b80-7740-94b6-69e0507fe326",

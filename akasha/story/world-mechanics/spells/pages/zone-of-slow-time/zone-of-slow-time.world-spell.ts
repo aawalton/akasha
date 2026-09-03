@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const zoneOfSlowTime = {
   id: "01a06572-95ea-77ba-b1ff-da7868ced37e",

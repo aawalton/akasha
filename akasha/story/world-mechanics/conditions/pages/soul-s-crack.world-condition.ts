@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.ts"
+import type { WorldCondition } from "../world-condition.page-type.ts"
 
 export const soulSCrack = {
   id: "01a0655a-7b7b-793a-9cc1-d3568f4fd743",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const zoneOfNoTransference = {
   id: "01a06572-95ea-78ad-ac84-ba1881dd835d",

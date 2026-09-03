@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../../world-item.page-type.ts"
+import type { WorldItem } from "../../world-item.page-type.ts"
 
 export const ringOfHealth = {
   id: "01a0655a-7b7f-784a-b857-114259fbedd1",

@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../../world-item.page-type.ts"
+import type { WorldItem } from "../../world-item.page-type.ts"
 
 export const arrowsOfBlast = {
   id: "01a0655a-7b7f-7fe8-a66f-1d342fda7542",

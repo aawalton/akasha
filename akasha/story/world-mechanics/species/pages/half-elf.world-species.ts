@@ -1,4 +1,4 @@
-import type { WorldSpecies } from "../../world-species.page-type.ts"
+import type { WorldSpecies } from "../world-species.page-type.ts"
 
 export const halfElf = {
   id: "01a0655a-0687-75e4-b42e-cc53cafcc644",

@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../world-item.page-type.ts"
+import type { WorldItem } from "../world-item.page-type.ts"
 
 export const theCrownOfMedainOwnership = {
   id: "01a0655a-7b80-7f07-a690-0cc322404a31",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const wildGrowth = {
   id: "01a06572-95ea-746c-99af-40ced9a11119",

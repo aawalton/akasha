@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const zoneOfAbsoluteChill = {
   id: "01a06572-95ea-7e1c-ae0b-c960126d66de",

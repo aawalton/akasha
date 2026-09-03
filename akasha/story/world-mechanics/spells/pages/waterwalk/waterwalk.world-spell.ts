@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const waterwalk = {
   id: "01a06572-95e9-716d-a0bd-af2d50289020",

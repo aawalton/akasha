@@ -1,4 +1,4 @@
-import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
+import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
 
 export const spellward = {
   id: "01a0655a-7b7b-711a-ba84-a9d749120c21",

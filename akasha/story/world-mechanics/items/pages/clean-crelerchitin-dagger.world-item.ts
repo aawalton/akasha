@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../world-item.page-type.ts"
+import type { WorldItem } from "../world-item.page-type.ts"
 
 export const cleanCrelerchitinDagger = {
   id: "01a0655a-7b7f-766d-a109-c518e3a611c6",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const zoneOfFrost = {
   id: "01a06572-95ea-7821-b6af-c8a218c9961e",

@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.ts"
+import type { WorldTitle } from "../world-title.page-type.ts"
 
 export const traderOfFortunes = {
   id: "01a0655a-7b7f-7072-a94a-895cbded6f86",

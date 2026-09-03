@@ -1,4 +1,4 @@
-import type { WorldMiracle } from "../../world-miracle.page-type.ts"
+import type { WorldMiracle } from "../world-miracle.page-type.ts"
 
 export const returnVengeanceToThee = {
   id: "01a0655a-7b7c-7df8-b1fb-33db8a84fb6e",

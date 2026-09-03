@@ -1,4 +1,4 @@
-import type { WorldSpecies } from "../../../world-species.page-type.ts"
+import type { WorldSpecies } from "../../world-species.page-type.ts"
 
 export const trueFamiliars = {
   id: "01a0655a-0687-7f60-bb3b-1ec00e41d466",

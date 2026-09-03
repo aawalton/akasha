@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../world-item.page-type.ts"
+import type { WorldItem } from "../world-item.page-type.ts"
 
 export const mysteriousBlueFruit = {
   id: "01a0655a-7b7f-7508-988d-e962bde97929",

@@ -1,4 +1,4 @@
-import type { WorldCondition } from "../../world-condition.page-type.ts"
+import type { WorldCondition } from "../world-condition.page-type.ts"
 
 export const bearerOfMyVengeance = {
   id: "01a0655a-7b7a-7210-a80a-b7962e5e9e30",

@@ -1,4 +1,4 @@
-import type { WorldLegacy } from "../../world-legacy.page-type.ts"
+import type { WorldLegacy } from "../world-legacy.page-type.ts"
 
 export const pinpointArrows = {
   id: "01a0655a-0687-7b91-8ff7-5edf03e82098",

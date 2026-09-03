@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const waveOfRadiance = {
   id: "01a06572-95e9-7603-890a-f1481dcf473b",

@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../../world-item.page-type.ts"
+import type { WorldItem } from "../../world-item.page-type.ts"
 
 export const wandsOfFireball = {
   id: "01a0655a-7b80-7106-9e88-cf6339ede935",

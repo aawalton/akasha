@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const waterPiercesAllBarriers = {
   id: "01a06572-95e9-7297-b76c-760c81f78984",

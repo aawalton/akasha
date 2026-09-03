@@ -1,4 +1,4 @@
-import type { WorldItem } from "../../../world-item.page-type.ts"
+import type { WorldItem } from "../../world-item.page-type.ts"
 
 export const vaultOfGloriousSouls = {
   id: "01a0655a-7b80-7ed9-ac15-3940f7bb86af",

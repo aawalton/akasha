@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const waterJet = {
   id: "01a06572-95e9-7aea-b02e-4917d84ed567",

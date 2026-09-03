@@ -1,4 +1,4 @@
-import type { WorldRecipe } from "../../world-recipe.page-type.ts"
+import type { WorldRecipe } from "../world-recipe.page-type.ts"
 
 export const closeToAcidJar = {
   id: "01a0655a-7b80-76b7-8a54-f55724e11b33",

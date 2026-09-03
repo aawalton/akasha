@@ -1,4 +1,4 @@
-import type { WorldMiracle } from "../../../world-miracle.page-type.ts"
+import type { WorldMiracle } from "../../world-miracle.page-type.ts"
 
 export const cursedHands = {
   id: "01a0655a-7b7c-7d86-ae25-5eedaa38ee92",

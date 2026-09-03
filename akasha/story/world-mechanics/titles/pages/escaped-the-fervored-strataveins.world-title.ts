@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.ts"
+import type { WorldTitle } from "../world-title.page-type.ts"
 
 export const escapedTheFervoredStrataveins = {
   id: "01a0655a-7b7c-7f99-8311-1cb487079f75",

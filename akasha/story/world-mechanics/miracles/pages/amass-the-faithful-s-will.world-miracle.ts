@@ -1,4 +1,4 @@
-import type { WorldMiracle } from "../../world-miracle.page-type.ts"
+import type { WorldMiracle } from "../world-miracle.page-type.ts"
 
 export const amassTheFaithfulSWill = {
   id: "01a0655a-7b7b-7bce-9dc4-cec597c138ce",

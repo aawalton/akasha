@@ -1,4 +1,4 @@
-import type { WorldQuest } from "../../world-quest.page-type.ts"
+import type { WorldQuest } from "../world-quest.page-type.ts"
 
 export const royalQuest = {
   id: "01a0655a-0688-73dd-b0d8-acefbdff8e3a",

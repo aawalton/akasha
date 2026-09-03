@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const weakenMuscles = {
   id: "01a06572-95e9-7f62-9ffe-fa9d2554a14d",
