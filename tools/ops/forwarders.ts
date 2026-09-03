@@ -1,5 +1,9 @@
+import type {
+  Command,
+  CommandDocument,
+  CommandModule,
+} from "@akasha/command-system/command-declaring"
 import { commandDocuments } from "./documented.ts"
-import type { Command, CommandDocument, CommandModule } from "./surface.ts"
 
 /**
  * The commands `ops` forwards to a file, each one an `ops-command` page read out of the index.

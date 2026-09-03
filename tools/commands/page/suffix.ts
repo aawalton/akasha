@@ -1,6 +1,7 @@
 export const summary = "Name a page type's files for their page type, and file them by that name"
 
 import { existsSync, readdirSync, readFileSync } from "node:fs"
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { diskFileTree } from "@akasha/markdown-pages/file-tree"
 import {
   ID,
@@ -26,7 +27,6 @@ import { landMoves } from "../../../move/move.ts"
 import { land } from "../../lib/command.ts"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

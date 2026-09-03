@@ -1,5 +1,5 @@
+import type { Command } from "@akasha/command-system/command-declaring"
 import { expandProseRoutes } from "@akasha/command-system/prose-routing"
-import type { Command } from "./surface.ts"
 
 const MAX_NAMED_COMMANDS = 3
 

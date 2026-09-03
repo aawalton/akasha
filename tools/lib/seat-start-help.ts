@@ -1,5 +1,5 @@
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
-import type { CommandHelp } from "../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

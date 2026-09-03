@@ -3,13 +3,13 @@ import type { InputError, UnknownFlag } from "@akasha/errors-core/exit-code"
 import { expandTilde } from "@akasha/utils-fs/expand-tilde"
 import { inputError } from "./exit.ts"
 import "./command-entry.ts"
+import type { CommandHelp, HelpFlag } from "@akasha/command-system/command-declaring"
 import {
   expandProseRoutes,
   normalizeRouteValue,
   planProseRouteReads,
 } from "@akasha/command-system/prose-routing"
 import { suggestClosest } from "@akasha/temper-build-deploy-checks/suggest-closest"
-import type { CommandHelp, HelpFlag } from "../ops/surface.ts"
 
 export interface ParsedArgs {
   string: (name: string) => string | undefined

@@ -1,7 +1,7 @@
+import type { Command } from "@akasha/command-system/command-declaring"
 import { declaredCommands } from "./declared.ts"
 import { commandDocuments } from "./documented.ts"
 import { forwarderCommands } from "./forwarders.ts"
-import type { Command } from "./surface.ts"
 
 export function commandSet(): readonly Command[] {
   const pages = commandDocuments()

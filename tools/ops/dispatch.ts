@@ -1,10 +1,9 @@
-
+import { type Command, HELP_FLAGS, VERSION_FLAG } from "@akasha/command-system/command-declaring"
+import { inputError } from "../lib/exit.ts"
 import type { CodeKit } from "./code.ts"
 import { provenanceLine } from "./code.ts"
 import { renderCommandHelp, renderListing } from "./render.ts"
 import { readSiblingFlagSurfaces, siblingCommandHint } from "./sibling-flag-hint.ts"
-import { HELP_FLAGS, VERSION_FLAG, type Command } from "./surface.ts"
-import { inputError } from "../lib/exit.ts"
 
 export interface Match {
   readonly cmd: Command
@@ -63,7 +62,11 @@ export function extractPrefix(args: readonly string[]): readonly string[] {
   return prefix
 }
 
-export async function dispatch(kit: CodeKit, args: readonly string[], match: Match | null): Promise<void> {
+export async function dispatch(
+  kit: CodeKit,
+  args: readonly string[],
+  match: Match | null
+): Promise<void> {
   if (wantsProvenance(args)) {
     process.stdout.write(`${provenanceLine()}\n`)
     return
@@ -94,7 +97,11 @@ export async function dispatch(kit: CodeKit, args: readonly string[], match: Mat
   )
 }
 
-export async function reportableMessage(kit: CodeKit, err: unknown, match: Match | null): Promise<string> {
+export async function reportableMessage(
+  kit: CodeKit,
+  err: unknown,
+  match: Match | null
+): Promise<string> {
   const message = kit.messageOf(err)
   if (match === null) return message
   const rejected = kit.rejectedFlag(err)

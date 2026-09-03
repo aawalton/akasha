@@ -2,11 +2,11 @@ export const summary =
   "Cycle every seat whose client started before the settings standing now, so a registration change reaches the running fleet"
 
 import { readdirSync, readFileSync, statSync } from "node:fs"
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { operationalError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { seatsPresent } from "../../../lib/seat-roster.ts"
-import type { CommandHelp } from "../../../ops/surface.ts"
 
 const SETTINGS =
   "akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json"

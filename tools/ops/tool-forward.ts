@@ -1,9 +1,9 @@
 import { spawn } from "node:child_process"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import type { CommandDocument, CommandHelp } from "@akasha/command-system/command-declaring"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { operationalError } from "../lib/exit.ts"
-import type { CommandDocument, CommandHelp } from "./surface.ts"
 
 const HELP_TIMEOUT_MS = 10_000
 

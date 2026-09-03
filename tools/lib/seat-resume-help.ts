@@ -1,4 +1,4 @@
-import type { CommandHelp } from "../ops/surface.ts"
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 
 export const help: CommandHelp = {
   positionals: [
@@ -48,7 +48,8 @@ export const help: CommandHelp = {
       argLabel: "<path|->",
       valueShape: "token",
       acceptsStdin: true,
-      description: "Read that first turn from a file, or `-` for stdin (long or multiline payloads)",
+      description:
+        "Read that first turn from a file, or `-` for stdin (long or multiline payloads)",
     },
     {
       name: "--verify",
@@ -62,7 +63,7 @@ export const help: CommandHelp = {
       argLabel: "<duration>",
       valueShape: "token",
       description:
-        "Grace window before the --verify io-advance check (\"30s\", \"1m\"; default 30s; units " +
+        'Grace window before the --verify io-advance check ("30s", "1m"; default 30s; units ' +
         "s, m, h, d). Ignored without --verify.",
     },
     {
@@ -73,8 +74,7 @@ export const help: CommandHelp = {
     { name: "--json", description: "Emit JSON record instead of TSV" },
     {
       name: "--force",
-      description:
-        "Restart the seat even where subagents are working, ending them with it",
+      description: "Restart the seat even where subagents are working, ending them with it",
     },
     {
       name: "--now",
@@ -111,7 +111,8 @@ export const help: CommandHelp = {
     },
     {
       code: 2,
-      meaning: "data error (unknown or ambiguous target, no stable name, or no transcript to resume)",
+      meaning:
+        "data error (unknown or ambiguous target, no stable name, or no transcript to resume)",
     },
     {
       code: 3,

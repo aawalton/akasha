@@ -1,13 +1,10 @@
-export const summary = "Set an activity's default difficulty (upsert by title) — the catalog start/switch/log rate a block from, and what they point at when a title matches nothing"
+export const summary =
+  "Set an activity's default difficulty (upsert by title) — the catalog start/switch/log rate a block from, and what they point at when a title matches nothing"
 
-import type { CommandHelp } from "../../ops/surface.ts"
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import {
-  pagesClient,
-  trackingLevels,
-  trackingResolve,
-} from "../../lib/tracking-capability.ts"
+import { pagesClient, trackingLevels, trackingResolve } from "../../lib/tracking-capability.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -55,9 +52,7 @@ export default async function trackingActivitySet(args: readonly string[]): Prom
   const title = titleRaw.trim()
   const difficultyRaw = parsed.string("--difficulty")
   if (difficultyRaw === undefined || difficultyRaw.trim() === "") {
-    throw inputError(
-      "--difficulty is required (the level a block matching this activity rates at)"
-    )
+    throw inputError("--difficulty is required (the level a block matching this activity rates at)")
   }
   const { parseDifficulty } = await trackingLevels()
   const difficulty = parseDifficulty(difficultyRaw)

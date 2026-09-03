@@ -1,14 +1,15 @@
-export const summary = "Fetch current air quality (default Provo) and report a conservative outdoor-exertion verdict (EPA AQI, keyless source)"
+export const summary =
+  "Fetch current air quality (default Provo) and report a conservative outdoor-exertion verdict (EPA AQI, keyless source)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { inputError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
-import { fetchAirQuality } from "../../lib/daily-tracking/air-quality-fetch.ts"
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import {
   assessOutdoor,
   LOCATION_PRESETS,
   type ResolvedLocation,
 } from "../../lib/daily-tracking/air-quality.ts"
+import { fetchAirQuality } from "../../lib/daily-tracking/air-quality-fetch.ts"
+import { inputError } from "../../lib/exit.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -68,9 +69,7 @@ async function resolveLocation(
   const preset = presets[name]
   if (preset === undefined) {
     const known = Object.keys(presets).join(", ")
-    throw inputError(
-      `unknown --location "${name}" (known presets: ${known}; or use --lat/--lon)`
-    )
+    throw inputError(`unknown --location "${name}" (known presets: ${known}; or use --lat/--lon)`)
   }
   return preset
 }

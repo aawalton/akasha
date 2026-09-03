@@ -1,4 +1,4 @@
-import type { HelpEnvVar, HelpFlag } from "@tools/ops/surface"
+import type { HelpEnvVar, HelpFlag } from "@akasha/command-system/command-declaring"
 
 export const GMAIL_ENV_VARS: readonly HelpEnvVar[] = [
   {

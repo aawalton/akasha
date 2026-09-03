@@ -1,6 +1,6 @@
 import { type Dirent, readdirSync, readFileSync } from "node:fs"
+import type { Command, CommandModule } from "@akasha/command-system/command-declaring"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import type { Command, CommandModule } from "./surface.ts"
 
 const COMMANDS_DIR = "tools/commands"
 const EXT = ".ts"

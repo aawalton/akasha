@@ -1,6 +1,6 @@
 export const summary = "Recompute a day's wisdomWords and intelligenceWords from the git history"
 
-import type { CommandHelp } from "../../ops/surface.ts"
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { getEsoDayStr } from "../../lib/eso-day.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"

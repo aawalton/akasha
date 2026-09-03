@@ -3,11 +3,11 @@ export const summary =
 
 import { readdirSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
+import type { CommandHelp, HelpFlag } from "@akasha/command-system/command-declaring"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { parseArgs } from "@tools/lib/parse-args"
-import type { CommandHelp, HelpFlag } from "../../../../../tools/ops/surface.ts"
 import {
   type AddonStructureFacts,
   scanAddonStructure,

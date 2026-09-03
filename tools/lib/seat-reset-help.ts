@@ -1,4 +1,4 @@
-import type { CommandHelp } from "../ops/surface.ts"
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 
 export const help: CommandHelp = {
   positionals: [

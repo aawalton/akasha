@@ -1,10 +1,11 @@
-export const summary = "Drain your own mailbox: list and take the messages standing in your directory (--peek, --all, --json)"
+export const summary =
+  "Drain your own mailbox: list and take the messages standing in your directory (--peek, --all, --json)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { dataError, inputError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 import { type Message, messagesTo, takeMessage } from "../../lib/message-file.ts"
 import { seatNameForAgent } from "../../lib/messages-agent-tools.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
 import { seatRecord } from "../../lib/seat-facts.ts"
 import { resolveSeatTargetCli } from "../../lib/seat-handle.ts"
 

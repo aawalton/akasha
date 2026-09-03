@@ -2,6 +2,7 @@ export const summary =
   "Every file in the checkout outside `akasha/` that reaches one of Alan's tracking days or session rows around `dayPlaceOf` — by NAMING a day page type and then TAKING a page-store verb, read or write. Both halves are closures, following renames, barrels and package export maps, so a namer one hop away is still a namer and a reacher three hops off the store is still a reacher. The population is derived rather than listed, because a listed tree cannot say what it left out. REFUSES on a finding: while the migration is partly done one day is markdown and the next is akasha, so a reach that decides for itself writes a new day to the old place after that day has moved, and a read that decides for itself answers that a moved day is empty. Refuses where it could not look — no file found, or a folder it could not list, or a file it could not read — because a run that read nothing must not print like a run that found no bypass"
 
 import { resolve } from "node:path"
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { parseArgs } from "@tools/lib/parse-args"
@@ -17,7 +18,6 @@ import {
   readingOf,
   WRITE_VERBS,
 } from "@tools/lib/tracking-funnel"
-import type { CommandHelp } from "@tools/ops/surface"
 import {
   type AuditReading,
   renderAuditReading,

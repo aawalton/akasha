@@ -1,6 +1,6 @@
 export const summary = "Recompute a day's activeCalories from the health samples Alan's watch sent"
 
-import type { CommandHelp } from "../../ops/surface.ts"
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { rollupActiveCaloriesForDay } from "../../lib/daily-tracking/active-calories.ts"
 import { getEsoDayStr } from "../../lib/eso-day.ts"
 import { inputError } from "../../lib/exit.ts"

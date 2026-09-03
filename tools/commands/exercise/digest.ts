@@ -1,6 +1,7 @@
 export const summary =
   "Pre-session coaching digest over pages: equipment, per-movement last/best/target, last session, mobility + trend, constraints (--focus defaults to today's scheduled focus)"
 
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { InputError } from "@akasha/errors-core/exit-code"
 import { chosenIn } from "@akasha/exercise-access/exercise-choosing"
 import { FOCUS_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
@@ -9,7 +10,6 @@ import type { SetLine } from "@akasha/exercise-access/set-history"
 import { targetSaid } from "@akasha/exercise-access/set-target"
 import { trainingDigest } from "@akasha/exercise-access/training-digest"
 import { parseArgs } from "../../lib/parse-args.ts"
-import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

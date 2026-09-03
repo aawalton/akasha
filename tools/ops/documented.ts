@@ -1,10 +1,10 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import type { CommandDocument } from "@akasha/command-system/command-declaring"
 import { everyOfType } from "@akasha/indexes"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
-import type { CommandDocument } from "./surface.ts"
 
 /**
  * The ops commands, read off the akasha pages that hold them.

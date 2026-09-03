@@ -1,6 +1,12 @@
+import type {
+  Command,
+  CommandHelp,
+  HelpEnvVar,
+  HelpExit,
+  HelpPositional,
+} from "@akasha/command-system/command-declaring"
 import { expandProseRoutes } from "@akasha/command-system/prose-routing"
 import { UNCLASSIFIED_EXIT_HELP } from "../lib/exit.ts"
-import type { Command, CommandHelp, HelpEnvVar, HelpExit, HelpPositional } from "./surface.ts"
 
 export function renderListing(prefix: readonly string[], commands: readonly Command[]): string {
   const header =

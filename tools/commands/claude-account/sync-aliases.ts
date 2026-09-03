@@ -1,8 +1,11 @@
+export const summary =
+  "Rebuild the local account-alias snapshot from the account pages (drift repair / fresh-workstation materialize)"
 
-export const summary = "Rebuild the local account-alias snapshot from the account pages (drift repair / fresh-workstation materialize)"
-
-import type { CommandHelp } from "../../ops/surface.ts"
-import { ACCOUNT_ALIAS_SNAPSHOT_PATH, syncAliasSnapshotFromPages } from "../../lib/alias-snapshot.ts"
+import type { CommandHelp } from "@akasha/command-system/command-declaring"
+import {
+  ACCOUNT_ALIAS_SNAPSHOT_PATH,
+  syncAliasSnapshotFromPages,
+} from "../../lib/alias-snapshot.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 
 export const help: CommandHelp = {
