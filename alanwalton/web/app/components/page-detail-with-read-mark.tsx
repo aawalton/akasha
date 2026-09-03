@@ -1,8 +1,8 @@
 "use client"
 
+import { useMarkNotificationReadOnView } from "@akasha/alanwalton-web/use-mark-notification-read"
 import { PageDetailContent } from "@akasha/pages-ui-components/page-detail-content"
 import type { ComponentProps } from "react"
-import { useMarkNotificationReadOnView } from "~/hooks/use-mark-notification-read"
 import { useMarkReadOnEnd } from "~/hooks/use-mark-read-on-end"
 
 type Props = Omit<ComponentProps<typeof PageDetailContent>, "onReadToEnd">
