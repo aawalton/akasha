@@ -1,7 +1,10 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { SyncRuns } from "./properties/sync-runs.page-property-entry.ts"
 
-export type Sync = Page
+export type Sync = Page & {
+  syncRuns: SyncRuns
+}
 
 export const sync = {
   id: "01a06835-e289-7ad6-8588-3a59938a1140",
@@ -10,6 +13,20 @@ export const sync = {
   definition: "one outside place this system pulls from, and how each pull went",
   pluralSlug: "syncs",
   extendsSlug: "page-type/page",
+  partSlugs: [
+    "page-property-entry/sync-runs",
+    "instant-property/run-started-at",
+    "instant-property/run-completed-at",
+    "number-property/created-count",
+    "number-property/duration-ms",
+    "number-property/failed-count",
+    "number-property/run-seq",
+    "number-property/skipped-count",
+    "number-property/updated-count",
+    "select-property/run-status",
+    "text-property/run-error-message",
+  ],
+  properties: [{ pagePropertySlug: "sync-runs", required: true, many: true, max: null }],
   invariants: [
     {
       invariantKind: "departure",
