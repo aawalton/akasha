@@ -1,9 +1,9 @@
-import { retryTransientDdl } from "@akasha/cluster-manifests/retry-transient-ddl"
 import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import {
   CNPG_POSTGRES_PRIMARY_LABELS,
   colocationAffinityPreferred,
 } from "@akasha/k8s-types/hostnames"
+import { retryTransientDdl } from "@akasha/workflow-language/retry-transient-ddl"
 
 const NAMESPACE = "supabase-studio"
 const APP_NAME = "supabase-studio"

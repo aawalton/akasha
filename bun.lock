@@ -582,6 +582,10 @@
       "dependencies": {
         "@akasha/agents": "workspace:*",
         "@akasha/analysis-complexity": "workspace:*",
+        "@akasha/inference-clients": "workspace:*",
+        "@akasha/inference-runs": "workspace:*",
+        "@akasha/wan": "workspace:*",
+        "@akasha/zimage": "workspace:*",
         "@tools/lib": "workspace:*",
         "typescript": "5.9.3",
       },
@@ -1098,6 +1102,7 @@
         "@akasha/comfy": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "akasha/infrastructure/zimage": {
@@ -1381,6 +1386,7 @@
         "@akasha/k8s-types": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
+        "@akasha/workflow-language": "workspace:*",
         "@tools/lib": "workspace:*",
         "cdk8s": "^2.70.60",
         "zod": "^4.3.6",
