@@ -11,6 +11,7 @@ export const codeEditor = {
     "page-type/code-editor-window",
     "page-type/code-editor-group",
     "page-type/code-editor-terminal",
+    "repo/code-editor-repo",
   ],
   invariants: [
     {
