@@ -32,8 +32,8 @@ if [[ "${2:-}" == "--force" ]]; then
 fi
 
 CLOUDFLARED_DIR="${CLOUDFLARED_DIR:-${HOME}/.cloudflared}"
-SOPS_SECRET="${CLUSTER_DIR}/k8s/src/cloudflared/cloudflared.k8s-secret.sops.yaml"
-TUNNEL_CONFIG="${CLUSTER_DIR}/k8s/src/cloudflared/config-header.yaml"
+SOPS_SECRET="${AKASHA_ROOT}/akasha/service-system/cluster-services/pages/cloudflared/cloudflared.k8s-secret.sops.yaml"
+TUNNEL_CONFIG="${AKASHA_ROOT}/akasha/service-system/cluster-services/pages/cloudflared/config-header.yaml"
 
 if ! command -v cloudflared &>/dev/null; then
   die "cloudflared not found — install from https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/"
@@ -108,6 +108,6 @@ ok "  Tunnel '${TUNNEL_NAME}' (${tunnel_id}) bootstrapped!"
 ok "================================================================"
 echo ""
 log "Next steps:"
-echo "  1. Review changes:  git diff infra/k8s/src/cloudflared/"
-echo "  2. Commit:          git add infra/k8s/src/cloudflared/ && git commit -m 'Bootstrap cloudflared tunnel'"
+echo "  1. Review changes:  git diff akasha/service-system/cluster-services/pages/cloudflared/"
+echo "  2. Commit:          git add akasha/service-system/cluster-services/pages/cloudflared/ && git commit -m 'Bootstrap cloudflared tunnel'"
 echo "  3. Push:            git push (CI will apply secret + configmap + sync DNS)"

@@ -3,7 +3,7 @@ import {
   NAMESPACE,
   podLabels,
   resourceLabels,
-} from "@akasha/cluster-manifests/ci-storage-scripts-synth"
+} from "@akasha/cluster-manifests/ci-storage-scripts"
 import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
 

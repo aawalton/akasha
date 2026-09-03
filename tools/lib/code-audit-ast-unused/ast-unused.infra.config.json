@@ -46,16 +46,6 @@
         "**/*.ts"
       ]
     },
-    "infra/k8s": {
-      "entry": [
-        "lib/**/*.ts",
-        "**/synth.ts",
-        "**/synth-*.ts"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "infra/k8s-synth": {
       "entry": [
         "**/*.test.{ts,tsx}",
@@ -65,7 +55,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/infrastructure/loki-service": {
+    "infra/loki-service": {
       "entry": [],
       "project": [
         "**/*.ts"
@@ -84,7 +74,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/infrastructure/seaweedfs": {
+    "infra/seaweedfs": {
       "entry": [
         "src/tunnel-routes.ts"
       ],

@@ -1,6 +1,6 @@
 import type { NamespaceProfile } from "@akasha/workflow-language/rbac-types"
 
-export const packageName = "@infra/k8s"
+export const packageName = "@akasha/cluster-manifests"
 
 export const profiles: NamespaceProfile[] = [
   {

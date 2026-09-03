@@ -4,7 +4,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
-. "${AKASHA_ROOT}/infra/k8s/src/registry/registry.conf"
+. "${AKASHA_ROOT}/akasha/service-system/cluster-services/pages/registry/registry.conf"
 
 LOCAL_REGISTRY="${CONTAINER_REGISTRY}"
 

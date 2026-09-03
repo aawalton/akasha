@@ -11,7 +11,7 @@
     "playwright-core": "1.61.1"
   },
   "dependencies": {
-    "@infra/k8s": "workspace:*",
+    "@akasha/cluster-manifests": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",

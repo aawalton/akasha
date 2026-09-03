@@ -12,7 +12,7 @@ export const clusterManifests = {
     "module/cgroup-psi-collector",
     "module/cgroup-psi-constants",
     "module/ci-storage-prune-script",
-    "module/ci-storage-scripts-synth",
+    "module/ci-storage-scripts",
     "module/cloudnative-pg-synth",
     "module/cnpg-cluster",
     "module/cnpg-object-store",

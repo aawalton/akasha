@@ -2,11 +2,14 @@
 
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { discoverTunnelRoutes } from "@infra/k8s/cloudflared/discover-routes"
-import type { TunnelRoute } from "@infra/k8s/cloudflared/types"
+import type { TunnelRoute } from "@akasha/cluster-manifests/tunnel-route"
+import { discoverTunnelRoutes } from "@akasha/cluster-manifests/tunnel-route-discovery"
 
 const REPO_ROOT = join(import.meta.dirname, "../../../..")
-const HEADER_PATH = join(REPO_ROOT, "infra/k8s/src/cloudflared/config-header.yaml")
+const HEADER_PATH = join(
+  REPO_ROOT,
+  "akasha/service-system/cluster-services/pages/cloudflared/config-header.yaml"
+)
 
 const LABELS = {
   "app.kubernetes.io/name": "cloudflared",
