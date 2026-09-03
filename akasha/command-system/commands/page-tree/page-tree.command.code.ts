@@ -84,14 +84,35 @@ function propertyKindsIn(types: ReadonlyMap<string, Value>): ReadonlySet<string>
   return found
 }
 
-// A PROPERTY'S NAME, bare where one page carries the slug and `kind/slug` where two do. This is
-// the rule akasha writes `pagePropertySlug` by — the one ambiguous slug in this corpus is written
-// qualified in every declaration naming it — so reading and writing follow the same rule, and a
-// name resolves to the page it was written for rather than to whichever kind was read first.
+// A PROPERTY'S NAME AS THIS TREE WRITES IT, bare where one page carries the slug and `kind/slug`
+// where two do, so the tree shows the shorter name wherever the shorter name is unambiguous. This
+// says how a property is named here and not which names reach it — `reachOver` says that.
 function namingOver(held: readonly Held[]): (kind: string, slug: string) => string {
   const carried = new Map<string, number>()
   for (const one of held) carried.set(one.slug, (carried.get(one.slug) ?? 0) + 1)
   return (kind, slug) => ((carried.get(slug) ?? 0) > 1 ? `${kind}/${slug}` : slug)
+}
+
+// EITHER NAME REACHES A PROPERTY, the bare slug or `kind/slug`, which is the grammar `reaches`
+// already holds every other relation value to. What broke here was keying what is accepted off
+// how many pages carry the slug today: a declaration is written qualified while the slug is
+// doubled, and a later landing that drops the double leaves that name written and still correct.
+// So every landing that de-duplicated a property slug made each declaration naming it a refusal
+// here, and the count grew with the cleanup rather than with any bad declaration. A qualified
+// name that narrows to two pages is refused rather than resolved to one of them.
+function reachOver(held: readonly Held[]): (named: string) => Held | undefined {
+  const byBare = new Map<string, Held>()
+  for (const one of held) if (!byBare.has(one.slug)) byBare.set(one.slug, one)
+  const byQualified = new Map<string, Held[]>()
+  for (const one of held) {
+    const at = `${one.kind}/${one.slug}`
+    byQualified.set(at, [...(byQualified.get(at) ?? []), one])
+  }
+  return (named) => {
+    const found = byQualified.get(named)
+    if (found !== undefined) return found.length === 1 ? found[0] : undefined
+    return byBare.get(named)
+  }
 }
 
 function baseOf(kind: string): string {
@@ -144,11 +165,7 @@ export function answersFrom(
     }
   }
   const naming = namingOver(held)
-  const byName = new Map(held.map((one) => [naming(one.kind, one.slug), one]))
-  const byBare = new Map<string, Held>()
-  for (const one of held) if (!byBare.has(one.slug)) byBare.set(one.slug, one)
-
-  const reach = (named: string): Held | undefined => byName.get(named) ?? byBare.get(named)
+  const reach = reachOver(held)
 
   const types: Row[] = []
   for (const one of pageTypes) {
