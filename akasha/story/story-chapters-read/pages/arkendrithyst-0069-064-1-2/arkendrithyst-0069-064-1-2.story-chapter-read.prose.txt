@@ -1,0 +1,248 @@
+Alone in the classroom, Erick dismissed all of the blackboards except his own; it was the only one with notes on it. With a few sheets of actual paper, he recorded what he had written down, and then dismissed that final blackboard, too. And then he bought a lot of spells; 11 points worth, out of his remaining 14.
+
+Force Crash 1, instant, long range, 50 MP
+
+Rain small destruction in a medium area, dealing 10 + WIL damage per crash. Lasts 1 second. 5 crashes.
+
+Exp: 0/100
+
+Force Bomb 1, instant, long range, 25 MP
+
+Launch a quick ball of mana that explodes on contact in a medium area for 25 + WIL damage.
+
+Exp: 0/100
+
+Force Wave 1, instant, close range, 15 MP
+
+A pulse of rolling mana deals 10 + ½ WIL to all around you.
+
+Exp: 0/100
+
+Force Wall 1, instant, medium range, 25 MP
+
+Create a stable, stationary wall of hardened mana. Absorbs 500 damage before breaking. Lasts 10 minutes per level.
+
+Exp: 0/100
+
+Force Platform 1, instant, close range, 25 MP
+
+Create a mobile, hovering platform of hardened mana that moves with you. Absorbs 100 damage before breaking. Lasts 10 minutes per level.
+
+Exp: 0/100
+
+Prestidigitation 1, instant, close range, 10 MP + 1 MP per effect
+
+Create minor magical effects that last for 5 minutes per spell level. Prestidigitation lasts 1 hour.
+
+Exp: 0/100
+
+Detect Magic 1, instant, medium range, 10 MP
+
+Detect ongoing magical effects.
+
+Exp: 0/100
+
+Identify 1, 1 minute cast time, touch, 50 MP
+
+Discover the properties of an object.
+
+Exp: 0/100
+
+Find Target 1, concentration, close range, 5 MP + 5 MP per meter searched
+
+Find a target.
+
+Exp: 0/100
+
+Interception 1, instant, close range, 5MP + 5MP per 10 meters moved
+
+Instantly move to intercept an attack meant for another. Lasts 1 minute or until used.
+
+Exp: 0/100
+
+Rebound 1, Variable MP
+
+A spell bounces.
+
+Exp: 0/100
+
+There were still several spells left to buy or acquire, namely: [Fabricate], [Control Item], [Envelop Item], [Adjust Scent], [Husbandry], [Alter Size], [Alter Friction], and [Polymorph]. The last one came from a potion; not points. Jane had bought her potion from the Mage Trio. Erick would have to see them about getting one of those for himself, but he had a lot of skills to level, and not a whole lot of time to get it done. Maia had said that Erick was expected ‘whenever he arrived’, but Erick wanted to be there, at Oceanside, within the week. Which meant not only would he have to level all of this magic, but he would also need to find the [Teleport] path to the arcanaeum. That path apparently went over the Letri Ocean; the ocean that spanned the whole equator south of the continental Glaquin.
+
+Looking over his new spells, the damaging ones looked… not very important. What was much more interesting were the utility ones. [Force Platform] and his [Stone Travel] he made the other day looked like they could mark the beginning of a flying castle, or at least a flying platform large enough to carry a lot of people.
+
+Oh! Add in [Teleport] and he’d have a [Teleporting Platform], maybe. That’d be cool.
+
+And what the heck did [Rebound] do? All the really nifty HP abilities had tiny texts, exactly like [Rebound]. Jane’s [Greater Shadowalk] was just ‘You are the everlasting night’. [Hunter’s Instincts] was just ‘You are the predator’.
+
+Could [Rebound] bounce spells off of him? Like, could someone shoot a spell at him, and he’d bounce it back? Or would that be [Reflection]? [Reflection] came from [Ward], somehow, but it was probably related to [Rebound].
+
+And what about [Find Target]! It was just ‘Find a target’, but that mana cost was huge. Erick recalled that [Find Target] was a component of [Scan], and [Scan] scanned over 10 km, if Erick recalled correctly, so that definitely explained why [Scan] cost 5000 mana a pop.
+
+Speaking of 5000 mana a pop. Erick brought up the Kill and Exterminate Quest. It had changed, slightly.
+
+Atunir has identified a global danger to Veird!
+
+Kill and Exterminate!
+
+Denutha Odaari of the Halls of the Dead,
+
+and their creation:
+
+the monstrous Daydropper Vine.
+
+Fully grown, the Daydropper transforms living air into dead air at an unprecedented rate.
+
+Reward: 10 ability points, to each of the 1000 people who most contribute to completion of this Quest!
+
+Adjustment to Divine Scan: Burn daydropper seeds within your area.
+
+Erick ignored the adjustment, for a second, because Denutha’s name was still on there, and that sight made him frown. A lethargy took hold in his chest, like a denial of hope. He did not envy the people deciding on Denutha’s fate. From what Yetta had said, and the fact that Denutha turned herself in, knowing they would kill her, just so she could tell her side of the story, Erick had a hard time believing that she knowingly and willingly worked with the Halls of the Dead in order to create a genocide-plant.
+
+Erick sighed, then mentally pressed on the quest, trying to trigger the [Scan].
+
+The blue box vanished. A brilliant orb of yellow light appeared. That was different.
+
+The orb pulsed, and Erick winced. This was really different. A ring of yellow light appeared around the orb, then settled horizontally around the sphere. The orb pulsed again, forming another ring, below the first. Erick took a step back as a third pulse created a third ring, above the other two.
+
+“Okaaaaay—”
+
+Erick eep’d as the world flashed yellow. Light tore from the orb, ripping through the room and into the beyond, unaffected by walls or ground, expanding, expanding. Erick raced to the window. He watched as yellow light washed across the sky, looking green along the edges; the wave was already past the city walls. As Erick watched, the glow vanished completely, likely traveling well beyond the horizon.
+
+Poi appeared at the door to the classroom, asking, “Sir!”
+
+“It’s the Kill and Exterminate Quest!” Erick said, “I just chose the second option!”
+
+Tendrils of thought flew around Poi’s head.
+
+Erick continued, “I didn’t know it was going to do that.”
+
+Erick could only see the yellow returning to him through the sky, out of the corner of his eyes, before it washed through him, turning everything bright, bright yellow, for one radiant moment.
+
+A blue box appeared.
+
+Scan complete.
+
+No Relevant Targets within 5000 kilometers
+
+No Daydropper Vines within 5000 kilometers
+
+Burned 3809 seeds and 0 adult plants.
+
+Please supply 5000 mana or wait 24 hours if you wish to scan again.
+
+“It scanned 5000 kilometers.” Erick said, “And burned 3809 seeds.”
+
+Poi frowned, saying, “Silverite is aware. She—”
+
+Silverite’s voice came to Erick, full of sarcasm, ‘Thank you for this sudden crisis.’
+
+‘Burned 3809 seeds,’ Erick instantly replied, hoping to head off whatever steam Silverite was building up.
+
+There was a long pause.
+
+‘… Just… warn me, next time.’
+
+‘I had no idea it was going to do that!’
+
+‘… It usually only does that for a Champion.’ Silverite sighed, ‘Or the leads in the Quest. Which is you, I suppose, so that makes perfect sense. I honestly should have expected this and been prepared, or at least prepared you. Talk to you later.’
+
+She cut the connection.
+
+Erick looked to Poi, and said, “I guess I’m a lead in the Quest.”
+
+Poi lost his frown. “I guess so.”
+
+Erick clapped his hands together. “Let’s go cast some magic!”
+
+Ophiel clapped his wings together, mimicking Erick.
+
+Poi did not sigh, but his look was one of those long-suffering sort he got every so often.
+
+- - - -
+
+Crystal Mimics raced away, across the ground, their blue-white crystalline arms churning sand and stone as the horizon turned to fire, to Force, to Decay. Explosions rocked the land, pulsing light and thunder across a tiny part of the world, and the mimics ran.
+
+An archmage hovered in the sky, leveling his skills. A pointed finger carved a tiny explosion against a stone pillar one second, and a massive, all consuming fireball the next, completely obliterating the stone target. Force rolled out from the archmage’s flying form like a ripple expanding; horizontal one cast, vertical the next, half the size the next time, and four times as large the next, but super thin, like a ring of dilating laser light.
+
+He hung walls of Force in the sky, then blasted them apart with crashing rains of fire, and of light. Rains of force flew sideways, or upside down, or at 45 degree angles, or condensed down to a small area where a dozen bolts of force, summoned over the course of one second, blasted the same space with destruction. Mostly those crashes just flew off into the Crystal Forest, or dissipated into the sky, but sometimes they hit the ground, throwing up huge plumes of sand and stone. Thunder rocked the land, as spell after spell crashed and blasted.
+
+Fires burned on the ground, and then became whirlwinds of flame under his gentle touch, while shadows and light flickered and flashed. The touch of magic was small at first, but quickly turned from motes of change, to tendrils, to rushes meters wide. The world flashed dark around the archmage, then bright, then became a dual play of shadow and light.
+
+The archmage smiled the whole time, happy to see the light show, like this was the Fourth of July and he was the fireworks. He purposefully picked an area with as few agave as possible, but that just meant it was full of mimics. The archmage took no such measures to avoid hitting the mimics; most of those kind had taken the hint and run away, when they realized they couldn’t attack the flying target.
+
+The archmage methodically emptied his mana into the sky, or against targets, or against nothing in particular, getting a feel for the magic he had acquired.
+
+By the time he was done, the land was a melted, burned, charred thing. Seeing what he had done, and done with his magic, for now, the archmage went over the ground with [Stoneshape], turning it back into sand. The archmage had cast magic into the air for hours, and he was done, for now.
+
+The archmage extended a hand to his sapphire guard, who had watched the whole thing from within the safety of a crystallized sphere of air. Hand in hand, the archmage and the guard vanished in a blip of white.
+
+Brown worms peeked up from the sand, to begin remaking their burrows
+
+- - - -
+
+Almost everyone went their own way for dinner, or in Teressa and Rats’ case, breakfast, but Erick had gotten enough sandwiches from ‘Meat! Bread! Cheese!’ for them all. He put the extras in the cold box, and sat down at the kitchen table to eat with Jane and Kiri.
+
+He pulled out three boxes and handed them over, saying, “So I leveled these to 10, along with most of the rest. These changed a lot, but the rest didn’t.”
+
+Force Crash X, instant, long range, 100 MP
+
+Rain small destruction in a medium area, dealing 15 + WIL damage per crash. Lasts 1 second. 15 crashes.
+
+Force Bomb X, instant, long range, 50 MP
+
+Launch a quick ball of mana that explodes on contact in a medium area for 50 + 2x WIL damage.
+
+Force Wave X, instant, medium range, 25 MP
+
+A pulse of rolling mana deals 10 + WIL to all around you.
+
+Jane took a bite of her sandwich, reading over the boxes, and looking into the air.
+
+Kiri said, “What are you going to make with them?”
+
+Jane’s eyes went wide as she read, saying, “[Force Crash] is so much freaking better than bomb!”
+
+Kiri shook her head, saying, “No it’s not. It’s a stylistic choice.”
+
+Jane paused. “What am I missing here? 50 Willpower means… Ah? [Force Crash] is really random?”
+
+“Yes.” Kiri said, “To make it work as well as it can, you’d need to apply mana shaping every time, which massively increases the cost. And even then, it’s not that much better. You’d go from 2 out of every 5 blasts hitting a small size target, to 4 out of every 5.”
+
+Erick said, “That’s not a problem. I have Sculpt Spell and that’s basically a hundred free mana every cast.”
+
+Kiri added, “Don’t forget: HP is a shield. The bodies of many monsters are basically immune to the smaller spells, and that includes [Force Crash]. For the vast majority of those fights with those wyrms, they were at 0 HP.”
+
+Erick nodded, saying, “I wondered about that.”
+
+Kiri continued, “[Force Crash] is great for knocking out a lot of that Health shield, but to actually do damage against a wyrm? Your [Crystalline Air] ripping through their body was much more effective than hundreds of [Force Bolt]s, for example. Lightning was also pretty good. Physical objects or high-powered spells do a lot more than a hundred tiny taps.”
+
+Jane ate a fry, nodding.
+
+Kiri added, “Those firebolts that those hunters used? I’m 95 percent sure those were also shaped from some combination of [Force Bomb] and Mana Altering to Fire, but instead of exploding outward, all that destructive force was condensed to a single strike.” She held a fry in her talons, saying, “It’s really a stylistic choice for which one you prefer. Though Bomb is one strike, and Crash is, like, 8. For me, anyway. Crash’s cost expands very, very fast, too.” She asked, “How many crashes were you able to make strike a single target?”
+
+“Eleven.” Erick said, “They start shooting wide near the end.”
+
+Kiri smirked, saying, “That’s pretty good.”
+
+“I’m going to try to get ‘unerring’ on it,” Erick said.
+
+Kiri nodded. “[Force Bolt Crash]. Though getting ‘unerring’ onto any spell beyond the basic [Force Bolt] is quite diffi—” She amended, “Usually quite difficult. You did manage to get ‘unerring’ on [Pure Force Beam Bolt], and [Ice Spike], after all. But just like the firebolts from those hunters, once you get enough power behind the spell, ‘unerring’ doesn’t do much besides basic course correction.”
+
+Erick looked up [Force Bolt Crash].
+
+Force Bolt Crash X, instant, long range, 500 MP
+
+Rain unerring small destruction, dealing 15 + WIL damage per crash. Lasts 1 second. 15 crashes.
+
+Jane asked, “Show me?”
+
+Erick plucked the box from the air and handed it to Jane.
+
+Kiri said, “It’s around a thousand damage but it takes a second to happen, you can roll out of the way of a lot of it, if you time it correctly, and 500 mana is not a cheap spell.”
+
+Jane dismissed the spell, asking, “Is this how you get to [Comet Swarm]?”
+
+Kiri said, “Adding ‘Unerring’ makes that recipe much too expensive, and [Comet Swarm] is… tier 8? Yes. Tier 8.” She said, “I’m guessing, but [Stoneshape] and [Teleport] are in there, for sure.” She amended, “Sorry. Not [Teleport]; [Teleport Object]. [Comet Swarm] falls down from above the clouds. It’s super long range. At least that’s what the books say.”
+
+“What about the ‘Generate new effects’, from Mana Altering?” Erick asked. “Instead of trying for [Stoneshape].”
+
