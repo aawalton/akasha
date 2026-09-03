@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theFitnessFamilyIsNotACollectionFamily = {
+  id: "01a0683c-6004-7a82-857d-de5840717392",
+  pageTypeSlug: "finding",
+  slug: "the-fitness-family-is-not-a-collection-family",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    '`exercise` reads `extendsSlug: "page-type/page"` because it is not a collection, rather than because the collection-type withdrawal passed it by. It was never one of the 32 collection-type pages that withdrawal took, and none of its 884 pages carries a collection field. Extending `collection` would typecheck, since all 13 of its properties are optional, so the only thing against it is merit.',
+  evidence:
+    'Read 2026-09-03. `akasha/alan/fitness/exercises/exercise.page-type.ts` extends `page-type/page`. The backup at `/var/home/walton/repos/akasha-backup-2026-09-02/pages/page-type/exercise.page-type.md` reads `extends-slug: page`, so akasha carries the old system faithfully rather than having missed a step.\n\nThe withdrawn family in the backup has 55 entries, 32 of them `.md` page types, and none matches `exerc|fitness|workout|movement`. The 22 akasha page types now reading `extendsSlug: "page-type/collection"` are books, courses, music, restaurants, stories, games and recipes. A collection is defined as "something for a person to experience", and an exercise is a catalogue entry for a movement rather than a thing worked through. What Alan works through is a `workout-session` or a `set-log`.\n\nOver the 884 files under `akasha/alan/fitness/exercises/pages/`, a search for any of the 13 collection keys (status, rank, position, partOfSlugs, ownLength, ownProgress, following, unitSlug, tags, author, description, completedAt, publishedAt) returns 0, while the control key `exerciseCategory` returns 884, so the instrument sees the tree and the zero is real.\n\nThe cost of extending it anyway is not a type error. `kindsUnder` in `akasha/pages-system/page-types/descent/page-type-descent.module.code.ts` computes descent from `extendsSlug` alone, so every later caller asking for collections would take 884 movements with it, and `part-of-slugs` targets `page-type/collection`, which would make an exercise a legal member of a reading list. Three collection invariants would then read falsely over exercises, among them that a collection\'s own length is counted in the unit it names.',
+} as const satisfies Finding
