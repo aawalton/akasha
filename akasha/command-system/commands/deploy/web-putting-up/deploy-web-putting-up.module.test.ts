@@ -63,7 +63,13 @@ test("a commit origin main does not carry is refused rather than pushed there", 
     const answer = await putUpWebApp("one-web", given(world.root), true)
     expect(answer.code).toBe(OPERATIONAL)
     expect(answer.refusals[0]).toContain(sha)
-    expect(answer.refusals[0]).toContain(`git push origin ${sha}:main`)
+    // MIGRATION ONLY, added 2026-09-03. This read
+    // `expect(answer.refusals[0]).toContain(\`git push origin ${sha}:main\`)`, which held the
+    // refusal to handing out the push akasha-migration constraint 16 forbids. Put it back and
+    // delete these three when the migration is done.
+    expect(answer.refusals[0]).not.toContain(`git push origin ${sha}:main`)
+    expect(answer.refusals[0]).toContain("akasha migration forbids pushing to the remote")
+    expect(answer.refusals[0]).toContain("nothing to work around")
   } finally {
     rmSync(origin, { recursive: true, force: true })
     world.sweep()

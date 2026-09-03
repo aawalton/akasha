@@ -74,7 +74,11 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
     return {
       report,
       refusals: [
-        `origin main does not carry ${sha}, and a pod serves what origin carries, so run \`git push origin ${sha}:main\` and deploy again`,
+        // MIGRATION ONLY, added 2026-09-03. This remedy used to read
+        // "so run `git push origin ${sha}:main` and deploy again", and an agent followed it:
+        // five rounds of push-then-deploy carried 5,848 commits to origin against
+        // akasha-migration constraint 16. Put the old remedy back when the migration is done.
+        `origin main does not carry ${sha}, and a pod serves what origin carries, so this web app cannot be put up. The akasha migration forbids pushing to the remote — its sixteenth constraint is that commits stay local — so the push that would close this gap is refused too. Nothing is broken and there is nothing to work around: report the deploy you could not make and carry on.`,
       ],
       code: OPERATIONAL,
     }

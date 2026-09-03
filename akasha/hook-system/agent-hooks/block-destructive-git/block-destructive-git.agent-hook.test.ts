@@ -82,12 +82,50 @@ test("an amend refusal names the command that lands another commit", () => {
   )
 })
 
-test("every forced form of push is refused, and a plain push is not", () => {
+test("every forced form of push is refused, and says what it would overwrite", () => {
   for (const flag of ["--force", "-f", "--force-with-lease", "--force-if-includes"]) {
-    expect(refusalIn(`git push ${flag} origin main`)).not.toBeNull()
+    expect(refusalIn(`git push ${flag} origin main`)).toContain("overwrites commits on a branch")
   }
-  expect(refusalIn("git push --force-with-lease=main:abc123 origin main")).not.toBeNull()
-  expect(refusalIn("git push origin main")).toBeNull()
+  expect(refusalIn("git push --force-with-lease=main:abc123 origin main")).toContain(
+    "overwrites commits on a branch"
+  )
+})
+
+// MIGRATION ONLY, added 2026-09-03. The four tests below replace one assertion that read
+// `expect(refusalIn("git push origin main")).toBeNull()`. Put that assertion back and delete
+// these four when the akasha migration is done, together with PUSHED_IN_MIGRATION.
+test("a plain push is refused while the migration runs", () => {
+  expect(refusalIn("git push")).not.toBeNull()
+  expect(refusalIn("git push origin main")).not.toBeNull()
+})
+
+test("the push the deploy refusal used to name is refused", () => {
+  expect(refusalIn("git push origin 234aaeaf35:main")).not.toBeNull()
+})
+
+test("a push refusal names the constraint and says to do nothing instead", () => {
+  const said = refusalIn("git push origin main") ?? ""
+  expect(said).toContain("while the akasha migration runs")
+  expect(said).toContain("Commits stay local for this migration. Do not push to the remote.")
+  expect(said).toContain("DO NOTHING INSTEAD")
+  expect(said).toContain("already durable")
+  expect(said).toContain("A route around a hook is still a broken constraint.")
+})
+
+test("a plain push is refused for the migration rather than for forcing", () => {
+  const plain = refusalIn("git push origin main")
+  expect(plain).not.toBeNull()
+  expect(plain).not.toContain("overwrites commits on a branch")
+  expect(refusalIn("git push --force origin main")).not.toContain("akasha migration runs")
+})
+
+// `gp` is the third route into the remote and this hook does NOT reach it: a hook is given the
+// words of the tool call, and `gp` carries no `git`, so `gitCallsIn` reads no call out of it.
+// This holds the gap open so nobody reads the widening above as covering it. Green before the
+// widening and after it, on purpose. What closes `gp` is `terminal-bash`.
+test("gp is out of this hook's reach, whatever it refuses about push", () => {
+  expect(refusalIn("gp")).toBeNull()
+  expect(refusalIn("gp origin main")).toBeNull()
 })
 
 test("a forced branch delete is refused, and a plain one is not", () => {
@@ -195,6 +233,17 @@ test("the scope says what it does not reach, and refuses to be extended", () => 
   expect(said).toContain("a longer list is a longer search prompt")
   expect(said).toContain("git worktree remove --force")
   expect(said).toContain("git checkout-index")
+})
+
+// MIGRATION ONLY, added 2026-09-03. Goes with the MIGRATION block in SCOPE.
+test("the scope says the push widening is the migration's, how to undo it, and what it misses", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("MIGRATION, ADDED 2026-09-03")
+  expect(said).toContain("Commits stay local for this migration. Do not push to the remote.")
+  expect(said).toContain("TO UNDO:")
+  expect(said).toContain("WHAT THE WIDENING DOES NOT REACH")
+  expect(said).toContain("`gp`")
+  expect(said).toContain("handOffPush")
 })
 
 test("the scope names the overlap with the other hook rather than hiding it", () => {

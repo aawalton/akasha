@@ -98,17 +98,51 @@ const AMENDED = [
 
 const FORCED = ["`git push --force` overwrites commits on a branch other agents push to.", ...NONE]
 
+// MIGRATION ONLY, added 2026-09-03. Deleted with the `push` line in `refusalFor` that answers
+// it, the MIGRATION block in SCOPE, and the tests naming it, when the akasha migration is done.
+const PUSHED_IN_MIGRATION = [
+  "`git push` is refused in every form while the akasha migration runs.",
+  "The akasha-migration initiative's sixteenth constraint reads:",
+  "  Commits stay local for this migration. Do not push to the remote.",
+  "DO NOTHING INSTEAD. Nothing is broken and nothing is owed. Your commit is already durable",
+  "in this checkout, which is both the working copy and the master copy of the database.",
+  "The remote is a stale second copy and needs nothing from you.",
+  "There is no other route worth looking for, and looking for one is the failure this refuses:",
+  "another remote, another branch, a refspec, `--dry-run` — every one of them is this same act",
+  "and every one is refused here. A route around a hook is still a broken constraint.",
+  "If `akasha deploy` sent you here, the deploy is what cannot happen, not the push. A pod",
+  "serves what origin carries, so web app deploys wait until the migration is done. That cost",
+  "is known and accepted rather than an oversight. Report the deploy you could not make.",
+]
+
 const DELETED = [
   "`git branch --delete --force` deletes a branch whose commits may be reachable from nowhere else.",
   ...NONE,
 ]
 
 export const SCOPE: readonly string[] = [
-  `${HOOK} refuses seven git acts, and three flagged forms of three more.`,
+  `${HOOK} refuses eight git acts, and two flagged forms of two more.`,
   "  stash reset rebase checkout restore clean rm",
+  "  push, in every form, while the akasha migration runs — see MIGRATION below",
   "  commit --amend",
   "  push --force / -f / --force-with-lease / --force-if-includes",
   "  branch -D / branch --delete --force",
+  "",
+  "MIGRATION, ADDED 2026-09-03, TAKEN OUT WHEN THE AKASHA MIGRATION IS DONE:",
+  "Every `push` is refused, not only a forced one. The akasha-migration initiative's sixteenth",
+  "constraint reads `Commits stay local for this migration. Do not push to the remote.`, and",
+  "two pushes on 2026-09-03 carried 5,848 commits of migration work to origin.",
+  "This is not the denylist below extended to close a gap someone found in it. It is one act",
+  "already named here widened, for a bound outside this hook, and it goes when that bound goes.",
+  "TO UNDO: delete PUSHED_IN_MIGRATION, the line in `refusalFor` that answers it, and these",
+  "lines. The forced-push refusal outlives the migration and is no part of this.",
+  "WHAT THE WIDENING DOES NOT REACH, each measured against this hook rather than supposed:",
+  "  `gp`, the `git push` alias a seat's bashrc carries — a hook is given the words of the tool",
+  "    call, and `gp` carries no `git`, so no git call is read out of it at all. What closes",
+  "    `gp` is `terminal-bash`, which composes no alias that pushes while the migration runs.",
+  "  a push a program makes for itself — `handOffPush` spawns the pusher detached, under no",
+  "    tool call, so nothing here is ever asked about it",
+  "  anything typed into a terminal rather than sent as a tool call, which no hook is given",
   "",
   "WHERE THE LIST COMES FROM: nowhere.",
   "Git names its acts exactly and classifies none of them by this hazard.",
@@ -180,6 +214,10 @@ export function refusalFor(call: GitCall): string | null {
   if (over !== undefined) return toldOf(HOOK, over)
   if (call.act === "commit" && amendedIn(call.rest)) return toldOf(HOOK, AMENDED)
   if (call.act === "push" && forcedIn(call.rest)) return toldOf(HOOK, FORCED)
+  // MIGRATION ONLY, added 2026-09-03 — akasha-migration constraint 16, "Commits stay local for
+  // this migration. Do not push to the remote." Delete this line and PUSHED_IN_MIGRATION
+  // together when the migration is done. The forced-push line above outlives them.
+  if (call.act === "push") return toldOf(HOOK, PUSHED_IN_MIGRATION)
   if (call.act === "branch" && deletedIn(call.rest)) return toldOf(HOOK, DELETED)
   return null
 }

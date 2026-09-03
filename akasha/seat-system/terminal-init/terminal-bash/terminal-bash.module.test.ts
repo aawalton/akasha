@@ -54,6 +54,13 @@ describe("the set", () => {
     expect(said).toContain("alias gs='git status'")
   })
 
+  // MIGRATION ONLY, added 2026-09-03 — akasha-migration constraint 16. Delete this test and
+  // put `alias gp='git push'` back when the migration is done.
+  test("composes no alias that pushes, while the migration runs", () => {
+    expect(said).not.toContain("git push")
+    expect(said).toContain("gp is off for the akasha migration")
+  })
+
   test("carries the seat launch step and the editor terminal trap", () => {
     expect(said).toContain("_akasha_tmux_launch() {")
     expect(said).toContain("_akasha_seat_live() {")
