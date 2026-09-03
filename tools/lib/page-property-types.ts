@@ -1,9 +1,10 @@
+import { BODY } from "@akasha/pages-system/page-value-key"
 import type { FileTree } from "../../page/file-tree.ts"
 import { compiledPageTypeFor } from "../../page/property/frontmatter.ts"
 import type { Property } from "../../page/property/property.ts"
 import { registryOf } from "../../page/property/registry.ts"
 
-export const BODY = "body"
+export { BODY }
 
 export const TEMPLATE = "template"
 

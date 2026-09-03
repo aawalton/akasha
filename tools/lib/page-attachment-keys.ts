@@ -1,8 +1,9 @@
+import { ATTACHMENT } from "@akasha/pages-system/page-value-key"
 import { isAttachmentExtension } from "../../page/attachment-file.ts"
 import type { FileTree } from "../../page/file-tree.ts"
 import { declarationsFor } from "./page-property-types.ts"
 
-export const ATTACHMENT = "attachment"
+export { ATTACHMENT }
 
 export function attachmentKeysFor(tree: FileTree, pageType: string): ReadonlyMap<string, string> {
   const keys = new Map<string, string>()

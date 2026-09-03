@@ -1,13 +1,12 @@
 import { carried, carriedIn, type Held, type Values } from "@akasha/pages-system/page-carry"
+import { ATTACHMENT, BODY } from "@akasha/pages-system/page-value-key"
 import { attachmentFileOf } from "../../page/attachment-file.ts"
 import { textField } from "../../page/frontmatter.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
 import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
-export const BODY = "body"
-
-export const ATTACHMENT = "attachment"
 
 export type { Held, Values }
+export { ATTACHMENT, BODY }
 
 export interface Read {
   readonly values: Values
