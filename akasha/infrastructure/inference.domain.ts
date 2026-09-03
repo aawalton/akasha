@@ -7,6 +7,7 @@ export const inference = {
   definition: "the services that run models and keep a record of every run",
   partSlugs: [
     "domain/generation",
+    "page-type/inference-run",
     "workspace-package/inference-pool",
     "workspace-package/voice-inference",
   ],
