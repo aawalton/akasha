@@ -41,5 +41,10 @@ export const readoutGroup = {
       statement:
         "What the group expects is compared against what names the group rather than replacing it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The words a group is drawn under are its definition rather than a label of its own.",
+    },
   ],
 } as const satisfies PageType

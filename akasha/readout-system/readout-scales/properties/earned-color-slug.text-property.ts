@@ -19,5 +19,9 @@ export const earnedColorSlug = {
       invariantKind: "departure",
       statement: "A scale states one earned color whatever readouts are read against that scale.",
     },
+    {
+      invariantKind: "gap",
+      statement: "The color a scale names is a page rather than a name held as text.",
+    },
   ],
 } as const satisfies TextProperty
