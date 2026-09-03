@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const conversationWithAmy = {
+  id: "019e931f-5872-769f-a9c1-eeb327436f83",
+  pageTypeSlug: "connection-activity",
+  slug: "conversation-with-amy",
+  title: "Conversation with Amy",
+  connectionActivityAttn: 2,
+  connectionActivityAttractiveness: 1.25,
+  connectionActivityCategory: "in-person",
+  connectionActivityEnergy: 1.5,
+  connectionActivityFemininity: 1.5,
+  connectionActivityFitness: 1.5,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 2,
+  connectionActivityKindness: 1.75,
+  connectionActivityMaturity: 2,
+  connectionActivityModality: ["presence", "audio", "text", "image"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 1,
+  connectionActivityPositivity: 1.5,
+  connectionActivityReality: "authentic",
+  connectionActivityRepeatable: false,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 2,
+  connectionActivitySeq: 1,
+} as const satisfies ConnectionActivity

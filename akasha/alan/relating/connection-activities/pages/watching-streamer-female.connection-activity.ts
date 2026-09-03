@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const watchingStreamerFemale = {
+  id: "019e9369-dc46-73aa-88a3-8ab9d3d33971",
+  pageTypeSlug: "connection-activity",
+  slug: "watching-streamer-female",
+  title: "Watching streamer — female",
+  connectionActivityAttn: 1,
+  connectionActivityAttractiveness: 1.5,
+  connectionActivityCategory: "parasocial",
+  connectionActivityEnergy: 1.5,
+  connectionActivityFemininity: 1.5,
+  connectionActivityFitness: 1,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 1.5,
+  connectionActivityKindness: 1.75,
+  connectionActivityMaturity: 1.75,
+  connectionActivityModality: ["audio", "image"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 1,
+  connectionActivityPositivity: 1.5,
+  connectionActivityReality: "professional",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1.5,
+  connectionActivitySeq: 19,
+} as const satisfies ConnectionActivity

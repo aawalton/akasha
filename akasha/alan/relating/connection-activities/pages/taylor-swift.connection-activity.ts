@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const taylorSwift = {
+  id: "019e931f-6388-78d2-b93f-f722013503c3",
+  pageTypeSlug: "connection-activity",
+  slug: "taylor-swift",
+  title: "Taylor Swift",
+  connectionActivityAttn: 1,
+  connectionActivityAttractiveness: 1.5,
+  connectionActivityCategory: "parasocial",
+  connectionActivityEnergy: 2,
+  connectionActivityFemininity: 1.5,
+  connectionActivityFitness: 1,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 1.75,
+  connectionActivityKindness: 1.5,
+  connectionActivityMaturity: 2,
+  connectionActivityModality: ["audio"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 0.75,
+  connectionActivityPositivity: 1.25,
+  connectionActivityReality: "celebrity",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 2,
+  connectionActivitySeq: 9,
+} as const satisfies ConnectionActivity

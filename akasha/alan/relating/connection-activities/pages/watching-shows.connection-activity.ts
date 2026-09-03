@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const watchingShows = {
+  id: "019e9367-fb70-7075-9ee6-a3bc8502216f",
+  pageTypeSlug: "connection-activity",
+  slug: "watching-shows",
+  title: "Watching shows",
+  connectionActivityAttn: 1,
+  connectionActivityAttractiveness: 1.25,
+  connectionActivityCategory: "parasocial",
+  connectionActivityEnergy: 1.25,
+  connectionActivityFemininity: 1.5,
+  connectionActivityFitness: 1,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 1.5,
+  connectionActivityKindness: 1.5,
+  connectionActivityMaturity: 1.5,
+  connectionActivityModality: ["audio", "image"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 1,
+  connectionActivityPositivity: 1.25,
+  connectionActivityReality: "celebrity",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1.5,
+  connectionActivitySeq: 18,
+} as const satisfies ConnectionActivity

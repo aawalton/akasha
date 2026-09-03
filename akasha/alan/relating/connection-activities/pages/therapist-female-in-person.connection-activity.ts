@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const therapistFemaleInPerson = {
+  id: "019e936c-15de-729a-b1d6-8adcff5ce81a",
+  pageTypeSlug: "connection-activity",
+  slug: "therapist-female-in-person",
+  title: "Therapist — female, in-person",
+  connectionActivityAttn: 2,
+  connectionActivityAttractiveness: 1.5,
+  connectionActivityCategory: "in-person",
+  connectionActivityEnergy: 1,
+  connectionActivityFemininity: 1.5,
+  connectionActivityFitness: 1,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 1.75,
+  connectionActivityKindness: 1.75,
+  connectionActivityMaturity: 1.75,
+  connectionActivityModality: ["presence", "audio", "text", "image"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 1,
+  connectionActivityPositivity: 1.25,
+  connectionActivityReality: "professional",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1.5,
+  connectionActivitySeq: 21,
+} as const satisfies ConnectionActivity

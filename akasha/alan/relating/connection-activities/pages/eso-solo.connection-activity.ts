@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const esoSolo = {
+  id: "019e931f-67a6-7b5d-b46d-9edc5725a1f3",
+  pageTypeSlug: "connection-activity",
+  slug: "eso-solo",
+  title: "ESO solo",
+  connectionActivityAttn: 1,
+  connectionActivityAttractiveness: 1.25,
+  connectionActivityCategory: "solo",
+  connectionActivityEnergy: 1,
+  connectionActivityFemininity: 1.25,
+  connectionActivityFitness: 2,
+  connectionActivityIdent: 1,
+  connectionActivityIntensity: 0.5,
+  connectionActivityKindness: 1,
+  connectionActivityMaturity: 1,
+  connectionActivityModality: ["image"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 0.25,
+  connectionActivityPositivity: 1,
+  connectionActivityReality: "celebrity",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1,
+  connectionActivitySeq: 12,
+} as const satisfies ConnectionActivity

@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const doubleDate = {
+  id: "019e931f-5cab-7238-b817-3a969f30ed66",
+  pageTypeSlug: "connection-activity",
+  slug: "double-date",
+  title: "Double date",
+  connectionActivityAttn: 1.25,
+  connectionActivityAttractiveness: 1,
+  connectionActivityCategory: "in-person",
+  connectionActivityEnergy: 1.5,
+  connectionActivityFemininity: 1.25,
+  connectionActivityFitness: 1,
+  connectionActivityIdent: 1.25,
+  connectionActivityIntensity: 1.25,
+  connectionActivityKindness: 1.5,
+  connectionActivityMaturity: 1.5,
+  connectionActivityModality: ["presence", "audio", "text", "image"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 1,
+  connectionActivityPositivity: 1.5,
+  connectionActivityReality: "authentic",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1.5,
+  connectionActivitySeq: 4,
+} as const satisfies ConnectionActivity

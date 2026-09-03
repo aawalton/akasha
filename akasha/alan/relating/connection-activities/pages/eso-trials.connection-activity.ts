@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const esoTrials = {
+  id: "019e931f-60c5-7219-ae7e-05ae92ac6467",
+  pageTypeSlug: "connection-activity",
+  slug: "eso-trials",
+  title: "ESO Trials",
+  connectionActivityAttn: 1,
+  connectionActivityAttractiveness: 1,
+  connectionActivityCategory: "group",
+  connectionActivityEnergy: 1.5,
+  connectionActivityFemininity: 1.25,
+  connectionActivityFitness: 1,
+  connectionActivityIdent: 1,
+  connectionActivityIntensity: 1.5,
+  connectionActivityKindness: 1.5,
+  connectionActivityMaturity: 1.25,
+  connectionActivityModality: ["audio", "digital-presence"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 0.5,
+  connectionActivityPositivity: 1.25,
+  connectionActivityReality: "authentic",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1.25,
+  connectionActivitySeq: 7,
+} as const satisfies ConnectionActivity

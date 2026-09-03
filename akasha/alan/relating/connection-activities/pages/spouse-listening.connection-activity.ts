@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const spouseListening = {
+  id: "019e931f-64ee-76b4-a58b-1e4f26c44912",
+  pageTypeSlug: "connection-activity",
+  slug: "spouse-listening",
+  title: "Spouse — listening",
+  connectionActivityAttn: 1,
+  connectionActivityAttractiveness: 1.25,
+  connectionActivityCategory: "spouse",
+  connectionActivityEnergy: 1,
+  connectionActivityFemininity: 1.5,
+  connectionActivityFitness: 0.75,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 1,
+  connectionActivityKindness: 2,
+  connectionActivityMaturity: 2,
+  connectionActivityModality: ["presence", "audio", "text", "image"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 0.5,
+  connectionActivityPositivity: 1,
+  connectionActivityReality: "authentic",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 0.75,
+  connectionActivityWit: 1.5,
+  connectionActivitySeq: 10,
+} as const satisfies ConnectionActivity

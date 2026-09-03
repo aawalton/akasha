@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const textOnlyFemaleFriend = {
+  id: "019e9365-9f8c-7f5c-b8e6-ac4d9064fed3",
+  pageTypeSlug: "connection-activity",
+  slug: "text-only-female-friend",
+  title: "Text-only — female friend",
+  connectionActivityAttn: 1.25,
+  connectionActivityAttractiveness: 1.25,
+  connectionActivityCategory: "online-real",
+  connectionActivityEnergy: 1.5,
+  connectionActivityFemininity: 1.25,
+  connectionActivityFitness: 1,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 1.5,
+  connectionActivityKindness: 1.75,
+  connectionActivityMaturity: 1.75,
+  connectionActivityModality: ["text"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 1,
+  connectionActivityPositivity: 1.5,
+  connectionActivityReality: "authentic",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1.5,
+  connectionActivitySeq: 16,
+} as const satisfies ConnectionActivity

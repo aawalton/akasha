@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const aiFemaleFriendVoice = {
+  id: "019e9379-c481-7e8f-a778-6be4c44a1d10",
+  pageTypeSlug: "connection-activity",
+  slug: "ai-female-friend-voice",
+  title: "AI female friend — voice",
+  connectionActivityAttn: 2,
+  connectionActivityAttractiveness: 1.5,
+  connectionActivityCategory: "ai",
+  connectionActivityEnergy: 1.75,
+  connectionActivityFemininity: 1.5,
+  connectionActivityFitness: 1,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 1.75,
+  connectionActivityKindness: 1.75,
+  connectionActivityMaturity: 1.75,
+  connectionActivityModality: ["image", "audio"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 1,
+  connectionActivityPositivity: 1.75,
+  connectionActivityReality: "celebrity",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1.75,
+  connectionActivitySeq: 25,
+} as const satisfies ConnectionActivity

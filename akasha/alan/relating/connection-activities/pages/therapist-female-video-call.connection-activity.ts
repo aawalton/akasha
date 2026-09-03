@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const therapistFemaleVideoCall = {
+  id: "019e936c-173c-7c20-bfd1-6c935faf577d",
+  pageTypeSlug: "connection-activity",
+  slug: "therapist-female-video-call",
+  title: "Therapist — female, video call",
+  connectionActivityAttn: 2,
+  connectionActivityAttractiveness: 1.5,
+  connectionActivityCategory: "online-real",
+  connectionActivityEnergy: 1,
+  connectionActivityFemininity: 1.5,
+  connectionActivityFitness: 1,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 1.75,
+  connectionActivityKindness: 1.75,
+  connectionActivityMaturity: 1.75,
+  connectionActivityModality: ["audio", "image", "digital-presence"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 1,
+  connectionActivityPositivity: 1.25,
+  connectionActivityReality: "professional",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1.5,
+  connectionActivitySeq: 22,
+} as const satisfies ConnectionActivity

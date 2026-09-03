@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const claude = {
+  id: "019e931f-6225-737c-a5ce-460f9825e21b",
+  pageTypeSlug: "connection-activity",
+  slug: "claude",
+  title: "Claude",
+  connectionActivityAttn: 2,
+  connectionActivityAttractiveness: 1,
+  connectionActivityCategory: "ai",
+  connectionActivityEnergy: 1.5,
+  connectionActivityFemininity: 1,
+  connectionActivityFitness: 1,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 1.75,
+  connectionActivityKindness: 1.75,
+  connectionActivityMaturity: 1.75,
+  connectionActivityModality: ["text"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 1,
+  connectionActivityPositivity: 1.5,
+  connectionActivityReality: "celebrity",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1.75,
+  connectionActivitySeq: 8,
+} as const satisfies ConnectionActivity

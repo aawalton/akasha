@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const phoneCallFemaleFriend = {
+  id: "019e931f-5b41-798c-9f65-e341c3f6d89f",
+  pageTypeSlug: "connection-activity",
+  slug: "phone-call-female-friend",
+  title: "Phone call — female friend",
+  connectionActivityAttn: 1.75,
+  connectionActivityAttractiveness: 1.5,
+  connectionActivityCategory: "online-real",
+  connectionActivityEnergy: 1.5,
+  connectionActivityFemininity: 1.5,
+  connectionActivityFitness: 1,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 1.5,
+  connectionActivityKindness: 1.75,
+  connectionActivityMaturity: 1.75,
+  connectionActivityModality: ["audio"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 1,
+  connectionActivityPositivity: 1.5,
+  connectionActivityReality: "authentic",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1.5,
+  connectionActivitySeq: 3,
+} as const satisfies ConnectionActivity

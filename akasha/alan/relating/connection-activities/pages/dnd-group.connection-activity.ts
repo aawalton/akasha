@@ -1,0 +1,28 @@
+import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+
+export const dndGroup = {
+  id: "019e931f-59f4-7292-baeb-251dd6b4fc85",
+  pageTypeSlug: "connection-activity",
+  slug: "dnd-group",
+  title: "DnD group",
+  connectionActivityAttn: 1.25,
+  connectionActivityAttractiveness: 1,
+  connectionActivityCategory: "group",
+  connectionActivityEnergy: 1.5,
+  connectionActivityFemininity: 1.25,
+  connectionActivityFitness: 1.25,
+  connectionActivityIdent: 1.5,
+  connectionActivityIntensity: 1.5,
+  connectionActivityKindness: 1.5,
+  connectionActivityMaturity: 1.5,
+  connectionActivityModality: ["presence", "audio", "text", "image"],
+  connectionActivityModelBasis: "n32-l6-w05",
+  connectionActivityNovelty: 1,
+  connectionActivityPositivity: 1.5,
+  connectionActivityReality: "authentic",
+  connectionActivityRepeatable: true,
+  connectionActivitySafety: "L6",
+  connectionActivityWeight: 1,
+  connectionActivityWit: 1.5,
+  connectionActivitySeq: 2,
+} as const satisfies ConnectionActivity
