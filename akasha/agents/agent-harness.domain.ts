@@ -5,6 +5,7 @@ export const agentHarness = {
   pageTypeSlug: "domain",
   slug: "agent-harness",
   definition: "how agents do things",
+  partSlugs: ["domain/claude-code"],
   invariants: [
     {
       invariantKind: "departure",
