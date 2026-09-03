@@ -5,9 +5,17 @@ import { dirname, join } from "node:path"
 import { duringOneCall } from "@akasha/command-system/during-call"
 import { idOfFilePage as pageId } from "@akasha/file-page-identity"
 import { exclusively } from "@akasha/file-system/exclusive"
-import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
-import { forgetRowsPages } from "@akasha/markdown-pages/page-rows"
-import type { RowsHome } from "@akasha/markdown-pages/page-rows-home"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
+import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Property } from "@akasha/pages-system/markdown-property"
+import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
+import {
+  diskFileTree,
+  type FileTree,
+} from "../markdown-file-tree/markdown-file-tree.module.code.ts"
+import { forgetRowsPages } from "../markdown-page-rows/markdown-page-rows.module.code.ts"
+import type { RowsHome } from "../markdown-page-rows-home/markdown-page-rows-home.module.code.ts"
 import {
   appendable,
   appendLines,
@@ -22,19 +30,24 @@ import {
   standingAt,
   standingIn,
   writeOutParts,
-} from "@akasha/markdown-pages/page-rows-parts"
-import { RowsHomeUnresolved, rowsHomeFor } from "@akasha/markdown-pages/page-rows-resolve"
-import { declaredFor } from "@akasha/markdown-pages/page-type-declared"
-import { commitAll } from "@akasha/markdown-pages/page-write-commit"
-import { type Where, whereFor } from "@akasha/markdown-pages/page-write-where"
-import { judgeRow } from "@akasha/markdown-pages/property-judge"
-import { partNumberOf, rowsFileOf, rowsPartOf } from "@akasha/markdown-pages/rows-file"
-import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
-import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import type { Property } from "@akasha/pages-system/markdown-property"
-import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
-import type { Written } from "./page-write.ts"
+} from "../markdown-page-rows-parts/markdown-page-rows-parts.module.code.ts"
+import {
+  RowsHomeUnresolved,
+  rowsHomeFor,
+} from "../markdown-page-rows-resolve/markdown-page-rows-resolve.module.code.ts"
+import { declaredFor } from "../markdown-page-type-declared/markdown-page-type-declared.module.code.ts"
+import type { Written } from "../markdown-page-write/markdown-page-write.module.code.ts"
+import { commitAll } from "../markdown-page-write-commit/markdown-page-write-commit.module.code.ts"
+import {
+  type Where,
+  whereFor,
+} from "../markdown-page-write-where/markdown-page-write-where.module.code.ts"
+import { judgeRow } from "../markdown-property-judge/markdown-property-judge.module.code.ts"
+import {
+  partNumberOf,
+  rowsFileOf,
+  rowsPartOf,
+} from "../markdown-rows-file/markdown-rows-file.module.code.ts"
 
 interface ResolvedHome {
   readonly at: Where

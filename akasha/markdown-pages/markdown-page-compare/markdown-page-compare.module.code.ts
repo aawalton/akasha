@@ -1,22 +1,35 @@
 import { existsSync } from "node:fs"
 
 import { exclusively } from "@akasha/file-system/exclusive"
-import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
-import { attachmentKeysFor } from "@akasha/markdown-pages/page-attachment-keys"
-import { declarationsFor } from "@akasha/markdown-pages/page-property-types"
-import { uncommittedKeysFor } from "@akasha/markdown-pages/page-uncommitted-keys"
-import { commitAll } from "@akasha/markdown-pages/page-write-commit"
-import { patchedText } from "@akasha/markdown-pages/page-write-compose"
-import { rewritten, statedIn, textIn } from "@akasha/markdown-pages/page-write-text"
-import { splitValues, type Value } from "@akasha/markdown-pages/page-write-values"
-import { type Where, whereFor } from "@akasha/markdown-pages/page-write-where"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import {
+  diskFileTree,
+  type FileTree,
+} from "../markdown-file-tree/markdown-file-tree.module.code.ts"
+import { attachmentKeysFor } from "../markdown-page-attachment-keys/markdown-page-attachment-keys.module.code.ts"
+import { declarationsFor } from "../markdown-page-property-types/markdown-page-property-types.module.code.ts"
+import { uncommittedKeysFor } from "../markdown-page-uncommitted-keys/markdown-page-uncommitted-keys.module.code.ts"
+import { landAttachments } from "../markdown-page-write/markdown-page-write.module.code.ts"
+import { commitAll } from "../markdown-page-write-commit/markdown-page-write-commit.module.code.ts"
+import { patchedText } from "../markdown-page-write-compose/markdown-page-write-compose.module.code.ts"
+import {
+  rewritten,
+  statedIn,
+  textIn,
+} from "../markdown-page-write-text/markdown-page-write-text.module.code.ts"
+import {
+  splitValues,
+  type Value,
+} from "../markdown-page-write-values/markdown-page-write-values.module.code.ts"
+import {
+  type Where,
+  whereFor,
+} from "../markdown-page-write-where/markdown-page-write-where.module.code.ts"
 import {
   readUncommitted,
   uncommittedPathFor,
   writeUncommitted,
-} from "@akasha/markdown-pages/uncommitted"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { landAttachments } from "./page-write.ts"
+} from "../markdown-uncommitted/markdown-uncommitted.module.code.ts"
 
 export type Compared =
   | { readonly outcome: "won"; readonly at: Where; readonly commitError: string | null }

@@ -1,41 +1,4 @@
 import { fileStemOf } from "@akasha/file-page-identity"
-import { diskFileTree } from "@akasha/markdown-pages/file-tree"
-import { slugNamed } from "@akasha/markdown-pages/page-address"
-import { codeValueFor } from "@akasha/markdown-pages/page-code-values"
-import {
-  BACK,
-  EXPRESSION,
-  FROM,
-  fallbackOf,
-  type Kind,
-  kindsIn,
-  ROWS,
-  TARGET,
-} from "@akasha/markdown-pages/page-declared"
-import { backingOver } from "@akasha/markdown-pages/page-derive-backing"
-import { formulasOver } from "@akasha/markdown-pages/page-derive-formula"
-import { foundIn, indexingOver } from "@akasha/markdown-pages/page-derive-index"
-import { noteUnreadable } from "@akasha/markdown-pages/page-fault"
-import {
-  BODY,
-  type Held,
-  type Read,
-  valuesIn,
-  withLarge,
-  withUncommitted,
-} from "@akasha/markdown-pages/page-file-values"
-import {
-  along,
-  listing,
-  type Reached as Page,
-  type Reaching,
-  reducedFrom,
-  underivable,
-} from "@akasha/markdown-pages/page-reach"
-import { rowsPagesIn } from "@akasha/markdown-pages/page-rows"
-import { placeOf, scanIn } from "@akasha/markdown-pages/page-types"
-import { declarationsFromFiles } from "@akasha/markdown-pages/property-declarations"
-import { NONE, textAt } from "@akasha/markdown-pages/text-at"
 import { akashaValuesAt, isAkashaPage } from "@akasha/pages-system/akasha-page-values"
 import { isAddressable } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
@@ -47,6 +10,46 @@ import {
   WALK_BOUND,
 } from "@akasha/pages-system/page-derive-shape"
 import { keptIn, narrowing } from "@akasha/pages-system/page-narrow"
+import { diskFileTree } from "../markdown-file-tree/markdown-file-tree.module.code.ts"
+import { slugNamed } from "../markdown-page-address/markdown-page-address.module.code.ts"
+import { codeValueFor } from "../markdown-page-code-values/markdown-page-code-values.module.code.ts"
+import {
+  BACK,
+  EXPRESSION,
+  FROM,
+  fallbackOf,
+  type Kind,
+  kindsIn,
+  ROWS,
+  TARGET,
+} from "../markdown-page-declared/markdown-page-declared.module.code.ts"
+import { backingOver } from "../markdown-page-derive-backing/markdown-page-derive-backing.module.code.ts"
+import { formulasOver } from "../markdown-page-derive-formula/markdown-page-derive-formula.module.code.ts"
+import {
+  foundIn,
+  indexingOver,
+} from "../markdown-page-derive-index/markdown-page-derive-index.module.code.ts"
+import { noteUnreadable } from "../markdown-page-fault/markdown-page-fault.module.code.ts"
+import {
+  BODY,
+  type Held,
+  type Read,
+  valuesIn,
+  withLarge,
+  withUncommitted,
+} from "../markdown-page-file-values/markdown-page-file-values.module.code.ts"
+import {
+  along,
+  listing,
+  type Reached as Page,
+  type Reaching,
+  reducedFrom,
+  underivable,
+} from "../markdown-page-reach/markdown-page-reach.module.code.ts"
+import { rowsPagesIn } from "../markdown-page-rows/markdown-page-rows.module.code.ts"
+import { placeOf, scanIn } from "../markdown-page-types/markdown-page-types.module.code.ts"
+import { declarationsFromFiles } from "../markdown-property-declarations/markdown-property-declarations.module.code.ts"
+import { NONE, textAt } from "../markdown-text-at/markdown-text-at.module.code.ts"
 
 const NAMES_NOBODY: ReadonlyMap<string, readonly string[]> = new Map()
 

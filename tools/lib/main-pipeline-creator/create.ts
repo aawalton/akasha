@@ -1,8 +1,8 @@
 import { takeSeqsOf } from "@akasha/markdown-pages/page-seq"
+import { patchPage, patchState, writePage } from "@akasha/markdown-pages/page-write"
 import type { Value } from "@akasha/markdown-pages/page-write-values"
 import type { Where } from "@akasha/markdown-pages/page-write-where"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { patchPage, patchState, writePage } from "../page-write.ts"
 import { PIPELINE } from "./pages.ts"
 import { PIPELINE_SEQS, STEP_SEQS, WORKFLOW_SEQS } from "./seqs.ts"
 

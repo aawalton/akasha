@@ -112,13 +112,15 @@ export const STORE_VERBS = [...WRITE_VERBS, ...READ_VERBS] as const
  * tracking-modules.ts` hands out `askComposed` from `@shared/pages-query/ask` under the same name
  * the local client uses. That barrel carries a comment recording that this exact shape had already
  * hidden six permanently-refusing calls, because no search for the package named any of the six.
+ * Two of the four roads have since moved into `@akasha/markdown-pages` and are named here by the
+ * file each export resolves to, which is what `isClientRoad` compares against.
  * The same shape then hid two of the loudest reads of a day from this audit.
  */
 export const CLIENT_ROADS = [
   "tools/lib/page-query-client.ts",
   "tools/lib/page-query-landing.ts",
-  "tools/lib/page-write.ts",
-  "tools/lib/page-rows-write.ts",
+  "akasha/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts",
+  "akasha/markdown-pages/markdown-page-rows-write/markdown-page-rows-write.module.code.ts",
 ] as const
 
 export const CLIENT_PACKAGES = ["@shared/pages-query", "@akasha/pages-system-service"] as const
@@ -551,9 +553,7 @@ function calledAt(text: string, verb: string): readonly number[] {
 function meansAnotherThing(text: string, index: number): boolean {
   const start = text.lastIndexOf("\n", index) + 1
   const before = text.slice(start, index)
-  return NOT_A_DAY_NAME.some((one) =>
-    new RegExp(`\\b${one}\\b\\s*(?::[^=]*)?=\\s*$`).test(before)
-  )
+  return NOT_A_DAY_NAME.some((one) => new RegExp(`\\b${one}\\b\\s*(?::[^=]*)?=\\s*$`).test(before))
 }
 
 /** Where a file spells one of the two day page types as a whole quoted literal, and on what line. */
@@ -770,9 +770,7 @@ export function namersIn(
       continue
     }
     for (const one of importsFor(relPath).taken) {
-      const at = one.values.findIndex((each) =>
-        (DAY_CONSTANTS as readonly string[]).includes(each)
-      )
+      const at = one.values.findIndex((each) => (DAY_CONSTANTS as readonly string[]).includes(each))
       if (at < 0) continue
       found.set(relPath, { how: "constant", from: one.spec, line: one.line, hops: 1 })
       break
@@ -833,7 +831,13 @@ function namedSaid(named: Named): string {
   )
 }
 
-function verbReason(verb: string, via: string, hops: number, kind: BypassKind, named: Named): string {
+function verbReason(
+  verb: string,
+  via: string,
+  hops: number,
+  kind: BypassKind,
+  named: Named
+): string {
   const how =
     kind === "write"
       ? "writes the page store around the funnel; land the write through"

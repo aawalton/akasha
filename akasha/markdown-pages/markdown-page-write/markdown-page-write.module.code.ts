@@ -2,22 +2,47 @@ import { existsSync, mkdirSync, rmSync } from "node:fs"
 import { dirname } from "node:path"
 import { duringOneCall } from "@akasha/command-system/during-call"
 import { exclusively } from "@akasha/file-system/exclusive"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import {
   attachmentFileOf,
   removeAttachment,
   writeAttachment,
-} from "@akasha/markdown-pages/attachment-file"
-import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
-import { attachmentKeysFor } from "@akasha/markdown-pages/page-attachment-keys"
-import { rowsHoldingsFor } from "@akasha/markdown-pages/page-property-types"
-import { landOne } from "@akasha/markdown-pages/page-write-commit"
-import { patchedText, withId, withSeq } from "@akasha/markdown-pages/page-write-compose"
-import { frontOf, textIn } from "@akasha/markdown-pages/page-write-text"
-import { type Attachment, splitValues, type Value } from "@akasha/markdown-pages/page-write-values"
-import { type Where, whereFor } from "@akasha/markdown-pages/page-write-where"
-import { partNumberOf, rowsFileOf, rowsPartOf, rowsPartsOf } from "@akasha/markdown-pages/rows-file"
-import { patchUncommitted, removeUncommitted } from "@akasha/markdown-pages/uncommitted"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+} from "../markdown-attachment-file/markdown-attachment-file.module.code.ts"
+import {
+  diskFileTree,
+  type FileTree,
+} from "../markdown-file-tree/markdown-file-tree.module.code.ts"
+import { attachmentKeysFor } from "../markdown-page-attachment-keys/markdown-page-attachment-keys.module.code.ts"
+import { rowsHoldingsFor } from "../markdown-page-property-types/markdown-page-property-types.module.code.ts"
+import { landOne } from "../markdown-page-write-commit/markdown-page-write-commit.module.code.ts"
+import {
+  patchedText,
+  withId,
+  withSeq,
+} from "../markdown-page-write-compose/markdown-page-write-compose.module.code.ts"
+import {
+  frontOf,
+  textIn,
+} from "../markdown-page-write-text/markdown-page-write-text.module.code.ts"
+import {
+  type Attachment,
+  splitValues,
+  type Value,
+} from "../markdown-page-write-values/markdown-page-write-values.module.code.ts"
+import {
+  type Where,
+  whereFor,
+} from "../markdown-page-write-where/markdown-page-write-where.module.code.ts"
+import {
+  partNumberOf,
+  rowsFileOf,
+  rowsPartOf,
+  rowsPartsOf,
+} from "../markdown-rows-file/markdown-rows-file.module.code.ts"
+import {
+  patchUncommitted,
+  removeUncommitted,
+} from "../markdown-uncommitted/markdown-uncommitted.module.code.ts"
 
 export interface Taken {
   readonly at: string

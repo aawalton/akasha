@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { parseFrontmatter, textField } from "@akasha/markdown-pages/frontmatter"
+import { patchPage } from "@akasha/markdown-pages/page-write"
 import type { Value } from "@akasha/markdown-pages/page-write-values"
 import { whereFor } from "@akasha/markdown-pages/page-write-where"
 import {
@@ -10,7 +11,6 @@ import {
 } from "@akasha/markdown-pages/uncommitted"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { PENDING, STEP, STEP_TERMINAL } from "@akasha/pipeline-sweep/pipeline-page-statuses"
-import { patchPage } from "../page-write.ts"
 
 export type Held = Value | null
 

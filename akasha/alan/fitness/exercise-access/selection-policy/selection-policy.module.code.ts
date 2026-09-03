@@ -1,8 +1,8 @@
+import { patchPage } from "@akasha/markdown-pages/page-write"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { Row } from "@akasha/pages-system/page-derive-shape"
 import { textOf } from "@akasha/pages-system/page-query-values"
 import { answer } from "@tools/lib/page-query"
-import { patchPage } from "@tools/lib/page-write"
 import { selectionPolicy as stated } from "../../selection-policies/pages/selection-policy/selection-policy.selection-policy.ts"
 
 const PROFILE = "client-profile"

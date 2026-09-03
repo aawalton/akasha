@@ -11,8 +11,8 @@ import { afterEach, describe, expect, test } from "bun:test"
 import { existsSync, mkdtempSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { rowsFileOf } from "@akasha/markdown-pages/rows-file"
-import { rowsPartsFor } from "./page-write.ts"
+import { rowsPartsFor } from "../markdown-page-write/markdown-page-write.module.code.ts"
+import { rowsFileOf } from "../markdown-rows-file/markdown-rows-file.module.code.ts"
 
 const PAGE = "day-2026-03-05.daily-tracking.md"
 

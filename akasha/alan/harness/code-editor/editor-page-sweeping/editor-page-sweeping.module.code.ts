@@ -1,4 +1,5 @@
 import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { removePage } from "@akasha/markdown-pages/page-write"
 import { whereFor } from "@akasha/markdown-pages/page-write-where"
 import { registryOf } from "@akasha/markdown-pages/property-registry"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
@@ -13,7 +14,6 @@ import {
   WINDOW,
   WRITER,
 } from "@tools/lib/editor-arrangement"
-import { removePage } from "@tools/lib/page-write"
 import { frontmatterOf } from "@tools/lib/seat-presence-read"
 
 function processPresence(
