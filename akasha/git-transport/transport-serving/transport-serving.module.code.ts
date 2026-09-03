@@ -12,7 +12,7 @@ const ANSWERED_ABOUT = transportRepo("akasha").bareRepoPath
 const GIT_ROUTE = /^\/([^/]+\/[^/]+\.git)\/(info\/refs|git-upload-pack|git-receive-pack)$/
 const GIT_ROUTE_CAPTURES = z.tuple([z.string(), z.string()])
 
-export function serving(): Bun.Server {
+export function serving(): Bun.Server<undefined> {
   const server = Bun.serve({
     port: PORT,
     hostname: "0.0.0.0",

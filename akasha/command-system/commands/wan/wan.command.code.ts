@@ -283,7 +283,7 @@ function imageIn(): string {
   return held === undefined || held === "" ? "wan:local" : held
 }
 
-function spawned(argv: readonly string[]): ReturnType<typeof Bun.spawn> | null {
+function spawned(argv: readonly string[]): Bun.Subprocess<"ignore", "pipe", "pipe"> | null {
   try {
     return Bun.spawn([...argv], { stdout: "pipe", stderr: "pipe" })
   } catch {

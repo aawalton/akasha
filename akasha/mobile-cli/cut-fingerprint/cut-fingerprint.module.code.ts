@@ -1,4 +1,4 @@
-import { readdirSync } from "node:fs"
+import { type Dirent, readdirSync } from "node:fs"
 import { join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
@@ -96,7 +96,7 @@ function akashaRoot(): string {
 }
 
 function pathsUnder(root: string): readonly string[] {
-  let entries: ReturnType<typeof readdirSync>
+  let entries: readonly Dirent[]
   try {
     entries = readdirSync(join(root, CUTS_FOLDER), { withFileTypes: true })
   } catch (why) {
