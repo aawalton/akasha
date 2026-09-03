@@ -11,7 +11,9 @@
     "./repo-scope": "./cluster-checks/modules/repo-scope/repo-scope.module.code.ts",
     "./rule-population-audit": "./cluster-checks/modules/rule-population-audit/rule-population-audit.module.code.ts",
     "./test-step-loading": "./cluster-checks/modules/test-step-loading/test-step-loading.module.code.ts",
-    "./test-step-paths": "./cluster-checks/modules/test-step-paths/test-step-paths.module.code.ts"
+    "./test-step-paths": "./cluster-checks/modules/test-step-paths/test-step-paths.module.code.ts",
+    "./typecheck": "./code-checks/pages/typecheck/typecheck.code-check.code.ts",
+    "./typecheck/testing": "./code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts"
   },
   "dependencies": {
     "@akasha/dockerfiles": "workspace:*",

@@ -45,6 +45,7 @@ export const command = {
     "command/test",
     "command/track",
     "command/tracking",
+    "command/typecheck",
     "command/wan",
     "command/work-tree",
     "command/write",
