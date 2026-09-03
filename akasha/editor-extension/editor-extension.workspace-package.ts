@@ -19,6 +19,7 @@ export const editorExtension = {
     "module/seat-page",
     "module/palette",
     "module/tree-filter",
+    "module/editor-group",
   ],
   invariants: [
     {
