@@ -1,0 +1,173 @@
+The third decimal mattered.
+
+Callum knelt on packed earth at the edge of the Overgrowth, his Engineer's Multitool jammed into the anchor socket of a Gathering Construct he was relocating for the fourth time in twenty minutes. Morning light filtered through the bioluminescent canopy in shifting curtains of blue-green, and the air was warm and thick with spores that tickled the back of his throat. Behind him, Mira leaned against a tree with her saber across her knees, watching him with the expression of a woman deciding whether to be patient or annoyed.
+
+She chose annoyed.
+
+"You could do this faster if you weren't measuring angles to the third decimal."
+
+Callum did not look up. The Multitool's interface projected a translucent overlay of the regeneration zone -- two Overgrowth sectors whose moss cycles overlapped in a narrow band exactly 4.7 meters wide. The Gathering Construct needed to sit inside that band, oriented so its collector arms could sweep both sectors without dead travel. The difference between optimal and merely good placement was 2.4 degrees of rotation.
+
+"The third decimal is the difference between 91% and 94% collection efficiency."
+
+"I hate you a little bit."
+
+"Noted." He made a fractional adjustment, checked the overlay, and locked the anchor. "That's the parallel path. Jin's second optimization. The pre-sorting was easier."
+
+He stood and brushed soil from his coveralls. The Gathering Construct hummed to life, its collector arms extending into the overlap zone with a smooth rotational sweep. In his Loop Sight, the construct's operational radius appeared as a green circle edged in gold where it intersected the regeneration bands -- both north and south cycles feeding into a single collection point, output routing through a temporary relay back to the Refinery.
+
+Three optimizations. One morning.
+
+The Substrate Moss timing offset had been straightforward -- a nineteen-minute correction Jin had identified from his own observations, applied to the north quadrant collector in under ten minutes. The material pre-sorting had required Callum's first multi-line Script Engine edit: five lines of conditional logic that routed different material types to separate processing queues before they hit the Refinery, eliminating twelve percent of the bottleneck at the conversion stage. He had written those five lines in forty minutes, tested them against four hours of simulated input, and deployed them with the quiet satisfaction of a man placing the last piece in a jigsaw puzzle he'd been staring at for weeks.
+
+The parallel collection path was the hardest. It required physically moving the construct, which meant being out here, in a Tier 2 zone, at Level 14, with spore wolves and vine constrictors and things with too many legs rustling in the undergrowth.
+
+That was what Mira was for.
+
+She pushed off the tree and fell into step beside him as they headed back toward the warehouse. Her eyes moved constantly -- scanning canopy, undergrowth, the middle distance where shadows pooled between the bioluminescent trunks. She had killed two vine constrictors on the way in without breaking stride, the kind of casual violence that made Callum's combat construct look like what it was: a filing cabinet with aspirations.
+
+"How much does this actually gain you?" she asked.
+
+"The three optimizations together? Roughly twenty-five percent improvement in base resource throughput."
+
+"In human words."
+
+"I make a quarter more stuff, a quarter faster."
+
+"Was that so hard?"
+
+They walked in comfortable silence for a few paces. The Overgrowth thinned as they approached the Rustbelt Flats boundary, the canopy breaking apart into gray sky and the skeletal remains of Detroit's southern suburbs.
+
+"Jin's waiting," Mira said. "He's been talking to his rock since you left."
+
+"Chunk is an earth elemental."
+
+"It's a waist-high pile of concrete that doesn't talk back. It's a rock."
+
+---
+
+The Shardfield opened before them like a wound in the earth.
+
+The ruins of Toledo spread across the horizon in a landscape of shattered glass and crystallized Substrate energy. Every surface caught the light and broke it -- buildings reduced to angular frameworks of fused silica, streets paved in fracture lines that glowed faintly violet, the air itself carrying a mineral sharpness that stung the sinuses. The outer ring, where the crystal growth was thinnest and the mobs were lowest-tier, shimmered with a beauty that was difficult to reconcile with how dangerous it was.
+
+Jin stood at the entry point, his gutted TI-84 talisman clutched in one hand, the other gesturing in the air as he talked to -- or at -- his summons. Chunk sat at his feet like a loyal boulder, its compacted-rubble body motionless except for the faint grind of stone on stone as it tracked Jin's movements. Zephyr circled overhead in lazy spirals, a swirling mass of visible wind currents roughly shaped like a large bird. Pixel perched on Jin's shoulder, its fox-shaped blue light flickering as it chirped at intervals that might have been communication or might have been system noise.
+
+"Okay, okay, okay," Jin said as they approached. He had not slept, judging by the dark circles that had deepened from their usual bruise-purple to something approaching black. His U of M hoodie was inside out. He did not appear to have noticed. "I mapped the outer ring spawn patterns from the Exchange's public kill logs. Crystal constructs respawn on a ninety-minute cycle in sectors one through three. Resonance wraiths are on a two-hour cycle but they patrol between sectors, so the timing depends on -- are you listening?"
+
+"I'm listening," Callum said.
+
+"Great. So the plan is: Chunk tanks the crystal constructs, Zephyr handles DPS, Pixel scouts and pulls one at a time, and your Gathering Constructs collect the drops via the relay. I've got Chunk's rotation set for Ground Slam on engage, Stone Skin when HP drops below sixty percent, and --"
+
+"Jin."
+
+Jin stopped talking. It took visible effort, like capping a pressure valve.
+
+"Breathe," Callum said.
+
+Jin breathed. "Right. Yeah. Okay. I'm excited. This is exciting. Nobody's run a joint summon-construct farming operation in the Shardfield before. Nobody's even *theorized* it because the Summoner and Loopweaver interaction space is -- I mean, technically nobody even knows Loopweaver exists except --"
+
+"Jin."
+
+"Breathing. I'm breathing."
+
+Mira crossed her arms. "Is he always like this?"
+
+"I've known him for three days," Callum said. "So far, yes."
+
+Jin shot them both a wounded look, then turned to face the Shardfield with the expression of a general surveying a battlefield he'd only seen on maps. "First run. Four hours. Let's see what the data says."
+
+The first run was rough.
+
+Chunk engaged a crystal construct -- a humanoid figure of fused glass standing seven feet tall, its limbs refracting light into blinding splinters -- and took a hit that cracked its left shoulder. The construct's HP bar dropped by a third in a single strike. Jin flinched visibly.
+
+"Stone Skin! Stone Skin now!"
+
+The earth elemental's body hardened, a shell of compacted stone forming over the crack, and it weathered the second blow with a grinding shudder. Zephyr swept in from above, wind blades slicing at the crystal construct's joints. The blades bit, but shallowly -- the resonance in the crystal's structure dampened the wind damage, absorbing the kinetic energy and dispersing it as harmonic vibration.
+
+"Partial resistance," Callum noted, watching through Loop Sight. Jin's summons appeared in his vision as amber threads -- simpler than his construct threads, more organic, but readable. "The resonance wraiths will be worse. Wind damage and resonance are on the same Substrate frequency band."
+
+"I know," Jin muttered. "I *know*. I ran the numbers. I just hoped the numbers were wrong."
+
+They were not wrong. The resonance wraith they encountered thirty minutes later -- a translucent, vaguely humanoid shimmer that moved through the crystallized ruins like heat haze -- was nearly immune to Zephyr's wind blades. Chunk had to tank it alone while Jin redirected Zephyr to a support role, buffeting the wraith with gusts that slowed its movement without dealing meaningful damage. The fight took four minutes. Chunk's integrity dropped to forty-one percent.
+
+Pixel's scouting range was barely adequate. The familiar's blue-light form flickered at the edges of the crystal formations, its perception struggling with the refractive environment. Twice it pulled a mob that was already in proximity to a second group, forcing Jin to manage two engagements simultaneously while Callum watched the relay constructs scramble to collect drops from scattered kill zones.
+
+But it worked.
+
+Over four hours, Jin's summons killed twenty-three crystal constructs and six resonance wraiths. Callum's Gathering Constructs, routed through a temporary relay he'd established at the Shardfield's entry point, collected everything that dropped.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  SHARDFIELD RUN REPORT              │
+│  Duration: 4h 12m                   │
+│  Joint Operation: Summons + Relayed │
+│  Gathering Constructs               │
+├─────────────────────────────────────┤
+│  Kills: 29 (23 crystal constructs, │
+│          6 resonance wraiths)       │
+│  Echo Stones: 12                    │
+│  Residuum Fragments (trace): 3      │
+│  Crystal Shards (assorted): 47      │
+│  Glass Shards: 31                   │
+│                                     │
+│  Summon Integrity:                  │
+│    Chunk:  41% (critical)           │
+│    Zephyr: 78% (stable)            │
+│    Pixel:  92% (nominal)           │
+│                                     │
+│  Relay Efficiency: 71.3%           │
+│  (Low — relay distance exceeds     │
+│   optimal range)                    │
+└─────────────────────────────────────┘
+```
+
+Callum studied the report in the late afternoon light, standing at the Shardfield's edge while Jin healed Chunk with repeated casts that drained his MP pool to a sliver. The numbers were uneven. The relay efficiency was poor -- too much distance between the kill zones and the collection point. Zephyr's wind damage needed a solution for resonance-type enemies. Pixel's scouting would need range upgrades before they pushed deeper.
+
+But twelve Echo Stones sat in his inventory, warm with stored Substrate energy. Three Residuum fragments. Enough glass shards to supply the Enhancement Construct's final crafting stage.
+
+The bottleneck was broken.
+
+Jin looked up from healing Chunk, MP at single digits, sweat plastering his hair to his forehead. "So? How'd we do?"
+
+Callum allowed himself a small nod. The kind that came and went quickly, that most people would miss.
+
+"We have what we need."
+
+Jin's face split into a grin that was too wide for his exhaustion. "I *told* you the synergy would work. The summon-construct interaction space is --"
+
+"You told me. You were right."
+
+"Say that again. Slower."
+
+Mira, who had spent the four hours perched on a crystallized overpass watching for threats with the barely restrained energy of a guard dog at a chess tournament, dropped to the ground beside them. "Are we done? Because I killed three crystal crawlers that wandered too close to the relay, and I didn't even get to count those."
+
+"You did not set up auto-loot," Callum said.
+
+"I refuse to set up auto-loot on principle."
+
+"The principle is costing you materials."
+
+"The principle is that I pick up my own kills with my own hands like a person."
+
+Jin looked between them. "You two are like this all the time, aren't you?"
+
+"We've known each other for a week and a half," Callum said.
+
+"That's not a no," Jin observed.
+
+---
+
+The Enhancement Construct took six hours to assemble, and Callum felt every minute of it in his hands.
+
+The warehouse was quiet except for the hum of his three running constructs and the intermittent chirp of Pixel, who had curled up in a corner and was making sounds that Jin insisted were "dreaming." Mira had claimed a perch on the catwalk above the workshop floor, sharpening her saber with long, even strokes of the whetstone that provided a rhythmic counterpoint to Callum's work. Jin sat cross-legged on the concrete beside the workbench, his TI-84 talisman in his lap, interfacing with the construct's internal logic framework through a shared scripting session.
+
+The Enhancement Construct began as components spread across the workbench in organized rows. Echo Stones, sorted by resonance frequency. Flux Capacitor casings, pre-charged and humming faintly. Glass shards, ground to specifications Callum had calculated from three thousand iterations of gathering loop data. And at the center, the Flux core he had been growing for weeks -- a crystalline lattice the size of a closed fist, dense with stored energy, pulsing with patterns that his Loop Sight rendered as a slowly rotating helix of gold light.
+
+He worked with the Engineer's Multitool in one hand and his field notebook in the other, cross-referencing each step against diagrams he had drawn months ago, when the Enhancement Construct was still a theory scribbled on graph paper. The theory had been simple. The execution was not.
+
+The first stage was the resonance framework. Callum fused four Echo Stones into a lattice of crystallized feedback channels, each one aligned to a specific construct in his array -- Grinder, Collector, Refinery, and a fourth channel left open for future expansion. The stones resisted fusion at first, their resonance frequencies clashing in ways that manifested as a high-pitched whine and a shower of pale sparks. He adjusted. Recalibrated. Tried again. The whine became a hum. The hum became a tone.
+
+"You need to offset the third stone by point-seven degrees," Jin said, not looking up from the script interface. "The resonance pattern is drifting."
+
+Callum checked. Jin was right. He made the correction, and the four Echo Stones locked into alignment with a crystalline *click* that he felt in his teeth.
+

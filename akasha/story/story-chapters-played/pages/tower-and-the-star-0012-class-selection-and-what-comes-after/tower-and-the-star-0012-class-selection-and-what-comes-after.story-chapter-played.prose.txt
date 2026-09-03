@@ -1,0 +1,178 @@
+# Chapter 12: Class Selection and What Comes After
+
+The light was different here.
+
+Solenne noticed it before her feet had fully cleared the exit portal's threshold -- the amber glow that filled the Transition Hall between Floor 10 and Floor 11 was not the standard functional illumination they had moved through after every previous floor. It was warmer. Richer. The sourceless light had a quality she could not name in any of the three languages she had studied, something that was not quite gold and not quite sunset but carried the memory of both. It settled on the black stone walls and made them look less like architecture and more like something that had been waiting.
+
+The Hall itself was the same dimensions as every Transition Hall they had passed through -- ten meters, smooth walls, the door to the next floor visible at the far end. But the silence was different. Not empty. Full. The kind of silence that follows something significant, where the air has not yet forgotten what just happened.
+
+Tomás stepped through the portal behind her, longbow at rest, the Root-Walker Greaves making no sound on the polished stone. He stopped. He looked up. He looked at the walls. He looked at the quality of the light with the Clearvoiced perception that registered true things without embellishment.
+
+"The Tower knows we passed something," he said.
+
+He did not elaborate. Nobody asked him to. The feeling of rightness in the Hall spoke for itself, and all six of them stood in it and let it be what it was.
+
+---
+
+They cleaned up in the amber warmth.
+
+Not urgently. Not with the compressed efficiency of mid-combat triage or the focused intensity of a rest-node medical circuit. This was the particular pace that came after a major fight when every member was standing and nobody was bleeding and the only thing that needed tending was the accumulated cost of nine minutes and forty-seven seconds of the hardest thing they had ever done together.
+
+Miriam moved through the party with Mending Touch in the way she did when she was not monitoring for crisis but simply tending. She started with Dayo -- always Dayo, even when Dayo was at full HP, because the Warmhearted Aspect did not operate on a strictly numerical assessment of need. Her hands found the places where the Composite Plate had absorbed jaw strikes, where the armor gaps had taken secondary impacts, where the body underneath the equipment had been doing work that the HP restoration of the Resonance Surge had healed but not entirely erased. The warmth of the heal was different from the combat heals. Quieter. More like a hand on a shoulder than an intervention.
+
+Dayo sat still for it. She did not say she was fine.
+
+Vesper inventoried the remaining Anchor Vials from Miriam's pack -- the ones that had not been needed because the Surge had restored everyone's MP before the healing rotation ran dry. "These keep for another six hours," she said, turning one in the light. "After that the suspension crystallizes." She set them aside with the specific efficiency of someone cataloguing what remained and what was spent.
+
+The First Boss Coat materialized in the System's inventory display as Vesper was working through the party's consumable status -- the amber-light coalescence of loot resolving from System notation into physical form. Rare-grade body armor. The stats were already logged in everyone's Status Windows from the boss kill notification, but the physical object was something else: dark composite plating with a fitted silhouette that looked like it had been designed for a person who stood at the front of things and chose to keep standing there.
+
+Vesper picked it up. She turned it once, assessing the material grain with the Artificer's instinct that evaluated everything she touched. Then she held it out toward Dayo.
+
+"This goes to you," she said. No ceremony. No discussion. The way you hand someone a tool that was obviously theirs.
+
+Dayo took it. She put it on over the Composite Plate's underlayer, and it settled onto her frame as if it had been measured for her -- the defense rating climbing in her Status Window, the VIT bonus adding thirty HP to her pool, the RES climbing by two points. The passive effect -- cannot be Frightened below 25% HP -- did not announce itself visually. It did not need to. Dayo had just spent nine minutes at percentages that would have frightened anyone, and she had not flinched.
+
+```stat-screen
+[EQUIPMENT UPDATE — Dayo Okonkwo]
+First Boss Coat (Rare) — EQUIPPED
+  Physical Defense: +22
+  VIT: +5 (HP Max: 467 → 497)
+  RES: +2 (Base RES: 16 → 18)
+  Passive: Cannot be Frightened below 25% HP
+```
+
+She put her hand in her pocket. The tally marks on her bracer caught the amber light, but she did not add a new one. Not yet.
+
+---
+
+The System terminal stood at the center of the Transition Hall, its display active and pulsing with the warm amber that matched the Hall's unusual light. The Class Selection prompt waited in all six Status Windows, patient and unhurried. Floor 11's door was visible beyond it, closed, and it was not going anywhere.
+
+Dayo went first.
+
+She approached the terminal the way she approached everything -- directly, without visible hesitation, her body carrying the specific quality of someone who had been moving toward things for ten floors and was not going to stop now. The First Boss Coat shifted with her movement, already part of her silhouette. She placed her hand on the terminal's interface.
+
+The display responded.
+
+```stat-screen
+╔══════════════════════════════════════════╗
+║  CLASS SELECTION: CONFIRMED             ║
+║                                          ║
+║  Adaeze Okonkwo                          ║
+║  Class: VANGUARD (Advanced)              ║
+║                                          ║
+║  The one who stands at the front         ║
+║  because she wants to, not because       ║
+║  she has to.                             ║
+║                                          ║
+║  Class Bonuses Applied:                  ║
+║    +2 STR, +2 VIT (Lv. 1 formal)        ║
+║                                          ║
+║  Status: CONFIRMED                       ║
+╚══════════════════════════════════════════╝
+```
+
+Solenne felt the echo through the Harmony Conductor before the notification finished resolving. It arrived not as information but as sensation -- weight, commitment, the feeling of standing in front of something and choosing to stay. Not stubbornness. Not refusal. The specific gravity of a person who had decided what she was for and had stopped debating it. The Steadfast Aspect expressed through the selection as something Solenne could feel in her chest: load-bearing. Structural. The foundation that everything else was built on.
+
+Dayo stepped back from the terminal. She put her hand back in her pocket. Her expression had not changed, which was its own kind of expression -- the face of someone who had been confirmed in something she already knew and did not require the confirmation to believe it.
+
+Miriam went second.
+
+She walked to the terminal with the measured steps of someone who had been watching from the middle of the group and had decided it was time. Not hesitant. Deliberate. She placed both hands on the interface -- both, not one, which was how she healed and how she touched and how she engaged with anything that mattered.
+
+```stat-screen
+╔══════════════════════════════════════════╗
+║  CLASS SELECTION: CONFIRMED             ║
+║                                          ║
+║  Miriam Osei-Bonsu                       ║
+║  Class: WARDEN (Advanced)                ║
+║                                          ║
+║  The one who heals because she           ║
+║  understands pain, not because           ║
+║  she was told to.                        ║
+║                                          ║
+║  Status: CONFIRMED                       ║
+╚══════════════════════════════════════════╝
+```
+
+The Conductor echo was warmth. Not a burst -- continuous, sustained, the particular quality of care that did not turn off. Solenne felt it as something running underneath everything else, a current that had been present for the entire arc and was now being formally named. The Warmhearted Aspect did not flare during the selection. It persisted. It was always persisting. That was the point.
+
+Miriam nodded at the terminal. A small nod, acknowledging something it already knew. She stepped back. Her clinical notebook was in her hand -- she had been holding it throughout the cleaning-up, the way she always held it -- and she did not write anything in it. She just held it and nodded and returned to where she had been standing.
+
+Vesper went third.
+
+She approached the terminal differently from the others -- faster at the start, then slower at the contact, her hands hovering over the interface for a fraction of a second before she committed. The fraction of a second was not hesitation. It was the Artificer assessing the material before she worked with it, the same instinct that made her turn the First Boss Coat once before handing it to Dayo.
+
+```stat-screen
+╔══════════════════════════════════════════╗
+║  CLASS SELECTION: CONFIRMED             ║
+║                                          ║
+║  Vesper Castillo-Huang                   ║
+║  Class: ARTIFICER (Advanced)             ║
+║                                          ║
+║  The one who gives because making        ║
+║  things for others is how she            ║
+║  experiences joy.                        ║
+║                                          ║
+║  Class Bonuses Applied:                  ║
+║    +2 INT, +2 WIS (Lv. 1 formal)        ║
+║                                          ║
+║  Status: CONFIRMED                       ║
+╚══════════════════════════════════════════╝
+```
+
+The echo through the Conductor was outward motion. Hands extended. The satisfaction of something made finding the person it was made for -- not the satisfaction of completion but of delivery, of the moment when the object left the maker's hands and became what it was always for. The Openhanded Aspect expressed as direction: away from self, toward others, the trajectory of giving that had no return address because it was not a transaction.
+
+Vesper's expression while selecting was private. Her eyes were on the display and whatever she saw there -- the System's description of her, the formal acknowledgment of what she did and why she did it -- she kept between herself and the terminal. Then her face shifted. Briefly. The privacy loosened into something that looked, for one second, like relief. As if being told by the System that her craft was who she was had released a question she had been carrying about whether it was enough.
+
+She stepped back. She did not explain the expression. She did not need to.
+
+Tomás went fourth.
+
+He walked to the terminal without ceremony, without pause, without the visible processing that the others had carried in their approach. He placed his hand on the interface and selected.
+
+```stat-screen
+╔══════════════════════════════════════════╗
+║  CLASS SELECTION: CONFIRMED             ║
+║                                          ║
+║  Tomás Reyes-Whitehorse                  ║
+║  Class: PATHFINDER (Advanced)            ║
+║                                          ║
+║  The one who scouts because he           ║
+║  trusts himself, and trusts what         ║
+║  he sees.                                ║
+║                                          ║
+║  Class Bonuses Applied:                  ║
+║    +2 AGI, +2 WIS (Lv. 1 formal)        ║
+║                                          ║
+║  Status: CONFIRMED                       ║
+╚══════════════════════════════════════════╝
+```
+
+The Conductor echo was clarity. True perception, unobstructed -- the sensation of seeing what was actually there and not flinching from it. The Clearvoiced Aspect arrived in the echo as a clean line through noise, the frequency of someone who looked at the world honestly and reported what he found. No embellishment. No interpretation. The truth, perceived and stated and trusted.
+
+Tomás selected without hesitation and stepped back. Clean and not repeated.
+
+Nadia went fifth.
+
+She walked to the terminal with a gait that was not quite casual and not quite serious -- the particular rhythm of someone navigating the gap between a moment's weight and her own need to not be crushed by it. She looked at the terminal. She made a specific face at it -- a face Solenne could not read entirely, something between skepticism and affection, the expression you might give a vending machine that had been making decisions about your life for eight months.
+
+```stat-screen
+╔══════════════════════════════════════════╗
+║  CLASS SELECTION: CONFIRMED             ║
+║                                          ║
+║  Nadia Volkov-Baptiste                   ║
+║  Class: JESTER (Advanced)                ║
+║                                          ║
+║  The one who laughs because she knows    ║
+║  laughter is a choice and she            ║
+║  chooses it deliberately.                ║
+║                                          ║
+║  Class Bonuses Applied:                  ║
+║    +2 AGI, +2 INT (Lv. 1 formal)        ║
+║                                          ║
+║  Status: CONFIRMED                       ║
+╚══════════════════════════════════════════╝
+```
+
+The Conductor echo was the most complicated. Disruption and warmth arrived together, inseparable, the feeling of a pattern broken not to damage it but to open it -- to let air into a closed room, to let laughter into a silence that had gone too long. The Brightspirit Aspect expressed as both things simultaneously: the breaking and the light that came through the break. Solenne felt it as something that was almost uncomfortable and entirely necessary, the way Nadia's humor had always been.
+

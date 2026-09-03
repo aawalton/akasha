@@ -1,0 +1,142 @@
+The Exchange smelled like burnt coffee and desperation.
+
+Callum navigated the morning crowd with his shoulders pulled in and his gaze forward, weaving between vendor stalls that were still setting up for the day. The air carried the usual cocktail of scents -- raw Essence sweetness, potion reagents sharp enough to sting the sinuses, grilled protein from the food carts that had started operating at dawn to catch the early grinders coming off overnight sessions. A vendor to his left was arguing with a customer over the purity grade of a Flux Capacitor core, their voices rising in the particular cadence of people who knew they were both lying about the numbers.
+
+He was here for Echo Stones.
+
+The Enhancement Construct sat eighty percent complete on his workbench back at the warehouse, and its remaining requirement was specific: four Echo Stones to serve as resonance anchors for the feedback array. Without them, the construct could receive input but could not propagate upgrades across threads. Without them, his compound loop stayed open. And an open loop was just a line with extra steps.
+
+The problem was that Echo Stones came from the Shardfield -- the Toledo ruins, Tier 2-3, Level 15-30 mobs -- and Callum's constructs could not operate there. The Mk.V Sentinel topped out at Level 15 content. Anything above that chewed through its integrity faster than its self-repair cycle could compensate. Which meant his only option was the Exchange, where Echo Stones sold for guild-controlled prices that made Bloom Crystal look like pocket change.
+
+He found the mineral vendor in the eastern wing -- a heavyset man with an Iron Vanguard tabard draped over one shoulder like a napkin, the crossed-hammers insignia catching the morning light. The display case behind him held the usual spread of Shardfield minerals: Resonance Shards in clusters of three, raw Residuum in sealed containers, and on the top shelf, four Echo Stones arranged in a neat row, their surfaces rippling with captured sound waves that made them look like solidified static.
+
+"Echo Stones," Callum said. "Four."
+
+The vendor looked at him the way Exchange vendors always looked at him -- a quick assessment that started at his reinforced coveralls, noted the absence of guild insignia, lingered briefly on the Engineer's Multitool at his belt, and concluded with a number.
+
+"Two hundred Gold each."
+
+Eight hundred Gold. Callum ran the math against his current balance. The Residuum tax had eaten deeper into his margins than he'd projected. Mira's presence helped -- her combat sweeps had reduced construct maintenance costs by twelve percent -- but eight hundred Gold was still more than he could afford without dipping into his emergency buffer. And dipping into his emergency buffer meant one bad Fracture surge away from zero.
+
+"That's double the price from two weeks ago," he said.
+
+"Supply's tight." The vendor shrugged with the practiced ease of someone who controlled supply. "Shardfield runs are getting harder. Surge activity up in the Toledo corridor. Guild teams are pulling hazard pay now."
+
+Translation: the Iron Vanguard controlled access to the Shardfield, controlled the teams that farmed it, and controlled the pricing at the Exchange. Independent sourcing was theoretically possible, but practically meant soloing Tier 2-3 content that would flatten Callum before he finished deploying a construct.
+
+He stood there, calculating alternatives, when he heard the voice.
+
+"-- four thousand repetitions. *Four thousand.* Do you understand what that represents in terms of automation yield? The iteration curve alone -- okay, look, I have a spreadsheet. I literally have a spreadsheet. Let me --"
+
+"Kid, I told you. I don't want your tokens."
+
+"They're not *my* tokens, they're Iteration Tokens with four thousand reps of a Level 8 kill pattern baked into them, which means anyone who applies them to a comparable combat construct gets an immediate efficiency boost of -- wait, where are you going? I haven't even gotten to the compound yield projection yet!"
+
+Callum turned.
+
+A young man stood three stalls down, talking at a vendor who was actively walking away from him. He was maybe nineteen, lean and wiry, wearing a University of Michigan hoodie that had seen better semesters underneath a set of leather armor so badly made that one shoulder pad sat a full two inches higher than the other. His hair was black, messy, and appeared to be losing a war against gravity. His hands were full of Iteration Tokens -- eight or nine of them, amber discs catching the light -- and his mouth was full of words.
+
+"These tokens represent four thousand repetitions of a Level 8 kill pattern," the young man said to the vendor's retreating back. "Do you know what the automation yield curve looks like on four thousand reps?" He paused, apparently realizing he'd lost his audience, and addressed the empty space where the vendor had been. "It's -- never mind. It's a lot."
+
+Callum had stopped walking.
+
+*Automation yield curve.*
+
+The phrase snagged in his mind like a thread catching on a rough edge. He'd used those exact words -- that exact construction -- in his field notebook. Page forty-seven. The entry where he'd mapped the relationship between Iteration Token repetition counts and construct performance improvement. He'd never heard anyone else use the term. Most players didn't think about yield curves. Most players applied tokens and moved on, the same way they swung swords and moved on, without stopping to ask what the underlying math was doing.
+
+The young man was staring at his Iteration Tokens with the frustrated expression of someone whose spreadsheet was perfect and whose audience was illiterate.
+
+Callum walked over.
+
+---
+
+"You know what Iteration Tokens are actually worth, don't you?"
+
+The young man -- kid, really, barely old enough to have been a college sophomore when the world ended -- looked up at Callum with eyes that moved too fast. Sharp, scanning, already calculating. Dark circles underneath that suggested either chronic insomnia or chronic optimization, which in Callum's experience were the same thing.
+
+"I know what they're worth in a compound loop with an Enhancement Construct feeding back into the base pattern," Callum said.
+
+The kid's eyes went wide.
+
+"Oh my God." His voice jumped half an octave. "Oh my *God*. You know what a compound loop is. You actually -- wait. Wait wait wait." He held up one hand, the Iteration Tokens clinking between his fingers. "Are you running one? An actual compound loop? Not a theoretical one? Because I have read everything -- and I mean *everything* -- that exists on compound automation theory, and nobody, nobody in the Detroit zone, is running a closed compound loop. The closest thing I've found is a guild in Chicago that's running parallel processing threads, but they're flat loops, no feedback, no compounding, just brute-force parallelism, which is like --"
+
+"Like running a factory with one conveyor belt and hoping everything sorts itself," Callum said.
+
+The kid stared at him.
+
+"That's -- yes. That's exactly what it's like. How did you -- who *are* you?"
+
+"Callum. I run constructs in the Foundry District."
+
+"Jin. Jin Park. I'm a Summoner." He stuck out his hand, realized it was full of tokens, tried to pocket them, dropped two, picked them up, and stuck out his hand again. "University of Michigan. Well, *former* University of Michigan. Computer science and applied math. Double major. Not that degrees mean anything when the world ends, but the optimization theory transfers, you know? The optimization theory *absolutely* transfers."
+
+Callum shook his hand. Jin's grip was surprisingly firm for someone who looked like a stiff breeze would relocate him.
+
+"You said compound loop," Jin continued, already past the handshake, already three sentences ahead. "How many threads? What's your topology? Are you running sequential or parallel processing on the output chain? Because the standard Construct model tops out at two threads unless you have -- wait." He paused. Something shifted behind his eyes. "Unless you have Thread Spinner. Which you'd need at Level 5 for three threads. Which means your class has access to Automation Tier 3 skills, which means you're either a high-level Artificer or you're --"
+
+He trailed off. His gaze dropped to the Engineer's Multitool at Callum's belt, then to the Loop Stabilizer Ring on his finger, then to something Callum couldn't see -- a flicker behind Jin's pupils that suggested he was reading System information.
+
+"Your Idle Yield Multiplier," Jin said slowly. "It's over two. Way over two. At -- what level are you? Thirteen?"
+
+"Thirteen."
+
+"At Level 13. That's not possible with standard class scaling. Even with max WIS investment and a Tier 3 automation bonus, you'd cap at maybe 1.6 at your level. The only way to hit 2.0+ is if your class has an innate multiplier on WIS contribution to Idle Yield, which would mean --"
+
+He stopped talking. His mouth stayed open.
+
+"Your class is unique," he said. Not a question.
+
+Callum said nothing. But he didn't walk away, and the silence was its own answer.
+
+"Okay," Jin breathed. "Okay. So you're running a compound loop on a unique class with a native Idle Yield multiplier and three-thread parallel processing at Level 13." He looked like someone who had just been handed a present he hadn't known he wanted. "Can I buy you coffee? Or whatever they're calling coffee now? Because I have about forty-seven questions and I think you might be the only person alive who can answer them."
+
+---
+
+The food stall on the Exchange's western edge served something that was technically coffee in the same way that the Substrate was technically a game -- the label was correct, the experience was unrecognizable. Callum wrapped his hands around the cup and let the warmth seep into his fingers while Jin talked.
+
+Jin always talked.
+
+"So here's the thing," Jin said, leaning across the makeshift table -- a plank of salvaged lumber laid across two cinder blocks. "I've been studying Construct theory for three months. Not building them -- I can't, wrong class -- but studying the architecture. How they work. What the Substrate is actually doing when you materialize a Construct." He produced a napkin from somewhere and began drawing on it with a pen that had U of M Engineering printed on its barrel. "Most people think Constructs are just automated soldiers, right? You build a thing, it fights, it farms. Simple."
+
+"They're not simple," Callum said.
+
+"They're *not* simple!" Jin pointed at him with the pen. "Thank you. They're process threads. They're the Substrate giving you permission to run a parallel instance of a specific action set. The Construct itself is just the physical manifestation of that thread -- the hardware the software runs on. Which means the interesting part isn't the Construct. It's the *topology*. How you connect the outputs to the inputs. How you route data between threads."
+
+He drew three circles on the napkin, connected them with arrows, and labeled them C, G, and P. Combat. Gathering. Processing.
+
+"Standard topology," he said. "Linear. Combat kills things, generates Essence and drops. Gathering collects materials. Processing refines them. Each thread operates independently. Total output equals the sum of the parts."
+
+"Sum of the parts is a ceiling," Callum said.
+
+"Sum of the parts is a *prison*." Jin drew a fourth circle and labeled it E. Enhancement. Then he drew an arrow from P to E, and arrows from E back to C, G, and P. "But if you add a feedback node -- if you take a fraction of Processing output and route it into an Enhancement function that improves the efficiency of all three other threads -- then total output isn't the sum anymore. It's the *product*. Compounding. Geometric growth." He tapped the napkin. "That's what you're building, isn't it?"
+
+Callum picked up the napkin and studied it. The topology was right. Not just approximately right -- structurally identical to the diagram in his field notebook, page twelve, drawn three months ago in the same block lettering he used for everything.
+
+"The Enhancement Construct isn't online yet," he said. "I need Echo Stones for the resonance anchors."
+
+"The ones that cost two hundred Gold each from the Vanguard-backed vendors?"
+
+"Those."
+
+Jin leaned back, processing. His hands didn't stop moving -- fingers tapping the table edge in a rapid, arhythmic pattern that Callum recognized as the physical manifestation of running calculations.
+
+"Okay, but before we get to that -- can I look at your Gathering Construct output? Because if your topology is what I think it is, I can probably identify at least two inefficiencies in your collection cycle just from the numbers."
+
+Callum hesitated. Sharing operational data was a risk. His invisibility was strategic -- nobody paid attention to his setup because nobody understood what they were looking at. Showing Jin the numbers meant showing Jin the architecture, and showing Jin the architecture meant trusting a nineteen-year-old stranger with the thing that kept him alive.
+
+But Jin had drawn his compound loop topology on a napkin without being told.
+
+Callum pulled up his Gathering Construct's performance log and projected a simplified readout toward Jin. The System rendered it as a translucent display hovering between them -- visible to both since Callum had tagged Jin as a temporary information-share recipient.
+
+Jin's eyes went wide. Then they went sharp. Then they went somewhere else entirely -- a place Callum recognized because he went there too, the place where numbers stopped being numbers and started being a landscape you could walk through.
+
+"Substrate Moss collection timing," Jin said after twelve seconds of silence. "You're running a twelve-hour cycle synced to the posted regeneration rate."
+
+"Standard cycle."
+
+"It's not twelve hours." Jin's voice had changed. Faster, tighter, the words compressed as his brain outran his mouth. "I mapped the Overgrowth regeneration timing last month because my summons kept missing respawn windows. The posted rate is twelve hours because that's the average. But it's not uniform. The north quadrant regenerates in eleven hours and forty-seven minutes. South quadrant takes twelve hours and six minutes. You're synced to the average, which means your Gathering Construct sits idle for thirteen minutes on the north runs and starts nineteen minutes late on the south runs."
+
+Callum set down his cup.
+
+"That's a 2.6% timing inefficiency on north pulls and a 2.2% loss on south pulls," Jin continued. "Cumulative across both quadrants over a week, you're losing approximately four percent of total yield. And that's just the timing offset."
+

@@ -1,0 +1,180 @@
+To His Excellency Lord Aldric Cray, Warden of the Eastern Reaches, by the hand of Senior Field Scribe Orvyn Thel, attached to the Third Scouting Company:
+
+Your Excellency,
+
+I have been ordered to produce a field record of our investigation of the anomaly designated Ridge-Opening Alpha, known colloquially as the Maw. I will produce that record. I will note, for the historical document, that I advised against this assignment before departure, that my advice was not requested, and that I record this not from resentment but from precision — future readers of this document should know that the information it contains was purchased at full price, and that the accounting was not done in advance.
+
+The party: Captain Sera Vant (Commander, seventeen years service), Scout Dara Hess (seven years, previous Ridge-Opening entry), Corporal Bren Aldic (Fighter, twelve years), this scribe (Orvyn Thel, nine years document service), and Mira Doss (Surgeon-Corporal, six years field medicine). Five. A sound number for a scouting engagement of unknown territory.
+
+We entered at second bell, morning.
+
+---
+
+Entry 1. 10:14.
+
+The opening is as reported: seven strides across, perfectly round, honey-colored stone. The air rising from it smells of copper and something green. There is light inside — bioluminescent growth on the walls, a warm amber that increases with depth. Captain Vant assessed it as defensible from above, indefensible from below. The Scout confirmed the same configuration as her previous entry, three years prior. She noted the moss-growth is more extensive. I noted this also.
+
+We went in.
+
+Entry 2. 10:31.
+
+The Asking.
+
+I will describe this for the record because it will not be believed without description, and because the record exists for people who will not experience it themselves.
+
+At the entrance to the first large chamber, a pressure arrived. Behind the sternum. Not painful. Three syllables, or the shape of three syllables — not heard but known, a communication that bypassed the ear entirely. The question: what do you want.
+
+I have since understood that this question is not symbolic. It is not metaphorical. It extracts, with surgical precision, the desire most fundamental to each person present. It does not ask what you want today, or what you have been told to want, or what you want others to believe you want. It finds the thing underneath.
+
+We all answered. Simultaneously. I know this because the Designations came simultaneously, and what happened next happened to all of us at once.
+
+What I wanted was to understand. I did not know I wanted this until the question found it. I thought I wanted to complete the assignment. That was the surface. Underneath: I have spent nine years recording things I did not understand, and the not-understanding has accumulated into something that resembles desperation, if I am honest, and I am trying to be honest, because the cost of dishonesty in this document is that future readers will not know what to prepare for.
+
+```stat-screen
+  DESIGNATION ASSIGNED — 5 SIMULTANEOUS ENTRANTS
+
+  ─────────────────────────────────────────────────────
+
+  ENTRANT 1: Sera Vant
+  DESIGNATION: The Warden
+    Gift: Arsenal Manifestation — materialize any weapon
+    ever trained with, at peak proficiency. Permanent.
+    Cost: Tunnel Doctrine — can only perceive threats.
+    Allies, food, exits, rest: invisible and inaudible.
+  You are the perfect fighter.
+  You cannot see the people you are fighting for.
+  Warden #19. Weapons in repertoire: 14.
+  Current invisible allies: 4. You cannot read this number.
+
+  ─────────────────────────────────────────────────────
+
+  ENTRANT 2: Dara Hess
+  DESIGNATION: The Compass
+    Gift: True Path — perfect real-time knowledge of
+    the shortest route to the dungeon's exit.
+    Cost: Forward Only — can only move toward the exit.
+    Cannot stop, retreat, or deviate.
+  You walk the perfect path.
+  The perfect path walks through everything.
+  Compass #15. Distance to exit: 4.7 km.
+  Estimated hostiles on path: 31. Survival: 2.1%.
+
+  ─────────────────────────────────────────────────────
+
+  ENTRANT 3: Bren Aldic
+  DESIGNATION: The Bulwark
+    Gift: Aegis Shell — impenetrable kinetic barrier
+    around any living creature within 3 meters.
+    Cost: Unshielded Alone — personal damage resistance
+    drops to zero when no ally is within 3 meters.
+  You will die alone.
+  Bulwark #7. Average survival: 4.2 hours.
+  All seven died alone.
+
+  ─────────────────────────────────────────────────────
+
+  ENTRANT 4: Orvyn Thel (this scribe)
+  DESIGNATION: The Scribe
+    Gift: Deep Reading — perfectly read Death Inscriptions,
+    decode Ledger data, understand the Maw's rules.
+    Cost: Borrowed Grief — knowledge carries the full
+    emotional weight of its source. Fused. Cumulative.
+  You understand everything, including how you will die.
+  You cannot stop it.
+  Scribe #4. Your Gift will allow you to read this
+  note's subtext. You already know what it means.
+
+  ─────────────────────────────────────────────────────
+
+  ENTRANT 5: Mira Doss
+  DESIGNATION: The Mender
+    Gift: Living Suture — heal any wound, cure any
+    poison, mend any break. Works on others only.
+    Cost: Sympathetic Wounds — each healing transfers
+    as phantom pain at 50% intensity. Cumulative.
+  You heal everyone until the pain cripples you.
+  Then no one can heal you.
+  Mender #9. Cumulative pain threshold before motor
+  impairment: approximately 14 moderate healings.
+  Plan accordingly. Previous Menders did not.
+
+  ─────────────────────────────────────────────────────
+
+  Average party survival rate: 0%.
+  Note: sample size: 1.
+```
+
+Entry 3. 10:47.
+
+I will note the tactical situation first, because I was ordered to produce a tactical document.
+
+Tactical situation: Captain Vant cannot see any of us. She can see threats. She knows we are here because we told her, and she accepted this intellectually, but she cannot hear us speak unless we are screaming about a threat, and she cannot see us move unless we are moving toward a threat. Scout Hess is already moving — she cannot stop. She is walking at a measured pace toward the exit, which means she is walking deeper, which means she will continue until she hits the exit or the path kills her, whichever comes first. Corporal Aldic is maintaining close contact with Surgeon-Corporal Doss and myself, which activates his barrier — we can see the shimmer of it around us when I look. This is, I note for the record, comforting.
+
+The personal situation: I read the Designation screens. All of them. Mine last. The subtext my Gift allows me to read from the Ledger note is simple and I will not write it here. I have numbered this journal for precision. I am aware the number of entries remaining is finite.
+
+Entry 4. 10:53.
+
+The first chamber. I have read accounts of the entrance — enough had survived partial penetrations before our expedition that a crude map existed. The accounts said nothing about the garden.
+
+A barley garden. Growing from stone. Amber light pulsing from below the root system. In the center of the garden, incorporated into the floor: a human body. Male. Older. His hands are fused to the stone, his legs subsumed by pale woody growth continuous with the root system. His face is peaceful.
+
+On the wall behind him, two inscriptions.
+
+I will transcribe them here and then explain what happened when I read them, because the explanation is relevant to understanding the cost of my Designation.
+
+First inscription: *Tell Maren I should have brought the water.*
+
+Second inscription: *Someone was here. I think I loved them.*
+
+The handwriting of the first is careful. Measured. The handwriting of a man who was still himself when he wrote it. The handwriting of the second is quick and sharp and the letters have the quality of something that was racing against an erasure — you can see, in the pressure on certain letters, where the pen pressed harder because the hand knew it was running out of time to press at all.
+
+When I read them, I received the grief of each. Not as metaphor. As experience. The cost of Deep Reading is Borrowed Grief, and the grief arrived as stated: fused with the knowledge. I read *Tell Maren I should have brought the water* and I felt what the man in the floor had felt when he wrote it — not the full weight of his life with her, but the specific, particular weight of a small failure at the end, the kind of failure that is actually about thirty years of love and only appears to be about water. I felt the shape of the person named Maren as this man had understood her: the way she said things, the way she stood, the specific combination of tenderness and practicality that had made her the gravity at the center of his life.
+
+And then I read the second inscription, and I felt what the writer of that one had felt: reaching for a name and finding absence. The shape of a person she loved, held inside her chest like a cup still warm from something poured into it an hour ago, the thing itself gone, only the warmth remaining. She had loved this man in the floor. She had come looking for him. The dungeon had taken the name.
+
+I describe this because it is important to the record. I stood with my hand against the wall for some time. Corporal Aldic was sitting with the old dog. There is an old dog here — liver-spotted, very old, incorporated into the garden similarly to the body at its center but still alive, still watching. The Corporal fed it from his rations and said nothing. He is not a man who says things. He sat with the dog for three minutes by my count and then stood and checked the ropes we would need at the gap.
+
+There is a third inscription, which I will record presently. I will note for the record that I read the garden's wall three times and described the barley in this journal twice. I have reviewed my previous entry and confirmed that I described the barley in paragraph two and again in paragraph four. I am including this observation in the document because I think it is relevant. I do not know to what.
+
+Entry 5. 10:59.
+
+Also in the first chamber: a leather tool roll, lying open on a stone outcropping. A glassblower's tools. Pontil, jacks, tweezers. They are old and used. They did not come with any of the bodies.
+
+Surgeon-Corporal Doss recognized them immediately — her mother was a glassblower. She did not say this. She stood looking at the tools for a moment with an expression I recognized from field medicine: the face that means you have identified a cause of death and the identification is not comfortable. Then she moved on.
+
+Captain Vant had moved through the chamber. She had noted the body tactically — potential hazard, assess for movement — and proceeded without stopping. She could not read the inscriptions. She cannot read anything that is not a threat. I watched her pass the wall without slowing and felt something I do not have precise language for. The closest is: I watched someone miss a warning addressed specifically to her, and I could not make her hear it.
+
+Entry 6. 11:22.
+
+Third inscription, which I promised to record presently and am now recording:
+
+*It was beautiful. All of it. Even this.*
+
+This one is different from the others. The handwriting is young — not in age necessarily, but in quality. A person who writes with care and precision, a craftsperson's hand, but who wrote this quickly, at the end. The hand is damaged. You can see it in the pressure variability — the writer's grip was failing.
+
+When I read it, I received transcendence.
+
+I am writing this down because it is the accurate word and accuracy is the job. I received the emotional content of the third inscription, which was transcendence: the specific quality of experience that exceeds its category. Not joy. Not awe. The feeling when something you have been reaching toward resolves into completion, and the completion is larger than the reaching. I felt it for approximately four seconds. Then it passed.
+
+I sat on the floor of the first chamber and wrote the word *transcendence* in my journal and then sat looking at it for some time.
+
+I am writing to you, Lord Aldric. I am still writing to you. I want you to have understood something by the time you finish this document, and I am increasingly uncertain that the thing I want you to have understood is the thing you sent me to document. Bear with me. I will continue to produce the tactical record. I simply want to note that the tactical record is not the whole document.
+
+---
+
+Entry 7. 11:41.
+
+The gap.
+
+Approximately two hundred meters past the garden, the floor opens. A chasm, approximately four meters wide, running perpendicular to the passage. The drop: significant. Not visible to the bottom in the available light. The far side of the gap continues the passage toward deeper levels. There is no apparent bridge.
+
+Captain Vant had already crossed by the time we arrived. I do not know how. She must have found something — handholds in the walls, a narrowing point further along — because Tunnel Doctrine allows her to perceive the gap as a threat, and she is resourceful with threats. She was ahead of us and invisible in the dark beyond.
+
+The Corporal rigged ropes. He is efficient at this. I watched him work with the economical movements of someone for whom rope-work is a reflex — not thought-through, just done. He tested the anchors. He crossed first, which surprised me, and then I understood: he can only maintain his shield while within range of an ally. He crossed to have someone to protect. Scout Hess was already gone; she had passed the gap at a walking pace at a narrowing point fifteen meters to the left, following her path, not slowing.
+
+The Surgeon-Corporal and I crossed. The ropes held.
+
+The Corporal crossed last.
+
+I was watching when the rope failed. It did not break — the anchor pulled free, a section of stone that looked load-bearing but had a fault in it I could not have seen. He fell. He fell past me because I was still near the edge and for a moment we were looking at each other, and in that moment his Gift was active because I was within three meters, and the Aegis Shell absorbed the kinetic impact of the fall — but I was above him, and he landed below, on the wrong side of the gap, alone.
+

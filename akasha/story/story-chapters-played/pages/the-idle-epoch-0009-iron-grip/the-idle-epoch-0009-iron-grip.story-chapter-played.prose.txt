@@ -1,0 +1,167 @@
+The knock came at dawn, and it sounded like authority.
+
+Not a fist against wood -- a gauntleted hand, three measured strikes against the warehouse's loading door, the rhythm of someone who had knocked on a thousand doors and expected every one to open. The sound rang through the stamping plant like a hammer on an anvil, cutting through the hum of three automation threads and the quiet scratch of Callum's pen on paper.
+
+He'd been awake for an hour, cross-referencing overnight idle reports against the compound loop's projected yield curve. The numbers were beautiful. Essence income had hit 8,600 overnight, up from 8,200 the day before, and the acceleration was steepening in exactly the way his models predicted. The Enhancement Construct's feedback cycle was tightening with every iteration, each loop shaving fractions off the next, the whole system converging on a rhythm that felt less like machinery and more like breathing.
+
+Three more knocks. Same cadence. Patient.
+
+"Cal." Mira's voice came through the workshop's interior door, low and tight. She'd been on perimeter patrol since four AM -- a habit she'd adopted two days after the Broker's warning, without being asked. "We've got company. Four Vanguard heavies and a sergeant. Full gear."
+
+Callum set down his pen. His hand was steady, but something cold moved through his chest -- not quite fear, not quite surprise. The feeling of a variable he'd modeled turning concrete.
+
+*Iron Vanguard. Inspection or intimidation. Probably both.*
+
+He closed his field notebook and slid it beneath the cot's thin mattress. Not because it contained anything illegal. Because the equations inside represented something he wasn't ready to have cataloged.
+
+"Jin," he said, louder. Across the warehouse, a camp cot creaked. Jin had moved in two days ago, ostensibly to optimize the summon-construct relay timing, actually because his previous squat near the Rustbelt Flats had developed a roof leak and Callum's warehouse had a working coffee setup. The kid slept like he coded -- in bursts and crashes, surrounded by a nest of handwritten notes.
+
+"Mmph." Jin surfaced from a U of M hoodie pulled over his head. "Wha?"
+
+"Get dressed. We have visitors."
+
+Jin blinked, processed, and his face went pale. "Vanguard?"
+
+"Mira's count says four plus a sergeant."
+
+"Oh no. Oh no no no." Jin was already scrambling for his boots, one hand reaching for his talisman -- the gutted TI-84 that served as his summoning focus. "Should I -- do I dismiss my summons? If they're running in the Shardfield right now and the Vanguard sees the patrol radius overlap with their --"
+
+"Leave them running. If we pull them back now, it looks like we're hiding something. We're not hiding anything."
+
+"We're a little bit hiding something," Jin said, very quietly.
+
+Callum met his eyes. "We're not hiding anything," he repeated. "Get dressed."
+
+He walked to the loading door and pulled it open.
+
+---
+
+Sergeant Tomas Bray stood in the gray morning light with the posture of a man who had been standing at attention for so long it had become his default shape. Broad-shouldered, thick through the chest, wearing Guardian-class plate armor that gleamed dull silver in the predawn haze. Level 35, if the gear quality was any indication. Behind him, four Iron Vanguard soldiers in full combat loadout: two with swords and tower shields, one with a polearm, one with a crossbow that hummed with stored Flux. All of them at least Level 25.
+
+The combined threat they represented was not subtle. It didn't need to be.
+
+"Callum Voss?" Bray's voice was professional. Not hostile. The kind of tone used by people who had authority and didn't need to prove it.
+
+"That's me."
+
+Bray produced a folded document from a belt pouch and offered it with the economy of someone who had done this many times. "Compact Security Directive 4-17. Authorization for inspection of construct operations within the Foundry District. I'll need access to your workshop, your construct array, and any deployed automation assets within the district's operational radius."
+
+Callum took the document. He scanned it -- the language was bureaucratic, the formatting official-looking, the authority cited was the Detroit Compact's "Resource Security Council." He was fairly certain the Resource Security Council had been formed sometime in the last week and consisted of whoever Drake Morrison told it consisted of.
+
+The legality was questionable. The four armed fighters behind Bray made the legality irrelevant.
+
+"Come in," Callum said, and stepped aside.
+
+Bray entered the warehouse with the methodical awareness of someone trained to assess threats in enclosed spaces. His eyes moved in a practiced sweep: walls, ceiling, exits, then the three active constructs humming in their anchor positions. The pale luminescence of the compound loop painted the air between them in threads of gold and green and blue, a cat's cradle of automated productivity that most people would find unremarkable.
+
+Bray did not find it unremarkable. His gaze lingered on the threads -- specifically on the Enhancement Construct's feedback channel, where the loop doubled back on itself in a tight spiral of self-reinforcing output. His jaw tightened, just slightly, the way a man's jaw tightens when he sees something he was hoping not to find.
+
+"This is the full array?" he asked.
+
+"Four active constructs." Callum gestured toward the Mk.V Sentinel's anchor point, where the combat construct's patrol thread pulsed in a steady amber loop. "Combat, gathering, processing, and a feedback unit. Standard compound configuration."
+
+"Standard." Bray repeated the word as though testing whether it fit. It didn't. He knew it didn't. "We'll need to catalog each unit. Loop configurations, resource flows, storage capacity." He glanced at the Flux Capacitor Mk.III on Callum's belt. "Including that."
+
+"Understood."
+
+Mira stood by the interior door, arms crossed, her Fracture-Tooth Saber sheathed at her hip but her hand resting on the pommel with the casual readiness of someone who could draw in a quarter-second. The four Vanguard soldiers noticed her. All of them noticed her. One of the shieldbearers straightened almost imperceptibly.
+
+Bray noticed too. "Vasquez." A note of surprise beneath the professional tone. "Didn't expect to see you here."
+
+"Morning, Sergeant." Mira's voice was even. Her eyes were not.
+
+"You're... affiliated with this operation?"
+
+"I'm standing in this warehouse. You can draw your own conclusions."
+
+Something passed across Bray's face -- not judgment, exactly. Something closer to recalculation. Mira Vasquez was known in the Detroit Barrier Zone. Known and respected, even by the Vanguard. Her presence here was not part of whatever briefing Bray had received, and it complicated his mental model.
+
+Good. Callum had not asked Mira to complicate the model. She was doing it because she was Mira.
+
+"The inspection," Callum said, redirecting. "Where do you want to start?"
+
+---
+
+They started with the Mk.V Sentinel and worked their way through every construct in the warehouse.
+
+Bray was thorough. He was also, Callum realized over the next ninety minutes, competent in ways that most active-combat players were not. He understood construct architecture. He asked precise questions about Flux draw rates, kill efficiency metrics, and thread synchronization timing -- questions that revealed a working knowledge of idle systems despite the Iron Vanguard's official disdain for them. Callum answered each one accurately and completely. He had nothing illegal, nothing restricted, nothing that violated any existing Compact regulation.
+
+But accuracy and completeness served a second purpose: they let Callum study what Bray paid attention to.
+
+Bray lingered on the Enhancement Construct.
+
+"Walk me through this one," he said, standing before the feedback array, the blue-gold light of the self-reinforcing loop playing across his armor.
+
+Callum explained the basic function -- how the Enhancement Construct took a fraction of the Refinery's processed output and fed it back into the other constructs as incremental upgrades. He kept the explanation simple. Accurate, but simple. He did not mention compound growth rates. He did not mention the feedback function's acceleration curve. He did not mention that this single construct was the reason his output had doubled twice in three days.
+
+Bray listened. Then he said, quietly enough that the soldiers behind him wouldn't catch it: "You're generating more than a ten-man farming squad." His eyes moved from the Enhancement Construct to Callum's face. "The Commander noticed."
+
+It was both a compliment and a threat, delivered with the weary precision of a man who understood that he was the instrument of someone else's anxiety.
+
+"The inspection requires a safety verification of all active constructs," Bray continued, louder now, official again. "All automation loops must be paused during verification. Standard procedure."
+
+Callum felt it before the words fully registered -- a cold drop in his stomach, the physical sensation of a clock stopping.
+
+"How long?"
+
+"Verification takes approximately fourteen hours."
+
+Fourteen hours. Callum's mind converted the number instantly, automatically, the way his mind converted everything: fourteen hours of compound loop downtime. His Compound Growth bonus -- the accumulated dividend of continuous, unbroken operation, currently at +31% -- would reset to zero. Every hour the Enhancement Construct ran without interruption, the bonus ticked up. Every interruption dropped it back to baseline. It was the single most valuable metric in his operation, and it was about to evaporate.
+
++31%. Gone.
+
+The math bloomed in his head with the clarity of pain. Thirty-one percent compound bonus, accumulated over days of continuous operation. Fourteen hours of lost generation time. At current rates, the lost output alone was worth roughly 5,000 Essence. But the real cost was the recovery time -- it would take thirty-one hours of unbroken operation to rebuild the bonus from zero. Total effective loss: forty-five hours of optimal productivity. Nearly two days of compounding, erased.
+
+He did not let any of this show on his face. Years of factory floor management had taught him the precise art of looking exactly as affected as the situation required and not one degree more.
+
+"Understood," he said. "I'll initiate construct standby."
+
+He gave the command through his System interface. The constructs powered down in sequence -- the Sentinel first, its combat loop fading to a dull amber glow, then the Scrap Collector's crawling presence going still somewhere in the ruins north of the warehouse, then the Refinery's rhythmic hum dropping to silence. The Enhancement Construct was last. He watched its feedback spiral unwind, the self-reinforcing loop loosening, slowing, dissolving into scattered motes of light that settled on the Flux core like dust.
+
+```stat-screen
+--------------------------------------
+  COMPOUND LOOP STATUS: SUSPENDED
+
+  Active Constructs: 0 / 4
+  Compound Growth Bonus: RESETTING...
+
+  +31% bonus lost.
+  Recovery time to +31%: ~31 hours
+
+  Estimated total productivity
+  loss: 45 hours effective output
+--------------------------------------
+```
+
+The warehouse went quiet. Not silent -- the ambient hum of the Essence Ley beneath the foundation was always there, a low, mineral vibration in the floor. But the living rhythm of the compound loop, the sound Callum had been sleeping beside for weeks, was gone. The absence was physical.
+
+On his shoulder, Pip flickered once and dimmed. Even the familiar seemed diminished by the sudden emptiness.
+
+Bray and his team spent the next two hours cataloging. They measured Flux output ratings. They recorded construct core serial numbers, if such a thing could be said to exist for Substrate-generated objects. They examined the Mk.V Sentinel at its anchor point, the crossbow-wielding soldier scanning it with what looked like a Vanguard-issue analysis tool. They were professional. They were not cruel. They were doing their job.
+
+Jin sat on his camp cot throughout the inspection, hands gripping his knees, Pixel the scout familiar curled tight against his ankle in a ball of blue light. He didn't speak. His silence was louder than anything he could have said -- Jin Park, who could fill any room with words at 1.5x speed, sitting mute and rigid while armed soldiers cataloged things he'd helped build. When Bray asked him about his summons in the Shardfield, Jin answered in clipped, accurate sentences. Yes, two elementals and a scout. Yes, running idle patrol routes. Yes, within the permitted zone boundary. No, not affiliated with any guild.
+
+His hands didn't stop shaking until the soldiers turned away.
+
+---
+
+When the catalog was complete, Bray delivered the message.
+
+He stood in the center of the warehouse, the four soldiers behind him in a loose formation that was not quite a combat stance and not quite casual. He held a second document -- thicker, printed on Compact-stamped paper that smelled of Flux ink and fresh bureaucracy.
+
+"Effective immediately," Bray said, reading from the document with the precision of someone who had been told the words mattered, "all unaffiliated construct operators within the Detroit Compact's jurisdiction are required to register with the Compact Resource Security Council. Registration entails quarterly output audits and a supplementary Residuum contribution of ten percent above the existing Barrier maintenance tax."
+
+The words settled into the warehouse like stones into still water.
+
+Ten percent. Above the existing tax. On top of the twenty percent surcharge for unaffiliated players that had already been implemented. Callum ran the arithmetic without thinking: his current Residuum contribution was already strained. An additional ten percent on construct output would eat into his operating margin badly enough to delay his timeline by weeks. Not a death blow. Economic strangulation, administered in increments too small to justify rebellion and too large to ignore.
+
+"Non-compliance," Bray continued, "will result in restricted zone access for all registered constructs. Specifically, access to the Overgrowth and Rustbelt Flats zones will be suspended pending compliance review."
+
+There it was. The real threat, buried in the bureaucratic language like a blade in a silk glove. Without the Overgrowth and Rustbelt Flats, his compound loop starved. The Gathering Construct had no zone to gather in. The Grinder had no mobs to farm. The entire feedback system would collapse not from a direct attack but from the simple, elegant withdrawal of the resources it needed to function.
+
+Drake Morrison was not stupid. Drake Morrison understood systems, even if he despised the people who built them.
+
+Callum took the registration form from Bray's outstretched hand. The paper was heavy, official, warm from Bray's gauntlet.
+
+"Thank you, Sergeant," he said. His voice was perfectly level.
+

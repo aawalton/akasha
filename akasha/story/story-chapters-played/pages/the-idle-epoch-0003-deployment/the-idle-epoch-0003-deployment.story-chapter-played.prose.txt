@@ -1,0 +1,191 @@
+The Mk.V Sentinel opened its eyes -- two pinpricks of crystallized Flux set into a face of welded auto parts -- and Callum felt the fourth construct slot in his interface light up like a new nerve ending.
+
+He held his breath. The construct stood a meter tall on legs made from suspension struts, its torso an engine block casing stuffed with Flux-infused circuitry. The arms were mismatched -- one fashioned from a drive shaft, the other from stacked brake calipers -- and each terminated in a crude hand capable of gripping the short iron bar it would use as a weapon. It was, by any objective standard, ugly.
+
+It was also the most sophisticated thing he had ever built.
+
+Callum pulled up the diagnostic overlay and let the data wash across his vision.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  CONSTRUCT ACTIVATED                 │
+│  Mk.V Sentinel                      │
+│  Type: Combat | Slot: 4 of 4        │
+│  Target Zone: Overgrowth (Tier 2)   │
+│  Effective Range: Level 10-15       │
+├─────────────────────────────────────┤
+│  Integrity: 100%                     │
+│  Flux Drain: 55 Flux/hr             │
+│  Script Engine: Active               │
+│  Instructions Loaded: 5 of 29       │
+│  Conditional Branches: 3            │
+├─────────────────────────────────────┤
+│  Combat Script:                      │
+│  IF target HP > 50%: basic loop     │
+│  IF target HP < 50%: heavy strike   │
+│  IF own integrity < 30%: retreat    │
+│    to repair radius                  │
+│  ELSE: patrol(route_overgrowth_01) │
+│  RELAY: Scrap Collector (loot)      │
+└─────────────────────────────────────┘
+```
+
+Five instructions. Three conditional branches. A patrol route, a loot relay, and a retreat threshold. He had spent two days writing those five lines, testing them against simulated mob patterns extrapolated from the Mk.IV Grinder's kill data. The Script Engine only gave him five lines at Level 1, and every character of every line had to count.
+
+*Not elegant. But functional.*
+
+He said it aloud, testing the words in the warehouse's quiet. Pip flickered on his shoulder -- a faint pulse of cursor-light that might have been acknowledgment or might have been a rendering glitch.
+
+"Not elegant," Callum repeated. "But functional."
+
+The Sentinel's eyes tracked to his face, registered him as a non-hostile, and then panned away, scanning the perimeter of the warehouse. The construct's head movements were jerky, mechanical -- nothing like the fluid combat awareness of a human fighter. But it did not need to be human. It needed to be consistent. It needed to be tireless. It needed to swing an iron bar at vine constrictors for twenty-four hours a day without getting bored, without getting scared, without wondering if there was something better it could be doing with its time.
+
+Callum understood the appeal.
+
+He slotted the last Flux Capacitor into the Sentinel's chest cavity, felt the construct's energy signature stabilize, and said, "Go."
+
+The Mk.V Sentinel walked out of the warehouse on stiff suspension-strut legs, heading south toward the Overgrowth boundary. It did not look back. It was not designed to.
+
+---
+
+The Overgrowth began where the suburban sprawl of Detroit's southern edge surrendered to something older and stranger. The tree line was wrong -- too tall, too dense, the canopy layered three deep with growth that had no business existing in Michigan in winter. Bioluminescent moss clung to every surface, painting the understory in shifting blues and greens. The air was warm and thick with spores, like breathing through wet velvet.
+
+Callum stood at the boundary, his field notebook open, and watched the Mk.V through Loop Sight.
+
+The skill overlaid his normal vision with a ghostly schematic: the Sentinel's patrol route rendered as a pale blue line threading between spawn points, its current position a pulsing dot, its script state visible as a column of floating text beside it. He could see the construct's decision tree firing in real time -- each IF/THEN branch lighting up gold when triggered, dimming when passed over.
+
+The first encounter came four minutes into the patrol.
+
+Two vine constrictors, Level 10 and 11, coiled around the base of an oak tree that had tripled in girth since the Emergence. The Mk.V's Auto-Target flagged them. The decision tree evaluated: *target HP > 50%. Basic loop.*
+
+The Sentinel advanced with mechanical precision, iron bar raised. The first constrictor uncoiled and lunged. The Mk.V sidestepped -- barely, clumsily, the dodge more a product of programmed offset timing than any real agility -- and brought the bar down on the monster's midsection. The hit connected. The constrictor's HP bar dropped by a thin sliver.
+
+*Damage output: approximately 15 per strike. Kill time at this rate: forty-two seconds per mob.*
+
+It was slow. Agonizingly slow by any active player's standard. Callum watched a vine constrictor wrap itself around the Sentinel's left arm and squeeze, cracking the brake-caliper plating, and felt a distant twinge of anxiety -- the construct's integrity dropped from 100% to 94%. But the retreat threshold was 30%. The Sentinel ignored the damage and kept swinging. The constrictor died eleven seconds later, dissolving into a scatter of Essence motes that the Scrap Collector relay siphoned away.
+
+The second constrictor took thirty-eight seconds. The Sentinel's integrity sat at 87%. Not elegant.
+
+Functional.
+
+Callum wrote in his notebook: *Kill 1-2. VCs L10-11. Time: 42s, 38s. Integrity loss: 13%. Essence gain: ~24 total. Scrap relay nominal. Script branches: 2/3 triggered (basic loop, retreat not needed). Notes: heavy strike branch untested. Need L12+ mob to trigger.*
+
+He watched the next cycle. And the next. And the next.
+
+The Mk.V Sentinel killed vine constrictors with the tireless consistency of a machine that did not know it was boring. Each kill deposited 10-14 Essence into Callum's accumulator via relay, depending on the mob's level. At two to three kills per eight-minute cycle, running continuously, the construct would generate roughly 850 Essence per day. He ran the math three times, adjusting for downtime during integrity-recovery periods, and arrived at 847 Essence per day as his conservative estimate.
+
+He added that to his existing daily Essence income from the Mk.IV Grinder, the Scrap Collector's processing bonus, and the Essence Ley's passive contribution.
+
+The total crossed a line he had been watching for weeks.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  DAILY ESSENCE PROJECTION           │
+│  (Updated)                           │
+├─────────────────────────────────────┤
+│  Mk.IV Grinder:        ~620/day    │
+│  Mk.V Sentinel:        ~847/day    │
+│  Scrap Collector:       ~180/day    │
+│  Refinery (processing): ~115/day    │
+│  Essence Ley (passive):  ~640/day   │
+│                                      │
+│  TOTAL:               ~2,402/day    │
+│  Previous total:      ~1,555/day    │
+│  Change:              +54.5%        │
+├─────────────────────────────────────┤
+│  Time to Level 13:     ~1.2 days   │
+│  Time to Level 14:     ~3.7 days   │
+│  Time to Level 15:     ~7.1 days   │
+└─────────────────────────────────────┘
+```
+
+Callum stared at the projection for a long time. His heart did something quiet and warm in his chest -- the feeling he got when a bottleneck cleared and the numbers started to move.
+
+*Faster. Everything is faster now.*
+
+He closed the projection and leaned against a half-collapsed concrete wall at the Overgrowth boundary, watching the Sentinel's blue dot trace its patrol route. In the distance, through the bioluminescent haze, he could see the faint flash of the construct's iron bar catching light as it struck something. Again. And again. And again.
+
+Pip pulsed on his shoulder.
+
+"Yeah," Callum said. "I know."
+
+---
+
+The level-up notification found him fourteen hours later, sitting on his warehouse cot with a protein bar in one hand and his field notebook in the other. The Sentinel had been running continuously since deployment, and the Mk.IV Grinder had stacked a Compound Growth bonus of +14% in the interim. The combined throughput pushed him over the threshold at 3:17 AM.
+
+The notification was not gentle.
+
+```stat-screen
+══════════════════════════════════════
+  LEVEL UP! 12 → 13
+  +5 Stat Points Available
+  +3 Skill Points Available
+══════════════════════════════════════
+```
+
+Warmth flooded through him -- the Substrate's acknowledgment, that frictionless rush of potential reorganizing itself inside his body. His vision sharpened. His thoughts cleared. The persistent low-grade headache he had been ignoring for three days vanished like someone had flipped a switch.
+
+He sat on the cot and breathed through it, waiting for the rush to settle into something he could think around. Level 13. It had taken him nine days to get from 11 to 12, and the Mk.V had cut the gap between 12 and 13 to less than a day and a half. The curve was steepening.
+
+He allocated stat points with the deliberation of someone placing components on a circuit board.
+
+*+2 INT. Takes me to 51. Raises Script Complexity to 30.5 instructions -- that half-instruction won't matter until Script Engine Level 2, but it is ready for it.*
+
+*+2 WIS. Takes me to 54. Idle Yield Multiplier goes from 2.04x to 2.08x. Four hundredths of a multiplier. Trivial in isolation. Multiplicative with everything else.*
+
+*+1 WIL. Takes me to 29. Session Duration goes from 9.6 to 9.8 hours. Marginal. But the Compound Growth stacking from longer sessions scales non-linearly, so the effective gain is higher than 0.2 hours.*
+
+```stat-screen
+╔══════════════════════════════════════╗
+║  CALLUM VOSS                         ║
+║  Class: Loopweaver    | Level: 13    ║
+║  Prestige: 0 (Awakened)              ║
+║  Automation Tier: 3                  ║
+╠══════════════════════════════════════╣
+║  STR:  14          AGI:  15          ║
+║  VIT:  18          INT:  51  (+2)    ║
+║  WIS:  54  (+2)    PER:  16          ║
+║  WIL:  29  (+1)    LCK:  13         ║
+╠══════════════════════════════════════╣
+║  HP:  331/331      MP:  708/708      ║
+║  Stamina: 182/182                    ║
+╠══════════════════════════════════════╣
+║  Script Complexity: 30.5             ║
+║  Idle Yield Mult: 2.08x             ║
+║  Session Duration: 9.8 hrs           ║
+╠══════════════════════════════════════╣
+║  Unallocated Stat Points: 0         ║
+║  Unallocated Skill Points: 5        ║
+╚══════════════════════════════════════╝
+```
+
+Five unallocated skill points. Two from before, three new. He could feel them in his interface like coins in his pocket, heavy with potential. Script Engine Level 2 cost four skill points and fifteen Chrono Dust. It would give him ten-line scripts, variables, and nested conditions. It would let him write automation that actually *thought*, instead of the crude if/then branching the Mk.V currently ran.
+
+He did not spend them. Not yet. He wrote the allocation rationale in his notebook, circled the time-to-Level-14 projection, and lay back on the cot.
+
+*Three point seven days. Then seven point one to fifteen. The Enhancement Construct is still at 75% -- I need Bloom Crystals, and those cost gold I do not have yet. But the Mk.V is already generating sellable Overgrowth materials via the Scrap Collector relay. If I redirect 30% of material output to the Exchange--*
+
+He stopped the thought. It was 3:22 AM. He was calculating resource allocation at 3:22 AM because the number had gone up and his brain would not stop trying to make it go up faster.
+
+*Sleep is a valid optimization. Callum. Sleep.*
+
+He closed his eyes. Pip dimmed on the workbench beside him, managing the third thread in silence. The Mk.V Sentinel continued its patrol in the Overgrowth. The Mk.IV Grinder swung at corrupted raccoons in the Rustbelt Flats. The Scrap Collector harvested. The Refinery processed.
+
+The loop ran.
+
+---
+
+He found Mira Vasquez by following the sound of something dying.
+
+It was late afternoon, the day after his level-up. Callum had walked to the Overgrowth boundary to run a manual diagnostic on the Mk.V -- the construct's efficiency had dipped by 2.3% overnight, which could mean worn-down weapon integrity, a patrol route obstruction, or something as simple as a spawn pattern shift. The kind of thing a good engineer checked in person.
+
+He was skirting the patrol edge, where the bioluminescent undergrowth thinned enough to see the sky, when the sounds reached him. Not the grinding, mechanical rhythm of his construct fighting. Something faster. Sharper. The ring of metal on something that was not metal, punctuated by wet impacts and the snarling cough of creatures he recognized from the Mk.V's kill logs.
+
+Spore wolves. A pack, by the sound of it.
+
+Callum stopped walking. His Danger Sense -- Level 3, barely useful, the threat-detection equivalent of a smoke detector with low batteries -- tingled at the base of his skull. Not a warning about him specifically. A proximity alert. Something violent was happening within fifty meters.
+
+*Options. One: turn around. The diagnostic can wait. Two: approach carefully, assess, decide.*
+
+He chose two, because the spore wolves were between him and the Mk.V Sentinel's current position, and he needed to know if the patrol route was compromised.
+

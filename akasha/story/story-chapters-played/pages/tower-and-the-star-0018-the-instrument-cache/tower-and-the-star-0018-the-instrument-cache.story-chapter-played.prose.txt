@@ -1,0 +1,203 @@
+The Ascent Gate from Floor 17 set them down into a corridor.
+
+Narrow. Wet stone walls, the surface dark with moisture that had been there long enough to feel permanent rather than recent. The air tasted like mineral water and something older — the deep-floor quality, the way the Tower started to smell like the earth it had displaced when you got high enough. Water moved under the stone. Solenne could hear it before she saw anything: a low, continuous sound coming from below the floor surface, not loud, the specific sound of something that had been running for a long time and didn't need to be noticed.
+
+She had Terrain Read active before the corridor resolved. The floor extended ahead and branched — channels running parallel to the main path, cut into the stone at floor level, wide enough that something could move through them. Deep enough that she couldn't see the bottom.
+
+"Floor 18," Tomás said. He had his hand map out. He was not looking at the channels the way someone looked at a threat — he was looking at them the way he looked at sightlines. "The channels run the full floor length. Branch points every forty meters."
+
+Dayo was already at combat stance. Not the waiting-for-a-fight stance — the stand she took when she was reading a space and didn't like what it was telling her. "Tell me the channels are too narrow for anything that matters."
+
+"I can't," Tomás said.
+
+Dayo looked at the nearest channel. Looked at Miriam. Looked back at the channel. "Okay."
+
+Miriam's hand went briefly to the Warden's Grove Focus — not checking it, just the gesture of someone orienting through touch. She hadn't explained it and no one had asked.
+
+"Formation question," Solenne said. "We don't know what comes out of the channels or when. We know it can come from any point along the floor."
+
+"Can't maintain full perimeter coverage," Tomás said. "Too many branch points."
+
+"So we move fast and tight," Dayo said. "Keep Miriam in center."
+
+"I don't need to be in center," Miriam said.
+
+"I know," Dayo said. "You're going in center."
+
+It wasn't said unkindly. Miriam looked at her for a moment and then let it go in the way she was learning to let certain things go — the assessment running fast and reaching the conclusion that this was one of those situations where Dayo's read was the correct one and her own objection was a matter of professional instinct, not professional necessity.
+
+They moved.
+
+---
+
+Behind them, at the Gate, Nadia had not said anything since she stepped through.
+
+This was not the absence of Nadia. She was there — she had checked her equipment, she had clocked the channels the same way everyone had, she had taken her position without needing to be placed in it. She was operating precisely as she always operated and something in the register of it was different. Not worse. Just — set at a different angle to the floor. Like she was carrying something carefully and the carrying required more of her than it would have yesterday.
+
+Solenne noticed because Solenne had been noticing things about Nadia for five floors.
+
+She did not note it in the notebook. She made the next call instead.
+
+"Spread to standard interval. Tomás, sound pattern on the channels — tell me if you hear anything shift."
+
+"Already running," Tomás said.
+
+---
+
+The first Lurker came from the left channel, forty meters in.
+
+No warning before the burst — or there was warning and it was too subtle, a change in the water-sound that Solenne's ears registered but her mind didn't file as threat before the shape was already airborne. Long body, dark-scaled, the color of wet stone. It hit the surface fast and reoriented toward Miriam before anyone had moved.
+
+The next two seconds were compressed.
+
+Dayo moved. Not running — a controlled Shield Rush that put her body between the Lurker and Miriam before it had covered half the distance. She took the impact at the shoulder, which was clearly where she'd intended to take it, and the Lurker recoiled and found itself facing the wrong person.
+
+Vesper had a vial open before she'd finished watching Dayo move.
+
+Nadia had gone quiet in the specific way she went quiet before action. Three seconds later there was a trap in the channel mouth the Lurker had come from — she'd placed it without announcing it, without pointing at it, and when a second Lurker came through the same channel thirty seconds later it hit the trap at full speed and came down hard. Nadia placed a second trap in the right-hand channel in the moment of stillness that followed.
+
+She had seen the second one coming.
+
+Solenne noted this in the margin of her Terrain Read — not as a note to herself, as a fact about the floor. Nadia had read the channel timing from the first Lurker's emergence pattern and extrapolated to the second channel. She had done it without saying anything about what she was doing.
+
+The first Lurker went down in forty seconds. Dayo, controlled, methodical, the Ironbreaker's natural ease with sustained pressure. Miriam was at her shoulder for the last eight seconds — Mending Touch going in at the moment Dayo's HP hit the threshold that Miriam had learned to read without looking at a display.
+
+```stat-screen
+[ENEMY DEFEATED]
+Deepscale Lurker — Ambush Encounter
+XP Awarded: 180 (distributed)
+
+Loot: Deepscale Hide x2 (Common)
+```
+
+"Two more channels between here and the node," Tomás said. He had not stopped mapping during the fight. "They're going to come from the same direction — the channels run downslope left to right. Emergence will be left-side biased."
+
+"You can read that from the water sound?" Nadia said.
+
+"From the floor angle," Tomás said. "And the sound."
+
+Nadia looked at him. "When did you start hearing the sound?"
+
+"Thirty seconds in."
+
+"I heard it at entry," she said. Not bragging — just noting it. The way she noted things she was doing more now. Tomás looked at her for a moment with the evaluative attention he brought to things that interested him and then he turned back to the map and made a notation.
+
+---
+
+The second encounter came from the left channel at the ninety-meter mark, as Tomás had predicted.
+
+Two Lurkers this time, the second emerging while the party was still repositioning from the first — a coordinated emergence pattern, not pack behavior but the ambush tactics of a creature that had evolved alongside the channel system it lived in. The problem was coverage. One in front of Dayo and one already past her left side, moving toward the center of the formation.
+
+Moving toward Miriam.
+
+Miriam cast.
+
+It was not the careful measured cast she used when she was managing her MP. It was the full deployment of Mending Touch on Dayo — who didn't need it yet, whose HP was still in the green — and the Conductor picked up the reason a half-second before Solenne consciously processed it: Miriam was drawing the second Lurker's attention onto herself — away from the quieter drain and onto the louder cast.
+
+She drew the aggro deliberately. She stepped into the threat.
+
+Dayo moved left and caught the second Lurker in a full Shield Rush before it reached her.
+
+Afterward, the fight resolved cleanly. Both Lurkers down, two minutes flat.
+
+Miriam was quiet.
+
+Through the Conductor, Solenne read her register — the Warmhearted signal that had been steady and warm since Floor 5, present in the same way the floor's ambient light was present. It was still there. It was dimmer. Not gone — but the specific quality of it, the warmth at the signal's edge, had gone down a degree from where it had been at the last rest node. A room cooling. Barely perceptible unless you knew what to listen for.
+
+Solenne knew what to listen for.
+
+She adjusted her next Terrain Read coverage to overlap the zone Miriam had been holding. Reduced the corner she was asking Miriam to cover by fifteen degrees. Miriam didn't notice. The adjustment was inside the margin of natural formation drift — it looked like Solenne responding to the floor geometry rather than compensating for something she'd observed.
+
+Miriam would not have accepted the accommodation if it had been offered directly. So Solenne did not offer it directly. She wrote one word in the margin of the floor notes: *ceiling.*
+
+She closed the notebook.
+
+```stat-screen
+[ENCOUNTER COMPLETE]
+Deepscale Lurker x2 — Channel Ambush
+XP Awarded: 340 (distributed)
+
+Loot: Deepscale Hide x3 (Common), Mana Crystal x2 (Uncommon)
+
+[Non-System Item — Not Catalogued]
+```
+
+Solenne looked at the notification. Read it again.
+
+*Non-System Item — Not Catalogued.*
+
+She looked at the right-hand wall where the channels ended at a natural alcove — not a System-designated alcove, just a deepening in the stone where the channel had cut a chamber over years of water movement. The loot display was pointing to it.
+
+Nadia was already standing at the alcove's edge. She had gone still in the way she went still in Solenne's trial — not the performance-quiet, not the processing-quiet, the third kind. Like she was being very careful with something.
+
+She said: "Someone left this here."
+
+She wasn't touching it. She was looking at a waterproof case set back in the alcove, human-made, definitely not Tower-made — the material was a waxed cloth wrap over a rigid structure, the kind of construction that spoke of care rather than manufacture. Someone had made this with the specific intention of protecting its contents from Floor 18's water.
+
+Solenne came to stand beside her.
+
+She opened the case.
+
+Inside, wrapped in a second layer of cloth, was a dulcimer. Flat-bodied, eight strings, the wood darkened with age and handling. A small instrument — travel-sized, the kind that could be carried in a pack. It was intact. The strings were still strung; two of them had gone slightly slack with time but hadn't broken. Someone had made sure they wouldn't.
+
+The party stood looking at it.
+
+"Someone carried this to Floor 18," Vesper said. Her voice was careful with the information. "And left it."
+
+Nobody said anything for a moment. The water moved under the floor. The channels ran.
+
+"It works," Tomás said. He had not touched it either. He had been looking at the wood grain with the attention he gave to things he was reading rather than seeing.
+
+Solenne looked at Nadia.
+
+Nadia was looking at the dulcimer. She had been looking at it since they opened the case. The expression on her face was the one she wore when she was not constructing an expression — specific and unguarded, the face underneath the face, and it was not what Solenne expected. It was not wistful. It was not afraid. It was the look of someone encountering something they had decided not to miss and finding out the decision hadn't fully held.
+
+"Do you know how to play?" Dayo asked.
+
+Nadia looked up. Not startled — she'd known the question was coming. "I used to," she said. "I stopped."
+
+She didn't elaborate. She didn't soften it with a pivot. She just said the words and let them be there, clean and direct, the smallest honest thing she had said since the trial.
+
+Vesper picked up the dulcimer from the case, held it for a moment to test the weight, and handed it to Nadia without ceremony. The way she handed things to people who were going to use them.
+
+Nadia took it.
+
+---
+
+The rest node was a wide chamber at the floor's end, the stone drier here, the channel sounds faded to background. The party set up camp in the way they always set up camp, which had stopped requiring discussion somewhere around Floor 13.
+
+Dayo did gear maintenance. Tomás was at the corner with his floor notes and his notational system and whatever interior architecture he was building out of both. Vesper was in the Workframe — not the Field Forge extension, just the hand-motion inscriptions she ran when she was thinking rather than building. Miriam had her clinical notebook open.
+
+Solenne wrote the encounter notes and closed them and sat with the notebook on her knee and did not open it again.
+
+Nadia sat with the dulcimer across her lap. Not playing. Just — sitting with it, the way you sat with something that had been yours and might be yours again, running an inventory not of the instrument but of the fact of its presence.
+
+She tightened the two slack strings. Methodical. She plucked them once each to hear the pitch, adjusted, plucked again. Vesper looked up briefly at the sound and then looked back at her inscriptions.
+
+Then Nadia played.
+
+The first note was tentative — a single string, the instrument's lowest register, and it settled into the rest node's air and found the stone walls and came back changed. The Wet Stone Corridors had an acoustic quality that the hexagonal chamber hadn't. Lower ceiling, closer walls, the ambient resonance of water under everything — the note arrived back slightly longer than it left, slightly warmer, carrying the room's texture in it.
+
+Solenne's Harmony Conductor was always running.
+
+She felt it the way she felt weather before it arrived: a pressure at the outer edge of her perceptual range. The chord had been there in fragments since the Ironjaw — she had heard it in flashes, during Resonance Surges, in the four seconds of the Bond Trial. She had learned the shape of it. She had been carrying its shape in the same way she carried the coordinates paper — not acting on it, not setting it down.
+
+The note resolved. Nadia played another.
+
+```stat-screen
+[RESONANCE EVENT]
+Harmony Conductor — Deep Channel Active
+
+Solenne Achebe-Park: RES 19 → 20
+
+[RESONANCE THRESHOLD REACHED]
+Current: 102/150 (cumulative party events)
+
+Composite Resonance Perception — Full Chord Event
+Duration: 4 seconds
+```
+
+It was not beautiful, and it was not a Surge the way the Ironjaw had been a Surge — not light, not heat, not the wall of sound she'd heard on Floor 10. It was something that had always been there arriving in complete form for the first time. Four seconds: all six Aspects simultaneously, distinct and resolved, each one exactly what she had learned it was across sixteen floors of watching these five people be themselves. Dayo's Steadfast, present and warm and patient under the sound the way a foundation was present. Miriam's Clearvoiced, precise and careful at the signal's edge, still warm despite what she'd spent today. Vesper's Artificer register, quiet and specifically attentive, oriented toward the thing being made. Tomás's quality — she had never found the right word for it — still and convergent, the sound of perception in its most focused form. Nadia's Brightspirit, and this was the one that surprised her, because she had always known Nadia's Aspect as bright and present and warm, and what she heard now was all of that at the bedrock and underneath it something much older, something that had been playing for longer than Solenne had known her.
+
+The chord was enormous. It had room for all of them in it.
+

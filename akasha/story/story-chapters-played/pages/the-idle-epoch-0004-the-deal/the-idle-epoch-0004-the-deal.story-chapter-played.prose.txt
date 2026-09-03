@@ -1,0 +1,178 @@
+Someone was knocking on the warehouse door, and Callum's first thought was that knocking implied a degree of courtesy he had not expected from whatever was about to go wrong.
+
+His second thought was that he did not receive visitors.
+
+He set down the soldering wand -- a Flux-tipped instrument that looked like a dentist's tool crossed with a welding torch -- and wiped his hands on his coveralls. The Refinery hummed behind him, mid-cycle on a batch of alloy conversion. Thread 2 pulsed green in his peripheral vision: the Scrap Collector was running its afternoon sweep through the industrial ruins north of the warehouse, and the output ticker showed 14 materials gathered in the last hour. Nominal. Thread 1, gold: the Mk.V Sentinel patrolling the Overgrowth boundary, 3 kills in the current cycle, 97.1% efficiency. Thread 3, blue: the Refinery processing yesterday's backlog. All three threads steady.
+
+The knocking came again. Three sharp raps, evenly spaced, with the kind of force that suggested the person behind them was accustomed to doors opening on the first attempt.
+
+Callum pulled up his Danger Sense readout. No hostile signatures within fifty meters. Whoever it was, the System didn't consider them a threat.
+
+He crossed the warehouse floor -- past the Refinery's crystalline lattice, past the empty cot with its tangled blanket, past the workbench where the Enhancement Construct sat seventy-five percent complete in its cradle of wire and Flux -- and opened the door.
+
+Mira Vasquez stood in the gray afternoon light with her arms crossed and a look on her face that suggested she had been standing there for longer than she preferred.
+
+She was shorter than he remembered. Or maybe he had built her taller in the mental model he'd constructed since their encounter in the Overgrowth two days ago -- the woman who had dismantled six spore wolves in the time it took most people to finish a sentence, who had looked at his Mk.V Sentinel and called it a drunk toddler, who had felt something in her System interface that neither of them could explain. In his memory she was a force. In person she was five-seven, lean, dark-haired, wearing leather armor that had seen real use and carrying a saber whose handle was wrapped in cord so worn it had fused with the grip.
+
+She looked past him into the warehouse. Her eyes moved the way a fighter's eyes moved -- exits first, then threats, then everything else.
+
+"You're hard to find," she said.
+
+"I'm not hiding."
+
+"No. You're just in a warehouse nobody visits at the end of a street nobody walks down." She unfolded her arms. "Can I come in, or are we doing this in the doorway?"
+
+Callum stepped aside.
+
+---
+
+Mira walked through the warehouse the way she had walked through the Overgrowth -- with a purposeful economy of motion that made every step look like the prelude to something faster. She circled the Refinery without touching it, eyes tracking the pale blue light cycling through its conversion lattice. She paused at the Mk.IV Grinder's anchor point, where the construct relay punched through the eastern wall, and cocked her head like she was listening to something.
+
+"That's the one that fights in the Rustbelt Flats," she said. It was not a question.
+
+Callum blinked. "How did you --"
+
+"I asked around." She moved on, past the Scrap Collector's docking station, past his cot, past his field notebook lying open on the overturned crate. She did not read it. He noted that. "Spent yesterday at the Exchange. Talked to the Bloom Crystal vendor, the component traders, couple of gatherers who work the north ruins. Everyone knows you by sight. 'The quiet one. Buys Bloom Crystal, never haggles right.'" She glanced back at him. "Their words."
+
+"I haggle fine."
+
+"You paid forty-five Gold per fragment last week. Market rate was forty-two."
+
+Callum opened his mouth, closed it, and decided not to contest a data point that was technically accurate. "You came here to critique my negotiation skills?"
+
+Mira stopped at the workbench. The Enhancement Construct's incomplete frame sat in its cradle, the Flux core pulsing with a faint amber heartbeat, anchor nodes wired but not yet charged. The blueprint hovered above it in translucent overlay -- visible to anyone with basic System perception, but the details were readable only to someone with Callum's Loop Sight or an equivalent analysis skill.
+
+She couldn't read the blueprint. But she could see its shape, and she studied it the way she studied an opponent before a fight -- not with analysis but with instinct, feeling for the weight of the thing.
+
+"What's this one do?"
+
+"It's the Enhancement Construct. Not finished yet."
+
+"What does it *do*?"
+
+Callum hesitated. Not because the answer was secret, but because the answer was complicated, and he had learned that complicated answers made people's eyes glaze over approximately four sentences in. He looked at Mira -- at the direct, impatient focus in her expression -- and decided to try the short version.
+
+"Right now, each of my constructs works alone. The Grinder fights. The Collector gathers. The Refinery processes. They feed forward -- materials come in, components come out -- but none of them make the others *better*. They're a chain. Linear."
+
+"Okay."
+
+"The Enhancement Construct takes a portion of the Refinery's output and feeds it back into the Grinder and the Collector. Not as fuel -- as upgrades. Small ones. A percent here, a percent there. But those improvements increase their output, which increases the Refinery's throughput, which gives the Enhancement Construct more to work with, which means bigger upgrades, which means more output --"
+
+"It makes them feed each other," Mira said.
+
+"Yes."
+
+"So each one gets better because the others are running."
+
+"That's -- yes. That's exactly it."
+
+She stared at the incomplete construct for a long moment. When she looked back at him, her expression had shifted. Not impressed, exactly. More like the look a person gets when they encounter a problem they haven't seen before and can't immediately categorize.
+
+"That's not how anyone thinks about this," she said.
+
+Callum didn't know what to say to that, so he said nothing, and the silence filled the space between them like Flux settling into a construct core -- dense, charged, waiting.
+
+Pip flickered on his shoulder. Mira's gaze tracked to the mote of light.
+
+"What's that?"
+
+"Compiled Familiar. His name is Pip."
+
+"Does it talk?"
+
+"No."
+
+Mira looked at Pip. Pip blinked. Mira looked back at Callum with an expression that communicated, clearly and without words, that she had questions about a man who named a non-verbal cursor.
+
+"So," she said, and the word landed like a dropped blade. "Here's why I'm here."
+
+---
+
+She didn't sit. She paced -- slow, controlled circuits around the Refinery, her boots making precise sounds on the concrete floor while the construct hummed its blue hum beside her.
+
+"I'm Level 23," she said. "Sword Saint. I've been grinding eight hours a day for six weeks and I'm gaining maybe half a level per week. The XP curve at my tier is..." She trailed off, jaw tight.
+
+Callum supplied the number quietly. "4,363 XP for Level 25. At your current kill rate in the zones you can safely solo, you're looking at roughly 620 XP per day."
+
+Mira stopped pacing. "How do you know my kill rate?"
+
+"I watched you fight spore wolves two days ago. Six targets, eleven seconds, total damage output approximately 1,700. Your engagement frequency in a sustained grind session is probably one fight per ninety seconds including recovery and transit. At eight hours a day with a sixty percent efficiency factor for downtime, you're clearing roughly 190 to 200 mobs. Average XP per mob in the Overgrowth Tier 2 zones for a Level 23 player is around 3.2 after the level-differential penalty." He paused. "That's about 620 XP. Give or take."
+
+The silence that followed had a different texture than the last one. Mira was looking at him with an expression he couldn't quite read -- something between irritation and the grudging acknowledgment of a point well made.
+
+"You calculated all that from watching me fight once."
+
+"I calculate everything." It came out flat, automatic. He caught himself and added: "It's... what I do."
+
+"Yeah." She resumed pacing, but slower now. "Okay. So you know my problem. The curve is crushing me. Active play doesn't scale. I'm watching Summoners and Aura Knights idle past my level while they *sleep*, and I can't --" She stopped herself, breathed out through her nose. "I can't do what they do. My class doesn't work that way."
+
+Callum nodded. Duelist -- and its advanced form, Sword Saint -- was perhaps the worst idle class in the System. Every core skill required human timing. Riposte needed frame-perfect parry windows. Read Opponent needed real-time pattern recognition. Blade Communion was a trance state that only activated under conscious control. You could set a Sword Saint to auto-combat, and what you got was a mediocre attacker with terrible Idle Yield burning through stamina at twice the rate of any other class.
+
+Mira knew all of this. She lived it.
+
+"Two days ago," she said, "when I was near you -- near your constructs -- something happened to my interface. My attack speed was faster. Cooldowns shorter. It felt like..." She searched for the word. "A tailwind. Like the System was pushing me forward instead of dragging."
+
+The Optimization Aura. Self-only at Level 10 unlock, +15% idle efficiency for Callum's own operations. Except it wasn't staying self-only. It was bleeding. At close range -- within twenty meters, he estimated -- the aura's effect was leaking into nearby players. Fractional. Maybe three to five percent. But Mira's Perception was 61. She would feel a half-percent change in her interface the way a concert pianist would feel a key tuned a quarter-tone flat.
+
+"I noticed something, too," Callum admitted. "The aura is supposed to be self-contained. It isn't. I don't fully understand why."
+
+"But you're going to figure it out."
+
+It wasn't a question.
+
+"Yes."
+
+Mira stopped pacing. She turned to face him, and the directness of her gaze hit him like a physical thing -- like being assessed by someone who processed the world through action and instinct rather than spreadsheets and formulas.
+
+"I want sustained access," she said. "To whatever that effect is. Regularly. Not a one-time encounter -- a baseline. Something I can build a training rhythm around."
+
+Callum's mind was already running cost-benefit. *Her proximity to the aura means I can measure the bleed effect systematically. Controlled exposure. Baseline her performance metrics without the aura, then with. Data I can't get any other way.*
+
+"And in exchange?" he asked.
+
+"In exchange, I keep your operation alive." She gestured at the warehouse -- the constructs, the workbench, the incomplete Enhancement Construct. "You're Level 13 with four constructs, no guild affiliation, and combat stats that wouldn't survive a bar fight. I've seen your Sentinel fight. It's functional. It is not going to stop a Level 25 Fracture mob, or a guild enforcer who decides your constructs are trespassing in their farming zone, or anything else that requires adaptation instead of a script."
+
+The assessment was brutally accurate.
+
+"I'm offering combat escort," Mira continued. "Protection sweeps, twice a day. I clear the zones ahead of your construct deployments. I deal with anything your constructs can't handle -- intelligent adversaries, elites, emergent threats. I operate out of your warehouse as a forward base. In return, I get sustained exposure to your aura effect, and when you figure out your Enhancement Construct and whatever else you're building toward --" She held his gaze. "You help me with my Condense problem."
+
+The word landed like a stone in still water. Condense. The prestige mechanic -- resetting to Level 1 in exchange for permanent multipliers and prestige skills. The thing that separated players who would eventually scale from players who would eventually plateau.
+
+Mira couldn't Condense. The Sword Saint class had no idle safety net. At Level 1, she would have no Riposte, no Read Opponent, no dodge rate worth mentioning. She would be defenseless for days, and she had no constructs, no summons, no auras to carry her through the vulnerability window.
+
+She needed someone to protect her during the reset. Someone whose systems could cover the gap. Someone exactly like Callum.
+
+"I don't know how to solve the Condense problem yet," he said honestly.
+
+"I know."
+
+"It would require engineering a construct setup specifically designed to protect a re-leveling Sword Saint. Adaptive. Your combat patterns as they come back, integrated with decreasing construct support as your own skills recover. I'd need to understand how you fight at a level I don't currently --"
+
+"I know," she said again. "I'm not asking for a solution today. I'm asking for the commitment. When you can, you will."
+
+Callum was quiet for a moment. Pip flickered on his shoulder in a slow, steady rhythm.
+
+He ran the calculation. Not the emotional one -- the systems one, because that was where his mind went first, always, and he'd stopped apologizing for it.
+
+Her combat ability addressed his primary vulnerability: the inability to defend his operations against threats that exceeded his constructs' parameters. Her protection would mean safer deployments, access to higher-tier zones, and insurance against the growing political pressure from the Iron Vanguard. The value was substantial and immediate.
+
+Her presence in his optimization radius would let him measure the aura bleed effect. That data was necessary for understanding how the Optimization Aura scaled and what it would become at Level 15, when the party unlock was supposed to activate.
+
+The Condense obligation was deferred and open-ended. A liability on his balance sheet, but a productive one -- solving it would require engineering breakthroughs that would benefit his systems regardless.
+
+He ran the calculation, and the calculation said yes.
+
+But there was something underneath the calculation -- something his spreadsheet couldn't capture. The fact that she had come here. That she had asked around the Exchange, tracked him to his warehouse, walked through his operation and asked questions that were blunt and perceptive and treated his work as something worth understanding. That she was standing in front of him offering a partnership, which meant offering trust, which meant she had decided he was worth trusting before he had decided anything at all.
+
+*That's not a variable,* he thought. *That's a person.*
+
+"Deal," he said.
+
+Mira held out her hand. Her grip was callused and sure, and it lasted exactly as long as a handshake should.
+
+"Protection sweeps, twice a day," she repeated. "I'll run the first one this evening. I need to see your construct deployment zones -- patrol routes, relay positions, blind spots."
+
+"I'll pull up the schematics."
+
+"And I'll need somewhere to sleep."
+

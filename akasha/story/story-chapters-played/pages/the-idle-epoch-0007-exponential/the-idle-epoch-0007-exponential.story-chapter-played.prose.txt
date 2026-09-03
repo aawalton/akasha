@@ -1,0 +1,229 @@
+The numbers stopped making sense on the second day.
+
+Callum sat on his cot at 6 AM with his field notebook open to a page that was running out of room. Three columns of figures marched down the ruled lines -- Day 1, Day 2, Day 3 post-Enhancement Construct activation -- each column taller than the last, each bottom line circled twice and annotated with an arrow pointing up. The arrows were getting steeper. He had started drawing them at a gentle incline. Now they were nearly vertical.
+
+He pulled up the compound loop status and let the numbers hit him.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  COMPOUND LOOP STATUS               │
+│  Cycle: 47 (active)                 │
+│  Loop State: RECURSIVE              │
+│  Day 3 — Post Enhancement Construct │
+├─────────────────────────────────────┤
+│  Daily Output (yesterday):          │
+│    Essence:    5,127                │
+│    Materials:  +61% over baseline   │
+│    Flux Caps:  +53% over baseline   │
+│                                      │
+│  Daily Output (Day 1):              │
+│    Essence:    2,670                │
+│                                      │
+│  Change (3-day):    +92.0%          │
+│  Doubling Period:   ~68 hrs         │
+│                                      │
+│  Grinder Efficiency:   118.7%       │
+│  Collector Efficiency: 112.4%       │
+│  Refinery Throughput:  109.8%       │
+│  Enhancement Cycle:    43 min/pass  │
+│                                      │
+│  Thread Synergy (new):              │
+│    Cross-thread gain sharing: 10%   │
+│    Status: ACTIVE                   │
+├─────────────────────────────────────┤
+│  Projected Daily (7-day):           │
+│    Essence:    ~20,500              │
+│    (If compound rate sustains)      │
+└─────────────────────────────────────┘
+```
+
+He stared at the numbers the way an engineer stares at a production chart that has broken through the ceiling on the Y-axis and is forcing you to rescale the graph. Twice in three days. The 2,670 Essence he had been generating before the Enhancement Construct -- a number he had spent four months optimizing to reach -- was already a rounding error. Yesterday's output had nearly doubled it. Today's would surpass it.
+
+The compound loop was not just working. It was *accelerating*.
+
+He wrote the new projections in his notebook, then paused and looked at the page. He had been tracking daily Essence in this notebook for three months. The first entries were in the low hundreds. Then the slow, patient climb through the triple digits, optimized by fractions of a percent over weeks and weeks. A line so flat it barely registered as growth.
+
+And then, on the last page, the line bent.
+
+Not curved. *Bent*. Like someone had grabbed the end of a ruler and pulled it upward. The data points from the last three days didn't belong on the same graph as the three months that preceded them. They were a different kind of number.
+
+*This is what exponential growth looks like from the inside,* he thought. *It does not feel gradual. It feels like the world changed while you were sleeping.*
+
+On his shoulder, Pip pulsed twice. Quick, warm, almost rhythmic -- a pattern Callum had been noticing more frequently since the Enhancement Construct came online. Not random. Not quite intentional. Somewhere in between, like a process that was beginning to develop preferences.
+
+"I know," Callum said. "Let's see what the overnight session did."
+
+---
+
+The first level-up notification hit while he was pouring water into his thermos.
+
+The warmth flooded through him mid-pour, and water splashed across the workbench because his hands locked and his vision whited out for a full second. The Substrate did not ask permission to rebuild you. It simply did it -- a reorganization of every cell, every synapse, every thread of System-integrated biology, compressed into a moment of blinding, breathless heat.
+
+```stat-screen
+══════════════════════════════════════
+  LEVEL UP! 15 → 16
+
+  +5 Stat Points Available
+  +3 Skill Points Available
+
+  THREAD SPINNER SYNERGY UNLOCKED
+  [Level 5 Threshold Bonus]
+  Threads now share 10% of gains
+  between concurrent operations.
+══════════════════════════════════════
+```
+
+Callum gripped the edge of the workbench and breathed through it. The clarity came in stages -- first the raw physical hum of increased stats, then the mental sharpening, then the Loopweaver-specific effect: his awareness of the compound loop tightened like a lens being focused, the threads in his Loop Sight resolving into finer detail than he had ever perceived.
+
+And beneath the level-up itself, the Thread Spinner synergy notification glowed with a significance that made his pulse accelerate.
+
+*Threads share 10% of gains between concurrent operations.*
+
+He ran the math immediately. Three threads -- combat, gathering, processing -- each generating independent output. If each thread shared 10% of its gains with the other two, then a 7% improvement in the Grinder's kill rate did not just increase combat Essence. It also pushed a 0.7% bonus into the Collector's gathering rate and a 0.7% bonus into the Refinery's processing throughput. And when the Refinery improved, that improvement cycled back through the Enhancement Construct's feedback loop, which improved the Grinder, which shared 10% of *that* improvement...
+
+Compound growth within compound growth. A feedback loop inside a feedback loop.
+
+The math was getting recursive. He loved it.
+
+He allocated stats with the focused speed of someone who had planned this distribution weeks ago.
+
+*+2 INT. Fifty-seven. Script Complexity to 33.5. The extra headroom is not for me -- it is for the Enhancement Construct's optimization scripts, which are bumping against my complexity cap every third cycle.*
+
+*+2 WIS. Sixty. Idle Yield Multiplier to 2.20x. Every hundredth of that multiplier compounds through the loop. At current growth rates, the difference between 2.16 and 2.20 is approximately eighty additional Essence per day, accelerating.*
+
+*+1 WIL. Thirty-one. Marginal. But the longer the session, the more cycles the Enhancement Construct completes, and each cycle amplifies the next.*
+
+He closed the allocation interface and picked up the thermos. Poured the water again. Did not spill it this time.
+
+Then the second notification hit.
+
+He had been Level 16 for forty-three minutes.
+
+```stat-screen
+══════════════════════════════════════
+  LEVEL UP! 16 → 17
+
+  +5 Stat Points Available
+  +3 Skill Points Available
+══════════════════════════════════════
+```
+
+The warmth crashed through him again, harder this time -- the Substrate stacking a second reorganization on top of a body that had not yet finished absorbing the first. His vision didn't just white out. It *fractured*, splitting into overlapping layers of Loop Sight data and raw sensory input, the threads of his construct array flaring so bright that he could see them through his closed eyelids.
+
+He caught himself on the workbench. Breathed. Waited for the clarity to settle.
+
+Two levels. One morning. He had gone from Level 12 to Level 15 over the course of weeks. Level 15 to 17 had taken three days.
+
+The curve was not bending anymore. It was *climbing*.
+
+He allocated again.
+
+*+2 INT. Fifty-nine. Script Complexity hits 34.5. I am now in a complexity range that most players do not reach until Level 25 or higher.*
+
+*+2 WIS. Sixty-two. Idle Yield Multiplier to 2.24x. At this multiplier, running through a compound feedback loop with thread synergy, my effective output per hour exceeds active grinders ten levels above me.*
+
+*+1 WIL. Thirty-two. Session Duration to 10.4 hours. Every extra hour is another cycle, another optimization, another turn of the wheel.*
+
+He pulled up his full status and looked at the numbers.
+
+```stat-screen
+╔══════════════════════════════════════╗
+║  CALLUM VOSS                         ║
+║  Class: Loopweaver    | Level: 17    ║
+║  Prestige: 0 (Awakened)              ║
+║  Automation Tier: 3                  ║
+╠══════════════════════════════════════╣
+║  STR:  14          AGI:  15          ║
+║  VIT:  19          INT:  59  (+2)    ║
+║  WIS:  62  (+2)    PER:  16          ║
+║  WIL:  32  (+1)    LCK:  13         ║
+╠══════════════════════════════════════╣
+║  HP:  363/363      MP:  812/812      ║
+║  Stamina: 187/187                    ║
+╠══════════════════════════════════════╣
+║  Script Complexity: 34.5             ║
+║  Idle Yield Mult: 2.24x             ║
+║  Session Duration: 10.4 hrs          ║
+╠══════════════════════════════════════╣
+║  Thread Synergy: 10% cross-thread    ║
+║  Unallocated Stat Points: 0         ║
+║  Unallocated Skill Points: 14       ║
+╚══════════════════════════════════════╝
+```
+
+Fourteen skill points. A fortune in potential. He spent four of them immediately.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  SKILL UPGRADED                      │
+│  Loop Analysis: Level 3 → Level 5   │
+│  Cost: 4 Skill Points               │
+│                                      │
+│  New Capability (Level 5):           │
+│    Can now view other players'       │
+│    automation setups.                │
+│                                      │
+│  Remaining Skill Points: 10         │
+└─────────────────────────────────────┘
+```
+
+*Can now view other players' automation setups.*
+
+The implications unfolded in his mind like a blueprint being unrolled. He could see how other people idled. Not just their stats -- their *scripts*. Their construct logic. Their summon rotations. The structural decisions that determined whether a player's idle output was efficient or wasteful, elegant or brute-forced.
+
+He could see the code behind other people's machines.
+
+The remaining ten skill points he left untouched. They were earmarked -- Compile Familiar, Script Engine -- but the timing was not right. Not yet. Soon.
+
+From the warehouse floor below the catwalk, Jin's voice floated up. "Was that -- did I just feel -- Callum, did you *level up twice*?"
+
+Jin appeared at the base of the ladder, his beanie askew, his eyes wide and sleep-creased. Pixel sat on his shoulder, chirping at a frequency that sounded suspiciously like excitement.
+
+"Level 17," Callum said.
+
+"In one morning." Jin's voice cracked on the second word. "In one -- you were 15 *yesterday*."
+
+"Three days ago."
+
+"Three days. Three days!" Jin was already scrambling up the ladder. "What's your daily Essence rate? What's the compound coefficient? Is the thread synergy stacking with the Enhancement Construct's feedback or is it --"
+
+"Stacking."
+
+Jin made a sound that was not a word. He reached the top of the ladder and stood on the catwalk platform with both hands on top of his head, staring at Callum's stat screen like a man witnessing a miracle expressed in integers.
+
+"The thread synergy is stacking with the feedback loop," he said slowly, as if hearing himself say it would make it less absurd. "So each thread's improvement feeds into the other threads at ten percent, and then the Enhancement Construct picks up the improved output and optimizes on top of it, and then the optimization feeds back and the thread synergy distributes *that* --"
+
+"Yes."
+
+"It's recursive. Callum, it is literally recursive. Your idle loop has *recursion*."
+
+Callum said nothing. He watched Jin's mind work -- watched the theoretical understanding translate into visceral comprehension -- and felt something that was not quite pride and not quite vindication. Closer to relief. The feeling of a man who had spent four months building a bridge on paper and was now watching someone else walk across it.
+
+"What are you saving the skill points for?" Jin asked, his eyes flickering to the stat screen.
+
+"Compile Familiar. Script Engine. The right moment."
+
+"The right moment for Compile Familiar is *now*. If you push Pip to Level 5, the familiar gains communication capability and independent thread management. Combined with the thread synergy --"
+
+"I know what it does." Callum's voice was quiet. "The timing matters."
+
+Jin opened his mouth to argue, then closed it. He was learning when Callum's quiet meant *I'm wrong* and when it meant *I've already thought three moves past where you are*. This was the second kind.
+
+---
+
+The Overgrowth was different under the Optimization Aura.
+
+Mira noticed it on her morning sweep -- the daily patrol of Callum's Overgrowth constructs that had started as a contractual obligation and was now something closer to habit. She moved through the bioluminescent canopy with her saber loose in her hand, the Fracture-Tooth blade catching the blue-green light in cold flashes.
+
+A vine constrictor dropped from the canopy. She killed it in two strokes -- step, cut, pivot, cut. Clean. Efficient. The Riposte timing was automatic after ten thousand repetitions.
+
+*Riposte (Lv. 15) -- Critical Hit! 627 damage.*
+
+The vine constrictor dissolved. She barely registered it.
+
+But she registered the next one. And the one after that. Because something was different.
+
+Her cooldowns were recovering faster. Not dramatically -- a fraction of a second, maybe less. The half-beat between Riposte and her next ready stance was shorter. Her Dash came off cooldown a hair sooner. Her attacks landed with a crispness that she could not name but could feel in her wrists, her elbows, the micro-timing of muscle fiber activation that a fencer spends a lifetime developing.
+
+She stopped in a clearing and ran a test.
+

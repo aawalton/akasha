@@ -1,0 +1,157 @@
+# Chapter 8: The Tower Is Watching
+
+The rest node was the largest they had found.
+
+Solenne stood at the entrance and let the space unfold in her Resonance Map -- a natural cavern hollowed into the root network, sixty meters across and high enough that the ceiling's bioluminescent growth felt like weather rather than architecture. The light up there cycled: pale amber, then blue-green, then a deep violet that made the stalactites look like something dreamed. The cycle took four hours. She had already mapped half of it in her head.
+
+The air was warm. Not warm the way rest nodes were warm -- the System's antiseptic safety field humming at the edges -- but genuinely warm, the way a room is warm when the walls hold heat. The root structures here were enormous, rising from the floor in organic columns that created natural divisions: alcoves, shelves, a high point near the eastern wall where the roots braided into something resembling a platform.
+
+Dayo found the high point first. She climbed it without speaking, sat on the braided root surface, and was still.
+
+Vesper went straight to the forge.
+
+This was the ritual. Solenne had seen it enough times to read it without watching: the Artificer's Workframe unfolding from carry position, the tool racks extending, the micro-forge components assembling with the practiced efficiency of someone who had set up and broken down this station on nine floors. The Field Forge was Vesper's territory, and she entered it the way Tomas entered a corridor -- with her full attention deployed and her peripheral awareness reduced to nothing.
+
+Miriam tended to Nadia's shoulder first -- a bruise from a root-wall impact three hours ago that Nadia had not mentioned because Nadia did not mention things that were not funny or interesting, and a bruise was neither. Then Miriam moved to the medical inventory. She counted supplies the way other people counted breaths: automatically, with full attention.
+
+Tomas did a circuit. The cavern's perimeter, every entrance, every shadow that did not behave like a shadow. He came back with a single nod.
+
+Nadia found a stalactite.
+
+It hung from the ceiling forty meters up, massive, its surface ridged with mineral deposits that caught the bioluminescent light and scattered it in angular fragments. It was, objectively, the most theatrical geological formation in the cavern.
+
+"That," Nadia said, pointing upward with the knife she was cleaning, "is the Ironjaw Sentinel's cousin. Look at it. Same jaw structure. Same energy. I'm calling it Gerald."
+
+"You are not calling anything Gerald," Miriam said from behind a stack of bandages.
+
+"Gerald has been named. Gerald cannot be unnamed."
+
+Nobody laughed. The air was too heavy for laughter, still weighted with the root chamber, with Miriam's words, with Dayo's HP at seventy percent and the Last Stand charge gone. But Nadia said it, and the saying was a small warm thing placed into a room that needed small warm things, and the party held it without breaking it.
+
+Solenne looked up at the high point.
+
+Dayo was sitting where she had climbed. Not maintaining gear. Not stretching, not moving through the post-combat patterns her body defaulted to -- the shoulder rolls, the wrist rotations, the restless testing of range and response that was Dayo at rest. She was sitting with her gauntlets in her lap and her back against the braided root surface and she was still.
+
+Solenne had seen Dayo still before. In the chamber after the Queen, on the root floor, after Miriam's words. But that had been minutes. This was hours.
+
+Two hours into the rest floor, Dayo had not moved from her position.
+
+The party gave her space. Not by agreement -- by the kind of collective calibration that happened when six people had been reading each other for three months in a Tower that did not allow the luxury of misreading. Miriam did not walk to the high point. Tomas glanced once and then continued his perimeter work. Vesper's forge rhythm did not change, but the angle of her attention shifted -- Solenne could feel it through the Harmony Conductor, the Openhanded Aspect's awareness of the person she built for, registering Dayo's stillness and filing it somewhere deep.
+
+Nadia looked at Dayo once. Twice. She considered something -- Solenne watched the consideration happen behind Nadia's eyes, the Brightspirit's instinct to intervene, to make the room lighter, to crack the weight with something unexpected. Nadia considered it. Then she put down her throwing knife and walked over to Vesper's forge station.
+
+"What do you need catalogued?" Nadia asked.
+
+Vesper handed her a tray of material samples without looking up.
+
+The consideration and withdrawal told Solenne everything. Nadia, whose instinct was always to move toward the thing that needed breaking open, had looked at Dayo's stillness and decided it did not need breaking. It needed holding.
+
+The party held it.
+
+---
+
+Vesper worked for six hours.
+
+This was the longest Field Forge session Solenne had witnessed -- longer than the Floor 5 marathon, longer than the post-Tidebreaker crafting push that had produced the armored wrap. Vesper had been building toward this since they first read the Compact's documentation on the Ironjaw Sentinel. The three items she assembled were not improvised. They were premeditated. Solutions designed in advance for problems she had seen coming.
+
+The Sentinel Gambit came first.
+
+Vesper laid out the materials on her work surface with the particular focus she had when she was building something that mattered in a way she could not quite articulate: three Crystalback Plates from the Queen's loot, still carrying the faint mineral sheen of the creature's faceted carapace. A Tower Crystal from the Floor 7 cache, medium-grade, its pale light steady in Vesper's hands. Binding compound -- two applications, measured with the precision of someone who knew she could not afford waste.
+
+She began with the plates. Her fingers found the crystalline grain structure and she traced it, reading the material the way Tomas read terrain -- not imposing a design but finding the design the material wanted. The Crystalback Plates had built-in physical defense properties. They reflected impact force along their crystal lattice. This was what the Queen had used as armor. This was what Vesper was going to invert.
+
+Not armor. A mirror.
+
+She cut the first plate along its crystal grain, working with the micro-forge's cutting edge, angling the internal lattice so that the reflective property faced outward. The plate's natural tendency to absorb and redistribute physical impact became, under Vesper's hands, a tendency to return it. Twenty percent. She could feel the number the way Miriam felt a wound's depth -- through the Openhanded Aspect's connection to the work, the sense of what the material was capable of becoming.
+
+The arm guard took shape over three hours. Vesper layered the cut plates onto a flexible composite base, wiring the Tower Crystal into the center as an activation node. The crystal would hold the effect dormant until contact triggered it -- sixty seconds of active reflection, twenty percent of physical damage returned to the attacker. She designed it for Dayo's left forearm, fitting it over the existing armored wrap, adding coverage where the Sillfin Hunter's hooks had found the gap.
+
+She held it up to the forge light and turned it once, checking the crystal alignment.
+
+She had thought of it at two in the morning on the Floor 8 rest node, sitting up with the realization arriving the way her best ideas always arrived -- not as inspiration but as obvious, as the answer that had been there in the materials and the problem, waiting for her to stop thinking and start seeing. Dayo's Last Stand was gone. Dayo would be the target of the Sentinel's Phase 3 lock-on. The margin was thin without the damage reduction.
+
+The Sentinel Gambit was not a replacement for Last Stand. It was a love letter written in crystal and composite. It said: *I cannot give you back what you spent. I can give you something I made with my hands that might keep you standing for sixty more seconds.*
+
+Vesper did not think of it in those terms. She thought of it as engineering. The part of her that thought of it as something else was the part she did not look at directly, the part Miriam had noticed and had not yet named.
+
+The Null Compounds came next. Three grenades, each the size of a small apple, built from the Crystalback Queen's toxin glands and modified with Emberstone Dust from Vesper's material cache. The design was her own -- not a System template, not a Compact formula. She had derived the interaction between the toxin's nullification properties and the Emberstone's anti-magic resonance from first principles, testing micro-batches on scraps of enchanted material until she found the ratio that stripped magical armor without collateral.
+
+Eight seconds of magic armor nullification per grenade. The Ironjaw Sentinel's System-enhanced armor plating would be exposed for eight seconds on impact. Three grenades. Twenty-four seconds total of the boss's magical defenses offline.
+
+A notification flickered at the edge of Solenne's Harmony Conductor perception as Vesper sealed the third grenade.
+
+```stat-screen
+[SYSTEM NOTE]
+Novel consumable design flagged: "Null Compound"
+Designer: Vesper Castillo-Huang (Artificer, Lv. 10)
+Classification: Uncommon Consumable
+Achievement: Original Formula
+```
+
+Vesper dismissed the notification without reading it fully. She was already working on the Anchor Vials.
+
+Six small vials, each filled with an enhanced Mana potion formulated for absorption speed. Standard Mana Vials took thirty seconds to fully absorb into a user's MP pool. In a boss fight, thirty seconds was a lifetime. Vesper modified the crystalline suspension density, optimizing the absorption pathway -- one hundred and twenty MP per vial, absorbed in ten seconds instead of thirty. She designed them for Miriam. For the sustained healing demands of a fight where the Vanguard did not have Last Stand and the Warden could not afford to run dry.
+
+She lined all three sets of items on her work tray when she was finished. The Sentinel Gambit, catching the cavern's cycling light. The Null Compounds, sealed in their casings. The Anchor Vials, six of them, pale blue-white and dense.
+
+"These are for the boss," she said to the party. Her voice was quiet in the way it was quiet when she was handing something over -- not uncertain, not deflecting, just reduced, as if the volume had been turned down on everything except the objects themselves. "Arm guard for Dayo. Reflects twenty percent of physical damage back for sixty seconds, one use per floor, costs twenty MP to activate. Three grenades -- Null Compounds, my design. Strips magical armor for eight seconds on impact. And six Mana vials for Miriam. Hundred and twenty MP each, ten-second absorption."
+
+She did not explain the design choices. She did not describe the three hours of crystal-grain reading or the first-principles derivation of the toxin interaction or the way the arm guard was shaped to fit Dayo's specific forearm. She placed the items in reach and she stepped back.
+
+This was the most she had spoken in one sitting in weeks.
+
+---
+
+The inter-floor shop materialized at the cavern's northern edge three hours into their rest, announced by the System's standard amber glow and the faint hum of a commerce interface activating.
+
+Solenne felt the Resonance Shards before she saw them.
+
+They were on the shop's third display shelf -- six of them, each the size of a small coin, each glowing with a low-frequency pulse that hit her Resonance Map like music heard through a wall. The frequency was familiar. It was the frequency of the Harmony Aspects, reduced and contained, pressed into crystal form. She could feel the six shards resonating with six different qualities and all of them belonging to the same chord.
+
+Five hundred Tokens each.
+
+The party had 3,200 Tokens. Three floors of careful resource management -- selling materials they could spare, completing bonus objectives, choosing efficiency over comfort at every inter-floor shop since Floor 7. Thirty-two hundred Tokens was not wealthy. It was solvent.
+
+Solenne looked at the shards. She looked at the price. She did the math.
+
+She bought all six.
+
+```stat-screen
+[INTER-FLOOR SHOP -- PURCHASE]
+Resonance Shard x6 .............. 3,000 Tokens
+  Each: RES +3 (for Bond Aura calculations)
+  Slot: Accessory
+
+Party Token Reserve: 3,200 --> 200
+
+Effective RES with Shards Equipped:
+  Solenne .... 18 + 3 = 21
+  Miriam ..... 20 + 3 = 23
+  Nadia ...... 16 + 3 = 19
+  Dayo ....... 15 + 3 = 18
+  Vesper ..... 14 + 3 = 17
+  Tomas ...... 13 + 3 = 16
+```
+
+Nadia looked at the remaining Token balance on the shop display. Two hundred. Two hundred Tokens going into a Major Boss floor.
+
+"We are now," Nadia said, "technically destitute."
+
+"That is not technically accurate," Tomás said from the perimeter.
+
+"Fine. Economically humble."
+
+Solenne distributed the shards. Each one was warm -- not residual heat, not ambient temperature. Warm the way the Harmony Conductor was warm when the party was close and connected and operating as something more than six individuals. She placed one in each person's hand. Miriam's fingers closed around hers with the reflexive certainty of someone who felt the shard's frequency immediately. Vesper turned hers once, reading it through the Openhanded Aspect's material perception. Tomas pocketed his without comment. Nadia held hers up to the cycling violet light and squinted at it.
+
+Dayo came down from the high point to receive hers. She took it from Solenne's hand without speaking and held it in her palm for a moment, and the warmth was there, and she put it in her pocket and climbed back up.
+
+It was the first time she had moved in four hours.
+
+---
+
+The boss planning session happened in the amber phase of the cavern's light cycle, the six of them arranged in the natural alcove nearest to Vesper's forge, close enough that Solenne could feel all five Resonance Shards pulsing alongside her own.
+
+"The Ironjaw Sentinel," Solenne said. She had her notebook open. The page was dense with notation -- Compact documentation, Brennan Cole's shared intelligence, her own analysis layered on top. "Level twenty-five. Armored. Primary attack pattern is bite-and-slam melee, heavy physical damage. Three phases."
+
+She walked them through it. Phase 1: standard engagement, the Sentinel testing the party's composition with probing attacks, its System-enhanced armor plating absorbing initial damage. Phase 2: charge pattern, the Sentinel using its full body weight in a rush that covered the entire combat space, too fast to outrun, requiring precise timing to dodge or tank. Phase 3: enrage. The Sentinel would lock onto a single target and would not divert.
+

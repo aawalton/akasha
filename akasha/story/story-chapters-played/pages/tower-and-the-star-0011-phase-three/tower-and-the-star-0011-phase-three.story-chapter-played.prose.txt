@@ -1,0 +1,155 @@
+# Chapter 11: Phase Three
+
+The target indicator appeared over Miriam's head, and Vesper was already talking.
+
+"Miriam, corner F, now. Dayo, interposition. Reinforcement on Miriam."
+
+Three seconds. Vesper issued the orders with the particular flat precision of someone who had rehearsed this exact sequence at three in the morning on a rest floor because she could not not rehearse it. Protocol-Alt. The contingency plan for the wrong target. The one nobody had wanted to need.
+
+Solenne processed the shift in the half-second between Vesper's first word and Miriam's first step. The plan had assumed Dayo. The plan had been built around Dayo's armor, Dayo's HP pool, Dayo's capacity to absorb Phase 3 targeting. Miriam had 268 HP. Miriam was the healer. Miriam was not built to be the thing the Sentinel wanted.
+
+But Vesper's logic was already running ahead: Reinforcement on Miriam, not Dayo. The math worked. Miriam could not generate threat, but she could survive significantly longer with the armor buff layered onto her Nature-Woven Soft Armor. Dayo without Reinforcement still had the Composite Plate, still had STR 31, still had the particular quality of being Dayo. She would hold.
+
+Miriam moved.
+
+She was fast when she had a clear path -- Miriam was never slow, she was conserving motion, and in this moment she moved with the economy of a person who had been watching where things were happening and where she needed to go for the entire fight. Twelve meters to corner F, where two pillars formed a natural alcove with only one approach angle. She reached it in four seconds. She turned. She planted. She did not fidget.
+
+Dayo was already running. Not toward the Sentinel -- across the chamber, cutting the angle between the creature's position and Miriam's corner. Shield Rush fired at the midpoint, the Vanguard surging eight meters in a diagonal that ate the distance before the Sentinel's Phase 3 speed fully engaged.
+
+Nadia threw. The Chaos Grenade arced high over the Sentinel's head and detonated at the Phase 3 activation point -- the creature's armored shoulder where the energy signature had spiked. The roll landed: Fear. Six seconds. The Sentinel flinched. Not a stagger -- a hesitation, something in its System-enhanced awareness registering a threat that was not physical, and in the hesitation the party had two seconds of free repositioning that were worth more than any six seconds of damage.
+
+From the northeast pillar cluster, Tomás fired twice. Both arrows found the shoulder joints -- not the jaw, not the weak points, the shoulder joints specifically, because Phase 3 speed came from the arms and legs working in concert and if the shoulders were compromised the acceleration suffered. The shots landed with the clean efficiency of a person who had been doing this for nine floors and had stopped thinking about it as aiming.
+
+Vesper's hands were moving on Miriam before Miriam finished planting. Reinforcement activated -- the buff settling into Miriam's armor like something woven rather than applied, the Artificer's skill expressing at Level 5 with the particular quality that meant Vesper had been thinking about exactly this application since the rest floor preparation. The armor's defense values climbed. Miriam's Status Window updated.
+
+```stat-screen
+[REINFORCEMENT -- Lv. 5]
+Target: Miriam Osei-Bonsu (Warden)
+  Physical Defense: 18 → 32 (+14)
+  Magic Defense: 22 → 34 (+12)
+  Duration: 10 minutes
+  Note: Artificer buff applied to target armor;
+    damage reduction active while Miriam
+    remains within 35m of Artificer position.
+```
+
+"Set," Vesper said. One word. She moved back to the south pillar. Her hands did not stop.
+
+Solenne looked at the chamber. The geometry had changed. Dayo was between the Sentinel and Miriam's corner, twelve meters from each. The Sentinel was shaking off the Fear effect, its massive jaw resetting, its attention snapping back to its designated target with the mechanical focus of a Phase 3 lock. The two pillars around Miriam created a channel -- one way in, one way through Dayo.
+
+It was going to be enough. It had to be enough.
+
+---
+
+The Sentinel charged.
+
+Phase 3 speed was different from Phase 2. Phase 2 had been fast -- pillar redirects, geometric pivots, the terrifying momentum of sixty thousand kilograms of armored reptile using the chamber's architecture as an accelerator. Phase 3 was faster. The Sentinel did not pivot off pillars. It went through them. The first pillar in its path shattered on impact and the creature did not slow, the composite armor absorbing the collision damage, its clawed feet tearing furrows in the black stone floor as it drove toward corner F.
+
+Toward Miriam.
+
+Dayo cut it off.
+
+Shield Rush into the Sentinel's leading leg, eight meters of Vanguard-speed interception that hit the creature's momentum at a perpendicular angle. The impact was a sound that traveled through the floor. Dayo's feet slid -- not far, three meters, the black stone offering less traction than she needed -- but the Sentinel's charge broke. Its head swung toward her. The jaw opened.
+
+She caught it on the buckler. The hit landed with the structural force of a boss at thirty percent HP operating at full Phase 3 power, and Solenne watched Dayo's HP drop through the Harmony Conductor.
+
+```stat-screen
+Dayo HP: 327 → 289 / 467
+  Phase 3 jaw strike absorbed on buckler
+  Secondary damage: left shoulder (armor gap)
+  Nature's Veil regeneration: active (28 HP/s)
+```
+
+Miriam's heal landed two seconds later. Mending Touch from twenty meters, threaded through the gap between two pillars with the timing of someone who had been tracking Dayo's HP with Empathic Sense for the entire fight and no longer needed to calculate the windows. The warm green light settled into Dayo's frame. HP climbed.
+
+The Sentinel turned back toward Miriam.
+
+This was the geometry of Phase 3. The Sentinel wanted Miriam. Dayo was between them. Everything that followed was interception.
+
+The creature found the south gap -- a three-meter space between a pillar base and the chamber wall where Dayo could not plant without leaving the north approach open. It drove for the gap. Dayo read it. Shield Rush fired -- six-second cooldown, now used twice in twelve seconds, the skill humming at the edge of sustainable rotation. She hit the gap before the Sentinel reached it, buckler presented, body low, the particular stance of a defensive midfielder cutting off the angle before the striker committed to the run.
+
+The Sentinel pulled back. It circled. It found the pillar gap at position C -- a wider opening, two meters, enough for its jaw to reach through and strike at Miriam's corner from an angle Dayo could not cover without leaving the south gap exposed.
+
+Dayo went to Iron Stance.
+
+She planted in the pillar gap and became immovable. Three seconds. The Sentinel struck -- a full-power jaw slam that hit the buckler and the gauntlets and the Composite Plate all at once, and the damage was significant and she did not move. Not a centimeter. The black stone under her feet cracked from the transferred force but she held the position because the position was what mattered, and three seconds was enough for Solenne to fire.
+
+Arcane Bolt, full power, into the Sentinel's jaw base. The creature's head snapped sideways. The jaw strike missed its follow-up. Dayo released Iron Stance before the next slam could land and moved -- back to the south gap, covering it, then Shield Rush to cut off the northeast approach the Sentinel had started calculating.
+
+Tomás fired from the northeast pillar. Two arrows into the right shoulder joint. The Sentinel's arm hitched. Its next charge came at ninety percent speed instead of full, and ninety percent gave Dayo the half-second she needed to read the angle and be there.
+
+The HP dropped. Twenty-two percent. Eighteen. Fifteen.
+
+Dayo's HP dropped with it.
+
+```stat-screen
+Dayo HP: 178 → 142 → 98 → 70 / 467
+  Cumulative Phase 3 damage: jaw strikes (x5),
+    secondary impacts (x3), armor gap damage (x2)
+  Current: ~15% HP
+  Nature's Veil: active
+  Mending Touch rotations: sustaining but not
+    recovering against Phase 3 output
+  Defiant Last Stand: UNAVAILABLE (Floor 9 expend)
+```
+
+Fifteen percent. Seventy HP out of four hundred and sixty-seven. Solenne saw the number through the Harmony Conductor and her hands tightened on the Annotated Staff. At ten percent, Last Stand would have activated -- the skill that said she could not die for thirty seconds, the skill that had saved her on Floor 5 and again on Floor 9. But Last Stand was once per floor, and Floor 9 had used it. There was no safety net.
+
+Dayo knew this. Solenne could see it in the way she moved -- not differently, not more cautiously, but with a quality of awareness that had shifted from geometric to something else. She was not calculating angles. She was calculating what she had left.
+
+The Sentinel broke a new gap. South-southeast, between the shattered remains of a pillar it had destroyed two minutes ago and the chamber wall. The path to Miriam was open for approximately four seconds if the Sentinel committed to full speed. Dayo was eight meters out of position. Two seconds to close the gap. Her gear could absorb one hit. The second would be heavier.
+
+She activated Anchor.
+
+Not the passive field -- the low hum that had been running since Floor 5, the ambient awareness of where five people were. Not the partial direction she had learned on Floor 8, reaching toward one person at a time. She activated it fully. Deliberately. All five bonds at once.
+
+Solenne felt it happen.
+
+The Anchor reached her first -- or she perceived it first, through the Harmony Conductor, through the Trueweave Aspect that was built to feel connections. It arrived as a pulse of awareness that was not hers: Dayo's attention, touching her, with the particular quality of someone who knows exactly where you are and what you are doing and needs you to know that she knows. Then it expanded. Solenne felt it reach Miriam in corner F. Vesper at the south pillar. Tomás on the northeast arch. Nadia, mid-motion, twelve meters to the Sentinel's left.
+
+Five bonds. All at once. Full, deliberate, committed.
+
+And through the Conductor, because the Trueweave Aspect could not help perceiving what moved through Harmony channels, Solenne felt what Dayo felt.
+
+She felt all five of them.
+
+Solenne's intellectual pulse -- the focused analytical frequency that was always running, always processing, the quality of a mind that could not stop working and had learned to make the working into something useful. Dayo felt it and it registered as *steady. She is steady. She is always steady when it matters.*
+
+Miriam's warmth -- not metaphorical warmth but the actual sensation of someone whose care was a physical force, who healed not just with MP but with the particular attention that made every Mending Touch arrive before the damage fully registered. The Warmhearted Aspect expressing through twenty meters of stone chamber as something Dayo could feel in her chest.
+
+Vesper's hands -- moving, always moving, cycling through preparations at the south pillar. The Openhanded Aspect expressed as the sensation of someone making things for you, the quiet devotion of output that never asked for acknowledgment.
+
+Tomás's stillness -- the Clearvoiced calm of a person who saw what was true and said it without flinching. From the northeast arch his presence in the bond was precise and clean, like a note played without vibrato.
+
+Nadia.
+
+Nadia was frightened.
+
+Dayo had never felt Nadia frightened before. She did not know what it felt like. She knew now.
+
+It was very specific. Underneath the humor and the movement and the pattern-breaking, underneath the Brightspirit Aspect that was always finding what was absurd and alive in whatever situation she was in, there was something that was afraid. It had been afraid for a while. It was afraid in a way that was not about Nadia -- it was not Nadia fearing for herself, not the fear of being hit or being hurt or being insufficient. It was the fear of watching someone you love run out of time. It was the fear of seeing Dayo at fifteen percent HP with no Last Stand and knowing what the math said about what happened next.
+
+Nadia was frightened because Dayo might die.
+
+Solenne felt all of this through the Conductor -- secondhand, filtered through the Trueweave's perception of the Anchor's full expression. She felt Dayo feel it. She felt the moment when Dayo, at seventy HP, with the Sentinel breaking through the southeast gap and four seconds until it reached Miriam, felt the specific weight of another person's fear for her life enter her awareness like a frequency she had never heard before and recognized instantly.
+
+Dayo did not flinch.
+
+She charged.
+
+Not recklessly. Not with speed filling the space where a plan should be. She charged with exactly the geometry required to close the gap and hold it -- the angle that put her between the Sentinel and corner F, the speed that covered eight meters in the time she had, the trajectory that would let her absorb the impact on her buckler rather than her body. She charged because five people were behind her and she knew it in every cell. She charged because one of them was frightened and the fear was not for herself and Dayo understood, for the first time, what protecting people actually cost the people who loved her.
+
+She charged because the Steadfast Aspect, at its truest expression, was not about being unafraid. It was about feeling what the people you love feel and running toward the thing that threatens them anyway.
+
+One second before contact, the world changed.
+
+---
+
+Solenne's Status Window shimmered.
+
+Not a notification. Not a standard update. The entire window -- the familiar amber-bordered display that had been part of her perception for eight months -- flickered and went strange. The text blurred. Characters cascaded through the display in sequences that were not words in any language she recognized, flowing downward like water through a channel that was being widened from the inside.
+
+She looked left. Miriam's window was doing the same thing. Vesper's. Nadia's. Tomás's, visible from his position on the northeast arch as a shimmer in the air beside his head. Six Status Windows, all six, flickering in synchronization.
+
+Then clarity.
+

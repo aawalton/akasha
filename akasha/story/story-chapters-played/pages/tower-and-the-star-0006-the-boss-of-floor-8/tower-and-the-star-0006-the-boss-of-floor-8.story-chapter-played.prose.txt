@@ -1,0 +1,128 @@
+# Chapter 6: The Boss of Floor 8
+
+The lake was still.
+
+Solenne stood at the edge of the last dry platform before the boss chamber and looked out across the water. The underground lake was enormous -- the largest open space she had seen in the Tower, larger than the colony chamber on Floor 7, larger than the flooded corridors that had tried to drown them twice on the way here. The ceiling rose into darkness overhead, studded with stalactites that caught the pale bioluminescence of the Cavelight Moths and scattered it in long, uneven lines across the water's surface. The light made the lake look like it was breathing.
+
+It was not breathing. Solenne confirmed this through Arcane Analysis and felt only slightly better.
+
+The chamber was roughly circular, a hundred meters across, with the lake filling most of it. Rising from the water at irregular intervals: limestone platforms, natural formations that had been shaped -- by the Tower or by geology or by whatever the Tower called geology -- into fighting surfaces. The largest platform was at the center, twelve meters across, flat-topped and ringed with mineral deposits that glittered in the moth-light. Smaller platforms scattered around it like stepping stones made for something larger than human feet.
+
+The water between the platforms was black. Not dark. Black. The kind of depth that did not allow light through because light was not invited.
+
+"Tomás," Solenne said. "Tell me what you have."
+
+Tomás was already in position -- not at the chamber entrance with the rest of the party but forty meters above them, in the stalactites. He had been climbing for twenty minutes before they arrived, silent, finding handholds in the limestone with the patient precision of someone who had decided where he would fire from before the fight had a name. His voice came through the party channel clean and flat.
+
+"Central platform is the engagement surface. Eight secondary platforms within Shield Rush distance. The dorsal gap -- between the neck ridge and the upper plate -- is accessible from above or when the creature rears." A pause. Not hesitation. Filing. "It's in the water. Northeast quadrant. Forty meters down. Not moving."
+
+"Waiting," Dayo said from behind Solenne.
+
+"Yes."
+
+Solenne turned to the party. They were arranged in the last dry corridor before the chamber opened, and each of them was already doing the thing they did before a fight. Dayo had her gauntlets on and was rolling her shoulders in the slow, deliberate way that meant she was finding her center -- the defender settling weight before the whistle. The armored wrap Vesper had made was on her left forearm now, dark composite snug over the bracer gap that had almost cost her twenty-two meters of flooded corridor. Miriam stood beside Dayo with her staff in both hands and the clinical focus that meant she had already mapped every party member's HP in her head and allocated her mana. Vesper was checking her belt -- potions, gels, Mana Vials, the Reinforcement skill's forty-five-second cooldown already calculated into whatever timeline she was building. Nadia was crouched at the corridor's edge, watching the water with the particular stillness she used when she was thinking instead of performing.
+
+"Reactive armor," Solenne said. She kept her voice even, informational, the register the party needed from her before combat. "Arcane Analysis confirms what the Compact data suggested. The Tidebreaker's plating reconfigures after each damage type it receives. Impact damage, the plating hardens. Piercing, it angles. Magical, it disperses. Once it adapts to a type, that type deals approximately forty percent less damage until the adaptation cycle resets."
+
+"Reset timer?" Dayo asked.
+
+Solenne had been waiting for this question. "Three seconds. Solenne's Arcane Analysis shows a three-second delay between the armor registering a new impact type and reconfiguring. That's our window. We cycle damage types and keep switching before the armor catches up."
+
+Dayo processed this the way she processed tactical information: spatially, physically, running the geometry of the fight through her body before her mind caught up. "I open with Iron Stance on the central platform. Draw aggro. You call the type switches."
+
+"Miriam, Thorned Ground on the secondary platforms when it tries to reposition. Vesper, Reinforcement on Dayo once engagement is confirmed. Nadia --" Solenne looked at the crouched figure by the corridor's edge. "Disruption from the secondary platforms. Keep moving."
+
+"And Tomás is already where Tomás always is," Nadia said, without looking up.
+
+From above, through the channel: "Yes."
+
+Solenne looked at the black water one more time. The Cavelight Moths pulsed their soft blue-white above the lake, and the light scattered and reformed and scattered again, and beneath the surface something with reactive armor was waiting with the particular patience of a thing that had been designed to end parties who thought they understood it.
+
+"Go," she said.
+
+---
+
+Dayo hit the central platform at a run.
+
+Shield Rush carried her the last eight meters -- boots striking limestone, the skill's momentum slamming her into the platform's center with enough force to crack the mineral deposits under her feet. She planted. Iron Stance activated. The toggle engaged and she felt it in her legs first, then her spine, then everywhere: the world narrowing to the six-meter radius of threat she was generating, the System acknowledging her declaration -- *I am here, I am not moving, come and get me* -- with the flat mechanical certainty of a skill that meant what it said.
+
+The water erupted.
+
+The Tidebreaker came up fast. Not from the northeast where Tomás had marked it -- it had moved, in the seconds between the call and the engagement, repositioning underwater with a speed that Solenne's Arcane Analysis had not prepared her for. It breached the surface twelve meters from Dayo's platform in an explosion of black water and pale limestone fragments, and Solenne saw it clearly for the first time and her stomach dropped.
+
+It was bipedal. That was the wrong word for what it was, but it was the word the System used and the word the Compact's reports had logged. It stood on two rear legs that were thick as tree trunks, clawed, built for both water and stone. Its upper body was broad and armored -- plates of organic mineral layered over a musculature that rippled with each movement, the plates interlocking like something designed by an engineer who had studied both crustaceans and tanks. Its head was low, set forward on a ridge-backed neck, with a mouth that opened sideways and showed three rows of crushing teeth. The dorsal plates ran from the base of its skull to the middle of its back, and between the plates and the neck ridge -- there. The gap. The gap Tomás had identified from above, the only part of the creature's anatomy that was not armored.
+
+It was four meters tall standing on the secondary platform it had claimed. The platform was barely large enough for it. The water ran off its plates in sheets.
+
+It looked at Dayo.
+
+Dayo looked at it.
+
+"Come on," she said. Not through the party channel. To it. Directly.
+
+It came.
+
+The first hit was a sweeping strike from its right forelimb -- a clawed hand the size of Dayo's torso, coming in at a flat arc meant to knock her off the platform and into the water where it would have every advantage. Iron Stance held. Dayo braced, buckler angled, and the impact traveled through her arm and her shoulder and her planted legs and into the limestone and the limestone cracked but she did not move.
+
+She struck back. Gauntlet into the creature's forward plate -- a clean STR-scaled hit, the striking surface connecting with the Tidebreaker's chest armor with a sound like a hammer on an anvil. Damage numbers registered in her Combat Perception: meaningful, not trivial. The Tidebreaker's HP was a bar at the edge of her awareness that ticked down by a visible fraction.
+
+Second hit. Same location. Impact damage. The plates under her gauntlet shifted -- she felt it happen, the organic armor reconfiguring under her knuckles, hardening in real time like a bruise that learned. Third hit. The damage number was smaller. Noticeably smaller. Forty percent smaller.
+
+"Adaptation confirmed," Solenne's voice, sharp on the channel. "Impact-type resistance up. Switch to -- Nadia, Stumble now."
+
+The Tidebreaker's head jerked. Nadia had thrown from a secondary platform fifteen meters out -- not a grenade, a knife, Dave or one of his siblings, spinning end over end and hitting the creature's face with the Stumble effect's activation window open. The Tidebreaker's next swing went wide, confused, defenses dropping by twenty percent as the skill's debuff took hold.
+
+Dayo hit it with Shield Rush during the Stumble window. Not the long-range charge -- the short-range burst, two meters, gauntlet-first into the Stumbled creature's exposed side. The impact was different from her standard strikes: blunt force plus momentum plus the Stagger that Shield Rush applied, and the Tidebreaker actually moved, sliding half a meter on the wet limestone.
+
+"Piercing," Solenne called. "Tomás."
+
+Two arrows hit the Tidebreaker's lower body in quick succession. Precision Shot, both of them, angled down from the stalactites at trajectories that found the seams between plates. The creature shrieked -- a wet, resonant sound that bounced off the cave walls and came back multiplied. Its armor began to angle, shifting to deflect piercing damage, the plates tilting like shutters.
+
+Three seconds. The window was real. The armor could not adapt to what was already landing when it was still reconfiguring for the last type.
+
+Solenne threw an Arcane Bolt. It hit the Tidebreaker's shoulder and the magic-type damage registered clean, full value, because the armor was still configured against piercing. Arcane Mark triggered -- ten percent chance at her level, and it hit -- and the Tidebreaker's magical defense dropped by twenty percent as the mark settled onto its plating like a brand.
+
+Phase 1 was working. The cycling was working. Impact, debuff, piercing, magic. The Tidebreaker's HP bar was dropping in measured increments, each cycle shaving another fraction off, and Solenne was calling switches every three seconds with the precision of a conductor marking time.
+
+Then the creature adapted.
+
+Not to a damage type. To the pattern.
+
+---
+
+It happened between cycles. The Tidebreaker took a piercing hit from Tomás, and instead of reconfiguring for piercing -- the expected behavior, the three-second window Solenne had been counting on -- the armor held its previous configuration and added a second layer. Not one resistance. Two. Stacked. Impact and piercing simultaneously, the plates somehow maintaining both defensive profiles at once.
+
+Dayo's gauntlet hit armor that was ready for her.
+
+The damage number that registered was less than half of what it should have been. She felt it in the impact -- the dead quality of a strike absorbed by something that knew it was coming. Not guessed. Knew.
+
+"It's learning," Solenne said. The words came out flat, the register she used when fear was pressing against the back of her competence and she was holding it off with data. "The adaptation is compounding. It's not just reacting to the last hit -- it's building a profile."
+
+The Tidebreaker swung again. Harder this time, a double-armed overhead that Dayo caught on Iron Stance and felt in her teeth. Her HP dropped from four twenty-seven to three sixty-one. The creature was Phase 2 now -- sixty percent HP -- and the new mechanic was not a new ability. It was the same ability, evolved. Smarter armor. Armor that learned.
+
+"Cycling won't work," Dayo said through the channel. Short sentence. Combat register. The voice she used when information was more important than comfort. "It's reading us."
+
+Solenne's mind was racing. She could feel the tactical architecture of the fight shifting under her, the plan she had built becoming insufficient in real time. Standard cycling -- impact, piercing, magic, repeat -- was now a pattern the Tidebreaker could predict. Any sequence they ran, any rotation they established, the armor would incorporate within two cycles. They needed something the armor could not predict.
+
+Something unpredictable.
+
+She looked across the chamber to where Nadia was crouched on a secondary platform, throwing knife in one hand, grenade in the other. Nadia was watching the Tidebreaker's armor shift with the specific quality of attention she gave to things she understood mechanically before she understood them consciously -- the Trapsmith's eye, the pattern-reader's instinct, the person who saw how the setup worked.
+
+Nadia looked back at her.
+
+The moment lasted less than a second. It was enough.
+
+"So it needs chaos," Nadia said.
+
+Not a joke. Not a performance. Not delivered with timing or inflection or the careful architecture of a bit. Nadia said it the way you say something that is true and obvious and has been sitting in front of everyone for the last three minutes waiting for someone to name it. She said it plainly. She said it looking at Solenne across twenty meters of boss chamber with a Chaos Grenade in her hand and the particular directness of a person who had spent nineteen years being the disruption everyone needed and had just, for the first time, said so without disguising it as humor.
+
+"And we have chaos," Nadia said.
+
+Solenne heard it and the synthesis happened before the sentence was finished. The Trueweave did this -- the Aspect that connected, that bridged, that saw how the pieces fit before the pieces knew they were fitting. Chaos Grenade: random effects, unpredictable by design, a different debuff every throw with no pattern for the armor to learn. Arcane Mark: magical amplification, a tag that made everything that hit the marked target hit harder. The Tidebreaker's armor could not adapt to randomness because randomness was not a category. It could not build a profile on chaos because chaos was the absence of profile.
+
+And if Nadia's Chaos Grenade effects were hitting a target that was simultaneously Arcane Marked -- if the random debuffs were being amplified by the mark's twenty percent magic damage increase -- then the armor was not just confused. It was overwhelmed. Trying to categorize two simultaneous input streams, one of which was definitionally uncategorizable.
+
+Solenne looked at Nadia. Nadia was already primed. The grenade was in her hand. Her body was angled toward the Tidebreaker with the particular coiled readiness of someone who had decided what she was going to do and was waiting for the word.
+
+Solenne raised her staff. Arcane Mark was already active on the Tidebreaker from her earlier bolt. She channeled another -- not Arcane Bolt, just the Mark component, the resonance tag that would amplify magical effects on the target. She felt it settle onto the creature's plating.
+

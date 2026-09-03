@@ -1,0 +1,191 @@
+The numbers climbed while Callum slept.
+
+He woke to the hum of constructs and the taste of metal on his tongue -- the faint Flux residue that accumulated in the air when three automation threads ran concurrently through the night. Thin morning light cut through the warehouse's clerestory windows in gray slats, illuminating dust motes that drifted through the column of pale luminescence rising from his construct array. The cot beneath him was military surplus, the springs shot, and his lower back registered the familiar protest of a man who'd chosen to sleep next to his machines rather than walk thirty feet to the room with an actual mattress.
+
+The same cot. The same light. The same hum.
+
+Everything else was different.
+
+"Morning, Pip," he said.
+
+On his shoulder, the familiar chimed -- a two-tone note, rising then falling, like an answer. Not the uncertain flicker of a cursor waiting for input. Pip had grown. At Compile Familiar Level 3, the mote of pale gold light had developed contours: a suggestion of wings, a faint tail-like trail, a way of orienting itself toward whoever Callum was speaking to that implied attention. Still nonverbal. Still more subroutine than soul. But the chime was new, and it came unprompted, and Callum chose not to examine too closely whether that counted as communication.
+
+He reached for the notification blinking at the edge of his vision.
+
+"Let's see what we got."
+
+The overnight report materialized, crisp and clinical as a production readout. But the numbers were not the same numbers. They were not even the same kind of numbers.
+
+```stat-screen
+┌──────────────────────────────────────┐
+│  IDLE SESSION REPORT                 │
+│  Duration: 7h 48m                    │
+│  Mode: Compound Loop (3 threads)     │
+│  Prestige Tier: 1 — TEMPERED        │
+│  Multiplier: 1.5x applied           │
+├──────────────────────────────────────┤
+│  Thread 1 — Mk.V Sentinel           │
+│    Zone: Rustbelt Flats (Tier 1)    │
+│    Kills: 112                        │
+│    XP Earned: 2,847 (×1.65)         │
+│    Gold Earned: 489 G               │
+│    Close Calls: 0                    │
+│    Efficiency: 96.1%                 │
+├──────────────────────────────────────┤
+│  Thread 2 — Scrap Collector          │
+│    Zone: Rustbelt Flats (Tier 1)    │
+│    Materials: Scrap Metal x52,       │
+│      Wire Coil x14, Feral Herbs x9  │
+│    Efficiency: 94.8%                 │
+├──────────────────────────────────────┤
+│  Thread 3 — The Refinery             │
+│    Processed: Scrap Metal x48        │
+│    Output: Flux Cap. Components x8,  │
+│      Refined Alloy x19              │
+│    Efficiency: 93.2%                 │
+├──────────────────────────────────────┤
+│  TOTAL ESSENCE: 6,847               │
+│  COMPOUND EFFICIENCY: 96.8%         │
+│  Session Yield Multiplier: 2.30x    │
+│  Prestige Bonus: ×1.5 (applied)     │
+└──────────────────────────────────────┘
+```
+
+Callum swung his legs off the cot and reached for the field notebook on the overturned crate that served as his nightstand. The notebook was battered, its cover warped from humidity, its pages swollen with six months of handwritten data, diagrams, and equations. He flipped to a fresh page -- the last three days had filled four already -- and wrote today's numbers below yesterday's in precise block lettering.
+
+Day 1 post-Condense: 4,218 Essence.
+Day 2: 5,912.
+Day 3: 6,847.
+
+He underlined the three numbers and drew the curve.
+
+The slope wasn't steepening. It was *leaping*. In three days at Level 1 through 8, his construct operation was producing nearly half what it had at Level 24. The constructs didn't care what level he was -- they were external systems, crystallized Flux running on their own logic. The 1.5x multiplier simply made everything they fed him worth more. Every point of Essence, every sliver of XP, every Flux unit -- all of it amplified. Not by effort. By architecture.
+
+And the 1.65x effective multiplier -- the Condense base of 1.5 stacked with Veteran's Wisdom -- was doing something to the re-leveling pace that bordered on absurd. He'd reached Level 8 by the end of Day 3. The first time around, Level 8 had taken him two weeks.
+
+*Two weeks compressed to three days,* he thought, and the number moved through him like a current. *And the second Condense will compress further. And the third. Each loop faster than the last.*
+
+He set down the pen and did something he rarely did: he sat still for a moment and let the feeling land.
+
+Three days ago he had been Level 1. He'd been able to feel the weakness in his body like a second skin -- the fragility of base stats, the dullness where his Intelligence had once sharpened every perception into data. Three days ago, a Level 3 Rustbelt Hound could have killed him.
+
+Now he was Level 8, and climbing, and the curve was bending the right way. Again.
+
+Pip chimed on his shoulder. Two tones. Rising, falling.
+
+"Yeah," Callum said. "I know."
+
+---
+
+He checked his status while the coffee heated on the portable burner -- a luxury Mira had brought from her supply cache two days ago, declaring that anyone who survived a Condense deserved caffeine. Callum had not argued. He was learning that some optimizations were human.
+
+```stat-screen
+╔══════════════════════════════════════╗
+║  CALLUM VOSS                         ║
+║  Class: Loopweaver    | Level: 8     ║
+║  Prestige: 1 (Tempered)              ║
+║  Automation Tier: 3                  ║
+╠══════════════════════════════════════╣
+║  STR:  8           AGI:  8           ║
+║  VIT:  8           INT:  40 (+2/lvl) ║
+║  WIS:  40 (+2/lvl) PER:  8          ║
+║  WIL:  15          LCK:  8          ║
+╠══════════════════════════════════════╣
+║  HP:  186/186      MP:  550/550      ║
+║  Stamina: 100/100                    ║
+╠══════════════════════════════════════╣
+║  Idle Yield Mult: 2.30x [1.5x TEMPERED] ║
+║  Script Complexity: 25               ║
+║  Session Duration: 7.0 hrs           ║
+║  Thread Count: 3                     ║
+║  Construct Slots: 4                  ║
+╠══════════════════════════════════════╣
+║  Recursion: 16 (hidden)              ║
+╠══════════════════════════════════════╣
+║  Prestige Multiplier: 1.5x          ║
+║  Effective XP Multiplier: 1.65x     ║
+║  Prestige Shards: 14 remaining      ║
+╠══════════════════════════════════════╣
+║  Unallocated Stat Points: 0         ║
+║  Unallocated Skill Points: 13       ║
+╚══════════════════════════════════════╝
+```
+
+Level 8. The same level he'd been when the story of the Foundry District's quiet weirdo first started mattering to anyone. But this Level 8 was not that Level 8.
+
+His Intelligence sat at 40 -- fourteen points allocated, sixteen from class bonuses across eight levels. Last time, at this level, his INT had been a fraction of this, his stat allocation tentative, his understanding of the Loopweaver class still fumbling. Now he knew exactly where every point needed to go. INT and WIS, equal and heavy, with enough WIL to keep his session duration tolerable. Everything else could wait. He'd learned, with a clarity that prestige had only sharpened, that a Loopweaver's combat stats were decorative. His constructs fought. He *thought*.
+
+The Script Complexity of 25 was the real story. Last time he'd been excited to hit 29 at Level 12 -- it had felt like a breakthrough, the threshold where automation scripts stopped being toys and started being tools. Now he was at 25 at Level 8, and the gap to 29 was two levels away. The compressed pattern was *tighter*. Vera had said it would be -- "The Condense compresses your pattern, and the compressed version runs more efficiently" -- but feeling it was different from knowing it. His interface responded faster. His constructs' feedback loops seemed crisper, the data flowing through Thread Spinner with less latency, less noise. As if the Substrate recognized the difference between raw information and *refined* information, and preferred the latter.
+
+He poured coffee into a dented thermos and stood at the workbench, looking at his skill menu.
+
+The re-leveling of skills had been methodical. Day 1, while still shaking from the Condense, he'd purchased Regeneration to Level 3 -- bare minimum survival. Day 2, Efficient Killer to Level 3, restoring the XP and gold bonuses that made his constructs profitable. Auto-Target and Auto-Loot at Level 1 each, the basic automation bones. Script Engine at Level 1, because his compound loop needed at least rudimentary conditional logic to function.
+
+Eleven skill points spent. Thirteen remaining.
+
+He opened his prestige skill menu.
+
+The interface was different from the standard skill tree -- gold-bordered, with a weight to it that the normal menus lacked. The prestige skills glowed faintly, as if the Substrate wanted him to notice them. As if they mattered more.
+
+Two days ago, he had purchased his first prestige skills. The memory was still vivid: the shards dissolving into his System link, the sensation of something permanent slotting into place beneath the level-dependent architecture. Not temporary power. Foundation.
+
+```stat-screen
+┌─────────────────────────────────────────┐
+│  PRESTIGE SKILLS — Callum Voss          │
+│  Condense Tier: 1 (Tempered)            │
+│  Prestige Shards: 14 / 44              │
+├─────────────────────────────────────────┤
+│                                          │
+│  ✧ Veteran's Wisdom Lv.1      [10 ✧]   │
+│    +10% XP gain from all sources         │
+│    Status: ACTIVE (permanent)            │
+│                                          │
+│  ✧ Idle Mastery Lv.1          [20 ✧]   │
+│    Idle XP rate: 60% → 65% of active    │
+│    Status: ACTIVE (permanent)            │
+│                                          │
+│  ✧ Remaining Shards: 14                 │
+│    Saved for future investment           │
+│                                          │
+└─────────────────────────────────────────┘
+```
+
+The +10% XP from Veteran's Wisdom stacked multiplicatively with the 1.5x Condense multiplier. Total effective multiplier: 1.65x. At Level 8, with his compound loop running at 96.8% efficiency and the prestige bonuses applied, he'd calculated the time to Level 25 -- the second Condense threshold.
+
+Nine to ten days.
+
+The first time had taken four months.
+
+He set the thermos down and wrote the number in his notebook, circling it twice. Then he wrote beneath it, in the same block capitals he used for everything the Substrate said:
+
+*Time compression ratio: ~12x.*
+
+Twelve times faster. And the second Condense would grant another multiplier -- not additive, but compounding. The third faster still. The fourth --
+
+He stopped himself. The calculations spiraled outward into territory that felt less like math and more like vertigo. He closed the notebook.
+
+*One loop at a time.*
+
+---
+
+The warehouse was warm by mid-morning.
+
+Not warm in the way of heated buildings -- the stamping plant's HVAC had died with the grid -- but warm in a way that had nothing to do with temperature. Jin was sprawled across the worktable near the Scrap Collector's relay, surrounded by three System windows, two physical notebooks, and a half-eaten protein bar. His earth elemental, Chunk, sat motionless in the corner like a waist-high boulder with opinions, its combat script paused while Jin ran maintenance checks on the Shardfield operation they'd set up two weeks ago. Pixel, the fox-shaped scout familiar, was curled near Jin's elbow, its shifting blue light dimmed to a sleepy pulse.
+
+Mira sat on an overturned cable spool near the eastern door, her legs stretched out, the Fracture-Tooth Saber laid across her knees. The whetstone moved along the blade in a rhythm so practiced it was almost musical -- scrape, pause, turn, scrape. The morning light caught the edge and threw a thin line of reflected gold across the concrete floor. She'd been running her patrol route since dawn, checking each construct deployment point for threats, and had returned twenty minutes ago with the report she always gave: "Clear. Nothing interesting. Your metal crab freaks out the raccoons."
+
+Callum was rebuilding his automation scripts from scratch.
+
+This was the part that should have been painful -- the hours of work, the careful architecture, the accumulated refinements, all gone. Zeroed out with the Condense. Back to Script Engine Level 1, five-line scripts, the automation equivalent of finger-painting.
+
+It wasn't painful. It was *fast*.
+
+His fingers moved through the System interface with the certainty of someone who remembered every line of code he'd ever written, even if the skill ranks that had enabled those lines were gone. The architecture was in his head -- the conditional logic trees, the priority queues, the fallback routines. He'd designed them once through trial and error over months. Now he was rebuilding them from memory in hours, and the compressed pattern from the Condense made each line feel cleaner, more efficient, as if the Substrate were rendering his intentions with higher fidelity.
+
+```
+// Sentinel Combat Script v2.0 (post-Condense)
+IF enemy_count > 0 THEN engage(nearest)
+IF hp_percent < 25 THEN retreat(base)
+IF target.hp < 20 THEN cycle(next)
+```
+

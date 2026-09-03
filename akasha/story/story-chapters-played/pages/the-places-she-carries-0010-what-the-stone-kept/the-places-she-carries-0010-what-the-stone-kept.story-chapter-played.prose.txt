@@ -1,0 +1,169 @@
+Day 13. Five days remaining.
+
+She found a handprint on the threshold stone in the morning.
+
+Not recent -- not a human handprint from anyone alive. The impression was faint, worn into the surface of the limestone over what had to have been decades of repetition, the ghost of a palm pressed into the same place so many times that the mineral had softened and reshaped, not chipped away but worn smooth in the distinctive hollowed oval that only long, sustained pressure leaves. Wren crouched at the stone's edge and traced the impression without touching it, mapping its dimensions by eye: slightly narrower than her own palm, the fingers shorter, the pressure-point at the base of the thumb more pronounced.
+
+A healer's hand. Someone who had rested their palm on this stone every morning for years, decades, a lifetime, the gesture of a person who said hello to the places they loved.
+
+She sat back on her heels and felt the threshold stone's warmth rise through her boots.
+
+The bond was there -- the deep, geological patience she had felt when it formed, the warmth that was not for her but that she was part of, now, by virtue of standing where she stood and paying the attention she paid. The [Dormant] trait registered in the back of her throat, not quite a taste but adjacent to one: the particular quality of a thing that was sleeping and knew it was sleeping and had made peace with it. The Prayer-Notch's warmth was there too, to the north-east, a gentler heat, the [Tended] quality -- continuous, alive, the feeling of something that had never stopped being cared for even when no one was there to care. And to the east, quieter, the healer's house: [Kept], the weight of endurance, the bone-deep sense of a thing that had held and held and held.
+
+Three voices. Not three separate things she cycled through in sequence, attending to each in turn. Three things at once.
+
+She had not intended to try. She had come to the ruins early this morning with a specific plan: methodical survey, the kind that generated discoveries, the kind that moved her toward Known depth before Day 18. She had her journal open to a fresh page. She had the compass in her pocket, newly sensitive, the needle's pull sharpened by the Level 4 upgrade. She had a list, mental but organized, of threshold stone features she had not yet documented: the northern face's mineral banding, the join between the threshold and the gathering hall's first interior column, the precise resonance behavior of the stone's surface when wind moved through the ruins from the east.
+
+Instead she was sitting on her heels in the morning light looking at a dead healer's handprint, and all three bonds were present simultaneously, and she had no idea how long she had been here.
+
+She checked the compass. An hour. At least.
+
+---
+
+She spent the rest of the morning working.
+
+The methodology was familiar now: the wide-aperture attention, the slow movement around the feature's perimeter, the patience that was not passive but active -- noticing without grasping, the attention that the threshold stone seemed to respond to differently than the Shelf's cool patience or the Eye's bright curiosity. The stone responded to a specific quality of presence she had not named yet. Not reverence exactly. More like -- witness. The quality of being a witness to something that had existed before you arrived and would exist after you left, and knowing that your presence was one small data point in its very long history, not the center of it.
+
+The morning produced two discoveries.
+
+The first: the threshold stone's mineral banding was not uniform. Below the surface wear from centuries of foot traffic, at a depth visible only where the corner had chipped, the limestone showed layers -- thin dark bands alternating with pale limestone, each band approximately three millimeters wide. She counted twelve bands below the first significant wear layer, which at the typical limestone deposition rate she had studied for Cartographer's certifications placed the stone's formation at approximately four thousand years before human habitation. The stone predated Varethen by three thousand years. The settlement had not chosen its threshold stone. It had built itself around a stone that was already there.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Varethen — Threshold Stone
+  Type: Geological Feature
+  Threshold Stone Age: Approximately 4,000 years pre-settlement
+-------------------------------------------------------------
+
+  The stone was not chosen. It chose by existing.
+  Discovery 4/? toward depth advance.
+
+  +38 XP (Discovery: Geological)
+  +2 Surveying Proficiency
+-------------------------------------------------------------
+```
+
+The second discovery arrived the way the first one had: not from looking for it. She had sat with her back against the threshold stone at midday, eating from her pack, the warm limestone against her spine, and the bond had offered her something she had not asked for.
+
+The stone sounded different at midday.
+
+She had not noticed it before because she had not been still enough. But sitting with her spine against it, she could feel a vibration in the mineral that had not been there in the morning -- low, slow, below the range of audible sound but present in the limestone as a physical event. A resonance. The stone was humming with a frequency that was not its own but belonged to the sun's angle -- the way the heat of direct noon sun interacted with the stone's specific mineral composition to produce a thermal expansion at a rate that set the crystal structure vibrating at something just below the threshold of hearing.
+
+The stone sang at noon. Badly, quietly, entirely without an audience for three hundred years. And it was singing now, and she was the audience.
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Varethen — Threshold Stone
+  Type: Acoustic / Thermal Phenomenon
+  Noon Resonance: Thermal expansion creates sub-audible
+  harmonic in stone's crystal lattice. Solar-phase dependent.
+-------------------------------------------------------------
+
+  This is not a secret. It has no audience.
+  Discovery 5/? toward depth advance.
+
+  +42 XP (Discovery: Acoustic/Thermal)
+  +2 Surveying Proficiency
+-------------------------------------------------------------
+```
+
+She sat for a while after the notification cleared. The stone hummed in her spine. She ate a flatcake and thought about a stone singing to an empty ruin for three centuries, and felt the threshold stone's deep patience as something less like patience and more like fidelity.
+
+She had come to earn a bond. She was sitting in the ruins of a gathering hall while a four-thousand-year-old stone vibrated with the sun, and neither of them needed the other for this to be true, and somehow that was the most comforting thing she had felt all week.
+
+---
+
+She did the arithmetic in the afternoon.
+
+Not for the first time -- she had done it every night since the Maret conversation, the math running in the background of sleep the way the countdown ran in the background of everything. But she had been doing it optimistically. Today she did it plainly.
+
+Standard bond: 8-12 discoveries to advance from Glimpsed to Familiar. She had reached Familiar with the Warden's Shelf in approximately 10 discoveries, and with the Eye in 9. Those were standard bonds with uncomplicated histories and uncorrupted resonance fields.
+
+The threshold stone was not a standard bond. It was an anchor. Anchors held the structural integrity of the entire cluster -- every node hung from it, every cluster benefit depended on it, the triad relay existed only because the anchor held. Mechanical sense said anchors required more. Not because the bond was harder to form -- she had felt it form, the deep acknowledgment, the three-hundred-year preparation. But because Known depth at an anchor meant something different from Known depth at a node. The anchor was not just a place she knew. It was a place she understood structurally.
+
+She thought about how many things she didn't know about the threshold stone.
+
+She didn't know why it was placed here rather than somewhere else in the settlement. She didn't know what the healer used the gathering hall for beyond healing. She didn't know whether the noon resonance was unique to this stone or characteristic of this limestone deposit throughout the ruins.
+
+The afternoon light moved across the gathering hall's floor in a slow rectangular progress that the south-facing wall's shadow made measurable. She watched it for a moment.
+
+She didn't know what the [Dormant] trait was sleeping toward -- what specifically would wake when she reached Known depth, what the *sleeper* was. She had five discoveries. She suspected she needed fifteen.
+
+Ten more in five days.
+
+She was in the ruins from dawn to dusk. She had two and sometimes three discoveries per day on active survey days. Five days, ten discoveries, mathematically possible, but -- she was not progressing linearly. The first discoveries of a place came fastest, when the obvious features were visible. The later discoveries came from knowing the place well enough to notice what was hidden. And the later she was in the discovery process, the harder and slower each one became.
+
+She might do everything right and not make it.
+
+She sat with that thought the way she sat with the stone: without trying to resolve it. She had learned, over twelve days in the Thornwild, that some facts did not need to be fixed. They needed to be looked at plainly, filed accurately, and worked around.
+
+*What do I have that I haven't used?*
+
+The gap.
+
+She had the gap.
+
+---
+
+Hadley found her at the settlement's edge before she went in.
+
+He had come from camp with a satchel of field provisions and the specific expression he wore when he had Millhaven news and was deciding how to present it. She had learned to read the expression during the supply run preparation: the too-casual pack adjustment, the small hesitation before speaking.
+
+"Say it," she said.
+
+"I got word from camp. A runner from Millhaven." He adjusted the satchel strap. "Nothing urgent. Just -- there's someone asking about you. At Aldric Vane's inn."
+
+Wren looked at him.
+
+"Asking what?" she said.
+
+"Asking if you'd gone south. Whether the track to the escarpment was passable. Whether anyone knew what a Wayfinder actually did." He paused. "Aldric's niece, apparently. Brecca. She's been at the inn since yesterday." Another pause. "She's fifteen. Arrived from Thorngate six months ago."
+
+Wren held that information for a moment. A fifteen-year-old girl from Thorngate, at Aldric Vane's inn, asking about Wayfinders and southern tracks. She thought about what it meant to be fifteen and looking for a direction, and to hear that a girl a year older than you had walked into an unmapped forest with no combat skills and come back with five bonds and a ruined settlement and still be walking.
+
+She thought about what it would mean to wait for word from this specific girl.
+
+"She's not going to do anything rash," she said. It was not exactly a question.
+
+"She's at the inn," Hadley said. "Not at the escarpment. Theron has people who would notice if she came south." He looked at her carefully. "You could send a message. I'll be at Millhaven in two days."
+
+Wren thought about what message to send to a fifteen-year-old girl looking at a southern track.
+
+"Tell Aldric to keep her comfortable," she said. "Tell her -- tell her the settlement exists. Tell her I'll be back at Millhaven by Day 20 at the latest, and I want to talk to her myself." She paused. "Tell her the count says five. She'll know what I mean or she won't, but if she does, she'll understand why I can't come up now."
+
+Hadley wrote it in his notebook, the quick cramped handwriting she had learned to read upside-down. "Got it."
+
+She looked at the gap in the ghost-elm perimeter. The dead tree at its apex stood grey and silent against the living trees' translucent shimmer, its bark stripped to weathered wood, the gap it created a geometric absence in the ward that she had measured three times now and watched grow by increments she could almost feel.
+
+"I'm going in," she said.
+
+Hadley looked at where she was looking. "Into the gap."
+
+"The discovery at the Shelf came fastest when the bond was tested. When the Shelf had to hold something." She touched the compass in her pocket. "The [Dormant] trait -- it's sleeping. But when I was near the gap last night, I could feel it hold differently. Like it was awake but compressed. The bond was -- effortful. I had to maintain it instead of just having it." She met his eyes. "I want to know if discoveries made while I'm actively maintaining the bond count differently than discoveries made while it's just sitting there."
+
+Hadley was quiet. He had his notebook in one hand and his pen in the other, but he was not writing.
+
+"If you're wrong," he said, "you'll have spent two hours in the gap for nothing."
+
+"If I'm right," she said, "I'll have two hours of compressed-maintenance survey that might count double."
+
+He looked at her. "How will you know if you're right?"
+
+She took the compass out of her pocket. "The needle will tell me something. And when I come out, I'll see if the discovery count moved more than it should have."
+
+---
+
+The gap was different from the inside.
+
+She had expected this -- had walked through other ecological transitions and learned to feel the register change. But she had not expected the specific quality of the difference. Outside the ghost-elm perimeter, the Thornwild was the Thornwild: green, layered, the ambient potential of a place that had been doing its own thing for two hundred and fifty years. At the ward boundary, the ghost-elms' resonance created a frequency she felt in her sternum. Beyond that boundary, on the settlement's interior side, the ruins had their own register: warm, patient, deep.
+
+The gap was none of these.
+
+Inside the gap, the air was thinner. Not in temperature -- if anything it was warmer, the dead tree's absence letting afternoon sun reach ground level that was otherwise in canopy shade. But thin in the way resonance could be thin: the background hum of the forest present, but muted, as if heard through a wall. The bond-potentials shimmered at the edges of her [Wayfinder's Eye] vision, but less brightly. The threshold stone's warmth, which she could usually feel through the bond at moderate distances, was dim. Present. But dim.
+
+She walked to the dead tree and stood beside it.
+
+The needle dragged.
+
