@@ -10,6 +10,7 @@ export const items = {
   definition: "every item a sweep read out of the game, one item to a line",
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
+    { pagePropertySlug: "item-name", required: false, many: false },
     { pagePropertySlug: "icon", required: true, many: false },
     { pagePropertySlug: "mined-at", required: true, many: false },
     { pagePropertySlug: "item-id", required: true, many: false },
