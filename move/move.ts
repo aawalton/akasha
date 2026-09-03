@@ -4,7 +4,6 @@ import { isDirty, rootsHere, targetRepo, targetRoot } from "@akasha/pages-system
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { canonicalize } from "@akasha/pages-system/repo-path"
 import { anyRefused, render } from "@akasha/verdict/outcome"
-import type { Addressed } from "../ops-cli/global/address.ts"
 import { carriesBytes } from "../page/file-kind/carries-bytes.ts"
 import { pagesOfSidecar, sidecarCarriedTo, sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { trackedIn, untrackedIn } from "../page/tracked/tracked.ts"
@@ -24,6 +23,14 @@ import {
 import { slugEdges } from "../repoint/reslug.ts"
 
 const NUL = String.fromCharCode(0)
+
+// One end of a move: which checkout it names and where that checkout stands. This was imported
+// from `ops-cli/global/address.ts`, which went with the worktree commands it helped; the shape is
+// two fields and is declared here rather than left pointing at a file that is not there.
+export interface Addressed {
+  readonly repo: string
+  readonly root: string
+}
 
 export interface Pair {
   readonly from: string
