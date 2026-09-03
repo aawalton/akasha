@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const missingSimulator = {
   id: "01a06594-c67b-7007-9310-87e51b6a6de1",
