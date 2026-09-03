@@ -46,6 +46,23 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
+      statement: "A file under a router app's routes folder is not judged.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The one program built here states no root directories.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A route reaches its generated types through the root directories its package states.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A router app's routes are judged by the app's own compile.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every declaration file akasha holds is compiled with every change.",
     },
     {
