@@ -1,15 +1,15 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
 import type { Car } from "../cars/car.page-type.ts"
-import type { ChargingNetworkAccess } from "./properties/chargingNetworkAccess.text-property.ts"
+import type { ChargingNetworkAccess } from "./properties/charging-network-access.text-property.ts"
 import type { Country } from "./properties/country.text-property.ts"
-import type { DrmPolicy } from "./properties/drmPolicy.text-property.ts"
-import type { ElectrificationStrategy } from "./properties/electrificationStrategy.text-property.ts"
-import type { FoundingYear } from "./properties/foundingYear.number-property.ts"
-import type { KillSwitchPolicy } from "./properties/killSwitchPolicy.text-property.ts"
-import type { NacsAdoption } from "./properties/nacsAdoption.text-property.ts"
-import type { ParentCorporation } from "./properties/parentCorporation.text-property.ts"
-import type { ReliabilityNotes } from "./properties/reliabilityNotes.text-property.ts"
+import type { DrmPolicy } from "./properties/drm-policy.text-property.ts"
+import type { ElectrificationStrategy } from "./properties/electrification-strategy.text-property.ts"
+import type { FoundingYear } from "./properties/founding-year.number-property.ts"
+import type { KillSwitchPolicy } from "./properties/kill-switch-policy.text-property.ts"
+import type { NacsAdoption } from "./properties/nacs-adoption.text-property.ts"
+import type { ParentCorporation } from "./properties/parent-corporation.text-property.ts"
+import type { ReliabilityNotes } from "./properties/reliability-notes.text-property.ts"
 
 export type CarMake = Car & {
   title: Title
@@ -25,34 +25,34 @@ export type CarMake = Car & {
 }
 
 export const carMake = {
-  id: "01a06598-aa7b-7936-ba33-b8068e9c42c5",
+  id: "01a0659b-cde9-7882-b813-5e15f04872b4",
   pageTypeSlug: "page-type",
   slug: "car-make",
   definition: "a company that builds cars",
   pluralSlug: "car-makes",
   extendsSlug: "page-type/car",
   partSlugs: [
-    "number-property/foundingYear",
-    "text-property/chargingNetworkAccess",
+    "number-property/founding-year",
+    "text-property/charging-network-access",
     "text-property/country",
-    "text-property/drmPolicy",
-    "text-property/electrificationStrategy",
-    "text-property/killSwitchPolicy",
-    "text-property/nacsAdoption",
-    "text-property/parentCorporation",
-    "text-property/reliabilityNotes",
+    "text-property/drm-policy",
+    "text-property/electrification-strategy",
+    "text-property/kill-switch-policy",
+    "text-property/nacs-adoption",
+    "text-property/parent-corporation",
+    "text-property/reliability-notes",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "chargingNetworkAccess", required: true, many: false },
+    { pagePropertySlug: "charging-network-access", required: true, many: false },
     { pagePropertySlug: "country", required: true, many: false },
-    { pagePropertySlug: "drmPolicy", required: true, many: false },
-    { pagePropertySlug: "electrificationStrategy", required: true, many: false },
-    { pagePropertySlug: "foundingYear", required: true, many: false },
-    { pagePropertySlug: "killSwitchPolicy", required: true, many: false },
-    { pagePropertySlug: "nacsAdoption", required: true, many: false },
-    { pagePropertySlug: "parentCorporation", required: true, many: false },
-    { pagePropertySlug: "reliabilityNotes", required: true, many: false },
+    { pagePropertySlug: "drm-policy", required: true, many: false },
+    { pagePropertySlug: "electrification-strategy", required: true, many: false },
+    { pagePropertySlug: "founding-year", required: true, many: false },
+    { pagePropertySlug: "kill-switch-policy", required: true, many: false },
+    { pagePropertySlug: "nacs-adoption", required: true, many: false },
+    { pagePropertySlug: "parent-corporation", required: true, many: false },
+    { pagePropertySlug: "reliability-notes", required: true, many: false },
   ],
   invariants: [
     {
