@@ -172,7 +172,7 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...buildkitBuild({
         name: "postgres-gfs-promoter-build-image",
         context: ".",
-        dockerfile: "infra/k8s-postgres-gfs-promoter",
+        dockerfile: "akasha/infrastructure/backup-retention",
         tag: GFS_PROMOTER_IMAGE_TAG,
         cache: false,
         image: IMAGES.CI,
@@ -193,7 +193,7 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -f infra/k8s-postgres-gfs-promoter/gfs-promoter/generated/cronjob.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f akasha/infrastructure/backup-retention/gfs-promoter/generated/cronjob.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -238,7 +238,7 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -f infra/k8s-postgres-gfs-promoter/seaweedfs-backup-longtail/generated/cronjob.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f akasha/infrastructure/backup-retention/seaweedfs-backup-longtail/generated/cronjob.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
