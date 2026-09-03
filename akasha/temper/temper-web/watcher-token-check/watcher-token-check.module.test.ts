@@ -1,5 +1,7 @@
 import { beforeEach, describe, expect, mock, test } from "bun:test"
+import { join } from "node:path"
 import { asPage, type Page } from "@akasha/pages-core/page-types"
+import { shadowAt } from "@akasha/pages-system/shadow"
 
 const TOKEN = "wt_0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
 const TOKEN_SHA256 = "075ca82e4a533c9dc2cd45cbff379464a0163550bceedae2fd2e9fe27965c773"
@@ -39,9 +41,8 @@ mock.module("@akasha/pages-access/patch", () => ({
   recordPageView: unreached("recordPageView"),
 }))
 
-const { validateWatcherToken, watcherTokenHash } = await import(
-  "./watcher-token-check.module.code.ts"
-)
+const { ENROLMENT_KEYS, TEMPER_WATCHER_ENROLMENT_SLUG, validateWatcherToken, watcherTokenHash } =
+  await import("./watcher-token-check.module.code.ts")
 
 function enrolled(tokenHash: string): Page {
   return asPage({
@@ -140,5 +141,39 @@ describe("validateWatcherToken grants access", () => {
     expect(patchCalls).toHaveLength(1)
     expect(said).toHaveLength(1)
     expect(said[0]).toContain("tokenLastUsedAt")
+  })
+})
+
+describe("the keys this module selects are keys the page type declares", () => {
+  // The defect this guards was `select: [..., "accountUserId"]` against a page
+  // type that declares no such property: the read came back undefined, the guard
+  // turned every caller away, and nothing said so. `propertiesOf` walks the
+  // `extendsSlug` chain and reads the `properties:` arrays, so a property that is
+  // uncommitted or secret — absent from the page type's `export type` alias —
+  // still counts as declared.
+  const declared = new Set(
+    shadowAt(join(import.meta.dir, "..", "..", "..", ".."))
+      .index.propertiesOf(TEMPER_WATCHER_ENROLMENT_SLUG)
+      .map((one) => one.key)
+  )
+
+  test("the instrument is alive: the page type declares the properties it is known to", () => {
+    // A dead instrument answers an empty set, and every check below would then
+    // pass vacuously. These are read off the page type's own `properties:` array.
+    expect(declared.has("tokenHash")).toBe(true)
+    expect(declared.has("token")).toBe(true) // secret, so absent from the alias
+    expect(declared.has("tokenLastUsedAt")).toBe(true) // uncommitted, likewise
+    expect(declared.has("title")).toBe(true) // inherited from temper-thing
+    expect(declared.has("id")).toBe(true) // inherited from page
+  })
+
+  test("every selected key is declared", () => {
+    for (const key of ENROLMENT_KEYS) {
+      expect([key, declared.has(key)]).toEqual([key, true])
+    }
+  })
+
+  test("accountUserId, the key the defect asked for, is declared nowhere in the chain", () => {
+    expect(declared.has("accountUserId")).toBe(false)
   })
 })

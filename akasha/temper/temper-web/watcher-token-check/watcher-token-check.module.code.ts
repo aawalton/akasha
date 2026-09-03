@@ -2,7 +2,14 @@ import { createHash, timingSafeEqual } from "node:crypto"
 import { getPage } from "@akasha/pages-access/get"
 import { patchPageById } from "@akasha/pages-access/patch"
 
-const TEMPER_WATCHER_ENROLMENT_SLUG = "temper-watcher-enrolment"
+export const TEMPER_WATCHER_ENROLMENT_SLUG = "temper-watcher-enrolment"
+
+// Every key this module reads off an enrolment row. A key the page type does not
+// declare comes back undefined rather than refusing, so the guards below would
+// turn every caller away and say nothing. The test walks the page type's
+// `extendsSlug` chain and fails on any key here that the chain does not declare.
+export const ENROLMENT_KEYS = ["id", "tokenHash", "accountPage"] as const
+
 const TOKEN_SHAPE = /^wt_[0-9a-f]{64}$/
 const HASH_SHAPE = /^[0-9a-f]{64}$/
 
@@ -29,7 +36,7 @@ export async function validateWatcherToken(
   const row = await getPage({
     pageTypeSlug: TEMPER_WATCHER_ENROLMENT_SLUG,
     where: [{ key: "tokenHash", eq: presented }],
-    select: ["id", "tokenHash", "accountPage"],
+    select: [...ENROLMENT_KEYS],
   })
   if (!row) return null
   if (!sameHash(row.tokenHash, presented)) return null
@@ -37,7 +44,7 @@ export async function validateWatcherToken(
   const enrolmentPageId = row.id
   if (typeof enrolmentPageId !== "string") {
     console.error(
-      `validateWatcherToken: an enrolment matched the presented digest and carries no \`id\`, so access is refused. \`temper-watcher-enrolment\` takes \`id\` from \`page\`, where it is required, so a row arriving here without one is a fault in the read rather than a caller to turn away.`
+      `validateWatcherToken: an enrolment matched the presented digest and carries no \`id\`, so access is refused. \`${TEMPER_WATCHER_ENROLMENT_SLUG}\` takes \`id\` from \`page\`, where it is required, so a row arriving here without one is a fault in the read rather than a caller to turn away.`
     )
     return null
   }
@@ -45,7 +52,7 @@ export async function validateWatcherToken(
   const accountPageId = row.accountPage
   if (typeof accountPageId !== "string") {
     console.error(
-      `validateWatcherToken(${enrolmentPageId}): the enrolment matched the presented digest and carries no \`accountPage\`, so access is refused. \`temper-watcher-enrolment\` declares \`account-page\` required, so an enrolment arriving here without one is a defect rather than a caller to turn away, and every token that enrolment issued is refused until it names an account.`
+      `validateWatcherToken(${enrolmentPageId}): the enrolment matched the presented digest and carries no \`accountPage\`, so access is refused. \`${TEMPER_WATCHER_ENROLMENT_SLUG}\` declares \`account-page\` required, so an enrolment arriving here without one is a defect rather than a caller to turn away, and every token that enrolment issued is refused until it names an account.`
     )
     return null
   }
