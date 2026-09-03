@@ -108,7 +108,7 @@ export type AddonDataPages = {
   minedRestorePotions: readonly MinedRestorePotion[]
 }
 
-type Asked = {
+export type Asked = {
   readonly accessor: string
   readonly pageTypeSlug: string
   readonly limit?: number
@@ -116,7 +116,7 @@ type Asked = {
   readonly sidecars?: true
 }
 
-const ASKED: readonly Asked[] = [
+export const ASKED: readonly Asked[] = [
   { accessor: "affixScriptPages", pageTypeSlug: "temper-affix-script" },
   { accessor: "alliancePages", pageTypeSlug: "temper-alliance" },
   { accessor: "armorEnchantPages", pageTypeSlug: "temper-armor-enchant", sidecars: true },
@@ -219,7 +219,7 @@ const ASKED: readonly Asked[] = [
   { accessor: "potionCrownPages", pageTypeSlug: "temper-potion-crown" },
 ]
 
-async function answered(one: Asked): Promise<readonly [string, PageResult]> {
+export async function answered(one: Asked): Promise<readonly [string, PageResult]> {
   const got = await getPages({
     pageTypeSlug: one.pageTypeSlug,
     limit: one.limit ?? WHOLE,

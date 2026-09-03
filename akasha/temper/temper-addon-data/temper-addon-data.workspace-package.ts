@@ -10,6 +10,7 @@ export const temperAddonData = {
     "module/addon-data-output-dirs",
     "module/addon-data-page-rows",
     "module/addon-data-pages",
+    "module/addon-data-proof",
     "module/addon-data-target",
     "module/addon-data-writes",
     "module/addon-data-writes-alchemy",
