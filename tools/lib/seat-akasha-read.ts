@@ -6,7 +6,7 @@ import {
   akashaBesideOf,
   akashaRoot,
   akashaSeatPathForAgent,
-  akashaSeatsStanding,
+  akashaSeatsThatExist,
   besideWrittenAtMs,
   CARRIED,
   RECORDS,
@@ -112,7 +112,7 @@ export interface SeatStated {
 // every beat, so the sidecar was already the answer in all but the first moment of a seat's life.
 export function akashaSeatsStated(): readonly SeatStated[] {
   const found: SeatStated[] = []
-  for (const [id, name] of akashaSeatsStanding()) {
+  for (const [id, name] of akashaSeatsThatExist()) {
     const values = akashaSeatValuesOf(id)
     if (values === null) continue
     const page = akashaSeatPathForAgent(id)

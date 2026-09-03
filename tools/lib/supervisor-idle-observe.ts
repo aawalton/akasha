@@ -1,7 +1,7 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { principalSeatIdOf } from "./seat-principal.ts"
 import { agentPresence } from "./seat-presence-read.ts"
-import { akashaSeatsStanding } from "./seat-akasha-beside.ts"
+import { akashaSeatsThatExist } from "./seat-akasha-beside.ts"
 import type { SeatPresence } from "./seat-proc-key.ts"
 import { shape } from "./shape.ts"
 import type { BusyChildDetail, IdleObservation, IdleRuleSource } from "./supervisor-idle-rule.ts"
@@ -50,7 +50,7 @@ export function selectInFlightDispatch(
 // wanted from that page was the id alone.
 export function dispatchChildrenNow(): readonly DispatchChild[] {
   const found: DispatchChild[] = []
-  for (const agentId of akashaSeatsStanding().keys()) {
+  for (const agentId of akashaSeatsThatExist().keys()) {
     found.push({
       agentId,
       principalSeatId: principalSeatIdOf(agentId),

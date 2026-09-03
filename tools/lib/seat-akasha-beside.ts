@@ -115,7 +115,7 @@ export function akashaSeatSlugOf(agentId: string): string | null {
 // Every seat akasha holds, as the agent's id against the name its page stands under. This is what a
 // walk of the old seat directory turns into: a reader that lists seats rather than asking after one
 // has to list them from both systems, or a seat that stands only in akasha is not there at all.
-export function akashaSeatsStanding(): ReadonlyMap<string, string> {
+export function akashaSeatsThatExist(): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   for (const [id, path] of seatsStandingInAkasha()) {
     const name = path.slice(SEAT_DIR.length)

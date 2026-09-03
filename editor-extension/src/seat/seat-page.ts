@@ -1,4 +1,4 @@
-import { akashaSeatsStanding } from '@tools/lib/seat-akasha-beside';
+import { akashaSeatsThatExist } from '@tools/lib/seat-akasha-beside';
 
 // A SEAT IS READ FROM AKASHA, AND AKASHA ANSWERS FROM ITS INDEX RATHER THAN BY WALKING A FOLDER.
 // Both of these opened every file in the old seat directory and hand-parsed its frontmatter to find
@@ -14,12 +14,12 @@ export async function agentIdsForSeatNames(
 ): Promise<ReadonlyMap<string, string>> {
 	const wanted = new Set(names);
 	const found = new Map<string, string>();
-	for (const [id, name] of akashaSeatsStanding()) {
+	for (const [id, name] of akashaSeatsThatExist()) {
 		if (wanted.has(name)) { found.set(name, id); }
 	}
 	return found;
 }
 
 export async function seatNamesThatExist(): Promise<ReadonlySet<string>> {
-	return new Set(akashaSeatsStanding().values());
+	return new Set(akashaSeatsThatExist().values());
 }

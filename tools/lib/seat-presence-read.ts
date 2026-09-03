@@ -4,7 +4,7 @@ import {
   akashaHolderProcessOf,
   akashaSeatIdForName,
   akashaSeatPathForAgent,
-  akashaSeatsStanding,
+  akashaSeatsThatExist,
   akashaSeatSlugOf,
 } from "./seat-akasha-beside.ts"
 import { parseSeatProcKey, type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
@@ -45,7 +45,7 @@ export function frontmatterOf(pagePath: string): Record<string, unknown> | null 
 // EVERY AGENT AKASHA HOLDS A SEAT FOR. This listed the ids read out of the old pages' frontmatter,
 // which meant a file opened for each seat to learn a set the index already answers.
 export function seatPageAgents(): readonly string[] {
-  return [...akashaSeatsStanding().keys()].sort()
+  return [...akashaSeatsThatExist().keys()].sort()
 }
 
 // WHO SITS IN THE SEAT OF THIS NAME, ANSWERED BY AKASHA. This found the old page by name and
@@ -89,7 +89,7 @@ export function seatNameForAgent(agentId: string): string | null {
 // for each one to turn its path back into the id that asks. Akasha answers the name and the id
 // together, so neither step is needed.
 export function seatNameForSupervisorPid(pid: number): string | null {
-  for (const [agentId, name] of akashaSeatsStanding()) {
+  for (const [agentId, name] of akashaSeatsThatExist()) {
     const stated = akashaHolderProcessOf(agentId)
     if (stated === null) continue
     const key = parseSeatProcKey(stated)

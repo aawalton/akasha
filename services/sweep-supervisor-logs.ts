@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { readdirSync, rmSync, statSync } from "node:fs"
-import { akashaSeatsStanding } from "../tools/lib/seat-akasha-beside.ts"
+import { akashaSeatsThatExist } from "../tools/lib/seat-akasha-beside.ts"
 import { supervisorsRootDir } from "../tools/lib/supervisor-log-path.ts"
 
 const HELP = `bun services/sweep-supervisor-logs.ts — delete the log directory of every departed supervisor
@@ -73,7 +73,7 @@ export function decideDir(input: KeepInput): Verdict {
 // absent from what this answers. So a store that has stopped being written reads here as every
 // seat having departed at once, and the sweep would take the whole fleet's logs.
 export function standingSeatAgentIds(): ReadonlySet<string> {
-  return new Set(akashaSeatsStanding().keys())
+  return new Set(akashaSeatsThatExist().keys())
 }
 
 function factsOf(root: string, name: string): DirFacts | null {

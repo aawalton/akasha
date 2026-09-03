@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { sayAnswer } from "./lib/answer.ts"
-import { akashaSeatsStanding } from "./lib/seat-akasha-beside.ts"
+import { akashaSeatsThatExist } from "./lib/seat-akasha-beside.ts"
 import { akashaSeatRecordOf } from "./lib/seat-akasha-read.ts"
 
 const TRANSCRIPT_KEY = "transcript-path"
@@ -31,7 +31,7 @@ export interface SeatTranscript {
 
 export function seatTranscripts(): readonly SeatTranscript[] {
   const found: SeatTranscript[] = []
-  for (const [agentId, seatName] of akashaSeatsStanding()) {
+  for (const [agentId, seatName] of akashaSeatsThatExist()) {
     const held = akashaSeatRecordOf(agentId, TRANSCRIPT_KEY)
     if (held === null || held.value === "") continue
     found.push({ agentId, seatName, transcriptPath: held.value })
