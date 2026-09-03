@@ -26,9 +26,9 @@ export const characterBuild = {
   ],
   properties: [
     { pagePropertySlug: "build-hash", required: true, many: false },
-    { pagePropertySlug: "visibility", required: true, many: false },
-    { pagePropertySlug: "correlation-id", required: false, many: false },
-    { pagePropertySlug: "target-count", required: false, many: false },
+    { pagePropertySlug: "build-visibility", required: true, many: false },
+    { pagePropertySlug: "build-correlation-id", required: false, many: false },
+    { pagePropertySlug: "build-target-count", required: false, many: false },
   ],
   invariants: [
     {
