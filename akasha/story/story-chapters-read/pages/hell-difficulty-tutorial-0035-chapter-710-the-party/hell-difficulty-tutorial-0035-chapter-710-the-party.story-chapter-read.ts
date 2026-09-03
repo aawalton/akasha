@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0035Chapter710TheParty = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0035-chapter-710-the-party",
   title: "Chapter 710 - The Party",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 35,
   ownLength: 2253,
   unitSlug: "words",

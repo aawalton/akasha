@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0060Chapter735Instrument = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0060-chapter-735-instrument",
   title: "Chapter 735 - Instrument",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 60,
   ownLength: 2154,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0013HalloweenSpecialNonCanonNibbleToRemember 
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0013-halloween-special-non-canon-nibble-to-remember",
   title: "Halloween Special (non-canon) - Nibble to Remember: part 2",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 13,
   ownLength: 1449,
   unitSlug: "words",

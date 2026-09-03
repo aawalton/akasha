@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0020NotAChapterAnnouncementBook6LiveOnAmazon 
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0020-not-a-chapter-announcement-book-6-live-on-amazon",
   title: "Not a Chapter. Announcement – Book 6 Live on Amazon!",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 20,
   ownLength: 185,
   unitSlug: "words",

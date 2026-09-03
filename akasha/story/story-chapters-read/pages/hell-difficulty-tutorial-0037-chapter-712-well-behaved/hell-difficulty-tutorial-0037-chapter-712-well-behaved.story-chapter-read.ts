@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0037Chapter712WellBehaved = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0037-chapter-712-well-behaved",
   title: "Chapter 712 - Well-behaved",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 37,
   ownLength: 2099,
   unitSlug: "words",

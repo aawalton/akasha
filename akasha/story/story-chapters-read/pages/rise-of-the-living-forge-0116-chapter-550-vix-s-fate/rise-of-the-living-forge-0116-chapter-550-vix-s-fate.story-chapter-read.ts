@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0116Chapter550VixSFate = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0116-chapter-550-vix-s-fate",
   title: "Chapter 550: Vix's Fate",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 116,
   ownLength: 1918,
   unitSlug: "words",

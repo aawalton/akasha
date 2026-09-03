@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0145Chapter578TheAuction = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0145-chapter-578-the-auction",
   title: "Chapter 578: The Auction",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 145,
   ownLength: 1819,
   unitSlug: "words",

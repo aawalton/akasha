@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0045Chapter720GuessWhosBackIdiot = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0045-chapter-720-guess-whos-back-idiot",
   title: "Chapter 720 - Guess who’s back, idiot!",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 45,
   ownLength: 2159,
   unitSlug: "words",

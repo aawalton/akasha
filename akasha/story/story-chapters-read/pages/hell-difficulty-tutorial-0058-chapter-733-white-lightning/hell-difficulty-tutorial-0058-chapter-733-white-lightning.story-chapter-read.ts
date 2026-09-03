@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0058Chapter733WhiteLightning = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0058-chapter-733-white-lightning",
   title: "Chapter 733 - White lightning",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 58,
   ownLength: 2186,
   unitSlug: "words",

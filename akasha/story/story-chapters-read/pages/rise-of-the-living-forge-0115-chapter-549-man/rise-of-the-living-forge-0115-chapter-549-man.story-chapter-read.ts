@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0115Chapter549Man = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0115-chapter-549-man",
   title: "Chapter 549: Man",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 115,
   ownLength: 1936,
   unitSlug: "words",

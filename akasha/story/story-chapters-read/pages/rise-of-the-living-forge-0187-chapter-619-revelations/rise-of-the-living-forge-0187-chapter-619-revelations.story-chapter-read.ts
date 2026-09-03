@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0187Chapter619Revelations = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0187-chapter-619-revelations",
   title: "Chapter 619: Revelations",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 187,
   ownLength: 1747,
   unitSlug: "words",

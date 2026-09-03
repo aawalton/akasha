@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0055Chapter730FeralAnimal = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0055-chapter-730-feral-animal",
   title: "Chapter 730 - Feral animal",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 55,
   ownLength: 2364,
   unitSlug: "words",

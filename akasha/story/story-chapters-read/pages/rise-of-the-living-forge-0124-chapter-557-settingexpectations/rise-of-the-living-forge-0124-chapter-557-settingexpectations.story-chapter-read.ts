@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0124Chapter557Settingexpectations = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0124-chapter-557-settingexpectations",
   title: "Chapter 557: SettingExpectations",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 124,
   ownLength: 1743,
   unitSlug: "words",

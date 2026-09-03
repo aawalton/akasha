@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0041Chapter716MythicalBeing = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0041-chapter-716-mythical-being",
   title: "Chapter 716 - Mythical being",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 41,
   ownLength: 2131,
   unitSlug: "words",

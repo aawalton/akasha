@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0144Chapter577DelayedPayements = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0144-chapter-577-delayed-payements",
   title: "Chapter 577: Delayed Payements",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 144,
   ownLength: 1650,
   unitSlug: "words",

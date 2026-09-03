@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0169Chapter601Dread = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0169-chapter-601-dread",
   title: "Chapter 601: Dread",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 169,
   ownLength: 2075,
   unitSlug: "words",

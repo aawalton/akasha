@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0138Chapter571TheRightFeeling = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0138-chapter-571-the-right-feeling",
   title: "Chapter 571: The Right Feeling",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 138,
   ownLength: 2218,
   unitSlug: "words",

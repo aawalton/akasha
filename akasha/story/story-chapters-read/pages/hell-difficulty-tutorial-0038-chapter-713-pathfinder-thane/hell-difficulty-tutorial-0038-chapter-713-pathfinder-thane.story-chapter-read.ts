@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0038Chapter713PathfinderThane = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0038-chapter-713-pathfinder-thane",
   title: "Chapter 713 - Pathfinder Thane",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 38,
   ownLength: 2353,
   unitSlug: "words",

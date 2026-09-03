@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0126Chapter559Concerns = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0126-chapter-559-concerns",
   title: "Chapter 559: Concerns",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 126,
   ownLength: 1740,
   unitSlug: "words",

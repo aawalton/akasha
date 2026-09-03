@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0036Chapter711NoIllWill = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0036-chapter-711-no-ill-will",
   title: "Chapter 711 - No ill will",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 36,
   ownLength: 2115,
   unitSlug: "words",

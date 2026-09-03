@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0133Chapter566Ragged = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0133-chapter-566-ragged",
   title: "Chapter 566: Ragged",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 133,
   ownLength: 2048,
   unitSlug: "words",

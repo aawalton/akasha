@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0184Chapter616ProbablyFine = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0184-chapter-616-probably-fine",
   title: "Chapter 616: Probably fine.",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 184,
   ownLength: 1737,
   unitSlug: "words",

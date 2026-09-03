@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0029Chapter704YouCameToTheWrongNeighborhood =
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0029-chapter-704-you-came-to-the-wrong-neighborhood",
   title: "Chapter 704 - You Came to the Wrong Neighborhood",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 29,
   ownLength: 2624,
   unitSlug: "words",

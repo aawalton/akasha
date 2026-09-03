@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0165Chapter597DangerousIdeas = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0165-chapter-597-dangerous-ideas",
   title: "Chapter 597: Dangerous Ideas",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 165,
   ownLength: 1749,
   unitSlug: "words",

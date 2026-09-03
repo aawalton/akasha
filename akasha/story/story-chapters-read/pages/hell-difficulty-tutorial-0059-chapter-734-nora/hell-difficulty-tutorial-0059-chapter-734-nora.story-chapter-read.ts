@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0059Chapter734Nora = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0059-chapter-734-nora",
   title: "Chapter 734 - NORA",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 59,
   ownLength: 2246,
   unitSlug: "words",

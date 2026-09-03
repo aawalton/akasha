@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0132Chapter565CallKein = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0132-chapter-565-call-kein",
   title: "Chapter 565: Call Kein",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 132,
   ownLength: 1613,
   unitSlug: "words",

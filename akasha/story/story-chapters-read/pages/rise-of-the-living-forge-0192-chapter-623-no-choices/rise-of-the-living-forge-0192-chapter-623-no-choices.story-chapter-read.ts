@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0192Chapter623NoChoices = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0192-chapter-623-no-choices",
   title: "Chapter 623: No Choices",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 192,
   ownLength: 1919,
   unitSlug: "words",

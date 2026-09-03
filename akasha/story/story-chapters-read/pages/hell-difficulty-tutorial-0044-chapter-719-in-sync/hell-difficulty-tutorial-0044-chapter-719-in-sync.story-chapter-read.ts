@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0044Chapter719InSync = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0044-chapter-719-in-sync",
   title: "Chapter 719 - In sync",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 44,
   ownLength: 2084,
   unitSlug: "words",

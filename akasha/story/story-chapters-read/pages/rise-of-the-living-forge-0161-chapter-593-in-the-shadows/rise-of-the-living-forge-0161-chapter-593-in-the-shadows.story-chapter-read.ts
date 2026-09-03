@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0161Chapter593InTheShadows = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0161-chapter-593-in-the-shadows",
   title: "Chapter 593: In the shadows",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 161,
   ownLength: 1634,
   unitSlug: "words",

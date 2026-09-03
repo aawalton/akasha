@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0167Chapter599TheSource = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0167-chapter-599-the-source",
   title: "Chapter 599: The source",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 167,
   ownLength: 1678,
   unitSlug: "words",

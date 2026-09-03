@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0123Chapter556Mausoleum = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0123-chapter-556-mausoleum",
   title: "Chapter 556: Mausoleum",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 123,
   ownLength: 1962,
   unitSlug: "words",

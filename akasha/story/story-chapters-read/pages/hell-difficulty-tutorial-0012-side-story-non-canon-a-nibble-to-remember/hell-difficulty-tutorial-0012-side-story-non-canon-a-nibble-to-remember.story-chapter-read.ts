@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0012SideStoryNonCanonANibbleToRemember = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0012-side-story-non-canon-a-nibble-to-remember",
   title: "Side story (non-canon) - A Nibble to Remember",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 12,
   ownLength: 1072,
   unitSlug: "words",

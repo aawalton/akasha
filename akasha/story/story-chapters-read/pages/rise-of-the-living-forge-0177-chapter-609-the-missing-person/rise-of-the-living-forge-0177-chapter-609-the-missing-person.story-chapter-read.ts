@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0177Chapter609TheMissingPerson = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0177-chapter-609-the-missing-person",
   title: "Chapter 609: The missing person",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 177,
   ownLength: 1717,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0032Chapter707CanIAskYouAQuestion = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0032-chapter-707-can-i-ask-you-a-question",
   title: "Chapter 707 - Can I ask you a question?",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 32,
   ownLength: 2075,
   unitSlug: "words",

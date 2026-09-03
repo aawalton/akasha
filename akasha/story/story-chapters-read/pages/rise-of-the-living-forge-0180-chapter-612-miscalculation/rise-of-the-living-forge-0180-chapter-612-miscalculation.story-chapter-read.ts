@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0180Chapter612Miscalculation = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0180-chapter-612-miscalculation",
   title: "Chapter 612: Miscalculation",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 180,
   ownLength: 1519,
   unitSlug: "words",

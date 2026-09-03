@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0141Chapter574Legendary = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0141-chapter-574-legendary",
   title: "Chapter 574: Legendary",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 141,
   ownLength: 1631,
   unitSlug: "words",

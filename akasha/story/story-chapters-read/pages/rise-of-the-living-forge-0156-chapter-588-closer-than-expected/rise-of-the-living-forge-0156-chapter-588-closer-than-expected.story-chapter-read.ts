@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0156Chapter588CloserThanExpected = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0156-chapter-588-closer-than-expected",
   title: "Chapter 588: Closer than expected",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 156,
   ownLength: 1778,
   unitSlug: "words",

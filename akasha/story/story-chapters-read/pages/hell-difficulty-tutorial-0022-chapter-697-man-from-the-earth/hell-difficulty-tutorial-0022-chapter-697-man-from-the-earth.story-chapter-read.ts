@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0022Chapter697ManFromTheEarth = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0022-chapter-697-man-from-the-earth",
   title: "Chapter 697 - Man from the Earth",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 22,
   ownLength: 2075,
   unitSlug: "words",

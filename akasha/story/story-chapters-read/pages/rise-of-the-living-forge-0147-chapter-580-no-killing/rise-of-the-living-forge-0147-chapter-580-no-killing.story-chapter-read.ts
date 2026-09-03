@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0147Chapter580NoKilling = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0147-chapter-580-no-killing",
   title: "Chapter 580: No killing. ",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 147,
   ownLength: 2106,
   unitSlug: "words",

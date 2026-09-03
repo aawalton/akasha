@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0171Chapter603NotQuiteImpossible = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0171-chapter-603-not-quite-impossible",
   title: "Chapter 603: Not quite impossible",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 171,
   ownLength: 1735,
   unitSlug: "words",

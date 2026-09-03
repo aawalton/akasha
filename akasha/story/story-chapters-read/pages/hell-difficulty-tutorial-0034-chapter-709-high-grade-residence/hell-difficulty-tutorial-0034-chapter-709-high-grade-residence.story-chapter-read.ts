@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0034Chapter709HighGradeResidence = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0034-chapter-709-high-grade-residence",
   title: "Chapter 709 - High Grade residence",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 34,
   ownLength: 2519,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0023Chapter698SomethingDumb = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0023-chapter-698-something-dumb",
   title: "Chapter 698 - Something dumb",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 23,
   ownLength: 2202,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theLegendOfRandidlyGhosthound0725EpilogueClarityAndNewProject = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-legend-of-randidly-ghosthound-0725-epilogue-clarity-and-new-project",
   title: "Epilogue Clarity and new Project",
-  partOfSlugs: ["the-legend-of-randidly-ghosthound"],
+  partOfSlugs: ["story-read/the-legend-of-randidly-ghosthound"],
   position: 725,
   ownLength: 150,
   unitSlug: "words",

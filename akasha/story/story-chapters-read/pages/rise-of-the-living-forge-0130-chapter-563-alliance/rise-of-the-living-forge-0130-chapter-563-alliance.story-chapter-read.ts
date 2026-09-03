@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0130Chapter563Alliance = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0130-chapter-563-alliance",
   title: "Chapter 563: Alliance",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 130,
   ownLength: 1645,
   unitSlug: "words",

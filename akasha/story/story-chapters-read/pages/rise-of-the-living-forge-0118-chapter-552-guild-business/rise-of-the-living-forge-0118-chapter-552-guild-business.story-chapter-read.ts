@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0118Chapter552GuildBusiness = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0118-chapter-552-guild-business",
   title: "Chapter 552: Guild Business",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 118,
   ownLength: 1708,
   unitSlug: "words",

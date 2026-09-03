@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0160Chapter592WorkplaceUpgrades = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0160-chapter-592-workplace-upgrades",
   title: "Chapter 592: Workplace upgrades",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 160,
   ownLength: 1914,
   unitSlug: "words",

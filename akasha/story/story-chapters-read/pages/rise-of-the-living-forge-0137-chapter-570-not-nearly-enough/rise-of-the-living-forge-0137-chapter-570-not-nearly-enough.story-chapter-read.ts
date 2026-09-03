@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0137Chapter570NotNearlyEnough = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0137-chapter-570-not-nearly-enough",
   title: "Chapter 570: Not nearly Enough",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 137,
   ownLength: 1848,
   unitSlug: "words",

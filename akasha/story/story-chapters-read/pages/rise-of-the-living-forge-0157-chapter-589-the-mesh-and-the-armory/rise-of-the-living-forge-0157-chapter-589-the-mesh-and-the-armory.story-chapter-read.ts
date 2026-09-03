@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0157Chapter589TheMeshAndTheArmory = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0157-chapter-589-the-mesh-and-the-armory",
   title: "Chapter 589: The Mesh and the Armory",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 157,
   ownLength: 2315,
   unitSlug: "words",

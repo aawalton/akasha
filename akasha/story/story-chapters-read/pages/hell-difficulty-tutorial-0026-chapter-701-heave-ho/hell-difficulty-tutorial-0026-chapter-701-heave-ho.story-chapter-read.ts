@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0026Chapter701HeaveHo = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0026-chapter-701-heave-ho",
   title: "Chapter 701 - Heave-ho",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 26,
   ownLength: 2227,
   unitSlug: "words",

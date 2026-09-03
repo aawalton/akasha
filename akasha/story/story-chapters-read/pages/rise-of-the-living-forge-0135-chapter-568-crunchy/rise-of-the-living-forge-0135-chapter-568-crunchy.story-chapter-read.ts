@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0135Chapter568Crunchy = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0135-chapter-568-crunchy",
   title: "Chapter 568: Crunchy",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 135,
   ownLength: 1834,
   unitSlug: "words",

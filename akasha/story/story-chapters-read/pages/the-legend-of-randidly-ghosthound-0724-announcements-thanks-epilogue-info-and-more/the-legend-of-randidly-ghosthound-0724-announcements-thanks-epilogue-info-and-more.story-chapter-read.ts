@@ -5,7 +5,7 @@ export const theLegendOfRandidlyGhosthound0724AnnouncementsThanksEpilogueInfoAnd
   pageTypeSlug: "story-chapter-read",
   slug: "the-legend-of-randidly-ghosthound-0724-announcements-thanks-epilogue-info-and-more",
   title: "Announcements, Thanks, Epilogue Info, and More!",
-  partOfSlugs: ["the-legend-of-randidly-ghosthound"],
+  partOfSlugs: ["story-read/the-legend-of-randidly-ghosthound"],
   position: 724,
   ownLength: 679,
   unitSlug: "words",

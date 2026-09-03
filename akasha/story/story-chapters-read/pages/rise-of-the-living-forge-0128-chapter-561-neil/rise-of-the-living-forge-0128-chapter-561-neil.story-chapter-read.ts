@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0128Chapter561Neil = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0128-chapter-561-neil",
   title: "Chapter 561: Neil",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 128,
   ownLength: 1576,
   unitSlug: "words",

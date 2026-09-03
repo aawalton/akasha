@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0189Chapter620War = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0189-chapter-620-war",
   title: "Chapter 620: War",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 189,
   ownLength: 2016,
   unitSlug: "words",

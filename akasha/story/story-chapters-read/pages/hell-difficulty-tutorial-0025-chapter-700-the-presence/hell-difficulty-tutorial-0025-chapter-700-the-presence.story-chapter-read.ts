@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0025Chapter700ThePresence = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0025-chapter-700-the-presence",
   title: "Chapter 700 - The Presence",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 25,
   ownLength: 2966,
   unitSlug: "words",

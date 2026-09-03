@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0047Chapter722WhatTheDoctorSaid = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0047-chapter-722-what-the-doctor-said",
   title: "Chapter 722 - What the doctor said",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 47,
   ownLength: 2145,
   unitSlug: "words",

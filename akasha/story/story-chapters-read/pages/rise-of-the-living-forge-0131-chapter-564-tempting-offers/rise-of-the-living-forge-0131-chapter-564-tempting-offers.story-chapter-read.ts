@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0131Chapter564TemptingOffers = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0131-chapter-564-tempting-offers",
   title: "Chapter 564: Tempting Offers",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 131,
   ownLength: 2016,
   unitSlug: "words",

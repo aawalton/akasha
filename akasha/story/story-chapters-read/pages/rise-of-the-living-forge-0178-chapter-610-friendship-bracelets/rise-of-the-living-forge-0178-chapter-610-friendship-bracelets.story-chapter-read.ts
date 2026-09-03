@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0178Chapter610FriendshipBracelets = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0178-chapter-610-friendship-bracelets",
   title: "Chapter 610: Friendship Bracelets",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 178,
   ownLength: 1522,
   unitSlug: "words",

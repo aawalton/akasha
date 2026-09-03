@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0053Chapter728TheMostBeautifulWomanToEverLive
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0053-chapter-728-the-most-beautiful-woman-to-ever-live",
   title: "Chapter 728 - The most beautiful woman to ever live",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 53,
   ownLength: 2190,
   unitSlug: "words",

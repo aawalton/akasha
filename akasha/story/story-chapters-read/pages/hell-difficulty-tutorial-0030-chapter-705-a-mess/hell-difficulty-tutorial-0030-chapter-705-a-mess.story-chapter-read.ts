@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0030Chapter705AMess = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0030-chapter-705-a-mess",
   title: "Chapter 705 - A mess",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 30,
   ownLength: 2227,
   unitSlug: "words",

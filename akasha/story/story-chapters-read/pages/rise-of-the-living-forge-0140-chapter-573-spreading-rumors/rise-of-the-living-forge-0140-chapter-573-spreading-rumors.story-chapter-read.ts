@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0140Chapter573SpreadingRumors = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0140-chapter-573-spreading-rumors",
   title: "Chapter 573: Spreading Rumors",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 140,
   ownLength: 1554,
   unitSlug: "words",

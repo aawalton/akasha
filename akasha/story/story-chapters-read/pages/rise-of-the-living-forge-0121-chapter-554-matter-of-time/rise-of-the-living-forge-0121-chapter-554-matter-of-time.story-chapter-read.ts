@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0121Chapter554MatterOfTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0121-chapter-554-matter-of-time",
   title: "Chapter 554: Matter of Time",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 121,
   ownLength: 1789,
   unitSlug: "words",

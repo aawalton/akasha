@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0158Chapter590Resonant = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0158-chapter-590-resonant",
   title: "Chapter 590: Resonant",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 158,
   ownLength: 1657,
   unitSlug: "words",

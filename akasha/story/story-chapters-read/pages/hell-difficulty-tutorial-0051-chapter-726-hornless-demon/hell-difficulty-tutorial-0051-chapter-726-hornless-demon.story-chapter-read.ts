@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0051Chapter726HornlessDemon = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0051-chapter-726-hornless-demon",
   title: "Chapter 726 - Hornless Demon",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 51,
   ownLength: 2159,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0027Chapter702Calvorn = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0027-chapter-702-calvorn",
   title: "Chapter 702 - Calvorn",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 27,
   ownLength: 2248,
   unitSlug: "words",

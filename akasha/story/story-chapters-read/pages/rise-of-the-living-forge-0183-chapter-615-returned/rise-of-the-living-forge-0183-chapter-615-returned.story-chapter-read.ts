@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0183Chapter615Returned = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0183-chapter-615-returned",
   title: "Chapter 615: Returned",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 183,
   ownLength: 1629,
   unitSlug: "words",

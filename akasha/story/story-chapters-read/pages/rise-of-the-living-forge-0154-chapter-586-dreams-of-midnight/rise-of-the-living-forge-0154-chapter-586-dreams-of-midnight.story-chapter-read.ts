@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0154Chapter586DreamsOfMidnight = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0154-chapter-586-dreams-of-midnight",
   title: "Chapter 586: Dreams of Midnight",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 154,
   ownLength: 2010,
   unitSlug: "words",

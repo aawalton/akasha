@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0050Chapter725Accumulation = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0050-chapter-725-accumulation",
   title: "Chapter 725 - Accumulation",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 50,
   ownLength: 2158,
   unitSlug: "words",

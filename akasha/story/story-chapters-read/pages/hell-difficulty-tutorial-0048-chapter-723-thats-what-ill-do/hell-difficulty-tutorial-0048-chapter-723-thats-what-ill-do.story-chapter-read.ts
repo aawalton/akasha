@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0048Chapter723ThatsWhatIllDo = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0048-chapter-723-thats-what-ill-do",
   title: "Chapter 723 - That’s what I’ll do",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 48,
   ownLength: 2054,
   unitSlug: "words",

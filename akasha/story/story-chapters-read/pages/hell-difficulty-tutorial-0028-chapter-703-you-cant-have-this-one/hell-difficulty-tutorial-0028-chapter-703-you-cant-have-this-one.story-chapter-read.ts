@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0028Chapter703YouCantHaveThisOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0028-chapter-703-you-cant-have-this-one",
   title: "Chapter 703 - You can’t have this one",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 28,
   ownLength: 2018,
   unitSlug: "words",

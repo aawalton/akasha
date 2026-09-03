@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0040Chapter715TheLootTheBeyondQuestAndTheTwo 
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0040-chapter-715-the-loot-the-beyond-quest-and-the-two",
   title: "Chapter 715 - The Loot, the Beyond quest, and the two assholes",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 40,
   ownLength: 2634,
   unitSlug: "words",

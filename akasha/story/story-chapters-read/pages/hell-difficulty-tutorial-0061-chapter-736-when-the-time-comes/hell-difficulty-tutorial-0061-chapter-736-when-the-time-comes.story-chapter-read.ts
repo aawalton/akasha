@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0061Chapter736WhenTheTimeComes = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0061-chapter-736-when-the-time-comes",
   title: "Chapter 736 -  When the time comes",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 61,
   ownLength: 2379,
   unitSlug: "words",

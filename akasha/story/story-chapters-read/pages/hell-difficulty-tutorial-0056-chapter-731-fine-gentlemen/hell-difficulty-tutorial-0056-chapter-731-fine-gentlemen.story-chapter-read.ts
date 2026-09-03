@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0056Chapter731FineGentlemen = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0056-chapter-731-fine-gentlemen",
   title: "Chapter 731 - Fine gentlemen",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 56,
   ownLength: 2195,
   unitSlug: "words",

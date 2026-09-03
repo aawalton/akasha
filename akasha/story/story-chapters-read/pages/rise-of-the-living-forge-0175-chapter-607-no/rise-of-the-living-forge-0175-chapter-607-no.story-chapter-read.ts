@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0175Chapter607No = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0175-chapter-607-no",
   title: "Chapter 607: No.",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 175,
   ownLength: 2380,
   unitSlug: "words",

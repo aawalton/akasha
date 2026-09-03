@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0193Chapter624Motivational = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0193-chapter-624-motivational",
   title: "Chapter 624: Motivational",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 193,
   ownLength: 1775,
   unitSlug: "words",

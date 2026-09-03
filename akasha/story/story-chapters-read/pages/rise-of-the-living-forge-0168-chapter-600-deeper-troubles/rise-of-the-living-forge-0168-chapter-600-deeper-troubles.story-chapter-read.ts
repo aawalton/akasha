@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0168Chapter600DeeperTroubles = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0168-chapter-600-deeper-troubles",
   title: "Chapter 600: Deeper Troubles",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 168,
   ownLength: 1641,
   unitSlug: "words",

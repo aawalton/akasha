@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0117Chapter551ExtortionAttempt = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0117-chapter-551-extortion-attempt",
   title: "Chapter 551: Extortion Attempt",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 117,
   ownLength: 1562,
   unitSlug: "words",

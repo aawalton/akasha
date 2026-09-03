@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0129Chapter562Vip = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0129-chapter-562-vip",
   title: "Chapter 562: VIP",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 129,
   ownLength: 1671,
   unitSlug: "words",

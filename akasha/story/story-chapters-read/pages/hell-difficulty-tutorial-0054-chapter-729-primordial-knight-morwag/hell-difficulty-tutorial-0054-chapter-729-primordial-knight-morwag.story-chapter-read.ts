@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0054Chapter729PrimordialKnightMorwag = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0054-chapter-729-primordial-knight-morwag",
   title: "Chapter 729 - Primordial Knight Morwag",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 54,
   ownLength: 2220,
   unitSlug: "words",
