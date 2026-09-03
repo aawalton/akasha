@@ -6,10 +6,14 @@
     "./domain-tree-ids": "./domain-tree-ids/domain-tree-ids.module.code.ts",
     "./page-tree-ids": "./page-tree-ids/page-tree-ids.module.code.ts",
     "./panel-domains": "./panel-domains/panel-domains.module.code.ts",
+    "./seat-mode": "./seat-mode/seat-mode.module.code.ts",
     "./status-bar-theme": "./status-bar-theme/status-bar-theme.module.code.ts",
     "./terminal-marks": "./terminal-marks/terminal-marks.module.code.ts",
     "./work-initiatives": "./work-initiatives/work-initiatives.module.code.ts",
     "./work-tree-ids": "./work-tree-ids/work-tree-ids.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
   },
   "peerDependencies": {
     "vscode": "^1.85.0"

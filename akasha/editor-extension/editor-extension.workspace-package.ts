@@ -14,6 +14,7 @@ export const editorExtension = {
     "module/page-tree-ids",
     "module/work-tree-ids",
     "module/status-bar-theme",
+    "module/seat-mode",
   ],
   invariants: [
     {

@@ -373,6 +373,9 @@
     },
     "akasha/editor-extension": {
       "name": "@akasha/editor-extension",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
       "peerDependencies": {
         "vscode": "^1.85.0",
       },
