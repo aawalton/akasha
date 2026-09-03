@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theTwentyTwoCounterfeitIdsAreReferencedByNothingButMintingOverThemLosesTheirTail = {
+  id: "01a0693d-4877-7433-a13c-80bde78b5004",
+  pageTypeSlug: "finding",
+  slug: "the-counterfeit-ids-are-referenced-by-nothing-but-minting-over-them-loses-their-tail",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "None of the 22 hand-stated page ids is referenced anywhere, yet replacing one by omitting `id` breaks the rule that a replaced identity keeps the last eight hex of the old one.",
+  evidence:
+    "Measured 2026-09-03 against audit-1514, which names 22 rather than the 14 that were relayed to me.\n\nOutside their own line 4, the 22 ids occur four times in the whole repository, all on line 11 of `twenty-two-page-ids-in-the-tree-refuse-a-check-that-states-every-phase-on.finding.ts`, which is a finding already recording this defect. The other 17 module ids occur nowhere at all. Searching each id's last eight hex on its own returns no occurrence outside the full string, so no referrer carries a tail either. Every consumer reaches these pages by slug or by package subpath.\n\nThe audit understates two of them. `monarch-eval.domain.ts` line 4 fails on variant as well as version, its 17th hex being `c`. The 20 under `changes/workflow-language/` are 8-4-4-5-14 rather than 8-4-4-4-12: the counter was formatted into the fifth group as well as the fourth, giving 35 hex digits against 32. All 20 landed in one commit, `e1ce2a7555`, beside a correctly shaped sibling that is the template they were expanded from.\n\nThe remedy that circulated in the swarm is to omit `id` and let the landing mint one. That is right for a page being created and wrong here. `page.page-type.ts` line 87 says an identity replaced for being no uuid version 7 keeps the last eight hex of the old one, and a freshly minted id keeps nothing. For the 20 malformed ones the rule is also ambiguous, because a 14-character final group has no settled last eight.\n\nI left all 22 as they are. The prior finding's author had already decided so deliberately, calling it a decision about 22 identities rather than a rewrite, and nothing I measured overturns that. What my census adds is that the identities are unreferenced, so the tail rule here protects no referrer and the cost of a correct replacement is 22 edits plus the index entries. Note the index minted an `identity/page/id/` entry for every one of them, so it applies no shape guard of its own.",
+} as const satisfies Finding
