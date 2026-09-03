@@ -6,4 +6,14 @@ export const overServer = {
   slug: "over-server",
   definition: "a page write sent to the server rather than run against the store",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A write sent to the server runs the exported function the store would have run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The guards inside that function judge a write from a browser unchanged.",
+    },
+  ],
 } as const satisfies Module
