@@ -3,7 +3,7 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type DrmPolicy = string
 
 export const drmPolicy = {
-  id: "01a0659b-cde9-719e-a998-be6788ae2475",
+  id: "01a0659e-e27d-7584-b388-217e54a89d2b",
   pageTypeSlug: "text-property",
   slug: "drm-policy",
   propertySlug: "drm-policy",

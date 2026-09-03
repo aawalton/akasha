@@ -10,6 +10,7 @@ import type { KillSwitchPolicy } from "./properties/kill-switch-policy.text-prop
 import type { NacsAdoption } from "./properties/nacs-adoption.text-property.ts"
 import type { ParentCorporation } from "./properties/parent-corporation.text-property.ts"
 import type { ReliabilityNotes } from "./properties/reliability-notes.text-property.ts"
+import type { Trims } from "./properties/trims.file-property.ts"
 
 export type CarMake = Car & {
   title: Title
@@ -22,16 +23,18 @@ export type CarMake = Car & {
   nacsAdoption: NacsAdoption
   parentCorporation: ParentCorporation
   reliabilityNotes: ReliabilityNotes
+  trims?: Trims
 }
 
 export const carMake = {
-  id: "01a0659b-cde9-7882-b813-5e15f04872b4",
+  id: "01a0659e-e27a-7b1f-bb44-5601b4fc9699",
   pageTypeSlug: "page-type",
   slug: "car-make",
   definition: "a company that builds cars",
   pluralSlug: "car-makes",
   extendsSlug: "page-type/car",
   partSlugs: [
+    "file-property/trims",
     "number-property/founding-year",
     "text-property/charging-network-access",
     "text-property/country",
@@ -53,6 +56,7 @@ export const carMake = {
     { pagePropertySlug: "nacs-adoption", required: true, many: false },
     { pagePropertySlug: "parent-corporation", required: true, many: false },
     { pagePropertySlug: "reliability-notes", required: true, many: false },
+    { pagePropertySlug: "trims", required: false, many: false },
   ],
   invariants: [
     {

@@ -3,7 +3,7 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type NacsAdoption = string
 
 export const nacsAdoption = {
-  id: "01a0659b-cde9-7d7e-9b7e-984f3081fbb2",
+  id: "01a0659e-e27e-784d-a99b-e23ec274b8fc",
   pageTypeSlug: "text-property",
   slug: "nacs-adoption",
   propertySlug: "nacs-adoption",

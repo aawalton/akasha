@@ -3,7 +3,7 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type ParentCorporation = string
 
 export const parentCorporation = {
-  id: "01a0659b-cde9-7274-a646-0a0d80616de5",
+  id: "01a0659e-e27e-75d6-b668-b62aac3a3430",
   pageTypeSlug: "text-property",
   slug: "parent-corporation",
   propertySlug: "parent-corporation",

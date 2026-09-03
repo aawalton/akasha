@@ -3,7 +3,7 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type Country = string
 
 export const country = {
-  id: "01a0659b-cde9-7b5e-849c-91bff7a70828",
+  id: "01a0659e-e27d-78b7-b41b-3c0896a203e2",
   pageTypeSlug: "text-property",
   slug: "country",
   propertySlug: "country",

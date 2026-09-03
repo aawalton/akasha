@@ -3,7 +3,7 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type ReliabilityNotes = string
 
 export const reliabilityNotes = {
-  id: "01a0659b-cde9-7995-8fb0-eb5840ee5cab",
+  id: "01a0659e-e27e-7cfc-ba56-e6f573f7789f",
   pageTypeSlug: "text-property",
   slug: "reliability-notes",
   propertySlug: "reliability-notes",
