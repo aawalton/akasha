@@ -711,6 +711,7 @@
         "@akasha/google-oauth": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@googleapis/gmail": "^17.0.0",
+        "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
     },

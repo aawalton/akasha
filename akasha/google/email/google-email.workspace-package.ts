@@ -21,6 +21,8 @@ export const googleEmail = {
     "module/gmail-inbound-adapter",
     "module/gmail-mailbox",
     "module/forwarded-message",
+    "module/email-operations",
+    "module/compose-input-from-arguments",
   ],
   invariants: [
     {
