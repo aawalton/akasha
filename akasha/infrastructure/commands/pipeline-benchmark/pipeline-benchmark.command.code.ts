@@ -1,3 +1,11 @@
+import { buildBenchmarkJob } from "@akasha/ci-benchmark/benchmark-job"
+import { sweepMargins } from "@akasha/ci-benchmark/benchmark-margin-sweep"
+import {
+  assembleOuterReport,
+  buildMarginSweepGrid,
+  parseInnerReportFromLogs,
+} from "@akasha/ci-benchmark/benchmark-outer-core"
+import { renderReport } from "@akasha/ci-benchmark/benchmark-outer-render"
 import {
   type InnerReport,
   type StoreVariant,
@@ -13,14 +21,6 @@ import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { told as gitTold } from "@akasha/git/git-running"
 import { asHostname, type Hostname } from "@akasha/k8s-types/hostnames"
-import { buildBenchmarkJob } from "@tools/lib/benchmark-job"
-import { sweepMargins } from "@tools/lib/benchmark-margin-sweep"
-import {
-  assembleOuterReport,
-  buildMarginSweepGrid,
-  parseInnerReportFromLogs,
-} from "@tools/lib/benchmark-outer-core"
-import { renderReport } from "@tools/lib/benchmark-outer-render"
 import {
   answering,
   countOf,

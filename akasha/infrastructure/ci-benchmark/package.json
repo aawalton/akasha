@@ -3,6 +3,11 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./benchmark-aggregate": "./benchmark-aggregate/benchmark-aggregate.module.code.ts",
+    "./benchmark-job": "./benchmark-job/benchmark-job.module.code.ts",
+    "./benchmark-margin-sweep": "./benchmark-margin-sweep/benchmark-margin-sweep.module.code.ts",
+    "./benchmark-outer-core": "./benchmark-outer-core/benchmark-outer-core.module.code.ts",
+    "./benchmark-outer-render": "./benchmark-outer-render/benchmark-outer-render.module.code.ts",
     "./benchmark-provision": "./benchmark-provision/benchmark-provision.module.code.ts",
     "./benchmark-phases": "./benchmark-phases/benchmark-phases.module.code.ts",
     "./benchmark-report-assembly": "./benchmark-report-assembly/benchmark-report-assembly.module.code.ts",
@@ -25,6 +30,10 @@
     "./toolchain-manifest": "./toolchain-manifest/toolchain-manifest.module.code.ts"
   },
   "dependencies": {
+    "@akasha/ci-containers": "workspace:*",
+    "@akasha/git": "workspace:*",
+    "@akasha/k8s-types": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/workflow-language": "workspace:*",
     "@tools/lib": "workspace:*",

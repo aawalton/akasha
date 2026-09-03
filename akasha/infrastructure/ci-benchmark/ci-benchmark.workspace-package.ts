@@ -7,6 +7,11 @@ export const ciBenchmark = {
   definition: "one CI node's substrate measured against the whole check registry on a cold store",
   manifest: "json",
   partSlugs: [
+    "module/benchmark-aggregate",
+    "module/benchmark-job",
+    "module/benchmark-margin-sweep",
+    "module/benchmark-outer-core",
+    "module/benchmark-outer-render",
     "module/benchmark-provision",
     "module/benchmark-phases",
     "module/benchmark-report-assembly",

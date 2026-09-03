@@ -965,6 +965,10 @@
     "akasha/infrastructure/ci-benchmark": {
       "name": "@akasha/ci-benchmark",
       "dependencies": {
+        "@akasha/ci-containers": "workspace:*",
+        "@akasha/git": "workspace:*",
+        "@akasha/k8s-types": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/workflow-language": "workspace:*",
         "@tools/lib": "workspace:*",
