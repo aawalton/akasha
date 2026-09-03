@@ -71,17 +71,21 @@ mock.module("@akasha/pages-ui-store/singleton", () => ({
       whenSlugReady: () => Promise.resolve(),
     }),
 }))
-mock.module("~/lib/offline-cache-namespace", () => ({
+mock.module("../offline-cache-namespace/offline-cache-namespace.module.code.ts", () => ({
   setOfflineCacheUserKey: () => undefined,
 }))
 
 const nullComponent = () => null
-mock.module("~/components/deep-link-open-sync", () => ({ DeepLinkOpenSync: nullComponent }))
-mock.module("~/components/native-auth-refresh-sync", () => ({
+mock.module("../deep-link-open-sync/deep-link-open-sync.module.code.tsx", () => ({
+  DeepLinkOpenSync: nullComponent,
+}))
+mock.module("../native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx", () => ({
   NativeAuthRefreshSync: nullComponent,
 }))
-mock.module("~/components/offline-text-sync", () => ({ OfflineTextSync: nullComponent }))
-mock.module("~/push/components/push-registration-sync", () => ({
+mock.module("../offline-text-sync/offline-text-sync.module.code.tsx", () => ({
+  OfflineTextSync: nullComponent,
+}))
+mock.module("../push-registration-sync/push-registration-sync.module.code.tsx", () => ({
   PushRegistrationSync: nullComponent,
 }))
 
