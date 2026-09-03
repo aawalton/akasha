@@ -87,6 +87,7 @@ export const editorExtension = {
     "module/seat-plan-running",
     "module/agent-page-opening",
     "module/column-sampling",
+    "module/agent-tree-panel",
   ],
   invariants: [
     {

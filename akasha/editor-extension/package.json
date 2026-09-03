@@ -12,6 +12,7 @@
     "./agent-tree-drawing": "./agent-tree-drawing/agent-tree-drawing.module.code.ts",
     "./agent-tree-ids": "./agent-tree-ids/agent-tree-ids.module.code.ts",
     "./agent-tree-lookup": "./agent-tree-lookup/agent-tree-lookup.module.code.ts",
+    "./agent-tree-panel": "./agent-tree-panel/agent-tree-panel.module.code.ts",
     "./agent-tree-state": "./agent-tree-state/agent-tree-state.module.code.ts",
     "./champions-tree": "./champions-tree/champions-tree.module.code.ts",
     "./column-memory": "./column-memory/column-memory.module.code.ts",
