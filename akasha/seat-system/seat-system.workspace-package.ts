@@ -183,6 +183,7 @@ export const seatSystem = {
     "module/seat-wake-match-decide",
     "module/seat-wake-rules",
     "module/seat-parentless-refusal",
+    "module/seat-page-beat",
     "module/seat-proc-key",
     "module/seat-proc-liveness",
     "module/seat-proc-tree",
