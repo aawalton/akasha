@@ -1,6 +1,7 @@
 import * as path from "node:path"
 import type { SeatMode } from "../../seat/mode.ts"
 import { dropSeatTranscripts, seatTranscriptOf } from "../transcript/sources.ts"
+import type { AgentNode } from "./forest-types.ts"
 import {
   askHarness,
   type ForestAnswer,
@@ -10,6 +11,9 @@ import {
 } from "./harness.ts"
 import { readSeatPlaces } from "./lookup.ts"
 import type { SubagentNode, SubagentReader } from "./subagents.ts"
+
+// Still named from here for every consumer that already reads it from here.
+export type { AgentKind, AgentNode } from "./forest-types.ts"
 
 const ALAN = "alan"
 
@@ -29,24 +33,6 @@ export interface SeatRow {
   readonly waitingOn: string | null
   readonly color: string | null
   readonly at: string | null
-}
-
-export type AgentKind = "seat" | "subagent"
-
-export interface AgentNode {
-  readonly id: string
-  readonly name: string
-  readonly kind: AgentKind
-  readonly place?: SeatMode
-  readonly live: boolean
-  readonly state?: string | undefined
-  readonly waitingOn?: string | undefined
-  readonly color?: string | undefined
-  // The absolute path of the page akasha holds for this agent, or undefined where it holds none.
-  // A row carrying undefined names no page anywhere it draws: not in its tooltip and not in
-  // anything it opens.
-  readonly at?: string | undefined
-  readonly children: readonly AgentNode[]
 }
 
 // WHERE THE PAGES ARE, JOINED TO THE ROWS THAT ARE DRAWN.

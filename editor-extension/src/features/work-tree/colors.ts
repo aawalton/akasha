@@ -1,4 +1,4 @@
-import type { WorkColors, WorkNode, WorkTree } from './harness.ts';
+import type { WorkColors, WorkNode, WorkTree } from './work-types.ts';
 
 function colorFor(node: WorkNode, colors: WorkColors): string | null {
 	return colors.byInitiative[node.key] ?? null;

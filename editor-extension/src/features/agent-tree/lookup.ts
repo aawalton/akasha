@@ -1,5 +1,5 @@
 import { SEAT_MODE_SCHEMA, type SeatMode } from '../../seat/mode.ts';
-import type { AgentNode } from './forest.ts';
+import type { AgentNode } from './forest-types.ts';
 import type { HarnessRow } from './harness.ts';
 
 export function readSeatPlaces(rows: readonly HarnessRow[]): ReadonlyMap<string, SeatMode> {

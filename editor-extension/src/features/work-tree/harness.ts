@@ -1,27 +1,16 @@
 import * as path from 'node:path';
 import { runCommand, commandPath } from '../../harness-call.ts';
 import { rollUp } from './colors.ts';
+import type { WorkColors, WorkNode, WorkTree } from './work-types.ts';
+
+// Still named from here for every consumer that already reads it from here.
+export type { WorkColors, WorkNode, WorkTree } from './work-types.ts';
 
 const CALL_TIMEOUT_MS = 60_000;
 
 const MAX_BUFFER = 16 * 1024 * 1024;
 
 const COMMAND = 'work-tree';
-
-export interface WorkNode {
-	readonly key: string;
-	readonly label: string;
-	readonly relPath: string | null;
-	readonly detail: string | null;
-	readonly note: string | null;
-	readonly color: string | null;
-	readonly children: readonly WorkNode[];
-}
-
-export interface WorkTree {
-	readonly repo: string;
-	readonly roots: readonly WorkNode[];
-}
 
 export function countRows(nodes: readonly WorkNode[]): number {
 	let total = 0;
@@ -86,11 +75,6 @@ export function readWorkTreeAnswer(answered: unknown): WorkTree {
 		repo: repoIn(held),
 		roots: rollUp(held.roots.map((one, index) => nodeIn(one, `roots[${index}]`))),
 	};
-}
-
-export interface WorkColors {
-	readonly repo: string;
-	readonly byInitiative: Readonly<Record<string, string>>;
 }
 
 export function readWorkColorsAnswer(answered: unknown): WorkColors {
