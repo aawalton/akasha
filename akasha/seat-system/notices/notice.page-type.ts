@@ -1,9 +1,11 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { NoticeText } from "./properties/notice-text.file-property.ts"
+import type { NoticeWarrant } from "./properties/notice-warrant.text-property.ts"
 
 export type Notice = Page & {
   text: NoticeText
+  warrant: NoticeWarrant
 }
 
 export const notice = {
@@ -13,8 +15,11 @@ export const notice = {
   definition: "message text written ahead of time and asked for by name",
   pluralSlug: "notices",
   extendsSlug: "page-type/page",
-  partSlugs: ["file-property/notice-text"],
-  properties: [{ pagePropertySlug: "notice-text", required: true, many: false }],
+  partSlugs: ["file-property/notice-text", "text-property/notice-warrant"],
+  properties: [
+    { pagePropertySlug: "notice-text", required: true, many: false },
+    { pagePropertySlug: "notice-warrant", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -31,6 +36,20 @@ export const notice = {
     {
       invariantKind: "departure",
       statement: "One notice is one page rather than one section of a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A notice the supervisor hands to a respawned seat opens with `[supervisor]`, which is how the fleet's hooks tell a composed prompt from Alan at the keyboard.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A notice that arrives on a message row carries no opening marker, because the row records its own sender.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A notice edited here reaches a seat the next time that seat is resumed.",
     },
     {
       invariantKind: "gap",

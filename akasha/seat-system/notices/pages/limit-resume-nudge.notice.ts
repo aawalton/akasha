@@ -5,4 +5,6 @@ export const limitResumeNudge = {
   pageTypeSlug: "notice",
   slug: "limit-resume-nudge",
   text: "md",
+  warrant:
+    "Goes to a seat that is alive and idle rather than respawned, whose previous turn ended at a Claude usage limit that has since cleared. These words are also the monitor's anti-hammer key: before sending, the monitor asks whether a message carrying exactly them landed recently. Editing them retires the old key, so a seat nudged under the previous wording inside that window may be nudged once more, which costs one turn and is bounded by one window.",
 } as const satisfies Notice
