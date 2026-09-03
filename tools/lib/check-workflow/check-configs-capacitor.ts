@@ -1,6 +1,6 @@
+import type { RouterApp } from "../../../akasha/checks/cluster-checks/modules/router-app-discovery/router-app-discovery.module.code.ts"
 import type { NodeId } from "../graph/types.ts"
 import type { CheckConfig } from "./check-configs-types.ts"
-import type { RouterApp } from "./router-apps.ts"
 
 export const CAPACITOR_CHECKS: readonly CheckConfig[] = [
   {

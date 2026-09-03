@@ -3,15 +3,15 @@ export const tool = {
   path: "page unlanded",
 } as const
 
-import { STALL_ATTEMPTS } from "./lib/page-commit-queue.ts"
+import { isAddressable, resolveRoots } from "@akasha/pages-system/checkout-roots"
 import {
   type Journal,
   journalDir,
   readJournals,
   rootStands,
   writerAlive,
-} from "./lib/page-landing-journal.ts"
-import { isAddressable, resolveRoots } from "@akasha/pages-system/checkout-roots"
+} from "@akasha/pages-system/page-landing-journal"
+import { STALL_ATTEMPTS } from "./lib/page-commit-queue.ts"
 
 const HELP = `bun tools/unlanded.ts — every page written to disk whose commit has not landed
 
@@ -21,7 +21,7 @@ Git shows a dirty tree and cannot tell a landing the queue gave up on from a del
 who is still mid-batch; this shows only what a writer handed to the queue and the queue
 has not yet committed, so every line here is a file somebody was told had been saved.
 
-The record is a small journal per repo root under \$PAGE_LANDING_JOURNAL_DIR
+The record is a small journal per repo root under $PAGE_LANDING_JOURNAL_DIR
 (default ~/.local/state/page-landings). A path is written into it before the write
 returns success and removed only when its commit lands, so the record survives the
 service being restarted, killed or crashing — which is exactly when a queued landing
