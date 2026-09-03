@@ -1,0 +1,15 @@
+{
+  "name": "@akasha/reading",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./story-catalog": "./story-catalog/story-catalog.module.code.ts",
+    "./chapter-choosing": "./chapter-choosing/chapter-choosing.module.code.ts",
+    "./offline-reading": "./offline-reading/offline-reading.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-core": "workspace:*",
+    "@akasha/pages-query": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

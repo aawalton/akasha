@@ -5,7 +5,7 @@ export const library = {
   pageTypeSlug: "domain",
   slug: "library",
   definition: "what Alan works through, and how far through it he has got",
-  partSlugs: ["domain/studying"],
+  partSlugs: ["domain/studying", "workspace-package/reading"],
   invariants: [
     {
       invariantKind: "departure",
@@ -13,7 +13,15 @@ export const library = {
     },
     {
       invariantKind: "departure",
-      statement: "A work, an instalment of a work and a shelf of works are each one collection.",
+      statement: "A work is one collection.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An instalment of a work is one collection.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shelf of works is one collection.",
     },
     {
       invariantKind: "departure",

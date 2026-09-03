@@ -8,6 +8,7 @@ export const alan = {
   partSlugs: [
     "domain/alan-harness",
     "domain/fitness",
+    "domain/library",
     "domain/music",
     "domain/self",
     "domain/tracking",
