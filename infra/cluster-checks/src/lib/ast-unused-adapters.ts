@@ -41,7 +41,11 @@ export const DEFAULT_ADAPTERS: readonly FrameworkAdapter[] = [
   { name: "next-config", pattern: "**/next.config.{ts,mjs,js}", role: "entry" },
   { name: "rbac-config", pattern: "**/rbac.ts", role: "entry" },
   { name: "tstl-addon", pattern: "**/addons/*/src/**/*.ts", role: "entry" },
-  { name: "watcher-exe-main", pattern: "**/watcher-exe/main.ts", role: "entry" },
+  {
+    name: "watcher-worker",
+    pattern: "**/watcher-worker/watcher-worker.module.code.ts",
+    role: "entry",
+  },
   { name: "docs-validate-cli", pattern: "**/docs-validator/validate-cli.ts", role: "entry" },
   { name: "docs-export-cli", pattern: "**/docs-validator/export.ts", role: "entry" },
 ] as const

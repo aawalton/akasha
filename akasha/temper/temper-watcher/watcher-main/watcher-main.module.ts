@@ -133,20 +133,20 @@ export const watcherMain = {
       statement: "Nothing here decides which account a run outcome is reported under.",
     },
     {
-      invariantKind: "gap",
-      statement: "No module hands this one a dispatch.",
+      invariantKind: "departure",
+      statement: "The worker module hands this one a dispatch.",
     },
     {
-      invariantKind: "gap",
-      statement: "No module hands this one a supabase session.",
+      invariantKind: "departure",
+      statement: "The worker module hands this one a supabase session.",
     },
     {
-      invariantKind: "gap",
-      statement: "Nothing builds or runs this module.",
+      invariantKind: "departure",
+      statement: "The worker module beside this one builds and runs this module.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The worker the systemd unit starts is the copy under temper/scripts.",
+      invariantKind: "departure",
+      statement: "The worker the systemd unit starts is the worker module beside this one.",
     },
   ],
 } as const satisfies Module

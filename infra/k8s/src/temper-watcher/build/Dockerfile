@@ -37,7 +37,7 @@ RUN mkdir -p /out && \
       --define "__SUPABASE_URL__=\"https://supabase.alanwalton.com\"" \
       --define "__SUPABASE_ANON_KEY__=\"${NEXT_PUBLIC_SUPABASE_ANON_KEY}\"" \
       --outfile=/out/temper-watcher-worker.exe \
-      temper/scripts/src/watcher-exe/main.ts && \
+      akasha/temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts && \
     echo "${COMMIT_SHA}" > /out/version.txt
 
 FROM alpine:3.22 AS final

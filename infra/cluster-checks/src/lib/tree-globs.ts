@@ -152,7 +152,7 @@ export const ADAPTER_PATTERNS: readonly string[] = [
   "**/next.config.{ts,mjs,js}",
   "**/rbac.ts",
   "**/addons/*/src/**/*.ts",
-  "**/watcher-exe/main.ts",
+  "**/watcher-worker/watcher-worker.module.code.ts",
   "**/docs-validator/validate-cli.ts",
   "**/docs-validator/export.ts",
   "**/src/pure/*.spec.ts",
