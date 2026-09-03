@@ -8,5 +8,6 @@ export const totalLength = {
   slug: "total-length",
   propertySlug: "total-length",
   definition: "how much there is to work through in the collection and everything it holds",
+  holds: "number",
   formula: "({total-length-in-words} ?? 0) / {unit-words}",
 } as const satisfies FormulaProperty

@@ -8,6 +8,7 @@ export const learnStoplight = {
   slug: "learn-stoplight",
   propertySlug: "learn-stoplight",
   definition: "the rung the day's learn reached, as one colored light",
+  holds: "text",
   formula:
     'case({learn-level} == 4 -> "🔵", {learn-level} == 3 -> "🟢", {learn-level} == 2 -> "🟡", ' +
     '{learn-level} == 1 -> "🔴", otherwise -> "⚫")',

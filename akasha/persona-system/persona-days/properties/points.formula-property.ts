@@ -8,17 +8,13 @@ export const points = {
   slug: "points",
   propertySlug: "points",
   definition: "everything a day earned, across every pillar, as one number",
+  holds: "number",
   formula:
     "({sleep-points} ?? 0) + ({strength-points} ?? 0) + ({cardio-points} ?? 0) + ({nutrition-points} ?? 0) + ({task-points} ?? 0) + ({breathing-points} ?? 0) + ({source-points} ?? 0)",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A pillar a day states nothing for counts as nothing.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement:
-        "Strength and cardio are named here under keys no day carries, so both count as nothing.",
     },
   ],
 } as const satisfies FormulaProperty

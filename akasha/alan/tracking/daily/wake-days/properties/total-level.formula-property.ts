@@ -8,6 +8,7 @@ export const totalLevel = {
   slug: "total-level",
   propertySlug: "total-level",
   definition: "which of the four rungs the day's six values reached between them",
+  holds: "number",
   formula:
     "case({faith-level} + {love-level} + {health-level} + {learn-level} + {fun-level} + " +
     "{wealth-level} >= 24 -> 4, {faith-level} + {love-level} + {health-level} + {learn-level} " +

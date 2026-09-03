@@ -8,6 +8,7 @@ export const collectionCompletion = {
   slug: "collection-completion",
   propertySlug: "completion",
   definition: "a collection's progress as a stage rather than an amount",
+  holds: "text",
   formula:
     'case({total-length-in-words} > 0 && {total-remaining-in-words} <= 0 -> "completed", {total-progress-in-words} > 0 -> "in-progress", otherwise -> "not-started")',
 } as const satisfies FormulaProperty

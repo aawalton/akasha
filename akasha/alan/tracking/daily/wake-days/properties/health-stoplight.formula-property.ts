@@ -8,6 +8,7 @@ export const healthStoplight = {
   slug: "health-stoplight",
   propertySlug: "health-stoplight",
   definition: "the rung the day's health reached, as one colored light",
+  holds: "text",
   formula:
     'case({health-level} == 4 -> "🔵", {health-level} == 3 -> "🟢", {health-level} == 2 -> ' +
     '"🟡", {health-level} == 1 -> "🔴", otherwise -> "⚫")',

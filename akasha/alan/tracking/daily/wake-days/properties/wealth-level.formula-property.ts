@@ -8,6 +8,7 @@ export const wealthLevel = {
   slug: "wealth-level",
   propertySlug: "wealth-level",
   definition: "which of the four rungs the day's wealth points reached",
+  holds: "number",
   formula:
     "case({wealth-points} >= 2 -> 4, {wealth-points} >= 1 -> 3, {wealth-points} >= 0.5 -> 2, " +
     "{wealth-points} >= 0.25 -> 1, otherwise -> 0)",

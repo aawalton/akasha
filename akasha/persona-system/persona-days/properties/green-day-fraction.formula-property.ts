@@ -8,6 +8,7 @@ export const greenDayFraction = {
   slug: "green-day-fraction",
   propertySlug: "green-day-fraction",
   definition: "how far toward green a day got, as a fraction of one",
+  holds: "number",
   formula: "case({green-day-points} > 0 -> ({points} ?? 0) / {green-day-points}, otherwise -> 0)",
   invariants: [
     {

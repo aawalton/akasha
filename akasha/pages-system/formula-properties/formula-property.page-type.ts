@@ -1,9 +1,11 @@
 import type { PageProperty } from "../page-properties/page-property.page-type.ts"
 import type { PageType } from "../page-types/page-type.page-type.ts"
 import type { Formula } from "./properties/formula.text-property.ts"
+import type { Holds } from "./properties/holds.select-property.ts"
 
 export type FormulaProperty = PageProperty & {
   formula: Formula
+  holds: Holds
 }
 
 export const formulaProperty = {
@@ -13,8 +15,11 @@ export const formulaProperty = {
   definition: "a page property worked out from the others",
   pluralSlug: "formula-properties",
   extendsSlug: "page-type/page-property",
-  partSlugs: ["text-property/formula"],
-  properties: [{ pagePropertySlug: "formula", required: true, many: false }],
+  partSlugs: ["select-property/holds", "text-property/formula"],
+  properties: [
+    { pagePropertySlug: "formula", required: true, many: false },
+    { pagePropertySlug: "holds", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -22,7 +27,7 @@ export const formulaProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A page file stating one is refused.",
+      statement: "A page file stating a value for a formula property is refused.",
     },
     {
       invariantKind: "departure",
@@ -30,11 +35,31 @@ export const formulaProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A formula answers the same over the same page however often it is asked.",
+      statement: "A formula answers the same over one page however often the formula is asked.",
     },
     {
-      invariantKind: "gap",
-      statement: "Nothing yet works a formula out at the reader.",
+      invariantKind: "departure",
+      statement: "A formula property states the kind of value its formula works out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A formula answering another kind than the property states is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reader works the formula out over the values the page carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A formula reading a refused formula is refused too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question naming a refused key is refused rather than answered empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A formula answering absent puts no key in the row.",
     },
   ],
 } as const satisfies PageType

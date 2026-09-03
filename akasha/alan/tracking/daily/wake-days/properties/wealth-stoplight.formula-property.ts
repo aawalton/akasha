@@ -8,6 +8,7 @@ export const wealthStoplight = {
   slug: "wealth-stoplight",
   propertySlug: "wealth-stoplight",
   definition: "the rung the day's wealth reached, as one colored light",
+  holds: "text",
   formula:
     'case({wealth-level} == 4 -> "🔵", {wealth-level} == 3 -> "🟢", {wealth-level} == 2 -> ' +
     '"🟡", {wealth-level} == 1 -> "🔴", otherwise -> "⚫")',

@@ -8,5 +8,6 @@ export const strengthCalories = {
   slug: "strength-calories",
   propertySlug: "strength-calories",
   definition: "the calories the day's strength work came to",
+  holds: "number",
   formula: "{strength-volume} / 7",
 } as const satisfies FormulaProperty

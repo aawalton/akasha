@@ -8,5 +8,6 @@ export const totalRemaining = {
   slug: "total-remaining",
   propertySlug: "total-remaining",
   definition: "how much of the collection and everything it holds is left to work through",
+  holds: "number",
   formula: "({total-remaining-in-words} ?? 0) / {unit-words}",
 } as const satisfies FormulaProperty

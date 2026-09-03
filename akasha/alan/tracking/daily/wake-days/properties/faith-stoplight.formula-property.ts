@@ -8,6 +8,7 @@ export const faithStoplight = {
   slug: "faith-stoplight",
   propertySlug: "faith-stoplight",
   definition: "the rung the day's faith reached, as one colored light",
+  holds: "text",
   formula:
     'case({faith-level} == 4 -> "🔵", {faith-level} == 3 -> "🟢", {faith-level} == 2 -> "🟡", ' +
     '{faith-level} == 1 -> "🔴", otherwise -> "⚫")',

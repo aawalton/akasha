@@ -8,6 +8,7 @@ export const stoplights = {
   slug: "stoplights",
   propertySlug: "stoplights",
   definition: "the rung each of the day's six values reached, as one colored light apiece",
+  holds: "text",
   formula:
     '"{faith-stoplight}{love-stoplight}{health-stoplight}{learn-stoplight}{fun-stoplight}{weal' +
     'th-stoplight}"',

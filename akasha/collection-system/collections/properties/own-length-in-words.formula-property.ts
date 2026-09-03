@@ -8,5 +8,6 @@ export const ownLengthInWords = {
   slug: "own-length-in-words",
   propertySlug: "own-length-in-words",
   definition: "how much there is to work through on the collection itself, counted in words",
+  holds: "number",
   formula: "({own-length} ?? 0) * ({unit-words} ?? 0)",
 } as const satisfies FormulaProperty

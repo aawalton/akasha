@@ -8,5 +8,6 @@ export const totalProgressInWords = {
   slug: "total-progress-in-words",
   propertySlug: "total-progress-in-words",
   definition: "how much of the collection and everything it holds has been worked through",
+  holds: "number",
   formula: "({own-progress-in-words} ?? 0) + ({parts-progress-in-words} ?? 0)",
 } as const satisfies FormulaProperty

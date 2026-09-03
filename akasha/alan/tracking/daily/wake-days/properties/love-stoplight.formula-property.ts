@@ -8,6 +8,7 @@ export const loveStoplight = {
   slug: "love-stoplight",
   propertySlug: "love-stoplight",
   definition: "the rung the day's love reached, as one colored light",
+  holds: "text",
   formula:
     'case({love-level} == 4 -> "🔵", {love-level} == 3 -> "🟢", {love-level} == 2 -> "🟡", ' +
     '{love-level} == 1 -> "🔴", otherwise -> "⚫")',

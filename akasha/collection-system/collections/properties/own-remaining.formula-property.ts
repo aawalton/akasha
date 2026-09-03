@@ -8,5 +8,6 @@ export const ownRemaining = {
   slug: "own-remaining",
   propertySlug: "own-remaining",
   definition: "how much of the collection itself is left to work through",
+  holds: "number",
   formula: "({own-length} ?? 0) - ({own-progress} ?? 0)",
 } as const satisfies FormulaProperty

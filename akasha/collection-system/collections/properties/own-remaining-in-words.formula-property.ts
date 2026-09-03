@@ -8,5 +8,6 @@ export const ownRemainingInWords = {
   slug: "own-remaining-in-words",
   propertySlug: "own-remaining-in-words",
   definition: "how much of the collection itself is left to work through, counted in words",
+  holds: "number",
   formula: "({own-length-in-words} ?? 0) - ({own-progress-in-words} ?? 0)",
 } as const satisfies FormulaProperty

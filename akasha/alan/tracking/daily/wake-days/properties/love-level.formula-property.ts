@@ -8,6 +8,7 @@ export const loveLevel = {
   slug: "love-level",
   propertySlug: "love-level",
   definition: "which of the four rungs the day's love points reached",
+  holds: "number",
   formula:
     "case({love-points} >= 2 -> 4, {love-points} >= 1 -> 3, {love-points} >= 0.5 -> 2, " +
     "{love-points} >= 0.25 -> 1, otherwise -> 0)",

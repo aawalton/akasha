@@ -8,6 +8,7 @@ export const greenDayRung = {
   slug: "green-day-rung",
   propertySlug: "green-day-rung",
   definition: "the rung of the green day scale a day reached",
+  holds: "number",
   formula:
     "case({green-day-fraction} >= 2 -> 2, {green-day-fraction} >= 1 -> 1, " +
     "{green-day-fraction} >= 0.5 -> 0.5, {green-day-fraction} >= 0.25 -> 0.25, otherwise -> 0)",
