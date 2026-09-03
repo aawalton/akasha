@@ -23,11 +23,11 @@ lines to `alan` attributed to amy. From `voice-speaker.log`:
 14:46:53.480  spoke message …b2846 segment 2/2 via amy (clone=128163ms) (play=11706ms)
 ```
 
-- Rendered **via amy** — the persona MOSS clone path, not Kokoro. √
+- Rendered **via amy** — the persona MOSS clone path, not Kokoro. ✔
 - Both `D2` segments' **render-start** markers land at 14:44:10.658 — *before* the
   first `spoke` line — the directly-readable proof that segment 2 renders while
   segment 1 is still pending/playing (the #13324 double-buffer). Segment 2 was
-  spoken 11.7s after segment 1 with no mid-message render stall. √
+  spoken 11.7s after segment 1 with no mid-message render stall. ✔
 - (Aside: the large `clone=` values are a `--pace 0` artifact — all three clones
   queued on moss-tts at once and serialized through the cop. A real paced session
   renders each fresh. Playback was still gapless because the renders completed
@@ -49,19 +49,19 @@ ADMITTED integral = 32.0 grade·s  (1 lines)
 ```
 
 - `D2`'s two segment durations were summed from the log: 35624 + 11706 = 47330ms
-  = 47.3s. √ (multi-segment aggregation)
+  = 47.3s. ✔ (multi-segment aggregation)
 - value×time per line = gradeValue × playMs: felt `A`=4 × 47330ms = 189320 ≈ 189.3
-  grade·s. √
-- Partitioned total / felt-only / admitted-only. √ (the protocol's register split)
+  grade·s. ✔
+- Partitioned total / felt-only / admitted-only. ✔ (the protocol's register split)
 - `--json` reported `"issues":[]` — a clean deterministic join (manifest
-  `lineId → messageId`, no text matching). √
+  `lineId → messageId`, no text matching). ✔
 
 ## (c) The grade-capture scaffold records F→S grades
 
 The grades TSV (`line_id`, `register`, `grade`, `note`) was parsed and joined: the
 synthetic `D1 admitted B` and `D2 felt A` flowed through to the per-line table and
 the integral. Register `∈ admitted|felt|none` and grade `F→S` (with ±) round-trip
-correctly. √
+correctly. ✔
 
 ## Coverage
 
