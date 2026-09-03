@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const twoLanesCarriedTheSameSevenListsIntoAkashaThirteenSecondsApart = {
+  id: "01a0686f-15f7-7170-b767-3e86e7965015",
+  pageTypeSlug: "finding",
+  slug: "two-lanes-carried-the-same-seven-lists-into-akasha-thirteen-seconds-apart",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "Two lanes migrated `pages/list/` at once and placed the pages differently: one beside each parent domain, one under `akasha/domain-system/lists/pages/`. Both landed. The duplicate-slug warning the second landing printed was the only thing that said so, and it named a path the second lane had never written. A landing warning that `<type>/<slug>` narrows to two pages is worth one command, not a shrug.",
+  evidence:
+    "Measured 2026-09-03. `50104ae88c` landed at 11:56:30 and `cf25cf4a02` at 11:56:43, thirteen seconds apart. Both ablated the same seven `pages/list/*.list.md` files and both edited `akasha/seat-system/seat-observation/seat-observation.domain.ts` to add `list/idle-live-seat` to its part slugs, byte for byte the same edit, so the second landing reported that file as matched rather than moved and no clobber happened.\n\nThe second landing said: ``part-slugs` — `list/idle-live-seat` narrows to 2 pages and must name its page type`, naming `akasha/domain-system/lists/pages/idle-live-seat.list.ts` and `akasha/seat-system/seat-observation/idle-live-seat/idle-live-seat.list.ts`. `git log --diff-filter=D` on the second path returned nothing and `git log` on it returned `50104ae88c`, so the warning was accurate rather than stale index lag.\n\nThe earlier placement is the better one and was kept: each list stands beside the domain it is about, and that lane also added the part slug to `code-check.page-type.ts`, `command-system.workspace-package.ts` and `pages-formula.workspace-package.ts`, and carried `page-query-times` as invariants on the existing `page-query-times.module.ts` rather than as an eighth list. The seven duplicates were deleted at `7a398059ef`.\n\nWhat this cost and what it did not. No content was lost and no window opened where neither copy stood, because both landings put the akasha pages and the markdown ablation in one commit. What it cost was one lane's work and one round of deletion. What would have caught it earlier is asking whether the slugs already stand in akasha before composing, rather than only whether the old files still stand.",
+} as const satisfies Finding
