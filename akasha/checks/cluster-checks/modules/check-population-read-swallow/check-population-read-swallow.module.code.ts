@@ -25,7 +25,9 @@ if (import.meta.main) refuseRetired()
 
 const PREFIX = "[population-read-swallow]"
 
-const REMEDIATION_DOC = repoDoc("../population/population.module.code.ts")
+const REMEDIATION_DOC = repoDoc(
+  "akasha/checks/cluster-checks/modules/population/population.module.code.ts"
+)
 
 function isExcluded(rel: string): boolean {
   return /\.(test|spec)\.tsx?$/.test(rel)

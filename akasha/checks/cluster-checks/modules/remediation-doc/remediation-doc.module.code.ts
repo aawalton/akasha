@@ -4,12 +4,7 @@ function RemediationDoc(path: string): RemediationDoc {
   return path as RemediationDoc
 }
 
-type RepoDocPath =
-  | `apps/${string}`
-  | `docs/${string}`
-  | `infra/${string}`
-  | `scripts/${string}`
-  | `tools/${string}`
+type RepoDocPath = `akasha/${string}`
 
 type NotMarkdown<S extends string> = S extends `${string}.md` ? never : S
 
