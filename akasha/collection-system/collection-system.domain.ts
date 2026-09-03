@@ -9,6 +9,8 @@ export const collectionSystem = {
     "page-type/collection-type",
     "page-type/collection",
     "page-type/collection-external",
+    "page-type/sync",
+    "page-type/sync-run",
     "workspace-package/great-courses",
     "workspace-package/royal-road",
   ],
