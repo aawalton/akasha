@@ -4,7 +4,7 @@ export const americanIdealsFoundingARepublicOfVirtue = {
   id: "019db533-f3a0-7192-a12c-5069d7c3e0b6",
   pageTypeSlug: "great-course",
   slug: "american-ideals-founding-a-republic-of-virtue",
-  title: 'American Ideals: Founding a \\"Republic of Virtue\\"',
+  title: 'American Ideals: Founding a "Republic of Virtue"',
   status: "completed",
   rank: "C",
   unitSlug: "minutes",
