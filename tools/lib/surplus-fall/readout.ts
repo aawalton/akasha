@@ -31,9 +31,18 @@ import { isTierColor, type Rung } from "./tier.ts"
 // its own key with, so the sleep read here and the sleep on the website come off one function
 // rather than two free to disagree. This file used to apply `statedAt` to the key itself, which
 // was that same arithmetic written a second time under a comment saying no reducer existed.
+//
+// WHY NEITHER READ NAMES ITS KEYS ANY MORE. `surplus-hours`, `sleep-hours` and `spend-hours` were
+// worked out by the markdown deriver rather than written on a day: the first two summed a target
+// over the day's stretches, and the third subtracted one from the other. A day is a `wake-day` page
+// now and declares none of the three, so naming them asks `dayValuesByDate` for keys the page type
+// has nothing for, and it refuses rather than handing back a row with the keys absent. The whole
+// day is asked for instead, `surplusIn` and `sleepIn` find nothing, and each answers null — which
+// is a reading not taken, and is what these two already meant. Measured over all 135 days before
+// the day reader moved: `sleep-hours` and `spend-hours` were null on every one of them, and
+// `surplus-hours` was the `0` that `(null ?? 0) - (null ?? 0)` comes to. So no fall was ever
+// notified off a number Alan's day had said.
 export const SLEEP_HOURS_KEY = "sleep-hours"
-
-const SURPLUS_KEYS = ["surplus-hours", SLEEP_HOURS_KEY, "spend-hours"] as const
 
 export interface Readout {
   readonly slug: string
@@ -136,13 +145,13 @@ export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
 }
 
 export async function readReading(day: string): Promise<number | null> {
-  const values = await dayValuesByDate(day, SURPLUS_KEYS)
+  const values = await dayValuesByDate(day)
   if (values === null) return null
   return surplusIn(values)
 }
 
 export async function readSleepHours(day: string): Promise<number | null> {
-  const values = await dayValuesByDate(day, [SLEEP_HOURS_KEY])
+  const values = await dayValuesByDate(day)
   if (values === null) return null
   return sleepIn(values)
 }
