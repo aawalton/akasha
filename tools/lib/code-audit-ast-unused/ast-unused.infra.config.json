@@ -1,14 +1,5 @@
 {
   "workspaces": {
-    "infra/auth-proxy": {
-      "entry": [
-        "**/*.test.{ts,tsx}",
-        "src/server.ts"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "infra/ci-workflows": {
       "entry": [
         "**/*.test.{ts,tsx}",
