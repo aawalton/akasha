@@ -113,7 +113,7 @@ const RULES: readonly DetectionRule[] = [
   {
     type: "component",
     kind: "capability",
-    tokens: ["@testing-library/react", "happy-dom", "renderHook(", "@shared/utils-test"],
+    tokens: ["@testing-library/react", "happy-dom", "renderHook(", "@akasha/testing-system"],
   },
   {
     type: "property",

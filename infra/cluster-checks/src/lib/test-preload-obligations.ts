@@ -49,7 +49,7 @@ export function preloadRemedy(
   const bunfig = `${workspace}/bunfig.toml`
   const shown = files.slice(0, 5).map((f) => `      ${f}`)
   const rest = files.length > shown.length ? [`      … ${files.length - shown.length} more`] : []
-  const entry = `"@shared/utils-test/setup/happydom"`
+  const entry = `"@akasha/testing-system/dom-registering"`
   const headline = `${workspace}: ${files.length} component test file(s) and ${bunfig} does not register a happy-dom preload.`
   const cost =
     '    Without it every render throws a bare "ReferenceError: document is not defined" out of @testing-library/react.'

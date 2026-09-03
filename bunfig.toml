@@ -1,6 +1,6 @@
 [test]
 preload = [
-  "@shared/utils-test/setup/component-dom-guard",
+  "@akasha/testing-system/dom-guard-setting",
   "./tools/lib/live-store-write-guard-preload.ts",
 ]
 
