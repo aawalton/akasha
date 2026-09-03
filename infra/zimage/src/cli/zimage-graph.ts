@@ -1,9 +1,8 @@
-import type { ComfyGraph } from "@infra/comfy/graph"
+import type { ComfyGraph } from "@akasha/comfy/comfy-graph"
 import type { ModelSpec } from "./models"
 
 export const ZIMAGE_DEFAULT_WIDTH = 1024
 export const ZIMAGE_DEFAULT_HEIGHT = 1024
-
 
 export interface RenderParams {
   readonly prompt: string

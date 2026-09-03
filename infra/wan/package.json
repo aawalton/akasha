@@ -17,7 +17,7 @@
     "wan-provision": "./bin/wan-provision.sh"
   },
   "dependencies": {
-    "@infra/comfy": "workspace:*",
+    "@akasha/comfy": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*"
   },

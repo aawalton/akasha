@@ -5,7 +5,8 @@
   "type": "module",
   "private": true,
   "dependencies": {
-    "@akasha/design-tokens": "workspace:*"
+    "@akasha/design-tokens": "workspace:*",
+    "@akasha/k8s-synth": "workspace:*"
   },
   "scripts": {
     "test": "bun test",

@@ -1,17 +1,17 @@
 export const summary = "Workspace-wide complexity roll-up: percentiles + top outliers"
 
-import type { CommandHelp } from "../../ops/surface.ts"
 import {
+  type CyclomaticRow,
   collectCyclomaticRows,
   collectHalsteadRows,
   collectMaintainabilityRows,
-  percentile,
-  resolveAnalysisInputs,
-  type CyclomaticRow,
   type HalsteadRow,
   type MaintainabilityRow,
-} from "../../../infra/analysis-complexity-cli/src/lib/run-metrics.ts"
+  percentile,
+  resolveAnalysisInputs,
+} from "@akasha/analysis-complexity/complexity-rows"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -105,7 +105,9 @@ export default async function complexityReport(args: readonly string[]): Promise
   blocks.push(renderSection("Cyclomatic Complexity (per function)", cyclomaticSummary, 0))
   if (ccTop.length > 0) {
     blocks.push(
-      ["## top by cc", ...ccTop.map((r) => `${r.cc}\t${r.file}\t${r.function}:${r.line}`)].join("\n")
+      ["## top by cc", ...ccTop.map((r) => `${r.cc}\t${r.file}\t${r.function}:${r.line}`)].join(
+        "\n"
+      )
     )
   }
   blocks.push(renderSection("Halstead Volume (per function)", halsteadSummary, 2))

@@ -63,7 +63,7 @@ export const clusterRoleRules: ReadonlyArray<(Rule | NonResourceRule) & { commen
   },
   {
     comment:
-      "Cluster-scoped RBAC — locked to known resources only (prevents privilege escalation)\n  # create: resourceNames can't restrict it, so it's in a separate rule below\n  # list: resourceNames can't restrict collection verbs, omitted intentionally\n  #\n  # Every name a synth.ts the discovery globs reach (the DISCOVERY_GLOBS in\n  # infra/k8s-synth/src/manifests.ts) emits as a\n  # ClusterRole or ClusterRoleBinding MUST appear here, otherwise the\n  # second-and-onward server-side-apply (a patch op) 403s — first-time\n  # apply succeeds via the unrestricted create rule below, masking the\n  # gap until the next deploy. Enforced by `ops check-rbac-cluster-resource-names`.",
+      "Cluster-scoped RBAC — locked to known resources only (prevents privilege escalation)\n  # create: resourceNames can't restrict it, so it's in a separate rule below\n  # list: resourceNames can't restrict collection verbs, omitted intentionally\n  #\n  # Every name a synth.ts the discovery globs reach (the DISCOVERY_GLOBS in\n  # akasha/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.code.ts) emits as a\n  # ClusterRole or ClusterRoleBinding MUST appear here, otherwise the\n  # second-and-onward server-side-apply (a patch op) 403s — first-time\n  # apply succeeds via the unrestricted create rule below, masking the\n  # gap until the next deploy. Enforced by `ops check-rbac-cluster-resource-names`.",
     apiGroups: ["rbac.authorization.k8s.io"],
     resources: ["clusterroles", "clusterrolebindings"],
     verbs: ["get", "update", "patch"],

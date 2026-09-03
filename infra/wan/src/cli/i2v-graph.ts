@@ -1,6 +1,5 @@
-import type { ComfyGraph, ComfyNode } from "@infra/comfy/graph"
+import type { ComfyGraph, ComfyNode } from "@akasha/comfy/comfy-graph"
 import { buildWanBackbone } from "./wan-backbone"
-
 
 export interface I2vGraphParams {
   readonly startImageName?: string

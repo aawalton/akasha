@@ -1,8 +1,9 @@
 import { relative } from "node:path"
-import { NAMESPACE_NAMES } from "@infra/k8s/app-namespaces/synth"
-import { discoverSynthFiles, loadSynthOutputs } from "@infra/k8s-synth/manifests"
-import { parseAllDocuments } from "yaml"
+import { discoverSynthFiles } from "@akasha/k8s-synth/synth-discovery"
+import { loadSynthOutputs } from "@akasha/k8s-synth/synth-loading"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { NAMESPACE_NAMES } from "@infra/k8s/app-namespaces/synth"
+import { parseAllDocuments } from "yaml"
 import { AUDITED_KINDS, type LiveResource, listLive } from "./cluster.ts"
 
 export const MANAGED_BY_A_DEPLOY: ReadonlySet<string> = new Set(["deploy-script", "bootstrap"])

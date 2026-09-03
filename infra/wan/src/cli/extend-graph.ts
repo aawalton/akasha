@@ -1,4 +1,4 @@
-import type { ComfyGraph, ComfyNode } from "@infra/comfy/graph"
+import type { ComfyGraph, ComfyNode } from "@akasha/comfy/comfy-graph"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { buildWanBackbone } from "./wan-backbone"
 

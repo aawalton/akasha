@@ -308,7 +308,7 @@ function prepFetchWithSelfHeal(fetchCmd: string, repo = "/ci-storage/repo"): rea
 
 export default workflow("preparation", {
   kind: "preparation",
-  dispatchNodes: ["package:code:@infra/k8s-synth"],
+  dispatchNodes: ["package:code:@akasha/k8s-synth"],
   dispatchNodeTypes: ["package", "md-file"],
   alwaysRun: true,
   steps: [
@@ -381,7 +381,7 @@ export default workflow("preparation", {
         commands: (ci) => [
           "set -e",
           `WS=/ci-storage/checkouts/${ci.commitSha}`,
-          `bun "$AKASHA_ROOT/infra/k8s-synth/src/manifests.ts" --write --root "$WS"`,
+          `bun "$AKASHA_ROOT/akasha/infrastructure/k8s-synth/synth-running/synth-running.module.code.ts" --write --root "$WS"`,
         ],
       }),
       dependsOn: ["preparation-prep"],

@@ -1,4 +1,4 @@
-import type { ComfyNode } from "@infra/comfy/graph"
+import type { ComfyNode } from "@akasha/comfy/comfy-graph"
 
 export const WAN_HIGH_NOISE_UNET = "Wan2.2-I2V-A14B-HighNoise-Q5_K_M.gguf"
 export const WAN_LOW_NOISE_UNET = "Wan2.2-I2V-A14B-LowNoise-Q5_K_M.gguf"

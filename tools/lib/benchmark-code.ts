@@ -1,7 +1,7 @@
 import {
   buildToolchainProvisionScript,
   buildToolchainVerifyScript,
-} from "@infra/ci-benchmark/benchmark-provision"
+} from "@akasha/ci-benchmark/benchmark-provision"
 
 import * as reportTypesHere from "./benchmark/report-types.ts"
 import * as runCoreHere from "./benchmark/run-core.ts"

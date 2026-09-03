@@ -1,11 +1,11 @@
 export const summary = "Per-function McCabe cyclomatic complexity across the workspace"
 
-import type { CommandHelp } from "../../ops/surface.ts"
 import {
   collectCyclomaticRows,
   resolveAnalysisInputs,
-} from "../../../infra/analysis-complexity-cli/src/lib/run-metrics.ts"
+} from "@akasha/analysis-complexity/complexity-rows"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

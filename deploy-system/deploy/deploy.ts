@@ -1,6 +1,8 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
-import { discoverSynthFiles, generatedPathFor, loadSynthOutputs } from "@infra/k8s-synth/manifests"
+import { generatedPathFor } from "@akasha/k8s-synth/generated-file"
+import { discoverSynthFiles } from "@akasha/k8s-synth/synth-discovery"
+import { loadSynthOutputs } from "@akasha/k8s-synth/synth-loading"
 import { parseAllDocuments } from "yaml"
 import { type Ran, runKubectl } from "../kubectl/kubectl.ts"
 import { DeployRefused } from "../refusal/refusal.ts"
@@ -201,11 +203,7 @@ export interface Deployed {
   readonly consulted: number
 }
 
-export async function deploy(
-  akasha: string,
-  plan: Plan,
-  awaitRollout = true
-): Promise<Deployed> {
+export async function deploy(akasha: string, plan: Plan, awaitRollout = true): Promise<Deployed> {
   refuseStandIns(akasha, plan)
   const written = writeManifests(plan)
   const ran: Ran[] = []
@@ -219,15 +217,45 @@ export async function deploy(
   const secrets = placeSecrets(akasha, plan)
   ran.push(...secrets.ran)
   if (secrets.ran.some((one) => one.code !== 0)) {
-    return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced, consulted: secrets.consulted }
+    return {
+      plan,
+      written,
+      ran,
+      placed: secrets.placed,
+      unplaced: secrets.unplaced,
+      consulted: secrets.consulted,
+    }
   }
   for (const manifest of rest) {
     const one = runKubectl(applyOf(plan, manifest))
     ran.push(one)
-    if (one.code !== 0) return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced, consulted: secrets.consulted }
+    if (one.code !== 0)
+      return {
+        plan,
+        written,
+        ran,
+        placed: secrets.placed,
+        unplaced: secrets.unplaced,
+        consulted: secrets.consulted,
+      }
   }
-  if (!awaitRollout) return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced, consulted: secrets.consulted }
+  if (!awaitRollout)
+    return {
+      plan,
+      written,
+      ran,
+      placed: secrets.placed,
+      unplaced: secrets.unplaced,
+      consulted: secrets.consulted,
+    }
   const rollout = rolloutOf(plan)
   if (rollout !== null) ran.push(runKubectl(rollout))
-  return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced, consulted: secrets.consulted }
+  return {
+    plan,
+    written,
+    ran,
+    placed: secrets.placed,
+    unplaced: secrets.unplaced,
+    consulted: secrets.consulted,
+  }
 }

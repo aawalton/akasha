@@ -1,5 +1,5 @@
 import { relative, resolve } from "node:path"
-import { discoverSynthFiles } from "@infra/k8s-synth/manifests"
+import { discoverSynthFiles } from "@akasha/k8s-synth/synth-discovery"
 import { z } from "zod"
 
 export { discoverSynthFiles }

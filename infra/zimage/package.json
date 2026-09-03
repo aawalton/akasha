@@ -16,7 +16,7 @@
     "zimage-provision": "./bin/zimage-provision.sh"
   },
   "dependencies": {
-    "@infra/comfy": "workspace:*",
+    "@akasha/comfy": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-system": "workspace:*"
   },

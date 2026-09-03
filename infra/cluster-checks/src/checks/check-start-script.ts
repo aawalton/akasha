@@ -1,16 +1,23 @@
 #!/usr/bin/env bun
 
-import { refuseRetired } from "../lib/retired.ts"
-
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
-import { isSynthPath } from "@infra/k8s-synth/manifests"
-import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
-import { z } from "zod"
-import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
+import { isSynthPath } from "@akasha/k8s-synth/synth-discovery"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { examineFilePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
+import { z } from "zod"
+import {
+  examineFilePopulation,
+  type Population,
+} from "../../../../tools/lib/check-workflow/population"
+import {
+  computeExitCode,
+  exitOnResult,
+  exitOnToolError,
+} from "../../../../tools/lib/check-workflow/violation-reporter"
+import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
+import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { getRepoRoot } from "../lib/repo-root.ts"
+import { refuseRetired } from "../lib/retired.ts"
 import {
   detectsBunRunStartCommand,
   findStartScriptViolations,
@@ -18,7 +25,6 @@ import {
   type StartContainerSite,
   type StartScriptFinding,
 } from "../lib/start-script-rules.ts"
-import { computeExitCode, exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 if (import.meta.main) refuseRetired()
 

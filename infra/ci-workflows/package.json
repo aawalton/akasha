@@ -5,7 +5,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./toolchain-manifest": "./src/toolchain-manifest.ts",
     "./*": "./src/*.ts"
   },
   "scripts": {
