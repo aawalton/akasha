@@ -7,10 +7,13 @@ export const watching = {
   definition: "the shows and films Alan watches",
   partSlugs: [
     "page-type/episode",
+    "page-type/fandom",
+    "page-type/fandom-collection",
     "page-type/franchise",
     "page-type/movie",
     "page-type/season",
     "page-type/show",
+    "page-type/show-collection",
   ],
   invariants: [
     {

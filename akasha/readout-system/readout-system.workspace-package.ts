@@ -26,6 +26,10 @@ export const readoutSystem = {
     "module/readout-tier",
     "module/readout-unread",
     "stylesheet/readout-look",
+    "domain/readout-color",
+    "domain/readout-figure",
+    "domain/ring",
+    "domain/stoplight",
   ],
   invariants: [
     {

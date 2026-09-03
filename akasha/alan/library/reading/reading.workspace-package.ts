@@ -18,5 +18,9 @@ export const reading = {
     "page-type/book-chapter",
     "page-type/book-series",
     "page-type/scripture-passage",
+    "page-type/author-collection",
+    "page-type/author",
+    "page-type/book-collection",
+    "page-type/scripture-collection",
   ],
 } as const satisfies WorkspacePackage

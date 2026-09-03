@@ -14,6 +14,9 @@ export const musicCatalog = {
     "module/musicbrainz-schema",
     "module/song-slug",
     "page-type/artist",
+    "page-type/artist-collection",
+    "page-type/release",
+    "page-type/release-collection",
     "page-type/song",
   ],
   invariants: [

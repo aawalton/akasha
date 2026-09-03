@@ -5,5 +5,13 @@ export const places = {
   pageTypeSlug: "domain",
   slug: "places",
   definition: "the places somebody kept on the map and what is redeemable at them",
-  partSlugs: ["page-type/location", "page-type/location-collection", "page-type/location-deal"],
+  partSlugs: [
+    "page-type/location",
+    "page-type/location-collection",
+    "page-type/location-deal",
+    "page-type/restaurant",
+    "page-type/restaurant-collection",
+    "page-type/restaurant-menu-item",
+    "page-type/travel-collection",
+  ],
 } as const satisfies Domain

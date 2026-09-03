@@ -5,9 +5,14 @@ export const emailWatch = {
   pageTypeSlug: "workspace-package",
   slug: "email-watch",
   definition: "what becomes of a message that arrives in Alan's inbox",
-  partSlugs: ["module/inbox-watching"],
   manifest: "json",
-  partSlugs: ["module/inbox-run"],
+  partSlugs: [
+    "module/email-rule-deciding",
+    "module/email-rule-reading",
+    "module/email-rule-set",
+    "module/inbox-run",
+    "module/inbox-watching",
+  ],
   invariants: [
     {
       invariantKind: "departure",
