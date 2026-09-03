@@ -12,6 +12,7 @@ export const pagesSystem = {
     "page-type/page-property",
     "page-type/text-property",
     "page-type/number-property",
+    "page-type/formula-property",
     "page-type/boolean-property",
     "page-type/instant-property",
     "page-type/relation-property",
