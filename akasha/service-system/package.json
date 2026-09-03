@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./workstation-service": "./workstation-services/workstation-service.page-type.ts",
+    "./image": "./cluster-services/properties/image.text-property.ts",
     "./service-installing": "./workstation-services/service-installing/service-installing.module.code.ts",
     "./service-wrapping": "./workstation-services/service-wrapping/service-wrapping.module.code.ts",
     "./unit-writing": "./workstation-services/unit-writing/unit-writing.module.code.ts",

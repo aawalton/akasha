@@ -8,6 +8,7 @@ export const checks = {
   manifest: "json",
   partSlugs: [
     "page-type/code-check",
+    "page-type/cluster-check",
     "page-type/model-check",
     "page-type/refusal",
     "module/judging",
