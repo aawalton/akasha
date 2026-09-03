@@ -7,14 +7,16 @@ import type { Namespace } from "./properties/namespace.text-property.ts"
 import type { Replicas } from "./properties/replicas.number-property.ts"
 import type { ResourceKind } from "./properties/resource-kind.text-property.ts"
 import type { ResourceName } from "./properties/resource-name.text-property.ts"
+import type { Schedule } from "./properties/schedule.text-property.ts"
 
 export type ClusterService = Service & {
   resourceKind: ResourceKind
   namespace: Namespace
   resourceName: ResourceName
   image: Image
-  replicas: Replicas
-  containerPort: ContainerPort
+  replicas?: Replicas
+  containerPort?: ContainerPort
+  schedule?: Schedule
   manifestCode: ManifestCode
 }
 
@@ -30,6 +32,7 @@ export const clusterService = {
     "cluster-service/alanwalton-web",
     "cluster-service/archive-of-worlds-web",
     "cluster-service/audhdalan-web",
+    "cluster-service/calendar-sync",
     "cluster-service/smilingjenny-web",
     "cluster-service/temper-web",
     "number-property/container-port",
@@ -39,14 +42,16 @@ export const clusterService = {
     "text-property/namespace",
     "text-property/resource-kind",
     "text-property/resource-name",
+    "text-property/schedule",
   ],
   properties: [
     { pagePropertySlug: "resource-kind", required: true, many: false },
     { pagePropertySlug: "namespace", required: true, many: false },
     { pagePropertySlug: "resource-name", required: true, many: false },
     { pagePropertySlug: "image", required: true, many: false },
-    { pagePropertySlug: "replicas", required: true, many: false },
-    { pagePropertySlug: "container-port", required: true, many: false },
+    { pagePropertySlug: "replicas", required: false, many: false },
+    { pagePropertySlug: "container-port", required: false, many: false },
+    { pagePropertySlug: "schedule", required: false, many: false },
     { pagePropertySlug: "manifest-code", required: true, many: false },
   ],
   invariants: [
@@ -70,6 +75,15 @@ export const clusterService = {
     {
       invariantKind: "departure",
       statement: "A cluster service's page states the shape of the workload it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A cluster service states replicas and a container port only where its kind carries them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cluster service the cluster starts on a schedule states that schedule.",
     },
     {
       invariantKind: "gap",

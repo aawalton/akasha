@@ -13,7 +13,7 @@ export default workflow("alanwalton-calendar-sync", {
       ...buildkitBuild({
         name: "alanwalton-calendar-sync-build",
         context: ".",
-        dockerfile: "alanwalton/calendar-sync",
+        dockerfile: "akasha/calendar-sync",
         tag: (ci) => `${REGISTRY}/alanwalton/alanwalton-calendar-sync:${ci.inputsHash}`,
         cacheTag: `${REGISTRY}/alanwalton/alanwalton-calendar-sync:buildcache`,
         image: IMAGES.CI,
@@ -33,7 +33,7 @@ export default workflow("alanwalton-calendar-sync", {
       environment: { HOME: "/tmp" },
       commands: (ci) => [
         "set -e",
-        `sed "s|MUST_BE_SET_BY_DEPLOY_SCRIPT|${REGISTRY}/alanwalton/alanwalton-calendar-sync:${ci.inputsHash}|g" alanwalton/calendar-sync/generated/cronjob.generated.yaml | kubectl apply --server-side --force-conflicts -n alanwalton -f -`,
+        `sed "s|MUST_BE_SET_BY_DEPLOY_SCRIPT|${REGISTRY}/alanwalton/alanwalton-calendar-sync:${ci.inputsHash}|g" akasha/calendar-sync/generated/cronjob.generated.yaml | kubectl apply --server-side --force-conflicts -n alanwalton -f -`,
       ],
       backendOptions: {
         kubernetes: { serviceAccountName: "pipeline-engine" },

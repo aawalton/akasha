@@ -15,9 +15,5 @@ export const manifestCode = {
       invariantKind: "departure",
       statement: "The file is named from the repository root.",
     },
-    {
-      invariantKind: "stopgap",
-      statement: "The file a cluster service names here stands outside akasha.",
-    },
   ],
 } as const satisfies TextProperty
