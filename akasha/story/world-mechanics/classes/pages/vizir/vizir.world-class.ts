@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const vizir = {
   id: "01a0657e-026f-7dfc-9bed-09f60790a6d1",
