@@ -8,7 +8,7 @@ const ERROR_CATEGORY = 1
 
 export type { LuaVm }
 
-type TstlModule = typeof import("@temper/shared-build-deploy-tstl/transpilation/index")
+type TstlModule = typeof import("@akasha/lua-compiler/transpilation")
 
 type Diagnostic = ReturnType<TstlModule["transpileProject"]>["diagnostics"][number]
 
@@ -71,7 +71,7 @@ function said(text: Diagnostic["messageText"]): string {
 }
 
 export async function bundleToLua(source: string, opts: BundleOpts = {}): Promise<string> {
-  const { transpileProject } = await import("@temper/shared-build-deploy-tstl/transpilation/index")
+  const { transpileProject } = await import("@akasha/lua-compiler/transpilation")
   const root = mkdtempSync("/var/tmp/temper-addon-lua-")
   try {
     mkdirSync(join(root, "src"))

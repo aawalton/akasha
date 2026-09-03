@@ -32,7 +32,6 @@
     "infra/wan",
     "infra/workspace-cli",
     "infra/zimage",
-    "lua-compiler",
     "readouts",
     "shared/vscode-typings",
     "temper/scripts",

@@ -79,9 +79,6 @@
       "path": "./infra/wan"
     },
     {
-      "path": "./lua-compiler"
-    },
-    {
       "path": "./collections/exercises"
     },
     {
