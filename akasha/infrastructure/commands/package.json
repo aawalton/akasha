@@ -1,0 +1,15 @@
+{
+  "name": "@akasha/infrastructure-commands",
+  "private": true,
+  "type": "module",
+  "exports": {},
+  "dependencies": {
+    "@akasha/command-system": "workspace:*",
+    "@akasha/git": "workspace:*",
+    "@akasha/k8s-types": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@akasha/service-system": "workspace:*",
+    "@akasha/workflow-language": "workspace:*",
+    "@tools/lib": "workspace:*"
+  }
+}
