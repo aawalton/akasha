@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bulwarkShield = {
   id: "01a06575-97f9-753e-b1f0-57ff14078e67",

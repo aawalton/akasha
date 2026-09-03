@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const coneOfSoundBrownNote = {
   id: "01a06575-97fc-785c-aa18-c6903311a8f0",

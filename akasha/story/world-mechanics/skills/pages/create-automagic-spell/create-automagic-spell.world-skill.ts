@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const createAutomagicSpell = {
   id: "01a06575-97fe-7f3b-aea6-c0f528065222",

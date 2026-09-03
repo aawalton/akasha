@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const convertDeathMana = {
   id: "01a06575-97fd-7a61-b872-b3aeb4ad3ef1",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const circleOfProtection = {
   id: "01a06575-97fb-7f52-81fa-7ff50c6256b4",

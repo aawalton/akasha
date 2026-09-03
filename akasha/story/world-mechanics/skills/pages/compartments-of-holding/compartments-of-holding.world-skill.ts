@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const compartmentsOfHolding = {
   id: "01a06575-97fc-7d9f-81bc-789a7e81f5d5",

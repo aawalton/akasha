@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const collectDocument = {
   id: "01a06575-97fb-7215-a040-fb6203273e94",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const createLifeglass = {
   id: "01a06575-97fe-7e4c-a0f1-ae9ca0ba91bb",

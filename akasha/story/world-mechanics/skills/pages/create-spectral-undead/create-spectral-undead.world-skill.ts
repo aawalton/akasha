@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const createSpectralUndead = {
   id: "01a06575-97ff-70a7-a2cb-ce9a9981f925",

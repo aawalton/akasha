@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const charmingAppeal = {
   id: "01a06575-97fa-726d-af21-7424c4d2ddf2",

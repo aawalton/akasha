@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const compressedMuscle = {
   id: "01a06575-97fc-7f3b-8f68-1e0b7308bcc3",

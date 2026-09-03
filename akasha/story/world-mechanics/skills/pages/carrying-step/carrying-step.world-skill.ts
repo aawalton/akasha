@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const carryingStep = {
   id: "01a06575-97fa-734a-a107-d612f2098f92",

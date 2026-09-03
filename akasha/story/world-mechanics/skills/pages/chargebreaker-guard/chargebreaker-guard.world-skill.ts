@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const chargebreakerGuard = {
   id: "01a06575-97fa-75e5-bca5-b92f2fdee916",

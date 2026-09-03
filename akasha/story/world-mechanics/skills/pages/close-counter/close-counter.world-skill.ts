@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const closeCounter = {
   id: "01a06575-97fb-78f0-9098-9bc902896f7f",

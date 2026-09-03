@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const castling = {
   id: "01a06575-97fa-7a36-a471-daaecba89cc5",

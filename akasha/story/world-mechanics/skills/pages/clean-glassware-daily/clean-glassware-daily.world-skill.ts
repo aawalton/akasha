@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const cleanGlasswareDaily = {
   id: "01a06575-97fb-7ff4-96de-d2512a4c85c1",

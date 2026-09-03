@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const createBubbleLiquid = {
   id: "01a06575-97fe-7572-af8a-04f218dfc0cd",

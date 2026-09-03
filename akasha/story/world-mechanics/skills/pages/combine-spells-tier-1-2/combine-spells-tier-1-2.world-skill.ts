@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const combineSpellsTier12 = {
   id: "01a06575-97fc-7eb2-9482-650125812d18",

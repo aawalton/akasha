@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const crossbowsOverwatch = {
   id: "01a06575-97ff-7516-8cd9-9c21957eb9d2",

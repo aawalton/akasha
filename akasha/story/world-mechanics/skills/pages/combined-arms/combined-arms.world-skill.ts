@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const combinedArms = {
   id: "01a06575-97fc-76b8-b690-7f2c9faddff0",

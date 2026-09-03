@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bugfriend = {
   id: "01a06575-97f9-72c9-8b66-071a451e6aa5",

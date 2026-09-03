@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const confidentialSources = {
   id: "01a06575-97fc-71c2-82fd-581800ec5836",

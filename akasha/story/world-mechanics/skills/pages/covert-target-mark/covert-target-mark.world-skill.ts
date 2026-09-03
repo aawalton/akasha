@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const covertTargetMark = {
   id: "01a06575-97fe-7586-943b-815ba722caf6",

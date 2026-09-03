@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const catSGrace = {
   id: "01a06575-97fa-7b02-aadc-19198bd9bcb9",

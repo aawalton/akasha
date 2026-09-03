@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const catSEvasion = {
   id: "01a06575-97fa-731b-a205-9fd30cfd5da8",

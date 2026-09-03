@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const cookingNoBadPoos = {
   id: "01a06575-97fd-7f62-a800-841718d4bb16",

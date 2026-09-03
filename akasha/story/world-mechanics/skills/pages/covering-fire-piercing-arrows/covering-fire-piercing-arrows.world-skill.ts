@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const coveringFirePiercingArrows = {
   id: "01a06575-97fe-7bc4-9776-d96f85ac2e25",

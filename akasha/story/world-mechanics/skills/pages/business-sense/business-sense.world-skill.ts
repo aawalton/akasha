@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const businessSense = {
   id: "01a06575-97f9-775d-bd51-e975ed670642",

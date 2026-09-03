@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const combineSpell = {
   id: "01a06575-97fc-76df-8437-1cb239727ff8",

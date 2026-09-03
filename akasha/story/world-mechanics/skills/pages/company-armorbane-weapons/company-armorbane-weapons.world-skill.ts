@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const companyArmorbaneWeapons = {
   id: "01a06575-97fc-7eff-9cfd-48e285258679",

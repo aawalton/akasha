@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const combinedSkillBoltFromTheHeavens = {
   id: "01a06575-97fc-7616-a618-d21499b6bdaf",

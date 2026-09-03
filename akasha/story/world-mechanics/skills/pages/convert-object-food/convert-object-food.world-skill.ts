@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const convertObjectFood = {
   id: "01a06575-97fd-78d3-83ba-b755d928a08c",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const crewMyShipIsCrewedByGhosts = {
   id: "01a06575-97ff-73c7-bd5f-be5bedf0ad40",

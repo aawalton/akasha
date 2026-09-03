@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const calculableInsightCopySkillIntellect = {
   id: "01a06575-97f9-73ae-844a-ed01311c88ba",

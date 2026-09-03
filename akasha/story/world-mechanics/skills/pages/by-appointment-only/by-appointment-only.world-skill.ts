@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const byAppointmentOnly = {
   id: "01a06575-97f9-7c5d-bfb9-50b148f80bca",

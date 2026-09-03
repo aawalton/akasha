@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const combineSpellLightningBolt = {
   id: "01a06575-97fc-76d5-a1ec-e352935a06a8",

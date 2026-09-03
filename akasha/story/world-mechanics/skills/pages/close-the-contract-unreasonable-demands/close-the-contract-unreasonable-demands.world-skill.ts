@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const closeTheContractUnreasonableDemands = {
   id: "01a06575-97fb-7dd7-b0b1-13688534ed43",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const coldIronMists = {
   id: "01a06575-97fb-791c-84d3-56be08c3e054",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bruteSSwing = {
   id: "01a06575-97f9-7f6c-8749-17292b978ada",

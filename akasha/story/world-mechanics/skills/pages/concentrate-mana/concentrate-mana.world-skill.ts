@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const concentrateMana = {
   id: "01a06575-97fc-7d47-9f75-38ed09cba8ec",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const ceaseFire = {
   id: "01a06575-97fa-7fab-8a43-92201ac46402",

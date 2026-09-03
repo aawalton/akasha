@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const callToSingleCombat = {
   id: "01a06575-97fa-7265-84a5-8b4360157374",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const burnProtection = {
   id: "01a06575-97f9-7caa-9ae6-81266e6dbb58",

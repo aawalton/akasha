@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const convertMomentousnessToMana = {
   id: "01a06575-97fd-74ff-8b7a-352c06ff9400",

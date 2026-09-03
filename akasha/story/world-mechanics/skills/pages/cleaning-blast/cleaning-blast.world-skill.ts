@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const cleaningBlast = {
   id: "01a06575-97fb-75a9-a6f8-353c87de020d",

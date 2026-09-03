@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const checkVibes = {
   id: "01a06575-97fb-794a-b12b-23b017300a1c",

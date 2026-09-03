@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const catSEyeVision = {
   id: "01a06575-97fa-77e8-b3d5-906aec9de296",

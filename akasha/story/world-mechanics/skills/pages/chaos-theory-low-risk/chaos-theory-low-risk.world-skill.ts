@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const chaosTheoryLowRisk = {
   id: "01a06575-97fa-7179-ade7-250718637596",

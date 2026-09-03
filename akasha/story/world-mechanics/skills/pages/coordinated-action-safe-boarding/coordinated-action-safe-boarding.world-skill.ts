@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const coordinatedActionSafeBoarding = {
   id: "01a06575-97fd-72b1-ac71-18fba00fe547",

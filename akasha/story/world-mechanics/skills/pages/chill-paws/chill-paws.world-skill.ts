@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const chillPaws = {
   id: "01a06575-97fb-79e7-b9d1-332153475165",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const combineSpellElementalArrowRain = {
   id: "01a06575-97fb-7956-ba44-08b1c5d4192c",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const companyRallyingTeleport = {
   id: "01a06575-97fc-78d3-905f-2730c1a1438f",

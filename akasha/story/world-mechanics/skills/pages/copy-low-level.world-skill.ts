@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const copyLowLevel = {
   id: "01a06575-97fd-704e-81cc-d94047546873",
