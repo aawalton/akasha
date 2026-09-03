@@ -11,12 +11,12 @@ import { valueAt } from "@akasha/pages-system/page-value"
 import { isAccountTerminal, markAccountTerminal } from "@tools/lib/account-terminal"
 import { reportOAuthRecovered, reportTerminalOAuthError } from "@tools/lib/agent-health-write"
 import type { ProxyAdoptionRuleSource } from "@tools/lib/supervisor-proxy-adoption-rule"
+import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
+import { guardTick } from "../supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import {
   type SupervisorOAuthProxyHandle,
   spawnOrAdoptOAuthProxy,
-} from "@tools/lib/supervisor-spawn-oauth-proxy"
-import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
-import { guardTick } from "../supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+} from "../supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import { writePacingSnapshot } from "../supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 
 export async function runCredentialPullTick(args: {
