@@ -1,7 +1,0 @@
-[
-  {
-    "type": "health-threshold",
-    "below": 50,
-    "targetType": "self"
-  }
-]
