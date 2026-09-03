@@ -138,3 +138,132 @@ Krog grumbled as we followed Torix's command, but he followed the lich's order. 
 
 I needed to react if that happened though. On top of that, evasion would be our primary concern in that circumstance. Feeding a hybrid and making it stronger was our worst-case scenario, so we planned accordingly. Even then, nothing about that kind of situation was comforting.
 
+The pressure here was extremely high. The gunk above us was denser than water, and that's what made the facility so unlikely in the first place. Althea and Torix would be crushed. It cost quite a bit of mana just to maintain the sphere of air around us and prevent its collapse as we descended. Doing all that while fighting sounded like a chore at best and a deathtrap at worst.
+
+We had a job to do, however. After exploring the eldritch cave and gathering a basic dungeon core, we scoured the labs from top to bottom. As we stepped into one of the data rooms, Torix, Althea, and I tried downloading the filed there. The computers didn't enable uploading of any sort, and I mean that literally. The first few terminals we tried connecting with blew up the moment we set up a data link with our obelisks.
+
+Without an obvious way into the devices, we skulked around for a while, trying to break through the security. We weren't very successful. After a while, we discovered that most of the information was encoded, adding yet another layer of protection. Even on their desks, they used a language that wasn't logged in Schema's language database. In fact, it resisted the algorithms used by Schema to decipher words.
+
+That required intense technical and insider knowledge. Schema decoded Hod's language in seconds after I met him, let me understand the eltari reasonably quickly. Even after hours of searching through documents, Schema couldn't decode this new cipher. It was a steel wall to discovering what was going on here.
+
+Without an accessible, clear log of info about the place, we focused on inferring what we could. The first tip we found was that they were using devices disconnected from Schema's network. They had their own intranet for the facility. This place was connected with simplex fiber optics to the outside world a well. The cords enabled them to send messages out but not receive them.
+
+This system would allow them to research without relying on obelisks or Schema's built-in network. After a few hours of inspection, we figured out a few other interesting tidbits. The entire facility used a lot of paper to do their documentation. It was a hell of a lot more secure than using anything tech related.
+
+Most of the tech they did use was in the form of fat terminals. We figured out why after trying to take one out of the ground. As I grabbed the metal box welded to the floor and pulled, the damn thing exploded. Turns out, carrying these terminals to a Sentinal would be a hell of a lot more difficult than laptops.
+
+Even worse, the tech was outdated even by human standards. This made the devices like lead blocks. Storing one in a dimensional ring was damn near impossible unless you were massive. Yet I would struggle to hold more than two of them since the terminals took up so much volume.
+
+Silly as all this sounds, this was a vital element of the facility's defenses. If I took a terminal and gave it to a Sentinel, they could call on a personalized A.I. to hack it. No matter how multi-layered the monitor's security was, Schema would obliterate any defense no matter the complexity. I refused to believe that was possible considering what he was. As an A.I. hacking should be one of his primary worries as far as killing him was concerned.
+
+Point is, with the bombs implanted in the terminals and them being welded to the floor, we couldn't just waltz out of here with them.
+
+A Sentinel wasn't about to walk to the bottom of the ocean to find one of these either. This made storing and removing the damn terminals both tedious and time-consuming. This evolved from a thorn in our side to a pain in our asses after blowing up three monitors. With everyone exhausted, we set up camp and slept outside the research rooms. Well, everyone that needed to rest that is.
+
+After everyone woke up again, we set back to the task. Getting past the welding was simple enough. Althea sliced through the steel plating using an elongated claw from the tip of her finger. After that, there was a sea of wires ingrained into the floor. Althea and I were mystified, but Torix helped us out.
+
+While not a tech-lord by any stretch of the imagination, Torix understood simple wiring. Using several online video guides, we spent two hours of slicing wires and rerouting power sources. It was a slow, painful process. After that, the terminal we painstakingly dismantled blew up.
+
+Fuck.
+
+Still, it was a solid fourth attempt by my standards at least. The next terminal we attempted taking out was better but again a bust. Turns out, each terminal used a different wiring scheme. Another hour and a half later, we got rid of the wires. Before lifting the terminal, we took out three bombs from inside the structure.
+
+Althea's polymorphism proved pivotal to reaching the nooks and crannies of the machines. The issue came when a killswitch activated as I picked up the device. A sand driven mechanism in the damn thing shut on when the terminal tilted any direction by even the slightest degree. Great. Fucking great.
+
+I wasn't about to let some ruthless, unliving machine continue to kick our asses. The sand in the terminal activated a killswitch when poured in any direction. This would set off a surge of electricity, wiping the disc and its contents. On the sixth terminal, I did something useful aside from offering moral support.
+
+After removing the plating, wires, bombs, and the killswitch, yet another failsafe activated. A tiny emp grenade stored beneath the monitor activated. It began charging the moment I opened up my dimensional storage. Before it unleashed a burst of electromagnetism, I set my palm onto the device and drained the energy from it. It was electricity, so it proved simple enough to use with my Lightning Eater skill.
+
+Dodging a bullet, we all sighed in relief before raising our guard back up. A few minutes later, and we finally set one of the monitors into my dimensional storage. Eureka, we were victorious. One monitor down, over a hundred left to go.
+
+How could we take a hundred? See, most people were limited with how much volume they could put into their dimensional storages. The rings Schema gave out were like that. Even if you stored very little weight in them, the size of anything stored would cost an equivalent volume of flesh and bone. For each terminal, that was a lot to ask.
+
+I could regenerate the damage done, but if anything snuck up on us after I stored something, we were fucked. Fortunately, my personal storage didn't have the same limitation. I gained a perk called Independent Space when I became a living dimension. It wasn't limited by volume, only mass. Without the restriction of space, I could store hundreds of these terminals in my storage and carry them out. I weighed many tons after all.
+
+My advantage was the worst case scenario for whoever designed the security here. I could carry all of the chunky machines out of this place without risking our deaths hundreds of times.
+
+Over the rest of the day, we industrialized our terminal stealing process. Turns out, there can only be so many different kinds of wiring schematics. After mapping a dozen of them, Torix could guide Althea through the process with ease. After the next score of grounded screens, Althea could feel her way through them, going through the motions out of habit.
+
+I abused my abilities to their utmost extent as well, packing away anything that wasn't bolted to the floor. Figuratively speaking of course because we stole quite a bit that was bolted to the floor. Our sheer resourcefulness left Chrona and Krog dumbfounded.
+
+"I still can't fathom how you're carrying so many of those devices," Chrona mused.
+
+Torix cackled, "I would go so far as to say all that matters is that he can do it, not how he does it."
+
+"I...I suppose." she murmured with a telepathic wave.
+
+Krog eyed us as I put yet another terminal into my personal storage,
+
+"Are we going to store this entire hellhole in that portal of yours?"
+
+Torix glared at him, "If we could, we would. This is a wealth of data, and since we've no method of accessing it, we need an outsider's help."
+
+Krog pointed his tail at us, "I thought you dirtwalkers-"
+
+Chrona smacked his side with her tail. Krog continued, "Ahem, I thought you Earthwalkers were the best at using those...things."
+
+Torix rolled his fiery eyes, "We each carry different qualities. Neither I, Daniel, or Althea know enough about hacking and security to harvest the information stored in these."
+
+"So then they're useless," Krog said with a brow raised.
+
+"No. We can uplink them directly to a Sentinel. Considering the importance of this base, it shouldn't be too difficult to get a personalized A.I. of Schema's to crack open the secrets within these devices."
+
+"Hmmm," Krog tilted his head, "So you're all too dumb to do this on your own is what I'm hearing..."
+
+Torix scoffed, "Do tell, can you access these devices? Do you even know what they are?"
+
+"Well, no-"
+
+"Then be silent," Torix snapped.
+
+Krog frowned but chose to remain silent. As much as we enjoyed finding all this tech, the entire process of exploring this base was exhausting. Everyone's patience was wearing thin by now, even mine.
+
+"Calm down." Althea groaned, "That's the last terminal here. Let's move on and get this over with. Please."
+
+She had the hardest job out of all of us, yet she complained the least. I was impressed, but Althea might snap at any moment. On the other hand, I waved my head back and forth, trying to shake out my boredom. For such an exciting find, I expected more action. So far, we walked around and cut wires the entire time. Yay, fun.
+
+I was keeping relatively alert and ready to jump at a moment's notice though. A quick reaction was necessary if we were to all survive this. Even though the two life signatures Torix found were contained, they were massive and still here. We needed to find whatever they were and extinguish them after getting out of here.
+
+With that in mind, we finished the final lab up, moving towards one of the last remaining research facility. It bolstered moral as Torix announced that fact. Up till now, gathering all we could had been the priority. We had no guarantee that the facility would survive the battle against whatever was down here. This was our only chance to gather intel before then.
+
+With the last lucrative room of the facility left, we trecked onward into the depths of the facility. I stepped inside the lab first, ready to take the brunt of a heavy-handed attack. I expected resistance since this was the last room left. Like all the others, it was empty of any movement. Unlike the others, quite a few things looked alive.
+
+In a long room, dozens of tubes lined a series of walkways. Inside vats of blue fluid, twisted bodies were suspended. Floating in liquid nitrogen, dozens of these experiments were set up on display. What lied within showed the horrific origins of the Hybrid.
+
+At the start of the line, the experiments were just fusions of flesh and wire. The silvers were in the process of converting espens into metal. Others had the harvesters stitched onto their bodies, their meat conjoined. These victims were showing signs of being consumed by the eldritch energy coursing through their veins.
+
+As I paced back through the room, the vast majority of the victims were in the middle of screaming. After showing signs of rejection, they must have thrown them into the nitrogen for further study. After a bit of walking, the bodies looked less warped, showing fewer signs of rejection.
+
+Before I walked any further,  the others stepped in and discovered the sick sights as well. I couldn't blame them. Even now, a bit of nausea welled up in my chest, but I held it down.
+
+Althea didn't.
+
+Whenever she got a good look, she vomited onto the floor. This was a carnival of horrors with all of it out in the open, so I didn't blame her. Even Torix was given pause as he stared at one of the flickering vials,
+
+"Even I never sunk so low as to graft eldritch onto civilians."
+
+I turned to Torix, "You experimented with eldritch?"
+
+"Does that truly surprise you?"
+
+I spread out my arms, "Well yeah, yeah it does."
+
+"It was a long time ago and long before we met. I've changed since then. I've grown in both character and ability. Those trivial pursuits no longer enthrall me. That being said," Torix placed a hand on a chilled vat,
+
+"This goes far deeper than any research I attempted. To fuel this kind of initiative would require unequaled levels of will and drive. This level of supply would involve orbital deliveries at a regulated rate."
+
+Torix mused, "To keep it secret, they must have used some large group of unknowns, perhaps the remnants? If so, the making of this compound must have been unbelievably expensive. Few have access to such funds."
+
+Krog growled, "It was Thisbey."
+
+Torix shook his head, "No, this wasn't the work of some planetary conglomerate. Hiding an operation of this size would require multiple solar systems worth of Thisbey's working together. A far larger threat is looming on our horizon."
+
+Torix waved a hand, "Simply keeping the scientists engaged in the work would require tremendous charisma and inspiration."
+
+Chrona murmured, "Either that or fear..."
+
+As they talked, I trecked deeper into the storage unit, finding less deformed bodies towards the back. Over the years, they made steady progress towards their goal or what I assumed was their goal. A few experiments left in the end weren't even deformed, showing few if any signs of mutation. That happened first with fusing the eldritch and silvers. The eldritch and espens followed soon after that.
+
+Several dozen vats later, I found a collection of hybrids frozen in place. They were progressively more humanoid, each one looking more stable. At the very end of the tubes, I found the final vat in the line. It was empty, broken glass on the floor. Above the glass, there was a name tag written out. It was the only name that wasn't in gibberish. It sent chills up my spine as I read it aloud,566t
+
+"The Hybrid - Version 2.0."
