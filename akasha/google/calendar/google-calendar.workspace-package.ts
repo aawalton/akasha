@@ -13,6 +13,7 @@ export const googleCalendar = {
     "module/calendar-event-shapes",
     "module/calendar-event-schema",
     "module/calendar-events",
+    "module/send-updates-narrowing",
   ],
   invariants: [
     {

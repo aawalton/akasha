@@ -6,7 +6,7 @@ export const googleOauth = {
   slug: "google-oauth",
   definition: "the one Google desktop app Alan's calendar, mail and drive all consent through",
   manifest: "json",
-  partSlugs: ["module/oauth-callback", "module/oauth-app-credentials"],
+  partSlugs: ["module/oauth-callback", "module/oauth-app-credentials", "module/oauth-consent"],
   invariants: [
     {
       invariantKind: "absence",

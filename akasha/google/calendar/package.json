@@ -8,7 +8,8 @@
     "./client": "./calendar-client/calendar-client.module.code.ts",
     "./types": "./calendar-event-shapes/calendar-event-shapes.module.code.ts",
     "./schema": "./calendar-event-schema/calendar-event-schema.module.code.ts",
-    "./events": "./calendar-events/calendar-events.module.code.ts"
+    "./events": "./calendar-events/calendar-events.module.code.ts",
+    "./send-updates-narrowing": "./send-updates-narrowing/send-updates-narrowing.module.code.ts"
   },
   "dependencies": {
     "@akasha/google-oauth": "workspace:*",

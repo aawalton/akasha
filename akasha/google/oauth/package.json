@@ -4,7 +4,8 @@
   "type": "module",
   "exports": {
     "./oauth-callback": "./oauth-callback/oauth-callback.module.code.ts",
-    "./oauth-app-credentials": "./oauth-app-credentials/oauth-app-credentials.module.code.ts"
+    "./oauth-app-credentials": "./oauth-app-credentials/oauth-app-credentials.module.code.ts",
+    "./oauth-consent": "./oauth-consent/oauth-consent.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
