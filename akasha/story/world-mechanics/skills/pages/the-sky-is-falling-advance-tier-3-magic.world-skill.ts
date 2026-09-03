@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const theSkyIsFallingAdvanceTier3Magic = {
   id: "01a0657d-0312-7635-835f-964c22d27554",

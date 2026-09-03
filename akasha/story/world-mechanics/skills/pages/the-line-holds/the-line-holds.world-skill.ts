@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const theLineHolds = {
   id: "01a0657d-0312-7453-a086-fec7313d9ac1",

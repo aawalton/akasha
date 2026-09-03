@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const swordArtDiamondCleaver = {
   id: "01a0657d-0307-7305-b30e-8eb40158b836",

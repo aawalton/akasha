@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const thunderHammerSBlow = {
   id: "01a0657d-0315-789f-bfd1-b07883673c4b",

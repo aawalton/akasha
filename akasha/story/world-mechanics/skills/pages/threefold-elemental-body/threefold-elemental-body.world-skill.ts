@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const threefoldElementalBody = {
   id: "01a0657d-0315-78b8-977a-638cff42f7c4",

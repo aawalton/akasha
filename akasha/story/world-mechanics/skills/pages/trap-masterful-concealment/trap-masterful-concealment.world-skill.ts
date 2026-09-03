@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const trapMasterfulConcealment = {
   id: "01a0657d-0316-75c9-8cfe-8da6879ee7b9",

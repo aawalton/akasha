@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const thunderstrikeImpact = {
   id: "01a0657d-0315-7ae7-9963-7983c6873fb5",

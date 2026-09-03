@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const systematicWarfareSharedIntelligenceInn = {
   id: "01a0657d-0307-748d-9ba3-32cbf212a130",

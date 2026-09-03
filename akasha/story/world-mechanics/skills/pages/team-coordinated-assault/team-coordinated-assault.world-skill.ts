@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const teamCoordinatedAssault = {
   id: "01a0657d-0310-780d-a9a3-6b01d24c1c6f",

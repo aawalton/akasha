@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const theEternalWave = {
   id: "01a0657d-0311-7fbb-8c08-a1877c2ce234",

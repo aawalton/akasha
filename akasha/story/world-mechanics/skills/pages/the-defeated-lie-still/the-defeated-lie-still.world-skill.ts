@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const theDefeatedLieStill = {
   id: "01a0657d-0311-765a-b3d4-38ec9e39da8d",

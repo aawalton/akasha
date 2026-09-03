@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const teammateLocateTeammates = {
   id: "01a0657d-0311-7e9c-96b6-6770657306a4",

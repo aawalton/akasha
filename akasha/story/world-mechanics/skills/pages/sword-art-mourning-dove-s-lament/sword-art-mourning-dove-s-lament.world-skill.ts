@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const swordArtMourningDoveSLament = {
   id: "01a0657d-0307-7e6c-a5e1-06d55afd6182",

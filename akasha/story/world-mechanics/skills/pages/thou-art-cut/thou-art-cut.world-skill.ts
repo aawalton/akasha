@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const thouArtCut = {
   id: "01a0657d-0314-777f-a9eb-2d467b6a2b65",

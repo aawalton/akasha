@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const thickGlassAlchemy = {
   id: "01a0657d-0313-737f-9328-cab4ccbc6709",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const thumbclawMinorNourishment = {
   id: "01a0657d-0315-7d16-b4e5-0a677a250565",

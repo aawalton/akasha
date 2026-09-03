@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const travellerSGiftFromHome = {
   id: "01a0657d-0316-744b-a3a3-f5fb3b50cd00",

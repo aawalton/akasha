@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const thickScales = {
   id: "01a0657d-0313-7fde-921a-92c8f5410bf5",

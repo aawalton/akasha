@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const takeCover = {
   id: "01a0657d-0307-70a1-8901-333c32a6b1b3",

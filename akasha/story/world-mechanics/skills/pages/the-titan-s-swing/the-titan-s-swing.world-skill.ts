@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const theTitanSSwing = {
   id: "01a0657d-0312-7607-a012-8fe19e360dcc",

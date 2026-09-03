@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const temporaryArmoryEveryWeaponIEverHeld = {
   id: "01a0657d-0311-7131-996a-1aab5420b5e6",

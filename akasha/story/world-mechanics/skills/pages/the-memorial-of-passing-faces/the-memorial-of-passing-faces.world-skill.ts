@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const theMemorialOfPassingFaces = {
   id: "01a0657d-0312-78f7-9c1d-97ce376c369f",

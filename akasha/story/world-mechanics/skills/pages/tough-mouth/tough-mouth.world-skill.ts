@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const toughMouth = {
   id: "01a0657d-0316-738a-8df8-9e6e57906b8a",

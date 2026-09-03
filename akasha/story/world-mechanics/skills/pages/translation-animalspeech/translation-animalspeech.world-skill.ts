@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const translationAnimalspeech = {
   id: "01a0657d-0316-70fc-af20-1907ec8480d2",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const theEmperorSVoiceTongueOfTheNaturalWorld = {
   id: "01a0657d-0311-7b2b-954b-b991764880fc",

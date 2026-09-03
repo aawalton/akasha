@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const transmutationFavoriteBeverage = {
   id: "01a0657d-0316-7870-b889-d929ef1c5d89",

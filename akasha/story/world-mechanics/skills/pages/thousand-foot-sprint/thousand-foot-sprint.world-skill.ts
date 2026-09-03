@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const thousandFootSprint = {
   id: "01a0657d-0315-7f52-865f-2f97328d7521",

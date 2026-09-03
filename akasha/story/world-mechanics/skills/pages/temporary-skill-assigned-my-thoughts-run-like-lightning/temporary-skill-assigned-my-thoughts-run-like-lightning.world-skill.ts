@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const temporarySkillAssignedMyThoughtsRunLikeLightning = {
   id: "01a0657d-0311-7ecc-96d6-7b2932098f89",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const threefoldShot = {
   id: "01a0657d-0315-7176-8a2f-d8eea7697558",

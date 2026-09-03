@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const swiftReinforcementsThunderstrikeDivision = {
   id: "01a0657d-0306-7cda-afbd-a51c6ba67d19",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const swiftErrand = {
   id: "01a0657d-0303-704d-8890-048867cd1d17",
