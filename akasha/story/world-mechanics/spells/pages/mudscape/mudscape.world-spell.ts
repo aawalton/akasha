@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const mudscape = {
   id: "01a06572-95d9-7d64-885d-0214e61e2c22",

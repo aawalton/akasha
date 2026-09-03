@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const luckyGlimmer = {
   id: "01a06572-95d0-7763-8006-abf1d2c6f0d6",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massQuickening = {
   id: "01a06572-95d2-798f-a87f-c7c2d88d1ff1",

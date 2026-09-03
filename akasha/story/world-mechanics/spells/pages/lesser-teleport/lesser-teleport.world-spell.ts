@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lesserTeleport = {
   id: "01a06572-95cd-7e97-92bf-3f0b3736c7c3",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const mistsOfMadness = {
   id: "01a06572-95d9-7650-9543-52b989b34560",

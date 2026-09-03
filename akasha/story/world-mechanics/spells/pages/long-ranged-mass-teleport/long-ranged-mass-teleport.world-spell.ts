@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const longRangedMassTeleport = {
   id: "01a06572-95d0-7408-a460-58da4e1c814f",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lawOfTheLucifenPunishArrows = {
   id: "01a06572-95cc-7b0d-b32a-d23c073dc6a7",

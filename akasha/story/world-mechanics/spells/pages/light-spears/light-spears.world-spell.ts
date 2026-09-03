@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lightSpears = {
   id: "01a06572-95ce-7a85-9778-bcd1b7cc55e2",

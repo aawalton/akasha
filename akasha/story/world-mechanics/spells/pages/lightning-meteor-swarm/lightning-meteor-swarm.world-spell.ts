@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lightningMeteorSwarm = {
   id: "01a06572-95d0-701f-8c70-b79742f50e06",

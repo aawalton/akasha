@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const manaDisruption = {
   id: "01a06572-95d1-7e11-b02c-c9d5154c4275",

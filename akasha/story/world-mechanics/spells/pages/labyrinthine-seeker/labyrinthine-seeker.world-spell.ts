@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const labyrinthineSeeker = {
   id: "01a06572-95cc-7372-848f-0d9356298440",

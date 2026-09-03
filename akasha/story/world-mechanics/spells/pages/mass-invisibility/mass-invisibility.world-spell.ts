@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massInvisibility = {
   id: "01a06572-95d2-7103-a831-72539c3f5ff4",

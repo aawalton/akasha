@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const magicalFieldTheSomberWorldOfBlue = {
   id: "01a06572-95d1-72d0-a272-e41202429bfe",

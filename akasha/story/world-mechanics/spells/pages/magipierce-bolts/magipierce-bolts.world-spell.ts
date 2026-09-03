@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const magipierceBolts = {
   id: "01a06572-95d1-7bf3-bd1e-744f8e0f51d4",

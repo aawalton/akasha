@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const infernoRay = {
   id: "01a06572-95cb-7c05-a842-622ae90ec707",

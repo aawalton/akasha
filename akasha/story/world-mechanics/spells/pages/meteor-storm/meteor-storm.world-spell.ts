@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const meteorStorm = {
   id: "01a06572-95d8-769c-a7b3-2ea271f1c300",

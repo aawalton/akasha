@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const longRangeFireballs = {
   id: "01a06572-95d0-762c-b250-0d2198684dff",

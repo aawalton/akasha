@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const implosionWell = {
   id: "01a06572-95cb-7055-94af-c46d93390d1b",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massCorpseDetonation = {
   id: "01a06572-95d1-75ec-a0dd-154d55bcbd60",

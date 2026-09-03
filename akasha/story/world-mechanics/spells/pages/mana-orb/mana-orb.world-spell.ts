@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const manaOrb = {
   id: "01a06572-95d1-712f-bfdd-a58f648b5a72",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const illusoryMists = {
   id: "01a06572-95cb-7e27-a422-48bb3ad29fa9",

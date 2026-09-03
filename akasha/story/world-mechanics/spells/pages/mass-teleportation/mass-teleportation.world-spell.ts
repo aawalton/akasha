@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massTeleportation = {
   id: "01a06572-95d2-7c31-92ac-2f29447678a9",

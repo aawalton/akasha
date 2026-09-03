@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const manaBullet = {
   id: "01a06572-95d1-78ac-b0a8-d802747bc05b",

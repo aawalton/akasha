@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lesserDragonbreath = {
   id: "01a06572-95cc-7683-abd7-5eb9a9a74a7a",

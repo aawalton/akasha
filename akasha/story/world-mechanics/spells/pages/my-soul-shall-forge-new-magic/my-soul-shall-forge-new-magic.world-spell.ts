@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const mySoulShallForgeNewMagic = {
   id: "01a06572-95d9-747b-b057-a20bbcefc40b",

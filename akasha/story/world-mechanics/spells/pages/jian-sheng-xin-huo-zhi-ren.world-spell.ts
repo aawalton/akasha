@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.ts"
+import type { WorldSpell } from "../world-spell.page-type.ts"
 
 export const jianShengXinHuoZhiRen = {
   id: "01a06572-95cc-75c2-b3b2-3839d1c79c1f",

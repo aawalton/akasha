@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const messaging = {
   id: "01a06572-95d8-7f58-ad75-41cf8c714975",

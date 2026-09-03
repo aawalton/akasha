@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massHaste = {
   id: "01a06572-95d1-71dc-a561-9e9475038d06",

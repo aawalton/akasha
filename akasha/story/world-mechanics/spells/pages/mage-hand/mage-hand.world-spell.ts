@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const mageHand = {
   id: "01a06572-95d0-79e3-9001-b921a8c57306",

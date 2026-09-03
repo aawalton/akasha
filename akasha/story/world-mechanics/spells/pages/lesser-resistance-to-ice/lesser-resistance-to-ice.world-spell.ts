@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lesserResistanceToIce = {
   id: "01a06572-95cd-7343-ba2c-652f4f73eaee",

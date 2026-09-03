@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const invisibleArrow = {
   id: "01a06572-95cc-73b5-a1a1-5f154d02b9cf",

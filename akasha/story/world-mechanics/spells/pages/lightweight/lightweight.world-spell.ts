@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lightweight = {
   id: "01a06572-95d0-7d66-9a7f-55a88a711321",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lightningResistance = {
   id: "01a06572-95d0-74a7-ace7-287c8a01fce9",

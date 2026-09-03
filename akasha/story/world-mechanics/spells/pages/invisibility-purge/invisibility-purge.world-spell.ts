@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const invisibilityPurge = {
   id: "01a06572-95cb-759c-86ad-20acde1d3db4",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const metamagicSpellManipulation = {
   id: "01a06572-95d8-71b3-ae30-cdf0f162c4a5",

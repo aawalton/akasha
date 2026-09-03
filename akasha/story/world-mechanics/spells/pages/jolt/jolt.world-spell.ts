@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const jolt = {
   id: "01a06572-95cc-75a0-93b9-d2e9fd29bd51",

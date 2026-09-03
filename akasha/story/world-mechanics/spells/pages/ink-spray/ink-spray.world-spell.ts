@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const inkSpray = {
   id: "01a06572-95cb-79bc-a0c6-b877d3a77e99",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lightformArmaments = {
   id: "01a06572-95cf-7ec6-8157-30f71971872a",

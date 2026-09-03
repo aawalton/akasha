@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const magicTripwire = {
   id: "01a06572-95d1-7f0a-b623-8d2f23d5cbec",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lightfoldArmor = {
   id: "01a06572-95cf-741e-b784-0ad2492a45aa",

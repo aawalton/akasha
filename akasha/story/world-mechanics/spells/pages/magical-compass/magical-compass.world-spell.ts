@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const magicalCompass = {
   id: "01a06572-95d1-78ac-874d-d23b33fccb95",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massLevitation = {
   id: "01a06572-95d2-7013-a596-27a28a5ce626",

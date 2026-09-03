@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const imperialSoulCage = {
   id: "01a06572-95cb-7ee8-89f6-44c41c8b7842",

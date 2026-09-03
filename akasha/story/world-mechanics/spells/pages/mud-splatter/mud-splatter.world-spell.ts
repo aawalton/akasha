@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const mudSplatter = {
   id: "01a06572-95d9-7950-874b-0decc99f89c4",

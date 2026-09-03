@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massAnimateInvisibleGhouls = {
   id: "01a06572-95d1-735c-a08b-c54496e891b8",

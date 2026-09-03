@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const magmaShower = {
   id: "01a06572-95d1-71b7-964c-caf36877fba8",

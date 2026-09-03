@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const magnifySpell = {
   id: "01a06572-95d1-72fd-ba43-1c8b67aed894",

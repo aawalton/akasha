@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lanceOfFire = {
   id: "01a06572-95cc-77f1-8ccc-135adeb15b76",

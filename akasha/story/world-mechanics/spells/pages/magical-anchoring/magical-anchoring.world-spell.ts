@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const magicalAnchoring = {
   id: "01a06572-95d1-7464-b57a-afa824d83ed0",

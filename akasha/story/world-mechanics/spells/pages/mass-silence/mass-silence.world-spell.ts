@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massSilence = {
   id: "01a06572-95d2-7918-9f39-e9859e86f4c4",

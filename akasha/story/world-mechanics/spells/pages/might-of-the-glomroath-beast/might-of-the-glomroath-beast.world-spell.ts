@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const mightOfTheGlomroathBeast = {
   id: "01a06572-95d9-7c22-9c6e-1257cd81aff7",

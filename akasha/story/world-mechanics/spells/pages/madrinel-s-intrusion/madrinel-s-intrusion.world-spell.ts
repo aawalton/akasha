@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const madrinelSIntrusion = {
   id: "01a06572-95d0-737f-a57e-0b4bd309cee8",

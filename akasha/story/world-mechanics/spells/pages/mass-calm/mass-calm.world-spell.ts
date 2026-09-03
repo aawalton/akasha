@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massCalm = {
   id: "01a06572-95d1-75bc-a1c5-d95e3c703e36",

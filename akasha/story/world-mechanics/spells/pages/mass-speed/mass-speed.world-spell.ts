@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massSpeed = {
   id: "01a06572-95d2-781d-b780-a3654c3abb00",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massPreservation = {
   id: "01a06572-95d2-79f3-ab3f-45ac874be360",

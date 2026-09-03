@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const muffle = {
   id: "01a06572-95d9-74c0-bc98-ba2d3f895dd6",

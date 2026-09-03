@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lightSconce = {
   id: "01a06572-95ce-731f-8cb9-a0b7851cb1a4",

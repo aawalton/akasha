@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const javelinOfTheFrostGiant = {
   id: "01a06572-95cc-783a-81dd-ad716b49bbee",

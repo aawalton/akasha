@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lightArrowCascade = {
   id: "01a06572-95cd-7819-9640-4be80577c076",

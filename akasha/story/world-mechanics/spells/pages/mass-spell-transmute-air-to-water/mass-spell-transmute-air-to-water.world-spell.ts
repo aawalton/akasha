@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const massSpellTransmuteAirToWater = {
   id: "01a06572-95d2-75b6-9967-16997cfd67c9",

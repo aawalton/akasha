@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lesserParalysisRay = {
   id: "01a06572-95cd-799c-8024-9820460ce8a9",

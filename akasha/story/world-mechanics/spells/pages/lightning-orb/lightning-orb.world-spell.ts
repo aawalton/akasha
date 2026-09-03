@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const lightningOrb = {
   id: "01a06572-95d0-7192-8b59-2003f0597172",

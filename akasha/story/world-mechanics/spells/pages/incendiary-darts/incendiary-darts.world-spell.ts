@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const incendiaryDarts = {
   id: "01a06572-95cb-72f2-ac23-21f4fba94b9f",

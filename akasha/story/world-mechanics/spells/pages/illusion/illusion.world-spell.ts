@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const illusion = {
   id: "01a06572-95cb-7052-b551-f797fc5f0445",

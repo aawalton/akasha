@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const landbridge = {
   id: "01a06572-95cc-76a4-915c-6e5b252bbc95",
