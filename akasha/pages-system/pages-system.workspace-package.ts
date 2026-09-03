@@ -48,6 +48,7 @@ export const pagesSystem = {
     "module/change",
     "module/checkout-roots",
     "module/code-root",
+    "module/page-answer-sweeping",
     "module/repo-path",
     "module/shadow",
   ],
