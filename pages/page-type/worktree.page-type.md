@@ -10,7 +10,7 @@ plural-slug: worktrees
 domain-parent-slug: domain/change-harness
 required-reading-slugs:
   - domain/worktree
-next-seq: 19491
+next-seq: 19492
 mortal: true
 ---
 
