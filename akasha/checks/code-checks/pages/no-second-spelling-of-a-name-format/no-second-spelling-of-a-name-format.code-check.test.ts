@@ -3,6 +3,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import {
+  carrying,
   claiming,
   declaring,
   filing,
@@ -88,6 +89,7 @@ function rooted(): string {
   const root = scratch.rootFor("akasha-second-spelling-")
   for (const [at, one] of KINDS.entries()) {
     filing(root, "page-type", one, `${ID}${at}`)
+    carrying(root, one, ["code"])
   }
   declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
   declaring(root, "slug", { pageTypeSlug: "text-property", unique: "within-page-type" })

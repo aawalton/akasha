@@ -4,6 +4,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import {
+  carrying,
   claiming,
   declaring,
   filing,
@@ -153,6 +154,7 @@ function rooted(): string {
   const root = scratch.rootFor("akasha-two-files-")
   for (const one of KINDS) {
     filing(root, "page-type", one, `${ID}${one.length}`)
+    carrying(root, one, ["code"])
   }
   declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
   declaring(root, "slug", { pageTypeSlug: "text-property", unique: "within-page-type" })

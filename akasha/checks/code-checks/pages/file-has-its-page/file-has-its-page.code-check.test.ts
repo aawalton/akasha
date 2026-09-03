@@ -4,6 +4,7 @@ import { noPathsFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import {
+  carrying,
   claiming,
   declaring,
   filing,
@@ -24,6 +25,7 @@ function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
   noPathsFiled(root)
   for (const one of KINDS) {
     filing(root, "page-type", one, `${ID.slice(0, -1)}${one.length}`)
+    carrying(root, one, fileProperties)
   }
   declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
   for (const one of fileProperties)

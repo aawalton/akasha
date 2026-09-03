@@ -106,6 +106,27 @@ export function filing(root: string, kind: string, slug: string, id: string): un
   listedFiled(root, kind, slug, [{ path: pathFor(kind, slug), id }])
 }
 
+export function carrying(
+  root: string,
+  slug: string,
+  declares: readonly string[],
+  above: string | null = null
+): undefined {
+  const path = pathFor(PAGE_TYPE, slug)
+  valueAlsoFiled(root, PAGE_TYPE, [
+    {
+      path,
+      value: {
+        id: `id-${slug}`,
+        pageTypeSlug: PAGE_TYPE,
+        slug,
+        extendsSlug: above === null ? null : `${PAGE_TYPE}/${above}`,
+        properties: declares.map((one) => ({ pagePropertySlug: one })),
+      },
+    },
+  ])
+}
+
 export function claiming(root: string, path: string, page: string, id: string): undefined {
   pathFiled(root, path, [{ path: page, id }])
 }
