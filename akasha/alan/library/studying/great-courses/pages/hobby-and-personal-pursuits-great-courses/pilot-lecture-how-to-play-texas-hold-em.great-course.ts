@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const pilotLectureHowToPlayTexasHoldEm = {
-  id: "2935943c-c9ec-59fa-a2c2-4152b5cb92ab",
+  id: "01a06578-671a-7000-9204-0f8bb5cb92ab",
   pageTypeSlug: "great-course",
   slug: "pilot-lecture-how-to-play-texas-hold-em",
   title: "Pilot Lecture: How to Play Texas Hold’em",

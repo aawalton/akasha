@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const greatAmericanMusicBroadwayMusicals = {
-  id: "47d1cf70-c939-510d-a899-58e8b7028abf",
+  id: "01a06578-671b-7002-8e90-6d3ab7028abf",
   pageTypeSlug: "great-course",
   slug: "great-american-music-broadway-musicals",
   title: "Great American Music: Broadway Musicals",

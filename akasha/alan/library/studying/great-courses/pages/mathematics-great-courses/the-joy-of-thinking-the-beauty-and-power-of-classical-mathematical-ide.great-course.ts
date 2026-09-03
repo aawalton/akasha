@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const theJoyOfThinkingTheBeautyAndPowerOfClassicalMathematicalIde = {
-  id: "d5c61888-8908-529b-9986-788f13f6e900",
+  id: "01a06578-671c-7000-88e7-b65e13f6e900",
   pageTypeSlug: "great-course",
   slug: "the-joy-of-thinking-the-beauty-and-power-of-classical-mathematical-ide",
   title: "The Joy of Thinking: The Beauty and Power of Classical Mathematical Ideas",

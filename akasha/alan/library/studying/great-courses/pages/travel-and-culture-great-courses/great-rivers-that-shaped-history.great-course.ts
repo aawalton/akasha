@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const greatRiversThatShapedHistory = {
-  id: "e157bf92-d26e-55a8-85e5-d454cd522904",
+  id: "01a06578-671b-7001-a73a-6297cd522904",
   pageTypeSlug: "great-course",
   slug: "great-rivers-that-shaped-history",
   title: "Great Rivers That Shaped History",

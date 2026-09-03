@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const theInklingsCSLewisJRRTolkienAndTheirCircle = {
-  id: "9d7edc0e-521c-500b-b527-20d01c03265d",
+  id: "01a06578-671b-7000-8012-dbae1c03265d",
   pageTypeSlug: "great-course",
   slug: "the-inklings-c-s-lewis-j-r-r-tolkien-and-their-circle",
   title: "The Inklings: C. S. Lewis, J. R. R. Tolkien, and Their Circle",

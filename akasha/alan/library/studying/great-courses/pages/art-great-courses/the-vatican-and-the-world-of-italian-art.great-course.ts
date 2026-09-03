@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const theVaticanAndTheWorldOfItalianArt = {
-  id: "fc7fc590-1721-53a4-bc6f-1163895c1746",
+  id: "01a06578-6719-7008-8a32-cba3895c1746",
   pageTypeSlug: "great-course",
   slug: "the-vatican-and-the-world-of-italian-art",
   title: "The Vatican and the World of Italian Art",

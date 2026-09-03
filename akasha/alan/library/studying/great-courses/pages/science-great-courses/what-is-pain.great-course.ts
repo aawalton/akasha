@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const whatIsPain = {
-  id: "d26a177f-1b29-5497-a2cb-7919f84b704a",
+  id: "01a06578-6719-7007-82ce-f4fef84b704a",
   pageTypeSlug: "great-course",
   slug: "what-is-pain",
   title: "What Is Pain?",

@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const booksThatMatterTheArtOfWar = {
-  id: "994555e5-39b2-50f8-9453-fc652e89a9ab",
+  id: "01a06578-671c-7001-8a6b-0a532e89a9ab",
   pageTypeSlug: "great-course",
   slug: "books-that-matter-the-art-of-war",
   title: "Books That Matter: The Art of War",

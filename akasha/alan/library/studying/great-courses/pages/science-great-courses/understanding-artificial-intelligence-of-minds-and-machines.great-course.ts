@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const understandingArtificialIntelligenceOfMindsAndMachines = {
-  id: "f0a40bdf-ab18-5dd4-a298-fb8cde2123bb",
+  id: "01a06578-6719-7006-a1d2-9223de2123bb",
   pageTypeSlug: "great-course",
   slug: "understanding-artificial-intelligence-of-minds-and-machines",
   title: "Understanding Artificial Intelligence: Of Minds and Machines",
