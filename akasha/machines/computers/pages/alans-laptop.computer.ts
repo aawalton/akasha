@@ -1,0 +1,26 @@
+import type { Computer } from "../computer.page-type.ts"
+
+export const alansLaptop = {
+  id: "019e8b92-3b02-7f7c-8e7a-fcc28ccc57d8",
+  pageTypeSlug: "computer",
+  slug: "alans-laptop",
+  title: "Alan’s Laptop",
+  brand: "apple",
+  cost: 5000,
+  cpuScore: 22149,
+  cpu: "apple-m1-max",
+  displayRefreshRate: "120-hz",
+  displayResolution: "3456x2234",
+  display: "built-in-liquid-retina-xdr-display",
+  formFactor: "laptop",
+  gpuScore: 19985,
+  gpuSize: "64gb",
+  gpu: "apple-m1-max",
+  link: "https://support.apple.com/en-us/111901",
+  computerModel: "MacBook Pro 16-inch 2021",
+  operatingSystem: "macos-sequoia",
+  purchaseDate: "2022-05-25",
+  ram: "64gb",
+  ssd: 8000,
+  computerStatus: "active",
+} as const satisfies Computer

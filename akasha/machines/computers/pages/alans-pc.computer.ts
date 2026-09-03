@@ -1,0 +1,26 @@
+import type { Computer } from "../computer.page-type.ts"
+
+export const alansPc = {
+  id: "019e8b92-3922-7a6e-a1e8-c74c13988304",
+  pageTypeSlug: "computer",
+  slug: "alans-pc",
+  title: "Alan’s PC",
+  brand: "msi",
+  cost: 2949.99,
+  cpuScore: 57788,
+  cpu: "intel-core-ultra-9-285",
+  displayRefreshRate: "50-hz",
+  displayResolution: "3440x1440",
+  display: "omen-by-hp-35",
+  formFactor: "desktop",
+  gpuScore: 36084,
+  gpuSize: "16gb",
+  gpu: "nvidia-geforce-rtx-5080",
+  link: "https://www.costco.com/p/-/msi-aegis-r2-ai-gaming-desktop-intel-core-ultra-9-285-geforce-rtx-5080-2tb-ssd-windows-11/4000362215",
+  computerModel: "R2 AI B2NVV9-1411US",
+  operatingSystem: "windows-11-home",
+  purchaseDate: "2025-05-13",
+  ram: "64gb",
+  ssd: 2000,
+  computerStatus: "active",
+} as const satisfies Computer

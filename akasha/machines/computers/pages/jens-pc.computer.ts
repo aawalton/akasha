@@ -1,0 +1,26 @@
+import type { Computer } from "../computer.page-type.ts"
+
+export const jensPc = {
+  id: "019e8b92-3ac9-7d38-9957-fe81dda8abbb",
+  pageTypeSlug: "computer",
+  slug: "jens-pc",
+  title: "Jen’s PC",
+  brand: "dell",
+  cost: 1070,
+  cpuScore: 41541,
+  cpu: "intel-core-i7-14700f",
+  displayRefreshRate: "60-hz",
+  displayResolution: "2560x1440",
+  display: "dell-s3222dgm",
+  formFactor: "desktop",
+  gpuScore: 19550,
+  gpuSize: "8gb",
+  gpu: "nvidia-geforce-rtx-4060",
+  link: "https://www.amazon.com/Dell-Inspiron-3030-Desktop-Processor/dp/B0CYMTDD9H",
+  computerModel: "i3030-7738BLU-PUS",
+  operatingSystem: "windows-11-home",
+  purchaseDate: "2024-09-25",
+  ram: "32gb",
+  ssd: 2000,
+  computerStatus: "active",
+} as const satisfies Computer
