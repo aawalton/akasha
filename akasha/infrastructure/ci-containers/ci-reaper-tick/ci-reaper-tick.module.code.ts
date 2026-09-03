@@ -8,12 +8,10 @@ import {
 } from "../ci-reap-decision/ci-reap-decision.module.code.ts"
 import { describeErr, withCeiling } from "../ci-reaper-ceiling/ci-reaper-ceiling.module.code.ts"
 import {
-  type CiContainer,
   deleteCiContainer,
   listCiContainers,
 } from "../ci-reaper-cluster/ci-reaper-cluster.module.code.ts"
 import {
-  type MatchedStep,
   pipelineStatusBySeq,
   stepsByContainerName,
 } from "../ci-reaper-step-pages/ci-reaper-step-pages.module.code.ts"
