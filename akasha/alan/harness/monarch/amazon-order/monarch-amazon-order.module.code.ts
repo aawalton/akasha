@@ -1,4 +1,3 @@
-
 import type { EmailMessage } from "../gmail-cache/monarch-gmail-cache.module.code.ts"
 
 const MONEY = /([\d,]+(?:\.\d+)?)\s*USD/

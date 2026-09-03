@@ -169,7 +169,7 @@ export type BinaryOperator =
 
 export type Operator = UnaryOperator | BinaryOperator
 
-export type SymbolId = number & { _symbolIdBrand: any }
+export type SymbolId = number & { _symbolIdBrand: unknown }
 
 export function SymbolId(id: number): SymbolId {
   return id as SymbolId
