@@ -15,6 +15,7 @@ export const readoutGroup = {
   definition: "the readings drawn together",
   pluralSlug: "readout-groups",
   partSlugs: [
+    "readout-group/attributes",
     "readout-group/categorization",
     "readout-group/claude-usage",
     "readout-group/inboxes",

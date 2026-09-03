@@ -5,11 +5,16 @@ export const alanHarnessStoplights = {
   pageTypeSlug: "domain",
   slug: "alan-harness-stoplights",
   definition: "how Alan knows what to do next",
-  partSlugs: ["readout-group/upkeep", "readout-group/inboxes", "readout-group/values"],
+  partSlugs: [
+    "readout-group/upkeep",
+    "readout-group/attributes",
+    "readout-group/inboxes",
+    "readout-group/values",
+  ],
   invariants: [
     {
       invariantKind: "gap",
-      statement: "Every difference between two readouts is written on them.",
+      statement: "Every difference between two readouts is written on those readouts.",
     },
     {
       invariantKind: "gap",
