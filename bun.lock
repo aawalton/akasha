@@ -518,6 +518,7 @@
       "name": "@akasha/test-fanout",
       "dependencies": {
         "@akasha/checks": "workspace:*",
+        "@akasha/old-graph": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/verdict": "workspace:*",
         "@tools/lib": "workspace:*",

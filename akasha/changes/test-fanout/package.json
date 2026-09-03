@@ -17,6 +17,7 @@
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/verdict": "workspace:*",
     "@akasha/checks": "workspace:*",
+    "@akasha/old-graph": "workspace:*",
     "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
   }

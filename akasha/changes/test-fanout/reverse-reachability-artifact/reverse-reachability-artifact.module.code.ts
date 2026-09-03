@@ -4,7 +4,9 @@ import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:f
 import { dirname, resolve } from "node:path"
 import { CODE_REPO } from "@akasha/checks/repo-scope"
 import { TEST_TYPES } from "@akasha/checks/test-step-paths"
-import { buildFrom, readAt } from "@tools/lib/graph/held-snapshot"
+import { curatedWorkspaces, repoTree, workspaceDirsAt } from "@akasha/old-graph/old-graph-producers"
+import { transitiveClosure } from "@akasha/old-graph/old-graph-queries"
+import { buildFrom, readAt } from "@akasha/old-graph/old-graph-snapshots"
 import {
   IMPORT_DYNAMIC_EDGE_TYPE,
   IMPORT_STATIC_EDGE_TYPE,
@@ -12,12 +14,8 @@ import {
   TS_FILE_NODE_TYPES,
   tsFileNodeId,
   tsFileNodeIdToCodeRepoRel,
-} from "@tools/lib/graph/producers/file/ts-file/types"
-import { curatedWorkspaces } from "@tools/lib/graph/producers/lib/curation"
-import { repoTree } from "@tools/lib/graph/producers/lib/repo-tree"
-import { workspaceDirsAt } from "@tools/lib/graph/producers/lib/workspace-dirs"
-import { transitiveClosure } from "@tools/lib/graph/queries/transitive"
-import type { BuildContext } from "@tools/lib/graph/types"
+} from "@akasha/old-graph/old-graph-ts-files"
+import type { BuildContext } from "@akasha/old-graph/old-graph-types"
 import {
   computeTestReachability,
   type ReachabilityHelpers,
