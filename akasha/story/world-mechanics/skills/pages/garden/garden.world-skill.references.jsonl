@@ -10,7 +10,7 @@
 {"id":"01a06575-9814-7537-8259-0b250577efbc","chapterSlug":"rw7-52","paragraph":56,"wording":"[Garden]","event":"named","holderSlug":"erin-solstice","holderQuote":"For instance, the Painted Antinium were here in force. Erin had two squads in the [Garden], and she knew that forty were in the inn, hiding in the basement, resting, patrolling—each one a Painted Soldier or Worker-Archers and thus superior to even normal Antinium."}
 {"id":"01a06575-9814-7ba5-a0e5-8e4563b55b49","chapterSlug":"rw7-50","paragraph":1310,"wording":"[Garden]","event":"named"}
 {"id":"01a06575-9814-76e6-b1c4-5f74b7ce2f10","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":451,"wording":"[Garden]","event":"named"}
-{"id":"01a06575-9814-746b-ba72-25b1d57e47f3","chapterSlug":"rw7-60","paragraph":1007,"wording":"[Garden]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"Octavia","holderQuote":"“Erin! Don’t do that!”"}
+{"id":"01a06575-9814-746b-ba72-25b1d57e47f3","chapterSlug":"rw7-60","paragraph":1007,"wording":"[Garden]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"octavia","holderQuote":"“Erin! Don’t do that!”"}
 {"id":"01a06575-9814-75c7-85d8-2722a14d37ee","chapterSlug":"rw7-60","paragraph":1083,"wording":"[Garden]","event":"named","holderSlug":"erin","holderQuote":"Erin followed the long, sinuous tail and walked apace with Hexel the [Architect] as they left the inn. Instantly—a crowd spotted her."}
 {"id":"01a06575-9814-7047-b8d3-36ab4b5faa22","chapterSlug":"rw7-61","paragraph":990,"wording":"[Garden]","event":"named"}
 {"id":"01a06575-9814-7150-9dfe-15a3f4086147","chapterSlug":"rw7-61","paragraph":996,"wording":"[Garden]","event":"named"}
@@ -26,8 +26,8 @@
 {"id":"01a06575-9814-752e-9a51-a6a18176dee4","chapterSlug":"rwInterlude - Arcsinger's Memories","paragraph":1400,"wording":"[Garden]","event":"named"}
 {"id":"01a06575-9814-79e1-87c9-5347c5dc9b52","chapterSlug":"rwInterlude -- Songs and Wands","paragraph":664,"wording":"[Garden]","event":"named"}
 {"id":"01a06575-9814-7755-a2e5-2270ccc8ab09","chapterSlug":"rw10-29 M","paragraph":166,"wording":"[Garden]","event":"named"}
-{"id":"01a06575-9814-74ee-9868-ae5d196b2af0","chapterSlug":"rw10-30 GGMG","paragraph":182,"wording":"[Garden]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"Student Rags","holderQuote":"Erin’s garden in our world isn’t this bad."}
-{"id":"01a06575-9814-77f2-b364-c407c51a4f2f","chapterSlug":"rw10-27 GMG","paragraph":1285,"wording":"[Garden]","event":"named","claimed":true,"claimedBySlug":"Rags","holderQuote":"she has access to Erin’s [Garden]."}
+{"id":"01a06575-9814-74ee-9868-ae5d196b2af0","chapterSlug":"rw10-30 GGMG","paragraph":182,"wording":"[Garden]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"student-rags","holderQuote":"Erin’s garden in our world isn’t this bad."}
+{"id":"01a06575-9814-77f2-b364-c407c51a4f2f","chapterSlug":"rw10-27 GMG","paragraph":1285,"wording":"[Garden]","event":"named","claimed":true,"claimedBySlug":"rags","holderQuote":"she has access to Erin’s [Garden]."}
 {"id":"01a06575-9814-710e-a049-dc52fa8d93bc","chapterSlug":"rw10-27 GMG","paragraph":1474,"wording":"[Garden]","event":"named"}
 {"id":"01a06575-9814-7724-afee-e1d49d2ac1ba","chapterSlug":"rw10-27 GMG","paragraph":1836,"wording":"[Garden]","event":"named"}
 {"id":"01a06575-9814-77b2-bc11-1f24a54ac0e1","chapterSlug":"rw10-28 N","paragraph":1289,"wording":"[Garden]","event":"named"}

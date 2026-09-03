@@ -94,7 +94,7 @@
 {"id":"01a0657d-0280-729e-acfd-438e4cb291f3","chapterSlug":"rw10-27 GMG","paragraph":1021,"wording":"[Palace of Fates]","event":"named","holderQuote":"She was mastering this [Palace of Fates], just like Mrsha and Rags, only it was too late. Dyeda stood in a corridor"}
 {"id":"01a0657d-0280-768b-80f9-95fca2ec75b5","chapterSlug":"rw10-27 GMG","paragraph":1037,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-72f5-8d11-887f8e99b59e","chapterSlug":"rw10-27 GMG","paragraph":1072,"wording":"[Palace of Fates]","event":"named","holderQuote":"Fightipilota and Rianchi regarded Dyeda, confused, and she realized she was the person with the best understanding"}
-{"id":"01a0657d-0280-74f7-b5e8-daf13fa74a51","chapterSlug":"rw10-27 GMG","paragraph":1073,"wording":"[Palace of Fates]","event":"named","holderSlug":"rags-chieftain","claimed":true,"claimedBySlug":"Dyeda","holderQuote":"Chieftain Rags remembers the [Palace of Fates]. So she gives us hints!"}
+{"id":"01a0657d-0280-74f7-b5e8-daf13fa74a51","chapterSlug":"rw10-27 GMG","paragraph":1073,"wording":"[Palace of Fates]","event":"named","holderSlug":"rags-chieftain","claimed":true,"claimedBySlug":"dyeda","holderQuote":"Chieftain Rags remembers the [Palace of Fates]. So she gives us hints!"}
 {"id":"01a0657d-0280-7409-b05d-46def8aca1d1","chapterSlug":"rw10-27 GMG","paragraph":1100,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-750a-acd8-d0ecdebfa71f","chapterSlug":"rw10-27 GMG","paragraph":1102,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-72c2-8b45-9819319f6470","chapterSlug":"rw10-27 GMG","paragraph":1105,"wording":"[Palace of Fates]","event":"named","holderQuote":"Fighti punched Rianchi in the stomach."}
@@ -103,7 +103,7 @@
 {"id":"01a0657d-0280-719b-94c9-1d619605fbc4","chapterSlug":"rw10-27 GMG","paragraph":1210,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-7965-ab08-4f2ce45fa6ad","chapterSlug":"rw10-27 GMG","paragraph":1213,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-7d54-97b7-607f2df1aabf","chapterSlug":"rw10-27 GMG","paragraph":1217,"wording":"[Palace of Fates]","event":"named"}
-{"id":"01a0657d-0280-7202-9b79-d97234ed7b0b","chapterSlug":"rw10-27 GMG","paragraph":1321,"wording":"[Palace of Fates]","event":"named","claimed":true,"claimedBySlug":"Dyeda","holderQuote":"The—the [Palace of Fates]. I opened a bad-bad door."}
+{"id":"01a0657d-0280-7202-9b79-d97234ed7b0b","chapterSlug":"rw10-27 GMG","paragraph":1321,"wording":"[Palace of Fates]","event":"named","claimed":true,"claimedBySlug":"dyeda","holderQuote":"The—the [Palace of Fates]. I opened a bad-bad door."}
 {"id":"01a0657d-0280-7571-b690-be6406b6d3a9","chapterSlug":"rw10-27 GMG","paragraph":1429,"wording":"[Palace of Fates]","event":"named","holderSlug":"mrsha","holderQuote":"When Mrsha exited her door, she found Dyeda standing in the [Palace of Fates], staring at the door."}
 {"id":"01a0657d-0280-70d2-9c10-b33e7c56803c","chapterSlug":"rw10-27 GMG","paragraph":1481,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-7351-ab6a-0628b9826b3b","chapterSlug":"rw10-27 GMG","paragraph":1483,"wording":"[Palace of Fates]","event":"named"}
@@ -153,7 +153,7 @@
 {"id":"01a0657d-0280-79c7-a7c4-9eaec1deeef8","chapterSlug":"rw10-18 E","paragraph":692,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-7450-9ba5-76073880c763","chapterSlug":"rw10-58 FP","paragraph":24,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-7b87-91e0-5b98eac27f61","chapterSlug":"rw10-58 FP","paragraph":232,"wording":"[Palace of Fates]","event":"named"}
-{"id":"01a0657d-0280-7236-bccf-a9d18fac93e1","chapterSlug":"rw10-58 FP","paragraph":3125,"wording":"[Palace of Fates]","event":"named","claimed":true,"claimedBySlug":"Kevin","holderQuote":"You know the [Palace of Fates] thing?"}
+{"id":"01a0657d-0280-7236-bccf-a9d18fac93e1","chapterSlug":"rw10-58 FP","paragraph":3125,"wording":"[Palace of Fates]","event":"named","claimed":true,"claimedBySlug":"kevin","holderQuote":"You know the [Palace of Fates] thing?"}
 {"id":"01a0657d-0280-7e5d-bead-cd8127bd1770","chapterSlug":"rw10-40 T","paragraph":375,"wording":"[Palace of Fates]","event":"named","holderSlug":"onieva","holderQuote":"Ishkr almost teleported away—until he realized it was Onieva"}
 {"id":"01a0657d-0280-72eb-aa12-8edbd7d4af0d","chapterSlug":"rw10-32 (Pt. 1)","paragraph":23,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-7eb0-a9a8-ebb7ffb34ae0","chapterSlug":"rw10-32 (Pt. 1)","paragraph":25,"wording":"[Palace of Fates]","event":"named"}
@@ -174,9 +174,9 @@
 {"id":"01a0657d-0280-7298-9624-d6bf57db5797","chapterSlug":"rw10-32 (Pt. 1)","paragraph":102,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-721f-956a-e1f853d0d5d5","chapterSlug":"rw10-32 (Pt. 1)","paragraph":109,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-79de-8a62-c2ba9919557b","chapterSlug":"rw10-32 (Pt. 1)","paragraph":133,"wording":"[Palace of Fates]","event":"named","holderSlug":"mrsha","holderQuote":"Go to the [Palace of Fates] and talk to Roots Mrsha and Rags, wherever Rags was right now?"}
-{"id":"01a0657d-0280-7ada-b1da-aed9b360d9bb","chapterSlug":"rw10-32 (Pt. 1)","paragraph":155,"wording":"[Palace of Fates]","event":"named","holderSlug":"mrsha","claimed":true,"claimedBySlug":"Mrsha","holderQuote":"and then I nearly died in the [Palace of Fates]!"}
-{"id":"01a0657d-0280-7e7a-9666-1a6e5a1213b5","chapterSlug":"rw10-32 (Pt. 1)","paragraph":157,"wording":"[Palace of Fates]","event":"named","holderSlug":"mrsha","claimed":true,"claimedBySlug":"Grand Design","holderQuote":"You have used one fraction of it, the Hallways of Destiny, and cheated your way to this meddling."}
-{"id":"01a0657d-0280-7c83-b98b-f66ab72ec21f","chapterSlug":"rw10-32 (Pt. 1)","paragraph":157,"wording":"[Palace of Fates]","event":"named","holderSlug":"mrsha","claimed":true,"claimedBySlug":"Grand Design","holderQuote":"You have used one fraction of it, the Hallways of Destiny, and cheated your way to this meddling."}
+{"id":"01a0657d-0280-7ada-b1da-aed9b360d9bb","chapterSlug":"rw10-32 (Pt. 1)","paragraph":155,"wording":"[Palace of Fates]","event":"named","holderSlug":"mrsha","claimed":true,"claimedBySlug":"mrsha","holderQuote":"and then I nearly died in the [Palace of Fates]!"}
+{"id":"01a0657d-0280-7e7a-9666-1a6e5a1213b5","chapterSlug":"rw10-32 (Pt. 1)","paragraph":157,"wording":"[Palace of Fates]","event":"named","holderSlug":"mrsha","claimed":true,"claimedBySlug":"grand-design","holderQuote":"You have used one fraction of it, the Hallways of Destiny, and cheated your way to this meddling."}
+{"id":"01a0657d-0280-7c83-b98b-f66ab72ec21f","chapterSlug":"rw10-32 (Pt. 1)","paragraph":157,"wording":"[Palace of Fates]","event":"named","holderSlug":"mrsha","claimed":true,"claimedBySlug":"grand-design","holderQuote":"You have used one fraction of it, the Hallways of Destiny, and cheated your way to this meddling."}
 {"id":"01a0657d-0280-7e04-a706-5d3a37e892ac","chapterSlug":"rw10-32 (Pt. 1)","paragraph":183,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-7447-8f82-a28111eaea71","chapterSlug":"rw10-32 (Pt. 1)","paragraph":257,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-787c-9b08-13d189bdfacc","chapterSlug":"rw10-32 (Pt. 1)","paragraph":419,"wording":"[Palace of Fates]","event":"named","holderSlug":"mrsha","holderQuote":"It noted how Mrsha used the roots to accidentally breach into the [Palace of Fates] and doors"}
@@ -232,7 +232,7 @@
 {"id":"01a0657d-0280-7c04-8392-acad29349178","chapterSlug":"rw10-33 MNK","paragraph":1293,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-7c66-b983-ca048e1da4c0","chapterSlug":"rw10-33 MNK","paragraph":1390,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-7abb-8b33-66b00d23be33","chapterSlug":"rw10-33 MNK","paragraph":1390,"wording":"[Palace of Fates]","event":"named"}
-{"id":"01a0657d-0280-7b30-b4bd-715b9435fdb3","chapterSlug":"rw10-41 T","paragraph":395,"wording":"[Palace of Fates]","event":"named","claimed":true,"claimedBySlug":"Nerrhavia","holderQuote":"Erin’s Skill. The mnemonic is obvious. [Garden of Sanctuary]. [Palace of Fates]"}
+{"id":"01a0657d-0280-7b30-b4bd-715b9435fdb3","chapterSlug":"rw10-41 T","paragraph":395,"wording":"[Palace of Fates]","event":"named","claimed":true,"claimedBySlug":"nerrhavia","holderQuote":"Erin’s Skill. The mnemonic is obvious. [Garden of Sanctuary]. [Palace of Fates]"}
 {"id":"01a0657d-0280-7426-8cdd-9525f5375264","chapterSlug":"rw10-32 (Pt. 2)","paragraph":54,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-7c6f-b430-f6dafb6461e6","chapterSlug":"rw10-32 (Pt. 2)","paragraph":182,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0280-7041-989a-83b0f9308f2b","chapterSlug":"rw10-32 (Pt. 2)","paragraph":184,"wording":"[Palace of Fates]","event":"named"}
@@ -324,11 +324,11 @@
 {"id":"01a0657d-0285-7fb4-85b6-e294cba3fba7","chapterSlug":"rwInterlude - Redscar","paragraph":627,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0285-77a0-89db-9f9296e8950f","chapterSlug":"rwInterlude - Redscar","paragraph":639,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0285-7436-8fec-0c3afaae3630","chapterSlug":"rwInterlude - Redscar","paragraph":666,"wording":"[Palace of Fates]","event":"named"}
-{"id":"01a0657d-0285-766b-8e39-5f79b41e519d","chapterSlug":"rwInterlude - Redscar","paragraph":685,"wording":"[Palace of Fates]","event":"named","holderSlug":"redscar","claimed":true,"claimedBySlug":"Halrac Everam","holderQuote":"you’re telling me that you’re from this [Palace of Fates] thing?"}
+{"id":"01a0657d-0285-766b-8e39-5f79b41e519d","chapterSlug":"rwInterlude - Redscar","paragraph":685,"wording":"[Palace of Fates]","event":"named","holderSlug":"redscar","claimed":true,"claimedBySlug":"halrac-everam","holderQuote":"you’re telling me that you’re from this [Palace of Fates] thing?"}
 {"id":"01a0657d-0285-79ca-84e3-c4121b8a471b","chapterSlug":"rwInterlude - Redscar","paragraph":735,"wording":"[Palace of Fates]","event":"named","holderSlug":"mrsha","holderQuote":"Mrsha saw the [Palace of Fates] and saw what you could do."}
-{"id":"01a0657d-0285-7681-bd50-24f06b1ea1df","chapterSlug":"rwInterlude - Redscar","paragraph":763,"wording":"[Palace of Fates]","event":"named","holderSlug":"redscar","claimed":true,"claimedBySlug":"Halrac Everam","holderQuote":"The ones you used to breach into the [Palace of Fates]?"}
+{"id":"01a0657d-0285-7681-bd50-24f06b1ea1df","chapterSlug":"rwInterlude - Redscar","paragraph":763,"wording":"[Palace of Fates]","event":"named","holderSlug":"redscar","claimed":true,"claimedBySlug":"halrac-everam","holderQuote":"The ones you used to breach into the [Palace of Fates]?"}
 {"id":"01a0657d-0285-7135-85e3-7b6c8aa2b885","chapterSlug":"rwInterlude - Redscar","paragraph":909,"wording":"[Palace of Fates]","event":"named","holderSlug":"redscar","holderQuote":"He thought he was so clever using the [Palace of Fates] just to level."}
-{"id":"01a0657d-0285-7b61-a766-54540350f103","chapterSlug":"rwInterlude - Redscar","paragraph":940,"wording":"[Palace of Fates]","event":"named","holderSlug":"redscar","claimed":true,"claimedBySlug":"Halrac Everam","holderQuote":"That must be your [Palace of Fates]."}
+{"id":"01a0657d-0285-7b61-a766-54540350f103","chapterSlug":"rwInterlude - Redscar","paragraph":940,"wording":"[Palace of Fates]","event":"named","holderSlug":"redscar","claimed":true,"claimedBySlug":"halrac-everam","holderQuote":"That must be your [Palace of Fates]."}
 {"id":"01a0657d-0285-76f0-b046-5d6c2bb4ba7c","chapterSlug":"rwInterlude - Redscar","paragraph":946,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0285-7e41-b1e2-65962b3127b4","chapterSlug":"rwInterlude - Redscar","paragraph":1122,"wording":"[Palace of Fates]","event":"named","holderSlug":"redscar","holderQuote":"He’d told her about the [Palace of Fates] while she let him rest."}
 {"id":"01a0657d-0285-70f4-ac55-880781b40b92","chapterSlug":"rw10-68 S","paragraph":1740,"wording":"[Palace of Fates]","event":"named"}
@@ -644,7 +644,7 @@
 {"id":"01a0657d-0286-7bee-917a-ba62a016bda2","chapterSlug":"rwThe Roots (Pt- 2)","paragraph":187,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0286-76d5-90d6-75b44c97194c","chapterSlug":"rwThe Roots (Pt- 2)","paragraph":208,"wording":"[Palace of Fates]","event":"named"}
 {"id":"01a0657d-0286-71ad-bb7f-d645dff9c61d","chapterSlug":"rw10-46 L","paragraph":75,"wording":"[Palace of Fates]","event":"named","holderSlug":"rhisveri","holderQuote":"He was a lot more coordinated after the [Palace of Fates] thing."}
-{"id":"01a0657d-0286-7f0e-95cf-04622d55605e","chapterSlug":"rw10-46 L","paragraph":195,"wording":"[Palace of Fates]","event":"named","holderSlug":"rhisveri","claimed":true,"claimedBySlug":"Lyonette","holderQuote":"I am only doing this because of your actions in the [Palace of Fates]."}
+{"id":"01a0657d-0286-7f0e-95cf-04622d55605e","chapterSlug":"rw10-46 L","paragraph":195,"wording":"[Palace of Fates]","event":"named","holderSlug":"rhisveri","claimed":true,"claimedBySlug":"lyonette","holderQuote":"I am only doing this because of your actions in the [Palace of Fates]."}
 {"id":"01a0657d-0286-7f4f-98c1-00a26d734de4","chapterSlug":"rw10-46 L","paragraph":244,"wording":"[Palace of Fates]","event":"named","holderSlug":"rhisveri","holderQuote":"her memory of him fighting in the [Palace of Fates] made her relent slightly."}
 {"id":"01a0657d-0286-7de8-a7d7-13bdc4bc2e15","chapterSlug":"rw10-46 L","paragraph":302,"wording":"[Palace of Fates]","event":"named","holderSlug":"rhisveri","holderQuote":"he clearly remembered the [Palace of Fates] and tensed himself."}
 {"id":"01a0657d-0286-705c-ba6f-1a4d9588dc6a","chapterSlug":"rw10-46 L","paragraph":368,"wording":"[Palace of Fates]","event":"named"}
