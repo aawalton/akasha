@@ -3,6 +3,14 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./git-running": "./running/git-running.module.code.ts"
+    "./git-answering": "./git-answering/git-answering.module.code.ts",
+    "./git-running": "./running/git-running.module.code.ts",
+    "./porcelain-status": "./porcelain-status/porcelain-status.module.code.ts",
+    "./porcelain-status-reading": "./porcelain-status-reading/porcelain-status-reading.module.code.ts",
+    "./tree-sha": "./tree-sha/tree-sha.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-run": "workspace:*",
+    "zod": "^4.3.6"
   }
 }

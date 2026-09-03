@@ -6,7 +6,13 @@ export const git = {
   slug: "git",
   definition: "git run in a repository, and what it said",
   manifest: "json",
-  partSlugs: ["module/git-running"],
+  partSlugs: [
+    "module/git-running",
+    "module/git-answering",
+    "module/porcelain-status",
+    "module/porcelain-status-reading",
+    "module/tree-sha",
+  ],
   invariants: [
     {
       invariantKind: "departure",
