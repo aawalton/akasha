@@ -17,7 +17,6 @@ function sameHash(stated: unknown, presented: string): boolean {
 }
 
 export type ValidatedWatcherToken = {
-  userId: string
   accountPageId: string
 }
 
@@ -30,20 +29,14 @@ export async function validateWatcherToken(
   const row = await getPage({
     pageTypeSlug: TEMPER_WATCHER_ENROLMENT_SLUG,
     where: [{ key: "tokenHash", eq: presented }],
-    select: ["id", "tokenHash", "accountUserId", "accountPage"],
+    select: ["id", "tokenHash", "accountPage"],
   })
   if (!row) return null
   if (!sameHash(row.tokenHash, presented)) return null
 
-  const userId = row.accountUserId
   const accountPageId = row.accountPage
   const enrolmentPageId = row.id
-  if (
-    typeof userId !== "string" ||
-    typeof accountPageId !== "string" ||
-    typeof enrolmentPageId !== "string"
-  )
-    return null
+  if (typeof accountPageId !== "string" || typeof enrolmentPageId !== "string") return null
 
   try {
     await patchPageById({
@@ -58,5 +51,5 @@ export async function validateWatcherToken(
     )
   }
 
-  return { userId, accountPageId }
+  return { accountPageId }
 }
