@@ -12,7 +12,6 @@ export const upkeepPlants = {
   place: 4,
   figureFormat: "integer",
   scaleSlug: "plant-grams",
-  groupSlugs: ["upkeep"],
   wireKey: "plants",
   invariants: [
     {

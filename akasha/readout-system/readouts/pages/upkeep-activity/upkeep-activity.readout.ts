@@ -12,7 +12,6 @@ export const upkeepActivity = {
   place: 5,
   figureFormat: "integer",
   scaleSlug: "activity-calories",
-  groupSlugs: ["upkeep"],
   wireKey: "activity",
   invariants: [
     {

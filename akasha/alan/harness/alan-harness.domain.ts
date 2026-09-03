@@ -102,7 +102,7 @@ export const alanHarness = {
     },
     {
       invariantKind: "departure",
-      statement: "Alan's upkeep widget shows all six stoplights.",
+      statement: "Alan's upkeep widget shows all four stoplights.",
     },
     {
       invariantKind: "departure",

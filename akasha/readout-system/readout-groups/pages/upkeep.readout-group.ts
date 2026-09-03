@@ -9,8 +9,6 @@ export const upkeep = {
     "readout/upkeep-safety",
     "readout/upkeep-surplus",
     "readout/upkeep-capacity",
-    "readout/upkeep-plants",
-    "readout/upkeep-activity",
     "readout/upkeep-sleep",
   ],
   sortOrder: "place",
