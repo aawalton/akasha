@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const classicalArchaeologyOfAncientGreeceAndRome = {
-  id: "9c955c9c-4192-5f8e-9b03-39f47c6cd3e0",
+  id: "01a06578-6717-7003-a9a8-b0947c6cd3e0",
   pageTypeSlug: "great-course",
   slug: "classical-archaeology-of-ancient-greece-and-rome",
   title: "Classical Archaeology of Ancient Greece and Rome",

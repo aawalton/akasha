@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const medicineRecreationAndTheLongHistoryOfCannabis = {
-  id: "71353ae0-0906-552d-b64f-ae38bb78fd13",
+  id: "01a06578-6718-7000-b2e1-c24bbb78fd13",
   pageTypeSlug: "great-course",
   slug: "medicine-recreation-and-the-long-history-of-cannabis",
   title: "Medicine, Recreation, and the Long History of Cannabis",

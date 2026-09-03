@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const experiencingJamesWebbTheInvisibleUniverseRevealed = {
-  id: "5af7f2d7-7129-50ad-9bad-308bf510b6c0",
+  id: "01a06578-6719-7001-838b-c818f510b6c0",
   pageTypeSlug: "great-course",
   slug: "experiencing-james-webb-the-invisible-universe-revealed",
   title: "Experiencing James Webb: The Invisible Universe Revealed",

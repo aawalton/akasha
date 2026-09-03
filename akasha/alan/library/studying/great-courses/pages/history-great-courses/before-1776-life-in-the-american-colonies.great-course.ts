@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const before1776LifeInTheAmericanColonies = {
-  id: "0f06b12b-59f2-5f76-9b57-c99b15d6012e",
+  id: "01a06578-6717-7001-9a27-a1b115d6012e",
   pageTypeSlug: "great-course",
   slug: "before-1776-life-in-the-american-colonies",
   title: "Before 1776: Life in the American Colonies",

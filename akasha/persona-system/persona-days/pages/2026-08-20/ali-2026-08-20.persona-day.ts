@@ -1,7 +1,7 @@
 import type { PersonaDay } from "../../persona-day.page-type.ts"
 
 export const ali20260820 = {
-  id: "a388913b-8919-582a-8cc6-13113a2874fe",
+  id: "01a06578-670e-7002-8428-3e6f3a2874fe",
   pageTypeSlug: "persona-day",
   slug: "ali-2026-08-20",
   personaSlug: "ali",

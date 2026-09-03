@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const howChemistrySurroundsYou = {
-  id: "66db716e-9927-5eb4-bcb3-5d63e7881031",
+  id: "01a06578-6719-7002-9d6d-364de7881031",
   pageTypeSlug: "great-course",
   slug: "how-chemistry-surrounds-you",
   title: "How Chemistry Surrounds You",

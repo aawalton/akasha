@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const pilotLectureComoHacemosQueLaIaSeaMasInteligente = {
-  id: "9873da77-8104-5dae-8424-a9ff48cc5227",
+  id: "01a06578-6719-7004-b6f3-d49c48cc5227",
   pageTypeSlug: "great-course",
   slug: "pilot-lecture-como-hacemos-que-la-ia-sea-mas-inteligente",
   title: "Pilot Lecture: ¿Cómo hacemos que la IA sea más inteligente?",

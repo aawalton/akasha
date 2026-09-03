@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const yearsThatChangedHistory1776 = {
-  id: "aa705c21-447b-513c-9a12-a6a68ce89708",
+  id: "01a06578-6719-7000-886c-35c58ce89708",
   pageTypeSlug: "great-course",
   slug: "years-that-changed-history-1776",
   title: "Years That Changed History: 1776",

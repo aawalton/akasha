@@ -1,7 +1,7 @@
 import type { PersonaDay } from "../../persona-day.page-type.ts"
 
 export const shaestrel20260821 = {
-  id: "77bfa2a5-13b9-5efb-aa85-32dbda679a1e",
+  id: "01a06578-6716-700d-aca0-7101da679a1e",
   pageTypeSlug: "persona-day",
   slug: "shaestrel-2026-08-21",
   personaSlug: "shaestrel",

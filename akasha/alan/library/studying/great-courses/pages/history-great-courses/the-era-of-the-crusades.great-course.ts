@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const theEraOfTheCrusades = {
-  id: "4beef9e5-d94e-538c-b48f-33df56882dbd",
+  id: "01a06578-6718-7004-8c0e-9fb556882dbd",
   pageTypeSlug: "great-course",
   slug: "the-era-of-the-crusades",
   title: "The Era of the Crusades",

@@ -1,7 +1,7 @@
 import type { GreatCourse } from "../../great-course.page-type.ts"
 
 export const theArtOfReading = {
-  id: "f2be3b92-ea4f-5c20-9cd6-00eb67d08275",
+  id: "01a06578-6717-7000-bd37-493c67d08275",
   pageTypeSlug: "great-course",
   slug: "the-art-of-reading",
   title: "The Art of Reading",
