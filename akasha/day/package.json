@@ -6,6 +6,7 @@
     "./day-string": "./string/day-string.module.code.ts",
     "./eso-day": "./eso-day/eso-day.module.code.ts",
     "./mountain-day": "./mountain-day/mountain-day.module.code.ts",
+    "./mountain-wall": "./mountain-wall/mountain-wall.module.code.ts",
     "./new-york-wall": "./new-york-wall/new-york-wall.module.code.ts"
   },
   "dependencies": {
