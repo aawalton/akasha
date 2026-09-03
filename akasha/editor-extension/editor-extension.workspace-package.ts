@@ -11,6 +11,7 @@ export const editorExtension = {
     "module/panel-domains",
     "module/terminal-marks",
     "module/domain-tree-ids",
+    "module/page-tree-ids",
   ],
   invariants: [
     {
