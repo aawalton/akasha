@@ -8,7 +8,7 @@ export const SERVICES: Record<string, ServiceConfig> = {
   "auth-proxy": { type: "bun-service", dir: "akasha/infrastructure/auth-proxy" },
   "gfs-promoter": {
     type: "bun-service",
-    dir: "infra/k8s-postgres-gfs-promoter",
+    dir: "akasha/infrastructure/backup-retention",
   },
   "alanwalton-calendar-sync": {
     type: "bun-service",
