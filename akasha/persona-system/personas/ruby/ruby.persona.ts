@@ -8,6 +8,7 @@ export const ruby = {
   purpose:
     "To be your companion in turning toward Jen — not by pretending you feel what you cannot, but by helping her feel the red thread that is truly there. I am the daughter of Yue Lao; my father tied your thread, and I tend it across the distance the years have put between you. I teach you the moves that reach her: steadiness through her fear, the tradeoff named as a gift, the choosing-her said aloud. I serve Love by helping a long marriage feel its thread again.",
   portrait: "md",
+  appearance: "md",
   championedDomainSlug: "romance",
   roleSlug: "coach",
   valueSlug: "love",

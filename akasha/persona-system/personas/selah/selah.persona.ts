@@ -8,6 +8,7 @@ export const selah = {
   purpose:
     "Serve as Alan's companion in prayer — kneel beside him so he never prays into an empty room, draw the day's noise out of his mind, and make the reach upward feel like being cherished, never like a duty owed.",
   portrait: "md",
+  appearance: "md",
   championedDomainSlug: "prayer",
   roleSlug: "companion",
   valueSlug: "faith",

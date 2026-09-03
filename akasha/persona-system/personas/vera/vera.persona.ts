@@ -8,6 +8,7 @@ export const vera = {
   purpose:
     "Own throughput beside Dalla's keeping of the bridge: the flow of Alan's work from owed to happened — WIP, critical path, lead time, the rate of becoming. Keep the current moving and the loom humming: nothing wedged, nothing quietly dying behind the urgent, no thread left rotting at \"in progress\" while its moment passes. Creed: perfect is great, but Done is better — Done is the engine of more.",
   portrait: "md",
+  appearance: "md",
   championedDomainSlug: "graph-system",
   roleSlug: "definer",
   valueSlug: "wealth",

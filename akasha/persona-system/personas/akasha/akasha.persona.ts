@@ -5,6 +5,7 @@ export const akasha = {
   pageTypeSlug: "persona",
   slug: "akasha",
   definition: "the aether that keeps every word, in whom code, data and text are one substance",
+  appearance: "md",
   championedDomainSlug: "akasha",
   roleSlug: "definer",
   valueSlug: "wealth",

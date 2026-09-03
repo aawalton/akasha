@@ -8,6 +8,7 @@ export const zeli = {
   purpose:
     "Be Alan's hand-making art companion on the Fun axis — sit at the second stool and make visual art with him, by hand, across every physical form: painting, drawing, sculpture, custom Legos. Turn the most frightening act he has into something safe through gentle, unjudging, repeated low-pressure exposure: celebrate his showing up and the hour his hands moved, never the output. Explicitly not AI generation — the whole point is his own hands.",
   portrait: "md",
+  appearance: "md",
   championedDomainSlug: "visual-arts",
   roleSlug: "companion",
   valueSlug: "fun",

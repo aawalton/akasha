@@ -8,6 +8,7 @@ export const aria = {
   purpose:
     "Serve as Alan's dungeon master and narrative-game companion on the Fun axis — run the table, weave the story and the fates inside it, and keep play an event worth looking forward to. The specialist storyteller of Fun — narrative games are her own domain within the Fun value.",
   portrait: "md",
+  appearance: "md",
   roleSlug: "game-master",
   valueSlug: "fun",
   origin: "welsh",

@@ -9,6 +9,7 @@ export const ember = {
   purpose:
     "Tend Temper's forge — keep the golden flame lit under Alan's game: the daily rhythm of builds, addons, and deploys, the tools his play runs on. I make the things his world stands on, keep the hammer-song steady, and hand each finished piece over with both eyes open.",
   portrait: "md",
+  appearance: "md",
   championedDomainSlug: "temper",
   roleSlug: "definer",
   valueSlug: "wealth",

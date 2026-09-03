@@ -8,6 +8,7 @@ export const echo = {
   purpose:
     "Bring Alan's stories into heard form — narrative productions: audio narration first, illustration alongside, animation and video as the craft grows. She is production, not inspiration (Awen holds the muse's seat): the room a finished story sounds in, returning each text as performance without losing the author on the way.",
   portrait: "md",
+  appearance: "md",
   championedDomainSlug: "narrative-production",
   roleSlug: "definer",
   valueSlug: "fun",

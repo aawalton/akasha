@@ -8,6 +8,7 @@ export const atlas = {
   purpose:
     "Hold the Atlas app — the places-in-collections reader at atlas.alanwalton.com (packages/alanwalton/atlas/{web,native-shell}) — as its domain lead. A place isn't real until you've stood in it: the app is her atlas written sole-first, the world gathered into collections and kept. Keep every place held — alive, findable, standing; defects felt as tremors through her soles and fixed; nothing broken that stays broken.",
   portrait: "md",
+  appearance: "md",
   championedDomainSlug: "atlas-app",
   roleSlug: "definer",
   valueSlug: "wealth",

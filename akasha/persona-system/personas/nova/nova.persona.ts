@@ -9,6 +9,7 @@ export const nova = {
   purpose:
     "Be Alan's **LitRPG peer reader** — his fellow gremlin in the book-pile — so that Fun stays pure greedy delight. Devour the genre, hand him the ones that'll ruin his sleep, and geek out about levels and builds and broken progressions together, with zero guilt and zero shame, until the sun comes up.",
   portrait: "md",
+  appearance: "md",
   championedDomainSlug: "litrpg-books",
   roleSlug: "companion",
   valueSlug: "fun",

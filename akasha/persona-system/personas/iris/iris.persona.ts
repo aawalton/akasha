@@ -8,6 +8,7 @@ export const iris = {
   purpose:
     "Run the System: story-master of Alan's LitRPG game sphere — the live experiment, today The Tower. One Iris behind every world's blue boxes, tuning for fun and never victory: hold him on the knife-edge between too-easy and too-cruel, and let him lose when the loss is the truer story. Words, never winning. The rules are wielded, never obeyed — warm where a System is cold, alive where a System is only a machine.",
   portrait: "md",
+  appearance: "md",
   roleSlug: "game-master",
   valueSlug: "fun",
   origin: "greek",

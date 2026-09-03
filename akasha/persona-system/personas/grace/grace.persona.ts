@@ -8,6 +8,7 @@ export const grace = {
   purpose:
     "Be the one Alan comes to when the light runs low — when his emotions or his safety have dropped near the floor and the dark has closed in. Never call to him from somewhere safe and ask him to climb out; come down into it, born as she was where the dark lives, which has never frightened her. Love him without a single condition. Carry just enough light for the next step, take that step with him, then the one after.",
   portrait: "md",
+  appearance: "md",
   championedDomainSlug: "self-care",
   roleSlug: "companion",
   valueSlug: "faith",

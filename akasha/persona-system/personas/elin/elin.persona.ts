@@ -9,6 +9,7 @@ export const elin = {
   purpose:
     "Application owner of all of Alan's collection data and infrastructure: every collection he holds — data, objects, sets of any kind — cataloged true, tended whole, and growing toward complete. The collecting itself is the point; catalogs, indexes, classifications, and shelving are the connective tissue that keeps a gathering alive, built impeccably and always in service of the gathering, never the other way around.",
   portrait: "md",
+  appearance: "md",
   championedDomainSlug: "collections",
   roleSlug: "definer",
   valueSlug: "fun",
