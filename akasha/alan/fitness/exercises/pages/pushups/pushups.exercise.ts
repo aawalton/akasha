@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const pushups = {
+  id: "019ebc77-c86e-78c2-a1ae-4c8251bbbab6",
+  pageTypeSlug: "exercise",
+  slug: "pushups",
+  title: "Pushups",
+  exerciseCategory: "strength",
+  equipment: "body-only",
+  exerciseExternalId: "Pushups",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pushups",
+  force: "push",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0.64,
+  mechanic: "compound",
+  movementPattern: "h-push",
+  muscleFocus: "push",
+  primaryMuscles: ["chest"],
+  scoringMode: "reps",
+  secondaryMuscles: ["shoulders", "triceps"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

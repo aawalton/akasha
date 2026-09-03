@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const otisUp = {
+  id: "019ebc77-bc42-7f2c-9e8a-4ab3400e5f9d",
+  pageTypeSlug: "exercise",
+  slug: "otis-up",
+  title: "Otis-Up",
+  exerciseCategory: "strength",
+  equipment: "other",
+  exerciseExternalId: "Otis-Up",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Otis-Up",
+  force: "pull",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Otis-Up/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Otis-Up/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "isolation-other",
+  muscleFocus: "core",
+  primaryMuscles: ["abdominals"],
+  scoringMode: "reps",
+  secondaryMuscles: ["chest", "shoulders", "triceps"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

@@ -1,0 +1,45 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const reverseBandSumoDeadlift = {
+  id: "019ebc77-cc63-79f7-b4e7-9a17815e8c60",
+  pageTypeSlug: "exercise",
+  slug: "reverse-band-sumo-deadlift",
+  title: "Reverse Band Sumo Deadlift",
+  exerciseCategory: "powerlifting",
+  equipment: "barbell",
+  exerciseExternalId: "Reverse_Band_Sumo_Deadlift",
+  exerciseExternalLink:
+    "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Band_Sumo_Deadlift",
+  force: "pull",
+  gripDemand: "high",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Band_Sumo_Deadlift/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Band_Sumo_Deadlift/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "expert",
+  loadFactor: 0.6,
+  mechanic: "compound",
+  movementPattern: "hinge",
+  muscleFocus: "legs",
+  primaryMuscles: ["hamstrings"],
+  scoringMode: "reps",
+  secondaryMuscles: [
+    "abductors",
+    "adductors",
+    "calves",
+    "forearms",
+    "glutes",
+    "lower-back",
+    "quadriceps",
+    "traps",
+  ],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise
