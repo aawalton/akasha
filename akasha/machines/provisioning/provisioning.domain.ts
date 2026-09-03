@@ -13,6 +13,7 @@ export const provisioning = {
     "shell-script/link-making",
     "shell-script/provision-macbook",
     "shell-script/provision-workstation",
+    "shell-script/provisioning-bash-env",
     "shell-script/repo-roots",
     "shell-script/rg",
     "shell-script/setup-symlinks",

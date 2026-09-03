@@ -25,7 +25,7 @@ import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import { useCallback, useEffect, useState } from "react"
 import { toast } from "sonner"
-import { formatRelativeTime } from "../format-relative-time/format-relative-time.module.code.ts"
+import { formatTimeAgo } from "../format-time-ago/format-time-ago.module.code.ts"
 import { RestoreConfirmDialog } from "../restore-confirm-dialog/restore-confirm-dialog.module.code.tsx"
 import {
   type CharacterVersion,
@@ -279,7 +279,7 @@ function VersionItem({ version, onRestore }: VersionItemProps) {
             <Badge variant="elevation">v{version.versionNumber}</Badge>
           )}
         </div>
-        <span className="text-tertiary text-xs">{formatRelativeTime(version.createdAt)}</span>
+        <span className="text-tertiary text-xs">{formatTimeAgo(version.createdAt)}</span>
       </div>
       <Button variant="tertiary" size="sm" onClick={onRestore}>
         Restore

@@ -1,9 +1,12 @@
 import {
+  renderBound,
+  renderShortfall,
+} from "../cluster-population-bound/cluster-population-bound.module.code.ts"
+import {
   type Population,
   populationCertifies,
   populationCoverage,
 } from "../population/population.module.code.ts"
-import { renderBound, renderShortfall } from "../population-bound/population-bound.module.code.ts"
 import type { RemediationDoc } from "../remediation-doc/remediation-doc.module.code.ts"
 
 export interface Violation {

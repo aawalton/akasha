@@ -1,4 +1,4 @@
-import { answerPageTypes } from "../.server/answer-page-types/answer-page-types.module.code.ts"
+import { answerPageTypes } from "@akasha/web-page-answers/answer-page-types"
 import type { Route } from "./+types/api.page-types"
 
 // `loader` is this module's only export on purpose. React Router strips just

@@ -2920,6 +2920,7 @@
         "@akasha/temper-trading-pricing-client": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/web-build-version": "workspace:*",
+        "@akasha/web-page-answers": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",

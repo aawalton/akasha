@@ -13,9 +13,9 @@ export const smilingjennyWeb = {
   partSlugs: [
     "stylesheet/smilingjenny-web-look",
     "module/jenny-capacitor-bridge",
+    "module/jenny-push-registration-sync",
     "module/jenny-ring-credential",
     "module/jenny-session",
     "module/jenny-shell",
-    "module/push-registration-sync",
   ],
 } as const satisfies RouterApp

@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code-system/module"
 
-export const populationBound = {
+export const clusterPopulationBound = {
   id: "01a06829-124f-786a-9dbd-9ce891c54621",
   pageTypeSlug: "module",
-  slug: "population-bound",
+  slug: "cluster-population-bound",
   definition: "what a check run says about the population the run reached, said beside the verdict",
   code: "ts",
   invariants: [
