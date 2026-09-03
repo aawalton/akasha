@@ -17,11 +17,11 @@ export const attributeConstitution = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the grams of whole plants the day carries turned into points.",
+      statement: "The reading is the plant grams of the day's food entries turned into points.",
     },
     {
       invariantKind: "departure",
-      statement: "The nutrition figure a day carries holds grams rather than points.",
+      statement: "The grams turned into points are the grams the plants readout counts.",
     },
     {
       invariantKind: "departure",
@@ -29,19 +29,20 @@ export const attributeConstitution = {
     },
     {
       invariantKind: "departure",
-      statement: "A figure given as text is read as the number that text spells.",
+      statement:
+        "The window the entries are counted over is handed in rather than worked out here.",
     },
     {
       invariantKind: "departure",
-      statement: "No tracking day is no reading rather than a constitution of zero.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A day carrying no grams is no reading rather than a constitution of zero.",
+      statement: "A day holding no food entry is a reading of zero rather than no reading.",
     },
     {
       invariantKind: "departure",
       statement: "A store that refuses is a fault rather than a reading of nothing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a figure the tracking day carries.",
     },
     {
       invariantKind: "absence",
