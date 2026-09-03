@@ -1,1 +1,0 @@
-To meet her hand. The want has moved out of words entirely — he doesn't want to say the next thing, he wants to close the small distance she opened, let touch be the answer her reach asked for, and stay exactly here. To be in it with her, not narrate it; to let the contact say what neither of them needs to put into another sentence.

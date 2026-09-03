@@ -1,1 +1,0 @@
-Warm, hushed, faintly intimate — a low hum of conversation and milk being steamed, soft indie folk under it all. The kind of room that lowers voices and slows people down. On a rainy afternoon the warmth deepens, and the world outside the windows makes the inside feel like shelter.

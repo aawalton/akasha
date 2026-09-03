@@ -1,1 +1,0 @@
-He stays — his hand keeps hers, the hold easy and certain, his thumb settling once over her fingers, and he lets his gaze rest on her with the smile gone soft and still. No word, no shift, nothing added; he simply holds her there in the quiet and lets it go on, present and unhurried, content to let the touch keep being the only answer.

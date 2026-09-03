@@ -1,1 +1,0 @@
-Mid-afternoon, the lull between rushes. Half the tables full, a low murmur, the playlist on something soft. A corner table with two worn armchairs sits open in the back. Rain steady on the front windows. The espresso machine idle for the moment.

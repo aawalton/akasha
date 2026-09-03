@@ -1,1 +1,0 @@
-The warm room closing over the cold rain at his back. Abby beside him, shaking off the wet. The low murmur, a soft song half-over, the smell of espresso. For once the friction-radar is quiet — nothing here to fix, just a place to be — and a pair of open armchairs waits in the back corner.

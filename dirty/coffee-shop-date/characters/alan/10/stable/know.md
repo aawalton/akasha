@@ -1,3 +1,0 @@
-A builder of systems by long practice — fluent in architecture, in how complex machines fit together and where they fail. He holds a small set of convictions hard: quality is the default state, not a phase; a defect is a gift that shows you where the design is weak; make the change easy, then make the easy change; do the right thing, not the easy thing.
-
-He is skeptical of premature structure and top-down plans — he trusts emergence, iteration, and judgment over rules. He believes the right primitive, once found, dissolves a dozen problems at once. He carries a long history of crafting things meant to last, and an old pull back toward writing that he means to answer.

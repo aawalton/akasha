@@ -1,1 +1,0 @@
-Hold the ease, let his smile soften toward something a touch more open, and name it lightly — reflect back that they're both just choosing to be here, and that her letting that show is exactly the good part — a small, unhurried acknowledgment of the gladness she let through, not a question, leaving the warmth to settle a beat deeper without steering it anywhere.

@@ -1,1 +1,0 @@
-Holds his eyes, the smile warming, and lets it land plainly — 'It really is.' A beat, then, lighter, with a tip of her head toward the rain: 'Best decision we've made all week.' Stays open and unhurried, not steering the afternoon anywhere, just settling more fully into being here with him.
