@@ -50,6 +50,8 @@ export const pagesSystem = {
     "module/change",
     "module/checkout-roots",
     "module/code-root",
+    "module/markdown-property",
+    "module/markdown-property-stated",
     "module/page-answer-sweeping",
     "module/repo-path",
     "module/shadow",
