@@ -13,8 +13,10 @@
 
 import * as nodePath from "node:path"
 
+function nothing() {}
+
 const anything = () =>
-  new Proxy(() => {}, {
+  new Proxy(nothing, {
     get: (_t, k) => (k === "then" ? undefined : anything()),
     apply: () => anything(),
     construct: () => anything(),
