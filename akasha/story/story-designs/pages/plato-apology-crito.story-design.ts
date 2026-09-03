@@ -5,6 +5,7 @@ export const platoApologyCrito = {
   pageTypeSlug: "story-design",
   slug: "plato-apology-crito",
   title: "Plato: Apology, Crito — story design",
+  worldSlug: "plato-apology-crito",
   premise:
     "Two dialogues of Plato set in the last days of Socrates, in Benjamin Jowett's public-domain translation. In the Apology, Socrates stands before the Athenian court and defends the examined life rather than his own skin; in the Crito, alone in his cell before dawn, he refuses a friend's offered escape and reasons out why a just man keeps faith with the laws even when they have wronged him.",
   genre: "Philosophy, Classical, Dialogue",
