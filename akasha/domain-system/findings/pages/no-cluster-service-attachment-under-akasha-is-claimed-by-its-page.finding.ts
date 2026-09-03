@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const noClusterServiceAttachmentUnderAkashaIsClaimedByItsPage = {
+  id: "01a06875-2e58-7f74-95ab-cbb255af5191",
+  pageTypeSlug: "finding",
+  slug: "no-cluster-service-attachment-under-akasha-is-claimed-by-its-page",
+  domainSlug: "page-type/cluster-service",
+  claim:
+    "A cluster service names its manifest code by path in a required property, and that naming puts no entry in the index. `file-has-its-page` reads the index alone, so it refuses every attachment. All 49 attachments already under `akasha/` are in the same position, which means each landed with the glass broken and the next lane to carry one in must break it again.",
+  evidence:
+    "Measured 2026-09-03 while carrying auth-proxy in. `akasha write` refused `akasha/infrastructure/auth-proxy/auth-proxy.cluster-service.code.attachment.ts` with `no page claims this file` even after `akasha/service-system/cluster-services/pages/auth-proxy.cluster-service.ts` had landed in an earlier commit naming it as `manifestCode`, so the naming was committed and still did not count.\n\nThe check is four lines: `unclaimedAt` in `akasha/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.code.ts` returns the refusal wherever `shadow.index.listedByPath(path)` is empty. `listedByPath` in `akasha/pages-system/indexes/index-reading/index-reading.module.code.ts` line 155 reads one file under the index's `path` tree.\n\nThe count is the measurement. 49 files match `*.cluster-service.code.attachment.ts` under `akasha/`, and the index's path tree answers for none of the 49. Spot checks agree: the index folders for `akasha/calendar-sync`, `akasha/infrastructure/voice-inference` and `akasha/service-system/cluster-services/pages/grafana` each hold the page and the manifest and neither the attachment nor the sops file beside it. `deploy/dockerfile-extensions.json` is unindexed on the same footing, under calendar-sync as well as under auth-proxy.\n\n`no-tmp` compounds it. The attachment mounts an `emptyDir` at `/tmp` because the container runs `readOnlyRootFilesystem: true`, and the check refuses the literal. Five attachments already under `akasha/` carry the same line, among them grafana, pgbouncer, pod-janitor, supabase-realtime and tailnet-egress, and the check's own page states `No use of /tmp is kept as permitted`, so there is no exception to ask for. A path inside a pod is not a path on the workstation, which is what the check is about.",
+} as const satisfies Finding
