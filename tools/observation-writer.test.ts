@@ -13,10 +13,11 @@ import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import {
   bunIn,
-  ObservationWriterClient,
   writerMainIn,
+  writingTo,
   type WriterAnswer,
   type WriterAsk,
+  type Writing,
 } from "../editor-extension/src/seat/observation-writer.ts"
 
 // WHAT KEEPS AN OBSERVATION THE HOST HANDED OVER FROM BEING LOST.
@@ -61,7 +62,7 @@ const BUN_LOST_THE_PIPE = "nothing is listening on fd 3"
 const GOES = 3
 
 interface Writer {
-  readonly client: ObservationWriterClient
+  readonly client: Writing
   readonly noise: string[]
 }
 
@@ -121,7 +122,7 @@ function pidHere(root: string): number {
 function writerAt(root: string): Writer {
   const bun = bunIn()
   const noise: string[] = []
-  const client = new ObservationWriterClient({
+  const client = writingTo({
     bun: bunSayingItsPid(root),
     mainFile: WRITER_MAIN,
     env: {

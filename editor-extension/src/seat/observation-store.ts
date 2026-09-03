@@ -1,7 +1,7 @@
 import { akashaRoot, harnessEnvironment } from '../harness-call.ts';
 import { changeKey, type Observation } from "./observations.ts"
 import { foldSweep, mergeObservation, type ObservationPatch } from "./observation-merge.ts";
-import { bunIn, ObservationWriterClient, writerMainIn } from './observation-writer.ts';
+import { bunIn, writerMainIn, writingTo, type Writing } from './observation-writer.ts';
 
 export interface SweepReport {
 	readonly swept: number;
@@ -55,10 +55,10 @@ interface Writer {
 // which adopts landing journals from dead writers and commits them with `git`, on the thread that
 // draws the editor. The host still defers from `editor-layout`, so nothing stops being recovered.
 function writerFor(window: string, onError?: (message: string) => void): Writer {
-	let client: ObservationWriterClient | undefined;
-	const held = (): ObservationWriterClient => {
+	let client: Writing | undefined;
+	const held = (): Writing => {
 		if (client === undefined) {
-			client = new ObservationWriterClient({
+			client = writingTo({
 				bun: bunIn(),
 				mainFile: writerMainIn(akashaRoot()),
 				env: harnessEnvironment(),

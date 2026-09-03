@@ -88,40 +88,39 @@ export function bunIn(homeDirectory: string = os.homedir()): string {
 	return path.join(directory, 'bun');
 }
 
-export class ObservationWriterClient {
-	private readonly at: WriterAt;
+export type Writing = {
+	readonly ask: (one: WriterAsk) => Promise<WriterAnswer>;
+	readonly dispose: () => Promise<void>;
+};
 
-	private session: Session | null = null;
+export function writingTo(at: WriterAt): Writing {
+	// One set of these per call, held in this closure. Two writings share nothing — which is the
+	// whole point of a window holding its own: a shared child would write every window's state into
+	// whichever checkout it happened to be started with.
+	let session: Session | null = null;
+	let starting: Promise<Session> | null = null;
+	let nextId = 1;
+	let disposed = false;
 
-	private starting: Promise<Session> | null = null;
-
-	private nextId = 1;
-
-	private disposed = false;
-
-	constructor(at: WriterAt) {
-		this.at = at;
-	}
-
-	async ask(ask: WriterAsk): Promise<WriterAnswer> {
-		if (this.disposed) {
+	async function ask(one: WriterAsk): Promise<WriterAnswer> {
+		if (disposed) {
 			throw new Error('the observation writer has been disposed and starts no child');
 		}
-		const session = await this.open();
-		const id = this.nextId++;
+		const asking = await open();
+		const id = nextId++;
 		return new Promise<WriterAnswer>((settle, refuse) => {
 			const timer = setTimeout(() => {
-				session.waiting.delete(id);
-				this.retire(session, 'SIGKILL');
+				asking.waiting.delete(id);
+				retire(asking, 'SIGKILL');
 				refuse(new Error(`the observation writer did not answer within ${WRITE_TIMEOUT_MS}ms`));
 			}, WRITE_TIMEOUT_MS);
 			timer.unref?.();
-			session.waiting.set(id, { settle, refuse, timer });
+			asking.waiting.set(id, { settle, refuse, timer });
 			try {
-				session.child.stdin?.write(`${JSON.stringify({ id, ...ask })}\n`);
+				asking.child.stdin?.write(`${JSON.stringify({ id, ...one })}\n`);
 			} catch (thrown) {
 				clearTimeout(timer);
-				session.waiting.delete(id);
+				asking.waiting.delete(id);
 				refuse(new Error(`the observation write could not be handed over: ${String(thrown)}`));
 			}
 		});
@@ -130,44 +129,44 @@ export class ObservationWriterClient {
 	// THE HOST IS GOING AND THE CHILD IS TOLD SO BY ITS STDIN CLOSING, which is what makes it drain
 	// what it holds and exit. This waits for that rather than killing it, because everything the
 	// host handed over and has not seen answered is written during exactly that drain.
-	async dispose(): Promise<void> {
-		this.disposed = true;
-		const session = this.session;
-		if (session === null || session.lost) { return; }
-		this.session = null;
+	async function dispose(): Promise<void> {
+		disposed = true;
+		const going = session;
+		if (going === null || going.lost) { return; }
+		session = null;
 		await new Promise<void>((done) => {
 			const timer = setTimeout(() => {
-				try { session.child.kill('SIGKILL'); } catch { /* already gone */ }
+				try { going.child.kill('SIGKILL'); } catch { /* already gone */ }
 				done();
 			}, DRAIN_TIMEOUT_MS);
 			timer.unref?.();
-			session.child.on('exit', () => { clearTimeout(timer); done(); });
-			try { session.child.stdin?.end(); } catch { clearTimeout(timer); done(); }
+			going.child.on('exit', () => { clearTimeout(timer); done(); });
+			try { going.child.stdin?.end(); } catch { clearTimeout(timer); done(); }
 		});
 	}
 
-	private async open(): Promise<Session> {
-		const held = this.session;
+	async function open(): Promise<Session> {
+		const held = session;
 		if (held !== null && !held.lost) { return held; }
-		const already = this.starting;
+		const already = starting;
 		if (already !== null) { return already; }
-		const starting = this.start();
-		this.starting = starting;
+		const began = start();
+		starting = began;
 		try {
-			const session = await starting;
-			this.session = session;
-			return session;
+			const opened = await began;
+			session = opened;
+			return opened;
 		} finally {
-			if (this.starting === starting) { this.starting = null; }
+			if (starting === began) { starting = null; }
 		}
 	}
 
-	private start(): Promise<Session> {
+	function start(): Promise<Session> {
 		return new Promise<Session>((ready, refuse) => {
 			let child: ChildProcess;
 			try {
-				child = spawn(this.at.bun, [this.at.mainFile], {
-					env: this.at.env,
+				child = spawn(at.bun, [at.mainFile], {
+					env: at.env,
 					stdio: ['pipe', 'pipe', 'pipe', 'pipe'],
 				});
 			} catch (thrown) {
@@ -180,27 +179,27 @@ export class ObservationWriterClient {
 				refuse(new Error('the fourth pipe every answer comes back on was not opened'));
 				return;
 			}
-			const session: Session = { child, waiting: new Map(), lost: false };
+			const fresh: Session = { child, waiting: new Map(), lost: false };
 			let settled = false;
 			const timer = setTimeout(() => {
 				if (settled) { return; }
 				settled = true;
-				this.retire(session, 'SIGKILL');
+				retire(fresh, 'SIGKILL');
 				refuse(new Error(`the observation writer said no hello within ${START_TIMEOUT_MS}ms`));
 			}, START_TIMEOUT_MS);
 			timer.unref?.();
 
-			const noise = (text: string): void => { this.at.onNoise?.(text); };
+			const noise = (text: string): undefined => { at.onNoise?.(text); return undefined; };
 			child.stdout?.setEncoding('utf8');
 			child.stdout?.on('data', (chunk: string) => noise(`stdout: ${chunk.trimEnd()}`));
 			child.stderr?.setEncoding('utf8');
 			child.stderr?.on('data', (chunk: string) => noise(`stderr: ${chunk.trimEnd()}`));
 			child.on('error', (err) => {
-				this.lose(session, `the observation writer could not be run: ${String(err)}`);
+				lose(fresh, `the observation writer could not be run: ${String(err)}`);
 				if (!settled) { settled = true; clearTimeout(timer); refuse(new Error(String(err))); }
 			});
 			child.on('exit', (code, signal) => {
-				this.lose(session, `the observation writer exited (code ${String(code)}, signal ${String(signal)})`);
+				lose(fresh, `the observation writer exited (code ${String(code)}, signal ${String(signal)})`);
 				if (!settled) {
 					settled = true;
 					clearTimeout(timer);
@@ -227,21 +226,21 @@ export class ObservationWriterClient {
 						if (settled) { continue; }
 						settled = true;
 						clearTimeout(timer);
-						ready(session);
+						ready(fresh);
 						continue;
 					}
-					this.took(session, said);
+					took(fresh, said);
 				}
 			});
 		});
 	}
 
-	private took(session: Session, said: Record<string, unknown>): void {
+	function took(one: Session, said: Record<string, unknown>): undefined {
 		const id = said['id'];
-		if (typeof id !== 'number') { return; }
-		const held = session.waiting.get(id);
-		if (held === undefined) { return; }
-		session.waiting.delete(id);
+		if (typeof id !== 'number') { return undefined; }
+		const held = one.waiting.get(id);
+		if (held === undefined) { return undefined; }
+		one.waiting.delete(id);
 		clearTimeout(held.timer);
 		held.settle({
 			ok: said['ok'] === true,
@@ -249,27 +248,32 @@ export class ObservationWriterClient {
 			body: said['body'] ?? null,
 			...(typeof said['saying'] === 'string' ? { saying: said['saying'] } : {}),
 		});
+		return undefined;
 	}
 
 	// A CHILD THAT IS GONE ANSWERS NOTHING. Everything still waiting on it is refused by name rather
 	// than left hanging, so the store learns the write did not land and writes that state again.
-	private lose(session: Session, saying: string): void {
-		if (session.lost) { return; }
-		session.lost = true;
-		if (this.session === session) { this.session = null; }
-		for (const [id, held] of [...session.waiting]) {
-			session.waiting.delete(id);
+	function lose(one: Session, saying: string): undefined {
+		if (one.lost) { return undefined; }
+		one.lost = true;
+		if (session === one) { session = null; }
+		for (const [id, held] of [...one.waiting]) {
+			one.waiting.delete(id);
 			clearTimeout(held.timer);
 			held.refuse(new Error(saying));
 		}
+		return undefined;
 	}
 
-	private retire(session: Session, how: NodeJS.Signals): void {
-		if (this.session === session) { this.session = null; }
-		session.lost = true;
-		try { session.child.stdin?.end(); } catch { /* already gone */ }
-		try { session.child.kill(how); } catch { /* already gone */ }
+	function retire(one: Session, how: NodeJS.Signals): undefined {
+		if (session === one) { session = null; }
+		one.lost = true;
+		try { one.child.stdin?.end(); } catch { /* already gone */ }
+		try { one.child.kill(how); } catch { /* already gone */ }
+		return undefined;
 	}
+
+	return { ask, dispose };
 }
 
 function readLine(line: string): Record<string, unknown> | null {
