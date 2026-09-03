@@ -7,6 +7,9 @@ export const surplus = {
   definition: "how much of Alan's night the day has left him",
   partSlugs: [
     "module/surplus-fall-notifying",
+    "module/surplus-fall-readout",
+    "module/surplus-fall-ticking",
+    "module/surplus-fall-tier",
     "readout/upkeep-surplus",
     "workstation-service/surplus-reading-service",
     "workstation-service/surplus-relay-service",
