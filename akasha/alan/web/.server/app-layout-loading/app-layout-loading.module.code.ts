@@ -18,7 +18,7 @@ export async function loader({ request }: Route.LoaderArgs) {
   const userEnvelope = user ? { id: user.id, email: user.email ?? undefined } : null
   if (user) {
     console.error(
-      "[alanwalton/web/_app-layout] no SSR nav:",
+      "[alanwalton-web/_app-layout] no SSR nav:",
       unheld(NAV_PAGE_TYPE_SLUG, "this app's nav items")
     )
   }
