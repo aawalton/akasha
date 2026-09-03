@@ -7,6 +7,7 @@ export const reading = {
   definition: "how the next thing for Alan to read is chosen",
   manifest: "json",
   partSlugs: [
+    "page-type/gbww-reading",
     "module/reading-shapes",
     "module/resume-chapter",
     "module/story-catalog",

@@ -7,6 +7,7 @@ export const bookOfEverything = {
   definition: "how far into the whole of knowledge Ali has read, node by node",
   manifest: "json",
   partSlugs: [
+    "page-type/learn-everything-topic",
     "module/propaedia-outline",
     "module/books-root",
     "module/node-profile",
