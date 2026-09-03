@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aFullAuditIsOneSerialProcessOfSeventeenGigabytes = {
+  id: "01a0673e-9777-75ff-acd1-26c75fb78bfc",
+  pageTypeSlug: "finding",
+  slug: "a-full-audit-is-one-serial-process-of-seventeen-gigabytes",
+  domainSlug: "workspace-package/checks",
+  claim:
+    "`akasha audit` runs its 41 audit checks serially in one process rather than at once. One full audit peaks at 17,226 MB over 911 seconds, not 41 lots of 1.8 GB. It does not refuse redirected output; only `akasha read` does. The heaviest single check is `typecheck` at 6,090 MB rather than `page-matches-its-type` at 2,496 MB. Refusal counts from a full audit and from a per-check sweep cannot be compared on a tree the swarm is writing to.",
+  evidence:
+    "`judgingBy(...).over()` in checking.module.code.ts is a synchronous loop over `checksFor`, and through a 911 second run `ps` showed one bun process with no children. The peak was read from the cgroup's `memory.peak` inside a systemd scope capped at 20 GB: 17,226 MB, 911 s, 15,130 refusals, 41 checks, 62,636 files. Read the cgroup rather than `/usr/bin/time -v`, whose `ru_maxrss` carries only the largest single waited child; a 15 second sampler saw 6,509 MB and under-reported the peak by 2.6 times. Sweeping the 41 checks one process each: typecheck 6,090 MB in 581 s, no-rule-in-two-files 2,698 MB in 8 s, page-matches-its-type 2,651 MB in 296 s, manifest-names-what-is-reached 2,378 MB in 7 s, and the rest under 2.2 GB. A pool of N costs the sum of the N largest: 8,788 MB at two, 11,440 MB at three, 13,818 MB at four, and 18,113 MB at six, which is worse than one process today. Three is the bound to pick, because the serial work totals 1,354 s while typecheck alone is a 581 s critical path, so the makespan floors near 590 s and a wider pool buys no time. On redirection, `akasha audit --check name-format-judges-by-one-shape` written to a file, through a pipe, and to /dev/null each exited 0 carrying 111 bytes; the guard that refuses a pipe is read.command.code.ts:267 through `discardedBy`, and audit.command.code.ts carries none of it. On parity, the audit saw 62,636 files at 22:28 and one check saw 83,507 at 23:10, and page-matches-its-type answered 6,109 refusals at 22:20 and 5,471 at 22:55, so 15,130 against a sweep's 9,115 measures the swarm rather than the audit. The refuted claims are carried by the akasha-migration initiative's working memory, and no filed finding asserts them.",
+} as const satisfies Finding
