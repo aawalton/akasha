@@ -13,13 +13,13 @@ import {
   RefreshedTokensSchema,
 } from "@akasha/browser-test-harness/storage-state-reading"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { planDisableReconcile } from "@akasha/seat-system/mcp-disable-reconcile"
 import {
   getMcpServerRegistry,
   type McpServerConfig,
   playwrightStorageStatePath,
 } from "@akasha/seat-system/mcp-registry"
 import { computeMcpConfigContent } from "./claude-launch-args.ts"
-import { planDisableReconcile } from "./mcp-disable-reconcile.ts"
 import { shape } from "./shape.ts"
 
 const LOG = "[supervisor-mcp]"

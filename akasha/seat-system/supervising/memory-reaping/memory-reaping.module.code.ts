@@ -1,8 +1,11 @@
-import { reaperConfigBanner, TICK_MS } from "@tools/lib/memory-reaper-config"
 import {
   sleptUntilStopped,
   stopsOnSignal,
 } from "../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+import {
+  reaperConfigBanner,
+  TICK_MS,
+} from "../memory-reaper-config/memory-reaper-config.module.code.ts"
 import {
   type ReaperState,
   runBoundedReaperTick,

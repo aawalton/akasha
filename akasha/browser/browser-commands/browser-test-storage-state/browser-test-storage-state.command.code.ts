@@ -3,6 +3,7 @@ import { dirname } from "node:path"
 import { readBrowserTestEnv } from "@akasha/browser-test-harness/browser-test-env"
 import { launchAndSignIn } from "@akasha/browser-test-harness/harness-launch"
 import type { Answer } from "@akasha/command-system/calling"
+import { playwrightStorageStatePath } from "@akasha/seat-system/mcp-registry"
 import { isInvalidCredentialsError, signInWithPassword } from "@akasha/supabase-auth/auth"
 import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
 import { createClient } from "@akasha/supabase-client/user-client"
@@ -10,7 +11,6 @@ import {
   DEFAULT_THROWAWAY_EMAIL,
   ensureThrowawayUser,
 } from "@akasha/supabase-server/throwaway-user"
-import { playwrightStorageStatePath } from "@tools/lib/mcp-registry"
 import {
   refusedBy,
   wordsIn,
