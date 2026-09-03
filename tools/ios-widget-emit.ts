@@ -3,16 +3,16 @@ export const tool = {
   path: "mobile widget-emit",
 } as const
 
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { difference } from "../repo/difference/difference.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { differenceOf } from "../akasha/command-system/differing/differing.module.code.ts"
 import {
   emittedPath,
+  type ResolvedWidget,
   resolveWidget,
   ringWidgetSwift,
-  type ResolvedWidget,
 } from "./lib/ios-widget-swift.ts"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 function fail(message: string): never {
   process.stderr.write(`error: ${message}\n`)
@@ -57,18 +57,23 @@ const HELP = [
 
 const FLAGS = ["--diff", "--write", "--code-root", "--help"]
 
+const TEXT = new TextEncoder()
+
 function differences(emitted: string, committed: string, path: string): string {
-  const workspace = mkdtempSync("/var/tmp/ios-widget-emit-")
-  try {
-    const found = difference(committed, emitted, workspace)
-    if (found === null) return `--- committed ${path}\n+++ emitted   ${path}\n(the two differ in bytes git reports no line for)`
-    return [`--- committed ${path}`, `+++ emitted   ${path}`, ...found.split("\n").slice(2)].join("\n")
-  } finally {
-    rmSync(workspace, { recursive: true, force: true })
-  }
+  const found = differenceOf(TEXT.encode(committed), TEXT.encode(emitted))
+  if (found === null)
+    return `--- committed ${path}\n+++ emitted   ${path}\n(the two differ in bytes git reports no line for)`
+  return [`--- committed ${path}`, `+++ emitted   ${path}`, ...found.split("\n").slice(2)].join(
+    "\n"
+  )
 }
 
-function report(resolved: ResolvedWidget, swift: string, codeRoot: string, diffing: boolean): boolean {
+function report(
+  resolved: ResolvedWidget,
+  swift: string,
+  codeRoot: string,
+  diffing: boolean
+): boolean {
   const relative = emittedPath(resolved)
   const absolute = join(codeRoot, relative)
   if (!diffing) {
