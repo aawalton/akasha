@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
-import { join } from "node:path"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { shape } from "@tools/lib/shape"
+import type { Definition } from "../../compose-subagents/compose-subagents.module.code.ts"
 
 const LOG = "[spawn-agents]"
 
@@ -18,10 +18,20 @@ const DELEGATION_OFF =
 
 const AGENT_MAP = shape.record(shape.string(), shape.unknown())
 
+// The specifier here is the one the type import of Definition above holds, so moving the
+// compose module is a diagnostic rather than a path that is not there when a seat spawns.
+const COMPOSE_AT = new URL(
+  "../../compose-subagents/compose-subagents.module.code.ts",
+  import.meta.url
+).pathname
+
+/** What compose-subagents writes to stdout: the map its own kindsIn returns. */
+type SubagentDefinitions = Readonly<Record<string, Definition>>
+
 export function renderSubagentDefinitions(raw: string): string | null {
   let parsed: ReturnType<typeof AGENT_MAP.safeParse>
   try {
-    parsed = AGENT_MAP.safeParse(JSON.parse(raw))
+    parsed = AGENT_MAP.safeParse(JSON.parse(raw) as SubagentDefinitions)
   } catch {
     return null
   }
@@ -71,10 +81,6 @@ interface InstructionsAnswer {
   readonly code: number
 }
 
-function commandPath(verb: string): string {
-  return join(akashaRoot(), "tools", `${verb}.ts`)
-}
-
 async function runInstructions(verb: string, ceilingMs: number): Promise<InstructionsAnswer> {
   const root = akashaRoot()
   if (!existsSync(root))
@@ -84,7 +90,7 @@ async function runInstructions(verb: string, ceilingMs: number): Promise<Instruc
     )
 
   const proc = Bun.spawn({
-    cmd: [process.execPath, commandPath(verb)],
+    cmd: [process.execPath, COMPOSE_AT],
     cwd: root,
     stdin: "ignore",
     stdout: "pipe",
@@ -111,7 +117,7 @@ async function runInstructions(verb: string, ceilingMs: number): Promise<Instruc
 
   if (killedAtCeiling)
     throw new Error(
-      `${verb}: ${commandPath(verb)} was still running after ${ceilingMs}ms and was ` +
+      `${verb}: ${COMPOSE_AT} was still running after ${ceilingMs}ms and was ` +
         "killed, so nothing it decides is decided. It is stuck rather than slow."
     )
 
