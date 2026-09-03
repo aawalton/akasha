@@ -1,4 +1,5 @@
 import "./temper-web-look/temper-web-look.stylesheet.styles.css"
+import "./temper-declared-effects/temper-declared-effects.module.code.ts"
 import {
   type LayoutLinkProps,
   LayoutLinkProvider,
