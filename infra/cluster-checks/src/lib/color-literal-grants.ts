@@ -6,7 +6,7 @@ export interface ColorAllowlistEntry {
 
 export const COLOR_LITERAL_ALLOWLIST: readonly ColorAllowlistEntry[] = [
   {
-    path: "alanwalton/web/app/lib/nav-icon-svg.ts",
+    path: "akasha/alan/web/alan-nav-icon-svg/alan-nav-icon-svg.module.code.ts",
     values: ["oklch(0.63 0.13 73)"],
     reason:
       "Alan grant 2026-07-02: --yellow mirror in standalone serialized SVG favicon documents; page CSS vars cannot cascade in.",

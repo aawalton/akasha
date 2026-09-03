@@ -48,8 +48,8 @@ const BURSTABLE_EXEMPTIONS: readonly (readonly [string, string])[] = [
     "alanwalton/atlas-web/generated/atlas-deployment.generated.yaml",
     "code-sync",
   ],
-  ["alanwalton/web/generated/web-deployment.generated.yaml", "init-code"],
-  ["alanwalton/web/generated/web-deployment.generated.yaml", "code-sync"],
+  ["akasha/alan/web/generated/web-deployment.generated.yaml", "init-code"],
+  ["akasha/alan/web/generated/web-deployment.generated.yaml", "code-sync"],
   [
     "archive-of-worlds/web/generated/web-deployment.generated.yaml",
     "init-code",

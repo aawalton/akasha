@@ -39,13 +39,25 @@
         "**/*.ts"
       ]
     },
-    "alanwalton/web": {
+    "akasha/alan/web": {
       "entry": [
-        "app/**/*.{ts,tsx}",
-        "app-capacitor/**/*.{ts,tsx}!",
+        "root.tsx",
+        "routes.ts",
+        "routes/**/*.{ts,tsx}",
+        "entry.server.tsx",
         "tunnel-routes.ts",
         "react-router.config.ts",
-        "vite.config.ts"
+        "vite.config.ts",
+        "server.ts",
+        "*.cluster-service.code.attachment.ts"
+      ],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    },
+    "akasha/alan/web-capacitor": {
+      "entry": [
+        "**/*.{ts,tsx}!"
       ],
       "project": [
         "**/*.{ts,tsx}"

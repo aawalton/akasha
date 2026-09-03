@@ -40,14 +40,14 @@ export interface DevServerApp {
 const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
   alanwalton: {
     name: "alanwalton",
-    packagePath: "alanwalton/web",
+    packagePath: "akasha/alan/web",
     basePort: 3000,
     extraDevArgs: [],
     devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
   },
   audhdalan: {
     name: "audhdalan",
-    packagePath: "audhdalan/web",
+    packagePath: "akasha/audhdalan/audhdalan-web",
     basePort: 3100,
     extraDevArgs: [],
     devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],

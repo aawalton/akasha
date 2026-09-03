@@ -93,13 +93,13 @@ export async function loadChapterForOffline(chapterId: string): Promise<Page | n
 
 // READING DOWN WORKS AND READING POSITION DOES NOT GO BACK UP. Both writers below landed with
 // `patchPage`, which the store refuses unconditionally, so neither a finished chapter nor a scroll
-// position has been kept since. `alanwalton/web/app/components/offline-text-sync.tsx` catches both
+// position has been kept since. `akasha/alan/web/offline-text-sync/offline-text-sync.module.code.tsx` catches both
 // at `:83` and `:122` and logs, so the reader shows no sign of it.
 //
 // This is asymmetric in a way that matters: `loadChapterForOffline` and the two story-id loaders
 // above still answer, so chapters keep arriving on the phone, and `markedReadAt` and `ownProgress`
 // keep reading as whatever they were when the writes died. A chapter Alan has finished reads as
-// unfinished, and next-unread — `alanwalton/web/app/lib/next-unread.ts` — keeps offering it.
+// unfinished, and next-unread — `akasha/alan/web/next-unread/next-unread.module.code.ts` — keeps offering it.
 //
 // Both wanted one page patched by name. Nothing about the shape is hard; there is no writing road.
 const NO_KEYED_WRITE = "the page store refuses every keyed write"
