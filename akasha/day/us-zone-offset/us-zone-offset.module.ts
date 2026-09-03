@@ -6,6 +6,7 @@ export const usZoneOffset = {
   slug: "us-zone-offset",
   definition: "how far behind UTC New York and Denver stand at one instant",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -14,11 +15,31 @@ export const usZoneOffset = {
     },
     {
       invariantKind: "departure",
-      statement: "New York and Denver turn on the same instant.",
+      statement: "Saving time turns at two o'clock in the morning on the wall.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A zone further west therefore turns later in UTC.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Denver turns two hours after New York.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Spring is read against the winter offset of the zone being asked about.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Autumn is read against the winter offset less the hour saving time added.",
     },
     {
       invariantKind: "constraint",
       statement: "The rule standing today is applied to every year.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The zone database is what these offsets are judged against.",
     },
   ],
 } as const satisfies Module
