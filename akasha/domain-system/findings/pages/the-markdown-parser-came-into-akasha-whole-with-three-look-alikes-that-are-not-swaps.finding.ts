@@ -1,9 +1,9 @@
 import type { Finding } from "../finding.page-type.ts"
 
-export const theMarkdownParserOutsideAkashaHasNoReaderInsideIt = {
-  id: "01a0655b-e08f-7f62-83c7-8231f8a18b22",
+export const theMarkdownParserCameIntoAkashaWholeWithThreeLookAlikesThatAreNotSwaps = {
+  id: "01a068c7-6465-7be4-999c-c325b1a20b79",
   pageTypeSlug: "finding",
-  slug: "the-markdown-parser-outside-akasha-has-no-reader-inside-it",
+  slug: "the-markdown-parser-came-into-akasha-whole-with-three-look-alikes-that-are-not-swaps",
   domainSlug: "domain/akasha-migration",
   claim:
     "The old markdown pages parser and shape checker is inside akasha as `@akasha/markdown-pages`, carried whole rather than left to die with the markdown pages. Its 58 modules cover what the root `page/` directory held: the document parser and shape checker, frontmatter, the property registry, the file tree, globs, the beside-file and uncommitted-sidecar machinery, and `page-types`. Akasha modules and `tools/lib` both read it by package name. The shapes it parses into still come from `@akasha/pages-system/markdown-document`, which holds those types and nothing that parses.",

@@ -1,9 +1,9 @@
 import type { Finding } from "../finding.page-type.ts"
 
-export const theMarkdownSidecarStoreIsAReachWithNoPackageNameToSpellIt = {
-  id: "01a06861-24c9-7017-8cc4-da891d5fe344",
+export const theMarkdownSidecarHasAPackageNameAndTheTypescriptSidecarIsNotASwapForIt = {
+  id: "01a068c7-6464-7dcd-ad18-b862a3d16976",
   pageTypeSlug: "finding",
-  slug: "the-markdown-sidecar-store-is-a-reach-with-no-package-name-to-spell-it",
+  slug: "the-markdown-sidecar-has-a-package-name-and-the-typescript-sidecar-is-not-a-swap-for-it",
   domainSlug: "domain/akasha-migration",
   claim:
     "The markdown uncommitted sidecar store has a package name: `@akasha/markdown-pages/uncommitted`. Eight files under `tools/lib` reach it by that specifier and an akasha module may spell it the same way, so a module needing the sidecar no longer has to take the reading as a parameter or wait for a directory to move. What still earns its own name is `tools/lib/step-definition.ts`: a step's definition is a nested mapping and `withUncommitted` flattens a nested value to text, so no page query answers it and one function does.",
