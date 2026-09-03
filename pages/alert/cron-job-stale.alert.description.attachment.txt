@@ -1,3 +1,0 @@
-Last successful run is older than twice this CronJob's own period — it has silently stopped producing successful runs.
-
-Check: kubectl get cronjob -n {{ $labels.namespace }} {{ $labels.cronjob }}

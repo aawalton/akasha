@@ -1,3 +1,0 @@
-A backup-related job has failed.
-
-Check logs: kubectl logs -n {{ $labels.namespace }} job/{{ $labels.job_name }}

@@ -1,5 +1,0 @@
-{{ $labels.domain }} is under 7 days from registry expiry.
-
-When it lapses this is not a degradation, it is a TOTAL outage of everything under that domain — every hostname, every TLS cert, every deploy target, all at once — and recovery is at the registry's mercy, not ours.
-
-Renew it now at the Cloudflare Registrar dashboard; it is a credit-card action nobody else can take.
