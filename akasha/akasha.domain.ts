@@ -60,7 +60,7 @@ export const akasha = {
     {
       invariantKind: "departure",
       statement:
-        "Some two thousand two hundred of this repository's near eighty-five thousand files sit in akasha.",
+        "Some thirty-two thousand of this repository's hundred thousand files sit in akasha.",
     },
     {
       invariantKind: "departure",
