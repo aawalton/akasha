@@ -10,7 +10,6 @@
     "audhdalan/web",
     "collections/exercises",
     "collections/litrpg",
-    "collections/music",
     "editor-extension",
     "infra/analysis-complexity-cli",
     "infra/analysis-complexity-core",
