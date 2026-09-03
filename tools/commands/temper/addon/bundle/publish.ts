@@ -1,13 +1,13 @@
-
-export const summary = "Build the Temper addon bundle here and publish it to the cluster registry under its content hash"
+export const summary =
+  "Build the Temper addon bundle here and publish it to the cluster registry under its content hash"
 
 import { createHash } from "node:crypto"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { dataError, operationalError } from "../../../../lib/exit.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"
-import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import type { CommandHelp } from "../../../../ops/surface.ts"
 
 const BUILD_CEILING_MS = 30 * 60 * 1000
@@ -34,7 +34,7 @@ const PULL_REGISTRY = "registry.registry.svc.cluster.local:5000"
 
 const DEFAULT_PUSH_REGISTRY = "192.168.68.87:30500"
 
-const TAG_FILE = "temper/web/deploy/addon-bundle-image.ts"
+const TAG_FILE = "akasha/temper/temper-web/deploy/addon-bundle-image.ts"
 
 const SHA_PLACEHOLDER = "0".repeat(40)
 
@@ -61,10 +61,15 @@ export const help: CommandHelp = {
       description: "Build and hash, then stop. Push nothing and write nothing.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
+  envVars: [
+    { name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." },
+  ],
   exits: [
     { code: 2, meaning: "the build produced no zip, or produced one this could not read" },
-    { code: 3, meaning: "the build, the image assembly or the push failed or ran past its ceiling" },
+    {
+      code: 3,
+      meaning: "the build, the image assembly or the push failed or ran past its ceiling",
+    },
   ],
   examples: [
     "ops temper addon bundle publish --code-root ~/repos/akasha",
@@ -201,7 +206,13 @@ export default async function temperAddonBundlePublish(args: readonly string[]):
         "copying the bundle into the image"
       )
       mustRun(
-        ["buildah", "copy", container, join(outDir, VERSION_NAME), `${IMAGE_PAYLOAD_DIR}/${VERSION_NAME}`],
+        [
+          "buildah",
+          "copy",
+          container,
+          join(outDir, VERSION_NAME),
+          `${IMAGE_PAYLOAD_DIR}/${VERSION_NAME}`,
+        ],
         PUSH_CEILING_MS,
         "copying the version file into the image"
       )

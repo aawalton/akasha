@@ -4,7 +4,7 @@ import type { CheckConfig } from "./check-configs-types"
 
 const ADDON_BUILD_CHECK_NAME = "addon-build"
 
-export const ADDON_BUNDLE_BUILD_PACKAGES: ReadonlySet<string> = new Set(["@temper/web"])
+export const ADDON_BUNDLE_BUILD_PACKAGES: ReadonlySet<string> = new Set(["@akasha/temper-web"])
 
 export interface AppBuildCandidate {
   readonly name: string

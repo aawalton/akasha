@@ -1,6 +1,6 @@
 import type { NamespaceProfile } from "@akasha/workflow-language/rbac-types"
 
-export const packageName = "@temper/web"
+export const packageName = "@akasha/temper-web"
 
 export const profiles: NamespaceProfile[] = [
   {
