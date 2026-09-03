@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const ringDips = {
+  id: "019ebc77-d063-7458-be62-6abfe6165cd1",
+  pageTypeSlug: "exercise",
+  slug: "ring-dips",
+  title: "Ring Dips",
+  exerciseCategory: "strength",
+  equipment: "other",
+  exerciseExternalId: "Ring_Dips",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Ring_Dips",
+  force: "push",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ring_Dips/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ring_Dips/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "h-push",
+  muscleFocus: "push",
+  primaryMuscles: ["triceps"],
+  scoringMode: "reps",
+  secondaryMuscles: ["chest", "shoulders"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

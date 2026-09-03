@@ -1,0 +1,47 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const sandbagLoad = {
+  id: "019ebc77-d436-7720-b0b8-1b64ae6e5096",
+  pageTypeSlug: "exercise",
+  slug: "sandbag-load",
+  title: "Sandbag Load",
+  exerciseCategory: "strongman",
+  equipment: "other",
+  exerciseExternalId: "Sandbag_Load",
+  exerciseExternalLink:
+    "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Sandbag_Load",
+  force: "pull",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sandbag_Load/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sandbag_Load/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "squat",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps"],
+  scoringMode: "reps",
+  secondaryMuscles: [
+    "abdominals",
+    "biceps",
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower-back",
+    "middle-back",
+    "shoulders",
+    "traps",
+  ],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise
