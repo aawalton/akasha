@@ -3,7 +3,7 @@ import {
   LOG,
   READER,
   readRulePopulations,
-} from "@tools/lib/rule-population-sweep/sweep"
+} from "../rule-population-reading/rule-population-reading.module.code.ts"
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2)

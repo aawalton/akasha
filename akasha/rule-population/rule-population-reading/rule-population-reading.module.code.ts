@@ -1,14 +1,11 @@
+import { BLIND_SPOTS, gatherRulePopulations } from "@akasha/checks/rule-population-audit"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import type { AuditReading } from "@tools/lib/audit-reading"
+import { writeMessage } from "@tools/lib/message-file"
 import {
   buildRulePopulationNotification,
   type EmptyRuleLine,
-} from "@akasha/rule-population/rule-population-notice"
-import {
-  BLIND_SPOTS,
-  gatherRulePopulations,
-} from "../../../akasha/checks/cluster-checks/modules/rule-population-audit/rule-population-audit.module.code.ts"
-import type { AuditReading } from "../audit-reading.ts"
-import { writeMessage } from "../message-file.ts"
+} from "../rule-population-notice/rule-population-notice.module.code.ts"
 
 export const LOG = "[rule-population-sweep]"
 

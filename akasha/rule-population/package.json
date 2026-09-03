@@ -3,6 +3,12 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./rule-population-notice": "./rule-population-notice/rule-population-notice.module.code.ts"
+    "./rule-population-notice": "./rule-population-notice/rule-population-notice.module.code.ts",
+    "./rule-population-reading": "./rule-population-reading/rule-population-reading.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/checks": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@tools/lib": "workspace:*"
   }
 }
