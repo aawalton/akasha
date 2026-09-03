@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const aerialFlier = {
   id: "01a0657e-1326-7639-a707-0816235d3d62",

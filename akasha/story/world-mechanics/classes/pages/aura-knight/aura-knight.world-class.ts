@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const auraKnight = {
   id: "01a0657e-01ae-76b7-87bc-211cae4b891f",

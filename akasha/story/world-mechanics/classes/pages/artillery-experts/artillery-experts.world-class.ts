@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const artilleryExperts = {
   id: "01a0657e-01ab-744e-8df3-b2fce1909683",

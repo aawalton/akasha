@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const auctioneer = {
   id: "01a0657e-1336-795c-8735-50163a6d83a4",

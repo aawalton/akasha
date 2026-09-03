@@ -1,4 +1,4 @@
-import type { WorldCarriedMemory } from "../../world-carried-memory.page-type.ts"
+import type { WorldCarriedMemory } from "../world-carried-memory.page-type.ts"
 
 export const pyriteFloodedWatersTribe = {
   id: "01a0655a-0688-7736-9a97-dd69526ca411",

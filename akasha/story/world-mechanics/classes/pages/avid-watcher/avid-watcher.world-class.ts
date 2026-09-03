@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const avidWatcher = {
   id: "01a0657e-01af-7c5b-a17a-65d8ca51a7af",

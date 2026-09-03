@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const archmageOfTectonicMight = {
   id: "01a0657e-01aa-755b-a37c-28af9c13bcad",

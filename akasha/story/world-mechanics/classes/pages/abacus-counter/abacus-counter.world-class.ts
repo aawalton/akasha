@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const abacusCounter = {
   id: "01a0657e-01a1-7b5e-a806-7325f4775a04",

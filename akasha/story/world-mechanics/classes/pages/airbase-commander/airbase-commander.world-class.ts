@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const airbaseCommander = {
   id: "01a0657e-1327-77f2-91e4-a9e4d194db29",

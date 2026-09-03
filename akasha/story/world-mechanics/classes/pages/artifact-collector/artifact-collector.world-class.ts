@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const artifactCollector = {
   id: "01a0657e-1331-7765-8df7-2893cb914b6a",

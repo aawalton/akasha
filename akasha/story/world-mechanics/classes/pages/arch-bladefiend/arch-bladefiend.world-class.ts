@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const archBladefiend = {
   id: "01a0657e-132d-7d6b-b6bc-6f75bf0d962a",

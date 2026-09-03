@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const archmageOfSky = {
   id: "01a0657e-132f-717a-8129-b5ded11ab8e9",

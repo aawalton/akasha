@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const avidReader = {
   id: "01a0657e-1336-7c7a-8fc2-b9b823b09f20",

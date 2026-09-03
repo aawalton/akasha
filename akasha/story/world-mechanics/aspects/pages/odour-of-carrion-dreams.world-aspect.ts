@@ -1,4 +1,4 @@
-import type { WorldAspect } from "../../world-aspect.page-type.ts"
+import type { WorldAspect } from "../world-aspect.page-type.ts"
 
 export const odourOfCarrionDreams = {
   id: "01a0655a-0687-737c-b9b5-121c2c9cdf92",

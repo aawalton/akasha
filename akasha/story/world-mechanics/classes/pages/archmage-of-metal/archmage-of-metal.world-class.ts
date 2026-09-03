@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const archmageOfMetal = {
   id: "01a0657e-01aa-77bb-815c-57d592de7ed3",

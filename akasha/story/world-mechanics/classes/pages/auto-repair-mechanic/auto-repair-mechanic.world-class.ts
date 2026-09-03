@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const autoRepairMechanic = {
   id: "01a0657e-1336-7b83-957d-c0b632b18f30",

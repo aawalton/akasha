@@ -1,4 +1,4 @@
-import type { WorldBoon } from "../../world-boon.page-type.ts"
+import type { WorldBoon } from "../world-boon.page-type.ts"
 
 export const commonfolkSBlessingLesserFolkSVitalesGift = {
   id: "01a0655a-0687-7c4c-ac0d-726c51518feb",
