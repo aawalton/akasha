@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const copycatSpellcaster = {
   id: "01a0657e-01c9-7f70-9237-f390a0e3aa18",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const windcutterStrikes = {
   id: "01a0657d-0336-7ff8-ac58-2bb23667c30a",

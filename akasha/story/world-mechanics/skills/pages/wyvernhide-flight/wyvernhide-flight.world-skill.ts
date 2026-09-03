@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const wyvernhideFlight = {
   id: "01a0657d-0338-774d-ae26-febe2831e50b",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const counterfeiters = {
   id: "01a0657e-01ca-7fa6-8721-a0648af3fd67",

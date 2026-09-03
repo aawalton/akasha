@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const chaosSchemer = {
   id: "01a0657e-01c4-7374-93a6-2e1d3a850671",

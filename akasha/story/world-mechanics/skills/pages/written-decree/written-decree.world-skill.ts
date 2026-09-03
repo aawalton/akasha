@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const writtenDecree = {
   id: "01a0657d-0338-784a-ad8f-bef2c4735077",

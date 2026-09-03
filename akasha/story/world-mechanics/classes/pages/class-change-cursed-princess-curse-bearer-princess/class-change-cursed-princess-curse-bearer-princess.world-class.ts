@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const classChangeCursedPrincessCurseBearerPrincess = {
   id: "01a0657e-134a-74f7-9402-7f0ce6f1a36b",

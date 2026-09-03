@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const courtesanOfReflectedFacades = {
   id: "01a0657e-01cb-765f-b5d2-cbb893ce40cd",

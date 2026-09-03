@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const caravanner = {
   id: "01a0657e-01c2-7abe-b7dd-95faabd28d87",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const coffeeMaker = {
   id: "01a0657e-134c-7341-9fbc-c11d1e1b494e",
