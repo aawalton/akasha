@@ -36,6 +36,7 @@ export const command = {
     "command/test",
     "command/track",
     "command/tracking",
+    "command/work-tree",
     "command/write",
     "record-property/taking",
     "relation-property/change-kind-slug",
