@@ -1,4 +1,3 @@
-
 export const REVIVE_LAUNCH_STATUSES = ["spawned", "revived"] as const
 
 export type ReviveLaunchStatus = (typeof REVIVE_LAUNCH_STATUSES)[number]

@@ -1,8 +1,11 @@
 import {
   classifyReviveVerifyExit,
   type ReviveVerifySignal,
-} from "@tools/lib/decide-revive-verify-signal"
-import { LOG, REPO_ROOT } from "@tools/lib/supervisor-config"
+} from "@akasha/seat-system/seat-revive-verify-signal"
+import {
+  LOG,
+  REPO_ROOT,
+} from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
 import type { RecipientResolverConfig } from "../recipient-resolver-config/recipient-resolver-config.module.code.ts"
 
 function assertNever(value: never): never {

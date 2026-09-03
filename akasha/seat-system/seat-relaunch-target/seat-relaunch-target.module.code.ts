@@ -1,9 +1,9 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { frontmatterFromHistory, nameFromHistory } from "./seat-page-history.ts"
-import { pageValuesOf } from "./seat-page-values.ts"
-import { agentPresence } from "./seat-presence-read.ts"
-import { type SeatPresence } from "./seat-proc-key.ts"
-import { sessionOf } from "./seat-session.ts"
+import { frontmatterFromHistory, nameFromHistory } from "@tools/lib/seat-page-history"
+import { pageValuesOf } from "@tools/lib/seat-page-values"
+import { agentPresence } from "@tools/lib/seat-presence-read"
+import type { SeatPresence } from "@tools/lib/seat-proc-key"
+import { sessionOf } from "@tools/lib/seat-session"
 
 const TITLE = "title"
 
@@ -36,9 +36,9 @@ function fromHistory(agentId: string): RelaunchTarget | null {
 export async function resolveRelaunchTarget(
   agentId: string
 ): Promise<{ readonly target: RelaunchTarget } | { readonly error: string }> {
-  // The old page, then akasha, then the history — the same order everywhere else reads in. A
-  // relaunch stands a seat back up from what this answers, so a seat read as stating nothing is
-  // relaunched without the account it signs in as.
+  // The page, then the history — the same order everywhere else reads in. A relaunch stands a
+  // seat back up from what this answers, so a seat read as stating nothing is relaunched
+  // without the account it signs in as.
   const seat = pageValuesOf(agentId)
   if (seat === null) {
     const remembered = fromHistory(agentId)
@@ -50,8 +50,7 @@ export async function resolveRelaunchTarget(
       name: textAt(seat, TITLE),
       account: textAt(seat, ACCOUNT_KEY),
       // Presence is one answer for a seat standing and a seat gone alike, so it is asked for by
-      // id. This branched on the old page and read presence off it while one stood, which reached
-      // akasha through the page's own id anyway.
+      // id rather than read off whichever page happened to be found.
       presence: agentPresence(agentId),
       sessionId: sessionOf(agentId)?.value ?? null,
     },

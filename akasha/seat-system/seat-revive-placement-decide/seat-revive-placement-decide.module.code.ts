@@ -1,4 +1,3 @@
-
 export const REVIVE_PLACEMENTS = ["restart-in-place", "headless"] as const
 
 export type RevivePlacement = (typeof REVIVE_PLACEMENTS)[number]

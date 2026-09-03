@@ -1,4 +1,4 @@
-import type { ReviveVerifySignal } from "@tools/lib/decide-revive-verify-signal"
+import type { ReviveVerifySignal } from "@akasha/seat-system/seat-revive-verify-signal"
 import type { CommsInput, OnDemandAgentSpec } from "@tools/lib/decide-wake-match"
 
 export interface RecipientResolverAgentRow {

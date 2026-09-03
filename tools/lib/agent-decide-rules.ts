@@ -4,15 +4,21 @@ import {
   PENDING_VERDICTS,
   pendingAllowsStopAlone,
 } from "@akasha/seat-system/seat-pending"
+import {
+  decideRelaunchName,
+  RELAUNCH_NAME_OUTCOMES,
+} from "@akasha/seat-system/seat-relaunch-name-decide"
+import {
+  decideRevivePlacement,
+  REVIVE_PLACEMENTS,
+} from "@akasha/seat-system/seat-revive-placement-decide"
 import { fail } from "./command.ts"
-import { decideRevivePlacement, REVIVE_PLACEMENTS } from "./decide-revive-placement.ts"
 import {
   decideSpawnName,
   type SeatNameComposition,
   SPAWN_NAME_DECISIONS,
 } from "./decide-spawn-name.ts"
 import { bool, maybe, num, obj, oneOf, str } from "./narrow.ts"
-import { decideRelaunchName, RELAUNCH_NAME_OUTCOMES } from "./relaunch-name.ts"
 import { SEAT_PRESENCES } from "./seat-proc-key.ts"
 import { decideSkillTokenGuard, SKILL_TOKEN_GUARD_DECISIONS } from "./skill-token-guard.ts"
 import { decideSpawnGuard, SPAWN_GUARD_DECISIONS } from "./spawn-guard.ts"

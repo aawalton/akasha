@@ -132,7 +132,13 @@
     "./supervisor-wait-resume": "./supervising/supervisor-wait-resume/supervisor-wait-resume.module.code.ts",
     "./supervisor-wait-resume-answer": "./supervising/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts",
     "./supervisor-wait-resume-decide": "./supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts",
-    "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts"
+    "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts",
+    "./seat-revive-launch-decide": "./seat-revive-launch-decide/seat-revive-launch-decide.module.code.ts",
+    "./seat-revive-placement-decide": "./seat-revive-placement-decide/seat-revive-placement-decide.module.code.ts",
+    "./seat-revive-io-verify-decide": "./seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts",
+    "./seat-revive-verify-signal": "./seat-revive-verify-signal/seat-revive-verify-signal.module.code.ts",
+    "./seat-relaunch-name-decide": "./seat-relaunch-name-decide/seat-relaunch-name-decide.module.code.ts",
+    "./seat-relaunch-target": "./seat-relaunch-target/seat-relaunch-target.module.code.ts"
   },
   "dependencies": {
     "@akasha/utils-system": "workspace:*",
