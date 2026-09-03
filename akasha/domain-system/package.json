@@ -8,6 +8,6 @@
     "./initiative-slug": "./initiatives/properties/initiative-slug.relation-property.ts",
     "./persona-slug": "./initiatives/properties/persona-slug.relation-property.ts",
     "./domain-documents": "./domain-documents/domain-documents.module.code.ts",
-    "./domain-standing": "./domain-standing/domain-standing.module.code.ts"
+    "./domain-reading": "./domain-reading/domain-reading.module.code.ts"
   }
 }

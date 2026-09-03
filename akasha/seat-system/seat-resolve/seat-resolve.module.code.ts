@@ -7,7 +7,7 @@ import {
   domainNamed,
   slugsIn,
 } from "@akasha/domain-system/domain-documents"
-import { domainsStanding } from "@akasha/domain-system/domain-standing"
+import { domainsRead } from "@akasha/domain-system/domain-reading"
 import { fileStemOf } from "@akasha/file-page-identity"
 import { diskFileTree } from "@akasha/markdown-pages/file-tree"
 import { type Frontmatter, parseFrontmatter } from "@akasha/markdown-pages/frontmatter"
@@ -46,7 +46,7 @@ export function scan(root: string): Found {
     }
     frontmatter.set(relPath, parseFrontmatter(body))
   }
-  const standing = domainsStanding(root)
+  const standing = domainsRead(root)
   for (const one of standing) frontmatter.set(one.relPath, one.frontmatter)
   const { slugs: fromMarkdown } = slugsIn(frontmatter)
   const slugs = new Map(fromMarkdown)

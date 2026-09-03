@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code-system/module"
 
-export const domainStanding = {
+export const domainReading = {
   id: "01a06949-b280-73e9-9ded-65530eee9efa",
   pageTypeSlug: "module",
-  slug: "domain-standing",
+  slug: "domain-reading",
   definition:
     "every domain page in a repo read back as frontmatter fields, with parents from part slugs",
   code: "ts",

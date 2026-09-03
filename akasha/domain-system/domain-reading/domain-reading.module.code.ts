@@ -7,7 +7,7 @@ const DOMAIN = "domain"
 
 const PARENTS_KEY = "domain-parent-slug"
 
-export interface DomainStanding {
+export interface DomainRead {
   readonly relPath: string
   readonly slug: string
   readonly address: string
@@ -78,9 +78,9 @@ function parentsIn(held: readonly Held[]): ReadonlyMap<string, readonly string[]
   return parents
 }
 
-const byRoot = new Map<string, readonly DomainStanding[]>()
+const byRoot = new Map<string, readonly DomainRead[]>()
 
-export function domainsStanding(root: string): readonly DomainStanding[] {
+export function domainsRead(root: string): readonly DomainRead[] {
   const done = byRoot.get(root)
   if (done !== undefined) return done
   everyPath(root)
