@@ -9,7 +9,7 @@ export const vmfxx = {
   accountSlug: "alan-walton-roth-ira-brokerage-account-0790",
   securityName: "Vanguard Federal Money Market Fund",
   ticker: "VMFXX",
-  quantity: 117.7,
+  quantity: 118.06,
   costBasis: 0,
-  holdingValue: 117.7,
+  holdingValue: 118.06,
 } as const satisfies MonarchHolding
