@@ -58,7 +58,6 @@
         "@googleapis/drive": "^20.2.0",
         "@googleapis/gmail": "^17.0.0",
         "@infra/ci-workflows": "workspace:*",
-        "@infra/workspace-cli": "workspace:*",
         "@modelcontextprotocol/sdk": "^1.30.0",
         "@supabase/supabase-js": "^2.104.0",
         "@vscode/ripgrep": "^1.18.0",
@@ -1357,6 +1356,11 @@
     },
     "akasha/rule-population": {
       "name": "@akasha/rule-population",
+      "dependencies": {
+        "@akasha/checks": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@tools/lib": "workspace:*",
+      },
     },
     "akasha/rules-engine": {
       "name": "@akasha/rules-engine",
@@ -3027,18 +3031,6 @@
         "playwright-core": "1.61.1",
       },
     },
-    "infra/workspace-cli": {
-      "name": "@infra/workspace-cli",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/git": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "readouts": {
       "name": "readouts",
       "dependencies": {
@@ -3898,8 +3890,6 @@
     "@infra/eso-rig": ["@infra/eso-rig@workspace:infra/eso-rig"],
 
     "@infra/scripts": ["@infra/scripts@workspace:infra/scripts"],
-
-    "@infra/workspace-cli": ["@infra/workspace-cli@workspace:infra/workspace-cli"],
 
     "@ionic/cli-framework-output": ["@ionic/cli-framework-output@2.2.8", "", { "dependencies": { "@ionic/utils-terminal": "2.3.5", "debug": "^4.0.0", "tslib": "^2.0.1" } }, "sha512-TshtaFQsovB4NWRBydbNFawql6yul7d5bMiW1WYYf17hd99V6xdDdk3vtF51bw6sLkxON3bDQpWsnUc9/hVo3g=="],
 

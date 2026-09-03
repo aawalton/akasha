@@ -68,7 +68,6 @@
     "@akasha/upscale": "workspace:*",
     "@akasha/wan": "workspace:*",
     "@akasha/zimage": "workspace:*",
-    "@infra/workspace-cli": "workspace:*",
     "@modelcontextprotocol/sdk": "^1.30.0",
     "@supabase/supabase-js": "^2.104.0",
     "@vscode/ripgrep": "^1.18.0",
