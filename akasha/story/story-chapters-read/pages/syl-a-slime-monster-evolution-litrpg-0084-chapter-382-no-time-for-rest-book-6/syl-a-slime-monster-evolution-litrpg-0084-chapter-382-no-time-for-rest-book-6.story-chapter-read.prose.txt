@@ -78,3 +78,26 @@ I wonder what effect this would have on humans, elves, or dwarves?
 
 The temptation to teleport to Saltport and cast [Map] in the middle of the marketplace was overwhelming, but I ended up not listening to those seductive whispers. If this were a taboo, then revealing it to too many people might cause a random god to smite me for all I knew. For now, it was safer to keep this under wraps.
 
+Now that I had [Map], I wanted to modify it so I could use [Triangulate] on it, or with it, but before that, I needed to upgrade this spell, as it was too barebones. The [Mapping] skill got plenty of upgrades as it leveled up, but what I wanted to apply to [Map] was the landmark feature. Once I had landmarks, in theory, I could get the coordinates from them and then teleport myself there. This was the ultimate goal I had been striving for and pieced together after multiple uses of [Skill Deconstruct] on the two skills.
+
+Compared to before, adding a few new features to it was actually completed rather quickly, and soon, I had landmarks added to the spell. At the same time, I discovered that our island had actually been officially named Tanglebay, as it appeared on my [Map]. I showed it to Vee, and although she was uncomfortable, she was still delighted to see it there, clear as day, on the system interface.
+
+Is that the reason? I suddenly wondered.
+
+Everyone's access to the system was personal, and as far as I was aware, you couldn't affect someone else's interface. For example, if I were reading a skill, it was, other than attempting to read my body language, an entirely private affair. Yet here I was projecting a [Map] that forced itself into others' systems, regardless of their opinion. Yes, there was sharing skills or traits, but that was something actually granted by the system itself.
+
+Very strange… Maybe it's something to ask about next time I get a chance to talk with Gramps.
+
+I moved on from that subject, and now, arguably, it was the most difficult part of the matter. I had [Map], but now I needed to add [Triangulate] to it. As expected, this was not simple, and I constantly ran into hurdles I couldn't quickly circumvent. When this happened, I would try a few times before pivoting, hoping to gain more [Triangulate] levels as a byproduct and then dismantle it for more information. At the same time, this would let me progress some of my other projects, which I still had far too many of.
+
+My artificial affinity was looking good, and with a few more dismantles, I might have a breakthrough there. As for [Spatial Severing], I had reached a point where I had reproduced it as my very first dimensional attack spell. I had hoped I was the first to discover it, but sadly, I was beaten to it, and it was officially named [Rift Rend].
+
+Well, at least that's a cool name! It even kept the alliteration.
+
+My attempts to create a dimensional aura were also progressing well, and I had a few rudimentary ones that were already working, such as an aura of expanded space around me. What I really wanted was an aura version of [Displaced] so I could make every enemy around me weaker to dimensional tampering, but as if the gods knew what an absurd ability that was, it was proving quite the unexpected struggle.
+
+Even when I tried making it a domain, the results were almost the same. I swear, maybe it's the paranoia talking, but I feel like someone or something is interfering here. Why else would my spell weaves fail so spectacularly?
+
+Regrettably, my cries of unfairness went unanswered, so I had to continue struggling to have my dream spell fully realized. Yet when a door was closed, a window opened, as I had a rather timely breakthrough with [Triangulate]! Yes, my latest deconstruction of this fantastic skill seemed to finally touch on the aspects I wanted: coordinate storage!
+
+Next stop, coordinate calculation!
