@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const restoringFocus22237 = {
-  id: "01a05fd1-7c94-7a01-92a4-6f74c18cae00",
+  id: "019e6f53-a62f-7f89-b3f8-48e2a7990e4e",
   pageTypeSlug: "temper-skill",
   slug: "restoring-focus-22237",
   title: "Restoring Focus",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const sapEssence36891 = {
-  id: "01a05fd1-7caf-7f3d-b495-b9502661e0ad",
+  id: "019e6f53-a6ae-711a-877a-e113e883dd0d",
   pageTypeSlug: "temper-skill",
   slug: "sap-essence-36891",
   title: "Sap Essence",

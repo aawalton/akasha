@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const scatterShot = {
-  id: "01a05fd1-7cb2-7246-bf55-be847bc6b045",
+  id: "019e6f53-a6c2-724a-b271-7efdb003bbe8",
   pageTypeSlug: "temper-skill",
   slug: "scatter-shot",
   title: "Scatter Shot",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const shimmeringShield = {
-  id: "01a05fd1-7cc0-73f6-97b8-e48327a2205a",
+  id: "019e6245-a730-7287-98cb-a716d5caefc2",
   pageTypeSlug: "temper-skill",
   slug: "shimmering-shield",
   title: "Shimmering Shield",

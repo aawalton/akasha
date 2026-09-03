@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const reverberatingBash38455 = {
-  id: "01a05fd1-7c98-7d27-b6bf-60286618bf85",
+  id: "019e6f53-a644-7bf0-84ad-6dfbdc021180",
   pageTypeSlug: "temper-skill",
   slug: "reverberating-bash-38455",
   title: "Reverberating Bash",

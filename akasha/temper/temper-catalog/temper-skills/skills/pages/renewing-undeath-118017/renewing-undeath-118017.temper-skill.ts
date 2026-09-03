@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const renewingUndeath118017 = {
-  id: "01a05fd1-7c8a-792f-b2bd-6f0cd79f5b71",
+  id: "019e6f53-a601-716e-9b5c-ff0fe8b04326",
   pageTypeSlug: "temper-skill",
   slug: "renewing-undeath-118017",
   title: "Renewing Undeath",

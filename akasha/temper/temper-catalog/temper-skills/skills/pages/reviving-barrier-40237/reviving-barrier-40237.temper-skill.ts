@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const revivingBarrier40237 = {
-  id: "01a05fd1-7c9a-7a21-a60e-02928db89984",
+  id: "019e6f53-a64f-78e5-8c35-a8783ad7c4f9",
   pageTypeSlug: "temper-skill",
   slug: "reviving-barrier-40237",
   title: "Reviving Barrier",

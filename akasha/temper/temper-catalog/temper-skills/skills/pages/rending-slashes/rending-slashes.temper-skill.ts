@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const rendingSlashes = {
-  id: "01a05fd1-7c88-7594-ba76-1b58f93822fd",
+  id: "019e6226-010d-723a-850d-924092526e23",
   pageTypeSlug: "temper-skill",
   slug: "rending-slashes",
   title: "Rending Slashes",

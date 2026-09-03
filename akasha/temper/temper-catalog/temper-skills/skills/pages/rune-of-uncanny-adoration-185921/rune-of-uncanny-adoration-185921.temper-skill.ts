@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const runeOfUncannyAdoration185921 = {
-  id: "01a05fd1-7ca5-7925-8b82-e465ad992f0a",
+  id: "019e6f53-a687-745b-ac9b-42a2d9d71acb",
   pageTypeSlug: "temper-skill",
   slug: "rune-of-uncanny-adoration-185921",
   title: "Rune of Uncanny Adoration",

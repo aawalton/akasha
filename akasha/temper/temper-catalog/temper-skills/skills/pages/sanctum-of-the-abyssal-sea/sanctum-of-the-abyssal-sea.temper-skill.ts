@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const sanctumOfTheAbyssalSea = {
-  id: "01a05fd1-7cad-74fe-ad99-59ca4a84a499",
+  id: "019e6245-a721-7a85-b085-25fe581626c6",
   pageTypeSlug: "temper-skill",
   slug: "sanctum-of-the-abyssal-sea",
   title: "Sanctum of the Abyssal Sea",

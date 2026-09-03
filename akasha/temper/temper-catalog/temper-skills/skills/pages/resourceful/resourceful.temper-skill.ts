@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const resourceful = {
-  id: "01a05fd1-7c91-7fd4-a888-58cd48b84609",
+  id: "019e624a-12d9-79f1-9c01-3fe8bf8d527a",
   pageTypeSlug: "temper-skill",
   slug: "resourceful",
   title: "Resourceful",

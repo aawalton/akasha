@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const searingStrike = {
-  id: "01a05fd1-7cb5-7c6e-9091-b1a3a20135de",
+  id: "019e6f53-a6d0-7ac2-8995-320fb9599374",
   pageTypeSlug: "temper-skill",
   slug: "searing-strike",
   title: "Searing Strike",

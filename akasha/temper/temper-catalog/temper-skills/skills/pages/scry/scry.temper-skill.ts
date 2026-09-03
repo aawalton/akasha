@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const scry = {
-  id: "01a05fd1-7cb5-7fe8-9309-42bf1839ad36",
+  id: "019e6251-4ce6-7796-86c5-6618113274d2",
   pageTypeSlug: "temper-skill",
   slug: "scry",
   title: "Scry",

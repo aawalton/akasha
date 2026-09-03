@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const runespiteWard = {
-  id: "01a05fd1-7ca8-7a17-9fa5-23f842fc1b15",
+  id: "019e6f53-a693-725b-9a5e-794fee664f1d",
   pageTypeSlug: "temper-skill",
   slug: "runespite-ward",
   title: "Runespite Ward",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const runeCage = {
-  id: "01a05fd1-7ca1-757b-8ffa-0701a825556d",
+  id: "019e6245-a717-7510-985f-d25e2cee8631",
   pageTypeSlug: "temper-skill",
   slug: "rune-cage",
   title: "Rune Cage",

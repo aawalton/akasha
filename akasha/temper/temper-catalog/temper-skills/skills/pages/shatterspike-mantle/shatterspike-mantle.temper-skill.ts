@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const shatterspikeMantle = {
-  id: "01a05fd1-7cbc-78dc-a10d-ba1903aa8be6",
+  id: "019e6245-a72e-7138-8d6b-a1218362076e",
   pageTypeSlug: "temper-skill",
   slug: "shatterspike-mantle",
   title: "Shatterspike Mantle",

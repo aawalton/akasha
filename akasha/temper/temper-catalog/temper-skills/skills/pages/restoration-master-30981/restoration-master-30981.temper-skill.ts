@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const restorationMaster30981 = {
-  id: "01a05fd1-7c93-739d-a526-90db7174eb0e",
+  id: "019e6f53-a62b-76be-b0ed-2ba6d20fd9dd",
   pageTypeSlug: "temper-skill",
   slug: "restoration-master-30981",
   title: "Restoration Master",

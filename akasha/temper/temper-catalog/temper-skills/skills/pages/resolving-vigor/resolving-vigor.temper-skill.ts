@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const resolvingVigor = {
-  id: "01a05fd1-7c8f-7007-b177-12b1321a21e3",
+  id: "019e6251-4cdf-7613-9744-b1641dc991a1",
   pageTypeSlug: "temper-skill",
   slug: "resolving-vigor",
   title: "Resolving Vigor",

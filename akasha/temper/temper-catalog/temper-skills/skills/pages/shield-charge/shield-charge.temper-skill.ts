@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const shieldCharge = {
-  id: "01a05fd1-7cbd-7777-8d51-18cea7c5a07f",
+  id: "019e6f53-a6f5-77d7-9d15-330c120a4c80",
   pageTypeSlug: "temper-skill",
   slug: "shield-charge",
   title: "Shield Charge",

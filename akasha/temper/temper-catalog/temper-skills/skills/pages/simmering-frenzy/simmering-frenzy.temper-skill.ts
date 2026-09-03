@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const simmeringFrenzy = {
-  id: "01a05fd1-7cc6-7774-8d79-3f885c1865c6",
+  id: "019e6251-4cea-7829-b402-eab4185e76fc",
   pageTypeSlug: "temper-skill",
   slug: "simmering-frenzy",
   title: "Simmering Frenzy",

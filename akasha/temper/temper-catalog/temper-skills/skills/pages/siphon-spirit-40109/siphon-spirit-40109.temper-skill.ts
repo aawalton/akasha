@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const siphonSpirit40109 = {
-  id: "01a05fd1-7cc7-7e27-b3c7-860faa0e040f",
+  id: "019e6f53-a727-71fc-a3af-d5366773b252",
   pageTypeSlug: "temper-skill",
   slug: "siphon-spirit-40109",
   title: "Siphon Spirit",

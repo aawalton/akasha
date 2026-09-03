@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const seeTheUnseen = {
-  id: "01a05fd1-7cb6-7bc3-b0ec-b9b566ead25c",
+  id: "019e6238-c309-74f7-9b70-e38e850fb118",
   pageTypeSlug: "temper-skill",
   slug: "see-the-unseen",
   title: "See the Unseen",

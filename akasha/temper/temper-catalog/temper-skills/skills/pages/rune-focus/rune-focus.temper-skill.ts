@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const runeFocus = {
-  id: "01a05fd1-7ca2-75d5-97c3-0aac387a8ffe",
+  id: "019e6f53-a67a-78a7-9fb3-92d191b62d65",
   pageTypeSlug: "temper-skill",
   slug: "rune-focus",
   title: "Rune Focus",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const shuffle39195 = {
-  id: "01a05fd1-7cc3-7bba-9974-74c8eb55620f",
+  id: "019e6f53-a713-7c0d-8451-91806e516dc4",
   pageTypeSlug: "temper-skill",
   slug: "shuffle-39195",
   title: "Shuffle",

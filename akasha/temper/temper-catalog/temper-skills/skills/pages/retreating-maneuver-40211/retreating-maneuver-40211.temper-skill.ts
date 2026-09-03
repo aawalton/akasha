@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const retreatingManeuver40211 = {
-  id: "01a05fd1-7c95-71a0-a342-e09f8c128231",
+  id: "019e6f53-a639-7649-9ace-c56b97662ed9",
   pageTypeSlug: "temper-skill",
   slug: "retreating-maneuver-40211",
   title: "Retreating Maneuver",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const shatteringSpines = {
-  id: "01a05fd1-7cbc-7e73-b8cc-f0949848c945",
+  id: "019e6245-a72c-7fd5-b798-eebf800b56e3",
   pageTypeSlug: "temper-skill",
   slug: "shattering-spines",
   title: "Shattering Spines",

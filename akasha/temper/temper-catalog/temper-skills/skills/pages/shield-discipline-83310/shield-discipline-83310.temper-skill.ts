@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const shieldDiscipline83310 = {
-  id: "01a05fd1-7cbe-7765-8ae3-1fd8cf1d416b",
+  id: "019e6f53-a6f8-7d10-a037-83becd0c23ef",
   pageTypeSlug: "temper-skill",
   slug: "shield-discipline-83310",
   title: "Shield Discipline",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const shadowSilk41990 = {
-  id: "01a05fd1-7cb9-73e4-b1d0-de4c16a8ddb1",
+  id: "019e6f53-a6e1-73d6-9c84-9aa945a11862",
   pageTypeSlug: "temper-skill",
   slug: "shadow-silk-41990",
   title: "Shadow Silk",

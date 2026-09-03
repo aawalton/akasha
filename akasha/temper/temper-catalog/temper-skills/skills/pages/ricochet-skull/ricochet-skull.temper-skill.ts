@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const ricochetSkull = {
-  id: "01a05fd1-7c9a-7ba8-bd23-485bfe15d082",
+  id: "019e6245-a713-7291-9a60-a670b09c0638",
   pageTypeSlug: "temper-skill",
   slug: "ricochet-skull",
   title: "Ricochet Skull",

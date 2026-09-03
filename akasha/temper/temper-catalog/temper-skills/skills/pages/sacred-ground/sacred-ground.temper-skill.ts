@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const sacredGround = {
-  id: "01a05fd1-7cab-7340-a908-2c8b227f7f70",
+  id: "019e6245-a720-76c1-b776-2f3f12677730",
   pageTypeSlug: "temper-skill",
   slug: "sacred-ground",
   title: "Sacred Ground",

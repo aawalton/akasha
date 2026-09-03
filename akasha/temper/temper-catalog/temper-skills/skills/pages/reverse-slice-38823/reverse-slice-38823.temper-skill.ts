@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const reverseSlice38823 = {
-  id: "01a05fd1-7c99-7b89-8dee-56d74e8d72a5",
+  id: "019e6f53-a64a-74d4-973b-d97a80768ac4",
   pageTypeSlug: "temper-skill",
   slug: "reverse-slice-38823",
   title: "Reverse Slice",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const solarPrison = {
-  id: "01a05fd1-7ccf-75d5-9155-8a8ba0e6c0c8",
+  id: "019e6245-a737-7d1e-a3fa-f9f93ec02090",
   pageTypeSlug: "temper-skill",
   slug: "solar-prison",
   title: "Solar Prison",

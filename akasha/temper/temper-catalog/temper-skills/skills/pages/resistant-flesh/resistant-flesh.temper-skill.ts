@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const resistantFlesh = {
-  id: "01a05fd1-7c8e-7a6c-8949-d6753995aa93",
+  id: "019e6245-a70d-7b81-826f-6aa954b6837c",
   pageTypeSlug: "temper-skill",
   slug: "resistant-flesh",
   title: "Resistant Flesh",

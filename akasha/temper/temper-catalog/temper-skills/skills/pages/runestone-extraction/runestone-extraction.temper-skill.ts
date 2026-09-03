@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const runestoneExtraction = {
-  id: "01a05fd1-7ca8-7e6d-8666-58614505d905",
+  id: "019e6224-ccad-7112-acc3-fe8ee46f7bea",
   pageTypeSlug: "temper-skill",
   slug: "runestone-extraction",
   title: "Runestone Extraction",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const shadowImage = {
-  id: "01a05fd1-7cb7-76cd-92ec-1749e879c34b",
+  id: "019e6245-a729-7b57-ab5c-b359e3c26280",
   pageTypeSlug: "temper-skill",
   slug: "shadow-image",
   title: "Shadow Image",

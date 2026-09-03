@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const ruffian = {
-  id: "01a05fd1-7c9f-7072-9137-7a990a31618a",
+  id: "019e6226-0111-7451-91bc-f1b0a23ad0a6",
   pageTypeSlug: "temper-skill",
   slug: "ruffian",
   title: "Ruffian",

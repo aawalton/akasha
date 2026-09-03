@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const resistFlame36593 = {
-  id: "01a05fd1-7c8d-7b7c-bba5-d42dd0b5d893",
+  id: "019e6f53-a610-7fef-a334-ebfccef480c9",
   pageTypeSlug: "temper-skill",
   slug: "resist-flame-36593",
   title: "Resist Flame",

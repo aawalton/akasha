@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const repentance = {
-  id: "01a05fd1-7c8a-77de-aef3-d4980facda2a",
+  id: "019e6245-a70c-7a87-a019-123628e09060",
   pageTypeSlug: "temper-skill",
   slug: "repentance",
   title: "Repentance",

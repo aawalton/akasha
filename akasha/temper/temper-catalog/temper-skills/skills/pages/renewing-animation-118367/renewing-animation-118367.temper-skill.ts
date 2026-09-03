@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const renewingAnimation118367 = {
-  id: "01a05fd1-7c89-748c-93a8-b1b0acf83670",
+  id: "019e6f53-a5fd-74d5-bac5-79ccf1b506ad",
   pageTypeSlug: "temper-skill",
   slug: "renewing-animation-118367",
   title: "Renewing Animation",

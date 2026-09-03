@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const skeletalArcher = {
-  id: "01a05fd1-7cc9-7a80-949e-43d1d39cc0c3",
+  id: "019e6245-a734-7a61-9189-de56b3b13702",
   pageTypeSlug: "temper-skill",
   slug: "skeletal-archer",
   title: "Skeletal Archer",

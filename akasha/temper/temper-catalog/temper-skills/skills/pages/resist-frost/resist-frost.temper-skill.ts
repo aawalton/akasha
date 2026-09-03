@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const resistFrost = {
-  id: "01a05fd1-7c8e-7d33-805c-aa8693844e29",
+  id: "019e624a-12d8-78ad-9e7e-eb5c4ae251c2",
   pageTypeSlug: "temper-skill",
   slug: "resist-frost",
   title: "Resist Frost",

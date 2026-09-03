@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const savageStrength32638 = {
-  id: "01a05fd1-7cb0-73a3-8740-ab2658a219cd",
+  id: "019e6f53-a6b8-704a-9e0b-e5ef427a4531",
   pageTypeSlug: "temper-skill",
   slug: "savage-strength-32638",
   title: "Feral Cruelty",

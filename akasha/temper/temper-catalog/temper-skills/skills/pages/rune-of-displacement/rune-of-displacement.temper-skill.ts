@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const runeOfDisplacement = {
-  id: "01a05fd1-7ca2-73d3-a586-a540a5dd4b50",
+  id: "019e6245-a718-75fa-bcda-86dc582b1417",
   pageTypeSlug: "temper-skill",
   slug: "rune-of-displacement",
   title: "Rune of Displacement",

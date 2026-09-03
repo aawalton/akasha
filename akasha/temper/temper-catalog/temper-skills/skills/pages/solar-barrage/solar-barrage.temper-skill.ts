@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const solarBarrage = {
-  id: "01a05fd1-7ccd-7692-b358-0ddcc6024f25",
+  id: "019e6245-a735-7b13-a8e3-739d5fcdff7d",
   pageTypeSlug: "temper-skill",
   slug: "solar-barrage",
   title: "Solar Barrage",

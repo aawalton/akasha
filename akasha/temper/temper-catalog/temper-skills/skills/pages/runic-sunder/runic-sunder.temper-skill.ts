@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const runicSunder = {
-  id: "01a05fd1-7caa-762c-b548-e8cda38fc7a4",
+  id: "019e6245-a71f-72e5-8c96-b1a7ebd13b1c",
   pageTypeSlug: "temper-skill",
   slug: "runic-sunder",
   title: "Runic Sunder",

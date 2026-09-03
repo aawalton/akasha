@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const shatteringRocks32678 = {
-  id: "01a05fd1-7cbb-7fc0-9b8e-fb87a48d7028",
+  id: "019e6f53-a6ee-7edf-acb4-fb92731be620",
   pageTypeSlug: "temper-skill",
   slug: "shattering-rocks-32678",
   title: "Shattering Rocks",

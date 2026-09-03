@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const silverShards40300 = {
-  id: "01a05fd1-7cc6-7db4-9366-d927bfaf2cff",
+  id: "019e6f53-a720-77f4-a635-611c5dd35c14",
   pageTypeSlug: "temper-skill",
   slug: "silver-shards-40300",
   title: "Silver Shards",

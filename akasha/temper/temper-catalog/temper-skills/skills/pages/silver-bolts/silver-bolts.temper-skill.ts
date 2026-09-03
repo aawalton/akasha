@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const silverBolts = {
-  id: "01a05fd1-7cc4-7d5d-9931-a54a3612200c",
+  id: "019e6f53-a719-7d4e-859b-775602d9e7ed",
   pageTypeSlug: "temper-skill",
   slug: "silver-bolts",
   title: "Silver Bolts",

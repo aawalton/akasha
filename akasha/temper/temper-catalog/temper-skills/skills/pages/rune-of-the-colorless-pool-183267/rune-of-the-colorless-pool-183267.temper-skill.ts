@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const runeOfTheColorlessPool183267 = {
-  id: "01a05fd1-7ca4-769e-8b47-3d22cb7a2f95",
+  id: "019e6f53-a684-7034-bee7-d203c2925bf2",
   pageTypeSlug: "temper-skill",
   slug: "rune-of-the-colorless-pool-183267",
   title: "Rune of the Colorless Pool",

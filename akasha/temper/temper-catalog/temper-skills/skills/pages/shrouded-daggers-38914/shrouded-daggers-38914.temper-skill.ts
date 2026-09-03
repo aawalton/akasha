@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const shroudedDaggers38914 = {
-  id: "01a05fd1-7cc2-73f4-af91-257bc190f211",
+  id: "019e6f53-a710-771e-bb7d-222c25c41887",
   pageTypeSlug: "temper-skill",
   slug: "shrouded-daggers-38914",
   title: "Shrouded Daggers",
