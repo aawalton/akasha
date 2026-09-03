@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const lotionRegimen = {
   id: "01a06594-c67a-701a-9e3c-29d2d89e2c7a",
