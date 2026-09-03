@@ -1,1 +1,0 @@
-Sheltering and close, the warmth now holding a spoken thing inside it. The room has absorbed the first words easily, the way it absorbs all low sound — they don't carry, they stay in the corner. An unhurried intimacy, the rain still drawing the walls inward, the music laying itself softly over the pause that follows his offer.

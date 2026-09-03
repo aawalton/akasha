@@ -1,7 +1,0 @@
-{
-  "elements": [
-    { "slug": "alan", "kind": "agent" },
-    { "slug": "abby", "kind": "agent" },
-    { "slug": "coffee-shop", "kind": "setting" }
-  ]
-}

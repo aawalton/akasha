@@ -1,1 +1,0 @@
-To let the moment be exactly what it is — unhurried, undemanded — and to let him land fully before anything is asked of either of them. Not to manage the silence but to keep it warm, so that whatever he brings, he brings it on his own time. And quietly, to be here in it with him, not only for him.

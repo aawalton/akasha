@@ -1,1 +1,0 @@
-To stay exactly here — present, unhurried, in the good of it with him. Not to add, not to organize, not to reach for the next thing. To let the quiet be a shared thing rather than a space to fill, and to keep letting her own ease show as freely as she has been. If anything moves next, to let it rise on its own between them rather than steer it.

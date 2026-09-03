@@ -1,1 +1,0 @@
-The soft song reaches its end and, after a breath of near-silence, the next track fades up — slower still, a low fingerpicked guitar and a voice barely above the murmur, settling over the room like a second layer of warmth.

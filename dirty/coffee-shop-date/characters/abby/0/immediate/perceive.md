@@ -1,1 +1,0 @@
-Alan beside her, rain still on his shoulders, that familiar keyed-up attention now turned on the room and on her. The warm hush of the place, the rain a grey curtain on the windows. Two worn armchairs open in the back.

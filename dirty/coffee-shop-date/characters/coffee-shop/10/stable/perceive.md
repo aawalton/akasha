@@ -1,1 +1,0 @@
-The shop registers what is done to it and within it: the door opening, a chair scraping, a voice raised above the murmur, a cup set down, someone lingering at the counter. It does not read minds or motives — only the physical facts of bodies, objects, and sound moving through its space.
