@@ -492,10 +492,11 @@ export function landedMechanically(
   root: string,
   calledAs: string,
   changes: readonly FileEdit[],
-  message: string
+  message: string,
+  unmoved: readonly Held[] = []
 ): Answer {
   return landingAsked(
     { root, calledAs, from: root, writer: null, agentId: null, changeKind: MECHANICAL },
-    { changes, message, dryRun: false, glass: null, unmoved: [], saying: wroteAndTook }
+    { changes, message, dryRun: false, glass: null, unmoved, saying: wroteAndTook }
   )
 }
