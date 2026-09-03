@@ -117,3 +117,92 @@ The Read had stripped the surface clean in my sight, and Open Eye painted the un
 
 I'd walked past them in the first hour. The man over the bus wheel. The woman and her oranges. I'd let them push me onward and not looked back, and they'd ended up *here,* and now I was on my knees in what was left of them, fighting a thing built from my own dead city. The horror of it wasn't the gore. The gore I could have worked through; I'd always been able to work through gore. The horror was the recognition. These were my neighbors. This was my city, digested and stood back up to kill me.
 
+My hands didn't shake. I noticed that, distantly, the way I noticed everything about myself — that even now, even here, the competence held, the tally ran, the plan survived. *Later,* I told the recognition, and set it behind the engine with the rest, because the throat was swelling open again and the soft was only soft on the inhale and I didn't have the luxury of grief.
+
+I set my feet. Watched the swell. Read the one beat where the Gorge pushed out pale and open, and put everything I had left — my shoulders, my ruined arm, the whole refusing-to-die weight of me — into the lit point on the inhale.
+
+The eye found the killing line inside the killing line. A finer point bloomed inside the soft, the place where the breath gathered, and I struck *there,* exact, and the strike went deeper than my strength could account for — the way a needle finds the vein on the first try when you've done it ten thousand times. A clean line. A true one.
+
+The creature didn't reel this time. It just stopped. The great bulk of it sagged down into its own ash with a long exhausted exhale, the last of its stolen city sighing out of a punctured throat, and it went still in the cold.
+
+I'd killed it in a handful of exchanges, with blood to spare, and not one of the strikes that mattered had landed because I was strong.
+
+They'd landed because I'd seen.
+
+---
+
+I knelt in the ash with the pole still in the wound and my breath sawing and waited for my hands to start shaking. They didn't. Some afterward part of me noted that, too, and left it for the room with a door I could close — the one where, eventually, I'd have to feel all of this.
+
+The creature died slowly, and as it cooled, the eye showed me a last thing — and I understood, in the flat certain way the eye let me know things now, that I was being shown it because of the reach I'd made. You harvest what you can see. I could see this because I'd chosen the eye; some other reflex anchored in me and I'd have knelt here blind to it.
+
+Open Eye didn't close when the fight ended. It stayed open on the dying thing, and in the failing dark it traced something the bulk had hidden: a fine bright thread running through the creature, root to crust, a filament of the same flat blue-white as the System's own text. I watched it dim as the thing died, and I understood what I was looking at the way I'd always understood a monitor — not by being told, but by reading the shape of the truth in it.
+
+The thread was how it had grown. The creature hadn't merely *eaten* the unascended. It had been threaded through them and *converted* them — turned dropped bodies into bone-plate and stolen bulk, by a mechanism that wasn't biology and wasn't magic but was *System,* the same indifferent machinery that had measured Devon and found his number too low. The Tower had taken the dead it culled and fed them, down here in the dark, into the thing that would kill the next living climber who walked in warm.
+
+That was the shape of it. That was how the Tower worked. It didn't make its trials. It *grew* them, out of the people it had already thrown away — the unascended became the floors, and the floors killed the ascended, and whatever survived climbed one ring higher to meet the next thing built from the next city's dead. The dead weren't waste to the System. They were *inventory.* I'd felt the edge of that word back in the dead city — *the Tower keeps what you cannot* — and here was its meaning, lit up in a dying thread only I could see: nothing the Tower took was ever truly gone. It was only waiting to be made into the next reason somebody died.
+
+I held that — the largest thing I'd ever had to hold — and somewhere far up the dark column above me I felt the weight of a hundred floors settle into a new and terrible sense. A hundred trials. A hundred things grown from a hundred slaughters. And one woman with an eye, climbing into it alone.
+
+The interface confirmed what my body already knew.
+
+```stat-screen
+FLOOR 1 — TRIAL COMPLETE.
+The Ash-Glutton is slain. You ascend.
+Subject note: cleared by precision, not attrition. Recorded.
+```
+
+I was still reading *you ascend* — feeling the climb become real, the abstract hundred floors turning into one floor actually under my boots and ninety-nine actually above — when the System changed register, the way it had at the threshold. From confirming, to offering.
+
+```stat-screen
+HARVEST.
+The slain holds essence. What it was can become what you are.
+Reach into the Ash-Glutton and take one piece of it into yourself.
+What you take is yours until you trade it away. What you trade away is gone.
+This is the first you will carry that was never human.
+```
+
+```stat-screen
+HARVEST — SELECT ONE
+Reach into the Ash-Glutton and take one piece. Essence Slot 2 stands open; nothing is displaced.
+I do not advise. I only record what you make of the dead.
+
+[ 1 ]  ASH-HIDE
+  The crust that turned your every blow — armor scraped from the fallen.
+  PASSIVE — all damage you take is reduced by 8%.
+  ACTIVE — Ash-Plate: harden the crust; +25% damage reduction for 2 actions. (3-action cooldown)
+
+[ 2 ]  UNHINGED JAW
+  The bite that broke through steel and bone alike.
+  PASSIVE — you deal 10% more damage to enemies below 30% HP.
+  ACTIVE — Maw: an armor-piercing strike at triple force; ignores all armor and damage reduction. (3-action cooldown)
+
+[ 3 ]  CINDER-COUGH
+  The cone of grave-ash that blinded you and fouled your aim.
+  PASSIVE — your evasion increases by 5%.
+  ACTIVE — Cinderbreath: exhale a cone of grave-ash; struck targets suffer −25% accuracy for 2 actions. (3-action cooldown)
+
+[ 4 ] ★ CARRION BLOOM   — seen by your eye alone
+  The conversion-thread: the Tower's own machinery for turning the dead into more.
+  PASSIVE — on killing an enemy, you recover 8% of your maximum HP.
+  ACTIVE — Glut: consume a fresh corpse to restore 20% of your maximum HP. (once per floor)
+
+AWAITING SELECTION.
+```
+
+The cooling carcass lay open in front of me in the dark, and my interface lit its pieces one by one — and I felt, for the first time, exactly what the System was asking me to do.
+
+It wanted me to reach into the thing and take part of it inside my flesh. To make a monster a permanent tenant of my body. I had one essence, and it was my own humanity — the cold clean reach, the eye, the realest thing I'd ever done — and slot one was the whole of what I was. Everything I added now would be added *to* that, mixed into it, an inhuman thing carried next to the human one until I couldn't fully tell which parts of me were mine. The chimera the System wanted me to become started here, with this single irreversible reach into a corpse, and I could feel the hundred floors ahead of me as a hundred more such reaches — a long slow trade of myself for the power to keep climbing, until the woman who reached the top might not be a woman at all.
+
+And the carcass offered me pieces, and each one had a different weight as the eye named it. The crust — the fused bone-plate, the armor of the dead, *become hard, become a thing that doesn't die easily.* The bite — the jaw that broke steel and bone, the thing that meant to win by force. The cough — the choking ash itself, *make your own breath the weapon that blinded you.*
+
+And one more. The thread.
+
+Because I'd seen the conversion-thread — because the eye I'd chosen had looked into the machinery and understood it — the System lit a fourth piece the other three didn't sit beside, a piece offered, I somehow knew, to me and to no one else who'd ever stand over an Ash-Glutton. A reading. A deeper look into the machinery itself — the conversion-thread, the appetite that had fed as it fed and turned the eaten into more of itself. The door my open eye had cracked, held out to me to step the rest of the way through — a harvest no ordinary climber could be given, because no ordinary climber could even see it was there.
+
+The eye I'd chosen had just opened a door that was mine alone.
+
+I crouched over the cooling thing made of my neighbors, my ruined arm pressed to my ribs, the four offered pieces glowing in the dark, and I didn't move to take any of them yet, because the question underneath the choice had me by the throat and wouldn't let go. The Ash-Glutton was built from the unascended. To reach in and take a piece of it was, in the very same motion, to desecrate the dead of my city and to carry something of them onward — defilement or inheritance, and I couldn't tell which, or whether the difference even existed.
+
+Power here was paid for in pieces of yourself, and I was about to make the first payment, and the System — patient, indifferent, scoring — waited in the dark to see which piece of the dead I'd decide to become.
+
+I knelt at the open carcass with my hand not yet extended, and the four lights waited, and the choice was mine to reach for.

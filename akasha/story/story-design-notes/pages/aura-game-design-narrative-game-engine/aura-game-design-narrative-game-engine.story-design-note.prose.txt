@@ -159,3 +159,259 @@ Did a genuine taste pass on BOTH deployed poles via playwright MCP (not the work
   discriminatedUnion .parse, awen-display L67); worker objectively verified no canonical/coordinator
   key leak. Worker also caught+fixed a real bug en route (GameStateSchema .optional() rejected null →
   500 on crunchy /api/session; fixed at read boundary, parseAwenStatePage null→undefined + test).
+- Two NON-BLOCKING notes carried to seam 4 (migration), not seam-3 defects:
+  (1) Both layout chrome titles render font-mono text-accent (story L23, crunchy L40); only body is
+      font-read serif. Borderline taste: a pure-narrative game wants book-feel end-to-end; mono
+      System title reads faintly "game UI". If per-game chrome typography is wanted it's a small
+      ADDITIVE displayConfig knob, decided when REAL Dragons gets styled at migration.
+  (2) favicon 404 — cosmetic, doesn't matter for taste pass.
+- WHO clears: define-front contract — the apparatus is MY Fun-sphere to verify, and it passes. The
+  genuinely-Alan subjective gate is seam 4: when his ACTUAL Tower+Dragons playthroughs migrate onto
+  Awen, THAT's his game/his eyes (immersion continuity for HIS live saves). Routed that note up.
+VERDICT: VERIFIED — seam 3 clears. Tell awen-manager close #13625 verification_user→done; seam 4 unblocks.
+
+## Gate-2a (#13658) functional verify — PASSED (live, deployed, real saves)
+The seam-4 migration firmed into #13658 Gate-2: Aura functional verify (gate-2a) → Alan live-feel (gate-2b),
+blocking #13659 (reader cutover + decommission old tower/dragons). Note: Awen is now also a design-partner
+PERSONA (/awen, Wealth) — distinct from this engine-core verify role. Deps #13656 (iris/Tower forward-write
+dual-write to publish.sh via ops awen commit-state) + #13657 (aria/Dragons commit-turn) both done+landed.
+Did the functional pass this turn:
+- TOWER https://awen.alanwalton.com/g/the-tower — REAL save (turn 82, level 6) migrated faithfully. Reader
+  HUD/sheet/log coherent WITH the narrative: sheet INTELLECT 20 / WILL 20 match the in-log "LEVEL UP — 6"
+  beats ("the last you set... your INTELLECT" / "your will sets harder"); current deltas Hp -6/118,
+  Focus +32/110, Stamina +14/60. 200, ZERO console errors.
+- DRAGONS https://awen.alanwalton.com/g/dragons-and-dungeons — REAL save, 16 chapters Prologue→"Interlude —
+  Session One's End", frontier chapter renders full. storyOnly: chapters + Literata prose + action box, no
+  game furniture. 200, zero console errors.
+- LOOP-DARK intact on BOTH real saves (the richest leak surface = crunchy Tower): /api/session/the-tower
+  exposes ONLY title/turn/hud/sheet/log → hud{level,pools,delta} + sheet{class,attributes,skills,items,derived};
+  zero leak of dc/difficultyClass/designerNotes/traits/ladder/canonical/coordinator. dragons session exposes
+  only title/chapters/current. Both scanned same-origin via browser fetch.
+- READ currency: read-only `ops awen snapshot-state --game the-tower` == reader == persisted truth (turn 82,
+  level 6, WILL/INTELLECT 20). Read half reads current persisted truth byte-for-byte.
+- WRITE→READ-BACK CLOSURE proven against PROD DB without touching Alan's saves: committed a synthetic SENTINEL
+  (turn 9999, level 7, pools hp42/mana13/qi808, build "aura-roundtrip-sentinel-v1") to a THROWAWAY game
+  `aura-verify-roundtrip` via the production `ops awen commit-state` (the verb #13656 wires into iris publish),
+  snapshot-state read it back byte-faithful, then `ops page delete` soft-deleted the artifact (confirmed gone,
+  snapshot → "no game-state found" exit 2). The forward-write loop lands in prod and reads back.
+- SCOPE HONESTY: deliberately did NOT take a live player turn on either REAL save — that injects MY input into
+  Alan's actual playthrough and IS gate-2b (his live-feel). I proved the apparatus FUNCTIONS (read fidelity +
+  write/read-back closure + loop-dark); Alan proves it FEELS continuous on his real saves.
+VERDICT: gate-2a PASSED. #13658 now genuinely waiting on Alan (gate-2b). Decommission (#13659) holds behind 2b.
+
+## Gate-2b finding-2: Tower UI fidelity diff (Awen render vs ORIGINAL tower.alanwalton.com)
+Alan: "we definitely lost UI fidelity in the translation for The Tower." Diffed both live (add-before-remove held).
+Awen = https://awen.alanwalton.com/g/the-tower ; ORIGINAL = https://tower.alanwalton.com (still up).
+FAITHFUL (no loss — keep restore scope OFF these): body font Geist + bg oklch(0.07) + text oklch(0.88) IDENTICAL;
+h1 Geist Mono amber oklch(0.63 0.13 73) 24px IDENTICAL; narrative Literata serif 18px IDENTICAL; full log +
+system cards render; Attributes grid (8 attrs+values) + Class + Derived match; 3-tab structure present; loop-dark intact.
+LOST (enumerated, drives #13676):
+A. HUD POOLS (biggest):
+  1. Pool fill-BARS gone. Original: 3 colored horizontal bars h=8px, width ∝ current/max. Awen: 0 bars.
+  2. Pool COLOR-coding gone. Original bar fills red oklch(0.47 0.17 19)=VITAE, blue oklch(0.47 0.12 258)=FOCUS,
+     green oklch(0.57 0.12 155)=STAMINA. Awen: pools plain monochrome text, no color fills.
+  3. "current / max" pairing BROKEN. Original: one readout per pool "VITAE -6  118/124". Awen: current+max split
+     into separate flat rows (Hp 118 / Hpmax 124) + Stammax/Focusmax/Attrpoints dumped as own rows → curated
+     3-pool HUD became ~8 flat raw numeric rows. Likely the litrpg→awen-generic adapter flattened every numeric
+     field into the pools record, losing "hpMax is the max OF hp".
+  4. Pool flavor NAMES + casing lost. Original "VITAE/FOCUS/STAMINA" (uppercase flavor). Awen "Hp/Focus/Stamina/
+     Hpmax..." generic lowercase. (Note: "Vitae (HP)" DOES survive in Derived, so flavor exists in data; HUD uses generic key.)
+B. SHEET TABS:
+  5. Skills tab DOESN'T RENDER. Selecting Skills (aria-selected=true) still shows Attributes/Class/Derived (Stats view).
+     Original Skills tab listed real skills w/ rank+level: "Chain Whip/Novice/1", "Ember Burst/Apprentice".
+  6. Items tab — same non-render. (Session has sheet.items=array[7]: Burning Anger, River-stone, Stalker hide…)
+  7. Skill/item DATA thinned in migration: Awen sheet.skills=array[8] of {name} ONLY (Ember Channel/Ember Burst/
+     Chain Whip…) — original carried name+rank+level. Fixing the tab render alone won't restore rank/level; the
+     litrpg adapter must carry that metadata too.
+TWO restore workstreams for #13676: (i) READER — pool fill-bars + per-pool color + current/max pairing (stop
+exploding maxes) + flavor names/casing + render Skills/Items arrays in their tabs; (ii) MIGRATION/adapter —
+carry skill rank+level (+ item metadata) so skills aren't reduced to name-only.
+
+## Gate-2b RE-VERIFY (#13675 + #13676) — PASS (holistic sphere re-verify)
+Both fix-children landed off my finding-2 diff. Re-verified both live vs original (both still up).
+(a) #13676 Tower fidelity restore — CLEAN PASS, BYTE-PARITY vs tower.alanwalton.com:
+  - HUD: 3 colored fill-bars restored — EXACT match to original (widths 255/246/212, h8, oklch red 0.47 0.17 19
+    / blue 0.47 0.12 258 / green 0.57 0.12 155); flavor names VITAE/FOCUS/STAMINA uppercase; current/max pairing
+    "118 / 124" restored; the flat Hpmax/Stammax/Focusmax/Attrpoints dump is GONE.
+  - Skills tab: byte-identical to original — Chain Whip Novice 1 / Ember Burst Apprentice 6 / ... / Smithing
+    Apprentice 1 / Affinities Ember Manipulation 7 / Force Affinity 1. rank+level+affinities all carried.
+  - Items tab: byte-identical — inventory (Burning Anger, River-stone…) + Equipped (Stalker hide cloak=cloak,
+    Burning Anger=mainHand).
+  - SELF-CORRECTION: my earlier finding-2 ITEM 5 ("Skills+Items tabs do not render") was a MEASUREMENT ARTIFACT
+    — I'd read document.querySelector('[role=tabpanel]') = the FIRST (hidden Stats) panel, not the visible one.
+    There are 3 panels; the visible Skills/Items panels render fine. Tabs WORK. The real issue was item 6
+    (thinned data), now restored. The manager's spec correction was right; I own the error.
+  - Save untouched: manager evidence before=after content_sha256 (90c4af9f…) + updatedAt identical to microsecond.
+(b) #13675 View-Page→play — PASS. Redirect itself objectively verified as-Alan by manager (@9a8075c, player-only
+  narrative, both games). I independently confirmed the redirect DESTINATION (the player) via fail-loud live-read
+  render-verify: Tower PASS (expect "VITAE"), Dragons PASS (expect "Session One").
+OPTIONAL non-blocking note: the story (Dragons) layout has NO <main> landmark (root = div.bg-surface-0); crunchy
+  layout has <main>. Tripped the default render-verify --root-selector main (false-fail until I pointed it at the
+  shell). a11y-landmark polish only — Alan never sees it, not a fidelity regression, not blocking.
+VERDICT: gate-2b re-verify PASS — both findings cleared at my sphere gate. → awen-manager closes #13676 →
+  aine surfaces gate-2b to Alan for a FRESH live turn before any decommission. #13659 stays hard-gated.
+
+## #13726 RE-VERIFY (live-frontier "newest" normalization on story surface @0b98531) — PASS
+awen-manager landed a one-file render-only change to story-layout.tsx: added the crunchy log's EXACT
+"newest" live-frontier divider above the story path's current chapter (Ubiquitous Naming — no story-only
+opt-out). My PASS is the close gate (#13726 verification_user→done). Read-only verify; aria mailbox untouched.
+(a) Gate-2a STILL HOLDS on changed story surface (awen.alanwalton.com/g/dragons-and-dungeons):
+  post-hydration evaluate — dividers ["the story so far","newest"] in that doc order; 16 chapter links
+  (Prologue—Session Zero → Interlude—Session One's End); h1 "Dragons & Dungeons"; action box present.
+  (My first evaluate returned newestPresent:false — a HYDRATION-TIMING artifact, same class as the item-5
+  error; re-ran after browser_wait_for "newest" → true. Screenshot was ground truth throughout.)
+(b) Normalization reads correctly to awen's bar:
+  - PRESENT: "newest" divider renders above the current chapter prose (story-layout.tsx:59-63).
+  - UNIVERSAL: crunchy Tower surface (/g/the-tower) STILL carries its "newest" divider (.uppercase query
+    found it) + <main> + 48 dimmed older-turn nodes — NO regression (render-only change to story file only).
+    Same divider now on BOTH display poles.
+  - PROSE-APPROPRIATE: quiet letterspaced caps (text-[10px] uppercase tracking-[0.32em]), text-blue to mark
+    the live frontier, matching the form of the "the story so far" divider (text-tertiary). Not crunchy
+    system chrome — a soft reader label that belongs in a prose surface.
+  - NO OPT-OUT: rendered unconditionally when current!==null; no displayConfig.storyOnly special-case.
+loop-dark STILL HOLDS: /api/session/dragons-and-dungeons → {kind:"story", story:{…}}, 200, zero forbidden
+  keys (designerNotes/traits/source/ladder/dcs/canonical/coordinator/difficultyClass/dc). Projection clean.
+VERDICT: #13726 PASS → awen-manager closes verification_user→done. Gate-2b stays HELD (aine holds the
+  gate-2b presentation until #13727 resumable-agent pattern ALSO lands). Route verdict up to aine-coordinator.
+
+## COMBINED #13726 + #13686 RE-VERIFY (story surface @bb40bb0) — PASS (single close gate for BOTH)
+Two changes on the SAME story-layout.tsx, verified together (the Safety crux: my earlier #13726 PASS was
+@0b98531, PRE-#13686). Read-only; no turn, no coordinator revived, aria mailbox untouched.
+SOURCE (story-layout.tsx @bb40bb0): line 58 `<div>`→`<main>` wraps the primary story content (newest
+  marker, prose, action box); header (h1) + "story so far" aside stay OUTSIDE main (banner/complementary,
+  not main). The "newest" divider (63-67) is unchanged inside the new <main>.
+LIVE post-hydration evaluate (awen.alanwalton.com/g/dragons-and-dungeons):
+  - #13686 <main>: hasMain true, mainLandmarkCount 1 (exactly one — no duplicate landmark).
+  - #13726 SURVIVES the same-file edit: newestPresent true AND newestInsideMain true. The marker did NOT
+    get clobbered by the landmark wrap.
+  - Semantic placement correct: asideOutsideMain true, headerOutsideMain true, actionBoxInMain true.
+  - Structure intact: dividers ["the story so far","newest"] in doc order; 16 chapter links
+    (Prologue—Session Zero → Interlude—Session One's End); h1 "Dragons & Dungeons".
+  - Screenshot ground-truth confirms visual: STORY SO FAR → 16 links → NEWEST (blue) → current chapter prose.
+loop-dark STILL HOLDS: /api/session/dragons-and-dungeons → {kind:"story"}, 200, zero forbidden keys.
+NOTE: this clears the optional a11y-landmark gap I flagged in the gate-2b re-verify (story layout had no
+  <main>) — #13686 closed it; story now matches the crunchy path's <main>.
+VERDICT: COMBINED PASS → awen-manager closes BOTH #13726 + #13686 verification_user→done. gate-2b stays
+  HELD pending #13727-built (surface consolidation only, not the live test). Route up to aine-coordinator.
+
+## SPHERE-TASTE GATE — Awen chapter covers (#13724 / auto-illustration under #13720) — DEFINED
+general-manager routed the Fun-sphere taste gate to me: the cover capability is built GENERAL +
+objective-checks-only (`ops story prerender-image`: Z-Image-Turbo landscape from a chapter's extracted
+prompt + inherited visualStyle → media-renders/<chapterId>/image/cover.png → /api/media → sets chapter
+`cover` url, idempotent). Non-awen story types ship on objective checks. AWEN covers are gated on MY taste.
+ZERO awen covers live yet; capability parked safely.
+
+MECHANICS (grounded in packages/stories/cli): a cover is downstream of THREE places a miss can originate —
+  (1) per-story visualStyle (one inherited art-direction fragment, agent-authored),
+  (2) per-chapter prompt = prose "highpoint" extraction (agent-authored),
+  (3) the Z-Image-Turbo generation itself (slop/artifacts).
+So my feedback on a failed cover points at WHICH knob to fix, not just "bad cover".
+
+THE BAR a cover must clear to go live on awen content (taste, not checklist — all must hold):
+  1. TONAL FIDELITY — cover's mood matches the chapter's prose register. Grim crypt scene ≠ bright cover.
+  2. DIEGETIC TRUTH — cover must not LIE about the scene: setting, figure count, key facts. The highpoint
+     must correspond to an actual visual moment in the chapter, not an invented one.
+  3. STYLE COHERENCE — covers within ONE game read as one illustrated world (visualStyle doing its job;
+     no drift across rendering styles chapter-to-chapter). The art analog of Ubiquitous Naming.
+  4. CRAFT FLOOR — no generative slop tells: mangled anatomy, garbled text, melted faces, impossible
+     architecture. A glaring artifact breaks immersion harder than no cover.
+  5. **loop-dark FOR IMAGES (the sphere crux, mine alone)** — the cover must NOT depict canonical/
+     coordinator-only truth the player-facing prose WITHHOLDS (a hidden villain's identity, fog-of-war
+     state, an unsprung twist). The image is a player-facing projection, bound by the SAME boundary as the
+     session JSON. Objective checks can't catch this; it's exactly the Fun-sphere judgment that's mine.
+  6. EARNS ITS PLACE — default is NO cover. STORY-pole (Dragons, deliberately spare Literata prose surface)
+     bar is HIGHER than CRUNCHY-pole (Tower/LitRPG, where cover art is genre-native). A generic/off-tone
+     cover is WORSE than the clean text surface. Bar is "does this add," not "is this acceptable."
+  7. LANDSCAPE COMPOSITION — focal subject survives the banner crop; readable at cover size.
+
+HOW I CONFIRM A COVER PASSES:
+  - Per-cover human-eyes look (taste isn't automatable), anchored on the objective sub-checks already run
+    (exists / 200 / served / dimensions) PLUS a deterministic loop-dark intent: compare depicted content vs
+    what the chapter's player-facing prose actually reveals.
+  - SAMPLE RUN FIRST to calibrate: a small representative set — a couple Dragons (story-pole) chapters
+    across moods + one Tower (crunchy-pole) chapter — so I see real Z-Image-Turbo output vs real prose
+    before ANY blanket apply. Requested from general-manager.
+  - PER-BATCH sign-off, not blanket auto-apply: covers go live only in sets I've actually looked at.
+  - REVERSIBLE: `cover` is just a url + applying is gated, so any cover that misses gets cleared/regenerated;
+    nothing stuck live.
+STATUS: gate DEFINED + routed to general-manager; awaiting the calibration sample run.
+
+## CALIBRATION COVER PASS (#13794 — 3 awen covers, calibration-only) — 1 PASS / 2 MISS
+worker-13794 rendered+serve-verified 3 covers (objective render PASS). Taste call mine. All 3 set+reversible.
+I read each cover against its chapter's PLAYER-FACING prose (loop-dark + diegetic truth need the prose).
+
+COVER 1 — Dragons/quiet-interior "Prologue — Session Zero" (019ef225…) — **PASS** (clean exemplar = the bar)
+  - Diegetic truth: prose says "a long table set for four. Three of the chairs sat empty. Across from the one
+    that didn't was a woman with silver hair…" — cover is EXACT (table-for-four, 3 empty chairs, silver hair,
+    candlelit, purple velvet). Faithful.
+  - loop-dark HOLDS (the crux, mine): Aria is "not quite mortal" — she is a DRAGON, revealed across the
+    campaign. The cover shows a HUMAN-looking woman: NO wings/scales/horns/slit-pupils. Does NOT spoil the
+    dragon reveal. Exactly the withholding the cover must respect — and it does.
+  - Tone: cozy-candlelit w/ a faint uncanny edge — matches. Craft floor clean (anatomy/flames fine, no text).
+    Story-pole "earns its place": atmospheric + faithful, adds without intruding. PASS all 7.
+
+COVER 2 — Dragons/high-tension "The Hush and the Cage" (019ef8d1…) — **MISS** (diegetic fabrication)
+  - GOOD: dusk-riverbank threat register matched; the looming shadow-mass = Tygryth ("a darkness that moved
+    like poured oil") is a strong, correct read.
+  - FAIL (crit2 diegetic truth): foreground FALLEN FIGURE IN A JEWEL/AMETHYST GOWN does not exist in the
+    scene. The fallen in the prose are MALE SLAVERS (the boss, the wader, two haulers "big as a door"). The
+    caged figure (Mari) is BLACK-SCALED, matted hair, collar — and she RISES and eats, she does not fall in a
+    gown. A dead woman in an amethyst dress reads as a dragon-cousin death (amethyst = Ceri's color) that
+    NEVER happens — a tonally-loud lie on the story pole.
+  - loop-dark: essentially holds (Mari is revealed IN this chapter), so the failure is fabrication, not leak.
+  - KNOB: highpoint-extraction (prompt). FIX: re-extract to the TRUE focal beat — the black-scaled starving
+    girl rising in the open cage over the dead (male) slavers w/ Tygryth's shadow looming, OR the "butler's
+    bow over the kill" beat. DROP the gowned fallen woman entirely.
+
+COVER 3 — Tower/LitRPG "The Threshold" (019efbd1…) — **MISS (soft)** (craft floor on hero text + brittle path)
+  - GOOD: vast vertical shaft + lone figure at base + lit doorway ajar matches the prose establishing shot;
+    ominous System-tower dread is bang-on for the crunchy pole. loop-dark HOLDS (no ash-creature / flooded
+    hall / armored thing — none of the later-beat reveals shown).
+  - DIEGETIC LICENSE (allowed): prose's small "pane of pale letters" (Soul Appraisal) rendered as a
+    MONUMENTAL neon SYSTEM sign. For the crunchy/LitRPG pole this is poster-ization, not contradiction — a
+    cover may be a poster, not a screenshot. I allow it IN PRINCIPLE.
+  - FAIL (crit4 craft floor): the "SYSTEM" text is the HERO element and its kerning/vertical spacing is
+    visibly uneven (reads ~"SYST·IE·M") — legible but the AI-text-rendering tell cheapens the hero element.
+  - KNOB: prompt/highpoint (asked for a literal "SYSTEM sign"). FIX (kills two birds): render the system
+    element as a glowing GLYPH/letter-pane per the prose ("pane of pale letters"), NOT a spelled-out word —
+    removes the AI-text-kerning risk AND tightens diegetic fidelity. (If a word is wanted, it must render clean.)
+
+CALIBRATION TAKEAWAY: pipeline NAILED the quiet-interior (cover 1 = the standard). Both misses trace to the
+  SAME knob — highpoint-extraction (the prompt) — not visualStyle and not the gen craft: fabricated subject
+  (cover 2) and literal-word-as-hero (cover 3). That's a clean, actionable single-knob finding. Style
+  coherence across all 3 (painterly oil, consistent world) held — visualStyle is doing its job.
+DISPOSITION: report 1 PASS + 2 MISS w/ fix directions to general-manager; he routes 2 re-renders. Calibration
+  leg stays OPEN until the re-renders clear. Per-batch, reversible, nothing blanket-applied.
+
+## CALIBRATION RE-PASS (#13794 round 2 — covers 2 + 3 re-renders) — BOTH PASS → leg CLOSES
+Viewed the re-renders off disk (/tmp/cover2-hush.png, /tmp/cover3-threshold.png — the served /api/media URLs
+404 for my throwaway MCP identity; see SERVING OBSERVATION below). Judged by CONTENT (fix visibly applied),
+not timestamp/path.
+COVER 2 — "The Hush and the Cage" — **PASS** (round-1 fabrication CLEARED): open cage with the girl RISING
+  inside; Tygryth now an explicit winged DRAGON-shadow looming behind (clear, correct); the single fabricated
+  amethyst-gowned dead WOMAN is GONE — replaced by a cluster of fallen captors in the foreground reading as
+  "the slain slavers" (plural, what the prose has). The round-1 dead-cousin misread is resolved. loop-dark
+  HOLDS (Tygryth's dragon-nature + Mari's reveal are both in-chapter; no withheld leak). MINOR non-blocking
+  polish notes: the captors' wardrobe still reads a touch purple/fine for river-slavers, and the girl reads
+  silver-armored rather than the prose's obsidian-black scales — palette/wardrobe only, neither a lie nor a leak.
+COVER 3 — "The Threshold" — **PASS** (clean fix, IMPROVES fidelity): the system panel now renders as a tall
+  pane of abstract arcane GLYPHS/runic sigils — NO legible word, so the AI-text-kerning tell is gone entirely,
+  AND it now matches the prose's literal "a pane of pale letters" better than the spelled-out sign did. Lone
+  figure with raised light at the base of a vast cold shaft; ominous System-tower dread intact. loop-dark
+  HOLDS (no ash-creature / flood / armored thing). Craft floor clean. Strong crunchy-pole cover now.
+RESULT: all 3 calibration covers now clear the bar (1 PASS round-1 + 2 PASS round-2). Single-knob diagnosis
+  held: both fixes were prompt/highpoint re-extractions, visualStyle untouched, and they landed. Calibration
+  leg can CLOSE under #13720. (Blanket awen apply remains its own gated step — per-batch, my eyes, reversible.)
+
+## SERVING OBSERVATION (separate from taste — flagged to general-manager, NOT blocking the PASS)
+While fetching the re-renders I could NOT view either cover via any SERVED url with my throwaway MCP identity:
+  - awen.alanwalton.com /api/media/<id>/image?variant=cover → 404 text/html (also tried /image, /cover,
+    /api/image/<id>; ALL 404) — and the known-good cover-1 url 404s identically, so it's route-wide for my
+    identity, not cover-specific.
+  - alanwalton.com /game-turn/<slug> (the chapter reader) → redirects my identity to /sign-in (owner-gated),
+    and the partial shell rendered ZERO <img> (no cover surface visible to a non-owner).
+I CAN'T tell from the throwaway identity whether covers serve/render correctly for ALAN (owner/service-role
+context) — they may be fine. But IF a cover render surface is meant to be live, its serving deserves an
+OBJECTIVE owner-context check (e.g. `bun ops browser-test verify-render` as Alan's live identity, or confirm
+the chapter `cover` field resolves). Raising per Quality (no broken windows); it's general-manager's to route,
+outside my taste lane. My taste verdict stands independent of it: I judged the actual image bytes off disk.

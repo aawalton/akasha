@@ -1,8 +1,0 @@
-- Persistence: user-scoped Postgres saves, RLS-gated; a TEST USER holds the throwaway dev save so the worktree dev server (live DB) never touches Alan's canonical save (Alan's own solution).
-- Migrate the existing ~806M-mote save in (realness psychology — see below).
-- Dormant-latch byte-identity (verify-batch.ts) migrates into the pipeline as an enforced check.
-- SACRED carries over unchanged: NO gacha, MIRROR-not-driver.
-- Subdomain name SETTLED: 'idle' => idle.alanwalton.com (Alan blessed 2026-06-25).
-
-## Alan-fact — REALNESS OF PROGRESS (load-bearing, 2026-06-25)
-Alan can only ENJOY a game whose progress is REAL/canonical. The instant the save he plays is not the canonical one, the game is DEAD to him. => Exactly ONE real save, ever; it must be the durable/available one. NEVER hand him a "sandbox" or "test save" to play with. Combined w/ the no-habituation fact: progress and polish are both perpetually load-bearing.

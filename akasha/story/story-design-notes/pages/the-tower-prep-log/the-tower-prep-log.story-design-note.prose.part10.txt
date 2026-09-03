@@ -1,2 +1,0 @@
-  display/state.json renders them VALUE-ONLY with no cap (8, 1) BY DESIGN (thresholds held-dark). That surface mismatch is
-  correct, not drift. Full note now durable in mechanics/affinity-system.md §8 ("Canon vs. display").
