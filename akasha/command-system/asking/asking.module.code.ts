@@ -151,6 +151,10 @@ const PAGE_TYPE_AT = /^ {2}pageTypeSlug: "([^"]*)",$/m
 
 const PAGE_FILE = ".ts"
 
+const REMEDY =
+  "Put the page type slug in front of it, as `wake-day-2026-08-20` and" +
+  " `great-course-7-days-of-drawing` already do, and name the file for the slug you land"
+
 export function slugComposedIn(path: string, body: Uint8Array): string | null {
   const text = textOf(body)
   if (text === null) return null
@@ -168,7 +172,7 @@ export function unexportableIn(changes: readonly FileEdit[]): readonly string[] 
     const slug = slugComposedIn(one.path, one.body)
     if (slug === null) continue
     const fault = nameFaultIn(slug)
-    if (fault !== null) said.push(`${one.path} — ${fault}`)
+    if (fault !== null) said.push(`${one.path} — ${fault}. ${REMEDY}`)
   }
   return said
 }
