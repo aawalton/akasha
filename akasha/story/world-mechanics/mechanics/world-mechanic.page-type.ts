@@ -3,12 +3,16 @@ import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
 import type { WorldSlug } from "../../stories-played/properties/world-slug.relation-property.ts"
 import type { Aliases } from "./properties/aliases.text-property.ts"
+import type { EvolvesFromSlugs } from "./properties/evolves-from-slugs.text-property.ts"
+import type { EvolvesToSlugs } from "./properties/evolves-to-slugs.text-property.ts"
 import type { References } from "./properties/references.page-property-entry.ts"
 
 export type WorldMechanic = Page & {
   title: Title
   worldSlug: WorldSlug
   aliases?: Aliases
+  evolvesFromSlugs?: EvolvesFromSlugs
+  evolvesToSlugs?: EvolvesToSlugs
   references?: References
 }
 
@@ -31,6 +35,8 @@ export const worldMechanic = {
     "text-property/chapter-slug",
     "text-property/claimed-by-slug",
     "text-property/effect-quote",
+    "text-property/evolves-from-slugs",
+    "text-property/evolves-to-slugs",
     "text-property/from-slug",
     "text-property/holder-quote",
     "text-property/holder-slug",
@@ -43,6 +49,8 @@ export const worldMechanic = {
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "world-slug", required: true, many: false },
     { pagePropertySlug: "aliases", required: false, many: true, max: null },
+    { pagePropertySlug: "evolves-from-slugs", required: false, many: true, max: null },
+    { pagePropertySlug: "evolves-to-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "references", required: false, many: false },
   ],
   invariants: [
@@ -65,6 +73,14 @@ export const worldMechanic = {
     {
       invariantKind: "departure",
       statement: "A slug that cannot become an export name carries its kind on the front.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An evolution is a fact about the mechanic rather than one place in the text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where the text shows an evolution the reference beside it carries that place.",
     },
     {
       invariantKind: "departure",
