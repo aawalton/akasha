@@ -10,7 +10,7 @@ import { safeInternalPath } from "@akasha/pages-url/safe-target"
 import { signInWithPassword, signUpWithPassword } from "@akasha/supabase-rr/auth-client"
 import type { ReactNode } from "react"
 import { useState } from "react"
-import { clearLastPath, getLastPath } from "../path-tracker/path-tracker.module.code.tsx"
+import { clearLastPath, getLastPath } from "../path-tracker/path-tracker.module.code.ts"
 
 interface AuthPageContentProps {
   mode: AuthMode
