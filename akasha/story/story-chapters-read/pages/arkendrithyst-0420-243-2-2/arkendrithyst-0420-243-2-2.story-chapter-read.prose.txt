@@ -1,0 +1,190 @@
+RULES:
+
+~ GRAND NOTIFICATION: Due to extensive rules changes, most of these rules are only applicable within normal dungeon space. DELVER BEWARE!
+
+1: Script Interface, minimal settings
+
+2: Auto-Resurrection, unlimited lives
+
+3: Maximum Life Support, slime generation set to maximum; PLAIN SLIMES ONLY
+
+4: Sanctity of Space, golem enforcement of life form level; MAXIMUM LETHALITY
+
+~ Exceptions: Fallopolis, slimes, Erick Flatt, Jane Flatt, Ophiel, Yggdrasil, Dungeon Masters divorced from this dungeon, + Accompaniment
+
+5: Direct access to Darkness
+
+6: Creation of No-Script, variable-manasphere-density areas, at request of dungeon masters
+
+~ Notification: mana escaping into the manasphere due to Script severing will be taken into the dungeon core through natural means. Beware rapid progression of any slimes or other beings should they be exposed to high levels of mana.
+
+7: Sighting Mirrors into the Dark.
+
+~Notification: The Dark sometimes stares back.
+
+8: Floors, expanded
+
+- a -: Entrance; a separated staircase. Flying or use of transporter required. Stabilized and life support.
+
+- b -: Slime Floor; the current dungeon layout. Stabilized and life support to 10 kilometers square, 1 kilometer height and depth.
+
+- c -: House; a guarded space below the Slime Floor. Stabilized and life support to 1 cubic kilometer.
+
+- d -: Experimental space; Open to the Deeper Dark on the north side of the Slime Floor. Unknown stability, unknown life support, subject to change at any time.
+
+~ Notification: Rule 8, subsection d. BEWARE that interacting with the Dark most commonly leads to death. The dungeon is not responsible for you stepping out of its solidified area, and has less than minimal power to affect the Deeper Dark.
+
+9: Experimental Space, expanded
+
+- a -: A dungeon master may cause a change in the Experimental Space, locking a part of the Experimental Space to solidity for a short while. Efficacy of this subrule is wildly variable, and dependent on the power and clarity and positions of lands that lie beyond the edge of this dungeon.
+
+- b -: Once a change occurs, the adjoining floor will be made stable by the dungeon and a timer will appear. The timer will estimate the length of stability left on the adjoining floor.
+
+- c -: The slime dungeon can expend mana at the request of the dungeon master in order to increase the stability of the Experimental Space. This stability increase will be reflected in the timer.
+
+~ Notification: BEWARE that interacting with the Dark most commonly leads to death. The dungeon is not responsible for you stepping out of its solidified area, and has less than minimal power to affect the Deeper Dark.
+
+10: Lures of Darkness, attempt to bring known parts of the Greater Dark nearer to the dungeon
+
+~ Notification: BEWARE that interacting with the Dark most commonly leads to death.
+
+~ GRAND NOTIFICATION: Due to attempts to circumvent the domain of the Dark, you have drawn the eye of the Dark. Witness this message and tremble, mortal: (Developer’s note: Do some Wizardry, Erick.)
+
+- - - -
+
+Over the next several days, the group had figured out some Rules that did most of the job of fishing in the Dark for them. Implementing those Rules had taken several more days beyond that.
+
+Almost a month had passed since Erick first walked into this dungeon.
+
+In taking this step, to find the Sundering at the behest of the gods and to eventually unseal Yggdrasil from his own soul, Erick had felt unmoored yet again. Of course, fucking up with [Onward] all those years ago had not helped with that feeling of being lost. For the first time in a while, and in multiple ways, Erick truly had been lost, and not just because he wasn’t at House Benevolence, helping people every single day, or taking care of this or that crisis.
+
+It had taken him some time to come back to himself.
+
+With the addition of five new daughters and a brother he never knew until now, everything had gone crazy yet again. But then there were the family dinners. The talks with a person who truly knew him, and seeing his daughter from five new angles. Poi was a godsend, too.
+
+Kiri, back at the House, was doing very well, now that she had increased the size of the Office of the Overseer of Gate Expansion by a whole platoon of people, doubling the size of that office. She’d probably be doubling it again in the coming months, because as soon as Erick talked to her about his new multiverse theories, Kiri became his bright-eyed apprentice yet again, seeming to drop a decade with her inquisitive questions, and doubling her usual desire to learn. Erick handed her a copy of the multiversal theories work he had already done, and she added a bunch of her own notes in response, for she had been kicking around something similar in her head for a while now.
+
+Kiri was doing well, and she would do even better in the future.
+
+Ophiel was growing up, getting more and more curious with every passing day. When it was just Erick, the little fluff ball was actually asking questions about what was happening. He had never done that before. Erick happily kept up with the little guy’s strings of questions, in between working on his enchanting and his multiversal theories of magic.
+
+Yggdrasil was getting ready to separate. From Erick’s mostly-covert talks with Zolan about Yggdrasil’s new ‘Office of Forestry’, Yggdrasil was doing well, connecting with new people with an orcol-avatar. Of course Erick’s largest son would decide to be an orcol; he had done most of his growing up around orcols.
+
+And the girls were driven right now, delving dungeons to get their base mana generation as high as they could make it, but when this was all over and the world was safer and better than it had ever been before, the girls would be adrift, like Erick was at the beginning of this new journey. He would have to be there for them. He wanted to be there for them, and for all his maturing children. And Solomon wanted to help. Which was great! Erick didn’t think he could raise ten children like Ophiel on his own, nor could he keep up with 6 daughters, two of which looked as though they might want to actually spend time with him. Long term!
+
+Emily would probably ask for a position in House Benevolence. She would probably also ask about being [Reincarnation]ed as a boy. Her brief core breaking experience as being born male had done a lot to her, though she didn’t want to talk to Erick about it much at all.
+
+Debby was going to go full-mage, but keep her body. She was experimenting a lot with Lightning, and finding it quite fun.
+
+Jane, along with Abigail, Beth, and Candice, would be returning to Adventurer City. And that was fine.
+
+Erick smiled to himself, as he stood upon the northern edge of the dungeon, thinking about the future, and how the path ahead had become a lot clearer in recent days.
+
+… Well.
+
+Certainly not that clear.
+
+Clearer, though.
+
+They would be stealing everything they could from the Dark, then finding and fighting the Sundering source, and then ending that threat forever. Neat Stuff! Especially the part about stealing from the Dark.
+
+Erick was more and more happy with that—
+
+Solomon asked, “What are you thinking about?”
+
+Erick gazed at what had been the Dark until a few days ago, when they implemented the new Rules. “About the uncertain path ahead, but how my footsteps had gained a lot of certainty in recent days.”
+
+Solomon raised an eyebrow, then turned to face the once-Darkness. “Mind sharing some of that certainty with me? ‘Cause all I can see is chaos.”
+
+Solomon was referring to the northern side of the dungeon, of course. It had been replaced.
+
+Instead of an opaque wall of misty shadows layered upon a black ocean that swirled with unseen monsters, there was clarity. The shadows were still there, but they were transparent. The black ocean was still there, but it was also a thousand swirling dreams, with depths sometimes stretching out to infinity, layered with ancient battles and worlds glimpsed and then lost. Riotous magic killed a billion people and raised a thousand million more. Births outnumbered deaths, with eggs laid in clutches by the beach and little girls and boys and otherwise slipping out of birth canals while mothers cried out in agony, and then in blessed joy as babies joined the cacophony.
+
+A man made an artifact and then made a world.
+
+A woman killed a deer and spilled its entrails into the heavens, creating a network between sky islands and the stars.
+
+A dragon ate the throat out of another dragon, the two of them entangled until that moment, and then the victor stood upon the sands, their wings spreading wide as the body of the fallen fell off, into darkness, while the cheers of adoring fans filled the arena and the city beyond.
+
+A god died and rose again.
+
+A god killed another god, gold light flashing. The victor was murdered in return when a third pounced, and widened the wounds suffered by the newest loser in the war of gods.
+
+A land of pillars held briefly upon the other side of the dungeon’s edge, beyond the smoke and absolute death promised by the Dark—
+
+“There!” Solomon said, rapidly activating his half of the preparation they had laid down for this exact moment; the moment when an innocuous land appeared.
+
+Erick was ready.
+
+Between Erick and the Other, was a circular gate set upon half of a pyramid. It was runed with power and filled with promise, with the topmost part of the circle actually a pair of arrows, one side feeding into the other, forming a great Gate of [Renew], and Benevolence. It was about 5 meters across.
+
+A timer appeared, indicating 15 seconds.
+
+The lands beyond the Darkness came into focus.
+
+Erick surveyed the land, rapidly judging what he was seeing.
+
+Beyond the Benevolence Gate, simple pillars became ornate granite carvings of people in prayer and in honoring some ancient power. The ground became layered with large granite tiles, where clipped grasses grew between. Small trees blossomed in the Dreaming Dark. A fountain burbled, glowing with waters that were clearly pure Elemental Healing. Birds sang, and people stood in prayer beside the fountain, while some priest used a very long spoon to pick up a small bit of Healing and deliver it to the mouth of the first person in line. That person had a blindfold over their eyes, and then light erupted from their eyes, and the blindfold fell away.
+
+He could see again, and his nearby family cheered for him.
+
+It looked like a good location to Erick. The timer was down to 11 seconds.
+
+Erick sang,
+
+“A land once known, now only dreams. We doth bemoan.
+
+“Yet Darkness gleams!
+
+“Through chance we greet, past lightning’s wrath!
+
+“Pray now we meet, down winding path.”
+
+As Erick sang the billowy gloom separating the floors of the dungeon listened. Everything did. The very air, and stone, and the blood in Erick’s veins, and the Benevolence in his core, all soaked in his intent, in his request, in prayer.
+
+Existence twisted upon the lathe of Erick’s Reality.
+
+The runic gate lit up with white lightning.
+
+Like a flickering imagination written down and made solid in the writing, the lands beyond turned ever more real.
+
+The timer went from 1 second to all nines, filling the black box full, and then overflowing. The membrane between realities shattered inside the gate, like the cracking of glass. White lightning crackled out from the gate, expanding across the entire northern wall of darkness beyond the dungeon. That outer lightning turned solid, like a hand gripping tight. The center of the gate swirled in fractal dances, the chips of broken reality slipping away, pulled apart by lightning, revealing a path that was only a meter long, and yet so, so much longer than that.
+
+Birdsong and the gentle laughter of happy people spilled out from the other side of the gateway. The slight staticky sound of the humming gate was completely unable to eclipse the new Truth on the other side. People were getting healed, and joy overflowed.
+
+Erick felt like he had run a marathon, but marathons were nothing to him these days. It was a good sort of tired. A fulfilled sort of pain.
+
+A smaller, clearer joy came next, as Solomon opened up a black window and Erick glanced at the window.
+
+- -
+
+RULE CHANGED:
+
+10: Lures of Darkness, attempt to bring known parts of the Greater Dark nearer to the dungeon
+
+~ Notification: BEWARE that interacting with the Dark most commonly leads to death.
+
+~ GRAND NOTIFICATION: Due to attempts to circumvent the domain of the Dark, you have drawn the eye of the Dark. Witness this message and tremble, mortal: (Developer’s note: Do some Wizardry, Erick.)
+
+10: The Black Gate, through Benevolence all things are possible
+
+~ Notification: With skill, Benevolence, and the agreement of the Dark, call forth a Dark Dream from the depths. When the requested dream surfaces it will instantiate within the Experimental Floor of the dungeon. BEWARE, the local area is made of Benevolence and is amenable to life, but the Script is distant in the dream, while the Dark is ever closer.
+
+- -
+
+Erick grinned. “Now that’s what I’m talking about!”
+
+“Even managed to make it out of Benevolence, and let the Script into the space… a little bit? Not sure on that part,” Solomon said, as he flicked a hand toward the timer box. The timer box floated to hover above and in front of the [Renew] Gate. It was still showing all 9s. “I can’t see a soul or anything like that in those people. Can you?”
+
+Erick had already scoped out the people and the healers attending to them. “They don’t look real to me, and I don’t think they can see us. We could just watch for a while? See if they wander off and then we don’t have to deal with them? I think I would prefer that.”
+
+Solomon said, “The girls aren’t even back yet, so yeah. Let’s wait and watch.” He looked to Erick, saying, “Good work.”
+
+“Couldn’t have done it without you.” Erick breathed out in satisfaction, and then he summoned a chair for himself, and for Solomon. He sat down, asking, “How much longer will the girls be?”
+
+Solomon sat down, saying, “Maybe two hours.”
+
+Erick nodded. He turned his focus to the scene happening just beyond the ephemeral edge between the slime dungeon floor, and the Other Space just beyond. Dark mist, or smoke, or clouds, lingered here and there, forming a transparent film between this reality and the Other. The only space where that film did not exist was within the [Renew] Gate. There, the air was clear.
+
+Solomon watched with him.
+
