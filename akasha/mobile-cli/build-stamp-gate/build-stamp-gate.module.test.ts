@@ -14,9 +14,9 @@ import {
 } from "./build-stamp-gate.module.code.ts"
 
 const APP = resolveApp("alanwalton")
-const SHARED_SEAM_DIR = "akasha/code-system/ios-app/shell-scripts"
+const SHARED_SEAM_DIR = "akasha/code-system/ios-apps/scripts"
 const STAMP_SEAM_REPO_PATH = `${SHARED_SEAM_DIR}/build-stamp/build-stamp.shell-script.shell.sh`
-const APP_SEAM_DIR = "akasha/code-system/ios-app/ios-apps"
+const APP_SEAM_DIR = "akasha/code-system/ios-apps/pages"
 const COMMIT = "977e7d5a3e2f4fbc3942db6faff252272809668e"
 const IPA = "build/export/App.ipa"
 
@@ -108,7 +108,7 @@ describe("the marker contract with the seam that writes it", () => {
     for (const app of Object.values(mobileApps())) {
       if (app.nativeShellRepoPath === null || app.widgetBundleId === null) continue
       const repoRoot = resolveRepoRoot(shellRepoRoot(app))
-      const scriptsDir = join(repoRoot, APP_SEAM_DIR, app.slug, "shell-scripts")
+      const scriptsDir = join(repoRoot, APP_SEAM_DIR, app.slug, "scripts")
       if (!existsSync(scriptsDir)) continue
       const seamTree = readdirSync(scriptsDir, { recursive: true, encoding: "utf8" })
         .filter((name) => name.endsWith(".sh"))

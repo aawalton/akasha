@@ -72,13 +72,13 @@ test("both apps are built by the one script standing above them", () => {
 
 test("the build script is the shell file beside the page the app names", () => {
   expect(planned("alanwalton").buildScriptPath).toEndWith(
-    "shell-scripts/build-sim/build-sim.shell-script.shell.sh"
+    "scripts/build-sim/build-sim.shell-script.shell.sh"
   )
 })
 
 test("what is delivered carries the app's package and every shared directory", () => {
   const held = planned("alanwalton")
-  expect(held.shellPath).toBe("akasha/code-system/ios-app/ios-apps/alanwalton")
+  expect(held.shellPath).toBe("akasha/code-system/ios-apps/pages/alanwalton")
   expect(held.deliverPaths).toContain(held.shellPath)
   for (const one of SHARED_PATHS) expect(held.deliverPaths).toContain(one)
 })
@@ -118,10 +118,8 @@ test("every component the shipped program names is handed to the seam", () => {
 
 test("what stages an app's site and where that site is built from are read off its page", () => {
   const held = planned("alanwalton").staging
-  expect(held?.sourcePath).toBe("alanwalton/web")
-  expect(held?.scriptPath).toEndWith(
-    "alanwalton-stage-app/alanwalton-stage-app.shell-script.shell.sh"
-  )
+  expect(held?.sourcePath).toBe("akasha/alan/web-capacitor")
+  expect(held?.scriptPath).toEndWith("stage-app/alanwalton-stage-app.shell-script.shell.sh")
 })
 
 test("an app whose site is a page of its own stages nothing", () => {

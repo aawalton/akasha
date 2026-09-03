@@ -61,9 +61,9 @@ function makeShellRepo(): { root: string; cleanup: () => void } {
   return makeRepo({
     "native-shell/example/package.json": '{"name":"@example/native-shell"}\n',
     "native-shell/example/scripts/apply-ios-seam.sh": "#!/usr/bin/env bash\n",
-    "akasha/code-system/ios-app/shell-scripts/build-stamp.sh": "#!/usr/bin/env bash\n",
-    "akasha/code-system/ios-component/ios-components/ring/Ring.swift": "struct Ring {}\n",
-    "akasha/code-system/ios-program/ios-programs/example.ts": "export const example = 1\n",
+    "akasha/code-system/ios-apps/scripts/build-stamp.sh": "#!/usr/bin/env bash\n",
+    "akasha/code-system/ios-components/pages/ring/Ring.swift": "struct Ring {}\n",
+    "akasha/code-system/ios-programs/pages/example.ts": "export const example = 1\n",
     "agent/seat/somebody.seat.md": "outside the shell tree\n",
   })
 }
@@ -142,7 +142,7 @@ describe("computeBuildInputTreeHash — build-input closure scope", () => {
       const before = hashOf(codeRoot, shellRoot)
       commitEdit(
         shellRoot,
-        "akasha/code-system/ios-app/shell-scripts/build-stamp.sh",
+        "akasha/code-system/ios-apps/scripts/build-stamp.sh",
         "#!/usr/bin/env bash\ntrue\n"
       )
       expect(hashOf(codeRoot, shellRoot)).not.toBe(before)
@@ -157,7 +157,7 @@ describe("computeBuildInputTreeHash — build-input closure scope", () => {
       const before = hashOf(codeRoot, shellRoot)
       commitEdit(
         shellRoot,
-        "akasha/code-system/ios-component/ios-components/ring/Ring.swift",
+        "akasha/code-system/ios-components/pages/ring/Ring.swift",
         "struct Ring { let width = 1 }\n"
       )
       expect(hashOf(codeRoot, shellRoot)).not.toBe(before)
@@ -182,7 +182,7 @@ describe("computeBuildInputTreeHash — build-input closure scope", () => {
     const { codeRoot, shellRoot, cleanup } = bothRepos()
     try {
       const before = hashOf(codeRoot, shellRoot)
-      commitRemoval(shellRoot, "akasha/code-system/ios-app/shell-scripts/build-stamp.sh")
+      commitRemoval(shellRoot, "akasha/code-system/ios-apps/scripts/build-stamp.sh")
       expect(hashOf(codeRoot, shellRoot)).not.toBe(before)
     } finally {
       cleanup()

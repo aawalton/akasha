@@ -57,9 +57,9 @@ describe("simRunSourceRepoPaths", () => {
   })
 
   test("delivers the seam scripts and components every shell shares, named from the repo root", () => {
-    expect(paths).toContain("akasha/code-system/ios-app/shell-scripts")
-    expect(paths).toContain("akasha/code-system/ios-component/ios-components")
-    expect(paths).toContain("akasha/code-system/ios-program/ios-programs")
+    expect(paths).toContain("akasha/code-system/ios-apps/scripts")
+    expect(paths).toContain("akasha/code-system/ios-components/pages")
+    expect(paths).toContain("akasha/code-system/ios-programs/pages")
   })
 
   test("no delivered path reaches above the repo root", () => {
