@@ -24,5 +24,6 @@ export const chess = {
     "page-type/chess-game",
     "page-type/chess-progress",
     "page-type/chess-puzzle-set",
+    "page-type/chess-review-session",
   ],
 } as const satisfies WorkspacePackage

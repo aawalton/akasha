@@ -31,5 +31,13 @@ export const sessions = {
       invariantKind: "departure",
       statement: "A question about a stretch is never identified by that stretch's title.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A stretch carrying no end is the stretch running now.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A stretch is a row here rather than a page a query may ask of.",
+    },
   ],
 } as const satisfies PagePropertyEntry

@@ -33,5 +33,14 @@ export const puzzles = {
       invariantKind: "absence",
       statement: "A row nobody has answered carries no answer.",
     },
+    {
+      invariantKind: "absence",
+      statement: "A row is taken from the set's source rather than composed here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A row is keyed on the id its source gives the puzzle, so one puzzle read twice is one row.",
+    },
   ],
 } as const satisfies PagePropertyEntry
