@@ -154,3 +154,1098 @@ Considering Orodan could sense the clear enchantments upon the gun Fenton had ho
 
 “I can see that… no wonder it stays hot despite the distance…”
 
+It was an entirely new device he was viewing. Yes, he’d seen the weapons and war machines of Lonvoron before but hadn’t actually considered how the technology worked; mainly because he didn’t have the Engineering and Artificing skills or the correct perspective at the time, nor did he have the leisure time to focus on crafts. Now though, looking at the steam, and the pipes, he could only respect the civilization of the Blackworth Collective.
+
+On Alastaia, heating was done via firewood or coal and handled by the individual household. At most, a higher-end building might have magical heating which was done via enchantments, with the power perhaps drawing from a mana battery. Here, most of the shanty buildings had some sort of steam pipe connecting to them. Funnelling a substance through pipes while retaining its energy was hard work, and to then have pipes running to each building? A true engineering feat he had to respect.
+
+Based off the temperature of natural steam, Orodan felt it could perhaps remain hot for a good mile if traveling down a pipe. And even then, off the top of his head there were so many factors to consider such as ensuring there was no pressure loss, the inevitable condensation build up, perhaps even the formation of sediment which would impede the pipes due to the natural dissolving of solids in the water.
+
+Though, the fort in the distance which was at least fifteen miles away, had to use some sort of magical method to ensure the steam remained hot over great distances. It was impressive.
+
+Their work continued, with Orodan gaining two more levels in Smelting by the time all the ingots were prepared.
+
+“They build you island men different huh? Mum says I’ll grow big too… maybe not as much as you though,” Fenton muttered. “We finished ahead of time. Don’t know what to do with myself now...”
+
+“How about we fix this place up a bit then?” Orodan suggested. “Maybe we can do something about these broken pipes and that non-functional forge?”
+
+“Well bugger… wish I could, but I don’t know the regular way of going about repairin’ the pipes and casting the right alloy for them. Even though I’m a quick study, the gunsmith’s not too keen on teaching me welding or casting until I’ve got a year on the job,” Fenton said. “Also got to consider that steam’s some strong stuff. Pipes which aren’t treated for it will get chewed right through.”
+
+“I think I could take a shot at it. The pipes are broken already, so what’s the worst we can do?” Orodan asked.
+
+He was a decent enough blacksmith and had passable knowledge of working with metal by now. Creating an alloy wasn’t a hard task when example of it were laying all about the smithy.
+
+Fenton didn’t seem to disagree either. The work they’d done together thus far had established a bit of good will with the young man.
+
+“Hmm… I suppose the gunsmith won’t notice if a bit of ore’s skimmed off the supply. Especially if her old forge is working again.”
+
+Orodan drew some ore from the crates and put it into the kiln. A Draconic Fireball then formed in his hand as he heated the rock down into usable metal.
+
+“You’re a pyromancer too? Why didn’t you do that earlier then?!”
+
+“And devalue the honest labor you were putting in?” Orodan asked with a smirk. “I think not.”
+
+How else would the youth learn without the joy of hard work? It built character.
+
+Fenton grumbled a bit but shut his mouth as Orodan cast the metal into the exact specifications of the pipes he needed to repair.
+
+“Yer’ a blacksmith too? Rather multi-talented for a wanderer… your sort’s usually good for killin’ and not much else.”
+
+“A warrior must keep their mind and body balanced. Swinging a sword is pointless if the mind of the one wielding it is weak.”
+
+“A warrior? You with the crown’s army then?” Fenton asked. “Always wanted to join the army’s engineering college…”
+
+“No crown in my home nation. We’re a Republic where I come from,” Orodan clarified.
+
+“A Republic? Sounds like a load of bollocks to me… unless… you really are one of those travellers from other worlds?”
+
+Orodan simply smiled, and Fenton remained quiet for a while after that. Perhaps the thought of a functional Republic was simply too diabolical for Fenton, and the lad finally believed Orodan’s claims of being from another world.
+
+He finished the steel by giving it a little coat via heating the metal to high temperature and funnelling steam directly inside as well. The resultant reaction gave the pipe parts a protective coat, helpful against steam and corrosion.
+
+“The pipes are ready to be attached, but you say this magical steam’s rather corrosive?” Orodan asked and Fenton nodded. “I don’t think the coating process will be enough then.”
+
+It might’ve been good enough for natural steam, but this magical steam the people of Lonvoron used was a notch hotter.
+
+“Right, some fine steel you’ve made but it won’t hold up once the valve’s turned. I think the gunsmith’s got a bit of solution for treating the metal- oi! What’re you doing over there?!”
+
+Orodan’s hand turned the valve. It was rusty and practically stuck in place from being unused for so long, but his hand caused it to move with a horrible screech. And with that groan of metal, the hissing of magically hot steam erupted…
+
+…right into Orodan’s waiting hand.
+
+“Hmm, rather potent stuff. I can see how everything might be powered by this.”
+
+Definitely hotter than regular steam.
+
+“You’ll burn your hand! You… eh?” Fenton stopped his protests, noticing how Orodan was fine. “You one of them steam mages now too? What can’t you do?”
+
+“No, not a steam mage. This temperature simply isn’t enough to scorch me,” Orodan said, gauging exactly how hot the steam was and then shutting the valve off. Though steam magic did seem interesting. “Any alchemical supplies around here?”
+
+The boy had a hard time believing Orodan was unscorched, but the question snapped him out of it.
+
+“We’re in a shanty little gunsmithy… of course we have no alchemical supplies,” Fenton answered. “All we got is some of the solution the smith uses to coat the pipes sometimes. Usually, one of them engineers with their tall hats is scheduled to come by and do it, but been a while since the one in the fort hasn’t been busy.”
+
+Orodan took the solution from Fenton’s hand and closely examined it.
+
+Identify was used.
+
+[Name: Bottle of Mineral Coating Solution Description: A bottle of solution used to coat metals for proofing against rust and corrosion. Ninety-percent purity Tier: Initiate]
+
+What in the seven hells was this garbage?
+
+“Who sold you this? In the context of an Initiate-level solution, ninety-percent purity is pathetic,” Orodan said. “This is obviously diluted too…”
+
+He could see the ingredients clearly enough. Mineral oils for protection, a substance to aid the solution in sticking to the pipe and another ingredient to prevent the solution drying and forming lumps too quickly. Still, it was cheap and shoddy work, likely produced en masse focusing on quantity over quality.
+
+Little wonder there were so many empty bottles of the solution lying about the shop. A good protective solution would last a longer time. Yet, this shoddy protective substance wore out and needed to be replaced frequently. Must’ve been what caused the other forge to become defunct too. He could imagine a steam pipe exploding easily enough if the inner protective coating eroded.
+
+“Not many options in Port Bellgrave. There’s two alchemists in town, and one of them’s holed up in the fort doing who knows what,” Fenton said. “Our alchemic products come from the foreman, Elwin Clemmings; he imports the solution cheaply from a merchant who sells in bulk. Moneygrubbing shark would sell his own kin if it got him a good deal.”
+
+And the merchant selling the shoddy solution must’ve sold it so cheap for a reason. In any case, a problem which was easily solved as Orodan had now managed to understand how this substance worked. While he wasn’t a prodigy by any means, his Alchemy skill was on the cusp of the Elite-level.
+
+“Got any plants around here? Or wood?” Orodan asked, stepping just outside the workshop and into the shanty town.
+
+It was nighttime, the moon was completely obscured by the heavy clouds overhead, and those too were beginning to weep, causing the cheap metallic roof of the workshop to echo with the pitter-patter of rainfall. To the naked eye, Port Bellgrave’s scrap town was quite dark. The veil of night illuminated only by flickering lanterns hanging outside the occasional shack.
+
+Vision of Purity let him see the entire picture, but even then, most people were asleep or cooking humble fare within their homes. A scant few like Fenton though, were toiling away through the night.
+
+There really wasn’t much vegetation upon the rocky ground outside. This place was quite barren, and it didn’t look like Port Bellgrave would be having a strong farming economy anytime soon. Still, there were some lichens and short grasses growing even upon such tough rock, and Orodan yanked these up along with the few twigs, branches and other bits of wood he could find. There was a halfway decent tree nearby, and Orodan uprooted that too, bringing it back and throwing it upon the shop floor.
+
+He took one of the ore chunks and used his Celestial skill to draw out the trace minerals that he would need from the rock. Following this, he made a set of vats via Earthen Construct and began the process of extracting the oils from the plants and the sticky resin from the wood.
+
+Once all the materials were prepared, he then began the process of mixing the minerals with the extracted oils and sticky resin from the wood.
+
+“By King Alstatyn’s shiny boot… what craft don’t you know, Mister Orodan? You really don’t strike me as one of them greasy nutcases who works with potions, you look too er… sane, for that.”
+
+He ignored Zaessythra’s snide remarks about his sanity.
+
+“It’s nothing special; the solution is just mineral oil with an agent to help it flow easy and not clump together. The resin is to help it stick to the inside of the pipes,” Orodan explained. “I don’t have any particular proclivity for Alchemy; any third-rate alchemist from my world should be capable of this.”
+
+Fenton looked on, interest obvious, as Orodan finished up with the large vat of solution. Throughout it all, he made sure to keep all the ingredients utterly clean. He then prepared one of the used bottles scattered about and filled it with his own product.
+
+[Identify 5 → Identify 6]
+
+[Name: Bottle of Mineral Coating Solution Description: A bottle of solution used to coat metals for proofing against rust and corrosion. One-hundred percent purity Tier: Apprentice]
+
+Sometimes hundred-percent purity caused an item to jump a tier, other times it would leap two. It all depended on the product itself. For something which didn’t have any magical amplification to it, a tier increase was the best it could hope for.
+
+Empowering it with too much mana might cause the pipes to explode too, thus, sometimes mundane methods were the sort best suited to a task.
+
+“Damn… this stuff looks a lot stronger than whatever greedy Clemmings buys,” Fenton said, a frown on his face. “Something tells me he won’t be happy about you undercutting him.”
+
+“He won’t be happy about a lot of things today,” Orodan said ominously.
+
+Before his new friend could ask what he meant by that, Orodan began attaching the pieces of pipe he’d made to the existing broken ones. A swift cast of Candleflame got the new product and the old hot enough to weld together at the right points. And then, he picked the giant vat of coating solution up.
+
+“The maintenance hatch is at the top of…” Fenton’s words were cut off as Orodan threw the liquid up the pipe, a cast of Galewind following behind it, guiding it along to coat the insides thoroughly. “…that works too I suppose.”
+
+[Galewind 28 → Galewind 29]
+
+Throwing the solution up the pipes and then guiding it via Galewind was good training. It got Orodan idly wondering if there were any more broken pipes around the place.
+
+Unfortunately, there was only one more shattered pipe, and his toss of solution upwards and the subsequent cast of Galewind didn’t net him any level gain for it.
+
+The pipe was now done, Orodan simply hooked it up to the receiving port on the defunct steam forge. And with a twist, the valve was turned on once more.
+
+Vision of Purity watched closely as the magical steam began flowing down the pipe. He estimated that his own coating would last perhaps six months before needing re-application. A significant improvement over the bi-weekly applications of solution needed when using this Elwin Clemmings’ shoddy product.
+
+With a sputter of magical steam, the other forge in the shop roared to life.
+
+“There, it should be working now. Two forges instead of one,” Orodan remarked.
+
+“I refuse to be surprised anymore, Mister Orodan… you’re just showing off one trade after another, like them wanderin’ parlor magicians pulling rabbits out of their hats,” Fenton muttered. “You some sort of master tradesman from your world? Which one you from anyways? Can’t be any in our local star system, never heard of folk wearing clothes and weapons like yours from nearby.”
+
+“As I said I’m a warrior. Though, picking up a trade or two helps center the mind, and who knows what you might tangentially learn that helps in the midst of battle,” Orodan said, thinking of how Weaving and Recycling helped him quite a bit recently.
+
+“If you’re that good a hand at being an artisan, then I hope not to see what you’re like when in a brawl.”
+
+“It’s simply a matter of time and dedication,” Orodan encouraged. “You mentioned other worlds though? Are otherworlders a common sight?”
+
+“In the mainland and their fancy capital maybe; certainly not for a destitute rube like me to behold,” Fenton said. “I know you said it enough times… but are you really not from Lonvoron?”
+
+“I really am not.”
+
+“Well, damn… who would’ve thought poor little Penny would get to see a traveller of the stars. What’s it like out there? Are those bright flashes in the night really ships of the void like the blue bloods claim?” Fenton asked.
+
+“I haven’t been around these parts much, but I have seen the Blackworth Collective’s void craft in battle, let me tell you about them…”
+
+And while Orodan finished repairing the other pipes, fixing the heater and a device meant for welding, they spoke. He told young and wide-eyed Fenton about the worlds outside Lonvoron, and in turn he too learned about Port Bellgrave and the Ironhaven Isles.
+
+For starters, Port Bellgrave was both the name of this settlement, and the small island they were upon. It was part of the island chain known as the Ironhaven Isles. In the distant past, the territory of privateers and pirates. In the current day, a set of islands with a bountiful mining economy which fuelled the war machine of the Collective.
+
+The island was tiny enough that the locals hadn’t bothered having a separate name for it, instead opting to simply call it Port Bellgrave. The port town proper was in the center, with a military fort overlooking everything from the high ground on the north end of the island. Scrap town, which was a shanty assortment of cheap buildings for housing the indentured servants, was on the south end near the mines.
+
+If anything, Fenton was lucky, to have enough talent in gunsmithing and a good enough head on his shoulders that the foreman had handpicked him for service in the gunsmithy. Other unfortunate folks caught up in the chains of indentured servitude, the unskilled sort, were sent to the mines for hard labor.
+
+The overseers kept those poor folk fed and healthy enough, and the System’s existence meant that the acquisition of enough levels to eventually get out by proving their usefulness was a possibility… but a lot of the miners died to subterranean monsters before they could do any of that. It was gruelling and dangerous work, and Fenton was glad to not be stuck doing that.
+
+And above all else, as Orodan had seen the last time he was here… Lonvoron was a world under siege by the Eldritch. Three entire plague worlds to be exact. Alas, that battle was far away from Port Bellgrave. The front lines and the perimeter established by the Collective’s military was for now holding against the Eldritch. But that didn’t mean the war for existential survival wasn’t felt everywhere.
+
+The average man like Fenton Penny knew not what the Eldritch truly was. His only experience being the rare visit by inquisitors from the crown, doing inspections with strange devices which tested ‘corruption’. To them, the Collective’s military was battling to stop ‘the plague’ far away from here, and every city, town, village and port on Lonvoron had to contribute their due.
+
+Whether it was through mining ore in hazardous conditions or helping make guns and other weapons to send off to the front lines… all had to contribute.
+
+“What a day… I can scarcely believe everything you’ve told me. Other galaxies? Crystals the size of star systems out to kill you? Sounds loony enough to make an honest man go mental. Are all otherworlders like you?” Fenton asked.
+
+“Not many, I suspect.”
+
+“I suppose I’ll take your word for it then. Most wanderers ‘round Port Bellgrave are usually fugitives fleeing the long arm of the law. Draft-dodgers, thieves and murderers; rough characters best avoided,” Fenton said. “An actual otherworlder here? First time I ever seen somethin’ like this. The stories make you lot out to be larger-than-life, more like the big-headed highborns in the fort than us little folk. You don’t look like such a bad sort though.”
+
+“Heh! Well I’m the farthest thing from a noble,” Orodan said with a chuckle. “I grew up a street rat and an orphan in my world. We’re not too dissimilar, you and I, had a hard life much like you.”
+
+“Well, can’t say I grew up a street rat or an orphan… but my old man promised he’d come back and take us someplace better one day… that was over a decade ago before my mother’s sickness really set in,” Fenton said.
+
+“I’m sorry for your loss,” Orodan said. “Do you know how and where he died?”
+
+“That’s just the thing… I don’t know if he even passed. Went out to serve on the front lines of the dead zone and never been back since,” Fenton explained and then shook his head. “But that’s enough about my woes. What’re you after on our plague-stricken world? Mind you, I’m glad we met, but you otherworlders usually congregate at the capital and meet with the King. Though, I could’ve swore I heard some ship captain say they closed the travel between worlds recently…”
+
+“How recently?”
+
+“A day ago, I think. Was big news when certain imports couldn’t reach the capital because of that.”
+
+In other words, at the beginning of his loop. The previous looper had likely noticed either the tapestry’s sudden mess, or something about the start of the loops themselves. Not surprising, given how the Boundless One at the heart of the System must’ve been thrashing about, panicked at losing control over the time loop. And the shadowy power behind Lonvoron was already dealing with the Prophet and the Eldritch, seeing this additional chaos must’ve spooked them further.
+
+“Such a shame then, that the wealthy folk of the capital aren’t getting their exotic resources from other worlds,” Orodan remarked.
+
+“I won’t be sheddin’ no tears over them blue bloods of the mainland, but it does beg the question of how you got here if they shut down the arrays,” Fenton said. “I won’t have to look forward to a fleet from the crown showin’ up here will I? That’s a load of trouble, which means medicine doses and payments gettin’ delayed.”
+
+“In truth, I know not whether my entry was detected, so I can’t promise a fleet or two won’t show up looking for me,” Orodan admitted. “But I’m not about to drag anyone else into my fights if they do. So you can rest easy.”
+
+“The mess will affect us whether we want it or not,” he replied and then sighed. “Not like I can do nothin’ about it anyway.”
+
+“While I have a penchant for causing a mess, I hope to avoid that this time,” Orodan stated. Hoped to avoid much of a mess at least. “Me landing here was quite fortuitous I must say.”
+
+“What do you mean, Mister Orodan?”
+
+“Not only did I land someplace with the least amount of monitoring, but I also happened to land right in a gunsmith’s workshop. Good place to pick up a trick or two. That spider must’ve known what it was doing when it threw me down here…” Orodan muttered and then looked at Fenton. “You’re a gunsmith, right?”
+
+“Er… I’m assistant to a gunsmith. Can’t say I’m a proper gunsmith meself,” Fenton corrected. “You want to learn how to make guns? Afraid I can’t openly be seen helping you with that… foreman’s real particular about who comes into scrap town. Been that way since a few too many rough characters slippin’ the law tried sheltering here,” Fenton said. “Nothin’ personal Mister Orodan, but if somebody sees you with me I’ll have to cry shark and say I had naught to do with you.”
+
+“No offense taken. Do what you have to do. Is this foreman coming by anytime soon?” Orodan asked.
+
+“Aye, he’s due to visit within the hour. Listen… you seem to be a good fellow, and I’d rather not see you stir the hornet’s nest and rouse the ire of the fort,” Fenton said. “Mother and I live a block down; the sun’s due to come up soon and it’s change of shift for the watch then. My home’s got three withered shrubs in front of it, and an old woman inside. Tell my mum that Fen sent you.”
+
+Orodan’s eyes softened.
+
+“You just met me and you’re agreeing to harbor me? Why put yourself and your mother at risk?” Orodan asked.
+
+“Well… been a real long time since anyone’s done Fenton Penny a good turn,” the young man said, looking away. “Can’t let a gent like you be clapped in irons by the watch and thrown into a pit in the fort.”
+
+“The offer is appreciated, truly it is. But that won’t be necessary,” Orodan replied. “I intend to meet with the foreman anyways. Now then, you say I’ve done you a good turn? Wouldn’t mind you showing me some of these guns you work on before the man gets here.”
+
+Fenton tried protesting that. Not the part about showing Orodan guns, but about him meeting the foreman. The gunsmith assistant swore up and down that nothing good would come of it but eventually relented and seemed to wash his hands of the matter.
+
+Thus, the lad started showing him the weapons used on Lonvoron.
+
+And immediately, Orodan noticed the first glaring difference. He’d seen it before, yes, but at the time he hadn’t had the skill to appreciate the technological contrast.
+
+“These are powered by steam…” Orodan muttered, looking at a firearm which was markedly different from the designs he was familiar with upon Alastaia. “How does the gun survive magical steam of that power? The metal isn’t insulated either…”
+
+For starters, the drum to the right of the rifle seemed to be a storage for steam. Something a black powder firearm didn’t have. And the majority of the gun was made of metal, with only a basic lining of wooden insulation on the grip. Great swathes of the metal were plain and smooth too, these spots, Orodan surmised, were meant to be enchanted.
+
+There were clockwork gears at certain points, meant to move valves and allow entry of steam into the barrel for propelling the shot. Aesthetically, it looked quite clock-themed with all the gears and cogs.
+
+“Of course it’s powered by steam, what else would we use? Heard stories about how the old guns and cannons of yore would use black powder, but we moved past that long ago. Way too many steam mages and enchanters around nowadays to not use the stuff,” Fenton explained. “As for this gun surviving the steam, it won’t.”
+
+“Then… it’s incomplete. Meant to be enchanted?”
+
+“Good eye, right you are. It’s not done yet, meant to be shipped to the fort where their enchanters will put the finishing touches on it. You didn’t think they let us little folk have the completed weapons, did you?” Fenton asked sarcastically. “No… for us, we’ll be lucky to get a little eight-shooter like the one I have. Made it myself!”
+
+Fenton seemed quite proud of that too.
+
+“You’re an enchanter as well?” Orodan asked. “How are you stuck here?”
+
+“N-not so loud! Don’t let anyone in town hear you say that! They’ll send me off to the fort if they hear,” Fenton hissed. “I picked it up from lookin’ at the weapons of the hired guns they have guarding the mine.”
+
+What ridiculous talent was that? Most people learned enchanting through a regular education; Orodan certainly had. Hells, it would be remarkable if someone learned it from watching an enchanter work. But Fenton just picked it up by closely looking at enchanted guns?
+
+“How long have you been Enchanting for?” Orodan asked.
+
+“Er… maybe a few months? Only cracked the Elite-level recently…” Fenton muttered
+
+Utterly absurd… a reminder that the cosmos was big and Orodan Wainwright wasn’t the only one talented in things. Fenton Penny was a true monster of Enchanting with a learning speed which was beyond Orodan’s own. Elite-level in months? Nobody he’d seen on Alastaia could match that. Now this was true talent.
+
+On his home world the young man would’ve been kidnapped and developed into a national asset rather quickly.
+
+“Any other work of yours that you’ve done?” Orodan asked, prompting the boy to nod and go to the back room, bringing something out from a cubby hole.
+
+It was an enchanted armor plate, and Fenton looked quite proud of it too.
+
+“An inscription of explosion? Quite well-made, but better suited to a weapon or projectile, is it not?” Orodan asked. “Directional explosion too? Can’t see the purpose of this on armor unless…”
+
+“Right you are, ser, but imagine a rough blow hitting this piece and the plate exploding outwards! Spent a whole month workin’ on this design!”
+
+Suddenly, a memory came unbidden to him.
+
+“Defense, achieved through offense. I concur,” Orodan said as he examined the enchantment closely with Vision of Purity. He wasn’t as good an enchanter as this young boy, but he could perhaps provide a fine eye where this boy hadn’t looked. “The incoming warhammer which is simply taken directly on the shield will break the shoulder… yet when the shield is angled and swung outwards to meet the strike… the attack is prevented. In line with this philosophy, one can also apply this to armor. In fact… the only thing wrong with your design is the purity.”
+
+Orodan now recalled where he’d seen Fenton before. In the long loop where he’d travelled to Lonvoron for the first time. And as Orodan considered the boy’s story of an ailing mother, a frown appeared on his face. He surmised how the young boy might come to be pressed into military service in roughly a few months’ time.
+
+“I’m sorry for your loss…” Orodan muttered.
+
+“What’s that mister Orodan?”
+
+“It won’t happen again if I can help it,” Orodan promised.
+
+“What won’t?”
+
+“Nothing, don’t worry about it. Now then, it’s plain to see that you’re a true genius. If your mother’s sick, why are you not revealing your skill? This world is different to my own, but an Elite-level enchanter must be a valued commodity, no?” Orodan asked. “The curing of your mother’s disease would be a small price to pay if it meant securing you.”
+
+“Thing is Mister Orodan, I want to… I really do… but my mum won’t let me.”
+
+“…why?”
+
+“Us indentured servants are bound by contract to be assigned as the contract owner sees fit. My post at the gunsmithy? The result of me showing too much of a knack for this line of work. And if I showed them I can enchant? I’ll be sent to the fort and forced to apprentice under their Master enchanter and maybe even pressed into service. Easier work and far less rough labor,” Fenton said. “And while that doesn’t sound bad at a glance, the issue is that whatever I make will be crown property, with barely a pittance entering my own pocket. Long as my mum’s taken care of, money’s not what I’m after; I want to do it. But my mother insists my ambitions be higher than that. Demanding woman wants me to hide my love for enchanting until the contract’s paid off, and then I can start my own trade in a city.”
+
+Orodan supposed that would be the winning long-term strategy. Of course, having met his own mother recently, he could understand how no son would want to see their mother suffer, even if she insisted upon it, for long-term gain.
+
+“A tough quandary,” Orodan said, making a note to resolve the matter for him. “Back to the gun though… even with enchantments, does the wooden insulation not burn up? All that magically hot steam can’t be good if it leaks or gets hit in the middle of combat.”
+
+“Heh… you’re a funny one Mister Orodan. The well-crafted gear made with good materials and safeguards ain’t meant for us little folk or the chaff soldiers of the line. Enough cases of steam scalding to keep the healers employed, and most of the soldiers comin’ back with the scars don’t got enough coin to heal them properly either,” Fenton explained. “This here’s what we got. It’s what the soldiers of the line use on the front lines and they’ll have to make do with it. Twelve-shot, lever-action, steam-powered magazine. Pinnacle of lethality; usually fatal for all but the biggest game… and if unlucky, sometimes the soldier too.”
+
+Lever-action?
+
+The guns he designed were single-shot, with a reload of perhaps a few seconds in-between depending on the skill of the gunner. And while he knew that the dwarves of Alastaia had repeating rifles, he’d never really perused any of their rifles after acquiring his Gunsmithing and Engineering skills.
+
+Over the next thirty minutes, Orodan carefully studied all the guns Fenton showed him. Provided the barrel of the gun could tolerate the stress, a repeating firearm was a great improvement over any single-shot design. As he studied the weapons he discussed their designs with Fenton, and he came to learn that the assistant gunsmith was quite the talented man when it came to firearms design.
+
+If anything, this predatory contract of service seemed a waste of the young man’s talents. Fenton was a wellspring of innovative ideas, and the boy possessed a natural knack for Engineering and creative ideas involving firearms. Orodan was certain he would do quite well at Bluefire in Alastaia if given the opportunity.
+
+And by quite well, he meant getting kidnapped and pressed into service for his ridiculous talents.
+
+“You know, for a lad stuck as an indentured servant you’re quite knowledgeable about guns. Where’d you learn all this?” Orodan asked.
+
+“Eh… you pick up a trick or two when you take the things apart enough times. Always wanted to apply for one of the colleges of military engineering and artificing,” Fenton said and then sighed. “But I suppose life and me mum’s sickness got in the way.”
+
+Orodan said nothing else after that.
+
+Soon after, he sensed three figures approaching despite the thunderstorm. The sun was up now, yet it did little to detract from the gloomy atmosphere outside.
+
+“Three men approaching. Two of them armed with guns, and the third who looks like he eats a bit much without any corresponding exercise.”
+
+Being girthy but strong was one thing, it meant one at least put in the work to hone their might. But being flabby and weak was another. This foreman seemed to be of the latter sort.
+
+“Damn… you should really get goin’ before the foreman shows up Mister Orodan,” Fenton said. “I don’t doubt you can handle that blade, but they’ll sound the alarm and soon the entire watch and the fort’s soldiers will come running. And have I told you about those dreadful steam knights? Ain’t ever seen a man stand against one of those.”
+
+“It’s alright Fenton,” Orodan said. “I’ll be fine.”
+
+The boy wanted to protest, but the opportunity for that was taken from him as three figures entered the workshop.
+
+Two of them, rough-looking men in long dark coats and small hats. They looked to be the equivalent of the county militia back home. If anything, Orodan would favor any man or woman of the militia over these two in a brawl. Perhaps it was the over-reliance on firearms, or it was that a culture which focused on them would be less proficient in physicality than his own where melee combat and one’s bodily might was quite important. Whatever it was, they, like the people he’d seen on Lonvoron thus far, were smaller in stature and built less sturdy than his own people of Alastaia.
+
+The third, a greasy-looking man with a perpetual sneer on his face and a patchy mustache on his lip.
+
+Upon the sight of Orodan, the two men, bodyguards of a sort, became wary and their hands reached for their waists to the handheld guns therein.
+
+“Who the bloody hell are you? Fenton! Who’s this man?” the greasy foreman demanded.
+
+“I… I don’t know Mister Elwin! Just waltzed in and surprised me much as he did you ser!”
+
+“You must be Elwin Clemmings,” Orodan remarked. “You the foreman here?”
+
+“I am, what of it? I don’t know who you are though. Unauthorized persons and individuals of unknown identity aren’t allowed ‘round these premises. These dwellings are property of the crown,” the foreman said, face red and spittle flying out. The man vaguely reminded him of Sergeant Woodgard.
+
+The senior of the two watchmen stepped forth, looking exceedingly wary of Orodan, who towered over everyone present. A singular spectacle upon the watchman’s left eye, briefly shone and Orodan felt the Observe skill shooting out from there.
+
+“Right, don’t know where you stole that sword and shield from, but tomb robbers aren’t welcome in Port Bellgrave,” the senior watchman said, hand still on his gun. “An apprentice… wainwright?”
+
+“…ser?” the other watchman asked. “What’s the monocle say?”
+
+“An Apprentice Wainwright and a Weaver? I didn’t know Wainwrights even had titles…” the watchman muttered.
+
+“Why aren’t we arresting him ser? This man’s clearly violating the law.”
+
+“Hold your engines boy, let’s not be hasty. Man has a dangerous bearing to him…” the older watchman murmured. “I’m afraid I don’t know who you are ser, but you’re violating the laws of the Blackworth Collective and his Majesty by remaining here. Collective law, article twelve, subsection nine also makes it illegal to obscure, misrepresent or otherwise hide your Status from all lawful officers of the peace within crown domain. Please come with us that we might sort the matter out peacefully.”
+
+The watchmen looked as though they wanted to arrest him, but the senior of the two was exceedingly wary of Orodan. He’d sized him up, head-to-toe, and must not have liked his chances from what he saw. A fair assessment, given how Orodan stood two heads taller and was more than twice as wide and made of muscle.
+
+“It seems we’re at an impasse then, for I have no intentions of going along with you. I do have some questions for this man though,” Orodan said, looking at Elwin Clemmings, the foreman. “This ‘indentured servitude’ I hear about, why can’t Fenton here leave it?”
+
+Poor Fenton looked caught between a rock and a hard place as Orodan’s question revealed that they’d been talking. And the boy looked ready to wither and die under the glare of this arrogant foreman.
+
+“Unfamiliar with our practices huh? Some backwater bog islander are you?” Elwin snidely asked. “Don’t see how it’s any business of yours what we rightfully do under the rule of law. Little Penny here signed the dotted line, not like we chained him up and forced him to work, not like the criminals. His old woman gets regular doses of some expensive tonic, and he works with the gunsmith. A fair trade we’ve all agreed to.”
+
+“And the workers in the mines? What about them?” Orodan asked. “Can’t imagine any of them willingly submitted to being sent down into tunnels rife with monsters.”
+
+“Now listen here you oversized lug, per the crown’s decree nobody can be forced into indentured servitude save criminals and those who agree to it. They had debts, and they’re paying them off. Simple as,” the foreman angrily said. “Now you’ve caused enough of a disturbance and are in a restricted area. Constable Elridge, might the watch do its duty?”
+
+The senior watchman was nervous. Even a slow forward step by Orodan caused the man to whip his handheld firearm out towards him. The man was quick, whatever gun skill he had must’ve been Elite-level at least.
+
+Fast, but not faster than Orodan’s Flash Freeze which rendered the steam-powered gun entirely defunct.
+
+“…my pistol!”
+
+The younger watchman had his gun out and Orodan allowed him to fire a round off before simply catching the bullet mid-flight.
+
+The shooter looked terrified as Orodan’s hand then reached out and crushed the gun into a ball with the ease one might crumple paper.
+
+Orodan, who stood two heads above both these watchmen, looked down with a smile, handing the younger watchman his captured bullet.
+
+“You men are of the watch, yes?” Orodan asked, and the senior man nodded. “Go get more of you. You two won’t be enough.”
+
+The two immediately complied and practically sprinted out to get help. Leaving just the trembling foreman in the shop.
+
+“W-who… who are you? Look, I haven’t done anything to slight you, and if I have, I heartily apologize! I’m just doing my job!”
+
+“You’re quite the predatory shark, aren’t you?” Orodan asked, placing a hand upon Elwin’s shoulder. “I’ve killed slavers before, and I have half a mind to do the same here. Only thing keeping you alive is that this is unjust contracting more than it is slavery. Who knows how many desperate folk you’ve caught up in this scheme versus actual criminals.”
+
+“Please! I would never enslave anyone! I swear it upon my family!”
+
+Orodan didn’t sense the man was lying either.
+
+“And yet, they’re forced into some horrid conditions in order to pay off what they owe… no escape either,” Orodan said. “The concept of debt isn’t a foreign one to me, but where I come from that usually involves one’s properties being sold, earnings being taken and a labor agreement within the bounds of civility that the debtor consents to and is free to leave at risk of penalties. Pressing people into mining monster-infested areas… rather cruel don’t you think?”
+
+“A foul system, I agree! But I can only follow the orders of the crown and the supply master residing up in the fort!”
+
+“I’m sure I’ll meet these people soon enough. For now, to the mines we go. Come Fenton, let us see who’s been caught in the web of this predatory scheme and who’s an actual criminal.”
+
+They walked down the stormy streets of scrap town, the rain thrumming onto the rocky roads, until they finally reached a particularly mountainous section next to town. It was a mine, but the entrance looked especially well-fortified, with towers hoisting devices which cast high-beam lights into the distance. These towers had rifle armed men and women atop them.
+
+These enforcers didn’t look like they were members of the watch either. Instead dressed far rougher, and with an assortment of gear and custom weaponry that led Orodan to surmise that they were mercenaries or hired guns.
+
+With the bladed wire fencing surrounding the mine side of the fence, one had to wonder if they were keeping intruders out or workers in.
+
+Closer to the gates, the foreman screamed at the top of his lungs and ran for the nearest guard. Orodan allowed it.
+
+“Help! Help! I’m being held hostage!”
+
+The guards were predictably taken aback by the shouting, but even more wary at the sight of Orodan with his sword and shield. A tower guard near a device capable of amplifying sound yelled, her voice booming.
+
+“Halt! Stand still and do not approach that you might be Observed and identified!”
+
+Then, he heard the muttered remarks and confusion.
+
+“…Orodan Wainwright the Apprentice Wainwright?”
+
+“Is this some sort of joke? Who is he?”
+
+“Looks like he robbed a noble house’s antique vault for those weapons…”
+
+Orodan ignored them and walked forward, prompting the tower guard to boom out a warning again.
+
+“Do not approach! Orodan Wainwright, we cannot identify you! Remain where you are, and someone will approach you to determine who you are!”
+
+The next step resulted in a crack which echoed throughout the air, a bullet from a rifle striking near where his feet were.
+
+“That was your first and final warning! Stop advancing or you’ll be shot dead!”
+
+“S-say… Mister Orodan! Maybe we ought not to take another step, yeah?” Fenton asked, clearly frightened. “I don’t fancy gettin’ shot today… or ever…”
+
+“Relax Fen, this will be handled soon. Nobody will shoot you today.”
+
+Good as their word, the next step Orodan took had a bullet coming straight for his head. Of course, a simple opening of his mouth led to a polite receipt of the delivery, and a return was spat out immediately after.
+
+“H-he caught it between his teeth!”
+
+“My gun!”
+
+The shooter’s rifle was shattered as Orodan’s ejected bullet impacted it.
+
+“Fire! Fire! Alert the constabulary!”
+
+A hail of bullets came his way and Orodan began swatting them back at their originating guns, rendering them defunct in the process. A powerful shot from a woman wielding an oversized rifle upon a distant tower was also deflected, the shockwave causing the rain to momentarily scatter in a small area.
+
+Grenades, bullets and a gun which shot out multiple projectiles per trigger pull were brought to bear against him, yet Orodan casually deflected all shots with his hands. And as he walked closer, the hail of fire began to lessen as the guns of the guards were destroyed one by one.
+
+The nearest guard was practically frozen in fear as Orodan walked into melee range. A simple hand on the shoulder was suggestion enough for the man to run for the hills. The remaining gunners threw down their arms and began fleeing immediately after.
+
+“Who oversees these mines?” Orodan asked a nearby worker.
+
+“T-that would be Elwin Clemmings right here… ser!” the older woman quickly answered.
+
+As for the foreman who thought shouting for help and running towards the camp would save him, he was utterly petrified. Trembling in place with wide eyes, like a rabbit before a predator.
+
+“Well then, Elwin Clemmings, let’s evaluate just who works here and why.”
+
+#
+
+“And you?”
+
+“My sister’s lungs are shot from inhaling mine dust and the treatments were too expensive…”
+
+“Is your sister here?”
+
+“Yes ser, right next to me. She works here too.”
+
+The younger sister entered a contract of service to help her older sister who had worked in the mines her whole life to provide for the family. Despite the disease ailing her lungs, the older one tried her best to stand tall and show no weakness before Orodan. He could respect that.
+
+A broom was produced, and the resulting sweep purged all the wounds and impurities from the unfortunate woman’s lungs.
+
+The formerly sickly woman’s hands immediately went to her throat, gasping with surprise at how easy her breaths suddenly became.
+
+“I can… I can breathe!” she yelled. “By the Gods I can breathe again!”
+
+He moved onto the next.
+
+“You?”
+
+“Fell into debt trying to open a gunsmithy of my own…”
+
+And on Orodan went, hearing each of the workers’ reasons for being at the mines and healing those who required it. Those with criminal backgrounds had in fact chosen the indentured servitude over straight prison time. These, he left alone as the offer was a voluntary one and the crimes of most were legitimate. He ordered the genuine criminals to the side, kept under order by some of the workers who’d picked up the dropped guns from the guards. They would be locked up in the fort, to serve their sentences in less brutal a manner. A few though, were in for vocally insulting the crown or being unjustly targeted by crooked members of the watch, and those Orodan simply freed.
+
+Imprisoning someone for disagreement with the ruling authorities, Orodan felt, was tyrannical. As for those with debts, he also found the predatory nature of these contracts to be quite vile. They essentially locked these indebted people into a perpetual cycle of poverty and needing to remain under contract to pay it off.
+
+That being said, Orodan was horrible at any sort of negotiation or mercantile trade. Yes, the contracts were predatory, but they were also entered into willingly by the majority of these people. Yes, their labour was horribly undervalued and just enough to pay the interest on the debt, but the debts still existed.
+
+“Foreman,” Orodan said, causing the man to snap to attention. “What would it cost to pay off the debts of all these people?”
+
+“For you ser, nothing! Take them all and do whatever you wish!”
+
+“Give me a serious answer. Clearly many of these people borrowed money in the form of services, medical treatments and whatnot,” Orodan said. “While the pricing is predatory, the debts are real.”
+
+And Orodan wasn’t about to go around threatening people into forgiving debts, not all of them at least. He was a hard-headed simpleton at times, but his education at Bluefire had taught him the importance of a flourishing and free market which debts were a part of. Those who’d taken out loans and failed their business endeavors, or even taken money for frivolous things, had brought it upon themselves.
+
+But that didn’t mean the predatory contracts of indentured servitude were fair either.
+
+“Well… if I discount the three you… dealt with, then it adds up to two-thousand and forty-seven crowns.”
+
+Nearly two-hundred workers stood assorted before Orodan, with three corpses behind him in a pile.
+
+Those three were criminals guilty of acts that deserved naught but death. Certain crimes of a depraved and lascivious nature involving innocents were simply irredeemable. The only cure for such things was the blade. The workers themselves hadn’t disagreed either; for the longest time many of them had wanted to gut those three but had been prevented from doing so by the guards.
+
+“Crowns? How much is that in gold?”
+
+“E-eh? Ser, the price of gold varies from time to time, you’d have to consult an expert to determine the matter.”
+
+“No, I meant gold as in gold pieces. You know? Standard Inuanan… er… never mind…”
+
+“Forgotten that you’re in a different world in a different galaxy, have you?”
+
+Damn it, of course the notion of Inuanan gold pieces wouldn’t work here. Orodan was better suited to slaying world-ending monstrosities and punching his problems than dealing with the intricacies of the economy and the morality of debts.
+
+Yes, he had Logistics and could count, organize and assort things quite well, but managing mercantile affairs, negotiations and the law was a different matter.
+
+Zaessythra however, with her former time as a World Ruler, was far better suited to the task and began suggesting ideas. They were in the midst of figuring out a way of paying off these debts and establishing fair standards and pay for labor when Orodan felt the dimensional boundary shift almost imperceptibly, and eight legs landed upon his shoulders.
+
+“Good Gods! An oversized spider!”
+
+“It’s on his shoulders! Shoot it! Protect the benevolent ser!”
+
+“Student, tell these peasants to point their silly firesticks away from me lest I carve them and their toys into ribbons,” Talricto imperiously said, wearing a funny top hat upon its head.
+
+“It… it talks too!”
+
+“If you’re going to make an unplanned appearance, you could at least give me a warning first,” Orodan said with a sigh, gesturing towards the protective workers to relax. “Did you choose now of all times for mere dramatic effect? And what’s with that dumb hat?”
+
+“Dumb hat? Why, this top hat is the pinnacle of fashion! All I need if a fitting monocle and I’ll embarrass you with my noble bearing! The great Talricto comes and goes as he pleases, and he wears what he desires,” the irritating bug remarked. “And I may or may not have been listening in on your conversation.”
+
+Of course it had. Orodan wouldn’t put it past the spider to have been watching the entire time too.
+
+“Well? Do you have any good news for this mess I’ve gotten myself into?”
+
+“News both good and bad.”
+
+“Let’s hear the good first then.”
+
+“As you wish. The problem of the debts which need to be repaid? I have the solution right here,” Talricto said, dumping a chest full of golden coins upon the ground. “That should cover more than a mere two-thousand crowns.”
+
+In fact, the chest contained ten-thousand coins. He’d forgotten that for a pompous dimensional phase spider, Talricto was quite the proficient procurer of things not belonging to him. The talents of Dimensionalism lent well to the trade of thievery.
+
+“Hmm, nice work. Good to see you haven’t just been lounging about,” Orodan praised. “But let’s move onto the bad news. Did you alert the fort? If you did, I can simply give them a thrashing and we’ll move on from there.”
+
+“What? No! Do you think the great Talricto so amateur and novice that he would be caught by the sentries within a mere fort?”
+
+“Then what? Do we have a fleet coming for us?”
+
+“Heavens no! Again, the great Talricto is not so easily detected by such peasants.”
+
+“Then, what exactly have you done?”
+
+“…I may have attracted the attention of something troublesome from beyond the galaxy, specifically, something large and crystalline.”
+
+“How do you know it was you who drew its attention?” Orodan asked.
+
+“Well, I was phasing through the dimensional layers when I noticed it glaring quite hungrily… though that may have been more towards this world than me. But who else would it gaze towards besides I, the mighty Talricto?”
+
+“Well, my most wise and esteemed teacher, you need not worry… for I don’t think it was you who drew its attention…”
+
+After all, Orodan’s very existence threw the tapestry into flux.
+
+Ample trail for a hungry Living Crystal to follow, and probably what drew it towards him in the first place during all the attempts at entry he’d made.
+
+#
+
+“I… I don’t know how I feel about this Mister Orodan. The constabulary hasn’t shown up yet and the inner gates leading to port town proper have been barred, with a lot of guns manning the walls. Some workers near the gates swear they heard the fort’s war horn sound off too.”
+
+“In other words, despite my masterful infiltration to retrieve the fort’s coffers, you’ve somehow drawn their attention,” Talricto said to Orodan. “Well done!”
+
+“It can’t be helped… not only did I cause a ruckus with the foreman and the mine, but your theft of the money must’ve been noticed. Taken in tandem, of course they’d suddenly be on high alert,” Orodan said. “Anyhow, worry not Fenton, let’s see to your mother first and then we can deal with the matter.”
+
+Fenton said nothing in response, instead leading them inside his shanty home. It was apparent that the boy was desperate for what was to come, having seen what Orodan had done to the sick and ailing in the mines.
+
+Fenton quickly entered the shack made of cheap sheet metal and made for a small room with a steam-powered heater and bed. Upon that bed, was a middle-aged woman, her skin sickly and pale, almost unnaturally so. She was tall, perhaps half a foot shorter than Orodan himself.
+
+Evidently, Fenton got his height from this woman.
+
+She also had a small table and a sewing needle next to her. A weaver then? Quite a skilled one too by the looks of it.
+
+“Mother… mother wake up. It’s me.”
+
+“Oh…? Who’s that there? Who’ve you brought home Fen?” the woman asked, her voice weak. “Heavy footsteps too… but what’s that other voice?”
+
+Not only was this woman quite bedridden, but also blind.
+
+“Right, that would be the most companionable and pleasant spider upon my shoulders,” Orodan said.
+
+“I’m glad you’ve come to recognize my magnanimity,” Talricto arrogantly muttered.
+
+“Mother… this here’s a man who can heal you. He’s helped me quite a bit today, and once we’re done, we’ve got a tidy sum of crowns to help start a new life,” Fenton softly said.
+
+“Why Fen… what sort of deal did you get into to arrange this? Another contract? You shouldn’t have… we don’t know if it’ll even work,” the woman said. “Stranger, I don’t know who you are, but I implore you not to take advantage of my boy. He’s got a spark of brilliance to him and deserves a better life than this.”
+
+“Well, I suppose I have been shamelessly picking up tricks about gunsmithing from him. I’ll apologize for that,” Orodan replied. “I hope what I’m about to do covers that debt however.”
+
+“What you’re about to do? I see… are you a healer then? All the ones we’ve been to have tried to cure the disease ailing me, but it’s at far too late a stage now I’m afraid…” the woman muttered weakly. “If my son has paid or promised you anything else, I humbly ask you forgive it… unreasonable as my request is.”
+
+“There’s no need for that. I’m not asking for any payment or contract from Fenton,” Orodan clarified. “Merely setting things right.”
+
+“A benevolent healer…? Such an oddity around here. You must not hail from the islands, right?”
+
+“Correct. I come from someplace very far from here.”
+
+“I see… an otherworlder then. How odd indeed.”
+
+“…you surmised that rather quickly,” Orodan remarked. “For a blind woman you see rather clearly.”
+
+The woman chuckled softly.
+
+“I’ve seen your sort before… back when these eyes of mine could still do such a thing,” Fenton’s mother said. “Was quite the traveller before I had little Fen here. You also speak in a foreign manner and… smell different. Odd for your sort to be in such a soulless place though…”
+
+“Will you let me heal you?” Orodan asked. “That you and your son might be free to start new lives at last?”
+
+“All other healers before you have failed… but I suppose they were only Adepts.”
+
+Indeed, Orodan could see exactly why these Adept healers had failed. It wasn’t a mere malady of the body, but also one of the soul. He would be tempted to call this a curse if he didn’t know any better.
+
+“Have you ever been to a soul specialist?” Orodan asked. “They might have been able to diagnose the issue better…”
+
+“A soul specialist? The only sort who dabble in that are some eccentrics from the universities and the crown’s inquisitors… far too expensive to procure them for a poor woman like me…”
+
+Different worlds had different specialties. His world was chock full of martial specialists and those in tune with the soul arts. Conversely, Lonvoron had far superior engineering and a civilization which put Alastaia’s to shame, yet it came at the price of lacking those familiar with soul magic. A sad affair, for Orodan suspected this woman had less than a month of life left.
+
+Vitality wasn’t just something produced and held by the body, but also the soul. It was how his own Harmony of Vitality could be powered so smoothly by his soul energy. And it was why someone who had their soul ripped out would leave nothing but a corpse, devoid of true life and mind. Flesh golems existed, and new souls could form naturally under the right conditions… but the existence of those didn’t detract from the fact that the vitality of sentient beings came from somewhere more than just the body.
+
+And for this woman, the pathways through which the soul channelled her vitality into her body were dangerously thin, and getting even thinner. There were two sets of pathways, one within the soul and the other within the body. Whatever diseases she had affected both, but the medicine her son procured could at least widen the pathways within the body, relieving the symptoms.
+
+Of course, the soul pathways were narrowing and whatever medicine it was didn’t seem to affect them. In other words, no matter how much medicine she was given, her soul’s flow of vitality would cut off and lead to her eventual death. It was akin to cleaning the steam pipes in one’s house but receiving no power because the main pipe from whence it came was blocked.
+
+“No wonder your skin has such a sickly pallor to it… your body’s barely getting any vitality,” Orodan muttered, bringing his broom out. “How common is this disease? Where did you get it from?”
+
+Orodan could have looked through the time stream to get an answer but held off for now lest he trigger detection. Lonvoron’s time stream was undoubtedly being closely monitored.
+
+“I do not know. Some folk are cursed to bear it from birth it seems. The symptoms began manifesting a few years ago and stripped all the life from me.”
+
+“You know of anyone else who has it? Any records on it?” Orodan asked.
+
+“I knew one other, a woman from the Sunstone Archipelagos; it was frightening how the disease made her previously lustrous dark skin as pale as mine is now. Like me, the life looked to have been sucked out of her,” Fenton’s mother said. “At the time, never thought it could happen to me too.”
+
+A severe illness if the disease could strip someone of their natural hue.
+
+Still, Orodan knew how to combat this. He’d purged curses from people on Alastaia, and he’d cleansed the Eldritch. In comparison, this was nothing.
+
+The broom hovered over her head.
+
+“Is that… a broom?”
+
+“I admit, the method of healing appears odd, but give it a chance,” Orodan remarked.
+
+And then, the broom touched her head.
+
+And the woman screamed.
+
+Immediately, Orodan felt some powerful resistance to altering her soul. It hadn’t looked like it at first glance, but this truly was a curse. The resistance was quite monstrous, and making even the slightest of changes to this woman’s soul was akin to moving a mountain.
+
+The effort was akin to fighting an Administrator.
+
+Unfortunately for whoever placed the curse, this was a battle of cleansing. And Orodan had already beaten an Administrator before in a direct test of it.
+
+“Mother!”
+
+Yet before Fenton could take another step, the room filled with the blazing white light of soul energy as Orodan’s broom set the woman’s soul right.
+
+[Reality Alteration 56 → Reality Alteration 57]
+
+Strange, that such a defect would affect many. Somebody of great power had done this, for what, Orodan didn’t know.
+
+A great gulp of air and the panicked breaths of Fenton’s mother broke the momentary silence. The woman shot up to a sitting position in bed as her son rushed to her.
+
+“Mum! What happened?! Are you alright?!”
+
+“I… I…”
+
+“Did he harm you?”
+
+“No, it’s just that…” she trailed off, her hands caressing Fenton’s face. “Have you always looked so ragged? My poor boy… how much do they work you? You have dark circles under your eyes!”
+
+And before their very eyes, the sickly hue began shifting towards a healthier color. Pale skin began turning slightly caramel, and her cloudy eyes began clearing up, returning to a shade of sapphire blue.
+
+“Dark circles? This isn’t a time for jests mother… wait… your eyes… your eyes!”
+
+“Oh, my little Fen, how you’ve grown over the years. Come, let me get a closer look at you…”
+
+Mother and son tearfully embraced one another, and Orodan stepped outside, giving them a moment of solace out of respect.
+
+“Hmm… for such a brutish oaf your finesse with the soul is rather sublime,” Talricto said. “If you displayed some of these talents earlier my scoldings might’ve lessened in their harshness.”
+
+“But perhaps I keep you around because I enjoy your scoldings,” Orodan remarked. “After all, how can I learn without a strict teacher?”
+
+The spider grumbled and hissed something unflattering, but Orodan chose to take it as a sign of fondness, and not the look of irritation that was apparent in Talricto’s many beady eyes.
+
+The storm had cleared up and the dawn sky illuminated the sea. The Sea of Uxamar, north of the Republic back on his home world was calm and tranquil near the shore at least. The high seas surrounding Port Bellgrave were anything but. Turbulent and stormy waves. Orodan doubted any Inuanan seafaring vessel could survive these waters. They were almost supernaturally powerful, yet beautiful in their own right.
+
+A woman walked up beside him, shaky steps, as though she was growing used to the feeling of walking once more.
+
+“The ocean… it’s just like I remember all those years ago…”
+
+“It’s a pretty sight, even if the waters are rather dangerous around these parts,” Orodan replied. The woman seemed transfixed with Talricto however.
+
+“Such a big spider… quite elegant and pretty too…”
+
+“Hmmph! Well I’m glad someone recognizes my regal mien!”
+
+“Don’t mind him, he’s a little haughty but means well. A teacher of mine in fact,” Orodan explained.
+
+“He taught you healing…?”
+
+“No, he taught me Dimensionalism.”
+
+“Dimensionalism …you truly are an otherworlder aren’t you? I never thought to see one in such a destitute place as this,” Fenton’s mother said, and then immediately fell to her knees, grasping Orodan’s legs. “I don’t know what brings you here, but I’m thankful to the Gods that you came. My son and I will be forev-”
+
+He lifted the woman to her feet.
+
+“Come now, with your legs working again you should want to spend more time standing than on the ground,” Orodan teased. “I appreciate the sentiment but there’s no need for that. I simply set a wrong right is all.”
+
+Fenton too tried showing his gratitude in a most excessive manner, but Orodan held the young man up, preventing him from reaching for his legs.
+
+“Why, Mister Orodan… why would you do all this?” the boy asked, tears in his eyes. “Blast and bugger it all… you’ve got me weepin’ in front of you now too…”
+
+“When one’s mother is involved… crying isn’t such a bad thing,” Orodan remarked, remembering his own with a knowing smile on his face. At least little Penny here had his mother with him still. “Now then, there should be more than enough crowns in there for you and your mother to start a new life.”
+
+“But… the gates leading to the port town proper are barred, entire place is on high alert,” Fenton said. “You spooked the constabulary real good and I have no idea how we’re going to get in now to get aboard any outbound ships.”
+
+“You can leave getting the gates open to me. From there, I’ll head onward to the fort,” Orodan said, and then noticed the increased activity and movement upon the walls of Port Bellgrave’s town proper. “In fact, they might be coming to us first.”
+
+Fenton’s eyes widened as a rather distinct hissing noise became audible in the air.
+
+“Steam knights… they’re sendin’ out those dreadful things! M-mister Orodan, I can’t let you head out there, you’ve got to run, swim if you have to!” Fenton begged.
+
+Orodan however simply placed a hand upon Fenton’s head and ruffled the boy’s hair.
+
+“It’ll be fine, Fen. Wait for me to deal with the defenders and then slip into the town alongside the rest and use the crowns to secure passage somewhere,” Orodan directed. “Talricto, you might want to get clear while I deal with this mess.”
+
+The spider hummed in assent and winked off to wherever it was that he went.
+
+Port Bellgrave had a walled town proper; frequented by the likes of skilled tradesfolk, middle-class individuals and merchants. It wasn’t the largest port town in the Ironhaven Isles - far from it - but it was decent enough, and the value of the iron trade and gunsmithing brought a fair amount of traffic. The walls were consequently well-built, and the architecture reminded Orodan very much of a fort.
+
+There were apparent differences in comparison to the architecture of Alastaian military fortifications. For starters, while they too had siege weapons, the walls were built very low and stout, with slopes of dirt ramping upwards. Far less optimal for defending against any sudden storming maneuvers by enemy infantry… but Orodan could see how these walls might be far more resistant to cannon and gunfire. The crenelations and embrasures too had plenty of slots and openings for defensive anti-infantry weapons and cannons. Furthermore, the walls were almost… star shaped? Square sections jutted out, and these walls looked more apt towards allowing the defenders to lay heavy fire upon the enemy than suited for pure defense.
+
+Orodan wasn’t sure if this design would be entirely efficient upon his home world. Land based monsters and any infantry attackers would have a far easier time scaling the low and sloped fortifications, and any soldiers on the wall would have less time to react. And while gunfire and artillery would obliterate any force of melee infantry upon approach… he had a feeling that if a surprise attack was somehow achieved, a seasoned force of martial specialists from his world could scale the walls in moments and butcher the troops atop who looked woefully unprepared for a melee. A weakness he’d seen the Collective’s forces struggle with against the Eldritch on his first visit to Lonvoron.
+
+Furthermore, while this society seemed quite advanced so far, one aspect Alastaia had it beat on was magical warding and enchantment. The defensive wards and crews upon the walls of Karilsgard for example, were better suited to countering enemy mages than this fort would be. Well, in terms of pure defense at least.
+
+Although, when one had as many guns, cannons and sharpshooters as the walls of Port Bellgrave did… perhaps enemy mages weren’t as threatening as they seemed. After all, hard to cast a giant Fireball when a high-velocity bullet tore through one’s head.
+
+At the end of the day, this design worked for the Collective. Domestically, monsters weren’t anywhere near the concern on Lonvoron that they were on Alastaia. Most had been hunted into extinction, with only pockets of subterranean creatures and deep-sea enclaves remaining. Typically encountered by miners or daring ocean diving vessels. And guns had diminished the development of high-level martial abilities upon this world. Easier to pick up a firearm and train the relevant skills for it than train the hard way to hone the strength of one’s body.
+
+Then, a horn rang out, and the gates began opening as the hissing noise of magical steam grew louder.
+
+“Good Gods… they’re sending in the steam knights!”
+
+“We’re just downtrodden workers! They would send those things in to butcher us?!”
+
+“I’d rather take my chances floating in the drink than face one of those!”
+
+The workers he’d liberated were doubtlessly scared, and he could see why.
+
+The twelve-foot tall, imposing suits of metal had glowing eyes, were entirely covered in thick gleaming plates, and had magical steam periodically hissing out their vents. A multi-barrelled repeating gun built into the right hand, and an enchanted, hot blade in the left which looked as though it could cleave through entire walls with ease. These metallic steam-powered golems were all at the Master-level, and now he could see how the Collective had become so widespread across multiple worlds, if these were their mass-produced heavy infantry.
+
+Even discounting its gun, a Master-level martial specialist fighting a golem made of steel and powered by magically hot steam would face an uphill struggle.
+
+And stepping towards them, naught but sword and shield in hand, was Orodan Wainwright.
+
+“Orodan Wainwright! Halt where you stand!” a woman in military regalia announced. Master-level, with a revolver in her hands a sword at her waist. “You have committed crimes against the crown, surrender peacefully that you may be identified! If you are from another world, the crown will establish diplomatic channels, and you shall be afforded all rights and due privileges under Collective law!”
+
+“And what if I have no interest in halting where I stand?” Orodan asked with a smile, drawing his sword and shield.
+
+In response, the woman’s face stiffened, and she whipped her hand downwards, a clear gesture.
+
+The first salvo was immediate and powerful.
+
+A volley fire of rifles which could have wounded Masters and cannons which would cause even Grandmasters to quail. Alongside the sharpshooters who unerringly made for his head, it was a true blitz. Smart of the commanding officer to go all out from the get-go. She’d likely assessed Orodan as the threat he was.
+
+Unfortunately, as Orodan’s sword and shield lashed out, sending every one of the bullets back to the guns and cannons they came from… she realized too late that certain disparities in power couldn’t be overcome with initiative and tactics.
+
+“Steam knights advance! Guns and artillery keep firing!”
+
+However, no matter how many guns and weapons unloaded, they never came close to threatening him. The ground around him was cratered, and he had to re-direct most of the force upwards lest scrap town and the innocents behind him be annihilated.
+
+The first of the steam knights released a barrage of shots which erupted with powerful cracks. The bullets were casually caught in Orodan’s hands and sent right back through the golem’s steam core, sending it to the ground an inanimate heap.
+
+The second and third knights rushed him in melee, glowing red blades whizzing towards his neck, far faster than any other golems he’d seen on Alastaia. Only for the blades to be shattered and the golems shorn into bits via his sword.
+
+“H-he’s carvin’ the steam knights up!”
+
+“How can a man shrug off cannon fire! He’s a monster in the flesh!”
+
+“The knights are lost! Run for yer’ lives!”
+
+With a final pitiful sputter of steam, the last steam knight hit the ground. To these people it was an unthinkable feat reserved only for the likes of mighty monsters or Eldritch invaders. The steam knights were mighty constructs, to the average man they were an insurmountable force beatable through gunfire, trickery and clever maneuvering perhaps, but not raw force. And yet, even with his strength and speed moderated, Orodan had turned the soulless steam knights into scrap metal within seconds.
+
+“Craven curs! Dare you flee and bring dishonor upon your duty bestowed by the King?!” the lieutenant yelled in frustration. “Close the gates and prepare for a siege!”
+
+“Gates closed lieuten-”
+
+A booming crash echoed for miles, the gates flying inwards off their hinges as Orodan kicked them down.
+
+“…the gates have been breached ma’am! The gates have been breached!”
+
+“To hell with this! I ain’t dying for some upjumped officer!”
+
+“Run! It’ll kill us all!”
+
+A little inaccurate, as Orodan hadn’t really killed any of them. But if it got the job done who was he to complain?
+
+The soldiers and the token gunline of infantry behind the wall broke and began fleeing. They’d seen how ineffective their bullets and cannons were. It was a mass rout.
+
+Some ran for the other exits of port town, looking to escape into the wilderness of the islands, panicking any reinforcing troops from those walls and chaining the rout further. Others ran towards the fort and the ships at harbor.
+
+And amidst the throng of fleeing soldiers, one terrified but determined woman stepped towards him, sword and revolver in hand. The crack of a gun rang out, and Orodan simply allowed the bullet to ineffectively ping off his forehead. The sight of that didn’t inspire much confidence in the clearly afraid lieutenant.
+
+Yet, all the same she drew her short sword and charged right at him.
+
+The blade stopped, gripped within the palm of his hand.
+
+“A decent thrust, but your fear seeps into your attack. Still, I can respect someone who charges in uncaring of death,” Orodan remarked, casually prying the sword from her hands. “Stand down. You’ve shown great courage.”
+
+“My obligation to King and Collective compels I stand here and perish if necessary. Kill me if you must!”
+
+A quick jab across the chin put her out, she would wake eventually but for now he put the lieutenant off to the side where she wouldn’t get trampled.
+
+With the walls now abandoned, the workers he’d gathered from scrap town came in behind him.
+
+The town was in a state of alarm, and the residents of the port town itself were barricaded within their homes and rather fearful for their lives now that the constabulary and the fort’s forces had been routed.
+
+“Well I’ll be… you’re stronger than any Masters I’ve seen Mister Orodan,” Fenton said, looking at the scene of devastation. “You really just ripped the steam knights apart? Didn’t know anyone could do somethin’ like that.”
+
+“Train regularly and you can do it too. Now then, the only thing left’s the fort,” Orodan said. “I’ll go handle whoever’s in there. Take care of any wounded individuals, starting with that commander over there.”
+
+Fenton and the other workers nodded, and Orodan himself set off for the fort.
+
+It was past the port town, overlooking everything in the surroundings for a hundred miles. And the tallest tower jutting out from there had a red glow to it, likely some sort of alarm.
+
+Well… so much for stealth. However, Orodan made a mental note of that tower, for the next loop.
+
+As he walked up the hilly road, making for the fort which was situated on elevated ground, small steam-powered flying devices which resembled birds would occasionally fly about, look at him, and then flutter away. It was obvious that they were coming from the fort.
+
+A rider on a mechanical steed which vented steam could even be seen, but he kept a fair distance and galloped back to the fort as Orodan got closer.
+
+Upon presenting himself before the gates, a man in ornate dress uniform called out from atop the walls.
+
+“Greetings visitor! A most unexpected pleasure to have an esteemed guest of your stature drop by this fort of mine. Pray tell, how might we assist you?” the man politely asked, though it was apparent he was rather nervous. “I’m the commander of Port Bellgrave. And on an unrelated note, this diplomatic incident has caused the alarm tower’s activation. A reinforcing fleet with accompanying Grandmasters and a Transcendent commander from Castle Ironpeak are on their way as we speak. Perchance might we settle our disagreements in a peaceable manner before their arrival?”
+
+Orodan had a gut feeling that he was speaking to a slimy character best dealt with via the sword than words.
+
+“Your pompous words do not disguise the veiled threat as well as you think,” Orodan said. “When they come, I’ll deal with them then. For now, let us speak about this indentured servitude I’ve seen on your island today.”
+
+“Indentured…? You mean the chaff in that dreadful slum?” he asked, and then walked it a step back, realizing that might have been the wrong thing to say. “They are under the crown’s authority and I am but following orders as a good soldier should. Would you have me killed for that?”
+
+“That depends on your role in the entire situation. Now then, if you have no issues with what you’ve done, you’ll open the gate, no?” Orodan asked. “I wouldn’t want to kick it down myself.”
+
+The man trembled. And Orodan simply smiled.
+
+#
+
+“What a mess… I’m not cut out for this political wrangling and policy-making.”
+
+“It’s not that difficult. You’d simply have to somehow stage a takeover through military force and then see your changes reflected across the society of the Blackworth Collective,” Zaessythra said. “Haven’t you destroyed planets like pebbles before? How is this supposed to be difficult?”
+
+Frankly, Orodan would rather smash things than think about affecting the development of a society in such subtle ways.
+
+“I thought stealth was key on this trip?” Orodan asked.
+
+“Well, you could just help beat back the Eldritch, gain the favor of the King and then get all these reforms passed,” Zaessythra suggested. “But that sounds far too tame for you.”
+
+“I’m not some ill-tempered beast who’s bent on upending every society he comes across…”
+
+He just wanted a good fight from time to time, was that such a bad thing?
+
+“Could’ve fooled me,” she teased. “Certainly fooled the people you’ve bullied thus far. Now then. The laws of the Collective already forbid what was occurring here, but that doesn’t stop greedy or power-hungry local commanders from violating labor standards and abusing their indentured servants.”
+
+That was the real issue. Fairly compensated labor with civil standards as an option to resolve debts or in place of serving a criminal sentence didn’t seem like the worst idea to Orodan; provided the one subject to it had a free and fair choice in the matter. But implementing such a thing fairly was a true headache.
+
+The fort commander, whose head now hung from a chain off the front gate, was both the warning and the symbol of what atrocities could occur under such a system. The contracted servants were originally supposed to serve as laborers unloading and loading cargo onto merchant vessels that came and went.
+
+Such a job would’ve been honest labor and nothing back-breaking or dangerous. Of course, the residents of the port town itself objected to this; having such lowborns in the town itself. The mines with their dangerous working conditions were short of willing workers. And most importantly, the fort commander’s pockets were looking thin as the man had hoped to reach the Grandmaster-level but lacked the talent and required expensive resources to do so.
+
+Hence, the numerous letters arrayed on the table which detailed the former commander’s interactions with certain unsavory characters beyond the isles. Debt sellers to be precise. Their debts were purchased at a low sum, and the indentured servants shipped out to Port Bellgrave in order to work the mines for a disgraceful pittance while the fort commander pocketed the difference.
+
+The Collective’s war machine more than received their tithe from the island, hence the crown never bothered looking too closely at the affair. All at the expense of the workers who suffered and occasionally died.
+
+A set of four sharp, chitin-covered legs threw the papers he was staring at off the table.
+
+“I was using that…”
+
+“For what? A blinking contest? Staring any harder at a dead man’s correspondence won’t solve your problems,” Talricto remarked. “As it is, the perpetrator’s head hangs off the gate in a rather barbaric display. And this petrified woman you’ve pressed into your service through violence doesn’t appear all too keen on helping either.”
+
+The lieutenant who’d fought him at the gates of the port town was sitting in a chair before him. Her entire body language was tense.
+
+“The eight-legged gentleman does not speak falsely. You barged in, assaulted multiple soldiers of the King, destroyed much crown property and executed a sworn fort commander of the Blackworth Collective. I am… appreciative of you sparing my life, but honor dictates I cannot aid you,” she said, her hand remaining on her sword. “And… you also knocked me senseless!”
+
+“It wasn’t even a hard punch…” Orodan muttered. A quick knockout blow to the chin was considered utterly merciful by Alastaian standards! “And if you don’t wish to help me that’s entirely fine. You simply need to take over as the acting fort commander as your duty dictates. Can’t be any worse than the crooked man I executed at least…”
+
+“That is… acceptable. As long as I’m doing my duty, I suppose I won’t be betraying King and country. But that duty still involves arresting you for your crimes!”
+
+“You won’t have to worry about that soon,” Orodan replied and then looked to Talricto. “How long do we have left till the Living Crystal arrives?”
+
+“L-living Crystal?! Those things are myths from the darkest corners of the void! And you say one’s coming this way?” the lieutenant asked, clearly horrified at the thought. “No wonder the responding fleet has slowed their approach just out in the waters… the astrologers must sense its approach.”
+
+“In less than six hours it will breach the galactic veil which typically restricts Embodiers from entering and notifies Administrators,” Talricto said. “After that, arriving unto Lonvoron shan’t be too long; perhaps seven hours in total.”
+
+“Rather daring of it to disregard the threat of the Administrators, is it not?” Orodan asked.
+
+“It normally would be… if someone hadn’t thrown the entire tapestry into utter disarray. You might not be aware of this, being the simpleton you are, but a lot of monitoring and information gathering across the cosmos is done through the tapestry. Particularly for cosmic beings of great power. Embodiers often use the tapestry to avoid the Administrators and one another, and they in turn use the tapestry to track them as needed. With it gone… a response might be rather delayed.”
+
+Little wonder the System and the Administrators had so much difficulty tracking him, even with his fate re-inserted into the tapestry. He was causing the equivalent of a planetary tidal storm across the entire thing, utterly ruining the ability of most beings to get a proper read on things.
+
+Most importantly… he was causing enough mayhem that predatory beings outside the galaxy could potentially use the chance to enter one.
+
+This loop was a bust, and the following attempts would continue to be the same until he trained Fate Disconnect to an appropriate level where he no longer caused such a ruckus. He was simply too powerful. His soul and potential too vast, capable of empowering the time loop to affect all reality. Of course, the tapestry would be in utter mayhem due to his existence upon it.
+
+“Tch… of course. This entire debacle has only reinforced to me the need to train my stealth-related skills,” Orodan said. “And my ability to restrain the effects I have on the tapestry of fate.”
+
+“Your one stealth-related skill you mean?”
+
+Zaessythra had no faith in him. Disguise was perfectly adequate, and Orodan resolved to begin training it once more from the next loop.
+
+“I will not directly help you… but Lady Luetta Treadway resides in the north tower. Your situation is both horrifying and imminent enough that she might be willing to help,” the lieutenant said. “She’s the fort’s resident fate reader. Graduated from the magical university in Storven too.”
+
+Orodan made note of that for the coming loops as well. From what he’d heard, the fort had a reclusive steam mage who worked in the boiler chamber, an enchanter and an alchemist too. All excellent sources of knowledge in the coming loops.
+
+“Appreciated. But I’m not sure if the fate reader will appreciate me barging in and demanding help after all I’ve done in town,” Orodan said. “For now… I think I’ll be training with my teacher here.”
+
+“Well, shall we get to using the remaining few hours we have?” Talricto asked. “Your Dimensionalism is still quite pitiful… even the hatchlings among my kind could maneuver dimensions around you with impunity.”
+
+“By all means, mighty Talricto. There’s work to do.”
+
+#
+
+[Dimensionalism 69 → Dimensionalism 70]
+
+[New Title → Dimensional Elite]
+
+The dimensional boundary around Orodan wobbled, and his attempt at using Dimensional Step failed. His power was limited of course, down to Talricto’s level, but it was in this contest of equalized power that gains could be made…
+
+…and his utter inadequacy in comparison to a dimensional phase spider could be exposed.
+
+“All that work with Dimensionalism, and I still can’t match you on even ground…” Orodan muttered with a pleased smile. It was good training, and he enjoyed the feeling of a real challenge.
+
+“An admirable effort, but we dimensional phase spiders are the pinnacle of the art. Attempting to match me on a purely skilled basis will end poorly for you,” the spider haughtily declared. “I’m also one of the greatest of my kind.”
+
+Orodan didn’t disagree that Talricto was better and outright made for the skill of Dimensionalism. His kind were naturals after all; from what the spider had said even the hatchlings started off with natural insights into Dimensionalism which were at the Master-level. Innate to them like breathing was for a newborn babe.
+
+“That’s precisely why I intend to do this every loop… until I can best you.”
+
+His teacher looked startled but not displeased by the declaration.
+
+“A hopeless endeavor… but one I cannot disapprove of. I shall await the loop then, my headstrong student.”
+
+For the past six hours he’d futilely floundered against Talricto’s superior skill in Dimensionalism. It was like an untrained man attempting to beat a fish at swimming, or an eagle at flying. His own Dimensional Step was hijacked and the destination altered with laughable ease. And Talricto’s Dimensionalism allowed the spider to go wherever he wanted while Orodan couldn’t do a thing to stop it.
+
+Of course, in a real fight, raw power or chronomancy could overpower the wandering spider, but Orodan refused to rely on those.
+
+And while he hadn’t exactly gained much besides three levels in Dimensional Step and the recent level in Dimensionalism, it did leave Orodan with a fresh perspective on how to go about tackling other skills of his. Particularly, his repeat attempts at brute forcing a certain Embodiment-level spatial spider who kept intruding upon his efforts to enter Lonvoron.
+
+With thirty minutes left till the descent of the Living Crystal, many of the stars in the distant sky had been blotted out by its size. The fleet surrounding Port Bellgrave was now truly gigantic, the size of a true armada. And it didn’t consist of just seafaring military vessels of the Collective but flying void craft too.
+
+It seemed Ur-Vah’sahn the Harmonious was coming directly for Port Bellgrave, specifically Orodan… and the Blackworth Collective sensed it too. They hadn’t approached the island yet, but the seas surrounding the Ironhaven Isles were entirely blockaded, and Orodan was thankful that Fenton and the workers had managed to begin sailing and get out in time before the encirclement completed.
+
+With him causing such commotion and the descent of a Living Crystal imminent, the workers shouldn’t have been pursued by anyone either.
+
+“Talricto… you should go now,” Orodan said.
+
+“I suppose this is farewell then. I know you say you come back and all… but do take of yourself, you hard-headed fool. While you have little skill…” Talricto trailed off. “Or talent…”
+
+“Thank you for the encouragement,” Orodan dryly remarked.
+
+“…you’re also possessed of a work ethic most admirable. See you in the next one, my untalented student.”
+
+That was probably the nicest the spider had ever been to him. Sentimental little bug.
+
+Talricto phased out of the material plane soon after, his silly little hat still upon his head as he waved a front leg in a farewell gesture, leaving just Orodan.
+
+The fort and everyone upon the island had been evacuated too. Better they leave than be caught up in the battle about to occur. Yes, everyone came back thanks to the time loops, but that was a wicked mentality to lean into and could quickly lead to him butchering millions on a whim.
+
+Just him and the Embodiment-level Living Crystal coming his way.
+
+With fifteen minutes left, the Crystal became rather shockingly visible, gigantic, the size of an entire star system. Massive and luminous in a way which could make any sane person have an existential crisis as it took up the entire horizon.
+
+And it was then that the ships and fleet of the Blackworth Collective began to act. Titanic salvos of fire erupted, but not the kind Orodan expected.
+
+Rather, it was mana, cannons firing pure and utterly concentrated amounts of mana, filling the very air with it. And with that mana… came hundreds… no, thousands of spatiomancers. Leading them all, was a figure with a shimmering illusory image surrounding them. This figure, Orodan had seen them before, and still knew nothing of their identity. They began manipulating the gigantic amounts of mana in the air alongside a robe they wore which allowed for the easy channelling of System energy.
+
+Orodan’s Vision of Purity had grown stronger, but he still couldn’t quite see past their veil, for so pure was the magic they cast. And before he could have any thoughts of switching his perspective, to see all mana as impure, the other part of the equation entered the fray.
+
+If the previous time looper and the forces of Lonvoron were now here… then it begged the question of how unmanned the dead zone was.
+
+A question which was now answered as space shook, and three spatial rifts threatened to appear. Leading directly to three plague worlds.
+
+An infection and outbreak on this part of Lonvoron, unprepared as it was, would be catastrophic. Yet, the Eldritch plague worlds weren’t what concerned him. It was the appearance of a certain book-wielding Administrator.
+
+The Prophet had arrived, and he was looking directly at the previous time looper and the mantle they carried with covetous eyes.
+
+But that was fine, all a part of Orodan’s plan.
+
+For as they seemed preoccupied with one another…
+
+…Orodan’s broom came out and pointed towards the three spatial rifts.
+
+When he’d done this last time, he hadn’t even been a Grandmaster. And even then, he’d eventually won.
+
+Now though?
+
+As the previous time looper and the Prophet began clashing…
+
+…as the spatial rifts to the plague worlds threatened to spew forth…
+
+…as a Living Crystal threatened to devour Lonvoron…
+
+…the broom of Orodan Wainwright targeted not just the Eldritch plague worlds past the spatial rifts, but the Eldritch, and the very System energy everywhere past the dimensional boundaries too.
+
+Soul energy spilled forth in an act which was one of the greatest feats he’d managed without outright dying, and he felt the briefest tinge of the madness of Infinity threaten to consume him before he gripped it tight with his unrelenting will.
+
+In the divine dimension and the material plane both.
+
+[Dimensionalism 70 → Dimensionalism 72]
+
+[Incipience of Infinity 125 → Incipience of Infinity 127]
+
+[Domain of Perfect Cleaning 147 → Domain of Perfect Cleaning 148]
+
+It began with the purple-grayish tinge and haze that could be seen in the air. It was a sign that something had changed when it vanished entirely.
+
+The spatial rifts leading to the plague worlds too suddenly became quite inert. Whatever was on the other side of them had decided to stop spewing Eldritch altogether.
+
+Moreover, in the divine dimension, even if Orodan couldn’t see it… he felt that every bit of Eldritch had been entirely purged.
+
+And most importantly, he’d been so concerned about how easily he’d been getting discovered and causing a ruckus via the tapestry of fate. Who would’ve thought that simply destroying it outright was the solution?
+
+The Custodian had warned him that his steps would be hounded as he neared the peak of Transcendance in his Celestial skill. The combination of such a grand feat, and Domain of Perfect Cleaning going from 147 to 148 must have been too much for the canvas to bear. The connections, the calculations, whatever the tapestry of fate was made of, it simply couldn’t tolerate what he’d done and tore entirely.
+
+Now nobody had a fate. No connections, no calculations, no possible outcomes to be read.
+
+Perhaps, Orodan mused, that was a better outcome.
+
+“You… you tore apart the tapestry…”
+
+Those were the first words out of the previous looper’s mouth, shock and disbelief audible even through the disguised voice.
+
+Even the Living Crystal bent on landing seemed surprised, frozen in place at what had just occurred.
+
+The Prophet though… its face was the definition of pure murder and rage.
+
+“Billions of years of work, undone in an instant. All the grace of our savior, the lifeblood of provenance disseminated throughout the cosmos, all gone…” it whispered dangerously. “You shall never reach Embodiment, failed aspirant that you are. Here and now, you shall die.”
+
+The beam of light coming for him was practically unavoidable in how fast it reached. Even if he did notice a beam of System energy attempting to counteract it before it ended him.
+
+Vaguely, he also sensed the arrival of more Administrators through the dimensional cracks, but it was simply too late.
+
+Before the beam hit and the darkness took him, Orodan realized that achieving Embodiment would involve a lot of trouble.
+
+And that perhaps breaking fate wasn’t such a bad thing.
+
+#
+
+A keening wail ringing in the night sky awoke him.
+
+“If every gain in Domain of Perfect Cleaning is going to cause such a ruckus… then you clearly need to train your ability to minimize your impacts on the tapestry.”
+
+Orodan agreed with her…
+
+…though the thought of destroying the tapestry and perhaps even rebuilding it, sounded like good training.
+
+Still, that could come later. For if the tapestry was destroyed, how would he have his fair fight against the Prophet where it could read his fate to scry his abilities?
+
+To that end, Orodan had quite some work cut out for him.
+
+His usual ongoing goals of training spatiomancy and dimensionalism would continue, as would his battles against Alagameth and that arrogant Living Crystal. Though, Orodan intended on making it onto Lonvoron under his own power and not because something had taken pity on him.
+
+He had three main goals for the upcoming loops.
+
+First, to train his Fate Disconnect that he might stop destroying the tapestry of fate outright and causing mayhem to erupt across the cosmos. The diviners of Inuan and perhaps Guzuhar might help with that. But he already knew the methods used by these places on his home world. To that end the fate reader on Lonvoron’s Port Bellgrave might be worth looking into. A fresh look at fate reading, through the lens of another world’s tradition, might help make unexpected gains.
+
+Second, he’d seen some interesting architecture in Port Bellgrave. Perhaps he could give construction another shot in one of these loops before he made for Lonvoron. And the steam technology used by those folks was quite intriguing too. He hoped to get a better idea of engineering and artificing through the understanding of that. A better understanding of Engineering and Artificing would allow him to get closer to rebuilding the ancient machine the right way.
+
+And third…
+
+…perhaps it was time to take up training Disguise once more.
+
+A dirty cloth was pulled out from a nearby drawer in his hovel and two symbolic eye holes were poked in it.
+
+Perhaps it was time to wrap his head around the problem…
+
+…or wrap a rag around his head once more.
+
+It had also been a while since he truly viewed his Status. And with a thought, he pulled it up.
+
+Name: Orodan Wainwright Age: 17  Title 1: Wainwrighting Apprentice Title 2: Weaving Apprentice  Available Titles:
+
+Bearer Of A Celestial Skill World Conqueror World Gate Delver Avatar Slayer Wielder Of A Mythical Skill One Who Has Experienced Death God Slayer Transcendent Slayer Celestial Transcendent Perfect Cleaning Transcendent Cleaning Transcendent Soul Transcendent Infinity Transcendent Combat Transcendent Unarmed Combat Master Physical Master Shield Master Sword Master Space Master Time Master Wrestling Elite Enchanting Elite Woodworking Elite Dimensionalism Elite Alchemy Adept Halberd Adept Blacksmithing Adept Pathfinding Adept Teaching Adept Fire Magic Adept Laboring Adept Gathering Apprentice Cooking Apprentice Construction Apprentice Engineering Apprentice Fate Apprentice Wainwrighting Apprentice Weaving Apprentice
+
+Skills:
+
+Domain Of Perfect Cleaning 148 (Transcendent - Celestial) Incipience of Infinity 127 (Transcendent - Celestial)  Warrior’s Reciprocity 90 (Master - Mythical) Smite of Abrupt Deliverance 80 (Elite - Mythical) Eldritch Resistance 68 (Adept - Mythical) Divine Resistance 58 (Adept - Mythical) Reality Alteration 57 (Adept - Mythical) Dimensional Resistance 20 (Initiate - Mythical) Absolute Body Composition 10 (Initiate - Mythical)
+
+Harmony of Vitality 100 (Grandmaster - Legendary) Endless Blitz 97 (Master - Legendary) Unassailable Fortress 94 (Master - Legendary) Bulwark Physical Resistance 87 (Elite - Legendary) Time Reversal 86 (Elite - Legendary) Draconic Fireball 74 (Elite - Legendary) Body Tempering 71 (Elite - Legendary) Vision of Purity 70 (Elite - Legendary) Wood Communion 66 (Adept - Legendary) Mana Resistance 65 (Adept - Legendary) Fate Disconnect 57 (Adept - Legendary) Dimensional Step 17 (Initiate - Legendary)  Iron Body 90 (Master - Exquisite) Time Mastery 90 (Master - Exquisite) Psionic Resistance 79 (Elite - Exquisite) Dimensionalism 72 (Elite - Exquisite) Draconic Mana Channelling 68 (Adept - Exquisite) Vitality Destruction 61 (Adept - Exquisite) Fire Resistance 53 (Adept - Exquisite) Lightning Resistance 48 (Apprentice - Exquisite) Wind Resistance 41 (Apprentice - Exquisite) Water Resistance 39 (Apprentice - Exquisite) Ice Resistance 38 (Apprentice - Exquisite) Spatial Shift 13 (Initiate - Exquisite) Curse Resistance 9 (Initiate - Exquisite)
+
+Space Mastery 96 (Master - Rare) Teleportation 89 (Elite - Rare) War Cry 43 (Apprentice - Rare) Acid Resistance 37 (Apprentice - Rare) Fate Mastery 30 (Apprentice - Rare) Gourmand 16 (Initiate - Rare)  Spatial Fold 88 (Elite - Uncommon) Shield Intent 80 (Elite - Uncommon) Shield Throw 75 (Elite - Uncommon) Mana Manipulation 62 (Adept - Uncommon) Fate Reading 57 (Adept - Uncommon) Halberd Throw 51 (Adept - Uncommon) Wainwrighting 30 (Apprentice - Uncommon) Earthen Construct 29 (Initiate - Uncommon) Flash Freeze 26 (Initiate - Uncommon) Lightning Bolt 24 (Initiate - Uncommon) Gunsmithing 22 (Initiate - Uncommon) Waterstream 20 (Initiate - Uncommon)
+
+Combat Mastery 109 (Transcendent) Shield Mastery 98 (Master) Unarmed Combat Mastery 98 (Master) Physical Fitness 95 (Master) Sword Mastery 95 (Master) Enchanting 87 (Elite) Wrestling 86 (Elite) Woodworking 84 (Elite) Tool Mastery 75 (Elite) Alchemy 69 (Adept) Flare 64 (Adept) Blacksmithing 61 (Adept) Teaching 59 (Adept) Pathfinding 58 (Adept) Halberd Mastery 56 (Adept) Jewelcrafting 54 (Adept) Fire Magic Mastery 50 (Adept) Laboring 50 (Adept) Surprise Attack 46 (Apprentice) Artificing 40 (Apprentice) Engineering 40 (Apprentice) Sprinting 39 (Apprentice) Construction 38 (Apprentice) Maintenance 35 (Apprentice) Gathering 32 (Apprentice) Cooking 32 (Apprentice) Weaving 31 (Apprentice) Galewind 29 (Initiate) Candleflame 28 (Initiate) Intimidation 28 (Initiate) Logistics 26 (Initiate) Repair 23 (Initiate) Mining 21 (Initiate) Magical Rituals 18 (Initiate) Observe 17 (Initiate) Club Mastery 15 (Initiate) Butchering 14 (Initiate) Disguise 12 (Initiate) Skinning 11 (Initiate) Lumberjacking 14 (Initiate) Parkour 11 (Initiate) Stealth 9 (Initiate) Smelting 9 (Initiate) Thievery 6 (Initiate) Recycling 5 (Initiate) Identify 6 (Initiate) Deception 4 (Initiate) Lightning Magic Mastery 3 (Initiate)
+
+Decent, but he still had a long way to go. His enemies were mighty, and he would only be adding more to that list as he grew stronger. He couldn’t even beat that oversized Living Crystal yet, let alone the Prophet who could instantly kill him at an angry whim.
+
+He needed to grow stronger. He needed proper training.
+
+For his end goals with Lonvoron which involved acquiring and studying the two Administrator’s Mantles were important, but secondary to his primary goal…
+
+…which was uncovering any information he could on true soul genesis.
+
+Whatever it took, he would bring Zaessythra back.

@@ -186,3 +186,16 @@ Though reaching the heart did expose me to a danger I wasn’t used to worrying 
 
 We hadn't been standing on the crater's edge for long, but in the time that we were, my body had absorbed a ridiculous amount of ambient man. And that was without me pulling it from the air to speed up my regain like usual. My body was hard at work converting the raw mana into something usable, but for once, I would need to work on blocking out ambient mana rather than trying to absorb it. A first for me. But at least I had an idea of how to do so.
 
+While Tabitha’s recovering tonight, I will start improving Mana Skin. It was at its second test, and it was time I started figuring out how to improve it. I doubted I could break past the barrier tonight, but I needed to start somewhere, and better protecting myself against mana was as good a start as any other.
+
+But how did I do that? Mana Skin was actually two barriers; one overlapped over the other with a microscopic void between them. I designed and implemented that to pass my level 40 test; maybe I should try increasing it to three.
+
+That would help, but it wouldn’t be that much of a boost. Two shields already reduced blunt force damage by quite a bit and reduced the effects of slashing attacks by a noticeable margin, but were absolutely useless against piercing damage.
+
+The more focused an attack is, the easier it can puncture Mana Skin; another layer wouldn't do much to stop that. But it will insulate me from the surrounding mana. So, even if it won't change much in the grand scheme of things, that's where I'll start.
+
+Channeling my mana, I pour more into Mana Skin and direct it to its outermost reaches to try forming a third layer over the two I had up. I still needed to sleep tonight to be fresh for tomorrow, but until then, I'll focus on improving my skill.
+
+And once I have that done, I think of ways to strengthen it further.
+
+I refuse to be more of a burden to Tabitha than I already am.
