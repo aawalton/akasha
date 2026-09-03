@@ -1,17 +1,3 @@
----
-id: bb3bad8d-1c98-5392-ab2c-0b3f4cde8e33
-page-type-slug: story-chapter-royal-road
-title: "Chapter 28: Break Out (Raiders Boss' POV)"
-slug: 0028-chapter-28-break-out-raiders-boss-pov
-partOf: heaven-piercing-giraffe-op-mc-xianxia
-position: 28
-ownLength: 1687
-unit: words
-publishedAt: 2026-08-23
-link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3853988/chapter-28-break-out-raiders-boss-pov"
-royalRoadId: "3853988"
----
-
 Chapter 28: Break Out (Raiders Boss' POV)
 
 It was a full moon.

@@ -1,17 +1,3 @@
----
-id: 6397bd1a-6ba0-5cc3-96d6-89db07eab0f5
-page-type-slug: story-chapter-royal-road
-title: "Chapter 20: Creatures of the Abyss"
-slug: 0020-chapter-20-creatures-of-the-abyss
-partOf: heaven-piercing-giraffe-op-mc-xianxia
-position: 20
-ownLength: 1777
-unit: words
-publishedAt: 2026-07-23
-link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3716518/chapter-20-creatures-of-the-abyss"
-royalRoadId: "3716518"
----
-
 Chapter 20: Creatures of the Abyss
 
 "We need to run," Buffalo's sword arm was still trembling, held half-raised in a way that had stopped being useful several seconds ago.

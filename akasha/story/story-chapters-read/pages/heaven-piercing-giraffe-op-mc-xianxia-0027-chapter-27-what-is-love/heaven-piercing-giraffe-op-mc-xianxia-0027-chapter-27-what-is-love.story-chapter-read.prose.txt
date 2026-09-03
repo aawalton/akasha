@@ -1,17 +1,3 @@
----
-id: baf5ee5e-edd3-5635-b464-076b659f5e5e
-page-type-slug: story-chapter-royal-road
-title: "Chapter 27: What is Love?"
-slug: 0027-chapter-27-what-is-love
-partOf: heaven-piercing-giraffe-op-mc-xianxia
-position: 27
-ownLength: 1581
-unit: words
-publishedAt: 2026-08-18
-link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3828856/chapter-27-what-is-love"
-royalRoadId: "3828856"
----
-
 Chapter 27: What is Love?
 
 "Courting—"

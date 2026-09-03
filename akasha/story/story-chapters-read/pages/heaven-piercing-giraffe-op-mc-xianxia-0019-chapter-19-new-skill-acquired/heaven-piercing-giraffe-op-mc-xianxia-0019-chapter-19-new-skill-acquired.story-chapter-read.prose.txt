@@ -1,17 +1,3 @@
----
-id: a5ca5b73-c4f5-5901-9260-166f71de1491
-page-type-slug: story-chapter-royal-road
-title: "Chapter 19: New Skill Acquired"
-slug: 0019-chapter-19-new-skill-acquired
-partOf: heaven-piercing-giraffe-op-mc-xianxia
-position: 19
-ownLength: 2379
-unit: words
-publishedAt: 2026-07-23
-link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3713539/chapter-19-new-skill-acquired"
-royalRoadId: "3713539"
----
-
 Chapter 19: New Skill Acquired
 
 The light came before the sound.

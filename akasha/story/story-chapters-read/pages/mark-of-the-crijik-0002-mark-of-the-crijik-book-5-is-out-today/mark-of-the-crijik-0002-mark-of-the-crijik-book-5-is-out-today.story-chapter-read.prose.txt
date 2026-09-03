@@ -1,17 +1,3 @@
----
-id: e4f89223-5c65-58c9-81e8-f6cdaaa97393
-page-type-slug: story-chapter-royal-road
-title: "Mark of the Crijik Book 5 is out today!"
-slug: 0002-mark-of-the-crijik-book-5-is-out-today
-partOf: mark-of-the-crijik
-position: 2
-ownLength: 373
-unit: words
-publishedAt: 2024-03-06
-link: "https://www.royalroad.com/fiction/50243/mark-of-the-crijik/chapter/1544417/mark-of-the-crijik-book-5-is-out-today"
-royalRoadId: "1544417"
----
-
 Hi Everyone! This is ThinkTwice!
 
 You may recognize me from such posts as 'Mark of the Crijik book 4+5 update', ‘Mark of the Crijik Book 3 releases today’ and ‘Mark of the Crijik Book 4 releases today’.

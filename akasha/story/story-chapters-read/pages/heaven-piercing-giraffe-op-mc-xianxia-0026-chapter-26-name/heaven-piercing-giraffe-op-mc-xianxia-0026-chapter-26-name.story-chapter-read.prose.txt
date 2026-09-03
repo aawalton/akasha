@@ -1,17 +1,3 @@
----
-id: 08563862-6621-58c7-b495-753f3d2bc479
-page-type-slug: story-chapter-royal-road
-title: "Chapter 26: Name"
-slug: 0026-chapter-26-name
-partOf: heaven-piercing-giraffe-op-mc-xianxia
-position: 26
-ownLength: 1602
-unit: words
-publishedAt: 2026-08-15
-link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3817279/chapter-26-name"
-royalRoadId: "3817279"
----
-
 Chapter 26: Name
 
 I was shoved inside a tight space, more bars of steel closing around us. The others tumbling in after me one after another.

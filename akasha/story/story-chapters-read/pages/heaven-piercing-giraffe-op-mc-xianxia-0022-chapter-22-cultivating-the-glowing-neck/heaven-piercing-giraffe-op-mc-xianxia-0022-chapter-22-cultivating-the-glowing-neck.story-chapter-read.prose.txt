@@ -1,17 +1,3 @@
----
-id: 861d635e-8b1d-5da9-bb12-fadb3840aa4e
-page-type-slug: story-chapter-royal-road
-title: "Chapter 22: Cultivating the Glowing Neck"
-slug: 0022-chapter-22-cultivating-the-glowing-neck
-partOf: heaven-piercing-giraffe-op-mc-xianxia
-position: 22
-ownLength: 1923
-unit: words
-publishedAt: 2026-08-01
-link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3753344/chapter-22-cultivating-the-glowing-neck"
-royalRoadId: "3753344"
----
-
 Chapter 22: Cultivating the Glowing Neck
 
 The Human Ts from both tribes had merged now, seated cross-legged in a wide ring around me, close enough that I could count individual faces without needing to squint.

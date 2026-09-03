@@ -1,17 +1,3 @@
----
-id: eec18e7b-5e99-5a4d-8c15-f046825aa0f2
-page-type-slug: story-chapter-royal-road
-title: "Chapter 24: Inhaler Type Pills"
-slug: 0024-chapter-24-inhaler-type-pills
-partOf: heaven-piercing-giraffe-op-mc-xianxia
-position: 24
-ownLength: 1636
-unit: words
-publishedAt: 2026-08-08
-link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3786780/chapter-24-inhaler-type-pills"
-royalRoadId: "3786780"
----
-
 Chapter 24: Inhaler Type Pills
 
 The fire crackled. No one dared to speak.

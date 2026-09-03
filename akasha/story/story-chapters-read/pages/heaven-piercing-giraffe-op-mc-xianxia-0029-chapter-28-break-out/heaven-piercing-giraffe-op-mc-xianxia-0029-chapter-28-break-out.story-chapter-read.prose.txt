@@ -1,17 +1,3 @@
----
-id: cd93d2e5-e9f0-5769-9673-e9a6a72eebf0
-page-type-slug: story-chapter-royal-road
-title: "Chapter 28: Break Out"
-slug: 0029-chapter-28-break-out
-partOf: heaven-piercing-giraffe-op-mc-xianxia
-position: 29
-ownLength: 1587
-unit: words
-publishedAt: 2026-08-25
-link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3861038/chapter-28-break-out"
-royalRoadId: "3861038"
----
-
 Chapter 28: Break Out
 
 I looked at the man all in black standing in front of me.

@@ -1,17 +1,3 @@
----
-id: 3a4c247e-ff25-5aa5-a038-c926e0fadd12
-page-type-slug: story-chapter-royal-road
-title: "Chapter 23: Kingdom Building?"
-slug: 0023-chapter-23-kingdom-building
-partOf: heaven-piercing-giraffe-op-mc-xianxia
-position: 23
-ownLength: 1957
-unit: words
-publishedAt: 2026-08-04
-link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3766032/chapter-23-kingdom-building"
-royalRoadId: "3766032"
----
-
 Chapter 23: Kingdom Building?
 
 After a while of internally debating whether to wait for someone else to step in and fix this, or fix it myself, I chose to fix it myself.

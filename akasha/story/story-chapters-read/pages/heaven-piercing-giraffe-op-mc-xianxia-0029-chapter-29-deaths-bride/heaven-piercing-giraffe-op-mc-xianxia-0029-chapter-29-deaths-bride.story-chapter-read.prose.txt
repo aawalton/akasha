@@ -1,17 +1,3 @@
----
-id: 948c39d8-4db2-5f5a-9758-73a4d8b929e7
-page-type-slug: story-chapter-royal-road
-title: "Chapter 29: Death's Bride"
-slug: 0029-chapter-29-deaths-bride
-partOf: heaven-piercing-giraffe-op-mc-xianxia
-position: 29
-ownLength: 1571
-unit: words
-publishedAt: 2026-08-30
-link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3886969/chapter-29-deaths-bride"
-royalRoadId: "3886969"
----
-
 Chapter 29: Death's Bride
 
 The street stretched out long and straight in front of us. The same road we'd been dragged down in the cage, running dead center through town, buildings pressed close on either side all the way to the distant gate we'd first entered through.
