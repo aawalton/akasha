@@ -1,5 +1,5 @@
+import type { Violation } from "../../../akasha/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.code.ts"
 import { checksumKeysSubstitutedIn } from "./checksum-annotation-substitution.ts"
-import type { Violation } from "./violation-reporter.ts"
 
 export interface ChecksumSubstitutionStep {
   readonly workflow: string

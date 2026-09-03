@@ -10,6 +10,7 @@ import type {
   Step,
   Workflow,
 } from "@akasha/workflow-language/workflow-types"
+import { readFunctionalType } from "../../../akasha/checks/cluster-checks/modules/functional-type/functional-type.module.code.ts"
 import { STATIC_CHECKS } from "./check-configs.ts"
 import { acyclicityChecks } from "./check-configs-acyclicity.ts"
 import { addonChecks } from "./check-configs-addons.ts"
@@ -43,7 +44,6 @@ import { buildTypecheckChecks } from "./check-configs-typecheck.ts"
 import type { CheckConfig } from "./check-configs-types.ts"
 import { TYPESAFETY_CHECKS } from "./check-configs-typesafety.ts"
 import { CHECK_WORKFLOW_DISPATCH_NODE_TYPES } from "./check-workflow-watch.ts"
-import { readFunctionalType } from "./functional-type.ts"
 import { discoverRouterApps } from "./router-apps.ts"
 import { routedCheckCommand } from "./run-check-routing.ts"
 import { loadTestStepInputs } from "./test-step-loader.ts"

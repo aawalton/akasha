@@ -1,8 +1,9 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { listWorkspaceDirs } from "./workspace-paths.ts"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { parse } from "yaml"
 import { z } from "zod"
+import { findFiles } from "../../../akasha/checks/cluster-checks/modules/file-finding/file-finding.module.code.ts"
 import {
   type AstGrepRule,
   type AstGrepWorkspace,
@@ -10,7 +11,6 @@ import {
   planAstGrepWatch,
 } from "./ast-grep-rules.ts"
 import type { CheckConfig } from "./check-configs-types"
-import { findFiles } from "./file-finder.ts"
 
 const sgconfigSchema = z.looseObject({ ruleDirs: z.array(z.string()).default([]) })
 const packageJsonSchema = z.looseObject({ name: z.string().optional() })
@@ -102,15 +102,15 @@ export function astGrepWatchPlan(codeRoot: string): ReturnType<typeof planAstGre
 export const astGrepCheck = (codeRoot: string): CheckConfig => {
   const plan = astGrepWatchPlan(codeRoot)
   return {
-  name: "ast-grep",
-  dispatchNodes: [
-    ...plan.seeds,
-    "ts-file:instructions:infra/cluster-checks/src/checks/check-ast-grep.ts",
-    "ts-file:instructions:tools/lib/check-workflow/ast-grep-rules.ts",
-    "ts-file:instructions:tools/lib/check-workflow/check-configs-ast-grep.ts",
-  ],
-  dispatchNodeTypes: ["yaml-file", "yml-file"],
-  alwaysRun: plan.repoWide,
-  script: "infra/cluster-checks/src/checks/check-ast-grep.ts",
+    name: "ast-grep",
+    dispatchNodes: [
+      ...plan.seeds,
+      "ts-file:instructions:infra/cluster-checks/src/checks/check-ast-grep.ts",
+      "ts-file:instructions:tools/lib/check-workflow/ast-grep-rules.ts",
+      "ts-file:instructions:tools/lib/check-workflow/check-configs-ast-grep.ts",
+    ],
+    dispatchNodeTypes: ["yaml-file", "yml-file"],
+    alwaysRun: plan.repoWide,
+    script: "infra/cluster-checks/src/checks/check-ast-grep.ts",
   }
 }

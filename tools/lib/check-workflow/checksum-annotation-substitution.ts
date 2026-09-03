@@ -1,10 +1,10 @@
+import type { Violation } from "../../../akasha/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.code.ts"
 import { blankComments, type CommentSyntax } from "./blank-comments.ts"
 import {
   type ChecksumSubstitutionSite,
   pairingScope,
   unmatchedEmits,
 } from "./checksum-annotation-pairing.ts"
-import type { Violation } from "./violation-reporter.ts"
 
 export const CHECKSUM_ANNOTATION_MARKER = "checksum/"
 

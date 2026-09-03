@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { listWorkspaceDirs } from "./workspace-paths.ts"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { z } from "zod"
 import { groupTestFilesByType, type TestType } from "./test-step-paths.ts"
 import { computeTransitiveClosure, type PackageJson, type WorkspaceInfo } from "./workspace-deps.ts"

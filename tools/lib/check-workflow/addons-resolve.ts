@@ -1,7 +1,7 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { basename, dirname, join, relative, sep } from "node:path"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { z } from "zod"
-import { listWorkspaceDirs } from "./workspace-paths.ts"
 
 export const ADDONS_REL_ROOT = "temper/addons"
 
