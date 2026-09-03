@@ -5,7 +5,6 @@ import { resolve } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { z } from "zod"
-import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import {
@@ -20,6 +19,7 @@ import {
   restatementKey,
   UNLEXED_KINDS,
 } from "../../modules/prose-mechanism-restatement/prose-mechanism-restatement.module.code.ts"
+import { discoverRepoFiles } from "../../modules/repo-files/repo-files.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
@@ -133,7 +133,7 @@ async function main(): Promise<undefined> {
   let files: readonly string[]
   let accepted: readonly string[]
   try {
-    files = repoFilesAt(repoRoot).filter(carriesProse)
+    files = discoverRepoFiles(repoRoot).filter(carriesProse)
     accepted = readRatchet()
   } catch (err) {
     console.error(`${PREFIX} Failed to assemble the prose carriers: ${errorMessage(err)}`)
@@ -148,7 +148,7 @@ async function main(): Promise<undefined> {
     membership: {
       kind: "enumerated",
       because:
-        "`repoFilesAt` enumerates the repo off `git ls-files` and THROWS with git's own stderr where that fails rather than returning a short list, so either the members are the tracked non-fixture files or the run does not reach here at all; the filter after it drops only classes `PROSE_FORM` has no comment lexer for, decided from the path with nothing opened",
+        "`discoverRepoFiles` enumerates the repo off `git ls-files` and THROWS with git's own stderr where that fails rather than returning a short list, so either the members are the tracked non-fixture files or the run does not reach here at all; the filter after it drops only classes `PROSE_FORM` has no comment lexer for, decided from the path with nothing opened",
     },
     pathOf: (rel) => resolve(repoRoot, rel),
     scan: (rel, text) => {

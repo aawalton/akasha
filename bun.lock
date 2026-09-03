@@ -531,6 +531,7 @@
       "dependencies": {
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
+        "@tools/lib": "workspace:*",
         "typescript": "5.9.3",
       },
     },

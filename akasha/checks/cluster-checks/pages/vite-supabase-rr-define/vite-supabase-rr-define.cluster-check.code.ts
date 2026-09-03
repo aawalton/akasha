@@ -4,10 +4,10 @@ import { existsSync, readFileSync } from "node:fs"
 import { basename, dirname, resolve } from "node:path"
 import ts from "typescript"
 import { z } from "zod"
-import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
 import type { ViteSupabaseRrDefineViolation } from "../../modules/check-vite-supabase-rr-define-json-contract/check-vite-supabase-rr-define-json-contract.module.code.ts"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
+import { discoverRepoFiles } from "../../modules/repo-files/repo-files.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
@@ -157,7 +157,7 @@ function helperReachesDefine(sourceFile: ts.SourceFile, binding: HelperBinding):
 }
 
 function findViteConfigs(repoRoot: string): readonly string[] {
-  return repoFilesAt(repoRoot).filter((rel) => basename(rel) === VITE_CONFIG_BASENAME)
+  return discoverRepoFiles(repoRoot).filter((rel) => basename(rel) === VITE_CONFIG_BASENAME)
 }
 
 async function main(): Promise<undefined> {
@@ -174,7 +174,7 @@ async function main(): Promise<undefined> {
     membership: {
       kind: "enumerated",
       because:
-        "`repoFilesAt` runs `git ls-files --cached --others --exclude-standard` over " +
+        "`discoverRepoFiles` runs `git ls-files --cached --others --exclude-standard` over " +
         "`repoRoot` and THROWS with git's own stderr when git fails rather than returning an " +
         "empty list, so a shorter list is fewer vite configs in the tree",
     },

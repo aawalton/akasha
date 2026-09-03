@@ -7,6 +7,7 @@
     "./change-walking": "./modules/change-walking/change-walking.module.code.ts",
     "./checking": "./modules/checking/checking.module.code.ts",
     "./judging": "./modules/judging/judging.module.code.ts",
+    "./repo-files": "./cluster-checks/modules/repo-files/repo-files.module.code.ts",
     "./repo-scope": "./cluster-checks/modules/repo-scope/repo-scope.module.code.ts",
     "./rule-population-audit": "./cluster-checks/modules/rule-population-audit/rule-population-audit.module.code.ts",
     "./test-step-loading": "./cluster-checks/modules/test-step-loading/test-step-loading.module.code.ts",
@@ -15,6 +16,7 @@
   "dependencies": {
     "@akasha/k8s-synth": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
+    "@tools/lib": "workspace:*",
     "typescript": "5.9.3"
   }
 }

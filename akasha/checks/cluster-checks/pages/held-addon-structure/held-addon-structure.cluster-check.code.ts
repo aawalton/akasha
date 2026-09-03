@@ -6,7 +6,7 @@ import { join, relative } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
-import { parseArgs } from "../../../../../tools/lib/parse-args.ts"
+import { parseArgs } from "@tools/lib/parse-args"
 import type { CommandHelp, HelpFlag } from "../../../../../tools/ops/surface.ts"
 import {
   type AddonStructureFacts,

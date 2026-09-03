@@ -2,9 +2,9 @@
 
 import { resolve } from "node:path"
 import { classifyExtension } from "@akasha/code-system/file-kind"
-import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import { examinePopulation } from "../../modules/population/population.module.code.ts"
+import { discoverRepoFiles } from "../../modules/repo-files/repo-files.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
@@ -59,7 +59,7 @@ function main(): never {
 
   let files: readonly string[]
   try {
-    files = repoFilesAt(repoRoot).filter((rel) => classifyExtension(rel) === "sh")
+    files = discoverRepoFiles(repoRoot).filter((rel) => classifyExtension(rel) === "sh")
   } catch (err) {
     return exitOnToolError({ error: err, prefix: PREFIX })
   }
@@ -70,7 +70,7 @@ function main(): never {
     membership: {
       kind: "enumerated",
       because:
-        "the members are `repoFilesAt` narrowed by `classifyExtension`, and the `git ls-files` beneath it raises with git's own stderr rather than returning short — so fewer members means fewer shell scripts in the tree",
+        "the members are `discoverRepoFiles` narrowed by `classifyExtension`, and the `git ls-files` beneath it raises with git's own stderr rather than returning short — so fewer members means fewer shell scripts in the tree",
     },
     labelOf: (rel) => rel,
     siteOf: (rel) => `${repoRoot}/${rel}`,

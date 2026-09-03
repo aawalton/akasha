@@ -1,7 +1,6 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
 import {
   type ChangeClosure,
   describeClosure,
@@ -16,6 +15,7 @@ import {
   examineFilePopulation,
   examinePopulation,
 } from "../../modules/population/population.module.code.ts"
+import { discoverRepoFiles } from "../../modules/repo-files/repo-files.module.code.ts"
 import { repoTopLevelDirs } from "../../modules/repo-path-resolver/repo-path-resolver.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { CHECK_EXEMPT_DIRS } from "../../modules/repo-scope/repo-scope.module.code.ts"
@@ -46,7 +46,7 @@ function main(): never {
   const { flags } = parseArgs(Bun.argv.slice(2), STANDARD_FLAGS)
   const repoRoot = flags.repoRoot != null ? resolve(flags.repoRoot) : getRepoRoot()
 
-  const trackedFiles = repoFilesAt(repoRoot, {
+  const trackedFiles = discoverRepoFiles(repoRoot, {
     includeFixtures: true,
     includeGenerated: true,
   })
@@ -105,7 +105,7 @@ function main(): never {
     membership: {
       kind: "enumerated",
       because:
-        "`repoFilesAt` throws with git's own stderr when `git ls-files` fails rather than returning `[]` — the swallow it was written to delete (#15967) — so a shorter list is fewer `.ts`/`.tsx` files git reports in the tree; the closure narrowing it is a `Set` already in memory, which `resolveChangeClosure` widens to whole-tree when no manifest states the change rather than returning an empty one",
+        "`discoverRepoFiles` throws with git's own stderr when `git ls-files` fails rather than returning `[]` — the swallow it was written to delete (#15967) — so a shorter list is fewer `.ts`/`.tsx` files git reports in the tree; the closure narrowing it is a `Set` already in memory, which `resolveChangeClosure` widens to whole-tree when no manifest states the change rather than returning an empty one",
     },
     pathOf: (rel) => `${repoRoot}/${rel}`,
     scan: (rel, source) => {

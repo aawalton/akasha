@@ -3,13 +3,13 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
-import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   findOrphanSources,
   type OrphanReport,
 } from "../../modules/orphan-source/orphan-source.module.code.ts"
 import { examinePopulation } from "../../modules/population/population.module.code.ts"
+import { discoverRepoFiles } from "../../modules/repo-files/repo-files.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
@@ -37,7 +37,7 @@ function main(): never {
     exitOnToolError({ error: `--repo-root ${repoRoot} does not exist`, prefix: PREFIX })
   }
 
-  const files = repoFilesAt(repoRoot, { includeFixtures: true, includeGenerated: true })
+  const files = discoverRepoFiles(repoRoot, { includeFixtures: true, includeGenerated: true })
   const workspaceDirs = listWorkspaceDirs(repoRoot)
   const orphans = findOrphanSources({ files, workspaceDirs })
 
@@ -48,7 +48,7 @@ function main(): never {
     membership: {
       kind: "enumerated",
       because:
-        "`repoFilesAt` throws — with git's own stderr in the message — when `git ls-files` fails, " +
+        "`discoverRepoFiles` throws — with git's own stderr in the message — when `git ls-files` fails, " +
         "instead of the `catch { return [] }` it used to have, so a shorter list is fewer files git " +
         "tracks rather than an enumeration that failed",
     },

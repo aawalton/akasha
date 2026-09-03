@@ -1,7 +1,6 @@
 #!/usr/bin/env bun
 
 import { classifyExtension } from "@akasha/code-system/file-kind"
-import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
 import {
   alanwaltonIosSeamFiles,
   readAlanwaltonIosSeam,
@@ -12,6 +11,7 @@ import {
   scanHealthKitScript,
 } from "../../modules/healthkit-read-only-violations/healthkit-read-only-violations.module.code.ts"
 import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
+import { discoverRepoFiles } from "../../modules/repo-files/repo-files.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
@@ -27,12 +27,12 @@ function main(): undefined {
   const seamText = readAlanwaltonIosSeam(repoRoot)
 
   const { population, violations } = examineFilePopulation<HealthKitReadOnlyViolation>({
-    files: repoFilesAt(repoRoot).filter((rel) => classifyExtension(rel) === "sh"),
+    files: discoverRepoFiles(repoRoot).filter((rel) => classifyExtension(rel) === "sh"),
     unit: "shell scripts",
     membership: {
       kind: "enumerated",
       because:
-        "the members are `repoFilesAt` narrowed by `classifyExtension`, and the `git ls-files` beneath it raises with git's own stderr rather than returning short — so fewer members means fewer shell scripts in the tree",
+        "the members are `discoverRepoFiles` narrowed by `classifyExtension`, and the `git ls-files` beneath it raises with git's own stderr rather than returning short — so fewer members means fewer shell scripts in the tree",
     },
     pathOf: (rel) => `${repoRoot}/${rel}`,
     scan: (rel, source) => {

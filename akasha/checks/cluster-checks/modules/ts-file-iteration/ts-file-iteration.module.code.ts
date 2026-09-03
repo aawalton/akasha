@@ -1,4 +1,4 @@
-import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
+import { discoverRepoFiles } from "../repo-files/repo-files.module.code.ts"
 
 export interface TsFileWalkArgs {
   readonly repoRoot: string
@@ -19,5 +19,5 @@ const isTypeScriptSource = (rel: string): boolean => {
 }
 
 export async function listTsFiles(args: TsFileWalkArgs): Promise<readonly string[]> {
-  return repoFilesAt(args.repoRoot).filter(isTypeScriptSource)
+  return discoverRepoFiles(args.repoRoot).filter(isTypeScriptSource)
 }
