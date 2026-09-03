@@ -175,7 +175,7 @@ export async function loadStoryCatalog(storyId: string): Promise<LitrpgCatalog> 
   const slug = String(found.values.slug ?? "")
   const chapterRows = await askRows({
     "page-type": chapterType,
-    where: { partOfSlugs: { is: slug } },
+    where: { partOfSlugs: { has: slug } },
     keys: CHAPTER_KEYS,
     "sort-by": "position",
     limit: ASK_LIMIT,
