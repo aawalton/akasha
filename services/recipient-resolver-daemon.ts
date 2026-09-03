@@ -4,6 +4,7 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
+import { listPersonaSlugs, listPersonaWakeSources } from "@akasha/persona-system/persona-targets"
 import {
   recipientResolverConfigBanner,
   resolveRecipientResolverConfig,
@@ -12,7 +13,6 @@ import { defaultRecipientResolverDeps } from "@akasha/seat-system/recipient-reso
 import { assembleRecipientResolverSpecs } from "@akasha/seat-system/recipient-resolver-registry"
 import { runRecipientResolverTick } from "@akasha/seat-system/recipient-resolver-tick"
 import { listPersonHandlers } from "../tools/lib/person-handler-slugs.ts"
-import { listPersonaSlugs, listPersonaWakeSources } from "../tools/lib/persona-wake-slugs.ts"
 
 function sleepAbortable(ms: number, signal: AbortSignal): Promise<boolean> {
   if (signal.aborted) return Promise.resolve(false)
