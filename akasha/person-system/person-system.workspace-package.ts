@@ -14,6 +14,7 @@ export const personSystem = {
     "page-type/person",
     "page-type/person-access",
     "page-type/person-authority",
+    "page-type/sms-consent",
     "module/device-secret-body",
     "module/device-secret-minting",
     "module/device-secret-shape",

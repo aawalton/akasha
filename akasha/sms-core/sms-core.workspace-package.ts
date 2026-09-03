@@ -16,6 +16,7 @@ export const smsCore = {
     "module/acting-account",
     "module/jenny-handler-routing",
     "module/ki-handler-routing",
+    "page-type/telnyx-account",
   ],
   invariants: [
     {

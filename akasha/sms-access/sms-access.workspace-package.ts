@@ -6,7 +6,7 @@ export const smsAccess = {
   slug: "sms-access",
   definition: "the pages an inbound SMS reads and writes",
   manifest: "json",
-  partSlugs: ["module/sms-allowlist", "module/sms-discard"],
+  partSlugs: ["module/sms-allowlist", "module/sms-discard", "page-type/sms-discard"],
   invariants: [
     {
       invariantKind: "absence",

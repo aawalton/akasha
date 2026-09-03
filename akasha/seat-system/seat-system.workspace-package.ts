@@ -10,6 +10,7 @@ export const seatSystem = {
     "page-type/agent-settings",
     "page-type/log-source",
     "page-type/message",
+    "page-type/notice",
     "page-type/seat",
     "page-type/seat-conditions",
     "page-type/seat-log-day",
