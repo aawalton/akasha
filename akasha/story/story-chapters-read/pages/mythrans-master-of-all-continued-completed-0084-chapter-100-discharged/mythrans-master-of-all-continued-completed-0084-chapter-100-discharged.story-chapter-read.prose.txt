@@ -1,0 +1,374 @@
+Ren logged out and had breakfast, did his physical therapy session, and had a shower. Denise was there today and they talked for a while about all the things that had happened, and Ren told her about his deep regret over the outcome the duel.
+
+“I was so eager to prove that I could defeat their champion, that I didn't even consider the rules might have been different.” Ren said.
+
+“Barbara told me all about it.” Denise said. “She also said you handled it well.”
+
+“I finished it as quickly as I could.” Ren nodded. “If he'd been wearing leather armor, or if the rules had said hand-to-hand and no weapons, it could have been a long and dragged-out fight.”
+
+Denise nodded herself. “You've fixed a lot of problems with that one fight, though.”
+
+Ren smiled. “I did... and my discharge should be coming sometime today, too.” He said. “I know this might sound hard to believe, but it's actually started to get boring being in the army every day. It's too easy.”
+
+Denise put a hand on his arm. “Now you've done it!” She said and laughed. “You've cursed yourself! It's going to be really difficult now!”
+
+Ren laughed and they spent a bit more time together watching a morning show. When his watch beeped, Ren looked at it.
+
+“I better get back in.” Ren said. “It might be my last day in the army.”
+
+“Have fun.” Denise said as he got comfortable in the bed.
+
+“Don't I always?” Ren asked, and put on the VR headset as Denise laughed.
+
+“Flow Login Start.”
+
+********
+
+Ren activated Sneak and left the old bedroom. He crept down the hall, through the main room and into the kitchen. He ate a quick breakfast, got some food for Princess, and went out to the stable to feed her. Once that was done, he ran as hard as he could to the Garrison. He made it to his designated area right on time and Ghomhan paid him the 2 gold coins he was owed.
+
+Ren spent another slightly boring morning training at the Garrison. He felt like he was wasting his time, when he could be doing so many other things. His training Knight, Ghomhan, kept everyone doing the same things, and even Groggot was getting to the point that he was bored, too. Ren wasn't sure if there was anything that he could do about the situation, as he didn't want to cause any more trouble that would be brought to the Commander's attention.
+
+While waiting for the rest of the Recruits to finish yet another series of running laps, he took the time to look at his status.
+
+“Show Status.” Ren whispered, so he wouldn't attract attention.
+
+Status
+
+Name  Ren  Level  5
+
+Gender  Male  Class  Artificer
+
+Race  Elfling  Fame/Infamy  3000 (Well Known)
+
+Dwarven Lands:
+
+Influence  1970  Honor  760
+
+Titles
+
+Blacksmith
+
+Tailor
+
+Sally's Student - 20% stat gain at her shop
+
+Issac's Novice - 20% stat gain at his shop
+
+Lemming - 5% resistance to falls
+
+Son of the Pelt - 20% stat gain using craft station
+
+Honorary Dwarf - Grants Dwarf Race abilities
+
+A Fool And His Money - Automatic 5% gratuity, plus perks
+
+Ren, The First - Grants Command and Camaraderie sub skills under Aura (Personal)
+
+Recruit (Temporary) - allows passage in and out of the Garrison, and certain areas inside
+
+Health  597  Mana  652
+
+Strength  92  Dexterity  73
+
+Vitality  50  Agility  71
+
+Endurance  75  Intelligence  73
+
+Luck  24  Wisdom  72
+
+Ren had another thought. He hadn't looked at his Skills in a while, and figured that now was as good a time as any.
+
+“Show Skills, minus Zero levels.” He'd made that mistake before, showing all the skills he had access to, but hadn't learned yet. Ren wanted to know what he'd been doing, not what he could possibly do.
+
+Skill List
+
+Skill Levels: Beginner (1-9), Intermediate (1-9), Advanced (1-9), Expert (1-9), Master
+
+Main Skill:
+
+Alchemy Level 6 (Beginner 20%)  Able to make various potions
+
+Sub Skills:
+
+Herb Lore Identify  Lets you identify herbs and their uses
+
+Herb Aura Level 5 (Beginner 0%)  Herbs will glow slightly when you are near them
+
+Main Skill:
+
+Archery Level 1 (Beginner 75%)  Can shoot various bows
+
+Sub Skills:
+
+Bow Making Level 3 (Beginner 0%)  Allows you to construct bows
+
+Arrow Making Level 3 (Beginner 0%)  Allows you to construct arrows
+
+Crossbow Making Level 3 (Beginner 10%)  Allows you to construct crossbows
+
+Bolt Making Level 4 (Beginner 96%)  Allows you to construct crossbow bolts
+
+Main Skill:
+
+Appraisal Level 2 (Beginner 60%)  Allows you to determine the worth of non-magical goods and if they contain precious metals and real gems
+
+Main Skill:
+
+Aura (Dire Wolf Hooded Cloak) Level 4 (Beginner 0%)  10 foot radius, menacing feeling, small creatures flee
+
+Aura (Personal) Level 3 (Beginner 30%)  Your presence is such as those near you will be in awe of you and your accomplishments. Current distance: 10 foot radius
+
+Sub Skills:
+
+Command Level 2 (Beginner 20%)  Allows you to lead a group and issue orders. Higher levels will allow a larger Command radius, and generate loyalty from those under your command
+
+Camaraderie Level 4 (Beginner 0%)  Allows mutual trust and friendship to easily build among people who spend a lot of time together. Higher levels will allow a larger Camaraderie Radius, and grants XP bonuses when fighting in a group of 2 or more
+
+Main Skill:
+
+Cart Driving Level 3 (Beginner 70%)  Can handle horses to some extent and drive a cart
+
+Main Skill:
+
+Craft Familiar Level 1 (Beginner 25%)  Allows you to create a familiar / companion to accompany you on your journey. Higher levels will grant new recipes and access to new familiars. Current Limit: 1
+
+Main Skill:
+
+Cooking Level 7 (Beginner 0%)  Can cook various meals
+
+Sub Skills:
+
+Chop Level 9 (Beginner 0%)  Can chop various things
+
+Main Skill:
+
+Connection Level 1 (Beginner 50%)  Allows a connection to be made between 2 different items with similar properties
+
+Main Skill:
+
+Enchanting Level 1 (Advanced 0%)  Enchant items with runes or glyphs
+
+Sub Skills:
+
+Read Rune Level 3 (Beginner 30%)  Allows you to read unknown runes and add them to your Book of Runes
+
+Dismantle Glyph Level 5 (Beginner 50%)  Allows you to destroy a glyph with the chance of learning a rune from it
+
+Absorb Enchantment Level 4 (Intermediate 50%)  Allows you to remove an enchantment by absorbing it, refilling a portion of your mana in the process. Current Rate: 25% of original cost
+
+Enchanted Eyes Level 4 (Beginner 20%)  Enchantments in the area will give off a slight glow
+
+Decipher Level 3 (Beginner 10%)  You can read runes you know in other glyphs, with a chance to find new runes
+
+Main Skill:
+
+Etiquette Level 2 (Beginner 95%)  Allows proper behavior around nobility
+
+Main Skill:
+
+Fall Resistance Level 1 (Beginner 25%)  Reduces fall damage by 5% (total 10 with Lemming Title), Reduces chance of being crippled from falls by 5%
+
+Main Skill:
+
+Haggle Level 2 (Beginner 95%)  Can negotiate price of items and higher levels gain easier haggle of high price items
+
+Main Skill:
+
+Hardy Level 2 (Beginner 0%)  You have gained some resistance to poison, foreign spells, and foreign spell-like abilities
+
+Main Skill:
+
+Identify Level 1 (Intermediate 15%)  Can identify most items and their magic properties
+
+Main Skill:
+
+Iron Grip Level 2 (Intermediate 60%)  Grip things with unnatural strength. Any item you hold cannot be knocked from your grasp. Showing this skill can cause intimidation or fear in witnesses. Cost: 5 Mana/Second
+
+Main Skill:
+
+Knot Tying Level 3 (Beginner 25%)  Able to tie knots
+
+Main Skill:
+
+Leatherworking Level 2 (Intermediate 10%)  Manipulate leather pieces to make various items
+
+Sub Skills:
+
+Skinning Level 5 (Intermediate 25%)  Allows you to skin animals and gain their pelts
+
+Tanning Level 5 (Beginner 0%)  Treat pelts for curing
+
+Scudding Level 1 (Advanced 20%)  Remove hair from pelts
+
+Stitching Level 1 (Advanced 10%)  Able to attach cloth or leather together with threat and string
+
+Main Skill:
+
+Metal Detection Level 1 (Intermediate 10%)  This skill lets you detect metals nearby. Nearby metals will give off a pulse when you focus. Higher levels will grant longer range of detection. Current Range: 30 foot radius
+
+Main Skill:
+
+Mining Level 2 (Intermediate 0%)  Ability to mine various items from the ground
+
+Main Skill:
+
+Pattern Making Level 2 (Beginner 90%)  This skill will allow you to alter existing patterns to fit your needs
+
+Main Skill:
+
+Rationing Level 2 (Intermediate 0%)  Reduces the amount of food needed to replenish Health
+
+Main Skill:
+
+Repair Level 4 (Intermediate 0%)  Able to repair things
+
+Sub Skills:
+
+Metal Repair Level 4 (Intermediate 10%)  Repair metals easily
+
+Cloth Repair Level 2 (Intermediate 0%)  Repair clothing items easily
+
+Main Skill:
+
+Running Level 3 (Intermediate 0%)  Ability to run
+
+Main Skill:
+
+Serene State Of Mind Level 1 (Intermediate 10%)  (Passive) 15% reduction to pain received, 15% chance to resist mind altering effects; (Active) Completely removes mind altering effects, ignores all pain incurred on the body 15 Mana/Second
+
+Main Skill:
+
+Shock Absorption Level 3 (Intermediate 75%)  25% Reduction to all effects caused by hitting (or being hit by) solid and blunt objects; such as stun effects, damage, numbness, dizziness, etc. Stackable with other skills or effects
+
+Sub Skills:
+
+Block Level 1 (Beginner 95%)  May attempt to stop or deflect blunt force attacks, can combine with a shield for added bonuses
+
+Main Skill:
+
+Smithing Level 4 (Advanced 65%)  Able to shape metal
+
+Sub Skills:
+
+Hammering Level 2 (Advanced 64%)  Hammer metal into various shapes
+
+Smelting Level 2 (Advanced 95%)  Can melt scrap metal and ore into usable materials
+
+Blade Forging Level 1 (Advanced 60%)  Able to forge various blades
+
+Sharpening Level 4 (Advanced 35%)  Able to sharpen anything with an edge
+
+Polishing Level 1 (Advanced 60%)  Adds shine and durability to objects
+
+Main Skill:
+
+Sneak Level 7 (Beginner 0%)  Move with little to no noise in certain areas
+
+Main Skill:
+
+Speed Reading Level 6 (Beginner 0%)(Passive)  Able to read books quickly and still retain the knowledge
+
+Sub Skills:
+
+Knowledge Of Earth Level 3 (Beginner 50%)  Earth affinity and resistance increased by 12%
+
+Knowledge Of Fire Level 2 (Intermediate 0%)  Fire affinity and resistance increased by 25%
+
+Knowledge Of Water Level 2 (Beginner 0%)  Water affinity and resistance increased by 11%
+
+Knowledge Of Wind Level 1 (Beginner 0%)  Wind affinity and resistance increased by 10%
+
+Knowledge Of Light (Holy) Level 1 (Beginner 0%)  Light affinity and resistance increased by 10%
+
+Knowledge Of Dark (Gravity) Level 2 (Beginner 0%)  Dark affinity and resistance increased by 11%
+
+Knowledge Of Ice Level 1 (Beginner 0%)  Ice affinity and resistance increased by 10%
+
+Knowledge Of Lightning Level 5 (Beginner 0%)  Lightning affinity and resistance increased by 17%
+
+Knowledge Of Arcane (Void) Level 1 (Beginner 0%)  Arcane affinity and resistance increased by 10%
+
+Hidden Knowledge Level 2 (Beginner 0%)  Lets you discover facts hidden within the things you read
+
+Main Skill:
+
+Staying Power Level 6 (Intermediate 10%)  Reduces Health Loss by 25%
+
+Sub Skills:
+
+Hold Breath Level 2 (Beginner 25%)  Able to hold breath
+
+Main Skill:
+
+Tailoring Level 6 (Advanced 30%)  The ability to construct clothing from patterns
+
+Sub Skills:
+
+Bag Craft Level 7 (Beginner 50%)  Allows construction of pouches
+
+Stitching Level 1 (Advanced 10%)  Able to attach cloth or leather together with thread and string
+
+Cloth Repair Level 2 (Intermediate 0%)  Repair clothing
+
+Spinning Level 6 (Intermediate 20%)  Spin various materials into usable thread
+
+Main Skill:
+
+Unarmed Combat Level 1 (Beginner 20%)  Can fight without weapons
+
+Main Skill:
+
+Vision of Impurity Level 6 (Beginner 50%)  Can see weaknesses in all metal, and with Smithing can hammer them out
+
+Main Skill:
+
+Woodworking Level 6 (Beginner 95%)  Able to make things with wood
+
+Sub Skills:
+
+Nailing Level 6 (Beginner 50%)  Attach wood and possibly other things together with nails
+
+Chop Level 9 (Beginner 0%)  Can chop various things
+
+Saw Level 1 (Intermediate 10%)  Can cut wood with various sawing tools
+
+Upholstery Level 1 (Beginner 40%)  Can cover wood with fabric and stuffing to make items more comfortable. Higher levels also increase and item's value
+
+Non-Leveling Skills:
+
+Dark Vision  Normally, this would grant clear vision for a limited area at night, but due to your already augmented Elfling vision, you can now see clearly at night (even in pitch blackness) as if it were daytime
+
+Rock Steady  You suffer no penalties from wearing any type of armor. You will always move at the same speed no matter what and are not impeded by any moderate obstruction. Chest deep water, foot deep mud, dense foliage, etc. are no longer considered obstacles. You are also difficult to knock over or trip while you have both feet on the ground.
+
+Slow and Steady  Increases the XP required to level up by 104% and reduces exp gained by 24%. When leveling, 10 stat points will be gained instead of 5. Skills gain XP 54% faster
+
+Strong and Wise  (Strong) Strength +10, (Wise) Wisdom +10
+
+Ren stared at the list of all the things he's done and shook his head. I can't believe I've done so much, and there's still a lot left for me to learn! Ren thought, then dismissed the popups. A Warrior entered the training area and looked around. He saw Ren sitting off to the side and came over.
+
+“Recruit Ren, the Commander wants to see you.” The Warrior said and started to walk away. Ren stood up and followed him to the Commander's office in the next area. The Warrior knocked on the door once and opened it, without waiting for the 'Enter' command.
+
+“Sir! Recruit Ren as you requested, sir.” The Warrior said and left.
+
+“Well, Recruit... it seems as if your services are no longer required.” The Commander said and handed Ren a piece of parchment. On it was a set of orders, releasing Ren from active duty. “Even though you haven't finished the 3 week basic training course, or been officially indoctrinated into the Army, these are your release papers.”
+
+Ren read the parchment and got a popup.
+
+Notice!
+
+You have been given an Honorable Discharge from the Dwarf Army.
+
+Temporary Title: 'Recruit' lost!
+
+Ren stored the parchment into inventory and looked at the Commander.
+
+“I'm not sure how you managed to do that, but I'm very disappointed in you.” The Commander said. “You could have been a huge asset to our cause; but instead, you're back to being just a civilian.”
+
+Ren frowned and thought about what the Commander had said. “Sir! Permission to speak freely, sir!”
+
+The Commander sat back in his chair and crossed his arms. “You're not in my army anymore, so you can drop the 'sir'.” He said with a little bit of disgust in his voice.
+
+“Sir, if what you just told me is right... then Recruits can quit anytime they want before they take the Oath of Service?” Ren asked.
+
+The Commander frowned. “They'd lose some Honor for not fulfilling a promise; but yes, they can quit at any time before taking the Oath.”
+
