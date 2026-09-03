@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const besideAtBuildsANameHeldInWouldRefuse = {
+  id: "01a06739-87e7-720a-bdd8-5dcb5d41e88a",
+  pageTypeSlug: "finding",
+  slug: "beside-at-builds-a-name-held-in-would-refuse",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`besideAt` composes a beside-file name without applying `HELD_PART`, the character class its own module applies when reading such a name apart. Its module page declares that what the builders put together and what `heldIn` takes apart are one rule. A value that could never be an extension therefore becomes one, and the git reader downstream throws where it would otherwise have judged.",
+  evidence:
+    "Read 2026-09-03 on the akasha checkout.\n\n`page-file-name.module.code.ts:7` declares `HELD_PART = /^[a-z0-9]+$/`. `partedIn` applies it at line 63 and `besideNamed` at line 111, both when reading a name apart. `besideAt` at line 146 guards only that the page's own path ends `.ts`, then interpolates the value verbatim. `page-file-name.module.ts:68` states the rule the builder is missing: what `heldIn` takes apart and what the builders here put together stay one rule. `page-file-parts.module.ts:29` asserts the same of `partAt`.\n\nEvery file property in the repository holds one of 19 values, all matching `HELD_PART`: css, diff, entitlements, html, json, jsonl, lua, md, pgn, plist, py, rs, sh, svg, swift, ts, tsx, txt, xml. Every other caller of `besideAt` hands it a short literal. So the rule costs nothing to apply and only the untrusted path through `partsOf` is affected.\n\nWhat the omission buys is a fault dressed as a verdict. `git cat-file --batch -z` takes its request NUL-terminated, so a value carrying a newline goes in whole, but git echoes the name back on a newline-terminated response line. The reader at `commit-reading.module.code.ts:163` reads one line, finds neither a record nor a missing marker, and throws. A single-line value instead yields a plain refusal naming a file nobody meant. Either way the message names the agent's own prose, so an agent reads it as its own text being malformed.\n\nI wrote the three-line guard and could not land it: the write gate refuses every code change over four TypeScript errors in `akasha/alan/web-capacitor/root.tsx`, `akasha/alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts` and `akasha/alan/web/alan-auth-provider/alan-auth-provider.module.code.tsx`, none of which my change reaches.",
+} as const satisfies Finding
