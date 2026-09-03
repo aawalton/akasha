@@ -1,0 +1,274 @@
+There was a creak of over-stressed wood as Halgrave shifted, leaning back and letting the tiny silver fork he’d been holding clatter to the now-empty plate on his desk. It was before dawn, but in Xiugaaraa, that hardly mattered. The office he’d rented in the Guild was lit by gaudy fire, always, presently reflecting crimson off his blue-and-gold-enameled armor. Even with access to the system, the constant light made it very easy to lose track of time.
+
+With a deep sigh, he ran a hand through his close-cropped hair and glanced at the intelligence brief on his desk.
+
+Lightbreaker and imperial forces sighted in northern DKE, reported to have attacked North Harbor.
+
+Significant damage.
+
+Citizens Tem, Yelfenn, and Elfield have retreated to defend their cities.
+
+Ellis razed in the battle between Citizens Ellis, Rumdell, Bluecrest, Berryfed, Jarro, and the imperial army under Dominus Alarus.
+
+Citizens forced to withdraw.
+
+Inbound transit from the Ellis teleport node has been blocked in neighboring cities.
+
+Fel Sadanis, Southguard, Warmak, Rumdell, and Shinevale remain under imperial control.
+
+The assault to retake Shinevale by Citizens Shinevale, Bluecrest, Kepar, and Davlake was repulsed.
+
+Multiple reports indicate that imperial supply lines are being harassed by a gold-level Force Mage near Southguard.
+
+Identity unconfirmed and motivations unknown.
+
+Suspected to be the ex-Guilder Lavarro, wanted for the devastation of Westbridge.
+
+Guild branches in Falking, Lenleah, Halfstone, and Downharrow remain open.
+
+Branch leaders report a marked increase in quest availability and quality related to the ongoing conflict.
+
+Members are reminded that the Empire of Adamant represents a gold-rank threat.
+
+What is she doing, harassing supply lines? Why? What could she possibly have to gain?
+
+“Ten thousand pardons, Golden One.”
+
+Halgrave looked up to see an aide standing in the doorway to his office, the blue-coated man’s eyes firmly fixed on his own feet. He sighed, then beckoned the man forward, wishing the office wasn’t so stuffy with the door closed. “Come.”
+
+The aide swiftly entered, stopping at a respectful distance before clasping his hands behind his back and making a formal bow. When he rose—still looking at his feet, of course—he spoke without further prompting in a heavy Zeeladan accent. “This one has news. This one is pleased to be able to inform the honored Golden One that one of the provided names has appeared in the Guild ledgers.”
+
+A thrill of excitement ran through Halgrave, banishing the sluggishness from his thoughts. “Which?”
+
+“Rain, plate number 14529. This one offers a further ten thousand apologies for the late notification. The name did not appear in the weekly quest records, but in the list of pending tier adjustments. It is with shame that this one did not think to check them until after—”
+
+“Never mind the groveling,” Halgrave said, rising to his feet and reaching for his gauntlets. ‘Rain’ wasn’t an easy name to forget. They had history, and more than one might expect given that the bizarre man was a lowly bronzeplate—or rather it seemed, had been. Having donned his gauntlets, Halgrave stood and reached next for his helmet. “Where did the name appear? In what city?”
+
+“In Three Cliffs, Golden One, a small smuggler’s port on the eastern coast of—”
+
+“I deeping know where Three Cliffs is,” Halgrave interrupted, the gears in his mind turning. Fel Sadanis had been closed to him by the Watch, preventing him from collecting his daughter. He’d sent her a message, which she’d either never gotten or ignored, which would have been just like her. He’d only learned she’d left the city when a useless aide much like this one had come to tell him how it had fallen. At that point, it had been too late. Glavin had outright refused to help him search the area surrounding Vestvall, no matter how he’d threatened. Three Cliffs, though, was sufficiently removed from the conflict and the rank shift that the Translocationist would have no basis to refuse.
+
+Halgrave slipped on his helmet. “Get me Glavin. Have him meet me at the platform.”
+
+“Apologies, Golden One, but—”
+
+“Is he not in the city?”
+
+“He is, Golden One, but with the hour, this one is not sure—”
+
+Again, Halgrave cut him off. The servants in this city were insufferably long-winded. He didn’t know how Burrik tolerated it. “Tell him that I will make it worth his while. Also tell him that if he doesn’t show up within fifteen minutes to at least talk it over, he’ll wish it was my ex looking for him, not me.”
+
+“Yes, Golden One,” the aide said, wasting yet more time on one last bow, then rushing from the room.
+
+Halgrave rolled his eyes, lifting his hammer from its weight-distributing plinth. His steps thundered against the solid stone floor as he strode after the aide. He found that he didn’t care to soften them. The Guild was built to withstand far worse.
+
+It was time to collect his daughter.
+
+Aura Metamagic
+
+Tier 0
+
+Extend Aura (15/15)
+
+Extend aura range by 15 meters
+
+Multiply aura mana cost by 400%
+
+Amplify Aura (15/15)
+
+Multiply aura intensity by 250%
+
+Multiply aura mana cost by 400%
+
+Tier 1
+
+Aura Focus (15/15)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 400%
+
+Multiply aura range by 400%
+
+Multiply aura mana cost by 400%
+
+User loses all external senses while focusing
+
+Aura Synergy (20/15)
+
+Increase all aura output by 2.0% for each rank in any aura
+
+Effective boost: 446.0%
+
+Tier 2
+
+Prismatic Intent (1/15) Exp: 8/400
+
+User may maintain 2 auras simultaneously
+
+Aura IFF (15/15)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive -50.0% aura output
+
+Tier 3
+
+Ethereal Aura (0/15) (+)
+
+User may exempt the aura from environmental effects at will
+
+Aura gains 5% resistance to environmental occlusion and absorption
+
+Environment receives 90% aura output
+
+Hidden skill, revealed by meeting requirements
+
+Requires 10 ranks in Mana Manipulation
+
+Requires 10 ranks in Aura IFF
+
+Aura Compression (15/15)
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 3% per meter of compression
+
+Tier 4
+
+Anchor Aura (0/15)
+
+Allows for the creation, binding, and use of aura anchors
+
+Aura anchors are attuned to a single aura at the time of creation
+
+Aura anchors act as additional emission points, irrespective of distance
+
+User may project any aura through 0-1 anchors simultaneously
+
+Aura range is distributed across the user and any selected anchors
+
+Anchor Creation Cost: 100 + 100^x
+
+Anchor Creation Time: 1 hour
+
+Anchor Durability: 100 + 100^x
+
+Anchor Hardness: 15 (fcs)
+
+x must be a whole number greater than or equal to the tier of the attuned aura
+
+Aura use through an anchor damages the anchor
+
+Anchor damage is proportional to mana flux, mitigated by Hardness
+
+Requires 1 rank in Prismatic Intent
+
+Requires 5 ranks in Ethereal Aura
+
+Requires 10 ranks in Aura Compression
+
+I need it.
+
+Rain’s eyes lingered on the pesky unlock requirements before they flicked back to the top of the skill listing.
+
+This would change so many things! So! Many! Things! I could, like, hand them out to people! The full power of a silverplate in your pocket! Well, a gimpy utility silverplate, and they’d need to tell me when to use the aura somehow, and with what settings, but whatever. The possibilities are endless!
+
+...Buuuuut....
+
+I have questions.
+
+Rain fiddled with his rings, watching for changes.
+
+Anchor Hardness is Focus divided by ten, round down. Got it. Good to know. What else? Hmm. Does the number of active anchors I can use increase with skill rank? Does the cost go down? Up? What about range? Does ‘irrespective of distance’ really mean ‘irrespective of distance,’ or is it subject to the one-league hard cap for non-divination spells? If not, and I somehow got an anchor all the way to, say, the surface of the moon, would it still work? Would the activation break lightspeed? On a more practical note, would it work through a lair boundary? What about line of sight? Line of effect? Is that required? The fact that it requires Ethereal Aura says no. Oh, hey! If I make an aura anchor, can someone ELSE cast an aura through it? It says ‘creation, binding, and use’, so...maybe? Provided that the other aura user also has both Anchor Aura and the actual aura in question. Hmm. And the aura range, does it distribute evenly, or can I change that with Aura Compression? What would happen if I reduced the range to zero? Would that mean I could directly target everyone who’s carrying an anchor, leaving the environment untouched? Heck, I could probably still do that with a one-meter range, just with a bit of mageburn. And this bit: ‘User may cast any aura through 0-1 anchors.’ Does that mean, like, PER AURA, or does it mean in total? I don’t see any mention on a limit of how many can be bound. Ugh. So unclear!
+
+...
+
+Well, I guess since Prismatic Intent is required for the unlock, the use limit being per aura is probably a safe assumption…
+
+…
+
+No! Bad Rain! No assumptions! Must test!
+
+…
+
+Damn!
+
+Progress Report
+
+marker_1: swim_day [3061 Seedlings 21 09:15]
+
+marker_2: t4_amm [3061 Seedlings 25 12:10]
+
+Span: 4.1 days
+
+Skills
+
+Fulmination: +135,775 exp, 10 -> 15 (+5)
+
+Chemical Ward: +67,961 exp, 10 -> 15 (+5)
+
+Mana Manipulation: +44,280 exp, 10 -> 13 (+3)
+
+Winter: +13,622 exp, 11 -> 13 (+2)
+
+Prismatic Intent: +3 exp
+
+Tolerance
+
+Strength: 500 -> 524 (+24)
+
+Endurance: 310 -> 472 (+162)
+
+Speed: 10 -> 11 (+1)
+
+Synchronization
+
+Recovery: 5.6 -> 6.1 (+0.5)
+
+Vigor: 9.2 -> 9.3 (+0.1)
+
+Nothing terrible has happened with all the mana I’ve been venting to train Mana Manipulation, so I’ll finish that first. Then I can go back to training Prismatic Intent with the Perception accolades to see how much the skill ranks help. Hmm, I need to—
+
+An antlered head pushed through Rain’s interface with no warning. The blue panels fuzzed with static, and he found himself suddenly subjected to extremely close-range scrutiny by a pair of slate-gray eyes.
+
+“I have determined that he is not frozen,” Tallheart rumbled as Rain recoiled in shock. He’d have tumbled completely off his bench if not for Ameliah’s arm, snug around his waist. Everyone seated at the picnic table swayed with the chunk of ice it was perched upon as it rocked with Rain’s motion. They were having lunch at the end of the newest dock, this one made of chopped-up icebergs rather than chopped-up trees.
+
+Carten barked out a laugh. “Haha, got ‘im!” He then took a big bite out of a Guild ration, making a loud crunch.
+
+“Mmm,” Tallheart rumbled in amusement, settling back into his seat. The chunk of ice shifted again, jerking as it yanked against the flaxen ropes holding it in place next to its neighbor. The table and benches didn’t slide, their legs sunken through the icy surface and frozen in place.
+
+“I was reading what it said, thank you,” Rain said, sliding his dialogs aside so he could glare at Carten. “I told you the unlock went fine, and I gave you the finger to wait.” To demonstrate, he raised his index finger in the unmistakable signal for ‘hang on a second.’
+
+“I thought the finger was this,” Carten replied, flipping Rain off.
+
+“That means something else,” Jamus said knowingly, seated on the other side of Carten from Tallheart. He dunked his own Guild ration in the dregs of his soup, scraping it around the bowl. “As I understand it, that particular gesture is quite rude.” Another wave struck the chunk of ice, and Jamus hurriedly snatched up his bowl before any of the remaining liquid could spill. Creamy green splatterings of soup across the tabletop told of his mixed success thus far.
+
+“Rude?” Carten said, furrowing his brows in mock confusion as he squinted at his extended digit. He then grinned and hoisted the middle finger of his other hand, now flipping Rain the bird in stereo. “How ‘bout this then? Tell us what it says, ye tit!”
+
+“Be patient,” Ameliah said, her voice filled with laughter. “Once he starts talking numbers, he’s not going to stop.”
+
+“Hey!” Rain protested, smiling at her, not really mad. She was right, after all.
+
+There was a crunch, far too quiet to have come from a Guild ration or the grinding of the frozen dock. Rain turned to see Tallheart holding an enormous purple radish, staring at him intently as he chewed. The ships that Ameliah had sighted had arrived yesterday and the day before, bringing fresh produce with them. Rain could see them in the background even now, bobbing amidst the icebergs that lingered from the raising of the Fist of Progress.
+
+“Well?” Tallheart asked, taking another bite.
+
+Rain’s stomach rumbled. He glanced down at his own plate, which at this point contained only battered crumbs leftover from his fried fish. He peeked beneath the table. Besides the heavy radio receiver he’d stashed there, presently emitting a soft hiss of static, the crate in which they’d brought their lunch now held only empty containers and a single, lonely Guild ration. While rations were tastier than other forms of brickwork, Rain wasn’t sure how well Healing Word worked on teeth. The choice was taken from him in short order, as, true to form, Carten snatched the ration the moment he saw Rain considering it.
+
+Rain sighed softly. He wasn’t about to fight Tallheart over his radish or ask Jamus if he could lick his bowl, so that was that.
+
+I’ll grab something later. Damn. I ate a whole fried fish, and I’m still not full.
+
+He clicked his tongue, looking back at his interface.
+
+I need to double down on my Endurance training. Good thing I can push my tolerance harder after my class-up.
+
+“What’s it do already!?” Carten demanded irately before chomping down on his prize, spraying crumbs everywhere. He pointed the remaining half of the ration at Rain, speaking with his mouth full. “If ye go back ta’ starin’ off inta’ space, I’m throwin’ ye in the wet!”
+
+Rain chuckled, releasing a quick blast of Purify to deal with the crumbs and the soup-spattered table. It did nothing for Carten’s manners. As the light faded, he cleared his throat, then began to read aloud, managing to make it all the way through the skill card without any further interruptions. The moment he finished, though, Carten and Jamus immediately started peppering him with questions and bickering with both him and each other. Ameliah joined in as well, reining things in somewhat thanks to her experience and insight. Tallheart simply let the others talk, chewing in contemplative silence and watching the back-and-forth. Before the discussion could reach any conclusions, however, they were interrupted by a long, shrill chirp.
+
+“What was tha’?” Carten asked, destabilizing the chunk of ice as he contorted himself to peer under the table.
+
+“Shhh!” Rain hissed. “It’s the radio.”
+

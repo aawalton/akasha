@@ -1,0 +1,172 @@
+In a darkened room of a posh, expensive inn, a man slumbered, comfortably dry as the heavy rain assailed the closed wooden shutters. The embers of a dying fire glowed warmly in the hearth, casting the barest hint of light. There was no sound over the pounding of the rain as the door to the room opened, and a shadowy figure slipped inside, followed by another, then another still. There was still no sound as a blade was drawn from a sheath, no glint of light from the naked steel as it was placed pointing at the sleeping man’s eye.
+
+The blade pressed forward.
+
+The sleeper’s eyes shot open, one of them with difficulty, compressed by the advancing metal. His health prevented the blade from penetrating, but the shadow pushed it forward with merciless pressure. A crackle of arcane energy began to build in the air, emanating from the supine man, but the second shadow threw open a leather sack, dumping the contents over him and filling the air with fine iron dust while the third shadow held him down.
+
+The doomed man screamed. The Teleportation magic he had been summoning flickered, failing as it was disrupted. He thrashed against the shadow holding him down as the pressure of the sword increased, finally popping his eye like a grape as his health fell. The wicked point dug deeper, sticking hard and scraping against bone.
+
+Space quivered.
+
+In desperation, the dying man tried to force his spell to completion, even through the interference of the iron.
+
+There was a purple flash.
+
+The screaming stopped, replaced by a sharp pop.
+
+Chunks of pulped blood and bone splashed wetly across the bed and floor, pointing in an expanding cone toward the shutters. In the dim light, the barest outline of a femur could be made out, lodged halfway through the wooden wall, blood dripping to the already-soaked floorboards.
+
+The shadow who’d been holding the man down straightened, slicking away a slurry of blood and iron from his arms. Another of the shadows spoke, knowing that the words would be heard.
+
+“Translocationist neutralized.”
+
+The three shadows left the room holding an even deeper silence than it had held before, stepping over the bodies of the guards and servants in the hall. The quiet of death lasted for but a few moments more before it was broken by fire in the night.
+
+Time seemed to slow as the Knife’s sword crept toward Rain’s upraised arm, blurring under the effect of some skill. He couldn’t identify it. Didn’t know the element.
+
+Force Ward would not be enough.
+
+He could not be hit.
+
+The enemy had to stop moving.
+
+Now.
+
+Fulmination.
+
+focusboost.sh: 500 points shifted to Focus from secondary stats
+
+focusboost.sh: Focus: 770
+
+modmon.sh: ['amplify aura', 'aura compression', 'channel mastery']
+
+autocompress.sh: Target: 10 meters
+
+autocompress.sh: Compression Applied: 72.5 meters
+
+iff2.sh: offensive aura detected
+
+iff2.sh: foes: unknown_entities
+
+iff2.sh: friends: !foes
+
+iff2.sh: ignore: none
+
+iff2.sh: friends non-empty, power target doubled
+
+iff2.sh: piercing_buffer: 2,500 – OK
+
+autopower.sh: Target: 19998 dps
+
+autopower.sh: CM Setting: 89.95%
+
+Fulmination (15/15)
+
+19998.00-22854.86 arcane (fcs) damage per second to foes and environment
+
+9999.00-11427.43 arcane (fcs) mitigation per second to friends
+
+Sufficient damage causes paralysis
+
+Range: 10 meters
+
+Cost: 269.855 mp/s
+
+A fierce, crackling roar filled the air, and lightning exploded from Rain’s body. Without his shaded visor, he was almost completely blinded, but his Endurance helped him watch as blue-hot bolts tore into his opponent, most striking the metal of his equipment, but more than enough touching flesh. The man’s controlled lunge became a fall, his muscles seizing as the paralysis took hold. This was a system effect, not merely the electricity overriding the nervous system. Rather than collapsing into a twitching heap, the man struck the ground like a falling tree, the extended branch of his sword stopping him from smashing into the cobblestones face first.
+
+Rain kept backpedaling, not dropping the spell as his eyes moved toward Ameliah. Through the torrent of crackling light and the steady downpour, he saw her opponent trying to take shelter behind her body. Her armor was ablaze with sparks as the inverted effect of Fulmination warred with lightning discharges as the spell attacked the environment. The Knife had grappled her, preventing her from drawing her bow, but she broke free with a powerful kick that sent the black-clad figure flying away. The moment the enemy was clear, a particularly intense bolt skittered from Rain’s chest through the raindrops, blasting through the flying target and into the ground. Another bolt struck. Then another. And another.
+
+By the time Rain dropped Fulmination, the cliffside street had been transformed, Lichtenberg figures of char spreading out from him across the cobblestones and the fronts of the stone houses. As the crackling died away and darkness returned, Rain breathed in, choking on the smell of ozone and charred meat. Detection informed him that there were no targets left in range. Only corpses. He swayed, then caught himself, the gray that had crept into his thoughts from simultaneously using Fulmination and Force Ward slowly beginning to fade.
+
+“Rain!” Ameliah shouted again, reaching him and pulling his hand away from his bloody neck.
+
+Healing rushed through him, the cool sensation almost lost beneath the torrent of adrenaline gushing through his veins. Ameliah cast again, but Rain tugged his hand out of her grip. “I’m fine!” he yelled, perhaps too loudly. Another wave of Fireballs had just detonated, deafening compared to the panicked cries of the townsfolk. The magic had exploded in mid-air this time, expanding waves of pressure visible by the disruption of the raindrops.
+
+Rain couldn’t see Ameliah’s expression through her visor, but he could feel the war in her heart as she tore her gaze from him to the ships. Finally, she looked back at him, then nodded. “I’m going. Get Vanna and the others.”
+
+Rain’s blood ran cold, and he nodded back.
+
+Knives come in teams of eight.
+
+Seeing that he understood, Ameliah began to move without another word, heading for the cliff as Rain likewise whirled, hurrying back the way they had come. He moved unsteadily at first, slowly picking up speed. The Knives had clearly timed their assault with the arrival of the ships below. They’d found them somehow, despite Detection, which meant...
+
+Scrying Pool? The Eyes are here too. How much do they know? How long have they been watching?
+
+[Rain-King...?]
+
+The slime was disoriented, but realization was slowly working its way into his simple mind, and as it did, it turned instantly to alarm.
+
+[Danger...? Danger!!!!!]
+
+Rain cursed as yet more magic made the shutters rattle in the buildings he was rushing past. [No, Dozer. No danger. Go back to sleep.]
+
+[Rain-King, is danger!] Dozer replied urgently, mistaking the lie for a lack of awareness.
+
+Rain grit his teeth. [Fine, yes. Danger. Big Big Big Danger! That’s three ‘bigs,’ you hear me? Stay inside.]
+
+[Dozer Help! Protect Rain-King!]
+
+[STAY INSIDE!]
+
+“El’s balls, I’m awake!” A woman’s voice shouted flippantly from somewhere behind him, interrupting his internal battle and making him stumble.
+
+Velika.
+
+“I suppose you want my help with this,” the ex-citizen called, her voice closer now and her tone slightly more serious. She appeared in front of him, displacing a cloud of raindrops as she crossed her arms to block his way. Her cloak flapped open from the wind of her arrival, revealing a lone sword at her hip. “Where the fuck are you going? Forget to pick up your turtle shell from the laundry?” She jerked her chin over his shoulder. “Fight’s that way.”
+
+“I know!” Rain shouted, still arguing with Dozer as he attempted to swerve past her. Another explosion rocked the night, the biggest yet by far. “Please, just help Ameliah!”
+
+Velika’s head had snapped up to look toward the harbor with the latest detonation, which was likely the only reason Rain managed to slip past her one-woman blockade. “Fine,” she called after him. “But if you expect me to break my last sword to sink another stupid—”
+
+“JUST FUCKING GO!”
+
+Stint was miserable, soaked to the bone as he slouched in his saddle, the smell of wet horse filling his nostrils. Dust was having no better of a time of it than he was, the horse’s footsteps slow and plodding as he carried his rider around the outskirts of the square beside the reservoir. The flashlighter that Stint wore strapped to his head seemed to do very little in the darkness, its beam disrupted by the heavy precipitation. The battery was safely lashed behind his saddle under a thick waxed blanket, with the wires running up his back beneath his cloak. The last thing he needed was a shock.
+
+Thunder rumbled in the distance, far out to sea, a reminder that things could be worse.
+
+Things could always be worse.
+
+Dust whinnied, tossing his head and tugging at the reins. Stint was having none of it, though, and pulled the horse gently but forcefully back into line. They had a duty this night. He, Dust, and Samson were here to guard the clinic, or rather, the Healer who remained working there. They were the only protection he had. Unlike Tahir, who was still a hunter at heart, Mereck had wholeheartedly embraced the class’s selfless nature. More than a few victims of the attack remained here, and he insisted on staying to care for them until the last. They were those with injuries severe enough to leave them debilitated, even after their wounds had been magically closed—unfortunates whose flesh had not come back whole, but as a twisted mess of scars.
+
+Unfortunates like me.
+
+Stint held back a sigh. His leg would never again be what it was. He could get around alright, sure, but it hurt, especially after a long day. Most days, it wasn’t worth it, which was why he preferred to ride whenever he could. He didn’t blame Ameliah for not healing his leg completely, nor Mereck and Tahir, who’d only recently become awakened at that point. No, he owed them. Without their intervention, he might never have walked again, all because he’d thought himself strong enough to push through a little pain.
+
+Awakening is no cure for stupidity. Gods, I was such an idiot. Still am, actually, out here in the rain when I could be warm in bed.
+
+Dust whinnied again, his ears flat against his head.
+
+“I know, Dust, I know,” Stint said softly, reaching forward to rub the horse’s neck. However, as he moved, a shadow through the rain caught the corner of his eye. He whipped his head around, pointing the light out into the darkness. “Who’s there?”
+
+“Yo!” A woman’s voice called, and a white-clad figure resolved itself out of the darkness. “It’s just me.”
+
+“Vanna?” Stint called back, gently guiding Dust around with his knees. He’d managed to free his bow from its sheath, settling it across his saddle as he realized it wasn’t needed. “Why are you—? Did something happen?”
+
+“No,” Vanna said, laying a hand against Dust’s chest as the horse attempted to nuzzle her. “I just needed to talk to Samson. Council stuff. Is he in the tent?”
+
+Stint shook his head, inadvertently sweeping his light across the surrounding buildings. “He’s on the other side of the square.” He frowned, looking past her. “Are you alone?”
+
+“I wouldn’t make anyone go out in this,” Vanna replied. “Stupid Mereck, being stubborn about it. You two are paragons of Wix, standing out here while he finishes up. Guarding’s all well and good, but at least back on the ship, there’s a platform to shelter under.”
+
+“Commander,” Stint said, uncertain. “Isn’t it dangerous for you to be out here alone?“
+
+“Please,” Vanna said, placing her hand more firmly on Dust’s chest. The smell of wet horse intensified, and steam began rising from the stallion as he pranced away in surprise. That only lasted a moment, though, before the horse bulled into her, pressing his head against her side affectionately.
+
+Vanna laughed, stumbling back. “I can take care of myself, Stint,” she said, with a gesture to the sword at her hip. “Besides, the city is safe enough thanks to the town watch.” She touched him on the thigh, just as she’d touched Dust, and the warmth of Inner Fire ran through him, bolstering his resistance to Cold. It would also apply a weak Fire subelement aspect to any attacks he made for the next half hour or so, including through his arrows, but that wasn’t the point. The point was he wasn’t freezing anymore.
+
+“Ahhh,” he said, shivering in relief. “Thank you.”
+
+“Of course,” Vanna replied. The two spoke for a few moments more before she politely excused herself, leaving Stint to resume his patrol. Dust would have followed her had Stint not hauled him back around. The damn horse loved fire, always watching whenever anyone was fussing with torches or lanterns. That extended to any magic even peripherally related to Heat. Stint would have chalked the animal’s fascination down to all the time Ava spent playing with him, but the horse had been like that since long before meeting the child Fire Mage.
+
+Never boring with Rain around.
+
+Chuckling to himself, Stint patted Dust’s neck, then clucked him to a walk, resuming their patrol. He decided to keep his bow out, however. Vanna was right; the city was peaceful after growing accustomed to Ascension’s rules, but something about tonight had him on edge. He felt better with a weapon in his hand, even if the weather wasn’t doing his bowstring any favors. It was waxed, so it would be fine for a few hours, and he had a few spares tucked away if things didn’t clear up.
+
+“Hey!” Vanna suddenly shouted from somewhere behind him. “Who—? AH!”
+
+Stint whipped his head around, then cursed, fumbling with his bow as he went for the reins. Dust, fortunately, seemed to need no prompting, quickly wheeling and making for the tent at a trot, then a canter as Stint’s light revealed Vanna scrambling back from the tent. She drew her sword as three dark figures emerged, two of them hauling Mereck between them. The third figure was a woman, shorter than the others and unveiled, but otherwise dressed in the same tightly-wrapped black fabric. She was armed, holding a pair of daggers, and to his horror, Stint saw that one of them was dripping red.
+
+“Samson! Stint!” Vanna cried, raising her sword into a guard as Mereck bucked, struggling to break free. “We’re under attack!”
+
+“Let me—OOooOMPH!” Mereck gasped as one of the men carrying him sunk a fist into his gut. The other let his feet fall, crossing his arms as he moved to stand beside the dagger wielder.
+

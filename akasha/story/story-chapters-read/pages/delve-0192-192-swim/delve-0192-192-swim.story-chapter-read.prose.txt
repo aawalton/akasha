@@ -1,0 +1,136 @@
+The harbor, such as it was, was already bustling when Rain arrived, Tarny and Ameliah walking beside him. A floating dock was evidence of the progress that had been made, and the sound of sawing and hammering could be heard as people worked to construct basic rowboats, barges, and the like. Fishing had fed the city in the past, and it would again, but it would be a while yet before a fleet of any sufficient size could be constructed.
+
+Rope for nets was the current problem, being in shorter supply than wood, but Rain was already working on that. Captain Bakal had agreed to let Ascension enlist Green for his services, and not an hour ago, Rain had set the Nature Mage to growing flax in the land already cleared of trees through the vigorous logging operation that was going on. Green could make plants grow quite quickly indeed, given enough mana, but even a hundredfold speedup wouldn’t be sufficient to replenish the forest on any reasonable timescale. Trees took years to reach a useful size. Flax, though, could be grown and harvested basically as fast as it could be planted and watered, provided that Green didn’t die from the headache.
+
+To wit, Rain had lent the man ten of Ascension’s standard stat rings, five for Focus, five for Clarity, then crammed him so full of mana he’d feared he might pop and set him to duplicating their small initial stock of seeds. Rain had also arranged for laborers to help with the planting and to haul the city’s refuse up the cliff using the newly constructed pulley system. Though Green could compensate somewhat, soil depletion was still a major consideration. As much as he would have liked to keep the city clean and sparkling, Rain acknowledged that shit was a resource like any other. He also didn’t want people outside of Ascension to become reliant on his colon cleaning services.
+
+“Right,” Rain said, coming to a stop and clapping his hands together. He sent a quick message to Dozer, warning him about the ocean being salty, then grinned at Ameliah. “Ready for a nice swim?”
+
+“Are you sure ‘swim’ is the word?” Ameliah said, adjusting her bow slung over her shoulder. Like him, she was fully armored, though she didn’t have her helmet summoned at the moment.
+
+“We’ll see,” Rain said, holding out his right hand to inspect the set of four—not three—Malleable Rings he wore there. He was wearing his helmet too, but with the visor raised. In lieu of a cloak, he had donned the Double Gamgee 2.0, though the large pack was empty at the moment. Remembering that he’d meant to do so, he triggered an essence exchange.
+
+Progress Report
+
+marker_1: tc_office_hour2 [3061 Seedlings 20 12:46]
+
+marker_2: swim_day [3061 Seedlings 21 09:15]
+
+Span: 20.5 hours
+
+Skills
+
+Suppression: +49,885 exp, 14 -> 15 (+1)
+
+Winter: +2,112 exp
+
+Mana Manipulation: +360 exp
+
+Prismatic Intent: +1 exp
+
+Rain made a fist, smiling as he dismissed the dialog and lowered his hand back to his side. “Even weighed down, we’re both really, really strong. Swimming shouldn’t be out of the question.”
+
+“True enough,” Ameliah said with a smile.
+
+“You are both insane,” Tarny said, turning to face her and offering her access to the open wooden crate he was carrying. “Are you sure you don’t want to test these first?” He turned to Rain. “I could get a bucket or something for you, Captain. You could stick your head into it.”
+
+Ameliah laughed, reaching into the crate, and with a clink of glass, removed a sizable Waterbreathing potion. The bottle was about two liters in volume—more of a jug, really—and the liquid within shimmered with ripples of blue power. “The system will tell us if they work,” she said as Tarny turned to offer the crate to Rain next.
+
+“Reason told us it’s an old recipe,” Rain added, smiling as well and taking a jug for himself. “Tried and tested.”
+
+“If you say so,” Tarny said skeptically as he set down the crate, now empty of everything but straw. “He couldn’t have made them smaller, at least?”
+
+“An airy stomach precludes unwetted lungs,” Rain replied in a mystical air.
+
+Tarny rolled his eyes.
+
+Ameliah chuckled, translating the rest of the Chemist’s message. “Reason says these should last for about four hours. It’s an all-or-nothing deal. Like most potions, drink less than a full dose, and you get nothing. It’s a shame, too.” She lowered her voice before she continued. “Apparently, each took about three hundred Tel and a half-dozen Crysts to make.”
+
+Tarny’s eyebrows rose. “That’s...wow.”
+
+Rain nodded. “I can’t say I’m keen to be drinking that much crystal, whether we’re talking about the monetary value or drinking rocks in general.” Shaking his head, he reminded himself that he didn’t have time to invent scuba gear, not with the myriad other engineering projects he had in the works. Eventually, maybe, but not now. Removing the stopper from his jug and tossing it into the crate, he turned to Ameliah and raised his potion to her in salute. “Bottoms up!”
+
+Ameliah clinked her jug against his—one of the rare traditions that transcended realities—and raised it to her lips. Rain did the same and began to drink, gulp after gulp of thick, oily potion slithering down his throat.
+
+The taste...wasn’t great. Like cold, used fry-oil infused with mint.
+
+[Oh, Dozer, give me strength.]
+
+[Rain-King! Strength!]
+
+[Thanks, Dozer.]
+
+“Pwaahh,” Ameliah gasped, finishing before him, then letting out a long and unsettlingly-wet belch. “That was foul.”
+
+Rain nodded in agreement, lowering his now-empty jug and wiping away a trickle of the glowing liquid from his mouth. He burped as well, grimacing as he fought to keep the oily potion down. It felt like his stomach was full of bubbling tar, and his lips, mouth, and throat were tingling, almost numb.
+
+“No activation yet,” Ameliah said, setting down her empty jug beside the crate. She belched again, so loudly and longly that Carten would have felt like less of a man had he been around to hear her. She waved her hand in front of her face, clearing the air as she continued. “He has made this before, right? If I just drank that sludge for nothing, I’m throwing Reason off the cliff. We’ll see if I can beat Tallheart’s distance record.”
+
+Rain chuckled, then belched enormously as well, having no choice because of the bubbling gas expanding in his stomach. He spat, licking his tongue to try and get the taste out of his mouth. The tingling was fading, thankfully, and it seemed most of the fizzing was over with. “He said it could take a moment to kick in. Hopefully it won’t be— Ah, there we go.”
+
+Chemical Effect Activated
+
+Ald’s Wondrous Waterbreathing Potion
+
+User may breathe water as if it were air for the next 3 hours, 59 minutes
+
+“Yeah, it just activated for me too,” Ameliah said, releasing a smaller, much more polite burp. “I’ve got just over four hours.”
+
+“One minute under for me,” Rain said before expelling the last of the gas from his stomach. He turned to Tarny, who was wearing an expression that was equal parts appalled, fascinated, and impressed. “Hold down the fort, will you?”
+
+Tarny regained control of his face, raising an eyebrow. “Is that another Reason saying, or one of yours?”
+
+Rain smiled. “One of mine. It means stick around. It’ll be a good chance for you to use Fall.” He gestured at the laborers, still toiling away and only occasionally glancing in their direction. “Looks like hungry work.”
+
+Tarny nodded. “True enough. I might as well help, then. I know my way around a hammer.”
+
+Rain smiled. “That you do. Thanks, Tarny.”
+
+“I’ll message you if we need anything hauled up,” Ameliah said, gesturing to Rain’s pack. “Nails is with Vanna today if you need to contact us for any reason. She said she was going to come inspect the dock, but it doesn’t look like she’s here yet.”
+
+“Got it,” Tarny said.
+
+“Right then,” Rain said, adjusting his pack and turning to face the harbor. He glanced at Ameliah. “Shall we settle our bet?”
+
+“Oh?” Tarny said, smiling and looking between them. “A bet?”
+
+“Rain thinks people can run on water if they’re fast enough,” Ameliah said, looking around before settling down into a crouch. Her helmet appeared once more as she continued. “I say we’re going to sink.”
+
+Rain mirrored her positioning, motioning Tarny back and lowering his visor. “Easy money.” He activated Velocity, then counted in a rush. “Three-two-one-go!”
+
+His body felt light and strong as he hurtled forward, tracers of wind trailing powerfully from his limbs, as he was using just about the maximum speed boost he could tolerate. Ameliah shot past him before long, though she slowed to run beside him as they tore toward the water, making sure to steer well clear of where people were working. It was high tide now, but there was still a half-meter-or-so drop to the surface as Rain and Ameliah hurtled over the edge. The stone shelf of the lowcity ended in a hard line, yet another cliff falling down below the waves.
+
+Rain windmilled his legs, keeping up the running motion, and soon enough, his right heel made contact. With the speed his foot was moving, the water felt less like a liquid and more like sand. He kicked for all he was worth, pushing himself forward and back up.
+
+“Yeah!” he barely had time to shout before he made contact again.
+
+Step by step, he continued his run across the shifting waves, frantically trying to stay afloat and in control. He made it for eight bounding steps total before he lost it and began to tumble. His chest hit the waves with an enormous shock of impact, threatening to tear away his pack. He found himself launched into the air as he skipped off the surface, so quickly had he been moving. As he cartwheeled through the air, his arms and legs splayed out like a starfish, he saw Ameliah go down as well, having passed him only to plow face-first into the surf a few steps later. She didn’t skip off like he had, instead vanishing in an enormous-cannon ball splash.
+
+Rain felt a momentary surge of satisfaction at beating her as he soared over the spot where she’d gone under before he struck again, skipping once more. After a few more skips, bounces, and considerable flailing later, he landed at an even worse angle than Ameliah had. So much so, in fact, that he actually lost a few points of health. His neck was wrenched to the side by the force, and shockingly-cold water flooded through the joints of his armor. Thermal Regulation was quickly overwhelmed, unable to keep up with the flow.
+
+And then he was sinking.
+
+Salty water stung Rain’s eyes as it rushed in through his visor. He reflexively closed them only to force them back open moments later, blinking away the discomfort. Flailing with his arms and trying to orient himself, he swapped Velocity for Detection.
+
+With the improvements he’d made to his interface last night, the spell fired as an all-out barrage—over three dozen pulses in the space of a single second. With this, he sensed Ameliah, sinking about fifty meters closer to the shore. He also sensed the air above, receding by the moment, and the seafloor below, growing rapidly nearer. He sensed fish and other unidentified animals, rapidly swimming away from the epicenter of their very rude and entirely unannounced arrival. That wasn’t all, either. He sensed more. Hundreds of signals from objects bobbing in the water or resting on the ocean floor. So dense was the flood of information that Rain found himself seeing stars that had nothing to do with his recent high-speed impact.
+
+Struggling to comprehend the flow, he first made sure there was nothing alarming amidst the mass of signals, then concentrated, keeping the spell active as he began addressing the problem with the latest tweaks he’d made to his interface. A new element popped into existence in his HUD, a blue holographic sphere, with a darker-blue dot in the center representing himself and another representing Ameliah, behind and below him. More dots swiftly popped into being—gray to represent fish and other non-monstrous entities, green for plants, gold for valuables, and white for other miscellaneous objects. The moment those came in, the load on Rain’s senses lessened immensely.
+
+He would have exhaled in relief had he not presently been holding his breath.
+
+He offloaded ‘stone’ and ‘air’ next. For those, he placed them on a bar gauge beside the holomap rather than trying to make it render the topography. The averaged vertical distance to air appeared as a label at the top of the bar. Likewise, the averaged vertical distance to stone went at the bottom. Another blue dot for Rain went in the middle, placed proportionally between them and falling rapidly as both numbers updated, second-by-second.
+
+The stars faded from Rain’s vision. The mental load was still there—his subconscious was doing the calculations, after all—but the magic was no longer trying to override his senses as it dumped the information directly into his brain. He smiled in satisfaction, inspecting the display and what it was telling him.
+
+As expected, he was indeed descending quite rapidly, his ears already informing him of the growing water pressure as the light faded. The water was greenish-brown and murky, so choked with algae that barely any of the morning light made it to the bottom.
+
+Well then. Let’s see how screwed I’d be without the potion.
+
+Frogging with hands and feet, he discovered to his delight that he was indeed able to arrest his descent. It was a lot of work, even just holding his depth steady, but he was confident that he’d be able to get back to the surface without removing his armor or calling Tarny for a rope. The water offered plenty of resistance, and with his enhanced strength, it looked like swimming would be no problem. Smiling, he stopped fighting gravity and simply let his downward drift resume.
+
+And now for the next test.
+
+Suffocation—whether by drowning or by any other means—was dangerous, even to an awakened. It was one of the few sources of damage that couldn’t simply be out-healed, overhealth being quite ineffective at combating the effects of oxygen deprivation. His lungs hadn’t been burning from the short time he’d been holding his breath, but that was beginning to change. He’d tested his ability to go without air, and depending on his stat balance, he could make it for about five minutes when just sitting still. As with hunger, Endurance and Recovery decreased the need for air, while Strength and Vigor increased it. He’d wanted to keep his health high for this expedition, and there would be no avoiding physical exertion, so there was only one thing to do.
+
+He breathed in.
+

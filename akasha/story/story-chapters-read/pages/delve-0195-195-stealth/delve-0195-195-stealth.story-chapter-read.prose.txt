@@ -1,0 +1,960 @@
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Engine of Change
+
+30
+
+30
+
+0
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+130,422
+
+130,423
+
+2,636,316
+
+4
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+12,196
+
+12,400
+
+112.5/h
+
+Stamina
+
+5,118
+
+5,720
+
+112.5/h
+
+Mana
+
+107,750
+
+107,750
+
+663.0/s
+
+Attributes
+
+1,500/2,690
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+520
+
+520
+
+10
+
+10
+
+500/530
+
+20.6(103%)
+
+RCV
+
+142
+
+270
+
+10
+
+10
+
+250/770
+
+10.5(53%)
+
+END
+
+157
+
+286
+
+10
+
+26
+
+250/500
+
+19.8(55%)
+
+VGR
+
+135
+
+270
+
+10
+
+10
+
+250/1,140
+
+10(50%)
+
+FCS
+
+270
+
+270
+
+10
+
+10
+
+250/2,000
+
+50(250%)
+
+CLR
+
+330
+
+330
+
+320
+
+10
+
+0/2,500
+
+330(100%)
+
+PER
+
+20
+
+20
+
+10
+
+10
+
+0/0
+
+26.9(134%)
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/11
+
+9.4(94%)
+
+Resistances
+
+TOTAL
+
+END
+
+ACCLD
+
+MISC
+
+HEAT
+
+1,528.6 0%
+
+28.6
+
+1,000 0%
+
+500 0%
+
+COLD
+
+528.6 0%
+
+28.6
+
+0 0%
+
+500 0%
+
+LIGHT
+
+28.6 0%
+
+28.6
+
+0 0%
+
+0 0%
+
+DARK
+
+28.6 0%
+
+28.6
+
+0 0%
+
+0 0%
+
+FORCE
+
+578.6 0%
+
+28.6
+
+200 0%
+
+350 0%
+
+ARCANE
+
+5,028.6 0%
+
+28.6
+
+0 0%
+
+5,000 0%
+
+CHEMICAL
+
+403.6 0%
+
+28.6
+
+0 0%
+
+375 0%
+
+MENTAL
+
+28.6 0%
+
+28.6
+
+0 0%
+
+0 0%
+
+31/31 Slots
+
+Accolade
+
+Bonus
+
+10 [5x2]
+
+Blackfoot Trench
+
++10 (+2x5)All Attributes
+
+4 [2x2]
+
+The Icy Cellar
+
++1,000 (+500x2)Health
+
+4 [2x2]
+
+Oh Gods!Not Another Chem Lair!
+
++2,000 (+1,000x2)Mana
+
+3
+
+The Lair of Embers
+
++1,000Heat Res
+
+3
+
+We Can’t Just Call It‘The Lair’
+
++200Force Res
+
+2
+
+Southshore Rat Warren
+
++1,000Health
+
+2 [2x1]
+
+Badlands Cold Lair3060 1 4
+
++6 (+3x2)Endurance
+
+2 [2x1]
+
+Snow Sprite Lair
+
++10 (+5x2)Endurance
+
+1
+
+Everdeep Fortress
+
++10Perception
+
+Slot
+
+Item
+
+Charge
+
+Saturation
+
+Durability
+
+Head
+
+Chest
+
+Legs
+
+Hands
+
+Feet
+
+Offhand
+
+Myriad Plate
+
+Bound
+
+Durability
+
+Hardness [12,047]
+
+500 Heat Resistance
+
+500 Cold Resistance
+
+375 Chem Resistance
+
+350 Force Resistance
+
+5,000 Arcane Resistance
+
+Lightness
+
+Compression
+
+Thermal Regulation [ON]
+
+Tactile Transference [ON]
+
+Facade [ON]
+
+Obfuscation [ON]
+
+Arcane Regeneration [OFF]
+
+Kinetic Conversion
+
+185,500 / 185,500
+
+0 / 154,209
+
+602,044 / 602,044
+
+Ring[0]
+
+Grand Malleable Ring
+
+Bound, Unity
+
+300/300 Attributes [˃]
+
+500 / 500
+
+0 / 4,270
+
+903 / 903
+
+Ring[1]
+
+Grand Malleable Ring
+
+Bound, Unity
+
+300/300 Attributes [˃]
+
+500 / 500
+
+0 / 4,271
+
+902 / 902
+
+Ring[2]
+
+Grand Malleable Ring
+
+Bound, Unity
+
+300/300 Attributes [˃]
+
+500 / 500
+
+0 / 4,269
+
+908 / 908
+
+Ring[3]
+
+Grand Malleable Ring
+
+Bound, Unity
+
+300/300 Attributes [˃]
+
+500 / 500
+
+0 / 4,247
+
+901 / 901
+
+Ring[4]
+
+Grand Malleable Ring
+
+Bound, Unity
+
+300/300 Attributes [˃]
+
+500 / 500
+
+0 / 4,271
+
+911 / 911
+
+Ring[5]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+500 / 500
+
+0 / 4,272
+
+813 / 813
+
+Ring[6]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+500 / 500
+
+0 / 4,278
+
+814 / 814
+
+Ring[7]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+500 / 500
+
+0 / 4,273
+
+816 / 816
+
+Ring[8]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+500 / 500
+
+0 / 4,274
+
+813 / 813
+
+Ring[9]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+500 / 500
+
+0 / 4,271
+
+814 / 814
+
+Amulet
+
+Magewell Amulet
+
+Bound, Unity
+
+Mana Well
+
+100% Import Efficiency
+
+100% Export Efficiency
+
+50,000 / 50,000
+
+0 / 39,211
+
+313 / 313
+
+Mainhand
+
+None
+
+NA
+
+NA
+
+NA
+
+Underwear
+
+Forceweave
+
+Mundane
+
+NA
+
+NA
+
+NA
+
+Overwear
+
+None
+
+NA
+
+NA
+
+NA
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (15/15)
+
+Multiply aura intensity by 250%
+
+Multiply aura mana cost by 400%
+
+Extend Aura (15/15)
+
+Extend aura range by 15 meters
+
+Multiply aura mana cost by 400%
+
+Tier 1
+
+Aura Focus (15/15)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 400%
+
+Multiply aura range by 400%
+
+Multiply aura mana cost by 400%
+
+User loses all external senses while focusing
+
+Aura Synergy (20/15)
+
+Increase all aura output by 2.0% for each rank in any aura
+
+Effective boost: 450.0%
+
+Tier 2
+
+Aura IFF (15/15)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive -50.0% aura output
+
+Prismatic Intent (1/15) Exp: 17/400
+
+User may maintain 2 auras simultaneously
+
+Tier 3
+
+Aura Compression (15/15)
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 3% per meter of compression
+
+Defensive Auras
+
+Tier 1
+
+Arcane Ward (15/15)
+
+Increase arcane resistance by 247.5% for all entities
+
+Range: 82.5 meters
+
+Cost: 1 mp/dmg mitigated
+
+Chemical Ward (15/15)
+
+Increase chemical resistance by 247.5% for all entities
+
+Range: 82.5 meters
+
+Cost: 1 mp/dmg mitigated
+
+Mental Ward (15/15)
+
+Increase mental resistance by 247.5% for all entities
+
+Range: 82.5 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 2
+
+Force Ward (15/15)
+
+Increase physical resistance by 247.5% for all entities
+
+Range: 82.5 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 3
+
+Suppression (15/15)
+
+Increase mana costs for all entities by 1938.75 mp (fcs)
+
+Range: 82.5 meters
+
+Cost: 15 mp/s
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (15/15)
+
+Multiply base mana regeneration by 400%
+
+Intrinsic Focus (15/15)
+
+Multiply base mana by 400%
+
+Tier 1
+
+Channel Mastery (15/15)
+
+Allows intuitive control of channeled skill intensity and tick rate
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Maximum skill tick rate: 2.0s
+
+Minimum skill tick rate: 0.0s
+
+Skill mana cost modified by intensity adjustment
+
+Skill intensity per tick modified proportional to tick rate
+
+Mana Manipulation (15/15)
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 9600.0 mp/s (fcs)
+
+Tier 2
+
+Magical Synergy (15/15)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+37.5% of Focus contributes to mana regen
+
+37.5% of Clarity contributes to mana
+
+Offensive Auras
+
+Tier 0
+
+Immolate (15/15)
+
+1357.12-1551.00 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 82.5 meters
+
+Cost: 75 mp/s
+
+Refrigerate (15/15)
+
+1357.12-1551.00 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 82.5 meters
+
+Cost: 75 mp/s
+
+Tier 1
+
+Radiance (15/15)
+
+1357.12-1551.00 light (fcs) damage per second to entities
+
+Brightens environment (fcs)
+
+Range: 82.5 meters
+
+Cost: 75 mp/s
+
+Shroud (15/15)
+
+1357.12-1551.00 dark (fcs) damage per second to entities
+
+Darkens environment (fcs)
+
+Range: 82.5 meters
+
+Cost: 75 mp/s
+
+Tier 2
+
+Fulmination (15/15)
+
+1357.12-1551.00 arcane (fcs) damage per second to entities and environment
+
+Sufficient damage causes paralysis
+
+Range: 82.5 meters
+
+Cost: 75 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (15/15)
+
+Purify poison, corruption, and contamination
+
+Range: 82.5 meters
+
+Cost: 150 mp/min
+
+Winter (15/15)
+
+Boost M.Regen by 825% for all entities
+
+Range: 82.5 meters
+
+Cost: 15 mp/hr
+
+Tier 1
+
+Detection (15/15)
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.49 mm
+
+Range: 82.5 meters
+
+Cost: 15 mp/s
+
+Essence Well (15/15)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 82.5 mp/s
+
+Efficiency: 20%
+
+Range: 82.5 metersVelocity (15/15)
+
+825.00% boost to speed for all entities
+
+Range: 82.5 meters
+
+Cost: 15 mp/sFree Skill Points: 4
+
+Progress Report
+
+marker_1: t4_amm [3061 Seedlings 25 12:10]
+
+marker_2: enduro4 [3061 Seedlings 28 23:15]
+
+Span: 3.5 days
+
+Character
+
+Total Exp: 2,536,316 -> 2,636,316 (+100,000)
+
+↳Mana Use: 100,000
+
+Skills
+
+Winter: +10,729 exp, 13 -> 15 (+2)
+
+Mana Manipulation: +7,241 exp, 14 -> 15 (+1)
+
+Prismatic Intent: +9 exp
+
+Tolerance
+
+Strength: 524 -> 530 (+6)
+
+Endurance: 472 -> 500 (+28)
+
+Synchronization
+
+Recovery: 6.1 -> 10.5 (+4.4)
+
+Endurance: 7.6 -> 19.8 (+12.2)
+
+Vigor: 9.3 -> 10.0 (+0.7)
+
+Clarity: 320.0 -> 330.0 (+10.0)
+
+Rain stood silently in the center of the wall of blue windows, rocking slowly with the gentle motion of the ship beneath his feet. Despite it being the dead of night, the room he and Ameliah shared was brightly lit by no fewer than four light bulbs, set into fixtures high in the walls and wired into the electrical network that now ran through the entire vessel. Below him, where the journey core had once been, was the main generator, built from parts that had once belonged to Subtlety. The forgewagon didn’t need them anymore.
+
+Tallheart’s solution to getting the heavy vehicle down the cliff had been straightforward: driving it over the edge at high speed. With all the enchantments on it, the vehicle’s frame had weathered the impact with the water quite well, but that hardly mattered. The plan had always been to cannibalize it for parts. It couldn’t go where they were going. The smelter was in Engineering now, just across the hall from where Rain stood, and the turbines were below, powering the twin Force Steel propellers that now adorned Temerity’s stern.
+
+Rain smiled.
+
+Tallheart is a legend.
+
+The cervidian smith was resting now, and it was well earned. They would be leaving tomorrow through his efforts, weeks sooner than Rain had thought possible. The downside was that it meant preparation had become a bit rushed everywhere else.
+
+His eyes returned to his progress report, and he sighed, waving the windows away. With all his skills besides Prismatic Intent maxed, he’d pivoted to work on his synchronizations. Endurance was first on the list, given where they were headed. There was a small Watch stronghold in Barstone, and several of the accolades in Ascension’s care belonged to them. There was no question that they’d be returning them. Rain would need to rely on his status as a Custodian to keep Temerity out of the DKE’s hands. Returning the accolades—two of which were currently boosting his Endurance—was a part of that. He’d have done so already if he wasn’t afraid of what Velika would do if she were to find out that he’d teleported off somewhere.
+
+She has to know Glavin and Halgrave are here by now. The fact she hasn’t done anything is a good sign, but damn if her being so quiet isn’t making me nervous.
+
+He glanced at his clock, the numbers steadily ticking forward toward the time he’d specified in his note. He didn’t want to know what she’d do if they were late. The last thing he needed was for the volatile ex-Citizen to be in a bad mood. They couldn’t even Message her to tell her they’d been held up. She wasn’t accepting calls, which was why they’d had to send her a physical note in the first place. Message connecting would be a dead giveaway she was around, so she’d clearly blocked it somehow. Whether that was deliberate, or simply through passive Mental resistance and the desire to hide, it made things damn inconvenient.
+
+Filth, I am not looking forward to this.
+
+Stifling another sigh, Rain removed his helmet, tossing it on his bed and running a hand through his flattened hair. He didn’t stop there, however, proceeding to remove his gauntlets, shifting his rings between his fingers to avoid depleting his vitals. His boots came next, and then, with some difficulty, the rest of his armor. Finally, he reached up to the neck of his Forceweave underlayer, stretching it wide and shimmying out like a snake. ‘Naked’ didn’t even begin to describe how he felt then, staring at himself in the tiny mirror mounted to one wall.
+
+He moved quickly to the pile of clothing he’d laid out earlier, throwing on the plain workman’s clothes. His skin was sensitive after pushing his physical stats so hard, and the coarse fabric felt like sandpaper compared to the silky Forceweave. It didn’t help that the shirt was about two sizes too small. The flimsy clothing also did very little to help with the utter vulnerability he felt looking down at his armor on the bed.
+
+Ameliah’s right. I’ve developed a complex.
+
+As if summoned by his thoughts, the comforting presence of Ameliah’s soul washed over him. Rain smiled, then turned, walking barefoot to the door and pulling it open to see her standing there, one fist raised to knock.
+
+“Woah—!” she said, taking a step back in startlement, then she blinked and grinned, looking him up and down. “Tight much?”
+
+Rain laughed, tugging at the hem of his tunic. “Yes, it is very much tight, thank you. It’ll be fine with a cloak. Now, get in here before someone sees.”
+
+Ameliah laughed and slipped inside, closing the door after her and propping her bow against the wall. A moment later, her armor vanished—not just the helmet, but all of it—leaving her standing in a layer of Forceweave not unlike his own. The quivers that had been at her hips fell to the ground with a rattle. It was Rain’s turn to grin, taking in the curves of her body through the clingy fabric. “Tight much?”
+
+Ameliah stuck her tongue out at him, then tossed him a leather sack. “Here.”
+
+“You got the rings back?” Rain asked, snagging it out of the air. It clinked as he caught it and reached for the string. His fingers felt clumsy without his gauntlets. Too small. His loose rings weren’t helping matters.
+
+“Mmhmm,” Ameliah said, reaching for the neck of her forceweave. “I wouldn’t look in there if I were you. There might be a thumb or two.”
+
+Rain laughed. “Green really didn’t want to give them up, did he? Too bad I couldn’t convince him to join us.” Abandoning his attempt to undo the string, he confirmed the sack’s contents with Detection, then tossed it toward the bed. Returning his attention to Ameliah, he watched with significant interest as she struggled her way free of her stretchy bodysuit. He didn’t bother to hide his smile as she turned to face him, planting her hands on her hips. Like him, she was still wearing her rings, slightly loose around her fingers. Unlike him, her amulet dangled not against a craggy plane, but in a lush, inviting valley...
+
+“Well?” she asked, grinning.
+
+Rain whistled, loud and long, trusting the Muffle runes on the walls to keep the sound contained to the room.
+
+Ameliah rolled her eyes, still smiling at him. From the vague impression of her mood Rain got through his soul sense, he could tell she was feeling playful. “Pick up your jaw and tell me where my old clothes are, please? You can ogle all you want when we’re not on a schedule.”
+
+“Over there,” Rain said, waving a hand vaguely but still not looking away. “In your trunk.”
+
+Ameliah tilted her head. “My what?”
+
+“Here,” Rain said, abandoning the game and leaning over the corner of the bed to retrieve a large lacquered cherrywood box with brass hinges. With his boosted stats, he had no trouble at all lifting the heavy object and placing it on the bed. “Trunk.”
+
+Ameliah stared down at the box, still wearing a confused expression. “Since when do I have a trunk?”
+
+Rain smiled, shifting closer to her. “Since yesterday. I asked Shena to make it a few weeks ago, and she finally finished it last night.”
+
+There was a long pause before Ameliah spoke, and when she did, her voice was tight. “I’ve never had a trunk.”
+
+Ah.
+
+The feel of her soul had changed ever so slightly, shifting away from playfulness and toward...something complicated. He bit his lip, trying to identify it.
+
