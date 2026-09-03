@@ -16,6 +16,7 @@ export const pipelineCommands = {
     "command/pipeline-step-cost",
     "command/pipeline-steps",
     "command/pipeline-workflows",
+    "command/tests-triage-fanout",
     "module/pipeline-answering",
   ],
   invariants: [

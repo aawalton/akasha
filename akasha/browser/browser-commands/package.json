@@ -1,0 +1,18 @@
+{
+  "name": "@akasha/browser-commands",
+  "private": true,
+  "type": "module",
+  "exports": {},
+  "dependencies": {
+    "@akasha/browser-test-harness": "workspace:*",
+    "@akasha/code-system": "workspace:*",
+    "@akasha/command-system": "workspace:*",
+    "@akasha/supabase-auth": "workspace:*",
+    "@akasha/supabase-client": "workspace:*",
+    "@akasha/supabase-server": "workspace:*",
+    "@tools/lib": "workspace:*"
+  },
+  "optionalDependencies": {
+    "playwright-core": "1.61.1"
+  }
+}

@@ -457,6 +457,21 @@
         "vite": "^8.0.3",
       },
     },
+    "akasha/browser/browser-commands": {
+      "name": "@akasha/browser-commands",
+      "dependencies": {
+        "@akasha/browser-test-harness": "workspace:*",
+        "@akasha/code-system": "workspace:*",
+        "@akasha/command-system": "workspace:*",
+        "@akasha/supabase-auth": "workspace:*",
+        "@akasha/supabase-client": "workspace:*",
+        "@akasha/supabase-server": "workspace:*",
+        "@tools/lib": "workspace:*",
+      },
+      "optionalDependencies": {
+        "playwright-core": "1.61.1",
+      },
+    },
     "akasha/browser/launch-env": {
       "name": "@akasha/browser-launch-env",
     },
@@ -3073,6 +3088,8 @@
     "@akasha/book-of-everything": ["@akasha/book-of-everything@workspace:akasha/alan/library/book-of-everything"],
 
     "@akasha/book-of-everything-commands": ["@akasha/book-of-everything-commands@workspace:akasha/alan/library/book-of-everything/commands"],
+
+    "@akasha/browser-commands": ["@akasha/browser-commands@workspace:akasha/browser/browser-commands"],
 
     "@akasha/browser-launch-env": ["@akasha/browser-launch-env@workspace:akasha/browser/launch-env"],
 

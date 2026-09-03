@@ -7,10 +7,12 @@ export const pageCommands = {
   definition: "what an agent runs by name over the pages themselves",
   manifest: "json",
   partSlugs: [
+    "command/page-icon-search-index-generate",
     "command/page-secret-clear",
     "command/page-secret-reveal",
     "command/page-secret-set",
     "command/page-secret-show",
+    "module/icon-index-rendering",
     "module/page-secret-acting",
   ],
   invariants: [
@@ -20,7 +22,7 @@ export const pageCommands = {
     },
     {
       invariantKind: "departure",
-      statement: "A command here acts on what stands beside a page rather than on the page.",
+      statement: "A command here acts on a page's files rather than on the values a page states.",
     },
   ],
 } as const satisfies WorkspacePackage
