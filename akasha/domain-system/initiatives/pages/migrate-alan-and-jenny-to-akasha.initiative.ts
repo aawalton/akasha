@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "NOT blocked by the extension. At least 16 live entrypoints still write the old engine, in 4 families: the editor; the agent message-claim path (`messages-mcp`, `run-supervisor`, `recipient-resolver-daemon`) writing `pages/message`; 9 timers and daemons; 2 CLIs live on the commit landing them. Clearing intent 1 closes none of them. The old 1-hour sample is the flaw — writes track editor use, so an idle hour reads as progress. `tools/lib/page-rows-write.ts` is a separate row engine, unaudited.",
+        "NOT blocked by the extension. At least 16 live entrypoints still write the old engine, in 4 families: the editor; the agent message-claim path writing `pages/message`; 9 timers and daemons; 2 CLIs live on commit. Clearing intent 1 closes none of them. Both old samples are floors — mtime counts files touched, not writes (one page, 4 rewrites in 10 min), and every non-editor writer is slower than that 1-hour window. `tools/lib/page-rows-write.ts` is a separate row engine, unaudited.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
