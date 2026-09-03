@@ -172,3 +172,112 @@ I closed the file and tucked it under my arm.
 
 "And if it gets hot?"
 
+"If it turns into a combat situation, you have authority to requisition soldiers from the garrison. Standard Iron Cross codes." Her mouth compressed. "But Kaspar — this is an investigation. Not a raid. What I need from you is evidence, not bodies. I need to know who is burning nobles alive in the capital and why. Bring me that."
+
+I stood. "I'll start today."
+
+"You'll start now." She didn't stand. "The third attack was four days ago. The scene is still sealed. The Royal Guard is handling perimeter security, and they've been doing their own forensics, which means you'll have to share the ground with people who think they've already solved it."
+
+The house was on Kirchgasse, in the low end of the noble quarter where the estates thinned out and the streets narrowed and the old money gave way to the newer, more precarious kind.
+
+Two stories. Red brick and timber frame, the plaster between the beams gone yellow with age. Iron window grates, copper guttering, a peaked roof with clay tiles. A modest house by noble standards.
+
+Half of it was black.
+
+The fire had taken the entire upper story and punched through the roof. That's not house-fire heat, I thought. That's spell heat. Concentrated and directed.
+
+The Royal Guard perimeter was tight. Eight soldiers stationed at the street corners and the front gate. A ninth stood at the door, what was left of the door, with a logbook.
+
+I walked up to the gate.
+
+The nearest soldier saw me coming and straightened. His eyes moved from my face to the Iron Cross emblem on my coat and back to my face — recognition hit first, then caution.
+
+"Herr Hexenzeit." He said it carefully, the way you say the name of something you're not sure is safe to touch. "We weren't informed that the Iron Cross was taking an interest."
+
+"The Investigation Division has been assigned the case." I held up the file jacket. "I'll need access to the interior."
+
+He hesitated. The Royal Guard didn't answer to the Iron Cross, and the Iron Cross didn't answer to the Royal Guard, and when the two jurisdictions collided, the collision produced some kind of bureaucratic friction.
+
+"I'll need to confirm with—"
+
+"Confirm whatever you need to confirm." I kept my voice level. "I'll be inside."
+
+I walked past him.
+
+He didn't stop me. A year ago he would have. Six months ago he might have. But a man who'd walked out of an Imperial treason trial and had two princes behind him carried a weight that didn't require rank insignia.
+
+Two soldiers fell in behind me at the door, one on either side, and they narrated as we moved through the ground floor.
+
+"The fire originated on the upper level," the first one said. He was older, a sergeant by the stripe on his sleeve. "The family was asleep. A couple and their son, twelve years old. There was a housekeeper and a cook in the servants' quarters at the rear of the ground floor — they survived. Everyone on the upper level was killed."
+
+The ground floor was intact, mostly. Smoke damage. Soot on the ceilings. Water stains from whatever the responders had used to douse the blaze. I let Advanced Mana Perception open as I walked, and the room came alive in a way the soldiers couldn't see.
+
+Mana traces everywhere.
+
+Layered. Overlapping. The residual signatures of spells cast in violence, still clinging to the walls and the floor and the air. I could feel the structure of them.
+
+"The forensic assessment concluded fire magic," the sergeant continued, leading me toward the stair. "Third or Fourth Circle. The intensity of the burns is consistent with sustained channeling over several minutes. The Royal Guard's forensic mage — Fourth Circle, twelve years in the division — conducted the primary analysis."
+
+We climbed.
+
+The upper level was gone. What the fire hadn't taken, the collapse had. I picked my way through charred timber and fallen plaster and the blackened remnants of what had once been a hallway, and the mana signatures grew stronger with every step.
+
+Then I stopped.
+
+The soldiers stopped behind me.
+
+I stood in what had been the master bedroom, or what was left of it. The walls were standing, barely. The floor was solid enough to hold my weight if I stayed near the support beams. The bed was a rectangle of ash.
+
+The mana was wrong.
+
+I felt it the moment I crossed the threshold. The fire signatures were there. But beneath them, threaded through the fire signatures, was something else.
+
+Ice.
+
+I knelt. Put my hand flat on the scorched floorboard. Closed my eyes.
+
+The traces separated.
+
+Fire had come first. A wide, sweeping attack.
+
+Then ice. Offensive ice, thin and precise, targeting whoever was at the entrance.
+
+Fire to kill. Ice as response.
+
+The sergeant was watching me. "Sir? Did you find something?"
+
+"Your forensic mage," I said, still crouching, still reading. "He identified the fire signatures."
+
+"Correct. Third or Fourth Circle fire magic. Clean work, he said. Professional."
+
+"Did he identify the ice?"
+
+A pause. "There was no ice noted in the report."
+
+I straightened.
+
+"Look close to the door." I crossed to it and pointed. The timber was charred, like everything else. But the char pattern was wrong. Thermal shock. The signature of extreme cold applied to a surface already heated past its tolerance.
+
+The sergeant leaned in and frowned. "That could be from the firefighting response. Water on a hot surface—"
+
+"Water magic doesn't leave mana traces like these." I moved to the door frame and found the same pattern.
+
+Professional, the Royal Guard mage had said. Clean work.
+
+He was right about that much. It was professional. But he'd missed something.
+
+"Your mage isn't wrong about the Circle estimation. The raw power output is consistent with a human caster at that level." I chose my next words with care. "But the pattern of execution isn't human."
+
+The sergeant's frown deepened. "Sir?"
+
+"A human fire mage builds from the Circle outward. The mana enters the matrix, runs through the framework, exits as flame." I paused. "Imperial doctrine. It's how we've built spells for hundreds of years."
+
+"And?"
+
+"And the fire in this room wasn't built that way."
+
+I crossed back to the center of the floor and knelt again, pressing both palms flat against the boards. "The mana didn't enter through a standard matrix," I said. "There's no foundation layer. No sequential channel construction. The mana was shaped directly — willed into form without an intermediate structure. The caster didn't build a spell. The caster created the spell."
+
+The second soldier shifted uncomfortably. "What does that mean?"
+
+"It means the casting pattern is elven."
