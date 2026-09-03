@@ -57,7 +57,6 @@
         "@googleapis/calendar": "^15.0.0",
         "@googleapis/drive": "^20.2.0",
         "@googleapis/gmail": "^17.0.0",
-        "@infra/ci-workflows": "workspace:*",
         "@modelcontextprotocol/sdk": "^1.30.0",
         "@supabase/supabase-js": "^2.104.0",
         "@vscode/ripgrep": "^1.18.0",
@@ -3000,19 +2999,6 @@
         "@types/node": "^25.9.5",
       },
     },
-    "infra/ci-workflows": {
-      "name": "@infra/ci-workflows",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.13",
-        "typescript": "^5.9.3",
-      },
-    },
     "infra/scripts": {
       "name": "@infra/scripts",
       "dependencies": {
@@ -3886,8 +3872,6 @@
     "@happy-dom/global-registrator": ["@happy-dom/global-registrator@20.11.8", "", { "dependencies": { "@types/node": ">=20.0.0", "happy-dom": "^20.11.8" } }, "sha512-lkgRN26nWeYCsoron3bup+egcmpUTV3VsLS/d4rDyo/hwKivUIl8mkLtuk+sVaIdPZUpGFzcdOpt/1CPaW5Bpg=="],
 
     "@hono/node-server": ["@hono/node-server@2.1.1", "", { "peerDependencies": { "hono": "^4" } }, "sha512-ELuehkj5VCBdgEw9zs+ivkKwyzzUCSQuE96YmiPvn1ECBoZCczbFXJLeEGMTYjphP6gydh4pHMqEYPVMYUVgQg=="],
-
-    "@infra/ci-workflows": ["@infra/ci-workflows@workspace:infra/ci-workflows"],
 
     "@infra/scripts": ["@infra/scripts@workspace:infra/scripts"],
 

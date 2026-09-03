@@ -4,9 +4,6 @@
       "path": "./infra/scripts"
     },
     {
-      "path": "./infra/ci-workflows"
-    },
-    {
       "path": "./akasha/temper/temper-web"
     },
     {
