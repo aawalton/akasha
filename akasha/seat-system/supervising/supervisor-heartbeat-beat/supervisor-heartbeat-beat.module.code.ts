@@ -1,21 +1,21 @@
+import type { Outcome } from "@akasha/command-system/gated-write"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
 } from "@akasha/seat-system/supervisor-self-heal-state"
-import type { Outcome } from "@tools/lib/gated-write"
-import { keepBeside } from "@tools/lib/seat-beside"
-import { nameFromHistory } from "@tools/lib/seat-page-history"
 import { composedNameOf } from "@tools/lib/seat-rename"
-import { clearRotated } from "@tools/lib/seat-rotated-session"
-import { keepSession } from "@tools/lib/seat-session"
-import { keepTranscript } from "@tools/lib/seat-transcript-path"
+import { keepBeside } from "../../seat-beside/seat-beside.module.code.ts"
 import type { BeatReport } from "../../seat-page-beat/seat-page-beat.module.code.ts"
+import { nameFromHistory } from "../../seat-page-history/seat-page-history.module.code.ts"
 import {
   formatSeatProcKey,
   readSeatProcKey,
 } from "../../seat-proc-key/seat-proc-key.module.code.ts"
+import { clearRotated } from "../../seat-rotated-session/seat-rotated-session.module.code.ts"
+import { keepSession } from "../../seat-session/seat-session.module.code.ts"
+import { keepTranscript } from "../../seat-transcript-path/seat-transcript-path.module.code.ts"
 
 // The specifier here is the one the type import of BeatReport above holds, so moving the
 // beat module is a diagnostic rather than a path that is not there when a beat spawns.

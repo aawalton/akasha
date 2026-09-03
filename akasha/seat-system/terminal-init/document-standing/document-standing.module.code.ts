@@ -1,6 +1,6 @@
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
-import { peopleStanding } from "@tools/lib/akasha-people"
-import { personasStanding } from "@tools/lib/akasha-personas"
+import { peopleStanding } from "@akasha/person-system/person-reading"
+import { personasStanding } from "@akasha/persona-system/persona-reading"
 
 export const SLUG_MARK = "<slug>"
 

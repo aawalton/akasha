@@ -1,4 +1,7 @@
-import { type OAuthProxyState, readProxyState } from "@tools/lib/seat-proxy-state"
+import {
+  type OAuthProxyState,
+  readProxyState,
+} from "../../seat-proxy-state/seat-proxy-state.module.code.ts"
 
 export type { OAuthProxyState }
 

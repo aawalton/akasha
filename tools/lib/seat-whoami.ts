@@ -1,11 +1,23 @@
 import { basename } from "node:path"
 import { slugNamed } from "@akasha/markdown-pages/page-address"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { attributesOf, recordedModeOf } from "./attributes.ts"
-import { frontmatterFromHistory, nameFromHistory } from "./seat-page-history.ts"
-import { pageTextOf } from "./seat-page-values.ts"
-import { seatIdForName, seatNameForAgent } from "./seat-presence-read.ts"
-import { principalOf, principalSeatIdOf } from "./seat-principal.ts"
+import {
+  attributesOf,
+  recordedModeOf,
+} from "../../akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+import {
+  frontmatterFromHistory,
+  nameFromHistory,
+} from "../../akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+import { pageTextOf } from "../../akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
+import {
+  seatIdForName,
+  seatNameForAgent,
+} from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import {
+  principalOf,
+  principalSeatIdOf,
+} from "../../akasha/seat-system/seat-principal/seat-principal.module.code.ts"
 
 const PAGE_SUFFIX = ".md"
 

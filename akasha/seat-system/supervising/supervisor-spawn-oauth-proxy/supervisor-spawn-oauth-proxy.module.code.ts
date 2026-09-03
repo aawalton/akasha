@@ -11,7 +11,10 @@ import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
 import { pidsListeningOn, portIsHeld } from "@akasha/utils-process/port-holding"
 import { readProcEnvVar } from "@akasha/utils-process/proc-environ"
 import { modelGatewayEntrypoint } from "@tools/lib/model-gateway-tree-version"
-import { type OAuthProxyState, readProxyState } from "@tools/lib/seat-proxy-state"
+import {
+  type OAuthProxyState,
+  readProxyState,
+} from "../../seat-proxy-state/seat-proxy-state.module.code.ts"
 import { readAdoptedClaudeProxyPort } from "../supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
 
 const STALE_PROXY_SHUTDOWN_BUDGET_MS = 5_000

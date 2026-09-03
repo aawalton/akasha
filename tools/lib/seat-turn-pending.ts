@@ -1,11 +1,10 @@
-
 import {
   akashaSeatPathForAgent,
   besideWrittenAtMs,
-} from "./seat-akasha-beside.ts"
-import { akashaObservedOf } from "./seat-akasha-read.ts"
-import { keepBesideUnder } from "./seat-beside.ts"
-import { seatNameForAgent } from "./seat-presence-read.ts"
+} from "../../akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaObservedOf } from "../../akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
+import { keepBesideUnder } from "../../akasha/seat-system/seat-beside/seat-beside.module.code.ts"
+import { seatNameForAgent } from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 
 export const PENDING_KEY = "turn-pending"
 

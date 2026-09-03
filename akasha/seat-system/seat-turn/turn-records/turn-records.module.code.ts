@@ -1,4 +1,4 @@
-import type { SeatRecord } from "@tools/lib/seat-record"
+import type { SeatRecord } from "../../seat-record/seat-record.module.code.ts"
 
 export type TurnRecord = SeatRecord
 

@@ -1,5 +1,5 @@
 import { LOG } from "@akasha/seat-system/supervisor-config"
-import { agentHolderProcess } from "@tools/lib/seat-presence-read"
+import { agentHolderProcess } from "../../seat-presence-read/seat-presence-read.module.code.ts"
 import {
   formatSeatProcKey,
   parseSeatProcKey,

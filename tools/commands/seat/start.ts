@@ -27,7 +27,8 @@ import {
   FLEX,
   personaDefaultsOf,
   principals,
-} from "../../lib/compose-seat-name.ts"
+} from "../../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+import { defaultFor } from "../../../akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
@@ -37,7 +38,6 @@ import { isValidSeatName, resolveOptionalSeatId } from "../../lib/seat-handle.ts
 import { mintNamedAgent } from "../../lib/seat-name-bind.ts"
 import { refuseHeldName } from "../../lib/seat-name-claim.ts"
 import { composedNameOf } from "../../lib/seat-rename.ts"
-import { defaultFor } from "../../lib/seat-resolve.ts"
 import { help } from "../../lib/seat-start-help.ts"
 import { type StatedIdentity, spawnSeat } from "../../lib/spawn-seat.ts"
 import { stateSpawnedSeat } from "../../lib/state-spawned-seat.ts"

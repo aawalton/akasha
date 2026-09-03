@@ -1,7 +1,11 @@
 import { mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
-import { type Outcome, type Run, whyRefused } from "./gated-write.ts"
+import {
+  type Outcome,
+  type Run,
+  whyRefused,
+} from "../../akasha/command-system/gated-write/gated-write.module.code.ts"
 
 const CLI = "akasha/command-system/cli/cli.module.code.ts"
 

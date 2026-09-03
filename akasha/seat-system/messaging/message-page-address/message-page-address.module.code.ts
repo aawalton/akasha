@@ -1,4 +1,8 @@
-import { HANDLER, handlerSeatName, personPrincipals } from "@tools/lib/compose-seat-name"
+import {
+  HANDLER,
+  handlerSeatName,
+  personPrincipals,
+} from "../../compose-seat-name/compose-seat-name.module.code.ts"
 import { readStated, type Stated } from "../message-to/message-to.module.code.ts"
 
 const SEGMENT = "/"

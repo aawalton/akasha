@@ -1,9 +1,13 @@
 import { basename } from "node:path"
 import { renameSeatSession, sessionNote } from "@akasha/seat-system/seat-session-rename"
-import { composeSeatName, FLEET, type NameableSeat } from "./compose-seat-name.ts"
+import {
+  composeSeatName,
+  FLEET,
+  type NameableSeat,
+} from "../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+import { pageValuesOf } from "../../akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
+import { seatNameForAgent } from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import { restateSeatName } from "./seat-name-restate.ts"
-import { pageValuesOf } from "./seat-page-values.ts"
-import { seatNameForAgent } from "./seat-presence-read.ts"
 
 const SLOT_JOINER = "|"
 

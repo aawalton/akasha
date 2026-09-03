@@ -1,6 +1,5 @@
-
+import { akashaSeatIdForName } from "../../akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { writeMessage } from "./message-file.ts"
-import { akashaSeatIdForName } from "./seat-akasha-beside.ts"
 
 const DEFAULT_SENDER = "service"
 

@@ -1,5 +1,6 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Outcome } from "../../akasha/command-system/gated-write/gated-write.module.code.ts"
 import {
   pathOf,
   pathsUnder,
@@ -7,7 +8,6 @@ import {
   slugOf,
   tookUnder,
 } from "../../akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
-import type { Outcome } from "./gated-write.ts"
 
 export function akashaSubagentSlug(seatName: string, own: string): string {
   return slugOf(seatName, own)

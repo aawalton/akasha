@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
+import { seatAbove } from "../../akasha/seat-system/subagent-naming/subagent-naming.module.code.ts"
 import { type SeatTurnReading, type SeatTurnState, seatTurnStateOf } from "./seat-turn-state.ts"
 import { subagentPagePathFor } from "./subagent-page-read.ts"
-import { seatAbove } from "./subagent.ts"
 
 const SEAT_GONE: SeatTurnState = "stopped"
 

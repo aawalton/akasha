@@ -2,9 +2,9 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { SEAT_COMMAND_REL } from "@akasha/seat-system/terminal-seat-stating"
-import { attributesOf, recordedModeOf } from "@tools/lib/attributes"
-import { onCallOf } from "@tools/lib/seat-on-call"
-import { defaultSlots } from "@tools/lib/seat-resolve"
+import { attributesOf, recordedModeOf } from "../../seat-attributes/seat-attributes.module.code.ts"
+import { onCallOf } from "../../seat-on-call/seat-on-call.module.code.ts"
+import { defaultSlots } from "../../seat-resolve/seat-resolve.module.code.ts"
 
 export type SeatMode = "interactive" | "headless"
 

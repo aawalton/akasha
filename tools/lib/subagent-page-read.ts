@@ -1,11 +1,14 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { seatNameForAgent } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import {
+  seatAbove,
+  subagentUnder,
+} from "../../akasha/seat-system/subagent-naming/subagent-naming.module.code.ts"
 import {
   akashaSubagentPathsOf,
   akashaSubagentRelPath,
   akashaSubagentSlug,
 } from "./subagent-page-akasha.ts"
-import { seatAbove, subagentUnder } from "./subagent.ts"
 
 export const SUBAGENT_PAGE_TYPE = "subagent"
 

@@ -12,19 +12,22 @@ import {
   type Mode,
   type ModeRecord,
   ownAttributesOf,
-} from "./attributes.ts"
+} from "../../akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+import { flexLine } from "../../akasha/seat-system/seat-flex/seat-flex.module.code.ts"
+import { initiativeLine } from "../../akasha/seat-system/seat-initiative/seat-initiative.module.code.ts"
+import { onCallLine } from "../../akasha/seat-system/seat-on-call/seat-on-call.module.code.ts"
+import { seatNameForAgent } from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { principalLine } from "../../akasha/seat-system/seat-principal/seat-principal.module.code.ts"
+import { registrationAccountLine } from "../../akasha/seat-system/seat-registration-account/seat-registration-account.module.code.ts"
+import {
+  type Stated,
+  statedOf,
+} from "../../akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 import { fail } from "./command.ts"
 import { declaredSeatReading } from "./declared-seat-reading.ts"
 import { documentsOnDemand } from "./documents-on-demand.ts"
 import type { Args } from "./seat-args.ts"
 import { documentNamed } from "./seat-attribute.ts"
-import { flexLine } from "./seat-flex.ts"
-import { initiativeLine } from "./seat-initiative.ts"
-import { onCallLine } from "./seat-on-call.ts"
-import { seatNameForAgent } from "./seat-presence-read.ts"
-import { principalLine } from "./seat-principal.ts"
-import { registrationAccountLine } from "./seat-registration-account.ts"
-import { type Stated, statedOf } from "./seat-stated.ts"
 import { pendingLines, pendingOf } from "./seat-turn-pending.ts"
 import { seatTurnStateLine, seatTurnStateOf } from "./seat-turn-state.ts"
 

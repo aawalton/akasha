@@ -4,10 +4,14 @@ export const tool = {
 } as const
 
 import { writeFileSync } from "node:fs"
-import { ATTRIBUTES, type Attributes, attributesOf } from "./lib/attributes.ts"
+import {
+  ATTRIBUTES,
+  type Attributes,
+  attributesOf,
+} from "../akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+import { akashaSeatRelPath } from "../akasha/seat-system/seat-page-akasha/seat-page-akasha.module.code.ts"
+import { seatNameForAgent } from "../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import { fail } from "./lib/command.ts"
-import { akashaSeatRelPath } from "./lib/seat-page-akasha.ts"
-import { seatNameForAgent } from "./lib/seat-presence-read.ts"
 
 const HELP = `bun tools/compose-boot.ts — compose a seat's system prompt: who it is, and the read that loads the rest
 

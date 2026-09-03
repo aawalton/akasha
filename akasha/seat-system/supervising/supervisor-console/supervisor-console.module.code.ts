@@ -10,7 +10,7 @@ import {
 import { dirname } from "node:path"
 import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
 import { type LogWriter, logWriter } from "@tools/lib/log-append"
-import { seatNameForAgent } from "@tools/lib/seat-presence-read"
+import { seatNameForAgent } from "../../seat-presence-read/seat-presence-read.module.code.ts"
 
 export type RotationOptions = {
   maxBytes: number

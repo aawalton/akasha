@@ -5,7 +5,7 @@ import {
   type Presence,
 } from "@akasha/seat-system/seat-name-claim"
 import { parseSeatProcKey, seatProcKeyPresence } from "@akasha/seat-system/seat-proc-key"
-import { agentHolderProcess } from "./seat-presence-read.ts"
+import { agentHolderProcess } from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 
 const ANCESTRY_DEPTH_LIMIT = 32
 

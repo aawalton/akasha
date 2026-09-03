@@ -1,6 +1,6 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { resolveSlot, scan } from "@tools/lib/seat-resolve"
 import { seatRoster } from "@tools/lib/seat-roster"
+import { resolveSlot, scan } from "../../seat-resolve/seat-resolve.module.code.ts"
 
 export interface SeatRow {
   readonly id: string

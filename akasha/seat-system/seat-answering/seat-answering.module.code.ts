@@ -1,5 +1,9 @@
-import { HANDLER, identityHeardFrom, personPrincipals } from "@tools/lib/compose-seat-name"
-import { personaIsDefault } from "@tools/lib/seat-resolve"
+import {
+  HANDLER,
+  identityHeardFrom,
+  personPrincipals,
+} from "../compose-seat-name/compose-seat-name.module.code.ts"
+import { personaIsDefault } from "../seat-resolve/seat-resolve.module.code.ts"
 
 export type Answering = {
   readonly persona: string | null

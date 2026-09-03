@@ -1,5 +1,8 @@
 import { parseSeatProcKey, type SeatPresence } from "@akasha/seat-system/seat-proc-key"
-import { agentHolderProcess, agentPresence } from "./seat-presence-read.ts"
+import {
+  agentHolderProcess,
+  agentPresence,
+} from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import { seatRoster } from "./seat-roster.ts"
 import { seatWhoami } from "./seat-whoami.ts"
 

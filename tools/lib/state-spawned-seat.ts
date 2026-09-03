@@ -1,6 +1,9 @@
-import { ASSIGNMENTS, ATTRIBUTES } from "./attributes.ts"
-import { seatWhoami } from "./seat-whoami.ts"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import {
+  ASSIGNMENTS,
+  ATTRIBUTES,
+} from "../../akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+import { seatWhoami } from "./seat-whoami.ts"
 
 // A SEAT'S FIRST WRITE GOES THROUGH THE WHOLE CHECK SUITE. Every seat that has never stood before
 // writes a path akasha has not judged, and judging one takes as long as the repository is large:

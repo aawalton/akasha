@@ -1,7 +1,6 @@
-
-import { seatNameForAgent } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { seatAbove } from "../../akasha/seat-system/subagent-naming/subagent-naming.module.code.ts"
 import { type SeatTurnReading, seatTurnStateOf } from "./seat-turn-state.ts"
-import { seatAbove } from "./subagent.ts"
 import { subagentStands, subagentTurnOf } from "./subagent-turn.ts"
 
 export function agentTurnStateOf(agent: string): SeatTurnReading {

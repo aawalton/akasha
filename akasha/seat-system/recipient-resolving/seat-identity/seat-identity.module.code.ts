@@ -1,6 +1,6 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { akashaSeatIdForName } from "@tools/lib/seat-akasha-beside"
-import { pageFromHistory } from "@tools/lib/seat-page-history"
+import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { pageFromHistory } from "../../seat-page-history/seat-page-history.module.code.ts"
 
 const ID_KEY = "id"
 

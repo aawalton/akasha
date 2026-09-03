@@ -9,7 +9,7 @@ import {
   removeUncommitted,
 } from "@akasha/markdown-pages/uncommitted"
 import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
-import { akashaSeatIdForName } from "./seat-akasha-beside.ts"
+import { akashaSeatIdForName } from "../../akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const PAGE_TYPE = "message"
 

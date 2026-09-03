@@ -1,9 +1,12 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { frontmatterFromHistory, nameFromHistory } from "@tools/lib/seat-page-history"
-import { pageValuesOf } from "@tools/lib/seat-page-values"
-import { agentPresence } from "@tools/lib/seat-presence-read"
-import { sessionOf } from "@tools/lib/seat-session"
+import {
+  frontmatterFromHistory,
+  nameFromHistory,
+} from "../seat-page-history/seat-page-history.module.code.ts"
+import { pageValuesOf } from "../seat-page-values/seat-page-values.module.code.ts"
+import { agentPresence } from "../seat-presence-read/seat-presence-read.module.code.ts"
 import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
+import { sessionOf } from "../seat-session/seat-session.module.code.ts"
 
 const TITLE = "title"
 

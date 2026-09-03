@@ -12,7 +12,10 @@ import {
 import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
 import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
-import { type OAuthProxyState, readProxyState } from "@tools/lib/seat-proxy-state"
+import {
+  type OAuthProxyState,
+  readProxyState,
+} from "../../seat-proxy-state/seat-proxy-state.module.code.ts"
 
 export const PROXY_LIVENESS_INTERVAL_MS = 30_000
 

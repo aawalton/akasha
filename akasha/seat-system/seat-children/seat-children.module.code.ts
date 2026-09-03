@@ -1,5 +1,5 @@
-import { principalSeatIdOf } from "@tools/lib/seat-principal"
 import { type Seated, seatsPresent } from "@tools/lib/seat-roster"
+import { principalSeatIdOf } from "../seat-principal/seat-principal.module.code.ts"
 
 // WHICH OF THESE SEATS STAND UNDER THAT ONE. The roster and the principal read are handed in rather
 // than reached, so what decides a child can be tested without a fleet standing. Every fault this

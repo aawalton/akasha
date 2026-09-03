@@ -1,12 +1,20 @@
-
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
-import { ATTRIBUTES, type Attributes, type Claimant, type Mode } from "./attributes.ts"
-import { FLEET } from "./compose-seat-name.ts"
-import { type Documents, declaredPathReading, requiredReadingClosure } from "./domain.ts"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import {
+  type Documents,
+  declaredPathReading,
+  requiredReadingClosure,
+} from "../../akasha/domain-system/domain-documents/domain-documents.module.code.ts"
+import { personaAt } from "../../akasha/persona-system/persona-reading/persona-reading.module.code.ts"
+import { FLEET } from "../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+import {
+  ATTRIBUTES,
+  type Attributes,
+  type Claimant,
+  type Mode,
+} from "../../akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+import { initiativePlaceOf } from "../../akasha/seat-system/seat-initiative/seat-initiative.module.code.ts"
 import type { SeatDocument } from "./seat-attribute.ts"
-import { personaAt } from "./akasha-personas.ts"
-import { initiativePlaceOf } from "./seat-initiative.ts"
 
 export interface Warranted {
   readonly claimant: Claimant
@@ -18,12 +26,20 @@ function withAncestry(relPath: string, root: string, docs: Documents): readonly 
   return declaredPathReading(relPath, docs).map((at) => ({ root, relPath: at }))
 }
 
-export function personaWarrant(slug: string, root: string, docs: Documents): readonly SeatDocument[] | null {
+export function personaWarrant(
+  slug: string,
+  root: string,
+  docs: Documents
+): readonly SeatDocument[] | null {
   const held = personaAt(root, slug)
   return held === null ? null : withAncestry(held.path, root, docs)
 }
 
-export function domainWarrant(slug: string, root: string, docs: Documents): readonly SeatDocument[] | null {
+export function domainWarrant(
+  slug: string,
+  root: string,
+  docs: Documents
+): readonly SeatDocument[] | null {
   const at = docs.domainAt(slug)
   return at === null ? null : withAncestry(at, root, docs)
 }
@@ -57,7 +73,11 @@ export function principalWarrant(
   return at === null ? null : withAncestry(at, root, docs)
 }
 
-export function modeWarrant(mode: Mode, root: string, docs: Documents): readonly SeatDocument[] | null {
+export function modeWarrant(
+  mode: Mode,
+  root: string,
+  docs: Documents
+): readonly SeatDocument[] | null {
   const at = docs.domainAt(`seat-mode-${mode}`)
   return at === null ? null : withAncestry(at, root, docs)
 }
@@ -71,7 +91,8 @@ export function withRequired(
   const here = documents.filter((one) => one.root === root).map((one) => one.relPath)
   const whole = new Map<string, SeatDocument>()
   for (const one of documents) whole.set(`${one.root}/${one.relPath}`, one)
-  for (const relPath of requiredReadingClosure(here, docs)) whole.set(`${root}/${relPath}`, { root, relPath })
+  for (const relPath of requiredReadingClosure(here, docs))
+    whole.set(`${root}/${relPath}`, { root, relPath })
   return [...whole.values()]
 }
 
@@ -95,12 +116,18 @@ export function declaredSeatReading(
     const one = stated.attributes[slot]
     if (one === undefined) continue
     const found =
-      slot === "persona" ? personaWarrant(one.slug, root, docs) : domainWarrant(one.slug, root, docs)
+      slot === "persona"
+        ? personaWarrant(one.slug, root, docs)
+        : domainWarrant(one.slug, root, docs)
     out.push({ claimant: slot, slug: one.slug, documents: withRequired(found, root, docs) })
   }
   if (stated.initiative !== null) {
     const found = initiativeWarrant(stated.initiative, roots, docs)
-    out.push({ claimant: "initiative", slug: stated.initiative, documents: withRequired(found, root, docs) })
+    out.push({
+      claimant: "initiative",
+      slug: stated.initiative,
+      documents: withRequired(found, root, docs),
+    })
   }
   if (stated.onCall) {
     const found = onCallWarrant(root, docs)
@@ -108,7 +135,11 @@ export function declaredSeatReading(
   }
   if (stated.principal !== null) {
     const found = principalWarrant(stated.principal, root, docs)
-    out.push({ claimant: "principal", slug: stated.principal, documents: withRequired(found, root, docs) })
+    out.push({
+      claimant: "principal",
+      slug: stated.principal,
+      documents: withRequired(found, root, docs),
+    })
   }
   if (stated.mode !== null) {
     const found = modeWarrant(stated.mode, root, docs)

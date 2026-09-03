@@ -1,8 +1,8 @@
-import { akashaSeatIdForName } from "@tools/lib/seat-akasha-beside"
-import { launchFrom } from "@tools/lib/seat-flex"
-import { pageValuesOf } from "@tools/lib/seat-page-values"
-import { seatNameForAgent } from "@tools/lib/seat-presence-read"
-import { principalOf } from "@tools/lib/seat-principal"
+import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { launchFrom } from "../../seat-flex/seat-flex.module.code.ts"
+import { pageValuesOf } from "../../seat-page-values/seat-page-values.module.code.ts"
+import { seatNameForAgent } from "../../seat-presence-read/seat-presence-read.module.code.ts"
+import { principalOf } from "../../seat-principal/seat-principal.module.code.ts"
 import {
   createAgent,
   type RowAgentLaunch,

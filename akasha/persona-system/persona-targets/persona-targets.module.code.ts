@@ -1,6 +1,6 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { CommsRule } from "@akasha/seat-system/seat-wake-rules"
-import { personasStanding } from "@tools/lib/akasha-personas"
+import { personasStanding } from "../persona-reading/persona-reading.module.code.ts"
 
 export interface PersonaTarget {
   readonly id: string

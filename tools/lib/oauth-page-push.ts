@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import { chmodSync } from "node:fs"
 import { join } from "node:path"
-
+import type { Outcome } from "../../akasha/command-system/gated-write/gated-write.module.code.ts"
 import { uncommittedAt } from "../../akasha/pages-system/pages/file-name/page-file-name.module.code.ts"
 import { landMechanically } from "./akasha-landing.ts"
 import {
@@ -13,7 +13,6 @@ import {
   akashaSecretPath,
   holdBesideAccount,
 } from "./claude-account-akasha.ts"
-import type { Outcome } from "./gated-write.ts"
 
 const WRITER = "claude-account-credential-writer"
 

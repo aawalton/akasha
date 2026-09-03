@@ -1,7 +1,7 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { akashaSeatsThatExist } from "@tools/lib/seat-akasha-beside"
-import { akashaSeatRecordOf } from "@tools/lib/seat-akasha-read"
+import { akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
+import { akashaSeatRecordOf } from "@akasha/seat-system/seat-akasha-read"
 
 const TRANSCRIPT_KEY = "transcript-path"
 

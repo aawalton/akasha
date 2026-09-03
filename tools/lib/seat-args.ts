@@ -1,7 +1,16 @@
-
-import { ASSIGNMENTS, ATTRIBUTES, DECLARATIONS, type Declaration, MODES, type Mode } from "./attributes.ts"
-import { type Principal, principals } from "./compose-seat-name.ts"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import {
+  type Principal,
+  principals,
+} from "../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+import {
+  ASSIGNMENTS,
+  ATTRIBUTES,
+  DECLARATIONS,
+  type Declaration,
+  MODES,
+  type Mode,
+} from "../../akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
 import { fail } from "./command.ts"
 
 export interface Args {
@@ -55,15 +64,15 @@ export function parseArgs(argv: readonly string[]): Args {
       if (named !== AKASHA) {
         fail(`--repo ${named} — a seat page lands in akasha, so this states no other repository`)
       }
-    }
-    else if (arg === "--initiative") initiative = value()
+    } else if (arg === "--initiative") initiative = value()
     else if (arg === "--flex") flex = value()
     else if (arg === "--on-call") onCall = true
     else if (arg === "--take-live-name") takeLiveName = true
     else if (arg === "--principal") {
       const named = value()
       const allowed = principals(rootFor(resolveRoots(), AKASHA))
-      if (!allowed.includes(named)) fail(`\`${named}\` is no principal — one of: ${allowed.join(", ")}`)
+      if (!allowed.includes(named))
+        fail(`\`${named}\` is no principal — one of: ${allowed.join(", ")}`)
       principal = named
     } else if (arg === "--clear") {
       const named = value()
@@ -81,13 +90,33 @@ export function parseArgs(argv: readonly string[]): Args {
     else if (arg === "--registration-account") registration = value()
     else if (arg === "--mode") {
       const named = value()
-      if (!MODES.includes(named as Mode)) fail(`\`${named}\` is no mode — one of: ${MODES.join(", ")}`)
+      if (!MODES.includes(named as Mode))
+        fail(`\`${named}\` is no mode — one of: ${MODES.join(", ")}`)
       mode = named as Mode
     } else {
       const stated = [...ATTRIBUTES, ...ASSIGNMENTS].find((one) => arg === `--${one}`)
-      if (stated === undefined) fail(`\`${arg}\` is not an argument this takes — run it with --help`)
+      if (stated === undefined)
+        fail(`\`${arg}\` is not an argument this takes — run it with --help`)
       set[stated] = value()
     }
   }
-  return { set, initiative, flex, tokens, clear, show, resolve, name, fromHistory, asDefault, agent, parentName, registration, mode, principal, onCall, takeLiveName }
+  return {
+    set,
+    initiative,
+    flex,
+    tokens,
+    clear,
+    show,
+    resolve,
+    name,
+    fromHistory,
+    asDefault,
+    agent,
+    parentName,
+    registration,
+    mode,
+    principal,
+    onCall,
+    takeLiveName,
+  }
 }

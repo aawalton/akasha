@@ -1,4 +1,5 @@
 import { type LiveProxySeat, liveProxySeats, seatsNewestFirst } from "@akasha/agents/proxy-seats"
+import { readProxyState } from "@akasha/seat-system/seat-proxy-state"
 import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
 import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
 import {
@@ -7,7 +8,6 @@ import {
   waitForActionCleared,
 } from "@tools/lib/seat-action"
 import { planSeatResolution, resolveSeatTarget } from "@tools/lib/seat-handle"
-import { readProxyState } from "@tools/lib/seat-proxy-state"
 import { seatsPresent } from "@tools/lib/seat-roster"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"

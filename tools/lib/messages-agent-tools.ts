@@ -1,9 +1,9 @@
 import { basename } from "node:path"
 import { startDeliveryWitness } from "@akasha/seat-system/messages-delivery-witness"
+import { seatNameForAgent } from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { transcriptOf } from "../../akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { claimMessage, releaseClaim, takeMessage } from "./message-file.ts"
 import { watchMessagesTo } from "./message-file-watch.ts"
-import { seatNameForAgent } from "./seat-presence-read.ts"
-import { transcriptOf } from "./seat-transcript-path.ts"
 
 const PAGE_SUFFIX = ".md"
 

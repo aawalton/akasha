@@ -6,6 +6,12 @@ import {
   redirectConsoleToSink,
 } from "@akasha/seat-system/supervisor-console"
 import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
+import { seatNameForAgent } from "../../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import {
+  clearProxyState,
+  type OAuthProxyStateToWrite,
+  writeProxyStateQuietly,
+} from "../../../akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 import {
   clearAccountTerminal,
   isAccountTerminal,
@@ -14,12 +20,6 @@ import {
 import { reportOAuthRecovered, reportTerminalOAuthError } from "../agent-health-write.ts"
 import { logWriter } from "../log-append.ts"
 import { LIVE_HEALTH, writeRefreshHealth, writeTerminalHealth } from "../oauth-account-health.ts"
-import { seatNameForAgent } from "../seat-presence-read.ts"
-import {
-  clearProxyState,
-  type OAuthProxyStateToWrite,
-  writeProxyStateQuietly,
-} from "../seat-proxy-state.ts"
 import { startOAuthProxy } from "./gateway.ts"
 import { parseBootEnv } from "./parse-boot-env.ts"
 

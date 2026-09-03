@@ -1,5 +1,8 @@
 import { closeSync, openSync, readSync, statSync } from "node:fs"
-import { type TranscriptRecord, transcriptOf } from "./seat-transcript-path.ts"
+import {
+  type TranscriptRecord,
+  transcriptOf,
+} from "../../akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 
 export function readTranscriptMtimeMs(agentId: string): number | null {
   const stated = transcriptOf(agentId)

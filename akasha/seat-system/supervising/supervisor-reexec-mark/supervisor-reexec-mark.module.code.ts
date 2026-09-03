@@ -1,4 +1,4 @@
-import { keepSeatRecord, seatRecordOf } from "@tools/lib/seat-record"
+import { keepSeatRecord, seatRecordOf } from "../../seat-record/seat-record.module.code.ts"
 
 const KEY = "reexec-asked"
 

@@ -1,8 +1,8 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
-import { akashaSeatsThatExist } from "@tools/lib/seat-akasha-beside"
-import { agentPresence } from "@tools/lib/seat-presence-read"
-import { principalSeatIdOf } from "@tools/lib/seat-principal"
 import { shape } from "@tools/lib/shape"
+import { akashaSeatsThatExist } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { agentPresence } from "../../seat-presence-read/seat-presence-read.module.code.ts"
+import { principalSeatIdOf } from "../../seat-principal/seat-principal.module.code.ts"
 import type { SeatPresence } from "../../seat-proc-key/seat-proc-key.module.code.ts"
 import type {
   BusyChildDetail,

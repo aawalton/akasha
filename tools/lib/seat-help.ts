@@ -1,5 +1,7 @@
-
-import { DECLARATIONS, MODES } from "./attributes.ts"
+import {
+  DECLARATIONS,
+  MODES,
+} from "../../akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
 
 export const SEAT_HELP = `bun tools/seat.ts — state what a seat IS, so a compaction cannot take it away
 
@@ -30,7 +32,7 @@ is not what the lock is over. A seat nobody recorded a principal for takes that 
 which is the total one: the short form is one word, and answering silence with it would
 narrow the exclusion on the seats nobody set up carefully.
 
-NOTHING IS COMMITTED. What a seat is, is runtime state under \$HOME, not anything either
+NOTHING IS COMMITTED. What a seat is, is runtime state under $HOME, not anything either
 repository says, so no path exists for a commit to name. This is the one command here that
 writes without committing.
 

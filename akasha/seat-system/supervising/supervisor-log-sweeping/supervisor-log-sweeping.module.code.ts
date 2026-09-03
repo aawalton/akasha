@@ -1,6 +1,6 @@
 import { readdirSync, rmSync, statSync } from "node:fs"
 import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
-import { akashaSeatsThatExist } from "@tools/lib/seat-akasha-beside"
+import { akashaSeatsThatExist } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const DEFAULT_KEEP_DAYS = 7
 

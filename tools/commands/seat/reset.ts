@@ -5,17 +5,24 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import { isSeatMode, SEAT_MODE_HEADLESS, SEAT_MODES } from "@akasha/seat-system/seat-modes"
 import { setTurnState } from "@akasha/seat-system/turn-records"
-import { composeSeatName } from "../../lib/compose-seat-name.ts"
+import { composeSeatName } from "../../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+import { flexInName } from "../../../akasha/seat-system/seat-flex/seat-flex.module.code.ts"
+import {
+  type SeatFromHistory,
+  seatFromHistory,
+} from "../../../akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+import { principalSeatNameOf } from "../../../akasha/seat-system/seat-principal/seat-principal.module.code.ts"
+import {
+  pageWouldCompose,
+  type Stated,
+  statedOf,
+} from "../../../akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { killSeatSession, launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { flexInName } from "../../lib/seat-flex.ts"
 import { resolveSeatTargetCli } from "../../lib/seat-handle.ts"
 import { mintNamedAgent } from "../../lib/seat-name-bind.ts"
-import { type SeatFromHistory, seatFromHistory } from "../../lib/seat-page-history.ts"
-import { principalSeatNameOf } from "../../lib/seat-principal.ts"
 import { help } from "../../lib/seat-reset-help.ts"
-import { pageWouldCompose, type Stated, statedOf } from "../../lib/seat-stated.ts"
 import { stateSpawnedSeat } from "../../lib/state-spawned-seat.ts"
 import { A_RESET, stopSeat } from "../../lib/stop-seat.ts"
 

@@ -2,8 +2,8 @@ import { existsSync, readdirSync, unwatchFile, watchFile } from "node:fs"
 import { stat } from "node:fs/promises"
 import type { ObjectStore } from "@akasha/object-store/seaweedfs-store"
 import { keepSeatTranscript } from "@akasha/seat-system/supervisor-heartbeat-beat"
-import { sessionOf } from "./seat-session.ts"
-import { transcriptOf } from "./seat-transcript-path.ts"
+import { sessionOf } from "../../akasha/seat-system/seat-session/seat-session.module.code.ts"
+import { transcriptOf } from "../../akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { readTranscriptSessionId } from "./session-jsonl.ts"
 import {
   getDefaultObjectStore,

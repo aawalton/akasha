@@ -1,4 +1,4 @@
-import { sessionOf } from "./seat-session.ts"
+import { sessionOf } from "../../akasha/seat-system/seat-session/seat-session.module.code.ts"
 
 export type SessionLookup = { readonly session: string } | { readonly error: string }
 

@@ -1,7 +1,7 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { callSeatAt, type SeatCall, seatCallIn } from "@akasha/seat-system/supervisor-seat-defaults"
 import { SEAT_COMMAND_REL } from "@akasha/seat-system/terminal-seat-stating"
-import { ASSIGNMENTS, ATTRIBUTES } from "@tools/lib/attributes"
+import { ASSIGNMENTS, ATTRIBUTES } from "../seat-attributes/seat-attributes.module.code.ts"
 
 export interface StatedIdentity {
   readonly persona?: string

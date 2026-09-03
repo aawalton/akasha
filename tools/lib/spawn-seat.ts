@@ -3,7 +3,10 @@ import { principalIsPerson, refuseAnswering } from "@akasha/seat-system/seat-ans
 import { SEAT_MODE_HEADLESS } from "@akasha/seat-system/seat-modes"
 import { refuseParentless } from "@akasha/seat-system/seat-parentless-refusal"
 import { enforceSpawnAdmission } from "@akasha/utils-system/memory-guard"
-import { FLEET, personaDefaultsOf } from "./compose-seat-name.ts"
+import {
+  FLEET,
+  personaDefaultsOf,
+} from "../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { dataError, inputError, operationalError } from "./exit.ts"
 import { ruleText } from "./instructions-rule.ts"
 import { type LaunchSeatResult, launchSeatUnderTmux } from "./launch-seat-tmux.ts"

@@ -1,13 +1,24 @@
+import type { Outcome } from "@akasha/command-system/gated-write"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { fail } from "@tools/lib/command"
-import type { Outcome } from "@tools/lib/gated-write"
 import { removeSeatPage, writeSeatPage } from "@tools/lib/seat-page"
-import { nameFromHistory, parentFromHistory } from "@tools/lib/seat-page-history"
 import { composedNameOf } from "@tools/lib/seat-rename"
-import { rotatedOf } from "@tools/lib/seat-rotated-session"
-import { keepSession, sessionRecordOf } from "@tools/lib/seat-session"
-import { backfillObserved, fallBackToHistory, type Stated, statedOf } from "@tools/lib/seat-stated"
-import { keepTranscript, transcriptRecordOf } from "@tools/lib/seat-transcript-path"
+import {
+  nameFromHistory,
+  parentFromHistory,
+} from "../seat-page-history/seat-page-history.module.code.ts"
+import { rotatedOf } from "../seat-rotated-session/seat-rotated-session.module.code.ts"
+import { keepSession, sessionRecordOf } from "../seat-session/seat-session.module.code.ts"
+import {
+  backfillObserved,
+  fallBackToHistory,
+  type Stated,
+  statedOf,
+} from "../seat-stated/seat-stated.module.code.ts"
+import {
+  keepTranscript,
+  transcriptRecordOf,
+} from "../seat-transcript-path/seat-transcript-path.module.code.ts"
 
 export interface BeatReport {
   readonly outcome: Outcome

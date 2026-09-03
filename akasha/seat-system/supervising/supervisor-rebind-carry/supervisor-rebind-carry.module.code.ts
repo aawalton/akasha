@@ -1,6 +1,6 @@
 import type { StatedAgentSlots } from "@akasha/seat-system/supervisor-rebind-deps"
-import { attributesOf, recordedModeOf } from "@tools/lib/attributes"
-import { principalOf } from "@tools/lib/seat-principal"
+import { attributesOf, recordedModeOf } from "../../seat-attributes/seat-attributes.module.code.ts"
+import { principalOf } from "../../seat-principal/seat-principal.module.code.ts"
 
 export type CarriedAgentName = {
   name: string

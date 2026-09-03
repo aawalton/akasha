@@ -1,4 +1,4 @@
-import { SUBAGENT_MARK } from "./subagent.ts"
+import { SUBAGENT_MARK } from "../../akasha/seat-system/subagent-naming/subagent-naming.module.code.ts"
 
 // WHO IS ACTING, READ OFF THE ENVIRONMENT AND THE HOOK'S PAYLOAD. This module was the way to the
 // read record kept beside a seat's old page, and these four answers rode along in it because every

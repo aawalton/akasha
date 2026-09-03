@@ -1,4 +1,4 @@
-import { akashaSeatsThatExist } from "@tools/lib/seat-akasha-beside"
+import { akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
 
 export async function agentIdsForSeatNames(
   names: readonly string[]

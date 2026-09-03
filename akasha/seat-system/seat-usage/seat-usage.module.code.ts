@@ -1,4 +1,8 @@
-import { keepSeatRecord, type SeatRecord, seatRecordOf } from "@tools/lib/seat-record"
+import {
+  keepSeatRecord,
+  type SeatRecord,
+  seatRecordOf,
+} from "../seat-record/seat-record.module.code.ts"
 
 export type UsageRecord = SeatRecord
 

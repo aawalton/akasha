@@ -1,6 +1,6 @@
-import { akashaObservedOf } from "./seat-akasha-read.ts"
-import { keepBeside } from "./seat-beside.ts"
-import { seatNameForAgent } from "./seat-presence-read.ts"
+import { akashaObservedOf } from "../../akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
+import { keepBeside } from "../../akasha/seat-system/seat-beside/seat-beside.module.code.ts"
+import { seatNameForAgent } from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 
 const CLEARED = {
   requestedAction: null,

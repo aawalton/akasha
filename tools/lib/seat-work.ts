@@ -1,6 +1,5 @@
-
-import { initiativeOf } from "./seat-initiative.ts"
-import { seatPageAgents } from "./seat-presence-read.ts"
+import { initiativeOf } from "../../akasha/seat-system/seat-initiative/seat-initiative.module.code.ts"
+import { seatPageAgents } from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import { SEAT_TURN_STATES, type SeatTurnState, seatTurnStateOf } from "./seat-turn-state.ts"
 
 export interface SeatHolding {

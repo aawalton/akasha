@@ -1,5 +1,4 @@
-
-import { type Attribute } from "./attributes.ts"
+import type { Attribute } from "../../akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
 
 export interface SeatDocument {
   readonly root: string

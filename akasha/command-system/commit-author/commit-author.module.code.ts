@@ -1,7 +1,7 @@
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { displayNameOf, personaAt } from "@akasha/persona-system/persona-reading"
 import { seat } from "@akasha/seat-system/seat-page-type"
-import { displayNameOf, personaAt } from "@tools/lib/akasha-personas"
-import { pageTextOf } from "@tools/lib/seat-page-values"
+import { pageTextOf } from "@akasha/seat-system/seat-page-values"
 import { writerIn } from "../reading/reading.module.code.ts"
 
 const PERSONA_SLUG_KEY = "persona-slug"

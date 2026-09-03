@@ -1,8 +1,11 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { akashaSeatSlugOf } from "./seat-akasha-beside.ts"
-import { removeAkashaSeatPage, writeAkashaSeatPage } from "./seat-page-akasha.ts"
-import type { Stated } from "./seat-stated.ts"
-import type { Outcome } from "./gated-write.ts"
+import type { Outcome } from "../../akasha/command-system/gated-write/gated-write.module.code.ts"
+import { akashaSeatSlugOf } from "../../akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import {
+  removeAkashaSeatPage,
+  writeAkashaSeatPage,
+} from "../../akasha/seat-system/seat-page-akasha/seat-page-akasha.module.code.ts"
+import type { Stated } from "../../akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 
 // NOTHING OF THE OLD STORE REMAINS HERE. Composing a page and landing it went when the write moved:
 // the two renderers read one `Stated`, so the markdown page carried nothing the page in akasha does

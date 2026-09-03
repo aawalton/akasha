@@ -1,6 +1,6 @@
 import { everyOfType } from "@akasha/indexes"
 import { type Value, valueAt } from "@akasha/pages-system/page-value"
-import { akashaSeatPathForAgent } from "./seat-akasha-beside.ts"
+import { akashaSeatPathForAgent } from "../../akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 // WHERE AN AGENT'S PAGE STANDS, ANSWERED ONLY WHERE THE PAGE IS THERE.
 //
