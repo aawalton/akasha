@@ -10,17 +10,17 @@ import {
   type AddonStructureFacts,
   scanAddonStructure,
 } from "../../../../../tools/lib/check-workflow/held-addon-structure.ts"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population.ts"
 import {
   readTerritoryMap,
   TERRITORY_MAP_PATH,
 } from "../../../../../tools/lib/check-workflow/territory-map.ts"
+import { parseArgs } from "../../../../../tools/lib/parse-args.ts"
+import type { CommandHelp, HelpFlag } from "../../../../../tools/ops/surface.ts"
+import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import {
   exitOnResult,
   exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
-import { parseArgs } from "../../../../../tools/lib/parse-args.ts"
-import type { CommandHelp, HelpFlag } from "../../../../../tools/ops/surface.ts"
+} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 const PREFIX = "[held-addon-structure]"
 
