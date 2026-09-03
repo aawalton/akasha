@@ -31,6 +31,7 @@ export const seatSystem = {
     "command/shell-init-bash",
     "module/channel-delivery",
     "module/compose-notices",
+    "module/compose-subagents",
     "module/keeper-unrevivable-push",
     "module/pending-from-files",
     "module/person-handlers",
