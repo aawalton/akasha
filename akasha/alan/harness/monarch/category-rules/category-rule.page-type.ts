@@ -24,9 +24,9 @@ export const categoryRule = {
   partSlugs: [
     "number-property/counterpart-within-days",
     "record-property/matches",
+    "relation-property/category-slug",
     "select-property/match-comparison",
     "select-property/match-key",
-    "text-property/judgement",
     "text-property/match-values",
     "text-property/rule-note",
   ],
@@ -40,12 +40,15 @@ export const categoryRule = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A rule decides a category by naming one, and naming none leaves a person to settle it.",
+      statement: "A rule decides a category by naming the category.",
     },
     {
       invariantKind: "departure",
-      statement: "A rule gives the same answer every time it is run.",
+      statement: "A rule naming no category leaves a person to settle the transaction.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule gives the same answer every time the rule is run.",
     },
     {
       invariantKind: "departure",
@@ -53,11 +56,19 @@ export const categoryRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule names a category by slug, so a rename in Monarch does not strand it.",
+      statement: "A rule names a category by slug.",
     },
     {
       invariantKind: "departure",
-      statement: "A rule is data rather than code, and nothing about it is executed.",
+      statement: "A category renamed in Monarch strands no rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule is data rather than code.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing a rule states is executed.",
     },
   ],
   directives: [
