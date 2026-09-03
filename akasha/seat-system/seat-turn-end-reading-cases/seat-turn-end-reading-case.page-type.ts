@@ -1,4 +1,12 @@
+import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { CaseFinalMessage } from "./properties/case-final-message.text-property.ts"
+import type { CasePrompt } from "./properties/case-prompt.text-property.ts"
+
+export type SeatTurnEndReadingCase = Page & {
+  casePrompt: CasePrompt
+  caseFinalMessage: CaseFinalMessage
+}
 
 export const seatTurnEndReadingCase = {
   id: "01a06837-f101-7187-9f0a-b7d087883e40",
@@ -7,6 +15,11 @@ export const seatTurnEndReadingCase = {
   definition: "one turn end kept beside the answer the turn end is owed",
   pluralSlug: "seat-turn-end-reading-cases",
   extendsSlug: "page-type/page",
+  partSlugs: ["text-property/case-final-message", "text-property/case-prompt"],
+  properties: [
+    { pagePropertySlug: "case-prompt", required: true, many: false },
+    { pagePropertySlug: "case-final-message", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -29,7 +42,7 @@ export const seatTurnEndReadingCase = {
       statement: "A case is owed one verdict rather than the question that reaches it.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "The prompt and the final message a case keeps are properties of the case.",
     },
   ],
