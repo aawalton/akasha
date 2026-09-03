@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bodyGreaterBludgeoningResistance = {
   id: "01a06575-97f6-7cf9-a1a2-864874cd773e",

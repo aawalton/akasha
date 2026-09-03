@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bodyOfStone = {
   id: "01a06575-97f7-72bc-9719-a2e1459d938a",

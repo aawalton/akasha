@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const boonOfTheGuestUlvama = {
   id: "01a06575-97f7-74e9-be3d-c0b869c45823",

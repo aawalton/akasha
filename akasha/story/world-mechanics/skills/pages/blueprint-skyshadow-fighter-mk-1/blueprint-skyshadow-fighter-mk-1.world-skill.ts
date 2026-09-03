@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const blueprintSkyshadowFighterMk1 = {
   id: "01a06575-97f6-7796-9c86-fb150736292d",

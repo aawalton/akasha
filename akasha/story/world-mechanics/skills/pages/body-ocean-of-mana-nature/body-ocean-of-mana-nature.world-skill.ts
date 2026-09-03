@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bodyOceanOfManaNature = {
   id: "01a06575-97f7-77b6-a18e-24cf2c23f712",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const berrSStare = {
   id: "01a06575-97f5-7073-ad12-797abec00ae1",

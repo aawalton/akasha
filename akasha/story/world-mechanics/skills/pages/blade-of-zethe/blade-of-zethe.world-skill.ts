@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bladeOfZethe = {
   id: "01a06575-97f5-792d-a751-759d856babe1",

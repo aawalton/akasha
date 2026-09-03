@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bridgeTheGap = {
   id: "01a06575-97f9-7e5d-8bcd-5139ff23695c",

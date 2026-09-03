@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bladeArtFraerlingSong = {
   id: "01a06575-97f5-7730-8e3b-d3461ff92fd6",

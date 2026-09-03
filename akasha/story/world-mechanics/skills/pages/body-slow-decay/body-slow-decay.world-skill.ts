@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bodySlowDecay = {
   id: "01a06575-97f7-74cd-94c0-e41aa6cc41a6",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const boundSpell = {
   id: "01a06575-97f8-7b2e-b3bc-b19a54694a8b",

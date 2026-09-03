@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const avertMortalBlow = {
   id: "01a06575-97f2-787c-892a-8444b6e952af",

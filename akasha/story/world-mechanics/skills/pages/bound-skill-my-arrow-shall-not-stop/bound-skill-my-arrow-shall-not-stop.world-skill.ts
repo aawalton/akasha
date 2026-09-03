@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const boundSkillMyArrowShallNotStop = {
   id: "01a06575-97f8-77ef-839f-c1bf600f1abc",

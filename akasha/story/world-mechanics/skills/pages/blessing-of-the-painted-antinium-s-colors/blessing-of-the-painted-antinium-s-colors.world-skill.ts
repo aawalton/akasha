@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const blessingOfThePaintedAntiniumSColors = {
   id: "01a06575-97f6-748f-86f8-f3d788aff7a4",

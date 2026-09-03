@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bloodlinePactThaiyrOkost = {
   id: "01a06575-97f6-71d7-a813-d9da4efab7f2",

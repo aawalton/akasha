@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const boundSpellWordOfUndeath = {
   id: "01a06575-97f8-7d35-a623-3899e5ba1346",

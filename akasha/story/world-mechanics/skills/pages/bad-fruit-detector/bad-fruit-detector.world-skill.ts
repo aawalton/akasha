@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const badFruitDetector = {
   id: "01a06575-97f2-74c1-b25b-3adc0309e873",

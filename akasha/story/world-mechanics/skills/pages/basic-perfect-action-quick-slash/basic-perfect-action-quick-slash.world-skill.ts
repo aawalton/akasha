@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const basicPerfectActionQuickSlash = {
   id: "01a06575-97f4-7407-b154-900b0b7f5ac7",

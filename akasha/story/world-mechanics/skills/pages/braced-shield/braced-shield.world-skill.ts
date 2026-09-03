@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bracedShield = {
   id: "01a06575-97f8-7714-adde-e6e1c1828f23",

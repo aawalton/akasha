@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const battlefieldEvenGround = {
   id: "01a06575-97f4-7ca9-a900-b56e47ab3a77",

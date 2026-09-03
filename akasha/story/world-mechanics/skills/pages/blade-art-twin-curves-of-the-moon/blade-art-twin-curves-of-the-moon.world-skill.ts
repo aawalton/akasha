@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bladeArtTwinCurvesOfTheMoon = {
   id: "01a06575-97f5-7dc2-934c-2c14fe74b0bd",

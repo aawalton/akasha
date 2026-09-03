@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const briarPatch = {
   id: "01a06575-97f9-77e7-a95a-0c9e483794fb",

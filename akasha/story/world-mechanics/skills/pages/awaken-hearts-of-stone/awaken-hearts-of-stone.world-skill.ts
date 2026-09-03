@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const awakenHeartsOfStone = {
   id: "01a06575-97f2-710c-baa6-1c60256cab6a",

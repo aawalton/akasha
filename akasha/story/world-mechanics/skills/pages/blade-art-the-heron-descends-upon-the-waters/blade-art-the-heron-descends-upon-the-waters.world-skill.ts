@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bladeArtTheHeronDescendsUponTheWaters = {
   id: "01a06575-97f5-7d02-9759-760eef3fa422",

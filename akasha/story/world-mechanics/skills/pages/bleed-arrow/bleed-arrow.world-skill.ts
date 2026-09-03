@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bleedArrow = {
   id: "01a06575-97f6-7445-a783-15836c0e13da",

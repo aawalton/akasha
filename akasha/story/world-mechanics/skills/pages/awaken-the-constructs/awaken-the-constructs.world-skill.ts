@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const awakenTheConstructs = {
   id: "01a06575-97f2-74aa-ae0b-da4e4f42a816",

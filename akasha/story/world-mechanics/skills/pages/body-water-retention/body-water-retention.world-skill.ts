@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bodyWaterRetention = {
   id: "01a06575-97f7-7a56-bde6-7421a8fcb545",

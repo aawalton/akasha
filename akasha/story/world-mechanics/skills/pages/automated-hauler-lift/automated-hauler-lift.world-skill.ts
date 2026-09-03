@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const automatedHaulerLift = {
   id: "01a06575-97f0-737f-8dd2-dcb5a6628e55",

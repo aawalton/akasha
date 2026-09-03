@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const basicGolemShaping = {
   id: "01a06575-97f3-7077-818b-d3701347bf02",

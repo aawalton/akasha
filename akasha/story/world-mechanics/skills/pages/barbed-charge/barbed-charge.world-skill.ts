@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const barbedCharge = {
   id: "01a06575-97f3-7150-b248-f995c9d7c176",

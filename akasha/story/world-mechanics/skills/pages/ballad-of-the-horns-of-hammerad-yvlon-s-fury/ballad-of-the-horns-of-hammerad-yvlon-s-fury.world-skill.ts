@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const balladOfTheHornsOfHammeradYvlonSFury = {
   id: "01a06575-97f2-7fcd-8809-b1f6cd15784f",

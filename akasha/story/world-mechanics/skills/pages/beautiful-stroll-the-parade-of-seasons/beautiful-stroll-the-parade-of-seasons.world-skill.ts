@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const beautifulStrollTheParadeOfSeasons = {
   id: "01a06575-97f4-7864-8a18-57c181090c87",

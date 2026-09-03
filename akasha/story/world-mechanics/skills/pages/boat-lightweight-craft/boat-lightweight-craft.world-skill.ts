@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const boatLightweightCraft = {
   id: "01a06575-97f6-7b3f-a52b-9dfe453c95c0",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const boonOfTheThrone = {
   id: "01a06575-97f7-7493-8ab7-e33f3a2b055d",

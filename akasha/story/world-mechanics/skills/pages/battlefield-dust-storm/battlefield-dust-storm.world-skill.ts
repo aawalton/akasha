@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const battlefieldDustStorm = {
   id: "01a06575-97f4-7228-8b78-70a5d03cd3cd",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const battlefieldSense = {
   id: "01a06575-97f4-7899-af35-49605179ad12",

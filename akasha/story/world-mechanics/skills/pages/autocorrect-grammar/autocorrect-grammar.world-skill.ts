@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const autocorrectGrammar = {
   id: "01a06575-97f0-7c26-b50c-63d5cf20947e",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const breadPestkiller = {
   id: "01a06575-97f8-7535-bdee-50974ad67825",

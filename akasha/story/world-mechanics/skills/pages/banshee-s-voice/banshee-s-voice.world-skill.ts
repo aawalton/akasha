@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bansheeSVoice = {
   id: "01a06575-97f2-7c43-b031-cadf56eacf89",

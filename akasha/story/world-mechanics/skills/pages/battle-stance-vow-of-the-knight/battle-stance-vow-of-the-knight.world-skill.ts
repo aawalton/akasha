@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const battleStanceVowOfTheKnight = {
   id: "01a06575-97f4-73dc-aa22-b7b61f6f1a88",

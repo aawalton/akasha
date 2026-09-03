@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const basicSpellcasting = {
   id: "01a06575-97f4-71ff-885e-dbb8f39dd32d",

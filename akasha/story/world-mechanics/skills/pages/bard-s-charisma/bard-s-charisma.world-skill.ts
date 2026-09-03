@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const bardSCharisma = {
   id: "01a06575-97f3-733e-908e-bff0a148827d",
