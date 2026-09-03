@@ -29,5 +29,13 @@ export const filePropertyDefs = {
       invariantKind: "absence",
       statement: "An empty list would read as a page type declaring no property.",
     },
+    {
+      invariantKind: "gap",
+      statement: "These refusals are the only thing holding a read that crosses accounts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Answering a shape here re-arms every narrow a stripped key had disarmed.",
+    },
   ],
 } as const satisfies Module
