@@ -128,13 +128,23 @@ export function carriedIn(
   )
 }
 
-// A CHAIN THAT CANNOT BE READ REFUSES RATHER THAN ANSWERING EMPTY. This broke out of the walk at
-// the first page type it could not read and returned what it had, which for a first slug that would
-// not resolve was `[]` — the very answer a page type declaring nothing gives. No caller could tell
-// the two apart, so a corrupt index degraded to "declares nothing" and every property of the type
-// went missing quietly. The pages-system says it outright: refuse where you cannot answer, and
-// never read a missing source as an empty one.
-export function declarationsFrom(pageTypeSlug: string, source: Source): readonly Carried[] {
+// A CHAIN THAT CANNOT BE READ REFUSES RATHER THAN ANSWERING EMPTY. The walk used to break at the
+// first page type it could not read and return what it had, which for a first slug that would not
+// resolve was `[]` — the very answer a page type declaring nothing gives. No caller could tell the
+// two apart, so a corrupt index degraded to "declares nothing" and every property of the type went
+// missing quietly. The pages-system says it outright: refuse where you cannot answer, and never
+// read a missing source as an empty one.
+//
+// TWO READINGS, and the tolerant one is named rather than accidental. `declarationsIfNamed` answers
+// null where the chain cannot be read, and the indexer asks that one because the set it rebuilds
+// from is partial by its nature: `rebuiltFrom` walks pages while the types those pages name may not
+// have been read yet, so a refusal there would refuse the rebuild itself. Every other caller asks
+// `declarationsFrom`, which refuses. What was one silent answer is now a loud one and a quiet one
+// that says in its own name which it is.
+export function declarationsIfNamed(
+  pageTypeSlug: string,
+  source: Source
+): readonly Carried[] | null {
   const carried: Carried[] = []
   const walked = new Set<string>()
   let here: string | null = pageTypeSlug
@@ -142,13 +152,7 @@ export function declarationsFrom(pageTypeSlug: string, source: Source): readonly
     const own: string = here
     walked.add(own)
     const value = source.pageTypeAt(own)
-    if (value === null) {
-      throw new Error(
-        own === pageTypeSlug
-          ? `\`${pageTypeSlug}\` names no page type here, so what it carries cannot be read`
-          : `\`${pageTypeSlug}\` reaches \`${own}\` by extending, and \`${own}\` names no page type here`
-      )
-    }
+    if (value === null) return null
     carried.push(...carriedFrom(value, source, own))
     const above = textAt(value, EXTENDS)
     here = above === null ? null : slugIn(above)
@@ -156,16 +160,49 @@ export function declarationsFrom(pageTypeSlug: string, source: Source): readonly
   return carried
 }
 
-export function propertiesFrom(pageTypeSlug: string, source: Source): readonly Carried[] {
-  const carried: Carried[] = []
+function unreadable(pageTypeSlug: string, source: Source): string {
+  const walked: string[] = []
+  let here: string | null = pageTypeSlug
+  while (here !== null && !walked.includes(here)) {
+    const own: string = here
+    walked.push(own)
+    const value = source.pageTypeAt(own)
+    if (value === null) {
+      return own === pageTypeSlug
+        ? `\`${pageTypeSlug}\` names no page type here, so what it carries cannot be read`
+        : `\`${pageTypeSlug}\` reaches \`${own}\` by extending, through ${walked.join(" -> ")}, and \`${own}\` names no page type here`
+    }
+    const above = textAt(value, EXTENDS)
+    here = above === null ? null : slugIn(above)
+  }
+  return `\`${pageTypeSlug}\` cannot be read here`
+}
+
+export function declarationsFrom(pageTypeSlug: string, source: Source): readonly Carried[] {
+  const carried = declarationsIfNamed(pageTypeSlug, source)
+  if (carried === null) throw new Error(unreadable(pageTypeSlug, source))
+  return carried
+}
+
+function boundOver(carried: readonly Carried[]): readonly Carried[] {
+  const held: Carried[] = []
   const bound = new Set<string>()
-  for (const one of declarationsFrom(pageTypeSlug, source)) {
+  for (const one of carried) {
     const identity = identityOf(one)
     if (bound.has(identity)) continue
     bound.add(identity)
-    carried.push(one)
+    held.push(one)
   }
-  return carried
+  return held
+}
+
+export function propertiesIfNamed(pageTypeSlug: string, source: Source): readonly Carried[] | null {
+  const carried = declarationsIfNamed(pageTypeSlug, source)
+  return carried === null ? null : boundOver(carried)
+}
+
+export function propertiesFrom(pageTypeSlug: string, source: Source): readonly Carried[] {
+  return boundOver(declarationsFrom(pageTypeSlug, source))
 }
 
 export function identifyingFrom(source: Source): Identifying {
@@ -174,7 +211,7 @@ export function identifyingFrom(source: Source): Identifying {
     const found = held.get(pageTypeSlug)
     if (found !== undefined) return found
     const made = new Map<string, Identifier>()
-    for (const one of propertiesFrom(pageTypeSlug, source)) {
+    for (const one of propertiesIfNamed(pageTypeSlug, source) ?? []) {
       if (one.unique === null) continue
       made.set(one.pagePropertySlug, { key: one.key, reach: one.unique })
     }
