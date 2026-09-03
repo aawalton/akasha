@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const nervousSystemSensitivity = {
   id: "01a06594-c67b-700d-bbf5-f150c9523c9b",
