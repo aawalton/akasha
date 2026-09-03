@@ -12,6 +12,7 @@ export const day = {
     "module/eso-day",
     "module/new-york-wall",
     "module/mountain-day",
+    "module/mountain-wall",
   ],
   invariants: [
     {
