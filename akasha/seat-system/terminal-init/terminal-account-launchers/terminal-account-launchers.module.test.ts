@@ -30,7 +30,7 @@ describe("a new account", () => {
   const said = claudeNewAccountFn("cna")
 
   test("is named and given an address before any client opens", () => {
-    expect(said.indexOf("claude-account add")).toBeLessThan(said.indexOf("Launching login session"))
+    expect(said.indexOf("claude-account-add")).toBeLessThan(said.indexOf("Launching login session"))
   })
 
   test("named as nothing ends the launcher", () => {
