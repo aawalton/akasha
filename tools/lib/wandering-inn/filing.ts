@@ -1,5 +1,4 @@
 import { chapterWords as countChapterWords } from "@akasha/story-engine-core/chapter-words"
-import { askComposed, pageLanding } from "../page-query-client.ts"
 import {
   CHAPTER_PAGE_TYPE,
   chapterPageName,
@@ -7,7 +6,8 @@ import {
   publishedDayOf,
   STORY_PAGE_TYPE,
   STORY_SLUG,
-} from "./chapter.ts"
+} from "@akasha/wandering-inn/chapter"
+import { askComposed, pageLanding } from "../page-query-client.ts"
 
 const WRITER = "wandering-inn-sync"
 

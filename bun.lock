@@ -3139,6 +3139,7 @@
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
+        "@akasha/wandering-inn": "workspace:*",
       },
     },
   },

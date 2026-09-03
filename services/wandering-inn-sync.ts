@@ -1,15 +1,11 @@
-import {
-  chapterTitleOf,
-  isPatronTitle,
-  strippedOfTrailingNav,
-} from "../tools/lib/wandering-inn/chapter.ts"
+import { chapterTitleOf, isPatronTitle, strippedOfTrailingNav } from "@akasha/wandering-inn/chapter"
+import { type ListedChapter, openSite, type Site } from "@akasha/wandering-inn/site"
 import {
   assertStoryStands,
   fileChapter,
   filedChapterLinks,
 } from "../tools/lib/wandering-inn/filing.ts"
 import { type RunCounts, recordingRun } from "../tools/lib/wandering-inn/run-record.ts"
-import { type ListedChapter, openSite, type Site } from "../tools/lib/wandering-inn/site.ts"
 
 const SOURCE = "wandering-inn"
 const BETWEEN_CHAPTERS_MS = 1000
