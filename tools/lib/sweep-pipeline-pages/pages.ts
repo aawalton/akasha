@@ -1,3 +1,4 @@
+import { readUncommitted } from "@akasha/markdown-pages/uncommitted"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Row } from "@akasha/pages-system/page-derive-shape"
 import { UNREACHED } from "@akasha/pages-system/page-query-shape"
@@ -10,7 +11,6 @@ import {
   type Workflow,
   workflowIn,
 } from "@akasha/pipeline-sweep/pipeline-row-entities"
-import { readUncommitted } from "../../../page/uncommitted/uncommitted.ts"
 import { load } from "../page-query.ts"
 import { whereFor } from "../page-write-where.ts"
 

@@ -1,9 +1,8 @@
-
 import { readdirSync, readFileSync } from "node:fs"
-import { placeDirOf } from "../../page/page-types.ts"
+import { placeDirOf } from "@akasha/markdown-pages/page-types"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import type { CommandDocument } from "./surface.ts"
 import { sectionNamed, trimEdges } from "../lib/section.ts"
+import type { CommandDocument } from "./surface.ts"
 
 const EXT = ".md"
 const FENCE = "---"
@@ -22,9 +21,7 @@ function frontmatter(body: string): Record<string, string> {
   return found
 }
 
-export function commandDocuments(
-  repoRoot: string = akashaRoot()
-): readonly CommandDocument[] {
+export function commandDocuments(repoRoot: string = akashaRoot()): readonly CommandDocument[] {
   const dir = placeDirOf("old-ops-command")
   let names: readonly string[]
   try {

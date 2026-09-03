@@ -1,6 +1,6 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
+import type { FileTree } from "@akasha/markdown-pages/file-tree"
 import { parse } from "yaml"
-import { type FileTree } from "../../page/file-tree.ts"
 import { type Rendered, withoutDefaults } from "./page-property-types.ts"
 
 function readsBackAsWritten(one: string): boolean {

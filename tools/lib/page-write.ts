@@ -2,18 +2,21 @@ import { existsSync, mkdirSync, rmSync } from "node:fs"
 import { dirname } from "node:path"
 import { duringOneCall } from "@akasha/command-system/during-call"
 import { exclusively } from "@akasha/file-system/exclusive"
-import { patchUncommitted, removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
-import { attachmentFileOf, removeAttachment, writeAttachment } from "../../page/attachment-file.ts"
+import {
+  attachmentFileOf,
+  removeAttachment,
+  writeAttachment,
+} from "@akasha/markdown-pages/attachment-file"
+import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { partNumberOf, rowsFileOf, rowsPartOf, rowsPartsOf } from "@akasha/markdown-pages/rows-file"
+import { patchUncommitted, removeUncommitted } from "@akasha/markdown-pages/uncommitted"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { attachmentKeysFor } from "./page-attachment-keys.ts"
-import { type FileTree } from "../../page/file-tree.ts"
-import { diskFileTree } from "../../page/file-tree.ts"
 import { rowsHoldingsFor } from "./page-property-types.ts"
-import { partNumberOf, rowsFileOf, rowsPartOf, rowsPartsOf } from "../../page/rows-file.ts"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
 import { landOne } from "./page-write-commit.ts"
 import { patchedText, withId, withSeq } from "./page-write-compose.ts"
 import { frontOf, textIn } from "./page-write-text.ts"
-import { type Attachment, type Value, splitValues } from "./page-write-values.ts"
+import { type Attachment, splitValues, type Value } from "./page-write-values.ts"
 import { type Where, whereFor } from "./page-write-where.ts"
 
 export interface Taken {
@@ -29,7 +32,10 @@ export interface Written extends Where {
   readonly took?: readonly Taken[]
 }
 
-export function landAttachments(at: Where, attachments: Readonly<Record<string, Attachment>>): readonly string[] {
+export function landAttachments(
+  at: Where,
+  attachments: Readonly<Record<string, Attachment>>
+): readonly string[] {
   const landed: string[] = []
   for (const [key, one] of Object.entries(attachments)) {
     const changed = exclusively(attachmentFileOf(at.path, key, one.extension), () =>
@@ -142,8 +148,7 @@ export function patchPage(
     composing: [
       {
         relPath: at.relPath,
-        compose: (standing) =>
-          patchedText(roots, pageType, standing ?? "", split, at, clear, tree),
+        compose: (standing) => patchedText(roots, pageType, standing ?? "", split, at, clear, tree),
       },
     ],
     alongside,

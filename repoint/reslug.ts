@@ -1,18 +1,18 @@
 import { readFileSync } from "node:fs"
-import { advise, type Outcome, skip } from "@akasha/verdict/outcome"
-import { frontmatter as readBlock } from "../page/document/frontmatter.ts"
-import { Source } from "../page/document/position.ts"
-import type { FrontmatterValue, Repo } from "@akasha/pages-system/markdown-document"
-import { type FileTree, diskFileTree } from "../page/file-tree.ts"
-import { parseFrontmatter, textField } from "../page/frontmatter.ts"
-import { bullets, sectionNamed } from "../page/markdown/markdown.ts"
 import { fileStemOf } from "@akasha/file-page-identity"
-import { addressOf, addressParts } from "../page/page-address.ts"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { reposOf } from "../page/page-types.ts"
-import { compiledPageTypeFor } from "../page/property/frontmatter.ts"
-import { registryOf } from "../page/property/registry.ts"
+import { frontmatter as readBlock } from "@akasha/markdown-pages/document-frontmatter"
+import { Source } from "@akasha/markdown-pages/document-position"
+import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { parseFrontmatter, textField } from "@akasha/markdown-pages/frontmatter"
+import { addressOf, addressParts } from "@akasha/markdown-pages/page-address"
+import { reposOf } from "@akasha/markdown-pages/page-types"
+import { compiledPageTypeFor } from "@akasha/markdown-pages/property-frontmatter"
+import { registryOf } from "@akasha/markdown-pages/property-registry"
+import { bullets, sectionNamed } from "@akasha/markdown-pages/prose"
 import { isDirty, targetRoot } from "@akasha/pages-system/checkout-roots"
+import type { FrontmatterValue, Repo } from "@akasha/pages-system/markdown-document"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { advise, type Outcome, skip } from "@akasha/verdict/outcome"
 import type { Patch } from "./mention.ts"
 import type { Moves } from "./repoint.ts"
 
@@ -90,7 +90,10 @@ export function reslugged(moves: Moves, roots: Roots): Reslugged {
 
 function declaredBy(from: string, roots: Roots): string | null {
   if (isDirty(from) || !from.endsWith(".md")) return null
-  return textField(parseFrontmatter(readFileSync(`${targetRoot(roots)}/${from}`, "utf8")), SLUG_WORD)
+  return textField(
+    parseFrontmatter(readFileSync(`${targetRoot(roots)}/${from}`, "utf8")),
+    SLUG_WORD
+  )
 }
 
 function becomes(was: string, carried: Reslugged): string | null {
@@ -150,5 +153,9 @@ export function slugEdges(moves: Moves, roots: Roots): Outcome {
   if (notices.length === 0) {
     return skip("slug", "nothing being moved declares a domain whose name this rename changes")
   }
-  return advise("slug", `${notices.length} moved document(s) change the domain they declare`, notices)
+  return advise(
+    "slug",
+    `${notices.length} moved document(s) change the domain they declare`,
+    notices
+  )
 }

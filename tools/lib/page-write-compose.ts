@@ -1,15 +1,14 @@
-import { type FileTree } from "../../page/file-tree.ts"
-import { diskFileTree } from "../../page/file-tree.ts"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { pageTypePathIn } from "../../page/page-types.ts"
 import { idOfFilePage as pageId } from "@akasha/file-page-identity"
+import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { pageTypePathIn } from "@akasha/markdown-pages/page-types"
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { attachmentKeysFor } from "./page-attachment-keys.ts"
+import type { Rendered } from "./page-property-types.ts"
 import { statesNextSeq, takeSeqOf } from "./page-seq.ts"
 import { uncommittedKeysFor } from "./page-uncommitted-keys.ts"
-import { attachmentKeysFor } from "./page-attachment-keys.ts"
-import { type Rendered } from "./page-property-types.ts"
 import { bodyIn, frontOf, statedIn, textIn } from "./page-write-text.ts"
-import { type Split, type Value, splitValues } from "./page-write-values.ts"
+import { type Split, splitValues, type Value } from "./page-write-values.ts"
 import { type Where, whereFor } from "./page-write-where.ts"
 
 const PAGE_ID = "id"
@@ -19,8 +18,7 @@ export function withId(
   text: string,
   at: Where
 ): Record<string, Rendered> {
-  const held =
-    statedIn(text)[PAGE_ID] ?? front[PAGE_ID] ?? pageId(null, `${at.repo}:${at.relPath}`)
+  const held = statedIn(text)[PAGE_ID] ?? front[PAGE_ID] ?? pageId(null, `${at.repo}:${at.relPath}`)
   const rest = { ...front }
   delete rest[PAGE_ID]
   return { [PAGE_ID]: held as Rendered, ...rest }

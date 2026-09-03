@@ -1,5 +1,5 @@
-import { isAttachmentFile, isSourceAttachmentFile } from "../page/attachment-file.ts"
-import { isRowsFile } from "../page/rows-file.ts"
+import { isAttachmentFile, isSourceAttachmentFile } from "@akasha/markdown-pages/attachment-file"
+import { isRowsFile } from "@akasha/markdown-pages/rows-file"
 
 const GENERATED_DIR = /(^|\/)generated\//
 

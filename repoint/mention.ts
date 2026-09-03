@@ -1,10 +1,10 @@
 import { readFileSync } from "node:fs"
 import { decodeUtf8 } from "@akasha/code-system/utf8-body"
+import { trackedIn } from "@akasha/markdown-pages/tracked"
 import { targetRoot } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import { judge, type Outcome } from "@akasha/verdict/outcome"
-import { trackedIn } from "../page/tracked/tracked.ts"
 
 export const PATH_CHAR = /[A-Za-z0-9_./~$-]/
 export const PATH_TAIL = /[A-Za-z0-9_/-]/

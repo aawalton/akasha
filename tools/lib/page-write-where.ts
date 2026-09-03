@@ -1,23 +1,22 @@
 import { join } from "node:path"
-import { type FileTree } from "../../page/file-tree.ts"
-import { diskFileTree } from "../../page/file-tree.ts"
-import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { registryOf } from "../../page/property/registry.ts"
+import { fileStemOf as slugOf } from "@akasha/file-page-identity"
+import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { parseFrontmatter, textField } from "@akasha/markdown-pages/frontmatter"
+import { MARKDOWN } from "@akasha/markdown-pages/page-file"
 import {
-  SLUG,
   folderIn,
   newPageNameFor,
   placeDirOf,
   placesIn,
+  SLUG,
   scanIn,
   soleRepoOf,
   typeSlotOf,
-} from "../../page/page-types.ts"
-import { MARKDOWN } from "../../page/page-file.ts"
-import { fileStemOf as slugOf } from "@akasha/file-page-identity"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { textAt } from "../../page/text/text.ts"
+} from "@akasha/markdown-pages/page-types"
+import { registryOf } from "@akasha/markdown-pages/property-registry"
+import { textAt } from "@akasha/markdown-pages/text-at"
 import { isAddressable } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 export interface Where {
   readonly root: string

@@ -1,6 +1,5 @@
-
-import { type Documents } from "./domain.ts"
-import { textField } from "../../page/frontmatter.ts"
+import { textField } from "@akasha/markdown-pages/frontmatter"
+import type { Documents } from "./domain.ts"
 
 export const VALUE_KEY = "value-slug"
 

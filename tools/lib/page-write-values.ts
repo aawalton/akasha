@@ -1,6 +1,6 @@
+import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Value } from "@akasha/pages-system/page-query-request"
-import { diskFileTree, type FileTree } from "../../page/file-tree.ts"
 import { attachmentKeysFor } from "./page-attachment-keys.ts"
 import {
   asDeclared,

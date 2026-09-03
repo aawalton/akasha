@@ -1,8 +1,8 @@
+import type { FileTree } from "@akasha/markdown-pages/file-tree"
+import { compiledPageTypeFor } from "@akasha/markdown-pages/property-frontmatter"
+import { registryOf } from "@akasha/markdown-pages/property-registry"
+import type { Property } from "@akasha/pages-system/markdown-property"
 import { BODY } from "@akasha/pages-system/page-value-key"
-import type { FileTree } from "../../page/file-tree.ts"
-import { compiledPageTypeFor } from "../../page/property/frontmatter.ts"
-import type { Property } from "../../page/property/property.ts"
-import { registryOf } from "../../page/property/registry.ts"
 
 export { BODY }
 

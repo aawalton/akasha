@@ -1,7 +1,7 @@
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { trackedIn } from "../page/tracked/tracked.ts"
-import { normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { trackedIn } from "@akasha/markdown-pages/tracked"
 import { locate } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { normalizeAbsolute } from "@akasha/pages-system/repo-path"
 
 const TS_FOR_JS: readonly (readonly [string, string])[] = [
   [".js", ".ts"],

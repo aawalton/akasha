@@ -1,7 +1,19 @@
 export const summary = "Name a page type's files for their page type, and file them by that name"
 
 import { existsSync, readdirSync, readFileSync } from "node:fs"
+import { diskFileTree } from "@akasha/markdown-pages/file-tree"
+import {
+  type PageType,
+  pagesOf,
+  pageTypePathIn,
+  soleRepoOf,
+} from "@akasha/markdown-pages/page-types"
+import { registryOf } from "@akasha/markdown-pages/property-registry"
+import { blockOf, stringAt } from "@akasha/markdown-pages/text-at"
+import { AKASHA, resolveRoots, rootFor, targetRoot } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
+import { landMoves } from "../../../move/move.ts"
 import { land } from "../../lib/command.ts"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import {
@@ -14,13 +26,6 @@ import {
   suffixedPath,
 } from "../../lib/page-suffix.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { AKASHA, resolveRoots, rootFor, targetRoot } from "@akasha/pages-system/checkout-roots"
-import { diskFileTree } from "../../../page/file-tree.ts"
-import { landMoves } from "../../../move/move.ts"
-import { registryOf } from "../../../page/property/registry.ts"
-import { pagesOf, type PageType, pageTypePathIn, soleRepoOf } from "../../../page/page-types.ts"
-import { blockOf, stringAt } from "../../../page/text/text.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
@@ -96,7 +101,11 @@ function refusalsFor(root: string, relPaths: readonly string[], slug: string): r
   return refusals
 }
 
-function driftRefusal(repo: string, root: string, moves: ReadonlyMap<string, string>): string | null {
+function driftRefusal(
+  repo: string,
+  root: string,
+  moves: ReadonlyMap<string, string>
+): string | null {
   const drifted: string[] = []
   for (const [from, to] of moves) {
     const body = readFileSync(`${root}/${from}`, "utf8")

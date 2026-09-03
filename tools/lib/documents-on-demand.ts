@@ -1,13 +1,13 @@
 import { readFileSync } from "node:fs"
-import { listDocuments } from "./check.ts"
 import { fileStemOf } from "@akasha/file-page-identity"
-import { type Documents, DOMAIN_SLUG_KEY } from "./domain.ts"
-import { slugNamed } from "../../page/page-address.ts"
-import { type Frontmatter, parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { diskFileTree } from "../../page/file-tree.ts"
-import { domainKinds, domainKindTest } from "../../page/page-types.ts"
-import { registryOf } from "../../page/property/registry.ts"
+import { diskFileTree } from "@akasha/markdown-pages/file-tree"
+import { type Frontmatter, parseFrontmatter, textField } from "@akasha/markdown-pages/frontmatter"
+import { slugNamed } from "@akasha/markdown-pages/page-address"
+import { domainKinds, domainKindTest } from "@akasha/markdown-pages/page-types"
+import { registryOf } from "@akasha/markdown-pages/property-registry"
 import { AKASHA, isDirty } from "@akasha/pages-system/checkout-roots"
+import { listDocuments } from "./check.ts"
+import { DOMAIN_SLUG_KEY, type Documents } from "./domain.ts"
 
 export function documentsOnDemand(root: string): Documents {
   const parsed = new Map<string, Frontmatter | null>()

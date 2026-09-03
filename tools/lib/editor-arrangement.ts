@@ -1,15 +1,14 @@
-import { type FileTree } from "../../page/file-tree.ts"
-import { diskFileTree } from "../../page/file-tree.ts"
-import { registryOf } from "../../page/property/registry.ts"
-import { pagesOf, type PageType, reposOf } from "../../page/page-types.ts"
+import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { type PageType, pagesOf, reposOf } from "@akasha/markdown-pages/page-types"
+import { registryOf } from "@akasha/markdown-pages/property-registry"
+import { readUncommitted } from "@akasha/markdown-pages/uncommitted"
+import { isAddressable } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import { removePage, writePage } from "./page-write.ts"
 import { statedIn, textIn } from "./page-write-text.ts"
-import { type Value } from "./page-write-values.ts"
+import type { Value } from "./page-write-values.ts"
 import { whereFor } from "./page-write-where.ts"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { isAddressable } from "@akasha/pages-system/checkout-roots"
-import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
 
 export const WRITER = "editor-pages-writer"
 
@@ -118,7 +117,11 @@ export function pagesFor(arrangement: Arrangement): readonly Landing[] {
   ]
 }
 
-export function namesOf(roots: Roots, types: readonly PageType[], pageType: string): readonly string[] {
+export function namesOf(
+  roots: Roots,
+  types: readonly PageType[],
+  pageType: string
+): readonly string[] {
   const type = types.find((one) => one.slug === pageType)
   if (type === undefined) return []
   return reposOf(type).flatMap((repo) => {

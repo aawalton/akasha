@@ -1,6 +1,6 @@
-import { SLUG } from "../../page/page-types.ts"
-import { blockOf, stringAt } from "../../page/text/text.ts"
 import { idOfFilePage, slugOfFilePage } from "@akasha/file-page-identity"
+import { SLUG } from "@akasha/markdown-pages/page-types"
+import { blockOf, stringAt } from "@akasha/markdown-pages/text-at"
 
 export const MARKDOWN = ".md"
 

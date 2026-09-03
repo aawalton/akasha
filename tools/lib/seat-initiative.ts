@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { initiativesDrawn } from "@akasha/editor-extension/work-initiatives"
-import { addressParts } from "../../page/page-address.ts"
+import { addressParts } from "@akasha/markdown-pages/page-address"
 import { AKASHA } from "@akasha/pages-system/checkout-roots"
 import { pageTextOf } from "./seat-page-values.ts"
 

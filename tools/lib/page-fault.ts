@@ -1,4 +1,4 @@
-import { isAttachmentFile } from "../../page/attachment-file.ts"
+import { isAttachmentFile } from "@akasha/markdown-pages/attachment-file"
 
 export function noteUnreadable(
   faults: Set<string>,

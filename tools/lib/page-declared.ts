@@ -1,19 +1,19 @@
-import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { onceInCall } from "@akasha/command-system/during-call"
-import { rootsKey } from "../../page/file-tree.ts"
-import type { Held } from "./page-file-values.ts"
-import type { Property } from "../../page/property/property.ts"
-import type { Held as Declaring } from "../../page/property/stated.ts"
+import { rootsKey } from "@akasha/markdown-pages/file-tree"
 import {
+  type Filed,
   filedIn,
   PAGE_TYPE_GLOBS,
   repoPlacings,
   scanIn,
-  type Filed,
-} from "../../page/page-types.ts"
-import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
-import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
+} from "@akasha/markdown-pages/page-types"
+import type { Held as Declaring } from "@akasha/markdown-pages/property-stating"
+import { blockOf, stringAt, textAt } from "@akasha/markdown-pages/text-at"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
+import type { Property } from "@akasha/pages-system/markdown-property"
+import type { Held } from "./page-file-values.ts"
 
 export const FROM = "from"
 

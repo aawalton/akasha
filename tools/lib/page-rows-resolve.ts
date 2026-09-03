@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
-import { type FileTree, diskFileTree } from "../../page/file-tree.ts"
-import { registryOf } from "../../page/property/registry.ts"
+import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { registryOf } from "@akasha/markdown-pages/property-registry"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { type RowsHome, rowsHomesFor } from "../page/page-rows-home.ts"
 import { whereFor } from "./page-write-where.ts"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 const NONE = "none"
 
@@ -44,12 +44,7 @@ function standingAt(roots: Roots, tree: FileTree, pageType: string, name: string
   return at !== null && existsSync(at.path)
 }
 
-function heldBy(
-  roots: Roots,
-  tree: FileTree,
-  home: RowsHome,
-  parentName: string | null
-): RowsHome {
+function heldBy(roots: Roots, tree: FileTree, home: RowsHome, parentName: string | null): RowsHome {
   if (parentName === null) return home
   if (standingAt(roots, tree, home.parentType, parentName)) return home
   for (const slug of typesUnder(tree, home.parentType))

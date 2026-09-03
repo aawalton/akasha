@@ -1,19 +1,22 @@
 import { existsSync } from "node:fs"
 
 import { exclusively } from "@akasha/file-system/exclusive"
-import { uncommittedPathFor, readUncommitted, writeUncommitted } from "../../page/uncommitted/uncommitted.ts"
-import { uncommittedKeysFor } from "./page-uncommitted-keys.ts"
+import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import {
+  readUncommitted,
+  uncommittedPathFor,
+  writeUncommitted,
+} from "@akasha/markdown-pages/uncommitted"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { attachmentKeysFor } from "./page-attachment-keys.ts"
 import { declarationsFor } from "./page-property-types.ts"
-import { type FileTree } from "../../page/file-tree.ts"
-import { diskFileTree } from "../../page/file-tree.ts"
+import { uncommittedKeysFor } from "./page-uncommitted-keys.ts"
 import { landAttachments } from "./page-write.ts"
 import { commitAll } from "./page-write-commit.ts"
 import { patchedText } from "./page-write-compose.ts"
 import { rewritten, statedIn, textIn } from "./page-write-text.ts"
 import { splitValues, type Value } from "./page-write-values.ts"
 import { type Where, whereFor } from "./page-write-where.ts"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 export type Compared =
   | { readonly outcome: "won"; readonly at: Where; readonly commitError: string | null }
@@ -58,7 +61,8 @@ export function patchPageIfMatch(
   const uncommitted = uncommittedKeys.has(key)
   const split = splitValues(roots, pageType, values, tree)
   const uncommittedGone = clear.filter((one) => uncommittedKeys.has(one))
-  const alsoUncommitted = uncommitted || uncommittedGone.length > 0 || Object.keys(split.uncommitted).length > 0
+  const alsoUncommitted =
+    uncommitted || uncommittedGone.length > 0 || Object.keys(split.uncommitted).length > 0
   const swap = (): Compared => {
     if (!existsSync(at.path)) {
       return {
@@ -85,14 +89,19 @@ export function patchPageIfMatch(
       patchedText(roots, pageType, textIn(at.path), split, at, clear, tree)
     )
     if (Object.keys(split.uncommitted).length > 0 || uncommittedGone.length > 0) {
-      const held: Record<string, unknown> = { ...(readUncommitted(at.path) ?? {}), ...split.uncommitted }
+      const held: Record<string, unknown> = {
+        ...(readUncommitted(at.path) ?? {}),
+        ...split.uncommitted,
+      }
       for (const one of uncommittedGone) delete held[one]
       writeUncommitted(at.path, held)
     }
     const landed = [...(changed ? [at.relPath] : []), ...landAttachments(at, split.attachments)]
     return { outcome: "won", at, commitError: commitAll(at, landed, pageType, "patch", name, by) }
   }
-  return exclusively(at.path, () => (alsoUncommitted ? exclusively(uncommittedPathFor(at.path), swap) : swap()))
+  return exclusively(at.path, () =>
+    alsoUncommitted ? exclusively(uncommittedPathFor(at.path), swap) : swap()
+  )
 }
 
 export interface Said {

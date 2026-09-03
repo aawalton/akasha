@@ -1,6 +1,6 @@
 import { dirOf, relativeBetween, resolves } from "@akasha/code-system/code-path-between"
 import { fileStemOf } from "@akasha/file-page-identity"
-import { proseOnly } from "../page/markdown/markdown.ts"
+import { proseOnly } from "@akasha/markdown-pages/prose"
 import type { Patch } from "./mention.ts"
 
 const LINK_RE = /\[([^\]]*)\]\(([^)]+)\)/g

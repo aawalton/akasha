@@ -1,3 +1,4 @@
+import { addressOf } from "@akasha/markdown-pages/page-address"
 import type { Page } from "../daily-tracking/tracking-types.ts"
 import { dataError } from "../exit.ts"
 import {
@@ -9,7 +10,6 @@ import {
   removeRow,
   rowLanding,
 } from "../page-query-client.ts"
-import { addressOf } from "../../../page/page-address.ts"
 import { landAkashaDayPage, landAkashaSessionRow } from "./akasha-day.ts"
 import { pageOf } from "./pages.ts"
 

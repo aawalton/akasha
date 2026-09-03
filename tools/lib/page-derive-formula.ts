@@ -1,13 +1,13 @@
 import {
-  checkFormula,
-  runFormula,
   type Checked,
+  checkFormula,
   type DeclaredType,
+  runFormula,
   type Shape,
   type Value as Worked,
 } from "@akasha/pages-formula"
 import { heldBy, valuedAs } from "@akasha/pages-formula/held"
-import type { Property } from "../../page/property/property.ts"
+import type { Property } from "@akasha/pages-system/markdown-property"
 import { EXPRESSION } from "./page-declared.ts"
 import type { Held } from "./page-file-values.ts"
 
@@ -52,7 +52,9 @@ export function formulasOver(
     if (had !== undefined) return had
     const read = checkFormula(declaration.expression as string, shapeOf(kind))
     if (!read.ok) {
-      note(`\`${declaration.slug}\` states an \`${EXPRESSION}\` this evaluator refuses: ${read.message}`)
+      note(
+        `\`${declaration.slug}\` states an \`${EXPRESSION}\` this evaluator refuses: ${read.message}`
+      )
       held.set(mark, null)
       return null
     }

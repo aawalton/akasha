@@ -1,6 +1,12 @@
 import { fileStemOf } from "@akasha/file-page-identity"
+import { diskFileTree } from "@akasha/markdown-pages/file-tree"
+import { slugNamed } from "@akasha/markdown-pages/page-address"
+import { placeOf, scanIn } from "@akasha/markdown-pages/page-types"
+import { declarationsFromFiles } from "@akasha/markdown-pages/property-declarations"
+import { NONE, textAt } from "@akasha/markdown-pages/text-at"
 import { isAddressable } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Property } from "@akasha/pages-system/markdown-property"
 import {
   type Carries,
   type Deriver,
@@ -8,12 +14,6 @@ import {
   WALK_BOUND,
 } from "@akasha/pages-system/page-derive-shape"
 import { keptIn, narrowing } from "@akasha/pages-system/page-narrow"
-import { diskFileTree } from "../../page/file-tree.ts"
-import { slugNamed } from "../../page/page-address.ts"
-import { placeOf, scanIn } from "../../page/page-types.ts"
-import { declarationsFromFiles } from "../../page/property/declarations.ts"
-import type { Property } from "../../page/property/property.ts"
-import { NONE, textAt } from "../../page/text/text.ts"
 import { akashaValuesAt, isAkashaPage } from "./akasha-page-values.ts"
 import { codeValueFor } from "./page-code-values.ts"
 import {

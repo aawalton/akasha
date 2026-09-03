@@ -1,13 +1,13 @@
 import { readFileSync } from "node:fs"
 import { exclusively } from "@akasha/file-system/exclusive"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { PENDING, STEP, STEP_TERMINAL } from "@akasha/pipeline-sweep/pipeline-page-statuses"
-import { parseFrontmatter, textField } from "../../../page/frontmatter.ts"
+import { parseFrontmatter, textField } from "@akasha/markdown-pages/frontmatter"
 import {
   readUncommitted,
   uncommittedPathFor,
   writeUncommitted,
-} from "../../../page/uncommitted/uncommitted.ts"
+} from "@akasha/markdown-pages/uncommitted"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { PENDING, STEP, STEP_TERMINAL } from "@akasha/pipeline-sweep/pipeline-page-statuses"
 import { patchPage } from "../page-write.ts"
 import type { Value } from "../page-write-values.ts"
 import { whereFor } from "../page-write-where.ts"

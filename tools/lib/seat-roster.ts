@@ -1,4 +1,4 @@
-import { slugNamed } from "../../page/page-address.ts"
+import { slugNamed } from "@akasha/markdown-pages/page-address"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { akashaSeatsInHistory } from "./seat-akasha-history.ts"
 import { akashaSeatsStated } from "./seat-akasha-read.ts"
@@ -104,9 +104,7 @@ export function seatsAbsent(): readonly Seated[] {
   for (const one of standing) {
     if (one.presence === "absent") byId.set(one.id, one)
   }
-  const live = new Set(
-    standing.filter((one) => one.presence !== "absent").map((one) => one.id)
-  )
+  const live = new Set(standing.filter((one) => one.presence !== "absent").map((one) => one.id))
   for (const [id, held] of akashaSeatsInHistory(rootFor(resolveRoots(), AKASHA))) {
     if (live.has(id)) continue
     const seated = seatedFrom(held.values, nameInPath(held.path), held.atMs)

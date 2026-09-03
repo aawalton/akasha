@@ -7,6 +7,7 @@ import {
 } from "@akasha/code-system/code-runtime-path"
 import { decodeUtf8 } from "@akasha/code-system/utf8-body"
 import { fileStemOf } from "@akasha/file-page-identity"
+import { trackedIn } from "@akasha/markdown-pages/tracked"
 import {
   isAddressable,
   isDirty,
@@ -19,7 +20,6 @@ import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import { judge, type Outcome, over, skip } from "@akasha/verdict/outcome"
 import { isGeneratedFile } from "../generated-file/generated-file.ts"
-import { trackedIn } from "../page/tracked/tracked.ts"
 import { type Held, heldIn, namesMoved } from "./held.ts"
 import { linkPatches } from "./link.ts"
 import {

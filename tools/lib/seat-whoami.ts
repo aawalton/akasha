@@ -1,11 +1,11 @@
 import { basename } from "node:path"
-import { slugNamed } from "../../page/page-address.ts"
-import { attributesOf, recordedModeOf } from "./attributes.ts"
+import { slugNamed } from "@akasha/markdown-pages/page-address"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { attributesOf, recordedModeOf } from "./attributes.ts"
 import { frontmatterFromHistory, nameFromHistory } from "./seat-page-history.ts"
-import { principalOf, principalSeatIdOf } from "./seat-principal.ts"
 import { pageTextOf } from "./seat-page-values.ts"
 import { seatIdForName, seatNameForAgent } from "./seat-presence-read.ts"
+import { principalOf, principalSeatIdOf } from "./seat-principal.ts"
 
 const PAGE_SUFFIX = ".md"
 

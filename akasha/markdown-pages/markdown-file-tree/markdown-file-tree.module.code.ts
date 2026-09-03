@@ -1,0 +1,53 @@
+import { onceInCall } from "@akasha/command-system/during-call"
+import { AKASHA, repos, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import {
+  repoPlacings,
+  scanSpanning,
+} from "../markdown-page-types/markdown-page-types.module.code.ts"
+import { textAt } from "../markdown-text-at/markdown-text-at.module.code.ts"
+
+export type Open = (relPath: string) => string | null
+
+export interface FileTree {
+  readonly paths: (glob: string | readonly string[]) => readonly string[]
+  readonly open: Open
+  readonly repoOf: (slug: string) => string | null
+  readonly root?: string
+  readonly roots?: Roots
+  readonly pending?: ReadonlySet<string>
+}
+
+function openAcross(roots: Roots): Open {
+  return (relPath: string): string | null => {
+    for (const repo of repos()) {
+      const root = roots[repo]
+      if (root === undefined) continue
+      const text = textAt(root, relPath)
+      if (text !== null) return text
+    }
+    return null
+  }
+}
+
+function builtDiskTree(roots: Roots): FileTree {
+  const placed = repoPlacings(roots)
+  return {
+    root: rootFor(roots, AKASHA),
+    roots,
+    pending: new Set<string>(),
+    paths: (glob) => scanSpanning(roots, typeof glob === "string" ? [glob] : glob),
+    open: openAcross(roots),
+    repoOf: (slug) => placed.get(slug) ?? null,
+  }
+}
+
+export function rootsKey(roots: Roots): string {
+  return repos()
+    .map((repo) => roots[repo] ?? "")
+    .join("|")
+}
+
+export function diskFileTree(roots: Roots): FileTree {
+  return onceInCall(`disk:${rootsKey(roots)}`, () => builtDiskTree(roots))
+}

@@ -1,3 +1,4 @@
+import { attachmentPathFor } from "@akasha/markdown-pages/attachment-file"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { canonicalize } from "@akasha/pages-system/repo-path"
@@ -6,7 +7,6 @@ import type {
   Workflow,
   WorkflowKind,
 } from "@akasha/workflow-language/workflow-types"
-import { attachmentPathFor } from "../../../page/attachment-file.ts"
 import { answer } from "../page-query.ts"
 
 export const WORKFLOW_TEMPLATE_PAGE_TYPE = "workflow-template"

@@ -11,7 +11,7 @@ import { afterEach, describe, expect, test } from "bun:test"
 import { existsSync, mkdtempSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { rowsFileOf } from "../../page/rows-file.ts"
+import { rowsFileOf } from "@akasha/markdown-pages/rows-file"
 import { rowsPartsFor } from "./page-write.ts"
 
 const PAGE = "day-2026-03-05.daily-tracking.md"
@@ -52,7 +52,10 @@ describe("every file one property's rows are in", () => {
       "day-2026-03-05.daily-tracking.sessions.part3.jsonl",
       "day-2026-03-05.daily-tracking.completed-tasks.jsonl",
     ])
-    for (const one of rowsPartsFor(rowsFileOf(join(at, PAGE), "sessions"), rowsFileOf(PAGE, "sessions"))) {
+    for (const one of rowsPartsFor(
+      rowsFileOf(join(at, PAGE), "sessions"),
+      rowsFileOf(PAGE, "sessions")
+    )) {
       rmSync(one.path, { force: true })
     }
     expect(readdirSync(at)).toEqual(["day-2026-03-05.daily-tracking.completed-tasks.jsonl"])
@@ -67,7 +70,9 @@ describe("every file one property's rows are in", () => {
     expect(found.map((one) => one.at)).toEqual([
       "day-2026-03-05.daily-tracking.sessions.part2.jsonl",
     ])
-    expect(existsSync(join(at, "day-2026-03-05.daily-tracking.completed-tasks.part2.jsonl"))).toBe(true)
+    expect(existsSync(join(at, "day-2026-03-05.daily-tracking.completed-tasks.part2.jsonl"))).toBe(
+      true
+    )
   })
 
   test("rows kept outside the commit are divided by the same rule", () => {
@@ -88,7 +93,9 @@ describe("every file one property's rows are in", () => {
 
   test("a property with nothing on disk is nothing to take away", () => {
     const at = dirHolding([])
-    expect(rowsPartsFor(rowsFileOf(join(at, PAGE), "sessions"), rowsFileOf(PAGE, "sessions"))).toEqual([])
+    expect(
+      rowsPartsFor(rowsFileOf(join(at, PAGE), "sessions"), rowsFileOf(PAGE, "sessions"))
+    ).toEqual([])
   })
 
   test("a page folder that is not there is answered rather than thrown at", () => {

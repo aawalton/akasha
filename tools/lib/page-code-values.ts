@@ -1,6 +1,6 @@
 import { stageOf } from "@akasha/code-system/shape-progress"
+import type { Property } from "@akasha/pages-system/markdown-property"
 import { seatIsAttached } from "@akasha/seat-system/seat-attached"
-import type { Property } from "../../page/property/property.ts"
 import type { Held } from "./page-file-values.ts"
 import type { Reached } from "./page-reach.ts"
 import { type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"

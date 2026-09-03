@@ -1,4 +1,4 @@
-import type { FileTree } from "../../page/file-tree.ts"
+import type { FileTree } from "@akasha/markdown-pages/file-tree"
 import { declarationsFor } from "./page-property-types.ts"
 
 export function uncommittedKeysFor(tree: FileTree, pageType: string): ReadonlySet<string> {

@@ -1,9 +1,9 @@
 import { readFileSync } from "node:fs"
-import { PAGE_BODY_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../../page/page-types.ts"
-import { refusalText } from "../../refusal/refusal.ts"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { isInside, normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { PAGE_BODY_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "@akasha/markdown-pages/page-types"
+import { refusalText } from "@akasha/markdown-pages/refusal-text"
 import { AKASHA, targetRepo, targetRoot } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { isInside, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import { proseOnly } from "./markdown.ts"
 
 const SCHEME_RE = /^[a-z][a-z0-9+.-]*:/i

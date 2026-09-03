@@ -1,7 +1,7 @@
+import { placeOf } from "@akasha/markdown-pages/page-types"
 import { isAddressable } from "@akasha/pages-system/checkout-roots"
+import type { Property } from "@akasha/pages-system/markdown-property"
 import type { Backed, Relation } from "@akasha/pages-system/page-derive-shape"
-import { placeOf } from "../../page/page-types.ts"
-import type { Property } from "../../page/property/property.ts"
 import type { Kind } from "./page-declared.ts"
 
 export interface Backing {

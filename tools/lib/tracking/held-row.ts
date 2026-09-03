@@ -1,7 +1,8 @@
+import { addressOf } from "@akasha/markdown-pages/page-address"
 import { askComposed } from "../page-query-client.ts"
-import { addressOf } from "../../../page/page-address.ts"
 
 const PAGE_TYPE_PAGE_TYPE = "page-type"
+
 import { dataError } from "../exit.ts"
 import { kebabizeKey } from "./keys.ts"
 

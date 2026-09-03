@@ -1,7 +1,7 @@
+import type { Property } from "@akasha/pages-system/markdown-property"
 import { fallbackOf, OVER, REDUCTION, RELATION, TARGET } from "./page-declared.ts"
-import type { Property } from "../../page/property/property.ts"
-import type { Held, Values } from "./page-file-values.ts"
 import { foundIn } from "./page-derive-index.ts"
+import type { Held, Values } from "./page-file-values.ts"
 
 export const NUMBER = "number"
 
@@ -83,7 +83,9 @@ export function along(
   const declaration = reach.declarationFor(page.kind, first)
   const target = declaration?.target ?? null
   if (target === null) {
-    reach.fault(`\`${first}\` on \`${page.kind}\` names no \`${TARGET}\`, so a path cannot be walked past it`)
+    reach.fault(
+      `\`${first}\` on \`${page.kind}\` names no \`${TARGET}\`, so a path cannot be walked past it`
+    )
     return null
   }
   const index = reach.indexFor(target, declaration?.slugProperty ?? null)

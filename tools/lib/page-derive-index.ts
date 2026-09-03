@@ -1,7 +1,10 @@
-import { slugNamed } from "../../page/page-address.ts"
+import { slugNamed } from "@akasha/markdown-pages/page-address"
 import type { Reached } from "./page-reach.ts"
 
-export function foundIn<Found>(index: ReadonlyMap<string, Found>, named: string): Found | undefined {
+export function foundIn<Found>(
+  index: ReadonlyMap<string, Found>,
+  named: string
+): Found | undefined {
   return index.get(named) ?? index.get(slugNamed(named))
 }
 

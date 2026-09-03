@@ -2,6 +2,7 @@ import type { Rule } from "@akasha/email-watch/email-rule-reading"
 import { rulesOf } from "@akasha/email-watch/email-rule-reading"
 import { emailRuleSet, ruleFolderOf, ruleLocation } from "@akasha/email-watch/email-rule-set"
 import type { Message } from "@akasha/google-email/gmail-mailbox"
+import { refusalText } from "@akasha/markdown-pages/refusal-text"
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Condition } from "@akasha/rules-engine/rule-conditions"
 import {
@@ -11,7 +12,6 @@ import {
   type Matchable,
   matches,
 } from "@akasha/rules-engine/rule-partition"
-import { refusalText } from "../../refusal/refusal.ts"
 import type { RepoView } from "./check.ts"
 import type { Group, Meeting, Printers, RuleSubject, Unreadable } from "./rules-subject.ts"
 

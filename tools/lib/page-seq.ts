@@ -2,7 +2,7 @@ import { spawnSync } from "node:child_process"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { exclusively } from "@akasha/file-system/exclusive"
-import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
+import { parseFrontmatter, textField } from "@akasha/markdown-pages/frontmatter"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { landBodies } from "./gated-landing.ts"
 

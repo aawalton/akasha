@@ -1,3 +1,4 @@
+import type { Frontmatter } from "@akasha/markdown-pages/frontmatter"
 import {
   everyOfType,
   everyPath,
@@ -8,7 +9,6 @@ import {
   type Value,
   valueAt,
 } from "../../akasha/pages-system/pages/value/page-value.module.code.ts"
-import type { Frontmatter } from "../../page/frontmatter.ts"
 
 const DOMAIN = "domain"
 

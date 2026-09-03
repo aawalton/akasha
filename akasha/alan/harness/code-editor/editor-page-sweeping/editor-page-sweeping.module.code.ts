@@ -1,3 +1,5 @@
+import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { registryOf } from "@akasha/markdown-pages/property-registry"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import {
@@ -13,8 +15,6 @@ import { removePage } from "@tools/lib/page-write"
 import { whereFor } from "@tools/lib/page-write-where"
 import { frontmatterOf } from "@tools/lib/seat-presence-read"
 import { type SeatPresence, statedProcessPresence } from "@tools/lib/seat-proc-key"
-import { diskFileTree, type FileTree } from "../../../../../page/file-tree.ts"
-import { registryOf } from "../../../../../page/property/registry.ts"
 
 function processPresence(
   roots: Roots,

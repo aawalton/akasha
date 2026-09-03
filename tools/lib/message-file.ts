@@ -1,16 +1,19 @@
-import { existsSync, readFileSync, readdirSync, statSync } from "node:fs"
-import { parseFrontmatter } from "../../page/frontmatter.ts"
-import { MARKDOWN } from "../../page/page-file.ts"
+import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
+import { parseFrontmatter } from "@akasha/markdown-pages/frontmatter"
+import { MARKDOWN } from "@akasha/markdown-pages/page-file"
+import { placeDirOf } from "@akasha/markdown-pages/page-types"
+import {
+  patchUncommitted,
+  readUncommitted,
+  removeUncommitted,
+} from "@akasha/markdown-pages/uncommitted"
 import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { landBodies, landRemovals } from "./gated-landing.ts"
 import { akashaSeatIdForName } from "./seat-akasha-beside.ts"
-import { patchUncommitted, readUncommitted, removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
-import { placeDirOf } from "../../page/page-types.ts"
 
 const PAGE_TYPE = "message"
 
 const MESSAGES = placeDirOf(PAGE_TYPE)
-
 
 const PAGE_SUFFIX = `.${PAGE_TYPE}${MARKDOWN}`
 

@@ -1,6 +1,6 @@
+import { type Frontmatter, listField, textField } from "@akasha/markdown-pages/frontmatter"
+import { addressOf, slugNamed } from "@akasha/markdown-pages/page-address"
 import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
-import { type Frontmatter, listField, textField } from "../../page/frontmatter.ts"
-import { addressOf, slugNamed } from "../../page/page-address.ts"
 import { closure } from "./closure.ts"
 
 export const DOMAIN_SLUG_KEY = "slug"

@@ -1,5 +1,4 @@
-
-import { slugNamed } from "../../page/page-address.ts"
+import { slugNamed } from "@akasha/markdown-pages/page-address"
 import { pageTextOf, pageValuesOf } from "./seat-page-values.ts"
 import { seatNameForAgent } from "./seat-presence-read.ts"
 

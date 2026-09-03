@@ -1,7 +1,7 @@
+import { parseFrontmatter } from "@akasha/markdown-pages/frontmatter"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { narrowed } from "@akasha/pages-system/page-query-narrow"
 import type { PageQuery, Reduction } from "@akasha/pages-system/page-query-shape"
-import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { documentFrom } from "./page-query-bind.ts"
 
 const REDUCTIONS: readonly string[] = ["sum", "mean"]

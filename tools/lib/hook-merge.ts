@@ -1,4 +1,4 @@
-import { refusalText } from "../../refusal/refusal.ts"
+import { refusalText } from "@akasha/markdown-pages/refusal-text"
 import { canonicalize } from "@akasha/pages-system/repo-path"
 
 export const KEY_FIELDS = ["shell", "command", "args", "if"] as const
