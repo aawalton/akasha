@@ -7,6 +7,9 @@ export const pagesFormula = {
   definition: "the small language a page's own values are worked out in",
   manifest: "json",
   partSlugs: [
+    "list/formula-functions",
+    "list/formula-operators",
+    "list/formula-values",
     "module/formula-check",
     "module/formula-held",
     "module/formula-language",

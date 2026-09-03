@@ -22,6 +22,7 @@ export const codeCheck = {
   pluralSlug: "code-checks",
   partSlugs: [
     "boolean-property/runs-on-audit",
+    "list/code-comment-forms",
     "boolean-property/runs-on-deploy",
     "boolean-property/runs-on-patch",
     "boolean-property/runs-on-worktree",

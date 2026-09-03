@@ -8,6 +8,7 @@ export const commandSystem = {
   manifest: "json",
   partSlugs: [
     "page-type/command",
+    "list/ops-namespaces-to-review",
     "module/calling",
     "module/landing",
     "module/cli",
