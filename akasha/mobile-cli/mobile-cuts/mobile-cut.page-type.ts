@@ -1,4 +1,22 @@
+import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { AppSlug } from "../../readout-system/readout-widgets/properties/app-slug.relation-property.ts"
+import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
+import type { BuildInputTreeHash } from "./properties/build-input-tree-hash.text-property.ts"
+import type { BuildNumber } from "./properties/build-number.number-property.ts"
+import type { CutAt } from "./properties/cut-at.instant-property.ts"
+import type { MainSha } from "./properties/main-sha.text-property.ts"
+import type { ShellSha } from "./properties/shell-sha.text-property.ts"
+
+export type MobileCut = Page & {
+  title: Title
+  appSlug: AppSlug
+  buildNumber: BuildNumber
+  mainSha: MainSha
+  shellSha?: ShellSha
+  buildInputTreeHash?: BuildInputTreeHash
+  cutAt: CutAt
+}
 
 export const mobileCut = {
   id: "019f5141-c410-7cd1-b491-d017f10e568d",
@@ -7,7 +25,22 @@ export const mobileCut = {
   definition: "one build of an app, and the state of the tree it was built from",
   pluralSlug: "mobile-cuts",
   extendsSlug: "page-type/page",
-  properties: [],
+  partSlugs: [
+    "instant-property/cut-at",
+    "number-property/build-number",
+    "text-property/build-input-tree-hash",
+    "text-property/main-sha",
+    "text-property/shell-sha",
+  ],
+  properties: [
+    { pagePropertySlug: "title", required: true, many: false },
+    { pagePropertySlug: "relation-property/app-slug", required: true, many: false },
+    { pagePropertySlug: "build-number", required: true, many: false },
+    { pagePropertySlug: "main-sha", required: true, many: false },
+    { pagePropertySlug: "shell-sha", required: false, many: false },
+    { pagePropertySlug: "build-input-tree-hash", required: false, many: false },
+    { pagePropertySlug: "cut-at", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -24,12 +57,13 @@ export const mobileCut = {
         "Which cut is newest is settled by its build number rather than by when its file landed.",
     },
     {
-      invariantKind: "gap",
-      statement: "What a cut remembers of its build stands as properties of this page type.",
+      invariantKind: "departure",
+      statement: "A cut names the app it is of rather than repeating what that app is.",
     },
     {
       invariantKind: "gap",
-      statement: "The cuts of this type stand as markdown outside akasha.",
+      statement:
+        "The cut fingerprint module reads and files cuts as markdown rather than from here.",
     },
   ],
 } as const satisfies PageType
