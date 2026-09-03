@@ -32,5 +32,9 @@ export const storyChapterWritten = {
       invariantKind: "departure",
       statement: "A chapter's slug opens with the story the chapter is part of.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A chapter's text from before a rewrite is kept in git rather than in a page.",
+    },
   ],
 } as const satisfies PageType

@@ -68,6 +68,19 @@ export const storyEngine = {
     },
     {
       invariantKind: "departure",
+      statement: "A chapter tells what happens next rather than states what is so.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which of read, written and played a chapter is settles which page type the chapter is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The source a chapter came from is no page type of its own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What is true in a world that no story has told is a sketch.",
     },
     {

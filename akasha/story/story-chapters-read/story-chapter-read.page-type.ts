@@ -4,6 +4,7 @@ import type { ExternalLink } from "../../collection-system/collection-externals/
 import type { OwnLength } from "../../collection-system/collections/properties/own-length.number-property.ts"
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
+import type { ChronologyAnchors } from "./properties/chronology-anchors.page-property-entry.ts"
 import type { RemovedAt } from "./properties/removed-at.instant-property.ts"
 
 export type StoryChapterRead = CollectionExternal & {
@@ -12,6 +13,7 @@ export type StoryChapterRead = CollectionExternal & {
   externalLink: ExternalLink
   prose: Prose
   removedAt?: RemovedAt
+  chronologyAnchors?: ChronologyAnchors
 }
 
 export const storyChapterRead = {
@@ -53,13 +55,27 @@ export const storyChapterRead = {
     orderBy: "position",
     direction: "asc",
   },
-  partSlugs: ["instant-property/removed-at"],
+  partSlugs: [
+    "instant-property/removed-at",
+    "number-property/anchor-beat",
+    "number-property/anchor-volume",
+    "page-property-entry/chronology-anchors",
+    "select-property/anchor-direction",
+    "select-property/anchor-kind",
+    "select-property/anchor-standing",
+    "select-property/anchor-tier",
+    "text-property/anchor-chapter",
+    "text-property/anchor-claimed-by",
+    "text-property/anchor-lexeme",
+    "text-property/anchor-reference",
+  ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "own-length", required: true, many: false },
     { pagePropertySlug: "external-link", required: true, many: false },
     { pagePropertySlug: "prose", required: true, many: false },
     { pagePropertySlug: "removed-at", required: false, many: false },
+    { pagePropertySlug: "chronology-anchors", required: false, many: false },
   ],
   invariants: [
     {

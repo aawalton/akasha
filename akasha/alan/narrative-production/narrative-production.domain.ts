@@ -5,4 +5,15 @@ export const narrativeProduction = {
   pageTypeSlug: "domain",
   slug: "narrative-production",
   definition: "turning a story into narration and illustration",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A picture is made for one chapter.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A chapter's picture is rendered from the chapter rather than kept as a page of its own.",
+    },
+  ],
 } as const satisfies Domain
