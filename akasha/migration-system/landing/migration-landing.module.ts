@@ -34,11 +34,25 @@ export const migrationLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "Every batch lands through `landedMechanically`.",
+      statement:
+        "Every batch lands through the landing `migration-checked-landing` chooses for that batch.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A batch that only writes over files already standing lands through `landedMechanically`.",
     },
     {
       invariantKind: "departure",
       statement: "`landedMechanically` runs no check and no warrant.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch that puts up a page or takes a file away lands through `landedChecked`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller stating its own landing lands every batch through that landing.",
     },
     {
       invariantKind: "departure",
