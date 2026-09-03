@@ -39,12 +39,15 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
+function rooted(
+  fileProperties: readonly string[] = ["code", "test"],
+  declares: readonly string[] = fileProperties
+): string {
   const root = scratch.rootFor("akasha-property-filed-")
   noPathsFiled(root)
   for (const one of ["module", "check", "domain", "page-type"]) {
     filing(root, "page-type", one, `${ID.slice(0, -1)}${one.length}`)
-    carrying(root, one, fileProperties)
+    carrying(root, one, declares)
   }
   declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
   declaring(root, "slug", { pageTypeSlug: "text-property", unique: "page-type" })
@@ -151,6 +154,8 @@ test("which properties are held in a file is read from the index, not from a lis
   ])
 })
 
+const DECLARES_CODE = ', properties: [{ pagePropertySlug: "code", required: false, many: false }]'
+
 test("a page named for a page type the change itself carries is judged", () => {
   const root = rooted()
   const type = "akasha/x/oddity.page-type.ts"
@@ -158,7 +163,7 @@ test("a page named for a page type the change itself carries is judged", () => {
   const code = "akasha/b/new.oddity.code.ts"
   const said = judged(
     over(root, [type, page], {
-      [type]: body("", "oddity", "page-type", `${ID.slice(0, -1)}5`),
+      [type]: body(DECLARES_CODE, "oddity", "page-type", `${ID.slice(0, -1)}5`),
       [page]: body(', code: "ts"', "new", "oddity", `${ID.slice(0, -1)}6`),
       [code]: null,
     })
@@ -169,7 +174,7 @@ test("a page named for a page type the change itself carries is judged", () => {
 })
 
 test("a file property the change itself introduces is asked for its file", () => {
-  const root = rooted(["code"])
+  const root = rooted(["code"], ["code", "notes"])
   const property = "akasha/x/notes.file-property.ts"
   const notes = "akasha/a/held.module.notes.md"
   const said = judged(
@@ -254,7 +259,7 @@ test("a property naming a file relabels no file the grammar built", () => {
 })
 
 test("a page stating a file its property names, standing nowhere, is refused by that property", () => {
-  const root = rooted()
+  const root = rooted(["code", "test"], ["code", "test", "manifest"])
   declaring(root, "manifest", {
     pageTypeSlug: "named-file-property",
     unique: null,

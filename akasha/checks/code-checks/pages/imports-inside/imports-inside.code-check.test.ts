@@ -4,7 +4,11 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { noPathsFiled } from "@akasha/indexes/testing"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import { bodiesIn, bytesOf } from "@akasha/testing-system/bodying"
-import { declaring, landing } from "../../../modules/check-scratch/check-scratch.module.code.ts"
+import {
+  carrying,
+  declaring,
+  landing,
+} from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import {
   importsInside,
   reachedBy,
@@ -220,6 +224,7 @@ function manifested(): string {
     unique: null,
     fileName: "package.json",
   })
+  carrying(root, "workspace-package", ["manifest"])
   return root
 }
 

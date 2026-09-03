@@ -5,7 +5,7 @@ import { idFiled, listedFiled, pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { declaring } from "../../../modules/check-scratch/check-scratch.module.code.ts"
+import { carrying, declaring } from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   ancestorsOf,
@@ -284,6 +284,7 @@ const MANIFEST = { pageTypeSlug: "named-file-property", unique: null, fileName: 
 test("a file a page claims under the name its property states is no stray", () => {
   const root = rooted()
   declaring(root, "manifest", MANIFEST)
+  carrying(root, "page-type", ["manifest"], "page")
   const said = judged(
     arriving(root, {
       "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(30)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null, manifest: "json" }\n`,

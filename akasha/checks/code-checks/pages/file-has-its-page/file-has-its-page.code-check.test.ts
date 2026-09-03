@@ -20,12 +20,15 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
+function rooted(
+  fileProperties: readonly string[] = ["code", "test"],
+  declares: readonly string[] = fileProperties
+): string {
   const root = scratch.rootFor("akasha-claimed-")
   noPathsFiled(root)
   for (const one of KINDS) {
     filing(root, "page-type", one, `${ID.slice(0, -1)}${one.length}`)
-    carrying(root, one, fileProperties)
+    carrying(root, one, declares)
   }
   declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
   for (const one of fileProperties)
@@ -115,7 +118,7 @@ test("which properties name a file is read from the index, not from a list in th
 })
 
 test("a file property the change itself introduces names its file", () => {
-  const root = rooted(["code"])
+  const root = rooted(["code"], ["code", "notes"])
   const bodies = {
     "akasha/x/notes.file-property.ts": pageBody(
       "notes",
