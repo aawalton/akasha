@@ -11,7 +11,7 @@ export const awenMigrateStoryEngineToAkasha = {
     {
       statement: "Every world, story, chapter and turn the story engine keeps is a page in akasha.",
       workingMemory:
-        "149 worlds, 13 stories and 123 chapters are pages, their markdown gone at `09a6112fe2`, `d34c77b0aa` and `fde71649a6`. Left: 139 turns and 8 games. Prose over the 15,000 byte file ceiling is split into the numbered files `page-file-parts` defines, the first unsuffixed and the rest `.part2` on; 99 chapters needed it. A page type lands before its pages, since `runsTabooCheck` is read from the index. Ids are v5 and re-mint to v7 keeping the last eight hex.",
+        "149 worlds, 13 stories, 123 chapters and 139 turns are pages, their markdown gone at `09a6112fe2`, `d34c77b0aa`, `fde71649a6` and `e09bf8057c`. Prose over the 15,000 byte file ceiling splits into the numbered files `page-file-parts` defines, the first unsuffixed and the rest `.part2` on. A page type lands before its pages, since `runsTabooCheck` is read from the index. Left: whether the 139 `game-turn` rows are the same turns, which would meet this intent.",
     },
     {
       statement: "No part of a story or a world exists only in the database.",
