@@ -15,6 +15,7 @@ export const akashaMigration = {
   ],
   constraints: [
     "Nothing is out of reach and everything may break while the migration runs. Completing the migration is the sole priority, not keeping systems outside akasha stable while it proceeds.",
+    "The new akasha system merges code, data and text into a single integrated whole. This repo is both the working development copy and the master copy of the database.",
     "Do not stop. If you are unsure what to do in a specific case, file a finding, make a decision, and then keep going. Do not stop to ask Alan for guidance.",
     "If a write is refused naming a read you already did, the file changed since you read it, which with a swarm running is ordinary. Re-read what the refusal names and carry on.",
     "Fix small issues inline rather than filing them as findings or asking for approval.",
@@ -22,6 +23,7 @@ export const akashaMigration = {
     "Do not work on the initiative directly. Delegate and coordinate work through subagents.",
     "Make massively parallel progress. Aim to have at least 20 concurrent direct subagents whenever you can use them to do productive work. Maximum 40 concurrent direct subagents.",
     "Add intent to the initiative to keep track of what is in flight. Remove intent from the initiative when it is done.",
+    "Only agent-authored changes go through gates. Mechanical changes land without them. Run `akasha audit` after larger sets of mechanical changes to catch issues, but not after every change.",
     "The old markdown pages system is being entirely removed, so all readers and writers must use the new TypeScript pages system.",
     "Code that runs off-workstation must access pages data through the pages-system-service, NEVER by reading the checkout copy directly.",
     "Code that runs on-workstation must access pages data directly through the appropriate functions, NEVER by calling the pages-system-service.",
