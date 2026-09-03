@@ -11,9 +11,7 @@ const CODE_ROOT_FLAG = "--code-root"
 
 const CODE_ROOT_ENV = "CODE_ROOT"
 
-// The generators still stand under `tools/lib`, so they are reached by the name
-// the manifest gives that package rather than by a path climbing out of akasha.
-const GENERATORS = "@tools/lib/temper-addon-data/generate"
+const GENERATORS = "@akasha/temper-addon-data/generate-addon-data"
 
 function valuesOf(argv: readonly string[], flag: string): readonly string[] {
   const found: string[] = []

@@ -6,6 +6,7 @@
     "@akasha/command-system": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@akasha/temper-addon-build": "workspace:*",
+    "@akasha/temper-addon-data": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-build-deploy-checks": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",

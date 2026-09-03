@@ -28,6 +28,7 @@
     "./companion-skill-mappings": "./companion-skill-mappings/companion-skill-mappings.module.code.ts",
     "./curse-mappings": "./curse-mappings/curse-mappings.module.code.ts",
     "./failing-alone": "./failing-alone/failing-alone.module.code.ts",
+    "./generate-addon-data": "./generate-addon-data/generate-addon-data.module.code.ts",
     "./food-mappings": "./food-mappings/food-mappings.module.code.ts",
     "./inventory-output-summary": "./inventory-output-summary/inventory-output-summary.module.code.ts",
     "./inventory-trait-mappings": "./inventory-trait-mappings/inventory-trait-mappings.module.code.ts",

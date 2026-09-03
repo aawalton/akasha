@@ -1,5 +1,5 @@
-
-export const summary = "Generate the addon data files Temper's packages and addons carry, from the pages that hold their source"
+export const summary =
+  "Generate the addon data files Temper's packages and addons carry, from the pages that hold their source"
 
 import { realpathSync } from "node:fs"
 import { codeRoot } from "@akasha/pages-system/code-root"
@@ -19,8 +19,12 @@ export const help: CommandHelp = {
         "The checkout to read game data from and write the generated files into. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
-  exits: [{ code: 2, meaning: "the emitted data no longer matches the hand-written equipment mappings" }],
+  envVars: [
+    { name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." },
+  ],
+  exits: [
+    { code: 2, meaning: "the emitted data no longer matches the hand-written equipment mappings" },
+  ],
   examples: [
     "ops temper addon-data generate --code-root ~/repos/akasha",
     "CODE_ROOT=~/repos/akasha ops temper addon-data generate",
@@ -35,7 +39,7 @@ export default async function temperAddonDataGenerate(args: readonly string[]): 
   process.env.CODE_ROOT = root
 
   const { generateAddonData, EquipmentMappingsStale } = await import(
-    "../../../lib/temper-addon-data/generate.ts"
+    "@akasha/temper-addon-data/generate-addon-data"
   )
   try {
     await generateAddonData()

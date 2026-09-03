@@ -13,10 +13,10 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { getPages } from "@akasha/temper-addon-data/addon-data-page-rows"
+import { ADDON_DATA_SECTIONS } from "@akasha/temper-addon-data/addon-data-writes"
 import { withSidecars } from "@akasha/temper-addon-data/catalog-sidecars"
 import { fetchMinedRestorePotions } from "@akasha/temper-addon-data/mined-restore-potions"
 import type { Page } from "@akasha/temper-addon-generators/addon-data-page"
-import { ADDON_DATA_SECTIONS } from "./lib/temper-addon-data/writes.ts"
 
 const ONLY = new Set(process.argv.slice(2))
 
