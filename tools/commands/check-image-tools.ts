@@ -119,7 +119,7 @@ export default async function checkImageTools(args: readonly string[]): Promise<
       if (imageKey === null) {
         throw new Error(
           `image \`${step.image}\` is in no \`IMAGES\` entry, so this step has no tool list to ` +
-            "be judged against — add it to `tools/lib/workflow-dsl/images.ts` with what the " +
+            "be judged against — add it to `akasha/changes/workflow-language/images/images.module.code.ts` with what the " +
             "container carries"
         )
       }
@@ -150,14 +150,14 @@ export default async function checkImageTools(args: readonly string[]): Promise<
       successMessage: [
         `OK — every step's binaries stand in the image it runs on, over ${steps.length} step(s).`,
         `  ${readUnder(roots)}`,
-        `  IMAGE TOOLS: read from \`tools/lib/workflow-dsl/images.ts\` in this repository, ` +
+        `  IMAGE TOOLS: read from \`akasha/changes/workflow-language/images/images.module.code.ts\` in this repository, ` +
           `the same module the step images are minted from.`,
       ].join("\n"),
       footer: (count) =>
         [
           `${PREFIX} ${count} violation(s)`,
           `${PREFIX} ${readUnder(roots)}`,
-          `${PREFIX} IMAGE TOOLS: read from \`tools/lib/workflow-dsl/images.ts\` in this ` +
+          `${PREFIX} IMAGE TOOLS: read from \`akasha/changes/workflow-language/images/images.module.code.ts\` in this ` +
             `repository, the same module the step images are minted from.`,
         ].join("\n"),
       formatViolation: (one) =>

@@ -202,7 +202,7 @@ export const clusterRoleRules: ReadonlyArray<(Rule | NonResourceRule) & { commen
   },
   {
     comment:
-      "get is required by the surge branch of pod selection\n  # (tools/lib/workflow-dsl/templates/pod-selection.ts): with more than one Running\n  # pod it reads each ReplicaSet BY NAME to roll it up to its owning Deployment,\n  # and refuses to act on a pod it cannot prove belongs to the rollout. Reading\n  # a named object needs `get`, which `list` does not confer. That call falls\n  # back to an empty string on any error, so a 403 there read as an unset\n  # ownerReference rather than as a denial — added under #18632, when\n  # `ops check-rbac-pipelines` first modelled `rs` and reported the gap.",
+      "get is required by the surge branch of pod selection\n  # (akasha/changes/workflow-language/pod-selection/pod-selection.module.code.ts): with more than one Running\n  # pod it reads each ReplicaSet BY NAME to roll it up to its owning Deployment,\n  # and refuses to act on a pod it cannot prove belongs to the rollout. Reading\n  # a named object needs `get`, which `list` does not confer. That call falls\n  # back to an empty string on any error, so a 403 there read as an unset\n  # ownerReference rather than as a denial — added under #18632, when\n  # `ops check-rbac-pipelines` first modelled `rs` and reported the gap.",
     apiGroups: ["apps"],
     resources: ["replicasets"],
     verbs: ["get", "list", "watch"],
