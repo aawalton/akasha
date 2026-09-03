@@ -391,7 +391,7 @@ export async function loadSelectorInputs(
     const equipment = (textAt(page, "equipment") ?? null) as Equipment | null
     if (!kit.inKit(equipment)) continue
     const features = featuresOf(page)
-    const history_ = history.byExercise.get(page.slug) ?? NO_HISTORY
+    const past = history.byExercise.get(page.slug) ?? NO_HISTORY
     candidates.push({
       exerciseSlug: page.slug,
       title: page.title ?? page.slug,
@@ -404,12 +404,12 @@ export async function loadSelectorInputs(
       equipment,
       scores: scoreMovement(features, policy.weights),
       loadsLadder: kit.ladderFor(equipment),
-      lastSessionSets: history_.lastSessionSets,
+      lastSessionSets: past.lastSessionSets,
       logged: history.everLogged.has(page.slug),
-      sessionsLogged: history_.sessionsInWindow,
-      lastDayStr: history_.lastDayStr,
-      priorDayStr: history_.priorDayStr,
-      improvingRecently: history_.improvingRecently,
+      sessionsLogged: past.sessionsInWindow,
+      lastDayStr: past.lastDayStr,
+      priorDayStr: past.priorDayStr,
+      improvingRecently: past.improvingRecently,
     })
   }
 
