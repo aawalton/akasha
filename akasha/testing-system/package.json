@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./bodying": "./bodying/bodying.module.code.ts",
+    "./component-rendering": "./component-rendering/component-rendering.module.code.ts",
     "./declaring": "./declaring/declaring.module.code.ts",
     "./dom-guarding": "./dom-guarding/dom-guarding.module.code.ts",
     "./dom-guard-setting": "./dom-guard-setting/dom-guard-setting.module.code.ts",
