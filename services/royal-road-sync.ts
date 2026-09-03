@@ -1,9 +1,14 @@
 import { readdirSync, readFileSync } from "node:fs"
-import { parseFrontmatter, listField, textField } from "../page/frontmatter.ts"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import type { RawChapter } from "@akasha/royal-road/royal-road-pages"
+import {
+  fetchHtml,
+  parseChapterProse,
+  parseFictionPage,
+  royalRoadUrl,
+} from "@akasha/royal-road/royal-road-pages"
+import { listField, parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { type GatedAct, type GatedBody, landBodies } from "../tools/lib/gated-landing.ts"
-import { fetchHtml, parseChapterProse, parseFictionPage, royalRoadUrl } from "../tools/lib/royal-road.ts"
-import type { RawChapter } from "../tools/lib/royal-road.ts"
 
 const ROOT = akashaRoot()
 const STORY_TYPE = "story-read-royal-road"
@@ -143,7 +148,11 @@ export function composeChapter(
 
 const STATUS_KEPT = new Set(["ongoing", "completed", "hiatus"])
 
-function restatedStory(story: Story, status: string | null, tags: readonly string[]): string | null {
+function restatedStory(
+  story: Story,
+  status: string | null,
+  tags: readonly string[]
+): string | null {
   let body = story.body
   const wanted = status === null ? null : status.toLowerCase()
   if (wanted !== null && STATUS_KEPT.has(wanted) && wanted !== story.status) {
@@ -153,7 +162,7 @@ function restatedStory(story: Story, status: string | null, tags: readonly strin
     tags.length === story.tags.length && tags.every((tag, i) => tag === story.tags[i])
   if (tags.length > 0 && !sameTags) {
     const block = ["royalRoadTags:", ...tags.map((tag) => `  - ${quote(tag)}`)].join("\n")
-    body = body.replace(/^royalRoadTags:\n(?:  - .*\n)*/m, `${block}\n`)
+    body = body.replace(/^royalRoadTags:\n(?: {2}- .*\n)*/m, `${block}\n`)
   }
   return body === story.body ? null : body
 }
@@ -279,7 +288,9 @@ export async function main(argv: readonly string[]): Promise<number> {
   } else if (argv.includes("--commit")) {
     landInBatches(landing, counts)
   } else {
-    console.log(`${landing.length} file(s) composed and not landed; pass --commit to put them through the write command`)
+    console.log(
+      `${landing.length} file(s) composed and not landed; pass --commit to put them through the write command`
+    )
     for (const one of landing) console.log(`    ${one.relPath}`)
   }
 
