@@ -1,8 +1,20 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
-import { orchestratorCacheChownInitContainer, orchestratorCacheInitContainer, orchestratorCacheSyncSidecar } from "@infra/k8s-types/orchestrator-cache"
-import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../infra/k8s-types/src/orchestrator-cache-helpers.ts"
-import { BUN_RUNTIME_IMAGE, ORCHESTRATOR_CACHE_REPO_PATH, TEMPER_WEB_CACHE } from "../../infra/k8s-types/src/orchestrator-cache-locations.ts"
+import {
+  orchestratorCacheChownInitContainer,
+  orchestratorCacheInitContainer,
+  orchestratorCacheSyncSidecar,
+} from "@infra/k8s-types/orchestrator-cache"
+import {
+  orchestratorCacheEntrypointPath,
+  orchestratorCacheVolumeMounts,
+  orchestratorCacheVolumes,
+} from "../../infra/k8s-types/src/orchestrator-cache-helpers.ts"
+import {
+  BUN_RUNTIME_IMAGE,
+  ORCHESTRATOR_CACHE_REPO_PATH,
+  TEMPER_WEB_CACHE,
+} from "../../infra/k8s-types/src/orchestrator-cache-locations.ts"
 import { ADDON_BUNDLE_IMAGE } from "./deploy/addon-bundle-image.ts"
 
 const NAMESPACE = "temper"
@@ -14,11 +26,11 @@ const TEMPER_WATCHER_IMAGE =
 
 const WATCHER_IMAGE_SOURCE_DIR = "/build"
 
-const WATCHER_DEST_DIR = `${ORCHESTRATOR_CACHE_REPO_PATH}/temper/web/watcher`
+const WATCHER_DEST_DIR = `${ORCHESTRATOR_CACHE_REPO_PATH}/akasha/temper/temper-web/watcher`
 
 const ADDONS_IMAGE_SOURCE_DIR = "/bundle"
 
-const ADDONS_DEST_DIR = `${ORCHESTRATOR_CACHE_REPO_PATH}/temper/web/addons`
+const ADDONS_DEST_DIR = `${ORCHESTRATOR_CACHE_REPO_PATH}/akasha/temper/temper-web/addons`
 
 const RESOURCE_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
@@ -138,7 +150,7 @@ function webDeploymentYaml(): string {
               name: APP_NAME,
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              workingDir: orchestratorCacheEntrypointPath("temper/web"),
+              workingDir: orchestratorCacheEntrypointPath("akasha/temper/temper-web"),
               command: ["bun", "run", "start"],
               ports: [{ containerPort: 3000, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],

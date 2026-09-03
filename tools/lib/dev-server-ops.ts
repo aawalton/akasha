@@ -54,7 +54,7 @@ const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
   },
   temper: {
     name: "temper",
-    packagePath: "temper/web",
+    packagePath: "akasha/temper/temper-web",
     basePort: 3300,
     extraDevArgs: [],
     devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
