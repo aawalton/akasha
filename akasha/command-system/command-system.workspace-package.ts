@@ -39,6 +39,9 @@ export const commandSystem = {
     "module/drafting",
     "module/applying",
     "module/prose-routing",
+    "module/commit-author",
+    "module/gated-landing",
+    "module/harness-landing",
   ],
   invariants: [
     {

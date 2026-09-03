@@ -5,4 +5,5 @@ export const collections = {
   pageTypeSlug: "domain",
   slug: "collections",
   definition: "one catalogue per kind of thing collected, and which items are finished",
+  partSlugs: ["page-type/recipe", "page-type/recipe-collection"],
 } as const satisfies Domain

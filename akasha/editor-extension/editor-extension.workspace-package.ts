@@ -88,6 +88,9 @@ export const editorExtension = {
     "module/agent-page-opening",
     "module/column-sampling",
     "module/agent-tree-panel",
+    "workspace-package/ops-extension",
+    "domain/status-bar",
+    "type-declaration/vscode-api",
   ],
   invariants: [
     {

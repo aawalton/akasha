@@ -69,6 +69,9 @@ export const pagesSystem = {
     "module/page-value-key",
     "module/repo-path",
     "module/shadow",
+    "module/akasha-page-values",
+    "module/live-store-write-guard",
+    "workspace-package/page-commands",
   ],
   invariants: [
     {
