@@ -1,0 +1,12 @@
+import type { PersonaDay } from "../../persona-day.page-type.ts"
+
+export const abby20260821 = {
+  id: "3322ef92-4b71-5ba4-a81b-6f48e62f5b84",
+  pageTypeSlug: "persona-day",
+  slug: "abby-2026-08-21",
+  personaSlug: "abby",
+  date: "2026-08-21",
+  greenDayPoints: 5000,
+  sourcePoints: 0,
+  valueSlug: "faith",
+} as const satisfies PersonaDay
