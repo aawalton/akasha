@@ -49,6 +49,10 @@ export const typecheck = {
       statement: "A file under a router app's routes folder is not judged.",
     },
     {
+      invariantKind: "departure",
+      statement: "A router app's root route is not judged.",
+    },
+    {
       invariantKind: "constraint",
       statement: "The one program built here states no root directories.",
     },
@@ -58,8 +62,12 @@ export const typecheck = {
         "A route reaches its generated types through the root directories its package states.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A router app's generated route types stand outside the repository.",
+    },
+    {
       invariantKind: "gap",
-      statement: "A router app's routes are judged by the app's own compile.",
+      statement: "A router app's routes and its root route are judged by the app's own compile.",
     },
     {
       invariantKind: "departure",

@@ -10,6 +10,7 @@ import {
   readingOf,
 } from "@akasha/code-system/code-typing"
 import { reachesIn } from "@akasha/code-system/package-manifest"
+import { rootRoute } from "@akasha/code-system/router-app/root-route"
 import { reachingInto } from "@akasha/graph-system/graph-asking"
 import { importEdge } from "@akasha/graph-system/import-edge"
 import type { Answering } from "@akasha/indexes/answering"
@@ -75,7 +76,10 @@ export function reachedBy(change: Change, index: Answering): readonly string[] {
 export function routingIn(index: Answering): readonly string[] {
   const found = new Set<string>()
   for (const one of index.everyPath()) {
-    if (one.endsWith(ROUTER_APP)) found.add(`${dirname(one)}/${ROUTES}`)
+    if (!one.endsWith(ROUTER_APP)) continue
+    const app = dirname(one)
+    found.add(`${app}/${ROUTES}`)
+    found.add(`${app}/${rootRoute.fileName}`)
   }
   return [...found].sort()
 }
