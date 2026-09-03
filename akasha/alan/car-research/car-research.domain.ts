@@ -5,5 +5,11 @@ export const carResearch = {
   pageTypeSlug: "domain",
   slug: "car-research",
   definition: "what Alan read about the cars on sale while deciding what to buy",
-  partSlugs: ["page-type/car", "page-type/car-make", "page-type/car-model", "page-type/car-year"],
+  partSlugs: [
+    "page-type/car",
+    "page-type/car-make",
+    "page-type/car-model",
+    "page-type/car-trim",
+    "page-type/car-year",
+  ],
 } as const satisfies Domain
