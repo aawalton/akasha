@@ -1,0 +1,546 @@
+In the early dawn light, Rain’s eyes flickered open, seeing only blackness. Aura Focus was still active, of course. He was once more sleeping in the Watch stronghold. He flicked on his HUD, noting the time as 5:48 AM, almost fifteen minutes before his alarm was set to go off.
+
+Close enough.
+
+He triggered the alarm, forcing his training overview to appear instantly.
+
+Training Overview
+
+General Experience Earned
+
+Mana Use: 22000
+
+Skill Experience Earned
+
+Mana Manipulation: 1440 [Rank Up]
+
+Aura Compression: 2035 [Rank Up]
+
+There was nothing unexpected there. Lots of item charging and a little bit of cooling translated to a rank-up in both Mana Manipulation and Aura Compression. Both skills were slow to level, but he was making steady progress. Likewise, he would be done with the tier-2 unlocks soon. It had been easier to unlock the full 22 trees this time, the feeling of discomfort only setting in for the last few. The only thing that had stopped him from trying to go further was the fear of injuring himself. He couldn’t afford that, right before going into a lair. He needed to be ready.
+
+He dropped Winter temporarily, throwing off his blanket to bare his armor to the rising sun before lying down and reactivating the skill. He had another two hours, and he wanted his armor to be as charged as possible. Uncovering himself would allow the charge to build, rather than be consumed by the regeneration rune.
+
+He checked his HUD next, seeing that his mana was empty. Mana Manipulation was still going, feeding power into the armor. His health and his stamina were both at full.
+
+Good.
+
+Yesterday afternoon, he’d configured his ring with the settings that he intended to use in the lair. He needed to be at his best, and that meant he needed his health and stamina caps as high as possible. Likewise, he needed to leave them there so he could regenerate. His base Regen hadn’t been enough, but he’d found a solution in the form of a potion from the alchemistry shop. Alchemistry was a catch-all word that referred to both alchemy and chemistry; there really wasn’t an English equivalent, so he’d made his own.
+
+He pulled open his panels to confirm his settings, as well as check for any changes to his tolerances overnight.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 22749/22750
+
+Dynamo
+
+Health
+
+900
+
+Stamina
+
+560
+
+Mana
+
+7492
+
+Strength
+
+45[10]
+
+Recovery
+
+36[10]
+
+Endurance
+
+28[10]
+
+Vigor
+
+25[10]
+
+Focus
+
+39[10]
+
+Clarity
+
+229[200]
+
+Free Points
+
+0
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+900
+
+900
+
+0
+
+100%
+
+H.Regen
+
+360/day
+
+360/day
+
+0/day
+
+100%
+
+Stamina
+
+560
+
+560
+
+0
+
+100%
+
+S.Regen
+
+250/day
+
+250/day
+
+0/day
+
+100%
+
+Mana
+
+7492
+
+7492
+
+0
+
+100%
+
+M.Regen
+
+2.62/s
+
+0.245/s
+
+-0.15/s
+
+1130.0%
+
+Movement Speed
+
+10
+
+Perception
+
+20
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+53
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+Adaptation
+
+Effective
+
+Total
+
+Base
+
+Sync
+
+Buff
+
+Tolerance
+
+Strength
+
+6
+
+45
+
+10
+
+24%
+
+35
+
+15
+
+Recovery
+
+6.56
+
+36
+
+10
+
+41%
+
+26
+
+6
+
+Endurance
+
+3.6
+
+28
+
+10
+
+30%
+
+18
+
+2
+
+Vigor
+
+9.75
+
+25
+
+10
+
+39%
+
+15
+
+15
+
+Focus
+
+39
+
+39
+
+10
+
+100%
+
+29
+
+49
+
+Clarity
+
+229
+
+229
+
+200
+
+100%
+
+29
+
+61
+
+Current
+
+Tolerance
+
+Enchantment Stat Boosts
+
+152
+
+132
+
+Enchantment Resistances
+
+50
+
+Unknown
+
+Nice. Vigor synchronization went up. That confirms it.
+
+When he’d stopped to adjust the ring yesterday, he’d noticed that his synchronization—or potential as he’d previously referred to it—had gone up for the Strength stat. He hadn’t been doing anything in particular, just walking around the city. The exercise had apparently been enough to improve his synchronization at last.
+
+As for why it hadn’t gone up before, he had a guess: he’d always been training while past his tolerance. All of the progress had been going toward raising his cap, not improving his synchronization. However, he hadn’t been past his cap on Strength with the settings that he’d selected yesterday morning. He’d only had ten points added, while his tolerance was fifteen. That was the difference that had gotten him a point of synchronization. It had been an exciting revelation that had him wanting to spend the rest of the afternoon training, but he’d forced himself to stop and think.
+
+He wasn’t a warrior. He didn’t need to be mighty. He needed Strength for health, nothing else. Synchronization didn’t help with that, at least, as far as he could tell. After some thought, he’d set the ring as it was now. The one concession that he’d made to testing his new hypothesis had been to peg his Vigor buff exactly at his tolerance. It looked like that test had paid off by the fact that his Vigor synchronization had improved.
+
+He smiled, closing the window and turning his attention to his skills. Aura Compression had leveled, which was a nice all-around boost, but not something that would make the difference in the lair. The same was true of Mana Manipulation. It didn’t really have any combat applications as he had yet to find a way to use it to shape his spells. He pulled open the full menu to have a quick look through all of his capabilities. Even though he had no problem remembering them all, seeing them helped him order his thoughts.
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (10/10)
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Extend Aura (10/10)
+
+Extend aura range by 10 meters
+
+Multiply aura mana cost by 300%
+
+Tier 1
+
+Aura Focus (10/10)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 300%
+
+Multiply aura range by 300%
+
+Multiply aura mana cost by 300%
+
+User loses all external senses while focusing
+
+Aura Synergy (10/10)
+
+Increase all aura output by 1.0% for each rank in any aura
+
+Effective boost: 80.0%
+
+Tier 2
+
+Aura IFF (10/10)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 0.0% aura output
+
+Tier 3
+
+Aura Compression (6/10) Exp: 1765/12800
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 1.2% per meter of compression
+
+Defensive Auras
+
+Tier 2
+
+Force Ward (10/10)
+
+Increase physical resistance by 54% for all entities
+
+Range: 18 meters
+
+Cost: 1 mp/dmg mitigated
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (10/10)
+
+Multiply base mana by 300%
+
+Tier 1
+
+Channel Mastery (10/10)
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Skill mana cost modified by intensity adjustment
+
+Mana Manipulation (7/10) Exp: 83/4400
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 1246.0 mp/s (fcs)
+
+Tier 2
+
+Magical Synergy (10/10)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+25.0% of Focus contributes to M.Regen
+
+25.0% of Clarity contributes to Mana
+
+Offensive Auras
+
+Tier 0
+
+Immolate (10/10)
+
+151-172 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 18 meters
+
+Cost: 50 mp/s
+
+Refrigerate (10/10)
+
+151-172 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 18 meters
+
+Cost: 50 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (10/10)
+
+Purify poison, corruption, and contamination
+
+Range: 18 meters
+
+Cost: 100 mp/min
+
+Winter (10/10)
+
+Boost M.Regen by 180% for all entities
+
+Range: 18 meters
+
+Cost: 10 mp/hr
+
+Tier 1
+
+Detection (10/10)
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 2.07 mm
+
+Range: 18 meters
+
+Cost: 10 mp/s
+
+Essence Well (10/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 18 mp/s
+
+Efficiency: 20%
+
+Range: 18 meters
+
+Velocity (10/10)
+
+180.00% boost to speed for all entities
+
+Range: 18 meters
+
+Cost: 10 mp/s
+
+Free Skill Points: 0
+
+He had plenty of options, but he still felt ill-suited for the task that had been set before him. His current build was massively beneficial for mages, but there wouldn’t be any mages in the party other than himself. There was still a lot he could do, but it all came down to how Velika wanted to run the expedition. He’d either be in the back using Purify while she killed everything, or frantically trying to keep the unawakened alive with Velocity and Force Ward while she watched with sadistic glee.
+
+He was not looking forward to this at all. Melka had told him about the types of monsters that awaited them. There would be slimes galore, but also Plague Rats, Devil Fish, Fungiforms, Chem Kin, and a few other, rarer things. He had been quite distraught after Melka had finished describing all of the horrible kinds of death that waited for him. She’d tried to console him, saying that the Fells was reasonably tame as lairs went. She’d been in there four times, and while it had been stressful and disgusting, nobody in any of her parties had even come close to dying.
+
+Somehow, that didn’t make him feel any better.
+
+Still, he had his armor, and he’d purchased one of the single-use resistance charms. That would help deal with the various poisons and acids that he was likely to encounter, but he’d have to wait to use it until it was needed. He also had the Quickstaff, which would be useful for keeping things at a distance if nothing else. He had no illusions about his ability to use it to kill anything stronger than a slime, but that wasn’t why he’d bought it.
+
+He’d left the Havenheild company outfitter—it was a chain, incidentally—with the staff and the charm, only spending a hundred Tel. The rest had been covered with mana. The limiting factor had been the number of items that had needed charging. If not for that, he would have happily sat there until he ended up owning the whole store.
+
+Melka had suggested that he buy a shield as well, but he’d ultimately decided against it. They were cumbersome. If he wasn’t wearing seamless full plate, it would have made sense to get one, but anything that a shield could block, his armor could block better. The enchantments on the ones that had been for sale simply weren’t good enough to justify it in his mind. Keeping things away with the staff and dodging would serve him better than trying to block.
+
+That wasn’t the end of his purchases, not by a long shot. He also had an extensive collection of potions in tiny glass vials, and even a bandoleer to carry them. Healing and stamina potions, mostly. He’d wanted healing scrolls, but Mlem hadn’t been around when he’d gone looking for him. Reason’s potions were slower-acting and restored less health, but they were much cheaper. A standard healing scroll restored four hundred health instantly, while the potions restored around three hundred over a few minutes.
+
+They also came in three flavors: health, stamina, and mana. The mana potions tasted like mint. He’d bought one, just out of curiosity. He’d have had to drink gallons of the stuff to restore any significant quantity of mana. For health and stamina, however, they were a godsend. He was kicking himself for not buying any before. To compensate, he got ten of each, as well as a pair of overnight recovery potions. Those were incredibly slow-acting but would restore around one thousand each of health, stamina, and mana, provided that he was asleep. Unfortunately, they tasted like stewed feet.
+
+The original bill for the potions had come to 120 Tel, but he hadn’t parted with a single crystal. It turned out that Myth and Reason had plenty of equipment that needed recharging, mostly for use in their work. Even so, their assistant, Jamus’s friend Meloni, had been less than pleased with the arrangement. She’d called him a haggling demon. All he’d done was to remind her that Myth had told him the basic potions only cost two Tel to make.
+
+He’d overpaid, and by quite a bit, charging their equipment with over ten thousand mana. Myth and Reason had eventually convinced Meloni that it was a good deal in the long run. However, that hadn’t stopped Melka from teasing him with his new nickname all evening. He still hadn’t decided if ‘Haggling Demon’ was worse than ‘Night Cleaner’.
+
+He smiled. Thinking about his shopping trip was helping distract him from his impending doom. It had been fun, hunting down the various items he’d needed. He found it a little odd, actually. He’d always hated going to the mall. His standard procedure had been to just go straight for the item he needed and then to get out as fast as possible. However, there was something about the whole bartering process that made it so much more enjoyable. That was also odd, as he hated car salesmen. Maybe it had to do with the fact that he kept winning for some reason. He chuckled. It’s got to be the armor.
+
+Only now did he admit to himself that he might have gotten a bit carried away. His bag and pouches were stuffed with so much random stuff that he felt like he was ready to open his own store. It was like the time in college when his friend James had decided to buy one of each mundane item listed in the player’s handbook. That had been an enjoyable argument to watch. Carlos, who’d been running the campaign, had contrived to set the annoying bard’s wagon on fire.
+
+He sighed wistfully, wondering what his old friends were doing now. Not for the last time, he wished that he’d kept in contact with them. His smile was replaced with a grimace as other memories flashed through his mind, unbidden. As far as his friends were concerned, he might as well have died at the same time as his father. The following years were a mass of pain and regret as he spiraled deeper and deeper into depression, especially after losing his mother as well. He could remember those years with perfect clarity, as much as he wished to forget.
+
+He gritted his teeth, forcing his thoughts back to the present. This was not the time to be thinking about the past. He’d bought all of the supplies to increase his chances of seeing the future. He’d never been a scout, but the motto ‘be prepared’ was a good one to live by. He didn’t know he wouldn’t need a hatchet or a grappling hook or set of lock picks, never mind that he had no idea how to use the last. Some day, those lock picks might end up as the difference between being able to disarm a trap and dying a horrible death. Yes, he might have gotten a bit carried away. Still, he’d much rather lug around a bit of extra weight than find himself missing some critical item when he needed it most. Besides, it was decent strength training.
+

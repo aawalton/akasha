@@ -1,0 +1,496 @@
+Far, far away in Xiugaaraa, the City of Lights, Halgrave sat in a brightly-lit private bedroom, deep within the main branch of the Guild. He fought to keep his eyes open. He hadn’t slept since the attack on Fel Sadanis and even he was reaching his limit. The City of Lights was hardly a good place for sleep, however. It was situated in a ranked area, which meant that the entire city stayed illuminated at all times, day and night. It took some getting used to, sleeping in a room lit by multicolored magical fire. He focused on the flowing enchantment, trying to track each individual mote of light as a way to distract himself from his exhaustion.
+
+Part of the problem was that the city had gotten carried away with its aesthetic over the years. They had moved away from plain Light runes, considering them too pedestrian, for all that they were rare and expensive anywhere else. Illusions covered the city in blazing glory, each building a unique work of art, inside and out. It was money and power on display, any practical motivation long-since eclipsed by vanity.
+
+To create Light-aspect runes, a crafter would need Light-aspect spells to base them upon. The more powerful the spell, the more powerful the runes that could be derived from it. That was the first complication: there was no ‘Light Magic’ tree.
+
+Nevertheless, he had heard tell of a class called ‘Light Mage’. Typically, such things required investment in a single tree. Clearly, there was some other method of obtaining it if the rumors were to be believed. It hardly mattered; enchantments such as the one that had his room looking like the inside of a volcano would have needed constant channeling to maintain. Even for the City of Lights, that was a step too far. Further, he knew of no single spell that could have produced this effect.
+
+Workers were needed, Rune Workers specifically. Through knowledge built up by generations of artisans, even seemingly simple runes could create stunning displays when combined. The people who had created the enchantment in his room had hobbled themselves by investing in a crafting class, and only later acquired the Light-aspect skills that were required.
+
+They were called ‘Illuminators’, and it was not only a class but a title. The most famous Illuminators were master artists, bending their own Light magic into luminous runes, then binding them in stone. It was a position of power and prestige. True Illuminators were past the wall, carried through at great expense and risk by their backers, typically their family. It was a fiercely hereditary business, secret knowledge and patterns passed down from father to son, mother to daughter. Not everyone had such advantages, but that didn’t stop people from trying. Few made it. It was difficult for a crafter to advance on their own, even in a city such as this.
+
+Lighters, the failures were called. Once you became one, that was what you would stay, barring incredible luck or talent. Without combat magic and the synergy to boost it, there came a point where even damaging a powerful blue became impossible. To become a Lighter was to choose a life of toil, maintaining the enchantments of the Illuminators and providing mundane lighting for the poorer parts of the city. Still, many chose it, hoping that they could stand out from the pack and earn enough money to hire a full party to get them through the wall.
+
+The competition was fierce, and the success rate low. Unlike any other place in the entire world, practically everyone in Xiugaaraa was awakened. Even a child could manage to kill an essence monster without too much trouble, provided that it was below level five or so. For a city in a ranked zone, that was a very low bar. The lesser wall at level ten was a greater impediment to be sure, but not an insurmountable one. With the help of the old and powerful families that called the city home, the average level in the city was closer to fifteen, or at least, it had been the last time he was here.
+
+It had become a part of the culture. Children would be taken into the surrounding jungles when they were old enough to have their awakening. They called it the First Dark—the first time that a teenager would encounter any darkness other than that behind their eyelids.
+
+Getting past the true wall at twenty-five, however, was another matter entirely. It took a full group of eight people at that level or better to even survive in a place where such a powerful blue would spawn. Bringing even one person along who was below that limit meant significant danger to the whole group. If that person had a crafting class, as all Lighters did, then it became almost impossible without higher-level assistance. The monster would need to be weakened and restrained until the crafter could land a blow or two with powerfully enchanted equipment. Further, it had to be the right kind of blue, one whose defenses could be overcome by the underpowered individual in question. Sitting in this room, Halgrave was wishing that it was even harder.
+
+He scowled at the illusory lava flowing down the walls, giving up on puzzling out the pattern. Many rooms in the Guild were done with a fire theme, the Illuminators paying honor to the powerful and famous Guildmaster. For a bedroom, it was utterly ridiculous. A plain, steady light was all that was needed to keep anything from spawning. He sighed and rubbed at his eyes, debating whether it was worth the risk to rest with them closed, just for a few minutes. Luckily, he was interrupted by a knock on the door just as he started to drift off.
+
+His eyes flicked back open and he sat up straight once more. “Come,” he said in common.
+
+The door opened to reveal a bronzeplate, wearing the uniform that signified he’d chosen a life of service as a Guild clerk over one of adventure. The man bowed low and stayed there as he spoke. “Honored branch leader Halgrave,” the man said in Zeelada. “The most glorious supreme ruler of fire, Burrik the Volcano, awaits your illustrious presence to discuss the matter of the DKE assault on Fel Sadanis. If it would please you to follow this humble servant…”
+
+Halgrave sighed again. I hate Zeelada. The language itself is fine, but everyone who speaks it is just full of wind. Always with the bowing and the scraping and the florid courtesy. It’s exhausting. I remember why I left. I hope Burrik’s still got his head on straight. He cleared his throat, then responded in a thickly accented attempt at the same language. “All you needed to say was ‘he’s ready for you’. Stop bowing. Let’s go.”
+
+Training Overview
+
+General Experience Earned
+
+Mana Use: 22000
+
+Skill Experience Earned
+
+Mana Manipulation: 883
+
+Aura Compression: 4444
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 22749/22750
+
+Dynamo
+
+Health
+
+400
+
+Stamina
+
+200
+
+Mana
+
+8565
+
+Strength
+
+20[10]
+
+Recovery
+
+18[10]
+
+Endurance
+
+10
+
+Vigor
+
+42[10]
+
+Focus
+
+49[10]
+
+Clarity
+
+250[200]
+
+Free Points
+
+0
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+400
+
+400
+
+0
+
+100%
+
+H.Regen
+
+180/day
+
+180/day
+
+0/day
+
+100%
+
+Stamina
+
+200
+
+200
+
+0
+
+100%
+
+S.Regen
+
+420/day
+
+420/day
+
+0/day
+
+100%
+
+Mana
+
+8565
+
+8565
+
+0
+
+100%
+
+M.Regen
+
+1.4/s
+
+0.269/s
+
+-0.05/s
+
+539.6%
+
+Movement Speed
+
+10
+
+Perception
+
+20
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Adaptation
+
+Effective
+
+Total
+
+Base
+
+Potential
+
+Buff
+
+Tolerance
+
+Strength
+
+4.6
+
+20
+
+10
+
+23%
+
+10
+
+15
+
+Recovery
+
+6.56
+
+18
+
+10
+
+41%
+
+8
+
+6
+
+Endurance
+
+3
+
+10
+
+10
+
+30%
+
+0
+
+2
+
+Vigor
+
+9.12
+
+42
+
+10
+
+38%
+
+32
+
+14
+
+Focus
+
+41
+
+49
+
+10
+
+100%
+
+39
+
+31
+
+Clarity
+
+242
+
+250
+
+200
+
+100%
+
+50
+
+42
+
+Current
+
+Tolerance
+
+Enchantment Stat Boosts
+
+139
+
+130
+
+Enchantment Resistances
+
+0
+
+Unknown
+
+Rain smiled as he reviewed his training overview. He’d shot straight back to the experience cap thanks to all the mana he’d spent on Operation Heatsink, but that wasn’t what he was so satisfied to see. It would have had other mages spitting blood, he was sure, but for him, it was just another day. No, what he was smiling about was the progress he’d made on his tolerances. He’d gone up by a few paltry points in his physical skills, but the improvement to Focus and Clarity was astounding.
+
+When he’d checked the night before, he’d already made great progress, gaining two points in Focus and a whopping twelve in Clarity. The difference came from the fact that his Focus buff had been much lower—positive proof that it mattered how hard you pushed yourself past your limits. He’d adjusted the ring, taking points from the physical stats to maximize his mental buffs overnight. That had paid off splendidly, gaining him another twelve points each in Focus and Clarity. The lowered drain from the barrier combined with the boost to his regen had also allowed him to make some good progress on his armor at last, restoring over a thousand points of durability.
+
+His overall tolerance to enchantment stat boosts had gone up, gaining one point as of last night, and then one more by the morning. He’d decided to set the ring to ten over the max before he went to bed, testing the hypothesis that he was hurting himself by pushing too hard. From the fact that he’d gained only 1 point both times, it didn’t look like it was that big of an effect. More testing would be required. More testing was always required.
+
+His Health and Stamina were currently full and his Mana was slowly recovering now that he’d stopped charging the armor. He’d set his alarm for eight, woken with everyone else, and was now lazing about in bed reviewing his stats. He was in no rush. After yesterday, he couldn’t bring himself to care about what the Watch thought of him sitting there, staring into the distance. That said, he wasn’t planning on spending a bunch of time puzzling at the underlying math. He still had a bunch of open questions, such as ‘Why haven’t my potentials moved?’ and ‘What’s the limit for the tolerance to a single stat?’, but he’d wasted a bunch of time yesterday worrying about that stuff and not come any closer to puzzling out any answers. He wasn’t going to figure it out just sitting there. As long as he was making progress somehow, he was happy. He did at least want to set the ring up properly so his tolerances would improve in the background, though. He accessed the panel for the ring, adjusting the settings to focus on the mental stats.
+
+Adaptation
+
+Effective
+
+Total
+
+Base
+
+Potential
+
+Buff
+
+Tolerance
+
+Strength
+
+4.6
+
+20
+
+10
+
+23%
+
+10
+
+15
+
+Recovery
+
+4.1
+
+10
+
+10
+
+41%
+
+0
+
+6
+
+Endurance
+
+3
+
+10
+
+10
+
+30%
+
+0
+
+2
+
+Vigor
+
+9.12
+
+27
+
+10
+
+38%
+
+17
+
+14
+
+Focus
+
+41
+
+61
+
+10
+
+100%
+
+51
+
+31
+
+Clarity
+
+242
+
+262
+
+200
+
+100%
+
+62
+
+42
+
+Current
+
+Tolerance
+
+Enchantment Stat Boosts
+
+140
+
+130
+
+Enchantment Resistances
+
+0
+
+Unknown
+
+I’m getting really tired of having to worry about charging my armor all the time. Once I get the mental stats done, then I can worry about the physical. I should make progress just from using mana, which is easy by comparison. I don’t feel like heading straight out to work on Operation Heatsink, though. I’ll go find Melka and see how she’s doing, then go from there. The way Phoss phrased it yesterday, it sounded like I might get a different handler each day. I don’t want a different handler.
+
+He got up and wandered over to the mess hall. Melka was already there, sitting at a table by herself and looking tired. He grabbed three loaves of bread and a crock of butter, then made his way over to her table. She looked up at his approach and raised an eyebrow.
+
+“Mind if I join you?” he said, motioning to the table.
+
+Melka shrugged. “Go ahead.”
+
+Rain smiled and sat, removing his helmet so he could start attacking the bread. He hadn’t been jogging the day before, but all the walking added up and there hadn’t been much food available when he returned to the stronghold the night before. He ripped off a huge piece of bread, slathered it in butter, and crammed it into his mouth, chewing happily.
+
+“Wow,” Melka said, shaking her head as she cut into a sausage with one of her daggers. “What did that bread do? Kill your family?”
+
+Rain laughed, buttering another piece as he swallowed the first. “It’s good bread, what can I say? Plus, those sausages are disgusting.”
+
+“Yeah, they’re kind of an acquired taste,” Melka said with another shrug. “I like them, though.”
+
+“Is it always the same thing, every day?” Rain asked, gesturing to the serving area.
+
+“Not always. They change it up from time to time. Depends on what the clerks can get a good deal on. It’s free, so I try not to complain. I can always get breakfast somewhere else if I need to, or just skip it.”
+
+Rain nodded. “Yeah, I never really ate breakfast that much before I came to Fel Sadanis. I’ve been doing so much work since I got here, though, that I really need it. Say, does Strength make you need more food?”
+
+“Don’t talk with your mouth full, you’re getting crumbs everywhere.”
+
+“Oh, sorry,” Rain said. “It’s just so flakey.”
+
+Melka sighed and shook her head. “Are we not going to talk about what happened last night?”
+
+“I’d rather not,” Rain said, pausing to look at her. “Not unless…you want to. I wasn’t going to bring it up. Bread, butter, and light conversation. None of that heavy crap. Just…you didn’t get in trouble, did you?”
+
+Melka shook her head. “Phoss didn’t say anything. I’m supposed to go with you again today. Either he doesn’t know, or he doesn't care.”
+
+“Ah, good… That’s good,” Rain said awkwardly, then ripped off another piece of bread. He looked around, then slapped his forehead. “Oh, I forgot to grab my breakfast beer. Way better than the stuff last night, that’s for damn sure.”
+
+“Here,” Melka said, sliding a small cup across to him. “I haven’t touched mine. I don’t plan to, either. Not after last night. I just grabbed it by habit.”
+
+“Right,” Rain said, looking down at the cup with a frown. “Thanks…”
+
+Melka looked at him with a complicated smile. “We weren’t talking about it, right?”
+
+“Right,” Rain said with a nod. “So, changing the topic back, Strength makes you hungry?”
+
+“Yes. Vigor does as well. Endurance and Recovery do the opposite. You can always tell who’s got a bad balance by how they eat. Right now, you’re eating like you’ve never put a single point in Endurance or Recovery in your life.”
+

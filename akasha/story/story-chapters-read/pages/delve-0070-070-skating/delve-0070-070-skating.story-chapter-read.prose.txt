@@ -1,0 +1,298 @@
+Snow fell from a dark sky as Rain made his way to the city using the fires atop the wall to guide himself. He’d woken two hours before his normal alarm as he had planned. Now that he had a clock, forcing the system to change the timing of the training dialog hadn’t been that difficult. He was already thinking of ways to exploit this newfound power. Assuming he could set it to go off whenever he wanted, it basically meant that he could rank up his skills whenever they were ready, instead of waiting for a full day. That wasn’t that useful to him at the moment, but once he raised his cap, it would be a game-changer for leveling things like the seasonal auras.
+
+His plan for today started with getting to the Guild before all the good quests got picked over. He knew that he should be resting, but he simply had too much to do in the city to be able to justify spending another full day sitting on his ass. He was still sore, but it was a good soreness. The soreness of progress. He glanced at his menus, which were hovering off to the side as he walked.
+
+Training Overview
+
+General Experience Earned
+
+Mana Use: 1090
+
+Skill Experience Earned
+
+Aura Compression: 508 [Rank Up]
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 22749/22750
+
+Dynamo
+
+Health
+
+400
+
+Stamina
+
+400
+
+Mana
+
+5700
+
+Strength
+
+20[10]
+
+Recovery
+
+30[10]
+
+Endurance
+
+20[10]
+
+Vigor
+
+20[10]
+
+Focus
+
+20[10]
+
+Clarity
+
+200
+
+Free Points
+
+0
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+400
+
+400
+
+0
+
+100%
+
+H.Regen
+
+300/day
+
+300/day
+
+0/day
+
+100%
+
+Stamina
+
+400
+
+400
+
+0
+
+100%
+
+S.Regen
+
+200/day
+
+200/day
+
+0/day
+
+100%
+
+Mana
+
+5700
+
+5700
+
+0
+
+100%
+
+M.Regen
+
+2.02/s
+
+0.212/s
+
+-0.05/s
+
+975.5%
+
+Movement Speed
+
+10
+
+Perception
+
+20
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+2
+
+0%
+
+2
+
+0%
+
+2
+
+0%
+
+2
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+2
+
+0%
+
+2
+
+0%
+
+2
+
+0%
+
+2
+
+0%
+
+He smiled and dismissed the menus. Taking it easy for him equated to what was probably several days’ worth of hard training for a normal mage. The lack of progress on Mana Manipulation didn’t bother him. Once he ranked up Compression and got used to the ring, he’d be able to charge his armor faster than ever before. Losing a day or two of contribution now wouldn’t make that much of a difference in the end.
+
+The cold wind gusted, making the heavy snow change direction. The visibility was practically zero in the darkness. Despite the horrid weather, Rain was warm and dry. By shrinking Immolate down with Aura Compression, he’d created an almost skin-tight bubble of warmth surrounding his armor. Auras were always circular down to one meter in radius no matter what he did. Below that, they would stop a few centimeters beyond his skin, clinging to the shape of his soul. He’d yet to decide on a final name for this state. For now he was calling it his Cloak of Immolation.
+
+Trying to compress things further would create a singularity, which had turned out to be useless for Immolate. The spell affected entities and the environment, but not the user. When used as a singularity, that meant it had no valid targets whatsoever. All it did was consume mana. Where that mana was going, he had no idea.
+
+Using his new technique, he’d refined his space heater into something approaching personal climate control. The mana cost was trivial for the purpose of fighting off the cold. Better still, the low cost meant that the glow of the aura’s interaction with the armor was too faint to be seen, even if it hadn’t been hidden by his cloak.
+
+The armor was currently discharged of course. The darkness was sufficient to activate the regeneration rune and drain the capacitor. He was a bit uncomfortable that the hardness enchantment wasn’t active, but Ameliah was right, he needed to relax. Lavarro was gone. He’d charge it once the sun rose. Detection would warn him if there was anything approaching. He hardly needed to keep his climate control running constantly, after all.
+
+The gate was guarded by a pair of hooded and cloaked Watch officers. One of them shouted in alarm as Rain approached. He stopped, thinking about what his own reaction to a black-hooded form emerging from a snowstorm would be. He cleared his throat. “Hello!” he shouted, trying to sound friendly.
+
+“Who goes there?” came the response. “Approach. Show me your hands.”
+
+Rain pulled aside his cloak, freeing his arms and letting all of the wonderful warm air escape out into the storm. He reached up slowly, lowering his hood to reveal his helmet. His guild plate hung against his chest, visible in the flickering light cast by the pair of evertorches by the gatehouse. Now that he was closer, he recognized the officer on the right, catching a glimpse of her face within her hood. He’d met her when he’d fixed his mess over at the Watch stronghold. “Oh, hello Melka,” he said. “How’d you get stuck with the early shift?”
+
+“Oh, it’s you,” Melka said, relaxing. “What the hells are you doing out of the city at this hour? And didn’t I tell you to call me Mel? I only make jerks like Sarl here use my full name.”
+
+“Uhh, Melka,” said the other officer, presumably Sarl. “That armor… You know this guy? He looks like the description…”
+
+Melka laughed. “Sarl, this is Rain. He’s the purification mage, and also the Guild’s new cat-three. You didn’t know it was the same person?”
+
+“No, I didn’t,” Sarl said, sounding a little unsettled. “He looks way too nefarious for a purification mage.”
+
+Rain laughed. “I get that a lot.” He reached up to raise his visor before offering Sarl his hand. “Hi, nice to meet you.”
+
+Sarl edged back. “Stay away. Don’t try anything.”
+
+“Oh, push over, Sarl,” Melka said. “He’s not dangerous. And besides, there’s way worse than him in the Guild. He’s not even silver. Stop being such a coward.”
+
+“Melka, you need to take your responsibility more seriously,” Sarl said. “You might be quick to trust, but I’m not. It’s people like him that are why we need to stand guard out here in the first place.”
+
+Melka rolled her eyes. “Ignore him. Come on in, Rain. We’ve got bigger problems to worry about than you. You didn’t happen to run into any monsters while you were out there, did you?”
+
+Rain dropped his hand, giving up on Sarl as a lost cause. He put him out of his mind and turned to answer Melka’s question. “No, why? What problems?”
+
+“There’ve been more monster sightings than usual in the hinterlands,” Melka said. “I’m surprised you haven’t heard. Just yesterday, one of our patrols had to save a farmer who was being chased by a pack of k—uh…monsters…” She shook her head. “Anyway, it’s unusual. It’s got people concerned.”
+
+Kin, huh? Why didn’t she want to say it? Are they uncommon around here? “Humm,” Rain said. “I did run into some Kin north of the city like a week ago. I’m not from around here, so I’m not really sure what is and isn’t normal. Where are they coming from, do you think?”
+
+Sarl cursed. He looked at Melka. “You trust what he just said? If that’s true, then that’s the third report of Kin that we’ve gotten in three days. That’s not good. Combine that with this storm and the war and the thing with the baths…”
+
+Melka shrugged. “I don’t see a reason for him to lie. It’s probably just a new lair, Sarl. I don’t see how that other stuff is related.”
+
+Sarl shook his head, looking unhappy. Thunder rumbled in the distance, causing all three of them to jump. “See?” Sarl said, gesturing vaguely at the falling snow. It looked like the storm was picking up. “That’s not normal. And if it was a lair, one of our patrols would have found it by now.”
+
+“It all depends on how deep it is,” Melka said. “What else could it be?”
+
+“Rank shift,” said Sarl. “You know the signs.”
+
+“Shh,” Melka hissed. “It’s bad enough that the peasants believe that trash. Watch what you say. If someone hears an officer say something like that, it could cause a panic. Fel Sadanis is safe. It is stable. There is no such thing as rank shift. Not here.”
+
+Rank shift…that’s what Ameliah and Val thought might be happening. I need to talk to Staavo. If that really is what’s going on…
+
+Melka sighed. “Please don’t mention the Kin in the city, let alone rank shift.” She spared a glare for her fellow officer, then looked back at Rain. “Come on, we’re supposed to be guarding, and you’ve probably got places to be. Before you go, though, do you think you could…you know?”
+
+Rain raised an eyebrow. “What?”
+
+“The baths are shut down for the winter, and there’s an issue there besides. Go on, use the thing you used before. I feel gross. Sentinel Phoss made us do a patrol of the sewers and I can still smell it in my hair.”
+
+“Melka, did you seriously just authorize a category three to use magic in the city because you feel gross?” Sarl said incredulously.
+
+“Yes, I did,” Melka said. “I’m the ranking officer here, Sarl, whether you like it or not. Go on, Rain. Please.”
+
+“You’re sure it’s okay?” Rain asked. She nodded. He turned to Sarl. “Don’t be alarmed. You’re going to see a white light. It’s harmless.”
+
+Sarl grumbled. “Fine.”
+
+Rain activated Purify, keeping the radius small, just large enough to encompass both of the Watch officers. He brought the intensity up slowly so as to not alarm them. Melka sighed happily. Sarl just stared at him with distrust. Of the Watch officers that he’d met, he’d gotten similarly mixed reactions. Some of them were open-minded and easy-going like Melka, but for every one of her, there were two more like Sarl. It remained to be seen whether the best spell ever would be enough to bring this one around.
+
+He briefly considered offering to warm the air up for them with Immolate but discarded that as a top-tier stupid idea. That could lead to a whole bunch of unfortunate questions. They didn’t seem to be that bothered by the cold anyway, the awakened probably having enough points in Endurance to just ignore the discomfort of standing out in the storm.
+
+He nodded to Melka and made his way into the city, feeling Sarl’s eyes on his back as he walked away. He lowered his visor again and pulled up his hood, adjusting his cloak to cover his armor. The snow really was getting worse. Thunder rumbled again in the distance.
+
+So, the Watch is edgy and the city is primed for a panic. Great. This is just what I need. I’m feeling like Tallheart’s property value is sinking as we speak. Maybe building a house isn’t the best use of our time right now…
+
+Damn, I forgot to ask her what the Watch wanted. Oh well, she probably didn’t know anyway, or she would have mentioned it.
+
+Rain’s thoughts lingered on the potential for rank shift as he made his way toward the guild, but he didn’t let that distract him from his use of Detection. He hadn’t forgotten the monster that he’d sensed in the city before. He was getting quite a few signals coming from below him in the sewers. A more selective scan revealed them to be slimes—nothing to be worried about. It sure does seem like there are a lot of them, though. If I get some free time, I should go do something about that. I could use the Tel.
+
+A sudden ping coming from ground level brought him to a halt in the middle of the bridge over the river. He repeated his scan, using more power this time. There was no mistake. There were monsters in the city. It hadn’t been just one. There were hundreds of them, though he didn’t know what kind. He looked in the direction of the signals.
+
+The baths?
+
+He checked the time. It was still dark, the swirling snow and the clouds hiding the sunrise. Damn it, I’m going to miss all the quests, but I can’t ignore this.
+
+He turned on his heel and hurried back across the bridge, heading in the direction of the bathhouse. He scanned for Kin, coming up with nothing. Next, he tried slimes, feeling slightly relieved as the signals re-appeared. Why are the baths filled with slimes?
+
+He was stopped at the entrance by another pair of Watch officers. This time, he didn’t recognize either of them. “The baths are closed,” said the one on the left.
+
+“Why?” Rain asked. It didn’t look like they’d realized he was an adventurer, concealed as he was within his cloak. For now, he wanted to keep it that way, not wanting another conversation like the one at the gate.
+
+“Because it’s winter,” the guard said, giving him a look like he was a complete moron.
+
+Asking about the slimes would be a really dumb idea. They’d want to know how I know, and that could turn into a huge mess. I need to be circumspect. He cleared his throat. “Not ‘why are they closed?’. Everyone knows the baths close in winter.” Except me, apparently. “I’m asking why the Watch is here guarding the door.”
+
+“Nothing to concern yourself with. The Watch has it under control,” said the man on the right. “Move along.”
+
+Rain shrugged. He’d only hurried over because he’d been concerned that there were monsters loose in the city. Clearly, the Watch already knew about it and had blocked off the area. He turned around, heading back for the Guild. Good, I can still stick to my plan. I’ll see what quests there are, then come back. For all I know, this is what they wanted my help with in the first place. From how many of them I’m sensing, the mess has got to be unspeakable.
+
+He made it to the Adventurers’ Guild without further incident. It looked like the wall that Carten had stress-tested was in the midst of being repaired, though no one was working on it yet this morning. The inside of the guild was dim, lit by candlelight and the glowing runes of the heater plates. He wiped his feet on the mat by the door, then made his way over to the old man who was busy pinning slips of paper to the quest board. He hadn’t seen Rankin since he’d been kicked out, but he wasn’t exactly expecting a warm reunion.
+
+“Oh, it’s the troublemaker,” Rankin said, glancing over his shoulder at Rain. “Before you ask, no, our deal’s off. No free lodging for you. You’re lucky we’re not charging you for the wall.”
+
+Rain sighed. He’d expected as much. “Hello, Rankin.” Damn it, why is everyone an asshole?
+
+Rain had started forming a theory about Rankin. He’d only barely interacted with the man, but thanks to overmana, he was able to retroactively translate some of the conversations that he’d overheard before he understood the language. It wasn’t perfect and he wasn’t sure how much he could trust it, but what he did recall seemed to line up with Gus’s more recent comments about the man.
+

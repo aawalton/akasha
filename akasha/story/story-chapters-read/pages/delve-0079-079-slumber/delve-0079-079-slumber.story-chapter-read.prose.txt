@@ -1,0 +1,550 @@
+The familiar chime of Rain’s alarm gently coaxed him from sleep. As he came to his senses, he remembered where he was just in time and stopped himself from dropping Aura Focus. Assuming he was still in the same spot he’d been when he fell asleep, he was smack-dab in the middle of a Watch stronghold.
+
+He’d come here late last night and found the place to be absolutely packed. By his estimate, two-thirds of the awakened in the city had shown up. In addition to Watch and Guild members, there were quite a few nobles around as well. Myth, Reason, and Mlem were there. Even Kettel had shown up, bringing a few of his unawakened friends with him. It seemed that people were more than ready to be done with the barrier, leading to the high turnout. A few people wearing the Citizen’s pin had shown up, but not the Citizen herself, or the man who had spoken for her, Lord Rill. Carten was also missing, but Rain had been too tired to worry about what trouble he was currently getting himself into.
+
+After he’d arrived, he’d spent a bit of time talking to the sentinels and chatting with people he knew, but had quickly succumbed to his fatigue. The Watch got him set up with a bunk in the middle of a large courtyard that they’d set aside for the purpose. It was normally used for training, but they’d filled it with cots that they’d brought out from storage. Their barracks weren’t large enough to fit everyone, and Winter didn’t pass through walls. The courtyard worked well enough, but it was hardly the best environment for getting a good night’s rest. Fortunately, Aura Focus blocked out all of the surrounding chaos as the Watch tried to get people situated.
+
+As tired as he was, it had taken him quite a while to get to sleep. He knew rationally that he was as safe as he could be under the circumstances, but rationality didn’t have a lot to do with the sense of unease that he still felt. He was half expecting that, when his senses returned, he’d find himself somewhere other than where he’d fallen asleep. It had happened before, not even counting the time he’d been teleported out of his tiny apartment. Aura Focus blocked his senses so thoroughly that it took quite a bit to wake him. It reminded him of his first party in college, just without the headache and feeling of a mouth full of socks.
+
+Before he’d gone to sleep, he’d set his alarm for 7:00 AM, an hour earlier than the default. He wanted some time to review things before everyone else woke up. He’d debated trying to force the training dialog to appear before he went to bed, but decided against it. He’d already done plenty of soul surgery that day, and he wasn’t sure what the limits were with regards to that kind of thing. It was possible that he could trigger it whenever he liked, but it was also possible that doing so more than once in a day would have him puking rainbows.
+
+The pile of things he needed to investigate just kept getting longer. He blearily dismissed his alarm and pulled up his full status, moving the windows around above him to form a dome, all without lifting a finger.
+
+Training Overview
+
+General Experience Earned
+
+Mana Use: 10000
+
+Skill Experience Earned
+
+Mana Manipulation: 203
+
+Aura Compression: 2993
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 22749/22750
+
+Dynamo
+
+Health
+
+820
+
+Stamina
+
+600
+
+Mana
+
+7312
+
+Strength
+
+41[10]
+
+Recovery
+
+31[10]
+
+Endurance
+
+30[10]
+
+Vigor
+
+35[10]
+
+Focus
+
+39[10]
+
+Clarity
+
+221[200]
+
+Free Points
+
+0
+
+First annoyance of the day: I can’t see my stamina usage because the mana use swamped it and I hit the cap. He summoned his HUD and looked at the stamina gauge. His current total appeared next to the bar when he focused, showing 120/600. When he’d woken up yesterday, it had been at 307/400. He’d since boosted the cap using the ring, but his stamina regen wasn’t sufficient to return him to full in a reasonable timeframe.
+
+Hum. I checked it yesterday at 10 AM or so, then I boosted regen up to 350/day. It’s been at that level for just under 22 hours. That’s around 320 stamina I should have regenerated. The jogging, plus walking around and stuff, got me down to practically zero. That’s a stamina usage of 307 + 320 - 120. 507. Call it 500. Let’s see what that got me in terms of buff tolerance.
+
+Adaptation
+
+Effective
+
+Total
+
+Base
+
+Potential
+
+Buff
+
+Tolerance
+
+Strength
+
+5.52
+
+41
+
+10
+
+23%
+
+31
+
+14
+
+Recovery
+
+6.15
+
+31
+
+10
+
+41%
+
+21
+
+5
+
+Endurance
+
+3.6
+
+30
+
+10
+
+30%
+
+20
+
+2
+
+Vigor
+
+7.6
+
+35
+
+10
+
+38%
+
+25
+
+10
+
+Focus
+
+27
+
+39
+
+10
+
+100%
+
+29
+
+17
+
+Clarity
+
+218
+
+221
+
+200
+
+100%
+
+21
+
+18
+
+Current
+
+Tolerance
+
+Enchantment Stat Boosts
+
+147
+
+128
+
+Enchantment Resistances
+
+0
+
+Unknown
+
+Woof, okay, there’s a lot to unpack there. Any mind readers who don’t like math might want to tune out for a bit. Let’s see. Yesterday when I first set this panel up, my tolerances were 13, 3, 2, 7, 11, and 3, with an overall tolerance of 127. After I used Winter in the guild, my Clarity tolerance was already up to 9, and Focus tolerance had gone up to 13. Pretty good progress there.
+
+Last night before I went to bed, it was 14, 4, 2, 8, 15, and 14…I think? Damn, this is a lot to keep track of. I should get another notebook. Putting that on the list for today. Overmana has its limits, especially since I’m not really getting much because I need to charge the armor. Anyway, one at a time.
+
+Strength: My tolerance was 13 to start with. Then, I walked around and went to a meeting, but my tolerance didn’t change. After that, I did a whole bunch of jogging. That brought it up to 14 when I checked last night, and it’s still 14 now. Humm. I think I can conclude that time isn’t a factor, only exercise. Jogging is okay for Strength training I guess, but I should try lifting weights or something. As for potential, that hasn’t changed at all. It’s still at 23%. In fact, none of them have. Huh. Moving on.
+
+Recovery: Was 3 when I started, up to 4 last night, and now it’s up to 5. I didn’t take any damage yesterday, so I guess that’s just from regeneration up to the boosted cap that I got from putting points in Strength. I don’t think I’m going to train this one directly, at least not right now. I’ll think about it later. Hopefully, there’ll be a way that doesn’t involve hurting myself.
+
+Endurance: Was 2, hasn’t changed. Okay then. I probably need to take damage for that one too. Not going to be fun. I’ll think about it later. Still, I would have thought enduring all that cold air would have done…something. Oh well. Doesn’t look like stamina usage counts, or if it does, 500 is nowhere near enough.
+
+Vigor: Was 7, stayed 7 after a few hours of walking around, then went up to 8 after all that jogging. Now it’s 10. Recovering stamina overnight must have done it. The 320 points of stamina recovery got me 3 points of adaptation. Does that mean one point per 100 stamina recovered, or is that just a coincidence? Who knows! Too many damn variables. Sometimes, I don’t even know why I bother. Okay, Rain, stay focused. Time for…Focus, hah.
+
+Focus: Was 11 when I started, went up to 13 after the Guild, now it’s 17. I used a full mana pool on Operation Heatsink, plus the maintenance cost of Winter, plus everything I’ve fed into the armor, plus a bit of Purify. That should have been around…25,000 mana in total. More or less. Maybe? Honestly, I’m shocked that I can even remember this much. Anyway, that got me 6 points toward my tolerance. That’s pretty good progress, but as for the formula…yeah, still no idea. It isn’t 1 point per 100 mana, that’s for sure.
+
+Clarity: Was 3, went straight up to 9 after the Winter session at Staavo’s place. That’s 6 points for regenerating a full mana pool. Then, I used Winter at the guild to do another full pool. That got me up to 14, though I didn’t check it until last night, which might confuse matters. Another 5 points. Coincidence? Maybe? Now it’s at 18, meaning I only got 4 more points despite the fact that I’ve had Winter on all night. Either it matters how far above your tolerance you are, or it gets slower the higher your tolerance gets…probably both. Damn it. This is so frustrating. I am not nearly caffeinated enough for this. Okay, last one.
+
+Overall Tolerance: Was 127, now it’s 128, and has been since I checked it in the Guild. Well, that’s disappointing. I don’t feel the bone fire at least. The total buff from the ring right now is 147, which was 20 points past the limit when I started. The fact that I’m still feeling okay means that being that far over the limit is safe enough. How effective is it at raising my tolerance, though? I don’t know! Am I over-training? I don’t know! Am I under-training? I don’t know! Am I overthinking this? Yes!
+
+Bah. I really should run some isolated experiments, but that would take too long. I cannot stop. The numbers must go up. He smiled. Anyway, time to set my buffs for today. I can’t just straight up boost things further because of the bone fire, so it’s time to prioritize.
+
+Endurance, I don’t really need right now. Stamina regen is more important than total Stamina. More regen means more training in less time. Plus, I want to see if training without the buff will help my potential. It’s weird that none of them changed. Either it’s really hard to raise them, or something else is going on there.
+
+As for the next pair, Strength I definitely want. I need the health so I can avoid dying. Recovery is less important—I’m not hurt right now—but it will be important eventually. Humm.
+
+On the mental side of things, Focus isn’t that important. It’s the same story as Endurance. More regen means more training, meaning I should prioritize Clarity. Huh, me prioritizing Clarity. Who would have thought?
+
+The bottom line is that I’m taking points out of Endurance and Focus and putting them in Strength, Vigor, and Clarity. Long-term, I should probably work on Recovery, so maybe I’ll put some points there too—Oh! Idea! If I turn down Strength, I’ll lose health because the cap will go down. That will mean I can regenerate it to train Recovery once I put the Strength back. No pain required. Man, I should have thought of that before. Have I mentioned I need coffee?
+
+Glancing at the control panel for the ring, he quickly dropped his Strength buff down from 31 to 10. That would bring his max health down from 820 to 400. He gasped, feeling a most curious sensation pass over him in a wave. What the hell was that? I feel…better. My muscles aren’t sore any more. What the hell? I have less health, so that doesn’t make sense…oh. Ohhhhhhhh. Overhealth is healing. When I dropped my max, the extra must have been applied to my body, fixing all the muscle damage from the running. That is so cool! I could probably do the same thing with stamina to deal with general fatigue. It’s a shame that I have less than 200 right now so I can’t try it.
+
+He shifted slightly, hoping that nobody had noticed his gasp. He hadn’t been able to hear how loud it was because of Aura Focus. If anyone asked, he’d just say he had been dreaming. He returned his attention to the panels and spent a few minutes playing with the settings on the ring, pausing to review when he was satisfied.
+
+Adaptation
+
+Effective
+
+Total
+
+Base
+
+Potential
+
+Buff
+
+Tolerance
+
+Strength
+
+5.52
+
+44
+
+10
+
+23%
+
+34
+
+14
+
+Recovery
+
+6.15
+
+35
+
+10
+
+41%
+
+25
+
+5
+
+Endurance
+
+3
+
+10
+
+10
+
+30%
+
+0
+
+2
+
+Vigor
+
+7.6
+
+40
+
+10
+
+38%
+
+30
+
+10
+
+Focus
+
+27
+
+30
+
+10
+
+100%
+
+20
+
+17
+
+Clarity
+
+218
+
+238
+
+200
+
+100%
+
+38
+
+18
+
+Current
+
+Tolerance
+
+Enchantment Stat Boosts
+
+147
+
+128
+
+Enchantment Resistances
+
+0
+
+Unknown
+
+There, that should do. Twenty above tolerance on Strength, Recovery, Vigor, and Clarity. Endurance is the dump stat because I don’t need a big stamina pool and the resists are piddly. Intrinsic Resistance would help with that, but I’m not exactly going to have a spare point for it any time in the next…ever. Oh well. That leaves Focus with the rest so I can keep my overall stat boost the same.
+
+How’s this look on the stats window?
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+880
+
+880
+
+0
+
+100%
+
+H.Regen
+
+350/day
+
+350/day
+
+0/day
+
+100%
+
+Stamina
+
+200
+
+200
+
+0
+
+100%
+
+S.Regen
+
+400/day
+
+400/day
+
+0/day
+
+100%
+
+Mana
+
+7115
+
+7115
+
+0
+
+100%
+
+M.Regen
+
+2.71/s
+
+0.253/s
+
+-0.15/s
+
+1130.0%
+
+Movement Speed
+
+10
+
+Perception
+
+20
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Right, so I’ve got 880 max health now. I’m currently at 400 and getting 350 a day. Good, good. As for Stamina, 200 max, currently at 130 and getting 400 a day. Works for me. Mana…what the heck? How am I full? I mean, I saw the bar, but I didn’t realize…damn. I’m really not awake yet. But why though? Mana Manipulation is still running to charge the armor, so why…
+
+He blinked.
+
+Wait a second here. My mana regen’s way higher than it should be too. The mana siphon must have gotten weaker. Oh, come to think of it, what happened to—AH!
+
+Rain jumped as the Majistraal barrier dialog appeared front and center the moment he thought about it.
+
+Attention
+
+The defense field is active. Please remain calm.
+
+Ingress and Egress from the protected volume is restricted to outpost residents.
+
+Barrier Integrity: Fair
+
+Mana Siphon: Active
+
+Oh hey. There it is. I didn’t even realize it was missing. Derp. I’m on fire today.
+
+Humm, the integrity is ‘Fair’ and the siphon is still active, but it’s way weaker…around 50% instead of 90%. That’s a huge relief. Anyway, I’m at full mana, which means it must have stepped itself down pretty soon after I fell asleep. Oh well, might as well charge it up now. Hum, now that the barrier isn’t really low, maybe—
+
+He blinked as the dialog vanished. Ah, there it goes. Nice. The Majistraal must have set it up that way, only forcing it to be displayed when the city was in imminent danger of barrier failure. He put it out of his mind and shifted his focus to his inventory screen. His armor was completely discharged, the Dark Regeneration rune having greedily slurped up the trickle of mana that he’d been feeding it while he slept.
+
+Inventory
+
+Dark Revenant’s Armor [Bound]
+
+Durability: 7,704/1,309
+
+Hardness: 207
+
+Material: Dark Steel
+
+Mana Conversion: 99.9%
+
+Mana Saturation: 0/13,202 mp
+
+Mana Dissipation: 92 mp/s
+
+Mana Capacitance Rune
+
+0/14,209 mp
+
+Import Efficiency: 1%
+
+Export Efficiency: 0%
+
+Enhanced Durability Rune [Inactive]
+
++12,029 durability, 20 mp/day
+
+Enhanced Hardness Rune [Inactive]
+
++597 hardness, 25 mp/day
+
+Enhanced Dark Resistance Rune [Inactive]
+
++50 dark resistance, 20 mp/day
+
+Dark Regeneration Rune [Inactive]
+
++1 durability/s, 0.8 mp/s
+
+Malleable Ring [Bound]
+
+Durability: 102/102
+
+Material: Grand Arcane Gold
+
+Mana Capacitance Rune
+
+115/226 mp
+
+Import Efficiency: 75%
+
+Export Efficiency: 0%
+
+Stat Enhancement Rune Complex [Active]
+
+Maximum Allocation: 287 points
+

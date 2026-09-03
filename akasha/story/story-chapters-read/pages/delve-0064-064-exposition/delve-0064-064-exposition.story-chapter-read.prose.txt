@@ -1,0 +1,568 @@
+The familiar ring of Rain’s alarm coaxed him from sleep. He dismissed it and sat up, his cloak sliding down to rest in his lap. The bed of leaves he was lying on crinkled as he moved. He and Jamus had spent the night in the hut at the insistence of Ameliah and Tallheart. Rain had only relented because both of them said that they had plenty of cold resistance.
+
+He still wasn’t happy about it. It wasn’t like they didn’t feel the cold. From what they said, it was just less intense and wouldn’t do any damage. It still must have sucked to spend the night outside, especially since it had started snowing again.
+
+Jamus groaned unhappily. “Ow, my back,” he said as he sat up.
+
+Rain smiled. “Good morning, Jamus. Yeah, we need to start working on Tallheart’s house so we can get some proper beds out here. All this sleeping on the ground isn’t doing it for me.”
+
+Jamus stood and stretched. “I’m getting too old for this. I have a proper goose feather mattress back in the city, and a servant to keep the fire going all night. If not for the fact that I’d go insane from boredom, I could just retire, you know?”
+
+“Wait, you have a servant?”
+
+Jamus grabbed his hat and shook it to remove the leaves that had crept in overnight. “More like a housekeeper. Who do you think takes care of the place when I’m out fighting monsters and searching for treasure? I hired him about a year back. Lots of adventurers do that.”
+
+“Oh. I hadn’t considered that. Do you, like, pay him, or…?”
+
+“Of course I pay him. He gets to live at my house for free, too. It’s a pretty good deal overall. Didn’t you have servants where you came from? Oh, wait, you weren’t an adventurer before. Could you not afford one?”
+
+Huh. I guess I need to get used to the fact that adventurers are rich in comparison to normal people. Well, they’re middle-class at least. Servants always struck me as a ‘nobles only’ kind of thing, but now that I think about it, it kinda makes sense. I’m not sure I like the idea, but hey. He shook his head. “No, my world doesn’t have servants. At least, not for normal people. Not anymore.”
+
+“Odd,” Jamus said. “Well, I’m going to go make breakfast. I think I’ll try my hand at making those fried potatoes of yours. I think I can do better. No offense, but they came out a bit hard in the middle. They were good, but…”
+
+“Yeah, yeah, I know. Getting the temperature right is a lot harder than I thought. Fries aren’t for breakfast, though. Try shredding the potatoes and making them into little patties, then frying those in a pan. Those are called hash browns and they are amazing.”
+
+“Sounds good to me,” Jamus said. “You coming?”
+
+Rain sighed and got up, grabbing his cloak and sweeping it around his shoulders. “Yeah, might as well. I want to review my skills and stuff before we go see Staavo, but I might as well get some sun.”
+
+“You’re not going to get much sun unless you take that helmet off. I still can’t believe you can sleep like that.”
+
+“Hey, things haven’t exactly been going well for my skull lately. I’m not taking this off if I don’t have to. It’s comfortable enough. Tallheart is some kind of wizard when it comes to metal.”
+
+“Suit yourself,” Jamus said, walking out into the morning light.
+
+Rain followed him. The others were already awake. Ameliah was working on getting a fire going and Tallheart was seated nearby, looking half-asleep. He’d stayed up late yesterday, working on his new crucible.
+
+Test subject acquired. Once Jamus is done with breakfast, I’ll introduce the sleepy smith to the wonder that is coffee. I just wish I had enough for everyone. Maybe if we use very small cups…
+
+He greeted the others, then used Immolate to warm up the clearing and melt the snow before freshening things up with a blast of Purify. He sat himself down on a log near the fire while Jamus explained the kind of pan he wanted to Tallheart. Ameliah left to go get water from the river. It looked like he’d have some time while the others were busy, so he dug in to review his status in detail.
+
+Training Overview
+
+General Experience Earned
+
+Health Use: 23
+
+Stamina Use: 36
+
+Mana Use: 10131
+
+Skill Experience Earned
+
+Mana Manipulation: 1284 [Rank Up]
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 17939/22750
+
+Dynamo
+
+Health
+
+200
+
+Stamina
+
+200
+
+Mana
+
+5100
+
+Strength
+
+10
+
+Recovery
+
+10
+
+Endurance
+
+10
+
+Vigor
+
+10
+
+Focus
+
+10
+
+Clarity
+
+200
+
+Free Stat Points
+
+0
+
+Oops. I didn’t use enough mana to make up for the skill trees I unlocked this time around. I can actually see my stamina usage for once without the mana use swamping it. I got the last tier-three and five tier-twos, so that should have been 15k experience. I used way more mana than that, but it was mostly charging the armor, so it didn’t get me much experience. Damn Mana Manipulation. Oh well. Now that I’ve got tier-three on all of the trees I’m interested in, it doesn’t matter. I’ll probably keep unlocking tier-twos. No reason not to.
+
+As for the armor, how am I doing?
+
+Dark Revenant’s Armor [Bound]
+
+Durability: 5,321/1,309
+
+Hardness: 207
+
+Material: Dark Steel
+
+Mana Conversion: 99.9%
+
+Mana Saturation: 0/13,202 mp
+
+Mana Dissipation: 92 mp/s
+
+Mana Capacitance Rune
+
+0/14,209 mp
+
+Import Efficiency: 1%
+
+Export Efficiency: 0%
+
+Enhanced Durability Rune [Inactive]
+
++12,029 durability, 20 mp/day
+
+Enhanced Hardness Rune [Inactive]
+
++597 hardness, 25 mp/day
+
+Enhanced Dark Resistance Rune [Inactive]
+
++50 dark resistance, 20 mp/day
+
+Dark Regeneration Rune [Inactive]
+
++1 durability/s, 0.8 mp/s
+
+1,284 mana should have gone in, less 40 or so for the enchantment upkeep. Divide by 0.8 gets me…1,555 durability. It’s showing 5,321 and was at 4,101 yesterday morning. Lavarro’s spell must have done some damage to the metal, a little over 300. I’d be paste if not for the armor, though she probably wouldn’t have pushed as hard on me if I wasn’t wearing it. I don’t think she actually wanted to kill us…
+
+Anyway, I should charge this sucker up again.
+
+Dark Revenant’s Armor [Bound]
+
+Durability: 5,321/13,338 [1,309]
+
+Hardness: 804 [207]
+
+Material: Dark Steel
+
+Mana Conversion: 99.9%
+
+Mana Saturation: 0/13,202 mp
+
+Mana Dissipation: 92 mp/s
+
+Mana Capacitance Rune
+
+40/14,209 mp
+
+Import Efficiency: 1%
+
+Export Efficiency: 0%
+
+Enhanced Durability Rune [Active]
+
++12,029 durability, 20 mp/day
+
+Enhanced Hardness Rune [Active]
+
++597 hardness, 25 mp/day
+
+Enhanced Dark Resistance Rune [Active]
+
++50 dark resistance, 20 mp/day
+
+Dark Regeneration Rune [Inactive]
+
++1 durability/s, 0.8 mp/s
+
+There we go. I’m getting there, slowly but surely. Tallheart said he sacrificed the efficiency so he could get a large reservoir without messing up the mana conversion rate of the dark steel. Makes sense I guess, but damn if this thing isn’t a pain to charge.
+
+I wonder how Carten manages? He can’t have that much mana. Maybe his armor has like 50% efficiency or something. What would that do to the metal? It’s got to be weaker against magic because of it; I remember him howling when Jamus hit him with that lightning ball just before we went over the….anyway. It either has better efficiency, or it’s the other kind of enchantment, the one with just a reservoir and no capacitance rune.
+
+If that’s the case, though, how did Tallheart repair it for him after Ameliah broke it? It doesn’t have self-repair for that matter, so if it’s got a durability rune, how could you even fix that? Hit it with a hammer until it’s better? Just add Tel? Are Tel mana? Damn it, I need to finish looking at my status before I drift off again.
+
+Moving on. There shouldn’t be any changes to my vitals, but I’ll open it up anyway. I might want it for later.
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+200
+
+200
+
+0
+
+100%
+
+H.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Stamina
+
+200
+
+200
+
+0
+
+100%
+
+S.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+1.67/s
+
+0.21/s
+
+-0.05/s
+
+820.0%
+
+Movement Speed
+
+10
+
+Perception
+
+20
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+51
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Yup, nothing new there. Now to buckle down and think about skills. I’ve got one free point, and I want to make sure I know what I want before I talk to Staavo. Gotta get my story straight.
+
+I’m level 18, and the next class selection is at 25. Thus, I have seven more points to play with, plus the one I have now. That’s eight points…unless the class selection has to happen before I get the one at 25. I don’t think that’s likely, but I’ll ask. Level five didn’t work like that, but messing it up by one point would be horrible. I need five points in each of my five trees if I want a legendary upgrade. I won’t settle for anything less.
+
+Let’s do this one tree at a time.
+
+Offensive Auras
+
+Tier 0
+
+Refrigerate (10/10)
+
+132-151 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 18 meters
+
+Cost: 50 mp/s
+
+Immolate (10/10)
+
+132-151 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 18 meters
+
+Cost: 50 mp/s
+
+Tier 1
+
+Shear (0/10) (+)
+
+13-15 force (fcs) damage per second to entities and environment
+
+Not occluded by mundane materials
+
+Range: 1.8 meters
+
+Cost: 10 mp/s
+
+Requires 15 ranks in Offensive Auras
+
+Shroud (0/10) (+)
+
+13-15 dark (fcs) damage per second to entities
+
+Darkens environment (fcs)
+
+Range: 1.8 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Refrigerate
+
+Radiance (0/10) (+)
+
+13-15 light (fcs) damage per second to entities
+
+Brightens environment (fcs)
+
+Range: 1.8 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Immolate
+
+Tier 2
+
+Corrosion (0/10)
+
+13-15 chemical (fcs) damage per second to entities and environment
+
+Sufficient damage disrupts health regeneration
+
+Range: 1.8 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Shroud
+
+Requires 10 ranks in Refrigerate
+
+Fulmination (0/10)
+
+13-15 arcane (fcs) damage per second to entities and environment
+
+Sufficient damage causes paralysis
+
+Range: 1.8 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Radiance
+
+Requires 10 ranks in Immolate
+
+Tier 3
+
+Discombobulate (0/10)
+
+13-15 mental (fcs) damage per second to entities
+
+Not occluded by mundane materials
+
+Sufficient damage causes hallucinations
+
+Damage applies to mana instead of health
+
+Range: 1.8 meters
+
+Cost: 5 mp/s
+
+Requires 50 ranks in Offensive Auras
+
+Tier 4
+
+Locked
+
+Shear I want. Going through walls is a huge plus, and I could even take it now. The issue is the environmental damage. I’m visualizing a gigantic blender with me at the center. I need something I can use without mulching the city. Discombobulate looks like it fits the bill.
+
+Talk about a nasty skill. Against warriors and stuff with low mana, it would be devastating. I’ve felt undermana, and I’m absolutely sure that it would take them out of the fight almost immediately. I need to be careful once I get it, though. Jamus said too much undermana can cause brain damage or even death. It’s hardly a non-lethal option. No environment damage, though, so it is absolutely on the list. Too bad I can’t take it because of the requirement.
+
+Shroud and Radiance also don’t damage the environment, at least not directly; I’ve got no way of knowing how strong the lightening and darkening effects are. I can’t see Darkness causing mageburn, but light totally could. I don’t want to go blind. Fulmination and Corrosion aren’t options until I meet the prereqs, so they’re off the table for the moment.
+
+I need three more skills in this tree, so I’m thinking Shroud first, then Shear, then Corrosion. It’s tier-two, so it beats Radiance, even if they look the same in terms of numbers. Chemical damage just sounds plain nasty.
+
+Anyway, Shroud is in contention for the one free point I have now. I need some way of fighting without mageburning myself, and darkness seems like it would be it. Also, it would take my ringwraith impression to the next level.
+
+Can’t just waste a point though. I don’t want to gimp myself at 18 forever. If I pick the wrong thing I might not be able to beat a higher-level essence monster. I can’t count on being carried for the next one.
+
+Defensive Auras
+
+Tier 0
+
+Cold Ward (0/10) (+)
+
+Increase cold resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Heat Ward (0/10) (+)
+
+Increase heat resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 1
+
+Dark Ward (0/10) (+)
+
+Increase dark resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Mental Ward (0/10) (+)
+
+Increase mental resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Arcane Ward (0/10) (+)
+
+Increase arcane resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Chemical Ward (0/10) (+)
+
+Increase chemical resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Light Ward (0/10) (+)
+
+Increase light resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 2
+
+Force Ward (10/10)
+
+Increase physical resistance by 54% for all entities
+
+Range: 18 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 3
+
+Suppression (0/10)
+
+Increase mana costs for all entities by 18.9 mp (fcs)
+
+Range: 1.8 meters
+
+Cost: 1 mp/s
+
+Requires at least 1 rank in an aura of each element
+
+Tier 4
+
+Locked
+
+The wards are hard to pick between. My first candidate is Arcane Ward. That should help block all kinds of random stuff. It is hard to say what I’ll go up against, but things like Velocity have got to fall under arcane. Being able to block those kinds of shenanigans is important.
+
+Suppression also sounds great. Mages would hate me. It’s too bad that I can’t take it yet. I need one rank in an aura of each element. It doesn’t say ‘defensive aura’, though, so I’m a bit closer to that than it would appear. I’ve got hot and cold from Immolate and Refrigerate, force from Force Ward, plus arcane, probably. All of the utility auras have got to be arcane—unless they are untyped? Not sure if that is a thing.
+
+The bottom line is that I need mental, chemical, light, and dark. If I get dark from Shroud and chemical from Corrosion, that leaves light and mental to take from this tree. There’s nothing in Utility that would cover those. I’m thinking Arcane Ward first to deal with magical bullshit, then Mental Ward, then Light Ward. The fourth point could then go to Suppression if the auras from other trees count like I think they do. If they don’t, then oh well, it wouldn’t be like I could get Suppression before 25 anyway. I can just spend the last point on another ward to make five. Next.
+
+Utility Auras
+
+Tier 0
+
+Purify (10/10)
+
+Purify poison, corruption, and contamination
+
+Range: 18 meters
+
+Cost: 100 mp/min
+
+Winter (10/10)
+
+Boost M.Regen by 180% for all entities
+
+Range: 18 meters
+
+Cost: 10 mp/hr
+

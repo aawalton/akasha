@@ -1,0 +1,266 @@
+Hefty Maul
+
+Durability: 700/709
+
+Hardness: 142
+
+Material: Force Oak
+
+Mana Capacitance Rune
+
+404/3000 mp
+
+Import Efficiency: 100%
+
+Export Efficiency: 0%
+
+Weight Rune
+
+347% increase to mass, 57 mp/day
+
+Livingwood Rune
+
+Recover 10 durability per day
+
+Requires access to light, air, water, and nutrients
+
+Spark Lighter
+
+Durability: 38/44
+
+Material:
+
+Body: Iron Pyrite
+
+Striker: Arcane Flint
+
+Ambient Mana Rune
+
+1/1 mp
+
+Reduced Spark Rune
+
+Create a shower of sparks
+
+1mp/use
+
+Skulker’s Pigsticker
+
+Durability: 97/103
+
+Hardness: 129
+
+Material: Chem Steel
+
+Mana Capacitance Rune
+
+500/1000 mp
+
+Import Efficiency: 71%
+
+Export Efficiency: 0%
+
+Venom Rune
+
+Coat the blade with Bloodquill Venom
+
+Inflicts 13 chemical damage per second for 60 seconds
+
+500 mp/application
+
+Trickshot Bracer
+
+Durability: 204/205
+
+Hardness: 78
+
+Material: Arcane Leather
+
+Mana Reservoir Rune
+
+3420/5000 mp
+
+Trickshot Rune
+
+Allows the user to charge arrows with stamina to curve their flight paths
+
+10 sp/arrow
+
+Effect lasts 10 seconds
+
+40 mp/day
+
+Cycling Ring
+
+Durability: 18/18
+
+Material: Arcane Lead
+
+Mana Capacitance Rune
+
+0/20 mp
+
+Import Efficiency: 60%
+
+Export Efficiency: 60%
+
+Leakage: 10 mp/day
+
+Razorsteel Dagger
+
+Durability: 94/107
+
+Hardness: 184
+
+Material: Force Steel
+
+Mana Capacitance Rune
+
+940/1000 mp
+
+Import Efficiency: 74%
+
+Export Efficiency: 0%
+
+Sharpness Rune
+
+23% increase to damage to all strikes when using a dagger-aspect skill, 10mp/strike
+
+52% increase to sharpness, 10mp/day
+
+Razorsteel Dagger
+
+Durability: 97/103
+
+Hardness: 180
+
+Material: Force Steel
+
+Mana Capacitance Rune
+
+940/1000 mp
+
+Import Efficiency: 74%
+
+Export Efficiency: 0%
+
+Sharpness Rune
+
+24% increase to damage to all strikes when using a dagger-aspect skill, 10mp/strike
+
+47% increase to sharpness, 10mp/day
+
+Damn it.
+
+Rain sighed, respectfully tucking Melka’s daggers into his pack. He was sitting in the antechamber to the Fells, his shadow dancing by the light of a single evertorch. The Lair’s barrier gave off a diffuse green glow, contributing to the eerie sense of unreality.
+
+He had just spent two hours digging through all of the clothes and equipment of the fallen, separating what he’d found into four piles. He rolled his shoulders, still feeling a bit stiff from sleeping on the stone floor even though he’d been up for hours.
+
+The smallest pile sat in front of him, containing all of the enchanted items. There wasn’t anything that would help him dig his way free, unfortunately. The closest was the so-called ‘Hefty Maul.’ It was basically a tree trunk with a handle. It would also be a great way to end up buried under a thousand tons of stone.
+
+The second pile contained all of the mundane weapons and armor, including a nasty looking pick and a few metal war hammers. Those would be a great help, but he’d been hoping to find something enchanted. That would have made his life much easier.
+
+In point of fact, some of the items in that pile might be enchanted after all. It was just that he had no way to tell. A bound item appeared mundane to anyone but its owner.
+
+While most bound items would become unbound after their owners’ deaths, Rain’s understanding was that this process took a while. Years in some cases. Tallheart had said that the runes he used for binding his own work were permanent, even after death. He had also said that such binding was prohibitively difficult. Only the greatest rune smiths were capable of it. The cervidian had not seemed like he was boasting when he’d said this, merely as if he’d been stating a fact. Rain was inclined to believe him.
+
+In any event, it was unlikely that any of the weapons in the pile would have such protections. Rain was planning to check back periodically in case any of the bindings broke on their own.
+
+The third pile contained all of the broken equipment and torn clothing, while the fourth was composed of food and other supplies. There wasn’t much there, but it was still enough to buy him another week or two. He had no intention of staying down here that long.
+
+Out of the corner of his eye, he caught a flicker of motion. “Hey! Get away from that! I already fed you!” he shouted, making a shooing motion at Dozer. The slime pulled back, startled, then slunk away from the pile of food.
+
+Rain watched for a moment, then nodded in satisfaction. He released a tiny pulse of Essence Well, transferring three mana to the slime as a reward for obedience. He felt its surprise and delight through their bond as it devoured the mana.
+
+When he’d fed Dozer this morning, he’d immediately noticed the return of the strange intuitive connection between them. The more mana he sent to the slime, the stronger the link became. Interestingly, the bond worked both ways. Dozer had seemed to better understand his commands after it had been fed.
+
+That wasn’t to say that the slime always did what he asked it to, though. He’d stopped feeding it after seventy-five mana, not wanting it to fall asleep again. Now, he was using the rest for positive reinforcement. If the system wouldn’t help him train the slime, he’d just have to do it the hard way.
+
+He was already amassing quite the library of slime lore. For example, he knew that the creatures always fell asleep after eating their fill of mana. The three unconscious blobs that he’d shoveled into the shower room were confirmation that it didn’t take much.
+
+Yes, three.
+
+The fourth slime had spawned just a half-hour ago. Dozer had gone after it aggressively, but Rain’s Purify aura had turned it neutral before the two monsters got a chance to fight. It was a shame; he’d wanted to see how Dozer would do against a regular slime. Rain wasn’t planning on making Dozer his personal attack dog or anything, but he did want to know if it would be capable of protecting itself.
+
+Dozer hadn’t leveled overnight despite being jam-packed full of mana. Unless Rain found some way to strengthen the monster, he’d be forced to leave it behind. He had already thought of trying to overcharge it with Essence Well, but he was reluctant to try that for fear of killing it. Letting it gain experience through combat seemed safer, somehow. He could experiment on one of the other slimes, of course, but that seemed a little cruel.
+
+What am I supposed to do if they keep spawning? They’re harmless once they’ve been decontaminated, and it’s kinda cute how derpy they are, but they’re still monsters at the end of the day. I should just kill them to be safe, and yet…
+
+He shook his head. He’d cross that bridge when he came to it.
+
+In any event, he didn’t think he’d need to wait that long before Dozer got another chance to show off his combat skills. Detection was picking up a large number of slimes in the sewers above him, more than he’d ever seen at once, other than during the incident in the bathhouse. They seemed to be spawning faster than usual, which wasn’t helping with his anxiety. He’d hardly forgotten the whispers of rank shift that had been spreading through the city.
+
+[Hullo! Rain! It’s me! So listen, Velika says…hey, how do I know if this thing’s working?]
+
+Rain sat bolt upright. “Carten? What the—”
+
+[Oh. Right. So I just have to… Time limit? Shit. Uh. Rain, look. We’re workin’ on gettin’ ya out of there. It might, uh…take a while. Some bloody idiots started a riot and—]
+
+There was a pause.
+
+[Right, forget about the riot. It’s not important. What is important is that Velika is fucking pissed. She ain’t thinkin’ straight enough to come get ya right now, but Lord Whatsit here says he needs ya to keep doing that Winter thing ya do. Ya know, the one where you pretend to be a stump? The Empire is—Oi, shove off, I’m tellin’ him, dunghumper. The only one wastin’ time is you. Sorry about that, Rain. Anyway, listen, the Adamants are here. They’re attack—]
+
+Carten’s voice cut off with no warning, right in the middle of a sentence.
+
+“Carten?!” Rain shouted. “Hey! Damn it, Carten!”
+
+A moment later, he slapped his forehead. There was no point in shouting. That had been a Message spell, likely the single-use scroll version unless Carten had secretly become a Mentalist. That didn’t seem particularly likely. In any event, Message was one-way. Carten wouldn’t have been able to hear him, even if the time limit hadn’t run out.
+
+At least, I hope that him getting cut off like that was just the time limit running out.
+
+Rain quickly pulled open the dialog showing the status of the barrier, then breathed a sigh of relief and got to his feet.
+
+Attention
+
+The defense field is active. Please remain calm.
+
+Ingress and Egress from the protected volume is restricted to outpost residents.
+
+Barrier Integrity: Fair
+
+Mana Siphon: Active
+
+The message hadn’t changed. If there really was an attack, it looked like the barrier was holding, at least for now. Still, there was no telling how long—
+
+“Ah!” Rain shouted, startled as Dozer suddenly pressed against his leg. Looking down, he picked up a flash of fear and confusion from the slime. “I’m fine, Dozer,” he said, trying to push the slime. “Hey, calm down.”
+
+He shook his head. The slime wasn’t smart enough to actually feel empathy for him, he didn’t think. This seemed more like an instinctual response to the feelings it must have received from him over the link. It was trembling with fear and had come to him for protection from whatever the perceived threat was.
+
+Rain focused on his breathing, trying to project calming feelings toward the slime. It didn’t really work, as his own mind was racing, trying to work through the implications of what Carten had said.
+
+So Velika is alive, and the Adamant Empire sent an army to attack the city. There’s been a riot, either in response to the Adamants or to what Velika did. They know I’m alive, somehow, and they want me to keep generating mana to keep the barrier up. Everyone can see the integrity on the dialog, so they must be concerned that it isn’t going to last for some other reason. How bad could it be? This is Majistraal tech, so it should be able to take quite a pounding. How strong is the Empire’s army?
+
+He shook his head. Shit. This isn’t good. I need to get out there and see for myself. I’ve got crazy regen on my own, sure, but Winter doesn’t go through stone. If I really want to help, I need to get in range of people.
+
+He walked over to the pile of unenchanted equipment and grabbed a long-handled pick. He wasn’t about to sit in Aura Focus when monsters were spawning all over the place. He didn’t have enough torches to prevent it. No, he was getting out of here. Naturally, he’d immediately stop and use Aura Focus if the integrity of the barrier actually started to drop.
+
+He stopped suddenly, struck by a thought. Or will I? Maybe I should let them batter it down. For all I know, they just want to occupy the city, not destroy it. If they break the barrier, I’ll be able to get out.
+
+After a moment, he shook his head and hefted the pick. No. It’s too risky. They might slaughter everyone. I don’t know enough about them to know for certain, but I don’t think they’d be gentle about sacking the city. Velika is bad, but she’s the devil I know. I don’t think I want to trade her for the Empire.
+
+Rain grabbed the torch and headed down the tunnel, thoughts swirling.
+
+Westbridge will come back and let us out eventually. Maybe they were even waiting for this to happen. They might have an army of their own waiting nearby to crush the Empire against the barrier. I can’t know until I get out there and see for myself.
+
+Reaching the blockage, he stuck the torch in a sconce and hefted the pick. Mindful of where he was standing, he swung cautiously at the large piece of brickwork.
+
+Steel met rock. Rock lost.
+
+Rain nodded to himself, and set to work, being careful not to swing too hard. He still wasn’t used to his new strength, and this was going to be a marathon, not a sprint. He couldn’t afford to be reckless.
+
+The pick rose and fell, slowly but surely breaking apart the bricks. Once he had the section of arch split up into to reasonably-sized chunks, he’d shovel them into the shower, then repeat the process as many times as it took to get free. It was going to take a while, judging by what Detection was telling him.
+
+Damn it all.
+
+Four figures looked down on Fel Sadanis from far above. One of them was visibly struggling, beads of sweat forming on her forehead only to be blown away by the turbulent wind that surrounded her. The others were standing easily atop a wooden platform, held unsteadily in the air by their struggling companion. The curvature of the planet was faintly visible in the far distance. It was night, and the stars above sparkled with shocking clarity. This was a view that was seldom seen, even for individuals as powerful as these four.
+
+“How are you doing, Timar?” shouted Citizen Bowcraig over the roaring wind, looking up at his struggling companion.
+
+Citizen Timar didn’t respond. She’d flown them here all the way from Jarro, and the strain was clearly too much. She was at her limit. They’d needed to fly high above the clouds to avoid detection, increasing the difficulty. If that wasn’t bad enough, it was a little-known fact that it was impossible to breathe up here. Timar had said she was compressing the bubble of air surrounding them, drawing it in from a great distance.
+
+Roughly three-quarters of the Citizens could fly in some manner, but Timar was something of a specialist. This was pure Air magic, much more difficult to detect than Arcane methods of flight. Bowcraig was hazy on the details of how one could fly using only air, especially when there was supposedly so little of it to be had up here, but he couldn’t argue with the results.
+
+Air, Earth, and Water were not primary elements. The mages that controlled them were Force mages, technically. Air was a secondary element of Force, just as Lightning was a secondary element of Arcane, and Fire was a secondary element of Heat. People often confused primary and secondary elements, calling all Heat users “Fire Mages,” for example. It was understandable, but it couldn’t be further from the truth. Bowcraig should know. He was a rare dual-primary-elementalist, specializing in both Heat and Cold. While a Fire Mage might gain more raw power by specializing, a Heat Mage had much greater flexibility and control.
+
+He looked down from the struggling Timar to get a read on his other two companions.
+
