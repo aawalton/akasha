@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const ironCommander = {
   id: "01a0657e-020b-7619-a517-f781c56bb277",

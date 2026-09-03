@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const lineOfficers = {
   id: "01a0657e-021b-7c6d-8348-973f24acc186",

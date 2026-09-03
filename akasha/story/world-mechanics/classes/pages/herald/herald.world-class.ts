@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const herald = {
   id: "01a0657e-1372-7ea6-8e22-fd84a076c7ff",

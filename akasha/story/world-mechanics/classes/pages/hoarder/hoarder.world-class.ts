@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const hoarder = {
   id: "01a0657e-1374-7e8b-8327-00aaf38d25d6",

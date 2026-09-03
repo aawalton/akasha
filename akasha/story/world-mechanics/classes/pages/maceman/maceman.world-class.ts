@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const maceman = {
   id: "01a0657e-0221-728e-a78f-7eee742c5248",

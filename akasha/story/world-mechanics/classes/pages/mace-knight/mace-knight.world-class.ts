@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const maceKnight = {
   id: "01a0657e-0221-7ee6-9dbc-1a31f3736cfd",

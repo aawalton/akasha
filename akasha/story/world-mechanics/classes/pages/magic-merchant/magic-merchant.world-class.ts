@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const magicMerchant = {
   id: "01a0657e-022a-77b0-bbfe-be7b2c849254",

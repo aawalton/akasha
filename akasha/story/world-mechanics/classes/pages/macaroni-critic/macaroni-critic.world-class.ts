@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const macaroniCritic = {
   id: "01a0657e-0221-718e-b3ba-73a89791979c",

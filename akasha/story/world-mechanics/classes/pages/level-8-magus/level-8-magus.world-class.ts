@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const level8Magus = {
   id: "01a0657e-021a-7a97-bfec-fd0daa86467d",

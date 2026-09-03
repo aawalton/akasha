@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const magicCrossbowman = {
   id: "01a0657e-022a-773d-a793-f3ab1feab6a9",

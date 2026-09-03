@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const innkeeper = {
   id: "01a0657e-020a-7916-98e1-4f6d6c7407f3",

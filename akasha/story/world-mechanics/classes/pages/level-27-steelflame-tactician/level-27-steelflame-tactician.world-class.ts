@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const level27SteelflameTactician = {
   id: "01a0657e-021a-73e5-933f-c1e45e902367",

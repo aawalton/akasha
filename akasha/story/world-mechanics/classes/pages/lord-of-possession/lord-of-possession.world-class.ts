@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const lordOfPossession = {
   id: "01a0657e-021b-7c9e-908b-b9ed0618bfce",

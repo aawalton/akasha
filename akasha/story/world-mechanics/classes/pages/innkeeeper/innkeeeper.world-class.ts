@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const innkeeeper = {
   id: "01a0657e-01fc-70a6-8afd-d8df4ce17483",
