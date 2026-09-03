@@ -57,6 +57,10 @@ export function refusalFor(shown: string): string {
     "`> out.txt 2>&1` counts as read whether or not you open out.txt.",
     "A body you already hold comes back as one line rather than the file, and `--full` returns",
     "the body anyway.",
+    "",
+    "ONE ANSWER HOLDS 28000 BYTES and breaks no file partway, so a call naming more than it can",
+    "answer comes back with an opening run of the files, names the rest as left unread, and exits 0",
+    "either way. Only what came back is recorded.",
   ].join("\n")
 }
 
