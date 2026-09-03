@@ -1,7 +1,7 @@
 import type { SelectProperty } from "@akasha/pages-system/select-property"
 
 export const relationshipCurrentCircle = {
-  id: "01a0658a-f4df-74b8-bed5-a98159f49f93",
+  id: "01a06594-c6e2-7657-a778-b726cb004ee3",
   pageTypeSlug: "select-property",
   slug: "relationship-current-circle",
   propertySlug: "relationship-current-circle",

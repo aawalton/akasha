@@ -3,7 +3,7 @@ import type { NumberProperty } from "@akasha/pages-system/number-property"
 export type RelationshipImpact = number
 
 export const relationshipImpact = {
-  id: "01a0658a-f4df-7e9d-9e64-d50baba542cc",
+  id: "01a06594-c6e2-7557-b218-89200a8d11fe",
   pageTypeSlug: "number-property",
   slug: "relationship-impact",
   propertySlug: "relationship-impact",

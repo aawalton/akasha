@@ -3,7 +3,7 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type RelationshipMetAt = string
 
 export const relationshipMetAt = {
-  id: "01a0658a-f4df-76fa-8b1d-6e7f0b9fcdd4",
+  id: "01a06594-c6e2-7649-be6d-67118c210228",
   pageTypeSlug: "text-property",
   slug: "relationship-met-at",
   propertySlug: "relationship-met-at",

@@ -3,7 +3,7 @@ import type { EmailAddressProperty } from "@akasha/pages-system/email-address-pr
 export type RelationshipEmail = string
 
 export const relationshipEmail = {
-  id: "01a0658a-f4df-7967-b8a7-a078f341ab25",
+  id: "01a06594-c6e2-7bfe-9351-b6cd1e77c186",
   pageTypeSlug: "email-address-property",
   slug: "relationship-email",
   propertySlug: "relationship-email",
