@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const recoveryRates = {
   id: "01a06594-c67c-700d-b45c-73bcd8c73a88",
