@@ -1,0 +1,27 @@
+# Cornerstone — Live Build (The Waking Stone)
+
+**Tier:** Blind · **Wakefulness Score (W):** 1 / 28 · **Build current as of:** chapter 0 (pre–chapter 1)
+
+## Faculties
+| Faculty | Depth | Anchored | Notes |
+|---|---|---|---|
+| Touch / Presence *(innate)* | 1 | — | Caps at 3. Direct contact with the bound soil. |
+| Sight | 0 (dormant) | — | Awakened by a vantage. |
+| Warmth | 0 (dormant) | — | Awakened by a gathering-hearth. |
+| Provision | 0 (dormant) | — | Awakened by a store. |
+| Memory | 0 (dormant) | — | Awakened by a keeping-place. Also the thread back toward the past life. |
+| Reach | 0 (dormant) | — | Awakened by a deep-driven work. Grows the domain. |
+
+## Powers (fused)
+None yet.
+
+## Structures
+None raised yet.
+
+## Townsfolk
+The first settlers are only just arriving — unknown to the core, felt only as pressure and vibration in the soil.
+
+## Perception right now
+- **CAN:** only direct physical contact with its own buried soil — footsteps, the bite of a shovel, the weight of a wagon, the first foundation pressed above.
+- **CANNOT yet:** see anything; know who the people are or what they feel; sense resources or scarcity; reliably remember (even its own past-life self); reach beyond its buried footprint.
+

@@ -1,0 +1,31 @@
+# The Beholder — Live Build
+
+**Name:** Pearl  ·  **Title:** — (none)
+**Build current as of chapter:** 1 (after First Harvest — Colette Vane)
+
+## Attributes (10 = average human)
+| Attribute | Value |
+|---|---|
+| Might | 8.0 |
+| Vitality | 9.0 |
+| Celerity | 11.0 |
+| Acuity | 12.0 |
+| Will | 10.0 |
+| Allure | 15.6 |
+
+*Read:* still slight and unhardened — her body is exactly what she was born with; the only thing she has changed so far is her face. Allure 15.6 is ten percent of Colette Vane's beauty, carved off the corpse and worn. Quick and sharp-eyed (Celerity 11.0, Acuity 12.0) but no real body yet (Might 8.0, Vitality 9.0) — the banking phase is for fixing that. Every point on this sheet is theft; nothing here was leveled or trained. One-decimal precision kept so the snowball reads kill to kill.
+
+## Powers
+- **Acquisition** *(core — un-stealable)* — her Onset power. On killing a person she may permanently take ONE of their top-3 notable traits at **10% of the victim's value**: an attribute (from anyone), or a power (only from an Awakened victim — Will multiplies its output). **One steal per victim.**
+
+## Stolen powers
+- *(none)* — a power can be taken only by killing an Awakened victim; none yet.
+
+## Titles
+- *(none)*
+
+## Harvest log
+- **Ch1 — Colette Vane** (Unpowered). Appraised top-3: Allure 16.0 / Celerity 15.0 / Acuity 13.0. Took **+10% Allure** (16.0 → +1.6: 14.0 → 15.6). Passed over Celerity and Acuity.
+
+The snowball has begun: one kill, one tenth of a beautiful dead woman's face, banked forever.
+

@@ -1,0 +1,34 @@
+# Nimue — Live Build Sheet
+
+**As of:** Chapter 1 — anchored at the floor-1 threshold. Decision #1 resolved: **THE SEER**.
+
+- **Level:** 1
+- **Aspect:** none (crystallizes at floor 10)
+
+## Stats
+| Stat | Value | Governs |
+|------|-------|---------|
+| VIT | 10 | HP |
+| PWR | 10 | strike / essence power |
+| SPD | 10 | turn-order / evasion |
+| ATT | **12** | Focus / essence potency / harvest quality |
+| INS | **11** | perception / crit / weakness-read |
+
+_Anchoring lean from Decision #1 (The Seer): +2 ATT / +1 INS._
+
+## Derived
+- **HP:** 100
+- **Focus:** 60
+- **Basic strike:** 20
+- **Crit:** 18% chance / +50% crit damage  _(from Open Eye)_
+
+## Essence Slots (3 total)
+1. **Open Eye** _(baseline / human shard — The Seer)_
+   - PASSIVE: reveals enemy weak points — crit 18%, +50% crit damage; **+1 essence option offered on every Harvest** (meta edge, compounds across the climb).
+   - ACTIVE: **Read** — expose a target's resistances, +20% damage dealt to it for 2 actions (2-action cooldown).
+2. _empty_
+3. _empty_
+
+## Banked free points: 0
+
+_Next decision: Floor-1 Harvest (Decision #2) — fires on the floor-1 kill; her first MONSTER essence._
