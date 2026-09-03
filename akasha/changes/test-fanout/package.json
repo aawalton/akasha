@@ -3,6 +3,10 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./triage-fanout-attribution": "./triage-fanout-attribution/triage-fanout-attribution.module.code.ts",
+    "./triage-fanout-log": "./triage-fanout-log/triage-fanout-log.module.code.ts",
+    "./triage-fanout-markers": "./triage-fanout-markers/triage-fanout-markers.module.code.ts",
+    "./triage-fanout-render": "./triage-fanout-render/triage-fanout-render.module.code.ts",
     "./fanout-failure-attribution": "./fanout-failure-attribution/fanout-failure-attribution.module.code.ts",
     "./reverse-reachability-artifact": "./reverse-reachability-artifact/reverse-reachability-artifact.module.code.ts",
     "./test-reverse-reachability": "./test-reverse-reachability/test-reverse-reachability.module.code.ts",
