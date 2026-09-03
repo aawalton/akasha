@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const mana = {
   id: "01a06594-c67b-7002-9345-ef7938e65981",
