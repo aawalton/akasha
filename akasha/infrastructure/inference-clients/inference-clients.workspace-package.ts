@@ -9,6 +9,7 @@ export const inferenceClients = {
   partSlugs: [
     "module/ace-step-client",
     "module/comfy-client",
+    "module/cop-fetch",
     "module/gemini-image-client",
     "module/inference-output-path",
     "module/inference-seed",

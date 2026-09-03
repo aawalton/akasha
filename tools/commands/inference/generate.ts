@@ -1,18 +1,23 @@
-export const summary = "Generate an image from a text prompt (Z-Image-Turbo); writes an inference-run row"
+export const summary =
+  "Generate an image from a text prompt (Z-Image-Turbo); writes an inference-run row"
 
 import { writeFile } from "node:fs/promises"
+import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
+import { drawSeed, resolveSeed } from "@akasha/inference-clients/inference-seed"
+import {
+  buildGenerationBody,
+  parseGenerationSize,
+  runGeneration,
+} from "@akasha/inference-clients/mlx-image-client"
+import { getHost } from "@akasha/inference-pool/inference-hosts"
+import { SERVICES } from "@akasha/inference-pool/inference-services"
+import { formatCommandLine } from "@akasha/inference-runs/inference-command-line"
+import { buildInferenceRunRecord } from "@akasha/inference-runs/inference-run-record"
+import { INFERENCE_SERVICES } from "@akasha/inference-runs/inference-run-services"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import { z } from "zod"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { inferenceSeed, mlxImageClient } from "../../lib/inference-clients.ts"
-import { INFERENCE_SERVICES } from "../../lib/inference/inference-run-services.ts"
-import { inferenceHosts, inferenceServices } from "../../lib/inference-registry.ts"
-import {
-  formatCommandLine,
-  inferenceOutputPath,
-  inferenceRunRecord,
-  inferenceRunStore,
-} from "../../lib/inference-run.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 const DEFAULT_SERVICE = "image-gen"
@@ -102,8 +107,7 @@ export const help: CommandHelp = {
       argLabel: "name",
       valueShape: "token",
       default: DEFAULT_SERVICE,
-      description:
-        "image-generation pool service to target",
+      description: "image-generation pool service to target",
     },
     {
       name: "--no-persist",
@@ -119,21 +123,13 @@ export const help: CommandHelp = {
 export default async function generateCommand(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const prompt = parsed.requireString("--prompt")
-  const outputPathModule = await inferenceOutputPath()
-  const outputPath = outputPathModule.resolveOutputPath(
-    "generate",
-    parsed.string("--output"),
-    Date.now()
-  )
+  const outputPath = resolveOutputPath("generate", parsed.string("--output"), Date.now())
   const size = parsed.requireString("--size")
-  const image = await mlxImageClient()
-  const { width, height } = image.parseGenerationSize(size)
-  const seedModule = await inferenceSeed()
-  const seed = seedModule.resolveSeed(parsed.nonNegativeInt("--seed"), seedModule.drawSeed)
+  const { width, height } = parseGenerationSize(size)
+  const seed = resolveSeed(parsed.nonNegativeInt("--seed"), drawSeed)
   const noPersist = parsed.boolean("--no-persist")
   const rawService = parsed.requireString("--service")
 
-  const runRecord = await inferenceRunRecord()
   const services = INFERENCE_SERVICES
   const parsedService = z.enum(services).safeParse(rawService)
   if (!parsedService.success) {
@@ -141,7 +137,7 @@ export default async function generateCommand(args: readonly string[]): Promise<
   }
   const inferenceService = parsedService.data
 
-  const service = (await inferenceServices()).find((s) => s.name === inferenceService)
+  const service = SERVICES.find((s) => s.name === inferenceService)
   if (service === undefined) {
     throw operationalError(`no ${inferenceService} service is declared in the registry`)
   }
@@ -158,10 +154,10 @@ export default async function generateCommand(args: readonly string[]): Promise<
   const guidance = await parseGuidance(parsed.string("--guidance"))
   const timeoutMs = (parsed.nonNegativeInt("--timeout") ?? DEFAULT_TIMEOUT_SEC) * 1000
 
-  const macbookAddress = (await inferenceHosts()).getHost(service.host).address
+  const macbookAddress = getHost(service.host).address
   const baseUrl = `http://${macbookAddress}:${service.port}`
 
-  const record = runRecord.buildInferenceRunRecord({
+  const record = buildInferenceRunRecord({
     service: inferenceService,
     operation: "generate",
     model,
@@ -177,12 +173,12 @@ export default async function generateCommand(args: readonly string[]): Promise<
     ...(guidance !== undefined ? { guidance } : {}),
   })
 
-  await (await inferenceRunStore()).recordInferenceRun(
+  await recordInferenceRun(
     record,
     async () => {
-      const png = await image.runGeneration({
+      const png = await runGeneration({
         baseUrl,
-        body: image.buildGenerationBody({
+        body: buildGenerationBody({
           model,
           prompt,
           size,
@@ -192,7 +188,7 @@ export default async function generateCommand(args: readonly string[]): Promise<
         }),
         timeoutMs,
       })
-      await outputPathModule.ensureOutputDir(outputPath)
+      await ensureOutputDir(outputPath)
       await writeFile(outputPath, png)
       process.stdout.write(`wrote ${png.byteLength} bytes to ${outputPath}\n`)
       return { outputPath, outputBytes: png }

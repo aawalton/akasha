@@ -1,11 +1,13 @@
 export const summary = "List image pool services + the live env-local mflux-* batch-CLI surface"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { inferenceBuildScript, inferenceReconcile } from "../../lib/inference-reconcile.ts"
-import { inferenceHosts, inferenceServices } from "../../lib/inference-registry.ts"
-import { type InferenceService } from "../../lib/inference/schema"
-import { inferenceSsh } from "../../lib/inference-ssh.ts"
+import { getHost } from "@akasha/inference-pool/inference-hosts"
+import { parseMfluxTools } from "@akasha/inference-pool/inference-reconcile"
+import type { InferenceService } from "@akasha/inference-pool/inference-schema"
+import { SERVICES } from "@akasha/inference-pool/inference-services"
+import { runSshCapture } from "@akasha/inference-pool/inference-ssh"
+import { buildMfluxQueryScript } from "@akasha/inference-pool/provision-script"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [],
@@ -31,14 +33,12 @@ function isImagePoolService(service: InferenceService): boolean {
 export default async function inferenceCapabilities(args: readonly string[]): Promise<void> {
   parseArgs(help, args)
 
-  const services = await inferenceServices()
-  const imageServices = services.filter(isImagePoolService)
+  const imageServices = SERVICES.filter(isImagePoolService)
   const first = imageServices[0]
   if (first === undefined) {
     process.stdout.write("(no image services declared)\n")
     return
   }
-  const { getHost } = await inferenceHosts()
   const host = getHost(first.host)
 
   process.stdout.write(`\n=== ${host.name} (${host.address}) — image capabilities ===\n`)
@@ -63,9 +63,6 @@ export default async function inferenceCapabilities(args: readonly string[]): Pr
   )
   let tools: readonly string[] = []
   try {
-    const { buildMfluxQueryScript } = await inferenceBuildScript()
-    const { runSshCapture } = await inferenceSsh()
-    const { parseMfluxTools } = await inferenceReconcile()
     const target = { user: host.user, host: host.address, keyPath: host.keyPath }
     tools = parseMfluxTools(await runSshCapture(target, buildMfluxQueryScript(host, queryEnv)))
   } catch (err) {

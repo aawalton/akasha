@@ -1,17 +1,17 @@
-export const summary = "Read a clip with the Qwen3-VL VLM and answer a motion-artifact checklist; writes an inference-run row"
+export const summary =
+  "Read a clip with the Qwen3-VL VLM and answer a motion-artifact checklist; writes an inference-run row"
 
 import { mkdtemp, readdir, readFile, rm } from "node:fs/promises"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
+import * as vlm from "@akasha/inference-clients/mlx-vlm-client"
+import { getHost } from "@akasha/inference-pool/inference-hosts"
+import { SERVICES } from "@akasha/inference-pool/inference-services"
+import { formatCommandLine } from "@akasha/inference-runs/inference-command-line"
+import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
+import * as store from "@akasha/inference-runs/inference-run-store"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { mlxVlmClient } from "../../lib/inference-clients.ts"
-import { inferenceHosts, inferenceServices } from "../../lib/inference-registry.ts"
-import {
-  formatCommandLine,
-  inferenceRunRecord,
-  inferenceRunStore,
-} from "../../lib/inference-run.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 const SERVICE_NAME = "mlx-vlm"
@@ -23,7 +23,6 @@ async function listPngs(dir: string): Promise<string[]> {
 }
 
 async function framesToDataUrls(dir: string, want: number): Promise<string[]> {
-  const vlm = await mlxVlmClient()
   const all = await listPngs(dir)
   if (all.length === 0) throw operationalError(`no PNG frames found in ${dir}`)
   const picked = vlm.selectFrameIndices(all.length, want).map((i) => all[i])
@@ -100,16 +99,12 @@ export default async function videoQaCommand(args: readonly string[]): Promise<v
   }
   if (frames <= 0) throw inputError(`--frames must be positive, got ${frames}`)
 
-  const service = (await inferenceServices()).find((s) => s.name === SERVICE_NAME)
+  const service = SERVICES.find((s) => s.name === SERVICE_NAME)
   if (service === undefined) {
     throw operationalError(`no ${SERVICE_NAME} service is declared in the registry`)
   }
-  const host = (await inferenceHosts()).getHost(service.host)
+  const host = getHost(service.host)
   const baseUrl = `http://${host.address}:${service.port}`
-
-  const vlm = await mlxVlmClient()
-  const runRecord = await inferenceRunRecord()
-  const store = await inferenceRunStore()
 
   let imageDataUrls: string[]
   let inputVideoFields: { inputVideoPath: string; inputVideoSha256: string } | undefined
@@ -124,7 +119,7 @@ export default async function videoQaCommand(args: readonly string[]): Promise<v
       }
       inputVideoFields = {
         inputVideoPath: videoPath,
-        inputVideoSha256: runRecord.sha256Hex(clipBytes),
+        inputVideoSha256: sha256Hex(clipBytes),
       }
       tempDir = await mkdtemp(join(tmpdir(), "inference-video-qa-"))
       await vlm.runFfmpeg(
@@ -141,7 +136,7 @@ export default async function videoQaCommand(args: readonly string[]): Promise<v
       throw inputError("provide exactly one of --video or --frames-dir")
     }
 
-    const record = runRecord.buildInferenceRunRecord({
+    const record = buildInferenceRunRecord({
       service: SERVICE_NAME,
       operation: "video-qa",
       model: vlm.MLX_VLM_MODEL,

@@ -1,18 +1,18 @@
-export const summary = "Generate a song from a style prompt + optional lyrics (ACE-Step 1.5, MLX); writes an inference-run row"
+export const summary =
+  "Generate a song from a style prompt + optional lyrics (ACE-Step 1.5, MLX); writes an inference-run row"
 
 import { setTimeout as sleep } from "node:timers/promises"
-import type { CommandHelp } from "../../ops/surface.ts"
+import { runMusic } from "@akasha/inference-clients/ace-step-client"
+import { resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
+import { drawSeed, resolveSeed } from "@akasha/inference-clients/inference-seed"
+import { getHost } from "@akasha/inference-pool/inference-hosts"
+import { SERVICES } from "@akasha/inference-pool/inference-services"
+import { formatCommandLine } from "@akasha/inference-runs/inference-command-line"
+import { buildInferenceRunRecord } from "@akasha/inference-runs/inference-run-record"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import { operationalError } from "../../lib/exit.ts"
-import { inferenceSeed } from "../../lib/inference-clients.ts"
-import { runMusic } from "../../lib/inference/cli/ace-step-client.ts"
-import { inferenceHosts, inferenceServices } from "../../lib/inference-registry.ts"
-import {
-  formatCommandLine,
-  inferenceOutputPath,
-  inferenceRunRecord,
-  inferenceRunStore,
-} from "../../lib/inference-run.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const SERVICE_NAME = "music-gen"
 const DIT_MODEL = "acestep-v15-turbo"
@@ -94,24 +94,19 @@ export default async function inferenceMusic(args: readonly string[]): Promise<v
   const lyrics = parsed.string("--lyrics")
   const durationSeconds = parsed.requireNonNegativeInt("--duration")
   const inferenceSteps = parsed.requireNonNegativeInt("--steps")
-  const seedModule = await inferenceSeed()
-  const seed = seedModule.resolveSeed(parsed.nonNegativeInt("--seed"), seedModule.drawSeed)
+  const seed = resolveSeed(parsed.nonNegativeInt("--seed"), drawSeed)
   const vocalLanguage = parsed.requireString("--vocal-language")
   const totalTimeoutMs = parsed.requireNonNegativeInt("--timeout") * 1000
   const noPersist = parsed.boolean("--no-persist")
-  const { resolveOutputPath } = await inferenceOutputPath()
   const outputPath = resolveOutputPath("music", parsed.string("--output"), Date.now())
 
-  const services = await inferenceServices()
-  const service = services.find((s) => s.name === SERVICE_NAME)
+  const service = SERVICES.find((s) => s.name === SERVICE_NAME)
   if (service === undefined) {
     throw operationalError(`no ${SERVICE_NAME} service is declared in the registry`)
   }
-  const { getHost } = await inferenceHosts()
   const host = getHost(service.host)
   const baseUrl = `http://${host.address}:${service.port}`
 
-  const { buildInferenceRunRecord } = await inferenceRunRecord()
   const record = buildInferenceRunRecord({
     service: SERVICE_NAME,
     operation: "music",
@@ -129,7 +124,6 @@ export default async function inferenceMusic(args: readonly string[]): Promise<v
     ...(lyrics !== undefined ? { lyrics } : {}),
   })
 
-  const { recordInferenceRun } = await inferenceRunStore()
   await recordInferenceRun(
     record,
     async () =>

@@ -10,6 +10,9 @@ export const upscale = {
     "container-recipe/upscale-cluster-image",
     "container-recipe/upscale-image",
     "module/upscale-bench-synth",
+    "module/upscale-cluster",
+    "module/upscale-serving-job",
+    "module/upscale-workstation",
     "python-module/upscale-srpo-graph",
     "shell-script/upscale-bench-runner",
     "shell-script/upscale-cluster-publish",
@@ -34,6 +37,10 @@ export const upscale = {
       invariantKind: "constraint",
       statement:
         "The upscaling tool answers zero when it runs out of memory, so its answer is not believed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run goes to a cluster GPU or to the workstation's own, never to both.",
     },
   ],
 } as const satisfies WorkspacePackage

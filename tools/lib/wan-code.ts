@@ -1,3 +1,6 @@
+import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
+import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import {
   WAN_DEFAULT_NEGATIVE_PROMPT,
@@ -8,9 +11,6 @@ import {
 import * as extendGraphModule from "@akasha/wan/wan-extend-graph"
 import * as i2vGraphModule from "@akasha/wan/wan-i2v-graph"
 import { z } from "zod"
-import { fetchImage, runComfyGraph } from "./inference/cli/comfy-client.ts"
-import { buildInferenceRunRecord, sha256Hex } from "./inference/inference-run-record.ts"
-import { recordInferenceRun } from "./inference/inference-run-store.ts"
 
 export type ComfyGraph = unknown
 export type InferenceRunRecord = unknown

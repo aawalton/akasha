@@ -3,9 +3,26 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./pool-config": "./pool-config/pool-config.module.code.ts"
+    "./cop-admin": "./cop-admin/cop-admin.module.code.ts",
+    "./gui-session": "./gui-session/gui-session.module.code.ts",
+    "./inference-hosts": "./inference-hosts/inference-hosts.module.code.ts",
+    "./inference-naming": "./inference-naming/inference-naming.module.code.ts",
+    "./inference-reconcile": "./inference-reconcile/inference-reconcile.module.code.ts",
+    "./inference-schema": "./inference-schema/inference-schema.module.code.ts",
+    "./inference-services": "./inference-services/inference-services.module.code.ts",
+    "./inference-ssh": "./inference-ssh/inference-ssh.module.code.ts",
+    "./mlx-audio-services": "./mlx-audio-services/mlx-audio-services.module.code.ts",
+    "./pool-config": "./pool-config/pool-config.module.code.ts",
+    "./pool-config-build": "./pool-config-build/pool-config-build.module.code.ts",
+    "./provision-script": "./provision-script/provision-script.module.code.ts",
+    "./reconcile-plan": "./reconcile-plan/reconcile-plan.module.code.ts",
+    "./service-hash": "./service-hash/service-hash.module.code.ts"
   },
   "dependencies": {
+    "@akasha/errors-core": "workspace:*",
+    "@akasha/utils-fs": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/workflow-language": "workspace:*",
     "zod": "^4.3.6"
   }
 }

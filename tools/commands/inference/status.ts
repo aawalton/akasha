@@ -1,10 +1,11 @@
 export const summary = "Print the actual managed inference state on each host"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { inferenceBuildScript, inferenceReconcile } from "../../lib/inference-reconcile.ts"
-import { inferenceHosts } from "../../lib/inference-registry.ts"
-import { inferenceSsh } from "../../lib/inference-ssh.ts"
+import { HOSTS } from "@akasha/inference-pool/inference-hosts"
+import { parseActualState } from "@akasha/inference-pool/inference-reconcile"
+import { runSshCapture } from "@akasha/inference-pool/inference-ssh"
+import { buildQueryScript } from "@akasha/inference-pool/provision-script"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [],
@@ -14,11 +15,6 @@ export const help: CommandHelp = {
 
 export default async function inferenceStatus(args: readonly string[]): Promise<void> {
   parseArgs(help, args)
-  const { HOSTS } = await inferenceHosts()
-  const { buildQueryScript } = await inferenceBuildScript()
-  const { runSshCapture } = await inferenceSsh()
-  const { parseActualState } = await inferenceReconcile()
-
   for (const host of Object.values(HOSTS)) {
     process.stdout.write(`\n=== ${host.name} (${host.address}) ===\n`)
     const target = { user: host.user, host: host.address, keyPath: host.keyPath }

@@ -1,19 +1,18 @@
-export const summary = "Upscale an image with SeedVR2 v2.5 on the workstation GPU; writes an inference-run row"
+export const summary =
+  "Upscale an image with SeedVR2 v2.5 on the workstation GPU; writes an inference-run row"
 
 import { readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import type { CommandHelp } from "../../ops/surface.ts"
+import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
+import { formatCommandLine } from "@akasha/inference-runs/inference-command-line"
+import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
+import { runClusterUpscale } from "@akasha/upscale/upscale-cluster"
+import { runWorkstationUpscale } from "@akasha/upscale/upscale-workstation"
 import { inputError } from "../../lib/exit.ts"
-import { runClusterUpscale } from "../../lib/inference/cli/upscale-cluster.ts"
-import { runWorkstationUpscale } from "../../lib/inference/cli/upscale.ts"
-import {
-  formatCommandLine,
-  inferenceOutputPath,
-  inferenceRunRecord,
-  inferenceRunStore,
-} from "../../lib/inference-run.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const SERVICE = "seedvr2-upscale"
 const OPERATION = "upscale"
@@ -124,12 +123,10 @@ export const help: CommandHelp = {
   ],
 }
 
-
 export default async function inferenceUpscale(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const imagePath = parsed.requireString("--image")
   const nowMs = Date.now()
-  const { resolveOutputPath, ensureOutputDir } = await inferenceOutputPath()
   const outputPath = resolveOutputPath("upscale", parsed.string("--output"), nowMs)
   const resolution = parsed.requireNonNegativeInt("--resolution")
   if (resolution <= 0) {
@@ -150,7 +147,6 @@ export default async function inferenceUpscale(args: readonly string[]): Promise
   const inName = `upscale-in-${stamp}.png`
   const outName = `upscale-out-${stamp}.png`
 
-  const { buildInferenceRunRecord, sha256Hex } = await inferenceRunRecord()
   const record = buildInferenceRunRecord({
     service: SERVICE,
     operation: OPERATION,
@@ -164,7 +160,6 @@ export default async function inferenceUpscale(args: readonly string[]): Promise
     inputImageSha256: sha256Hex(inputBytes),
   })
 
-  const { recordInferenceRun } = await inferenceRunStore()
   await recordInferenceRun(
     record,
     async () => {

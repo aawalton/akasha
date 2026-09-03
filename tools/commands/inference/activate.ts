@@ -1,9 +1,9 @@
 export const summary = "Swap the pool's live service to <name> (evict current, cold-load target)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
+import { copActivate, findCop } from "@akasha/inference-pool/cop-admin"
 import { operationalError } from "../../lib/exit.ts"
-import { inferenceCop } from "../../lib/inference-cop.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -23,14 +23,11 @@ export default async function inferenceActivate(args: readonly string[]): Promis
   if (name === undefined) {
     throw operationalError("missing <name>")
   }
-  const admin = await inferenceCop()
-  const cop = admin.findCop()
+  const cop = findCop()
   if (!cop.poolNames.includes(name)) {
-    throw operationalError(
-      `'${name}' is not a pool service. valid: ${cop.poolNames.join(", ")}`
-    )
+    throw operationalError(`'${name}' is not a pool service. valid: ${cop.poolNames.join(", ")}`)
   }
   process.stdout.write(`activating ${name} (cold-load may take up to ~3 min)...\n`)
-  const resident = await admin.copActivate(cop, name)
+  const resident = await copActivate(cop, name)
   process.stdout.write(`resident: ${resident.join(", ")}\n`)
 }

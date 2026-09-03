@@ -2,7 +2,17 @@
   "name": "@akasha/upscale",
   "private": true,
   "type": "module",
+  "exports": {
+    "./upscale-cluster": "./upscale-cluster/upscale-cluster.module.code.ts",
+    "./upscale-serving-job": "./upscale-serving-job/upscale-serving-job.module.code.ts",
+    "./upscale-workstation": "./upscale-workstation/upscale-workstation.module.code.ts"
+  },
   "dependencies": {
-    "@akasha/k8s-types": "workspace:*"
+    "@akasha/errors-core": "workspace:*",
+    "@akasha/k8s-types": "workspace:*",
+    "@akasha/object-store": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@tools/lib": "workspace:*",
+    "zod": "^4.3.6"
   }
 }

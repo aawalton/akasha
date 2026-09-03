@@ -1,9 +1,9 @@
 export const summary = "Print the inference reconcile plan without executing it (dry run)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
+import { reconcile } from "@akasha/inference-pool/inference-reconcile"
 import { codeRoot } from "@akasha/pages-system/code-root"
-import { inferenceReconcile } from "../../lib/inference-reconcile.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [],
@@ -13,7 +13,6 @@ export const help: CommandHelp = {
 
 export default async function inferencePlan(args: readonly string[]): Promise<void> {
   parseArgs(help, args)
-  const module = await inferenceReconcile()
   const workspace = codeRoot()
-  await module.reconcile({ workspace, dryRun: true })
+  await reconcile({ workspace, dryRun: true })
 }

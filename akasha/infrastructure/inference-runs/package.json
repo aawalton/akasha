@@ -1,0 +1,23 @@
+{
+  "name": "@akasha/inference-runs",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./generation-log": "./generation-log/generation-log.module.code.ts",
+    "./inference-command-line": "./inference-command-line/inference-command-line.module.code.ts",
+    "./inference-run-record": "./inference-run-record/inference-run-record.module.code.ts",
+    "./inference-run-services": "./inference-run-services/inference-run-services.module.code.ts",
+    "./inference-run-store": "./inference-run-store/inference-run-store.module.code.ts",
+    "./persist-audio": "./persist-audio/persist-audio.module.code.ts",
+    "./persist-image": "./persist-image/persist-image.module.code.ts",
+    "./persist-media": "./persist-media/persist-media.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/errors-core": "workspace:*",
+    "@akasha/object-store": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-url": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

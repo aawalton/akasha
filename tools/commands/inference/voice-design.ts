@@ -1,12 +1,17 @@
-export const summary = "Design a novel voice from a description (VoxCPM2 default, --service qwen3-tts); writes an inference-run row"
+export const summary =
+  "Design a novel voice from a description (VoxCPM2 default, --service qwen3-tts); writes an inference-run row"
 
 import { writeFile } from "node:fs/promises"
+import { buildCopFetchInit } from "@akasha/inference-clients/cop-fetch"
+import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
+import { getHost } from "@akasha/inference-pool/inference-hosts"
+import { SERVICES } from "@akasha/inference-pool/inference-services"
+import { formatCommandLine } from "@akasha/inference-runs/inference-command-line"
+import { buildInferenceRunRecord } from "@akasha/inference-runs/inference-run-record"
+import type { InferenceService as InferenceServiceName } from "@akasha/inference-runs/inference-run-services"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { copFetch } from "../../lib/inference-clients.ts"
-import { inferenceHosts, inferenceServices } from "../../lib/inference-registry.ts"
-import { formatCommandLine, inferenceOutputPath, inferenceRunRecord, inferenceRunStore } from "../../lib/inference-run.ts"
-import { type InferenceService as InferenceServiceName } from "../../lib/inference/inference-run-services"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 interface VoiceDesignBackend {
@@ -124,23 +129,17 @@ export default async function voiceDesignCommand(args: readonly string[]): Promi
   }
   const backend = BACKENDS[serviceName]
   const lang = parsed.requireString("--lang")
-  const outputPathModule = await inferenceOutputPath()
-  const outputPath = outputPathModule.resolveOutputPath(
-    "voice-design",
-    parsed.string("--output"),
-    Date.now()
-  )
+  const outputPath = resolveOutputPath("voice-design", parsed.string("--output"), Date.now())
   const noPersist = parsed.boolean("--no-persist")
 
-  const service = (await inferenceServices()).find((s) => s.name === backend.service)
+  const service = SERVICES.find((s) => s.name === backend.service)
   if (service === undefined) {
     throw operationalError(`no ${backend.service} service is declared in the registry`)
   }
-  const host = (await inferenceHosts()).getHost(service.host)
+  const host = getHost(service.host)
   const baseUrl = `http://${host.address}:${service.port}`
 
-  const runRecord = await inferenceRunRecord()
-  const record = runRecord.buildInferenceRunRecord({
+  const record = buildInferenceRunRecord({
     service: backend.service,
     operation: "voice-design",
     model: backend.model,
@@ -153,9 +152,7 @@ export default async function voiceDesignCommand(args: readonly string[]): Promi
     ...SERVER_SAMPLING,
   })
 
-  const { buildCopFetchInit } = await copFetch()
-
-  await (await inferenceRunStore()).recordInferenceRun(
+  await recordInferenceRun(
     record,
     async () => {
       const init = buildCopFetchInit({
@@ -176,7 +173,7 @@ export default async function voiceDesignCommand(args: readonly string[]): Promi
       }
       const wav = new Uint8Array(await r.arrayBuffer())
       await assertWavBytes(wav)
-      await outputPathModule.ensureOutputDir(outputPath)
+      await ensureOutputDir(outputPath)
       await writeFile(outputPath, wav)
       process.stdout.write(`wrote ${wav.byteLength} bytes to ${outputPath}\n`)
       return { outputPath, outputBytes: wav }

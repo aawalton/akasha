@@ -1,19 +1,21 @@
-
-export const summary = "Edit an image with an instruction (nano-banana / Google Gemini); writes an inference-run row"
+export const summary =
+  "Edit an image with an instruction (nano-banana / Google Gemini); writes an inference-run row"
 
 import { readFile, writeFile } from "node:fs/promises"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { inputError } from "../../lib/exit.ts"
-import { z } from "zod"
-import { parseArgs } from "../../lib/parse-args.ts"
-import { geminiImageClient } from "../../lib/inference-clients.ts"
-import { type GeminiImageConfig } from "../../lib/inference/cli/gemini-image-client"
 import {
-  formatCommandLine,
-  inferenceOutputPath,
-  inferenceRunRecord,
-  inferenceRunStore,
-} from "../../lib/inference-run.ts"
+  type GeminiImageConfig,
+  imageFormatForPath,
+  runGeminiEdit,
+  transcodeImage,
+} from "@akasha/inference-clients/gemini-image-client"
+import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
+import { formatCommandLine } from "@akasha/inference-runs/inference-command-line"
+import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
+import { z } from "zod"
+import { inputError } from "../../lib/exit.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const EDIT_ENGINES = ["nano-banana"] as const
 
@@ -182,11 +184,6 @@ async function runNanoBananaEdit(
     throw inputError("GEMINI_API_KEY is not set (add it to ~/.secrets.env)")
   }
 
-  const { buildInferenceRunRecord, sha256Hex } = await inferenceRunRecord()
-  const { recordInferenceRun } = await inferenceRunStore()
-  const { runGeminiEdit, transcodeImage, imageFormatForPath } = await geminiImageClient()
-  const { ensureOutputDir } = await inferenceOutputPath()
-
   const hasRefs = opts.referenceImagePaths.length > 0
   const record = buildInferenceRunRecord({
     service: "image-edit-nano-banana",
@@ -245,12 +242,9 @@ export default async function inferenceEdit(args: readonly string[]): Promise<vo
 
   const rawEngine = parsed.requireString("--engine")
   if (!z.enum(EDIT_ENGINES).safeParse(rawEngine).success) {
-    throw inputError(
-      `--engine must be one of ${EDIT_ENGINES.join(", ")}, got '${rawEngine}'`
-    )
+    throw inputError(`--engine must be one of ${EDIT_ENGINES.join(", ")}, got '${rawEngine}'`)
   }
 
-  const { resolveOutputPath } = await inferenceOutputPath()
   const outputPath = resolveOutputPath("edit", outputFlag, Date.now())
 
   let inputBytes: Uint8Array
@@ -261,7 +255,6 @@ export default async function inferenceEdit(args: readonly string[]): Promise<vo
   }
 
   const referenceImageSha256s: string[] = []
-  const { sha256Hex } = await inferenceRunRecord()
   for (const refPath of referenceImagePaths) {
     try {
       referenceImageSha256s.push(sha256Hex(await readFile(refPath)))

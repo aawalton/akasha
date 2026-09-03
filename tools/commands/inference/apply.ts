@@ -1,9 +1,10 @@
-export const summary = "Reconcile declared inference services onto their non-cluster host (apply + prune)"
+export const summary =
+  "Reconcile declared inference services onto their non-cluster host (apply + prune)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
+import { reconcile } from "@akasha/inference-pool/inference-reconcile"
 import { codeRoot } from "@akasha/pages-system/code-root"
-import { inferenceReconcile } from "../../lib/inference-reconcile.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [],
@@ -13,9 +14,8 @@ export const help: CommandHelp = {
 
 export default async function inferenceApply(args: readonly string[]): Promise<void> {
   parseArgs(help, args)
-  const module = await inferenceReconcile()
   const workspace = codeRoot()
-  const summary = await module.reconcile({ workspace, dryRun: false })
+  const summary = await reconcile({ workspace, dryRun: false })
   process.stdout.write(
     `inference reconcile done: ${summary.applied} applied, ${summary.skipped} skipped, ${summary.pruned} pruned\n`
   )

@@ -912,6 +912,21 @@
     "akasha/infrastructure/inference-pool": {
       "name": "@akasha/inference-pool",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "@akasha/workflow-language": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/infrastructure/inference-runs": {
+      "name": "@akasha/inference-runs",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/object-store": "workspace:*",
+        "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-url": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -952,7 +967,12 @@
     "akasha/infrastructure/upscale": {
       "name": "@akasha/upscale",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
+        "@akasha/object-store": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@tools/lib": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "akasha/infrastructure/voice-inference": {
@@ -3107,6 +3127,8 @@
     "@akasha/inference-clients": ["@akasha/inference-clients@workspace:akasha/infrastructure/inference-clients"],
 
     "@akasha/inference-pool": ["@akasha/inference-pool@workspace:akasha/infrastructure/inference-pool"],
+
+    "@akasha/inference-runs": ["@akasha/inference-runs@workspace:akasha/infrastructure/inference-runs"],
 
     "@akasha/infrastructure-commands": ["@akasha/infrastructure-commands@workspace:akasha/infrastructure/infrastructure-commands"],
 

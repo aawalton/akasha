@@ -5,6 +5,7 @@
   "exports": {
     "./ace-step-client": "./ace-step-client/ace-step-client.module.code.ts",
     "./comfy-client": "./comfy-client/comfy-client.module.code.ts",
+    "./cop-fetch": "./cop-fetch/cop-fetch.module.code.ts",
     "./gemini-image-client": "./gemini-image-client/gemini-image-client.module.code.ts",
     "./inference-output-path": "./inference-output-path/inference-output-path.module.code.ts",
     "./inference-seed": "./inference-seed/inference-seed.module.code.ts",

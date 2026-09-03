@@ -1,22 +1,22 @@
-export const summary = "Clone a voice from a reference clip (MOSS-TTS-8B zero-shot); writes an inference-run row"
+export const summary =
+  "Clone a voice from a reference clip (MOSS-TTS-8B zero-shot); writes an inference-run row"
 
 import { access, writeFile } from "node:fs/promises"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { inputError, operationalError } from "../../lib/exit.ts"
-import { copFetch } from "../../lib/inference-clients.ts"
+import { buildCopFetchInit } from "@akasha/inference-clients/cop-fetch"
+import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
 import {
   buildSpeechRequestBody,
   copPriorityHeaders,
-} from "../../lib/inference/cli/voice-clone.ts"
-import { inferenceHosts, inferenceServices } from "../../lib/inference-registry.ts"
-import {
-  formatCommandLine,
-  inferenceOutputPath,
-  inferenceRunRecord,
-  inferenceRunStore,
-} from "../../lib/inference-run.ts"
-import { inferenceSsh } from "../../lib/inference-ssh.ts"
+} from "@akasha/inference-clients/voice-clone-client"
+import { getHost } from "@akasha/inference-pool/inference-hosts"
+import { SERVICES } from "@akasha/inference-pool/inference-services"
+import { scpUpload } from "@akasha/inference-pool/inference-ssh"
+import { formatCommandLine } from "@akasha/inference-runs/inference-command-line"
+import { buildInferenceRunRecord } from "@akasha/inference-runs/inference-run-record"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
+import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const SERVICE = "moss-tts"
 const MODEL = "OpenMOSS-Team/MOSS-TTS-v1.5"
@@ -120,14 +120,11 @@ export default async function inferenceVoiceClone(args: readonly string[]): Prom
   const text = parsed.requireString("--text")
   const refAudioLocal = parsed.string("--ref-audio")
   const refTextArg = parsed.string("--ref-text")
-  const { resolveOutputPath, ensureOutputDir } = await inferenceOutputPath()
   const outputPath = resolveOutputPath("voice-clone", parsed.string("--output"), Date.now())
   const timeoutMs = parsed.requireNonNegativeInt("--timeout") * 1000
   const rawPriority = parsed.requireString("--priority")
   if (!isCopPriority(rawPriority)) {
-    throw inputError(
-      `--priority must be one of ${COP_PRIORITIES.join(", ")}, got '${rawPriority}'`
-    )
+    throw inputError(`--priority must be one of ${COP_PRIORITIES.join(", ")}, got '${rawPriority}'`)
   }
   const priority: CopPriority = rawPriority
   const noPersist = parsed.boolean("--no-persist")
@@ -142,9 +139,7 @@ export default async function inferenceVoiceClone(args: readonly string[]): Prom
   }
 
   if (refAudioLocal !== undefined && refTextArg === undefined) {
-    throw inputError(
-      "--ref-text is required when --ref-audio is supplied (the clip's transcript)"
-    )
+    throw inputError("--ref-text is required when --ref-audio is supplied (the clip's transcript)")
   }
   if (refAudioLocal !== undefined) {
     try {
@@ -154,12 +149,10 @@ export default async function inferenceVoiceClone(args: readonly string[]): Prom
     }
   }
 
-  const services = await inferenceServices()
-  const service = services.find((s) => s.name === SERVICE)
+  const service = SERVICES.find((s) => s.name === SERVICE)
   if (service === undefined) {
     throw operationalError(`no ${SERVICE} service is declared in the registry`)
   }
-  const { getHost } = await inferenceHosts()
   const host = getHost(service.host)
   const baseUrl = `http://${host.address}:${service.port}`
 
@@ -169,7 +162,6 @@ export default async function inferenceVoiceClone(args: readonly string[]): Prom
     refAudioLocal !== undefined ? `/tmp/inference-voice-clone-ref-${stamp}.wav` : DEFAULT_REF_AUDIO
   const refText = refTextArg ?? DEFAULT_REF_TEXT
 
-  const { buildInferenceRunRecord } = await inferenceRunRecord()
   const record = buildInferenceRunRecord({
     service: SERVICE,
     operation: "voice-clone",
@@ -181,10 +173,6 @@ export default async function inferenceVoiceClone(args: readonly string[]): Prom
     refAudioPath: refAudioLocal ?? DEFAULT_REF_AUDIO,
     refText,
   })
-
-  const { scpUpload } = await inferenceSsh()
-  const { buildCopFetchInit } = await copFetch()
-  const { recordInferenceRun } = await inferenceRunStore()
 
   await recordInferenceRun(
     record,
