@@ -3,8 +3,12 @@ import { patchPage, patchState, writePage } from "@akasha/markdown-pages/page-wr
 import type { Value } from "@akasha/markdown-pages/page-write-values"
 import type { Where } from "@akasha/markdown-pages/page-write-where"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { PIPELINE } from "./pages.ts"
-import { PIPELINE_SEQS, STEP_SEQS, WORKFLOW_SEQS } from "./seqs.ts"
+import { PIPELINE } from "../creator-page-reading/creator-page-reading.module.code.ts"
+import {
+  PIPELINE_SEQS,
+  STEP_SEQS,
+  WORKFLOW_SEQS,
+} from "../pipeline-seqs/pipeline-seqs.module.code.ts"
 
 const WORKFLOW = "workflow"
 

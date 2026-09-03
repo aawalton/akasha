@@ -1,5 +1,5 @@
 import { writeFileSync } from "node:fs"
-import { askComposed } from "../page-query-client.ts"
+import { askComposed } from "@tools/lib/page-query-client"
 
 export const CHANGED_FILES_KEY = "changed-files"
 

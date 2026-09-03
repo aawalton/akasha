@@ -10,7 +10,13 @@ export const workflowSelection = {
   partSlugs: [
     "module/ci-page-row-reads",
     "module/ci-status-vocabulary",
+    "module/changed-files-writing",
     "module/closure-reach",
+    "module/pipeline-config-file-set",
+    "module/pipeline-config-loading",
+    "module/pipeline-config-sha-pinned",
+    "module/pipeline-config-types",
+    "module/sha-pinned-tree",
     "module/pipeline-config-building",
     "module/pipeline-entities",
     "module/pipeline-workflow-selection",

@@ -533,6 +533,8 @@
     "akasha/changes/workflow-selection": {
       "name": "@akasha/workflow-selection",
       "dependencies": {
+        "@akasha/git": "workspace:*",
+        "@akasha/utils-run": "workspace:*",
         "@akasha/workflow-language": "workspace:*",
         "@tools/lib": "workspace:*",
       },

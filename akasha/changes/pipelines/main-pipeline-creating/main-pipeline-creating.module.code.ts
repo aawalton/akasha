@@ -1,14 +1,14 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import {
+  sleptUntilStopped,
+  stopsOnSignal,
+} from "../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+import {
   LOG,
   runBoundedMainPipelineCreatorTick,
   TICK_CEILING_MS,
   TICK_MS,
-} from "@tools/lib/main-pipeline-creator/tick"
-import {
-  sleptUntilStopped,
-  stopsOnSignal,
-} from "../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+} from "../creator-tick/creator-tick.module.code.ts"
 
 const WRITER = "main-pipeline-creator"
 

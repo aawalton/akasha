@@ -1,8 +1,18 @@
-import { AKASHA_TREE_STEP_NAME, akashaTreeStep } from "./akasha-tree-step.ts"
-import type { StepDefinition, WorkflowConfigJson } from "./code.ts"
-import type { PipelinePlan, StepPlan, WorkflowPlan } from "./create.ts"
-import type { Choice } from "./select.ts"
-import { statusAsPagesSpell } from "./vocabulary.ts"
+import {
+  AKASHA_TREE_STEP_NAME,
+  akashaTreeStep,
+} from "../akasha-tree-step/akasha-tree-step.module.code.ts"
+import type {
+  StepDefinition,
+  WorkflowConfigJson,
+} from "../creator-code/creator-code.module.code.ts"
+import type { Choice } from "../creator-selecting/creator-selecting.module.code.ts"
+import { statusAsPagesSpell } from "../creator-vocabulary/creator-vocabulary.module.code.ts"
+import type {
+  PipelinePlan,
+  StepPlan,
+  WorkflowPlan,
+} from "../pipeline-page-creating/pipeline-page-creating.module.code.ts"
 
 export const WORKFLOW_KINDS: readonly string[] = ["foundation", "preparation", "checks", "apps"]
 
@@ -63,8 +73,7 @@ function workflowPlanOf(config: WorkflowConfigJson, changedFiles: readonly strin
     dependsOn: config.dependsOn ?? [],
     whenBranch: config.whenBranch ?? null,
     alwaysRuns: config.alwaysRun === true,
-    inputsHash:
-      typeof inputsHash === "string" && INPUTS_HASH.test(inputsHash) ? inputsHash : null,
+    inputsHash: typeof inputsHash === "string" && INPUTS_HASH.test(inputsHash) ? inputsHash : null,
     changedFiles,
     steps: (config.steps ?? []).map(stepPlanOf),
   }

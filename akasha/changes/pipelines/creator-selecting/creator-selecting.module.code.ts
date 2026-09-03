@@ -6,15 +6,15 @@ import type {
   PipelineEntity,
   WorkflowConfigJson,
   WorkflowEntity,
-} from "./code.ts"
+} from "../creator-code/creator-code.module.code.ts"
 import {
   liveWorkflowsOf,
   MAIN_BRANCH,
   type PipelineRow,
   UNDERWAY_PIPELINE_STATUSES,
   unfinishedPipelines,
-} from "./pages.ts"
-import { statusAsCodeRepoSpells } from "./vocabulary.ts"
+} from "../creator-page-reading/creator-page-reading.module.code.ts"
+import { statusAsCodeRepoSpells } from "../creator-vocabulary/creator-vocabulary.module.code.ts"
 
 const PENDING = "pending"
 

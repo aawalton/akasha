@@ -19,13 +19,20 @@ import type {
   DiscoveredWorkflow,
   WorkflowKind,
 } from "@akasha/workflow-language/workflow-types"
-import type { PopulationEntry } from "../graph/queries/membership.ts"
-import { type SeedFile, type SeedSource, seedFilesFor } from "../graph/queries/seed-files.ts"
-import { buildSnapshot } from "../graph/snapshot.ts"
-import type { Graph, NodeId } from "../graph/types.ts"
-import { discoverWorkflows } from "../workflow-dsl/discovery.ts"
-import { intersectWithTreePaths, listCommitTreePaths } from "./pipeline-configs-graph-file-set.ts"
-import type { LoadConfigsTimings } from "./pipeline-configs-types.ts"
+import type { PopulationEntry } from "@tools/lib/graph/queries/membership.ts"
+import {
+  type SeedFile,
+  type SeedSource,
+  seedFilesFor,
+} from "@tools/lib/graph/queries/seed-files.ts"
+import { buildSnapshot } from "@tools/lib/graph/snapshot.ts"
+import type { Graph, NodeId } from "@tools/lib/graph/types.ts"
+import { discoverWorkflows } from "@tools/lib/workflow-dsl/discovery"
+import {
+  intersectWithTreePaths,
+  listCommitTreePaths,
+} from "../pipeline-config-file-set/pipeline-config-file-set.module.code.ts"
+import type { LoadConfigsTimings } from "../pipeline-config-types/pipeline-config-types.module.code.ts"
 
 export interface WorkflowStepConfig {
   readonly name: string

@@ -2,7 +2,7 @@ import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Row } from "@akasha/pages-system/page-derive-shape"
 import { type PageQuery, UNREACHED } from "@akasha/pages-system/page-query-shape"
 import { listOf, textOf } from "@akasha/pages-system/page-query-values"
-import { answer } from "../page-query.ts"
+import { answer } from "@tools/lib/page-query"
 
 export const MAIN_BRANCH = "main"
 

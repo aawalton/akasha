@@ -1,12 +1,16 @@
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
-import { servedTip, TRANSPORT } from "../served-tip.ts"
-import { reachCreatorCode } from "./code.ts"
-import { createPipelineTree } from "./create.ts"
-import { lastPipelinedCommit, MAIN_BRANCH, pipelinesAtCommit } from "./pages.ts"
-import { planPipeline } from "./plan.ts"
-import { prepareMainPipeline } from "./prepare.ts"
-import { chooseWorkflows } from "./select.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { servedTip, TRANSPORT } from "@tools/lib/served-tip"
+import { reachCreatorCode } from "../creator-code/creator-code.module.code.ts"
+import {
+  lastPipelinedCommit,
+  MAIN_BRANCH,
+  pipelinesAtCommit,
+} from "../creator-page-reading/creator-page-reading.module.code.ts"
+import { planPipeline } from "../creator-plan/creator-plan.module.code.ts"
+import { prepareMainPipeline } from "../creator-preparing/creator-preparing.module.code.ts"
+import { chooseWorkflows } from "../creator-selecting/creator-selecting.module.code.ts"
+import { createPipelineTree } from "../pipeline-page-creating/pipeline-page-creating.module.code.ts"
 
 export const LOG = "main-pipeline-creator:"
 

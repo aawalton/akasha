@@ -364,7 +364,7 @@ export default workflow("preparation", {
           ...installDepsCommands(ci.commitSha),
 
           'mkdir -p "$WS/.ci"',
-          `bun "$AKASHA_ROOT/tools/lib/pipeline-run/write-changed-files.ts" --seq "$PIPELINE_SEQ" --out "$WS/.ci/changed-files.txt" || exit 1`,
+          `bun "$AKASHA_ROOT/akasha/changes/workflow-selection/changed-files-writing/changed-files-writing.module.code.ts" --seq "$PIPELINE_SEQ" --out "$WS/.ci/changed-files.txt" || exit 1`,
 
           `echo "Workspace ready (commit ${ci.commitSha}, ${ci.changedFiles?.length ?? 0} changed files)"`,
         ],

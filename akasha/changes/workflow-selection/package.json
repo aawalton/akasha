@@ -6,6 +6,12 @@
     "./ci-page-row-reads": "./ci-page-row-reads/ci-page-row-reads.module.code.ts",
     "./ci-status-vocabulary": "./ci-status-vocabulary/ci-status-vocabulary.module.code.ts",
     "./closure-reach": "./closure-reach/closure-reach.module.code.ts",
+    "./changed-files-writing": "./changed-files-writing/changed-files-writing.module.code.ts",
+    "./pipeline-config-file-set": "./pipeline-config-file-set/pipeline-config-file-set.module.code.ts",
+    "./pipeline-config-loading": "./pipeline-config-loading/pipeline-config-loading.module.code.ts",
+    "./pipeline-config-sha-pinned": "./pipeline-config-sha-pinned/pipeline-config-sha-pinned.module.code.ts",
+    "./pipeline-config-types": "./pipeline-config-types/pipeline-config-types.module.code.ts",
+    "./sha-pinned-tree": "./sha-pinned-tree/sha-pinned-tree.module.code.ts",
     "./pipeline-config-building": "./pipeline-config-building/pipeline-config-building.module.code.ts",
     "./pipeline-entities": "./pipeline-entities/pipeline-entities.module.code.ts",
     "./pipeline-workflow-selection": "./pipeline-workflow-selection/pipeline-workflow-selection.module.code.ts",
@@ -15,6 +21,8 @@
     "./workflow-watch-gate": "./workflow-watch-gate/workflow-watch-gate.module.code.ts"
   },
   "dependencies": {
+    "@akasha/git": "workspace:*",
+    "@akasha/utils-run": "workspace:*",
     "@akasha/workflow-language": "workspace:*",
     "@tools/lib": "workspace:*"
   }
