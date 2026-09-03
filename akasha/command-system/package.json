@@ -34,7 +34,6 @@
     "@akasha/wan": "workspace:*",
     "@akasha/zimage": "workspace:*",
     "@tools/lib": "workspace:*",
-    "@tools/ops": "workspace:*",
     "typescript": "5.9.3"
   }
 }

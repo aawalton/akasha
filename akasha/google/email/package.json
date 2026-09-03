@@ -28,7 +28,6 @@
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@tools/lib": "workspace:*",
-    "zod": "^4.3.6",
-    "@tools/ops": "workspace:*"
+    "zod": "^4.3.6"
   }
 }
