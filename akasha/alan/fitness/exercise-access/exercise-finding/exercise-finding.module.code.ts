@@ -1,11 +1,17 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { type Row, rowsFor, textIn } from "../exercise-rows/exercise-rows.module.code.ts"
+import { type Row, rowFor, rowsFor, textIn } from "../exercise-rows/exercise-rows.module.code.ts"
 
 export type Found = { readonly row: Row } | { readonly refused: string }
+
+export type Standing = { readonly row: Row | null } | { readonly refused: string }
 
 const EXERCISE = "exercise"
 
 const WORKOUT_SESSION = "workout-session"
+
+const WORKOUT_SCHEDULE = "workout-schedule"
+
+const SCHEDULE_DAY = "schedule-day"
 
 const UUID_SAID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
 
@@ -93,4 +99,25 @@ export async function openSession(ref: string | undefined, now: Date): Promise<F
     }
   }
   return { row: session }
+}
+
+export async function activeSchedule(): Promise<Standing> {
+  const found = await rowFor({
+    pageTypeSlug: WORKOUT_SCHEDULE,
+    where: [{ key: "workoutScheduleActive", eq: true }],
+  })
+  if ("unread" in found) return { refused: found.unread }
+  return { row: found.row }
+}
+
+export async function scheduleDayFor(scheduleSlug: string, dayOfWeek: string): Promise<Standing> {
+  const found = await rowFor({
+    pageTypeSlug: SCHEDULE_DAY,
+    where: [
+      { key: "scheduleSlug", eq: scheduleSlug },
+      { key: "dayOfWeek", eq: dayOfWeek },
+    ],
+  })
+  if ("unread" in found) return { refused: found.unread }
+  return { row: found.row }
 }

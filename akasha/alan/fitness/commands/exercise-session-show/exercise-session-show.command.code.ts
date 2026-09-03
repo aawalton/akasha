@@ -9,7 +9,7 @@ import {
   textIn,
   titleOf,
 } from "@akasha/exercise-access/exercise-rows"
-import { readBodyweight } from "@akasha/exercise-access/selection-policy"
+import { statedBodyweight } from "@akasha/exercise-access/session-volume"
 import type { VolumeSetInput } from "@akasha/exercise-access/set-volume"
 import { computeSessionVolume } from "@akasha/exercise-access/set-volume"
 import {
@@ -30,9 +30,9 @@ const STRENGTH = "strength"
 
 const EMPTY = "-"
 
-const EXERCISE = "exercise"
-
 const SET_LOG = "set-log"
+
+const EXERCISE = "exercise"
 
 const SCHEDULE_DAY = "schedule-day"
 
@@ -91,10 +91,9 @@ export function rowOf(line: SetLine): string {
   )
 }
 
-async function titleBySlug(
-  pageTypeSlug: string,
-  slug: string | undefined
-): Promise<{ readonly title: string | null } | { readonly refused: string }> {
+type Named = { readonly title: string | null } | { readonly refused: string }
+
+async function titleBySlug(pageTypeSlug: string, slug: string | undefined): Promise<Named> {
   if (slug === undefined) return { title: null }
   const found = await rowFor({ pageTypeSlug, where: [{ key: "slug", eq: slug }] })
   if ("unread" in found) return { refused: found.unread }
@@ -105,78 +104,77 @@ export async function exerciseSessionShow(argv: readonly string[] = []): Promise
   const said = wordsIn(argv, SHAPE)
   if ("refused" in said) return refusedBy(said.refused)
 
-  try {
-    const found = await openSession(said.named[SESSION], new Date())
-    if ("refused" in found) return refusedBy([found.refused], DATA)
-    const session = found.row
-    if (session.slug === null) {
-      return refusedBy([`session ${session.id} carries no slug, so nothing names it`], DATA)
-    }
-    const setLogs = await rowsFor({
-      pageTypeSlug: SET_LOG,
-      where: [{ key: "sessionSlug", eq: session.slug }],
-    })
-    if ("unread" in setLogs) return refusedBy([setLogs.unread], DATA)
-    const exerciseSlugs = [
-      ...new Set(
-        setLogs.rows
-          .map((row) => textIn(row, "exerciseSlug"))
-          .filter((slug): slug is string => slug !== undefined)
-      ),
-    ]
-    const movements = new Map<string, MovementInfo>()
-    if (exerciseSlugs.length > 0) {
-      const rows = await rowsFor({
-        pageTypeSlug: EXERCISE,
-        where: [{ key: "slug", in: exerciseSlugs }],
-        select: ["id", "slug", "title", "loadFactor", "implementCount"],
-        limit: exerciseSlugs.length,
-      })
-      if ("unread" in rows) return refusedBy([rows.unread], DATA)
-      for (const row of rows.rows) {
-        if (row.slug === null) continue
-        movements.set(row.slug, {
-          title: textIn(row, "title") ?? row.slug,
-          loadFactor: numberIn(row, "loadFactor"),
-          implementCount: numberIn(row, "implementCount"),
-        })
-      }
-    }
-
-    const bodyweight = readBodyweight()
-    const volumeInputs: readonly VolumeSetInput[] = setLogs.rows.map((row) => {
-      const exerciseSlug = textIn(row, "exerciseSlug")
-      const info = exerciseSlug !== undefined ? movements.get(exerciseSlug) : undefined
-      return {
-        reps: numberIn(row, "reps"),
-        weight: numberIn(row, "weight"),
-        isWarmup: boolIn(row, "isWarmup"),
-        activityType: textIn(row, "activityType"),
-        loadFactor: info?.loadFactor,
-        implementCount: info?.implementCount,
-      }
-    })
-
-    const scheduleDay = await titleBySlug(SCHEDULE_DAY, textIn(session, "scheduleDaySlug"))
-    if ("refused" in scheduleDay) return refusedBy([scheduleDay.refused], DATA)
-
-    const header = {
-      id: session.id,
-      title: titleOf(session),
-      date: textIn(session, "workoutSessionDate") ?? null,
-      scheduleDay: scheduleDay.title,
-      startedAt: textIn(session, "workoutSessionStartedAt") ?? null,
-      completedAt: textIn(session, "workoutSessionCompletedAt") ?? null,
-      totalVolume: computeSessionVolume(volumeInputs, bodyweight),
-    }
-    const lines = setLinesOf(setLogs.rows, movements)
-
-    if (wantsJson(said)) return asJson({ ...header, sets: lines })
-    return told([
-      ...Object.entries(header).map(([key, value]) => `${key}\t${value ?? EMPTY}`),
-      ...lines.map(rowOf),
-    ])
-  } catch (thrown) {
-    return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)], DATA)
+  const found = await openSession(said.named[SESSION], new Date())
+  if ("refused" in found) return refusedBy([found.refused], DATA)
+  const session = found.row
+  if (session.slug === null) {
+    return refusedBy([`session ${session.id} carries no slug, so nothing names it`], DATA)
   }
+
+  const setLogs = await rowsFor({
+    pageTypeSlug: SET_LOG,
+    where: [{ key: "sessionSlug", eq: session.slug }],
+  })
+  if ("unread" in setLogs) return refusedBy([setLogs.unread], DATA)
+
+  const exerciseSlugs = [
+    ...new Set(
+      setLogs.rows
+        .map((row) => textIn(row, "exerciseSlug"))
+        .filter((slug): slug is string => slug !== undefined)
+    ),
+  ]
+  const movements = new Map<string, MovementInfo>()
+  if (exerciseSlugs.length > 0) {
+    const rows = await rowsFor({
+      pageTypeSlug: EXERCISE,
+      where: [{ key: "slug", in: exerciseSlugs }],
+      select: ["id", "slug", "title", "loadFactor", "implementCount"],
+    })
+    if ("unread" in rows) return refusedBy([rows.unread], DATA)
+    for (const row of rows.rows) {
+      if (row.slug === null) continue
+      movements.set(row.slug, {
+        title: row.title ?? row.slug,
+        loadFactor: numberIn(row, "loadFactor"),
+        implementCount: numberIn(row, "implementCount"),
+      })
+    }
+  }
+
+  const weighed = await statedBodyweight()
+  if ("refused" in weighed) return refusedBy([weighed.refused], DATA)
+
+  const volumeInputs: readonly VolumeSetInput[] = setLogs.rows.map((row) => {
+    const exerciseSlug = textIn(row, "exerciseSlug")
+    const info = exerciseSlug !== undefined ? movements.get(exerciseSlug) : undefined
+    return {
+      reps: numberIn(row, "reps"),
+      weight: numberIn(row, "weight"),
+      isWarmup: boolIn(row, "isWarmup"),
+      activityType: textIn(row, "activityType"),
+      loadFactor: info?.loadFactor,
+      implementCount: info?.implementCount,
+    }
+  })
+
+  const scheduleDay = await titleBySlug(SCHEDULE_DAY, textIn(session, "scheduleDaySlug"))
+  if ("refused" in scheduleDay) return refusedBy([scheduleDay.refused], DATA)
+
+  const header = {
+    id: session.id,
+    title: titleOf(session),
+    date: textIn(session, "workoutSessionDate") ?? null,
+    scheduleDay: scheduleDay.title,
+    startedAt: textIn(session, "workoutSessionStartedAt") ?? null,
+    completedAt: textIn(session, "workoutSessionCompletedAt") ?? null,
+    totalVolume: computeSessionVolume(volumeInputs, weighed.bodyweight),
+  }
+  const lines = setLinesOf(setLogs.rows, movements)
+
+  if (wantsJson(said)) return asJson({ ...header, sets: lines })
+  return told([
+    ...Object.entries(header).map(([key, value]) => `${key}\t${value ?? EMPTY}`),
+    ...lines.map(rowOf),
+  ])
 }

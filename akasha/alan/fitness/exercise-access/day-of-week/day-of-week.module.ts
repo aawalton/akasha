@@ -29,6 +29,10 @@ export const dayOfWeek = {
       statement: "The seven days counted from Monday are what a schedule is read in.",
     },
     {
+      invariantKind: "departure",
+      statement: "A day shown to a reader is capitalised by its first letter alone.",
+    },
+    {
       invariantKind: "absence",
       statement: "No list of the seven days is written here.",
     },

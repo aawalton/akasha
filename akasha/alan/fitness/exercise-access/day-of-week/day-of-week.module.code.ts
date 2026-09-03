@@ -38,6 +38,6 @@ export function dayOfWeekFromDayStr(dayStr: string): DayOfWeek {
   return dayOfWeekFromUtcDay(new Date(Date.UTC(y, m - 1, d, NOON, 0, 0, 0)).getUTCDay())
 }
 
-export function capitalizeDayOfWeek(day: DayOfWeek): string {
+export function capitalizedDay(day: DayOfWeek): string {
   return day.charAt(0).toUpperCase() + day.slice(1)
 }

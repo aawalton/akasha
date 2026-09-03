@@ -1,18 +1,14 @@
+import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
-import {
-  capitalizeDayOfWeek,
-  type DayOfWeek,
-  dayOfWeekFromDayStr,
-} from "@akasha/exercise-access/day-of-week"
+import type { FileEdit } from "@akasha/command-system/landing"
+import { capitalizedDay, dayOfWeekFromDayStr } from "@akasha/exercise-access/day-of-week"
+import { activeSchedule, scheduleDayFor } from "@akasha/exercise-access/exercise-finding"
 import { type Row, rowsFor, textIn } from "@akasha/exercise-access/exercise-rows"
-import {
-  activeSchedule,
-  type Scheduled,
-  scheduleDayOn,
-} from "@akasha/exercise-access/schedule-focus"
 import { abandonedSessions, type Closing } from "@akasha/exercise-access/session-closing"
 import { freeSlug, sessionSlugStem } from "@akasha/exercise-access/session-derive"
-import type { Value } from "@akasha/pages-system/page-value"
+import { listedAt } from "@akasha/indexes"
+import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import { composedFor } from "@akasha/pages-system-service/composing"
 import {
   asJson,
   DATA,
@@ -24,12 +20,6 @@ import {
   wantsJson,
   wordsIn,
 } from "../exercise-saying/exercise-saying.module.code.ts"
-import {
-  editsFor,
-  landed,
-  standingAt,
-  type Writing,
-} from "../exercise-writing/exercise-writing.module.code.ts"
 
 const DATE = "--date"
 
@@ -39,33 +29,40 @@ const FORCE = "--force"
 
 const REST = "rest"
 
-const SHAPE = { valued: [DATE, NOTES], switches: [FORCE, JSON_SAID] }
-
 const WORKOUT_SESSION = "workout-session"
 
-const NOTHING = "-"
+const SHAPE = { valued: [DATE, NOTES], switches: [FORCE, JSON_SAID] }
 
-async function dayOfSchedule(schedule: Row | null, day: DayOfWeek): Promise<Scheduled> {
-  if (schedule === null || schedule.slug === null) return { row: null }
-  return scheduleDayOn(schedule.slug, day)
-}
+type Closed = { readonly changes: readonly FileEdit[] } | { readonly refused: string }
 
-function closingWritings(
-  root: string,
-  closings: readonly Closing[]
-): { readonly writings: readonly Writing[] } | { readonly refused: string } {
-  const writings: Writing[] = []
+/**
+ * The edits closing every session left open from an earlier day.
+ *
+ * The closing is composed here rather than written where it is worked out, so the sessions closed
+ * and the session opened land in one commit: a run that closed yesterday's and then failed to open
+ * today's would leave the day with no session at all.
+ */
+function closingEdits(root: string, closings: readonly Closing[]): Closed {
+  const changes: FileEdit[] = []
   for (const one of closings) {
-    const was = standingAt(root, WORKOUT_SESSION, one.slug)
-    if ("refused" in was) return was
-    if (was.values === null) continue
-    writings.push({
+    const listed = listedAt(root, WORKOUT_SESSION, one.slug)
+    const at = listed.length === 1 ? listed[0]?.path : undefined
+    const was = at === undefined ? null : valueAt(at, root)
+    if (was === null) {
+      return { refused: `\`${WORKOUT_SESSION}/${one.slug}\` would not load, so it is not closed` }
+    }
+    const composed = composedFor(root, {
       pageTypeSlug: WORKOUT_SESSION,
       slug: one.slug,
-      values: { ...was.values, workoutSessionCompletedAt: one.completedAt },
+      values: { ...was, workoutSessionCompletedAt: one.completedAt },
+    })
+    if ("refused" in composed) return { refused: composed.refused }
+    changes.push({
+      path: composed.put.path,
+      body: new TextEncoder().encode(composed.put.content),
     })
   }
-  return { writings }
+  return { changes }
 }
 
 export async function exerciseSessionStart(argv: readonly string[], given: Given): Promise<Answer> {
@@ -73,78 +70,90 @@ export async function exerciseSessionStart(argv: readonly string[], given: Given
   if ("refused" in said) return refusedBy(said.refused)
   const dayStr = dayIn(said, DATE, new Date())
   if (typeof dayStr === "object") return refusedBy(dayStr.refused)
+  const day = dayOfWeekFromDayStr(dayStr)
   const notes = said.named[NOTES]
 
-  try {
-    const day = dayOfWeekFromDayStr(dayStr)
-    const abandoned = await abandonedSessions(dayStr)
-    if ("refused" in abandoned) return refusedBy([abandoned.refused], DATA)
+  const abandoned = await abandonedSessions(dayStr)
+  if ("refused" in abandoned) return refusedBy([abandoned.refused], DATA)
+  const closing = closingEdits(given.root, abandoned.closings)
+  if ("refused" in closing) return refusedBy([closing.refused], DATA)
 
-    const scheduled = await activeSchedule()
-    if ("refused" in scheduled) return refusedBy([scheduled.refused], DATA)
-    const dayFound = await dayOfSchedule(scheduled.row, day)
-    if ("refused" in dayFound) return refusedBy([dayFound.refused], DATA)
-    const scheduleDay = dayFound.row
-    const focus = scheduleDay === null ? undefined : textIn(scheduleDay, "focus")
-
-    if (focus === REST && !said.flags.has(FORCE)) {
-      return refusedBy([
-        `${dayStr} (${day}) is a rest day — say \`${FORCE}\` to open a session anyway`,
-      ])
-    }
-
-    const titleHead =
-      focus !== undefined ? `${capitalizeDayOfWeek(day)} ${focus}` : capitalizeDayOfWeek(day)
-    const title = `${titleHead} — ${dayStr}`
-
-    const sameDay = await rowsFor({
-      pageTypeSlug: WORKOUT_SESSION,
-      where: [{ key: "workoutSessionDate", eq: dayStr }],
-      select: ["id", "slug"],
-    })
-    if ("unread" in sameDay) return refusedBy([sameDay.unread], DATA)
-    const taken = new Set(
-      sameDay.rows.map((row) => row.slug).filter((slug): slug is string => slug !== null)
-    )
-    const slug = freeSlug(sessionSlugStem(day, focus, dayStr), taken)
-
-    const values: Value = {
-      title,
-      workoutSessionDate: dayStr,
-      workoutSessionStartedAt: new Date().toISOString(),
-      ...(scheduleDay?.slug != null ? { scheduleDaySlug: scheduleDay.slug } : {}),
-      ...(notes !== undefined ? { notes } : {}),
-    }
-
-    const closings = closingWritings(given.root, abandoned.closings)
-    if ("refused" in closings) return refusedBy([closings.refused], DATA)
-    const edits = editsFor(given.root, [
-      ...closings.writings,
-      { pageTypeSlug: WORKOUT_SESSION, slug, values },
-    ])
-    if ("refused" in edits) return refusedBy([edits.refused], DATA)
-    const answer = landed(given, edits.changes, `open the session ${slug}`)
-    if (answer.code !== 0) return answer
-
-    if (wantsJson(said)) {
-      return asJson({
-        slug,
-        title,
-        date: dayStr,
-        dayOfWeek: day,
-        focus: focus ?? null,
-        closedAbandoned: abandoned.closings,
-      })
-    }
-    return told([
-      ...abandoned.closings.map((one) => `closed-abandoned\t${one.title}\t${one.completedAt}`),
-      ...rowsOf([
-        ["id", slug],
-        ["focus", focus ?? NOTHING],
-      ]),
-      ...answer.report,
-    ])
-  } catch (thrown) {
-    return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)], DATA)
+  const schedule = await activeSchedule()
+  if ("refused" in schedule) return refusedBy([schedule.refused], DATA)
+  let scheduleDay: Row | null = null
+  if (schedule.row !== null && schedule.row.slug !== null) {
+    const found = await scheduleDayFor(schedule.row.slug, day)
+    if ("refused" in found) return refusedBy([found.refused], DATA)
+    scheduleDay = found.row
   }
+  const focus = scheduleDay === null ? undefined : textIn(scheduleDay, "focus")
+
+  if (focus === REST && !said.flags.has(FORCE)) {
+    return refusedBy([
+      `${dayStr} (${day}) is a rest day — say \`${FORCE}\` to open a session anyway`,
+    ])
+  }
+
+  const titleHead = focus !== undefined ? `${capitalizedDay(day)} ${focus}` : capitalizedDay(day)
+  const title = `${titleHead} — ${dayStr}`
+
+  const sameDay = await rowsFor({
+    pageTypeSlug: WORKOUT_SESSION,
+    where: [{ key: "workoutSessionDate", eq: dayStr }],
+    select: ["id", "slug"],
+  })
+  if ("unread" in sameDay) return refusedBy([sameDay.unread], DATA)
+  const taken = new Set(
+    sameDay.rows.map((row) => row.slug).filter((slug): slug is string => slug !== null)
+  )
+  const slug = freeSlug(sessionSlugStem(day, focus, dayStr), taken)
+
+  const values: Value = {
+    title,
+    workoutSessionDate: dayStr,
+    workoutSessionStartedAt: new Date().toISOString(),
+    ...(scheduleDay?.slug != null ? { scheduleDaySlug: scheduleDay.slug } : {}),
+    ...(notes !== undefined ? { notes } : {}),
+  }
+  const composed = composedFor(given.root, {
+    pageTypeSlug: WORKOUT_SESSION,
+    slug,
+    values,
+  })
+  if ("refused" in composed) return refusedBy([composed.refused], DATA)
+
+  const changes: FileEdit[] = [
+    ...closing.changes,
+    { path: composed.put.path, body: new TextEncoder().encode(composed.put.content) },
+  ]
+  const landed = landingAsked(given, {
+    changes,
+    message: `open the session ${slug}`,
+    dryRun: false,
+    glass: null,
+    unmoved: [],
+    saying: wroteAndTook,
+  })
+  if (landed.code !== 0) return landed
+
+  if (wantsJson(said)) {
+    return asJson({
+      path: composed.put.path,
+      slug,
+      title,
+      date: dayStr,
+      dayOfWeek: day,
+      focus: focus ?? null,
+      closedAbandoned: abandoned.closings,
+    })
+  }
+  return told([
+    ...abandoned.closings.map((one) => `closed-abandoned\t${one.title}\t${one.completedAt}`),
+    ...rowsOf([
+      ["path", composed.put.path],
+      ["slug", slug],
+      ["focus", focus ?? "-"],
+    ]),
+    ...landed.report,
+  ])
 }

@@ -37,6 +37,12 @@ const TIME_BASED = "time-based"
 
 const NO_LOAD = "pick one allowing the range at the RIR target"
 
+/**
+ * The candidates left once the skipped movements are taken out.
+ *
+ * A candidate is keyed by its exercise slug rather than by a page id, so the skipped set this is
+ * handed holds slugs too. Filtering an id against a set of slugs takes nothing out.
+ */
 export function withoutSkipped(
   inputs: SelectorInputs,
   skipped: ReadonlySet<string>
@@ -60,15 +66,15 @@ type Logged =
   | { readonly refused: string }
 
 async function sessionSets(sessionSlug: string): Promise<Logged> {
-  const rows = await rowsFor({
+  const read = await rowsFor({
     pageTypeSlug: SET_LOG,
     where: [{ key: "sessionSlug", eq: sessionSlug }],
     select: ["id", "exerciseSlug", "setNumber", "reps", "rpe", "isWarmup"],
     limit: SESSION_SET_LIMIT,
   })
-  if ("unread" in rows) return { refused: rows.unread }
+  if ("unread" in read) return { refused: read.unread }
   const byMovement = new Map<string, SessionSet[]>()
-  for (const row of rows.rows) {
+  for (const row of read.rows) {
     if (boolIn(row, "isWarmup") === true) continue
     const exerciseSlug = textIn(row, "exerciseSlug")
     if (exerciseSlug === undefined) continue
@@ -84,20 +90,6 @@ async function sessionSets(sessionSlug: string): Promise<Logged> {
   return { byMovement }
 }
 
-async function skippedSlugs(
-  refs: readonly string[]
-): Promise<{ readonly slugs: ReadonlySet<string> } | { readonly refused: readonly string[] }> {
-  const slugs = new Set<string>()
-  const refusals: string[] = []
-  for (const ref of refs) {
-    const found = await exerciseNamed(ref)
-    if ("refused" in found) refusals.push(found.refused)
-    else if (found.row.slug !== null) slugs.add(found.row.slug)
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { slugs }
-}
-
 export function repsOf(low: number, high: number): string {
   if (low === 0 && high === 0) return TIME_BASED
   return low === high ? `${low}` : `${low}-${high}`
@@ -109,28 +101,32 @@ export async function exerciseNextSet(argv: readonly string[] = []): Promise<Ans
   const focus = oneOfIn(said, FOCUS, FOCUS_CHOICES)
   if (typeof focus === "object" && focus !== null) return refusedBy(focus.refused)
 
-  try {
-    const found = await openSession(said.named[SESSION], new Date())
-    if ("refused" in found) return refusedBy([found.refused], DATA)
-    const session = found.row
-    if (session.slug === null) {
-      return refusedBy([`session ${session.id} carries no slug, so nothing names it`], DATA)
-    }
-    const skipping = await skippedSlugs(said.repeated[SKIP] ?? [])
-    if ("refused" in skipping) return refusedBy(skipping.refused, DATA)
+  const found = await openSession(said.named[SESSION], new Date())
+  if ("refused" in found) return refusedBy([found.refused], DATA)
+  const session = found.row
+  if (session.slug === null) {
+    return refusedBy([`session ${session.id} carries no slug, so nothing names it`], DATA)
+  }
 
-    const [loaded, logged] = await Promise.all([
-      loadSelectorInputs(focus, new Date(), readSelectionPolicy()),
-      sessionSets(session.slug),
-    ])
-    if ("refused" in logged) return refusedBy([logged.refused], DATA)
+  const skipped = new Set<string>()
+  for (const ref of said.repeated[SKIP] ?? []) {
+    const one = await exerciseNamed(ref)
+    if ("refused" in one) return refusedBy([one.refused], DATA)
+    if (one.row.slug !== null) skipped.add(one.row.slug)
+  }
+
+  const logged = await sessionSets(session.slug)
+  if ("refused" in logged) return refusedBy([logged.refused], DATA)
+
+  try {
+    const loaded = await loadSelectorInputs(focus, new Date(), readSelectionPolicy())
     if (loaded.inputs === null) {
       return refusedBy([
         `no focus is scheduled for ${loaded.dayStr} — say \`${FOCUS} <${FOCUS_CHOICES.join("|")}>\` to train anyway`,
       ])
     }
 
-    const skips = partitionSkips(skipping.slugs, loaded.inputs.sessionPerformed)
+    const skips = partitionSkips(skipped, loaded.inputs.sessionPerformed)
     const { plan, envelope } = selectSession(withoutSkipped(loaded.inputs, skips.toExclude))
     const decision = decideNextSet({
       plan,

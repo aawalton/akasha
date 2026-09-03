@@ -4,7 +4,7 @@ export const exerciseFinding = {
   id: "01a0685c-7d81-7f18-87a1-21b38630ecee",
   pageTypeSlug: "module",
   slug: "exercise-finding",
-  definition: "reaching the one exercise or the one session a caller named in a few words",
+  definition: "reaching the one exercise, session or schedule day a caller named in a few words",
   code: "ts",
   invariants: [
     {
@@ -30,6 +30,14 @@ export const exerciseFinding = {
     {
       invariantKind: "departure",
       statement: "The day a session is judged against is the ESO day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The schedule a day is read against is whichever one stands active.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No schedule standing is an empty answer rather than a refusal.",
     },
   ],
 } as const satisfies Module
