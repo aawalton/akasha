@@ -1,10 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
-import { isGeneratedFile } from "../generated-file/generated-file.ts"
-import { judge, type Outcome, over, skip } from "@akasha/verdict/outcome"
+import { decodeUtf8 } from "@akasha/code-system/utf8-body"
 import { fileStemOf } from "@akasha/file-page-identity"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { trackedIn } from "../page/tracked/tracked.ts"
-import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import {
   isAddressable,
   isDirty,
@@ -13,16 +9,20 @@ import {
   targetRepo,
   targetRoot,
 } from "@akasha/pages-system/checkout-roots"
-import { decodeUtf8 } from "../utf8-body/utf8-body.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { judge, type Outcome, over, skip } from "@akasha/verdict/outcome"
+import { isGeneratedFile } from "../generated-file/generated-file.ts"
+import { trackedIn } from "../page/tracked/tracked.ts"
 import { dirOf, relativeBetween, resolves } from "./between.ts"
 import { type Held, heldIn, namesMoved } from "./held.ts"
 import { linkPatches } from "./link.ts"
 import {
   escapedMentions,
   mentionPatches,
-  type Patch,
   PATH_CHAR,
   PATH_TAIL,
+  type Patch,
   textFiles,
 } from "./mention.ts"
 import { reslugged, slugKeys, slugPatches } from "./reslug.ts"
@@ -136,7 +136,9 @@ export function apply(
   for (const patch of ordered) {
     if (patch.start < taken) continue
     pieces.push(body.slice(taken, patch.start), patch.text)
-    notes.push(`${body.slice(0, patch.start).split("\n").length}: \`${patch.was}\` → \`${patch.text}\``)
+    notes.push(
+      `${body.slice(0, patch.start).split("\n").length}: \`${patch.was}\` → \`${patch.text}\``
+    )
     taken = patch.end
   }
   pieces.push(body.slice(taken))
@@ -176,7 +178,9 @@ function crossPatches(
   return patches
 }
 
-function trackedTexts(root: string): readonly { readonly relPath: string; readonly body: string }[] {
+function trackedTexts(
+  root: string
+): readonly { readonly relPath: string; readonly body: string }[] {
   const found: { relPath: string; body: string }[] = []
   for (const relPath of trackedIn(root)) {
     if (isDirty(relPath) || isVendored(relPath)) continue
@@ -238,7 +242,10 @@ export function importerReading(found: readonly Importers[]): Outcome {
   const detail =
     `${repointed} repointed in ${named} — ${found.length === 1 ? "a repository" : "repositories"} ` +
     "neither giving a body up nor taking one, and holding importers this move would strand"
-  return { ...judge("importers", detail, []), population: over(specifiers, "relative specifier(s)") }
+  return {
+    ...judge("importers", detail, []),
+    population: over(specifiers, "relative specifier(s)"),
+  }
 }
 
 export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots): Survey {
@@ -351,7 +358,7 @@ export function runtimeReading(reading: RuntimeReading): Outcome {
           "nothing repoints these: each builds a path from its own file's directory and will not " +
             "say which path, and this call moves something out from under it. Rewriting a literal " +
             "that might not be the one meant breaks what still works, so the move stops here " +
-            "instead. Write the path as one literal hanging off the base — `new URL(\"./x.json\", " +
+            'instead. Write the path as one literal hanging off the base — `new URL("./x.json", ' +
             "import.meta.url)` — and land that BEFORE the move, which the repo stays green through",
         ]
   return {
@@ -377,5 +384,8 @@ export function specifierReading(reading: SpecifierReading): Outcome {
       `${one} is being moved and the survey never read it, so nothing can say what imports it, ` +
       "and its body would be taken away without landing anywhere"
   )
-  return { ...judge("specifiers", detail, messages), population: over(reading.specifiers, "relative specifier(s)") }
+  return {
+    ...judge("specifiers", detail, messages),
+    population: over(reading.specifiers, "relative specifier(s)"),
+  }
 }

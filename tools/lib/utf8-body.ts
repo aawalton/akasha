@@ -1,6 +1,6 @@
-import { leadingBytes } from "../../utf8-body/utf8-body.ts"
-import { refusalText } from "../../refusal/refusal.ts"
+import { leadingBytes } from "@akasha/code-system/utf8-body"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { refusalText } from "../../refusal/refusal.ts"
 
 export function notUtf8(source: string, bytes: Uint8Array): string {
   return refusalText(

@@ -1,18 +1,19 @@
-import { existsSync, readFileSync, readdirSync, statSync } from "node:fs"
-import type { Addressed } from "../ops-cli/global/address.ts"
-import { anyRefused, render } from "@akasha/verdict/outcome"
-import { carriesBytes } from "../page/file-kind/carries-bytes.ts"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { pagesOfSidecar, sidecarCarriedTo, sidecarsOf } from "../page/sidecar/sidecar.ts"
-import { fail } from "../patches/patch.ts"
-import { type Carry, land, type Landing, LandingRefused } from "../repo/land/land.ts"
-import { canonicalize } from "@akasha/pages-system/repo-path"
+import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
+import { decodeUtf8, leadingBytes } from "@akasha/code-system/utf8-body"
 import { isDirty, rootsHere, targetRepo, targetRoot } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { canonicalize } from "@akasha/pages-system/repo-path"
+import { anyRefused, render } from "@akasha/verdict/outcome"
+import type { Addressed } from "../ops-cli/global/address.ts"
+import { carriesBytes } from "../page/file-kind/carries-bytes.ts"
+import { pagesOfSidecar, sidecarCarriedTo, sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { trackedIn, untrackedIn } from "../page/tracked/tracked.ts"
+import { fail } from "../patches/patch.ts"
+import { type Carry, type Landing, LandingRefused, land } from "../repo/land/land.ts"
 import { escapedSpellings } from "../repoint/mention.ts"
 import {
-  importerReading,
   type Importers,
+  importerReading,
   type Moves,
   type Repointed,
   runtimeReading,
@@ -21,7 +22,6 @@ import {
   surveyRename,
 } from "../repoint/repoint.ts"
 import { slugEdges } from "../repoint/reslug.ts"
-import { decodeUtf8, leadingBytes } from "../utf8-body/utf8-body.ts"
 
 const NUL = String.fromCharCode(0)
 
@@ -148,7 +148,9 @@ export function validatePairs(
     if (here(from) === there(to)) {
       refusals.push(`${from} names itself as its destination, so it asks for no move`)
     } else if (sources.has(there(to))) {
-      refusals.push(`${to} is both a destination and a source — declare the chain as its final pairs`)
+      refusals.push(
+        `${to} is both a destination and a source — declare the chain as its final pairs`
+      )
     } else if (existsSync(`${destination.root}/${to}`)) {
       refusals.push(`${to} already exists — a move never overwrites`)
     }
@@ -223,7 +225,17 @@ function landOrRefuse(
   repointedElsewhere: ReadonlyMap<string, string>
 ): void {
   try {
-    land(where, entries, message, dryRun, removing, carrying, true, goneElsewhere, repointedElsewhere)
+    land(
+      where,
+      entries,
+      message,
+      dryRun,
+      removing,
+      carrying,
+      true,
+      goneElsewhere,
+      repointedElsewhere
+    )
   } catch (thrown) {
     if (thrown instanceof LandingRefused) {
       process.stderr.write(`error: ${thrown.message}\n`)
@@ -312,5 +324,14 @@ export function landMoves(move: Move): void {
     pending
   )
   process.stdout.write(`repo:   ${source.repo}, which gives them up\n`)
-  landOrRefuse(source, entries.filter((one) => !one.moved), message, dryRun, going, [], [], pending)
+  landOrRefuse(
+    source,
+    entries.filter((one) => !one.moved),
+    message,
+    dryRun,
+    going,
+    [],
+    [],
+    pending
+  )
 }

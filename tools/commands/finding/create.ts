@@ -3,19 +3,19 @@ export const summary = "File one finding, keyed and sited from one statement"
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
+import { decodeUtf8 } from "@akasha/code-system/utf8-body"
+import { AKASHA, resolveRoots, rootFor, targetRoot } from "@akasha/pages-system/checkout-roots"
 import { defaultMessage } from "../../lib/command.ts"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import {
+  addressRefusal,
   declaredDomains,
   filingFor,
   findingRepo,
   kebabRefusal,
-  addressRefusal,
   undeclaredRefusal,
 } from "../../lib/finding.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { AKASHA, resolveRoots, rootFor, targetRoot } from "@akasha/pages-system/checkout-roots"
-import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import { notUtf8 } from "../../lib/utf8-body.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
@@ -91,14 +91,22 @@ const CLI = "akasha/command-system/cli/cli.module.code.ts"
  * in an argument. Output is inherited rather than captured: when the gate refuses for want of a
  * reading it names each file to read, and a refusal cut in half is one nobody can act on.
  */
-function landed(root: string, relPath: string, body: string, message: string, dryRun: boolean): void {
+function landed(
+  root: string,
+  relPath: string,
+  body: string,
+  message: string,
+  dryRun: boolean
+): void {
   const dir = mkdtempSync(join(tmpdir(), "finding-"))
   try {
     const at = join(dir, "body.ts")
     writeFileSync(at, body, "utf8")
     const args = ["write", "--file-path", relPath, "--content-file", at, "--message", message]
     if (dryRun) args.push("--dry-run")
-    const ran = Bun.spawnSync([process.execPath, `${root}/${CLI}`, ...args], { stdio: ["inherit", "inherit", "inherit"] })
+    const ran = Bun.spawnSync([process.execPath, `${root}/${CLI}`, ...args], {
+      stdio: ["inherit", "inherit", "inherit"],
+    })
     if (ran.exitCode !== 0) {
       throw operationalError(
         `\`akasha write\` exited ${ran.exitCode ?? "on a signal"} and ${relPath} was not written — ` +

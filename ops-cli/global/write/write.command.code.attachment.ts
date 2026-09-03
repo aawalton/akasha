@@ -2,18 +2,24 @@ export const summary = "Write whole files as a patch, gated before anything land
 
 import { existsSync, fstatSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
+import { decodeUtf8 } from "@akasha/code-system/utf8-body"
+import { AKASHA } from "@akasha/pages-system/checkout-roots"
 import { carriesBytes } from "../../../page/file-kind/carries-bytes.ts"
 import { sidecarsBeside } from "../../../page/sidecar/sidecar.ts"
-import { statingIds } from "./state-id.ts"
-import { heldByRepo } from "../../../repo/git/git.ts"
-import { land, LandingRefused, type Landing } from "../../../repo/land/land.ts"
-import { landOutside, type Loose, removeOutside } from "../../../repo/land/outside.ts"
-import { AKASHA } from "@akasha/pages-system/checkout-roots"
-import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
 import { fail, valueOf } from "../../../patches/patch.ts"
+import { heldByRepo } from "../../../repo/git/git.ts"
 import { patchAside } from "../../../repo/land/body-aside.ts"
+import { type Landing, LandingRefused, land } from "../../../repo/land/land.ts"
+import { type Loose, landOutside, removeOutside } from "../../../repo/land/outside.ts"
 import { readPayload, readsPayload } from "../../../tools/lib/payload.ts"
+import {
+  type Addressed,
+  addressOf,
+  defaultMessage,
+  rejectUnknownFlags,
+  relPathIn,
+} from "../address.ts"
+import { statingIds } from "./state-id.ts"
 
 const FILE_PATH = "--file-path"
 
@@ -133,15 +139,67 @@ function couldCarryBody(): boolean {
 
 export const help = {
   flags: [
-    { name: REPO, argLabel: "<name>", valueShape: "token" as const, description: "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused." },
-    { name: INPUT_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "The tool-call JSON: `{ file_path, content }` or an array of them. `-` is stdin and the default." },
-    { name: FILE_PATH, argLabel: "<p>", valueShape: "token" as const, path: true, repeat: true, description: "Convenience form, with --content-file. Repeatable; the pairs are one change set." },
-    { name: CONTENT_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, repeat: true, description: "The body for the --file-path before it. `-` is stdin, and a call addressing akasha refuses it." },
-    { name: REMOVE, argLabel: "<p>", valueShape: "token" as const, path: true, repeat: true, description: "A path this same act takes away. The writes and the removals are one gated commit." },
-    { name: MESSAGE, argLabel: "<s>", valueShape: "prose" as const, description: "Commit message. Defaults to one naming the written paths." },
-    { name: MESSAGE_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read the commit message from a file." },
+    {
+      name: REPO,
+      argLabel: "<name>",
+      valueShape: "token" as const,
+      description:
+        "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused.",
+    },
+    {
+      name: INPUT_FILE,
+      argLabel: "<f>",
+      valueShape: "token" as const,
+      path: true,
+      description:
+        "The tool-call JSON: `{ file_path, content }` or an array of them. `-` is stdin and the default.",
+    },
+    {
+      name: FILE_PATH,
+      argLabel: "<p>",
+      valueShape: "token" as const,
+      path: true,
+      repeat: true,
+      description:
+        "Convenience form, with --content-file. Repeatable; the pairs are one change set.",
+    },
+    {
+      name: CONTENT_FILE,
+      argLabel: "<f>",
+      valueShape: "token" as const,
+      path: true,
+      repeat: true,
+      description:
+        "The body for the --file-path before it. `-` is stdin, and a call addressing akasha refuses it.",
+    },
+    {
+      name: REMOVE,
+      argLabel: "<p>",
+      valueShape: "token" as const,
+      path: true,
+      repeat: true,
+      description:
+        "A path this same act takes away. The writes and the removals are one gated commit.",
+    },
+    {
+      name: MESSAGE,
+      argLabel: "<s>",
+      valueShape: "prose" as const,
+      description: "Commit message. Defaults to one naming the written paths.",
+    },
+    {
+      name: MESSAGE_FILE,
+      argLabel: "<f>",
+      valueShape: "token" as const,
+      path: true,
+      description: "Read the commit message from a file.",
+    },
     { name: DRY_RUN, description: "Gate and report; write and commit nothing." },
-    { name: MECHANICAL, description: "This body was decided by a program, not authored. The gates about what its writer read stand aside." },
+    {
+      name: MECHANICAL,
+      description:
+        "This body was decided by a program, not authored. The gates about what its writer read stand aside.",
+    },
     {
       name: BREAK_GLASS,
       argLabel: "<reason>",
@@ -208,7 +266,11 @@ export default async function write(argv: readonly string[]): Promise<void> {
 
   const dryRun = argv.includes(DRY_RUN)
   const mechanical = argv.includes(MECHANICAL)
-  const everyPath = [...pairs.map((one) => one.filePath), ...carried.map((one) => one.filePath), ...named]
+  const everyPath = [
+    ...pairs.map((one) => one.filePath),
+    ...carried.map((one) => one.filePath),
+    ...named,
+  ]
   const at = addressOf(argv, everyPath)
 
   const glass = valueOf(argv, BREAK_GLASS)
@@ -225,9 +287,13 @@ export default async function write(argv: readonly string[]): Promise<void> {
     }
     const loose: Loose[] = []
     for (const one of pairs) {
-      const bytes = one.contentFile === "-" ? await Bun.stdin.bytes() : readFileSync(one.contentFile)
+      const bytes =
+        one.contentFile === "-" ? await Bun.stdin.bytes() : readFileSync(one.contentFile)
       const absolute = resolve(process.cwd(), one.filePath)
-      loose.push({ absolute, body: carriesBytes(absolute) ? bytes : bodyText(bytes, one.contentFile) })
+      loose.push({
+        absolute,
+        body: carriesBytes(absolute) ? bytes : bodyText(bytes, one.contentFile),
+      })
     }
     for (const one of carried) {
       const absolute = resolve(process.cwd(), one.filePath)
@@ -271,7 +337,12 @@ export default async function write(argv: readonly string[]): Promise<void> {
   const message =
     messageFile !== null
       ? readFileSync(messageFile, "utf8").trim()
-      : (valueOf(argv, MESSAGE) ?? defaultMessage(at.repo, "write", entries.map((one) => one.relPath)))
+      : (valueOf(argv, MESSAGE) ??
+        defaultMessage(
+          at.repo,
+          "write",
+          entries.map((one) => one.relPath)
+        ))
 
   const held = valueOf(argv, PATCH_FILE)
   if (held !== null) {
@@ -325,7 +396,9 @@ function removalsIn(at: Addressed, named: readonly string[]): readonly string[] 
 function bodyText(bytes: Uint8Array, from: string): string {
   const body = decodeUtf8(bytes)
   if (body === null) {
-    fail(`${from === "-" ? "stdin" : from} is not UTF-8 text, and this path's file kind does not carry bytes`)
+    fail(
+      `${from === "-" ? "stdin" : from} is not UTF-8 text, and this path's file kind does not carry bytes`
+    )
   }
   return body
 }

@@ -1,8 +1,6 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import type { Repo } from "@akasha/pages-system/markdown-document"
-import { type Repo as Addressable } from "@akasha/pages-system/markdown-document"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { decodeUtf8 } from "@akasha/code-system/utf8-body"
 import {
   AKASHA,
   addressableNamed,
@@ -10,8 +8,9 @@ import {
   locate,
   resolveRoots,
 } from "@akasha/pages-system/checkout-roots"
+import type { Repo as Addressable, Repo } from "@akasha/pages-system/markdown-document"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { fail } from "./command.ts"
-import { decodeUtf8 } from "../../utf8-body/utf8-body.ts"
 import { notUtf8 } from "./utf8-body.ts"
 
 const STANDALONE = [

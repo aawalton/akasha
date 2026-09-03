@@ -1,14 +1,21 @@
-export const summary = "Change passages in place by exact-string replacement, gating the whole result"
+export const summary =
+  "Change passages in place by exact-string replacement, gating the whole result"
 
 import { existsSync, readFileSync, statSync } from "node:fs"
 import { resolve } from "node:path"
-import { decodeUtf8, leadingBytes } from "../../../utf8-body/utf8-body.ts"
-import { land, LandingRefused, type Landing } from "../../../repo/land/land.ts"
-import { landOutside, type Loose } from "../../../repo/land/outside.ts"
-import { applyPairs, parsePairs } from "../../../patches/edit-pairs.ts"
-import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
+import { decodeUtf8, leadingBytes } from "@akasha/code-system/utf8-body"
 import { AKASHA } from "@akasha/pages-system/checkout-roots"
+import { applyPairs, parsePairs } from "../../../patches/edit-pairs.ts"
 import { fail, payloadText, valueOf } from "../../../patches/patch.ts"
+import { type Landing, LandingRefused, land } from "../../../repo/land/land.ts"
+import { type Loose, landOutside } from "../../../repo/land/outside.ts"
+import {
+  type Addressed,
+  addressOf,
+  defaultMessage,
+  rejectUnknownFlags,
+  relPathIn,
+} from "../address.ts"
 
 const INPUT_FILE = "--input-file"
 
@@ -68,7 +75,9 @@ function prepare(declared: readonly Declared[], at: Addressed | null): readonly 
     const absolute = at === null ? resolve(process.cwd(), one.filePath) : `${at.root}/${relPath}`
     const named = at === null ? absolute : relPath
     if (!existsSync(absolute)) {
-      refusals.push(`${named} is not there — \`edit\` changes a file that is, and \`write\` makes one`)
+      refusals.push(
+        `${named} is not there — \`edit\` changes a file that is, and \`write\` makes one`
+      )
       continue
     }
     const stamp = statSync(absolute)
@@ -98,7 +107,9 @@ function prepare(declared: readonly Declared[], at: Addressed | null): readonly 
     entries.push({ absolute, relPath, body: applied.body, at: stamp.mtimeMs })
   }
   if (refusals.length > 0) {
-    process.stderr.write(`refused:\n${refusals.map((one) => `  ${one}`).join("\n")}\nnothing was written\n`)
+    process.stderr.write(
+      `refused:\n${refusals.map((one) => `  ${one}`).join("\n")}\nnothing was written\n`
+    )
     process.exit(1)
   }
   return entries
@@ -116,7 +127,7 @@ function refuseWhatMoved(entries: readonly Prepared[]): void {
   const moved = entries.filter((one) => mtimeNow(one.absolute) !== one.at)
   if (moved.length === 0) return
   fail(
-    `${moved.map((one) => one.relPath === "" ? one.absolute : one.relPath).join(", ")} changed after ` +
+    `${moved.map((one) => (one.relPath === "" ? one.absolute : one.relPath)).join(", ")} changed after ` +
       "this call read it, so the body composed for it is not the body on disk — nothing was " +
       "written; run it again"
   )
@@ -124,12 +135,39 @@ function refuseWhatMoved(entries: readonly Prepared[]): void {
 
 export const help = {
   flags: [
-    { name: REPO, argLabel: "<name>", valueShape: "token" as const, description: "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused." },
-    { name: INPUT_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "The tool-call JSON; `-` is stdin and the default." },
-    { name: MESSAGE, argLabel: "<s>", valueShape: "prose" as const, description: "Commit message. Defaults to one naming the edited paths." },
-    { name: MESSAGE_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read the commit message from a file." },
+    {
+      name: REPO,
+      argLabel: "<name>",
+      valueShape: "token" as const,
+      description:
+        "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused.",
+    },
+    {
+      name: INPUT_FILE,
+      argLabel: "<f>",
+      valueShape: "token" as const,
+      path: true,
+      description: "The tool-call JSON; `-` is stdin and the default.",
+    },
+    {
+      name: MESSAGE,
+      argLabel: "<s>",
+      valueShape: "prose" as const,
+      description: "Commit message. Defaults to one naming the edited paths.",
+    },
+    {
+      name: MESSAGE_FILE,
+      argLabel: "<f>",
+      valueShape: "token" as const,
+      path: true,
+      description: "Read the commit message from a file.",
+    },
     { name: DRY_RUN, description: "Gate and report; write and commit nothing." },
-    { name: MECHANICAL, description: "This substitution was decided by a program, not authored. The gates about what its writer read stand aside." },
+    {
+      name: MECHANICAL,
+      description:
+        "This substitution was decided by a program, not authored. The gates about what its writer read stand aside.",
+    },
     {
       name: BREAK_GLASS,
       argLabel: "<reason>",
@@ -148,14 +186,18 @@ export default async function edit(argv: readonly string[]): Promise<void> {
 
   const inputFile = valueOf(argv, INPUT_FILE)
   const text = payloadText(argv, true)
-  if (text === null) fail(`this call carries no payload — hand the tool-call JSON in on stdin or with ${INPUT_FILE}`)
+  if (text === null)
+    fail(`this call carries no payload — hand the tool-call JSON in on stdin or with ${INPUT_FILE}`)
   const declared = declaredIn(text, inputFile === null || inputFile === "-" ? "stdin" : inputFile)
   if (declared.length === 0) fail("the payload declares no file, so it asks for no change at all")
 
   const everyPath = declared.map((one) => resolve(process.cwd(), one.filePath))
   if (new Set(everyPath).size !== everyPath.length) fail("a path is declared more than once")
 
-  const at = addressOf(argv, declared.map((one) => one.filePath))
+  const at = addressOf(
+    argv,
+    declared.map((one) => one.filePath)
+  )
   const entries = prepare(declared, at)
   refuseWhatMoved(entries)
 
@@ -179,7 +221,12 @@ export default async function edit(argv: readonly string[]): Promise<void> {
   const message =
     messageFile !== null
       ? readFileSync(messageFile, "utf8").trim()
-      : (valueOf(argv, MESSAGE) ?? defaultMessage(at.repo, "edit", landings.map((one) => one.relPath)))
+      : (valueOf(argv, MESSAGE) ??
+        defaultMessage(
+          at.repo,
+          "edit",
+          landings.map((one) => one.relPath)
+        ))
 
   try {
     land(at, landings, message, dryRun, [], [], argv.includes(MECHANICAL), [], new Map(), glass)

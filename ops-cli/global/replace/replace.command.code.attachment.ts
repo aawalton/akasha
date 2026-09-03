@@ -2,12 +2,18 @@ export const summary = "Replace one exact string wherever it appears, gating eve
 
 import { existsSync, readFileSync, statSync } from "node:fs"
 import { resolve } from "node:path"
-import { git } from "../../../repo/git/git.ts"
-import { land, LandingRefused, type Landing } from "../../../repo/land/land.ts"
-import { landOutside, type Loose } from "../../../repo/land/outside.ts"
-import { decodeUtf8, leadingBytes } from "../../../utf8-body/utf8-body.ts"
-import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
+import { decodeUtf8, leadingBytes } from "@akasha/code-system/utf8-body"
 import { fail, valueOf } from "../../../patches/patch.ts"
+import { git } from "../../../repo/git/git.ts"
+import { type Landing, LandingRefused, land } from "../../../repo/land/land.ts"
+import { type Loose, landOutside } from "../../../repo/land/outside.ts"
+import {
+  type Addressed,
+  addressOf,
+  defaultMessage,
+  rejectUnknownFlags,
+  relPathIn,
+} from "../address.ts"
 
 const REPO = "--repo"
 
@@ -25,7 +31,15 @@ const MESSAGE_FILE = "--message-file"
 
 const DRY_RUN = "--dry-run"
 
-const VALUE_FLAGS = [REPO, OLD_STRING, OLD_STRING_FILE, NEW_STRING, NEW_STRING_FILE, MESSAGE, MESSAGE_FILE]
+const VALUE_FLAGS = [
+  REPO,
+  OLD_STRING,
+  OLD_STRING_FILE,
+  NEW_STRING,
+  NEW_STRING_FILE,
+  MESSAGE,
+  MESSAGE_FILE,
+]
 
 const BARE_FLAGS = [DRY_RUN, "--help", "-h"]
 
@@ -73,7 +87,9 @@ function stated(argv: readonly string[], inline: string, fromFile: string): stri
   }
   const body = decodeUtf8(bytes)
   if (body === null) {
-    fail(`${path} is not UTF-8 text, so no string can be read off it — it begins ${leadingBytes(bytes)}`)
+    fail(
+      `${path} is not UTF-8 text, so no string can be read off it — it begins ${leadingBytes(bytes)}`
+    )
   }
   return body
 }
@@ -156,13 +172,52 @@ function refuseWhatMoved(found: readonly Rewrite[]): void {
 
 export const help = {
   flags: [
-    { name: REPO, argLabel: "<name>", valueShape: "token" as const, description: "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused." },
-    { name: OLD_STRING, argLabel: "<s>", valueShape: "prose" as const, description: "The exact text to replace. The key `edit` calls it by." },
-    { name: OLD_STRING_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read --old-string from this file, for text a shell cannot carry." },
-    { name: NEW_STRING, argLabel: "<s>", valueShape: "prose" as const, description: "What replaces it. An empty one is legitimate and deletes the text." },
-    { name: NEW_STRING_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read --new-string from this file." },
-    { name: MESSAGE, argLabel: "<s>", valueShape: "prose" as const, description: "Commit message. Defaults to one naming the rewritten paths." },
-    { name: MESSAGE_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read the commit message from a file." },
+    {
+      name: REPO,
+      argLabel: "<name>",
+      valueShape: "token" as const,
+      description:
+        "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused.",
+    },
+    {
+      name: OLD_STRING,
+      argLabel: "<s>",
+      valueShape: "prose" as const,
+      description: "The exact text to replace. The key `edit` calls it by.",
+    },
+    {
+      name: OLD_STRING_FILE,
+      argLabel: "<f>",
+      valueShape: "token" as const,
+      path: true,
+      description: "Read --old-string from this file, for text a shell cannot carry.",
+    },
+    {
+      name: NEW_STRING,
+      argLabel: "<s>",
+      valueShape: "prose" as const,
+      description: "What replaces it. An empty one is legitimate and deletes the text.",
+    },
+    {
+      name: NEW_STRING_FILE,
+      argLabel: "<f>",
+      valueShape: "token" as const,
+      path: true,
+      description: "Read --new-string from this file.",
+    },
+    {
+      name: MESSAGE,
+      argLabel: "<s>",
+      valueShape: "prose" as const,
+      description: "Commit message. Defaults to one naming the rewritten paths.",
+    },
+    {
+      name: MESSAGE_FILE,
+      argLabel: "<f>",
+      valueShape: "token" as const,
+      path: true,
+      description: "Read the commit message from a file.",
+    },
     { name: DRY_RUN, description: "Search, compose, gate and report; write and commit nothing." },
   ],
   mutuallyExclusive: [
@@ -173,7 +228,8 @@ export const help = {
     {
       name: "paths",
       variadic: true,
-      description: "Where to search, absolute or against the directory this ran in. A directory opens onto every tracked file under it, and with none named the directory this ran in is the one searched.",
+      description:
+        "Where to search, absolute or against the directory this ran in. A directory opens onto every tracked file under it, and with none named the directory this ran in is the one searched.",
     },
   ],
 }
@@ -186,9 +242,11 @@ export default async function replace(argv: readonly string[]): Promise<void> {
   const old = stated(argv, OLD_STRING, OLD_STRING_FILE)
   const next = stated(argv, NEW_STRING, NEW_STRING_FILE)
   if (old === null) fail(`${OLD_STRING} names the text to replace, and none was given`)
-  if (next === null) fail(`${NEW_STRING} names what replaces it; give an empty one to delete the text`)
+  if (next === null)
+    fail(`${NEW_STRING} names what replaces it; give an empty one to delete the text`)
   if (old === "") fail(`${OLD_STRING} is empty, which matches everywhere and nowhere`)
-  if (old === next) fail(`${OLD_STRING} and ${NEW_STRING} are identical, so this asks for no change`)
+  if (old === next)
+    fail(`${OLD_STRING} and ${NEW_STRING} are identical, so this asks for no change`)
 
   const at = addressOf(argv, paths)
   const targets = at === null ? looseTargets(paths) : trackedUnder(at, scopesIn(at, paths))
@@ -226,7 +284,12 @@ export default async function replace(argv: readonly string[]): Promise<void> {
   const message =
     messageFile !== null
       ? readFileSync(messageFile, "utf8").trim()
-      : (valueOf(argv, MESSAGE) ?? defaultMessage(at.repo, "replace", landings.map((one) => one.relPath)))
+      : (valueOf(argv, MESSAGE) ??
+        defaultMessage(
+          at.repo,
+          "replace",
+          landings.map((one) => one.relPath)
+        ))
 
   try {
     land(at, landings, message, dryRun, [], [], true)

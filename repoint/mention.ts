@@ -1,10 +1,10 @@
 import { readFileSync } from "node:fs"
-import { judge, type Outcome } from "@akasha/verdict/outcome"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { trackedIn } from "../page/tracked/tracked.ts"
-import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { decodeUtf8 } from "@akasha/code-system/utf8-body"
 import { targetRoot } from "@akasha/pages-system/checkout-roots"
-import { decodeUtf8 } from "../utf8-body/utf8-body.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { judge, type Outcome } from "@akasha/verdict/outcome"
+import { trackedIn } from "../page/tracked/tracked.ts"
 
 export const PATH_CHAR = /[A-Za-z0-9_./~$-]/
 export const PATH_TAIL = /[A-Za-z0-9_/-]/
@@ -69,7 +69,11 @@ function homeOrRefuse(): string {
   return home
 }
 
-export function mentionsOf(body: string, paths: Iterable<string>, roots: Roots): readonly Mention[] {
+export function mentionsOf(
+  body: string,
+  paths: Iterable<string>,
+  roots: Roots
+): readonly Mention[] {
   const root = canonicalize(targetRoot(roots))
   const found: Mention[] = []
   const shared = prefixOf(paths)
@@ -87,7 +91,12 @@ export function mentionsOf(body: string, paths: Iterable<string>, roots: Roots):
         (prefix.endsWith("/") &&
           canonicalize(normalizeAbsolute(prefix.replace(/^(~|\$HOME)/, homeOrRefuse))) === root)
       if (rooted) {
-        found.push({ path, start: at, end: at + path.length, line: body.slice(0, at).split("\n").length })
+        found.push({
+          path,
+          start: at,
+          end: at + path.length,
+          line: body.slice(0, at).split("\n").length,
+        })
       }
     }
   }
@@ -116,7 +125,10 @@ function escapedPattern(from: string): RegExp {
   return made
 }
 
-export function escapedMentions(body: string, moves: ReadonlyMap<string, string>): readonly string[] {
+export function escapedMentions(
+  body: string,
+  moves: ReadonlyMap<string, string>
+): readonly string[] {
   const found: string[] = []
   if (!body.includes("\\")) return found
   const bare = body.replaceAll("\\", "")
