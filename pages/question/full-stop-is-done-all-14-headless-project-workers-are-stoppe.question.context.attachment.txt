@@ -1,0 +1,1 @@
+You said 'all headless agents stopped'. The 14 project/worker agents are done — zero live. The ambiguity is the persona seats, which run unattended but do your service work (inbox, calendar, iMessage, food log, coaching). Stopping them is trivially reversible; leaving them up means some agents are still running. Your call which you meant.

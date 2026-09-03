@@ -1,0 +1,15 @@
+`tasks/time-tracking-capture.md` (landed tonight) tells a seat how to map your words onto the safety scale. Its stage 2 lists the anchors as bare adjectives:
+
+> −2 shutdown · −1 activated · 0 tolerating · 1 resting · 2 productive · 3 happy · 4 **vulnerable** · 5 outgoing
+
+The shipped table at `packages/audhdalan/web/app/routes/safety-levels.tsx` (`origin/main` `77685cfb`) writes them as **capabilities**:
+
+> 5 "Can be outgoing" · 4 **"Can be secure"** · 3 "Can feel happiness" · 2 "Can be productive" · 1 "Can rest" · … −2 activities "Flop, complete physical systems shutdown"
+
+Seven of the eight match one-for-one once you strip the "Can be" frame — resting, productive, happy, outgoing all survive as plain state words. **Level 4 is the only one where stripping the frame flips the meaning.** "Can be vulnerable" is a high-safety capability: safe enough to open up, which sits naturally between "can feel happiness" and "can be outgoing". Bare "vulnerable" reads as the opposite — unsafe, exposed.
+
+What turns on it: a seat capturing you saying *"I'm feeling pretty vulnerable right now"* maps that to 4 under the current text — the second-highest safety level on an eight-rung scale. If you meant the capability, that is right. If you were reporting distress, your day gets scored near the top of the scale at your worst moment, and the cost multiplier is `safetyLevel - difficultyLevel`, so the error propagates into the ledger rather than staying a label.
+
+I did not change it. The two readings produce opposite scores from identical words, and it is your scale describing your own states, so guessing seemed worse than asking.
+
+My recommendation is the first option: it keeps your word and removes the inversion, and it makes the abbreviation lossless for the one member where it currently is not.

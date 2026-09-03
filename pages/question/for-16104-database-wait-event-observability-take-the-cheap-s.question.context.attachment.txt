@@ -1,0 +1,7 @@
+The estate has ZERO wait-event observability — verified tonight, and it is the one class of explanation that fits the intermittent stalls we keep failing to root-cause. Two paths, and the review says the choice is yours because it is a taste call, not a fact call.
+
+A — CHEAP NOW: sample pg_stat_activity.wait_event through the postgres-exporter's existing --extend.query-path. It is ONE ENTRY IN A FILE THAT ALREADY EXISTS. No image rebuild, no preload change, no restart, ships in a normal CI pass. Honest limit: scrape-interval sampling misses sub-scrape waits, so it undercounts brief ones.
+
+B — CORRECT, COSTLIER: the pg_wait_sampling extension. But it is NOT in pg_available_extensions on our custom image, so this means an image rebuild + a shared_preload_libraries change + a PRIMARY RESTART under settle-gate discipline. Not a CI round trip.
+
+A is a real instrument with a known sensitivity floor, not a fake one — it would settle whether waits are even the mechanism before anyone buys a restart. Nothing is blocked tonight (capacity gate closed, nothing dispatching), so answer whenever suits.

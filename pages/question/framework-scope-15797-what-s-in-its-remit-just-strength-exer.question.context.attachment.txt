@@ -1,0 +1,1 @@
+Interview Q2 (Q1 'framework decides' = answered). This sets the framework's DOMAIN — everything downstream operates inside it. Tradeoff: full picture = more to build, and some of your conditioning already runs itself (walking, Beat Saber).
