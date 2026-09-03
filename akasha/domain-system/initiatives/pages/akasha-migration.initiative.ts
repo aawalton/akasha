@@ -10,7 +10,7 @@ export const akashaMigration = {
     {
       statement: "All files in the akasha repo are in the akasha subfolder.",
       workingMemory:
-        "At dispatch 69,894 files outside akasha against 32,904 inside; now 61,906 outside and 36,914 inside. The 261 `pages/` folders group into 18 families sharing no page type, mapped in ten findings. 17,041 files are already accreted, all under `pages/`. RUN `akasha audit` IN ONE AGENT ONLY: many at once exhausted memory and killed the session at 22:00. Checks are scoped to the paths a landing names, so a break elsewhere does not block you.",
+        "Now 57,363 outside akasha against 52,389 inside, from 69,894 and 32,904 at dispatch. The 261 `pages/` folders group into 18 families sharing no page type. 17,041 files are already accreted, all under `pages/`. `akasha audit` runs its ~41 checks at once at ~1.8 GB each, which is the defect; one agent holds the licence while that is fixed. Anyone may run one check at ~2.5 GB: `akasha audit --check <slug>`. Audit refuses redirected output: zero bytes, exit 144. Give it a pty with `script -qec`.",
     },
     {
       statement: "The story chapters are akasha pages.",
@@ -30,12 +30,12 @@ export const akashaMigration = {
     {
       statement: "The code outside akasha is akasha modules.",
       workingMemory:
-        "tools 1,649, dirty 1,506, infra 716, lua-compiler 288, editor-extension 84, and the smaller service and deploy directories. Target shape is module page plus code beside plus test, and workspace packages whose manifest names every way in. Load-bearing: the supervisor, the second commit path, and whatever is actively writing code-editor-* pages tonight.",
+        "tools 1,649, dirty 1,506, infra 716, lua-compiler 288, editor-extension 84. Target shape is module page plus code beside plus test. AN AKASHA FILE MAY IMPORT NOTHING OUTSIDE `akasha/`, a design gate refused even where the path resolves, so code moves leaves-first and a runner cannot precede what it imports; closures measured 0 to 194 files, nearly all `tools/lib/`. `akasha move` will not carry a file in from outside: use `akasha write` plus `akasha remove`, and nothing repoints readers.",
     },
     {
       statement: "Nothing outside akasha duplicates what is already inside it.",
       workingMemory:
-        "MATCH ON SLUG AND FIELDS, NEVER ON ID. No migration has carried a page id across: temper-skill matches 1,636 of 1,636 on slug and 0 of 1,636 on id, so an id-keyed check clears nothing while looking like a correct negative. 10,469 sidecars beside already-migrated stubs hold 126,962 reference rows with no home in akasha, so a folder-level sweep destroys them. The shared tools are at akasha/migration-system/, reached by `akasha migration-reach`.",
+        "MATCH ON SLUG AND FIELDS; report the id, never key on it: some discard ids, some carry them. temper-skill 1,636/1,636 on slug, 0 on id; persona-day 2,079/2,079 carried, 1,938 pointed at by id from inside. Never re-mint an id before counting what points at it. `migration-reach` cannot judge code: a module names no page type, so it answers that no counterpart could be looked for, forever; only `--told` reaches code. 10,469 sidecars hold 126,962 rows with no home; a folder sweep destroys them.",
     },
   ],
   constraints: [
