@@ -60,6 +60,8 @@ export const alanHarness = {
     "workspace-package/mobile-cli",
     "workspace-package/icloud-photos",
     "workspace-package/rules-engine",
+    "domain/alanwalton-ios-notification",
+    "domain/money",
   ],
   invariants: [
     {

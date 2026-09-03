@@ -44,6 +44,7 @@ export const worldMechanic = {
     "text-property/reference-kind",
     "text-property/to-slug",
     "text-property/wording",
+    "domain/ability",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

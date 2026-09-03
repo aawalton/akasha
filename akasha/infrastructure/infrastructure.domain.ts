@@ -13,6 +13,14 @@ export const infrastructure = {
     "domain/inference",
     "workspace-package/k8s-types",
     "page-type/alert",
+    "domain/branch-pipeline",
+    "domain/ci-benchmark",
+    "domain/cluster-provisioning",
+    "domain/container-image",
+    "domain/job",
+    "domain/main-pipeline",
+    "domain/node",
+    "domain/resource-utilization",
   ],
   invariants: [
     {

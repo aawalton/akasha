@@ -10,6 +10,9 @@ export const library = {
     "domain/watching",
     "workspace-package/reading",
     "workspace-package/book-of-everything",
+    "domain/book-of-everything",
+    "domain/learn-everything",
+    "domain/litrpg-books",
   ],
   invariants: [
     {
