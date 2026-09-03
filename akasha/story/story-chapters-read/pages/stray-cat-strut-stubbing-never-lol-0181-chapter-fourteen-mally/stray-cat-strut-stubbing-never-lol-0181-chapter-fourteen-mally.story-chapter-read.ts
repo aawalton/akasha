@@ -4,7 +4,7 @@ export const strayCatStrutStubbingNeverLol0181ChapterFourteenMally = {
   id: "01a06730-4e12-7de1-ac6e-4f3303d01a40",
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0181-chapter-fourteen-mally",
-  title: "Chapter Fourteen - Mally�",
+  title: "Chapter Fourteen - Mally​",
   partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 181,
   ownLength: 1486,

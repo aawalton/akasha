@@ -4,7 +4,7 @@ export const strayCatStrutStubbingNeverLol0166StrayCatStrutVolumeThreeAYoungLady
   id: "01a06730-4e11-77f4-9f37-01ecc01523d1",
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0166-stray-cat-strut-volume-three-a-young-ladys",
-  title: "Stray Cat Strut �- Volume Three - A Young Lady's Hopepunk Safari",
+  title: "Stray Cat Strut ⁠- Volume Three - A Young Lady's Hopepunk Safari",
   partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 166,
   ownLength: 91,
