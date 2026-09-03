@@ -111,7 +111,8 @@ export async function inferenceVoiceClone(argv: readonly string[]): Promise<Answ
   }
   if (refusals.length > 0 || text === null || priorityRaw === null) return refusedBy(refusals)
 
-  const priority: Priority = isPriority(priorityRaw) ? priorityRaw : "normal"
+  const priority: Priority =
+    priorityRaw !== undefined && isPriority(priorityRaw) ? priorityRaw : "normal"
   const mode: Mode | undefined = modeRaw !== undefined && isMode(modeRaw) ? modeRaw : undefined
 
   return await answering(async () => {
