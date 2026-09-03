@@ -5,7 +5,7 @@ import * as path from 'node:path';
 import { promisify } from 'node:util';
 import { answerBytesSaid } from '@tools/lib/answer';
 import { isServed } from '@tools/lib/verb-served';
-import { askServed, CommandServerClient } from './command-server-client.ts';
+import { askServed, servingFrom, type Serving } from './command-server-client.ts';
 
 const execFileP = promisify(execFile);
 
@@ -116,7 +116,7 @@ const SERVER_COMMAND = 'verb-server';
 // themselves are loaded when they are first asked for — so this is generous rather than tuned.
 const SERVER_START_TIMEOUT_MS = 15_000;
 
-let served: CommandServerClient | undefined;
+let served: Serving | undefined;
 
 let noise: ((text: string) => void) | undefined;
 
@@ -127,9 +127,9 @@ export function commandServerHeard(say: (text: string) => void): undefined {
 	return undefined;
 }
 
-function servedClient(): CommandServerClient {
+function servedClient(): Serving {
 	if (served === undefined) {
-		served = new CommandServerClient({
+		served = servingFrom({
 			bun: path.join(bunDirectory(), 'bun'),
 			serverFile: commandPath(SERVER_COMMAND),
 			env: harnessEnvironment(),

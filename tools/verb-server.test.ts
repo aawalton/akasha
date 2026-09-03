@@ -4,7 +4,8 @@ import { homedir, tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import {
   askServed,
-  CommandServerClient,
+  servingFrom,
+  type Serving,
   CommandServerRefusal,
   REFUSAL_GONE,
   REFUSAL_LEASE,
@@ -31,7 +32,7 @@ const WORKING_PAGE = "pages/domain/agent-turn-working.md"
 
 const ASK_MS = 20_000
 
-const started: CommandServerClient[] = []
+const started: Serving[] = []
 
 // A root of our own, holding the one page `agent-turn-colors --state working` reads. Writing a
 // colour here is a change the server must notice; nothing in the repository is touched.
@@ -53,8 +54,8 @@ function colourIn(at: string, colour: string): undefined {
 function clientAt(
   root: string,
   more: { readonly leaseBoundMs?: number; readonly serverLeaseMs?: number } = {}
-): CommandServerClient {
-  const client = new CommandServerClient({
+): Serving {
+  const client = servingFrom({
     bun: BUN,
     serverFile: SERVER,
     env: {
@@ -71,7 +72,7 @@ function clientAt(
 }
 
 async function colourSaid(
-  client: CommandServerClient
+  client: Serving
 ): Promise<{ readonly colour: string; readonly pid: number }> {
   const answer = await client.ask("agent-turn-colors", ["--state", "working"], ASK_MS)
   const said = JSON.parse(answer.stdout) as { colors: Record<string, string> }
