@@ -1,11 +1,13 @@
 import { createHash } from "node:crypto"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { getCommitTreeSha } from "@akasha/git/tree-sha"
 import {
   commitSha40,
   type InputsHash12,
   inputsHash12,
   toShortSha7,
+  treeSha40,
 } from "@akasha/workflow-language/ci-identifiers"
 import {
   computeInputsHash,
@@ -24,7 +26,6 @@ import type { Graph, NodeId } from "../graph/types.ts"
 import { discoverWorkflows } from "../workflow-dsl/discovery.ts"
 import { intersectWithTreePaths, listCommitTreePaths } from "./pipeline-configs-graph-file-set.ts"
 import type { LoadConfigsTimings } from "./pipeline-configs-types.ts"
-import { getCommitTreeSha } from "./tree-sha.ts"
 
 export interface WorkflowStepConfig {
   readonly name: string
@@ -163,7 +164,7 @@ export async function loadAllWorkflowConfigs(
   )
 
   const shortSha = toShortSha7(fullSha)
-  const fullTreeSha = await getCommitTreeSha(args.gitDir, fullSha)
+  const fullTreeSha = treeSha40(await getCommitTreeSha(args.gitDir, fullSha))
 
   const settled = await Promise.allSettled(
     discovered.map(async (pipeline): Promise<WorkflowConfig> => {
