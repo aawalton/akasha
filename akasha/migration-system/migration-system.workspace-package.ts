@@ -10,6 +10,7 @@ export const migrationSystem = {
     "module/migration-checked-landing",
     "module/migration-landing",
     "module/migration-reach",
+    "module/zz-probe-orphan",
     "command/migration-reach",
   ],
   invariants: [
