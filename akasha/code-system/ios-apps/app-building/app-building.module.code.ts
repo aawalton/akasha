@@ -5,9 +5,9 @@ import { slugOf, textAt, type Value, valueAt } from "@akasha/pages-system/page-v
 import { quoted } from "@akasha/shell/quoting"
 
 export const SHARED_PATHS: readonly string[] = [
-  "akasha/code-system/ios-app/shell-scripts",
-  "akasha/code-system/ios-component/ios-components",
-  "akasha/code-system/ios-program/ios-programs",
+  "akasha/code-system/ios-apps/scripts",
+  "akasha/code-system/ios-components/pages",
+  "akasha/code-system/ios-programs/pages",
 ]
 
 const PROGRAM = "ios-program/"

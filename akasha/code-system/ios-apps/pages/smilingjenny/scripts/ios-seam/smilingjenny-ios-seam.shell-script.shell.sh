@@ -26,7 +26,7 @@ if [[ ! -f "$SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-scrip
   echo "ERROR: $SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh not found — the components this extension compiles could not be copied, and the extension would compile with no ring in it." >&2
   exit 1
 fi
-# shellcheck source=akasha/code-system/ios-app/shell-scripts/widget-components/widget-components.shell-script.shell.sh
+# shellcheck source=akasha/code-system/ios-apps/scripts/widget-components/widget-components.shell-script.shell.sh
 . "$SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh"
 WIDGET_COMPONENTS="${NATIVE_SHELL_COMPONENTS:?is unset. The ios-app page names the components its widget extension compiles, and the ops mobile command running this build exports them. This script states no list of its own to fall back to.}"
 WIDGET_NAME="${NATIVE_SHELL_WIDGET_NAME:?is unset. The widget program page states target-name, and whatever runs this build reads it off that page and exports it. This script states no name of its own to fall back to.}"
@@ -60,13 +60,13 @@ if [[ ! -f "$SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh" 
   echo "ERROR: $SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh not found — neither binary could be stamped, and an unstamped binary is refused at the upload gate." >&2
   exit 1
 fi
-# shellcheck source=akasha/code-system/ios-app/shell-scripts/build-stamp/build-stamp.shell-script.shell.sh
+# shellcheck source=akasha/code-system/ios-apps/scripts/build-stamp/build-stamp.shell-script.shell.sh
 . "$SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh"
 if [[ ! -f "$SHARED_IOS_SEAM_DIR/monarch-url/monarch-url.shell-script.shell.sh" ]]; then
   echo "ERROR: $SHARED_IOS_SEAM_DIR/monarch-url/monarch-url.shell-script.shell.sh not found — the monarch-tap relay has no link to open, and appending it without one would emit Swift that does not compile." >&2
   exit 1
 fi
-# shellcheck source=akasha/code-system/ios-app/shell-scripts/monarch-url/monarch-url.shell-script.shell.sh
+# shellcheck source=akasha/code-system/ios-apps/scripts/monarch-url/monarch-url.shell-script.shell.sh
 . "$SHARED_IOS_SEAM_DIR/monarch-url/monarch-url.shell-script.shell.sh"
 
 "$PB" -c "Delete :ITSAppUsesNonExemptEncryption" "$PLIST" 2>/dev/null || true
@@ -94,18 +94,18 @@ echo "OK: copied widget sources into $WIDGET_DEST"
 
 native_shell_stamp_widget "$WIDGET_DEST"
 
-# shellcheck source=akasha/code-system/ios-app/ios-apps/smilingjenny/shell-scripts/smilingjenny-widget-target/smilingjenny-widget-target.shell-script.shell.sh
+# shellcheck source=akasha/code-system/ios-apps/pages/smilingjenny/scripts/widget-target/smilingjenny-widget-target.shell-script.shell.sh
 . "$HERE/../smilingjenny-widget-target/smilingjenny-widget-target.shell-script.shell.sh"
 
 fi
 
-# shellcheck source=akasha/code-system/ios-app/ios-apps/smilingjenny/shell-scripts/smilingjenny-ios-seam-plugins/smilingjenny-ios-seam-plugins.shell-script.shell.sh
+# shellcheck source=akasha/code-system/ios-apps/pages/smilingjenny/scripts/ios-seam-plugins/smilingjenny-ios-seam-plugins.shell-script.shell.sh
 . "$HERE/../smilingjenny-ios-seam-plugins/smilingjenny-ios-seam-plugins.shell-script.shell.sh"
 
-# shellcheck source=akasha/code-system/ios-app/ios-apps/smilingjenny/shell-scripts/smilingjenny-ring-credential/smilingjenny-ring-credential.shell-script.shell.sh
+# shellcheck source=akasha/code-system/ios-apps/pages/smilingjenny/scripts/ring-credential/smilingjenny-ring-credential.shell-script.shell.sh
 . "$HERE/../smilingjenny-ring-credential/smilingjenny-ring-credential.shell-script.shell.sh"
 
-# shellcheck source=akasha/code-system/ios-app/ios-apps/smilingjenny/shell-scripts/smilingjenny-app-entitlements/smilingjenny-app-entitlements.shell-script.shell.sh
+# shellcheck source=akasha/code-system/ios-apps/pages/smilingjenny/scripts/app-entitlements/smilingjenny-app-entitlements.shell-script.shell.sh
 . "$HERE/../smilingjenny-app-entitlements/smilingjenny-app-entitlements.shell-script.shell.sh"
 
 native_shell_stamp_app "$APPDELEGATE"

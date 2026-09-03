@@ -43,12 +43,12 @@ else
   # This script stands in akasha now, so the checkout is found from it rather
   # than guessed at $HOME/repos/akasha, which was right on one machine.
   AKASHA_ROOT="${AKASHA_ROOT:-$(cd "$HERE/../../../../.." && pwd)}"
-  COMPONENTS_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-component/ios-components" 2>/dev/null && pwd)" || {
-    echo "ERROR: no ios components at $AKASHA_ROOT/akasha/code-system/ios-component/ios-components — every tile's Swift is authored there, so nothing can be rendered without it. Set AKASHA_ROOT if that checkout is elsewhere." >&2
+  COMPONENTS_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-components/pages" 2>/dev/null && pwd)" || {
+    echo "ERROR: no ios components at $AKASHA_ROOT/akasha/code-system/ios-components/pages — every tile's Swift is authored there, so nothing can be rendered without it. Set AKASHA_ROOT if that checkout is elsewhere." >&2
     exit 2
   }
-  HARNESS_SRC_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-harness/ios-harnesses" 2>/dev/null && pwd)" || {
-    echo "ERROR: no ios harnesses at $AKASHA_ROOT/akasha/code-system/ios-harness/ios-harnesses — the cases and the rendering are authored there." >&2
+  HARNESS_SRC_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-harnesses/pages" 2>/dev/null && pwd)" || {
+    echo "ERROR: no ios harnesses at $AKASHA_ROOT/akasha/code-system/ios-harnesses/pages — the cases and the rendering are authored there." >&2
     exit 2
   }
   # Which components this app compiles is stated on its akasha ios-app page. The
@@ -61,7 +61,7 @@ else
   # Where the run begins stands beside the render-harness page, because Swift
   # allows top level statements only in a file named exactly main.swift and the
   # naming grammar cannot build that name.
-  MAIN_SWIFT="$AKASHA_ROOT/akasha/code-system/ios-harness/ios-harnesses/render-harness/main.swift"
+  MAIN_SWIFT="$AKASHA_ROOT/akasha/code-system/ios-harnesses/pages/render-harness/main.swift"
   [ -f "$MAIN_SWIFT" ] || {
     echo "ERROR: no main.swift at $MAIN_SWIFT — the harness has no entry point to compile." >&2
     exit 2

@@ -3,13 +3,13 @@ set -euo pipefail
 
 AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
 PROGRAM="alanwalton-decode-harness"
-PROGRAM_DIR="$AKASHA_ROOT/akasha/code-system/ios-program/ios-programs/$PROGRAM"
+PROGRAM_DIR="$AKASHA_ROOT/akasha/code-system/ios-programs/pages/$PROGRAM"
 [ -f "$PROGRAM_DIR/main.swift" ] || {
   echo "ERROR: no main.swift at $PROGRAM_DIR — a program's top level statements stand beside its akasha page, and swiftc has no entry point without it." >&2
   exit 2
 }
-COMPONENTS_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-component/ios-components" 2>/dev/null && pwd)" || {
-  echo "ERROR: no ios components at $AKASHA_ROOT/akasha/code-system/ios-component/ios-components — every tile's Swift is authored there, so nothing can be decoded without it. Set AKASHA_ROOT if that checkout is elsewhere." >&2
+COMPONENTS_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-components/pages" 2>/dev/null && pwd)" || {
+  echo "ERROR: no ios components at $AKASHA_ROOT/akasha/code-system/ios-components/pages — every tile's Swift is authored there, so nothing can be decoded without it. Set AKASHA_ROOT if that checkout is elsewhere." >&2
   exit 2
 }
 # Which components this harness compiles is stated on its akasha ios-program page.

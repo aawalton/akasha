@@ -10,9 +10,9 @@ import {
 import { rsyncToHost, runSshCapture } from "../mobile-ssh/mobile-ssh.module.code.ts"
 
 const SEAM_SHARED_REPO_PATHS: readonly string[] = [
-  "akasha/code-system/ios-app/shell-scripts",
-  "akasha/code-system/ios-component/ios-components",
-  "akasha/code-system/ios-program/ios-programs",
+  "akasha/code-system/ios-apps/scripts",
+  "akasha/code-system/ios-components/pages",
+  "akasha/code-system/ios-programs/pages",
 ]
 
 const DERIVED_DIR_NAMES: readonly string[] = ["node_modules", "ios", "www", "build", ".DS_Store"]

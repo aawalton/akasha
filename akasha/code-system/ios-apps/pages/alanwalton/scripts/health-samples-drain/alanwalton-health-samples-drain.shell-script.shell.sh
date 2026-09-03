@@ -3,13 +3,13 @@
 SEAM_PART_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
 if [[ "$HEALTH_SAMPLES_INTENT_ENABLED" == "1" ]]; then
-# shellcheck source=akasha/code-system/ios-app/ios-apps/alanwalton/shell-scripts/alanwalton-health-anchored-read/alanwalton-health-anchored-read.shell-script.shell.sh
+# shellcheck source=akasha/code-system/ios-apps/pages/alanwalton/scripts/health-anchored-read/alanwalton-health-anchored-read.shell-script.shell.sh
 . "$SEAM_PART_DIR/alanwalton-health-anchored-read/alanwalton-health-anchored-read.shell-script.shell.sh"
-# shellcheck source=akasha/code-system/ios-app/ios-apps/alanwalton/shell-scripts/alanwalton-health-cursorless-backstop/alanwalton-health-cursorless-backstop.shell-script.shell.sh
+# shellcheck source=akasha/code-system/ios-apps/pages/alanwalton/scripts/health-cursorless-backstop/alanwalton-health-cursorless-backstop.shell-script.shell.sh
 . "$SEAM_PART_DIR/alanwalton-health-cursorless-backstop/alanwalton-health-cursorless-backstop.shell-script.shell.sh"
-# shellcheck source=akasha/code-system/ios-app/ios-apps/alanwalton/shell-scripts/alanwalton-health-route-request/alanwalton-health-route-request.shell-script.shell.sh
+# shellcheck source=akasha/code-system/ios-apps/pages/alanwalton/scripts/health-route-request/alanwalton-health-route-request.shell-script.shell.sh
 . "$SEAM_PART_DIR/alanwalton-health-route-request/alanwalton-health-route-request.shell-script.shell.sh"
-# shellcheck source=akasha/code-system/ios-app/ios-apps/alanwalton/shell-scripts/alanwalton-health-remembered-state/alanwalton-health-remembered-state.shell-script.shell.sh
+# shellcheck source=akasha/code-system/ios-apps/pages/alanwalton/scripts/health-remembered-state/alanwalton-health-remembered-state.shell-script.shell.sh
 . "$SEAM_PART_DIR/alanwalton-health-remembered-state/alanwalton-health-remembered-state.shell-script.shell.sh"
 echo "OK: appended StreamHealthSamplesIntent to $APPDELEGATE"
 else
