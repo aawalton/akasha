@@ -12,4 +12,4 @@ path: seat subagents
 
 # Definition
 
-- **Ops seat subagents** — the subagent kinds authored under `pages/subagent-kind/`, as the JSON map `--agents` takes.
+- **Ops seat subagents** — every subagent kind that stands, as the JSON map `--agents` takes.
