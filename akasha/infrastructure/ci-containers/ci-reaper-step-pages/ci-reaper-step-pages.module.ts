@@ -9,7 +9,17 @@ export const ciReaperStepPages = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page type whose pages are not files is unread rather than empty.",
+      statement: "A page type no page is filed under is read as no rows rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value carried as a number or a truth is read as its text rather than as absent.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The step and pipeline pages are read off the checkout index rather than as files.",
     },
   ],
 } as const satisfies Module

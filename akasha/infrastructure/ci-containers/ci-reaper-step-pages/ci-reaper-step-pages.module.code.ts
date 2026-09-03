@@ -1,7 +1,5 @@
+import { valuesOfType } from "@akasha/indexes"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import type { Row } from "@akasha/pages-system/page-derive-shape"
-import { textOf } from "@akasha/pages-system/page-query-values"
-import { answer } from "@tools/lib/page-query"
 
 const STEP = "step"
 
@@ -11,9 +9,9 @@ const SEQ = "seq"
 
 const STATUS = "status"
 
-const CONTAINER_NAME = "container-name"
+const CONTAINER_NAME = "containerName"
 
-const STARTED_AT = "started-at"
+const STARTED_AT = "startedAt"
 
 export const EXIT_CODE = "exit-code"
 
@@ -29,18 +27,31 @@ export interface MatchedStep {
   readonly startedAt: string | null
 }
 
-function rowsOf(
-  roots: Roots,
-  pageType: string,
-  query: Parameters<typeof answer>[1]
-): readonly Row[] {
-  const found = answer(roots, query)
-  if (found === null) {
-    throw new Error(
-      `\`${pageType}\` names no page type whose pages are files, so nothing can be read`
-    )
+type Carried = Readonly<Record<string, unknown>>
+
+function rootOf(roots: Roots): string {
+  const at = roots[roots.target ?? "akasha"]
+  if (at === undefined) {
+    throw new Error("the roots name no akasha checkout, so the page index cannot be read")
   }
-  return found.rows
+  return at
+}
+
+function saidAt(carried: Carried, key: string): string | null {
+  const one = carried[key]
+  if (typeof one === "string") return one === "" ? null : one
+  if (typeof one === "number") return Number.isFinite(one) ? String(one) : null
+  if (typeof one === "boolean") return String(one)
+  return null
+}
+
+function carriedBy(roots: Roots, pageType: string): readonly Carried[] {
+  const out: Carried[] = []
+  for (const one of valuesOfType(rootOf(roots), pageType)) {
+    const value: unknown = one.value
+    if (typeof value === "object" && value !== null) out.push(value as Carried)
+  }
+  return out
 }
 
 export function stepsByContainerName(
@@ -49,18 +60,14 @@ export function stepsByContainerName(
 ): ReadonlyMap<string, MatchedStep> {
   const out = new Map<string, MatchedStep>()
   if (containerNames.length === 0) return out
-  const rows = rowsOf(roots, STEP, {
-    pageType: STEP,
-    where: [{ key: CONTAINER_NAME, in: containerNames }],
-    keys: [SEQ, STATUS, CONTAINER_NAME, STARTED_AT],
-  })
-  for (const row of rows) {
-    const name = textOf(row.values, CONTAINER_NAME)
-    const seq = textOf(row.values, SEQ)
-    const status = textOf(row.values, STATUS)
+  const wanted = new Set(containerNames)
+  for (const carried of carriedBy(roots, STEP)) {
+    const name = saidAt(carried, CONTAINER_NAME)
+    const seq = saidAt(carried, SEQ)
+    const status = saidAt(carried, STATUS)
     if (name === null || seq === null || status === null) continue
-    if (out.has(name)) continue
-    out.set(name, { seq, status, startedAt: textOf(row.values, STARTED_AT) })
+    if (!wanted.has(name) || out.has(name)) continue
+    out.set(name, { seq, status, startedAt: saidAt(carried, STARTED_AT) })
   }
   return out
 }
@@ -71,16 +78,13 @@ export function pipelineStatusBySeq(
 ): ReadonlyMap<string, string> {
   const out = new Map<string, string>()
   if (seqs.length === 0) return out
-  const rows = rowsOf(roots, PIPELINE, {
-    pageType: PIPELINE,
-    where: [{ key: SEQ, in: seqs }],
-    keys: [SEQ, STATUS],
-  })
-  for (const row of rows) {
-    const seq = textOf(row.values, SEQ)
-    const status = textOf(row.values, STATUS)
+  const wanted = new Set(seqs)
+  for (const carried of carriedBy(roots, PIPELINE)) {
+    const seq = saidAt(carried, SEQ)
+    const status = saidAt(carried, STATUS)
     if (seq === null || status === null) continue
-    if (!out.has(seq)) out.set(seq, status)
+    if (!wanted.has(seq) || out.has(seq)) continue
+    out.set(seq, status)
   }
   return out
 }

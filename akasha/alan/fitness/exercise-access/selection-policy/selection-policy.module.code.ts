@@ -1,8 +1,6 @@
+import { valuesOfType } from "@akasha/indexes"
 import { patchPage } from "@akasha/markdown-pages/page-write"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import type { Row } from "@akasha/pages-system/page-derive-shape"
-import { textOf } from "@akasha/pages-system/page-query-values"
-import { answer } from "@tools/lib/page-query"
 import { selectionPolicy as stated } from "../../selection-policies/pages/selection-policy/selection-policy.selection-policy.ts"
 
 const PROFILE = "client-profile"
@@ -25,23 +23,39 @@ export interface SelectionPolicy {
   readonly recencySaturationDays: number
 }
 
-function only(pageType: string): Row {
-  const found = answer(resolveRoots(), { pageType })
-  if (found === null) throw new Error(`\`${pageType}\` names no page type whose pages are files`)
-  const [row, second] = found.rows
-  if (row === undefined)
-    throw new Error(`no \`${pageType}\` page is there, so nothing states what it carries`)
-  if (second !== undefined) {
-    throw new Error(
-      `${found.n} \`${pageType}\` pages are there where one carries them, so none of them holds`
-    )
+type Carried = Readonly<Record<string, unknown>>
+
+function rootOf(): string {
+  const roots = resolveRoots()
+  const at = roots[roots.target ?? "akasha"]
+  if (at === undefined) {
+    throw new Error("the roots name no akasha checkout, so the page index cannot be read")
   }
-  return row
+  return at
 }
 
-function number(row: Row, pageType: string, key: string): number {
-  const held = textOf(row.values, key)
-  const value = held === null ? Number.NaN : Number(held)
+function only(pageType: string): Carried {
+  const found = valuesOfType(rootOf(), pageType)
+  const [one, second] = found
+  if (one === undefined) {
+    throw new Error(`no \`${pageType}\` page is there, so nothing states what it carries`)
+  }
+  if (second !== undefined) {
+    throw new Error(
+      `${String(found.length)} \`${pageType}\` pages are there where one carries them, so none of them holds`
+    )
+  }
+  const value: unknown = one.value
+  if (typeof value !== "object" || value === null) {
+    throw new Error(`the \`${pageType}\` page carries no values, so nothing states what it holds`)
+  }
+  return value as Carried
+}
+
+function number(carried: Carried, pageType: string, key: string): number {
+  const held = carried[key]
+  const value =
+    typeof held === "number" ? held : typeof held === "string" ? Number(held) : Number.NaN
   if (!Number.isFinite(value)) {
     throw new Error(
       `the \`${pageType}\` page states no number for \`${key}\`, so nothing supplies it`
