@@ -9,15 +9,17 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname } from "node:path"
-import { commitAuthor } from "@akasha/command-system/commit-author"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { commitPaths } from "@akasha/git/git-committing"
 import { whileHoldingLanding } from "@akasha/git/git-landing-lock"
 import { gitAskingPaths, gitIgnoring, heldByRepo } from "@akasha/git/git-pathspec"
+import { handOffPush, pushStandingLines } from "@akasha/git/git-push-handoff"
 import { AKASHA } from "@akasha/pages-system/checkout-roots"
-import { GATED } from "../../patches/patch.ts"
-import { handOffPush, pushStandingLines } from "../push/push.ts"
-import { patchAside } from "./body-aside.ts"
+import { commitAuthor } from "../commit-author/commit-author.module.code.ts"
+
+// The environment variable a run sets to say the checks already ran. `patches/patch.ts` declared it
+// and this module was its only reader, so it is declared where it is read.
+export const GATED = "AKASHA_CHECKS_RAN"
 
 const SHEBANG = "#!"
 
@@ -53,7 +55,7 @@ export class LandingRefused extends Error {}
 
 export type Commit = (root: string, named: readonly string[], message: string) => string | null
 
-export type Compose = (standing: string | null) => string | Uint8Array | null
+export type Compose = (before: string | null) => string | Uint8Array | null
 
 export interface Composing {
   readonly relPath: string
@@ -126,13 +128,13 @@ export const commitNamed: Commit = (root, named, message) => {
 }
 
 export function put(absolute: string, body: string | Uint8Array): void {
-  const standing = existsSync(absolute) ? statSync(absolute).mode : null
+  const mode = existsSync(absolute) ? statSync(absolute).mode : null
   mkdirSync(dirname(absolute), { recursive: true })
   const part = `${absolute}.${process.pid}.part`
   try {
     if (typeof body === "string") writeFileSync(part, body, "utf8")
     else writeFileSync(part, body)
-    if (standing !== null) chmodSync(part, standing)
+    if (mode !== null) chmodSync(part, mode)
     else if (typeof body === "string" && carriesShebang(body)) chmodSync(part, EXECUTABLE)
     renameSync(part, absolute)
   } catch (thrown) {
@@ -190,10 +192,10 @@ export function landFiles(one: Landings): Landed {
     let body: string | Uint8Array | null = null
     try {
       body = exclusively(absolute, () => {
-        const standing = existsSync(absolute) ? readFileSync(absolute, "utf8") : null
-        const made = entry.compose(standing)
+        const before = existsSync(absolute) ? readFileSync(absolute, "utf8") : null
+        const made = entry.compose(before)
         if (made === null) return null
-        if (typeof made === "string" && standing === made) return null
+        if (typeof made === "string" && before === made) return null
         put(absolute, made)
         return made
       })
@@ -208,12 +210,12 @@ export function landFiles(one: Landings): Landed {
   const gone: string[] = []
   for (const relPath of removing) {
     const absolute = `${root}/${relPath}`
-    const stood = exclusively(absolute, () => {
+    const was = exclusively(absolute, () => {
       const was = existsSync(absolute)
       rmSync(absolute, { force: true })
       return was
     })
-    if (stood || heldBefore.has(relPath)) gone.push(relPath)
+    if (was || heldBefore.has(relPath)) gone.push(relPath)
   }
   for (const held of carrying) {
     const to = `${root}/${held.to}`
@@ -334,7 +336,7 @@ export function land(
   const missing = removing.filter((relPath) => !landed.gone.includes(relPath))
   if (missing.length > 0) {
     throw new LandingRefused(
-      `could not remove ${missing.join(", ")}: nothing stood there to take away`
+      `could not remove ${missing.join(", ")}: nothing was there to take away`
     )
   }
   const behind = pushStandingLines(root)

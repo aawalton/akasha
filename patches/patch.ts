@@ -5,8 +5,6 @@ import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 export const HERE = realpathSync(akashaRoot())
 
-export const GATED = "AKASHA_CHECKS_RAN"
-
 const SCRATCH = "/var/tmp"
 
 const BUFFER_CEILING = 64 * 1024 * 1024
@@ -44,7 +42,9 @@ export function payloadText(argv: readonly string[], wanted: boolean): string | 
     try {
       return readFileSync(resolve(process.cwd(), named), "utf8")
     } catch (thrown) {
-      fail(`${named} could not be read: ${thrown instanceof Error ? thrown.message : String(thrown)}`)
+      fail(
+        `${named} could not be read: ${thrown instanceof Error ? thrown.message : String(thrown)}`
+      )
     }
   }
   if (named === null && !wanted) return null
@@ -88,4 +88,3 @@ export function patchText(
     rmSync(held, { recursive: true, force: true })
   }
 }
-

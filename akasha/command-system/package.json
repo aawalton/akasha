@@ -20,7 +20,8 @@
     "./scratching/testing": "./scratching/scratching.module.test-fixtures.ts",
     "./value-minting": "./value-minting/value-minting.module.code.ts",
     "./gated-landing": "./gated-landing/gated-landing.module.code.ts",
-    "./commit-author": "./commit-author/commit-author.module.code.ts"
+    "./commit-author": "./commit-author/commit-author.module.code.ts",
+    "./harness-landing": "./harness-landing/harness-landing.module.code.ts"
   },
   "dependencies": {
     "@akasha/agents": "workspace:*",

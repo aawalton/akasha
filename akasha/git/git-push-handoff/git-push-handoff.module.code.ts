@@ -132,8 +132,8 @@ export function handOffPush(root: string): string {
   const runner = onPath("bun")
   if (runner === null) {
     return (
-      `push:   NOT HANDED OFF to ${remote} — no \`bun\` stands on PATH\n` +
-      `        the commit stands here and nothing carries it. Run \`bun ${pusher} --root ${root}\` yourself.`
+      `push:   NOT HANDED OFF to ${remote} — no \`bun\` is on PATH\n` +
+      `        the commit is here and nothing carries it. Run \`bun ${pusher} --root ${root}\` yourself.`
     )
   }
   const session = onPath("setsid")
@@ -146,7 +146,7 @@ export function handOffPush(root: string): string {
   } catch (err) {
     return (
       `push:   NOT HANDED OFF to ${remote} — ${err instanceof Error ? err.message : String(err)}\n` +
-      `        the commit stands here and nothing carries it. Run \`bun ${pusher} --root ${root}\` yourself.`
+      `        the commit is here and nothing carries it. Run \`bun ${pusher} --root ${root}\` yourself.`
     )
   }
   return `push:   handed off to ${remote} — this write is durable at its commit`
@@ -162,7 +162,7 @@ export function pushStandingLines(root: string): readonly string[] {
   return [
     `push:   ${where.toUpperCase()} IS BEHIND ON ${branchOf(root)} — ` +
       `the push that ran at ${state.at} failed: ${state.reason ?? "no reason recorded"}`,
-    `        ${ahead === null ? "commits stand" : `${ahead} commit(s) stand`} here that ${where} does not hold. ` +
+    `        ${ahead === null ? "commits are" : `${ahead} commit(s) are`} here that ${where} does not hold. ` +
       "Every write since is durable locally and none of them is a second copy.",
   ]
 }
