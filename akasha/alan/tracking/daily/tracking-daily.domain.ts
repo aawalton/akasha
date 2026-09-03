@@ -5,7 +5,12 @@ export const trackingDaily = {
   pageTypeSlug: "domain",
   slug: "tracking-daily",
   definition: "what is measured about Alan a day at a time",
-  partSlugs: ["page-type/email-entry", "page-type/eso-day", "page-type/wake-day"],
+  partSlugs: [
+    "page-type/email-entry",
+    "page-type/eso-day",
+    "page-type/wake-day",
+    "module/day-figures",
+  ],
   invariants: [
     {
       invariantKind: "departure",
