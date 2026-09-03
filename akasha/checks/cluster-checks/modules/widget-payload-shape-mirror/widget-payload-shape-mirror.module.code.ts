@@ -142,7 +142,8 @@ export interface ShapeMirrorMember {
   readonly examine: () => readonly PayloadShapeViolation[]
 }
 
-const MIRRORS_FILE = "tools/lib/check-workflow/widget-payload-shape-mirror.ts"
+const MIRRORS_FILE =
+  "akasha/checks/cluster-checks/modules/widget-payload-shape-mirror/widget-payload-shape-mirror.module.code.ts"
 
 export function shapeMirrorMembers(args: {
   readonly swiftSources: ReadonlyMap<string, string>
