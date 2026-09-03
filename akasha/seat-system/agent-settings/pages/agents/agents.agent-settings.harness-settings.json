@@ -26,20 +26,6 @@
       "Agent(isolation:worktree)"
     ]
   },
-  "hooks": {
-    "PreToolUse": [
-      {
-        "matcher": "Bash",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/block-ops-cli.ts",
-            "timeout": 5
-          }
-        ]
-      }
-    ]
-  },
   "statusLine": {
     "type": "command",
     "command": "bash $HOME/repos/akasha/akasha/code-system/shell-scripts/pages/statusline/statusline.shell-script.shell.sh"
