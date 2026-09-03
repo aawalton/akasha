@@ -3,6 +3,10 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./parse-args": "./parse-args/parse-args.module.code.ts",
+    "./answer-bytes": "./answer-bytes/answer-bytes.module.code.ts",
+    "./format-output": "./format-output/format-output.module.code.ts",
+    "./payload": "./payload/payload.module.code.ts",
     "./asking": "./asking/asking.module.code.ts",
     "./checked-landing": "./checked-landing/checked-landing.module.code.ts",
     "./calling": "./calling/calling.module.code.ts",

@@ -7,6 +7,12 @@ export const commandSystem = {
   definition: "what an agent runs by name",
   manifest: "json",
   partSlugs: [
+    "module/ops-invocation",
+    "module/command-entry",
+    "module/parse-args",
+    "module/answer-bytes",
+    "module/format-output",
+    "module/payload",
     "page-type/command",
     "page-type/ops-command",
     "list/ops-namespaces-to-review",
