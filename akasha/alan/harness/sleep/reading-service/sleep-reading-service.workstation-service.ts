@@ -5,7 +5,7 @@ export const sleepReadingService = {
   pageTypeSlug: "workstation-service",
   slug: "sleep-reading-service",
   definition: "the service taking Alan's sleep hours onto its readout",
-  runs: ["bun readouts/sleep-reading.ts"],
+  runs: ["bun akasha/alan/harness/sleep/reading/sleep-reading.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*:0/5",
