@@ -6,13 +6,13 @@ import {
   redirectConsoleToSink,
 } from "@akasha/seat-system/supervisor-console"
 import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
-import { logWriter } from "../log-append.ts"
-import { seatNameForAgent } from "../seat-presence-read.ts"
+import { seatNameForAgent } from "../../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import {
   clearProxyState,
   type OAuthProxyStateToWrite,
   writeProxyStateQuietly,
-} from "../seat-proxy-state.ts"
+} from "../../../akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
+import { logWriter } from "../log-append.ts"
 import { startOAuthProxy } from "./gateway.ts"
 import { parseBootEnv } from "./parse-boot-env.ts"
 
