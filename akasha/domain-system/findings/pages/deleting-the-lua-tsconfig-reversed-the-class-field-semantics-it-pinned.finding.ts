@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const deletingTheLuaTsconfigReversedTheClassFieldSemanticsItPinned = {
+  id: "01a06806-7243-7ac0-8ce1-747d89e12c2d",
+  pageTypeSlug: "finding",
+  slug: "deleting-the-lua-tsconfig-reversed-the-class-field-semantics-it-pinned",
+  domainSlug: "workspace-package/lua-compiler",
+  claim:
+    "The old `lua-compiler/tsconfig.json` pinned `target: ES2019` with `useDefineForClassFields: false`. Deleting that tree at `554c6ad331` took the pin with it, and the gate's own typecheck compiles the landed package at `target: ESNext`, where the option defaults to true. So the landed files are not unenforced: they are enforced to define semantics where the old tree pinned set semantics.",
+  evidence:
+    "Read off `554c6ad331^`, the last commit holding the old tree. `lua-compiler/tsconfig.json` set `target: ES2019` and `useDefineForClassFields: false`. The `tsconfig.base.json` it extended set `target: ESNext` and no such option, so a reader who checks the base file alone finds the opposite of the pin.\n\nWHAT ENFORCES THE REVERSE. `akasha/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts` builds its program through `programOver`, whose options are `SETTINGS` at `akasha/code-system/code-typing/code-typing.module.code.ts:16-27`: `target: ts.ScriptTarget.ESNext`, no `useDefineForClassFields`, which defaults to true at ESNext.\n\nONE SITE CAN FEEL IT. `akasha/language-design/lua-compiler/lualib/src/Error.ts:38` reads `class extends Error { public name = name }`, a derived-class field shadowing `Error.prototype.name`.\n\nWHAT IS NOT MEASURED. `name` is a plain data property on `Error.prototype`, so define and set both land an own data property. These files compile to Lua by tstl rather than to JS by tsc, and which option tstl's codegen consults was not measured. My read is that the change is latent rather than live. That is a judgement, not a measurement.\n\nTHE COUNT NEARLY WENT IN FALSE. `class \\w+ extends` returned 0 across 421 files and reads like a clean absence of inheritance. It is blind to anonymous class expressions, which is the only form present. Seeding a known `class Foo extends Bar` against the pattern caught it. A zero from a blind pattern reads identically to a zero from a sound one, and the coordinating seat reports this as the third instrument fault of this shape tonight.\n\nWHY FILE RATHER THAN LEAVE IT. The old tree is deleted, so both settings survive only in git history.",
+} as const satisfies Finding
