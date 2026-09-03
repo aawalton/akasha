@@ -36,10 +36,5 @@ export const runCost = {
       invariantKind: "departure",
       statement: "A band names a cost so a budget can be said without a number.",
     },
-    {
-      invariantKind: "gap",
-      statement:
-        "The ceilings stand in `tools/lib/run-cost.ts`, which has yet to move into akasha.",
-    },
   ],
 } as const satisfies Domain
