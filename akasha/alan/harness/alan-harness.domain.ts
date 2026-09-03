@@ -16,6 +16,8 @@ export const alanHarness = {
     "domain/activity",
     "domain/sleep",
     "domain/inbox",
+    "domain/alan-harness-stoplights",
+    "domain/alan-readouts",
     "workspace-package/readout-system",
     "workspace-package/voice-core",
     "workspace-package/idle-system",
