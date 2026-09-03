@@ -10,8 +10,7 @@ import {
 } from "../reading-shapes/reading-shapes.module.code.ts"
 
 export const CHAPTER_TYPE_BY_STORY_TYPE: Readonly<Record<string, string>> = {
-  "story-read-royal-road": "story-chapter-royal-road",
-  "story-read-wandering-inn": "story-chapter-wandering-inn",
+  "story-read": "story-chapter-read",
   "story-played": "story-chapter-played",
   "story-written": "story-chapter-written",
 }
@@ -19,7 +18,7 @@ export const CHAPTER_TYPE_BY_STORY_TYPE: Readonly<Record<string, string>> = {
 const STORY_TYPES = Object.keys(CHAPTER_TYPE_BY_STORY_TYPE)
 
 const STORY_KEYS = ["id", "title", "slug", "ownProgress", "totalLength"]
-const CHAPTER_KEYS = ["id", "title", "slug", "position", "ownLength", "ownProgress", "markedReadAt"]
+const CHAPTER_KEYS = ["id", "title", "slug", "position", "ownLength", "ownProgress", "completedAt"]
 
 const ASK_LIMIT = 20_000
 
@@ -50,7 +49,7 @@ function chapterRecordOf(
     chapterNumber: numberOr(values.position),
     length: numberOr(values.ownLength),
     progress: numberOr(values.ownProgress),
-    completedAt: values.markedReadAt ?? undefined,
+    completedAt: values.completedAt ?? undefined,
   }
 }
 
@@ -176,7 +175,7 @@ export async function loadStoryCatalog(storyId: string): Promise<LitrpgCatalog> 
   const slug = String(found.values.slug ?? "")
   const chapterRows = await askRows({
     "page-type": chapterType,
-    where: { partOf: { is: slug } },
+    where: { partOfSlugs: { is: slug } },
     keys: CHAPTER_KEYS,
     "sort-by": "position",
     limit: ASK_LIMIT,
@@ -206,11 +205,13 @@ export async function loadLitrpgCatalog(): Promise<LitrpgCatalog> {
     }
     const chapterRows = await askRows({
       "page-type": chapterType,
-      keys: [...CHAPTER_KEYS, "partOf"],
+      keys: [...CHAPTER_KEYS, "partOfSlugs"],
       limit: ASK_LIMIT,
     })
     for (const values of chapterRows) {
-      const storyId = idBySlug.get(String(values.partOf ?? "")) ?? ""
+      const said = values.partOfSlugs
+      const partOf = Array.isArray(said) ? String(said[0] ?? "") : String(said ?? "")
+      const storyId = idBySlug.get(partOf) ?? ""
       chapters.push(rowToLitrpgChapter(chapterRecordOf(values, storyId, chapterType)))
     }
   }
