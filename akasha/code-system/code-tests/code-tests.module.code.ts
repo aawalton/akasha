@@ -4,6 +4,7 @@ import {
   mkdirSync,
   mkdtempSync,
   readdirSync,
+  readFileSync,
   realpathSync,
   rmSync,
   statSync,
@@ -53,6 +54,10 @@ const JUDGED = "akasha"
 
 const MANIFEST = "package.json"
 
+const CONFIG = "bunfig.toml"
+
+const PRELOADING = "--preload"
+
 export const RUNNING = "AKASHA_TESTS_RUNNING"
 
 export const CARRIED: readonly string[] = [
@@ -84,6 +89,11 @@ export type World = {
   readonly sweep: () => undefined
 }
 
+export type Grouping = {
+  readonly preloads: readonly string[]
+  readonly named: string[]
+}
+
 export function alreadyRunning(): boolean {
   return process.env[RUNNING] === MARK
 }
@@ -92,15 +102,20 @@ export function testNamed(path: string): boolean {
   return SUFFIXES.some((one) => path.endsWith(one))
 }
 
-export function testsUnder(absolute: string): number {
-  if (!existsSync(absolute)) return 0
-  if (statSync(absolute).isFile()) return testNamed(absolute) ? 1 : 0
-  let held = 0
+export function testsIn(absolute: string): readonly string[] {
+  if (!existsSync(absolute)) return []
+  if (statSync(absolute).isFile()) return testNamed(absolute) ? [absolute] : []
+  const held: string[] = []
   for (const one of readdirSync(absolute, { withFileTypes: true })) {
-    if (one.isDirectory()) held += testsUnder(join(absolute, one.name))
-    else if (one.isFile() && testNamed(one.name)) held += 1
+    const at = join(absolute, one.name)
+    if (one.isDirectory()) held.push(...testsIn(at))
+    else if (one.isFile() && testNamed(one.name)) held.push(at)
   }
   return held
+}
+
+export function testsUnder(absolute: string): number {
+  return testsIn(absolute).length
 }
 
 export function testsBesideOf(path: string): readonly string[] {
@@ -256,16 +271,77 @@ export function worldOf(
   }
 }
 
+type Configured = { readonly test?: { readonly preload?: unknown } }
+
+function everyIn(held: unknown): readonly unknown[] {
+  if (typeof held === "string") return [held]
+  return Array.isArray(held) ? held : []
+}
+
+export function preloadsIn(at: string): readonly string[] {
+  const read = Bun.TOML.parse(readFileSync(at, "utf8")) as Configured
+  const found: string[] = []
+  for (const one of everyIn(read.test?.preload)) {
+    if (typeof one !== "string") continue
+    found.push(one.startsWith(".") ? join(dirname(at), one) : one)
+  }
+  return found
+}
+
+function configAbove(root: string, from: string): string | null {
+  let held = from
+  while (held.startsWith(root)) {
+    const found = join(held, CONFIG)
+    if (existsSync(found)) return found
+    held = dirname(held)
+  }
+  return null
+}
+
+function preloadingFor(root: string, at: string): readonly string[] {
+  const found = configAbove(root, dirname(at))
+  if (found === null || found === join(root, CONFIG)) return []
+  return preloadsIn(found)
+}
+
+export function groupedBy(root: string, named: readonly string[]): readonly Grouping[] {
+  const held = new Map<string, Grouping>()
+  const seen = new Set<string>()
+  for (const one of named) {
+    for (const at of testsIn(join(root, one))) {
+      if (seen.has(at)) continue
+      seen.add(at)
+      const preloads = preloadingFor(root, at)
+      const key = JSON.stringify(preloads)
+      const group = held.get(key)
+      if (group === undefined) held.set(key, { preloads, named: [relative(root, at)] })
+      else group.named.push(relative(root, at))
+    }
+  }
+  const groups = [...held.values()]
+  for (const group of groups) group.named.sort()
+  groups.sort((one, two) => ((one.named[0] ?? "") < (two.named[0] ?? "") ? -1 : 1))
+  return groups
+}
+
 export function ranOver(root: string, named: readonly string[], expected: number): Ran {
-  const done = ran([RUNNER, RUNS, ...named], {
-    cwd: root,
-    env: { ...process.env, [RUNNING]: MARK },
-  })
-  const output = `${done.out}${done.err}`
+  const grouped = groupedBy(root, named)
+  const runs = grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
+  let code = 0
+  let output = ""
+  for (const group of runs) {
+    const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
+    const done = ran([RUNNER, RUNS, ...preloading, ...group.named], {
+      cwd: root,
+      env: { ...process.env, [RUNNING]: MARK },
+    })
+    output += `${done.out}${done.err}`
+    if (code === 0) code = done.code
+  }
   return {
-    code: done.code,
+    code,
     output,
     summary: summaryIn(output),
-    verdict: verdictOf(done.code, output, expected),
+    verdict: verdictOf(code, output, expected),
   }
 }

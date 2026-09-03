@@ -35,6 +35,46 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "Each test file is grouped by the nearest bunfig.toml above that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What that file preloads is handed to the run of that group alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A preload named by a path is read against the folder holding its bunfig.toml.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The bunfig.toml at the root is left out of what is handed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The runner reads that one from the folder the runner runs in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group is one run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What every run printed is read as one answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run answers the first non-zero code a group exited.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group is answered in the order of the first path the group holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path named twice over is run once.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run marks the child the run spawns.",
     },
     {

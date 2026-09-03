@@ -15,7 +15,9 @@ import { linesFiled } from "@akasha/indexes/testing"
 import {
   alreadyRunning,
   CARRIED,
+  groupedBy,
   plain,
+  preloadsIn,
   RUNNING,
   ranOver,
   summaryIn,
@@ -32,6 +34,12 @@ const FAILS = 'import { expect, test } from "bun:test"\ntest("one", () => { expe
 const MARKED =
   'import { expect, test } from "bun:test"\n' +
   `test("one", () => { expect(process.env["${RUNNING}"]).toBe("1") })\n`
+
+const SETS = "globalThis.held = true\n"
+
+const NEEDS =
+  'import { expect, test } from "bun:test"\n' +
+  'test("one", () => { expect(globalThis.held).toBe(true) })\n'
 
 const UNDER = "/var/tmp/"
 
@@ -369,4 +377,36 @@ check("a run over a world answers the bodies handed in, not the ones on disk", (
   } finally {
     world.sweep()
   }
+})
+
+check("a test is run with what the nearest bunfig.toml above it preloads", () => {
+  const root = repo({ "web/one.test.ts": NEEDS, "web/sets.ts": SETS, "plain.test.ts": PASSES })
+  writeFileSync(join(root, "akasha/web/bunfig.toml"), '[test]\npreload = ["./sets.ts"]\n')
+  expect(groupedBy(root, ["akasha"])).toEqual([
+    { preloads: [], named: ["akasha/plain.test.ts"] },
+    { preloads: [join(root, "akasha/web/sets.ts")], named: ["akasha/web/one.test.ts"] },
+  ])
+  expect(ranOver(root, ["akasha"], 2).verdict).toBe("pass")
+})
+
+check("the bunfig.toml at the root is left to the runner rather than handed over", () => {
+  const root = repo({ "one.test.ts": NEEDS, "sets.ts": SETS })
+  writeFileSync(join(root, "bunfig.toml"), '[test]\npreload = ["./akasha/sets.ts"]\n')
+  expect(groupedBy(root, ["akasha"])).toEqual([{ preloads: [], named: ["akasha/one.test.ts"] }])
+  expect(ranOver(root, ["akasha"], 1).verdict).toBe("pass")
+})
+
+check("a path named twice over is run once", () => {
+  const root = repo({ "one.test.ts": PASSES })
+  expect(groupedBy(root, ["akasha", "akasha/one.test.ts"])).toEqual([
+    { preloads: [], named: ["akasha/one.test.ts"] },
+  ])
+})
+
+check("what a bunfig.toml preloads is read out of it, a path against its own folder", () => {
+  const at = join(repo({}), "akasha/bunfig.toml")
+  writeFileSync(at, '[test]\npreload = ["./held.ts", "@named/held"]\n')
+  expect(preloadsIn(at)).toEqual([join(dirname(at), "held.ts"), "@named/held"])
+  writeFileSync(at, '[install]\nlinker = "hoisted"\n')
+  expect(preloadsIn(at)).toEqual([])
 })
