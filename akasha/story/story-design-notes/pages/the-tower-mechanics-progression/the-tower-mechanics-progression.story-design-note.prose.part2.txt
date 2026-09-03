@@ -94,7 +94,7 @@ pool holds `cost(p)` events; advancing consumes them.
 > | 51+ | 4 (bounded — never higher) |
 >
 > **Totals to fill a tier** (and reachability): Affinity (10) = **10 events** (~4–7 enc); **Manipulation (50)
-> = 125 events (~42 enc @3/enc, ~63 @2/enc)** — tens, not hundreds √; Spirit (250) = 925; Soul (1000) = 3925
+> = 125 events (~42 enc @3/enc, ~63 @2/enc)** — tens, not hundreds ✔; Spirit (250) = 925; Soul (1000) = 3925
 > (tiers 3–4 are intentionally long/aspirational). Near a tier's top, a 4-events/point cost at the ≤3/enc cap
 > makes the counter crawl ~1 point per ~1.3 encounters — the "visibly slows" feel.
 

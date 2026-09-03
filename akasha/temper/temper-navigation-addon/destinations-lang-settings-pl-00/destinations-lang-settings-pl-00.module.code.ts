@@ -61,10 +61,10 @@ export const SETTINGS_STRINGS_00: Record<string, string> = {
   DEST_SETTINGS_ACH_CUTPURSE_HEADER: "Nadkieszonkowiec",
   DEST_SETTINGS_ACH_EARTHLYPOS_HEADER: "Ziemskie dobytki",
   DEST_SETTINGS_ACH_GLOBAL_HEADER: "Pozycja osiągnięcia - Globalne ustawienia",
-  DEST_SETTINGS_ACH_GLOBAL_HEADER_TT: "�Podmenu obejmuje ustawienia ��osiągnięć globalnych�",
+  DEST_SETTINGS_ACH_GLOBAL_HEADER_TT: "‎Podmenu obejmuje ustawienia ‎‎osiągnięć globalnych‎",
   DEST_SETTINGS_ACH_HEADER: "Pozycja osiągnięć",
   DEST_SETTINGS_ACH_HEADER_TT:
-    "�Podmenu to obejmuje większość osiągnięć w grze (zbyt wiele, aby je wymieniać)�",
+    "‎Podmenu to obejmuje większość osiągnięć w grze (zbyt wiele, aby je wymieniać)‎",
   DEST_SETTINGS_ACH_MAIQ_HEADER: "Lubię M'aiqa",
   DEST_SETTINGS_ACH_NOSEDIVER_HEADER: "Węszący nurek",
   DEST_SETTINGS_ACH_ON_ME_HEADER: "Ja stawiam",
@@ -123,7 +123,7 @@ export const SETTINGS_STRINGS_00: Record<string, string> = {
     "Pokazuje nazwy przedmiotów potrzebnych do ukończenia osiągnięcia",
   DEST_SETTINGS_COLLECTIBLES_SHOW_MOBNAME: "Pokaż nazwy mobów dla punktów",
   DEST_SETTINGS_COLLECTIBLES_SHOW_MOBNAME_TT:
-    "�Pokazuje nazwy potworów (w języku angielskim w tej chwili), które mogą upuścić przedmioty potrzebne do ukończenia ��osiągnięcia�",
+    "‎Pokazuje nazwy potworów (w języku angielskim w tej chwili), które mogą upuścić przedmioty potrzebne do ukończenia ‎‎osiągnięcia‎",
   DEST_SETTINGS_COLLECTIBLES_SUBHEADER: "Ustawienia przedmiotów kolekcjonerskich",
   DEST_SETTINGS_COLLECTIBLES_TOGGLE: "Pokaż nieukończone przedmioty kolekcjonerskie",
   DEST_SETTINGS_COLLECTIBLES_TOGGLE_TT:

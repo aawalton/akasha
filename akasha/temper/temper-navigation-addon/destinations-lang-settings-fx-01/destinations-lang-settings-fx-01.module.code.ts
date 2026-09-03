@@ -49,7 +49,7 @@ export const SETTINGS_STRINGS_01: Record<string, string> = {
   DEST_SETTINGS_MISC_BORDER_PIN_COLOR_TT: "Wpływa na kolor punktów granicy Craglorn",
   DEST_SETTINGS_MISC_BORDER_PIN_TOGGLE: "Pokaż linię granicy Craglorn",
   DEST_SETTINGS_MISC_BORDER_PIN_TOGGLE_TT:
-    "�Pokazuje linię graniczną dzielącą górną i ��dolną część ��Craglorn",
+    "‎Pokazuje linię graniczną dzielącą górną i ‎‎dolną część ‎‎Craglorn",
   DEST_SETTINGS_MISC_BORDER_SIZE: "Wielkość punktu granicy Craglorn",
   DEST_SETTINGS_MISC_COMPASS_DIST: "Odległość dla punktów na kompasie",
   DEST_SETTINGS_MISC_COMPASS_HEADER: "Różne ustawienia",

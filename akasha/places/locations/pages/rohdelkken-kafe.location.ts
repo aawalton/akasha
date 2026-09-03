@@ -4,7 +4,7 @@ export const rohdelkkenKafe = {
   id: "019f1aec-0ee4-7d73-9c16-977b7d844e2c",
   pageTypeSlug: "location",
   slug: "rohdelkken-kafe",
-  title: "Rohdeløkken �Kafé",
+  title: "Rohdeløkken ﻿Kafé",
   latitude: 59.9140171,
   longitude: 10.6906006,
   notes: "Recommended by City Pass",
