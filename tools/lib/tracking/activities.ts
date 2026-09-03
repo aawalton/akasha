@@ -1,5 +1,5 @@
+import { pageStem } from "@akasha/named-for/page-stem"
 import type { Page } from "../daily-tracking/tracking-types.ts"
-import { pageStem } from "../exercise-page-stem.ts"
 import { operationalError } from "../exit.ts"
 import { pageLanding } from "../page-query-client.ts"
 import { displayTitle, fieldNum, fieldStr } from "./format.ts"
@@ -13,9 +13,7 @@ const SESSION_ACTIVITY = "session-activity"
 
 const ACTIVITY_DIFFICULTY_KEY = "default-difficulty"
 
-export function normalizeSessionActivities(
-  rows: readonly Page[]
-): readonly ActivityDifficulty[] {
+export function normalizeSessionActivities(rows: readonly Page[]): readonly ActivityDifficulty[] {
   return rows.map((row) => ({
     title: displayTitle(row),
     defaultDifficulty: fieldNum(row, "defaultDifficulty"),
@@ -57,9 +55,7 @@ export async function setActivityDefault(
   difficulty: number
 ): Promise<ActivityLanded> {
   const name = pageStem(title)
-  const standing = (await listActivityPages(sb)).find(
-    (row) => pageStem(displayTitle(row)) === name
-  )
+  const standing = (await listActivityPages(sb)).find((row) => pageStem(displayTitle(row)) === name)
   const held = standing === undefined ? undefined : fieldStr(standing, "id")
   const id = held ?? Bun.randomUUIDv7()
   const landed = await pageLanding(

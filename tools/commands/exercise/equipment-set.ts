@@ -1,18 +1,17 @@
-
 export const summary = "Upsert an equipment item by title (implements + load increments)"
 
 import { existsSync } from "node:fs"
-import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { patchPage, writePage } from "../../lib/page-write.ts"
-import { whereFor } from "../../lib/page-write-where.ts"
+import { pageStem } from "@akasha/named-for/page-stem"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { pageStem } from "../../lib/exercise-page-stem.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
+import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
 import {
   EQUIPMENT_CATEGORY_OPTIONS,
   EQUIPMENT_CONFIG_OPTIONS,
 } from "../../lib/exercise-vocabularies.ts"
+import { patchPage, writePage } from "../../lib/page-write.ts"
+import { whereFor } from "../../lib/page-write-where.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -115,7 +114,5 @@ export default async function exerciseEquipmentSet(args: readonly string[]): Pro
     )
     return
   }
-  process.stdout.write(
-    `path\t${written.relPath}\ntitle\t${title}\ncategory\t${category ?? "-"}\n`
-  )
+  process.stdout.write(`path\t${written.relPath}\ntitle\t${title}\ncategory\t${category ?? "-"}\n`)
 }
