@@ -12,7 +12,7 @@ disk. The run directory it wrote goes to stdout, one line; the summary goes to s
 is pasted rather than translated:
 
   { "PreToolUse": [ { "matcher": "Bash",
-      "hooks": [ { "type": "command", "command": "\$HOME/.bun/bin/bun \$HOME/repos/akasha/tools/hooks/block-whole-suite-run.ts" } ] } ] }
+      "hooks": [ { "type": "command", "command": "\$HOME/.bun/bin/bun \$HOME/repos/akasha/akasha/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts" } ] } ] }
 
 EACH DECLARED COMMAND IS WRAPPED, in a shim that hands it stdin and replays its stdout,
 stderr and exit code unchanged. The client's own \`--include-hook-events\` reports every
