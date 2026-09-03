@@ -2,13 +2,6 @@ import type { Answer } from "@akasha/command-system/calling"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { listStepRunsByName } from "@tools/lib/pipeline-pages/read"
 import {
-  renderStepCostTsv,
-  type StepRun,
-  summarizeRuns,
-  toSeconds,
-} from "@tools/lib/pipeline-report/step-cost-format"
-import { computeDurationMs } from "@tools/lib/pipeline-report/steps-format"
-import {
   aloneIn,
   answering,
   asJson,
@@ -19,6 +12,13 @@ import {
   told,
   wordsIn,
 } from "../pipeline-answering/pipeline-answering.module.code.ts"
+import {
+  renderStepCostTsv,
+  type StepRun,
+  summarizeRuns,
+  toSeconds,
+} from "../step-cost-summary/step-cost-summary.module.code.ts"
+import { computeDurationMs } from "../step-row-format/step-row-format.module.code.ts"
 
 const LIMIT = "--limit"
 

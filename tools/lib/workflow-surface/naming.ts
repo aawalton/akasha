@@ -141,7 +141,7 @@ export const stepNameViolations = (
   if (step.name.length > stepNameCap) {
     fault(
       `the step name "${step.name}" runs to ${step.name.length} characters and the cap is ` +
-        `${stepNameCap} — shorten it. Past the cap \`buildPodName\` cuts the name and appends a ` +
+        `${stepNameCap} — shorten it. Past the cap \`buildContainerName\` cuts the name and appends a ` +
         "digest, so the pod stops naming the step it runs and nothing reading pod names can " +
         "find it again."
     )

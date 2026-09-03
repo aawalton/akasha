@@ -6,8 +6,6 @@ import {
   optionalNumber,
   optionalString,
 } from "@tools/lib/pipeline-pages/read"
-import { toSeconds } from "@tools/lib/pipeline-report/step-cost-format"
-import { computeSoloMs, type StepSpan } from "@tools/lib/pipeline-report/step-solo"
 import {
   aloneIn,
   answering,
@@ -21,6 +19,8 @@ import {
   told,
   wordsIn,
 } from "../pipeline-answering/pipeline-answering.module.code.ts"
+import { toSeconds } from "../step-cost-summary/step-cost-summary.module.code.ts"
+import { computeSoloMs, type StepSpan } from "../step-solo-time/step-solo-time.module.code.ts"
 
 const SWITCHES = [JSON_SAID]
 

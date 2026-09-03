@@ -6,7 +6,6 @@ import {
   optionalNumber,
   optionalString,
 } from "@tools/lib/pipeline-pages/read"
-import { computeDurationMs, formatStepRow } from "@tools/lib/pipeline-report/steps-format"
 import {
   aloneIn,
   answering,
@@ -18,6 +17,7 @@ import {
   told,
   wordsIn,
 } from "../pipeline-answering/pipeline-answering.module.code.ts"
+import { computeDurationMs, formatStepRow } from "../step-row-format/step-row-format.module.code.ts"
 
 const WORKFLOW = "--workflow"
 
