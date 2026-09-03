@@ -4,6 +4,7 @@ import { patchAt } from "@akasha/agents/patch-keeping"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code-system/code-format"
 import { agentPathOf } from "@akasha/context-system/warranting"
+import { nameFaultIn } from "@akasha/pages-system/page-export-name"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
 import { INSIDE } from "../change-freshness/change-freshness.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
@@ -142,6 +143,34 @@ export function textOf(bytes: Uint8Array): string | null {
 export function textAt(at: string): string | null {
   const held = bytesAt(at)
   return "bytes" in held ? textOf(held.bytes) : null
+}
+
+const SLUG_AT = /^ {2}slug: "([^"]*)",$/m
+
+const PAGE_TYPE_AT = /^ {2}pageTypeSlug: "([^"]*)",$/m
+
+const PAGE_FILE = ".ts"
+
+export function slugComposedIn(path: string, body: Uint8Array): string | null {
+  const text = textOf(body)
+  if (text === null) return null
+  const found = SLUG_AT.exec(text)
+  if (found === null || !PAGE_TYPE_AT.test(text)) return null
+  const slug = found[1] as string
+  const named = path.slice(path.lastIndexOf("/") + 1)
+  return named.startsWith(`${slug}.`) ? slug : null
+}
+
+export function unexportableIn(changes: readonly FileEdit[]): readonly string[] {
+  const said: string[] = []
+  for (const one of changes) {
+    if (one.body === null || !one.path.endsWith(PAGE_FILE)) continue
+    const slug = slugComposedIn(one.path, one.body)
+    if (slug === null) continue
+    const fault = nameFaultIn(slug)
+    if (fault !== null) said.push(`${one.path} — ${fault}`)
+  }
+  return said
 }
 
 function sameBytes(one: Uint8Array, two: Uint8Array): boolean {
@@ -403,6 +432,8 @@ export function landingAsked(given: Given, asked: Asked): Answer {
     return { report: [], refusals: [`${NOTHING} — ${whyOf(thrown)}`], code: 3 }
   }
   const formatting = formattingIn(given.root, minted.changes)
+  const unexportable = unexportableIn(formatting.changes)
+  if (unexportable.length > 0) return mistaking([...unexportable, NOTHING])
   const locking = lockingFor(given.root, baseOf(given.root), formatting.changes)
   const aside = [
     ...filledSaid(minted.filled),
