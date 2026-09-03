@@ -5,7 +5,7 @@ export const thePrimalHunter0230Chapter1356AJustifiablyAngryHorde = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0230-chapter-1356-a-justifiably-angry-horde",
   title: "Chapter 1356 - A Justifiably Angry Horde",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 230,
   ownLength: 2736,
   unitSlug: "words",

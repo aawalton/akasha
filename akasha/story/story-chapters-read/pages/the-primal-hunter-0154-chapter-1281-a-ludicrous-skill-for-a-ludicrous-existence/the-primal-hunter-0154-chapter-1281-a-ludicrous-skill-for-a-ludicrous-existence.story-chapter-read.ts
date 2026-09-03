@@ -5,7 +5,7 @@ export const thePrimalHunter0154Chapter1281ALudicrousSkillForALudicrousExistence
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0154-chapter-1281-a-ludicrous-skill-for-a-ludicrous-existence",
   title: "Chapter 1281 - A Ludicrous Skill For A Ludicrous Existence",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 154,
   ownLength: 2912,
   unitSlug: "words",

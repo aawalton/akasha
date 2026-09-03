@@ -5,7 +5,7 @@ export const thePrimalHunter0169Chapter1372Blasphemers = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0169-chapter-1372-blasphemers",
   title: "Chapter 1372 - Blasphemers!",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 169,
   ownLength: 2766,
   unitSlug: "words",

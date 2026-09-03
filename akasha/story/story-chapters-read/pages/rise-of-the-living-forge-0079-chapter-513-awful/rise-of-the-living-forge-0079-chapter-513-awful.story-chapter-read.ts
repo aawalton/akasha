@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0079Chapter513Awful = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0079-chapter-513-awful",
   title: "Chapter 513: Awful",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 79,
   ownLength: 1615,
   unitSlug: "words",

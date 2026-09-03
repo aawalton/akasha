@@ -5,7 +5,7 @@ export const thePrimalHunter0209Chapter1335TheNecessityOfStrategy = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0209-chapter-1335-the-necessity-of-strategy",
   title: "Chapter 1335 - The Necessity of Strategy",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 209,
   ownLength: 2836,
   unitSlug: "words",

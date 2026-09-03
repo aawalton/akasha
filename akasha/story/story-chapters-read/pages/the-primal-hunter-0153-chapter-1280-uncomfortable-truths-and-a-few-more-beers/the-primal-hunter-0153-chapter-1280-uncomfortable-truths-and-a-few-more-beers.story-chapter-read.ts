@@ -5,7 +5,7 @@ export const thePrimalHunter0153Chapter1280UncomfortableTruthsAndAFewMoreBeers =
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0153-chapter-1280-uncomfortable-truths-and-a-few-more-beers",
   title: "Chapter 1280 - Uncomfortable Truths & A Few More Beers",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 153,
   ownLength: 2821,
   unitSlug: "words",

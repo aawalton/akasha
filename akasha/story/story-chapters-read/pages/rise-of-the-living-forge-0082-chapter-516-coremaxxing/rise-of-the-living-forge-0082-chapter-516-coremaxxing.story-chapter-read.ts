@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0082Chapter516Coremaxxing = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0082-chapter-516-coremaxxing",
   title: "Chapter 516: Coremaxxing",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 82,
   ownLength: 1621,
   unitSlug: "words",

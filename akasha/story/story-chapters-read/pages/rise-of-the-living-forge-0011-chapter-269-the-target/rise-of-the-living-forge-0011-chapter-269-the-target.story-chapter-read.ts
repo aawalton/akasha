@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0011Chapter269TheTarget = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0011-chapter-269-the-target",
   title: "Chapter 269: The Target",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 11,
   ownLength: 1718,
   unitSlug: "words",

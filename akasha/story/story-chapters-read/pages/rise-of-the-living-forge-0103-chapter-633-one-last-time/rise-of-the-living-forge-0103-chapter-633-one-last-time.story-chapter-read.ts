@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0103Chapter633OneLastTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0103-chapter-633-one-last-time",
   title: "Chapter 633: One last time",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 103,
   ownLength: 1685,
   unitSlug: "words",

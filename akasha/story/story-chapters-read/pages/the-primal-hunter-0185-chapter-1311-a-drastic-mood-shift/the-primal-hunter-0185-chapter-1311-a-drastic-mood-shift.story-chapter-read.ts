@@ -5,7 +5,7 @@ export const thePrimalHunter0185Chapter1311ADrasticMoodShift = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0185-chapter-1311-a-drastic-mood-shift",
   title: "Chapter 1311 - A Drastic Mood Shift",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 185,
   ownLength: 2789,
   unitSlug: "words",

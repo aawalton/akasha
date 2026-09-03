@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0047Chapter480CountingWithMen = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0047-chapter-480-counting-with-men",
   title: "Chapter 480: Counting with Men",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 47,
   ownLength: 1632,
   unitSlug: "words",

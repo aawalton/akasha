@@ -5,7 +5,7 @@ export const thePrimalHunter0201Chapter1327ChiefAdministratorSelectionCometh = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0201-chapter-1327-chief-administrator-selection-cometh",
   title: "Chapter 1327 - Chief Administrator Selection Cometh",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 201,
   ownLength: 2714,
   unitSlug: "words",

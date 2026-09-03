@@ -5,7 +5,7 @@ export const thePrimalHunter0189Chapter1315EndlessTonguesOfTheForerunners = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0189-chapter-1315-endless-tongues-of-the-forerunners",
   title: "Chapter 1315 - Endless Tongues of the Forerunners",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 189,
   ownLength: 2891,
   unitSlug: "words",

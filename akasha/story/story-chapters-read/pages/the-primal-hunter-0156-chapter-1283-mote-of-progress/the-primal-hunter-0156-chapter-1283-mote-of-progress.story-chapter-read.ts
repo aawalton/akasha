@@ -5,7 +5,7 @@ export const thePrimalHunter0156Chapter1283MoteOfProgress = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0156-chapter-1283-mote-of-progress",
   title: "Chapter 1283 - Mote of Progress",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 156,
   ownLength: 3199,
   unitSlug: "words",

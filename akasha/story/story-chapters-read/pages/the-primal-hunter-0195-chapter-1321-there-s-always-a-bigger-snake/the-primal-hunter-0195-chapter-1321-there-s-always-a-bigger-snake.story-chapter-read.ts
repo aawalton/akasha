@@ -5,7 +5,7 @@ export const thePrimalHunter0195Chapter1321ThereSAlwaysABiggerSnake = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0195-chapter-1321-there-s-always-a-bigger-snake",
   title: "Chapter 1321 - There's Always A Bigger Snake",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 195,
   ownLength: 2614,
   unitSlug: "words",

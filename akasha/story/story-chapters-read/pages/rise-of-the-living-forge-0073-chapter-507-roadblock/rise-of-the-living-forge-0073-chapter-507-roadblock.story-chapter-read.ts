@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0073Chapter507Roadblock = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0073-chapter-507-roadblock",
   title: "Chapter 507: Roadblock",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 73,
   ownLength: 1552,
   unitSlug: "words",

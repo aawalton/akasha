@@ -5,7 +5,7 @@ export const thePrimalHunter0168Chapter1371WeirdStatues = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0168-chapter-1371-weird-statues",
   title: "Chapter 1371 - Weird Statues",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 168,
   ownLength: 2687,
   unitSlug: "words",

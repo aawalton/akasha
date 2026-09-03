@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0019Chapter277Proper = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0019-chapter-277-proper",
   title: "Chapter 277: Proper",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 19,
   ownLength: 1994,
   unitSlug: "words",

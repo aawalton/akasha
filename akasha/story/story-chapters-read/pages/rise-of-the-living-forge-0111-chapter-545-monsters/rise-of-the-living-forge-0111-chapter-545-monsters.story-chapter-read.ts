@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0111Chapter545Monsters = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0111-chapter-545-monsters",
   title: "Chapter 545: Monsters",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 111,
   ownLength: 1719,
   unitSlug: "words",

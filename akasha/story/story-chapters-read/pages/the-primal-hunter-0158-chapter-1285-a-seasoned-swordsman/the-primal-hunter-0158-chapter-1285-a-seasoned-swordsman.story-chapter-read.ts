@@ -5,7 +5,7 @@ export const thePrimalHunter0158Chapter1285ASeasonedSwordsman = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0158-chapter-1285-a-seasoned-swordsman",
   title: "Chapter 1285 - A Seasoned Swordsman",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 158,
   ownLength: 2634,
   unitSlug: "words",

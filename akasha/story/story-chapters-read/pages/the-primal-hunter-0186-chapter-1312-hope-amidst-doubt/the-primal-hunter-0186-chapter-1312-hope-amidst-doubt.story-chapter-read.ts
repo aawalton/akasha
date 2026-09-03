@@ -5,7 +5,7 @@ export const thePrimalHunter0186Chapter1312HopeAmidstDoubt = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0186-chapter-1312-hope-amidst-doubt",
   title: "Chapter 1312 - Hope Amidst Doubt",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 186,
   ownLength: 2772,
   unitSlug: "words",

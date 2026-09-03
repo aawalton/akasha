@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0024Chapter456ClassAct = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0024-chapter-456-class-act",
   title: "Chapter 456: Class act",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 24,
   ownLength: 2122,
   unitSlug: "words",

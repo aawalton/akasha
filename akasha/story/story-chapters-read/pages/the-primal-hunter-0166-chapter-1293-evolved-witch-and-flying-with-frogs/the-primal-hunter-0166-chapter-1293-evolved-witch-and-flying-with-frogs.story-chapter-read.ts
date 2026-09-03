@@ -5,7 +5,7 @@ export const thePrimalHunter0166Chapter1293EvolvedWitchAndFlyingWithFrogs = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0166-chapter-1293-evolved-witch-and-flying-with-frogs",
   title: "Chapter 1293 - Evolved Witch & Flying With Frogs",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 166,
   ownLength: 2724,
   unitSlug: "words",

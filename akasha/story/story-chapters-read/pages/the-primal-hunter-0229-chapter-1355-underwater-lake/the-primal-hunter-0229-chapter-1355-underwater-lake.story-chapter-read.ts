@@ -5,7 +5,7 @@ export const thePrimalHunter0229Chapter1355UnderwaterLake = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0229-chapter-1355-underwater-lake",
   title: "Chapter 1355 - Underwater Lake",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 229,
   ownLength: 2912,
   unitSlug: "words",

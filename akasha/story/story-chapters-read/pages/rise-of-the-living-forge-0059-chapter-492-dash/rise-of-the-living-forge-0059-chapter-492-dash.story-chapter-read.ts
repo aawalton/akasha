@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0059Chapter492Dash = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0059-chapter-492-dash",
   title: "Chapter 492: ****Dash",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 59,
   ownLength: 1539,
   unitSlug: "words",

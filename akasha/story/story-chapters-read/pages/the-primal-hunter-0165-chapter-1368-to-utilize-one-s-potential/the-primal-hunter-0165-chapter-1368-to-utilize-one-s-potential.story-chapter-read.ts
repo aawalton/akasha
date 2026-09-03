@@ -5,7 +5,7 @@ export const thePrimalHunter0165Chapter1368ToUtilizeOneSPotential = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0165-chapter-1368-to-utilize-one-s-potential",
   title: "Chapter 1368 - To Utilize One's Potential",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 165,
   ownLength: 2813,
   unitSlug: "words",

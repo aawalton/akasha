@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0051Chapter484ARequest = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0051-chapter-484-a-request",
   title: "Chapter 484: A request",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 51,
   ownLength: 1623,
   unitSlug: "words",

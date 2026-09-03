@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0074Chapter508Delivery = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0074-chapter-508-delivery",
   title: "Chapter 508: Delivery",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 74,
   ownLength: 1697,
   unitSlug: "words",

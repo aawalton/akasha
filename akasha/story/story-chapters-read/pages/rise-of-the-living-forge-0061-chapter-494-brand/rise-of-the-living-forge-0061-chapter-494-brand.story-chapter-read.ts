@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0061Chapter494Brand = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0061-chapter-494-brand",
   title: "Chapter 494: Brand",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 61,
   ownLength: 1713,
   unitSlug: "words",

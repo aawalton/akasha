@@ -5,7 +5,7 @@ export const thePrimalHunter0160Chapter1363AForgettableTrial = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0160-chapter-1363-a-forgettable-trial",
   title: "Chapter 1363 - A Forgettable Trial",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 160,
   ownLength: 2860,
   unitSlug: "words",

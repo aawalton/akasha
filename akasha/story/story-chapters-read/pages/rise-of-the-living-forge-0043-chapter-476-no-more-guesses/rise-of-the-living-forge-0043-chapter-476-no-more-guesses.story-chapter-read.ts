@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0043Chapter476NoMoreGuesses = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0043-chapter-476-no-more-guesses",
   title: "Chapter 476: No more guesses",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 43,
   ownLength: 1864,
   unitSlug: "words",

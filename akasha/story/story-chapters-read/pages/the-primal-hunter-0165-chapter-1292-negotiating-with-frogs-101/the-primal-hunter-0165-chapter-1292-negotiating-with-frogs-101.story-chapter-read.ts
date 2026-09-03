@@ -5,7 +5,7 @@ export const thePrimalHunter0165Chapter1292NegotiatingWithFrogs101 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0165-chapter-1292-negotiating-with-frogs-101",
   title: "Chapter 1292 - Negotiating With Frogs 101",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 165,
   ownLength: 2790,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0197Chapter1323ToFocusOnPersonalProgress = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0197-chapter-1323-to-focus-on-personal-progress",
   title: "Chapter 1323 - To Focus On Personal Progress",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 197,
   ownLength: 2783,
   unitSlug: "words",

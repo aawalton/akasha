@@ -5,7 +5,7 @@ export const thePrimalHunter0215Chapter1341FirstEncounter = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0215-chapter-1341-first-encounter",
   title: "Chapter 1341 - First Encounter",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 215,
   ownLength: 2726,
   unitSlug: "words",

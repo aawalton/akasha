@@ -5,7 +5,7 @@ export const thePrimalHunter0200Chapter1326WithGodsLikeTheseWhoNeedsEnemies = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0200-chapter-1326-with-gods-like-these-who-needs-enemies",
   title: "Chapter 1326 - With Gods Like These, Who Needs Enemies?",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 200,
   ownLength: 2993,
   unitSlug: "words",

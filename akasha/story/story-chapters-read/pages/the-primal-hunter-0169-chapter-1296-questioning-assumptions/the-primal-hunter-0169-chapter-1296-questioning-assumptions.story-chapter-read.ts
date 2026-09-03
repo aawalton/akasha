@@ -5,7 +5,7 @@ export const thePrimalHunter0169Chapter1296QuestioningAssumptions = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0169-chapter-1296-questioning-assumptions",
   title: "Chapter 1296 - Questioning Assumptions",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 169,
   ownLength: 2850,
   unitSlug: "words",

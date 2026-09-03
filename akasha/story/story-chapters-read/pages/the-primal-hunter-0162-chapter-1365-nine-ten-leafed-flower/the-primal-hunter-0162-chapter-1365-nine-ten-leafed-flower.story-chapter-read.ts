@@ -5,7 +5,7 @@ export const thePrimalHunter0162Chapter1365NineTenLeafedFlower = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0162-chapter-1365-nine-ten-leafed-flower",
   title: "Chapter 1365 - Nine(Ten)-Leafed Flower",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 162,
   ownLength: 2839,
   unitSlug: "words",

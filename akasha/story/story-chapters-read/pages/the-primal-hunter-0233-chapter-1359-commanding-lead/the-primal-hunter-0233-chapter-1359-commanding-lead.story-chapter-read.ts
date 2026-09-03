@@ -5,7 +5,7 @@ export const thePrimalHunter0233Chapter1359CommandingLead = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0233-chapter-1359-commanding-lead",
   title: "Chapter 1359 - Commanding Lead",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 233,
   ownLength: 2751,
   unitSlug: "words",

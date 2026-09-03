@@ -5,7 +5,7 @@ export const thePrimalHunter0214Chapter1340APeacefulFaction = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0214-chapter-1340-a-peaceful-faction",
   title: "Chapter 1340 - A Peaceful Faction",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 214,
   ownLength: 2866,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0067Chapter500BadBadIdea = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0067-chapter-500-bad-bad-idea",
   title: "Chapter 500: Bad, bad idea",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 67,
   ownLength: 1987,
   unitSlug: "words",

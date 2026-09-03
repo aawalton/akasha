@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0014Chapter272TheRot = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0014-chapter-272-the-rot",
   title: "Chapter 272: The Rot",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 14,
   ownLength: 2048,
   unitSlug: "words",

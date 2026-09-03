@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0070Chapter504Sooner = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0070-chapter-504-sooner",
   title: "Chapter 504: Sooner",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 70,
   ownLength: 1980,
   unitSlug: "words",

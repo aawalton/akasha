@@ -5,7 +5,7 @@ export const thePrimalHunter0164Chapter1367JustifiedPeakOfHubris = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0164-chapter-1367-justified-peak-of-hubris",
   title: "Chapter 1367 - Justified Peak of Hubris",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 164,
   ownLength: 2736,
   unitSlug: "words",

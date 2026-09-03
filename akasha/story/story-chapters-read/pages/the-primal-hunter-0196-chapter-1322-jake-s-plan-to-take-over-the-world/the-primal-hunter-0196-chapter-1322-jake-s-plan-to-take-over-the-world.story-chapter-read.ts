@@ -5,7 +5,7 @@ export const thePrimalHunter0196Chapter1322JakeSPlanToTakeOverTheWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0196-chapter-1322-jake-s-plan-to-take-over-the-world",
   title: "Chapter 1322 - Jake's Plan To Take Over the World",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 196,
   ownLength: 2854,
   unitSlug: "words",

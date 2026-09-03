@@ -5,7 +5,7 @@ export const thePrimalHunter0190Chapter1316ComingUpBlank = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0190-chapter-1316-coming-up-blank",
   title: "Chapter 1316 - Coming Up Blank",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 190,
   ownLength: 2961,
   unitSlug: "words",

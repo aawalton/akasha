@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0093Chapter527Sunsetted = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0093-chapter-527-sunsetted",
   title: "Chapter 527: Sunsetted",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 93,
   ownLength: 1539,
   unitSlug: "words",

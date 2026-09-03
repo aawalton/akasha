@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0088Chapter522AnOpportunity = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0088-chapter-522-an-opportunity",
   title: "Chapter 522: An Opportunity",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 88,
   ownLength: 1546,
   unitSlug: "words",

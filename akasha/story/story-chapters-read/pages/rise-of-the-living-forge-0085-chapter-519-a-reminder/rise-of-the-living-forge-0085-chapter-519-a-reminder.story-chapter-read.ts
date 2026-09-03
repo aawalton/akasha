@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0085Chapter519AReminder = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0085-chapter-519-a-reminder",
   title: "Chapter 519: A Reminder",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 85,
   ownLength: 1506,
   unitSlug: "words",

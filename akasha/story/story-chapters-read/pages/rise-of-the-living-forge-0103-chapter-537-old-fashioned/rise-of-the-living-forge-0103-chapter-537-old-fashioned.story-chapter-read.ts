@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0103Chapter537OldFashioned = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0103-chapter-537-old-fashioned",
   title: "Chapter 537: Old-fashioned",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 103,
   ownLength: 2160,
   unitSlug: "words",

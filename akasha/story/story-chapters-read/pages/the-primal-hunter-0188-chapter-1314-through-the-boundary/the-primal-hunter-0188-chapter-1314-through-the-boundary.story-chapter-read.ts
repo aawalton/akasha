@@ -5,7 +5,7 @@ export const thePrimalHunter0188Chapter1314ThroughTheBoundary = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0188-chapter-1314-through-the-boundary",
   title: "Chapter 1314 - Through the Boundary",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 188,
   ownLength: 2742,
   unitSlug: "words",

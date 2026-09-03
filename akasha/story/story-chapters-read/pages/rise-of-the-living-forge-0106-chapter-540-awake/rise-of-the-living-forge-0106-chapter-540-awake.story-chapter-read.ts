@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0106Chapter540Awake = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0106-chapter-540-awake",
   title: "Chapter 540: Awake",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 106,
   ownLength: 1672,
   unitSlug: "words",

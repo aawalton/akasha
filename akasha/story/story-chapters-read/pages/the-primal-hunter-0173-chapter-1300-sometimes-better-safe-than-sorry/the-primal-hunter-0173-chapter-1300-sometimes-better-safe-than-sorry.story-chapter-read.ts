@@ -5,7 +5,7 @@ export const thePrimalHunter0173Chapter1300SometimesBetterSafeThanSorry = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0173-chapter-1300-sometimes-better-safe-than-sorry",
   title: "Chapter 1300 - Sometimes Better Safe Than Sorry",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 173,
   ownLength: 2946,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0178Chapter1304AnIncrediblyMessySituation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0178-chapter-1304-an-incredibly-messy-situation",
   title: "Chapter 1304 - An Incredibly Messy Situation",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 178,
   ownLength: 2751,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0062Chapter495Guarantee = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0062-chapter-495-guarantee",
   title: "Chapter 495: Guarantee",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 62,
   ownLength: 1766,
   unitSlug: "words",

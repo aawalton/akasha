@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0097Book6IsOutOnAmazon = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0097-book-6-is-out-on-amazon",
   title: "Book 6 is out on amazon!",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 97,
   ownLength: 96,
   unitSlug: "words",

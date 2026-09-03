@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0025Chapter457OptionsOptions = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0025-chapter-457-options-options",
   title: "Chapter 457: Options, options",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 25,
   ownLength: 1594,
   unitSlug: "words",

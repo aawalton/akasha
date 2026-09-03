@@ -5,7 +5,7 @@ export const thePrimalHunter0212Chapter1338NightmareNeighbor = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0212-chapter-1338-nightmare-neighbor",
   title: "Chapter 1338 - Nightmare Neighbor",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 212,
   ownLength: 2676,
   unitSlug: "words",

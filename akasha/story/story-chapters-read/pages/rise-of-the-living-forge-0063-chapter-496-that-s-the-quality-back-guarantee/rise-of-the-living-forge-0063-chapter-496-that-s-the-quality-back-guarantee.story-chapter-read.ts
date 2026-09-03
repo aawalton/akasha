@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0063Chapter496ThatSTheQualityBackGuarantee = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0063-chapter-496-that-s-the-quality-back-guarantee",
   title: "Chapter 496: That's the Quality Back Guarantee",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 63,
   ownLength: 2062,
   unitSlug: "words",

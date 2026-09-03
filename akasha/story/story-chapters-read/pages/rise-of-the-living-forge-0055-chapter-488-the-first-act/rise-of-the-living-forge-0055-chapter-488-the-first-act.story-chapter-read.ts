@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0055Chapter488TheFirstAct = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0055-chapter-488-the-first-act",
   title: "Chapter 488: The First Act",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 55,
   ownLength: 2495,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0023Chapter455ThatSASet = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0023-chapter-455-that-s-a-set",
   title: "Chapter 455: That's a set.",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 23,
   ownLength: 1549,
   unitSlug: "words",

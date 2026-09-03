@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0101Chapter631WeaponOfWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0101-chapter-631-weapon-of-war",
   title: "Chapter 631: Weapon of War",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 101,
   ownLength: 2198,
   unitSlug: "words",

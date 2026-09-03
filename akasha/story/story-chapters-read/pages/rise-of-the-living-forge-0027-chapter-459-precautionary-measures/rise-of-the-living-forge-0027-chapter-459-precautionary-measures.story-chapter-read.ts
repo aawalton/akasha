@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0027Chapter459PrecautionaryMeasures = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0027-chapter-459-precautionary-measures",
   title: "Chapter 459: Precautionary Measures",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 27,
   ownLength: 2044,
   unitSlug: "words",

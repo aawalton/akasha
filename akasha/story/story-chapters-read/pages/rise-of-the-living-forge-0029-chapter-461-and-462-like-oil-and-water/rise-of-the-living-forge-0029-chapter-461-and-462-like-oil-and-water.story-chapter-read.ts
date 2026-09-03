@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0029Chapter461And462LikeOilAndWater = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0029-chapter-461-and-462-like-oil-and-water",
   title: "Chapter 461 & 462: Like oil and water",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 29,
   ownLength: 3641,
   unitSlug: "words",

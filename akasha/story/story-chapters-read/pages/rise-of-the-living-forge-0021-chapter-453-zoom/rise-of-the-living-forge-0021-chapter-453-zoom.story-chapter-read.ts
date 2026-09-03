@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0021Chapter453Zoom = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0021-chapter-453-zoom",
   title: "Chapter 453: Zoom",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 21,
   ownLength: 1801,
   unitSlug: "words",

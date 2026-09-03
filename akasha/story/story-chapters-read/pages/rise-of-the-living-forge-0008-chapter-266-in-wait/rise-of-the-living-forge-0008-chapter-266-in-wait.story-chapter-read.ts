@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0008Chapter266InWait = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0008-chapter-266-in-wait",
   title: "Chapter 266: In Wait",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 8,
   ownLength: 2068,
   unitSlug: "words",

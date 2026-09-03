@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0077Chapter511NoSharing = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0077-chapter-511-no-sharing",
   title: "Chapter 511: No sharing",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 77,
   ownLength: 1551,
   unitSlug: "words",

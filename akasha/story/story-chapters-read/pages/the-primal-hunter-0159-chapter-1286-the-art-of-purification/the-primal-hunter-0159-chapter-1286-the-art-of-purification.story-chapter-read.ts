@@ -5,7 +5,7 @@ export const thePrimalHunter0159Chapter1286TheArtOfPurification = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0159-chapter-1286-the-art-of-purification",
   title: "Chapter 1286 - The Art of Purification",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 159,
   ownLength: 2935,
   unitSlug: "words",

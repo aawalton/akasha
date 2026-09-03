@@ -5,7 +5,7 @@ export const thePrimalHunter0218Chapter1344NotHisPeers = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0218-chapter-1344-not-his-peers",
   title: "Chapter 1344 - Not His Peers",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 218,
   ownLength: 2613,
   unitSlug: "words",

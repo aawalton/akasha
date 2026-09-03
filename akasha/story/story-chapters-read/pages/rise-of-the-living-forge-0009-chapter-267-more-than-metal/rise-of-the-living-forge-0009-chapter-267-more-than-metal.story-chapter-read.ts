@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0009Chapter267MoreThanMetal = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0009-chapter-267-more-than-metal",
   title: "Chapter 267: More than metal",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 9,
   ownLength: 1876,
   unitSlug: "words",

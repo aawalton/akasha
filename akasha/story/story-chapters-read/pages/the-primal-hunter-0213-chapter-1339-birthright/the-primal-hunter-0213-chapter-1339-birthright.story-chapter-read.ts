@@ -5,7 +5,7 @@ export const thePrimalHunter0213Chapter1339Birthright = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0213-chapter-1339-birthright",
   title: "Chapter 1339 - Birthright",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 213,
   ownLength: 3145,
   unitSlug: "words",

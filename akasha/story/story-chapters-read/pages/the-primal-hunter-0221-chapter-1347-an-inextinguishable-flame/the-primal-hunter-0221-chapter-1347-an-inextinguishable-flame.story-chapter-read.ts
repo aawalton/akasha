@@ -5,7 +5,7 @@ export const thePrimalHunter0221Chapter1347AnInextinguishableFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0221-chapter-1347-an-inextinguishable-flame",
   title: "Chapter 1347 - An Inextinguishable Flame",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 221,
   ownLength: 2754,
   unitSlug: "words",

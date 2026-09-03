@@ -5,7 +5,7 @@ export const thePrimalHunter0179Chapter1305ABriefTutorialAndATunnelMound = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0179-chapter-1305-a-brief-tutorial-and-a-tunnel-mound",
   title: "Chapter 1305 - A Brief Tutorial & A Tunnel Mound",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 179,
   ownLength: 3027,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0035Chapter468Practice = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0035-chapter-468-practice",
   title: "Chapter 468: Practice",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 35,
   ownLength: 1616,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0106Chapter636Hero = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0106-chapter-636-hero",
   title: "Chapter 636: Hero",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 106,
   ownLength: 1951,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0107Chapter541Eaten = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0107-chapter-541-eaten",
   title: "Chapter 541: Eaten",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 107,
   ownLength: 1812,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0205Chapter1331NewOutfitAndChiefAdministratorStuff =
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0205-chapter-1331-new-outfit-and-chief-administrator-stuff",
   title: "Chapter 1331 - New Outfit & Chief Administrator Stuff",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 205,
   ownLength: 2647,
   unitSlug: "words",

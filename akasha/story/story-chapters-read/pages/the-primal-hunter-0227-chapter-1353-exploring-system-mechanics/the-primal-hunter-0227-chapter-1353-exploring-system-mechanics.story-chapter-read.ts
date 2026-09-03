@@ -5,7 +5,7 @@ export const thePrimalHunter0227Chapter1353ExploringSystemMechanics = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0227-chapter-1353-exploring-system-mechanics",
   title: "Chapter 1353 - Exploring System Mechanics",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 227,
   ownLength: 2736,
   unitSlug: "words",

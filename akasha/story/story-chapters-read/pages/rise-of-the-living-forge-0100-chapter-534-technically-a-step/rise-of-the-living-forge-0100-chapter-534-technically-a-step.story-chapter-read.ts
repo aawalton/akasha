@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0100Chapter534TechnicallyAStep = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0100-chapter-534-technically-a-step",
   title: "Chapter 534: Technically a step",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 100,
   ownLength: 1661,
   unitSlug: "words",

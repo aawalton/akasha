@@ -5,7 +5,7 @@ export const thePrimalHunter0211Chapter1337Culling = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0211-chapter-1337-culling",
   title: "Chapter 1337 - Culling",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 211,
   ownLength: 2847,
   unitSlug: "words",

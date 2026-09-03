@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0046Chapter479TheMenagerie = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0046-chapter-479-the-menagerie",
   title: "Chapter 479: The Menagerie",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 46,
   ownLength: 1958,
   unitSlug: "words",

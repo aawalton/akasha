@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0086Chapter520Creative = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0086-chapter-520-creative",
   title: "Chapter 520: Creative",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 86,
   ownLength: 1676,
   unitSlug: "words",

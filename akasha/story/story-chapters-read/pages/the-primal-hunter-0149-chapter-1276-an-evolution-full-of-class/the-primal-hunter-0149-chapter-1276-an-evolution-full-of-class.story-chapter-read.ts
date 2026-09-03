@@ -5,7 +5,7 @@ export const thePrimalHunter0149Chapter1276AnEvolutionFullOfClass = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0149-chapter-1276-an-evolution-full-of-class",
   title: "Chapter 1276 - An Evolution Full of Class",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 149,
   ownLength: 2884,
   unitSlug: "words",

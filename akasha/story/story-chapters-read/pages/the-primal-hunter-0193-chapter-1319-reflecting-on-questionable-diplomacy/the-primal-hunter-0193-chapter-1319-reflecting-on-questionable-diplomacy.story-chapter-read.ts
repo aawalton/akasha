@@ -5,7 +5,7 @@ export const thePrimalHunter0193Chapter1319ReflectingOnQuestionableDiplomacy = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0193-chapter-1319-reflecting-on-questionable-diplomacy",
   title: "Chapter 1319 - Reflecting On Questionable Diplomacy",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 193,
   ownLength: 2615,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0198Chapter1324TheTrueObjectiveOfSimulations = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0198-chapter-1324-the-true-objective-of-simulations",
   title: "Chapter 1324 - The True Objective of Simulations",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 198,
   ownLength: 2710,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0159Chapter1362TheDemonThatYouKnow = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0159-chapter-1362-the-demon-that-you-know",
   title: "Chapter 1362 - The Demon That You Know...",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 159,
   ownLength: 2826,
   unitSlug: "words",

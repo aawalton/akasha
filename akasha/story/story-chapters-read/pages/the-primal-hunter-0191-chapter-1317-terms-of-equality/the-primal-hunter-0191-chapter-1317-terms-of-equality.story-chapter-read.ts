@@ -5,7 +5,7 @@ export const thePrimalHunter0191Chapter1317TermsOfEquality = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0191-chapter-1317-terms-of-equality",
   title: 'Chapter 1317 - Terms of "Equality"',
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 191,
   ownLength: 2986,
   unitSlug: "words",

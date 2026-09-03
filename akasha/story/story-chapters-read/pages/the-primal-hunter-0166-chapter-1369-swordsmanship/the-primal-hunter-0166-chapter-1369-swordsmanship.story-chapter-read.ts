@@ -5,7 +5,7 @@ export const thePrimalHunter0166Chapter1369Swordsmanship = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0166-chapter-1369-swordsmanship",
   title: "Chapter 1369 - Swordsmanship",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 166,
   ownLength: 2816,
   unitSlug: "words",

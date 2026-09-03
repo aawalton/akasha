@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0007DragonconAnnouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0007-dragoncon-announcement",
   title: "Dragoncon Announcement!",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 7,
   ownLength: 214,
   unitSlug: "words",

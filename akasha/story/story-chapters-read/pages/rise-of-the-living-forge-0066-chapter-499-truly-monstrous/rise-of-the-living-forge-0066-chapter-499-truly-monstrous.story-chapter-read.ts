@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0066Chapter499TrulyMonstrous = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0066-chapter-499-truly-monstrous",
   title: "Chapter 499: Truly monstrous ",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 66,
   ownLength: 1588,
   unitSlug: "words",

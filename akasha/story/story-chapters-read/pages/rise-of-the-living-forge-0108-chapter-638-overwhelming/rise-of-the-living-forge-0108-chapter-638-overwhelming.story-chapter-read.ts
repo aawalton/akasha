@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0108Chapter638Overwhelming = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0108-chapter-638-overwhelming",
   title: "Chapter 638: Overwhelming",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 108,
   ownLength: 1933,
   unitSlug: "words",

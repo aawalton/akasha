@@ -5,7 +5,7 @@ export const thePrimalHunter0220Chapter1346StormyWithAChanceOfFlamesAndArrows = 
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0220-chapter-1346-stormy-with-a-chance-of-flames-and-arrows",
   title: "Chapter 1346 - Stormy With A Chance of Flames & Arrows",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 220,
   ownLength: 2912,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0112Chapter546EsmereldaSRules = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0112-chapter-546-esmerelda-s-rules",
   title: "Chapter 546: Esmerelda's Rules",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 112,
   ownLength: 1652,
   unitSlug: "words",

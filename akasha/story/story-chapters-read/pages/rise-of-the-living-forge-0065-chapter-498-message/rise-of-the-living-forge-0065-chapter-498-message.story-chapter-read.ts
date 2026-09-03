@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0065Chapter498Message = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0065-chapter-498-message",
   title: "Chapter 498: Message",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 65,
   ownLength: 1546,
   unitSlug: "words",

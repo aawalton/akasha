@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0015Chapter273TheCoin = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0015-chapter-273-the-coin",
   title: "Chapter 273: The Coin",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 15,
   ownLength: 1745,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0022Chapter454TradeOfferStartOfBook6 = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0022-chapter-454-trade-offer-start-of-book-6",
   title: "Chapter 454: Trade Offer & START OF BOOK 6",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 22,
   ownLength: 2463,
   unitSlug: "words",

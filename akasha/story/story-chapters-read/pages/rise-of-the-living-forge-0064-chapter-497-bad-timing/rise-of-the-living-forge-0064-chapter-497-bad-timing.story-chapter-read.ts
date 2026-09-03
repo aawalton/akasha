@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0064Chapter497BadTiming = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0064-chapter-497-bad-timing",
   title: "Chapter 497: Bad timing",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 64,
   ownLength: 1603,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0184Chapter1310StuckInTheMiddle = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0184-chapter-1310-stuck-in-the-middle",
   title: "Chapter 1310 - Stuck In The Middle",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 184,
   ownLength: 2637,
   unitSlug: "words",

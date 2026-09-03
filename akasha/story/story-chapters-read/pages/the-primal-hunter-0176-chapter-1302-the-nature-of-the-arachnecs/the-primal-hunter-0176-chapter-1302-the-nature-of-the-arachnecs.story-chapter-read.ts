@@ -5,7 +5,7 @@ export const thePrimalHunter0176Chapter1302TheNatureOfTheArachnecs = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0176-chapter-1302-the-nature-of-the-arachnecs",
   title: "Chapter 1302 - The Nature of the Arachnecs",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 176,
   ownLength: 2594,
   unitSlug: "words",

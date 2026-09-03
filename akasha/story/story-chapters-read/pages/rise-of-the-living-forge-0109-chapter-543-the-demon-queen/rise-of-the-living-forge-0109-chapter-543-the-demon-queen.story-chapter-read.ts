@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0109Chapter543TheDemonQueen = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0109-chapter-543-the-demon-queen",
   title: "Chapter 543: The Demon Queen",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 109,
   ownLength: 1667,
   unitSlug: "words",

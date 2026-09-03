@@ -5,7 +5,7 @@ export const thePrimalHunter0151Chapter1278AWayBEtterJake = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0151-chapter-1278-a-way-b-etter-jake",
   title: "Chapter 1278 - A Way (B)etter Jake",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 151,
   ownLength: 2890,
   unitSlug: "words",

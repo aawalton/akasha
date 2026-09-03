@@ -5,7 +5,7 @@ export const thePrimalHunter0161Chapter1364AnUnforgettableFoe = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0161-chapter-1364-an-unforgettable-foe",
   title: "Chapter 1364 - An Unforgettable(?) Foe",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 161,
   ownLength: 2791,
   unitSlug: "words",

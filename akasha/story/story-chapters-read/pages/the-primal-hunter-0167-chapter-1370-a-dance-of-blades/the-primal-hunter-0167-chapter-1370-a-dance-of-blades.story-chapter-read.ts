@@ -5,7 +5,7 @@ export const thePrimalHunter0167Chapter1370ADanceOfBlades = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0167-chapter-1370-a-dance-of-blades",
   title: "Chapter 1370 - A Dance of Blades",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 167,
   ownLength: 2894,
   unitSlug: "words",

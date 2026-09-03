@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0044Chapter477TheWorst = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0044-chapter-477-the-worst",
   title: "Chapter 477: The Worst",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 44,
   ownLength: 1930,
   unitSlug: "words",

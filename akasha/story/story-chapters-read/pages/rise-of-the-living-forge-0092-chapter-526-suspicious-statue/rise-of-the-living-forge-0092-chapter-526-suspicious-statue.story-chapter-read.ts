@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0092Chapter526SuspiciousStatue = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0092-chapter-526-suspicious-statue",
   title: "Chapter 526: Suspicious Statue",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 92,
   ownLength: 2165,
   unitSlug: "words",

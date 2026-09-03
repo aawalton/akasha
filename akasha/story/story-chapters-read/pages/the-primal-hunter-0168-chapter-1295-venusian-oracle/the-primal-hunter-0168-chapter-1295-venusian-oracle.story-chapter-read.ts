@@ -5,7 +5,7 @@ export const thePrimalHunter0168Chapter1295VenusianOracle = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0168-chapter-1295-venusian-oracle",
   title: "Chapter 1295 - Venusian Oracle",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 168,
   ownLength: 2747,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0040Chapter473Trash = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0040-chapter-473-trash",
   title: "Chapter 473: Trash",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 40,
   ownLength: 2259,
   unitSlug: "words",

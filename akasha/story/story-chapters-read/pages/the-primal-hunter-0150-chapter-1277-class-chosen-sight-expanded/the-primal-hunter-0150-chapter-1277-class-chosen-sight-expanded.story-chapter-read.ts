@@ -5,7 +5,7 @@ export const thePrimalHunter0150Chapter1277ClassChosenSightExpanded = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0150-chapter-1277-class-chosen-sight-expanded",
   title: "Chapter 1277 - Class Chosen, Sight Expanded",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 150,
   ownLength: 2920,
   unitSlug: "words",

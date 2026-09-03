@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0038Chapter471Death = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0038-chapter-471-death",
   title: "Chapter 471: Death",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 38,
   ownLength: 1986,
   unitSlug: "words",

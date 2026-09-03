@@ -5,7 +5,7 @@ export const thePrimalHunter0167Chapter1294VenusianVillage = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0167-chapter-1294-venusian-village",
   title: "Chapter 1294 - Venusian Village",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 167,
   ownLength: 3138,
   unitSlug: "words",

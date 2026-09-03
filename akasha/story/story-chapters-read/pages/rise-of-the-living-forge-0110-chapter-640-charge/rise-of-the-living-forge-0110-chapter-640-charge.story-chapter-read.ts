@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0110Chapter640Charge = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0110-chapter-640-charge",
   title: "Chapter 640: Charge!",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 110,
   ownLength: 1827,
   unitSlug: "words",

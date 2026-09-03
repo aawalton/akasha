@@ -5,7 +5,7 @@ export const thePrimalHunter0157Chapter1284AQueenSGuards = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0157-chapter-1284-a-queen-s-guards",
   title: "Chapter 1284 - A Queen's Guards",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 157,
   ownLength: 3511,
   unitSlug: "words",

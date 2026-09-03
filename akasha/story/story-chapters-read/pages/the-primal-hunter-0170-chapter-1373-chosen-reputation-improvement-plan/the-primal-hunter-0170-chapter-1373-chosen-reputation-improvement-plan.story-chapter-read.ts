@@ -5,7 +5,7 @@ export const thePrimalHunter0170Chapter1373ChosenReputationImprovementPlan = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0170-chapter-1373-chosen-reputation-improvement-plan",
   title: "Chapter 1373 - Chosen Reputation Improvement Plan",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 170,
   ownLength: 2887,
   unitSlug: "words",

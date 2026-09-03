@@ -5,7 +5,7 @@ export const thePrimalHunter0234Chapter1360BeyondTheSpatialDistortion = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0234-chapter-1360-beyond-the-spatial-distortion",
   title: "Chapter 1360 - Beyond the Spatial Distortion",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 234,
   ownLength: 2561,
   unitSlug: "words",

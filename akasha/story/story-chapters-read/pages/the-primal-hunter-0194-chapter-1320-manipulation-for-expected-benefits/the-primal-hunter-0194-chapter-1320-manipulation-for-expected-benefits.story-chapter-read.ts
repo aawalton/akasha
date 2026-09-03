@@ -5,7 +5,7 @@ export const thePrimalHunter0194Chapter1320ManipulationForExpectedBenefits = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0194-chapter-1320-manipulation-for-expected-benefits",
   title: "Chapter 1320 - Manipulation For Expected Benefits",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 194,
   ownLength: 2808,
   unitSlug: "words",

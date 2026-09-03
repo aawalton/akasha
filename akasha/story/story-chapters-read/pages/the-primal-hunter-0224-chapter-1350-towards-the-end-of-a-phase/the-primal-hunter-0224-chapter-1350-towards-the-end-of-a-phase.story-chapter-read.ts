@@ -5,7 +5,7 @@ export const thePrimalHunter0224Chapter1350TowardsTheEndOfAPhase = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0224-chapter-1350-towards-the-end-of-a-phase",
   title: "Chapter 1350 - Towards the End of a Phase",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 224,
   ownLength: 2896,
   unitSlug: "words",

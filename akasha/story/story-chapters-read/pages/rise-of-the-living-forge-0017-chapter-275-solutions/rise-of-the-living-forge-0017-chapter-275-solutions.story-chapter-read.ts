@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0017Chapter275Solutions = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0017-chapter-275-solutions",
   title: "Chapter 275: Solutions",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 17,
   ownLength: 1753,
   unitSlug: "words",

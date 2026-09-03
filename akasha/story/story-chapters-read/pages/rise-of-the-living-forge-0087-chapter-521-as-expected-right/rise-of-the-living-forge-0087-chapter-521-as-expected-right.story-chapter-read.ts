@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0087Chapter521AsExpectedRight = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0087-chapter-521-as-expected-right",
   title: "Chapter 521: As expected...right?",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 87,
   ownLength: 1848,
   unitSlug: "words",

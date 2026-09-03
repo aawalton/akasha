@@ -5,7 +5,7 @@ export const thePrimalHunter0187Chapter1313OneImportantFinalQuestion = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0187-chapter-1313-one-important-final-question",
   title: "Chapter 1313 - One Important Final Question",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 187,
   ownLength: 2674,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0050Chapter483TheLineButNotThatOneAndGeneralNot
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0050-chapter-483-the-line-but-not-that-one-and-general-note",
   title: "Chapter 483: The Line (but not that one) & GENERAL NOTE",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 50,
   ownLength: 1783,
   unitSlug: "words",

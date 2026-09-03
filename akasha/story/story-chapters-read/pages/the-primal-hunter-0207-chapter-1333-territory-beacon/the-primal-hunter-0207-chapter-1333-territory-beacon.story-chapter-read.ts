@@ -5,7 +5,7 @@ export const thePrimalHunter0207Chapter1333TerritoryBeacon = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0207-chapter-1333-territory-beacon",
   title: "Chapter 1333 - Territory Beacon",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 207,
   ownLength: 2760,
   unitSlug: "words",

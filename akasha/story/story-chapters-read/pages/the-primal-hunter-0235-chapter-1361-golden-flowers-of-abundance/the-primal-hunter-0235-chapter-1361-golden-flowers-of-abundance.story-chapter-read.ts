@@ -5,7 +5,7 @@ export const thePrimalHunter0235Chapter1361GoldenFlowersOfAbundance = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0235-chapter-1361-golden-flowers-of-abundance",
   title: "Chapter 1361 - Golden Flowers of Abundance",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 235,
   ownLength: 2667,
   unitSlug: "words",

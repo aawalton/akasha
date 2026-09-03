@@ -5,7 +5,7 @@ export const thePrimalHunter0199Chapter1325ASurprisingTwist = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0199-chapter-1325-a-surprising-twist",
   title: "Chapter 1325 - A Surprising(?) Twist",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 199,
   ownLength: 2872,
   unitSlug: "words",

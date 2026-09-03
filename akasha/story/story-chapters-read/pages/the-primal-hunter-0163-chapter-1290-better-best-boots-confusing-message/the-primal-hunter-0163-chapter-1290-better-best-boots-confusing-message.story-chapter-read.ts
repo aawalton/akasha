@@ -5,7 +5,7 @@ export const thePrimalHunter0163Chapter1290BetterBestBootsConfusingMessage = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0163-chapter-1290-better-best-boots-confusing-message",
   title: "Chapter 1290 - Better Best Boots = Confusing Message",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 163,
   ownLength: 2981,
   unitSlug: "words",

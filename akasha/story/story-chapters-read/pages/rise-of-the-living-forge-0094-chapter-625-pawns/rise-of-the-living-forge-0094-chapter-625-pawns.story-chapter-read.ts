@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0094Chapter625Pawns = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0094-chapter-625-pawns",
   title: "Chapter 625: Pawns",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 94,
   ownLength: 1694,
   unitSlug: "words",

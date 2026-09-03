@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0016Chapter274TheWeather = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0016-chapter-274-the-weather",
   title: "Chapter 274: The Weather",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 16,
   ownLength: 2180,
   unitSlug: "words",

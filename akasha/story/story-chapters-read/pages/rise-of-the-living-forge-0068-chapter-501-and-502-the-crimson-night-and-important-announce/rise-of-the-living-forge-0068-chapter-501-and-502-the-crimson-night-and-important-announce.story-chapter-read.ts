@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0068Chapter501And502TheCrimsonNightAndImportant
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0068-chapter-501-and-502-the-crimson-night-and-important-announce",
   title: "Chapter 501 & 502: The Crimson Night & IMPORTANT ANNOUNCEMENT!",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 68,
   ownLength: 3954,
   unitSlug: "words",

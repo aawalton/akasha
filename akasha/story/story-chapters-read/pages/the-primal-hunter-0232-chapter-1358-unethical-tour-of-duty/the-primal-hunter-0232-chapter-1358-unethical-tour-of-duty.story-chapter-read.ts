@@ -5,7 +5,7 @@ export const thePrimalHunter0232Chapter1358UnethicalTourOfDuty = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0232-chapter-1358-unethical-tour-of-duty",
   title: "Chapter 1358 - Unethical Tour of Duty",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 232,
   ownLength: 2674,
   unitSlug: "words",

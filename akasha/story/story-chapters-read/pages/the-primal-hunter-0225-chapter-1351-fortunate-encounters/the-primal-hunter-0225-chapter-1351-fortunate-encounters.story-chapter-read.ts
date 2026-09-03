@@ -5,7 +5,7 @@ export const thePrimalHunter0225Chapter1351FortunateEncounters = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0225-chapter-1351-fortunate-encounters",
   title: "Chapter 1351 - Fortunate Encounters",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 225,
   ownLength: 2732,
   unitSlug: "words",

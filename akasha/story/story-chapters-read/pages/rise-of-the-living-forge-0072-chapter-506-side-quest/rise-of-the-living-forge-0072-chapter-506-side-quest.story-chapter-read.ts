@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0072Chapter506SideQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0072-chapter-506-side-quest",
   title: "Chapter 506: Side quest",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 72,
   ownLength: 1968,
   unitSlug: "words",

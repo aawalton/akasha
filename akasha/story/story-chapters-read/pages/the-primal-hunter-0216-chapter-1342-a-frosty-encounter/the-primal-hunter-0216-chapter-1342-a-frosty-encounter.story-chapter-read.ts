@@ -5,7 +5,7 @@ export const thePrimalHunter0216Chapter1342AFrostyEncounter = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0216-chapter-1342-a-frosty-encounter",
   title: "Chapter 1342 - A Frosty Encounter",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 216,
   ownLength: 3095,
   unitSlug: "words",

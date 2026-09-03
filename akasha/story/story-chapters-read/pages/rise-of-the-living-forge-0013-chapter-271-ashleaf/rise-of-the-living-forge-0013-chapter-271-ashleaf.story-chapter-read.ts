@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0013Chapter271Ashleaf = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0013-chapter-271-ashleaf",
   title: "Chapter 271: Ashleaf",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 13,
   ownLength: 2116,
   unitSlug: "words",

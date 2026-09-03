@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0032Chapter465Gifts = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0032-chapter-465-gifts",
   title: "Chapter 465: Gifts",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 32,
   ownLength: 2164,
   unitSlug: "words",

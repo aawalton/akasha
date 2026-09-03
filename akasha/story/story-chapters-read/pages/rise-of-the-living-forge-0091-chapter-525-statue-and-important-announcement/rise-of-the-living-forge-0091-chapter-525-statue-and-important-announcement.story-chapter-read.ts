@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0091Chapter525StatueAndImportantAnnouncement = 
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0091-chapter-525-statue-and-important-announcement",
   title: "Chapter 525: Statue & IMPORTANT ANNOUNCEMENT",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 91,
   ownLength: 1645,
   unitSlug: "words",

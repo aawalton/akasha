@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0112Chapter642Reaching = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0112-chapter-642-reaching",
   title: "Chapter 642: Reaching",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 112,
   ownLength: 1868,
   unitSlug: "words",

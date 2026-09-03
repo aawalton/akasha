@@ -5,7 +5,7 @@ export const thePrimalHunter0170Chapter1297HowOneWouldExpect = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0170-chapter-1297-how-one-would-expect",
   title: "Chapter 1297 - How One Would Expect",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 170,
   ownLength: 2757,
   unitSlug: "words",

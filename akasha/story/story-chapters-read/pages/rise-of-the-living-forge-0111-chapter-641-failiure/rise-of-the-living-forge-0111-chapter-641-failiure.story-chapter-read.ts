@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0111Chapter641Failiure = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0111-chapter-641-failiure",
   title: "Chapter 641: Failiure",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 111,
   ownLength: 2423,
   unitSlug: "words",

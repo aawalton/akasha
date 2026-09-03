@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0104Chapter538Answers = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0104-chapter-538-answers",
   title: "Chapter 538: Answers",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 104,
   ownLength: 1527,
   unitSlug: "words",

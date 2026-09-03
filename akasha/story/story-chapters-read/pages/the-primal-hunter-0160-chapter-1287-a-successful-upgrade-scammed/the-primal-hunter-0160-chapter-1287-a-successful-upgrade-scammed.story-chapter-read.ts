@@ -5,7 +5,7 @@ export const thePrimalHunter0160Chapter1287ASuccessfulUpgradeScammed = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0160-chapter-1287-a-successful-upgrade-scammed",
   title: "Chapter 1287 - A Successful Upgrade = Scammed (?)",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 160,
   ownLength: 2841,
   unitSlug: "words",

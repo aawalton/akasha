@@ -5,7 +5,7 @@ export const thePrimalHunter0222Chapter1348ExtinguishedFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0222-chapter-1348-extinguished-flame",
   title: "Chapter 1348 - Extinguished Flame",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 222,
   ownLength: 2625,
   unitSlug: "words",

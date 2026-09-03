@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0098Chapter532CouncilContemplations = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0098-chapter-532-council-contemplations",
   title: "Chapter 532: Council Contemplations",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 98,
   ownLength: 1618,
   unitSlug: "words",

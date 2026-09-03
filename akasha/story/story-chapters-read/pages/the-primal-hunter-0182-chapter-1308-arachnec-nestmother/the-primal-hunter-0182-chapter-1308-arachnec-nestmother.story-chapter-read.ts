@@ -5,7 +5,7 @@ export const thePrimalHunter0182Chapter1308ArachnecNestmother = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0182-chapter-1308-arachnec-nestmother",
   title: "Chapter 1308 - Arachnec Nestmother",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 182,
   ownLength: 2716,
   unitSlug: "words",

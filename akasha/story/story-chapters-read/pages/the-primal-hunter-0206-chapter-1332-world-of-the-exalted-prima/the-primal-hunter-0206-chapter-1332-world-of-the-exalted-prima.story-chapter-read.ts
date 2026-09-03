@@ -5,7 +5,7 @@ export const thePrimalHunter0206Chapter1332WorldOfTheExaltedPrima = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0206-chapter-1332-world-of-the-exalted-prima",
   title: "Chapter 1332 - World of the Exalted Prima",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 206,
   ownLength: 2635,
   unitSlug: "words",

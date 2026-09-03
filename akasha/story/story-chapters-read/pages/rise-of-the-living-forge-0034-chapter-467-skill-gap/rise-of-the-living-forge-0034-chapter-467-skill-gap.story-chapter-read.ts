@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0034Chapter467SkillGap = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0034-chapter-467-skill-gap",
   title: "Chapter 467: Skill gap",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 34,
   ownLength: 1828,
   unitSlug: "words",

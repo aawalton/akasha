@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0113Chapter643EndTheWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0113-chapter-643-end-the-war",
   title: "Chapter 643: End the War",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 113,
   ownLength: 2027,
   unitSlug: "words",

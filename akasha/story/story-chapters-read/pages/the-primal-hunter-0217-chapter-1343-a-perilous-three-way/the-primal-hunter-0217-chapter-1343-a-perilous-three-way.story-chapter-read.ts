@@ -5,7 +5,7 @@ export const thePrimalHunter0217Chapter1343APerilousThreeWay = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0217-chapter-1343-a-perilous-three-way",
   title: "Chapter 1343 - A Perilous Three-way",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 217,
   ownLength: 2618,
   unitSlug: "words",
