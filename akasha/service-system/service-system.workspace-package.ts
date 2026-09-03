@@ -20,5 +20,8 @@ export const serviceSystem = {
     "module/web-app-reading",
     "module/workload-deploying",
     "module/web-app-building",
+    "module/cluster-api-reaching",
+    "module/loki-log-fetching",
+    "module/log-bound-saying",
   ],
 } as const satisfies WorkspacePackage
