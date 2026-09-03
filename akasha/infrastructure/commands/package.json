@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/infrastructure-commands",
+  "name": "@akasha/pipeline-commands",
   "private": true,
   "type": "module",
   "exports": {},

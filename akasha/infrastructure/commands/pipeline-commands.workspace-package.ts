@@ -1,10 +1,10 @@
 import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
-export const infrastructureCommands = {
+export const pipelineCommands = {
   id: "01a06810-9439-77f1-8f99-344e527d650b",
   pageTypeSlug: "workspace-package",
-  slug: "infrastructure-commands",
-  definition: "what an agent runs by name over what the system runs on",
+  slug: "pipeline-commands",
+  definition: "what an agent runs by name over the build pipelines",
   manifest: "json",
   partSlugs: [
     "command/pipeline-benchmark",
