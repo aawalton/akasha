@@ -16,9 +16,5 @@
     "node_modules",
     "dist"
   ],
-  "references": [
-    {
-      "path": "../comfy"
-    }
-  ]
+  "references": []
 }
