@@ -14,5 +14,6 @@ export const temperHoldings = {
     "page-type/temper-inventory-snapshot",
     "page-type/temper-item-category-tree",
     "page-type/temper-net-worth-hour",
+    "page-type/temper-sale",
   ],
 } as const satisfies Domain

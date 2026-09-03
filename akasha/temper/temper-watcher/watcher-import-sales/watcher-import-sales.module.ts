@@ -74,10 +74,6 @@ export const watcherImportSales = {
     },
     {
       invariantKind: "gap",
-      statement: "No temper-sale page type is filed.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A sale write refuses before reaching a file.",
     },
   ],

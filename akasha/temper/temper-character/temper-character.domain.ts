@@ -11,6 +11,7 @@ export const temperCharacter = {
     "page-type/companion-build",
     "page-type/temper-account",
     "page-type/temper-account-character",
+    "page-type/temper-build-version",
     "page-type/temper-character-role",
     "page-type/temper-character-skill-activation",
     "page-type/temper-character-thing",
