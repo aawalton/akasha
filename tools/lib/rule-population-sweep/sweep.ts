@@ -1,11 +1,14 @@
-import type { AuditReading } from "../audit-reading.ts"
-import { writeMessage } from "../message-file.ts"
-import { buildRulePopulationNotification, type EmptyRuleLine } from "./notification.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import {
+  buildRulePopulationNotification,
+  type EmptyRuleLine,
+} from "@akasha/rule-population/rule-population-notice"
 import {
   BLIND_SPOTS,
   gatherRulePopulations,
 } from "../../../infra/cluster-checks/src/audits/rule-population.ts"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import type { AuditReading } from "../audit-reading.ts"
+import { writeMessage } from "../message-file.ts"
 
 export const LOG = "[rule-population-sweep]"
 
