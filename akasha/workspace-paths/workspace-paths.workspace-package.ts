@@ -12,6 +12,7 @@ export const workspacePaths = {
     "module/workspace-bins",
     "module/workspace-bins-verifying",
     "module/stale-folders",
+    "module/tsconfig-references",
   ],
   invariants: [
     {
