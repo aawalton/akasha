@@ -2,6 +2,12 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Definition } from "../../domain-system/domains/properties/definition.text-property.ts"
 import type { Invariants } from "../../domain-system/domains/properties/invariants.record-property.ts"
+import type { HelpEnvVars } from "../commands/properties/help-env-vars.record-property.ts"
+import type { HelpExamples } from "../commands/properties/help-examples.text-property.ts"
+import type { HelpExclusions } from "../commands/properties/help-exclusions.record-property.ts"
+import type { HelpExits } from "../commands/properties/help-exits.record-property.ts"
+import type { HelpFlags } from "../commands/properties/help-flags.record-property.ts"
+import type { HelpPositionals } from "../commands/properties/help-positionals.record-property.ts"
 import type { OpsEntryFile } from "./properties/ops-entry-file.text-property.ts"
 import type { OpsHelp } from "./properties/ops-help.file-property.ts"
 import type { OpsPath } from "./properties/ops-path.text-property.ts"
@@ -11,6 +17,12 @@ export type OpsCommand = Page & {
   opsPath: OpsPath
   opsEntryFile: OpsEntryFile
   opsHelp?: OpsHelp
+  positionals?: HelpPositionals
+  flags?: HelpFlags
+  envVars?: HelpEnvVars
+  exclusions?: HelpExclusions
+  exits?: HelpExits
+  examples?: readonly HelpExamples[]
   invariants?: Invariants
 }
 
@@ -27,6 +39,12 @@ export const opsCommand = {
     { pagePropertySlug: "ops-path", required: true, many: false },
     { pagePropertySlug: "ops-entry-file", required: true, many: false },
     { pagePropertySlug: "ops-help", required: false, many: false },
+    { pagePropertySlug: "help-positionals", required: false, many: true, max: null },
+    { pagePropertySlug: "help-flags", required: false, many: true, max: null },
+    { pagePropertySlug: "help-env-vars", required: false, many: true, max: null },
+    { pagePropertySlug: "help-exclusions", required: false, many: true, max: null },
+    { pagePropertySlug: "help-exits", required: false, many: true, max: null },
+    { pagePropertySlug: "help-examples", required: false, many: true, max: null },
     { pagePropertySlug: "invariants", required: false, many: true, max: null },
   ],
   mortal: true,
@@ -44,12 +62,20 @@ export const opsCommand = {
       statement: "A page carrying no help prose adds nothing to what its command prints.",
     },
     {
+      invariantKind: "departure",
+      statement: "What the command takes is carried here in the same shape a command page uses.",
+    },
+    {
       invariantKind: "gap",
-      statement: "The code each of these commands runs is in akasha.",
+      statement: "The code an ops command runs is in akasha.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A page here carries the argument shape the entry file declares.",
     },
     {
       invariantKind: "departure",
-      statement: "A page here goes when the command it documents goes.",
+      statement: "A page here goes when the command the page documents goes.",
     },
   ],
 } as const satisfies PageType

@@ -11,6 +11,7 @@ export const commandSystem = {
     "page-type/ops-command",
     "list/ops-namespaces-to-review",
     "module/calling",
+    "module/command-declaring",
     "module/landing",
     "module/cli",
     "module/asking",
