@@ -510,6 +510,14 @@
     "akasha/location-traces-access": {
       "name": "@akasha/location-traces-access",
     },
+    "akasha/migration-system": {
+      "name": "@akasha/migration-system",
+      "dependencies": {
+        "@akasha/command-system": "workspace:*",
+        "@akasha/git": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+      },
+    },
     "akasha/mobile-cli": {
       "name": "@akasha/mobile-cli",
       "dependencies": {
@@ -3203,6 +3211,8 @@
     "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:akasha/location-traces-access"],
+
+    "@akasha/migration-system": ["@akasha/migration-system@workspace:akasha/migration-system"],
 
     "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:akasha/mobile-cli"],
 

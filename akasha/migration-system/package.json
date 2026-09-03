@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/migration-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./migration-landing": "./landing/migration-landing.module.code.ts",
+    "./migration-reach": "./reach/migration-reach.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/command-system": "workspace:*",
+    "@akasha/git": "workspace:*",
+    "@akasha/pages-system": "workspace:*"
+  }
+}

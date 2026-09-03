@@ -38,6 +38,7 @@ export const akasha = {
     "workspace-package/agents",
     "domain/required-reading",
     "domain/akasha-migration",
+    "workspace-package/migration-system",
     "workspace-package/person-system",
     "workspace-package/service-system",
     "domain/alan",
