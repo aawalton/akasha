@@ -42,21 +42,21 @@ export function caldataEventToPageProps(event: CaldataEvent, ctx: MapContext): E
   const props: EventRow = {
     slug: event.id,
     title: buildTitle(event),
-    "external-id": event.id,
-    "all-day": nonEmpty(event.time_string) === "All day",
-    "registration-required": event.allow_reg === "1",
-    "age-groups": event.agesArray ?? [],
-    "event-types": event.tagsArray ?? [],
+    externalId: event.id,
+    allDay: nonEmpty(event.time_string) === "All day",
+    registrationRequired: event.allow_reg === "1",
+    ageGroups: event.agesArray ?? [],
+    eventTypes: event.tagsArray ?? [],
     tags: event.search_tagsArray ?? [],
-    "last-synced-at": new Date(ctx.nowMs).toISOString(),
+    lastSyncedAt: new Date(ctx.nowMs).toISOString(),
   }
 
   const startAt = zonedWallClockToInstant(event.raw_start_time, ctx.timeZone)
-  if (startAt != null) props["start-at"] = new Date(startAt).toISOString()
+  if (startAt != null) props.startAt = new Date(startAt).toISOString()
 
   const endAt =
     event.raw_end_time != null ? zonedWallClockToInstant(event.raw_end_time, ctx.timeZone) : null
-  if (endAt != null) props["end-at"] = new Date(endAt).toISOString()
+  if (endAt != null) props.endAt = new Date(endAt).toISOString()
 
   const description = nonEmpty(event.long_description) ?? nonEmpty(event.description)
   if (description != null) props.description = description
@@ -65,21 +65,21 @@ export function caldataEventToPageProps(event: CaldataEvent, ctx: MapContext): E
   if (location != null) props.location = location
 
   const externalLink = asHttpUrl(event.url)
-  if (externalLink != null) props["external-link"] = externalLink
+  if (externalLink != null) props.externalLink = externalLink
 
   const imageUrl = buildImageUrl(event, ctx.providerClient)
-  if (imageUrl != null) props["image-url"] = imageUrl
+  if (imageUrl != null) props.imageUrl = imageUrl
 
   if (event.allow_reg === "1") {
     const regOpens =
       event.reg_opens != null ? zonedWallClockToInstant(event.reg_opens, ctx.timeZone) : null
-    if (regOpens != null) props["registration-opens-at"] = new Date(regOpens).toISOString()
+    if (regOpens != null) props.registrationOpensAt = new Date(regOpens).toISOString()
     const regUrl = asHttpUrl(event.reg_url)
-    if (regUrl != null) props["registration-url"] = regUrl
+    if (regUrl != null) props.registrationUrl = regUrl
   }
 
   const maxAttendee = Number(nonEmpty(event.max_attendee) ?? "0")
-  if (Number.isFinite(maxAttendee) && maxAttendee > 0) props["max-attendees"] = maxAttendee
+  if (Number.isFinite(maxAttendee) && maxAttendee > 0) props.maxAttendees = maxAttendee
 
   return props
 }
