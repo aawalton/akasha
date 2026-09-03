@@ -17,6 +17,7 @@
     "./code-tokens": "./code-tokens/code-tokens.module.code.ts",
     "./code-typing": "./code-typing/code-typing.module.code.ts",
     "./file-kind": "./file-kind/file-kind.module.code.ts",
+    "./file-kind-bytes": "./file-kind-bytes/file-kind-bytes.module.code.ts",
     "./eso-addon": "./eso-addons/eso-addon.page-type.ts",
     "./eso-addon/bindings": "./eso-addons/properties/bindings.named-file-property.ts",
     "./eso-interface": "./eso-interfaces/eso-interface.page-type.ts",

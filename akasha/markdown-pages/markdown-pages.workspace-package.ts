@@ -15,8 +15,6 @@ export const markdownPages = {
     "module/markdown-document-template",
     "module/markdown-document-tokens",
     "module/markdown-document-value",
-    "module/markdown-file-carries-bytes",
-    "module/markdown-file-name-pattern",
     "module/markdown-file-tree",
     "module/markdown-frontmatter",
     "module/markdown-glob",

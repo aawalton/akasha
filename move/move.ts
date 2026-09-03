@@ -1,4 +1,5 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
+import { carriesBytes } from "@akasha/code-system/file-kind-bytes"
 import { decodeUtf8, leadingBytes } from "@akasha/code-system/utf8-body"
 import {
   type Carry,
@@ -6,7 +7,6 @@ import {
   LandingRefused,
   land,
 } from "@akasha/command-system/harness-landing"
-import { carriesBytes } from "@akasha/markdown-pages/file-carries-bytes"
 import { pagesOfSidecar, sidecarCarriedTo, sidecarsOf } from "@akasha/markdown-pages/sidecar"
 import { trackedIn, untrackedIn } from "@akasha/markdown-pages/tracked"
 import { isDirty, rootsHere, targetRepo, targetRoot } from "@akasha/pages-system/checkout-roots"
@@ -146,12 +146,12 @@ export function validatePairs(
       const body = decodeUtf8(bytes)
       if (body === null) {
         refusals.push(
-          `${from} is not UTF-8 text and its extension names no file kind stating \`binary: true\`, ` +
+          `${from} is not UTF-8 text and its name says no kind of file that is bytes, ` +
             `so nothing here can read what names it or carry it — it begins ${leadingBytes(bytes)}`
         )
       } else if (body.includes(NUL)) {
         refusals.push(
-          `${from} holds a NUL byte and its extension names no file kind stating \`binary: true\`, ` +
+          `${from} holds a NUL byte and its name says no kind of file that is bytes, ` +
             "so the survey that reads what names a path passes over it, and its body would be taken " +
             "away without landing anywhere — take the NUL out of the source"
         )

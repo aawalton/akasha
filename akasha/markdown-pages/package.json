@@ -11,8 +11,6 @@
     "./document-template": "./markdown-document-template/markdown-document-template.module.code.ts",
     "./document-tokens": "./markdown-document-tokens/markdown-document-tokens.module.code.ts",
     "./document-value": "./markdown-document-value/markdown-document-value.module.code.ts",
-    "./file-carries-bytes": "./markdown-file-carries-bytes/markdown-file-carries-bytes.module.code.ts",
-    "./file-name-pattern": "./markdown-file-name-pattern/markdown-file-name-pattern.module.code.ts",
     "./file-tree": "./markdown-file-tree/markdown-file-tree.module.code.ts",
     "./frontmatter": "./markdown-frontmatter/markdown-frontmatter.module.code.ts",
     "./glob": "./markdown-glob/markdown-glob.module.code.ts",
