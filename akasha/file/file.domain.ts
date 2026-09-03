@@ -5,6 +5,7 @@ export const file = {
   pageTypeSlug: "domain",
   slug: "file",
   definition: "a file in the `akasha` folder",
+  partSlugs: ["domain/folder-path"],
   invariants: [
     {
       invariantKind: "departure",

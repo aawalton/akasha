@@ -16,6 +16,7 @@ export const domainSystem = {
     "page-type/taboo-term",
     "page-type/sentence-shape",
     "workspace-package/plain-language",
+    "domain/purpose",
   ],
   invariants: [
     {

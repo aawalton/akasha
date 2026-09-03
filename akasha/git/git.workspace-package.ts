@@ -7,6 +7,7 @@ export const git = {
   definition: "git run in a repository, and what it said",
   manifest: "json",
   partSlugs: [
+    "domain/oid",
     "module/git-running",
     "module/git-answering",
     "module/porcelain-status",
