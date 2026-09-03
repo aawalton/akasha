@@ -6,16 +6,16 @@ const FROM = "2026-09-01T13:00:00.000Z"
 
 const TO = "2026-09-02T13:00:00.000Z"
 
-const ate = (grams: unknown) => ({ values: { id: "one", "plant-grams": grams } })
+const ate = (grams: unknown) => ({ values: { id: "one", plantGrams: grams } })
 
 test("the entries asked for are the food entries inside the window handed in", () => {
   const query = entriesBetween(FROM, TO) as Record<string, unknown>
-  expect(query["page-type"]).toBe("food-entry")
-  expect(query.where).toEqual({ "happened-at": { "at-or-after": FROM, before: TO } })
+  expect(query["pageTypeSlug"]).toBe("food-entry")
+  expect(query.where).toEqual({ happenedAt: { "at-or-after": FROM, before: TO } })
 })
 
 test("the grams are asked for beside the id that names the entry", () => {
-  expect((entriesBetween(FROM, TO) as Record<string, unknown>).keys).toEqual(["id", "plant-grams"])
+  expect((entriesBetween(FROM, TO) as Record<string, unknown>).keys).toEqual(["id", "plantGrams"])
 })
 
 test("the reading is every entry's grams added together", () => {

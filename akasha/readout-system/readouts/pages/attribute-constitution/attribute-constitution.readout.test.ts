@@ -10,7 +10,7 @@ const FROM = "2026-09-01T13:00:00.000Z"
 
 const TO = "2026-09-02T13:00:00.000Z"
 
-const ate = (grams: unknown) => ({ values: { id: "one", "plant-grams": grams } })
+const ate = (grams: unknown) => ({ values: { id: "one", plantGrams: grams } })
 
 test("a hundred grams of whole plants eaten is one point", () => {
   expect(GRAMS_TO_THE_POINT).toBe(100)

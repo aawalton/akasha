@@ -8,9 +8,16 @@
 // The reach differs from the safety and surplus tiles beside it. Those two read one row off the
 // tracking day. Plants is not a field on a day at all: it is a sum over the `food-entry` pages,
 // one file per thing eaten, and the day it counts to is worked out from the instant each entry
-// happened at. So this asks the checkout engine directly rather than going through
+// happened at. So this asks the checkout directly rather than going through
 // `tools/lib/tracking/day-place.ts`, which speaks for days and sessions and holds nothing about
 // food.
+//
+// A food entry is an akasha page, so it is asked for with `asking`, which reads this checkout in
+// this process and refuses both a page type the index does not hold and a key the page type does
+// not declare. That refusal is the point of choosing it. What stood here handed the readout the
+// markdown query client, and that client holds no `food-entry` page type: it answered `ok` with no
+// rows and no error, so this tile read zero every five minutes while 87 food entries stood in
+// akasha, and Alan saw a black tile that was measuring nothing.
 //
 // The window is the one the old saved query named as `wake-day`: from the hour Alan rose to the
 // hour he rises next. `wakeDayOf` settles which day the current instant belongs to, since an
@@ -19,23 +26,36 @@
 // Zero is a reading here, unlike on the surplus tile. A surplus of zero came out of subtracting
 // two absent halves and read as a healthy rung, so it had to be refused. Plant grams of zero come
 // out of counting nothing, and the lowest rung on the scale sits at forty, so a day that has begun
-// with nothing eaten shows dark — which is true.
+// with nothing eaten shows dark — which is true. That is also why the silent zero above hid for as
+// long as it did: on a morning before Alan has eaten, the blind reading and the true reading are
+// the same number.
 //
 // The count itself is never printed. It says what Alan has and has not eaten, and a service log is
 // the wrong place for that.
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { asking } from "@akasha/pages-system-service/asking"
+import type { Asking } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { fetchPlantGrams } from "@akasha/readout-system/upkeep-plants"
-import { askComposed } from "../tools/lib/page-query-client.ts"
 import { wakeDayOf, wakeDayWindow } from "../tools/lib/wake-day.ts"
 
 export const READOUT_PAGE =
   "akasha/readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
 
+/** The checkout, asked as a readout asks: a refusal is an answer that is not ok rather than a throw. */
+export function askingIn(root: string): Asking {
+  return async (query) => {
+    const asked = asking(root, query as never)
+    if ("refused" in asked) return { ok: false, why: asked.refused }
+    return { ok: true, rows: asked.rows.map((values) => ({ values })) }
+  }
+}
+
 export async function takeReading(root: string, now: Date = new Date()): Promise<number> {
   const here = resolveRoots()
   const window = wakeDayWindow(here, wakeDayOf(here, now))
-  const grams = await fetchPlantGrams(askComposed, window.from, window.to)
+  const checkout = (here as unknown as Readonly<Record<string, string>>)[AKASHA] ?? root
+  const grams = await fetchPlantGrams(askingIn(checkout), window.from, window.to)
   keepReading(root, READOUT_PAGE, grams, now)
   return grams
 }

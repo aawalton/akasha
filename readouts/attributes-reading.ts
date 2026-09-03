@@ -34,7 +34,7 @@
 // The points themselves are never printed. They say what Alan did and did not do today, and a
 // service log is the wrong place for that.
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { charismaIn } from "@akasha/readout-system/attribute-charisma"
 import { fetchConstitutionPoints } from "@akasha/readout-system/attribute-constitution"
 import { enduranceIn } from "@akasha/readout-system/attribute-endurance"
@@ -43,9 +43,9 @@ import { strengthIn } from "@akasha/readout-system/attribute-strength"
 import { wisdomIn } from "@akasha/readout-system/attribute-wisdom"
 import type { Row } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
-import { askComposed } from "../tools/lib/page-query-client.ts"
 import { askDayByDate, sessionsOfDay } from "../tools/lib/tracking/day-place.ts"
 import { wakeDayOf, wakeDayWindow } from "../tools/lib/wake-day.ts"
+import { askingIn } from "./plants-reading.ts"
 
 const READOUTS = "akasha/readout-system/readouts/pages"
 
@@ -112,11 +112,23 @@ async function charismaOf(day: Readonly<Record<string, unknown>>): Promise<numbe
   return charismaIn(stretches.map(spelledBack))
 }
 
-/** The points of the whole plants eaten since Alan rose, counted over the window he rose in. */
+/**
+ * The points of the whole plants eaten since Alan rose, counted over the window he rose in.
+ *
+ * Asked through `asking` rather than through the markdown query client that stood here. That
+ * client holds no `food-entry` page type and answered no rows without refusing, so this tile read
+ * zero constitution every five minutes while 87 food entries stood in akasha.
+ */
 function constitutionOf(now: Date): Promise<number> {
   const here = resolveRoots()
   const window = wakeDayWindow(here, wakeDayOf(here, now))
-  return fetchConstitutionPoints(askComposed, window.from, window.to)
+  const checkout = (here as unknown as Readonly<Record<string, string>>)[AKASHA]
+  if (checkout === undefined || checkout === "") {
+    throw new Error(
+      "no akasha checkout stands here, so the plants Alan ate are unknown rather than none"
+    )
+  }
+  return fetchConstitutionPoints(askingIn(checkout), window.from, window.to)
 }
 
 /**
