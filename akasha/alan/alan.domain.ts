@@ -11,6 +11,7 @@ export const alan = {
     "domain/fitness",
     "domain/library",
     "domain/music",
+    "domain/relating",
     "domain/self",
     "domain/tracking",
     "router-app/alan-atlas-web",
