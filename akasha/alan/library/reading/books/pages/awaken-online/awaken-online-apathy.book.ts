@@ -13,7 +13,7 @@ export const awakenOnlineApathy = {
   ownLength: 85500,
   ownProgress: 85500,
   publishedAt: "2018-07-26",
-  partOfSlugs: ["awaken-online"],
+  partOfSlugs: ["book-series/awaken-online"],
   source: "kindle",
   externalId: "B07FY3Z5Z3",
   externalLink: "https://amazon.com/dp/B07FY3Z5Z3",

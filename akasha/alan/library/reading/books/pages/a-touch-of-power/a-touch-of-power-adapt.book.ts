@@ -13,7 +13,7 @@ export const aTouchOfPowerAdapt = {
   ownLength: 134000,
   ownProgress: 134000,
   publishedAt: "2025-06-25",
-  partOfSlugs: ["a-touch-of-power"],
+  partOfSlugs: ["book-series/a-touch-of-power"],
   source: "kindle",
   externalId: "B0FFPHGXQ2",
   externalLink: "https://amazon.com/dp/B0FFPHGXQ2",

@@ -12,7 +12,7 @@ export const chrysalisFatedAntagonist = {
   ownLength: 197500,
   ownProgress: 197500,
   publishedAt: "2025-06-18",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["book-series/chrysalis"],
   source: "kindle",
   externalId: "B0F63LL1WH",
   externalLink: "https://amazon.com/dp/B0F63LL1WH",

@@ -13,7 +13,7 @@ export const levelingUpTheWorld5 = {
   ownLength: 137000,
   ownProgress: 137000,
   publishedAt: "2023-10-17",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["book-series/leveling-up-the-world"],
   source: "kindle",
   externalId: "B0C6FMM2GC",
   externalLink: "https://amazon.com/dp/B0C6FMM2GC",

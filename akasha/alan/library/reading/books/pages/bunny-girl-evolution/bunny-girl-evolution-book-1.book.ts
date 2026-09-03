@@ -13,7 +13,7 @@ export const bunnyGirlEvolutionBook1 = {
   ownLength: 157000,
   ownProgress: 157000,
   publishedAt: "2025-07-01",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["book-series/bunny-girl-evolution"],
   source: "kindle",
   externalId: "B0F9NR9G4D",
   externalLink: "https://amazon.com/dp/B0F9NR9G4D",

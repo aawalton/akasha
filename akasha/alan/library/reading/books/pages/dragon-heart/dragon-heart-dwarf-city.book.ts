@@ -12,7 +12,7 @@ export const dragonHeartDwarfCity = {
   ownLength: 102250,
   ownProgress: 102250,
   publishedAt: "2022-03-05",
-  partOfSlugs: ["dragon-heart"],
+  partOfSlugs: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B09MQZYN75",
   externalLink: "https://amazon.com/dp/B09MQZYN75",

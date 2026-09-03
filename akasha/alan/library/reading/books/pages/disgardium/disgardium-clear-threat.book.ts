@@ -11,7 +11,7 @@ export const disgardiumClearThreat = {
   position: 10,
   ownLength: 137750,
   publishedAt: "2022-02-25",
-  partOfSlugs: ["disgardium"],
+  partOfSlugs: ["book-series/disgardium"],
   source: "kindle",
   externalId: "B09MMJJHVG",
   externalLink: "https://amazon.com/dp/B09MMJJHVG",

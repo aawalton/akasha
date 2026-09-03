@@ -12,7 +12,7 @@ export const dungeonCrawlerCarlCarlsDoomsdayScenario = {
   position: 2,
   ownLength: 91000,
   publishedAt: "2021-01-06",
-  partOfSlugs: ["dungeon-crawler-carl"],
+  partOfSlugs: ["book-series/dungeon-crawler-carl"],
   source: "kindle",
   externalId: "B08PBCD9Y7",
   externalLink: "https://amazon.com/dp/B08PBCD9Y7",

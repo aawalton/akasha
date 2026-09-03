@@ -13,7 +13,7 @@ export const cradleBlackflame = {
   ownLength: 92250,
   ownProgress: 92250,
   publishedAt: "2017-04-30",
-  partOfSlugs: ["cradle"],
+  partOfSlugs: ["book-series/cradle"],
   source: "kindle",
   externalId: "B0716GZ8QX",
   externalLink: "https://amazon.com/dp/B0716GZ8QX",

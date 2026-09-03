@@ -12,7 +12,7 @@ export const beneathTheDragoneyeMoonsReturnToRemus = {
   ownLength: 121500,
   ownProgress: 121500,
   publishedAt: "2025-01-20",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["book-series/beneath-the-dragoneye-moons"],
   source: "kindle",
   externalId: "B0DTKFTVYF",
   externalLink: "https://amazon.com/dp/B0DTKFTVYF",

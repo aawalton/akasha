@@ -13,7 +13,7 @@ export const anOutcastInAnotherWorld5 = {
   ownLength: 182500,
   ownProgress: 182500,
   publishedAt: "2023-08-16",
-  partOfSlugs: ["an-outcast-in-another-world"],
+  partOfSlugs: ["book-series/an-outcast-in-another-world"],
   source: "kindle",
   externalId: "B0CC74Z2VT",
   externalLink: "https://amazon.com/dp/B0CC74Z2VT",

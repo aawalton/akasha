@@ -13,7 +13,7 @@ export const aThousandLiTheFourthFall = {
   ownLength: 119250,
   ownProgress: 119250,
   publishedAt: "2024-11-01",
-  partOfSlugs: ["a-thousand-li"],
+  partOfSlugs: ["book-series/a-thousand-li"],
   source: "kindle",
   externalId: "B0CW173YZX",
   externalLink: "https://amazon.com/dp/B0CW173YZX",

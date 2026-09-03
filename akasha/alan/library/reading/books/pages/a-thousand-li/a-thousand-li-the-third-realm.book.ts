@@ -13,7 +13,7 @@ export const aThousandLiTheThirdRealm = {
   ownLength: 125250,
   ownProgress: 125250,
   publishedAt: "2023-02-01",
-  partOfSlugs: ["a-thousand-li"],
+  partOfSlugs: ["book-series/a-thousand-li"],
   source: "kindle",
   externalId: "B0B4PW3V2D",
   externalLink: "https://amazon.com/dp/B0B4PW3V2D",

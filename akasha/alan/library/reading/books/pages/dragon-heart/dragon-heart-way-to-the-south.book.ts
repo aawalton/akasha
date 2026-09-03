@@ -12,7 +12,7 @@ export const dragonHeartWayToTheSouth = {
   position: 18,
   ownLength: 113750,
   publishedAt: "2023-04-05",
-  partOfSlugs: ["dragon-heart"],
+  partOfSlugs: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B0BNFF5J6F",
   externalLink: "https://amazon.com/dp/B0BNFF5J6F",

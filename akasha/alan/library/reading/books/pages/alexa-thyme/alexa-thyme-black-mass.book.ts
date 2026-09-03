@@ -12,7 +12,7 @@ export const alexaThymeBlackMass = {
   ownLength: 145000,
   ownProgress: 145000,
   publishedAt: "2025-05-26",
-  partOfSlugs: ["alexa-thyme"],
+  partOfSlugs: ["book-series/alexa-thyme"],
   source: "kindle",
   externalId: "B0F4NV1Y3T",
   externalLink: "https://amazon.com/dp/B0F4NV1Y3T",

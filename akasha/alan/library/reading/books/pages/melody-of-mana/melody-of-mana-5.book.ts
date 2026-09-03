@@ -13,7 +13,7 @@ export const melodyOfMana5 = {
   ownLength: 52250,
   ownProgress: 52250,
   publishedAt: "2024-03-12",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["book-series/melody-of-mana"],
   source: "kindle",
   externalId: "B0CP4W7S7P",
   externalLink: "https://amazon.com/dp/B0CP4W7S7P",

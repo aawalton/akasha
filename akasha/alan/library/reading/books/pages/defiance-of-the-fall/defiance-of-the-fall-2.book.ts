@@ -13,7 +13,7 @@ export const defianceOfTheFall2 = {
   ownLength: 184500,
   ownProgress: 184500,
   publishedAt: "2021-08-10",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["book-series/defiance-of-the-fall"],
   source: "kindle",
   externalId: "B095DW9BYV",
   externalLink: "https://amazon.com/dp/B095DW9BYV",

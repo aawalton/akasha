@@ -12,7 +12,7 @@ export const guardianOfAsterFallPathOfStars = {
   ownLength: 134250,
   ownProgress: 134250,
   publishedAt: "2023-03-17",
-  partOfSlugs: ["guardian-of-aster-fall"],
+  partOfSlugs: ["book-series/guardian-of-aster-fall"],
   source: "kindle",
   externalId: "B0BJZFJ9D5",
   externalLink: "https://amazon.com/dp/B0BJZFJ9D5",

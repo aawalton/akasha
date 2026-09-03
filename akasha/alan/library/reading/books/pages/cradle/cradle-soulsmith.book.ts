@@ -13,7 +13,7 @@ export const cradleSoulsmith = {
   ownLength: 70500,
   ownProgress: 70500,
   publishedAt: "2016-09-26",
-  partOfSlugs: ["cradle"],
+  partOfSlugs: ["book-series/cradle"],
   source: "kindle",
   externalId: "B01M09PWJQ",
   externalLink: "https://amazon.com/dp/B01M09PWJQ",

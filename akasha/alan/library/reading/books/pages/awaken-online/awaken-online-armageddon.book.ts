@@ -12,7 +12,7 @@ export const awakenOnlineArmageddon = {
   ownLength: 161250,
   ownProgress: 161250,
   publishedAt: "2022-10-01",
-  partOfSlugs: ["awaken-online"],
+  partOfSlugs: ["book-series/awaken-online"],
   source: "kindle",
   externalId: "B0B9D9QHLS",
   externalLink: "https://amazon.com/dp/B0B9D9QHLS",

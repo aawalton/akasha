@@ -13,7 +13,7 @@ export const beneathTheDragoneyeMoonsOathboundHealer = {
   ownLength: 114750,
   ownProgress: 114750,
   publishedAt: "2025-01-16",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["book-series/beneath-the-dragoneye-moons"],
   source: "kindle",
   externalId: "B0DT8T73PQ",
   externalLink: "https://amazon.com/dp/B0DT8T73PQ",

@@ -11,7 +11,7 @@ export const disgardiumGloryToTheDominion = {
   position: 9,
   ownLength: 126750,
   publishedAt: "2021-11-04",
-  partOfSlugs: ["disgardium"],
+  partOfSlugs: ["book-series/disgardium"],
   source: "kindle",
   externalId: "B09C2KR6V6",
   externalLink: "https://amazon.com/dp/B09C2KR6V6",

@@ -13,7 +13,7 @@ export const cradleUnderlord = {
   ownLength: 100000,
   ownProgress: 100000,
   publishedAt: "2019-03-01",
-  partOfSlugs: ["cradle"],
+  partOfSlugs: ["book-series/cradle"],
   source: "kindle",
   externalId: "B07NJ3B6HN",
   externalLink: "https://amazon.com/dp/B07NJ3B6HN",

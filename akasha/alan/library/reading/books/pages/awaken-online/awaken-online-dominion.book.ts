@@ -13,7 +13,7 @@ export const awakenOnlineDominion = {
   ownLength: 200250,
   ownProgress: 200250,
   publishedAt: "2019-02-26",
-  partOfSlugs: ["awaken-online"],
+  partOfSlugs: ["book-series/awaken-online"],
   source: "kindle",
   externalId: "B07PB6NDPX",
   externalLink: "https://amazon.com/dp/B07PB6NDPX",

@@ -12,7 +12,7 @@ export const endsOfMagicAnarchist = {
   ownLength: 91000,
   ownProgress: 91000,
   publishedAt: "2024-08-16",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["book-series/ends-of-magic"],
   source: "kindle",
   externalId: "B0D47TCCBW",
   externalLink: "https://amazon.com/dp/B0D47TCCBW",

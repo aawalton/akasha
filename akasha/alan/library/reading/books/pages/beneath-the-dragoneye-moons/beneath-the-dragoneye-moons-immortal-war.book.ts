@@ -13,7 +13,7 @@ export const beneathTheDragoneyeMoonsImmortalWar = {
   ownLength: 118500,
   ownProgress: 118500,
   publishedAt: "2025-02-24",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["book-series/beneath-the-dragoneye-moons"],
   source: "kindle",
   externalId: "B0DT7FXDVG",
   externalLink: "https://amazon.com/dp/B0DT7FXDVG",

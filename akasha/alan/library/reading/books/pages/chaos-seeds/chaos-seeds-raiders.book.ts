@@ -13,7 +13,7 @@ export const chaosSeedsRaiders = {
   ownLength: 127500,
   ownProgress: 127500,
   publishedAt: "2017-01-28",
-  partOfSlugs: ["chaos-seeds"],
+  partOfSlugs: ["book-series/chaos-seeds"],
   source: "kindle",
   externalId: "B01N38VFHJ",
   externalLink: "https://amazon.com/dp/B01N38VFHJ",

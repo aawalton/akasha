@@ -13,7 +13,7 @@ export const dragonHeartSeaOfSand = {
   ownLength: 73500,
   ownProgress: 73500,
   publishedAt: "2019-12-18",
-  partOfSlugs: ["dragon-heart"],
+  partOfSlugs: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B07YYMPG14",
   externalLink: "https://amazon.com/dp/B07YYMPG14",

@@ -12,7 +12,7 @@ export const dungeonCrawlerCarlBook1 = {
   position: 1,
   ownLength: 111500,
   publishedAt: "2020-10-02",
-  partOfSlugs: ["dungeon-crawler-carl"],
+  partOfSlugs: ["book-series/dungeon-crawler-carl"],
   source: "kindle",
   externalId: "B08BKGYQXW",
   externalLink: "https://amazon.com/dp/B08BKGYQXW",

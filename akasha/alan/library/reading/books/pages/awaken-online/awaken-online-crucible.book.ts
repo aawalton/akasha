@@ -11,7 +11,7 @@ export const awakenOnlineCrucible = {
   position: 12,
   ownLength: 228000,
   publishedAt: "2026-03-01",
-  partOfSlugs: ["awaken-online"],
+  partOfSlugs: ["book-series/awaken-online"],
   source: "kindle",
   externalId: "B0GD8QJM1Q",
   externalLink: "https://amazon.com/dp/B0GD8QJM1Q",

@@ -13,7 +13,7 @@ export const cradleBloodline = {
   ownLength: 500000,
   ownProgress: 500000,
   publishedAt: "2021-04-06",
-  partOfSlugs: ["cradle"],
+  partOfSlugs: ["book-series/cradle"],
   source: "kindle",
   externalId: "B08ZS19WWY",
   externalLink: "https://amazon.com/dp/B08ZS19WWY",

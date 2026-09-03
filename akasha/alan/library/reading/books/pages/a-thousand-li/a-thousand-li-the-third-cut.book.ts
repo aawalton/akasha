@@ -13,7 +13,7 @@ export const aThousandLiTheThirdCut = {
   ownLength: 115250,
   ownProgress: 115250,
   publishedAt: "2023-08-01",
-  partOfSlugs: ["a-thousand-li"],
+  partOfSlugs: ["book-series/a-thousand-li"],
   source: "kindle",
   externalId: "B0BT38XST3",
   externalLink: "https://amazon.com/dp/B0BT38XST3",

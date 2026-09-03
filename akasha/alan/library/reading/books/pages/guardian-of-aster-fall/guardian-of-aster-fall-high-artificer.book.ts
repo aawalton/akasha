@@ -12,7 +12,7 @@ export const guardianOfAsterFallHighArtificer = {
   ownLength: 134000,
   ownProgress: 134000,
   publishedAt: "2025-01-29",
-  partOfSlugs: ["guardian-of-aster-fall"],
+  partOfSlugs: ["book-series/guardian-of-aster-fall"],
   source: "kindle",
   externalId: "B0DGW4WMN8",
   externalLink: "https://amazon.com/dp/B0DGW4WMN8",

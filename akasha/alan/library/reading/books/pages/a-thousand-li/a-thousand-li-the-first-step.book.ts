@@ -13,7 +13,7 @@ export const aThousandLiTheFirstStep = {
   ownLength: 76750,
   ownProgress: 76750,
   publishedAt: "2019-04-02",
-  partOfSlugs: ["a-thousand-li"],
+  partOfSlugs: ["book-series/a-thousand-li"],
   source: "kindle",
   externalId: "B07PKGSDDQ",
   externalLink: "https://amazon.com/dp/B07PKGSDDQ",

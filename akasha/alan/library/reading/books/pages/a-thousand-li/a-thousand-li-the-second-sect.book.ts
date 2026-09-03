@@ -13,7 +13,7 @@ export const aThousandLiTheSecondSect = {
   ownLength: 100750,
   ownProgress: 100750,
   publishedAt: "2021-06-01",
-  partOfSlugs: ["a-thousand-li"],
+  partOfSlugs: ["book-series/a-thousand-li"],
   source: "kindle",
   externalId: "B092RMQ97X",
   externalLink: "https://amazon.com/dp/B092RMQ97X",

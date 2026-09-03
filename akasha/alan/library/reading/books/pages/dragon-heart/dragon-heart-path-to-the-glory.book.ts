@@ -12,7 +12,7 @@ export const dragonHeartPathToTheGlory = {
   ownLength: 95250,
   ownProgress: 95250,
   publishedAt: "2021-08-25",
-  partOfSlugs: ["dragon-heart"],
+  partOfSlugs: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B096T17XP3",
   externalLink: "https://amazon.com/dp/B096T17XP3",

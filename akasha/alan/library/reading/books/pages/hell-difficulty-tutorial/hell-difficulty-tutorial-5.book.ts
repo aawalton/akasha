@@ -11,7 +11,7 @@ export const hellDifficultyTutorial5 = {
   position: 5,
   ownLength: 169500,
   publishedAt: "2025-07-02",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["book-series/hell-difficulty-tutorial"],
   source: "kindle",
   externalId: "B0DYPGVRSM",
   externalLink: "https://amazon.com/dp/B0DYPGVRSM",

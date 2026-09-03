@@ -13,7 +13,7 @@ export const chaosSeedsPredators = {
   ownLength: 354750,
   ownProgress: 354750,
   publishedAt: "2018-02-16",
-  partOfSlugs: ["chaos-seeds"],
+  partOfSlugs: ["book-series/chaos-seeds"],
   source: "kindle",
   externalId: "B079WCFZB8",
   externalLink: "https://amazon.com/dp/B079WCFZB8",

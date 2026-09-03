@@ -12,7 +12,7 @@ export const bushidoOnlineTheBattleBegins = {
   ownLength: 82250,
   ownProgress: 82250,
   publishedAt: "2017-08-31",
-  partOfSlugs: ["bushido-online"],
+  partOfSlugs: ["book-series/bushido-online"],
   source: "kindle",
   externalId: "B0759XBQNW",
   externalLink: "https://amazon.com/dp/B0759XBQNW",

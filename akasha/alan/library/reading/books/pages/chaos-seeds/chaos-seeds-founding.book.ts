@@ -14,7 +14,7 @@ export const chaosSeedsFounding = {
   ownLength: 73750,
   ownProgress: 73750,
   publishedAt: "2015-11-20",
-  partOfSlugs: ["chaos-seeds"],
+  partOfSlugs: ["book-series/chaos-seeds"],
   source: "kindle",
   externalId: "B0172GEB68",
   externalLink: "https://amazon.com/dp/B0172GEB68",

@@ -12,7 +12,7 @@ export const guardianOfAsterFallSilverStars = {
   ownLength: 117500,
   ownProgress: 117500,
   publishedAt: "2024-09-12",
-  partOfSlugs: ["guardian-of-aster-fall"],
+  partOfSlugs: ["book-series/guardian-of-aster-fall"],
   source: "kindle",
   externalId: "B0CW69JXNC",
   externalLink: "https://amazon.com/dp/B0CW69JXNC",

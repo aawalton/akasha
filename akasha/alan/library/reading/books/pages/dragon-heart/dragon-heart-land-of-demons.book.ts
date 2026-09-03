@@ -13,7 +13,7 @@ export const dragonHeartLandOfDemons = {
   ownLength: 114500,
   ownProgress: 114500,
   publishedAt: "2020-08-12",
-  partOfSlugs: ["dragon-heart"],
+  partOfSlugs: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B088VL8XNM",
   externalLink: "https://amazon.com/dp/B088VL8XNM",

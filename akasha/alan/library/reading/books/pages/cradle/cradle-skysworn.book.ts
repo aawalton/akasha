@@ -13,7 +13,7 @@ export const cradleSkysworn = {
   ownLength: 81000,
   ownProgress: 81000,
   publishedAt: "2017-09-30",
-  partOfSlugs: ["cradle"],
+  partOfSlugs: ["book-series/cradle"],
   source: "kindle",
   externalId: "B0762YQ2H8",
   externalLink: "https://amazon.com/dp/B0762YQ2H8",

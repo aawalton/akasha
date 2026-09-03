@@ -13,7 +13,7 @@ export const cradleWintersteel = {
   ownLength: 130500,
   ownProgress: 130500,
   publishedAt: "2020-10-06",
-  partOfSlugs: ["cradle"],
+  partOfSlugs: ["book-series/cradle"],
   source: "kindle",
   externalId: "B08JMF22F2",
   externalLink: "https://amazon.com/dp/B08JMF22F2",

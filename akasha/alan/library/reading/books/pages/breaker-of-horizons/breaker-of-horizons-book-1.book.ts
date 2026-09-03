@@ -11,7 +11,7 @@ export const breakerOfHorizonsBook1 = {
   position: 1,
   ownLength: 171000,
   publishedAt: "2022-10-18",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["book-series/breaker-of-horizons"],
   source: "kindle",
   externalId: "B0B5YBLPNB",
   externalLink: "https://amazon.com/dp/B0B5YBLPNB",

@@ -13,7 +13,7 @@ export const alexaThymeBreakingThrough = {
   ownLength: 101250,
   ownProgress: 101250,
   publishedAt: "2023-12-20",
-  partOfSlugs: ["alexa-thyme"],
+  partOfSlugs: ["book-series/alexa-thyme"],
   source: "kindle",
   externalId: "B0CQ4W3KH1",
   externalLink: "https://amazon.com/dp/B0CQ4W3KH1",

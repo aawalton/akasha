@@ -13,7 +13,7 @@ export const beneathTheDragoneyeMoonsUnderAshenSkies = {
   ownLength: 134750,
   ownProgress: 134750,
   publishedAt: "2025-01-16",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["book-series/beneath-the-dragoneye-moons"],
   source: "kindle",
   externalId: "B0DT9YVW3S",
   externalLink: "https://amazon.com/dp/B0DT9YVW3S",

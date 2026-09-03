@@ -12,7 +12,7 @@ export const chrysalisEnemyANTTheGates = {
   ownLength: 165500,
   ownProgress: 165500,
   publishedAt: "2024-01-31",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["book-series/chrysalis"],
   source: "kindle",
   externalId: "B0CM7DHMCG",
   externalLink: "https://amazon.com/dp/B0CM7DHMCG",

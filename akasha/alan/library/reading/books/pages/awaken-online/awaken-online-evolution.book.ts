@@ -13,7 +13,7 @@ export const awakenOnlineEvolution = {
   ownLength: 192250,
   ownProgress: 192250,
   publishedAt: "2018-05-23",
-  partOfSlugs: ["awaken-online"],
+  partOfSlugs: ["book-series/awaken-online"],
   source: "kindle",
   externalId: "B07D97M5MW",
   externalLink: "https://amazon.com/dp/B07D97M5MW",

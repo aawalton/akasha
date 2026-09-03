@@ -12,7 +12,7 @@ export const beneathTheDragoneyeMoonsRiseFromTheAshes = {
   ownLength: 147000,
   ownProgress: 147000,
   publishedAt: "2025-07-28",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["book-series/beneath-the-dragoneye-moons"],
   source: "kindle",
   externalId: "B0CZJ93P6V",
   externalLink: "https://amazon.com/dp/B0CZJ93P6V",

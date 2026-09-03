@@ -12,7 +12,7 @@ export const disgardiumClassAThreat = {
   ownLength: 129250,
   ownProgress: 129250,
   publishedAt: "2019-04-22",
-  partOfSlugs: ["disgardium"],
+  partOfSlugs: ["book-series/disgardium"],
   source: "kindle",
   externalId: "B07N33S8C6",
   externalLink: "https://amazon.com/dp/B07N33S8C6",

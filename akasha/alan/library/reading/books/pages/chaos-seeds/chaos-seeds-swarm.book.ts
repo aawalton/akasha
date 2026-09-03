@@ -13,7 +13,7 @@ export const chaosSeedsSwarm = {
   ownLength: 200250,
   ownProgress: 200250,
   publishedAt: "2016-10-12",
-  partOfSlugs: ["chaos-seeds"],
+  partOfSlugs: ["book-series/chaos-seeds"],
   source: "kindle",
   externalId: "B01LQOXYHY",
   externalLink: "https://amazon.com/dp/B01LQOXYHY",

@@ -11,7 +11,7 @@ export const markOfTheCrijikBook1 = {
   position: 1,
   ownLength: 104500,
   publishedAt: "2022-11-01",
-  partOfSlugs: ["mark-of-the-crijik"],
+  partOfSlugs: ["book-series/mark-of-the-crijik"],
   source: "kindle",
   externalId: "B0B5YMG52D",
   externalLink: "https://amazon.com/dp/B0B5YMG52D",
