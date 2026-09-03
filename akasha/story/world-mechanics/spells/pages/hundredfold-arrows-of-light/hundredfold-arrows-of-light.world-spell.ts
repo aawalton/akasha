@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const hundredfoldArrowsOfLight = {
   id: "01a06572-95c8-7841-8444-9696797f0fd1",

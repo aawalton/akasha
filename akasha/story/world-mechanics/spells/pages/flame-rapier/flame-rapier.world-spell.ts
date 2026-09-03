@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const flameRapier = {
   id: "01a06572-95c3-7853-919d-c8539a592259",

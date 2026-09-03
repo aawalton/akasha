@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const hastenedSpearOfLight = {
   id: "01a06572-95c8-724f-a727-25111a24fc14",

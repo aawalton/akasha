@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const handOfDeath = {
   id: "01a06572-95c8-73d6-9686-d987e6203b8e",

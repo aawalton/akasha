@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const homingFireball = {
   id: "01a06572-95c8-7593-8b20-5539b8de1839",

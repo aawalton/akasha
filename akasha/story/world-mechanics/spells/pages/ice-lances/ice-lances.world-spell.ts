@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const iceLances = {
   id: "01a06572-95c9-78b7-9908-17fda3adf081",

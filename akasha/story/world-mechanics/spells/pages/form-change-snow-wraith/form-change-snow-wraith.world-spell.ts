@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const formChangeSnowWraith = {
   id: "01a06572-95c5-7243-aa61-b9dbaefadc74",

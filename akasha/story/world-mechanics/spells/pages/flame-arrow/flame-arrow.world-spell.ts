@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const flameArrow = {
   id: "01a06572-95c3-702a-9f97-209b1c44947c",

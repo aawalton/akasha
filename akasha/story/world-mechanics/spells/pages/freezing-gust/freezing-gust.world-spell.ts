@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const freezingGust = {
   id: "01a06572-95c5-78a8-8efd-beed3ccd16fc",

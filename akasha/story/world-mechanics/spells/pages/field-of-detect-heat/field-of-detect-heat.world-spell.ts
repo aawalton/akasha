@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const fieldOfDetectHeat = {
   id: "01a06572-95c0-7a93-ac30-1f40e92165d2",

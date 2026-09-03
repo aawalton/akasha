@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const handOfTheGaleElemental = {
   id: "01a06572-95c8-7d81-a003-6c22d2cff9f9",

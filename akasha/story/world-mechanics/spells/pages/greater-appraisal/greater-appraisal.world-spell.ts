@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const greaterAppraisal = {
   id: "01a06572-95c7-780d-bddb-c9997a259f37",

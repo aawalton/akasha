@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const flareshriek = {
   id: "01a06572-95c3-7070-a6e9-cc4673844eca",

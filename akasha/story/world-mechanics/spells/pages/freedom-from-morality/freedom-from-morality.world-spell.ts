@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const freedomFromMorality = {
   id: "01a06572-95c5-7ddf-9207-7f7ad39dbe1f",

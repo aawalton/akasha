@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const forceful = {
   id: "01a06572-95c5-7b30-b96a-97a41e5df9e9",

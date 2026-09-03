@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const iceDagger = {
   id: "01a06572-95c9-73d8-bf99-cfcb59686d7a",

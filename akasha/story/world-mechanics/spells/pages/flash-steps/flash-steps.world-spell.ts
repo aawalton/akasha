@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const flashSteps = {
   id: "01a06572-95c4-714f-9d05-ac681f7070e8",

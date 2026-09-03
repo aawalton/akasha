@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const fiveAlchemiesAnchorage = {
   id: "01a06572-95c3-77a5-bc64-236a5877265a",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const growGrass = {
   id: "01a06572-95c7-777e-8656-6d313d46fd9d",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const featherfall = {
   id: "01a06572-95c0-77d6-90b8-329556563912",

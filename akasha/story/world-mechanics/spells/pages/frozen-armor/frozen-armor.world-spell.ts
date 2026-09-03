@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const frozenArmor = {
   id: "01a06572-95c5-73f9-9dd5-48c5f3b18702",

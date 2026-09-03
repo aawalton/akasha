@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const hellfirePillar = {
   id: "01a06572-95c8-7a10-b729-f222b3584ec1",

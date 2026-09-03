@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const frostWyvernSBreath = {
   id: "01a06572-95c5-7248-ae2e-ebbbe81ccbb7",

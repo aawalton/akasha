@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const greaterLightBindings = {
   id: "01a06572-95c7-7ba9-b588-8b3528f6895c",

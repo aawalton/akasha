@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const flashbang = {
   id: "01a06572-95c4-7a8d-b1b1-90d4ed903444",

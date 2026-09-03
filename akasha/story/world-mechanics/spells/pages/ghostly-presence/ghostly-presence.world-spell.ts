@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const ghostlyPresence = {
   id: "01a06572-95c6-79fe-be78-332289fcab72",

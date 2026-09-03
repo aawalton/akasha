@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const firebolts = {
   id: "01a06572-95c2-7776-a8e0-93059593fcfa",

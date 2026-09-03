@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const hiccupRemoval = {
   id: "01a06572-95c8-794e-9a1c-bc104e163f18",

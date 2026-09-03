@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const geomancy = {
   id: "01a06572-95c6-79b4-a1df-da45a5162d71",

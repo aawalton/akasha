@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const globeOfAir = {
   id: "01a06572-95c6-753f-b08a-5436ec99bbca",

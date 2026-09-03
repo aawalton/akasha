@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const haltSpell = {
   id: "01a06572-95c8-7325-988a-e4c7b8dbd145",

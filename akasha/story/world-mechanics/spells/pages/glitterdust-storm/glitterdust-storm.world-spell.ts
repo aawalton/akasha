@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const glitterdustStorm = {
   id: "01a06572-95c6-7f79-81fb-554dbd2e3a55",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const fissure = {
   id: "01a06572-95c3-741f-85f6-4b03a5ca76b6",

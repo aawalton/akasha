@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const grandFireball = {
   id: "01a06572-95c6-734a-8062-ff497688ca95",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const fireWheel = {
   id: "01a06572-95c1-7b2f-bea6-a8895a055cdb",

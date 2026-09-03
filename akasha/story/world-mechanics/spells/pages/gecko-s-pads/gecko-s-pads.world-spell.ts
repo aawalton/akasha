@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const geckoSPads = {
   id: "01a06572-95c6-7a28-b76c-db50c46139a4",

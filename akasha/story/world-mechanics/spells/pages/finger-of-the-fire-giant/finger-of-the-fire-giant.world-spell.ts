@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const fingerOfTheFireGiant = {
   id: "01a06572-95c0-7d97-9b09-0d0ad841638d",

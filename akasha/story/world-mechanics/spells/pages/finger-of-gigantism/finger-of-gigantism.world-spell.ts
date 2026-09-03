@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const fingerOfGigantism = {
   id: "01a06572-95c0-73b3-9670-380f8ecbdd09",

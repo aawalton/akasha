@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const iCallOpenTheManaforge = {
   id: "01a06572-95c9-70c3-889e-35b8c396ca92",

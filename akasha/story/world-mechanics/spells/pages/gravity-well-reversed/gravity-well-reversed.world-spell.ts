@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const gravityWellReversed = {
   id: "01a06572-95c6-7282-b771-e9758aec464c",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const greaterHealWounds = {
   id: "01a06572-95c7-7870-9002-f4098aa7e303",

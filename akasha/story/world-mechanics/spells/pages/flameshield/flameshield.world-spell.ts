@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const flameshield = {
   id: "01a06572-95c3-7e9a-8a36-44f7ea4af220",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const greaterGeas = {
   id: "01a06572-95c7-7eb4-a0d8-b0f510e9f031",

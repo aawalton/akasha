@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const flamePillar = {
   id: "01a06572-95c3-7b72-bf9b-36daed522ad6",

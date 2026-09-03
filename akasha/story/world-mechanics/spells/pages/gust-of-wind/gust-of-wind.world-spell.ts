@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const gustOfWind = {
   id: "01a06572-95c8-73ac-8c9d-d8c3437e4b57",

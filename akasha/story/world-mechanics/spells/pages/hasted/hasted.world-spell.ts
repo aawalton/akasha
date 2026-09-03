@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const hasted = {
   id: "01a06572-95c8-7ec6-9be1-fb406de73f0f",

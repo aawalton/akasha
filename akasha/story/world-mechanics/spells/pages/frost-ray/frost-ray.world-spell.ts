@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const frostRay = {
   id: "01a06572-95c5-7cdb-846d-7475ac2d36df",

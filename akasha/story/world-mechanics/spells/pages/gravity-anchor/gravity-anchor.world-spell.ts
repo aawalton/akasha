@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const gravityAnchor = {
   id: "01a06572-95c6-726e-bd8a-398e6b971e9f",

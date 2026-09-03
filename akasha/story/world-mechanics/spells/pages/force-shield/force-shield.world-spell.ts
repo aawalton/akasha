@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const forceShield = {
   id: "01a06572-95c4-7003-af85-ca8124ae8ceb",

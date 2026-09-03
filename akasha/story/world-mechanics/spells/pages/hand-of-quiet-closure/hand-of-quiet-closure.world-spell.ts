@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const handOfQuietClosure = {
   id: "01a06572-95c8-77b0-99c7-67b5afa47cd0",

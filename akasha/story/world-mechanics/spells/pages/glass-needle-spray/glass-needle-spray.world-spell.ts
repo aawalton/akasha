@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const glassNeedleSpray = {
   id: "01a06572-95c6-7648-adae-b99cc3c60496",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const flameJet = {
   id: "01a06572-95c3-71fb-92ee-d45f8bbfa0ec",

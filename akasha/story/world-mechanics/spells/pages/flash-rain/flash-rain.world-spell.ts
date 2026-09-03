@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const flashRain = {
   id: "01a06572-95c3-74cb-a853-67d73bde965c",

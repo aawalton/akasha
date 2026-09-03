@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const hammerOfTheObsidianGiant = {
   id: "01a06572-95c8-77f5-8540-05d09923cc73",

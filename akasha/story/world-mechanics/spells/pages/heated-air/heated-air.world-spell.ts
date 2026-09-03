@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const heatedAir = {
   id: "01a06572-95c8-7bee-8db5-ee740e374ab2",

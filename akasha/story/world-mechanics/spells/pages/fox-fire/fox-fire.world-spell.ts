@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const foxFire = {
   id: "01a06572-95c5-7627-9655-3db49a9bd92b",

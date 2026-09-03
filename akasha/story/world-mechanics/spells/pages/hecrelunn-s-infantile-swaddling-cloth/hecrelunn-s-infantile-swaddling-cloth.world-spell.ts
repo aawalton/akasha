@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const hecrelunnSInfantileSwaddlingCloth = {
   id: "01a06572-95c8-7d6e-bdfe-cff0c2b67ea8",
