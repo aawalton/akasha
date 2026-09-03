@@ -1,0 +1,27 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const beatSaber1Song = {
+  id: "019f0077-1ac6-75b0-9aac-45f4c44ea436",
+  pageTypeSlug: "exercise",
+  slug: "beat-saber-1-song",
+  title: "Beat Saber (1 song)",
+  exerciseCategory: "cardio",
+  equipment: "other",
+  force: "pull",
+  gripDemand: "low",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "bilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "push",
+  primaryMuscles: ["shoulders"],
+  scoringMode: "time",
+  secondaryMuscles: ["middle-back", "lats", "abdominals", "biceps", "triceps"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies Exercise

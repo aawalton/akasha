@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const abRoller = {
+  id: "019ebc75-7ad7-7001-acf4-cedee6d5d265",
+  pageTypeSlug: "exercise",
+  slug: "ab-roller",
+  title: "Ab Roller",
+  exerciseCategory: "strength",
+  equipment: "other",
+  exerciseExternalId: "Ab_Roller",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Ab_Roller",
+  force: "pull",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "core-anti-extension",
+  muscleFocus: "core",
+  primaryMuscles: ["abdominals"],
+  scoringMode: "reps",
+  secondaryMuscles: ["shoulders"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

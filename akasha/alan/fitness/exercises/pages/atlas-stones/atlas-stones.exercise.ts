@@ -1,0 +1,47 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const atlasStones = {
+  id: "019ebc76-1ac3-771d-87f5-2bcefbcd00ef",
+  pageTypeSlug: "exercise",
+  slug: "atlas-stones",
+  title: "Atlas Stones",
+  exerciseCategory: "strongman",
+  equipment: "other",
+  exerciseExternalId: "Atlas_Stones",
+  exerciseExternalLink:
+    "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Atlas_Stones",
+  force: "pull",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Atlas_Stones/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Atlas_Stones/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "expert",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "hinge",
+  muscleFocus: "pull",
+  primaryMuscles: ["lower-back"],
+  scoringMode: "reps",
+  secondaryMuscles: [
+    "abdominals",
+    "adductors",
+    "biceps",
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "middle-back",
+    "quadriceps",
+    "traps",
+  ],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise
