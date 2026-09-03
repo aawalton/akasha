@@ -14,7 +14,6 @@
     "infra/loki-service",
     "infra/scripts",
     "infra/voice-infer",
-    "infra/wan",
     "infra/workspace-cli",
     "readouts",
     "shared/vscode-typings",
