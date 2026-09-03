@@ -1,0 +1,130 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64"
+slug: 0072-chapter-64
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 72
+ownLength: 2416
+unit: words
+publishedAt: 2026-09-03
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3903886/chapter-64"
+royalRoadId: "3903886"
+---
+
+I thought I’d managed to piss off the Kadren earlier. Only that had been a case of general fury, liberally mixed with confusion and not a little fear as they learned that one of their leaders had just kicked the bucket.
+
+Now, every single Kadren within a hundred metre radius turned as one, got me in their sights, and went fucking nuts!
+
+“Spike strips done.” Haddock yelled. “Nearly out of mana. I can do the doorway and one more thing, then I’m out. What do I choose?”
+
+“Go with the funnel first, then use a Mana Coin.” I shouted. “We’ve got a few hundred pissed-off, high-level beasts incoming in the next minute and we need us some additional defenses.”
+
+Having said that, I checked my gear over, even as I walked to place myself near the final step before the platform. Just in time, too. A damn Riverkin was right there, flinging an elemental attack at me, before launching itself at my ankle, teeth-first.
+
+I tanked the elemental attack with my face, and lowered my shield, activating Deflect in the last moment. The look on its face as it went out over the railing once again was priceless. “Later, fur-bro!” I chuckled, before I settled down to defend the edge of the platform, ignoring the dull throb of pain in my forehead.
+
+Meanwhile, a fancy-looking construction emerged on the left of the highest platform. It was a funnel, intended to receive cubic meters of water and unleash it at high speeds. The opening, unsurprisingly, was aimed straight at the stairs.
+
+The next two minutes were a frantic mess. I kept Mirror of All active, making damn sure that the Kadren were pissed off enough they wouldn’t have the mental surplus to come up with some bright attack plan. Haddock erected a thin set of walls around the edge of the platform where the Kadren were starting to emerge, with only a single doorway-sized opening, reducing the area I’d have to defend.
+
+The beasts started arriving. First in ones and twos, then in a steady stream. The Riverkin, unsurprisingly, were fastest to get up and challenge us, but a good deal of Skreelings were right on their heels.
+
+I was the one in charge of dealing with the Riverkin. They were fast enough to make me dizzy, and their elemental attacks hurt, when they connected – but I’d still be able to tank them and survive for a good while – at least until our defenses were settled. One by one, they were Deflected out across the edge and twice, I managed to time a Wave of Reflection well enough that I hit a furry menace mid-air, ending their tiny lives.
+
+Nix joined the fight as the Skreelings arrived. This was one thing we’d practiced relentlessly lately, and her timing was excellent. Once the beasts were a few steps away, she’d activate Flash Flood, following which she’d use her Elementalist quirk to push the water down into the waiting funnel, accelerating the pace several times over. When the liquid emerged from the small, tennis-ball-sized opening, the end result was beyond powerful. The Skreelings shot out into open air like the ghost of Jaime Lannister had been interrupted mid-coitus and was out for revenge.
+
+Nix tittered, wide-eyed, even as her gaze was fixed on the steps below. “That’s amazing! If I just activate Flash Flood for a second and they die, I get enough mana back I can keep this up forever!”
+
+“Good to hear.” Steve said, voice arriving from somewhere near the edge of the platform. “But we’ll need some explosions soon. The Soil Scourers are getting closer, and I don’t think we want them all taking their anger out on the tower.”
+
+Haddock was kneeling behind me, eyes closed, a mana coin in his hand. He grunted, speaking above the din. “Working on it.”
+
+Another Riverkin, this one a tad slower at Level 16, emerged, and instantly flung a hefty elemental attack at me.
+
+I managed to angle the shield just right, more luck than actual skill and the attack slammed straight back into the critter, hard enough to launch it out into the open air.
+
+The look of betrayal warmed my heart. I could do this all day!
+
+I swiftly brought up my notifications and closed it right away. Yeah. Their ranged attack wasn’t just elemental, but also slashing damage, however that worked. I was just pleased that it wasn’t one of my lowest resistances and returned to my defensive position.
+
+“Boom boxes are done!” Haddock exclaimed with satisfaction behind me. He stood up and immediately cursed, as his arm was struck by the fiery attack of a Glimmerscale. He gritted his teeth, and seconds later started counting out loud, a few seconds between each count. “Ready when you are, love. Soil Scourers are close – scratch that, they’re here!” The final words were delivered with a higher pitch, and accompanied by a louder boom, as well as a subtle shiver under our feet.
+
+Nix spoke up from right behind me, fear evident in her voice. “Can you-“
+
+“Yes, I’ve got the entrance. Go blow up some giants, already!” I fixed my gaze on the opening, ready to take on anyone.
+
+Mere seconds later, Nix started counting herself, keeping her head down to avoid the Glimmerscale attacks that were becoming more of a constant. Only, where Haddock had been counting up, she was counting down. And the moment she hit zero, it was punctuated by a loud boom from the foot of the tower.
+
+We called them boom boxes. They were super simple creations, and Haddock was carrying around at least fifty of them in his Temporary Storage. They were, basically, sieves. Relatively sturdy, magically constructed handle-less sieves, that would be able to handle somebody standing on top of them without breaking apart. And, more importantly, they let the force from Nix’s Delayed Firebombs pour right out from underneath, without diminishing the impact of the explosions.
+
+Sure, they were one-use, as they broke apart from the explosions, but we just needed to make sure that her talent wasn’t interrupted from Kadren stumbling into or stepping on them. And now, Haddock had them circling the entire tower. He and Nix were also trying to develop a set that amplified and directed the explosions, but those were a work in progress.
+
+“Got one!” Nix leaped up and down, clapping her hands. She frowned. “Wait, no. Damn. Tough buggers, aren’t you?” She started counting down again.
+
+For a few minutes, our existence boiled down to survival. Survival and explosions. My attention was fully fixed on the doorway. Every time a Skreeling arrived, I had to brace myself and keep my attention riveted on the fight. Because, where Riverkin were fast, but didn’t hit too hard, these buggers were sturdier. And some had tricks up their sleeves.
+
+One of them activated some talent that made me nearly keel over with pain and disorientation, and I staggered as if I’d downed my twelfth pint of Guinness.
+
+I had to spam the ability to remove my debuff before I even learned what it was. When I activated Wave of Reflection on the bugger’s clawed attack, its demise carried an extra sense of satisfaction.
+
+Finally, Nix yelled out. “There! That was the last Soil Scourer. Our tower’s safe.” She stood up and stumbled toward me, eyes gleaming dangerously, as she took back her place just behind me, ready to fire another Flash Flood off.
+
+The next one up the stairs would be a Skreeling. I allowed myself a step back, took a deep breath, leaving it all for Nix for a second. Then I blinked, as I noticed that my surroundings had changed. “Whoa. You’ve been busy, Haddock.”
+
+Earlier, the damn platform had been just that. A wide, flat platform with nothing to keep you from tumbling down and cracking your neck. Now, walls ringed us on all sides, with small arrow slits for Nix to glance out of, allowing us all to stand up straight without taking a Glimmerscale missile to the face. I’d been so in the zone I hadn’t noticed how our platform turned into a roofless house.
+
+“Dude. Well done.” I nodded at him, before glancing at my status. Just a few small debuffs, miraculously, a bit of bleeding and, well, the lingering after-effects from scorching myself with the Liquid Fire. My health was doing as well as could be hoped, while my stamina was bottoming out, mostly due to me keeping the Mirror of All tuned up constantly. I’d have to keep an eye on it, to make sure I used my Endurance ability in time. “We’re doing wonderfully. Just… what is that noise?”
+
+A high-pitched chirping, chittering sound, that I couldn’t really place was slowly growing louder. It was all over the place below us, but sounded like it was growing closer. Then it raced above the edge of the walls of the tower, and I groaned. “It’d the fucking Higher Riverkin. Brace yourselves!”
+
+I had no clue how it made it past the spike strips. But within seconds I realized that the damn thing was fast enough, it probably didn’t bow to the regular laws of physics. It braced on the edge of the wall for a second, hissing at us with an ominous undertone that hit me in the gut like a blow to the goddamn solar plexus. The small beast had to be less than one and a half metres from end to end, but it’s presence carried weight.
+
+“I’ve got it. I-”
+
+It leaped. A second later, Haddock stumbled back, neck bleeding, from where the damn thing had bounced off of him, and clawed at him in the process.
+
+“It’s too fast! I can’t hit it. Maybe with a firebomb. Do I bomb it?” Nix asked, panic in her voice.
+
+“No!” Haddock and I shouted at once, recognizing what a firebomb would do to our semi-encloses space. I continued. “Manage the opening. I’ve got this.”
+
+I didn’t have it. Sure, I might take on the small beast, but it was running circles around me, clearly enjoying watching me make a fool of myself. And, just like its lower-leveled brethren, it fired off a series of magical, slashing attacks that carved into my skin, while sometimes rushing in to tag me with its claws. The difference being, that these made a serious impact on my health. On top of that, it had some illusory effect going, creating a triple image so I was never able to tell exactly where it was. Slowly, but surely, my health was dropping, and I was not going to win any protracted fights here.
+
+I grimaced. This wasn’t going well. I knew Steve had to be nearby, lurking to get in a proper attack, so I couldn’t just circle the place or I’d bump into him and ruin his invisibility and the one chance we had for an ambush. I growled. I’d never liked the idea of having to depend on others, because it always fucking backfired. But I didn’t see any other ways.
+
+I started limping. Softly at first, then harder. The damn thing had tagged me on the ankle, below my leg armor, and there wasn’t too much acting in there.
+
+“Get ready, Steve. Follow my lead.” I growled.
+
+The beast didn’t bite at first, literally or figuratively. Instead, it danced around me, slowly taking me apart, slice by slice. Yet, as I made myself stumble and balance precariously on the ‘hurt’ leg, it finally moved for the kill, charging in head-first to take my leg off and end me.
+
+I activated the Resilience bonus ability as fast as I could, doubling the effect of Resilience for a minute. Then I braced for the pain.
+
+The pain arrived.
+
+I didn’t wait to see if I’d gotten it right. Instead, I let my shield drop instantly, with my full weight on top.
+
+The shield hit, pushing right down on the rottweiler-sized Riverkin. It still had its jaws trapped around my leg, teeth sawing back and forth as it attempted to tear my foot off to save it as a keepsake. Despite the debilitating pain, I leaned down and croaked. “Now, Steve. Now!”
+
+The pain was overwhelming. I tried to push past it, staring down over my shield at the black, hateful eyes, seeing my blood spatter the tower liberally.
+
+Steve finally arrived. He emerged out of nowhere, spear stabbing down into the fixed body of the downed Higher Riverkin. He twisted the blade, pulled it out and stabbed again, higher up.
+
+It screamed, a high-pitch keening, and mewled piteously, letting go of my leg. Its black eyes, suddenly bereft of the hatred and gleeful bloodlust looked up at me in supplication. There was more than just hatred there. There was-
+
+Steve stabbed down a final time, and the eyes glazed over. He groaned and slumped over his spear. “We got it. Are you all right?”
+
+The image lingering in my head wasn’t going away. That desperation. That fear. I shut down that train of thought. The pain allowed me to focus, even as the absence of Steve’s buffs from him getting kicked from the group weakened me. With a voice I didn’t quite recognize as my own, I said. “Never better.”
+
+With a mouth full of healing cake, I limped over to help a panicking Nix, who was being harried by a Riverkin, even as she kept up her attacks with the water gun.
+
+The onslaught continued. My leg was trashed, limiting my movement. Yet even so, it felt like the challenge was growing slightly more bearable, the levels of the incoming Kadren lower than the first wave of beasts to get here.
+
+A few long minutes later, the pressure eased. The constant wave of incoming enemies rushing toward us decreased, despite my Mirror of All running at full effect.
+
+I took the opportunity to just breathe for a few seconds. Then, with a bone-deep weariness that belied the fact that I’d just used my Endurance ability and had about ninety percent stamina left, I rushed over to one of the arrow slits to see if we’d actually killed them all, or they were running, or what?
+
+I put my eye to one of the openings. Then I frowned, found another arrow slit on another side, and started cursing, long and hard.
+
+“What?” Haddock’s voice held a desire to just be done.
+
+“Bad news. We’re going down.”
