@@ -6,6 +6,7 @@ export const certificate = {
   slug: "certificate",
   definition: "a signed statement that a name belongs to whoever answers on it",
   pluralSlug: "certificates",
+  partSlugs: ["page-type/certificate-authority"],
   invariants: [
     {
       invariantKind: "departure",

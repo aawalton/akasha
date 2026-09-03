@@ -5,7 +5,7 @@ export const containerImage = {
   pageTypeSlug: "domain",
   slug: "container-image",
   definition: "a built copy of everything a program needs to run",
-  partSlugs: ["workspace-package/dockerfiles"],
+  partSlugs: ["workspace-package/dockerfiles", "container-recipe/postgres-cnpg-image"],
   invariants: [
     {
       invariantKind: "departure",

@@ -66,6 +66,7 @@ export const temperWatcher = {
     "module/watcher-main",
     "module/watcher-worker",
     "workstation-service/temper-watcher",
+    "container-recipe/temper-watcher-image",
   ],
   invariants: [
     {
