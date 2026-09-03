@@ -11,7 +11,6 @@ import {
 import { dirname } from "node:path"
 import { commitAuthor } from "../../agent/commit-author.ts"
 import { exclusively } from "@akasha/file-system/exclusive"
-import { bodiesBefore } from "./landing.ts"
 import { patchAside } from "./body-aside.ts"
 import { GATED } from "../../patches/patch.ts"
 import { commitPaths, gitAskingPaths, gitIgnoring, heldByRepo, whileHoldingLanding } from "../git/git.ts"
@@ -157,7 +156,6 @@ export function landFiles(one: Landings): Landed {
         ? []
         : entries.filter((held) => mechanical.has(held.relPath))
   const touching = [...entries.map((held) => held.relPath), ...composing.map((held) => held.relPath)]
-  const wasBefore = bodiesBefore(root, [...touching, ...removing])
   const unheld = strayed(root, removing)
   if (unheld === null) {
     throw new LandingRefused(gitCouldNotSay(`what history holds of ${removing.join(", ")}`))
