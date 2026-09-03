@@ -1,74 +1,112 @@
 import { describe, expect, test } from "bun:test"
 import { readdirSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { KIND_OF, workingOver } from "@akasha/pages-system/page-formulas"
 import { wakeDay } from "../wake-days/wake-day.page-type.ts"
-import { type Figure, figuresIn, KIND_OF, shapeOf } from "./day-figures.module.code.ts"
+import { declaredFrom, figuresIn, type Stated } from "./day-figures.module.code.ts"
 
 const PROPERTIES_AT = join(dirname(import.meta.dir), "wake-days", "properties")
 
-const ENDING = ".formula-property.ts"
+const ENDING = ".ts"
 
-/**
- * Every figure the wake day declares, read off the folder rather than listed here.
- *
- * A list written in a test is a second speller: a figure landed and left off it is a figure nothing
- * checks, and the test goes on passing. The folder cannot miss one. What the folder can do is come
- * back empty — a moved folder reads exactly like a page type with no figures — so the count is
- * asserted below before anything is made of the verdicts.
- */
-async function figuresDeclared(): Promise<readonly Figure[]> {
+async function propertiesDeclared(): Promise<readonly Stated[]> {
   const named = readdirSync(PROPERTIES_AT)
     .filter((one) => one.endsWith(ENDING))
     .sort()
-  const figures: Figure[] = []
+  const stated: Stated[] = []
   for (const one of named) {
     const held = (await import(join(PROPERTIES_AT, one))) as Readonly<Record<string, unknown>>
     for (const value of Object.values(held)) {
-      const declared = value as { slug?: unknown; formula?: unknown }
-      if (typeof declared.slug !== "string" || typeof declared.formula !== "string") continue
-      figures.push({ slug: declared.slug, formula: declared.formula })
+      const declared = value as {
+        slug?: unknown
+        propertySlug?: unknown
+        formula?: unknown
+        holds?: unknown
+      }
+      if (typeof declared.slug !== "string") continue
+      stated.push({
+        slug: declared.slug,
+        propertySlug: typeof declared.propertySlug === "string" ? declared.propertySlug : undefined,
+        formula: typeof declared.formula === "string" ? declared.formula : undefined,
+        holds: typeof declared.holds === "string" ? declared.holds : undefined,
+      })
     }
   }
-  return figures
+  return stated
 }
+
+const FIGURES = wakeDay.partSlugs.filter((one) => one.startsWith("formula-property/")).length
 
 describe("the figures a wake day works out", () => {
   test("the page type declares figures at all", async () => {
-    const figures = await figuresDeclared()
-    expect(figures.length).toBeGreaterThanOrEqual(16)
+    const stated = await propertiesDeclared()
+    expect(stated.filter((one) => one.formula !== undefined).length).toBeGreaterThanOrEqual(16)
+    expect(FIGURES).toBeGreaterThanOrEqual(16)
   })
 
   test("every figure reads only keys the wake day declares", async () => {
-    const figures = await figuresDeclared()
-    const verdicts = figuresIn(wakeDay.partSlugs, figures)
-    expect(verdicts.filter((one) => !one.ok)).toEqual([])
-    expect(verdicts.length).toBe(figures.length)
+    const judged = figuresIn(wakeDay, await propertiesDeclared())
+    if ("barred" in judged) throw new Error(judged.barred)
+    expect(judged.figures.length).toBe(FIGURES)
+  })
+
+  test("every figure states the kind that figure answers", async () => {
+    const stated = await propertiesDeclared()
+    const said = stated.filter((one) => one.formula !== undefined)
+    expect(said.filter((one) => one.holds === undefined)).toEqual([])
   })
 
   test("every figure the page type names as a part has a declaration beside it", async () => {
-    const figures = await figuresDeclared()
-    const declared = new Set(figures.map((one) => one.slug))
+    const stated = await propertiesDeclared()
+    const declared = new Set(
+      stated.filter((one) => one.formula !== undefined).map((one) => one.slug)
+    )
     const named = wakeDay.partSlugs
       .filter((one) => one.startsWith("formula-property/"))
       .map((one) => one.slice("formula-property/".length))
     expect(named.filter((one) => !declared.has(one))).toEqual([])
   })
 
-  test("a sort of property with no kind written down is refused rather than dropped", () => {
-    expect(() => shapeOf(["no-such-property/whatever"])).toThrow(/no kind is written down/)
-    expect(KIND_OF["number-property"]).toEqual({ kind: "number" })
+  test("a sort of property with no kind written down bars every figure", async () => {
+    const judged = figuresIn(
+      { ...wakeDay, partSlugs: [...wakeDay.partSlugs, "no-such-property/whatever"] },
+      await propertiesDeclared()
+    )
+    if (!("barred" in judged)) throw new Error("nothing was barred")
+    expect(judged.barred).toContain("no kind is written down for `no-such-property`")
+    expect(KIND_OF["number-property"]).toBe("number")
   })
 
-  test("a figure reading a key no day carries is refused", () => {
-    const verdicts = figuresIn(wakeDay.partSlugs, [
-      { slug: "made-up", formula: "{no-such-key-at-all} + 1" },
-    ])
-    expect(verdicts).toEqual([
-      {
-        slug: "made-up",
-        ok: false,
-        why: "checking — no property is declared under the key `no-such-key-at-all`",
-      },
-    ])
+  test("a figure reading a key no day carries is refused", async () => {
+    const stated = [
+      ...(await propertiesDeclared()),
+      { slug: "made-up", formula: "{no-such-key-at-all} + 1", holds: "number" },
+    ]
+    const judged = figuresIn(
+      { ...wakeDay, partSlugs: [...wakeDay.partSlugs, "formula-property/made-up"] },
+      stated
+    )
+    if (!("barred" in judged)) throw new Error("nothing was barred")
+    expect(judged.barred).toBe(
+      "checking — no property is declared under the key `no-such-key-at-all`"
+    )
+    expect(judged.keys).toEqual(["madeUp"])
+  })
+
+  test("renaming one key darkens every figure reaching it and no other", async () => {
+    const declared = declaredFrom(wakeDay, await propertiesDeclared())
+    const renamed = declared.map((one) =>
+      one.slug === "faith-points"
+        ? { ...one, slug: "faith-points-renamed", key: "faithPointsRenamed" }
+        : one
+    )
+    const over = workingOver("wake-day", renamed)
+    if (over === null || !("barred" in over)) throw new Error("nothing was barred")
+    expect(over.keys).toEqual(["faithLevel", "faithStoplight", "stoplights", "totalLevel"])
+  })
+
+  test("surplus hours is no key this page type carries", async () => {
+    const declared = declaredFrom(wakeDay, await propertiesDeclared())
+    expect(declared.map((one) => one.key)).not.toContain("surplusHours")
   })
 })

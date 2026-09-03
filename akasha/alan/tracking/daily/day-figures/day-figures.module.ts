@@ -14,20 +14,31 @@ export const dayFigures = {
     },
     {
       invariantKind: "departure",
-      statement: "A figure may read another figure worked out before it.",
+      statement: "A figure may read another figure.",
     },
     {
       invariantKind: "departure",
       statement: "A sort of property with no kind written down is refused rather than left out.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "A formula property states no kind, so what a figure comes out as is only checked.",
+      invariantKind: "departure",
+      statement: "The checker the reader runs is the checker run here.",
     },
     {
-      invariantKind: "gap",
-      statement: "Nothing works a figure out at the reader, so a day answers with the key empty.",
+      invariantKind: "departure",
+      statement: "A figure states the kind that figure answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Renaming a key darkens every figure reaching that key and no other figure.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A part the page type does not name is left out here and carried by the reader.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure refused before a landing is a figure the reader would refuse after.",
     },
   ],
 } as const satisfies Module
