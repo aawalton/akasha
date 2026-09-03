@@ -14,6 +14,5 @@ export const email = {
     "page-type/email-rule-agent",
     "page-type/email-rule-code",
     "page-type/gmail-mailbox",
-    "page-type/gmail-processed-message",
   ],
 } as const satisfies Domain

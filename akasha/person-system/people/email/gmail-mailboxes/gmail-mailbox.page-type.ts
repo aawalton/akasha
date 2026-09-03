@@ -2,10 +2,12 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { EmailAddress } from "@akasha/persona-system/email-address"
 import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
+import type { ProcessedMessages } from "./properties/processed-messages.page-property-entry.ts"
 
 export type GmailMailbox = Page & {
   title: Title
   emailAddress: EmailAddress
+  processedMessages?: ProcessedMessages
 }
 
 export const gmailMailbox = {
@@ -15,10 +17,11 @@ export const gmailMailbox = {
   definition: "one Gmail account the system reads mail from",
   pluralSlug: "gmail-mailboxes",
   extendsSlug: "page-type/page",
-  partSlugs: ["email-address-property/email-address"],
+  partSlugs: ["email-address-property/email-address", "page-property-entry/processed-messages"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "email-address", required: true, many: false },
+    { pagePropertySlug: "processed-messages", required: false, many: false },
   ],
   invariants: [
     {
