@@ -1,17 +1,5 @@
 {
   "workspaces": {
-    "infra/ci-workflows": {
-      "entry": [
-        "**/*.test.{ts,tsx}",
-        "generate-rbac.ts",
-        "rbac-*.ts",
-        "src/generate-escalate-rbac.ts",
-        "src/generate-rbac.ts"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "infra/git-cli": {
       "entry": [
         "**/*.test.{ts,tsx}"
