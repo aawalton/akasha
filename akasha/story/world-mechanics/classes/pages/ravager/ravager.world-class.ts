@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const ravager = {
   id: "01a06586-0a1e-7cfc-af26-aa7b181f7e39",

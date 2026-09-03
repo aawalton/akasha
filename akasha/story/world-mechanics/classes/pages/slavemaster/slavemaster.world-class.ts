@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const slavemaster = {
   id: "01a06586-0a40-7264-bed7-ff73e12c19ed",

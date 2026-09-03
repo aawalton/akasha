@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const scribe = {
   id: "01a06586-0a2d-7827-a3ae-658af580bbb0",

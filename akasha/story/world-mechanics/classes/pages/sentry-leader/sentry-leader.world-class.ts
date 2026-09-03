@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const sentryLeader = {
   id: "01a06586-0a2f-7666-8343-262760ee109f",

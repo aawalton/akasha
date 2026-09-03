@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const sawDoctor = {
   id: "01a06586-0a2a-78ba-b51a-17429829b209",

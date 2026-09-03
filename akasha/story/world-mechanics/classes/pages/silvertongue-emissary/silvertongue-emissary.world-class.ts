@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const silvertongueEmissary = {
   id: "01a06586-0a3d-7b35-a6d8-1a65be11ba1e",

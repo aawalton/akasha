@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const runeshaper = {
   id: "01a06586-0a27-72bb-86c7-b72a7b33f571",

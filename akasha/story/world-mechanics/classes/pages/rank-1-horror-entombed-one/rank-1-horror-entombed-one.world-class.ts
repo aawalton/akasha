@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const rank1HorrorEntombedOne = {
   id: "01a06586-0a1d-7797-9db5-25ba29f5be58",

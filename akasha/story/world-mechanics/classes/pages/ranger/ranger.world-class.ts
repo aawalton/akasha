@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const ranger = {
   id: "01a06586-0a1d-7327-bb29-a548eed5cc1b",

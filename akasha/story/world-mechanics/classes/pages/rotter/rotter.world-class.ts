@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const rotter = {
   id: "01a06586-0a25-751c-afc6-8666cddcc560",

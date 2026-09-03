@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const settler = {
   id: "01a06586-0a32-7db9-8d26-063a5019eae8",

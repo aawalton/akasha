@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const sheathTender = {
   id: "01a06586-0a3a-7b31-a371-3c72efe02c40",

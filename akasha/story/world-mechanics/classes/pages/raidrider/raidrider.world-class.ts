@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const raidrider = {
   id: "01a06586-0a1d-7ebc-a7b1-b457782b5118",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const shoveller = {
   id: "01a06586-0a3c-722b-bd16-b3e3c24ccc34",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const sneakThug = {
   id: "01a06586-0a44-7128-9194-e16f42f6f156",

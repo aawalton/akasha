@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const shieldbearer = {
   id: "01a06586-0a3a-7126-be85-db046509a1b6",

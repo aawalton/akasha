@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const scryers = {
   id: "01a06586-0a2d-7afb-a422-fcff2a351377",

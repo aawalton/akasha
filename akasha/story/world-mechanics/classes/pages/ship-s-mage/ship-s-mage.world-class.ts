@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const shipSMage = {
   id: "01a06586-0a3b-7ed2-ad1b-284169f72e5c",

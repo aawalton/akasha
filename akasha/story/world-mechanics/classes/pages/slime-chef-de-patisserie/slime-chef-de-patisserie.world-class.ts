@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const slimeChefDePatisserie = {
   id: "01a06586-0a43-70c8-94eb-7fc2e61a9551",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const puzzleMerchant = {
   id: "01a06586-0a1a-7f5c-aabd-969889e96698",

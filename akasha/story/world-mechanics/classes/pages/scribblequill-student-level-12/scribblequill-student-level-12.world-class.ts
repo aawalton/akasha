@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const scribblequillStudentLevel12 = {
   id: "01a06586-0a2c-77c6-befd-632beda6f19e",

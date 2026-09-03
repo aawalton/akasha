@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const sexGuru = {
   id: "01a06586-0a32-7769-8d58-7336bbc17135",

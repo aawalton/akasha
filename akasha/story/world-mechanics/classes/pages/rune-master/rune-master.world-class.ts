@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const runeMaster = {
   id: "01a06586-0a27-7a10-8911-c64703176e0f",

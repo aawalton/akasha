@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const servers = {
   id: "01a06586-0a32-70c3-bc23-55bbf1b369a3",
