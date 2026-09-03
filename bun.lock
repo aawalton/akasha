@@ -430,6 +430,12 @@
         "@capacitor/cli": "^8.4.1",
       },
     },
+    "akasha/collection-system/royal-road": {
+      "name": "@akasha/royal-road",
+      "dependencies": {
+        "@akasha/story-engine-core": "workspace:*",
+      },
+    },
     "akasha/command-system": {
       "name": "@akasha/command-system",
       "dependencies": {
@@ -937,9 +943,6 @@
         "@akasha/pages-system": "workspace:*",
         "@akasha/utils-run": "workspace:*",
       },
-    },
-    "akasha/rules-engine": {
-      "name": "@akasha/rules-engine",
     },
     "akasha/seat-system": {
       "name": "@akasha/seat-system",
@@ -3362,7 +3365,7 @@
 
     "@akasha/reminder-system": ["@akasha/reminder-system@workspace:akasha/reminder-system"],
 
-    "@akasha/rules-engine": ["@akasha/rules-engine@workspace:akasha/rules-engine"],
+    "@akasha/royal-road": ["@akasha/royal-road@workspace:akasha/collection-system/royal-road"],
 
     "@akasha/seat-system": ["@akasha/seat-system@workspace:akasha/seat-system"],
 

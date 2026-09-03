@@ -10,6 +10,7 @@ export const collectionSystem = {
     "page-type/collection",
     "page-type/collection-external",
     "workspace-package/great-courses",
+    "workspace-package/royal-road",
   ],
   invariants: [
     {

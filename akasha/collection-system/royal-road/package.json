@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/royal-road",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./royal-road-pages": "./royal-road-pages/royal-road-pages.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/story-engine-core": "workspace:*"
+  }
+}
