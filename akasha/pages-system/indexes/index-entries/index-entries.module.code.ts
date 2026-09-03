@@ -72,16 +72,18 @@ export function pathsOf(
   value: Value,
   path: string,
   repo: string,
-  fileProperties: ReadonlyMap<string, string | null>,
+  fileProperties: FilePropertiesBy,
   there: IsThere = () => false
 ): readonly string[] {
   const own = under(repo, path)
   const found = [own]
+  const carried = fileProperties.get(textAt(value, "pageTypeSlug") ?? "")
+  if (carried === undefined) return found
   for (const [key, held] of Object.entries(value)) {
     if (typeof held !== "string") continue
     const propertySlug = slugFor(key)
-    if (!fileProperties.has(propertySlug)) continue
-    const fileName = fileProperties.get(propertySlug) ?? null
+    if (!carried.has(propertySlug)) continue
+    const fileName = carried.get(propertySlug) ?? null
     if (fileName !== null) {
       found.push(join(dirname(own), fileName))
       continue
@@ -168,13 +170,15 @@ export function claimsOf(
   value: Value,
   path: string,
   repo: string,
-  fileProperties: ReadonlyMap<string, string | null>,
+  fileProperties: FilePropertiesBy,
   sidecars: SidecarsBy,
   there: IsThere = () => false
 ): readonly string[] {
   const found = [...pathsOf(value, path, repo, fileProperties, there)]
   const own = under(repo, path)
-  const held = sidecars.get(textAt(value, "pageTypeSlug") ?? "")
+  const pageTypeSlug = textAt(value, "pageTypeSlug") ?? ""
+  const carried = fileProperties.get(pageTypeSlug)
+  const held = sidecars.get(pageTypeSlug)
   if (held === undefined) return found
   if (held.secret) {
     const secret = secretAt(own)
@@ -185,7 +189,7 @@ export function claimsOf(
     if (beside !== null) found.push(beside)
   }
   for (const [slug, fallback] of held.besides) {
-    if (fileProperties.get(slug) !== null) continue
+    if (carried?.get(slug) !== null) continue
     const beside = uncommittedBesideAt(own, slug, fallback)
     if (beside !== null) found.push(beside)
   }

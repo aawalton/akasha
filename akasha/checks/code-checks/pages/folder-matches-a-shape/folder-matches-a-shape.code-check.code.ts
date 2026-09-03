@@ -1,7 +1,7 @@
 import { basename } from "node:path"
 import { NAMING_NONE, type Naming } from "@akasha/code-system/code-specifier"
 import type { Answering } from "@akasha/indexes/answering"
-import { claimsOf, type SidecarsBy } from "@akasha/indexes/entries"
+import { claimsOf, type FilePropertiesBy, type SidecarsBy } from "@akasha/indexes/entries"
 import { edgesIn } from "@akasha/indexes/import"
 import { reachingIn } from "@akasha/indexes/package-reaching"
 import type { Known } from "@akasha/indexes/reaching"
@@ -334,7 +334,7 @@ export function namingOver(holds: Holds): (folder: string) => string | null {
 export function partsOver(
   index: Answering,
   root: string,
-  stated: ReadonlyMap<string, string | null>,
+  stated: FilePropertiesBy,
   sidecars: SidecarsBy
 ): (page: Held) => readonly string[] {
   return (page) => {
@@ -367,7 +367,12 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const declaring = declaringOver(shadow.index, grouped)
   const holds = holdingOver(shadow.index, grouped, pageTypes, fileProperties)
   const namedFor = namingOver(holds)
-  const parts = partsOver(shadow.index, change.root, stated, shadow.index.sidecarsAt())
+  const parts = partsOver(
+    shadow.index,
+    change.root,
+    shadow.index.filePropertiesAt(),
+    shadow.index.sidecarsAt()
+  )
   const entering = enteringOf(shadow)
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {

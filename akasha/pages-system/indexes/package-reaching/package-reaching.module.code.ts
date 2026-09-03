@@ -3,7 +3,12 @@ import { basename, dirname, join } from "node:path"
 import type { Naming } from "@akasha/code-system/code-specifier"
 import { reachesIn, reachingOver } from "@akasha/code-system/package-manifest"
 import type { Value } from "@akasha/pages-system/page-value"
-import { fileKeysAt, pathsOf, under } from "../index-entries/index-entries.module.code.ts"
+import {
+  type FilePropertiesBy,
+  fileKeysAt,
+  pathsOf,
+  under,
+} from "../index-entries/index-entries.module.code.ts"
 import { everyPath, importersIn } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import { readingOf } from "../index-surface/index-surface.module.code.ts"
@@ -89,9 +94,10 @@ export function bodiesOver(repo: string, carried: ReadonlyMap<string, string | n
 export function reachingBuilt(
   held: readonly Page[],
   repo: string,
-  fileProperties: ReadonlyMap<string, string | null>
+  fileProperties: ReadonlyMap<string, string | null>,
+  filedBy: FilePropertiesBy
 ): Naming {
-  const claimed = held.flatMap((one) => pathsOf(one.value, one.path, repo, fileProperties))
+  const claimed = held.flatMap((one) => pathsOf(one.value, one.path, repo, filedBy))
   return reachingIn(claimed, fileProperties, bodiesAt(repo))
 }
 
@@ -100,11 +106,12 @@ export function reachingSettled(
   held: readonly Leaving[],
   carried: readonly Carried[],
   repo: string,
-  fileProperties: ReadonlyMap<string, string | null>
+  fileProperties: ReadonlyMap<string, string | null>,
+  filedBy: FilePropertiesBy
 ): Naming {
   const bodies = new Map(carried.map((one) => [under(repo, one.path), one.after]))
   const claimed = held.flatMap((one) =>
-    one.now === null ? [under(repo, one.path)] : pathsOf(one.now, one.path, repo, fileProperties)
+    one.now === null ? [under(repo, one.path)] : pathsOf(one.now, one.path, repo, filedBy)
   )
   return reachingIn(
     [...everyPath(given), ...bodies.keys(), ...claimed],
@@ -155,6 +162,7 @@ export function rereadOver(
   turning: readonly Turning[],
   repo: string,
   fileProperties: ReadonlyMap<string, string | null>,
+  filedBy: FilePropertiesBy,
   now: Naming
 ): Rereading {
   const owned = new Set(turning.map((one) => under(repo, one.path)))
@@ -164,7 +172,8 @@ export function rereadOver(
     turning.map((one) => ({ path: one.path, now: one.was })),
     turning.map((one) => ({ path: one.path, after: one.before })),
     repo,
-    fileProperties
+    fileProperties,
+    filedBy
   )
   const bodyAt = bodiesAt(repo)
   const reread: Reread[] = []

@@ -1,6 +1,6 @@
 import { dirname, join } from "node:path"
 import type { Answering } from "@akasha/indexes/answering"
-import { pathsOf } from "@akasha/indexes/entries"
+import { type FilePropertiesBy, pathsOf } from "@akasha/indexes/entries"
 import type { Change } from "@akasha/pages-system/change"
 import { pageNamed } from "@akasha/pages-system/page-file-name"
 import { valueIn } from "@akasha/pages-system/page-value"
@@ -59,14 +59,15 @@ export function statedBy(
 export function missingFor(
   change: Change,
   page: string,
-  fileProperties: ReadonlyMap<string, string | null>
+  fileProperties: ReadonlyMap<string, string | null>,
+  filedBy: FilePropertiesBy
 ): readonly Judged[] {
   const bytes = change.after(page)
   if (bytes === null) return []
   const value = valueIn(bodyOf({ root: change.root, path: page, bytes }))
   if (value === null) return []
   const said: Judged[] = []
-  for (const one of pathsOf(value, page, change.root, fileProperties)) {
+  for (const one of pathsOf(value, page, change.root, filedBy)) {
     if (one === page) continue
     if (change.after(one) !== null) continue
     said.push({
@@ -80,9 +81,10 @@ export function missingFor(
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = shadow.index.pageTypesIn()
   const fileProperties = shadow.index.fileKeysAt()
+  const filedBy = shadow.index.filePropertiesAt()
   const said: Judged[] = []
   for (const page of pagesTouchedBy(change, pageTypes, shadow.index)) {
-    said.push(...missingFor(change, page, fileProperties))
+    said.push(...missingFor(change, page, fileProperties, filedBy))
   }
   return said
 }

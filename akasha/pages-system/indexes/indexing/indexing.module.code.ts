@@ -34,6 +34,8 @@ import {
   type Entry,
   fileKeysAt,
   fileKeysIn,
+  filePropertiesIn,
+  filePropertiesOver,
   type Identifier,
   pageTypesIn,
   sidecarsIn,
@@ -193,6 +195,7 @@ export function rebuiltFrom(
   }
   const values = held.map((one) => one.value)
   const fileProperties = fileKeysIn(values)
+  const filedBy = filePropertiesIn(values)
   const unique = uniquePropertiesIn(values)
   const schema = held.flatMap((one) => schemaIn(one.value))
   refusingEmpty(unique, held.length)
@@ -200,7 +203,7 @@ export function rebuiltFrom(
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
   reconcile(join(root, IDENTITY), identity, root)
   const sidecars = sidecarsIn(values)
-  const claim = claimingIn(repo, fileProperties, sidecars)
+  const claim = claimingIn(repo, filedBy, sidecars)
   const paths = held.flatMap((one) => claim(one.value, one.path, false))
   reconcile(join(root, PATH), paths, root)
   reconcile(join(root, SCHEMA), schema, root)
@@ -208,7 +211,7 @@ export function rebuiltFrom(
   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
   const relation = filed.flatMap((one) => one.entries)
   reconcile(join(root, RELATION), relation, root)
-  const naming = reachingBuilt(held, repo, fileProperties)
+  const naming = reachingBuilt(held, repo, fileProperties, filedBy)
   const imported = walkedUnder(tree, typed).flatMap((path) =>
     importIn(readFileSync(path, "utf8"), path, repo, naming)
   )
@@ -302,9 +305,17 @@ export function settlingOver(
 
   const left = held.flatMap((one) => (one.now === null ? [] : [one.now]))
   const fileProperties = new Map<string, string | null>([...filed, ...fileKeysIn(left)])
+  const filedBy = filePropertiesOver(reading, left)
   const sidecars = sidecarsOver(reading, left)
-  const naming = reachingSettled(reading, held, moving, repo, fileProperties)
-  const { was: wasNaming, reread } = rereadOver(reading, held, repo, fileProperties, naming)
+  const naming = reachingSettled(reading, held, moving, repo, fileProperties, filedBy)
+  const { was: wasNaming, reread } = rereadOver(
+    reading,
+    held,
+    repo,
+    fileProperties,
+    filedBy,
+    naming
+  )
   const importing = [...held, ...reread]
 
   const imported = filingOf(
@@ -352,7 +363,7 @@ export function settlingOver(
       ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, nowIdentifying, turned)),
     ]
   )
-  const claim = claimingIn(repo, fileProperties, sidecars, carried)
+  const claim = claimingIn(repo, filedBy, sidecars, carried)
   const paths = filingOf(
     reading,
     held.flatMap((one) => (one.was === null ? [] : claim(one.was, one.path, true))),

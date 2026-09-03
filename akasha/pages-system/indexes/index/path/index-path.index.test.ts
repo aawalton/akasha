@@ -1,9 +1,11 @@
 import { expect, test } from "bun:test"
-import type { SidecarsBy } from "../../index-entries/index-entries.module.code.ts"
+import type { FilePropertiesBy, SidecarsBy } from "../../index-entries/index-entries.module.code.ts"
 import { A } from "../../index-entries/index-entries.module.test-fixtures.ts"
 import { pathIn } from "./index-path.index.code.ts"
 
 const BESIDES: ReadonlyMap<string, string> = new Map()
+
+const NO_FILES: FilePropertiesBy = new Map()
 
 const NONE: SidecarsBy = new Map()
 
@@ -19,7 +21,7 @@ test("a path is filed under the path alone, with no scope or property above it",
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
-  expect(pathIn(value, "/repo/a.domain.ts", "/repo", new Map(), NONE)).toEqual([
+  expect(pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, NONE)).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
   ])
 })
@@ -28,7 +30,7 @@ test("a page whose type declares a secret claims the sops file beside it", () =>
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
-  expect(pathIn(value, "/repo/a.domain.ts", "/repo", new Map(), SECRET)).toEqual([
+  expect(pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, SECRET)).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
     { at: "path/a.domain.sops.yaml.jsonl", line },
   ])
@@ -38,7 +40,7 @@ test("a page whose type declares an uncommitted value claims the file beside it"
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
-  expect(pathIn(value, "/repo/a.domain.ts", "/repo", new Map(), UNCOMMITTED)).toEqual([
+  expect(pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, UNCOMMITTED)).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
     { at: "path/a.domain.uncommitted.ts.jsonl", line },
   ])
@@ -50,7 +52,7 @@ test("a page whose type declares an uncommitted file property claims that file b
   const drafting: SidecarsBy = new Map([
     ["domain", { secret: false, uncommitted: true, besides: new Map([["patch", "diff"]]) }],
   ])
-  const filed = new Map<string, string | null>([["patch", null]])
+  const filed: FilePropertiesBy = new Map([["domain", new Map([["patch", null]])]])
 
   expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, drafting)).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
@@ -65,7 +67,7 @@ test("a page states no uncommitted file property, so the page claims it without 
   const drafting: SidecarsBy = new Map([
     ["domain", { secret: false, uncommitted: false, besides: new Map([["patch", "diff"]]) }],
   ])
-  const filed = new Map<string, string | null>([["patch", null]])
+  const filed: FilePropertiesBy = new Map([["domain", new Map([["patch", null]])]])
 
   expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, drafting)).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
@@ -81,7 +83,7 @@ test("an uncommitted value held in no file claims no file beside the page", () =
     ["domain", { secret: false, uncommitted: true, besides: new Map([["model", "ts"]]) }],
   ])
 
-  expect(pathIn(value, "/repo/a.domain.ts", "/repo", new Map(), held)).toEqual([
+  expect(pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, held)).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
     { at: "path/a.domain.uncommitted.ts.jsonl", line },
   ])
@@ -93,7 +95,7 @@ test("a property naming its file outright claims no uncommitted file beside it",
   const held: SidecarsBy = new Map([
     ["domain", { secret: false, uncommitted: false, besides: new Map([["manifest", "json"]]) }],
   ])
-  const filed = new Map<string, string | null>([["manifest", "package.json"]])
+  const filed: FilePropertiesBy = new Map([["domain", new Map([["manifest", "package.json"]])]])
 
   expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, held)).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
@@ -103,9 +105,14 @@ test("a property naming its file outright claims no uncommitted file beside it",
 test("a file a page property holds is filed under its own path, naming the page stating it", () => {
   const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", test: "ts" }
   const line = `{"path":"deep/a.module.ts","id":"${A}"}`
-  const filed = new Map<string, string | null>([
-    ["code", null],
-    ["test", null],
+  const filed: FilePropertiesBy = new Map([
+    [
+      "module",
+      new Map([
+        ["code", null],
+        ["test", null],
+      ]),
+    ],
   ])
 
   expect(pathIn(value, "/repo/deep/a.module.ts", "/repo", filed, NONE)).toEqual([
@@ -118,5 +125,5 @@ test("a file a page property holds is filed under its own path, naming the page 
 test("a value carrying no slug is filed under no path, as it is filed under no identifier", () => {
   const value = { id: A, pageTypeSlug: "domain" }
 
-  expect(pathIn(value, "/repo/a.domain.ts", "/repo", new Map(), NONE)).toEqual([])
+  expect(pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, NONE)).toEqual([])
 })

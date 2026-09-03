@@ -4,6 +4,7 @@ import { textAt, type Value } from "@akasha/pages-system/page-value"
 import {
   claimsOf,
   type Entry,
+  type FilePropertiesBy,
   type IsThere,
   type SidecarsBy,
   under,
@@ -35,7 +36,7 @@ export function pathIn(
   value: Value,
   path: string,
   repo: string,
-  fileProperties: ReadonlyMap<string, string | null>,
+  fileProperties: FilePropertiesBy,
   sidecars: SidecarsBy,
   there?: IsThere
 ): readonly Entry[] {
@@ -52,7 +53,7 @@ export function pathIn(
 
 export function claimingIn(
   repo: string,
-  fileProperties: ReadonlyMap<string, string | null>,
+  fileProperties: FilePropertiesBy,
   sidecars: SidecarsBy,
   carried: ReadonlyMap<string, Bodied> = NOTHING
 ): Claiming {
