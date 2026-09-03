@@ -55,12 +55,6 @@
         "**/*.ts"
       ]
     },
-    "infra/loki-service": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "infra/scripts": {
       "entry": [
         "**/*.test.{ts,tsx}",
