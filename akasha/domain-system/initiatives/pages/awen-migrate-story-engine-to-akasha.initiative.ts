@@ -6,7 +6,6 @@ export const awenMigrateStoryEngineToAkasha = {
   slug: "awen-migrate-story-engine-to-akasha",
   domainSlug: "domain/story-engine",
   personaSlug: "awen",
-  parentSlug: "akasha-migration",
   intents: [
     {
       statement: "No part of a story or a world exists only in the database.",

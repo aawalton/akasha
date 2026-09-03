@@ -6,7 +6,6 @@ export const athenaHarnessIntoAkasha = {
   slug: "athena-harness-into-akasha",
   domainSlug: "domain/model",
   personaSlug: "athena",
-  parentSlug: "akasha-migration",
   intents: [
     {
       statement:

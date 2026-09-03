@@ -6,7 +6,6 @@ export const athenaSeatCommands = {
   slug: "athena-seat-commands",
   domainSlug: "workspace-package/command-system",
   personaSlug: "athena",
-  parentSlug: "akasha-migration",
   intents: [
     { statement: "A seat is started through akasha." },
     { statement: "A seat is emptied and refilled through akasha." },

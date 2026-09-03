@@ -6,7 +6,6 @@ export const migrateAlanAndJennyToAkasha = {
   slug: "migrate-alan-and-jenny-to-akasha",
   domainSlug: "domain/alan-harness",
   personaSlug: "amy",
-  parentSlug: "akasha-migration",
   intents: [
     {
       statement: "The code editor's extension sits in akasha.",

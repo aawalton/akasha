@@ -6,7 +6,6 @@ export const akashaFolderShape = {
   slug: "akasha-folder-shape",
   domainSlug: "domain/akasha",
   personaSlug: "akasha",
-  parentSlug: "akasha-migration",
   intents: [
     {
       statement: "The akasha subfolder has a clean folder shape.",

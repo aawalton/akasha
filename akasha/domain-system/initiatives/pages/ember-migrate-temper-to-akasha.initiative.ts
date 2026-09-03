@@ -6,7 +6,6 @@ export const emberMigrateTemperToAkasha = {
   slug: "ember-migrate-temper-to-akasha",
   domainSlug: "domain/temper",
   personaSlug: "ember",
-  parentSlug: "akasha-migration",
   intents: [
     {
       statement:
