@@ -23,11 +23,11 @@
 {"id":"01a06572-95bd-73ef-b0a2-869049ad63d5","chapterSlug":"rw10-29 M","paragraph":264,"wording":"[Detect Truth]","event":"named"}
 {"id":"01a06572-95bd-7296-8eab-5288c90f2c60","chapterSlug":"rw10-29 M","paragraph":372,"wording":"[Detect Truth]","event":"named"}
 {"id":"01a06572-95bd-703d-8d2e-521689782b54","chapterSlug":"rw10-29 M","paragraph":647,"wording":"[Detect Truth]","event":"used","holderSlug":"grimalkin","claimed":true,"claimedBySlug":"grimalkin","holderQuote":"My [Detect Truth] spell registered no lies","effectQuote":"My [Detect Truth] spell registered no lies. As it seldom does to half-truths or half-lies.","effectClaimed":true}
-{"id":"01a06572-95bd-75c4-ad18-2eecd17945da","chapterSlug":"rw10-39 YN","paragraph":639,"wording":"[Detect Truth]","event":"named","claimed":true,"claimedBySlug":"Falene","holderQuote":"Have Martz cast [Detect Truth], and let’s hire them."}
+{"id":"01a06572-95bd-75c4-ad18-2eecd17945da","chapterSlug":"rw10-39 YN","paragraph":639,"wording":"[Detect Truth]","event":"named","claimed":true,"claimedBySlug":"falene","holderQuote":"Have Martz cast [Detect Truth], and let’s hire them."}
 {"id":"01a06572-95bd-7377-bdeb-8d00b532eb70","chapterSlug":"rw10-39 YN","paragraph":1364,"wording":"[Detect Truth]","event":"named"}
 {"id":"01a06572-95bd-7af8-b1c6-b30073089604","chapterSlug":"rw10-39 YN","paragraph":1380,"wording":"[Detect Truth]","event":"named","holderQuote":"Martz could barely muster a [Detect Truth] spell"}
 {"id":"01a06572-95bd-710c-b618-8f455b6f54af","chapterSlug":"rw10-39 YN","paragraph":1393,"wording":"[Detect Truth]","event":"named"}
-{"id":"01a06572-95bd-7e49-a57f-c39900f4ee95","chapterSlug":"rw10-38 E","paragraph":1005,"wording":"[Detect Truth]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"Erin","holderQuote":"She caught Erin this time, and a few aphids blocked the way as if she had commanded them telepathically"}
+{"id":"01a06572-95bd-7e49-a57f-c39900f4ee95","chapterSlug":"rw10-38 E","paragraph":1005,"wording":"[Detect Truth]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"erin","holderQuote":"She caught Erin this time, and a few aphids blocked the way as if she had commanded them telepathically"}
 {"id":"01a06572-95bd-7daf-9286-6ad1ac4e967a","chapterSlug":"rw10-38 E","paragraph":1014,"wording":"[Detect Truth]","event":"named"}
 {"id":"01a06572-95bd-7248-9ae8-8360dc1fc019","chapterSlug":"rw10-59 T","paragraph":2511,"wording":"[Detect Truth]","event":"named"}
 {"id":"01a06572-95bd-7486-805d-1e7f8a924a96","chapterSlug":"rw9-52","paragraph":401,"wording":"[Detect Truth]","event":"used","holderSlug":"zail","holderQuote":"his father carried a [Detect Truth] ring on him at all times","effectQuote":"a flashing series of blue lights—then a faint red one"}
@@ -44,4 +44,4 @@
 {"id":"01a06572-95bd-77a7-85f5-e0a6a27d7de9","chapterSlug":"rw9-38 TV (Pt. 2)","paragraph":263,"wording":"[Detect Truth]","event":"named"}
 {"id":"01a06572-95bd-7f8e-a9df-e87aba2a9991","chapterSlug":"rw9-38 TV (Pt. 2)","paragraph":861,"wording":"[Detect Truth]","event":"named"}
 {"id":"01a06572-95bd-7b02-b36c-3083a641426a","chapterSlug":"rw9-38 TV (Pt. 1)","paragraph":1365,"wording":"[Detect Truth]","event":"used","effectQuote":"a [Detect Truth] spell had established the lie at once"}
-{"id":"01a06572-95bd-7199-8606-8735ae35bbcf","chapterSlug":"rw9-40 GG","paragraph":779,"wording":"[Detect Truth]","event":"named","holderSlug":"tallguard-cein","claimed":true,"claimedBySlug":"Tallguard Cein","holderQuote":"The Tallguard had a fascinating device so small Beth had to squint to see it."}
+{"id":"01a06572-95bd-7199-8606-8735ae35bbcf","chapterSlug":"rw9-40 GG","paragraph":779,"wording":"[Detect Truth]","event":"named","holderSlug":"tallguard-cein","claimed":true,"claimedBySlug":"tallguard-cein","holderQuote":"The Tallguard had a fascinating device so small Beth had to squint to see it."}

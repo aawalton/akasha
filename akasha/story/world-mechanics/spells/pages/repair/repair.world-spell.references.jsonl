@@ -74,7 +74,7 @@
 {"id":"01a06572-95dd-7154-a790-ee8f81588dde","chapterSlug":"rw9-56","paragraph":513,"wording":"[Repair]","event":"named"}
 {"id":"01a06572-95dd-719c-ae26-8fffe8884293","chapterSlug":"rw9-56","paragraph":526,"wording":"[Repair]","event":"named"}
 {"id":"01a06572-95dd-7c28-89c7-212c2a725546","chapterSlug":"rw9-55 (Pt. 2)","paragraph":241,"wording":"[Repair]","event":"used","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"erin-solstice","holderQuote":"even [Repair] didn’t work, so I threw it out.","effectQuote":"even [Repair] didn’t work","effectClaimed":true}
-{"id":"01a06572-95dd-7fb8-8870-f536c2b1f910","chapterSlug":"rwInterlude - Spears and Stuff","paragraph":373,"wording":"[Repair]","event":"used","holderSlug":"tissl","claimed":true,"claimedBySlug":"Tissl","holderQuote":"I used up every [Repair] scroll in the ship, and it’s still leaky","effectQuote":"I used up every [Repair] scroll in the ship, and it’s still leaky","effectClaimed":true}
+{"id":"01a06572-95dd-7fb8-8870-f536c2b1f910","chapterSlug":"rwInterlude - Spears and Stuff","paragraph":373,"wording":"[Repair]","event":"used","holderSlug":"tissl","claimed":true,"claimedBySlug":"tissl","holderQuote":"I used up every [Repair] scroll in the ship, and it’s still leaky","effectQuote":"I used up every [Repair] scroll in the ship, and it’s still leaky","effectClaimed":true}
 {"id":"01a06572-95dd-7ecb-ad2a-d8e13abe8158","chapterSlug":"rw10-55 F","paragraph":350,"wording":"[Repair]","event":"named"}
 {"id":"01a06572-95dd-7d6e-8e97-c666e6731aa6","chapterSlug":"rwInterlude - The Spitoon","paragraph":502,"wording":"[Repair]","event":"named"}
 {"id":"01a06572-95dd-7791-bab6-8936d063ce86","chapterSlug":"rwInterlude - The Spitoon","paragraph":560,"wording":"[Repair]","event":"named"}

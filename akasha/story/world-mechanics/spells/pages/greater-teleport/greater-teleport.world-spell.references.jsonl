@@ -12,7 +12,7 @@
 {"id":"01a06572-95c7-7868-9fc5-290416cf4498","chapterSlug":"rw8-33 R","paragraph":1236,"wording":"[Greater Teleport]","event":"named"}
 {"id":"01a06572-95c7-7566-8eae-051ea8636384","chapterSlug":"rw8-41","paragraph":440,"wording":"[Greater Teleport]","event":"named"}
 {"id":"01a06572-95c7-717c-b2db-b19ecf650a47","chapterSlug":"rw8-38 H","paragraph":1173,"wording":"[Greater Teleport]","event":"named"}
-{"id":"01a06572-95c7-7fa5-8669-bc47bd8ab647","chapterSlug":"rw8-72","paragraph":373,"wording":"[Greater Teleport]","event":"named","holderSlug":"eldavin","claimed":true,"claimedBySlug":"Eldavin","holderQuote":"Eldavin drummed his fingers on the table.","effectQuote":"You do know [Greater Teleport] is the most obnoxiously mana-intensive spell,","effectClaimed":true}
+{"id":"01a06572-95c7-7fa5-8669-bc47bd8ab647","chapterSlug":"rw8-72","paragraph":373,"wording":"[Greater Teleport]","event":"named","holderSlug":"eldavin","claimed":true,"claimedBySlug":"eldavin","holderQuote":"Eldavin drummed his fingers on the table.","effectQuote":"You do know [Greater Teleport] is the most obnoxiously mana-intensive spell,","effectClaimed":true}
 {"id":"01a06572-95c7-705a-9003-8602461fd5cf","chapterSlug":"rw8-63 K","paragraph":664,"wording":"[Greater Teleport]","event":"named"}
 {"id":"01a06572-95c7-706e-a9cb-8b0e1565b3f5","chapterSlug":"rwInterlude - The Competition","paragraph":567,"wording":"[Greater Teleport]","event":"used","holderSlug":"silvenia","holderQuote":"Silvenia giggled as she popped into existence.","effectQuote":"[Greater Teleport] spells took a while"}
 {"id":"01a06572-95c7-7ba7-ad5d-191971b27e6c","chapterSlug":"rwInterlude - Death and Stitches","paragraph":206,"wording":"[Greater Teleport]","event":"named"}

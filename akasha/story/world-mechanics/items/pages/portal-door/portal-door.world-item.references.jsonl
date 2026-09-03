@@ -5,7 +5,7 @@
 {"id":"01a0655a-7b7f-7c17-9e8b-d7ee5ec4d6ff","chapterSlug":"rw10-13","paragraph":943,"wording":"[Portal Door]","event":"named"}
 {"id":"01a0655a-7b7f-72f5-a02c-f52e89de4bb6","chapterSlug":"rw10-14","paragraph":831,"wording":"[Portal Door]","event":"named"}
 {"id":"01a0655a-7b7f-7f4c-9e35-9f84f0d6e836","chapterSlug":"rw10-15","paragraph":376,"wording":"[Portal Door]","event":"named"}
-{"id":"01a0655a-7b7f-7649-91a7-a1a5f37ba859","chapterSlug":"rw10-15","paragraph":430,"wording":"[Portal Door]","event":"named","holderSlug":"lyonette-du-marquin","claimed":true,"claimedBySlug":"Quarass","holderQuote":"Nor Erribathe’s agents, two of whom used your"}
+{"id":"01a0655a-7b7f-7649-91a7-a1a5f37ba859","chapterSlug":"rw10-15","paragraph":430,"wording":"[Portal Door]","event":"named","holderSlug":"lyonette-du-marquin","claimed":true,"claimedBySlug":"quarass","holderQuote":"Nor Erribathe’s agents, two of whom used your"}
 {"id":"01a0655a-7b7f-799c-a288-96e8b263623c","chapterSlug":"rw10-15","paragraph":1088,"wording":"[Portal Door]","event":"named"}
 {"id":"01a0655a-7b7f-7d87-b539-5625ec819851","chapterSlug":"rw10-33 MNK","paragraph":1206,"wording":"[Portal Door]","event":"named"}
 {"id":"01a0655a-7b7f-7bbf-a7da-fa4ae8906986","chapterSlug":"rw9-48 BTIPRLJMWVRV","paragraph":615,"wording":"[Portal Door]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"erin","holderQuote":"It doesn’t. Liska’s using my"}
@@ -35,7 +35,7 @@
 {"id":"01a0655a-7b7f-7a49-baf4-287a231bf2fe","chapterSlug":"rwInterlude - Brewing Sariants","paragraph":109,"wording":"[Portal Door]","event":"named","holderSlug":"erin","holderQuote":"So Erin had the run of her inn"}
 {"id":"01a0655a-7b7f-7230-82c0-64c8bcc7f20b","chapterSlug":"rwInterlude - Brewing Sariants","paragraph":433,"wording":"[Portal Door]","event":"used","holderSlug":"erin","holderQuote":"Erin Solstice stared around as Calescent covered his ears.","effectQuote":"opened under her wheelchair and spat her out of the inn"}
 {"id":"01a0655a-7b7f-79c8-b05a-d50c0b4ae7fb","chapterSlug":"rw9-32","paragraph":1084,"wording":"[Portal Door]","event":"named","holderSlug":"erin-solstice","holderQuote":"like her [Portal Door], distance mattered"}
-{"id":"01a0655a-7b7f-7321-84d1-280856863e51","chapterSlug":"rw9-32","paragraph":1124,"wording":"[Portal Door]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"Erin","holderQuote":"the same limits as the [Portal Door]"}
+{"id":"01a0655a-7b7f-7321-84d1-280856863e51","chapterSlug":"rw9-32","paragraph":1124,"wording":"[Portal Door]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"erin","holderQuote":"the same limits as the [Portal Door]"}
 {"id":"01a0655a-7b7f-7d76-872c-cf4481bbe200","chapterSlug":"rwGoblin Days (Pt- 4) - Order, Oddity","paragraph":178,"wording":"[Portal Door]","event":"named"}
 {"id":"01a0655a-7b7f-7f58-9652-fce6e1a71819","chapterSlug":"rw9-30","paragraph":613,"wording":"[Portal Door]","event":"named"}
 {"id":"01a0655a-7b7f-7a3b-939b-4499dbe45283","chapterSlug":"rw9-34","paragraph":1037,"wording":"[Portal Door]","event":"named"}

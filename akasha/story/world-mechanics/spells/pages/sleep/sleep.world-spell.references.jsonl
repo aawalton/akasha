@@ -7,7 +7,7 @@
 {"id":"01a06572-95e1-7de6-a0b8-148dd0eff1f2","chapterSlug":"rw6-01","paragraph":755,"wording":"[Sleep]","event":"named"}
 {"id":"01a06572-95e1-724f-a93e-b004c634a5c2","chapterSlug":"rw6-22 D","paragraph":197,"wording":"[Sleep]","event":"named"}
 {"id":"01a06572-95e1-7fc7-993d-711c2049a4f7","chapterSlug":"rw6-57","paragraph":618,"wording":"[Sleep]","event":"used","effectQuote":"Walt slumped, his eyes fluttering."}
-{"id":"01a06572-95e1-722c-8ff8-c9f49448e399","chapterSlug":"rw6-59","paragraph":969,"wording":"[Sleep]","event":"named","holderSlug":"montressa-du-valeross","claimed":true,"claimedBySlug":"Erin","holderQuote":"You know, she has nightmares. Almost every night, unless she uses a [Sleep] spell."}
+{"id":"01a06572-95e1-722c-8ff8-c9f49448e399","chapterSlug":"rw6-59","paragraph":969,"wording":"[Sleep]","event":"named","holderSlug":"montressa-du-valeross","claimed":true,"claimedBySlug":"erin","holderQuote":"You know, she has nightmares. Almost every night, unless she uses a [Sleep] spell."}
 {"id":"01a06572-95e1-77ae-82eb-7ac5eee0b09e","chapterSlug":"rw6-64","paragraph":603,"wording":"[Sleep]","event":"named","holderSlug":"montressa","holderQuote":"Montressa knew to cast the spell each night in case she dreamed of the past. She was too afraid to sleep again. So she just sat there, too afraid to cast a [Sleep] spell."}
 {"id":"01a06572-95e1-7d3c-88f0-16ab191fa0b6","chapterSlug":"rw7-44","paragraph":797,"wording":"[Sleep]","event":"used","effectQuote":"Valceif was killed by some no-name [Bandits] with a [Sleep] spell.","effectClaimed":true}
 {"id":"01a06572-95e1-7083-9048-5fc99b816f83","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":915,"wording":"[Sleep]","event":"named"}

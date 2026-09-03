@@ -28,7 +28,7 @@
 {"id":"01a06572-95de-72cd-9bb4-00244cbdecdf","chapterSlug":"rw7-48 K","paragraph":268,"wording":"[Scrying]","event":"used","effectQuote":"Enchant a mirror with the [Scrying] spell. Oh, it would wear off, but if you had, say, an [Illusionist] around, you had a free feature-size broadcast!"}
 {"id":"01a06572-95de-7f2b-8eae-ea83e132ff72","chapterSlug":"rw7-53","paragraph":281,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95de-76c4-93d8-fd8d0d667b6e","chapterSlug":"rw7-52","paragraph":221,"wording":"[Scrying]","event":"named"}
-{"id":"01a06572-95de-749d-b485-3cb5d0316a8b","chapterSlug":"rw7-55 E","paragraph":230,"wording":"[Scrying]","event":"used","claimed":true,"claimedBySlug":"Galei","holderQuote":"Not if Palt’s doing it.","effectQuote":"if you’re just enchanting a mirror with [Scrying], you’re not in danger of Wistram reversing the spell to watch you.","effectClaimed":true}
+{"id":"01a06572-95de-749d-b485-3cb5d0316a8b","chapterSlug":"rw7-55 E","paragraph":230,"wording":"[Scrying]","event":"used","claimed":true,"claimedBySlug":"galei","holderQuote":"Not if Palt’s doing it.","effectQuote":"if you’re just enchanting a mirror with [Scrying], you’re not in danger of Wistram reversing the spell to watch you.","effectClaimed":true}
 {"id":"01a06572-95de-71c4-a961-3371ea1f30a5","chapterSlug":"rw7-55 E","paragraph":985,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95de-78a9-9f0d-6bc5c93478d4","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":635,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95de-71f6-b0d2-e27a988dbac8","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":915,"wording":"[Scrying]","event":"named"}
@@ -52,7 +52,7 @@
 {"id":"01a06572-95de-7147-ae6e-6299dda7e05e","chapterSlug":"rw8-20","paragraph":56,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95de-7469-ab8b-78f202c9639f","chapterSlug":"rw8-20","paragraph":56,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95de-7467-9450-06f210de08a8","chapterSlug":"rw8-20","paragraph":575,"wording":"[Scrying]","event":"named"}
-{"id":"01a06572-95de-7a03-bc24-1bd309e317a1","chapterSlug":"rw8-20","paragraph":590,"wording":"[Scrying]","event":"named","claimed":true,"claimedBySlug":"Jericha","holderQuote":"Tyrion turned. That Jericha was unable to do everything surprised her."}
+{"id":"01a06572-95de-7a03-bc24-1bd309e317a1","chapterSlug":"rw8-20","paragraph":590,"wording":"[Scrying]","event":"named","claimed":true,"claimedBySlug":"jericha","holderQuote":"Tyrion turned. That Jericha was unable to do everything surprised her."}
 {"id":"01a06572-95de-7794-9423-9b35cfb9afb0","chapterSlug":"rw8-22 HE","paragraph":2,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95de-76e3-a730-a4603c2a63f6","chapterSlug":"rw8-28","paragraph":113,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95de-740c-8250-85ac873f6a6e","chapterSlug":"rw8-28","paragraph":1376,"wording":"[Scrying]","event":"named"}
@@ -64,7 +64,7 @@
 {"id":"01a06572-95de-7858-a751-1597e2252c8b","chapterSlug":"rw8-43","paragraph":348,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95de-7ad0-b9c5-ebbf7edbf9a4","chapterSlug":"rw8-38 H","paragraph":88,"wording":"[Scrying]","event":"named","holderSlug":"fetohep","holderQuote":"He actually cancelled the [Scrying] spell. Fetohep sat back as the Vizir continued to root out Crelers."}
 {"id":"01a06572-95de-7e95-9b39-fef129fc9d6b","chapterSlug":"rw8-54 H","paragraph":271,"wording":"[Scrying]","event":"named"}
-{"id":"01a06572-95de-7ae0-882f-724abaf77dad","chapterSlug":"rw8-75","paragraph":294,"wording":"[Scrying]","event":"named","holderSlug":"rhisveri","claimed":true,"claimedBySlug":"Rhisveri","holderQuote":"I know her name! [Scrying] spells work on her, so why…"}
+{"id":"01a06572-95de-7ae0-882f-724abaf77dad","chapterSlug":"rw8-75","paragraph":294,"wording":"[Scrying]","event":"named","holderSlug":"rhisveri","claimed":true,"claimedBySlug":"rhisveri","holderQuote":"I know her name! [Scrying] spells work on her, so why…"}
 {"id":"01a06572-95de-7fd3-bb7d-3e9b8e69f6a4","chapterSlug":"rw8-63 K","paragraph":254,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95de-71fc-8634-96d755f54254","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":680,"wording":"[Scrying]","event":"used","effectQuote":"It took five long minutes before Olesm saw another line of Drisshia’s soldiers clashing with Dekass and archers on the cliffs."}
 {"id":"01a06572-95de-7b22-ae75-8c8fbb955d12","chapterSlug":"rwInterlude – Hectval (Pt- 2)","paragraph":382,"wording":"[Scrying]","event":"named"}
@@ -142,7 +142,7 @@
 {"id":"01a06572-95df-729e-9709-7537cea260c5","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":50,"wording":"[Scrying]","event":"named","holderSlug":"vernoue","holderQuote":"Vernoue was reading a spellbook in her private rooms, trying to memorize"}
 {"id":"01a06572-95df-7928-956b-b0ec0c12260b","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":55,"wording":"[Scrying]","event":"named","holderSlug":"vernoue","holderQuote":"She was almost onto something with this"}
 {"id":"01a06572-95df-79bf-9ef8-04cdc464c819","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":303,"wording":"[Scrying]","event":"named","holderSlug":"vernoue","holderQuote":"She sat up, surprised. Did they even have"}
-{"id":"01a06572-95df-70e1-bf29-baf7ec63789f","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":317,"wording":"[Scrying]","event":"named","holderSlug":"vernoue","claimed":true,"claimedBySlug":"Vernoue","holderQuote":"This is incredible. No"}
+{"id":"01a06572-95df-70e1-bf29-baf7ec63789f","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":317,"wording":"[Scrying]","event":"named","holderSlug":"vernoue","claimed":true,"claimedBySlug":"vernoue","holderQuote":"This is incredible. No"}
 {"id":"01a06572-95df-74bf-ad66-29f6c16f0516","chapterSlug":"rw10-53 UEG","paragraph":1749,"wording":"[Scrying]","event":"named","holderSlug":"drassi","holderQuote":"Drassi had run straight from Channel 2’s broadcasting room"}
 {"id":"01a06572-95df-772d-b196-278b90943985","chapterSlug":"rw10-53 UEG","paragraph":1758,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95df-7fca-916d-a51925f1e756","chapterSlug":"rw10-53 UEG","paragraph":1914,"wording":"[Scrying]","event":"named"}
@@ -158,14 +158,14 @@
 {"id":"01a06572-95df-7270-b854-381b5dde6f97","chapterSlug":"rw10-07","paragraph":344,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95df-784a-9a2d-6d2542675bd7","chapterSlug":"rw10-07","paragraph":355,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95df-7834-87e1-0cea726c7c02","chapterSlug":"rw10-07","paragraph":678,"wording":"[Scrying]","event":"named"}
-{"id":"01a06572-95df-7d21-9837-d5a79dab1b7e","chapterSlug":"rw10-07","paragraph":1233,"wording":"[Scrying]","event":"named","holderSlug":"niers","claimed":true,"claimedBySlug":"Perorn","holderQuote":"Don’t look at a [Scrying] spell of her."}
+{"id":"01a06572-95df-7d21-9837-d5a79dab1b7e","chapterSlug":"rw10-07","paragraph":1233,"wording":"[Scrying]","event":"named","holderSlug":"niers","claimed":true,"claimedBySlug":"perorn","holderQuote":"Don’t look at a [Scrying] spell of her."}
 {"id":"01a06572-95df-75f3-be31-6241c205575e","chapterSlug":"rw10-21 E","paragraph":408,"wording":"[Scrying]","event":"used","holderSlug":"alevica-witch-runner","holderQuote":"By now, the Witch Runner had probably alarmed over two hundred people on the road","effectQuote":"There was a crawling sensation down her back she associated with a [Scrying] spell."}
 {"id":"01a06572-95df-74f9-90da-92923ff264a0","chapterSlug":"rw10-08 (Pt. 1)","paragraph":821,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95df-7fa6-ba6f-ebe31d9a94ff","chapterSlug":"rw9-70 (Pt. 1)","paragraph":330,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95df-70c2-bcb3-c9888dc35206","chapterSlug":"rw9-70 (Pt. 1)","paragraph":760,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95df-7113-a872-ce8faee946b7","chapterSlug":"rw9-70 (Pt. 1)","paragraph":962,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95df-74c5-82be-53bef24e6145","chapterSlug":"rw10-09 E","paragraph":264,"wording":"[Scrying]","event":"named"}
-{"id":"01a06572-95df-726d-8d6d-23ee5d106d71","chapterSlug":"rw10-10 E (Pt. 1)","paragraph":538,"wording":"[Scrying]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"Erin","holderQuote":"I tried using it while I was at sea."}
+{"id":"01a06572-95df-726d-8d6d-23ee5d106d71","chapterSlug":"rw10-10 E (Pt. 1)","paragraph":538,"wording":"[Scrying]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"erin","holderQuote":"I tried using it while I was at sea."}
 {"id":"01a06572-95df-7a35-a324-2f511aecbb9b","chapterSlug":"rw10-51 T","paragraph":413,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95df-7338-925c-6c13e5ae26c7","chapterSlug":"rw10-46 L","paragraph":2533,"wording":"[Scrying]","event":"named"}
 {"id":"01a06572-95df-7ab1-91bb-6ec3f0e15a2e","chapterSlug":"rw9-34","paragraph":4,"wording":"[Scrying]","event":"named"}
