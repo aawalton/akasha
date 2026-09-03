@@ -755,6 +755,13 @@
     "akasha/hook-system": {
       "name": "@akasha/hook-system",
     },
+    "akasha/icloud-photos": {
+      "name": "@akasha/icloud-photos",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/id-minting": {
       "name": "@akasha/id-minting",
     },
@@ -3298,6 +3305,8 @@
     "@akasha/health-samples-import": ["@akasha/health-samples-import@workspace:akasha/health-samples-import"],
 
     "@akasha/hook-system": ["@akasha/hook-system@workspace:akasha/hook-system"],
+
+    "@akasha/icloud-photos": ["@akasha/icloud-photos@workspace:akasha/icloud-photos"],
 
     "@akasha/id-minting": ["@akasha/id-minting@workspace:akasha/id-minting"],
 

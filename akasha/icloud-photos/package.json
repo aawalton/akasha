@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/icloud-photos",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./album-pulling": "./album-pulling/album-pulling.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/errors-core": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
