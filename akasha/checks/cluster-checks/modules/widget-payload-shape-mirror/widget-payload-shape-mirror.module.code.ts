@@ -1,5 +1,11 @@
-import { readWidgetPayloads, type SwiftStruct } from "./widget-payloads.ts"
-import { type CanonicalRef, readWireVocabulary } from "./widget-wire-vocabulary.ts"
+import {
+  readWidgetPayloads,
+  type SwiftStruct,
+} from "../widget-payloads/widget-payloads.module.code.ts"
+import {
+  type CanonicalRef,
+  readWireVocabulary,
+} from "../widget-wire-vocabulary/widget-wire-vocabulary.module.code.ts"
 
 export interface PayloadShapeViolation {
   readonly member: string

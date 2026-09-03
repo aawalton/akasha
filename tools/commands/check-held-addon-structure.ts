@@ -6,16 +6,19 @@ import { join, relative } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+import {
+  type AddonStructureFacts,
+  scanAddonStructure,
+} from "../../akasha/checks/cluster-checks/modules/held-addon-structure/held-addon-structure.module.code.ts"
 import { examinePopulation } from "../../akasha/checks/cluster-checks/modules/population/population.module.code.ts"
+import {
+  readTerritoryMap,
+  TERRITORY_MAP_PATH,
+} from "../../akasha/checks/cluster-checks/modules/territory-map/territory-map.module.code.ts"
 import {
   exitOnResult,
   exitOnToolError,
 } from "../../akasha/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.code.ts"
-import {
-  type AddonStructureFacts,
-  scanAddonStructure,
-} from "../lib/check-workflow/held-addon-structure.ts"
-import { readTerritoryMap, TERRITORY_MAP_PATH } from "../lib/check-workflow/territory-map.ts"
 import { parseArgs } from "../lib/parse-args.ts"
 import type { CommandHelp, HelpFlag } from "../ops/surface.ts"
 

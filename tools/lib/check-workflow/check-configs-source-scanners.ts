@@ -1,7 +1,7 @@
+import { PROSE_CARRIER_NODE_TYPES } from "../../../akasha/checks/cluster-checks/modules/prose-mechanism-restatement/prose-mechanism-restatement.module.code.ts"
 import type { PopulationEntry } from "../graph/queries/membership.ts"
 import { type CheckConfig, treeShaArgs } from "./check-configs-types"
 import { VERIFICATION_SURFACE_CHECKS } from "./check-configs-verification-surface.ts"
-import { PROSE_CARRIER_NODE_TYPES } from "./prose-mechanism-restatement.ts"
 
 const TS_POPULATION: readonly PopulationEntry[] = ["ts-file", "tsx-file"]
 const YAML_POPULATION: readonly PopulationEntry[] = ["yaml-file", "yml-file"]

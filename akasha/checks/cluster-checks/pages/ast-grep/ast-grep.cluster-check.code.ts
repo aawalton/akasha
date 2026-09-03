@@ -3,6 +3,10 @@ import { relative, resolve } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { z } from "zod"
 import {
+  discoverSgconfigs,
+  readAstGrepRules,
+} from "../../../../../tools/lib/check-workflow/check-configs-ast-grep"
+import {
   type AstGrepFinding,
   type AstGrepViolation,
   decideRuleOutcome,
@@ -11,11 +15,7 @@ import {
   parseWalkedEntities,
   reconcilePopulations,
   stripInspectTrace,
-} from "../../../../../tools/lib/check-workflow/ast-grep-rules"
-import {
-  discoverSgconfigs,
-  readAstGrepRules,
-} from "../../../../../tools/lib/check-workflow/check-configs-ast-grep"
+} from "../../modules/ast-grep-rules/ast-grep-rules.module.code.ts"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"

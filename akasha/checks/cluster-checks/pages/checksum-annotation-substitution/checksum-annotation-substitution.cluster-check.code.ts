@@ -11,7 +11,7 @@ import {
   isChecksumScanPath,
   type SeamSubstitutionCensus,
   scanChecksumAnnotationSubstitution,
-} from "../../../../../tools/lib/check-workflow/checksum-annotation-substitution"
+} from "../../modules/checksum-annotation-substitution/checksum-annotation-substitution.module.code.ts"
 import {
   type FlagSpec,
   parseArgs,

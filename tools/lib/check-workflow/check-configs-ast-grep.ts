@@ -3,13 +3,13 @@ import { resolve } from "node:path"
 import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { parse } from "yaml"
 import { z } from "zod"
-import { findFiles } from "../../../akasha/checks/cluster-checks/modules/file-finding/file-finding.module.code.ts"
 import {
   type AstGrepRule,
   type AstGrepWorkspace,
   parseRuleDoc,
   planAstGrepWatch,
-} from "./ast-grep-rules.ts"
+} from "../../../akasha/checks/cluster-checks/modules/ast-grep-rules/ast-grep-rules.module.code.ts"
+import { findFiles } from "../../../akasha/checks/cluster-checks/modules/file-finding/file-finding.module.code.ts"
 import type { CheckConfig } from "./check-configs-types"
 
 const sgconfigSchema = z.looseObject({ ruleDirs: z.array(z.string()).default([]) })

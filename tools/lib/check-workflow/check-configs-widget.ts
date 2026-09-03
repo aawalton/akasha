@@ -1,5 +1,5 @@
+import { PAYLOAD_MIRRORS } from "../../../akasha/checks/cluster-checks/modules/widget-payload-shape-mirror/widget-payload-shape-mirror.module.code.ts"
 import type { CheckConfig } from "./check-configs-types.ts"
-import { PAYLOAD_MIRRORS } from "./widget-payload-shape-mirror.ts"
 
 const CANONICAL_SEEDS: readonly string[] = [
   ...new Set(PAYLOAD_MIRRORS.map((mirror) => `ts-file:code:${mirror.canonical.file}`)),

@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { TERRITORY_MAP_PATH } from "./territory-map.ts"
+import { TERRITORY_MAP_PATH } from "../../../akasha/checks/cluster-checks/modules/territory-map/territory-map.module.code.ts"
 
 export interface Issue {
   readonly file: string

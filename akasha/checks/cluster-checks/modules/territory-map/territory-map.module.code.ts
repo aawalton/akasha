@@ -1,9 +1,10 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { z } from "zod"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { z } from "zod"
 
-export const TERRITORY_MAP_PATH = "tools/lib/check-workflow/territory-map.json"
+export const TERRITORY_MAP_PATH =
+  "akasha/checks/cluster-checks/modules/territory-map/territory-map.json"
 
 const TerritoryNodeSchema = z
   .object({
