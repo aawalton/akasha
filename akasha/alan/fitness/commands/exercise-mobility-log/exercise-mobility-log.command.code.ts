@@ -91,7 +91,7 @@ export async function exerciseMobilityLog(argv: readonly string[], given: Given)
   const note = proseIn(said, NOTE)
   if ("refused" in note) return refused(note.refused, INPUT)
 
-  const values: Record<string, Value> = {
+  const values: Value = {
     title: mobilityReadingTitle(metric.chosen, date, side.chosen),
     context: context.chosen,
     mobilityReadingDate: date,

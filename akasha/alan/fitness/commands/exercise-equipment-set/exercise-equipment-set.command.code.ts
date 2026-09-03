@@ -50,7 +50,7 @@ export async function exerciseEquipmentSet(argv: readonly string[], given: Given
     return refused(`\`${TITLE}\` names the piece of kit, and this call names none`, INPUT)
   }
 
-  const values: Record<string, Value> = { title }
+  const values: Value = { title }
 
   const categorySaid = said.held.get(CATEGORY)
   if (categorySaid !== undefined) {

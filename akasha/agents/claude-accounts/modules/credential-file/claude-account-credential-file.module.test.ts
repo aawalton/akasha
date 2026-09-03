@@ -227,10 +227,10 @@ function changeArgs(dir: string, watched: Watched, over: Record<string, unknown>
     push: async (slug: string, where: string) => {
       watched.pushes.push([slug, where])
     },
-    onReauthDetected: (slug: string) => {
+    onReauthDetected: (slug: string): undefined => {
       watched.reauths.push(slug)
     },
-    said: (line: string) => {
+    said: (line: string): undefined => {
       watched.said.push(line)
     },
     ...over,

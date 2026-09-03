@@ -150,7 +150,7 @@ export async function exerciseAdd(argv: readonly string[], given: Given): Promis
     ...(Array.isArray(secondary) ? { secondaryMuscles: secondary } : {}),
   }
 
-  const values: Record<string, Value> = {
+  const values: Value = {
     title,
     exerciseSource: ALANS_OWN,
     loadFactor: loadFactor.number ?? NO_LOAD,

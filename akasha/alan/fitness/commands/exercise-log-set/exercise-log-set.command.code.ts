@@ -93,7 +93,7 @@ export async function exerciseLogSet(argv: readonly string[], given: Given): Pro
 
   const named = titleOf(exercise.row)
   const slug = setLogSlug(session.row.slug, exercise.row.slug, setNumber)
-  const values: Record<string, Value> = {
+  const values: Value = {
     title: `${named} set ${setNumber}`,
     sessionSlug: session.row.slug,
     exerciseSlug: exercise.row.slug,

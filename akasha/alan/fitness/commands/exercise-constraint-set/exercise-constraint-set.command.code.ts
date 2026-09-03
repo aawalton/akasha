@@ -58,7 +58,7 @@ export async function exerciseConstraintSet(
     return refused(`\`${TITLE}\` carries the headline, and this call gives none`, INPUT)
   }
 
-  const values: Record<string, Value> = { title }
+  const values: Value = { title }
 
   const kindSaid = said.held.get(KIND)
   if (kindSaid !== undefined) {
