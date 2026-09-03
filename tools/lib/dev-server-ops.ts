@@ -68,7 +68,7 @@ const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
   },
   atlas: {
     name: "atlas",
-    packagePath: "alanwalton/atlas-web",
+    packagePath: "akasha/alan/atlas-web",
     basePort: 3600,
     extraDevArgs: [],
     devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],

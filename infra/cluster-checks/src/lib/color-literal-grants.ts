@@ -24,13 +24,13 @@ export const COLOR_LITERAL_ALLOWLIST: readonly ColorAllowlistEntry[] = [
       "Alan grant 2026-07-02: --yellow mirror in standalone serialized SVG favicon documents; page CSS vars cannot cascade in.",
   },
   {
-    path: "alanwalton/atlas-web/app/lib/nav-icon-svg.ts",
+    path: "akasha/alan/atlas-web/atlas-nav-icon-svg/atlas-nav-icon-svg.module.code.ts",
     values: ["oklch(0.63 0.13 73)"],
     reason:
       "Alan grant 2026-07-02: --yellow mirror in standalone serialized SVG favicon documents; page CSS vars cannot cascade in.",
   },
   {
-    path: "alanwalton/atlas-web/app/components/location-map.tsx",
+    path: "akasha/alan/atlas-web/location-map/location-map.module.code.tsx",
     values: ["#e6e4df"],
     reason:
       "Alan grant 2026-07-02: MapLibre background layer matching the external OSM tile ground color; semantics external to the palette.",

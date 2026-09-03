@@ -41,11 +41,11 @@ interface Violation {
 
 const BURSTABLE_EXEMPTIONS: readonly (readonly [string, string])[] = [
   [
-    "alanwalton/atlas-web/generated/atlas-deployment.generated.yaml",
+    "akasha/alan/atlas-web/generated/atlas-deployment.generated.yaml",
     "init-code",
   ],
   [
-    "alanwalton/atlas-web/generated/atlas-deployment.generated.yaml",
+    "akasha/alan/atlas-web/generated/atlas-deployment.generated.yaml",
     "code-sync",
   ],
   ["akasha/alan/web/generated/web-deployment.generated.yaml", "init-code"],

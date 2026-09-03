@@ -1,15 +1,16 @@
 {
   "workspaces": {
-    "alanwalton/atlas-web": {
+    "akasha/alan/atlas-web": {
       "entry": [
-        "app/**/*.{ts,tsx}",
+        "root.tsx",
+        "routes.ts",
+        "routes/**/*.{ts,tsx}",
+        "entry.server.tsx",
         "tunnel-routes.ts",
         "react-router.config.ts",
         "vite.config.ts",
         "server.ts",
-        "deploy/k8s/**/*.ts",
-        "scripts/**/*.script.ts",
-        "scripts/**/*.test.ts"
+        "*.cluster-service.code.attachment.ts"
       ],
       "project": [
         "**/*.{ts,tsx}"
