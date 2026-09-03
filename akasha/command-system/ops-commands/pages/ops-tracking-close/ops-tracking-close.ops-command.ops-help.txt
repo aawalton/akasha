@@ -1,1 +1,0 @@
-Close the currently-open session — stamp its endTime — without opening a new one (stopping for the day, a break, or heading out). `--at` overrides the close instant (default now). Errors when no session is open.

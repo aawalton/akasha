@@ -1,1 +1,0 @@
-Show the current open session (if any) and a day's tracked blocks. Defaults to today's ESO day; pass `--date` for a past day. Read-only — lists each block's span, duration, and safety/difficulty ratings. Stress-capacity hours are a view-computed formula on the daily page; see them in the app, not here.
