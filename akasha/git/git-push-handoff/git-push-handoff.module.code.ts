@@ -122,7 +122,7 @@ function onPath(name: string): string | null {
 }
 
 function pusherHere(): string {
-  return join(akashaRoot(), "repo", "push", "push-repo.ts")
+  return join(akashaRoot(), "akasha", "git", "push-repo", "push-repo.module.code.ts")
 }
 
 export function handOffPush(root: string): string {
