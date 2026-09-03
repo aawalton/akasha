@@ -9,7 +9,7 @@ export const iAmComfortablyRetired = {
   identityStatementLevel: 1,
   notionId: "85f12564cfaf4f959bc95071e07aa50e",
   identityStatementRank: "b-rank",
-  replacedByIds: ["019ea810-a0f8-717c-9ccf-c564d72efbce"],
+  replacedByStatementSlugs: ["i-am-independently-wealthy"],
   identityStatementStatus: "current",
   identityStatementValueSlug: "wealth",
   icon: "file-text",

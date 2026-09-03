@@ -3,7 +3,7 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type NotionId = string
 
 export const notionId = {
-  id: "01a06589-d12a-7079-a832-4577b7a16319",
+  id: "01a0658a-739f-7f80-8848-4928e67a325c",
   pageTypeSlug: "text-property",
   slug: "notion-id",
   propertySlug: "notion-id",

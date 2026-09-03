@@ -10,7 +10,10 @@ export const myPsychologicalGenderIs80Masculine = {
   notionId: "0a7a0efc2e9349d38d1fd20a64dafee7",
   identityStatementRank: "s-rank",
   identityStatementStatus: "in-progress",
-  subItemIds: ["019ea810-a462-7c1c-bd25-f345fde6b5f4", "019ea810-a49b-704e-9024-30dba6c09061"],
+  subStatementSlugs: [
+    "femininity-has-a-dark-side-as-well-as-a-light-side",
+    "masculinity-has-a-light-side-as-well-as-a-dark-side",
+  ],
   identityStatementTags: ["gender"],
   identityStatementValueSlug: "faith",
   icon: "file-text",

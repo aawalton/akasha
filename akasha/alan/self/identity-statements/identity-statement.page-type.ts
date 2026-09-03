@@ -10,9 +10,9 @@ import type { IdentityStatementTags } from "./properties/identity-statement-tags
 import type { IdentityStatementValueSlug } from "./properties/identity-statement-value-slug.relation-property.ts"
 import type { NotionId } from "./properties/notion-id.text-property.ts"
 import type { ParentStatementSlug } from "./properties/parent-statement-slug.relation-property.ts"
-import type { ReplacedByIds } from "./properties/replaced-by-ids.text-property.ts"
-import type { ReplacesIds } from "./properties/replaces-ids.text-property.ts"
-import type { SubItemIds } from "./properties/sub-item-ids.text-property.ts"
+import type { ReplacedByStatementSlugs } from "./properties/replaced-by-statement-slugs.relation-property.ts"
+import type { ReplacesStatementSlugs } from "./properties/replaces-statement-slugs.relation-property.ts"
+import type { SubStatementSlugs } from "./properties/sub-statement-slugs.relation-property.ts"
 
 export type IdentityStatement = Page & {
   title: Title
@@ -21,17 +21,17 @@ export type IdentityStatement = Page & {
   notionId: NotionId
   parentStatementSlug?: ParentStatementSlug
   identityStatementRank: IdentityStatementRank
-  replacedByIds?: readonly ReplacedByIds[]
-  replacesIds?: readonly ReplacesIds[]
+  replacedByStatementSlugs?: readonly ReplacedByStatementSlugs[]
+  replacesStatementSlugs?: readonly ReplacesStatementSlugs[]
   identityStatementStatus: IdentityStatementStatus
-  subItemIds?: readonly SubItemIds[]
+  subStatementSlugs?: readonly SubStatementSlugs[]
   identityStatementTags?: readonly IdentityStatementTags[]
   identityStatementValueSlug: IdentityStatementValueSlug
   icon: Icon
 }
 
 export const identityStatement = {
-  id: "01a06589-d12a-73aa-b0d3-6e91b4670af5",
+  id: "01a0658a-739f-7d92-aed5-20be788a960f",
   pageTypeSlug: "page-type",
   slug: "identity-statement",
   definition: "one sentence Alan means to become true of him",
@@ -41,14 +41,14 @@ export const identityStatement = {
     "number-property/identity-statement-level",
     "relation-property/identity-statement-value-slug",
     "relation-property/parent-statement-slug",
+    "relation-property/replaced-by-statement-slugs",
+    "relation-property/replaces-statement-slugs",
+    "relation-property/sub-statement-slugs",
     "select-property/about",
     "select-property/identity-statement-rank",
     "select-property/identity-statement-status",
     "text-property/identity-statement-tags",
     "text-property/notion-id",
-    "text-property/replaced-by-ids",
-    "text-property/replaces-ids",
-    "text-property/sub-item-ids",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
@@ -57,10 +57,10 @@ export const identityStatement = {
     { pagePropertySlug: "notion-id", required: true, many: false },
     { pagePropertySlug: "parent-statement-slug", required: false, many: false },
     { pagePropertySlug: "identity-statement-rank", required: true, many: false },
-    { pagePropertySlug: "replaced-by-ids", required: false, many: true, max: null },
-    { pagePropertySlug: "replaces-ids", required: false, many: true, max: null },
+    { pagePropertySlug: "replaced-by-statement-slugs", required: false, many: true, max: null },
+    { pagePropertySlug: "replaces-statement-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "identity-statement-status", required: true, many: false },
-    { pagePropertySlug: "sub-item-ids", required: false, many: true, max: null },
+    { pagePropertySlug: "sub-statement-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "identity-statement-tags", required: false, many: true, max: null },
     { pagePropertySlug: "identity-statement-value-slug", required: true, many: false },
     { pagePropertySlug: "icon", required: true, many: false },

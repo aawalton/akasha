@@ -3,7 +3,7 @@ import type { NumberProperty } from "@akasha/pages-system/number-property"
 export type IdentityStatementLevel = number
 
 export const identityStatementLevel = {
-  id: "01a06589-d12a-75d5-aa21-a1251828bec5",
+  id: "01a0658a-739f-71ab-a331-0a7bca35e0bd",
   pageTypeSlug: "number-property",
   slug: "identity-statement-level",
   propertySlug: "identity-statement-level",
