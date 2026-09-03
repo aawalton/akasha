@@ -14,6 +14,12 @@ export const imessage = {
     "module/imessage-remote",
     "module/imessage-send",
     "module/message-lines",
+    "module/imessage-command-reading",
+    "command/imessage-contacts",
+    "command/imessage-recent",
+    "command/imessage-search",
+    "command/imessage-send",
+    "command/imessage-unread-list",
   ],
   invariants: [
     {
@@ -27,6 +33,10 @@ export const imessage = {
     {
       invariantKind: "departure",
       statement: "The message store is queried through sqlite3 on that mac.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command here is named for the path the old ops command was reached by.",
     },
   ],
 } as const satisfies WorkspacePackage

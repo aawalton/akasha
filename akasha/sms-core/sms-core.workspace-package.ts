@@ -16,16 +16,18 @@ export const smsCore = {
     "module/acting-account",
     "module/jenny-handler-routing",
     "module/ki-handler-routing",
-    "page-type/telnyx-account",
+    "module/sms-command-reading",
+    "command/sms-acting-account",
+    "command/sms-send",
   ],
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here opens a network connection.",
+      statement: "No module here opens a network connection.",
     },
     {
       invariantKind: "absence",
-      statement: "No credential is read from the environment here.",
+      statement: "No module here reads a credential from the environment.",
     },
     {
       invariantKind: "departure",
@@ -34,6 +36,14 @@ export const smsCore = {
     {
       invariantKind: "departure",
       statement: "A sender nobody enrolled is turned away rather than answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command here is named for the path the old ops command was reached by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command here is the one thing that reaches the carrier.",
     },
   ],
 } as const satisfies WorkspacePackage
