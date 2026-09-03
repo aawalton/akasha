@@ -8,7 +8,9 @@ export const seatSystem = {
   manifest: "json",
   partSlugs: [
     "page-type/agent-settings",
+    "page-type/log-source",
     "page-type/seat",
+    "page-type/seat-log-day",
     "page-type/subagent",
     "page-type/supervisor-action",
     "module/seat-launching",
