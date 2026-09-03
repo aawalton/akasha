@@ -9,6 +9,7 @@ export const seatSystem = {
   partSlugs: [
     "page-type/agent-settings",
     "page-type/log-source",
+    "page-type/message",
     "page-type/seat",
     "page-type/seat-log-day",
     "page-type/subagent",

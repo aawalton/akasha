@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./channel-delivery": "./channel-delivery/channel-delivery.module.code.ts",
+    "./message-page-type": "./messages/message.page-type.ts",
     "./recipient-resolver-config": "./recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.code.ts",
     "./recipient-resolver-deps": "./recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts",
     "./recipient-resolver-registry": "./recipient-resolving/recipient-resolver-registry/recipient-resolver-registry.module.code.ts",
