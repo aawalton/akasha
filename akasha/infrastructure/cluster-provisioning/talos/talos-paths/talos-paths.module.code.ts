@@ -2,10 +2,10 @@ import { homedir } from "node:os"
 import { resolve } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 
-const SECRETS_DIR = "pages/cluster/"
+const CLUSTER_PAGES_AT = "akasha/machines/clusters/pages/"
 
 export function clusterSecretsSopsPath(cluster: string): string {
-  return resolve(ownRepoRoot(), `${SECRETS_DIR}${cluster}.sops.yaml`)
+  return resolve(ownRepoRoot(), `${CLUSTER_PAGES_AT}${cluster}.cluster.sops.yaml`)
 }
 
 export function clusterTalosconfigPath(cluster: string): string {
