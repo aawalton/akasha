@@ -1,16 +1,18 @@
 import { readFileSync, writeFileSync } from "node:fs"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { emitReading } from "@akasha/verdict/reading-channel"
-import { akashaAccountBeside, akashaAccounts } from "@tools/lib/claude-account-akasha"
 import { ALAN_PERSON, notify } from "@tools/lib/notify"
-import { EXPIRES_KEY } from "@tools/lib/oauth-page-push"
 import {
   type AccountReading,
+  readingsIn,
   stallAcross,
   stallLines,
   type UpkeepStall,
-} from "@tools/lib/oauth-upkeep-stall"
+} from "../upkeep-stall/claude-account-upkeep-stall.module.code.ts"
 
 const LATCH_AT = "/var/tmp/claude-account-upkeep-stall.latch"
+
+const NAMED_AT_MOST = 3
 
 interface StallFinding {
   readonly at: string
@@ -34,29 +36,21 @@ interface StallReading {
 // Whether upkeep has stalled is ruled on by reading each account. A fleet with no accounts in it
 // is not a fleet in good health — it is a failure to look, and answering it as zero accounts
 // judged would report all clear at exactly the moment this is the only thing still watching.
-function readingsUnder(): readonly AccountReading[] {
-  const accounts = akashaAccounts()
-  if (accounts.length === 0) {
+function readingsUnder(root: string): readonly AccountReading[] {
+  const readings = readingsIn(root)
+  if (readings.length === 0) {
     throw new Error(
       "no claude-account stands in akasha, and whether upkeep has stalled is ruled on by reading " +
         "each one, so none to read is a failure to look rather than a fleet in good health"
     )
   }
-  return accounts.map((account) => {
-    const held = akashaAccountBeside(account)
-    const empty = held === null || Object.keys(held).length === 0
-    return {
-      account,
-      held: empty ? null : held,
-      why: empty ? "nothing stands beside its page, or nothing that parsed" : null,
-    }
-  })
+  return readings
 }
 
 function buildReading(stall: UpkeepStall, observedAtMs: number): StallReading {
   const findings: readonly StallFinding[] = stall.entries
     .filter((one) => one.verdict !== "current")
-    .map((one) => ({ at: one.account, detail: `${one.verdict} — ${one.detail}` }))
+    .map((one) => ({ at: one.slug, detail: `${one.verdict} — ${one.detail}` }))
   const coverage = { observed: stall.judged, declared: stall.pages, unit: "claude-account pages" }
   if (stall.pages === 0) {
     return {
@@ -102,7 +96,7 @@ function holdLatch(accounts: readonly string[]): void {
 
 function bodyFor(stall: UpkeepStall): string {
   const worst = stall.entries.filter((one) => one.verdict !== "current" && one.verdict !== "unread")
-  const named = worst.slice(0, 3).map((one) => `${one.account} ${one.verdict}`)
+  const named = worst.slice(0, NAMED_AT_MOST).map((one) => `${one.slug} ${one.verdict}`)
   const rest = worst.length > named.length ? ` and ${worst.length - named.length} more` : ""
   return (
     `${named.join(", ")}${rest}. ` +
@@ -115,7 +109,8 @@ async function main(argv: readonly string[]): Promise<number> {
   const json = argv.includes("--json")
   const wanted = argv.includes("--notify")
 
-  const stall = stallAcross(readingsUnder(), Date.now(), EXPIRES_KEY)
+  const root = rootFor(resolveRoots(), AKASHA)
+  const stall = stallAcross(readingsUnder(root), Date.now())
 
   if (json) {
     process.stdout.write(`${JSON.stringify(stall)}\n`)
