@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const buggyWingCommander = {
   id: "01a0657e-01c0-7cf8-80f4-4a33e4ff43cd",

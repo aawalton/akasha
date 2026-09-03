@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const bonemenderHealer = {
   id: "01a0657e-01bf-7ec6-8dae-99321c94398a",

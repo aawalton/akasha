@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const bereavedMatriarchOfHouseTerland = {
   id: "01a0657e-133d-7adf-89bb-b1c4371a5162",

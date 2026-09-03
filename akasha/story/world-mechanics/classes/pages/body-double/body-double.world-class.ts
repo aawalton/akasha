@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const bodyDouble = {
   id: "01a0657e-133f-7a6e-b539-c368af072242",

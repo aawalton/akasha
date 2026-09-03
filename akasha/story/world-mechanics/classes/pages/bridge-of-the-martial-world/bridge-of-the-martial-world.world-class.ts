@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const bridgeOfTheMartialWorld = {
   id: "01a0657e-1340-78aa-8fdd-fbc3907782e2",

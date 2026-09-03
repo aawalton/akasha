@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const camerawoman = {
   id: "01a0657e-01c1-7250-b46f-8a3f53fde500",

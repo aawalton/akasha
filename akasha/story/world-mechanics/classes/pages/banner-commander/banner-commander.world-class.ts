@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const bannerCommander = {
   id: "01a0657e-01b0-78f5-910d-5f7d4cd0b97a",

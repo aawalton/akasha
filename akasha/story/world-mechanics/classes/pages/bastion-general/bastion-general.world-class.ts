@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const bastionGeneral = {
   id: "01a0657e-133c-7550-b478-ec41505c3061",

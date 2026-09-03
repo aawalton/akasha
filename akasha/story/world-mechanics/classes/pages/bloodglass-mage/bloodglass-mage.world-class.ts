@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const bloodglassMage = {
   id: "01a0657e-133f-7280-9f80-04277fe6e2ce",

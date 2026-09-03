@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const barbarian = {
   id: "01a0657e-1339-7ed3-9556-01ae4a1983f5",

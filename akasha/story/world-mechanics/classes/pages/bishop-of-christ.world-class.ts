@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.ts"
+import type { WorldClass } from "../world-class.page-type.ts"
 
 export const bishopOfChrist = {
   id: "01a0657e-01bb-7bd1-a11b-2913732a0f30",

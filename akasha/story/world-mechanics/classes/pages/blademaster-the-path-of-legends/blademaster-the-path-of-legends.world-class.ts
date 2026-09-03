@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const blademasterThePathOfLegends = {
   id: "01a0657e-133f-7f0e-a01d-3ff37e07af8f",

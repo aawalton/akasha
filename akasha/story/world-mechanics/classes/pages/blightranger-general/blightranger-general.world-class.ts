@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const blightrangerGeneral = {
   id: "01a0657e-01be-7dcc-a6f5-905d5fb52b82",

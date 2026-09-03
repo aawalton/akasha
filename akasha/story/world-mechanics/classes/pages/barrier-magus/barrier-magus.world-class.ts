@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const barrierMagus = {
   id: "01a0657e-133c-704c-bed9-f1a97af5b222",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const bloodmage = {
   id: "01a0657e-133f-78d2-9b33-b5ea5c4873f0",

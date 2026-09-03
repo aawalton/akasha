@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const bastionShieldbearer = {
   id: "01a0657e-01b2-7da5-b55a-049aaf63241a",

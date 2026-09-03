@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const bannerladyOfMemorySFlame = {
   id: "01a0657e-1339-7280-baf5-37469e1121c8",

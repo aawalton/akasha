@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const baron = {
   id: "01a0657e-133c-7098-909a-319e39a55d5a",
