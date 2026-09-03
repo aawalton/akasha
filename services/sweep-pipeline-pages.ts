@@ -4,4 +4,6 @@
 // runs this path has to keep answering. It stands as a shim over the module that supersedes it
 // rather than as a second copy of the body, as `tools/service-wrapper.ts` does for the same
 // reason. Removing this file again before the unit is rewritten stops the sweep.
-import "../akasha/changes/pipelines/pipeline-page-sweeping/pipeline-page-sweeping.module.code.ts"
+import { sweepingPipelinePages } from "../akasha/changes/pipelines/pipeline-page-sweeping/pipeline-page-sweeping.module.code.ts"
+
+await sweepingPipelinePages()

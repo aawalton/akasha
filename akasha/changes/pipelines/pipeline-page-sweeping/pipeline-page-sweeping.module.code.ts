@@ -11,7 +11,7 @@ import {
   stopsOnSignal,
 } from "../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 
-async function main(): Promise<void> {
+export async function sweepingPipelinePages(): Promise<void> {
   const ac = stopsOnSignal()
 
   const roots = resolveRoots()
@@ -45,7 +45,7 @@ async function main(): Promise<void> {
 }
 
 if (import.meta.main) {
-  main().catch((err) => {
+  sweepingPipelinePages().catch((err) => {
     console.error(`${LOG} fatal:`, err)
     process.exit(1)
   })
