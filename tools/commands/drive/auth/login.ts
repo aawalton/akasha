@@ -2,8 +2,7 @@ export const summary = "One-time OAuth consent that mints the read-only Drive re
 
 import { DRIVE_SCOPES } from "@akasha/google-drive/env"
 import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
-import { parseOauthCallbackUrl } from "@akasha/google-oauth/oauth-callback"
-import { googleOauthConsent } from "../../../lib/google-oauth-consent.ts"
+import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"
 
@@ -45,7 +44,6 @@ export default async function driveAuthLogin(args: readonly string[]): Promise<v
   const { clientId, clientSecret } = readGoogleOauthAppCredentials()
 
   await googleOauthConsent({
-    callbackParser: parseOauthCallbackUrl,
     scopes: DRIVE_SCOPES,
     clientId,
     clientSecret,

@@ -1,8 +1,7 @@
 export const summary = "Set Alan's own response (accept/decline/tentative) on an event, as JSON"
 
 import type { RsvpStatus } from "@akasha/google-calendar/types"
-import { calendarEvents, calendarOAuthClient } from "../../../lib/calendar-google.ts"
-import { narrowSendUpdates, SEND_UPDATES } from "../../../lib/calendar-send-updates.ts"
+import { narrowSendUpdates, SEND_UPDATES } from "@akasha/google-calendar/send-updates-narrowing"
 import { inputError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"
@@ -66,8 +65,8 @@ async function narrowStatus(raw: string): Promise<RsvpStatus> {
 export default async function calendarEventsRsvp(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
-  const client = await calendarOAuthClient()
-  const events = await calendarEvents()
+  const client = await (await import("@akasha/google-calendar/client")).makeOAuthCalendarClient()
+  const events = await import("@akasha/google-calendar/events")
   const event = await events.rsvpEvent(client, {
     calendarId: parsed.string("--calendar"),
     eventId: parsed.requireString("--event"),

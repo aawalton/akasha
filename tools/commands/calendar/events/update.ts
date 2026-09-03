@@ -1,8 +1,7 @@
 export const summary = "Patch fields of an existing calendar event and print it as JSON"
 
 import type { EventPatch } from "@akasha/google-calendar/types"
-import { calendarEvents, calendarOAuthClient } from "../../../lib/calendar-google.ts"
-import { narrowSendUpdates, SEND_UPDATES } from "../../../lib/calendar-send-updates.ts"
+import { narrowSendUpdates, SEND_UPDATES } from "@akasha/google-calendar/send-updates-narrowing"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"
 
@@ -115,8 +114,8 @@ export default async function calendarEventsUpdate(args: readonly string[]): Pro
     sendUpdates: await narrowSendUpdates(parsed.string("--send-updates")),
   }
 
-  const client = await calendarOAuthClient()
-  const events = await calendarEvents()
+  const client = await (await import("@akasha/google-calendar/client")).makeOAuthCalendarClient()
+  const events = await import("@akasha/google-calendar/events")
   const event = await events.updateEvent(client, patch)
 
   process.stdout.write(`${JSON.stringify(event, null, 2)}\n`)

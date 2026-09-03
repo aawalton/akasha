@@ -1,7 +1,6 @@
 export const summary = "Fetch a single calendar event by id and print it as JSON"
 
 import type { CommandHelp } from "../../../ops/surface.ts"
-import { calendarClient, calendarEvents } from "../../../lib/calendar-google.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 
 export const help: CommandHelp = {
@@ -38,8 +37,8 @@ export const help: CommandHelp = {
 export default async function calendarEventsGet(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
-  const client = await calendarClient()
-  const events = await calendarEvents()
+  const client = await (await import("@akasha/google-calendar/client")).makeCalendarClient()
+  const events = await import("@akasha/google-calendar/events")
   const event = await events.getEvent(client, {
     calendarId: parsed.string("--calendar"),
     eventId: parsed.requireString("--event"),
