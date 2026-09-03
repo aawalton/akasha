@@ -1,5 +1,5 @@
 import { unclaimedTo, writeMessage } from "@tools/lib/message-file"
-import { composedNameOf } from "@tools/lib/seat-rename"
+import { composedNameOf } from "../../seat-rename/seat-rename.module.code.ts"
 
 const SENDER = "supervisor"
 

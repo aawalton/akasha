@@ -1,4 +1,4 @@
-import { readTranscriptMtimeMs } from "@tools/lib/agent-io-probe"
+import { readTranscriptMtimeMs } from "../../agent-io-probe/agent-io-probe.module.code.ts"
 import {
   busyTrail,
   logPastCliffOverride,

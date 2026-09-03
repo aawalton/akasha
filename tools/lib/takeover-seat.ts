@@ -1,12 +1,12 @@
+import { scanProcEntries } from "@akasha/seat-system/proc-scan"
+import { seatRecord } from "@akasha/seat-system/seat-facts"
 import { liveAgentPidsFromProc } from "@akasha/seat-system/seat-proc-liveness"
+import { resolveSessionIdByAgentId } from "@akasha/seat-system/seat-session-resolve"
 import { SEAT_START_DIR } from "@akasha/seat-system/supervisor-config"
 import { ending } from "@akasha/utils-process/process-ending"
 import { dataError, operationalError } from "./exit.ts"
 import { decideKillTarget } from "./kill-target-plan.ts"
-import { scanProcEntries } from "./proc-scan.ts"
-import { seatRecord } from "./seat-facts.ts"
 import { resolveSeatTarget } from "./seat-handle.ts"
-import { resolveSessionIdByAgentId } from "./seat-session-resolve.ts"
 import { materializeLocalTranscript } from "./transcript-materialize.ts"
 
 export interface TakenSeat {

@@ -1,4 +1,4 @@
-import { controlOf, setControl } from "./seat-control.ts"
+import { controlOf, setControl } from "@akasha/seat-system/seat-control"
 
 const DEFAULT_TIMEOUT_MS = 30_000
 
@@ -54,10 +54,7 @@ export async function setRequestedAction(
 ): Promise<void> {
   setControl(
     agentId,
-    buildRequestedActionSet(
-      request,
-      request.action === "restart" ? Date.now() : undefined
-    )
+    buildRequestedActionSet(request, request.action === "restart" ? Date.now() : undefined)
   )
 }
 

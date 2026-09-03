@@ -26,7 +26,7 @@ import {
 import { materializeSpawnSettings } from "@akasha/seat-system/supervisor-spawn-settings"
 import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import type { AgentProcess } from "@akasha/seat-system/supervisor-types"
-import { buildInteractiveCLIArgs } from "@tools/lib/claude-launch-args"
+import { buildInteractiveCLIArgs } from "../../claude-launch-args/claude-launch-args.module.code.ts"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,

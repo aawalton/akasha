@@ -1,9 +1,12 @@
 import { everyRecipient, messagesTo } from "@tools/lib/message-file"
 import { readOwed } from "@tools/lib/owed-read"
 import { seatsPresent } from "@tools/lib/seat-roster"
-import type { TurnPendingComponent } from "@tools/lib/seat-turn-pending"
-import { seatTurnStateOf, turnStillToCome } from "@tools/lib/seat-turn-state"
 import { principalSeatIdOf } from "../../seat-principal/seat-principal.module.code.ts"
+import type { TurnPendingComponent } from "../../seat-turn-pending/seat-turn-pending.module.code.ts"
+import {
+  seatTurnStateOf,
+  turnStillToCome,
+} from "../../seat-turn-state/seat-turn-state.module.code.ts"
 
 export interface SeatPending {
   readonly seat: string

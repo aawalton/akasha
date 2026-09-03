@@ -26,6 +26,7 @@
     "./gated-write": "./gated-write/gated-write.module.code.ts"
   },
   "dependencies": {
+    "@akasha/seat-system": "workspace:*",
     "@akasha/agents": "workspace:*",
     "@akasha/analysis-complexity": "workspace:*",
     "@akasha/errors-core": "workspace:*",

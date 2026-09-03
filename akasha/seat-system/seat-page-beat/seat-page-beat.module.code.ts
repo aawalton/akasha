@@ -2,11 +2,11 @@ import type { Outcome } from "@akasha/command-system/gated-write"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { fail } from "@tools/lib/command"
 import { removeSeatPage, writeSeatPage } from "@tools/lib/seat-page"
-import { composedNameOf } from "@tools/lib/seat-rename"
 import {
   nameFromHistory,
   parentFromHistory,
 } from "../seat-page-history/seat-page-history.module.code.ts"
+import { composedNameOf } from "../seat-rename/seat-rename.module.code.ts"
 import { rotatedOf } from "../seat-rotated-session/seat-rotated-session.module.code.ts"
 import { keepSession, sessionRecordOf } from "../seat-session/seat-session.module.code.ts"
 import {

@@ -1,5 +1,9 @@
 export const summary = "Bring a seat back on the session it was bound to, live or stopped"
 
+import { readTranscriptMtimeMs } from "@akasha/seat-system/agent-io-probe"
+import { resumeSeat } from "@akasha/seat-system/resume-seat"
+import { liveResumeVerifySleep, resumeAndVerify } from "@akasha/seat-system/resume-verify"
+import { seatRecord } from "@akasha/seat-system/seat-facts"
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import {
   isSeatMode,
@@ -10,7 +14,6 @@ import {
 import { sweepSupersededAgentTrees } from "@akasha/seat-system/seat-recovery"
 import { setTurnState } from "@akasha/seat-system/turn-records"
 import { parseWindowDuration } from "../../lib/active-core.ts"
-import { readTranscriptMtimeMs } from "../../lib/agent-io-probe.ts"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
 import {
   holdSeatPaneOpen,
@@ -20,14 +23,11 @@ import {
 } from "../../lib/launch-seat-tmux.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
-import { resumeSeat } from "../../lib/resume-seat.ts"
-import { liveResumeVerifySleep, resumeAndVerify } from "../../lib/resume-verify.ts"
 import {
   describeAckTimeout,
   setRequestedAction,
   waitForActionCleared,
 } from "../../lib/seat-action.ts"
-import { seatRecord } from "../../lib/seat-facts.ts"
 import { resolveSeatTargetFromFlagOrEnv } from "../../lib/seat-handle.ts"
 import { help } from "../../lib/seat-resume-help.ts"
 import { shape } from "../../lib/shape.ts"

@@ -1,5 +1,6 @@
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { SeatDocument } from "@akasha/seat-system/seat-attribute"
 import {
   type Documents,
   declaredPathReading,
@@ -14,7 +15,6 @@ import {
   type Mode,
 } from "../../akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
 import { initiativePlaceOf } from "../../akasha/seat-system/seat-initiative/seat-initiative.module.code.ts"
-import type { SeatDocument } from "./seat-attribute.ts"
 
 export interface Warranted {
   readonly claimant: Claimant

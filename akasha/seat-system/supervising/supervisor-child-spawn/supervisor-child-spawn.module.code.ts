@@ -4,7 +4,7 @@ import {
 } from "@akasha/seat-system/seat-proc-liveness"
 import type { InheritedProc } from "@akasha/seat-system/supervisor-types"
 import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
-import { scanProcEntries } from "@tools/lib/proc-scan"
+import { scanProcEntries } from "../../proc-scan/proc-scan.module.code.ts"
 import {
   adoptInheritedProc,
   InheritedPidDeadError,

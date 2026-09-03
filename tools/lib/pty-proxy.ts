@@ -2,6 +2,7 @@
 
 import { writeSync } from "node:fs"
 import { applySttySane, TERMINAL_MODE_RESET } from "@akasha/seat-system/supervisor-terminal"
+import { createTypingMinuteRecorder } from "@akasha/seat-system/typing-minutes"
 import { type BunPtyTerminal, spawnPty } from "./bun-pty.ts"
 import {
   createRisingEdgeDetector,
@@ -9,7 +10,6 @@ import {
   INJECT_DELAY_MS,
 } from "./pty-proxy-detector.ts"
 import { createTerminalDeathController } from "./pty-terminal-death.ts"
-import { createTypingMinuteRecorder } from "./typing-minutes.ts"
 
 const TERMINAL_DEATH_GRACE_MS = 15_000
 

@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Given } from "@akasha/command-system/calling"
-import type { SeatTurnState } from "@tools/lib/seat-turn-state"
+import type { SeatTurnState } from "@akasha/seat-system/seat-turn-state"
 import {
   agentTurnColors,
   colorsOfStates,

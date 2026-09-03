@@ -1,15 +1,15 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { CommsRule, OnDemandAgentSpec } from "@akasha/seat-system/seat-wake-rules"
 import {
+  handlerSeatName,
+  identityHeardFrom,
+} from "../../compose-seat-name/compose-seat-name.module.code.ts"
+import {
   type PersonHandlerIdentity,
   personHandlerSpec,
   smsWakeSource,
   standingPersonaSpec,
-} from "@tools/lib/wake-armed-specs"
-import {
-  handlerSeatName,
-  identityHeardFrom,
-} from "../../compose-seat-name/compose-seat-name.module.code.ts"
+} from "../../wake-armed-specs/wake-armed-specs.module.code.ts"
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 

@@ -1,5 +1,5 @@
 import { unclaimedTo } from "@tools/lib/message-file"
-import { seatNameForAgent } from "@tools/lib/messages-agent-tools"
+import { seatNameForAgent } from "../../messages-agent-tools/messages-agent-tools.module.code.ts"
 
 export interface InboundMessageRow {
   readonly sender_agent_id: string | null

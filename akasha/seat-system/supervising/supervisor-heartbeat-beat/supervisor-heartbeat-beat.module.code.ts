@@ -5,7 +5,6 @@ import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
 } from "@akasha/seat-system/supervisor-self-heal-state"
-import { composedNameOf } from "@tools/lib/seat-rename"
 import { keepBeside } from "../../seat-beside/seat-beside.module.code.ts"
 import type { BeatReport } from "../../seat-page-beat/seat-page-beat.module.code.ts"
 import { nameFromHistory } from "../../seat-page-history/seat-page-history.module.code.ts"
@@ -13,6 +12,7 @@ import {
   formatSeatProcKey,
   readSeatProcKey,
 } from "../../seat-proc-key/seat-proc-key.module.code.ts"
+import { composedNameOf } from "../../seat-rename/seat-rename.module.code.ts"
 import { clearRotated } from "../../seat-rotated-session/seat-rotated-session.module.code.ts"
 import { keepSession } from "../../seat-session/seat-session.module.code.ts"
 import { keepTranscript } from "../../seat-transcript-path/seat-transcript-path.module.code.ts"

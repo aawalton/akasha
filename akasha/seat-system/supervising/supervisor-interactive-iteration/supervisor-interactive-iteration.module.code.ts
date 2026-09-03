@@ -28,7 +28,7 @@ import { sessionProjectDir } from "@akasha/seat-system/supervisor-session-projec
 import { processes, setRestoreConsoleHandle } from "@akasha/seat-system/supervisor-state"
 import type { AgentProcess, InheritedProc } from "@akasha/seat-system/supervisor-types"
 import { USER_ID } from "@akasha/supabase-auth/user-id"
-import { readOwnTranscriptTail } from "@tools/lib/agent-io-probe"
+import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
 import { keepSeatTranscript } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type {
   InteractiveOpts,

@@ -1,9 +1,9 @@
 import { resolveRoots, targetRoot } from "@akasha/pages-system/checkout-roots"
+import { seatByName } from "@akasha/seat-system/seat-by-name"
+import { refuseSeatName } from "@akasha/seat-system/seat-name-bind"
 import { movesWithTheAttributes } from "../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { pageTextOf } from "../../akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
-import { seatByName } from "./seat-by-name.ts"
 import { isValidSeatName } from "./seat-handle.ts"
-import { refuseSeatName } from "./seat-name-bind.ts"
 
 export type SeatPresence = "present" | "absent" | "unknown"
 

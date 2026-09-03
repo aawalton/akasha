@@ -1,4 +1,5 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { composedNameOf } from "@akasha/seat-system/seat-rename"
 import type { Outcome } from "../akasha/command-system/gated-write/gated-write.module.code.ts"
 import {
   nameFromHistory,
@@ -21,7 +22,6 @@ import {
 } from "../akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { fail } from "./lib/command.ts"
 import { removeSeatPage, writeSeatPage } from "./lib/seat-page.ts"
-import { composedNameOf } from "./lib/seat-rename.ts"
 
 export interface BeatReport {
   readonly outcome: Outcome

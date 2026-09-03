@@ -2,11 +2,11 @@ export const summary =
   "Drain your own mailbox: list and take the messages standing in your directory (--peek, --all, --json)"
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
+import { seatNameForAgent } from "@akasha/seat-system/messages-agent-tools"
+import { seatRecord } from "@akasha/seat-system/seat-facts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { type Message, messagesTo, takeMessage } from "../../lib/message-file.ts"
-import { seatNameForAgent } from "../../lib/messages-agent-tools.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { seatRecord } from "../../lib/seat-facts.ts"
 import { resolveSeatTargetCli } from "../../lib/seat-handle.ts"
 
 const BODY_CAP = 2000

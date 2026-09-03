@@ -19,7 +19,7 @@ import {
   sendMessage,
 } from "@akasha/seat-system/supervisor-limit-resume-send"
 import { USER_ID } from "@akasha/supabase-auth/user-id"
-import { readOwnTranscriptTail } from "@tools/lib/agent-io-probe"
+import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
 
 export { type AskDecide, LIMIT_RESUME_DECISION }
 

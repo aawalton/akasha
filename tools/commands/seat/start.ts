@@ -7,6 +7,7 @@ import {
   principalIsPerson,
   refuseAnswering,
 } from "@akasha/seat-system/seat-answering"
+import { seatByName } from "@akasha/seat-system/seat-by-name"
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import {
   isSeatMode,
@@ -14,7 +15,10 @@ import {
   SEAT_MODE_INTERACTIVE,
   SEAT_MODES,
 } from "@akasha/seat-system/seat-modes"
+import { mintNamedAgent } from "@akasha/seat-system/seat-name-bind"
+import { refuseHeldName } from "@akasha/seat-system/seat-name-held-refusal"
 import { refuseParentless } from "@akasha/seat-system/seat-parentless-refusal"
+import { composedNameOf } from "@akasha/seat-system/seat-rename"
 import { compositionOf, decideSpawnName } from "@akasha/seat-system/seat-spawn-name-decide"
 import { resolveStatedIdentity } from "@akasha/seat-system/seat-stated-identity"
 import { refuseStatedName } from "@akasha/seat-system/seat-stated-name-refusal"
@@ -33,11 +37,7 @@ import { dataError, inputError } from "../../lib/exit.ts"
 import { launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
-import { seatByName } from "../../lib/seat-by-name.ts"
 import { isValidSeatName, resolveOptionalSeatId } from "../../lib/seat-handle.ts"
-import { mintNamedAgent } from "../../lib/seat-name-bind.ts"
-import { refuseHeldName } from "../../lib/seat-name-claim.ts"
-import { composedNameOf } from "../../lib/seat-rename.ts"
 import { help } from "../../lib/seat-start-help.ts"
 import { type StatedIdentity, spawnSeat } from "../../lib/spawn-seat.ts"
 import { stateSpawnedSeat } from "../../lib/state-spawned-seat.ts"

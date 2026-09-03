@@ -1,4 +1,7 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { documentNamed } from "@akasha/seat-system/seat-attribute"
+import { pendingLines, pendingOf } from "@akasha/seat-system/seat-turn-pending"
+import { seatTurnStateLine, seatTurnStateOf } from "@akasha/seat-system/seat-turn-state"
 import {
   turnEndReadingLine,
   turnEndReadingOf,
@@ -27,9 +30,6 @@ import { fail } from "./command.ts"
 import { declaredSeatReading } from "./declared-seat-reading.ts"
 import { documentsOnDemand } from "./documents-on-demand.ts"
 import type { Args } from "./seat-args.ts"
-import { documentNamed } from "./seat-attribute.ts"
-import { pendingLines, pendingOf } from "./seat-turn-pending.ts"
-import { seatTurnStateLine, seatTurnStateOf } from "./seat-turn-state.ts"
 
 export function showLines(agent: string, args: Args): readonly string[] {
   const setting = [

@@ -1,7 +1,11 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { principalIsPerson, refuseAnswering } from "@akasha/seat-system/seat-answering"
+import { seatByName } from "@akasha/seat-system/seat-by-name"
 import { SEAT_MODE_HEADLESS } from "@akasha/seat-system/seat-modes"
+import { mintNamedAgent } from "@akasha/seat-system/seat-name-bind"
+import { refuseHeldName } from "@akasha/seat-system/seat-name-held-refusal"
 import { refuseParentless } from "@akasha/seat-system/seat-parentless-refusal"
+import { composedNameOf } from "@akasha/seat-system/seat-rename"
 import { enforceSpawnAdmission } from "@akasha/utils-system/memory-guard"
 import {
   FLEET,
@@ -10,11 +14,7 @@ import {
 import { dataError, inputError, operationalError } from "./exit.ts"
 import { ruleText } from "./instructions-rule.ts"
 import { type LaunchSeatResult, launchSeatUnderTmux } from "./launch-seat-tmux.ts"
-import { seatByName } from "./seat-by-name.ts"
 import { isValidSeatName } from "./seat-handle.ts"
-import { mintNamedAgent } from "./seat-name-bind.ts"
-import { refuseHeldName } from "./seat-name-claim.ts"
-import { composedNameOf } from "./seat-rename.ts"
 import {
   decideSkillTokenGuard,
   DECLARATION_RELATIVE_PATH as SKILL_TOKEN_GUARD_DECLARATION,

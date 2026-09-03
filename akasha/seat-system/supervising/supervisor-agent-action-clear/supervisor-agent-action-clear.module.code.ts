@@ -1,4 +1,4 @@
-import { clearControl } from "@tools/lib/seat-control"
+import { clearControl } from "../../seat-control/seat-control.module.code.ts"
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 export async function clearRequestedAction(agentId: string): Promise<void> {

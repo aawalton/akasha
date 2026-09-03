@@ -2,13 +2,13 @@ import { resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { colorOfState } from "@akasha/seat-system/seat-turn-color"
-import { type SubagentPage, seatPageAt, subagentPagesStanding } from "@tools/lib/agent-pages"
-import { type ForestRow, readSeatForest } from "@tools/lib/seat-forest"
 import {
   type SeatTurnReading,
   type SeatTurnState,
   seatTurnStateOf,
-} from "@tools/lib/seat-turn-state"
+} from "@akasha/seat-system/seat-turn-state"
+import { type SubagentPage, seatPageAt, subagentPagesStanding } from "@tools/lib/agent-pages"
+import { type ForestRow, readSeatForest } from "@tools/lib/seat-forest"
 
 export type Read = { readonly asked: true } | { readonly refused: readonly string[] }
 

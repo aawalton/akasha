@@ -1,6 +1,6 @@
 import { akashaValuesAt } from "@akasha/pages-system/akasha-page-values"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import type { SeatTurnState } from "@tools/lib/seat-turn-state"
+import type { SeatTurnState } from "../seat-turn-state/seat-turn-state.module.code.ts"
 
 /**
  * The color a seat's turn state is drawn in, read off that state's own akasha page.

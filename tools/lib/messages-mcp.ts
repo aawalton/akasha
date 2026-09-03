@@ -4,9 +4,9 @@ import { readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
 import { getAgentId } from "@akasha/seat-system/messages-agent-id"
+import { type ChannelServer, startChannelListener } from "@akasha/seat-system/messages-agent-tools"
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js"
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
-import { type ChannelServer, startChannelListener } from "./messages-agent-tools.ts"
 
 function loadSecrets(): void {
   try {

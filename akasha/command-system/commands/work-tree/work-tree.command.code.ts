@@ -2,8 +2,8 @@ import { resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { initiativesDrawn } from "@akasha/editor-extension/work-initiatives"
+import { drawnNow } from "@akasha/seat-system/work-tree-drawn"
 import { type Drawn, type Node, render, workTree as treeOf, walk } from "@tools/lib/work-tree"
-import { drawnNow } from "@tools/lib/work-tree-drawn"
 
 export const JSON_OUT = "--json"
 

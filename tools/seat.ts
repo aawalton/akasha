@@ -1,5 +1,12 @@
 import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { seatId } from "@akasha/seat-system/read-record"
 import { handlerDerives, personaIsHers, refuseAnswering } from "@akasha/seat-system/seat-answering"
+import { attributeFor } from "@akasha/seat-system/seat-attribute"
+import { defaultLines } from "@akasha/seat-system/seat-defaults"
+import { SEAT_HELP } from "@akasha/seat-system/seat-help"
+import { nameStanding } from "@akasha/seat-system/seat-name-stands"
+import { nameableFrom, nameableStated } from "@akasha/seat-system/seat-nameable"
+import { composedNameOf, followName } from "@akasha/seat-system/seat-rename"
 import {
   composeSeatName,
   personPrincipals,
@@ -31,15 +38,8 @@ import {
 } from "../akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { statedNow } from "../akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 import { fail } from "./lib/command.ts"
-import { seatId } from "./lib/read-record.ts"
 import { type Args, parseArgs } from "./lib/seat-args.ts"
-import { attributeFor } from "./lib/seat-attribute.ts"
-import { defaultLines } from "./lib/seat-defaults.ts"
-import { SEAT_HELP } from "./lib/seat-help.ts"
-import { nameStanding } from "./lib/seat-name-stands.ts"
-import { nameableFrom, nameableStated } from "./lib/seat-nameable.ts"
 import { writeSeatPage } from "./lib/seat-page.ts"
-import { composedNameOf, followName } from "./lib/seat-rename.ts"
 import { showLines, statedLines } from "./lib/seat-show.ts"
 
 export async function run(argv: readonly string[]): Promise<void> {

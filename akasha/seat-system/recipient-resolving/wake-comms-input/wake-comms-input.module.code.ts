@@ -1,4 +1,4 @@
-import { AGENT_SENDER_PREFIX } from "@tools/lib/wake-armed-specs"
+import { AGENT_SENDER_PREFIX } from "../../wake-armed-specs/wake-armed-specs.module.code.ts"
 import type { CommsInput } from "../seat-wake-rules/seat-wake-rules.module.code.ts"
 
 export interface WakeMessageRow {
