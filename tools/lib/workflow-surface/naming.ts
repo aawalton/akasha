@@ -1,5 +1,5 @@
+import { buildContainerName, CONTAINER_NAME_MAX_LEN } from "@akasha/ci-containers/ci-container-name"
 import type { WorkflowKind } from "@akasha/workflow-language/workflow-types"
-import { buildPodName, POD_NAME_MAX_LEN } from "../pipeline-run/pod-name.ts"
 import type { SurfaceStep, SurfaceWorkflow } from "./surface.ts"
 
 export const NAME_SHAPE = /^[a-z][a-z0-9-]*$/
@@ -19,12 +19,12 @@ const CAP_PROBE_SHA = "abc1234567abc1234567abc1234567abc1234567"
 const CAP_PROBE_CHARACTER = "a"
 
 export const stepNameCapFor = (pipelineSeq: number): number => {
-  for (let length = POD_NAME_MAX_LEN; length >= 1; length--) {
+  for (let length = CONTAINER_NAME_MAX_LEN; length >= 1; length--) {
     const probe = CAP_PROBE_CHARACTER.repeat(length)
-    if (buildPodName(pipelineSeq, probe, CAP_PROBE_SHA).includes(probe)) return length
+    if (buildContainerName(String(pipelineSeq), probe, CAP_PROBE_SHA).includes(probe)) return length
   }
   throw new Error(
-    `\`buildPodName\` keeps no step name whole at pipeline sequence ${pipelineSeq}, not even one ` +
+    `\`buildContainerName\` keeps no step name whole at pipeline sequence ${pipelineSeq}, not even one ` +
       "character, so there is no cap a step name could meet and this check would refuse every " +
       "name it saw. The pod-name framing has outgrown the 63 characters a pod name may run to."
   )
