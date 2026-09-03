@@ -15,11 +15,11 @@
   --font-read: "Literata Variable", "Literata Fallback", "Iowan Old Style", Georgia, Cambria, serif;
 }
 
-@source "../../../akasha/design/system/**/*.{ts,tsx}";
-@source "../../../akasha/design/badges/**/*.{ts,tsx}";
-@source "../../../akasha/design/layout/**/*.{ts,tsx}";
-@source "../../../akasha/design/forms/**/*.{ts,tsx}";
-@source "../../../akasha/design/patterns/**/*.{ts,tsx}";
-@source "../../../akasha/design/primitives/**/*.{ts,tsx}";
-@source "../../../akasha/pages-system/pages-ui/**/*.{ts,tsx}";
-@source "./idle/**/*.{ts,tsx}";
+@source "../../../design/system/**/*.{ts,tsx}";
+@source "../../../design/badges/**/*.{ts,tsx}";
+@source "../../../design/layout/**/*.{ts,tsx}";
+@source "../../../design/forms/**/*.{ts,tsx}";
+@source "../../../design/patterns/**/*.{ts,tsx}";
+@source "../../../design/primitives/**/*.{ts,tsx}";
+@source "../../../pages-system/pages-ui/**/*.{ts,tsx}";
+@source "../idle-*/**/*.{ts,tsx}";
