@@ -4,14 +4,12 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
-PKG_DIR="${AKASHA_ROOT}/infra"
 CERTS_DIR="${SCRIPT_DIR}"
 cd "$CERTS_DIR"
 
-_DEPLOY_LIB_DIR="${PKG_DIR}/lib"
-# the shared deploy functions are still outside akasha, so shellcheck is told not to follow
-# shellcheck source=/dev/null
-. "${_DEPLOY_LIB_DIR}/deploy-functions.sh"
+_DEPLOY_LIB_DIR="${AKASHA_ROOT}/akasha/infrastructure/cluster-operations/deploy-functions"
+# shellcheck source=../../cluster-operations/deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
+. "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
 
 FORCE=false
 for arg in "$@"; do

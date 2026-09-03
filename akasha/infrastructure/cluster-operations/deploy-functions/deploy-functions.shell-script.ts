@@ -11,7 +11,7 @@ export const deployFunctions = {
     {
       invariantKind: "departure",
       statement:
-        "A script sourcing deploy-functions sets _DEPLOY_LIB_DIR to the folder deploy-functions stands in.",
+        "A script sourcing deploy-functions sets _DEPLOY_LIB_DIR to the folder deploy-functions sits in.",
     },
     {
       invariantKind: "departure",

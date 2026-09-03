@@ -3,12 +3,11 @@
 set -euo pipefail
 
 AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
-CLUSTER_DIR="${AKASHA_ROOT}/infra"
 REPO_ROOT="${AKASHA_ROOT}"
 
-_DEPLOY_LIB_DIR="${CLUSTER_DIR}/lib"
-# shellcheck source=../../../../infra/lib/deploy-functions.sh disable=SC1091
-. "${CLUSTER_DIR}/lib/deploy-functions.sh"
+_DEPLOY_LIB_DIR="${AKASHA_ROOT}/akasha/infrastructure/cluster-operations/deploy-functions"
+# shellcheck source=../deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
+. "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
 
 AGE_KEYS_DIR="${HOME}/.config/sops/age"
 AGE_KEYS_FILE="${AGE_KEYS_DIR}/keys.txt"
