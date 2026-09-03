@@ -156,7 +156,7 @@
 {"id":"01a0657e-01e0-767a-8ac5-00bf20c855ea","chapterSlug":"rw8-40 CTV","paragraph":1217,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e0-7a86-a0aa-f92bbf370d2c","chapterSlug":"rw8-48 H","paragraph":243,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e0-70b0-8e36-7d158acd8ec0","chapterSlug":"rw8-52 MN","paragraph":74,"wording":"[Generals]","event":"named"}
-{"id":"01a0657e-01e0-7b21-ba00-dd5e413b05f0","chapterSlug":"rw8-52 MN","paragraph":1220,"wording":"[Generals]","event":"named","claimed":true,"claimedBySlug":"Yerranola"}
+{"id":"01a0657e-01e0-7b21-ba00-dd5e413b05f0","chapterSlug":"rw8-52 MN","paragraph":1220,"wording":"[Generals]","event":"named","claimed":true,"claimedBySlug":"yerranola"}
 {"id":"01a0657e-01e0-79d7-a220-9834197c481d","chapterSlug":"rw8-53 FH","paragraph":220,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e0-740f-986d-97f8df86a5cb","chapterSlug":"rw8-53 FH","paragraph":259,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e0-75e5-be2d-f32809865892","chapterSlug":"rw8-53 FH","paragraph":267,"wording":"[Generals]","event":"named"}
@@ -210,7 +210,7 @@
 {"id":"01a0657e-01e0-7638-a078-7b6e58b4703a","chapterSlug":"rw9-16 R","paragraph":788,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e0-790e-bcf0-8e729dd3fac5","chapterSlug":"rw9-17 R","paragraph":459,"wording":"[Generals]","event":"named","holderSlug":"rabbiteater","holderQuote":"But he had also beaten Ailendamus’ [Generals] in combat."}
 {"id":"01a0657e-01e0-730b-8d47-7f8e0529d8b3","chapterSlug":"rw10-43 - RNG (Pt. 2)","paragraph":489,"wording":"[Generals]","event":"named"}
-{"id":"01a0657e-01e0-7e0b-8c55-fcf0866cac9e","chapterSlug":"rwInterlude - Stories","paragraph":610,"wording":"[Generals]","event":"named","claimed":true,"claimedBySlug":"Salkis","holderQuote":"there’s nothing special about Edellein, one of Pallass’"}
+{"id":"01a0657e-01e0-7e0b-8c55-fcf0866cac9e","chapterSlug":"rwInterlude - Stories","paragraph":610,"wording":"[Generals]","event":"named","claimed":true,"claimedBySlug":"salkis","holderQuote":"there’s nothing special about Edellein, one of Pallass’"}
 {"id":"01a0657e-01e0-7c24-aa3c-2d1f1af9a19c","chapterSlug":"rwInterlude - Spears and Stuff","paragraph":39,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e0-7410-a91d-24c5fd38129e","chapterSlug":"rwInterlude - Spears and Stuff","paragraph":71,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e0-773f-814c-d59fc2ff317c","chapterSlug":"rw10-56 F","paragraph":44,"wording":"[Generals]","event":"named"}
@@ -271,11 +271,11 @@
 {"id":"01a0657e-01e1-76b1-a9a2-5de1d5677e89","chapterSlug":"rw10-37 GDI (Pt. 2)","paragraph":10,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e1-75bd-ad24-1e25891f8513","chapterSlug":"rw10-37 GDI (Pt. 2)","paragraph":12,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e1-7032-993c-a24bde95bb2d","chapterSlug":"rw10-37 GDI (Pt. 2)","paragraph":90,"wording":"[Generals]","event":"named"}
-{"id":"01a0657e-01e1-7e95-bdf0-c25b7b781adb","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":803,"wording":"[Generals]","event":"named","claimed":true,"claimedBySlug":"Luciva","holderQuote":"What about our married [Generals], like Beirhall?"}
+{"id":"01a0657e-01e1-7e95-bdf0-c25b7b781adb","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":803,"wording":"[Generals]","event":"named","claimed":true,"claimedBySlug":"luciva","holderQuote":"What about our married [Generals], like Beirhall?"}
 {"id":"01a0657e-01e1-79c8-ac30-a2ec8bc82eb7","chapterSlug":"rwInterlude - Foody Discussions","paragraph":817,"wording":"[Generals]","event":"named","holderQuote":"Bazeth, one of the Demon [Generals], who pointed"}
 {"id":"01a0657e-01e1-71d1-812c-fc653d56f0e7","chapterSlug":"rw10-53 UEG","paragraph":1801,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e1-73aa-a239-e024132dfe24","chapterSlug":"rw10-36 - Pt. 2","paragraph":1639,"wording":"[Generals]","event":"named"}
-{"id":"01a0657e-01e1-75eb-bfbb-e13a941aff3c","chapterSlug":"rw10-07","paragraph":298,"wording":"[Generals]","event":"named","holderSlug":"diomedes","claimed":true,"claimedBySlug":"Siri","holderQuote":"One of the Forgotten Wing’s big [Generals]."}
+{"id":"01a0657e-01e1-75eb-bfbb-e13a941aff3c","chapterSlug":"rw10-07","paragraph":298,"wording":"[Generals]","event":"named","holderSlug":"diomedes","claimed":true,"claimedBySlug":"siri","holderQuote":"One of the Forgotten Wing’s big [Generals]."}
 {"id":"01a0657e-01e1-7f21-a58b-34eb685a1201","chapterSlug":"rw10-20 E","paragraph":99,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e1-7819-a80c-dd51628e5534","chapterSlug":"rw10-20 E","paragraph":1208,"wording":"[Generals]","event":"named"}
 {"id":"01a0657e-01e1-717c-9526-f31de09018de","chapterSlug":"rwInterlude - Saliss the Architect","paragraph":76,"wording":"[Generals]","event":"named"}

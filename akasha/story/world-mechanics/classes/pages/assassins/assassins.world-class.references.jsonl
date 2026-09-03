@@ -58,7 +58,7 @@
 {"id":"01a0657e-1332-76ad-ae2a-8785f43d70a6","chapterSlug":"rw1-04 C","paragraph":70,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1332-70e6-be1f-760dc559dd52","chapterSlug":"rw1-04 C","paragraph":109,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1332-73a6-a042-c8c0a0d41cdd","chapterSlug":"rw4-25 N","paragraph":83,"wording":"[Assassins]","event":"named"}
-{"id":"01a0657e-1332-705d-8f6e-f3721f44256f","chapterSlug":"rw4-22 E","paragraph":282,"wording":"[Assassins]","event":"named","claimed":true,"claimedBySlug":"Ryoka","holderQuote":"It’s just a hunch, but Ryoka says Magnolia sent [Assassins] after her. Why not a spy masquerading as an adventurer in Wiskeria’s case?"}
+{"id":"01a0657e-1332-705d-8f6e-f3721f44256f","chapterSlug":"rw4-22 E","paragraph":282,"wording":"[Assassins]","event":"named","claimed":true,"claimedBySlug":"ryoka","holderQuote":"It’s just a hunch, but Ryoka says Magnolia sent [Assassins] after her. Why not a spy masquerading as an adventurer in Wiskeria’s case?"}
 {"id":"01a0657e-1332-7a01-ad16-c12660d6ef22","chapterSlug":"rw4-38 B","paragraph":425,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1332-7ead-adf2-00469f628630","chapterSlug":"rwInterlude – The Antinium Wars (Pt-5)","paragraph":89,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1332-7629-a5e6-7b123528ec34","chapterSlug":"rw5-02","paragraph":121,"wording":"[Assassins]","event":"named","holderSlug":"riefel","claimed":true,"claimedBySlug":"riefel","holderQuote":"Tell the Emperor of Sands that Takhatres cannot be slain by any number of [Assassins] of my caliber."}
@@ -593,11 +593,11 @@
 {"id":"01a0657e-1335-7820-bf84-d48a9cc17307","chapterSlug":"rwVolume 9 - Epilogue","paragraph":974,"wording":"[Assassins]","event":"named","holderQuote":"Her name was Erin Solstice…and the traveler stared at her in awe."}
 {"id":"01a0657e-1335-7cbb-a3e5-b5b1f43dad37","chapterSlug":"rw10-13","paragraph":548,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7a31-828f-99ff615c3e09","chapterSlug":"rw10-15","paragraph":478,"wording":"[Assassins]","event":"named"}
-{"id":"01a0657e-1335-7816-ac51-17869c0b7bfa","chapterSlug":"rw10-15","paragraph":658,"wording":"[Assassins]","event":"named","claimed":true,"claimedBySlug":"Crookfingers"}
+{"id":"01a0657e-1335-7816-ac51-17869c0b7bfa","chapterSlug":"rw10-15","paragraph":658,"wording":"[Assassins]","event":"named","claimed":true,"claimedBySlug":"crookfingers"}
 {"id":"01a0657e-1335-7b81-b1f4-96339f50a34f","chapterSlug":"rw10-15","paragraph":686,"wording":"[Assassins]","event":"named"}
-{"id":"01a0657e-1335-73d2-abea-99f10c67e1d5","chapterSlug":"rw10-15","paragraph":693,"wording":"[Assassins]","event":"named","claimed":true,"claimedBySlug":"Vaulont the Ash"}
+{"id":"01a0657e-1335-73d2-abea-99f10c67e1d5","chapterSlug":"rw10-15","paragraph":693,"wording":"[Assassins]","event":"named","claimed":true,"claimedBySlug":"vaulont-the-ash"}
 {"id":"01a0657e-1335-7250-8479-d0b80a137d6e","chapterSlug":"rw10-15","paragraph":1463,"wording":"[Assassins]","event":"named","holderSlug":"quarass","holderQuote":"The Quarass was delighted as could be, and she smiled around."}
-{"id":"01a0657e-1335-7613-bce5-7b87bce07e9f","chapterSlug":"rw10-18 E","paragraph":2017,"wording":"[Assassins]","event":"named","claimed":true,"claimedBySlug":"Nerry"}
+{"id":"01a0657e-1335-7613-bce5-7b87bce07e9f","chapterSlug":"rw10-18 E","paragraph":2017,"wording":"[Assassins]","event":"named","claimed":true,"claimedBySlug":"nerry"}
 {"id":"01a0657e-1335-724f-92d9-5f75d2d29499","chapterSlug":"rwInterlude - Barelle the [Bard]","paragraph":34,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7191-a51c-df4ba45cb689","chapterSlug":"rwInterlude - Barelle the [Bard]","paragraph":62,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-784f-bbf7-00834fb75fd0","chapterSlug":"rw10-47 S (Pt. 1)","paragraph":25,"wording":"[Assassins]","event":"named"}
@@ -694,7 +694,7 @@
 {"id":"01a0657e-1335-7be4-ba90-8fbe8ece404e","chapterSlug":"rw9-29","paragraph":430,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7872-a884-38fa589c3825","chapterSlug":"rw9-29","paragraph":549,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7063-9f91-c89e5bf223e4","chapterSlug":"rw9-29","paragraph":1737,"wording":"[Assassins]","event":"named"}
-{"id":"01a0657e-1335-7f3f-bc8d-3bb4a6a0648b","chapterSlug":"rw9-29","paragraph":1804,"wording":"[Assassins]","event":"named","holderSlug":"tyrion-veltras","claimed":true,"claimedBySlug":"Tyrion Veltras","holderQuote":"For Tyrion Veltras turned as Lulv tensed—and he spoke another word."}
+{"id":"01a0657e-1335-7f3f-bc8d-3bb4a6a0648b","chapterSlug":"rw9-29","paragraph":1804,"wording":"[Assassins]","event":"named","holderSlug":"tyrion-veltras","claimed":true,"claimedBySlug":"tyrion-veltras","holderQuote":"For Tyrion Veltras turned as Lulv tensed—and he spoke another word."}
 {"id":"01a0657e-1335-7f70-9af7-fcd3f6f6c5cd","chapterSlug":"rw9-29","paragraph":1807,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7afe-a5c6-ddc637b4c39a","chapterSlug":"rw9-29","paragraph":1807,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7baa-a49a-062bcdf556c4","chapterSlug":"rw9-29","paragraph":1812,"wording":"[Assassins]","event":"named"}
@@ -767,17 +767,17 @@
 {"id":"01a0657e-1335-7236-9a49-dfb0f8809f65","chapterSlug":"rw10-68 S","paragraph":2171,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7a84-a543-c02584b1cf8f","chapterSlug":"rw10-68 S","paragraph":2192,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7c2e-b891-f1d8e409ed22","chapterSlug":"rw10-68 S","paragraph":2257,"wording":"[Assassins]","event":"named"}
-{"id":"01a0657e-1335-7385-8600-e98276371f61","chapterSlug":"rw10-68 S","paragraph":2266,"wording":"[Assassins]","event":"named","holderSlug":"selys-shivertail","claimed":true,"claimedBySlug":"Selys Shivertail","holderQuote":"None of them moved. Again, Selys spoke for them."}
+{"id":"01a0657e-1335-7385-8600-e98276371f61","chapterSlug":"rw10-68 S","paragraph":2266,"wording":"[Assassins]","event":"named","holderSlug":"selys-shivertail","claimed":true,"claimedBySlug":"selys-shivertail","holderQuote":"None of them moved. Again, Selys spoke for them."}
 {"id":"01a0657e-1335-7ec1-8837-8d17f1c06b96","chapterSlug":"rw10-68 S","paragraph":2286,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7e3a-ad00-dd0f98dc72f3","chapterSlug":"rw10-68 S","paragraph":2288,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7933-910a-f208d0df1e8a","chapterSlug":"rw10-68 S","paragraph":2325,"wording":"[Assassins]","event":"named"}
-{"id":"01a0657e-1335-7f37-96da-8c58a68e4a58","chapterSlug":"rw10-68 S","paragraph":2341,"wording":"[Assassins]","event":"named","holderSlug":"losmere","claimed":true,"claimedBySlug":"Losmere","holderQuote":"Losmere remarked sourly."}
+{"id":"01a0657e-1335-7f37-96da-8c58a68e4a58","chapterSlug":"rw10-68 S","paragraph":2341,"wording":"[Assassins]","event":"named","holderSlug":"losmere","claimed":true,"claimedBySlug":"losmere","holderQuote":"Losmere remarked sourly."}
 {"id":"01a0657e-1335-7a45-8abc-32f009138a8f","chapterSlug":"rw10-68 S","paragraph":2377,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7b49-bf58-196f12f24c30","chapterSlug":"rw10-68 S","paragraph":2379,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-704b-a53c-d569fa41ddfb","chapterSlug":"rw10-68 S","paragraph":2447,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7c82-9d03-63e2f02c0e14","chapterSlug":"rw10-68 S","paragraph":2453,"wording":"[Assassins]","event":"named","holderSlug":"calidus-reinhart","holderQuote":"What did Calidus do in the week they had before it got bad?"}
 {"id":"01a0657e-1335-7138-b04c-aea2bbb37f62","chapterSlug":"rw10-68 S","paragraph":2522,"wording":"[Assassins]","event":"named"}
-{"id":"01a0657e-1335-77b2-86b9-220b7a29f483","chapterSlug":"rw10-68 S","paragraph":2526,"wording":"[Assassins]","event":"named","claimed":true,"claimedBySlug":"Selys Shivertail","holderQuote":"Control yourself, Rank Estia. I’m going to mark you down for training."}
+{"id":"01a0657e-1335-77b2-86b9-220b7a29f483","chapterSlug":"rw10-68 S","paragraph":2526,"wording":"[Assassins]","event":"named","claimed":true,"claimedBySlug":"selys-shivertail","holderQuote":"Control yourself, Rank Estia. I’m going to mark you down for training."}
 {"id":"01a0657e-1335-7718-821c-f2ece764d859","chapterSlug":"rw10-68 S","paragraph":2540,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-75a3-8e10-884f1b0ae595","chapterSlug":"rw10-68 S","paragraph":2610,"wording":"[Assassins]","event":"named"}
 {"id":"01a0657e-1335-7fee-8d6b-8cdf73d71e63","chapterSlug":"rw10-68 S","paragraph":2625,"wording":"[Assassins]","event":"named"}

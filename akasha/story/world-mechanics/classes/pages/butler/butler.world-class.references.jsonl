@@ -121,7 +121,7 @@
 {"id":"01a0657e-1341-7f49-924b-637fc9217569","chapterSlug":"rw6-25","paragraph":582,"wording":"[Butler]","event":"named"}
 {"id":"01a0657e-1341-717d-89a5-1c2c31cfb847","chapterSlug":"rw6-25","paragraph":588,"wording":"[Butler]","event":"named"}
 {"id":"01a0657e-1341-788f-a6bc-3cb90a8be9b2","chapterSlug":"rw6-25","paragraph":607,"wording":"[Butler]","event":"named"}
-{"id":"01a0657e-1342-7eab-b9f9-50ec46deef12","chapterSlug":"rw6-32","paragraph":57,"wording":"[Butler]","event":"named","claimed":true,"claimedBySlug":"Alrric","holderQuote":"they think I’m your [Butler], Ilvriss."}
+{"id":"01a0657e-1342-7eab-b9f9-50ec46deef12","chapterSlug":"rw6-32","paragraph":57,"wording":"[Butler]","event":"named","claimed":true,"claimedBySlug":"alrric","holderQuote":"they think I’m your [Butler], Ilvriss."}
 {"id":"01a0657e-1342-7335-9d7f-6ba834246617","chapterSlug":"rw6-26","paragraph":21,"wording":"[Butler]","event":"named"}
 {"id":"01a0657e-1342-7264-a937-3975bd52a8a4","chapterSlug":"rw6-26","paragraph":22,"wording":"[Butler]","event":"named"}
 {"id":"01a0657e-1342-7e62-8c20-7dff9cdfb060","chapterSlug":"rw6-26","paragraph":25,"wording":"[Butler]","event":"named"}
@@ -160,8 +160,8 @@
 {"id":"01a0657e-1342-7131-8469-7bc9abb11842","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":667,"wording":"[Butler]","event":"named"}
 {"id":"01a0657e-1342-7c99-9b16-e21861c0c33c","chapterSlug":"rw7-31","paragraph":1112,"wording":"[Butler]","event":"named","holderQuote":"“Too many people to hold still. At least I put on a good face. Now—the riots. They’ll be centered in Invrisil. Reynold—”"}
 {"id":"01a0657e-1342-7f3b-874b-9539346eae75","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":583,"wording":"[Butler]","event":"named","holderQuote":"A man protested. Reynold, the [Butler], was holding a tray of drinks and snacks as he followed Teriarch about. The Dragon ignored him."}
-{"id":"01a0657e-1342-79a7-920a-dcbeae5d632c","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":614,"wording":"[Butler]","event":"named","claimed":true,"claimedBySlug":"Sacra","holderQuote":"“Reynold! What are you doing?”"}
-{"id":"01a0657e-1342-758a-9f13-ccbd1363cd9e","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":617,"wording":"[Butler]","event":"named","claimed":true,"claimedBySlug":"Sacra","holderQuote":"“Reynold! What are you doing?”"}
+{"id":"01a0657e-1342-79a7-920a-dcbeae5d632c","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":614,"wording":"[Butler]","event":"named","claimed":true,"claimedBySlug":"sacra","holderQuote":"“Reynold! What are you doing?”"}
+{"id":"01a0657e-1342-758a-9f13-ccbd1363cd9e","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":617,"wording":"[Butler]","event":"named","claimed":true,"claimedBySlug":"sacra","holderQuote":"“Reynold! What are you doing?”"}
 {"id":"01a0657e-1342-7e9a-9887-19945a879f66","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":881,"wording":"[Butler]","event":"named","holderQuote":"Reynold brought the drinks."}
 {"id":"01a0657e-1342-79be-8dff-1eacac71b692","chapterSlug":"rw7-42 M","paragraph":176,"wording":"[Butler]","event":"named","holderSlug":"reynold-ferusdam","holderQuote":"Reynold Ferusdam had to keep alert, though; even going slightly off the road, a collision at this speed spelled death for whomever he hit."}
 {"id":"01a0657e-1342-781b-b1c6-7735f3118b31","chapterSlug":"rw7-42 M","paragraph":273,"wording":"[Butler]","event":"named","holderSlug":"reynold-ferusdam","holderQuote":"Reynold was wounded. He’d broken something in the fall. But he had artifacts too. Now he leapt with a roar, his sword aimed for the [Assassin]’s back."}

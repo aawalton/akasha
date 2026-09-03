@@ -516,7 +516,7 @@
 {"id":"01a0657e-01f5-7d29-8e61-7efc2943b20a","chapterSlug":"rw9-01","paragraph":1472,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-7d72-9ed1-d3e445fe06f7","chapterSlug":"rw8-77 B","paragraph":876,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-7f04-9ba5-14acedb8a244","chapterSlug":"rw8-81","paragraph":98,"wording":"[Healer]","event":"named"}
-{"id":"01a0657e-01f5-7b39-86fe-89a71619e40e","chapterSlug":"rw8-81","paragraph":1378,"wording":"[Healer]","event":"named","claimed":true,"claimedBySlug":"Merdon","holderQuote":"The Healer of Tenbault is being held captive by those Goblins!"}
+{"id":"01a0657e-01f5-7b39-86fe-89a71619e40e","chapterSlug":"rw8-81","paragraph":1378,"wording":"[Healer]","event":"named","claimed":true,"claimedBySlug":"merdon","holderQuote":"The Healer of Tenbault is being held captive by those Goblins!"}
 {"id":"01a0657e-01f5-7cf4-8eff-dad640979fb3","chapterSlug":"rw8-81","paragraph":1529,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-724e-a5c2-5a6f4f02ba1c","chapterSlug":"rw9-00","paragraph":359,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-7066-b8f3-1d3da049a418","chapterSlug":"rw9-00","paragraph":546,"wording":"[Healer]","event":"named"}
@@ -580,7 +580,7 @@
 {"id":"01a0657e-01f5-77ac-8f61-f27cc8239a7d","chapterSlug":"rw10-59 T","paragraph":1184,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-714c-8a14-826d9c9cadb3","chapterSlug":"rw10-59 T","paragraph":1392,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-79a1-b3bc-481d17e4accd","chapterSlug":"rw10-59 T","paragraph":1464,"wording":"[Healer]","event":"named"}
-{"id":"01a0657e-01f5-771f-9e65-003d7baab088","chapterSlug":"rw10-59 T","paragraph":1595,"wording":"[Healer]","event":"named","claimed":true,"claimedBySlug":"Tessa","holderQuote":"there is Master Glivs, who is a [Healer]"}
+{"id":"01a0657e-01f5-771f-9e65-003d7baab088","chapterSlug":"rw10-59 T","paragraph":1595,"wording":"[Healer]","event":"named","claimed":true,"claimedBySlug":"tessa","holderQuote":"there is Master Glivs, who is a [Healer]"}
 {"id":"01a0657e-01f5-7193-8a93-54a319d0a7a6","chapterSlug":"rw10-59 T","paragraph":1606,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-731f-b84b-d164aafdbb16","chapterSlug":"rw10-59 T","paragraph":2223,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-77de-bd7a-c4994baa129e","chapterSlug":"rwInterlude - Erin","paragraph":13,"wording":"[Healer]","event":"named"}
@@ -699,7 +699,7 @@
 {"id":"01a0657e-01f5-7900-a785-7de02368b3ee","chapterSlug":"rw10-36 - Pt.1","paragraph":155,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-772f-957a-72d99d2b75d3","chapterSlug":"rw10-36 - Pt.1","paragraph":860,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-71a4-8e25-02cb38510ff4","chapterSlug":"rw10-36 - Pt.1","paragraph":866,"wording":"[Healer]","event":"named"}
-{"id":"01a0657e-01f5-764d-b40f-ae881654408a","chapterSlug":"rw10-36 - Pt.1","paragraph":1844,"wording":"[Healer]","event":"named","claimed":true,"claimedBySlug":"Uziel","holderQuote":"Velan was a [Healer], Your Majesty."}
+{"id":"01a0657e-01f5-764d-b40f-ae881654408a","chapterSlug":"rw10-36 - Pt.1","paragraph":1844,"wording":"[Healer]","event":"named","claimed":true,"claimedBySlug":"uziel","holderQuote":"Velan was a [Healer], Your Majesty."}
 {"id":"01a0657e-01f5-7e1b-b531-253226d420b7","chapterSlug":"rw10-37 GDI (Pt. 2)","paragraph":181,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-76ab-94d9-2c74d4bd1ef9","chapterSlug":"rw10-37 GDI (Pt. 2)","paragraph":341,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f5-7465-a501-808441320635","chapterSlug":"rw9-67 (Pt. 1)","paragraph":572,"wording":"[Healer]","event":"named"}
@@ -801,28 +801,28 @@
 {"id":"01a0657e-01f6-7fbd-847c-d58a810a9bec","chapterSlug":"rw9-36 HO","paragraph":1208,"wording":"[Healer]","event":"named","holderSlug":"colth","holderQuote":"He was, after all, about as good as a Level 30 [Healer]"}
 {"id":"01a0657e-01f6-7161-a07d-d943d91657a8","chapterSlug":"rw9-40 GG","paragraph":45,"wording":"[Healer Level 4!]","event":"level-up","kind":"class","level":4}
 {"id":"01a0657e-01f6-738d-9390-f456ee8803c8","chapterSlug":"rw9-40 GG","paragraph":181,"wording":"[Healer Level 5!]","event":"level-up","kind":"class","level":5,"holderSlug":"beth-scastein","holderQuote":"That night, as Geneva Scala slept in the forest, she heard a voice."}
-{"id":"01a0657e-01f6-7601-aa73-713b6da3aa2b","chapterSlug":"rw9-40 GG","paragraph":306,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"a Selphid","holderQuote":"Beth inspected the needles and then turned to Teyis."}
+{"id":"01a0657e-01f6-7601-aa73-713b6da3aa2b","chapterSlug":"rw9-40 GG","paragraph":306,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"a-selphid","holderQuote":"Beth inspected the needles and then turned to Teyis."}
 {"id":"01a0657e-01f6-7fc1-8efe-23c10ae28614","chapterSlug":"rw9-40 GG","paragraph":370,"wording":"[Healer]","event":"named","claimed":true}
 {"id":"01a0657e-01f6-7268-869c-80d30c6e136e","chapterSlug":"rw9-40 GG","paragraph":381,"wording":"[Healer]","event":"named","claimed":true}
 {"id":"01a0657e-01f6-714d-9da6-071225210b37","chapterSlug":"rw9-40 GG","paragraph":385,"wording":"[Healer]","event":"named","claimed":true}
-{"id":"01a0657e-01f6-764d-aa64-e2b3afe3db5f","chapterSlug":"rw9-40 GG","paragraph":465,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"the Naga","holderQuote":"The Naga stared at Beth. Then he glanced around."}
+{"id":"01a0657e-01f6-764d-aa64-e2b3afe3db5f","chapterSlug":"rw9-40 GG","paragraph":465,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"the-naga","holderQuote":"The Naga stared at Beth. Then he glanced around."}
 {"id":"01a0657e-01f6-7a73-a630-2df7d2f8bf43","chapterSlug":"rw9-40 GG","paragraph":465,"wording":"[Healer]","event":"named"}
-{"id":"01a0657e-01f6-7817-b6b6-1b46f2781c31","chapterSlug":"rw9-40 GG","paragraph":469,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"the Naga","holderQuote":"The Lizardfolk ran to get the other two Naga-leaders as Beth took an unsteady breath."}
+{"id":"01a0657e-01f6-7817-b6b6-1b46f2781c31","chapterSlug":"rw9-40 GG","paragraph":469,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"the-naga","holderQuote":"The Lizardfolk ran to get the other two Naga-leaders as Beth took an unsteady breath."}
 {"id":"01a0657e-01f6-7241-beeb-b01c6bb91960","chapterSlug":"rw9-40 GG","paragraph":487,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","holderQuote":"While this was going on, Beth had to work fast to slow the blood loss."}
 {"id":"01a0657e-01f6-7f0c-b2d9-23cc6cabf651","chapterSlug":"rw9-40 GG","paragraph":496,"wording":"[Healer]","event":"named"}
-{"id":"01a0657e-01f6-7a3a-839a-0b03cc178b7b","chapterSlug":"rw9-40 GG","paragraph":503,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"Vexx","holderQuote":"The Naga who owned this house and given the orders was named Vexx."}
-{"id":"01a0657e-01f6-7dca-ba89-7781aec5d0af","chapterSlug":"rw9-40 GG","paragraph":506,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"Vexx","holderQuote":"Beth’s relief turned to fear as Vexx stared at her."}
-{"id":"01a0657e-01f6-7b31-9baa-4b295f08b500","chapterSlug":"rw9-40 GG","paragraph":524,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"Vexx","holderQuote":"The Nagas allowed it and to let Beth check her patient"}
+{"id":"01a0657e-01f6-7a3a-839a-0b03cc178b7b","chapterSlug":"rw9-40 GG","paragraph":503,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"vexx","holderQuote":"The Naga who owned this house and given the orders was named Vexx."}
+{"id":"01a0657e-01f6-7dca-ba89-7781aec5d0af","chapterSlug":"rw9-40 GG","paragraph":506,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"vexx","holderQuote":"Beth’s relief turned to fear as Vexx stared at her."}
+{"id":"01a0657e-01f6-7b31-9baa-4b295f08b500","chapterSlug":"rw9-40 GG","paragraph":524,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"vexx","holderQuote":"The Nagas allowed it and to let Beth check her patient"}
 {"id":"01a0657e-01f6-7730-b950-ab75e46a17c7","chapterSlug":"rw9-40 GG","paragraph":527,"wording":"[Healer Level 9!]","event":"level-up","kind":"class","level":9,"holderSlug":"beth-scastein","holderQuote":"She had leveled four times in one surgery."}
 {"id":"01a0657e-01f6-784c-89db-31d9706c2bd3","chapterSlug":"rw9-40 GG","paragraph":533,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","holderQuote":"She had leveled in her other class, too."}
-{"id":"01a0657e-01f6-7030-a143-b111ab41aac4","chapterSlug":"rw9-40 GG","paragraph":594,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"Vexx","holderQuote":"My house is not a [Healer]’s clinic."}
+{"id":"01a0657e-01f6-7030-a143-b111ab41aac4","chapterSlug":"rw9-40 GG","paragraph":594,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"vexx","holderQuote":"My house is not a [Healer]’s clinic."}
 {"id":"01a0657e-01f6-762c-b070-fc0f6e611748","chapterSlug":"rw9-40 GG","paragraph":606,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f6-7dae-a6ff-3df7293ed55f","chapterSlug":"rw9-40 GG","paragraph":606,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f6-71bc-a1d7-eeb910dba984","chapterSlug":"rw9-40 GG","paragraph":641,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","holderQuote":"The barber’s razor was heating up fast as she cut."}
 {"id":"01a0657e-01f6-79f2-a41c-d4b04c71da32","chapterSlug":"rw9-40 GG","paragraph":679,"wording":"[Healer]","event":"named"}
 {"id":"01a0657e-01f6-7da3-8f33-1b0ba274b2ca","chapterSlug":"rw9-40 GG","paragraph":710,"wording":"[Healer]","event":"named"}
-{"id":"01a0657e-01f6-716a-b548-6b343e94c9cb","chapterSlug":"rw9-40 GG","paragraph":754,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"Vexx","holderQuote":"He glanced to the prison, and Beth glared out the window."}
-{"id":"01a0657e-01f6-7847-95bc-21c31d0f664a","chapterSlug":"rw9-40 GG","paragraph":862,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"Captain Yameth","holderQuote":"Yameth opened his mouth slowly."}
+{"id":"01a0657e-01f6-716a-b548-6b343e94c9cb","chapterSlug":"rw9-40 GG","paragraph":754,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"vexx","holderQuote":"He glanced to the prison, and Beth glared out the window."}
+{"id":"01a0657e-01f6-7847-95bc-21c31d0f664a","chapterSlug":"rw9-40 GG","paragraph":862,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","claimed":true,"claimedBySlug":"captain-yameth","holderQuote":"Yameth opened his mouth slowly."}
 {"id":"01a0657e-01f6-7fb2-9e3d-d815b8a6e22b","chapterSlug":"rw9-40 GG","paragraph":874,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","holderQuote":"Yameth’s head rose, and he stared at Erin, then Beth and Leneva."}
 {"id":"01a0657e-01f6-7e44-b955-f543f4f76db9","chapterSlug":"rw9-40 GG","paragraph":1014,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","holderQuote":"a Squirrel Woman appeared in a seat, scaring Beth again"}
 {"id":"01a0657e-01f6-7ba3-b28e-300c0cbc03d6","chapterSlug":"rw9-40 GG","paragraph":1084,"wording":"[Healer]","event":"named","holderSlug":"beth-scastein","holderQuote":"Beth looked herself in the eyes, then nodded."}

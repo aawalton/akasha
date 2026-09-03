@@ -33,7 +33,7 @@
 {"id":"01a0657e-1359-7b7f-9eeb-f0d22ca7abe7","chapterSlug":"rw9-20","paragraph":1108,"wording":"[Earl]","event":"named"}
 {"id":"01a0657e-1359-73a7-81a5-2dcf098bf879","chapterSlug":"rw9-41 (Pt. 1)","paragraph":151,"wording":"[Earl]","event":"named","holderQuote":"We’re on Calanfer’s big ship. Not Altestiel’s."}
 {"id":"01a0657e-1359-7069-a357-249466deb185","chapterSlug":"rwVolume 9 - Epilogue","paragraph":924,"wording":"[Earl]","event":"named","holderQuote":"Kevin looked across at Altestiel, and the [Earl] nodded at the figure who’d come to get Kevin"}
-{"id":"01a0657e-1359-7dcb-a42e-f9c8c1fc89a5","chapterSlug":"rw9-70 (Pt. 2)","paragraph":1198,"wording":"[Earl]","event":"named","claimed":true,"claimedBySlug":"Firrus","holderQuote":"Are you suggesting we leave Altestiel behind?"}
+{"id":"01a0657e-1359-7dcb-a42e-f9c8c1fc89a5","chapterSlug":"rw9-70 (Pt. 2)","paragraph":1198,"wording":"[Earl]","event":"named","claimed":true,"claimedBySlug":"firrus","holderQuote":"Are you suggesting we leave Altestiel behind?"}
 {"id":"01a0657e-1359-7405-9571-13b4625f78d9","chapterSlug":"rw9-70 (Pt. 2)","paragraph":1343,"wording":"[Earl]","event":"named","holderSlug":"imor-seagrass","holderQuote":"Imor Seagrass half-turned and saw his crew gazing at him"}
 {"id":"01a0657e-1359-791f-9528-8af6e6ab5b16","chapterSlug":"rw9-70 (Pt. 2)","paragraph":1425,"wording":"[Earl]","event":"named","holderQuote":"Altestiel’s ahead! Do you see Rabbiteater?"}
 {"id":"01a0657e-1359-75d2-8e0d-ca55d8ca8878","chapterSlug":"rw9-70 (Pt. 3)","paragraph":905,"wording":"[Earl]","event":"named","holderQuote":"Rainbringer, Altestiel’s flagship"}
@@ -43,4 +43,4 @@
 {"id":"01a0657e-1359-7637-bdfe-3b41be4c3b1d","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":194,"wording":"[Earl]","event":"named"}
 {"id":"01a0657e-1359-7934-836b-fc9fccd974ad","chapterSlug":"rwInterlude - Foody Discussions","paragraph":274,"wording":"[Earl]","event":"named","holderSlug":"altestiel","holderQuote":"and Altestiel, as their [Earl], was an expert on this kind of fighting front"}
 {"id":"01a0657e-1359-7fa4-ae0f-b5805e0fc9b5","chapterSlug":"rw9-70 (Pt. 1)","paragraph":304,"wording":"[Earl]","event":"named","holderSlug":"altestiel","holderQuote":"The weary [Earl] looked up and shook his head"}
-{"id":"01a0657e-1359-716f-badc-1603f24d71f2","chapterSlug":"rw9-70 (Pt. 1)","paragraph":445,"wording":"[Earl]","event":"named","holderSlug":"altestiel","claimed":true,"claimedBySlug":"Rosech","holderQuote":"before I make you charge that [Earl]"}
+{"id":"01a0657e-1359-716f-badc-1603f24d71f2","chapterSlug":"rw9-70 (Pt. 1)","paragraph":445,"wording":"[Earl]","event":"named","holderSlug":"altestiel","claimed":true,"claimedBySlug":"rosech","holderQuote":"before I make you charge that [Earl]"}

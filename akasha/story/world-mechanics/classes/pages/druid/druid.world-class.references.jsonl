@@ -62,7 +62,7 @@
 {"id":"01a0657e-01d2-7814-99e6-fb39b7f291a5","chapterSlug":"rw7-20","paragraph":1567,"wording":"[Druid]","event":"named","holderQuote":"“Nalthaliarstrelous?”"}
 {"id":"01a0657e-01d2-7e2f-86cc-b388bc9a6195","chapterSlug":"rw7-20","paragraph":1577,"wording":"[Druid]","event":"used","holderQuote":"Magnolia was walking back towards the door as Reynold helped Nalthaliarstrelous. He looked tired, from the life-sensing spell. Because that was what a [Druid] did. And of course, they could sense things like nature. Like…tunnels in the earth.","effectQuote":"Magnolia was walking back towards the door as Reynold helped Nalthaliarstrelous. He looked tired, from the life-sensing spell. Because that was what a [Druid] did. And of course, they could sense things like nature. Like…tunnels in the earth."}
 {"id":"01a0657e-01d2-74c9-957f-65701eeb8dbe","chapterSlug":"rw7-20","paragraph":1585,"wording":"[Druid]","event":"named","holderQuote":"“I plan on sharing it. And I will of course have Nalthaliarstrelous copy the map.”"}
-{"id":"01a0657e-01d2-7562-ada8-fc9fb38bcfe4","chapterSlug":"rw7-20","paragraph":1616,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Chaldion","holderQuote":"“Completely accurate. Nalthaliarstrelous is a high-level [Druid]. I hope you’ll copy this information to the other Walled Cities, and Liscor of course. Also—”"}
+{"id":"01a0657e-01d2-7562-ada8-fc9fb38bcfe4","chapterSlug":"rw7-20","paragraph":1616,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"chaldion","holderQuote":"“Completely accurate. Nalthaliarstrelous is a high-level [Druid]. I hope you’ll copy this information to the other Walled Cities, and Liscor of course. Also—”"}
 {"id":"01a0657e-01d2-719d-9b30-f09e8da0990e","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":24,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d2-7cd3-bdc1-4c3f11ab2d5e","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":243,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d2-78c3-a079-5aa5cfbb7a47","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":473,"wording":"[Druid]","event":"named","holderQuote":"Grev felt at the magical barrier, frowning, as some of the adults pushed. But that [Druid]—Nathal-whatever—hadn’t broken the entry mechanism. Mrsha frowned."}
@@ -87,8 +87,8 @@
 {"id":"01a0657e-01d2-7c7f-8786-ebb9ac694078","chapterSlug":"rw7-26","paragraph":338,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d2-72e7-971b-018b1c08a2ca","chapterSlug":"rw7-31","paragraph":5,"wording":"[Druid]","event":"named","holderQuote":"She was a [Druid]. What that meant Mrsha didn’t entirely know. Lyonette described them as ‘homeless vagrants’ who got into fights with [Woodcutters] in Calanfer. Nuisances who prized animal and plant life as much as any others. This had been before she learned Mrsha was a [Druid]. Now she described them as wonderfully powerful nature [Mages], if sometimes misguided."}
 {"id":"01a0657e-01d2-7139-b445-6b947d9f07dc","chapterSlug":"rw7-31","paragraph":5,"wording":"[Druid]","event":"named","holderQuote":"She was a [Druid]. What that meant Mrsha didn’t entirely know. Lyonette described them as ‘homeless vagrants’ who got into fights with [Woodcutters] in Calanfer. Nuisances who prized animal and plant life as much as any others. This had been before she learned Mrsha was a [Druid]. Now she described them as wonderfully powerful nature [Mages], if sometimes misguided."}
-{"id":"01a0657e-01d2-7e98-802b-bf6e9aac836b","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":448,"wording":"[Druid]","event":"named","holderSlug":"shassa-weaverweb","claimed":true,"claimedBySlug":"Shassa Weaverweb","holderQuote":"“I am a humble traveller. I mean no harm. I beg entrance; I am Shassa Weaverweb, granted my name by those who still walk the wild green. May I enter?”"}
-{"id":"01a0657e-01d2-70f4-931f-b1d72dc5afa8","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":649,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","claimed":true,"claimedBySlug":"Sacra","holderQuote":"“Er—I was just in Invrisil. An urgent issue was sent for Lady Reinhart. One of the staff—Nalthaliarstrelous has gotten into an incident. Assault.”"}
+{"id":"01a0657e-01d2-7e98-802b-bf6e9aac836b","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":448,"wording":"[Druid]","event":"named","holderSlug":"shassa-weaverweb","claimed":true,"claimedBySlug":"shassa-weaverweb","holderQuote":"“I am a humble traveller. I mean no harm. I beg entrance; I am Shassa Weaverweb, granted my name by those who still walk the wild green. May I enter?”"}
+{"id":"01a0657e-01d2-70f4-931f-b1d72dc5afa8","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":649,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","claimed":true,"claimedBySlug":"sacra","holderQuote":"“Er—I was just in Invrisil. An urgent issue was sent for Lady Reinhart. One of the staff—Nalthaliarstrelous has gotten into an incident. Assault.”"}
 {"id":"01a0657e-01d2-747b-8a33-9c5d31e4b296","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":655,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d2-7afc-be1c-c5f1943410b5","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":677,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","holderQuote":"Erin pointed at Nalthaliarstrelous. The [Druid] gave her an affronted look."}
 {"id":"01a0657e-01d2-702c-95fb-fe94c87b788b","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":680,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","holderQuote":"Erin pointed at Nalthaliarstrelous. The [Druid] gave her an affronted look."}
@@ -153,7 +153,7 @@
 {"id":"01a0657e-01d2-763a-bf8e-c084dee2e515","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":1209,"wording":"[Druid]","event":"named","holderSlug":"shassa-weaverweb","holderQuote":"Lyonette was screaming at Shassa."}
 {"id":"01a0657e-01d2-7d48-be8a-bfc50c0e7cbc","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":1213,"wording":"[Druid]","event":"named","holderSlug":"shassa-weaverweb","holderQuote":"Lyonette was screaming at Shassa."}
 {"id":"01a0657e-01d2-704c-a38f-e0046c4f7bed","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":1215,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","holderQuote":"Nalthaliarstrelous was banging his staff on the roof."}
-{"id":"01a0657e-01d2-7ca5-ab9f-5fb04f55760e","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":1225,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","claimed":true,"claimedBySlug":"Bezale","holderQuote":"Bezale roared."}
+{"id":"01a0657e-01d2-7ca5-ab9f-5fb04f55760e","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":1225,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","claimed":true,"claimedBySlug":"bezale","holderQuote":"Bezale roared."}
 {"id":"01a0657e-01d2-7869-b6f3-f78c4ecd3342","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":1232,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","holderQuote":"From the roof of the inn, Nalthaliarstrelous leapt."}
 {"id":"01a0657e-01d2-7488-a566-82b6f4b40e75","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":1236,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","holderQuote":"The [Innkeeper] saw Nalthaliarstrelous stride forwards onto the bare land."}
 {"id":"01a0657e-01d2-74ee-984b-19d003fa8368","chapterSlug":"rwInterlude - A Meeting of [Druids]","paragraph":1237,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","holderQuote":"The [Innkeeper] saw Nalthaliarstrelous stride forwards onto the bare land."}
@@ -201,7 +201,7 @@
 {"id":"01a0657e-01d3-7ba4-a633-80679909b503","chapterSlug":"rw8-07 L","paragraph":1005,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-78ea-8374-033cd0339f46","chapterSlug":"rw8-07 L","paragraph":1591,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-792a-9cf9-6a16166e859f","chapterSlug":"rw8-07 L","paragraph":1601,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","holderQuote":"“Yes, First Gardener. I request adjudication by Druid—and I name the Druids Shassa and Nalthaliarstrelous to pass judgment!”"}
-{"id":"01a0657e-01d3-7ca8-9f17-01c112f7cc42","chapterSlug":"rw8-07 L","paragraph":1604,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","claimed":true,"claimedBySlug":"Nalthaliarstrelous","holderQuote":"“I am a [Druid]. Be silent or I will hit you.”"}
+{"id":"01a0657e-01d3-7ca8-9f17-01c112f7cc42","chapterSlug":"rw8-07 L","paragraph":1604,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","claimed":true,"claimedBySlug":"nalthaliarstrelous","holderQuote":"“I am a [Druid]. Be silent or I will hit you.”"}
 {"id":"01a0657e-01d3-7226-86e0-c902bc5066a8","chapterSlug":"rw8-07 L","paragraph":1605,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7115-b4e5-5b08b1e3453c","chapterSlug":"rw8-07 L","paragraph":1611,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","holderQuote":"“It is clear someone stole all the flowers, Druid Nalthaliarstrelous.”"}
 {"id":"01a0657e-01d3-7611-bc37-f433c5d1efd4","chapterSlug":"rw8-07 L","paragraph":1643,"wording":"[Druid]","event":"named","holderSlug":"nalthaliarstrelous","holderQuote":"“Druid Nalthaliarstrelous. Let me assure you of one thing. Oteslia will not be without the faerie flowers. But it will accede to basic law of possession.”"}
@@ -241,7 +241,7 @@
 {"id":"01a0657e-01d3-7169-ab08-f5c5b3b42e90","chapterSlug":"rw8-48 H","paragraph":998,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-75ca-a8e8-1c47d00ae15b","chapterSlug":"rw8-52 MN","paragraph":40,"wording":"[Druid]","event":"named","holderSlug":"mrsha","holderQuote":"Mrsha was a white Gnoll or [Druid]"}
 {"id":"01a0657e-01d3-7337-8d3a-4dfc7910bb0c","chapterSlug":"rw8-52 MN","paragraph":136,"wording":"[Druid]","event":"named"}
-{"id":"01a0657e-01d3-764f-a4b3-1014456943cd","chapterSlug":"rw8-60","paragraph":1304,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Mri","holderQuote":"I have often been described as a [Druid], but my ambitions soar to [Wizard], [Adventurer] itself"}
+{"id":"01a0657e-01d3-764f-a4b3-1014456943cd","chapterSlug":"rw8-60","paragraph":1304,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"mri","holderQuote":"I have often been described as a [Druid], but my ambitions soar to [Wizard], [Adventurer] itself"}
 {"id":"01a0657e-01d3-7d8f-ac76-c2104f0c2fa8","chapterSlug":"rw8-62 K","paragraph":982,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7aca-9597-1240c458b31c","chapterSlug":"rw8-66","paragraph":1041,"wording":"[Druid]","event":"named","holderQuote":"Nalthaliarstrelous, the [Druid], was an insect compared to it"}
 {"id":"01a0657e-01d3-78d2-bdc4-f31a5c20b746","chapterSlug":"rw8-66","paragraph":1041,"wording":"[Druid]","event":"named","holderQuote":"Nalthaliarstrelous, the [Druid], was an insect compared to it"}
@@ -287,11 +287,11 @@
 {"id":"01a0657e-01d3-76f7-8109-35b93a0f79ce","chapterSlug":"rw9-18 E","paragraph":1154,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7a6f-a906-83ec45e4300f","chapterSlug":"rwInterlude - Relationships","paragraph":875,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7b83-bdd2-ca0f0907652e","chapterSlug":"rw9-19","paragraph":712,"wording":"[Druid]","event":"named","holderSlug":"gireulashia","holderQuote":"Gire might not like Nanette. The little [Druid]’s flaw was that she didn’t quite believe Gire would be so mean."}
-{"id":"01a0657e-01d3-760c-baae-e59554f83071","chapterSlug":"rw9-21","paragraph":751,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Shassa","holderQuote":"Don’t go into Celum, Nalthaliarstrelous."}
+{"id":"01a0657e-01d3-760c-baae-e59554f83071","chapterSlug":"rw9-21","paragraph":751,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"shassa","holderQuote":"Don’t go into Celum, Nalthaliarstrelous."}
 {"id":"01a0657e-01d3-78aa-8f70-6ca1837038a1","chapterSlug":"rw9-21","paragraph":764,"wording":"[Druid]","event":"named","holderQuote":"Eforte turned to Nalthaliarstrelous."}
 {"id":"01a0657e-01d3-70c5-947e-6633806f68c4","chapterSlug":"rw9-21","paragraph":770,"wording":"[Druid]","event":"named","holderQuote":"Nalthal blew half of it onto the floor, and gold glinted between the dirt."}
-{"id":"01a0657e-01d3-7e80-8896-1003e93e10a2","chapterSlug":"rw9-21","paragraph":771,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Erin","holderQuote":"is that Nalthaliarstrelous! The ultra-violent [Druid]!"}
-{"id":"01a0657e-01d3-764d-9bf5-a4026f76aec0","chapterSlug":"rw9-21","paragraph":776,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Erin","holderQuote":"He’s a nice g…he’s a [Druid]. But I like him."}
+{"id":"01a0657e-01d3-7e80-8896-1003e93e10a2","chapterSlug":"rw9-21","paragraph":771,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"erin","holderQuote":"is that Nalthaliarstrelous! The ultra-violent [Druid]!"}
+{"id":"01a0657e-01d3-764d-9bf5-a4026f76aec0","chapterSlug":"rw9-21","paragraph":776,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"erin","holderQuote":"He’s a nice g…he’s a [Druid]. But I like him."}
 {"id":"01a0657e-01d3-79c2-82b7-fb57cbcf665f","chapterSlug":"rw9-21","paragraph":847,"wording":"[Druid]","event":"named","holderQuote":"she decided to poke her head into the City of Adventurers too. The [Druid] had to admit, it was shocking"}
 {"id":"01a0657e-01d3-7e4f-9c28-2e76dd3ec19e","chapterSlug":"rwThe Roots (Pt- 2b)","paragraph":181,"wording":"[Druid]","event":"named","holderQuote":"summoned Nalthaliarstrelous and Teriarch to confer. When the [Druid] and Dragon were told"}
 {"id":"01a0657e-01d3-70bb-933a-8513cfdd6d5b","chapterSlug":"rwThe Roots (Pt- 2b)","paragraph":200,"wording":"[Druid]","event":"named","holderQuote":"summoned Nalthaliarstrelous and Teriarch to confer. When the [Druid] and Dragon were told"}
@@ -305,7 +305,7 @@
 {"id":"01a0657e-01d3-7729-9380-d57faec6fc33","chapterSlug":"rwInterlude - The Grove","paragraph":675,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7cc9-8bce-20045ee38879","chapterSlug":"rwInterlude - The Grove","paragraph":688,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"lyonette-du-marquin","holderQuote":"Surely a [Druid] like Nalthaliarstrelous would have heard of it"}
 {"id":"01a0657e-01d3-7574-9cfd-4b1f831f445a","chapterSlug":"rwInterlude - The Grove","paragraph":719,"wording":"[Druid]","event":"named"}
-{"id":"01a0657e-01d3-701a-91ec-e75165365df8","chapterSlug":"rw10-25 MG","paragraph":260,"wording":"[Druid]","event":"named","holderSlug":"mrsha-du-marquin","claimed":true,"claimedBySlug":"Nanette","holderQuote":"You can’t just pick it up like [Druid], [Emberbearer], or your other half-dozen classes!"}
+{"id":"01a0657e-01d3-701a-91ec-e75165365df8","chapterSlug":"rw10-25 MG","paragraph":260,"wording":"[Druid]","event":"named","holderSlug":"mrsha-du-marquin","claimed":true,"claimedBySlug":"nanette","holderQuote":"You can’t just pick it up like [Druid], [Emberbearer], or your other half-dozen classes!"}
 {"id":"01a0657e-01d3-7cfc-88b1-e699cbee98ac","chapterSlug":"rwInterlude -- Songs and Wands","paragraph":1073,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-725b-baa8-60de63976d6a","chapterSlug":"rwInterlude -- Songs and Wands","paragraph":1175,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7e40-8a88-cd50cc42ca5e","chapterSlug":"rw10-56 F","paragraph":182,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"colovt","holderQuote":"Druid Meeles, if you would?"}
@@ -317,7 +317,7 @@
 {"id":"01a0657e-01d3-7675-b473-f1e7f5386b76","chapterSlug":"rw9-41 (Pt. 1)","paragraph":682,"wording":"[Druid]","event":"named","holderQuote":"Yet she had a few levels. Level 11 [Druid]—and no, the class had not advanced markedly despite meeting the Gaarh Marsh tribe."}
 {"id":"01a0657e-01d3-7564-b8f7-100d17873341","chapterSlug":"rw10-29 M","paragraph":690,"wording":"[Druid]","event":"named","holderSlug":"mrsha-future","claimed":true,"claimedBySlug":"grimalkin","holderQuote":"Grimalkin whispered; he rebound a spell as his opponent spoke"}
 {"id":"01a0657e-01d3-7ec4-89cd-8d811d3c25dc","chapterSlug":"rw10-23 LMGY","paragraph":918,"wording":"[Druid]","event":"named","holderQuote":"Garry knew Shassa Weaverweb, the [Teacher] and [Druid] of Oteslia."}
-{"id":"01a0657e-01d3-76f9-8ce4-1e56abe00c2f","chapterSlug":"rw10-23 LMGY","paragraph":924,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Shassa","holderQuote":"That is a fascinating reply, Druid Shassa."}
+{"id":"01a0657e-01d3-76f9-8ce4-1e56abe00c2f","chapterSlug":"rw10-23 LMGY","paragraph":924,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"shassa","holderQuote":"That is a fascinating reply, Druid Shassa."}
 {"id":"01a0657e-01d3-7745-bdec-5bade33a3eb9","chapterSlug":"rw10-55 F","paragraph":521,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7ee3-a159-012cee0daf00","chapterSlug":"rw10-55 F","paragraph":799,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-703a-a5be-a46b38488ae4","chapterSlug":"rw10-55 F","paragraph":799,"wording":"[Druid]","event":"named"}
@@ -343,7 +343,7 @@
 {"id":"01a0657e-01d3-7dfc-93c0-5cf600969431","chapterSlug":"rw10-13","paragraph":1224,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-75ae-a9a5-b7ee4fb9d042","chapterSlug":"rw10-13","paragraph":1233,"wording":"[Druid]","event":"named","holderQuote":"Shassa was an energetic young [Druid] with a spider motif"}
 {"id":"01a0657e-01d3-7e1e-856b-9e551526625a","chapterSlug":"rw10-13","paragraph":1235,"wording":"[Druid]","event":"named","holderQuote":"She smiled apologetically. She was a [Druid]. She had a home."}
-{"id":"01a0657e-01d3-76d2-953f-34b8ea55d8ee","chapterSlug":"rw10-13","paragraph":1245,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Shassa","holderQuote":"Shassa gave Lyonette a puzzled glance."}
+{"id":"01a0657e-01d3-76d2-953f-34b8ea55d8ee","chapterSlug":"rw10-13","paragraph":1245,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"shassa","holderQuote":"Shassa gave Lyonette a puzzled glance."}
 {"id":"01a0657e-01d3-7a4b-9879-36e1819e66e5","chapterSlug":"rw10-13","paragraph":1250,"wording":"[Druid]","event":"named","holderQuote":"Begging the [Druid] didn’t work."}
 {"id":"01a0657e-01d3-7e98-af9a-a33b71cb2a1c","chapterSlug":"rw10-15","paragraph":1610,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"lyonette-du-marquin","holderQuote":"Fun and dangerous, Druid Shassa."}
 {"id":"01a0657e-01d3-7cfc-b6a6-1fcda6f4d6f3","chapterSlug":"rw10-15","paragraph":1617,"wording":"[Druid]","event":"named"}
@@ -351,7 +351,7 @@
 {"id":"01a0657e-01d3-7b55-a45b-13eb78b971bb","chapterSlug":"rw9-61 G","paragraph":136,"wording":"[Druid]","event":"named","holderQuote":"Mrsha, Level 13"}
 {"id":"01a0657e-01d3-716a-a0b9-770409e44427","chapterSlug":"rw9-59 O","paragraph":92,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7f23-8b47-be5619151ca3","chapterSlug":"rw9-59 O","paragraph":740,"wording":"[Druid]","event":"named","holderQuote":"The [Druid], Jvaile, and over a hundred other [Druids] and related classes had the wildest of camps"}
-{"id":"01a0657e-01d3-7f6d-9cab-47597700f2de","chapterSlug":"rw9-59 O","paragraph":749,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Orjin","holderQuote":"What are you doing here, Wildkeeper Jvaile"}
+{"id":"01a0657e-01d3-7f6d-9cab-47597700f2de","chapterSlug":"rw9-59 O","paragraph":749,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"orjin","holderQuote":"What are you doing here, Wildkeeper Jvaile"}
 {"id":"01a0657e-01d3-7e71-b77c-6595b0f528ba","chapterSlug":"rw9-59 O","paragraph":769,"wording":"[Druid]","event":"named","holderQuote":"He looked at the [Druid], Jvaile, and bowed his head."}
 {"id":"01a0657e-01d3-70fa-bb61-c8761dd7ff1e","chapterSlug":"rw9-59 O","paragraph":1261,"wording":"[Druid]","event":"named","holderQuote":"found the [Druid], Jvaile, standing outside his hut"}
 {"id":"01a0657e-01d3-7cf8-aae5-e8c50b3826ca","chapterSlug":"rw9-59 O","paragraph":1265,"wording":"[Druid]","event":"named","claimed":true,"holderQuote":"I know you are first of your [Druid] circle, Jvaile."}
@@ -362,7 +362,7 @@
 {"id":"01a0657e-01d3-72b1-af18-0d7722e5fc73","chapterSlug":"rw9-59 O","paragraph":1770,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7fb2-8882-ee1ca702fac6","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":326,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7d18-a38d-29e6d159fe13","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":773,"wording":"[Druid]","event":"named"}
-{"id":"01a0657e-01d3-70c6-92b8-fdd5cce61942","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":1222,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Sharteeth","holderQuote":"Hello. I’m Sharteeth. We don’t mean you any harm!"}
+{"id":"01a0657e-01d3-70c6-92b8-fdd5cce61942","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":1222,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"sharteeth","holderQuote":"Hello. I’m Sharteeth. We don’t mean you any harm!"}
 {"id":"01a0657e-01d3-73a4-a44e-f62e10c72bbd","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":1276,"wording":"[Druid]","event":"named","holderSlug":"lagister","holderQuote":"race up Lagister’s robes"}
 {"id":"01a0657e-01d3-74fe-998a-b6c1b0867368","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":1958,"wording":"[Druid]","event":"named","holderQuote":"Green General Narrina put in."}
 {"id":"01a0657e-01d3-7759-b780-330e9bcac69a","chapterSlug":"rw10-33 MNK","paragraph":1181,"wording":"[Druid]","event":"named"}
@@ -376,7 +376,7 @@
 {"id":"01a0657e-01d3-7e43-b2b4-3b982a0cf4db","chapterSlug":"rw10-02 Y","paragraph":762,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7611-ab1f-83e55861a90b","chapterSlug":"rw10-65","paragraph":1203,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7bdd-925a-0aa22bcfb690","chapterSlug":"rw10-65","paragraph":1354,"wording":"[Druid]","event":"named"}
-{"id":"01a0657e-01d3-7d3e-841f-d7d97e84dfdb","chapterSlug":"rw9-60","paragraph":745,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Chaldion","holderQuote":"And I want every [Druid] we can muster."}
+{"id":"01a0657e-01d3-7d3e-841f-d7d97e84dfdb","chapterSlug":"rw9-60","paragraph":745,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"chaldion","holderQuote":"And I want every [Druid] we can muster."}
 {"id":"01a0657e-01d3-77f6-be0d-22ce851cfadb","chapterSlug":"rw10-03 Y","paragraph":144,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-712e-8418-8950ce134a4c","chapterSlug":"rw10-52 N","paragraph":213,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7c2c-a128-53539507bc97","chapterSlug":"rw10-52 N","paragraph":419,"wording":"[Druid]","event":"named"}
@@ -392,7 +392,7 @@
 {"id":"01a0657e-01d3-7a86-9ef2-75dcac1cdce1","chapterSlug":"rw9-65","paragraph":419,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7157-850f-db2b8317d398","chapterSlug":"rw9-68","paragraph":157,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7838-b712-6968091e742b","chapterSlug":"rw9-68","paragraph":161,"wording":"[Druid]","event":"named"}
-{"id":"01a0657e-01d3-7b94-b260-ff9f5702d0bb","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":455,"wording":"[Druid]","event":"named","holderSlug":"mrsha","claimed":true,"claimedBySlug":"Nanette","holderQuote":"I’m a former"}
+{"id":"01a0657e-01d3-7b94-b260-ff9f5702d0bb","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":455,"wording":"[Druid]","event":"named","holderSlug":"mrsha","claimed":true,"claimedBySlug":"nanette","holderQuote":"I’m a former"}
 {"id":"01a0657e-01d3-7a69-bb32-2064aad7b374","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":2603,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7877-83df-31e9926db700","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":2625,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d3-7d25-97a9-03a4b3051b7a","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":2663,"wording":"[Druid]","event":"named","holderSlug":"lyonette","holderQuote":"Lyonette went striding along the streets."}
@@ -410,7 +410,7 @@
 {"id":"01a0657e-01d4-7c0f-9870-3a53f8a7fdad","chapterSlug":"rw10-57 F","paragraph":979,"wording":"[Druid]","event":"named","holderQuote":"The Gnoll girl was a [Druid], after all."}
 {"id":"01a0657e-01d4-79c3-a2a6-7e8c4de4eb04","chapterSlug":"rw9-39","paragraph":395,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d4-7371-ae84-a906f8e55b82","chapterSlug":"rw10-16 N","paragraph":1029,"wording":"[Druid]","event":"named"}
-{"id":"01a0657e-01d4-7fd1-8c76-76781eb4d4c7","chapterSlug":"rw9-32","paragraph":815,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Mrsha","holderQuote":"And a [Druid]."}
+{"id":"01a0657e-01d4-7fd1-8c76-76781eb4d4c7","chapterSlug":"rw9-32","paragraph":815,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"mrsha","holderQuote":"And a [Druid]."}
 {"id":"01a0657e-01d4-7ca0-84f7-d5672fa72423","chapterSlug":"rw10-45 L","paragraph":200,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d4-7ab5-a686-63f5f58104a2","chapterSlug":"rw10-45 L","paragraph":222,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d4-7c47-b222-8ac1e1142d4d","chapterSlug":"rw10-45 L","paragraph":258,"wording":"[Druid]","event":"named"}
@@ -421,9 +421,9 @@
 {"id":"01a0657e-01d4-783f-bace-b9be444d6ded","chapterSlug":"rw10-45 L","paragraph":1370,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d4-76c9-847d-f64fce58af24","chapterSlug":"rw10-45 L","paragraph":1373,"wording":"[Druid]","event":"named"}
 {"id":"01a0657e-01d4-7cc0-b89e-0c3842402731","chapterSlug":"rwGoblin Days (Pt- 4) - Order, Oddity","paragraph":168,"wording":"[Druid]","event":"named","holderSlug":"mrsha","holderQuote":"Mrsha didn’t visit the farm. She was a [Druid]"}
-{"id":"01a0657e-01d4-742b-82ce-44b1b10810fc","chapterSlug":"rwInterlude - Another Time","paragraph":56,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Rottervine","holderQuote":"Rottervine. [Druid]. Izril’s forests."}
-{"id":"01a0657e-01d4-72af-ab6b-30918c8f380b","chapterSlug":"rwInterlude - Another Time","paragraph":59,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Rottervine","holderQuote":"Rottervine. [Druid]. Izril’s forests."}
-{"id":"01a0657e-01d4-7b06-bdd3-c62804702b67","chapterSlug":"rwInterlude - Another Time","paragraph":63,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"Rottervine","holderQuote":"Rottervine. [Druid]. Izril’s forests."}
+{"id":"01a0657e-01d4-742b-82ce-44b1b10810fc","chapterSlug":"rwInterlude - Another Time","paragraph":56,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"rottervine","holderQuote":"Rottervine. [Druid]. Izril’s forests."}
+{"id":"01a0657e-01d4-72af-ab6b-30918c8f380b","chapterSlug":"rwInterlude - Another Time","paragraph":59,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"rottervine","holderQuote":"Rottervine. [Druid]. Izril’s forests."}
+{"id":"01a0657e-01d4-7b06-bdd3-c62804702b67","chapterSlug":"rwInterlude - Another Time","paragraph":63,"wording":"[Druid]","event":"named","claimed":true,"claimedBySlug":"rottervine","holderQuote":"Rottervine. [Druid]. Izril’s forests."}
 {"id":"01a0657e-01d4-734b-99e9-c57611700ce6","chapterSlug":"rwInterlude - Another Time","paragraph":71,"wording":"[Druid]","event":"named","holderQuote":"She saw the [Druid], Rottervine, land nimbly next to her"}
 {"id":"01a0657e-01d4-7942-8744-6725973765a2","chapterSlug":"rwInterlude - Another Time","paragraph":101,"wording":"[Druid]","event":"named","holderQuote":"The [Druid], Rottervine, grinning"}
 {"id":"01a0657e-01d4-77e8-84b9-7bb32c4f8899","chapterSlug":"rwInterlude - Another Time","paragraph":444,"wording":"[Druid]","event":"named"}

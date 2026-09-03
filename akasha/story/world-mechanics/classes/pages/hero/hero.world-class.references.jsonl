@@ -16,8 +16,8 @@
 {"id":"01a0657e-01f7-7fd8-9bbb-5e4592759564","chapterSlug":"rw3-35","paragraph":79,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-7924-9cd7-c900119575c5","chapterSlug":"rw3-35","paragraph":80,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-7224-8833-228450a44beb","chapterSlug":"rw1-02 C","paragraph":117,"wording":"[Hero]","event":"named","holderSlug":"tom","claimed":true,"claimedBySlug":"tom","holderQuote":"Correction: when you acted heroically. That’s why you leveled, right? You were a hero! Sorry, I mean, [Hero]!"}
-{"id":"01a0657e-01f7-758c-9755-d80dfa288796","chapterSlug":"rw1-05 C","paragraph":510,"wording":"[Hero]","event":"named","holderSlug":"tom","claimed":true,"claimedBySlug":"the devil","holderQuote":"“Next time, dear Tom. Next time. They’ll be coming, the lost and afraid. From our world.”"}
-{"id":"01a0657e-01f7-70c6-b08b-68d988e91891","chapterSlug":"rw1-05 C","paragraph":510,"wording":"[Hero]","event":"named","holderSlug":"tom","claimed":true,"claimedBySlug":"the devil","holderQuote":"“Next time, dear Tom. Next time. They’ll be coming, the lost and afraid. From our world.”"}
+{"id":"01a0657e-01f7-758c-9755-d80dfa288796","chapterSlug":"rw1-05 C","paragraph":510,"wording":"[Hero]","event":"named","holderSlug":"tom","claimed":true,"claimedBySlug":"the-devil","holderQuote":"“Next time, dear Tom. Next time. They’ll be coming, the lost and afraid. From our world.”"}
+{"id":"01a0657e-01f7-70c6-b08b-68d988e91891","chapterSlug":"rw1-05 C","paragraph":510,"wording":"[Hero]","event":"named","holderSlug":"tom","claimed":true,"claimedBySlug":"the-devil","holderQuote":"“Next time, dear Tom. Next time. They’ll be coming, the lost and afraid. From our world.”"}
 {"id":"01a0657e-01f7-7417-b241-a20327f10835","chapterSlug":"rw1-03 C","paragraph":178,"wording":"[Hero]","event":"named","holderSlug":"tom","claimed":true,"claimedBySlug":"tom","holderQuote":"They know who I am, at least. Hell, they probably saw me the first time when I was being escorted out with the others. Yup, here’s your [Hero], guys and gals. Me. Tom the unfunny [Clown]."}
 {"id":"01a0657e-01f7-77b0-abf2-cc0a6ec12ed7","chapterSlug":"rw1-03 C","paragraph":495,"wording":"[Hero]","event":"named","holderSlug":"tom","holderQuote":"I pick the knife up, and flip it in my hands. I catch it by the hilt easily. I’m not worried about cutting myself. The first Skill, the only Skill I got from my [Hero] class was [Weapon Proficiency: Knives]."}
 {"id":"01a0657e-01f7-71a7-9d33-d3530ee979dc","chapterSlug":"rw5-49","paragraph":824,"wording":"[Hero]","event":"named","holderSlug":"rabbiteater","holderQuote":"He was a hero. And hundreds…thousands…of Cave Goblins slept that night and believed it. And because they believed, it was true. Only, it was impossible for Rabbiteater to become a [Hero]. He was missing one thing. So he got the closest thing to it."}
@@ -26,7 +26,7 @@
 {"id":"01a0657e-01f7-7be7-834b-0d92f506e809","chapterSlug":"rw7-34 C","paragraph":256,"wording":"[Hero]","event":"named","holderSlug":"richard","holderQuote":"The [Lord] looked at Richard, almost surprised. But then—Richard was a [Hero] and Hayvon had yet to understand superheroes."}
 {"id":"01a0657e-01f7-7a32-bf20-ff2ee58eab21","chapterSlug":"rw7-34 C","paragraph":315,"wording":"[Hero]","event":"named","holderQuote":"Edward, like Richard, was a [Hero], someone with the class who’d decided to fight the Demons."}
 {"id":"01a0657e-01f7-7dae-b626-543c7c0ab40e","chapterSlug":"rw7-34 C","paragraph":605,"wording":"[Hero]","event":"named","holderSlug":"tom-clown","holderQuote":"He’d leveled up in his [Hero] class."}
-{"id":"01a0657e-01f7-7eeb-9015-c8948d932279","chapterSlug":"rw7-36 C","paragraph":1023,"wording":"[Hero]","event":"named","claimed":true,"claimedBySlug":"Silvenia","holderQuote":"She pointed a finger—Tom saw her eyes flash."}
+{"id":"01a0657e-01f7-7eeb-9015-c8948d932279","chapterSlug":"rw7-36 C","paragraph":1023,"wording":"[Hero]","event":"named","claimed":true,"claimedBySlug":"silvenia","holderQuote":"She pointed a finger—Tom saw her eyes flash."}
 {"id":"01a0657e-01f7-780c-95a3-8a4a1b77ae48","chapterSlug":"rw7-57","paragraph":953,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-7341-a564-400217700628","chapterSlug":"rw8-11 E (Revised)","paragraph":1385,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-79c9-956c-ef619249543a","chapterSlug":"rw8-11 E (Revised)","paragraph":1457,"wording":"[Hero]","event":"named"}
@@ -41,7 +41,7 @@
 {"id":"01a0657e-01f7-7513-89a9-bfc2bc5330b1","chapterSlug":"rw8-61","paragraph":863,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-728b-af89-ddfa12d8555b","chapterSlug":"rw8-70 E","paragraph":46,"wording":"[Hero]","event":"named","holderSlug":"marquin","holderQuote":"Queen Marquin of Calanfer, the famed [Hero] who had rallied Terandria and fought her way onto Rhir"}
 {"id":"01a0657e-01f7-7940-bc19-baf109348aa5","chapterSlug":"rwInterlude – Hectval (Pt- 2)","paragraph":24,"wording":"[Hero]","event":"named"}
-{"id":"01a0657e-01f7-7d4e-b88e-f42750aca733","chapterSlug":"rwInterlude - Satar","paragraph":97,"wording":"[Hero]","event":"named","holderSlug":"cers","claimed":true,"claimedBySlug":"Cers","holderQuote":"I’ll be a [Hero]."}
+{"id":"01a0657e-01f7-7d4e-b88e-f42750aca733","chapterSlug":"rwInterlude - Satar","paragraph":97,"wording":"[Hero]","event":"named","holderSlug":"cers","claimed":true,"claimedBySlug":"cers","holderQuote":"I’ll be a [Hero]."}
 {"id":"01a0657e-01f7-7109-8db8-11b760e97ffa","chapterSlug":"rwEpilogue","paragraph":181,"wording":"[Hero]","event":"named","holderSlug":"erin-solstice","holderQuote":"she would have taken each and every class"}
 {"id":"01a0657e-01f7-747d-8bc8-5519453aa3d9","chapterSlug":"rw9-04","paragraph":114,"wording":"[Hero]","event":"named","claimed":true,"claimedBySlug":"othius","holderQuote":"He is far too much a [Hero] to ever leave Rhir."}
 {"id":"01a0657e-01f7-7a41-8abe-5a0384dd990b","chapterSlug":"rw9-04","paragraph":632,"wording":"[Hero]","event":"named"}
@@ -121,7 +121,7 @@
 {"id":"01a0657e-01f7-7be6-8efc-0034778baf6f","chapterSlug":"rwHeroes of Hraace (Pt- 1)","paragraph":336,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-71ab-abf5-eaf49d51aa4f","chapterSlug":"rwInterlude - The Grove","paragraph":326,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-7eac-b6a0-bbacdb36180e","chapterSlug":"rw10-56 F","paragraph":110,"wording":"[Hero]","event":"named"}
-{"id":"01a0657e-01f7-779e-9f58-0a5ae69d4cca","chapterSlug":"rw10-56 F","paragraph":1498,"wording":"[Hero]","event":"named","holderSlug":"mistreq","claimed":true,"claimedBySlug":"Mistreq","holderQuote":"But I didn’t gain the [Hero] class"}
+{"id":"01a0657e-01f7-779e-9f58-0a5ae69d4cca","chapterSlug":"rw10-56 F","paragraph":1498,"wording":"[Hero]","event":"named","holderSlug":"mistreq","claimed":true,"claimedBySlug":"mistreq","holderQuote":"But I didn’t gain the [Hero] class"}
 {"id":"01a0657e-01f7-7e78-9cf2-0dd86c7de4a1","chapterSlug":"rw10-30 GGMG","paragraph":845,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-7140-a0db-3de9c7427cd6","chapterSlug":"rw10-30 GGMG","paragraph":874,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-7f3b-b932-ebe918ee4a27","chapterSlug":"rw10-30 GGMG","paragraph":881,"wording":"[Hero]","event":"named"}
@@ -186,7 +186,7 @@
 {"id":"01a0657e-01f7-79ec-b813-982845fa7d11","chapterSlug":"rw10-30 GGMG","paragraph":2245,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-767d-8e39-95e089717b0f","chapterSlug":"rw10-30 GGMG","paragraph":2288,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-7579-8d88-848707b6d108","chapterSlug":"rwInterlude - Halfseekers (Pt- 5)","paragraph":640,"wording":"[Hero]","event":"named","holderSlug":"seborn-sailwinds","claimed":true,"claimedBySlug":"seborn-sailwinds","holderQuote":"Seborn sighed"}
-{"id":"01a0657e-01f7-77fb-b802-9d380d60de8f","chapterSlug":"rwInterlude - Halfseekers (Pt- 5)","paragraph":673,"wording":"[Hero]","event":"named","holderSlug":"seborn-sailwinds","claimed":true,"claimedBySlug":"Guildmaster Tealve","holderQuote":"welcome at the Guild, Seborn"}
+{"id":"01a0657e-01f7-77fb-b802-9d380d60de8f","chapterSlug":"rwInterlude - Halfseekers (Pt- 5)","paragraph":673,"wording":"[Hero]","event":"named","holderSlug":"seborn-sailwinds","claimed":true,"claimedBySlug":"guildmaster-tealve","holderQuote":"welcome at the Guild, Seborn"}
 {"id":"01a0657e-01f7-76cc-85de-09bdfe19ca92","chapterSlug":"rw10-24 E","paragraph":401,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f7-71e5-b0e8-448c3c39f21b","chapterSlug":"rwInterlude - Levels","paragraph":181,"wording":"[Hero]","event":"named","holderSlug":"rittane","holderQuote":"The Grand Design itself didn’t know what Rittane could be, if she lived."}
 {"id":"01a0657e-01f7-7ef9-8d35-17ebfc3407f0","chapterSlug":"rw10-59 T","paragraph":2404,"wording":"[Hero]","event":"named"}
@@ -222,7 +222,7 @@
 {"id":"01a0657e-01f8-75a4-83e2-65c39595deb7","chapterSlug":"rw10-58 FP","paragraph":2700,"wording":"[Hero]","event":"named","holderQuote":"and yet because they had shared that moment, Doubte had come in Khelt’s hour of need"}
 {"id":"01a0657e-01f8-7d02-bf79-11c95025c487","chapterSlug":"rw10-58 FP","paragraph":2703,"wording":"[Hero]","event":"named","holderQuote":"He bowed before Doubte as the [Hero] finished wiping his sword with a cloth"}
 {"id":"01a0657e-01f8-7fc8-a943-bddb9be6b3e5","chapterSlug":"rw10-58 FP","paragraph":2714,"wording":"[Hero]","event":"named","holderQuote":"It does. You have earned that without even this, Doubte."}
-{"id":"01a0657e-01f8-705f-9538-ae7ca0cb906e","chapterSlug":"rw10-58 FP","paragraph":3106,"wording":"[Hero]","event":"named","claimed":true,"claimedBySlug":"Shamt-grazredon","holderQuote":"Doubte froze, and Shamt grinned at him"}
+{"id":"01a0657e-01f8-705f-9538-ae7ca0cb906e","chapterSlug":"rw10-58 FP","paragraph":3106,"wording":"[Hero]","event":"named","claimed":true,"claimedBySlug":"shamt-grazredon","holderQuote":"Doubte froze, and Shamt grinned at him"}
 {"id":"01a0657e-01f8-7772-b2bc-49ab0f15799a","chapterSlug":"rw10-32 (Pt. 1)","paragraph":421,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f8-74e8-8b48-1f0499b7cc0a","chapterSlug":"rw10-32 (Pt. 1)","paragraph":428,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f8-76fb-8c23-464967c546e8","chapterSlug":"rw10-32 (Pt. 1)","paragraph":430,"wording":"[Hero]","event":"named"}
@@ -233,7 +233,7 @@
 {"id":"01a0657e-01f8-78b1-83d4-ab19a5850108","chapterSlug":"rw10-32 (Pt. 1)","paragraph":527,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f8-74fd-b530-0d9a96c6b220","chapterSlug":"rw10-32 (Pt. 1)","paragraph":528,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f8-7fe3-a935-8c39a4b1d8ad","chapterSlug":"rw10-32 (Pt. 1)","paragraph":534,"wording":"[Hero]","event":"named"}
-{"id":"01a0657e-01f8-752f-a598-4090a9524063","chapterSlug":"rw10-32 (Pt. 1)","paragraph":956,"wording":"[Hero]","event":"named","claimed":true,"claimedBySlug":"Second Edition","holderQuote":"If judgement of new classes and skills is required, the [Hero], Jospiere, is based on the original but extrapolated to a far higher level."}
+{"id":"01a0657e-01f8-752f-a598-4090a9524063","chapterSlug":"rw10-32 (Pt. 1)","paragraph":956,"wording":"[Hero]","event":"named","claimed":true,"claimedBySlug":"second-edition","holderQuote":"If judgement of new classes and skills is required, the [Hero], Jospiere, is based on the original but extrapolated to a far higher level."}
 {"id":"01a0657e-01f8-77be-9d7f-4c4ed4be7984","chapterSlug":"rw10-32 (Pt. 1)","paragraph":960,"wording":"[Hero]","event":"named","holderQuote":"The Grand Design inspected Jospiere for a long time, actual seconds, as the [Hero] in this alternate reality lived and breathed and spoke with remarkably good detailing of Rhir in its current state."}
 {"id":"01a0657e-01f8-7efe-a0a6-5ef2459df4b2","chapterSlug":"rw10-32 (Pt. 1)","paragraph":965,"wording":"[Hero]","event":"named","holderQuote":"Jospiere in the Kingdom of Rhir. A [Hero] in a kingdom which had been founded by the actions of great [Heroes]"}
 {"id":"01a0657e-01f8-7d79-bb5f-4f31b7d16b60","chapterSlug":"rw10-32 (Pt. 1)","paragraph":971,"wording":"[Hero]","event":"named","holderQuote":"He never saw Keith, the last [Hero] of the old guard, again."}
@@ -276,9 +276,9 @@
 {"id":"01a0657e-01f8-7196-9d7a-2eb232570995","chapterSlug":"rw10-35 (Pt. 3)","paragraph":1718,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f8-7c68-bd03-64b4835f98c7","chapterSlug":"rw10-36 - Pt.1","paragraph":1568,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f8-74f5-8f36-4f8dd8320b1b","chapterSlug":"rw9-31","paragraph":618,"wording":"[Hero]","event":"named"}
-{"id":"01a0657e-01f8-760d-b2fa-3b231f1f9999","chapterSlug":"rw9-31","paragraph":970,"wording":"[Hero]","event":"named","claimed":true,"claimedBySlug":"Demsleth","holderQuote":"they were often the bearer of the artifact a [Hero] needed or a guide or warning sign."}
+{"id":"01a0657e-01f8-760d-b2fa-3b231f1f9999","chapterSlug":"rw9-31","paragraph":970,"wording":"[Hero]","event":"named","claimed":true,"claimedBySlug":"demsleth","holderQuote":"they were often the bearer of the artifact a [Hero] needed or a guide or warning sign."}
 {"id":"01a0657e-01f8-746c-bad7-1747faef0128","chapterSlug":"rw10-51 T","paragraph":491,"wording":"[Hero]","event":"named"}
-{"id":"01a0657e-01f8-7fbc-a076-c1b06bd7d113","chapterSlug":"rw9-30","paragraph":559,"wording":"[Hero]","event":"named","claimed":true,"claimedBySlug":"Taletevirion","holderQuote":"He trotted around Ryoka and nearly kicked over his bucket"}
+{"id":"01a0657e-01f8-7fbc-a076-c1b06bd7d113","chapterSlug":"rw9-30","paragraph":559,"wording":"[Hero]","event":"named","claimed":true,"claimedBySlug":"taletevirion","holderQuote":"He trotted around Ryoka and nearly kicked over his bucket"}
 {"id":"01a0657e-01f8-78c8-9a55-8b05a0bf3c1e","chapterSlug":"rw9-30","paragraph":1756,"wording":"[Hero]","event":"named"}
 {"id":"01a0657e-01f8-7f2e-9b3d-8704215068b8","chapterSlug":"rw10-63 RY","paragraph":388,"wording":"[Hero]","event":"named","holderQuote":"Arnie had told them he was a [Martial Artist] and he had taken classes"}
 {"id":"01a0657e-01f8-7711-bcb3-07a3afc4ce93","chapterSlug":"rw10-63 RY","paragraph":390,"wording":"[Hero Level 7!]","event":"level-up","kind":"class","level":7,"holderQuote":"Arnie had told them he was a [Martial Artist] and he had taken classes"}

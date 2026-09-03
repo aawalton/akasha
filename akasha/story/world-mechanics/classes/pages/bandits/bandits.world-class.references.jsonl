@@ -226,7 +226,7 @@
 {"id":"01a0657e-1338-7282-90b9-f8d83f5b24e9","chapterSlug":"rw7-08 K","paragraph":680,"wording":"[Bandits]","event":"named"}
 {"id":"01a0657e-1338-78e0-a880-0488397bd528","chapterSlug":"rw7-08 K","paragraph":757,"wording":"[Bandits]","event":"named"}
 {"id":"01a0657e-1338-72bb-b97d-c0683c5e0bfc","chapterSlug":"rw7-08 K","paragraph":843,"wording":"[Bandits]","event":"named"}
-{"id":"01a0657e-1338-7034-a20d-fcd04861b2bb","chapterSlug":"rw7-10 K","paragraph":675,"wording":"[Bandits]","event":"named","claimed":true,"claimedBySlug":"Nelrra"}
+{"id":"01a0657e-1338-7034-a20d-fcd04861b2bb","chapterSlug":"rw7-10 K","paragraph":675,"wording":"[Bandits]","event":"named","claimed":true,"claimedBySlug":"nelrra"}
 {"id":"01a0657e-1338-7278-8a9b-62240ab70174","chapterSlug":"rwInterlude - Talia","paragraph":278,"wording":"[Bandits]","event":"named"}
 {"id":"01a0657e-1338-744e-ac32-9d468f2ce6d0","chapterSlug":"rw6-65","paragraph":820,"wording":"[Bandits]","event":"named"}
 {"id":"01a0657e-1338-727b-8cc0-fcb83a07cda9","chapterSlug":"rw7-11","paragraph":432,"wording":"[Bandits]","event":"named"}
@@ -483,7 +483,7 @@
 {"id":"01a0657e-1339-7d88-9cd0-af2569ba054e","chapterSlug":"rw9-03","paragraph":710,"wording":"[Bandits]","event":"named"}
 {"id":"01a0657e-1339-7f77-bce2-3721de659fee","chapterSlug":"rw9-07","paragraph":367,"wording":"[Bandits]","event":"named"}
 {"id":"01a0657e-1339-7f2a-b0ce-bb60d2c2a257","chapterSlug":"rwInterlude - The Great Race","paragraph":638,"wording":"[Bandits]","event":"named"}
-{"id":"01a0657e-1339-7748-89e0-b8991ffc829f","chapterSlug":"rw9-26 F","paragraph":298,"wording":"[Bandits]","event":"named","holderSlug":"pewerthe","claimed":true,"claimedBySlug":"Pewerthe","holderQuote":"My family was one that left—I was allowed to return after His Majesty heard. No one survived but I."}
+{"id":"01a0657e-1339-7748-89e0-b8991ffc829f","chapterSlug":"rw9-26 F","paragraph":298,"wording":"[Bandits]","event":"named","holderSlug":"pewerthe","claimed":true,"claimedBySlug":"pewerthe","holderQuote":"My family was one that left—I was allowed to return after His Majesty heard. No one survived but I."}
 {"id":"01a0657e-1339-7a1a-b8a8-bd05d95b0169","chapterSlug":"rw9-09 P","paragraph":88,"wording":"[Bandits]","event":"named"}
 {"id":"01a0657e-1339-732b-a74b-f2f2f9db7d3f","chapterSlug":"rwInterlude - Adventurers (Pt- 1)","paragraph":548,"wording":"[Bandits]","event":"named"}
 {"id":"01a0657e-1339-7ef4-a5fb-83e2769fd363","chapterSlug":"rwInterlude - Adventurers (Pt- 1)","paragraph":961,"wording":"[Bandits]","event":"named"}
@@ -617,7 +617,7 @@
 {"id":"01a0657e-1339-7565-94e9-bdd90efaed83","chapterSlug":"rw9-31","paragraph":696,"wording":"[Bandits]","event":"named"}
 {"id":"01a0657e-1339-7eab-a468-36d1c2819046","chapterSlug":"rw9-31","paragraph":1122,"wording":"[Bandits]","event":"named","holderQuote":"Other times, [Bandits]."}
 {"id":"01a0657e-1339-7d85-a95e-ac11440baeaf","chapterSlug":"rw9-31","paragraph":1153,"wording":"[Bandits]","event":"named"}
-{"id":"01a0657e-1339-7b20-9523-b97246a36254","chapterSlug":"rw9-31","paragraph":1171,"wording":"[Bandits]","event":"named","claimed":true,"claimedBySlug":"Hecrelunn","holderQuote":"Your family was murdered by [Bandits]."}
+{"id":"01a0657e-1339-7b20-9523-b97246a36254","chapterSlug":"rw9-31","paragraph":1171,"wording":"[Bandits]","event":"named","claimed":true,"claimedBySlug":"hecrelunn","holderQuote":"Your family was murdered by [Bandits]."}
 {"id":"01a0657e-1339-7686-a4ab-2e1f776e7f54","chapterSlug":"rw9-31","paragraph":1231,"wording":"[Bandits]","event":"named","claimed":true,"holderQuote":"“[Bandits]! Bandit attack!”"}
 {"id":"01a0657e-1339-73ed-bac2-e19c0abaebf5","chapterSlug":"rw10-45 L","paragraph":957,"wording":"[Bandits]","event":"named"}
 {"id":"01a0657e-1339-7a6b-8873-8927725c0554","chapterSlug":"rw10-45 L","paragraph":960,"wording":"[Bandits]","event":"named"}

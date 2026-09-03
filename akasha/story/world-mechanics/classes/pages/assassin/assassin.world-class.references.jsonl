@@ -69,7 +69,7 @@
 {"id":"01a0657e-01ac-7860-8a20-9a83169c292a","chapterSlug":"rw5-60","paragraph":512,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ac-71f6-9ec5-ac1946355d4c","chapterSlug":"rw5-60","paragraph":516,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ac-7f24-bde1-451323b87263","chapterSlug":"rw6-06 D","paragraph":633,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"ken","holderQuote":"it has another leader called Three-Color Stalker whom no one knows except that she is a powerful [Assassin]"}
-{"id":"01a0657e-01ac-74da-889f-270d919106e0","chapterSlug":"rw6-13 K","paragraph":222,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"Orthenon"}
+{"id":"01a0657e-01ac-74da-889f-270d919106e0","chapterSlug":"rw6-13 K","paragraph":222,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"orthenon"}
 {"id":"01a0657e-01ac-7d60-94e2-6e1d6fb266ec","chapterSlug":"rw6-25","paragraph":22,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ac-7d97-a9fa-abfe52feefff","chapterSlug":"rw6-21 D","paragraph":7,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ac-7011-9ea7-c5d33c6e7edd","chapterSlug":"rwInterlude - Embria","paragraph":888,"wording":"[Assassin]","event":"named"}
@@ -357,7 +357,7 @@
 {"id":"01a0657e-01ad-70ac-8966-ecca40e491b2","chapterSlug":"rw7-60","paragraph":159,"wording":"[Assassin]","event":"named","holderQuote":"Mire bared her teeth"}
 {"id":"01a0657e-01ad-78ff-ac7a-6b8418a8d329","chapterSlug":"rw7-60","paragraph":160,"wording":"[Assassin]","event":"named","holderQuote":"Mire bared her teeth"}
 {"id":"01a0657e-01ad-77db-830b-99fac44e2499","chapterSlug":"rw7-60","paragraph":162,"wording":"[Assassin]","event":"named","holderQuote":"Mire bared her teeth"}
-{"id":"01a0657e-01ad-758c-8b2f-f7c082437751","chapterSlug":"rw7-60","paragraph":169,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"Mire","holderQuote":"Mire spat up at them"}
+{"id":"01a0657e-01ad-758c-8b2f-f7c082437751","chapterSlug":"rw7-60","paragraph":169,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"mire","holderQuote":"Mire spat up at them"}
 {"id":"01a0657e-01ad-75ab-aa5b-37951b04fbc9","chapterSlug":"rw7-60","paragraph":188,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-7e4d-aa71-f81e6ba3fcb8","chapterSlug":"rw7-60","paragraph":190,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-771a-adf2-3a02bb8286a0","chapterSlug":"rw7-60","paragraph":191,"wording":"[Assassin]","event":"named"}
@@ -443,7 +443,7 @@
 {"id":"01a0657e-01ad-7a24-b782-b318bcbaef71","chapterSlug":"rw8-25 KH","paragraph":412,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-7f56-b78b-62d843cd4cb4","chapterSlug":"rw8-25 KH","paragraph":489,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-79f2-b2e9-43f686f97bc6","chapterSlug":"rw8-29","paragraph":809,"wording":"[Assassin]","event":"named"}
-{"id":"01a0657e-01ad-77d0-bc5f-c3f5e459bb88","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":756,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"Riqre","holderQuote":"“Very good! You see? You do have potential. Yes. Rophir nearly died at first, but now he knows. You get used to it. He will become the greatest [Assassin] in his lifetime—but it will take decades! I am merely preparing him before we get to Roshal. Animate the next undead! I would have Pisces do it, Igheriz, but he might make them too strong!”"}
+{"id":"01a0657e-01ad-77d0-bc5f-c3f5e459bb88","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":756,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"riqre","holderQuote":"“Very good! You see? You do have potential. Yes. Rophir nearly died at first, but now he knows. You get used to it. He will become the greatest [Assassin] in his lifetime—but it will take decades! I am merely preparing him before we get to Roshal. Animate the next undead! I would have Pisces do it, Igheriz, but he might make them too strong!”"}
 {"id":"01a0657e-01ad-7048-a5a1-4e4a1ef2b74c","chapterSlug":"rwInterlude - Perspective and Past","paragraph":308,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-7a94-9940-88640add864a","chapterSlug":"rwInterlude - Perspective and Past","paragraph":313,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-75ed-bc66-5b9510358dd6","chapterSlug":"rwInterlude - Perspective and Past","paragraph":324,"wording":"[Assassin]","event":"named"}
@@ -464,7 +464,7 @@
 {"id":"01a0657e-01ad-7962-9dcb-c918b11ecce4","chapterSlug":"rw8-63 K","paragraph":321,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-72d5-8750-5ef6161105b8","chapterSlug":"rw8-64 K","paragraph":1167,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-7ad3-a39d-2a7234680a32","chapterSlug":"rw8-64 K","paragraph":1189,"wording":"[Assassin]","event":"named"}
-{"id":"01a0657e-01ad-7cae-8ce0-243958ff7f98","chapterSlug":"rw8-65","paragraph":426,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"Niers","holderQuote":"It reminded him of class. He looked at Salkis."}
+{"id":"01a0657e-01ad-7cae-8ce0-243958ff7f98","chapterSlug":"rw8-65","paragraph":426,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"niers","holderQuote":"It reminded him of class. He looked at Salkis."}
 {"id":"01a0657e-01ad-7ed4-9b69-c860dab5739d","chapterSlug":"rwInterlude - Satar","paragraph":1548,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-7a20-8a6c-3d54ce79f9e1","chapterSlug":"rw8-82 (Pt. 1)","paragraph":507,"wording":"[Assassin]","event":"named","holderSlug":"ressa","holderQuote":"She was a Face of the Assassin’s Guild, a former top-tier [Assassin]."}
 {"id":"01a0657e-01ad-77cf-8346-900434a285cf","chapterSlug":"rw8-82 (Pt. 1)","paragraph":512,"wording":"[Assassin]","event":"named","holderSlug":"ressa","holderQuote":"The Wyvern Lord frosted Ressa into ice—and blinked as the clone of her vanished."}
@@ -522,18 +522,18 @@
 {"id":"01a0657e-01ad-788a-ab03-23c2f7423277","chapterSlug":"rw10-14","paragraph":472,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-7fa1-9beb-0a42218be232","chapterSlug":"rw10-14","paragraph":659,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-7b9a-917c-17b5f58d5756","chapterSlug":"rw10-15","paragraph":653,"wording":"[Assassin]","event":"named"}
-{"id":"01a0657e-01ad-77e9-9f81-4a74aa705c86","chapterSlug":"rw10-15","paragraph":659,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"Lyonette"}
-{"id":"01a0657e-01ad-7352-aacb-88b7d67615a8","chapterSlug":"rw10-15","paragraph":661,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"Lyonette"}
-{"id":"01a0657e-01ad-755f-a623-164df4ad6902","chapterSlug":"rw10-15","paragraph":668,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"Dalimont"}
+{"id":"01a0657e-01ad-77e9-9f81-4a74aa705c86","chapterSlug":"rw10-15","paragraph":659,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"lyonette"}
+{"id":"01a0657e-01ad-7352-aacb-88b7d67615a8","chapterSlug":"rw10-15","paragraph":661,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"lyonette"}
+{"id":"01a0657e-01ad-755f-a623-164df4ad6902","chapterSlug":"rw10-15","paragraph":668,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"dalimont"}
 {"id":"01a0657e-01ad-787e-a9a8-45a6c38edb89","chapterSlug":"rw10-15","paragraph":674,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","holderQuote":"My title is Vaulont the Ash."}
 {"id":"01a0657e-01ad-7ed5-ae9e-229d6d6ba708","chapterSlug":"rw10-15","paragraph":674,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","holderQuote":"My title is Vaulont the Ash."}
 {"id":"01a0657e-01ad-7d2e-a299-9a20f86a2830","chapterSlug":"rw10-15","paragraph":679,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","holderQuote":"My title is Vaulont the Ash."}
-{"id":"01a0657e-01ad-7be2-afe0-e1225128bf93","chapterSlug":"rw10-15","paragraph":693,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"Vaulont the Ash"}
-{"id":"01a0657e-01ad-7065-8cbb-9c4f16ecf98d","chapterSlug":"rw10-15","paragraph":699,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","claimed":true,"claimedBySlug":"Vaulont the Ash","holderQuote":"My title is Vaulont the Ash."}
-{"id":"01a0657e-01ad-7331-9290-db017f2496d3","chapterSlug":"rw10-15","paragraph":701,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","claimed":true,"claimedBySlug":"Vaulont the Ash","holderQuote":"My title is Vaulont the Ash."}
-{"id":"01a0657e-01ad-7a5a-b4f7-e85dbb1da37a","chapterSlug":"rw10-15","paragraph":711,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","claimed":true,"claimedBySlug":"Lyonette","holderQuote":"Vaulont the Ash was clearly unsure if he should be offended or amused by the offer."}
-{"id":"01a0657e-01ad-7a31-876d-8f8390487c86","chapterSlug":"rw10-15","paragraph":716,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","claimed":true,"claimedBySlug":"Lyonette","holderQuote":"Vaulont the Ash was clearly unsure if he should be offended or amused by the offer."}
-{"id":"01a0657e-01ad-79e6-8384-befc6cb00df6","chapterSlug":"rw10-15","paragraph":718,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","claimed":true,"claimedBySlug":"Vaulont the Ash","holderQuote":"Vaulont the Ash was clearly unsure if he should be offended or amused by the offer."}
+{"id":"01a0657e-01ad-7be2-afe0-e1225128bf93","chapterSlug":"rw10-15","paragraph":693,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"vaulont-the-ash"}
+{"id":"01a0657e-01ad-7065-8cbb-9c4f16ecf98d","chapterSlug":"rw10-15","paragraph":699,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","claimed":true,"claimedBySlug":"vaulont-the-ash","holderQuote":"My title is Vaulont the Ash."}
+{"id":"01a0657e-01ad-7331-9290-db017f2496d3","chapterSlug":"rw10-15","paragraph":701,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","claimed":true,"claimedBySlug":"vaulont-the-ash","holderQuote":"My title is Vaulont the Ash."}
+{"id":"01a0657e-01ad-7a5a-b4f7-e85dbb1da37a","chapterSlug":"rw10-15","paragraph":711,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","claimed":true,"claimedBySlug":"lyonette","holderQuote":"Vaulont the Ash was clearly unsure if he should be offended or amused by the offer."}
+{"id":"01a0657e-01ad-7a31-876d-8f8390487c86","chapterSlug":"rw10-15","paragraph":716,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","claimed":true,"claimedBySlug":"lyonette","holderQuote":"Vaulont the Ash was clearly unsure if he should be offended or amused by the offer."}
+{"id":"01a0657e-01ad-79e6-8384-befc6cb00df6","chapterSlug":"rw10-15","paragraph":718,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","claimed":true,"claimedBySlug":"vaulont-the-ash","holderQuote":"Vaulont the Ash was clearly unsure if he should be offended or amused by the offer."}
 {"id":"01a0657e-01ad-7a0c-bbc6-63ee87970e87","chapterSlug":"rw10-15","paragraph":721,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","holderQuote":"Master Vaulont. If you were a duplicitous, murderous killer I couldn’t trust"}
 {"id":"01a0657e-01ad-754b-9ba6-12320287a45d","chapterSlug":"rw10-15","paragraph":987,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","holderQuote":"Colfa walked over and linked arms with Vaulont the Ash."}
 {"id":"01a0657e-01ad-71b1-9ba9-a21867275b06","chapterSlug":"rw10-15","paragraph":991,"wording":"[Assassin]","event":"named","holderSlug":"vaulont-the-ash","holderQuote":"Colfa walked over and linked arms with Vaulont the Ash."}
@@ -544,7 +544,7 @@
 {"id":"01a0657e-01ad-71fe-96db-f12b42671efb","chapterSlug":"rw10-17","paragraph":1768,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-7934-bd5e-c1207108134c","chapterSlug":"rw10-17","paragraph":1775,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-7e5d-acbe-ec3b01b57778","chapterSlug":"rw10-17","paragraph":1783,"wording":"[Assassin]","event":"named"}
-{"id":"01a0657e-01ad-7d0a-9afa-83a7b6ac3cb7","chapterSlug":"rw10-17","paragraph":1787,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"Theofore","holderQuote":"Theofore the Severely Underleveled held up his hands"}
+{"id":"01a0657e-01ad-7d0a-9afa-83a7b6ac3cb7","chapterSlug":"rw10-17","paragraph":1787,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"theofore","holderQuote":"Theofore the Severely Underleveled held up his hands"}
 {"id":"01a0657e-01ad-7063-b82d-4094269115fa","chapterSlug":"rw10-17","paragraph":1802,"wording":"[Assassin]","event":"named","holderQuote":"Gamur raced over, looking for someone to fight and choosing Theofore, who ran screaming."}
 {"id":"01a0657e-01ad-7edd-8a3d-338fd5c8fc6d","chapterSlug":"rw10-58 FP","paragraph":2657,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ad-794a-a45b-09845f73f275","chapterSlug":"rw9-53","paragraph":226,"wording":"[Assassin]","event":"named"}
@@ -648,7 +648,7 @@
 {"id":"01a0657e-01ae-7534-85f7-264086458fea","chapterSlug":"rw10-68 S","paragraph":2067,"wording":"[Assassin]","event":"named","holderQuote":"…Ribark? Is that you?"}
 {"id":"01a0657e-01ae-7dc5-a37e-6e41ec0a045c","chapterSlug":"rw10-68 S","paragraph":2124,"wording":"[Assassin]","event":"named","holderSlug":"slashface","holderQuote":"Slashface had another scar across her mangled expression."}
 {"id":"01a0657e-01ae-76d6-b798-10a97abc24fa","chapterSlug":"rw10-68 S","paragraph":2126,"wording":"[Assassin]","event":"named","holderSlug":"slashface","holderQuote":"Slashface had another scar across her mangled expression."}
-{"id":"01a0657e-01ae-7b7b-bc4a-28e28ce114d2","chapterSlug":"rw10-68 S","paragraph":2130,"wording":"[Assassin]","event":"named","holderSlug":"slashface","claimed":true,"claimedBySlug":"Slashface","holderQuote":"She spoke to Slashface."}
+{"id":"01a0657e-01ae-7b7b-bc4a-28e28ce114d2","chapterSlug":"rw10-68 S","paragraph":2130,"wording":"[Assassin]","event":"named","holderSlug":"slashface","claimed":true,"claimedBySlug":"slashface","holderQuote":"She spoke to Slashface."}
 {"id":"01a0657e-01ae-7978-83fd-ba9521d02052","chapterSlug":"rw10-68 S","paragraph":2143,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-78c6-90c7-5d86b259ac6a","chapterSlug":"rw10-68 S","paragraph":2183,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-7273-b542-4d187bbb8b84","chapterSlug":"rw10-68 S","paragraph":2194,"wording":"[Assassin]","event":"named"}
@@ -669,7 +669,7 @@
 {"id":"01a0657e-01ae-7b22-868e-8fb0e56209e8","chapterSlug":"rw10-35 (Pt. 1)","paragraph":1710,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-70d7-8806-4c79a2d64abd","chapterSlug":"rw9-65","paragraph":442,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-786c-a4c6-812014dbb977","chapterSlug":"rw9-65","paragraph":542,"wording":"[Assassin]","event":"named","holderQuote":"They were very young. He was an [Assassin]."}
-{"id":"01a0657e-01ae-70f3-964b-6d0acce3c942","chapterSlug":"rw9-65","paragraph":594,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"Klbkch"}
+{"id":"01a0657e-01ae-70f3-964b-6d0acce3c942","chapterSlug":"rw9-65","paragraph":594,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"klbkch"}
 {"id":"01a0657e-01ae-7cbd-b1e9-13f1ae0eb86d","chapterSlug":"rw9-67 (Pt. 1)","paragraph":625,"wording":"[Assassin]","event":"named","holderQuote":"Tessa. The two began slashing as the Hag Queen shrieked"}
 {"id":"01a0657e-01ae-74bd-b9da-656526a6b10b","chapterSlug":"rw9-67 (Pt. 1)","paragraph":629,"wording":"[Assassin]","event":"named","holderQuote":"It bit—and Theofore dangled a foot out of reach."}
 {"id":"01a0657e-01ae-7ed7-8b75-d93d270911ab","chapterSlug":"rw9-67 (Pt. 1)","paragraph":630,"wording":"[Assassin]","event":"named","holderQuote":"It bit—and Theofore dangled a foot out of reach."}
@@ -698,7 +698,7 @@
 {"id":"01a0657e-01ae-7891-b9b2-e75921eaa577","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1663,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-732c-8a60-2ca18836fcfc","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1668,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-7b26-b204-73615ad9f122","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1668,"wording":"[Assassin]","event":"named"}
-{"id":"01a0657e-01ae-772f-ba39-20eee495a4e9","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":2674,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"Lyonette","holderQuote":"Tell me, Vaulont. How well do you know Tessa, Shriekblade?"}
+{"id":"01a0657e-01ae-772f-ba39-20eee495a4e9","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":2674,"wording":"[Assassin]","event":"named","claimed":true,"claimedBySlug":"lyonette","holderQuote":"Tell me, Vaulont. How well do you know Tessa, Shriekblade?"}
 {"id":"01a0657e-01ae-72c4-8755-34fb94bb6250","chapterSlug":"rw10-53 UEG","paragraph":2164,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-7dec-a98b-ae0a6504966c","chapterSlug":"rw10-53 UEG","paragraph":2175,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-731d-907b-f496e48c6ef9","chapterSlug":"rw10-53 UEG","paragraph":2177,"wording":"[Assassin]","event":"named"}
@@ -720,7 +720,7 @@
 {"id":"01a0657e-01ae-730f-b38a-ed0d7b4ac3ac","chapterSlug":"rw10-16 N","paragraph":260,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-7907-a2a0-cf45e8958910","chapterSlug":"rw10-16 N","paragraph":390,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-75a5-846f-6ccb7b7d4f11","chapterSlug":"rw10-16 N","paragraph":432,"wording":"[Assassin]","event":"named"}
-{"id":"01a0657e-01ae-7ca5-bffa-131db4eb67b3","chapterSlug":"rw10-45 L","paragraph":269,"wording":"[Assassin]","event":"named","holderSlug":"tessa","claimed":true,"claimedBySlug":"Vaulont","holderQuote":"I know she’s supposed to be as good as an [Assassin] in many ways"}
+{"id":"01a0657e-01ae-7ca5-bffa-131db4eb67b3","chapterSlug":"rw10-45 L","paragraph":269,"wording":"[Assassin]","event":"named","holderSlug":"tessa","claimed":true,"claimedBySlug":"vaulont","holderQuote":"I know she’s supposed to be as good as an [Assassin] in many ways"}
 {"id":"01a0657e-01ae-76c7-a9a2-d23fd1d2459e","chapterSlug":"rw10-11 H","paragraph":1419,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-788c-84f1-eb3c0ad17595","chapterSlug":"rw10-11 H","paragraph":1424,"wording":"[Assassin]","event":"named"}
 {"id":"01a0657e-01ae-7761-b0cb-2784602873f0","chapterSlug":"rw10-12 H (Pt. 1)","paragraph":160,"wording":"[Assassin]","event":"named"}

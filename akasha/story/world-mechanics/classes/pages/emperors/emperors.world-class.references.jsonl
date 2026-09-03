@@ -12,8 +12,8 @@
 {"id":"01a0657e-01d6-77b2-8eaa-869006573b41","chapterSlug":"rw5-10 E","paragraph":459,"wording":"[Emperors]","event":"named"}
 {"id":"01a0657e-01d6-7255-aafb-d5e9f9b3970a","chapterSlug":"rw5-10 E","paragraph":459,"wording":"[Emperors]","event":"named"}
 {"id":"01a0657e-01d6-7738-9a20-9985e1263042","chapterSlug":"rw5-21 E","paragraph":146,"wording":"[Emperors]","event":"named"}
-{"id":"01a0657e-01d6-781e-bf2f-9957389c1d25","chapterSlug":"rw5-11 E","paragraph":89,"wording":"[Emperors]","event":"named","claimed":true,"claimedBySlug":"one of the young nobles"}
-{"id":"01a0657e-01d6-7def-9c1a-14bc4a28ab67","chapterSlug":"rw5-11 E","paragraph":326,"wording":"[Emperors]","event":"named","claimed":true,"claimedBySlug":"Lady Bevia Veniford"}
+{"id":"01a0657e-01d6-781e-bf2f-9957389c1d25","chapterSlug":"rw5-11 E","paragraph":89,"wording":"[Emperors]","event":"named","claimed":true,"claimedBySlug":"one-of-the-young-nobles"}
+{"id":"01a0657e-01d6-7def-9c1a-14bc4a28ab67","chapterSlug":"rw5-11 E","paragraph":326,"wording":"[Emperors]","event":"named","claimed":true,"claimedBySlug":"lady-bevia-veniford"}
 {"id":"01a0657e-01d6-761b-9301-53bed11df5ec","chapterSlug":"rw5-52","paragraph":606,"wording":"[Emperors]","event":"named","claimed":true,"claimedBySlug":"gralton","holderQuote":"Izril has no [Emperors]."}
 {"id":"01a0657e-01d6-73c2-bbde-d65ca8fb1147","chapterSlug":"rw6-47 E","paragraph":737,"wording":"[Emperors]","event":"named"}
 {"id":"01a0657e-01d6-7ce7-b275-a6f8e6b9fc2a","chapterSlug":"rw7-24","paragraph":9,"wording":"[Emperors]","event":"named"}
@@ -24,5 +24,5 @@
 {"id":"01a0657e-01d6-73be-b024-dd3a191eb435","chapterSlug":"rw10-62 NY","paragraph":1765,"wording":"[Emperors]","event":"named"}
 {"id":"01a0657e-01d6-712e-9122-f103b6f6cda8","chapterSlug":"rw10-19 E","paragraph":2296,"wording":"[Emperors]","event":"named"}
 {"id":"01a0657e-01d6-74c7-9838-1afb409a3804","chapterSlug":"rw10-19 E","paragraph":2494,"wording":"[Emperors]","event":"named"}
-{"id":"01a0657e-01d6-70cd-894c-ab4ae1e877e2","chapterSlug":"rw10-20 E","paragraph":77,"wording":"[Emperors]","event":"named","holderSlug":"laken-godart","claimed":true,"claimedBySlug":"Laken","holderQuote":"You know me. I’m sometimes erratic. Such is the nature of [Emperors]."}
+{"id":"01a0657e-01d6-70cd-894c-ab4ae1e877e2","chapterSlug":"rw10-20 E","paragraph":77,"wording":"[Emperors]","event":"named","holderSlug":"laken-godart","claimed":true,"claimedBySlug":"laken","holderQuote":"You know me. I’m sometimes erratic. Such is the nature of [Emperors]."}
 {"id":"01a0657e-01d6-7af5-b4ff-4c30a18fdbf3","chapterSlug":"rw10-20 E","paragraph":1681,"wording":"[Emperors]","event":"named"}

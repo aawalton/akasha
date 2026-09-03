@@ -25,7 +25,7 @@
 {"id":"01a0657e-01fa-7c1b-92f6-e01398607361","chapterSlug":"rw6-27 M","paragraph":361,"wording":"[Hunters]","event":"named"}
 {"id":"01a0657e-01fa-7840-8775-15bc83009325","chapterSlug":"rw6-34 E","paragraph":638,"wording":"[Hunters]","event":"named"}
 {"id":"01a0657e-01fa-7aef-b2dc-2dfdb0948256","chapterSlug":"rwInterlude - Two Rats","paragraph":609,"wording":"[Hunters]","event":"named"}
-{"id":"01a0657e-01fa-74a9-8bba-fe0d062046f7","chapterSlug":"rw6-41 E","paragraph":131,"wording":"[Hunters]","event":"named","claimed":true,"claimedBySlug":"Califfy","holderQuote":"I’m Califfy, one of Riverfarm’s [Hunters]."}
+{"id":"01a0657e-01fa-74a9-8bba-fe0d062046f7","chapterSlug":"rw6-41 E","paragraph":131,"wording":"[Hunters]","event":"named","claimed":true,"claimedBySlug":"califfy","holderQuote":"I’m Califfy, one of Riverfarm’s [Hunters]."}
 {"id":"01a0657e-01fa-7f49-a191-93c62d1d7311","chapterSlug":"rw6-41 E","paragraph":811,"wording":"[Hunters]","event":"named"}
 {"id":"01a0657e-01fa-7f95-ad9d-b404e998b65b","chapterSlug":"rw6-42 E","paragraph":616,"wording":"[Hunters]","event":"named"}
 {"id":"01a0657e-01fa-7350-bb44-c749141610be","chapterSlug":"rw6-42 E","paragraph":725,"wording":"[Hunters]","event":"named"}
@@ -168,7 +168,7 @@
 {"id":"01a0657e-01fa-70fd-95ab-b143fd3e7787","chapterSlug":"rw7-34 C","paragraph":983,"wording":"[Hunters]","event":"named"}
 {"id":"01a0657e-01fa-75fb-875c-ca022bdfe4bc","chapterSlug":"rw7-34 C","paragraph":1040,"wording":"[Hunters]","event":"named"}
 {"id":"01a0657e-01fa-77f4-9f88-3e616663f0b8","chapterSlug":"rw7-34 C","paragraph":1297,"wording":"[Hunters]","event":"named"}
-{"id":"01a0657e-01fa-7888-9fcd-3c5c2a1577a3","chapterSlug":"rw7-35 C","paragraph":546,"wording":"[Hunters]","event":"named","holderSlug":"merish","claimed":true,"claimedBySlug":"Merish","holderQuote":"“Give me more of your Drakes. I will give you my Gnoll [Hunters], yes? Then I will command just the heaviest warriors with my [Shamanic Warriors]. Mix in the Gnolls and if they see others running, they will follow.”"}
+{"id":"01a0657e-01fa-7888-9fcd-3c5c2a1577a3","chapterSlug":"rw7-35 C","paragraph":546,"wording":"[Hunters]","event":"named","holderSlug":"merish","claimed":true,"claimedBySlug":"merish","holderQuote":"“Give me more of your Drakes. I will give you my Gnoll [Hunters], yes? Then I will command just the heaviest warriors with my [Shamanic Warriors]. Mix in the Gnolls and if they see others running, they will follow.”"}
 {"id":"01a0657e-01fa-784e-bd10-4c0ec12d2659","chapterSlug":"rw7-35 C","paragraph":556,"wording":"[Hunters]","event":"named"}
 {"id":"01a0657e-01fa-78c2-989f-20c042430b7b","chapterSlug":"rw7-35 C","paragraph":745,"wording":"[Hunters]","event":"named","holderQuote":"Bastion-General Zavarial strode forwards, ordering the [Soldiers] and officers back. It was one of the other [Hunters], Sisth, who answered. He had a huge wound running down his cheek to his arm."}
 {"id":"01a0657e-01fa-7f72-81b9-2721cb49f873","chapterSlug":"rw7-35 C","paragraph":752,"wording":"[Hunters]","event":"named","holderQuote":"Sisth was one of two [Hunters] besides Delezza alive. His patrol had been cut down. The [Healer] looked up."}

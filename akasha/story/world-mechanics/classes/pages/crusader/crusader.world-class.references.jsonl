@@ -7,7 +7,7 @@
 {"id":"01a0657e-1350-7ea6-ac0d-5d1cd41d9d1c","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":199,"wording":"[Crusader]","event":"named"}
 {"id":"01a0657e-1350-7791-a978-924befa7b6ee","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":363,"wording":"[Crusader]","event":"named","holderSlug":"crusader-51","holderQuote":"Crusader 51"}
 {"id":"01a0657e-1350-7cba-86a6-e69bf3c61809","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":365,"wording":"[Crusader]","event":"named"}
-{"id":"01a0657e-1350-72f6-9104-cb0d99d49743","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":372,"wording":"[Crusader]","event":"named","claimed":true,"claimedBySlug":"Archer B12","holderQuote":"I am Archer B12. I am a [Crusader]"}
+{"id":"01a0657e-1350-72f6-9104-cb0d99d49743","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":372,"wording":"[Crusader]","event":"named","claimed":true,"claimedBySlug":"archer-b12","holderQuote":"I am Archer B12. I am a [Crusader]"}
 {"id":"01a0657e-1350-74e9-84d4-d56598f3aa50","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":401,"wording":"[Crusader]","event":"named"}
 {"id":"01a0657e-1350-7bf0-b94c-41397921d875","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":441,"wording":"[Crusader]","event":"named","holderSlug":"crusader-51","holderQuote":"Crusader 51 was, by now, a Level 4 [Crusader]"}
 {"id":"01a0657e-1350-78e6-97bb-45ab177ebfad","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":444,"wording":"[Crusader Level 5!]","event":"level-up","kind":"class","level":5,"holderSlug":"crusader-51","holderQuote":"Crusader 51 was, by now, a Level 4 [Crusader]"}

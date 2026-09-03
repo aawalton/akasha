@@ -65,7 +65,7 @@
 {"id":"01a0657d-0337-7416-8198-92c594c7b613","chapterSlug":"rw10-14","paragraph":1034,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0337-75d8-ab9e-f296920fbce1","chapterSlug":"rw10-15","paragraph":1155,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0337-785d-81dd-6d67d1b2a032","chapterSlug":"rw10-15","paragraph":1560,"wording":"[World’s Eye Theatre]","event":"named"}
-{"id":"01a0657d-0337-76ef-a16a-a31632374b8e","chapterSlug":"rw10-15","paragraph":1781,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"lyonette-du-marquin","claimed":true,"claimedBySlug":"Rose","holderQuote":"Ready for the [World’s Eye Theatre], Lyonette?"}
+{"id":"01a0657d-0337-76ef-a16a-a31632374b8e","chapterSlug":"rw10-15","paragraph":1781,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"lyonette-du-marquin","claimed":true,"claimedBySlug":"rose","holderQuote":"Ready for the [World’s Eye Theatre], Lyonette?"}
 {"id":"01a0657d-0337-70de-8c4f-e15342a52452","chapterSlug":"rw10-15","paragraph":1802,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0337-7e1e-bfa9-e9dea3675bf0","chapterSlug":"rw10-17","paragraph":1352,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0337-7cc0-8b82-d1e0b371cd1a","chapterSlug":"rw10-18 E","paragraph":761,"wording":"[World’s Eye Theatre]","event":"named"}
@@ -84,9 +84,9 @@
 {"id":"01a0657d-0337-7060-975f-1f967dd6007b","chapterSlug":"rw9-41 (Pt. 3)","paragraph":1273,"wording":"[World’s Eye Theatre]","event":"named","holderQuote":"Halrac found Erin in the"}
 {"id":"01a0657d-0337-7638-85e8-d1ce317ce91f","chapterSlug":"rw9-41 (Pt. 3)","paragraph":1644,"wording":"[World’s Eye Theatre]","event":"named","holderQuote":"Ser Lormel’s in the"}
 {"id":"01a0657d-0337-7511-b475-61eda882bb9a","chapterSlug":"rw9-52","paragraph":79,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin","holderQuote":"the [World’s Eye Theatre] didn’t allow her to smell or feel auras"}
-{"id":"01a0657d-0337-74af-a887-1c12e32e1a6a","chapterSlug":"rw9-52","paragraph":1136,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"Lyonette","holderQuote":"the [World’s Eye Theatre]! I saw her heading there with some paper!"}
+{"id":"01a0657d-0337-74af-a887-1c12e32e1a6a","chapterSlug":"rw9-52","paragraph":1136,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"lyonette","holderQuote":"the [World’s Eye Theatre]! I saw her heading there with some paper!"}
 {"id":"01a0657d-0337-7ce8-a63a-924a503c2336","chapterSlug":"rw9-50","paragraph":565,"wording":"[World’s Eye Theatre]","event":"used","holderSlug":"erin","holderQuote":"Fetohep hesitated as Erin Solstice stood in her [World’s Eye Theatre].","effectQuote":"Fetohep hesitated as Erin Solstice stood in her [World’s Eye Theatre]."}
-{"id":"01a0657d-0337-7749-817e-21cb11a0a0dd","chapterSlug":"rw9-50","paragraph":1281,"wording":"[World’s Eye Theatre]","event":"used","holderSlug":"erin","claimed":true,"claimedBySlug":"Erin","holderQuote":"[World’s Eye Theatre]. Get me Vetn, now.","effectQuote":"[World’s Eye Theatre]","effectClaimed":true}
+{"id":"01a0657d-0337-7749-817e-21cb11a0a0dd","chapterSlug":"rw9-50","paragraph":1281,"wording":"[World’s Eye Theatre]","event":"used","holderSlug":"erin","claimed":true,"claimedBySlug":"erin","holderQuote":"[World’s Eye Theatre]. Get me Vetn, now.","effectQuote":"[World’s Eye Theatre]","effectClaimed":true}
 {"id":"01a0657d-0337-7e50-b028-fee066749960","chapterSlug":"rw9-50","paragraph":1287,"wording":"[World’s Eye Theatre]","event":"used","holderSlug":"erin","holderQuote":"Then Erin was falling, the world rushing around her, as the ‘place’ the [World’s Eye Theatre] was homing down on widened.","effectQuote":"Then Erin was falling, the world rushing around her, as the ‘place’ the [World’s Eye Theatre] was homing down on widened."}
 {"id":"01a0657d-0337-728a-9af1-e8c7871576c6","chapterSlug":"rw9-50","paragraph":1327,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin","holderQuote":"Tesy kicked around the [World’s Eye Theatre], hoping it would reactivate so he could try again."}
 {"id":"01a0657d-0337-70c8-913f-f2db9f830193","chapterSlug":"rw9-50","paragraph":1379,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin","holderQuote":"She’d tried to use the [World’s Eye Theatre] to find him, but either he had a Skill or Bviora did, or they were using underworld tactics such that even she couldn’t locate the Thief of Clouds."}
@@ -105,7 +105,7 @@
 {"id":"01a0657d-0338-7daa-ac6f-6601b1d237b7","chapterSlug":"rw9-60","paragraph":627,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin-solstice","holderQuote":"The [Innkeeper] stood in the middle of her [World’s Eye Theatre] and listened to the complaints."}
 {"id":"01a0657d-0338-7cbe-99bd-cfbca3dd09a4","chapterSlug":"rw9-60","paragraph":773,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-7ed2-b74a-537e98be5ca4","chapterSlug":"rw9-60","paragraph":786,"wording":"[World’s Eye Theatre]","event":"named"}
-{"id":"01a0657d-0338-7162-b19e-2e3566f6302d","chapterSlug":"rw9-60","paragraph":864,"wording":"[World’s Eye Theatre]","event":"named","claimed":true,"claimedBySlug":"Ishkr"}
+{"id":"01a0657d-0338-7162-b19e-2e3566f6302d","chapterSlug":"rw9-60","paragraph":864,"wording":"[World’s Eye Theatre]","event":"named","claimed":true,"claimedBySlug":"ishkr"}
 {"id":"01a0657d-0338-7bcf-9712-6ba81ba4b11e","chapterSlug":"rw9-60","paragraph":874,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-7fa4-8303-31182e0c953a","chapterSlug":"rw9-60","paragraph":1014,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-7cbf-aa37-91751755cbec","chapterSlug":"rw10-66 (Pt. 1)","paragraph":72,"wording":"[World’s Eye Theatre]","event":"named"}
@@ -115,7 +115,7 @@
 {"id":"01a0657d-0338-74f8-8c07-a876447d1e7a","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":27,"wording":"[World’s Eye Theatre]","event":"named","claimed":true,"claimedBySlug":"ielane-du-marquin","holderQuote":"No, her [World’s Eye Theatre]."}
 {"id":"01a0657d-0338-78b5-aaba-a8ce47d5cee0","chapterSlug":"rw10-34 MGF","paragraph":299,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"mrsha","holderQuote":"Mrsha liked fantasy and science fiction more anyways, because she understood one and loved the other."}
 {"id":"01a0657d-0338-7a92-81cf-1e4e4ea27b05","chapterSlug":"rw10-34 MGF","paragraph":670,"wording":"[World’s Eye Theatre]","event":"named"}
-{"id":"01a0657d-0338-7b93-ad0a-b202bd64d8f9","chapterSlug":"rw10-01 L","paragraph":303,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"lyonette-du-marquin","claimed":true,"claimedBySlug":"Lyonette","holderQuote":"I’m entering the [World’s Eye Theatre] now. What’s wrong?"}
+{"id":"01a0657d-0338-7b93-ad0a-b202bd64d8f9","chapterSlug":"rw10-01 L","paragraph":303,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"lyonette-du-marquin","claimed":true,"claimedBySlug":"lyonette","holderQuote":"I’m entering the [World’s Eye Theatre] now. What’s wrong?"}
 {"id":"01a0657d-0338-7d89-91f2-35dde9e6b651","chapterSlug":"rw10-01 L","paragraph":1130,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-705e-b301-95d5f7e60e95","chapterSlug":"rw10-01 L","paragraph":1244,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-77fa-be82-625a2dd9e459","chapterSlug":"rw10-36 - Pt.1","paragraph":1946,"wording":"[World’s Eye Theatre]","event":"named"}
@@ -123,7 +123,7 @@
 {"id":"01a0657d-0338-7f84-96d9-84937622814b","chapterSlug":"rw10-36 - Pt.1","paragraph":2089,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-75ae-8d77-4783c807048e","chapterSlug":"rw10-37 GDI (Pt. 2)","paragraph":625,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-778a-9d1d-e43a1c73f473","chapterSlug":"rw9-65","paragraph":1029,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin-solstice","holderQuote":"the Titan of Baleros was in her [World’s Eye Theatre] at this very moment."}
-{"id":"01a0657d-0338-7ae7-9006-26193bea3b2f","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":319,"wording":"[World’s Eye Theatre]","event":"named","claimed":true,"claimedBySlug":"Lyonette","holderQuote":"The owner of the inn I’m working at—Erin Solstice—has it","effectQuote":"It’s a Level 40+ Skill and exceptionally powerful","effectClaimed":true}
+{"id":"01a0657d-0338-7ae7-9006-26193bea3b2f","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":319,"wording":"[World’s Eye Theatre]","event":"named","claimed":true,"claimedBySlug":"lyonette","holderQuote":"The owner of the inn I’m working at—Erin Solstice—has it","effectQuote":"It’s a Level 40+ Skill and exceptionally powerful","effectClaimed":true}
 {"id":"01a0657d-0338-7de2-9120-b9b7bc61e533","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":424,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-7a41-9bfd-4455ef8ef1c4","chapterSlug":"rwInterlude - Foody Discussions","paragraph":65,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-7b03-a7ea-816592619b21","chapterSlug":"rwInterlude - Foody Discussions","paragraph":151,"wording":"[World’s Eye Theatre]","event":"named"}
@@ -136,7 +136,7 @@
 {"id":"01a0657d-0338-7879-9e91-56127ef28a90","chapterSlug":"rw10-07","paragraph":379,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-7279-ac04-4ec4d7ab41f2","chapterSlug":"rw10-19 E","paragraph":2233,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-76ad-a472-e5118ffb005e","chapterSlug":"rw10-20 E","paragraph":418,"wording":"[World’s Eye Theatre]","event":"named","holderQuote":"We should have asked Miss Lyonette to locate the two of them using the [World’s Eye Theatre]!"}
-{"id":"01a0657d-0338-77a7-9818-1cf89f720558","chapterSlug":"rw10-20 E","paragraph":564,"wording":"[World’s Eye Theatre]","event":"used","claimed":true,"claimedBySlug":"Jewel","holderQuote":"I had Ama check via the [World’s Eye Theatre].","effectQuote":"She says she can’t find Sevil, and when she tries to find Lapsey…she just gets static.","effectClaimed":true}
+{"id":"01a0657d-0338-77a7-9818-1cf89f720558","chapterSlug":"rw10-20 E","paragraph":564,"wording":"[World’s Eye Theatre]","event":"used","claimed":true,"claimedBySlug":"jewel","holderQuote":"I had Ama check via the [World’s Eye Theatre].","effectQuote":"She says she can’t find Sevil, and when she tries to find Lapsey…she just gets static.","effectClaimed":true}
 {"id":"01a0657d-0338-71a1-b008-59b306edf1d2","chapterSlug":"rw10-44 Z (Pt. 2)","paragraph":1941,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-7c13-ba7d-c5aacfd77010","chapterSlug":"rwInterlude - Saliss the Architect","paragraph":491,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-78b7-aae5-6059fdde4ca7","chapterSlug":"rw10-57 F","paragraph":918,"wording":"[World’s Eye Theatre]","event":"used","holderQuote":"Mrsha du Marquin squatted on the ground, using the power of the","effectQuote":"to project herself into Eternal Khelt"}
@@ -155,7 +155,7 @@
 {"id":"01a0657d-0338-7100-be5c-32995ea7bd9b","chapterSlug":"rwInterlude - Brewing Sariants","paragraph":123,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin","holderQuote":"it occurred to Erin that sorcery"}
 {"id":"01a0657d-0338-7257-87a8-d58dbadfd171","chapterSlug":"rwInterlude - Brewing Sariants","paragraph":185,"wording":"[World’s Eye Theatre]","event":"named"}
 {"id":"01a0657d-0338-798d-bc46-d81e51d06b63","chapterSlug":"rwInterlude - Brewing Sariants","paragraph":206,"wording":"[World’s Eye Theatre]","event":"named"}
-{"id":"01a0657d-0338-75c6-8518-527da5f19aee","chapterSlug":"rw9-32","paragraph":425,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"Erin","holderQuote":"even my cool new [World’s Eye Theatre] makes my head hurt"}
+{"id":"01a0657d-0338-75c6-8518-527da5f19aee","chapterSlug":"rw9-32","paragraph":425,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"erin","holderQuote":"even my cool new [World’s Eye Theatre] makes my head hurt"}
 {"id":"01a0657d-0338-704a-9bd1-55c545212aa6","chapterSlug":"rw9-32","paragraph":730,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin-solstice","holderQuote":"the [World’s Eye Theatre] awaits"}
 {"id":"01a0657d-0338-7fdc-b80b-31fb73d9b424","chapterSlug":"rw9-32","paragraph":735,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin-solstice","holderQuote":"To understand the [World’s Eye Theatre]"}
 {"id":"01a0657d-0338-795a-8559-4fba76cef606","chapterSlug":"rw9-32","paragraph":872,"wording":"[World’s Eye Theatre]","event":"named","holderSlug":"erin-solstice","holderQuote":"The [World’s Eye Theatre] was bright"}

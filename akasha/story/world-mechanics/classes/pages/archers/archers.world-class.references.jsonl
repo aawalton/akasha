@@ -68,11 +68,11 @@
 {"id":"01a0657e-01a9-756a-9fbb-5f86cdd56cda","chapterSlug":"rw6-22 D","paragraph":1035,"wording":"[Archers]","event":"used","effectQuote":"[Archers] on the decks shot blunt arrows at the Iron Vanguard unit, forcing them back."}
 {"id":"01a0657e-01a9-7212-ba6b-2e6cd16ad299","chapterSlug":"rw6-22 D","paragraph":1037,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-7385-9ed1-6187fc5328ad","chapterSlug":"rw6-23 D","paragraph":1267,"wording":"[Archers]","event":"named"}
-{"id":"01a0657e-01a9-7880-96d8-0051f2b83081","chapterSlug":"rw6-34 E","paragraph":63,"wording":"[Archers]","event":"named","claimed":true,"claimedBySlug":"Heycin","holderQuote":"Heycin, you were there, right?"}
+{"id":"01a0657e-01a9-7880-96d8-0051f2b83081","chapterSlug":"rw6-34 E","paragraph":63,"wording":"[Archers]","event":"named","claimed":true,"claimedBySlug":"heycin","holderQuote":"Heycin, you were there, right?"}
 {"id":"01a0657e-01a9-7dd8-ba5b-56a27efa70a6","chapterSlug":"rwInterlude - Numbtongue (Pt-2)","paragraph":358,"wording":"[Archers]","event":"named","claimed":true,"claimedBySlug":"yellow-splatters"}
 {"id":"01a0657e-01a9-791f-9012-73b849c01b12","chapterSlug":"rw6-53 K","paragraph":908,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-76b4-8eac-3f320e1324d3","chapterSlug":"rw6-37 E","paragraph":61,"wording":"[Archers]","event":"named"}
-{"id":"01a0657e-01a9-7490-ad70-df2f08689dc0","chapterSlug":"rw6-46 E","paragraph":37,"wording":"[Archers]","event":"named","claimed":true,"claimedBySlug":"Jericha"}
+{"id":"01a0657e-01a9-7490-ad70-df2f08689dc0","chapterSlug":"rw6-46 E","paragraph":37,"wording":"[Archers]","event":"named","claimed":true,"claimedBySlug":"jericha"}
 {"id":"01a0657e-01a9-799e-8ef1-5bb974748e2b","chapterSlug":"rw6-52 K","paragraph":375,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-71ef-96e1-bdc0df518b14","chapterSlug":"rw6-52 K","paragraph":415,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-7bb6-bc6a-ac171d148147","chapterSlug":"rw6-58","paragraph":692,"wording":"[Archers]","event":"named"}
@@ -134,7 +134,7 @@
 {"id":"01a0657e-01a9-7775-8be8-98bab295fde0","chapterSlug":"rw7-35 C","paragraph":67,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-731c-9ccf-2187b3e5ecb1","chapterSlug":"rw7-35 C","paragraph":126,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-7da3-914a-ca62852d3572","chapterSlug":"rw7-35 C","paragraph":165,"wording":"[Archers]","event":"named","holderSlug":"zavarial","holderQuote":"A few slithering shapes were returning to the figure. And suddenly—it was several feet taller. Bastion-General Zavarial had been a champion of [Archers]; he didn’t doubt his eyes, even though the titan was thousands of feet away."}
-{"id":"01a0657e-01a9-7aac-abb1-0a7ce0378633","chapterSlug":"rw7-35 C","paragraph":554,"wording":"[Archers]","event":"named","holderSlug":"cirille","claimed":true,"claimedBySlug":"Ser Vorn","holderQuote":"“Commander Cirille. I must protest! Your [Archers] cannot fire into a skirmish between cavalry. You’ll hit your own side!”"}
+{"id":"01a0657e-01a9-7aac-abb1-0a7ce0378633","chapterSlug":"rw7-35 C","paragraph":554,"wording":"[Archers]","event":"named","holderSlug":"cirille","claimed":true,"claimedBySlug":"ser-vorn","holderQuote":"“Commander Cirille. I must protest! Your [Archers] cannot fire into a skirmish between cavalry. You’ll hit your own side!”"}
 {"id":"01a0657e-01a9-7763-b413-1dd23e07fe4f","chapterSlug":"rw7-35 C","paragraph":577,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-73d7-812c-33d3cc01b60d","chapterSlug":"rw7-36 C","paragraph":512,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-7893-a094-0c0f1e592e56","chapterSlug":"rw7-36 C","paragraph":533,"wording":"[Archers]","event":"named","holderQuote":"Lieutenant Ossky had command of the [Archers]. Arrows rained down from Drake bows, downing the Demons. But their armor was tough. The Drake looked up."}
@@ -268,7 +268,7 @@
 {"id":"01a0657e-01a9-72a2-ad8e-7d0f198fdc5d","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":708,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-711a-8c95-0285b820ab2c","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":713,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-7bd7-aca7-79802a792abf","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":867,"wording":"[Archers]","event":"named"}
-{"id":"01a0657e-01a9-7a38-930f-25cac2220a3d","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":1442,"wording":"[Archers]","event":"named","claimed":true,"claimedBySlug":"Belgrade","holderQuote":"Squad Leader Itr, direct your [Archers]…there."}
+{"id":"01a0657e-01a9-7a38-930f-25cac2220a3d","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":1442,"wording":"[Archers]","event":"named","claimed":true,"claimedBySlug":"belgrade","holderQuote":"Squad Leader Itr, direct your [Archers]…there."}
 {"id":"01a0657e-01a9-7c3c-af56-1b2108ad4e7f","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":1515,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-79dd-9ce4-ec645cbd05c9","chapterSlug":"rwInterlude – Hectval (Pt- 2)","paragraph":315,"wording":"[Archers]","event":"named"}
 {"id":"01a0657e-01a9-7ea0-b588-b15780a8a775","chapterSlug":"rwInterlude – Hectval (Pt- 2)","paragraph":328,"wording":"[Archers]","event":"named"}

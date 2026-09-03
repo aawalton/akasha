@@ -834,7 +834,7 @@
 {"id":"01a0657e-01e9-766d-9587-b508d50d7b6d","chapterSlug":"rwInterlude - Conversations","paragraph":700,"wording":"[Guards]","event":"named"}
 {"id":"01a0657e-01e9-7ff1-af4a-56a022ba43c7","chapterSlug":"rwInterlude - Conversations","paragraph":925,"wording":"[Guards]","event":"named"}
 {"id":"01a0657e-01e9-7976-859d-b8490a4dcf3e","chapterSlug":"rw8-42","paragraph":110,"wording":"[Guards]","event":"named"}
-{"id":"01a0657e-01e9-7ef2-9d43-beb0bd4d79fa","chapterSlug":"rw8-42","paragraph":519,"wording":"[Guards]","event":"named","holderSlug":"qwera","claimed":true,"claimedBySlug":"Qwera","holderQuote":"“I have [Guards]. I don’t fight armies! Dead gods. And I heard about Cellidel. You idiot.”"}
+{"id":"01a0657e-01e9-7ef2-9d43-beb0bd4d79fa","chapterSlug":"rw8-42","paragraph":519,"wording":"[Guards]","event":"named","holderSlug":"qwera","claimed":true,"claimedBySlug":"qwera","holderQuote":"“I have [Guards]. I don’t fight armies! Dead gods. And I heard about Cellidel. You idiot.”"}
 {"id":"01a0657e-01e9-7c07-a901-747b23f0e39c","chapterSlug":"rw8-50","paragraph":299,"wording":"[Guards]","event":"named"}
 {"id":"01a0657e-01e9-7a7c-b00f-00a19c5d522e","chapterSlug":"rw8-37 H","paragraph":222,"wording":"[Guards]","event":"named"}
 {"id":"01a0657e-01e9-750b-aa3c-1608308cacf0","chapterSlug":"rw8-37 H","paragraph":698,"wording":"[Guards]","event":"named"}
@@ -1307,7 +1307,7 @@
 {"id":"01a0657e-01eb-7c12-9e67-3ae77d1b86e5","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":409,"wording":"[Guards]","event":"named"}
 {"id":"01a0657e-01eb-7872-a9dc-33be9700d5f2","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":520,"wording":"[Guards]","event":"named"}
 {"id":"01a0657e-01eb-7fa9-abef-ebe180ddb872","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":726,"wording":"[Guards]","event":"named"}
-{"id":"01a0657e-01eb-7591-842e-e72bbebb8966","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":755,"wording":"[Guards]","event":"named","holderSlug":"zevara","claimed":true,"claimedBySlug":"Zevara","holderQuote":"I’m not expected to be a better fighter than my [Guards], like Relc or Klbkch."}
+{"id":"01a0657e-01eb-7591-842e-e72bbebb8966","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":755,"wording":"[Guards]","event":"named","holderSlug":"zevara","claimed":true,"claimedBySlug":"zevara","holderQuote":"I’m not expected to be a better fighter than my [Guards], like Relc or Klbkch."}
 {"id":"01a0657e-01eb-7ae9-82d6-2abb8326c592","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":771,"wording":"[Guards]","event":"named"}
 {"id":"01a0657e-01eb-72b3-9cb6-39c492885fb7","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":939,"wording":"[Guards]","event":"named"}
 {"id":"01a0657e-01eb-73a5-86f1-6b0e67adf227","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":946,"wording":"[Guards]","event":"named"}
@@ -1412,6 +1412,6 @@
 {"id":"01a0657e-01eb-71de-abbf-bd4abe698a46","chapterSlug":"rw9-36 HO","paragraph":533,"wording":"[Guards]","event":"named"}
 {"id":"01a0657e-01eb-7734-ba62-4da9708b0574","chapterSlug":"rw9-37 HO","paragraph":117,"wording":"[Guards]","event":"named"}
 {"id":"01a0657e-01eb-7547-a974-4ddf535f03be","chapterSlug":"rw9-37 HO","paragraph":118,"wording":"[Guards]","event":"named"}
-{"id":"01a0657e-01eb-7766-9c0e-d2e3f51a871c","chapterSlug":"rw9-37 HO","paragraph":819,"wording":"[Guards]","event":"named","claimed":true,"claimedBySlug":"Berr"}
+{"id":"01a0657e-01eb-7766-9c0e-d2e3f51a871c","chapterSlug":"rw9-37 HO","paragraph":819,"wording":"[Guards]","event":"named","claimed":true,"claimedBySlug":"berr"}
 {"id":"01a0657e-01eb-72b1-a594-b8f86154ff91","chapterSlug":"rw9-40 GG","paragraph":725,"wording":"[Guards]","event":"named"}
 {"id":"01a0657e-01eb-74ec-bc39-3b1b27c1b07a","chapterSlug":"rw9-40 GG","paragraph":845,"wording":"[Guards]","event":"named"}

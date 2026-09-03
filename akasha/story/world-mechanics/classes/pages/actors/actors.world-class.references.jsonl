@@ -114,7 +114,7 @@
 {"id":"01a0657e-01a3-7736-b7ad-8aabdfe62245","chapterSlug":"rw7-06","paragraph":569,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a3-7849-9827-716f0bba7377","chapterSlug":"rw7-06","paragraph":572,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a3-7c67-90cb-1c88b113963b","chapterSlug":"rw7-06","paragraph":573,"wording":"[Actors]","event":"named"}
-{"id":"01a0657e-01a3-7b1c-ac1b-6b1c2e03401e","chapterSlug":"rw7-00","paragraph":637,"wording":"[Actors]","event":"named","claimed":true,"claimedBySlug":"Relc"}
+{"id":"01a0657e-01a3-7b1c-ac1b-6b1c2e03401e","chapterSlug":"rw7-00","paragraph":637,"wording":"[Actors]","event":"named","claimed":true,"claimedBySlug":"relc"}
 {"id":"01a0657e-01a3-7264-9198-909a332caf1e","chapterSlug":"rw6-67","paragraph":258,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a3-79ad-a022-2a12cb98c8f2","chapterSlug":"rw6-67","paragraph":264,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a3-7f61-b1b3-27f02962c434","chapterSlug":"rw6-61 L","paragraph":46,"wording":"[Actors]","event":"named"}
@@ -170,8 +170,8 @@
 {"id":"01a0657e-01a3-72e6-b8ca-a4d44c24037e","chapterSlug":"rw6-63 P","paragraph":388,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a3-7e9d-8c08-72db77b1ddc6","chapterSlug":"rw6-63 P","paragraph":397,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a3-7f94-8ebb-13fdefc49ae3","chapterSlug":"rw6-63 P","paragraph":411,"wording":"[Actors]","event":"named"}
-{"id":"01a0657e-01a3-7fe2-a3c5-aef2f8e02bfe","chapterSlug":"rw6-63 P","paragraph":471,"wording":"[Actors]","event":"named","holderSlug":"wesle-salkis","claimed":true,"claimedBySlug":"Wesle","holderQuote":"“Oh, we have costumes. But we’re not doing…entertainment. We’re [Actors], Mister Desirel. We perform stories.”"}
-{"id":"01a0657e-01a3-744b-b519-e14b341ec2e1","chapterSlug":"rw6-63 P","paragraph":474,"wording":"[Actors]","event":"named","holderSlug":"jasi","claimed":true,"claimedBySlug":"Jasi","holderQuote":"“We’re [Actors], not [Performers], Mister Desirel. There is a difference.”"}
+{"id":"01a0657e-01a3-7fe2-a3c5-aef2f8e02bfe","chapterSlug":"rw6-63 P","paragraph":471,"wording":"[Actors]","event":"named","holderSlug":"wesle-salkis","claimed":true,"claimedBySlug":"wesle","holderQuote":"“Oh, we have costumes. But we’re not doing…entertainment. We’re [Actors], Mister Desirel. We perform stories.”"}
+{"id":"01a0657e-01a3-744b-b519-e14b341ec2e1","chapterSlug":"rw6-63 P","paragraph":474,"wording":"[Actors]","event":"named","holderSlug":"jasi","claimed":true,"claimedBySlug":"jasi","holderQuote":"“We’re [Actors], not [Performers], Mister Desirel. There is a difference.”"}
 {"id":"01a0657e-01a3-70c1-9400-8c0ffa2af7cb","chapterSlug":"rw6-63 P","paragraph":480,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a3-7c3f-b38e-701a903f54e0","chapterSlug":"rw6-63 P","paragraph":544,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a3-7c0a-bec1-87ec2f05a6ba","chapterSlug":"rw6-63 P","paragraph":596,"wording":"[Actors]","event":"named"}
@@ -241,7 +241,7 @@
 {"id":"01a0657e-01a4-7e53-a2fe-f32b909a5ab3","chapterSlug":"rw7-20","paragraph":1264,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a4-7fd2-9532-446a86706ca3","chapterSlug":"rw7-20","paragraph":1329,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a4-70ef-936e-bebef6395bfc","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":58,"wording":"[Actors]","event":"named"}
-{"id":"01a0657e-01a4-780c-a9a5-5d983ed4f42d","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":149,"wording":"[Actors]","event":"named","claimed":true,"claimedBySlug":"Emme","holderQuote":"Emme was exclaiming. Temile was grinning at her."}
+{"id":"01a0657e-01a4-780c-a9a5-5d983ed4f42d","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":149,"wording":"[Actors]","event":"named","claimed":true,"claimedBySlug":"emme","holderQuote":"Emme was exclaiming. Temile was grinning at her."}
 {"id":"01a0657e-01a4-7496-ac7d-9f92a2f9c94b","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":150,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a4-72af-b665-a693a6e8dfd9","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":155,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a4-7bc0-bef7-89bbd7f05816","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":158,"wording":"[Actors]","event":"named"}
@@ -295,9 +295,9 @@
 {"id":"01a0657e-01a4-70d3-8a89-22e67da50acc","chapterSlug":"rw7-56","paragraph":1002,"wording":"[Actors]","event":"named","holderQuote":"Behold. Look, and see the person we owe it all to. Our great friend. Chellise, one of the [Actors], jogged up to Mrsha."}
 {"id":"01a0657e-01a4-739e-a7ad-bff34d8f200a","chapterSlug":"rw7-56","paragraph":1024,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a4-7a8f-8a4d-4087f52b9ad9","chapterSlug":"rw7-56","paragraph":1048,"wording":"[Actors]","event":"named"}
-{"id":"01a0657e-01a4-7feb-a3b4-8e3cb7852512","chapterSlug":"rw7-56","paragraph":1119,"wording":"[Actors]","event":"named","claimed":true,"claimedBySlug":"Barelle"}
+{"id":"01a0657e-01a4-7feb-a3b4-8e3cb7852512","chapterSlug":"rw7-56","paragraph":1119,"wording":"[Actors]","event":"named","claimed":true,"claimedBySlug":"barelle"}
 {"id":"01a0657e-01a4-7933-8567-993478dadb64","chapterSlug":"rw7-56","paragraph":1128,"wording":"[Actors]","event":"named"}
-{"id":"01a0657e-01a4-7cd6-98bd-cc22be98d15a","chapterSlug":"rw7-56","paragraph":1225,"wording":"[Actors]","event":"named","claimed":true,"claimedBySlug":"Redit"}
+{"id":"01a0657e-01a4-7cd6-98bd-cc22be98d15a","chapterSlug":"rw7-56","paragraph":1225,"wording":"[Actors]","event":"named","claimed":true,"claimedBySlug":"redit"}
 {"id":"01a0657e-01a4-73be-9423-3307e3b0af27","chapterSlug":"rwSolstice (Pt- 2)","paragraph":227,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a4-7224-9ed6-e3b03fb28aee","chapterSlug":"rwSolstice (Pt- 2)","paragraph":241,"wording":"[Actors]","event":"named"}
 {"id":"01a0657e-01a4-7bd4-be70-3a349967dc3d","chapterSlug":"rw7-53","paragraph":112,"wording":"[Actors]","event":"named"}

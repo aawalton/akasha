@@ -182,7 +182,7 @@
 {"id":"01a0657e-01cd-72be-8da0-38848c2105cc","chapterSlug":"rw9-21","paragraph":1137,"wording":"[Crusaders]","event":"named"}
 {"id":"01a0657e-01cd-7449-bcf8-46c437f22856","chapterSlug":"rw9-20","paragraph":966,"wording":"[Crusaders]","event":"named","claimed":true,"claimedBySlug":"pawn"}
 {"id":"01a0657e-01cd-7392-ae5f-83195a811959","chapterSlug":"rw9-20","paragraph":968,"wording":"[Crusaders]","event":"named","claimed":true,"claimedBySlug":"lyonette"}
-{"id":"01a0657e-01cd-74b0-abab-0c08af523de4","chapterSlug":"rw9-20","paragraph":1008,"wording":"[Crusaders]","event":"named","claimed":true,"claimedBySlug":"Lyonette","holderQuote":"Your [Crusaders] scare me, Pawn."}
+{"id":"01a0657e-01cd-74b0-abab-0c08af523de4","chapterSlug":"rw9-20","paragraph":1008,"wording":"[Crusaders]","event":"named","claimed":true,"claimedBySlug":"lyonette","holderQuote":"Your [Crusaders] scare me, Pawn."}
 {"id":"01a0657e-01cd-7d61-b5d4-d96457be7b48","chapterSlug":"rwInterlude - Adventurers (Pt- 2)","paragraph":107,"wording":"[Crusaders]","event":"named"}
 {"id":"01a0657e-01cd-7fd4-b9c4-d334652577ae","chapterSlug":"rwInterlude - The 7th Hive","paragraph":16,"wording":"[Crusaders]","event":"named"}
 {"id":"01a0657e-01cd-77b2-8233-0f13dda7b3c5","chapterSlug":"rwInterlude - The 7th Hive","paragraph":18,"wording":"[Crusaders]","event":"named"}
@@ -257,7 +257,7 @@
 {"id":"01a0657e-01cd-7102-ac3e-9bd216f9dfb6","chapterSlug":"rw10-54 UEG (Pt. 1)","paragraph":905,"wording":"[Crusaders]","event":"named"}
 {"id":"01a0657e-01cd-7d26-8b11-b5457f30336c","chapterSlug":"rw10-19 E","paragraph":1689,"wording":"[Crusaders]","event":"named"}
 {"id":"01a0657e-01cd-7879-9533-a12a86a61d83","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":177,"wording":"[Crusaders]","event":"named"}
-{"id":"01a0657e-01cd-7011-b342-ea067a4eb02d","chapterSlug":"rw10-45 L","paragraph":148,"wording":"[Crusaders]","event":"named","claimed":true,"claimedBySlug":"Yellow Splatters","holderQuote":"Even without the 7th Hive or the [Crusaders], we would have made a difference!"}
+{"id":"01a0657e-01cd-7011-b342-ea067a4eb02d","chapterSlug":"rw10-45 L","paragraph":148,"wording":"[Crusaders]","event":"named","claimed":true,"claimedBySlug":"yellow-splatters","holderQuote":"Even without the 7th Hive or the [Crusaders], we would have made a difference!"}
 {"id":"01a0657e-01cd-7266-bfb7-bbecb9c222b9","chapterSlug":"rw9-30","paragraph":143,"wording":"[Crusaders]","event":"named"}
 {"id":"01a0657e-01cd-7b6e-bfdf-48375ed64f7b","chapterSlug":"rw9-30","paragraph":340,"wording":"[Crusaders]","event":"named"}
 {"id":"01a0657e-01cd-7af0-b828-ff7cd1118d21","chapterSlug":"rw9-30","paragraph":868,"wording":"[Crusaders]","event":"named"}

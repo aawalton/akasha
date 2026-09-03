@@ -20,12 +20,12 @@
 {"id":"01a0657e-1341-7633-b9d1-4556bcb6221b","chapterSlug":"rw6-09","paragraph":736,"wording":"[Butcher]","event":"named","holderQuote":"Rufelt hugged Melinni as she was introduced to Erin and given the rundown."}
 {"id":"01a0657e-1341-70c0-a939-d933f0fb7e00","chapterSlug":"rw6-09","paragraph":746,"wording":"[Butcher]","event":"named","holderQuote":"Melinni was the richest [Butcher] Erin had or possibly would ever meet."}
 {"id":"01a0657e-1341-75a7-94b6-c259e9050337","chapterSlug":"rw6-20 D","paragraph":118,"wording":"[Butcher]","event":"named"}
-{"id":"01a0657e-1341-7b1f-81d5-7ab8ed89232e","chapterSlug":"rw6-28","paragraph":450,"wording":"[Butcher]","event":"named","holderSlug":"regisav-sixtails","claimed":true,"claimedBySlug":"Regisav Sixtails","holderQuote":"Regisav Sixtails. [Butcher]."}
+{"id":"01a0657e-1341-7b1f-81d5-7ab8ed89232e","chapterSlug":"rw6-28","paragraph":450,"wording":"[Butcher]","event":"named","holderSlug":"regisav-sixtails","claimed":true,"claimedBySlug":"regisav-sixtails","holderQuote":"Regisav Sixtails. [Butcher]."}
 {"id":"01a0657e-1341-7b92-9b57-46f9c6c154aa","chapterSlug":"rw6-28","paragraph":455,"wording":"[Butcher]","event":"named","holderSlug":"regisav-sixtails","holderQuote":"Ulseil stared at Regisav. The [Butcher] leaned further over the table."}
 {"id":"01a0657e-1341-7171-8301-272d0222a410","chapterSlug":"rw6-28","paragraph":476,"wording":"[Butcher]","event":"named","holderSlug":"regisav-sixtails","holderQuote":"Regisav edged his chair closer to the table."}
 {"id":"01a0657e-1341-7b24-b509-ffc6f781b3a4","chapterSlug":"rw6-28","paragraph":484,"wording":"[Butcher]","event":"named","holderSlug":"regisav-sixtails","holderQuote":"Regisav, who was now speaking for a crowd, leaned even further over the table."}
 {"id":"01a0657e-1341-72a3-b6cb-dea56be6e4b5","chapterSlug":"rw6-28","paragraph":487,"wording":"[Butcher]","event":"named","holderSlug":"regisav-sixtails","holderQuote":"Regisav, who was now speaking for a crowd, leaned even further over the table."}
-{"id":"01a0657e-1341-76e4-91e8-0e5d9c1d33cc","chapterSlug":"rw6-28","paragraph":488,"wording":"[Butcher]","event":"named","holderSlug":"regisav-sixtails","claimed":true,"claimedBySlug":"Regisav","holderQuote":"our class has never had a seat on the Council"}
+{"id":"01a0657e-1341-76e4-91e8-0e5d9c1d33cc","chapterSlug":"rw6-28","paragraph":488,"wording":"[Butcher]","event":"named","holderSlug":"regisav-sixtails","claimed":true,"claimedBySlug":"regisav","holderQuote":"our class has never had a seat on the Council"}
 {"id":"01a0657e-1341-7499-8951-8d0738adb46c","chapterSlug":"rw6-28","paragraph":506,"wording":"[Butcher]","event":"named","holderSlug":"regisav-sixtails","holderQuote":"Regisav turned to the Gnoll."}
 {"id":"01a0657e-1341-7732-87d4-9837712859a8","chapterSlug":"rw6-28","paragraph":541,"wording":"[Butcher]","event":"named","holderSlug":"regisav-sixtails","holderQuote":"Regisav the [Butcher] looked incredulous."}
 {"id":"01a0657e-1341-71ba-971c-97039ffa3728","chapterSlug":"rw6-31","paragraph":586,"wording":"[Butcher]","event":"named"}
@@ -58,7 +58,7 @@
 {"id":"01a0657e-1341-72c2-8a3a-19d543d0b9c5","chapterSlug":"rw9-15 VM","paragraph":773,"wording":"[Butcher]","event":"named"}
 {"id":"01a0657e-1341-7348-b704-28e2a85c1c41","chapterSlug":"rw9-15 VM","paragraph":986,"wording":"[Butcher]","event":"named"}
 {"id":"01a0657e-1341-7fa6-9073-1ccb8620d89d","chapterSlug":"rw9-15 VM","paragraph":1295,"wording":"[Butcher]","event":"named"}
-{"id":"01a0657e-1341-71cc-ae84-3fae6c1206a0","chapterSlug":"rw9-18 E","paragraph":536,"wording":"[Butcher]","event":"named","claimed":true,"claimedBySlug":"Wiskeria"}
+{"id":"01a0657e-1341-71cc-ae84-3fae6c1206a0","chapterSlug":"rw9-18 E","paragraph":536,"wording":"[Butcher]","event":"named","claimed":true,"claimedBySlug":"wiskeria"}
 {"id":"01a0657e-1341-71bc-b0f2-34a53a0dd217","chapterSlug":"rw9-18 E","paragraph":544,"wording":"[Butcher]","event":"named"}
 {"id":"01a0657e-1341-7c05-8f8c-dad1d798b73c","chapterSlug":"rw9-19","paragraph":109,"wording":"[Butcher]","event":"named"}
 {"id":"01a0657e-1341-78c9-9483-c0161045f6b9","chapterSlug":"rw9-20","paragraph":533,"wording":"[Butcher]","event":"named"}

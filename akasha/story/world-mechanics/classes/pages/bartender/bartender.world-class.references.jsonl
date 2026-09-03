@@ -118,7 +118,7 @@
 {"id":"01a0657e-133c-7860-b6ec-7a728bdfe3f3","chapterSlug":"rw9-01","paragraph":1033,"wording":"[Bartender]","event":"named","holderQuote":"Rufelt was grumbling as he put down a host of spices"}
 {"id":"01a0657e-133c-7a21-893c-0062a6412d95","chapterSlug":"rw9-02","paragraph":349,"wording":"[Bartender]","event":"named"}
 {"id":"01a0657e-133c-766e-97e2-42d18f2325ae","chapterSlug":"rw9-03","paragraph":935,"wording":"[Bartender]","event":"named","holderQuote":"Drassi was supposed to be the [Bartender]"}
-{"id":"01a0657e-133c-768e-878c-540c35cd324c","chapterSlug":"rwInterlude - Mundanity and Memorials","paragraph":51,"wording":"[Bartender]","event":"named","holderSlug":"drassi-tewing","claimed":true,"claimedBySlug":"Drassi Tewing","holderQuote":"Erin, by the way, actually employed me as a [Bartender]."}
+{"id":"01a0657e-133c-768e-878c-540c35cd324c","chapterSlug":"rwInterlude - Mundanity and Memorials","paragraph":51,"wording":"[Bartender]","event":"named","holderSlug":"drassi-tewing","claimed":true,"claimedBySlug":"drassi-tewing","holderQuote":"Erin, by the way, actually employed me as a [Bartender]."}
 {"id":"01a0657e-133c-7d68-8032-f6aca9129289","chapterSlug":"rw9-19","paragraph":98,"wording":"[Bartender]","event":"named","holderQuote":"Silverstache, the temporary [Bartender], got to clean up all the horrible messes"}
 {"id":"01a0657e-133c-74d6-978b-7437854098dd","chapterSlug":"rw9-20","paragraph":1112,"wording":"[Bartender]","event":"named","holderQuote":"So Drassi leaned over the table"}
 {"id":"01a0657e-133c-78dc-b67e-bd5131c84089","chapterSlug":"rw10-55 F","paragraph":346,"wording":"[Bartender]","event":"named"}
@@ -144,7 +144,7 @@
 {"id":"01a0657e-133c-7e3e-bdfe-0d42f25e18ef","chapterSlug":"rw9-41 (Pt. 3)","paragraph":1338,"wording":"[Bartender]","event":"named"}
 {"id":"01a0657e-133c-753e-a7ef-34d4b0c1bafe","chapterSlug":"rw10-33 MNK","paragraph":1174,"wording":"[Bartender]","event":"named"}
 {"id":"01a0657e-133c-7dc5-b671-29477f00a6ff","chapterSlug":"rw9-48 BTIPRLJMWVRV","paragraph":244,"wording":"[Bartender]","event":"named","holderQuote":"Rufelt, who knew more of Bethal’s past as a"}
-{"id":"01a0657e-133c-786c-aba7-cbe25f31aaf2","chapterSlug":"rw10-41 T","paragraph":114,"wording":"[Bartender]","event":"named","claimed":true,"claimedBySlug":"Larracel","holderQuote":"Roreen? Break out a cask and give everyone a complimentary shot"}
+{"id":"01a0657e-133c-786c-aba7-cbe25f31aaf2","chapterSlug":"rw10-41 T","paragraph":114,"wording":"[Bartender]","event":"named","claimed":true,"claimedBySlug":"larracel","holderQuote":"Roreen? Break out a cask and give everyone a complimentary shot"}
 {"id":"01a0657e-133c-7e6a-bb7b-061583d14cb7","chapterSlug":"rw10-41 T","paragraph":267,"wording":"[Bartender]","event":"named","holderQuote":"Roreen offered her some champagne. The [Bartender] had poured a small amount for everyone"}
 {"id":"01a0657e-133c-783c-a4f1-69a9778dec2b","chapterSlug":"rw9-25","paragraph":638,"wording":"[Bartender]","event":"named"}
 {"id":"01a0657e-133c-73b6-97a6-d40a09b8c505","chapterSlug":"rw9-25","paragraph":700,"wording":"[Bartender]","event":"named"}

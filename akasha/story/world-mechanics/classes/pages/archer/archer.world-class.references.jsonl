@@ -166,15 +166,15 @@
 {"id":"01a0657e-132e-77b7-9ec0-8c7303a17f97","chapterSlug":"rw8-54 H","paragraph":434,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-73e1-ac01-ee2c5e16fcbd","chapterSlug":"rw8-54 H","paragraph":469,"wording":"[Archer]","event":"named","holderQuote":"They gathered up, and the [Archer], Romen, nodded at Yvlon. She nodded back, hesitated, and glanced at Mectail."}
 {"id":"01a0657e-132e-7dae-b326-85db524772b6","chapterSlug":"rw8-54 H","paragraph":472,"wording":"[Archer]","event":"named","holderQuote":"They gathered up, and the [Archer], Romen, nodded at Yvlon. She nodded back, hesitated, and glanced at Mectail."}
-{"id":"01a0657e-132e-7b6e-9f68-10c6617b99e6","chapterSlug":"rw8-54 H","paragraph":882,"wording":"[Archer]","event":"named","claimed":true,"claimedBySlug":"Thoweina Silk","holderQuote":"Romen the [Archer] is not here"}
+{"id":"01a0657e-132e-7b6e-9f68-10c6617b99e6","chapterSlug":"rw8-54 H","paragraph":882,"wording":"[Archer]","event":"named","claimed":true,"claimedBySlug":"thoweina-silk","holderQuote":"Romen the [Archer] is not here"}
 {"id":"01a0657e-132e-76fa-9c29-b81a8ec99470","chapterSlug":"rw8-61","paragraph":797,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-7f0f-bf8c-0da3bea39ae5","chapterSlug":"rw8-75","paragraph":707,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-7e4c-beb6-d739d844e4f1","chapterSlug":"rw8-57 H","paragraph":169,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-7cb9-a90d-ca637dc6439d","chapterSlug":"rw8-57 H","paragraph":1111,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-7fa4-938e-0becf50c2453","chapterSlug":"rw8-65","paragraph":594,"wording":"[Archer]","event":"named","holderSlug":"bird","holderQuote":"Bird rubbed at his back shell as he went to sit down next to Ulvama in time-out."}
 {"id":"01a0657e-132e-7d65-81f3-107c925f41d3","chapterSlug":"rw8-65","paragraph":782,"wording":"[Archer]","event":"named"}
-{"id":"01a0657e-132e-70c4-a73e-99f13c37bb14","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":372,"wording":"[Archer]","event":"named","claimed":true,"claimedBySlug":"Archer B12","holderQuote":"I am Archer B12. I am a [Crusader]. [Archer]"}
-{"id":"01a0657e-132e-76f0-a5f7-a8af4c463a09","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":376,"wording":"[Archer]","event":"named","claimed":true,"claimedBySlug":"Archer B12","holderQuote":"I am an [Archer]. I was one of Archer Group B in the Free Hive"}
+{"id":"01a0657e-132e-70c4-a73e-99f13c37bb14","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":372,"wording":"[Archer]","event":"named","claimed":true,"claimedBySlug":"archer-b12","holderQuote":"I am Archer B12. I am a [Crusader]. [Archer]"}
+{"id":"01a0657e-132e-76f0-a5f7-a8af4c463a09","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":376,"wording":"[Archer]","event":"named","claimed":true,"claimedBySlug":"archer-b12","holderQuote":"I am an [Archer]. I was one of Archer Group B in the Free Hive"}
 {"id":"01a0657e-132e-7a28-87d3-158bc2806079","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":411,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-70ef-93f8-09d463e6c3c4","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":1206,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-7ee1-a987-c255bf46a022","chapterSlug":"rwInterlude – Hectval (Pt- 2)","paragraph":966,"wording":"[Archer]","event":"named"}
@@ -269,11 +269,11 @@
 {"id":"01a0657e-132e-79d8-8156-5573bec9e7dd","chapterSlug":"rw10-36 - Pt. 2","paragraph":408,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-7604-84e8-c3b09c8c7ae7","chapterSlug":"rw10-08 (Pt. 1)","paragraph":607,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-7076-8f3e-b0ba69048ae3","chapterSlug":"rw10-08 (Pt. 1)","paragraph":660,"wording":"[Archer]","event":"named"}
-{"id":"01a0657e-132e-726c-a75c-9971788a27a7","chapterSlug":"rw10-09 E","paragraph":1186,"wording":"[Archer]","event":"named","claimed":true,"claimedBySlug":"Erin","holderQuote":"Halrac. Yes. Halrac the Grim"}
+{"id":"01a0657e-132e-726c-a75c-9971788a27a7","chapterSlug":"rw10-09 E","paragraph":1186,"wording":"[Archer]","event":"named","claimed":true,"claimedBySlug":"erin","holderQuote":"Halrac. Yes. Halrac the Grim"}
 {"id":"01a0657e-132e-7ab7-ae5a-e6fa1b2d09d8","chapterSlug":"rw10-43 - RNG (Pt. 1)","paragraph":1623,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-7eb3-b818-e683bdde556a","chapterSlug":"rw10-43 - RNG (Pt. 1)","paragraph":1624,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-791b-ba40-edae4121e6a4","chapterSlug":"rw10-45 L","paragraph":1288,"wording":"[Archer]","event":"named"}
-{"id":"01a0657e-132e-7f95-8839-a4c97c7bf372","chapterSlug":"rw10-64 FN","paragraph":902,"wording":"[Archer]","event":"named","claimed":true,"claimedBySlug":"Mulhot","holderQuote":"So you see that [Archer] there? Bagbel"}
+{"id":"01a0657e-132e-7f95-8839-a4c97c7bf372","chapterSlug":"rw10-64 FN","paragraph":902,"wording":"[Archer]","event":"named","claimed":true,"claimedBySlug":"mulhot","holderQuote":"So you see that [Archer] there? Bagbel"}
 {"id":"01a0657e-132e-7a81-b1ce-8496d29afe01","chapterSlug":"rwGoblin Days (Pt- 2) -- The Pilot and the Knight","paragraph":236,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-70b9-a776-e74b222f86ee","chapterSlug":"rwGoblin Days (Pt- 2) -- The Pilot and the Knight","paragraph":237,"wording":"[Archer]","event":"named"}
 {"id":"01a0657e-132e-7679-a044-3ae3fba4e9b4","chapterSlug":"rwGoblin Days (Pt- 2) -- The Pilot and the Knight","paragraph":389,"wording":"[Archer]","event":"named"}

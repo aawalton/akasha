@@ -1,11 +1,11 @@
 {"id":"01a0657e-01b6-7b4d-8f14-0a6c843f8e18","chapterSlug":"rw4-45","paragraph":265,"wording":"[Battlemage]","event":"named","holderSlug":"falene","claimed":true,"claimedBySlug":"falene","holderQuote":"I’m a generalist [Mage], although I’ve recently achieved the [Battlemage] specialization in my class."}
 {"id":"01a0657e-01b6-7a7b-b990-f61c3783d25f","chapterSlug":"rw5-07","paragraph":81,"wording":"[Battlemage]","event":"named","holderSlug":"falene-skystrall","holderQuote":"Just behind him walked the half-Elf Falene Skystrall, a [Battlemage] who had graduated from Wistram."}
 {"id":"01a0657e-01b6-7662-b8bb-1b03e3e173db","chapterSlug":"rw5-13","paragraph":212,"wording":"[Battlemage]","event":"named","holderSlug":"falene-skystrall","holderQuote":"Falene Skystrall stood beside Ceria. Tall, glamorous, the picture of what half-Elves aspired to be—in a clichéd way—the [Battlemage] made Ceria feel short and ungainly."}
-{"id":"01a0657e-01b6-79e6-870a-52ff044f214f","chapterSlug":"rw5-24 L","paragraph":110,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"Falene","holderQuote":"“I am a [Battlemage], not an [Enchanter].”"}
+{"id":"01a0657e-01b6-79e6-870a-52ff044f214f","chapterSlug":"rw5-24 L","paragraph":110,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"falene","holderQuote":"“I am a [Battlemage], not an [Enchanter].”"}
 {"id":"01a0657e-01b6-731f-83a5-9009d55c9c08","chapterSlug":"rw5-60","paragraph":236,"wording":"[Battlemage]","event":"named","holderQuote":"Yvlon felt a surge of adrenaline and anger as the [Battlemage] looked from her to Ceria."}
 {"id":"01a0657e-01b6-7433-b652-552fed11bd61","chapterSlug":"rw6-10","paragraph":515,"wording":"[Battlemage]","event":"named","holderSlug":"falene","holderQuote":"The half-Elf [Battlemage] stared at Numbtongue in horror."}
 {"id":"01a0657e-01b6-7bdf-975c-58ca97de035a","chapterSlug":"rw6-16","paragraph":94,"wording":"[Battlemage]","event":"named","holderSlug":"falene","holderQuote":"She looked at Falene, a bit apprehensively. The half-Elf [Battlemage] paused."}
-{"id":"01a0657e-01b6-7446-9b35-68cd14617573","chapterSlug":"rw6-46 E","paragraph":369,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"Hedag"}
+{"id":"01a0657e-01b6-7446-9b35-68cd14617573","chapterSlug":"rw6-46 E","paragraph":369,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"hedag"}
 {"id":"01a0657e-01b6-7cc4-ae70-e6936762b588","chapterSlug":"rw6-60","paragraph":97,"wording":"[Battlemage]","event":"named","holderSlug":"falene","holderQuote":"The half-Elf [Battlemage] flicked her fingers at the [Axe Champion] and [Knight]."}
 {"id":"01a0657e-01b6-7087-b22b-cfb7bc2a52c0","chapterSlug":"rw7-06","paragraph":606,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"erin","holderQuote":"We had Falene—but she was a [Battlemage] and she said—and there was Moore. And Typhenous. And Revi I guess."}
 {"id":"01a0657e-01b6-7adc-be3c-d421a13cc033","chapterSlug":"rwInterlude - Sand and Notes","paragraph":283,"wording":"[Battlemage]","event":"named"}
@@ -33,14 +33,14 @@
 {"id":"01a0657e-01b6-7c73-9f41-f551edf973fc","chapterSlug":"rw8-64 K","paragraph":92,"wording":"[Battlemage]","event":"named","holderQuote":"the instant they saw Falene, and the half-Elf shouted"}
 {"id":"01a0657e-01b6-74a7-b992-71c80b40b083","chapterSlug":"rw8-67","paragraph":296,"wording":"[Battlemage]","event":"named"}
 {"id":"01a0657e-01b6-7737-bab1-6f7b5dadabfd","chapterSlug":"rw8-67","paragraph":476,"wording":"[Battlemage]","event":"named","holderQuote":"Belini cursed."}
-{"id":"01a0657e-01b6-7b1e-a366-088f6b6957ba","chapterSlug":"rw8-73 R","paragraph":443,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"Rabbiteater","holderQuote":"Falene Skystrall"}
+{"id":"01a0657e-01b6-7b1e-a366-088f6b6957ba","chapterSlug":"rw8-73 R","paragraph":443,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"rabbiteater","holderQuote":"Falene Skystrall"}
 {"id":"01a0657e-01b6-71aa-83d4-3fc142364641","chapterSlug":"rw9-15 VM","paragraph":515,"wording":"[Battlemage]","event":"named"}
 {"id":"01a0657e-01b6-7829-9e0b-4fa955541a57","chapterSlug":"rw9-15 VM","paragraph":526,"wording":"[Battlemage]","event":"named"}
 {"id":"01a0657e-01b6-7623-ac14-fc73450e65d8","chapterSlug":"rw9-15 VM","paragraph":986,"wording":"[Battlemage]","event":"named"}
 {"id":"01a0657e-01b6-7254-b47c-767b6fc50c21","chapterSlug":"rw9-20","paragraph":306,"wording":"[Battlemage]","event":"named","holderQuote":"Oh, Dawil. And Ylawes, Falene? I’m gonna cry!"}
 {"id":"01a0657e-01b6-76c7-87cb-0db0a053a923","chapterSlug":"rw10-43 - RNG (Pt. 2)","paragraph":108,"wording":"[Battlemage]","event":"named"}
-{"id":"01a0657e-01b6-7fed-be7c-f4d17fdb2798","chapterSlug":"rwInterlude - Adventurers (Pt- 2)","paragraph":617,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"Ylawes","holderQuote":"Ylawes—where’s—Ylawes, isn’t Falene Wistram-trained?"}
-{"id":"01a0657e-01b6-756b-86f1-c071be21331c","chapterSlug":"rwInterlude - Adventurers (Pt- 2)","paragraph":636,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"Falene","holderQuote":"I am a [Battlemage], Captain Anith."}
+{"id":"01a0657e-01b6-7fed-be7c-f4d17fdb2798","chapterSlug":"rwInterlude - Adventurers (Pt- 2)","paragraph":617,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"ylawes","holderQuote":"Ylawes—where’s—Ylawes, isn’t Falene Wistram-trained?"}
+{"id":"01a0657e-01b6-756b-86f1-c071be21331c","chapterSlug":"rwInterlude - Adventurers (Pt- 2)","paragraph":636,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"falene","holderQuote":"I am a [Battlemage], Captain Anith."}
 {"id":"01a0657e-01b6-7e21-97af-e72a2e19114b","chapterSlug":"rw9-58 O","paragraph":227,"wording":"[Battlemage]","event":"named","claimed":true,"claimedBySlug":"itkisa","holderQuote":"is Groithe; Torreb calls him one of the more deadly"}
 {"id":"01a0657e-01b6-7f9f-a4c7-817e3c9ba890","chapterSlug":"rw9-58 O","paragraph":235,"wording":"[Battlemage]","event":"named"}
 {"id":"01a0657e-01b6-7d3c-b35c-77e0b9e2f026","chapterSlug":"rw9-58 O","paragraph":246,"wording":"[Battlemage]","event":"named"}

@@ -16,7 +16,7 @@
 {"id":"01a0657e-1348-7690-8524-3b666f49c9c9","chapterSlug":"rw5-00","paragraph":270,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1348-71e8-90e7-8be845c70879","chapterSlug":"rw4-44 M","paragraph":102,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1348-7c74-a508-58899ff9d091","chapterSlug":"rw5-10 E","paragraph":270,"wording":"[Chef]","event":"named"}
-{"id":"01a0657e-1348-7134-91df-5a3720527d81","chapterSlug":"rw5-11 E","paragraph":333,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"Lady Bevia Veniford"}
+{"id":"01a0657e-1348-7134-91df-5a3720527d81","chapterSlug":"rw5-11 E","paragraph":333,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"lady-bevia-veniford"}
 {"id":"01a0657e-1348-7d03-bb1d-8f156ddd62aa","chapterSlug":"rwInterlude - Pebblesnatch and Garry","paragraph":78,"wording":"[Chef]","event":"named","holderSlug":"pebblesnatch","holderQuote":"Garry saw her hat and knew. She had to be a [Chef]!"}
 {"id":"01a0657e-1348-7dd1-9a56-3ecaac27d521","chapterSlug":"rwInterlude - Pebblesnatch and Garry","paragraph":82,"wording":"[Chef]","event":"named","holderSlug":"pebblesnatch","holderQuote":"they grabbed both him and the Goblin [Chef] and towed them over."}
 {"id":"01a0657e-1348-7ca4-b0c8-68e27b6173f5","chapterSlug":"rwInterlude - Pebblesnatch and Garry","paragraph":142,"wording":"[Chef]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"erin","holderQuote":"You and me, Garry! Master [Chef] and apprentice!"}
@@ -54,7 +54,7 @@
 {"id":"01a0657e-1348-785a-b8b4-3872259e77ef","chapterSlug":"rw6-38","paragraph":635,"wording":"[Chef]","event":"named","holderSlug":"lasica","holderQuote":"Nonplussed, Erin stared at Lasica. The [Chef] twirled a claw in her drink and licked it."}
 {"id":"01a0657e-1348-7d7d-bd5b-ebb272e7bcf8","chapterSlug":"rw6-38","paragraph":640,"wording":"[Chef]","event":"named","holderSlug":"lasica","claimed":true,"claimedBySlug":"lasica","holderQuote":"“I am a [Chef]. Eggs, vinegar, salt, and oil processed for a long time? I’d add some lemon maybe, or even a bit of mustard. But that’s my taste.”"}
 {"id":"01a0657e-1348-71f4-8992-6fc63f2718c5","chapterSlug":"rwInterlude - Rufelt","paragraph":280,"wording":"[Chef]","event":"named","holderSlug":"lasica","holderQuote":"A Gnoll and a Drake. A [Bartender] and a [Chef]. Lasica and Rufelt."}
-{"id":"01a0657e-1348-753f-a07b-5c753301b338","chapterSlug":"rw6-56","paragraph":106,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"Rufelt","holderQuote":"So, where’s Lasica?"}
+{"id":"01a0657e-1348-753f-a07b-5c753301b338","chapterSlug":"rw6-56","paragraph":106,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"rufelt","holderQuote":"So, where’s Lasica?"}
 {"id":"01a0657e-1348-792a-a5f7-5938c95d68ec","chapterSlug":"rw6-56","paragraph":159,"wording":"[Chef]","event":"named","holderQuote":"Erin had seen Lasica, a real [Chef] making food in an instant and of higher quality than should have been strictly possible with her Skills.","effectQuote":"making food in an instant and of higher quality than should have been strictly possible with her Skills"}
 {"id":"01a0657e-1348-7d1d-bd91-65d75db6b818","chapterSlug":"rw6-37 E","paragraph":277,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1348-7dfd-83f2-00ec9908b8aa","chapterSlug":"rw6-58","paragraph":203,"wording":"[Chef]","event":"named"}
@@ -79,7 +79,7 @@
 {"id":"01a0657e-1348-7445-93e5-25dde0573982","chapterSlug":"rwInterlude - Chocolate Gold","paragraph":154,"wording":"[Chef]","event":"named","holderSlug":"lasica","claimed":true,"claimedBySlug":"lyonette","holderQuote":"Lasica had chocolate, right? We’ll ask her. She’s a [Chef], anyways."}
 {"id":"01a0657e-1348-78fc-8946-b3e8b3dd1083","chapterSlug":"rwInterlude - Chocolate Gold","paragraph":181,"wording":"[Chef]","event":"named","holderSlug":"lasica","claimed":true,"claimedBySlug":"ushel","holderQuote":"“The Human. How can I help you and Miss [Chef] here?”"}
 {"id":"01a0657e-1348-76b1-b669-9d6103db2b31","chapterSlug":"rwInterlude - Chocolate Gold","paragraph":195,"wording":"[Chef]","event":"named","holderSlug":"lasica","holderQuote":"The Drake [Chef] gave Erin a strange look."}
-{"id":"01a0657e-1348-7310-8942-248084739a07","chapterSlug":"rwInterlude - Chocolate Alchemy","paragraph":249,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"Erin","holderQuote":"Lasica’s a [Chef]."}
+{"id":"01a0657e-1348-7310-8942-248084739a07","chapterSlug":"rwInterlude - Chocolate Alchemy","paragraph":249,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"erin","holderQuote":"Lasica’s a [Chef]."}
 {"id":"01a0657e-1348-71b5-8463-7b13f87e0f82","chapterSlug":"rwMating Rituals Pt-2","paragraph":577,"wording":"[Chef]","event":"named","holderQuote":"Garry the [Chef] sat in an outdoor café, waiting for his order."}
 {"id":"01a0657e-1348-7c99-9d5e-d079cca69ed4","chapterSlug":"rwMating Rituals Pt-2","paragraph":582,"wording":"[Chef]","event":"named","holderQuote":"He could eat gluten, come to that, because he was a [Chef]."}
 {"id":"01a0657e-1348-75f3-b3f6-4f7681636a2d","chapterSlug":"rwMating Rituals Pt-2","paragraph":582,"wording":"[Chef]","event":"named"}
@@ -202,7 +202,7 @@
 {"id":"01a0657e-1348-7066-ab2a-0cdc6465ab42","chapterSlug":"rw8-60","paragraph":725,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1348-78b7-a2c7-996cb3f636a4","chapterSlug":"rw8-65","paragraph":82,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1348-7c8a-bf8b-08d46dbd5558","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":70,"wording":"[Chef]","event":"named"}
-{"id":"01a0657e-1348-7994-95b5-4f97f9d89734","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":1133,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"Belgrade","holderQuote":"Garry is a [Chef]. So I had to."}
+{"id":"01a0657e-1348-7994-95b5-4f97f9d89734","chapterSlug":"rwInterlude - Hectval (Pt- 1)","paragraph":1133,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"belgrade","holderQuote":"Garry is a [Chef]. So I had to."}
 {"id":"01a0657e-1348-74cb-b9d2-5f386341f84a","chapterSlug":"rwInterlude – Hectval (Pt- 2)","paragraph":573,"wording":"[Chef]","event":"named","holderQuote":"Mister [Chef]. Satel, right?"}
 {"id":"01a0657e-1348-70ee-ae46-87e350820820","chapterSlug":"rwInterlude – Hectval (Pt- 3)","paragraph":534,"wording":"[Chef]","event":"named","holderQuote":"Eugh. Garry was a good [Chef], but he really was sort of a baking-specialist."}
 {"id":"01a0657e-1348-7d5a-bf81-39d6d83fa470","chapterSlug":"rw8-73 R","paragraph":193,"wording":"[Chef]","event":"named"}
@@ -281,7 +281,7 @@
 {"id":"01a0657e-1348-7df6-acb5-2d284f7fefcb","chapterSlug":"rwInterlude - Arcsinger's Memories","paragraph":1438,"wording":"[Chef]","event":"named","holderSlug":"calescent","holderQuote":"Calescent walked into the theatre and halted when he saw the half-Elf with blonde hair standing there"}
 {"id":"01a0657e-1348-7737-a95d-5e504514a141","chapterSlug":"rwInterlude - Arcsinger's Memories","paragraph":1566,"wording":"[Chef]","event":"named","holderSlug":"calescent","holderQuote":"Calescent stared up at the image burned into his eyes"}
 {"id":"01a0657e-1348-78d0-8492-cf9a60541569","chapterSlug":"rw9-55 (Pt. 1)","paragraph":330,"wording":"[Chef]","event":"named"}
-{"id":"01a0657e-1348-7a0f-98ed-c00398b7823b","chapterSlug":"rw9-55 (Pt. 1)","paragraph":1817,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"Imani","holderQuote":"And I’m Imani, from Nigeria."}
+{"id":"01a0657e-1348-7a0f-98ed-c00398b7823b","chapterSlug":"rw9-55 (Pt. 1)","paragraph":1817,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"imani","holderQuote":"And I’m Imani, from Nigeria."}
 {"id":"01a0657e-1348-708a-a4fe-4078e3aea9b5","chapterSlug":"rw9-41 (Pt. 1)","paragraph":459,"wording":"[Chef]","event":"named","holderQuote":"Ooh! Calescent, are you okay?"}
 {"id":"01a0657e-1348-7627-9eb3-034a8ff2774b","chapterSlug":"rw9-41 (Pt. 1)","paragraph":469,"wording":"[Chef]","event":"named","holderQuote":"If it’s still there, we’ll all have fried toast. Thanks, Calescent."}
 {"id":"01a0657e-1348-7040-8894-f9f6e5c4c539","chapterSlug":"rw9-41 (Pt. 1)","paragraph":764,"wording":"[Chef]","event":"named","holderQuote":"Not strictly true, but Calescent did most of it."}
@@ -297,7 +297,7 @@
 {"id":"01a0657e-1348-76f2-829d-b09f71dde01f","chapterSlug":"rwInterlude - The Spitoon","paragraph":234,"wording":"[Chef]","event":"named","holderSlug":"chef-moirmen","holderQuote":"One of the [Chef]’s hands was broken and battered from a fight with a monster."}
 {"id":"01a0657e-1348-7c98-9cf6-575de3fc1dd5","chapterSlug":"rwInterlude - The Spitoon","paragraph":279,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1348-7daa-9658-2f6858eee45b","chapterSlug":"rwInterlude - The Spitoon","paragraph":290,"wording":"[Chef]","event":"named","holderSlug":"chef-moirmen","holderQuote":"The [Chef] gave Dakelos an innocent look."}
-{"id":"01a0657e-1348-7b8f-bc49-fb190a7b5115","chapterSlug":"rwInterlude - The Spitoon","paragraph":296,"wording":"[Chef]","event":"named","holderSlug":"chef-moirmen","claimed":true,"claimedBySlug":"Dakelos","holderQuote":"Fill me a bowl, [Chef]"}
+{"id":"01a0657e-1348-7b8f-bc49-fb190a7b5115","chapterSlug":"rwInterlude - The Spitoon","paragraph":296,"wording":"[Chef]","event":"named","holderSlug":"chef-moirmen","claimed":true,"claimedBySlug":"dakelos","holderQuote":"Fill me a bowl, [Chef]"}
 {"id":"01a0657e-1348-70d9-bc52-4699670c4a00","chapterSlug":"rwInterlude - The Spitoon","paragraph":298,"wording":"[Chef]","event":"named","holderSlug":"chef-moirmen","holderQuote":"The [Chef] drew Dakelos aside as the man actually managed half a bowl before he felt nauseous."}
 {"id":"01a0657e-1348-7456-9d62-d5710cfa5971","chapterSlug":"rwInterlude - The Spitoon","paragraph":307,"wording":"[Chef]","event":"named","holderSlug":"chef-moirmen","holderQuote":"The [Chef] seemed worried he’d taken Dakelos’ time."}
 {"id":"01a0657e-1348-7714-bbe1-2336d59458a8","chapterSlug":"rwInterlude - The Spitoon","paragraph":684,"wording":"[Chef]","event":"named","holderSlug":"chef-moirmen","holderQuote":"Then Chef Moirmen raised the kitchen knife and hacked it into the exposed neck."}
@@ -349,14 +349,14 @@
 {"id":"01a0657e-1349-7219-bc17-a837a0c0a15a","chapterSlug":"rw10-65","paragraph":1758,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1349-7c1e-8c94-0d2ece2ca35b","chapterSlug":"rw9-60","paragraph":351,"wording":"[Chef]","event":"named","holderQuote":"The [Chef] gave Erin a sideways glance."}
 {"id":"01a0657e-1349-795f-8d0d-f09128384b4d","chapterSlug":"rw10-66 (Pt. 1)","paragraph":1152,"wording":"[Chef]","event":"named","holderSlug":"imani","holderQuote":"The [Chef] shot Ilvriss a pointed look, and he squirmed."}
-{"id":"01a0657e-1349-7c01-9ff6-f6dec2b6fea4","chapterSlug":"rw10-66 (Pt. 1)","paragraph":1161,"wording":"[Chef]","event":"named","holderSlug":"imani","claimed":true,"claimedBySlug":"Imani","holderQuote":"It is when I’m the [Chef]!"}
+{"id":"01a0657e-1349-7c01-9ff6-f6dec2b6fea4","chapterSlug":"rw10-66 (Pt. 1)","paragraph":1161,"wording":"[Chef]","event":"named","holderSlug":"imani","claimed":true,"claimedBySlug":"imani","holderQuote":"It is when I’m the [Chef]!"}
 {"id":"01a0657e-1349-7d64-b507-968c8a0e6c5f","chapterSlug":"rw9-29","paragraph":1311,"wording":"[Chef]","event":"named","holderQuote":"Everyone turned. The latter two things were just Calescent and Rags"}
 {"id":"01a0657e-1349-73be-a777-e76e5aced174","chapterSlug":"rw9-29","paragraph":1412,"wording":"[Chef]","event":"named","holderQuote":"Calescent was beaming as he ran about his kitchen, and Rufelt was calling out."}
 {"id":"01a0657e-1349-7f58-8020-770b5d47f2cb","chapterSlug":"rw10-68 S","paragraph":1489,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1349-795e-8118-969d9f880c7c","chapterSlug":"rw10-03 Y","paragraph":431,"wording":"[Chef]","event":"named","holderQuote":"Chef Votto was not well liked at this moment"}
 {"id":"01a0657e-1349-79ac-9aa8-c9efc755c273","chapterSlug":"rw10-03 Y","paragraph":1104,"wording":"[Chef]","event":"named","holderQuote":"His current [Chef]’s hat is a bit dingy after one of those Flashbirds pecked at it"}
 {"id":"01a0657e-1349-7743-b664-34bcef87db5e","chapterSlug":"rw10-03 Y","paragraph":1465,"wording":"[Chef]","event":"named"}
-{"id":"01a0657e-1349-7375-9b48-0dcf51474802","chapterSlug":"rw10-03 Y","paragraph":1559,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"Rasktooth","holderQuote":"And [Chef] Votto so I can teach how to properly fry tubeworm."}
+{"id":"01a0657e-1349-7375-9b48-0dcf51474802","chapterSlug":"rw10-03 Y","paragraph":1559,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"rasktooth","holderQuote":"And [Chef] Votto so I can teach how to properly fry tubeworm."}
 {"id":"01a0657e-1349-73ea-8bc0-0f52b4420a99","chapterSlug":"rw9-66","paragraph":1351,"wording":"[Chef]","event":"used","holderQuote":"Calescent blocked with one arm as the blade bit and stopped at his bone.","effectQuote":"he chopped the head off the skeleton knight"}
 {"id":"01a0657e-1349-7162-a28f-d46e0249b441","chapterSlug":"rw9-66","paragraph":1361,"wording":"[Chef]","event":"named","holderQuote":"Calescent’s eyes widened"}
 {"id":"01a0657e-1349-7da9-b218-71b828653078","chapterSlug":"rw10-01 L","paragraph":693,"wording":"[Chef]","event":"named","holderSlug":"imani","holderQuote":"Palt slowed down and circled as Imani threw off a winter hood and smiled."}
@@ -368,7 +368,7 @@
 {"id":"01a0657e-1349-7cd2-ae3c-6bd9a3fa0fbe","chapterSlug":"rw10-01 L","paragraph":859,"wording":"[Chef]","event":"named","holderSlug":"imani","holderQuote":"Lyonette looked up and saw Imani waggling her brows across the room at her."}
 {"id":"01a0657e-1349-7ca1-a916-f1ff25ebaf50","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":319,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1349-7c6f-be68-d0bca54298fa","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1212,"wording":"[Chef]","event":"named","holderSlug":"imani","holderQuote":"but Imani felt, as the one-eyed [Chef], she was allowed to blame whomever she wanted."}
-{"id":"01a0657e-1349-738b-a90f-5de8a92b6d4d","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1232,"wording":"[Chef]","event":"named","holderSlug":"palt","claimed":true,"claimedBySlug":"Imani","holderQuote":"Unless you’ve given up to become a [Chef]?"}
+{"id":"01a0657e-1349-738b-a90f-5de8a92b6d4d","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1232,"wording":"[Chef]","event":"named","holderSlug":"palt","claimed":true,"claimedBySlug":"imani","holderQuote":"Unless you’ve given up to become a [Chef]?"}
 {"id":"01a0657e-1349-7df2-89c4-b946075095bb","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1234,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1349-7fcf-beff-e20a4af78efa","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1237,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1349-7c7c-8734-9a2b144a25cd","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1252,"wording":"[Chef]","event":"named","holderSlug":"imani","holderQuote":"One agreed to let Lyonette know Imani was here, but it took the [Chef] poking her head into the kitchen for Calescent to come out."}
@@ -418,7 +418,7 @@
 {"id":"01a0657e-1349-779e-8d8e-0a8ff169b6da","chapterSlug":"rw10-20 E","paragraph":242,"wording":"[Chef]","event":"named","holderQuote":"The Goblin [Chef] and Elia Arcsinger recoiled from one another as they stared at each other."}
 {"id":"01a0657e-1349-7ea3-bd64-4a2cd6e0009e","chapterSlug":"rw10-20 E","paragraph":242,"wording":"[Chef]","event":"named","holderQuote":"The [Chef] scowled. Elia blanched."}
 {"id":"01a0657e-1349-7009-99cc-7c7a0e404f8e","chapterSlug":"rw10-20 E","paragraph":262,"wording":"[Chef]","event":"named","holderQuote":"The [Chef]’s chest puffed out."}
-{"id":"01a0657e-1349-7deb-b4b3-d0c84f9ee1a0","chapterSlug":"rw10-20 E","paragraph":263,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"Calescent","holderQuote":"Must be some other talented Goblin [Chef], Miss Lyonette."}
+{"id":"01a0657e-1349-7deb-b4b3-d0c84f9ee1a0","chapterSlug":"rw10-20 E","paragraph":263,"wording":"[Chef]","event":"named","claimed":true,"claimedBySlug":"calescent","holderQuote":"Must be some other talented Goblin [Chef], Miss Lyonette."}
 {"id":"01a0657e-1349-749e-ab7b-ccdf4313bdab","chapterSlug":"rw10-20 E","paragraph":273,"wording":"[Chef]","event":"named","holderQuote":"The [Chef] stared at Durene, then put three potatoes on the side of the plate as if he were committing a food war crime."}
 {"id":"01a0657e-1349-7ebd-b01f-5946e2a137a8","chapterSlug":"rw10-20 E","paragraph":275,"wording":"[Chef]","event":"named","holderQuote":"The [Chef] smiled at Normen, or he tried to."}
 {"id":"01a0657e-1349-7c10-bc52-2e01e8a99a0c","chapterSlug":"rw10-20 E","paragraph":1443,"wording":"[Chef]","event":"named","holderQuote":"she saw [Chef] Moldierre raise his hands"}
@@ -444,7 +444,7 @@
 {"id":"01a0657e-1349-7efe-98f0-0b385ce45a42","chapterSlug":"rw10-11 H","paragraph":568,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1349-7e6e-b561-f7dd5cf8c1ab","chapterSlug":"rw10-46 L","paragraph":892,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1349-73d1-9b60-6d09382da5e6","chapterSlug":"rwInterlude - Innovation and Invention","paragraph":119,"wording":"[Chef]","event":"named"}
-{"id":"01a0657e-1349-713a-9aa4-f7db9f302624","chapterSlug":"rw10-54 UEG (Pt. 2)","paragraph":524,"wording":"[Chef]","event":"named","holderSlug":"garry","claimed":true,"claimedBySlug":"Gilha","holderQuote":"You are the most incredible [Chef] I have ever met!"}
+{"id":"01a0657e-1349-713a-9aa4-f7db9f302624","chapterSlug":"rw10-54 UEG (Pt. 2)","paragraph":524,"wording":"[Chef]","event":"named","holderSlug":"garry","claimed":true,"claimedBySlug":"gilha","holderQuote":"You are the most incredible [Chef] I have ever met!"}
 {"id":"01a0657e-1349-7fe1-86a3-7b0c50344e8e","chapterSlug":"rw9-38 TV (Pt. 1)","paragraph":412,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1349-7ddf-9429-cbd4ed1cfbe5","chapterSlug":"rw9-36 HO","paragraph":407,"wording":"[Chef]","event":"named"}
 {"id":"01a0657e-1349-7633-be7b-ecb6d77893b0","chapterSlug":"rw9-36 HO","paragraph":410,"wording":"[Chef]","event":"named"}
