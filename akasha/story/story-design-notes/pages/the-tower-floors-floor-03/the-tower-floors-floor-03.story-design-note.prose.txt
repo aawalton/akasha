@@ -1,0 +1,96 @@
+{
+  "floor": 3,
+  "name": "The Gallery of Echoes",
+  "theme": "The spiral stair climbs into warmth and dry air at last — and into sound. A long vaulted gallery, walls lined with shattered statuary and tall bronze resonance-plates green with age. Every footstep returns threefold. The light is amber and sourceless, seeming to hum. At the far end, a raised dais and a sealed archway up. Two things wait: a wraith of folded sound drifting between the plates, and a stone Warden seated unmoving before the arch.",
+  "exits": ["ascending archway, far dais (sealed until the floor is cleared)"],
+  "rooms": [
+    {
+      "id": "gallery-nave",
+      "name": "The Resonant Nave",
+      "desc": "The long body of the gallery. Bronze resonance-plates stand at intervals down both walls, each taller than a man, ringing faintly at any sharp noise. Broken statues litter the floor — cover and rubble. The amber hum is loudest here; the air itself seems to carry sound too well.",
+      "searchables": [
+        { "thing": "bronze resonance-plates (down both walls)", "use": "they AMPLIFY sound — the Cantor's whole power runs off them. Shatter or topple a plate (heavy, FIN/MIGHT or a thrown statue-chunk) and it goes dead. Each downed plate weakens the Cantor's reach. They also ring deafeningly if struck — a usable distraction/stagger.", "note": "THE central interactable: the Cantor's weakness lives in the acoustics. Reading 'kill the plates' is the win." },
+        { "thing": "shattered statuary (across the floor)", "use": "cover (break line of sound/sight); fist-to-head-sized chunks are throwable (FIN ranged, or hurled to shatter a plate at distance); a few long marble shards = improvised stabbing weapon (atk 3)", "note": "abundant rubble — cover and ammunition both" },
+        { "thing": "a fallen bronze plate (one already down, mid-nave)", "use": "a dead zone — standing in its acoustic shadow muffles the Cantor's song (coordinator: intent bonus for fighting from here). Also a ~2m bronze sheet = heavy shield-cover.", "note": "the pre-made safe spot — a reader should find and use it" },
+        { "thing": "wall sconces (cold)", "use": "none — long dead, no oil, no flame. The amber light is not from them.", "note": "decided dead end; no fire source on this floor" }
+      ],
+      "water": "NONE. The gallery is bone-dry — the warm dry air is part of the floor's character (and a deliberate contrast to the Cistern). No drink, no douse, no water trick available here. Pre-decided: do not confabulate a fountain or puddle.",
+      "light": "amber, sourceless, even — good visibility throughout (Alan's weak PER is not punished here). The light dims slightly near downed plates.",
+      "exhausted": "A second pass finds only more statue-rubble (more thrown ammo, nothing new). The plates and the alcove are the only structural assets.",
+      "otherExits": "the spiral stair behind (down to the Cistern), and the open dais ahead"
+    },
+    {
+      "id": "gallery-alcove",
+      "name": "The Dead Alcove",
+      "desc": "A side recess off the nave, its walls hung with rotted acoustic baffling — felt and horsehair, centuries old. Inside it, sound DIES. The hum cuts to nothing the moment you step in. A reader who notices the silence understands the whole floor.",
+      "searchables": [
+        { "thing": "rotted acoustic baffling (the alcove walls)", "use": "this is WHY the alcove is dead-silent — it eats sound. The Cantor is nearly mute in here (coordinator: the Cantor's ment attacks are halved or fail in/near the alcove). Tear panels free to carry a muffling baffle as a 'sound shield.'", "note": "the readable answer to the Cantor — fight FROM here, or drag the fight here, and its power collapses" },
+        { "thing": "a corpse in old robes (slumped in the corner)", "use": "a previous climber. Carries a SILVER WHISTLE (a single piercing note — strikes every resonance-plate at once for a deafening stagger, usable once or twice before the Cantor adapts) and a cracked focus-crystal (mind/affinity seed).", "note": "the whistle is a key item — turns the plates against the Cantor; reward for searching the silent room" },
+        { "thing": "scratched words on the wall (above the corpse)", "use": "a dying climber's note: 'IT SINGS THROUGH THE BRONZE — KILL THE BRONZE — THE STONE ONE ONLY WAKES AT THE ARCH.' Free lore-gate: tells a reader both weaknesses if they search here.", "note": "rewards exploration with the floor's solution stated plainly — but only if Alan thinks to enter the silent room" }
+      ],
+      "water": "NONE — dry, like the rest of the floor.",
+      "light": "dimmer amber; the alcove swallows light a little as it swallows sound",
+      "exhausted": "Once the whistle, crystal, and note are taken, the alcove is just a quiet recess — still tactically useful (the dead zone persists), but holds no more loot.",
+      "otherExits": "back into the nave only"
+    },
+    {
+      "id": "gallery-dais",
+      "name": "The Warden's Dais",
+      "desc": "The raised platform at the gallery's end. The Plinth Golem sits before the sealed archway, a seated stone colossus, utterly still until something tries to pass it. Its torso is built around a single keystone plinth at the sternum — the load-bearing block its whole mass rests on.",
+      "searchables": [
+        { "thing": "the seated Plinth Golem (on the dais)", "use": "dormant until the arch is approached or it is struck. Waking it is optional ONLY if the arch can be reached past it — it cannot (it fills the way). It must be dropped.", "note": "the floor boss; geometry forces the fight" },
+        { "thing": "the keystone plinth (Golem's sternum)", "use": "THE weakness — a single load-bearing block bearing the whole construct. A precise strike there (INT read + FIN placement, NOT brute MIGHT) collapses it. See readableTrait gate.", "note": "the entire fight is 'find and hit the keystone'" },
+        { "thing": "the sealed archway (behind the Golem)", "use": "the exit up. Keyed to the floor's wardens — both the Cantor and the Golem must fall. Flush-sealed, no lever.", "note": "clearing the floor opens it" }
+      ],
+      "water": "NONE.",
+      "light": "amber, brightest at the dais",
+      "exhausted": "After the Golem falls, the dais holds only its rubble — and the cracked-open keystone (the drop).",
+      "otherExits": "the sealed arch ahead; the nave behind"
+    }
+  ],
+  "encounters": [
+    {
+      "id": "hollow-cantor-01",
+      "trigger": "advancing into the nave past the first pair of plates",
+      "enemy": {
+        "name": "Hollow Cantor",
+        "kind": "enemy",
+        "level": 3,
+        "class": "Sound-wraith",
+        "attributes": {
+          "MIGHT": 4, "FINESSE": 9, "VITALITY": 7, "INTELLECT": 11,
+          "PERCEPTION": 13, "WILL": 14, "PRESENCE": 12, "LUCK": 6
+        },
+        "rollMode": "2d10",
+        "equipment": { "weapon": { "atk": 0 }, "armor": { "def": 0 } },
+        "baseDamage": 14,
+        "intentTypical": 6,
+        "readableTrait": "A wraith of folded sound — it attacks the MIND (mode: ment), pouring a song that claws at Focus and will. This is the FIRST real test of Alan's mentDef (33, his high stat — good) but the Cantor is built to threaten it: high WILL/INT/PRES, baseDamage 14, intent 6. GATE: its power is entirely BORROWED from the bronze resonance-plates — it sings THROUGH them. Coordinator: the Cantor's effective attack scales with how many plates still stand. All plates up = full power (the math above, ~25–31 to Focus per hit — dangerous over a long fight). Each plate shattered/toppled cuts its reach; in the DEAD ALCOVE or its acoustic shadow its ment attack is HALVED or fails outright. Strike the bronze, not the wraith — a body-blow to the Cantor itself barely matters (it is half-air; x0.4 to direct physical hits), but killing its amplifiers strips it to a whisper. The silver whistle staggers it (rings every plate at once). A reader who attacks the ACOUSTICS — topples plates, fights from the alcove, uses the whistle — earns intent 8+ and wins safely. A reader who tries to trade blows with the wraith body bleeds Focus and loses. NOTE: it cannot deal lethal HP damage directly — it empties Focus (104); at 0 Focus Alan is dazed/staggered (coordinator: reads fail, intent capped low, vulnerable) — the danger is being mind-emptied right as the Golem wakes.",
+        "hpNote": "computed by engine: VIT8(56)+MIGHT2(8) = 64 HP, but HP is nearly irrelevant — you win by killing the PLATES, not the wraith. focusMax 72, mentDef 26.5."
+      },
+      "reward": { "xp": 160, "drop": "a tuning-shard of folded sound (sound/affinity seed) and +1 toward a 'Resonance Reading' skill — the System notes he learned to read a space by its echoes" }
+    },
+    {
+      "id": "plinth-golem-01",
+      "trigger": "approaching the archway / the dais, or striking the seated Golem",
+      "enemy": {
+        "name": "Plinth Golem (the Warden)",
+        "kind": "enemy",
+        "level": 3,
+        "class": "Stone Warden",
+        "attributes": {
+          "MIGHT": 15, "FINESSE": 5, "VITALITY": 14, "INTELLECT": 6,
+          "PERCEPTION": 7, "WILL": 10, "PRESENCE": 5, "LUCK": 4
+        },
+        "rollMode": "2d10",
+        "equipment": { "weapon": { "atk": 6 }, "armor": { "def": 5 } },
+        "baseDamage": 20,
+        "intentTypical": 3,
+        "readableTrait": "A seated stone colossus, 142 HP and slow (Initiative 12 — Alan's 24 means he ALWAYS acts first). GATE: the body is solid stone — coordinator applies x0.25 to any blow that is NOT aimed at the keystone. Pounding the torso/limbs is nearly futile (142 HP at quarter-damage = an unwinnable slog before its 20-base hammer-blows grind Alan down). THE keystone plinth at its sternum is the single load-bearing block: a precise, placed strike there (INT to read it, FIN to place it — explicitly NOT a MIGHT contest; Alan's weak MIGHT is irrelevant, his peak INT + good FIN is the whole answer) takes x3 and a clean keystone hit can stagger or one-shot-stage the collapse. A reader who identifies the plinth (the wall-note names it; an INT read finds it) and places shots there wins with Alan's actual build. Brute force CANNOT win this fight in time — that is the point. Its hammer-blows hit ~30+ and would kill VIT-6 Alan in 2–3 connects, so he must drop it FAST via the keystone, ideally before/separately from the Cantor (fighting both at once with Focus already drained is the lethal trap).",
+        "hpNote": "computed by engine: VIT8(112)+MIGHT2(30) = 142 HP. physDef (14+5)/2+5 = 14.5. physAtk 33.5. The HP is a wall unless you hit the keystone."
+      },
+      "reward": { "xp": 220, "drop": "the cracked keystone (a dense rune-cut block — equipment/crafting seed, the heaviest 'core' yet) and the Warden's stone gauntlet (armor def 3, OR a heavy improvised fist-weapon atk 7 for a MIGHT build — Alan likely sells/crafts it)" }
+    }
+  ],
+  "designerNotes": "FLOOR 3 — the mind floor, and the first that DIRECTLY tests Alan's build identity. Two distinct threat types: the Cantor attacks his MIND (Focus pool, his deep 104 stat — survivable but bleeds if mismanaged), the Golem attacks his BODY (his fatal weakness — VIT 6). The whole floor is engineered so Alan's actual edge (INT 18 reading + FIN placement) is the ONLY efficient solution and his weakness (MIGHT/VIT) is irrelevant-to-fatal if he plays to it. DAMAGE-GATE MODEL (continued from floor 2, see that file's note — REQUIRED reading): both enemies have steep mitigation gates (Cantor x0.4 to direct hits / scales with plates standing; Golem x0.25 to non-keystone, x3 to keystone). Brute force is explicitly a LOSING line on the Golem — by design, to force the read. The wall-note in the dead alcove states both solutions plainly, REWARDING exploration (Alan's PER is weak, so a discoverable written gate is fairer than a spot-check). SEQUENCING IS THE REAL DIFFICULTY: fighting both at once with Focus drained by the Cantor right as the Golem's hammer lands = the kill scenario. A reader separates them — clear the Cantor (kill the plates / use the alcove + whistle) FIRST and safely, recover, THEN wake and keystone the Golem. DIFFICULTY CURVE: this is a genuine step up from floors 1–2 and a real death-risk floor — appropriate as floor 3, and (LOOP NOTE, coordinator-only) a natural candidate for a first death if Alan brute-forces it, after which the retained-progress re-climb teaches the system. Reward path: by floor 3's end Alan has armor (pauldron+gauntlet → physDef ~12.5+), 3–4 affinity seeds (cinder/heat-rivet/sound-shard/keystone), and his first emergent SKILL (Resonance Reading) — the progression axes from DESIGN.md start unlocking exactly as the spec wants. NO water on this floor (decided) — a deliberate resource contrast with the Cistern so players can't reuse the douse trick; the gallery's resource is the BRONZE, not water."
+}

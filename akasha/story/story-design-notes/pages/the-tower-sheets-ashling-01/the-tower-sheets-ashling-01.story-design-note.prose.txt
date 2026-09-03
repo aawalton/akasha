@@ -1,0 +1,11 @@
+{
+  "name": "Ashling",
+  "kind": "enemy",
+  "level": 1,
+  "class": "Ember-thing",
+  "attributes": {
+    "MIGHT": 7, "FINESSE": 8, "VITALITY": 5, "INTELLECT": 3,
+    "PERCEPTION": 7, "WILL": 4, "PRESENCE": 3, "LUCK": 5
+  },
+  "equipment": { "weapon": { "atk": 0 }, "armor": { "def": 0 } }
+}

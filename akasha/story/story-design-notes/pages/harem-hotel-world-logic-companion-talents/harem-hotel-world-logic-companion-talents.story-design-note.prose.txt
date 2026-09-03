@@ -1,0 +1,12 @@
+# Companion Talents
+
+Harem Hotel — world logic, subject `companion-talents`.
+
+## Rule
+
+COMPANION-TALENT DESIGN LAW (standing constraints conditioning every companion-design commit in this game; Partners-developed, Alan-ruled for the Hotel): (1) ONE TALENT, CHARACTER-CONSONANT — the talent is the soul made visible: it grows from HER nature, vocation, history, and flaw; never a stat bolted onto a character, always her character mechanized. (2) VARIETY ACROSS THE ROSTER — each companion's talent runs a DIFFERENT mechanism/axis (fate-based, mark-based, perception-based, reveal-gated, ...); no two girls' talents rhyme; the roster reads as a taxonomy of distinct souls. (3) HIDDEN + EXPERIMENTAL ACTIVATION — conditions unique per talent, CONCRETE GM-side at creation (the Aria-gap rule: a talent authored without its concrete trigger is a design defect), discovered by living the relationship, never a published checklist. (4) FIRST-FIRE PROTOCOL — the System marks the moment flatly (talent-activation window); thereafter the talent renders as that companion's bond affinity description; the affinity surface stays DARK until fire. (5) REGISTER-FROM-THE-SHEET — each companion carries a voice-her-from-THIS register block WITH explicit NO-lists; register-as-distribution applies. (6) TALENTS ARE ACCELERATORS, NEVER KEYS — separate progressions; no floor impassable for lack of a bond. (7) FULLY STATTED — every girl a real system sheet (attributes, pools, skills, her own talent); THE LINK couples to real growing stats only. (8) EXPLICITLY SEXUAL (Hotel-mandatory) — every Talent is explicitly sexual in some way: its mechanism (activation, operation, or both) is tied to sex/intimacy, not merely adjacent. The sexuality AXIS is wide by design — mechanisms may run through kinks, group sex, voyeurism, exhibitionism, denial, ritual, and the like, not only pair-intimacy. Composed WITH (1) and (2): HOW the talent is sexual expresses who she is, the variety constraint applies to the KIND of sexuality as much as the mechanism, and no two girls are sexual the same way.
+
+## Implications
+
+Every companion-design commit in this game must satisfy all eight constraints before it lands; design-audit gaps against them are blocking. • Constraint 8 composes with 1 and 2 — a talent that is sexual the same WAY as an existing roster member violates variety even if its mechanism differs. • Activation conditions live only in the design store and the companion's GM-side sheet; they are never disclosed to the player before first fire.
+

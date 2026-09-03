@@ -1,0 +1,58 @@
+{
+  "floor": 1,
+  "name": "The Threshold",
+  "theme": "A cold stone landing at the tower's base. Damp, lightless but for a faint glow further in. The air tastes of old ash. One iron door, ajar.",
+  "exits": ["ascending stair (sealed until the floor is cleared)"],
+  "rooms": [
+    {
+      "id": "threshold-landing",
+      "name": "The Landing (wake point)",
+      "desc": "The cold, near-lightless room Alan woke in. Old ash and grit underfoot, faintly damp stone, the great vertical dark of the shaft above. One iron door, ajar, to the chamber.",
+      "searchables": [
+        { "thing": "rusted iron bar", "status": "TAKEN (turn 1, +3 search)", "use": "improvised weapon, +4 Atk", "note": "the one genuinely useful find here — the search prize" },
+        { "thing": "charcoaled timber / fallen beam", "use": "none — crumbles to charcoal at a touch", "note": "where the bar was wedged" },
+        { "thing": "brittle bowl fragment", "use": "none — shatters", "note": "hints the landing was once inhabited" },
+        { "thing": "drifted grey ash + grit", "use": "throwable handful (eye/distraction, low intent unless aimed cleverly)" }
+      ],
+      "water": "stone is damp from seep/condensation — NOT pooled. Not enough to douse anything. No standing water on this floor.",
+      "exhausted": "A second search of the landing finds nothing better than the bar. Do not let it be farmed.",
+      "otherExits": "none — only the iron door to the chamber"
+    },
+    {
+      "id": "ember-chamber",
+      "name": "The Ember Chamber",
+      "desc": "Low round chamber past the iron door, warmed by the Ashling's core. The Ashling crouches over a scatter of blackened bone in the center. Far wall: a stair climbing to a seamless sealed slab — the way up.",
+      "searchables": [
+        { "thing": "blackened bone scatter (center, under the Ashling)", "use": "mostly brittle; ONE intact long-bone = a poor club, +2 Atk (worse than the bar)", "note": "reaching it means closing on the Ashling" },
+        { "thing": "fallen masonry chunks (along the walls)", "use": "cover; fist-sized pieces are throwable rubble (ranged improvised, FINESSE play)" },
+        { "thing": "the sealed stair-slab (far wall)", "use": "the exit, seam-sealed flush. Will not move now. An INT/PER read tells him the seal is tied to the room's 'lock' — the creature. Clear the floor and it opens.", "note": "no keyhole, no lever" }
+      ],
+      "water": "none in the chamber. The 'smother/douse the core' instant-finish is NOT freely available here — he'd have to manufacture a source or a method.",
+      "light": "the core itself; everything past the Ashling is lit by it",
+      "otherExits": "none — sealed stair + the iron door he came through"
+    }
+  ],
+  "encounters": [
+    {
+      "id": "ashling-01",
+      "trigger": "first movement past the iron door",
+      "enemy": {
+        "name": "Ashling",
+        "kind": "enemy",
+        "level": 1,
+        "class": "Ember-thing",
+        "attributes": {
+          "MIGHT": 7, "FINESSE": 8, "VITALITY": 5, "INTELLECT": 3,
+          "PERCEPTION": 7, "WILL": 4, "PRESENCE": 3, "LUCK": 5
+        },
+        "equipment": { "weapon": { "atk": 0 }, "armor": { "def": 0 } },
+        "baseDamage": 8,
+        "intentTypical": 2,
+        "readableTrait": "A knot of living ember in the shape of a hunched animal. Its body is loose ash held together around a single bright CORE pulsing at the chest — the only solid thing in it. Strikes that scatter the ash do little; the core is the kill. A reader who targets the core (PERCEPTION/INTELLECT play) earns a high intent score. Water/smothering the core = instant high-intent finish if available.",
+        "hpNote": "computed by engine: VIT8+MIGHT2 = 54 HP"
+      },
+      "reward": { "xp": 60, "drop": "a warm fist-sized cinder (the cooled core) — first crafting/affinity seed" }
+    }
+  ],
+  "designerNotes": "First fight: winnable for a mind-heavy/physically-weak build. Brute force works but is mediocre; reading the core (intent 7+) ends it fast. Teaches the intent mechanic without a fail-state trap. Stakes are real (Ashling can chunk ~25-30/hit) but Alan out-HPs and out-damages it if he engages the core."
+}

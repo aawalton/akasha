@@ -1,0 +1,52 @@
+{
+  "_status": "DRAFT — needs calibration with Alan / the personas before canon",
+  "name": "Ali",
+  "kind": "ally",
+  "role": "Learn — the support/utility mind (player-character, fights beside Alan)",
+  "level": 1,
+  "xp": 0,
+  "xpToNext": 100,
+  "class": "Lorebinder (tentative) — support/utility caster-analyst; learns fast, buffs, debuffs, and turns knowledge into leverage",
+  "classNote": "Tentative. Ali is a SECOND mind — but where Alan is a glass cannon who reads weaknesses, Ali is a sturdier scholar who APPLIES knowledge: skills, support effects, identifying the unknown. The Learn axis embodied. Calibrate against the real persona.",
+  "rollMode": "2d10",
+  "attributes": {
+    "MIGHT": 8,
+    "FINESSE": 11,
+    "VITALITY": 10,
+    "INTELLECT": 17,
+    "PERCEPTION": 15,
+    "WILL": 14,
+    "PRESENCE": 12,
+    "LUCK": 11
+  },
+  "attributePointsUnspent": 0,
+  "skills": [],
+  "titles": [],
+  "affinities": [],
+  "equipment": { "weapon": null, "armor": null, "items": [] },
+  "traits": [
+    {
+      "id": "fast-study",
+      "name": "Fast Study",
+      "effect": "INTELLECT 17 + the Learn axis — Ali levels skills by use faster than anyone, and can identify unknown enemies/items/mechanics on a read. The party's analyst and skill-engine."
+    },
+    {
+      "id": "true-observer",
+      "name": "True Observer",
+      "effect": "PERCEPTION 15 — actually NOTICES (ambushes, hidden detail, traps), the exact opposite of Alan's Sensitivity-not-Observance. She spots; he reasons. Together they cover the whole detection space."
+    },
+    {
+      "id": "support-caster",
+      "name": "Support Lattice",
+      "effect": "Focus 96 (deepest mental pool in the party) — sustains buffs, debuffs, and utility effects across a long fight without running dry. Force-multiplies the others rather than out-damaging them."
+    },
+    {
+      "id": "steadier-glass",
+      "name": "Steadier Glass",
+      "effect": "VIT 10 / HP 96 — still a caster, but meaningfully tougher than Alan (70). Can take a stray hit Alan couldn't. Not a frontliner; that's Aelwyn."
+    }
+  ],
+  "derived_preview": { "hpMax": 96, "stamMax": 62, "focusMax": 96, "initiative": 26, "physAtk": 23, "physDef": 10.5, "mentDef": 29.5 },
+  "complementNote": "Complements Alan's mind WITHOUT duplicating it. Alan = peak burst-reader who finds the one weakness; Ali = broad applied knowledge who identifies the unknown, notices what Alan misses (PER 15 vs his 11), and sustains support over time (Focus 96). She closes Alan's perception gap and adds the buff/debuff/utility layer his pure-burst build lacks. Mid mentDef 29.5 also gives the party a second mind to share a Cantor-type's mental pressure. With Aelwyn fronting and Aura flexing, Ali is the back-line force-multiplier — the full four-axis party of DESIGN.md.",
+  "_derivedHint": "All derived stats computed by engine/engine.ts from attributes + equipment. derived_preview is a non-authoritative convenience snapshot."
+}
