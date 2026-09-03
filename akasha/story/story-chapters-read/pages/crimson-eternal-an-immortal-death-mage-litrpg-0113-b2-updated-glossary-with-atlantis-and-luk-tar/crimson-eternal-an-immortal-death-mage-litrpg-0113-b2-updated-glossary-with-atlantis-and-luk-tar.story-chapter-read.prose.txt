@@ -1,0 +1,208 @@
+Vortel
+
+Description: The World of Vortel is a world where one tenth of the population will be born with a special ability. These ability users are classified in two different ways. Special Class Ability Holders, or SCAH, who have a unique ability that no one else has ever had before, and Regular Ability Holders, or RAH.
+
+The abilities come in various different classifications:
+
+Physical: Physical Ability Holders gain an increase to their body in some physical manner such as superstrength or speed.
+
+Magical: Magical Ability Holders gain the ability to use one magical element and gain a mana pool to go along with the element.
+
+Special: Special Ability Holders are the in between. The abilities that cannot be classified in the other two classifications but are still abilities. These can include a hybrid of Physical and Magical, or neither. Some examples include the ability to use a single powerful attack, the ability to set yourself on fire but feel no pain and take no damage, or the ability to nullify abilities. But these abilities do not give the user any mana to use.
+
+There is only one continent on Vortel as all of the others have been destroyed over the years through war, leading to the Great Acclaims being established, banning the use of strategic abilities and strictly enforcing it within both nations to lock down any person with a strategic level ability and restrict the use of their ability.
+
+Aran
+
+Description: The continent of Aran houses the Albarian and Arterian nations, both of whom have been at war for as long as either side can remember. The Albarians want the gold and metals that the Arterians have, and the Arterians want the fertile land that the Albarians have. And neither are willing to share with their eternal enemy.
+
+Albaria
+
+Description: The Albarian nation treats its soldiers generally well, but if a soldier has a bad officer in charge of them they will not have a good life. The people flourish with food and water, but are lacking in the technology department as opposed to Artaria.
+
+Ruled by a council of governors with a political emperor figurehead who has little power.
+
+Ability Holders are required to enlist into the military within four years of graduating from lower education, by the time they turn 22 years old. They are also required to attend special classes to help them learn how to control their ability during their education.
+
+Albaria has a smaller population and less land, with fewer Ability Holders. However, their Ability Holders often end up being higher quality than the Arterian Ability Holders.
+
+Trade from Arteria is illegal.
+
+Military Rankings:
+
+Private
+
+Corporal – Can directly command during battle up to 3 subordinates.
+
+Sergeant – Can directly command during battle up to 10 subordinates.
+
+Warrant Officer – Can directly command during battle up to 20 subordinates.
+
+Second Lieutenant – Can directly command during battle up to 50 subordinates.
+
+First Lieutenant – Can directly command during battle up to 100 subordinates.
+
+Captain – Can directly command during battle up to 200 subordinates.
+
+Major – Can directly command during battle up to 500 subordinates.
+
+Lieutenant Colonel – Can directly command during battle up to 1000 subordinates.
+
+Colonel – Can directly command during battle up to 5000 subordinates.
+
+Major General – Can directly command during battle up to 10000 subordinates.
+
+Lieutenant General – Can directly command during battle up to 20000 subordinates.
+
+General – 9 Generals in the army
+
+Arteria
+
+Description: The Arterian nation treats its soldiers poorly unless they are nobles or Ability Holders. The people often are lacking in food and water, albeit still with enough to live off of even if it doesn’t necessarily taste good, but have a higher level of technology than the Albarians have.
+
+Ruled by an Emperor with absolute power.
+
+Ability Holders are required to enlist into the military right away after graduating from lower education. They are also required to attend special classes to teach them how to control and fight with their ability during their education.
+
+Artaria has a larger population and more land, with more Ability Holders. However, their Ability Holders often end up being lower quality than the Albarian Ability Holders.
+
+Trade from Albaria is illegal.
+
+Military Rankings:
+
+Private
+
+Corporal
+
+Sergeant
+
+Warrant Officer
+
+Second Lieutenant
+
+First Lieutenant
+
+Captain
+
+Knight
+
+Major
+
+Colonel
+
+General – 4 Generals in the army
+
+Emperor and the rest of the Royal Family
+
+Eternal Dynasty
+
+Description: The largest commerce network and empire in the entire universe. It is a completely neutral force that does not directly interfere with other powers no matter what. The Dynasty is ruled by a single Emperor who has absolute power, however, he rarely interferes with his subjects, merely directing trade and managing the largest business deals the Dynasty holds. While taking a large chunk of profit from all the merchants working under the Dynasty’s name and his protection.
+
+The Dynasty spans over dozens of planets across the universe, with connections to nearly every single important nation.
+
+Military Rankings/Social Structure:
+
+Zero Star Merchant – Initial position for all new merchants to the Dynasty. It is also the grunt position that is used in the military as the base soldier.
+
+One Star Merchant – The One Star Merchant has authority over all merchants with fewer stars than they have. They also act as lower level officers within the military.
+
+Two Star Merchant – The Two Star Merchant has authority over all merchants with fewer stars than they have. They also act as lower level officers within the military.
+
+Three Star Merchant – The Three Star Merchant has authority over all merchants with fewer stars than they have. They also act as lower level officers within the military.
+
+Four Star Merchant – The Four Star Merchant has authority over all merchants with fewer stars than they have. They also act as higher level officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Five Star Merchant – The Five Star Merchant has authority over all merchants with fewer stars than they have. They also act as higher level officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Six Star Merchant – The Six Star Merchant has authority over all merchants with fewer stars than they have. They also act as higher level officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Seven Star Merchant – The Seven Star Merchant has authority over all merchants with fewer stars than they have. They also act as top commanding officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Eight Star Merchant – The Eight Star Merchant has authority over all merchants with fewer stars than they have. They also act as top commanding officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits. They are also not required to report for military duty if they are directly contracted with an important business partner.
+
+Nine Star Merchant – The Nine Star Merchant has authority over all merchants with fewer stars than they have. They also act as members of the war council within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits. They are also not required to report for military duty if they are directly contracted with an important business partner.
+
+Ten Star Merchant – The Ten Star Merchant has authority over all merchants with fewer stars than they have. They also act as the top generals within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits. They are also not required to report for military duty if they are directly contracted with an important business partner.
+
+Emperor – He has absolute power over the entire nation and its citizens.
+
+Unlike many other nations, the Eternal Dynasty’s military is stylized based entirely off of the ranking of the merchant in question, with one of the requirements of each Star Rank being combat capability and strategic thinking.
+
+Luk’tar
+
+Description: A largely crafter dominated world ruled by six clans who are often at a cold war with each other until recently when it finally broke out into a full war. The world is covered mostly in forests on the surface, a high amount of humidity with vast oceans and lakes, Grand Trees that stretch higher into the sky than people can see, and six different Gates to other worlds.
+
+Military Rankings:
+
+Thrall: New to everything and has a lot to learn.
+
+Huskarl: Lowest ranked officer.
+
+Vanir: Middle ranked officer.
+
+Merkismathr: High ranking officer chosen by the members of the Council.
+
+Stallari: Leading general of the military chosen by the Clan Leader.
+
+Council Members
+
+Clan Leader
+
+Clans:
+
+Byrne: The clan focused on military development with very little manpower in terms of their own military. Their Gate is connected to the Eternal Dynasty on the Alpha Tier world Eternus.
+
+Sullivan: The clan focused on artifact development with a strong focus in their military’s manpower. Their Gate is connected to the neutral Beta Tier world called Atlantis.
+
+Gallagher: The clan focused on industrial structures with the most powerful defenses of the clans in terms of building strength with a manpower greater that is the second weakest of the clans. Their Gate is connected to the Crimson Flag, with ties to War, the Horseman of the Apocalypse, on the Alpha Tier planet Conquere. (pronounced con-q-where)
+
+Nolan: The clan focused on enchantment with a strong focus on mages within their military. Their Gate is connected to the Arcadian Society on the Alpha Tier world Arc.
+
+Keane: The clan focused on potion development and alchemy also with a strong focus on mages within their military. Their Gate is connected to the Arcadian Society on the Beta Tier world Raja.
+
+Sorrel: The clan focused on bladesmithing with a smaller military filled with more powerful officers. Their Gate is connected to the Grand Silvanian Empire on the Alpha Tier world Silverfall.
+
+Atlantis
+
+Description: A world ruled by a single absolute monarchy, with a King or Queen ruling over it. The monarchs have absolute power, however, unlike many other nations, the rulers of Atlantis are known to treat their people fairly. Atlantis is largely known as one of the greater but not greatest aquatic powers of the universe. However, it is still overshadowed by the Eternal Dynasty. The other nation of which’s capital planet is an ocean world. They make their money through sending out mercenaries to other nations and acting as a tourist planet, where tourists may come in from other worlds and enjoy the underwater cities known around the universe for their beauty. Meanwhile some hunters often come to the world simply for the Grand Ocean, whether to enter it or to see it.
+
+Their middle name is their family name. And each prince and princess inherits one mercenary company based on their surname.
+
+Military Rankings:
+
+Marine and Sailor: The bottom two ranks of the Atlantis military. The marines are the baseline grunts of the military meant for direct combat, whereas the sailors are the baseline grunts of the military meant for ship combat, whether submarine or above water.
+
+Petty Sailor/Marine Officer: Officers who hold various specialized roles on a ship and amongst a crew of marines, such as gunnery or navigation.
+
+Chief Petty Sailor/Marine Officer: The highest-ranking enlisted member on a ship or in a crew of marines, responsible for the crew's discipline and morale.
+
+Ensign: A middle-ranking officer that can be stationed either as a sailor or a marine.
+
+Lieutenant: A middle-ranking officer higher than Ensign that can be stationed either as a sailor or a marine.
+
+Commander: Second-in-command on a ship or in a squadron of marines, responsible for assisting the captain and managing ship and squadron operations.
+
+Captain: The commanding officer of a single ship in the Atlantean navy or of a single league of marines. They are responsible for the ship or league's crew and their mission.
+
+Commodore: A senior officer in charge of a fleet of ships or a legion of marines. They are responsible for planning and executing naval missions.
+
+Admiral: Second highest rank of the entire navy of Atlantis, responsible for leading naval operations.
+
+High Admiral: The highest-ranking navy officer in Atlantis, responsible for overseeing the entire navy and making strategic decisions in times of war.
+
+Princes and Princesses: They have control over the navy on par with an Admiral unless they are the First Princess or First Prince, at which point they have authority directly between an Admiral and a High Admiral.
+
+King and Queen: They have absolute control over the entirety of Atlantis and the military.
+
+Royal Mercenary Companies:
+
+Azurion Company: The company currently belonging to Nerissa Atlantus Azurion, Ninth in line for the Throne of Atlantis, and Fifth Princess. She is eight years old and therefore doesn’t manage the company herself. The Azurion Company focuses largely on mercenaries sent out for use by other companies on Atlanta itself.
+
+Caelum Company: The company currently belonging to Selenia Atlantus Caelum, Eighth in line for the Throne of Atlantis, and Fourth Princess. She is fifteen years old and only just started managing her company herself with some help. The Caelum Company focuses largely on mercenaries sent out for use by other companies on other planets.
+
+Althea Company: The company currently belonging to Azura Atlantus Althea, Seventh in line for the Throne of Atlantis, and Fourth Prince. He is one hundred and fifty years old. The Althea Company focuses on mercenaries sent out to support other mercenaries and companies in combat but not directly in the combat themselves and are largely made up of support and healer Ability Holders.
+
+Aquarius Company: The company currently belonging to Koralis Altantus Aquarius, Sixth in line for the Throne of Atlantis, and Third Princess. She is one hundred and sixty years old. The Aquarius Company focuses on mercenaries sent out to cities on Atlantis.
+
+Neptune Company: The company currently belonging to Typhon Atlantus Neptune, Fifth in line for the Throne of Atlantis, and Third Prince. He is one hundred and seventy-five years old. The Neptune Company focuses on mercenaries meant to defend the Gates and keep spies from entering Atlantis.
+
