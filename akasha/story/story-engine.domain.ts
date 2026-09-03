@@ -10,6 +10,7 @@ export const storyEngine = {
     "page-type/story-played",
     "page-type/story-turn-played",
     "page-type/world",
+    "domain/world-mechanics",
     "workspace-package/story-engine-core",
     "workspace-package/story-ui",
     "workspace-package/story-tower-core",

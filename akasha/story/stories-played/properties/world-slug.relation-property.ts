@@ -8,6 +8,6 @@ export const worldSlug = {
   pageTypeSlug: "relation-property",
   slug: "world-slug",
   propertySlug: "world-slug",
-  definition: "the world a story is of",
+  definition: "the world something is of",
   targetPageTypeSlug: "page-type/world",
 } as const satisfies RelationProperty
