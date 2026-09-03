@@ -1,17 +1,3 @@
----
-id: a3dc944e-e45f-5f43-ba5f-63d68e541a97
-page-type-slug: story-chapter-royal-road
-title: "Chapter 5: Connection"
-slug: 0005-chapter-5-connection
-partOf: library-system-reset-overdue-book-four-stubbed
-position: 5
-ownLength: 2990
-unit: words
-publishedAt: 2023-10-24
-link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1384330/chapter-5-connection"
-royalRoadId: "1384330"
----
-
 The overwhelming sense of disorientation finally abated. Quinn was relieved to find that she hadn't actually passed out, though the pain was so intense she thought she might have. Slowly, she cracked one eye open. When nothing happened, when no vertigo hit her, when nothing assaulted her senses again, she carefully opened the second.
 
 A simple tree stood in front of her. She was on all fours to stop herself from falling all the way down. Lynx squatted next to her, a look of panic on his face.
@@ -202,28 +188,3 @@ Quinn nodded, fighting the urge to laugh at his finger wiggle while trying to pr
 
 "You show me? Are they like, have they gotten big? Are they like a dog now?" She tried to coax the answer out of him, not entirely certain why he didn’t just tell her everything at once.
 
-Lynx just looked at her, cracked his neck a bit, and sounded slightly uneasy when he finally spoke. "Well, the smaller ones are. See, it's been a few hundred years since I could take care of them properly, without the golems to help me it doesn't matter how well I can technically multitask."
-
-"Golems?" Quinn said, trying to stop her mind from reeling.
-
-"Oh, sorry," Lynx batted that away like it didn't matter. "I'll get to that. We need to go take care of the bookworms and you're not going to like how we're gonna have to do that."
-
-"And just how are we gonna have to take care of bookworms?"
-
-"Well, we're gonna have to kill the really big ones. And when I say we, I mean you, because I'm technically incorporeal and I can't really help at all."
-
-Quinn stopped because she was sure she'd heard him crack his neck earlier, plus his hand against hers had felt smokey but real. "You said 'technically incorporeal.' What do you mean by 'technically'? Does that mean you can sometimes be corporeal?"
-
-Lynx sighed. "Yes, but it takes a lot of effort. And when I say effort, I mean power, which the Library doesn't have to spare right now. So pulling on any extra power will drain the Library more and thus quicken its demise. Which, until we get everything sorted, is not an option. Now, follow me."
-
-Quinn followed him through the dark cavern, past all the beautiful, dimly mint-green glowing branches and veins that suffused the entirety of the room she'd been in for the last... well ever since she'd arrived.
-
-She had no idea how long that had been. They went up a spiral staircase that didn't seem to want to end. It was probably two stories? Maybe three stories? She had never been very good at judging that sort of thing. And there were no landings to give her definitive stopping points.
-
-And then they finally made it up to the top.
-
-Quinn gasped.
-
-The Library spread out in front of her. She lost all ability to articulate anything at all. It was huge. It was massive.
-
-And it was totally wrecked.

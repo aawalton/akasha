@@ -1,17 +1,3 @@
----
-id: af9ac0f3-170f-508a-ac51-7f4af5bb0b2a
-page-type-slug: story-chapter-royal-road
-title: "[Start of Book Two] Chapter 57: Calm Waters"
-slug: 0007-start-of-book-two-chapter-57-calm-waters
-partOf: library-system-reset-overdue-book-four-stubbed
-position: 7
-ownLength: 2830
-unit: words
-publishedAt: 2024-01-04
-link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1465526/start-of-book-two-chapter-57-calm-waters"
-royalRoadId: "1465526"
----
-
 A partially stabilized Library meant it no longer shook like a wet dog when it needed Quinn to do something. Not that her vertigo went away entirely, just that it wasn't induced by the Library throwing her around.
 
 Quinn stretched, feeling nicely rested after the last few days. She pulled on a pair of comfortable pants - like those leggings with pockets that looked like slacks she'd always admired. Business casual on the outside, soft and stretchy on their deceptive little comfort side. Her little white button-down blouse, and a loose bow that was sort of like a tie around her neck came next. She could have sworn she'd seen librarian uniforms like this. Either way, she was all about ease of movement and comfort. Next, she grabbed a little badge and popped it on the left side of her chest. It simply read Quinn. It was much easier than introducing herself as a librarian; she liked just being a big part of the whole.
@@ -212,18 +198,3 @@ Milaro nodded, "I get it. And I'm really just teasing you, Quinn. You're doing o
 
 "You just have to keep an eye on him." Milaro said, his voice still low. "Then I'll talk to Hirish and Siliqua and...
 
-Lynx cut whatever else he was going to say off. "Come here. It's time." There was so much excitement in Lynx's voice, and he couldn't stop the big grin on his face and Quinn and Milaro moved over to where he stood.
-
-"You open them," he said to Quinn. His excitement must have been contagious, because Quinn felt positively giddy. Now they could finally really work at fixing the damned filtration system. If there was one thing she couldn't wait for, it was getting to see the Library in its full and powerful glory.
-
-One by one, Quinn opened the satchels.
-
-She pulled out all four books, very slowly and carefully. Almost reverently even. They weren't slimy to touch anymore. They were just beautiful
-
-Laws of Chaos, Upside Down, Condition: Excellent
-
-Chaos Theory, Myth and LegendCondition: Good
-
-Reality Combined, Chaos Fever DreamCondition: Good
-
-But when she placed Mastering Your Reality Through Chaos down on the check-in desk. It was like the stitching had disintegrated and the whole thing fell apart.

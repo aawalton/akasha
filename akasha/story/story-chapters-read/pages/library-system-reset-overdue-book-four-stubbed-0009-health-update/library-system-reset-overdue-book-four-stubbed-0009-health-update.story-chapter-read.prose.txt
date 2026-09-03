@@ -1,17 +1,3 @@
----
-id: dfc6d514-a768-5ccc-8596-0f31052369e5
-page-type-slug: story-chapter-royal-road
-title: "Health Update"
-slug: 0009-health-update
-partOf: library-system-reset-overdue-book-four-stubbed
-position: 9
-ownLength: 162
-unit: words
-publishedAt: 2025-10-13
-link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2674662/health-update"
-royalRoadId: "2674662"
----
-
 Hey Everyone.
 
 I will be posting the last chapters of book 5 over the next week or so.

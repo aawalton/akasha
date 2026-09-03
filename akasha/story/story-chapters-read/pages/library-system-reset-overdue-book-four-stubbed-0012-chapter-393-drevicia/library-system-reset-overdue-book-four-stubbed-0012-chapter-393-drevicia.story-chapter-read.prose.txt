@@ -1,17 +1,3 @@
----
-id: 1dd5c5b3-8b81-5d3f-8835-c78d0b6ae640
-page-type-slug: story-chapter-royal-road
-title: "Chapter 393: Drevicia"
-slug: 0012-chapter-393-drevicia
-partOf: library-system-reset-overdue-book-four-stubbed
-position: 12
-ownLength: 2184
-unit: words
-publishedAt: 2026-04-23
-link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/3307911/chapter-393-drevicia"
-royalRoadId: "3307911"
----
-
 Quinn wasn’t sure what she was supposed to feel as his mind snapped and pushed her out of it.
 
 Dravishk’s eyes rolled back in his head as blood began to trickle from his eyes and ears at first, before flooding from every single orifice in his body. The spines and scales began to detach, or perhaps it was better said that they decayed, sliding down in a putrid heap of melting parts once they mingled with what appeared to be acidic blood.

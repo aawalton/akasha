@@ -1,17 +1,3 @@
----
-id: 895adbdd-ff80-5676-b101-08a3b0bd42f7
-page-type-slug: story-chapter-royal-road
-title: "Chapter 265: Nonetheless [Start Book 5]"
-slug: 0008-chapter-265-nonetheless-start-book-5
-partOf: library-system-reset-overdue-book-four-stubbed
-position: 8
-ownLength: 2207
-unit: words
-publishedAt: 2025-02-25
-link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2088102/chapter-265-nonetheless-start-book-5"
-royalRoadId: "2088102"
----
-
 Quiet tension permeated the hospital floors, undercut by the scent of lemon and bleach. The hospital wing was less busy now that half the injured Salosier had left it. Quinn’s wounds took no time at all to heal, but the same couldn’t be said of Drukala’s dragon fired face. Nor Geneva’s wings. Apparently the gossamer strands that made up the wings were difficult membranes to regrow.
 
 Or something.

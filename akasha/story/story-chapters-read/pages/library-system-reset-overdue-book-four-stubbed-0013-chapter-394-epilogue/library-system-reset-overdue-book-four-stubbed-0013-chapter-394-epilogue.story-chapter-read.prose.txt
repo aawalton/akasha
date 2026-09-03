@@ -1,17 +1,3 @@
----
-id: 5953c904-1524-59b3-b95c-0ee348011460
-page-type-slug: story-chapter-royal-road
-title: "Chapter 394: Epilogue"
-slug: 0013-chapter-394-epilogue
-partOf: library-system-reset-overdue-book-four-stubbed
-position: 13
-ownLength: 1442
-unit: words
-publishedAt: 2026-04-23
-link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/3307921/chapter-394-epilogue"
-royalRoadId: "3307921"
----
-
 Aftermath
 
 12 months later

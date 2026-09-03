@@ -1,17 +1,3 @@
----
-id: 0c323b69-fd38-51af-802a-a649bfb68099
-page-type-slug: story-chapter-royal-road
-title: "Chapter 331: Cacophany"
-slug: 0010-chapter-331-cacophany
-partOf: library-system-reset-overdue-book-four-stubbed
-position: 10
-ownLength: 2228
-unit: words
-publishedAt: 2025-10-24
-link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2701203/chapter-331-cacophany"
-royalRoadId: "2701203"
----
-
 Quinn’s first response to the statement was sheer relief. It rushed through her, sending adrenaline racing through her veins. Then she took a breath, took stock of the situation, and calmed herself down. It took real effort not to just jump up into a celebration dance.
 
 “How exactly do you mean you think you’ve figured out how to restore Ashiron?” she asked, pacing her words slowly and clearly so as not to get caught up in the excitement until she understood exactly what it meant.

@@ -1,17 +1,3 @@
----
-id: 52b122ea-089a-5d16-b328-7f13e4d94a5c
-page-type-slug: story-chapter-royal-road
-title: "Chapter 332: Oddly Silent"
-slug: 0011-chapter-332-oddly-silent
-partOf: library-system-reset-overdue-book-four-stubbed
-position: 11
-ownLength: 2045
-unit: words
-publishedAt: 2025-10-24
-link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2701252/chapter-332-oddly-silent"
-royalRoadId: "2701252"
----
-
 Quinn knew she should have known better, and she swore she did. Still, being lulled into a false sense of security made things so easy. Honestly, she shouldn’t have expected a second branch opening to go off without a hitch, especially not making it two in a row. No matter what she did, she couldn’t learn to not tempt fate.
 
 The note of the horn blaring rose very slightly, just a fraction, and what began as a half-funny cacophony was sure to develop into a bleeding ear pain if they couldn’t find it and shut it down. Except Quinn wasn’t entirely sure where to start. She looked around, glancing at everybody else who stood with her, staring in auditory pain at the Library’s new branch.
