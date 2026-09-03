@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const testingAndTheSeed = {
   id: "01a06594-c685-7002-83e2-32286a83802a",
