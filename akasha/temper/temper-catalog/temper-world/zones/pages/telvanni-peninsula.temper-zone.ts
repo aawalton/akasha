@@ -1,7 +1,7 @@
 import type { TemperZone } from "../temper-zone.page-type.ts"
 
 export const telvanniPeninsula = {
-  id: "01a05fc5-1696-7393-bb5b-af787bb4fdce",
+  id: "019e17d9-43a1-7d0a-aef5-a83b28bee512",
   pageTypeSlug: "temper-zone",
   slug: "telvanni-peninsula",
   title: "Telvanni Peninsula",

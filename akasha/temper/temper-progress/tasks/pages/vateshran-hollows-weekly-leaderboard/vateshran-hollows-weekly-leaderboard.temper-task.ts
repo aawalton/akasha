@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const vateshranHollowsWeeklyLeaderboard = {
-  id: "01a05fd3-698c-713b-97e9-9d3e1c51e36f",
+  id: "019db533-f381-7537-ae93-c60ca6656758",
   pageTypeSlug: "temper-task",
   slug: "vateshran-hollows-weekly-leaderboard",
   title: "Vateshran Hollows Weekly Leaderboard",

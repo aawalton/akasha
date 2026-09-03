@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const legerdemainSkillLine = {
-  id: "01a05fd3-698a-7a2e-8bb9-c12cebb34d0b",
+  id: "019db533-f381-75a0-8217-44d59f3c01b9",
   pageTypeSlug: "temper-task",
   slug: "legerdemain-skill-line",
   title: "Legerdemain Skill Line",

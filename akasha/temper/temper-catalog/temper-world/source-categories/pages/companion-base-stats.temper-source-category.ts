@@ -1,7 +1,7 @@
 import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
 
 export const companionBaseStats = {
-  id: "01a05fc5-169b-7e62-9dfc-371bfc348192",
+  id: "019e3104-cc12-7eb4-b431-8a8a818bc34b",
   pageTypeSlug: "temper-source-category",
   slug: "companion-base-stats",
   title: "Companion Base Stats",

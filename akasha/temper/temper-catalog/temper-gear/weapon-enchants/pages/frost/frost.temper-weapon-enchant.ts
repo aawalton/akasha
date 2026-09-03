@@ -1,7 +1,7 @@
 import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.ts"
 
 export const frost = {
-  id: "01a05fd8-a45b-7d5b-87d7-db0ee2f630a6",
+  id: "019e5c0d-dcf7-789c-8855-e681d8ae7b76",
   pageTypeSlug: "temper-weapon-enchant",
   slug: "frost",
   title: "Frost",

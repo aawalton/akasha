@@ -1,7 +1,7 @@
 import type { TemperTargetScope } from "../temper-target-scope.page-type.ts"
 
 export const area = {
-  id: "01a05fc5-c929-7eb1-8eaa-3306b7fb0f6a",
+  id: "019e5a4f-78ef-7c5d-82e9-43cf36e42ed3",
   pageTypeSlug: "temper-target-scope",
   slug: "area",
   title: "Area",

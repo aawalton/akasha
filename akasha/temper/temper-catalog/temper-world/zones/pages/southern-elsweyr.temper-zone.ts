@@ -1,7 +1,7 @@
 import type { TemperZone } from "../temper-zone.page-type.ts"
 
 export const southernElsweyr = {
-  id: "01a05fc5-1696-7978-89c3-e7b8f5e7469b",
+  id: "019e17d9-4ce8-70c4-bee3-81da69497303",
   pageTypeSlug: "temper-zone",
   slug: "southern-elsweyr",
   title: "Southern Elsweyr",

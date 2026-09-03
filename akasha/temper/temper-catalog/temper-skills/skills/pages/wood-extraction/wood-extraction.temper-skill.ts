@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const woodExtraction = {
-  id: "01a05fd2-1e99-7c92-a3a1-0d0c8ab44626",
+  id: "019e6224-ccb6-7168-a599-fce5e9cada0c",
   pageTypeSlug: "temper-skill",
   slug: "wood-extraction",
   title: "Wood Extraction",

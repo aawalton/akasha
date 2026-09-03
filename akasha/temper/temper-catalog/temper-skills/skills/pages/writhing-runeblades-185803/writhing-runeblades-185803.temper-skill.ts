@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const writhingRuneblades185803 = {
-  id: "01a05fd2-1e9b-7c78-a6b4-376742475bf2",
+  id: "019e6f53-aa08-7020-928e-92c1b4f6d6fb",
   pageTypeSlug: "temper-skill",
   slug: "writhing-runeblades-185803",
   title: "Writhing Runeblades",

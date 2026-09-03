@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const goldenPursuitsStraightToTheCrate = {
-  id: "01a05fd3-6989-7e66-9a0e-0a01381b9dae",
+  id: "019fc2a9-cc9f-77d1-8d92-3d4c8bf09b6c",
   pageTypeSlug: "temper-task",
   slug: "golden-pursuits-straight-to-the-crate",
   title: "Golden Pursuits — Straight to the Crate",

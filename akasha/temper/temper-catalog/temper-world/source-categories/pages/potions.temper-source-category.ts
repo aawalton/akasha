@@ -1,7 +1,7 @@
 import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
 
 export const potions = {
-  id: "01a05fc5-169e-7b68-a5ad-ac9ecbc4a2b1",
+  id: "019e3104-cc06-7c6c-b7df-b53c46194857",
   pageTypeSlug: "temper-source-category",
   slug: "potions",
   title: "Potions",

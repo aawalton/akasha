@@ -1,7 +1,7 @@
 import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
 
 export const weapons = {
-  id: "01a05fc5-169e-7f56-94d1-8d61abe44959",
+  id: "019e3104-cc02-77ac-918d-35ca3681139c",
   pageTypeSlug: "temper-source-category",
   slug: "weapons",
   title: "Weapons",

@@ -1,7 +1,7 @@
 import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
 
 export const skills = {
-  id: "01a05fc5-169e-7cb8-8bed-80fa250d07e7",
+  id: "019e3104-cc0b-78bd-ab6e-341ad9f44cab",
   pageTypeSlug: "temper-source-category",
   slug: "skills",
   title: "Skills",

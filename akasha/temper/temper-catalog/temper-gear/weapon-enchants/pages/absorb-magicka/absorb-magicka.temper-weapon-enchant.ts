@@ -1,7 +1,7 @@
 import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.ts"
 
 export const absorbMagicka = {
-  id: "01a05fd8-a459-7973-9773-9af4546d9b4f",
+  id: "019e5c0d-dcee-75cd-adc6-d61e688bd9d5",
   pageTypeSlug: "temper-weapon-enchant",
   slug: "absorb-magicka",
   title: "Absorb Magicka",

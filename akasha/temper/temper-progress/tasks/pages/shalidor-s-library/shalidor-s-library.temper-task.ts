@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const shalidorSLibrary = {
-  id: "01a05fd3-698b-7504-81b9-962fdb77af4f",
+  id: "019e6a7d-5015-7d30-9bd6-ce0f15540ea0",
   pageTypeSlug: "temper-task",
   slug: "shalidor-s-library",
   title: "Shalidor's Library",

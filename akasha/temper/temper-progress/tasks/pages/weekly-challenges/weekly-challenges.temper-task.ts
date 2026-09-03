@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const weeklyChallenges = {
-  id: "01a05fd3-698c-77c3-8f0b-d92ffe8d06b8",
+  id: "019f9420-7fe5-7a60-8791-99f0d72cd040",
   pageTypeSlug: "temper-task",
   slug: "weekly-challenges",
   title: "Weekly Challenges",

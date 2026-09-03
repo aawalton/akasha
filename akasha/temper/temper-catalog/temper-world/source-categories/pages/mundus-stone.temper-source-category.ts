@@ -1,7 +1,7 @@
 import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
 
 export const mundusStone = {
-  id: "01a05fc5-169d-7432-9a34-6473248a17ad",
+  id: "019e3104-cc09-72af-8b30-66d811fbaf36",
   pageTypeSlug: "temper-source-category",
   slug: "mundus-stone",
   title: "Mundus Stone",

@@ -1,7 +1,7 @@
 import type { TemperSpecialEffectType } from "../temper-special-effect-type.page-type.ts"
 
 export const createCorpse = {
-  id: "01a05fc5-c922-7faf-8078-61fbf7d38913",
+  id: "019e4ccf-ce40-7027-9b20-91c52ef380a9",
   pageTypeSlug: "temper-special-effect-type",
   slug: "create-corpse",
   title: "Create Corpse",

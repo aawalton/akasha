@@ -1,7 +1,7 @@
 import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
 
 export const buffs = {
-  id: "01a05fc5-169b-7745-83c9-0d595c45dca0",
+  id: "019e3104-cc0c-7c01-b3f9-5982d542894d",
   pageTypeSlug: "temper-source-category",
   slug: "buffs",
   title: "Buffs",

@@ -1,7 +1,7 @@
 import type { TemperVampireStage } from "../temper-vampire-stage.page-type.ts"
 
 export const stage3 = {
-  id: "01a05fc5-c92e-7351-8ead-981a342f385e",
+  id: "019e21f4-0aaf-7e2e-870c-34b0a1eda345",
   pageTypeSlug: "temper-vampire-stage",
   slug: "stage-3",
   title: "Stage 3",

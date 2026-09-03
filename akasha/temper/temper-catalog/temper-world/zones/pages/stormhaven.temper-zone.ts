@@ -1,7 +1,7 @@
 import type { TemperZone } from "../temper-zone.page-type.ts"
 
 export const stormhaven = {
-  id: "01a05fc5-1696-7f63-8978-3a663c77ac9b",
+  id: "019e17d9-3c91-759a-8795-b4cbd9d14248",
   pageTypeSlug: "temper-zone",
   slug: "stormhaven",
   title: "Stormhaven",

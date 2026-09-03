@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const whirlwind = {
-  id: "01a05fd2-1e98-7420-b1c9-912dc60bb270",
+  id: "019e6f53-a9ed-790d-a689-427d7fea4001",
   pageTypeSlug: "temper-skill",
   slug: "whirlwind",
   title: "Whirlwind",

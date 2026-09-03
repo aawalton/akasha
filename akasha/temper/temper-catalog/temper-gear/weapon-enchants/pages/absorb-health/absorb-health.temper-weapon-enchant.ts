@@ -1,7 +1,7 @@
 import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.ts"
 
 export const absorbHealth = {
-  id: "01a05fd8-a459-7267-87f6-981a8431a4bc",
+  id: "019e5c0d-dceb-74ca-8a7f-64f3f44ddae1",
   pageTypeSlug: "temper-weapon-enchant",
   slug: "absorb-health",
   title: "Absorb Health",

@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const foliumDiscognitumSkillPoints = {
-  id: "01a05fd3-6989-7a0f-83a6-a9418d10cf37",
+  id: "019e8de6-ad2f-7cb0-90aa-4e45f07aec54",
   pageTypeSlug: "temper-task",
   slug: "folium-discognitum-skill-points",
   title: "Folium Discognitum Skill Points",

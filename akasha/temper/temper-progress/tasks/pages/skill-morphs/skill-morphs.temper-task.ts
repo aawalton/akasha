@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const skillMorphs = {
-  id: "01a05fd3-698b-7329-b7a0-13df225832e8",
+  id: "019db533-f381-756b-b84a-3e607b6d82ee",
   pageTypeSlug: "temper-task",
   slug: "skill-morphs",
   title: "Skill Morphs",

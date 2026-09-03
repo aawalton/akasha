@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const thievesGuildSkillLine = {
-  id: "01a05fd3-698b-7d36-ac84-e79288943212",
+  id: "019db533-f381-7548-8695-31e6f53f865d",
   pageTypeSlug: "temper-task",
   slug: "thieves-guild-skill-line",
   title: "Thieves Guild Skill Line",

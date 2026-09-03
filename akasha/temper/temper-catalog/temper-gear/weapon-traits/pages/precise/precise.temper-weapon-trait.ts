@@ -1,7 +1,7 @@
 import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.ts"
 
 export const precise = {
-  id: "01a05fd8-a461-71fd-8da7-8cc6d2b02a5e",
+  id: "019e5b8b-e54b-75fa-afc2-cfdd5f966f52",
   pageTypeSlug: "temper-weapon-trait",
   slug: "precise",
   title: "Precise",

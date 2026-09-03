@@ -1,7 +1,7 @@
 import type { TemperStatusEffectType } from "../temper-status-effect-type.page-type.ts"
 
 export const knockback = {
-  id: "01a05fc5-c926-7605-a0ba-a8d4aa3b5d15",
+  id: "019e5a51-291e-7975-b90f-0fbd533444d0",
   pageTypeSlug: "temper-status-effect-type",
   slug: "knockback",
   title: "Knockback",

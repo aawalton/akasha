@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const windWalker = {
-  id: "01a05fd2-1e98-7f19-a308-381ce505e7f2",
+  id: "019e6238-c32e-7b85-88bd-15ec37e502ae",
   pageTypeSlug: "temper-skill",
   slug: "wind-walker",
   title: "Wind Walker",

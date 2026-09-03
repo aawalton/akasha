@@ -1,7 +1,7 @@
 import type { TemperWeaponType } from "../temper-weapon-type.page-type.ts"
 
 export const noType = {
-  id: "01a05fd5-4dd6-7ec5-917e-5889f549f5e0",
+  id: "019e46b6-407f-7bfa-a955-49524e837b1b",
   pageTypeSlug: "temper-weapon-type",
   slug: "no-type",
   title: "No Type",

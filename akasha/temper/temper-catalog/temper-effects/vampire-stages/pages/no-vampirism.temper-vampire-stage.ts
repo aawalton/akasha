@@ -1,7 +1,7 @@
 import type { TemperVampireStage } from "../temper-vampire-stage.page-type.ts"
 
 export const noVampirism = {
-  id: "01a05fc5-c92d-7fd4-a6ec-4d969d450fed",
+  id: "019e21f4-0aa7-7693-b46b-74dc46126f3a",
   pageTypeSlug: "temper-vampire-stage",
   slug: "no-vampirism",
   title: "No Vampirism",

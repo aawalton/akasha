@@ -1,7 +1,7 @@
 import type { TemperZone } from "../temper-zone.page-type.ts"
 
 export const wrothgar = {
-  id: "01a05fc5-1698-7f08-8fb2-a82932a78f41",
+  id: "019e17d9-4f39-70f6-89dc-75ceac137939",
   pageTypeSlug: "temper-zone",
   slug: "wrothgar",
   title: "Wrothgar",

@@ -1,7 +1,7 @@
 import type { TemperStatusEffectType } from "../temper-status-effect-type.page-type.ts"
 
 export const chilled = {
-  id: "01a05fc5-c924-7a0c-a3ec-88648daf8cf0",
+  id: "019e5a51-2926-78dc-83fd-ab18dc078f14",
   pageTypeSlug: "temper-status-effect-type",
   slug: "chilled",
   title: "Chilled",

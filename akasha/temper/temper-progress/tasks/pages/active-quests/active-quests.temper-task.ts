@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const activeQuests = {
-  id: "01a05fd3-6983-78f1-98eb-2ef405622fde",
+  id: "019eacc6-8a95-7996-a9e7-68db48fa97fc",
   pageTypeSlug: "temper-task",
   slug: "active-quests",
   title: "Active Quests",

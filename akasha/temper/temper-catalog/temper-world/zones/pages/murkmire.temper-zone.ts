@@ -1,7 +1,7 @@
 import type { TemperZone } from "../temper-zone.page-type.ts"
 
 export const murkmire = {
-  id: "01a05fc5-1694-7a01-8820-174f0e32c8ae",
+  id: "019e17d9-52dd-7b78-be40-5701610a947b",
   pageTypeSlug: "temper-zone",
   slug: "murkmire",
   title: "Murkmire",

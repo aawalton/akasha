@@ -1,7 +1,7 @@
 import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.ts"
 
 export const foulness = {
-  id: "01a05fd8-a45a-7bdf-b72c-5651d3595dd7",
+  id: "019e5c0d-dcfd-78d4-9209-d0659cdd162f",
   pageTypeSlug: "temper-weapon-enchant",
   slug: "foulness",
   title: "Foulness",

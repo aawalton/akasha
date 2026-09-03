@@ -1,7 +1,7 @@
 import type { TemperStatusEffectType } from "../temper-status-effect-type.page-type.ts"
 
 export const invisible = {
-  id: "01a05fc5-c926-77a5-8b84-95fe7d404841",
+  id: "019e5a51-2929-7936-85bd-9b7f5a18abdd",
   pageTypeSlug: "temper-status-effect-type",
   slug: "invisible",
   title: "Invisible",

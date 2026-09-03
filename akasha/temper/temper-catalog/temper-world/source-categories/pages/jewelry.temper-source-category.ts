@@ -1,7 +1,7 @@
 import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
 
 export const jewelry = {
-  id: "01a05fc5-169d-7cb1-b53f-50a009e5025f",
+  id: "019e3104-cc00-749f-90fa-6d23943e9659",
   pageTypeSlug: "temper-source-category",
   slug: "jewelry",
   title: "Jewelry",

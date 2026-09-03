@@ -1,7 +1,7 @@
 import type { TemperTargetArmor } from "../temper-target-armor.page-type.ts"
 
 export const dungeon = {
-  id: "01a05fc5-c928-78a4-9322-77cf3ed2907f",
+  id: "019e21f4-76c0-70a4-8a3e-9fffe01c90a8",
   pageTypeSlug: "temper-target-armor",
   slug: "dungeon",
   title: "Dungeon",

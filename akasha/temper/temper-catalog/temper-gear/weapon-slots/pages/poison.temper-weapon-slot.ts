@@ -1,7 +1,7 @@
 import type { TemperWeaponSlot } from "../temper-weapon-slot.page-type.ts"
 
 export const poison = {
-  id: "01a05fd5-2055-7c8b-bb6d-0f9b8755fbf6",
+  id: "019e4caa-ef02-779e-b5ad-800828d05231",
   pageTypeSlug: "temper-weapon-slot",
   slug: "poison",
   title: "Poison",

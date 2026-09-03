@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const dragonguardDailyQuests = {
-  id: "01a05fd3-6988-7457-9ef0-42043029af91",
+  id: "019db533-f381-75c3-9780-5890e62c0c88",
   pageTypeSlug: "temper-task",
   slug: "dragonguard-daily-quests",
   title: "Dragonguard Daily Quests",

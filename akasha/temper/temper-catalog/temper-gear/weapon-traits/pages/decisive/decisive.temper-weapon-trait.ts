@@ -1,7 +1,7 @@
 import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.ts"
 
 export const decisive = {
-  id: "01a05fd8-a45d-7be8-8434-704f2345792f",
+  id: "019e5b8b-e540-7c05-bac0-3b47430a460f",
   pageTypeSlug: "temper-weapon-trait",
   slug: "decisive",
   title: "Decisive",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const wingBuffet = {
-  id: "01a05fd2-1e99-7458-a229-72dca126dd2c",
+  id: "019e6f53-a9f5-73b7-bdb5-6a50966e6f14",
   pageTypeSlug: "temper-skill",
   slug: "wing-buffet",
   title: "Wing Buffet",

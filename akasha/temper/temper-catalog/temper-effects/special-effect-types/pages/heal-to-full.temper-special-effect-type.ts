@@ -1,7 +1,7 @@
 import type { TemperSpecialEffectType } from "../temper-special-effect-type.page-type.ts"
 
 export const healToFull = {
-  id: "01a05fc5-c923-7187-be04-ed586c210130",
+  id: "019e4ccf-ce34-7158-bb7e-5fc69664fed5",
   pageTypeSlug: "temper-special-effect-type",
   slug: "heal-to-full",
   title: "Full Heal",

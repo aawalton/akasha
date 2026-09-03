@@ -1,7 +1,7 @@
 import type { TemperZone } from "../temper-zone.page-type.ts"
 
 export const westernSkyrim = {
-  id: "01a05fc5-1697-74ca-a926-38e5e32f94b5",
+  id: "019e17d9-496f-7f5e-bc44-3a45a709fb0b",
   pageTypeSlug: "temper-zone",
   slug: "western-skyrim",
   title: "Western Skyrim",

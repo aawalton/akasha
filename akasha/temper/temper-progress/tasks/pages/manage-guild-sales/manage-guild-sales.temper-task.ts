@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const manageGuildSales = {
-  id: "01a05fd3-698a-705f-bcd3-27903dd4ac5a",
+  id: "019db533-f381-758e-8b24-0a120b8857e8",
   pageTypeSlug: "temper-task",
   slug: "manage-guild-sales",
   title: "Manage Guild Sales",

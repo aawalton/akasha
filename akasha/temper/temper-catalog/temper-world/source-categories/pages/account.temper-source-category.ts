@@ -1,7 +1,7 @@
 import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
 
 export const account = {
-  id: "01a05fc5-169a-716e-a4c5-418ee6ad8dc5",
+  id: "019e3104-cc10-7894-8d01-47bfcbb4b423",
   pageTypeSlug: "temper-source-category",
   slug: "account",
   title: "Account",

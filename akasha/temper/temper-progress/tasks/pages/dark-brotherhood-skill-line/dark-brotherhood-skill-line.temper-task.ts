@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const darkBrotherhoodSkillLine = {
-  id: "01a05fd3-6987-7753-b92f-f96485ace399",
+  id: "019db533-f381-75f7-aafa-ced3b56c5229",
   pageTypeSlug: "temper-task",
   slug: "dark-brotherhood-skill-line",
   title: "Dark Brotherhood Skill Line",

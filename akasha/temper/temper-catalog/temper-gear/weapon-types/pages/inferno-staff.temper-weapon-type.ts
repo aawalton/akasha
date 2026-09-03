@@ -1,7 +1,7 @@
 import type { TemperWeaponType } from "../temper-weapon-type.page-type.ts"
 
 export const infernoStaff = {
-  id: "01a05fd5-4dd4-77db-b712-1a73a91bf52d",
+  id: "019e46b6-4095-718f-8cbf-783b175896ca",
   pageTypeSlug: "temper-weapon-type",
   slug: "inferno-staff",
   title: "Inferno Staff",

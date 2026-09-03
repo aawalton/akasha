@@ -1,7 +1,7 @@
 import type { TemperWeaponSlot } from "../temper-weapon-slot.page-type.ts"
 
 export const mainHand = {
-  id: "01a05fd5-2055-7928-b52a-dcc4c108f560",
+  id: "019e4caa-eefe-736a-951c-8396a8dcc8d4",
   pageTypeSlug: "temper-weapon-slot",
   slug: "main-hand",
   title: "Main Hand",

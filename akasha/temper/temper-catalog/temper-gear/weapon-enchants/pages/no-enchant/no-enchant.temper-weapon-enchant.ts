@@ -1,7 +1,7 @@
 import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.ts"
 
 export const noEnchant = {
-  id: "01a05fd8-a45b-785b-992e-f8131a87b808",
+  id: "019e5c0d-dce3-7e6a-89e5-5d15c73035fd",
   pageTypeSlug: "temper-weapon-enchant",
   slug: "no-enchant",
   title: "No Enchant",

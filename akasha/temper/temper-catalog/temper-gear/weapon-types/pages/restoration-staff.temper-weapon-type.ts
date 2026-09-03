@@ -1,7 +1,7 @@
 import type { TemperWeaponType } from "../temper-weapon-type.page-type.ts"
 
 export const restorationStaff = {
-  id: "01a05fd5-4dd6-7c24-bc4b-b2c7f220cc34",
+  id: "019e46b6-4098-7f3e-a6ab-4975269d4956",
   pageTypeSlug: "temper-weapon-type",
   slug: "restoration-staff",
   title: "Restoration Staff",

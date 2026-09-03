@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const antiquityLeadsLegendary = {
-  id: "01a05fd3-6984-7e18-9fb8-9038c82b5b08",
+  id: "019db533-f381-7525-a49a-ec655c3426c7",
   pageTypeSlug: "temper-task",
   slug: "antiquity-leads-legendary",
   title: "Antiquity Leads Legendary",

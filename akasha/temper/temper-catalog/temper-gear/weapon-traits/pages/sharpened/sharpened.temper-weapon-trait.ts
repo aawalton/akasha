@@ -1,7 +1,7 @@
 import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.ts"
 
 export const sharpened = {
-  id: "01a05fd8-a461-7d8a-8d61-462e16b4da54",
+  id: "019e5b8b-e54c-7a9d-9b2b-de0c4da3ca56",
   pageTypeSlug: "temper-weapon-trait",
   slug: "sharpened",
   title: "Sharpened",

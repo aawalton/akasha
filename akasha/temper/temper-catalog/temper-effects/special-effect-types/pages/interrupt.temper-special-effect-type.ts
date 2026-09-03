@@ -1,7 +1,7 @@
 import type { TemperSpecialEffectType } from "../temper-special-effect-type.page-type.ts"
 
 export const interrupt = {
-  id: "01a05fc5-c923-773d-9343-00b8f09b8cee",
+  id: "019e4ccf-ce3c-718d-af47-0bb4b412172c",
   pageTypeSlug: "temper-special-effect-type",
   slug: "interrupt",
   title: "Interrupt",

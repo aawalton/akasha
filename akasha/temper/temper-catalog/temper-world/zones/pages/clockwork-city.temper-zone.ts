@@ -1,7 +1,7 @@
 import type { TemperZone } from "../temper-zone.page-type.ts"
 
 export const clockworkCity = {
-  id: "01a05fc5-1692-7627-bbcd-e76831e4ca11",
+  id: "019e17d9-5406-772c-a151-5f3be8f22316",
   pageTypeSlug: "temper-zone",
   slug: "clockwork-city",
   title: "Clockwork City",

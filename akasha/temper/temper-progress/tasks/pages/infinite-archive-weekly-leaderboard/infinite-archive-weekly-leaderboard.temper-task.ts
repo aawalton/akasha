@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const infiniteArchiveWeeklyLeaderboard = {
-  id: "01a05fd3-698a-722d-8ea4-1fe9955f9f3f",
+  id: "019db533-f381-75b1-ae47-75a551046ec2",
   pageTypeSlug: "temper-task",
   slug: "infinite-archive-weekly-leaderboard",
   title: "Infinite Archive Weekly Leaderboard",

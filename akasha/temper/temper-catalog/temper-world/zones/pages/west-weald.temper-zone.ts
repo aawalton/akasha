@@ -1,7 +1,7 @@
 import type { TemperZone } from "../temper-zone.page-type.ts"
 
 export const westWeald = {
-  id: "01a05fc5-1697-71de-9da0-eea7fda43b9a",
+  id: "019e17d9-4281-773b-8dda-2c0086bd20dc",
   pageTypeSlug: "temper-zone",
   slug: "west-weald",
   title: "West Weald",

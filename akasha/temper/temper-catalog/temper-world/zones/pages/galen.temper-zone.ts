@@ -1,7 +1,7 @@
 import type { TemperZone } from "../temper-zone.page-type.ts"
 
 export const galen = {
-  id: "01a05fc5-1693-7720-8a25-b78cda088ae5",
+  id: "019e17d9-45d8-7905-9ebf-470c9d2cc820",
   pageTypeSlug: "temper-zone",
   slug: "galen",
   title: "Galen",

@@ -1,7 +1,7 @@
 import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
 
 export const companionArmor = {
-  id: "01a05fc5-169b-7508-b7e1-5d5767dc4edb",
+  id: "019e3104-cc14-733f-9b20-3ab96d0c8c86",
   pageTypeSlug: "temper-source-category",
   slug: "companion-armor",
   title: "Companion Armor",

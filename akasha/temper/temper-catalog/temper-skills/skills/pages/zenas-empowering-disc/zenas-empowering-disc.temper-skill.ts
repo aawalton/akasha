@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const zenasEmpoweringDisc = {
-  id: "01a05fd2-1e9b-7787-8946-34c47482f0b4",
+  id: "019e6245-a772-7f0f-b8cd-6c78b0bcec0a",
   pageTypeSlug: "temper-skill",
   slug: "zenas-empowering-disc",
   title: "Zenas' Empowering Disc",

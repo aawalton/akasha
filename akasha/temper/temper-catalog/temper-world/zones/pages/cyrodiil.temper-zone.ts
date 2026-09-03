@@ -1,7 +1,7 @@
 import type { TemperZone } from "../temper-zone.page-type.ts"
 
 export const cyrodiil = {
-  id: "01a05fc5-1692-732a-bfe1-e8db824c5389",
+  id: "019e17d9-3f19-74b1-b9a5-aa1f431430a1",
   pageTypeSlug: "temper-zone",
   slug: "cyrodiil",
   title: "Cyrodiil",

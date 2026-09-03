@@ -1,7 +1,7 @@
 import type { TemperTargetType } from "../temper-target-type.page-type.ts"
 
 export const selfOrAlly = {
-  id: "01a05fc5-c92b-78a1-82b3-249dfb9184d4",
+  id: "019e5d5a-d86b-7b3f-96d5-fe3c707bd864",
   pageTypeSlug: "temper-target-type",
   slug: "self-or-ally",
   title: "Self / Ally",

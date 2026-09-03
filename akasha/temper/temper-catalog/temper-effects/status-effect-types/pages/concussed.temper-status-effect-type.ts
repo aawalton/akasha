@@ -1,7 +1,7 @@
 import type { TemperStatusEffectType } from "../temper-status-effect-type.page-type.ts"
 
 export const concussed = {
-  id: "01a05fc5-c925-7e10-8d8b-56f5c391bb0a",
+  id: "019e5a51-2927-78f0-abaa-97966ef93ee0",
   pageTypeSlug: "temper-status-effect-type",
   slug: "concussed",
   title: "Concussed",

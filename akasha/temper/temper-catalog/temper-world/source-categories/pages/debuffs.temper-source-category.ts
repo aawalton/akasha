@@ -1,7 +1,7 @@
 import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
 
 export const debuffs = {
-  id: "01a05fc5-169c-7b6d-a06e-bfc108dc37c2",
+  id: "019e3104-cc0e-7060-a17b-e99f1364599e",
   pageTypeSlug: "temper-source-category",
   slug: "debuffs",
   title: "Debuffs",

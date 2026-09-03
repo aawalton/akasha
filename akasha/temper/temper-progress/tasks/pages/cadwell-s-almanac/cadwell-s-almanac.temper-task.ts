@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const cadwellSAlmanac = {
-  id: "01a05fd3-6985-7199-9bfe-8d0c4dd256e6",
+  id: "019db533-f381-7609-8205-f9904634be23",
   pageTypeSlug: "temper-task",
   slug: "cadwell-s-almanac",
   title: "Cadwell's Almanac",

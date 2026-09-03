@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const companionRapport = {
-  id: "01a05fd3-6986-7db2-a875-fdf376278609",
+  id: "019e6eb9-14ae-747b-a209-26f7966ab741",
   pageTypeSlug: "temper-task",
   slug: "companion-rapport",
   title: "Companion Rapport",

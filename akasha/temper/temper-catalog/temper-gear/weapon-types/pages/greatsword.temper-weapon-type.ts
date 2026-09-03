@@ -1,7 +1,7 @@
 import type { TemperWeaponType } from "../temper-weapon-type.page-type.ts"
 
 export const greatsword = {
-  id: "01a05fd5-4dd4-7b69-bf24-b758da896322",
+  id: "019e46b6-408f-7101-8c11-f30ff5b7d117",
   pageTypeSlug: "temper-weapon-type",
   slug: "greatsword",
   title: "Greatsword",

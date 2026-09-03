@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const undauntedSkillLine = {
-  id: "01a05fd3-698c-7fb5-aad9-5098ec602377",
+  id: "019db533-f381-755a-8ee3-42d80e807395",
   pageTypeSlug: "temper-task",
   slug: "undaunted-skill-line",
   title: "Undaunted Skill Line",

@@ -1,7 +1,7 @@
 import type { TemperTask } from "../../temper-task.page-type.ts"
 
 export const craftingWrits = {
-  id: "01a05fd3-6986-7108-abe1-1fc004faf5c7",
+  id: "019db533-f381-761a-affb-ba493b613e2e",
   pageTypeSlug: "temper-task",
   slug: "crafting-writs",
   title: "Crafting Writs",

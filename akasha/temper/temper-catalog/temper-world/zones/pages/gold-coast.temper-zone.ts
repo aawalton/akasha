@@ -1,7 +1,7 @@
 import type { TemperZone } from "../temper-zone.page-type.ts"
 
 export const goldCoast = {
-  id: "01a05fc5-1693-7897-8011-2ac32562c16a",
+  id: "019e17d9-5534-7c4b-beb9-a09515aafcd5",
   pageTypeSlug: "temper-zone",
   slug: "gold-coast",
   title: "Gold Coast",
