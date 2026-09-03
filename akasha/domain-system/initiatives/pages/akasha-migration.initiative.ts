@@ -10,7 +10,7 @@ export const akashaMigration = {
     {
       statement: "All files in the akasha repo are in the akasha subfolder.",
       workingMemory:
-        "102,798 files tracked: 32,905 in akasha, 69,893 outside. 64,226 of those outside are `pages/`, content to adapt across 261 folders, whose page types and properties mostly do not exist yet; the bulk migrates programmatically once they do. Alan puts 10,000-20,000 of the outside files as already accreted and never ablated, so sweeping those is the cheapest first mass. 11 tracked files sit at the repo root, and the subfolder becomes the root at the end, which is how this intent is finally met.",
+        "At dispatch 69,894 files outside akasha against 32,904 inside; now 61,906 outside and 36,914 inside. The 261 `pages/` folders group into 18 families sharing no page type, mapped in ten findings. 17,041 files are already accreted, all under `pages/`. RUN `akasha audit` IN ONE AGENT ONLY: many at once exhausted memory and killed the session at 22:00. Checks are scoped to the paths a landing names, so a break elsewhere does not block you.",
     },
     {
       statement: "The story chapters are akasha pages.",
@@ -25,7 +25,7 @@ export const akashaMigration = {
     {
       statement: "The temper pages are akasha pages.",
       workingMemory:
-        "6,100 files across some 90 temper-* folders, split between one agent on the twelve over 100 files and one on the 78-folder tail. The first owns the shared design and records it in akasha early so the second follows rather than inventing a second scheme. Many tail folders are controlled vocabularies that should collapse rather than become pages.",
+        "Every temper page type already exists in akasha. The census puts 97 folders and 6,264 files as carried, and 91 of the 93 fully-accreted folders are temper. So this is verification and ablation rather than design, and it retires 91 of the 261 folders. Confirm slug and field correspondence folder by folder before removing anything, and treat any sidecar as its own file with its own evidence.",
     },
     {
       statement: "Alan's own records are akasha pages.",
@@ -40,7 +40,7 @@ export const akashaMigration = {
     {
       statement: "Nothing outside akasha duplicates what is already inside it.",
       workingMemory:
-        "Alan puts 10,000-20,000 outside files as already accreted and never ablated, the cheapest first mass. Removal requires a positive per-file content match that the content is reachable inside akasha, never that a folder was migrated. A shared ablation check is being built for every agent to use. Ground truth for what existed before tonight is the read-only backup.",
+        "MATCH ON SLUG AND FIELDS, NEVER ON ID. No migration has carried a page id across: temper-skill matches 1,636 of 1,636 on slug and 0 of 1,636 on id, so an id-keyed check clears nothing while looking like a correct negative. 10,469 sidecars beside already-migrated stubs hold 126,962 reference rows with no home in akasha, so a folder-level sweep destroys them. The shared tools are at akasha/migration-system/, reached by `akasha migration-reach`.",
     },
   ],
   constraints: [
