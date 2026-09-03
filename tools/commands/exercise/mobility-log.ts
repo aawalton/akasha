@@ -1,19 +1,19 @@
+export const summary =
+  "Append a mobility/baseline reading (time-series, optional numeric trend value)"
 
-export const summary = "Append a mobility/baseline reading (time-series, optional numeric trend value)"
-
-import { parseDecimalFlag } from "@collections/exercises/cli/fields"
-import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
-import { z } from "zod"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { getEsoDayStr } from "../../lib/eso-day.ts"
-import { writePage } from "../../lib/page-write.ts"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { parseArgs } from "../../lib/parse-args.ts"
 import {
   MOBILITY_CONTEXT_OPTIONS,
   MOBILITY_METRIC_OPTIONS,
   MOBILITY_SIDE_OPTIONS,
-} from "../../lib/exercise-vocabularies.ts"
+} from "@akasha/exercise-access/exercise-vocabulary"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { parseDecimalFlag } from "@collections/exercises/cli/fields"
+import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
+import { z } from "zod"
+import { getEsoDayStr } from "../../lib/eso-day.ts"
+import { writePage } from "../../lib/page-write.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -109,7 +109,13 @@ export default async function exerciseMobilityLog(args: readonly string[]): Prom
     ...(note !== undefined ? { note } : {}),
   }
   const name = `${metric}-${date}${side !== "n-a" ? `-${side}` : ""}`
-  const written = writePage(resolveRoots(), "mobility-reading", name, values, "ops exercise mobility-log")
+  const written = writePage(
+    resolveRoots(),
+    "mobility-reading",
+    name,
+    values,
+    "ops exercise mobility-log"
+  )
   if (written === null) {
     throw new Error("`mobility-reading` names no page type whose pages are files")
   }

@@ -1,6 +1,14 @@
+export const summary =
+  "Add a custom exercise to the catalog (source=aelwyn-custom) — validated select/multi-select fields, the ergonomic alternative to a raw page create"
 
-export const summary = "Add a custom exercise to the catalog (source=aelwyn-custom) — validated select/multi-select fields, the ergonomic alternative to a raw page create"
-
+import {
+  CATEGORY_OPTIONS,
+  EQUIPMENT_OPTIONS,
+  FORCE_OPTIONS,
+  LEVEL_OPTIONS,
+  MECHANIC_OPTIONS,
+  MUSCLE_OPTIONS,
+} from "@akasha/exercise-access/exercise-vocabulary"
 import { parseDecimalFlag } from "@collections/exercises/cli/fields"
 import {
   normalizeMultiSelect,
@@ -12,16 +20,8 @@ import { slugifyOptionId } from "@collections/exercises/free-exercise-db/map"
 import { selectionFeatureProps } from "@collections/exercises/free-exercise-db/selection-features"
 import { createPage } from "@collections/exercises/pages/access"
 import type { Json } from "@collections/exercises/pages/page"
-import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import {
-  CATEGORY_OPTIONS,
-  EQUIPMENT_OPTIONS,
-  FORCE_OPTIONS,
-  LEVEL_OPTIONS,
-  MECHANIC_OPTIONS,
-  MUSCLE_OPTIONS,
-} from "../../lib/exercise-vocabularies.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const CUSTOM_SOURCE = "aelwyn-custom"
 

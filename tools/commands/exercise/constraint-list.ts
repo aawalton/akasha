@@ -1,12 +1,11 @@
-
 export const summary = "List active coaching-constraints (--focus filters by tag or 'all')"
 
+import { CONSTRAINT_FOCUS_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
 import { displayTitle, fieldBool, fieldStr, fieldStrList } from "@collections/exercises/cli/fields"
 import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
-import { CONSTRAINT_FOCUS_OPTIONS } from "../../lib/exercise-vocabularies.ts"
 import { askExercisePages } from "../../lib/exercise-ask-pages.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

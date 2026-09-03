@@ -1,6 +1,7 @@
+export const summary =
+  "Select an ordered session plan (pattern coverage + anchor/accessory + double progression) and print it with the per-pick decision envelope"
 
-export const summary = "Select an ordered session plan (pattern coverage + anchor/accessory + double progression) and print it with the per-pick decision envelope"
-
+import { FOCUS_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
 import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
 import type {
   PlannedSlot,
@@ -9,10 +10,9 @@ import type {
 } from "@collections/exercises/selection/selector"
 import { selectSession } from "@collections/exercises/selection/selector"
 import { loadSelectorInputs } from "@collections/exercises/selection/selector-load"
-import type { CommandHelp } from "../../ops/surface.ts"
 import { readSelectionPolicy } from "../../lib/exercise-pages.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { FOCUS_OPTIONS } from "../../lib/exercise-vocabularies.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

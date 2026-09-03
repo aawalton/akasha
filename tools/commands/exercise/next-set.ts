@@ -1,6 +1,7 @@
+export const summary =
+  "Emit the ONE next set to perform (movement, set, reps, load, RIR, why), re-derived from live session state on every call"
 
-export const summary = "Emit the ONE next set to perform (movement, set, reps, load, RIR, why), re-derived from live session state on every call"
-
+import { FOCUS_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
 import { fieldBool, fieldNum, fieldStr } from "@collections/exercises/cli/fields"
 import { resolveExercise, resolveOpenSession } from "@collections/exercises/cli/resolve"
 import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
@@ -10,11 +11,10 @@ import { decideNextSet, partitionSkips } from "@collections/exercises/selection/
 import type { SelectionEnvelope, SelectorInputs } from "@collections/exercises/selection/selector"
 import { selectSession } from "@collections/exercises/selection/selector"
 import { loadSelectorInputs } from "@collections/exercises/selection/selector-load"
-import type { CommandHelp } from "../../ops/surface.ts"
 import { readSelectionPolicy } from "../../lib/exercise-pages.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { FOCUS_OPTIONS } from "../../lib/exercise-vocabularies.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -140,7 +140,9 @@ export default async function exerciseNextSet(args: readonly string[]): Promise<
       )
       return
     }
-    process.stdout.write(`status\tdone\nwhy\t${decision.why}\ncoverage\t${coverageLine(envelope)}\n`)
+    process.stdout.write(
+      `status\tdone\nwhy\t${decision.why}\ncoverage\t${coverageLine(envelope)}\n`
+    )
     return
   }
 

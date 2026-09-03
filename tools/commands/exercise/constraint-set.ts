@@ -1,6 +1,10 @@
+export const summary =
+  "Upsert a coaching-constraint by title (standing cue/constraint, focus-tagged)"
 
-export const summary = "Upsert a coaching-constraint by title (standing cue/constraint, focus-tagged)"
-
+import {
+  CONSTRAINT_FOCUS_OPTIONS,
+  CONSTRAINT_KIND_OPTIONS,
+} from "@akasha/exercise-access/exercise-vocabulary"
 import {
   normalizeMultiSelect,
   normalizeSelectValue,
@@ -8,12 +12,8 @@ import {
 import { createPage, getPages, patchPage } from "@collections/exercises/pages/access"
 import type { Json } from "@collections/exercises/pages/page"
 import { slugStem } from "@collections/exercises/tracking/derive"
-import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import {
-  CONSTRAINT_FOCUS_OPTIONS,
-  CONSTRAINT_KIND_OPTIONS,
-} from "../../lib/exercise-vocabularies.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

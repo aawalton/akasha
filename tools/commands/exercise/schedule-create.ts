@@ -1,16 +1,15 @@
-
 export const summary = "Create the weekly schedule + 7 schedule-days from per-day focus flags"
 
-import { z } from "zod"
+import { SCHEDULE_DAY_FOCUS_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
 import { createPage, getPages, patchPage } from "@collections/exercises/pages/access"
 import {
   capitalizeDayOfWeek,
   DAYS_OF_WEEK_MONDAY_FIRST,
 } from "@collections/exercises/tracking/day-of-week"
 import { freeSlug, scheduleDaySlug, slugStem } from "@collections/exercises/tracking/derive"
-import type { CommandHelp, HelpFlag } from "../../ops/surface.ts"
+import { z } from "zod"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { SCHEDULE_DAY_FOCUS_OPTIONS } from "../../lib/exercise-vocabularies.ts"
+import type { CommandHelp, HelpFlag } from "../../ops/surface.ts"
 
 const DAYS_MONDAY_FIRST = DAYS_OF_WEEK_MONDAY_FIRST
 

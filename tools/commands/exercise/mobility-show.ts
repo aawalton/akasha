@@ -1,13 +1,12 @@
-
 export const summary = "Show recent mobility readings + trend per metric+side"
 
+import { MOBILITY_METRIC_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
 import { fieldNum, fieldStr } from "@collections/exercises/cli/fields"
 import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
 import { mobilityTrend } from "@collections/exercises/tracking/digest-model"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
-import { MOBILITY_METRIC_OPTIONS } from "../../lib/exercise-vocabularies.ts"
 import { askExercisePages } from "../../lib/exercise-ask-pages.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

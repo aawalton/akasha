@@ -1,13 +1,13 @@
 export const summary = "Upsert an equipment item by title (implements + load increments)"
 
 import { existsSync } from "node:fs"
-import { pageStem } from "@akasha/named-for/page-stem"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
 import {
   EQUIPMENT_CATEGORY_OPTIONS,
   EQUIPMENT_CONFIG_OPTIONS,
-} from "../../lib/exercise-vocabularies.ts"
+} from "@akasha/exercise-access/exercise-vocabulary"
+import { pageStem } from "@akasha/named-for/page-stem"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
 import { patchPage, writePage } from "../../lib/page-write.ts"
 import { whereFor } from "../../lib/page-write-where.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
