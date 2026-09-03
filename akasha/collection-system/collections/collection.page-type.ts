@@ -5,6 +5,7 @@ import type { CollectionCompletedAt } from "./properties/collection-completed-at
 import type { CollectionDescription } from "./properties/collection-description.text-property.ts"
 import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.ts"
 import type { CollectionTags } from "./properties/collection-tags.text-property.ts"
+import type { CollectionTypeSlug } from "./properties/collection-type-slug.relation-property.ts"
 import type { Following } from "./properties/following.boolean-property.ts"
 import type { OwnLength } from "./properties/own-length.number-property.ts"
 import type { OwnProgress } from "./properties/own-progress.number-property.ts"
@@ -28,6 +29,7 @@ export type Collection = Page & {
   status?: Status
   tags?: readonly CollectionTags[]
   unitSlug?: UnitSlug
+  collectionTypeSlug?: CollectionTypeSlug
 }
 
 export const collection = {
@@ -39,6 +41,18 @@ export const collection = {
   partSlugs: [
     "boolean-property/following",
     "calendar-date-property/published-day",
+    "formula-property/collection-completion",
+    "formula-property/own-length-in-words",
+    "formula-property/own-progress-in-words",
+    "formula-property/own-remaining",
+    "formula-property/own-remaining-in-words",
+    "formula-property/parts-remaining-in-words",
+    "formula-property/total-length",
+    "formula-property/total-length-in-words",
+    "formula-property/total-progress",
+    "formula-property/total-progress-in-words",
+    "formula-property/total-remaining",
+    "formula-property/total-remaining-in-words",
     "instant-property/collection-completed-at",
     "instant-property/published-at",
     "number-property/own-length",
@@ -47,6 +61,7 @@ export const collection = {
     "one-of-property/collection-published-at",
     "page-type/unit",
     "rank-property/rank",
+    "relation-property/collection-type-slug",
     "relation-property/part-of-slugs",
     "relation-property/unit-slug",
     "select-property/status",
@@ -69,6 +84,19 @@ export const collection = {
     { pagePropertySlug: "status", required: false, many: false },
     { pagePropertySlug: "collection-tags", required: false, many: true, max: null },
     { pagePropertySlug: "unit-slug", required: false, many: false },
+    { pagePropertySlug: "collection-completion", required: false, many: false },
+    { pagePropertySlug: "collection-type-slug", required: false, many: false },
+    { pagePropertySlug: "own-length-in-words", required: false, many: false },
+    { pagePropertySlug: "own-progress-in-words", required: false, many: false },
+    { pagePropertySlug: "own-remaining", required: false, many: false },
+    { pagePropertySlug: "own-remaining-in-words", required: false, many: false },
+    { pagePropertySlug: "parts-remaining-in-words", required: false, many: false },
+    { pagePropertySlug: "total-length", required: false, many: false },
+    { pagePropertySlug: "total-length-in-words", required: false, many: false },
+    { pagePropertySlug: "total-progress", required: false, many: false },
+    { pagePropertySlug: "total-progress-in-words", required: false, many: false },
+    { pagePropertySlug: "total-remaining", required: false, many: false },
+    { pagePropertySlug: "total-remaining-in-words", required: false, many: false },
   ],
   invariants: [
     {

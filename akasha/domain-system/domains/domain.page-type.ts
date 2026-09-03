@@ -2,9 +2,15 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Definition } from "./properties/definition.text-property.ts"
 import type { Directives } from "./properties/directives.record-property.ts"
+import type { DomainColorSlug } from "./properties/domain-color-slug.relation-property.ts"
+import type { DomainSequenceSlugs } from "./properties/domain-sequence-slugs.relation-property.ts"
+import type { DomainSettled } from "./properties/domain-settled.boolean-property.ts"
+import type { Expands } from "./properties/expands.boolean-property.ts"
 import type { Invariants } from "./properties/invariants.record-property.ts"
 import type { PartSlugs } from "./properties/part-slugs.relation-property.ts"
+import type { PersonaChampionSlug } from "./properties/persona-champion-slug.relation-property.ts"
 import type { PluralSlug } from "./properties/plural-slug.text-property.ts"
+import type { RequiredReadingSlugs } from "./properties/required-reading-slugs.relation-property.ts"
 
 export type Domain = Page & {
   definition: Definition
@@ -12,26 +18,38 @@ export type Domain = Page & {
   partSlugs?: PartSlugs
   invariants?: Invariants
   directives?: Directives
+  colorSlug?: DomainColorSlug
+  sequenceSlugs?: DomainSequenceSlugs
+  settled?: DomainSettled
+  expands?: Expands
+  personaChampionSlug?: PersonaChampionSlug
+  requiredReadingSlugs?: RequiredReadingSlugs
 }
 
 export const domain = {
   id: "01a049c8-3ead-7c52-9ab6-88767954ed5f",
   partSlugs: [
+    "boolean-property/domain-settled",
+    "boolean-property/expands",
+    "domain/domain-championing",
+    "domain/domain-parent",
     "record-property/directives",
     "record-property/invariants",
     "relation-property/directive-kind",
+    "relation-property/domain-color-slug",
+    "relation-property/domain-sequence-slugs",
     "relation-property/domain-slug",
     "relation-property/invariant-kind",
     "relation-property/part-slugs",
+    "relation-property/persona-champion-slug",
+    "relation-property/required-reading-slugs",
     "text-property/act",
     "text-property/aids",
     "text-property/definition",
-    "text-property/name",
     "text-property/invariant-statement",
+    "text-property/name",
     "text-property/plural-slug",
     "text-property/warrant",
-    "domain/domain-championing",
-    "domain/domain-parent",
   ],
   pageTypeSlug: "page-type",
   slug: "domain",
@@ -44,6 +62,12 @@ export const domain = {
     { pagePropertySlug: "part-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "invariants", required: false, many: true, max: null },
     { pagePropertySlug: "directives", required: false, many: true, max: null },
+    { pagePropertySlug: "domain-color-slug", required: false, many: false },
+    { pagePropertySlug: "domain-sequence-slugs", required: false, many: true, max: 20 },
+    { pagePropertySlug: "domain-settled", required: false, many: false },
+    { pagePropertySlug: "expands", required: false, many: false },
+    { pagePropertySlug: "persona-champion-slug", required: false, many: false },
+    { pagePropertySlug: "required-reading-slugs", required: false, many: true, max: 20 },
   ],
   invariants: [
     {

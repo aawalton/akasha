@@ -5,6 +5,8 @@ import type { PersonSlug } from "../../seat-system/seats/properties/person-slug.
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
 import type { AlertDescription } from "./properties/alert-description.file-property.ts"
 import type { AlertDomain } from "./properties/alert-domain.text-property.ts"
+import type { AlertPersonaSlug } from "./properties/alert-persona-slug.relation-property.ts"
+import type { AlertRoleSlug } from "./properties/alert-role-slug.text-property.ts"
 import type { AlertSummary } from "./properties/alert-summary.text-property.ts"
 
 export type Alert = Page & {
@@ -14,6 +16,8 @@ export type Alert = Page & {
   summary?: AlertSummary
   personSlug?: PersonSlug
   description?: AlertDescription
+  personaSlug?: AlertPersonaSlug
+  roleSlug?: AlertRoleSlug
 }
 
 export const alert = {
@@ -25,7 +29,9 @@ export const alert = {
   extendsSlug: "page-type/page",
   partSlugs: [
     "file-property/alert-description",
+    "relation-property/alert-persona-slug",
     "text-property/alert-domain",
+    "text-property/alert-role-slug",
     "text-property/alert-summary",
   ],
   properties: [
@@ -35,6 +41,8 @@ export const alert = {
     { pagePropertySlug: "alert-summary", required: false, many: false },
     { pagePropertySlug: "person-slug", required: false, many: false },
     { pagePropertySlug: "alert-description", required: false, many: false },
+    { pagePropertySlug: "alert-persona-slug", required: false, many: false },
+    { pagePropertySlug: "alert-role-slug", required: false, many: false },
   ],
   invariants: [
     {
