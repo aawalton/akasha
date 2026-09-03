@@ -1,5 +1,5 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { HOSTNAME_KEY, workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { HOSTNAME_KEY, workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
 
 const NAMESPACE = "cloudflared"
 const APP_NAME = "cloudflared"

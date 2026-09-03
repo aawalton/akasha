@@ -1,4 +1,4 @@
-import { synthMulti } from "@infra/k8s-types/cdk8s-synth"
+import { synthMulti } from "@akasha/k8s-types/cdk8s-synth"
 
 export const NAMESPACE_NAMES = [
   "alanwalton",

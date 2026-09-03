@@ -1,8 +1,8 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import {
   CNPG_POSTGRES_PRIMARY_LABELS,
   colocationAffinityPreferred,
-} from "@infra/k8s-types/hostnames"
+} from "@akasha/k8s-types/hostnames"
 
 const NAMESPACE = "supabase-realtime"
 const APP_LABEL = "realtime"

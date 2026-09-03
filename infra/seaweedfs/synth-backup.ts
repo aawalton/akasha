@@ -1,5 +1,5 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { capabilitySelector, HOSTNAME_KEY } from "@infra/k8s-types/hostnames"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { capabilitySelector, HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
 import { componentLabels, S3_GATEWAY_ENDPOINT } from "./synth-constants.ts"
 
 const RCLONE_IMAGE = "rclone/rclone:1.74.3"

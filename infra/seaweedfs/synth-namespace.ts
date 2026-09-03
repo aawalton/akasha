@@ -1,4 +1,4 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { componentLabels } from "./synth-constants.ts"
 
 export function namespaceYaml(namespace: string, component: string): string {

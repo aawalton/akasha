@@ -1,5 +1,5 @@
-import { synthMulti, synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { capabilitySelector, HOSTNAME_KEY } from "@infra/k8s-types/hostnames"
+import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { capabilitySelector, HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
 import {
   ALERTMANAGER_IMAGE,
   BUSYBOX_IMAGE,

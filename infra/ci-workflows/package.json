@@ -14,7 +14,7 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@infra/k8s-types": "workspace:*",
+    "@akasha/k8s-types": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*"
   },

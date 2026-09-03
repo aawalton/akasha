@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 
-import { synthMulti } from "@infra/k8s-types/cdk8s-synth"
-import { gpuVramUsableMinSelector } from "@infra/k8s-types/hostnames"
+import { synthMulti } from "@akasha/k8s-types/cdk8s-synth"
+import { gpuVramUsableMinSelector } from "@akasha/k8s-types/hostnames"
 
 const NAMESPACE = "seaweedfs"
 

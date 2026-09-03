@@ -19,7 +19,7 @@
     "lint:fix": "biome check --write ."
   },
   "devDependencies": {
-    "@infra/k8s-types": "workspace:*",
+    "@akasha/k8s-types": "workspace:*",
     "@types/bun": "^1.3.9"
   }
 }

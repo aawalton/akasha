@@ -1,4 +1,4 @@
-import { synthMulti, synthOne } from "@infra/k8s-types/cdk8s-synth"
+import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { PROMTAIL_CONFIG } from "./synth-configs"
 import { NAMESPACE, PROMTAIL_LABELS, PROMTAIL_SELECTOR_LABELS } from "./synth-constants"
 

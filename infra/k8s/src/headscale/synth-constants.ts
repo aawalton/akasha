@@ -1,4 +1,4 @@
-import { kubernetesLabels, selectorOf } from "@infra/k8s-types/labels"
+import { kubernetesLabels, selectorOf } from "@akasha/k8s-types/labels"
 
 export const NAMESPACE = "headscale"
 const APP_NAME = "headscale"

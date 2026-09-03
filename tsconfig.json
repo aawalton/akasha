@@ -7,7 +7,7 @@
       "path": "./infra/k8s"
     },
     {
-      "path": "./infra/k8s-types"
+      "path": "./akasha/infrastructure/k8s-types"
     },
     {
       "path": "./infra/scripts"

@@ -1,5 +1,5 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { HOSTNAME_KEY } from "@infra/k8s-types/hostnames"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
 import { APP_NAME, NAMESPACE, RESOURCE_LABELS, SELECTOR_LABELS } from "./synth-constants"
 import { deploymentYaml } from "./synth-deployment"
 

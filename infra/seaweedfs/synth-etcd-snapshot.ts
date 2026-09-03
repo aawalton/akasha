@@ -1,5 +1,5 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { kubernetesLabels } from "@infra/k8s-types/labels"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { kubernetesLabels } from "@akasha/k8s-types/labels"
 import { NAMESPACE, S3_GATEWAY_HTTP_PORT } from "./synth-constants"
 
 const TALOSCTL_IMAGE = "ghcr.io/siderolabs/talosctl:v1.12.9"

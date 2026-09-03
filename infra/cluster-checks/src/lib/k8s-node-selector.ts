@@ -3,8 +3,8 @@ import {
   gpuVramUsableMinKey,
   WORKLOAD_CLASSES,
   workloadClassMemberKey,
-} from "@infra/k8s-types/hostnames"
-import { WORKLOAD_CLASS_SELECTOR_KEY } from "@infra/k8s-types/k8s-manifest-scanner"
+} from "@akasha/k8s-types/hostnames"
+import { WORKLOAD_CLASS_SELECTOR_KEY } from "@akasha/k8s-types/k8s-manifest-scanner"
 import { isTestFilePath } from "./non-test-population.ts"
 
 export type ViolationKind =
@@ -111,7 +111,7 @@ export function evaluateManifestNode(attrs: ManifestNodeAttrs): readonly Violati
   return violations
 }
 
-const TS_LITERAL_ALLOW: ReadonlySet<string> = new Set(["infra/k8s-types/src/hostnames.ts"])
+const TS_LITERAL_ALLOW: ReadonlySet<string> = new Set(["akasha/infrastructure/k8s-types/hostnames/hostnames.module.code.ts"])
 
 const TS_LITERAL_RE =
   /"kubernetes\.io\/hostname"|"alanwalton\.com\/workload-class(?:\.[a-z][a-z0-9-]*)?"|"alanwalton\.com\/gpu-(?:vram-usable-mib|compute-cap|vram-usable-min\.[a-z0-9]+)"/
@@ -130,7 +130,7 @@ export function scanTsContent(content: string, relPath: string): readonly Violat
         file: relPath,
         line: i + 1,
         message:
-          "forbidden double-quoted selector-key literal — import HOSTNAME_KEY / WORKLOAD_CLASS_KEY from @infra/k8s-types/hostnames and use hostnameSelector(...) / capabilitySelector(...) / yamlHostnamePinLines(...)",
+          "forbidden double-quoted selector-key literal — import HOSTNAME_KEY / WORKLOAD_CLASS_KEY from @akasha/k8s-types/hostnames and use hostnameSelector(...) / capabilitySelector(...) / yamlHostnamePinLines(...)",
       })
     }
   }

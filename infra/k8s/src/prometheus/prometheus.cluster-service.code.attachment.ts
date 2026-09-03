@@ -1,4 +1,4 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { NAMESPACE, NAMESPACE_LABELS } from "./synth-constants"
 import {
   prometheusConfigmapYaml,

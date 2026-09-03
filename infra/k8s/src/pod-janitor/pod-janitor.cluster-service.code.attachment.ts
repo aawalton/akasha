@@ -1,4 +1,4 @@
-import { synthMulti, synthOne } from "@infra/k8s-types/cdk8s-synth"
+import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
 
 const NAMESPACE = "pod-janitor"
 const APP_NAME = "pod-janitor"

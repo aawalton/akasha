@@ -23,7 +23,7 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
-    "@infra/k8s-types": "workspace:*",
+    "@akasha/k8s-types": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "yaml": "^2.8.0",

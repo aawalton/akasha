@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { HOSTNAMES } from "@infra/k8s-types/hostnames"
+import { HOSTNAMES } from "@akasha/k8s-types/hostnames"
 import type {
   K8sDuplicateDocAttrs,
   K8sPinnedHostnameAttr,

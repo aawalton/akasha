@@ -1,5 +1,5 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { HOSTNAME_KEY } from "@infra/k8s-types/hostnames"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
 import { backupPvcYaml, backupPvYaml } from "../synth-backup.ts"
 import {
   COMPONENT_MASTER,

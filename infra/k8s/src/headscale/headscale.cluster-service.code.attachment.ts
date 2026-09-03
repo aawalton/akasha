@@ -1,4 +1,4 @@
-import { synthMulti, synthOne } from "@infra/k8s-types/cdk8s-synth"
+import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { ApiObject, App, Chart } from "cdk8s"
 import { configmapYaml, litestreamConfigmapYaml, policyConfigmapYaml } from "./synth-configmaps"
 import {

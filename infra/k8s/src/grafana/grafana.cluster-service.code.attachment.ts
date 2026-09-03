@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { capabilitySelector } from "@infra/k8s-types/hostnames"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { capabilitySelector } from "@akasha/k8s-types/hostnames"
 
 const NAMESPACE = "grafana"
 const APP_NAME = "grafana"

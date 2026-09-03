@@ -1,5 +1,5 @@
-import { synthMulti } from "@infra/k8s-types/cdk8s-synth"
-import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
+import { synthMulti } from "@akasha/k8s-types/cdk8s-synth"
+import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
 import { APP_NAME, INSTANCE_NAME, MANAGED_BY, NAMESPACE, PART_OF } from "./synth-constants"
 
 const GC_IMAGE = "registry.registry.svc.cluster.local:5000/cluster/ci:latest"

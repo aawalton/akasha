@@ -1,5 +1,5 @@
-import { synthMulti, synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { kubernetesLabels, selectorOf } from "@infra/k8s-types/labels"
+import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { kubernetesLabels, selectorOf } from "@akasha/k8s-types/labels"
 
 const NAMESPACE = "tailnet-egress"
 const APP_NAME = "tailnet-egress"

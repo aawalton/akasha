@@ -1,5 +1,5 @@
-import { capabilitySelector, gpuHardwareLabels, workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
-import { ciEnrollmentCandidateLabel } from "@infra/k8s-types/hostnames-ci-enrollment"
+import { capabilitySelector, gpuHardwareLabels, workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
+import { ciEnrollmentCandidateLabel } from "@akasha/k8s-types/hostnames-ci-enrollment"
 import type { NodeIntent } from "./schema"
 
 export const MAIN_NODES: Readonly<Record<string, NodeIntent>> = {

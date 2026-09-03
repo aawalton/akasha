@@ -1,4 +1,4 @@
-import { kubernetesLabels, selectorOf } from "@infra/k8s-types/labels"
+import { kubernetesLabels, selectorOf } from "@akasha/k8s-types/labels"
 
 export const NAMESPACE = "prometheus"
 export const KUBE_SYSTEM_NAMESPACE = "kube-system"

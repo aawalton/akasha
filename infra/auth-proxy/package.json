@@ -11,7 +11,7 @@
     "typescript": "^5.7.3"
   },
   "dependencies": {
-    "@infra/k8s-types": "workspace:*",
+    "@akasha/k8s-types": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }

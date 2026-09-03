@@ -1,4 +1,4 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { PRUNE_CI_STORAGE_SCRIPT } from "./prune-ci-storage-script"
 
 export const NAMESPACE = "ci"

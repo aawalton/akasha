@@ -1,4 +1,4 @@
-import { gpuVramUsableMinSelector } from "@infra/k8s-types/hostnames"
+import { gpuVramUsableMinSelector } from "@akasha/k8s-types/hostnames"
 
 export const UPSCALE_SERVING_IMAGE =
   "registry.registry.svc.cluster.local:5000/cluster/upscale-cu121:serving"

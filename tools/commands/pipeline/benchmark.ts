@@ -17,7 +17,7 @@ import {
   readJobPodLogs,
   waitForJob,
 } from "../../lib/pipeline-run/k8s-jobs.ts"
-import { asHostname, type Hostname } from "@infra/k8s-types/hostnames"
+import { asHostname, type Hostname } from "@akasha/k8s-types/hostnames"
 
 const NAMESPACE = "ci"
 const DEFAULT_NODE = "node-06"

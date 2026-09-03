@@ -1,4 +1,4 @@
-import { HOSTNAME_KEY } from "@infra/k8s-types/hostnames"
+import { HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
 import { rootEnvName } from "@akasha/pages-system/checkout-roots"
 import { CI_MEMBER_KEY } from "./capacity.ts"
 import { CI_NAMESPACE } from "./cluster.ts"

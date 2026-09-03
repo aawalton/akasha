@@ -1,5 +1,5 @@
-import { synthMulti } from "@infra/k8s-types/cdk8s-synth"
-import { kubernetesLabels } from "@infra/k8s-types/labels"
+import { synthMulti } from "@akasha/k8s-types/cdk8s-synth"
+import { kubernetesLabels } from "@akasha/k8s-types/labels"
 
 const NAMESPACE = "metallb-system"
 const NAMESPACE_ID = "metallb"

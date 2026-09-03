@@ -1,9 +1,9 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import {
   CNPG_POSTGRES_PRIMARY_LABELS,
   colocationAffinityPreferred,
-} from "@infra/k8s-types/hostnames"
-import { kubernetesLabels, selectorOf } from "@infra/k8s-types/labels"
+} from "@akasha/k8s-types/hostnames"
+import { kubernetesLabels, selectorOf } from "@akasha/k8s-types/labels"
 
 const NAMESPACE = "pgbouncer"
 const APP_NAME = "pgbouncer"

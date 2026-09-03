@@ -1,5 +1,5 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { capabilitySelector } from "@infra/k8s-types/hostnames"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { capabilitySelector } from "@akasha/k8s-types/hostnames"
 import { LOKI_CONFIG } from "./synth-configs"
 import {
   LOKI_LABELS,

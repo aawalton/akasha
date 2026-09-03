@@ -1,4 +1,4 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { CONTROL_PLANE_LABELS, NAMESPACE } from "./synth-constants"
 
 const HEADSCALE_CONFIG_YAML = `server_url: https://headscale.alanwalton.com

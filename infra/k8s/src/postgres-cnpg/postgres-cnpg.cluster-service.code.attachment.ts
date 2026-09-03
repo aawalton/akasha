@@ -1,5 +1,5 @@
-import { type ApiObjectManifest, synthMulti, synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { HOSTNAME_KEY } from "@infra/k8s-types/hostnames"
+import { type ApiObjectManifest, synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
 import { cnpgClusterYaml } from "./cnpg-cluster"
 import { objectStoreYaml } from "./objectstore"
 import { scheduledBackupYaml } from "./scheduledbackup"

@@ -1,5 +1,5 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
 
 export const NAMESPACE = "eso-rig"
 const APP_NAME = "eso-rig"

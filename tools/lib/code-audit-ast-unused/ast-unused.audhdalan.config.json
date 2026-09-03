@@ -1,8 +1,10 @@
 {
   "workspaces": {
-    "audhdalan/web": {
+    "akasha/audhdalan/audhdalan-web": {
       "entry": [
-        "app/**/*.{ts,tsx}",
+        "*.{ts,tsx}",
+        "routes/**/*.{ts,tsx}",
+        "*/*.module.code.{ts,tsx}",
         "tunnel-routes.ts",
         "react-router.config.ts",
         "vite.config.ts"

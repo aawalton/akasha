@@ -1,4 +1,4 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 
 const NVIDIA_NAMESPACE = "kube-system"
 const NVIDIA_DAEMONSET_NAME = "nvidia-device-plugin-daemonset"

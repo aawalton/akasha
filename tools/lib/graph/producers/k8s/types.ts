@@ -1,4 +1,4 @@
-import type { Hostname } from "@infra/k8s-types/hostnames"
+import type { Hostname } from "@akasha/k8s-types/hostnames"
 
 export type K8sImageLine = {
   readonly value: string
