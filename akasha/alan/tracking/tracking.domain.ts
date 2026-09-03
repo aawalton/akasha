@@ -5,5 +5,10 @@ export const tracking = {
   pageTypeSlug: "domain",
   slug: "tracking",
   definition: "what is measured about Alan",
-  partSlugs: ["domain/tracking-daily", "page-type/session-activity"],
+  partSlugs: [
+    "domain/tracking-daily",
+    "page-type/food-entry",
+    "page-type/session-activity",
+    "page-type/to-do",
+  ],
 } as const satisfies Domain
