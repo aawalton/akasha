@@ -11,6 +11,7 @@ export const serviceSystem = {
     "page-type/service",
     "page-type/workstation-service",
     "page-type/cluster-service",
+    "page-type/vendored-workload",
     "page-type/web-app",
     "page-type/secret",
     "module/unit-writing",
