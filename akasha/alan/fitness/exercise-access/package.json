@@ -3,10 +3,16 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./exercise-choosing": "./exercise-choosing/exercise-choosing.module.code.ts",
+    "./exercise-finding": "./exercise-finding/exercise-finding.module.code.ts",
+    "./exercise-history": "./exercise-history/exercise-history.module.code.ts",
+    "./exercise-naming": "./exercise-naming/exercise-naming.module.code.ts",
+    "./exercise-rows": "./exercise-rows/exercise-rows.module.code.ts",
     "./exercise-vocabulary": "./exercise-vocabulary/exercise-vocabulary.module.code.ts",
     "./selection-policy": "./selection-policy/selection-policy.module.code.ts"
   },
   "dependencies": {
+    "@akasha/day": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@tools/lib": "workspace:*"
   }

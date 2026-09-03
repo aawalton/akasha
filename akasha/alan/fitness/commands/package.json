@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/exercise-commands",
+  "private": true,
+  "type": "module",
+  "exports": {},
+  "dependencies": {
+    "@akasha/command-system": "workspace:*",
+    "@akasha/day": "workspace:*",
+    "@akasha/exercise-access": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@tools/lib": "workspace:*"
+  }
+}
