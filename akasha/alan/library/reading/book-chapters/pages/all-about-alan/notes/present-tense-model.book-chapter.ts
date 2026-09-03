@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const presentTenseModel = {
   id: "01a06594-c67c-7006-a146-7d12fa444c1a",
