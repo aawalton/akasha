@@ -4,7 +4,7 @@ export const aTailwindSourceGlobNamesOneHalfOfAPackageMidMove = {
   id: "01a05ce2-aa22-747b-86da-e31f3931e820",
   pageTypeSlug: "finding",
   slug: "a-tailwind-source-glob-names-one-half-of-a-package-mid-move",
-  domainSlug: "workspace-package/alan-web",
+  domainSlug: "router-app/alan-web",
   claim:
     "A Tailwind `@source` glob is path-keyed configuration no typecheck and no build failure can see. While a package is half-moved its classes are emitted only where a `globals.css` names both halves, and four apps named the shared half alone. The cost rises as the move finishes rather than falling. One class here is built at run time rather than written, so no glob reaches it and only a safelist can.",
   evidence:

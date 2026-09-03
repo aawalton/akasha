@@ -4,7 +4,7 @@ export const theWebAppReachesAPackageItsManifestDoesNotName = {
   id: "01a05ce2-aa22-7b17-821f-e66d5e7a1984",
   pageTypeSlug: "finding",
   slug: "the-web-app-reaches-a-package-its-manifest-does-not-name",
-  domainSlug: "workspace-package/alan-web",
+  domainSlug: "router-app/alan-web",
   claim:
     "`alanwalton/web/app/routes/api.readout-relay.ts` imports `@akasha/readout-system`, which `alanwalton/web/package.json` does not name. It resolves only because Bun installs every workspace package into the root `node_modules`. Typecheck, install, `--frozen-lockfile --dry-run` and the build all succeed, and the route breaks whenever resolution stops being hoist-based.",
   evidence:

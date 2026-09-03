@@ -3,7 +3,7 @@ import type { Finding } from "../finding.page-type.ts"
 export const routeTypesFollowTheAppDirectoryRatherThanTheRouteFile = {
   id: "01a05cdc-7ea1-72eb-92b7-67e65a2e543f",
   pageTypeSlug: "finding",
-  domainSlug: "workspace-package/alan-web",
+  domainSlug: "router-app/alan-web",
   slug: "route-types-follow-the-app-directory-rather-than-the-route-file",
   claim:
     "react-router typegen exits 1 on a routes.ts string naming a file that is not there, inside the app directory or outside it, so existence is verified either way. What it will not do outside is generate the route's `+types`: the module lands in the generated route map as `unknown` and typegen still exits 0. Landing Alan's 62 route files as modules under akasha/alanwalton-web would untype loaderData on every one of them.",

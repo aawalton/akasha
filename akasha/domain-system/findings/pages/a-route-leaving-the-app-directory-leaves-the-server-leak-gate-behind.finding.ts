@@ -3,7 +3,7 @@ import type { Finding } from "../finding.page-type.ts"
 export const aRouteLeavingTheAppDirectoryLeavesTheServerLeakGateBehind = {
   id: "01a05cdc-7ea2-7e79-a5b3-897c0ba52e9a",
   pageTypeSlug: "finding",
-  domainSlug: "workspace-package/alan-web",
+  domainSlug: "router-app/alan-web",
   slug: "a-route-leaving-the-app-directory-leaves-the-server-leak-gate-behind",
   claim:
     "A route's server-only half is kept from the browser by its `.server` name and by check-rr-server-module-in-client, which reads only what stands under an app directory. An akasha module code file has no room for a `.server` suffix, and no akasha package declares `sideEffects: false`. Route files landing under akasha/alanwalton-web leave that gate reading clean over code it never opened.",

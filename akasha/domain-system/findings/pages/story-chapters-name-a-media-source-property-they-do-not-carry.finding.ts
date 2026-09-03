@@ -4,7 +4,7 @@ export const storyChaptersNameAMediaSourcePropertyTheyDoNotCarry = {
   id: "01a05cf4-03d5-77e6-9a28-a3dd08dfdb01",
   pageTypeSlug: "finding",
   slug: "story-chapters-name-a-media-source-property-they-do-not-carry",
-  domainSlug: "workspace-package/alan-web",
+  domainSlug: "router-app/alan-web",
   claim:
     "`story-chapter` states its audio is rendered from a property called `text`, and no story chapter carries one; the prose is under `body`. So every read-aloud read selects a property that is not there, gets null, and returns an empty body rather than refusing. Naming the page type fixed the throw; this is why the path still renders nothing.",
   evidence:

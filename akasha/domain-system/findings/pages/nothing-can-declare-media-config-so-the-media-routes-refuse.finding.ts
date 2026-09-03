@@ -4,7 +4,7 @@ export const nothingCanDeclareMediaConfigSoTheMediaRoutesRefuse = {
   id: "01a062aa-531f-72e9-8d63-155b88de0708",
   pageTypeSlug: "finding",
   slug: "nothing-can-declare-media-config-so-the-media-routes-refuse",
-  domainSlug: "workspace-package/alan-web",
+  domainSlug: "router-app/alan-web",
   claim:
     "No page type in akasha declares `mediaConfig`, and the `page-type` page type declares no such property, so no page type file could carry one. Both readers of it throw for every input rather than answering empty, which kills `resolveMediaPage` and the six media routes on Alan's site that reach it. This is a second break beneath the media routes, apart from the file-backed roster, and it outlives that roster being mended.",
   evidence:

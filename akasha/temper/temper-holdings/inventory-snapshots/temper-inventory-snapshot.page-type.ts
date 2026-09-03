@@ -6,10 +6,10 @@ import type { CraftingLevels } from "./properties/crafting-levels.page-property-
 import type { Currencies } from "./properties/currencies.page-property-entry.ts"
 import type { Data } from "./properties/data.file-property.ts"
 import type { LastFullScanAt } from "./properties/last-full-scan-at.instant-property.ts"
-import type { Locations } from "./properties/locations.page-property-entry.ts"
 import type { OpenCooldowns } from "./properties/open-cooldowns.page-property-entry.ts"
 import type { PlacedFurnishings } from "./properties/placed-furnishings.page-property-entry.ts"
 import type { PriceSource } from "./properties/price-source.text-property.ts"
+import type { SnapshotLocations } from "./properties/snapshot-locations.page-property-entry.ts"
 import type { Stacks } from "./properties/stacks.page-property-entry.ts"
 import type { TransmuteCrystalAmount } from "./properties/transmute-crystal-amount.number-property.ts"
 import type { TransmuteCrystalCap } from "./properties/transmute-crystal-cap.number-property.ts"
@@ -22,7 +22,7 @@ export type TemperInventorySnapshot = TemperHoldingsThing & {
   priceSource?: PriceSource
   transmuteCrystalAmount?: TransmuteCrystalAmount
   transmuteCrystalCap?: TransmuteCrystalCap
-  locations?: Locations
+  locations?: SnapshotLocations
   bagSizes?: BagSizes
   currencies?: Currencies
   craftingLevels?: CraftingLevels
@@ -74,7 +74,7 @@ export const temperInventorySnapshot = {
     "page-property-entry/bag-sizes",
     "page-property-entry/crafting-levels",
     "page-property-entry/currencies",
-    "page-property-entry/locations",
+    "page-property-entry/snapshot-locations",
     "page-property-entry/open-cooldowns",
     "page-property-entry/placed-furnishings",
     "page-property-entry/stacks",
@@ -100,7 +100,7 @@ export const temperInventorySnapshot = {
     { pagePropertySlug: "price-source", required: false, many: false },
     { pagePropertySlug: "transmute-crystal-amount", required: false, many: false },
     { pagePropertySlug: "transmute-crystal-cap", required: false, many: false },
-    { pagePropertySlug: "page-property-entry/locations", required: false, many: false },
+    { pagePropertySlug: "page-property-entry/snapshot-locations", required: false, many: false },
     { pagePropertySlug: "bag-sizes", required: false, many: false },
     { pagePropertySlug: "currencies", required: false, many: false },
     { pagePropertySlug: "crafting-levels", required: false, many: false },
