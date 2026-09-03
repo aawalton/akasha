@@ -1,10 +1,10 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { LOG } from "@tools/lib/ci-orchestrator/log"
+import { LOG } from "@akasha/pipeline-orchestration/orchestrator-log"
 import {
   runBoundedOrchestratorTick,
   TICK_CEILING_MS,
   TICK_MS,
-} from "@tools/lib/ci-orchestrator/tick"
+} from "@akasha/pipeline-orchestration/orchestrator-tick"
 import {
   sleptUntilStopped,
   stopsOnSignal,
