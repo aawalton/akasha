@@ -17,5 +17,14 @@ export const appearance = {
       invariantKind: "departure",
       statement: "A persona whose portrait already describes her still keeps this apart from it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Two personas may look alike in their pictures; they may never sound alike in their words.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "An appearance says what the persona's anchor image shows of her ancestry.",
+    },
   ],
 } as const satisfies FileProperty

@@ -8,6 +8,7 @@ export const idleSystem = {
   manifest: "json",
   partSlugs: [
     "page-type/idle-persona-card",
+    "page-type/idle-save",
     "module/idle-state",
     "module/idle-constants",
     "module/idle-gacha-state",

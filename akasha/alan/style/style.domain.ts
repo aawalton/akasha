@@ -5,4 +5,5 @@ export const style = {
   pageTypeSlug: "domain",
   slug: "style",
   definition: "how Alan dresses, grooms and carries himself",
+  partSlugs: ["page-type/appearance-experiment"],
 } as const satisfies Domain
