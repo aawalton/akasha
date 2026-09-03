@@ -18,6 +18,7 @@
     "./settled-refresh": "./settled-refresh/settled-refresh.module.code.ts",
     "./status-bar-theme": "./status-bar-theme/status-bar-theme.module.code.ts",
     "./subagent-core": "./subagent-core/subagent-core.module.code.ts",
+    "./tail-fold": "./tail-fold/tail-fold.module.code.ts",
     "./terminal-lookup": "./terminal-lookup/terminal-lookup.module.code.ts",
     "./terminal-marks": "./terminal-marks/terminal-marks.module.code.ts",
     "./terminal-pids": "./terminal-pids/terminal-pids.module.code.ts",

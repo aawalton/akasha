@@ -29,6 +29,7 @@ export const editorExtension = {
     "module/harness-call",
     "module/terminal-pids",
     "module/subagent-core",
+    "module/tail-fold",
   ],
   invariants: [
     {
