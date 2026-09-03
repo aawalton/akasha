@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
-import { CHECK_EXEMPT_DIRS } from "../../../repo/scope/scope.ts"
 import { Glob } from "bun"
+import { CHECK_EXEMPT_DIRS } from "../../../akasha/checks/cluster-checks/modules/repo-scope/repo-scope.module.code.ts"
 
 export const FILESYSTEM_WALK_EXEMPT_DIRS: ReadonlySet<string> = new Set([
   "node_modules",

@@ -3,11 +3,11 @@
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import ts from "typescript"
-import { CHECK_EXEMPT_DIRS } from "../../../../../repo/scope/scope.ts"
 import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population.ts"
 import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
 import { parseArgs, STANDARD_FLAGS } from "../cli-args/cli-args.module.code.ts"
 import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
+import { CHECK_EXEMPT_DIRS } from "../repo-scope/repo-scope.module.code.ts"
 import { refuseRetired } from "../retired/retired.module.code.ts"
 import {
   type NormalizedFinding,

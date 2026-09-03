@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process"
-import { CHECK_EXEMPT_DIRS } from "../../repo/scope/scope.ts"
+import { CHECK_EXEMPT_DIRS } from "../../akasha/checks/cluster-checks/modules/repo-scope/repo-scope.module.code.ts"
 
 export type RepoFilesAtOptions = {
   readonly includeFixtures?: boolean

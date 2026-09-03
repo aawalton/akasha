@@ -2,7 +2,6 @@ import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import type { z } from "zod"
 import { getWorkspaceDeps } from "../../../../../infra/scripts/src/generate-dockerfiles-deps.ts"
-import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { createEngine } from "../../../../../tools/lib/graph/engine.ts"
 import { readAt } from "../../../../../tools/lib/graph/held-snapshot.ts"
 import { fileNodeProducer } from "../../../../../tools/lib/graph/producers/file/file.node.producer.ts"
@@ -33,6 +32,7 @@ import {
   relPathWithinWorkspace,
   SKIP_SPECIFIERS,
 } from "../check-phantom-deps-filters/check-phantom-deps-filters.module.code.ts"
+import { CODE_REPO } from "../repo-scope/repo-scope.module.code.ts"
 
 const MANIFEST = "package.json"
 

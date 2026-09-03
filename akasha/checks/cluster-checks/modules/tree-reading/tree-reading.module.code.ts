@@ -1,8 +1,8 @@
 import { execFileSync } from "node:child_process"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { CHECK_EXEMPT_DIRS } from "../../../../../repo/scope/scope.ts"
 import { discoverRepoFiles } from "../repo-files/repo-files.module.code.ts"
+import { CHECK_EXEMPT_DIRS } from "../repo-scope/repo-scope.module.code.ts"
 
 export type TreeReadingOptions = {
   readonly includeFixtures?: boolean

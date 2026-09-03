@@ -1,7 +1,6 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { CHECK_EXEMPT_DIRS } from "../../../../../repo/scope/scope.ts"
 import {
   examineFilePopulation,
   examinePopulation,
@@ -20,6 +19,7 @@ import {
 } from "../../modules/guarded-resolve/guarded-resolve.module.code.ts"
 import { repoTopLevelDirs } from "../../modules/repo-path-resolver/repo-path-resolver.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { CHECK_EXEMPT_DIRS } from "../../modules/repo-scope/repo-scope.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()

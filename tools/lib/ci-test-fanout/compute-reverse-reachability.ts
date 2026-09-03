@@ -2,6 +2,7 @@
 
 import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
+import { CODE_REPO } from "../../../akasha/checks/cluster-checks/modules/repo-scope/repo-scope.module.code.ts"
 import { TEST_TYPES } from "../check-workflow/test-step-paths.ts"
 import { buildFrom, readAt } from "../graph/held-snapshot.ts"
 import {
@@ -12,9 +13,8 @@ import {
   tsFileNodeId,
   tsFileNodeIdToCodeRepoRel,
 } from "../graph/producers/file/ts-file/types.ts"
-import { CODE_REPO } from "../../../repo/scope/scope.ts"
-import { repoTree } from "../graph/producers/lib/repo-tree.ts"
 import { curatedWorkspaces } from "../graph/producers/lib/curation.ts"
+import { repoTree } from "../graph/producers/lib/repo-tree.ts"
 import { workspaceDirsAt } from "../graph/producers/lib/workspace-dirs.ts"
 import { transitiveClosure } from "../graph/queries/transitive.ts"
 import type { BuildContext } from "../graph/types.ts"
