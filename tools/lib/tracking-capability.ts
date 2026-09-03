@@ -1,10 +1,11 @@
 import type { Page, PageAccessClient } from "./daily-tracking/tracking-types.ts"
-import { getMountainEveningDayStr, mtWallHm } from "./tracking/mountain-times.ts"
-import { DAY_TURN_WORDS, MINUTE_WORDS, titleMatchesAnyWord } from "./tracking/title-words.ts"
-import { buildDeleteEcho, resolveEchoedDay } from "./tracking/echoes.ts"
-import { planSafetySplit } from "./tracking/safety-split.ts"
+import {
+  listSessionActivities,
+  normalizeSessionActivities,
+  setActivityDefault,
+} from "./tracking/activities.ts"
 import { resolveAttributedDay } from "./tracking/day-attribution.ts"
-import { getPage, getPageAccessClient, getPages } from "./tracking/pages.ts"
+import { buildDeleteEcho, resolveEchoedDay } from "./tracking/echoes.ts"
 import {
   displayTitle,
   durationSeconds,
@@ -19,15 +20,8 @@ import {
   resolveCarriedSafety,
   resolveDifficulty,
 } from "./tracking/levels.ts"
-import {
-  parseRelationshipTokens,
-  resolveRelationshipIds,
-} from "./tracking/relationships.ts"
-import {
-  listSessionActivities,
-  normalizeSessionActivities,
-  setActivityDefault,
-} from "./tracking/activities.ts"
+import { getMountainEveningDayStr, mtWallHm } from "./tracking/mountain-times.ts"
+import { getPage, getPageAccessClient, getPages } from "./tracking/pages.ts"
 import {
   blockDay,
   DAILY_TRACKING_VERSION,
@@ -39,6 +33,7 @@ import {
   resolveOrCreateDaily,
   TRACKING_WRITER,
 } from "./tracking/resolve.ts"
+import { planSafetySplit } from "./tracking/safety-split.ts"
 import {
   amendSession,
   closeSession,
@@ -47,16 +42,11 @@ import {
   dropSession,
   SESSION_HELD_ON,
 } from "./tracking/sessions.ts"
+import { DAY_TURN_WORDS, MINUTE_WORDS, titleMatchesAnyWord } from "./tracking/title-words.ts"
 
 export type { Page, PageAccessClient }
 
-export {
-  DAILY_TRACKING_VERSION,
-  DAY_TURN_WORDS,
-  MINUTE_WORDS,
-  SESSION_HELD_ON,
-  TRACKING_WRITER,
-}
+export { DAILY_TRACKING_VERSION, DAY_TURN_WORDS, MINUTE_WORDS, SESSION_HELD_ON, TRACKING_WRITER }
 
 const format = {
   fieldStr,
@@ -74,8 +64,6 @@ const time = {
 }
 
 const levels = { parseSafety, parseDifficulty, resolveCarriedSafety, resolveDifficulty }
-
-const relationships = { parseRelationshipTokens, resolveRelationshipIds }
 
 const resolve = {
   findOpenSession,
@@ -124,10 +112,6 @@ export function trackingTime(): Promise<typeof time> {
 
 export function trackingLevels(): Promise<typeof levels> {
   return Promise.resolve(levels)
-}
-
-export function trackingRelationships(): Promise<typeof relationships> {
-  return Promise.resolve(relationships)
 }
 
 export function trackingResolve(): Promise<typeof resolve> {
