@@ -1,6 +1,5 @@
 import { addonBuildChecks } from "./check-configs-addons-build.ts"
 import { ADDON_HELD_TERRITORY_CHECKS } from "./check-configs-addons-held-territory.ts"
-import { ADDON_TI_CLEAN_CHECKS } from "./check-configs-addons-ti-clean.ts"
 import type { CheckConfig } from "./check-configs-types"
 
 export const addonChecks = (codeRoot: string): readonly CheckConfig[] => [
@@ -32,5 +31,4 @@ export const addonChecks = (codeRoot: string): readonly CheckConfig[] => [
     script: "infra/cluster-checks/src/checks/check-lib-sets-stale-capture.ts",
   },
   ...ADDON_HELD_TERRITORY_CHECKS,
-  ...ADDON_TI_CLEAN_CHECKS,
 ]

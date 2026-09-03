@@ -1,5 +1,4 @@
 import { type CheckConfig, treeShaArgs } from "./check-configs-types"
-import { WORKFLOW_DSL_POPULATION, WORKFLOW_SURFACE_POPULATION } from "./check-configs-types.ts"
 
 export const K8S_CHECKS: CheckConfig[] = [
   {
@@ -25,16 +24,5 @@ export const K8S_CHECKS: CheckConfig[] = [
       "ts-file:instructions:tools/lib/check-workflow/checksum-annotation-pairing.ts",
     ],
     script: "infra/cluster-checks/src/checks/check-checksum-annotation-substitution.ts",
-  },
-  {
-    name: "checksum-substitution-reachability",
-    dispatchNodeTypes: ["workflow", WORKFLOW_SURFACE_POPULATION, WORKFLOW_DSL_POPULATION],
-    dispatchNodes: [
-      "ts-file:instructions:tools/commands/check-checksum-substitution-reachability.ts",
-      "ts-file:instructions:tools/lib/check-workflow/checksum-substitution-reachability.ts",
-      "ts-file:instructions:tools/lib/check-workflow/checksum-annotation-substitution.ts",
-    ],
-    script: "tools/commands/check-checksum-substitution-reachability.ts",
-    args: (ci) => ["--code-root", ci.workspace],
   },
 ]

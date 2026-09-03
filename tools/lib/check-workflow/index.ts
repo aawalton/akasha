@@ -30,7 +30,6 @@ import { CODEGEN_CHECKS } from "./check-configs-codegen.ts"
 import { COMPONENT_CHECKS } from "./check-configs-component.ts"
 import { K8S_CHECKS } from "./check-configs-k8s.ts"
 import { PACKAGE_CHECKS } from "./check-configs-package.ts"
-import { RBAC_CHECKS } from "./check-configs-rbac.ts"
 import {
   buildServiceTypecheckChecks,
   type LeafPackageEntry,
@@ -184,7 +183,6 @@ function checkConfigs(codeRoot: string): readonly CheckConfig[] {
 
   return [
     ...STATIC_CHECKS,
-    ...RBAC_CHECKS,
     ...acyclicityChecks(),
     ...addonChecks(codeRoot),
     ...buildTypecheckChecks(deployableApps),

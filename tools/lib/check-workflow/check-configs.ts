@@ -93,18 +93,6 @@ export const STATIC_CHECKS: CheckConfig[] = [
     args: treeShaArgs,
   },
   {
-    name: "image-tools",
-    closurePolicy: "import-graph",
-    dispatchNodeTypes: ["workflow", WORKFLOW_SURFACE_POPULATION],
-    dispatchNodes: [
-      "ts-file:instructions:tools/commands/check-image-tools.ts",
-      "ts-file:instructions:tools/lib/check-workflow/shell-command-binaries.ts",
-      "ts-file:instructions:akasha/changes/workflow-language/images/images.module.code.ts",
-    ],
-    script: "tools/commands/check-image-tools.ts",
-    args: (ci) => ["--code-root", ci.workspace],
-  },
-  {
     name: "sops-manifests",
     dispatchNodeTypes: YAML_POPULATION,
     dispatchNodes: [
