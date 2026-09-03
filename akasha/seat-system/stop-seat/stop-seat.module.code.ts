@@ -4,7 +4,7 @@ import { decideKillTarget } from "../kill-target-plan/kill-target-plan.module.co
 import { killSeatSession } from "../launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { scanProcEntries } from "../proc-scan/proc-scan.module.code.ts"
 import { seatRecord } from "../seat-facts/seat-facts.module.code.ts"
-import { removeSeatPage } from "../seat-page/seat-page.module.code.ts"
+import { removeSeatPage } from "../seat-page-writing/seat-page-writing.module.code.ts"
 import { liveAgentPidsFromProc } from "../seat-proc-liveness/seat-proc-liveness.module.code.ts"
 import { decideSubagentGuard } from "../subagent-guard/subagent-guard.module.code.ts"
 import {

@@ -11,7 +11,7 @@ export const seatSystem = {
     "module/launch-seat-tmux",
     "module/seat-handle",
     "module/seat-name-restate",
-    "module/seat-page",
+    "module/seat-page-writing",
     "module/seat-roster",
     "module/seat-whoami",
     "module/session-jsonl",

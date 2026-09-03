@@ -7,7 +7,7 @@
     "./launch-seat-tmux": "./launch-seat-tmux/launch-seat-tmux.module.code.ts",
     "./seat-handle": "./seat-handle/seat-handle.module.code.ts",
     "./seat-name-restate": "./seat-name-restate/seat-name-restate.module.code.ts",
-    "./seat-page": "./seat-page/seat-page.module.code.ts",
+    "./seat-page-writing": "./seat-page-writing/seat-page-writing.module.code.ts",
     "./seat-roster": "./seat-roster/seat-roster.module.code.ts",
     "./seat-whoami": "./seat-whoami/seat-whoami.module.code.ts",
     "./session-jsonl": "./session-jsonl/session-jsonl.module.code.ts",

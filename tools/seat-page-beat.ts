@@ -1,5 +1,5 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { removeSeatPage, writeSeatPage } from "@akasha/seat-system/seat-page"
+import { removeSeatPage, writeSeatPage } from "@akasha/seat-system/seat-page-writing"
 import { composedNameOf } from "@akasha/seat-system/seat-rename"
 import type { Outcome } from "../akasha/command-system/gated-write/gated-write.module.code.ts"
 import {
