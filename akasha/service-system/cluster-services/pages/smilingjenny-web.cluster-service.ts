@@ -11,5 +11,6 @@ export const smilingjennyWeb = {
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   replicas: 1,
   containerPort: 3000,
-  manifestCode: "smilingjenny/web/smilingjenny-web.cluster-service.code.attachment.ts",
+  manifestCode:
+    "akasha/smilingjenny/smilingjenny-web/smilingjenny-web.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService
