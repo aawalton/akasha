@@ -17,7 +17,7 @@
  */
 import { beforeEach, expect, mock, test } from "bun:test"
 import { UserIdContext } from "@akasha/pages-ui/use-user-id"
-import { render } from "@shared/utils-test/render"
+import { render } from "@testing-library/react"
 import { act, useContext, useEffect } from "react"
 
 process.env.BASE_URL = "/"
