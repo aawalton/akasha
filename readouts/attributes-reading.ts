@@ -133,8 +133,15 @@ async function charismaOf(day: Readonly<Record<string, unknown>>): Promise<numbe
  * client still recognises `food-entry` but enumerates none of its files, so it answered no rows
  * without refusing, and this tile read zero constitution every five minutes while 87 food entries
  * stood in akasha.
+ *
+ * `async` is what keeps this source's failure to itself. Everything above the fetch runs before
+ * the first await — `resolveRoots`, the window, and the refusal spelled out below — so without it
+ * those throws are raised where the call is written rather than carried by the promise, and
+ * `Promise.allSettled` never sees them. A checkout it could not find would then take down the
+ * five attributes read off the day beside it, which have nothing to do with what Alan ate. The
+ * throws are unchanged; what changes is that they now arrive as this one source's rejection.
  */
-function constitutionOf(now: Date): Promise<number> {
+async function constitutionOf(now: Date): Promise<number> {
   const here = resolveRoots()
   const window = wakeDayWindow(here, wakeDayOf(here, now))
   const checkout = (here as unknown as Readonly<Record<string, string>>)[AKASHA]
