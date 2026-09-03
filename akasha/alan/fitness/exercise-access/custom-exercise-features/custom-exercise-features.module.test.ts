@@ -12,10 +12,12 @@ test("a slug Alan states is read back to the spelling the working expects", () =
   expect(traits.gripDemand).toBe("none")
 })
 
-test("a movement stating no level is worked as a beginner's", () => {
+test("a movement stating nothing but a title still takes every trait", () => {
   const traits = deriveCustomExerciseFeatures({ title: "Barbell Curl" })
-  expect(traits.skillCost).toBe("moderate")
+  expect(traits.skillCost).toBe("low")
   expect(traits.laterality).toBe("bilateral")
+  expect(traits.muscleFocus).toBe("other")
+  expect(traits.movementPattern).toBe("isolation-other")
 })
 
 test("a movement Alan wrote takes its traits by the same working as an imported one", () => {
