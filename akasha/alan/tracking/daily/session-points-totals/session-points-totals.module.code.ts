@@ -1,14 +1,7 @@
 import { getEsoDayWindow } from "@akasha/day/eso-day"
 import { greenDayPointsOf } from "@akasha/personas-core/green-day-fraction"
-import {
-  allSessions,
-  sessionPropertyDefinitions,
-  sessionPropertyUndeclared,
-} from "@tools/lib/tracking/day-place"
-import type {
-  PropertyDefinition,
-  ReadonlyJSONValue,
-} from "../day-narrow-types/day-narrow-types.module.code.ts"
+import { allSessions, sessionPropertyUndeclared } from "@tools/lib/tracking/day-place"
+import type { ReadonlyJSONValue } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import {
   numberOf,
   SOURCE_POINTS_FIELD,
@@ -56,18 +49,8 @@ export const SESSION_SPECS_BY_SLUG: Readonly<Record<string, PersonaSessionSpec>>
 }
 
 export interface SessionPointsSource {
-  readonly defs: readonly PropertyDefinition[]
   readonly rows: readonly Readonly<Record<string, ReadonlyJSONValue>>[]
   readonly undeclared: string | null
-}
-
-async function loadSessionTrackingDefs(): Promise<readonly PropertyDefinition[]> {
-  const defs = await sessionPropertyDefinitions()
-  return defs.map((values) => ({
-    ...values,
-    id: textOf(values.id) ?? "",
-    slug: textOf(values.slug) ?? "",
-  }))
 }
 
 async function loadAllSessionRows(): Promise<
@@ -80,12 +63,11 @@ async function loadAllSessionRows(): Promise<
 export async function readSessionPointsSource(
   spec: PersonaSessionSpec
 ): Promise<SessionPointsSource> {
-  const [defs, rows, undeclared] = await Promise.all([
-    loadSessionTrackingDefs(),
+  const [rows, undeclared] = await Promise.all([
     loadAllSessionRows(),
     sessionPropertyUndeclared(spec.pointsPropId),
   ])
-  return { defs, rows, undeclared }
+  return { rows, undeclared }
 }
 
 async function personaFor(

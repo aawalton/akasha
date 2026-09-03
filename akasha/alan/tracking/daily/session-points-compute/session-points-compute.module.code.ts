@@ -86,7 +86,7 @@ export function sumSessionPointsForValue(
 export function sessionStartTime(
   row: Readonly<Record<string, ReadonlyJSONValue>>
 ): Date | undefined {
-  const raw = row["start-time"]
+  const raw = row["startTime"]
   if (typeof raw !== "string") return undefined
   const d = new Date(raw)
   return Number.isNaN(d.getTime()) ? undefined : d

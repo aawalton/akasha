@@ -1,4 +1,3 @@
-import { addressOf } from "@akasha/markdown-pages/page-address"
 import { kebabisedRow } from "@akasha/pages-system/akasha-page-values"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
@@ -7,7 +6,6 @@ import { dataError } from "../exit.ts"
 import {
   type Answered,
   type AnsweredRow,
-  askComposed,
   type Landed,
   pageLanding,
   removeRow,
@@ -20,11 +18,6 @@ import { pageOf } from "./pages.ts"
 export const DAILY_TRACKING = "daily-tracking"
 
 export const SESSION_TRACKING = "session-tracking"
-
-/** The page type a page type is, and the page type a property definition is. */
-const PAGE_TYPE = "page-type"
-
-const PROPERTY_DEFINITION = "page-property-definition"
 
 export const MARKDOWN = "markdown"
 
@@ -641,38 +634,22 @@ export async function allSessions(): Promise<AllSessions> {
 }
 
 /**
- * What a session row is declared as able to carry.
+ * Why a property may not be scored across stretches, or nothing where it may.
  *
- * This is asked of the page type rather than of a day, but it names the session page type to do it,
- * so it is asked here: the one file that knows what a session page type is called is the one that
- * names it.
- */
-export async function sessionPropertyDefinitions(): Promise<
-  readonly Readonly<Record<string, unknown>>[]
-> {
-  const answer = await askComposed({
-    "page-type": PROPERTY_DEFINITION,
-    where: { "defined-on-slug": { is: addressOf(PAGE_TYPE, SESSION_TRACKING) } },
-  })
-  if (!answer.ok) throw dataError(`reading what a ${SESSION_TRACKING} row may carry: ${answer.why}`)
-  return answer.rows.map((row) => row.values)
-}
-
-/**
- * Why a property may not be scored across sessions, or nothing where it may.
+ * A caller that sums a property the entry declares nothing for gets 0 from every row and cannot
+ * tell that apart from a real total of nothing, so it would write an instrument's silence as a
+ * measurement.
  *
- * A caller that sums a property no definition declares gets 0 from every row and cannot tell that
- * apart from a real total of nothing, so it would write an instrument's silence as a measurement.
- * The answer is a sentence rather than a `false` because the sentence has to name the session page
- * type to be worth reading, and this is where that name is kept.
+ * What a stretch may carry is asked of the `sessions` entry property, which is where a stretch's
+ * fields are declared now that a stretch is a row beside a day rather than a page. This asked the
+ * markdown `page-property-definition` page type until that page type was taken away, after which
+ * the read threw on every call and the two writers above it threw with it.
  */
-export async function sessionPropertyUndeclared(propertyKey: string): Promise<string | null> {
-  const defs = await sessionPropertyDefinitions()
-  const declared = defs.some((def) => (def as { readonly key?: unknown }).key === propertyKey)
-  if (declared) return null
-  return (
-    `no property definition declares \`${propertyKey}\` on \`${SESSION_TRACKING}\`, so every ` +
-    "session scores 0 and any total written from it would state an instrument's silence as a " +
-    "measurement"
+export function sessionPropertyUndeclared(propertyKey: string): Promise<string | null> {
+  const declared = entryKeysDeclared(checkoutRoot(), SESSIONS, "a stretch of Alan's day")
+  if (declared.has(camelizeKey(propertyKey))) return Promise.resolve(null)
+  return Promise.resolve(
+    `the \`${SESSIONS}\` entry declares no \`${propertyKey}\`, so every stretch scores 0 and ` +
+      "any total written from it would state an instrument's silence as a measurement"
   )
 }
