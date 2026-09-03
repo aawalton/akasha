@@ -1,10 +1,11 @@
 import type { BookChapter } from "../../../../../../../book-chapter.page-type.ts"
 
-export const euCitizenshipSummary = {
-  id: "01a06594-c689-7005-b903-464c26182985",
+export const otherCitizenshipAndorra = {
+  id: "01a06594-c68a-700d-a6e8-2d55edf2043f",
   pageTypeSlug: "book-chapter",
-  slug: "eu-citizenship-summary",
-  title: "Summary",
+  slug: "other-citizenship-andorra",
+  title: "Andorra",
+  description: "Andorra citizenship paths (May 2026 snapshot).",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

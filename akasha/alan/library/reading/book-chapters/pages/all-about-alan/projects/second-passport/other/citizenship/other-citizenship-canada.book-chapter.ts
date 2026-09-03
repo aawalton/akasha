@@ -1,10 +1,11 @@
 import type { BookChapter } from "../../../../../../../book-chapter.page-type.ts"
 
-export const euCitizenshipSummary = {
-  id: "01a06594-c689-7005-b903-464c26182985",
+export const otherCitizenshipCanada = {
+  id: "01a06594-c68a-700f-9110-da9782de1cce",
   pageTypeSlug: "book-chapter",
-  slug: "eu-citizenship-summary",
-  title: "Summary",
+  slug: "other-citizenship-canada",
+  title: "Canada",
+  description: "Canada citizenship paths (May 2026 snapshot).",
   partOfSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
