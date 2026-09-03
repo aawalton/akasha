@@ -1,8 +1,0 @@
-# Creative BT-W5 Bluetooth transmitter — grant the seated user access to the
-# hidraw config interface so `btw5` (packages/shared/dotfiles/bin/btw5) can
-# send feature reports without sudo. Numbered <73 so the uaccess tag is
-# processed by 73-seat-late.rules.
-SUBSYSTEM=="hidraw", ATTRS{idVendor}=="041e", ATTRS{idProduct}=="3130", TAG+="uaccess"
-# usb subsystem too: lets qemu claim the whole device for VM USB passthrough
-# (Creative App firmware updates run in a Windows guest).
-SUBSYSTEM=="usb", ATTR{idVendor}=="041e", ATTR{idProduct}=="3130", TAG+="uaccess"
