@@ -1,7 +1,7 @@
 import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
 
 export const poisonResist = {
-  id: "01a05fd8-a431-75c5-b460-0ff5e6546c68",
+  id: "019e5c85-d956-7d2f-891d-0d40261fddf5",
   pageTypeSlug: "temper-jewelry-enchant",
   slug: "poison-resist",
   title: "Poison Resist",

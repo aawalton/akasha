@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricBreakFreeDuration = {
-  id: "01a05fcc-d871-74d4-8e1e-eaa1d05997e4",
+  id: "019e2fcd-5ac1-77c9-841e-68ef3b30fe01",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-break-free-duration",
   title: "Break Free Duration",

@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const vvardenfellBalmora = {
-  id: "01a05fcf-26b8-7b8c-adcb-d5ab911f416b",
+  id: "019e2fc6-525f-744c-822a-0d3f1eb49384",
   pageTypeSlug: "temper-guild-trader",
   slug: "vvardenfell-balmora",
   title: "Vvardenfell: Balmora",

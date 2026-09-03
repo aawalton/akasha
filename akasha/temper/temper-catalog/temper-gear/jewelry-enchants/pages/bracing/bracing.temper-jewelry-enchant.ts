@@ -1,7 +1,7 @@
 import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
 
 export const bracing = {
-  id: "01a05fd8-a42e-7de6-9235-cd0a883f76e9",
+  id: "019e5c85-d960-73f9-8cea-07b3219c1425",
   pageTypeSlug: "temper-jewelry-enchant",
   slug: "bracing",
   title: "Bracing",

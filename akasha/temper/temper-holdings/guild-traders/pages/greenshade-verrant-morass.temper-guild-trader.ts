@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const greenshadeVerrantMorass = {
-  id: "01a05fcf-26ac-716a-bcf5-7339296ed697",
+  id: "019e2fc6-5223-726f-91eb-3afd16fbbc57",
   pageTypeSlug: "temper-guild-trader",
   slug: "greenshade-verrant-morass",
   title: "Greenshade: Verrant Morass",

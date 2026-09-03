@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const stonefallsEbonheart = {
-  id: "01a05fcf-26b3-7b7d-8a76-44d442acdccc",
+  id: "019e2fc6-5250-75a6-9fa5-6b18865fdd32",
   pageTypeSlug: "temper-guild-trader",
   slug: "stonefalls-ebonheart",
   title: "Stonefalls: Ebonheart",

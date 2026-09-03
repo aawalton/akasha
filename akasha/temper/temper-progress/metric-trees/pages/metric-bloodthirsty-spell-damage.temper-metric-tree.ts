@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricBloodthirstySpellDamage = {
-  id: "01a05fcc-d86f-75cd-9b24-2d7d1f1785e6",
+  id: "019e2fcd-59ec-7e2b-a73f-1c44fafcf76a",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-bloodthirsty-spell-damage",
   title: "Bloodthirsty Spell Damage",

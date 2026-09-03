@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const grahtwoodEldenRoot = {
-  id: "01a05fcf-26ab-73da-ad13-d13edc68ef6b",
+  id: "019e2fc6-5224-7fb1-9868-9fd49be2e834",
   pageTypeSlug: "temper-guild-trader",
   slug: "grahtwood-elden-root",
   title: "Grahtwood:  Elden Root",

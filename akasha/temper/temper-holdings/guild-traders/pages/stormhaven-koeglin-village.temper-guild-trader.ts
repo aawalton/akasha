@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const stormhavenKoeglinVillage = {
-  id: "01a05fcf-26b3-770f-b1c4-01982dc86556",
+  id: "019e2fc6-523a-7b9d-80ae-d225d916f9fc",
   pageTypeSlug: "temper-guild-trader",
   slug: "stormhaven-koeglin-village",
   title: "Stormhaven: Koeglin Village",

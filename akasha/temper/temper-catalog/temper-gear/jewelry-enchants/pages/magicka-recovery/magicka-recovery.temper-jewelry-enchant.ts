@@ -1,7 +1,7 @@
 import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
 
 export const magickaRecovery = {
-  id: "01a05fd8-a431-777f-a314-87b7783a9533",
+  id: "019e5c85-d944-7808-a7cb-6ef7ac7b95ee",
   pageTypeSlug: "temper-jewelry-enchant",
   slug: "magicka-recovery",
   title: "Magicka Recovery",

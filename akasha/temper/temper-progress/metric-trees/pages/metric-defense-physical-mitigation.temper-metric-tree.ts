@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricDefensePhysicalMitigation = {
-  id: "01a05fcc-d87e-7979-9d7b-9a6d9a496ec6",
+  id: "019e2fcd-5a46-7446-8112-d4cd8210bbdb",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-defense-physical-mitigation",
   title: "Defense Physical Mitigation",

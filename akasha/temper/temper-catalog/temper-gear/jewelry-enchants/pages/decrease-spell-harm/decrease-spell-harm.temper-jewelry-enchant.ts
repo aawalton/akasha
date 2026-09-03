@@ -1,7 +1,7 @@
 import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
 
 export const decreaseSpellHarm = {
-  id: "01a05fd8-a42e-72ed-8119-dc64ad2afa59",
+  id: "019e5c85-d95c-73c8-bb14-91cea6c435c1",
   pageTypeSlug: "temper-jewelry-enchant",
   slug: "decrease-spell-harm",
   title: "Decrease Spell Harm",

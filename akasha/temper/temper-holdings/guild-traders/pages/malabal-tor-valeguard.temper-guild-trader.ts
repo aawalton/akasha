@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const malabalTorValeguard = {
-  id: "01a05fcf-26ae-71d0-9c1a-b2b06ae8b9bd",
+  id: "019e2fc6-521d-7f77-9210-22514ff217d4",
   pageTypeSlug: "temper-guild-trader",
   slug: "malabal-tor-valeguard",
   title: "Malabal Tor: Valeguard",

@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const solsticeSunportOutlawsRefuge = {
-  id: "01a05fcf-26b2-7ef6-b1c7-a3bc7dfc2df7",
+  id: "019e2fc6-5279-788b-99ab-86987412de4f",
   pageTypeSlug: "temper-guild-trader",
   slug: "solstice-sunport-outlaws-refuge",
   title: "Solstice: Sunport Outlaws Refuge",

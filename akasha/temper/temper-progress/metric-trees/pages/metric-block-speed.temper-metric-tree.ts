@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricBlockSpeed = {
-  id: "01a05fcc-d86f-76ca-9419-0f1d0ef1be14",
+  id: "019e2fcd-5a85-7fba-8df2-9efec9dd92e6",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-block-speed",
   title: "Block Speed",

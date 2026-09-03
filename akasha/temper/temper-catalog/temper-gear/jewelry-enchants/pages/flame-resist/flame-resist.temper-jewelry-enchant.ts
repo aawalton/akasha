@@ -1,7 +1,7 @@
 import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
 
 export const flameResist = {
-  id: "01a05fd8-a42f-7710-b3f1-76e0ae831d9e",
+  id: "019e5c85-d952-75c2-8e1c-23698b58c47c",
   pageTypeSlug: "temper-jewelry-enchant",
   slug: "flame-resist",
   title: "Flame Resist",

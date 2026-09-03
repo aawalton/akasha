@@ -1,7 +1,7 @@
 import type { TemperLocationType } from "../temper-location-type.page-type.ts"
 
 export const character = {
-  id: "01a05fc5-1698-7b35-b855-4788b69492c3",
+  id: "019e3103-2705-7edb-a0fc-a172e916fbbb",
   pageTypeSlug: "temper-location-type",
   slug: "character",
   title: "Characters",

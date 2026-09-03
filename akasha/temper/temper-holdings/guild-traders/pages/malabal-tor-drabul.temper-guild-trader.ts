@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const malabalTorDrabul = {
-  id: "01a05fcf-26ad-7f21-af70-cf52cedb6bba",
+  id: "019e2fc6-521c-7c0d-ba1d-190211d878c8",
   pageTypeSlug: "temper-guild-trader",
   slug: "malabal-tor-drabul",
   title: "Malabal Tor: Dra'bul",

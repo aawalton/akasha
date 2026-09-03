@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const theReachMarkarth = {
-  id: "01a05fcf-26b7-7d95-9a89-31b5273b1ae8",
+  id: "019e2fc6-526c-7760-b19d-c0d5b5f0153b",
   pageTypeSlug: "temper-guild-trader",
   slug: "the-reach-markarth",
   title: "The Reach: Markarth",

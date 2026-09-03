@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const galenAndYffelonVastyrOutlawsRefuge = {
-  id: "01a05fcf-26a9-7cc0-858f-1a1283249971",
+  id: "019e2fc6-5274-7484-8060-752201f6f5b2",
   pageTypeSlug: "temper-guild-trader",
   slug: "galen-and-yffelon-vastyr-outlaws-refuge",
   title: "Galen and Y'ffelon: Vastyr Outlaws Refuge",

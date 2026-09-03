@@ -1,7 +1,7 @@
 import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
 
 export const bashing = {
-  id: "01a05fd8-a42d-78b7-845d-8dd0979ea6d3",
+  id: "019e5c85-d95d-7f46-b068-c3b9e8d6ab01",
   pageTypeSlug: "temper-jewelry-enchant",
   slug: "bashing",
   title: "Bashing",

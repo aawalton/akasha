@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricAttackPower = {
-  id: "01a05fcc-d86e-7d0d-9047-9704ac06adec",
+  id: "019e2fcd-5968-718b-872f-252cc0039db4",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-attack-power",
   title: "Attack Power",

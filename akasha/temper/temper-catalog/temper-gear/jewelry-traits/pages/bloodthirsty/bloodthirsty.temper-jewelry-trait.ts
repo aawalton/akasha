@@ -1,7 +1,7 @@
 import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.ts"
 
 export const bloodthirsty = {
-  id: "01a05fd8-a434-7f63-8d66-a1857f08eca2",
+  id: "019e5b97-6d87-7ebe-8b8a-90f7afd5b457",
   pageTypeSlug: "temper-jewelry-trait",
   slug: "bloodthirsty",
   title: "Bloodthirsty",

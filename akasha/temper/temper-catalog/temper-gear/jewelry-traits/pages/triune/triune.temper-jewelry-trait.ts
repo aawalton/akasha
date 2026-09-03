@@ -1,7 +1,7 @@
 import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.ts"
 
 export const triune = {
-  id: "01a05fd8-a437-7af5-8669-2859d3f7b3d1",
+  id: "019e5b97-6d96-7db5-902b-64e6d928282a",
   pageTypeSlug: "temper-jewelry-trait",
   slug: "triune",
   title: "Triune",

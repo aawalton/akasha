@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const glenumbraWyrdTree = {
-  id: "01a05fcf-26aa-7925-a23e-3730de547c98",
+  id: "019e2fc6-523e-7e83-a396-b4cedf81b21f",
   pageTypeSlug: "temper-guild-trader",
   slug: "glenumbra-wyrd-tree",
   title: "Glenumbra: Wyrd Tree",

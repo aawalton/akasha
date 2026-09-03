@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricDefenseSpellAoeMitigation = {
-  id: "01a05fcc-d87e-719a-91ad-841e4723af3a",
+  id: "019e2fcd-5a47-76f0-84fd-396ab05bc474",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-defense-spell-aoe-mitigation",
   title: "Defense Spell Aoe Mitigation",

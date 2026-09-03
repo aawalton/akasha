@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const stonefallsKragenmoor = {
-  id: "01a05fcf-26b3-7ef2-96a7-ca06fb70edb0",
+  id: "019e2fc6-5251-7321-a527-739a7ca6e5df",
   pageTypeSlug: "temper-guild-trader",
   slug: "stonefalls-kragenmoor",
   title: "Stonefalls: Kragenmoor",

@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const khenarthisRoostMistral = {
-  id: "01a05fcf-26ad-71cf-9dc4-a243efefbdd4",
+  id: "019e2fc6-522c-74b4-af38-a28bad77b6c2",
   pageTypeSlug: "temper-guild-trader",
   slug: "khenarthis-roost-mistral",
   title: "Khenarthi's Roost: Mistral",

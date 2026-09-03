@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const stormhavenWayrestOutlawsRefuge = {
-  id: "01a05fcf-26b4-7655-8b84-3ac524a971a3",
+  id: "019e2fc6-5238-7eff-8b17-c4c9b7a8d3e7",
   pageTypeSlug: "temper-guild-trader",
   slug: "stormhaven-wayrest-outlaws-refuge",
   title: "Stormhaven: Wayrest Outlaws Refuge",

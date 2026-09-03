@@ -1,7 +1,7 @@
 import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
 
 export const shockResist = {
-  id: "01a05fd8-a434-7725-9716-4045de9201e9",
+  id: "019e5c85-d955-74d8-9a9a-3e66c22bcecb",
   pageTypeSlug: "temper-jewelry-enchant",
   slug: "shock-resist",
   title: "Shock Resist",

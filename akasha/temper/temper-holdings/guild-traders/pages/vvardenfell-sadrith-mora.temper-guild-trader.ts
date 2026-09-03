@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const vvardenfellSadrithMora = {
-  id: "01a05fcf-26b8-7942-ae9d-3113572ddd97",
+  id: "019e2fc6-525e-76a2-b035-3e5a52597e2e",
   pageTypeSlug: "temper-guild-trader",
   slug: "vvardenfell-sadrith-mora",
   title: "Vvardenfell: Sadrith Mora",

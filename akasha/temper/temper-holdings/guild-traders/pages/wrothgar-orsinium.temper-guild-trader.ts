@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const wrothgarOrsinium = {
-  id: "01a05fcf-26ba-791d-b627-cb56ee507159",
+  id: "019e2fc6-5255-79d2-a359-7cb693421378",
   pageTypeSlug: "temper-guild-trader",
   slug: "wrothgar-orsinium",
   title: "Wrothgar: Orsinium",

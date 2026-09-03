@@ -1,7 +1,7 @@
 import type { TemperLocationType } from "../temper-location-type.page-type.ts"
 
 export const house = {
-  id: "01a05fc5-1699-742a-9a0b-9662dda09eac",
+  id: "019e3103-270c-7bdd-bf4f-7b47ea7c4f7a",
   pageTypeSlug: "temper-location-type",
   slug: "house",
   title: "Houses",

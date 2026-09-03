@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const theReachMarkarthOutlawsRefuge = {
-  id: "01a05fcf-26b6-75af-8eb2-966649f04464",
+  id: "019e2fc6-526d-74f4-aed1-45e7da25e62a",
   pageTypeSlug: "temper-guild-trader",
   slug: "the-reach-markarth-outlaws-refuge",
   title: "The Reach: Markarth Outlaws Refuge",

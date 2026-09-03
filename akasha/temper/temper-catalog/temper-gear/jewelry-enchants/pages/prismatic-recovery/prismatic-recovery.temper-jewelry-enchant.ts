@@ -1,7 +1,7 @@
 import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
 
 export const prismaticRecovery = {
-  id: "01a05fd8-a432-7bfd-bc9f-4a6411cdce21",
+  id: "019e5c85-d94b-7840-9864-0746ea707834",
   pageTypeSlug: "temper-jewelry-enchant",
   slug: "prismatic-recovery",
   title: "Prismatic Recovery",

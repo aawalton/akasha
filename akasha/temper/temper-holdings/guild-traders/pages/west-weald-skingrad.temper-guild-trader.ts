@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const westWealdSkingrad = {
-  id: "01a05fcf-26b9-7485-8206-98c2c2d3f1c5",
+  id: "019e2fc6-5276-7d8c-ba20-c57e3b1138b2",
   pageTypeSlug: "temper-guild-trader",
   slug: "west-weald-skingrad",
   title: "West Weald: Skingrad",

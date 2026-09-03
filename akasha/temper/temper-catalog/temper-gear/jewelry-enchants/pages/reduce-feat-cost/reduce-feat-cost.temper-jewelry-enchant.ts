@@ -1,7 +1,7 @@
 import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
 
 export const reduceFeatCost = {
-  id: "01a05fd8-a433-7900-9a86-c1ad9e39834d",
+  id: "019e5c85-d94f-717a-b384-c3148481347b",
   pageTypeSlug: "temper-jewelry-enchant",
   slug: "reduce-feat-cost",
   title: "Reduce Feat Cost",

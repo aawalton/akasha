@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const fargraveFargraveOutlawsRefuge = {
-  id: "01a05fcf-26a8-7989-836f-69b08a91e455",
+  id: "019e2fc6-5270-7bb6-bbed-c52cd3f6d685",
   pageTypeSlug: "temper-guild-trader",
   slug: "fargrave-fargrave-outlaws-refuge",
   title: "Fargrave: Fargrave Outlaws Refuge",

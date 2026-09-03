@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const stonefallsDavonsWatchOutlawsRefuge = {
-  id: "01a05fcf-26b2-7f66-a057-d91ba173bfce",
+  id: "019e2fc6-5252-7f5c-b07e-a58c76f3c1be",
   pageTypeSlug: "temper-guild-trader",
   slug: "stonefalls-davons-watch-outlaws-refuge",
   title: "Stonefalls: Davon's Watch Outlaws Refuge",

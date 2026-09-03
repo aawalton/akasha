@@ -1,7 +1,7 @@
 import type { TemperLocationType } from "../temper-location-type.page-type.ts"
 
 export const guild = {
-  id: "01a05fc5-1699-7898-9ef2-aa0448838ac4",
+  id: "019e3103-270e-7abc-876e-040b43c213a7",
   pageTypeSlug: "temper-location-type",
   slug: "guild",
   title: "Guild Banks",

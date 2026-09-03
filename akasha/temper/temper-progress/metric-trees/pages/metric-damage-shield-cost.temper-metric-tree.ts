@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricDamageShieldCost = {
-  id: "01a05fcc-d87a-7215-a4b9-1c1ba87e7c98",
+  id: "019e2fcd-5a4d-795e-8213-2549c7eb8ec2",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-damage-shield-cost",
   title: "Damage Shield Cost",

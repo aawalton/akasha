@@ -1,7 +1,7 @@
 import type { TemperJewelryType } from "../temper-jewelry-type.page-type.ts"
 
 export const ring = {
-  id: "01a05fd5-4dd2-7750-81cb-17371426fff7",
+  id: "019e46b4-42ad-7d1a-b334-98e313db5afb",
   pageTypeSlug: "temper-jewelry-type",
   slug: "ring",
   title: "Ring",

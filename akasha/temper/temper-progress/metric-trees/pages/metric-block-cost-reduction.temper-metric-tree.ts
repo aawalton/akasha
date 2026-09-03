@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricBlockCostReduction = {
-  id: "01a05fcc-d86f-7547-8e25-dfa9e53da721",
+  id: "019e2fcd-5a83-78bb-b7e6-668af06796e2",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-block-cost-reduction",
   title: "Block Cost Reduction",

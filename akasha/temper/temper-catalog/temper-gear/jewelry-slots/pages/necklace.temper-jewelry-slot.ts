@@ -1,7 +1,7 @@
 import type { TemperJewelrySlot } from "../temper-jewelry-slot.page-type.ts"
 
 export const necklace = {
-  id: "01a05fd5-2050-774c-9d39-2b3382d2ad52",
+  id: "019e4cb1-de14-788e-a4db-0abd7e4e4887",
   pageTypeSlug: "temper-jewelry-slot",
   slug: "necklace",
   title: "Necklace",

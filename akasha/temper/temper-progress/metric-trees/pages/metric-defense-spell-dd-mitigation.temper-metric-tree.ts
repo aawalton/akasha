@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricDefenseSpellDdMitigation = {
-  id: "01a05fcc-d87e-7919-bf24-0c74c7f20f86",
+  id: "019e2fcd-5a48-79fc-8c06-589ea20bb524",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-defense-spell-dd-mitigation",
   title: "Defense Spell Dd Mitigation",

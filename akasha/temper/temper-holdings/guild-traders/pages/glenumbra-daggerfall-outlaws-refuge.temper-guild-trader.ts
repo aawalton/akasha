@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const glenumbraDaggerfallOutlawsRefuge = {
-  id: "01a05fcf-26a9-7764-a8e1-41e09d68c1b1",
+  id: "019e2fc6-523c-78c3-8891-48e539779daa",
   pageTypeSlug: "temper-guild-trader",
   slug: "glenumbra-daggerfall-outlaws-refuge",
   title: "Glenumbra: Daggerfall Outlaws Refuge",

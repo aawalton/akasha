@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const murkmireLilmoth = {
-  id: "01a05fcf-26ae-7dea-8964-a84d5f2e60b9",
+  id: "019e2fc6-5265-75c9-9f4d-81d4611536be",
   pageTypeSlug: "temper-guild-trader",
   slug: "murkmire-lilmoth",
   title: "Murkmire: Lilmoth",

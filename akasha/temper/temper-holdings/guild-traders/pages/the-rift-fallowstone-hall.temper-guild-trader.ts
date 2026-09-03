@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const theRiftFallowstoneHall = {
-  id: "01a05fcf-26b7-7881-a665-084780145a71",
+  id: "019e2fc6-5244-790a-a4bf-16a6b0edc90e",
   pageTypeSlug: "temper-guild-trader",
   slug: "the-rift-fallowstone-hall",
   title: "The Rift: Fallowstone Hall",

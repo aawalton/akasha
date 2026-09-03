@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const reapersMarchDune = {
-  id: "01a05fcf-26af-7a89-ad8d-543fab95ddc7",
+  id: "019e2fc6-521a-722f-87b1-ad86184f8b8c",
   pageTypeSlug: "temper-guild-trader",
   slug: "reapers-march-dune",
   title: "Reaper's March: Dune",

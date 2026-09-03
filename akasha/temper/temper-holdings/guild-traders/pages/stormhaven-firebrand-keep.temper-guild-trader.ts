@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const stormhavenFirebrandKeep = {
-  id: "01a05fcf-26b3-7f3a-a382-2d97b5900cc5",
+  id: "019e2fc6-5239-7c5d-b08e-e506961a86a5",
   pageTypeSlug: "temper-guild-trader",
   slug: "stormhaven-firebrand-keep",
   title: "Stormhaven: Firebrand Keep",

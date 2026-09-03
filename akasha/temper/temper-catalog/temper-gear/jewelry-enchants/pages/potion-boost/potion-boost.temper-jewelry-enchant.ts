@@ -1,7 +1,7 @@
 import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
 
 export const potionBoost = {
-  id: "01a05fd8-a431-71e3-91f7-1121bcbfe178",
+  id: "019e5c85-d962-7c52-8074-8d27ca9e6822",
   pageTypeSlug: "temper-jewelry-enchant",
   slug: "potion-boost",
   title: "Potion Boost",

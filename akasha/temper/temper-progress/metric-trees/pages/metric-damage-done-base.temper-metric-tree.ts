@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricDamageDoneBase = {
-  id: "01a05fcc-d875-7eda-853e-6c01aff317e0",
+  id: "019e2fcd-596d-72e3-b739-ddce4d2df4bd",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-damage-done-base",
   title: "Damage Done Base",

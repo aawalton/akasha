@@ -1,7 +1,7 @@
 import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.ts"
 
 export const intricate = {
-  id: "01a05fd8-a436-748a-a183-8640deed1bf7",
+  id: "019e5b97-6d99-7d4a-a480-b1b614c0bcfb",
   pageTypeSlug: "temper-jewelry-trait",
   slug: "intricate",
   title: "Intricate",
