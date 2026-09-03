@@ -38,7 +38,7 @@ export const pipeline = {
   pluralSlug: "pipelines",
   extendsSlug: "page-type/page",
   mortal: true,
-  nextSeq: 101,
+  nextSeq: 102,
   partSlugs: [
     "relation-property/pipeline-main-predecessor-seqs",
     "relation-property/pipeline-overtaken-by-seq",
