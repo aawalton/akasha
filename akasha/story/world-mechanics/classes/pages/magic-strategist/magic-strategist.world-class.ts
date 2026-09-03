@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const magicStrategist = {
   id: "01a0657e-139b-702b-8f00-e3a1c7b68c20",

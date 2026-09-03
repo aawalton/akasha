@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.ts"
+import type { WorldClass } from "../world-class.page-type.ts"
 
 export const magicPaintShaman = {
   id: "01a0657e-139b-7372-9bf5-4b743df1099c",

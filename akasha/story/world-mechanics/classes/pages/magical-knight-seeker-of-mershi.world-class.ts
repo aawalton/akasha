@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.ts"
+import type { WorldClass } from "../world-class.page-type.ts"
 
 export const magicalKnightSeekerOfMershi = {
   id: "01a0657e-139b-7cfd-8efb-73787760287c",

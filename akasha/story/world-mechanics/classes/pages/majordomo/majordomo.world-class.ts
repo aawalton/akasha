@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const majordomo = {
   id: "01a0657e-139d-74a6-968b-63d33cfd7110",

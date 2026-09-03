@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const masseur = {
   id: "01a0657e-139e-77fe-bc07-e8b68d352563",

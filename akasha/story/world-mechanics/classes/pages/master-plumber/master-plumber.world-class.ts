@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const masterPlumber = {
   id: "01a0657e-139e-7c5d-b75c-afd53e36c7e3",
