@@ -38,8 +38,6 @@ struct UpkeepStoplightsResponse: Decodable {
 private let UPKEEP_PREVIEW: [(
     habit: String, tier: Tier, reading: String, nextTier: Tier?, progress: Double?, label: String
 )] = [
-    ("plants", .green, "180", .blue, 0.125, "Plants"),
-    ("activity", .black, "0", nil, nil, "Activity"),
     ("sleep", .red, "6.4", .yellow, 0.40, "Sleep"),
     ("surplus", .yellow, "-2.5", .green, 0.375, "Surplus"),
     ("capacity", .blue, "12.0", nil, nil, "Capacity"),
@@ -110,7 +108,7 @@ struct UpkeepStoplightsWidget: Widget {
             UpkeepHomeView(entry: entry)
         }
         .configurationDisplayName("Upkeep")
-        .description("Your six upkeep stoplights, at a glance.")
+        .description("Your four upkeep stoplights, at a glance.")
         .supportedFamilies([.systemSmall])
     }
 }
