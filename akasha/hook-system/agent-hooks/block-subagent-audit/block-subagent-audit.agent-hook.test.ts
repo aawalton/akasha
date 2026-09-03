@@ -54,7 +54,7 @@ test("the refusal says what a run costs rather than what a run writes", () => {
   const err = answerFor(payload("akasha audit", OWN)).err
   expect(err).toContain("17 GB")
   expect(err).toContain("fifteen minutes")
-  expect(err).toContain("rather than what a run changes")
+  expect(err).toContain("what a run COSTS while it holds the machine")
   expect(err).toContain("--check")
 })
 
