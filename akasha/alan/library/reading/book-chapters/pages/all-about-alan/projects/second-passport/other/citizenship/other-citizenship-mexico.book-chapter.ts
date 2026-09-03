@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../../../book-chapter.page-type.ts"
 
 export const otherCitizenshipMexico = {
   id: "01a06594-c68b-7002-baa1-8a201b9c1377",

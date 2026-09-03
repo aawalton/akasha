@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
 
 export const lightsAndPlugs = {
   id: "01a06594-c68d-7006-9ac2-cbf5c585c530",

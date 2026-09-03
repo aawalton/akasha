@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const energyDemand = {
   id: "01a06594-c68d-700b-856e-4bd453f6fd44",

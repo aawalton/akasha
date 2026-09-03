@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
 
 export const degradationSystem = {
   id: "01a06594-c68c-700e-9b18-24b710ce2d62",

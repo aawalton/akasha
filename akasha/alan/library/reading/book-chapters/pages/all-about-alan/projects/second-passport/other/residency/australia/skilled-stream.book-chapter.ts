@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../../../../book-chapter.page-type.ts"
 
 export const skilledStream = {
   id: "01a06594-c68b-7011-8f9a-45826f73bd04",

@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
 
 export const selfSufficiency = {
   id: "01a06594-c68d-7007-bd5c-3bc121fc6d03",

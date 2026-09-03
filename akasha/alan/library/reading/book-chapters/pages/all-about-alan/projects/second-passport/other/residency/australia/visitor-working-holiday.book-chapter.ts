@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../../../../book-chapter.page-type.ts"
 
 export const visitorWorkingHoliday = {
   id: "01a06594-c68b-7014-b557-e8cb5070c213",

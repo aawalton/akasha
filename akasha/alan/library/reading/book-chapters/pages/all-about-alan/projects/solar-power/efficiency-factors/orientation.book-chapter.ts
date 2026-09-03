@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
 
 export const orientation = {
   id: "01a06594-c68d-7000-93cd-e9cc6c9b6e20",

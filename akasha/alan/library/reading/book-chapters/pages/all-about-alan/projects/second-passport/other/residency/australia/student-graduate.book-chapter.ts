@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../../../../book-chapter.page-type.ts"
 
 export const studentGraduate = {
   id: "01a06594-c68b-7013-af5b-09b49888b92b",
