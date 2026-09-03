@@ -6,8 +6,8 @@ export const alan = {
   slug: "alan",
   definition: "what belongs to Alan himself",
   partSlugs: [
-    "domain/all-about-alan",
     "domain/alan-harness",
+    "domain/fitness",
     "domain/music",
     "domain/tracking",
     "workspace-package/alan-web",
