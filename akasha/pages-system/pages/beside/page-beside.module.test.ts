@@ -2,6 +2,13 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import {
+  besideAt,
+  besideNamed,
+  secretAt,
+  uncommittedAt,
+  uncommittedBesideAt,
+} from "../file-name/page-file-name.module.code.ts"
 import { besideAll, besideOf } from "./page-beside.module.code.ts"
 
 const scratch = scratchWorld()
@@ -145,4 +152,40 @@ test("the litter a crashed write left beside an uncommitted file is not beside t
     "akasha/one/held.module.uncommitted.ts.3032024.part",
   ])
   expect(besideOf(root, "akasha/one/held.module.uncommitted.ts")).toEqual([])
+})
+
+test("the sections past a page's name are a property's slug, its part, and whether it is committed", () => {
+  expect(besideNamed("code.ts")).toBe(true)
+  expect(besideNamed("uncommitted.ts")).toBe(true)
+  expect(besideNamed("sops.yaml")).toBe(true)
+  expect(besideNamed("prose.part2.txt")).toBe(true)
+  expect(besideNamed("prose.part10.txt")).toBe(true)
+  expect(besideNamed("patch.uncommitted.diff")).toBe(true)
+  expect(besideNamed("prose.part3.uncommitted.txt")).toBe(true)
+})
+
+test("sections naming no property of a page are beside no page", () => {
+  expect(besideNamed("ts")).toBe(false)
+  expect(besideNamed("code.d.ts")).toBe(false)
+  expect(besideNamed("prose.part1.txt")).toBe(false)
+  expect(besideNamed("uncommitted.ts.3032024.part")).toBe(false)
+  expect(besideNamed("ts.3032024.part")).toBe(false)
+  expect(besideNamed("CODE.ts")).toBe(false)
+  expect(besideNamed("code.TS")).toBe(false)
+})
+
+test("what the builders put together, besideNamed reads back as beside a page", () => {
+  const page = "akasha/one/dalla.seat.ts"
+  const built = [
+    besideAt(page, "code", "ts"),
+    uncommittedAt(page),
+    secretAt(page),
+    uncommittedBesideAt(page, "patch", "diff"),
+    besideAt(page, "prose.part2", "txt"),
+    uncommittedBesideAt(page, "prose.part3", "txt"),
+  ]
+  for (const one of built) {
+    if (one === null) throw new Error("expected a name beside the page")
+    expect(besideNamed(one.slice("akasha/one/dalla.seat.".length))).toBe(true)
+  }
 })
