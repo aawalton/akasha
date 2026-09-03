@@ -7,9 +7,8 @@ export const temperCommunityAddonUpdate = {
   definition:
     "the command installing the published updates for the third-party game addons already here",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKindSlug: "change-mechanical",
   taking: [
-    { said: "--dry-run", takes: "say what would be updated and download nothing" },
     { said: "--only <dir>", takes: "restrict the run to one addon folder, said once per folder" },
     {
       said: "--force",
@@ -23,6 +22,7 @@ export const temperCommunityAddonUpdate = {
     "an `--only` folder that is no installable addon is refused by name.",
     "each addon is downloaded, verified and extracted, and one that fails leaves the rest reported.",
     "a folder the deploy pipeline owns is never touched here.",
+    "what would be updated is named by the listing command rather than by a run of this one.",
   ],
   invariants: [
     {
@@ -35,15 +35,19 @@ export const temperCommunityAddonUpdate = {
     },
     {
       invariantKind: "departure",
-      statement: "A dry run downloads nothing.",
-    },
-    {
-      invariantKind: "departure",
       statement: "One addon that fails does not stop the rest.",
     },
     {
       invariantKind: "departure",
+      statement: "Every addon that failed is named in the refusal rather than counted alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder the deploy pipeline owns is never touched.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reports a change without making it.",
     },
   ],
 } as const satisfies Command
