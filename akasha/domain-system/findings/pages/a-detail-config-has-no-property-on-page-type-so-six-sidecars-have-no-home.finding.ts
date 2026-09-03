@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aDetailConfigHasNoPropertyOnPageTypeSoSixSidecarsHaveNoHome = {
+  id: "01a06828-1949-79c0-82bb-547d1fe3dff7",
+  pageTypeSlug: "finding",
+  slug: "a-detail-config-has-no-property-on-page-type-so-six-sidecars-have-no-home",
+  domainSlug: "workspace-package/pages-core",
+  claim:
+    "The `page-type` page type declares `media-config` and `sequence` but declares nothing for a detail config, so no `.page-type.ts` can say how its pages are drawn on their own detail page. Six `detail-config` sidecars in `pages/page-type` therefore have nowhere to land, and the display kind they carry is live code rather than dead configuration.",
+  evidence:
+    'The parser is in akasha already: `akasha/pages-system/pages-core/schema/detail-config/detail-config.module.code.ts` defines `detailConfigSchema` over `display`, `frame`, `bodyPropertyId`, `fullBleed`, `showReadingProgress`, `markReadOnEnd`, `progressPropertyId`, `lengthPropertyId`, `header` and `childCollection`.\n\nThe display kind is consumed: `page-detail-content-helpers.module.code.ts:31` returns the "collection" body kind when the display kind is `collection`, and line 16 names the four kinds. `content-tier.module.code.ts:14` reads `detailConfig?.bodyPropertyId`. Both reach the config through `parsePageTypeData(pageType?.properties)`, which is the old markdown page type\'s properties rather than anything a `.page-type.ts` states.\n\n`akasha/pages-system/page-types/page-type.page-type.ts` lists `media-config` and `sequence` among its properties and nothing for a detail config, and grepping every `*.page-type.ts` under `akasha/` for `detailConfig` answers nothing, so a declaration is missing rather than one page missing a value. `nothing-can-declare-media-config-so-the-media-routes-refuse` recorded the same shape for media, and that one was mended by adding the property.\n\nSix sidecars wait on it: `chess-game`, `game`, `image`, `persona`, `story-chapter` and `story` each have a `*.page-type.detail-config.attachment.json` in `pages/page-type`. The `story` one states `display: "collection"`, `header: { fields: [], showCover: true }` and `childCollection: { childRelation: "story", childType: "story-chapter" }`. Its page type split three ways into `story-read`, `story-written` and `story-played`, and `story-chapter` split the same three ways, so carrying it faithfully needs three configs naming three child types. It is left in place rather than deleted.',
+} as const satisfies Finding

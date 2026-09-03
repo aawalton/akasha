@@ -5,4 +5,10 @@ export const narrativeStoryTurnPromotion = {
   pageTypeSlug: "domain",
   slug: "narrative-story-turn-promotion",
   definition: "gathering played turns into a chapter",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A turn gathered into a chapter is no longer shown to the player as a turn.",
+    },
+  ],
 } as const satisfies Domain
