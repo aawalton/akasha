@@ -10,6 +10,6 @@
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@infra/comfy": "workspace:*"
+    "@akasha/comfy": "workspace:*"
   }
 }
