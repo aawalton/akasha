@@ -13,7 +13,6 @@ import { isDirty, rootsHere, targetRepo, targetRoot } from "@akasha/pages-system
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { canonicalize } from "@akasha/pages-system/repo-path"
 import { anyRefused, render } from "@akasha/verdict/outcome"
-import { fail } from "../patches/patch.ts"
 import { escapedSpellings } from "../repoint/mention.ts"
 import {
   type Importers,
@@ -28,6 +27,14 @@ import {
 import { slugEdges } from "../repoint/reslug.ts"
 
 const NUL = String.fromCharCode(0)
+
+// Was `fail` in `patches/patch.ts`, whose last reader this was. `tools/lib/command.ts` declares
+// the same four lines, so a second spelling of them here rather than an import of either keeps
+// this file reaching for nothing it does not already need.
+function fail(reason: string): never {
+  process.stderr.write(`error: ${reason}\n`)
+  process.exit(1)
+}
 
 // One end of a move: which checkout it names and where that checkout stands. This was imported
 // from `ops-cli/global/address.ts`, which went with the worktree commands it helped; the shape is
