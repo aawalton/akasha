@@ -22,8 +22,8 @@ esac
 _rc="$(readlink -f -- "${BASH_SOURCE[0]}")"
 _rc_dir="$(dirname -- "$_rc")"
 for _rc_roots in \
-  "$_rc_dir/../../../../../tools/lib/repo-roots.sh" \
-  "${AKASHA_ROOT:-$HOME/repos/akasha}/tools/lib/repo-roots.sh"
+  "$_rc_dir/../../scripts/repo-roots/repo-roots.shell-script.shell.sh" \
+  "${AKASHA_ROOT:-$HOME/repos/akasha}/akasha/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh"
 do
   if [ -n "$_rc" ] && [ -f "$_rc_roots" ]; then . "$_rc_roots"; break; fi
 done

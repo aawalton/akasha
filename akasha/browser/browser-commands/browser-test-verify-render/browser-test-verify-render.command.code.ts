@@ -19,19 +19,19 @@ import {
 } from "@akasha/browser-test-harness/read-only-harness"
 import type { Answer } from "@akasha/command-system/calling"
 import {
+  countIn,
+  missingOf,
+  refusedBy,
+  wordsIn,
+} from "../browser-command-arguing/browser-command-arguing.module.code.ts"
+import {
   classifyExpectedText,
   decideDiscriminatingSignal,
   isRetryableSessionOpenTimeout,
   planRenderSettleWait,
   planTitleSettleWait,
   planVerifyRenderSession,
-} from "@tools/lib/verify-render-plan"
-import {
-  countIn,
-  missingOf,
-  refusedBy,
-  wordsIn,
-} from "../browser-command-arguing/browser-command-arguing.module.code.ts"
+} from "../verify-render-plan/verify-render-plan.module.code.ts"
 
 const URL_SAID = "--url"
 

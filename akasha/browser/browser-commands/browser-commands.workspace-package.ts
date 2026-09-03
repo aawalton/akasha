@@ -10,6 +10,7 @@ export const browserCommands = {
     "command/browser-test-storage-state",
     "command/browser-test-verify-render",
     "module/browser-command-arguing",
+    "module/verify-render-plan",
   ],
   invariants: [
     {

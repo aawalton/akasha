@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs"
+import { environValue } from "../proc-reading/proc-reading.module.code.ts"
 
 export function readProcEnvVar(pid: number, key: string): string | null {
   let environ: string
@@ -7,9 +8,5 @@ export function readProcEnvVar(pid: number, key: string): string | null {
   } catch {
     return null
   }
-  const prefix = `${key}=`
-  for (const entry of environ.split("\0")) {
-    if (entry.startsWith(prefix)) return entry.slice(prefix.length)
-  }
-  return null
+  return environValue(environ, key)
 }

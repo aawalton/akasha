@@ -9,6 +9,7 @@ export const utilsProcess = {
   partSlugs: [
     "module/pid-signal",
     "module/port-holding",
+    "module/proc-environ",
     "module/proc-reading",
     "module/process-ending",
   ],

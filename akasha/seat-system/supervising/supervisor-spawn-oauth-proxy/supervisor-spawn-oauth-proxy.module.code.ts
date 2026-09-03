@@ -9,8 +9,8 @@ import {
 } from "@akasha/seat-system/supervisor-proxy-port-line"
 import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
 import { pidsListeningOn, portIsHeld } from "@akasha/utils-process/port-holding"
+import { readProcEnvVar } from "@akasha/utils-process/proc-environ"
 import { modelGatewayEntrypoint } from "@tools/lib/model-gateway-tree-version"
-import { readProcEnvVar } from "@tools/lib/proc-environ"
 import { type OAuthProxyState, readProxyState } from "@tools/lib/seat-proxy-state"
 import { readAdoptedClaudeProxyPort } from "../supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
 

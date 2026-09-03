@@ -28,7 +28,7 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 
 _rc="${(%):-%x}"
 _rc="${_rc:A}"
-[ -n "$_rc" ] && [ -f "${_rc:h}/../../../../../tools/lib/repo-roots.sh" ] && . "${_rc:h}/../../../../../tools/lib/repo-roots.sh"
+[ -n "$_rc" ] && [ -f "${_rc:h}/../../scripts/repo-roots/repo-roots.shell-script.shell.sh" ] && . "${_rc:h}/../../scripts/repo-roots/repo-roots.shell-script.shell.sh"
 unset _rc
 
 # The launchers are linked into ~/.local/bin by setup-symlinks.sh, already on PATH above.

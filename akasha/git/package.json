@@ -13,7 +13,8 @@
     "./git-landing-lock": "./git-landing-lock/git-landing-lock.module.code.ts",
     "./git-pathspec": "./git-pathspec/git-pathspec.module.code.ts",
     "./git-pushing": "./git-pushing/git-pushing.module.code.ts",
-    "./git-push-handoff": "./git-push-handoff/git-push-handoff.module.code.ts"
+    "./git-push-handoff": "./git-push-handoff/git-push-handoff.module.code.ts",
+    "./served-tip": "./served-tip/served-tip.module.code.ts"
   },
   "dependencies": {
     "@akasha/code-system": "workspace:*",

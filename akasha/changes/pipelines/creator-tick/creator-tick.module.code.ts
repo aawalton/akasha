@@ -1,6 +1,6 @@
+import { servedTip, TRANSPORT } from "@akasha/git/served-tip"
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { servedTip, TRANSPORT } from "@tools/lib/served-tip"
 import { reachCreatorCode } from "../creator-code/creator-code.module.code.ts"
 import {
   lastPipelinedCommit,

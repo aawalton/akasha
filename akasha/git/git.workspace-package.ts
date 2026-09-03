@@ -19,6 +19,7 @@ export const git = {
     "module/git-pathspec",
     "module/git-push-handoff",
     "module/git-pushing",
+    "module/served-tip",
   ],
   invariants: [
     {

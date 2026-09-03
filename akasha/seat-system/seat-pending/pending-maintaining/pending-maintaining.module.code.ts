@@ -3,8 +3,11 @@ import { join } from "node:path"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { messagesDirRelPath } from "@tools/lib/message-file"
 import { akashaSeatsDirIn } from "@tools/lib/seat-page-akasha"
-import { pendingFromFiles, type SeatPending } from "@tools/lib/seat-pending-batch"
 import { setPending } from "@tools/lib/seat-turn-pending"
+import {
+  pendingFromFiles,
+  type SeatPending,
+} from "../pending-from-files/pending-from-files.module.code.ts"
 
 const SETTLE_MS = 250
 

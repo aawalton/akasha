@@ -1,10 +1,10 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { servedTip } from "@akasha/git/served-tip"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { type Reading as Decided, decideRetry } from "@akasha/pipeline-sweep/retry-deciding"
 import { runRetry } from "@akasha/pipeline-sweep/retry-running"
 import { kinOf, readSnapshot } from "@akasha/pipeline-sweep/sweep-page-reading"
-import { servedTip } from "@tools/lib/served-tip"
 import {
   aloneIn,
   answering,

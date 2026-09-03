@@ -6,11 +6,11 @@ import {
 import { defaultRecipientResolverDeps } from "@akasha/seat-system/recipient-resolver-deps"
 import { assembleRecipientResolverSpecs } from "@akasha/seat-system/recipient-resolver-registry"
 import { runRecipientResolverTick } from "@akasha/seat-system/recipient-resolver-tick"
-import { listPersonHandlers } from "@tools/lib/person-handler-slugs"
 import {
   sleptUntilStopped,
   stopsOnSignal,
 } from "../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+import { listPersonHandlers } from "../person-handlers/person-handlers.module.code.ts"
 
 async function main(): Promise<void> {
   const ac = stopsOnSignal()

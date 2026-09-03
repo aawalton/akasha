@@ -1,11 +1,11 @@
 # shellcheck shell=bash
 
 _rr_self="$(readlink -f -- "${BASH_SOURCE[0]:-$0}")"
-_rr_own="$(cd -- "$(dirname -- "$_rr_self")/../.." && pwd -P)"
+_rr_own="$(cd -- "$(dirname -- "$_rr_self")/../../../../.." && pwd -P)"
 _rr_beside="$(dirname -- "$_rr_own")"
 
-if [ ! -f "$_rr_own/tools/ops/cli.ts" ]; then
-  printf 'repo-roots.sh: derived %s, which holds no tools/ops/cli.ts, so it is not an akasha checkout\n' \
+if [ ! -f "$_rr_own/akasha/akasha.domain.ts" ]; then
+  printf 'repo-roots: derived %s, which holds no akasha/akasha.domain.ts, so it is not an akasha checkout\n' \
     "$_rr_own" >&2
   unset _rr_self _rr_own _rr_beside
   return 1 2>/dev/null || exit 1

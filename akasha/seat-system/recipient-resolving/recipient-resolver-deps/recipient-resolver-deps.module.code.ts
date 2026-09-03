@@ -1,8 +1,6 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { CommsInput } from "@akasha/seat-system/seat-wake-rules"
-import { seatIdentityForName } from "@tools/lib/seat-identity"
 import { agentPresence } from "@tools/lib/seat-presence-read"
-import { wakeCommsInput } from "@tools/lib/wake-comms-input"
 import { LOG } from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
 import {
   messageUnrevivableToKeeper,
@@ -18,6 +16,8 @@ import type {
   RecipientResolverAgentRow,
   RecipientResolverTickDeps,
 } from "../recipient-resolver-tick-deps/recipient-resolver-tick-deps.module.code.ts"
+import { seatIdentityForName } from "../seat-identity/seat-identity.module.code.ts"
+import { wakeCommsInput } from "../wake-comms-input/wake-comms-input.module.code.ts"
 
 export const toCommsInput = (m: InboundMessageRow): CommsInput =>
   wakeCommsInput({ senderAgentId: m.sender_agent_id, source: m.source, content: m.content })
