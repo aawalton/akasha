@@ -9,6 +9,7 @@ export const storyEngine = {
     "page-type/story-chapter-played",
     "page-type/story-chapter-read",
     "page-type/story-chapter-written",
+    "page-type/story-element-played",
     "page-type/story-played",
     "page-type/story-read",
     "page-type/story-turn-played",
