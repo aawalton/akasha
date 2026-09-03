@@ -1,5 +1,5 @@
 export const tool = {
-  summary: "Emit an iOS widget's Swift from its document, and compare it against the Swift standing in the code repository",
+  summary: "Emit an iOS widget's Swift, diffed against the Swift standing in the code repository",
   path: "mobile widget-emit",
 } as const
 
