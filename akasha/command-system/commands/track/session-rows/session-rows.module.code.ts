@@ -43,7 +43,7 @@ export const MEND = "--mend"
 export const FROM_FILE = "--from-file"
 export const RELATIONSHIP = "--relationship"
 
-export const VALUED = [TITLE, AT, START, END, DAY, SAFETY, DIFFICULTY, ID, FROM_FILE]
+export const VALUED = [TITLE, AT, START, END, DAY, SAFETY, DIFFICULTY, ID, FROM_FILE, RELATIONSHIP]
 
 export const BARE = [OPEN, LAST, JSON_SAID, DRY_RUN, LEAVE_GAP, MEND]
 
