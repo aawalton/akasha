@@ -1,6 +1,6 @@
+import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { assembleInventory } from "@akasha/temper-items-core/assemble-inventory"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
-import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { shape } from "../shape.ts"
 import type { Infer } from "../shape-core"
 
@@ -9,22 +9,14 @@ export const CHUNK_PAGE_TYPE = "temper-inventory-chunk"
 
 const CHUNK_CEILING = 200
 
-const SNAPSHOT_KEYS = [
-  "slug",
-  "id",
-  "account-page",
-  "data-timestamp",
-  "total-value",
-  "chunk-count",
-  "version",
-]
+const SNAPSHOT_KEYS = ["slug", "id", "account-page", "captured-at", "total-value", "chunk-count"]
 
 const CHUNK_KEYS = ["inventory", "chunk-index", "data"]
 
 const SNAPSHOT_HEADER_SHAPE = shape.looseObject({
   id: shape.string(),
   slug: shape.string(),
-  "data-timestamp": shape.coerce.number(),
+  "captured-at": shape.string(),
   "total-value": shape.coerce.number(),
   "chunk-count": shape.coerce.number(),
 })
@@ -49,7 +41,7 @@ async function headerFrom(
     "page-type": SNAPSHOT_PAGE_TYPE,
     where,
     keys: SNAPSHOT_KEYS,
-    "sort-by": "data-timestamp",
+    "sort-by": "captured-at",
     descending,
     limit: 1,
   })
