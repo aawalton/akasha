@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aMechanicalLandingsAnswerCarriesNoWroteOrCommitSoALogReadsItAsANoOp = {
+  id: "01a0683f-9beb-7167-b042-0d7b4a75afe8",
+  pageTypeSlug: "finding",
+  slug: "a-mechanical-landings-answer-carries-no-wrote-or-commit-so-a-log-reads-it-as-a-no-op",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`landedMechanically` answers `{ report, refusals, code }` and nothing else. `code` is the signal of refusal and it is trustworthy. The trap is the other way round: a lane that logs `answer.wrote` or `answer.commit` reads `undefined`, and `?? []` or `?? null` turns that into `wrote: 0` and `commit: null` beside `code: 0`. A landing that wrote 42 files and committed them reports as a no-op, and a lane that believes its own log re-lands.",
+  evidence:
+    'Measured 2026-09-03 migrating `dirty/coffee-shop-date` onto pages, where I hit this on the first of four landings and nearly re-ran it.\n\n`Answer` is declared once, at `akasha/command-system/calling/calling.module.code.ts:26-30`, as three readonly fields: `report`, `refusals`, `code`. `landedMechanically` at `asking.module.code.ts:491-501` returns `landingAsked(...)`, and every return in `landingAsked` builds that same three-field shape. The richer `Landed` record at `landing/landing.module.code.ts:35-42` does carry `wrote`, `commit`, `took`, `noted` and `cleared`, which is where the names feel like they should be available; it never reaches the caller.\n\nProbed without writing anything, by calling `landingAsked` directly with `dryRun: true` over one changed file: `Object.keys(answer)` answers `code, refusals, report`; `"wrote" in answer` and `"commit" in answer` are both false; `answer.wrote ?? []` is `[]` and `answer.commit ?? null` is `null`. So the falsy reading is manufactured by the logging, not returned by the command.\n\nWhat to print instead is `report`. On the same probe it answered two lines: `no check runs at this phase, so the 1 path asked for would go unjudged` and `nothing was written — --dry-run`. The first is worth its own note, since it is the mechanical path stating in its own words that it judges nothing.\n\nThe disconfirming check that settles it, for anyone who saw `wrote: 0` and doubts the landing: `git log --oneline -- <path>`. All four coffee-shop-date landings had committed normally while logging `wrote: 0, commit: null` — `9040cd87de`, `de32bfc28d`, `5c5c4b4bca`, `1ccd54dcdb`. Read the disk and the log, not a field name you expected to exist.',
+} as const satisfies Finding
