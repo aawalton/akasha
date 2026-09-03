@@ -49,10 +49,6 @@ export const mobileCli = {
         "What a program compiles is read off its `ios-program` page rather than off the Swift.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The pages this reads and files are markdown outside akasha.",
-    },
-    {
       invariantKind: "departure",
       statement: "What a TestFlight build was made from is remembered outside akasha.",
     },
