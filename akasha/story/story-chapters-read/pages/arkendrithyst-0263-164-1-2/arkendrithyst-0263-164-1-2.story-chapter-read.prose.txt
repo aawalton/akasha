@@ -1,0 +1,148 @@
+Erick felt warm all over, luxuriating in the afterglow as he lay upon a conjured mattress, staring at the night sky overhead. Countless stars twinkled up above, while down here, sweat dried on naked skin, but only on his. He was alone; Linxel had already left. Both of them had a good time. A good three and a half times, actually. Could have been more, but eventually, words and feelings had become more important than physical need.
+
+So after that final aborted round, they spoke about nothing in particular for the next hour.
+
+Eventually, words and feelings revealed a deep incompatibility.
+
+Linxel wanted a partner, and he wasn’t going to do a [Teleport] relationship ever again; he had done that too many times before. It seemed that even on Veird, where genders didn’t really matter for most people of power, that ‘people of power’ was a large qualifier. People of all walks of life married for all sorts of reasons, but ‘love’ was rarely one of them. Children and a stable future won out over love almost all the time, but some people just couldn’t do that.
+
+Linxel had been alone for the last ten years, and he would likely continue to remain alone for the foreseeable future. He had spoken of how he was okay, but Erick could tell he was lying to himself.
+
+Erick didn’t confront that lie; not directly, anyway.
+
+Erick only spoke about how he wasn’t sure where he would end up, or what he would do with his life, but his life was too dangerous for a relationship right now. It had been the easy way to close the door on this fling, and Linxel seemed to be happier after Erick agreed with Linxel’s denial of a possible future between them.
+
+But before that… It… It had been nice.
+
+- - - -
+
+Linxel’s hand rested in Erick’s, their grips tight, as the both of them laid on their backs and stared at the stars. Linxel pointed at a bright red star and named it the ‘Serpent’s Eye’ of the constellation ‘Red Snake’; the first star in a series of ten that formed a string of stars ten long, with a tail eventually pointed directly at the ‘North Star’.
+
+For Veird had a North Star, too, because of course it did, because Veird was a globe like any other planet. It was a bit dimmer than Earth’s North Star, though, and Linxel seemed to find this funny, as he went on with his explanation.
+
+“Some people call the North Star the ‘Other Eye’, because—” Linxel pointed between the Red Snake constellation and the North Star, toward a near-perfect square of bright stars, saying, “That is called the ‘Sumtir’s Sawblade Shield’, and the story goes that the Shield cut out the Snake’s eye in the Shield’s battle to chase the Snake away from the top of the world. My great grandmother had a different tradition about the Red Snake constellation, though. She said that every star beyond the first three were shed skins, and that the North Star was the first shed skin, ripped off by the ‘Adventuring Team’, which is what she called the Shield.” Linxel smiled, for he couldn’t seem to do anything else but grin, as he said, “She was from Archipelago Nergal, so there was a different tradition there.”
+
+Erick listened and gazed at the sky and loved every moment of it.
+
+Erick wasn’t fully present in the moment, though. A lot of his attention was spent watching out for magical effects all around them, all the time.
+
+They had used a lot of magic in the act, and Erick learned all sorts of interesting things that he didn’t know before, but which he had guessed at long before tonight.
+
+As Linxel spoke, Erick noted that the man’s horns had shrunk, allowing Linxel to lay back on the ground without poking his horns into the mattress Erick had conjured. Linxel said that his horns shifting size was a variation of [Alter Size] magic that he had already displayed, much to both Erick’s horror and delight. Linxel’s Class was Giant Warrior, after all, and he could grow to twice or three times his height when he wanted, but [Alter Size] was practically laced into Linxel’s aura, so after years of use, all of him had eventually just grown bigger. He could still control it, though, but you’d never guess he used to be barely 18 decimeters tall.
+
+Other parts of Erick only noticed Linxel’s eyes, and his muscles, and all the rest of him. How he breathed, and how he spoke. Linxel, in turn, couldn’t keep his eyes off of Erick when Erick spoke of stars, planets, and Earth and whatever. They spoke a little about the new politics of the grasslands, and of threats to the people here, and elsewhere, but mostly they smiled at each other’s genuine words, and feelings.
+
+- - - -
+
+But Linxel and Erick were not meant to be.
+
+Linxel wanted something long term, and nearby. While Erick was not willing to live a life on the grasslands, for he had way too many responsibilities back home, in Spur.
+
+And so, Linxel had taken his leave, first.
+
+And now Erick laid on the conjured mattress, staring up at the sky, watching the stars slowly crawl across the heavens, enjoying and lamenting the moment. A Privacy shielded most of him from the outside world, so he was still in contact with everyone, if he needed to be, but he did not need to be; not right now. As soon as he moved on from this shielded space then… Then it would be time to move on; away from the grasslands, to the next spot of this Worldly Path.
+
+He’d do one more thing before he left, though.
+
+Maybe two more things.
+
+… But for now, he stared at the stars above. There was no danger in being found by anyone, for Erick had moved both he and Linxel through multiple [Sealed Privacy Ward]s, leaving behind a trail of Privacy magics… like the shedding of a snake’s skin, running from an imaginary adventuring team.
+
+Erick smiled as he stared at the sky. This was the best he had felt in…
+
+In over a year.
+
+Huh.
+
+Well wasn’t that fucking sad.
+
+…
+
+Erick got up and turned off the [Heating Ward] that kept the space nice and warm. A chill wind blew across the plains, drying off the sweat still on his skin. He gave himself another [Cleanse] then started putting his clothes back on. Another switch of intent burst every Privacy he had cast upon the grasslands, and Erick stood revealed upon the plains.
+
+For another moment, he gazed at the stars. Then he stared at the dark land all around. He breathed. He sighed.
+
+And then he lightstepped back to his yurt.
+
+- - - -
+
+As dawn broke across the world, bringing light to the darkness, Erick cast a [Small Spark] onto a block of iron and set that block of iron into its holder, on top of the motor. The rotor instantly began to spin, and spin, without breaking. The commutators sparked a little, for the brushes were still made of copper like all the rest of the electrical parts. Erick still hadn’t made a graphite block system, so the commutator or the brushes would eventually wear down due to the friction of the brushes, but someone else could solve that problem. He had made an engine that was a good, near-finished product, and he hadn’t used [Duplicate] to do it. The windings were even sealed with a pretty decent varnish, and with [Particle Vacuum] on top of that; those windings wouldn’t be coming apart like the previous iterations.
+
+… Something might break after a full day of use, though.
+
+There was lots of room for improvement.
+
+Erick still needed to find a replacement for Jane’s silk. And he needed to make a brushless DC motor… Which required transistors. Or he could make an AC motor!… Which required DC to AC conversion. He could also work on transformers, which would be necessary to make [Battery] a usable spell for something other than combining with other spells.
+
+There was a lot of road left on that path, but Erick would walk it some other day.
+
+Erick let the motor run; this was a duration test, now. So far, the motor seemed to be passing.
+
+He turned to his other project.
+
+The frame of a car sat on stone blocks, atop a stone platform. Erick had yet to create or install a prototype differential, but he had a few new ideas to try out. For starters: worm gears. When a worm gear was in contact with a spur gear, the worm gear could rotate the spur gear, but a spur gear could not move a worm gear. This was a necessary solution to a problem he didn’t realize he had, until after he had gotten through two prototype differentials.
+
+When one tire was free to turn (like what happened when the wheels got stuck in mud), all power went to that wheel, while the other wheel got nothing. He probably should have seen the slipping problem coming; this was the major hurdle to overcome to make a differential work properly.
+
+So Erick included some worm gears in his differential along with a bunch of things that just seemed right. In less than twenty minutes, he solved the slipping problem.
+
+Erick began sticking pieces together while he explained his process to his [Familiar]s, with Ophiel sitting on one shoulder and Yggdrasil’s [Scry] eye floating above on the other. “Now you have these two separated axle halves, and you put the worm gears on them, like this, see? And then you hold them together and you attach these parts we’ve already made. And now, you turn it all to light, and slip on this drive wheel that I forgot to put on earlier, like this— Yes, Ophiel, that was a mistake, and so I fixed it like this, see. And here you have the completed project. This is called a torque sensing differential, and it’s copyrighted on Earth, but we don’t care about that on Veird. And now… We start over because I forgot to put some spur gears on these spur gears, but that’s okay, because…”
+
+An hour later, Jane, smiling, brought him a bowl of congee topped with berry jam. Erick was in the middle of refining his ideas, creating a second differential that wouldn’t break under normal stresses, but he was ready to eat, so he took the bowl.
+
+“Thank you.”
+
+Jane asked, “Sooooo. How are yooooou?”
+
+“I’m good.” Erick looked back toward the differential sitting between his legs. He conjured a little floating platform and sat the bowl of breakfast on top. “Unless something else happens, we might be moving on as soon as I get these last few obligations out of the way.”
+
+Jane instantly frowned. “What? But if we’re moving on, then… Did nothing happen?”
+
+“Nothing permanent.” Erick said, “Which is fine.”
+
+Jane’s frown lessened. “Well. Okay. It’s just that you seemed happier, and… That was nice to see. You’ve been smiling all morning long.”
+
+“Ah. I have?” Erick pulled a face. “Is this better?”
+
+Jane returned an exaggerated frown. “Not really.” She changed the subject, “So we’re leaving today, then?”
+
+“Probably.”
+
+“Then I’m going to wrap up a few things; head to Eralis for a little bit. I’ll be back by noon. I assume we’re not taking any of our stuff with us?”
+
+“I’m not sure what to do with most of it, but yeah. We’re traveling light again.” Erick said, “Want Ophiel to take you to Eralis? Save on mana that way.”
+
+“No.” Jane said, “I think Nirzir would want to move some stuff back to Eralis, too, so I’ll probably go with her. She should be awake soon enough.”
+
+Erick nodded.
+
+Jane walked off.
+
+Erick ate his congee. It was pretty good. Warm and filling. The people here had been rather good to him, considering all the shit he stirred up, and he hoped he had been good to them, in return.
+
+… He decided to make a few more things to hand off to the grass travelers.
+
+And two more ‘inventions’.
+
+- - - -
+
+Elder Uriol, Elder Teer, and Elder Puuroi, stood beside the platform with Erick’s various models, motors, and lightward prototypes, looking over everything he had made. There were a few more people beside that, but they were Smiths and Drivers, and only here to understand how to better implement the ideas presented; they had been introduced to Erick, but he didn’t pay them much mind for they were, almost entirely, terrified of him. Erick tried to be personable, but that just freaked them out even more, so he decided to stay away from them instead.
+
+Koori and Niyazo had also come along to the presentation. Erick had invited them and thus they were obligated, but he suspected that they would like what he was showing off as soon as they understood what it meant. Right now, they had no idea what the spinning motor represented, and they had a lot of shit to do, but Erick did not feel bad about pulling them away from whatever else they had planned.
+
+And so, with everyone gathered, Erick spoke of differentials, how the motor worked, and a few of the basics of electromagnetism. It didn’t take long to get through the first iteration of his explanations of what everything was. What did take longer, was when people finally understood what this stuff represented.
+
+Uriol was excited about the new gear designs, while Teer was only interested in the motor. Puuroi was happy about all of it, and vocally excited about all the new possibilities presented. Koori was rather unimpressed until Erick got to explaining how the motor actually worked, though; until she understood the implications of this ‘new magic’.
+
+Koori’s eyes were wide, her jaw slack, her breathing calm, yet excited.
+
+Erick smiled at that.
+
+As Erick finished speaking of the basics of electromagnetism, Erick let everyone in on the implications, topping off his talk with, “And thus, through [Small Spark], you can build a civilization of electricity, with as little or as much magic as you want, for making a rotor turn is the least of what electricity can do. Behold~” Erick pulled a blanket off of a covered box.
+
+A lightbulb, and a toaster; these were the extra inventions Erick had created this morning.
+
+Both were easy to make, too. [Particle Vacuum] along with some Shaping spells and the metals that he had extracted from some of the iron bars was enough to make a rudimentary light bulb. Krypton or argon gas would have been better for the filling medium, but vacuums were easier to understand and implement, or at least they would be in a year. Luckily, Erick had gotten some tungsten out of his metal bar destruction, so at least the light bulb’s filament was exactly what it should have been.
+
+The toaster was similarly easy, though it was not a proper toaster; this one was more like a cooktop. It was horizontal. Erick made it that way so that people could imagine for themselves the multiple ways to use such a device—
+

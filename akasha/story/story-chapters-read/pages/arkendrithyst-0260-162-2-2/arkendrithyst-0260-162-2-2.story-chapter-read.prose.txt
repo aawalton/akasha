@@ -1,0 +1,128 @@
+“How were the petitioners, dad?” Jane asked, as she sat down across the table from Erick and Poi.
+
+The windows were dark; the sun had set not too long ago.
+
+“Only 33 kills completed today, and 31 other problems,” Erick said, smiling as he stuck his fork into the roast Jane had saved for him. “Many of those issues— Except for a few ‘finding’ missions, for sure— Almost all of them could have been done by someone else, too, but they would have had a lot of trouble. I’m almost tempted to have people submit monster kill applications with everything on them, as almost all of those are normal, and I don’t need to actually speak to those people. But I think people just wanted to talk to me. Which is fine, but… not a great use of my time.”
+
+Poi nodded. “This is getting more like work, and less like a vacation, too.”
+
+“Yes; that too, but it is slowing down… somewhat.” Erick said, “Anyway. I’ll put out a second type of application tonight and people can take one of two forms; monster kills, or ‘other’. That should split up the jobs from ones that need to be handled with care, and ones that just need to get done. In fact, I will do that right now.” And so he did, using the Ophiels outside to complete that task while he ate dinner. “Blessing the Cultists and cultists and such has slowed down, too. Only a hundred of those, today. A few more priests of Koyabez are out at the mountain, helping. I think that’s going to turn out really well, actually.”
+
+“I hope so.” Jane said, “The first debate on Clan Pale Cow’s behalf is taking place tomorrow, at noon. Are you going to be there?”
+
+“Oh. Uh.” Erick asked, “That’s tomorrow? I guess I will. I’ll need to talk to Niyazo before then.”
+
+Jane said, “You’re under no obligation to actually help them. It doesn’t matter if they Integrate or not; not to you, anyway.”
+
+“True.” Erick said, “But I do have an obligation to ensure that I leave no strong enemies to strike at my back, and the dragon Ordoonarati qualifies as such a potential enemy, for me, or for the other people who live here. He thought I was coming after him, and I can’t blame him for thinking that, but I can blame him for how he went about trying to kill me. Perhaps, if we were to talk again, or if I were to show my own thoughts on the subject of Integration, I will know if Ordoonarati is simply lashing out, or if he needs to die like all the other monsters out there.”
+
+Jane went a little wide-eyed.
+
+But Teressa, Nirzir, and Poi all nodded along.
+
+“I get the distinct impression that Ordoonarati has lived here for a long time, and these grass travelers truly are his people.” Erick continued, “In that case, we might be on something of the same side, if all he actually wants is to be left alone. But besides that, I’m interested in seeing how a Polite War works.” He smiled as he changed the subject, “I saw the motor you made. Want to test it out?”
+
+Jane looked like she wanted to go back a bit in the conversation, but she said, “No motor tests right now. I do want to hear more about electricity, though.”
+
+Nirzir perked up from her chair, to the side of the yurt. “Can I listen in, too?”
+
+“Sure!” Erick asked, “How about I tell the story tonight?”
+
+Teressa spoke up, “An actual story? Or a lesson?”
+
+Erick smirked. “You can head to bed if you don’t want to learn the secrets of the New Cosmology, Teressa.”
+
+“Then I shall head to bed.”
+
+And so, as Teressa zonked out on her bed, Erick spoke of electricity and left hand rules and poles and electrons traveling down conductive materials, and what it meant for a material to be conductive in the first place. He got pretty deep into the actual physics of it all, but eventually he moved on to experimental evidence of how electrical and magnetic fields were related.
+
+Partway through, Erick wondered how Kiri was doing; she should have been here for this talk.
+
+And now Erick wanted to get back home. Back to someplace safe.
+
+And yet, he was doing a lot of good out here.
+
+- - - -
+
+The next morning Erick made a much larger, much better motor using a few design changes he had thought of last night, when he was explaining how motors worked. Simply upping the size of the rotor to a meter long and half a meter wide, and going from three coils to six (with some of the wiring being more like metal bars than wires), as well as changing how the brushes touched the commutator, helped with quite a few problems. The heat was a lot lower on the larger system, for one, and with [Alter Friction] cast on the brushes, Erick greatly extended the life of those heavily used metal bits. Centrifugal forces on the rotor still caused problems, breaking apart the entire machine more than once, but Erick fixed those problems, too; mostly. As the rotor spun fast and strong, and then faster, heat almost became an issue, but a simple [Cooling Ward] ended that problem before it spiraled out of control.
+
+The motor continued to have problems, though, and at this new, larger size, those problems were problems.
+
+It was spinning too damned fast, and Erick’s mechanical engineering was not up to the stress of it all. Stress fractures abounded, from the rotor to the housing. Erick needed to work on his metallurgy, and he needed to refine the metals that the elders had sent him. They might have been high-grade steel, or they might have been shit. Erick had no idea.
+
+But, even though the rotor was spinning fast, it was also spinning too slow. Too weak. While it was running, Erick managed to take a measurement of the RPM at just under 700 revolutions per minute. There were losses of inefficiency everywhere. He already knew he needed a transmission system in order to use the power present in his new motor, but he needed a quality motor first. 1500 RPM, minimum.
+
+Some [Mend]s brought the system back together after each failure, but after the third break, something had thoroughly broken in the actual history of the motor, and [Mend] would not restore the motor to functionality. Oh well. With half an hour to go till the debates, Erick called it quits for the day, leaving everything like it was—
+
+Staring down at his motor, Erick had an idea.
+
+“I can put a flywheel outside of the motor, which is structurally strong, and put an [Anti Gravity Ward] on the actual motor, which is structurally weak, thus eliminating the need for perfect engineering of… the rotor…” Erick frowned. “No… That’s solving for failure. That might not work in the first place, and who wants a flywheel in their car? Bad idea.” He mumbled to himself, “All this is useless without the transmission, though...”
+
+He shook his head and walked away, telling Jane and Poi that he was headed out as he walked toward Clan Pale Cow. Poi rapidly followed. Jane caught up, soon enough. Nirzir and Teressa were already at Clan Pale Cow, working at the cooking yurt and at the schoolhouse yurt, respectively. Erick would pick them up on his way through the space.
+
+- - - -
+
+Clan Pale Cow’s occupied land had become much more occupied in the last few days, all while Erick was barely looking. Most of the clan was still scattered to the winds, but Erick saw a lot of new faces as he walked past the outer edge of yurts, toward Warlord Niyazo’s yurt about half a kilometer away, at the center of the whole clan. There were about five cooking yurts now, each lined up next to each other, and about 900 yurts scattered over the kilometer of space provided to Clan Pale Cow, so Erick guessed that there were five collections of people, here.
+
+Nirzir hopped off of the central cooking yurt as soon as she saw Erick for herself; she had been looking out for him, for Erick had made no attempt at subtlety as he strode into Clan Pale Cow’s designated land, so other people had noticed him long before now. Word got around rather fast when it came to that sort of stuff.
+
+As Nirzir joined Erick, falling in behind him, Teressa was already on her way to him, having also heard of his movements through the camp. With his full party assembled, Erick went to the yurt of Warlord Niyazo.
+
+When Erick got to Niyazo’s yurt, there were four other yurts almost exactly like the warlord’s, situated just outside. All of those yurts were unoccupied by the leaders of Pale Cow, save a few kids and grandmothers and fathers who had been left behind.
+
+For beyond that area, a very large yurt overshadowed the size of almost every other yurt within sight. It was a gathering space, and it was there that Niyazo and his lesser clan leaders had been holding meetings and gatherings ever since they had arrived at Ooloraptoor. Erick walked that way.
+
+Cowherd Amasar sat on the porch of that larger yurt, alongside a few other cowherds of other branch clans. They hopped to attention as Erick came toward them. They bowed as Erick hopped up onto the yurt.
+
+Amasar rose, saying, “Erick. Welcome.”
+
+“Hello, Amasar.” Erick pointed at the flap to the yurt. “Are they speaking of today’s debate?”
+
+“They have been discussing the upcoming debates for days, but mostly just to understand who our opponents might field in battle. It could change depending on who we choose to field in battle.” Amasar said, “The actual debate isn’t going to take place for another hour, but we don’t expect the battle to occur until late into the evening. Possibly not until twilight. It does infringe on the help that you have chosen to give other people, though.”
+
+Amasar had tried to become a part of Erick’s cohort, due to some cultural ideas around what it meant to save someone’s life. Erick had denied the man, and it had hurt him, perhaps more than Erick had expected to hurt him. Some of that hurt was on clear display to those who were capable of seeing such a thing, and Erick was one of those people.
+
+Erick said, “I know that being a clanfriend to Pale Cow requires me to take responsibility to be aware of events like this on my own, but I could use some small help with this honor. In exchange for the life I helped you to retain, I require your help in this, Amasar. Keep me better informed of events like this.”
+
+Amasar, and all the other cowherds, perked up. Amasar stood straight. He controlled his sudden, overwhelming relief, and the washing away of a black mark on his life, to something smaller. With quiet joy, he said, “I will do this for you, Erick.”
+
+Erick didn’t really get whatever cultural thing was going on there, but he understood enough to be able to make the guy feel better about himself, and that’s what was important. Erick gestured to the flap to the yurt, saying, “I’m going in, now.”
+
+Amasar hopped to the flap and silently pulled it back.
+
+Erick walked into the firelit space beyond, where four leaders spoke around a low hearth, and a few other people held out in the shadows behind them. Poi and Nirzir joined Erick as he walked forward, but Jane and Teressa remained outside.
+
+Niyazo said to Erick, “Welcome to our bonfire. Glad you could make it. Take a seat.”
+
+Erick nodded to everyone around the fire, as he took his seat in an empty space, saying, “I would have been here sooner, but I was busy. Before you continue with tactical discussions, I would have a refresher on the possible outcomes of this debate.”
+
+While the four lesser leaders watched Erick, Niyazo said, “If we lose any of our three planned debates, we are to cut ties with Songli for a year. If all three of our opponent clans lose, then they are honor bound to accept a year of envoys from Songli; from Severing Crescent of Alaralti, in particular.”
+
+Erick nodded. “And the three clans you are facing?”
+
+“Green Grass, with Leader Linxel is first. Today. Clan Blue Sky, another True Traveler Clan and formerly a part of Green Grass decades ago, is tomorrow. Leader Roodi of Blue Sky is distantly related to Linxel.” Niyazo said, “Then we have Clan Brown Dog, they are a lesser True Traveler Clan, but their Leader Fara is a well known power among grass travelers. That debate might be three days from now, or seven. We’re not sure. We expect the most difficulty from Brown Dog since Green Grass and Blue Sky have both been massively upset by recent events, as you know.”
+
+Another leader spoke up, “We still expect Green Grass to put up a heavy defense of words. Hours of debate, at least. They could still win over the judging Elders, forcing us into an actual polite battle, of which they would also likely win.”
+
+A different leader said, “Unless you wish to participate in battle yourself, clanfriend Erick? Honestly, we did not know if you would show.”
+
+Erick nodded. “Then that makes this decision easy: Instead of the multi-hour affair that you expect, I would like to speak on Pale Cow’s and Integration’s behalf, and then get right to battle if they decide to keep debating. I expect to take… half an hour? Till we get to the actual fight? Of which I will take the field, alongside 9 of your other people.” He asked, “Unless I can use Ophiel in my stead?”
+
+While the four leaders looked suddenly happy—
+
+Niyazo said, “It would require an actual ruling from the Elders, but we have already asked around and there are rules against [Familiar]s; we don’t expect Ophiel to be allowed, except as a part of you, in which case the battle is as good as won.”
+
+Erick said, “I wouldn’t expect to be allowed to take myself out of mortal danger, either, but I had to ask. So with that out of the way,” Erick glanced around, saying, “I don’t believe we’ve met, yet. And I don’t know much about your arguments for Integration, either. I have my own, most of which will center around kicking out bad actors in your society.”
+
+The other leaders looked happy, and yet worried at the same time.
+
+Niyazo began with the man on Erick’s right, saying, “This is Leader Birobar, who…”
+
+Names and faces. Introductions to people, and then ideas. Erick caught up rather quickly, while he also took care of twenty monster kill requests waiting for him outside of his yurt, Blessed people on the mountain, and scoped out where the debate would actually take place.
+
+Before he knew it, it was time.
+
+- - - -
+
+The Elder House was a large, misshapen blob of a building, located directly next to the waters of Lake Ooloraptoor. In it were housed the fifty or so elevated elders of the grass traveling clans, as well as twice that number of caretakers. The only natural tree that Erick had seen upon all the grasslands lived here too, crawling into the air alongside the house; it was simultaneously a sickly and healthy looking thing of burls and twists and bright green leaves. This blobby, stone house was the second permanent structure of the grass travelers, with the other one being the stone fence that separated the fishable waters of the lake from the greater depths beyond.
+
