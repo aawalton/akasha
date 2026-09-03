@@ -5,7 +5,7 @@ export const thePrimalHunter0007Chapter7TrainingAndRest = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0007-chapter-7-training-and-rest",
   title: "Chapter 7 - Training & rest",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 7,
   ownLength: 2518,
   unitSlug: "words",

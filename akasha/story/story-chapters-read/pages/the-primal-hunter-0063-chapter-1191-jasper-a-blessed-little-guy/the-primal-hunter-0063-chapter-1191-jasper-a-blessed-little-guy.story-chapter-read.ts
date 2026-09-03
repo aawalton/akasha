@@ -5,7 +5,7 @@ export const thePrimalHunter0063Chapter1191JasperABlessedLittleGuy = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0063-chapter-1191-jasper-a-blessed-little-guy",
   title: "Chapter 1191 - Jasper, A Blessed Little Guy",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 63,
   ownLength: 2613,
   unitSlug: "words",

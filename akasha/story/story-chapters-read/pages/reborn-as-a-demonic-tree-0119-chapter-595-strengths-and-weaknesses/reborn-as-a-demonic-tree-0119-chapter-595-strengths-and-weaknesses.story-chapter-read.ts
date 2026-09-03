@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0119Chapter595StrengthsAndWeaknesses = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0119-chapter-595-strengths-and-weaknesses",
   title: "Chapter 595: Strengths and Weaknesses",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 119,
   ownLength: 2433,
   unitSlug: "words",

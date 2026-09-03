@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0059Chapter536FallingStar = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0059-chapter-536-falling-star",
   title: "Chapter 536: Falling Star",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 59,
   ownLength: 2969,
   unitSlug: "words",

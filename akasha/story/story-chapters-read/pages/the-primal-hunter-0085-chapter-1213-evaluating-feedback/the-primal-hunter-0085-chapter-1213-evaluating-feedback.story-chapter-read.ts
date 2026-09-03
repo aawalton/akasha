@@ -5,7 +5,7 @@ export const thePrimalHunter0085Chapter1213EvaluatingFeedback = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0085-chapter-1213-evaluating-feedback",
   title: "Chapter 1213 - Evaluating Feedback",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 85,
   ownLength: 2649,
   unitSlug: "words",

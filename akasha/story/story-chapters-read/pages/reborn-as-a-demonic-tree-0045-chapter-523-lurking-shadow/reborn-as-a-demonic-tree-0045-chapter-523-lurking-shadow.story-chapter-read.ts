@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0045Chapter523LurkingShadow = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0045-chapter-523-lurking-shadow",
   title: "Chapter 523: Lurking Shadow ",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 45,
   ownLength: 2390,
   unitSlug: "words",

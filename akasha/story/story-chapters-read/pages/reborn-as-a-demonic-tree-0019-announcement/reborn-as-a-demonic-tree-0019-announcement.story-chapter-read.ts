@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0019Announcement = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0019-announcement",
   title: "Announcement",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 19,
   ownLength: 565,
   unitSlug: "words",

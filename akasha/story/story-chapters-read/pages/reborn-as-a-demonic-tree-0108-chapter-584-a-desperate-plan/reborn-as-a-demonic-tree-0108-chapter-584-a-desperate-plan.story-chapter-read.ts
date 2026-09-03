@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0108Chapter584ADesperatePlan = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0108-chapter-584-a-desperate-plan",
   title: "Chapter 584: A Desperate Plan",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 108,
   ownLength: 2654,
   unitSlug: "words",

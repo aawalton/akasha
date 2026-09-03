@@ -5,7 +5,7 @@ export const thePrimalHunter0058Chapter1186AMomentToBeHumbled = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0058-chapter-1186-a-moment-to-be-humbled",
   title: "Chapter 1186 - A Moment To Be Humbled",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 58,
   ownLength: 2879,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0029Chapter1157InnateAdvantages = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0029-chapter-1157-innate-advantages",
   title: "Chapter 1157 - Innate Advantages",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 29,
   ownLength: 2687,
   unitSlug: "words",

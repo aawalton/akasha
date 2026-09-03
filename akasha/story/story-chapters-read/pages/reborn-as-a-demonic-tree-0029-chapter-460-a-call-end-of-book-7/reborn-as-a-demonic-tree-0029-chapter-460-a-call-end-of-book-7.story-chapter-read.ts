@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0029Chapter460ACallEndOfBook7 = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0029-chapter-460-a-call-end-of-book-7",
   title: "Chapter 460: A Call (End of Book 7)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 29,
   ownLength: 3140,
   unitSlug: "words",

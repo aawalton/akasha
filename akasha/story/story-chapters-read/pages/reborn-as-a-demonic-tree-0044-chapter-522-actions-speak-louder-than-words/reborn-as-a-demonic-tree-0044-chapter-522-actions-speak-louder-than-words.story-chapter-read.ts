@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0044Chapter522ActionsSpeakLouderThanWords = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0044-chapter-522-actions-speak-louder-than-words",
   title: "Chapter 522: Actions Speak Louder Than Words",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 44,
   ownLength: 2897,
   unitSlug: "words",

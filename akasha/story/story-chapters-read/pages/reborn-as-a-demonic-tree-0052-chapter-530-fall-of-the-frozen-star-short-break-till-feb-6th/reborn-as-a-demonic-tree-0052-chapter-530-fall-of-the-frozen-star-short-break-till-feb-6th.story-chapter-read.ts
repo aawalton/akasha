@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0052Chapter530FallOfTheFrozenStarShortBreakTill
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0052-chapter-530-fall-of-the-frozen-star-short-break-till-feb-6th",
   title: "Chapter 530: Fall of the Frozen Star + short break till Feb 6th",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 52,
   ownLength: 2880,
   unitSlug: "words",

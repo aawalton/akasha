@@ -5,7 +5,7 @@ export const thePrimalHunter0133Chapter1260CGradeClassEvolutionQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0133-chapter-1260-c-grade-class-evolution-quest",
   title: "Chapter 1260 - C-grade Class Evolution Quest",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 133,
   ownLength: 2736,
   unitSlug: "words",

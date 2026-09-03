@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0118Chapter594TheDarknessWithin = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0118-chapter-594-the-darkness-within",
   title: "Chapter 594: The Darkness Within",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 118,
   ownLength: 4018,
   unitSlug: "words",

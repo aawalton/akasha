@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0021Chapter306ClosedDoorCultivationStartOfBook5
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0021-chapter-306-closed-door-cultivation-start-of-book-5",
   title: "Chapter 306: Closed Door Cultivation (Start of Book 5)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 21,
   ownLength: 2717,
   unitSlug: "words",

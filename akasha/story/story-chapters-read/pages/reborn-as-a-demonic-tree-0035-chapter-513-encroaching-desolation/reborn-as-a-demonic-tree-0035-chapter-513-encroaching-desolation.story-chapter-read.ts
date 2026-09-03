@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0035Chapter513EncroachingDesolation = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0035-chapter-513-encroaching-desolation",
   title: "Chapter 513: Encroaching Desolation",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 35,
   ownLength: 3008,
   unitSlug: "words",

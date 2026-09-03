@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0036Chapter514ASilentAdmirer = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0036-chapter-514-a-silent-admirer",
   title: "Chapter 514: A Silent Admirer",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 36,
   ownLength: 3028,
   unitSlug: "words",

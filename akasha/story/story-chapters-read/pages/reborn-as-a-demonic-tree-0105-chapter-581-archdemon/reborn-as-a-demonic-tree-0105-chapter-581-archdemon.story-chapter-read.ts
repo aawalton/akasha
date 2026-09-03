@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0105Chapter581Archdemon = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0105-chapter-581-archdemon",
   title: "Chapter 581: Archdemon",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 105,
   ownLength: 2758,
   unitSlug: "words",

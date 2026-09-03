@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0049Chapter527HighStakes = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0049-chapter-527-high-stakes",
   title: "Chapter 527: High Stakes",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 49,
   ownLength: 3190,
   unitSlug: "words",

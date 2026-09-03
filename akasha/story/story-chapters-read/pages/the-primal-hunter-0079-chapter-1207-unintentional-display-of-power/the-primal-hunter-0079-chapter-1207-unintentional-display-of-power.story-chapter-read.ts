@@ -5,7 +5,7 @@ export const thePrimalHunter0079Chapter1207UnintentionalDisplayOfPower = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0079-chapter-1207-unintentional-display-of-power",
   title: "Chapter 1207 - Unintentional Display of Power",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 79,
   ownLength: 2812,
   unitSlug: "words",

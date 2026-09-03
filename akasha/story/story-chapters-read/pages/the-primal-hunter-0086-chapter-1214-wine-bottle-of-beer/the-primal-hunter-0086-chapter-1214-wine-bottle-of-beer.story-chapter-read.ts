@@ -5,7 +5,7 @@ export const thePrimalHunter0086Chapter1214WineBottleOfBeer = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0086-chapter-1214-wine-bottle-of-beer",
   title: "Chapter 1214 - Wine Bottle of Beer ",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 86,
   ownLength: 2675,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0099Chapter575Envy = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0099-chapter-575-envy",
   title: "Chapter 575: Envy",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 99,
   ownLength: 2627,
   unitSlug: "words",

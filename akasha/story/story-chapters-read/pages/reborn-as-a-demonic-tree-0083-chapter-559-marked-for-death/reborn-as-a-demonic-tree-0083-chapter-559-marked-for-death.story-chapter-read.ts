@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0083Chapter559MarkedForDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0083-chapter-559-marked-for-death",
   title: "Chapter 559: Marked for Death",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 83,
   ownLength: 2213,
   unitSlug: "words",

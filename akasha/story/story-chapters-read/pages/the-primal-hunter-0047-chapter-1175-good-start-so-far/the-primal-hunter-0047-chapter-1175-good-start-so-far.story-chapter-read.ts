@@ -5,7 +5,7 @@ export const thePrimalHunter0047Chapter1175GoodStartSoFar = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0047-chapter-1175-good-start-so-far",
   title: "Chapter 1175 - Good Start So Far...",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 47,
   ownLength: 2777,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0123Chapter1251SecondFinalPhase = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0123-chapter-1251-second-final-phase",
   title: "Chapter 1251 - Second (Final?) Phase",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 123,
   ownLength: 3029,
   unitSlug: "words",

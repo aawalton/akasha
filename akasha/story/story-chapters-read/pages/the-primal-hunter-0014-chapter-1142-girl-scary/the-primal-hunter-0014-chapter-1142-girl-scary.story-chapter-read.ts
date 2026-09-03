@@ -5,7 +5,7 @@ export const thePrimalHunter0014Chapter1142GirlScary = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0014-chapter-1142-girl-scary",
   title: "Chapter 1142 - Girl Scary",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 14,
   ownLength: 2695,
   unitSlug: "words",

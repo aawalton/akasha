@@ -5,7 +5,7 @@ export const thePrimalHunter0037Chapter1165ASuccessfulDiplomaticMission = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0037-chapter-1165-a-successful-diplomatic-mission",
   title: "Chapter 1165 - A Successful Diplomatic Mission",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 37,
   ownLength: 2898,
   unitSlug: "words",

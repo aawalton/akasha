@@ -5,7 +5,7 @@ export const thePrimalHunter0130PremiumEditionHardcovers = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0130-premium-edition-hardcovers",
   title: "Premium Edition Hardcovers",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 130,
   ownLength: 226,
   unitSlug: "words",

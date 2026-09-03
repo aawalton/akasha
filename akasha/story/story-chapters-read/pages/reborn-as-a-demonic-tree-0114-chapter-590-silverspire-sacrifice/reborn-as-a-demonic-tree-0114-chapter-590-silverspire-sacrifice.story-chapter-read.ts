@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0114Chapter590SilverspireSacrifice = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0114-chapter-590-silverspire-sacrifice",
   title: "Chapter 590: Silverspire Sacrifice",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 114,
   ownLength: 2654,
   unitSlug: "words",

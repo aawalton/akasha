@@ -5,7 +5,7 @@ export const thePrimalHunter0106Chapter1234DragonHunter3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0106-chapter-1234-dragon-hunter-3",
   title: "Chapter 1234 - Dragon Hunter (3)",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 106,
   ownLength: 2719,
   unitSlug: "words",

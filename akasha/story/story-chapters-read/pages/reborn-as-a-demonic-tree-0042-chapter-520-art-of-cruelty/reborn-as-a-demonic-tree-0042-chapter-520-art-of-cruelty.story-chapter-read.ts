@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0042Chapter520ArtOfCruelty = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0042-chapter-520-art-of-cruelty",
   title: "Chapter 520: Art of Cruelty",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 42,
   ownLength: 2833,
   unitSlug: "words",

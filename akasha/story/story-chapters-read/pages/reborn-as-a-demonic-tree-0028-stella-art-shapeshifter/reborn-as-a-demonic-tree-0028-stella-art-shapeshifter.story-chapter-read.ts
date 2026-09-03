@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0028StellaArtShapeshifter = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0028-stella-art-shapeshifter",
   title: "Stella Art + Shapeshifter",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 28,
   ownLength: 468,
   unitSlug: "words",

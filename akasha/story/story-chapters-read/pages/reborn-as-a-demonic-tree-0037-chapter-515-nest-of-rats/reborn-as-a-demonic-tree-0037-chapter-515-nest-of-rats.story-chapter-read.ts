@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0037Chapter515NestOfRats = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0037-chapter-515-nest-of-rats",
   title: "Chapter 515: Nest of Rats",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 37,
   ownLength: 2723,
   unitSlug: "words",

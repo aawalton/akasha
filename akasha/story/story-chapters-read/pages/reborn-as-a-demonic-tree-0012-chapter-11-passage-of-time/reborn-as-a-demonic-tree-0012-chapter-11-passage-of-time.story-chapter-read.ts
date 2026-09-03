@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0012Chapter11PassageOfTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0012-chapter-11-passage-of-time",
   title: "Chapter 11: Passage of Time",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 12,
   ownLength: 2213,
   unitSlug: "words",

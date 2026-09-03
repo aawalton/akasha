@@ -5,7 +5,7 @@ export const thePrimalHunter0069Chapter1197AnUnaVoidAbleGamble = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0069-chapter-1197-an-una-void-able-gamble",
   title: "Chapter 1197 - An Una-Void-Able Gamble",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 69,
   ownLength: 2730,
   unitSlug: "words",

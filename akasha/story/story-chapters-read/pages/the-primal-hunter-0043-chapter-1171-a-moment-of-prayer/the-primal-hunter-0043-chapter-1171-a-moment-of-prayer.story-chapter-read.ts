@@ -5,7 +5,7 @@ export const thePrimalHunter0043Chapter1171AMomentOfPrayer = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0043-chapter-1171-a-moment-of-prayer",
   title: "Chapter 1171 - A Moment Of Prayer",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 43,
   ownLength: 2836,
   unitSlug: "words",

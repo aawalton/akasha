@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0054Chapter532PrimordialForceOfAbsorption = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0054-chapter-532-primordial-force-of-absorption",
   title: "Chapter 532: Primordial Force of Absorption",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 54,
   ownLength: 2651,
   unitSlug: "words",

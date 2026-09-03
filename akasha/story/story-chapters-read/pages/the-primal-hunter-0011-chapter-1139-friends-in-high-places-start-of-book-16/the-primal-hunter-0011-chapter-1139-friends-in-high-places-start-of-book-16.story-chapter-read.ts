@@ -5,7 +5,7 @@ export const thePrimalHunter0011Chapter1139FriendsInHighPlacesStartOfBook16 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0011-chapter-1139-friends-in-high-places-start-of-book-16",
   title: "Chapter 1139 - Friends In High Places - START OF BOOK 16",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 11,
   ownLength: 2684,
   unitSlug: "words",

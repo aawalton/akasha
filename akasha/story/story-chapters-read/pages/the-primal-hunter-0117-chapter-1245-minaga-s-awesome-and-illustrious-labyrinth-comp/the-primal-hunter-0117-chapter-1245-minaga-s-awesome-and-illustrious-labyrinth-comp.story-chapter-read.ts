@@ -5,7 +5,7 @@ export const thePrimalHunter0117Chapter1245MinagaSAwesomeAndIllustriousLabyrinth
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0117-chapter-1245-minaga-s-awesome-and-illustrious-labyrinth-comp",
   title: "Chapter 1245 - Minaga’s Awesome and Illustrious Labyrinth Complex Dungeon-5",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 117,
   ownLength: 2645,
   unitSlug: "words",

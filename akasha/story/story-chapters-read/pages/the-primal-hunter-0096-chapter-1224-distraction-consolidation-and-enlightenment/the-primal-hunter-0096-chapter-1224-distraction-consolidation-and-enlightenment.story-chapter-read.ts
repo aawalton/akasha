@@ -5,7 +5,7 @@ export const thePrimalHunter0096Chapter1224DistractionConsolidationAndEnlightenm
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0096-chapter-1224-distraction-consolidation-and-enlightenment",
   title: "Chapter 1224 - Distraction, Consolidation & Enlightenment",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 96,
   ownLength: 2717,
   unitSlug: "words",

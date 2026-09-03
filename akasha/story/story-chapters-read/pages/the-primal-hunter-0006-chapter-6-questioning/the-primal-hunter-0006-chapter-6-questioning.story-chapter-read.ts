@@ -5,7 +5,7 @@ export const thePrimalHunter0006Chapter6Questioning = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0006-chapter-6-questioning",
   title: "Chapter 6 - Questioning",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 6,
   ownLength: 2514,
   unitSlug: "words",

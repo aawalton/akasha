@@ -5,7 +5,7 @@ export const thePrimalHunter0092Chapter1220AGambitForRecovery = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0092-chapter-1220-a-gambit-for-recovery",
   title: "Chapter 1220 - A Gambit For Recovery",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 92,
   ownLength: 2678,
   unitSlug: "words",

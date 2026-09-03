@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0121Chapter597ChaoticBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0121-chapter-597-chaotic-battle",
   title: "Chapter 597: Chaotic Battle",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 121,
   ownLength: 2637,
   unitSlug: "words",

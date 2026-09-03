@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0056Chapter533MonarchOfFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0056-chapter-533-monarch-of-flame",
   title: "Chapter 533: Monarch of Flame",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 56,
   ownLength: 2796,
   unitSlug: "words",

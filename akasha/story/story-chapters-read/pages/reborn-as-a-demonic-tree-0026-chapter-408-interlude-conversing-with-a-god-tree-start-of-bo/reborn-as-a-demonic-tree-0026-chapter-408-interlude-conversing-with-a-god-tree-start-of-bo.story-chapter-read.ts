@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0026Chapter408InterludeConversingWithAGodTreeSt
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0026-chapter-408-interlude-conversing-with-a-god-tree-start-of-bo",
   title: "Chapter 408: (Interlude) Conversing with a God Tree (Start of Book 7)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 26,
   ownLength: 3230,
   unitSlug: "words",

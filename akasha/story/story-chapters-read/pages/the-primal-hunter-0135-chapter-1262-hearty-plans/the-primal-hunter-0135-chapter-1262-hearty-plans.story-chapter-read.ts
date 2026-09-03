@@ -5,7 +5,7 @@ export const thePrimalHunter0135Chapter1262HeartyPlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0135-chapter-1262-hearty-plans",
   title: "Chapter 1262 - Hearty Plans",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 135,
   ownLength: 2738,
   unitSlug: "words",

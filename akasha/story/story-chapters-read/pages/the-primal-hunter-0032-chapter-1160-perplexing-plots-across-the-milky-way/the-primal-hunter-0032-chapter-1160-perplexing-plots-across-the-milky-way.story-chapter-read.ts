@@ -5,7 +5,7 @@ export const thePrimalHunter0032Chapter1160PerplexingPlotsAcrossTheMilkyWay = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0032-chapter-1160-perplexing-plots-across-the-milky-way",
   title: "Chapter 1160 - Perplexing Plots Across the Milky Way",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 32,
   ownLength: 2630,
   unitSlug: "words",

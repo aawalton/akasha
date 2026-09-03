@@ -5,7 +5,7 @@ export const thePrimalHunter0036Chapter1164Relationship = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0036-chapter-1164-relationship",
   title: "Chapter 1164 - Relationship",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 36,
   ownLength: 3052,
   unitSlug: "words",

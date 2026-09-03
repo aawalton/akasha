@@ -5,7 +5,7 @@ export const theLegendOfRandidlyGhosthound0014PauseWeek = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-legend-of-randidly-ghosthound-0014-pause-week",
   title: "Pause Week",
-  partOfSlugs: ["the-legend-of-randidly-ghosthound"],
+  partOfSlugs: ["story-read/the-legend-of-randidly-ghosthound"],
   position: 14,
   ownLength: 263,
   unitSlug: "words",

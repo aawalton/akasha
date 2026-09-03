@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0001Chapter1TheCostOfPeace = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0001-chapter-1-the-cost-of-peace",
   title: "Chapter 1: The Cost of Peace",
-  partOfSlugs: ["rise-of-the-living-forge"],
+  partOfSlugs: ["story-read/rise-of-the-living-forge"],
   position: 1,
   ownLength: 3591,
   unitSlug: "words",

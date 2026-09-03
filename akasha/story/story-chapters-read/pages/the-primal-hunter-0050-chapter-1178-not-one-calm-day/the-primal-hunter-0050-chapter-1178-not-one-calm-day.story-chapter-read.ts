@@ -5,7 +5,7 @@ export const thePrimalHunter0050Chapter1178NotOneCalmDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0050-chapter-1178-not-one-calm-day",
   title: "Chapter 1178 - Not One Calm Day",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 50,
   ownLength: 2799,
   unitSlug: "words",

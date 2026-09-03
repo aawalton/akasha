@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0043Chapter521Riftwalker = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0043-chapter-521-riftwalker",
   title: "Chapter 521: Riftwalker",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 43,
   ownLength: 2580,
   unitSlug: "words",

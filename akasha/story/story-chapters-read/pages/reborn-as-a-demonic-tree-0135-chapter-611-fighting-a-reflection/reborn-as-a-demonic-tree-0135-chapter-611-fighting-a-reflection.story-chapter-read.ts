@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0135Chapter611FightingAReflection = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0135-chapter-611-fighting-a-reflection",
   title: "Chapter 611: Fighting a Reflection",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 135,
   ownLength: 2835,
   unitSlug: "words",

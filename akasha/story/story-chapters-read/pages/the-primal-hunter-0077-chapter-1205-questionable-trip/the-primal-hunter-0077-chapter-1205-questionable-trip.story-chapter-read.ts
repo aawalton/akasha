@@ -5,7 +5,7 @@ export const thePrimalHunter0077Chapter1205QuestionableTrip = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0077-chapter-1205-questionable-trip",
   title: "Chapter 1205 - Questionable Trip",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 77,
   ownLength: 2723,
   unitSlug: "words",

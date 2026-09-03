@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0024Chapter366IncomingStormStartOfBook6 = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0024-chapter-366-incoming-storm-start-of-book-6",
   title: "Chapter 366: Incoming Storm (Start of Book 6)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 24,
   ownLength: 3240,
   unitSlug: "words",

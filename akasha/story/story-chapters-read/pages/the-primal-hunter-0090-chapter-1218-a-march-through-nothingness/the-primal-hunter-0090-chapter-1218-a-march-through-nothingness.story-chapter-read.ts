@@ -5,7 +5,7 @@ export const thePrimalHunter0090Chapter1218AMarchThroughNothingness = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0090-chapter-1218-a-march-through-nothingness",
   title: "Chapter 1218 - A March Through Nothingness",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 90,
   ownLength: 3206,
   unitSlug: "words",

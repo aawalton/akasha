@@ -5,7 +5,7 @@ export const thePrimalHunter0061Chapter1189DivineAndDangerousOddballs = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0061-chapter-1189-divine-and-dangerous-oddballs",
   title: "Chapter 1189 - Divine & Dangerous Oddballs",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 61,
   ownLength: 2733,
   unitSlug: "words",

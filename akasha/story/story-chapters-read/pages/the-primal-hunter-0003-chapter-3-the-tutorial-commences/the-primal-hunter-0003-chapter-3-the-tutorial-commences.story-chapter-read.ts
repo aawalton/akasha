@@ -5,7 +5,7 @@ export const thePrimalHunter0003Chapter3TheTutorialCommences = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0003-chapter-3-the-tutorial-commences",
   title: "Chapter 3 - The tutorial commences",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 3,
   ownLength: 2619,
   unitSlug: "words",

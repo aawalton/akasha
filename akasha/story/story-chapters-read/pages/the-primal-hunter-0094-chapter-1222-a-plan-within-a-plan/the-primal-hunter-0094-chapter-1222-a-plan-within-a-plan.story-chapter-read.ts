@@ -5,7 +5,7 @@ export const thePrimalHunter0094Chapter1222APlanWithinAPlan = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0094-chapter-1222-a-plan-within-a-plan",
   title: "Chapter 1222 - A Plan Within A Plan",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 94,
   ownLength: 2640,
   unitSlug: "words",

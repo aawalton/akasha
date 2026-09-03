@@ -5,7 +5,7 @@ export const thePrimalHunter0116Chapter1244InvasivePersonalQuestions = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0116-chapter-1244-invasive-personal-questions",
   title: "Chapter 1244 - Invasive Personal Questions",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 116,
   ownLength: 2622,
   unitSlug: "words",

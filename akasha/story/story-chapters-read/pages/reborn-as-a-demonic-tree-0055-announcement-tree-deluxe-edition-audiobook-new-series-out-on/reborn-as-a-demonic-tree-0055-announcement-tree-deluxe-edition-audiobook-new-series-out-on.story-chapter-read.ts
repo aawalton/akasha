@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0055AnnouncementTreeDeluxeEditionAudiobookNewSe
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0055-announcement-tree-deluxe-edition-audiobook-new-series-out-on",
   title: "Announcement! Tree Deluxe Edition, Audiobook + new series out on Amazon!",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 55,
   ownLength: 224,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0064Chapter1192MinagaTheMessenger = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0064-chapter-1192-minaga-the-messenger",
   title: "Chapter 1192 - Minaga the Messenger",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 64,
   ownLength: 2854,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0006Chapter5ATotallyFriendlyTree = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0006-chapter-5-a-totally-friendly-tree",
   title: "Chapter 5: A Totally Friendly Tree",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 6,
   ownLength: 2301,
   unitSlug: "words",

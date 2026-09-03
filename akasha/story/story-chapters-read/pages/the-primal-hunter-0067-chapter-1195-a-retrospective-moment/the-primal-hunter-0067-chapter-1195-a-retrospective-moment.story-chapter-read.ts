@@ -5,7 +5,7 @@ export const thePrimalHunter0067Chapter1195ARetrospectiveMoment = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0067-chapter-1195-a-retrospective-moment",
   title: "Chapter 1195 - A Retrospective Moment",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 67,
   ownLength: 2890,
   unitSlug: "words",

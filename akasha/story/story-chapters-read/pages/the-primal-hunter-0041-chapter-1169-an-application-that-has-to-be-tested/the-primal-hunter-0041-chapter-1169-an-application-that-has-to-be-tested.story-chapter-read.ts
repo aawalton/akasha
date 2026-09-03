@@ -5,7 +5,7 @@ export const thePrimalHunter0041Chapter1169AnApplicationThatHasToBeTested = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0041-chapter-1169-an-application-that-has-to-be-tested",
   title: "Chapter 1169 - An Application That Has To Be Tested",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 41,
   ownLength: 2851,
   unitSlug: "words",

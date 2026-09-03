@@ -5,7 +5,7 @@ export const thePrimalHunter0055Chapter1183OperationMoonfall = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0055-chapter-1183-operation-moonfall",
   title: "Chapter 1183 - Operation: Moonfall",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 55,
   ownLength: 3208,
   unitSlug: "words",

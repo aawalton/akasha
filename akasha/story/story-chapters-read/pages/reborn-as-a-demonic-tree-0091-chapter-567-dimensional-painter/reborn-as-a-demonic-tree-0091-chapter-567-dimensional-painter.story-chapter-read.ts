@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0091Chapter567DimensionalPainter = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0091-chapter-567-dimensional-painter",
   title: "Chapter 567: Dimensional Painter",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 91,
   ownLength: 2606,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0086Chapter562TheTessellatePatriarch = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0086-chapter-562-the-tessellate-patriarch",
   title: "Chapter 562: The Tessellate Patriarch",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 86,
   ownLength: 2723,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0015Chapter1143MaskAndBow = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0015-chapter-1143-mask-and-bow",
   title: "Chapter 1143 - Mask & Bow",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 15,
   ownLength: 2937,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0051Chapter1179ARitualPerformedInHaste = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0051-chapter-1179-a-ritual-performed-in-haste",
   title: "Chapter 1179 - A Ritual Performed In Haste",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 51,
   ownLength: 2948,
   unitSlug: "words",

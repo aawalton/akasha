@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0103Chapter579LightLaw = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0103-chapter-579-light-law",
   title: "Chapter 579: Light Law",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 103,
   ownLength: 2442,
   unitSlug: "words",

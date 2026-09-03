@@ -5,7 +5,7 @@ export const thePrimalHunter0075Chapter1203ALongAwaitedConversation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0075-chapter-1203-a-long-awaited-conversation",
   title: "Chapter 1203 - A Long-awaited Conversation",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 75,
   ownLength: 2757,
   unitSlug: "words",

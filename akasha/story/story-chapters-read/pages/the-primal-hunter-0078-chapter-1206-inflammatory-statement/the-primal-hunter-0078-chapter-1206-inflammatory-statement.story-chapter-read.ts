@@ -5,7 +5,7 @@ export const thePrimalHunter0078Chapter1206InflammatoryStatement = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0078-chapter-1206-inflammatory-statement",
   title: "Chapter 1206 - Inflammatory Statement",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 78,
   ownLength: 2813,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0088Chapter564EmpoweredFruitsAndMushrooms = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0088-chapter-564-empowered-fruits-and-mushrooms",
   title: "Chapter 564: Empowered Fruits and Mushrooms",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 88,
   ownLength: 2412,
   unitSlug: "words",

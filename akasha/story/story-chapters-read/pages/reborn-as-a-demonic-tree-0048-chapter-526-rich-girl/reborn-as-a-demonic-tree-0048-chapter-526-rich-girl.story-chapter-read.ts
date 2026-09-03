@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0048Chapter526RichGirl = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0048-chapter-526-rich-girl",
   title: "Chapter 526: Rich Girl",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 48,
   ownLength: 2755,
   unitSlug: "words",

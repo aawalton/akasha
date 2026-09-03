@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0034Chapter512CelestialWarStartOfBook9 = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0034-chapter-512-celestial-war-start-of-book-9",
   title: "Chapter 512: Celestial War (Start of Book 9)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 34,
   ownLength: 3047,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0030Chapter1158ADayInHolstredSLifeFullOfSurprises = 
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0030-chapter-1158-a-day-in-holstred-s-life-full-of-surprises",
   title: "Chapter 1158 - A Day In Holstred's Life Full of Surprises",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 30,
   ownLength: 3650,
   unitSlug: "words",

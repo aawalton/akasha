@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0084Chapter560TravelTheStarsEndOfBook9 = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0084-chapter-560-travel-the-stars-end-of-book-9",
   title: "Chapter 560: Travel the Stars (End of Book 9)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 84,
   ownLength: 3099,
   unitSlug: "words",

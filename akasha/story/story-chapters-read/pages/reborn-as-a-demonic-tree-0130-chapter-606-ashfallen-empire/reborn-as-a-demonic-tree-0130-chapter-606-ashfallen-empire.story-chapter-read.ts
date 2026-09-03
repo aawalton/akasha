@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0130Chapter606AshfallenEmpire = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0130-chapter-606-ashfallen-empire",
   title: "Chapter 606: Ashfallen Empire",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 130,
   ownLength: 2561,
   unitSlug: "words",

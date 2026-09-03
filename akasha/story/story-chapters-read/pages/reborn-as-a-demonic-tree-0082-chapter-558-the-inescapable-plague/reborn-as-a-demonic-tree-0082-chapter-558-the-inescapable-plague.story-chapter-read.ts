@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0082Chapter558TheInescapablePlague = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0082-chapter-558-the-inescapable-plague",
   title: "Chapter 558: The Inescapable Plague",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 82,
   ownLength: 2248,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const salvos0133726ImprovedWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0133-726-improved-world",
   title: "726. Improved World",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 133,
   ownLength: 1531,
   unitSlug: "words",

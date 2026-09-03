@@ -5,7 +5,7 @@ export const salvos0136760BeingsOfOldEndOfSalvosBook14 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0136-760-beings-of-old-end-of-salvos-book-14",
   title: "760. Beings Of Old (End Of Salvos Book 14)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 136,
   ownLength: 1154,
   unitSlug: "words",

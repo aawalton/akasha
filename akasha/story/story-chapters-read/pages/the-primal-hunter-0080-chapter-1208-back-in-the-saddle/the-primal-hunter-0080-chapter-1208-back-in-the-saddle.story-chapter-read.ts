@@ -5,7 +5,7 @@ export const thePrimalHunter0080Chapter1208BackInTheSaddle = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0080-chapter-1208-back-in-the-saddle",
   title: "Chapter 1208 - Back In the Saddle",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 80,
   ownLength: 2729,
   unitSlug: "words",

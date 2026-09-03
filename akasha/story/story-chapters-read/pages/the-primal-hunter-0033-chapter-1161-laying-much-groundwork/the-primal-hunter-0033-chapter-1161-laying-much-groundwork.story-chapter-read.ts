@@ -5,7 +5,7 @@ export const thePrimalHunter0033Chapter1161LayingMuchGroundwork = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0033-chapter-1161-laying-much-groundwork",
   title: "Chapter 1161 - Laying Much Groundwork",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 33,
   ownLength: 2513,
   unitSlug: "words",

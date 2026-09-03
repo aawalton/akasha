@@ -5,7 +5,7 @@ export const thePrimalHunter0093Chapter1221AnExplosiveAuction = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0093-chapter-1221-an-explosive-auction",
   title: "Chapter 1221 - An Explosive Auction",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 93,
   ownLength: 3107,
   unitSlug: "words",

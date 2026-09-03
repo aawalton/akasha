@@ -5,7 +5,7 @@ export const thePrimalHunter0009KeepReadingListeningOnAmazonSKindleKindleUnlimit
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0009-keep-reading-listening-on-amazon-s-kindle-kindle-unlimited-a",
   title: "Keep reading/listening on Amazon's Kindle, Kindle Unlimited and Audible!",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 9,
   ownLength: 191,
   unitSlug: "words",

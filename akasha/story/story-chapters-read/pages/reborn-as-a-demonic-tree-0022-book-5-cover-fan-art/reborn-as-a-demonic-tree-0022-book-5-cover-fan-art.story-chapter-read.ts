@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0022Book5CoverFanArt = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0022-book-5-cover-fan-art",
   title: "Book 5 Cover + Fan Art!",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 22,
   ownLength: 166,
   unitSlug: "words",

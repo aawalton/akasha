@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0107Chapter583Duty = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0107-chapter-583-duty",
   title: "Chapter 583: Duty",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 107,
   ownLength: 2612,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0125Chapter1253RisingTide = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0125-chapter-1253-rising-tide",
   title: "Chapter 1253 - Rising Tide",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 125,
   ownLength: 2947,
   unitSlug: "words",

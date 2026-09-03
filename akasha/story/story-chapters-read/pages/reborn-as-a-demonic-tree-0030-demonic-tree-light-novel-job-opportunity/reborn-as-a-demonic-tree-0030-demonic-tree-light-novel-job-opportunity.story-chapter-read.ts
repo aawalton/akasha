@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0030DemonicTreeLightNovelJobOpportunity = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0030-demonic-tree-light-novel-job-opportunity",
   title: "Demonic Tree Light Novel + Job opportunity!",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 30,
   ownLength: 588,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const salvos0131724NotALotOfOptionsStartOfBook14 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0131-724-not-a-lot-of-options-start-of-book-14",
   title: "724. Not A Lot Of Options (Start Of Book 14)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 131,
   ownLength: 1600,
   unitSlug: "words",

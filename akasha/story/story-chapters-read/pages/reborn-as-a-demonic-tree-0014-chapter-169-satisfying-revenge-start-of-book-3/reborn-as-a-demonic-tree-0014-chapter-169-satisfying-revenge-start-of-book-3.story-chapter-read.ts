@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0014Chapter169SatisfyingRevengeStartOfBook3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0014-chapter-169-satisfying-revenge-start-of-book-3",
   title: "Chapter 169: Satisfying Revenge [Start of Book 3]",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 14,
   ownLength: 3059,
   unitSlug: "words",

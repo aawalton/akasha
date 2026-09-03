@@ -5,7 +5,7 @@ export const thePrimalHunter0062Chapter1190VortexLance = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0062-chapter-1190-vortex-lance",
   title: "Chapter 1190 - Vortex Lance",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 62,
   ownLength: 2861,
   unitSlug: "words",

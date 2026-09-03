@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0122Chapter598TroublesOfThePatriarch = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0122-chapter-598-troubles-of-the-patriarch",
   title: "Chapter 598: Troubles of the Patriarch",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 122,
   ownLength: 2805,
   unitSlug: "words",

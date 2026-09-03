@@ -5,7 +5,7 @@ export const thePrimalHunter0088Chapter1216TheBaneOfTrueDragons = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0088-chapter-1216-the-bane-of-true-dragons",
   title: "Chapter 1216 - The Bane of True Dragons",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 88,
   ownLength: 2889,
   unitSlug: "words",

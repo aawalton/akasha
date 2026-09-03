@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0038Chapter516FleshfruitTree = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0038-chapter-516-fleshfruit-tree",
   title: "Chapter 516: Fleshfruit Tree",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 38,
   ownLength: 2934,
   unitSlug: "words",

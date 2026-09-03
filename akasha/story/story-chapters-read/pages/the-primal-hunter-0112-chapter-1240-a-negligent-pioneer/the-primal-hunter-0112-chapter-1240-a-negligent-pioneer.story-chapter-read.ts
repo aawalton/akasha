@@ -5,7 +5,7 @@ export const thePrimalHunter0112Chapter1240ANegligentPioneer = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0112-chapter-1240-a-negligent-pioneer",
   title: "Chapter 1240 - A Negligent Pioneer",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 112,
   ownLength: 2727,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0065Chapter542BlackToken = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0065-chapter-542-black-token",
   title: "Chapter 542: Black Token",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 65,
   ownLength: 2730,
   unitSlug: "words",

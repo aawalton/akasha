@@ -5,7 +5,7 @@ export const thePrimalHunter0089Chapter1217DepthsOfTheUnknown = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0089-chapter-1217-depths-of-the-unknown",
   title: "Chapter 1217 - Depths of the Unknown",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 89,
   ownLength: 2903,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0025Chapter1153AQuiteUniqueParty = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0025-chapter-1153-a-quite-unique-party",
   title: "Chapter 1153 - A Quite Unique Party",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 25,
   ownLength: 2784,
   unitSlug: "words",

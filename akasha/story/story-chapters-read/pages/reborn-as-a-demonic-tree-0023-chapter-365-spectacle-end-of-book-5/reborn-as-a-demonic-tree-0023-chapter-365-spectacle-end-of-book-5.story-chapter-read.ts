@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0023Chapter365SpectacleEndOfBook5 = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0023-chapter-365-spectacle-end-of-book-5",
   title: "Chapter 365: Spectacle (End of Book 5)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 23,
   ownLength: 3466,
   unitSlug: "words",

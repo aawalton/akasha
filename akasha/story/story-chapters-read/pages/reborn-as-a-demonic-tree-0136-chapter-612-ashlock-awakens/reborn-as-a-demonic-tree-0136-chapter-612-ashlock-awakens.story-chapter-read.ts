@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0136Chapter612AshlockAwakens = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0136-chapter-612-ashlock-awakens",
   title: "Chapter 612: Ashlock Awakens",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 136,
   ownLength: 3014,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0134Chapter1261AnEraOfStability = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0134-chapter-1261-an-era-of-stability",
   title: "Chapter 1261 - An Era of Stability",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 134,
   ownLength: 3125,
   unitSlug: "words",

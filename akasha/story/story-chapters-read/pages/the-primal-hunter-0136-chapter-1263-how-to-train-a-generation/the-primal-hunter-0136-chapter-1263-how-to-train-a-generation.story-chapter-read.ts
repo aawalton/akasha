@@ -5,7 +5,7 @@ export const thePrimalHunter0136Chapter1263HowToTrainAGeneration = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0136-chapter-1263-how-to-train-a-generation",
   title: "Chapter 1263 - How To Train A Generation",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 136,
   ownLength: 3075,
   unitSlug: "words",

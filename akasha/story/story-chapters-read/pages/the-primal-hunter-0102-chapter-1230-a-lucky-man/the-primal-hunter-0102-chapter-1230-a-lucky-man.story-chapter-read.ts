@@ -5,7 +5,7 @@ export const thePrimalHunter0102Chapter1230ALuckyMan = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0102-chapter-1230-a-lucky-man",
   title: "Chapter 1230 - A Lucky Man",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 102,
   ownLength: 2599,
   unitSlug: "words",

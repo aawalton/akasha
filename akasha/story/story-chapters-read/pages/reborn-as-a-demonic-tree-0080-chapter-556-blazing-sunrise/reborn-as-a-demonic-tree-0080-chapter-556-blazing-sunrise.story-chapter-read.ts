@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0080Chapter556BlazingSunrise = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0080-chapter-556-blazing-sunrise",
   title: "Chapter 556: Blazing Sunrise",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 80,
   ownLength: 2738,
   unitSlug: "words",

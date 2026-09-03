@@ -5,7 +5,7 @@ export const thePrimalHunter0056Chapter1184CaughtAGoodOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0056-chapter-1184-caught-a-good-one",
   title: "Chapter 1184 - Caught A Good One",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 56,
   ownLength: 2788,
   unitSlug: "words",

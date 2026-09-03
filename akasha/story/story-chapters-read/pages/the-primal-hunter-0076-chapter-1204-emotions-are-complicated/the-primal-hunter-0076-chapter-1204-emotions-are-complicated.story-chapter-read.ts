@@ -5,7 +5,7 @@ export const thePrimalHunter0076Chapter1204EmotionsAreComplicated = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0076-chapter-1204-emotions-are-complicated",
   title: "Chapter 1204 - Emotions Are Complicated",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 76,
   ownLength: 2805,
   unitSlug: "words",

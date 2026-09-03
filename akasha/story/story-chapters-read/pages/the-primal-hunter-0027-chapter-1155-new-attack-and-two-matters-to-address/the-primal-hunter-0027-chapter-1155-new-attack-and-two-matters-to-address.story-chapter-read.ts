@@ -5,7 +5,7 @@ export const thePrimalHunter0027Chapter1155NewAttackAndTwoMattersToAddress = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0027-chapter-1155-new-attack-and-two-matters-to-address",
   title: "Chapter 1155 - New Attack & Two Matters To Address",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 27,
   ownLength: 2840,
   unitSlug: "words",

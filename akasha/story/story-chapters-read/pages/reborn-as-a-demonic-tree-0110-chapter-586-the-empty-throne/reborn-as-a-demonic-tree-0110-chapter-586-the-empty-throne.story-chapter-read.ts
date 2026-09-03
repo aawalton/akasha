@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0110Chapter586TheEmptyThrone = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0110-chapter-586-the-empty-throne",
   title: "Chapter 586: The Empty Throne",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 110,
   ownLength: 2518,
   unitSlug: "words",

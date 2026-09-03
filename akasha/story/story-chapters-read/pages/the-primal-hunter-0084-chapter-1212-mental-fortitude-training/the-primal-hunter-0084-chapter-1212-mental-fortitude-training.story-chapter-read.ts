@@ -5,7 +5,7 @@ export const thePrimalHunter0084Chapter1212MentalFortitudeTraining = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0084-chapter-1212-mental-fortitude-training",
   title: "Chapter 1212 - Mental Fortitude Training",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 84,
   ownLength: 2682,
   unitSlug: "words",

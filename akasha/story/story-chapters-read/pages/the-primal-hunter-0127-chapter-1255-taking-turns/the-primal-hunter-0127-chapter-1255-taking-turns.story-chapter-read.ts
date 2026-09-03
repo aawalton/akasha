@@ -5,7 +5,7 @@ export const thePrimalHunter0127Chapter1255TakingTurns = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0127-chapter-1255-taking-turns",
   title: "Chapter 1255 - Taking Turns",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 127,
   ownLength: 2534,
   unitSlug: "words",

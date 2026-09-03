@@ -5,7 +5,7 @@ export const thePrimalHunter0066Chapter1194JobTransfer = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0066-chapter-1194-job-transfer",
   title: "Chapter 1194 - Job Transfer",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 66,
   ownLength: 2665,
   unitSlug: "words",

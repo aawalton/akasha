@@ -5,7 +5,7 @@ export const thePrimalHunter0142Chapter1269TakingStockOneLastTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0142-chapter-1269-taking-stock-one-last-time",
   title: "Chapter 1269 - Taking Stock One Last Time",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 142,
   ownLength: 2667,
   unitSlug: "words",

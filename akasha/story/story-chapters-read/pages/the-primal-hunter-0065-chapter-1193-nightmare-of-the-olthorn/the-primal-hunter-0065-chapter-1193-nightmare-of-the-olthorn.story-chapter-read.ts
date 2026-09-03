@@ -5,7 +5,7 @@ export const thePrimalHunter0065Chapter1193NightmareOfTheOlthorn = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0065-chapter-1193-nightmare-of-the-olthorn",
   title: "Chapter 1193 - Nightmare of the Olthorn",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 65,
   ownLength: 2695,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0071Chapter548NatureLaw = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0071-chapter-548-nature-law",
   title: "Chapter 548: Nature Law",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 71,
   ownLength: 2703,
   unitSlug: "words",

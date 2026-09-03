@@ -5,7 +5,7 @@ export const thePrimalHunter0095Chapter1223AnActOfGrandConsumption = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0095-chapter-1223-an-act-of-grand-consumption",
   title: "Chapter 1223 - An Act of Grand Consumption",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 95,
   ownLength: 2942,
   unitSlug: "words",

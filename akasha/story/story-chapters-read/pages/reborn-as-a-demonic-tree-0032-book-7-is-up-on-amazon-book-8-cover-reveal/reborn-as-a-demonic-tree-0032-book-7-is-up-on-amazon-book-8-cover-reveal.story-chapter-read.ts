@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0032Book7IsUpOnAmazonBook8CoverReveal = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0032-book-7-is-up-on-amazon-book-8-cover-reveal",
   title: "Book 7 is up on Amazon! + Book 8 Cover reveal!",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 32,
   ownLength: 175,
   unitSlug: "words",

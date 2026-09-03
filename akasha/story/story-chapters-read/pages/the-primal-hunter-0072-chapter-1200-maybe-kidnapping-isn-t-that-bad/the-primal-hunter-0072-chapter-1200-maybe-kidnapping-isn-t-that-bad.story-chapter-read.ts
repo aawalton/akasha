@@ -5,7 +5,7 @@ export const thePrimalHunter0072Chapter1200MaybeKidnappingIsnTThatBad = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0072-chapter-1200-maybe-kidnapping-isn-t-that-bad",
   title: "Chapter 1200 - Maybe Kidnapping Isn't That Bad",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 72,
   ownLength: 2568,
   unitSlug: "words",

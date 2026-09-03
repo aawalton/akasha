@@ -5,7 +5,7 @@ export const thePrimalHunter0005Chapter5BigPig = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0005-chapter-5-big-pig",
   title: "Chapter 5 - Big pig",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 5,
   ownLength: 2805,
   unitSlug: "words",

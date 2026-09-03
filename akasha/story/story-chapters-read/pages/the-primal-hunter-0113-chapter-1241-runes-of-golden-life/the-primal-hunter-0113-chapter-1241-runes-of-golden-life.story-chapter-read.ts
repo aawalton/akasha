@@ -5,7 +5,7 @@ export const thePrimalHunter0113Chapter1241RunesOfGoldenLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0113-chapter-1241-runes-of-golden-life",
   title: "Chapter 1241 - Runes of Golden Life",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 113,
   ownLength: 2807,
   unitSlug: "words",

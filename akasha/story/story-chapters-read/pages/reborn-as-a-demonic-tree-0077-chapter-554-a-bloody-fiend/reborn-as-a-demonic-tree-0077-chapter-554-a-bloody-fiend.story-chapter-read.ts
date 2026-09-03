@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0077Chapter554ABloodyFiend = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0077-chapter-554-a-bloody-fiend",
   title: "Chapter 554: A Bloody Fiend",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 77,
   ownLength: 2817,
   unitSlug: "words",

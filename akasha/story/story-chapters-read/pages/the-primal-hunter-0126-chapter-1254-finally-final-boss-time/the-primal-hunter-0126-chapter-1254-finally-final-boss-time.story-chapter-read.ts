@@ -5,7 +5,7 @@ export const thePrimalHunter0126Chapter1254FinallyFinalBossTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0126-chapter-1254-finally-final-boss-time",
   title: "Chapter 1254 - Finally Final Boss Time",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 126,
   ownLength: 2742,
   unitSlug: "words",

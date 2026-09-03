@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0046Chapter524DeathSentence = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0046-chapter-524-death-sentence",
   title: "Chapter 524: Death Sentence",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 46,
   ownLength: 2791,
   unitSlug: "words",

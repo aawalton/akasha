@@ -5,7 +5,7 @@ export const thePrimalHunter0031Chapter1159BeneathTheDarkHeavens = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0031-chapter-1159-beneath-the-dark-heavens",
   title: "Chapter 1159 - Beneath the Dark Heavens",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 31,
   ownLength: 2759,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0092Chapter568TheCrownedOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0092-chapter-568-the-crowned-one",
   title: "Chapter 568: The Crowned One",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 92,
   ownLength: 2230,
   unitSlug: "words",

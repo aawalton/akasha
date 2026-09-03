@@ -5,7 +5,7 @@ export const thePrimalHunter0052Chapter1180TheResultOfTheRitual = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0052-chapter-1180-the-result-of-the-ritual",
   title: "Chapter 1180 - The Result of the Ritual",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 52,
   ownLength: 2877,
   unitSlug: "words",

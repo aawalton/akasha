@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0061Chapter538SilentThorn = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0061-chapter-538-silent-thorn",
   title: "Chapter 538: Silent Thorn",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 61,
   ownLength: 2305,
   unitSlug: "words",

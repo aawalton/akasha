@@ -5,7 +5,7 @@ export const thePrimalHunter0046Chapter1174SomethingWorthCelebrating = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0046-chapter-1174-something-worth-celebrating",
   title: "Chapter 1174 - Something Worth Celebrating",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 46,
   ownLength: 3012,
   unitSlug: "words",

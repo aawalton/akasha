@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0008Chapter7Treeskip = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0008-chapter-7-treeskip",
   title: "Chapter 7: Treeskip",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 8,
   ownLength: 2123,
   unitSlug: "words",

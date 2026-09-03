@@ -5,7 +5,7 @@ export const thePrimalHunter0001Chapter1AnotherMondayMorning = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0001-chapter-1-another-monday-morning",
   title: "Chapter 1 - Another Monday morning",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 1,
   ownLength: 1630,
   unitSlug: "words",

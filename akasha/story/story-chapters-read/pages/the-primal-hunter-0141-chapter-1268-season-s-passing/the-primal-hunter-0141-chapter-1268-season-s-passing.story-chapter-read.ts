@@ -5,7 +5,7 @@ export const thePrimalHunter0141Chapter1268SeasonSPassing = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0141-chapter-1268-season-s-passing",
   title: "Chapter 1268 - Season's Passing",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 141,
   ownLength: 2802,
   unitSlug: "words",

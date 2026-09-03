@@ -5,7 +5,7 @@ export const thePrimalHunter0091Chapter1219Gate = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0091-chapter-1219-gate",
   title: "Chapter 1219 - Gate",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 91,
   ownLength: 3086,
   unitSlug: "words",

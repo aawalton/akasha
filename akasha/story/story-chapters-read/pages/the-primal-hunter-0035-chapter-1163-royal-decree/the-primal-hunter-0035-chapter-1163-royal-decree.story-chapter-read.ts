@@ -5,7 +5,7 @@ export const thePrimalHunter0035Chapter1163RoyalDecree = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0035-chapter-1163-royal-decree",
   title: "Chapter 1163 - Royal Decree",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 35,
   ownLength: 2823,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0033Chapter511InvasionEndOfBook8 = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0033-chapter-511-invasion-end-of-book-8",
   title: "Chapter 511: Invasion (End of Book 8)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 33,
   ownLength: 2809,
   unitSlug: "words",

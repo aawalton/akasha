@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0031Chapter461MeetingDragonsBook8Start = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0031-chapter-461-meeting-dragons-book-8-start",
   title: "Chapter 461: Meeting Dragons (Book 8 Start)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 31,
   ownLength: 3328,
   unitSlug: "words",

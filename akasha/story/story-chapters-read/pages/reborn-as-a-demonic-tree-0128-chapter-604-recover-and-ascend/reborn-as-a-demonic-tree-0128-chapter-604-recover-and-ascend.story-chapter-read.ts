@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0128Chapter604RecoverAndAscend = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0128-chapter-604-recover-and-ascend",
   title: "Chapter 604: Recover and Ascend",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 128,
   ownLength: 2709,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0124Chapter600SoulSpace = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0124-chapter-600-soul-space",
   title: "Chapter 600: Soul Space",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 124,
   ownLength: 3281,
   unitSlug: "words",

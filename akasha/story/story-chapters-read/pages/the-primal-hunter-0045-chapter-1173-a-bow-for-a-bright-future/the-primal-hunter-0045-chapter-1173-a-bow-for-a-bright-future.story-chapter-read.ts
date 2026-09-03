@@ -5,7 +5,7 @@ export const thePrimalHunter0045Chapter1173ABowForABrightFuture = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0045-chapter-1173-a-bow-for-a-bright-future",
   title: "Chapter 1173 - A Bow For A Bright Future",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 45,
   ownLength: 2969,
   unitSlug: "words",

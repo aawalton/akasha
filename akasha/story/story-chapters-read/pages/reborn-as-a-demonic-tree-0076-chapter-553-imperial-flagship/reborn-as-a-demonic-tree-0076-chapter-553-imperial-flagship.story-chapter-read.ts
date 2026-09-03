@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0076Chapter553ImperialFlagship = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0076-chapter-553-imperial-flagship",
   title: "Chapter 553: Imperial Flagship",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 76,
   ownLength: 2599,
   unitSlug: "words",

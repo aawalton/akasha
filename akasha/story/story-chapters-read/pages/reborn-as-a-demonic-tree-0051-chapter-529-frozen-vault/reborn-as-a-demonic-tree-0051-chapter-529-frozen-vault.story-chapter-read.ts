@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0051Chapter529FrozenVault = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0051-chapter-529-frozen-vault",
   title: "Chapter 529: Frozen Vault",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 51,
   ownLength: 2673,
   unitSlug: "words",

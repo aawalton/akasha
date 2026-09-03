@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0109Chapter585TheDeathBallBegins = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0109-chapter-585-the-death-ball-begins",
   title: "Chapter 585: The Death Ball Begins",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 109,
   ownLength: 3124,
   unitSlug: "words",

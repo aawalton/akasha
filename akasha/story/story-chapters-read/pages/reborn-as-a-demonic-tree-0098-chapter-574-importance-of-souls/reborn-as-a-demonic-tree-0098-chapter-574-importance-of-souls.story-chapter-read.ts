@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0098Chapter574ImportanceOfSouls = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0098-chapter-574-importance-of-souls",
   title: "Chapter 574: Importance of Souls",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 98,
   ownLength: 2629,
   unitSlug: "words",

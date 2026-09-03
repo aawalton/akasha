@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0020Chapter305AMonarchSAgonyEndOfBook4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0020-chapter-305-a-monarch-s-agony-end-of-book-4",
   title: "Chapter 305: A Monarch's Agony (End of Book 4)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 20,
   ownLength: 3241,
   unitSlug: "words",

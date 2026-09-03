@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0013Chapter168AshfallenSRiseBook2Epilogue = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0013-chapter-168-ashfallen-s-rise-book-2-epilogue",
   title: "Chapter 168: Ashfallen's rise [Book 2 Epilogue]",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 13,
   ownLength: 2788,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0121Chapter1249APairOfDungeonCriticsAtWork = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0121-chapter-1249-a-pair-of-dungeon-critics-at-work",
   title: "Chapter 1249 - A Pair of Dungeon Critics At Work",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 121,
   ownLength: 2851,
   unitSlug: "words",

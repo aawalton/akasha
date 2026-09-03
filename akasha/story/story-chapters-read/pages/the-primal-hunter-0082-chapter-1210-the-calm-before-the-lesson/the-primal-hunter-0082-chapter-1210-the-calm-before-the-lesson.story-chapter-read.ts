@@ -5,7 +5,7 @@ export const thePrimalHunter0082Chapter1210TheCalmBeforeTheLesson = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0082-chapter-1210-the-calm-before-the-lesson",
   title: "Chapter 1210 - The Calm Before the Lesson",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 82,
   ownLength: 2840,
   unitSlug: "words",

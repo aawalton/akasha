@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0072Chapter549ReturnToTheEternalRealm = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0072-chapter-549-return-to-the-eternal-realm",
   title: "Chapter 549: Return to the Eternal Realm",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 72,
   ownLength: 2915,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0097Chapter1225SacredMeditation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0097-chapter-1225-sacred-meditation",
   title: "Chapter 1225 - Sacred Meditation",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 97,
   ownLength: 2827,
   unitSlug: "words",

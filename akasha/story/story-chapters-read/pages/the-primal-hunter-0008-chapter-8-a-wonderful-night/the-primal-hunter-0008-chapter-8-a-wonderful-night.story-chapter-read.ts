@@ -5,7 +5,7 @@ export const thePrimalHunter0008Chapter8AWonderfulNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0008-chapter-8-a-wonderful-night",
   title: "Chapter 8 - A wonderful night",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 8,
   ownLength: 2338,
   unitSlug: "words",

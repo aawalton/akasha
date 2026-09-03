@@ -5,7 +5,7 @@ export const salvos0135759EmbracingDeathPartSeven = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0135-759-embracing-death-part-seven",
   title: "759. Embracing Death Part Seven",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 135,
   ownLength: 1701,
   unitSlug: "words",

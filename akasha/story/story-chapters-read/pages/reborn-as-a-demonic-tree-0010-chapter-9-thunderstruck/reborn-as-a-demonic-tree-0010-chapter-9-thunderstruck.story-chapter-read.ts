@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0010Chapter9Thunderstruck = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0010-chapter-9-thunderstruck",
   title: "Chapter 9: Thunderstruck",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 10,
   ownLength: 1739,
   unitSlug: "words",

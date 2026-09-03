@@ -5,7 +5,7 @@ export const salvos0125719TheArchangelPartTwo = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0125-719-the-archangel-part-two",
   title: "719. The Archangel Part Two",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 125,
   ownLength: 1423,
   unitSlug: "words",

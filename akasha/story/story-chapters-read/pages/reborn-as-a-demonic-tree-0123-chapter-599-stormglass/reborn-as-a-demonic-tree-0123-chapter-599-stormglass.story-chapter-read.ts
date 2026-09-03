@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0123Chapter599Stormglass = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0123-chapter-599-stormglass",
   title: "Chapter 599: Stormglass",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 123,
   ownLength: 2365,
   unitSlug: "words",

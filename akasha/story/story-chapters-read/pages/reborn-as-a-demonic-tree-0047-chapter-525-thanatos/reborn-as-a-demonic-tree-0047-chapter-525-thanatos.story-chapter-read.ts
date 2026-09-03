@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0047Chapter525Thanatos = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0047-chapter-525-thanatos",
   title: "Chapter 525: Thanatos",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 47,
   ownLength: 3207,
   unitSlug: "words",

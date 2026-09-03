@@ -5,7 +5,7 @@ export const thePrimalHunter0034Chapter1162Change = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0034-chapter-1162-change",
   title: "Chapter 1162 - Change",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 34,
   ownLength: 2634,
   unitSlug: "words",

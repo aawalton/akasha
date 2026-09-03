@@ -5,7 +5,7 @@ export const thePrimalHunter0143Chapter1270ATotallyStandardHumanBEvolution = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0143-chapter-1270-a-totally-standard-human-b-evolution",
   title: "Chapter 1270 - A Totally Standard Human(B) Evolution",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 143,
   ownLength: 2830,
   unitSlug: "words",

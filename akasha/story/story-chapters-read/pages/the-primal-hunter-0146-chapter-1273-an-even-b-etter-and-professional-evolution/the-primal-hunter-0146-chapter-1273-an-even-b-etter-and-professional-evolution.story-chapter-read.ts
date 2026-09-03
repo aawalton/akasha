@@ -5,7 +5,7 @@ export const thePrimalHunter0146Chapter1273AnEvenBEtterAndProfessionalEvolution 
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0146-chapter-1273-an-even-b-etter-and-professional-evolution",
   title: "Chapter 1273 - An Even (B)etter & Professional Evolution",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 146,
   ownLength: 3443,
   unitSlug: "words",

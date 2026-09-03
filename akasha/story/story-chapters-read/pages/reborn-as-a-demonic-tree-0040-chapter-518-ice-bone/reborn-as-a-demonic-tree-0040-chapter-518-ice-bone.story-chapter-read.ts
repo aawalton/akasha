@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0040Chapter518IceBone = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0040-chapter-518-ice-bone",
   title: "Chapter 518: Ice Bone",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 40,
   ownLength: 2956,
   unitSlug: "words",

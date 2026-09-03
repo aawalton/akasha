@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0101Chapter577DarkGodsAdvancement = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0101-chapter-577-dark-gods-advancement",
   title: "Chapter 577: Dark Gods Advancement",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 101,
   ownLength: 2745,
   unitSlug: "words",

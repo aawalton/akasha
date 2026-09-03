@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0074Chapter551Humility = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0074-chapter-551-humility",
   title: "Chapter 551: Humility",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 74,
   ownLength: 2945,
   unitSlug: "words",

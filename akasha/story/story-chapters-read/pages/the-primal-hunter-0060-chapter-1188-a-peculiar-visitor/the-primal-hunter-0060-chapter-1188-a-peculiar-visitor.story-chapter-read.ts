@@ -5,7 +5,7 @@ export const thePrimalHunter0060Chapter1188APeculiarVisitor = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0060-chapter-1188-a-peculiar-visitor",
   title: "Chapter 1188 - A Peculiar Visitor",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 60,
   ownLength: 2848,
   unitSlug: "words",

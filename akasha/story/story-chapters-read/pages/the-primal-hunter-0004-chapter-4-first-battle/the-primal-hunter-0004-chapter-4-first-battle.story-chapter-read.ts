@@ -5,7 +5,7 @@ export const thePrimalHunter0004Chapter4FirstBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0004-chapter-4-first-battle",
   title: "Chapter 4 - First battle",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 4,
   ownLength: 2312,
   unitSlug: "words",

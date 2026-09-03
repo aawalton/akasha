@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0017Chapter253InnerWorldEndOfBook3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0017-chapter-253-inner-world-end-of-book-3",
   title: "Chapter 253: Inner World (End of book 3)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 17,
   ownLength: 3736,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0120Chapter1248AStealthyOpportunity = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0120-chapter-1248-a-stealthy-opportunity",
   title: "Chapter 1248 - A Stealthy Opportunity",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 120,
   ownLength: 2836,
   unitSlug: "words",

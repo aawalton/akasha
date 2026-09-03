@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0025Chapter407NewBeginningsEndOfBook6 = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0025-chapter-407-new-beginnings-end-of-book-6",
   title: "Chapter 407: New Beginnings (End of Book 6)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 25,
   ownLength: 3722,
   unitSlug: "words",

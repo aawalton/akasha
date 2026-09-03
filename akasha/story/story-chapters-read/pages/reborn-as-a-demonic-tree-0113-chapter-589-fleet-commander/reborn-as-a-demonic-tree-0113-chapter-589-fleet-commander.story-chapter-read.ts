@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0113Chapter589FleetCommander = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0113-chapter-589-fleet-commander",
   title: "Chapter 589: Fleet Commander",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 113,
   ownLength: 2369,
   unitSlug: "words",

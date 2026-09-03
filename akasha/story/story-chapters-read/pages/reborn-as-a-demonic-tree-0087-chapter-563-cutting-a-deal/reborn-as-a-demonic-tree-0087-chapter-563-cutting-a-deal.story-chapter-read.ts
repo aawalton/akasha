@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0087Chapter563CuttingADeal = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0087-chapter-563-cutting-a-deal",
   title: "Chapter 563: Cutting a Deal",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 87,
   ownLength: 2401,
   unitSlug: "words",

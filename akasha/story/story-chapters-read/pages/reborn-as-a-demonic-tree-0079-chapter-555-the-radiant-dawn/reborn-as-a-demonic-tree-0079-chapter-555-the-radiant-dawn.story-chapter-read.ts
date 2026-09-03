@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0079Chapter555TheRadiantDawn = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0079-chapter-555-the-radiant-dawn",
   title: "Chapter 555: The Radiant Dawn",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 79,
   ownLength: 2388,
   unitSlug: "words",

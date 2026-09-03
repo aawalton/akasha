@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0133Chapter609The8thLayer = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0133-chapter-609-the-8th-layer",
   title: "Chapter 609: The 8th Layer",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 133,
   ownLength: 2395,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0103Chapter1231StalkingOneSPrey = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0103-chapter-1231-stalking-one-s-prey",
   title: "Chapter 1231 - Stalking One's Prey",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 103,
   ownLength: 3002,
   unitSlug: "words",

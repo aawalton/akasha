@@ -5,7 +5,7 @@ export const thePrimalHunter0128Chapter1256ImportantRuleForProperDungeonBosses =
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0128-chapter-1256-important-rule-for-proper-dungeon-bosses",
   title: "Chapter 1256 - Important Rule For Proper Dungeon Bosses",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 128,
   ownLength: 2773,
   unitSlug: "words",

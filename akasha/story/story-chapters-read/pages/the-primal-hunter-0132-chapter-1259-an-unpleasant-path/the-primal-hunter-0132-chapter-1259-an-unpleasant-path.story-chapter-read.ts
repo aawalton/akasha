@@ -5,7 +5,7 @@ export const thePrimalHunter0132Chapter1259AnUnpleasantPath = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0132-chapter-1259-an-unpleasant-path",
   title: "Chapter 1259 - An Unpleasant Path",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 132,
   ownLength: 2707,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0125Chapter601UponTheAltar = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0125-chapter-601-upon-the-altar",
   title: "Chapter 601: Upon the Altar",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 125,
   ownLength: 3225,
   unitSlug: "words",

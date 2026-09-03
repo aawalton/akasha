@@ -5,7 +5,7 @@ export const thePrimalHunter0138Chapter1265GoBigOrGoHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0138-chapter-1265-go-big-or-go-home",
   title: "Chapter 1265 - Go Big Or Go Home",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 138,
   ownLength: 2872,
   unitSlug: "words",

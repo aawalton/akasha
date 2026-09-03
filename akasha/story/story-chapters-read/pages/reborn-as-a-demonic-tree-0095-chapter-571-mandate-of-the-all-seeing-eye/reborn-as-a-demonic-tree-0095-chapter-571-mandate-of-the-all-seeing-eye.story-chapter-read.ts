@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0095Chapter571MandateOfTheAllSeeingEye = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0095-chapter-571-mandate-of-the-all-seeing-eye",
   title: "Chapter 571: Mandate of the All-Seeing Eye",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 95,
   ownLength: 2585,
   unitSlug: "words",

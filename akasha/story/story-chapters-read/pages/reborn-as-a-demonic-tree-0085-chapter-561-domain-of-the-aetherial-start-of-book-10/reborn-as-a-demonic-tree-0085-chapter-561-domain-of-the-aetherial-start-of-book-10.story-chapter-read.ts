@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0085Chapter561DomainOfTheAetherialStartOfBook10
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0085-chapter-561-domain-of-the-aetherial-start-of-book-10",
   title: "Chapter 561: Domain of the Aetherial (Start of Book 10)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 85,
   ownLength: 2316,
   unitSlug: "words",

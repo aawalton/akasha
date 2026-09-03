@@ -5,7 +5,7 @@ export const salvos0134UpdateOnPostingSalvosIsOutInBookstores = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0134-update-on-posting-salvos-is-out-in-bookstores",
   title: "Update on posting + Salvos is out in bookstores!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 134,
   ownLength: 204,
   unitSlug: "words",

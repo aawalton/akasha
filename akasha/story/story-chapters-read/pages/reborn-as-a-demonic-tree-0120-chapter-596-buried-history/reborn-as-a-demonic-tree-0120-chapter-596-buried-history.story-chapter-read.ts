@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0120Chapter596BuriedHistory = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0120-chapter-596-buried-history",
   title: "Chapter 596: Buried History",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 120,
   ownLength: 2457,
   unitSlug: "words",

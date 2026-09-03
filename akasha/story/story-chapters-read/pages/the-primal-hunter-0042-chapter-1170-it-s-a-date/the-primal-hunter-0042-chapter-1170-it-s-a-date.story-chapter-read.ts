@@ -5,7 +5,7 @@ export const thePrimalHunter0042Chapter1170ItSADate = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0042-chapter-1170-it-s-a-date",
   title: 'Chapter 1170 - "It\'s a date."',
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 42,
   ownLength: 2762,
   unitSlug: "words",

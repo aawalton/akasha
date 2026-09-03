@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0063Chapter540CultistsOfTheEye = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0063-chapter-540-cultists-of-the-eye",
   title: "Chapter 540: Cultists of the Eye",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 63,
   ownLength: 2965,
   unitSlug: "words",

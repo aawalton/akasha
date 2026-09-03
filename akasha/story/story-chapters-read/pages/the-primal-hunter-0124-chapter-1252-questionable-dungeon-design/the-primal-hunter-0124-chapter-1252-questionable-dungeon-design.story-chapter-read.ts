@@ -5,7 +5,7 @@ export const thePrimalHunter0124Chapter1252QuestionableDungeonDesign = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0124-chapter-1252-questionable-dungeon-design",
   title: "Chapter 1252 - Questionable Dungeon Design",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 124,
   ownLength: 2789,
   unitSlug: "words",

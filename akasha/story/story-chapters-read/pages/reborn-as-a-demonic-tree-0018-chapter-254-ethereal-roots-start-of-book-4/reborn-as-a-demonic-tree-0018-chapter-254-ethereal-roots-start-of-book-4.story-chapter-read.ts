@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0018Chapter254EtherealRootsStartOfBook4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0018-chapter-254-ethereal-roots-start-of-book-4",
   title: "Chapter 254: Ethereal Roots (Start of Book 4)",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 18,
   ownLength: 2804,
   unitSlug: "words",

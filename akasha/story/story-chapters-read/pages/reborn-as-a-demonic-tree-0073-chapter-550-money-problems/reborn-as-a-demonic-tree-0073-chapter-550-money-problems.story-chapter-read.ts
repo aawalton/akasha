@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0073Chapter550MoneyProblems = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0073-chapter-550-money-problems",
   title: "Chapter 550: Money Problems",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 73,
   ownLength: 3150,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0024Chapter1152NevermorePartyPartyInvites = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0024-chapter-1152-nevermore-party-party-invites",
   title: "Chapter 1152 - Nevermore Party Party Invites",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 24,
   ownLength: 2781,
   unitSlug: "words",

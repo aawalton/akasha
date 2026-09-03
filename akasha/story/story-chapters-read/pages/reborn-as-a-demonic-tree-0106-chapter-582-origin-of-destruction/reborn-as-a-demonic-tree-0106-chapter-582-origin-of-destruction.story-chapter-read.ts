@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0106Chapter582OriginOfDestruction = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0106-chapter-582-origin-of-destruction",
   title: "Chapter 582: Origin of Destruction",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 106,
   ownLength: 2882,
   unitSlug: "words",

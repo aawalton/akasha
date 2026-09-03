@@ -5,7 +5,7 @@ export const thePrimalHunter0059Chapter1187LongRangeArchery = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0059-chapter-1187-long-range-archery",
   title: "Chapter 1187 - Long Range Archery",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 59,
   ownLength: 3544,
   unitSlug: "words",

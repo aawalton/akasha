@@ -5,7 +5,7 @@ export const thePrimalHunter0013Chapter1141SecretsDisclosed = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0013-chapter-1141-secrets-disclosed",
   title: "Chapter 1141 - Secrets Disclosed",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 13,
   ownLength: 2747,
   unitSlug: "words",

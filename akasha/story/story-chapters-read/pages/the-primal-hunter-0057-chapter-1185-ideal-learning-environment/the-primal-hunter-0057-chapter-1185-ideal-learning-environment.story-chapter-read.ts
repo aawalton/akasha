@@ -5,7 +5,7 @@ export const thePrimalHunter0057Chapter1185IdealLearningEnvironment = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0057-chapter-1185-ideal-learning-environment",
   title: "Chapter 1185 - Ideal Learning Environment",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 57,
   ownLength: 2778,
   unitSlug: "words",

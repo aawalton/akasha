@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0075Chapter552HouseVirelios = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0075-chapter-552-house-virelios",
   title: "Chapter 552: House Virelios",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 75,
   ownLength: 2727,
   unitSlug: "words",

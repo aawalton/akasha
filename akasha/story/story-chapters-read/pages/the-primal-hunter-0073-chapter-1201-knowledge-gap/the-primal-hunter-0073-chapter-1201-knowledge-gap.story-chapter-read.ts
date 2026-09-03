@@ -5,7 +5,7 @@ export const thePrimalHunter0073Chapter1201KnowledgeGap = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0073-chapter-1201-knowledge-gap",
   title: "Chapter 1201 - Knowledge Gap",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 73,
   ownLength: 2992,
   unitSlug: "words",

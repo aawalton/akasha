@@ -5,7 +5,7 @@ export const thePrimalHunter0016Chapter1144TheFutureOfTheMultiverse = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0016-chapter-1144-the-future-of-the-multiverse",
   title: " Chapter 1144 - The Future of the Multiverse",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 16,
   ownLength: 3144,
   unitSlug: "words",

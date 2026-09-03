@@ -5,7 +5,7 @@ export const thePrimalHunter0122Chapter1250FirstPhaseGuards = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0122-chapter-1250-first-phase-guards",
   title: "Chapter 1250 - First Phase: Guards",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 122,
   ownLength: 2880,
   unitSlug: "words",

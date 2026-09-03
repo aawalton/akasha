@@ -5,7 +5,7 @@ export const thePrimalHunter0145Chapter1272TheGoodMostlyGoodAndBadPartsOfEvoluti
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0145-chapter-1272-the-good-mostly-good-and-bad-parts-of-evolution",
   title: "Chapter 1272 - The Good (Mostly Good) And Bad Parts of Evolution",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 145,
   ownLength: 3056,
   unitSlug: "words",

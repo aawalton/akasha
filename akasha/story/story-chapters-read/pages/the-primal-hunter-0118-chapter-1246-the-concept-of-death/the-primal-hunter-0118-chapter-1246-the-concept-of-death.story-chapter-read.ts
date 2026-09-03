@@ -5,7 +5,7 @@ export const thePrimalHunter0118Chapter1246TheConceptOfDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0118-chapter-1246-the-concept-of-death",
   title: "Chapter 1246 - The Concept of Death",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 118,
   ownLength: 2685,
   unitSlug: "words",

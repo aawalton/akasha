@@ -5,7 +5,7 @@ export const thePrimalHunter0018Chapter1146ExpansionPlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0018-chapter-1146-expansion-plans",
   title: "Chapter 1146 - Expansion Plans",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 18,
   ownLength: 2657,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0019Chapter1147ABloodyHardTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0019-chapter-1147-a-bloody-hard-time",
   title: "Chapter 1147 - A Bloody Hard Time",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 19,
   ownLength: 2793,
   unitSlug: "words",

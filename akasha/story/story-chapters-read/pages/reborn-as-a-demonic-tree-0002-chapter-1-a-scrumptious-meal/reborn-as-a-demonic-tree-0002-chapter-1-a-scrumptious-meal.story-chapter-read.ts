@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0002Chapter1AScrumptiousMeal = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0002-chapter-1-a-scrumptious-meal",
   title: "Chapter 1: A Scrumptious Meal",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 2,
   ownLength: 1955,
   unitSlug: "words",

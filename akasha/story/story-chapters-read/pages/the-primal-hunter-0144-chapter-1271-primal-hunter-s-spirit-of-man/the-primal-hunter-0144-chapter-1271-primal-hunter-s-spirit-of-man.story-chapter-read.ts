@@ -5,7 +5,7 @@ export const thePrimalHunter0144Chapter1271PrimalHunterSSpiritOfMan = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0144-chapter-1271-primal-hunter-s-spirit-of-man",
   title: "Chapter 1271 - Primal Hunter's Spirit of Man",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 144,
   ownLength: 3453,
   unitSlug: "words",

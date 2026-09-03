@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0126Chapter602BlackenedRoots = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0126-chapter-602-blackened-roots",
   title: "Chapter 602: Blackened Roots",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 126,
   ownLength: 2250,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0021Chapter1149ABurstOfVenom = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0021-chapter-1149-a-burst-of-venom",
   title: "Chapter 1149 - A Burst of Venom",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 21,
   ownLength: 2922,
   unitSlug: "words",

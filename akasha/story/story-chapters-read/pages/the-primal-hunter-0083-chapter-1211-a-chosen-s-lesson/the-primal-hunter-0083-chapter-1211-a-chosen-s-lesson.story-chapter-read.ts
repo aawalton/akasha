@@ -5,7 +5,7 @@ export const thePrimalHunter0083Chapter1211AChosenSLesson = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0083-chapter-1211-a-chosen-s-lesson",
   title: "Chapter 1211 - A Chosen's Lesson",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 83,
   ownLength: 2834,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0038Chapter1166Level320ProfessionSkillSelection = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0038-chapter-1166-level-320-profession-skill-selection",
   title: "Chapter 1166 - Level 320 Profession Skill Selection",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 38,
   ownLength: 3068,
   unitSlug: "words",

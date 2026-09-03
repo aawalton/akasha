@@ -5,7 +5,7 @@ export const thePrimalHunter0119Chapter1247ImpressivelyIgnorantAndOverpowered = 
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0119-chapter-1247-impressively-ignorant-and-overpowered",
   title: "Chapter 1247 - Impressively Ignorant & Overpowered",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 119,
   ownLength: 2851,
   unitSlug: "words",

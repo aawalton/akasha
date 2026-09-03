@@ -5,7 +5,7 @@ export const thePrimalHunter0114Chapter1242BeeGradePreparations = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0114-chapter-1242-bee-grade-preparations",
   title: "Chapter 1242 - Bee-Grade Preparations",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 114,
   ownLength: 2913,
   unitSlug: "words",

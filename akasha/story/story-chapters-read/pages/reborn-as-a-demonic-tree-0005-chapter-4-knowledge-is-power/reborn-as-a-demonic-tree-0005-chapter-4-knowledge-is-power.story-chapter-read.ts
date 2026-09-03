@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0005Chapter4KnowledgeIsPower = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0005-chapter-4-knowledge-is-power",
   title: "Chapter 4: Knowledge is Power",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 5,
   ownLength: 2032,
   unitSlug: "words",

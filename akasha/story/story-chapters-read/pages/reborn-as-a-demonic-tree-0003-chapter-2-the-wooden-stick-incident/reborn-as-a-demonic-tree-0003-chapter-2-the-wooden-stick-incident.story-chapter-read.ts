@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0003Chapter2TheWoodenStickIncident = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0003-chapter-2-the-wooden-stick-incident",
   title: "Chapter 2: The Wooden Stick Incident",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 3,
   ownLength: 1446,
   unitSlug: "words",

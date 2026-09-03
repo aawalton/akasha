@@ -5,7 +5,7 @@ export const thePrimalHunter0049Chapter1177JustDessert = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0049-chapter-1177-just-dessert",
   title: "Chapter 1177 - Just Dessert",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 49,
   ownLength: 2781,
   unitSlug: "words",

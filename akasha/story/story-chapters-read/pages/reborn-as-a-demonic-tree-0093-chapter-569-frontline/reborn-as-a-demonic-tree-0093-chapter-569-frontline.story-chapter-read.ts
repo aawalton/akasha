@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0093Chapter569Frontline = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0093-chapter-569-frontline",
   title: "Chapter 569: Frontline",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 93,
   ownLength: 2120,
   unitSlug: "words",

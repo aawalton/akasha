@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0090Chapter566TheCelestialInkDragon = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0090-chapter-566-the-celestial-ink-dragon",
   title: "Chapter 566: The Celestial Ink Dragon",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 90,
   ownLength: 2725,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePrimalHunter0137Chapter1264JakeSNewFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0137-chapter-1264-jake-s-new-flame",
   title: "Chapter 1264 - Jake's New Flame",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 137,
   ownLength: 2854,
   unitSlug: "words",

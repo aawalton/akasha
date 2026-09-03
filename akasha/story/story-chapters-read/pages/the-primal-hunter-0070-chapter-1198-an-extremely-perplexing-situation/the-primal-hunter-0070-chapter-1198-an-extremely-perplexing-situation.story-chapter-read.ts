@@ -5,7 +5,7 @@ export const thePrimalHunter0070Chapter1198AnExtremelyPerplexingSituation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0070-chapter-1198-an-extremely-perplexing-situation",
   title: "Chapter 1198 - An Extremely Perplexing Situation",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 70,
   ownLength: 2674,
   unitSlug: "words",

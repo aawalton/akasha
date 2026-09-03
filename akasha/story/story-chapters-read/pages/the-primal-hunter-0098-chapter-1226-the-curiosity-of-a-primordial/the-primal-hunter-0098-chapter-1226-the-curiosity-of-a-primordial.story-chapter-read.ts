@@ -5,7 +5,7 @@ export const thePrimalHunter0098Chapter1226TheCuriosityOfAPrimordial = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0098-chapter-1226-the-curiosity-of-a-primordial",
   title: "Chapter 1226 - The Curiosity of a Primordial",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 98,
   ownLength: 3065,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0064Chapter541ThousandfoldBloom = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0064-chapter-541-thousandfold-bloom",
   title: "Chapter 541: Thousandfold Bloom",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 64,
   ownLength: 2227,
   unitSlug: "words",

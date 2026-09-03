@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0004Chapter3AuraOfFear = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0004-chapter-3-aura-of-fear",
   title: "Chapter 3: Aura of Fear",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["story-read/reborn-as-a-demonic-tree"],
   position: 4,
   ownLength: 1502,
   unitSlug: "words",

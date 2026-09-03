@@ -5,7 +5,7 @@ export const thePrimalHunter0148Chapter1275ASuddenWindfallAndNewOptions = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0148-chapter-1275-a-sudden-windfall-and-new-options",
   title: "Chapter 1275 - A Sudden Windfall & New Options",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["story-read/the-primal-hunter"],
   position: 148,
   ownLength: 3288,
   unitSlug: "words",
