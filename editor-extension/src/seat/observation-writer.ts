@@ -106,7 +106,34 @@ export function writingTo(at: WriterAt): Writing {
 		if (disposed) {
 			throw new Error('the observation writer has been disposed and starts no child');
 		}
+		// A CHILD ALREADY UP IS WRITTEN TO IN THIS TICK RATHER THAN A MICROTASK LATER. `dispose` does
+		// everything it does synchronously, so an `await` here — even one that resolves at once —
+		// puts the write after a `dispose` fired in the same tick, onto a stdin that has just been
+		// ended. Node reports that as an `error` event on the socket rather than as a throw the
+		// `try/catch` below could see, so the ask is neither answered nor refused. Written here, an
+		// ask the host handed over before it began disposing is in the pipe before `dispose` closes
+		// it, which is the drain this module promises.
+		const held = session;
+		if (held !== null && !held.lost) { return handOver(held, one); }
+
 		const asking = await open();
+		// DISPOSED WHILE THAT CHILD WAS STARTING. `dispose` ran in between, read a `session` that was
+		// still null, and returned having ended nothing — so this child is one nobody is left to
+		// close. Which of the two races this is: `dispose` takes the session it drains off `session`
+		// and leaves null behind, so a session still standing there is one `dispose` never saw, and
+		// retiring it here is the only chance it gets. This costs `dispose` no waiting — it has
+		// already returned, and the child goes as soon as the start it was racing settles.
+		if (disposed) {
+			if (session === asking) { retire(asking, 'SIGKILL'); }
+			throw new Error('the observation writer was disposed while this write was being handed over');
+		}
+		return handOver(asking, one);
+	}
+
+	// THE WRITE ITSELF, WHICH HAPPENS AS THIS IS CALLED and not when the promise it hands back is
+	// awaited — a `new Promise` executor runs synchronously, and that is what keeps the write ahead
+	// of whatever else the same tick has queued.
+	function handOver(asking: Session, one: WriterAsk): Promise<WriterAnswer> {
 		const id = nextId++;
 		return new Promise<WriterAnswer>((settle, refuse) => {
 			const timer = setTimeout(() => {
@@ -194,6 +221,16 @@ export function writingTo(at: WriterAt): Writing {
 			child.stdout?.on('data', (chunk: string) => noise(`stdout: ${chunk.trimEnd()}`));
 			child.stderr?.setEncoding('utf8');
 			child.stderr?.on('data', (chunk: string) => noise(`stderr: ${chunk.trimEnd()}`));
+			// A WRITE ONTO A PIPE THE CHILD NO LONGER HOLDS IS REPORTED HERE AND NOWHERE ELSE. An
+			// EPIPE arrives as an `error` event on this stream rather than as a throw from `write`,
+			// and an `error` event with no listener on it is rethrown by node — so without this a
+			// child that merely died between the check and the write takes the extension host down
+			// with it. Refusing by name is what the rest of this module does with a child that is
+			// gone. It does not kill: `dispose` ends this same stdin on its way out, and the drain
+			// that follows is the whole point of doing it that way.
+			child.stdin?.on('error', (err) => {
+				lose(fresh, `the observation writer could not be written to: ${String(err)}`);
+			});
 			child.on('error', (err) => {
 				lose(fresh, `the observation writer could not be run: ${String(err)}`);
 				if (!settled) { settled = true; clearTimeout(timer); refuse(new Error(String(err))); }

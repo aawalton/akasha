@@ -188,6 +188,164 @@ async function handedOver(): Promise<void> {
   await new Promise<void>((done) => setImmediate(done))
 }
 
+// SETTLED, OR NOT SETTLED SOON ENOUGH TO BE CALLED SETTLED. A write handed to a stream that has
+// already been ended is never answered and never seen to fail — it sits out the client's whole
+// 60s `WRITE_TIMEOUT_MS` and is then reported as a stuck child. A bound well under that is what
+// tells a prompt refusal apart from that hang, and it fails here rather than at the test timeout
+// so the failure names which promise never came back.
+const PROMPTLY_MS = 10_000
+
+async function promptly<T>(what: Promise<T>, saying: string): Promise<T> {
+  let timer: ReturnType<typeof setTimeout> | undefined
+  const late = new Promise<never>((_, refuse) => {
+    timer = setTimeout(
+      () => refuse(new Error(`${saying} had not settled ${PROMPTLY_MS}ms later`)),
+      PROMPTLY_MS
+    )
+  })
+  try {
+    return await Promise.race([what, late])
+  } finally {
+    clearTimeout(timer)
+  }
+}
+
+async function afterAMoment(): Promise<void> {
+  await new Promise<void>((done) => setTimeout(done, 25))
+}
+
+// The pid the shell script wrote down, once it has written it. The client spawns synchronously but
+// the script runs when the kernel gets to it, so a test that means to name the child of a start it
+// deliberately raced has to wait for the child to say who it is.
+async function pidAppeared(root: string, within: number): Promise<number> {
+  const until = Date.now() + within
+  for (;;) {
+    if (existsSync(pidFile(root))) {
+      const pid = pidHere(root)
+      if (Number.isFinite(pid) && pid > 0) return pid
+    }
+    if (Date.now() >= until) throw new Error("no child ever wrote its pid down")
+    await afterAMoment()
+  }
+}
+
+function alive(pid: number): boolean {
+  try {
+    process.kill(pid, 0)
+    return true
+  } catch {
+    return false
+  }
+}
+
+// A child the client abandoned holds its end of a pipe the client will never close, so it sits
+// there until this test process itself dies. Polling rather than looking once, because the client
+// is allowed to reap it a turn or two after the promises it owes have settled.
+async function goneWithin(pid: number, within: number): Promise<boolean> {
+  const until = Date.now() + within
+  for (;;) {
+    if (!alive(pid)) return true
+    if (Date.now() >= until) return false
+    await afterAMoment()
+  }
+}
+
+const CLIENT = join(REPO, "editor-extension", "src", "seat", "observation-writer.ts")
+
+// The whole of the same-tick race, run as a node program: build a writer, get one ask answered so
+// there is a child up, then fire an ask and a dispose with nothing awaited between them and report
+// what came back. It carries no fixture of its own — the two asks are handed to it as JSON, built
+// by this file's own `askFor`, so there is one definition of what an ask looks like.
+//
+// The verdict goes out on stdout as one line, because node prints an ExperimentalWarning about
+// stripping the client's types to stderr and a driver that died prints its stack there too.
+const DRIVER = `
+import { pathToFileURL } from "node:url"
+
+const [, , clientAt, mainFile, bun, root, first, sameTick] = process.argv
+const { writingTo } = await import(pathToFileURL(clientAt).href)
+
+const noise = []
+const client = writingTo({
+  bun,
+  mainFile,
+  env: { ...process.env, AKASHA_ROOT: root, AKASHA_TEST_RUN: "1" },
+  onNoise: (text) => void noise.push(text),
+})
+
+const told = (asking) =>
+  asking.then(
+    (answer) => ({ answer, saying: "" }),
+    (err) => ({ answer: null, saying: String(err) })
+  )
+
+const say = (what) => console.log("VERDICT " + JSON.stringify({ ...what, noise }))
+
+const before = await told(client.ask(JSON.parse(first)))
+if (before.answer === null) {
+  say(before)
+  process.exit(0)
+}
+
+// The race. No await, no microtask, nothing between them.
+const asking = told(client.ask(JSON.parse(sameTick)))
+const disposing = client.dispose()
+
+const late = new Promise((_, refuse) => {
+  const timer = setTimeout(() => refuse(new Error("it had still not settled 20000ms later")), 20000)
+  timer.unref()
+})
+try {
+  await Promise.race([disposing, late])
+  say(await Promise.race([asking, late]))
+} catch (thrown) {
+  say({ answer: null, saying: String(thrown) })
+}
+process.exit(0)
+`
+
+interface Drove extends Told {
+  readonly noise: readonly string[]
+}
+
+function droveUnderNode(root: string): Drove {
+  const bun = bunIn()
+  const at = join(root, "same-tick-under-node.mjs")
+  writeFileSync(at, DRIVER)
+  const ran = Bun.spawnSync({
+    cmd: [
+      "node",
+      at,
+      CLIENT,
+      WRITER_MAIN,
+      bun,
+      root,
+      JSON.stringify(askFor("before-dispose", "activation")),
+      JSON.stringify(askFor("same-tick", "shutdown")),
+    ],
+    env: {
+      ...process.env,
+      PATH: `${dirname(bun)}:${process.env["PATH"] ?? ""}`,
+      AKASHA_ROOT: root,
+      AKASHA_TEST_RUN: "1",
+    },
+    stdout: "pipe",
+    stderr: "pipe",
+  })
+  const out = ran.stdout.toString()
+  const said = out.split("\n").find((one) => one.startsWith("VERDICT "))
+  // A driver that printed no verdict did not come back to print one — which is itself the defect
+  // under node, where the write onto an ended stdin is an unhandled `error` event on the socket
+  // and takes the host down. So the exit code and both streams are the failure message.
+  if (said === undefined) {
+    throw new Error(
+      `the node driver reached no verdict (exit ${String(ran.exitCode)})\n` +
+        `--- stdout ---\n${out}\n--- stderr ---\n${ran.stderr.toString()}`
+    )
+  }
+  return JSON.parse(said.slice("VERDICT ".length)) as Drove
+}
+
 function landedIn(root: string): readonly string[] {
   const at = join(root, STATES)
   if (!existsSync(at)) return []
@@ -276,6 +434,93 @@ describe("the observation writer when the host is disposed", () => {
     const said = await Promise.all(asking)
     expect(said.map((one) => one.answer?.ok)).toEqual(windows.map(() => true))
   }, 60_000)
+})
+
+// DISPOSE AND A WRITE IN THE SAME TICK, WHICH IS TWO RACES AND NOT ONE. `ask` defers everything it
+// does behind `await open()`; `dispose` does everything it does synchronously. So an ask and a
+// dispose fired without an `await` between them always run dispose-first, ask-second, and which
+// half of the client is caught out depends only on whether a child was already up:
+//
+//   no child yet — `dispose` reads a `session` that is still null, finds nothing to end and
+//   returns having ended nothing. The start it did not know about then completes, and the ask
+//   behind it writes into a child that now has no one left to close it. A leaked bun process.
+//
+//   a child already up — `dispose` ends its stdin before the ask is written, and the write lands
+//   on an ended stream, where it fails asynchronously somewhere the client's `try/catch` cannot
+//   see it. Nothing refuses the ask and nothing answers it.
+//
+// Neither is reachable from the store today, whose own dispose awaits its in-flight write first.
+// Both are one caller away, and both are on the path that records observations.
+describe("the observation writer disposed in the same tick as a write", () => {
+  test("a dispose landing on a start still in flight leaves no child behind", async () => {
+    // The spawn is the thing being raced here, so a spawn the test host itself lost is not an
+    // answer either way — see BUN_LOST_THE_PIPE. A child that died of that has trivially left
+    // nothing behind, which would pass this test without ever having run it.
+    for (let go = 1; ; go++) {
+      const root = rootHere()
+      const writer = writerAt(root)
+
+      // `ask` spawns the child synchronously on its way to `await open()`, so by the time it has
+      // handed back a promise there is a real process; and `dispose` runs before the hello.
+      const asking = told(writer.client.ask(askFor("mid-start", "activation")))
+      const disposing = writer.client.dispose()
+
+      const pid = await pidAppeared(root, PROMPTLY_MS)
+      await promptly(disposing, "dispose")
+      const said = await promptly(asking, "the ask")
+
+      const bunsFault = writer.noise.some((one) => one.includes(BUN_LOST_THE_PIPE))
+      if (said.answer === null && bunsFault && go < GOES) continue
+
+      // The child the client started while it was being disposed is not still standing.
+      expect(await goneWithin(pid, PROMPTLY_MS)).toBe(true)
+
+      // And it was not answered on the way out. A client that wrote the ask into that child and
+      // reported it landed, then killed the child, has lost an observation while saying it kept
+      // one — worse than the refusal, because the store believes a refusal and writes again.
+      expect(said.answer).toBe(null)
+      expect(said.saying).toContain("disposed")
+      expect(landedIn(root)).toEqual([])
+      return
+    }
+  }, 60_000)
+
+  // THIS ONE RUNS UNDER NODE, AND HAS TO. What a stream does with a `write` that arrives after its
+  // `end` is where the two hosts part company, and bun — the host this suite runs on — is the one
+  // that is forgiving:
+  //
+  //   node 22 drops the bytes and reports it as an `error` event on the stream. Nothing in the
+  //   client listens on `child.stdin`, so an unhandled `error` event takes the whole host process
+  //   down; and were it handled, the ask behind it is neither answered nor refused and sits out
+  //   its full 60s WRITE_TIMEOUT_MS.
+  //
+  //   bun 1.3.14 delivers the bytes anyway. The ask is answered, the state lands, and the defect
+  //   is completely invisible.
+  //
+  // The extension host is node. So asserting this from a bun test would assert nothing — the same
+  // reasoning as BUN_LOST_THE_PIPE above, in the other direction: there the test host invents a
+  // fault the subject does not have, here it hides one the subject does. The driver below is the
+  // real client and the real writer main over real pipes, hosted where the extension hosts it.
+  test("an ask fired in the same tick as a dispose is handed over before stdin closes", async () => {
+    for (let go = 1; ; go++) {
+      const root = rootHere()
+      const said = droveUnderNode(root)
+      if (said.saying !== "" && said.noise.some((one) => one.includes(BUN_LOST_THE_PIPE))) {
+        if (go < GOES) continue
+      }
+
+      // Answered, not refused and not hung: an ask the host accepted before it began disposing is
+      // one the child was given, and `dispose` does not close stdin out from under it.
+      expect(said.saying).toBe("")
+      expect(said.answer?.ok).toBe(true)
+
+      // And it is on disk beside the one before it, which is the same promise the drain test
+      // makes: what was handed over before `dispose` returned has landed.
+      expect(landedIn(root)).toEqual([stateFile("before-dispose"), stateFile("same-tick")].sort())
+      expect(stateOf(root, "same-tick")).toContain("shutdown")
+      return
+    }
+  }, 120_000)
 })
 
 describe("the observation writer where the child is gone", () => {
