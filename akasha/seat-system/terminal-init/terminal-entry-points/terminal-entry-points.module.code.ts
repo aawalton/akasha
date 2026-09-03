@@ -10,6 +10,6 @@ export const PROXY = `"$_root/${PTY_PROXY_REL}"`
 
 export const SEAT_START_DIR = "$HOME/repos"
 
-export const OPS = "~/repos/akasha/tools/ops/cli.ts"
+export const OPS = "~/repos/akasha/akasha/command-system/ops-calling/ops-calling.module.code.ts"
 
 export const AKASHA = `"${ROOT}/dotfiles/bin/akasha"`

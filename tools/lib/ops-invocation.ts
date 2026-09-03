@@ -2,8 +2,6 @@ const COMMAND_DIR = "/tools/commands/"
 
 const TS_SUFFIX = ".ts"
 
-const DISPATCHER = "tools/ops/cli.ts"
-
 export interface OpsInvocation {
   readonly root: string
   readonly path: readonly string[]
@@ -21,9 +19,4 @@ export function opsInvocationOf(entryPath: string): OpsInvocation | null {
 
 export function opsSpelling(invocation: OpsInvocation): string {
   return `ops ${invocation.path.join(" ")}`
-}
-
-export function opsArgv(invocation: OpsInvocation): readonly string[] {
-  const root = invocation.root === "" ? "." : invocation.root
-  return ["bun", `${root}/${DISPATCHER}`, ...invocation.path]
 }

@@ -3,7 +3,7 @@ export const summary =
 
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { operationalError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { seatsPresent } from "../../../lib/seat-roster.ts"
@@ -11,7 +11,7 @@ import { seatsPresent } from "../../../lib/seat-roster.ts"
 const SETTINGS =
   "akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json"
 
-const CLI = new URL("../../../ops/cli.ts", import.meta.url).pathname
+const DISPATCHER = "akasha/command-system/ops-calling/ops-calling.module.code.ts"
 
 const CLIENT_MARK = "agent-settings"
 
@@ -72,10 +72,13 @@ function readFleet(settledAtMs: number): readonly Reading[] {
 }
 
 function cycle(name: string): string {
-  const proc = Bun.spawnSync([process.execPath, CLI, "seat", "resume", name], {
-    stdout: "pipe",
-    stderr: "pipe",
-  })
+  const proc = Bun.spawnSync(
+    [process.execPath, `${akashaRoot()}/${DISPATCHER}`, "seat", "resume", name],
+    {
+      stdout: "pipe",
+      stderr: "pipe",
+    }
+  )
   const said = new TextDecoder().decode(proc.stdout).trim()
   if ((proc.exitCode ?? 1) !== 0) {
     const why = new TextDecoder().decode(proc.stderr).trim()
