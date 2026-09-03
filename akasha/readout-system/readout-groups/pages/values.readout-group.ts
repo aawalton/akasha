@@ -6,4 +6,15 @@ export const values = {
   slug: "values",
   definition: "how well the day served each of Alan's values",
   sortOrder: "place",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Every value runs the same multiplier ladder and only its baseline differs.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value's figure sums its personas' raw units rather than flooring each unit to a rung.",
+    },
+  ],
 } as const satisfies ReadoutGroup

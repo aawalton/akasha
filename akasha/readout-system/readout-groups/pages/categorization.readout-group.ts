@@ -12,6 +12,18 @@ export const categorization = {
     },
     {
       invariantKind: "departure",
+      statement: "The intake the backlog is measured against is a month's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The feed also sends the year's total.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No tile draws the year's total.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The tap opens Monarch filtered only where Monarch was not already running.",
     },
   ],
