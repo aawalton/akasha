@@ -64,6 +64,10 @@ export const readoutReading = {
       statement: "Values carrying one half alone carry no reading.",
     },
     {
+      invariantKind: "departure",
+      statement: "A reading is the number a readout is given to show.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes a reading.",
     },
