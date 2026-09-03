@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const noseOfTheDog = {
   id: "01a06572-95d9-7d84-b3ef-c5237b5d43a9",

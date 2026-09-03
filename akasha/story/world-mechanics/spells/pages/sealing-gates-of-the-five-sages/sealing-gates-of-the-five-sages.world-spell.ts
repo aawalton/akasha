@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const sealingGatesOfTheFiveSages = {
   id: "01a06572-95df-792f-97aa-d56d649074dd",

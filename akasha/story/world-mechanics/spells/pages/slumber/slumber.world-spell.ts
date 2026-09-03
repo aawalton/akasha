@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const slumber = {
   id: "01a06572-95e1-7e61-a38f-2a6a8c5e21ce",

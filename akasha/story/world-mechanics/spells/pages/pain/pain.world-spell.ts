@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const pain = {
   id: "01a06572-95da-7185-bfa4-6c8ae124afdd",

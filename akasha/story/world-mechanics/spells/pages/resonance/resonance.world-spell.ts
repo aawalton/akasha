@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const resonance = {
   id: "01a06572-95dd-7ca4-8c72-cf8b8a236652",

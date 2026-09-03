@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const plagueOfRats = {
   id: "01a06572-95db-7f2a-810c-677f57cc6195",

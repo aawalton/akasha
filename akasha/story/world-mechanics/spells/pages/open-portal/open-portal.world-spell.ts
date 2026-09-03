@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const openPortal = {
   id: "01a06572-95da-74a2-993b-ef0c5c1cf740",

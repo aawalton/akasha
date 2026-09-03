@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const quietAir = {
   id: "01a06572-95db-7d51-8af3-d541cba66b87",

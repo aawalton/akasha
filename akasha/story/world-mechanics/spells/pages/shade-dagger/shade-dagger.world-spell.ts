@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const shadeDagger = {
   id: "01a06572-95df-7e92-b415-f7beba89400c",

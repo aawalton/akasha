@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const roomVacuumOfAir = {
   id: "01a06572-95de-75ad-bb81-205782954c2a",

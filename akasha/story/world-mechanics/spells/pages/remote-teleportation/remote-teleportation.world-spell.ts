@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const remoteTeleportation = {
   id: "01a06572-95dc-75fd-b461-fc7733c6815c",

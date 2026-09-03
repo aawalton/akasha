@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const scourgeColorEverpaleWhite = {
   id: "01a06572-95de-7e12-b360-3f1e91321b81",

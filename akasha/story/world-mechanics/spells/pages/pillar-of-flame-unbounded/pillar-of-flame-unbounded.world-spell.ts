@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const pillarOfFlameUnbounded = {
   id: "01a06572-95da-78cf-8ff1-bc33e01f1ef1",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const regionalScryingLiscor = {
   id: "01a06572-95dc-75ef-8bef-82c870c0de37",

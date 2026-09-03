@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const slipperyIcyFloor = {
   id: "01a06572-95e1-7d98-b9a6-80b2235311c3",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const runeOfParalysis = {
   id: "01a06572-95de-75b0-854b-b5daf3bec86b",

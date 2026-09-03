@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const pillarOfFrost = {
   id: "01a06572-95da-71ab-816e-c51c541d043d",

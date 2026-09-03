@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const sharkskinHide = {
   id: "01a06572-95df-777c-bffd-a0ec00cc77a8",

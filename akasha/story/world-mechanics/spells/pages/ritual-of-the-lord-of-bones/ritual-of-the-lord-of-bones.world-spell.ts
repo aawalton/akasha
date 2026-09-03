@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const ritualOfTheLordOfBones = {
   id: "01a06572-95dd-71fd-b4fb-961655fde6b4",

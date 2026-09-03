@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const raystormOfDisintegration = {
   id: "01a06572-95dc-77c7-bbe2-00751eca071f",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const nightclouds = {
   id: "01a06572-95d9-74c9-9d3c-9ad81d851909",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const silveniaSScaryIceSpike = {
   id: "01a06572-95e1-7c22-9ae7-20b4d0e3e9e4",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const salamanderSSkin = {
   id: "01a06572-95de-7ea2-8ab8-273f7cd3979a",

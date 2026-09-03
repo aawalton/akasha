@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const purifyWater = {
   id: "01a06572-95db-703b-854e-cb211089fcb4",

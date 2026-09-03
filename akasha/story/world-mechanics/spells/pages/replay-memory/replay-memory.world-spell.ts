@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const replayMemory = {
   id: "01a06572-95dd-7512-8709-5a98c6fe581b",

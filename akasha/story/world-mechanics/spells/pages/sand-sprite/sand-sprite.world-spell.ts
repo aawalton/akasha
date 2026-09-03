@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const sandSprite = {
   id: "01a06572-95de-7a30-98cd-56ff7ad24995",

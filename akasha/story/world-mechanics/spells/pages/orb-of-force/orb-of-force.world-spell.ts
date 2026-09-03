@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const orbOfForce = {
   id: "01a06572-95da-79cd-984c-b0c29d0ec2f6",

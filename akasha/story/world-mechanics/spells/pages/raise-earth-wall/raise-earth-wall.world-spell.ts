@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const raiseEarthWall = {
   id: "01a06572-95dc-792f-b7d8-73cb97c24976",

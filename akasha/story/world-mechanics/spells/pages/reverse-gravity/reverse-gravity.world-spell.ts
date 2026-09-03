@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const reverseGravity = {
   id: "01a06572-95dd-72ed-9460-40d58a92c486",

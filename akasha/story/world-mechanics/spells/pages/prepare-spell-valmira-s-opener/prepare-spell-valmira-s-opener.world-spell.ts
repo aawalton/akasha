@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const prepareSpellValmiraSOpener = {
   id: "01a06572-95db-7021-80e5-e4cfdada88c0",

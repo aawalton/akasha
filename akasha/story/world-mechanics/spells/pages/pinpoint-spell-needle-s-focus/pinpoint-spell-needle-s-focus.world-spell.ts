@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const pinpointSpellNeedleSFocus = {
   id: "01a06572-95db-7790-a83c-8bbc4ce3bd38",

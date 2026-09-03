@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const neutralizeOdor = {
   id: "01a06572-95d9-7ecd-bcb9-79705bf9b5e7",

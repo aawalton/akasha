@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const piercingMissiles = {
   id: "01a06572-95da-7c20-89c6-e7800f830e16",

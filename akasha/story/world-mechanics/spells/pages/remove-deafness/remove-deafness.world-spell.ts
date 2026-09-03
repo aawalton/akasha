@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const removeDeafness = {
   id: "01a06572-95dc-79a3-8351-bcbcda5863f9",

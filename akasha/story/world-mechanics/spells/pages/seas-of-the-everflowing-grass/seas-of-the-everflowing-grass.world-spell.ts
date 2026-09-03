@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const seasOfTheEverflowingGrass = {
   id: "01a06572-95df-7659-9d33-0f36d5231d05",

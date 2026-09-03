@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const sandAvalanche = {
   id: "01a06572-95de-7642-be24-f2acaec9d0a0",

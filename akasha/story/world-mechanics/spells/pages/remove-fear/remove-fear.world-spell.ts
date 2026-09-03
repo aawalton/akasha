@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const removeFear = {
   id: "01a06572-95dc-7bc4-bf38-bd283efbe3ec",

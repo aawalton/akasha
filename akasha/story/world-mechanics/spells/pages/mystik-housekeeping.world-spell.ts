@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.ts"
+import type { WorldSpell } from "../world-spell.page-type.ts"
 
 export const mystikHousekeeping = {
   id: "01a06572-95d9-7586-baa0-55e334473270",

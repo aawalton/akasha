@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const rayOfElectrocution = {
   id: "01a06572-95dc-770a-88fe-80ccf5f8ed13",

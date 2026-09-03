@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const rayOfFrost = {
   id: "01a06572-95dc-76c4-8815-78c2675ab2cd",

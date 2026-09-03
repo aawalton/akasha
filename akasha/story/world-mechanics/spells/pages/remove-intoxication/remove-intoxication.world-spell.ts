@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const removeIntoxication = {
   id: "01a06572-95dc-74b4-b5ff-fbf74c9d13e5",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const resplendentIllumination = {
   id: "01a06572-95dd-7c7b-896e-c7876ea23049",

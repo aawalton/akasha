@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const sealedSpace = {
   id: "01a06572-95df-7f7a-b484-df35d062a68d",

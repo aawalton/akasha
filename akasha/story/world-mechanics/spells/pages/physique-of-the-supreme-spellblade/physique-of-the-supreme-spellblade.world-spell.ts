@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const physiqueOfTheSupremeSpellblade = {
   id: "01a06572-95da-7504-873e-e2fc46beb148",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const senseLife = {
   id: "01a06572-95df-7d19-ae6f-968d7f2757ae",

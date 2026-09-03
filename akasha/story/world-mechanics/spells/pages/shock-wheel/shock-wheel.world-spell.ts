@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const shockWheel = {
   id: "01a06572-95e0-7dc9-bece-352f27f972db",

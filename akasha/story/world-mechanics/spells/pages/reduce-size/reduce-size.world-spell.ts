@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const reduceSize = {
   id: "01a06572-95dc-729a-8642-1420c3a323a4",

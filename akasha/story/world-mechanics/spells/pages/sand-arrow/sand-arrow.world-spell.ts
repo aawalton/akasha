@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const sandArrow = {
   id: "01a06572-95de-7928-89f8-be49b72f387d",

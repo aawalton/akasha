@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const pillarOfObsidian = {
   id: "01a06572-95db-7789-a287-b71c015902d0",

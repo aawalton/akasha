@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const ravenEyes = {
   id: "01a06572-95dc-7b2e-b3b6-e89baa43f60c",

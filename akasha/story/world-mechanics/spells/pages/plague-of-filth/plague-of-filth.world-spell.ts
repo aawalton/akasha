@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const plagueOfFilth = {
   id: "01a06572-95db-75bb-bee3-0b2624208659",

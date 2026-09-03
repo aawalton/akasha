@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const protectionFromArrows = {
   id: "01a06572-95db-78f1-be53-ea80eda12c73",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const shadowWalk = {
   id: "01a06572-95df-7243-a442-23a8f127d5eb",

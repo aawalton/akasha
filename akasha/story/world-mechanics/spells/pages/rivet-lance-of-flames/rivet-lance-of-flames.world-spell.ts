@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const rivetLanceOfFlames = {
   id: "01a06572-95de-70f7-aec1-d0f966ae5229",

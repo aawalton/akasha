@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.ts"
+import type { WorldSpell } from "../world-spell.page-type.ts"
 
 export const sigilOfTheMagicalBeast = {
   id: "01a06572-95e0-796a-940f-0eeceac41ee2",

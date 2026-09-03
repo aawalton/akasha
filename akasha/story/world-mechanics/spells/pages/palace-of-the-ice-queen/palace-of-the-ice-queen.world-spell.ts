@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const palaceOfTheIceQueen = {
   id: "01a06572-95da-7eb4-97fa-e5190d4a67ad",

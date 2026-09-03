@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const removeStain = {
   id: "01a06572-95dd-7914-8117-6c50e921a480",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const shadowLeap = {
   id: "01a06572-95df-7669-b8a8-ffbe08e3b2e5",

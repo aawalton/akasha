@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.ts"
+import type { WorldSpell } from "../world-spell.page-type.ts"
 
 export const orbOfAirRe = {
   id: "01a06572-95da-73ec-b474-a9a335798a46",

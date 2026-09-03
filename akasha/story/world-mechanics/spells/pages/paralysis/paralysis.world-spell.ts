@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const paralysis = {
   id: "01a06572-95da-7164-b7a2-d0f3367e2b17",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const ogreSStrength = {
   id: "01a06572-95da-7eae-8678-d7ba29579b97",

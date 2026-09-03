@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const rhinocerosBeetleSMight = {
   id: "01a06572-95dd-74a4-8221-a1db940934e5",

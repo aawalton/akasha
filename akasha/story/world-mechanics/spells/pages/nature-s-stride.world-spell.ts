@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.ts"
+import type { WorldSpell } from "../world-spell.page-type.ts"
 
 export const natureSStride = {
   id: "01a06572-95d9-7cff-9e5b-4952df83c9a5",
