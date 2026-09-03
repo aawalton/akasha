@@ -6,6 +6,7 @@
     "./royal-road-pages": "./royal-road-pages/royal-road-pages.module.code.ts"
   },
   "dependencies": {
+    "@akasha/markdown-pages": "workspace:*",
     "@akasha/story-engine-core": "workspace:*"
   }
 }

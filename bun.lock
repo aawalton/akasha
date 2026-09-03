@@ -583,6 +583,7 @@
     "akasha/collection-system/royal-road": {
       "name": "@akasha/royal-road",
       "dependencies": {
+        "@akasha/markdown-pages": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
       },
     },
@@ -1144,6 +1145,20 @@
     },
     "akasha/location-traces-access": {
       "name": "@akasha/location-traces-access",
+    },
+    "akasha/markdown-pages": {
+      "name": "@akasha/markdown-pages",
+      "dependencies": {
+        "@akasha/code-system": "workspace:*",
+        "@akasha/command-system": "workspace:*",
+        "@akasha/file-page-identity": "workspace:*",
+        "@akasha/file-system": "workspace:*",
+        "@akasha/git": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@akasha/utils-fs": "workspace:*",
+        "minimatch": "^9.0.9",
+        "yaml": "^2.8.1",
+      },
     },
     "akasha/migration-system": {
       "name": "@akasha/migration-system",
@@ -3189,6 +3204,8 @@
     "@akasha/loki-service": ["@akasha/loki-service@workspace:akasha/infrastructure/loki-service"],
 
     "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:akasha/language-design/lua-compiler"],
+
+    "@akasha/markdown-pages": ["@akasha/markdown-pages@workspace:akasha/markdown-pages"],
 
     "@akasha/migration-system": ["@akasha/migration-system@workspace:akasha/migration-system"],
 
