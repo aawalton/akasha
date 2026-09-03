@@ -90,9 +90,19 @@ const TYPE_VALUE: Value = {
   properties: [{ pagePropertySlug: SLUG, required: true, many: false }],
 }
 
+const DOMAIN_AT = "akasha/held/domain.page-type.ts"
+
+const DOMAIN_ID = "01a04a4a-0000-7000-8000-0000000000d0"
+
+// `module` extends `domain`, and the walk reading what a page type carries reads its parent too.
+// The parent went unseeded here and the walk used to break quietly on it; it refuses now, so the
+// fixture names the page type it always said it extended.
+const DOMAIN_VALUE: Value = { id: DOMAIN_ID, pageTypeSlug: PAGE_TYPE, slug: "domain" }
+
 function pageOf(path: string): Value | null {
   if (path === HELD_AT) return HELD_VALUE
   if (path === TYPE_AT) return TYPE_VALUE
+  if (path === DOMAIN_AT) return DOMAIN_VALUE
   return null
 }
 

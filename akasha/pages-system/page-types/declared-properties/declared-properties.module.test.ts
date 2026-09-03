@@ -185,11 +185,21 @@ test("a page type standing above itself is walked once rather than forever", () 
   expect(carriedBy(root, "a").map((one) => one.key)).toEqual(["slug"])
 })
 
-test("a page type the index does not name is answered with nothing rather than by throwing", () => {
+test("a page type the index does not name is refused by name rather than answered as empty", () => {
   const root = rootAt()
   typed(root, "held", null, [])
 
-  expect(carriedBy(root, "nowhere")).toEqual([])
+  // This answered `[]`, which is what a page type declaring nothing answers too, so no caller
+  // could tell a page type that is not there from one carrying no properties. Two page types
+  // really were reading as empty on that account: their identity file held a second line naming
+  // a path already deleted, and the walk broke on it without a word.
+  expect(() => carriedBy(root, "nowhere")).toThrow("`nowhere` names no page type here")
+  expect(
+    propertiesIfNamed(
+      "nowhere",
+      sourceIn(root, (path) => valueAt(path, root))
+    )
+  ).toBe(null)
 })
 
 test("every declaration is answered, the shadowed one standing beside the one that binds", () => {

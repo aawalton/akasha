@@ -1,6 +1,6 @@
 import { addressIn } from "@akasha/pages-system/page-address"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { propertiesOf } from "@akasha/pages-system/page-type-properties"
+import { propertiesIfNamedOf } from "@akasha/pages-system/page-type-properties"
 import { slugOf, textAt, type Value } from "@akasha/pages-system/page-value"
 import { schemaAt } from "../index-entries/index-entries.module.code.ts"
 import {
