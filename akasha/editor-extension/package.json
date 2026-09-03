@@ -7,7 +7,8 @@
     "./page-tree-ids": "./page-tree-ids/page-tree-ids.module.code.ts",
     "./panel-domains": "./panel-domains/panel-domains.module.code.ts",
     "./terminal-marks": "./terminal-marks/terminal-marks.module.code.ts",
-    "./work-initiatives": "./work-initiatives/work-initiatives.module.code.ts"
+    "./work-initiatives": "./work-initiatives/work-initiatives.module.code.ts",
+    "./work-tree-ids": "./work-tree-ids/work-tree-ids.module.code.ts"
   },
   "peerDependencies": {
     "vscode": "^1.85.0"
