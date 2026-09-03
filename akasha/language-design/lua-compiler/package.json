@@ -1,0 +1,19 @@
+{
+  "name": "@akasha/lua-compiler",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./transpilation": "./transpilation/transpilation.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*",
+    "enhanced-resolve": "5.8.2",
+    "picomatch": "^2.3.1",
+    "resolve": "^1.15.1",
+    "source-map": "^0.7.3",
+    "zod": "^4.3.6"
+  },
+  "peerDependencies": {
+    "typescript": "5.9.3"
+  }
+}

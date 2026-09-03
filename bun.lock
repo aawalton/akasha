@@ -816,6 +816,20 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/language-design/lua-compiler": {
+      "name": "@akasha/lua-compiler",
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+        "enhanced-resolve": "5.8.2",
+        "picomatch": "^2.3.1",
+        "resolve": "^1.15.1",
+        "source-map": "^0.7.3",
+        "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "typescript": "5.9.3",
+      },
+    },
     "akasha/location-traces-access": {
       "name": "@akasha/location-traces-access",
     },
@@ -3198,6 +3212,8 @@
     "@akasha/k8s-types": ["@akasha/k8s-types@workspace:akasha/infrastructure/k8s-types"],
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:akasha/location-traces-access"],
+
+    "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:akasha/language-design/lua-compiler"],
 
     "@akasha/migration-system": ["@akasha/migration-system@workspace:akasha/migration-system"],
 
