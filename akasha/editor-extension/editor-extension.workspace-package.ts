@@ -93,6 +93,7 @@ export const editorExtension = {
     "module/panel-judging",
     "javascript-module/vscode-stub",
     "workspace-package/ops-extension",
+    "workspace-package/vscode-typings",
     "domain/status-bar",
     "type-declaration/vscode-api",
   ],

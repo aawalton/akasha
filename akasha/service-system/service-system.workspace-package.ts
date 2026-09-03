@@ -7,6 +7,7 @@ export const serviceSystem = {
   definition: "what the system runs without being asked each time",
   manifest: "json",
   partSlugs: [
+    "module/secret-placing",
     "module/tick-sleeping",
     "page-type/service",
     "page-type/workstation-service",
@@ -21,6 +22,7 @@ export const serviceSystem = {
     "module/service-reading",
     "module/service-installing",
     "module/web-app-reading",
+    "module/workload-census",
     "module/workload-deploying",
     "module/web-app-building",
     "module/cluster-api-reaching",

@@ -12,6 +12,7 @@ export const git = {
     "module/git-answering",
     "module/porcelain-status",
     "module/porcelain-status-reading",
+    "module/push-repo",
     "module/tree-sha",
     "module/git-capping",
     "module/git-committing",
