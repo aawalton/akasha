@@ -236,6 +236,123 @@ export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string 
   })
 }
 
+// A KEY IS UNIQUE AMONG THE PROPERTIES ONE PAGE TYPE CARRIES, what it inherits included, and
+// `fileKeysAt` answers across every page type at once. Where two page types carry one key and
+// only one of them holds it in a file, that map says every page carrying the key holds a file:
+// `pathsOf` then builds a sidecar path out of whatever the other page carries under it, and a
+// paragraph of prose becomes a file name longer than the file system takes. This answers under
+// the page type, so a key reaches the property that page type declares or reaches nothing.
+export type FilePropertiesBy = ReadonlyMap<string, ReadonlyMap<string, string | null>>
+
+type Held = {
+  readonly pageTypeSlug: string
+  readonly propertySlug: string
+  readonly fileName: string | null
+}
+
+// A BARE DECLARATION NAME NARROWS ACROSS EVERY KIND rather than across the file-ish ones alone,
+// as `shapedIn` does. Narrowing over part of the kinds would let a bare name land on a file
+// property where a page property of another kind already carries that name, which is the same
+// bare-key mistake one turn further in. One left is the answer; several is a collision this
+// cannot settle, and it declares neither rather than picking.
+function bareAmong(properties: ReadonlyMap<string, Held>): ReadonlyMap<string, Held | null> {
+  const found = new Map<string, Held | null>()
+  for (const [named, one] of properties) {
+    const slug = named.slice(named.indexOf("/") + 1)
+    found.set(slug, found.has(slug) ? null : one)
+  }
+  return found
+}
+
+function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
+  const found = new Map<string, Held>()
+  for (const value of values) {
+    const propertySlug = textAt(value, "propertySlug")
+    const slug = textAt(value, "slug")
+    const pageTypeSlug = textAt(value, "pageTypeSlug")
+    if (propertySlug === null || slug === null || pageTypeSlug === null) continue
+    const fileName = textAt(value, "fileName")
+    found.set(`${pageTypeSlug}/${slug}`, { pageTypeSlug, propertySlug, fileName })
+  }
+  return found
+}
+
+function typesAmong(values: Iterable<Value>): ReadonlyMap<string, Value> {
+  const found = new Map<string, Value>()
+  for (const value of values) {
+    if (textAt(value, "pageTypeSlug") !== PAGE_TYPE) continue
+    const slug = textAt(value, "slug")
+    if (slug !== null) found.set(slug, value)
+  }
+  return found
+}
+
+function carriedBy(
+  properties: ReadonlyMap<string, Held>,
+  types: ReadonlyMap<string, Value>
+): FilePropertiesBy {
+  const bare = bareAmong(properties)
+  const above = new Map<string, string>()
+  for (const [slug, value] of types) {
+    const up = slugAt(value, "extendsSlug")
+    if (up !== null) above.set(slug, up)
+  }
+  const found = new Map<string, ReadonlyMap<string, string | null>>()
+  for (const slug of types.keys()) {
+    const held = new Map<string, string | null>()
+    const walked = new Set<string>()
+    let here: string | undefined = slug
+    while (here !== undefined && !walked.has(here)) {
+      walked.add(here)
+      const declared = types.get(here)?.[DECLARED]
+      for (const one of Array.isArray(declared) ? declared : []) {
+        if (one === null || typeof one !== "object" || Array.isArray(one)) continue
+        const said = (one as Record<string, unknown>)[DECLARES]
+        if (typeof said !== "string") continue
+        const hit = (said.includes("/") ? properties.get(said) : bare.get(said)) ?? null
+        if (hit === null) continue
+        if (hit.fileName === null && !besides(hit.pageTypeSlug)) continue
+        if (!held.has(hit.propertySlug)) held.set(hit.propertySlug, hit.fileName)
+      }
+      here = above.get(here)
+    }
+    found.set(slug, held)
+  }
+  return found
+}
+
+function filedAmong(given: string | Reading): ReadonlyMap<string, Held> {
+  const found = new Map<string, Held>()
+  for (const [named, held] of schemaAt(given)) {
+    const { pageTypeSlug, propertySlug, fileName } = held
+    found.set(named, { pageTypeSlug, propertySlug, fileName })
+  }
+  return found
+}
+
+export function filePropertiesIn(values: Iterable<Value>): FilePropertiesBy {
+  const held = [...values]
+  return carriedBy(propertiesAmong(held), typesAmong(held))
+}
+
+export function filePropertiesOver(
+  given: string | Reading,
+  left: Iterable<Value>
+): FilePropertiesBy {
+  const held = [...left]
+  const properties = new Map(filedAmong(given))
+  for (const [named, one] of propertiesAmong(held)) properties.set(named, one)
+  const types = new Map(typesAmong(valuesOfType(given, PAGE_TYPE).map((one) => one.value)))
+  for (const [slug, value] of typesAmong(held)) types.set(slug, value)
+  return carriedBy(properties, types)
+}
+
+export function filePropertiesAt(given: string | Reading): FilePropertiesBy {
+  return answered(given, "", "which properties each page type holds in a file", (reading) =>
+    filePropertiesOver(reading, [])
+  )
+}
+
 export function entryShapesAt(given: string | Reading): ReadonlySet<string> {
   const found = new Set<string>()
   for (const held of schemaAt(given).values()) {

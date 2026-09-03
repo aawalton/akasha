@@ -5,6 +5,9 @@ import { readingAt } from "../index-surface/index-surface.module.code.ts"
 import {
   fileKeysAt,
   fileKeysIn,
+  filePropertiesAt,
+  filePropertiesIn,
+  filePropertiesOver,
   pathsOf,
   schemaAt,
   uniquePropertiesAt,
@@ -237,4 +240,107 @@ test("a stated file name holds a property in a file whatever page type the prope
   })
 
   expect([...fileKeysAt(readingAt(index))]).toEqual([["manifest", "package.json"]])
+})
+
+test("a file property is answered under the page type declaring it and under no other", () => {
+  const values = [
+    { id: "1", pageTypeSlug: "file-property", slug: "notes", propertySlug: "notes" },
+    { id: "2", pageTypeSlug: "text-property", slug: "location-notes", propertySlug: "notes" },
+    {
+      id: "3",
+      pageTypeSlug: "page-type",
+      slug: "review-session",
+      properties: [{ pagePropertySlug: "notes" }],
+    },
+    {
+      id: "4",
+      pageTypeSlug: "page-type",
+      slug: "location",
+      properties: [{ pagePropertySlug: "location-notes" }],
+    },
+  ]
+
+  const said = filePropertiesIn(values)
+
+  expect([...(said.get("review-session") ?? [])]).toEqual([["notes", null]])
+  expect([...(said.get("location") ?? [])]).toEqual([])
+})
+
+test("a page type carries what every page type above it declares", () => {
+  const values = [
+    { id: "1", pageTypeSlug: "file-property", slug: "code", propertySlug: "code" },
+    {
+      id: "2",
+      pageTypeSlug: "page-type",
+      slug: "module",
+      extendsSlug: "page-type/domain",
+      properties: [{ pagePropertySlug: "code" }],
+    },
+    { id: "3", pageTypeSlug: "page-type", slug: "domain", properties: [] },
+    { id: "4", pageTypeSlug: "page-type", slug: "index", extendsSlug: "page-type/module" },
+  ]
+
+  const said = filePropertiesIn(values)
+
+  expect([...(said.get("index") ?? [])]).toEqual([["code", null]])
+  expect([...(said.get("domain") ?? [])]).toEqual([])
+})
+
+test("a bare declaration name two page properties carry declares neither", () => {
+  const values = [
+    { id: "1", pageTypeSlug: "file-property", slug: "notes", propertySlug: "notes" },
+    { id: "2", pageTypeSlug: "file-property", slug: "notes", propertySlug: "notes" },
+    {
+      id: "3",
+      pageTypeSlug: "page-type",
+      slug: "review-session",
+      properties: [{ pagePropertySlug: "notes" }],
+    },
+  ]
+
+  expect([...(filePropertiesIn(values).get("review-session") ?? [])]).toEqual([])
+})
+
+test("a declaration naming its page property outright reaches it though the bare name is shared", () => {
+  const values = [
+    { id: "1", pageTypeSlug: "file-property", slug: "notes", propertySlug: "notes" },
+    { id: "2", pageTypeSlug: "text-property", slug: "notes", propertySlug: "notes" },
+    {
+      id: "3",
+      pageTypeSlug: "page-type",
+      slug: "review-session",
+      properties: [{ pagePropertySlug: "file-property/notes" }],
+    },
+  ]
+
+  expect([...(filePropertiesIn(values).get("review-session") ?? [])]).toEqual([["notes", null]])
+})
+
+test("a page type the change carries reaches the page properties the index carries", () => {
+  const { root } = grounded()
+  const left = [
+    {
+      id: "9",
+      pageTypeSlug: "page-type",
+      slug: "module",
+      properties: [{ pagePropertySlug: "code" }, { pagePropertySlug: "part-slugs" }],
+    },
+  ]
+
+  expect([...(filePropertiesOver(readingAt(root), left).get("module") ?? [])]).toEqual([
+    ["code", null],
+  ])
+})
+
+test("a page type no page type page names is answered by nothing rather than by every key", () => {
+  const { root } = grounded()
+
+  expect(filePropertiesOver(readingAt(root), []).get("module")).toBe(undefined)
+})
+
+test("what each page type holds in a file is answered off the index carrying no change", () => {
+  const { root } = grounded()
+  const reading = readingAt(root)
+
+  expect(filePropertiesAt(reading)).toEqual(filePropertiesOver(reading, []))
 })

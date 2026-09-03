@@ -77,5 +77,19 @@ export const indexEntries = {
       invariantKind: "departure",
       statement: "A file that a page claims without stating is not asked to be there.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which properties a page type holds in a file is answered under that page type rather than across every page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type holds in a file what every page type above it declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A declaration naming a page property no page property alone answers to declares nothing.",
+    },
   ],
 } as const satisfies Module
