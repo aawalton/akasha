@@ -1,3 +1,16 @@
+import { FOCUS_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
+import type { MovementPattern } from "../../exercises/properties/movement-pattern.select-property.ts"
+import type { MuscleFocus } from "../../exercises/properties/muscle-focus.select-property.ts"
+import { CORE_ANTI_PATTERNS } from "../pattern-groups/pattern-groups.module.code.ts"
+
+export type SessionFocus = (typeof FOCUS_OPTIONS)[number]
+
+const SESSION_FOCUS_SET: ReadonlySet<string> = new Set(FOCUS_OPTIONS)
+
+export function isSessionFocus(focus: string): focus is SessionFocus {
+  return SESSION_FOCUS_SET.has(focus)
+}
+
 export const ROLE_OPTIONS = [
   "anchor",
   "accessory",
@@ -9,7 +22,7 @@ export const ROLE_OPTIONS = [
 
 export type Role = (typeof ROLE_OPTIONS)[number]
 
-export interface RoleDefaults {
+export type RoleDefaults = {
   readonly targetSets: number
   readonly repRangeLow: number
   readonly repRangeHigh: number
@@ -25,43 +38,41 @@ export const ROLE_DEFAULTS: Readonly<Record<Role, RoleDefaults>> = {
   warmup: { targetSets: 1, repRangeLow: 8, repRangeHigh: 12, targetRir: 4 },
 }
 
-export const NATIVE_PATTERN_BY_ROLE: Readonly<Partial<Record<Role, string>>> = {
+export const NATIVE_PATTERN_BY_ROLE: Readonly<Partial<Record<Role, MovementPattern>>> = {
   mobility: "mobility",
   conditioning: "conditioning",
 }
 
-export const NATIVE_PATTERNS: ReadonlySet<string> = new Set(
-  Object.values(NATIVE_PATTERN_BY_ROLE).filter((p): p is string => p !== undefined)
+export const NATIVE_PATTERNS: ReadonlySet<MovementPattern> = new Set(
+  Object.values(NATIVE_PATTERN_BY_ROLE).filter(
+    (pattern): pattern is MovementPattern => pattern !== undefined
+  )
 )
 
-export interface SlotSpec {
+export type SlotSpec = {
   readonly role: Role
-  readonly patterns: readonly string[]
-  readonly muscleFocus?: string
+  readonly patterns: readonly MovementPattern[]
+  readonly muscleFocus?: MuscleFocus
   readonly coverageFlex?: boolean
   readonly ballisticPreference?: "prefer" | "avoid"
   readonly optional?: boolean
 }
 
-const CORE_ANTI_PATTERNS = [
-  "core-anti-extension",
-  "core-anti-rotation",
-  "core-anti-lateral-flexion",
-] as const
+const ZONE_TWO_FINISHER: SlotSpec = {
+  role: "conditioning",
+  patterns: ["conditioning"],
+  ballisticPreference: "avoid",
+  optional: true,
+}
 
-export const FOCUS_TEMPLATES: Readonly<Record<string, readonly SlotSpec[]>> = {
+export const FOCUS_TEMPLATES: Readonly<Record<SessionFocus, readonly SlotSpec[]>> = {
   push: [
     { role: "anchor", patterns: ["h-push"] },
     { role: "accessory", patterns: ["v-push"] },
     { role: "accessory", patterns: ["h-push", "v-push"], coverageFlex: true },
     { role: "accessory", patterns: ["isolation-other"], muscleFocus: "push" },
     { role: "accessory", patterns: [...CORE_ANTI_PATTERNS], coverageFlex: true },
-    {
-      role: "conditioning",
-      patterns: ["conditioning"],
-      ballisticPreference: "avoid",
-      optional: true,
-    },
+    ZONE_TWO_FINISHER,
   ],
   pull: [
     { role: "anchor", patterns: ["v-pull"] },
@@ -69,12 +80,7 @@ export const FOCUS_TEMPLATES: Readonly<Record<string, readonly SlotSpec[]>> = {
     { role: "accessory", patterns: ["v-pull", "h-pull"], coverageFlex: true },
     { role: "accessory", patterns: ["isolation-other"], muscleFocus: "pull" },
     { role: "accessory", patterns: [...CORE_ANTI_PATTERNS], coverageFlex: true },
-    {
-      role: "conditioning",
-      patterns: ["conditioning"],
-      ballisticPreference: "avoid",
-      optional: true,
-    },
+    ZONE_TWO_FINISHER,
   ],
   legs: [
     { role: "anchor", patterns: ["squat"] },
@@ -82,12 +88,7 @@ export const FOCUS_TEMPLATES: Readonly<Record<string, readonly SlotSpec[]>> = {
     { role: "accessory", patterns: ["lunge"] },
     { role: "accessory", patterns: ["hinge", "squat", "lunge"], coverageFlex: true },
     { role: "accessory", patterns: ["carry", ...CORE_ANTI_PATTERNS], coverageFlex: true },
-    {
-      role: "conditioning",
-      patterns: ["conditioning"],
-      ballisticPreference: "avoid",
-      optional: true,
-    },
+    ZONE_TWO_FINISHER,
   ],
   upper: [
     { role: "anchor", patterns: ["h-push"] },
@@ -102,12 +103,7 @@ export const FOCUS_TEMPLATES: Readonly<Record<string, readonly SlotSpec[]>> = {
     { role: "accessory", patterns: ["hinge"] },
     { role: "accessory", patterns: ["lunge"] },
     { role: "accessory", patterns: ["carry", ...CORE_ANTI_PATTERNS], coverageFlex: true },
-    {
-      role: "conditioning",
-      patterns: ["conditioning"],
-      ballisticPreference: "avoid",
-      optional: true,
-    },
+    ZONE_TWO_FINISHER,
   ],
   "full-body": [
     { role: "anchor", patterns: ["squat", "hinge"], coverageFlex: true },
@@ -115,23 +111,13 @@ export const FOCUS_TEMPLATES: Readonly<Record<string, readonly SlotSpec[]>> = {
     { role: "accessory", patterns: ["v-pull", "h-pull"], coverageFlex: true },
     { role: "accessory", patterns: ["hinge", "lunge"], coverageFlex: true },
     { role: "accessory", patterns: ["carry", ...CORE_ANTI_PATTERNS], coverageFlex: true },
-    {
-      role: "conditioning",
-      patterns: ["conditioning"],
-      ballisticPreference: "avoid",
-      optional: true,
-    },
+    ZONE_TWO_FINISHER,
   ],
   core: [
     { role: "accessory", patterns: ["core-anti-extension"] },
     { role: "accessory", patterns: ["core-anti-rotation"] },
     { role: "accessory", patterns: ["core-anti-lateral-flexion", "carry"], coverageFlex: true },
-    {
-      role: "conditioning",
-      patterns: ["conditioning"],
-      ballisticPreference: "avoid",
-      optional: true,
-    },
+    ZONE_TWO_FINISHER,
   ],
   conditioning: [
     { role: "conditioning", patterns: ["conditioning"] },
@@ -145,26 +131,5 @@ export const FOCUS_TEMPLATES: Readonly<Record<string, readonly SlotSpec[]>> = {
 }
 
 export function slotsForFocus(focus: string): readonly SlotSpec[] {
-  return FOCUS_TEMPLATES[focus] ?? FOCUS_TEMPLATES["full-body"] ?? []
+  return isSessionFocus(focus) ? FOCUS_TEMPLATES[focus] : FOCUS_TEMPLATES["full-body"]
 }
-
-export const REQUIRED_WEEKLY_PATTERNS = [
-  "h-push",
-  "v-push",
-  "h-pull",
-  "v-pull",
-  "squat",
-  "hinge",
-  "carry",
-] as const
-
-export const CORE_ANTI_PATTERN_SET: ReadonlySet<string> = new Set(CORE_ANTI_PATTERNS)
-
-export const UPPER_REGION_PATTERNS: ReadonlySet<string> = new Set([
-  "h-push",
-  "v-push",
-  "h-pull",
-  "v-pull",
-])
-
-export const LOWER_REGION_PATTERNS: ReadonlySet<string> = new Set(["squat", "hinge", "lunge"])

@@ -1,9 +1,16 @@
-import type { PlannedSlot, SessionPlan } from "./selector"
+import type { ExerciseSlug } from "../../set-logs/properties/exercise-slug.relation-property.ts"
+import type { Reps } from "../../set-logs/properties/reps.number-property.ts"
+import type { Rpe } from "../../set-logs/properties/rpe.number-property.ts"
+import type { SetNumber } from "../../set-logs/properties/set-number.number-property.ts"
+import type {
+  PlannedSlot,
+  SessionPlan,
+} from "../session-selection/session-selection.module.code.ts"
 
-export interface SessionSet {
-  readonly setNumber: number
-  readonly reps: number | null
-  readonly rpe: number | null
+export type SessionSet = {
+  readonly setNumber: SetNumber
+  readonly reps: Reps | null
+  readonly rpe: Rpe | null
 }
 
 export const HIGH_RPE_THRESHOLD = 9
@@ -14,14 +21,14 @@ export type MovementEndReason =
   | "reps-below-range"
   | "skipped-after-performing"
 
-export interface MovementDoneInput {
+export type MovementDoneInput = {
   readonly sets: readonly SessionSet[]
   readonly prescribedSets: number
   readonly repRangeLow: number
   readonly skippedAfterPerforming: boolean
 }
 
-export interface MovementDoneDecision {
+export type MovementDoneDecision = {
   readonly done: boolean
   readonly reason: MovementEndReason | null
   readonly why: string
@@ -60,38 +67,38 @@ export function decideMovementDone(input: MovementDoneInput): MovementDoneDecisi
   return NOT_DONE
 }
 
-export interface SkipPartition {
-  readonly toExclude: ReadonlySet<string>
-  readonly afterPerforming: ReadonlySet<string>
+export type SkipPartition = {
+  readonly toExclude: ReadonlySet<ExerciseSlug>
+  readonly afterPerforming: ReadonlySet<ExerciseSlug>
 }
 
 export function partitionSkips(
-  skipped: ReadonlySet<string>,
-  sessionPerformed: ReadonlySet<string>
+  skipped: ReadonlySet<ExerciseSlug>,
+  sessionPerformed: ReadonlySet<ExerciseSlug>
 ): SkipPartition {
-  const toExclude = new Set<string>()
-  const afterPerforming = new Set<string>()
-  for (const id of skipped) {
-    if (sessionPerformed.has(id)) afterPerforming.add(id)
-    else toExclude.add(id)
+  const toExclude = new Set<ExerciseSlug>()
+  const afterPerforming = new Set<ExerciseSlug>()
+  for (const slug of skipped) {
+    if (sessionPerformed.has(slug)) afterPerforming.add(slug)
+    else toExclude.add(slug)
   }
   return { toExclude, afterPerforming }
 }
 
-export interface NextSetInput {
+export type NextSetInput = {
   readonly plan: SessionPlan
-  readonly loggedByExercise: ReadonlyMap<string, readonly SessionSet[]>
-  readonly skippedAfterPerforming: ReadonlySet<string>
+  readonly loggedByExercise: ReadonlyMap<ExerciseSlug, readonly SessionSet[]>
+  readonly skippedAfterPerforming: ReadonlySet<ExerciseSlug>
 }
 
-export interface NextSet {
+export type NextSet = {
   readonly kind: "set"
   readonly slot: PlannedSlot
-  readonly setNumber: number
+  readonly setNumber: SetNumber
   readonly why: string
 }
 
-export interface SessionComplete {
+export type SessionComplete = {
   readonly kind: "done"
   readonly why: string
 }
@@ -103,18 +110,16 @@ export function decideNextSet(input: NextSetInput): NextSetDecision {
   let endedPrevious: string | null = null
 
   for (const slot of plan.slots) {
-    const sets = loggedByExercise.get(slot.exerciseId) ?? []
+    const sets = loggedByExercise.get(slot.exerciseSlug) ?? []
     const done = decideMovementDone({
       sets,
       prescribedSets: slot.targetSets,
       repRangeLow: slot.repRangeLow,
-      skippedAfterPerforming: skippedAfterPerforming.has(slot.exerciseId),
+      skippedAfterPerforming: skippedAfterPerforming.has(slot.exerciseSlug),
     })
     if (done.done) {
       endedPrevious =
-        done.reason === "sets-complete"
-          ? null
-          : `${done.why} — ${slot.exerciseName} is done for today`
+        done.reason === "sets-complete" ? null : `${done.why} — ${slot.title} is done for today`
       continue
     }
     const lead = endedPrevious === null ? "" : `${endedPrevious} · `

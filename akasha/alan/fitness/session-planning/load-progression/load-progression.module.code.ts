@@ -1,16 +1,16 @@
-import type { SetLine } from "../tracking/history-core"
+import type { PerformedSet } from "../performed-set/performed-set.module.code.ts"
 
 export type ProgressionAction = "introduce" | "beat-reps" | "increase-load" | "hold-extend-reps"
 
-export interface ProgressionInput {
-  readonly lastSessionSets: readonly SetLine[]
+export type ProgressionInput = {
+  readonly lastSessionSets: readonly PerformedSet[]
   readonly repRangeLow: number
   readonly repRangeHigh: number
   readonly targetSets: number
   readonly loadsLadder: readonly number[]
 }
 
-export interface ProgressionDecision {
+export type ProgressionDecision = {
   readonly action: ProgressionAction
   readonly prescribedLoad: number | null
   readonly prescribedRepLow: number
@@ -22,17 +22,17 @@ export interface ProgressionDecision {
 
 const REP_EXTENSION = 2
 
-function modalWeight(sets: readonly SetLine[]): number | null {
+function modalLoad(sets: readonly PerformedSet[]): number | null {
   const counts = new Map<number, number>()
-  for (const s of sets) {
-    if (s.weight === null) continue
-    counts.set(s.weight, (counts.get(s.weight) ?? 0) + 1)
+  for (const set of sets) {
+    if (set.weight === null) continue
+    counts.set(set.weight, (counts.get(set.weight) ?? 0) + 1)
   }
   let best: number | null = null
   let bestCount = 0
-  for (const [weight, count] of counts) {
-    if (count > bestCount || (count === bestCount && (best === null || weight > best))) {
-      best = weight
+  for (const [load, count] of counts) {
+    if (count > bestCount || (count === bestCount && (best === null || load > best))) {
+      best = load
       bestCount = count
     }
   }
@@ -66,7 +66,7 @@ function holdExtend(
 
 export function decideProgression(input: ProgressionInput): ProgressionDecision {
   const { lastSessionSets, repRangeLow, repRangeHigh, targetSets, loadsLadder } = input
-  const working = lastSessionSets.filter((s) => (s.reps ?? 0) > 0)
+  const working = lastSessionSets.filter((set) => (set.reps ?? 0) > 0)
 
   if (working.length === 0) {
     return {
@@ -80,12 +80,13 @@ export function decideProgression(input: ProgressionInput): ProgressionDecision 
     }
   }
 
-  const currentLoad = modalWeight(working)
-  const atLoad = currentLoad === null ? working : working.filter((s) => s.weight === currentLoad)
-  const reps = atLoad.map((s) => s.reps ?? 0)
+  const currentLoad = modalLoad(working)
+  const atLoad =
+    currentLoad === null ? working : working.filter((set) => set.weight === currentLoad)
+  const reps = atLoad.map((set) => set.reps ?? 0)
   const minReps = Math.min(...reps)
   const maxReps = Math.max(...reps)
-  const loadStr = currentLoad === null ? "bodyweight" : `${currentLoad}`
+  const loadSaid = currentLoad === null ? "bodyweight" : `${currentLoad}`
 
   if (minReps < repRangeHigh) {
     const target = Math.min(maxReps + 1, repRangeHigh)
@@ -96,7 +97,7 @@ export function decideProgression(input: ProgressionInput): ProgressionDecision 
       prescribedRepHigh: repRangeHigh,
       prescribedSets: targetSets,
       coarseJumpGuardFired: false,
-      rationale: `Last ${loadStr}×${maxReps} — hold load, beat ${maxReps}→${target} toward ${repRangeHigh} (range ${repRangeLow}-${repRangeHigh})`,
+      rationale: `Last ${loadSaid}×${maxReps} — hold load, beat ${maxReps}→${target} toward ${repRangeHigh} (range ${repRangeLow}-${repRangeHigh})`,
     }
   }
 
@@ -119,13 +120,13 @@ export function decideProgression(input: ProgressionInput): ProgressionDecision 
     )
   }
 
-  const estRepsAtNext = Math.floor((repRangeHigh * currentLoad) / nextLoad)
-  if (estRepsAtNext < repRangeLow) {
+  const estimatedRepsAtNext = Math.floor((repRangeHigh * currentLoad) / nextLoad)
+  if (estimatedRepsAtNext < repRangeLow) {
     return holdExtend(
       currentLoad,
       input,
       false,
-      `Next increment ${nextLoad} would drop to ~${estRepsAtNext} reps (< range floor ${repRangeLow}) — coarse-jump guard: hold ${currentLoad}, extend reps to ${repRangeHigh + REP_EXTENSION}`
+      `Next increment ${nextLoad} would drop to ~${estimatedRepsAtNext} reps (< range floor ${repRangeLow}) — coarse-jump guard: hold ${currentLoad}, extend reps to ${repRangeHigh + REP_EXTENSION}`
     )
   }
 

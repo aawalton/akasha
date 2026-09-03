@@ -1,15 +1,27 @@
+import type { GoalWeights, SelectionPolicy } from "@akasha/exercise-access/selection-policy"
+import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
+import type { IsBallistic } from "../../exercises/properties/is-ballistic.boolean-property.ts"
+import type { Laterality } from "../../exercises/properties/laterality.select-property.ts"
+import type { MovementPattern } from "../../exercises/properties/movement-pattern.select-property.ts"
+import type { MuscleFocus } from "../../exercises/properties/muscle-focus.select-property.ts"
+import type { SkillCost } from "../../exercises/properties/skill-cost.select-property.ts"
+import type { ExerciseSlug } from "../../set-logs/properties/exercise-slug.relation-property.ts"
+import {
+  decideProgression,
+  type ProgressionDecision,
+} from "../load-progression/load-progression.module.code.ts"
+import { effectiveScore, recencyBonus } from "../movement-recency/movement-recency.module.code.ts"
+import type { GoalScores } from "../movement-scoring/movement-scoring.module.code.ts"
+import {
+  reserveNoveltySlot,
+  type StarvedSlot,
+} from "../novelty-budget/novelty-budget.module.code.ts"
 import {
   type AnchorState,
   deriveAnchor,
   rankCandidates,
   type ScoredCandidate,
-} from "./anchor"
-import { type CoverageState, isGapPattern, patternLateralityKey } from "./coverage"
-import { reserveNoveltySlot, type StarvedSlot } from "./novelty-budget"
-import type { SelectionPolicy } from "./policy"
-import { decideProgression, type ProgressionDecision } from "./progression"
-import { effectiveScore, recencyBonus } from "./recency"
-import type { GoalScores, GoalWeights } from "./scorer"
+} from "../session-anchor/session-anchor.module.code.ts"
 import {
   NATIVE_PATTERN_BY_ROLE,
   NATIVE_PATTERNS,
@@ -17,26 +29,30 @@ import {
   type Role,
   type SlotSpec,
   slotsForFocus,
-} from "./slot-templates"
+} from "../slot-templates/slot-templates.module.code.ts"
+import {
+  type CoverageState,
+  isGapPattern,
+  patternLateralityKey,
+} from "../weekly-coverage/weekly-coverage.module.code.ts"
 
-
-export interface SelectorInputs {
+export type SelectorInputs = {
   readonly focus: string
   readonly dayStr: string
   readonly daySeed: number
   readonly policy: SelectionPolicy
   readonly candidates: readonly ScoredCandidate[]
   readonly coverage: CoverageState
-  readonly loggedPatterns: ReadonlySet<string>
-  readonly sessionPerformed: ReadonlySet<string>
+  readonly loggedPatterns: ReadonlySet<MovementPattern>
+  readonly sessionPerformed: ReadonlySet<ExerciseSlug>
 }
 
-export interface PlannedSlot {
+export type PlannedSlot = {
   readonly sortOrder: number
   readonly role: Role
-  readonly exerciseId: string
-  readonly exerciseName: string
-  readonly movementPattern: string
+  readonly exerciseSlug: ExerciseSlug
+  readonly title: Title
+  readonly movementPattern: MovementPattern
   readonly repRangeLow: number
   readonly repRangeHigh: number
   readonly targetRir: number
@@ -44,32 +60,32 @@ export interface PlannedSlot {
   readonly progression: ProgressionDecision
 }
 
-export interface SessionPlan {
+export type SessionPlan = {
   readonly focus: string
   readonly slots: readonly PlannedSlot[]
 }
 
-export interface RejectedCandidate {
-  readonly id: string
-  readonly name: string
+export type RejectedCandidate = {
+  readonly exerciseSlug: ExerciseSlug
+  readonly title: Title
   readonly blend: number
   readonly reason: string
 }
 
-export interface FeaturesUsed {
-  readonly movementPattern: string
-  readonly muscleFocus: string
-  readonly laterality: string
-  readonly skillCost: string
-  readonly isBallistic: boolean
+export type FeaturesUsed = {
+  readonly movementPattern: MovementPattern
+  readonly muscleFocus: MuscleFocus
+  readonly laterality: Laterality
+  readonly skillCost: SkillCost
+  readonly isBallistic: IsBallistic
 }
 
-export interface SelectionDecision {
+export type SelectionDecision = {
   readonly sortOrder: number
   readonly role: Role
-  readonly slotPatterns: readonly string[]
-  readonly exerciseId: string
-  readonly exerciseName: string
+  readonly slotPatterns: readonly MovementPattern[]
+  readonly exerciseSlug: ExerciseSlug
+  readonly title: Title
   readonly scores: GoalScores
   readonly featuresUsed: FeaturesUsed
   readonly rulesFired: readonly string[]
@@ -81,12 +97,12 @@ export interface SelectionDecision {
 
 export type UnfilledReason = "no-in-kit-candidate" | "novelty-capped"
 
-export interface UnfilledSlot {
+export type UnfilledSlot = {
   readonly slot: string
   readonly reason: UnfilledReason
 }
 
-export interface SelectionEnvelope {
+export type SelectionEnvelope = {
   readonly focus: string
   readonly daySeed: number
   readonly weights: GoalWeights
@@ -95,14 +111,20 @@ export interface SelectionEnvelope {
   readonly unfilledSlots: readonly UnfilledSlot[]
 }
 
-export interface SelectionResult {
+export type SelectionResult = {
   readonly plan: SessionPlan
   readonly envelope: SelectionEnvelope
 }
 
 const REJECTED_LIMIT = 4
 
-function slotAdmits(slot: SlotSpec, pattern: string): boolean {
+const PROGRESSING_ROLES: ReadonlySet<Role> = new Set(["anchor", "accessory", "power"])
+
+const NOVELTY_EXEMPT_ROLES: ReadonlySet<Role> = new Set(["anchor", "conditioning"])
+
+const NOTHING_CHOSEN: ReadonlySet<ExerciseSlug> = new Set()
+
+function slotAdmits(slot: SlotSpec, pattern: MovementPattern): boolean {
   if (!NATIVE_PATTERNS.has(pattern)) return true
   return NATIVE_PATTERN_BY_ROLE[slot.role] === pattern
 }
@@ -110,20 +132,20 @@ function slotAdmits(slot: SlotSpec, pattern: string): boolean {
 function candidatesForSlot(
   candidates: readonly ScoredCandidate[],
   slot: SlotSpec,
-  chosen: ReadonlySet<string>
+  chosen: ReadonlySet<ExerciseSlug>
 ): readonly ScoredCandidate[] {
-  const allowed = new Set(slot.patterns)
+  const allowed = new Set<MovementPattern>(slot.patterns)
   const pool = candidates.filter(
-    (c) =>
-      !chosen.has(c.id) &&
-      slotAdmits(slot, c.movementPattern) &&
-      (slot.muscleFocus === undefined || c.muscleFocus === slot.muscleFocus) &&
-      (allowed.has(c.movementPattern) ||
-        (c.secondaryPattern !== null && allowed.has(c.secondaryPattern)))
+    (candidate) =>
+      !chosen.has(candidate.exerciseSlug) &&
+      slotAdmits(slot, candidate.movementPattern) &&
+      (slot.muscleFocus === undefined || candidate.muscleFocus === slot.muscleFocus) &&
+      (allowed.has(candidate.movementPattern) ||
+        (candidate.secondaryPattern !== null && allowed.has(candidate.secondaryPattern)))
   )
   if (slot.ballisticPreference === undefined) return pool
   const wanted = slot.ballisticPreference === "prefer"
-  const preferred = pool.filter((c) => c.isBallistic === wanted)
+  const preferred = pool.filter((candidate) => candidate.isBallistic === wanted)
   return preferred.length > 0 ? preferred : pool
 }
 
@@ -138,22 +160,25 @@ function accessoryOrder(
   const rank = (list: readonly ScoredCandidate[]): readonly ScoredCandidate[] =>
     rankCandidates(list, daySeed, slotIndex, scoreOf)
   if (slot.coverageFlex !== true) return rank(pool)
-  return [...rank(pool.filter((c) => isGap(c))), ...rank(pool.filter((c) => !isGap(c)))]
+  return [
+    ...rank(pool.filter((candidate) => isGap(candidate))),
+    ...rank(pool.filter((candidate) => !isGap(candidate))),
+  ]
 }
 
 function starvedSlots(
   slots: readonly SlotSpec[],
   candidates: readonly ScoredCandidate[],
-  loggedPatterns: ReadonlySet<string>
+  loggedPatterns: ReadonlySet<MovementPattern>
 ): readonly StarvedSlot[] {
   const starved: StarvedSlot[] = []
   slots.forEach((slot, slotIndex) => {
     if (NOVELTY_EXEMPT_ROLES.has(slot.role)) return
     const pool = candidatesForSlot(candidates, slot, NOTHING_CHOSEN)
-    if (pool.length === 0 || pool.some((c) => c.logged)) return
+    if (pool.length === 0 || pool.some((candidate) => candidate.logged)) return
     starved.push({
       slotIndex,
-      patternUntrained: !pool.some((c) => loggedPatterns.has(c.movementPattern)),
+      patternUntrained: !pool.some((candidate) => loggedPatterns.has(candidate.movementPattern)),
     })
   })
   return starved
@@ -179,12 +204,6 @@ function staticPrescription(
   }
 }
 
-const PROGRESSING_ROLES: ReadonlySet<Role> = new Set(["anchor", "accessory", "power"])
-
-const NOVELTY_EXEMPT_ROLES: ReadonlySet<Role> = new Set(["anchor", "conditioning"])
-
-const NOTHING_CHOSEN: ReadonlySet<string> = new Set()
-
 function recencyRule(pick: ScoredCandidate, bonus: number): string {
   if (pick.priorDayStr === null) return "recency:none(never-performed)"
   if (bonus <= 0) return "recency:none(performed-today)"
@@ -193,19 +212,19 @@ function recencyRule(pick: ScoredCandidate, bonus: number): string {
 
 function rejectedFrom(
   pool: readonly ScoredCandidate[],
-  pickId: string,
+  pickedSlug: ExerciseSlug,
   novelAllowed: boolean,
   scoreOf: (candidate: ScoredCandidate) => number
 ): readonly RejectedCandidate[] {
   return [...pool]
-    .filter((c) => c.id !== pickId)
+    .filter((candidate) => candidate.exerciseSlug !== pickedSlug)
     .sort((a, b) => scoreOf(b) - scoreOf(a))
     .slice(0, REJECTED_LIMIT)
-    .map((c) => ({
-      id: c.id,
-      name: c.name,
-      blend: Number(c.scores.blend.toFixed(3)),
-      reason: c.logged
+    .map((candidate) => ({
+      exerciseSlug: candidate.exerciseSlug,
+      title: candidate.title,
+      blend: Number(candidate.scores.blend.toFixed(3)),
+      reason: candidate.logged
         ? "lower blend"
         : novelAllowed
           ? "lower blend (novel)"
@@ -218,14 +237,16 @@ export function selectSession(inputs: SelectorInputs): SelectionResult {
   const sessionPerformed = inputs.sessionPerformed
   const slots = slotsForFocus(focus)
 
-  const bonusOf = (c: ScoredCandidate): number => recencyBonus(c.priorDayStr, dayStr, policy)
-  const scoreOf = (c: ScoredCandidate): number => effectiveScore(c.scores.blend, bonusOf(c))
+  const bonusOf = (candidate: ScoredCandidate): number =>
+    recencyBonus(candidate.priorDayStr, dayStr, policy)
+  const scoreOf = (candidate: ScoredCandidate): number =>
+    effectiveScore(candidate.scores.blend, bonusOf(candidate))
 
-  const chosen = new Set<string>()
+  const chosen = new Set<ExerciseSlug>()
   const sessionKeys = new Set<string>()
-  const isGap = (c: ScoredCandidate): boolean =>
-    isGapPattern(coverage, c.movementPattern) &&
-    !sessionKeys.has(patternLateralityKey(c.movementPattern, c.laterality))
+  const isGap = (candidate: ScoredCandidate): boolean =>
+    isGapPattern(coverage, candidate.movementPattern) &&
+    !sessionKeys.has(patternLateralityKey(candidate.movementPattern, candidate.laterality))
   const noveltyCap = policy.noveltyCapPerSession
   const reservedForSlot = reserveNoveltySlot(starvedSlots(slots, candidates, loggedPatterns))
   let novelUsed = 0
@@ -248,7 +269,7 @@ export function selectSession(inputs: SelectorInputs): SelectionResult {
     }
     const rulesFired: string[] = ["in-kit"]
 
-    const performed = pool.filter((c) => sessionPerformed.has(c.id))
+    const performed = pool.filter((candidate) => sessionPerformed.has(candidate.exerciseSlug))
     const pinned = performed.length > 0
     const effectivePool = pinned ? performed : pool
     if (pinned) rulesFired.push("session:already-performed")
@@ -275,14 +296,14 @@ export function selectSession(inputs: SelectorInputs): SelectionResult {
       rulesFired.push("recency:not-applied(anchor)")
     } else {
       const ordered = accessoryOrder(effectivePool, slot, isGap, daySeed, slotIndex, scoreOf)
-      const eligible = ordered.find((c) => c.logged || novelAllowed)
+      const eligible = ordered.find((candidate) => candidate.logged || novelAllowed)
       if (eligible === undefined) {
         gap("novelty-capped")
         return
       }
       pick = eligible
       rulesFired.push(recencyRule(pick, bonusOf(pick)))
-      baseRationale = `${slot.role} ${pick.movementPattern}: ${pick.name} (blend ${pick.scores.blend.toFixed(3)})`
+      baseRationale = `${slot.role} ${pick.movementPattern}: ${pick.title} (blend ${pick.scores.blend.toFixed(3)})`
     }
 
     if (!pick.logged) {
@@ -314,13 +335,13 @@ export function selectSession(inputs: SelectorInputs): SelectionResult {
         )
     if (progression.coarseJumpGuardFired) rulesFired.push("coarse-jump-guard")
 
-    chosen.add(pick.id)
+    chosen.add(pick.exerciseSlug)
     sessionKeys.add(patternLateralityKey(pick.movementPattern, pick.laterality))
     plannedSlots.push({
       sortOrder,
       role: slot.role,
-      exerciseId: pick.id,
-      exerciseName: pick.name,
+      exerciseSlug: pick.exerciseSlug,
+      title: pick.title,
       movementPattern: pick.movementPattern,
       repRangeLow: progression.prescribedRepLow,
       repRangeHigh: progression.prescribedRepHigh,
@@ -332,8 +353,8 @@ export function selectSession(inputs: SelectorInputs): SelectionResult {
       sortOrder,
       role: slot.role,
       slotPatterns: slot.patterns,
-      exerciseId: pick.id,
-      exerciseName: pick.name,
+      exerciseSlug: pick.exerciseSlug,
+      title: pick.title,
       scores: pick.scores,
       featuresUsed: {
         movementPattern: pick.movementPattern,
@@ -346,7 +367,7 @@ export function selectSession(inputs: SelectorInputs): SelectionResult {
       anchorState,
       progression,
       rationale: `${baseRationale} — ${progression.rationale}`,
-      rejected: rejectedFrom(pool, pick.id, novelAllowed, scoreOf),
+      rejected: rejectedFrom(pool, pick.exerciseSlug, novelAllowed, scoreOf),
     })
     sortOrder += 1
   })

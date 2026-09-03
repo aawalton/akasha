@@ -1,0 +1,27 @@
+{
+  "name": "@akasha/session-planning",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./equipment-kit": "./equipment-kit/equipment-kit.module.code.ts",
+    "./load-progression": "./load-progression/load-progression.module.code.ts",
+    "./movement-recency": "./movement-recency/movement-recency.module.code.ts",
+    "./movement-scoring": "./movement-scoring/movement-scoring.module.code.ts",
+    "./next-set": "./next-set/next-set.module.code.ts",
+    "./novelty-budget": "./novelty-budget/novelty-budget.module.code.ts",
+    "./pattern-groups": "./pattern-groups/pattern-groups.module.code.ts",
+    "./performed-set": "./performed-set/performed-set.module.code.ts",
+    "./session-anchor": "./session-anchor/session-anchor.module.code.ts",
+    "./session-loading": "./session-loading/session-loading.module.code.ts",
+    "./session-selection": "./session-selection/session-selection.module.code.ts",
+    "./slot-templates": "./slot-templates/slot-templates.module.code.ts",
+    "./weekly-coverage": "./weekly-coverage/weekly-coverage.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/day": "workspace:*",
+    "@akasha/exercise-access": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-core": "workspace:*",
+    "@akasha/pages-system": "workspace:*"
+  }
+}
