@@ -16,7 +16,6 @@ export const write = {
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
-    { said: "--dry-run", takes: "say what would happen and write nothing" },
     { said: "--draft", takes: "keep what would land in this agent's patch rather than landing it" },
   ],
   helpNotes: [

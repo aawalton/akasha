@@ -14,7 +14,6 @@ export const tracking = {
     { said: "--remove <path>", takes: "a path under the tracked days to take away" },
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
-    { said: "--dry-run", takes: "say what would happen and write nothing" },
   ],
   helpNotes: [
     "this command is for the tracking funnel, which composes a day and the rows beside it.",

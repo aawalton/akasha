@@ -6,7 +6,6 @@ import {
   BREAK_GLASS,
   bytesAt,
   DRAFT,
-  DRY_RUN,
   landingAsked,
   mistaking,
   textAt,
@@ -42,7 +41,7 @@ const PARTED_BY = "/"
 
 export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
-const BARE = [DRY_RUN, DRAFT]
+const BARE = [DRAFT]
 
 export function unwarrantedIn(
   given: Given,
@@ -413,7 +412,6 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled
 
-  const dryRun = argv.includes(DRY_RUN)
   const draft = argv.includes(DRAFT)
   const unjudged = outsideOf(changes.map((one) => one.path))
   const answer = landingAsked(given, {
@@ -424,19 +422,19 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
         "write",
         changes.map((one) => one.path)
       ),
-    dryRun,
+    dryRun: false,
     glass: glass.glass,
     unmoved: [],
     saying: (landed) => [...wroteAndTook(landed), ...judgedByNothing(unjudged, false)],
     draft,
   })
-  if (answer.code === 0 && !dryRun && !draft) {
+  if (answer.code === 0 && !draft) {
     dropReadings(
       given.root,
       changes.filter((one) => one.body === null).map((one) => one.path)
     )
   }
-  if (answer.code !== 0 || (!dryRun && !draft)) return answer
+  if (answer.code !== 0 || !draft) return answer
   return { ...answer, report: [...judgedByNothing(unjudged, true), ...answer.report] }
 }
 
