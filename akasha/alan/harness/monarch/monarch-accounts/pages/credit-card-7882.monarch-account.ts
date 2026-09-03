@@ -8,7 +8,7 @@ export const creditCard7882 = {
   definition: "money the family owes, standing in a credit card account",
   monarchId: "148837582402099406",
   accountDisplayName: "CREDIT CARD (...7882)",
-  currentBalance: -16261.25,
+  currentBalance: -17733.06,
   accountType: "credit",
   asset: false,
   accountActive: true,

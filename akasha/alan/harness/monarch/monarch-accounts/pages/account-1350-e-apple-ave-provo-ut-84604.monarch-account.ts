@@ -8,7 +8,7 @@ export const account1350EAppleAveProvoUt84604 = {
   definition: "money the family holds, standing in a home account",
   monarchId: "148843443217373542",
   accountDisplayName: "1350 E Apple Ave Provo UT 84604",
-  currentBalance: 1147000,
+  currentBalance: 1120100,
   accountType: "real_estate",
   asset: true,
   accountActive: true,

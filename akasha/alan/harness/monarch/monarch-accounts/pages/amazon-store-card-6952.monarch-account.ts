@@ -8,7 +8,7 @@ export const amazonStoreCard6952 = {
   definition: "money the family owes, standing in a credit card account",
   monarchId: "148836979301030089",
   accountDisplayName: "Amazon Store Card (...6952)",
-  currentBalance: -231.39,
+  currentBalance: -509.83,
   accountType: "credit",
   asset: false,
   accountActive: true,

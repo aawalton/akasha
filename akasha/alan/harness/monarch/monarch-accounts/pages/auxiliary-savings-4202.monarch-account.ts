@@ -8,7 +8,7 @@ export const auxiliarySavings4202 = {
   definition: "money the family holds, standing in a savings account",
   monarchId: "148836208282048689",
   accountDisplayName: "Auxiliary Savings (...4202)",
-  currentBalance: 1500.93,
+  currentBalance: 1500.99,
   accountType: "depository",
   asset: true,
   accountActive: true,
