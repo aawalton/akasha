@@ -1,24 +1,22 @@
 export const tool = {
-  summary: "Rule on whether claude account upkeep, which renews every account's token and reads its usage, has stalled",
+  summary:
+    "Rule on whether claude account upkeep, which renews every account's token and reads its usage, has stalled",
   repos: ["akasha"],
 } as const
 
 import { readFileSync, writeFileSync } from "node:fs"
-
-
-
-import { ALAN_PERSON, notify } from "../tools/lib/notify.ts"
+import { emitReading } from "@akasha/verdict/reading-channel"
 import { akashaAccountBeside, akashaAccounts } from "../tools/lib/claude-account-akasha.ts"
+import { ALAN_PERSON, notify } from "../tools/lib/notify.ts"
 import { EXPIRES_KEY } from "../tools/lib/oauth-page-push.ts"
 import {
   type AccountReading,
   EXPIRY_FLOOR_MS,
   stallAcross,
   stallLines,
-  USAGE_CEILING_MS,
   type UpkeepStall,
+  USAGE_CEILING_MS,
 } from "../tools/lib/oauth-upkeep-stall.ts"
-import { emitReading } from "../tools/lib/reading-channel.ts"
 
 const LATCH_AT = "/var/tmp/claude-account-upkeep-stall.latch"
 
