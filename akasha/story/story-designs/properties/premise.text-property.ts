@@ -8,6 +8,6 @@ export const premise = {
   slug: "premise",
   propertySlug: "premise",
   definition: "what a story is about, in the shape the story is told in",
-  max: 4000,
+  max: 8000,
   nameFormatSlug: null,
 } as const satisfies TextProperty
