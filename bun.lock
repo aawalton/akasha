@@ -1180,6 +1180,7 @@
     "akasha/supabase-server": {
       "name": "@akasha/supabase-server",
       "dependencies": {
+        "@akasha/supabase-auth": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
       },

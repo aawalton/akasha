@@ -6,7 +6,7 @@ export const supabaseServer = {
   slug: "supabase-server",
   definition: "the Supabase client a server holds, acting as the service role",
   manifest: "json",
-  partSlugs: ["module/service-role"],
+  partSlugs: ["module/service-role", "module/throwaway-user"],
   invariants: [
     {
       invariantKind: "absence",

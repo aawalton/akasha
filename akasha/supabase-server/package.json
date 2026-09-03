@@ -3,9 +3,11 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./service-role": "./service-role/service-role.module.code.ts"
+    "./service-role": "./service-role/service-role.module.code.ts",
+    "./throwaway-user": "./throwaway-user/throwaway-user.module.code.ts"
   },
   "dependencies": {
+    "@akasha/supabase-auth": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",
     "zod": "^4.3.6"
   }
