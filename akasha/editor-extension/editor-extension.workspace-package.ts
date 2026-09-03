@@ -25,6 +25,7 @@ export const editorExtension = {
     "module/settled-refresh",
     "module/activation",
     "module/group-stoplights",
+    "module/terminal-lookup",
   ],
   invariants: [
     {
