@@ -1,0 +1,3 @@
+- Probe the **Shannon operational half** never touched this session — channel capacity, source/channel coding theorems, rate-distortion, mutual information — to test whether this node is really Expert or one-seam-deep. This is the bracket from above.
+- Consider expanding Information Theory into **algorithmic-information** (Kolmogorov/Solomonoff/MDL — where he behaved at ~D4) vs **Shannon coding theory** children, so the seam-level Expert grip lands on its own leaf and the unprobed half scores honestly.
+- The limit question: pin what "the same in the limit" buys if the two criteria diverge before the limit — does hard-to-vary's *now*-readability make it the operative criterion regardless of asymptotic agreement?

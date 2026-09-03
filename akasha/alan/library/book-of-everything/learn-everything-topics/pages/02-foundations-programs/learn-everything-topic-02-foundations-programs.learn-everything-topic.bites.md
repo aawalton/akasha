@@ -1,0 +1,3 @@
+1. Reconstruct the three programs cold — each as a setting on the two dials (ontology of math objects × what a proof may do), no frame supplied — and check the differential Gödel impact falls out: strikes **Formalism** dead-center, **Logicism** already wounded, **Intuitionism** barely touched. That unaided reconstruction is the D2→D3 test.
+2. Nail the Hilbert distinction — finitary metamathematics vs finitist mathematics (the misconception above) — since it is the crux of why Gödel lands where it does.
+3. Brouwer from zero: intuitionism as mental construction, the excluded-middle rejection over infinite domains, and what survives. He already grasped the amputation cost; build the mechanism under it.
