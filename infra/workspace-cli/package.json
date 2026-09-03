@@ -9,7 +9,7 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
-    "@infra/git-porcelain": "workspace:*",
+    "@akasha/git": "workspace:*",
     "zod": "^4.3.6"
   },
   "scripts": {

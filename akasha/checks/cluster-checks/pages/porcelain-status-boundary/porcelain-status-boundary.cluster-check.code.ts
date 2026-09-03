@@ -31,9 +31,9 @@ const PREFIX = "[porcelain-status-boundary]"
 
 const ACT_REQUIRED: Record<PorcelainBoundaryViolation["kind"], string> = {
   "unsanctioned-flag":
-    "read the status through `readPorcelainStatus` from `@infra/git-cli/lib/porcelain-status`, or spell the argv as `PORCELAIN_STATUS_ARGS` from `@infra/git-porcelain` and parse what comes back with `parsePorcelainStatusZ`",
+    "read the status through `readPorcelainStatus` from `@akasha/git/porcelain-status-reading`, or spell the argv as `PORCELAIN_STATUS_ARGS` from `@akasha/git/porcelain-status` and parse what comes back with `parsePorcelainStatusZ`",
   "argv-without-parse":
-    "hand what this read returns to `parsePorcelainStatusZ` from `@infra/git-porcelain` rather than reading the columns off it, or call `readPorcelainStatus` and take its entries",
+    "hand what this read returns to `parsePorcelainStatusZ` from `@akasha/git/porcelain-status` rather than reading the columns off it, or call `readPorcelainStatus` and take its entries",
 }
 
 const BOUNDARY_PATHS = ["infra/git-porcelain/", "infra/git-cli/src/lib/porcelain-status.ts"]
@@ -61,7 +61,7 @@ function selfTestFailure(): string | undefined {
   if (bad.length === 0) return "detector did not fire on a known-bad acquisition"
   const reintroduced = scanPorcelainStatusBoundary(
     "t.ts",
-    `import { PORCELAIN_STATUS_ARGS, parsePorcelainStatusZ } from "@infra/git-porcelain/parse-status"
+    `import { PORCELAIN_STATUS_ARGS, parsePorcelainStatusZ } from "@akasha/git/porcelain-status"
      export const reparse = (s: string) => parsePorcelainStatusZ(s)
      const r = await runGit([...PORCELAIN_STATUS_ARGS], root)
      const paths = r.stdout.split("\\0").map((l) => l.slice(3))`
@@ -69,7 +69,7 @@ function selfTestFailure(): string | undefined {
   if (reintroduced.length === 0) return "detector did not fire on #16843's own reproduction"
   const good = scanPorcelainStatusBoundary(
     "t.ts",
-    `import { PORCELAIN_STATUS_ARGS, parsePorcelainStatusZ } from "@infra/git-porcelain/parse-status"
+    `import { PORCELAIN_STATUS_ARGS, parsePorcelainStatusZ } from "@akasha/git/porcelain-status"
      const r = await runGitRaw([...PORCELAIN_STATUS_ARGS], root)
      parsePorcelainStatusZ(r.stdout)`
   )
@@ -170,7 +170,7 @@ function main(): never {
     options: {
       format: flags.json ? "json" : "human",
       prefix: PREFIX,
-      header: `git status machine-format acquisitions outside @infra/git-porcelain — ${violations.length.toLocaleString()} finding(s) across ${new Set(violations.map((v) => v.file)).size.toLocaleString()} file(s)`,
+      header: `git status machine-format acquisitions outside @akasha/git/porcelain-status — ${violations.length.toLocaleString()} finding(s) across ${new Set(violations.map((v) => v.file)).size.toLocaleString()} file(s)`,
       successMessage:
         "Every git status machine-format acquisition names PORCELAIN_STATUS_ARGS and reaches a boundary parse.",
       population,

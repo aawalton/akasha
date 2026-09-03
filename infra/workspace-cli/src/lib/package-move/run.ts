@@ -1,4 +1,8 @@
-import { formatPorcelainEntry, PORCELAIN_STATUS_ARGS, parsePorcelainStatusZ } from "@infra/git-porcelain/parse-status"
+import {
+  formatPorcelainEntry,
+  PORCELAIN_STATUS_ARGS,
+  parsePorcelainStatusZ,
+} from "@akasha/git/porcelain-status"
 import { cleanupArtifacts, regenerateLockfile } from "./cleanup"
 import { rewriteCodeText } from "./code-text-rewrites"
 import { rewriteImports } from "./codemod"

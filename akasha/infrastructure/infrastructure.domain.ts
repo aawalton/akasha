@@ -12,6 +12,7 @@ export const infrastructure = {
     "domain/telemetry",
     "domain/inference",
     "workspace-package/k8s-types",
+    "workspace-package/git-transport",
     "workspace-package/analysis-complexity",
     "workspace-package/comfy",
     "workspace-package/k8s-synth",

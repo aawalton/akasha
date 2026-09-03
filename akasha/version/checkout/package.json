@@ -7,7 +7,6 @@
   },
   "dependencies": {
     "@akasha/git": "workspace:*",
-    "@infra/git-porcelain": "workspace:*",
     "zod": "^4.3.6"
   }
 }

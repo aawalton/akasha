@@ -33,6 +33,7 @@ export const clusterService = {
     "cluster-service/archive-of-worlds-web",
     "cluster-service/audhdalan-web",
     "cluster-service/calendar-sync",
+    "cluster-service/git-transport",
     "cluster-service/smilingjenny-web",
     "cluster-service/temper-web",
     "cluster-service/buildkit",

@@ -21,6 +21,6 @@
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-lua-runner": "workspace:*",
     "@akasha/utils-run": "workspace:*",
-    "@infra/git-porcelain": "workspace:*"
+    "@akasha/git": "workspace:*"
   }
 }
