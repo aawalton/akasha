@@ -29,4 +29,18 @@ export const change = {
       statement: "What is handed to a command that lands is its change kind rather than a boolean.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Atomic Commit",
+      act: "Stage and commit in one call, naming the paths that commit is for.",
+      warrant:
+        "The worktree on main is shared by every agent, so what is staged and not committed is swept up.",
+      aids: [
+        "Reaching for `-a` is not what makes it one call.",
+        "Name the files, never a directory that may grow.",
+        "A command that lands names its own paths for the same reason.",
+      ],
+    },
+  ],
 } as const satisfies Domain
