@@ -20,6 +20,7 @@ export const storyEngine = {
     "page-type/story-wiki-entry",
     "page-type/story-build",
     "page-type/story-decision",
+    "page-type/named-event",
     "domain/world-mechanics",
     "workspace-package/story-engine-core",
     "workspace-package/story-ui",
