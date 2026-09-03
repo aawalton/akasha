@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const sessionTrackingDeclaresFilesNoneSoThePageRoadRefusesItByDesign = {
+  id: "01a06896-07c6-7dfb-bb8c-274844fbbfec",
+  pageTypeSlug: "finding",
+  slug: "session-tracking-declares-files-none-so-the-page-road-refuses-it-by-design",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`safety-reading-service` and `capacity-reading-service` fail on ``session-tracking` names no page type whose pages are files`. This is neither the registry's markdown blindness nor a regression: `files: none` has stood on `session-tracking.page-type.md` since 2026-08-27. Sessions are rows beside a day, so `soleRepoOf` answers null and `whereFor` returns null by design. The refusal is literally true and the reader is on the page road instead of the rows road.",
+  evidence:
+    "Measured 2026-09-03 12:35-12:41 MDT at HEAD c740276920, from the services' own journals rather than from a probe.\n\nTHE CALLERS. `journalctl --user -u safety-reading-service` at 12:35:24 and 12:40:29: `finding the open session: `session-tracking` names no page type whose pages are files`, exit 1. `capacity-reading-service` at 12:40:33: `listing the sessions of a day: ...`, exit 1. Both strings are raised at `tools/lib/tracking/day-place.ts:255` and `:282`, which call `askSessions` -> `askComposed({page-type: session-tracking})`.\n\nTHE CAUSE, probed. `registryOf` holds `session-tracking` with `filed: []`, so `soleRepoOf` is null and `whereFor(roots,\"session-tracking\",...)` returns null. `filedIn` returns `[]` for the literal `files: none`.\n\nNOT A REGRESSION, checked by timestamp rather than by plausibility. `git log -p` on the file shows `files: none` landing 2026-08-27 at 0197994c16, removed with the whole file at 11:44 today, and restored unchanged at 12:39:44 by 7619c46d13. It has never held anything else. I had expected a regression and the history refuted it.\n\nTHE READER IS WRONG, NOT THE DECLARATION. The doc comment above `askSessions` states the query works `because the session-tracking page type names both places in its files:`. It names none, and never did.\n\nWHAT MOVED WHILE I WATCHED. At 12:35 activity- and capacity-reading failed on `daily-tracking`; after 7619c46d13 both moved past it. `inbox-reading-service` returned to exit 0 at 12:40:32, taking 2 readings, so Alan's inbox tile is no longer a false zero.\n\nNot measured: whether these two ever resolved by this road, or how sessions should be reached instead.",
+} as const satisfies Finding

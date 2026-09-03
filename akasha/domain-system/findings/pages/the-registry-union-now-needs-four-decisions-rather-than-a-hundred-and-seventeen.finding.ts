@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theRegistryUnionNowNeedsFourDecisionsRatherThanAHundredAndSeventeen = {
+  id: "01a06896-07c5-7e4d-b16b-be2e825d6245",
+  pageTypeSlug: "finding",
+  slug: "the-registry-union-now-needs-four-decisions-rather-than-a-hundred-and-seventeen",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`the-page-type-registry-gap-is-duplicate-declarations-rather-than-missing-types` left `registryOf` untouched because unioning the markdown and akasha page types would pick a winner for 117 slugs. That count was measured 2026-09-02 and is now 4. `pages/page-type/` holds 6 markdown types against 435 akasha ones, so the union it declined is nearly free — but three hazards it named still stand and one of them fails silently.",
+  evidence:
+    "Measured 2026-09-03 at HEAD c740276920 by running the reader, not by reading it.\n\nTHE REGISTRY TODAY. `registryOf(diskFileTree(resolveRoots()))` answers 6 types: alert, daily-tracking, food-entry, message, seat-conditions, session-tracking. The earlier finding measured 368-372. The migration has ablated the rest.\n\nTHE PARTITION. `git ls-files 'pages/page-type/*.page-type.md'` is 6; `*.page-type.ts` under `akasha/` is 435. In both: 4 — alert, food-entry, message, seat-conditions. Markdown-only: 2 — daily-tracking, session-tracking. Akasha-only: 431. So the 117 per-slug decisions about which declaration is the page type are now 4, and the 431 need no decision at all because nothing competes with them.\n\nWHAT STILL STANDS FROM THAT FINDING, none of it retracted. `shapeMarkOf` derives the answer-cache mark from `.md` basenames and `git ls-files -- '*.page-type.md'`, so a registry taking in `.ts` reads outside its own mark and goes stale in silence — this is the dangerous one, because it is a wrong answer rather than a refusal. `placesOf` turns `filed: [{repo, place: null}]` into `pages/<slug>/**/*.<slug>.md`, a path for a file that cannot exist, which `page-write-where.ts:29-42` records as having already cost fourteen callers. And `claimant` would newly resolve `.ts` files across slugs `relations-resolve` skips today.\n\nWHY I DID NOT MAKE THE CHANGE. It is the root of a live system: a running editor window writes through `registryOf` every 250ms, seven workstation-service timers read through it every five minutes, and a mechanical landing runs no check. The cheap half is real; the silent-staleness hazard needs an audit I am not permitted to run.",
+} as const satisfies Finding
