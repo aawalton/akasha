@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const trueGazeOfTheGorgon = {
   id: "01a0657d-0317-7e56-a96b-cc966f8dc189",

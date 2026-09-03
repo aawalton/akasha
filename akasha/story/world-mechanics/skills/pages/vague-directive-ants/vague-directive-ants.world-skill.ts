@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const vagueDirectiveAnts = {
   id: "01a0657d-0320-74a1-a63f-072f10eb0ce4",

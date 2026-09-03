@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const whereIMNeededIAm6Locations = {
   id: "01a0657d-032d-733f-a1e8-c0f9d5c02bd3",

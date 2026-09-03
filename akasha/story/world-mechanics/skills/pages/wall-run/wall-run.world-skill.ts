@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const wallRun = {
   id: "01a0657d-032c-7651-bfb7-18d19cb89b42",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const warCryEleleu = {
   id: "01a0657d-032c-7d33-a643-45603f435767",

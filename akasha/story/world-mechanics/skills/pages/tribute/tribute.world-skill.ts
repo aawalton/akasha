@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const tribute = {
   id: "01a0657d-0317-76ac-9265-9fbf4c27bf8b",

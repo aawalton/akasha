@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const wildRiot = {
   id: "01a0657d-032e-7b36-881e-619cfe7e9fc1",

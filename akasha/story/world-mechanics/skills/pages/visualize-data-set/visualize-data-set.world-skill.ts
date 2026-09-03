@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const visualizeDataSet = {
   id: "01a0657d-0320-704f-b50a-eda892ee7663",

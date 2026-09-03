@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const weaponMomentOfTheHalfGiant = {
   id: "01a0657d-032d-7faa-b6d1-2fb7df62c15e",

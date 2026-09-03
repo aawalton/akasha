@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const waterRetainingSoil = {
   id: "01a0657d-032c-7e54-81a0-fbe493a7823d",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const unitFormOfGiants = {
   id: "01a0657d-031f-7b7a-b3eb-a5d5f4546192",

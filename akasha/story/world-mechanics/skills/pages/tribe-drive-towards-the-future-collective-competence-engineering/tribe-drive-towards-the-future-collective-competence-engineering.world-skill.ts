@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const tribeDriveTowardsTheFutureCollectiveCompetenceEngineering = {
   id: "01a0657d-0316-763f-bc02-036110c43c69",

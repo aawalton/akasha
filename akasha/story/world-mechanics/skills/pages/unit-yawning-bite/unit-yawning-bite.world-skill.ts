@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const unitYawningBite = {
   id: "01a0657d-031f-7e65-a1bc-459bbfbea6a7",

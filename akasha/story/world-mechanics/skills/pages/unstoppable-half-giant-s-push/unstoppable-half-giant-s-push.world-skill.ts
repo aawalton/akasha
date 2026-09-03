@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const unstoppableHalfGiantSPush = {
   id: "01a0657d-031f-75ab-a214-5a55adc5fea3",

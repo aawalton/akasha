@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const unleashSinsGluttony = {
   id: "01a0657d-031f-79d8-b520-2788d38175e0",

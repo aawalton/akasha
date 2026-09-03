@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const unitChampionsOfTheBrassDragon = {
   id: "01a0657d-031f-765f-b9f5-8cff6f331c12",

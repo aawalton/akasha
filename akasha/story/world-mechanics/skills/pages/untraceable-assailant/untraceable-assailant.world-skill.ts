@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const untraceableAssailant = {
   id: "01a0657d-0320-70ba-a204-3e9fdbc8dfb0",

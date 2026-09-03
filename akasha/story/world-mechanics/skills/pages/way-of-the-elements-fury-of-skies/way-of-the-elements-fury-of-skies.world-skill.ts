@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const wayOfTheElementsFuryOfSkies = {
   id: "01a0657d-032c-7004-9089-d9a0779125c2",

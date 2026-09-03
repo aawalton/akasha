@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const wearMyIntegrity = {
   id: "01a0657d-032d-7e58-8eb7-d564c493c402",

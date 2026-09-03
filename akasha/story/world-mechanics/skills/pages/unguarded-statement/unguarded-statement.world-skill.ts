@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const unguardedStatement = {
   id: "01a0657d-031e-7fdd-9ab7-e55453865bf8",

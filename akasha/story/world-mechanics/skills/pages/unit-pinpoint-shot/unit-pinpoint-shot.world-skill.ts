@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const unitPinpointShot = {
   id: "01a0657d-031f-7d54-a2d0-7770ccd87632",

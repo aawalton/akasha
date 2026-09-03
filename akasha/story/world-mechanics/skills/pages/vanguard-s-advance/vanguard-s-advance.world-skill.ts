@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const vanguardSAdvance = {
   id: "01a0657d-0320-7968-9f0a-8a74fae73eb8",

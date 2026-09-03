@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const untearableDough = {
   id: "01a0657d-031f-7948-949b-6d6f8bee2722",

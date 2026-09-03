@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const vanityLighterThanSheLooks = {
   id: "01a0657d-0320-76fa-b258-9930c323dc45",

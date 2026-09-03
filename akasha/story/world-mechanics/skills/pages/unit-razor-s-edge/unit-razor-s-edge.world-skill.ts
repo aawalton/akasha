@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const unitRazorSEdge = {
   id: "01a0657d-031f-7c66-802b-8c454f7d3728",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const victorSPush = {
   id: "01a0657d-0320-7c53-99ef-f72331de30e8",

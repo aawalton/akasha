@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const vowOfRivalsFirstBlow = {
   id: "01a0657d-032c-7889-b412-e0d7001676a6",

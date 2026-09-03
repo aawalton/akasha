@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const whirlwindFollowup = {
   id: "01a0657d-032e-7848-b67f-6138b7039138",

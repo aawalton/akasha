@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const wildOvergrowth = {
   id: "01a0657d-032e-72ef-922c-15e93c111a0a",

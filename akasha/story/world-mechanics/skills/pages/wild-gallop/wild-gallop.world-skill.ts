@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const wildGallop = {
   id: "01a0657d-032e-7c92-91fe-b671f673695e",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const undyingLoyalty = {
   id: "01a0657d-031e-79c2-810f-6342e7c85074",

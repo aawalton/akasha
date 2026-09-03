@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const unitStoneSkin = {
   id: "01a0657d-031f-79f1-a021-71914590ece7",

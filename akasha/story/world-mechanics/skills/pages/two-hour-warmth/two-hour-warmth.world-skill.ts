@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const twoHourWarmth = {
   id: "01a0657d-0317-798f-981d-839bb59100cf",

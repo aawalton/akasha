@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const weatherResistantStructure = {
   id: "01a0657d-032d-70cc-b613-ebbebdc4df38",

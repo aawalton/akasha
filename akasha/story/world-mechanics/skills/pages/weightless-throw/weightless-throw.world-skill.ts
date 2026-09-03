@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const weightlessThrow = {
   id: "01a0657d-032d-7d62-bc8c-903c69742e6d",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const undeadBonerattlerCharge = {
   id: "01a0657d-031e-7057-be7e-2fded2dd0d2e",

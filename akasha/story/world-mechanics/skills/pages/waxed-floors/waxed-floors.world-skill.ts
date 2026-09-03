@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const waxedFloors = {
   id: "01a0657d-032c-7361-9e5f-b72992269539",

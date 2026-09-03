@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const tribeUnstoppableCharge = {
   id: "01a0657d-0317-7f4d-8de4-e3b99dff9188",

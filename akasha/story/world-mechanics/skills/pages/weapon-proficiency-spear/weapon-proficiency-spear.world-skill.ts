@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const weaponProficiencySpear = {
   id: "01a0657d-032d-7126-b1d4-07078584a312",

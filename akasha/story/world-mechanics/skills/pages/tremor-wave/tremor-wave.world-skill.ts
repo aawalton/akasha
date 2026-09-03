@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const tremorWave = {
   id: "01a0657d-0316-744d-81b6-9f4e3635a734",

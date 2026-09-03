@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const waypoint = {
   id: "01a0657d-032c-7d31-9641-3785990a497d",

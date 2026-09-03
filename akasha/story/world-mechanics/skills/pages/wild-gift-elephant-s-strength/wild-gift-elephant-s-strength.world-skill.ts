@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const wildGiftElephantSStrength = {
   id: "01a0657d-032e-7723-a96f-5b384ca27dc7",

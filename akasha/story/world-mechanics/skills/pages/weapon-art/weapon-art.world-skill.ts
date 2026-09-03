@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const weaponArt = {
   id: "01a0657d-032d-742a-af9f-7bbde668ee63",

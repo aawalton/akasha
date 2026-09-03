@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const unitBigBelch = {
   id: "01a0657d-031e-7231-972f-b1df436aba98",

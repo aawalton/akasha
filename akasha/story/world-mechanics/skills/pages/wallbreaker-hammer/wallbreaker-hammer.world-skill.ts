@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const wallbreakerHammer = {
   id: "01a0657d-032c-7fca-b89e-fb7282a46554",

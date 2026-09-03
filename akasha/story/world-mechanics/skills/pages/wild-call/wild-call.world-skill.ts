@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const wildCall = {
   id: "01a0657d-032e-750a-b177-f678cf3f236b",

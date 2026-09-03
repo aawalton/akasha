@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const wildAffinity = {
   id: "01a0657d-032e-70c7-a238-309eb38e8f23",

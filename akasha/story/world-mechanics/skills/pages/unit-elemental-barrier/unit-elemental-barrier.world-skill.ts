@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const unitElementalBarrier = {
   id: "01a0657d-031f-7814-a964-5b05e19f10bb",
