@@ -1,8 +1,8 @@
 #!/usr/bin/env bun
 
-import { refuseRetired } from "../lib/retired.ts"
-
-import { classifyExtension } from "../../../../file-kind/file-kind.ts"
+import { classifyExtension } from "@akasha/code-system/file-kind"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
 import { alanwaltonIosSeamFiles, readAlanwaltonIosSeam } from "../lib/alanwalton-ios-seam.ts"
 import {
@@ -10,9 +10,8 @@ import {
   type HealthKitReadOnlyViolation,
   scanHealthKitScript,
 } from "../lib/healthkit-read-only-violations.ts"
-import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
+import { refuseRetired } from "../lib/retired.ts"
 
 if (import.meta.main) refuseRetired()
 

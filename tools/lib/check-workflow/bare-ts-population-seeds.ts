@@ -1,4 +1,4 @@
-import { classifyExtension, type FileKind } from "../../../file-kind/file-kind.ts"
+import { classifyExtension, type FileKind } from "@akasha/code-system/file-kind"
 import type { PopulationEntry, ScopedPopulation } from "../graph/queries/membership.ts"
 
 export interface PopulationSeedSubject {

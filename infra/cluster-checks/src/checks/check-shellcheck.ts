@@ -1,20 +1,22 @@
 #!/usr/bin/env bun
 
-import { refuseRetired } from "../lib/retired.ts"
-
 import { resolve } from "node:path"
-import { classifyExtension } from "../../../../file-kind/file-kind.ts"
+import { classifyExtension } from "@akasha/code-system/file-kind"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../../../tools/lib/check-workflow/violation-reporter"
 import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
+import { refuseRetired } from "../lib/retired.ts"
 import {
   formatShellcheckViolation,
   readShellcheckRun,
   SHELLCHECK_ARGV,
   type ShellcheckViolation,
 } from "../lib/shellcheck-violations.ts"
-import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 if (import.meta.main) refuseRetired()
 
