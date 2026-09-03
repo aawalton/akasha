@@ -53,6 +53,18 @@ export const seatStating = {
       statement: "The address a seat's page carries is read from that page rather than composed.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A stop takes away the page an address is read from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat states the address the seat last carried as well as the slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The address a seat states is kept where the page carrying that address has gone.",
+    },
+    {
       invariantKind: "departure",
       statement: "A body matching the file the body would land in is not landed again.",
     },

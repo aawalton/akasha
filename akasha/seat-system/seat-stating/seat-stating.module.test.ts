@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { rootOf } from "@akasha/command-system/rooting"
 import {
+  addressFor,
   assignedKinds,
   assignmentAddressOf,
   assignmentStatedIn,
@@ -11,10 +12,13 @@ import {
 
 const ROOT = rootOf(import.meta.dir)
 
+const NO_PAGE = ""
+
 const WHOLE: SeatStated = {
   agentId: "01a05e00-0000-7000-8000-000000000001",
   persona: "athena",
   domain: "agent-harness",
+  assignment: null,
   role: "definer",
   principal: "alan",
   mode: "interactive",
@@ -103,6 +107,36 @@ test("the address the page states is what the body carries", () => {
 
 test("a body handed no address off a page is addressed under the kind carrying its slug", () => {
   expect(seatBody(WHOLE, "athena", ROOT)).toContain('assignmentSlug: "domain/agent-harness"')
+})
+
+test("a seat keeps the address it stated where a stop has taken its page away", () => {
+  const stopped = {
+    ...WHOLE,
+    domain: "akasha-migration",
+    assignment: "initiative/akasha-migration",
+  }
+  expect(addressFor(stopped, NO_PAGE, ROOT, false)).toBe("initiative/akasha-migration")
+  expect(seatBody(stopped, "akasha", ROOT, addressFor(stopped, NO_PAGE, ROOT, false))).toContain(
+    'assignmentSlug: "initiative/akasha-migration"'
+  )
+})
+
+test("a seat that stated no address is addressed under the kind carrying its slug", () => {
+  const bare = { ...WHOLE, domain: "akasha-migration" }
+  expect(addressFor(bare, NO_PAGE, ROOT, false)).toBeNull()
+  expect(seatBody(bare, "akasha", ROOT, addressFor(bare, NO_PAGE, ROOT, false))).toContain(
+    'assignmentSlug: "domain/akasha-migration"'
+  )
+})
+
+test("an address stated before a stop goes where the seat states another slug", () => {
+  expect(
+    addressFor({ ...WHOLE, assignment: "initiative/akasha-migration" }, NO_PAGE, ROOT, false)
+  ).toBeNull()
+})
+
+test("a seat short of a domain is addressed as nothing", () => {
+  expect(addressFor(short("domain"), NO_PAGE, ROOT, false)).toBeNull()
 })
 
 test("a slug no page type carries is addressed as a domain", () => {

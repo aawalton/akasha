@@ -1,9 +1,9 @@
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { DECLARATIONS, type Declaration } from "./attributes.ts"
 import { FLEET } from "./compose-seat-name.ts"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { initiativeStemOf } from "./seat-initiative.ts"
 import { akashaSeatInHistory, akashaSeatNamedInHistory } from "./seat-akasha-history.ts"
+import { initiativeStemOf } from "./seat-initiative.ts"
 
 // WHAT A SEAT SAID BEFORE ITS PAGE WENT, READ FROM AKASHA AND NOWHERE ELSE. Every reader here asked
 // akasha first and fell through to the old store behind it, walking `agent/seat` in git to find a
@@ -20,6 +20,7 @@ const IN_ITS_OWN_FIELD: readonly Declaration[] = ["initiative", "on-call"]
 export interface StatedFromHistory {
   readonly commit: string
   readonly set: Partial<Record<Declaration, string>>
+  readonly assignment: string | null
   readonly principal: string | null
   readonly onCall: boolean
   readonly initiative: string | null
@@ -48,7 +49,6 @@ export interface PageInHistory {
   readonly frontmatter: Record<string, unknown>
 }
 
-
 // AKASHA'S HISTORY IS ASKED FIRST, because it is the one still being written. The old pages stopped
 // changing when the write moved, so what they hold is whatever a seat last said before that, and a
 // seat that has stated anything since would be answered with the older truth.
@@ -75,7 +75,16 @@ export function statedFromHistory(seatName: string, roots: Roots): StatedFromHis
   return {
     commit,
     set,
-    principal: textField(frontmatter, "person-slug") ?? textField(frontmatter, "principal-seat-name"),
+    // THE ADDRESS IS CARRIED WHOLE AS WELL AS STRIPPED. An attribute takes the slug alone, so `set`
+    // gets the stripped one and always will. The seat page is the only place the page type an
+    // assignment names is written down, and a stop takes that page away — so a start read the slug
+    // back and had to guess the page type, and a slug two page types carry is guessed wrong.
+    // `akasha-migration` is a domain and an initiative both: a seat assigned the initiative came
+    // back assigned the domain every time it stopped, and the intent and the constraints the
+    // initiative carries went with it. This is what the page said, for the writer to keep.
+    assignment: textField(frontmatter, "domain-slug"),
+    principal:
+      textField(frontmatter, "person-slug") ?? textField(frontmatter, "principal-seat-name"),
     onCall: frontmatter["on-call"] === true,
     initiative: bare === null ? null : (initiativeStemOf(bare, rootFor(roots, AKASHA)) ?? bare),
     mode: textField(frontmatter, START_MODE_KEY),
@@ -84,8 +93,6 @@ export function statedFromHistory(seatName: string, roots: Roots): StatedFromHis
 }
 
 const PRINCIPAL_KEY = "principal-seat-name"
-
-
 
 export function nameFromHistory(agentId: string, roots: Roots): string | null {
   const inAkasha = akashaSeatInHistory(agentId, rootFor(roots, AKASHA))
@@ -118,7 +125,6 @@ export function fieldFromHistory(agentId: string, roots: Roots, key: string): st
   }
   return null
 }
-
 
 export function parentFromHistory(agentId: string, roots: Roots): string | null {
   return fieldFromHistory(agentId, roots, PRINCIPAL_KEY)

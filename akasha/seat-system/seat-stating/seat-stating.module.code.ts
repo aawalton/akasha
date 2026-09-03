@@ -23,6 +23,7 @@ export type SeatStated = {
   readonly agentId: string
   readonly persona: string | null
   readonly domain: string | null
+  readonly assignment: string | null
   readonly role: string | null
   readonly principal: string | null
   readonly mode: string | null
@@ -104,11 +105,22 @@ export type Stating =
   | { readonly kind: "unstated" }
   | { readonly kind: "refused"; readonly said: string }
 
+export function addressFor(
+  stated: SeatStated,
+  page: string,
+  root: string,
+  there: boolean
+): string | null {
+  const { domain, assignment } = stated
+  if (domain === null) return null
+  const onPage = there ? assignmentStatedOn(page, root, domain) : null
+  return onPage ?? assignmentStatedIn(assignment, domain)
+}
+
 export function statedSeat(root: string, stated: SeatStated, seatName: string): Stating {
   const page = seatPathForName(seatName)
   const there = existsSync(join(root, page))
-  const addressed =
-    there && stated.domain !== null ? assignmentStatedOn(page, root, stated.domain) : null
+  const addressed = addressFor(stated, page, root, there)
   const body = seatBody(stated, seatName, root, addressed)
   if (body === null) return { kind: "unstated" }
   if (there && readFileSync(join(root, page), "utf8") === body) {

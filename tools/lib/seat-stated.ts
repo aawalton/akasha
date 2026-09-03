@@ -1,15 +1,14 @@
-
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import * as declarations from "./attributes.ts"
 import type { Principal } from "./compose-seat-name.ts"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { type StatedFromHistory, statedFromHistory } from "./seat-page-history.ts"
-import { onCallOf } from "./seat-on-call.ts"
 import { type FlexRecord, flexOf } from "./seat-flex.ts"
 import { type InitiativeRecord, initiativeOf } from "./seat-initiative.ts"
-import { type PrincipalRecord, principalOf } from "./seat-principal.ts"
-import { type RegistrationRecord, registrationAccountOf } from "./seat-registration-account.ts"
+import { onCallOf } from "./seat-on-call.ts"
+import { type StatedFromHistory, statedFromHistory } from "./seat-page-history.ts"
 import { pageTextOf } from "./seat-page-values.ts"
+import { type PrincipalRecord, principalOf } from "./seat-principal.ts"
 import { backfillSeatRecord } from "./seat-record.ts"
+import { type RegistrationRecord, registrationAccountOf } from "./seat-registration-account.ts"
 import { ROTATED_KEY, rotatedOf } from "./seat-rotated-session.ts"
 import { SESSION_KEY, type SessionRecord, sessionOf } from "./seat-session.ts"
 import { TRANSCRIPT_KEY, type TranscriptRecord, transcriptOf } from "./seat-transcript-path.ts"
@@ -23,6 +22,10 @@ export function backfillObserved(agent: string): void {
 export interface Stated {
   readonly agent: string
   readonly attributes: declarations.Attributes
+  // The assignment as the page addresses it, page type and slug both, where `attributes.domain`
+  // holds the slug alone. A slug two page types carry cannot say which of the two it was assigned
+  // under, so the writer keeps this rather than addressing the slug again.
+  readonly assignment: string | null
   readonly flex: FlexRecord | null
   readonly mode: declarations.Mode
   readonly recordedMode: declarations.ModeRecord | null
@@ -39,6 +42,7 @@ export function statedOf(agent: string): Stated {
   return {
     agent,
     attributes: declarations.attributesOf(agent),
+    assignment: pageTextOf(agent, "domain-slug"),
     flex: flexOf(agent),
     mode: declarations.modeOf(agent),
     recordedMode: declarations.recordedModeOf(agent),
@@ -86,8 +90,10 @@ export function mergeHeld(standing: Stated, held: StatedFromHistory | null): Sta
   return {
     ...standing,
     attributes,
-    principal:
-      standing.principal ?? (principal === null ? null : { value: principal }),
+    // What the page said before the stop took it away, which is where the address is read from once
+    // there is no page to read. What stands wins, as it does for every other value here.
+    assignment: standing.assignment ?? held.assignment,
+    principal: standing.principal ?? (principal === null ? null : { value: principal }),
     onCall: standing.onCall || held.onCall,
     initiative:
       standing.initiative ?? (held.initiative === null ? null : { value: held.initiative }),
@@ -96,8 +102,7 @@ export function mergeHeld(standing: Stated, held: StatedFromHistory | null): Sta
     // composing to nothing.
     recordedMode: standing.recordedMode ?? (heldMode === null ? null : { value: heldMode }),
     mode: standing.recordedMode === null && heldMode !== null ? heldMode : standing.mode,
-    registration:
-      standing.registration ?? (held.account === null ? null : { value: held.account }),
+    registration: standing.registration ?? (held.account === null ? null : { value: held.account }),
   }
 }
 
@@ -119,10 +124,11 @@ export interface Said {
 export function statedNow(agent: string, attributes: declarations.Attributes, said: Said): Stated {
   const stood = statedOf(agent)
   const gone = new Set(said.clear)
-  const kept = <T,>(key: string, held: T | null): T | null => (gone.has(key) ? null : held)
+  const kept = <T>(key: string, held: T | null): T | null => (gone.has(key) ? null : held)
   return {
     agent,
     attributes,
+    assignment: stood.assignment,
     flex: said.flex === null ? kept("flex", stood.flex) : { value: said.flex },
     mode: said.mode ?? stood.mode,
     recordedMode: said.mode === null ? stood.recordedMode : { value: said.mode },
@@ -130,8 +136,7 @@ export function statedNow(agent: string, attributes: declarations.Attributes, sa
     onCall: said.onCall || (!gone.has("on-call") && stood.onCall),
     initiative:
       said.initiative === null ? kept("initiative", stood.initiative) : { value: said.initiative },
-    registration:
-      said.registration === null ? stood.registration : { value: said.registration },
+    registration: said.registration === null ? stood.registration : { value: said.registration },
     session: stood.session,
     rotated: stood.rotated,
     transcript: stood.transcript,

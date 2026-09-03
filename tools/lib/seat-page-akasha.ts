@@ -34,6 +34,7 @@ function seatStatedFrom(stated: Stated, parentName: string | null): SeatStated {
     agentId: stated.agent,
     persona: stated.attributes.persona?.slug ?? null,
     domain: stated.attributes.domain?.slug ?? null,
+    assignment: stated.assignment,
     role: stated.attributes.role?.slug ?? null,
     principal: stated.principal?.value ?? null,
     mode: stated.recordedMode?.value ?? null,
