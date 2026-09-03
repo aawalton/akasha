@@ -6,7 +6,6 @@
     "akasha/**",
     "collections/exercises",
     "editor-extension",
-    "infra/ci-workflows",
     "infra/scripts",
     "readouts",
     "shared/vscode-typings",
