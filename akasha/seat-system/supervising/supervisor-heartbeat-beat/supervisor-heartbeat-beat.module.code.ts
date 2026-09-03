@@ -1,4 +1,4 @@
-import { akashaRoot, resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import {
   getCurrentAgentIdForSelfHeal,
@@ -11,20 +11,18 @@ import { composedNameOf } from "@tools/lib/seat-rename"
 import { clearRotated } from "@tools/lib/seat-rotated-session"
 import { keepSession } from "@tools/lib/seat-session"
 import { keepTranscript } from "@tools/lib/seat-transcript-path"
+import type { BeatReport } from "../../seat-page-beat/seat-page-beat.module.code.ts"
 import {
   formatSeatProcKey,
   readSeatProcKey,
 } from "../../seat-proc-key/seat-proc-key.module.code.ts"
 
-const BEAT = "seat-page-beat.ts"
-
-export interface BeatReport {
-  readonly outcome: Outcome
-  readonly seat: string | null
-}
+// The specifier here is the one the type import of BeatReport above holds, so moving the
+// beat module is a diagnostic rather than a path that is not there when a beat spawns.
+const BEAT = new URL("../../seat-page-beat/seat-page-beat.module.code.ts", import.meta.url).pathname
 
 function beatArgv(args: readonly string[]): readonly string[] {
-  return [`${akashaRoot()}/tools/${BEAT}`, ...args]
+  return [BEAT, ...args]
 }
 
 function reportFrom(output: string, code: number): BeatReport {

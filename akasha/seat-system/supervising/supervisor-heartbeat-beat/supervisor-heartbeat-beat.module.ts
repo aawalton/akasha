@@ -10,7 +10,7 @@ export const supervisorHeartbeatBeat = {
     {
       invariantKind: "departure",
       statement:
-        "Every write here runs tools/seat-page-beat.ts as a child rather than writing the page itself.",
+        "Every write here runs the seat page beat as a child rather than writing the page itself.",
     },
     {
       invariantKind: "departure",
@@ -41,8 +41,13 @@ export const supervisorHeartbeatBeat = {
       statement: "The process key is written beside the seat, and a failure there is logged alone.",
     },
     {
-      invariantKind: "gap",
-      statement: "The beat script is reached in the old tree at tools/seat-page-beat.ts.",
+      invariantKind: "departure",
+      statement: "The beat module is reached beside this one rather than by a path from the root.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The report's type is taken from the beat module, so a move of it is a diagnostic.",
     },
   ],
 } as const satisfies Module
