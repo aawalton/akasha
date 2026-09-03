@@ -1,13 +1,12 @@
-#!/usr/bin/env bun
-
 import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, readFileSync, rmSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
+import { codeRoot } from "@akasha/pages-system/code-root"
 import { z } from "zod"
 
 const PKG_JSON_PARTIAL_SCHEMA = z.object({ workspaces: z.unknown().optional() }).passthrough()
 
-const PREFIX = "[clean-stale-folders]"
+const PREFIX = "[stale-folders]"
 const SKIPPED_DIR_NAMES = new Set([".git", "node_modules"])
 
 export interface CliArgs {
@@ -23,7 +22,7 @@ export interface OrphanFolder {
 }
 
 function parseArgs(argv: readonly string[]): CliArgs {
-  let repoRoot = resolve(import.meta.dir, "../../../..")
+  let repoRoot = codeRoot()
   let execute = false
   let json = false
   for (let i = 0; i < argv.length; i++) {
@@ -41,7 +40,7 @@ function parseArgs(argv: readonly string[]): CliArgs {
     } else {
       console.error(`${PREFIX} unknown argument: ${a}`)
       console.error(
-        `${PREFIX} usage: clean-stale-folders.ts [--execute] [--json] [--repo-root <dir>]`
+        `${PREFIX} usage: akasha stale-folders [--execute] [--json] [--repo-root <dir>]`
       )
       process.exit(2)
     }

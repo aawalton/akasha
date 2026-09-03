@@ -7,7 +7,12 @@ export const workspacePaths = {
   definition:
     "which folders of a repository the package manager installs, read off the root manifest",
   manifest: "json",
-  partSlugs: ["module/workspace-dirs", "module/workspace-bins"],
+  partSlugs: [
+    "module/workspace-dirs",
+    "module/workspace-bins",
+    "module/workspace-bins-verifying",
+    "module/stale-folders",
+  ],
   invariants: [
     {
       invariantKind: "departure",

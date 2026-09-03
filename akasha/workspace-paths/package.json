@@ -4,10 +4,13 @@
   "type": "module",
   "exports": {
     "./workspace-dirs": "./workspace-dirs/workspace-dirs.module.code.ts",
-    "./workspace-bins": "./workspace-bins/workspace-bins.module.code.ts"
+    "./workspace-bins": "./workspace-bins/workspace-bins.module.code.ts",
+    "./workspace-bins-verifying": "./workspace-bins-verifying/workspace-bins-verifying.module.code.ts",
+    "./stale-folders": "./stale-folders/stale-folders.module.code.ts"
   },
   "dependencies": {
     "@akasha/command-system": "workspace:*",
-    "zod": "^4.3.6"
+    "zod": "^4.3.6",
+    "@akasha/pages-system": "workspace:*"
   }
 }

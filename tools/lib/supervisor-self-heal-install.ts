@@ -1,6 +1,5 @@
-
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
-import { REPO_ROOT } from "./supervisor-config.ts"
+import { REPO_ROOT } from "@akasha/seat-system/supervisor-config"
 
 export type SelfHealInstallResult = { ok: true } | { ok: false; stderr: string }
 export type SelfHealRunInstall = (version: string) => Promise<SelfHealInstallResult>
@@ -25,7 +24,7 @@ export const SINGLE_FLIGHT_FLOCK_SH = [
   'exec "$@"',
 ].join("\n")
 
-const VERIFY_WORKSPACE_BINS = `${ownRepoRoot()}/infra/scripts/src/verify-workspace-bins.ts`
+const VERIFY_WORKSPACE_BINS = `${ownRepoRoot()}/akasha/workspace-paths/workspace-bins-verifying/workspace-bins-verifying.module.code.ts`
 
 export const SINGLE_FLIGHT_INSTALL_SCRIPT = [
   'if [ -e "$1" ]; then exit 0; fi',

@@ -102,7 +102,7 @@
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview -b",
-    "clean:stale-folders": "bun infra/scripts/src/clean-stale-folders.ts"
+    "clean:stale-folders": "bun akasha/workspace-paths/stale-folders/stale-folders.module.code.ts"
   },
   "trustedDependencies": [
     "@biomejs/biome",
