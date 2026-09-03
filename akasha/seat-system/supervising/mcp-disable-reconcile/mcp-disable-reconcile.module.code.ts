@@ -1,5 +1,4 @@
-
-import { shape } from "./shape.ts"
+import { z } from "zod"
 
 export function computeServersToClear(
   declaredServers: readonly string[],
@@ -9,13 +8,9 @@ export function computeServersToClear(
   return disabledServers.filter((name) => declared.has(name))
 }
 
-const ProjectEntrySchema = shape
-  .object({ disabledMcpServers: shape.array(shape.string()).optional() })
-  .passthrough()
+const ProjectEntry = z.looseObject({ disabledMcpServers: z.array(z.string()).optional() })
 
-const ConfigSchema = shape
-  .object({ projects: shape.record(shape.string(), ProjectEntrySchema).optional() })
-  .passthrough()
+const Config = z.looseObject({ projects: z.record(z.string(), ProjectEntry).optional() })
 
 export type ReconcilePlan = {
   clearedServers: readonly string[]
@@ -37,7 +32,7 @@ export function planDisableReconcile(
   let parsed: unknown
   try {
     const raw: unknown = JSON.parse(rawConfigText)
-    if (!ConfigSchema.safeParse(raw).success) return null
+    if (!Config.safeParse(raw).success) return null
     parsed = raw
   } catch {
     return null

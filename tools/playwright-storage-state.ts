@@ -7,6 +7,7 @@ export const tool = {
 import { chmodSync, mkdirSync } from "node:fs"
 import { dirname } from "node:path"
 import { buildBrowserLaunchEnv } from "@akasha/browser-launch-env"
+import { playwrightStorageStatePath } from "@akasha/seat-system/mcp-registry"
 import { isInvalidCredentialsError, signInWithPassword } from "@akasha/supabase-auth/auth"
 import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
 import { createClient } from "@akasha/supabase-client/user-client"
@@ -15,7 +16,6 @@ import {
   ensureThrowawayUser,
 } from "@akasha/supabase-server/throwaway-user"
 import { chromium } from "playwright-core"
-import { playwrightStorageStatePath } from "./lib/mcp-registry.ts"
 import { shape } from "./lib/shape.ts"
 
 const NAVIGATION_TIMEOUT_MS = 60_000

@@ -1,9 +1,9 @@
 import { readFileSync } from "node:fs"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
-import { expandHome } from "@akasha/seat-system/supervisor-claude-config"
-import { HOME_DIR } from "@akasha/seat-system/supervisor-config"
-import type { McpServerConfig } from "./claude-launch-args.ts"
-import { shape } from "./shape.ts"
+import type { McpServerConfig } from "@tools/lib/claude-launch-args"
+import { z } from "zod"
+import { expandHome } from "../supervisor-claude-config/supervisor-claude-config.module.code.ts"
+import { HOME_DIR } from "../supervisor-config/supervisor-config.module.code.ts"
 
 export type { McpServerConfig }
 
@@ -16,18 +16,18 @@ const STORAGE_STATE_TOKEN = "$STORAGE_STATE"
 
 const PLAYWRIGHT = "playwright"
 
-const DeclaredServer = shape.object({
-  type: shape.literal("stdio"),
-  command: shape.string(),
-  args: shape.array(shape.string()),
-  forwardEnv: shape.array(shape.string()).optional(),
-  secretEnv: shape.array(shape.string()).optional(),
-  storageState: shape.string().optional(),
+const DeclaredServer = z.object({
+  type: z.literal("stdio"),
+  command: z.string(),
+  args: z.array(z.string()),
+  forwardEnv: z.array(z.string()).optional(),
+  secretEnv: z.array(z.string()).optional(),
+  storageState: z.string().optional(),
 })
 
-const Declaration = shape.record(shape.string(), DeclaredServer)
+const Declaration = z.record(z.string(), DeclaredServer)
 
-type Declared = ReturnType<typeof Declaration.parse>
+type Declared = z.infer<typeof Declaration>
 
 function declaration(): Declared {
   const at = `${ownRepoRoot()}/${DECLARED}`
@@ -54,7 +54,7 @@ function forwardedEnvArgs(keys: readonly string[]): readonly string[] {
 
 function secretEnv(keys: readonly string[]): Record<string, string | undefined> {
   const env: Record<string, string | undefined> = {}
-  for (const key of keys) env[key] = shape.string().optional().parse(process.env[key])
+  for (const key of keys) env[key] = z.string().optional().parse(process.env[key])
   return env
 }
 
