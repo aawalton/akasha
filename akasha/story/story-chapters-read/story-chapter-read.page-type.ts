@@ -5,6 +5,7 @@ import type { OwnLength } from "../../collection-system/collections/properties/o
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
 import type { ChronologyAnchors } from "./properties/chronology-anchors.page-property-entry.ts"
+import type { MarkedReadAt } from "./properties/marked-read-at.instant-property.ts"
 import type { RemovedAt } from "./properties/removed-at.instant-property.ts"
 
 export type StoryChapterRead = CollectionExternal & {
@@ -13,6 +14,7 @@ export type StoryChapterRead = CollectionExternal & {
   externalLink: ExternalLink
   prose: Prose
   removedAt?: RemovedAt
+  markedReadAt?: MarkedReadAt
   chronologyAnchors?: ChronologyAnchors
 }
 
@@ -56,6 +58,7 @@ export const storyChapterRead = {
     direction: "asc",
   },
   partSlugs: [
+    "instant-property/marked-read-at",
     "instant-property/removed-at",
     "number-property/anchor-beat",
     "number-property/anchor-volume",
@@ -75,6 +78,7 @@ export const storyChapterRead = {
     { pagePropertySlug: "external-link", required: true, many: false },
     { pagePropertySlug: "prose", required: true, many: false },
     { pagePropertySlug: "removed-at", required: false, many: false },
+    { pagePropertySlug: "marked-read-at", required: false, many: false },
     { pagePropertySlug: "chronology-anchors", required: false, many: false },
   ],
   invariants: [
