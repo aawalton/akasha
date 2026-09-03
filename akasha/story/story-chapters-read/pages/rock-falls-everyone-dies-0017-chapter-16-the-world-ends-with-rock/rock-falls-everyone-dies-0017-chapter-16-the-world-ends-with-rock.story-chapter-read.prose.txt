@@ -248,3 +248,48 @@ The hero raised his head, sorrow draining out of him, and he stood up, side by s
 
 The [Magus] rose up from his cellar, abandoning the flasks of wine, and stepped outside. He felt the spring breeze against his skin, and the coming of summer in the air. He smiled.
 
+The dragon looked out of its cave once more, and for a moment, remembered the glories it had achieved in life. It closed its eyes, hearing the roars of old friends in the chorus of the song.
+
+For a brief moment, everyone listened, and the rock wanted to hear more.
+
+But—it was too late.
+
+Gravity, the cruel mistress that it was, once more laughed at the rock. For it had made a mistake. It had worked so hard to make sure none could stop it. It had brought along a greater mass that its [Pivot] could not shift—and now... it could not stop itself.
+
+In an instant, brave though it was against the storm, the brief ember of beauty was snuffed out.
+
+Quest:
+
+Current Altitude: 0
+
+Resolving...
+
+Please wait.
+
+CRACK
+
+Title Activated!
+
+Line Ender Activated!
+
+Gained 20% damage bonus!
+
+Collide activated!
+
+[Unnamed] Dealt 14959787069100 * 108304.2 * 1.2 / 4 = 486062331206766100 dmg to [Novice Bard Rihito] & [Planet Dirt]
+
+New Velocity for [Unnamed]: 6000 m/s
+
+Dealing splash damage to ERROR_OVERLOAD entities
+
+Resolving...
+
+Please wait.
+
+Please wait.
+
+Please wait.
+
+The music had stopped, and so the rock also understood loss. It had never lost anything before. Not really. But the music wasn't coming back, no matter how hard it listened. There was only the brutal symphony of destruction, and then... silence.
+
+But numbers went up.
