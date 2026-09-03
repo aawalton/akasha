@@ -1,0 +1,27 @@
+{
+  "name": "@akasha/talos",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./talos-build-patch": "./talos-build-patch/talos-build-patch.module.code.ts",
+    "./talos-build-schematic": "./talos-build-schematic/talos-build-schematic.module.code.ts",
+    "./talos-build-volumes": "./talos-build-volumes/talos-build-volumes.module.code.ts",
+    "./talos-emit-yaml": "./talos-emit-yaml/talos-emit-yaml.module.code.ts",
+    "./talos-factory": "./talos-factory/talos-factory.module.code.ts",
+    "./talos-nodes": "./talos-nodes/talos-nodes.module.code.ts",
+    "./talos-paths": "./talos-paths/talos-paths.module.code.ts",
+    "./talos-registry-ca": "./talos-registry-ca/talos-registry-ca.module.code.ts",
+    "./talos-schema": "./talos-schema/talos-schema.module.code.ts",
+    "./talos-sops": "./talos-sops/talos-sops.module.code.ts",
+    "./talos-ssh": "./talos-ssh/talos-ssh.module.code.ts",
+    "./talos-wait-for-port": "./talos-wait-for-port/talos-wait-for-port.module.code.ts",
+    "./talosctl": "./talosctl/talosctl.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/errors-core": "workspace:*",
+    "@akasha/k8s-types": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "yaml": "^2.8.0",
+    "zod": "^4.3.6"
+  }
+}

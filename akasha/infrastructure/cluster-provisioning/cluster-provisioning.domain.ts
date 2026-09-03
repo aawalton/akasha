@@ -5,7 +5,7 @@ export const clusterProvisioning = {
   pageTypeSlug: "domain",
   slug: "cluster-provisioning",
   definition: "bringing an empty cluster up to where the pipeline can run",
-  partSlugs: ["domain/bootstrap-layers"],
+  partSlugs: ["domain/bootstrap-layers", "workspace-package/talos"],
   invariants: [
     {
       invariantKind: "absence",

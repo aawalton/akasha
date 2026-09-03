@@ -1,11 +1,11 @@
 export const summary = "Bootstrap etcd on the given Talos control-plane node (one-time)"
 
 import { existsSync } from "node:fs"
-import { clusterTalosconfigPath } from "@infra/talos/lib/paths"
-import { runTalosctl } from "@infra/talos/lib/talosctl"
-import type { CommandHelp } from "../../ops/surface.ts"
+import { clusterTalosconfigPath } from "@akasha/talos/talos-paths"
+import { runTalosctl } from "@akasha/talos/talosctl"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const DEFAULT_CLUSTER_NAME = "main"
 

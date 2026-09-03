@@ -4,20 +4,20 @@ import { existsSync } from "node:fs"
 import { chmod, copyFile, mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
-import { buildNodePatch } from "@infra/talos/build-patch"
-import { buildSchematic } from "@infra/talos/build-schematic"
-import { buildNodeVolumes } from "@infra/talos/build-volumes"
-import { emitDocumentsYaml, emitPatchYaml, emitSchematicYaml } from "@infra/talos/emit-yaml"
-import { registerSchematic } from "@infra/talos/lib/factory"
-import { clusterSecretsSopsPath, clusterTalosconfigPath } from "@infra/talos/lib/paths"
-import { readRegistryCa } from "@infra/talos/lib/registry-ca"
-import { decryptToTmp } from "@infra/talos/lib/sops"
-import { runTalosctl } from "@infra/talos/lib/talosctl"
-import { DEFAULT_CLUSTER_NAME, getCluster, getNode } from "@infra/talos/nodes"
-import type { NodeIntent } from "@infra/talos/schema"
-import type { CommandHelp } from "../../ops/surface.ts"
+import { buildNodePatch } from "@akasha/talos/talos-build-patch"
+import { buildSchematic } from "@akasha/talos/talos-build-schematic"
+import { buildNodeVolumes } from "@akasha/talos/talos-build-volumes"
+import { emitDocumentsYaml, emitPatchYaml, emitSchematicYaml } from "@akasha/talos/talos-emit-yaml"
+import { registerSchematic } from "@akasha/talos/talos-factory"
+import { DEFAULT_CLUSTER_NAME, getCluster, getNode } from "@akasha/talos/talos-nodes"
+import { clusterSecretsSopsPath, clusterTalosconfigPath } from "@akasha/talos/talos-paths"
+import { readRegistryCa } from "@akasha/talos/talos-registry-ca"
+import type { NodeIntent } from "@akasha/talos/talos-schema"
+import { decryptToTmp } from "@akasha/talos/talos-sops"
+import { runTalosctl } from "@akasha/talos/talosctl"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -82,12 +82,9 @@ export default async function talosApply(args: readonly string[]): Promise<void>
   const schematicId = await registerSchematic(emitSchematicYaml(buildSchematic(node)))
   process.stdout.write(`schematic id: ${schematicId}\n`)
 
-  const registryCa =
-    clusterIntent.registryHosts.length > 0 ? readRegistryCa() : undefined
+  const registryCa = clusterIntent.registryHosts.length > 0 ? readRegistryCa() : undefined
 
-  const patchYaml = emitPatchYaml(
-    buildNodePatch(node, clusterIntent, schematicId, { registryCa })
-  )
+  const patchYaml = emitPatchYaml(buildNodePatch(node, clusterIntent, schematicId, { registryCa }))
   const workDir = await mkdtemp(join(tmpdir(), `talos-apply-${node.id}-`))
   const patchPath = join(workDir, "patch.yaml")
   await writeFile(patchPath, patchYaml)

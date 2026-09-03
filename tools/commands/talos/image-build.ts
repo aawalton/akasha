@@ -1,14 +1,15 @@
-export const summary = "POST the node's Image Factory schematic to factory.talos.dev, optionally downloading the installer ISO"
+export const summary =
+  "POST the node's Image Factory schematic to factory.talos.dev, optionally downloading the installer ISO"
 
 import { writeFile } from "node:fs/promises"
-import { buildSchematic } from "@infra/talos/build-schematic"
-import { emitSchematicYaml } from "@infra/talos/emit-yaml"
-import { installerIsoUrl, registerSchematic } from "@infra/talos/lib/factory"
-import { getClusterForNode, getNode } from "@infra/talos/nodes"
-import type { NodeIntent } from "@infra/talos/schema"
-import type { CommandHelp } from "../../ops/surface.ts"
+import { buildSchematic } from "@akasha/talos/talos-build-schematic"
+import { emitSchematicYaml } from "@akasha/talos/talos-emit-yaml"
+import { installerIsoUrl, registerSchematic } from "@akasha/talos/talos-factory"
+import { getClusterForNode, getNode } from "@akasha/talos/talos-nodes"
+import type { NodeIntent } from "@akasha/talos/talos-schema"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

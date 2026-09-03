@@ -3,12 +3,12 @@ export const summary = "Fetch the cluster kubeconfig and write it to a file"
 import { existsSync } from "node:fs"
 import { mkdir } from "node:fs/promises"
 import { dirname } from "node:path"
-import { clusterKubeconfigPath, clusterTalosconfigPath } from "@infra/talos/lib/paths"
-import { runTalosctl } from "@infra/talos/lib/talosctl"
-import { DEFAULT_CLUSTER_NAME } from "@infra/talos/nodes"
-import type { CommandHelp } from "../../ops/surface.ts"
+import { DEFAULT_CLUSTER_NAME } from "@akasha/talos/talos-nodes"
+import { clusterKubeconfigPath, clusterTalosconfigPath } from "@akasha/talos/talos-paths"
+import { runTalosctl } from "@akasha/talos/talosctl"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [],

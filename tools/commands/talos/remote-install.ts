@@ -1,22 +1,23 @@
-export const summary = "SSH to a running Linux host, then kexec into the Talos installer (default) or dd the metal image and reboot"
+export const summary =
+  "SSH to a running Linux host, then kexec into the Talos installer (default) or dd the metal image and reboot"
 
-import { buildSchematic } from "@infra/talos/build-schematic"
-import { emitSchematicYaml } from "@infra/talos/emit-yaml"
+import { buildSchematic } from "@akasha/talos/talos-build-schematic"
+import { emitSchematicYaml } from "@akasha/talos/talos-emit-yaml"
 import {
   metalCmdlineUrl,
   metalInitramfsUrl,
   metalKernelUrl,
   metalRawXzUrl,
   registerSchematic,
-} from "@infra/talos/lib/factory"
-import { runSsh } from "@infra/talos/lib/ssh"
-import { waitForPort } from "@infra/talos/lib/wait-for-port"
-import { getClusterForNode, getNode } from "@infra/talos/nodes"
-import type { NodeIntent } from "@infra/talos/schema"
+} from "@akasha/talos/talos-factory"
+import { getClusterForNode, getNode } from "@akasha/talos/talos-nodes"
+import type { NodeIntent } from "@akasha/talos/talos-schema"
+import { runSsh } from "@akasha/talos/talos-ssh"
+import { waitForPort } from "@akasha/talos/talos-wait-for-port"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const TALOS_MAINTENANCE_PORT = 50000
 

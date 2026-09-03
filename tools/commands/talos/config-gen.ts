@@ -1,15 +1,15 @@
 export const summary = "Emit the Talos machine-config patch YAML for the given node"
 
 import { writeFile } from "node:fs/promises"
-import { PLACEHOLDER_SCHEMATIC_ID, buildNodePatch } from "@infra/talos/build-patch"
-import { buildNodeVolumes } from "@infra/talos/build-volumes"
-import { emitDocumentsYaml } from "@infra/talos/emit-yaml"
-import { readRegistryCa } from "@infra/talos/lib/registry-ca"
-import { getClusterForNode, getNode } from "@infra/talos/nodes"
-import type { NodeIntent } from "@infra/talos/schema"
-import type { CommandHelp } from "../../ops/surface.ts"
+import { buildNodePatch, PLACEHOLDER_SCHEMATIC_ID } from "@akasha/talos/talos-build-patch"
+import { buildNodeVolumes } from "@akasha/talos/talos-build-volumes"
+import { emitDocumentsYaml } from "@akasha/talos/talos-emit-yaml"
+import { getClusterForNode, getNode } from "@akasha/talos/talos-nodes"
+import { readRegistryCa } from "@akasha/talos/talos-registry-ca"
+import type { NodeIntent } from "@akasha/talos/talos-schema"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

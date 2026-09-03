@@ -4,13 +4,13 @@ import { existsSync } from "node:fs"
 import { mkdir, mkdtemp, rm, stat } from "node:fs/promises"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
-import { clusterSecretsSopsPath } from "@infra/talos/lib/paths"
-import { encryptFile } from "@infra/talos/lib/sops"
-import { runTalosctl } from "@infra/talos/lib/talosctl"
-import { DEFAULT_CLUSTER_NAME } from "@infra/talos/nodes"
-import type { CommandHelp } from "../../../ops/surface.ts"
+import { DEFAULT_CLUSTER_NAME } from "@akasha/talos/talos-nodes"
+import { clusterSecretsSopsPath } from "@akasha/talos/talos-paths"
+import { encryptFile } from "@akasha/talos/talos-sops"
+import { runTalosctl } from "@akasha/talos/talosctl"
 import { inputError, operationalError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [],
