@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/analysis-complexity",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./complexity-rows": "./complexity-rows/complexity-rows.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/errors-core": "workspace:*",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/ci-benchmark",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./benchmark-provision": "./benchmark-provision/benchmark-provision.module.code.ts"
+  }
+}

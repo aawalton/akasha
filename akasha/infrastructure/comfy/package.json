@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/comfy",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./comfy-graph": "./comfy-graph/comfy-graph.module.code.ts"
+  }
+}

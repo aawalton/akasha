@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/k8s-synth",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./generated-file": "./generated-file/generated-file.module.code.ts",
+    "./synth-discovery": "./synth-discovery/synth-discovery.module.code.ts",
+    "./synth-loading": "./synth-loading/synth-loading.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}
