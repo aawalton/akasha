@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "77 files, zero migrated; graph acyclic (cycles break on `import type`), 24 leaves first, `harness-call.ts` the hinge at 14 dependents. Taboo judges code as well as prose: do the renames in the ORIGINAL tree first, 3 barred terms, widest 9 exports over 8 importers. `no-class` refuses 2 client classes; 22 void sites are one-token swaps. Never repoint the 4 symlinks before code lands — 14 commands vanish, audit still green. Comment cost: finding f8b23b82ef.",
+        "1 of 77 landed (`terminal-marks`, 1b6a8ef831) — the only file landable alone. 2 of 3 renames done in the ORIGINAL tree, where nothing judges them: f3f078c0cf, 51be81b353; one term left. A module lands ATOMICALLY: manifest, partSlugs and both bodies in ONE `akasha write`, since edit cannot create and the checks refuse either half alone. Then 23 leaves, then topological order; `harness-call.ts` is the hinge at 14 dependents. `no-class` refuses 2 classes. Never repoint the 4 symlinks first.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
