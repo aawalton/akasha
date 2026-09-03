@@ -5,7 +5,6 @@
   "workspaces": [
     "akasha/**",
     "collections/exercises",
-    "collections/litrpg",
     "editor-extension",
     "infra/auth-proxy",
     "infra/ci-workflows",

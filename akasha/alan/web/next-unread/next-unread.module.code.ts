@@ -1,7 +1,7 @@
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { loadStoryCatalog } from "@collections/litrpg/nova/catalog"
-import { selectNextChapter } from "@collections/litrpg/nova/select-internals"
+import { selectNextChapter } from "@akasha/reading/chapter-choosing"
+import { loadStoryCatalog } from "@akasha/reading/story-catalog"
 
 export async function resolveNextUnreadHref(args: { storyId: string }): Promise<string | null> {
   const { storyId } = args
