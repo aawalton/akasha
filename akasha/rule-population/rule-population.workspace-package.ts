@@ -5,6 +5,7 @@ export const rulePopulation = {
   pageTypeSlug: "workspace-package",
   slug: "rule-population",
   definition: "how much of the tree each enforcement rule weighed, and which weighed nothing",
+  partSlugs: ["module/rule-population-sweeping"],
   manifest: "json",
   partSlugs: ["module/rule-population-notice"],
   invariants: [

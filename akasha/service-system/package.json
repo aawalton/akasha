@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./tick-sleeping": "./workstation-services/tick-sleeping/tick-sleeping.module.code.ts",
     "./workstation-service": "./workstation-services/workstation-service.page-type.ts",
     "./image": "./cluster-services/properties/image.text-property.ts",
     "./service-installing": "./workstation-services/service-installing/service-installing.module.code.ts",

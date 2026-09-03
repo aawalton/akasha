@@ -5,7 +5,9 @@ export const sweepLogDays = {
   pageTypeSlug: "workstation-service",
   slug: "sweep-log-days",
   definition: "the service removing every log day past the window a log is kept for",
-  runs: ["bun services/sweep-log-days.ts --remove"],
+  runs: [
+    "bun akasha/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts --remove",
+  ],
   enabled: true,
   systemd: {
     schedule: "daily",

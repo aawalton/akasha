@@ -7,6 +7,7 @@ export const serviceSystem = {
   definition: "what the system runs without being asked each time",
   manifest: "json",
   partSlugs: [
+    "module/tick-sleeping",
     "page-type/service",
     "page-type/workstation-service",
     "page-type/cluster-service",

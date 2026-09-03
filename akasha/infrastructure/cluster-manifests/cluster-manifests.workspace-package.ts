@@ -40,6 +40,7 @@ export const clusterManifests = {
     "module/manifest-yaml-reading",
     "module/metallb-rbac",
     "module/metallb-synth",
+    "module/orphan-sweeping",
     "module/pgbouncer-exporter-manifests",
     "module/pgbouncer-rbac",
     "module/pod-janitor-rbac",

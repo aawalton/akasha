@@ -5,7 +5,9 @@ export const inboxTrackingPoll = {
   pageTypeSlug: "workstation-service",
   slug: "inbox-tracking-poll",
   definition: "the service refreshing the inbox counts the statusline shows",
-  runs: ["bun services/inbox-tracking-poll.ts"],
+  runs: [
+    "bun akasha/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.code.ts",
+  ],
   enabled: true,
   systemd: {
     schedule: "*:0/5",

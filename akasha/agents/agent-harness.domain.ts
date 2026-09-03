@@ -9,6 +9,8 @@ export const agentHarness = {
     "domain/claude-code",
     "domain/message-warrant-announce",
     "domain/message-warrant-blocked",
+    "module/account-upkeep-running",
+    "module/account-upkeep-stall-reading",
   ],
   invariants: [
     {

@@ -5,6 +5,7 @@ export const emailWatch = {
   pageTypeSlug: "workspace-package",
   slug: "email-watch",
   definition: "what becomes of a message that arrives in Alan's inbox",
+  partSlugs: ["module/inbox-watching"],
   manifest: "json",
   partSlugs: ["module/inbox-run"],
   invariants: [

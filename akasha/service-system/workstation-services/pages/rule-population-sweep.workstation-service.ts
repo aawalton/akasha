@@ -5,7 +5,9 @@ export const rulePopulationSweep = {
   pageTypeSlug: "workstation-service",
   slug: "rule-population-sweep",
   definition: "the service reading what every enforcement rule weighed and filing it for `dalla`",
-  runs: ["bun services/rule-population-sweep.ts"],
+  runs: [
+    "bun akasha/rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts",
+  ],
   enabled: true,
   systemd: {
     schedule: "*-*-* 09:53:00",

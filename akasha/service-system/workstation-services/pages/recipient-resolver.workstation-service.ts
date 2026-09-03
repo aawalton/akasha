@@ -6,7 +6,9 @@ export const recipientResolver = {
   slug: "recipient-resolver",
   definition:
     "the service resolving each message's recipient and seating an agent in the seat named",
-  runs: ["bun services/recipient-resolver-daemon.ts"],
+  runs: [
+    "bun akasha/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts",
+  ],
   enabled: true,
   systemd: {
     restartDelaySeconds: 5,

@@ -7,6 +7,11 @@ export const seatSystem = {
   definition: "a place an agent works from, and what stands there while it does",
   manifest: "json",
   partSlugs: [
+    "module/log-day-sweeping",
+    "module/memory-reaping",
+    "module/pending-maintaining",
+    "module/recipient-resolver-running",
+    "module/supervisor-log-sweeping",
     "page-type/agent-settings",
     "page-type/log-source",
     "page-type/message",

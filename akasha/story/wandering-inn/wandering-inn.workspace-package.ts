@@ -5,6 +5,7 @@ export const wanderingInn = {
   pageTypeSlug: "workspace-package",
   slug: "wandering-inn",
   definition: "The Wandering Inn as a website read for its chapters",
+  partSlugs: ["module/wandering-inn-syncing"],
   manifest: "json",
   partSlugs: ["module/chapter", "module/site"],
   invariants: [

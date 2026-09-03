@@ -5,4 +5,5 @@ export const alanwaltonIosNotification = {
   pageTypeSlug: "domain",
   slug: "alanwalton-ios-notification",
   definition: "a notification delivered to a phone by Apple's push service",
+  partSlugs: ["module/push-notifying"],
 } as const satisfies Domain

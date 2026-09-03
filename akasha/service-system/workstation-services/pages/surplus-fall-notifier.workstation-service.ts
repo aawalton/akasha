@@ -5,7 +5,9 @@ export const surplusFallNotifier = {
   pageTypeSlug: "workstation-service",
   slug: "surplus-fall-notifier",
   definition: "the service saying when the day has spent Alan's night down a rung",
-  runs: ["bun services/surplus-fall-notifier.ts"],
+  runs: [
+    "bun akasha/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.code.ts",
+  ],
   enabled: true,
   systemd: {
     restartDelaySeconds: 30,

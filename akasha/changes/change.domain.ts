@@ -7,6 +7,11 @@ export const change = {
   definition: "everything one act edits",
   pluralSlug: "changes",
   partSlugs: [
+    "module/container-dispatching",
+    "module/container-reaping",
+    "module/main-pipeline-creating",
+    "module/pipeline-driving",
+    "module/pipeline-page-sweeping",
     "page-type/workflow-template",
     "page-type/change-kind",
     "page-type/pipeline",

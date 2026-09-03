@@ -5,7 +5,7 @@ export const alanEmailWorker = {
   pageTypeSlug: "workstation-service",
   slug: "alan-email-worker",
   definition: "the service deciding Alan's mail against his email rules",
-  runs: ["bun services/email-watch.ts"],
+  runs: ["bun akasha/email-watch/inbox-watching/inbox-watching.module.code.ts"],
   enabled: true,
   systemd: {
     restartDelaySeconds: 10,

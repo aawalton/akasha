@@ -5,7 +5,9 @@ export const royalRoadSync = {
   pageTypeSlug: "workstation-service",
   slug: "royal-road-sync",
   definition: "the service syncing Royal Road chapters",
-  runs: ["flock -n /var/tmp/royal-road-sync.lock bun services/royal-road-sync.ts --commit"],
+  runs: [
+    "flock -n /var/tmp/royal-road-sync.lock bun akasha/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts --commit",
+  ],
   enabled: true,
   needsSecrets: false,
   systemd: {

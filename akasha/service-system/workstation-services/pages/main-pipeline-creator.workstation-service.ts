@@ -5,7 +5,9 @@ export const mainPipelineCreator = {
   pageTypeSlug: "workstation-service",
   slug: "main-pipeline-creator",
   definition: "the service giving every commit landing on main its pipeline",
-  runs: ["bun services/main-pipeline-creator.ts"],
+  runs: [
+    "bun akasha/changes/pipelines/main-pipeline-creating/main-pipeline-creating.module.code.ts",
+  ],
   enabled: false,
   systemd: {
     restartDelaySeconds: 30,

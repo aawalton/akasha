@@ -5,7 +5,7 @@ export const monarchPoll = {
   pageTypeSlug: "workstation-service",
   slug: "monarch-poll",
   definition: "the service landing the Monarch rows whose update time has moved",
-  runs: ["bun services/monarch-poll.ts"],
+  runs: ["bun akasha/alan/harness/monarch/transaction-polling/transaction-polling.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "minutely",

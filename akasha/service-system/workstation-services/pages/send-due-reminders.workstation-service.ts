@@ -5,7 +5,7 @@ export const sendDueReminders = {
   pageTypeSlug: "workstation-service",
   slug: "send-due-reminders",
   definition: "the service sending each reminder whose schedule has come due",
-  runs: ["bun services/send-due-reminders.ts"],
+  runs: ["bun akasha/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "minutely",

@@ -6,7 +6,9 @@ export const sweepPipelinePages = {
   slug: "sweep-pipeline-pages",
   definition:
     "the service carrying every unfinished pipeline, workflow and step to its next status",
-  runs: ["bun services/sweep-pipeline-pages.ts"],
+  runs: [
+    "bun akasha/changes/pipelines/pipeline-page-sweeping/pipeline-page-sweeping.module.code.ts",
+  ],
   enabled: true,
   systemd: {
     restartDelaySeconds: 10,

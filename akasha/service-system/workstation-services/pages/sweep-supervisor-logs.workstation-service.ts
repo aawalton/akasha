@@ -5,7 +5,9 @@ export const sweepSupervisorLogs = {
   pageTypeSlug: "workstation-service",
   slug: "sweep-supervisor-logs",
   definition: "the service removing the log directory of every supervisor whose seat is gone",
-  runs: ["bun services/sweep-supervisor-logs.ts --remove"],
+  runs: [
+    "bun akasha/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.code.ts --remove",
+  ],
   enabled: true,
   systemd: {
     schedule: "daily",

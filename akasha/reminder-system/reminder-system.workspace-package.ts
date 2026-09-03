@@ -5,6 +5,7 @@ export const reminderSystem = {
   pageTypeSlug: "workspace-package",
   slug: "reminder-system",
   definition: "what is sent to somebody at the times it names",
+  partSlugs: ["module/due-reminder-sending"],
   manifest: "json",
   partSlugs: ["page-type/reminder", "module/reminder-sending"],
   invariants: [

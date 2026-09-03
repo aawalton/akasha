@@ -5,7 +5,7 @@ export const apnsPushNotifier = {
   pageTypeSlug: "workstation-service",
   slug: "apns-push-notifier",
   definition: "the service putting each notification written for Alan on his devices",
-  runs: ["bun services/apns-push-notifier.ts"],
+  runs: ["bun akasha/alan/harness/notifications/push-notifying/push-notifying.module.code.ts"],
   enabled: true,
   systemd: {
     restartDelaySeconds: 10,

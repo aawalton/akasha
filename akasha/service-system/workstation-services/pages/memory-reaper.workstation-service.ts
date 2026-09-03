@@ -5,7 +5,7 @@ export const memoryReaper = {
   pageTypeSlug: "workstation-service",
   slug: "memory-reaper",
   definition: "the service killing an agent tree when the workstation runs short of memory",
-  runs: ["bun services/memory-reaper-daemon.ts"],
+  runs: ["bun akasha/seat-system/supervising/memory-reaping/memory-reaping.module.code.ts"],
   enabled: true,
   systemd: {
     restartDelaySeconds: 5,

@@ -6,6 +6,7 @@ export const surplus = {
   slug: "surplus",
   definition: "how much of Alan's night the day has left him",
   partSlugs: [
+    "module/surplus-fall-notifying",
     "readout/upkeep-surplus",
     "workstation-service/surplus-reading-service",
     "workstation-service/surplus-relay-service",

@@ -5,7 +5,9 @@ export const ciContainerDispatcher = {
   pageTypeSlug: "workstation-service",
   slug: "ci-container-dispatcher",
   definition: "the service placing a step waiting to be dispatched into a container on the cluster",
-  runs: ["env CI_STICKY_PINNING_ENABLED=1 bun services/ci-container-dispatcher.ts"],
+  runs: [
+    "env CI_STICKY_PINNING_ENABLED=1 bun akasha/changes/steps/container-dispatching/container-dispatching.module.code.ts",
+  ],
   enabled: true,
   systemd: {
     restartDelaySeconds: 10,

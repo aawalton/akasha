@@ -5,6 +5,7 @@ export const royalRoad = {
   pageTypeSlug: "workspace-package",
   slug: "royal-road",
   definition: "the pages Royal Road serves, read into fictions and chapters",
+  partSlugs: ["module/royal-road-syncing"],
   manifest: "json",
   partSlugs: ["module/royal-road-pages"],
   invariants: [

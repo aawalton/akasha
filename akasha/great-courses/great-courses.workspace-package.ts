@@ -7,6 +7,7 @@ export const greatCourses = {
   definition: "the Great Courses catalogue, brought into the page store as a page for each course",
   manifest: "json",
   partSlugs: [
+    "module/catalogue-syncing",
     "module/course-types",
     "module/page-query",
     "module/catalogue",

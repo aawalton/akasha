@@ -5,7 +5,9 @@ export const sweepEditorPages = {
   pageTypeSlug: "workstation-service",
   slug: "sweep-editor-pages",
   definition: "the service removing every editor page whose window or terminal is gone",
-  runs: ["bun services/sweep-editor-pages.ts --remove"],
+  runs: [
+    "bun akasha/alan/harness/code-editor/editor-page-sweeping/editor-page-sweeping.module.code.ts --remove",
+  ],
   enabled: true,
   systemd: {
     schedule: "hourly",

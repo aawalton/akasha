@@ -5,7 +5,9 @@ export const orphanedResourcesSweep = {
   pageTypeSlug: "workstation-service",
   slug: "orphaned-resources-sweep",
   definition: "the service saying which live cluster resources no source manifest accounts for",
-  runs: ["bun services/orphaned-resources-sweep.ts"],
+  runs: [
+    "bun akasha/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts",
+  ],
   enabled: true,
   systemd: {
     schedule: "*-*-* 08:41:00",

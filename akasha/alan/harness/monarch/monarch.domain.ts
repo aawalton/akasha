@@ -7,6 +7,8 @@ export const monarch = {
   definition:
     "the outside service that gathers every account Alan holds into one picture of his money",
   partSlugs: [
+    "module/monarch-syncing",
+    "module/transaction-polling",
     "page-type/category-rule",
     "page-type/category-rule-agent",
     "page-type/category-rule-code",

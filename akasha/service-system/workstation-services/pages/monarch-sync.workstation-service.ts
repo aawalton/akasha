@@ -5,7 +5,7 @@ export const monarchSync = {
   pageTypeSlug: "workstation-service",
   slug: "monarch-sync",
   definition: "the service copying the whole of Monarch and comparing the copy against it",
-  runs: ["bun services/monarch-sync.ts"],
+  runs: ["bun akasha/alan/harness/monarch/monarch-syncing/monarch-syncing.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "daily",

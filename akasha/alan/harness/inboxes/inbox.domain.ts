@@ -7,6 +7,7 @@ export const inbox = {
   definition: "the inboxes Alan keeps at empty",
   pluralSlug: "inboxes",
   partSlugs: [
+    "module/inbox-tracking-polling",
     "page-type/email-rule-agent",
     "page-type/email-rule-code",
     "readout/inboxes-email",
