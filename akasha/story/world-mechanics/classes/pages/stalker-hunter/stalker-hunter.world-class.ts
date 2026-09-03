@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const stalkerHunter = {
   id: "01a06586-0a52-72a7-be59-c2daf4117196",

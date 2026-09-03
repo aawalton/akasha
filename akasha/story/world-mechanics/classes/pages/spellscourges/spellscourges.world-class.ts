@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const spellscourges = {
   id: "01a06586-0a50-7ac4-bbcc-b88a16c39fd2",

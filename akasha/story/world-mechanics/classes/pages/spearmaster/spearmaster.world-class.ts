@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const spearmaster = {
   id: "01a06586-0a4f-7b32-b57b-31b4c31d13af",

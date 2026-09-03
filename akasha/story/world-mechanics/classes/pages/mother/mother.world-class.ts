@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const mother = {
   id: "01a0657e-13a3-7572-9149-24d56dde4fad",

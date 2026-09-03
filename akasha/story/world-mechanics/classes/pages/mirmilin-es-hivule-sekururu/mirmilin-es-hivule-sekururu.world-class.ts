@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const mirmilinEsHivuleSekururu = {
   id: "01a0657e-13a2-7e90-bfb0-af76deb9f580",

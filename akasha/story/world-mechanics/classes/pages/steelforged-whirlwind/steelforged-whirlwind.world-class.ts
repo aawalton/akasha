@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const steelforgedWhirlwind = {
   id: "01a06586-0a53-7ed5-abcb-834151de80e7",

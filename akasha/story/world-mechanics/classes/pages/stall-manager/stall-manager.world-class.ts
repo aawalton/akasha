@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const stallManager = {
   id: "01a06586-0a52-727b-ac0f-c63d1ee70eb0",

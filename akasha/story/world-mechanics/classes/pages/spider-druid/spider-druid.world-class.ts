@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const spiderDruid = {
   id: "01a06586-0a50-7ac9-8008-d4520c947956",
