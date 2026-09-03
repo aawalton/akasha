@@ -37,7 +37,7 @@ async function readSource(
 ): Promise<WatcherSyncSourceCounts> {
   const result = await getPages({
     pageTypeSlug,
-    where: [{ key: "userId", eq: userId }],
+    where: [{ key: "accountPage", eq: userId }],
     select: captureKey === undefined ? ["updatedAt"] : ["updatedAt", captureKey],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 1,
