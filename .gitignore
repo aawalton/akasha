@@ -29,6 +29,11 @@ dist/
 !temper/*-addon/**/*.d.ts
 !akasha/**/*.d.ts
 
+# Scratch an agent writes to land a migration and then abandons. Two reached
+# commits before this rule existed, both inside akasha/, so the leak is real
+# rather than hypothetical.
+*.tmp.ts
+
 # Kubernetes manifests synthesized from their TypeScript source.
 *.generated.yaml
 
