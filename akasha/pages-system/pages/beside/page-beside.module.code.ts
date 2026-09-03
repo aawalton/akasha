@@ -1,9 +1,8 @@
 import { existsSync, readdirSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
+import { besideNamed } from "../file-name/page-file-name.module.code.ts"
 
 const TS = ".ts"
-
-const BESIDE = /^[a-z0-9-]+\.[a-z0-9]+$/
 
 export function besideOf(root: string, path: string): readonly string[] {
   if (!path.endsWith(TS)) return []
@@ -14,7 +13,7 @@ export function besideOf(root: string, path: string): readonly string[] {
   const found: string[] = []
   for (const name of readdirSync(full)) {
     if (!name.startsWith(`${stem}.`)) continue
-    if (!BESIDE.test(name.slice(stem.length + 1))) continue
+    if (!besideNamed(name.slice(stem.length + 1))) continue
     found.push(join(dir, name))
   }
   return found.sort()

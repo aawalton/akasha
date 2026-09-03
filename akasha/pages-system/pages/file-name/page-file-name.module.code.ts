@@ -84,8 +84,8 @@ export function partIn(section: string | undefined): number | null {
   return found === null ? null : Number(found[1])
 }
 
-export function sectionedIn(said: Parted): Sectioned | null {
-  let held = said.sections
+export function sectionsIn(sections: readonly string[]): Sectioned | null {
+  let held = sections
   const uncommitted = held.length > 1 && held[held.length - 1] === UNCOMMITTED
   if (uncommitted) held = held.slice(0, -1)
   let part = FIRST_PART
@@ -99,6 +99,19 @@ export function sectionedIn(said: Parted): Sectioned | null {
   const only = held.length === 1 ? held[0] : undefined
   if (only === undefined) return null
   return { propertySlug: only, part, uncommitted }
+}
+
+export function sectionedIn(said: Parted): Sectioned | null {
+  return sectionsIn(said.sections)
+}
+
+export function besideNamed(tail: string): boolean {
+  const parts = tail.split(".")
+  const held = parts[parts.length - 1]
+  if (held === undefined || !HELD_PART.test(held)) return false
+  const sections = parts.slice(0, -1)
+  if (sections.some((one) => !SEGMENT.test(one))) return false
+  return sectionsIn(sections) !== null
 }
 
 function onlyIn(said: Parted): string | undefined {

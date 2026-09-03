@@ -69,6 +69,10 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether the sections past a page's name are a property's is answered here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path that is no TypeScript file is refused rather than answered.",
     },
     {

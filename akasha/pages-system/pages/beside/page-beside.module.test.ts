@@ -100,3 +100,49 @@ test("a page in the root folder is answered without a folder put before it", () 
   const root = rootWith(["held.module.ts", "held.module.code.ts"])
   expect(besideOf(root, "held.module.ts")).toEqual(["held.module.code.ts"])
 })
+
+test("the later parts of a property go with the page as its first part does", () => {
+  const root = rootWith([
+    PAGE,
+    "akasha/one/held.module.prose.txt",
+    "akasha/one/held.module.prose.part2.txt",
+    "akasha/one/held.module.prose.part10.txt",
+  ])
+  expect(besideOf(root, PAGE)).toEqual([
+    "akasha/one/held.module.prose.part10.txt",
+    "akasha/one/held.module.prose.part2.txt",
+    "akasha/one/held.module.prose.txt",
+  ])
+})
+
+test("a property held uncommitted goes with the page", () => {
+  const root = rootWith([PAGE, "akasha/one/held.module.patch.uncommitted.diff"])
+  expect(besideOf(root, PAGE)).toEqual(["akasha/one/held.module.patch.uncommitted.diff"])
+})
+
+test("a later part held uncommitted goes with the page", () => {
+  const root = rootWith([PAGE, "akasha/one/held.module.prose.part3.uncommitted.txt"])
+  expect(besideOf(root, PAGE)).toEqual(["akasha/one/held.module.prose.part3.uncommitted.txt"])
+})
+
+test("a first part spelled out is no name a property's file carries, so it is not beside it", () => {
+  const root = rootWith([PAGE, "akasha/one/held.module.prose.part1.txt"])
+  expect(besideOf(root, PAGE)).toEqual([])
+})
+
+test("the litter a crashed write left beside a page is not beside it", () => {
+  const root = rootWith([
+    PAGE,
+    "akasha/one/held.module.uncommitted.ts",
+    "akasha/one/held.module.uncommitted.ts.3032024.part",
+  ])
+  expect(besideOf(root, PAGE)).toEqual(["akasha/one/held.module.uncommitted.ts"])
+})
+
+test("the litter a crashed write left beside an uncommitted file is not beside that file", () => {
+  const root = rootWith([
+    "akasha/one/held.module.uncommitted.ts",
+    "akasha/one/held.module.uncommitted.ts.3032024.part",
+  ])
+  expect(besideOf(root, "akasha/one/held.module.uncommitted.ts")).toEqual([])
+})

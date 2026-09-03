@@ -11,7 +11,7 @@ export const pageBeside = {
     {
       invariantKind: "departure",
       statement:
-        "A file stands beside a page when the file carries the page's whole name and one part more.",
+        "A file is beside a page when the file carries the page's whole name and a property's sections.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,16 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "One part more is a property's file whatever the property is called.",
+      statement:
+        "Which sections a property's file carries is answered by the naming grammar rather than here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property's file is beside its page whatever the property is called.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name carrying sections that name no property of the page is left alone.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +66,7 @@ export const pageBeside = {
     {
       invariantKind: "departure",
       statement:
-        "The naming grammar lets only this page claim a file carrying its whole name and one part more.",
+        "The naming grammar lets only this page claim a file carrying its name and a property's sections.",
     },
   ],
 } as const satisfies Module
