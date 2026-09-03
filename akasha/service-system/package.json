@@ -5,6 +5,8 @@
   "exports": {
     "./workstation-service": "./workstation-services/workstation-service.page-type.ts",
     "./service-installing": "./workstation-services/service-installing/service-installing.module.code.ts",
+    "./service-wrapping": "./workstation-services/service-wrapping/service-wrapping.module.code.ts",
+    "./unit-writing": "./workstation-services/unit-writing/unit-writing.module.code.ts",
     "./service-reading": "./workstation-services/service-reading/service-reading.module.code.ts",
     "./web-app-reading": "./cluster-services/web-app-reading/web-app-reading.module.code.ts",
     "./web-app-reading/testing": "./cluster-services/web-app-reading/web-app-reading.module.test-fixtures.ts",
