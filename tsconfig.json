@@ -1,9 +1,6 @@
 {
   "references": [
     {
-      "path": "./temper/scripts"
-    },
-    {
       "path": "./infra/k8s"
     },
     {
@@ -59,9 +56,6 @@
     },
     {
       "path": "./collections/exercises"
-    },
-    {
-      "path": "./infra/talos"
     },
     {
       "path": "./infra/zimage"

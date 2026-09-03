@@ -21,7 +21,6 @@
     "infra/loki-service",
     "infra/scripts",
     "infra/seaweedfs",
-    "infra/talos",
     "infra/upscale",
     "infra/voice-infer",
     "infra/wan",
@@ -29,7 +28,6 @@
     "infra/zimage",
     "readouts",
     "shared/vscode-typings",
-    "temper/scripts",
     "tools/lib",
     "tools/ops"
   ],
@@ -86,7 +84,6 @@
     "@akasha/upscale": "workspace:*",
     "@akasha/wan": "workspace:*",
     "@akasha/zimage": "workspace:*",
-    "@infra/talos": "workspace:*",
     "@infra/workspace-cli": "workspace:*",
     "@modelcontextprotocol/sdk": "^1.30.0",
     "@supabase/supabase-js": "^2.104.0",
