@@ -1,0 +1,27 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const farmersCarry = {
+  id: "019f9756-bc83-70d9-ba56-e058e5c61d46",
+  pageTypeSlug: "exercise",
+  slug: "farmers-carry",
+  title: "Farmer's Carry",
+  exerciseCategory: "strength",
+  equipment: "dumbbell",
+  force: "static",
+  gripDemand: "high",
+  implementCount: 2,
+  isBallistic: false,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "carry",
+  muscleFocus: "pull",
+  primaryMuscles: ["forearms", "traps"],
+  scoringMode: "time",
+  secondaryMuscles: ["glutes", "quadriceps", "abdominals", "shoulders"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies Exercise

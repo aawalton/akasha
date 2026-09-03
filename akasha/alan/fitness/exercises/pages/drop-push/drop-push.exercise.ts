@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const dropPush = {
+  id: "019ebc77-018b-7919-ba80-3e515b25bc21",
+  pageTypeSlug: "exercise",
+  slug: "drop-push",
+  title: "Drop Push",
+  exerciseCategory: "plyometrics",
+  equipment: "other",
+  exerciseExternalId: "Drop_Push",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Drop_Push",
+  force: "push",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Drop_Push/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Drop_Push/0.jpg",
+  implementCount: 1,
+  isBallistic: true,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "h-push",
+  muscleFocus: "push",
+  primaryMuscles: ["chest"],
+  scoringMode: "reps",
+  secondaryMuscles: ["shoulders", "triceps"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise
