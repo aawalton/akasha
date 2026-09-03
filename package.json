@@ -7,7 +7,6 @@
     "collections/exercises",
     "editor-extension",
     "infra/ci-workflows",
-    "infra/eso-rig",
     "infra/scripts",
     "readouts",
     "shared/vscode-typings",

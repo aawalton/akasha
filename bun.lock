@@ -3013,17 +3013,6 @@
         "typescript": "^5.9.3",
       },
     },
-    "infra/eso-rig": {
-      "name": "@infra/eso-rig",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/k8s-types": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "infra/scripts": {
       "name": "@infra/scripts",
       "dependencies": {
@@ -3071,7 +3060,9 @@
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-eso-typings": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@akasha/wandering-inn": "workspace:*",
+        "@akasha/workflow-language": "workspace:*",
         "@akasha/workflow-selection": "workspace:*",
       },
     },
@@ -3897,8 +3888,6 @@
     "@hono/node-server": ["@hono/node-server@2.1.1", "", { "peerDependencies": { "hono": "^4" } }, "sha512-ELuehkj5VCBdgEw9zs+ivkKwyzzUCSQuE96YmiPvn1ECBoZCczbFXJLeEGMTYjphP6gydh4pHMqEYPVMYUVgQg=="],
 
     "@infra/ci-workflows": ["@infra/ci-workflows@workspace:infra/ci-workflows"],
-
-    "@infra/eso-rig": ["@infra/eso-rig@workspace:infra/eso-rig"],
 
     "@infra/scripts": ["@infra/scripts@workspace:infra/scripts"],
 
