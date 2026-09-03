@@ -30,7 +30,7 @@
  * A row beside a markdown day keeps the kebab keys the 780 of them already carry. Nothing rewrites
  * those; the whole split is which kind of page the row sits beside. `camelisedRow` in
  * `tools/lib/tracking/akasha-day.ts` makes the same turn for every row Alan's tracking writes after
- * the move, and `kebabisedRow` in `tools/lib/akasha-page-values.ts` turns it back for whatever reads
+ * the move, and `kebabisedRow` in `@akasha/pages-system/akasha-page-values` turns it back for whatever reads
  * one, so the query engine sees a single spelling out of both halves.
  *
  * WHAT A DAY PAGE IMPORTS IS NOT DECLARED HERE.

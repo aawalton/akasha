@@ -14,12 +14,11 @@
  * spells one. One turn, in one place, so the two halves answer to the same names.
  */
 
-import type { Held, Values } from "@akasha/markdown-pages/page-file-values"
-import { carried } from "@akasha/pages-system/page-carry"
-import { partedIn } from "@akasha/pages-system/page-file-name"
-import { wholeValue } from "@akasha/pages-system/page-uncommitted"
-import { valueAt } from "@akasha/pages-system/page-value"
-import { kebabizeKey } from "./tracking/keys.ts"
+import { kebabizeKey } from "@akasha/pages-access/file-rows"
+import { carried, type Held, type Values } from "../page-carry/page-carry.module.code.ts"
+import { partedIn } from "../pages/file-name/page-file-name.module.code.ts"
+import { wholeValue } from "../pages/uncommitted/page-uncommitted.module.code.ts"
+import { valueAt } from "../pages/value/page-value.module.code.ts"
 
 /** What an akasha page's file is named, as against `.md` for a markdown one. */
 export const AKASHA_PAGE = ".ts"
@@ -80,7 +79,7 @@ export function kebabisedRow(values: Readonly<Record<string, unknown>>): Record<
  * `wholeValue` puts back whatever the page keeps outside the commit, which is what akasha's own
  * asking does with a page value before anything reads it. What that asking also does and this does
  * not is turn an entry property into its rows: a day states `sessions: "jsonl"` and the rows are
- * pages of their own here, walked from the `rows:` declaration, so leaving the extension standing is
+ * pages of their own here, read from the `rows:` declaration, so keeping the extension is
  * what lets the deriver find them.
  */
 export function akashaValuesAt(root: string, relPath: string): Values | null {

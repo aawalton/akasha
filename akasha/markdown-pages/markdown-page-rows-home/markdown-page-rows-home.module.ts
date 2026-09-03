@@ -23,11 +23,12 @@ export const markdownPageRowsHome = {
     },
     {
       invariantKind: "departure",
-      statement: "The homes of a tree are walked once and held against the tree.",
+      statement: "The homes of a tree are read once and held against the tree.",
     },
     {
       invariantKind: "departure",
-      statement: "A walk is answered from the cache only while the tree's shape mark stands.",
+      statement:
+        "A reading is answered from the cache only while the tree's shape mark is unchanged.",
     },
   ],
 } as const satisfies Module

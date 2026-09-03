@@ -34,6 +34,7 @@ import {
 import { placeOf, scanIn } from "@akasha/markdown-pages/page-types"
 import { declarationsFromFiles } from "@akasha/markdown-pages/property-declarations"
 import { NONE, textAt } from "@akasha/markdown-pages/text-at"
+import { akashaValuesAt, isAkashaPage } from "@akasha/pages-system/akasha-page-values"
 import { isAddressable } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Property } from "@akasha/pages-system/markdown-property"
@@ -44,7 +45,6 @@ import {
   WALK_BOUND,
 } from "@akasha/pages-system/page-derive-shape"
 import { keptIn, narrowing } from "@akasha/pages-system/page-narrow"
-import { akashaValuesAt, isAkashaPage } from "./akasha-page-values.ts"
 import { codeValueFor } from "./page-code-values.ts"
 import { rowsPagesIn } from "./page-rows.ts"
 
