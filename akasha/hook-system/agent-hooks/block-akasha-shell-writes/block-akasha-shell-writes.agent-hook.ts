@@ -42,7 +42,7 @@ export const blockAkashaShellWrites = {
     {
       invariantKind: "departure",
       statement:
-        "A verb that makes, replaces or takes a file away is judged on every path it names.",
+        "A command that makes, replaces or takes a file away is judged on every path it names.",
     },
     {
       invariantKind: "departure",
