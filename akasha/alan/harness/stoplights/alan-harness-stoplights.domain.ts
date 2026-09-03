@@ -10,6 +10,7 @@ export const alanHarnessStoplights = {
     "readout-group/attributes",
     "readout-group/inboxes",
     "readout-group/values",
+    "module/attribute-stoplights",
   ],
   invariants: [
     {

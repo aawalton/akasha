@@ -26,6 +26,7 @@ export default [
   route("api/claude-usage", "routes/api.claude-usage.ts"),
   route("api/inbox-stoplights", "routes/api.inbox-stoplights.ts"),
   route("api/habit-stoplights", "routes/api.habit-stoplights.ts"),
+  route("api/attribute-stoplights", "attribute-stoplights/attribute-stoplights.module.code.ts"),
   route("api/surplus", "routes/api.surplus.ts"),
   route("api/safety-level", "routes/api.safety-level.ts"),
   route("api/categorization", "routes/api.categorization.ts"),
@@ -64,8 +65,5 @@ export default [
 
   route("api/tracking/health-samples", "routes/api.tracking.health-samples.ts"),
 
-  // Anything else under `/api/`. `api` is no page type, so without this the page catch-all above
-  // reads a wrong api address as a page and answers 500 rather than 404. Ranked between the two:
-  // above `:pageTypeSlug/:pageHrefParam`, below every api route named here.
   route("api/*", "routes/api.$.ts"),
 ] satisfies RouteConfig

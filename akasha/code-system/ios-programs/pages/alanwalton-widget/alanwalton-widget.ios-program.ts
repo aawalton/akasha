@@ -9,6 +9,7 @@ export const alanwaltonWidget = {
   infoPlist: "plist",
   entitlements: "entitlements",
   componentSlugs: [
+    "ios-component/alanwalton-attribute-stoplights-widget",
     "ios-component/alanwalton-categorize-widget",
     "ios-component/alanwalton-claude-usage-payload",
     "ios-component/alanwalton-claude-usage-view",
