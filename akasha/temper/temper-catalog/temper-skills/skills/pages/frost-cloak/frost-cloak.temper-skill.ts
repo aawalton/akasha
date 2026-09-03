@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const frostCloak = {
-  id: "01a05fd0-dc96-7a23-a271-1f9e82f712f3",
+  id: "019e6f53-a246-79d2-9366-59c3252d1305",
   pageTypeSlug: "temper-skill",
   slug: "frost-cloak",
   title: "Frost Cloak",

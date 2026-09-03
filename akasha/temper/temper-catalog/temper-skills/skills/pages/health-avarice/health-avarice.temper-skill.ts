@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const healthAvarice = {
-  id: "01a05fd0-dcad-77a7-bb7a-c248555a756c",
+  id: "019e6245-a6a0-7e7e-81e1-a4e5c343dda0",
   pageTypeSlug: "temper-skill",
   slug: "health-avarice",
   title: "Health Avarice",

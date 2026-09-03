@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const heartOfFlame = {
-  id: "01a05fd0-dcae-71d9-906c-07d46bac193b",
+  id: "019e6f53-a2f9-722e-9dc6-a1a2ef6c51ad",
   pageTypeSlug: "temper-skill",
   slug: "heart-of-flame",
   title: "Heart of Flame",

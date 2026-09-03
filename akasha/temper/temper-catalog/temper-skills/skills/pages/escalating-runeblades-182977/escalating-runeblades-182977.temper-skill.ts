@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const escalatingRuneblades182977 = {
-  id: "01a05fd0-8e24-7a76-a855-2d916855e15d",
+  id: "019e6f53-a19d-795c-bb2b-5f8a5ab1ad44",
   pageTypeSlug: "temper-skill",
   slug: "escalating-runeblades-182977",
   title: "Escalating Runeblades",

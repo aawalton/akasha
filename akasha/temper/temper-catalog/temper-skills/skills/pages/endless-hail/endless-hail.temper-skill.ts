@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const endlessHail = {
-  id: "01a05fd0-8e1f-73b8-b58f-d5fd9fa8eba5",
+  id: "019e6226-00ed-7e44-81a7-47b4f2f7efe3",
   pageTypeSlug: "temper-skill",
   slug: "endless-hail",
   title: "Endless Hail",

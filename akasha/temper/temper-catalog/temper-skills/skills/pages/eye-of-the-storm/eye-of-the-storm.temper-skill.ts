@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const eyeOfTheStorm = {
-  id: "01a05fd0-8e2f-7c7d-8361-1f331140d17f",
+  id: "019e6226-00f0-757f-946c-09d7fdb66aa5",
   pageTypeSlug: "temper-skill",
   slug: "eye-of-the-storm",
   title: "Eye of the Storm",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const flawlessDawnbreaker40161 = {
-  id: "01a05fd0-dc8d-7c17-9785-74ac75615e3e",
+  id: "019e6f53-a20c-72a1-97f6-e2b30b30309c",
   pageTypeSlug: "temper-skill",
   slug: "flawless-dawnbreaker-40161",
   title: "Flawless Dawnbreaker",

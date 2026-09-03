@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const flurry = {
-  id: "01a05fd0-dc8f-7e12-ac21-32ca80f38bc5",
+  id: "019e6f53-a218-79bf-8430-5453595a61c0",
   pageTypeSlug: "temper-skill",
   slug: "flurry",
   title: "Flurry",

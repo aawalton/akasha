@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const elusiveMist38963 = {
-  id: "01a05fd0-8e1b-796b-ae6d-d997e3f32cbb",
+  id: "019e6f53-a138-7f2f-8b80-be5d62cba63e",
   pageTypeSlug: "temper-skill",
   slug: "elusive-mist-38963",
   title: "Elusive Mist",

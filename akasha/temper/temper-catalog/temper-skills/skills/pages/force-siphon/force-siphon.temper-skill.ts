@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const forceSiphon = {
-  id: "01a05fd0-dc93-7f2b-8610-0f96a7476ccb",
+  id: "019e6f53-a22c-71ea-acdd-74f312e3106f",
   pageTypeSlug: "temper-skill",
   slug: "force-siphon",
   title: "Force Siphon",

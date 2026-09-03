@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const flourish = {
-  id: "01a05fd0-dc8f-7060-a03a-16f134376489",
+  id: "019e6245-a687-7a4d-bb7a-b06a04aded2d",
   pageTypeSlug: "temper-skill",
   slug: "flourish",
   title: "Flourish",

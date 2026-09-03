@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const falconSSwiftness = {
-  id: "01a05fd0-8e30-7ec6-88c7-680591526747",
+  id: "019e6f53-a1db-7dc3-a1a1-e683b0e64e45",
   pageTypeSlug: "temper-skill",
   slug: "falcon-s-swiftness",
   title: "Falcon's Swiftness",

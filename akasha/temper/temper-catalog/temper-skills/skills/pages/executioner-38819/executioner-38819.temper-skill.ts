@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const executioner38819 = {
-  id: "01a05fd0-8e29-7a7e-8d8c-5aa52a7e43b6",
+  id: "019e6f53-a1ba-79c6-b9a1-fffdda5602c7",
   pageTypeSlug: "temper-skill",
   slug: "executioner-38819",
   title: "Executioner",

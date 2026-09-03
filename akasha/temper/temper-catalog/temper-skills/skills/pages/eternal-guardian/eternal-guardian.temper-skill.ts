@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const eternalGuardian = {
-  id: "01a05fd0-8e25-798d-8751-69e230d18ba6",
+  id: "019e6245-a673-7c2f-8bb7-b99c38ef16ac",
   pageTypeSlug: "temper-skill",
   slug: "eternal-guardian",
   title: "Eternal Guardian",

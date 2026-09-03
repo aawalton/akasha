@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const explosiveCharge22161 = {
-  id: "01a05fd0-8e2d-7b8f-b630-9b55ae72a2f7",
+  id: "019e6f53-a1d0-7849-81b7-4674bd7a3a10",
   pageTypeSlug: "temper-skill",
   slug: "explosive-charge-22161",
   title: "Explosive Charge",

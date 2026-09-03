@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const greenLotus = {
-  id: "01a05fd0-dca2-761b-aeb8-661452e35000",
+  id: "019e6245-a697-7c94-9597-f4f59e7ec43a",
   pageTypeSlug: "temper-skill",
   slug: "green-lotus",
   title: "Green Lotus",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const feed = {
-  id: "01a05fd0-dc88-78b5-b668-342f3312aab5",
+  id: "019e6251-4cb6-750c-bde3-1df3eb687d2c",
   pageTypeSlug: "temper-skill",
   slug: "feed",
   title: "Feed",

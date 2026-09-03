@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const futureFocus = {
-  id: "01a05fd0-dc9a-7c71-a549-9dd45debfb0c",
+  id: "019e6251-4cba-77ea-b33b-5023063b58c2",
   pageTypeSlug: "temper-skill",
   slug: "future-focus",
   title: "Future Focus",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const eviscerate = {
-  id: "01a05fd0-8e28-7b61-9e9f-f6a103a79316",
+  id: "019e6f53-a1af-7fe0-8249-d6d25d09bf3b",
   pageTypeSlug: "temper-skill",
   slug: "eviscerate",
   title: "Eviscerate",

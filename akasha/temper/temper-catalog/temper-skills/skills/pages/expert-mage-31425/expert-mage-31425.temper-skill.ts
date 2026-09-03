@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const expertMage31425 = {
-  id: "01a05fd0-8e2c-7912-a3ea-b25e8e103c87",
+  id: "019e6f53-a1c7-7a09-b71a-fbd6367275c2",
   pageTypeSlug: "temper-skill",
   slug: "expert-mage-31425",
   title: "Expert Mage",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const handBrush = {
-  id: "01a05fd0-dca5-78d0-82ee-a1762d2879e1",
+  id: "019e6251-4cbb-7f0b-8f8f-e222c89ac10b",
   pageTypeSlug: "temper-skill",
   slug: "hand-brush",
   title: "Hand Brush",

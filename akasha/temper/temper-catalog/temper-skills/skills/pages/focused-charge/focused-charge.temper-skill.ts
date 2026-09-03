@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const focusedCharge = {
-  id: "01a05fd0-dc91-7a1f-8b6b-024ec372c201",
+  id: "019e6f53-a21f-7c03-b011-bbc4c94c98a8",
   pageTypeSlug: "temper-skill",
   slug: "focused-charge",
   title: "Focused Charge",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const gibberingShield = {
-  id: "01a05fd0-dc9c-7212-a094-969608af5c44",
+  id: "019e6f53-a27d-7d7e-bd72-e91c64a58d74",
   pageTypeSlug: "temper-skill",
   slug: "gibbering-shield",
   title: "Gibbering Shield",

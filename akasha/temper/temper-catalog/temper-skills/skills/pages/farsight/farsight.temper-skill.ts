@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const farsight = {
-  id: "01a05fd0-8e30-7a6a-afc8-d71075572054",
+  id: "019e6251-4cb4-783d-b1d3-738dbc5f1dfc",
   pageTypeSlug: "temper-skill",
   slug: "farsight",
   title: "Farsight",

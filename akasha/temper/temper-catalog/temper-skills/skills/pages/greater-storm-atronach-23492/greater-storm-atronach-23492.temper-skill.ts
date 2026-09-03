@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const greaterStormAtronach23492 = {
-  id: "01a05fd0-dca2-7e6c-943e-21ab12f9a12b",
+  id: "019e6f53-a2a8-70bc-acc8-7c64c901bff5",
   pageTypeSlug: "temper-skill",
   slug: "greater-storm-atronach-23492",
   title: "Greater Storm Atronach",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const energyOverload24804 = {
-  id: "01a05fd0-8e22-724c-838c-1dd0f1e13901",
+  id: "019e6f53-a18e-71f3-bee0-1152daf04ab5",
   pageTypeSlug: "temper-skill",
   slug: "energy-overload-24804",
   title: "Energy Overload",

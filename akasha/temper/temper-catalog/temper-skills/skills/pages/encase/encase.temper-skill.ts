@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const encase = {
-  id: "01a05fd0-8e1c-7e9d-bc63-c3995774d038",
+  id: "019e6f53-a155-784d-9413-116bddbec291",
   pageTypeSlug: "temper-skill",
   slug: "encase",
   title: "Encase",

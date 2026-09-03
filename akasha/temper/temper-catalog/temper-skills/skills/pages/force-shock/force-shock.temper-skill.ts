@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const forceShock = {
-  id: "01a05fd0-dc93-715f-9f1e-009c8b42f6a5",
+  id: "019e6f53-a22a-7169-ba45-ee192e534f73",
   pageTypeSlug: "temper-skill",
   slug: "force-shock",
   title: "Force Shock",

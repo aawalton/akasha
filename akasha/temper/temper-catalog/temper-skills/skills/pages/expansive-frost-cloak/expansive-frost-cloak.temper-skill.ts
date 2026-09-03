@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const expansiveFrostCloak = {
-  id: "01a05fd0-8e2b-789b-8571-bb3e3b97f1d4",
+  id: "019e6245-a679-701f-b122-da4f8b4164ef",
   pageTypeSlug: "temper-skill",
   slug: "expansive-frost-cloak",
   title: "Expansive Frost Cloak",

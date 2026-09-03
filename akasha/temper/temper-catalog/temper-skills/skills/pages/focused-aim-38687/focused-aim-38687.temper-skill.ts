@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const focusedAim38687 = {
-  id: "01a05fd0-dc91-70dd-91cc-ced6afd5cbe0",
+  id: "019e6f53-a21e-7888-afc9-5eea2c864d62",
   pageTypeSlug: "temper-skill",
   slug: "focused-aim-38687",
   title: "Focused Aim",

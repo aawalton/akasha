@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const haggling = {
-  id: "01a05fd0-dca5-7a83-b17e-90cf96844d35",
+  id: "019e6238-c2c3-7f38-b608-8815d2949de0",
   pageTypeSlug: "temper-skill",
   slug: "haggling",
   title: "Haggling",

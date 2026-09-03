@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const gourmand = {
-  id: "01a05fd0-dc9f-7d28-8418-0c827d2e0559",
+  id: "019e6224-cc97-7030-bd4c-ce81fe02eade",
   pageTypeSlug: "temper-skill",
   slug: "gourmand",
   title: "Gourmand",

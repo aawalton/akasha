@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const harnessedQuintessence = {
-  id: "01a05fd0-dca7-75cc-8a1d-0ec68ee5a652",
+  id: "019e6245-a69b-7cda-b85a-527e00ddccbb",
   pageTypeSlug: "temper-skill",
   slug: "harnessed-quintessence",
   title: "Harnessed Quintessence",

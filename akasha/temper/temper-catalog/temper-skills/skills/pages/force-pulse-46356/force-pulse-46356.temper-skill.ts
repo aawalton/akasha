@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const forcePulse46356 = {
-  id: "01a05fd0-dc93-7044-a90a-b41fb8992854",
+  id: "019e6f53-a227-7ebb-9c36-d57308e90fcb",
   pageTypeSlug: "temper-skill",
   slug: "force-pulse-46356",
   title: "Force Pulse",

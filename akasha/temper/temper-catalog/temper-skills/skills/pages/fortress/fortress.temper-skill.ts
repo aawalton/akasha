@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const fortress = {
-  id: "01a05fd0-dc94-7905-bfa2-1a5d1eb317df",
+  id: "019e6226-00f5-735a-a4e2-5efcff7c22ed",
   pageTypeSlug: "temper-skill",
   slug: "fortress",
   title: "Fortress",

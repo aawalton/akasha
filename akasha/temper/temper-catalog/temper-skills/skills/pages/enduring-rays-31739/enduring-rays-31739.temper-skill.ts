@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const enduringRays31739 = {
-  id: "01a05fd0-8e20-7d00-a6e0-735caae5113a",
+  id: "019e6f53-a17b-7dd2-b56d-c32f8afae8bc",
   pageTypeSlug: "temper-skill",
   slug: "enduring-rays-31739",
   title: "Enduring Rays",

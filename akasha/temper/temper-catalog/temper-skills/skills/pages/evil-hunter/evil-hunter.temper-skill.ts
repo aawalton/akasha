@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const evilHunter = {
-  id: "01a05fd0-8e27-7569-8191-6a730fd23e9f",
+  id: "019e6238-c2bb-7ba6-89cf-b3005afd14ab",
   pageTypeSlug: "temper-skill",
   slug: "evil-hunter",
   title: "Evil Hunter",

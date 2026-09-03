@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const empoweringGrasp = {
-  id: "01a05fd0-8e1c-7682-ae22-fbe39d1e24e6",
+  id: "019e6245-a663-7705-ac0b-3ff651f649d1",
   pageTypeSlug: "temper-skill",
   slug: "empowering-grasp",
   title: "Empowering Grasp",

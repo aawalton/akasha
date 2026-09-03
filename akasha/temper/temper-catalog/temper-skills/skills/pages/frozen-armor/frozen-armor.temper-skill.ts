@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const frozenArmor = {
-  id: "01a05fd0-dc96-71b6-9ee3-81cf0b8e27c2",
+  id: "019e6245-a68a-7a79-8921-198435ed8a32",
   pageTypeSlug: "temper-skill",
   slug: "frozen-armor",
   title: "Frozen Armor",

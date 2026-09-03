@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const graveGrasp = {
-  id: "01a05fd0-dca0-7f3c-8be3-f07fdc9dbd6f",
+  id: "019e6f53-a29d-7d71-8583-ce289b5b3a54",
   pageTypeSlug: "temper-skill",
   slug: "grave-grasp",
   title: "Grave Grasp",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const flameLash20816 = {
-  id: "01a05fd0-dc8c-7694-b690-fe53ec91f267",
+  id: "019e6f53-a203-732e-be37-37eda729124d",
   pageTypeSlug: "temper-skill",
   slug: "flame-lash-20816",
   title: "Flame Lash",

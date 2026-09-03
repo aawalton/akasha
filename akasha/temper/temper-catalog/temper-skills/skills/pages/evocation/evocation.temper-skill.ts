@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const evocation = {
-  id: "01a05fd0-8e28-724b-b18f-ba2358e00315",
+  id: "019e6238-c2bc-7a9d-8edd-900ef696b9ce",
   pageTypeSlug: "temper-skill",
   slug: "evocation",
   title: "Evocation",

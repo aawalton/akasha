@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const fireKeeper = {
-  id: "01a05fd0-dc8b-7d68-9ebc-c0c1e246e123",
+  id: "019e6f53-a1fe-7596-a22b-9d3584332146",
   pageTypeSlug: "temper-skill",
   slug: "fire-keeper",
   title: "Fire Keeper",

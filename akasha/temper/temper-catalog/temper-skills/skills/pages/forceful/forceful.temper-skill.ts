@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const forceful = {
-  id: "01a05fd0-dc93-75a2-bc93-8dd47e0ab0e5",
+  id: "019e6226-00f4-7674-aba6-38a0517e570b",
   pageTypeSlug: "temper-skill",
   slug: "forceful",
   title: "Forceful",

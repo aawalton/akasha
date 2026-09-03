@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const fatecarver = {
-  id: "01a05fd0-8e31-7cec-bbc1-5e018561ec5b",
+  id: "019e6f53-a1e1-73b4-b6e8-34ac89111c83",
   pageTypeSlug: "temper-skill",
   slug: "fatecarver",
   title: "Fatecarver",

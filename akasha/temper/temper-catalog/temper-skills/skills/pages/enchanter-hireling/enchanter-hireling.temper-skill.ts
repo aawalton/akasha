@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const enchanterHireling = {
-  id: "01a05fd0-8e1e-7931-971f-2d8cf8556921",
+  id: "019e6224-cc93-721d-be9c-18b94840e3ce",
   pageTypeSlug: "temper-skill",
   slug: "enchanter-hireling",
   title: "Enchanter Hireling",

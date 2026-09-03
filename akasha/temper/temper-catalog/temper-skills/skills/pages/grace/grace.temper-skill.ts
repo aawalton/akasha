@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const grace = {
-  id: "01a05fd0-dca0-7e64-b641-c7b9bf91b7e8",
+  id: "019e6238-c2c3-7044-b21c-148e2693cdc2",
   pageTypeSlug: "temper-skill",
   slug: "grace",
   title: "Grace",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const followUp = {
-  id: "01a05fd0-dc91-71c1-b99a-d737de928ea8",
+  id: "019e6226-00f2-7c16-9995-54924f771bb5",
   pageTypeSlug: "temper-skill",
   slug: "follow-up",
   title: "Follow Up",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const excavatorSReserves = {
-  id: "01a05fd0-8e29-70cf-92c2-76842a755980",
+  id: "019e6f53-a1b5-7ef8-ab27-4ccd1bdcccd8",
   pageTypeSlug: "temper-skill",
   slug: "excavator-s-reserves",
   title: "Excavator's Reserves",

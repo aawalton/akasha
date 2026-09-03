@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const fragmentedShield32673 = {
-  id: "01a05fd0-dc95-7791-a2f9-e83c9fad917b",
+  id: "019e6f53-a244-70cf-b919-b1fa7decd6d7",
   pageTypeSlug: "temper-skill",
   slug: "fragmented-shield-32673",
   title: "Fragmented Shield",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const fetcherInfection = {
-  id: "01a05fd0-dc8a-7e36-984c-5e922deb37a7",
+  id: "019e6245-a682-7356-9e5a-8e9f7c9356a5",
   pageTypeSlug: "temper-skill",
   slug: "fetcher-infection",
   title: "Fetcher Infection",

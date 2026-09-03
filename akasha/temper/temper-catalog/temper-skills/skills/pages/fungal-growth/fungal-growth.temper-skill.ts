@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const fungalGrowth = {
-  id: "01a05fd0-dc99-7615-8242-04dee2eee186",
+  id: "019e6f53-a264-7cbc-813e-58612cf713df",
   pageTypeSlug: "temper-skill",
   slug: "fungal-growth",
   title: "Fungal Growth",

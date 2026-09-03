@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const enchantedForest85804 = {
-  id: "01a05fd0-8e1d-7730-94b8-c1e50686ebe6",
+  id: "019e6f53-a15c-7bdb-9dc6-82a89923c277",
   pageTypeSlug: "temper-skill",
   slug: "enchanted-forest-85804",
   title: "Enchanted Forest",

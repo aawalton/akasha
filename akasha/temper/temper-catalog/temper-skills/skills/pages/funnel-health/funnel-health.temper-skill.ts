@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const funnelHealth = {
-  id: "01a05fd0-dc9a-715d-b5a7-3cbf33644c0d",
+  id: "019e6245-a68e-7c04-a556-3ee8ce0eb435",
   pageTypeSlug: "temper-skill",
   slug: "funnel-health",
   title: "Funnel Health",

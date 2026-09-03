@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const expertSummoner = {
-  id: "01a05fd0-8e2c-76d0-bc50-5aa338b6b233",
+  id: "019e6245-a67b-7033-a487-17f458c8f6f0",
   pageTypeSlug: "temper-skill",
   slug: "expert-summoner",
   title: "Expert Summoner",
