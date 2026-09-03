@@ -7,5 +7,6 @@ export const officialDeclaration2 = {
   title: "Official Declaration 2",
   position: 2,
   ownLength: 0,
+  unitSlug: "words",
   externalId: "officialdeclaration2",
 } as const satisfies ScripturePassage
