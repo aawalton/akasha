@@ -2,14 +2,12 @@ import type { PageType } from "@akasha/pages-system/page-type"
 import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
 import type { ByteCount } from "./properties/byte-count.number-property.ts"
 import type { ChunkIndex } from "./properties/chunk-index.number-property.ts"
-import type { Data } from "./properties/data.file-property.ts"
 import type { Inventory } from "./properties/inventory.relation-property.ts"
 
 export type TemperInventoryChunk = TemperThing & {
   chunkIndex: ChunkIndex
   inventory: Inventory
   byteCount: ByteCount
-  data?: Data
 }
 
 export const temperInventoryChunk = {
@@ -20,7 +18,6 @@ export const temperInventoryChunk = {
   pluralSlug: "temper-inventory-chunks",
   extendsSlug: "page-type/temper-thing",
   partSlugs: [
-    "file-property/data",
     "number-property/byte-count",
     "number-property/chunk-index",
     "relation-property/inventory",
@@ -30,7 +27,6 @@ export const temperInventoryChunk = {
     { pagePropertySlug: "inventory", required: true, many: false },
     { pagePropertySlug: "chunk-index", required: true, many: false },
     { pagePropertySlug: "byte-count", required: true, many: false },
-    { pagePropertySlug: "data", required: false, many: false },
   ],
   invariants: [
     {
@@ -50,8 +46,8 @@ export const temperInventoryChunk = {
       statement: "The file a piece names carries that piece's whole byte count.",
     },
     {
-      invariantKind: "gap",
-      statement: "The bytes a page here counts are not in akasha.",
+      invariantKind: "departure",
+      statement: "The bytes a page here counts stand in the reading's own data file.",
     },
   ],
 } as const satisfies PageType

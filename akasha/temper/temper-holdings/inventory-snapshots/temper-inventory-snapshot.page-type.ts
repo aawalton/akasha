@@ -4,6 +4,7 @@ import type { BagSizes } from "./properties/bag-sizes.page-property-entry.ts"
 import type { ChunkCount } from "./properties/chunk-count.number-property.ts"
 import type { CraftingLevels } from "./properties/crafting-levels.page-property-entry.ts"
 import type { Currencies } from "./properties/currencies.page-property-entry.ts"
+import type { Data } from "./properties/data.file-property.ts"
 import type { LastFullScanAt } from "./properties/last-full-scan-at.instant-property.ts"
 import type { Locations } from "./properties/locations.page-property-entry.ts"
 import type { OpenCooldowns } from "./properties/open-cooldowns.page-property-entry.ts"
@@ -15,6 +16,7 @@ import type { TransmuteCrystalCap } from "./properties/transmute-crystal-cap.num
 
 export type TemperInventorySnapshot = TemperHoldingsThing & {
   chunkCount: ChunkCount
+  data?: Data
   stacks?: Stacks
   lastFullScanAt?: LastFullScanAt
   priceSource?: PriceSource
@@ -46,6 +48,7 @@ export const temperInventorySnapshot = {
     "boolean-property/reconstructed",
     "boolean-property/stolen",
     "boolean-property/transmuted",
+    "file-property/data",
     "instant-property/last-full-scan-at",
     "instant-property/last-scanned-at",
     "instant-property/ready-at",
@@ -92,6 +95,7 @@ export const temperInventorySnapshot = {
     { pagePropertySlug: "total-value", required: true, many: false },
     { pagePropertySlug: "chunk-count", required: true, many: false },
     { pagePropertySlug: "stacks", required: false, many: false },
+    { pagePropertySlug: "data", required: false, many: false },
     { pagePropertySlug: "last-full-scan-at", required: false, many: false },
     { pagePropertySlug: "price-source", required: false, many: false },
     { pagePropertySlug: "transmute-crystal-amount", required: false, many: false },

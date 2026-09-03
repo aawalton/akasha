@@ -7,7 +7,7 @@ export const data = {
   pageTypeSlug: "file-property",
   slug: "data",
   propertySlug: "data",
-  definition: "the bytes one piece of a reading was written as",
+  definition: "the bytes one whole reading was written as",
   invariants: [
     {
       invariantKind: "departure",
@@ -15,11 +15,16 @@ export const data = {
     },
     {
       invariantKind: "departure",
-      statement: "A data file holds a piece of a JSON document rather than a whole one.",
+      statement: "A data file holds one whole JSON document rather than a piece of one.",
     },
     {
       invariantKind: "departure",
-      statement: "The byte count a reading is divided on is the transport's rather than akasha's.",
+      statement:
+        "The pieces a reading arrived in are rejoined in chunk index order before landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading whose pieces rejoin to no JSON document carries no data file.",
     },
     {
       invariantKind: "stopgap",
@@ -27,8 +32,7 @@ export const data = {
     },
     {
       invariantKind: "stopgap",
-      statement:
-        "The rows a data file carries are being modelled as the reading's `stacks` entries.",
+      statement: "The rows a data file carries are being modelled as the reading's own entries.",
     },
     {
       invariantKind: "stopgap",
@@ -36,7 +40,7 @@ export const data = {
     },
     {
       invariantKind: "stopgap",
-      statement: "The transport's division goes with the data files it divided.",
+      statement: "The transport's division is not carried into akasha with the bytes it divided.",
     },
   ],
 } as const satisfies FileProperty
