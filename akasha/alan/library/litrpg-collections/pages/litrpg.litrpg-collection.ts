@@ -11,7 +11,6 @@ export const litrpg = {
   unitSlug: "words",
   status: "not-applicable",
   rank: "A",
-  lastSyncedAt: "2025-10-04",
   tags: [
     "Civilization Building",
     "Comedy",
