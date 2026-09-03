@@ -1,0 +1,31 @@
+import type { LitrpgCollection } from "../litrpg-collection.page-type.ts"
+
+export const litrpg = {
+  id: "01a06808-9b5c-7000-ad54-37fb2efd87af",
+  pageTypeSlug: "litrpg-collection",
+  slug: "litrpg",
+  title: "LitRPG",
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
+  unitSlug: "words",
+  status: "not-applicable",
+  rank: "A",
+  lastSyncedAt: "2025-10-04",
+  tags: [
+    "Civilization Building",
+    "Comedy",
+    "Crafting",
+    "Cultivation",
+    "Dark",
+    "Dungeon Core",
+    "Dungeon Delver",
+    "Isekai",
+    "Monster Evolution",
+    "Slice-Of-Life",
+    "System Apocalypse",
+    "System World",
+    "Time Loop",
+    "VRMMO",
+  ],
+} as const satisfies LitrpgCollection
