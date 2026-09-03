@@ -97,5 +97,21 @@ export const pageQuery = {
       invariantKind: "gap",
       statement: "What a query is called is recovered from its slug.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A query is stated in page properties rather than in a language of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A query tests one page at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A query compares a value by the type its property declares.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No narrow is joined to another with or.",
+    },
   ],
 } as const satisfies PageType
