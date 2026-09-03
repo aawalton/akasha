@@ -51,6 +51,7 @@ export const readout = {
   definition: "one reading a person is shown",
   pluralSlug: "readouts",
   partSlugs: [
+    "boolean-property/figure-off-scale",
     "boolean-property/readout-enabled",
     "instant-property/last-value-at",
     "number-property/last-value",
@@ -60,6 +61,7 @@ export const readout = {
     "relation-property/read-live-from",
     "relation-property/scale-slug",
     "text-property/color-slug",
+    "text-property/day-kind",
     "text-property/drawn-as",
     "text-property/earned-key",
     "text-property/figure-format",

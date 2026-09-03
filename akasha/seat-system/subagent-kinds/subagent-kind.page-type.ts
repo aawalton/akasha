@@ -17,7 +17,12 @@ export const subagentKind = {
   definition: "everything a subagent is, apart from the work it is given",
   pluralSlug: "subagent-kinds",
   extendsSlug: "page-type/domain",
-  partSlugs: ["file-property/subagent-prompt", "text-property/dispatched-as"],
+  partSlugs: [
+    "file-property/subagent-prompt",
+    "subagent-kind/explore",
+    "subagent-kind/general-purpose",
+    "text-property/dispatched-as",
+  ],
   properties: [
     { pagePropertySlug: "dispatched-as", required: true, many: false },
     { pagePropertySlug: "subagent-prompt", required: true, many: false },
