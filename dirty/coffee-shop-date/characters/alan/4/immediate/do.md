@@ -1,0 +1,1 @@
+Let the words rest where they landed — no follow-up line. Hold her gaze, let the smile settle into something quiet and unhurried, and ease back fully into the chair as if he means to stay exactly this long, letting the silence be the answer and the warmth deepen on its own.
