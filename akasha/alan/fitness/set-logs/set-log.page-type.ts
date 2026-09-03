@@ -55,7 +55,7 @@ export const setLog = {
     { pagePropertySlug: "duration-seconds", required: false, many: false },
     { pagePropertySlug: "exercise-slug", required: true, many: false },
     { pagePropertySlug: "is-warmup", required: false, many: false },
-    { pagePropertySlug: "note", required: false, many: false },
+    { pagePropertySlug: "text-property/note", required: false, many: false },
     { pagePropertySlug: "reps", required: false, many: false },
     { pagePropertySlug: "rpe", required: false, many: false },
     { pagePropertySlug: "session-slug", required: true, many: false },

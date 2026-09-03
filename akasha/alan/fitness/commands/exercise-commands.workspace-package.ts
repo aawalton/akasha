@@ -17,7 +17,19 @@ export const exerciseCommands = {
     "command/exercise-log-set",
     "command/exercise-mobility-log",
     "command/exercise-mobility-show",
+    "command/exercise-next-set",
+    "command/exercise-policy-show",
+    "command/exercise-profile-set",
+    "command/exercise-profile-show",
+    "command/exercise-ranks",
+    "command/exercise-schedule-create",
+    "command/exercise-select",
+    "command/exercise-session-finish",
+    "command/exercise-session-show",
+    "command/exercise-session-start",
+    "command/exercise-today",
     "module/exercise-said",
+    "module/exercise-saying",
   ],
   invariants: [
     {
@@ -35,6 +47,11 @@ export const exerciseCommands = {
     {
       invariantKind: "departure",
       statement: "A command here refuses rather than throwing, so a refused call changes nothing.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Two modules read the words a call was handed, and one of them is to absorb the other.",
     },
     {
       invariantKind: "gap",
