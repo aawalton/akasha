@@ -17,7 +17,5 @@
     "node_modules",
     "dist"
   ],
-  "references": [
-    { "path": "../git-porcelain" }
-  ]
+  "references": []
 }
