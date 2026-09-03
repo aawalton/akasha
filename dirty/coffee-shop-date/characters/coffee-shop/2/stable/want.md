@@ -1,0 +1,1 @@
+None, in the way a person wants. The shop only *tends*: drinks cool, the afternoon light moves across the floor, the room fills and empties on its own rhythm, the rain comes and goes. It enforces consequence; it pursues nothing. (Conation replaced by law — the setting's defining trait.)

@@ -1,0 +1,1 @@
+At the bottom edge of the near window, where the fog has thickened most, the single gathering bead finally tips its weight and slides — one slow, clear track downward through the grey film, baring a thin clean line of the blurred city for a moment before the fog begins to close over it again.

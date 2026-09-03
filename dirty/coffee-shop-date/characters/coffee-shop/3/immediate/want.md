@@ -1,0 +1,1 @@
+Inert. Only the slow tending: the cooling cup, the thickening fog at the glass and its single gathering bead, the playlist running its slower course, the rain keeping its steady weight. The shop holds the closed-warm moment exactly as it is and pursues nothing, content to let the afternoon stay unhurried.
