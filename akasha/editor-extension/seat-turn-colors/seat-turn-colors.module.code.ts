@@ -1,6 +1,11 @@
 import * as path from "node:path"
-import { akashaRoot, repositoryPath, runCommand, commandPath } from "@akasha/editor-extension/harness-call"
-import { colorNamed } from "@akasha/editor-extension/palette"
+import {
+  akashaRoot,
+  commandPath,
+  repositoryPath,
+  runCommand,
+} from "../harness-call/harness-call.module.code.ts"
+import { colorNamed } from "../palette/palette.module.code.ts"
 
 const CALL_TIMEOUT_MS = 30_000
 
@@ -8,9 +13,6 @@ const MAX_BUFFER = 4 * 1024 * 1024
 
 const COMMAND = "agent-turn-colors"
 
-// WHERE A SEAT SITS, WHICH IS AKASHA AND NOWHERE ELSE. The watchers every feature registers are
-// built from these two, so pointing them here is what moves the agent tree, the terminal names and
-// the work tree onto the store the fleet actually writes.
 const AKASHA_SEAT_DIR = "akasha/seat-system/seats/pages"
 
 export const SEAT_SIDECAR_GLOB = "*.uncommitted.ts"
@@ -53,9 +55,6 @@ export function readTurnColorAnswer(answered: unknown): Readonly<Record<string, 
   return found
 }
 
-// ASKED AS A CHILD RATHER THAN READ HERE. Reading a seat's turn state reaches akasha page bodies,
-// and loading one wants a transpiler only bun carries, so in this node host the whole reach threw
-// at import before a color was ever asked for.
 export async function readSeatTurnColors(
   agentIds: readonly string[]
 ): Promise<ReadonlyMap<string, string>> {
