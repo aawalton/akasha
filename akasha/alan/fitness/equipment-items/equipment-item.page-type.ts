@@ -39,7 +39,7 @@ export const equipmentItem = {
     { pagePropertySlug: "equipment-item-configuration", required: false, many: false },
     { pagePropertySlug: "equipment-item-loads", required: false, many: false },
     { pagePropertySlug: "equipment-item-sort-order", required: false, many: false },
-    { pagePropertySlug: "notes", required: false, many: false },
+    { pagePropertySlug: "text-property/notes", required: false, many: false },
   ],
   invariants: [
     {

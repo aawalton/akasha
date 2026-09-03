@@ -43,7 +43,7 @@ export const mobilityReading = {
     { pagePropertySlug: "side", required: true, many: false },
     { pagePropertySlug: "mobility-reading-value-num", required: false, many: false },
     { pagePropertySlug: "mobility-reading-value-text", required: true, many: false },
-    { pagePropertySlug: "note", required: false, many: false },
+    { pagePropertySlug: "text-property/note", required: false, many: false },
   ],
   invariants: [
     {
