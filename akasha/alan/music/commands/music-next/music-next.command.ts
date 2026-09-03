@@ -28,6 +28,23 @@ export const musicNext = {
       statement: "A song page naming no type is read as a song the artist did not write.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A grade is read under the `rank` key rather than under the `--rating` flag's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key a grade is read under is one the page type declares or inherits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type declaring no `rank` is refused rather than read as nothing graded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page carrying no grade is ungraded rather than a fault.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches Spotify.",
     },
