@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const carve = {
-  id: "01a05fd0-4387-707e-a301-d56c83584c8b",
+  id: "019e6226-00db-70e2-9f24-7231705479ee",
   pageTypeSlug: "temper-skill",
   slug: "carve",
   title: "Carve",

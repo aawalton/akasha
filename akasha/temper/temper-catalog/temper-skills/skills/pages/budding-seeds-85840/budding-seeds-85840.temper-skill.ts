@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const buddingSeeds85840 = {
-  id: "01a05fd0-4381-73d2-a4b2-c72a0bd1f79f",
+  id: "019e6f53-9f96-784b-b2e6-fa757b87100b",
   pageTypeSlug: "temper-skill",
   slug: "budding-seeds-85840",
   title: "Budding Seeds",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const brawler38754 = {
-  id: "01a05fd0-437f-7030-a85f-2cdbb31874c3",
+  id: "019e6f53-9f8a-74a7-9668-752a6f3445de",
   pageTypeSlug: "temper-skill",
   slug: "brawler-38754",
   title: "Brawler",

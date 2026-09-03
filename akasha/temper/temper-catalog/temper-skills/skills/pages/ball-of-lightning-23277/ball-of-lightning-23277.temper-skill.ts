@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const ballOfLightning23277 = {
-  id: "01a05fd0-4359-7eb4-9005-6eaa027b29ae",
+  id: "019e6f53-9ee5-72e3-aef8-f0fd730185b5",
   pageTypeSlug: "temper-skill",
   slug: "ball-of-lightning-23277",
   title: "Ball of Lightning",

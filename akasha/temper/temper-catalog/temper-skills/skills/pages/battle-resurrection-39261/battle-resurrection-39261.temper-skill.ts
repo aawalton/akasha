@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const battleResurrection39261 = {
-  id: "01a05fd0-435d-78e0-a4fe-af679b7db3b8",
+  id: "019e6f53-9ef2-76c0-81ed-cbb7405be378",
   pageTypeSlug: "temper-skill",
   slug: "battle-resurrection-39261",
   title: "Battle Resurrection",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const boundlessStorm23213 = {
-  id: "01a05fd0-437d-756b-9f5a-5ed834d05247",
+  id: "019e6f53-9f83-7059-99d6-b0acc39e840a",
   pageTypeSlug: "temper-skill",
   slug: "boundless-storm-23213",
   title: "Boundless Storm",

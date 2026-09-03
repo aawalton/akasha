@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const bitingJabs26792 = {
-  id: "01a05fd0-4363-738b-9753-cb6563202b2e",
+  id: "019e6f53-9f13-7984-8526-a4660ba40074",
   pageTypeSlug: "temper-skill",
   slug: "biting-jabs-26792",
   title: "Biting Jabs",

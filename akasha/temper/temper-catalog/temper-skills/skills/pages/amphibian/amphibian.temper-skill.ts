@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const amphibian = {
-  id: "01a05fd0-4345-7f0b-a26b-2c37d548aa2f",
+  id: "019e624a-12bc-7a6e-8568-3957e36c03d4",
   pageTypeSlug: "temper-skill",
   slug: "amphibian",
   title: "Amphibian",

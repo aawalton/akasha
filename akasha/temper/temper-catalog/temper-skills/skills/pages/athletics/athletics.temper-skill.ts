@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const athletics = {
-  id: "01a05fd0-4353-7c34-a5ba-49640a68eff9",
+  id: "019e6238-c293-78ef-8bf0-2f9ef588e311",
   pageTypeSlug: "temper-skill",
   slug: "athletics",
   title: "Athletics",

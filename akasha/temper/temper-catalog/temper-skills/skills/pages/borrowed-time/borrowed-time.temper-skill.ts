@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const borrowedTime = {
-  id: "01a05fd0-437a-76c5-9cb3-531435b55caa",
+  id: "019e6238-c29d-71e1-b42f-bb0baba1e0c2",
   pageTypeSlug: "temper-skill",
   slug: "borrowed-time",
   title: "Borrowed Time",

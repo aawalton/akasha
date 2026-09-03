@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const boneSurge = {
-  id: "01a05fd0-4378-75a1-8f41-94405d8ca770",
+  id: "019e6238-c29b-7e54-8f20-5a193d0b1033",
   pageTypeSlug: "temper-skill",
   slug: "bone-surge",
   title: "Bone Surge",

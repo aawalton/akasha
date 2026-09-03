@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const apocryphalGate = {
-  id: "01a05fd0-434c-7b70-93b3-aa16091d14ba",
+  id: "019e6f53-9eb8-7fa0-bf6a-3477e431db84",
   pageTypeSlug: "temper-skill",
   slug: "apocryphal-gate",
   title: "Apocryphal Gate",

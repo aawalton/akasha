@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const blur = {
-  id: "01a05fd0-4374-79f8-808a-eef21812e5c4",
+  id: "019e6f53-9f64-77d7-96b7-c2df591c6102",
   pageTypeSlug: "temper-skill",
   slug: "blur",
   title: "Blur",

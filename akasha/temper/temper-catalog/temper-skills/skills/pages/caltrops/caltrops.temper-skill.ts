@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const caltrops = {
-  id: "01a05fd0-4385-716b-95ed-431cb61eb976",
+  id: "019e6f53-9fad-7cf3-af02-b1c7881820c7",
   pageTypeSlug: "temper-skill",
   slug: "caltrops",
   title: "Caltrops",

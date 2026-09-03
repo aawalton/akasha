@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const chemistry = {
-  id: "01a05fd0-4391-78f6-818a-b5f31a8091aa",
+  id: "019e6224-cc90-717f-99cc-19e337308cbd",
   pageTypeSlug: "temper-skill",
   slug: "chemistry",
   title: "Chemistry",

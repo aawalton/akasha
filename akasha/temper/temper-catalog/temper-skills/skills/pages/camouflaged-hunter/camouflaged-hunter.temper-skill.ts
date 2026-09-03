@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const camouflagedHunter = {
-  id: "01a05fd0-4385-74d2-9c57-39f133f0fd06",
+  id: "019e6238-c2a0-7e3f-8eb0-7b430133a375",
   pageTypeSlug: "temper-skill",
   slug: "camouflaged-hunter",
   title: "Camouflaged Hunter",

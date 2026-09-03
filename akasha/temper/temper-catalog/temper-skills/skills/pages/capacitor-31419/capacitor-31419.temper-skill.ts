@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const capacitor31419 = {
-  id: "01a05fd0-4386-7d1e-ad2a-e70911ef53d9",
+  id: "019e6f53-9fb3-7c38-89e8-8336235d7be4",
   pageTypeSlug: "temper-skill",
   slug: "capacitor-31419",
   title: "Capacitor",

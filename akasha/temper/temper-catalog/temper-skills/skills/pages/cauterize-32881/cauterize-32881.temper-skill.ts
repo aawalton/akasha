@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const cauterize32881 = {
-  id: "01a05fd0-438a-74c9-a69e-41c1e5721cca",
+  id: "019e6f53-9fc3-7be2-910b-cd9d5ee3b1ba",
   pageTypeSlug: "temper-skill",
   slug: "cauterize-32881",
   title: "Cauterize",

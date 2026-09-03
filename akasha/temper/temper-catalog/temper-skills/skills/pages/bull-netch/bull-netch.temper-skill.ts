@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const bullNetch = {
-  id: "01a05fd0-4381-7ac7-a5ae-d49ed184d05e",
+  id: "019e6245-a608-7dca-b04c-efb5af257cc3",
   pageTypeSlug: "temper-skill",
   slug: "bull-netch",
   title: "Bull Netch",

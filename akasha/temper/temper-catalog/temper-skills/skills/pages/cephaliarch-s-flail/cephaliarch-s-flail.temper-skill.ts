@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const cephaliarchSFlail = {
-  id: "01a05fd0-438a-7879-82a4-a5f27f500ef5",
+  id: "019e6f53-9fc4-7e6c-a107-763cf4dfad95",
   pageTypeSlug: "temper-skill",
   slug: "cephaliarch-s-flail",
   title: "Cephaliarch's Flail",

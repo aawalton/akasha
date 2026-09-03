@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const advancedSpecies = {
-  id: "01a05fd0-4341-7ea0-9c84-3d5253b0ef97",
+  id: "019e6245-a5e5-7e39-aa0f-613701e21698",
   pageTypeSlug: "temper-skill",
   slug: "advanced-species",
   title: "Advanced Species",

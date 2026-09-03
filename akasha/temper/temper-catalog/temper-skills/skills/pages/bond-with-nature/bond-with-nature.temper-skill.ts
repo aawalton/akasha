@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const bondWithNature = {
-  id: "01a05fd0-4376-79e3-bf19-f472c4f1487e",
+  id: "019e6245-a601-78d8-8c95-1b1c89574423",
   pageTypeSlug: "temper-skill",
   slug: "bond-with-nature",
   title: "Bond with Nature",

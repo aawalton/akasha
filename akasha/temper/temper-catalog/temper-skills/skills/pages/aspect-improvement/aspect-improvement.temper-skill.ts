@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const aspectImprovement = {
-  id: "01a05fd0-4352-7a13-9c81-8dcda3b2bea5",
+  id: "019e6224-cc85-7923-b588-97452f5b4634",
   pageTypeSlug: "temper-skill",
   slug: "aspect-improvement",
   title: "Aspect Improvement",

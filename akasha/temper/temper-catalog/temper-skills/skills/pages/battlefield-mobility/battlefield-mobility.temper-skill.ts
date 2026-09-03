@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const battlefieldMobility = {
-  id: "01a05fd0-435e-7d9f-ba3c-890f837f7692",
+  id: "019e6226-00d5-76c0-a467-2b322f11eab2",
   pageTypeSlug: "temper-skill",
   slug: "battlefield-mobility",
   title: "Battlefield Mobility",

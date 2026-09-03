@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const birdOfPrey = {
-  id: "01a05fd0-4362-731b-b2ee-6d083dffe2be",
+  id: "019e6245-a5f7-7251-9262-2ce8e8776426",
   pageTypeSlug: "temper-skill",
   slug: "bird-of-prey",
   title: "Bird of Prey",

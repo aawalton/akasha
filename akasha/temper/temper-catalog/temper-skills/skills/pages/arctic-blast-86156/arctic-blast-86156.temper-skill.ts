@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const arcticBlast86156 = {
-  id: "01a05fd0-434d-75a8-8f3a-6c6bd3e3f412",
+  id: "019e6f53-9ebc-7fec-8247-51785fc29c29",
   pageTypeSlug: "temper-skill",
   slug: "arctic-blast-86156",
   title: "Arctic Blast",

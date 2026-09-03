@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const channeledAcceleration = {
-  id: "01a05fd0-438f-7ece-a348-80ff1ecba5b1",
+  id: "019e6238-c2a3-7b61-933a-559b1ea8b7ab",
   pageTypeSlug: "temper-skill",
   slug: "channeled-acceleration",
   title: "Channeled Acceleration",

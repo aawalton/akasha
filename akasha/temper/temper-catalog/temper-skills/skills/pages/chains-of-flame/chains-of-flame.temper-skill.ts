@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const chainsOfFlame = {
-  id: "01a05fd0-438d-7d58-bd01-57f41c350ae3",
+  id: "019e6f53-9fce-790b-8622-26e622693e55",
   pageTypeSlug: "temper-skill",
   slug: "chains-of-flame",
   title: "Chains of Flame",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const argonianResistance = {
-  id: "01a05fd0-434e-73d0-b2eb-c32b48a523f9",
+  id: "019e624a-12be-716e-bbbd-b87a0f0f6e92",
   pageTypeSlug: "temper-skill",
   slug: "argonian-resistance",
   title: "Argonian Resistance",

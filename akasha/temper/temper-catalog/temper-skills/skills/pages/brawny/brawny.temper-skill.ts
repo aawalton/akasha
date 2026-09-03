@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const brawny = {
-  id: "01a05fd0-437f-7799-b5b7-4f3b4531167e",
+  id: "019e624a-12c1-726c-8677-2e48f66258b5",
   pageTypeSlug: "temper-skill",
   slug: "brawny",
   title: "Brawny",

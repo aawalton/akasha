@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const circleOfProtection = {
-  id: "01a05fd0-4392-73a5-9217-5ce8f8776fd7",
+  id: "019e6f53-9fe5-7421-9375-d34f610c2b58",
   pageTypeSlug: "temper-skill",
   slug: "circle-of-protection",
   title: "Circle of Protection",

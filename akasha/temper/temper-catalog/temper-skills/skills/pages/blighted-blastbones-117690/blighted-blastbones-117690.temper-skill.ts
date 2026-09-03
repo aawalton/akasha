@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const blightedBlastbones117690 = {
-  id: "01a05fd0-4368-762e-b625-da487e840072",
+  id: "019e6f53-9f3a-729b-b8e0-3d00138a95d9",
   pageTypeSlug: "temper-skill",
   slug: "blighted-blastbones-117690",
   title: "Blighted Blastbones",

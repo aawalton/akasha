@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const breathOfLife22256 = {
-  id: "01a05fd0-4380-799f-b73d-4ac2df22d3f2",
+  id: "019e6f53-9f8e-7fb6-b18d-dfda66934817",
   pageTypeSlug: "temper-skill",
   slug: "breath-of-life-22256",
   title: "Breath of Life",

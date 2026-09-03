@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const antiCavalryCaltrops = {
-  id: "01a05fd0-434b-79ab-90cf-5a056ee7d380",
+  id: "019e6251-4c83-71c8-8b2d-ab1c84f380dc",
   pageTypeSlug: "temper-skill",
   slug: "anti-cavalry-caltrops",
   title: "Anti-Cavalry Caltrops",

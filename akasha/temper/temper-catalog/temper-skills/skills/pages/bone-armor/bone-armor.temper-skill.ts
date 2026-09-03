@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const boneArmor = {
-  id: "01a05fd0-4377-73d1-9ebc-58ccbafc4983",
+  id: "019e6f53-9f6f-72a7-acdc-4243995e749e",
   pageTypeSlug: "temper-skill",
   slug: "bone-armor",
   title: "Bone Armor",

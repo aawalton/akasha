@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const aegisOfTheUnseen = {
-  id: "01a05fd0-4342-7537-838c-ecbc2a537456",
+  id: "019e6245-a5e7-75e0-986b-a13cb79931ab",
   pageTypeSlug: "temper-skill",
   slug: "aegis-of-the-unseen",
   title: "Aegis of the Unseen",

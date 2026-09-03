@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const burstingVines = {
-  id: "01a05fd0-4384-7d5f-94c1-ef8d09ad2f67",
+  id: "019e6245-a60d-7e01-b3fe-c177319df201",
   pageTypeSlug: "temper-skill",
   slug: "bursting-vines",
   title: "Bursting Vines",

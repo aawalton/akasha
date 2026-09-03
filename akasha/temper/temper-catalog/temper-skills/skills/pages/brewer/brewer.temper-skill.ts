@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const brewer = {
-  id: "01a05fd0-4380-7b8c-b9cc-64fb9bc77a82",
+  id: "019e6224-cc88-7e91-b5b1-737092f32a87",
   pageTypeSlug: "temper-skill",
   slug: "brewer",
   title: "Brewer",

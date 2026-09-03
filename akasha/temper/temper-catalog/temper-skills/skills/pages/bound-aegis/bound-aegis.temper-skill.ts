@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const boundAegis = {
-  id: "01a05fd0-437a-7e3b-b4ae-5b4480d7c38c",
+  id: "019e6245-a602-797f-ae20-3a1aea74def8",
   pageTypeSlug: "temper-skill",
   slug: "bound-aegis",
   title: "Bound Aegis",

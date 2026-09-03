@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const clairvoyance103809 = {
-  id: "01a05fd0-4394-773b-ab21-812c85f001fa",
+  id: "019e6f53-9fed-75a0-af11-3bb37855ed38",
   pageTypeSlug: "temper-skill",
   slug: "clairvoyance-103809",
   title: "Clairvoyance",

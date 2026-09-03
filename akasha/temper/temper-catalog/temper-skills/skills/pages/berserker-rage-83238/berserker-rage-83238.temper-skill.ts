@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const berserkerRage83238 = {
-  id: "01a05fd0-435f-72df-b2fa-c9727f9d7779",
+  id: "019e6f53-9f03-7871-b8d3-36db52f1f340",
   pageTypeSlug: "temper-skill",
   slug: "berserker-rage-83238",
   title: "Berserker Rage",

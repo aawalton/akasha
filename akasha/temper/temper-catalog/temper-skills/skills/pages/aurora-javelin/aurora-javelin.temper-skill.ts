@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const auroraJavelin = {
-  id: "01a05fd0-4355-78cf-9039-a90f48d8e5e9",
+  id: "019e6245-a5ef-7a5a-955a-d09911ea2dbe",
   pageTypeSlug: "temper-skill",
   slug: "aurora-javelin",
   title: "Aurora Javelin",

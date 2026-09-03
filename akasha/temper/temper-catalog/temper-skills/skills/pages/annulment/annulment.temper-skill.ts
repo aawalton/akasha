@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const annulment = {
-  id: "01a05fd0-434b-7ea5-8ff2-d9d4b23fb031",
+  id: "019e6f53-9eb3-739e-843c-030a9097433a",
   pageTypeSlug: "temper-skill",
   slug: "annulment",
   title: "Annulment",

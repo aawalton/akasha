@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const burnishedScales = {
-  id: "01a05fd0-4383-7d6c-b00f-025346ebbf18",
+  id: "019e6f53-9fa6-7400-855c-86ba606dfb23",
   pageTypeSlug: "temper-skill",
   slug: "burnished-scales",
   title: "Burnished Scales",

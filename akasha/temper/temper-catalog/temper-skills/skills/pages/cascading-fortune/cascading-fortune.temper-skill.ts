@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const cascadingFortune = {
-  id: "01a05fd0-4388-7ae3-8402-f897f960e81f",
+  id: "019e6245-a610-73bd-93f8-0b8b44e5636f",
   pageTypeSlug: "temper-skill",
   slug: "cascading-fortune",
   title: "Cascading Fortune",

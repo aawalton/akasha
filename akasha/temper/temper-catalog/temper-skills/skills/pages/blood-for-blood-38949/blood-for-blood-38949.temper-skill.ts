@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const bloodForBlood38949 = {
-  id: "01a05fd0-436d-7e3b-b1f8-305a5d839639",
+  id: "019e6f53-9f48-7f04-b483-6dbc8c7f01cf",
   pageTypeSlug: "temper-skill",
   slug: "blood-for-blood-38949",
   title: "Blood for Blood",

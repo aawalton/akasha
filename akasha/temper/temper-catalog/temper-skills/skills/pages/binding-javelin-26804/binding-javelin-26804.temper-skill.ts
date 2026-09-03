@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const bindingJavelin26804 = {
-  id: "01a05fd0-4362-772e-91b7-4d754e7bd2d6",
+  id: "019e6f53-9f0b-73bb-acac-d23fe932d176",
   pageTypeSlug: "temper-skill",
   slug: "binding-javelin-26804",
   title: "Binding Javelin",

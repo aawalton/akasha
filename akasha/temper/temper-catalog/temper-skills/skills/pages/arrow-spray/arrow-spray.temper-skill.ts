@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const arrowSpray = {
-  id: "01a05fd0-434f-74e0-a65a-d43cf2349372",
+  id: "019e6f53-9ec4-7ff1-8f01-3d00b1cbeb56",
   pageTypeSlug: "temper-skill",
   slug: "arrow-spray",
   title: "Arrow Spray",

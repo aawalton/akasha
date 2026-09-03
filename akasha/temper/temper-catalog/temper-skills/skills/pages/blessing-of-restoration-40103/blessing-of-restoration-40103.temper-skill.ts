@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const blessingOfRestoration40103 = {
-  id: "01a05fd0-4367-79e3-8c53-d2490dfaad29",
+  id: "019e6f53-9f34-7783-aa83-875afb137b5e",
   pageTypeSlug: "temper-skill",
   slug: "blessing-of-restoration-40103",
   title: "Blessing of Restoration",

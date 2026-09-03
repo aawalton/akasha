@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const braidedTether118070 = {
-  id: "01a05fd0-437e-7124-aa08-5b71186dd29e",
+  id: "019e6f53-9f87-79de-a8e0-2c54f30bb343",
   pageTypeSlug: "temper-skill",
   slug: "braided-tether-118070",
   title: "Braided Tether",

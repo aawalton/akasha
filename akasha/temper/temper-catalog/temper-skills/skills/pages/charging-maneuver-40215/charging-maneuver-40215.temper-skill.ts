@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const chargingManeuver40215 = {
-  id: "01a05fd0-4390-70f8-8471-d4c158202783",
+  id: "019e6f53-9fdc-7824-b2b8-a31c73cc505f",
   pageTypeSlug: "temper-skill",
   slug: "charging-maneuver-40215",
   title: "Charging Maneuver",

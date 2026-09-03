@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const circumventedFate184930 = {
-  id: "01a05fd0-4393-7f78-8006-5af5ab1ca8aa",
+  id: "019e6f53-9fe8-7eb0-9aeb-81394cb144c9",
   pageTypeSlug: "temper-skill",
   slug: "circumvented-fate-184930",
   title: "Circumvented Fate",

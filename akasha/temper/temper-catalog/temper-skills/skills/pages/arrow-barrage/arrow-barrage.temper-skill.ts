@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const arrowBarrage = {
-  id: "01a05fd0-434f-7299-a755-593ba50dedfb",
+  id: "019e6226-00d2-7127-a90f-5b9179bec5ad",
   pageTypeSlug: "temper-skill",
   slug: "arrow-barrage",
   title: "Arrow Barrage",

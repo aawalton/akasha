@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const ashlander = {
-  id: "01a05fd0-4351-7a02-88de-8feb5e9fcce7",
+  id: "019e624a-12bf-791e-a836-4fd14d94080d",
   pageTypeSlug: "temper-skill",
   slug: "ashlander",
   title: "Ashlander",

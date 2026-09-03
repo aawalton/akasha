@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const boundArmor = {
-  id: "01a05fd0-437c-7078-8338-876a6a3ff440",
+  id: "019e6f53-9f80-73f7-8c23-5a00935f0ab2",
   pageTypeSlug: "temper-skill",
   slug: "bound-armor",
   title: "Bound Armor",

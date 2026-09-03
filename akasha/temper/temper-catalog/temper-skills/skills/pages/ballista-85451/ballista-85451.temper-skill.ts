@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const ballista85451 = {
-  id: "01a05fd0-435a-7a6a-bd52-098cb60a3ecf",
+  id: "019e6f53-9ee8-70a4-b0a7-8634992edf5a",
   pageTypeSlug: "temper-skill",
   slug: "ballista-85451",
   title: "Ballista",
