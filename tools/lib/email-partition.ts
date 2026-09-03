@@ -1,4 +1,9 @@
+import type { Rule } from "@akasha/email-watch/email-rule-reading"
+import { rulesOf } from "@akasha/email-watch/email-rule-reading"
+import { emailRuleSet, ruleFolderOf, ruleLocation } from "@akasha/email-watch/email-rule-set"
+import type { Message } from "@akasha/google-email/gmail-mailbox"
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Condition } from "@akasha/rules-engine/rule-conditions"
 import {
   type Case,
   CEILING,
@@ -8,12 +13,6 @@ import {
 } from "@akasha/rules-engine/rule-partition"
 import { refusalText } from "../../refusal/refusal.ts"
 import type { RepoView } from "./check.ts"
-import type { Condition } from "./email-rule.ts"
-import { parseMatch, ruleFolderOf, ruleLocation } from "./email-rule.ts"
-import { emailRuleSet } from "./email-rule-set.ts"
-import type { Rule } from "./email-rules.ts"
-import { rulesOf } from "./email-rules.ts"
-import type { Message } from "@akasha/google-email/gmail-mailbox"
 import type { Group, Meeting, Printers, RuleSubject, Unreadable } from "./rules-subject.ts"
 
 export const MESSAGES = "distinguishable message(s)"
@@ -70,31 +69,24 @@ export interface RuleSet {
   readonly unreadable: readonly { readonly relPath: string; readonly stray: number }[]
 }
 
-export function ruleSetsOf(
-  documents: readonly string[],
-  read: (relPath: string) => string,
-  root: string
-): readonly RuleSet[] {
+export function ruleSetsOf(documents: readonly string[], root: string): readonly RuleSet[] {
   const people = new Set<string>()
   for (const relPath of documents) {
     const at = ruleLocation(relPath)
     if (at !== null) people.add(at.person)
   }
-  return [...people].sort().map((person) => {
-    const rules = rulesOf(person, root)
-    return {
-      person,
-      folder: ruleFolderOf(person),
-      rules,
-      unreadable: rules
-        .map((rule) => ({ relPath: rule.relPath, stray: parseMatch(read(rule.relPath)).stray }))
-        .filter((one) => one.stray > 0),
-    }
-  })
+  return [...people].sort().map((person) => ({
+    person,
+    folder: ruleFolderOf(person),
+    rules: rulesOf(person, root),
+    // A rule page is TypeScript, so it either declares its clauses or fails to load.
+    // There is no half-read body to count stray lines in, as there was in markdown.
+    unreadable: [],
+  }))
 }
 
 function groupsOf(repo: RepoView): readonly Group[] {
-  return ruleSetsOf(repo.documents, repo.read, rootFor(repo.roots, AKASHA)).map((one) => ({
+  return ruleSetsOf(repo.documents, rootFor(repo.roots, AKASHA)).map((one) => ({
     label: one.folder,
     rules: one.rules,
     unreadable: one.unreadable,

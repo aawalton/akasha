@@ -13,13 +13,20 @@ describe("rulesOf", () => {
     expect(rules.filter((one) => one.kind === "agent")).toHaveLength(54)
   })
 
-  test("reads agent rules before code rules, each kind by slug", () => {
+  test("reads agent rules before code rules, each kind by page file name", () => {
     const kinds = [...new Set(rules.map((one) => one.kind))]
     expect(kinds).toEqual(["agent", "code"])
     for (const kind of kinds) {
-      const slugs = rules.filter((one) => one.kind === kind).map((one) => one.slug)
-      expect(slugs).toEqual([...slugs].sort())
+      const names = rules.filter((one) => one.kind === kind).map((one) => one.relPath)
+      expect(names).toEqual([...names].sort())
     }
+  })
+
+  test("orders a slug before the slug it is a prefix of, as the file names do", () => {
+    const at = (slug: string) => rules.findIndex((one) => one.slug === slug)
+    expect(at("apple-developer-notices-testflight-no-reply")).toBeLessThan(
+      at("apple-developer-notices")
+    )
   })
 
   test("carries a code rule's filing and its clauses", () => {
