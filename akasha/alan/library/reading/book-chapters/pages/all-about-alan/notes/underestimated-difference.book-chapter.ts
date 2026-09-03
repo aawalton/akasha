@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const underestimatedDifference = {
   id: "01a06594-c685-700c-bf84-4e3291bc4b34",

@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const triggerBasedMemory = {
   id: "01a06594-c685-700a-98a5-13eb6b786d38",

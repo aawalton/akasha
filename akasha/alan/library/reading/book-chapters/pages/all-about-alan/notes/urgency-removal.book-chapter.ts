@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const urgencyRemoval = {
   id: "01a06594-c685-700e-8919-1657b498c0fa",

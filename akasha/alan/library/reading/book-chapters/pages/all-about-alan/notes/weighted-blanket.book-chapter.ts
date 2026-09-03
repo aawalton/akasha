@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const weightedBlanket = {
   id: "01a06594-c686-7005-90b6-dce81da056fc",

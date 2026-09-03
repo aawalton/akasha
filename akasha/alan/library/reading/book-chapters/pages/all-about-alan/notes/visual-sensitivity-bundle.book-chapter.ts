@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const visualSensitivityBundle = {
   id: "01a06594-c686-7000-901b-c7b8423ef6b7",

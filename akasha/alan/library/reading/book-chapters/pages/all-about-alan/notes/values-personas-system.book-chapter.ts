@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const valuesPersonasSystem = {
   id: "01a06594-c685-7011-aff6-ba653e49c0cb",

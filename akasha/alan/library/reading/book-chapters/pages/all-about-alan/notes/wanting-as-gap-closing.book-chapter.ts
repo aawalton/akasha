@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const wantingAsGapClosing = {
   id: "01a06594-c686-7002-83cd-f8e8684bb108",
