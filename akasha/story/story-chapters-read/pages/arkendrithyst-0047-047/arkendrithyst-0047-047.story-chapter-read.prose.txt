@@ -1,0 +1,168 @@
+Jane said, “Insight, Creation, More Mana, More Mana Regeneration, and either Healing or More Particle AoE, though I don’t think you really need either. Sculpt Spell is also a winner; it reads like you could choose to avoid raining on the town; you wouldn’t have to move the temple. It would also help with your Handy Aura, Dad.”
+
+Erick was stunned. This was his power gamer daughter? She didn’t want Killer, or Poison? Even he could see how those would be useful against Shades. Wouldn’t they? Sapping spell didn’t even have a listed cap—
+
+Erick asked, “If I have a [Familiar] and Sapping, would the [Familiar] grant me False HP way beyond the cap listed under Particle Shell?”
+
+Jane glanced at Erick like she had seen an unexpected oddity. Like a rhino appearing from the sky, or the walls turning different colors.
+
+Erick said, "I'm learning, Jane. It's just taking a while."
+
+Jane's eyebrows rose, but she said nothing.
+
+Meanwhile, Irogh moved the floating blue box of Class Abilities to the side, to hang up against the wall. He read the air for a moment. “Not directly.” He hummed. “I see how you would think that. It doesn’t specify Particle Spells Only in the description but it… it should. Sorry. This is a very new Class. We’re still working out the bugs—”
+
+The blue box for Sapping Spell changed.
+
+Sapping Particle Spell, gain False HP from hurting your enemies with Particle Spells, lasts 1 hour, is renewed with more damage done to enemies.
+
+Irogh said, “You’d need a [Particle Familiar] to make that work, and it wouldn't grant you False HP, but it would grant the [Particle Familiar] False HP. But, yes, Sapping has no cap, as you can see. But in order to create such a [Particle Familiar] you would likely need to take Particulate Force.”
+
+Jane breathed calmly, but she turned to Erick with eyes full of pain. “Do not take Particulate Force, Dad. Please. Just… Don’t. Don’t try to combine Particle and Force magic ever again. That’s why I didn’t suggest Sapping.” She calmed, saying, “You almost killed yourself with this latest magic. Either you tried to do too much or you didn’t have a clear understanding of what you were asking for or— I don’t know what happened there, exactly.” She spoke, and her words were steel, “I cannot watch you kill yourself. Do you understand that? I want you to understand this: I’m never talking to you again if you take Particulate Force.”
+
+She was serious. Erick had rarely seen his daughter like this. Jane had drawn a line in the sand, and Erick was at that line. He took a step back.
+
+Erick said, “I won’t take Particulate Force. I’ll always use Insight before trying to make a spell, too.”
+
+Jane stilled. She smiled, but a tear rolled down her face. She brushed it away, quickly, then sniffled, and said, “Thank you.” She breathed.
+
+She relaxed.
+
+Erick tried to relax, too, but he was still startled by Jane’s ferocity.
+
+“Just so we’re clear:” Jane turned to Irogh, “If he doesn’t take Particulate Force, does that mean he is locked out of that kind of magic? There’s no chance to create a [Particle Force Familiar], even with a song?”
+
+“If he has Particulate Force, he will be allowed to complete his song to the end, and he will accept all the Errors it will cause. If he does not have Particulate Force, then he will be automatically struck with a moderate Error at the end, but there will never be any spell created, because now the Script has a…” Irogh scrunched his face, “A ‘buffer’? Am I using that term correctly? We have a buffer now for any sort of spell creation.” He spoke with confidence, “A buffer for all spell creation. Errors have been mostly normalized. Unless you take Particulate Force, in which case you might be hit with non-standard Errors.”
+
+Erick didn’t know what to make of that.
+
+But Jane’s face had gone pale. She said, “He won’t be taking Particulate Force, so that shouldn’t be an issue.” She turned to Erick. “Right, Dad?”
+
+Erick said, “Yeah. I won’t take it. Not that one. Seems like a trap?”
+
+Jane nodded. “It’s a double edged sword and you might kill yourself with it.
+
+And then Jane started in on him, “We also have to talk about your Favored Spells. Didn’t you Favor your [Call Lightning]? See about getting that undone and Favoring [Ward] instead. I’ve got 40 Willpower right now, which, with all my boosts, gives me 2400 mana. With Clarity for half cost and then Favored Spell for another 25% off, drops all [Ward]s to 25% of the original cost, which gives me a [Personal Ward] of 4700 points. That darn thing has saved my life so many times...” She frowned. She said, “[Ward] has been really good. Everyone says that Favoring [Ward] is boring, but boring works. Gambesons work better than plate in almost all scenarios. A shot to the head is better than trying to hamstring a giant. Fiscal responsibility means no clubbing and normal clothes, but it also means you have enough left in the tank for emergencies, and on Veird, for an adventurer, there are only ever emergencies.
+
+She kept going, “If it were me taking this Class, I would go for Killer, More Mana, Sapping, All Spell Cost Reduction, and maybe Sculpt Spell, just so I could use some theoretical Particle Aura in the middle of my team or to concentrate damage in one area.
+
+She continued, “All Spell Cost Reduction is massive, Dad.” She got a far off look in her eyes, thinking, saying, “With [Ward] Favored, and another 10% off, you’re spending 15% of the mana needed to make a [Ward]. With those prerequisites and 1000 mana, a [Personal Ward]… 15 goes into 100 6-point-6 times, but divided by 2 because [Personal Ward] is twice the cost… 1000 mana will give you a 3300 point shield. Or 3100 because you don’t want to be at 0 mana, but whatever. At my 2400 mana, that would give me a… 7800 point [Personal Ward]. If I got More Mana and all of this? … Uh… that’s a 15000 [Personal Ward]. 30,000 if I put it on the ground instead of on myself. If you put 1000 mana into a [Ward] on the ground, it would be worth 6600 effective HP.” She came back to herself, to say, “[Ward Strike] from a competent assassin would probably get through most of that, but not all.
+
+“I’ve researched assassinations in my spare time and while there’s always overwhelming force in some scenarios, mostly, you’re looking at 5000 to 7000 damage for a top-end single attack. A ranged hit for 5000 is a lucky crit from a good spell, like [Force Beam Bolt], which is a [Force Beam] shot all at once. A melee [Strike] can be for more, but that’s only in melee.
+
+She looked to Erick. “I used to think that HP didn’t matter because everyone around town says it doesn’t matter, and to some extent this is true, but when you’re looking at over 8000 effective HP, it does mater. It matters a lot. I think that the people around town are mostly Classless, and only a few of them have Scion of Willpower, so, on average, with —I’m guessing— 1000 mana being the top end, just like you, they only have 2000 point shields and only if they Favor [Ward], which many don’t, because everyone here likes Strength based builds and even the mages don’t have the natural regen to keep up a [Ward] through the casual damage of multiple fights in a row.
+
+“People see these powerful adventurers running around, tanking giants, with just their pure Strength holding up these massive shields, effectively multiplying their HP by unknowable huge margins, protecting everyone and turning the tides of battle all on their own… Then they see mages destroying hundreds of wolves at a time, but also falling to the smallest critical hits because mages get into a lot of trouble when they’re pinned down.
+
+She stressed, “Shades can pin down mages, quite well.”
+
+Irogh rested with a light smile, for all of Jane’s speech.
+
+Jane said, “Back to the point: 2500 point [Ward]s are not that great, and the main contributor to why people don’t Favor [Ward]. But a 10,000 point [Ward] is fantastic, and you can get that with enough multipliers. Having a Class is a huge boost to your survivability, and you need to crunch those numbers right. Take the boring, survivable options, Dad. Sculpt spell is fancy, and I think I like it. Do you really need more area? I don’t know. Your choice. Healing seems fancy, too, but I’ve been talking to people, and more and more of the people coming into Spur, either to adventure or to farm, and are choosing to go with Focus builds, so that they can use [Telekinesis] more often; there’s some manual labor involved on the farm, but not much. You don’t expend that much HP using [Telekinesis] to pick vegetables.”
+
+There was a hiccup in the beginning where Erick almost interrupted —a 4700 point [Ward] saved her life!?— but then she kept going. Jane was in life and death situations all the time. Erick could have smacked himself for forgetting where he was, and who Jane was. She was right about a lot. She was probably right about all of what she had said.
+
+“I will endeavor to get this right.” Erick said, “This is a big help, Jane.”
+
+“Good.” Jane smiled softly. She stood up, saying, “You can tell me all about your abilities later, Dad. I gotta go.”
+
+Erick stood up. “Already?” A pang of loss ripped through his chest. “You could stay for dinner!” He bargained, “You could stay for the end of this?”
+
+Jane smiled wide. “I love you, Dad. I gotta go. Besides!” She spoke without sarcasm, “This is supposed to be something sacred between you and Rozeta. I gotta go.”
+
+She hugged Erick, and Erick felt yet another pang of loss, but softer this time.
+
+Jane let go. “I’ll talk to you later.” She asked Irogh, “One last thing before I go: Will he have to kill anything for any of these quest completions?”
+
+“Not for the ones you have specified.”
+
+“Good.” Jane bowed to Irogh. “Thank you for allowing me to participate in this event.”
+
+“Rozeta thanks you for your participation.” Irogh gestured to the air. The door unlocked with a click. “May all the Relevant Entities of the Script watch over you, Jane Flatt.”
+
+Jane hugged Erick one more time before rushing out of the door, past Poi, then vanishing in a blink of blue light, above the white marble floor of the Courthouse. Irogh waved his hand through the air again, and the door shut with another magical click.
+
+Erick sat back down, and sighed. “It never gets easier to watch her go.”
+
+Irogh nodded, but said nothing.
+
+Erick asked, "How would I go about un-Favoring my [Call Lightning]?”
+
+Irogh said, “1 grand-rad, and a Quest.” Irogh looked up, then back to Erick, saying, “UnFavoring [Call Lightning] will also unFavor [Lightning Aura], since the aura is a pure version of the original spell. You will only get one instance of Favored Spell back, though. If you want, I can issue you this quest right now, and you can complete it by fulfilling both conditions, in any order you wish.”
+
+Erick said, “I think I’ve made my decisions about all of it, actually. In addition to unFavoring [Call Lightning], I’d like the quests for Insight, Creation, More Mana, More Mana Regeneration, and… Sculpt Spell! Ah. Wait… Jane had a lot of good points about All Spell Cost Reduction.” He asked, “What do you think?”
+
+“How high in Willpower do you think you will go?”
+
+“Probably 50, at least. Not sure.”
+
+“You’ll have 3000 mana with the More Mana Class Ability. With all the bonuses she spoke of, spending 2900 mana will get you a 9570 point [Personal Ward]. Without All Spell Cost Reduction, and just Favored Spell, that’s a 5800 point [Personal Ward].” Irogh said, “Stacking cost reductions is rather powerful in the case of [Ward], especially if you have enough regen for that [Ward] to come back multiple times over the course of a day. And you will, with 12000 regen from the Double Mana Regen option. There was a lot of good to what she said.”
+
+Erick said, “Okay okay. You’re both right.”
+
+“No one is ‘right’, Erick.” Irogh said, “This is all personal choice. If you want Healing, take it. If you want Sculpt Spell, take it. If you want Cost Reduction, take it.”
+
+Erick breathed. He said, “Insight, Creation, More Mana, More Mana Regeneration, and… Sculpt spell. And unFavoring [Call Lightning].”
+
+Irogh smiled, saying, “Of course.” He tapped the air several times.
+
+Blue boxes appeared.
+
+Class Ability Quest!
+
+Ask for and receive a Relevant Entity’s Pledge of Insight, to assist in Spell Creation, 0/1
+
+Reward: Particular Insight
+
+Class Ability Quest!
+
+Create 1 new Large-Sized or greater Basic Particle Spell, 0/1
+
+OR
+
+Create 5 new Particle Spells by upgrading a known Particle Spell to a higher tier, 0/5
+
+Reward: Your ability to Create new Particle Spells is Greatly Increased
+
+Class Ability Quest!
+
+Enchant an item, or items, that give you twice as much Mana, then wear those items, consuming them in the process. 0/1
+
+Reward: Double your Base Mana
+
+Class Ability Quest!
+
+Enchant an item, or items, that give you twice as much Mana Regen, then wear those items, consuming them in the process. 0/1
+
+Reward: Double your Base Mana Regeneration
+
+Class Ability Quest!
+
+Reach Aurify 3, 0/1
+
+Reward: Major Mana Shaping applies to all Spells. Altering ongoing Auras is considerably easier.
+
+Status Change Quest!
+
+Be struck by natural lightning and survive, 0/1
+
+Grand-Rad, 0/1
+
+Reward: {Favored Spell} on [Call Lightning] returned to you, to be used on another Spell.
+
+All of the Quests looked as fine as Erick expected them to look.
+
+But that last one...
+
+UnFavoring [Call Lightning] felt wrong, somehow. Erick didn’t like it, in some instinctual, unknowable way. Be struck by natural lighting? As though accepting some final parting glance at what had been, in favor for what might come? He stared at the box for a few moments.
+
+Erick said, “I decline the Favored Spell switch quest, please.”
+
+Irogh said, “Done.”
+
+“Can Rozeta be my Relevant Entity for Insight?”
+
+Irogh glanced at the air for a moment, then turned back to Erick, and said, “She cannot. She has already been seen as favoring you too much. If you find a single Relevant Entity willing to help, she can do nothing, but if you truly have no offers, she will help.” He added, “She would like me to explain that she is supposed to be truly neutral; The Script is for everyone, from people like Bulgan, to people like you. Registrars hear and guide people down a neutral path, but we do not judge those who kill, or those who maim, or those who heal, or those who help.”
+
+Erick’s skin prickled with goosebumps.
+

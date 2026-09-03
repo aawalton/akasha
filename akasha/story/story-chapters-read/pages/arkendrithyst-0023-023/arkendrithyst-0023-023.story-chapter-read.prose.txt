@@ -1,0 +1,244 @@
+After breakfast Erick wished Jane and Savral good luck out there in the Crystal Desert, then had a conversation with Al in Al’s living room.
+
+“I need some advice on some math stuff.”
+
+“Hit me.”
+
+Erick smiled. “You know, if you said that to an orcol, they might actually punch you.”
+
+Al smirked.
+
+“So about these mana costs.” Erick said, “It’s going to be 250 mana per cast after I level Clarity to 10. How can I have [Call Lightning] up all the time? The goal is rain, and that only comes from chain-casting. I’m at 20 Focus, 20 Willpower, and I have 22 points to spend.”
+
+“Do you have any Favored Spells left?”
+
+“All of them.”
+
+“Favored Spell is a good option. That would put [Call Lightning] at 125 mana per cast, which means 750 mana per hour, which means 25 Focus, which is a good idea anyway. If you find out you don’t like [Call Lightning] as a Favored Spell, then Irogh can undo that for a grand-Rad, which costs 1000G. It’s a large price, but you might be able to afford it with the reward from those shadowcats. You might even get a grand-Rad as part of your dispensation from the fight.”
+
+Erick thought about all that.
+
+Al frowned a bit, then reluctantly said, “You don’t have to go for Scion of Focus. It’s a great option, but with those sorts of mana costs and the pressure that’s going to be on you to perform this magic… Put another 5 points in Willpower.” Al struggled to say, “Maybe even 10.”
+
+Erick smiled. He said, “I’m still going for Scion of Focus. Mana Exhaustion is horrible.”
+
+Al chuckled. “Good to hear.”
+
+“All of that was good to hear from you, too! I didn’t know I could reassign stuff by paying a registrar.”
+
+“Bah! Don’t count on that. It’s damned expensive and only available once a year. Even small changes cost a grand-Rad. Most people can’t afford Rozeta’s fees or timetables, so they accept Registrar Quests for smaller, more exact changes. Reassigning a Favored Spell would fall under that category. But Registrar Quests are almost worse than the fees. I did one once. Had to go around the world and deal with a dragon.” He smiled. “Savral was an unintended side effect of that quest, though, so it wasn’t all bad.”
+
+Erick wanted to ask how that worked, but it felt impolite to ask where dragonkin come from when one of the parents was a non-dragon. Just… Imagine what that would look like between Al and, like, Rozeta.
+
+… Adoption is an option. Right. Adoption does exist.
+
+Rather than ask about any of that, Erick just smiled. “Registrar Quests are a thing?” Erick said, “I mean… One of those led me to Spur. I shouldn’t be surprised that a registrar quest can do things besides nothing.”
+
+“They can do a lot.” Al nodded. “So? What are you going to do with your points? Have you decided?”
+
+“15 in Focus, 7 backup. Favored spell [Call Lightning]. 35 Focus will be 1050 regen per hour with [Meditation] active. I think it’s a good plan.”
+
+Al smiled. “A good plan.”
+
+Erick Flatt
+
+Human, age 48
+
+Level 19, Class: None
+
+Exp: 273912/676500
+
+Class: -/-
+
+Points: 7
+
+HP
+
+90/90
+
+150 per day
+
+MP
+
+600/600
+
+1050 per day
+
+Strength
+
+9
+
++0
+
+[9]
+
+Vitality
+
+15
+
++0
+
+[15]
+
+Willpower
+
+20
+
++0
+
+[20]
+
+Focus
+
+35
+
++0
+
+[35]
+
+Favored Spell waiting!
+
+Favored Spell waiting!
+
+Call Lightning 6, 1 minute per level, super long range, 500 MP ~{Favored Spell!}~
+
+Prepare the sky to strike an area or object of your choice for <damage>. If used in an active lightning storm, Call Lightning’s duration is as long as the natural storm. Every lighting bolt called reduces the duration of Call Lightning by 1 minute, or a natural storm by <undetermined>.
+
+Exp: 1100/1300
+
+“Looks like 150 mana right now. Clarity is only 9. Can I sustain… Ah. Nope. I can’t. Not yet. [Call Lightning] is only level 6. It only lasts 6 minutes aaand… that’s too much math for me.”
+
+“You’re close.” Al said, “But before all of that, you need to talk to Silverite and get some clearances before you start raining rain across the city.”
+
+“Right! Of course.”
+
+“Chain-cast it with Aurify to level that as well. Once you get to Aurify 2, the range on [Call Lightning] will double, and that will be a sight to see. You won’t be able to make an actual [Call Lightning Aura] until you get [Call Lightning] to 10. But you’ll hit your daily mana exhaustion limit in a few hours, anyway. A good rule to gauge your limits is to take your daily regen and multiply it by 5, which gives a mage with 35 Focus a little over 5000 mana used before mana exhaustion really takes hold.”
+
+Erick blanked. More Focus meant a higher daily exhaustion cap? That was a thing?
+
+Al must have noticed Erick’s reaction. He winced. “I am sure I told you this. Did I not tell you?”
+
+“No you didn’t freaking tell me!”
+
+“I don’t tell people to wipe their asses either, but I assume—”
+
+“AL. I’m literally not from this planet.”
+
+“Right. That slipped my mind. Honestly did not realize I needed to say something.”
+
+Erick paused. He said, “Don’t worry about it.” He looked out the window. “What are you doing today?”
+
+“Remaking the sewers and streets in the Human District.”
+
+“If you see a mage tower near a farming area, I think I want it.”
+
+Al laughed. “I’ll keep an eye out.”
+
+- - - -
+
+Erick popped into the Mage’s Guild and was immediately directed to the room from yesterday. Everyone from yesterday, along with fifteen new people, were already there, already arguing over the stuff he had drawn on the three chalkboards. Zago arrived shortly after he did and began to organize the rabble.
+
+Erick started his lecture by saying, “I promised the Farmer’s Council I’d see them yesterday, but I was stuck here, and I also need to get clearance from Silverite to use the spell again. So I will talk about what I said yesterday, and then go away for a while, and then come back in the afternoon.”
+
+Zago said, “Sounds agreeable. You may proceed whenever.”
+
+Erick cast [Cleanse] over the chalkboards and ten people yelled how they weren’t done with that.
+
+He gave another lecture, answered ‘why the rain’ with ‘because you can’t have lightning without the sky rubbing against itself, and water is a large part of the sky’, then he told them he’d be back later. He checked the chalkboards for legibility, fixed a few things here and there, then left.
+
+Interclass arguing began before he left the room.
+
+He ducked back in. “Don’t try casting lightning with yourself as one of the electrical sinks. You will die from the charges balancing… Or? It’s just an error message, right? …I don’t know. I wouldn’t chance it.” He left again.
+
+- - - -
+
+Erick arrived at the Courthouse without any problems.
+
+The front guard, the redscale dragonkin Taro, said, “Take a right at the Globe. Offices are all down there. Hera should be in, but if she’s not then someone else can direct you to Silverite. I think she’s here. She moves around a lot. Sorry if you can’t catch her.”
+
+“Thanks, Taro.”
+
+Hera was in her office. So was Silverite. In a minute, Erick was sitting in the Mayor’s office, in front of the silver-wrought ‘dragonkin’ herself. Hera waited off to the side, leaning against a shelf of books, her bright yellow scales like a beacon in the warm space of Silverite’s office. Erick had been inside a few judge’s offices in his time; Silverite’s beat them all. Shelves and shelves of books of all sizes and colors lined one wall. The opposite wall was full of knickknacks; globes, crystals of every color, stone artifacts from archaeological finds, metal and glass contraptions that gently rotated, bells, and photographs. Lots and lots of— not photographs, paintings. Mostly landscapes, but a few portraits here and there. In Erick’s experience, most people preferred large paintings, if they had paintings at all, but Silverite seemed to like miniature versions of grand vistas.
+
+And, of course, there was her desk; a rather normal, large wooden thing, but still solid. Immovable. Her chair seemed normal enough. Maybe a little big, but comfortable looking. Behind her was a grand triple window, with a grove of large oaks just outside, and a fountain in the center of the comfy, green space.
+
+Erick had to say, “You have a really nice office.”
+
+Silverite smiled from her seat. “Thank you, Mage Erick Flatt.”
+
+“You can call me Erick.”
+
+“I would prefer to keep this part professional.”
+
+“Ah.” Erick paused. He said, “Of course, Mayor Silverite.”
+
+“Thank you. How may I help you?”
+
+“I would like dispensation to use [Call Lightning] in the city, for its rain making capability, for the benefit of the farmer’s council. They have expressed interest in extending the growing season outside of the yearly rise in the underground water table and I would like to help them.”
+
+Silverite nodded slightly. “They have come to me with the same desire. I’m willing to grant this ability to you on a provisional basis. There are a few rules.”
+
+Erick said, “Yes.”
+
+“Magic like yours usually has many laws and regulations to prevent abuse and track criminals. Human culture— Apologies. Human culture on Veird, keeps track of these sorts of powerful casters with tattoo magic, while simultaneously locking down any sort of easy learning like what you’re doing at the Mage Guild. We’re not doing any of that, since Spur is an adventuring city, and people with magic like yours live on every corner. I personally know all of the Archmages in Spur. I know most of the mages, too, and if I don’t know them personally, my people do. Abuses of magical and physical power are dealt with very harshly in Spur. We have a very good community here, Mage Flatt. Everyone looks out for everyone else, or else they’re exiled, or worse.”
+
+She left the air open for Erick.
+
+Erick said, “I understand, and hope to comply with your reasonable demands.”
+
+“You don’t even know what my demands are, yet.”
+
+“Still. I’m sure they’ll be reasonable.”
+
+She nodded. “I like to think they are.” She moved a sheet of parchment toward Erick. He picked it up and began to read, while she spoke loud her written requirements. “I’m sure there will be some public complaints regarding my plans, but the idea is that you produce rain on a schedule, and the people of Spur can adjust to the time table. I’m thinking initially every three nights, for two hours at a time. The Farmer’s Council will be the ones directly responsible for deciding the real schedule, but these are my initial thoughts on the matter.
+
+“It never rains in Spur so there might have to be some architectural changes moving forward. This is not your concern. Your spell will alter the environment of Spur, but I doubt we will have to account for a greater environmental shift, like leafy green trees in the Crystal Forest, or unscheduled rains.”
+
+“Is that possible?” Erick asked, concerned that he just reinvented a Global Warming kind of problem. “A permanent change in climate?”
+
+Silverite grinned. “It is good to see your concern for the fallout of your actions, but there are already a few safeguards in the Script to prevent outcomes like climate change. One of the major solutions to this is [Cleanse]. ‘Corruption’ refers to many things. Excess heat, magical pollution, stray spell outcomes, poisonous light. All of that sort of thing.”
+
+Erick smiled wide. “Do you have any idea how valuable a spell like [Cleanse] would be back where I’m from? Immeasurable. Just… Priceless.”
+
+Silverite nodded, smiling. “Back to the subject—”
+
+“Right. Right.”
+
+Erick still wasn’t over how fascinating the [Cleanse] spell actually was, but he forced himself to listen to Silverite anyway.
+
+“—You will be issued two minders. One of them will be with you while you are casting, the other will be out of sight. They will kill you if you attack the people of Spur.”
+
+Silence descended.
+
+“… Will they at least be friendly until they decide to kill me? I mean. I don’t plan on— I know I won’t attack people. I’d prefer not to be surrounded by assholes, though.”
+
+“They will be utterly professional. You will accept this or you will leave my city.”
+
+That was a lie. Blatant and obvious, though neither Silverite or Hera gave it away.
+
+“That’s a false threat. You want me here, but I have basically nothing tying me to Spur besides the fact that I like the place and the people.”
+
+Silverite leveled her shining gaze at Erick. “The only thing special about your magic is how different it is, not how much damage it can do, and we here in Spur have lots of experience with reckless mages. Do you see people throwing fireballs in the street? Shaping buildings into mush, trapping people inside? No. you do not. Do not think yourself above the rest of us, Mage Flatt.”
+
+Erick thought about bringing up Bulgan and the shadowcats, or the mugging and the Sewerhouse assault by those now-dead incani, or all the other small abuses he suffered at the hands of Silverite’s administration. But discretion seemed the better part of valor. He said, “I did not mean it like that.”
+
+“Then please explain yourself.”
+
+Erick said, “There’s a saying where I come from. To get someone to do what you want, you can either use the carrot, or the stick. You can offer something nice and hope that they do what you want. Or you can threaten them. What you just did was threaten. I would appreciate if you could try another method.”
+
+“There’s a saying where I come from. Don’t invite Wizards into your home.”
+
+Hera had maintained a perfectly professional facade until Silverite mentioned Wizards. At that, she gasped small, her yellow scales turning a bit whiter.
+
+“I’m not a Wizard.”
+
+“That remains to be seen.”
+
+“Still.” Erick slid the parchment outlining Silverite’s demands back onto her desk. “Please try another method.”
+
+Silverite breathed. Erick watched her think.
+
+She took the parchment and began casting some small magic over it, shifting ink around, “[Call Lightning] is not [Cleanse]. The side effects of your spell are what we care about, but those don’t come without subjecting ourselves to the possibility that you could literally lightning strike us at any time.
+
+“You will be assigned two bodyguards until such time as I deem they are unnecessary. One of them will be with you, the other will be hidden most of the time. Barring any disastrous revelations with your magic, you will be paid 10G a day for accepting a to-be-determined rain schedule, in addition to being granted the housing of your choice in the Human District. I understand that you wish to experiment with plants, as well? You will be allowed to use your [Call Lightning] in that case, as long as you can keep the storm confined to the Human District as much as possible.
+
