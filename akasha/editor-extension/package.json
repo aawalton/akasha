@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./agent-tree-ids": "./agent-tree-ids/agent-tree-ids.module.code.ts",
     "./domain-tree-ids": "./domain-tree-ids/domain-tree-ids.module.code.ts",
     "./page-tree-ids": "./page-tree-ids/page-tree-ids.module.code.ts",
     "./panel-domains": "./panel-domains/panel-domains.module.code.ts",
