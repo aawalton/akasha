@@ -14,11 +14,17 @@
     "./web-app-building": "./cluster-services/web-app-building/web-app-building.module.code.ts",
     "./cluster-api-reaching": "./cluster-services/cluster-api-reaching/cluster-api-reaching.module.code.ts",
     "./loki-log-fetching": "./cluster-services/loki-log-fetching/loki-log-fetching.module.code.ts",
-    "./log-bound-saying": "./cluster-services/log-bound-saying/log-bound-saying.module.code.ts"
+    "./log-bound-saying": "./cluster-services/log-bound-saying/log-bound-saying.module.code.ts",
+    "./dev-server-stating": "./web-apps/dev-server-stating/dev-server-stating.module.code.ts",
+    "./dev-server-recording": "./web-apps/dev-server-recording/dev-server-recording.module.code.ts",
+    "./dev-server-env-writing": "./web-apps/dev-server-env-writing/dev-server-env-writing.module.code.ts",
+    "./dev-server-worktree": "./web-apps/dev-server-worktree/dev-server-worktree.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils-process": "workspace:*",
+    "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
   }
 }
