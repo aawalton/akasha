@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "All renames DONE. 9 modules in `akasha/editor-extension` (7 leaf ports + 2 net-new); folders, partSlugs and exports agree. Of 77 src files 24 are leaves, 17 unported. `CommandServerClient` dissolved to `servingFrom` at 6ccb189fc9, so its leaf is portable now — all 9 tests hold unchanged and the wire key the server reads is pinned. `ObservationWriterClient` is the last class; its test comes FIRST because it has none and it writes Alan's observations. A landing is ATOMIC and landings serialize.",
+        "11 modules landed of 77 src files. The hinge is `command-server-client.ts` — 44 of the 68 left wait on it — NOT `harness-call.ts`, which only leads on direct dependents. Its class is dissolved (6ccb189fc9) so it is landable NOW and is the highest-leverage item. TWO type-only import cycles, agent-tree forest/lookup and work-tree harness/colors, are invisible to `no-import-cycle` because it erases type imports yet they break typecheck: merge each pair into one module.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
