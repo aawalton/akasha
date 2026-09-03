@@ -1,28 +1,25 @@
-import { existsSync, readdirSync } from "node:fs"
+import { existsSync } from "node:fs"
 import { join } from "node:path"
-
-const SKIPPED: readonly string[] = ["node_modules", ".git", "dist"]
+import { said as gitSaid } from "@akasha/git/git-running"
 
 const AKASHA_DIR = "akasha"
 
+const INSIDE = `${AKASHA_DIR}/`
+
+const PARTED_BY = "\0"
+
 const PERCENT_DECIMALS = 2
+
+const LISTED: readonly string[] = ["ls-files", "-z", "--cached", "--others", "--exclude-standard"]
 
 export interface Counts {
   readonly repo: number
   readonly akasha: number
 }
 
-function filesUnder(at: string): number {
-  let found = 0
-  for (const one of readdirSync(at, { withFileTypes: true })) {
-    if (one.isDirectory()) {
-      if (SKIPPED.includes(one.name)) continue
-      found += filesUnder(join(at, one.name))
-      continue
-    }
-    if (one.isFile()) found += 1
-  }
-  return found
+function pathsIn(root: string): readonly string[] {
+  const said = gitSaid(root, LISTED)
+  return [...new Set(said.split(PARTED_BY).filter((one) => one !== ""))]
 }
 
 export function akashaUnder(root: string): boolean {
@@ -30,7 +27,8 @@ export function akashaUnder(root: string): boolean {
 }
 
 export function countsIn(root: string): Counts {
-  return { repo: filesUnder(root), akasha: filesUnder(join(root, AKASHA_DIR)) }
+  const paths = pathsIn(root)
+  return { repo: paths.length, akasha: paths.filter((one) => one.startsWith(INSIDE)).length }
 }
 
 export function shareOf(counts: Counts): string {

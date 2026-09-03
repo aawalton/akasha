@@ -4,21 +4,21 @@ export const repoMeasuring = {
   id: "01a05a0e-6376-7000-a013-86be99eb36e0",
   pageTypeSlug: "module",
   slug: "repo-measuring",
-  definition: "how many files the checkout holds and how many of them stand in akasha",
+  definition: "how many files the checkout holds and how many of them are in akasha",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "`node_modules` is skipped wherever `node_modules` stands.",
+      statement: "What git holds is what is counted.",
     },
     {
       invariantKind: "departure",
-      statement: "`.git` is skipped wherever `.git` stands.",
+      statement: "A file the repository ignores is not counted.",
     },
     {
       invariantKind: "departure",
-      statement: "`dist` is skipped wherever `dist` stands.",
+      statement: "Built output is what the repository ignores.",
     },
     {
       invariantKind: "departure",
@@ -26,15 +26,25 @@ export const repoMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a regular file is counted.",
+      statement:
+        "A file not yet committed is counted where the repository does not ignore that file.",
     },
     {
       invariantKind: "departure",
-      statement: "A symbolic link is not followed.",
+      statement: "A path git names more than once is counted once.",
     },
     {
       invariantKind: "departure",
-      statement: "The akasha folder stands inside the repository.",
+      statement:
+        "A symbolic link is the one path git holds rather than the files the link reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A listing git could not answer throws rather than counting none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The akasha folder is inside the repository.",
     },
     {
       invariantKind: "departure",
@@ -43,6 +53,10 @@ export const repoMeasuring = {
     {
       invariantKind: "departure",
       statement: "The share is what has arrived over everything there is to arrive.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No folder is walked here.",
     },
     {
       invariantKind: "absence",

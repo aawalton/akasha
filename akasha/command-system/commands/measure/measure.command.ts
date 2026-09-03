@@ -18,7 +18,8 @@ export const measure = {
     "renewing a token is the upkeep service's alone, so a lapsed account is passed over and named.",
     "the `>` names the account the picker would take right now.",
     "`repo` counts the files the checkout holds and the files that have arrived in akasha.",
-    "`node_modules`, `.git` and `dist` are not counted, and a symbolic link is not a file.",
+    "`repo` counts what git counts: tracked files, and untracked files the repository keeps.",
+    "what the repository ignores is not counted, so built output is no file waiting to arrive.",
     "the share `repo` says is the migration read as a fraction.",
   ],
   invariants: [

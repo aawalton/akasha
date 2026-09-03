@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { said as git } from "@akasha/git/git-running"
 import { put } from "@akasha/testing-system/putting"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
@@ -44,6 +45,8 @@ test("the subject read is the first word", async () => {
 
 test("`repo` counts the checkout and what has arrived in akasha", async () => {
   const root = scratch.rootFor("measure-repo-")
+  git(root, ["init", "--quiet"])
+  put(root, ".git/info/exclude", "node_modules/\n")
   put(root, "akasha/one.ts", "one\n")
   put(root, "tools/two.ts", "two\n")
   put(root, "node_modules/pkg/three.ts", "three\n")
