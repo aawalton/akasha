@@ -1,16 +1,16 @@
-import { propertyTypesOf } from "./computed.ts"
-import { claimant, globsIn, matchesAny, PAGE_TYPE_GLOBS, placeOf, reposOf, PROPERTY_GLOBS, type PageType } from "../page-types.ts"
+import { claimant, globsIn, matchesAny, PAGE_TYPE_GLOBS, PROPERTY_GLOBS, type PageType } from "../page-types.ts"
 import { NONE, blockOf, stringAt } from "../text/text.ts"
 import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
-import { backReference, SELECT, TYPE_SLUG, TYPE_VOCABULARY } from "./value.ts"
+import { backReference } from "./value.ts"
+import { TYPE_KINDS, TYPE_NAMES, TYPE_SETS } from "./vocabulary.ts"
 import { armFor, type Armed } from "./judge.ts"
 import { declarationsFromFiles, declarationsOf } from "./declarations.ts"
 import type { Property } from "./property.ts"
 import type { NamedSet, Vocabulary } from "./stated.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
-import { type FileTree } from "../file-tree.ts"
+import type { FileTree } from "../file-tree.ts"
 import { registryOf } from "./registry.ts"
-import { AKASHA, repos } from "@akasha/pages-system/checkout-roots"
+import { AKASHA } from "@akasha/pages-system/checkout-roots"
 import { recordsFor } from "./record.ts"
 import type { RecordField } from "./stated.ts"
 import { answeredWhole } from "./answer-cache.ts"
@@ -23,62 +23,18 @@ export const PROPERTY_ROOTS: readonly string[] = PROPERTY_GLOBS.map((one) =>
     .join("/")
 )
 
-function reposRead(tree: FileTree): readonly string[] {
-  const roots = tree.roots
-  if (roots === undefined) return [AKASHA]
-  return repos().filter((one) => roots[one] !== undefined)
-}
-
-export function vocabularyOf(types: readonly PageType[], tree: FileTree): Vocabulary {
-  const naming = types.find((one) => one.slug === TYPE_VOCABULARY)
-  if (naming === undefined)
-    return { names: null, records: null, sets: null, why: `no page type named \`${TYPE_VOCABULARY}\` stands here, so nothing names the types` }
-  const claimedBy = reposOf(naming)
-  if (claimedBy.length === 0)
-    return { names: null, records: null, sets: null, why: `\`${TYPE_VOCABULARY}\` claims no files, so nothing names the types` }
-  const read = reposRead(tree)
-  const unread = claimedBy.filter((one) => !read.includes(one))
-  if (unread.length === claimedBy.length) {
-    const here = read.length === 0 ? "no repository stands here" : `this reads \`${read.join("` and `")}\``
-    return {
-      names: null,
-      records: null,
-      sets: null,
-      why: `\`${TYPE_VOCABULARY}\` claims its files in \`${unread.join("` and `")}\`, which nothing here reads — ${here}`,
-    }
+export function vocabularyOf(tree: FileTree): Vocabulary {
+  // THE NAMES ARE STATED IN CODE, NOT READ FROM PAGES. They used to be resolved through the page
+  // type claiming `pages/page-property-type/`; that page type was ablated, so every resolution
+  // answered `names: null` and the validator could not say what it admits. Only the record fields
+  // still come off the tree, because those are declared by the properties themselves rather than
+  // by the vocabulary.
+  return {
+    names: TYPE_NAMES,
+    records: recordsFor(declarationsOf(tree).bySlug, TYPE_KINDS),
+    sets: TYPE_SETS,
+    why: null,
   }
-  const place = placeOf(naming.slug)
-  const { standing, types: stated } = propertyTypesOf(tree)
-  if (standing.length === 0)
-    return { names: null, records: null, sets: null, why: `\`${TYPE_VOCABULARY}\` claims \`${place}\` and nothing stands there` }
-  const named = new Map<string, string>()
-  const kinds = new Map<string, string>()
-  const sets = new Map<string, NamedSet>()
-  const twice: string[] = []
-  for (const one of stated) {
-    const first = named.get(one.slug)
-    if (first === undefined) {
-      named.set(one.slug, one.relPath)
-      kinds.set(one.slug, one.kind)
-      if (one.kind === SELECT && one.of !== null) sets.set(one.slug, { of: one.of, stated: one.stated })
-    }
-    else twice.push(`\`${one.slug}\` is stated by \`${first}\` and by \`${one.relPath}\``)
-  }
-  if (twice.length > 0)
-    return {
-      names: null,
-      records: null,
-      sets: null,
-      why: `two pages state one \`${TYPE_SLUG}:\`, so a name resolves to neither — ${twice.join("; ")}`,
-    }
-  if (named.size === 0)
-    return {
-      names: null,
-      records: null,
-      sets: null,
-      why: `nothing at \`${place}\` states a \`${TYPE_SLUG}:\`, which is where a type's own name is written`,
-    }
-  return { names: new Set(named.keys()), records: recordsFor(declarationsOf(tree).bySlug, kinds), sets, why: null }
 }
 
 interface VocabularyData {
@@ -115,7 +71,7 @@ export function vocabularyFor(tree: FileTree): Vocabulary {
 function heldVocabulary(tree: FileTree): Vocabulary {
   const mark = shapeMarkOf(tree)
   const root = tree.root
-  const make = (): Vocabulary => vocabularyOf(registryOf(tree), tree)
+  const make = (): Vocabulary => vocabularyOf(tree)
   if (mark === null || root === undefined) return make()
   return answeredWhole(root, mark, "vocabulary", make, asData, fromData)
 }

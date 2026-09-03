@@ -7,13 +7,9 @@ import { templateRule } from "./template.ts"
 import { addressParts, ADDRESS_SAYS, RELATION_ADDRESS } from "../page-address.ts"
 import { boundsFor, narrowed } from "./bounds.ts"
 import { nested, scalarRule, textOf, within, wrongShape } from "./stated.ts"
-import type { Fault, Held, Rule, Vocabulary } from "./stated.ts"
+import type { Fault, Rule, Vocabulary } from "./stated.ts"
 
 export const TYPE = "type"
-
-export const TYPE_VOCABULARY = "page-property-type"
-
-export const TYPE_SLUG = "type-slug"
 
 export const OWN_TYPE = "{type}"
 
@@ -218,7 +214,7 @@ function namedTypeRule(vocabulary: Vocabulary): { rule: Rule | null; why: string
   if (names === null) return { rule: null, why: vocabulary.why }
   const listed = [...names].sort().map((one) => `\`${one}\``).join(", ")
   return {
-    rule: scalarRule(`a type name \`${TYPE_VOCABULARY}\` claims (${listed})`, (text) => {
+    rule: scalarRule(`a type name this checker states (${listed})`, (text) => {
       const sides = namesIn(text)
       return sides.length > 0 && sides.every((one) => backReference(one) !== null || names.has(one))
     }),
