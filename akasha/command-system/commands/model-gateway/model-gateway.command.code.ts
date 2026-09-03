@@ -1,6 +1,5 @@
+import { type LiveProxySeat, liveProxySeats, seatsNewestFirst } from "@akasha/agents/proxy-seats"
 import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
-import type { LiveProxySeat } from "@tools/lib/model-gateway/proxy-seats"
-import { resolveLiveProxySeats } from "@tools/lib/model-gateway/proxy-seats"
 import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
 import {
   describeAckTimeout,
@@ -9,6 +8,7 @@ import {
 } from "@tools/lib/seat-action"
 import { planSeatResolution, resolveSeatTarget } from "@tools/lib/seat-handle"
 import { readProxyState } from "@tools/lib/seat-proxy-state"
+import { seatsPresent } from "@tools/lib/seat-roster"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
@@ -104,6 +104,13 @@ export function driftOf(running: string | null, onDisk: string | null): Drift {
 export function shortOf(version: string | null): string {
   if (version == null || version.length === 0) return NONE
   return version.slice(0, SHORT)
+}
+
+function resolveLiveProxySeats(): readonly LiveProxySeat[] {
+  const agents = seatsNewestFirst(
+    seatsPresent().map((seat) => ({ id: seat.id, name: seat.name, activeAtMs: seat.activeAtMs }))
+  )
+  return liveProxySeats(agents, readProxyState, pidAliveOrRefuse)
 }
 
 function labelOf(seat: LiveProxySeat): string {

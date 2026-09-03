@@ -15,6 +15,7 @@
     "./oauth-types": "./models/gateway/modules/oauth-types/oauth-types.module.code.ts",
     "./patch-keeping": "./patch-keeping/patch-keeping.module.code.ts",
     "./proxy-headers": "./models/gateway/modules/proxy-headers/proxy-headers.module.code.ts",
+    "./proxy-seats": "./models/gateway/modules/proxy-seats/proxy-seats.module.code.ts",
     "./queue-step": "./models/gateway/modules/queue-step/queue-step.module.code.ts"
   },
   "dependencies": {

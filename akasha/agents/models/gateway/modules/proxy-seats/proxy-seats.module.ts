@@ -70,11 +70,6 @@ export const proxySeats = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "The roster read `tools/lib/model-gateway/proxy-seats.ts` spells is carried nowhere.",
-    },
-    {
-      invariantKind: "gap",
       statement: "Nothing here reaches `akasha/utils-process/pid-signal` for the liveness test.",
     },
   ],

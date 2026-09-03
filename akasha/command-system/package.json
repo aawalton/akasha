@@ -19,7 +19,9 @@
     "./value-minting": "./value-minting/value-minting.module.code.ts"
   },
   "dependencies": {
+    "@akasha/agents": "workspace:*",
     "@akasha/analysis-complexity": "workspace:*",
+    "@tools/lib": "workspace:*",
     "typescript": "5.9.3"
   }
 }
