@@ -21,18 +21,16 @@ export interface AmazonRefund {
 
 export function parseRefundEmail(message: EmailMessage): AmazonRefund | null {
   const orderNumber = orderNumberIn(message.body)
-  const total = TOTAL_REFUND.exec(message.body)
-  const asin = RETURNED_ASIN.exec(message.body)
-  if (orderNumber === null || total === null || asin === null) return null
-  const reason = RETURN_REASON.exec(message.body)
-  const title = REFUND_TITLE.exec(message.body)
+  const total = TOTAL_REFUND.exec(message.body)?.[1]
+  const asin = RETURNED_ASIN.exec(message.body)?.[1]
+  if (orderNumber === null || total === undefined || asin === undefined) return null
   return {
     messageId: message.id,
     orderNumber,
-    asin: asin[1],
+    asin,
     refundDate: messageDate(message.date),
-    totalCents: Math.round(Number(total[1].replace(/,/g, "")) * 100),
-    reason: reason === null ? null : reason[1],
-    statedTitle: title === null ? "" : title[1],
+    totalCents: Math.round(Number(total.replace(/,/g, "")) * 100),
+    reason: RETURN_REASON.exec(message.body)?.[1] ?? null,
+    statedTitle: REFUND_TITLE.exec(message.body)?.[1] ?? "",
   }
 }

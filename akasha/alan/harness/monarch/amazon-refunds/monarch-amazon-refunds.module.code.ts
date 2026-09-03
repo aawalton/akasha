@@ -47,7 +47,9 @@ async function main(): Promise<void> {
   const argv = process.argv.slice(2)
   const writing = argv.includes("--write")
   const reverting = argv.includes("--revert")
-  const only = argv.includes("--only") ? argv[argv.indexOf("--only") + 1] : null
+  const onlyAt = argv.indexOf("--only")
+  const only = onlyAt === -1 ? null : argv[onlyAt + 1]
+  if (only === undefined) throw new Error("--only names no transaction, so nothing is singled out")
   const auth = await monarchHeaders()
 
   const { transactions } = monarchClient(auth)

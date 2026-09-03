@@ -29,14 +29,13 @@ export interface AmazonOrder {
 }
 
 export function centsFromMoney(text: string): number | null {
-  const found = MONEY.exec(text)
-  if (found === null) return null
-  return Math.round(Number(found[1].replace(/,/g, "")) * 100)
+  const found = MONEY.exec(text)?.[1]
+  if (found === undefined) return null
+  return Math.round(Number(found.replace(/,/g, "")) * 100)
 }
 
 export function orderNumberIn(body: string): string | null {
-  const found = ORDER_NUMBER.exec(body)
-  return found === null ? null : found[1]
+  return ORDER_NUMBER.exec(body)?.[1] ?? null
 }
 
 export function messageDate(header: string): string {
@@ -66,16 +65,16 @@ export function itemsFromBody(body: string): readonly OrderItem[] {
   }
   for (const raw of body.split(/\r?\n/)) {
     const line = raw.replace(/\r$/, "")
-    const named = ITEM_NAME.exec(line)
-    if (named !== null) {
+    const named = ITEM_NAME.exec(line)?.[1]
+    if (named !== undefined) {
       close()
-      name = named[1].replace(BIDI, "").trim()
+      name = named.replace(BIDI, "").trim()
       continue
     }
     if (name === null) continue
-    const counted = QUANTITY.exec(line)
-    if (counted !== null) {
-      quantity = Number(counted[1])
+    const counted = QUANTITY.exec(line)?.[1]
+    if (counted !== undefined) {
+      quantity = Number(counted)
       continue
     }
     if (unitCents === null && /^\s*[\d,]+(?:\.\d+)?\s*USD\s*$/.test(line)) {
@@ -91,12 +90,12 @@ export function itemsFromBody(body: string): readonly OrderItem[] {
 export function parseOrderEmail(message: EmailMessage): AmazonOrder | null {
   const orderNumber = orderNumberIn(message.body)
   if (orderNumber === null) return null
-  const total = GRAND_TOTAL.exec(message.body)
+  const total = GRAND_TOTAL.exec(message.body)?.[1]
   return {
     messageId: message.id,
     orderNumber,
     orderDate: messageDate(message.date),
-    totalCents: total === null ? null : Math.round(Number(total[1].replace(/,/g, "")) * 100),
+    totalCents: total === undefined ? null : Math.round(Number(total.replace(/,/g, "")) * 100),
     summary: summaryFromSubject(message.subject),
     items: itemsFromBody(message.body),
   }

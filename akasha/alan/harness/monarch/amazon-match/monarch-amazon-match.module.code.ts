@@ -67,7 +67,8 @@ export function partition<T>(
   const unmatched: Movement[] = []
   for (const movement of movements) {
     const hits = candidates.filter((candidate) => accounts(candidate, movement))
-    if (hits.length === 1) unique.push({ movement, candidate: hits[0] })
+    const [only] = hits
+    if (hits.length === 1 && only !== undefined) unique.push({ movement, candidate: only })
     else if (hits.length > 1) ambiguous.push({ movement, candidates: hits })
     else unmatched.push(movement)
   }
@@ -79,7 +80,7 @@ export function soleProduct(orders: readonly AmazonOrder[], orderNumber: string)
     .filter((o) => o.orderNumber === orderNumber)
     .flatMap((o) => o.items.map((i) => i.name))
   const distinct = [...new Set(named)]
-  return distinct.length === 1 ? distinct[0] : null
+  return distinct.length === 1 ? (distinct[0] ?? null) : null
 }
 
 function itemPhrase(name: string, quantity: number): string {
