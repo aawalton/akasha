@@ -19,6 +19,7 @@
     "./status-bar-theme": "./status-bar-theme/status-bar-theme.module.code.ts",
     "./terminal-lookup": "./terminal-lookup/terminal-lookup.module.code.ts",
     "./terminal-marks": "./terminal-marks/terminal-marks.module.code.ts",
+    "./terminal-pids": "./terminal-pids/terminal-pids.module.code.ts",
     "./tree-filter": "./tree-filter/tree-filter.module.code.ts",
     "./window-identity": "./window-identity/window-identity.module.code.ts",
     "./work-initiatives": "./work-initiatives/work-initiatives.module.code.ts",
