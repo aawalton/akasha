@@ -1,9 +1,13 @@
+import { credentialFileWritten } from "@akasha/agents/claude-account-credential-file"
+import { REFRESH_BUFFER_MS } from "@akasha/agents/claude-account-oauth"
+import { everyAccountSlugIn } from "@akasha/agents/claude-account-reading"
+import {
+  bestCredentialIn,
+  credentialByAccountIn,
+  DOORS as EFFECT_DOORS,
+} from "@akasha/agents/oauth-effects"
 import type { CredentialPick, OAuthCredential } from "@akasha/agents/oauth-types"
-import { REFRESH_BUFFER_MS } from "@tools/lib/oauth-constants"
-import type { RefreshOutcome } from "@tools/lib/oauth-credentials"
-import { getBestCredential } from "@tools/lib/oauth-credentials"
-import { writeCredentialFile } from "@tools/lib/oauth-file"
-import { accountsWithPages, credentialByAccountFromPage } from "@tools/lib/oauth-page-credential"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 export interface AccountResolutionDeps {
@@ -16,11 +20,19 @@ export interface AccountResolutionDeps {
 }
 
 const defaultAccountResolutionDeps: AccountResolutionDeps = {
-  getCredentialByAccount: async (account: string, logPrefix?: string) =>
-    credentialByAccountFromPage(account, logPrefix),
-  getBestCredential,
-  claudeAccountPageExists: async (account: string) => accountsWithPages().includes(account),
-  writeCredentialFile,
+  getCredentialByAccount: async (account: string, logPrefix?: string) => {
+    const root = rootFor(resolveRoots(), AKASHA)
+    return credentialByAccountIn(root, EFFECT_DOORS, account, logPrefix ?? LOG)
+  },
+  getBestCredential: async (logPrefix?: string) => {
+    const root = rootFor(resolveRoots(), AKASHA)
+    return bestCredentialIn(root, EFFECT_DOORS, logPrefix ?? LOG, new Set<string>())
+  },
+  claudeAccountPageExists: async (account: string) => {
+    const root = rootFor(resolveRoots(), AKASHA)
+    return everyAccountSlugIn(root).includes(account)
+  },
+  writeCredentialFile: credentialFileWritten,
   configDirForAccount,
   log: LOG,
 }

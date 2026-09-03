@@ -1,7 +1,10 @@
 import { existsSync, rmSync, unlinkSync } from "node:fs"
-import { processes } from "@akasha/seat-system/supervisor-state"
-import type { AgentProcess } from "@akasha/seat-system/supervisor-types"
-import { pushCredentialFileToPage } from "@tools/lib/oauth-file"
+import { DOORS, filePushedTo } from "@akasha/agents/claude-account-credential-file"
+import { readingIn } from "@akasha/indexes"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { valueAt } from "@akasha/pages-system/page-value"
+import { processes } from "@tools/lib/supervisor-state"
+import type { AgentProcess } from "@tools/lib/supervisor-types"
 import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 const CREDENTIAL_PUSH_TIMEOUT_MS = 1_500
@@ -16,7 +19,18 @@ export interface ProcessCleanupDeps {
 }
 
 const defaultProcessCleanupDeps: ProcessCleanupDeps = {
-  pushCredentialFileToPage,
+  pushCredentialFileToPage: async (account: string, configDir: string, logPrefix?: string) => {
+    const root = rootFor(resolveRoots(), AKASHA)
+    await filePushedTo({
+      root,
+      slug: account,
+      dir: configDir,
+      doors: DOORS,
+      reading: readingIn(root),
+      pageOf: (path) => valueAt(path, root),
+      logPrefix,
+    })
+  },
   pushTimeoutMs: CREDENTIAL_PUSH_TIMEOUT_MS,
 }
 

@@ -1,13 +1,21 @@
 import {
-  type SupervisorOAuthProxyHandle,
-  spawnOrAdoptOAuthProxy,
-} from "@akasha/seat-system/supervisor-spawn-oauth-proxy"
-import { writePacingSnapshot } from "@akasha/seat-system/supervisor-usage-snapshot"
+  DOORS,
+  fileRefreshedFrom,
+  fileWatched,
+} from "@akasha/agents/claude-account-credential-file"
+import { terminalHealthMarks } from "@akasha/agents/claude-account-health"
+import { DOORS as EFFECT_DOORS, markedOn } from "@akasha/agents/oauth-effects"
+import { readingIn } from "@akasha/indexes"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { valueAt } from "@akasha/pages-system/page-value"
 import { isAccountTerminal, markAccountTerminal } from "@tools/lib/account-terminal"
 import { reportOAuthRecovered, reportTerminalOAuthError } from "@tools/lib/agent-health-write"
-import { LIVE_HEALTH, writeTerminalHealth } from "@tools/lib/oauth-account-health"
-import { refreshCredentialFromPage, watchCredentialFile } from "@tools/lib/oauth-file"
 import type { ProxyAdoptionRuleSource } from "@tools/lib/supervisor-proxy-adoption-rule"
+import {
+  type SupervisorOAuthProxyHandle,
+  spawnOrAdoptOAuthProxy,
+} from "@tools/lib/supervisor-spawn-oauth-proxy"
+import { writePacingSnapshot } from "@tools/lib/supervisor-usage-snapshot"
 import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 import { guardTick } from "../supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 
@@ -15,46 +23,36 @@ export async function runCredentialPullTick(args: {
   account: string
   getAgentId: () => string | null
 }): Promise<void> {
-  const { account, getAgentId } = args
+  const { account } = args
 
   if (isAccountTerminal(account)) {
     return
   }
 
+  const root = rootFor(resolveRoots(), AKASHA)
   const configDir = configDirForAccount(account)
 
   writePacingSnapshot(account, configDir)
 
-  let result: Awaited<ReturnType<typeof refreshCredentialFromPage>>
+  let result: ReturnType<typeof fileRefreshedFrom>
   try {
-    result = await refreshCredentialFromPage(account, configDir, LOG)
+    result = fileRefreshedFrom({
+      root,
+      slug: account,
+      dir: configDir,
+      doors: DOORS,
+      logPrefix: LOG,
+    })
   } catch (err) {
     console.error(`${LOG} Credential refresh error:`, err)
     return
   }
 
-  const id = getAgentId()
   if (result.refreshed) return
 
-  if (result.terminal) {
-    if (markAccountTerminal(account)) {
-      await writeTerminalHealth({ account, logPrefix: LOG }, LIVE_HEALTH)
-      reportTerminalOAuthError(
-        account,
-        {
-          code: result.error?.code,
-          description: result.error?.description,
-        },
-        LOG
-      )
-    }
-    return
-  }
-
-  if (result.error != null) {
-    console.error(
-      `${LOG} OAuth refresh failed (${result.error.code ?? "unknown"})${result.error.description != null ? `: ${result.error.description}` : ""}`
-    )
+  if (result.terminal && markAccountTerminal(account)) {
+    markedOn(root, EFFECT_DOORS, account, terminalHealthMarks(Date.now()), LOG)
+    reportTerminalOAuthError(account, {}, LOG)
   }
 }
 
@@ -76,8 +74,16 @@ export async function buildCredentialSubsystem(args: {
     args
   const { adoptedClaudePid } = args
   const getId = () => agentIdHandle.id
+  const root = rootFor(resolveRoots(), AKASHA)
 
-  const stopCredentialFileWatch = watchCredentialFile(() => account, configDir, LOG, {
+  const stopCredentialFileWatch = fileWatched({
+    root,
+    dir: configDir,
+    slugOf: () => account,
+    doors: DOORS,
+    reading: readingIn(root),
+    pageOf: (path) => valueAt(path, root),
+    logPrefix: LOG,
     shouldSkip: (a) => isAccountTerminal(a),
     onReauthDetected: (a) => {
       reportOAuthRecovered(a, "credential file re-auth detected", LOG)

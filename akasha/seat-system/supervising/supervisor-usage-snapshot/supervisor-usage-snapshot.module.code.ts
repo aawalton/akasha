@@ -1,16 +1,17 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { instantOf } from "@tools/lib/oauth-page-db"
-import { accountStateFromPage } from "@tools/lib/oauth-page-state"
-import { computePacingDerivations, formatPaceHours } from "@tools/lib/usage-derivations"
+import { computePacingDerivations, formatPaceHours } from "@akasha/agents/claude-account-pacing"
+import { accountStateIn } from "@akasha/agents/claude-account-reading"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 export function writePacingSnapshot(account: string, configDir: string): void {
   try {
-    const state = accountStateFromPage(account)
-    const sevenDayUtilization = state === null ? null : state.sevenDayUtil
-    const sevenDayResetsAt = instantOf(state?.sevenDayResetsAt ?? null)
-    const fiveHourResetsAt = instantOf(state?.fiveHourResetsAt ?? null)
+    const root = rootFor(resolveRoots(), AKASHA)
+    const state = accountStateIn(root, account)
+    const sevenDayUtilization = state === null ? null : state.sevenDayPercentUsed
+    const sevenDayResetsAt = state?.sevenDayResetsAt ?? null
+    const fiveHourResetsAt = state?.fiveHourResetsAt ?? null
     const derived = computePacingDerivations({
       now: Date.now(),
       sevenDayUtil: sevenDayUtilization ?? 0,
@@ -22,7 +23,7 @@ export function writePacingSnapshot(account: string, configDir: string): void {
     const path = join(configDir, ".pacing.json")
     const snapshot = {
       account,
-      fiveHourUtilization: state === null ? null : state.fiveHourUtil,
+      fiveHourUtilization: state === null ? null : state.fiveHourPercentUsed,
       fiveHourResetsAt,
       sevenDayUtilization,
       sevenDayResetsAt,
