@@ -7,7 +7,7 @@ import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
 import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
 import { type OAuthProxyState, readProxyState } from "@tools/lib/seat-proxy-state"
-import { LOG } from "@tools/lib/supervisor-config"
+import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 export interface RespawnProxyDeps {
   respawn: (

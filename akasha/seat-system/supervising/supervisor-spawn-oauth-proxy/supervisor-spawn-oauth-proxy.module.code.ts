@@ -11,8 +11,8 @@ import { pidsListeningOn, portIsHeld } from "@akasha/utils-process/port-holding"
 import { modelGatewayEntrypoint } from "@tools/lib/model-gateway-tree-version"
 import { readProcEnvVar } from "@tools/lib/proc-environ"
 import { type OAuthProxyState, readProxyState } from "@tools/lib/seat-proxy-state"
-import { readAdoptedClaudeProxyPort } from "@tools/lib/supervisor-adopted-claude-port"
 import type { ProxyAdoptionRuleSource } from "@tools/lib/supervisor-proxy-adoption-rule"
+import { readAdoptedClaudeProxyPort } from "../supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
 
 const STALE_PROXY_SHUTDOWN_BUDGET_MS = 5_000
 
