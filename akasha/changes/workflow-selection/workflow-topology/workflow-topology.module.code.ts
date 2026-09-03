@@ -1,4 +1,7 @@
-import type { AbsorbedWorkflow, WorkflowConfig } from "./workflow-types.ts"
+import type {
+  AbsorbedWorkflow,
+  WorkflowConfig,
+} from "../workflow-config/workflow-config.module.code.ts"
 
 export function topologicallySortWorkflows(
   workflows: readonly WorkflowConfig[]

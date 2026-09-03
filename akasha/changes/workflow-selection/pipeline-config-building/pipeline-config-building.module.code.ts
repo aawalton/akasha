@@ -1,24 +1,18 @@
-import type { Row } from "../page-derive-shape.ts"
-import { listOf, textOf } from "./reads.ts"
-import { COMMIT_KEY, ONLY_CHECK_NAMES_KEY } from "./vocabulary.ts"
+import type { PopulationEntry } from "@tools/lib/graph/queries/membership"
+import type { Row } from "@tools/lib/page-derive-shape"
+import { listOf, textOf } from "../ci-page-row-reads/ci-page-row-reads.module.code.ts"
+import type {
+  PipelineConfig,
+  WorkflowConfig,
+} from "../workflow-config/workflow-config.module.code.ts"
 
-export type NodeTypeSeed = string | { readonly kind: string; readonly under: string }
+const COMMIT_KEY = "commit"
 
-export interface WorkflowConfig {
-  name: string
-  kind?: string
-  dependsOn?: readonly string[]
-  whenBranch?: string
-  alwaysRun?: boolean
-  dispatchNodes?: readonly string[]
-  dispatchNodeTypes?: readonly NodeTypeSeed[]
-  config: Record<string, unknown>
-}
+const ONLY_CHECK_NAMES_KEY = "only-check-names"
 
-export interface PipelineConfig {
-  readonly workflows: readonly WorkflowConfig[]
-  readonly changedPaths: readonly string[]
-}
+const CHECK_WORKFLOW = "check"
+
+const INPUTS_HASH = /^[0-9a-f]{12}$/
 
 export interface PipelineLike {
   readonly changedFiles?: readonly string[]
@@ -66,9 +60,9 @@ export function asStringArray(value: unknown): readonly string[] | undefined {
   return out
 }
 
-export function readDispatchNodeTypes(raw: unknown): readonly NodeTypeSeed[] | undefined {
+export function readDispatchNodeTypes(raw: unknown): readonly PopulationEntry[] | undefined {
   if (!Array.isArray(raw)) return undefined
-  const out: NodeTypeSeed[] = []
+  const out: PopulationEntry[] = []
   for (const entry of raw) {
     if (typeof entry === "string") {
       out.push(entry)
@@ -98,12 +92,7 @@ export function buildPipelineConfig(
   return { workflows: held, changedPaths: pipeline.changedFiles ?? [] }
 }
 
-const INPUTS_HASH = /^[0-9a-f]{12}$/
-
-export function buildPipelineConfigFromRaw(
-  pipeline: PipelineLike,
-  raw: unknown
-): PipelineConfig {
+export function buildPipelineConfigFromRaw(pipeline: PipelineLike, raw: unknown): PipelineConfig {
   const workflows: WorkflowConfig[] = []
   for (const entry of Array.isArray(raw) ? raw : []) {
     if (!isPlainRecord(entry)) continue
@@ -129,8 +118,6 @@ export function buildPipelineConfigFromRaw(
   }
   return { workflows, changedPaths: pipeline.changedFiles ?? [] }
 }
-
-const CHECK_WORKFLOW = "check"
 
 export function buildWorkflowConfig(
   workflow: WorkflowLike,

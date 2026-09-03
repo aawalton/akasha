@@ -16,6 +16,7 @@
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-eso-typings": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
-    "@akasha/wandering-inn": "workspace:*"
+    "@akasha/wandering-inn": "workspace:*",
+    "@akasha/workflow-selection": "workspace:*"
   }
 }

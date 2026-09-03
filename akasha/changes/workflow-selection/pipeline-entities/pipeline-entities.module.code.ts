@@ -1,5 +1,9 @@
 import type { InputsHash12 } from "@akasha/workflow-language/ci-identifiers"
-import type { PipelineStatus, StepStatus, WorkflowStatus } from "./ci-status-vocabulary.ts"
+import type {
+  PipelineStatus,
+  StepStatus,
+  WorkflowStatus,
+} from "../ci-status-vocabulary/ci-status-vocabulary.module.code.ts"
 
 export type PipelineEntity = {
   id: string

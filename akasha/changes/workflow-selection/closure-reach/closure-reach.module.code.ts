@@ -3,8 +3,8 @@ import {
   type ClosureSeeds,
   membershipCoversPath,
   resolveClosureMembership,
-} from "../graph/queries/membership.ts"
-import type { Graph } from "../graph/types.ts"
+} from "@tools/lib/graph/queries/membership"
+import type { Graph } from "@tools/lib/graph/types"
 
 const CODE_REPO = "code"
 
@@ -22,5 +22,4 @@ export const closureIntersectsChangedFiles = (
   graph: Graph,
   seeds: ClosureSeeds,
   changedFiles: readonly string[]
-): boolean =>
-  membershipIntersectsPaths(graph, resolveClosureMembership(graph, seeds), changedFiles)
+): boolean => membershipIntersectsPaths(graph, resolveClosureMembership(graph, seeds), changedFiles)

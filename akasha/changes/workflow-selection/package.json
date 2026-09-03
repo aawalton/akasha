@@ -1,0 +1,21 @@
+{
+  "name": "@akasha/workflow-selection",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./ci-page-row-reads": "./ci-page-row-reads/ci-page-row-reads.module.code.ts",
+    "./ci-status-vocabulary": "./ci-status-vocabulary/ci-status-vocabulary.module.code.ts",
+    "./closure-reach": "./closure-reach/closure-reach.module.code.ts",
+    "./pipeline-config-building": "./pipeline-config-building/pipeline-config-building.module.code.ts",
+    "./pipeline-entities": "./pipeline-entities/pipeline-entities.module.code.ts",
+    "./pipeline-workflow-selection": "./pipeline-workflow-selection/pipeline-workflow-selection.module.code.ts",
+    "./workflow-branch-filter": "./workflow-branch-filter/workflow-branch-filter.module.code.ts",
+    "./workflow-config": "./workflow-config/workflow-config.module.code.ts",
+    "./workflow-topology": "./workflow-topology/workflow-topology.module.code.ts",
+    "./workflow-watch-gate": "./workflow-watch-gate/workflow-watch-gate.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/workflow-language": "workspace:*",
+    "@tools/lib": "workspace:*"
+  }
+}

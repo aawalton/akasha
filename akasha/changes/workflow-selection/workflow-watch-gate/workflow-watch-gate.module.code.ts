@@ -2,10 +2,12 @@ import {
   type ClosureMembership,
   MEMBERSHIP_ALL,
   resolveClosureMembership,
-} from "../graph/queries/membership.ts"
-import { closureIntersectsChangedFiles } from "./closure-reach.ts"
-import type { PipelineConfig } from "./select-workflows-filter.ts"
-import type { WorkflowConfig } from "./workflow-types.ts"
+} from "@tools/lib/graph/queries/membership"
+import { closureIntersectsChangedFiles } from "../closure-reach/closure-reach.module.code.ts"
+import type {
+  PipelineConfig,
+  WorkflowConfig,
+} from "../workflow-config/workflow-config.module.code.ts"
 
 export function workflowWatchMatches(config: PipelineConfig, wf: WorkflowConfig): boolean {
   if (wf.alwaysRun === true) return true
