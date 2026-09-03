@@ -1,14 +1,14 @@
+import { resolve } from "node:path"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import {
   envScrubArgv,
   launchModeFlags,
   scopeArgv,
   serverOptionArgv,
   supervisorEntryArgv,
-} from "./tmux-launch-recipe.ts"
-import { SEAT_MODE_HEADLESS } from "./seat-modes.ts"
+} from "@akasha/seat-system/seat-launching"
+import { SEAT_MODE_HEADLESS } from "@akasha/seat-system/seat-modes"
 import { removeSubagentPagesOf } from "./subagent-page.ts"
-import { resolve } from "node:path"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 const TMUX_CALL_CEILING_MS = 10_000
 
@@ -61,7 +61,10 @@ export function buildSupervisorCmd(root: string, opts: LaunchSeatOpts): readonly
   ]
 }
 
-export function buildNewSessionArgs(opts: LaunchSeatOpts, cmd: readonly string[]): readonly string[] {
+export function buildNewSessionArgs(
+  opts: LaunchSeatOpts,
+  cmd: readonly string[]
+): readonly string[] {
   return [
     "new-session",
     "-d",
@@ -89,8 +92,7 @@ async function runBounded(cmd: readonly string[]): Promise<TmuxCall> {
   const timer = setTimeout(() => {
     try {
       proc.kill(9)
-    } catch {
-    }
+    } catch {}
   }, TMUX_CALL_CEILING_MS)
   try {
     const [out, err, code] = await Promise.all([
@@ -205,7 +207,8 @@ export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchS
   const name = opts.name
   if (await sessionHolds(name)) {
     const held = await paneOf(name)
-    const dead = held === null ? null : await tmux(["display-message", "-p", "-t", held, "#{pane_dead}"])
+    const dead =
+      held === null ? null : await tmux(["display-message", "-p", "-t", held, "#{pane_dead}"])
     if (held !== null && dead?.out === "1") {
       await respawnSeatUnderTmux(opts)
       const revived = await tmux(["display-message", "-p", "-t", held, "#{pane_pid}"])

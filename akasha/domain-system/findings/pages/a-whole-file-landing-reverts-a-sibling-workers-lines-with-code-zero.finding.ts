@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aWholeFileLandingRevertsASiblingWorkersLinesWithCodeZero = {
+  id: "01a06867-7fc9-7002-8637-7ac5005a541f",
+  pageTypeSlug: "finding",
+  slug: "a-whole-file-landing-reverts-a-sibling-workers-lines-with-code-zero",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`landedMechanically` takes a whole file body, so two workers adding entries to one shared manifest silently revert each other. The second landing carries a body read before the first landed, and writing it whole takes the first worker's lines back out. Both calls answer code 0, both commits stand, and the loss shows in neither. The shared manifests of this migration are exactly where every worker in a lane must write: a package's `exports` block and a workspace package's `part-slugs`.",
+  evidence:
+    "Measured 2026-09-03. I landed a34a6cb54e, which added two lines to akasha/seat-system/package.json: `./seat-attached` and `./seat-modes`. `git show a34a6cb54e:akasha/seat-system/package.json` carries both at lines 13 and 15.\n\nThe next commit touching that file, 51db8ff642, has a34a6cb54e as its PARENT — `git log -1 --format=%h 51db8ff642^` prints a34a6cb54e — and its diff on that file is two deletions and no additions, both of them my lines. So the clobber is not a merge and not a base-commit collision: the worker composed its body from a snapshot of the file taken before my landing, and the landing wrote that stale body whole.\n\nNothing reported it. My call had already returned code 0 and its commit stands untouched; the other worker's call returned code 0 too. I found it only because I checked the file on disk afterwards rather than trusting the answer, and the two lines were not there. A worker that verified with `git show <its own commit>` instead of reading the working tree would have seen its lines and concluded the landing held.\n\nWhat this bears on is every lane writing a shared manifest, which in this migration is all of them. The read-the-file-then-write-it-whole shape is what the brief's own landing recipe teaches, so the defect is in the recipe rather than in the worker. A landing that took a line to add rather than a body to write would not have this failure mode. Until then the workable practice is to re-read the manifest and re-apply immediately before landing, and to verify on the working tree rather than on one's own commit.",
+} as const satisfies Finding

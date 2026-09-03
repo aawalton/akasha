@@ -1,46 +1,52 @@
 export const summary = "Bring a seat back on the session it was bound to, live or stopped"
 
+import {
+  isSeatMode,
+  SEAT_MODE_HEADLESS,
+  SEAT_MODE_INTERACTIVE,
+  SEAT_MODES,
+} from "@akasha/seat-system/seat-modes"
 import { parseWindowDuration } from "../../lib/active-core.ts"
 import { readTranscriptMtimeMs } from "../../lib/agent-io-probe.ts"
-import { dataError, inputError, operationalError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
-import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
-import { resumeSeat } from "../../lib/resume-seat.ts"
 import { DEFAULT_ACCOUNT } from "../../lib/default-account.ts"
+import { dataError, inputError, operationalError } from "../../lib/exit.ts"
 import {
   holdSeatPaneOpen,
   killSeatSession,
   launchSeatUnderTmux,
   respawnSeatUnderTmux,
 } from "../../lib/launch-seat-tmux.ts"
-import {
-  SEAT_MODES,
-  SEAT_MODE_HEADLESS,
-  SEAT_MODE_INTERACTIVE,
-  isSeatMode,
-} from "../../lib/seat-modes.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
+import { resumeSeat } from "../../lib/resume-seat.ts"
+import { liveResumeVerifySleep, resumeAndVerify } from "../../lib/resume-verify.ts"
 import {
   describeAckTimeout,
   setRequestedAction,
   waitForActionCleared,
 } from "../../lib/seat-action.ts"
 import { seatRecord } from "../../lib/seat-facts.ts"
+import { resolveSeatTargetFromFlagOrEnv } from "../../lib/seat-handle.ts"
 import { sweepSupersededAgentTrees } from "../../lib/seat-recovery.ts"
+import { help } from "../../lib/seat-resume-help.ts"
 import { setTurnState } from "../../lib/seat-turn.ts"
 import { shape } from "../../lib/shape.ts"
-import { resolveTakeoverTarget, takeoverSeat } from "../../lib/takeover-seat.ts"
-import { resolveSeatTargetFromFlagOrEnv } from "../../lib/seat-handle.ts"
 import { decideSubagentGuard } from "../../lib/subagent-guard.ts"
 import { standingSubagentsOf } from "../../lib/subagent-page.ts"
-import { liveResumeVerifySleep, resumeAndVerify } from "../../lib/resume-verify.ts"
-
-import { help } from "../../lib/seat-resume-help.ts"
+import { resolveTakeoverTarget, takeoverSeat } from "../../lib/takeover-seat.ts"
 
 export { help }
 
 const DEFAULT_VERIFY_GRACE_MS = 30_000
 
-const LAUNCH_ONLY = ["--prompt", "--prompt-file", "--boot-prompt", "--boot-prompt-file", "--verify", "--grace"] as const
+const LAUNCH_ONLY = [
+  "--prompt",
+  "--prompt-file",
+  "--boot-prompt",
+  "--boot-prompt-file",
+  "--verify",
+  "--grace",
+] as const
 
 const SELF_ACTION = "restart" as const
 const SELF_STATUS = "queued-on-idle" as const

@@ -1,41 +1,42 @@
-export const summary = "Start a seat: create it under a name, state what it is, and launch it where asked"
+export const summary =
+  "Start a seat: create it under a name, state what it is, and launch it where asked"
 
-import { dataError, inputError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
-import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import {
+  isSeatMode,
+  SEAT_MODE_HEADLESS,
+  SEAT_MODE_INTERACTIVE,
+  SEAT_MODES,
+} from "@akasha/seat-system/seat-modes"
+import {
+  composeSeatName,
   FLEET,
   FLEX,
-  composeSeatName,
   personaDefaultsOf,
   principals,
 } from "../../lib/compose-seat-name.ts"
 import { compositionOf, decideSpawnName } from "../../lib/decide-spawn-name.ts"
 import { DEFAULT_ACCOUNT } from "../../lib/default-account.ts"
+import { dataError, inputError } from "../../lib/exit.ts"
+import { launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
 import { refuseParentless } from "../../lib/refuse-parentless.ts"
 import { refuseStatedName } from "../../lib/refuse-stated-name.ts"
 import { refuseStatedParent } from "../../lib/refuse-stated-parent.ts"
-import { isValidSeatName, resolveOptionalSeatId } from "../../lib/seat-handle.ts"
-import { launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
-import { seatByName } from "../../lib/seat-by-name.ts"
-import { mintNamedAgent } from "../../lib/seat-name-bind.ts"
 import { resolveStatedIdentity } from "../../lib/resolve-stated-identity.ts"
-import { refuseHeldName } from "../../lib/seat-name-claim.ts"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { defaultFor } from "../../lib/seat-resolve.ts"
 import { handlerDerives, principalIsPerson, refuseAnswering } from "../../lib/seat-answering.ts"
-import {
-  SEAT_MODES,
-  SEAT_MODE_HEADLESS,
-  SEAT_MODE_INTERACTIVE,
-  isSeatMode,
-} from "../../lib/seat-modes.ts"
+import { seatByName } from "../../lib/seat-by-name.ts"
+import { isValidSeatName, resolveOptionalSeatId } from "../../lib/seat-handle.ts"
+import { mintNamedAgent } from "../../lib/seat-name-bind.ts"
+import { refuseHeldName } from "../../lib/seat-name-claim.ts"
 import { composedNameOf } from "../../lib/seat-rename.ts"
+import { defaultFor } from "../../lib/seat-resolve.ts"
+import { help } from "../../lib/seat-start-help.ts"
 import { setTurnState } from "../../lib/seat-turn.ts"
-import { spawnSeat, type StatedIdentity } from "../../lib/spawn-seat.ts"
+import { type StatedIdentity, spawnSeat } from "../../lib/spawn-seat.ts"
 import { stateSpawnedSeat } from "../../lib/state-spawned-seat.ts"
 import type { StatedAgentSlots } from "../../lib/supervisor-rebind-deps.ts"
-import { help } from "../../lib/seat-start-help.ts"
 
 export { help }
 
@@ -148,7 +149,9 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
   if (headless) {
     const promptFile = parsed.string("--prompt-file")
     const prompt =
-      promptFile === undefined ? parsed.requireString("--prompt") : await readStdinOrFile(promptFile)
+      promptFile === undefined
+        ? parsed.requireString("--prompt")
+        : await readStdinOrFile(promptFile)
     if (prompt.length === 0) throw inputError("--prompt / --prompt-file payload is empty")
     const handle = await spawnSeat({
       name,

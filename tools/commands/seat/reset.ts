@@ -1,23 +1,23 @@
-export const summary = "Reset a seat: take the agent out of it and sit a new one down holding every declaration it states"
+export const summary =
+  "Reset a seat: take the agent out of it and sit a new one down holding every declaration it states"
 
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { isSeatMode, SEAT_MODE_HEADLESS, SEAT_MODES } from "@akasha/seat-system/seat-modes"
 import { composeSeatName } from "../../lib/compose-seat-name.ts"
 import { DEFAULT_ACCOUNT } from "../../lib/default-account.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { killSeatSession, launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { flexInName } from "../../lib/seat-flex.ts"
 import { resolveSeatTargetCli } from "../../lib/seat-handle.ts"
-import { SEAT_MODES, SEAT_MODE_HEADLESS, isSeatMode } from "../../lib/seat-modes.ts"
 import { mintNamedAgent } from "../../lib/seat-name-bind.ts"
 import { type SeatFromHistory, seatFromHistory } from "../../lib/seat-page-history.ts"
 import { principalSeatNameOf } from "../../lib/seat-principal.ts"
-import { type Stated, pageWouldCompose, statedOf } from "../../lib/seat-stated.ts"
+import { help } from "../../lib/seat-reset-help.ts"
+import { pageWouldCompose, type Stated, statedOf } from "../../lib/seat-stated.ts"
 import { setTurnState } from "../../lib/seat-turn.ts"
 import { stateSpawnedSeat } from "../../lib/state-spawned-seat.ts"
 import { A_RESET, stopSeat } from "../../lib/stop-seat.ts"
-
-import { help } from "../../lib/seat-reset-help.ts"
 
 export { help }
 

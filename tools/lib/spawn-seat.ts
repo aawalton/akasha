@@ -1,22 +1,21 @@
-
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { SEAT_MODE_HEADLESS } from "@akasha/seat-system/seat-modes"
 import { enforceSpawnAdmission } from "@akasha/utils-system/memory-guard"
-import { dataError, inputError, operationalError } from "./exit.ts"
 import { FLEET, personaDefaultsOf } from "./compose-seat-name.ts"
+import { dataError, inputError, operationalError } from "./exit.ts"
+import { ruleText } from "./instructions-rule.ts"
+import { type LaunchSeatResult, launchSeatUnderTmux } from "./launch-seat-tmux.ts"
+import { refuseParentless } from "./refuse-parentless.ts"
+import { principalIsPerson, refuseAnswering } from "./seat-answering.ts"
 import { seatByName } from "./seat-by-name.ts"
 import { isValidSeatName } from "./seat-handle.ts"
 import { mintNamedAgent } from "./seat-name-bind.ts"
-import { launchSeatUnderTmux, type LaunchSeatResult } from "./launch-seat-tmux.ts"
+import { refuseHeldName } from "./seat-name-claim.ts"
+import { composedNameOf } from "./seat-rename.ts"
 import {
   decideSkillTokenGuard,
   DECLARATION_RELATIVE_PATH as SKILL_TOKEN_GUARD_DECLARATION,
 } from "./skill-token-guard.ts"
-import { refuseParentless } from "./refuse-parentless.ts"
-import { refuseHeldName } from "./seat-name-claim.ts"
-import { composedNameOf } from "./seat-rename.ts"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { principalIsPerson, refuseAnswering } from "./seat-answering.ts"
-import { SEAT_MODE_HEADLESS } from "./seat-modes.ts"
-import { ruleText } from "./instructions-rule.ts"
 import { stateSpawnedSeat } from "./state-spawned-seat.ts"
 
 export interface StatedIdentity {
