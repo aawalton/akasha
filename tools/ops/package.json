@@ -1,9 +1,0 @@
-{
-  "name": "@tools/ops",
-  "private": true,
-  "type": "module",
-  "version": "0.1.0",
-  "exports": {
-    "./*": "./*.ts"
-  }
-}

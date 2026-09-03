@@ -5,8 +5,7 @@
   "workspaces": [
     "akasha/**",
     "readouts",
-    "tools/lib",
-    "tools/ops"
+    "tools/lib"
   ],
   "dependencies": {
     "@akasha/analysis-complexity": "workspace:*",
