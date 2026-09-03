@@ -7,6 +7,7 @@ export const alanEmailWorker = {
   definition: "the service deciding Alan's mail against his email rules",
   runs: ["bun akasha/email-watch/inbox-watching/inbox-watching.module.code.ts"],
   enabled: true,
+  needsSecrets: true,
   systemd: {
     restartDelaySeconds: 10,
   },
