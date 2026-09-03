@@ -1,9 +1,6 @@
 {
   "references": [
     {
-      "path": "./temper/scripts"
-    },
-    {
       "path": "./infra/k8s"
     },
     {

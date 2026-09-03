@@ -12,7 +12,6 @@ const TEMPER_PREFIX = "temper/"
 
 export const TEMPER_COMPOSITION_ROOTS: readonly string[] = [
   "akasha/temper/temper-web",
-  "temper/scripts",
   "temper/addons",
 ]
 

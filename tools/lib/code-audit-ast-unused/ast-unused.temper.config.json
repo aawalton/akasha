@@ -8,15 +8,6 @@
         "**/*.ts"
       ]
     },
-    "temper/scripts": {
-      "entry": [
-        "src/**/*.script.ts",
-        "src/**/*.test.ts"
-      ],
-      "project": [
-        "src/**/*.ts"
-      ]
-    },
     "akasha/temper/temper-web": {
       "entry": [
         "*.{ts,tsx}",

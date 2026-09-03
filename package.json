@@ -29,7 +29,6 @@
     "infra/zimage",
     "readouts",
     "shared/vscode-typings",
-    "temper/scripts",
     "tools/lib",
     "tools/ops"
   ],
