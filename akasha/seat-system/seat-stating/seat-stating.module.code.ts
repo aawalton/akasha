@@ -15,6 +15,10 @@ const PREFERRED: readonly string[] = [DOMAIN, PERSON, "persona", "initiative"]
 
 const CALLED_AS = "seat-stating"
 
+const ASSIGNMENT = "assignmentSlug"
+
+const ADDRESSED = "/"
+
 export type SeatStated = {
   readonly agentId: string
   readonly persona: string | null
@@ -48,7 +52,25 @@ function said(value: string): string {
   return JSON.stringify(value)
 }
 
-export function seatBody(stated: SeatStated, seatName: string, root: string): string | null {
+export function assignmentStatedIn(value: unknown, slug: string): string | null {
+  if (typeof value !== "string") return null
+  const at = value.indexOf(ADDRESSED)
+  if (at < 1) return null
+  return value.slice(at + 1) === slug ? value : null
+}
+
+export function assignmentStatedOn(page: string, root: string, slug: string): string | null {
+  const held = valueAt(page, root)
+  if (held === null) return null
+  return assignmentStatedIn((held as Record<string, unknown>)[ASSIGNMENT], slug)
+}
+
+export function seatBody(
+  stated: SeatStated,
+  seatName: string,
+  root: string,
+  addressed: string | null = null
+): string | null {
   const { persona, domain, role, principal, mode, registration } = stated
   if (persona === null || domain === null || role === null || principal === null) return null
   if (mode === null || registration === null) return null
@@ -63,7 +85,7 @@ export function seatBody(stated: SeatStated, seatName: string, root: string): st
     '  pageTypeSlug: "seat",',
     `  slug: ${said(seatName)},`,
     `  personaSlug: ${said(persona)},`,
-    `  assignmentSlug: ${said(assignmentAddressOf(domain, root))},`,
+    `  assignmentSlug: ${said(addressed ?? assignmentAddressOf(domain, root))},`,
     `  roleSlug: ${said(role)},`,
     person ? `  personSlug: ${said(principal)},` : `  principalSeatName: ${said(above as string)},`,
     `  startMode: ${said(mode)},`,
@@ -83,10 +105,13 @@ export type Stating =
   | { readonly kind: "refused"; readonly said: string }
 
 export function statedSeat(root: string, stated: SeatStated, seatName: string): Stating {
-  const body = seatBody(stated, seatName, root)
-  if (body === null) return { kind: "unstated" }
   const page = seatPathForName(seatName)
-  if (existsSync(join(root, page)) && readFileSync(join(root, page), "utf8") === body) {
+  const there = existsSync(join(root, page))
+  const addressed =
+    there && stated.domain !== null ? assignmentStatedOn(page, root, stated.domain) : null
+  const body = seatBody(stated, seatName, root, addressed)
+  if (body === null) return { kind: "unstated" }
+  if (there && readFileSync(join(root, page), "utf8") === body) {
     return { kind: "unchanged" }
   }
   const landed = landedMechanically(

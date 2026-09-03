@@ -3,6 +3,7 @@ import { rootOf } from "@akasha/command-system/rooting"
 import {
   assignedKinds,
   assignmentAddressOf,
+  assignmentStatedIn,
   personNamed,
   type SeatStated,
   seatBody,
@@ -73,6 +74,35 @@ test("a seat not on call says so", () => {
 
 test("an assignment is addressed under the page type carrying its slug", () => {
   expect(assignmentAddressOf("athena", ROOT)).toBe("persona/athena")
+})
+
+test("a slug two page types carry is addressed under the kind looked in first", () => {
+  expect(assignmentAddressOf("akasha-migration", ROOT)).toBe("domain/akasha-migration")
+})
+
+test("an assignment the page addresses keeps the page type that page names", () => {
+  expect(assignmentStatedIn("initiative/akasha-migration", "akasha-migration")).toBe(
+    "initiative/akasha-migration"
+  )
+})
+
+test("an assignment addressing another slug than the seat states is addressed again", () => {
+  expect(assignmentStatedIn("initiative/akasha-migration", "agent-harness")).toBeNull()
+})
+
+test("an assignment naming no page type is addressed rather than kept", () => {
+  expect(assignmentStatedIn("akasha-migration", "akasha-migration")).toBeNull()
+  expect(assignmentStatedIn(null, "akasha-migration")).toBeNull()
+  expect(assignmentStatedIn("/akasha-migration", "akasha-migration")).toBeNull()
+})
+
+test("the address the page states is what the body carries", () => {
+  const body = seatBody(WHOLE, "athena", ROOT, "initiative/agent-harness")
+  expect(body).toContain('assignmentSlug: "initiative/agent-harness"')
+})
+
+test("a body handed no address off a page is addressed under the kind carrying its slug", () => {
+  expect(seatBody(WHOLE, "athena", ROOT)).toContain('assignmentSlug: "domain/agent-harness"')
 })
 
 test("a slug no page type carries is addressed as a domain", () => {
