@@ -62,18 +62,30 @@ export function pageAt(
   if (listed.length === 0) return null
   const one = listed.length === 1 ? listed[0] : undefined
   if (one !== undefined) return pageOf(one.path)
+  // TWO LINES ARE TWO DIFFERENT THINGS, and only one of them is this module's to answer.
+  //
+  // One page listed at several paths carries ONE id on every line, which is what an index that
+  // outlived a file it listed leaves behind: `story-read` and `story-chapter-read` each held the
+  // live path and a bare root path already deleted. A listing no reader can open is no candidate
+  // there, so the paths are read and the ones answering nothing are dropped, and what is left is
+  // the page.
+  //
+  // Several DIFFERENT pages sharing one slug under one kind carry different ids, and that is a
+  // separate fault with a separate repair — 21 identity files carry it, `text-property/genre` and
+  // `relation-property/world-slug` among them, and it is mended by deleting or moving one of the
+  // pages rather than by anything here. This answered null for that before and answers null for it
+  // still: six callers reach `Answering.pageAt` for a kind of their choosing and are shaped for
+  // `Value | null`, and `page-matches-its-type` asks it for every property a page declares. A
+  // refusal there took two audit checks down while the collision it named was already known and
+  // already left alone by the commit that wrote it, `ccfcb6d983`.
   const read = listed.flatMap((each) => {
     const value = pageOf(each.path)
-    return value === null ? [] : [{ path: each.path, value }]
+    return value === null ? [] : [{ id: each.id, value }]
   })
   const only = read[0]
   if (only === undefined) return null
-  if (read.length === 1) return only.value
-  throw new Error(
-    `\`${pageTypeSlug}/${slug}\` is listed at ${read.length} paths that each carry a page, so nothing here says which one names it: ${read.map((each) => each.path).join(", ")}`
-  )
+  return read.every((each) => each.id === only.id) ? only.value : null
 }
-
 export function sourceIn(given: string | Reading, pageOf: (path: string) => Value | null): Source {
   return {
     pageTypeAt: (slug) => pageAt(given, PAGE_TYPE, slug, pageOf),
