@@ -1,0 +1,190 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: Dreamscape"
+slug: 0043-chapter-38-dreamscape
+partOf: shapeshifter-a-non-human-litrpg
+position: 43
+ownLength: 1964
+unit: words
+publishedAt: 2026-09-03
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3903749/chapter-38-dreamscape"
+royalRoadId: "3903749"
+---
+
+Alex checked his watch for the fifth time.
+
+"Ghostwire said he'd be an hour, right?" Kenji said, pacing back and forth impatiently.
+
+"Yes, and now it's been two," Daisuke said without opening his eyes. He was seated on a nearby rock, attempting to recover as much mana as possible.
+
+"Shit, this is bad." Kenji ground his teeth. The usually mellow giant of a man had been on edge ever since learning about the Ether Technocrats' plot to open their own gates to the World Dungeon. "What if he doesn't come back? I need to get back to my daughter as soon as possible."
+
+Alex's gaze flickered between his watch and the amber crystal overhead, which still held the shadow of Ghostwire.
+
+"At least he's still in there," Alex said. "Relax, Kenji. I doubt the Ether Technocrats have already started opening portals. We can hold out a little longer."
+
+"I just don't understand what is taking him so long." Kenji angrily cut through the empty air before him with his butcher knife.
+
+Alex glanced at the amber crystal again.
+
+Ghostwire, I have to agree with Kenji. What are you doing? You said it would take an hour to inform the other Faceless Hunters about what was happening in here, yet it's been two.
+
+"All of you, shut it," Hina hissed from above. She was perched on a slanted crystal, with her daggers loose in her hands. Her gaze was fixed on the dark horizon of the basin. "I see movement ahead."
+
+Silence gripped the group, and they exchanged a knowing glance.
+
+Alex slowly and quietly shifted his great shield from his back to his hand. Daisuke opened his eyes and stood, while Kenji simply stared in the direction Hina was looking.
+
+"What is it?" Alex hissed as he shifted under her crystal.
+
+"There's not only one," Kenji whispered, his eyes narrowing.
+
+"Cinderspawns," Hina said as her eyes blazed golden. "Dozens of them, with levels in the range of 50 to 60."
+
+"Dozens, and their level is quite high," Alex frowned. Without Yuki to offer healing or Ghostwire to obliterate their enemies, they were terribly outclassed ever since the Abyssal Rift appeared. It had filled the eleventh floor with monsters that Alex would expect on floor thirty or below.
+
+Hina dropped down from the crystal. "Should we retreat?"
+
+"I'd love to," Alex said, raising his battered shield and rolling his shoulders until something cracked. Beyond the ridge, the orange glow had become a tide. "But without Ghostwire's help, the Guardian is undefeatable."
+
+"A fight to the death then," Hina brandished her daggers. "I was wanting to farm some levels before going to hell anyway."
+
+"That's the spirit." Alex turned to Daisuke. "Recovered enough mana for a few volleys?"
+
+Daisuke simply nodded as mana constructs began to weave in the air around him.
+
+"This heroic last stand is going to be rather regrettable if Ghostwire has abandoned us," Hina said as she stepped into the shadow of a nearby crystal and vanished.
+
+"That it will be," Alex muttered in agreement and braced himself for the pain ahead as the chitinous roar of the approaching monsters filled his ears.
+
+***
+
+Xen was dreaming.
+
+He stood on a plain of pale glass beneath a sky with too many moons. A city rose in the distance, its towers grown rather than built, spiraling like branches toward the clouds. Xen glanced around and felt like this world was awfully fake, as if built by someone.
+
+Curious, he visited the city. It was filled with people who wore borrowed smiles as fake as the surroundings. Xen wandered aimlessly, inspecting the people who seemed to call this place home.
+
+Or do they? Xen wondered. He couldn't see any shops, homes, or restaurants like he had seen in Tokyo. The facades of these places were interwoven into the odd living architecture, but nobody actually entered or left them. This place is fake in every possible way.
+
+Yet, as unsettling as the place should have been, Xen didn't feel too out of place. Nobody stared at him or treated him like an outsider. It was almost as if they expected him to be there. As if he was one of them.
+
+He reached the city's center and came upon a massive wound in the ground. It was like an abyss filled with dancing mana channels rising up from the darkness.
+
+"What is this?" he asked a random person since this was nothing but a dream.
+
+They turned and looked at him as if he had asked why the sky was blue.
+
+Xen also noted their gaze was empty.
+
+"It's the rift between worlds, the World Dungeon," the woman, or at least a being pretending to be a human woman, answered him. "Have you been called?"
+
+"Called?"
+
+"To join the invasion," the woman said, tilting her head. "You haven't claimed a face for yourself, after all."
+
+Xen looked down at himself for the first time and realized he wasn't Ghostwire, Yuki, or a particular monster. He was nothing but a formless black slime.
+
+The ground beneath him suddenly cracked.
+
+Confused, Xen looked up, and the strange woman, alongside everyone else, had gone deathly silent and was staring at him.
+
+"You're a devourer," the woman hissed, stepping back as if he were poisonous.
+
+"A what?" Xen asked, but didn't get his answer as the ground beneath him shattered, and he found himself falling into the abyss.
+
+This is nothing but a dream. I need to wake up.
+
+Xen kept falling through a matrix of interwoven mana channels that pulsed. He tried to reach out to them, to stop his fall, but his black tendrils simply phased through them. They weren't physical. None of this was. It was a dream after all.
+
+Wake up.
+
+The abyss continued to swallow him.
+
+I can't stay asleep. People are depending on me.
+
+The faces of Alex, Kenji, Daisuke, Hina, Randy, and the others on the surface flashed through his mind. Even Charlie, the cat he had been entrusted with.
+
+He hadn't been a Shapeshifter for long, but he had already met some humans he might even consider friends. He screwed his eyes shut and continued to fall until a system message appeared in his mind.
+
+[Evolution complete]
+
+[Race: Changeling Slime (Rare Variant) → Faceless One (Ancient Variant)]
+
+All of a sudden, he stopped falling and felt trapped. He opened his eyes to a world of dulled amber.
+
+[Congratulations on reaching the peak of your evolution tree. The Dungeon has no further evolutions to offer you. What you become next is up to you]
+
+He dismissed the notification as he was far more concerned about the muffled sounds of battle all around him beyond the amber. He felt the whole crystal he was hiding within shake as some skill was unleashed.
+
+Alex and the others must be fighting off monsters to protect me. I need to go and save them.
+
+[Emerging from the Amber Sheath will shatter the crystal. You will be briefly stunned]
+
+Xen had no time to worry about such things. He canceled his Amber Sheath skill, and the crystal around him shattered. With the amber gone, he saw the chaos that lay beyond.
+
+Alex stood on a nearby ridge, bloody and broken, with his dented shield barely raised against the tide of Cinderspawn. Meanwhile, Kenji and Hina worked together to kick back and butcher the Cinderspawn that tried to chomp at Daisuke, who had collapsed to the floor and looked deathly pale.
+
+The shattering of his crystal drew all of their attention.
+
+"Ghostwire!" Alex yelled, his eyes widening in shock.
+
+Xen didn't have a chance to reply as he fell helplessly into that same swarm.
+
+[You are stunned]
+
+His body swelled with power as his [Solo Hunter] passive activated, confirming he was still in Ghostwire's body despite being reduced to his slime form in the strange dream.
+
+Xen could hear Alex shouting for him over the Cinderspawn swarm that was trying to devour him. Trying was the key word there, as the little buggers couldn't even bite through his skin. The gap between their stats was simply that vast.
+
+He grinned behind his mask as the self-inflicted stun wore off.
+
+It was show time.
+
+***
+
+"Ghostwire! No!" Alex roared as he saw their savior fall into the swarm and vanish beneath the mass of chitin. A small mound formed, and he could hear them angrily biting at Ghostwire like a horde of dog-sized ants.
+
+"Is he going to die?!" Hina yelled as she briefly glanced over her shoulder to see the state of Ghostwire before having to raise both her daggers and cross-section a leaping Cinderspawn mid-air and eat a face full of its guts.
+
+"I don't know! I'm going to help him—" Alex tried to push forward against the rising swarm, only to be forced back a step. The Cinderspawn felt like raging bulls pounding against his shield. His arms were trembling and ached from exhaustion, and he could barely stand. But if the Cinderspawn devoured Ghostwire, all of this would have been pointless. "Kenji! Can you push me forward?"
+
+"On it!" Kenji kicked a lurching Cinderspawn down the ridge with a crunch and crouched behind him. Kenji got his shoulder under the ridge of Alex's armor, and Alex felt light on his feet as he was shoved forward. His arms strained against the Cinderspawn trying to rise up over his shield as he dug deep to fuel one last skill.
+
+His shield blazed with silver light. "Shockwave Slam!"
+
+The gathered power detonated out from his shield, throwing the Cinderspawn back with such force that their chitin dented and the ones right up against his shield were obliterated.
+
+You have assisted in killing multiple opponents. Experience distributed among party members.
+
+[Vanguard] has leveled up: 48 → 49.
+
+Alex felt a surge of strength from the level-up, which carried him down the side of the ridge and into a briefly cleared area.
+
+"Ghostwire! Are you alive?!"
+
+He was answered with laughter. It wasn't a joyful laughter; it was the laughter of a deranged murderer, and it sent a chill down his spine. The Cinderspawns also reacted by crawling over one another to try and bury Ghostwire.
+
+The laughter died down, and Alex heard a single muffled skill uttered by Ghostwire.
+
+"Chains of the Damned."
+
+Spectral chains, forged from necrotic mana that hurt to look at, punched outward through the mound in a dozen directions at once. There was no wind-up or warning. In a single breath, the mound had been skewered from within like a pincushion by chains as thick as Alex's arm impaling three and four Cinderspawn each and hoisting the entire writhing mass into the air.
+
+The mound bloomed open like a flower made of corpses.
+
+And at its center, standing in the empty space where dozens of monsters had just been feeding, was Ghostwire. Not only wasn't he injured from being attacked by so many monsters, but his suit also didn't even have a single tear in it. He rolled his neck lazily, chains fanned out around him like the ribs of some enormous beast, each one dripping ichor from half-dead Cinderspawn.
+
+Raising his finger, he pointed at the nearest one.
+
+"Radiant Lightning."
+
+A bolt of lightning arced from his finger, striking the skewered Cinderspawn with such destructive power that it exploded into a haze. The bolt didn't stop there and jumped to the next target, turning the hanging swarm of Cinderspawn that had been moments away from overrunning them into a firework show.
+
+Ghostwire stepped out of the bloody haze.
+
+"Alex," he said, his voice smoother than Alex remembered. "It's been a while. How are you holding up?"
+
+Alex dropped his shield with a metallic thud and collapsed to his knees.
+
+His savior was back.
