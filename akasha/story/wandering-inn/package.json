@@ -4,9 +4,14 @@
   "type": "module",
   "exports": {
     "./chapter": "./chapter/chapter.module.code.ts",
-    "./site": "./site/site.module.code.ts"
+    "./chapter-filing": "./chapter-filing/chapter-filing.module.code.ts",
+    "./site": "./site/site.module.code.ts",
+    "./sync-run-recording": "./sync-run-recording/sync-run-recording.module.code.ts",
+    "./wandering-inn-syncing": "./wandering-inn-syncing/wandering-inn-syncing.module.code.ts"
   },
   "dependencies": {
+    "@akasha/story-engine-core": "workspace:*",
+    "@tools/lib": "workspace:*",
     "playwright-core": "1.61.1"
   }
 }

@@ -1492,6 +1492,8 @@
     "akasha/story/wandering-inn": {
       "name": "@akasha/wandering-inn",
       "dependencies": {
+        "@akasha/story-engine-core": "workspace:*",
+        "@tools/lib": "workspace:*",
         "playwright-core": "1.61.1",
       },
     },

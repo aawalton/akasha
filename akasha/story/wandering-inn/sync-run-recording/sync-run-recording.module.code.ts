@@ -1,4 +1,4 @@
-import { askComposed, patchPage, rowLanding } from "../page-query-client.ts"
+import { askComposed, patchPage, rowLanding } from "@tools/lib/page-query-client"
 
 const SYNC_PAGE_TYPE = "sync"
 const RUN_PAGE_TYPE = "sync-run"
@@ -20,7 +20,11 @@ function unreached(thrown: unknown): { readonly ok: false; readonly why: string 
   return { ok: false, why: String(thrown) }
 }
 
-async function stateRun(source: string, values: Stated, act: "write-row" | "patch-row"): Promise<void> {
+async function stateRun(
+  source: string,
+  values: Stated,
+  act: "write-row" | "patch-row"
+): Promise<void> {
   const landed = await rowLanding(act, RUN_PAGE_TYPE, source, values, WRITER).catch(unreached)
   if (!landed.ok) console.log(`  the run record did not land: ${landed.why}`)
 }
@@ -68,7 +72,11 @@ export async function recordingRun(
   })
 
   const runId = Bun.randomUUIDv7()
-  await stateRun(source, { id: runId, source, status: "running", "started-at": startedAt }, "write-row")
+  await stateRun(
+    source,
+    { id: runId, source, status: "running", "started-at": startedAt },
+    "write-row"
+  )
   await stateSync(source, { "running-run": runId, "running-since-at": startedAt })
 
   let settled = false

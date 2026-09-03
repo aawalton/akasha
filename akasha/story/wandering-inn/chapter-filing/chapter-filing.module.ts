@@ -1,0 +1,41 @@
+import type { Module } from "@akasha/code-system/module"
+
+export const chapterFiling = {
+  id: "01a0686c-fd2c-7001-b7a4-465b147c2a2c",
+  pageTypeSlug: "module",
+  slug: "chapter-filing",
+  definition: "a wandering inn chapter filed under the story it belongs to",
+  code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The story a chapter is filed under stands before any chapter is filed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Exactly one page stands at the story's slug, and two are refused as one is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chapter already filed is known by the link it was filed under.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An answer holding no chapter at all is a broken read rather than an empty shelf, and is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chapter's own length is counted in words by the story engine's own reckoning.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chapter whose url states no day is filed without one rather than refused.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Chapters are filed by reaching the pages data directly, as code on the workstation must, rather than through the pages system service.",
+    },
+  ],
+} as const satisfies Module
