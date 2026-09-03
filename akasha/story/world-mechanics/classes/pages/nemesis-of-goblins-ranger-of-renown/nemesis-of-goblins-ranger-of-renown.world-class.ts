@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const nemesisOfGoblinsRangerOfRenown = {
   id: "01a0657e-0234-739b-a7da-cc6279758711",

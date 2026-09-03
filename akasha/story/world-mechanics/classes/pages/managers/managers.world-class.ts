@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const managers = {
   id: "01a0657e-022c-7d9b-b0f2-5b650b3bade4",

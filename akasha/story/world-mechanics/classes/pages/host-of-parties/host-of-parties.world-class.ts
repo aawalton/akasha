@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const hostOfParties = {
   id: "01a0657e-1374-7eed-a91d-9bebe918cca6",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const peerlessLogisticsGeneral = {
   id: "01a0657e-0237-7438-852f-18273b0b1fe6",

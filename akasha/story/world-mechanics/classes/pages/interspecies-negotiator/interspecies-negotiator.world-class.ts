@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const interspeciesNegotiator = {
   id: "01a0657e-1377-7884-bed8-0b1332e0c072",

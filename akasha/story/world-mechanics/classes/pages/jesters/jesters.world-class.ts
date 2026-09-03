@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const jesters = {
   id: "01a0657e-1377-7e4b-ab45-791090300905",

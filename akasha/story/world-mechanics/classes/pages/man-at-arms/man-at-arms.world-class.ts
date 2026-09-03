@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const manAtArms = {
   id: "01a0657e-022c-7a25-b72a-6e01c421b7e3",

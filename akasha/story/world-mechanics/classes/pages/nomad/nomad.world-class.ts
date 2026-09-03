@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const nomad = {
   id: "01a0657e-0234-77e6-95be-b07449044d21",

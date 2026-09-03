@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const javelineers = {
   id: "01a0657e-1377-7218-916e-f5f0d1b09062",

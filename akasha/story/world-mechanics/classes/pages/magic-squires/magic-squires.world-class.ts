@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const magicSquires = {
   id: "01a0657e-022a-719f-8a15-7b77833df0c1",

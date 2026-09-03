@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const mobileMechanic = {
   id: "01a0657e-0233-7e96-8e81-b24d0a5247b3",
