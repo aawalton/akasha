@@ -50,7 +50,7 @@ export type View = Page & {
 
 export const view = {
   id: "01a0680d-4d00-7016-9f27-3b8a5d6c4117",
-  pageTypeSlug: "view",
+  pageTypeSlug: "page-type",
   slug: "view",
   definition: "one arrangement of the pages of a type, as a person has set it up",
   pluralSlug: "views",
