@@ -12,4 +12,14 @@ export const id = {
   nameFormatSlug: "name-format/lower-uuid",
   unique: "always",
   generator: "uuid-v7",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A page being created states no id of its own.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An id stated by hand is judged by no check on a mechanical landing.",
+    },
+  ],
 } as const satisfies TextProperty

@@ -115,25 +115,6 @@ export function coerceByType(value: unknown, type: string): unknown {
   }
 }
 
-const UUID_BYTES = 16
-const TIMESTAMP_BYTES = 6
-const VERSION_BYTE = 6
-const VARIANT_BYTE = 8
-
-export function mintedId(at: number = Date.now()): string {
-  const bytes = new Uint8Array(UUID_BYTES)
-  crypto.getRandomValues(bytes)
-  let held = at
-  for (let index = TIMESTAMP_BYTES - 1; index >= 0; index -= 1) {
-    bytes[index] = held % 256
-    held = Math.floor(held / 256)
-  }
-  bytes[VERSION_BYTE] = ((bytes[VERSION_BYTE] ?? 0) & 0x0f) | 0x70
-  bytes[VARIANT_BYTE] = ((bytes[VARIANT_BYTE] ?? 0) & 0x3f) | 0x80
-  const hex = [...bytes].map((one) => one.toString(16).padStart(2, "0")).join("")
-  return `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20, 32)}`
-}
-
 export type BuildRowsArgs = {
   readonly rows: readonly QueryRow[]
   readonly definitions: readonly PropertyDefinition[]

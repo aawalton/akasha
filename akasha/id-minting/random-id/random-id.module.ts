@@ -6,4 +6,14 @@ export const randomId = {
   slug: "random-id",
   definition: "the runtime's random uuid, taken as a string",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement: "No page takes its identity from here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value from here is unpredictable rather than ordered by time.",
+    },
+  ],
 } as const satisfies Module
