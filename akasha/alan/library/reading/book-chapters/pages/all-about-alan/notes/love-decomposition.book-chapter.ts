@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const loveDecomposition = {
   id: "01a06594-c67b-7001-a08b-705c1a9c195c",
