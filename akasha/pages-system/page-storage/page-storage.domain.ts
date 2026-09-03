@@ -24,7 +24,11 @@ export const pageStorage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page has one kind of deletion, and that deletion removes the file.",
+      statement: "A page has one kind of deletion.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That one deletion removes the page's file.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +37,7 @@ export const pageStorage = {
     {
       invariantKind: "departure",
       statement:
-        "A value is in the page's own file unless the value is secret, uncommitted or a file property.",
+        "A value that is not secret and not uncommitted and not a file property is in the page's own file.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +46,11 @@ export const pageStorage = {
     },
     {
       invariantKind: "gap",
-      statement: "Reading a page's file and writing it back leaves the file unchanged.",
+      statement: "Reading a page's file and writing that file back leaves the file unchanged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's file is reached from a server rather than from a browser.",
     },
   ],
 } as const satisfies Domain
