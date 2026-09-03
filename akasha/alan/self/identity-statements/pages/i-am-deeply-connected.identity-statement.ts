@@ -1,0 +1,15 @@
+import type { IdentityStatement } from "../identity-statement.page-type.ts"
+
+export const iAmDeeplyConnected = {
+  id: "019ea810-a12d-7368-a087-5ade2b10c157",
+  pageTypeSlug: "identity-statement",
+  slug: "i-am-deeply-connected",
+  title: "I am deeply connected",
+  about: "myself",
+  identityStatementLevel: 0,
+  notionId: "c16744b3f852475499aa5bac1e0efc5d",
+  identityStatementRank: "b-rank",
+  replacesIds: ["019ea810-aef2-7f07-9d0d-ac0226b92f1d"],
+  identityStatementStatus: "planned",
+  identityStatementValueSlug: "love",
+} as const satisfies IdentityStatement
