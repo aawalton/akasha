@@ -5,7 +5,7 @@ export const foodEntryPlantsSinceWaking = {
   pageTypeSlug: "page-query",
   slug: "food-entry-plants-since-waking",
   asksOfSlug: "food-entry",
-  narrows: [{ key: "happened-at", comparison: "at-or-after", values: ["wake-day"] }],
+  narrows: [{ key: "happenedAt", comparison: "at-or-after", values: ["wake-day"] }],
   reduction: "sum",
-  targetKey: "plant-grams",
+  targetKey: "plantGrams",
 } as const satisfies PageQuery

@@ -6,10 +6,10 @@ export const claudeAccountsNextFiveHourBack = {
   slug: "claude-accounts-next-five-hour-back",
   asksOfSlug: "claude-account",
   narrows: [
-    { key: "five-hour-percent-used", comparison: "at-or-after", values: ["100"] },
-    { key: "five-hour-resets-at", comparison: "at-or-after", values: ["now"] },
+    { key: "fiveHourPercentUsed", comparison: "at-or-after", values: ["100"] },
+    { key: "fiveHourResetsAt", comparison: "at-or-after", values: ["now"] },
   ],
-  keys: ["five-hour-resets-at"],
-  sortBy: "five-hour-resets-at",
+  keys: ["fiveHourResetsAt"],
+  sortBy: "fiveHourResetsAt",
   limit: 1,
 } as const satisfies PageQuery

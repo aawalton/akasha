@@ -11,8 +11,8 @@ export const valueGreenDayUnitsOnDay = {
   ],
   narrows: [
     { key: "date", comparison: "is", values: ["$date"] },
-    { key: "value-slug", comparison: "is", values: ["$value"] },
+    { key: "valueSlug", comparison: "is", values: ["$value"] },
   ],
   reduction: "sum",
-  targetKey: "green-day-rung",
+  targetKey: "greenDayRung",
 } as const satisfies PageQuery

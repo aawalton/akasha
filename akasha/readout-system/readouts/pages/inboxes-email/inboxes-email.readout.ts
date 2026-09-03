@@ -15,7 +15,7 @@ export const inboxesEmail = {
   groupSlugs: ["inboxes"],
   wireKey: "email",
   querySlug: "email-entry-lowest-inbox-count-today",
-  queryKey: "lowest-inbox-count",
+  queryKey: "lowestInboxCount",
   invariants: [
     {
       invariantKind: "departure",
