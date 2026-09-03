@@ -9,6 +9,7 @@ export const scripturePassage2Thessalonians3 = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
+  unitSlug: "words",
   status: "not-started",
   externalId: "2thessalonians3",
 } as const satisfies ScripturePassage
