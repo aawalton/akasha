@@ -5,10 +5,11 @@ export const allAboutAlan = {
   pageTypeSlug: "domain",
   slug: "all-about-alan",
   definition: "the notes on who Alan is",
+  partSlugs: ["page-type/all-about-alan-topic"],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The notes are part of Alan rather than a description of Alan.",
+      statement: "The notes are part of Alan rather than a description of him.",
     },
     {
       invariantKind: "absence",
@@ -20,7 +21,7 @@ export const allAboutAlan = {
     },
     {
       invariantKind: "departure",
-      statement: "Edits here land without Alan's review.",
+      statement: "A change here lands without Alan's review.",
     },
   ],
   directives: [
