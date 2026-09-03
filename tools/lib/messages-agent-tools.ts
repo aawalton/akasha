@@ -1,9 +1,9 @@
 import { basename } from "node:path"
-import { seatNameForAgent } from "./seat-presence-read.ts"
-import { transcriptOf } from "./seat-transcript-path.ts"
+import { startDeliveryWitness } from "@akasha/seat-system/messages-delivery-witness"
 import { claimMessage, releaseClaim, takeMessage } from "./message-file.ts"
 import { watchMessagesTo } from "./message-file-watch.ts"
-import { startDeliveryWitness } from "./messages-delivery-witness.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
+import { transcriptOf } from "./seat-transcript-path.ts"
 
 const PAGE_SUFFIX = ".md"
 

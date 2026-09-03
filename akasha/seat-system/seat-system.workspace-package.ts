@@ -150,6 +150,13 @@ export const seatSystem = {
     "module/supervisor-usage-snapshot",
     "module/supervisor-wait-resume",
     "module/supervisor-wait-resume-answer",
+    "module/message-to",
+    "module/message-page-address",
+    "module/message-to-start",
+    "module/message-reach-write",
+    "module/messages-agent-id",
+    "module/messages-console-stdout-guard",
+    "module/messages-delivery-witness",
   ],
   invariants: [
     {

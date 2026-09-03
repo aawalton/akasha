@@ -2,9 +2,9 @@ import { type ChildProcess, spawn } from "node:child_process"
 import { writeFile } from "node:fs/promises"
 import type { Readable } from "node:stream"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { handlerDerives } from "@akasha/seat-system/seat-answering"
-import { SEAT_MODE_HEADLESS } from "@akasha/seat-system/seat-modes"
-import { REPO_ROOT } from "@akasha/seat-system/supervisor-config"
+import { handlerDerives } from "../../seat-answering/seat-answering.module.code.ts"
+import { SEAT_MODE_HEADLESS } from "../../seat-modes/seat-modes.module.code.ts"
+import { REPO_ROOT } from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
 import {
   decideRecipient,
   names,
@@ -12,7 +12,7 @@ import {
   type SeatRow,
   type Stated,
   seatsStating,
-} from "./message-to.ts"
+} from "../message-to/message-to.module.code.ts"
 
 const PATIENCE_MS = 120_000
 

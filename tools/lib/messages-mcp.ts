@@ -1,11 +1,11 @@
-import "./messages-console-stdout-guard.ts"
+import "@akasha/seat-system/messages-console-stdout-guard"
 
 import { readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
+import { getAgentId } from "@akasha/seat-system/messages-agent-id"
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js"
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
-import { getAgentId } from "./messages-agent-id.ts"
 import { type ChannelServer, startChannelListener } from "./messages-agent-tools.ts"
 
 function loadSecrets(): void {

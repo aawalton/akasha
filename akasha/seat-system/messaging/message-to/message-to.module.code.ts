@@ -1,7 +1,6 @@
-
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { seatRoster } from "./seat-roster.ts"
-import { resolveSlot, scan } from "./seat-resolve.ts"
+import { resolveSlot, scan } from "@tools/lib/seat-resolve"
+import { seatRoster } from "@tools/lib/seat-roster"
 
 export interface SeatRow {
   readonly id: string
@@ -58,7 +57,9 @@ export type Recipient =
   | { readonly kind: "none" }
 
 export function decideRecipient(stated: Stated, seats: readonly SeatRow[]): Recipient {
-  const candidates = [...matching(stated, seats)].sort((one, two) => two.activeAtMs - one.activeAtMs)
+  const candidates = [...matching(stated, seats)].sort(
+    (one, two) => two.activeAtMs - one.activeAtMs
+  )
   const [first] = candidates
   return first === undefined ? { kind: "none" } : { kind: "seat", seat: first }
 }
@@ -78,8 +79,6 @@ export function undeclared(stated: Stated): string | null {
       "seat could be stating it. `ops domain dag` prints the domains that stand."
     )
   }
-
-  const role = stated.kind === "domain" ? stated.role : null
 
   return null
 }

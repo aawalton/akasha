@@ -9,9 +9,9 @@ import {
   type Said,
   said,
 } from "@akasha/pages-system/page-query-request"
+import { reaching, revived } from "@akasha/seat-system/message-reach-write"
 import { dropDerivers } from "./deriver-hold.ts"
 import { refuseALiveTestWriteIn } from "./live-store-write-guard.ts"
-import { reaching, revived } from "./message-reach-write.ts"
 import { comparedResponse } from "./page-compare.ts"
 import { patchRows, removeRow, writeRows } from "./page-rows-write.ts"
 import { patchPage, patchState, removePage, type Written, writePage } from "./page-write.ts"
