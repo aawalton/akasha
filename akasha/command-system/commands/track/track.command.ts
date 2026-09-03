@@ -141,6 +141,43 @@ export const track = {
     },
     {
       invariantKind: "departure",
+      statement: "A wall time whose hour is 1 to 12 is read on a twelve hour clock.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wall time whose hour is 0 or 13 to 23 is read on a twenty-four hour clock.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A twelve hour reading is looked for from one hour after now back eleven hours.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A twenty-four hour reading is looked for from one hour after now back twenty-three hours.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The earliest instant a window reaches falls outside that window.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A bare wall time names one instant rather than two instants.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wall time the clock skipped is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wall time the clock struck twice is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row is identified by a mark minted when the row is written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A day carries one open stretch at most.",
     },
     {
