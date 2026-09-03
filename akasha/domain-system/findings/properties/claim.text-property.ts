@@ -8,6 +8,6 @@ export const claim = {
   slug: "claim",
   propertySlug: "claim",
   definition: "what a finding says is so",
-  max: 500,
+  max: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty
