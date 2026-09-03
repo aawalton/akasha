@@ -1,8 +1,6 @@
-export const summary = "Ingest the open Lichess puzzle database (CC0) into a chess-puzzle set's puzzles"
+export const summary =
+  "Ingest the open Lichess puzzle database (CC0) into a chess-puzzle set's puzzles"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { dataError, inputError, operationalError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 import {
   DEFAULT_INGEST_LIMIT,
   type IngestCounts,
@@ -11,11 +9,14 @@ import {
   LICHESS_PUZZLE_URL,
   type ParsedPuzzle,
   puzzleToRow,
-} from "../../lib/chess-puzzle-lichess.ts"
-import { patchRows } from "../../lib/page-rows-write.ts"
+} from "@akasha/chess-core/chess-puzzle-lichess"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { dataError, inputError, operationalError } from "../../lib/exit.ts"
 import { load } from "../../lib/page-query.ts"
 import { textOf } from "../../lib/page-query-values.ts"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { patchRows } from "../../lib/page-rows-write.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const CHESS_PUZZLE = "chess-puzzle"
 
@@ -148,7 +149,9 @@ export default async function chessPuzzleSync(args: readonly string[]): Promise<
     if (landed.refused !== undefined) throw dataError(landed.refused)
     if (landed.absent !== undefined) throw dataError(landed.absent)
     if (landed.commitError !== null) {
-      throw operationalError(`the batch landed at ${landed.relPath} but its commit did not: ${landed.commitError}`)
+      throw operationalError(
+        `the batch landed at ${landed.relPath} but its commit did not: ${landed.commitError}`
+      )
     }
   }
 
