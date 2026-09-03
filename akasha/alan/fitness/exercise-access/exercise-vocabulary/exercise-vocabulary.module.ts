@@ -16,6 +16,10 @@ export const exerciseVocabulary = {
       statement: "A coaching constraint takes a focus or takes all of them.",
     },
     {
+      invariantKind: "departure",
+      statement: "A set logged is strength, cardio or mobility.",
+    },
+    {
       invariantKind: "gap",
       statement: "Every list here is also the values of a select property under fitness.",
     },

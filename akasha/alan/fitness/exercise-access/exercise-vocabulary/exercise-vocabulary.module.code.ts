@@ -14,6 +14,8 @@ export const SCHEDULE_DAY_FOCUS_OPTIONS = [...FOCUS_OPTIONS, "rest"] as const
 
 export const CONSTRAINT_FOCUS_OPTIONS = [...FOCUS_OPTIONS, "all"] as const
 
+export const ACTIVITY_TYPE_OPTIONS = ["strength", "cardio", "mobility"] as const
+
 export const CONSTRAINT_KIND_OPTIONS = [
   "medical-gate",
   "programming-cue",

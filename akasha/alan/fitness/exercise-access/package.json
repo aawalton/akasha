@@ -3,14 +3,19 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./custom-exercise-features": "./custom-exercise-features/custom-exercise-features.module.code.ts",
     "./day-of-week": "./day-of-week/day-of-week.module.code.ts",
     "./equipment-kit": "./equipment-kit/equipment-kit.module.code.ts",
     "./exercise-choosing": "./exercise-choosing/exercise-choosing.module.code.ts",
     "./exercise-finding": "./exercise-finding/exercise-finding.module.code.ts",
+    "./exercise-load-model": "./exercise-load-model/exercise-load-model.module.code.ts",
     "./exercise-rows": "./exercise-rows/exercise-rows.module.code.ts",
     "./exercise-vocabulary": "./exercise-vocabulary/exercise-vocabulary.module.code.ts",
+    "./free-exercise-mapping": "./free-exercise-mapping/free-exercise-mapping.module.code.ts",
+    "./free-exercise-row": "./free-exercise-row/free-exercise-row.module.code.ts",
     "./mobility-derive": "./mobility-derive/mobility-derive.module.code.ts",
     "./movement-scoring": "./movement-scoring/movement-scoring.module.code.ts",
+    "./selection-features": "./selection-features/selection-features.module.code.ts",
     "./selection-policy": "./selection-policy/selection-policy.module.code.ts",
     "./session-derive": "./session-derive/session-derive.module.code.ts",
     "./set-history": "./set-history/set-history.module.code.ts",
@@ -21,6 +26,7 @@
   "dependencies": {
     "@akasha/day": "workspace:*",
     "@akasha/pages-system": "workspace:*",
-    "@tools/lib": "workspace:*"
+    "@tools/lib": "workspace:*",
+    "zod": "^4.3.6"
   }
 }

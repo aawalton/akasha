@@ -1,4 +1,4 @@
-import type { FreeExercise } from "./schemas"
+import type { FreeExercise } from "../free-exercise-row/free-exercise-row.module.code.ts"
 
 export const SINGLE_IMPLEMENT_NAME_RE =
   /\b(one[- ]arm|single|concentration|goblet|cross[- ]body|see[- ]?saw|alternat)/i
@@ -66,7 +66,7 @@ const SUPPORTED_LEG_OVERRIDES: ReadonlySet<string> = new Set(["Lying_Machine_Squ
 
 function legLoadFactor(exercise: FreeExercise): number {
   if (SUPPORTED_LEG_OVERRIDES.has(exercise.id)) return 0
-  if (!exercise.primaryMuscles.some((m) => LEG_HIP_MUSCLES.has(m))) return 0
+  if (!exercise.primaryMuscles.some((muscle) => LEG_HIP_MUSCLES.has(muscle))) return 0
   const name = exercise.name
   if (HIP_BRIDGE_NAME_RE.test(name)) return 0.5
   if (SQUAT_LUNGE_NAME_RE.test(name)) return 0.6

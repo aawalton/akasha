@@ -1,3 +1,4 @@
+import { optionId } from "../exercise-choosing/exercise-choosing.module.code.ts"
 import {
   CATEGORY_OPTIONS,
   EQUIPMENT_OPTIONS,
@@ -5,10 +6,12 @@ import {
   LEVEL_OPTIONS,
   MECHANIC_OPTIONS,
   MUSCLE_OPTIONS,
-} from "../page-types/exercise-options"
-import { slugifyOptionId } from "./map"
-import type { FreeExercise } from "./schemas"
-import { deriveSelectionFeatures, type SelectionFeatures } from "./selection-features"
+} from "../exercise-vocabulary/exercise-vocabulary.module.code.ts"
+import type { FreeExercise } from "../free-exercise-row/free-exercise-row.module.code.ts"
+import {
+  deriveSelectionFeatures,
+  type SelectionFeatures,
+} from "../selection-features/selection-features.module.code.ts"
 
 export interface CustomExerciseInput {
   readonly title: string
@@ -22,7 +25,7 @@ export interface CustomExerciseInput {
 }
 
 function labelIndex(optionLabels: readonly string[]): ReadonlyMap<string, string> {
-  return new Map(optionLabels.map((label) => [slugifyOptionId(label), label]))
+  return new Map(optionLabels.map((label) => [optionId(label), label]))
 }
 
 const LABELS_BY_SLUG = {

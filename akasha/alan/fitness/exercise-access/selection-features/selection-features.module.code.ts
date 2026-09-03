@@ -1,6 +1,6 @@
-import type { Json } from "../pages/page"
-import { SINGLE_IMPLEMENT_NAME_RE } from "./load-model"
-import type { FreeExercise } from "./schemas"
+import { SINGLE_IMPLEMENT_NAME_RE } from "../exercise-load-model/exercise-load-model.module.code.ts"
+import type { Value } from "../exercise-rows/exercise-rows.module.code.ts"
+import type { FreeExercise } from "../free-exercise-row/free-exercise-row.module.code.ts"
 
 export interface SelectionFeatures {
   readonly movementPattern: string
@@ -221,7 +221,7 @@ export function deriveGripDemand(exercise: FreeExercise): string {
   const ballisticKettlebell = exercise.equipment === "kettlebells" && deriveIsBallistic(exercise)
   if (HIGH_GRIP_NAME_RE.test(exercise.name) || ballisticKettlebell) return "high"
   const bodySupported = exercise.equipment === "machine" || exercise.equipment === "body only"
-  const legOrCoreOnly = exercise.primaryMuscles.every((m) => NON_GRIP_MUSCLES.has(m))
+  const legOrCoreOnly = exercise.primaryMuscles.every((muscle) => NON_GRIP_MUSCLES.has(muscle))
   if (bodySupported && legOrCoreOnly && exercise.primaryMuscles.length > 0) return "none"
   return "low"
 }
@@ -234,7 +234,7 @@ export function deriveSfrScore(exercise: FreeExercise): number {
   return 3
 }
 
-export function selectionFeatureProps(features: SelectionFeatures): Record<string, Json> {
+export function selectionFeatureProps(features: SelectionFeatures): Record<string, Value> {
   return {
     movementPattern: features.movementPattern,
     ...(features.secondaryPattern !== undefined
