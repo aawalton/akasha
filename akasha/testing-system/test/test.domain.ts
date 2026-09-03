@@ -31,6 +31,30 @@ export const test = {
       invariantKind: "gap",
       statement: "A test that would pass over an empty world does not land.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "The DOM shim a test runs in drops `set-cookie` from a `Response`.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The runtime that DOM shim answers for keeps `set-cookie` on a `Response`.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "`mock.restore()` leaves a `mock.module` replacement in place.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Mocking a module mutates that module's namespace object in place.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A reference taken before a mock holds the stub rather than the original.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A `beforeAll` is charged against the same time bound as a test case.",
+    },
   ],
   directives: [
     {
