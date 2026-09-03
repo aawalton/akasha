@@ -1,7 +1,7 @@
 import type { IdlePersonaCard } from "../../idle-persona-card.page-type.ts"
 
 export const abby5a895ca7 = {
-  id: "01a0659f-456f-7002-bdd3-2a260a6ed843",
+  id: "01a0659f-c598-7012-844d-498d0a6ed843",
   pageTypeSlug: "idle-persona-card",
   slug: "abby-5a895ca7",
   title: "Abby",
