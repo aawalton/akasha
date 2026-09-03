@@ -1,0 +1,20 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const twoDeploySystemFilesKeptOnPurposeCannotBeLoaded = {
+  id: "01a06861-cb4d-76c1-9e6b-89e5ae1febcc",
+  pageTypeSlug: "finding",
+  slug: "two-deploy-system-files-kept-on-purpose-cannot-be-loaded",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`deploy-system/running/running.ts` and `deploy-system/secret/secret.ts` were kept back on purpose, having no counterpart inside akasha, but the commit that took their siblings left them importing four files that no longer exist. Both are unloadable, and nothing imports either, so the keeping preserved the text and not the capability.",
+  evidence:
+    "Read 2026-09-03. Commit 7449c63fce says it plainly: \"The deploy machinery whose content stands inside akasha goes; the secret placing and the unpaged workload listing stay, having no counterpart there.\" It is the last commit to touch `deploy-system/`, and after it `git ls-tree -r HEAD deploy-system` holds these two files alone.
+
+WHAT THEY REACH FOR IS GONE. `running.ts` imports `../service/service.ts` and `../kubectl/kubectl.ts`; `secret.ts` imports `../deploy/deploy.ts`, `../kubectl/kubectl.ts` and `../refusal/refusal.ts`. All four paths are absent from disk and from HEAD. `secret.ts` also reaches `../../repo/git/git.ts`, which does stand.
+
+I CONFIRMED THE KEEPING WAS RIGHT ON ITS OWN TERMS. Searching akasha by content rather than by file name: `unpaged`, `runningOf` and `workloadOf` appear nowhere in akasha; `resourceKind` appears only as a property that cluster-service pages state, never as a reconciliation against what the cluster is running. `demandedBy` and the `secretKeyRef`/`secretRef`/`secret.secretName` walk appear nowhere; `secretsIn` does stand at `akasha/pages-system/pages/secret/page-secret.module.code.ts:142`, but that is a thing `secret.ts` imports, not the guard it holds. The guard is at `deploy-system/secret/secret.ts` lines 96-107: a deploy is refused where two secret pages place a value in one resource under one key. `akasha/command-system/commands/deploy/deploy.command.ts` names only `deploy-ios-shipping`, `deploy-kind-reading` and `deploy-web-putting-up`, none of which is either concept.
+
+NOBODY READS THEM. Across every tracked `.ts`, `.tsx` and `.json` outside `.git` and `node_modules`, no file imports either. The only spellings of their paths are in two untracked root `*.tmp.ts` files belonging to other lanes.
+
+SO THE CHOICE IS NOT BETWEEN KEEPING AND ABLATING. Either the two concepts are wanted, in which case the broken imports must be repointed at whatever inside akasha replaced `deploy.ts`, `kubectl.ts`, `service.ts` and `refusal.ts`, or they are not, in which case the files go. Keeping them as they stand preserves neither. I did not repoint them, because I could not establish from the code alone which akasha module each of the four became, and guessing would be worse than recording it.",
+} as const satisfies Finding
