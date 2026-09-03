@@ -39,7 +39,9 @@ interface CharacterPageRow {
   id: string
   userId?: string
   buildHash?: string
-  buildMetadata?: CharacterBuildMetadata
+  title?: string
+  description?: string
+  targetCount?: number
   visibility?: string
 }
 
@@ -51,23 +53,15 @@ interface CompanionPageRow {
   id: string
   userId?: string
   buildHash?: string
-  buildMetadata?: CompanionBuildMetadata
+  title?: string
+  description?: string
+  targetCount?: number
+  baseRoles?: CompanionBuildMetadata["baseRoles"]
   visibility?: string
 }
 
 function asCompanionPageRow(row: unknown): CompanionPageRow {
   return row as CompanionPageRow
-}
-
-const EMPTY_CHARACTER_METADATA: CharacterBuildMetadata = {
-  name: "",
-  description: "",
-  characterName: "",
-}
-
-const EMPTY_COMPANION_METADATA: CompanionBuildMetadata = {
-  name: "",
-  description: "",
 }
 
 export function meta({ data: loaderData }: Route.MetaArgs) {
@@ -179,14 +173,19 @@ async function loadCharacterDetail(page: Record<string, unknown>, request: Reque
   }
 
   const buildHash = r.buildHash ?? ""
-  const metadata = r.buildMetadata
   let initialBuild: CharacterState
   let initialBuildHash = buildHash
   let decodeFailed = false
   if (buildHash !== "") {
     const decoded = decodeBuild(toBuildHash(buildHash))
     if (decoded) {
-      initialBuild = applyCharacterMetadata(decoded, metadata ?? EMPTY_CHARACTER_METADATA)
+      const metadata: CharacterBuildMetadata = {
+        name: r.title ?? decoded.name,
+        description: r.description ?? decoded.description,
+        characterName: decoded.character.name,
+        ...(typeof r.targetCount === "number" ? { targetCount: r.targetCount } : {}),
+      }
+      initialBuild = applyCharacterMetadata(decoded, metadata)
     } else {
       initialBuild = createEmptyCharacter()
       initialBuildHash = encodeBuild(initialBuild)
@@ -235,14 +234,19 @@ async function loadCompanionDetail(page: Record<string, unknown>, request: Reque
   }
 
   const buildHash = r.buildHash ?? ""
-  const metadata = r.buildMetadata
   let initialBuild = createEmptyCompanion()
   let initialBuildHash = buildHash
   let decodeFailed = false
   if (buildHash !== "") {
     const decoded = decodeCompanion(toBuildHash(buildHash))
     if (decoded) {
-      initialBuild = applyCompanionMetadata(decoded, metadata ?? EMPTY_COMPANION_METADATA)
+      const metadata: CompanionBuildMetadata = {
+        name: r.title ?? decoded.name,
+        description: r.description ?? decoded.description,
+        ...(r.baseRoles ? { baseRoles: r.baseRoles } : {}),
+        ...(typeof r.targetCount === "number" ? { targetCount: r.targetCount } : {}),
+      }
+      initialBuild = applyCompanionMetadata(decoded, metadata)
     } else {
       initialBuildHash = encodeCompanion(initialBuild)
       decodeFailed = true
