@@ -5,7 +5,7 @@ export const bewareOfChicken0077V4c62TheTournamentArcCurse = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0077-v4c62-the-tournament-arc-curse",
   title: "v4c62: The Tournament Arc Curse",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 77,
   ownLength: 2175,
   ownProgress: 2175,

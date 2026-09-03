@@ -5,7 +5,7 @@ export const breakerOfHorizons009494Consolidation = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0094-94-consolidation",
   title: "94. Consolidation",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 94,
   ownLength: 2013,
   unitSlug: "words",

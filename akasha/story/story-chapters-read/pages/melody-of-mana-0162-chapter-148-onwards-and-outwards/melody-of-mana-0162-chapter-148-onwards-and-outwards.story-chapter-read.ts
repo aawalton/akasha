@@ -5,7 +5,7 @@ export const melodyOfMana0162Chapter148OnwardsAndOutwards = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0162-chapter-148-onwards-and-outwards",
   title: "Chapter 148 Onwards and Outwards",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 162,
   ownLength: 2650,
   ownProgress: 2650,

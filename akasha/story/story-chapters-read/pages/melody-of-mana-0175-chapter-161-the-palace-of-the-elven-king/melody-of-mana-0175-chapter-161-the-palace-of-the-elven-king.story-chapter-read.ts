@@ -5,7 +5,7 @@ export const melodyOfMana0175Chapter161ThePalaceOfTheElvenKing = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0175-chapter-161-the-palace-of-the-elven-king",
   title: "Chapter 161 The Palace of the Elven King",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 175,
   ownLength: 2109,
   ownProgress: 2109,

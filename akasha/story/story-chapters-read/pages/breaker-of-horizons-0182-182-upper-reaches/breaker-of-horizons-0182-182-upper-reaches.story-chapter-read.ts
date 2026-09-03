@@ -5,7 +5,7 @@ export const breakerOfHorizons0182182UpperReaches = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0182-182-upper-reaches",
   title: "182. Upper Reaches",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 182,
   ownLength: 2135,
   unitSlug: "words",

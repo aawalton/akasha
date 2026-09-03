@@ -5,7 +5,7 @@ export const melodyOfMana0253Chapter239TwilightFalling = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0253-chapter-239-twilight-falling",
   title: "Chapter 239 Twilight Falling",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 253,
   ownLength: 1756,
   ownProgress: 1756,

@@ -5,7 +5,7 @@ export const breakerOfHorizons007575EldritchReasoning = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0075-75-eldritch-reasoning",
   title: "75. Eldritch Reasoning",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 75,
   ownLength: 2129,
   unitSlug: "words",

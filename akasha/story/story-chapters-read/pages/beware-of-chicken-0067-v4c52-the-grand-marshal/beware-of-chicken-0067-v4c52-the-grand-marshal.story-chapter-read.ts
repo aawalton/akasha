@@ -5,7 +5,7 @@ export const bewareOfChicken0067V4c52TheGrandMarshal = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0067-v4c52-the-grand-marshal",
   title: "v4c52: The Grand Marshal",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 67,
   ownLength: 2277,
   ownProgress: 2277,

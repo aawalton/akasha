@@ -5,7 +5,7 @@ export const melodyOfMana0218Chapter204WestwoodSSoldiery = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0218-chapter-204-westwood-s-soldiery",
   title: "Chapter 204 Westwood's Soldiery",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 218,
   ownLength: 2080,
   ownProgress: 2080,

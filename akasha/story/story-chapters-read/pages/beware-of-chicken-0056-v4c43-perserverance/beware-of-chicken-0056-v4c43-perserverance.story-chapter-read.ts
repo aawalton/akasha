@@ -5,7 +5,7 @@ export const bewareOfChicken0056V4c43Perserverance = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0056-v4c43-perserverance",
   title: "v4c43: Perserverance",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 56,
   ownLength: 3723,
   ownProgress: 3723,

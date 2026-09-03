@@ -5,7 +5,7 @@ export const breakerOfHorizons0150150ScalingHeights = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0150-150-scaling-heights",
   title: "150. Scaling Heights",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 150,
   ownLength: 1985,
   unitSlug: "words",

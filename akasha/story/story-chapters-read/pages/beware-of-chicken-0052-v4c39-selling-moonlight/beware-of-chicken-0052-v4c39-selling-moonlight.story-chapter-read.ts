@@ -5,7 +5,7 @@ export const bewareOfChicken0052V4c39SellingMoonlight = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0052-v4c39-selling-moonlight",
   title: "v4c39: Selling Moonlight",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 52,
   ownLength: 3424,
   ownProgress: 3424,

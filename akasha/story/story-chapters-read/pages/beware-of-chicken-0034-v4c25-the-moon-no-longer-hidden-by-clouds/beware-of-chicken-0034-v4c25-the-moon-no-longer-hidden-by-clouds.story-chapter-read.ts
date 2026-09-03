@@ -5,7 +5,7 @@ export const bewareOfChicken0034V4c25TheMoonNoLongerHiddenByClouds = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0034-v4c25-the-moon-no-longer-hidden-by-clouds",
   title: "v4c25: The Moon, no Longer Hidden By Clouds",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 34,
   ownLength: 2552,
   ownProgress: 2552,

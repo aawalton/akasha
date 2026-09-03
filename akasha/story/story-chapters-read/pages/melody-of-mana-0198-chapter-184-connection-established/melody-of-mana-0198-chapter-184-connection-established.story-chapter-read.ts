@@ -5,7 +5,7 @@ export const melodyOfMana0198Chapter184ConnectionEstablished = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0198-chapter-184-connection-established",
   title: "Chapter 184 Connection Established",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 198,
   ownLength: 1737,
   ownProgress: 1737,

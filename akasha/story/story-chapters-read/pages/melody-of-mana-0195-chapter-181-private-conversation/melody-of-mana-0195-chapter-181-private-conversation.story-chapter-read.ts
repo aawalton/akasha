@@ -5,7 +5,7 @@ export const melodyOfMana0195Chapter181PrivateConversation = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0195-chapter-181-private-conversation",
   title: "Chapter 181 Private Conversation",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 195,
   ownLength: 1677,
   ownProgress: 1677,

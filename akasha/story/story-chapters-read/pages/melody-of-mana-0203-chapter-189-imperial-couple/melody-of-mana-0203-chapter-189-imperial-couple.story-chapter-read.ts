@@ -5,7 +5,7 @@ export const melodyOfMana0203Chapter189ImperialCouple = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0203-chapter-189-imperial-couple",
   title: "Chapter 189 Imperial Couple",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 203,
   ownLength: 1737,
   ownProgress: 1737,

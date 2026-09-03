@@ -5,7 +5,7 @@ export const melodyOfMana0191Chapter177TheCrater = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0191-chapter-177-the-crater",
   title: "Chapter 177 The Crater",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 191,
   ownLength: 1663,
   ownProgress: 1663,

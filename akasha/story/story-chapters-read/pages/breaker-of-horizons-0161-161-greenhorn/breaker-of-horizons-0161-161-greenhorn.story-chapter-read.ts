@@ -5,7 +5,7 @@ export const breakerOfHorizons0161161Greenhorn = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0161-161-greenhorn",
   title: "161. Greenhorn",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 161,
   ownLength: 2154,
   unitSlug: "words",

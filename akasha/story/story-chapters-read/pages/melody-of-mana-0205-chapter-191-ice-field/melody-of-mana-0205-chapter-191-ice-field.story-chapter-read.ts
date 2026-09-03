@@ -5,7 +5,7 @@ export const melodyOfMana0205Chapter191IceField = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0205-chapter-191-ice-field",
   title: "Chapter 191 Ice Field",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 205,
   ownLength: 1496,
   ownProgress: 1496,

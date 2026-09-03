@@ -5,7 +5,7 @@ export const melodyOfMana0216Chapter202CultureShock = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0216-chapter-202-culture-shock",
   title: "Chapter 202 Culture Shock",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 216,
   ownLength: 1868,
   ownProgress: 1868,

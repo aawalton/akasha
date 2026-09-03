@@ -5,7 +5,7 @@ export const breakerOfHorizons005959NavigatingTheUnknown = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0059-59-navigating-the-unknown",
   title: "59. Navigating the Unknown",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 59,
   ownLength: 2325,
   unitSlug: "words",

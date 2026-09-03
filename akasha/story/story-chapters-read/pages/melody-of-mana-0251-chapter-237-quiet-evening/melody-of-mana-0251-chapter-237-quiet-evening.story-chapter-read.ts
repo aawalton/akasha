@@ -5,7 +5,7 @@ export const melodyOfMana0251Chapter237QuietEvening = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0251-chapter-237-quiet-evening",
   title: "Chapter 237 Quiet Evening",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 251,
   ownLength: 1454,
   ownProgress: 1454,

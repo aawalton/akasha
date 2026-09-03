@@ -5,7 +5,7 @@ export const melodyOfMana0135Chapter122DinnerGuests = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0135-chapter-122-dinner-guests",
   title: "Chapter 122 Dinner Guests",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 135,
   ownLength: 1999,
   ownProgress: 1999,

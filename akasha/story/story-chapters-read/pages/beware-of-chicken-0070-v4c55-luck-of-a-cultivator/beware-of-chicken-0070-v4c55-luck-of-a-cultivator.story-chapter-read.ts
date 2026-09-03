@@ -5,7 +5,7 @@ export const bewareOfChicken0070V4c55LuckOfACultivator = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0070-v4c55-luck-of-a-cultivator",
   title: "v4c55: Luck of a Cultivator",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 70,
   ownLength: 1755,
   ownProgress: 1755,

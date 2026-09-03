@@ -5,7 +5,7 @@ export const breakerOfHorizons0167167AGrimBeginning = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0167-167-a-grim-beginning",
   title: "167. A Grim Beginning",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 167,
   ownLength: 2102,
   unitSlug: "words",

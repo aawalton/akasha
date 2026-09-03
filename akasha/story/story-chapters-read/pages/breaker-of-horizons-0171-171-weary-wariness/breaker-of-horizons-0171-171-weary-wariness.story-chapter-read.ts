@@ -5,7 +5,7 @@ export const breakerOfHorizons0171171WearyWariness = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0171-171-weary-wariness",
   title: "171. Weary Wariness",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 171,
   ownLength: 2244,
   unitSlug: "words",

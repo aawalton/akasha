@@ -5,7 +5,7 @@ export const melodyOfMana0196Chapter182DeliveringTheNews = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0196-chapter-182-delivering-the-news",
   title: "Chapter 182 Delivering the News",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 196,
   ownLength: 1964,
   ownProgress: 1964,

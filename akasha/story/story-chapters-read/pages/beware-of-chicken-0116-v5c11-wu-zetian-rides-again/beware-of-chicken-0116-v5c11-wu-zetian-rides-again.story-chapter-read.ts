@@ -5,7 +5,7 @@ export const bewareOfChicken0116V5c11WuZetianRidesAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0116-v5c11-wu-zetian-rides-again",
   title: "v5c11: Wu Zetian Rides Again",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 116,
   ownLength: 2046,
   ownProgress: 2046,

@@ -5,7 +5,7 @@ export const melodyOfMana0256Chapter242Battles = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0256-chapter-242-battles",
   title: "Chapter 242 Battles",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 256,
   ownLength: 2003,
   ownProgress: 2003,

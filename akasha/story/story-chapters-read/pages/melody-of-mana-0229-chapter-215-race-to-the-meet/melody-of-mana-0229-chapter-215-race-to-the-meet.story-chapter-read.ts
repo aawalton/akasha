@@ -5,7 +5,7 @@ export const melodyOfMana0229Chapter215RaceToTheMeet = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0229-chapter-215-race-to-the-meet",
   title: "Chapter 215 Race to the Meet",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 229,
   ownLength: 1450,
   ownProgress: 1450,

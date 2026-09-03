@@ -5,7 +5,7 @@ export const melodyOfMana0221Chapter207LosingAFriend = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0221-chapter-207-losing-a-friend",
   title: "Chapter 207 Losing a Friend",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 221,
   ownLength: 2563,
   ownProgress: 2563,

@@ -5,7 +5,7 @@ export const bewareOfChicken0046V4c34HuntingTheBeetle = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0046-v4c34-hunting-the-beetle",
   title: "v4c34: Hunting the Beetle",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 46,
   ownLength: 3158,
   ownProgress: 3158,

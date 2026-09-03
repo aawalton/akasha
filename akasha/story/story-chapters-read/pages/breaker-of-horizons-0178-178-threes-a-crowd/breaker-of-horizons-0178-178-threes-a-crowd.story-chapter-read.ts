@@ -5,7 +5,7 @@ export const breakerOfHorizons0178178ThreesACrowd = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0178-178-threes-a-crowd",
   title: "178. Three's a Crowd",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 178,
   ownLength: 2401,
   unitSlug: "words",

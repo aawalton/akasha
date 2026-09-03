@@ -5,7 +5,7 @@ export const melodyOfMana0177Chapter163VariousPerspectives = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0177-chapter-163-various-perspectives",
   title: "Chapter 163 Various Perspectives",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 177,
   ownLength: 1571,
   ownProgress: 1571,

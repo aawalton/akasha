@@ -5,7 +5,7 @@ export const melodyOfMana0136Chapter123MystienSWorkshop = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0136-chapter-123-mystien-s-workshop",
   title: "Chapter 123 Mystien's Workshop",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 136,
   ownLength: 2023,
   ownProgress: 2023,

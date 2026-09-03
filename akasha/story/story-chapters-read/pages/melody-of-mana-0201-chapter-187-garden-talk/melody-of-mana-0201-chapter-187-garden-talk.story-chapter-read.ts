@@ -5,7 +5,7 @@ export const melodyOfMana0201Chapter187GardenTalk = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0201-chapter-187-garden-talk",
   title: "Chapter 187 Garden Talk",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 201,
   ownLength: 1496,
   ownProgress: 1496,

@@ -5,7 +5,7 @@ export const melodyOfMana0155Chapter142YearFourBegins = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0155-chapter-142-year-four-begins",
   title: "Chapter 142 Year Four Begins",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 155,
   ownLength: 1648,
   ownProgress: 1648,

@@ -5,7 +5,7 @@ export const breakerOfHorizons0183183ABusinessArrangement = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0183-183-a-business-arrangement",
   title: "183. A Business Arrangement",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 183,
   ownLength: 2016,
   unitSlug: "words",

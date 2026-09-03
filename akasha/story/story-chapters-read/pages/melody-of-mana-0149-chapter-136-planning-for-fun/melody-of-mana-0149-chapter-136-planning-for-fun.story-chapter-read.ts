@@ -5,7 +5,7 @@ export const melodyOfMana0149Chapter136PlanningForFun = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0149-chapter-136-planning-for-fun",
   title: "Chapter 136 Planning for Fun",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 149,
   ownLength: 1991,
   ownProgress: 1991,

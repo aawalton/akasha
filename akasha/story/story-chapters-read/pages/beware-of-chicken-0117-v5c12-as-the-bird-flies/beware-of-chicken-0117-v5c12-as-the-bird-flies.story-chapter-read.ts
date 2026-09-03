@@ -5,7 +5,7 @@ export const bewareOfChicken0117V5c12AsTheBirdFlies = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0117-v5c12-as-the-bird-flies",
   title: "v5c12: As the Bird Flies",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 117,
   ownLength: 2232,
   ownProgress: 2232,

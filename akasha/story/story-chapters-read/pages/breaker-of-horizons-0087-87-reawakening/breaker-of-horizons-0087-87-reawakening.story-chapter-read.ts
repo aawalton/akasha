@@ -5,7 +5,7 @@ export const breakerOfHorizons008787Reawakening = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0087-87-reawakening",
   title: "87. Reawakening",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 87,
   ownLength: 2107,
   unitSlug: "words",

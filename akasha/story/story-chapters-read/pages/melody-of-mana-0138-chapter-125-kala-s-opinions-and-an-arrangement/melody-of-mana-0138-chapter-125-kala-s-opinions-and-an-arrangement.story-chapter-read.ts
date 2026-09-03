@@ -5,7 +5,7 @@ export const melodyOfMana0138Chapter125KalaSOpinionsAndAnArrangement = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0138-chapter-125-kala-s-opinions-and-an-arrangement",
   title: "Chapter 125 Kala's Opinions and an Arrangement",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 138,
   ownLength: 1748,
   ownProgress: 1748,

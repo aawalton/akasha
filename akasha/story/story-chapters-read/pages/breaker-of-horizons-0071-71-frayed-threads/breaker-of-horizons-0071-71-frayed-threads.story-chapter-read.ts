@@ -5,7 +5,7 @@ export const breakerOfHorizons007171FrayedThreads = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0071-71-frayed-threads",
   title: "71. Frayed Threads",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 71,
   ownLength: 1945,
   unitSlug: "words",

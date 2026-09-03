@@ -5,7 +5,7 @@ export const bewareOfChicken0062V4c48TheChildrenOfTianlan = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0062-v4c48-the-children-of-tianlan",
   title: "v4c48: The Children of Tianlan",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 62,
   ownLength: 3029,
   ownProgress: 3029,

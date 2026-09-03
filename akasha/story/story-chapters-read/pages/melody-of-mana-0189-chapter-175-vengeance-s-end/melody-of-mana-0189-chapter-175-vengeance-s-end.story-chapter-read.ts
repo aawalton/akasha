@@ -5,7 +5,7 @@ export const melodyOfMana0189Chapter175VengeanceSEnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0189-chapter-175-vengeance-s-end",
   title: "Chapter 175 Vengeance's End",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 189,
   ownLength: 2479,
   ownProgress: 2479,

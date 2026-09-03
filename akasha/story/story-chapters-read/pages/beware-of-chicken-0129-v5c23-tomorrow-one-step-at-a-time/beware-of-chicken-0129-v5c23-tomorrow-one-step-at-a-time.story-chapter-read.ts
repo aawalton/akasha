@@ -5,7 +5,7 @@ export const bewareOfChicken0129V5c23TomorrowOneStepAtATime = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0129-v5c23-tomorrow-one-step-at-a-time",
   title: "v5c23: Tomorrow, One Step at a Time",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 129,
   ownLength: 2175,
   ownProgress: 2175,

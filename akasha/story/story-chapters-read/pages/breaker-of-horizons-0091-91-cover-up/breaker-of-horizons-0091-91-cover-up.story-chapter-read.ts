@@ -5,7 +5,7 @@ export const breakerOfHorizons009191CoverUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0091-91-cover-up",
   title: "91. Cover-Up",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 91,
   ownLength: 2250,
   unitSlug: "words",

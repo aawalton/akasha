@@ -5,7 +5,7 @@ export const breakerOfHorizons0136136SelfDetermination = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0136-136-self-determination",
   title: "136. Self-Determination",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 136,
   ownLength: 1873,
   unitSlug: "words",

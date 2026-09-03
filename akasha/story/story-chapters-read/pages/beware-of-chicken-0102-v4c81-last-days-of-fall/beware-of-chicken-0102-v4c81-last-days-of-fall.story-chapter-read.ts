@@ -5,7 +5,7 @@ export const bewareOfChicken0102V4c81LastDaysOfFall = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0102-v4c81-last-days-of-fall",
   title: "v4c81: Last Days of Fall",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 102,
   ownLength: 2026,
   ownProgress: 2026,

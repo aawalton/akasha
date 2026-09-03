@@ -5,7 +5,7 @@ export const bewareOfChicken0127V5c21Preparations = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0127-v5c21-preparations",
   title: "v5c21: Preparations",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 127,
   ownLength: 1973,
   ownProgress: 1973,

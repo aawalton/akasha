@@ -5,7 +5,7 @@ export const melodyOfMana0130Chapter117PropagandaAndAnUglyCry = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0130-chapter-117-propaganda-and-an-ugly-cry",
   title: "Chapter 117 Propaganda and an Ugly Cry",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 130,
   ownLength: 2031,
   ownProgress: 2031,

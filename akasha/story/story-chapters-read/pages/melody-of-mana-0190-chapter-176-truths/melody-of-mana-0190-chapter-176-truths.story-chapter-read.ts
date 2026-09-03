@@ -5,7 +5,7 @@ export const melodyOfMana0190Chapter176Truths = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0190-chapter-176-truths",
   title: "Chapter 176 Truths",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 190,
   ownLength: 1451,
   ownProgress: 1451,

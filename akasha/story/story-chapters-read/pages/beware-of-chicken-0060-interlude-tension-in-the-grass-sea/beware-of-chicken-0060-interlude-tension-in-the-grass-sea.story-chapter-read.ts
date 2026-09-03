@@ -5,7 +5,7 @@ export const bewareOfChicken0060InterludeTensionInTheGrassSea = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0060-interlude-tension-in-the-grass-sea",
   title: "Interlude: Tension in the Grass Sea",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 60,
   ownLength: 2927,
   ownProgress: 2927,

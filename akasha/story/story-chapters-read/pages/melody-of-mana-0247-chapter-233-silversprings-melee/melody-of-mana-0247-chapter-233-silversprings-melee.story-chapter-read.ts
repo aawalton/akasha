@@ -5,7 +5,7 @@ export const melodyOfMana0247Chapter233SilverspringsMelee = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0247-chapter-233-silversprings-melee",
   title: "Chapter 233 Silversprings Melee",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 247,
   ownLength: 1733,
   ownProgress: 1733,

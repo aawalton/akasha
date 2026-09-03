@@ -5,7 +5,7 @@ export const breakerOfHorizons006060Beacons = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0060-60-beacons",
   title: "60. Beacons",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 60,
   ownLength: 2411,
   unitSlug: "words",

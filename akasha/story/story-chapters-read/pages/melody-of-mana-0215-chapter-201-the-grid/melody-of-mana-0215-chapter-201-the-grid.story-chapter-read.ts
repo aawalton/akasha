@@ -5,7 +5,7 @@ export const melodyOfMana0215Chapter201TheGrid = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0215-chapter-201-the-grid",
   title: "Chapter 201 The Grid",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 215,
   ownLength: 1505,
   ownProgress: 1505,

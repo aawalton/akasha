@@ -5,7 +5,7 @@ export const bewareOfChicken0040V4Interlude1TheWanderers = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0040-v4-interlude-1-the-wanderers",
   title: "v4 Interlude 1: The Wanderers",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 40,
   ownLength: 1850,
   ownProgress: 1850,

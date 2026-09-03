@@ -5,7 +5,7 @@ export const breakerOfHorizons0108108FlightAndFire = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0108-108-flight-and-fire",
   title: "108. Flight and Fire",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 108,
   ownLength: 2026,
   unitSlug: "words",

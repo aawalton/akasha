@@ -5,7 +5,7 @@ export const breakerOfHorizons0138138FragmentsOfHumanity = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0138-138-fragments-of-humanity",
   title: "138. Fragments of Humanity",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 138,
   ownLength: 2031,
   unitSlug: "words",

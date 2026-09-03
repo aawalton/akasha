@@ -5,7 +5,7 @@ export const breakerOfHorizons0168168FriendsAndFoes = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0168-168-friends-and-foes",
   title: "168. Friends and Foes",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 168,
   ownLength: 2115,
   unitSlug: "words",

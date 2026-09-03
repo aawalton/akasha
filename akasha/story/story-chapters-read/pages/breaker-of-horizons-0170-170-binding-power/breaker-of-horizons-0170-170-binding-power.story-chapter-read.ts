@@ -5,7 +5,7 @@ export const breakerOfHorizons0170170BindingPower = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0170-170-binding-power",
   title: "170. Binding Power",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 170,
   ownLength: 2213,
   unitSlug: "words",

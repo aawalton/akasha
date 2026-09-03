@@ -5,7 +5,7 @@ export const bewareOfChicken0026V4c18LeaderOfTheNextGeneration = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0026-v4c18-leader-of-the-next-generation",
   title: "v4c18: Leader of the Next Generation",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 26,
   ownLength: 2192,
   ownProgress: 2192,

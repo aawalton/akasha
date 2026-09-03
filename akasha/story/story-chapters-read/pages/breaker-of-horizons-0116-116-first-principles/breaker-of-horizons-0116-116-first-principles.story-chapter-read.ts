@@ -5,7 +5,7 @@ export const breakerOfHorizons0116116FirstPrinciples = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0116-116-first-principles",
   title: "116. First Principles",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 116,
   ownLength: 2215,
   unitSlug: "words",

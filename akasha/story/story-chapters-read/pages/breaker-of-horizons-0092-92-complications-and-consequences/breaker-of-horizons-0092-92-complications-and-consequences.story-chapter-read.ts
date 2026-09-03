@@ -5,7 +5,7 @@ export const breakerOfHorizons009292ComplicationsAndConsequences = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0092-92-complications-and-consequences",
   title: "92. Complications and Consequences",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 92,
   ownLength: 1657,
   unitSlug: "words",

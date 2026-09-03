@@ -5,7 +5,7 @@ export const breakerOfHorizons0191AKnotInFatesWeave = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0191-a-knot-in-fates-weave",
   title: "[A Knot in Fate's Weave]",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 191,
   ownLength: 591,
   unitSlug: "words",

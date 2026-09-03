@@ -5,7 +5,7 @@ export const melodyOfMana0178Chapter164TheSnakeBackHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0178-chapter-164-the-snake-back-home",
   title: "Chapter 164 The Snake Back Home",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 178,
   ownLength: 1695,
   ownProgress: 1695,

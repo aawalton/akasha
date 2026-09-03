@@ -5,7 +5,7 @@ export const breakerOfHorizons005656UnexplainedIntervention = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0056-56-unexplained-intervention",
   title: "56. Unexplained Intervention",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 56,
   ownLength: 2143,
   unitSlug: "words",

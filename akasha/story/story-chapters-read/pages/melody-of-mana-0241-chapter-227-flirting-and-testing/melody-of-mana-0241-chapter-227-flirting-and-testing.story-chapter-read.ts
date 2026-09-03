@@ -5,7 +5,7 @@ export const melodyOfMana0241Chapter227FlirtingAndTesting = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0241-chapter-227-flirting-and-testing",
   title: "Chapter 227 Flirting and Testing",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 241,
   ownLength: 1535,
   ownProgress: 1535,

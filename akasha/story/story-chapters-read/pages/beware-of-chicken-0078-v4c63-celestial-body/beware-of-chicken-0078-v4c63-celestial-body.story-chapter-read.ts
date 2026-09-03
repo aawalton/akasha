@@ -5,7 +5,7 @@ export const bewareOfChicken0078V4c63CelestialBody = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0078-v4c63-celestial-body",
   title: "v4c63: Celestial Body",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 78,
   ownLength: 2959,
   ownProgress: 2959,

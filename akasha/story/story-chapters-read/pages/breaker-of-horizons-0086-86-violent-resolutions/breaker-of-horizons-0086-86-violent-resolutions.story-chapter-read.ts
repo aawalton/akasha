@@ -5,7 +5,7 @@ export const breakerOfHorizons008686ViolentResolutions = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0086-86-violent-resolutions",
   title: "86. Violent Resolutions",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 86,
   ownLength: 1687,
   unitSlug: "words",

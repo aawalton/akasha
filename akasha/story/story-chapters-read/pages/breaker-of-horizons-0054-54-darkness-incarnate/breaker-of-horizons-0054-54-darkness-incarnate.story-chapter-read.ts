@@ -5,7 +5,7 @@ export const breakerOfHorizons005454DarknessIncarnate = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0054-54-darkness-incarnate",
   title: "54. Darkness Incarnate",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 54,
   ownLength: 2260,
   unitSlug: "words",

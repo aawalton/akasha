@@ -5,7 +5,7 @@ export const bewareOfChicken0136V5c30FullBurn = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0136-v5c30-full-burn",
   title: "v5c30: Full Burn",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 136,
   ownLength: 2792,
   ownProgress: 2792,

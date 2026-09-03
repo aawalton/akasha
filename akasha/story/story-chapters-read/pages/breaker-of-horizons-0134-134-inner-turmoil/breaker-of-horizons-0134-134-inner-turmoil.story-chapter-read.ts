@@ -5,7 +5,7 @@ export const breakerOfHorizons0134134InnerTurmoil = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0134-134-inner-turmoil",
   title: "134. Inner Turmoil",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 134,
   ownLength: 1923,
   unitSlug: "words",

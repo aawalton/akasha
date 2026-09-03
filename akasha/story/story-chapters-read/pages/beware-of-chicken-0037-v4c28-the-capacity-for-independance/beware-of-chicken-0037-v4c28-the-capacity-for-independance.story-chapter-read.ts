@@ -5,7 +5,7 @@ export const bewareOfChicken0037V4c28TheCapacityForIndependance = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0037-v4c28-the-capacity-for-independance",
   title: "v4c28: The Capacity for Independance",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 37,
   ownLength: 2549,
   ownProgress: 2549,

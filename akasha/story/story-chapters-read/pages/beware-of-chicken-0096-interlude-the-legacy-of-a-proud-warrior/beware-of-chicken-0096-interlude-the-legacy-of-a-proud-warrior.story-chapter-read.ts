@@ -5,7 +5,7 @@ export const bewareOfChicken0096InterludeTheLegacyOfAProudWarrior = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0096-interlude-the-legacy-of-a-proud-warrior",
   title: "Interlude: The Legacy of a Proud Warrior",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 96,
   ownLength: 1919,
   ownProgress: 1919,

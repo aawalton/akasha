@@ -5,7 +5,7 @@ export const melodyOfMana0172Chapter158IslandInhabitants = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0172-chapter-158-island-inhabitants",
   title: "Chapter 158 Island Inhabitants",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 172,
   ownLength: 2068,
   ownProgress: 2068,

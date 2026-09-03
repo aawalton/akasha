@@ -5,7 +5,7 @@ export const bewareOfChicken0035V4c26TheMountaineerAndTheCraftsman = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0035-v4c26-the-mountaineer-and-the-craftsman",
   title: "v4c26: The Mountaineer and the Craftsman",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 35,
   ownLength: 2850,
   ownProgress: 2850,

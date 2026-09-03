@@ -5,7 +5,7 @@ export const melodyOfMana0182Chapter168TheHuntBegins = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0182-chapter-168-the-hunt-begins",
   title: "Chapter 168 The Hunt Begins",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 182,
   ownLength: 1599,
   ownProgress: 1599,

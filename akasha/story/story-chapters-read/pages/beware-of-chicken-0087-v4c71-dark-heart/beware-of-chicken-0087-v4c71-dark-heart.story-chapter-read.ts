@@ -5,7 +5,7 @@ export const bewareOfChicken0087V4c71DarkHeart = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0087-v4c71-dark-heart",
   title: "v4c71: Dark Heart",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 87,
   ownLength: 2900,
   ownProgress: 2900,

@@ -5,7 +5,7 @@ export const bewareOfChicken0082V4c67TheTrial = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0082-v4c67-the-trial",
   title: "v4c67: The Trial",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 82,
   ownLength: 2323,
   ownProgress: 2323,

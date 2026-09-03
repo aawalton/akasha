@@ -5,7 +5,7 @@ export const bewareOfChicken0130V5c24ThePlumAndTheFoxes = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0130-v5c24-the-plum-and-the-foxes",
   title: "v5c24: The Plum and the Foxes",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 130,
   ownLength: 1840,
   ownProgress: 1840,

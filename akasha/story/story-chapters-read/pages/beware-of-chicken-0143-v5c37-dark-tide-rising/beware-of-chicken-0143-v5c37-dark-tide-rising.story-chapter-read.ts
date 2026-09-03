@@ -5,7 +5,7 @@ export const bewareOfChicken0143V5c37DarkTideRising = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0143-v5c37-dark-tide-rising",
   title: "v5c37: Dark Tide Rising",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 143,
   ownLength: 2268,
   ownProgress: 2268,

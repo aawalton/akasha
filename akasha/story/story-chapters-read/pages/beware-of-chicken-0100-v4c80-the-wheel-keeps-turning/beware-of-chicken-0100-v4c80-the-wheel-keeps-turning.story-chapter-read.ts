@@ -5,7 +5,7 @@ export const bewareOfChicken0100V4c80TheWheelKeepsTurning = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0100-v4c80-the-wheel-keeps-turning",
   title: "v4c80: The Wheel Keeps Turning",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 100,
   ownLength: 1635,
   ownProgress: 1635,

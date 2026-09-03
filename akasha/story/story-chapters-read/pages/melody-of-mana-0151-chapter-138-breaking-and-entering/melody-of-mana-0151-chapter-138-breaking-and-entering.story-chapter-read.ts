@@ -5,7 +5,7 @@ export const melodyOfMana0151Chapter138BreakingAndEntering = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0151-chapter-138-breaking-and-entering",
   title: "Chapter 138 Breaking and Entering",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 151,
   ownLength: 2214,
   ownProgress: 2214,

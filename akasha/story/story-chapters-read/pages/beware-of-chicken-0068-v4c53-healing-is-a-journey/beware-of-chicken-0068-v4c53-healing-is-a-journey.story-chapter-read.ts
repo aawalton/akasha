@@ -5,7 +5,7 @@ export const bewareOfChicken0068V4c53HealingIsAJourney = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0068-v4c53-healing-is-a-journey",
   title: "v4c53: Healing is a Journey",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 68,
   ownLength: 1865,
   ownProgress: 1865,

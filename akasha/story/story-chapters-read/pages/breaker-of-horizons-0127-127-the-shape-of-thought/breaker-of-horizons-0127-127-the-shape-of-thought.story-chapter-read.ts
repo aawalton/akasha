@@ -5,7 +5,7 @@ export const breakerOfHorizons0127127TheShapeOfThought = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0127-127-the-shape-of-thought",
   title: "127.  The Shape of Thought",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 127,
   ownLength: 1918,
   unitSlug: "words",

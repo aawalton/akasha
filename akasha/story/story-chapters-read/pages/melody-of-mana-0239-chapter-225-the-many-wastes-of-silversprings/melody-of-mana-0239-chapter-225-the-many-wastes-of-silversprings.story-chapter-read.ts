@@ -5,7 +5,7 @@ export const melodyOfMana0239Chapter225TheManyWastesOfSilversprings = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0239-chapter-225-the-many-wastes-of-silversprings",
   title: "Chapter 225 The Many Wastes of Silversprings",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 239,
   ownLength: 2333,
   ownProgress: 2333,

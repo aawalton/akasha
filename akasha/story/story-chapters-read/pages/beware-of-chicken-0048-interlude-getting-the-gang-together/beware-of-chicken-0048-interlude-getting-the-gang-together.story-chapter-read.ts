@@ -5,7 +5,7 @@ export const bewareOfChicken0048InterludeGettingTheGangTogether = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0048-interlude-getting-the-gang-together",
   title: "Interlude: Getting the Gang Together",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 48,
   ownLength: 4624,
   ownProgress: 4624,

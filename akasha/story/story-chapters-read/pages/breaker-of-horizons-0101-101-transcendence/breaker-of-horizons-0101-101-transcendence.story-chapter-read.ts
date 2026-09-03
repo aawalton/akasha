@@ -5,7 +5,7 @@ export const breakerOfHorizons0101101Transcendence = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0101-101-transcendence",
   title: "101. Transcendence",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 101,
   ownLength: 2238,
   unitSlug: "words",

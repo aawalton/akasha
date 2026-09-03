@@ -5,7 +5,7 @@ export const breakerOfHorizons0122122PropheticDoom = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0122-122-prophetic-doom",
   title: "122. Prophetic Doom",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 122,
   ownLength: 2034,
   unitSlug: "words",

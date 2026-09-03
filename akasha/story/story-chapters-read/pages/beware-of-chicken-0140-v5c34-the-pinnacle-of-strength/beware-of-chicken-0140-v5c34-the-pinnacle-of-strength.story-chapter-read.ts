@@ -5,7 +5,7 @@ export const bewareOfChicken0140V5c34ThePinnacleOfStrength = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0140-v5c34-the-pinnacle-of-strength",
   title: "v5c34: The Pinnacle of Strength",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 140,
   ownLength: 1914,
   ownProgress: 1914,

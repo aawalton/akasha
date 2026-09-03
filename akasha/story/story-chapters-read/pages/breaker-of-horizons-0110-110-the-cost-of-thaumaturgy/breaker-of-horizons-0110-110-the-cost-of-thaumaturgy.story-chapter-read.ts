@@ -5,7 +5,7 @@ export const breakerOfHorizons0110110TheCostOfThaumaturgy = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0110-110-the-cost-of-thaumaturgy",
   title: "110. The Cost of Thaumaturgy",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 110,
   ownLength: 2170,
   unitSlug: "words",

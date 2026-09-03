@@ -5,7 +5,7 @@ export const breakerOfHorizons0176176MomentsOfMischief = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0176-176-moments-of-mischief",
   title: "176. Moments of Mischief",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 176,
   ownLength: 2138,
   unitSlug: "words",

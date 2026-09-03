@@ -5,7 +5,7 @@ export const melodyOfMana0200Chapter186TheWorstTiming = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0200-chapter-186-the-worst-timing",
   title: "Chapter 186 The Worst Timing",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 200,
   ownLength: 1649,
   ownProgress: 1649,

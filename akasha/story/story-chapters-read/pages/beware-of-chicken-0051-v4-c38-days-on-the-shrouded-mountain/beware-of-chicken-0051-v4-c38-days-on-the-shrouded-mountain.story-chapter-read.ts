@@ -5,7 +5,7 @@ export const bewareOfChicken0051V4C38DaysOnTheShroudedMountain = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0051-v4-c38-days-on-the-shrouded-mountain",
   title: "v4 c38: Days on the Shrouded Mountain",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 51,
   ownLength: 3013,
   ownProgress: 3013,

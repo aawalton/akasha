@@ -5,7 +5,7 @@ export const bewareOfChicken0141V5c35NoHoldingBack = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0141-v5c35-no-holding-back",
   title: "v5c35: No Holding Back",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 141,
   ownLength: 2557,
   ownProgress: 2557,

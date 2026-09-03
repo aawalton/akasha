@@ -5,7 +5,7 @@ export const melodyOfMana0185Chapter171PowerOn = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0185-chapter-171-power-on",
   title: "Chapter 171 Power On",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 185,
   ownLength: 2171,
   ownProgress: 2171,

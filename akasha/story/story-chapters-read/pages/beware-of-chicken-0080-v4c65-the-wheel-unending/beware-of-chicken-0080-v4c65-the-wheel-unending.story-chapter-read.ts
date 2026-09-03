@@ -5,7 +5,7 @@ export const bewareOfChicken0080V4c65TheWheelUnending = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0080-v4c65-the-wheel-unending",
   title: "v4c65: The Wheel Unending",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 80,
   ownLength: 2213,
   ownProgress: 2213,

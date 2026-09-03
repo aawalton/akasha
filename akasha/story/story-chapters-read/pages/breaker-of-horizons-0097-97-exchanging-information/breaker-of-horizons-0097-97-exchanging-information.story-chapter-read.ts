@@ -5,7 +5,7 @@ export const breakerOfHorizons009797ExchangingInformation = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0097-97-exchanging-information",
   title: "97. Exchanging Information",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 97,
   ownLength: 1734,
   unitSlug: "words",

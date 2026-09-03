@@ -5,7 +5,7 @@ export const breakerOfHorizons006565UnseenHurdles = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0065-65-unseen-hurdles",
   title: "65. Unseen Hurdles",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 65,
   ownLength: 2072,
   unitSlug: "words",

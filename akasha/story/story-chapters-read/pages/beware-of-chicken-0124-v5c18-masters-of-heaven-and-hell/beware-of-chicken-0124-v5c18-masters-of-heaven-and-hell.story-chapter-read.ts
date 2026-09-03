@@ -5,7 +5,7 @@ export const bewareOfChicken0124V5c18MastersOfHeavenAndHell = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0124-v5c18-masters-of-heaven-and-hell",
   title: "v5c18: Masters of Heaven and Hell",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 124,
   ownLength: 2163,
   ownProgress: 2163,

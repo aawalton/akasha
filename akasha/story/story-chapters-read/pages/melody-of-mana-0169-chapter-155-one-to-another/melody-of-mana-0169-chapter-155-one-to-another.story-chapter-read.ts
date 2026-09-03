@@ -5,7 +5,7 @@ export const melodyOfMana0169Chapter155OneToAnother = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0169-chapter-155-one-to-another",
   title: "Chapter 155 One to Another",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 169,
   ownLength: 2113,
   ownProgress: 2113,

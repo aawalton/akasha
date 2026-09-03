@@ -5,7 +5,7 @@ export const bewareOfChicken0029V4c21LifeInTheOuterSect = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0029-v4c21-life-in-the-outer-sect",
   title: "v4c21: Life in the Outer Sect",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 29,
   ownLength: 2955,
   ownProgress: 2955,

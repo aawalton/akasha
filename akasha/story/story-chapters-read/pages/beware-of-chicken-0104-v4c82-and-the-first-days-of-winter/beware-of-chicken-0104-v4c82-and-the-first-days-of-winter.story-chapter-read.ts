@@ -5,7 +5,7 @@ export const bewareOfChicken0104V4c82AndTheFirstDaysOfWinter = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0104-v4c82-and-the-first-days-of-winter",
   title: "V4c82: And the First Days of Winter",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 104,
   ownLength: 2535,
   ownProgress: 2535,

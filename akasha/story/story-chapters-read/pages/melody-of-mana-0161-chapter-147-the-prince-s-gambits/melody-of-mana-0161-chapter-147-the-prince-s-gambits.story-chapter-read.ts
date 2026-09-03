@@ -5,7 +5,7 @@ export const melodyOfMana0161Chapter147ThePrinceSGambits = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0161-chapter-147-the-prince-s-gambits",
   title: "Chapter 147 The Prince's Gambits",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 161,
   ownLength: 1393,
   ownProgress: 1393,

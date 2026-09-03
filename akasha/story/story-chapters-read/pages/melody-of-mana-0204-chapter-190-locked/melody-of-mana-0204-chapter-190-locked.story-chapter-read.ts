@@ -5,7 +5,7 @@ export const melodyOfMana0204Chapter190Locked = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0204-chapter-190-locked",
   title: "Chapter 190 Locked",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 204,
   ownLength: 1528,
   ownProgress: 1528,

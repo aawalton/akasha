@@ -5,7 +5,7 @@ export const breakerOfHorizons0106106SupportAndSubjugation = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0106-106-support-and-subjugation",
   title: "106. Support and Subjugation",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 106,
   ownLength: 1961,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0197Chapter183RecruitmentDrive = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0197-chapter-183-recruitment-drive",
   title: "Chapter 183 Recruitment Drive",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 197,
   ownLength: 1634,
   ownProgress: 1634,

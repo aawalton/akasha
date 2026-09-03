@@ -5,7 +5,7 @@ export const melodyOfMana0166Chapter152DarkSky = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0166-chapter-152-dark-sky",
   title: "Chapter 152 Dark Sky",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 166,
   ownLength: 1861,
   ownProgress: 1861,

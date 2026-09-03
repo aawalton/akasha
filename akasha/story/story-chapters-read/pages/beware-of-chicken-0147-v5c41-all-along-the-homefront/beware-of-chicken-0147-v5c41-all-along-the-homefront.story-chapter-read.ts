@@ -5,7 +5,7 @@ export const bewareOfChicken0147V5c41AllAlongTheHomefront = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0147-v5c41-all-along-the-homefront",
   title: "v5c41: All Along the Homefront",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 147,
   ownLength: 2371,
   ownProgress: 2371,

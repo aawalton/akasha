@@ -5,7 +5,7 @@ export const bewareOfChicken0069V4c54CrabsInABucket = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0069-v4c54-crabs-in-a-bucket",
   title: "v4c54: Crabs in a Bucket",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 69,
   ownLength: 2514,
   ownProgress: 2514,

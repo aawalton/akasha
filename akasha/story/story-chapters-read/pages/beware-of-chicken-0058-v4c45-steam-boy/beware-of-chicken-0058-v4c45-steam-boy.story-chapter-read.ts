@@ -5,7 +5,7 @@ export const bewareOfChicken0058V4c45SteamBoy = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0058-v4c45-steam-boy",
   title: "v4c45: Steam Boy",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 58,
   ownLength: 2954,
   ownProgress: 2954,

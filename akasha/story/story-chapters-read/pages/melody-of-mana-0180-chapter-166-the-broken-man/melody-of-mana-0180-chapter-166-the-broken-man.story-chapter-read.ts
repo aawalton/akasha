@@ -5,7 +5,7 @@ export const melodyOfMana0180Chapter166TheBrokenMan = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0180-chapter-166-the-broken-man",
   title: "Chapter 166 The Broken Man",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 180,
   ownLength: 1640,
   ownProgress: 1640,

@@ -5,7 +5,7 @@ export const melodyOfMana0225Chapter211IntoTheTundra = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0225-chapter-211-into-the-tundra",
   title: "Chapter 211 Into the Tundra",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 225,
   ownLength: 2087,
   ownProgress: 2087,

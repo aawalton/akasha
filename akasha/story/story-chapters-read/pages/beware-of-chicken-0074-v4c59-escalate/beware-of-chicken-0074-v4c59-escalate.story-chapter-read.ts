@@ -5,7 +5,7 @@ export const bewareOfChicken0074V4c59Escalate = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0074-v4c59-escalate",
   title: "v4c59: Escalate",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 74,
   ownLength: 2358,
   ownProgress: 2358,

@@ -5,7 +5,7 @@ export const breakerOfHorizons0184184HealingAndHarm = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0184-184-healing-and-harm",
   title: "184. Healing and Harm",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 184,
   ownLength: 2282,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const breakerOfHorizons007676MemoriesOfTheAncients = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0076-76-memories-of-the-ancients",
   title: "76. Memories of the Ancients",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 76,
   ownLength: 1793,
   unitSlug: "words",

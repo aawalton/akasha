@@ -5,7 +5,7 @@ export const bewareOfChicken0125V5c19TheGrinch = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0125-v5c19-the-grinch",
   title: "v5c19: The Grinch",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 125,
   ownLength: 1637,
   ownProgress: 1637,

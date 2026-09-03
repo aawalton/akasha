@@ -5,7 +5,7 @@ export const bewareOfChicken0110V5c5HearthAndHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0110-v5c5-hearth-and-home",
   title: "v5c5: Hearth and Home",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 110,
   ownLength: 2127,
   ownProgress: 2127,

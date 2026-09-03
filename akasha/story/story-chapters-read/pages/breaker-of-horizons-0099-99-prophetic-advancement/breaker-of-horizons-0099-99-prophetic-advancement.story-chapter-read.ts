@@ -5,7 +5,7 @@ export const breakerOfHorizons009999PropheticAdvancement = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0099-99-prophetic-advancement",
   title: "99. Prophetic Advancement",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 99,
   ownLength: 2064,
   unitSlug: "words",

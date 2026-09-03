@@ -5,7 +5,7 @@ export const bewareOfChicken0093V4c77ACatSTalePart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0093-v4c77-a-cat-s-tale-part-1",
   title: "v4c77: A Cat's Tale Part 1",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 93,
   ownLength: 1875,
   ownProgress: 1875,

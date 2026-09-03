@@ -5,7 +5,7 @@ export const bewareOfChicken0076V4c61APowerfulCharm = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0076-v4c61-a-powerful-charm",
   title: "v4c61: A Powerful Charm",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 76,
   ownLength: 2324,
   ownProgress: 2324,

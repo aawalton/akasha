@@ -5,7 +5,7 @@ export const bewareOfChicken0066V4c51ThoseWhoCanBeReforged = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0066-v4c51-those-who-can-be-reforged",
   title: "v4c51: Those who can be Reforged",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 66,
   ownLength: 1798,
   ownProgress: 1798,

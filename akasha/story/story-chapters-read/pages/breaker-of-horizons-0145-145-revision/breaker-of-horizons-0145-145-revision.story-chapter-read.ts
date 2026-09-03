@@ -5,7 +5,7 @@ export const breakerOfHorizons0145145Revision = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0145-145-revision",
   title: "145. Revision",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 145,
   ownLength: 2164,
   unitSlug: "words",

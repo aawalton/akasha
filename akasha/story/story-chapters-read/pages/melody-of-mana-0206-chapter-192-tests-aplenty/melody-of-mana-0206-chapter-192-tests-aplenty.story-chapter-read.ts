@@ -5,7 +5,7 @@ export const melodyOfMana0206Chapter192TestsAplenty = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0206-chapter-192-tests-aplenty",
   title: "Chapter 192 Tests Aplenty",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 206,
   ownLength: 1854,
   ownProgress: 1854,

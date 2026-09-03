@@ -5,7 +5,7 @@ export const bewareOfChicken0122V5c16TheApprentice = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0122-v5c16-the-apprentice",
   title: "v5c16: The Apprentice",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 122,
   ownLength: 1642,
   ownProgress: 1642,

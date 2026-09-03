@@ -5,7 +5,7 @@ export const breakerOfHorizons006262DomesticAffairs = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0062-62-domestic-affairs",
   title: "62. Domestic Affairs",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 62,
   ownLength: 2330,
   unitSlug: "words",

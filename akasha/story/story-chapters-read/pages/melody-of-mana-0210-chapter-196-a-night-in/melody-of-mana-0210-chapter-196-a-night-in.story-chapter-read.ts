@@ -5,7 +5,7 @@ export const melodyOfMana0210Chapter196ANightIn = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0210-chapter-196-a-night-in",
   title: "Chapter 196 A Night In",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 210,
   ownLength: 1986,
   ownProgress: 1986,

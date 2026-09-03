@@ -5,7 +5,7 @@ export const melodyOfMana0167Chapter153AgainstTheLeviathan = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0167-chapter-153-against-the-leviathan",
   title: "Chapter 153 Against the Leviathan",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 167,
   ownLength: 2454,
   ownProgress: 2454,

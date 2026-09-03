@@ -5,7 +5,7 @@ export const melodyOfMana0208Chapter194SaunaRuminations = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0208-chapter-194-sauna-ruminations",
   title: "Chapter 194 Sauna Ruminations",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 208,
   ownLength: 1625,
   ownProgress: 1625,

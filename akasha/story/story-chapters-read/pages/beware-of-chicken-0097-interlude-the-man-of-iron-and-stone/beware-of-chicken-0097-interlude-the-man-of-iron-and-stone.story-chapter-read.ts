@@ -5,7 +5,7 @@ export const bewareOfChicken0097InterludeTheManOfIronAndStone = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0097-interlude-the-man-of-iron-and-stone",
   title: "Interlude: The Man of Iron and Stone",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 97,
   ownLength: 1985,
   ownProgress: 1985,

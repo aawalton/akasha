@@ -5,7 +5,7 @@ export const melodyOfMana0154Chapter141GraduationAndGardenTalks = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0154-chapter-141-graduation-and-garden-talks",
   title: "Chapter 141 Graduation and Garden Talks",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 154,
   ownLength: 1986,
   ownProgress: 1986,

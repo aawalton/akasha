@@ -5,7 +5,7 @@ export const melodyOfMana0134Chapter121Embers = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0134-chapter-121-embers",
   title: "Chapter 121 Embers",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 134,
   ownLength: 2024,
   ownProgress: 2024,

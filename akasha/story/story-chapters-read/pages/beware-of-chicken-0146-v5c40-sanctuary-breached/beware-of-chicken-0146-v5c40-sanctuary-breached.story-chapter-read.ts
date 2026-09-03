@@ -5,7 +5,7 @@ export const bewareOfChicken0146V5c40SanctuaryBreached = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0146-v5c40-sanctuary-breached",
   title: "v5c40: Sanctuary Breached",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 146,
   ownLength: 2629,
   ownProgress: 2629,

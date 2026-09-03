@@ -5,7 +5,7 @@ export const breakerOfHorizons0107107Trepidation = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0107-107-trepidation",
   title: "107. Trepidation",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 107,
   ownLength: 2121,
   unitSlug: "words",

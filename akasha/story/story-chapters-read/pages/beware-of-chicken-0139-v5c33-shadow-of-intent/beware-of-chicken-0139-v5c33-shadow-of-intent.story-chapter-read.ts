@@ -5,7 +5,7 @@ export const bewareOfChicken0139V5c33ShadowOfIntent = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0139-v5c33-shadow-of-intent",
   title: "v5c33: Shadow of Intent",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 139,
   ownLength: 1729,
   ownProgress: 1729,

@@ -5,7 +5,7 @@ export const breakerOfHorizons0175175Improvisation = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0175-175-improvisation",
   title: "175. Improvisation",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 175,
   ownLength: 2395,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0145132TheHammerFalls = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0145-132-the-hammer-falls",
   title: "132 The Hammer Falls",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 145,
   ownLength: 2089,
   ownProgress: 2089,

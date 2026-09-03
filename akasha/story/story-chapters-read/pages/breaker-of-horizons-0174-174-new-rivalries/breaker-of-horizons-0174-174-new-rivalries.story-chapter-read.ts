@@ -5,7 +5,7 @@ export const breakerOfHorizons0174174NewRivalries = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0174-174-new-rivalries",
   title: "174. New Rivalries",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 174,
   ownLength: 2217,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bewareOfChicken0053V4c40TheInquisition = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0053-v4c40-the-inquisition",
   title: "v4c40: The Inquisition",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 53,
   ownLength: 2087,
   ownProgress: 2087,

@@ -5,7 +5,7 @@ export const breakerOfHorizons008080InvasionOfPrivacy = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0080-80-invasion-of-privacy",
   title: "80. Invasion of Privacy",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 80,
   ownLength: 2020,
   unitSlug: "words",

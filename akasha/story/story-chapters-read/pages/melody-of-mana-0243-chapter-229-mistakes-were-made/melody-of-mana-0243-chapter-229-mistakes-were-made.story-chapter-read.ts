@@ -5,7 +5,7 @@ export const melodyOfMana0243Chapter229MistakesWereMade = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0243-chapter-229-mistakes-were-made",
   title: "Chapter 229 Mistakes Were Made",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 243,
   ownLength: 1800,
   ownProgress: 1800,

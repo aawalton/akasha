@@ -5,7 +5,7 @@ export const bewareOfChicken0145V5c39ChariotOfTheEarthPrinceOfTheHeavens = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0145-v5c39-chariot-of-the-earth-prince-of-the-heavens",
   title: "v5c39: Chariot of the Earth, Prince of the Heavens",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 145,
   ownLength: 2362,
   ownProgress: 2362,

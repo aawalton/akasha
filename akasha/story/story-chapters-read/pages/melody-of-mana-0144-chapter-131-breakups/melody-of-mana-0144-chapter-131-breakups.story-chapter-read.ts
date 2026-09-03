@@ -5,7 +5,7 @@ export const melodyOfMana0144Chapter131Breakups = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0144-chapter-131-breakups",
   title: "Chapter 131 Breakups",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 144,
   ownLength: 2641,
   ownProgress: 2641,

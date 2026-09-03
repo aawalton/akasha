@@ -5,7 +5,7 @@ export const melodyOfMana0184Chapter170ExploringTheRuin = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0184-chapter-170-exploring-the-ruin",
   title: "Chapter 170 Exploring the Ruin",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 184,
   ownLength: 1548,
   ownProgress: 1548,

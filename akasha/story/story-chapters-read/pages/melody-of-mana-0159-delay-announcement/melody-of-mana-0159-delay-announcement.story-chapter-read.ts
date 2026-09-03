@@ -5,7 +5,7 @@ export const melodyOfMana0159DelayAnnouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0159-delay-announcement",
   title: "Delay announcement",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 159,
   ownLength: 116,
   ownProgress: 116,

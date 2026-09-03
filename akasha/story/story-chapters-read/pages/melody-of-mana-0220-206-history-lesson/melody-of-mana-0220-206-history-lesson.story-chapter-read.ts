@@ -5,7 +5,7 @@ export const melodyOfMana0220206HistoryLesson = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0220-206-history-lesson",
   title: "206 History Lesson",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 220,
   ownLength: 2472,
   ownProgress: 2472,

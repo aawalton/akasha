@@ -5,7 +5,7 @@ export const melodyOfMana0153Chapter140ReturnToTheDepths = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0153-chapter-140-return-to-the-depths",
   title: "Chapter 140 Return to the Depths",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 153,
   ownLength: 2434,
   ownProgress: 2434,

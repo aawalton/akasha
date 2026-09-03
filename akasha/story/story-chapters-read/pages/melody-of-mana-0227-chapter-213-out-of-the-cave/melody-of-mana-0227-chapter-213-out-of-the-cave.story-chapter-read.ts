@@ -5,7 +5,7 @@ export const melodyOfMana0227Chapter213OutOfTheCave = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0227-chapter-213-out-of-the-cave",
   title: "Chapter 213 Out of the Cave",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 227,
   ownLength: 1685,
   ownProgress: 1685,

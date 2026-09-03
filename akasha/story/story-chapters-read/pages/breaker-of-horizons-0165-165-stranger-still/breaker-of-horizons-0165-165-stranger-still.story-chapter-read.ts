@@ -5,7 +5,7 @@ export const breakerOfHorizons0165165StrangerStill = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0165-165-stranger-still",
   title: "165. Stranger Still",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 165,
   ownLength: 2306,
   unitSlug: "words",

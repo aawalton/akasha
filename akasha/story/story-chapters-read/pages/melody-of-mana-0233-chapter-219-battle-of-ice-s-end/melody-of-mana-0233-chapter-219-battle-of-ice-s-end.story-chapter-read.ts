@@ -5,7 +5,7 @@ export const melodyOfMana0233Chapter219BattleOfIceSEnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0233-chapter-219-battle-of-ice-s-end",
   title: "Chapter 219 Battle of Ice's End",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 233,
   ownLength: 2048,
   ownProgress: 2048,

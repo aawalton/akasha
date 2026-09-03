@@ -5,7 +5,7 @@ export const bewareOfChicken0115V5c10BureaucraticNightmare = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0115-v5c10-bureaucratic-nightmare",
   title: "v5c10: Bureaucratic Nightmare",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 115,
   ownLength: 2825,
   ownProgress: 2825,

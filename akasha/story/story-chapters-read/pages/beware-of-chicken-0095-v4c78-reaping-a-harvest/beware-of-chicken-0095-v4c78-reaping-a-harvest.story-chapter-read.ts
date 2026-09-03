@@ -5,7 +5,7 @@ export const bewareOfChicken0095V4c78ReapingAHarvest = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0095-v4c78-reaping-a-harvest",
   title: "v4c78: Reaping a Harvest",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 95,
   ownLength: 2339,
   ownProgress: 2339,

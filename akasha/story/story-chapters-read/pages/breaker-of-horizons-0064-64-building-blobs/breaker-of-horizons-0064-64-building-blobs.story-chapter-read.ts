@@ -5,7 +5,7 @@ export const breakerOfHorizons006464BuildingBlobs = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0064-64-building-blobs",
   title: "64. Building Blobs",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 64,
   ownLength: 2212,
   unitSlug: "words",

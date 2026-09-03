@@ -5,7 +5,7 @@ export const breakerOfHorizons0189187aRedrawingLines = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0189-187a-redrawing-lines",
   title: "187a. Redrawing Lines",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 189,
   ownLength: 3566,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0194Chapter180RuminationsOfTheMonarch = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0194-chapter-180-ruminations-of-the-monarch",
   title: "Chapter 180 Ruminations of the Monarch",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 194,
   ownLength: 1613,
   ownProgress: 1613,

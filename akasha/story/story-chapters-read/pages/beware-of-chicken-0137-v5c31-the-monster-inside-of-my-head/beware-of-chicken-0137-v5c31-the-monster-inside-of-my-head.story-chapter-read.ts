@@ -5,7 +5,7 @@ export const bewareOfChicken0137V5c31TheMonsterInsideOfMyHead = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0137-v5c31-the-monster-inside-of-my-head",
   title: "v5c31: The Monster Inside of My Head",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 137,
   ownLength: 2769,
   ownProgress: 2769,

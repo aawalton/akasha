@@ -5,7 +5,7 @@ export const bewareOfChicken0131V5c25PreludeToTheNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0131-v5c25-prelude-to-the-night",
   title: "v5c25: Prelude to the Night",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 131,
   ownLength: 2607,
   ownProgress: 2607,

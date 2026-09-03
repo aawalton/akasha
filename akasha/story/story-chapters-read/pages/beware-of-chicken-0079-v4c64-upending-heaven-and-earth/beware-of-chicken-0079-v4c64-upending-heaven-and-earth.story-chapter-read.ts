@@ -5,7 +5,7 @@ export const bewareOfChicken0079V4c64UpendingHeavenAndEarth = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0079-v4c64-upending-heaven-and-earth",
   title: "v4c64: Upending Heaven and Earth",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 79,
   ownLength: 1962,
   ownProgress: 1962,

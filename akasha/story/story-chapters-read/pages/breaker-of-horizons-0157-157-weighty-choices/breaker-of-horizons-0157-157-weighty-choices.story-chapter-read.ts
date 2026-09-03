@@ -5,7 +5,7 @@ export const breakerOfHorizons0157157WeightyChoices = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0157-157-weighty-choices",
   title: "157. Weighty Choices",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 157,
   ownLength: 2603,
   unitSlug: "words",

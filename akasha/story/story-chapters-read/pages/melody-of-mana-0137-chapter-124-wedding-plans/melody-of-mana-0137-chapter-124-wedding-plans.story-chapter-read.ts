@@ -5,7 +5,7 @@ export const melodyOfMana0137Chapter124WeddingPlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0137-chapter-124-wedding-plans",
   title: "Chapter 124 Wedding Plans",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 137,
   ownLength: 2021,
   ownProgress: 2021,

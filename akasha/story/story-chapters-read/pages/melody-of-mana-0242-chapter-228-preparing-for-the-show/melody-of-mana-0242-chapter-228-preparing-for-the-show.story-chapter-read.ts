@@ -5,7 +5,7 @@ export const melodyOfMana0242Chapter228PreparingForTheShow = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0242-chapter-228-preparing-for-the-show",
   title: "Chapter 228 Preparing for the Show",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 242,
   ownLength: 1760,
   ownProgress: 1760,

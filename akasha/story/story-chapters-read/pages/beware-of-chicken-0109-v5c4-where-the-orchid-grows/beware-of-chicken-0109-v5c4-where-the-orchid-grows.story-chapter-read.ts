@@ -5,7 +5,7 @@ export const bewareOfChicken0109V5c4WhereTheOrchidGrows = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0109-v5c4-where-the-orchid-grows",
   title: "v5c4: Where the Orchid Grows",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 109,
   ownLength: 2987,
   ownProgress: 2987,

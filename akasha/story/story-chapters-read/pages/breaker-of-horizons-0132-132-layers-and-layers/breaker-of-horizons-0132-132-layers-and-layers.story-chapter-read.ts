@@ -5,7 +5,7 @@ export const breakerOfHorizons0132132LayersAndLayers = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0132-132-layers-and-layers",
   title: "132. Layers and Layers",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 132,
   ownLength: 1894,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bewareOfChicken0042V4c32TheScribeSReturnP1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0042-v4c32-the-scribe-s-return-p1",
   title: "v4c32: The Scribe's Return p1",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 42,
   ownLength: 2381,
   ownProgress: 2381,

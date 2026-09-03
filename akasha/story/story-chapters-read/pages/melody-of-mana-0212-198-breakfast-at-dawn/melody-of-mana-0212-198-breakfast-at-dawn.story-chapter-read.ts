@@ -5,7 +5,7 @@ export const melodyOfMana0212198BreakfastAtDawn = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0212-198-breakfast-at-dawn",
   title: "198 Breakfast at Dawn",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 212,
   ownLength: 1277,
   ownProgress: 1277,

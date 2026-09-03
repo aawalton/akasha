@@ -5,7 +5,7 @@ export const bewareOfChicken0134V5c28CloserToHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0134-v5c28-closer-to-home",
   title: "v5c28: Closer to Home",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 134,
   ownLength: 2228,
   ownProgress: 2228,

@@ -5,7 +5,7 @@ export const melodyOfMana0143Chapter130TheChase = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0143-chapter-130-the-chase",
   title: "Chapter 130 The Chase",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 143,
   ownLength: 2101,
   ownProgress: 2101,

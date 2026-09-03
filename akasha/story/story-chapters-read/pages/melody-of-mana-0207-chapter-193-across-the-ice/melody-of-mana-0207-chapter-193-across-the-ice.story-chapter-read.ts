@@ -5,7 +5,7 @@ export const melodyOfMana0207Chapter193AcrossTheIce = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0207-chapter-193-across-the-ice",
   title: "Chapter 193 Across the Ice",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 207,
   ownLength: 1878,
   ownProgress: 1878,

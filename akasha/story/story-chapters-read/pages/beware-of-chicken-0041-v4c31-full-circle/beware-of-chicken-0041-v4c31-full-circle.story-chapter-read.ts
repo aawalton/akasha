@@ -5,7 +5,7 @@ export const bewareOfChicken0041V4c31FullCircle = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0041-v4c31-full-circle",
   title: "v4c31: Full Circle",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 41,
   ownLength: 1776,
   ownProgress: 1776,

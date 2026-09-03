@@ -5,7 +5,7 @@ export const melodyOfMana0240Chapter226PokingAround = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0240-chapter-226-poking-around",
   title: "Chapter 226 Poking Around",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 240,
   ownLength: 1985,
   ownProgress: 1985,

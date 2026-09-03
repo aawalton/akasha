@@ -5,7 +5,7 @@ export const bewareOfChicken0135V5c29TheWickedBladeSpecial = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0135-v5c29-the-wicked-blade-special",
   title: "v5c29: The Wicked Blade Special",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 135,
   ownLength: 1973,
   ownProgress: 1973,

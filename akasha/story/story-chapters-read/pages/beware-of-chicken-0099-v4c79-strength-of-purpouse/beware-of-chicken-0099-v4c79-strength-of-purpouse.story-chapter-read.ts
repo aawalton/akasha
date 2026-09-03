@@ -5,7 +5,7 @@ export const bewareOfChicken0099V4c79StrengthOfPurpouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0099-v4c79-strength-of-purpouse",
   title: "v4c79: Strength of Purpouse",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 99,
   ownLength: 2145,
   ownProgress: 2145,

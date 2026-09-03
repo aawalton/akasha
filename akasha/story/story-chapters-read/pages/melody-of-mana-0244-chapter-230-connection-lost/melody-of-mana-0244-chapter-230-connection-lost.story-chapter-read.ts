@@ -5,7 +5,7 @@ export const melodyOfMana0244Chapter230ConnectionLost = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0244-chapter-230-connection-lost",
   title: "Chapter 230 Connection Lost",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 244,
   ownLength: 1786,
   ownProgress: 1786,

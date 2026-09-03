@@ -5,7 +5,7 @@ export const breakerOfHorizons0124124Transfiguration = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0124-124-transfiguration",
   title: "124. Transfiguration",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 124,
   ownLength: 1862,
   unitSlug: "words",

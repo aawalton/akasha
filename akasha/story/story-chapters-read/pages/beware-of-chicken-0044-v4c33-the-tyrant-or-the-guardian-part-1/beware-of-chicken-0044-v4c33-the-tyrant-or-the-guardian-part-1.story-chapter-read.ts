@@ -5,7 +5,7 @@ export const bewareOfChicken0044V4c33TheTyrantOrTheGuardianPart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0044-v4c33-the-tyrant-or-the-guardian-part-1",
   title: "v4c33: The Tyrant or the Guardian part 1",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 44,
   ownLength: 2117,
   ownProgress: 2117,

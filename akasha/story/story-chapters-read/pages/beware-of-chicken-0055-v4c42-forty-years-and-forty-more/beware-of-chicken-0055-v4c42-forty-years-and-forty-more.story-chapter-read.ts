@@ -5,7 +5,7 @@ export const bewareOfChicken0055V4c42FortyYearsAndFortyMore = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0055-v4c42-forty-years-and-forty-more",
   title: "v4c42: Forty Years, and Forty More",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 55,
   ownLength: 1645,
   ownProgress: 1645,

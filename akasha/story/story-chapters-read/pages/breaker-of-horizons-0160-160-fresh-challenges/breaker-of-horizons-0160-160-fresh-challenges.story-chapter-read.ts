@@ -5,7 +5,7 @@ export const breakerOfHorizons0160160FreshChallenges = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0160-160-fresh-challenges",
   title: "160. Fresh Challenges",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 160,
   ownLength: 2230,
   unitSlug: "words",

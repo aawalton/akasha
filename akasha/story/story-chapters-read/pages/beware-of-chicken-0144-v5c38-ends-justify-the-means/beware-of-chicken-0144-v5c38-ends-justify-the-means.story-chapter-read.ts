@@ -5,7 +5,7 @@ export const bewareOfChicken0144V5c38EndsJustifyTheMeans = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0144-v5c38-ends-justify-the-means",
   title: "v5c38: Ends Justify the Means",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 144,
   ownLength: 2320,
   ownProgress: 2320,

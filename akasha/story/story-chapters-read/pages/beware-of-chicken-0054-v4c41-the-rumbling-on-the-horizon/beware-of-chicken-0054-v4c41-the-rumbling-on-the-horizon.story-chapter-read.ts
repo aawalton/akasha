@@ -5,7 +5,7 @@ export const bewareOfChicken0054V4c41TheRumblingOnTheHorizon = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0054-v4c41-the-rumbling-on-the-horizon",
   title: "v4c41: The Rumbling on the Horizon",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 54,
   ownLength: 2428,
   ownProgress: 2428,

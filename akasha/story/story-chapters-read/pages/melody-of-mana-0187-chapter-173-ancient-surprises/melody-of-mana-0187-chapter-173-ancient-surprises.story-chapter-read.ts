@@ -5,7 +5,7 @@ export const melodyOfMana0187Chapter173AncientSurprises = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0187-chapter-173-ancient-surprises",
   title: "Chapter 173 Ancient Surprises",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 187,
   ownLength: 1790,
   ownProgress: 1790,

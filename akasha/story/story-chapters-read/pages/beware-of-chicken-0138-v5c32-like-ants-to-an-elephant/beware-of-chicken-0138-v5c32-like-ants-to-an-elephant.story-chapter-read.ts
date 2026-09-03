@@ -5,7 +5,7 @@ export const bewareOfChicken0138V5c32LikeAntsToAnElephant = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0138-v5c32-like-ants-to-an-elephant",
   title: "v5c32: Like Ants to an Elephant",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 138,
   ownLength: 3664,
   ownProgress: 3664,

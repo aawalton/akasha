@@ -5,7 +5,7 @@ export const melodyOfMana0232Chapter218OpeningMoves = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0232-chapter-218-opening-moves",
   title: "Chapter 218 Opening Moves",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 232,
   ownLength: 1673,
   ownProgress: 1673,

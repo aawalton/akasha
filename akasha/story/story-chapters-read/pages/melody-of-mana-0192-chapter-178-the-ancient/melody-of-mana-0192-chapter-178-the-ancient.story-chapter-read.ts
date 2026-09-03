@@ -5,7 +5,7 @@ export const melodyOfMana0192Chapter178TheAncient = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0192-chapter-178-the-ancient",
   title: "Chapter 178 The Ancient",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 192,
   ownLength: 1529,
   ownProgress: 1529,

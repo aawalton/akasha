@@ -5,7 +5,7 @@ export const melodyOfMana0254Chapter240RoyalBall = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0254-chapter-240-royal-ball",
   title: "Chapter 240 Royal Ball",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 254,
   ownLength: 1497,
   ownProgress: 1497,

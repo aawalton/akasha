@@ -5,7 +5,7 @@ export const bewareOfChicken0027V4c19ThePlansOfMen = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0027-v4c19-the-plans-of-men",
   title: "v4c19: The Plans of Men",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 27,
   ownLength: 2044,
   ownProgress: 2044,

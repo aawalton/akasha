@@ -5,7 +5,7 @@ export const melodyOfMana0165Chapter151FirstDaysAtSea = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0165-chapter-151-first-days-at-sea",
   title: "Chapter 151 First Days at Sea",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 165,
   ownLength: 2038,
   ownProgress: 2038,

@@ -5,7 +5,7 @@ export const bewareOfChicken0088V4c72RelfectionsAndOneLastTask = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0088-v4c72-relfections-and-one-last-task",
   title: "v4c72: Relfections and One Last Task",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 88,
   ownLength: 2138,
   ownProgress: 2138,

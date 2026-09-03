@@ -5,7 +5,7 @@ export const bewareOfChicken0106V5c1AWinterTaleBegins = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0106-v5c1-a-winter-tale-begins",
   title: "v5c1: A Winter Tale Begins",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 106,
   ownLength: 2810,
   ownProgress: 2810,

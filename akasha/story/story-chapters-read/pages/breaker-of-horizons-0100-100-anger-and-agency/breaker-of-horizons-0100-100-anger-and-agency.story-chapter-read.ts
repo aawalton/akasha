@@ -5,7 +5,7 @@ export const breakerOfHorizons0100100AngerAndAgency = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0100-100-anger-and-agency",
   title: "100. Anger and Agency",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 100,
   ownLength: 2184,
   unitSlug: "words",

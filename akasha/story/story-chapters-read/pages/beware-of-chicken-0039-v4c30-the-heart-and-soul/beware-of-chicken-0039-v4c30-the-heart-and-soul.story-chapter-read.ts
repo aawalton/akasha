@@ -5,7 +5,7 @@ export const bewareOfChicken0039V4c30TheHeartAndSoul = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0039-v4c30-the-heart-and-soul",
   title: "v4c30: The Heart and Soul",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 39,
   ownLength: 1885,
   ownProgress: 1885,

@@ -5,7 +5,7 @@ export const melodyOfMana0128Chapter115FamilyLearningTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0128-chapter-115-family-learning-time",
   title: "Chapter 115 Family Learning Time",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 128,
   ownLength: 2124,
   ownProgress: 2124,

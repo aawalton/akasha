@@ -5,7 +5,7 @@ export const breakerOfHorizons0148148SecretsAndLies = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0148-148-secrets-and-lies",
   title: "148. Secrets and Lies",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 148,
   ownLength: 1958,
   unitSlug: "words",

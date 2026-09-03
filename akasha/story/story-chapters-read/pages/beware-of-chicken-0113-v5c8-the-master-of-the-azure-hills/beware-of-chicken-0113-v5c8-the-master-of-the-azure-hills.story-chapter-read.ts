@@ -5,7 +5,7 @@ export const bewareOfChicken0113V5c8TheMasterOfTheAzureHills = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0113-v5c8-the-master-of-the-azure-hills",
   title: "v5c8: The Master of the Azure Hills",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 113,
   ownLength: 1883,
   ownProgress: 1883,

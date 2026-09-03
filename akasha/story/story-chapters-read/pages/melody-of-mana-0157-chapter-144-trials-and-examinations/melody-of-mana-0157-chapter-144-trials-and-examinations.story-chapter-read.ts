@@ -5,7 +5,7 @@ export const melodyOfMana0157Chapter144TrialsAndExaminations = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0157-chapter-144-trials-and-examinations",
   title: "Chapter 144 Trials and Examinations",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 157,
   ownLength: 2078,
   ownProgress: 2078,

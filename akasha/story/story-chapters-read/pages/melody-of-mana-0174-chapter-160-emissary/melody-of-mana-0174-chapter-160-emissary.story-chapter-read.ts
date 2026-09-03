@@ -5,7 +5,7 @@ export const melodyOfMana0174Chapter160Emissary = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0174-chapter-160-emissary",
   title: "Chapter 160 Emissary",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 174,
   ownLength: 2370,
   ownProgress: 2370,

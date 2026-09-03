@@ -5,7 +5,7 @@ export const breakerOfHorizons0179179BuddingRelationships = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0179-179-budding-relationships",
   title: "179. Budding Relationships",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 179,
   ownLength: 2075,
   unitSlug: "words",

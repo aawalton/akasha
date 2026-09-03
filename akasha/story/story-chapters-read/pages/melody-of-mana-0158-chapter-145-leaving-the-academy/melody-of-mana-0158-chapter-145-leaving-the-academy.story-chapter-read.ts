@@ -5,7 +5,7 @@ export const melodyOfMana0158Chapter145LeavingTheAcademy = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0158-chapter-145-leaving-the-academy",
   title: "Chapter 145 Leaving the Academy",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 158,
   ownLength: 1900,
   ownProgress: 1900,

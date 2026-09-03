@@ -5,7 +5,7 @@ export const melodyOfMana0248Chapter234NearMiss = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0248-chapter-234-near-miss",
   title: "Chapter 234 Near Miss",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 248,
   ownLength: 1967,
   ownProgress: 1967,

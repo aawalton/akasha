@@ -5,7 +5,7 @@ export const bewareOfChicken0083V4c68NoMoreFace = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0083-v4c68-no-more-face",
   title: "v4c68: No More Face",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 83,
   ownLength: 2406,
   ownProgress: 2406,

@@ -5,7 +5,7 @@ export const bewareOfChicken0071V4c56TheTaleOfLightningAndMist = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0071-v4c56-the-tale-of-lightning-and-mist",
   title: "v4c56: The Tale of Lightning and Mist",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 71,
   ownLength: 4885,
   ownProgress: 4885,

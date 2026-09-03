@@ -5,7 +5,7 @@ export const melodyOfMana0146133InterrogationPinea = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0146-133-interrogation-pinea",
   title: "133 Interrogation (Pinea)",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 146,
   ownLength: 1986,
   ownProgress: 1986,

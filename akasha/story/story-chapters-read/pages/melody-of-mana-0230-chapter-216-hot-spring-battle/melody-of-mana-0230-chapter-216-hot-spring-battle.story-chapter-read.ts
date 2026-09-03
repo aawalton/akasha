@@ -5,7 +5,7 @@ export const melodyOfMana0230Chapter216HotSpringBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0230-chapter-216-hot-spring-battle",
   title: "Chapter 216 Hot-Spring Battle",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 230,
   ownLength: 2773,
   ownProgress: 2773,

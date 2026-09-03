@@ -5,7 +5,7 @@ export const melodyOfMana0129Chapter116ReturningToTheAcademy = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0129-chapter-116-returning-to-the-academy",
   title: "Chapter 116 Returning to the Academy",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 129,
   ownLength: 1846,
   ownProgress: 1846,

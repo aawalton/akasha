@@ -5,7 +5,7 @@ export const melodyOfMana0226Chapter212UpTheMountains = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0226-chapter-212-up-the-mountains",
   title: "Chapter 212 Up the Mountains",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 226,
   ownLength: 2284,
   ownProgress: 2284,

@@ -5,7 +5,7 @@ export const breakerOfHorizons004949RaisingStandards = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0049-49-raising-standards",
   title: "49. Raising Standards",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 49,
   ownLength: 3222,
   unitSlug: "words",

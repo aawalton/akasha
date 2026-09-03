@@ -5,7 +5,7 @@ export const melodyOfMana0213Chapter199NewMeetingsAndOldFriends = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0213-chapter-199-new-meetings-and-old-friends",
   title: "Chapter 199 New Meetings and Old Friends",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 213,
   ownLength: 1687,
   ownProgress: 1687,

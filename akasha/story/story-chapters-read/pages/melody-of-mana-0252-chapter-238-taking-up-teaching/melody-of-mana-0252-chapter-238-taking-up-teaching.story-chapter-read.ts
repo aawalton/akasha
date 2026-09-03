@@ -5,7 +5,7 @@ export const melodyOfMana0252Chapter238TakingUpTeaching = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0252-chapter-238-taking-up-teaching",
   title: "Chapter 238 Taking Up Teaching",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 252,
   ownLength: 1365,
   ownProgress: 1365,

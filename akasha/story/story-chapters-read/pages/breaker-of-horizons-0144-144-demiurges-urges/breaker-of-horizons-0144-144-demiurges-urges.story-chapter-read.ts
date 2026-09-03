@@ -5,7 +5,7 @@ export const breakerOfHorizons0144144DemiurgesUrges = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0144-144-demiurges-urges",
   title: "144. Demiurge's Urges",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 144,
   ownLength: 2125,
   unitSlug: "words",

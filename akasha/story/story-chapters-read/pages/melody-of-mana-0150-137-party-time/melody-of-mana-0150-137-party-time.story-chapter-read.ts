@@ -5,7 +5,7 @@ export const melodyOfMana0150137PartyTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0150-137-party-time",
   title: "137 Party Time",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 150,
   ownLength: 1807,
   ownProgress: 1807,

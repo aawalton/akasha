@@ -5,7 +5,7 @@ export const bewareOfChicken0059V4c46TheyAreAChangin = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0059-v4c46-they-are-a-changin",
   title: "v4c46: They are a Changin'",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 59,
   ownLength: 2036,
   ownProgress: 2036,

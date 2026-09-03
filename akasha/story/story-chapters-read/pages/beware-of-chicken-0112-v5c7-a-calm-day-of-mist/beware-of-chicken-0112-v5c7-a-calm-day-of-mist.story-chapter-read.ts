@@ -5,7 +5,7 @@ export const bewareOfChicken0112V5c7ACalmDayOfMist = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0112-v5c7-a-calm-day-of-mist",
   title: "v5c7: A Calm Day of Mist",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 112,
   ownLength: 1665,
   ownProgress: 1665,

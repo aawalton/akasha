@@ -5,7 +5,7 @@ export const melodyOfMana0163Chapter149SilverstonePort = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0163-chapter-149-silverstone-port",
   title: "Chapter 149 Silverstone Port",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 163,
   ownLength: 1974,
   ownProgress: 1974,

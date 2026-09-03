@@ -5,7 +5,7 @@ export const bewareOfChicken0123V5c17InTheEmperorSNameLeaveNoneAlive = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0123-v5c17-in-the-emperor-s-name-leave-none-alive",
   title: "v5c17: In the Emperor's Name, Leave None Alive",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 123,
   ownLength: 2011,
   ownProgress: 2011,

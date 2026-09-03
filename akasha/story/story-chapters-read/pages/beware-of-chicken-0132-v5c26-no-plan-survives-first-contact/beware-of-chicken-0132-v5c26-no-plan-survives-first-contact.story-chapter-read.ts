@@ -5,7 +5,7 @@ export const bewareOfChicken0132V5c26NoPlanSurvivesFirstContact = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0132-v5c26-no-plan-survives-first-contact",
   title: "v5c26: No Plan Survives First Contact",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 132,
   ownLength: 1597,
   ownProgress: 1597,

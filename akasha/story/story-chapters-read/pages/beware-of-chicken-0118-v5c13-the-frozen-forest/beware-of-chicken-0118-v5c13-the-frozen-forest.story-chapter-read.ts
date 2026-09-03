@@ -5,7 +5,7 @@ export const bewareOfChicken0118V5c13TheFrozenForest = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0118-v5c13-the-frozen-forest",
   title: "v5c13: The Frozen Forest",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 118,
   ownLength: 2131,
   ownProgress: 2131,

@@ -5,7 +5,7 @@ export const breakerOfHorizons0154154ProgressAndPerception = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0154-154-progress-and-perception",
   title: "154. Progress and Perception",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 154,
   ownLength: 2119,
   unitSlug: "words",

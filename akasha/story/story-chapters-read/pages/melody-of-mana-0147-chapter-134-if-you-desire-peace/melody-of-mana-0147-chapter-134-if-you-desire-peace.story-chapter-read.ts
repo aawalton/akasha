@@ -5,7 +5,7 @@ export const melodyOfMana0147Chapter134IfYouDesirePeace = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0147-chapter-134-if-you-desire-peace",
   title: "Chapter 134 If You Desire Peace...",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 147,
   ownLength: 3557,
   ownProgress: 3557,

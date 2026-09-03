@@ -5,7 +5,7 @@ export const melodyOfMana0236Chapter222TheBrokenCity = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0236-chapter-222-the-broken-city",
   title: "Chapter 222 The Broken City",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 236,
   ownLength: 1806,
   ownProgress: 1806,

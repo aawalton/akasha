@@ -5,7 +5,7 @@ export const breakerOfHorizons005353StreamsAndShadows = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0053-53-streams-and-shadows",
   title: "53. Streams and Shadows",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 53,
   ownLength: 2522,
   unitSlug: "words",

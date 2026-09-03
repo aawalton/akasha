@@ -5,7 +5,7 @@ export const melodyOfMana0234Chapter220FallenCity = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0234-chapter-220-fallen-city",
   title: "Chapter 220 Fallen City",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 234,
   ownLength: 1845,
   ownProgress: 1845,

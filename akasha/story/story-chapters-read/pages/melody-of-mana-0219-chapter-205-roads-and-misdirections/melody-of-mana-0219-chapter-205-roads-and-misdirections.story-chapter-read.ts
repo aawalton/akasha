@@ -5,7 +5,7 @@ export const melodyOfMana0219Chapter205RoadsAndMisdirections = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0219-chapter-205-roads-and-misdirections",
   title: "Chapter 205 Roads and Misdirections",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 219,
   ownLength: 1785,
   ownProgress: 1785,

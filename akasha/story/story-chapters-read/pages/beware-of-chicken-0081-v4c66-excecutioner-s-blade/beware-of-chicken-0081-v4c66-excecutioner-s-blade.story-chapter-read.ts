@@ -5,7 +5,7 @@ export const bewareOfChicken0081V4c66ExcecutionerSBlade = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0081-v4c66-excecutioner-s-blade",
   title: "v4c66: Excecutioner's Blade",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 81,
   ownLength: 1413,
   ownProgress: 1413,

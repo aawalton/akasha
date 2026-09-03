@@ -5,7 +5,7 @@ export const melodyOfMana0228Chapter214ItSA = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0228-chapter-214-it-s-a",
   title: "Chapter 214 It's A...",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 228,
   ownLength: 2105,
   ownProgress: 2105,

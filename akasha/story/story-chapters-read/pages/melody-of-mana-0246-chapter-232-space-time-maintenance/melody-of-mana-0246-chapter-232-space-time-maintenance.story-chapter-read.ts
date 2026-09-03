@@ -5,7 +5,7 @@ export const melodyOfMana0246Chapter232SpaceTimeMaintenance = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0246-chapter-232-space-time-maintenance",
   title: "Chapter 232 Space-Time Maintenance",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 246,
   ownLength: 1583,
   ownProgress: 1583,

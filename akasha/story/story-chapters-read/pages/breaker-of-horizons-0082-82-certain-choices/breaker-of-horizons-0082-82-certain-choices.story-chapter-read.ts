@@ -5,7 +5,7 @@ export const breakerOfHorizons008282CertainChoices = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0082-82-certain-choices",
   title: "82. Certain Choices",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 82,
   ownLength: 1894,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bewareOfChicken0108V5c3ATigerSHomecoming = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0108-v5c3-a-tiger-s-homecoming",
   title: "v5c3: A Tiger's Homecoming",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 108,
   ownLength: 1781,
   ownProgress: 1781,

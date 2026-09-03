@@ -5,7 +5,7 @@ export const melodyOfMana0179Chapter165WaterfallScene = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0179-chapter-165-waterfall-scene",
   title: "Chapter 165 Waterfall Scene",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 179,
   ownLength: 1697,
   ownProgress: 1697,

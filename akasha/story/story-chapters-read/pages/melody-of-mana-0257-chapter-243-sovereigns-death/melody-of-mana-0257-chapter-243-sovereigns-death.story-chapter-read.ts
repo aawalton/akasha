@@ -5,7 +5,7 @@ export const melodyOfMana0257Chapter243SovereignsDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0257-chapter-243-sovereigns-death",
   title: "Chapter 243 Sovereigns' Death",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 257,
   ownLength: 2199,
   ownProgress: 2199,

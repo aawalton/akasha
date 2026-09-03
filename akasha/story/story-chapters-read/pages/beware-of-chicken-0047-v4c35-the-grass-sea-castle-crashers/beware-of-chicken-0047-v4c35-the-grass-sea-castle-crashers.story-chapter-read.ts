@@ -5,7 +5,7 @@ export const bewareOfChicken0047V4c35TheGrassSeaCastleCrashers = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0047-v4c35-the-grass-sea-castle-crashers",
   title: "v4c35: The Grass Sea Castle Crashers",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 47,
   ownLength: 3748,
   ownProgress: 3748,

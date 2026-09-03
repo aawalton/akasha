@@ -5,7 +5,7 @@ export const bewareOfChicken0033V4c24TheFoxTrap = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0033-v4c24-the-fox-trap",
   title: "v4c24: The Fox Trap",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 33,
   ownLength: 1890,
   ownProgress: 1890,

@@ -5,7 +5,7 @@ export const bewareOfChicken0128V5c22FromDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0128-v5c22-from-darkness",
   title: "v5c22: From Darkness",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 128,
   ownLength: 1968,
   ownProgress: 1968,

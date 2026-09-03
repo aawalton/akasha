@@ -5,7 +5,7 @@ export const breakerOfHorizons0142142CosmicConfrontation = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0142-142-cosmic-confrontation",
   title: "142. Cosmic Confrontation",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 142,
   ownLength: 2112,
   unitSlug: "words",

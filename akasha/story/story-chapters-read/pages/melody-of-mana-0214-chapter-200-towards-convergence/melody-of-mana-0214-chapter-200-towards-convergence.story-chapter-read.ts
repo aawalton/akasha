@@ -5,7 +5,7 @@ export const melodyOfMana0214Chapter200TowardsConvergence = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0214-chapter-200-towards-convergence",
   title: "Chapter 200 Towards Convergence",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 214,
   ownLength: 1247,
   ownProgress: 1247,

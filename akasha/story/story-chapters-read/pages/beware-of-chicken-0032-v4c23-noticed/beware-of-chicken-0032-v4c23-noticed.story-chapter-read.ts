@@ -5,7 +5,7 @@ export const bewareOfChicken0032V4c23Noticed = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0032-v4c23-noticed",
   title: "v4c23: Noticed",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 32,
   ownLength: 2107,
   ownProgress: 2107,

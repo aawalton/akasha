@@ -5,7 +5,7 @@ export const breakerOfHorizons008181AlternativeThreads = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0081-81-alternative-threads",
   title: "81. Alternative Threads",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 81,
   ownLength: 2088,
   unitSlug: "words",

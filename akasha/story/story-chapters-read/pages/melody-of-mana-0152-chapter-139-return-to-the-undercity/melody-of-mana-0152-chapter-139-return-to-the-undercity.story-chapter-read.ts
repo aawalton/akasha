@@ -5,7 +5,7 @@ export const melodyOfMana0152Chapter139ReturnToTheUndercity = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0152-chapter-139-return-to-the-undercity",
   title: "Chapter 139 Return to the Undercity",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 152,
   ownLength: 2118,
   ownProgress: 2118,

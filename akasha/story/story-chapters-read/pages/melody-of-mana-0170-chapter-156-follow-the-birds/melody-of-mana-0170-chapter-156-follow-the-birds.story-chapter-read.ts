@@ -5,7 +5,7 @@ export const melodyOfMana0170Chapter156FollowTheBirds = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0170-chapter-156-follow-the-birds",
   title: "Chapter 156 Follow the Birds",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 170,
   ownLength: 1984,
   ownProgress: 1984,

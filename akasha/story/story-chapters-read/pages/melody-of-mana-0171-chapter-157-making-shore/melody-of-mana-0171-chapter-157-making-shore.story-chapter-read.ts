@@ -5,7 +5,7 @@ export const melodyOfMana0171Chapter157MakingShore = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0171-chapter-157-making-shore",
   title: "Chapter 157 Making Shore",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 171,
   ownLength: 2095,
   ownProgress: 2095,

@@ -5,7 +5,7 @@ export const melodyOfMana0140Chapter127DemocracyAndNewSpell = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0140-chapter-127-democracy-and-new-spell",
   title: "Chapter 127 Democracy and New Spell",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 140,
   ownLength: 1875,
   ownProgress: 1875,

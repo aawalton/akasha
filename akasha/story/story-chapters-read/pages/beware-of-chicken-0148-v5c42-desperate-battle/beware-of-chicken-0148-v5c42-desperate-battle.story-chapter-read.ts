@@ -5,7 +5,7 @@ export const bewareOfChicken0148V5c42DesperateBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0148-v5c42-desperate-battle",
   title: "v5c42: Desperate Battle",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 148,
   ownLength: 2119,
   ownProgress: 2119,

@@ -5,7 +5,7 @@ export const melodyOfMana0164Chapter150IntoTheHorizon = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0164-chapter-150-into-the-horizon",
   title: "Chapter 150 Into the Horizon",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 164,
   ownLength: 2039,
   ownProgress: 2039,

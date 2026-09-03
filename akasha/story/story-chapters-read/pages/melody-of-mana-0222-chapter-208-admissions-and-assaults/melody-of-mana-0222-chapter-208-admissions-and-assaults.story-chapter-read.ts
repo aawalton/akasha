@@ -5,7 +5,7 @@ export const melodyOfMana0222Chapter208AdmissionsAndAssaults = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0222-chapter-208-admissions-and-assaults",
   title: "Chapter 208 Admissions and Assaults",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 222,
   ownLength: 2540,
   ownProgress: 2540,

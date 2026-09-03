@@ -5,7 +5,7 @@ export const bewareOfChicken0065V4c502TheLostAndTheBrokenPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0065-v4c50-2-the-lost-and-the-broken-part-2",
   title: "v4c50.2: The Lost and the Broken Part 2",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 65,
   ownLength: 2476,
   ownProgress: 2476,

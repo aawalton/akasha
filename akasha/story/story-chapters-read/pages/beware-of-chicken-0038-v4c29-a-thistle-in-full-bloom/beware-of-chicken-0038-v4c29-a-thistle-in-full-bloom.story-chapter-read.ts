@@ -5,7 +5,7 @@ export const bewareOfChicken0038V4c29AThistleInFullBloom = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0038-v4c29-a-thistle-in-full-bloom",
   title: "v4c29: A Thistle in Full Bloom",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 38,
   ownLength: 1776,
   ownProgress: 1776,

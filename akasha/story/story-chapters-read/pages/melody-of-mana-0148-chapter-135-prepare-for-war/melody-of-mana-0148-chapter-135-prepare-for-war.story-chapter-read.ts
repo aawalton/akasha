@@ -5,7 +5,7 @@ export const melodyOfMana0148Chapter135PrepareForWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0148-chapter-135-prepare-for-war",
   title: "Chapter 135 ...Prepare for War",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 148,
   ownLength: 1990,
   ownProgress: 1990,

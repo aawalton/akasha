@@ -5,7 +5,7 @@ export const bewareOfChicken0030V4c22TheInnerSectPart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0030-v4c22-the-inner-sect-part-1",
   title: "v4c22: The Inner Sect part 1",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 30,
   ownLength: 2826,
   ownProgress: 2826,

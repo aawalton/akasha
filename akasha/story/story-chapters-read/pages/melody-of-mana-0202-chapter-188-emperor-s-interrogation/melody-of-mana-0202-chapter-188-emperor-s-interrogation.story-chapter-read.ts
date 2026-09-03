@@ -5,7 +5,7 @@ export const melodyOfMana0202Chapter188EmperorSInterrogation = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0202-chapter-188-emperor-s-interrogation",
   title: "Chapter 188 Emperor's Interrogation",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 202,
   ownLength: 2014,
   ownProgress: 2014,

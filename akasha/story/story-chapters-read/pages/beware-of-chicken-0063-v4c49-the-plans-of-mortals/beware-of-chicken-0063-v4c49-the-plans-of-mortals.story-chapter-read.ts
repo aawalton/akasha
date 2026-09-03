@@ -5,7 +5,7 @@ export const bewareOfChicken0063V4c49ThePlansOfMortals = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0063-v4c49-the-plans-of-mortals",
   title: "v4c49: The Plans of Mortals",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 63,
   ownLength: 2000,
   ownProgress: 2000,

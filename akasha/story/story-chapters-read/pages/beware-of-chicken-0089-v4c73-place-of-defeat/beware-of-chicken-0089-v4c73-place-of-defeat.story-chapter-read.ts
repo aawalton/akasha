@@ -5,7 +5,7 @@ export const bewareOfChicken0089V4c73PlaceOfDefeat = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0089-v4c73-place-of-defeat",
   title: "v4c73: Place of Defeat",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 89,
   ownLength: 3676,
   ownProgress: 3676,
