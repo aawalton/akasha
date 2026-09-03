@@ -1,0 +1,60 @@
+#!/usr/bin/env bun
+
+import { resolve } from "node:path"
+import { z } from "zod"
+import { parseArgs, REPO_ROOT_FLAG } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
+import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
+import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
+import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
+import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { listWorkspaceDirs } from "../../../../../tools/lib/check-workflow/workspace-paths"
+
+if (import.meta.main) refuseRetired()
+
+const PACKAGE_JSON_SCHEMA = z.record(z.string(), z.unknown())
+
+const PREFIX = "[package-names]"
+
+export function expectedPackageName(workspacePath: string): string {
+  const segs = workspacePath.split("/").filter((s) => s !== "")
+  if (segs.length < 2)
+    throw new Error(`workspace path must have at least scope + one segment: ${workspacePath}`)
+  const [scope, ...rest] = segs
+  return `@${scope}/${rest.join("-")}`
+}
+
+function parsePackageJson(source: string): Record<string, unknown> {
+  return PACKAGE_JSON_SCHEMA.parse(JSON.parse(source))
+}
+
+if (import.meta.main) {
+  const repoRoot =
+    parseArgs(process.argv.slice(2), REPO_ROOT_FLAG, { passthrough: true }).flags.repoRoot ??
+    getRepoRoot()
+  const { population, violations } = examineFilePopulation<{ file: string; message: string }>({
+    files: listWorkspaceDirs(repoRoot),
+    unit: "packages",
+    membership: {
+      kind: "enumerated",
+      because:
+        "`listWorkspaceDirs` raises if the root `package.json` cannot be read or parsed, and every literal `workspaces` entry passes through whether or not its directory is there — so a workspace missing from disk arrives as a member whose `package.json` read fails below, not as one that never arrived",
+    },
+    pathOf: (ws) => resolve(repoRoot, ws, "package.json"),
+    scan: (ws, source) => {
+      const want = expectedPackageName(ws)
+      const pkg = parsePackageJson(source)
+      const name = typeof pkg.name === "string" ? pkg.name : undefined
+      return name === want ? [] : [{ file: ws, message: `name=${name} expected=${want}` }]
+    },
+  })
+  exitOnResult({
+    violations,
+    options: {
+      population,
+      prefix: PREFIX,
+      header:
+        "Workspace package names must match the path-derived value — clear each by renaming the package to the expected name, or by moving it to a path that derives the name it has",
+      successMessage: "All workspace package names match their path.",
+    },
+  })
+}
