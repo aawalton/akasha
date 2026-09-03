@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const precisionOverwatch = {
   id: "01a0657d-0296-7004-b67a-6aa5686622db",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const potions148Efficiency = {
   id: "01a0657d-0295-7ec1-8dcb-7539396a1072",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const palmDeflection = {
   id: "01a0657d-0286-78da-b561-93eb2b2cf7bc",

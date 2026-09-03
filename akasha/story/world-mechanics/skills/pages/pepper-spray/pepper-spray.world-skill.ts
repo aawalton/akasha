@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const pepperSpray = {
   id: "01a0657d-028e-7362-b95e-1d2807df619b",

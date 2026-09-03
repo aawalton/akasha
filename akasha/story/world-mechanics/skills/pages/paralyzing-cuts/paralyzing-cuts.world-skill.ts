@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const paralyzingCuts = {
   id: "01a0657d-0286-7911-8229-c11b4bc16920",

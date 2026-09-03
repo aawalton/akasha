@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const ogreSCharge = {
   id: "01a0657d-027c-769c-be85-22e8a2108846",

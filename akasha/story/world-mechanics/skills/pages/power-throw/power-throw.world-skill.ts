@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const powerThrow = {
   id: "01a0657d-0296-7750-bbc1-73c9c09e5dbe",

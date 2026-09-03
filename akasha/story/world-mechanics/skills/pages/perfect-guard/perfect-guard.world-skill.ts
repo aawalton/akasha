@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const perfectGuard = {
   id: "01a0657d-028f-7f97-8643-164f1cf0f220",

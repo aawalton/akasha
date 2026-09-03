@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const overpoweringBlow = {
   id: "01a0657d-027f-7db8-8bc9-48e77d1f50ec",

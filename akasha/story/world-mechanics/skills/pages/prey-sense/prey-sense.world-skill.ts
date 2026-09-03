@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const preySense = {
   id: "01a0657d-0296-7d32-906b-f2275e159bb7",

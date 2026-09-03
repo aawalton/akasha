@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const oathbreakerSRepudiationForSurvivalIObject = {
   id: "01a0657d-027b-7305-818a-2a51671ee96f",

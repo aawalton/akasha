@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const oathOfFlames = {
   id: "01a0657d-027b-7923-a55c-80715991de41",

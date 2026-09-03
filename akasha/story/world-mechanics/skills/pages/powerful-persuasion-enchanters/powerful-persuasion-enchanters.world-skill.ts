@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const powerfulPersuasionEnchanters = {
   id: "01a0657d-0296-7593-863e-0acbc011eab8",

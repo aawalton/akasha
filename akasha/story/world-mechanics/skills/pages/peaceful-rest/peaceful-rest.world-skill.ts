@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const peacefulRest = {
   id: "01a0657d-028e-76f8-a71e-7289a83bb858",

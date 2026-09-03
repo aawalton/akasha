@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const powerKick = {
   id: "01a0657d-0295-7fc1-add3-70490c136c07",

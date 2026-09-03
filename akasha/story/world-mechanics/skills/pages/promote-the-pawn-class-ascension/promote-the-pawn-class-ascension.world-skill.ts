@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const promoteThePawnClassAscension = {
   id: "01a0657d-0297-73d5-a198-2fd5d767177a",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const personalSewageNetworkServiceLineCeramic = {
   id: "01a0657d-028f-7a8b-968b-8aa2b974ea8b",

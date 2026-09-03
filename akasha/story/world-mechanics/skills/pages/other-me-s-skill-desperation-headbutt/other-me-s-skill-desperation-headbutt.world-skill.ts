@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const otherMeSSkillDesperationHeadbutt = {
   id: "01a0657d-027c-733f-8f67-a30809226035",

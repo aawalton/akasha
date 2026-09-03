@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const perfectConcealmentHome = {
   id: "01a0657d-028e-7bfc-9987-e059a527f7ef",

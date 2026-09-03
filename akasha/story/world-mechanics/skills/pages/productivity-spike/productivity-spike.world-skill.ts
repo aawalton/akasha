@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const productivitySpike = {
   id: "01a0657d-0297-71a1-8532-8e6107ec00b4",

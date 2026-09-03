@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const perProcuraWalledCities = {
   id: "01a0657d-028e-7311-9176-03b69f231b52",

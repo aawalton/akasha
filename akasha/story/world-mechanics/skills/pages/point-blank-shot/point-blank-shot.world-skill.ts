@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const pointBlankShot = {
   id: "01a0657d-0295-7bd6-ab55-ca609b3a8cdd",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const playbackMyFavoriteScene = {
   id: "01a0657d-0295-7ab3-bb7f-1cb8b5c12639",

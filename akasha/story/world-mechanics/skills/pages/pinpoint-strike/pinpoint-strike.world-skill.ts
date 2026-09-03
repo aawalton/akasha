@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const pinpointStrike = {
   id: "01a0657d-0294-705d-93b4-587ec29003de",

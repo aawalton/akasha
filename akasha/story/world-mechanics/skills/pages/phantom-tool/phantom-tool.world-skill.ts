@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const phantomTool = {
   id: "01a0657d-0290-7e94-9426-c403fa47179a",

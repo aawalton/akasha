@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const phoenixSTango = {
   id: "01a0657d-0290-725d-a4d0-d9aba1610857",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const overcutArc = {
   id: "01a0657d-027f-7d36-a2dc-6b130869b283",

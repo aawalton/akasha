@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const preparedBattlegroundOneHour = {
   id: "01a0657d-0296-7fb9-8944-b7feb5d3f24e",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const projectionOfHonesty = {
   id: "01a0657d-0297-73fc-a63c-1d9f57c3ef3a",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const phantomGrace = {
   id: "01a0657d-0290-7263-a051-c9fc84f02aa0",

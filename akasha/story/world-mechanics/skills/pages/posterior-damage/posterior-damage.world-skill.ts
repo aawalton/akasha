@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const posteriorDamage = {
   id: "01a0657d-0295-7e50-b313-2587ed790a09",

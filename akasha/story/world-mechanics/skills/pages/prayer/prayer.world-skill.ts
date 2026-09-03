@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const prayer = {
   id: "01a0657d-0296-7e29-a359-1e8d414cbb7d",

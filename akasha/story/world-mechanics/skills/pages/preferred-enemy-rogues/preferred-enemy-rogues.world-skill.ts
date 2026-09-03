@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const preferredEnemyRogues = {
   id: "01a0657d-0296-78e5-8049-a680f619748e",

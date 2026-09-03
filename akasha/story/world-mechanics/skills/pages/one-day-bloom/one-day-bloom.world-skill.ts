@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const oneDayBloom = {
   id: "01a0657d-027c-781f-919b-7d8764193322",

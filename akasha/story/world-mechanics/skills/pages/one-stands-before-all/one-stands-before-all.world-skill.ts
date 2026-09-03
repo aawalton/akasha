@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const oneStandsBeforeAll = {
   id: "01a0657d-027c-7ada-b9ab-cef20deb79f9",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const paralysisStab = {
   id: "01a0657d-0286-79de-b597-ba151cc48fe5",

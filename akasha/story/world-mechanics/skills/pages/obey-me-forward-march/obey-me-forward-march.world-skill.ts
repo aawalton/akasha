@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const obeyMeForwardMarch = {
   id: "01a0657d-027b-79e7-bda9-4d55ea5b7b1c",

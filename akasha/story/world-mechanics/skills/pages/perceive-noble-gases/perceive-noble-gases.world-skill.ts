@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const perceiveNobleGases = {
   id: "01a0657d-028e-7485-b3a0-15eb07fad893",

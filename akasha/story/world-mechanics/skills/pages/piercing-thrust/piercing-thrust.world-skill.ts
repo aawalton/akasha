@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const piercingThrust = {
   id: "01a0657d-0294-765d-832e-9a67f0cda77b",

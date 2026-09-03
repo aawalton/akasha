@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const plaguesOfEgyptSwarmsOfPestilence = {
   id: "01a0657d-0295-78a1-99e1-cffe1d3ca52b",

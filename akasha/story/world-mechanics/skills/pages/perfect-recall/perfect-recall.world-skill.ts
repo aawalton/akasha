@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const perfectRecall = {
   id: "01a0657d-028f-7d12-ac6f-8a5440c3e6b0",

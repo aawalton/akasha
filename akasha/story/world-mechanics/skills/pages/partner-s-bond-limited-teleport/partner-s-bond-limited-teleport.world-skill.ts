@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const partnerSBondLimitedTeleport = {
   id: "01a0657d-0287-753e-b466-ccddaefc3f4e",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const pierceStab = {
   id: "01a0657d-0290-7249-bb70-d564c5c5e627",

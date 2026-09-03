@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const preparedSignal = {
   id: "01a0657d-0296-7fa9-a479-0ef9357d4606",

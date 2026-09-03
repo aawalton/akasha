@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const peacefulGesture = {
   id: "01a0657d-028e-78d4-bd7e-1df83827064f",

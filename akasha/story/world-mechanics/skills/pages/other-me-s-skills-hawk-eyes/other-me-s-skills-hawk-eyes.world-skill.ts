@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const otherMeSSkillsHawkEyes = {
   id: "01a0657d-027c-7a38-bfa5-85cf4d41f176",

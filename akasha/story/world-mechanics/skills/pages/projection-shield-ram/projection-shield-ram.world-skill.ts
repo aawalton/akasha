@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const projectionShieldRam = {
   id: "01a0657d-0297-7d8c-8eb0-dfd4d3799104",

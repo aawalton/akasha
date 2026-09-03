@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const overdriveTheMarionetteSRebellion = {
   id: "01a0657d-027f-7a27-aa93-c3d4811afbec",

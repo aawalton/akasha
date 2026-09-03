@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const potOfConspiracies = {
   id: "01a0657d-0295-7aae-8c89-0f898bf2805c",

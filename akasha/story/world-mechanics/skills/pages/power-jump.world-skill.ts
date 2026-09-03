@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const powerJump = {
   id: "01a0657d-0295-737a-890f-f31b7a666c4c",

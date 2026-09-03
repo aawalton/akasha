@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const otherMeSSkills = {
   id: "01a0657d-027d-7c11-a00d-a187f324d814",

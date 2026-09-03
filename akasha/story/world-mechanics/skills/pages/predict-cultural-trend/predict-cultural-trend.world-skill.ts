@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const predictCulturalTrend = {
   id: "01a0657d-0296-7e97-9ad0-67decdf40e67",

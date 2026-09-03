@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const performerSGrace = {
   id: "01a0657d-028f-7a56-bd39-392ec02a8ce8",

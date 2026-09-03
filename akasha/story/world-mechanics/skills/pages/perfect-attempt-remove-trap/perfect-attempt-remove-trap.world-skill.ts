@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const perfectAttemptRemoveTrap = {
   id: "01a0657d-028e-7855-b693-30358cc7a008",

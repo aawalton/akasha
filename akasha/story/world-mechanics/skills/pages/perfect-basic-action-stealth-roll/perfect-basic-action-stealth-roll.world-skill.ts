@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const perfectBasicActionStealthRoll = {
   id: "01a0657d-028e-7951-b5ac-1325b7bac449",
