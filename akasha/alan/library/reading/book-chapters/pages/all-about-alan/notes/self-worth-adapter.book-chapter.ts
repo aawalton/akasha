@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const selfWorthAdapter = {
   id: "01a06594-c683-7009-ac2e-3b6ebcf01ada",

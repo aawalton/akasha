@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const aftershockDynamics = {
   id: "01a06594-c67e-7000-ab4e-1a54a242013c",

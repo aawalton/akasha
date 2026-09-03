@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const selfArchitecture = {
   id: "01a06594-c683-7001-8dd9-480e1d7c508f",

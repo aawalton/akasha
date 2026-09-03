@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const sexualityKnot = {
   id: "01a06594-c684-7001-b189-6a9515a83866",

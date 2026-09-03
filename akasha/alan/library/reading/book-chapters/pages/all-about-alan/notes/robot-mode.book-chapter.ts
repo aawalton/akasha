@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const robotMode = {
   id: "01a06594-c67c-7013-91ef-f585953da6b0",

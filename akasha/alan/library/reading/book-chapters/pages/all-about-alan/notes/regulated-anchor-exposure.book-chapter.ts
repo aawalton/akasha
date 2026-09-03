@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const regulatedAnchorExposure = {
   id: "01a06594-c67c-700f-8cab-6c85e3a52b75",

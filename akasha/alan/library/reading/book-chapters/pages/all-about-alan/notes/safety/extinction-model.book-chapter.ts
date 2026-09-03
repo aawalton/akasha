@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const extinctionModel = {
   id: "01a06594-c67e-7002-9681-8f67a6bcd71e",

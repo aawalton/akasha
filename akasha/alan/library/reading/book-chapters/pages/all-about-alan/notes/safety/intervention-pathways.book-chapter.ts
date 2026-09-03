@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const interventionPathways = {
   id: "01a06594-c67e-7003-b4a3-d9a1f9765c90",
