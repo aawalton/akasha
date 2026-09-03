@@ -7,10 +7,14 @@
     "@akasha/pages-system": "workspace:*",
     "@akasha/temper-addon-build": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
+    "@akasha/temper-build-deploy-checks": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
+    "@akasha/temper-eso-typings": "workspace:*",
+    "@akasha/temper-hud-components": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-upstream-data": "workspace:*",
     "@akasha/temper-watcher": "workspace:*",
-    "@akasha/utils-run": "workspace:*"
+    "@akasha/utils-run": "workspace:*",
+    "@tools/lib": "workspace:*"
   }
 }

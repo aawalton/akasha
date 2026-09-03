@@ -7,6 +7,12 @@ export const temperCommands = {
   definition: "what an agent runs by name over temper",
   manifest: "json",
   partSlugs: [
+    "command/audit-eso-typings-fresh",
+    "command/eso-generate-base-game-globals",
+    "command/eso-generate-chatter-names",
+    "command/eso-generate-colon-methods",
+    "command/eso-generate-hud-scene-catalog",
+    "command/eso-generate-typings",
     "command/temper-addon-build",
     "command/temper-addon-bundle-build",
     "command/temper-addon-bundle-publish",
