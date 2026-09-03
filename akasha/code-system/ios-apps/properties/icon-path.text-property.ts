@@ -17,7 +17,11 @@ export const iconPath = {
     },
     {
       invariantKind: "constraint",
-      statement: "An app's icon stands outside akasha.",
+      statement: "An app's icon carries NUL bytes.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An app's icon is in akasha.",
     },
     {
       invariantKind: "gap",

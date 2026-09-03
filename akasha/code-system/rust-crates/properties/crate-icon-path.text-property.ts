@@ -21,7 +21,11 @@ export const crateIconPath = {
     },
     {
       invariantKind: "constraint",
-      statement: "A crate's icon lives outside akasha.",
+      statement: "A crate's icon carries NUL bytes.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A crate's icon is in akasha.",
     },
   ],
 } as const satisfies TextProperty
