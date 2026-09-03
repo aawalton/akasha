@@ -1,0 +1,1 @@
+The SeaweedFS data disk at /var/mnt/seaweedfs has only {{ $value | printf "%.1f" }}% free space remaining.

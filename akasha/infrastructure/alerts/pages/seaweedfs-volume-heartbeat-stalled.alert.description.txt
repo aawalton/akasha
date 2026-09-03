@@ -1,0 +1,3 @@
+rate(SeaweedFS_master_received_heartbeats{type="total"}[10m]) == 0 — the master is no longer hearing volume-server heartbeats, so the storage topology is losing its data nodes even if a volume pod still answers scrapes.
+
+Check the master and volume logs in namespace seaweedfs.

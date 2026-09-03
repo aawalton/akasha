@@ -1,0 +1,1 @@
+pg_query_perf_evaluator_up has produced no series for 10m — the postgres-exporter query-perf path is down or erroring, so the budget/drift/ceiling alerts are blind. Check the postgres-exporter pod in the prometheus namespace and its queries ConfigMap.

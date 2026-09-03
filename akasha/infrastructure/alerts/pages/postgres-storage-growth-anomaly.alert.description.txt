@@ -1,0 +1,1 @@
+The 24h Postgres growth rate is more than 2x the 7-day average, suggesting an unexpected data ingestion spike.
