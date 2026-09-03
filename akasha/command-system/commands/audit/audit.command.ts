@@ -16,6 +16,8 @@ export const audit = {
     "named nothing, every check that runs at audit judges every file the index names.",
     "--check narrows which checks run and never which files they see, and a run it narrows says in its answer that it is not an audit.",
     "it writes nothing, and holds nothing still while it runs.",
+    "one run peaks near 17 GB for about fifteen minutes, and --check narrows checks rather than files, so a narrowed run costs what a whole one costs.",
+    "a seat runs it in the background and a subagent does not run it at all, several at once costing the swarm its model service.",
   ],
   invariants: [
     {

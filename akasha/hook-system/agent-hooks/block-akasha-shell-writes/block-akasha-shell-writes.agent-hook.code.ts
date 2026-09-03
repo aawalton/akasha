@@ -3,6 +3,7 @@ import { rootOf } from "@akasha/command-system/rooting"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 import {
   basenameOf,
+  calledWords,
   dequoted,
   segmentsOf,
   wordsOf,
@@ -15,15 +16,34 @@ const UNREADABLE = 5
 
 const REFUSED = 2
 
-const COPY = "cp"
-
-const MOVE = "mv"
-
-const TEE = "tee"
-
 const DD = "dd"
 
 const REDIRECTED = "a redirect"
+
+const ONTO_THE_LAST = new Set(["cp", "mv", "install", "ln"])
+
+const ONTO_EVERY_ONE = new Set(["tee", "truncate", "touch"])
+
+const TAKING_AWAY = new Set(["rm", "rmdir"])
+
+const MAKING = new Set(["mkdir"])
+
+const READING_A_PROGRAM = new Set([
+  "python",
+  "python2",
+  "python3",
+  "node",
+  "bun",
+  "bunx",
+  "deno",
+  "ruby",
+  "perl",
+  "php",
+  "lua",
+  "luajit",
+  "Rscript",
+  "osascript",
+])
 
 const INTO = new Set(["-t", "--target-directory"])
 
@@ -36,6 +56,8 @@ const IN_PLACE_FLAG = /^-[0-9a-z]*i[0-9a-z.]*$/
 const OUT_FILE = /^of=(.+)$/
 
 const REDIRECT = /^\d*>>?(.*)$/
+
+const SPELLED = /[A-Za-z0-9_.~+@/-]+/g
 
 export type Landing = {
   readonly at: string
@@ -85,17 +107,22 @@ export function redirectsIn(words: readonly string[]): readonly string[] {
 export function landingsIn(command: string): readonly Landing[] {
   const found: Landing[] = []
   for (const segment of segmentsOf(dequoted(command))) {
-    const words = wordsOf(segment)
+    const words = calledWords(segment)
     const first = words[0]
     if (first !== undefined) {
       const tool = basenameOf(first)
-      if (tool === COPY || tool === MOVE) {
+      if (ONTO_THE_LAST.has(tool)) {
         const into = intoOf(words)
         const operands = operandsOf(words)
         const last = into ?? (operands.length > 1 ? operands[operands.length - 1] : undefined)
         if (last !== undefined && last !== "") found.push({ at: last, how: tool })
       }
-      if (tool === TEE || (IN_PLACE.has(tool) && editsInPlace(words))) {
+      if (
+        ONTO_EVERY_ONE.has(tool) ||
+        TAKING_AWAY.has(tool) ||
+        MAKING.has(tool) ||
+        (IN_PLACE.has(tool) && editsInPlace(words))
+      ) {
         for (const one of operandsOf(words)) found.push({ at: one, how: tool })
       }
       if (tool === DD) {
@@ -106,9 +133,40 @@ export function landingsIn(command: string): readonly Landing[] {
         }
       }
     }
-    for (const target of redirectsIn(words)) found.push({ at: target, how: REDIRECTED })
+    for (const target of redirectsIn(wordsOf(segment))) found.push({ at: target, how: REDIRECTED })
   }
   return found
+}
+
+export function programsIn(command: string): readonly string[] {
+  const found: string[] = []
+  for (const segment of segmentsOf(command)) {
+    const head = calledWords(segment)[0]
+    if (head === undefined) continue
+    const tool = basenameOf(head)
+    if (READING_A_PROGRAM.has(tool) && !found.includes(tool)) found.push(tool)
+  }
+  return found
+}
+
+export function pathsSpelledIn(command: string): readonly string[] {
+  const found: string[] = []
+  for (const said of command.matchAll(SPELLED)) {
+    const one = said[0]
+    if (one.includes("/") && !found.includes(one)) found.push(one)
+  }
+  return found
+}
+
+function road(shown: string): readonly string[] {
+  return [
+    "",
+    `  akasha read --file-path ${shown}`,
+    `  akasha write --file-path ${shown} --content-file <body> --message "<what this is for>"`,
+    `  akasha remove --file-path ${shown} --message "<why this goes>"`,
+    "",
+    "Write the body anywhere outside `akasha/` first — a shell write there is not refused.",
+  ]
 }
 
 function refusing(how: string, shown: string, index: boolean): string {
@@ -128,10 +186,26 @@ function refusing(how: string, shown: string, index: boolean): string {
     `${said}, inside the akasha folder.`,
     "The akasha commands write that folder — they check the change and commit it.",
     "A shell write goes around the gate, so it is refused here as an Edit or a Write is.",
-    "",
-    `  akasha write --file-path ${shown} --content-file <body> --message "<what this is for>"`,
-    "",
-    "Write the body anywhere outside `akasha/` first — a shell write there is not refused.",
+    ...road(shown),
+  ].join("\n")
+}
+
+function refusingAProgram(tool: string, shown: string, index: boolean): string {
+  const said = `${HOOK_NAME}: \`${tool}\` runs a program naming \`${shown}\``
+  if (index) {
+    return [
+      `${said}, inside the akasha index.`,
+      "A program's own text is not read here, so a write through it is not parted from a read.",
+      "The pages and the index are two halves of one store. Rebuild it instead:",
+      "",
+      "  akasha index refresh",
+    ].join("\n")
+  }
+  return [
+    `${said}, inside the akasha folder.`,
+    "A program's own text is not read here, so a write through it is not parted from a read,",
+    "and naming the path at all is what is refused.",
+    ...road(shown),
   ].join("\n")
 }
 
@@ -142,6 +216,13 @@ export function refusalFor(command: string, from: string, root: string): string 
     const at = settled(resolve(from, landing.at))
     if (insideOf(guarded.pages, at)) return refusing(landing.how, landing.at, false)
     if (insideOf(guarded.index, at)) return refusing(landing.how, landing.at, true)
+  }
+  for (const tool of programsIn(command)) {
+    for (const shown of pathsSpelledIn(command)) {
+      const at = settled(resolve(from, shown))
+      if (insideOf(guarded.pages, at)) return refusingAProgram(tool, shown, false)
+      if (insideOf(guarded.index, at)) return refusingAProgram(tool, shown, true)
+    }
   }
   return null
 }

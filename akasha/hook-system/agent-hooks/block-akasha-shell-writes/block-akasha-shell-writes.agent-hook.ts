@@ -40,8 +40,35 @@ export const blockAkashaShellWrites = {
       statement: "A descriptor redirected onto another descriptor is passed over.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A verb that makes, replaces or takes a file away is judged on every path it names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A prefix that only runs the call behind it does not hide the call from this hook.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A program's own text is not read, so a read through it is not parted from a write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An interpreter is judged on every path the whole command line spells.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The ways a shell writes a file are sampled here rather than named in full.",
+    },
+    {
       invariantKind: "gap",
       statement: "No shell write reaches inside a guarded root.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A call another program builds is hidden from this hook as `sh -c` hides one.",
     },
     {
       invariantKind: "gap",

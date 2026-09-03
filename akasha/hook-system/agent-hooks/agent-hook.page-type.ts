@@ -24,6 +24,7 @@ export const agentHook = {
     "agent-hook/block-destructive-git",
     "agent-hook/block-git-writes",
     "agent-hook/block-ops-cli",
+    "agent-hook/block-subagent-audit",
     "agent-hook/clear-reads-on-context-replaced",
     "agent-hook/name-subagent",
     "agent-hook/state-subagent",
