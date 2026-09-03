@@ -1,0 +1,590 @@
+Erick Flatt
+
+Human?, age 49
+
+Level 90, Class: Particle Mage
+
+Exp: 2.32 e20 /7.54 e20
+
+Class: 10/10
+
+Points: 11
+
+HP
+
+2,430/2,430
+
+38,670 per day
+
+MP
+
+9060/9060
+
+38,670 per day
+
+Strength
+
+20
+
++61
+
+[81]
+
+Vitality
+
+20
+
++61
+
+[81]
+
+Dexterity
+
+10
+
++61
+
+[71]
+
+Constitution
+
+20
+
++61
+
+[81]
+
+Perception
+
+20
+
++61
+
+[81]
+
+Willpower
+
+90
+
++61
+
+[151]
+
+Focus
+
+90
+
++61
+
+[151]
+
+Intelligence
+
+20
+
++61
+
+[81]
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Scion of Focus
+
+Multiply your base MP regen by 4
+
+Immune to Mana Exhaustion
+
+Requirements: 50 Focus
+
+Rozeta’s Recovery
+
+The sum of your Health and Mana Regeneration now applies to both Health and Mana Regeneration.
+
+Immune to Health Fatigue and Mana Exhaustion.
+
+HP Abilities:
+
+Strong X
+
+Multiply your base HP by 3
+
+Requirements: 20 Strength
+
+Enduring X
+
+Multiply your base HP regen by 3
+
+Requirements: 20 Vitality
+
+Precision X
+
+Reduces HP costs by 50%
+
+Requirements: 10 Vitality
+
+HP cost abilities:
+
+Defend X, 1 minute, 1/10 HP
+
+Take 50% less damage for 1 minute, cannot take more than 90% of your HP in damage in 1 hit.
+
+Scent Tracker X, 1 HP per minute.
+
+Smell clearly.
+
+Ultrasight X, 1 HP per minute.
+
+See clearly
+
+Perfect Hearing X, 1 HP per minute.
+
+Hear clearly.
+
+Silent Movement X, 1 HP per meter moved
+
+All actions are muffled.
+
+Swift Movement X, 1 HP per second
+
+Move faster.
+
+Tracker’s Instinct, 1 HP per second
+
+Hunt clearly.
+
+Lightfoot, 2 HP per second
+
+Move quick and silent
+
+Hunter’s Instincts, 10 HP per second ~{Favored Ability}~
+
+You are the predator.
+
+Strike X, 10-40 HP
+
+Level 1: Deal 1.0x damage with your weapon
+
+Level X: Deal 2x damage, + 2x <Piercing Force> damage
+
+MP Abilities:
+
+Discipline X
+
+Multiply your base MP by 3
+
+Requirements: 20 Willpower
+
+Concentration X
+
+Multiply your base MP regen by 3
+
+Requirements: 20 Focus
+
+Clarity X
+
+Reduces spell costs by 50%
+
+Requirements: 10 Focus
+
+Meditation X
+
+Always Resting
+
+Requirements: 10 Willpower
+
+Mana Shaping X
+
+Alter spell AOE in better, subtle ways, 10 MP + spellcost
+
+Alter spell AOE in better, moderate ways, 30 MP + spellcost
+
+Aurify Unlocked
+
+Alter AOE in better, major ways, 100 MP + spellcost
+
+Alter AOE in better, extreme ways, 300 MP + spellcost
+
+Change any spell into an AOE spell, or freely alter the AOE of any AOE spell, 500 MP + spellcost
+
+Requirements: 10 Willpower
+
+Aurify 3
+
+Transform an AOE spell into a semi-permanent effect surrounding yourself, based upon the parameters of the Aurified spell. Increase an instantaneous spell to a 1 second duration in order to create an aura.
+
+Able to support 2 auras at a time.
+
+You may choose who or what is affected by your aura.
+
+Triples the range on an Aurified spell.
+
+Mana Altering X
+
+Bludgeon, Slash, or Piercing Damage
+
+Force to Light, Blinding, Variable Cost
+
+Invisible Force, Variable Cost
+
+Force to Thunder, Disorient, Variable Cost
+
+Force to Fire, Burn, Variable Cost
+
+Force to Ice, Slow, Variable Cost
+
+Force to Lightning, Paralyze, Variable Cost
+
+Force to Decay, organic damage, Variable Cost x1.5
+
+Chain, Variable Cost x2
+
+Combine Effects, Variable Cost x3
+
+Generate new effects. Variable Cost
+
+Requirements: 10 Willpower
+
+MP Spells:
+
+Healing spells:
+
+Healing Word X, instant, medium range, 10 MP
+
+Speak, and heal a target for 25 + ½ WIL.
+
+You may cast your next Healing Word right away.
+
+Utility spells:
+
+Cleanse X, instant, short range, 10 MP.
+
+Purge an area equal to the level of the spell in meters of all Toxins, Disease, Filth, and Corruption.
+
+Cleanse Aura, short range, 10 MP per second.
+
+Continuously purge all Toxins, Disease, Filth, and Corruption in a 10m sphere centered on you.
+
+Mend X, instant, touch, 10 mana.
+
+Touch a complicated large object, or a small common magical item, and restore it to its prime.
+
+Prestidigitation X, instant, close range, 10 MP + 1 MP per effect
+
+Create minor magical effects that last for 5 minutes per spell level. Prestidigitation lasts one hour.
+
+Detect Magic X, instant, medium range, 10 MP
+
+Detect ongoing magical effects.
+
+Detect Intent Aura, medium range, 8 MP per second
+
+See the control imposed upon nearby mana.
+
+Identify X, instant, touch, 50 MP
+
+Discover the properties of an object.
+
+Find Target X, concentration, close range, 5 MP + 5 MP per meter searched
+
+Find a target.
+
+Stone Travel, instant, medium range, 50 MP + Variable
+
+A large area of stone stabilizes around you, then quickly moves at your discretion across or through other stone. Lasts 1 hour.
+
+Scry X, instant, super long range. 10 MP + Variable
+
+Conjure a quick sensor to see a place you have been or have seen.
+
+Telepathy X, self, super long range, 1 MP per minute + Variable
+
+Communicate with the minds of people you know. 1 connection available per level. Unwanted connections are harmful to caster.
+
+Telekinesis X, medium range
+
+Move large objects around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large objects around you for 1 minute per level of the spell. Fine control. 50 MP
+
+Flight of a Thousand Hands Aura, 1 MP per second, medium range
+
+Gain complete, quick control over a large amount of air and a thousand arms of intent. Take flight, if you are able!
+
+Grow X, instant, touch or close range, 5 MP
+
+Cultivate a single plant, or induce plant growth in a sphere of diameter equal to spell level in meters.
+
+Growth Aura, 5 MP per second.
+
+Induce growth in the plants you choose in a 10m radius around you.
+
+Conjure Armor X, instant, 50 MP + Variable
+
+Create weightless armor of whatever design you can create. Lasts until catastrophic damage.
+
+Conjure Weapon X, instant, 50 MP + Variable
+
+Create a nigh unbreakable weightless weapon. Lasts as long as held, or 1 minute per level not held.
+
+Conjure Item X, instant, 50 MP + Variable
+
+Create an item. Skill with mana manipulation determines final creation. Lasts until suffering 50 points of damage.
+
+Force Wall X, instant, medium range, 50 MP
+
+Create a stable, stationary wall of hardened mana. Absorbs 500 damage before breaking. Lasts 10 minutes per level.
+
+Force Platform X, instant, close range, 50 MP
+
+Create a mobile, hovering platform of hardened mana that moves with you. Absorbs 100 damage before breaking. Lasts 10 minutes per level.
+
+Fabricate X, 1 minute, close range, 50MP + Variable
+
+Using provided materials, create a permanent object you know how to create. Fine control.
+
+Control Item X, instant, touch, 5MP + Variable
+
+Control a non-living item to move how you desire, for 10 minutes per spell level.
+
+Envelop Item X, instant, touch, 50MP + Variable
+
+Envelop an item in nigh-unbreakable mana. Lasts for 1 hour per spell level.
+
+Adjust Scent X, instant, close range, 10 MP + Variable
+
+Change a Scent.
+
+Alter Size X, instant, touch, 10 MP + Variable
+
+Increase or decease the size of a target. Damage breaks effect. Lasts 1 minute per spell level.
+
+Alter Friction X, instant, close range, 10 MP
+
+Increase or decease Friction upon a small target. Damage breaks effect. Lasts 1 minute per spell level
+
+Husbandry X, instant, touch, 50 MP + Variable
+
+An animal’s opinion of you improves.
+
+Interception X, instant, close range, 5MP + 5MP per 10 meters moved
+
+Instantly move to intercept an attack meant for another. Lasts 1 minute or until used.
+
+Rebound X, Variable MP
+
+A spell bounces.
+
+Cleansing Flame, instant, medium range, 15 MP
+
+A smokeless flame gradually consumes and transforms a large amount of organic material to naught but air.
+
+Deals no damage.
+
+Dispel X, medium range, 10 MP + Special Cost
+
+Dispel a magic.
+
+Costs as much mana as the spell you are trying to dispel.
+
+Polymorph, instant, 500 MP
+
+Change your physical body.
+
+Familiar Forms: 2/18
+
+~Erick Flatt
+
+~Light Slime
+
+Invisibility X, instant, touch, 100 mana + Variable
+
+A person or item touched becomes unseen for 1 minute per spell level.
+
+Moving while Invisible incurs a cost.
+
+Mending Aura, long range, 572 MP per second
+
+Restore a very large, complicated location to its prime. Time since the structure was destroyed may alter final results. Automatically repair all objects in the area of effect.
+
+Minor ability to affect magical objects.
+
+Clothe X, instant, touch, 25 mana.
+
+Touch a garment you have worn and wear it again. Maximum transferring range of 100m.
+
+Duplicate, instant, touch, 100 Mana
+
+Create a copy of a non-magical, non-living item.
+
+Double Duplicate, instant, touch, 150 Mana
+
+Create two copies of a non-magical, non-living item.
+
+Multi-Duplicate, instant, touch, 600 Mana
+
+Create copies of every item in a small area.
+
+Duplication Aura, instant, small range, 600 mana per second
+
+Create copies of every item in a small area.
+
+<Civilization will judge you for what you do.>
+
+Control Machine, instant, close range, 15 mana + Variable
+
+Imbue a non-living machine of complicated processes with your intent. Very Fine control. Lasts 100 minutes.
+
+Mana Sight X, instant, close range, 5 mana per second
+
+See the truth of mana all around you.
+
+Blood Sight X, instant, close range, 5 mana per second
+
+See the blood all around you.
+
+Soul Sight X, instant, close range, 5 mana per second
+
+See the souls all around you.
+
+Witness X, variable cast time, variable range, 25 mana
+
+See the past.
+
+Future Sight X, variable cast time, variable range, 25 mana
+
+See the future.
+
+True Sight X, instant, medium range, 25 mana per second
+
+See through all falsehoods.
+
+Spatial Magics:
+
+Blink X, instant, 25 MP
+
+Instantly move from your location to another within <sight>, max range 10m per level of Blink
+
+Teleport X, instant, 250 MP per person
+
+You and <hands> number of people appear in a known location, max 1000km distance.
+
+Teleporting Platform, instant, 197 MP + Variable, 204 MP per person + Variable
+
+Create a mobile, hovering platform of stone that moves quickly at your discretion. Supports a large amount of weight. Lasts 1 hour.
+
+You and the people or objects on your Teleporting Platform appear in a known location, max 1000km distance
+
+Teleport Object X, instant, touch, 25 mana + Variable
+
+An object you touch moves to another known location, within 10 kilometers.
+
+Teleport Ranged Object, instant, long range, 25 mana + Variable
+
+An object you touch moves to another known location, within 5 kilometers.
+
+Stone Fall, instant, super long range, 6000 mana
+
+Teleport a large sized stone into the sky, to fall upon a target, dealing massive physical damage.
+
+Stone Crash, instant, super long range, 6500 mana
+
+Cast a large size of stone into the sky, breaking it into a hundred rocks to fall upon a super large area.
+
+Firelight Comet Swarm, instant, super long range, 8100 MP
+
+Cast a large size of Firelight Stone into the sky, breaking it into a hundred smaller pieces to then fall upon a super large area. Deals massive initial damage + 5x WIL, and 10x WIL damage per second for 60 seconds for all in affected area.
+
+Shadow aspect magic turns solid.
+
+Deals double damage to dark and shadow aspect creatures and objects.
+
+Teleport Familiar X, instant, touch, 250 mana
+
+A Familiar reappears in another known location, max 1000km distance.
+
+Teleport Summon X, instant, touch, 250 mana
+
+A summoned creature reappears in another known location, max 1000km distance.
+
+Teleport Monster X, instant, touch, 250 mana
+
+A monster reappears in another known location, max 1000km distance.
+
+Teleport Tree X, instant, touch, 250 mana
+
+A tree appears in another known location, max 1000km distance.
+
+Teleport Other X, instant, touch, 250 mana
+
+A being you touch reappears in another known location, max 1000km distance.
+
+Elemental Body Skills:
+
+Greater Lightwalk, instant, long range, 10 MP per second + Variable
+
+You are the radiant day.
+
+Ward spells:
+
+Ward X, instant, short range, 24 hours ~{Favored Spell}~
+
+Create a Small Ward that can have Minor Effects, or prevent Z damage from attackers. 10 MP + Z
+
+Create a Small Ward that can have Small Effects, or prevent Z damage from attackers. 15 MP + Z
+
+Create a Special Ward. Variable Cost
+
+Create a Medium Ward that can have Small Effects, or prevent Z damage from attackers. 20 MP + Z
+
+Create a Medium Ward that can have Medium Effects, or prevent Z damage from attackers. 25 MP + Z
+
+Personal Ward: Any Ward of any type can be made Personal, to move with you. Original Cost x2
+
+Create a Large Ward that can have Medium Effects, or prevent Z damage from attackers. 30 MP + Z
+
+Create a Large Ward that can have Large Effects, or prevent Z damage from attackers. 35 MP + Z
+
+Create a Ward with another Spell attached to the interior. Spell activation based on Z invested into Ward. 100 MP + Z
+
+Your Wards regenerate Z based on your Rested MP regen rate.
+
+Special Wards can be made Permanent. 250 MP + Variable Cost
+
+Minor Effects: Bug Ward, Temperature Ward, Alarm Ward
+
+Small Effects: Visual Disruption, Audio Disruption, Weather Ward
+
+Medium Effects: Area Hostile Visual Disruption, Area Hostile Audio Disruption
+
+Large Effects: Drain Hostile HP/MP, Gravity Ward
+
+Special Ward: Eschew all other effects in order to shape, color, and illuminate a ward however you wish. Skill level at Mana Manipulation determines final outcome. Variable Cost
+
+Gravity Strainer, instant, medium range, 65 mana, 1 hour duration.
+
+Conjure a large, freely moldable space where specific objects turn near-weightless and fall to a designated point.
+
+Scent Ward, instant, close range, 350 mana
+
+Block all scents under a medium moldable ward. Lasts 10 days.
+
+Crystalline Air, instant, short range, 24 hours, Solid Ward, 50 MP + Variable
+
+Create a solid, large barrier, that absorbs Variable damage before breaking.
+
+You may increase or decrease the size of your Crystalline Air for an increase or decrease in Variable cost.
+
+Crystalline Air regenerates integrity based on your Rested mana regeneration rate.
+
+You and those you permit are able to pass through Crystalline Air at will. You may grant or revoke this permission at will.
+
+You may only have one Solid Ward active at a time.
+
+Pure Reflection Ward, instant, Personal Ward, 10 mana per second
+
+Reflect spells cast upon you.
+

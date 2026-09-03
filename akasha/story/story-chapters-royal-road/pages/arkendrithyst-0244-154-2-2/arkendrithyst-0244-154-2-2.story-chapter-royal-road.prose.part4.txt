@@ -1,0 +1,184 @@
+Nirzir had much the same reaction, saying, “Well this looks pretty good on the inside, too.”
+
+Erick had been quite worried that Nirzir was going to be an uppity princess, needing to be cared for and demanding everything. She was, after all, technically, a princess; every direct family member of the High Clans were considered royalty by the commoners of Songli. He was pleasantly surprised that Nirzir was not like that; not at all.
+
+Nirzir did have one odd reaction, though. She glanced at an Ophiel sitting in an arrow slit, who was watching the world outside while also watching everyone inside with his multiple eyes pointed in every direction. Nirzir said, “[Familiar]s are great… I suppose. My brothers have [Familiars]. They’re shaped like Thunder Birds. But…” Her voice trailed off. “We originally thought you were some long lost Scion, what with Ophiel pretending to be more… birdlike, back when you were Ezekiel. I’m still not sure I want one, though.”
+
+Erick smiled. “[Familiar]s are great, but they’re a big responsibility.”
+
+“I’m not ready for that.”
+
+“Understandable. You could try for some [Conjure Force Elemental] sound enhancers, instead. Might not work, though. There’s a deep link between the soul and magic, and if your summon doesn’t have a soul, then that whole endeavor might be for naught.”
+
+“That is exactly correct.” And then Nirzir dropped that line of thought, and looked around. “So this is how other people feel around me. Did not expect that.”
+
+Erick laughed.
+
+Nirzir fought off a smile.
+
+“I think your only problem was that you didn’t spend enough mana on the working. [Invisibility] is an expensive spell. 100 mana for ten minutes of action, for a single person.”
+
+“True, but… Hmm.” Nirizir said, “[Invisible Squad] is cheap enough.” She flashed him a blue box. “I would expect [Hidden Fort] to be cheap, too.”
+
+Invisible Squad, instant, close range, 350 mana
+
+You and up to 10 close targets become invisible for 1 hour. If a selected person commits Health harm, their individual invisibility will fail.
+
+Nirzir said, “I just removed the ‘incurs a cost while moving’ and replaced it with the other variant restriction of [Invisibility].”
+
+Erick shrugged. “Try again tomorrow?”
+
+“I suppose so.” Nirzir silently ripped up a tiny bit of her soul, removing the spell she had just made, as she offered, “Do you wish to learn some spell Voiding, now?”
+
+Erick looked to Poi. “We probably have some time.”
+
+Poi said, “Teressa is not done with lunch yet. Maybe 30 more minutes.”
+
+Erick nodded, then turned back to Nirzir. “Let’s go back outside and return our structures to nature.”
+
+Nirzir readily agreed.
+
+Soon enough, the three of them were back out on the grasslands, and their two small towers had their spellworks removed, and then a Shaping applied to return them to the ground.
+
+And then they took their positions, twelve meters from each other.
+
+Nirzir asked, “Do you have a Void Song ability already?”
+
+“Not quite. I was going to use this.” Erick shut off [Greater Lightwalk] and switched to [Physical Domain]. Nothing visibly changed, but the air for a good five kilometers in every direction was now under his power. “It might not wor— ah. You can sense that, eh?”
+
+Nirzir’s eyes were wide as she looked around in every direction. Her skin was already white, but she paled just a bit further. “Ye—” Her voice broke. “Yes. I can sense that. Can you—”
+
+Erick pulled his [Physical Domain] closer, keeping it at roughly ten meters radius. Nirzir stood about eleven meters away from him, so she was now out of the spell’s effect, and it showed. She relaxed, and breathed deeper.
+
+… Erick had no idea why he didn’t conjure his new aura as a smaller size. He had done that before? Why didn’t he do that this time? Just to show off?
+
+Erick said, “Sorry about that.”
+
+“Thank you.” Nirzir continued, “So this is how we do it back in the temple: The attacker will cast normal [Force Bolt]s at the defender, and the defender has to Void the spells coming at them. At first, you target the spells themselves with your aura. This is the easy part. Then, you learn how to automatically target certain spells with your aura. This is slightly more difficult. The final step is working toward shutting down the casting of targeted spells by interfering in their ability to be cast correctly. Simple in design; hard in practice, because the Script does many things for people, and one of the things it does is allow them to effortlessly cast small magics. Because these small magics are so easy to cast, it is very, very difficult to automatically counter them.”
+
+Erick inwardly smirked, because Nirzir was giving him the same lesson that Quilatalap had given him about counterspelling.
+
+Nirzir continued, “But you’re not actually using a Void aura, are you?”
+
+“Nope.” Erick said, “But I want to try with this aura, anyway.”
+
+“Okay. I’m not sure how— We can do it this way.”
+
+Erick said, “Go ahead and state your concern.”
+
+“… Void Magic naturally interferes with any magic that is not Void Magic. The only two schools of Elemental Magic that connect to Void are Abyss and Starlight. By contrast, Shadow and Light each connect to half of everything. So if you’re trying some sort of Light-based aura, then… It won’t be able to easily disrupt my [Force Bolt]s.”
+
+Erick pondered. Something didn’t sit right with what Nirzir said…
+
+Oh.
+
+He said, “I’m not using a Light or a Shadow aura, but shouldn’t a Shadow aura rip through spells as well as Void? [Dispel] is Shadow-based.”
+
+Nirzir brightened, “[Dispel] is shadow-based, but Void is so much better at disrupting spellwork! Or at least, it would be. The Script demands a parity of cost when it comes to erasing spellwork, but if not for that, then you could Void a thousand mana working for three mana worth of Void. As it is, you have to get rather good with Void to get anywhere near that original usage of the Element.” She added, “By this same restriction, though, Void is made tamer. Under the Script, Void won’t annihilate a Singer’s body unless the Singer is completely uncaring for their own wellbeing.”
+
+Huh. Well that was interesting.
+
+Erick flapped a hand in the air, saying, “This is a physical aura.” A [Physical Domain], actually. “It might work to break apart your Bolts, or not. I made it in preparation for coming to Songli, but I never got a chance to use it except for shutting down some thunder birds.”
+
+“Is it… A Force Aura?”
+
+“No. A physical aura.”
+
+Nirzir’s eyes went wide as she understood. “Oh!” She looked to the air around Erick. Her lips scrunched. “Some people have luck with other types of negation auras. I imagine that using a [Physical Aura] would be like using an [Air Aura]? Not sure. Not sure how to help you check your spellwork, either. Let’s try it? See what happens?”
+
+Erick nodded. “Whenever you’re ready.”
+
+With absolutely no hesitation, a Bolt of violet light zipped out of Nirzir’s shoulder to curve through the air and head straight to Erick’s chest, rapidly passing the edge of his [Physical Domain]. Erick reacted with a pulse of power through his aura, attempting to Discord the spell; to take what he knew of [Force Bolt] and invert that power upon the physical world.
+
+Discord X, instant, super large area, 250 mana
+
+<Shift the physical into discordant chaos.> Lasts 10 minutes.
+
+Particle Mage Only
+
+The violet Bolt got all the way through his aura and struck him in the chest, feeling like a punch from a strong toddler, briefly flickering his white [Personal Ward] to visibility. Discord had done nothing.
+
+“Hmm.” Erick said, “Again.”
+
+Nirzir rapidly obliged.
+
+The second and third Bolt struck true, along with the fourth and then the fifth. After the sixth failed interception, Erick switched it up, and instead of using a Discordant force to negate the mana based spell, he went for a more direct approach.
+
+Particles were not based in Force Magic or Elemental Magic, after all, so there was bound to be some issues with getting one to work on the other. Erick had done well against the Thunder Magic of the thunder birds, but their large booming spells were a rather easy thing to stop, since their magic was attempting to vibrate the physical, and Erick had direct control over the physical. But against Force magic? It was as though he was using a spoon to cut a steak.
+
+So, instead of directly countering and ripping apart the opposing spellwork, what if he just… solidified the natural, physical world, so that the mana wasn’t present? Oh, sure, mana flowed through everything, but it still had trouble getting through denser objects, after all.
+
+The seventh violet spell arced through the air, entering Erick’s space, while Erick used the Normalize function of his aura to empower the natural world.
+
+Normalize X, instant, super large area, 250 mana
+
+<Empower normal physical functionality throughout the physical world, creating a myriad of individual effects. Directly weaken some forms of magic.> Lasts 10 minutes.
+
+Particle Mage Only
+
+The Bolt struck him in the chest like the fist of a sleepy toddler. Erick readily noticed the change.
+
+Nirzir noticed, too. She paused in sending out Bolts, to say, “That one worked. At a proper range, I think whatever you are doing would be enough against a Bolt.”
+
+“Or other, lesser magics.” Erick said, “But that’s not good enough.”
+
+Nirzir nodded, solemnly. “No; it is not. I have [Force Beam]s, too?”
+
+“Hit me with more Bolts, first.”
+
+“You know!” Poi suggested, “You could intercept spells thrown at a target instead of spells thrown at your self.”
+
+Erick chuckled. “Maybe when we move to [Force Beam]s and otherwise.”
+
+Nirzir did not like Poi’s suggestion. “The final test to become a Singer is to negate a barrage of spells coming at you, including [Stoneshape] being applied underfoot and third tier [Force Beam]s of all kinds, including Decay and Void types.” Nirzir said, “Getting ready for that day can sometimes awaken the aura of a person.”
+
+“Sounds like a plan!” Erick said, “But maybe after I figure out this small stuff, first. Hit me with some more Bolts.”
+
+A pair of violet Bolts arced out of Nirzir, one going right and the other going left, and then both aimed straight for Erick. This time, Erick prepared to Normalize the air around the spells, while also Harmonizing his own Normalize in an attempt to make the physical world even more solid.
+
+Harmonize X, instant, super large area, 250 mana
+
+<Shift the physical into individualized order.> Lasts 10 minutes.
+
+Particle Mage Only
+
+The [Force Bolt]s struck the edge of Erick’s [Physical Domain] like they had struck water, slowing down, the air around the violet Bolts turning thick. The Bolts continued on, but they lost power much, much faster than they should have. The Bolts managed to travel three meters before petering out into motes of purple light. The effect was exactly what would have happened if the Bolts had gone past their maximum range.
+
+Erick smiled. It worked. Not perfectly, but after a fashion, it worked.
+
+Nirzir frowned a little; puzzled. “Spatial Magic— No. Oh. You just made the air thicker. That’s not like an [Air Aura] at all.” Her eyes went wide. “Oh. That has a lot of applications.”
+
+“Try a [Force Beam] this time.”
+
+Poi cringed—
+
+Nirzir obliged.
+
+A radiant violet light exploded from her knee and impacted Erick’s chest, eliciting a bright white flash from his [Personal Ward].
+
+Nirzir rapidly moved the beam away from Erick before canceling it altogether, her eyes going wide as she rushed forward, exclaiming, “Oh Rozeta! I didn—” She had only gotten two steps closer, before stopping. “Oh. You’re fine. Right. You probably have some mythical defenses, too.”
+
+Erick smiled as he patted his chest where the Beam had struck. A small [Mend] fixed a tiny cut the violet beam had ripped into the fabric, as he said, “Just a [Personal Ward]. Back up and try again, and then I want to see how your own Void Song works against my small spells.”
+
+Nirzir stepped backward. “Ready?”
+
+Erick readied Amplify, prepared to combine it with Harmonize and Normalize.
+
+Amplify X, instant, super large area, 250 mana
+
+<Fill the physical with rising power, enabling a myriad of possible physical effects.> Lasts 10 minutes.
+
+Particle Mage Only
+
+He said, “Read—”
+
+A violet beam of light erupted from Nirzir’s right shoulder and entered Erick’s [Physical Domain] like it was a stream of water flowing into a river. The beam was swallowed up completely, turning into nothing more than diffuse purple light that rapidly faded back into the manasphere like spellwork breaking down. It was kinda pretty.
+
+Nirzir saw this. She rapidly moved the beam left and right, trying to find an opening in Erick’s spellwork. She found several. The beam briefly continued forward like water from a sputtering hose, but Erick moved his power around, blocking the beam. In three seconds he solved the weakness problem entirely by flooding his entire Domain with Normalize, Harmonize, and Amplify.
+
+When Nirzir’s first [Force Beam] faded, she instantly cast another one. The second violet beam met the fate of the first one, becoming little more than purple light upon the edge of Erick’s power. And then Nirzir unleashed ten beams at once, each one criss crossing and overlapping with each other as she prowled for weakness. She found none.
+
+Erick found it much easier to simply hold his Domain in this trio configuration than to try and counter in specific areas. Perhaps he was cheating to use his Domain instead of an actual [Physical Aura], but they were practically the same thing, right?
+
+… No; they weren’t the same thing at all.
+
