@@ -374,6 +374,7 @@
     "akasha/editor-extension": {
       "name": "@akasha/editor-extension",
       "dependencies": {
+        "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
       "peerDependencies": {
