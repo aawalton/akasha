@@ -9,5 +9,5 @@ export const gbwwStorySlug = {
   slug: "gbww-story-slug",
   propertySlug: "story-slug",
   definition: "the book written out of a reading",
-  targetPageTypeSlug: "page-type/collection",
+  targetPageTypeSlug: "page-type/book",
 } as const satisfies RelationProperty

@@ -34,8 +34,8 @@ export const bookOfEverything = {
       statement: "A node's coverage is worked out from the children beneath the node.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The books are a tree of markdown folders rather than pages.",
+      invariantKind: "departure",
+      statement: "A topic names the topic above it rather than sitting in that topic's folder.",
     },
   ],
 } as const satisfies WorkspacePackage

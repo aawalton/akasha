@@ -39,6 +39,7 @@ export const gbwwReading = {
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
+    { pagePropertySlug: "collection-author", required: true, many: false },
     { pagePropertySlug: "gbww-work", required: true, many: false },
     { pagePropertySlug: "gbww-section", required: true, many: false },
     { pagePropertySlug: "gbww-plan-key", required: true, many: false },
