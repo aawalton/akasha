@@ -20,6 +20,7 @@ export const editorExtension = {
     "module/palette",
     "module/tree-filter",
     "module/editor-group",
+    "module/window-identity",
   ],
   invariants: [
     {
