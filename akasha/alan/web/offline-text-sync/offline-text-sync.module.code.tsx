@@ -5,18 +5,15 @@ import {
   parsePositionWriteDetail,
 } from "@akasha/pages-ui-components/position-write-event"
 import { getContentPersistence } from "@akasha/pages-ui-store/singleton"
-import { loadStoryCatalog } from "@collections/litrpg/nova/catalog"
+import { selectReadAheadChapterIds, selectUnreadChapters } from "@akasha/reading/chapter-choosing"
 import {
   loadChapterForOffline,
   loadEagerCarveoutStoryIds,
   loadReadingActiveStoryIds,
   writeChapterCompletion,
   writeChapterPosition,
-} from "@collections/litrpg/nova/offline-sync"
-import {
-  selectReadAheadChapterIds,
-  selectUnreadChapters,
-} from "@collections/litrpg/nova/select-internals"
+} from "@akasha/reading/offline-reading"
+import { loadStoryCatalog } from "@akasha/reading/story-catalog"
 import { useEffect, useRef } from "react"
 import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
