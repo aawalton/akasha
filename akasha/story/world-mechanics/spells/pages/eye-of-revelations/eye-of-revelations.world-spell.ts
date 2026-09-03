@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const eyeOfRevelations = {
   id: "01a06572-95bf-7901-bf91-fe1763e0e001",

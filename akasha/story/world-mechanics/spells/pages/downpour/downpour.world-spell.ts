@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const downpour = {
   id: "01a06572-95be-7a13-bf92-e046bacb3b27",

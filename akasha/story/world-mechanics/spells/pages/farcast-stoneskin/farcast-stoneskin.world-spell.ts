@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const farcastStoneskin = {
   id: "01a06572-95c0-71c2-b5cc-42de1f4ab6c3",

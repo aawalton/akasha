@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const distantMirror = {
   id: "01a06572-95be-76a0-a80d-ee5d5971bcf1",

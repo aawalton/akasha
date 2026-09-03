@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.ts"
+import type { WorldSpell } from "../world-spell.page-type.ts"
 
 export const conjureWhiteoutBlizzard = {
   id: "01a06572-95ba-77a9-8604-4cf23f85ef24",

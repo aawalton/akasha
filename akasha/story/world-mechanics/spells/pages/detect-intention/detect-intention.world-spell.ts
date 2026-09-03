@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const detectIntention = {
   id: "01a06572-95bc-7927-9553-cda66abc5259",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const empowerSpell = {
   id: "01a06572-95bf-7c51-a296-cf866716debb",

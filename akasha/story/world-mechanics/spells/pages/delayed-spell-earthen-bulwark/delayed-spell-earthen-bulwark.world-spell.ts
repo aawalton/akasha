@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const delayedSpellEarthenBulwark = {
   id: "01a06572-95bc-7dc0-850b-d55a22e13d00",

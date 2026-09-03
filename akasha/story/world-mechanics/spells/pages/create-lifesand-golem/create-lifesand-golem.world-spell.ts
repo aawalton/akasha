@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const createLifesandGolem = {
   id: "01a06572-95bb-70ec-90df-9321b2568192",

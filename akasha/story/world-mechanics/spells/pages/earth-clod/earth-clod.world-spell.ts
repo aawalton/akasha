@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const earthClod = {
   id: "01a06572-95be-71bc-a433-cf332d64b1de",

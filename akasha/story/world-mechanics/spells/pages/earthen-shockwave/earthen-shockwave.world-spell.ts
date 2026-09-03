@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const earthenShockwave = {
   id: "01a06572-95be-73dd-a477-e9d2f6bbd508",

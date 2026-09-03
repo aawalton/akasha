@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const completeHush = {
   id: "01a06572-95b9-77a3-a116-94633e06b32c",

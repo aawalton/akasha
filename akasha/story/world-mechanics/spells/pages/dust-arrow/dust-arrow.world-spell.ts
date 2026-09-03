@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const dustArrow = {
   id: "01a06572-95be-7650-a39a-9846858b183f",

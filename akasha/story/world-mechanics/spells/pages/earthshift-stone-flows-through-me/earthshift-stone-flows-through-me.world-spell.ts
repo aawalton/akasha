@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const earthshiftStoneFlowsThroughMe = {
   id: "01a06572-95bf-7ff2-b101-ebe4f6ef93ff",

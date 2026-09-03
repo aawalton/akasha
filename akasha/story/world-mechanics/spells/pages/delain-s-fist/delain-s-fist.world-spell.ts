@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const delainSFist = {
   id: "01a06572-95bc-7505-86c4-1370f44b757d",

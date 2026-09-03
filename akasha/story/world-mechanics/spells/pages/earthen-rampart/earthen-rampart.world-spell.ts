@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const earthenRampart = {
   id: "01a06572-95be-7121-831e-d56fd1e5d86a",

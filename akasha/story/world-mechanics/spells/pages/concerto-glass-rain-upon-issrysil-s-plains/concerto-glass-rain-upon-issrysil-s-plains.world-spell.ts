@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const concertoGlassRainUponIssrysilSPlains = {
   id: "01a06572-95b9-78e4-b272-5e1d69e384b7",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const burningGrandLightning = {
   id: "01a06572-95b8-7853-9635-d9561d50d553",

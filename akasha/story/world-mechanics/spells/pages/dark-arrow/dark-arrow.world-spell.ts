@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const darkArrow = {
   id: "01a06572-95bb-7cd1-ab55-518d9d5ca006",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const camouflagedMagic = {
   id: "01a06572-95b8-7497-abba-918b65635c6f",

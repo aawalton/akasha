@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const cushion = {
   id: "01a06572-95bb-775b-ad58-2d8b8e82ae55",

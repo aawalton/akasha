@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const dreamPurge = {
   id: "01a06572-95be-7da6-acd9-b5690f75e0f5",

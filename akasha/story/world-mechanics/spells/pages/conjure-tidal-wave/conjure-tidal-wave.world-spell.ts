@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const conjureTidalWave = {
   id: "01a06572-95ba-7b33-92cc-40d3fac94106",

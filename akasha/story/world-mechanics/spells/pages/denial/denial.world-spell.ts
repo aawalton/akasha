@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const denial = {
   id: "01a06572-95bc-7393-842b-c369e06ce0b7",

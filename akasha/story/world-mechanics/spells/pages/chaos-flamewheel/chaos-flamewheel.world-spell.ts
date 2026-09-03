@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const chaosFlamewheel = {
   id: "01a06572-95b8-753d-a415-6526599613cc",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const charm = {
   id: "01a06572-95b8-77f9-9224-3f4c93457259",

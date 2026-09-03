@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const elementalCohesion = {
   id: "01a06572-95bf-7e24-a1fa-8dbdac49b717",

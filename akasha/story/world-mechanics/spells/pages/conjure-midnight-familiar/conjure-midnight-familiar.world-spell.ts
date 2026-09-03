@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const conjureMidnightFamiliar = {
   id: "01a06572-95ba-7fb0-85a9-42a06d787234",

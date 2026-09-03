@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const earthenSpire = {
   id: "01a06572-95bf-7c69-85c3-1e57fcfc2a69",

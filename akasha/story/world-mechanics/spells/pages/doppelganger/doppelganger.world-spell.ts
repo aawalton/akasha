@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const doppelganger = {
   id: "01a06572-95be-703c-b47c-8e36590e9b5b",

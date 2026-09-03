@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const eyesOfTheWyrm = {
   id: "01a06572-95bf-787a-af00-a097c1ff592c",

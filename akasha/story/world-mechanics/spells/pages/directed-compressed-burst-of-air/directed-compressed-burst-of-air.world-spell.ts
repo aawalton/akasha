@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const directedCompressedBurstOfAir = {
   id: "01a06572-95bd-7f68-8d22-c3d54a5beded",

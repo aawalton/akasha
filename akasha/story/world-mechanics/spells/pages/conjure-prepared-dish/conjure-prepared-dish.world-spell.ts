@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const conjurePreparedDish = {
   id: "01a06572-95ba-7d1b-bc56-163b5ab2ad70",

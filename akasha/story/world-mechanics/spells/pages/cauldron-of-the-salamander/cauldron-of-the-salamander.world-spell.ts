@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const cauldronOfTheSalamander = {
   id: "01a06572-95b8-783c-9578-177a15f56ece",

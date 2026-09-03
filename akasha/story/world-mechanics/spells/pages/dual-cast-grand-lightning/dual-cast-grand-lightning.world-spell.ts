@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const dualCastGrandLightning = {
   id: "01a06572-95be-7973-825f-b625b48f2bcc",

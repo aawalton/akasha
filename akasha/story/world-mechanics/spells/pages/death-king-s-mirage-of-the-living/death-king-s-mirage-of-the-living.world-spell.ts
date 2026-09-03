@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const deathKingSMirageOfTheLiving = {
   id: "01a06572-95bb-74f8-97f0-663298f01ab1",

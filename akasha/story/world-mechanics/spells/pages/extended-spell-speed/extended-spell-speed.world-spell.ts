@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const extendedSpellSpeed = {
   id: "01a06572-95bf-77dc-b9cc-09965fc57b5b",

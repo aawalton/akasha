@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const farSight = {
   id: "01a06572-95c0-70ac-a028-a8da021cc2e7",

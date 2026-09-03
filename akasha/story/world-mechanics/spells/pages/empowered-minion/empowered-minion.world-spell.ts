@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const empoweredMinion = {
   id: "01a06572-95bf-74c1-8265-e9fbd72322f4",

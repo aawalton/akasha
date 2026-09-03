@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const empoweredDetectTruth = {
   id: "01a06572-95bf-7bf4-94e6-afdb4f95dc03",

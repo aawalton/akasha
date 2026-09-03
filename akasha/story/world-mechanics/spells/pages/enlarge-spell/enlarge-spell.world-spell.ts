@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const enlargeSpell = {
   id: "01a06572-95bf-7681-a7e4-65c81de865b8",

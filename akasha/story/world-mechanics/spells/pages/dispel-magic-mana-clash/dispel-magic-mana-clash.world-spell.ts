@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const dispelMagicManaClash = {
   id: "01a06572-95be-7c14-ab91-03c3efd6c919",

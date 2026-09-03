@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.ts"
+import type { WorldSpell } from "../world-spell.page-type.ts"
 
 export const circleOfPurification = {
   id: "01a06572-95b9-7cae-9099-efa9950276fe",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const chodlekithSObsessiveCleaningCloth = {
   id: "01a06572-95b9-7af6-8482-d6d19f85dee6",

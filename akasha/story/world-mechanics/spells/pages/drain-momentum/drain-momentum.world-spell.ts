@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const drainMomentum = {
   id: "01a06572-95be-7930-8786-f4c6366f7ccc",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const deafening = {
   id: "01a06572-95bb-7166-9700-da0a80a1cc40",

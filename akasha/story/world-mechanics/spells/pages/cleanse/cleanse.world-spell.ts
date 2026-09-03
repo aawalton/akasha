@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const cleanse = {
   id: "01a06572-95b9-77be-81df-cba07859bdf5",

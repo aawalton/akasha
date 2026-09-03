@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const createElementMagnetizedIron = {
   id: "01a06572-95bb-7053-91e6-cc9e52a35a0f",

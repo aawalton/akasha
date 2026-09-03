@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const copySpell = {
   id: "01a06572-95bb-7eb6-ae13-b3806b7fce11",

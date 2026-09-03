@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const cageOfImperviousForce = {
   id: "01a06572-95b8-7ce6-b060-9960e86dae82",

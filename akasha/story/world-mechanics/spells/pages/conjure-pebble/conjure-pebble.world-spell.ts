@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const conjurePebble = {
   id: "01a06572-95ba-7141-b9a8-984f38c1de11",

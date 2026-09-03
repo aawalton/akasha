@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const cracklingArmorOfTheLightningEmperor = {
   id: "01a06572-95bb-707a-bf6c-d9d52f655671",

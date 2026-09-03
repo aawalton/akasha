@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const deathblast = {
   id: "01a06572-95bc-76b7-a25c-6b9014be16a3",

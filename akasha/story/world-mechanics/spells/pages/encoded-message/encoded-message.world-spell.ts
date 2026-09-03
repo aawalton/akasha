@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const encodedMessage = {
   id: "01a06572-95bf-7cc2-8f08-c2aed31d7021",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const cageOfPallass = {
   id: "01a06572-95b8-7f9a-93de-9c6dc12d2c3a",

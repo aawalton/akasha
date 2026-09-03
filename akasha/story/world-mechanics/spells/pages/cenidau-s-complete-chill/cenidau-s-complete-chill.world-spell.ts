@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const cenidauSCompleteChill = {
   id: "01a06572-95b8-7ff6-baa0-143207158517",

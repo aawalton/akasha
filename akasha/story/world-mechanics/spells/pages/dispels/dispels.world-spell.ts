@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const dispels = {
   id: "01a06572-95be-7323-9d5b-96f09e618054",

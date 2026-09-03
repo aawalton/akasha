@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const directedSpellWindstormOfKaraz = {
   id: "01a06572-95bd-713b-93ed-36b21f18e8a6",

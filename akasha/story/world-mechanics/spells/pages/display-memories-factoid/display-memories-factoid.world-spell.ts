@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const displayMemoriesFactoid = {
   id: "01a06572-95be-7d0e-a18e-0c9fa3c0ec2a",

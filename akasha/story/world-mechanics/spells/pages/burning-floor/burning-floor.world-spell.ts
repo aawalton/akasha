@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const burningFloor = {
   id: "01a06572-95b8-70f1-9162-209269509aa6",

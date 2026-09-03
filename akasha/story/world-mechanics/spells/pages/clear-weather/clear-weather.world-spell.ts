@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const clearWeather = {
   id: "01a06572-95b9-7133-bc33-f386712f4dec",

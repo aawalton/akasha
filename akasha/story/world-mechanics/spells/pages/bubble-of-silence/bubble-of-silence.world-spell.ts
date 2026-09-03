@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const bubbleOfSilence = {
   id: "01a06572-95b7-79c1-9d17-4fb81d2c7c52",

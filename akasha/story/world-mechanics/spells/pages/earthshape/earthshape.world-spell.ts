@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const earthshape = {
   id: "01a06572-95bf-7981-b4c1-4e7486e26e14",

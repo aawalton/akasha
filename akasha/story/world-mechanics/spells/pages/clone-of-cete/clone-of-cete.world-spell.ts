@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const cloneOfCete = {
   id: "01a06572-95b9-7703-9348-bfa6fa19c692",

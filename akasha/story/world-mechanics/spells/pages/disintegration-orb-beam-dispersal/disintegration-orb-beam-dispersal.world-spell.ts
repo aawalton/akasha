@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const disintegrationOrbBeamDispersal = {
   id: "01a06572-95bd-7eb8-986f-1bf6be5eb4da",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../world-spell.page-type.ts"
+import type { WorldSpell } from "../world-spell.page-type.ts"
 
 export const evercut = {
   id: "01a06572-95bf-76eb-8c53-f9c249c79190",

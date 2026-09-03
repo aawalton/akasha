@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const detectAura = {
   id: "01a06572-95bc-7217-8f43-db7994bd599b",

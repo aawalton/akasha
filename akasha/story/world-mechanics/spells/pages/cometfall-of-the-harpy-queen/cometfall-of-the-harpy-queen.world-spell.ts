@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const cometfallOfTheHarpyQueen = {
   id: "01a06572-95b9-7b5a-9e1e-6cbd08e6ef93",

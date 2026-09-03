@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const deepSlumber = {
   id: "01a06572-95bc-789f-97a9-ccab47c4edb9",

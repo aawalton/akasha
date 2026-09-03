@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const deepwoodBarkskin = {
   id: "01a06572-95bc-74e2-a1cc-ef8696e6907a",

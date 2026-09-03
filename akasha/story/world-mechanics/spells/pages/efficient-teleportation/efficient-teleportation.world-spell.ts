@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const efficientTeleportation = {
   id: "01a06572-95bf-7f10-95e9-a50948c93e59",

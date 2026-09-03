@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const cleansingBubbleBarrier = {
   id: "01a06572-95b9-772d-ba9a-f1b1f0d35426",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const burstOfDispelMagic = {
   id: "01a06572-95b8-7d00-bdee-e97662cd54bd",

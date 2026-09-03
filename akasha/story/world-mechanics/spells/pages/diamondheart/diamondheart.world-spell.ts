@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const diamondheart = {
   id: "01a06572-95bd-7509-b860-770b62fac209",

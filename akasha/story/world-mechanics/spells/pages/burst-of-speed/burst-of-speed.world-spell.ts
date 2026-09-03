@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const burstOfSpeed = {
   id: "01a06572-95b8-74c6-b15f-96e1cde68d49",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const covertAngle = {
   id: "01a06572-95bb-7ba1-acb6-17dbc3cfebb3",

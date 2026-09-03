@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const explosiveWords = {
   id: "01a06572-95bf-7cee-af06-ea9052fbca82",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const detectMagic = {
   id: "01a06572-95bd-7409-9d7d-2e7f4beddac1",

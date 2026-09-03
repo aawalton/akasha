@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const enchantmentAdamantiumSStrength = {
   id: "01a06572-95bf-7bf4-a28e-f701316d8717",

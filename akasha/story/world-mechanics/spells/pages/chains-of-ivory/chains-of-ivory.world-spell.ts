@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const chainsOfIvory = {
   id: "01a06572-95b8-7751-9805-6166c2b4579f",

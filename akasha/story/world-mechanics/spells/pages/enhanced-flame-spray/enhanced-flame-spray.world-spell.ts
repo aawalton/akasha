@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const enhancedFlameSpray = {
   id: "01a06572-95bf-70d2-9294-7e46e315b276",

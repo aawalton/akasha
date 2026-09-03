@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const detectInsect = {
   id: "01a06572-95bc-7d5c-8bc1-63458ae202af",
