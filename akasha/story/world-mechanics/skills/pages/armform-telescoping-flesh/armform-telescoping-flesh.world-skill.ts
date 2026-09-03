@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const armformTelescopingFlesh = {
   id: "01a06575-97ec-78ed-91b7-a622bd9c5d99",

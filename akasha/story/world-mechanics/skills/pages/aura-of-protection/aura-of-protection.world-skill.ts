@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const auraOfProtection = {
   id: "01a06575-97ef-7117-837f-b49b932a902b",

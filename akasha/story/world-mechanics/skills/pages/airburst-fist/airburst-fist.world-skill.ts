@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const airburstFist = {
   id: "01a06575-97ea-7b69-b5d8-88caad8cbc67",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const angleCut = {
   id: "01a06575-97eb-7cf2-8efc-0d7fe2f73778",

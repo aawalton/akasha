@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const allTerrainStep = {
   id: "01a06575-97ea-76e7-b67d-a527aa355988",

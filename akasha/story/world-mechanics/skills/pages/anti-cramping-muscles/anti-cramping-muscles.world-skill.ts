@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const antiCrampingMuscles = {
   id: "01a06575-97eb-726c-b60d-e798649886af",

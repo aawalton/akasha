@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const adaptivePlumbing = {
   id: "01a06575-97e9-7807-9fac-a5d674442102",

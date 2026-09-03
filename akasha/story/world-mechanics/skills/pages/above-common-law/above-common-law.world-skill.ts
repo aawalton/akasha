@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aboveCommonLaw = {
   id: "01a06575-97e7-737c-8799-f7aeaf930fbb",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const armyDuplicateProjectiles = {
   id: "01a06575-97ed-7069-87d0-c4fff1341862",

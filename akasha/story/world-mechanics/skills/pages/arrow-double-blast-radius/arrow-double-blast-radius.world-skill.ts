@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const arrowDoubleBlastRadius = {
   id: "01a06575-97ed-767b-aecc-d9240bf7ba3c",

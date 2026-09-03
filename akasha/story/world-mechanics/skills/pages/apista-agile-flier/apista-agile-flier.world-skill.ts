@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const apistaAgileFlier = {
   id: "01a06575-97eb-7d5a-b820-bcb73368c4c9",

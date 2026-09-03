@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const artifactDoubledCharging = {
   id: "01a06575-97ed-74ba-a41e-eaad8620d935",

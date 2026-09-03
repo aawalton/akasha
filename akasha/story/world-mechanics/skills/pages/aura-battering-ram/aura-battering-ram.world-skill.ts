@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const auraBatteringRam = {
   id: "01a06575-97ee-7c18-9789-47277e8d7bdb",

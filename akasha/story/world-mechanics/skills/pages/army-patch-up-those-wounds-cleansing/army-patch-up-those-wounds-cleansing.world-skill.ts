@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const armyPatchUpThoseWoundsCleansing = {
   id: "01a06575-97ed-7bbf-8edc-41a50d5fdc9e",

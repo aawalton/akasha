@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const ancientForm = {
   id: "01a06575-97eb-7bdc-935e-1c85c17c2548",

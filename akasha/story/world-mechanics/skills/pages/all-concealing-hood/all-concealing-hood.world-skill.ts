@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const allConcealingHood = {
   id: "01a06575-97ea-71ca-9590-264a5acc6b00",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aBulletADayArmorPiercingRound = {
   id: "01a06575-97e6-701a-ade5-3bc74e2e7260",

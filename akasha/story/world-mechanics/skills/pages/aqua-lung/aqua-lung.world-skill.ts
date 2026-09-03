@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aquaLung = {
   id: "01a06575-97ec-7a48-ac86-b7a5e962b4a6",

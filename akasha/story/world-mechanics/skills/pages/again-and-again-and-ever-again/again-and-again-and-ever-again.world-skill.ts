@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const againAndAgainAndEverAgain = {
   id: "01a06575-97ea-7c35-bf1f-92ad85d6a233",

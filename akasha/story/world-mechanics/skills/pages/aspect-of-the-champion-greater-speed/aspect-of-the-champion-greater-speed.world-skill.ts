@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aspectOfTheChampionGreaterSpeed = {
   id: "01a06575-97ee-75e2-8ef7-b008a5f126fc",

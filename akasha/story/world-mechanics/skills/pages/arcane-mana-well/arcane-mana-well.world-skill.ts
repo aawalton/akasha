@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const arcaneManaWell = {
   id: "01a06575-97ec-7356-a716-8fbaa2677dfc",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const activateArtifactIncredibleEffect = {
   id: "01a06575-97e9-7976-87f8-7036f1162a75",

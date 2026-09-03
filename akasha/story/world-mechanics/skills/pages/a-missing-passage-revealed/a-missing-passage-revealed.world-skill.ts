@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aMissingPassageRevealed = {
   id: "01a06575-97e7-7e2a-9317-4f92ddadb7d3",

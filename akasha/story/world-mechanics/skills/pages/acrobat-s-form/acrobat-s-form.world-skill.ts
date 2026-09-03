@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const acrobatSForm = {
   id: "01a06575-97e8-75c6-b459-d24fbeea9d93",

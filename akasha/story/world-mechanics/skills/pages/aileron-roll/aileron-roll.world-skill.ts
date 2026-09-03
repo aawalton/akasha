@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aileronRoll = {
   id: "01a06575-97ea-7dd3-b59b-61746cddd5ff",

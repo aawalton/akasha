@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const arrowguard = {
   id: "01a06575-97ed-7e67-a3dd-344bf9923a32",

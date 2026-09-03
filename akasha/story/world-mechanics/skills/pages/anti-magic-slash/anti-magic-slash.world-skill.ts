@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const antiMagicSlash = {
   id: "01a06575-97eb-7fb0-9f66-8a6437932cfa",

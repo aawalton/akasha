@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aspectOfSilver = {
   id: "01a06575-97ee-7a79-a332-f164af3687ba",

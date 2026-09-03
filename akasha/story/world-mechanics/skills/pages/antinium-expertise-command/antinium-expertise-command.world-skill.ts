@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const antiniumExpertiseCommand = {
   id: "01a06575-97eb-7b88-9fea-793091c70fe3",

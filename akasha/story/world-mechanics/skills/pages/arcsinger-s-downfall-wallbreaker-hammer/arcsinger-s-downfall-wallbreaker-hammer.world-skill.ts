@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const arcsingerSDownfallWallbreakerHammer = {
   id: "01a06575-97ec-78c3-9b22-d10bb774f1fb",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const arrowOfTheFutureMissileStrike = {
   id: "01a06575-97ed-75b4-b6b5-382d16aafbcc",

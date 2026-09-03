@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aegisOfTheMartyrTheFormOfGaluc = {
   id: "01a06575-97ea-7f8f-9308-efbc68eebbf3",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const armamentsOfTheLightningDragon = {
   id: "01a06575-97ec-76bc-84e5-363ea772f673",

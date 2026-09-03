@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const allOrNothingCharge = {
   id: "01a06575-97ea-7f59-9bef-c025e7ad40a6",

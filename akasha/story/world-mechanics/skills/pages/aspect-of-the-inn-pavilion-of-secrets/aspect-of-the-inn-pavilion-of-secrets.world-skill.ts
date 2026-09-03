@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aspectOfTheInnPavilionOfSecrets = {
   id: "01a06575-97ee-746e-8939-f2d61668b349",

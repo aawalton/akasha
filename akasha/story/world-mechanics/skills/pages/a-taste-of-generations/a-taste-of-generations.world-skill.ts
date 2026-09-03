@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aTasteOfGenerations = {
   id: "01a06575-97e7-7be5-b30a-2fd8e830751c",

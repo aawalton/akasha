@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const assertCommand = {
   id: "01a06575-97ee-7406-af89-7d591abeddef",

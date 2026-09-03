@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const alchemicalCoatingDullwitSLiquor = {
   id: "01a06575-97ea-79ab-8e5a-96ff7e371e8e",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const adroitProgeny = {
   id: "01a06575-97e9-700a-ac57-711142ce4b3a",

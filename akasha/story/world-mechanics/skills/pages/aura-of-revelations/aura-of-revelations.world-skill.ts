@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const auraOfRevelations = {
   id: "01a06575-97ef-7dd9-bb8a-86333bc68364",

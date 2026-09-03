@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const armyFlickerCharge = {
   id: "01a06575-97ed-76bb-bbb6-732371338739",

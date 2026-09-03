@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const alcoholBrewingMonstrousDraught = {
   id: "01a06575-97ea-7bb4-94e0-9c6f12a77cae",

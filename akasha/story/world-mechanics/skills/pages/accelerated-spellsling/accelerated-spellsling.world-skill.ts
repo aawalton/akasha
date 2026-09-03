@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const acceleratedSpellsling = {
   id: "01a06575-97e8-76f5-8088-bc950f25f5ca",

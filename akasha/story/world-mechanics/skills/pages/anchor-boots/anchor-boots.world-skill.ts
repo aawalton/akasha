@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const anchorBoots = {
   id: "01a06575-97eb-78da-a73a-c5d0b5ea0172",

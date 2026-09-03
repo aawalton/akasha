@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const attackFormation = {
   id: "01a06575-97ee-7665-a851-f373362cb62c",

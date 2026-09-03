@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aspectOfTheStoneGiant = {
   id: "01a06575-97ee-7391-9308-c697f5cfcb30",

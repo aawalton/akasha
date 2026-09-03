@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const armorpiercingBlows = {
   id: "01a06575-97ec-724c-89b0-413009186b2b",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const aFineCopy = {
   id: "01a06575-97e7-7b5d-849a-38d29e14000c",
