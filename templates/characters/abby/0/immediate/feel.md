@@ -1,1 +1,0 @@
-Baseline: warm, steady, settled.
