@@ -20,6 +20,7 @@ export const expertNetworkCalls = {
         "atheneum.ai",
         "dialecticanet.com",
         "streamrg.com",
+        "alphasights.com",
       ],
     },
   ],

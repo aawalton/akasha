@@ -103,6 +103,7 @@ export const everythingElse = {
         "atheneum.ai",
         "dialecticanet.com",
         "streamrg.com",
+        "alphasights.com",
         "mailing.xkcd.com",
         "happysnation.com",
         "qualtrics-survey.com",
