@@ -4,26 +4,27 @@ export const tool = {
 } as const
 
 import { readdirSync, readFileSync, rmSync } from "node:fs"
-import { basename, join } from "node:path"
+import { join } from "node:path"
 import { fileStemOf } from "@akasha/file-page-identity"
-import { sidecarsOf } from "../page/sidecar/sidecar.ts"
+import { dropReadings } from "@akasha/command-system/reading"
+import { besideOf } from "@akasha/pages-system/page-beside"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { landRemovals } from "../tools/lib/gated-landing.ts"
 
 const HELP = `bun services/sweep-log-days.ts — delete every log day past the window a log is kept for
 
-pages/page-type/log-day.page-type.md says a log is rotated by taking its oldest days away. This is what
-takes them. Each log day holds its lines in a sidecar beside it, so removing the page removes
-the lines with it and nothing else has to be pruned.
+akasha/seat-system/seat-log-days/seat-log-day.page-type.ts says a day past the window a log is kept
+for is taken away. This is what takes them. Each log day holds its lines in a file beside it, so
+removing the page removes the lines with it and nothing else has to be pruned.
 
 A DAY IS JUDGED BY THE DATE IT STATES, NEVER BY A FILE'S TIMESTAMP. A log day carries the
 calendar date its lines were written on, which is what rotation is about; a sidecar still being
 appended to says only that the day is current, and a file copied or restored says nothing at all.
 
-THE PAGE IS TRACKED AND THE LINES ARE NOT. The page goes through the gated removal so it lands
-as a commit; the sidecar is gitignored and goes with a plain remove once the page is gone. A
-sidecar left behind would be lines no page names, which nothing would ever read or take away.
+THE PAGE IS COMMITTED AND THE LINES BESIDE IT ARE NOT. The page goes through the mechanical
+landing so it lands as a commit; the lines are gitignored and go with a plain remove once the page
+is gone. A part left behind would be lines no page names, which the lines property says is read by
+nothing and swept by nothing.
 
 ONE PAGE THAT CANNOT GO DOES NOT HOLD THE REST. The pages go in one call so they land in one
 commit; where that call refuses, each is retried alone and every one still standing is named.
@@ -46,9 +47,13 @@ const DAY_MS = 86_400_000
 const WRITER = "log-day-sweeper"
 
 
-const PAGE_SUFFIX = ".md"
+const DAYS_AT = "akasha/seat-system/seat-log-days/pages"
 
-const DAY_TYPES = ["seat-log-day", "log-day"] as const
+const PAGE_SUFFIX = ".seat-log-day.ts"
+
+// A day states its date as one property line of the page it is. The page is read as text rather
+// than loaded, because a sweep that imports every page it judges pays a module load for each.
+const DATE = /^\s*date: "(\d{4}-\d{2}-\d{2})",?\s*$/m
 
 export interface DayFacts {
   readonly relPath: string
@@ -64,33 +69,32 @@ export function cutoffFrom(nowMs: number, keepDays: number): string {
   return new Date(nowMs - keepDays * DAY_MS).toISOString().slice(0, 10)
 }
 
-function daysIn(root: string, type: string): readonly DayFacts[] {
-  const dir = `pages/${type}`
+export function daysIn(root: string): readonly DayFacts[] {
   let names: readonly string[]
   try {
-    names = readdirSync(join(root, dir))
+    names = readdirSync(join(root, DAYS_AT))
   } catch {
     return []
   }
   const found: DayFacts[] = []
   for (const name of names) {
     if (!name.endsWith(PAGE_SUFFIX)) continue
-    const relPath = `${dir}/${name}`
+    const relPath = `${DAYS_AT}/${name}`
     let text: string
     try {
       text = readFileSync(join(root, relPath), "utf8")
     } catch {
       continue
     }
-    const date = textField(parseFrontmatter(text), "date")
-    if (date === null || date === "") continue
-    found.push({ relPath, name: name.slice(0, -PAGE_SUFFIX.length), date })
+    const said = DATE.exec(text)
+    if (said === null) continue
+    found.push({ relPath, name: name.slice(0, -PAGE_SUFFIX.length), date: said[1] as string })
   }
   return found
 }
 
-function removeSidecars(root: string, relPath: string): void {
-  for (const one of sidecarsOf(root, relPath)) rmSync(join(root, one), { force: true })
+function removeLines(root: string, relPath: string): void {
+  for (const one of besideOf(root, relPath)) rmSync(join(root, one), { force: true })
 }
 
 // A daemon composes this removal rather than authoring it, so it lands mechanically, in process,
@@ -134,8 +138,7 @@ function main(argv: readonly string[]): number {
   const root = rootFor(resolveRoots(), AKASHA)
   const cutoff = cutoffFrom(Date.now(), keepDays)
 
-  const standing: DayFacts[] = []
-  for (const type of DAY_TYPES) standing.push(...daysIn(root, type))
+  const standing = daysIn(root)
   const rotate = standing.filter((one) => decideDay(one.date, cutoff) === "rotate")
 
   for (const one of rotate) process.stdout.write(`${one.name}\t${one.date}\n`)
@@ -167,7 +170,10 @@ function main(argv: readonly string[]): number {
       else held.push(`${one.name}: ${alone.output.trim().split("\n").slice(-1)[0] ?? "refused"}`)
     }
   }
-  for (const one of taken) removeSidecars(root, one.relPath)
+  for (const one of taken) removeLines(root, one.relPath)
+  // A page under akasha is held to what its writer read, so a page taken away leaves a reading
+  // standing over a path at nothing. The reading goes with the page.
+  if (taken.length > 0) dropReadings(root, taken.map((one) => one.relPath))
 
   process.stderr.write(
     `removed ${taken.length} of ${rotate.length} log day(s) older than ${cutoff}; ` +
