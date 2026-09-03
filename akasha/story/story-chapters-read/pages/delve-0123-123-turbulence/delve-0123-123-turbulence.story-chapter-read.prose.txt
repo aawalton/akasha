@@ -1,0 +1,170 @@
+Within the obscuring boundary of the lair, the environment had changed. The ruins of the village and the caves of ice were nowhere to be found. There was only the dark and frigid void to greet anyone who walked through the barrier.
+
+In the center of that void was a circle of light, revealing a low building, constructed from polished slate blocks, dusted with snow. That building contained the core, a deep blue gem about the size of a fist locked within a pillar of crystal-clear ice that extended from floor to ceiling. The only other notable features of the core room were a pair of ornate stone arches. One was filled with a section of the lair’s barrier, and the other led out into the void. The archway with the barrier across it was unidirectional—exit only. Anyone entering would have to brave the void, though it was just a five-minute walk.
+
+Rain was currently seated cross-legged on the polished floor in front of the core, his eyes closed and his UI disabled. He’d come in here to think, more than anything else. It was nigh-impossible to find time to himself in the midst of the company, and wandering off into the forest was ill-advised. Paradoxically, the core room was likely the safest place to be alone for a radius of several hundred kilometers.
+
+Nothing was going to spawn in here. The lair hadn’t generated a core panic when they’d entered the building. There simply hadn’t been energy for it. The lair’s integrity was at zero and had been since they’d finished off the essence monster. It hadn’t recovered as much as a single percentage point on its own overnight. This lair clearly wasn’t like the Fells, with its rapid recovery, and any notion of waiting for it to recharge had gone right out the window for that reason.
+
+Technically, there was a way to artificially recharge a lair, but it wasn’t an option for them, though not for lack of the required skills. Ameliah had Elemental Refinement to create Cold Mana, which was necessary to feed the core, and Rain had Essence Well to keep her going—to a point, anyway. The issue was the scale of the problem. Working together this morning, the two of them had dumped around twenty-thousand mana into the thing, and they hadn’t gotten so much as a single percentage point of integrity to show for it. Worse still, even that much had taken hours.
+
+As much as Rain had been happy to spend time alone with Ameliah, it wasn’t exactly a social exercise. There hadn’t been much conversation, just a lot of sitting and staying quiet while she worked. Elemental Refinement was a manual process, apparently, requiring strict focus and control. The shaping forms for the different mana types were just as hard to learn as those for a physical kata.
+
+Elemental mana, Rain knew, improved power and granted greater control when used for aligned spells. Ameliah nominally had access to it, but she had only worked her way through the skill far enough to be able to shape both Heat and Cold. Even then, her conversion rate was slow, much slower than was theoretically possible.
+
+Inconceivably, she’d given up on advancing the skill any further.
+
+Rain had been quick to offer to help her train it by providing mana, of course, but she’d politely declined, saying that it wasn’t an issue of mana, but of time. As a Jack, she needed to be efficient with what she chose to work on, and Elemental Refinement simply wasn’t high on the list. She’d said previously that the regeneration from Winter was already enough for her to train to the point of soulstrain anyway, and that she felt no need to make a fool of herself like Kettel.
+
+Rain chuckled, thinking of the growing rivalry between the company’s two Fire Mages. Kettel was showing admirable drive in his efforts to outdo Ava. He sucked, it was true. His training sessions had even started drawing a crowd, simply because of the entertainment value. As far as Rain was concerned, though, Kettel was on the right track. He was putting in the work. He’d even started coating his hands in mud to protect them from mageburn, reminiscent of the lard he’d greased himself with for slime-hunting in the sewers of Fel Sadanis.
+
+Rain hurriedly pushed that particular memory away before his overmana-fueled brain could conjure an image. Searching for a safe subject, he summoned his interface, loading the company roster. At the bottom was a new grouping.
+
+memberlist.odt
+
+B
+
+U
+
+I
+
+…
+
+New Awakened
+
+Support
+
+Vanna - Elemental Enhancer [Elemental Enhancement]
+
+Tahir - Healer [Restoration]
+
+Mereck - Healer [Restoration]
+
+Tank
+
+Evonna - Mace/Shield [Shieldwielding]
+
+Lyn Aleuas Draves - Staff [Staff Combat]
+
+DPS
+
+Hanes - Ranger [Sharpshooting]
+
+Crafting
+
+Shena - Woodsmith [Natureworking]
+
+Romer - Runescribe [Runecrafting]
+
+Rain smiled, looking at the names. Ascension is getting going, and sooner than I ever thought possible. Thank you, random lair. There’s going to be a lot of training going on in the next few weeks.
+
+Things had gone smoothly. Better than smoothly, in fact, as they’d managed to wring eight awakenings out of the blue instead of seven. The original plan called for an awakened escort—partly for safety, though the monster had been restrained, but more importantly, to ensure that all seven unawakened party members managed to deal damage. Only later had he thought of a way around that problem.
+
+An exploit is more like it, though a minor one.
+
+Rain had entered the lair with the seven unawakened, just as planned. Once they’d reached the blue, he’d double-checked its bonds, then monitored its health while everyone stabbed it in turns.
+
+Rain grimaced as the memory flashed across his mind. Monsters weren’t supposed to have feelings, but he still felt bad about that part.
+
+Once he’d verified that all seven had dealt damage, rather than finishing off the blue, Rain had left the lair, and more importantly, the party. That had allowed an eighth person to enter, take his spot, and land the killing blow. Because the seven had already gotten their contribution, the final member could attack freely, without holding back.
+
+Of course, there had been a slight risk of a party snafu. Some obscure rule could have ended up screwing the first seven out of their awakening. Rain had discussed this possibility at length with Staavo, as well as with the seven original candidates—it was kind of important to them, after all. The consensus that they’d reached was that the risk was worth it.
+
+While you could have more than one party in a lair, keeping them separated took incredible focus. Ameliah and Tallheart had agreed with Staavo here, but Rain had still insisted on running some experiments. The results had held up; they’d been unable to get more than one party to form in the lair, no matter what they’d tried. Apparently, their focus hadn’t been ‘incredible’ enough.
+
+Another thing they’d tried was to have someone force their way into a full lair. Velika had done it, so they knew it was possible. She’d made it look easy, even. Unfortunately, it hadn’t worked. Neither Rain, Ameliah, nor Tallheart had been able to duplicate that feat. Either there was some trick to it, or they simply lacked the power. Velika was a goldplate, after all, and thus on an entirely different level.
+
+Regardless of the risk, the tag-out plan had worked. Rain shuddered to think of the shitshow that would have occurred had it not. The original seven back in the camp would have been busy constructing a guillotine, rather than happily playing with their new powers.
+
+Rain rubbed at his neck, feeling the stress of that fear lingering in his muscles. I need to get myself a hobby. All this worrying is going to give me gray hair.
+
+Idly, he used Mana Manipulation to guide his mana in a lazy loop around his body. This would do precisely nothing, according to Ameliah. She’d been unable to explain even the simplest of the shaping katas when Rain had asked, though she had humored him enough to try. He was still determined to work on it, regardless. If nothing else, it might help improve his control for when he finally unlocked the skill.
+
+Whenever that will be.
+
+Rain sighed. It was going to be hard watching the new awakened. He was elated for the company’s growth, of course, but he also envied them. They had an easy path ahead, with skills to train and levels to earn. Rain, on the other hand, felt stuck. He was still improving his synchronization, learning the sword, working on his soul, and doing a whole host of other things, but it felt slow—never mind that his rate of progress would have made a bodybuilder from his own world cry steroid tears.
+
+Rain snorted. I think I’m addicted to leveling. So be it. If I can’t level myself, I’ll level the shit out of everyone else. He looked back at the list with new focus.
+
+Tahir had decided to become a healer rather than a DPS. This had come as a surprise to Rain, who had created the ‘Ranger’ slot with him in mind. That slot had ended up going to his fellow hunter, Hanes, which was fine—a ranged striker was needed, no matter who it was. It remained to be seen if the man would get himself a pair of scimitars and a magical panther to supplement his bow.
+
+Mereck, the former innkeeper, had won the drawing for the other healer slot. Both he and Tahir had picked up Healing Word and Intrinsic Clarity, and they’d be practicing by taking Ameliah’s place as foot-doctors at the end of each day’s march. The spell needed a valid target in order to activate, so you couldn’t just spam it on someone who was already healthy and rake in free experience. If sore feet ended up being insufficient for their training needs, well, Val had been after Lyn to duel him ever since he’d found out she was a competent chasm duelist. A broken nose or two would be just the thing for Healing Word practice.
+
+Speaking of Lyn, she had applied for the tank role, specifically as a Staff Combat Defender. She’d picked up a kata—Gazelle, for some reason—and that would be keeping her occupied for quite a while as she practiced the forms. She’d also picked up Intrinsic Strength. Most melee users took that early on, as it took a long time to level.
+
+The second tank spot had gone to Evonna. She’d decided to go for a more traditional Shield Defender class, picking up Shield Bash, which she was training under Carten’s supervision. It also required a valid target to activate, apparently, and the big man had eagerly volunteered his body for her to use as a test dummy. It was abundantly obvious that he had motivations beyond just helping a fellow shield-user.
+
+Evonna was…attractive. Not nearly as attractive as Ameliah, but attractive. Carten wasn’t that bad himself, Rain supposed, though he was no judge, not leaning in that direction. The big man had a rugged sort-of mountain-man thing going on. It seemed to be working for Evonna at any rate, the two of them flirting with each other shamelessly as they trained. It remained to be seen if it would go anywhere past that. On the one hand, it would be good if it helped Carten get over his recent breakup with Velika, but on the other hand, relationships in the company came with…issues.
+
+Rain shook his head. Sex is something I should address. We’ve got fifty people out here, and it’s bound to come up eventually. Not that there’s a lot of privacy on the road—we don’t even have tents for crying out loud—but people are people. They’ll find a way. We’ve got Val and Vanna, Jamus and Meloni, and now maybe Carten and Evonna. Oh, and Myth and Reason, of course, but them I’m not worried about because, well...
+
+Rain frowned as he stared at the core.
+
+Hmm. Now there’s a thought. Can a Chemist make magical contraceptives?
+
+After a moment, he sighed.
+
+Of course, I can’t even ask, can I? Damn rumors. It’s getting really annoying the way everyone assumes Ameliah and I are together. If it got out that I’d been asking about…well. Just shoot me now. He shook his head. I’ll just…let people figure things out on their own. I’m the captain, not everyone’s dad. Maybe I’ll make an anonymous pamphlet or something, so we can avoid any…unintentional family complications.
+
+Rain rubbed at his temples. Being in charge was a lot of work. It was already getting better as things were ironed out, but still. If not for Vanna’s help, he was sure he’d have already lost his mind. She’d more than earned her awakening, in Rain’s opinion, and to his delight, she’d signed up for the third support role with actual enthusiasm.
+
+Rain hadn’t specified what kind of support he wanted for that slot, other than it not being another healer. Vanna had decided to go for a buffing build. Elemental Enhancement was a tree that was typically treated as a penny jar by those with more traditional classes. People would just take one or two skills to round out their build. It was one of the more populated and versatile skill trees, with an offensive and a defensive buff for each element—at least, that was Rain’s assumption. Some elements appeared to be missing, the skills likely hidden.
+
+Either way, Vanna was planning to make the tree her primary, which would make her an Elemental Enhancer at level five, assuming the class existed. Nobody knew. Nobody built dedicated support. Her first skill was Concussive Blows, which was a single-target buff that added force damage to all melee attacks for a set duration. Ameliah said it was a good choice, and Rain agreed, as it could even be used on unawakened. He just hoped that Vanna didn’t end up getting screwed by the class not existing. In response to his concern, she’d decided on holding off on all stat point spending until she saw her options. When it came down to it, she could become a Dynamo or an Animus as a fallback, though she wasn’t keen on either option.
+
+And then, there were the crafters. Rain summoned another document, this one detailing his notes on the subject.
+
+crafting_notes.odt
+
+B
+
+U
+
+I
+
+Crafting
+
+Todo: fix this doc once you have bullet points working
+
+Todo: fix that damn copy-paste bug
+
+Todo: stop writing todos all over the place
+
+Info from Staavo:
+
+Three kinds of crafting trees:
+
+Medium (what you work with)
+
+Augment (how you work with it)
+
+Discipline (what you make)
+
+By combining them, you get lots and lots of combinations for making different things.
+
+There are also skills in non-crafting trees that can help.
+
+Earthmolding, for example.
+
+Some classes can re-arrange skill trees.
+
+Staavo says rumor, no proof.
+
+Todo: Talk to Val. Find out what he knows.
+
+Info from Tallheart:
+
+All crafting trees have a lot of hidden skills.
+
+More skills in general, too.
+
+Runes take a long time to learn and are complicated.
+
+Not everything uses mana.
+
+Many crafting spells use stamina too.
+
+Different metals are better for different things.
+
+Enchanting metal is challenging because of how it interacts with mana.
+

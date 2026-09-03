@@ -1,0 +1,410 @@
+Rain and Tallheart sat in the two seats of the forgewagon inside an open-roofed garage that screened them from view. Rain wasn’t that concerned about people seeing the vehicle, not after he’d realized what Mlem’s cart could do, but a private space for working on it had been vital to avoid distractions. It was hard to believe that it hadn’t even been five days since he’d pitched the idea to Tallheart. The man wasn’t just a smith; he was a certified miracle worker when it came to anything metal.
+
+The forgewagon was a marvel, and it was at once both overcomplicated and not complicated enough. Rain had come up with an elaborate plan of trying to build an actual torque converter, but issues had arisen almost immediately—lack of a suitable transmission fluid, for one. It was on his list for later. Also on the list for later were friction clutches, chain derailleurs, planetary gears, and a whole host of other things that he had a surface understanding of thanks to long hours spent on YouTube, but no practical knowledge of how to build.
+
+The final setup was far from ideal, but with Tallheart’s massive strength, it got the job done. In the front of the forgewagon, there were two seats and two sets of pedals connected to the same shaft. In the center, between the seats, there was a large, fixed gear. A heavy chain linked that gear with a similar gear mounted in the back of the forgewagon, driving a shaft with a heavy flywheel. The second gear wasn’t fixed. It was instead joined to its axle with a freewheel, a clever ratcheting bearing that made it so the flywheel could keep spinning even if the motors—Tallheart and an unfortunate friend—decided to take a break.
+
+The gear ratio was fixed for now. A manual chain tension lever and a few concentric gears up front would have allowed rudimentary shifting as long as you didn’t mind getting your hands greasy, but there simply weren’t enough hours in the day. There’d been other problems to solve first. Still, Rain wasn’t happy with leaving something undone.
+
+Next came the issue of transferring power from the flywheel to the treads.
+
+The transmission sat behind the driver’s seat—transmissions, technically, as there was an independent mechanism for each side. The flywheel’s axle turned a pair of fixed wooden drums connected via leather belts to corresponding drums on two independent driveshafts. Each driveshaft drove a wheel that was locked into the treads on that side, finally transferring power to the ground.
+
+To control all of this, the driver had two levers of the ratcheted steampunk variety. When one was pulled, it would tension the drive belt on that side via a third free-spinning wooden drum. Steering was like an RC car. Push the right lever to turn left, push the left lever to turn right, push both to go forward, pull both back to stop.
+
+Eventually.
+
+Brakes were also on the list of things to worry about later.
+
+While it was perfectly functional, the issue with this whole setup was the leather belts. They kept slipping and were also prone to failure. Leather wasn’t something they could easily replace outside the city, so they’d have to bring spares. Lots and lots of spares.
+
+Again, there weren’t enough hours in the day. Proper friction clutch. On. The. List.
+
+The suspension was perfectly acceptable, Rain felt, prior to any rigorous testing. The driveshafts included universal joints, allowing some degree of travel. There were five wheels inside each tread, with the drive wheel being the one in the middle. Thanks to the leaf springs on each and every axle, there was enough play in the tracks to drive over small rocks, logs, and woodland creatures without any issues. That last obstacle wasn’t much of a concern, as nothing with eyes to see and ears to hear was going to miss this thing coming. All-terrain it was; stealth it was not.
+
+Practicality had reared its ugly head as well, and they’d had to cut the size of the smelter to a third of Tallheart’s original design, regrettable as it was.
+
+The forgewagon was enormous. The bed was about the size of a normal wagon all on its own, perhaps slightly wider. The seats and all of the mechanics of the drive system took up the space that would have normally been occupied by a pair of horses. The flywheel poked up through the front-right corner of the bed, below a flat shelf that supported the smelter.
+
+The smelter itself had been shrunken slightly and mounted transversely behind the transmission such that the ‘asshole’ was on the right side of the vehicle and the intake hopper was on the left. All of the smaller outlet valves had been moved to the rear face of the smelter on the right side, ending up just above the anvil. The smelter’s left side was now home to a large cubic indentation that pulled double-duty as a firebox and a forge. Taking advantage of the spinning axle right below, they’d added a fan and some ductwork to pump air into it, eliminating the need for bellows. Standing at the back-left corner of the forgewagon’s bed, you could work at the anvil with easy access to both the forge and the smelter’s valves at your elbow.
+
+The heat wasn’t as much of an issue as you’d expect. Tallheart had resistances, obviously, but the metal that the smelter was made from thumbed its nose at thermodynamics, though it needed mana to do it. As long as it was charged, it acted as a sort of one-way insulator, making it much easier for heat to get in than to get out. Rain was currently sitting in the passenger’s seat, which put the smelter about a meter behind him, completely full of molten metal. While it was a decidedly warm place to be, it wasn’t unbearable. In fact, once they were out in the cold, it would become a feature instead of a bug. Heated seats were a part of the luxury package.
+
+The frame of the forgewagon was made from steel. Pure iron would have been faster for Tallheart to shape, but it lacked the required strength. Force Steel would have had that strength and then some, allowing them to thin the material and thus reduce the weight. They hadn’t used it, however. Apart from not having the Crysts to spare, they were trying to keep the full extent of Tallheart’s enchanting abilities under wraps. The only enchanted piece was the smelter itself, which was honestly bad enough on its own.
+
+All told, the entire thing was ridiculously Kerbal and more than likely to fall apart at any moment. It was also just so awesome that that didn’t matter. If something went wrong, they’d fix it. They’d have the tools to make new parts on the road—that was the whole point of having a forgewagon in the first place. Rain was already thinking about steam power and the potential for integrating the generator. They could add headlights and—stretch goal—a sound system to play Rauta.
+
+That came later, though. For now, there was just one last piece that was needed. Rain turned to Tallheart, who was sitting to his left in the driver’s seat. “Ready?”
+
+“Mmm,” Tallheart rumbled. Rain could tell that he was excited. Who wouldn’t be?
+
+Reaching into a bag sitting below his seat, Rain removed two pairs of mismatched brass goggles. One pair had a leather strap with a buckle that would allow Tallheart to wear them without worrying about his antlers. Rain offered that pair to the smith, grinning. “Here. Our last test failed because we weren’t properly attired.”
+
+Tallheart blinked, taking the goggles and looking at them curiously. He looked back up at Rain and raised an eyebrow. “Why?”
+
+“It’s to complete the look. Come on,” Rain pleaded, “I had to look everywhere to find these.” He slipped his own goggles on, tightening the leather strap. Eventually, Tallheart huffed and put his on as well. Rain had to fight down an undignified squee. So awesome!
+
+Tallheart snorted in amusement at Rain’s expression, then nodded toward the wooden door that hid the rest of the compound from view. “Ready.”
+
+“Initiating spin,” Rain said excitedly, then began pushing as hard as he could against the pedals. It wasn’t easy, especially with his legs already feeling shredded from his morning workout. The flywheel was steel-jacketed lead, and the effective gear ratio from it to the pedals was something like 1:1 at the moment. Myth and Reason had magically refined some lard into a stable high-performance grease, which helped, but the grease itself wasn’t magical. Friction and inertia couldn’t be ignored.
+
+Things suddenly went from difficult to practically effortless as Tallheart began pedaling on his side. The flywheel rapidly came up to speed, with significantly less judder being transmitted through the frame than there had been last time. It appeared they had fixed the alignment problem. It remained to be seen if the rest of the issues had been resolved as well.
+
+“Jamus!” Tallheart called.
+
+“What?” came a voice from outside the garage. The door opened a crack, and Jamus’s head poked through. “Oh, you’re ready for another try? Here, let me open it up. Staavo! They’re ready!”
+
+“Coming! Wait for me!” Staavo’s voice came from the distance.
+
+Tallheart didn’t wait. He reached up, grasping both control levers and pushed them forward, tensioning the belts that connected the treads to the flywheel. There was a rough jerk that settled Rain back into his seat as the belts engaged. Where the ratio from pedals to flywheel was 1:1, the ratio from the flywheel to the ground was more like 2:1. As a result, the forgewagon was now moving forward at a slow walking pace.
+
+Rain whooped as Jamus hurried out of the way, clutching his orange hat to his head. The clank of the treads filled the air as the forgewagon cleared the garage. Rain kept pedaling, working with Tallheart to increase their speed as they headed toward the flimsy wall of the compound. Before they got anywhere close to it, Tallheart squeezed the releases and pulled the levers back to the neutral position. The treads kept rolling, but their speed fell off quickly.
+
+“Okay, let’s try a turn,” Rain said over the clatter of the treads. “Just engage the right one.”
+
+Tallheart nodded, pushing the right lever forward. There was another jerk as the belt engaged, and the entire forgewagon started turning left, drawn by the right tread.
+
+“Yes!” Rain shouted. “We have steering!”
+
+Tallheart pushed the left lever forward again, and their course straightened. They were now headed away from the wall. As satisfying as crashing through it would have been, the ability to steer was, arguably, a more important test.
+
+“Gods above, it’s actually working!” Jamus exclaimed. There was a growing clamor as everyone dropped whatever they were doing and rushed over, except for Meloni. She was chasing Cloud, who was running about frantically, barking at the mechanical monster attacking the compound.
+
+“Look out!” Rain suddenly shouted, pointing. Dozer had popped up out of a depression in the ground in front of them. The slime was oozing directly at the forgewagon, showing none of Cloud’s wariness.
+
+Tallheart quickly pulled the levers back, and their speed dropped. They came to a clanking stop just in time, barely avoiding learning whether a slime could survive being run over by a tank. Rain had to hang onto his seat to avoid being tossed by the bouncing suspension as the heavy vehicle shifted. Right, this thing is dangerous. Brakes first, then seatbelts, and damping for the suspension. Also, FUCK YES!
+
+He cackled maniacally in the mid-morning sun, removing his feet from the pedals and standing unsteadily on the still-bobbing vehicle. He pumped his fist in the air in victory. A sudden impact against the side of his breastplate made him look down, and his smile grew even wider when he saw Tallheart offering him his closed fist in a familiar gesture. He bumped Tallheart’s fist with his own, grinning from ear to ear.
+
+Eight hours later, Tallheart was still working on the forgewagon, running more tests and ironing out (ha!) issues as he found them. He wasn’t radically changing anything, though, as the plan was to leave first thing tomorrow. Staavo and Jamus were helping him, as well as Ameliah, who, apart from being the only other person who could really pedal the machine for any length of time, had also taken an interest in how it worked. Once she’d seen it running, she’d started peppering Rain with questions, delighting him with the reversal of roles.
+
+Rain sighed, looking away from his friends and slumping down to sit on a crate. I wish I could just spend the rest of the day working on it too.
+
+Unfortunately, as the newly-elected captain of the company, he had work to do, namely, making sure that everything was in order for their departure. First on that list was himself. His full status popped up in front of him with the barest exertion of will.
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+15,589
+
+22,750
+
+747,672
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+HP
+
+381
+
+400
+
+540/d
+
+SP
+
+59
+
+200
+
+620/d
+
+MP
+
+5,812
+
+6,562
+
+1.8/s
+
+Dark Revenant’s Armor
+
+CUR
+
+MAX
+
+RGN
+
+DUR
+
+13,338
+
+13,338
+
+0
+
+SAT
+
+0
+
+13,202
+
+-92/s
+
+CHG
+
+3,946
+
+14,209
+
+-65/d
+
+Attributes
+
+171/151
+
+EFF
+
+TOTAL
+
+BASE
+
+BUFF
+
+SYN
+
+STR
+
+6.6
+
+20
+
+10
+
+10/37
+
+33%
+
+RCV
+
+15
+
+54
+
+10
+
+44/24
+
+44%
+
+END
+
+3.6
+
+10
+
+10
+
+0/16
+
+36%
+
+VGR
+
+19.7
+
+62
+
+10
+
+52/32
+
+47%
+
+FCS
+
+10
+
+10
+
+10
+
+0/50
+
+100%
+
+CLR
+
+265
+
+265
+
+200
+
+65/116
+
+100%
+
+Resistances
+
+50/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+1.0
+
+0%
+
+COLD
+
+1.0
+
+0%
+
+LIGHT
+
+1.0
+
+0%
+
+DARK
+
+51.0
+
+0%
+
+FORCE
+
+1.0
+
+0%
+
+ARCANE
+
+1.0
+
+0%
+
+CHEMICAL
+
+1.0
+
+0%
+
+MENTAL
+
+1.0
+
+0%
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (10/10)
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Extend Aura (10/10)
+
+Extend aura range by 10 meters
+
+Multiply aura mana cost by 300%
+
+Tier 1
+
+Aura Focus (10/10)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 300%
+
+Multiply aura range by 300%
+
+Multiply aura mana cost by 300%
+
+User loses all external senses while focusing
+
+Aura Synergy (10/10)
+
+Increase all aura output by 1.0% for each rank in any aura
+
+Effective boost: 80.0%
+
+Tier 2
+
+Aura IFF (10/10)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 0.0% aura output
+
+Tier 3
+
+Aura Compression (10/10)
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 2.0% per meter of compression
+
+Defensive Auras
+
+Tier 2
+
+Force Ward (10/10)
+
+Increase physical resistance by 54% for all entities
+
+Range: 18 meters
+
+Cost: 1 mp/dmg mitigated
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (10/10)
+
+Multiply base mana by 300%
+
+Tier 1
+
+Channel Mastery (10/10)
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Skill mana cost modified by intensity adjustment
+
+Mana Manipulation (9/10) Exp: 6239/7400
+
+Allows internal control of mana
+

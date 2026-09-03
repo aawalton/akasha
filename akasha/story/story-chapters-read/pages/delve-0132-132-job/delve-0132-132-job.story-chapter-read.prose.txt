@@ -1,0 +1,162 @@
+Ascension Work Order
+
+Light the Crack
+
+Awakened team combat mission
+
+A Fire Eater (suspected) has consumed the evertorches left at the bottom of the crack. Take a team and clear the monsters that have spawned, then replace the evertorches. Find a way to protect the torches from further consumption.
+
+Constraints
+
+Level restriction: 5+
+
+Party size: 8-12
+
+Balanced party
+
+Warnings
+
+The floor of the chasm is an approximately rank-8 zone.
+
+The strength of the Fire Eater is unknown.
+
+Do not engage should it appear and be greater than level 10.
+
+Notes
+
+Mission acceptance must be approved by the quartermaster.
+
+Required materials such as evertorches may be taken from the company stores, free of charge.
+
+Please update the inventory ledger appropriately.
+
+Standard monster processing rules apply.
+
+Reward
+
+100 credits per member for basic completion
+
+100 credits per member if the crack remains lit for 24 hours
+
+Company reserves Crysts
+
+Looted Tel may be kept or exchanged within 24 hours
+
+Rate: 10 credits/Tel
+
+Limit: None
+
+Bonus credits for information concerning the Fire Eater at the discretion of the quartermaster
+
+Lyn tapped her finger on the table as she read over the posting once more. The order board was a new development, having been set up the night before. It seemed to have been modeled after how the Guild and the Watch did things, though not quite. In addition to what Lyn would traditionally call a ‘quest,’ there were also posted exchange rates for materials Vanna was interested in acquiring for the company, general orders for watch shifts, status reports, and the like. The posting she held was the most quest-like of the bunch. It was also the first real chance for her to get a serious leg-up on the rest of the company. The flat credit reward was paltry at best, but clearing the chasm of monsters and splitting the Tel eight ways instead of fifty-one, well… That had potential.
+
+Looking up, Lyn nodded to the seven others seated at the table. “Okay, I’m going to go talk to Vanna. Remember, even split, like we agreed.”
+
+Mahria sniffed. “Just go sign us up before anyone else tries to join.”
+
+Lyn smiled, understanding the sentiment. She turned, then walked through the curtain to the company hall.
+
+The room was still a bit of a mess, with half-unpacked sleds and supplies cluttering up the area that was to be their training and meeting space. The order board itself was mounted to a wall, having been moved in here from the tavern when visitors from Vestvall had begun showing up. Some things weren’t for outside eyes, the orders for their crafters in particular. Lyn doubted that it would be possible to hide their existence for long, though she agreed it was at least worth making a token effort.
+
+A dozen-odd archways led off the hall, most with cloth or monster-hide curtains blocking the rooms beyond from view. Her own room was third from the left. She shared it with five others—still far from private, but better than she’d become used to. Only two archways held proper, wooden doors, one leading to the workshop, and the other to the equipment storeroom that doubled as Vanna’s office.
+
+Lyn turned in that direction, seeing that the door was open and that Vanna was in there, seated at a stone desk that was not unlike the tables in the tavern. She was speaking with Samson, who was leaning against one of the dirt walls. Both of them looked up at her approach, and Vanna motioned for her to enter.
+
+“What can I do for you, Lyn?” she asked. “Sorry about the mess. I’m still organizing.”
+
+Lyn held out the work order. “We’d like to do this one.”
+
+Vanna took the offered piece of paper, glancing at it before setting it down in front of her. She sat back in her chair, looking up at Lyn with a calculating expression. “Okay. Who’s we?”
+
+“There are eight of us,” Lyn said. “Me, Fredek, Telen, Corrin, Evonna, Ruce, Mereck, and Mahria.”
+
+“Not Kettel?” Vanna asked, inviting Lyn to sit with a gesture. “I was expecting him to be in here the moment I put that on the board.”
+
+“I believe I saw him leave for the city with Mlem and Clubbs,” Samson said as Lyn took the offered chair. Unlike the desk, the chairs were simple wooden affairs that had been with them all the way from Fel Sadanis.
+
+“Ah,” Vanna said. “He’s going to be pissed when he finds out he missed this.”
+
+“It is probably for the best,” Samson said. “His aim has gotten better, but him and Mahria together in one party would be worse than putting two bulls in one paddock.”
+
+Lyn smiled. Kettel had become obviously infatuated with Mahria, and Mahria was obviously not interested. It didn’t stop him from continually trying to impress her. “So, can we take it then?”
+
+Vanna glanced at Samson. “What do you think?”
+
+“Hmm,” Samson said, looking down at Lyn, still leaning against the wall. “Tell me the level and skillset of each member of the party, as well as what equipment they’ll be using, and what tactics you will employ.”
+
+Lyn shifted to peer up at him, raising an eyebrow. Apart from giving sword lessons, Samson had also become something like the company’s tactics instructor whenever they did group drills. “You don’t already know?”
+
+Samson snorted, then pushed off from the wall and moved to stand next to Vanna’s shoulder. “I’m making sure you do.”
+
+Lyn bristled but stopped herself from saying anything unwise. Thanks for the vote of confidence, Freelord Darr. I know what I’m doing, thank you. “Fine. Everyone is level five, and nobody has a class yet. I’ve got the four skills I need in Staff Combat to unlock Staff Defender, but I’m still working on leveling them to ten.” If the class even exists, she left unsaid, that being a constant worry of hers. She cleared her throat. “I’ve got Gazelle Kata, Weighted Staff, Projectile Deflection, Forceful Sweep, and Intrinsic Strength. My last skill point is uninvested. My stats are mostly in Endurance, Strength, and Vigor. In a party, my place is on the front line. I’ll mostly be using my staff, but I also have my sword as a backup. Just like everyone else, I’ve got my gambeson, monster-hide cap, and Frost Resistance ring.”
+
+“Good,” Samson said. “And the others?”
+
+Lyn nodded. “Evonna is planning to be a Defender too, so she’ll be on the front line with me. She’s got a big metal shield and a mace, plus a steel breastplate. Her four skills are Shield Bash, Reinforced Shield, Unyielding Defense, and Fast Block. I don’t know what she’s done with her other points. She can keep up with me just fine in training, so I’d say her stats are more or less like my own.”
+
+Samson motioned for her to go on, so she continued. “Fredek has all the foundation skills out of the Physical Passive tree. That means Strength of Arm, Lifespring, and Rugged Defense. He says that they’re slow to level, and I don’t know if he’s unlocked Physical Synergy or Turtle Skin yet. I do know that he doesn’t have any points invested in anything other than Strength. Apart from wanting the health, he says he plans to take Fortifico if there isn’t a specialized class for passives. He’s got a shield and sword, plus his fists with those stupid metal knuckle things. He’ll also be on the front line, obviously.”
+
+“Obviously,” Samson said. “Any more up front?”
+
+Lyn wiggled a hand. “Kinda? Telen is focusing on daggers, so he has Asp Kata, Lingering Bleed, and Razor Flurry. He’s planning to borrow Hanes’s bow for this, though, so unless our formation breaks apart, he’ll be in the back.”
+
+“I see,” Samson said. “He is still bringing daggers, though, correct?”
+
+Lyn snorted. “Obviously. I think he’s got like six of them strapped all over. Who knows how many more he’s got where I can’t see them.”
+
+“Hmph, so that’s where they all went,” Vanna said. “I was wondering why I couldn’t find one earlier. You tell him that just because he’s building himself like a rogue, it doesn’t mean he needs to act like one. Company steel is to be shared.” She laid her palm flat on a notebook sitting on her desk. “There’s a signout ledger for a reason.”
+
+“Yes, ma’am,” Lyn said.
+
+Vanna’s frown became a scowl. “Don’t call me ma’am. It makes me feel old.”
+
+“Sorry,” Lyn said with a shrug. I’m not used to taking orders from a commoner. I don’t know how I should be acting around her.
+
+Vanna sighed, rubbing at her neck. “You tell him he can use them for this mission, but after that, he only gets four. The rest are to be returned, or I’m going to start charging him by the day. If he thinks he needs more, he can convince Tallheart to make him some of his own.”
+
+“I highly doubt he could manage that,” said Samson.
+
+“That’s not my problem,” Vanna said. “Okay, Lyn, please continue. Let’s have the rest. Don’t worry about the stats, just focus on the skills.”
+
+Lyn nodded. “Mereck is our healer. The only active spell he has is Healing Word, though, because of the unlock requirement for Regeneration. If he gets hurt, we’re in trouble—he can’t heal himself, obviously. He’s got a staff for self-defense. He’s actually decent with it, but he’s going to be in the middle of the formation, so if he ever has to use it, something has gone wrong.
+
+“Ruce, pretty much the same story in terms of placement. He’s got a staff, too, though he’s not as good with it as Mereck. As a Diviner, he’ll be using Identify Weakness and Threat Assessment to feed us information about what we’re fighting. I don’t think his other abilities will end up being relevant down there, but who knows. Just those two skills alone are more than enough to earn him a spot in the party.
+
+“Um, backline. Telen, I already mentioned, so that leaves Corrin and Mahria. Corrin went with Earth Manipulation instead of Geoevocation, so he’s got Erode and Earth Affinity in foundation tier, and then Earthmolding and Rockbomb in Tier 1. He doesn’t have Stonemolding yet, and even Earthmolding takes too much mana for him to be using it in combat, so that pretty much leaves Rockbomb. He’ll be using it sparingly to save mana, so he’ll just be whipping rocks at things with his sling most of the time.
+
+“Mahria is our wild card. She’s, well… She’s Mahria. Unlike us, everything she’s got is maxed. She’s got Ice Bolt and Ice Affinity in Ice Evocation, plus Froststorm, obviously, which I still refuse to believe is tier-1. She also has Ice Wall from Defensive Constructs, and Chilling Touch and Blinding Squall from who knows where. I’m not about to dig through my menus to find them. Oh, and Chanting. I doubt she does that for the fun of it. It’s probably from an accolade. She won’t say, but sure as the depths, I can count. Unless she’s lying about being level five—and honestly, why would she?—she’s got at least one. Who knows what other stuff she’s got, thanks to that crazy mother of hers. Anyway, she’ll be using Ice Bolt whenever Ruce spots something weak to Cold, and if we really get into trouble, she’ll drop a Froststorm right on top of us.” Lyn smiled. “We’ve got our rings; the monsters don’t.”
+
+She looked up at the sky, poking her tongue into her cheek as she thought. Hmm. Looks like it might snow.
+
+After a moment, she looked back down to meet Vanna’s gaze and shrugged. “That’s it.”
+
+Vanna clicked her tongue. “Not good enough.”
+
+Lyn froze. “What?” Her surprise quickly flashed to anger. “You’re not letting us go? After I talked through all that?”
+
+Vanna didn’t answer, getting to her feet and then crouching to rummage within one of the numerous crates behind her.
+
+Samson frowned. “It seemed like a reasonably strong team to me,” he said.
+
+“Here,” Vanna said, tossing a sack onto the desk. It landed with a clatter, the contents obviously metallic from the sound. “Split those up between you. You can give them back when you’re done. If you lose any of them, it won’t be me you’ll answer to; it will be Tallheart.”
+
+Wait, are those… Lyn grabbed the sack, then upended it, spilling the contents out onto the table. Frost Resistance rings, made of pale blue steel and featureless except for the symbol of Ascension that was etched into the metal. Dozens of them.
+
+“Depths,” Lyn said, looking at the single ring on her own finger. I didn’t know we had that many.
+
+A clink of glass brought her head back up, and she saw Vanna placing a wooden rack of potion bottles on the table. They were mostly red, which meant health in Ascension, though there were a few green ones mixed in.
+
+“One each,” Vanna said, then turned to dig through the crates again. She placed a second rack of potions on the table in short order, these mostly green. A third rack followed, primarily blue. “And one stamina for each fighter, and one mana for each mage. I’d give you more, but that’s all we can spare.”
+
+Lyn couldn’t hide her smile. “So, we can go then?”
+
+“Obviously,” Vanna said, sorting through the potions on the table and transferring some of them back into the crate where they’d come from. “I want you to return any you don’t use, but I’m not charging you. If I find out somebody refused to use a potion when they needed it, I’ll put them on midnight-watch for a month.” She tossed a rolled piece of parchment onto the desk. “Here. Message scroll. In case of an emergency.”
+
+Lyn lurched to her feet, snatching up the valuable artifact before it rolled off the edge of the table. Depths!
+
+There was a clang as Vanna dropped a helmet onto the table, then another, and another. “Steel skullcaps for the front line. Tallheart made them a few days ago, but we haven’t put the padding in yet. Figure it out.” She grunted, lifting aside yet another crate. “Samson, move. You’re in the way.”
+
+Smiling, Samson stepped aside. Vanna set the crate down with a thump, then made her way to the back of the room, returning with a pair of spears. She thrust them at Lyn, who quickly got to her feet to take them.
+
+“Have Ruce and Mereck use these,” Vanna said. “Even if they’re in the middle, they can poke at stuff. I don’t care if they’re better with the staff. They won’t have room to use one in the center of a formation, but with these, they can at least do something other than standing around watching the rest of you fight.”
+

@@ -1,0 +1,384 @@
+Progression Tracker [0.5.1]
+
+marker_1: essed [8th Winternight]
+
+marker_2: vestvall [27th Winternight]
+
+span: 19.24 days
+
+Tolerances
+
+Strength: 37 -> 40 (+3)
+
+Recovery: 27 -> 30 (+3)
+
+Endurance: 16 -> 20 (+4)
+
+Vigor: 37 -> 40 (+3)
+
+Focus: 50 -> 114 (+64)
+
+Clarity: 125 -> 163 (+38)
+
+Attribute Buff: 157 -> 171 (+14)
+
+Synchronization
+
+Strength: 34% -> 38% (+4%)
+
+Recovery: 44% -> 49% (+5%)
+
+Endurance: 36% -> 37% (+1%)
+
+Vigor: 47% -> 57% (+10%)
+
+Accolades
+
+Accolade of Ander’s Copse: +100 Chemical Resistance
+
+Accolade of the Southshore Rat Warren: +1,000 Health
+
+Equipment
+
+Ascension Cold Tin Ring: +20 Cold Resistance
+
+Total Known Skill Trees
+
+Tier 0: 144
+
+Tier 1: 144
+
+Tier 2: 144
+
+Tier 3: 122
+
+Tier 4: 0
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+22,732
+
+22,750
+
+1,514,815
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+HP
+
+1,904
+
+2,000
+
+400/d
+
+SP
+
+309
+
+600
+
+500/d
+
+MP
+
+6,074
+
+6,472
+
+3.6/s
+
+Dark Revenant’s Armor
+
+CUR
+
+MAX
+
+RGN
+
+DUR
+
+13,338
+
+13,338
+
+0
+
+SAT
+
+0
+
+13,202
+
+-92/s
+
+CHG
+
+14,206
+
+14,209
+
+-65/d
+
+Attributes
+
+191/171
+
+EFF
+
+TOTAL
+
+BASE
+
+BUFF
+
+SYN
+
+STR
+
+19
+
+50
+
+10
+
+40/40
+
+38%
+
+RCV
+
+19.6
+
+40
+
+10
+
+30/30
+
+49%
+
+END
+
+11.1
+
+30
+
+10
+
+20/20
+
+37%
+
+VGR
+
+28.5
+
+50
+
+10
+
+40/40
+
+57%
+
+FCS
+
+10
+
+10
+
+10
+
+0/114
+
+100%
+
+CLR
+
+261
+
+261
+
+200
+
+61/163
+
+100%
+
+Resistances
+
+190/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+23.0
+
+0%
+
+COLD
+
+23.0
+
+0%
+
+LIGHT
+
+3.0
+
+0%
+
+DARK
+
+53.0
+
+0%
+
+FORCE
+
+3.0
+
+0%
+
+ARCANE
+
+3.0
+
+0%
+
+CHEMICAL
+
+103.0
+
+0%
+
+MENTAL
+
+3.0
+
+0%
+
+A trio of windows hung at the left edge of Rain’s view as he tore through the forest. His feet were pummeling the ground, sending up clumps of snow and dirt as he hurtled through the trees at an Olympic pace. He’d have been going even faster had he been on open ground, but the trees forced him to slow down somewhat.
+
+His breathing was rapid but steady as he leapt over a fallen log, raising his fist in the air as he homed in on his target. With a thought, he shifted twenty points from Recovery to Endurance to boost his Force resistance. The hapless Murder Shrew, alerted by the vibration of his footsteps, poked its head out of the ground just in time to meet Rain’s steel fist descending upon it like a meteor from space.
+
+You have defeated Murder Shrew, Level 2
+
+17 Experience Earned
+
+Rain tumbled to a stop, the sack he’d been carrying flying free as he skidded along the ground. Instead of the super-hero landing he’d planned, he’d gotten a face full of dirt through the slit in his helmet. Disappointed but not hurt, he picked himself up and dusted himself off as he evened out his stats once more.
+
+Dismissing the kill notification, Rain glanced back at his status display for confirmation. After verifying that he had indeed hit the cap again, he casually unlocked a tier-three skill tree, not blinking an eye as ten thousand experience was consumed in a flash. This was only his second unlock of the day. He’d been averaging three trees a day for weeks and could have done more had he not been trying to take it easy on his soul. His first unlock had been this morning, and he’d waited until now to unlock a second. His third, he’d do before he went to sleep.
+
+Detection.
+
+When the scan came back clear of Murder Shrews, Rain pinged again, this time being less specific. Seven signals came back, and he switched to Refrigerate, releasing a burst of deadly cold that made the trees creak and crack as their sap froze. Kill notifications flooded in—a few Ice Slimes and Snow Crawlers, nothing new or interesting. Or edible.
+
+Refrigerate was replaced with Winter as Rain bent to retrieve the broken and now quite-cold Murder Shrew from its hole. He walked over to his sack and unknotted the rope holding it closed, revealing a couple dozen more of the woodchuck-sized rodents, then added his latest catch. He wasn’t out here playing whack-a-mole for fun. The Murder Shrews were fairly good eating, as far as monsters went. The meat was oily and entirely unlike chicken, but not bad. Targeting them directly with Refrigerate would tear up the meat as ice crystals shredded the monster from within, ruining the texture. That effect wasn’t an issue after they were dead, the spell no longer treating them as entities.
+
+There was a crack, and a limb fell from a tree, landing near where Rain was standing. The trees nearest him had all likely died from the sudden blast of cold, well beyond what they’d evolved to endure. Rain glanced at the fallen branch, then sighed. No matter what he felt, it didn’t matter in the end. These trees were already slated for death.
+
+Vestvall was sending foresters out daily. On top of that, Rain had placed Carten in charge of their own wood-gathering operations, and the man was nothing if not enthusiastic. Even now, Rain could hear the sound of axes chopping away. Sometime this evening, he would have to spend a few hours seeing if he could speed-dry wood with Immolate. Green logs didn’t burn so well, and lack of seasoned firewood was apparently an issue in the city. The stock they’d prepared for the winter wasn’t nearly enough, not with the need for constant light.
+
+So much to do. Rain hefted the sack, which was nearly full at this point, then grunted as he slung it over his shoulder. I suppose I might as well head back.
+
+Ascension was camped outside the city. Ameliah had spent the time and mana to give them a bit more room to move around, as they’d be staying here a while. She’d also built up the earthen walls higher than was strictly necessary, even higher than they’d needed to be when they were back in the rank-eleven area around Fel Sadanis. Rain suspected that she’d done it not for any practical reason, but as a flex.
+
+Crimson Gar and his team weren’t expected back from the crack for a few days, but if they found a blatant show of power waiting for them, it might stop problems before they started. If Gar was who Rain suspected, Ameliah’s presence was going to be vital. He wasn’t sure he could handle him on his own.
+
+After entering the camp, Rain dropped his load of shrews with the other assorted provisions in the supply room, then gave everything a good blast of Purify, being careful to concentrate on the idea that everything in here was food. Bacteria taken care of, he chased Purify with a few seconds of Refrigerate, not that it was really necessary. He wasn’t particularly worried about spoilage. Purify truly was the best spell ever.
+
+Walking back out of the storeroom, Rain dusted his hands unnecessarily, then looked around. The camp was mostly deserted. He’d broken the company up into parties, then sent them off on various tasks in and around the city, Carten’s woodcutting crew being only one such example.
+
+The camp wasn’t completely deserted, however. Apart from the sentries, Vanna and Romer were there, speaking with the mayor of Vestvall, a round-faced man who’d turned up about a half-hour after Ameliah had completed the walls. The man wasn’t awakened, though he was technically a noble. Vestvall’s mayor was elected by its council—a collection of nobles and influential merchants—rather than by the populace at large.
+
+Mayor Graymond had reacted more strongly than most when confronted with Rain’s soul. To his credit, however, he hadn’t backed down from his insistence that Ascension respect Vestvall’s laws, even though he’d been trembling like a mouse staring down an owl. It said a lot that he’d come out here alone, rather than bringing guards with him or trying to make a show of force. Rain respected him for that. To make it easier on the man, Rain had left him with Vanna to conduct the negotiations. He wanted her to allay his fears that they were there to take over, and that was difficult when Rain’s presence had the man sweating buckets despite being outside in winter.
+
+Noticing Rain watching them, Vanna looked up, then signed to Rain in broken hand-code. “No big problem. Talk later. Stay away. You scary.”
+
+“Understood,” Rain signed back. He shifted his gaze to the only other group remaining in the main room. Jamus was sitting and talking with Bens, near where Staavo and Tallheart were tinkering with the prototype steam engine. He considered walking over to join them, then sighed and shook his head.
+
+Rain had spoken with Bens briefly when Jamus had returned with him. He seemed like a well-adjusted person, though, like the mayor, he’d been quite put-off by Rain’s aura of doom. The situation between Bens and Jamus was complicated enough as it was without Rain putting the younger man on edge with his presence.
+
+Bens had a wife and daughter. The three of them lived on their own, away from the influence of Lord Urs, the noble who’d been the accomplice to Jamus’s ex-wife’s infidelity. Bens had been old enough to understand the situation when Jamus had left, and while the revelation about his parentage had soured his relationship with his mother and his biological father, it hadn’t soured it enough for him to break ties with them. He also didn’t seem to have entirely forgiven Jamus for leaving, which had made for a prickly reunion.
+
+Worse still, the situation with Jamus’s younger children had the potential to be even more fraught. The fact that they were alive but had yet to appear was telling. Rain wasn’t concerned that Jamus would do anything dramatic, but he was still worried about how he would cope if they rejected him. There wasn’t much he could do about it, though, other than provide emotional support.
+
+And even that’s problematic because of my damn soul. With a sigh, Rain headed back out of the camp. It’s like Ameliah says. Solve the problems that you can solve. Look out, Murder Shrews. Death Zone comes for you.
+
+“Damn it, be careful!” Staavo swore, swatting Tallheart and immediately regretting it as his hand bounced off the man’s armor. He shook out his fingers, the cervidian smith showing no sign that he’d felt the impact or even heard what Staavo had said.
+
+With a contemplative rumble, Tallheart held up the metal rod he was working on, then sighted down it. After a moment, he grunted, then shifted the bar so he was holding it with both hands, and with no apparent effort, bent it until it bowed into an arc. He released it after a moment, then sighted down it again.
+
+Staavo sighed in exasperation. This was no less than the fifth time that Tallheart had manipulated the bar, making some minute adjustment. “It doesn’t have to be perfect!”
+
+As Staavo expected, Tallheart ignored him again. Mercifully this time, it looked as though he was finally satisfied with the straightness of the bar. Good thing, too, as the sun was starting to slip low in the sky.
+
+Staavo tapped his foot impatiently as the antlered smith knelt to fix the bar to an eccentric disk—a cam—mounted to the flywheel sitting on its frame before them. He attached the other end to a linkage, joining it to the rest of what Rain called the camshaft. A second, thicker shaft ran beside it—the driveshaft—which connected to the piston itself.
+
+Tallheart grasped the heavy flywheel with one gauntleted hand and turned it slowly. Staavo watched as the camshaft pushed left, sliding into the housing surrounding the cylinder even as the piston was drawn to the right. Everything was perfectly straight, and there wasn’t even a rattle as the metal pieces glided smoothly past each other.
+
+“It does need to be perfect,” Tallheart said.
+
+“What?” Staavo asked, raising an eyebrow.
+
+Tallheart rumbled, turning the wheel faster and watching the motion of the various pieces. “Rain believes that the piston will push with a force of several thousand kilograms. If it is misaligned…hmm… The camshaft is not thick enough to withstand that much force. It is only steel. The engine would destroy itself.”
+
+“So why didn’t you make it thicker then?” Staavo asked, gesturing. “It wasn’t an issue in the prototype.”
+
+“Because it is not necessary,” Tallheart said. “It does not need to be strong if it is properly aligned.” He shook his head. “The prototype was aligned. It was iron. Iron is easier to shape.”
+
+Staavo sighed. He’s right, of course, but I think he’s just going so slowly to get on my nerves. “Just…hurry up. I need to check the pressure.”
+
+Tallheart rumbled with amusement, still turning the wheel and watching as the two shafts slid past each other in concert.
+
+Staavo grumbled to himself as he stomped over to the boiler, which consisted of a pair of metal tanks and a firebox. The first tank—the steam tank—was slightly smaller than Tallheart’s smelter. It was mounted above the firebox, where a large fire was currently blazing. Thick metal tubes ran through the firebox down from the tank, threading through the coals, then exiting at the side to connect to another, larger tank, this one holding fresh water. Combined with the cylinder, frame, and flywheel, the entire apparatus was enormous, taking two sleds to transport even when disassembled. This would be the first time they’d tested all the pieces together.
+
+He rapped his gloved knuckles against the side of the steam tank, listening to the sound and feeling the heat through the protective leather. He knew that the tank’s walls were thick enough to contain the terrible forces within, but being so close to it was hardly a calming experience. A spring-gauge on the side of the tank allowed him to read off the pressure.
+
+Eleven atmospheres. Good.
+
+He closed the fire-damper slightly, restricting the airflow. He didn’t feel like getting himself exploded today.
+
+I’ll have to open the relief valve soon. If that damn cervidian doesn’t—
+
+“Here,” Tallheart’s low voice rumbled. Staavo turned to see him holding out a pair of brass goggles. “We are ready.”
+
+“Ha!” Staavo barked out a laugh, then snatched the goggles. He slipped them on to sit on his forehead but didn’t lower them over his eyes as he scanned the camp. Rain was nowhere to be seen, but Jamus would want to see this. “Oi! Apprentice! C’mere!”
+
+Jamus looked up from the serious-looking conversation he was having with his son, giving Staavo an exasperated glare. “What is it?” he asked, sounding annoyed. “And for the last time, I am not your apprentice.”
+
+Staavo grinned at him, then jerked a thumb over his shoulder. “We’re ready!”
+
+“Oh,” Jamus said, his glare softening. He looked back at his son, hesitating, then shook his head and spoke in a low voice. “I suppose more talk isn’t really going to help, is it? Let’s take a break. This should be interesting.” He looked back at Staavo, speaking in a louder voice once more. “Assuming it works.”
+
+“It will work,” Staavo said, drawing out the words as he waved away his apprentice’s concerns. He looked at Tallheart, who was wearing a second pair of goggles, as well as a rare smile.
+

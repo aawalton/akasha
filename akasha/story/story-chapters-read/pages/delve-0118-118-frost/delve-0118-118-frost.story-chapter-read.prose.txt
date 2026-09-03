@@ -1,0 +1,204 @@
+Rain stood before the swirling boundary of the lair, the tumultuous wall of ice and snow only creating a whisper rather than the roar it should have. He could feel the cold against his skin, but only when he was right up next to it. Detection told him nothing. The barrier was magical, and the spell didn’t work on magic.
+
+He couldn’t even circumvent the issue by searching for something like air. He’d done some experiments, both with this lair and with the Fells. A lair’s envelope worked something like the resynthesizer plugin for Gimp, filling in the interior volume by extrapolating from the surroundings. The effect was noticeable, but only with extreme focus. He’d need Mana Sight if he wanted to find lairs he didn’t already know existed.
+
+Rain flipped down his visor, then wrapped a scrap of fabric around his head to cover the mouth slit. He pulled up his hood, then raised his arm and gave the signal to advance.
+
+Icy magic whipped at his cloak as he crossed into the lair. The murmur of the magical barrier fell away behind him as he advanced, the crunch of his footsteps the only remaining sound as the temperature plummeted. In the distance ahead, he could barely make out what looked like a building. Everything else was just a sea of white. Snow was falling lazily from the fake gray sky in fat flakes, limiting visibility. Silence pressed down on him as the cold cut through his cloak.
+
+The stillness was broken by the arrival of the others. Linksight flared stronger than usual as each member of the delve team entered, the lair’s interface populating with their names and information about their vitals. Rain frowned, then concentrated, forcing the panel to display itself in a more compact and efficient layout. The system didn’t fight him, even when he pushed it to group people by the roles he’d assigned them. It did, however, flatly refuse to switch the vital displays over to absolute numbers.
+
+Essed Frostbarrows
+
+Rank 9
+
+100%
+
+Frontline
+
+Health
+
+Stamina
+
+Mana
+
+Carten
+
+100%
+
+100%
+
+100%
+
+Samson Darr
+
+100%
+
+99%
+
+100%
+
+Mlemlek Ko-Latti
+
+100%
+
+100%
+
+94%
+
+Lyn Aleuas Draves
+
+99%
+
+98%
+
+100%
+
+Backline
+
+Health
+
+Stamina
+
+Mana
+
+Rain
+
+100%
+
+98%
+
+100%
+
+Val
+
+100%
+
+94%
+
+100%
+
+Jamus
+
+99%
+
+99%
+
+100%
+
+Tahir
+
+100%
+
+98%
+
+100%
+
+This was a subjugation party, and as such, it was stacked toward their strongest members. The goal was to clear the lair of danger and to capture any essence monsters that they found, rather than kill them. The party’s average level was 7.75, which, while less than the lair’s rank, was about as good as they could do. Rain was a bit concerned, but Ameliah said that they should be fine as long as they were careful.
+
+Contrary to Rain’s expectations, the formation of the delve team had gone smoothly. He’d started it off by stating the party’s goal and suggesting that anyone above the lair’s rank be included in it automatically. Nobody had argued, resulting in the instant selection of himself, Carten, Jamus, Staavo, Ameliah, and Tallheart.
+
+Ameliah and Tallheart had declined, as he’d expected, as had Staavo, who had said that he would just slow them down. Rain disagreed with that assessment, missing foot or not. He suspected that the real reason the old scholar wanted to stay behind was so he’d have more time to work on the steam engine that he was trying to build.
+
+Rain shook his head, remembering their breakfast conversation on the subject. The idiot is going to blow himself up. He’d better include the damn relief valve like I told him to. He sighed, turning his attention back to the task at hand.
+
+The next members of the party were Samson, Mlem, and Val, who Rain had explicitly picked for their capabilities. Again, there had been a surprising lack of argument. He was finally starting to feel like people were respecting his leadership, something he was decidedly not used to. In any event, that had left two slots in the party, one for the frontline, and one for the back.
+
+After some discussion, Lyn had been selected as the frontliner. It had come down to her and Telen as the two remaining melee fighters with the most experience, and she’d won the coin flip.
+
+The backline slot went to Tahir, the hunter, and he’d earned it by using his bow to win a makeshift target-practice competition. He’d beaten his fellow hunter Hanes, as well as Kettel and Ava. Mahria had declined to compete.
+
+Kettel was livid at losing, of course, but he could deal with it. He’d agreed to the competition, after all. In truth, Rain was somewhat relieved. Bringing a Fire user into a Cold lair sounded like common sense, until you considered that their two options were a little girl and an impulsive teenager who couldn’t hit the broad side of a barn. The two of them were probably still taking out their disappointment on the targets. Hopefully Ava could teach Kettel a thing or two about how to aim.
+
+Rain put it out of his mind, turning to face the others. They were all bundled up against the cold, the arctic camouflage of their cloaks looking particularly apt in the whiteness of the lair. Jamus ruined the effect somewhat, his orange hat looking like a traffic cone someone had placed jauntily atop a snowman. His orange robes, at least, were covered by his cloak, as were Mlem’s. Carten was the least covered of the lot, his cloak hanging from his shoulders and leaving his armor mostly bare. The exposed Force Steel was rapidly being coated in frost, but the cold didn’t seem to be bothering the big man in the slightest.
+
+Rain cinched his own cloak tighter, keeping his arms inside the protective curtain of fabric. Because his gauntlets were so finely articulated, there was no room for even the thinnest layer of forceweave between his fingers and the metal. His hands were already getting cold. Fortunately for him, he didn’t need a weapon to fight. He could stay in his cocoon.
+
+The lair was cold. Unnaturally so. Ameliah said that the temperature could either be an effect specific to this lair or simply from the higher concentration of environmental Cold mana inside. It wasn’t at the point where they would need to worry about instant frostbite, but it wasn’t exactly comfortable.
+
+The obvious solution to this problem was Immolate, of course. The spell did work, but there were issues. Firstly, the effect was muted inside the lair, at least as far as the environmental impact. It remained to be seen if there would be any consequences concerning the damage numbers.
+
+Environmental mana mattered when it came to spells. Ameliah had helped him run some tests this morning, her Mana Sight proving invaluable for figuring out what was going on. Immolate, it turned out, acted something like a catalyst for environmental mana. If there was a lot of Heat mana around, the aura’s effect was magnified. Eventually, the environmental mana would be depleted, at which point the heat output of the spell would drop sharply.
+
+Most spells that had an environmental component were like that, apparently. Mahria’s Froststorm was a good non-aura example. Other spells—mostly single-target things like Firebolt—actually leaked mana into the environment when used. The amount of leakage depended on the skill of the caster.
+
+Kettel’s shitty aim, it turned out, was just a side-effect of his abysmal mana control. Ameliah had warned Rain about using Immolate anywhere near Kettel after he’d been casting for any length of time, saying that the result could be explosive.
+
+In any event, there wasn’t exactly a lot of Heat mana to be had inside this lair. Rain could still make a significant impact on the temperature if he boosted the power, but even with his regeneration, his mana was far from infinite. Plus, there was the second issue to deal with. The lair did not like anything melting its snow.
+
+It tended to put it back.
+
+Aggressively.
+
+Rain shook his head, watching as Samson fought to jam a long pole into the hard ground, atop which burned an evertorch. That was to be their marker for the entrance. The falling snow seemed to swirl a little faster near the dancing flames, though that might just have been his imagination, as evertorches didn’t actually put out a lot of heat. They were basically the LED bulbs of flame-based lighting solutions.
+
+“We going in, or just standing around?” Val asked, his voice muffled.
+
+Rain tore his gaze away from the flames. Val was right; it was time to stop testing and just get on with it. Ameliah had confirmed last night that this wasn’t a trap, but it still wouldn’t be a good idea to dally here too long. He took one last moment to compose his thoughts, then addressed the group. “Right, here we go.” He nodded to Carten. “After you. We move in formation like we practiced.”
+
+The party started making their way into the lair. Fortunately, the snow was packed firmly enough to walk on without their boots sinking more than a few centimeters below the surface. Carten’s footsteps crunched as he trudged toward the shadow of the structure ahead. The others followed in a loose formation, scanning the whiteness for danger.
+
+For his part, Rain was using Detection to keep a lookout more than his eyes. Occasionally, he’d pulse the skill, activating it mid-stride to accommodate the momentary blackout from Aura Focus. He needed full power for more than just the range boost, as the snow wasn’t just snow. There was something magical about it that interfered with the spell. Even at full power, Detection’s range was only three-quarters of what it was supposed to be.
+
+It wasn’t far to the building, which turned out to be a single-story farmhouse. Rain pinged for monsters with Detection, frowning at the lack of a response.
+
+I don’t like this.
+
+He pinged again, checking for wood. The intricate details of the building’s construction almost overwhelmed him, even muted as the signals were by the falling snow.
+
+“We goin’ in?” Carten asked, looking over his shoulder.
+
+Rain shook his head. “Not yet. Knock first.”
+
+Carten laughed. “Right you are, Captain Little Mouse. We’d best use our manners.”
+
+Rain rolled his eyes as Carten moved up to the door.
+
+The brutal impact of the turtle’s shield against the building was anything but polite. There was a crack of splintering wood as the door was blasted off its hinges, and a cascade of snow crashed down from the roof. Carten had jumped back in anticipation, barely avoiding getting buried.
+
+The party waited.
+
+“Looks like no one’s home,” said Mlem, after a few moments of silence.
+
+“Okay, now we’re going in,” Rain said. “Val, light.”
+
+Wordlessly, Val summoned his Lunar Orb. The pale illumination from the construct looked eerie as it filtered through the falling snow. Val sent it darting into the building, and Carten followed it through the door, Samson and Lyn close on his heels.
+
+“Clear,” Lyn called after a moment. “It’s a good-sized room with one hallway at the back. Everything’s covered in frost.”
+
+Rain and the others crowded inside as Carten moved toward the hallway, his armored form blocking the view. Rain looked around, examining the room. It looked like a combination of a kitchen and a living area. There was a frozen hearth on one wall that held the cold ashes of a fire. He could tell that it hadn’t been a particularly affluent dwelling, but everything was neatly arranged. It looked perfectly normal, as long as you ignored the snow that had blown in through the shutters. There was no sign of violence other than to the door, which he was presently standing on.
+
+“Bedrooms,” Carten called from down the hallway. “No monsters. No bodies.”
+
+“I wonder where they went,” Mlem said, lowering his hood and shaking out his mustache, which had been coated in frost. “I can’t say that I have ever heard of a building within a lair. Most bizarre.”
+
+“Have you ever even been in a lair?” Val asked as he examined a knife that had been lying out on the counter.
+
+“I confess that this is my first,” Mlem said. “I have seen much of the world, it is true, but lairs are a new experience for me.”
+
+Val snorted, dropping the knife back to the counter with a clatter. “Worthless.”
+
+Rain frowned, squeezing past Jamus to get back outside. He was feeling a bit claustrophobic in the cramped structure, especially with everyone piled in there. Besides, it wasn’t like it was any warmer, and he wanted to be able to see if anything was coming toward them. Mlem is right. This is strange. Where are all the monsters?
+
+“We going to search this place for valuables?” Tahir asked, poking his head out through one of the windows.
+
+“No,” Rain said, glancing at Tahir. “We’re moving on. None of it is real. Gimmen, you know?”
+
+Gimmen’s Folly was a fable about an impoverished miner who had stumbled upon a lair where even the walls were made from solid gold. After praising his luck, Gimmen had set to mining the gold with his trusty pick—never mind how he dealt with the monsters—collecting a frankly ludicrous quantity of the precious metal. Then, he’d hitched up his old donkey and hauled his overladen cart to the nearest village. Gimmen had lived there like a king for three days, after which he’d been abruptly lynched by the angry townsfolk, outraged when the gold he’d given them vanished.
+
+“You’re sure?” Tahir asked.
+
+Rain shrugged. One of his experiments this morning had been taking a rock from the lair. It hadn’t vanished immediately, so he’d stuck it in his pack. That pack was still outside, as he’d only brought his smaller messenger bag with him. The rock would vanish, he knew, but he wasn’t just going to take a fable at face value, even if people said the premise was true. He’d test it for himself. If they ever did find a lair made out of some ridiculously valuable substance—gold, gems, printer ink, whatever—he’d have his own data to rely on.
+
+Of course, I’d test it again in that situation. There’s nothing to say that every lair is the same, after all. Hmm. What happens if you, like, eat or drink stuff from a lair? Rain contemplated the still-falling snow. I don’t think I want to test that one, particularly.
+
+Suddenly, a flicker of movement in the corner of his eye caught his attention. He snapped his head in that direction; then, when he didn’t see anything, he flared Detection. The spell came up empty. There was nothing out there.
+
+“What is it?” Tahir asked. He’d come out of the building, as had the others. “Did you see something?”
+
+“I thought I did,” Rain said, admonishing himself for letting his thoughts wander. We’re in a lair, damn it. I need to stay alert. He shook his head. “It might have been just the snow.”
+
+“OI! OI! OI!” Carten roared, making Rain jump horribly. “STOP HIDIN’ YA ICY FUCKS!”
+
+“Damn it,” said Lyn, shoving Carten away from her. “That was right in my ear.”
+

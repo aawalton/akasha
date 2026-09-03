@@ -1,0 +1,164 @@
+0
+
+7
+
+8
+
+9
+
++
+
+4
+
+5
+
+6
+
+-
+
+1
+
+2
+
+3
+
+0
+
+=
+
+A glowing blue panel hung before Rain in the darkness of soulspace, instantly recognizable to anyone from his reality. He reached out and tapped the button labeled ‘1’.
+
+Distantly, in the back of his mind, he felt the script that he’d written execute, collecting the input and updating the display. That had been the real trick, thinking of his mind as a computer program, running commands on the hardware that was the system. Making the panel itself was trivial to him at this point, but actually convincing it to do things was another story. He’d had to build it up, step by step.
+
+A pulse of Purify fired as he stared at the display, but Rain ignored it. This was just another macro that he’d left running in the background. It was currently interleaving pulses of Purify and Detection, following a preset pattern. Both auras were operating at extremely low power to preserve his mana reserves.
+
+The macro was the solution to the mind-crushing tedium of communication with the outside world. He’d tried sending pulses manually, but the sixty-odd second cooldown between spell activations had left him yearning for the sweet release of death. Figuring out how to queue spell triggers had thus become the first major project that he’d worked on.
+
+Now, his subconscious was executing the pattern without any active supervision. One second of Purify, then one second of Detection: One pulse. Another second of Purify, then another second of Detection: Two pulses. On and on it went as his macro tapped out his message like an old-timey telegraph operator.
+
+He hadn’t found a way to bypass the system’s tick timer despite quite a bit of effort. His baud rate was stuck at a blistering 0.5 pulses per second. That wasn’t even the half of it, though. It wasn’t like he could use binary encoding and expect anyone to understand it. No, it was a simple counting game. To send the number ‘7,’ for example, took fifteen seconds of real time. The extra second was the delimiter. It meant stop counting, write the number down, then start again.
+
+That was the first layer of the problem. The next layer was sending a message on loop with each number corresponding to a letter of the common alphabet. That message was, quite simply, ‘am fine if understand code bring doorknob.’ He’d know they’d cracked it when said random object appeared within Detection’s range.
+
+At this point, his hopes weren’t high. The message had been looping for hours out there. Still, with the macro, it didn’t really cost him anything. He could just set it and forget it, as seen on TV.
+
+Rain tapped the ‘+’ button on his prototype calculator, and the symbol appeared on the display after a split-second. His mental scripts ran at the speed of thought, which was fast, but not instant. Even doing something as simple as shifting the existing text and adding the new character was more complex than it seemed. He was working on the efficiency.
+
+He tapped the ‘1’ key again, then moved his finger to hover over the equals sign. Here we go.
+
+When he pressed the button, there was a brief delay, perhaps three-quarters of a second, then the display updated.
+
+2
+
+7
+
+8
+
+9
+
++
+
+4
+
+5
+
+6
+
+-
+
+1
+
+2
+
+3
+
+0
+
+=
+
+“Yeah!” Rain screamed at the top of his lungs, catapulting himself to his feet. He jumped around, waving his arms like one of those inflatable tube-men outside a car dealership.
+
+This went on for several minutes.
+
+It was only once he’d calmed down that he admitted to himself that he might be losing it. Roughly three weeks of solitary confinement would do that to a person. Even worse, he’d been awake for the entire time.
+
+Sure, he’d slept once early on, but he hadn’t been able to repeat that performance. It wasn’t just that he didn’t need to, he literally couldn’t. He had no idea why, but his mind kept running at full speed, whether he wanted it to or not. It was as much a curse as a blessing.
+
+Without sleep, he needed to find other ways to break up the time. Meditation helped, but it was no substitute. Projects like the calculator were all that were keeping him sane. The time that he’d spent on it was justified by more than that, however. It needed macros to work, ones much more complicated than those for the communications project. Those same macros would be the key that got him out of here, he was sure.
+
+Hoping to better understand the obelisk, Rain had carefully unpacked the memory that he’d firewalled. It had taken a week, with him fighting against the agony every step of the way. Once he’d learned all he could, he’d wrapped it up safely once more, though he didn’t technically need to at that point. The pain was just as fresh as it had ever been, but it didn’t break him anymore. He’d gotten used to it. That was concerning in and of itself.
+
+“It was worth it, though,” Rain said, speaking to the obelisk. The obelisk didn’t reply, but Rain continued on anyway. “You were trying to connect to me, but I’m broken.” He knocked his knuckles against his skull. “You couldn’t send me what you wanted, so you tried different ways, just like what I’m doing with Bartum’s people. Remind me to introduce you to Bartum. I think you’d like him.”
+
+Rain tilted his head. “What’s that? No, I’m not crazy, you’re crazy! Silly obelisk.”
+
+He laughed to himself, then pushed the silliness away. Okay, enough of that.
+
+Reaching down to the sleeve of his shirt—figuring out how to make clothes had been another involved project—Rain pinched the fabric between his fingers, drawing it out into a wire. With a few moments of focus, he shaped a metal probe on the end, about the size and shape of a dull pencil. He walked over to the obelisk and touched the tip of the probe to its surface.
+
+The moment that he did, he felt the bond to the obelisk widen uncomfortably in his mind. It had been here this whole time, quietly waiting for him to make contact. He took his hand away, leaving the probe stuck unnaturally to the smooth crystal surface.
+
+Rain’s Linksight had grown stronger with practice. After much investigation and with the help of the memory, he’d been able to discover the bond between himself and the artifact. It had been incredibly difficult to see at first, much harder than any of the other links that he’d found. That was because it had been either damaged or was incomplete, he wasn’t sure which.
+
+Fixing it had been a matter of focus, intent, desire, trial, error, and repetition. When he’d finally figured it out, his reward had been another overwhelming blast of pain, somehow even worse than before. The memory of it was currently snug in a second thought-cocoon, tucked away beside the first. In fact, there were more than just two. It hadn’t been a fun three weeks.
+
+Ignoring the link for now, Rain brought up a seemingly-blank panel. While it looked simple, it was actually made using the same construct that formed the display on his calculator. Next, he brought up a full QWERTY keyboard, which similarly used the same type of button components. He took a minute to upgrade both of them to use the latest batch of scripts that he’d just tested.
+
+Focus, intent, desire, trial, error, repetition. Those were the things that made it all possible.
+
+And time.
+
+Lots and lots of time.
+
+The keyboard and display followed Rain as he settled down onto the ground next to the obelisk. The fabric of his sleeve unspooled, stretching further so as to not break the connection.
+
+Reaching to the top right corner of the keyboard, Rain pulled, drawing out a wire just as he had with the simulated shirt of his avatar. It was the same idea, really. The keyboard was a part of him, as was the display and all of the other elements of his interface. He plugged the wire into the bottom right corner of the display, feeling the connection between the two constructs form in his mind. The physical link wasn’t necessary, strictly speaking, but the visualization helped immensely.
+
+After stretching his fingers, Rain slid the keyboard to hover comfortably over his lap, then quickly typed a pair of words, watching the characters appear on the display.
+
+Hello World!
+
+He smiled. The new macro he’d developed for the calculator was working, the improvements carrying over and making the text update much smoother than it ever had before. A few backspaces cleared out the message, leaving the cursor at the top left where it had started. He pushed the key a few more times for good measure, making sure that it stayed within the bounds of the window.
+
+Good, that’s still working. That bug was hell to fix.
+
+Reaching down to his sleeve, Rain pinched off the wire connecting him to the obelisk. He could feel the link there through his fingers, idle, but waiting to blast him with overwhelming pain the moment that the artifact realized he was trying to communicate with it. He’d had quite enough of that.
+
+He picked at the end of the thread until it split, then pulled the pieces apart like peeling a Twizzler, turning one wire into two. Again, this was all just visualization. What he was trying to do was to shunt the response from the artifact into the display, reserving the keyboard for transmission. Neither path would go to his brain directly. Even with Focus and Clarity boosted to the absolute maximum, he could barely process what the obelisk was trying to tell him. Using the panels like this provided a much-needed layer of insulation for his mind.
+
+Lastly, he disconnected the original wire between the keyboard and the display that he’d used for testing, leaving both constructs connected to the obelisk and nothing else. Now when he typed, the signal would go to the artifact, not the display. He wouldn’t see anything unless the obelisk decided to send it back to him, which was what he was hoping for.
+
+“Right.” He cleared his throat. “Commencing communication attempt number thirty-seven: isolated terminal, isolated keyboard, both with version 0.3 processing scripts.”
+
+He tapped the ‘0’ key. Immediately, he felt both connections burn in his mind. Information flowed back along them, pushing into his soul with a power that he was almost helpless to resist. It was like trying to drink from a firehose, as in, a hose filled with literal fire.
+
+Still, it was less painful than anything else so far.
+
+Rain clenched his eyes shut, enduring the pain. He focused on resisting the information that the artifact was trying to backfeed into the keyboard. This increased his agony exponentially, as the obelisk hated resistance.
+
+Shaking his head, he doubled down, muttering through his teeth. “Come on, you stupid thing. One way, damn it.” It seemed to get it after a few moments, though this only made the connection to the display burn even hotter. After one last crescendo, the pain faded, both links falling quiet.
+
+Quiet, but not broken. Not like last time. Rain’s head was pounding, but sitting on the display before him, was a wall of wonderful, incomprehensible gibberish.
+
+❞ ⮴ ⟪ ủ ⇸ ⾌ ⧋ ⥊ ⼓ ᠱ ⺼ ᄨ ባ ⼂ ₖ ≻ ⼓ ⳺ ᶴ ᦎ ⊅ ⫵ ℐ ⶰ Ⓣ ⟽ ⚁ ⴾ ᔧ ቑ ⛴ ⩇ ⍃ ◉ ⥟ ᑗ Ⲥ ⽸ ⺎ ባ ⧗ Ꮓ ⻣ Ꮓ ᣂ ♣ ╔ ♫ ✺ ⵢ ╡ ṵ ⟩ ᔧ ᓺ ဌ ဲ ∔ ⪗ ⠨ Ḍ Ⴎ Ὶ ጆ ᴘ ↩ ⶢ ቺ ⊺ ᆺ ᵝ ▼ ᄵ ዖ ⴋ ᴓ ∆ ☯ ᓆ ᔝ ឝ Ḹ ⻂ Ꮥ ▌ ឿ ⼮ ⠹ ⚶ ⤬ ⥭ រ ≘ ᙑ ወ ṗ ⽍ ⱉ ✩ ⨿ ጩ ⣺ ₩ ᠌ ✐ ᚔ ᛗ Ⓜ ᾉ ⁀ ⫒ ⨎ ᅎ ᦍ ᵵ ⒕ ὰ ῐ ᶁ ᧣ ᄊ ⌀ ⾞ ᄪ ❨ ❞ ⶖ ⫈ ⪦ ⮬ Ἦ ➻ ἵ ⰰ Ṇ ᒡ ᕆ ⓚ ⳗ ⇔ ៎ ᇖ ᄡ ᦺ ቂ ᆅ ⑽ ␜ ᔺ ⢭ ⶱ ⦯ ♅ ឳ ጠ ὄ ⑲ ⦤ Ⱉ ⯯ ቱ ≿ ၮ ኁ ⾕ ሰ ៏ ᴯ ⠪ ⁙ ⽜ ᠒ ⃒ ⨞ ᦿ ፉ ᴷ ⵌ ᔇ ┃ ᙶ ⛨ ᦦ ⪲ ᶋ ᑼ ᕢ ≥ Ⰲ ፙ ⎡ ⚑ ┇ Ⓗ ⦧ ግ ⨮ ⅛ ᢺ ⡍ ⌚ Ⰹ Ⓠ Ὣ ᙩ Ꮲ ፷ ᢄ ⌁ ᴥ ႀ ἓ ሕ ∌ ⛏ ⎻ ⣸ ⇴ Ꮯ ⅛ ⷘ ″ ⃬ ✞ ჻ Ꭽ ⺕ ᨖ ⊺ ᆁ ᕣ ⡔ ☭ ᗙ ⵋ ᠦ ᇭ Ⱡ ᕪ ␑ ⷁ ⢴ ⩆ Ⓟ ⳕ ⁜ ⎯ ∨ ⶮ ဍ ⩾ ⾄ ⯭ ⫄ ᕝ ⚓ ⇻ ⵑ ⼱ ᴶ ⠴ ⓥ ☦ ⷹ ᾲ ℳ┆ ⬂ ⩰ ⿕ አ ◼ ᾟ ᓠ ➵ ᡞ ⒝ ⃧ ⑷ ⎎ ቍ Ⲑ ለ ᦻ ᘡ ᕒ ⍴ ⩶ ➽ ፅ ⮶ ᨊ ᴺ ᶶ ➶ Ὲ ⩢ ⱜ Ṣ ⥑ ᛫ ូ ⚄ ⦲ ክ ❋ ⷭ ⴃ ဠ ⟟ ዊ ᒶ Ⴂ ផ ⦈ ᚃ ἠ Ⴓ ⇨ ⢒ ᵖ ⪲ ⼯ ᐴ ➟ ᄪ ᒤ ሹ ᵖ ᆬ ၇ „ ⰰ ⁷ ᙱ ∂ ᠁ ᠕ ᶅ ဇ ၎ ᙂ ᴌ ᠑ ᕶ ⿂ ᴟ ⚎ ᨅ ᧁ ᵊ ⸍ ⸦ ⽇ ន ⮂ ␗ ṑ ⓥ ᣀ ῡ ტ ᔢ ⥳ ⳟ ဠ ⽟ ⴃ ⫸ Ⲟ ⒢ ᙞ ᗄ ☟ ⦧ Ⲩ ␅ ⌘ ᾿ ⁿ ფ ∉ ⑧ ᒓ ⚽ ➓ ᅥ ⛐ ⣰ ⶴ ⨀ ∫ ⊳ ቝ ጢ ᵚ ⾍ Ḱ ḫ ᦅ ⦚ ↗
+
+“Hacked!” he shouted, pumping his fist.
+
+Working quickly, he summoned a new copy of the display. He didn’t want to clear the gibberish on the off-chance that it meant something. He’d analyze it later. Transferring the connection from the old panel to the new one, he prepared himself to try again.
+
+This time when he tapped the ‘0’ key, instead of an overwhelming torrent, he only felt a single excruciating pulse of fire, one sent to the display only. It appeared that the obelisk had gotten the message. When he saw what the display said, he let himself melt to the ground. He hadn’t expected it to be that easy.
+
+0
+
+“Finally,” he sobbed, his body shaking with relief. The obelisk had echoed his transmission, copying the signal he’d sent from the keyboard, and transmitting it back to the display. He’d made progress at last.
+
+Pulling himself back together over the next several minutes, Rain stared at the flashing cursor. That was merely an artifact of his display, not something being sent from the obelisk. The link was quiet. Waiting. After some thought, he tapped the ‘1’ key. The obelisk dutifully echoed the character back to him. He then pressed ‘2’ twice, then ‘3’ three times.
+
+He cried again when the obelisk sent back four ‘4’s, then five ‘5’s, continuing up through the numbers. It wasn’t from the pain, though that was there with every single character that the artifact sent. He was crying because it was doing it on its own, matching his pattern, trying to understand.
+
+Sitting on a log with his hat beside him, Jamus carefully added some cross-hatching to the drawing in his notebook. He was just doodling to pass the time, but a little shading went a long way toward adding some realism. Unfortunately, it wasn’t going well.
+
+He frowned, staring at the image. Cloud’s fur was difficult to get right. On a spark of inspiration, he added a few curly lines, taking the drawing from realistic to something more abstract. He grinned as he made the alterations. The fluffy dog’s name meant ‘cloud’ in Rain’s language, so why not roll with it?
+
+“Who is that, and why is she trying to wrestle a cloud?” Staavo’s voice rasped from over his shoulder.
+

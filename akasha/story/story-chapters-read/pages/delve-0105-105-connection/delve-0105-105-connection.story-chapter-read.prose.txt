@@ -1,0 +1,394 @@
+The barrier stone was a featureless obsidian obelisk, about one meter tall, and it hung unsupported and motionless in the air. It was sharp and angular, tapering to a wicked point at the top, and with a small inverted pyramid forming the base. Whether it really was obsidian, or some magical analog, Rain had no idea. It seemed to absorb the light that filtered in from the jagged hole in the ceiling.
+
+Strangely, it appeared that nothing could spawn in this room, doubtless thanks to some more Majistraal bullshit. Rain and Officer Bartum were presently standing in front of the barrier stone, considering what to do.
+
+Rain had sent for the Watch immediately once he’d realized what was going on with the illusion. Bartum had rushed over with Officer Tanner, their enchantment expert, and Officer Sells, their Diviner. The illusion had proved impervious to the Watch’s special eyes, and Sells had tried several different remote viewing spells, also to no effect.
+
+Piercing the illusion had been straightforward enough, however. While Rain was the only one who could see through it, you didn’t need to see what you were working on to hit it with a shovel. It had only taken the workers about five minutes of digging before the entire plug of stone had collapsed into the room below. Clearing out the rubble took a little longer, but with the assistance of the Watch’s Earth mages, things went quickly.
+
+Despite all of this activity, the illusion hadn’t broken. Even now, the gaping hole in the ground appeared to be solid stone when viewed from above by anyone who wasn’t Rain. It was quite dangerous, in fact. They’d had to block off the area so no one fell in accidentally. Once you passed through the thin layer of the illusion, however, things went back to normal, even for the unawakened.
+
+Rain had two leading theories for why he was different, both of them soul-related. First, it could have been because he had broken his paling. Second, it could simply be the fact that he was stronger than he should have been for a level eighteen. Nothing else really made any sense, though it could have been a combination of multiple factors. The only other possible explanation he could think of was his high Clarity, but Velika wouldn’t have had that, and she’d made it in just fine. It was a bit of a mystery, but not as much of one as the obelisk hovering in the air before him.
+
+Once they’d found the hidden room, Bartum had forbidden everyone from touching anything until Tanner finished with his examination. That had been a good call, even though it hadn’t worked out so well for Tanner himself. The man was still recovering.
+
+The moment he’d laid his palm on the black crystal, Tanner had started screaming in agony. He’d tried to pull away, but been unable to. After a few seconds, he’d passed out. He would have crumpled to the ground completely, but his fall was arrested by his hand, which was still stuck to the stone’s surface. Bartum had tried to pull him away, but the obelisk didn’t release him for another ten seconds or so.
+
+They’d feared that he was dead for a few moments until he’d suddenly lurched awake and started screaming again. That had been around an hour ago. It had taken thirty minutes before he’d become coherent enough to explain what he’d experienced.
+
+For Tanner, the fifteen-odd seconds he’d been in contact with the stone had felt like an eternity. His mind had been filled with pain, flashing light, confusing smells, and bizarre new sensations that he didn’t have words for. Mostly the pain, though. Unspeakable, indescribable pain.
+
+As horrifying as what had happened to Tanner was, Bartum wasn’t willing to give up. He’d gotten the highest-leveled person he could find to come and try next. Khurt had taken some convincing, but in the end, he’d come to agree that it was worth the risk. Unfortunately, he had reacted much the same way as Tanner had. He’d recovered a bit quicker, though, only needing ten minutes to become coherent again, and another twenty to get back to his feet.
+
+Now, it was Rain’s turn. Needless to say, he was a bit apprehensive.
+
+“You’re sure that this is wise?” Bartum asked, glancing at him.
+
+Rain nodded. “I’m the only one who can see through the illusion. That has to mean something.”
+
+Bartum nodded. “Well, at least the effects don’t seem to be permanent. We can’t really afford to lose you.”
+
+“Yeah,” Rain said, extending his bare hand. He’d removed his gauntlet, unsure whether that would matter. His fingers came to a stop, trembling just above the surface.
+
+Here we go.
+
+Agony.
+
+When Rain woke up, that was his first memory. So much pain that he hadn’t been able to move. Hadn’t been able to see. Hadn’t been able to think. It was utterly indescribable, and he could remember every moment of it.
+
+He’d thought he’d known what pain was. He’d been tossed around like a rag doll by the Razorspine. Fallen from a cliff and had all of his bones shattered. Endured self-inflicted burns and frostbite. Suffered through the maximum buff of the Malleable Ring.
+
+None of that even compared.
+
+Perhaps the fall would have, but the damage to his brain had prevented him from remembering it. Insulated him. Protected him. There was no protection from the pain from the barrier stone.
+
+He’d passed out, of course, but that had been after the pain had ended. For an incalculable eternity, Rain had been denied that escape. The torture had just gone on and on, searing his every nerve beyond all bounds of sanity, but not allowing him to break. Then, suddenly, mercifully, it had stopped.
+
+How long ago that had been, Rain had no idea.
+
+With a weak whimper, he made a feeble attempt to roll himself over so he wasn’t lying on his face. His limbs weren’t responding properly, and all he managed was a pathetic flop, like a dying fish. His head was pounding, so he called for the soothing cold of Winter.
+
+Winter didn’t come.
+
+No…. He closed his eyes. Status.
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+12,749
+
+22,750
+
+514,832
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+HP
+
+600
+
+600
+
+200/d
+
+SP
+
+210
+
+920
+
+190/d
+
+MP
+
+8,017
+
+8,017
+
+504.1/h
+
+Dark Revenant’s Armor
+
+CUR
+
+MAX
+
+RGN
+
+DUR
+
+6,754
+
+13,338
+
+0
+
+SAT
+
+0
+
+13,202
+
+-92/s
+
+CHG
+
+49
+
+14,209
+
+-65/d
+
+Attributes
+
+163/143
+
+EFF
+
+TOTAL
+
+BASE
+
+BUFF
+
+SYN
+
+STR
+
+8.7
+
+30
+
+10
+
+20/37
+
+29%
+
+RCV
+
+8.8
+
+20
+
+10
+
+10/15
+
+44%
+
+END
+
+8.84
+
+46
+
+10
+
+36/16
+
+34%
+
+VGR
+
+8.93
+
+19
+
+10
+
+9/24
+
+47%
+
+FCS
+
+35
+
+35
+
+10
+
+25/49
+
+100%
+
+CLR
+
+263
+
+263
+
+200
+
+63/93
+
+100%
+
+Resistances
+
+50/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+4.6
+
+0%
+
+COLD
+
+4.6
+
+0%
+
+LIGHT
+
+4.6
+
+0%
+
+DARK
+
+54.6
+
+0%
+
+FORCE
+
+4.6
+
+0%
+
+ARCANE
+
+4.6
+
+0%
+
+CHEMICAL
+
+4.6
+
+0%
+
+MENTAL
+
+4.6
+
+0%
+
+The window appeared instantly. His condition was unchanged, the same as it had been before the pain had obliterated his mind.
+
+It hadn’t been physical.
+
+He wasn’t hurt.
+
+Rain just lay there, digesting the numbers. He thought back on the experience, trying to determine what had happened, then screamed as the pain returned. It took him a full minute to realize that the agony he was experiencing wasn’t real. It was just the memory.
+
+With this revelation, Rain latched desperately onto his character window. He needed to stop thinking about it. To stop reliving that horrible, eternal moment.
+
+It wasn’t real. Health, 600/600. Mana, 8017/8017. Stamina, 210/920. Regenerating 190 per day. Full in less than four days.
+
+…
+
+The memory rushed back, and Rain frantically focused.
+
+How many days, exactly? Nine-twenty minus two-ten by one-ninety. Three point…seven…three…six….eight…four…
+
+The math helped. Rain lost himself in the numbers, calculating, recalculating, comparing.
+
+Anything to keep the memory at bay. Anything to forget.
+
+Winter…why isn’t it working?
+
+His focus slipped, and he fell back into the memory again. He gave a ragged gasp, his lungs responding jerkily as if the muscles were broken. He couldn’t feel the air. He couldn’t hear his heart beating in his chest.
+
+No. It isn’t real. It isn’t. Zero and one is one. One and one is two. One and two is three. Three and two is five. Eight. Thirteen. Twenty-one. Thirty-four. Fifty-five. Eighty-nine. One hundred forty-four—
+
+Winter activated. The cold crashed into him so suddenly that he gasped. The memory snapped into crystal focus, overriding all of his attempts to hold it at bay.
+
+He closed his eyes and tried to scream, but there was no air in his lungs. He tried to curl himself into a ball, but his spasming muscles disobeyed. His arm jerked, smashing into his face.
+
+He didn’t feel it. As if such a thing could compare to the fire in his mind.
+
+Noooooooo…
+
+Winter wouldn’t deactivate. Desperately, Rain tried to push at the memory. To expel it. To destroy it. To lock it away.
+
+Slowly, ever so slowly, he began building a wall around it. A barrier of thought. Of will. He forced himself to forget. He didn’t know how he was doing it, but he did it all the same. He had to.
+
+It seemed to take hours.
+
+When the barrier was complete, Rain let himself fall limp, blind to his surroundings. The bundle of memory floated in his shattered mind like a cocooned bug, wrapped up in torn fragments of his sanity. His eyes closed, and he slept.
+
+The next time Rain rebooted, the memory rushed to meet him once more. This time, however, it was hazy. Indistinct. He could still feel it there, lurking in some dark corner of his mind, but the wall that he had built was holding. Keeping it at bay.
+
+For now.
+
+Wearily, he pushed himself up to a sitting position, then opened his eyes. What he saw filled him with confusion and disorientation. He was sitting in darkness, but it wasn’t the same darkness that he had left behind.
+
+The chamber with the barrier stone had been dark because only a little light had made it down from the surface. This place was dark because it was empty. There was no light whatsoever, and yet, he could see.
+
+Gears began turning in Rain’s mind as he looked down at his hand. Instead of his familiar and increasingly pale skin, he saw blue light. His hand was translucent. A hologram. His entire body was like that, his armor and clothing gone, leaving him naked as the day he was born.
+
+He’d experienced this once before. When he’d received his first accolade.
+
+“I’m in my soul…”
+
+His voice sounded strange. Flat, as if he was in a padded room. There was no echo whatsoever. He pushed himself to his feet, then fell as his body refused to respond. He cried out, catching himself against the…
+
+Ground? There is no ground. Carefully, he rolled over and got to his feet again. This time, he managed it. Then how am I standing?
+
+The sensation of airlessness that he’d experienced before struck him again, and he gasped. Or, appeared to gasp, anyway. He was seeing without light, standing without ground, and breathing without air. He’d never woken up in his own body. He’d been here the whole time.
+
+“What the…? How can I talk if—Gah!”
+
+He’d still been staring at his hands. They’d suddenly flickered, drifting away from his arms for a fraction of a second before snapping back into place. Worse, he hadn’t just seen it, but also felt it, a sensation he had no words for, and not a particularly pleasant one.
+
+What the hell was that?
+
+The first time he’d been here, in this not-space, he’d looked like a projection of himself. A hologram of blue light. He still looked like that, but something had clearly changed. Where before he’d been almost sky blue, now his form was darker. More vibrant. Like a sapphire.
+
+He had also been a little less broken.
+
+As he continued to examine himself, parts of his body kept glitching. There was no other word for it. Sometimes it was a hand, sometimes a leg, and sometimes all of him at once. It became worse the faster he moved.
+
+The glitches looked a bit like the distortion of an over-the-air TV signal during a bad storm. A digital signal, not an analog one. There was no static, just blocky chunks of corrupted data.
+
+Well, that’s a thing. Guess I found the soul damage.
+
+Other than the glitches, his body looked healthy enough, for a hologram, anyway. His senses were working, though a bit oddly. His skin felt more or less like skin, and his hair behaved more or less like hair. He could breathe, though the act was more instinctual than necessary. Likewise, he was unsure about his heart. He couldn’t tell if it was beating, or if he even had one to begin with. Theoretically, if his lungs were being simulated, then his other internals should have been as well, but he hadn’t been able to feel his pulse when he’d pressed his fingers to his neck.
+
+Rain looked up, finished with his examination, and his theoretical heart immediately tried to leap out of his chest. “Oh fuck!”
+
+It was the obelisk.
+
+As he attempted to scramble away, his leg glitched out from under him, and he toppled. His head hit the not-ground, then his whole body glitched. He found himself standing in the exact position he’d been in moments before, staring at the angular shard of obsidian.
+
+It was hanging at chest level, perhaps twenty meters away. To his eyes, it appeared exactly as it had in the real world, jet black, inscrutable, and—now that it had flayed his soul—menacing. His gaze shied away from it. The memory rattled at the bars of the cage that he’d constructed, and he closed his eyes, pushing it back into the darkness.
+
+What the hell is it doing in my soul?
+
+Rain took a deep breath and let it out slowly, heedless of the lack of air. Once he worked up the courage, he opened his eyes again and looked back at the obelisk. It hadn’t moved.
+
+Slowly, he panned his head, searching for more unpleasant surprises. He looked up, then down past his feet. There was nothing else. Only darkness for as far as the eye could see in every direction. Wisps of…something…swirled faintly, or perhaps it was the darkness itself. It was difficult to describe. He remembered that it had been the same when he’d received his accolade. The darkness was almost tangible, behaving like mist.
+
+At that time, however, the swirls had been all around him. Now, the not-air in his immediate vicinity was clear. It was like being in the middle of a giant soap bubble.
+
+He completed his scan and looked back at the obelisk. Correction: where the obelisk should have been. He spun, looking around for it frantically. It remained gone.
+
+That was bad. He wanted that damn thing where he could see it.
+
+What the hell is going on?
+
+“Hello!” he called. “Bartum, can you hear me? Anyone? Help!”
+
+There was no response. His words didn’t echo, consumed by the yawning darkness. He felt exposed, naked and alone in the emptiness. Vulnerable.
+

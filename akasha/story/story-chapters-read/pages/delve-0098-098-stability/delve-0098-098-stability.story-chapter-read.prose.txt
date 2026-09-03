@@ -1,0 +1,360 @@
+Training Overview x3
+
+General Experience Earned
+
+Mana Use: 3,794
+
+Skill Experience Earned
+
+Mana Manipulation: 745
+
+Synchronization
+
+Strength: +1%
+
+Recovery: +1%
+
+Vigor: +3%
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+22,749
+
+22,750
+
+454,832
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+HP
+
+940
+
+940
+
+250/d
+
+SP
+
+520
+
+520
+
+340/d
+
+MP
+
+6,157
+
+6,157
+
+466.2/h
+
+Dark Revenant’s Armor
+
+CUR
+
+MAX
+
+RGN
+
+DUR
+
+12,721
+
+1,309
+
+0
+
+SAT
+
+0
+
+13,202
+
+-92/s
+
+CHG
+
+0
+
+14,209
+
+0
+
+Attributes
+
+139/139
+
+EFF
+
+TOTAL
+
+BASE
+
+BUFF
+
+SYN
+
+STR
+
+13.2
+
+47
+
+10
+
+37/37
+
+28%
+
+RCV
+
+10.5
+
+25
+
+10
+
+15/15
+
+42%
+
+END
+
+8.06
+
+26
+
+10
+
+16/16
+
+31%
+
+VGR
+
+15.3
+
+34
+
+10
+
+24/24
+
+45%
+
+FCS
+
+10
+
+10
+
+10
+
+0/49
+
+100%
+
+CLR
+
+247
+
+247
+
+200
+
+47/61
+
+100%
+
+Resistances
+
+0/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+2.6
+
+0%
+
+COLD
+
+2.6
+
+0%
+
+LIGHT
+
+2.6
+
+0%
+
+DARK
+
+2.6
+
+0%
+
+FORCE
+
+2.6
+
+0%
+
+ARCANE
+
+2.6
+
+0%
+
+CHEMICAL
+
+2.6
+
+0%
+
+MENTAL
+
+2.6
+
+0%
+
+Three days had passed in a flash, and only now did Rain feel as if he was starting to get a handle on things. He was currently in the bathhouse, sitting on his cot in his makeshift room on the far side of the pool. He’d already been up for a few hours, having had breakfast, done a light workout, bathed, trimmed his beard, and donned his armor. The temporary padding that he was wearing underneath was a marginal improvement over his old gambeson, but it still was a bit uncomfortable.
+
+At the moment, however, he couldn’t feel it. The final element of his new morning routine was to spend a bit of time trying to fix his soul. Aura Focus was active, blanking out his senses as he meditated, trying to visualize ‘the inner world.’
+
+This wasn’t Essence Meditation. While he was technically using Essence Well, he had IFF set to blacklist everyone, including himself. Thus, there was no mana consumption whatsoever, with only the sensory deprivation of Aura Focus to show that he was doing anything at all. He’d found that the quiet helped him focus.
+
+Meditation wasn’t something that Rain had been big on prior to getting whisked away from his old life. He knew how it was supposed to work, of course. Mindfulness had been hailed on the internet as a cure for everything from stress to anxiety to the common cold. Rain had tried it once, in an attempt to get himself out of his funk.
+
+For like fifteen minutes.
+
+The whole thing had struck him as pseudo-spiritual nonsense, designed to sell self-help books more than anything else. It hadn’t worked— obviously, given his mindset—and he’d given up after the single attempt.
+
+Now, in a world filled with magic and confronting the existence of his soul, the practice seemed much less nonsensical. Rain was kicking himself for having dismissed it out of hand like an idiot. He’d never really given it a shot. Even if it ended up doing nothing for his soul, he was already seeing benefits just from the clarity that it brought to his otherwise scattered thoughts.
+
+He’d long-since resolved to do better, but that wasn’t as easy as just saying it. He was still an idiot, after all. An idiot who had broken his soul before he even understood what it was. All he could do was try to be less of an idiot going forward. One day at a time.
+
+With a flicker of annoyance, Rain realized that he was thinking about stuff, and then that he was thinking about thinking about stuff. That wasn’t how meditation was supposed to work. He forced himself to pay attention to his breathing again until the chittering of his mind faded away. All that was left was his breath.
+
+In.
+
+Out.
+
+In.
+
+Out.
+
+After an indeterminate amount of time had passed, Rain switched his focus. He tried to visualize his soul.
+
+When he’d earned his first accolade, he had been transported to a formless void in which he saw himself as a being of glowing blue light. Now, he was trying to recapture that feeling, to imagine himself as that being. Not a ghost, but a hologram. A digital representation. An entity of data. Of numbers and frozen light.
+
+This was the link. The only clue that he had about what his soul might look like. The sole passage to the ‘inner world’ that Bartum had mentioned. His soul, the void, and something else.
+
+Rain’s hand tightened on the unbound accolade that he was holding. He couldn’t feel the metal against his skin, but he knew it was there. With all of his might, he willed it to appear in the dark void of his mind. Willed himself to appear. To reach out. To take it.
+
+Nothing happened.
+
+Disappointed by his failure, he relaxed his grip. The accolade experiment was only one of the things that he’d tried, but he’d really thought it would be the key. After a moment, he frowned and pushed aside the emotion, focusing on his breathing once more. Then, he shifted focus, visualizing the blue dialogs that he saw as the system.
+
+Soul Interface.
+
+He pushed, straining to define what he wanted. To will the panel into existence.
+
+Again, nothing happened.
+
+…
+
+Absolutely nothing.
+
+Damn it. Why can’t I find a book about this? I miss Wikipedia.
+
+He’d looked, of course. There was nothing on the subject in Staavo’s tower, which had been thoroughly ransacked during the riots. Rain felt bad about that, having been the one to leave it unlocked. He knew where the key was now, having located it in the mess with Detection, but he hadn’t thought of it back when it would have mattered. He shook his head.
+
+And now I’m thinking again. Balls.
+
+Breathing out slowly, he let his frustration fade away, returning his focus to his breathing. He floated in the darkness, dead to the world and his own problems. Another indeterminate quantity of time passed, with not so much as a thought to disturb the stillness.
+
+Then, there was a flicker. Blue light, then a spiraling, twisting sensation accompanied by a rushing roar and an overpowering sense of impending destruction. Rain cried out, dropping Aura Focus and lurching to his feet. He windmilled his arms, managing to catch his balance before he toppled over onto his face. Sight returned, leaving him blinking in the mid-morning light.
+
+“What the fuck was that?” he gasped.
+
+Dozer didn’t reply. The slime was still asleep in its box. There was no one else around, and Rain’s view across the pool was obstructed by the wooden folding screen that he’d set up to give himself some measure of privacy. He could hear the bustle of activity on the other side, though. It sounded like the workers were singing something approaching a sea shanty, never mind that the sea was over a hundred leagues away.
+
+The sounds barely even registered to Rain as he sat back down on the cot, reactivating Aura Focus. That was it, I’m sure of it. I was close. That feeling… That was my soul. That was the damage that Bartum saw.
+
+He couldn’t say how he knew, but he did. The destruction that he had felt charging toward him had him feeling clammy just thinking about it. It was a primal fear, one that warned of the absolute obliteration of his entire being. However, this was the sixth time that he’d tried to access his soul through meditation, and the first time he’d gotten so much as a hint that he was on the right track. He wasn’t going to let a little existential dread stop him, not when he was so close.
+
+The chaos is already there; I just can’t feel it...
+
+He shook his head, trying to chase away his fear. I need to feel it if I’m going to fix it. It’s my own soul; there’s nothing to be afraid of. It’s not like that movie where looking at the monster drives you insane. Man, that was dumb as— Shit, distracted again. Come on, Rain, focus. Breathing. In. Out. In. Out.
+
+…
+
+After ten more minutes of this, Rain snarled in frustration and opened his eyes. It was no use. He was too excited to get anywhere near the mental state he’d been in when the sensation had occurred. There was no point in trying to force it. He resignedly flicked on his HUD, then cursed when he saw the time.
+
+Damn it all, I’m going to be late.
+
+He got to his feet, grabbed his helmet from where it was lying beside the cot, and tied it to his belt before wrapping himself up in his cloak. He’d try again later, once he had a chance to calm down. He left Dozer behind as he left his makeshift bedroom, creeping quietly to avoid waking the slime. The longer it stayed happily asleep in its box, the better. Random fact: slimes, like cats, loved boxes.
+
+Once he was a few paces away, he began doubling his footsteps with Velocity. He’d started doing this two days ago whenever he had somewhere to be in a hurry, which was basically all of the time. By keeping the spell at a low level and just walking normally, he could cover a lot more ground. The experience was not unlike rollerblading. It got him some looks, but it was good practice for dealing with the disorientation from Velocity, and the cost was relatively low. With Aura Compression, he was getting a 98% boost to speed for only a paltry 4 mp/s. He had no trouble walking at that level, as long as he concentrated on his footing and took it easy around corners. It only started making him nauseated if he kept it up for an extended period, but even that he was getting used to.
+
+When he reached the archway, he dropped the spell, needing to negotiate his way around the machinery that was obstructing the walkway. The resourceful workers had deconstructed a watermill, appropriating the waterwheel and the wooden gearing that came with it. A donkey was plodding in a circle beside the pool, yoked to the axle that had previously been attached to the millstone. Water was pouring from the top of the wheel into a rough wooden channel, which ran through the archway and out into the entry room where the barrel filling operation was in full swing.
+
+Rain briefly paused to survey the commotion of singing workers. The wooden channel had been set up to fill six barrels at a time, but that wasn’t enough to meet demand, and not everyone had come for a full barrel of water anyway. The place bustled with the activity. The workers were not only managing the barrels, but also carrying buckets, pots, and all manner of other containers back and forth to the pool to fill them. They’d tried letting the public inside to do it themselves, but that had caused an issue with people not wanting to leave the refrigerated building and preventing others from getting inside.
+
+Rain waved to the workers and grinned as he got a hearty welcome in return. Everyone was well-used to his soul leakage at this point. All unawakened could feel it, though it bothered some more than others. A few of them, such as Tarny, said that they actually liked the sensation. Of the awakened, only the Watch seemed to notice anything wrong. No one from the Guild had been able to feel it, nor any of the awakened nobility.
+
+Once Rain was satisfied that there were no issues, he turned and headed for the former storage room. Vanna was standing at the door, watching him with a patient expression. Rain winced as he rechecked the time. Thirteen minutes past the hour. Damn.
+
+“Sorry,” he said to Vanna by way of greeting, then followed her into the room and nodded to the people seated around the table. With the addition of the two of them, there were five people crammed into the tiny space, not leaving a lot of elbow room. Rain quickly took his seat at the table as Vanna closed the door and sat beside him.
+
+“You’re late, bossman,” said Uman, an old man with a goat-like beard and a slurred accent. He accompanied this statement with his hands, saying the same thing in hand code. The grin on Uman’s face said that he was just teasing. Uman had been over forty-five minutes late to the first attempt at this meeting yesterday, and Rain had called him on it.
+
+Rain made sure to look straight at Uman as he replied, speaking clearly and enunciating. “Sorry for making you wait, Uman. I am a total hypocrite, aren’t I?” Uman was deaf, but he was unbelievably good at reading lips. Rain wasn’t yet confident enough in his own grasp of hand code to try communicating that way, nor could the others have understood him if he had. Uman was only signing anything at all because Rain had asked him to. Learning the common hand code was on Rain’s list of priorities, but that wasn’t the reason Uman was here.
+
+“S’okay,” said Uman, smiling. “I got to drink your coffee.”
+
+“Hah!” Khurt laughed, jostling the old man. “No, he didn’t. I’ve got it on the floor next to me. Had to keep it safe from the old thief. Hang on.”
+
+Rain watched with some amusement as Khurt attempted to retrieve the mug of coffee without spilling it everywhere. Uman wasn’t making it easy for him, making a show of fighting for it. As a silverplate Guilder, Khurt could have easily overpowered the old man, but he didn’t. Instead, he let him have his fun.
+
+Khurt had introduced Uman to Rain when Rain had asked for someone who knew hand code. The two were friends. Uman had been a master brewer before he’d retired, and Khurt had apprenticed under him after he’d stopped adventuring to work at the Guild.
+
+Rain was immensely grateful that Khurt had agreed to help. He’d liked the man from the moment he met him, and they got along well. It was astonishing to Rain that the barman didn’t have more friends back at the Guild, but apparently, there was a reason for that. People like Khurt and Gus—adventurers who had given up adventuring—were viewed with a certain stigma. They were ostracized by the other adventurers, looked down upon and called cowards behind their backs.
+
+Rain didn’t know Gus’s circumstances, but Khurt had pulled Rain aside and explained his own situation. He hadn’t wanted Rain to think he was something that he wasn’t, or to count on him if ‘things went bad.’ Khurt had gotten a lucky blue when he was just a kid, but nobody had told him about specializations until it was too late. His skills were all over the place, chosen with a child’s enthusiasm and no thought at all for creating a coherent build. Despite his level, Khurt said that he was weaker than an average bronzeplate. In other words, too weak to advance.
+
+It was a sad situation, but one that the barman had come to accept, and not something that Rain could do anything about, at least for now. A few types of respecialization accolades existed and could be used by anyone with a functioning soul, but they were one-time-use and hard to come by. At one skill point refunded per accolade, it would take basically a fortune to restore Khurt’s build to something viable, and that wasn’t even considering what was wrong with his stats.
+
+The barman hadn’t gone into detail, but Rain could imagine how bad it was. It was a disturbing parallel to what could have happened to Rain had he not spent entirely too much time playing video games. He had honestly lucked out with some of his choices. Knowledge was power, but knowledge was hard to come by without the internet, or even the printing press.
+
