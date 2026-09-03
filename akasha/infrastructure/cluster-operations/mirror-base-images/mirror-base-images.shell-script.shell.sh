@@ -2,8 +2,6 @@
 
 set -euo pipefail
 
-# shellcheck disable=SC2034  # Carried across from infra/scripts; nothing here reads it
-SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
 # shellcheck disable=SC1091
 . "${AKASHA_ROOT}/akasha/service-system/cluster-services/pages/registry/registry.conf"
