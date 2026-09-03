@@ -10,6 +10,7 @@
     "./code-root": "./code-root/code-root.module.code.ts",
     "./email-address-property": "./email-address-properties/email-address-property.page-type.ts",
     "./file-property": "./file-properties/file-property.page-type.ts",
+    "./formula-property": "./formula-properties/formula-property.page-type.ts",
     "./generator-kind": "./generator-kinds/generator-kind.page-type.ts",
     "./generator-kind/uuid-v7": "./generator-kinds/pages/uuid-v7.generator-kind.ts",
     "./instant-property": "./instant-properties/instant-property.page-type.ts",

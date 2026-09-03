@@ -2450,6 +2450,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
+        "@akasha/editor-extension": "workspace:*",
         "@akasha/readout-system": "workspace:*",
         "zod": "^4.4.3",
       },
