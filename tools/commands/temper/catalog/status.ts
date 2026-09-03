@@ -1,18 +1,20 @@
-
-export const summary = "Show per-domain collected / pending-invalidation state by reading TemperCatalog.lua + TemperCatalogConfig.lua"
+export const summary =
+  "Show per-domain collected / pending-invalidation state by reading TemperCatalog.lua + TemperCatalogConfig.lua"
 
 import { existsSync, readFileSync } from "node:fs"
-import type { CommandHelp } from "../../../ops/surface.ts"
-import { emitJson, emitTsv } from "../../../lib/format-output.ts"
-import { parseArgs } from "../../../lib/parse-args.ts"
+import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
 import {
   type AccountSummary,
-  catalogDomainKeys,
-  catalogPaths,
-  catalogSavedVariables,
-  catalogSideFile,
-  type SideFile,
-} from "../../../lib/temper-catalog-code.ts"
+  readAccountSummaries,
+} from "@akasha/temper-catalog-host/saved-variables-reader"
+import {
+  resolveSavedVariablesPath,
+  resolveSideFilePath,
+} from "@akasha/temper-catalog-side-file/catalog-file-paths"
+import { parseSideFile, type SideFile } from "@akasha/temper-catalog-side-file/catalog-side-file"
+import { emitJson, emitTsv } from "../../../lib/format-output.ts"
+import { parseArgs } from "../../../lib/parse-args.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -93,19 +95,14 @@ export default async function temperCatalogStatus(args: readonly string[]): Prom
   const parsed = parseArgs(help, args)
   const json = parsed.boolean("--json")
 
-  const paths = await catalogPaths()
-  const savedVariablesPath = paths.resolveSavedVariablesPath(parsed.string("--saved-variables-file"))
-  const sideFilePath = paths.resolveSideFilePath(parsed.string("--side-file"))
-
-  const reader = await catalogSavedVariables()
-  const sideFileModule = await catalogSideFile()
-  const { CATALOG_DOMAIN_KEYS } = await catalogDomainKeys()
+  const savedVariablesPath = resolveSavedVariablesPath(parsed.string("--saved-variables-file"))
+  const sideFilePath = resolveSideFilePath(parsed.string("--side-file"))
 
   const summaries = existsSync(savedVariablesPath)
-    ? reader.readAccountSummaries(readFileSync(savedVariablesPath, "utf-8"))
+    ? readAccountSummaries(readFileSync(savedVariablesPath, "utf-8"))
     : []
   const sideFile = existsSync(sideFilePath)
-    ? sideFileModule.parseSideFile(readFileSync(sideFilePath, "utf-8"))
+    ? parseSideFile(readFileSync(sideFilePath, "utf-8"))
     : undefined
 
   if (json) {
@@ -145,13 +142,7 @@ export default async function temperCatalogStatus(args: readonly string[]): Prom
     pendingInvalidation: s.pendingInvalidation ? "yes" : "no",
     skipReason: s.skipReason ?? "",
   }))
-  const tsv = emitTsv(rows, [
-    "account",
-    "domain",
-    "collected",
-    "pendingInvalidation",
-    "skipReason",
-  ])
+  const tsv = emitTsv(rows, ["account", "domain", "collected", "pendingInvalidation", "skipReason"])
 
   const summaryLines = [""]
   if (summaries.length === 0) {

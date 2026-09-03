@@ -1,11 +1,11 @@
-
 export const summary = "Fresh-install a new third-party ESO addon from ESOUI by name (unmanaged)"
 
-import type { CommandHelp } from "../../../ops/surface.ts"
+import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
+import { installNamedAddon } from "@akasha/temper-community-addons/install-named-addon"
+import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { inputError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { deployables, esoPaths } from "../../../lib/temper-community-addon-code.ts"
-import { installNamedAddon } from "@akasha/temper-community-addons/install-named-addon"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -56,15 +56,13 @@ export default async function temperCommunityAddonInstall(args: readonly string[
   const parsed = parseArgs(help, args)
   const json = parsed.boolean("--json")
   const force = parsed.boolean("--force")
-  const addonsPath = parsed.string("--addons-dir") ?? (await esoPaths()).addonsDir()
+  const addonsPath = parsed.string("--addons-dir") ?? addonsDir()
   const name = parsed.positionals[0]
   if (name === undefined) throw inputError("missing required positional argument: name")
 
   const repoRoot = parsed.string("--repo-root")
   const ownedNames = new Set(
-    (await deployables())
-      .listDeployables(repoRoot === undefined ? undefined : { repoRoot })
-      .map((d) => d.name)
+    listDeployables(repoRoot === undefined ? undefined : { repoRoot }).map((d) => d.name)
   )
 
   const outcome = await installNamedAddon(name, {

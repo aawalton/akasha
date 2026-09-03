@@ -1,14 +1,20 @@
-
 export const summary = "Download and install updates for outdated third-party ESO addons from ESOUI"
 
-import type { CommandHelp } from "../../../ops/surface.ts"
+import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
+import { downloadAndInstall } from "@akasha/temper-community-addons/addon-download"
+import {
+  distinctUids,
+  type PlannedAddon,
+  planUpdates,
+  selectTargets,
+  unknownOnlyDirs,
+} from "@akasha/temper-community-addons/addon-update-plan"
+import { fetchCatalog, fetchFileDetails } from "@akasha/temper-community-addons/esoui-catalog"
+import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
+import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { inputError, operationalError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { deployables, esoPaths } from "../../../lib/temper-community-addon-code.ts"
-import { fetchCatalog, fetchFileDetails } from "@akasha/temper-community-addons/esoui-catalog"
-import { downloadAndInstall } from "@akasha/temper-community-addons/addon-download"
-import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
-import { distinctUids, planUpdates, type PlannedAddon, selectTargets, unknownOnlyDirs } from "@akasha/temper-community-addons/addon-update-plan"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -77,10 +83,7 @@ function groupDirsByUid(selected: readonly PlannedAddon[]): Map<string, string[]
   return map
 }
 
-function installedVersionOf(
-  group: readonly PlannedAddon[],
-  dir: string
-): string | undefined {
+function installedVersionOf(group: readonly PlannedAddon[], dir: string): string | undefined {
   return group.find((a) => a.dir === dir)?.installedVersion
 }
 
@@ -90,19 +93,14 @@ export default async function temperCommunityAddonUpdate(args: readonly string[]
   const dryRun = parsed.boolean("--dry-run")
   const force = parsed.boolean("--force")
   const only = parsed.repeated("--only")
-  const addonsPath = parsed.string("--addons-dir") ?? (await esoPaths()).addonsDir()
+  const addonsPath = parsed.string("--addons-dir") ?? addonsDir()
   const repoRoot = parsed.string("--repo-root")
 
   const ownedNames = new Set(
-    (await deployables())
-      .listDeployables(repoRoot === undefined ? undefined : { repoRoot })
-      .map((d) => d.name)
+    listDeployables(repoRoot === undefined ? undefined : { repoRoot }).map((d) => d.name)
   )
 
-  const [catalog, installed] = await Promise.all([
-    fetchCatalog(),
-    readInstalledAddons(addonsPath),
-  ])
+  const [catalog, installed] = await Promise.all([fetchCatalog(), readInstalledAddons(addonsPath)])
   const plan = planUpdates(installed, catalog, ownedNames)
 
   const unknown = unknownOnlyDirs(plan, only)
@@ -130,11 +128,7 @@ export default async function temperCommunityAddonUpdate(args: readonly string[]
     }
     try {
       const details = await fetchFileDetails(uid)
-      const result = await downloadAndInstall(
-        details,
-        dirsByUid.get(uid) ?? [],
-        addonsPath
-      )
+      const result = await downloadAndInstall(details, dirsByUid.get(uid) ?? [], addonsPath)
       for (const dir of result.installedDirs) {
         outcomes.push({
           dir,

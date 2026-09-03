@@ -1,12 +1,13 @@
+export const summary =
+  "List installed third-party ESO addons with installed vs latest ESOUI version"
 
-export const summary = "List installed third-party ESO addons with installed vs latest ESOUI version"
-
-import type { CommandHelp } from "../../../ops/surface.ts"
-import { parseArgs } from "../../../lib/parse-args.ts"
-import { deployables, esoPaths } from "../../../lib/temper-community-addon-code.ts"
+import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
+import { type PlannedAddon, planUpdates } from "@akasha/temper-community-addons/addon-update-plan"
 import { fetchCatalog } from "@akasha/temper-community-addons/esoui-catalog"
 import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
-import { planUpdates, type PlannedAddon } from "@akasha/temper-community-addons/addon-update-plan"
+import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { parseArgs } from "../../../lib/parse-args.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -51,19 +52,14 @@ export default async function temperCommunityAddonList(args: readonly string[]):
   const parsed = parseArgs(help, args)
   const json = parsed.boolean("--json")
   const onlyOutdated = parsed.boolean("--outdated")
-  const addonsPath = parsed.string("--addons-dir") ?? (await esoPaths()).addonsDir()
+  const addonsPath = parsed.string("--addons-dir") ?? addonsDir()
   const repoRoot = parsed.string("--repo-root")
 
   const ownedNames = new Set(
-    (await deployables())
-      .listDeployables(repoRoot === undefined ? undefined : { repoRoot })
-      .map((d) => d.name)
+    listDeployables(repoRoot === undefined ? undefined : { repoRoot }).map((d) => d.name)
   )
 
-  const [catalog, installed] = await Promise.all([
-    fetchCatalog(),
-    readInstalledAddons(addonsPath),
-  ])
+  const [catalog, installed] = await Promise.all([fetchCatalog(), readInstalledAddons(addonsPath)])
   const plan = planUpdates(installed, catalog, ownedNames)
   const rows = onlyOutdated ? plan.addons.filter((a) => a.status === "outdated") : plan.addons
 

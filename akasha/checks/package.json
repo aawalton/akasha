@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@akasha/k8s-synth": "workspace:*",
-    "@akasha/workspace-paths": "workspace:*",
+    "@akasha/temper-addons-resolve": "workspace:*",
     "typescript": "5.9.3"
   }
 }

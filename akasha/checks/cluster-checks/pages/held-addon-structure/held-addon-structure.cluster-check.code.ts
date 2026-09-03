@@ -5,22 +5,22 @@ import { readdirSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import {
   type AddonStructureFacts,
   scanAddonStructure,
 } from "../../../../../tools/lib/check-workflow/held-addon-structure.ts"
+import { examinePopulation } from "../../../../../tools/lib/check-workflow/population.ts"
 import {
   readTerritoryMap,
   TERRITORY_MAP_PATH,
 } from "../../../../../tools/lib/check-workflow/territory-map.ts"
-import { parseArgs } from "../../../../../tools/lib/parse-args.ts"
-import { addonsResolve } from "../../../../../tools/lib/temper-addon-code.ts"
-import type { CommandHelp, HelpFlag } from "../../../../../tools/ops/surface.ts"
-import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import {
   exitOnResult,
   exitOnToolError,
-} from "../../modules/violation-reporting/violation-reporting.module.code.ts"
+} from "../../../../../tools/lib/check-workflow/violation-reporter.ts"
+import { parseArgs } from "../../../../../tools/lib/parse-args.ts"
+import type { CommandHelp, HelpFlag } from "../../../../../tools/ops/surface.ts"
 
 const PREFIX = "[held-addon-structure]"
 
@@ -80,7 +80,6 @@ export default async function checkHeldAddonStructure(args: readonly string[]): 
   let rosterDirs: Map<string, string>
   let mapDirs: Map<string, string>
   try {
-    const { listAllAddons } = await addonsResolve()
     const roster = listAllAddons({ repoRoot: root })
     if (roster.length === 0) {
       throw new Error(

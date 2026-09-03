@@ -1,10 +1,10 @@
+export const summary =
+  "List the 20 TemperCatalog domain keys (matches DOMAIN_REGISTRY in the addon)"
 
-export const summary = "List the 20 TemperCatalog domain keys (matches DOMAIN_REGISTRY in the addon)"
-
-import type { CommandHelp } from "../../../ops/surface.ts"
+import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
 import { emitJson, emitTsv } from "../../../lib/format-output.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { catalogDomainKeys } from "../../../lib/temper-catalog-code.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -19,8 +19,6 @@ export const help: CommandHelp = {
 export default async function temperCatalogList(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const json = parsed.boolean("--json")
-
-  const { CATALOG_DOMAIN_KEYS } = await catalogDomainKeys()
 
   if (json) {
     process.stdout.write(`${emitJson({ domains: [...CATALOG_DOMAIN_KEYS] })}\n`)

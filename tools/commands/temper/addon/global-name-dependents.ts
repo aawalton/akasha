@@ -1,20 +1,22 @@
-
 export const summary =
   "Enumerate what already depends on an addon global name, and rule whether renaming it is safe"
 
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
-import { z } from "zod"
 import { codeRoot } from "@akasha/pages-system/code-root"
-import { parseArgs } from "../../../lib/parse-args.ts"
-import { addonGlobalOwnership, addonsResolve } from "../../../lib/temper-addon-code.ts"
 import {
   type DependentSourceFile,
   enumerateGlobalDependents,
   type GlobalDependentReport,
 } from "@akasha/temper-addon-build/global-name-dependents"
-import type { CommandHelp } from "../../../ops/surface.ts"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
+import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+// Ownership parses TypeScript with the compiler itself, costing about 110ms to load.
+// This is the only command that reads ownership, so only this command pays it.
+import { collectGlobalWritesFromSource } from "@akasha/temper-build-deploy-checks/addon-global-ownership"
+import { z } from "zod"
+import { parseArgs } from "../../../lib/parse-args.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -123,8 +125,7 @@ export default async function temperAddonGlobalNameDependents(
   const asJson = parsed.boolean("--json")
   const repoRoot = parsed.string("--repo-root") ?? codeRoot()
 
-  const addonsModule = await addonsResolve()
-  const addons = addonsModule.listAllAddons({ repoRoot })
+  const addons = listAllAddons({ repoRoot })
 
   const addonSourceFiles: DependentSourceFile[] = []
   for (const addon of addons) {
@@ -148,12 +149,11 @@ export default async function temperAddonGlobalNameDependents(
   if (global !== undefined) {
     reports = [enumerateGlobalDependents({ global, files: addonSourceFiles })]
   } else {
-    const ownership = await addonGlobalOwnership()
     const owned = new Set<string>()
     for (const addon of addons) {
       for (const f of collectFiles(join(addon.dir, "src"), isTsSource)) {
         const rel = relative(repoRoot, f)
-        for (const name of ownership.collectGlobalWritesFromSource(readFileSync(f, "utf8"), rel)) {
+        for (const name of collectGlobalWritesFromSource(readFileSync(f, "utf8"), rel)) {
           owned.add(name)
         }
       }

@@ -1,24 +1,35 @@
-export const summary = "List captured ESO Lua errors from TemperErrors.lua (TSV by default; --json for full ErrorEntry[])"
+export const summary =
+  "List captured ESO Lua errors from TemperErrors.lua (TSV by default; --json for full ErrorEntry[])"
 
 import { readFile } from "node:fs/promises"
-import type { CommandHelp } from "../../../ops/surface.ts"
+import * as addonsModule from "@akasha/temper-addons-resolve/addon-roster"
+import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
+import * as collect from "@akasha/temper-errors-triage/errors-collect"
+import type { Ownership } from "@akasha/temper-errors-triage/errors-liveness"
+import * as livenessModule from "@akasha/temper-errors-triage/errors-liveness"
+import * as schema from "@akasha/temper-errors-triage/errors-saved-variables"
+import type { InferredCulprit } from "@akasha/temper-errors-triage/errors-triage"
+import * as triageGatherModule from "@akasha/temper-errors-triage/errors-triage-gather"
+import * as luaParser from "@akasha/temper-saved-variables/lua-parser"
 import { dataError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import {
-  addonsResolve,
-  type AddonsResolve,
-  type ClassifiedEntry,
-  type ErrorEntry,
-  errorsCollect,
-  errorsLiveness,
-  errorsSavedVariablesSchema,
-  errorsTriageGather,
-  type InferredCulprit,
-  type Liveness,
-  luaParser as luaParserModule,
-  type Ownership,
-  type TriageGather,
-} from "../../../lib/temper-errors-code.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
+
+type AddonsResolve = typeof addonsModule
+type Liveness = typeof livenessModule
+type TriageGather = typeof triageGatherModule
+
+// The verdict this command hangs on an entry before it renders one. Nothing
+// under akasha carries it, because nothing but this rendering needs it.
+interface ClassifiedEntry {
+  readonly entry: ErrorEntry
+  readonly verdict: string
+  readonly reason: unknown
+  readonly triage: string
+  readonly triageReason: unknown
+  readonly inferred?: InferredCulprit
+}
+
 import { savedVarsFile } from "../../../lib/temper-inventory-paths.ts"
 
 const MESSAGE_PREVIEW_MAX = 120
@@ -169,13 +180,7 @@ async function classifyEntries(
 
   const classified: ClassifiedEntry[] = []
   for (const entry of entries) {
-    const ownership = await resolveOwnership(
-      entry.traceback,
-      roster,
-      repoRoot,
-      fixCache,
-      liveness
-    )
+    const ownership = await resolveOwnership(entry.traceback, roster, repoRoot, fixCache, liveness)
     const { verdict, reason } = liveness.classifyLiveness({
       lastSeenAtMs: entry.lastSeenAt * 1000,
       frontierMs,
@@ -222,14 +227,9 @@ function renderTsv(shown: readonly ClassifiedEntry[]): string {
 
 export default async function errorsList(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
-  const [addons, collect, liveness, schema, triageGather, luaParser] = await Promise.all([
-    addonsResolve(),
-    errorsCollect(),
-    errorsLiveness(),
-    errorsSavedVariablesSchema(),
-    errorsTriageGather(),
-    luaParserModule(),
-  ])
+  const addons = addonsModule
+  const liveness = livenessModule
+  const triageGather = triageGatherModule
 
   const errorsPath = parsed.string("--errors-path") ?? (await savedVarsFile("TemperErrors.lua"))
   const includeStale = parsed.boolean("--include-stale") || parsed.boolean("--all")

@@ -1,25 +1,21 @@
-
 export const summary =
   "Pack every distributable addon's dist folder into the temper-addons.zip archive the bundle image carries"
 
-import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join, relative, resolve, sep } from "node:path"
+import { codeRoot } from "@akasha/pages-system/code-root"
+import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
+import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
+import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import {
   type AddonDependencies,
   resolveDistributableSet,
 } from "@akasha/temper-addons-resolve/distributable-set"
-import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
-import {
-  readSiblingAddonNames,
-  siblingDistDir,
-} from "@akasha/temper-addons-resolve/sibling-addons"
+import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
 import { type Zippable, zipSync } from "fflate"
-import { codeRoot } from "@akasha/pages-system/code-root"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"
-import { addonsResolve } from "../../../../lib/temper-addon-code.ts"
 import type { CommandHelp } from "../../../../ops/surface.ts"
-import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 
 const ADDONS_REL_ROOT = "temper/addons"
 
@@ -42,8 +38,7 @@ export const help: CommandHelp = {
       name: "--sha",
       argLabel: "<commit-sha>",
       valueShape: "token",
-      description:
-        "Written to the version file the install surface compares against. Required.",
+      description: "Written to the version file the install surface compares against. Required.",
     },
     {
       name: "--out",
@@ -112,7 +107,6 @@ export default async function temperAddonBundleBuild(args: readonly string[]): P
   const named = parsed.string("--out")
   const outDir = named === undefined ? join(addonsRoot, "dist-bundle") : resolve(named)
 
-  const { listAllAddons } = await addonsResolve()
   const roster = listAllAddons({ repoRoot: codeCheckout })
   const metadataByName = new Map<string, AddonDependencies>(
     roster.map((addon) => [addon.canonicalName, readDependencies(addon.dir)])

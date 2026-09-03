@@ -1,17 +1,19 @@
-
-export const summary = "Bump TemperCatalogConfig.lua's invalidateVersion so the addon re-collects the named domains on next /reloadui"
+export const summary =
+  "Bump TemperCatalogConfig.lua's invalidateVersion so the addon re-collects the named domains on next /reloadui"
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
-import type { CommandHelp } from "../../../ops/surface.ts"
-import { emitJson } from "../../../lib/format-output.ts"
-import { inputError } from "../../../lib/exit.ts"
-import { parseArgs } from "../../../lib/parse-args.ts"
+import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
+import { resolveSideFilePath } from "@akasha/temper-catalog-side-file/catalog-file-paths"
 import {
-  catalogDomainKeys,
-  catalogPaths,
-  catalogSideFile,
-} from "../../../lib/temper-catalog-code.ts"
+  computeNextSideFile,
+  parseSideFile,
+  serializeSideFile,
+} from "@akasha/temper-catalog-side-file/catalog-side-file"
+import { inputError } from "../../../lib/exit.ts"
+import { emitJson } from "../../../lib/format-output.ts"
+import { parseArgs } from "../../../lib/parse-args.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -51,8 +53,7 @@ export default async function temperCatalogInvalidate(args: readonly string[]): 
   const requested = parsed.repeated("--domain")
   const json = parsed.boolean("--json")
 
-  const paths = await catalogPaths()
-  const sideFilePath = paths.resolveSideFilePath(parsed.string("--side-file"))
+  const sideFilePath = resolveSideFilePath(parsed.string("--side-file"))
 
   if (all && requested.length > 0) {
     throw inputError("--all and --domain are mutually exclusive")
@@ -62,7 +63,6 @@ export default async function temperCatalogInvalidate(args: readonly string[]): 
       "Pass --all or one or more --domain <name> flags (see `--help` for the domain list)"
     )
   }
-  const { CATALOG_DOMAIN_KEYS } = await catalogDomainKeys()
   const validDomains = new Set<string>(CATALOG_DOMAIN_KEYS)
   for (const name of requested) {
     if (!validDomains.has(name)) {
@@ -72,13 +72,12 @@ export default async function temperCatalogInvalidate(args: readonly string[]): 
     }
   }
 
-  const sideFile = await catalogSideFile()
   const prior = existsSync(sideFilePath)
-    ? sideFile.parseSideFile(readFileSync(sideFilePath, "utf-8"))
+    ? parseSideFile(readFileSync(sideFilePath, "utf-8"))
     : undefined
 
-  const next = sideFile.computeNextSideFile(prior, all ? [] : requested)
-  const serialized = sideFile.serializeSideFile(next)
+  const next = computeNextSideFile(prior, all ? [] : requested)
+  const serialized = serializeSideFile(next)
 
   mkdirSync(dirname(sideFilePath), { recursive: true })
   writeFileSync(sideFilePath, serialized, "utf-8")
