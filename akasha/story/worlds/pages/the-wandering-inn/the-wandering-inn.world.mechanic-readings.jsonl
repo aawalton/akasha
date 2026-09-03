@@ -4,12 +4,12 @@
 {"id":"01a063d6-4a4b-7f90-a80b-34192e1fe749","readingSlug":"10-users-connected-none","readingName":"10 Users Connected","readingKind":"none"}
 {"id":"01a063d6-4a4b-7daa-a272-ec5d23dc2e39","readingSlug":"11-users-connected-none","readingName":"11 Users Connected","readingKind":"none"}
 {"id":"01a063d6-4a4b-7d57-acce-8ba7d72ade30","readingSlug":"12-users-connected-none","readingName":"12 Users Connected","readingKind":"none"}
-{"id":"01a063d6-4a4b-796d-bcba-1245810e2af7","readingSlug":"120-draw-skill","readingName":"120% Draw","readingKind":"skill","mechanicSlug":"120-draw"}
+{"id":"01a063d6-4a4b-796d-bcba-1245810e2af7","readingSlug":"120-draw-skill","readingName":"120% Draw","readingKind":"skill","mechanicSlug":"skill-120-draw"}
 {"id":"01a063d6-4a4b-78ef-a1d8-3143f13322cb","readingSlug":"13-users-connected-none","readingName":"13 Users Connected","readingKind":"none"}
 {"id":"01a063d6-4a4b-729b-9cd9-50585f233d21","readingSlug":"14-users-connected-none","readingName":"14 Users Connected","readingKind":"none"}
-{"id":"01a063d6-4a4b-7eb7-bb1a-6bacc5d2ff48","readingSlug":"140-shot-skill","readingName":"140% Shot","readingKind":"skill","mechanicSlug":"140-shot"}
-{"id":"01a063d6-4a4b-7f91-b3e2-d4ba301a98dd","readingSlug":"14th-herald-of-the-breathless-age-skeleton-king-toren-title","readingName":"14th Herald of the Breathless Age, Skeleton King Toren","readingKind":"title","mechanicSlug":"14th-herald-of-the-breathless-age-skeleton-king-toren"}
-{"id":"01a063d6-4a4b-76fc-9567-d86a8b6fe256","readingSlug":"15-second-message-spell","readingName":"15 Second Message","readingKind":"spell","mechanicSlug":"15-second-message"}
+{"id":"01a063d6-4a4b-7eb7-bb1a-6bacc5d2ff48","readingSlug":"140-shot-skill","readingName":"140% Shot","readingKind":"skill","mechanicSlug":"skill-140-shot"}
+{"id":"01a063d6-4a4b-7f91-b3e2-d4ba301a98dd","readingSlug":"14th-herald-of-the-breathless-age-skeleton-king-toren-title","readingName":"14th Herald of the Breathless Age, Skeleton King Toren","readingKind":"title","mechanicSlug":"title-14th-herald-of-the-breathless-age-skeleton-king-toren"}
+{"id":"01a063d6-4a4b-76fc-9567-d86a8b6fe256","readingSlug":"15-second-message-spell","readingName":"15 Second Message","readingKind":"spell","mechanicSlug":"spell-15-second-message"}
 {"id":"01a063d6-4a4b-77d5-82a5-a6ac371ad214","readingSlug":"15-users-connected-none","readingName":"15 Users Connected","readingKind":"none"}
 {"id":"01a063d6-4a4b-7e21-b9b2-744c8feaec56","readingSlug":"16-users-connected-none","readingName":"16 Users Connected","readingKind":"none"}
 {"id":"01a063d6-4a4b-7a3b-a127-c710c39fa9ca","readingSlug":"2-users-connected-none","readingName":"2 Users Connected","readingKind":"none"}
@@ -1813,7 +1813,7 @@
 {"id":"01a063d6-4a4b-72e4-bf60-1444162fdb98","readingSlug":"class-change-magic-loving-princess-archmage-s-apprentice-princess-class","readingName":"Class Change: Magic-loving Princess → Archmage’s Apprentice-Princess!","readingKind":"class","mechanicSlug":"class-change-magic-loving-princess-archmage-s-apprentice-princess"}
 {"id":"01a063d6-4a4b-7b17-9dcb-623e7004a3d2","readingSlug":"class-change-mercenary-company-commander-obtained-none","readingName":"Class Change: Mercenary → Company Commander Obtained!","readingKind":"none"}
 {"id":"01a063d6-4a4b-7216-a91a-e936b64326ee","readingSlug":"class-change-streetwise-guardswoman-smokebreath-detective-class","readingName":"Class Change: Streetwise Guardswoman → Smokebreath Detective!","readingKind":"class","mechanicSlug":"class-change-streetwise-guardswoman-smokebreath-detective"}
-{"id":"01a063d6-4a4b-7eae-81d4-6de8ebea316b","readingSlug":"class-class","readingName":"Class","readingKind":"class","mechanicSlug":"class"}
+{"id":"01a063d6-4a4b-7eae-81d4-6de8ebea316b","readingSlug":"class-class","readingName":"Class","readingKind":"class","mechanicSlug":"class-class"}
 {"id":"01a063d6-4a4b-7f66-bfb7-460a6a39aef3","readingSlug":"class-conditions-princess-failed-class","readingName":"Class Conditions: Princess failed","readingKind":"class","mechanicSlug":"class-conditions-princess-failed"}
 {"id":"01a063d6-4a4b-7890-92de-d0ade131f869","readingSlug":"class-conditions-princess-met-class","readingName":"Class Conditions: Princess met.","readingKind":"class","mechanicSlug":"class-conditions-princess-met"}
 {"id":"01a063d6-4a4b-7224-9863-58c0a144535a","readingSlug":"class-conditions-relic-guardian-failed-class","readingName":"Class Conditions: Relic Guardian failed.","readingKind":"class","mechanicSlug":"class-conditions-relic-guardian-failed"}
@@ -7515,7 +7515,7 @@
 {"id":"01a063d6-4a4b-7d65-8f7d-409afdf876fa","readingSlug":"prisoner-class","readingName":"Prisoner","readingKind":"class","mechanicSlug":"prisoner"}
 {"id":"01a063d6-4a4b-7c5b-8710-cda615c3c98b","readingSlug":"prisoner-of-the-minds-class-removed-class","readingName":"Prisoner of the Minds class removed.","readingKind":"class","mechanicSlug":"prisoner-of-the-minds-class-removed"}
 {"id":"01a063d6-4a4b-7072-90e6-73c5494a3a98","readingSlug":"prisoners-class","readingName":"Prisoners","readingKind":"class","mechanicSlug":"prisoners"}
-{"id":"01a063d6-4a4b-7a86-9e28-086c03f362ad","readingSlug":"private-class","readingName":"Private","readingKind":"class","mechanicSlug":"private"}
+{"id":"01a063d6-4a4b-7a86-9e28-086c03f362ad","readingSlug":"private-class","readingName":"Private","readingKind":"class","mechanicSlug":"class-private"}
 {"id":"01a063d6-4a4b-7a9b-902a-3109188a0aa5","readingSlug":"private-conversation-skill","readingName":"Private Conversation","readingKind":"skill","mechanicSlug":"private-conversation"}
 {"id":"01a063d6-4a4b-7599-980a-486d36a35d95","readingSlug":"probing-comment-skill","readingName":"Probing Comment","readingKind":"skill","mechanicSlug":"probing-comment"}
 {"id":"01a063d6-4a4b-7b4c-8fbb-d8000b126798","readingSlug":"problem-solver-class","readingName":"Problem Solver","readingKind":"class","mechanicSlug":"problem-solver"}
