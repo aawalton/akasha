@@ -1,0 +1,103 @@
+Skills at the start of Book 13
+
+[Name: Elaine]
+
+[Race: Chimera (Elvenoid)]
+
+[Age: 38]
+
+[Mana: 6,911,270/6,911,270]
+
+[Mana Regeneration: 13,695,885 +(41,548,244)]
+
+Stats
+
+[Free Stats: 0]
+
+[Strength: 40,823 (Effectively: 326,584)]
+
+[Dexterity: 65,269 (Effectively: 694,984)]
+
+[Vitality: 203,035 (Effectively: 3,172,422)]
+
+[Speed: 190,267 (Effectively: 3,745,025)]
+
+[Mana: 691,127]
+
+[Mana Regeneration: 1,555,022 (+ 4,154,824)]
+
+[Magic Power: 904,127 (+ 39,600,763)]
+
+[Magic Control: 903,335 (+ 39,566,073)]
+
+[Class 1: [The Arbiter of Life and Death - Celestial: Lv 876]]
+
+[Celestial Mastery: 876] - General Affinity skill
+
+[Aurora Curialis: 771] - Passive improved healing aura
+
+[The Stars Never Fade: 55] - Immortality skill
+
+[Luminary Mind: 602] - Mind skill
+
+[Universal Cure: 876] - Healing skill
+
+[Etheric Aegis: 222] - Armor skill
+
+[Event Horizon: 650] - ‘Black hole’ shield skill, destroys objects
+
+[Zenith Everlasting: 609] - energy skill
+
+[Class 2: [Seraph of the Dawn - Radiance: Lv 855]]
+
+[Radiance Mastery: 855] - Affinity skill
+
+[A Light Shining in the Darkness: 23] - Bright light anti-illusion
+
+[The Rays of the First Dawn: 855] - Radiance beams
+
+[Radiant Angel's Spear of Obliteration: 38] - Radiance weapons + Spears
+
+[Celestial Dew: 855] - Mana regeneration
+
+[Sunrise Halo: 855] - Radiance power boost + cosmic halo on demand
+
+[Seraph's Wings: 855] - Flight skill, six wings
+
+[Six Wings, Six Million Feathers: 855] - Devastating assault skill. Explosive feathers
+
+[Class 3: [Erudite Archmage - Spatial: Lv 712]]
+
+[Spatial Authority: 488] - Affinity skill
+
+[Cozy Reading: 712] - Reading skill
+
+[Teleportation: 195] - Teleportation! Both self and objects
+
+[Repository of the Magus: 557] - Personal library spatial storage
+
+[Tower of Knowledge: 92] - Great big storage skill. Requires personal teleporting in
+
+[Reality, Writ As You Will: 530] - Wizardry skill
+
+[Astral Archives: 326] - Perfect memory skill
+
+[Endless Pursuit of Knowledge: 644] - Exp boosting skill
+
+General Skills
+
+[Long-Range Identify: 532] - Identification skill
+
+[Handy: 1] - General dexterity skill
+
+[Companion Bond between Elaine and Auri: 876] - Companion bond with Auri
+
+[The World Around Me: 216] - Sphere of perception
+
+[Oath of Elaine to Lyra: 876] - Healing Oath skill
+
+[Sentinel's Superiority: 876] - Combat and skill boost skill
+
+[Persistent Casting: 650] - Mage meta skill
+
+[Tender Gardening: 108] - Growing plants skill
