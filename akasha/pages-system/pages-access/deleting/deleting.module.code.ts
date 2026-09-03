@@ -57,6 +57,10 @@ export async function deletePageById(args: DeletePageByIdArgs): Promise<Page | n
   const named = "deletePageById"
   rejectDefinitionTier(args.pageTypeSlug, named)
   await requireFileBacked(named, args.pageTypeSlug)
+  if (writesOverServer()) {
+    const one = await overServer(named, args)
+    return one === null ? null : asPage(one)
+  }
   const gone = await removeFilePages(
     {
       pageTypeSlug: args.pageTypeSlug,
@@ -73,6 +77,7 @@ export async function deletePageByIds(args: DeletePageByIdsArgs): Promise<readon
   const named = "deletePageByIds"
   rejectDefinitionTier(args.pageTypeSlug, named)
   await requireFileBacked(named, args.pageTypeSlug)
+  if (writesOverServer()) return asPageList(await overServer(named, args))
   return removeFilePages(
     {
       pageTypeSlug: args.pageTypeSlug,

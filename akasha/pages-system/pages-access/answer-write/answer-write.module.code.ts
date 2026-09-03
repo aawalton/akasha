@@ -7,13 +7,18 @@ import {
   createPage,
   createPageIfAbsent,
 } from "../create/create.module.code.ts"
-import { deletePage, deletePages } from "../deleting/deleting.module.code.ts"
+import {
+  deletePage,
+  deletePageById,
+  deletePageByIds,
+  deletePages,
+} from "../deleting/deleting.module.code.ts"
 import {
   isWriteOverServerOp,
   type WriteOverServerOp,
 } from "../over-server/over-server.module.code.ts"
-import { patchPage, patchPages } from "../patch/patch.module.code.ts"
-import { upsertPage, upsertPages } from "../upsert/upsert.module.code.ts"
+import { patchPage, patchPageById, patchPages } from "../patch/patch.module.code.ts"
+import { bulkUpsertPages, upsertPage, upsertPages } from "../upsert/upsert.module.code.ts"
 
 export type PageWriteAsked = {
   readonly op: WriteOverServerOp
@@ -113,6 +118,35 @@ const UPSERT_PAGES_ARGS = z.object({
   pipelineScope: PIPELINE_SCOPE,
 })
 
+const PATCH_PAGE_BY_ID_ARGS = z.object({
+  pageTypeSlug: PAGE_TYPE_SLUG,
+  id: z.string().min(1),
+  set: PAGE_PROPERTIES,
+  patch: JSON_PATCH.optional(),
+  select: PAGE_SELECT,
+  pipelineScope: PIPELINE_SCOPE,
+})
+
+const DELETE_PAGE_BY_ID_ARGS = z.object({
+  pageTypeSlug: PAGE_TYPE_SLUG,
+  id: z.string().min(1),
+  select: PAGE_SELECT,
+})
+
+const DELETE_PAGE_BY_IDS_ARGS = z.object({
+  pageTypeSlug: PAGE_TYPE_SLUG,
+  ids: z.array(z.string().min(1)),
+  select: PAGE_SELECT,
+})
+
+const BULK_UPSERT_PAGES_ARGS = z.object({
+  pageTypeSlug: PAGE_TYPE_SLUG,
+  uniqueAttributeKey: z.string().min(1),
+  items: z.array(PAGE_PROPERTIES),
+  select: PAGE_SELECT,
+  pipelineScope: PIPELINE_SCOPE,
+})
+
 const DELETE_PAGE_ARGS = z.object({
   pageTypeSlug: PAGE_TYPE_SLUG,
   where: PAGE_WHERE,
@@ -132,6 +166,8 @@ export async function runPageWrite(asked: PageWriteAsked): Promise<PageWriteAnsw
       return patchPage(PATCH_PAGE_ARGS.parse(args))
     case "patchPages":
       return patchPages(PATCH_PAGE_ARGS.parse(args))
+    case "patchPageById":
+      return patchPageById(PATCH_PAGE_BY_ID_ARGS.parse(args))
     case "upsertPage":
       return upsertPage(UPSERT_PAGE_ARGS.parse(args))
     case "upsertPages":
@@ -140,6 +176,12 @@ export async function runPageWrite(asked: PageWriteAsked): Promise<PageWriteAnsw
       return deletePage(DELETE_PAGE_ARGS.parse(args))
     case "deletePages":
       return deletePages(DELETE_PAGE_ARGS.parse(args))
+    case "deletePageById":
+      return deletePageById(DELETE_PAGE_BY_ID_ARGS.parse(args))
+    case "deletePageByIds":
+      return deletePageByIds(DELETE_PAGE_BY_IDS_ARGS.parse(args))
+    case "bulkUpsertPages":
+      return bulkUpsertPages(BULK_UPSERT_PAGES_ARGS.parse(args))
     default:
       return assertNever(op)
   }

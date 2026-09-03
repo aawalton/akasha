@@ -98,6 +98,7 @@ export async function bulkUpsertPages<T extends Record<string, unknown> = Record
     })
   }
   await requireFileBacked("bulkUpsertPages", args.pageTypeSlug)
+  if (writesOverServer()) return asPageList(await overServer("bulkUpsertPages", args))
   const landed: Page[] = []
   for (const item of args.items) {
     const keyed = isRecord(item) ? item[args.uniqueAttributeKey] : undefined

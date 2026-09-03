@@ -10,10 +10,14 @@ export const WRITE_OVER_SERVER_OPS = [
   "createPageIfAbsent",
   "patchPage",
   "patchPages",
+  "patchPageById",
   "upsertPage",
   "upsertPages",
   "deletePage",
   "deletePages",
+  "deletePageById",
+  "deletePageByIds",
+  "bulkUpsertPages",
 ] as const
 
 export type WriteOverServerOp = (typeof WRITE_OVER_SERVER_OPS)[number]

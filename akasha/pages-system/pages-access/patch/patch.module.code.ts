@@ -91,6 +91,10 @@ export async function patchPageById<T extends Record<string, unknown> = Record<s
   })
   await requireFileBacked("patchPageById", args.pageTypeSlug)
   refuseJsonPatch("patchPageById", args.pageTypeSlug, args.patch)
+  if (writesOverServer()) {
+    const one = await overServer("patchPageById", args)
+    return one === null ? null : asPage(one)
+  }
   const patched = await patchFilePages(
     {
       pageTypeSlug: args.pageTypeSlug,
