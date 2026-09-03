@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { built } from "./failing-alone.ts"
+import { built } from "@akasha/temper-addon-data/failing-alone"
 import type { AddonDataPages } from "./addon-data-pages.ts"
 import { buildAddonDataWritesAlchemy } from "./writes/alchemy.ts"
 import { buildAddonDataWritesCodec } from "./writes/codec.ts"

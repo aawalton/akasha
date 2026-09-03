@@ -1,4 +1,4 @@
-import { rendered } from "./failing-alone.ts"
+import { rendered } from "@akasha/temper-addon-data/failing-alone"
 import { generateAllianceMappings } from "./generators/alliance-mappings.ts"
 import { generateChampionPointMappings } from "./generators/champion-point-mappings.ts"
 import { generateClassMappings } from "./generators/class-mappings.ts"
