@@ -7,6 +7,7 @@ export const inventoryDiagnosticsReading = {
   definition:
     "one diagnostic the inventory addon left in its saved variables, found by walking the accounts",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
