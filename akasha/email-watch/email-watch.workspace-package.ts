@@ -10,6 +10,7 @@ export const emailWatch = {
     "module/email-rule-deciding",
     "module/email-rule-reading",
     "module/email-rule-set",
+    "module/inbox-pass",
     "module/inbox-run",
     "module/inbox-watching",
   ],
