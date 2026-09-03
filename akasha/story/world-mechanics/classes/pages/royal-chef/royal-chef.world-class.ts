@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const royalChef = {
   id: "01a0657e-0249-7b88-8e12-76d11e22454b",

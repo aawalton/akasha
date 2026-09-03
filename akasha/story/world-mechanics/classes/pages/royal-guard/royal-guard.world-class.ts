@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const royalGuard = {
   id: "01a0657e-0249-7adc-9664-d857fbb85008",

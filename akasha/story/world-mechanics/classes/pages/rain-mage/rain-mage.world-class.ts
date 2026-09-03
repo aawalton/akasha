@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const rainMage = {
   id: "01a0657e-0243-7ad9-9b09-8d0eac460088",

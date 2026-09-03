@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const numerologist = {
   id: "01a0657e-13b3-723c-ae4f-ce6973944f19",

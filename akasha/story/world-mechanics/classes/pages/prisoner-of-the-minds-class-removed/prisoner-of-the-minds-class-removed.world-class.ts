@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const prisonerOfTheMindsClassRemoved = {
   id: "01a0657e-0240-78c5-bfbd-26f00ccc30ed",

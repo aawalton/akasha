@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const roofer = {
   id: "01a0657e-0248-7494-b9df-234da66a371a",

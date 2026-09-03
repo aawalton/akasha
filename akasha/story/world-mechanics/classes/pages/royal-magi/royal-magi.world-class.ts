@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const royalMagi = {
   id: "01a0657e-0249-744f-afd5-6bfb49f7e8d8",

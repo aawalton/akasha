@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const pyromancer = {
   id: "01a0657e-0241-7ca6-80db-ab68433089e1",

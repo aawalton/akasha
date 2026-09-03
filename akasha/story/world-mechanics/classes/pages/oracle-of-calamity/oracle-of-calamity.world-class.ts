@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const oracleOfCalamity = {
   id: "01a0657e-13b4-70fb-ab70-684258a2b168",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const quartermasters = {
   id: "01a0657e-0241-7906-8caf-8d664aecb4bd",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const plagueDoctor = {
   id: "01a0657e-023d-7b40-ba02-ec67fe2b79fa",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const prominentColumnist = {
   id: "01a0657e-0240-73aa-b297-25f4a39e7aeb",

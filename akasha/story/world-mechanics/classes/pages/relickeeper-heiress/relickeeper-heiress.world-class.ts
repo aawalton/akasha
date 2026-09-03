@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const relickeeperHeiress = {
   id: "01a0657e-0245-774d-886d-cf1b60ece5fa",

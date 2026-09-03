@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const rower = {
   id: "01a0657e-0248-7eca-ab8c-5ab7ec0671a1",

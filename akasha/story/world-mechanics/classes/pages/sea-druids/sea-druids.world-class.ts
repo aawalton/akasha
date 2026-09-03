@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const seaDruids = {
   id: "01a0657e-024b-76bb-b909-7de1295d1154",
