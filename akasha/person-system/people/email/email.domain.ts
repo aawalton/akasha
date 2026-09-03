@@ -5,5 +5,15 @@ export const email = {
   pageTypeSlug: "domain",
   slug: "email",
   definition: "the email a person sends and receives",
-  partSlugs: ["domain/email-action", "domain/email-rule-delay", "domain/email-rule-match"],
+  partSlugs: [
+    "domain/email-action",
+    "domain/email-rule-delay",
+    "domain/email-rule-match",
+    "page-type/email-message",
+    "page-type/email-rule",
+    "page-type/email-rule-agent",
+    "page-type/email-rule-code",
+    "page-type/gmail-mailbox",
+    "page-type/gmail-processed-message",
+  ],
 } as const satisfies Domain
