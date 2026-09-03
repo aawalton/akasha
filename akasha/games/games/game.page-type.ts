@@ -163,5 +163,58 @@ export const game = {
       invariantKind: "departure",
       statement: "The premise and tone here are Alan's own words for the game he asked for.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A game is keyed on its external id, so a game read twice is one game.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A game's rulebook settles what an action does.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A game character is one a player runs, apart from the entities the game itself runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An entity's sheet is shaped by the game's rulebook rather than by the row carrying the sheet.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entity is held back until the play reaches the turn its reveal gate names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A turn is numbered within its game, and that number is what orders the play.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A state holds what has been revealed rather than everything the game knows.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A roll carries the hash of the roll before it, so a run is checkable from either end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seed is settled before its roll is asked for, never after.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lore entry cites the turn the entry was drawn from.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An entry superseding an earlier one names the entry superseded rather than replacing it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A design entry is settled before the play that uses it, and what the play discloses beats what the design intended.",
+    },
   ],
 } as const satisfies PageType
