@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theIndexNamesAFileAfterAPropertyValueSoALongOneCannotBeWritten = {
+  id: "01a06861-9de1-7d06-b29f-5cfacd951420",
+  pageTypeSlug: "finding",
+  slug: "the-index-names-a-file-after-a-property-value-so-a-long-one-cannot-be-written",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "The index writes one file per page property and builds its name from the property VALUE, not from the property slug, so a page whose text property runs long is refused with ENAMETOOLONG and cannot be written at all. Five book-chapter pages are unwritable for this reason. The refusal arrives at landing time, after the body is written and rolled back, so it reads as a landing fault rather than as a page being too long to name.",
+  evidence:
+    "Measured 2026-09-03 while repairing 1,049 unresolvable relative imports.\\n\\nThe refusal from `landedMechanically` is ENAMETOOLONG on an open, and the name it fails to open ends `<page path>.description.` followed by the opening words of that page's description prose. So the file the index keeps for one property is named from the property VALUE rather than from its slug, and the length limit is reached by how long the prose is rather than by how deep the page sits.\\n\\nThe five pages refused, all siblings under the all-about-alan notes: medical-social-isolation, non-discretionary-reclassification, perceived-certainty, ranking-criterion, thermoregulation. Each carries the same one-line import fix that 444 siblings accepted.\\n\\nHow it was separated from other causes: the identical change landed for 1,044 files. Running one file at a time landed 54 of 59 and refused exactly these 5, so the fault is per-page, not per-batch or per-family. Batching hid it, because a batch of 30 holding one such page rolls back all 30 — five bad pages made eleven batches of 100 all report failure, which read as the whole family being refused.\\n\\nNot measured: I did not find the code that builds the index path, so I state the shape the error reveals rather than the line that writes it. I did not test whether a long value in a property other than description does the same, though nothing in the error suggests description is special.",
+} as const satisfies Finding
