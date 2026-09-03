@@ -5,5 +5,6 @@ export const eso = {
   pageTypeSlug: "temper-mine",
   slug: "eso",
   title: "ESO",
+  items: "jsonl",
   quests: "jsonl",
 } as const satisfies TemperMine
