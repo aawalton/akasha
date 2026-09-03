@@ -4,7 +4,6 @@ import type { ExternalLink } from "../../collection-system/collection-externals/
 import type { OwnLength } from "../../collection-system/collections/properties/own-length.number-property.ts"
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { MarkedReadAt } from "./properties/marked-read-at.instant-property.ts"
 import type { RemovedAt } from "./properties/removed-at.instant-property.ts"
 
 export type StoryChapterRead = CollectionExternal & {
@@ -12,7 +11,6 @@ export type StoryChapterRead = CollectionExternal & {
   ownLength: OwnLength
   externalLink: ExternalLink
   prose: Prose
-  markedReadAt?: MarkedReadAt
   removedAt?: RemovedAt
 }
 
@@ -24,14 +22,12 @@ export const storyChapterRead = {
   pluralSlug: "story-chapters-read",
   extendsSlug: "page-type/collection-external",
   runsTabooCheck: false,
-  partSlugs: ["instant-property/marked-read-at", "instant-property/removed-at"],
+  partSlugs: ["instant-property/removed-at"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "own-length", required: true, many: false },
     { pagePropertySlug: "external-link", required: true, many: false },
     { pagePropertySlug: "prose", required: true, many: false },
-    { pagePropertySlug: "own-progress", required: false, many: false },
-    { pagePropertySlug: "marked-read-at", required: false, many: false },
     { pagePropertySlug: "removed-at", required: false, many: false },
   ],
   invariants: [
