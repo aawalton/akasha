@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const conditionsMetTwinbladeLinebreakerMaimedTwinbladeClass = {
   id: "01a0657e-134c-7029-ab7c-6fedb22ac6c6",

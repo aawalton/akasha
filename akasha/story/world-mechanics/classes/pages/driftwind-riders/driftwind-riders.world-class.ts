@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const driftwindRiders = {
   id: "01a0657e-01d1-76c3-9c32-54488bd4d998",

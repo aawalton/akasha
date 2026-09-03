@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const depthPirate = {
   id: "01a0657e-01cf-7117-a121-c08fa1e77478",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const councilorOfStates = {
   id: "01a0657e-134f-7bb7-a20f-5e02dd89dd55",

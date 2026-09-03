@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const eliteGuard = {
   id: "01a0657e-01d6-7341-8dfd-b566e7552fb2",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const dungeonConqueror = {
   id: "01a0657e-01d5-71ec-819b-6fac3a8bb68c",

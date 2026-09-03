@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const druid = {
   id: "01a0657e-01d4-77c5-bd6c-7299beb36c27",

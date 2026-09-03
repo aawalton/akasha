@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const cook = {
   id: "01a0657e-134e-7db6-8458-fa279a4b9521",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const doomguardGladiatorChampion = {
   id: "01a0657e-01d0-7d87-8476-2f6057a2ca3c",

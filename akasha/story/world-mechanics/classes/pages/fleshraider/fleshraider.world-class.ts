@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const fleshraider = {
   id: "01a0657e-01dd-7090-a108-67babcfa59e5",

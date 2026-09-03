@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const duke = {
   id: "01a0657e-01d5-7089-8472-0b01ebe3d14d",
