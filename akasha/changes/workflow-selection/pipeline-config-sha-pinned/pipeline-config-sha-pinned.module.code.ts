@@ -1,6 +1,6 @@
 import type { CommitSha40 } from "@akasha/workflow-language/ci-identifiers"
-import { askGraph } from "@tools/lib/graph/ask.ts"
-import type { Graph } from "@tools/lib/graph/types.ts"
+import { askGraph } from "@tools/lib/graph/ask"
+import type { Graph } from "@tools/lib/graph/types"
 import {
   loadAllWorkflowConfigs,
   type WorkflowConfig,

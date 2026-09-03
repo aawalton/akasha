@@ -8,9 +8,9 @@ import {
   withShaPinnedTree,
 } from "@akasha/workflow-selection/sha-pinned-tree"
 import { matchesBranch } from "@akasha/workflow-selection/workflow-branch-filter"
-import { askGraph } from "@tools/lib/graph/ask.ts"
+import { askGraph } from "@tools/lib/graph/ask"
 import { pathsStandingNowhere as changedFilesMissingGraphNodes } from "@tools/lib/graph/queries/membership"
-import type { Graph } from "@tools/lib/graph/types.ts"
+import type { Graph } from "@tools/lib/graph/types"
 
 export type { Graph }
 

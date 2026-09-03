@@ -19,14 +19,10 @@ import type {
   DiscoveredWorkflow,
   WorkflowKind,
 } from "@akasha/workflow-language/workflow-types"
-import type { PopulationEntry } from "@tools/lib/graph/queries/membership.ts"
-import {
-  type SeedFile,
-  type SeedSource,
-  seedFilesFor,
-} from "@tools/lib/graph/queries/seed-files.ts"
-import { buildSnapshot } from "@tools/lib/graph/snapshot.ts"
-import type { Graph, NodeId } from "@tools/lib/graph/types.ts"
+import type { PopulationEntry } from "@tools/lib/graph/queries/membership"
+import { type SeedFile, type SeedSource, seedFilesFor } from "@tools/lib/graph/queries/seed-files"
+import { buildSnapshot } from "@tools/lib/graph/snapshot"
+import type { Graph, NodeId } from "@tools/lib/graph/types"
 import { discoverWorkflows } from "@tools/lib/workflow-dsl/discovery"
 import {
   intersectWithTreePaths,
