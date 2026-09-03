@@ -1,13 +1,13 @@
 #!/usr/bin/env bun
 
 import { readFileSync } from "node:fs"
+import { UNATTRIBUTED_SECTION } from "../triage-fanout-attribution/triage-fanout-attribution.module.code.ts"
 import {
   analyzeFanoutLog,
   type FanoutTriageResult,
   normalizeLogInput,
-  UNATTRIBUTED_SECTION,
-} from "@tools/lib/triage-fanout-log"
-import { renderResult } from "@tools/lib/triage-fanout-render"
+} from "../triage-fanout-log/triage-fanout-log.module.code.ts"
+import { renderResult } from "../triage-fanout-render/triage-fanout-render.module.code.ts"
 
 const PREFIX = "[run-typed-tests]"
 

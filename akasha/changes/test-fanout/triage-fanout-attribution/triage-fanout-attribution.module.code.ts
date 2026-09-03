@@ -1,6 +1,6 @@
-import { requireMatchPositional } from "./narrow.ts"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
-import { PRODUCER_TAG_RE } from "./triage-fanout-markers.ts"
+import { PRODUCER_TAG_RE } from "../triage-fanout-markers/triage-fanout-markers.module.code.ts"
 
 export type AttributionBasis = "producer-tagged" | "single-stream"
 

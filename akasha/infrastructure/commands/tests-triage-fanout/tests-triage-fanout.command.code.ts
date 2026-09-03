@@ -1,7 +1,7 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { inputIn } from "@akasha/command-system/piping"
+import { renderResult } from "@akasha/test-fanout/triage-fanout-render"
 import { analyzeFanoutLog, decideTriageExit, normalizeLogInput } from "@tools/lib/triage-fanout-log"
-import { renderResult } from "@tools/lib/triage-fanout-render"
 
 const NOTHING_PIPED =
   "this reads the fan-out pod log from standard input, and nothing was piped in. " +

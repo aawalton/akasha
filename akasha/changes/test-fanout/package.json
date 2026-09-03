@@ -10,6 +10,8 @@
     "./typed-workspace-listing": "./typed-workspace-listing/typed-workspace-listing.module.code.ts"
   },
   "dependencies": {
+    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/verdict": "workspace:*",
     "@akasha/checks": "workspace:*",
     "@tools/lib": "workspace:*",
     "zod": "^4.3.6"

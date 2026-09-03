@@ -1,6 +1,6 @@
-import type { FailAttribution } from "./triage-fanout-attribution.ts"
-import { UNATTRIBUTED_SECTION } from "./triage-fanout-attribution.ts"
-import type { FanoutTriageResult } from "./triage-fanout-log.ts"
+import type { FailAttribution } from "../triage-fanout-attribution/triage-fanout-attribution.module.code.ts"
+import { UNATTRIBUTED_SECTION } from "../triage-fanout-attribution/triage-fanout-attribution.module.code.ts"
+import type { FanoutTriageResult } from "../triage-fanout-log/triage-fanout-log.module.code.ts"
 
 function renderAttribution(attribution: FailAttribution): string {
   if (attribution.kind === "declined") return "[attribution declined]"

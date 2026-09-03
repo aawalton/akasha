@@ -10,6 +10,7 @@
     "./step-solo-time": "./step-solo-time/step-solo-time.module.code.ts"
   },
   "dependencies": {
+    "@akasha/test-fanout": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/git": "workspace:*",
     "@akasha/k8s-types": "workspace:*",

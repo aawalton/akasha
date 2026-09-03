@@ -1,16 +1,16 @@
 #!/usr/bin/env bun
 
-import { requireMatchPositional } from "./narrow.ts"
-import type { AnyVerdict, VerdictFinding } from "./verdict-channel.ts"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
+import type { Verdict, VerdictFinding } from "@akasha/verdict/verdict-shape"
+import { parseBunSummary } from "@tools/lib/gate-bun-exit"
 import { z } from "zod"
-import { parseBunSummary } from "./gate-bun-exit.ts"
 import {
   attributionFor,
   type FailLine,
   type FailSignal,
   splitProducerTag,
   UNATTRIBUTED_SECTION,
-} from "./triage-fanout-attribution.ts"
+} from "../triage-fanout-attribution/triage-fanout-attribution.module.code.ts"
 import {
   ANNOUNCE_RE,
   FAIL_TALLY_RE,
@@ -21,10 +21,8 @@ import {
   SECTION_RE,
   SKIP_RE,
   stripAnsi,
-} from "./triage-fanout-markers.ts"
-import { renderResult } from "./triage-fanout-render.ts"
-
-export { UNATTRIBUTED_SECTION }
+} from "../triage-fanout-markers/triage-fanout-markers.module.code.ts"
+import { renderResult } from "../triage-fanout-render/triage-fanout-render.module.code.ts"
 
 const PREFIX = "[triage-fanout]"
 
@@ -43,6 +41,12 @@ export interface FanoutEvidence {
   readonly complete: boolean
 }
 
+/**
+ * The triage's answer is an ordinary verdict over the log, so it is stated in the verdict shape
+ * the rest of akasha reads rather than in a shape of its own.
+ */
+export type FanoutTriageResult = Verdict<FanoutSubject, FanoutEvidence>
+
 export function sawFailure(evidence: FanoutEvidence): boolean {
   return evidence.totalFail > 0 || evidence.failLines.length > 0 || evidence.refusals.length > 0
 }
@@ -51,19 +55,6 @@ export function decideTriageExit(result: FanoutTriageResult): 0 | 1 | 2 {
   if (result.kind === "pass") return 0
   return sawFailure(result.evidence) ? 1 : 2
 }
-
-interface FanoutTriageResultClaim extends AnyVerdict {
-  readonly subject: FanoutSubject
-  readonly observedAtMs: number
-  readonly evidence: FanoutEvidence
-}
-
-export type FanoutTriageResult =
-  | (FanoutTriageResultClaim & { readonly kind: "pass" })
-  | (FanoutTriageResultClaim & {
-      readonly kind: "fail"
-      readonly findings: readonly [VerdictFinding, ...(readonly VerdictFinding[])]
-    })
 
 const SUBJECT: FanoutSubject = "the-consolidated-fanout-log"
 
