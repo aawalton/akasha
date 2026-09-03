@@ -1,4 +1,4 @@
-import { setsAll } from "./code/sets-all-data.ts"
+import { setsAll } from "@akasha/temper-characters-equipment/sets-all"
 import { TEMPER_INVENTORY_CORE_OUTPUT_DIR } from "./output-dirs.ts"
 
 export function logInventoryOutputSummary(): undefined {

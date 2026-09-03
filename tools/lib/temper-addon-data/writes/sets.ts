@@ -1,5 +1,5 @@
-import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generateSetCategoryMappings } from "../generators/set-category-mappings.ts"
+import type { AddonDataPages } from "@akasha/temper-addon-data/addon-data-pages"
+import { generateSetCategoryMappings } from "@akasha/temper-addon-data/render-set-category-mappings"
 import { generateTemperSet } from "@akasha/temper-addon-generators/temper-set"
 import { generateTemperSetCategory } from "@akasha/temper-addon-generators/temper-set-category"
 import {

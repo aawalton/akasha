@@ -1,11 +1,11 @@
 import { existsSync, readFileSync } from "node:fs"
-import { equipmentQualities } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import { z } from "zod"
 import {
   COMPANION_ARMOR_WEIGHT_IDS,
   companionTraitIds,
   companionWeaponTypeIds,
-} from "./code/companion-codec-indices.ts"
+} from "@akasha/temper-companion-codec/companion-codec-indices"
+import { equipmentQualities } from "@akasha/temper-equipment-kinds/equipment-qualities"
+import { z } from "zod"
 import { akashaTemperFile } from "./code-tree.ts"
 
 const EQUIPMENT_MAPPINGS = "temper-bit-codec/equipment-mappings/equipment-mappings.module.code.ts"

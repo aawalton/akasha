@@ -1,10 +1,10 @@
+import type { AddonDataPages } from "@akasha/temper-addon-data/addon-data-pages"
+import { rendered } from "@akasha/temper-addon-data/failing-alone"
 import { generateTemperCharacterSkillActivation } from "@akasha/temper-addon-generators/temper-character-skill-activation"
 import { generateTemperGrimoire } from "@akasha/temper-addon-generators/temper-grimoire"
 import { generateTemperScribedSkill } from "@akasha/temper-addon-generators/temper-scribed-skill"
 import { generateTemperSkill } from "@akasha/temper-addon-generators/temper-skill"
 import { TEMPER_SKILLS_OUTPUT_DIR } from "./output-dirs.ts"
-import { rendered } from "@akasha/temper-addon-data/failing-alone"
-import type { AddonDataPages } from "./addon-data-pages"
 
 export function buildAddonDataWritesSkills(
   p: AddonDataPages,

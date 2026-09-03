@@ -1,5 +1,5 @@
-import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generateScribingTotalScriptCount } from "../generators/scribing-total-script-count.ts"
+import type { AddonDataPages } from "@akasha/temper-addon-data/addon-data-pages"
+import { generateScribingTotalScriptCount } from "@akasha/temper-addon-data/render-scribing-total-script-count"
 import { WEB_ENGINE_INVENTORY_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesScribing(

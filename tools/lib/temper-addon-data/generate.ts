@@ -1,4 +1,4 @@
-import { fetchAddonDataPages } from "./addon-data-pages.ts"
+import { fetchAddonDataPages } from "@akasha/temper-addon-data/addon-data-pages"
 import { logInventoryOutputSummary } from "./inventory-output-summary.ts"
 import { buildMappingGeneratorWrites } from "./mapping-generators.ts"
 import { buildMappingTotals } from "./mapping-totals.ts"

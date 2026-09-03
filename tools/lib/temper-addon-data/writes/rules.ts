@@ -1,6 +1,6 @@
+import type { AddonDataPages } from "@akasha/temper-addon-data/addon-data-pages"
 import { generateTemperComparisonOp } from "@akasha/temper-addon-generators/temper-comparison-op"
 import { generateTemperRuleTemplate } from "@akasha/temper-addon-generators/temper-rule-template"
-import type { AddonDataPages } from "../addon-data-pages.ts"
 import { WEB_ENGINE_INVENTORY_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesRules(

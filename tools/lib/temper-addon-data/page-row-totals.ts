@@ -1,4 +1,4 @@
-import type { AddonDataPages } from "./addon-data-pages.ts"
+import type { AddonDataPages } from "@akasha/temper-addon-data/addon-data-pages"
 
 type Rows = { rows: ReadonlyArray<unknown> }
 

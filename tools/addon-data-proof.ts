@@ -12,10 +12,10 @@
 // Name one or more section names as arguments to narrow the run.
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
+import { getPages } from "@akasha/temper-addon-data/addon-data-page-rows"
+import { withSidecars } from "@akasha/temper-addon-data/catalog-sidecars"
+import { fetchMinedRestorePotions } from "@akasha/temper-addon-data/mined-restore-potions"
 import type { Page } from "@akasha/temper-addon-generators/addon-data-page"
-import { withSidecars } from "./lib/temper-addon-data/catalog-sidecars.ts"
-import { fetchMinedRestorePotions } from "./lib/temper-addon-data/mined-restore-potions.ts"
-import { getPages } from "./lib/temper-addon-data/pages-bridge.ts"
 import { ADDON_DATA_SECTIONS } from "./lib/temper-addon-data/writes.ts"
 
 const ONLY = new Set(process.argv.slice(2))
@@ -40,7 +40,7 @@ async function rowsOf(slug: string): Promise<{ rows: readonly Page[] }> {
 }
 
 // Every accessor AddonDataPages carries, and the page type each reads. Derived
-// from addon-data-pages.ts so a generator can never be left out of this report.
+// from the addon-data-pages module so a generator can never be left out of this report.
 //
 // It drifted once and that is why this checks itself: nine accessors were absent, all nine of
 // them the completion section's, and the section threw on the first one. A section reported as

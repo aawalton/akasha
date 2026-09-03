@@ -1,6 +1,7 @@
 import { resolve } from "node:path"
+import type { AddonDataPages } from "@akasha/temper-addon-data/addon-data-pages"
 import { built } from "@akasha/temper-addon-data/failing-alone"
-import type { AddonDataPages } from "./addon-data-pages.ts"
+import { buildAddonDataWritesSkills } from "./writes-skills.ts"
 import { buildAddonDataWritesAlchemy } from "./writes/alchemy.ts"
 import { buildAddonDataWritesCodec } from "./writes/codec.ts"
 import { buildAddonDataWritesCompanionMappings } from "./writes/companion-mappings.ts"
@@ -10,8 +11,6 @@ import { buildAddonDataWritesRules } from "./writes/rules.ts"
 import { buildAddonDataWritesScribing } from "./writes/scribing.ts"
 import { buildAddonDataWritesSets } from "./writes/sets.ts"
 import { buildAddonDataWritesStats } from "./writes/stats.ts"
-import { buildAddonDataWritesSkills } from "./writes-skills.ts"
-
 
 export type AddonDataWrite = (dir: string, name: string, source: string) => Promise<number>
 

@@ -1,4 +1,4 @@
-import type { AddonDataPages } from "../addon-data-pages.ts"
+import type { AddonDataPages } from "@akasha/temper-addon-data/addon-data-pages"
 import { generateTemperItemCategoryTree } from "@akasha/temper-addon-generators/item-category-tree"
 import { generateTemperInventoryCurrency } from "@akasha/temper-addon-generators/temper-inventory-currency"
 import { generateTemperLocationType } from "@akasha/temper-addon-generators/temper-location-type"

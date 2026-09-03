@@ -1,5 +1,5 @@
-import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generatePotionRestoreMetrics } from "../generators/potion-restore-metrics.ts"
+import type { AddonDataPages } from "@akasha/temper-addon-data/addon-data-pages"
+import { generatePotionRestoreMetrics } from "@akasha/temper-addon-data/potion-restore-metrics"
 import { WEB_ENGINE_INVENTORY_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesAlchemy(
