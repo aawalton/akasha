@@ -8,4 +8,5 @@ export const calendarEventImageUrl = {
   slug: "calendar-event-image-url",
   propertySlug: "image-url",
   definition: "the picture a source shows an event under",
+  max: 200,
 } as const satisfies UrlProperty

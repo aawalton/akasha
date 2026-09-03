@@ -8,4 +8,5 @@ export const calendarEventRegistrationUrl = {
   slug: "calendar-event-registration-url",
   propertySlug: "registration-url",
   definition: "the address a place at an event is taken at",
+  max: 200,
 } as const satisfies UrlProperty

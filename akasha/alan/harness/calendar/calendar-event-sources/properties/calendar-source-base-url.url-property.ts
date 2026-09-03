@@ -8,4 +8,5 @@ export const calendarSourceBaseUrl = {
   slug: "calendar-source-base-url",
   propertySlug: "base-url",
   definition: "the address a source's own pages stand under",
+  max: 200,
 } as const satisfies UrlProperty
