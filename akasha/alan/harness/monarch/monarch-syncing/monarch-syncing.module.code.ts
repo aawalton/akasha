@@ -1,4 +1,4 @@
-import { sync } from "../../../../../monarch/sync.ts"
+import { sync } from "../sync/monarch-sync.module.code.ts"
 
 async function main(argv: readonly string[]): Promise<number> {
   await sync({ incremental: argv.includes("--incremental") })
