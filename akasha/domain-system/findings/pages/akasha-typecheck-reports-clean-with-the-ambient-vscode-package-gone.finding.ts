@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const akashaTypecheckReportsCleanWithTheAmbientVscodePackageGone = {
+  id: "01a0697d-0dba-7d65-97e2-3ca4f040079d",
+  pageTypeSlug: "finding",
+  slug: "akasha-typecheck-reports-clean-with-the-ambient-vscode-package-gone",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`akasha typecheck --file-path` answered 'judged 4 files and none refused' for a file whose first line is `import type * as vscode from \"vscode\"` while `node_modules/@types/vscode` did not exist. The compiler run directly on the same import answers TS2307. So the command is blind to an unresolvable ambient package, and a clean answer from it does not establish that the editor extension compiles.",
+  evidence:
+    "Measured 2026-09-03 16:55 MDT while moving the `@types/vscode` shim into akasha.\n\nTHE TWO ARMS OF THE COMMAND. With `node_modules/@types/vscode` removed outright, `akasha typecheck --file-path akasha/editor-extension/terminal-marks/terminal-marks.module.code.ts` exits 0 saying 'typecheck judged 4 files, the 1 file named and 3 files importing them, and none refused'. With the symlink put back it says exactly the same words. A uniform answer across both arms is what a dead instrument looks like.\n\nTHE INSTRUMENT IS NOT WHOLLY DEAD. The same command with `--seeded` answers 'seen: 1 diagnostic with a fault seeded into it' for that file, so it sees a fault planted in the body. What it does not see is a specifier that resolves to nothing.\n\nTHE ARMS THAT DISCRIMINATE. A three-line probe under `/var/home/walton/xd-vt/` importing `vscode` and naming `vscode.TerminalOptions` and `vscode.Terminal`, run through `bunx @typescript/native-preview --ignoreConfig --noEmit --strict --module esnext --moduleResolution bundler --target esnext --skipLibCheck`: with no `@types/vscode` beside it, `error TS2307: Cannot find module 'vscode' or its corresponding type declarations`, exit 1; with `node_modules/@types/vscode` symlinked to the shim's new home, exit 0 and no output. Same probe, same flags, only the package moved.\n\n`--ignoreConfig` is load-bearing in that harness: without it both arms answer TS5112 about a tsconfig on the command line and nothing else, which is a third way to read a uniform result as agreement.\n\nNot measured: which of the command's settings loses the specifier. I established that it does, not where.",
+} as const satisfies Finding

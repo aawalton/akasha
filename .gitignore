@@ -1,5 +1,8 @@
-# Page data held outside git deliberately.
+# Page data held outside git deliberately. The second rule needs a suffix after
+# `uncommitted`, so a folder named `<something>.uncommitted` slips past it and a bare
+# `git add` sweeps its contents into whatever commit is being made.
 *.uncommitted.*
+*.uncommitted/
 *.lock/
 
 # Agent runtime state. `pages/repo/akasha-repo.repo.md` holds that nothing under
