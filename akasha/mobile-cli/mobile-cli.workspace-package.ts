@@ -7,6 +7,7 @@ export const mobileCli = {
   definition: "the iOS work this workstation drives on a mac it reaches over ssh",
   manifest: "json",
   partSlugs: [
+    "page-type/mobile-cut",
     "module/mobile-app",
     "module/macbook-target",
     "module/ssh-delivery",

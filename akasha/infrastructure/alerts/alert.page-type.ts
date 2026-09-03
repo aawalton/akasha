@@ -58,8 +58,68 @@ export const alert = {
       statement: "A summary is written as the annotation a firing rule carries.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "An alert's recipient is resolved on the workstation rather than where the alert fires.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Alert words reach the code composing the rules through a page query rather than a file read.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A composer that cannot reach the words stops rather than composing an alert without them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A recovery arrives as its own alert.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A firing site sends no message.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "Every alert that fires is either acted on or repaired.",
+    },
+    {
       invariantKind: "gap",
       statement: "No rule this repository deploys raises any alert here.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every alert reaches whoever answers for the condition the alert names.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A firing site names its condition and nothing about who is told.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A firing site records `alert.condition.fired` or `alert.condition.cleared`.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An alert event carries its condition slug in `reference_id`.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An alert is matched from the event stream by the condition the alert names.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Direct To Alan",
+      act: "Push to Alan's phone only where every seat that would escalate is downstream of the failure.",
+      warrant:
+        "He stops reading a phone that fires for what a seat could handle, so the real alert lands unread.",
+      aids: [
+        "Never push because the failure looks severe.",
+        "Never route to a seat the failure takes down.",
+      ],
     },
   ],
 } as const satisfies PageType
