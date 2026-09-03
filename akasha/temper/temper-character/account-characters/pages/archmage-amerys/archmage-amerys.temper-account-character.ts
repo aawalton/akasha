@@ -1,7 +1,7 @@
 import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
 
 export const archmageAmerys = {
-  id: "01a05fda-9345-79c5-b95c-67597d6811d1",
+  id: "019dda20-785c-725c-9755-e858993eda07",
   pageTypeSlug: "temper-account-character",
   slug: "archmage-amerys",
   title: "Archmage Amerys",

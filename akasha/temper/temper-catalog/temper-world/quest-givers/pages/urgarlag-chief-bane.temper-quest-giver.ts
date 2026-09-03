@@ -1,7 +1,7 @@
 import type { TemperQuestGiver } from "../temper-quest-giver.page-type.ts"
 
 export const urgarlagChiefBane = {
-  id: "01a05fc5-168d-7063-ad76-6f35bd3f33fa",
+  id: "019e121f-c744-7eee-8487-370f70f4a93d",
   pageTypeSlug: "temper-quest-giver",
   slug: "urgarlag-chief-bane",
   title: "Urgarlag Chief-bane",
