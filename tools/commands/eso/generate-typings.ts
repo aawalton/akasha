@@ -1,25 +1,25 @@
+export const summary =
+  "Rebuild the opt-in ESO API typings this repository carries from the ~/esoui clone"
 
-export const summary = "Rebuild the opt-in ESO API typings this repository carries from the ~/esoui clone"
-
-import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { realpathSync } from "node:fs"
+import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
-import { esoPaths } from "../../lib/eso-clone-code.ts"
 import {
   generateEnumsFile,
   generateEventsFile,
   generateFunctionsFile,
   generateObjectsFile,
-} from "../../lib/eso-typings/generate.ts"
-import { ESO_OPT_IN } from "../../lib/eso-typings/opt-in.ts"
+} from "@akasha/temper-eso-typings/eso-declaration-text"
 import {
   parseEnums,
   parseEvents,
   parseFunctions,
   parseObjects,
-} from "../../lib/eso-typings/parse.ts"
-import { selectOptIn } from "../../lib/eso-typings/select.ts"
+} from "@akasha/temper-eso-typings/eso-doc-tokens"
+import { selectOptIn } from "@akasha/temper-eso-typings/eso-token-scope"
+import { esoPaths } from "../../lib/eso-clone-code.ts"
+import { ESO_OPT_IN } from "../../lib/eso-typings/opt-in.ts"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
@@ -54,7 +54,9 @@ export const help: CommandHelp = {
         "The checkout the typings are written into. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
+  envVars: [
+    { name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." },
+  ],
   examples: ["ops eso generate-typings --code-root ~/repos/akasha"],
 }
 
@@ -70,7 +72,6 @@ const INDEX_BODY = `// ESO API Types (Auto-generated — opt-in scoped)
 export default async function esoGenerateTypings(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const root = realpathSync(parsed.string("--code-root") ?? codeRoot())
-
 
   const paths = await esoPaths()
   const docPath = paths.esouiDocPath()
@@ -105,22 +106,13 @@ export default async function esoGenerateTypings(args: readonly string[]): Promi
   const outDir = resolve(root, OUT_REL)
   await mkdir(outDir, { recursive: true })
 
-  await writeFile(
-    join(outDir, "enums.d.ts"),
-    withStamp(generateEnumsFile(selected.enums))
-  )
+  await writeFile(join(outDir, "enums.d.ts"), withStamp(generateEnumsFile(selected.enums)))
   await writeFile(
     join(outDir, "functions.d.ts"),
     withStamp(generateFunctionsFile(selected.functions))
   )
-  await writeFile(
-    join(outDir, "events.d.ts"),
-    withStamp(generateEventsFile(selected.events))
-  )
-  await writeFile(
-    join(outDir, "objects.d.ts"),
-    withStamp(generateObjectsFile(selected.objects))
-  )
+  await writeFile(join(outDir, "events.d.ts"), withStamp(generateEventsFile(selected.events)))
+  await writeFile(join(outDir, "objects.d.ts"), withStamp(generateObjectsFile(selected.objects)))
   await writeFile(join(outDir, "index.d.ts"), withStamp(INDEX_BODY))
 
   const biome = Bun.spawn(["bunx", "biome", "format", "--write", outDir], {

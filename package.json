@@ -63,6 +63,7 @@
     "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-errors-triage": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
+    "@akasha/temper-eso-typings": "workspace:*",
     "@akasha/temper-game-catalog-capture-host": "workspace:*",
     "@akasha/temper-hud-components": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
