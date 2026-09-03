@@ -23,6 +23,7 @@ export const codeSystem = {
     "page-type/type-declaration",
     "page-type/workspace-package",
     "module/body-text",
+    "module/file-kind",
     "module/utf8-body",
     "module/code-specifier",
     "module/code-rule",
