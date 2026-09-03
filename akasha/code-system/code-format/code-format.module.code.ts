@@ -22,6 +22,20 @@ function sameAs(one: Uint8Array, other: Uint8Array): boolean {
   return one.every((byte, at) => byte === other[at])
 }
 
+const LAST_ASCII = 0x7f
+
+function marksOf(body: Uint8Array): string {
+  const found: string[] = []
+  for (const mark of new TextDecoder().decode(body)) {
+    if ((mark.codePointAt(0) ?? 0) > LAST_ASCII) found.push(mark)
+  }
+  return found.sort().join("")
+}
+
+function keepsItsMarks(was: Uint8Array, now: Uint8Array): boolean {
+  return marksOf(was) === marksOf(now)
+}
+
 export function formattedBody(root: string, path: string, body: Uint8Array): Formatted {
   const held: Formatted = { body, changed: false }
   const kind = classifyExtension(path)
@@ -34,6 +48,7 @@ export function formattedBody(root: string, path: string, body: Uint8Array): For
     if (done.code !== 0) return held
     const said = done.out
     if (said.byteLength === 0 || sameAs(said, body)) return held
+    if (!keepsItsMarks(body, said)) return held
     return { body: said, changed: true }
   } catch {
     return held

@@ -69,6 +69,22 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
+      statement: "A formatting that changes the characters outside ASCII is not taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those characters are compared as a sorted bag.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Reordering one of them is not changing one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body whose marks would change comes back unformatted rather than refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Whether a body moved is answered beside it.",
     },
     {
