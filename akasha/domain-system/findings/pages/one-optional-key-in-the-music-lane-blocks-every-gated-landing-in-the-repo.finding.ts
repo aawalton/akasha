@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const oneOptionalKeyInTheMusicLaneBlocksEveryGatedLandingInTheRepo = {
+  id: "01a06558-53de-70cc-bf47-586990a4319c",
+  pageTypeSlug: "finding",
+  slug: "one-optional-key-in-the-music-lane-blocks-every-gated-landing-in-the-repo",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`akasha/alan/music/commands/music-import-artist/music-import-artist.command.code.ts` line 274 does not typecheck, so the typecheck check refuses every agent-authored change anywhere in akasha until it is fixed. A landing in the pages system, which cannot reach the music lane, is refused by it. Four changes were landed past it with `--break-the-glass` naming this line.",
+  evidence:
+    "Measured 2026-09-02. `akasha edit` on `akasha/command-system/commands/properties/help-notes.text-property.ts` was refused with `music-import-artist.command.code.ts — line 274: TS2345: Argument of type 'string | undefined' is not assignable to parameter of type 'string'`, and refused again on a second attempt some minutes later.\n\nThe cause is a narrowing that is owed and absent rather than a change to the command. Line 274 is `songSlugFor(catalogue.names, artistSlug, fields.title, fields.externalId)`. `songSlugFor` at `akasha/alan/music/catalog/song-slug/song-slug.module.code.ts:56-61` takes `externalId: string`. `SongFields` at `akasha/alan/music/catalog/musicbrainz-map/musicbrainz-map.module.code.ts:17` is `Pick<Song, ... | \"externalId\" | ...>`, and `Song` extends `CollectionExternal`, which declares `externalId?: ExternalId` at `akasha/collection-system/collection-externals/collection-external.page-type.ts:9`. So the key is optional at its declaration and required at the call.\n\nThe command landed at `f6092e8069`, eleven hours before this was measured, and has not changed since, so the break came from the collection-system side rather than from the music command.\n\nWhy this is left rather than fixed here: the repair is a choice about what an import without a MusicBrainz id should be named, which belongs to whoever owns the music and collection lanes. Passing an empty string would reach `names.filed.get(\"\")` at `song-slug.module.code.ts:62` and name every such song alike.\n\nWhat this does not establish: whether other files fail the same check. The refusal names one line, and a refusal stops at the first file it finds.",
+} as const satisfies Finding
