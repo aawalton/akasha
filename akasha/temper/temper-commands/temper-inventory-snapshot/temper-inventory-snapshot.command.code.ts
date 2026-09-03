@@ -7,7 +7,7 @@ import { whyOf } from "@akasha/command-system/fault-saying"
 import { listedAt, listedById, slugsOfType } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import { valueAt } from "@akasha/pages-system/page-value"
-import { USER_ID } from "@tools/lib/user-id"
+import { USER_ID } from "@akasha/supabase-auth/user-id"
 
 const INPUT = 1
 

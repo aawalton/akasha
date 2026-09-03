@@ -1389,6 +1389,7 @@
     "akasha/seat-system": {
       "name": "@akasha/seat-system",
       "dependencies": {
+        "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils-system": "workspace:*",
         "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
@@ -1969,6 +1970,7 @@
         "@akasha/command-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages-system": "workspace:*",
+        "@akasha/supabase-auth": "workspace:*",
         "@akasha/temper-addon-build": "workspace:*",
         "@akasha/temper-addon-data": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
@@ -3009,6 +3011,7 @@
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/pipeline-sweep": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
+        "@akasha/supabase-auth": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-eso-typings": "workspace:*",

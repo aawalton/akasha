@@ -7,6 +7,7 @@
     "./*": "./*.ts"
   },
   "dependencies": {
+    "@akasha/supabase-auth": "workspace:*",
     "@akasha/ci-benchmark": "workspace:*",
     "@akasha/ci-containers": "workspace:*",
     "@akasha/git": "workspace:*",

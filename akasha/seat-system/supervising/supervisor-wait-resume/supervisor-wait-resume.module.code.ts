@@ -11,12 +11,12 @@ import {
   type WaitResumeVerdict,
 } from "@akasha/seat-system/supervisor-wait-resume-answer"
 import { WAIT_MAX_MS, waitMs } from "@akasha/seat-system/supervisor-wait-resume-decide"
+import { USER_ID } from "@akasha/supabase-auth/user-id"
 import { readOwnTranscriptTail } from "@tools/lib/agent-io-probe"
 import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
 } from "@tools/lib/classify-turn-end-error-death"
-import { USER_ID } from "@tools/lib/user-id"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000
 

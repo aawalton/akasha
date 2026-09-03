@@ -1,3 +1,4 @@
+import { USER_ID } from "@akasha/supabase-auth/user-id"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,
@@ -15,7 +16,6 @@ import {
   writeAutomationSettings,
   writeInventoryRuleSettings,
 } from "./temper-inventory/settings-row.ts"
-import { USER_ID } from "./user-id.ts"
 
 export type {
   AutomationSettings,

@@ -181,6 +181,7 @@
     "./turn-working": "./seat-turn/turn-working/turn-working.module.code.ts"
   },
   "dependencies": {
+    "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils-system": "workspace:*",
     "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
