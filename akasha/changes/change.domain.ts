@@ -6,7 +6,7 @@ export const change = {
   slug: "change",
   definition: "everything one act edits",
   pluralSlug: "changes",
-  partSlugs: ["page-type/change-kind"],
+  partSlugs: ["page-type/workflow-template", "page-type/change-kind"],
   invariants: [
     {
       invariantKind: "departure",

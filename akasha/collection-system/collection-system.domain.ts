@@ -5,7 +5,7 @@ export const collectionSystem = {
   pageTypeSlug: "domain",
   slug: "collection-system",
   definition: "how we keep track of collections of things for a person to experience",
-  partSlugs: ["page-type/collection", "page-type/collection-external"],
+  partSlugs: ["page-type/collection-type", "page-type/collection", "page-type/collection-external"],
   invariants: [
     {
       invariantKind: "departure",

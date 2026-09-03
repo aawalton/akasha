@@ -7,6 +7,8 @@ export const pagesSystem = {
   definition: "how we keep track of things",
   manifest: "json",
   partSlugs: [
+    "page-type/view",
+    "page-type/nav",
     "page-type/page",
     "page-type/page-type",
     "page-type/page-property",
