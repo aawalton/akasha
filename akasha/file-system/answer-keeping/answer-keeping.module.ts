@@ -20,5 +20,22 @@ export const answerKeeping = {
       invariantKind: "absence",
       statement: "Nothing here says what an answer means.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A kept answer is given back only while every input to that answer is unchanged.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key is taken from what the inputs hold rather than from when the inputs changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The code working an answer out is one of that answer's inputs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Forgetting a kept answer changes only how long that answer takes.",
+    },
   ],
 } as const satisfies Module

@@ -11,5 +11,25 @@ export const exitCode = {
       invariantKind: "departure",
       statement: "An error this module did not classify exits seventy.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A command exits with a code this module states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command wanting another exit declares its own at four or above.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A code this module states is never given a second meaning.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No command chooses seventy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The catch above every command answers seventy.",
+    },
   ],
 } as const satisfies Module

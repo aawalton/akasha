@@ -27,5 +27,9 @@ export const domainSystem = {
       statement:
         "Agents have the context each choice needs at the time those agents make that choice.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A seat's attributes represent the choices that seat will make.",
+    },
   ],
 } as const satisfies WorkspacePackage
