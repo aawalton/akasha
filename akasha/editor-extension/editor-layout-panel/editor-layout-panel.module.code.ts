@@ -3,10 +3,6 @@ import { arrangedResponse } from "@tools/lib/editor-arrangement"
 import { deferCommits } from "@tools/lib/page-commit-queue"
 import * as vscode from "vscode"
 import {
-  readSeatLookup,
-  readSeatTerminals,
-} from "../agent-tree-columns/agent-tree-columns.module.code.ts"
-import {
   arrangementFrom,
   type LayoutGroup,
   type LayoutTab,
@@ -16,6 +12,7 @@ import {
   recordObservation,
   recordSweep,
 } from "../observation-store/observation-store.module.code.ts"
+import { readSeatLookup, readSeatTerminals } from "../seat-terminals/seat-terminals.module.code.ts"
 import { PROCESS_ID_TIMEOUT_MS } from "../terminal-pids/terminal-pids.module.code.ts"
 import { readProcess } from "../window-identity/window-identity.module.code.ts"
 
