@@ -31,6 +31,10 @@ export const vscodeStub = {
       statement: "Every other member answers a proxy answering anything.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A proxy is a constructor only where the function behind it is one.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "A proxy hands back a fresh proxy, so a row written into one is not there to read.",
