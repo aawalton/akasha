@@ -22,6 +22,7 @@ export const editorExtension = {
     "module/editor-group",
     "module/window-identity",
     "module/settled-refresh",
+    "module/activation",
   ],
   invariants: [
     {
