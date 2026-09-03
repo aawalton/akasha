@@ -1,0 +1,31 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const timeCursedKnightTimeLoopPostApoc = {
+  id: "01a0657d-ada5-78d3-ab0b-bcbe51c8c383",
+  pageTypeSlug: "story-read",
+  slug: "time-cursed-knight-time-loop-post-apoc",
+  title: "Time Cursed Knight [Time Loop • Post Apoc]",
+  worldSlug: "time-cursed-knight-time-loop-post-apoc",
+  source: "royal-road",
+  author: "GCLopes",
+  publicationStatus: "ongoing",
+  externalTags: [
+    "GameLit",
+    "Time Loop",
+    "Progression",
+    "Post Apocalyptic",
+    "Ruling Class",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Chivalry",
+    "Low Fantasy",
+    "Magic",
+    "Magitech",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc",
+  externalId: "160012",
+  prose: "txt",
+} as const satisfies StoryRead

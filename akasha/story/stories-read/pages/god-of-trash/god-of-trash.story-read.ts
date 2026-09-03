@@ -1,0 +1,32 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const godOfTrash = {
+  id: "01a0657d-ada2-773d-bba6-8d871ec80893",
+  pageTypeSlug: "story-read",
+  slug: "god-of-trash",
+  title: "God of Trash",
+  worldSlug: "god-of-trash",
+  source: "royal-road",
+  rank: "C",
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Wuxia",
+    "Comedy",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Attractive Lead",
+    "Cultivation",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Modern Knowledge",
+    "Strong Lead",
+  ],
+  ownProgress: 23215,
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/107252/god-of-trash",
+  externalId: "107252",
+} as const satisfies StoryRead

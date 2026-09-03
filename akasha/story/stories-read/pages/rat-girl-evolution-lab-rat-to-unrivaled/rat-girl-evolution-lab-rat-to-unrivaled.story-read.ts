@@ -1,0 +1,31 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const ratGirlEvolutionLabRatToUnrivaled = {
+  id: "01a0657d-ada4-7a89-9b1d-9a047a6f29a8",
+  pageTypeSlug: "story-read",
+  slug: "rat-girl-evolution-lab-rat-to-unrivaled",
+  title: "Rat Girl Evolution",
+  worldSlug: "rat-girl-evolution-lab-rat-to-unrivaled",
+  source: "royal-road",
+  rank: "C",
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Martial Arts",
+    "Psychological",
+    "Steampunk",
+    "Action",
+    "Fantasy",
+    "Horror",
+    "Female Lead",
+    "Genetically Engineered",
+    "High Fantasy",
+    "Magic",
+    "Non-Human Lead",
+    "Secret Identity",
+    "Technologically Engineered",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled",
+  externalId: "131412",
+} as const satisfies StoryRead

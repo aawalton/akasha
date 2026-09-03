@@ -1,0 +1,32 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const emieAscended = {
+  id: "01a0657d-ada2-7bc7-8dba-9b0da81ef377",
+  pageTypeSlug: "story-read",
+  slug: "emie-ascended",
+  title: "Emie Ascended",
+  worldSlug: "emie-ascended",
+  source: "royal-road",
+  author: "Braided Sky",
+  following: true,
+  publicationStatus: "ongoing",
+  externalTags: [
+    "GameLit",
+    "Progression",
+    "Female Lead",
+    "Slice of Life",
+    "Strong Lead",
+    "Adventure",
+    "Fantasy",
+    "Attractive Lead",
+    "Crafting",
+    "Dungeon Crawler",
+    "High Fantasy",
+    "Magic",
+    "Romance Subplot",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/170179/emie-ascended",
+  externalId: "170179",
+  prose: "txt",
+} as const satisfies StoryRead

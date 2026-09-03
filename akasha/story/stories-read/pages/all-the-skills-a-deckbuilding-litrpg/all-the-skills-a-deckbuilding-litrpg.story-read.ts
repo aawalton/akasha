@@ -1,0 +1,30 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const allTheSkillsADeckbuildingLitrpg = {
+  id: "01a0657d-ada0-71c7-8e11-0f9da4d5a318",
+  pageTypeSlug: "story-read",
+  slug: "all-the-skills-a-deckbuilding-litrpg",
+  title: "All The Skills - A Deckbuilding LitRPG",
+  worldSlug: "all-the-skills-a-deckbuilding-litrpg",
+  source: "royal-road",
+  author: "HonourRae",
+  rank: "B",
+  following: true,
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Male Lead",
+    "Sci-fi",
+    "Strong Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Deck Building",
+    "GameLit",
+    "Magic",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg",
+  externalId: "55687",
+  prose: "txt",
+} as const satisfies StoryRead

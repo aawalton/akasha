@@ -1,0 +1,30 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const markOfTheFool = {
+  id: "01a0657d-ada3-74df-94f3-3108f9c52354",
+  pageTypeSlug: "story-read",
+  slug: "mark-of-the-fool",
+  title: "Mark of the Fool",
+  worldSlug: "mark-of-the-fool",
+  source: "royal-road",
+  author: "J.M. Clarke (U Juggernaut)",
+  rank: "B",
+  externalTags: [
+    "GameLit",
+    "Progression",
+    "Strategy",
+    "Comedy",
+    "Male Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "High Fantasy",
+    "Magic",
+    "School Life",
+    "Strong Lead",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/41618/mark-of-the-fool",
+  externalId: "41618",
+  prose: "txt",
+} as const satisfies StoryRead

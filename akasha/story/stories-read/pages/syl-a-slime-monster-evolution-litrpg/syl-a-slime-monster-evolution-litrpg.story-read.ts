@@ -1,0 +1,32 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const sylASlimeMonsterEvolutionLitrpg = {
+  id: "01a0657d-ada5-7229-928f-5e5cbe5a0eeb",
+  pageTypeSlug: "story-read",
+  slug: "syl-a-slime-monster-evolution-litrpg",
+  title: "Syl [A Slime Monster Evolution LitRPG]",
+  worldSlug: "syl-a-slime-monster-evolution-litrpg",
+  source: "royal-road",
+  author: "Lunadea",
+  rank: "B",
+  following: true,
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Strategy",
+    "Non-Human Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Magic",
+    "Monster Evolution",
+    "Reincarnation",
+    "Secret Identity",
+    "Strong Lead",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg",
+  externalId: "77972",
+  prose: "txt",
+} as const satisfies StoryRead

@@ -1,0 +1,32 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const labyrinthOfTheMadGod = {
+  id: "01a0657d-ada3-7df0-af01-1d499717e474",
+  pageTypeSlug: "story-read",
+  slug: "labyrinth-of-the-mad-god",
+  title: "Labyrinth of the Mad God",
+  worldSlug: "labyrinth-of-the-mad-god",
+  source: "royal-road",
+  rank: "C",
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Post Apocalyptic",
+    "Strategy",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Psychological",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Mythos",
+    "Supernatural",
+  ],
+  ownProgress: 103604,
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god",
+  externalId: "73673",
+} as const satisfies StoryRead

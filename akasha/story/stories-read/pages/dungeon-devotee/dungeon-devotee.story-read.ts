@@ -1,0 +1,31 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const dungeonDevotee = {
+  id: "01a0657d-ada2-77ae-9bca-4062ead98716",
+  pageTypeSlug: "story-read",
+  slug: "dungeon-devotee",
+  title: "Dungeon Devotee",
+  worldSlug: "dungeon-devotee",
+  source: "royal-road",
+  author: "Nixia",
+  rank: "C",
+  following: true,
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Psychological",
+    "Male Lead",
+    "Strong Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/51358/dungeon-devotee",
+  externalId: "51358",
+  prose: "txt",
+} as const satisfies StoryRead

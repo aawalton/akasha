@@ -1,0 +1,32 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const hellHorizonHealer = {
+  id: "01a0657d-ada2-70dd-9afa-5fb0b363dffe",
+  pageTypeSlug: "story-read",
+  slug: "hell-horizon-healer",
+  title: "Hell Horizon: Healer",
+  worldSlug: "hell-horizon-healer",
+  source: "royal-road",
+  author: "Freeid",
+  publicationStatus: "ongoing",
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Post Apocalyptic",
+    "Anti-Hero Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Cultivation",
+    "Dungeon Crawler",
+    "Male Lead",
+    "Strong Lead",
+    "Tower",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/173331/hell-horizon-healer",
+  externalId: "173331",
+  prose: "txt",
+} as const satisfies StoryRead

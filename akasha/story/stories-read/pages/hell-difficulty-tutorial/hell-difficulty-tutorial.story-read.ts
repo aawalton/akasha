@@ -1,0 +1,30 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const hellDifficultyTutorial = {
+  id: "01a0657d-ada2-774a-87ea-ada8dec311ba",
+  pageTypeSlug: "story-read",
+  slug: "hell-difficulty-tutorial",
+  title: "Hell Difficulty Tutorial",
+  worldSlug: "hell-difficulty-tutorial",
+  source: "royal-road",
+  rank: "C",
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Anti-Hero Lead",
+    "Male Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "GameLit",
+    "Magic",
+    "Strong Lead",
+    "Supernatural",
+    "Survival",
+    "System Invasion",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial",
+  externalId: "64916",
+} as const satisfies StoryRead

@@ -1,0 +1,31 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const rockFallsEveryoneDies = {
+  id: "01a0657d-ada4-7fe6-8f1d-97fe8b1d6dd5",
+  pageTypeSlug: "story-read",
+  slug: "rock-falls-everyone-dies",
+  title: "Rock falls, everyone dies",
+  worldSlug: "rock-falls-everyone-dies",
+  source: "royal-road",
+  author: "zechamp",
+  rank: "C",
+  publicationStatus: "completed",
+  externalTags: [
+    "LitRPG",
+    "Anti-Hero Lead",
+    "Cultivation",
+    "Comedy",
+    "Non-Human Lead",
+    "Adventure",
+    "Fantasy",
+    "Satire",
+    "High Fantasy",
+    "Magic",
+    "Strong Lead",
+    "Villainous Lead",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies",
+  externalId: "55418",
+  prose: "txt",
+} as const satisfies StoryRead

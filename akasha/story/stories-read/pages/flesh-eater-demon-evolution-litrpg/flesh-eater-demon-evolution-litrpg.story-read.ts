@@ -1,0 +1,32 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const fleshEaterDemonEvolutionLitrpg = {
+  id: "01a0657d-ada2-781e-be0f-880ef97c51fe",
+  pageTypeSlug: "story-read",
+  slug: "flesh-eater-demon-evolution-litrpg",
+  title: "Flesh Eater",
+  worldSlug: "flesh-eater-demon-evolution-litrpg",
+  source: "royal-road",
+  rank: "C",
+  externalTags: [
+    "LitRPG",
+    "Reincarnation",
+    "Progression",
+    "Anti-Hero Lead",
+    "Psychological",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Anti-Villain Lead",
+    "Female Lead",
+    "High Fantasy",
+    "Monster Evolution",
+    "Mythos",
+    "Non-Human Lead",
+    "Secret Identity",
+    "Strong Lead",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg",
+  externalId: "129187",
+} as const satisfies StoryRead

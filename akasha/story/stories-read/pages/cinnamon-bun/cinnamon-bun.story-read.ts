@@ -1,0 +1,30 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const cinnamonBun = {
+  id: "01a0657d-ada1-7e7b-99b2-0326e6474fb8",
+  pageTypeSlug: "story-read",
+  slug: "cinnamon-bun",
+  title: "Cinnamon Bun",
+  worldSlug: "cinnamon-bun",
+  source: "royal-road",
+  rank: "C",
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Comedy",
+    "Steampunk",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Cozy",
+    "Dungeon Crawler",
+    "Female Lead",
+    "Magic",
+    "Slice of Life",
+  ],
+  ownProgress: 746879,
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/31429/cinnamon-bun",
+  externalId: "31429",
+} as const satisfies StoryRead

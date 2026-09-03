@@ -1,0 +1,36 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const demonicCityBuilderLitrpgCityKingdomBuilding = {
+  id: "01a0657d-ada2-74c6-a752-2ce0a42891e6",
+  pageTypeSlug: "story-read",
+  slug: "demonic-city-builder-litrpg-city-kingdom-building",
+  title: "Demonic City Builder [LitRPG, City & Kingdom Building]",
+  worldSlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  source: "royal-road",
+  author: "Cattacomb",
+  publicationStatus: "ongoing",
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Anti-Hero Lead",
+    "Kingdom Building",
+    "Psychological",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Mythos",
+    "Non-Human Lead",
+    "Strategy",
+    "Strong Lead",
+    "Supernatural",
+    "Survival",
+  ],
+  unitSlug: "words",
+  externalLink:
+    "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building",
+  externalId: "168862",
+  prose: "txt",
+} as const satisfies StoryRead

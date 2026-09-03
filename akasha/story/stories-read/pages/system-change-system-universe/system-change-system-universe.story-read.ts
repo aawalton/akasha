@@ -1,0 +1,31 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const systemChangeSystemUniverse = {
+  id: "01a0657d-ada5-75f9-9a2a-f3f4715d70bb",
+  pageTypeSlug: "story-read",
+  slug: "system-change-system-universe",
+  title: "System Change (System Universe)",
+  worldSlug: "system-change-system-universe",
+  source: "royal-road",
+  author: "SunriseCV",
+  rank: "B",
+  following: true,
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Post Apocalyptic",
+    "Comedy",
+    "Male Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Dungeon Crawler",
+    "GameLit",
+    "Magic",
+    "Slice of Life",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/35372/system-change-system-universe",
+  externalId: "35372",
+  prose: "txt",
+} as const satisfies StoryRead

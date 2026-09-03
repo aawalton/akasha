@@ -1,0 +1,32 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const riseOfTheLivingForge = {
+  id: "01a0657d-ada4-74da-a446-a75e77410fd0",
+  pageTypeSlug: "story-read",
+  slug: "rise-of-the-living-forge",
+  title: "Rise of the Living Forge",
+  worldSlug: "rise-of-the-living-forge",
+  source: "royal-road",
+  author: "Actus",
+  rank: "B",
+  following: true,
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Martial Arts",
+    "Male Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "GameLit",
+    "Magic",
+    "Secret Identity",
+    "Strong Lead",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge",
+  externalId: "79094",
+  prose: "txt",
+} as const satisfies StoryRead

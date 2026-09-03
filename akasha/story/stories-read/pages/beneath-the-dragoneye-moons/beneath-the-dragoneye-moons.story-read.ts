@@ -1,0 +1,32 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const beneathTheDragoneyeMoons = {
+  id: "01a0657d-ada1-79fc-b862-dced705ba492",
+  pageTypeSlug: "story-read",
+  slug: "beneath-the-dragoneye-moons",
+  title: "Beneath the Dragoneye Moons",
+  worldSlug: "beneath-the-dragoneye-moons",
+  source: "royal-road",
+  author: "Selkie",
+  rank: "A",
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Female Lead",
+    "Strong Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Attractive Lead",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Reincarnation",
+    "Supernatural",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons",
+  externalId: "36299",
+  prose: "txt",
+} as const satisfies StoryRead

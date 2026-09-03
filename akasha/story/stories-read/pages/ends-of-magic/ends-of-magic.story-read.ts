@@ -1,0 +1,30 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const endsOfMagic = {
+  id: "01a0657d-ada2-7652-87c4-4a1b6b826c35",
+  pageTypeSlug: "story-read",
+  slug: "ends-of-magic",
+  title: "Ends of Magic",
+  worldSlug: "ends-of-magic",
+  source: "royal-road",
+  author: "Alexander Olson",
+  rank: "B",
+  following: true,
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Male Lead",
+    "Strong Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "High Fantasy",
+    "Magic",
+    "Technologically Engineered",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/57697/ends-of-magic",
+  externalId: "57697",
+  prose: "txt",
+} as const satisfies StoryRead

@@ -1,0 +1,32 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const theGiftOfLoot = {
+  id: "01a0657d-ada5-7bb6-89e4-a83e2e103895",
+  pageTypeSlug: "story-read",
+  slug: "the-gift-of-loot",
+  title: "The Gift of Loot",
+  worldSlug: "the-gift-of-loot",
+  source: "royal-road",
+  author: "Jack_Golightly",
+  following: true,
+  publicationStatus: "ongoing",
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Male Lead",
+    "Strong Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Apocalypse",
+    "Crafting",
+    "GameLit",
+    "Magic",
+    "Survival",
+    "System Invasion",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/160377/the-gift-of-loot",
+  externalId: "160377",
+  prose: "txt",
+} as const satisfies StoryRead

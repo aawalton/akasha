@@ -1,0 +1,33 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const dungeonOfKnowledgeComplete = {
+  id: "01a0657d-ada2-7efc-86ad-3e719defcc51",
+  pageTypeSlug: "story-read",
+  slug: "dungeon-of-knowledge-complete",
+  title: "Dungeon of Knowledge [Complete]",
+  worldSlug: "dungeon-of-knowledge-complete",
+  source: "royal-road",
+  author: "timewalk",
+  rank: "A",
+  following: true,
+  publicationStatus: "completed",
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Strategy",
+    "Multiple Lead Characters",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Dungeon Core",
+    "Dungeon Crawler",
+    "Female Lead",
+    "High Fantasy",
+    "Magic",
+    "Non-Human Lead",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete",
+  externalId: "80744",
+  prose: "txt",
+} as const satisfies StoryRead

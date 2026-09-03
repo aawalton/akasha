@@ -1,0 +1,30 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const sherlyTheMostVirtuousHolyCow = {
+  id: "01a0657d-ada4-7e3e-aa3d-da841a4f2b28",
+  pageTypeSlug: "story-read",
+  slug: "sherly-the-most-virtuous-holy-cow",
+  title: "Sherly",
+  worldSlug: "sherly-the-most-virtuous-holy-cow",
+  source: "royal-road",
+  rank: "C",
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Non-Human Lead",
+    "Strong Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Attractive Lead",
+    "Female Lead",
+    "High Fantasy",
+    "Magic",
+    "Monster Evolution",
+    "Mythos",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow",
+  externalId: "129185",
+} as const satisfies StoryRead

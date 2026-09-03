@@ -1,0 +1,31 @@
+import type { StoryRead } from "../../story-read.page-type.ts"
+
+export const roadToMasteryALitrpgApocalypse = {
+  id: "01a0657d-ada4-783e-9560-786c933fc500",
+  pageTypeSlug: "story-read",
+  slug: "road-to-mastery-a-litrpg-apocalypse",
+  title: "Road to Mastery: A LitRPG Apocalypse",
+  worldSlug: "road-to-mastery-a-litrpg-apocalypse",
+  source: "royal-road",
+  author: "Valerios",
+  following: true,
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Comedy",
+    "Male Lead",
+    "Strong Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Mythos",
+    "Supernatural",
+  ],
+  unitSlug: "words",
+  externalLink: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse",
+  externalId: "61041",
+  prose: "txt",
+} as const satisfies StoryRead
