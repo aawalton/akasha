@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aShellGlobSkipsDottedDirectoriesAndUndercountsACensus = {
+  id: "01a0674c-196d-79a3-9ef4-c0d15204d776",
+  pageTypeSlug: "finding",
+  slug: "a-shell-glob-skips-dotted-directories-and-undercounts-a-census",
+  domainSlug: "domain/instrument",
+  claim:
+    "A shell `*/` glob skips directories whose names open with a dot, so a census written that way omits them silently and reports a plausible total. Counting module pages under `akasha/temper/temper-web` that way gave 289; `find` over the same tree gave 299. The ten it missed sit under `.server/`. Neither number announces itself as wrong.",
+  evidence:
+    "Found while measuring how many temper-web modules carry a test, not while looking for a glob defect.\n\nThe first count walked `akasha/temper/temper-web/*/` in bash, keeping each directory that holds `<slug>/<slug>.module.ts`. It answered 289 pages, 12 with a `.module.test.*`, 277 without. A second count over the same tree with `find -name '*.module.ts'` answered 299. The ten between them all sit under `akasha/temper/temper-web/.server/`: addons-bundle-dir, answer-ask, answer-pages, answer-page-types, answer-page-write, character-import, companion-import, served-watcher-version, supabase-service-client and watcher-dir. Bash `*` does not match a leading dot, so the loop never saw that directory and reported no trouble about it.\n\nReconciled across all 299: 12 carry a `.module.test.*` and 287 do not.\n\nTwo of those 12, companion-rotation-outcome and companion-stats-panel-state, were carried in by an earlier lane rather than written in the W3 slice. W3 removed the outside originals and wrote no test of its own.\n\nThe defect is worth more than the figure. 289 and 299 are both well formed and both believable, and nothing in the first run signalled anything; what separated them was a second instrument of a different mechanism disagreeing. Other dotted directories exist here, `akasha/alan/web/.server/` among them, so any census taken with a shell glob may be under-reporting without saying so.\n\nBefore believing either count I checked the with-test sorting fired both ways: armor-card sorts as no-test, companion-rotation-outcome as with-test, and a slug that does not exist is skipped rather than counted.\n\nFiled rather than acted on: coverage is no intent of this migration, and 287 modules is not work to open beside two dozen landing lanes.",
+} as const satisfies Finding
