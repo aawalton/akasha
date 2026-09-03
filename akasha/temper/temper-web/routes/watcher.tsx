@@ -25,9 +25,9 @@ export function meta() {
   return [{ title: "Temper | Watcher" }]
 }
 
-function epochMsToIso(value: unknown): string | null {
-  if (typeof value !== "number" || !Number.isFinite(value) || value <= 0) return null
-  return new Date(value).toISOString()
+function isoInstant(value: unknown): string | null {
+  if (typeof value !== "string" || Number.isNaN(Date.parse(value))) return null
+  return value
 }
 
 async function readSource(
@@ -48,7 +48,7 @@ async function readSource(
   return {
     count: result.count ?? result.rows.length,
     lastContactAt: typeof contact === "string" ? contact : null,
-    capturedAt: captureKey === undefined ? null : epochMsToIso(newest?.[captureKey]),
+    capturedAt: captureKey === undefined ? null : isoInstant(newest?.[captureKey]),
   }
 }
 
@@ -64,11 +64,11 @@ export async function loader({ request }: Route.LoaderArgs) {
   const [enrolment, characters, inventory] = await Promise.all([
     getPage({
       pageTypeSlug: "temper-watcher-enrolment",
-      where: [{ key: "accountUserId", eq: user.id }],
+      where: [{ key: "accountPage", eq: user.id }],
       select: ["tokenCreatedAt", "lastRunOutcome"],
     }),
     readSource("temper-account-character", user.id),
-    readSource("temper-inventory-snapshot", user.id, "dataTimestamp"),
+    readSource("temper-inventory-snapshot", user.id, "capturedAt"),
   ])
 
   const createdAt = enrolment?.tokenCreatedAt
