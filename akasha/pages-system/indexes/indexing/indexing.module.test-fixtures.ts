@@ -158,7 +158,7 @@ export const IDENTIFIERS: readonly Named[] = [
   aType("9", "text-property", "page-property"),
   aType("10", "relation-property", "page-property"),
   aType("1", "domain", "page"),
-  aType("2", "module", "domain"),
+  aType("2", "module", "domain", ["code", "test"]),
   thePage(idPage),
   thePage(slugPage),
 ]
