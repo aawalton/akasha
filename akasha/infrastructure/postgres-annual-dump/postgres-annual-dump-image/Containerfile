@@ -1,0 +1,10 @@
+FROM postgres:18-alpine
+
+RUN set -eux; \
+    apk add --no-cache rclone ca-certificates
+
+COPY annual-dump/annual-dump.shell-script.shell.sh /usr/local/bin/annual-dump.sh
+RUN chmod +x /usr/local/bin/annual-dump.sh
+
+ENTRYPOINT ["/bin/sh"]
+CMD ["/usr/local/bin/annual-dump.sh"]

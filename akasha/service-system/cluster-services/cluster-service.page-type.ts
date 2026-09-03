@@ -54,6 +54,7 @@ export const clusterService = {
     "cluster-service/pgbouncer",
     "cluster-service/pgbouncer-exporter",
     "cluster-service/pod-janitor",
+    "cluster-service/postgres-annual-dump",
     "cluster-service/postgres-cnpg",
     "cluster-service/postgres-exporter",
     "cluster-service/postgrest",

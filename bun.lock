@@ -1043,6 +1043,12 @@
         "@akasha/k8s-types": "workspace:*",
       },
     },
+    "akasha/infrastructure/postgres-annual-dump": {
+      "name": "@akasha/postgres-annual-dump",
+      "dependencies": {
+        "@akasha/k8s-types": "workspace:*",
+      },
+    },
     "akasha/infrastructure/seaweedfs": {
       "name": "@akasha/seaweedfs",
       "dependencies": {
@@ -3287,6 +3293,8 @@
     "@akasha/pipeline-orchestration": ["@akasha/pipeline-orchestration@workspace:akasha/changes/pipeline-orchestration"],
 
     "@akasha/plain-language": ["@akasha/plain-language@workspace:akasha/domain-system/plain-language"],
+
+    "@akasha/postgres-annual-dump": ["@akasha/postgres-annual-dump@workspace:akasha/infrastructure/postgres-annual-dump"],
 
     "@akasha/reading": ["@akasha/reading@workspace:akasha/alan/library/reading"],
 
