@@ -51,6 +51,7 @@ export const iosApp = {
     "file-property/icon-drawing",
     "file-property/web-entry",
     "ios-app/alanwalton",
+    "ios-app/atlas",
     "ios-app/smilingjenny",
     "module/app-building",
     "named-file-property/git-ignore",

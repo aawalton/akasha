@@ -1,0 +1,13 @@
+{
+  "name": "@alanwalton/atlas-native-shell",
+  "functionalType": "pure",
+  "version": "0.0.1",
+  "private": true,
+  "description": "iOS Capacitor shell (thin WKWebView over the live atlas.alanwalton.com site). Carries a background-location native seam: the @capgo/background-geolocation + @capacitor/preferences plugins, and the atlas-ios-seam shell script (Info.plist location strings + UIBackgroundModes). Built on the macbook via Xcode. Its four Capacitor dependencies are held in the finding a-capacitor-manifest-cannot-name-the-plugins-it-installs until that check admits them.",
+  "scripts": {
+    "cap": "cap",
+    "ios:add": "bash ../../scripts/write-capacitor-config/write-capacitor-config.shell-script.shell.sh atlas.ios-app.capacitor-config.json && cap add ios && bash scripts/ios-seam/atlas-ios-seam.shell-script.shell.sh",
+    "ios:sync": "bash ../../scripts/write-capacitor-config/write-capacitor-config.shell-script.shell.sh atlas.ios-app.capacitor-config.json && cap sync ios && bash scripts/ios-seam/atlas-ios-seam.shell-script.shell.sh",
+    "ios:open": "cap open ios"
+  }
+}

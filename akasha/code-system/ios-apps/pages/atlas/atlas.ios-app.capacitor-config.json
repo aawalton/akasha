@@ -1,0 +1,10 @@
+{
+  "webDir": "www",
+  "server": {
+    "cleartext": false,
+    "allowNavigation": ["atlas.alanwalton.com", "*.alanwalton.com"]
+  },
+  "ios": {
+    "limitsNavigationsToAppBoundDomains": false
+  }
+}
