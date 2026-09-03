@@ -1,1 +1,0 @@
-Node has {{ $value | printf "%.1f" }}% memory available.

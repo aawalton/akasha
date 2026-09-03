@@ -1,1 +1,0 @@
-The daily 03:00 ScheduledBackup cadence has been missed — no new base backup has landed in over 26 hours.

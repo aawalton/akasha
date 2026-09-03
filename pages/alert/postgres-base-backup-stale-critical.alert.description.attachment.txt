@@ -1,1 +1,0 @@
-At least two consecutive daily 03:00 ScheduledBackup runs have failed to produce a base backup.
