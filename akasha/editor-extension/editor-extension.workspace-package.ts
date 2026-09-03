@@ -31,6 +31,7 @@ export const editorExtension = {
     "module/terminal-pids",
     "module/subagent-core",
     "module/tail-fold",
+    "module/transcript-model",
   ],
   invariants: [
     {
