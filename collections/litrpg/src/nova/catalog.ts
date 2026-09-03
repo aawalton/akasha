@@ -1,4 +1,5 @@
-import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
+import type { ComposedQuery } from "@akasha/pages-query/ask"
+import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { z } from "zod"
 import { LITRPG_RATINGS, type LitrpgCatalog, type LitrpgChapter, type LitrpgRating, type LitrpgStory } from "./select-types"
 

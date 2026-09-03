@@ -1,6 +1,6 @@
 import { assembleInventory } from "@akasha/temper-items-core/assemble-inventory"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { shape } from "../shape.ts"
 import type { Infer } from "../shape-core"
 

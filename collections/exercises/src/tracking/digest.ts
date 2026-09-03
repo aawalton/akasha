@@ -1,4 +1,4 @@
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { getPages, pageOfRow } from "../pages/access"
 import type { Page } from "../pages/page"

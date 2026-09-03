@@ -1,4 +1,4 @@
-import { readFiles, type Written, writeFiles } from "@shared/pages-query"
+import { readFiles, type Written, writeFiles } from "@akasha/pages-query"
 
 /**
  * A persona stands as a TypeScript file under `akasha/`, and the page store writes a path and a

@@ -1,5 +1,5 @@
 import { DataError } from "@akasha/errors-core/exit-code"
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { fieldStr } from "../cli/lib/fields"
 import { pageOfRow, patchPage } from "../pages/access"
 import type { Page } from "../pages/page"

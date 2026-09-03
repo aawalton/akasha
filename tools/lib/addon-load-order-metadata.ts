@@ -1,5 +1,5 @@
 import { readFile } from "node:fs/promises"
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import {
   type AddonManifest,
   addonManifestSchema,

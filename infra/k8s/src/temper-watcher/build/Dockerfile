@@ -4,9 +4,18 @@ ENV COMMIT_SHA=${COMMIT_SHA}
 RUN apk add --no-cache mingw-w64-gcc musl-dev
 RUN rustup target add x86_64-pc-windows-gnu
 WORKDIR /build
-COPY temper-watcher/tray/Cargo.toml ./Cargo.toml
-COPY temper-watcher/tray/build.rs ./build.rs
-COPY temper-watcher/tray/src ./src
+# The crate is held as pages under akasha/temper/watcher-tray. These COPY lines are
+# the seam rust-crate calls for: each module is copied to the name Cargo reads, which
+# is the `moduleName` its page states. The icon stays outside akasha because
+# crate-icon-path holds that a crate's icon lives outside it.
+COPY akasha/temper/watcher-tray/Cargo.toml ./Cargo.toml
+COPY akasha/temper/watcher-tray/build.rs ./build.rs
+COPY akasha/temper/watcher-tray/pages/watcher-tray-main/watcher-tray-main.rust-module.rust.rs ./src/main.rs
+COPY akasha/temper/watcher-tray/pages/watcher-tray-installer/watcher-tray-installer.rust-module.rust.rs ./src/installer.rs
+COPY akasha/temper/watcher-tray/pages/watcher-tray-logger/watcher-tray-logger.rust-module.rust.rs ./src/logger.rs
+COPY akasha/temper/watcher-tray/pages/watcher-tray-supervisor/watcher-tray-supervisor.rust-module.rust.rs ./src/supervisor.rs
+COPY akasha/temper/watcher-tray/pages/watcher-tray-tray/watcher-tray-tray.rust-module.rust.rs ./src/tray.rs
+COPY akasha/temper/watcher-tray/pages/watcher-tray-updater/watcher-tray-updater.rust-module.rust.rs ./src/updater.rs
 COPY temper-watcher/tray/assets ./assets
 RUN mkdir -p .cargo && \
     echo '[target.x86_64-pc-windows-gnu]' > .cargo/config.toml && \
