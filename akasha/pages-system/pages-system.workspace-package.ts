@@ -55,6 +55,7 @@ export const pagesSystem = {
     "module/page-answer-sweeping",
     "module/page-carry",
     "module/page-derive-shape",
+    "module/page-formulas",
     "module/page-landing-journal",
     "module/page-landing-judge",
     "module/page-narrow",

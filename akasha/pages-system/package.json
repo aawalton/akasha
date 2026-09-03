@@ -47,6 +47,7 @@
     "./page-export-name": "./pages/export-name/page-export-name.module.code.ts",
     "./page-file-name": "./pages/file-name/page-file-name.module.code.ts",
     "./page-file-parts": "./pages/file-parts/page-file-parts.module.code.ts",
+    "./page-formulas": "./page-formulas/page-formulas.module.code.ts",
     "./page-landing-journal": "./page-landing-journal/page-landing-journal.module.code.ts",
     "./page-landing-judge": "./page-landing-judge/page-landing-judge.module.code.ts",
     "./page-narrow": "./page-narrow/page-narrow.module.code.ts",
