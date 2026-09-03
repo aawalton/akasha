@@ -11,6 +11,7 @@ export const verdict = {
     "module/verdict-shape",
     "module/verdict-exit",
     "module/verdict-text",
+    "module/reading-channel",
   ],
   invariants: [
     {
