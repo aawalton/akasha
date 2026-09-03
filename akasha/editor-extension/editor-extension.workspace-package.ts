@@ -76,6 +76,12 @@ export const editorExtension = {
     "module/seat-toggles",
     "module/seat-act-confirm",
     "module/agent-tree-lookup",
+    "module/subagent-reading",
+    "module/agent-forest",
+    "module/agent-forest-reading",
+    "module/agent-tree-state",
+    "module/agent-tree-drawing",
+    "module/invoked-seat",
   ],
   invariants: [
     {
