@@ -1,0 +1,106 @@
+The trail that Calen led them along wound deeper and deeper into the verdant overgrowth of the jungle till he finally found the valley again. It was still densely grown with trees, but a game path ran through the middle of it, and the ridges on either side seemed entirely impassable. The massive, gnarled trunks and broad boughs weighed down by thick moss and heavy vines clearly spoke to the thousands of years this jungle had lain undisturbed.
+
+Keeping a careful watch for danger, he entered the valley. His eyes flitted from side to side, tracking the riot of movement and struggling to assess threats quickly enough. Most of what he saw were frogs, bugs, beetles, or snakes. Some of them were no doubt venomous, but nothing leapt out to attack them on sight. Every now and then he would catch sight of wyverns wheeling high overhead, but with the dense canopy between them, they were never noticed.
+
+The effects of his Blessing of the Wanderer were remarkable – synergizing well with his gear and skills – resulting in a sense of ease of movement through the forest. He was faster, sharper, and quicker to react, and with the movement speed enhancements from both the blessing and his boots buffing even his walking speed, he found he had to stop more frequently than he expected so that his friends did not fall behind.
+
+Rounding a particularly aged oak, the trail led into a wide clearing, filled with grasses and low shrubs that Ali was already eyeing for their potential. He paused, scanning the area. Out and about among the grasses, he spied three strange-looking creatures rooting and scratching in the dirt. Creatures that seemed more plant than monster, a little bigger than house cats, but their bodies were made of gnarled and twisted wood with branches and twigs sticking out haphazardly. They had four legs that resembled squat branches, a vine-like tail, and a scruff of bright pink petals along their backs and heads, forming something like a crest. Giant stick insects wearing flower wreaths on their heads.
+
+Swinging slowly, sloth-like through the branches at the edges of the clearing were several much larger Moss Creeper monsters. The strangely amorphous climbing mounds of moss paused periodically to engage in strangely inscrutable moss-creature activities, and when they moved on, they left behind them heavy patches of moss and fronds that hung from the tree branches.
+
+Floral Menace – Plant – level 15-21 x3.[Explorer]A plant monster of the wood persuasion.Category: MonsterThreat Level: NormalMonster Type: PlantDamage: Physical, NatureMoss Creeper – Moss – level 16-25 x3.[Explorer]An animated pile of sloth-like moss.Category: MonsterThreat Level: NormalMonster Type: MossDamage: Physical, Nature
+
+A shrill screech pierced the calm, and the neck scruffs of pink petals flared on the strange plant monsters, telling him they had been seen.
+
+“Plant monsters, nature damage,” he announced.
+
+“On it,” Mato said, shifting immediately as the hostile plants rushed forward. Mato charged to intercept them as Calen ducked sideways to get a better line for his arrows.
+
+“They’re using magic,” Ali’s voice came from behind him as she joined the combat.
+
+All around Mato, the ground erupted with plant growth. Tiny leaves sprang up through the grass forming brightly colored buds. They shivered and clawed their way open and suddenly the entire circle around the monsters, Mato, and Malika bloomed in a brilliant pink sea of flowers.
+
+What the heck?
+
+He had expected something like the Forest Guardian – grasping roots or vines reaching to attack. But this was a flower patch…
+
+The entire circle of tiny flowers shivered in unison as if propagating a shockwave from the epicenter of the fight. Petals shot up and out in an astonishingly abundant explosion of pink that filled the air. In seconds, the entire battlefield was obscured in a dense cloud of flying petals.
+
+Within the dense cloud, all he could perceive were the crashes and thumps, shrill shrieks, and exclamations of blind combat. He stood there waiting, bow drawn, unable to find a target for his arrows.
+
+“Mato, that’s me!” Malika’s voice shouted from the petal storm, followed quickly by several thumps and crashes.
+
+Suddenly, Malika somersaulted out of the dense cloud of petals, a branch-like creature writhing, biting, and scratching in her grasp.
+
+As soon as Malika landed, more flowers began to sprout, but Calen was already shooting, adding his arrows to the flurry of magic Ali aimed at Malika’s catch, too. Several shots were all he was allowed before the air exploded with pink petals, and again he had to wait for Malika to drag the monster out of its protective cloud.
+
+“Argh, I can’t see anything,” he grumbled.
+
+“Me neither,” Ali said, her eyes narrowed in razor-sharp focus. “But it’s pretty.”
+
+He glanced at her in frustration, but he couldn’t honestly argue. It was a swirling cloud of pretty pink nastiness.
+
+It was frustratingly slow work, waiting for Malika to wade in, and grapple blindly with the monsters before dragging them out into the open for a brief few moments before they had to repeat the process. But the strategy seemed sound, so Calen forced himself to wait patiently, trying to optimize the number of arrows he could fire in the short window of time when he had a clear line of sight.
+
+“It’s a good thing they’re small,” he said when the last one perished and they moved to finish off the much easier Moss Creepers.
+
+“Appropriately named,” Ali said, looking down on the corpses of the petal monsters, before deconstructing them.
+
+“Frustrating is what they are,” Malika agreed. “Being blinded sucks.”
+
+Calen certainly appreciated her point of view. Both he and Malika were limited to normal perceptions, and they were both easily blinded. Even though his perception skill was quite potent, it was still vision-based. Mato and Ali both had a secondary perception skill that worked differently from normal senses and thus clouds of petals or similar obscuring effects probably bothered them a lot less. His Explorer’s Sense Prey was quite useful for finding monsters in the jungle, but he wasn’t accurate enough with it yet to shoot into a cloud and not hit his friends.
+
+“Let’s get out of this clearing,” he said, looking up at the dangerous wheeling forms of the wyverns circling above. They hadn’t been noticed yet, but it was probably not smart to tempt fate.
+
+Back under the relative safety of the thick canopy of trees, he trickled mana into his Explorer skill, beginning to see the signs that something large had passed this way. Branches and twigs were freshly snapped, deep indentations in the damp mossy ground – all helpfully highlighted with his enhanced perception.
+
+Maybe one of the forest guardians? He wasn’t certain, but of all the monsters they had encountered so far, the giant elementals of wood and bark fit the signs the best. It seemed to be following the same path they were – extra-cautious now, he drew his companions’ attention to the tracks and explained what he suspected.
+
+The trail led to a rocky outcrop and a break in the trees, and somewhere beyond, Calen heard the shuffling and stomping of something heavy.
+
+“I’m going to scout up ahead quickly,” he whispered, activating Eclipse and vanishing into the shadows. Carefully using Explorer to mask the sound of his movement, he ventured out, dodging plants and rocks with ease. As the trees opened, he found he had an unobstructed view of a small clearing near a large jutting rocky outcropping. In the space up ahead, he saw the unmistakable hulking shape of the Forest Guardian, shuffling and stomping on four legs that resembled tree trunks more than limbs. It seemed to be grazing on the grasses, surrounded by three of the strangest creatures Calen had ever seen.
+
+Forest Guardian – Wood Elemental – level 40.[Explorer]An enormous nature affinity elemental.Category: MonsterThreat Level: EliteMonster Type: ElementalDamage: Melee, Physical, Nature, HealingKnown Vulnerabilities: FireSpore Spreader – Fungus – level 12-19 x3.[Explorer]A three-legged walking mushroom.Category: MonsterThreat Level: NormalMonster Type: FungusDamage: Physical, Nature.
+
+Calen pressed up against a large tree trunk, barely moving while he studied the monsters. The guardian was familiar to him – enormous plates of bark and heavy wood protected the massive elemental and, from beneath heavy wooden brow-ridges in the low-slung head, its viridian eyes glowed with palpable intelligence. The ground shuddered every time it moved.
+
+Making full use of his enhanced vision, Calen studied the curious fungus creatures. Spore Spreader… Each of the three monsters was a little taller than waist-high, with a dark leathery violet-greenish color. Shaped a bit like an oversized mushroom, they had slender stems with a broad cap on top. Three small legs extended from the bottom of the stem, giving the monster a shuffling, but stable, symmetrical triangular base. The legs seemed to dig into the ground whenever the monster stopped walking. Three large arm-like limbs extended from beneath the cap, long enough to brush the ground, and, as he observed, they were prone to using the arms to help with locomotion, resulting in a shambling, shuffling gait. A thick carpet of tiny glowing violet mushrooms sprouted from the top of its heavy leathery mushroom cap giving it the distinct impression of coarse glowing hair.
+
+Careful to keep fueling his Eclipse stealth skill and his silent movement, he backed away from the clearing, grateful for his patron’s blessing enhancing his dexterity and making him more agile as he reached the overgrown trail.
+
+“The path is blocked up ahead by a rocky outcrop,” he said, as he rejoined his friends still a fair way back on the trail and explained in detail what he had seen. “Normally my Explorer would give me some idea of their capabilities, but it’s all twisted and confused here. It just warns of nature damage.” The Spore Spreaders worried him, clearly unnatural and warped by the bizarre magic of this area, he could hardly even imagine what dangers they may present. Especially after having experienced the totally bizarre, but surprisingly effective petal storm from the Floral Menaces.
+
+“We can talk forever, but we won’t know until we attack,” Mato said. “We know the Guardian; I can tank that, and you guys figure out the fungus creatures first?”
+
+“That’s probably the best we can do,” Malika agreed. “What levels are they?”“The guardian is forty. The mushrooms are lower, twelve, fifteen, and nineteen,” Calen said, pursing his lips in thought. “Based on the last fight, we should be ready to be blinded by spores or something. Or maybe poison?”
+
+“I can handle a little poison with healing from Malika and Ali’s Acolytes,” Mato said.
+
+“That seems doable,” Malika said. “Being blind is annoying, but we made it work.”
+
+Calen was used to Mato and his fight-seeking behavior, but if Malika was on board, then it probably wasn’t just his friend being overly enthusiastic. And… He glanced over at Ali for a moment. If he wasn’t mistaken, this would be Ali’s third guardian, and there was a good chance she would be able to summon them after the fight. The potential to substantially increase their team’s power seemed worth the risk of the unknown fungus monsters.
+
+I’m probably worrying too much. He carefully set himself up on a rise with a good view of the rocky outcropping and the monsters below as the others prepared and Mato transformed.
+
+The impossibly low-pitched and loud roar characteristic of the Forest Guardians met Mato’s charge, shaking leaves and branches, and sending tremors of vibration pulsing through his body carried by the very air. He held his bow ready, alert for anything strange as Mato collided with the much more massive wood elemental, roaring a challenge of his own. As expected, the entire area around Mato and the guardian erupted in a chaotic explosion of roots and vines, the result of the monster’s potent melee control magic. It was certainly a good thing that Ali had replaced all her melee monsters with slimes.
+
+Judging that Mato had taken control of that front, Calen unleashed his arrows, aiming at one of the Spore Spreaders. Their goal would be to eliminate them as soon as possible while remaining alert for unexpected danger. His arrows punched through the monster’s mushroom cap, leaving clearly visible holes that immediately began shrinking and closing.
+
+Regeneration? No, that must be the Forest Guardian.
+
+As the next arrow struck, the strange fungus monster froze, quivering violently, and slammed all three powerful-looking arms into the ground, making a bizarre tripod among the writhing roots. All through the roots, grasses, and vines, tiny violet mushrooms began to spring up, visible clearly in his enhanced vision and by the subtle glow of magic.
+
+Is that an attack? In the back of his mind, he recognized how similar it looked to the petal attack, but with mushrooms instead of little flowers. He quickly used Explorer to Identify the new growing mushrooms, leveraging the extended range of his Eyes of the Archon to compensate for the distance.
+
+Violet Dreamcloud – Mushroom – level 11.
+
+“It’s growing mushrooms,” he called out, not entirely sure what they might be able to do about it, but somehow certain it was important.
+
+The planted Spore Spreader began to hum, and the mushrooms on its cap – and those spread across the battlefield – began to glow intensely, greatly swelling in size. With a dramatic popping sound like a huge sheet of cloth being torn in two, the entire field of mushrooms exploded, releasing a dense violet cloud of spores.
+
+I can see through it! For a brief moment, he was relieved that the cloud attack wasn’t nearly as opaque as the petal storm.
+
+And then Mato and Malika collapsed, Mato’s body twisting and warping as his limp body reverted to his normal Beastkin form. Instantly, the Forest Guardian unleashed its fury on Mato and Malika’s bodies, stomping and biting, while the roots twisted and crushed, making their bloodied and limp bodies flop grotesquely, while their blood sprayed across the verdant plants.
+
+The rushing burn of his mana igniting filled him with pain as Calen activated Righteous Fury without even thinking. The entire battlefield slowed, as his mana enhanced all his skills and perceptions. He could see the individual droplets of Mato’s blood spraying into the air, and the ugly twisting crunch as Malika’s arm snapped under the weight of the elemental’s stomp – all in excruciating clarity. His arrows flew in an intensely shining hail as he squandered his mana in reckless desperation, barely even considering aim, relying entirely on his supercharged mana to lend him power and speed.
+

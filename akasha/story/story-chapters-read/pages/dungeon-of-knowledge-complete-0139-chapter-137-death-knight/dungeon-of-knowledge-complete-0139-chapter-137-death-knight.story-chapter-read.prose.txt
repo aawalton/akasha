@@ -1,0 +1,100 @@
+Do not mistake its true nature – stealth is an attack against the perception attribute, skills, and focus of the defender. This is why it is so much harder to regain it once lost.
+
+- Excerpt from The Adventurer’s Guide, Third Edition
+
+“Which way?” Lyeneru asked.
+
+Calen fed a trickle of mana into the Wanderer’s gift – his powerful tracking advancement – and felt a distinct pull. “That way,” he said, pointing past the distant trees toward the low foothills. “It seems to be moving slowly.”
+
+“Good, we’re catching up,” Lyeneru said, flaring her wings and accelerating forward.
+
+She always made him track the Death Knight while they hunted from the air, but her subtle comment about catching up was proof that she had far better tracking skills than him. While his advanced tracking ability was amazing, it was only a direction – he couldn’t tell if they really were gaining on the powerful undead creature. Huh. Does that mean she effectively put me up to this… surely not?
+
+Checking in regularly, Calen adjusted their course as they skimmed the treetops until he found himself drawn to a valley nestled in the foothills of the mountains. Far below, seen as occasional glimpses between the trees, he caught sight of the silver ribbon of a river tributary winding its way out of the valley.
+
+Wait, something’s not right…
+
+Trusting his hunch, he squinted, zooming in through the greenery with his vision skill till he saw what had been noticed by his subconscious mind. It’s not moving. “The river is frozen,” Calen pointed out.
+
+“It is,” Lyeneru said. “We’re right on track, look.” She indicated a spot further into the valley and, with a glance, Calen realized that even the trees were frozen – a broad swathe of ice cutting a straight line through the valley and its verdant undergrowth.
+
+“The Death Knight?” he asked, although, what else could it be?
+
+“Yes, we’re here,” Lyeneru said, a tight grimace flickering across her features as she narrowed her eyes, studying the frozen forest. “Here’s our plan. You will use stealth to get ahead of it and draw it out to that clearing over there. Your job is to pull it, not to fight – your distraction will allow me to prepare my Ambush. After I engage, you back off and fight it from the air, and do not hesitate to disengage if you take too much damage. Watch out for the fear and ice auras – you’ve figured out their range already, right?”
+
+“Yes,” he said, nodding. The plan seemed simple, but he had seen the monster up close before, and the reality of what he was about to attempt sent a chill of fear crawling down his spine. She would allow him to fight a little, but that also meant he was fighting a Death Knight who could easily kill him if he made even the slightest mistake. “Will my stealth be good enough against it?” Hadn’t she said it was almost level two hundred?
+
+“This one has excellent vision and hearing, but all of its advanced perception skills are omnidirectional and limited to the range of the fear aura. Use your new Mirage Armor – the illusion should help your stealth. With luck, if you avoid the aura and use the shadows and trees, you should be ok.”
+
+“Luck…” he echoed, recalling one of his patron’s traits. He retrieved a Dal’mohran gold coin from his dwindling money pouch. “Can’t hurt to buy a little more of that.” He stilled his trembling hand and then flipped the coin into the air, pulsing a little mana into it. The gold gleamed, catching the sunlight as it tumbled over and over in the air, and, at the very apex, it vanished in a small puff of glowing sparks.
+
+You have gained the Blessing of the Wanderer+12 to Dexterity.+8% to Movement speed.Blessing – Duration: 3 hours.
+
+Lyeneru quirked an eyebrow at him, so he shared the details of his buff with her.
+
+“Well, that’s perfect for this fight,” she said approvingly. “Lady Luck is good to you, you’ll need every advantage you can eke out. We both will. When you draw it out, stay on the ground if possible and use the trees for cover. It has a powerful ranged ice magic attack – if you’re in the air before it’s fully focused on me, you will present an easy target.”
+
+“Ok, I’m going,” he said, mostly to convince himself this was not a swift way to commit suicide. He reserved the mana for Mirage Armor, marveling at the sight of his arms blurring into an indistinct shimmer, but by the time he turned back, Lyeneru had vanished. Suddenly alone, he shivered and then spiraled downward through the treetops for cover as he sought to place himself directly into the path of the oncoming undead calamity of ice, fear, and steel. As soon as he landed, he dismissed his wings and activated his stealth and silence, sprinting across the carpet of decomposing leaves and darting through the trees, willing his heart to stop beating so loudly.
+
+He set up just off a game trail that cut across the path of the Death Knight, finding his bearings and settling into the dark shadow of a huge spreading tree.
+
+Just as he was beginning to get his jangling nerves under control, a creeping, cracking noise came to his hearing, and white ice crystals began to appear on every surface, proliferating along the boughs and trunks of the distant trees. The temperature plummeted as if they’d been caught in the breath attack of a furious Frost Dragon. The crunch of heavy steel sabatons breaking sheets of ice echoed through the forest and a deadly chill bit his skin.
+
+It’s here. Time to – shit!
+
+As if his thoughts had summoned it, the dark, shrouded form emerged into the open, stepping out from between two enormous trees and onto the game trail. It approached, striding down the narrow path oozing power and purpose to the sounds of ice creaking as the trees froze solid in its wake. Suddenly, an oak to the left side of the trail exploded, shattered into flying shards of ice and wood by the extreme cold. Shrapnel bounced unnoticed from the Death Knight’s heavy plate armor. Calen shivered, struggling with his inner war against his own body and the fear demanding he scream and flee.
+
+Death Knight – Undead – level ???[Explorer]A terrifying relic of ages past – a dark, heavily armored undead knight wielding a greatsword, fear, and ice.Category: MinionThreat Level: EliteMonster Type: Greater Undead, Death KnightDamage: Physical, IceKnown Abilities: Fear Aura
+
+He drew his bow and carefully nocked an arrow. Holding his breath in the hope that the steam would not give him away too early, he tracked the approach of the Death Knight, exquisitely aware of both the range of his bow and the estimated range of the invisible fear aura that undoubtedly welled up and outward from the monster. To his immense relief, his white-knuckled hands held steady.
+
+He imbued his arrow with Increased Range and fed stamina to his Eclipse skill to attempt an Ambush. Feeding mana to his light damage enchantment, he withheld it on the brink of completion and loosed his arrow. The fletchings brushed his cheek as the arrow shot forth and his heart began to hammer in his throat as he abruptly passed the point of no return.
+
+Practice and habit took over, his eyes traced the path of his arrow, and at the last possible moment, he released his withheld enchantment. His arrow burst into shining radiance. Ambush triggered; a lurching release felt through the skill itself. His arrow slammed home through a gap between the heavy plates of armor. The Death Knight let out an ethereal, chilling hiss and its intense glowing blue eyes instantly transfixed Calen, driving sudden terror and dread into his impaled soul. He had never felt so small and insignificant. A bug under the armored boot of a giant.
+
+“You will die for that, half-elf,” it rasped.
+
+The calm, cold hate in its voice ironically restarted Calen’s heart, and he took a shuddering breath of his own, spearing a deathly chill up his nostrils that conversely cleared his mind like a brutal slap to the cheek. Collecting himself abruptly, he turned and fled, leaping over bushes and dodging trees at a dead run, taking full advantage of the Blessing of the Wanderer. He ran flat out, making for the suddenly impossibly distant clearing while his ears picked out every crunch and crash of the Death Knight’s boots breaking ice behind him.
+
+It's gaining on me! Lyeneru’s assessment that it was slow was clearly relative. Especially when it was annoyed by the fleeing flea! He risked a panicked glance backward, just in time to jerk back from an ice bolt hurtling toward his head. It swished an inch past his face and punched a hole through the trunk of a tree just as Calen swerved smoothly past it.
+
+He was preternaturally aware of the range of the Death Knight’s auras, and he could already feel the unnerving fear beginning to trickle through his mind, sowing weakness in his muscles as the world around him grew colder.
+
+Desperate for every inch of speed, he triggered his Righteous Fury. His body blurred as it accelerated, his Mirage Armor working hard to obscure his position. Another ice bolt whistled past his other ear. He performed his well-practiced spinning leap as he cleared a branch and he fired an arrow back at the Death Knight, using both his damage and his grappling enhancements. The arrow punched into the Death Knight’s arm with no visible effect, and the chains of light instantly shattered as if they were gossamer threads – clearly offering no more resistance than a spider web for the relentless dark monster.
+
+Where is she? Any time now!
+
+His breath rasped heavily in his throat as he struggled for enough air to barely keep ahead of the monster. He dodged another ice bolt and summoned a mana potion from his storage, downing it to push his skills just a little longer.
+
+Where the fuck is the clearing? I’m not going to make it! Panic made his inner voice shrill and brittle as he began to realize just how far it still was.
+
+Righteous Fury faded, and he felt his mana cool. Calen’s frantic speed slowed. The crunching and cracking of the Death Knight barreling through frozen trees behind him grew louder and louder. The chill began to bite, slowing his muscles. Frost and rime coated the leaves in front of him, and high-speed splinters shot past his neck as yet another tree detonated from the extreme cold.
+
+Suddenly he jerked to an abrupt stop, his foot trapped in the ice. He pitched forward, slamming hard against the ground. Desperately, he struggled, trying to regain his feet to the sound of cold, mocking laughter. Yanking furiously, he felt his frozen leg snap, shattering at the ankle in a shower of icy chunks of broken flesh and bone. Calen dragged himself to his feet, taking off in a staggering, shambling run on one good foot and a frozen stump. He summoned his wings, ignoring Lyeneru’s instructions to remain grounded, but to his horror, even the magic of his manifested wings creaked and froze, aborting his escape before he even got off the ground.
+
+His arms and legs trembled uncontrollably as the undeniable power of the fear aura blanketed him. He tripped again and fell, rolling over to find the Death Knight towering over his prone form. All he could do was stare in horror, unable to even summon his recall potion as the fear banished his willpower.
+
+Slowly, it drew its enormous glowing sword and spoke a single word.
+
+“Die.”
+
+A blur flashed by from the side. Calen’s body reacted to the concussion of the blast before his ears even registered the deafening crack and bone-shaking explosion. Calen’s face scorched from the blistering heat and lightning crackled all around as the Death Knight was tossed through a nearby tree trunk from the force.
+
+Lyeneru.
+
+A blazing avatar appeared from among the trees trailing sparks from her eyes. Her flaming bow remained steady, trained on the impact crater the Death Knight had made. “Move,” she ordered.
+
+Struggling to keep conscious, he forced his trembling, battered body to move. He hadn’t quite made it to the clearing, but she had saved him, nonetheless. Something moved within the crater. Something dark. Instantly, Lyeneru filled it with blazing arrows fired from her bow with immense power and speed – the force of the detonations knocked him over again.
+
+Scrambling onto his knees, he summoned his wings and took to the sky just above the treetops, getting a healthy distance between himself and the titanic clash of flame, lightning, and ice that erupted below.
+
+Now, that was an Ambush! If he had been her target, he would have been vaporized by that attack, and yet he could already see the grim Death Knight clawing its way out of the crater, unleashing a hail of ice on the rapidly dodging Night Elf. Arrows of fire and lightning hammered against a thick wall of ice. While her opening attack had been unimaginably powerful, he had the wits to notice she had used the same trick he did – delaying her magic till the last possible moment to eke the maximum benefit from stacking her skills. Of course, the comparison between their attacks could hardly be called close, but he found comfort in learning his tactics were on the right track.
+
+With a little distance gained from the epicenter of the clash, his heart began to calm a little and the fingers of fear released their hold on him. Some semblance of control began to return to his trembling hands, still numb and blue from the brutal cold.
+
+Calen nocked an arrow and sighted down the shaft, forcing his breathing to even out in order to steady his grip. Already, large swathes of the forest were burning or covered in thick sheets of ice. The Death Knight charged forward, felling trees with every swing of its great rune blade as it chased the tenacious Night Elf and filled the air with deadly shards of ice. Lyeneru flew in dizzying arcs with her powerful wings, teleporting every few seconds and unleashing a hail of devastating volleys from every possible angle, filling the air with the stench of burning and ozone.
+
+Calen took a deep breath and held it, finally settling his frayed nerves. Right after Lyeneru teleported into the air, he unleashed his arrow, not wanting to interfere with her fighting in any way – but there was no way he was just standing by without trying to help.
+
+Even if the Death Knight is too strong for me to damage, I’m alive and I’ll do my part. He fired again and again as his mana slowly ticked up from his potion. He studied the battle unfolding below. For all Lyeneru’s immense power, the Death Knight was visibly stronger. With his fear, heavy armor, and potent ice magic, it would have had her at a disadvantage but for the fact that she could fly and teleport like a demented bat. No wonder she’s been hunting this thing for ages.
+

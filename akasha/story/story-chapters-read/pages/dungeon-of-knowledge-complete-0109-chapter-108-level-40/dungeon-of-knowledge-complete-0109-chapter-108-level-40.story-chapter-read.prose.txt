@@ -1,0 +1,108 @@
+Kieran: Report.Tala: It’s harder to find Adventurer Guild marks now that half of them left to join the Watch, but I have a promising lead.Kieran: See that you make it memorable. Use your card. We want them jumping at shadows, terrified of the Silent Assassin.Tala: I’ll see to it.Kieran: Any progress on the bounty for that Aliandra and Malika? Mr. Hawkhurst is pressuring me for details.Tala: About that… Aliandra has a dungeon shrine.Kieran: What? Don’t be preposterous!Tala: It’s true. I overheard some of the adventurers talking about it. That group with the mayor’s son used it to get their classes.Kieran: This better not be some ruse…Tala: I snuck down into the cavern and verified it for myself. There’s a huge shrine there and it has her name on it as the owner.Kieran: I need you to inform Roderik Icecrown at once. The Shadow Council must be informed immediately.Tala: Shadow Council?Kieran: The organization we’re really working for.Tala: Wait, we don’t work for Hawkhurst trading?Kieran: Jax Hawkhurst is a small fry in a nothing town. Keep this information strictly between us. When you level up a little more, I will induct you. For now, pretend you don’t know anything about it… if you value your life and sanity. Just tell Roderik about the shrine.Tala: It’s as good as done.- Conversation via Sending Panel between Kieran Mori and the Silent Assassin, Tala Kane.
+
+Ali’s two Kobold Acolytes bowed their heads and clasped their hands in a pose she had come to recognize as their regeneration skill – and she knew that the poison had finally expired. Mato and Malika still lay unconscious on the springy grass, but their breathing seemed to have settled into a much healthier rhythm, and the hard-working Kobolds no longer saw the need to heal them continually.
+
+She let out a soft sigh of relief and watched Calen slowly make his way over to where she had flopped down on the ground, still up on her ridge – the spot she had chosen for its good view of the battlefield.
+
+“How are they doing?” Calen asked, joining her on the grass.
+
+“I think they’re going to be ok,” she answered. “It seems to be a poison with the side effect of knocking you out. My Kobolds nearly ran out of mana keeping them alive.” She glanced at her Acolytes, but they were still calmly regenerating their mana and seemed to have no further urgency about healing. She finally released the mana reserved for her frantically inscribed Cure Poison runic circle and watched the glowing magic fade.
+
+I nearly lost everyone. The battle itself had seemed easy enough when they had first engaged. But the Spore Spreader monsters, and their popping Violet Dreamclouds, had instantly knocked Mato and Malika out, turning the battle on its head. Only Calen’s quick thinking had saved Mato and Malika from being trampled, crushed under the immense weight and fury of the rampaging Forest Guardian. Caught too far out of range for her barriers, she had been forced to watch the disaster unfold – and, while her slimes were somehow unaffected by the spores and the rampant growth, they were nowhere near powerful enough to tank the guardian.
+
+“That was some good strategy with the Scalding Slimes,” Calen said, continuing their quiet conversation. “And whatever craziness you cooked up with your Arcane Bolts… you saved my life. Our lives.”
+
+Ali blushed, squirming.
+
+“Thanks,” Ali murmured, accepting his compliment, but in truth, she had felt anything but strategic and smart. Mostly, she had been reacting to the shock of seeing Mato and Malika being stomped. Immediately followed by the nail-biting, heart-pounding race between Calen and the relentless mountain of wood and bark. How he had managed to remain one step ahead of those grinding jaws and writhing roots she could scarcely imagine.
+
+“Thanks for having our backs,” he added, doubling down, and intensifying her blush. “How did you even find the time to use your Grimoire? And what made you think of steam?”
+
+“I summoned them while you were circling the rock pile,” Ali admitted. When he had vanished behind the rocks and overgrowth, she had been left with nothing but the horrific sounds of the chase and no way to help. In that moment she had despaired of ever seeing the quiet, shy Half-elf again. Normally her Grimoire was far too slow to summon minions during battle, but there had been nothing else she could do, so she had resorted to that. Her Wyverns’ poison seemed ineffective against the nature elemental, and her Fire Mages or Storm Shamans couldn’t run fast enough to keep up with it. It was while she was racking her brain for anything that might work that she recalled the scene in Naia’s dungeon. “Naia was very efficient with the Scalding Slimes,” Ali admitted. “That’s what gave me the idea.”
+
+There was nothing smart about it, I had no other choice.
+
+“Well, making the steam slimes ride the Guardian was brilliant,” Calen said. “They were devastating.”
+
+“Mhm,” Ali nodded, just happy it had worked out.
+
+“How did you manage that trick with your Bolts? C’mon, you can’t leave me in the dark here,” Calen said, leaning in a little closer.
+
+“Do you remember that testing we did on Arcane Bolt to figure out its range?” Ali asked. She had always thought Calen was overly pedantic about writing down every skill and advance, studying the limits, and testing everything exhaustively.
+
+“Yup, we learned it has a two-minute time limit, not a distance limit… wait, that’s what you used?” Calen said, suddenly sitting up in surprise.
+
+“Yes,” Ali nodded. “And I can retarget them mentally. I ping-ponged the bolts between the slime on the overhang and myself, keeping as many in flight as possible.” It had been an act of inspired desperation, something she had fumbled her way into by accident and urgency. She was just grateful it had worked so well.
+
+Calen let out a low whistle. “Two minutes, three bolts per shot…” he muttered, his face screwed up in computation for a few moments before his eyes widened. “You had nearly five hundred bolts in the air at once?”
+
+“Probably only about three hundred of them hit,” Ali said, nodding. “Lots of them expired on the way.”
+
+“That’s ridiculous,” Calen said. “No math involved?”
+
+She snorted mildly, “How? There wasn’t any time, Calen.”
+
+“You just winged it?”
+
+“It was such a last-ditch thing,” Ali observed, “I was out of mana so fast. If you’d been just a little later, it wouldn’t have worked.” It had been so close. Before she got stuck in a spiral of self-critique, she got up and decided that doing something productive would set her mind back to rights. Everyone is alive, and that’s what is important. She could work on improving for next time.
+
+Your group has defeated Spore Spreader – Fungus – level 11-19 (Plant) x3.Your group has defeated Forest Guardian – Wood Elemental – level 40 (Nature).
+
+Plant magic affinity… She studied the strange three-limbed mushroom monster lying burnt on the ground. Her mages had been good for one thing – destroying these. Plant magic affinity, by most accounts she had read, was a rare, specialized form of nature magic – one that worked only with plants and plant growth, but due to the extreme specialization, the effects were supposed to be that much more powerful.
+
+She deconstructed it, and then the rest of them and the few Violet Dreamcloud mushrooms that remained.
+
+Variant: Spore Spreader added to Imprint: Mushroom.Variant: Violet Dreamcloud added to Imprint: Mushroom.
+
+She looked at her Grimoire curiously. She had long given up on figuring out how it categorized things, but lately, it had been extra weird. At least in her mind, she had been separating the imprints into broad categories; materials, equipment, plants, and monsters – but now her Grimoire was insisting on putting monsters in plant imprints and her precarious understanding of how her magic worked had just come crashing down.
+
+The two notifications from the previous battle just served to reinforce the issue.
+
+Variant: Moss Creeper added to Imprint: Moss.Variant: Floral Menace added to Imprint: Wildflower.
+
+I guess these monsters are literally plants? It seemed weird, but her Grimoire certainly seemed to think so.
+
+“How long do you think before they wake up?” Calen asked.
+
+“I’m not sure,” Ali said. “They don’t need healing anymore.”
+
+“Ok, I’m going to scout a bit while we wait,” Calen said, getting to his feet.
+
+“Ok,” Ali said, turning her thoughts to the three new monster imprints she had learned, variants of her plant categories. With nothing better to do, she pored over the runes. There was a tantalizing similarity between the three of them, but, stubbornly, the runes refused to divulge their secrets to her eyes. I guess I’ll just summon them, she decided. Familiarizing herself with her imprints and her monsters would allow her to make smarter choices.
+
+She started with the Moss Creeper – summoning two of them. The green monsters that appeared could best be described as mounds or clumps of fine-stranded plant matter. One of her new minions appeared as a level sixteen monster, a mound that took her up to her thighs. The second was much smaller – level four – and the size of a small ball.
+
+They flopped around a little, not doing very much until she sent them a mental nudge. Their movement seemed to have been concocted from an ill-advised merging of a sloth and an ooze – moss-covered protrusions moved within their bodies to grasp and pull the monster across the grassy dirt. Ali watched in fascination as the larger one reached a small boulder, entirely covering it with its body, and then began to use a nature affinity skill. A trickle of mana twisted and bent, shaping a formation that, for a second time, evoked a tantalizing sense of familiarity. When the monster was done, it moved off unhurriedly, searching for another spot, leaving the previously bare boulder covered in dense mossy growth.
+
+Not very exciting, Ali thought. Studying its magic was fascinating in and of itself, but other than that, it didn’t provide a whole lot of options for combat, unless it had abilities it couldn’t show. What monster will wait for me to grow moss on it?
+
+Ali turned her attention back to the hovering Grimoire, summoning two more monsters, a Spore Spreader, and a Floral Menace. At least the gnarled, woody Floral Menace had a pretty pink scruff of petals – the Spore Spreader looked like a misshapen and mutated, oversized mushroom. These two she understood in terms of combat capabilities – it was rather that their abilities might take some careful planning to apply in a combat situation.
+
+Nevertheless, she put them through their paces, studying their magic as they grew violet mushrooms and pink flowers. She had put them a little way apart from their group, just to be safe, but even at this distance, she could tell that whatever magic they were doing seemed familiar to her, once again.
+
+Similar to each other. She wasn’t quite sure why this had caught her attention, but without anything more to go on, she finally decided that it was simply the nature of a skill that summoned plants. How different could they be? One summoned flowers and the other summoned mushrooms, but besides that, there had to be some common structure to the skills she was observing.
+
+Finally, tiring of her studies, she unsummoned the new monsters, freeing her mana for combat, and turned her eyes to the enormous bulk of the still-smoking Forest Guardian, trying to suppress the complex surge of emotions rising within her. It was a terrifying monster, especially when it was trying to maul or crush her friends. But she felt a conflicting nostalgia even from the giant corpse of wood and bark, battered and destroyed from the steam and her arcane magic. It had been a harsh wakeup call to be forcibly reminded that it was a monster capable of crushing them when her mind had been filled with the memory of her father’s gentle touch as he helped her up onto the back of a Forest Guardian so that she could ride it around the forest for fun.
+
+And that’s the third one.
+
+She flew over and began to deconstruct it, unable to fully contain the bubbling excitement of her anticipation. But to her dismay, when the monster’s corpse exploded into sparkles and motes of mana, drifting away on the light breeze, her Grimoire did not appear, and she did not hear the notification telling her that she had learned something new.
+
+Sometimes it takes more than three, she told herself, trying to assuage her disappointment, while trying to ignore the voice in the back of her mind that was wondering if this monster had some peculiarity that prevented her from ever learning it – like the light or bone elementals her magic couldn’t bring to life.
+
+“Did you get them?” Calen asked as she returned.
+
+“The Spore Spreaders and the Violet Dreamcloud, but not the guardian yet.” She couldn’t keep the disappointment from her voice, but even learning the strange tripod mushroom monster was a sort of progress. The fact that she couldn’t immediately think of a good use for it was probably just a failure of imagination due to her exhaustion.
+
+To take her mind off it, she turned to her notifications, finding, much to her surprise, that the fight had been enough to earn a class level.
+
+Grove Warden has reached level 40.+10 attribute points.
+
+Forty… The nice round number appeared before her, masquerading as normal and mundane, but it was filled with significance and meaning. She was no longer the weak research assistant, terrified to face a rat. Forty with a combat class meant she was likely considered ‘powerful’ by most people in the town, if not the kingdom. If her class didn’t deviate from the normal pattern, it should come with her final skill unlock, a potentially significant milestone in her growth.
+
+She pursed her lips carefully and spent one point on vitality and two points on dexterity. The rest she spent on her primary attributes; five into intelligence and two into wisdom for more mana. She turned the parchment page in her mind to reveal the rest of her notifications.
+
+Arcane Insight has reached level 24.Arcane Bolt has reached level 24 (+2).Barrier has reached level 30.Grimoire of Summoning has reached level 25 (+2).Martial Insight has reached level 23.Empowered Summoner has reached level 20.Identify has reached level 13.
+
+Grimoire of Summoning was a skill she constantly struggled to level up, especially as a major portion of her growth was tied up in the number of imprint chapters she had earned. Early on, simply using deconstruction in combat had been sufficient for substantial growth, but summoning monsters was a long process, and it was hard to find time to use it mid-battle, so she rarely got experience for using it under dangerous circumstances.
+

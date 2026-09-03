@@ -1,0 +1,90 @@
+You have been infected with Undead Blight.A debilitating infection that grows stronger every day, rotting flesh and propagating to everything it touches.-1% to maximum health+1 count per day10% chance to spread Undead Blight on contactIf you die while infected, your body will be raised as a zombieSmall chance per vitality to recover from Undead BlightDisease – Count: 23
+
+Lira stumbled for the umpteenth time; her faltering consciousness jerked back to reality by the threat of falling. The white waters of the Myrin River rapids roared ceaselessly beside her, filling the air with damp spray and slicking the rocks beneath her feet. She reached instinctively for her magic again, but it slipped from her grasp, held in abeyance just out of reach by the awful Mana Severance curse Alexander had inflicted upon her.
+
+Worse still was the corruption of death magic that had taken root within her, twisting and warping her mind. She wasn’t certain exactly how long she had been walking – her consciousness shifted, drifting somewhere between awareness and stupor. Nightmare Slumber fed incessant whispers of insanity into the back of her mind, dragging her down to the dark embrace of the terrifying phantasms – and every time she succumbed, she woke weaker, her mind’s defenses eroded by the corruption. Soon she would no longer wake.
+
+One more step. One more.
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 4
+
+Everything was excruciating pain. She doubled over as the immediate spasm wracked a body already ravaged by blight and poison, her bruised and battered face twisting in agony. But nothing came close to the sting of betrayal, withdrawal, and the dreadful raw wound in her heart where the soothing sense of her forest had once nestled. She would rather have had her arms or legs torn off by that zombie troll than lose her forest. But it was gone – she could no longer feel the connection to its mana and her domain – the forest that had been her home, her life, for thousands of years. Gone forever.
+
+Furious, she brushed the unwanted tears from her eyes.
+
+Alexander Gray.
+
+She clenched her teeth in anger and frustration. How had she been so blind to his deception? To the fact that he was a Necromancer? She was over four thousand years old, not some simple village girl, hanging on to the false promises and stories of some local knight. Yet she had fallen for his handsome face and pretty words just the same. Her fury lent some measure of strength to her blight-ridden body, and she pressed on.
+
+Just one more step. A water-slicked stone rolled underfoot, and she stumbled again.
+
+Her mind returned unbidden to the horror and grief of waking to the sight of her beloved forest consumed by the blight. She had felt the remnants dying, filled no longer with the animals she had grown to love, but with the stench of foul undeath. She was not a vindictive person, but she wished with all her being to live to see his downfall. To see him pay for destroying everything she loved and driving her, cursed and dying, from her home. For the first time in millennia, she yearned for the tools of violence rather than her class’s delicate magic of growth and nurturing.
+
+No chance of that. It was perhaps a mercy that it would all end in a few days. She did not relish the thought that she would become one of the undead, serving him after she passed from the life she barely clung to now, but if she didn’t find a new home soon, she would certainly perish from the withdrawal.
+
+She reached with her senses, communing with the plants as she made her painstaking way along the riverbank, and to her surprise, her magic responded to her will. “Continue…” they reassured her. “The mana is there… up ahead. Keep walking and you will find it.” She gritted her teeth and pressed on, driven only by the images and impressions of the dense nature mana the plants told of further to the north.
+
+Myrin’s Keep. It was cruelly far. There was no real chance, but it was the only choice she had. If I can just reach it… Maybe she could claim it, save herself, and make a new home.
+
+Or perhaps it would simply vanish like a mirage in the desert, taunting her with the illusion of water.
+
+As she stumbled onward, her mind returned once again to the strange boy who had released her from her tormentor.
+
+Ali sat cross-legged, perched on her new favorite spot atop the broad back of her Forest Guardian, holding tightly to the ridges of bark armor for support as they pressed on through the jungle. Its scent of old wood, sap, and new growth filled her lungs, shooting right to her core in the way that only smells steeped in nostalgia could. She studied the passing trees and overgrowth from her elevated vantage point beside several of her Kobold minions sitting on the rough bark armor that shook with the powerful rhythm of her elemental’s slow, plodding gait. She was grateful to be high enough up that, in the moments when her emotions threatened to overwhelm her, she wasn’t forced to share her tears.
+
+Her friends seemed to be in good spirits, chatting away with each other, somehow intuitively grasping her need for a little space to be with her memories. Or maybe Malika said something? She smiled though, hearing the pride they had at having helped her earn this Forest Guardian – it had truly been a team effort, and Ali felt an outpouring of gratitude to them and their enthusiasm for helping her to grow stronger.
+
+“That way,” she instructed, directing her Forest Guardian to follow the game trail, tracking roughly in the direction of the slowly increasing mana density – the direction of maximum curiosity for both her and Calen. Each lumbering step of her massive steed sent tremors through her body, shaking the bushes and trees beside the trail and she cautioned her newly reformed minion army following along beside them to be alert in case the sound of their passage attracted any monstrous attention.
+
+When she had resummoned her Kobolds after the last fight, she had discovered that if she allowed her Grimoire free rein to take extra mana, it would summon her monsters with already created gear – clearly something new from when her Customization had advanced. While still random, the gear choices seemed heavily biased toward what the minion could use – her mages had all been summoned with an assortment of robes, while her Storm Shaman appeared with a chain shirt, a shield, and a sword. The levels and selections were not optimal, nor was the choice of sword for her shaman, but this development was certainly going to save her a lot of time – and she could still do it manually if she cared.
+
+Avatar would have been incredible, she thought, laying a hand on the Forest Guardian and trying to imagine what it might be like to be inside such a monster, seeing through its eyes, and walking around with its body temporarily her own. She wasn’t having second thoughts about her skill choice – but Avatar had seemed extraordinarily powerful, and she had just earned the guardian – she couldn’t help but wonder what it might have been like with such a powerful form.
+
+“Ali, how much is your health regeneration right now?” Calen asked from down below, walking beside the guardian’s front leg. He had his notebook out, but his eyes were still vigilantly scanning the surrounding jungle.
+
+Health RegenerationPercentage of maximum health regenerated per hour.+125% Sanctuary.+639% Forest Guardian.Total: +764%
+
+“Here you go,” she said, sharing her numbers with him, still floored by the sheer amount of regeneration her guardian projected. Like most classes, her base health regeneration was zero, meaning that she required healing magic – an Acolyte, Priest, or a potion of some kind – to recover from any injuries. With Mato providing his Sanctuary aura, and her Forest Guardian’s stupendous regeneration aura, she would – by her quick calculation – regenerate her full health in as little as seven minutes. Not that it mattered a whole lot to her – she had measured the Forest Guardian’s aura to extend out a bit more than five meters from its immense bulk – exceptionally effective for Mato, Malika, and whatever melee minions she chose to make, but Ali was unlikely to personally benefit from the aura. At least during combat. It would be a waste to have one hang back with me, wouldn’t it?
+
+“Hmm… that’s curious. Your percentage is different,” Calen said, pausing to scribble a few things, somehow still walking with agility and poise even while writing. “Perhaps because you have a higher class level than the guardian? The rest of us are getting exactly seven hundred percent from the aura, so… three percent reduction per extra level, maybe?” It seemed Calen had found a new puzzle, and he appeared to be quite absorbed in solving it. The numbers he had guessed seemed to work but Ali was content to wait till she had the free time to summon several guardians and examine the differences directly.
+
+“It’s impressively high still, even compared to Mato’s Sanctuary aura,” she added, trying to get a feel for exactly how this might affect her strategy and the choices for which minions she would bring to combat. Her shamans and rogues were certainly going to benefit enormously in any fight involving close melee, taking a lot of the load off her healers. Bugbears too, but she hadn’t made those in a while – given the levels of what they were up against, she found her slimes and oozes to be far more effective. Currently, her minions numbered only a single Storm Shaman, but several Scalding Slimes, all of which could benefit provided she kept them close to the guardian.
+
+“Mato’s aura improves mana and stamina too, so it’s arguably more powerful,” Malika chimed in.
+
+“That’s true,” Ali agreed. She had certainly benefited from his shared mana regeneration whenever she could be close enough – typically only during post-combat recovery. “Does this mean I can prioritize area damage more?” It certainly seemed like her opportunities to use her favorite fireball attacks had just grown substantially.
+
+“Are you sure you’re not secretly a Fire Mage, Ali?” Mato asked, chuckling from down below.
+
+“Hey!”
+
+The dense trees, moss, and undergrowth of the hot, humid jungle slowly began to give way to clumps and stands of bamboo, and soon Ali found herself riding through a dim forest of dizzyingly tall, giant green stalks, sprouting through a thick layer of decaying leaves that carpeted the ground. The raucous calls of insects and the crashes and roars of distant monsters hunting slowly faded away, leaving a muted calm, perhaps expectant atmosphere. Even the heavy thumps and vibrations of her Forest Guardian’s stride were muffled by the thick, springy layer of rotting vegetation.
+
+But it was the appearance of the ambient mana that attracted her attention instantly. If the roiling, chaotic nature mana in the jungle was like a sea in the middle of the storm, here in the bamboo forest, it was like a deep lake – still, heavy, and dense. Quiet, but flowing smoothly. The bamboo itself appeared to be drawing in ambient mana and sending it flowing upward in a vast upwelling current into the dense canopy of leaves well beyond Ali’s ability to see.
+
+Living Bamboo – Grass – level 32 (Nature)
+
+Nature affinity. Like everything else in this strange place, the bamboo had been warped by the glut of abundant ambient mana. Many of the giant stems were well over a meter in diameter, making them appear like giant branchless tree trunks, rather than grass. The entire forest seemed to be exerting a soothing pressure on the underlying ambient mana. I could use this! Ali thought, her mind instantly filled with possibilities for applying it to her domain – nature affinity plants generated her domain mana, and this Living Bamboo was simply enormous.
+
+She created a barrier and flew herself down to the ground, inspecting the bamboo up close.
+
+“You going to learn that?” Mato asked.
+
+“It’s got a nature mana affinity, so I think it will be very helpful,” she said. She had been so disappointed when her oaks and maples had not worked to grow the density of her domain, but this bamboo might just do the trick.
+
+“It’s a great idea, see how peaceful it looks?” Mato said, smiling. “See how it seems to attract the wisps? Maybe you can duplicate this atmosphere in the cavern somewhere?”
+
+“That would be great,” Ali said. A little deeper into the forest, visible past the edge of the trail they walked, the bamboo forest was lit with the glow of hundreds of glowworms and wisps sedately floating and hovering about, seeming to follow the currents of the mana. High above, she could even see the occasional flashes of light and brief glimpses of golden scales that had to come from the luminous dragonets hunting for dinner – the sole remaining remnants of the previously plentiful light affinity creatures.
+
+“It would be nice to Meditate in a forest like this,” Malika said.
+
+It was certainly pretty and peaceful, and Ali could easily see a nice large bamboo stand somewhere between the lake and the shrine. Being able to relax in such a space whenever she wanted sounded perfect, and it seemed that Mato would be excited to help her build it. She reached out, placing her hand on one of the bamboo stems, and triggered her deconstruction.
+
+“Ow!” she cried out aloud as a stinging jolt of pain stabbed through her leg, rudely ripping her away from the introspective thoughts of a peaceful imagined forest and disrupting her magic.
+
+You have been afflicted with Poison. +1.25 Poison damage per second.Poison – Duration: 10 minutes. Count: 1
+
+In an instant, the angry rumbling hulk of her Forest Guardian was hovering protectively over her, and all her minions were suddenly ready for battle.
+
+Protruding from her leg amid a trickle of fresh blood staining her clothes was a thin sliver of wood – a dart or a thorn that pierced deep into the muscle. Gritting her teeth against the pain, she grabbed it firmly and yanked, pulling the spike free. In her hand, she held a surprisingly long, needle-sharp dart of wood that dripped amber with her own blood and stained with a dark green sticky sap. She stumbled a bit as her leg gave out when she put weight on it, the pain and the poison making her muscles tremble.
+
