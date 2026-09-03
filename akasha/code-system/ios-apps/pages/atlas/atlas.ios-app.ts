@@ -11,6 +11,8 @@ export const atlas = {
   developmentTeam: "M6AN6NM6FL",
   displayName: "atlas",
   gitIgnore: "gitignore",
+  macBuildLockDir: "$HOME/.appstoreconnect/deploy-testflight-atlas.lock",
+  macBuildNumberFile: "$HOME/.appstoreconnect/testflight-build-number-atlas",
   marketingVersion: "1.0",
   webEntry: "html",
   partSlugs: ["shell-script/atlas-capture-device-console", "shell-script/atlas-ios-seam"],
