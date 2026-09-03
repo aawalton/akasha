@@ -732,7 +732,6 @@
         "@akasha/utils-narrow": "workspace:*",
         "@googleapis/gmail": "^17.0.0",
         "@tools/lib": "workspace:*",
-        "@tools/ops": "workspace:*",
         "zod": "^4.3.6",
       },
     },

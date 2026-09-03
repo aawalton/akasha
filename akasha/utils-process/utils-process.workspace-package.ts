@@ -6,5 +6,10 @@ export const utilsProcess = {
   slug: "utils-process",
   definition: "a process another did not start, read from outside it and ended from outside it",
   manifest: "json",
-  partSlugs: ["module/pid-signal", "module/proc-reading", "module/process-ending"],
+  partSlugs: [
+    "module/pid-signal",
+    "module/port-holding",
+    "module/proc-reading",
+    "module/process-ending",
+  ],
 } as const satisfies WorkspacePackage
