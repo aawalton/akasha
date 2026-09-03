@@ -1,5 +1,5 @@
 import { readdirSync, readFileSync } from "node:fs"
-import { isSupervisorCmdline } from "@tools/lib/decide-proc-liveness"
+import { isSupervisorCmdline } from "@akasha/seat-system/seat-proc-liveness"
 import { z } from "zod"
 import type { PidSnapshot } from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 

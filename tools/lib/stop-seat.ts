@@ -1,5 +1,5 @@
+import { liveAgentPidsFromProc } from "@akasha/seat-system/seat-proc-liveness"
 import { ending } from "@akasha/utils-process/process-ending"
-import { liveAgentPidsFromProc } from "./decide-proc-liveness.ts"
 import { inputError } from "./exit.ts"
 import { decideKillTarget } from "./kill-target-plan.ts"
 import { killSeatSession } from "./launch-seat-tmux.ts"

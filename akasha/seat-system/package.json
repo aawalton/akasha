@@ -97,7 +97,9 @@
     "./supervisor-restart-notice-decide": "./supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts",
     "./supervisor-uncertain-wait-decide": "./supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts",
     "./supervisor-wait-resume-decide": "./supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts",
-    "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts"
+    "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts",
+    "./seat-proc-liveness": "./seat-proc-liveness/seat-proc-liveness.module.code.ts",
+    "./seat-proc-tree": "./seat-proc-tree/seat-proc-tree.module.code.ts"
   },
   "dependencies": {
     "@akasha/utils-system": "workspace:*",

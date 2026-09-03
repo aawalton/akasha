@@ -1,10 +1,9 @@
-
 import {
   isAgentProcessCmdline,
   isClaudeChildCmdline,
   type ProcLivenessEntry,
   UUID_RE,
-} from "./decide-proc-liveness.ts"
+} from "@akasha/seat-system/seat-proc-liveness"
 
 export function newestProcStartMsByAgent(
   entries: readonly ProcLivenessEntry[]
@@ -52,40 +51,36 @@ function newestChildPid(children: readonly ClaudeChildProc[]): number | undefine
   return best.pid
 }
 
+/** The children the stated supervisor fathered, or all of them where it fathered none. */
+function underSupervisor(
+  children: readonly ClaudeChildProc[],
+  supervisorPid: number | null
+): readonly ClaudeChildProc[] {
+  if (supervisorPid === null) return children
+  const supervised = children.filter((c) => c.ppid === supervisorPid)
+  return supervised.length > 0 ? supervised : children
+}
+
 export function supervisedClaudePids(
   children: readonly ClaudeChildProc[],
   supervisorPid: number | null
 ): readonly number[] {
-  if (supervisorPid !== null) {
-    const supervised = children.filter((c) => c.ppid === supervisorPid)
-    if (supervised.length > 0) return supervised.map((c) => c.pid)
-  }
-  return children.map((c) => c.pid)
+  return underSupervisor(children, supervisorPid).map((c) => c.pid)
 }
 
 export function pickMainClaudePid(
   children: readonly ClaudeChildProc[],
   supervisorPid: number | null
 ): number | undefined {
-  if (supervisorPid !== null) {
-    const supervised = children.filter((c) => c.ppid === supervisorPid)
-    if (supervised.length > 0) return newestChildPid(supervised)
-  }
-  return newestChildPid(children)
+  return newestChildPid(underSupervisor(children, supervisorPid))
 }
 
-export function selectSupersededTreePids(
-  entries: readonly ProcLivenessEntry[],
-  agentId: string,
-  selfPid: number,
-  keeperPid?: number
-): readonly number[] {
-  const mine = entries.filter(
-    (e) => e.agentId === agentId && isAgentProcessCmdline(e.cmdline) && e.pid !== selfPid
-  )
-  if (mine.length === 0) return []
+/** Union-find over ppid edges, grouping an agent's processes into whole trees. */
+function componentsOf(mine: readonly ProcLivenessEntry[]): {
+  find: (pid: number) => number
+  components: Map<number, ProcLivenessEntry[]>
+} {
   const pidSet = new Set(mine.map((e) => e.pid))
-
   const parent = new Map<number, number>()
   for (const e of mine) parent.set(e.pid, e.pid)
   const find = (x: number): number => {
@@ -103,7 +98,6 @@ export function selectSupersededTreePids(
       if (ra !== rb) parent.set(ra, rb)
     }
   }
-
   const components = new Map<number, ProcLivenessEntry[]>()
   for (const e of mine) {
     const root = find(e.pid)
@@ -111,8 +105,23 @@ export function selectSupersededTreePids(
     if (group === undefined) components.set(root, [e])
     else group.push(e)
   }
+  return { find, components }
+}
+
+export function selectSupersededTreePids(
+  entries: readonly ProcLivenessEntry[],
+  agentId: string,
+  selfPid: number,
+  keeperPid?: number
+): readonly number[] {
+  const mine = entries.filter(
+    (e) => e.agentId === agentId && isAgentProcessCmdline(e.cmdline) && e.pid !== selfPid
+  )
+  if (mine.length === 0) return []
+  const { find, components } = componentsOf(mine)
   if (components.size <= 1) return []
 
+  const pidSet = new Set(mine.map((e) => e.pid))
   let keeperRoot: number | undefined
   if (keeperPid !== undefined && pidSet.has(keeperPid)) {
     keeperRoot = find(keeperPid)
@@ -141,6 +150,7 @@ export function selectSupersededTreePids(
   return superseded.sort((a, b) => a - b)
 }
 
+/** Every pid of the invocation the caller is running inside, up to the nearest agent process. */
 function selfInvocationPids(
   entries: readonly ProcLivenessEntry[],
   selfPid: number

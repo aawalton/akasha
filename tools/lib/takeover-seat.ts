@@ -1,6 +1,6 @@
+import { liveAgentPidsFromProc } from "@akasha/seat-system/seat-proc-liveness"
 import { SEAT_START_DIR } from "@akasha/seat-system/supervisor-config"
 import { ending } from "@akasha/utils-process/process-ending"
-import { liveAgentPidsFromProc } from "./decide-proc-liveness.ts"
 import { dataError, operationalError } from "./exit.ts"
 import { decideKillTarget } from "./kill-target-plan.ts"
 import { scanProcEntries } from "./proc-scan.ts"

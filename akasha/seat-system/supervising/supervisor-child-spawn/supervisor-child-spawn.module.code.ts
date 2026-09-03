@@ -1,5 +1,8 @@
+import {
+  isClaudeChildCmdline,
+  type ProcLivenessEntry,
+} from "@akasha/seat-system/seat-proc-liveness"
 import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
-import { isClaudeChildCmdline, type ProcLivenessEntry } from "@tools/lib/decide-proc-liveness"
 import { scanProcEntries } from "@tools/lib/proc-scan"
 import type { InheritedProc } from "@tools/lib/supervisor-types"
 import {

@@ -1,7 +1,6 @@
-
 import { readdirSync, readFileSync, statSync } from "node:fs"
-import type { ProcLivenessEntry } from "./decide-proc-liveness.ts"
-import { rejectSelfProc } from "./decide-proc-tree.ts"
+import type { ProcLivenessEntry } from "@akasha/seat-system/seat-proc-liveness"
+import { rejectSelfProc } from "@akasha/seat-system/seat-proc-tree"
 
 export function extractEnvironVar(environ: string, key: string): string | undefined {
   const prefix = `${key}=`
