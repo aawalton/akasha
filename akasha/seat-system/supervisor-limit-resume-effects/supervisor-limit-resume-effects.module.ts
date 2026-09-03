@@ -40,8 +40,9 @@ export const supervisorLimitResumeEffects = {
         "A decide that exits non-zero is at fault, and the fault carries what it wrote to stderr.",
     },
     {
-      invariantKind: "gap",
-      statement: "The decide command is still reached where it stands in the old tree.",
+      invariantKind: "departure",
+      statement:
+        "The decide module is reached beside this one rather than by a path from the root.",
     },
   ],
 } as const satisfies Module

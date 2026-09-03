@@ -1,11 +1,15 @@
 import { existsSync } from "node:fs"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { shape } from "@tools/lib/shape"
 import type { Infer } from "@tools/lib/shape-core"
+import type { notices as composedNotices } from "../../compose-notices/compose-notices.module.code.ts"
 
 const LOG = "[resume-notices]"
 const COMPOSE_COMMAND = "compose-notices"
-const COMPOSE_RELPATH = `tools/${COMPOSE_COMMAND}.ts`
+
+// The specifier here is the one the type import above holds, so moving the compose module is a
+// diagnostic rather than a path that is not there when a seat is put back to work.
+const COMPOSE_AT = new URL("../../compose-notices/compose-notices.module.code.ts", import.meta.url)
+  .pathname
 
 export const SUPERVISOR_NOTICE_PREFIX = "[supervisor]"
 
@@ -39,7 +43,7 @@ export function unavailable(reason: string): ResumeNotices {
 
 export function parseNotices(text: string): { notices: ResumeNotices } | { reason: string } {
   try {
-    const parsed: unknown = JSON.parse(text)
+    const parsed = JSON.parse(text) as ReturnType<typeof composedNotices>
     const result = ResumeNoticesZ.safeParse(parsed)
     if (result.success) return { notices: result.data }
     const issue = result.error.issues[0]
@@ -60,7 +64,7 @@ interface CommandAnswer {
 }
 
 async function runCompose(): Promise<CommandAnswer> {
-  const verb = `${rootFor(resolveRoots(), AKASHA)}/${COMPOSE_RELPATH}`
+  const verb = COMPOSE_AT
   if (!existsSync(verb)) {
     throw new Error(`${verb} is not there, so there is no notice to compose`)
   }
