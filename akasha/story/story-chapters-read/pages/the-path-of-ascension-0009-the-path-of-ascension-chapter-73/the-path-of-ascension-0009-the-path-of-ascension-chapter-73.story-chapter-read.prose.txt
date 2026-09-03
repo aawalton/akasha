@@ -1,0 +1,108 @@
+Chapter 73
+
+Matt looked to Liz and Aster, and in unison, they all Tiered up. There was no need to go to a higher Tier rift and use its essence to help with compressions. After all,they had already delved a Tier 7 rift. Their cores were as compacted as they could be at Tier 5.
+
+Looking inward, he inspected his recent cultivation. He had been allocating most of his directed cultivation to mind, senses, and proprioception. Now, his greatest problem was keeping up with his boost from [Mage’s Retreat]. It would only get harder from here, as he would be able to pump more mana into the skill as he Tiered up.
+
+In the past month, he had gotten the skill into his core spirit, and was slowly expanding its capabilities to increase his endurance when using the skill. Once he was done, he would take the skill out of his core spirit, and start absorbing the other skills he had collected. He planned to try and make them cheaper, so he could use them earlier.
+
+With the three of them now Tier 6, they quickly packed up their camp and flew into the air. Matt took one last look at the island they had camped on, and the neighboring one where they had done their rift experiments.
+
+It was a bittersweet sight. He felt like he had passed a pivotal point in his life. Money and essence no longer meant as much to him as they had before this moment. His time experimenting had also given him a better impression of enchanting and of its benefits.
+
+He felt like he was a different Matt altogether compared to when he arrived on this planet, only a few short months ago. It only took a glance to see the half dozen rifts that he’d left. They were the best of his creations, and it gave him a bit of satisfaction to think of how valuable the island would be in the future. Especially once people saw that there was both a Tier 7 rift, and a rift capable of producing endless Tier 5 natural treasures for mana cultivation.
+
+One would eventually Tier up the planet, and the other would create near-endless wealth.
+
+The other rifts were the ones that produced growth items most often, or consistently had valuable rewards. Liz’s herb rift would probably be a hot commodity in the future for an alchemy guild.
+
+He smiled as he thought of the faces of the people who would find their little retreat.
+
+With a thought and flex of his spirit, Matt turned and flew towards the gathering point. It was set in the middle of nowhere on the planet’s fourth continent. It was a weird location, but he assumed that it was selected by the imperial army, instead of the kingdom. Otherwise, it would’ve been in one of the two teleporter cities.
+
+It would take them a few hours to reach their destination, but the message calling them together had a countdown timer. They had nearly a full day until the countdown would reach zero. Neither he nor Liz had any idea what the counter represented, but they didn’t want to get caught out of the city if it indicated the invasion point and start time of the war.
+
+Matt didn’t think it likely, as this was more a training ground than a real war, but they hurried anyway.
+
+As they flew, Matt increased his max mana pool to 80 mana, and then immediately downed one of Aunt Helen’s mana concentration potions. He almost fell, but was able to keep his flying sword steady with the aid of his AI. After checking and finding that his mana concentration was now 1.3, he was slightly taken aback. The potion had given him an increase of 0.15 mana concentration, even more than the 0.08 that the first one had provided at Tier 4.
+
+After reflecting, it made sense that a Tier 30 plus mana concentration potion would do more than a max mana of 20 could handle. With the realization that he would get more out of Aunt Helen’s potions when he had more maximum mana to sacrifice, he decided to save the potions for the higher Tiers, and slightly regretted his decision to take the potion now.
+
+Putting it out of his mind, he focused on returning his maximum mana to his new cap of 80. The doubling of mana gave him a massive amount of wiggle room in his spell casting.
+
+A quick test of [Hail] showed his AI that he could create a much larger area of coverage. When given a larger portion of MPS, it also created more ice. By doubling the initial mana cost, the radius increased by forty percent, which equaled a near doubling in overall area of effect. That was nice, but what made it amazing was when he noticed that the increased ice density remained without increasing the upkeep cost. When he increased the channeled mana to his full mana generation of 80 MPS, the skill appeared more like a wall of ice than a natural storm.
+
+Aster took control of it from his backpack and created a few ice sculptures that floated around the flying trio. He didn’t miss that most were rabbits and hearts, but he laughed at her antics.
+
+From her mental pushing, he knew that he would be making rabbit rifts for her anytime they stopped in a single location for too long.
+
+He was also tempted to instantly absorb [Fireball], just so he had a skill to cast like a normal mage. He would need to use the mana stone trick that he had with [Hail], but the idea was so tempting. In the end, he decided to wait until [Mage’s Retreat] finished its modifications, and was out of his core spirit.
+
+It would still be much faster to modify the skill when he absorbed it, rather than doing it the slow way. The small voice that said he could buy another [Fireball] was easily crushed. Even if he could do that, it was just too wasteful. The skill once used was gone forever, and as much as he had changed, he still remembered the lack of skills on Lilly.
+
+I can change that.
+
+Matt didn’t know what he would be doing in the near future, with their management team still being assembled, but he started listing reasons in his AI about why going to Lilly and making some low Tier rifts for the populace was a good thing.
+
+He brought his mind back to his skills. [Mage’s Retreat] had already been calculated out, but with his increase of mana concentration, it was nearly thirty percent more effective at increasing his strength for the same mana cost. The same logic applied to [Cracked Phantom Armor]. Matt sighed as he realized that while he would have the advantage in mana concentration at the lower Tiers, he would fall behind at the higher Tiers due to his reliance on potions. That is, if his math was accurate.
+
+Matt quickly searched for the actual scaling for mana concentration. Finding nothing, he turned to ask Liz, “Do you know the actual way mana concentration works on skills?”
+
+She shook her head. “No, I just know it's good.”
+
+Turning back to the KingdomNet, he finally found a source that seemed well rated, and spent the money to get hard numbers for his math.
+
+As it turned out, his notion of how mana concentration worked was slightly off. The math behind it was log10(concentration) + 1. Which meant instead of him having a boost of thirty percent, it was closer to eleven percent. That realization caused Matt to sigh in relief, as it meant he wouldn't be that much weaker than the mages of his Tier when he got stronger.
+
+Before he knew it, they were nearing the marked location, and both he and Liz paused in their flight. The others that had been flying near them did the same at the impressive sight in front of them.
+
+Where there should have only been an unexplored continent and a grassy plain, there was a massive city built of stone. It was a few dozen times larger than the cities that the seven suns kingdom had built around the teleporters.
+
+At first, Matt swallowed. If this was the queendom’s invasion force, they were well and truly screwed, but he quickly noticed the flying patrols were all in the army’s color-shifting uniforms. Even with their camouflage disabled, they still seemed to blend into the background, making them hard to notice at first, and harder still to keep an eye on.
+
+“What is this?”
+
+Liz was close enough to hear his question and called out, “I don’t know, but it’s impressive. I can’t imagine how difficult it would be to create a city that large in that time frame, but only the army could do it. Look at the wall. It’s covered in defensive formations.”
+
+Matt caught the faint shimmering of the enchantments, and nodded as his eye caught something else as well. “And look at their cannons. They’re massive. I think I could stand up inside of that barrel. What are they expecting?”
+
+Liz circled back to him and shrugged, “Maybe it’s a show of force to the vassals. Something like, ‘Look at how strong we are, don’t try and fuck with us.’ I don’t know for sure, though.”
+
+“Well, it’s working on me. The walls must be two hundred feet tall, and the buildings make them seem small.”
+
+Matt was thoroughly impressed. Even from here, the city was all a uniform brown that implied that it was created with [Earth Manipulation]. Before he could look into it deeper, he saw that his AI had registered an EmpireNet. They hadn’t had access to once since they left the vassal kingdom’s capital.
+
+They followed the stream of people entering into the city, and Matt ogled the triple layers of walls, each over fifty feet thick. From the surrounding sounds of water, he assumed that there was a moat above the tunnel and between the first and second wall.
+
+It would have all been useless if not for the flight inhibiting formation over the entire city. Liz tried to peek over the crowd, and found that while her flying device worked, it only got her an inch above the ground before she was shoved back down.
+
+The expense was mind boggling. Excluding everything else, just running the formation must cost thousands of mana per second for a city four hundred square miles, by his AIs calculations. Matt wasn’t thrilled about the implications of needing a city this large, but he still asked Liz about it, while she was pressed against him in the crush of people.
+
+“How many people are they expecting to show up?”
+
+He had to repeat himself another three times before she nearly shouted in his ear, “Gotta be ten million-plus. Have you checked the CityNet?”
+
+Matt hadn’t explored it yet, so he did so at Liz’s suggestion, and quickly saw what she meant. The CityNet was tied in with the EmpireNet, but it had more local information. Everything seemed to be about people taking sides in the upcoming war, or trying to find ways to profit from said war. There were thousands of stores and individual crafters trying to sell their wares or services.
+
+But what caught and held his attention was the information that listed the war’s rules of engagement.
+
+This city was a designated neutral site, and all fighting was prohibited under imperial law, except in designated fighting arenas. No one would be allowed to break the peace, and the army was there to ensure that the rules were followed.
+
+The second thing was that all newcomers from The Path of Ascension would be entering through the city, before either side would be able to recruit or transport their personnel. It was also the location of all reward distributions for every participant.
+
+As Matt was looking for more information, he received a message from Juni with a location to meet at. If he was reading the message right, the kingdom and queendom had set up buildings across the street from each other.
+
+It screamed of creating conflict and trying to ensure that people fought, but Matt assumed the Empire knew what it was doing. It couldn’t be the first time they had done this, after all.
+
+The location they needed to reach was so deep into the city, they decided to take a flying cab. The price of a Tier 6 mana stone to go anywhere in the city made Matt’s inner poor kid cringe, but he still paid it. It let them escape the mob of people, instead of trying to move through the street or waiting for public transportation. Once they were in the air, he was able to see how the crowd quickly dispersed into the massive city, once the area surrounding the gate was cleared. As they flew through the highrises, the true scope of the city came into perspective, and Matt disregarded the expense.
+
+The city was gorgeous. There were flying islands that looked like parks and meditation areas. Some even seemed to be elementally aligned, and he made a note to find one for Aster to play in. Even if the aura wasn’t any good for refining her mana, she would still enjoy spending time with other ice aspected people.
+
+As they flew, he saw massive floating platforms that were clear combat arenas. Unlike the normal standard arenas he had seen, these were scenario-based ones. From the few he saw, he could tell there was a variety of combat arenas from false cityscapes to elemental battlefields. Each one was hundreds of feet wide, and several of them held people actively fighting. He tried to get a better look, but the cab moved too quickly, and the buildings cut off his view as they sped along.
+
+The use of all available space was impressive, and Matt couldn’t help but stare.
+
+When they started to descend, Matt noticed what he thought was a massive teleportation area. But instead of having runes, it was a clear area that was nearly a mile wide in the middle. No teleportation platform could be that big. The larger they were, the greater the cost, and that was thousands of times bigger than the ones that jumped between planets. It would bankrupt even the Emperor if it was a teleport formation.
+
+The building they were meant to enter was obvious when he saw it. It was a mirror to the building on the other side of the cleared area, and colored in the Seven Suns Kingdom’s colors of gold and dark red, while the Queendom’s building was colored in silver and light purple.
+

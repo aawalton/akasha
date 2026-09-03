@@ -1,0 +1,88 @@
+Chapter 383
+
+While Ra’thala was being questioned and interrogated by the people Matt had assigned to work on the tentatively named ‘Skills for All’ task force, Matt had other things to work on at the guild.
+
+He would much rather help with the skills project than essentially slam his head against the wall, but he so rarely had time to work on his sword that he couldn’t justify putting it off any longer.
+
+The idea had started as part of an idle conversation with Liz when Matt complained that his Talent was making it damn hard to make equipment that could handle his mana, and he almost wished his Tier 25 had helped with that instead of boosting some of his skills and improving his storage.
+
+Liz had jokingly pointed out that his Talent already did give him the perfect material, his mana itself, which had sparked an idea in Matt.
+
+In theory, his work with talismans in the war might have prepared him well for this. He’d flash-created a few basic enchantments by creating some basic links between premade enchantments in such a way that he could customize the results to his needs. He’d tried making talismans entirely out of mana, but that… didn’t really work. Maybe someday he could manage it, but he wasn’t a high enough Tier for it.
+
+But, there was a way he could integrate his experience with talismans into his current quest for a better weapon. Namely, his growth sword. It was already bonded to his spirit, and there was therefore hardly a better way to rapidly iterate on an item that was already attuned to him. He’d hired a high-Tier specialist to modify the enchantment-wiping effect to be a bit more… selective. Now, instead of erasing all the enchantments present in a single mode at once, he could selectively erase parts of an enchantment. His precision was still a little weaker than he would have liked, and it was way more annoying to do a full wipe of an enchantment, but how much it sped up iterative work made it plenty worthwhile.
+
+Of course, the process was fairly involved. He couldn’t just coat the blade in mana crystal and expect it to work. Instead, he’d created a sort of half-sword, with plenty of gaps in both the enchantment and the metal for his mana crystal to fill in both magically and physically. The end result looked almost organic, with fractal branches of crystal and metal twisting around one another, even if the actual function was still somewhat lacking.
+
+He had lofty goals for the sword, that much was true, but right now, he was just trying to pull it up to the same level as his sword’s other modes. The twin enchantments of the blade and mana stone kept fighting each other instead of meshing, and because neither was properly complete without the other, resulted in a barely-functional sword instead of an epically versatile weapon of mass destruction with a perfect backbone of high-power mana conduit that he was looking for.
+
+For what felt like the first time in his life, it wasn’t his control that was lacking. He had spent enough time as they moved through Tier 26 regaining a level of control better than all but a few in the Empire, but he needed far greater precision to perfectly pull off a full integration between weapon and mana crystal. Even Matt’s BPL, the tool at the heart of his current effort, wasn’t enough to pull it off to the standards he needed. It didn’t matter if a talisman’s enchantment was unstable and would burn up within an instant of being activated, that’s what they were designed to do. However, it was substantially worse if Matt’s sword spontaneously melted as soon as he started to use it.
+
+The biggest hurdle was that he needed to do all the work himself. His growth sword could only be enchanted by him, after all, and he’d found out the hard way that included any external supplementary enchantments.
+
+Part of him wanted to just put the project on hold until another one of his secondary projects with Maxine paid off, but that was at least another millennium from realization.
+
+Just step one was getting the [AI] skill merged with half a dozen [AI] support skills like [Encrypt], [Simulate Motion], [Library], an upgraded [Calculator], and so on, which was insanely hard alone, as each needed to account for his past modifications as well. The only reason it was even possible was twofold: his flexible innate skill slot, and the sheer amount of documentation present regarding [AI] skill merges.
+
+It was pretty much assumed that everyone would merge their [AI] pseudo skill into the real deal, other than nobles who just started with the real thing, but the enormous number of people who relied on their AI in their daily lives had found a few viable strategies for even normal people to merge one or two additional support skills into the structure.
+
+But what had started this whole project was the Ascender chat learning that he, Liz, and Aster had finished Minkalla at Tier 11, and subsequently exploding with suggestions for how to take advantage of their innate skill slot. The project that had most intrigued Matt had, of course, been Max’s comments about some of the things she’d done with her [AI], and he’d taken her up on her offer of some individual tutoring as a result.
+
+At least those changes would start paying off even before it was completely done. And the time spent on it would let him get to know Max better before they reached step two, which would require a level of trust he wasn’t quite sure he actually had in her yet. He still had a standing offer for mind magic defense lessons from her, but hadn’t taken her up on it yet, and it seemed like something he’d need to do before he’d be able to finish off this particular mod, given how he’d need her direct assistance for some of the latter steps.
+
+But until then, it meant any free time he had spent tinkering in his guild, working on trying different configurations the teams put together while practicing his enchanting skills.
+
+The current set was three different types of runes linked together. They were more complicated than his last set, but should double his sword's power from ten percent of its theoretical max to nearly twenty.
+
+Two full weeks vanished as Matt and the team tinkered and tweaked the rune types, their placement, the structure of the sword itself, and trying to find an optimal balance between strength, ease of enchanting, and stability in a fight.
+
+They were even making good progress when Matt got called away by Kees, who informed him they had a problem.
+
+Standing in Kees’ office, Matt frowned. “I’m not sure I heard you correctly. Can you say that again? There is no way anyone would be dumb enough to do what you just said, let alone a dozen companies at once.”
+
+Kees nodded, a frown carved onto his austere face. “Fifteen companies we use for various supplies just broke their contracts with us, all citing difficulties with existing clients taking priority. Four of our five rare metals suppliers, three out of three of our high-Tier enchanting materials suppliers, two out of four of our shipping partners, and so on.”
+
+Matt rubbed his chin as he thought before asking a stupid question. “Is there any chance this isn’t a targeted attack on the guild?”
+
+He expected Kees to quickly deny the idea, but his vice guild leader took a long moment to answer. “I don't believe things are as simple as they look on the surface for obvious reasons. We have made many enemies over the past century, but frankly, we have avoided stepping on too many toes directly. And I already checked, we haven’t directly insulted any of these companies' backers or their controlling interests. So, while I believe this is an attack on the guild, I’d be hesitant to pin the blame on our former partners too quickly.”
+
+Matt grinned viciously. “And here my first thought was to go and knock on their doors demanding they reinstate us as business partners. Whatever will I do now that I won’t act like an angry Ascender?”
+
+Kees didn’t share in his attempt at levity. “That may have been part of whoever orchestrated this incident's plan, but I very much doubt their goal was anything so simple. I’m sure they wouldn’t be mad if you stormed off in a rage, but you have shown yourself remarkably restrained for an Ascender since the end of the war. No, I believe this is phase one of a larger move to isolate the guild. I expect that in the coming months or years, we will find more of our suppliers and contacts pulling back for various legitimate and fraudulent reasons alike.”
+
+Starting to pace, Matt thought out loud. “How would you handle this if you removed me from the equation? Give me the large strokes and from your old guild’s perspective if that helps.”
+
+Kees’ answer was immediate. “Find out who is pulling the strings and why. If I can easily defeat them, do so, but more likely anyone willing and able to pull this off is someone of my own strength or greater. In that case, once I identified them I would work out a deal about how I’m stepping on their interest so much they felt the need to attack me like this and how I can pull back.”
+
+Matt frowned at the idea but didn’t outright dismiss it.
+
+“And with me and my resources, does that change your assessment?”
+
+Kees frowned. “Not particularly. I would rather not have an enemy so well-connected they can pull the strings of so many businesses so casually, especially all at once. This is either a warning shot across our bow or stage one of a greater plan, and my intuition says it's the latter.”
+
+Matt let his frown turn to Kees. “Kees, they are attacking a charity guild. I’m not going to pay them.”
+
+Kees opened his mouth to speak, but Matt didn’t stop. “Kees, we haven’t even created too many actually impactful things. Two dozen inventions that have gone public in the last century but most were fairly minor and all were below Tier 10. Shit, most were below Tier 5. I’m not going to roll over to anyone because I stole their pocket change.”
+
+Kees actually grinned, which caught Matt off guard. “I both fully understand that and am aware of your feelings and stance, Guild Leader. You did, however, ask how I would deal with it given my old guild.”
+
+Matt let himself fall into the chair with a sigh. “Sorry, I shouldn’t have snapped at you. You’re correct, I’m just angry. Have you heard about Ra’thala and what he brings to the table yet? I know you've been head down the past weeks getting the mana engine paperwork ready.”
+
+Kees’ frown returned. “Yes, and that will be a problem.”
+
+Matt sat up straighter. “How so? I did some searching and I can't find a single instance of anyone using anything like blank skill shards for safe ways to make skills. I feel this will be mostly a research or high-Tier individual thing more than most of our inventions.”
+
+Kees looked confused for a moment before saying, “Ah, no. While that is an academic curiosity and potentially useful, it's not that disruptive of current interests. No, I was talking about skill creation for low Tiers. If that works even half as well as the current rumors are saying, it will disrupt a lot of interests. Enough so that we might get outright attacked by a number of powers looking for vengeance, if nothing else.”
+
+Matt’s already bad mood turned worse. He had considered that the making of skills would be disruptive, but he didn't think it would be that disruptive.
+
+Just what had happened in the last two weeks?
+
+“Elaborate, please. Is the method more applicable than we expected?”
+
+Kees shook his head. “More that I believe your initial report isn’t fully accurate. I do believe that you are correct in that not too many people will take this route. Many will see it as easier to just buy a skill or an enchanted weapon, but I’ve had our Impact Teams run the numbers a few times, and even with our pessimistic models, it's looking at something like eight percent of delvers from mortal families will probably be interested in making skills for themselves. And more if…”
+
+Kees paused before leaning forward making sure he had Matt’s full attention. “This is less dependent on you as a guild leader and more as a duke, but knowing you and Lady Moore’s inclination to help the poor, we ran the numbers with you opening or subsidizing places to teach the methods in a safe manner. A sort of after-school method for the newly awakened. The skills will need more refinement but given what information Ra’thala provided, we expect that most Tier 1s can manage to create a skill in their spirits within a year if they dedicate about three or four hours to it a day. If they take half the time, it will take a year and a half, to two years. Initial reports say it's not necessarily difficult, just tedious, thanks to a few tidbits Ra’thala’s people discovered which help with the process, and how dead simple the skills are. And that's before our people’s refinement, which they have positive outlooks on given the short time they have had to work on applying known skill modification techniques to the process. If we are correct and the process takes off like we expect, there will be a sizable dip in procurement for things like low-Tier items.”
+
+Matt’s initial reaction was to say that eight percent wasn’t that large of a swing, but an eight percent revenue loss would see many businesses shuttering their doors as it translated to a ten to fifteen percent profit loss. He had thought the numbers would be lower, but as he reviewed the report Kees sent him, he couldn’t argue with their findings. Even without dedicated assistance, even a rudimentary guide on the EmpireNet would probably be enough for most newly awakened to figure things out. Even if it took longer than the estimated year or two, it wouldn’t take more than five, which wasn’t that long even for a Tier 1.
+

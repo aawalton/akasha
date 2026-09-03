@@ -1,0 +1,104 @@
+2/2
+
+Chapter 173
+
+Luna got everyone's attention with a clap. “Okay, I won't go over all the challenge rooms and their rewards right now, because they’re far too numerous to cover in time, and you get a good idea as to what they’ll be when you approach the entrance, but the floor themes and their corresponding rewards are definitely worth memorizing.”
+
+With that, the slide changed once again, showing a collection of diagrams and images depicting a series of corridors, paired with two main blocks of text.
+
+Essential Dysfunction: Turns natural essence powered attributes, like allocated strength or flexibility, into depletable resources. As you lifted things or ran around, strength would effectively de-Tier until the essence provided no benefit. Regenerating mana would slowly be less effective, and mana pools would shrink. All aspects of cultivation are affected by this and only once you finish the floor are your attributes returned to normal. This theme possesses the most direct traps, such as pits, spikes, and rolling boulders, with a large array of monsters.
+
+Reward: Mana and stamina regeneration is increased. On the first floor, this is about a fifteen percent increase separate from essence, which slowly falls off with advancement. This scales until at the seventh floor, where it’s approximately a four times multiplier if spread evenly between physical and magical regeneration. Alternately, specializing the floor reward into different avenues of regeneration is possible, such as increasing the rate of healing cooldown recovery.
+
+“Wait,” Matt frowned, “Will that affect my mana regeneration?”
+
+“We don’t know,” Kurt wrote in response. “We don’t have any records of a Talent affecting regeneration quite like yours, let alone getting this theme on Minkalla. It doesn’t work in the same way as the mana-concentration potions you’ve been taking, there’s no actual essence involved. That means it might actually work even though your Talent directly overrides your normal mana regeneration and capacity. But at the same time, Minkalla doesn’t change Talents, so it’s really anyone’s guess. Erwin spent a bit of time trying to simulate it, but he didn’t come to any real conclusions. This could either be the very best floor for you to encounter or do functionally nothing for you, we don’t know.”
+
+“Huh,” Matt wrote a big question mark on his notes for that floor.
+
+“Wait, who's Erwin?” Susanne asked.
+
+“He’s a researcher we’ve worked with in the past,” Liz explained, “And I think the only researcher who’s actually read in on Matt’s true talent.”
+
+“Ah, okay.” She nodded back to Liz before they went back to the slideshow.
+
+The next slide’s illustrations predominantly featured a few vague sketches of treacherous walkways and sudden drop-offs.
+
+Eternal Darkness: All physical senses are completely blocked, rendering everyone on the floor blind, deaf, and with physical touch and even proprioception sharply muted. The only sense that isn’t blocked is spiritual perception. There are many dangerous areas on the floor, not hidden by anything more than the floor’s natural theme, and simply walking in a straight line can be dangerous. Monsters largely favor ambush tactics, making it even harder to detect danger.
+
+Reward: Spiritual perception is improved. On the first floor, it slightly increases resolution and adds faint additional feedback, such as color perception. By the seventh floor, it returns almost perfect, detailed feedback on everything within its range and is substantially better at bypassing any blocks.
+
+“Doesn’t spiritual sense already naturally increase with Tier? Won’t this eventually become useless?” Susanne asked.
+
+“Yes and no. Most of the more ephemeral rewards Minkalla provides are eventually eclipsed in some form or another by simple advancement,” Carol explained, “But Eternal Darkness definitely scales quite well into the higher Tiers. Even at Tier 40, the spiritual senses of people who got a floor four or deeper Eternal Darkness on their Minkalla run are notably sharper.”
+
+The next slide was… unnerving. Strangely organic-looking metal banisters, water animated in ways that looked all wrong for elementals, and precariously balanced blocks of stone all loomed in ways that just looked wrong.
+
+The Hills Have Eyes: Everything is alive, aware, and trying to kill you. Everything. Anything not spiritually bound to you gains a faint motive spirit and begins trying to kill anything alive. Air will avoid lungs, stone will deliberately fall with the intent to crush, water actively attempts to drown. It’s best to avoid having to eat or drink while on this floor.
+
+Reward: A growth item gains its own motive spirit. On the first floor, it becomes able to automatically activate itself in accordance to some stimuli, akin to a very basic [AI], but by floor seven it is as intelligent as whoever it’s bonded to, and is even able to absorb and utilize skill shards of its own.
+
+“That’s… still oh so disturbing,” Susanne noted, watching a simulation of living steam condensing itself inside a person’s lungs before tearing its way out.
+
+“How do the skill slots of the item work?” Liz asked, clearly interested in a potential workaround to her Talent locking her into blood skills.
+
+Luna nodded to the question and said, “On floor seven, it has roughly half as many skill slots of each type as a person of its Tier, and they’re independently absorbed by the item. On the shallower floors, the item’s intelligence can be used to control spells cast through the item, alongside a host of more minor benefits. By the fifth floor, the item can use the spells of the wielder as if they were enchanted into it, it has its own mana pool, and can absorb a limited selection of Natural Treasures. The intelligence will always be loyal to you, as well, and may or may not actually express a distinct personality, so there’s not really a meaningful distinction between using the skill yourself and having the item use it, other than a minuscule loss of efficiency. If you get that it would be an excellent workaround to your Talent’s limitations Liz.”
+
+“Are there any limits to the kinds of skill that the item can absorb?” Matt asked as he wrote that down.
+
+“No, but there are some practical limits on the kinds of skills it can use. Any skills which must be channeled through an item, like [Mana Slash] will only manifest through the item. That can have some weird results if it’s a ring, or armor. There’s a few more nuances, but they aren’t that important unless you actually get this theme on floor six or seven, and we can cover them afterwards if you do. Just don’t have it absorb any skills until after you leave.”
+
+The next slide was fairly generic, but featured a lot of monsters known for their powerful presence, like Warp-Spasms and their fear aura.
+
+Conceptual Lock: Concepts are affected as though by a very strong concept suppression, making them very difficult to utilize. Monsters lean strongly towards those with powerful Concepts or presence abilities of their own and have no suppression from the floor.
+
+Reward: Any ability which a Concept possessed prior to entering Minkalla become stronger and more resistant to being suppressed, scaling to twice as strong at floor seven.
+
+“Now, the ‘pre-existing abilities’ which this strengthens doesn’t include any generic uses of a Concept, like flight or locking down space, it’s just the direct abilities which the Concept provides innately. So for you, Matt, that would be your mana-granting and repulsion. Liz and Aster, everything your Concept does for your elements would be enhanced, and Susanne, your sword would be about twice as tough or half as hard to maintain. It’s called pre-existing because it doesn’t interact with any other Concept-enhancing rewards you may find on Minkalla, like Folded Reflections.”
+
+That sounded quite useful and Matt hoped they encountered it. Doubling the rate at which he could provide mana would make a huge difference in any fight, and making it more resistant to suppression was always welcome. It wasn’t nearly as fancy as some of the other rewards, but Matt knew firsthand just how valuable a flat doubling to something could be.
+
+And if his repulsion effect grew twice as strong he had dozens of ideas for using it.
+
+The next slide was covered in abstract symbology, and depicted several groups of regal-looking humanoids in elaborate gear.
+
+Courtly Warfare: Instead of directly fighting monsters, find and join a faction known as a ‘Court,’ and do whatever is required to ensure they win their floor-wide war. The Courts are unusually sapient for a rift or ruin monster, and centralize themselves around a seemingly-random theme, with a variable number of factions thematically related to that theme. Previous common appearances have featured the four seasons, the four level 1 elements, Day and Night, Mages and Warriors, Stars, Moon, and Sun, and more. Generally, the sooner the floor appears, the more sides there are, but it has also appeared on floor one as Ocean versus Land versus Sky and on floor six as a massive web of alliances with every known mana aspect having a representative court.
+
+Reward: A growth item gains a new effect. For the first floor, this is primarily minor additional abilities which nonetheless keep growing. By floor four, it is a new major ability akin to the one typically gained at Tier 25. By floor seven, this is a new set of major abilities just as powerful and comprehensive as the item’s original abilities and unlocks new powers as the item continues to grow. Additionally, boons are available to the victorious side.
+
+“The boons,” Luna explained, “Are something partway between a theme reward and a normal monster drop. It’s always connected to the theme of the court, and how strong it is varies depending on how influential you were to the Court’s victory. No, we don’t know how it’s tracked, but it’s very comprehensive and accounts for working in logistics, hunting other Court members, tactics, or any other role. Also note that unlike every other floor theme Minkalla has, there is only one floor and not three sub-floors.”
+
+“I hope we get winter or ice!” Aster yipped excitedly, “We’re going with winter if we find winter, right? You promised!”
+
+Matt chuckled and stroked his bond, “Yes, we’re going with winter or ice if we somehow have one of them as an option. And get this as a floor.”
+
+“Good,” she put her nose up in her best haughty impersonation, “Winter is the best.”
+
+The next slide showed a metaphysical examination of the way essence interacted with skills, but there were a number of differences that led Matt to realize what it was an instant before he read the actual title.
+
+Genesis Cultivation: All spells cost Genesis Energy instead of mana or essence. The monsters on that floor drop more Genesis Energy per kill, but the floor remains heavily rooted in resource management.
+
+Reward: On floor one, the most recent Tier of essence that’s been cultivated is converted to something similar to Genesis Energy, enhancing all aspects of cultivation, but particularly in the stacking bonus that comes with cultivating the same areas for multiple Tiers. By floor seven, not only is all essence converted to effectively Genesis Energy, but the effect lingers until Tier 16.
+
+Now that he knew about Genesis Energy, not only did the floor’s name make way more sense but so too did the restriction. The math behind the reward also promised some serious benefits, giving them essentially a full Tier boost in cultivation. It would probably be even more for Matt, as having all his essence in his physical body meant the stacking boost would be even more potent.
+
+The next slide showed a whole host of magical beasts, elemental animals predominantly.
+
+Blood is Thicker: Bloodlines, and other innate non-Talent abilities, are drastically improved in strength. Most enemies on the floor will have bloodline equivalents.
+
+Reward: Change your mana aspect. On floor one, it's a minor change from a level 1 element to a related level 2 element, all the way up to floor seven when you can out and out have three complete high-end aspects perfectly merged or separated in the mana pool. Or you can change your mana type to arcane or void. For those not looking to change their mana aspect, effective mana concentration can be increased substantially instead.
+
+Matt wanted to find that floor for Liz and Aster as it would be great for their own plans. He didn’t think he’d take the mana aspecting unless they found the floor theme on floor seven where he could get arcane mana. As it was presumed to be a combination of every mana type besides void, arcane mana would provide a notable boost to every spell he ever used, though not quite as large as what water mage would receive from having water mana for their water spells.
+
+As he was musing over the potential applications of arcane ‘endless’ mana, he noticed Aster and Liz were engrossed reading something on their [AI]s.
+
+“What’s up?” he asked.
+
+“Sorry, can’t say,” Liz apologized. “It doesn’t really affect you, though.”
+
+Matt opened his mouth to push further when the slide changed again. He knew that meant it was bloodline related and it was Liz’s way of hinting as much as she could. That was how they had worked out her telling him without actually telling him anything about the bloodline stuff he wasn’t allowed to know yet.
+
+Still, it was annoying.
+
+Mundane Life: No mana can be used on this floor. For anything.
+
