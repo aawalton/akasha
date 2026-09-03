@@ -1,10 +1,17 @@
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { askComposed, pageLanding } from "../page-query-client.ts"
+import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { asking } from "@akasha/pages-system-service/asking"
+import { pageLanding } from "../page-query-client.ts"
 import { wakeDayOf } from "../wake-day.ts"
 
 const EMAIL_ENTRY_PAGE_TYPE_SLUG = "email-entry"
 
-const LOWEST_INBOX_COUNT = "lowest-inbox-count"
+/**
+ * A page states its keys as its own file spells them, so this is humped rather than the kebab slug
+ * the old markdown query took. The property is filed under `lowest-inbox-count` still, which is why
+ * the two spellings sit so close together, but the page file writes `lowestInboxCount` and a page is
+ * both asked for and read by what its own file writes.
+ */
+const LOWEST_INBOX_COUNT = "lowestInboxCount"
 
 export const INBOX_WRITER = "inbox-tracking"
 
@@ -26,14 +33,33 @@ export function keptLow(standing: unknown, count: number): number | null {
   return held === null || count < held ? count : null
 }
 
-async function standingRow(day: string): Promise<Standing> {
-  const asked = await askComposed({
-    "page-type": EMAIL_ENTRY_PAGE_TYPE_SLUG,
+function checkoutRoot(): string {
+  const roots = resolveRoots() as unknown as Readonly<Record<string, string>>
+  const root = roots[AKASHA]
+  if (root === undefined || root === "") {
+    throw new Error("no akasha checkout stands here, so no email entry can be read")
+  }
+  return root
+}
+
+/**
+ * The entry standing for a day, or nothing where that day has no entry yet.
+ *
+ * `asking` refuses rather than answering nothing where it cannot read: a page type the index does
+ * not hold and a key the page type does not declare are both refusals, not empty results. A refusal
+ * has to leave here as a throw, because nothing found reads as a day with no entry yet, and that
+ * sends `persistEmailEntry` to write this one moment's count down as the whole day's lowest over a
+ * lower count already standing. A row `asking` answers with is the page's values themselves.
+ */
+function standingRow(day: string): Standing {
+  const asked = asking(checkoutRoot(), {
+    pageTypeSlug: EMAIL_ENTRY_PAGE_TYPE_SLUG,
     where: { date: { is: day } },
-    limit: 1,
-  })
-  if (!asked.ok) throw new Error(`reading ${EMAIL_ENTRY_PAGE_TYPE_SLUG} for ${day}: ${asked.why}`)
-  return asked.rows[0]?.values
+  } as never)
+  if ("refused" in asked) {
+    throw new Error(`reading ${EMAIL_ENTRY_PAGE_TYPE_SLUG} for ${day}: ${asked.refused}`)
+  }
+  return asked.rows[0]
 }
 
 export function slugFor(day: string): string {
@@ -61,7 +87,7 @@ async function land(slug: string, values: Readonly<Record<string, unknown>>): Pr
 export async function persistEmailEntry(count: number, now: Date): Promise<PersistOutcome> {
   const day = wakeDayOf(resolveRoots(), now)
   const slug = slugFor(day)
-  const row = await standingRow(day)
+  const row = standingRow(day)
   if (row === undefined) {
     await land(slug, {
       id: Bun.randomUUIDv7(),
