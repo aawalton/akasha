@@ -6,4 +6,5 @@ export const akashaMigration = {
   slug: "akasha-migration",
   domainSlug: "domain/akasha-migration",
   personaSlug: "akasha",
+  intents: [{ statement: "All files in the akasha repo are in the akasha subfolder." }],
 } as const satisfies Initiative
