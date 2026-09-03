@@ -210,13 +210,18 @@ export function selects(type: string): boolean {
   return arms(type).some(selecting)
 }
 function namedTypeRule(vocabulary: Vocabulary): { rule: Rule | null; why: string | null } {
-  const { names } = vocabulary
+  const { names, records, sets } = vocabulary
   if (names === null) return { rule: null, why: vocabulary.why }
-  const listed = [...names].sort().map((one) => `\`${one}\``).join(", ")
+  // What `armRule` can build is wider than the pinned names: it answers `type` itself, and it
+  // resolves the record and set types off the tree. Judging against the names alone refused a name
+  // the very next step would have resolved, and said the checker states no such type while stating
+  // one.
+  const stated = new Set([TYPE, ...names, ...(records?.keys() ?? []), ...(sets?.keys() ?? [])])
+  const listed = [...stated].sort().map((one) => `\`${one}\``).join(", ")
   return {
     rule: scalarRule(`a type name this checker states (${listed})`, (text) => {
       const sides = namesIn(text)
-      return sides.length > 0 && sides.every((one) => backReference(one) !== null || names.has(one))
+      return sides.length > 0 && sides.every((one) => backReference(one) !== null || stated.has(one))
     }),
     why: null,
   }
