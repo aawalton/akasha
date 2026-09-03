@@ -86,7 +86,7 @@ test("a removal emptying no workspace asks for no change and has nothing to say"
   const root = world()
   const held = workspacingFor(root, baseOf(root), new Set(["one/src/held.ts"]))
   expect(held).toEqual(NO_WORKSPACING)
-  expect(workspacingSaid(held, true)).toEqual([])
+  expect(workspacingSaid(held)).toEqual([])
 })
 
 test("the manifest is asked for without the entry the removal emptied", () => {
@@ -113,7 +113,7 @@ test("a base holding no root manifest asks for no change and says why", () => {
   const held = workspacingFor(root, "no-commit-of-that-name", TAKING)
   expect(held.edits).toEqual([])
   expect(held.why).toContain("went ahead alone")
-  expect(workspacingSaid(held, false)).toEqual([held.why ?? ""])
+  expect(workspacingSaid(held)).toEqual([held.why ?? ""])
 })
 
 test("the workspace the removal emptied is no longer looked for, and was before", () => {

@@ -88,11 +88,11 @@ export const GONE = "akasha/one/nowhere.ts"
 
 export const REFUSED_ENDS = "--file-path takes a path, and none follows it"
 
-export const REFUSED_FLAGGED = "--file-path takes a path, and `--dry-run` names another flag"
+export const REFUSED_FLAGGED = "--file-path takes a path, and `--message` names another flag"
 
 export const REFUSED_UNKNOWN =
   "`--force` is not a flag this takes — a removal names its paths as `--file-path <path>` and " +
-  "takes `--message`, `--message-file`, `--break-the-glass`, `--dry-run`"
+  "takes `--message`, `--message-file`, `--break-the-glass`"
 
 export function manifestIn(root: string): string {
   return readFileSync(join(root, MANIFEST), "utf8")

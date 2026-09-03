@@ -104,22 +104,17 @@ export function leftNaming(
   }
 }
 
-export function leftNamingSaid(
-  searched: readonly string[],
-  found: Found,
-  dry: boolean
-): readonly string[] {
+export function leftNamingSaid(searched: readonly string[], found: Found): readonly string[] {
   if (searched.length === 0) return []
-  const goes = dry ? "would go" : "went"
   const said: string[] = [
     found.namers.length === 0
-      ? `no tracked file left behind names what ${goes}`
-      : `what ${goes} is still named by ${counted(found.namers.length, "tracked file")} left ` +
+      ? "no tracked file left behind names what went"
+      : `what went is still named by ${counted(found.namers.length, "tracked file")} left ` +
         `behind, and nothing here repoints them — ${found.namers.join(", ")}`,
   ]
   if (found.recorded.length > 0) {
     said.push(
-      `what ${goes} is named as a record of what was so by ` +
+      "what went is named as a record of what was so by " +
         `${counted(found.recorded.length, "finding")}, and a record is never repointed — ` +
         found.recorded.join(", ")
     )

@@ -186,15 +186,15 @@ test("a search git could not run is answered as a refusal rather than as nothing
 })
 
 test("what was found and what was looked for are both said, and finding nothing is said too", () => {
-  expect(leftNamingSaid([], { ...NAMING_NOTHING, namers: [NAMER] }, false)).toEqual([])
-  const none = leftNamingSaid(["temper/one-held"], NAMING_NOTHING, true)
-  expect(none[0]).toBe("no tracked file left behind names what would go")
+  expect(leftNamingSaid([], { ...NAMING_NOTHING, namers: [NAMER] })).toEqual([])
+  const none = leftNamingSaid(["temper/one-held"], NAMING_NOTHING)
+  expect(none[0]).toBe("no tracked file left behind names what went")
   expect(none.at(-1)).toContain("out of pieces")
-  const some = leftNamingSaid(
-    ["temper/one-held"],
-    { namers: [NAMER], reaches: [], recorded: [RECORD] },
-    false
-  )
+  const some = leftNamingSaid(["temper/one-held"], {
+    namers: [NAMER],
+    reaches: [],
+    recorded: [RECORD],
+  })
   expect(some[0]).toContain("what went is still named by 1 tracked file left behind")
   expect(some[0]).toContain(NAMER)
   expect(some[1]).toContain("what went is named as a record of what was so by 1 finding")
@@ -202,15 +202,15 @@ test("what was found and what was looked for are both said, and finding nothing 
 })
 
 test("the wider sweep is said apart from what names what goes, and only where it found any", () => {
-  const said = leftNamingSaid(
-    ["temper/one-held"],
-    { namers: [], reaches: [PROSE, INSIDE_AT], recorded: [] },
-    false
-  )
+  const said = leftNamingSaid(["temper/one-held"], {
+    namers: [],
+    reaches: [PROSE, INSIDE_AT],
+    recorded: [],
+  })
   expect(said[0]).toBe("no tracked file left behind names what went")
   expect(said[2]).toContain("a wider sweep than that one reaches 2 further tracked files")
   expect(said[2]).toContain(PROSE)
   expect(said.at(-1)).toContain("every `main.ts` the repository holds")
-  const none = leftNamingSaid(["temper/one-held"], NAMING_NOTHING, false)
+  const none = leftNamingSaid(["temper/one-held"], NAMING_NOTHING)
   expect(none.join("\n")).not.toContain("a wider sweep")
 })

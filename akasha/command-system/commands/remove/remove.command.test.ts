@@ -158,10 +158,6 @@ test("a path named twice is refused", () => {
 
 test("a path outside akasha goes unjudged, and the file beside it is left alone", () => {
   const root = repoWith({ [OUTSIDE]: BODY, [BESIDE_IT]: BODY, [HELD]: BODY })
-  const dry = removing(root, [...naming(OUTSIDE), "--dry-run"])
-  expect(dry.code).toBe(0)
-  expect(reportOf(dry)).toContain(`would go unjudged — ${OUTSIDE}`)
-  expect(there(root, OUTSIDE)).toBe(true)
   const said = removing(root, naming(OUTSIDE))
   expect(said.refusals).toEqual([])
   expect(reportOf(said)).toContain(`went unjudged — ${OUTSIDE}`)
@@ -200,59 +196,31 @@ test("a bare path is refused, and the refusal says what to type instead", () => 
 
 test("--file-path with nothing after it, or another flag after it, is refused", () => {
   expect(refusedIn(namedIn(["--file-path"]))).toBe(REFUSED_ENDS)
-  expect(refusedIn(namedIn(["--file-path", "--dry-run"]))).toBe(REFUSED_FLAGGED)
+  expect(refusedIn(namedIn(["--file-path", "--message"]))).toBe(REFUSED_FLAGGED)
 })
 
 test("a flag the removal does not take is refused rather than read as a path", () => {
   expect(refusedIn(namedIn(["--force", ...naming(HELD)]))).toBe(REFUSED_UNKNOWN)
 })
 
-test("a dry run takes nothing away and writes nothing at all", () => {
-  const root = repoWith({ [DEEP]: BODY, "akasha/one/deep/held.module.code.ts": BODY, [KEPT]: BODY })
-  const was = head(root)
-  const argv = naming("akasha/one")
-  const said = removing(root, [...argv, "--dry-run"])
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(reportOf(said)).toContain("nothing was written")
-  expect(there(root, DEEP)).toBe(true)
-  expect(there(root, "akasha/one/deep")).toBe(true)
-  expect(head(root)).toBe(was)
-  expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
-  const then = removing(root, argv)
-  expect(then.refusals).toEqual([])
-  expect(there(root, "akasha/one")).toBe(false)
-  expect(git(root, ["ls-files"]).trim()).toBe(KEPT)
-  expect(head(root)).not.toBe(was)
-})
-
-test("a dry run names everything that would go, named or not, down to the emptied directory", () => {
-  const root = repoWith({
+test("a removal names everything that went, named or not, down to the emptied directory", () => {
+  const held = {
     [DEEP]: BODY,
     "akasha/one/deep/held.module.code.ts": BODY,
     "akasha/one/deep/under.module.ts": BODY,
     [KEPT]: BODY,
-  })
-  const one = removing(root, [...naming(DEEP), "--dry-run"])
-  const said = reportOf(one)
-  expect(said).toContain(`${DEEP} would be taken away`)
-  expect(said).toContain("akasha/one/deep/held.module.code.ts would be taken away")
-  expect(said).toContain("stand beside what you named and would go with it")
+  }
+  const said = reportOf(removing(repoWith(held), naming(DEEP)))
+  expect(said).toContain(`${DEEP} taken away`)
+  expect(said).toContain("akasha/one/deep/held.module.code.ts taken away")
+  expect(said).toContain("stood beside what you named and went with it")
   expect(said).not.toContain(KEPT)
-  const two = removing(root, [...naming("akasha/one"), "--dry-run"])
-  const also = reportOf(two)
-  expect(also).toContain("stand under a directory you named and would go with it")
-  expect(also).toContain("akasha/one/deep/under.module.ts would be taken away")
+  const root = repoWith(held)
+  const also = reportOf(removing(root, naming("akasha/one")))
+  expect(also).toContain("stood under a directory you named and went with it")
+  expect(also).toContain("akasha/one/deep/under.module.ts taken away")
   expect(also).toContain("git holds no empty directory")
-})
-
-test("a dry run over a removal the checks refuse reports the refusal and takes nothing", () => {
-  const root = repoWith({ [HELD]: BODY })
-  refusing(root)
-  const said = removing(root, [...naming(HELD), "--dry-run"])
-  expect(said.code).toBe(3)
-  expect(refusalOf(said)).toContain("refused for the test")
-  expect(there(root, HELD)).toBe(true)
+  expect(git(root, ["ls-files"]).trim()).toBe(KEPT)
 })
 
 test("breaking the glass takes away what the checks refuse, and only breaking it does", () => {
@@ -282,7 +250,7 @@ test("breaking the glass takes away what the checks refuse, and only breaking it
   )
 })
 
-test("breaking the glass with no reason, or alongside a dry run, is refused", () => {
+test("breaking the glass with no reason is refused", () => {
   const root = repoWith({ [HELD]: BODY })
   const ends = removing(root, [...naming(HELD), "--break-the-glass"])
   expect(ends.code).toBe(1)
@@ -291,11 +259,6 @@ test("breaking the glass with no reason, or alongside a dry run, is refused", ()
   expect(empty.code).toBe(1)
   expect(empty.refusals[0]).toBe(
     "--break-the-glass takes the reason no check is to run, and this one is empty"
-  )
-  const both = removing(root, [...naming(HELD), "--break-the-glass", "no time", "--dry-run"])
-  expect(both.code).toBe(1)
-  expect(both.refusals[0]).toBe(
-    "--dry-run reports what the checks say and --break-the-glass runs none, so together they report nothing"
   )
   expect(there(root, HELD)).toBe(true)
 })

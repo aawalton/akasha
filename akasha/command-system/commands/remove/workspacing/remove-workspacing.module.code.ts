@@ -128,11 +128,11 @@ export function workspacingFor(
   }
 }
 
-export function workspacingSaid(held: Workspacing, dry: boolean): readonly string[] {
+export function workspacingSaid(held: Workspacing): readonly string[] {
   if (held.why !== null) return [held.why]
   if (held.emptied.length === 0) return []
   return [
-    `${MANIFEST} ${dry ? "would stop naming" : "stopped naming"} ` +
+    `${MANIFEST} stopped naming ` +
       `${counted(held.emptied.length, "workspace")} this removal empties — ` +
       held.emptied.map((one) => `\`${one}\``).join(", "),
     WORKSPACE_SPELLING,

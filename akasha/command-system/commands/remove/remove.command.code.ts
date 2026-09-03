@@ -8,10 +8,9 @@ import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 import { said as saying } from "@akasha/utils-run/running"
 import ts from "typescript"
 import type { Asked } from "../../asking/asking.module.code.ts"
-import { BREAK_GLASS, DRY_RUN, landingAsked } from "../../asking/asking.module.code.ts"
+import { BREAK_GLASS, landingAsked } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
-import { wouldClear } from "../../folder-clearing/folder-clearing.module.code.ts"
 import { checkReaches, judgedByNothing } from "../../judged-saying/judged-saying.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
@@ -38,22 +37,14 @@ const VALUED = [FILE_PATH, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const ID = "id"
 
-export type Read =
-  | { readonly named: readonly string[]; readonly dryRun: boolean }
-  | { readonly refused: string }
+export type Read = { readonly named: readonly string[] } | { readonly refused: string }
 
 export function namedIn(argv: readonly string[]): Read {
   const named: string[] = []
-  let dryRun = false
   let at = 0
   while (at < argv.length) {
     const token = argv[at]
     if (token === undefined) break
-    if (token === DRY_RUN) {
-      dryRun = true
-      at = at + 1
-      continue
-    }
     if (token === FILE_PATH) {
       const value = argv[at + 1]
       if (value === undefined) return { refused: `${FILE_PATH} takes a path, and none follows it` }
@@ -74,7 +65,7 @@ export function namedIn(argv: readonly string[]): Read {
       return {
         refused:
           `\`${token}\` is not a flag this takes — a removal names its paths as \`${FILE_PATH} <path>\` ` +
-          `and takes \`${MESSAGE}\`, \`${MESSAGE_FILE}\`, \`${BREAK_GLASS}\`, \`${DRY_RUN}\``,
+          `and takes \`${MESSAGE}\`, \`${MESSAGE_FILE}\`, \`${BREAK_GLASS}\``,
       }
     }
     return {
@@ -83,7 +74,7 @@ export function namedIn(argv: readonly string[]): Read {
         `say \`${FILE_PATH} ${token}\``,
     }
   }
-  return { named, dryRun }
+  return { named }
 }
 
 export function trackedUnder(root: string, path: string): readonly string[] | null {
@@ -289,36 +280,11 @@ export function unnamingFor(root: string, going: readonly string[]): Unnaming {
   }
 }
 
-function alreadyGone(gone: readonly string[], dry: boolean): readonly string[] {
-  return gone.map((one) =>
-    dry
-      ? `${one} is already gone, so nothing would be taken away for it`
-      : `${one} was already gone, so nothing was taken away for it and any reading of it is forgotten`
+function alreadyGone(gone: readonly string[]): readonly string[] {
+  return gone.map(
+    (one) =>
+      `${one} was already gone, so nothing was taken away for it and any reading of it is forgotten`
   )
-}
-
-function wouldGo(
-  root: string,
-  paths: readonly string[],
-  under: readonly string[],
-  beside: readonly string[]
-): readonly string[] {
-  const report = paths.map((one) => `${one} would be taken away`)
-  if (under.length > 0) {
-    report.push(
-      `these stand under a directory you named and would go with it — ${under.join(", ")}`
-    )
-  }
-  if (beside.length > 0) {
-    report.push(`these stand beside what you named and would go with it — ${beside.join(", ")}`)
-  }
-  const cleared = wouldClear(root, paths)
-  if (cleared.length > 0) {
-    report.push(
-      `these would be left empty by the removal and would go, since git holds no empty directory — ${cleared.join(", ")}`
-    )
-  }
-  return report
 }
 
 function wentWith(
@@ -357,7 +323,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
   const beside = besideAll(root, held.opened.filter(checkReaches))
   const paths = [...held.opened, ...beside].sort()
   const gone = [...held.gone].sort()
-  const already = alreadyGone(gone, read.dryRun)
+  const already = alreadyGone(gone)
   const base = baseOf(root)
   const naming = leftNaming(
     root,
@@ -368,13 +334,11 @@ export function remove(argv: readonly string[], given: Given): Answer {
   )
   if ("refusal" in naming) return answering([], [naming.refusal], 1)
   if (paths.length === 0) {
-    if (!read.dryRun) dropReadings(root, gone)
+    dropReadings(root, gone)
     return answering(
       [
         ...already,
-        read.dryRun
-          ? `nothing would be taken away — ${DRY_RUN}`
-          : "nothing stood to be taken away, so nothing was written and nothing was committed",
+        "nothing stood to be taken away, so nothing was written and nothing was committed",
       ],
       [],
       0
@@ -390,7 +354,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
   const asked: Asked = {
     changes,
     message: stated.message ?? `remove ${paths.join(", ")}`,
-    dryRun: read.dryRun,
+    dryRun: false,
     glass: glass.glass,
     unmoved: spread.unmoved,
     saying: (landed) => [
@@ -398,27 +362,13 @@ export function remove(argv: readonly string[], given: Given): Answer {
       ...already,
       ...wentWith(held.under, beside, landed.cleared),
       ...judgedByNothing(held.outside, false),
-      ...leftNamingSaid(held.outside, naming, false),
+      ...leftNamingSaid(held.outside, naming),
       ...mend.closed,
       ...mend.left,
-      ...workspacingSaid(spread, false),
+      ...workspacingSaid(spread),
     ],
   }
   const said = landingAsked({ ...given, root }, asked)
-  if (said.code === 0 && !read.dryRun) dropReadings(root, [...paths, ...gone])
-  if (said.code !== 0 || !read.dryRun) return said
-  return answering(
-    [
-      ...wouldGo(root, paths, held.under, beside),
-      ...already,
-      ...mend.closed.map((one) => `${one} — and would land in the same commit`),
-      ...mend.left,
-      ...workspacingSaid(spread, true),
-      ...judgedByNothing(held.outside, true),
-      ...leftNamingSaid(held.outside, naming, true),
-      ...said.report,
-    ],
-    [],
-    0
-  )
+  if (said.code === 0) dropReadings(root, [...paths, ...gone])
+  return said
 }

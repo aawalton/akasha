@@ -15,7 +15,6 @@ export const remove = {
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
-    { said: "--dry-run", takes: "say what would happen and write nothing" },
   ],
   helpNotes: [
     "--file-path repeats, so several paths go in one commit.",
@@ -152,10 +151,6 @@ export const remove = {
     {
       invariantKind: "departure",
       statement: "Every path a call names is refused in one answer.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`--dry-run` names everything that would go whether named or not.",
     },
     {
       invariantKind: "departure",
