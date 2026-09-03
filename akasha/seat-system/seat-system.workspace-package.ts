@@ -13,6 +13,7 @@ export const seatSystem = {
     "page-type/seat-log-day",
     "page-type/subagent",
     "page-type/supervisor-action",
+    "module/channel-delivery",
     "module/keeper-unrevivable-push",
     "module/recipient-resolver-config",
     "module/recipient-resolver-deps",
