@@ -1,0 +1,34 @@
+{
+  "name": "@akasha/ci-containers",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./ci-container-cpu-rate": "./ci-container-cpu-rate/ci-container-cpu-rate.module.code.ts",
+    "./ci-container-entrypoint": "./ci-container-entrypoint/ci-container-entrypoint.module.code.ts",
+    "./ci-container-launch": "./ci-container-launch/ci-container-launch.module.code.ts",
+    "./ci-container-manifest": "./ci-container-manifest/ci-container-manifest.module.code.ts",
+    "./ci-container-name": "./ci-container-name/ci-container-name.module.code.ts",
+    "./ci-dispatch-candidates": "./ci-dispatch-candidates/ci-dispatch-candidates.module.code.ts",
+    "./ci-dispatch-cluster": "./ci-dispatch-cluster/ci-dispatch-cluster.module.code.ts",
+    "./ci-dispatch-lines": "./ci-dispatch-lines/ci-dispatch-lines.module.code.ts",
+    "./ci-dispatch-placement": "./ci-dispatch-placement/ci-dispatch-placement.module.code.ts",
+    "./ci-dispatch-reservations": "./ci-dispatch-reservations/ci-dispatch-reservations.module.code.ts",
+    "./ci-dispatch-shapes": "./ci-dispatch-shapes/ci-dispatch-shapes.module.code.ts",
+    "./ci-dispatch-step-state": "./ci-dispatch-step-state/ci-dispatch-step-state.module.code.ts",
+    "./ci-dispatcher-tick": "./ci-dispatcher-tick/ci-dispatcher-tick.module.code.ts",
+    "./ci-infra-signature": "./ci-infra-signature/ci-infra-signature.module.code.ts",
+    "./ci-launch-refusal": "./ci-launch-refusal/ci-launch-refusal.module.code.ts",
+    "./ci-node-capacity": "./ci-node-capacity/ci-node-capacity.module.code.ts",
+    "./ci-reap-decision": "./ci-reap-decision/ci-reap-decision.module.code.ts",
+    "./ci-reaper-ceiling": "./ci-reaper-ceiling/ci-reaper-ceiling.module.code.ts",
+    "./ci-reaper-cluster": "./ci-reaper-cluster/ci-reaper-cluster.module.code.ts",
+    "./ci-reaper-step-pages": "./ci-reaper-step-pages/ci-reaper-step-pages.module.code.ts",
+    "./ci-reaper-tick": "./ci-reaper-tick/ci-reaper-tick.module.code.ts",
+    "./ci-wedge": "./ci-wedge/ci-wedge.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/k8s-types": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@tools/lib": "workspace:*"
+  }
+}

@@ -860,6 +860,14 @@
     "akasha/infrastructure/ci-benchmark": {
       "name": "@akasha/ci-benchmark",
     },
+    "akasha/infrastructure/ci-containers": {
+      "name": "@akasha/ci-containers",
+      "dependencies": {
+        "@akasha/k8s-types": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@tools/lib": "workspace:*",
+      },
+    },
     "akasha/infrastructure/cluster-manifests": {
       "name": "@akasha/cluster-manifests",
       "dependencies": {
@@ -904,21 +912,6 @@
     "akasha/infrastructure/inference-pool": {
       "name": "@akasha/inference-pool",
       "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@akasha/workflow-language": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "akasha/infrastructure/inference-runs": {
-      "name": "@akasha/inference-runs",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/object-store": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-url": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -959,12 +952,7 @@
     "akasha/infrastructure/upscale": {
       "name": "@akasha/upscale",
       "dependencies": {
-        "@akasha/errors-core": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
-        "@akasha/object-store": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
-        "@tools/lib": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "akasha/infrastructure/voice-inference": {
@@ -1027,6 +1015,17 @@
         "@akasha/utils-process": "workspace:*",
         "@akasha/utils-run": "workspace:*",
         "@tools/lib": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/mobile-commands": {
+      "name": "@akasha/mobile-commands",
+      "dependencies": {
+        "@akasha/code-system": "workspace:*",
+        "@akasha/command-system": "workspace:*",
+        "@akasha/mobile-cli": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -3019,6 +3018,8 @@
 
     "@akasha/ci-benchmark": ["@akasha/ci-benchmark@workspace:akasha/infrastructure/ci-benchmark"],
 
+    "@akasha/ci-containers": ["@akasha/ci-containers@workspace:akasha/infrastructure/ci-containers"],
+
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:akasha/infrastructure/cluster-manifests"],
 
     "@akasha/code-system": ["@akasha/code-system@workspace:akasha/code-system"],
@@ -3107,8 +3108,6 @@
 
     "@akasha/inference-pool": ["@akasha/inference-pool@workspace:akasha/infrastructure/inference-pool"],
 
-    "@akasha/inference-runs": ["@akasha/inference-runs@workspace:akasha/infrastructure/inference-runs"],
-
     "@akasha/infrastructure-commands": ["@akasha/infrastructure-commands@workspace:akasha/infrastructure/infrastructure-commands"],
 
     "@akasha/k8s-synth": ["@akasha/k8s-synth@workspace:akasha/infrastructure/k8s-synth"],
@@ -3124,6 +3123,8 @@
     "@akasha/migration-system": ["@akasha/migration-system@workspace:akasha/migration-system"],
 
     "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:akasha/mobile-cli"],
+
+    "@akasha/mobile-commands": ["@akasha/mobile-commands@workspace:akasha/mobile-commands"],
 
     "@akasha/music-choosing": ["@akasha/music-choosing@workspace:akasha/alan/music/choosing"],
 
