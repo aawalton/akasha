@@ -9,7 +9,7 @@ export const personasNotEmpty = {
   drawsSlug: "persona",
   viewPlace: 0,
   layout: "notes",
-  narrows: [{ key: "alan-notes", comparison: "empty", values: [false] }],
+  narrows: [{ key: "alan-notes", comparison: "empty", values: ["false"] }],
   viewSorts: [{ key: "title", descending: false }],
   groupSorts: [{ key: "role-slug", descending: false }],
   visibleProperties: [

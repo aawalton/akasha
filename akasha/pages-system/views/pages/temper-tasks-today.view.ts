@@ -9,7 +9,7 @@ export const temperTasksToday = {
   drawsSlug: "temper-task",
   viewPlace: 0,
   narrows: [
-    { key: "completed-at", comparison: "empty", values: [true] },
+    { key: "completed-at", comparison: "empty", values: ["true"] },
     { key: "due-date", comparison: "before", values: ["eso-day-next"] },
   ],
   viewSorts: [

@@ -9,7 +9,7 @@ export const notificationsUnread = {
   drawsSlug: "notification",
   viewPlace: 0,
   layout: "list",
-  narrows: [{ key: "cover", comparison: "empty", values: [false] }],
+  narrows: [{ key: "cover", comparison: "empty", values: ["false"] }],
   viewSorts: [{ key: "sent-at", descending: true }],
   pageSize: 12,
   itemPageSize: 12,

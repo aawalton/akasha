@@ -9,7 +9,7 @@ export const storiesTheWanderingInn = {
   drawsSlug: "story-chapter-wandering-inn",
   viewPlace: 0,
   layout: "list",
-  narrows: [{ key: "completedAt", comparison: "empty", values: [true] }],
+  narrows: [{ key: "completedAt", comparison: "empty", values: ["true"] }],
   viewSorts: [{ key: "position", descending: false }],
   visibleProperties: ["ownLength", "publishedAt"],
   alwaysShowProperties: ["ownLength"],

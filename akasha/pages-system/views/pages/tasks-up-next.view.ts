@@ -9,7 +9,7 @@ export const tasksUpNext = {
   drawsSlug: "to-do",
   viewPlace: 1,
   narrows: [
-    { key: "completed-at", comparison: "empty", values: [true] },
+    { key: "completed-at", comparison: "empty", values: ["true"] },
     { key: "due-date", comparison: "at-or-after", values: ["eso-day-next"] },
   ],
   viewSorts: [

@@ -9,7 +9,7 @@ export const tasksNotCompleted = {
   drawsSlug: "to-do",
   viewPlace: 2,
   layout: "cards",
-  narrows: [{ key: "completed-at", comparison: "empty", values: [true] }],
+  narrows: [{ key: "completed-at", comparison: "empty", values: ["true"] }],
   viewSorts: [{ key: "created-at", descending: false }],
   visibleProperties: ["due-date", "due-time", "link"],
   hiddenPropertiesOrder: ["recurrence", "sort-order", "due-date", "category"],
