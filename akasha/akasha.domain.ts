@@ -55,6 +55,7 @@ export const akasha = {
     "domain/collection-system",
     "domain/places",
     "domain/image-generation",
+    "domain/infrastructure",
     "domain/mathematics",
     "domain/all-about-alan",
     "workspace-package/rule-population",
