@@ -14,6 +14,7 @@ export const library = {
     "domain/book-of-everything",
     "domain/learn-everything",
     "domain/litrpg-books",
+    "page-type/litrpg-collection",
   ],
   invariants: [
     {
