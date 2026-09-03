@@ -15,12 +15,7 @@ export const akashaMigration = {
     {
       statement: "The story chapters are akasha pages.",
       workingMemory:
-        "19,080 files: story-chapter-royal-road 18,091 and story-chapter-wandering-inn 832, the read and written records the rest. The beside-file grammar now carries partN and uncommitted sidecars (77721a3a40), so this is unblocked. story-chapter-played means a chapter of a story nobody wrote, the wrong invariant for a real serial or for Alan's own fiction, so the types needed are siblings of it. Number parts contiguously from part1; a gap is refused at write time.",
-    },
-    {
-      statement: "The game content is akasha pages.",
-      workingMemory:
-        "21,300 files and the largest single assignment: skill 8,972, class 8,380, spell 3,597, then item, condition, enchantment, title, quest and the smaller kinds. One shared shape to be found first, page types built once, then the mass through landedMechanically. Distinct from the temper family despite the overlapping vocabulary.",
+        "SPLIT: royal road (18,091) belongs to the lane that landed the world mechanics; played, read, written and wandering-inn stay with the story lane. Every royal-road slug opens `0001-`, and 18,923 of the repo's 19,697 unexportable slugs are story chapters; prefix the story slug. `landingAsked` now enforces that before `bypassIn`, so a mechanical landing is refused rather than landing broken. A property's FIRST file carries no part section: parts run part2, part3, contiguous, and a gap is refused.",
     },
     {
       statement: "Alan's own records are akasha pages.",
