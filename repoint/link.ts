@@ -1,6 +1,6 @@
-import { proseOnly } from "../page/markdown/markdown.ts"
+import { dirOf, relativeBetween, resolves } from "@akasha/code-system/code-path-between"
 import { fileStemOf } from "@akasha/file-page-identity"
-import { dirOf, relativeBetween, resolves } from "./between.ts"
+import { proseOnly } from "../page/markdown/markdown.ts"
 import type { Patch } from "./mention.ts"
 
 const LINK_RE = /\[([^\]]*)\]\(([^)]+)\)/g
@@ -53,7 +53,12 @@ export function linkPatches(
         if (lands === undefined || target === null) continue
         const named = fileStemOf(target)
         if (label !== named || fileStemOf(lands) === named) continue
-        patches.push({ start: at + 1, end: at + 1 + label.length, text: fileStemOf(lands), was: label })
+        patches.push({
+          start: at + 1,
+          end: at + 1 + label.length,
+          text: fileStemOf(lands),
+          was: label,
+        })
       }
     }
     offset += line.length + 1
