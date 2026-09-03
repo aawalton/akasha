@@ -12,11 +12,11 @@ const SKIP_CHECK = [
   'if [ "$CURRENT_HASH" = "$CONTENT_HASH" ]; then echo "Content hash unchanged, skipping"; exit 0; fi',
 ]
 
-const MASTER = "infra/seaweedfs/master/generated"
-const VOLUME = "infra/seaweedfs/volume/generated"
-const FILER = "infra/seaweedfs/filer/generated"
-const S3_GATEWAY = "infra/seaweedfs/s3-gateway/generated"
-const ETCD_SNAPSHOT = "infra/seaweedfs/etcd-snapshot/generated"
+const MASTER = "akasha/infrastructure/seaweedfs/master/generated"
+const VOLUME = "akasha/infrastructure/seaweedfs/volume/generated"
+const FILER = "akasha/infrastructure/seaweedfs/filer/generated"
+const S3_GATEWAY = "akasha/infrastructure/seaweedfs/s3-gateway/generated"
+const ETCD_SNAPSHOT = "akasha/infrastructure/seaweedfs/etcd-snapshot/generated"
 
 const foundationSeaweedfs = workflow("seaweedfs", {
   kind: "foundation",

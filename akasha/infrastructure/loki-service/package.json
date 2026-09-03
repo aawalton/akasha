@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/loki-service",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./loki-constants": "./loki-constants/loki-constants.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/k8s-types": "workspace:*"
+  }
+}

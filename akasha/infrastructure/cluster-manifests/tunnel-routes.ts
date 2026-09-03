@@ -16,4 +16,9 @@ export const routes: TunnelRoute[] = [
     hostname: "supabase.alanwalton.com",
     service: "http://auth-proxy.auth-proxy.svc.cluster.local:3080",
   },
+  {
+    name: "s3",
+    hostname: "s3.alanwalton.com",
+    service: "http://s3-gateway.seaweedfs.svc.cluster.local:8333",
+  },
 ]

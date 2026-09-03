@@ -1,6 +1,6 @@
 import type { NamespaceProfile } from "@akasha/workflow-language/rbac-types"
 
-export const packageName = "@infra/loki-service"
+export const packageName = "@akasha/loki-service"
 
 export const profiles: NamespaceProfile[] = [
   {

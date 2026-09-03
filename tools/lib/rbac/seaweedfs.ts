@@ -1,6 +1,6 @@
 import type { NamespaceProfile } from "@akasha/workflow-language/rbac-types"
 
-export const packageName = "@infra/seaweedfs"
+export const packageName = "@akasha/seaweedfs"
 
 export const profiles: NamespaceProfile[] = [
   {

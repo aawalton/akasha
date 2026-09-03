@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/seaweedfs",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./seaweedfs-constants": "./seaweedfs-constants/seaweedfs-constants.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/k8s-types": "workspace:*"
+  }
+}

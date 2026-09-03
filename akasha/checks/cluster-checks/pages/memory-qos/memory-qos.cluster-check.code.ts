@@ -60,7 +60,10 @@ const BURSTABLE_EXEMPTIONS: readonly (readonly [string, string])[] = [
   ["akasha/smilingjenny/smilingjenny-web/generated/web-deployment.generated.yaml", "code-sync"],
   ["akasha/temper/temper-web/generated/web-deployment.generated.yaml", "init-code"],
   ["akasha/temper/temper-web/generated/web-deployment.generated.yaml", "code-sync"],
-  ["infra/seaweedfs/backup-bulk/generated/backup-bulk.generated.yaml", "rclone-sync"],
+  [
+    "akasha/infrastructure/seaweedfs/backup-bulk/generated/backup-bulk.generated.yaml",
+    "rclone-sync",
+  ],
 ]
 
 const exemptionKey = (path: string, container: string | null): string =>
