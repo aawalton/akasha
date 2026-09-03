@@ -1,0 +1,8 @@
+{
+  "expose_port": 3080,
+  "runtime_cmd": [
+    "bun",
+    "run",
+    "akasha/infrastructure/auth-proxy/auth-proxy-server/auth-proxy-server.module.code.ts"
+  ]
+}
