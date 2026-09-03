@@ -4,11 +4,11 @@ import { duringOneCall } from '@akasha/command-system/during-call';
 import * as vscode from 'vscode';
 import { recordObservation } from '../../seat/observation-store.ts';
 import { drawGroup, type GroupDrawing, nameTheStore } from '@akasha/editor-extension/group-stoplights';
-import { NO_LEGENDS, type StoplightLegends } from './legends.ts';
+import { NO_LEGENDS, type StoplightLegends } from '@akasha/editor-extension/status-bar-legends';
 import { applyToItems, type FreshAts, type ReadOutcomes, settleReads } from './render.ts';
-import { SLOTS } from "./slots.ts"
+import { SLOTS } from "@akasha/editor-extension/status-bar-slots"
 import { SEPARATOR_GLYPH, SEPARATOR_HEX } from "@akasha/editor-extension/status-bar-theme";
-import { readUsage } from './usage.ts';
+import { readUsage } from '@akasha/editor-extension/status-bar-usage';
 
 const FEATURE = 'status-bar';
 

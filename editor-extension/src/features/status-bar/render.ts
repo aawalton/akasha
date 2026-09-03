@@ -1,7 +1,7 @@
 import type * as vscode from 'vscode';
-import type { StoplightLegends } from './legends.ts';
-import { SLOTS } from './slots.ts';
-import type { UsageReading } from './usage.ts';
+import type { StoplightLegends } from '@akasha/editor-extension/status-bar-legends';
+import { SLOTS } from '@akasha/editor-extension/status-bar-slots';
+import type { UsageReading } from '@akasha/editor-extension/status-bar-usage';
 
 export type SectionResult<T> = {
 	readonly value: T | undefined;
