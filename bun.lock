@@ -992,6 +992,9 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/infrastructure/eso-rig": {
+      "name": "@akasha/eso-rig",
+    },
     "akasha/infrastructure/inference-clients": {
       "name": "@akasha/inference-clients",
       "dependencies": {
@@ -3167,6 +3170,8 @@
     "@akasha/errors-client": ["@akasha/errors-client@workspace:akasha/errors-client"],
 
     "@akasha/errors-core": ["@akasha/errors-core@workspace:akasha/errors-core"],
+
+    "@akasha/eso-rig": ["@akasha/eso-rig@workspace:akasha/infrastructure/eso-rig"],
 
     "@akasha/eso-wallpapers": ["@akasha/eso-wallpapers@workspace:akasha/alan/eso/eso-wallpapers"],
 

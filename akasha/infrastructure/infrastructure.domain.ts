@@ -27,6 +27,7 @@ export const infrastructure = {
     "domain/main-pipeline",
     "domain/node",
     "domain/resource-utilization",
+    "workspace-package/eso-rig",
     "workspace-package/postgres-annual-dump",
   ],
   invariants: [

@@ -36,6 +36,7 @@ export const clusterService = {
     "cluster-service/smilingjenny-web",
     "cluster-service/temper-web",
     "cluster-service/voice-infer",
+    "cluster-service/eso-rig",
     "cluster-service/auth-proxy",
     "cluster-service/buildkit",
     "cluster-service/buildkit-prune",
