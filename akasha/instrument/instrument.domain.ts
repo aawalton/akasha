@@ -112,5 +112,16 @@ export const instrument = {
         "Approval holds for that instrument at that cost.",
       ],
     },
+    {
+      directiveKind: "rule",
+      name: "Population",
+      act: "State the population size where an instrument reports, and fail where it could not look at one.",
+      warrant:
+        "Without the size, a run that looked at nothing and one that found nothing are the same result.",
+      aids: [
+        "The instrument prints the count, not you.",
+        "Anything it skipped is outside the population.",
+      ],
+    },
   ],
 } as const satisfies Domain
