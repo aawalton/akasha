@@ -1,0 +1,1 @@
+Linear prediction using 7d of history shows {{ $labels.mountpoint }} on {{ $labels.instance }} will run out of space within 7 days.

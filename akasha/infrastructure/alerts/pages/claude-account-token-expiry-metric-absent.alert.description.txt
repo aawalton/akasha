@@ -1,0 +1,1 @@
+claude_account_token_expiry_seconds has no series. The refresh-stall alert is blind; check the postgres-exporter scrape (job postgres-exporter) and the claude_account_token_expiry query in the postgres-exporter-queries configmap.

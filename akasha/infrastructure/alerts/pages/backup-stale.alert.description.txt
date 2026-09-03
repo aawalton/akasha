@@ -1,0 +1,3 @@
+Last successful run was {{ $value | humanizeDuration }} ago, more than half again this CronJob's own period — at least one scheduled backup run has been missed.
+
+Check: kubectl get cronjob -n {{ $labels.namespace }} {{ $labels.cronjob }}
