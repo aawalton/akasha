@@ -41,5 +41,10 @@ export const temperAddonBuild = {
       invariantKind: "gap",
       statement: "The transpiler is a checkout beside akasha rather than a package inside akasha.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A build runs on the workstation holding the transpiler rather than in the cluster.",
+    },
   ],
 } as const satisfies WorkspacePackage
