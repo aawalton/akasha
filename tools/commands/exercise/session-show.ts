@@ -1,15 +1,14 @@
-
 export const summary = "Show a session's header and logged sets grouped by exercise"
 
+import { readBodyweight } from "@akasha/exercise-access/selection-policy"
 import { displayTitle, fieldBool, fieldNum, fieldStr } from "@collections/exercises/cli/fields"
 import { resolveOpenSession } from "@collections/exercises/cli/resolve"
 import { getPage, getPages } from "@collections/exercises/pages/access"
 import type { Page } from "@collections/exercises/pages/page"
 import type { VolumeSetInput } from "@collections/exercises/tracking/volume"
 import { computeSessionVolume } from "@collections/exercises/tracking/volume"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { readBodyweight } from "../../lib/exercise-pages.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

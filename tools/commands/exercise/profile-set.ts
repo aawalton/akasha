@@ -1,11 +1,10 @@
-
 export const summary = "Set the client bodyweight profile used for volume math"
 
+import { writeBodyweight } from "@akasha/exercise-access/selection-policy"
 import { parseDecimalFlag } from "@collections/exercises/cli/fields"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { writeBodyweight } from "../../lib/exercise-pages.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

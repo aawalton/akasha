@@ -1,9 +1,8 @@
-
 export const summary = "Show the selection-policy page (goal weights + selector tunables)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { selectionPolicyStated } from "../../lib/exercise-pages.ts"
+import { selectionPolicyStated } from "@akasha/exercise-access/selection-policy"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [{ name: "--json", description: "Emit a JSON envelope instead of TSV lines" }],

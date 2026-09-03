@@ -1,9 +1,8 @@
-
 export const summary = "Show the client bodyweight profile"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { readBodyweight } from "../../lib/exercise-pages.ts"
+import { readBodyweight } from "@akasha/exercise-access/selection-policy"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [{ name: "--json", description: "Emit a JSON envelope instead of TSV lines" }],

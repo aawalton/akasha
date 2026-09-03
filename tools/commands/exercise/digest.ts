@@ -2,10 +2,10 @@ export const summary =
   "Pre-session coaching digest over pages: equipment, per-movement last/best/target, last session, mobility + trend, constraints (--focus defaults to today's scheduled focus)"
 
 import { FOCUS_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
+import { readBodyweight } from "@akasha/exercise-access/selection-policy"
 import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
 import { loadDigest } from "@collections/exercises/tracking/digest"
 import type { SetLine } from "@collections/exercises/tracking/history-core"
-import { readBodyweight } from "../../lib/exercise-pages.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 

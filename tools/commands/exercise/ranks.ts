@@ -1,6 +1,7 @@
+export const summary =
+  "Rank movements by the weighted selection objective with a per-goal (Longevity/Energy/Functionality/Aesthetics) breakdown"
 
-export const summary = "Rank movements by the weighted selection objective with a per-goal (Longevity/Energy/Functionality/Aesthetics) breakdown"
-
+import { readSelectionPolicy } from "@akasha/exercise-access/selection-policy"
 import { displayTitle } from "@collections/exercises/cli/fields"
 import { resolveExercise } from "@collections/exercises/cli/resolve"
 import { getPages } from "@collections/exercises/pages/access"
@@ -8,10 +9,9 @@ import type { Page } from "@collections/exercises/pages/page"
 import { movementFeaturesFromPage } from "@collections/exercises/selection/movement-features"
 import type { GoalScores, GoalWeights } from "@collections/exercises/selection/scorer"
 import { scoreMovement } from "@collections/exercises/selection/scorer"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { readSelectionPolicy } from "../../lib/exercise-pages.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

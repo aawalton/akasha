@@ -1,14 +1,13 @@
-
 export const summary = "Stamp completedAt on a session and report its duration"
 
+import { readBodyweight } from "@akasha/exercise-access/selection-policy"
 import { fieldStr } from "@collections/exercises/cli/fields"
 import { resolveOpenSession } from "@collections/exercises/cli/resolve"
 import { patchPage } from "@collections/exercises/pages/access"
 import type { Json } from "@collections/exercises/pages/page"
 import { loadSessionVolume } from "@collections/exercises/tracking/day-volume"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { readBodyweight } from "../../lib/exercise-pages.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
