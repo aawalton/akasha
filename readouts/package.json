@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@akasha/day": "workspace:*",
-    "@akasha/indexes": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
     "@akasha/readout-system": "workspace:*"
   },
   "devDependencies": {

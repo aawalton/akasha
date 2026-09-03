@@ -8,7 +8,7 @@ import { isTierColor, type Rung } from "./tier.ts"
 
 // WHERE THE READOUT ITSELF COMES FROM. The readout this watches, and the scale it is read against,
 // are akasha pages asked of the pages system service. They used to be resolved through
-// `readouts/readout-resolver.ts`, which builds its catalog by scanning the markdown `readouts/`
+// `readouts/readout-resolver.ts`, which built its catalog by scanning the markdown `readouts/`
 // tree — a second population of readout pages, kept beside the akasha one and free to disagree
 // with it. A notifier is the worst place for that disagreement to sit: a threshold moved on the
 // akasha page would have been read off the markdown twin, and the rung Alan is told about would
