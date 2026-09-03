@@ -289,7 +289,7 @@ test("a page type carries what every page type above it declares", () => {
 test("a bare declaration name two page properties carry declares neither", () => {
   const values = [
     { id: "1", pageTypeSlug: "file-property", slug: "notes", propertySlug: "notes" },
-    { id: "2", pageTypeSlug: "file-property", slug: "notes", propertySlug: "notes" },
+    { id: "2", pageTypeSlug: "text-property", slug: "notes", propertySlug: "notes" },
     {
       id: "3",
       pageTypeSlug: "page-type",
