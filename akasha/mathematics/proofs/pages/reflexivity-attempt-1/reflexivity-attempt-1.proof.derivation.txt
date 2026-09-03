@@ -1,0 +1,5 @@
+## My derivation of A → A
+
+*(I number every line and justify each — axiom-instance, or MP on lines i, j.)*
+
+1.

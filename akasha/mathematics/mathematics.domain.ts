@@ -5,5 +5,5 @@ export const mathematics = {
   pageTypeSlug: "domain",
   slug: "mathematics",
   definition: "the formal system Alan is building and what stands in it",
-  partSlugs: ["page-type/proposition"],
+  partSlugs: ["page-type/proposition", "page-type/proof"],
 } as const satisfies Domain
