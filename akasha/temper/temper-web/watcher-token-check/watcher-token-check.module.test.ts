@@ -8,7 +8,6 @@ const OTHER_SHA256 = "d9489116f7a295e1dc193d47b60e04f12c31e336e673a6b1638287da2d
 
 const ENROLMENT_ID = "019dd9b0-5ad8-7e95-9d8f-fccedf449adc"
 const ACCOUNT_PAGE = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
-const USER_ID = "3f2a1c44-7b9e-4d21-8a55-2c6e0f9b7d13"
 
 let enrolment: Page | null = null
 let patchFails: Error | null = null
@@ -48,9 +47,21 @@ function enrolled(tokenHash: string): Page {
   return asPage({
     id: ENROLMENT_ID,
     tokenHash,
-    accountUserId: USER_ID,
     accountPage: ACCOUNT_PAGE,
   })
+}
+
+async function reporting<T>(run: () => Promise<T>): Promise<{ got: T; said: string[] }> {
+  const said: string[] = []
+  const realError = console.error
+  console.error = (...args: readonly unknown[]) => {
+    said.push(args.map(String).join(" "))
+  }
+  try {
+    return { got: await run(), said }
+  } finally {
+    console.error = realError
+  }
 }
 
 beforeEach(() => {
@@ -83,24 +94,40 @@ describe("validateWatcherToken fails closed", () => {
     enrolment = enrolled(OTHER_SHA256)
     expect(await validateWatcherToken(TOKEN)).toBeNull()
   })
+})
 
-  test("refuses when the enrolment states no account", async () => {
-    enrolment = asPage({
-      id: ENROLMENT_ID,
-      tokenHash: TOKEN_SHA256,
-      accountUserId: USER_ID,
-    })
-    expect(await validateWatcherToken(TOKEN)).toBeNull()
+describe("validateWatcherToken says why it granted nothing", () => {
+  test("refuses when the enrolment states no account, and names the key it wanted", async () => {
+    enrolment = asPage({ id: ENROLMENT_ID, tokenHash: TOKEN_SHA256 })
+    const { got, said } = await reporting(async () => validateWatcherToken(TOKEN))
+    expect(got).toBeNull()
+    expect(said).toHaveLength(1)
+    expect(said[0]).toContain("accountPage")
+    expect(said[0]).toContain(ENROLMENT_ID)
+    expect(patchCalls).toHaveLength(0)
+  })
+
+  test("refuses when the enrolment states no id, and names the key it wanted", async () => {
+    enrolment = asPage({ tokenHash: TOKEN_SHA256, accountPage: ACCOUNT_PAGE })
+    const { got, said } = await reporting(async () => validateWatcherToken(TOKEN))
+    expect(got).toBeNull()
+    expect(said).toHaveLength(1)
+    expect(said[0]).toContain("id")
+    expect(patchCalls).toHaveLength(0)
+  })
+
+  test("says nothing when the token is simply not ours", async () => {
+    enrolment = enrolled(OTHER_SHA256)
+    const { got, said } = await reporting(async () => validateWatcherToken(TOKEN))
+    expect(got).toBeNull()
+    expect(said).toHaveLength(0)
   })
 })
 
 describe("validateWatcherToken grants access", () => {
   test("returns the account and records the use", async () => {
     enrolment = enrolled(TOKEN_SHA256)
-    expect(await validateWatcherToken(TOKEN)).toEqual({
-      userId: USER_ID,
-      accountPageId: ACCOUNT_PAGE,
-    })
+    expect(await validateWatcherToken(TOKEN)).toEqual({ accountPageId: ACCOUNT_PAGE })
     expect(patchCalls).toHaveLength(1)
   })
 
@@ -108,21 +135,10 @@ describe("validateWatcherToken grants access", () => {
     enrolment = enrolled(TOKEN_SHA256)
     patchFails = new Error("PageTypeNotFileBacked: patchPageById temper-watcher-enrolment")
 
-    const reported: unknown[] = []
-    const realError = console.error
-    console.error = (...args: readonly unknown[]) => {
-      reported.push(args)
-    }
-    try {
-      expect(await validateWatcherToken(TOKEN)).toEqual({
-        userId: USER_ID,
-        accountPageId: ACCOUNT_PAGE,
-      })
-    } finally {
-      console.error = realError
-    }
-
+    const { got, said } = await reporting(async () => validateWatcherToken(TOKEN))
+    expect(got).toEqual({ accountPageId: ACCOUNT_PAGE })
     expect(patchCalls).toHaveLength(1)
-    expect(reported).toHaveLength(1)
+    expect(said).toHaveLength(1)
+    expect(said[0]).toContain("tokenLastUsedAt")
   })
 })

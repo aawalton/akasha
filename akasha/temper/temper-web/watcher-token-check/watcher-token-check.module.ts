@@ -23,6 +23,14 @@ export const watcherTokenCheck = {
     },
     {
       invariantKind: "departure",
+      statement: "An enrolment matched by its digest and granting nothing names the key it wanted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A token that matches no enrolment is refused without a word.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A bookkeeping write that fails does not decide authentication.",
     },
   ],

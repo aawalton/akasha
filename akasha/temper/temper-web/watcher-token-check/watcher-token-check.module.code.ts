@@ -34,9 +34,21 @@ export async function validateWatcherToken(
   if (!row) return null
   if (!sameHash(row.tokenHash, presented)) return null
 
-  const accountPageId = row.accountPage
   const enrolmentPageId = row.id
-  if (typeof accountPageId !== "string" || typeof enrolmentPageId !== "string") return null
+  if (typeof enrolmentPageId !== "string") {
+    console.error(
+      `validateWatcherToken: an enrolment matched the presented digest and carries no \`id\`, so access is refused. \`temper-watcher-enrolment\` takes \`id\` from \`page\`, where it is required, so a row arriving here without one is a fault in the read rather than a caller to turn away.`
+    )
+    return null
+  }
+
+  const accountPageId = row.accountPage
+  if (typeof accountPageId !== "string") {
+    console.error(
+      `validateWatcherToken(${enrolmentPageId}): the enrolment matched the presented digest and carries no \`accountPage\`, so access is refused. \`temper-watcher-enrolment\` declares \`account-page\` required, so an enrolment arriving here without one is a defect rather than a caller to turn away, and every token that enrolment issued is refused until it names an account.`
+    )
+    return null
+  }
 
   try {
     await patchPageById({
