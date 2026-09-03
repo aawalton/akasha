@@ -46,7 +46,7 @@ export const migrationLanding = {
     },
     {
       invariantKind: "absence",
-      statement: "A body stating no `was` is guarded by nothing here.",
+      statement: "A body stating no `was` is guarded by nothing here at all.",
     },
     {
       invariantKind: "departure",
