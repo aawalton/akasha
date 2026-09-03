@@ -1,8 +1,8 @@
+import { readdirSync } from "node:fs"
+import { join } from "node:path"
 import { InputError } from "@akasha/errors-core/exit-code"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import type { Row } from "@akasha/pages-system/page-derive-shape"
-import { listOf, textOf } from "@akasha/pages-system/page-query-values"
-import { readFilePages } from "@tools/lib/file-pages"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { slugAt, textAt, textsAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 
 export interface MobileApp {
   readonly slug: string
@@ -30,64 +30,103 @@ export const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
 
 export const DEFAULT_APP_SLUG = "alanwalton"
 
-const APP_KEYS: readonly string[] = [
-  "app-slug",
-  "display-name",
-  "bundle-id",
-  "widget-bundle-id",
-  "development-team",
-  "native-shell-repo-path",
-  "icon-repo-path",
-  "sim-build-script",
-  "www-stage-script",
-  "spa-source-repo-path",
-  "web-env-path",
-  "asc-capabilities",
-  "app-profile-name",
-  "widget-profile-name",
-  "mac-build-lock-dir",
-  "mac-build-number-file",
-  "mac-www-staging-rel",
-  "default-device-udid",
-]
+const APPS_FOLDER = "akasha/code-system/ios-apps/pages"
 
-function stated(row: Row, key: string): string | null {
-  const value = textOf(row.values, key)
-  return value === null || value.trim() === "" ? null : value
+const PAGE_SUFFIX = ".ios-app.ts"
+
+const SCRIPT_SUFFIX = ".shell-script.shell.sh"
+
+function inAkasha(path: string): string {
+  return `${AKASHA}:${path}`
 }
 
-function required(row: Row, key: string): string {
-  const value = stated(row, key)
-  if (value === null) {
+function akashaRoot(): string {
+  return rootFor(resolveRoots(), AKASHA)
+}
+
+function appPagePath(slug: string): string {
+  return `${APPS_FOLDER}/${slug}/${slug}${PAGE_SUFFIX}`
+}
+
+function pagePathsUnder(root: string): readonly string[] {
+  const found: string[] = []
+  try {
+    for (const entry of readdirSync(join(root, APPS_FOLDER), { withFileTypes: true })) {
+      if (entry.isDirectory()) found.push(appPagePath(entry.name))
+    }
+  } catch (why) {
     throw new InputError(
-      `${row.at} stands as an iOS app and states no \`${key}\`, which the mobile commands read off the page`
+      `the iOS app pages under ${APPS_FOLDER} would not be listed: ${why instanceof Error ? why.message : String(why)}`
     )
   }
-  return value
+  return found.sort()
 }
 
-function mobileAppOf(row: Row): MobileApp {
-  const webEnvPath = stated(row, "web-env-path")
+let scripts: Readonly<Record<string, string>> | null = null
+
+function scriptPaths(): Readonly<Record<string, string>> {
+  if (scripts !== null) return scripts
+  const root = akashaRoot()
+  const bySlug: Record<string, string> = {}
+  for (const found of new Bun.Glob(`**/*${SCRIPT_SUFFIX}`).scanSync({ cwd: root })) {
+    const path = found.split("\\").join("/")
+    const name = path.slice(path.lastIndexOf("/") + 1)
+    bySlug[name.slice(0, -SCRIPT_SUFFIX.length)] = path
+  }
+  scripts = bySlug
+  return scripts
+}
+
+function scriptAt(value: Value, key: string, path: string): string | null {
+  const slug = slugAt(value, key)
+  if (slug === null) return null
+  const found = scriptPaths()[slug]
+  if (found === undefined) {
+    throw new InputError(
+      `${path} names \`${slug}\` as its \`${key}\`, and no shell script in akasha carries that slug`
+    )
+  }
+  return inAkasha(found)
+}
+
+function stated(value: Value, key: string): string | null {
+  const held = textAt(value, key)
+  return held === null || held.trim() === "" ? null : held
+}
+
+function required(value: Value, key: string, path: string): string {
+  const held = stated(value, key)
+  if (held === null) {
+    throw new InputError(
+      `${path} is an iOS app page and states no \`${key}\`, which the mobile commands read off the page`
+    )
+  }
+  return held
+}
+
+function mobileAppOf(value: Value, path: string): MobileApp {
+  const webEnvPath = stated(value, "webEnvPath")
+  const iconPath = stated(value, "iconPath")
   return {
-    slug: required(row, "app-slug"),
-    pagePath: row.at,
-    displayName: required(row, "display-name"),
-    bundleId: required(row, "bundle-id"),
-    widgetBundleId: stated(row, "widget-bundle-id"),
-    developmentTeam: required(row, "development-team"),
-    nativeShellRepoPath: stated(row, "native-shell-repo-path"),
-    iconRepoPath: stated(row, "icon-repo-path"),
-    simBuildScript: stated(row, "sim-build-script"),
-    wwwStageScript: stated(row, "www-stage-script"),
-    spaSourceRepoPath: stated(row, "spa-source-repo-path"),
+    slug: required(value, "slug", path),
+    pagePath: path,
+    displayName: required(value, "displayName", path),
+    bundleId: required(value, "bundleId", path),
+    widgetBundleId: stated(value, "widgetBundleId"),
+    developmentTeam: required(value, "developmentTeam", path),
+    nativeShellRepoPath: stated(value, "nativeShellRepoPath"),
+    iconRepoPath: iconPath === null ? null : inAkasha(iconPath),
+    simBuildScript: scriptAt(value, "buildScript", path),
+    wwwStageScript: scriptAt(value, "stageScript", path),
+    spaSourceRepoPath: stated(value, "spaSourcePath"),
     webEnvSegments: webEnvPath === null ? null : webEnvPath.split("/"),
-    ascCapabilities: listOf(row.values, "asc-capabilities"),
-    appProfileName: required(row, "app-profile-name"),
-    widgetProfileName: stated(row, "widget-profile-name"),
-    macBuildLockDir: required(row, "mac-build-lock-dir"),
-    macBuildNumberFile: required(row, "mac-build-number-file"),
-    macWwwStagingRel: stated(row, "mac-www-staging-rel"),
-    defaultDeviceUdid: stated(row, "default-device-udid"),
+    ascCapabilities: textsAt(value, "ascCapabilities") ?? [],
+    appProfileName: required(value, "appProfileName", path),
+    widgetProfileName: stated(value, "widgetProfileName"),
+    macBuildLockDir: required(value, "macBuildLockDir", path),
+    macBuildNumberFile: required(value, "macBuildNumberFile", path),
+    macWwwStagingRel: stated(value, "macWwwStagingRel"),
+    defaultDeviceUdid: stated(value, "defaultDeviceUdid"),
   }
 }
 
@@ -95,15 +134,18 @@ let held: Readonly<Record<string, MobileApp>> | null = null
 
 export function mobileApps(): Readonly<Record<string, MobileApp>> {
   if (held !== null) return held
-  const byAppSlug: Record<string, MobileApp> = {}
-  for (const row of readFilePages(IOS_APP_PAGE_TYPE_SLUG, APP_KEYS)) {
-    const app = mobileAppOf(row)
-    if (byAppSlug[app.slug] !== undefined) {
-      throw new InputError(`two iOS app pages both spell their \`app-slug\` ${app.slug}`)
+  const root = akashaRoot()
+  const bySlug: Record<string, MobileApp> = {}
+  for (const path of pagePathsUnder(root)) {
+    const value = valueAt(path, root)
+    if (value === null) throw new InputError(`${path} declares no page value`)
+    const app = mobileAppOf(value, path)
+    if (bySlug[app.slug] !== undefined) {
+      throw new InputError(`two iOS app pages both spell their \`slug\` ${app.slug}`)
     }
-    byAppSlug[app.slug] = app
+    bySlug[app.slug] = app
   }
-  held = byAppSlug
+  held = bySlug
   return held
 }
 

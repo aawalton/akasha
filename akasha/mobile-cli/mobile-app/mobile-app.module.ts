@@ -10,12 +10,15 @@ export const mobileApp = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The ios-app pages read here are markdown files under pages/ios-app at the checkout root.",
+      statement: "The ios-app pages read here are the TypeScript pages akasha carries.",
     },
     {
-      invariantKind: "absence",
-      statement: "The akasha ios-app pages written in TypeScript are not read here.",
+      invariantKind: "departure",
+      statement: "An app is named by the slug its own page carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A script an app names by slug is answered as the file holding that script.",
     },
     {
       invariantKind: "departure",
