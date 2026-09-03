@@ -7,9 +7,9 @@ import type { ScriptureTranslation } from "./properties/scripture-translation.se
 
 export type ScripturePassage = Collection & {
   title: Title
-  book: ScriptureBook
-  translation: ScriptureTranslation
-  passageText: PassageText
+  book?: ScriptureBook
+  translation?: ScriptureTranslation
+  passageText?: PassageText
 }
 
 export const scripturePassage = {
@@ -27,9 +27,9 @@ export const scripturePassage = {
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "scripture-book", required: true, many: false },
-    { pagePropertySlug: "scripture-translation", required: true, many: false },
-    { pagePropertySlug: "passage-text", required: true, many: false },
+    { pagePropertySlug: "scripture-book", required: false, many: false },
+    { pagePropertySlug: "scripture-translation", required: false, many: false },
+    { pagePropertySlug: "passage-text", required: false, many: false },
   ],
   invariants: [
     {
@@ -39,6 +39,15 @@ export const scripturePassage = {
     {
       invariantKind: "departure",
       statement: "A passage's verses are a file beside the passage's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A passage catalogued before its verses arrive carries no file yet.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A passage names a rendering only where the record the passage came from names one.",
     },
     {
       invariantKind: "departure",
