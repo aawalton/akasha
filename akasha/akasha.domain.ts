@@ -54,6 +54,7 @@ export const akasha = {
     "domain/collection-system",
     "domain/mathematics",
     "domain/all-about-alan",
+    "domain/games",
   ],
   invariants: [
     {
