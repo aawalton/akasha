@@ -1,4 +1,5 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { asRecord, givenIn, type Said, said } from "@akasha/pages-system/page-query-request"
 import {
   answer,
   answerNamed,
@@ -10,7 +11,6 @@ import {
 } from "./page-query.ts"
 import { absentSays, bind, composedFrom, isRefused } from "./page-query-bind.ts"
 import { queryFrom } from "./page-query-fields.ts"
-import { asRecord, givenIn, type Said, said } from "./page-query-request.ts"
 
 const BOTH =
   "states both a count by and a function; a page query either counts by properties or reduces one"

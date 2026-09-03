@@ -59,6 +59,8 @@ export const pagesSystem = {
     "module/page-landing-judge",
     "module/page-narrow",
     "module/page-query-day",
+    "module/page-query-hold",
+    "module/page-query-request",
     "module/page-query-values",
     "module/repo-path",
     "module/shadow",

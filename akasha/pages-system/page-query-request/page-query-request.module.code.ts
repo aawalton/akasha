@@ -1,10 +1,17 @@
-import type { Given } from "./page-query-bind.ts"
-import type { Value } from "./page-write-values.ts"
+export type Given = Readonly<Record<string, string | readonly string[]>>
+
+export type Value = string | number | boolean | readonly string[]
 
 export interface Said {
   readonly body: unknown
   readonly status: number
 }
+
+const SEPARATOR = "/"
+
+const UNSAFE: readonly string[] = ["", ".", ".."]
+
+const BACKSLASH = "\\"
 
 export function said(body: unknown, status: number): Said {
   return { body, status }
@@ -26,10 +33,9 @@ export function namedSafely(raw: string): string | null {
   } catch {
     return null
   }
-  const segments = name.split("/")
-  const unsafe = segments.some(
-    (one) => one === "" || one === "." || one === ".." || one.includes("\\")
-  )
+  const unsafe = name
+    .split(SEPARATOR)
+    .some((one) => UNSAFE.includes(one) || one.includes(BACKSLASH))
   return unsafe ? null : name
 }
 

@@ -1,17 +1,17 @@
-import { type FileTree } from "../../page/file-tree.ts"
-import { diskFileTree } from "../../page/file-tree.ts"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { uncommittedKeysFor } from "./page-uncommitted-keys.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Value } from "@akasha/pages-system/page-query-request"
+import { diskFileTree, type FileTree } from "../../page/file-tree.ts"
 import { attachmentKeysFor } from "./page-attachment-keys.ts"
 import {
   asDeclared,
   bodyKeyFor,
-  rowsHoldingsFor,
   type Rendered,
+  rowsHoldingsFor,
   typesFor,
 } from "./page-property-types.ts"
+import { uncommittedKeysFor } from "./page-uncommitted-keys.ts"
 
-export type Value = string | number | boolean | readonly string[]
+export type { Value }
 
 export interface Attachment {
   readonly extension: string

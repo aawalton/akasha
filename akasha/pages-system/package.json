@@ -54,6 +54,8 @@
     "./page-property-entry": "./page-property-entries/page-property-entry.page-type.ts",
     "./page-property-key": "./page-properties/key/page-property-key.module.code.ts",
     "./page-query-day": "./page-query-day/page-query-day.module.code.ts",
+    "./page-query-hold": "./page-query-hold/page-query-hold.module.code.ts",
+    "./page-query-request": "./page-query-request/page-query-request.module.code.ts",
     "./page-query-values": "./page-query-values/page-query-values.module.code.ts",
     "./page-secret": "./pages/secret/page-secret.module.code.ts",
     "./page-type": "./page-types/page-type.page-type.ts",

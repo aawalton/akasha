@@ -1,4 +1,4 @@
-import type { Said } from "./page-query-request.ts"
+import type { Said } from "../page-query-request/page-query-request.module.code.ts"
 
 let answerTtlMs = 0
 

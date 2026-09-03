@@ -1,6 +1,6 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Value } from "@akasha/pages-system/page-query-request"
 import { patchPage, patchState } from "@tools/lib/page-write"
-import type { Value } from "@tools/lib/page-write-values"
 import {
   decideBranchResolution,
   type PassedWorkflowWitness,
