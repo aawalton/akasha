@@ -130,9 +130,9 @@ export async function exerciseAdd(argv: readonly string[], given: Given): Promis
     return refused(mechanic.refused, INPUT)
   }
   const primary = many(PRIMARY_MUSCLES, MUSCLE_OPTIONS)
-  if (primary !== undefined && !Array.isArray(primary)) return refused(primary.refused, INPUT)
+  if (primary !== undefined && "refused" in primary) return refused(primary.refused, INPUT)
   const secondary = many(SECONDARY_MUSCLES, MUSCLE_OPTIONS)
-  if (secondary !== undefined && !Array.isArray(secondary)) return refused(secondary.refused, INPUT)
+  if (secondary !== undefined && "refused" in secondary) return refused(secondary.refused, INPUT)
 
   const loadFactor = decimalIn(LOAD_FACTOR, said.held.get(LOAD_FACTOR))
   if ("refused" in loadFactor) return refused(loadFactor.refused, INPUT)
