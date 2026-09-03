@@ -1,18 +1,20 @@
 #!/usr/bin/env bun
 
-import { refuseRetired } from "../lib/retired.ts"
-
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import { codeRoot } from "@akasha/pages-system/code-root"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { CODE_REPO } from "../../../../repo/scope/scope.ts"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../../../tools/lib/check-workflow/violation-reporter"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import { K8S_RESOURCE_NODE_TYPE } from "../../../../tools/lib/graph/producers/k8s/types.ts"
 import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8s/types-schemas"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { codeRoot } from "@akasha/pages-system/code-root"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
-import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+import { refuseRetired } from "../lib/retired.ts"
 
 if (import.meta.main) refuseRetired()
 
@@ -40,14 +42,8 @@ interface Violation {
 }
 
 const BURSTABLE_EXEMPTIONS: readonly (readonly [string, string])[] = [
-  [
-    "akasha/alan/atlas-web/generated/atlas-deployment.generated.yaml",
-    "init-code",
-  ],
-  [
-    "akasha/alan/atlas-web/generated/atlas-deployment.generated.yaml",
-    "code-sync",
-  ],
+  ["akasha/alan/atlas-web/generated/atlas-deployment.generated.yaml", "init-code"],
+  ["akasha/alan/atlas-web/generated/atlas-deployment.generated.yaml", "code-sync"],
   ["akasha/alan/web/generated/web-deployment.generated.yaml", "init-code"],
   ["akasha/alan/web/generated/web-deployment.generated.yaml", "code-sync"],
   [
@@ -62,8 +58,8 @@ const BURSTABLE_EXEMPTIONS: readonly (readonly [string, string])[] = [
   ["akasha/audhdalan/audhdalan-web/generated/web-deployment.generated.yaml", "code-sync"],
   ["akasha/smilingjenny/smilingjenny-web/generated/web-deployment.generated.yaml", "init-code"],
   ["akasha/smilingjenny/smilingjenny-web/generated/web-deployment.generated.yaml", "code-sync"],
-  ["temper/web/generated/web-deployment.generated.yaml", "init-code"],
-  ["temper/web/generated/web-deployment.generated.yaml", "code-sync"],
+  ["akasha/temper/temper-web/generated/web-deployment.generated.yaml", "init-code"],
+  ["akasha/temper/temper-web/generated/web-deployment.generated.yaml", "code-sync"],
   ["infra/seaweedfs/backup-bulk/generated/backup-bulk.generated.yaml", "rclone-sync"],
 ]
 
