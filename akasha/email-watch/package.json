@@ -3,10 +3,16 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./inbox-run": "./inbox-run/inbox-run.module.code.ts"
+    "./email-rule-deciding": "./email-rule-deciding/email-rule-deciding.module.code.ts",
+    "./email-rule-reading": "./email-rule-reading/email-rule-reading.module.code.ts",
+    "./email-rule-set": "./email-rule-set/email-rule-set.module.code.ts",
+    "./inbox-run": "./inbox-run/inbox-run.module.code.ts",
+    "./inbox-watching": "./inbox-watching/inbox-watching.module.code.ts"
   },
   "dependencies": {
     "@akasha/google-email": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@akasha/rules-engine": "workspace:*",
     "@tools/lib": "workspace:*"
   }
 }
