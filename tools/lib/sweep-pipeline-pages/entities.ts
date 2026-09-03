@@ -1,6 +1,6 @@
-import { type Row } from "../page-derive-shape.ts"
-import { type Values } from "../page-file-values.ts"
-import { listOf, textOf } from "../page-query-values.ts"
+import type { Row } from "@akasha/pages-system/page-derive-shape"
+import { listOf, textOf } from "@akasha/pages-system/page-query-values"
+import type { Values } from "../page-file-values.ts"
 import { PENDING } from "./statuses.ts"
 
 export interface Pipeline {

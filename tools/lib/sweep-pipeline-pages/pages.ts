@@ -1,9 +1,16 @@
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Row } from "@akasha/pages-system/page-derive-shape"
 import { readUncommitted } from "../../../page/uncommitted/uncommitted.ts"
 import { load, UNREACHED } from "../page-query.ts"
-import { type Row } from "../page-derive-shape.ts"
 import { whereFor } from "../page-write-where.ts"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { type Pipeline, pipelineIn, type Step, stepIn, type Workflow, workflowIn } from "./entities.ts"
+import {
+  type Pipeline,
+  pipelineIn,
+  type Step,
+  stepIn,
+  type Workflow,
+  workflowIn,
+} from "./entities.ts"
 import { PIPELINE, STEP, WORKFLOW } from "./statuses.ts"
 
 export interface Snapshot {
@@ -62,7 +69,10 @@ export interface Kin {
   readonly stepsByWorkflow: ReadonlyMap<string, readonly Step[]>
 }
 
-function grouped<T>(items: readonly T[], by: (one: T) => string): ReadonlyMap<string, readonly T[]> {
+function grouped<T>(
+  items: readonly T[],
+  by: (one: T) => string
+): ReadonlyMap<string, readonly T[]> {
   const out = new Map<string, T[]>()
   for (const one of items) {
     const key = by(one)

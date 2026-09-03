@@ -1,7 +1,7 @@
-import { answer, type PageQuery, UNREACHED } from "../page-query.ts"
-import { type Row } from "../page-derive-shape.ts"
-import { listOf, textOf } from "../page-query-values.ts"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Row } from "@akasha/pages-system/page-derive-shape"
+import { listOf, textOf } from "@akasha/pages-system/page-query-values"
+import { answer, type PageQuery, UNREACHED } from "../page-query.ts"
 
 export const MAIN_BRANCH = "main"
 
@@ -9,12 +9,7 @@ export const PIPELINE = "pipeline"
 
 export const WORKFLOW = "workflow"
 
-
-export const UNFINISHED_PIPELINE_STATUSES: readonly string[] = [
-  "pending",
-  "dispatching",
-  "running",
-]
+export const UNFINISHED_PIPELINE_STATUSES: readonly string[] = ["pending", "dispatching", "running"]
 
 export const UNDERWAY_PIPELINE_STATUSES: readonly string[] = ["dispatching", "running"]
 
@@ -58,7 +53,9 @@ function seqOf(row: Row): number {
   const stated = textOf(row.values, "seq")
   const seq = Number(stated)
   if (!Number.isInteger(seq) || seq <= 0) {
-    throw new Error(`main-pipeline-creator: ${row.at} states \`seq: ${stated}\`, which names no page`)
+    throw new Error(
+      `main-pipeline-creator: ${row.at} states \`seq: ${stated}\`, which names no page`
+    )
   }
   return seq
 }
