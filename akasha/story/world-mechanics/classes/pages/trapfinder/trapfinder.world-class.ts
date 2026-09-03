@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const trapfinder = {
   id: "01a0657e-026d-714e-be64-c25ddcb0fb17",

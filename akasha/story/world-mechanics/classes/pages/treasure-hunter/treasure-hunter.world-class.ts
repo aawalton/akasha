@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const treasureHunter = {
   id: "01a0657e-026d-7667-9916-ec0b6449d9fb",

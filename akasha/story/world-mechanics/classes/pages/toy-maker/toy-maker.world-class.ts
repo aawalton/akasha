@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const toyMaker = {
   id: "01a0657e-026c-725b-a5d0-6ee6c1440db2",

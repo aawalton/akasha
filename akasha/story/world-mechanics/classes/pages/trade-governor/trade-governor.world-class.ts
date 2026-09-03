@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const tradeGovernor = {
   id: "01a0657e-026c-7566-892e-749a780574b1",

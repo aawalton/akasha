@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const telepathicHealer = {
   id: "01a0657e-0269-7d43-aa9f-7885e946ba07",

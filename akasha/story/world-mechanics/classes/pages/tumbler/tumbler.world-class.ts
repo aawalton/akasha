@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const tumbler = {
   id: "01a0657e-026d-7722-b4b6-4650d0b4335b",
