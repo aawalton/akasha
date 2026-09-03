@@ -9,4 +9,10 @@ export const estimatedCalories = {
   propertySlug: "estimated-calories",
   definition: "the calories one thing eaten was reckoned to hold",
   max: null,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A calorie estimate is captured by judgment.",
+    },
+  ],
 } as const satisfies NumberProperty

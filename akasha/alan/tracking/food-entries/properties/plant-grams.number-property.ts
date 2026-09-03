@@ -9,4 +9,15 @@ export const plantGrams = {
   propertySlug: "plant-grams",
   definition: "the grams of whole plant one thing eaten contributes",
   max: null,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A plant processed into something else stops counting: muesli counts and bread does not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A plant grams figure is captured by judgment.",
+    },
+  ],
 } as const satisfies NumberProperty
