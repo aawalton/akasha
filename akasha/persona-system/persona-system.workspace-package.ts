@@ -10,6 +10,7 @@ export const personaSystem = {
     "page-type/closeness-level",
     "page-type/origin-kind",
     "page-type/persona",
+    "page-type/review-session",
     "page-type/persona-anchor-image",
     "page-type/persona-cover-image",
     "page-type/persona-craft-day",
