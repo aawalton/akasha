@@ -2,7 +2,7 @@
 
 import { mailbox } from "@akasha/google-email/gmail-mailbox"
 import { recordToAgent } from "../tools/lib/agent-record.ts"
-import { markTold, onePass, untoldClaims } from "../tools/lib/email-worker.ts"
+import { markTold, oneRun, untoldClaims } from "@akasha/email-watch/inbox-run"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 const PERSON = process.env.EMAIL_WORKER_PERSON ?? "alan"
@@ -54,7 +54,7 @@ log(`watching ${PERSON}'s mail every ${Math.round(EVERY_MS / 1000)}s`)
 
 while (!stopping.signal.aborted) {
   try {
-    const report = await onePass(PERSON, ROOT, box, { dryRun: false })
+    const report = await oneRun(PERSON, ROOT, box, { dryRun: false })
     if (report.acted > 0 || report.waiting > 0 || report.unclaimed > 0)
       log(`${report.examined} examined, ${report.acted} acted on, ${report.waiting} waiting, ${report.unclaimed} unclaimed`)
     await announce()
