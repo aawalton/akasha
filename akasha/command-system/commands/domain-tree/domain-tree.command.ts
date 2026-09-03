@@ -8,6 +8,7 @@ export const domainTree = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
+  taking: [],
   helpNotes: [
     "it prints one JSON object on stdout and nothing else.",
     "the object carries `repo`, the `roots` of the tree, and `unreached`.",
