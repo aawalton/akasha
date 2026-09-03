@@ -37,15 +37,6 @@
       "path": "./infra/eso-rig"
     },
     {
-      "path": "./infra/git-transport"
-    },
-    {
-      "path": "./infra/git-porcelain"
-    },
-    {
-      "path": "./infra/git-cli"
-    },
-    {
       "path": "./infra/inference"
     },
     {
@@ -65,6 +56,9 @@
     },
     {
       "path": "./collections/exercises"
+    },
+    {
+      "path": "./infra/talos"
     },
     {
       "path": "./infra/zimage"
