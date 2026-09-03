@@ -3,12 +3,6 @@ import { refused } from "@akasha/command-system/calling"
 import { addCategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import {
-  narrowItemAction,
-  narrowMoveToDestination,
-  narrowStockScope,
-  parseConditionsJson,
-} from "@tools/lib/temper-inventory/rule-flags-shared"
-import {
   ACTIVE,
   answering,
   DATA,
@@ -22,6 +16,12 @@ import {
   toldOf,
   webIn,
 } from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import {
+  narrowItemAction,
+  narrowMoveToDestination,
+  narrowStockScope,
+  parseConditionsJson,
+} from "../inventory-rule-flags/inventory-rule-flags.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-rule-create"
 

@@ -1,14 +1,25 @@
+import { STYLE_TO_CHAPTERS } from "@akasha/temper-items-core/motif-chapter-set"
 import type { ItemKey } from "@akasha/temper-items-rules-core/use-destination-types"
 import type { EvalEnv } from "@akasha/temper-items-rules-eval/eval-env"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { styleToChapters } from "./game-code.ts"
-import type { CharacterKnowledge } from "./parse-temper-characters.ts"
+import type { CharacterKnowledge } from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
 
 export interface CliEvalEnvDeps {
   readonly charactersById: ReadonlyMap<string, CharacterKnowledge>
   readonly characterPriority: ReadonlyArray<string>
   readonly wantedConsumables: Record<string, unknown>
 }
+
+/**
+ * `STYLE_TO_CHAPTERS` is typed as total over `number`, but it is a lookup table
+ * with gaps: a style id it has never heard of reads back `undefined`. The
+ * `| undefined` here is what is actually true.
+ */
+function chaptersOfStyle(styleId: number): readonly number[] | undefined {
+  return STYLE_TO_CHAPTERS[styleId]
+}
+
+const UNKNOWN = "unknown"
 
 export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
   const { charactersById, characterPriority, wantedConsumables } = deps
@@ -22,7 +33,7 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     },
 
     getCharacterPriority: () => characterPriority,
-    getCurrentCharacter: () => "unknown",
+    getCurrentCharacter: () => UNKNOWN,
     getAllCharacters: () => Array.from(charactersById.keys()),
 
     getConsumableWanters: (itemId) => {
@@ -34,27 +45,27 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
       }
       return []
     },
-    getConsumableStock: () => "unknown",
-    getBankStock: () => "unknown",
+    getConsumableStock: () => UNKNOWN,
+    getBankStock: () => UNKNOWN,
 
     getKnownScripts: (charId) => {
-      const c = charactersById.get(charId)
-      if (c === undefined) return new Set<number>()
-      return c.unlockedScriptIds
+      const held = charactersById.get(charId)
+      if (held === undefined) return new Set<number>()
+      return held.unlockedScriptIds
     },
-    getTotalScriptCount: () => "unknown",
+    getTotalScriptCount: () => UNKNOWN,
 
-    isTraitResearched: () => "unknown",
-    isCraftingRankBelowCap: () => "unknown",
-    matchesWantedEquipment: () => "unknown",
-    matchesWantedCompanionEquipment: () => "unknown",
-    isCompanionWornSlotFilled: () => "unknown",
-    findCharacterForWantedEquipment: () => "unknown",
-    findCompanionForWantedEquipment: () => "unknown",
-    getCooldownGroup: () => "unknown",
-    isCooldownExpired: () => "unknown",
-    getTransmuteCrystalAmount: () => "unknown",
-    getTransmuteCrystalCap: () => "unknown",
+    isTraitResearched: () => UNKNOWN,
+    isCraftingRankBelowCap: () => UNKNOWN,
+    matchesWantedEquipment: () => UNKNOWN,
+    matchesWantedCompanionEquipment: () => UNKNOWN,
+    isCompanionWornSlotFilled: () => UNKNOWN,
+    findCharacterForWantedEquipment: () => UNKNOWN,
+    findCompanionForWantedEquipment: () => UNKNOWN,
+    getCooldownGroup: () => UNKNOWN,
+    isCooldownExpired: () => UNKNOWN,
+    getTransmuteCrystalAmount: () => UNKNOWN,
+    getTransmuteCrystalCap: () => UNKNOWN,
   }
 }
 
@@ -63,24 +74,25 @@ function knowsItemForChar(
   charId: string,
   itemKey: ItemKey
 ): boolean {
-  const c = charactersById.get(charId)
-  if (c === undefined) return false
+  const held = charactersById.get(charId)
+  if (held === undefined) return false
   switch (itemKey.kind) {
     case "recipe":
-      return c.recipeResultItemIds.has(itemKey.resultItemId)
+      return held.recipeResultItemIds.has(itemKey.resultItemId)
     case "motif": {
       const knownChapters =
-        c.motifKnowledgeByStyle.get(itemKey.styleId) ?? c.motifChaptersByStyle.get(itemKey.styleId)
+        held.motifKnowledgeByStyle.get(itemKey.styleId) ??
+        held.motifChaptersByStyle.get(itemKey.styleId)
       if (knownChapters === undefined) return false
       if (itemKey.chapterId === null) {
-        const styleChapters = styleToChapters(itemKey.styleId)
+        const styleChapters = chaptersOfStyle(itemKey.styleId)
         if (styleChapters === undefined || styleChapters.length === 0) return false
         return knownChapters.size === styleChapters.length
       }
       return knownChapters.has(itemKey.chapterId)
     }
     case "script":
-      return c.unlockedScriptIds.has(itemKey.scriptId)
+      return held.unlockedScriptIds.has(itemKey.scriptId)
     case "consumable":
       return false
     default:

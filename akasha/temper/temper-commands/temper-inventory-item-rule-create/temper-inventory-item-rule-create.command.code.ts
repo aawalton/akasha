@@ -5,7 +5,6 @@ import {
   bulkUpdateItemRules,
 } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { narrowItemAction } from "@tools/lib/temper-inventory/rule-flags-shared"
 import {
   ACTIVE,
   answering,
@@ -23,6 +22,7 @@ import {
   webIn,
   wholeOf,
 } from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import { narrowItemAction } from "../inventory-rule-flags/inventory-rule-flags.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-item-rule-create"
 

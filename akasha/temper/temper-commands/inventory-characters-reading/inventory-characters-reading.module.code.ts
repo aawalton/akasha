@@ -1,7 +1,8 @@
 import { DataError } from "@akasha/errors-core/exit-code"
-import { loreLibraryData, parseMotifBookName } from "./game-code.ts"
-import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+import { LORE_LIBRARY_DATA } from "@akasha/temper-completion/lore-library-data"
+import { parseMotifBookName } from "@akasha/temper-items-core/motif-name-parser"
 import { savedVariablesRootSchema } from "@akasha/temper-saved-variables/account-wide"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { z } from "zod"
 
 export interface CharacterKnowledge {
@@ -12,6 +13,12 @@ export interface CharacterKnowledge {
   readonly motifKnowledgeByStyle: ReadonlyMap<number, ReadonlySet<number>>
   readonly unlockedScriptIds: ReadonlySet<number>
 }
+
+const FILE_NAME = "TemperCharacters.lua"
+
+const VARIABLES_NAME = "TemperCharacters_SavedVariables"
+
+const ACCOUNT_MARK = "@"
 
 const NUMBER_LIST_OR_RECORD_SCHEMA = z.union([
   z.array(z.unknown()),
@@ -56,6 +63,8 @@ const ROOT_SCHEMA = savedVariablesRootSchema(ACCOUNT_WIDE_SCHEMA)
 
 const CRAFTING_MOTIFS_CATEGORY_INDEX = "2"
 
+const CRAFTING_MOTIFS_CATEGORY = 2
+
 function valuesAsNumbers(listOrRecord: unknown): readonly number[] {
   if (Array.isArray(listOrRecord)) {
     const out: number[] = []
@@ -88,9 +97,15 @@ interface ParsedMotifCoord {
   readonly chapterId: number
 }
 
+/**
+ * The addon files a known motif book by where it sits in the lore library —
+ * collection and book index — and says nothing about which style or chapter that
+ * is. The lore table is what carries the names, so it is walked once here to
+ * make the placement readable.
+ */
 const FILE_COORDS_TO_STYLE_CHAPTER: ReadonlyMap<string, ParsedMotifCoord> = (() => {
   const map = new Map<string, ParsedMotifCoord>()
-  const category = loreLibraryData().find((c) => c.categoryIndex === 2)
+  const category = LORE_LIBRARY_DATA.find((one) => one.categoryIndex === CRAFTING_MOTIFS_CATEGORY)
   if (!category) return map
   for (const collection of category.collections) {
     for (const book of collection.books) {
@@ -157,23 +172,22 @@ function collectUnlockedScriptIds(scribing: z.infer<typeof SCRIBING_SCHEMA>): Re
 }
 
 export function parseTemperCharacters(content: string): ReadonlyArray<CharacterKnowledge> {
-  const rawRoot = parseLuaSavedVariablesFile(content, "TemperCharacters_SavedVariables")
+  const rawRoot = parseLuaSavedVariablesFile(content, VARIABLES_NAME)
   const root = ROOT_SCHEMA.parse(rawRoot)
 
   const defaultTable = root.Default
   if (!defaultTable) {
-    throw new DataError("TemperCharacters.lua: missing Default table")
+    throw new DataError(`${FILE_NAME}: missing Default table`)
   }
 
-  const accountKeys = Object.keys(defaultTable).filter((k) => k.startsWith("@"))
+  const accountKeys = Object.keys(defaultTable).filter((one) => one.startsWith(ACCOUNT_MARK))
   if (accountKeys.length === 0) {
-    throw new DataError("TemperCharacters.lua: no @<account> entry under Default")
+    throw new DataError(`${FILE_NAME}: no ${ACCOUNT_MARK}<account> entry under Default`)
   }
 
   let charactersTable: z.infer<typeof CHARACTERS_TABLE_SCHEMA> | undefined
   for (const key of accountKeys) {
-    const account = defaultTable[key]
-    const characters = account?.$AccountWide?.characters
+    const characters = defaultTable[key]?.$AccountWide?.characters
     if (characters && Object.keys(characters).length > 0) {
       charactersTable = characters
       break
@@ -181,7 +195,9 @@ export function parseTemperCharacters(content: string): ReadonlyArray<CharacterK
   }
 
   if (!charactersTable) {
-    throw new DataError("TemperCharacters.lua: no characters under any @<account>/$AccountWide")
+    throw new DataError(
+      `${FILE_NAME}: no characters under any ${ACCOUNT_MARK}<account>/$AccountWide`
+    )
   }
 
   const result: CharacterKnowledge[] = []
@@ -203,14 +219,14 @@ export async function loadTemperCharactersFromPath(
 ): Promise<ReadonlyArray<CharacterKnowledge>> {
   const file = Bun.file(path)
   if (!(await file.exists())) {
-    throw new DataError(`TemperCharacters.lua: file not found at ${path}`)
+    throw new DataError(`${FILE_NAME}: file not found at ${path}`)
   }
   let content: string
   try {
     content = await file.text()
   } catch (err) {
     const reason = err instanceof Error ? err.message : String(err)
-    throw new DataError(`TemperCharacters.lua: failed to read ${path} — ${reason}`)
+    throw new DataError(`${FILE_NAME}: failed to read ${path} — ${reason}`)
   }
   return parseTemperCharacters(content)
 }

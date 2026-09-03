@@ -1,20 +1,28 @@
 import { readFile } from "node:fs/promises"
 import { DataError } from "@akasha/errors-core/exit-code"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
+import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
-import { classifyItemToNodeIds, parseInventoryContent } from "./game-code.ts"
-import { type CharacterKnowledge, loadTemperCharactersFromPath } from "./parse-temper-characters.ts"
+import {
+  type CharacterKnowledge,
+  loadTemperCharactersFromPath,
+} from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   type CompiledInventoryConfig,
   parseTemperInventoryConfig,
-} from "./parse-temper-inventory-config.ts"
+} from "../inventory-config-reading/inventory-config-reading.module.code.ts"
 
 export const DEFAULT_INVENTORY_PATH = savedVarsFile("TemperInventory.lua")
 export const DEFAULT_CHARACTERS_PATH = savedVarsFile("TemperCharacters.lua")
+
+const BANK = "Bank"
+
+const WHOLE_NUMBER = /^\d+$/
 
 export interface InventoryPlanInputs {
   readonly db: InventoryDatabase
@@ -33,7 +41,7 @@ export async function loadInventoryPlanInputs(
   const config = parseTemperInventoryConfig(inventoryContent)
 
   const characters = await loadTemperCharactersFromPath(charactersPath)
-  const charactersById = new Map<string, CharacterKnowledge>(characters.map((c) => [c.id, c]))
+  const charactersById = new Map<string, CharacterKnowledge>(characters.map((one) => [one.id, one]))
 
   const context = buildMatcherContext(config, charactersById, db)
   const classifiedItems = classifyInventoryForMatcher(db)
@@ -108,7 +116,7 @@ function toStringArray(value: unknown): readonly string[] {
     : typeof value === "object" && value !== null
       ? Object.values(value)
       : []
-  return raw.filter((v): v is string => typeof v === "string")
+  return raw.filter((one): one is string => typeof one === "string")
 }
 
 function compileConsumableStock(
@@ -118,7 +126,7 @@ function compileConsumableStock(
   const result = new Map<number, Map<string, number>>()
   if (wantedConsumables.size === 0) return result
   for (const [locationKey, location] of Object.entries(db.locations)) {
-    if (!/^\d+$/.test(locationKey)) continue
+    if (!WHOLE_NUMBER.test(locationKey)) continue
     for (const slots of Object.values(location.bags)) {
       for (const item of Object.values(slots)) {
         if (!wantedConsumables.has(item.itemId)) continue
@@ -136,7 +144,7 @@ function compileConsumableStock(
 
 function compileBankStock(db: InventoryDatabase): Map<number, number> {
   const result = new Map<number, number>()
-  const bank = db.locations["Bank"]
+  const bank = db.locations[BANK]
   if (!bank) return result
   for (const slots of Object.values(bank.bags)) {
     for (const item of Object.values(slots)) {

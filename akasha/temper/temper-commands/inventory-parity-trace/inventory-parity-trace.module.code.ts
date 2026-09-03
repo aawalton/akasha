@@ -4,6 +4,12 @@ import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { z } from "zod"
 
+const FILE_NAME = "TemperInventory.lua"
+
+const VARIABLES_NAME = "TemperInventory_SavedVariables"
+
+const ACCOUNT_MARK = "@"
+
 const SIGNALS_SCHEMA = z
   .object({
     itemType: z.number(),
@@ -83,16 +89,15 @@ const ROOT_SCHEMA = savedVariablesRootSchema(
 )
 
 export function loadParityAddonTraceFromContent(content: string, itemId: number): ParityAddonTrace {
-  const rawRoot = parseLuaSavedVariablesFile(content, "TemperInventory_SavedVariables")
+  const rawRoot = parseLuaSavedVariablesFile(content, VARIABLES_NAME)
   const root = ROOT_SCHEMA.parse(rawRoot)
   const defaultTable = root.Default
   if (!defaultTable) {
-    throw new DataError("TemperInventory.lua: missing Default table")
+    throw new DataError(`${FILE_NAME}: missing Default table`)
   }
   for (const accountKey of Object.keys(defaultTable)) {
-    if (!accountKey.startsWith("@")) continue
-    const account = defaultTable[accountKey]
-    const lastExplainRaw = account?.$AccountWide?.diagnostics?.lastExplain
+    if (!accountKey.startsWith(ACCOUNT_MARK)) continue
+    const lastExplainRaw = defaultTable[accountKey]?.$AccountWide?.diagnostics?.lastExplain
     if (lastExplainRaw === undefined) continue
     const trace = EXPLAIN_TRACE_SCHEMA.parse(lastExplainRaw)
     if (trace.itemId !== itemId) {
@@ -103,6 +108,6 @@ export function loadParityAddonTraceFromContent(content: string, itemId: number)
     return trace
   }
   throw new DataError(
-    `no addon trace for itemId ${itemId}: diagnostics.lastExplain not present in TemperInventory.lua`
+    `no addon trace for itemId ${itemId}: diagnostics.lastExplain not present in ${FILE_NAME}`
   )
 }

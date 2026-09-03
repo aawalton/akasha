@@ -6,6 +6,8 @@ import type {
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { z } from "zod"
 
+const SETTINGS_VERSION = 2
+
 const ITEM_ACTION_SCHEMA = z.enum([
   "nothing",
   "lock",
@@ -56,9 +58,9 @@ const BuyRuleSchema: z.ZodType<BuyRule> = z
   })
   .passthrough()
 
-export const InventoryRuleSettingsSchema: z.ZodType<InventoryRuleSettings> = z
+export const InventoryRuleSettingsShape: z.ZodType<InventoryRuleSettings> = z
   .object({
-    version: z.literal(2),
+    version: z.literal(SETTINGS_VERSION),
     rules: z.array(CategoryRuleSchema).readonly(),
     itemRules: z.array(ItemRuleSchema).readonly().optional(),
     buyRules: z.array(BuyRuleSchema).readonly().optional(),

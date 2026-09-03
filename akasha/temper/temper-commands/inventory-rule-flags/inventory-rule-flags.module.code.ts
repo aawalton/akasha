@@ -1,31 +1,33 @@
 import { InputError } from "@akasha/errors-core/exit-code"
-import type {
-  CategoryRule,
-  DestinationChain,
-  ItemAction,
-  MoveToDestination,
-  StockScope,
+import {
+  type CategoryRule,
+  type DestinationChain,
+  ITEM_ACTION_VALUES,
+  type ItemAction,
+  type MoveToDestination,
+  type StockScope,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { RULE_CONSTANT_KEYS } from "@akasha/temper-items-rules-core/rule-constants"
 import { z } from "zod"
-import { itemActionValues, ruleConstantKeys } from "./game-code.ts"
-
-export { itemActionValues }
 
 export const STOCK_SCOPE_VALUES = ["current-character", "any-character"] as const
 
+export function itemActionValues(): readonly ItemAction[] {
+  return ITEM_ACTION_VALUES
+}
+
 export function narrowItemAction(value: string, flagName: string): ItemAction {
-  const actions = itemActionValues()
-  const found = actions.find((v) => v === value)
+  const found = ITEM_ACTION_VALUES.find((one) => one === value)
   if (found === undefined) {
     throw new InputError(
-      `${flagName}: invalid action '${value}' (expected one of: ${actions.join(", ")})`
+      `${flagName}: invalid action '${value}' (expected one of: ${ITEM_ACTION_VALUES.join(", ")})`
     )
   }
   return found
 }
 
 export function narrowStockScope(value: string, flagName: string): StockScope {
-  const found = STOCK_SCOPE_VALUES.find((v) => v === value)
+  const found = STOCK_SCOPE_VALUES.find((one) => one === value)
   if (found === undefined) {
     throw new InputError(
       `${flagName}: invalid stock scope '${value}' (expected one of: ${STOCK_SCOPE_VALUES.join(", ")})`
@@ -51,7 +53,7 @@ export function parseBooleanFlag(value: string | undefined, flagName: string): b
 
 const COMPARISON_OP_SCHEMA = z.enum(["<", "<=", "=", ">=", ">"])
 
-const RULE_CONSTANT_KEY_SCHEMA = z.lazy(() => z.enum(ruleConstantKeys()))
+const RULE_CONSTANT_KEY_SCHEMA = z.lazy(() => z.enum(RULE_CONSTANT_KEYS))
 const VALUE_THRESHOLD_SCHEMA = z.union([z.number(), RULE_CONSTANT_KEY_SCHEMA])
 
 const CategoryRuleConditionsSchema: z.ZodType<NonNullable<CategoryRule["conditions"]>> = z

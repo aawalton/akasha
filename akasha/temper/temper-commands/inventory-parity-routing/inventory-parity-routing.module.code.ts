@@ -1,16 +1,24 @@
 import type { InventoryItemData } from "@akasha/temper-items-core/inventory-types"
+import {
+  narrowDestination,
+  parseItemAction,
+} from "@akasha/temper-items-rules-core/inventory-destination-parse"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type {
   ItemAction,
   MoveToDestination,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { resolveItemRoute } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-route"
 import type { RouteStep } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
-import { narrowDestination, parseItemAction, resolveItemRoute } from "./game-code.ts"
 
 export interface MatchedRoute {
   readonly action: ItemAction
   readonly destination: MoveToDestination | undefined
 }
+
+const OPERATION_WIDTH = 8
+
+const FIRST_BAG = 1
 
 export function matchedRouteFrom(
   action: string | undefined,
@@ -32,7 +40,7 @@ export function resolveWebRoute(
     item,
     locationKey: sourceCharId,
     locationDisplayName: `Char ${sourceCharId}`,
-    bagId: 1,
+    bagId: FIRST_BAG,
     alreadyAtDestination: false,
   }
   return resolveItemRoute(entry, match.action, match.destination, null)
@@ -40,11 +48,11 @@ export function resolveWebRoute(
 
 export function renderRouteStep(step: RouteStep): string {
   const venue = step.venueDetail !== undefined ? `${step.venue}/${step.venueDetail}` : step.venue
-  return `${step.operation.padEnd(8)} char:${step.characterId}  ${venue}`
+  return `${step.operation.padEnd(OPERATION_WIDTH)} char:${step.characterId}  ${venue}`
 }
 
 function routeSignature(steps: readonly RouteStep[]): string {
-  return steps.map((s) => `${s.operation}@${s.characterId}/${s.venue}`).join(" -> ")
+  return steps.map((one) => `${one.operation}@${one.characterId}/${one.venue}`).join(" -> ")
 }
 
 function isParameterizedDestination(dest: MoveToDestination | undefined): boolean {

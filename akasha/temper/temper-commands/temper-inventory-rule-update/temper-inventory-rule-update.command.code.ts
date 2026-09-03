@@ -1,13 +1,6 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { bulkUpdateCategoryRules } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import {
-  narrowItemAction,
-  narrowMoveToDestination,
-  narrowStockScope,
-  parseConditionsJson,
-  parseDestinationChainJson,
-} from "@tools/lib/temper-inventory/rule-flags-shared"
-import {
   ACTIVE,
   answering,
   FORCE,
@@ -26,6 +19,13 @@ import {
   unfound,
   webIn,
 } from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import {
+  narrowItemAction,
+  narrowMoveToDestination,
+  narrowStockScope,
+  parseConditionsJson,
+  parseDestinationChainJson,
+} from "../inventory-rule-flags/inventory-rule-flags.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-rule-update"
 

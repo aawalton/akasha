@@ -1,7 +1,7 @@
+import * as parityRoutingModule from "@akasha/temper-commands/inventory-parity-routing"
+import * as parityAddonTraceModule from "@akasha/temper-commands/inventory-parity-trace"
 import * as utilsNarrow from "@akasha/utils-narrow/assert-never"
 import type { InventoryItemData } from "./temper-explain-code.ts"
-import * as parityAddonTraceModule from "./temper-inventory/parity-addon-trace.ts"
-import * as parityRoutingModule from "./temper-inventory/parity-routing.ts"
 
 export interface ParityAddonTrace {
   readonly signals: {
@@ -36,10 +36,7 @@ export interface RoutingDiff {
 }
 
 interface AddonTrace {
-  readonly loadParityAddonTraceFromContent: (
-    content: string,
-    itemId: number
-  ) => ParityAddonTrace
+  readonly loadParityAddonTraceFromContent: (content: string, itemId: number) => ParityAddonTrace
 }
 
 interface Routing {

@@ -1,10 +1,10 @@
+import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { AutomationSettingsShape } from "@akasha/temper-inventory-automation/automation-settings-shape"
 import type { AutomationSettings } from "@akasha/temper-inventory-automation/automation-toggles"
+import { createDefaultRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { isJson } from "@akasha/utils-narrow/is-json"
-import { askComposed } from "@akasha/pages-query/store-spelled-asking"
-import { createDefaultRuleSettings } from "./game-code.ts"
-import { InventoryRuleSettingsSchema } from "./rule-settings-schema.ts"
+import { InventoryRuleSettingsShape } from "../inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
@@ -102,7 +102,7 @@ export async function readInventoryRuleSettings(
   if (sliceValue === undefined) {
     return createDefaultRuleSettings()
   }
-  return InventoryRuleSettingsSchema.parse(sliceValue)
+  return InventoryRuleSettingsShape.parse(sliceValue)
 }
 
 export async function writeInventoryRuleSettings(

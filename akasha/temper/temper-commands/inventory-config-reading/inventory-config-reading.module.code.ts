@@ -1,10 +1,10 @@
 import { DataError } from "@akasha/errors-core/exit-code"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
+import { RULE_CONSTANT_KEYS } from "@akasha/temper-items-rules-core/rule-constants"
 import { savedVariablesRootSchema } from "@akasha/temper-saved-variables/account-wide"
 import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { z } from "zod"
-import { ruleConstantKeys } from "./game-code.ts"
 
 export interface CompiledRule {
   readonly id: string
@@ -21,6 +21,12 @@ export interface CompiledInventoryConfig {
   readonly wantedConsumables: Record<string, unknown>
   readonly characterPriority: ReadonlyArray<string>
 }
+
+const FILE_NAME = "TemperInventory.lua"
+
+const VARIABLES_NAME = "TemperInventory_SavedVariables"
+
+const ACCOUNT_MARK = "@"
 
 const ITEM_ACTION_SCHEMA = z.enum([
   "nothing",
@@ -45,7 +51,7 @@ const ITEM_ACTION_SCHEMA = z.enum([
 
 const COMPARISON_OP_SCHEMA = z.enum(["<=", "<", ">=", ">", "=", "!="])
 
-const RULE_CONSTANT_KEY_SCHEMA = z.lazy(() => z.enum(ruleConstantKeys()))
+const RULE_CONSTANT_KEY_SCHEMA = z.lazy(() => z.enum(RULE_CONSTANT_KEYS))
 const VALUE_THRESHOLD_SCHEMA = z.union([z.number(), RULE_CONSTANT_KEY_SCHEMA])
 
 const CHARACTER_SCOPE_SCHEMA: z.ZodType<
@@ -157,24 +163,27 @@ const ACCOUNT_WIDE_SCHEMA = z
 
 const ROOT_SCHEMA = savedVariablesRootSchema(ACCOUNT_WIDE_SCHEMA)
 
+function ruleIdFor(rule: { categoryId?: string }, index: number): string {
+  return `${rule.categoryId ?? "rule"}#${index}`
+}
+
 export function parseTemperInventoryConfig(content: string): CompiledInventoryConfig {
-  const rawRoot = parseLuaSavedVariablesFile(content, "TemperInventory_SavedVariables")
+  const rawRoot = parseLuaSavedVariablesFile(content, VARIABLES_NAME)
   const root = ROOT_SCHEMA.parse(rawRoot)
 
   const defaultTable = root.Default
   if (!defaultTable) {
-    throw new DataError("TemperInventory.lua: missing Default table")
+    throw new DataError(`${FILE_NAME}: missing Default table`)
   }
 
-  const accountKeys = Object.keys(defaultTable).filter((k) => k.startsWith("@"))
+  const accountKeys = Object.keys(defaultTable).filter((one) => one.startsWith(ACCOUNT_MARK))
   if (accountKeys.length === 0) {
-    throw new DataError("TemperInventory.lua: no @<account> entry under Default")
+    throw new DataError(`${FILE_NAME}: no ${ACCOUNT_MARK}<account> entry under Default`)
   }
 
   let compiled: z.infer<typeof COMPILED_BLOCK_SCHEMA> | undefined
   for (const key of accountKeys) {
-    const account = defaultTable[key]
-    const block = account?.$AccountWide?.sellCompiled
+    const block = defaultTable[key]?.$AccountWide?.sellCompiled
     if (block) {
       compiled = block
       break
@@ -183,16 +192,13 @@ export function parseTemperInventoryConfig(content: string): CompiledInventoryCo
 
   if (!compiled) {
     throw new DataError(
-      "TemperInventory.lua: no compiled rule config (sellCompiled) under any @<account>/$AccountWide"
+      `${FILE_NAME}: no compiled rule config (sellCompiled) under any ${ACCOUNT_MARK}<account>/$AccountWide`
     )
   }
 
   const rules: CompiledRule[] = compiled.orderedRules.map((rule, index) => {
     const { id, ...rest } = rule
-    return {
-      ...rest,
-      id: id ?? deriveRuleId(rule, index),
-    }
+    return { ...rest, id: id ?? ruleIdFor(rule, index) }
   })
 
   const orderedRules: ReadonlyArray<CompiledOrderedRule> = compiled.orderedRules.map((rule) => {
@@ -213,19 +219,14 @@ export async function loadTemperInventoryConfigFromPath(
 ): Promise<CompiledInventoryConfig> {
   const file = Bun.file(path)
   if (!(await file.exists())) {
-    throw new DataError(`TemperInventory.lua: file not found at ${path}`)
+    throw new DataError(`${FILE_NAME}: file not found at ${path}`)
   }
   let content: string
   try {
     content = await file.text()
   } catch (err) {
     const reason = err instanceof Error ? err.message : String(err)
-    throw new DataError(`TemperInventory.lua: failed to read ${path} — ${reason}`)
+    throw new DataError(`${FILE_NAME}: failed to read ${path} — ${reason}`)
   }
   return parseTemperInventoryConfig(content)
-}
-
-function deriveRuleId(rule: { categoryId?: string }, index: number): string {
-  const cat = rule.categoryId ?? "rule"
-  return `${cat}#${index}`
 }

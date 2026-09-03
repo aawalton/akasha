@@ -3,7 +3,6 @@ import { USER_ID } from "@akasha/supabase-auth/user-id"
 import { computeItemStock } from "@akasha/temper-items-core/compute-item-stock"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
 import { computeBuyShortfall } from "@akasha/temper-items-rules-core/buy-rule-eval"
-import { latestSnapshot, snapshotDatabase } from "@tools/lib/temper-inventory/snapshot-read"
 import {
   answering,
   JSON_FLAG,
@@ -14,6 +13,10 @@ import {
   toldOf,
   toldRows,
 } from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import {
+  latestSnapshot,
+  snapshotDatabase,
+} from "../inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-buy-rule-list"
 
