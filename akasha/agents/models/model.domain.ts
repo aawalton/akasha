@@ -12,4 +12,10 @@ export const model = {
     "page-type/model-family",
     "page-type/model-test",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A model is a domain whose subject is one trained network.",
+    },
+  ],
 } as const satisfies Domain
