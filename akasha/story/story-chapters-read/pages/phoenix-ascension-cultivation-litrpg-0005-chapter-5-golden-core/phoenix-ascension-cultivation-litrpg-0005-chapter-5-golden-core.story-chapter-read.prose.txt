@@ -190,3 +190,24 @@ What do my skills do?
 
 [Active Skill: Nirvanic Flames(Novice)]
 
+[The Flames of Nirvana, the strongest fire that ever burned amongst the Nine Realms, is at your beck and call. It can be used indefinitely as long as your Qi reserves are enough, and it is as flexible as a thread. You can will it to become whatever you want. The strength of the skill depends on your INT, STR, and target resistance.]
+
+[Active Skill: Iron Claws(Novice)]
+
+[Sharpen and solidify your claws to become stronger than steel. The strength of the skill depends on STR and target resistance.]
+
+[Active Skill: Peck(Novice)]
+
+[Pecks at a target with pinpoint accuracy. The strength, speed and accuracy of the skill depends on STR and DEX.]
+
+[Passive Skill: Evasion(Novice)]
+
+[Evades blows with increased chance of success. Effectiveness depends on DEX.]
+
+[Bloodline Skill: Phoenix Fire(Novice)]
+
+[The instinctual fire of any Phoenix, the strongest, most versatile fire in all of the Tianxu Continent, is at your beck and call. As a bloodline skill, it will continuously grow and evolve alongside you. The strength of the skill depends on your INT, STR, and target resistance.]
+
+The fact that it explained even what stat the skill used was very helpful. Although it took me a moment to figure out what the abbreviations meant, I now had a better idea of how they worked. However, the weird text’s boundless knowledge made me question its origin even more than before.
+
+What is your purpose?
