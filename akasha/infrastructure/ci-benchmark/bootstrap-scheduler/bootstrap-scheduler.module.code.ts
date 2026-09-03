@@ -1,5 +1,5 @@
-import { requireGet } from "../narrow.ts"
-import type { StepNode, StepStatus } from "./dsl.ts"
+import { requireGet } from "@tools/lib/narrow"
+import type { StepNode, StepStatus } from "../bootstrap-dsl/bootstrap-dsl.module.code.ts"
 
 export function getDispatchableSteps(
   nodes: readonly StepNode[],

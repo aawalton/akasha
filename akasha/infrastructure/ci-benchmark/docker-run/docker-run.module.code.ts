@@ -10,11 +10,14 @@ import {
   ensureBuildkitPortForward,
   ensureRegistryPortForward,
   LOCAL_REGISTRY,
-} from "./cluster-access.ts"
-import { containerRuntime } from "./container-runtime.ts"
-import { localCacheDir } from "./local-cache.ts"
-import { streamProcessOutput } from "./tee.ts"
-import type { PipelineContext, StepConfig } from "./types.ts"
+} from "../cluster-access/cluster-access.module.code.ts"
+import { containerRuntime } from "../container-runtime/container-runtime.module.code.ts"
+import { localCacheDir } from "../local-cache/local-cache.module.code.ts"
+import type {
+  PipelineContext,
+  StepConfig,
+} from "../local-step-types/local-step-types.module.code.ts"
+import { streamProcessOutput } from "../output-tee/output-tee.module.code.ts"
 
 export interface DockerRunResult {
   exitCode: number

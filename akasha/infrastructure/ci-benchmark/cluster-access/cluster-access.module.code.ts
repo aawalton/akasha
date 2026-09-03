@@ -1,6 +1,6 @@
 import { createConnection } from "node:net"
 import { z } from "zod"
-import { buildkitPort } from "./buildkit-port.ts"
+import { buildkitPort } from "../buildkit-port/buildkit-port.module.code.ts"
 
 export const LOCAL_REGISTRY = "127.0.0.1:5000"
 

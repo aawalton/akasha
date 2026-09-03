@@ -21,7 +21,8 @@ const INSTALL_TIMEOUT_SECONDS = 600
 
 const DEPENDENCIES_PROBE = "tools/lib/instructions-tree/dependencies.ts"
 
-const RUNNER_PATH = "tools/lib/benchmark/run.ts"
+const RUNNER_PATH =
+  "akasha/infrastructure/ci-benchmark/benchmark-running/benchmark-running.module.code.ts"
 
 function storeMountPath(home: string): string {
   return `${home}/.cache/pipeline-engine/ci-storage`

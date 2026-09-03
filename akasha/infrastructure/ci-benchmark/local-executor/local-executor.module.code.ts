@@ -9,10 +9,14 @@ import {
   DIRECT_REGISTRY_HOST,
   DIRECT_REGISTRY_PORT,
   isPortOpen,
-} from "./cluster-access.ts"
-import { executeStepOnce } from "./execute-step.ts"
-import { pruneLocalLogs, streamProcessOutput } from "./tee.ts"
-import type { PipelineContext, StepConfig, StepResult } from "./types.ts"
+} from "../cluster-access/cluster-access.module.code.ts"
+import { executeStepOnce } from "../local-step-execution/local-step-execution.module.code.ts"
+import type {
+  PipelineContext,
+  StepConfig,
+  StepResult,
+} from "../local-step-types/local-step-types.module.code.ts"
+import { pruneLocalLogs, streamProcessOutput } from "../output-tee/output-tee.module.code.ts"
 
 export interface LocalExecutor {
   workspaceMountPath: () => string

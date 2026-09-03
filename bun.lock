@@ -962,6 +962,12 @@
     },
     "akasha/infrastructure/ci-benchmark": {
       "name": "@akasha/ci-benchmark",
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+        "@akasha/workflow-language": "workspace:*",
+        "@tools/lib": "workspace:*",
+        "zod": "^4.3.6",
+      },
     },
     "akasha/infrastructure/ci-containers": {
       "name": "@akasha/ci-containers",

@@ -1,6 +1,6 @@
 import type { CIContext, Step } from "@akasha/workflow-language/workflow-types"
-import { isBunNative } from "../local-executor/execute-step.ts"
-import type { StepConfig } from "../local-executor/types.ts"
+import { isBunNative } from "../local-step-execution/local-step-execution.module.code.ts"
+import type { StepConfig } from "../local-step-types/local-step-types.module.code.ts"
 
 export type StepStatus = "pending" | "running" | "completed" | "failed" | "skipped"
 

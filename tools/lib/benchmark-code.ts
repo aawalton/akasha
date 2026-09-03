@@ -2,9 +2,8 @@ import {
   buildToolchainProvisionScript,
   buildToolchainVerifyScript,
 } from "@akasha/ci-benchmark/benchmark-provision"
-
-import * as reportTypesHere from "./benchmark/report-types.ts"
-import * as runCoreHere from "./benchmark/run-core.ts"
+import * as runCoreHere from "@akasha/ci-benchmark/benchmark-report-assembly"
+import * as reportTypesHere from "@akasha/ci-benchmark/benchmark-report-types"
 
 export type BenchmarkPhase = "cold-stage" | "warm-prep" | "check"
 

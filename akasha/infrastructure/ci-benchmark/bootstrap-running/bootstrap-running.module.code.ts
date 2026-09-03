@@ -8,16 +8,20 @@ import {
 } from "@akasha/workflow-language/ci-identifiers"
 import { computeInputsHash } from "@akasha/workflow-language/inputs-hash"
 import type { CIContext, Workflow } from "@akasha/workflow-language/workflow-types"
-import type { LocalExecutor } from "../local-executor/executor.ts"
-import type { PipelineContext } from "../local-executor/types.ts"
-import { requireGet } from "../narrow.ts"
-import { dslStepToConfig, dslStepToNode, type StepStatus } from "./dsl.ts"
+import { requireGet } from "@tools/lib/narrow"
+import {
+  dslStepToConfig,
+  dslStepToNode,
+  type StepStatus,
+} from "../bootstrap-dsl/bootstrap-dsl.module.code.ts"
 import {
   evaluateWhenCondition,
   getDispatchableSteps,
   isWorkflowComplete,
   propagateFailure,
-} from "./scheduler.ts"
+} from "../bootstrap-scheduler/bootstrap-scheduler.module.code.ts"
+import type { LocalExecutor } from "../local-executor/local-executor.module.code.ts"
+import type { PipelineContext } from "../local-step-types/local-step-types.module.code.ts"
 
 export interface RunWorkflowOpts {
   workflowName: string

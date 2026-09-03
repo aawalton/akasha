@@ -1,4 +1,4 @@
-import type { StepConfig } from "./types.ts"
+import type { StepConfig } from "../local-step-types/local-step-types.module.code.ts"
 
 export function buildOutputBlock(step: StepConfig): string {
   const depNames = step.dependsOn ?? []

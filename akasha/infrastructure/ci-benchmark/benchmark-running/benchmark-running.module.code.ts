@@ -1,16 +1,12 @@
 import type { Step, Workflow } from "@akasha/workflow-language/workflow-types"
+import { discoverWorkflows } from "@tools/lib/workflow-dsl/discovery"
 import { z } from "zod"
-import { runWorkflow } from "../bootstrap-workflow/index.ts"
-import { LocalExecutor } from "../local-executor/executor"
-import type { PipelineContext, StepConfig } from "../local-executor/types"
-import { discoverWorkflows } from "../workflow-dsl/discovery.ts"
 import {
   COLD_STAGE_STEP_NAMES,
   type PhaseSelection,
   selectPhaseSteps,
   WARM_PREP_STEP_NAMES,
-} from "./phases.ts"
-import { type BenchmarkPhase, type StepTiming, StoreVariantSchema } from "./report-types.ts"
+} from "../benchmark-phases/benchmark-phases.module.code.ts"
 import {
   assembleInnerReport,
   BENCHMARK_REPORT_SENTINEL,
@@ -18,7 +14,18 @@ import {
   computeBenchmarkExit,
   createSemaphore,
   phaseRepoRoot,
-} from "./run-core.ts"
+} from "../benchmark-report-assembly/benchmark-report-assembly.module.code.ts"
+import {
+  type BenchmarkPhase,
+  type StepTiming,
+  StoreVariantSchema,
+} from "../benchmark-report-types/benchmark-report-types.module.code.ts"
+import { runWorkflow } from "../bootstrap-running/bootstrap-running.module.code.ts"
+import { LocalExecutor } from "../local-executor/local-executor.module.code.ts"
+import type {
+  PipelineContext,
+  StepConfig,
+} from "../local-step-types/local-step-types.module.code.ts"
 
 const PRELUDE_DIR = "/prelude"
 

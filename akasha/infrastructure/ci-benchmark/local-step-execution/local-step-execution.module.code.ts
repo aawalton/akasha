@@ -7,14 +7,18 @@ import {
   DIRECT_REGISTRY_PORT,
   ensureRegistryPortForward,
   LOCAL_REGISTRY,
-} from "./cluster-access.ts"
-import { containerRuntime } from "./container-runtime.ts"
-import { runDockerStep } from "./docker-run.ts"
-import { localCacheDir } from "./local-cache.ts"
-import { buildOutputBlock } from "./output-block.ts"
-import { resolveStepEnv } from "./secrets.ts"
-import { resolveLogPath, streamProcessOutput } from "./tee.ts"
-import type { PipelineContext, StepConfig, StepResult } from "./types.ts"
+} from "../cluster-access/cluster-access.module.code.ts"
+import { containerRuntime } from "../container-runtime/container-runtime.module.code.ts"
+import { runDockerStep } from "../docker-run/docker-run.module.code.ts"
+import { localCacheDir } from "../local-cache/local-cache.module.code.ts"
+import type {
+  PipelineContext,
+  StepConfig,
+  StepResult,
+} from "../local-step-types/local-step-types.module.code.ts"
+import { buildOutputBlock } from "../output-block/output-block.module.code.ts"
+import { resolveLogPath, streamProcessOutput } from "../output-tee/output-tee.module.code.ts"
+import { resolveStepEnv } from "../step-secrets/step-secrets.module.code.ts"
 
 const PRIVATE_REGISTRY_PREFIX = `${REGISTRY}/`
 

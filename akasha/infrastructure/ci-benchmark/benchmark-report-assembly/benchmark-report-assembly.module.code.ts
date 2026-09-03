@@ -1,4 +1,9 @@
-import type { BenchmarkPhase, InnerReport, StepTiming, StoreVariant } from "./report-types.ts"
+import type {
+  BenchmarkPhase,
+  InnerReport,
+  StepTiming,
+  StoreVariant,
+} from "../benchmark-report-types/benchmark-report-types.module.code.ts"
 
 export const BENCHMARK_STEP_CONCURRENCY = 4
 

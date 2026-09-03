@@ -1,5 +1,5 @@
 import { z } from "zod"
-import type { SecretRef } from "./types.ts"
+import type { SecretRef } from "../local-step-types/local-step-types.module.code.ts"
 
 const SopsPayloadSchema = z.record(z.string(), z.string())
 

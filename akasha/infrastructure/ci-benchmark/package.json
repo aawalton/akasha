@@ -4,6 +4,30 @@
   "type": "module",
   "exports": {
     "./benchmark-provision": "./benchmark-provision/benchmark-provision.module.code.ts",
+    "./benchmark-phases": "./benchmark-phases/benchmark-phases.module.code.ts",
+    "./benchmark-report-assembly": "./benchmark-report-assembly/benchmark-report-assembly.module.code.ts",
+    "./benchmark-report-types": "./benchmark-report-types/benchmark-report-types.module.code.ts",
+    "./benchmark-running": "./benchmark-running/benchmark-running.module.code.ts",
+    "./bootstrap-dsl": "./bootstrap-dsl/bootstrap-dsl.module.code.ts",
+    "./bootstrap-running": "./bootstrap-running/bootstrap-running.module.code.ts",
+    "./bootstrap-scheduler": "./bootstrap-scheduler/bootstrap-scheduler.module.code.ts",
+    "./buildkit-port": "./buildkit-port/buildkit-port.module.code.ts",
+    "./cluster-access": "./cluster-access/cluster-access.module.code.ts",
+    "./container-runtime": "./container-runtime/container-runtime.module.code.ts",
+    "./docker-run": "./docker-run/docker-run.module.code.ts",
+    "./local-cache": "./local-cache/local-cache.module.code.ts",
+    "./local-executor": "./local-executor/local-executor.module.code.ts",
+    "./local-step-execution": "./local-step-execution/local-step-execution.module.code.ts",
+    "./local-step-types": "./local-step-types/local-step-types.module.code.ts",
+    "./output-block": "./output-block/output-block.module.code.ts",
+    "./output-tee": "./output-tee/output-tee.module.code.ts",
+    "./step-secrets": "./step-secrets/step-secrets.module.code.ts",
     "./toolchain-manifest": "./toolchain-manifest/toolchain-manifest.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/workflow-language": "workspace:*",
+    "@tools/lib": "workspace:*",
+    "zod": "^4.3.6"
   }
 }
