@@ -76,7 +76,7 @@ export function akashaRoot(): string {
 // cannot be read, so it is refused. A root whose index stands but names no such seat is an answer:
 // that seat really is not there. This is the `Answer Or Refuse` directive the pages system states,
 // and the difference between this failing loudly and failing the way the sweep did.
-function seatsStandingInAkasha(): ReadonlyMap<string, string> {
+function seatsThatExistInAkasha(): ReadonlyMap<string, string> {
   return onceInCall("akasha-seat-path-by-id", () => {
     const root = akashaRoot()
     const found = new Map<string, string>()
@@ -92,7 +92,7 @@ function seatsStandingInAkasha(): ReadonlyMap<string, string> {
 // stands but holds no such seat.
 export function akashaSeatPathForAgent(agentId: string): string | null {
   if (agentId === "") return null
-  const held = seatsStandingInAkasha().get(agentId)
+  const held = seatsThatExistInAkasha().get(agentId)
   if (held !== undefined) return held
   // The index answers by id across every page type, so a hit is checked to be a seat rather than
   // trusted for its id alone.
@@ -117,7 +117,7 @@ export function akashaSeatSlugOf(agentId: string): string | null {
 // has to list them from both systems, or a seat that stands only in akasha is not there at all.
 export function akashaSeatsThatExist(): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
-  for (const [id, path] of seatsStandingInAkasha()) {
+  for (const [id, path] of seatsThatExistInAkasha()) {
     const name = path.slice(SEAT_DIR.length)
     if (name.endsWith(SEAT_SUFFIX)) found.set(id, name.slice(0, -SEAT_SUFFIX.length))
   }
@@ -127,7 +127,7 @@ export function akashaSeatsThatExist(): ReadonlyMap<string, string> {
 // The agent standing in the seat of this name, or null where akasha holds no such seat.
 export function akashaSeatIdForName(name: string): string | null {
   const at = `${SEAT_DIR}${name}${SEAT_SUFFIX}`
-  for (const [id, path] of seatsStandingInAkasha()) if (path === at) return id
+  for (const [id, path] of seatsThatExistInAkasha()) if (path === at) return id
   return null
 }
 

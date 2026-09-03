@@ -13,10 +13,10 @@ Every supervisor keeps a directory named for its agent, holding its \`oauth-prox
 log files it falls back to when a log day page cannot be written. Nothing has ever taken one away,
 so the directory holds one per agent that has ever run here. This is what takes them away.
 
-A DIRECTORY IS KEPT FOR A REASON, NEVER FOR AN AGE ALONE. One is kept where a standing seat page
-names its agent, or where a file in it was written inside the keep window. A supervisor whose seat
-page has gone is a supervisor that has stopped, and that is the signal this sweeps on; the window is
-what leaves a stopped seat's log readable for as long as somebody might open it.
+A DIRECTORY IS KEPT FOR A REASON, NEVER FOR AN AGE ALONE. One is kept where a seat page that still
+exists names its agent, or where a file in it was written inside the keep window. A supervisor whose
+seat page has gone is a supervisor that has stopped, and that is the signal this sweeps on; the
+window is what leaves a stopped seat's log readable for as long as somebody might open it.
 
 THE WINDOW IS FOR READING, NOT FOR SAFETY. No code here reads a departed supervisor's directory,
 so the window buys a person time to look, and nothing else. Shortening it strands no caller.
@@ -51,7 +51,7 @@ export interface DirFacts {
 }
 
 export type Verdict =
-  | { readonly kind: "seat-standing" }
+  | { readonly kind: "seat-exists" }
   | { readonly kind: "inside-window" }
   | { readonly kind: "departed" }
 
@@ -63,16 +63,16 @@ export interface KeepInput {
 
 export function decideDir(input: KeepInput): Verdict {
   const { facts, seatAgentIds, cutoff } = input
-  if (seatAgentIds.has(facts.name)) return { kind: "seat-standing" }
+  if (seatAgentIds.has(facts.name)) return { kind: "seat-exists" }
   if (facts.newest >= cutoff) return { kind: "inside-window" }
   return { kind: "departed" }
 }
 
-// WHOSE SEAT STILL STANDS, ASKED OF AKASHA. This opened every file in the old seat directory for
+// WHOSE SEAT STILL EXISTS, ASKED OF AKASHA. This opened every file in the old seat directory for
 // the id its frontmatter states, and a supervisor's log directory is taken away when its id is
 // absent from what this answers. So a store that has stopped being written reads here as every
 // seat having departed at once, and the sweep would take the whole fleet's logs.
-export function standingSeatAgentIds(): ReadonlySet<string> {
+export function seatAgentIdsThatExist(): ReadonlySet<string> {
   return new Set(akashaSeatsThatExist().keys())
 }
 
@@ -129,7 +129,7 @@ function main(argv: readonly string[]): number {
     return 0
   }
 
-  const seatAgentIds = standingSeatAgentIds()
+  const seatAgentIds = seatAgentIdsThatExist()
   const cutoff = Date.now() - keepDays * DAY_MS
 
   const departed: DirFacts[] = []
