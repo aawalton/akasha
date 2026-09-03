@@ -26,6 +26,13 @@
 // group, so Alan sees six rings with the gap showing in one of them. Only a run that kept nothing
 // exits 2.
 //
+// A source that could not be read is named on stderr with the reason it gave, because the tile it
+// feeds is left standing on the number taken before and nothing downstream can tell that from a
+// reading taken now. The exit code is not what carries this: a run that kept five of six has done
+// what it could, so it still exits 0, and the naming is what makes the sixth visible. A day that
+// nobody has opened yet is not named here — that is an absent reading rather than an unreachable
+// source, and it is what a dark tile is for.
+//
 // Wisdom and intelligence take no reading yet. Nothing writes `wisdom-words` or
 // `intelligence-words` onto a day, so each is no reading rather than a zero, and the tile is dark.
 // That is true, and it is what Alan asked for: points are counted forward from the day an
@@ -84,7 +91,14 @@ export const NOTHING_TO_TAKE =
   "no attribute could be read, so there is no reading to take. A tile showing no signal is right " +
   "where a tile showing points Alan did not earn would be a lie."
 
-export type Taken = Readonly<Record<string, number>>
+export type Taken = {
+  readonly kept: Readonly<Record<string, number>>
+  readonly unread: readonly string[]
+}
+
+function whyOf(thrown: unknown): string {
+  return thrown instanceof Error ? thrown.message : String(thrown)
+}
 
 async function trackedDay(day: string): Promise<Readonly<Record<string, unknown>> | null> {
   const asked = await askDayByDate(day)
@@ -133,17 +147,25 @@ function constitutionOf(now: Date): Promise<number> {
 }
 
 /**
- * Every attribute this run could read, keyed by the page each reading was kept beside.
+ * Every attribute this run could read, keyed by the page each reading was kept beside, beside
+ * every readout a source refused it and why.
  *
  * A source that throws leaves its own readouts out and lets the rest through, since one
- * unreachable source is no reason to drop the attributes that answered.
+ * unreachable source is no reason to drop the attributes that answered. What it does not do is
+ * pass silently: the readouts that source fed are named in `unread`, because the points standing
+ * beside them are the ones taken before.
  */
 export async function takeReadings(root: string, now: Date = new Date()): Promise<Taken> {
   const kept: Record<string, number> = {}
+  const unread: string[] = []
   const keep = (page: string, value: number | null): undefined => {
     if (value === null) return undefined
     keepReading(root, page, value, now)
     kept[page] = value
+    return undefined
+  }
+  const wanting = (pages: readonly string[], why: string): undefined => {
+    for (const page of pages) unread.push(`${page} — ${why}`)
     return undefined
   }
 
@@ -153,8 +175,14 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
   ])
 
   if (constitution.status === "fulfilled") keep(CONSTITUTION_PAGE, constitution.value)
+  else wanting([CONSTITUTION_PAGE], whyOf(constitution.reason))
 
-  if (day.status === "fulfilled" && day.value !== null) {
+  if (day.status === "rejected") {
+    wanting(
+      [STRENGTH_PAGE, ENDURANCE_PAGE, WISDOM_PAGE, INTELLIGENCE_PAGE, CHARISMA_PAGE],
+      whyOf(day.reason)
+    )
+  } else if (day.value !== null) {
     const values = day.value
     keep(STRENGTH_PAGE, strengthIn(values))
     keep(ENDURANCE_PAGE, enduranceIn(values))
@@ -163,16 +191,18 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
 
     const [charisma] = await Promise.allSettled([charismaOf(values)])
     if (charisma.status === "fulfilled") keep(CHARISMA_PAGE, charisma.value)
+    else wanting([CHARISMA_PAGE], whyOf(charisma.reason))
   }
 
-  return kept
+  return { kept, unread }
 }
 
 if (import.meta.main) {
   const root = process.env.AKASHA_ROOT ?? process.cwd()
   try {
-    const kept = await takeReadings(root)
-    const pages = Object.keys(kept)
+    const taken = await takeReadings(root)
+    for (const one of taken.unread) process.stderr.write(`${one}\n`)
+    const pages = Object.keys(taken.kept)
     if (pages.length === 0) {
       process.stderr.write(`${NOTHING_TO_TAKE}\n`)
       process.exit(2)
