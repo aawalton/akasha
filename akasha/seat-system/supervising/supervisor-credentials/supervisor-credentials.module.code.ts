@@ -15,9 +15,9 @@ import {
   type SupervisorOAuthProxyHandle,
   spawnOrAdoptOAuthProxy,
 } from "@tools/lib/supervisor-spawn-oauth-proxy"
-import { writePacingSnapshot } from "@tools/lib/supervisor-usage-snapshot"
 import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 import { guardTick } from "../supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+import { writePacingSnapshot } from "../supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 
 export async function runCredentialPullTick(args: {
   account: string
