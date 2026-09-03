@@ -14,6 +14,7 @@ export type Naming = {
   readonly pageTypeSlug: string
   readonly slug: string
   readonly values: Value
+  readonly merge?: boolean
 }
 
 export type Put = {
@@ -110,17 +111,18 @@ export function composedFor(root: string, named: Naming): Composed {
   }
   const beside = held === undefined && besideItsPage(root, carried)
   const at = held ?? pathFor(typeAt, plural ?? "", named.pageTypeSlug, named.slug, beside)
+  const was = held === undefined ? null : valueAt(held, root)
+  const already: Value = named.merge === true && was !== null ? was : {}
   const outside: Value = {}
   const inside: Value = {}
   for (const one of carried) {
-    if (!(one.key in named.values)) continue
-    if (one.uncommitted) outside[one.key] = named.values[one.key]
-    else inside[one.key] = named.values[one.key]
+    const stated = one.key in named.values
+    if (!stated && !(one.key in already)) continue
+    const value = stated ? named.values[one.key] : already[one.key]
+    if (one.uncommitted) outside[one.key] = value
+    else inside[one.key] = value
   }
-  if (held !== undefined && inside[ID] === undefined) {
-    const was = valueAt(held, root)?.[ID]
-    if (was !== undefined) inside[ID] = was
-  }
+  if (inside[ID] === undefined && was?.[ID] !== undefined) inside[ID] = was[ID]
   const content = bodyOf({
     pageTypeSlug: named.pageTypeSlug,
     slug: named.slug,

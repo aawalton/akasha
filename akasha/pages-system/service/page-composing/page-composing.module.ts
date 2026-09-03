@@ -93,6 +93,22 @@ export const pageComposing = {
       statement: "A page the index already holds keeps the identity the page has.",
     },
     {
+      invariantKind: "departure",
+      statement: "A caller may write its values over the values the page already carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the caller does not name is kept from the page rather than dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value held in a file beside the page is kept as the extension the page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A merge into a page the index does not hold composes that page as a new one.",
+    },
+    {
       invariantKind: "absence",
       statement: "A caller states no identity for a page being created.",
     },

@@ -181,3 +181,72 @@ test("a slug the name above it does not open is the folder whole", () => {
   expect(folderFor("seats", "seat", "one")).toBe("one")
   expect(folderFor("seats", "seat", "seat-")).toBe("seat-")
 })
+
+const A_HELD_DAY = "wake-day-2026-03-06"
+
+const A_HELD_DAY_AT =
+  "akasha/alan/tracking/daily/wake-days/pages/2026-03-06/wake-day-2026-03-06.wake-day.ts"
+
+test("a merge keeps every key the caller does not name", () => {
+  const said = foldedFor(ROOT, [
+    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { title: "a new title" }, merge: true },
+  ])
+  const content = "puts" in said ? said.puts[0]?.content : ""
+  expect(content).toContain('title: "a new title"')
+  expect(content).toContain('date: "2026-03-06"')
+  expect(content).toContain("spannedFromDayBoundary: true")
+  expect(content).toContain('slug: "wake-day-2026-03-06"')
+  expect(content).toContain('pageTypeSlug: "wake-day"')
+  expect(content).toContain("01a060ba-f203-7ab9-b6f4-796574aad5cd")
+})
+
+test("a merge keeps a value held in a file beside the page as the extension it states", () => {
+  const said = foldedFor(ROOT, [
+    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { title: "a new title" }, merge: true },
+  ])
+  expect("puts" in said && said.puts[0]?.content).toContain('completedTasks: "jsonl"')
+})
+
+test("a write that does not merge keeps only the keys the caller names", () => {
+  const said = foldedFor(ROOT, [
+    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { title: "a new title" } },
+  ])
+  const content = "puts" in said ? said.puts[0]?.content : ""
+  expect(content).toContain('title: "a new title"')
+  expect(content).not.toContain("spannedFromDayBoundary")
+  expect(content).not.toContain("completedTasks")
+})
+
+test("a merge naming nothing composes the body the page already carries", async () => {
+  const said = foldedFor(ROOT, [
+    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: {}, merge: true },
+  ])
+  const onDisk = await Bun.file(join(ROOT, A_HELD_DAY_AT)).text()
+  expect("puts" in said && said.puts[0]?.content).toBe(onDisk)
+})
+
+test("a merge keeps a value held outside the commit beside the page rather than in it", () => {
+  const said = foldedFor(ROOT, [
+    { pageTypeSlug: "idle-game", slug: "idle", values: { lastViewedAt: AN_INSTANT }, merge: true },
+  ])
+  const content = "puts" in said ? said.puts[0]?.content : ""
+  expect(content).toContain('gameEngine: "idle"')
+  expect(content).toContain('unitSlug: "moments"')
+  expect(content).not.toContain("lastViewedAt")
+  expect("kept" in said && said.kept[0]?.values.lastViewedAt).toBe(AN_INSTANT)
+})
+
+test("a merge into a page the index does not hold composes that page as a new one", () => {
+  const said = foldedFor(ROOT, [{ ...DEFINER, slug: "held-one", merge: true }])
+  expect("puts" in said && said.puts[0]?.path).toBe(
+    "akasha/role-system/roles/pages/held-one.role.ts"
+  )
+  expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
+})
+
+test("a merge is refused for a key the page type declares no property for", () => {
+  const said = foldedFor(ROOT, [
+    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { nowhere: "one" }, merge: true },
+  ])
+  expect("refused" in said && said.refused).toContain("nowhere")
+})

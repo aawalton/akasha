@@ -384,3 +384,49 @@ test("a write carrying no page is handed on as it arrived", () => {
   const asked = { writer: "Amy <amy@alanwalton.com>", message: "a message" }
   expect(foldedInto(asked, [], [])).toBe(asked)
 })
+
+test("a page a write carries may say whether it merges", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {}, merge: true }],
+  })
+  expect("pages" in read && read.pages[0]?.merge).toBe(true)
+})
+
+test("a page saying it merges as neither true nor false is refused", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {}, merge: "yes" }],
+  })
+  expect("refused" in read && read.refused).toContain("merge")
+})
+
+test("a page saying nothing about merging carries no merge", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {} }],
+  })
+  expect("pages" in read && read.pages[0]?.merge).toBeUndefined()
+})
+
+test("a page a write carries merging is composed over what the page already carries", async () => {
+  await answering(
+    GIVEN,
+    writing({
+      pages: [
+        {
+          pageTypeSlug: "idle-game",
+          slug: "idle",
+          values: { favoritedAt: AN_INSTANT },
+          merge: true,
+        },
+      ],
+    })
+  )
+  const told = TOLD[TOLD.length - 1]
+  expect(told?.puts?.[0]?.content).toContain('gameEngine: "idle"')
+  expect(told?.puts?.[0]?.content).toContain('unitSlug: "moments"')
+})

@@ -94,6 +94,10 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A page a write carries may say whether it merges.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page a write carries states nothing more.",
     },
     {

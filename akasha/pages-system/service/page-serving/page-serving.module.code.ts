@@ -191,7 +191,19 @@ function namingsIn(given: unknown): readonly Naming[] | string {
     if (typeof page.slug !== "string") return "a page names itself as `slug`"
     const values = objectIn(page.values)
     if (values === null) return "a page hands over its `values` as a JSON object"
-    pages.push({ pageTypeSlug: page.pageTypeSlug, slug: page.slug, values })
+    const naming: {
+      pageTypeSlug: string
+      slug: string
+      values: Record<string, unknown>
+      merge?: boolean
+    } = { pageTypeSlug: page.pageTypeSlug, slug: page.slug, values }
+    if (page.merge !== undefined) {
+      if (typeof page.merge !== "boolean") {
+        return "a page says whether it merges as `merge`, written as true or false"
+      }
+      naming.merge = page.merge
+    }
+    pages.push(naming)
   }
   return pages
 }
