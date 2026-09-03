@@ -1,0 +1,264 @@
+Particle Magic is now a part of the Script
+
+Details to follow for concerned parties...
+
+Erick bolted upright, launching himself out of bed. More boxes came through.
+
+You have been granted the ability to purchase Condense Particle.
+
+You have been granted 1 extra point.
+
+One point has been automatically deducted in order to purchase Condense Particle.
+
+Here is your new spell:
+
+Condense Particle 1, instant, close range, 25 mana
+
+Collect loose particles of a chosen type into a small area. Lasts 1 minute.
+
+In most cases, Particle Magic now has a variant of the Physical Damage descriptor, instead of <damage>.
+
+In most cases, Particle Spells have been finalized, based on what they were already capable of doing.
+
+For almost all cases, and just how the same is true for all other magic, there is a [Ward] spell that will negate a Particle Spell, but it will not be as easy to negate Particle Magic as it has been. This was always a temporary solution. A more permanent solution has been found. Standard Absorption Wards will now work against Particle Magic with the Physical Damage descriptor exactly how they would work against all other physically substantive magic.
+
+Particle Magic will now combine with other magics. Errors will no longer occur in such cases, but the resulting magics might not manifest in expected ways.
+
+In most cases, the necessary language required to facilitate a true understanding of various Particle Spells inside of their blue box is woefully inadequate. Thus, prolific vagueness will continue to exist in all Particle Magic boxes.
+
+Many texts have been updated.
+
+You may, and are encouraged to, continue to invent more Particle Spells that lie outside of the Condense Particle spell line, but any such spells will be similar to Teleport Familiar or Duplicate, and will lie outside of the Open Script.
+
+All currently invented Particle Spells also lay somewhere in the Condense Particle spell line. Experiment to find out where they lay!
+
+In most cases, the spells under Condense Particle’s Open Access are minuscule versions of what is possible to make through one’s own power; as it has always been.
+
+There will be no delay for many of your spells entering the Script. You still had some months for many of them, but that was an untenable solution. All of your spells are now a part of the Script. Yes, even your latest one, Control Weather. It was easier to work them all into the Script right now, instead of waiting a year. All of your major spells are still Particle Mage Only.
+
+Many Class Abilities of Particle Mage that influence the Particle Spells of others have been eliminated. It is only through the practical, physical knowledge of particles that two Particle Mages, or other types of mages, will be able to influence the particle spells of another.
+
+A few Class Abilities have been added to base Particle Mage. It is possible for mortals to add more Abilities to this Class. Seek out the Orrery if you wish to learn more.
+
+All words stated here are for your benefit. Others will not receive the same notification.
+
+Thanks for all your hard work, Erick.
+
+~Rozeta
+
+Erick read, reread, then checked his Status, looking over every single one of his Particle Spells. He saw the changes right away. Almost every single angle bracket was gone; his spells were now finalized.
+
+And then he put all of those away and strode out into the living room, thinking.
+
+It was time to start the day. To make breakfast, and such.
+
+But…
+
+What was going to happen? Erick sat down in the living room, waiting for something to happen. As the sun rose higher and dawn turned to early day, he was still waiting, and still thinking.
+
+Poi spoke up behind him, “Sir?”
+
+Erick turned, and smiled. “Sorry. Did I wake you with my thinking?”
+
+“Yes.” Poi frowned a little. “That’s some announcement.”
+
+Erick got up and went to the kitchen, saying, “Yup! So what do you want for breakfast?”
+
+“I’ll make breakfast, today, sir. I’m sure something big is going to happen any minute now.”
+
+“Eh! You do enough. I’m making breakfast.” He was on his way to making breakfast before he stopped to think while he was alone, but now Poi was up and about, too. Erick went to the cold box and started pulling out the good stuff that he hadn’t been able to make, but that he still wanted to eat. Candied and spicy sausage. The really good milk; 5%! The semi-magical flour, that was perfect for pancakes but cost way too much. “I feel like making a feast.” He sent out a light tendril to tap Kiri, all the way in her room, making sure to wake her as he yelled out, “Everyone up and awake!”
+
+- - - -
+
+Kiri jerked awake. “Wha—”
+
+And then her eyes went wide.
+
+A distant part of Kiri listened to Erick talk to Jane, telling her that there was no emergency, not yet, while Jane barked back that he shouldn’t have yelled out like that for no good reason. Erick had a good reason, though. The world wasn’t on fire, but something almost as shattering had happened.
+
+Particle Magic had just become part of the Script.
+
+She knew this well before the arguments started outside, for a notification hovered in front of her.
+
+Particle Magic is now a part of the Script
+
+Details to follow for concerned parties...
+
+Notifications poured in.
+
+Getting to sleep last night had taken way too much alcohol. Today was way too big of a day. But it was here! Finally, it was here! Kiri laughed as she got out of bed, reading as she moved. She listened to Erick and Jane and then Poi speak just beyond her door, but she didn’t listen very close. She was busy. She did not have time to go into the living room ‘for a nice spot of breakfast while they waited for something to blow up somewhere’, as Erick put it.
+
+Because after the notifications for changes to Particle Magic, none of which were very surprising, there came another.
+
+“Oh my gods.” Kiri’s eyes went wide. “I don’t have to go to a Registrar first?”
+
+Class Quest! (Retroactive, Special Exception)
+
+Create a perfectly constructed Particle Spell of tier 7 or higher. 0 / 1
+
+Or
+
+Create a Basic Tier Particle Spell. 3/1
+
+Reward: Particle Mage
+
+Reward: 1 Class Ability; Ability to Create Particle Spells Greatly Increased
+
+Accept Reward? Yes / No
+
+“Accept!” She laughed, feeling something expand in her core, in her very sense of self, setting her all aflutter like when she had gone flying for the very first time. Sudden, happy tears rolled down her face, then she wiped them away. Erick had warned her that she might not get [Particle Mage], even with all the work she had put in. He didn’t even tell her the qualifications; only that he would help if she didn’t qualify. And yet! She did! And retroactive!? Ha ha! She laughed again, whispering, shouting to the world, “Oh my gods!”
+
+Kiri Flamecrash
+
+Dragonkin, age 20
+
+Level 82, Class: Particle Mage
+
+Exp: 3.81 e18 / 9.19 e18
+
+Class: 1/6
+
+Points: 53
+
+HP
+
+2,460/2,460
+
+2,460 per day
+
+MP
+
+3,360/3,360
+
+13,440 per day
+
+Strength
+
+20
+
++62
+
+[82]
+
+Vitality
+
+20
+
++62
+
+[82]
+
+Willpower
+
+50
+
++62
+
+[112]
+
+Focus
+
+50
+
++62
+
+[112]
+
+With a few quick casts, Kiri dressed herself for the day, [Cleanse]d the ick of sleep from her scales and her body, picked up Sunny to put around her neck, and then burst out of her room.
+
+She called out, “I just got Particle Mage!”
+
+“That’s great, Kiri!” Erick called back, “Come on down; I’m making breakfast.”
+
+She laughed again as she hopped down the stairs, smiling. “What sort of notification did you get this morning? I got a wall of text that [Distill]ed into a bunch of changes that everyone knew was happening.”
+
+Erick was already cracking eggs into a bowl, while Jane made coffee behind him. Poi sat at the window with tendrils of thought coming off his head, while Teressa grumbled as she came out of her room. Sizzi was still sleeping, which came as no surprise. That girl could party. Or at least drink.
+
+Erick smiled, joking back, “You’ve [Condense]d all those notifications down to just that?”
+
+“No bad puns yet, please.” Jane complained, “Too early.”
+
+“It’s never too early for puns!” Kiri shouted just for Jane, “Aren’t you excited?!”
+
+“No.” Jane gave Kiri a flat look —or perhaps a ‘Flatt’ look. Ha!— saying, “I am not excited.”
+
+“Killjoy.” Kiri asked, “I’ve got to see a Registrar for all the rest of these Class Quests. Mind if I take off for an hour?”
+
+Erick smirked. “If you don’t want breakfast, go ahead. We’ll be here. We’ve all got to get checked out for soul infections once more, then I’ve got to meet with Syllea… First, I need to ask for a meeting with her. She’s been avoiding me, I think. After that, I’m thinking of following the [Gate] quest into the Forest, looking for one of the Old Dragonkin Gates. I have yet to decide how I want to tackle that particular journey, but I’ll figure it out soon enough. Probably have to get hold of Tenebrae. Somehow.”
+
+Kiri paused her current joy as an old focus came upon her. “I would greatly like to explore the Old Dragonkin ruins.”
+
+Erick smiled. “I thought you might. Exploring sounds nice to me, too.”
+
+Teressa perked up. “Exploring the Forest? We’re actually going?”
+
+“Heck yeah! Proper exploring, too, down on the ground and into those mountain-sized lost-cityscapes out there,” Erick said, pouring batter onto a hot, buttered skillet. “Wherever they are. I didn’t really see any.”
+
+Kiri said, “The ODEC keeps those locations as a loosely guarded secret. We could probably talk to a Knowledge Mage if Tenebrae doesn’t help, but then again, Archmage Syllea would know a location, for sure.” She added, “Probably.”
+
+Jane asked, “Anyone have any leads on one of those ancient Gates?”
+
+“No leads, yet.” Erick said, “I saw a lot of interesting places out there, but mostly from the air, and from way too far.” He looked to Teressa, adding, “We still need to visit your tribe’s land, too, Teressa. Say the word and we’re there.”
+
+Teressa smiled as she looked away. “Yeah. I know. I just haven’t wanted to. Maybe soon.”
+
+“You’ve been visiting your aunt, right? Arathani?”
+
+“Yeah. It’s been nice.” She added, “Also, trying. But that’s family for you.”
+
+Jane burst out with a little laugh. Teressa lost her smile.
+
+Kiri would have commiserated with Teressa at any other time, but right now, she was too hyped up to talk about family problems. And besides, the only family she had ever lost over the years was a brother, and a few uncles and aunts. Teressa had lost her entire tribe because she had run afoul of the Witch.
+
+“Jane’s certainly a handful some of the time,” Erick said, sagely, obviously attempting to make Teressa feel better.
+
+Jane laughed louder. “Me?! I’m not the one who killed all the Shades, old man!”
+
+“Hey now! I'm not that old. I could pass for 30.”
+
+Teressa smiled, but said nothing.
+
+Erick looked to Kiri. “So you’re not staying for breakfast?”
+
+Kiri said, “On any other day, I would.”
+
+“I understand, perfectly.” Erick motioned away with his hand. “So what are you waiting for? See you later! I want a full report!”
+
+Kiri turned to Poi, asking, “Irogh still has those morning slots for soldiers in the Army, right?”
+
+“He does.” Poi said, “You’ll have to wait in line, but you’re cleared for [Teleport]ing into the Courthouse. They got a new system set up. You’re aware of this?”
+
+“Yes. I am. Thanks!” Kiri smiled wide. “I’ll be right back!”
+
+She couldn’t help but laugh as she flickered away, into the sky, and then further, to the south, to where the sun was a little bit higher in the sky than it was in Treehome. Back to Spur! Directly into a small hallway in the Courthouse that was used as a [Teleport] destination for soldiers and otherwise.
+
+Kiri stepped down onto white marble, right into the middle of a [Ward]ed space that had not been this protected the last time she had been here. Runes glowed on the walls. Soldiers up ahead, stationed beside protective runes, eyed Kiri. But Kiri hadn’t tripped any of the runes in the area, so they didn’t do much besides perk up for a moment, then settle back down. And then they looked at her, and perked up again. One of them stood at attention.
+
+They recognized Kiri, and wasn’t that a trip! To be recognized! Of course, they only recognized her because she was attached to Erick, but one day, they would recognize her for her, for sure.
+
+“Badge?” the unknown soldier asked, unsure.
+
+“Hello.” Kiri turned the edge of her collar back, revealing her Army badge. It glowed with the exact same light as the runes all around; it was a resonance enchantment. If it didn’t glow, Kiri would have been on the receiving end of some powerful suppressive magics. This place certainly was a bit higher-security than it had been the last time Kiri had taken this path. “Just here for the Registrar, boys!”
+
+The one that stood at attention, relaxed, then stepped back, saying, “Sure thing, Miss Flamecrash.”
+
+Beyond those soldiers, was the door to the main Courthouse hallway. They opened that door for her, and Kiri happily went through. They closed the door behind her with a click as Kiri continued on, almost skipping across the white stone floor, toward the blue door down the way.
+
+The Courthouse was barely busy at this early hour, but four other people were already waiting in line for Irogh; soldiers, every last one of them. She did not know them, for though she was technically part of Spur’s Army, she had not done much of anything routine or ‘soldier-like’ with any other soldiers, at all, except for that first month all those months ago. She was apprenticed to Archmage Flatt, after all, and his whims dictated her life.
+
+And it was such a good life.
+
+But one day, she’d be on her own. She almost wished that day was today, but as soon as that thought crossed her mind, she banished it. Be careful what you wish for!
+
+The door opened. An older woman came out while a young man went right in.
+
+Kiri had learned so much while apprenticed to Erick. Sure, he didn’t know much standardized magic at all, but that never stopped him from controlling the weather or killing every monster in millions upon millions of kilometers. Holy shit. Kiri took a moment to realize that that would be her, soon enough.
+
+[Withering]! [Control Weather]! [Cascade Imaging]!
+
+[Call Lightning], the base of Erick’s power! And what a basic tier spell!
+
+Holy gods, holy gods, it’s actually happening.
+
+Kiri searched for those spells in the Script, and she didn’t find them, but that didn’t matter. She didn’t think she would find them, anyway. They were too good. Too powerful. She would have to make them herself.
+

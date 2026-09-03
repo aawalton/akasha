@@ -1,0 +1,172 @@
+Erick walked along the beach, barefoot and happy, sporting shorts and sunglasses. It was a good day, and feeling the hot sand between his toes was a good feeling. He would have liked to have actual beachwear, but they only sold stuff like that in certain markets, like for the pearl divers of Portal, or for other underwater professions. Beachwear for leisure didn’t really exist on Veird. ‘Shorts’ didn’t really exist, either, but getting a pair of those only required the sacrifice of some pants and an application of [Fabricate].
+
+Jane wore a bikini made from an extra pair of her own clothes. She kicked the surf as she walked beside Erick. It was just the two of them, right now. Poi and Teressa were back in the shelter, sleeping inside a [Prismatic Ward], while a few Ophiel played in the dunes atop the shelter and kept a lookout. Other Ophiel flew high in the sky, or played in the surf beside Jane. One sat on Erick’s shoulder, twittering in contented violin sounds, while a pair watched over the Imaging, vigilant for the appearance of new blue dots. They watched for monsters and people, switching the map back and forth whenever they felt the need, which was every 5 minutes or so, apparently.
+
+The map was only there as a normal precaution, but this place was rather empty of everything. Monsters or people, neither were here. It was nice. Even Yggdrasil’s eye had managed to find Erick again, though it had taken him a while to do so. Erick was glad that he hadn’t accidentally gotten out of range of the big guy, and had Yggdrasil pop like the Ophiel had, though he suspected that ‘getting too far from Yggdrasil’ was a feat that might be literally impossible.
+
+Erick and Jane had walked a good kilometer down the beach, talking about nothing in particular; just enjoying each other’s company. Erick’s soul was slightly damaged, but nothing too bad. It was mostly healed, too, which was good. He wasn’t done making magic today.
+
+And because of that thought, he turned the conversation toward magic, asking, “How’s your [Shadow Replication] working out?”
+
+“A few problems to fix, yet. Failed to make it exactly how I wanted, but I can make it again tomorrow.” Jane said, “But since we’re talking about magic and it’s just you and me, Poi said that one of your spells made you float.” Jane walked closer, then matched his stride. “Said you looked like you were supporting yourself on a [Thunder Wave Aura]. When that spell dropped, he said he had to pull you out of the water and you almost drowned.”
+
+“… Yeah. I probably shouldn’t have done that so close to the beach.” Erick asked, “Are you mad at me?”
+
+“Yes,” Jane said, without anger. “You need to pick up the Quests for [Greater Treat Wounds] and [Regeneration]. That way, Ophiel can heal you the next time you almost kill yourself. By the way, you counted for 1 person out of the 5000 that I need to ‘rescue from death’ in order to get [Regeneration].”
+
+She had said the words casually, but she was just hiding her hurt.
+
+“Sorry,” Erick said.
+
+“I love you, dad, but just like how I have my own life and that hurts you, I know you have your own life and that hurts me, too.” Jane looked away, saying, “I’m not… I’m not actually mad at you. It’s just a part of life to watch the people you love get hurt. I’m more mad at that fact, but you are the one hurting yourself, so there’s some obvious overlap.”
+
+They walked together, down the beach, atop the wet part of the white sand. There was no separating line of broken shells between the dry part and the wet part, as there would have been back on Earth. Erick distinctly recalled from his time in Florida that there should have been a line of jumbled shells up on this beach, but this world was too young, and not many seashell-type animals had been made. That realization did not hit him as hard as realizing that he was hurting his daughter just by exploring this world, and that her plan would have visited that same hurt upon him.
+
+And that there was no way to avoid that.
+
+Jane matched her stride to Erick, and Erick did the same for her. She grabbed his hand, and he squeezed hers. Both of them smiled for a little while, ignoring the truth of reality. They walked hand in hand in the sun, across the sand. And then Jane broke away.
+
+The wind blew warmth across the beach.
+
+Soon enough, Erick broke the silence, asking, “What’s the difference between [Greater Treat Wounds] and [Regeneration]?”
+
+Jane handed Erick a blue box.
+
+Greater Treat Wounds X, instant, touch, 250 mana
+
+Greatly heal the injuries of the target. Greatly increase the natural healing of the target for one full day. Greatly increases Health Regeneration. Effect breaks if damage is incurred.
+
+Like speaking from a book she had read, Jane said, “While [Greater Treat Wounds] will repair broken bones and has the ability to restore minor losses of flesh when used right away, [Regeneration] is focused on the secondary effect of [Greater Treat Wounds] and can be used well past the window where [Greater Treat Wounds] shines. For actual medical treatment, and when discussing healing outside of battle, a healer is not a healer if they do not have [Regeneration].” On a more personal note, she added, “[Polymorph] sort of makes both of them obsolete if you use it right, but not many people have [Polymorph], and injured, unconscious people can’t [Polymorph], anyway.”
+
+“You’re going to be a healer?” Erick asked, “I heard about [Restoration] helping to restore vibrancy to the body and making all other healing magic easier. Have you considered that one, too?”
+
+“I’m not going to be a healer, but yes, I am. Can’t have two healing quests at the same time, though, so [Restoration] is going to have to wait.” Jane said, “I’ve been working on that Charm magic, too. Charms won’t be as good as actual rods of [Greater Treat Wounds], but we’re out of those, now, and I won’t ever let myself be out of the battle because of an injury.”
+
+Erick smiled. “I’ll have to get those Quests, too.”
+
+Jane nodded, happily saying, “Good! Start with [Greater Treat Wounds]. That should be the most practical for you.” She asked, “But what are you going to do with your new spells?”
+
+Erick looked out across the world, and said, “I need to play around with them, first.”
+
+“I know you leveled them already. No ideas yet?”
+
+“Ohh!” Erick smiled. “I’ve got ideas.”
+
+“Good!” Jane smiled, then she hopped back the way they came, saying, “What form won’t be affected, you think?”
+
+Erick shaped a [Stillness] over his daughter, along with a [Prismatic Ward] from an Ophiel, saying, “[Lightwalk]. You should be able to see through the light of [Stillness] with that one.”
+
+Jane glowed with an inner brightness, turning partially transparent and mostly dark blue inside the dome of protective magic. She called out, “Let ‘er rip!” but it came out as simple spoken words and a flash of white brightness.
+
+Erick smiled, then he turned his attention to the ocean. He had a grand plan for his four new spells, but like all grand plans, it started with a few steps.
+
+[Normalize]. Aurify.
+
+The world around Erick turned safer, it seemed. Not much happened except for a slow drain on his mana. A good distance away in every way, there was a great lot of nothing. This was the expected result. These spells were not meant to be used individually, after all.
+
+A blue box appeared.
+
+Normalize Aura, instant, large area, 1 mana per second
+
+<Empower normal physical functionality throughout the physical world, creating a myriad of individual effects. Directly weaken some forms of magic.>
+
+Erick cut the aura, then moved onto the next spell.
+
+[Harmonize]. Aurify.
+
+Waves began to crash upon the shore with purpose, and in sync. The wind moved like a solid object. Sand moved in that wind, becoming fractal swirls. Grass swayed in harmony. A blue box appeared.
+
+Harmony Aura, instant, super large area, 1 mana per second
+
+<Shift the physical into individualized order.>
+
+Erick cut that aura. The effect lingered, briefly. Then chaos came back into the world.
+
+Moving right along.
+
+[Amplify]. Aurify.
+
+Erick was the center of a still pond, and then, he was the disturbance. He moved a hand, and ripples raced away, like itty-bitty shock waves, guided by the surface of his body. Those waves crashed outward, going a lot further than Erick would have expected before they dissipated.
+
+A blue box appeared.
+
+Amplify Aura, instant, super large area, 1 mana per second
+
+<Fill the physical with rising power, enabling a myriad of possible physical effects.>
+
+Erick wasn’t done with this one.
+
+[Amplify Aura] was the damaging part of what would come. He needed to understand it more than the other parts.
+
+He snapped his fingers and his aura rang like a gong, like dropping a boulder into Reality at his fingertips, creating shockwaves that radiated from the entirety of his body, and that continued to radiate, like a gong smacked hard. Sand blasted away from under his bare feet, quickly leaving him standing above the ground. He floated on his own shockwaves as those shockwaves rushed across the beach and into the sky, pulsing away dunes and turning the tops of cresting waves into mist. He took a step—
+
+A problem appeared.
+
+He couldn’t walk on the air, like this, like he could with [Greater Lightwalk]. He stepped forward and only managed to flail his feet. His flailing only managed to increase the shockwaves coming from his whole body, which in turn forced him further into the air, away from the land, in a way that was likely ‘away from the closest solid object’, which was Veird itself. Erick wasn’t quite sure what was happening there. All he knew was that he began to rise into the air as shockwaves continued to blast away from him. It wasn’t unpleasant. It was just odd. He smiled, and enjoyed the lift. It wasn’t nearly as loud as he had expected, either, but that was likely because it was his aura, after all.
+
+He heard the gong noises, sure, but they did not hurt him.
+
+Ophiel’s experience of this aura was completely different.
+
+Shockwaves crashed over Ophiel, and Ophiel fluttered backward, away from Erick, taking minor bits of damage with each pulse. He complained in flute sounds that were more telepathic than aural, since Erick couldn’t really hear anything except for his own gonging. This was a much better result than what he had expected. He had expected the noise to be worse. He had expected his eardrums to rupture and for blood to splatter from every part of him.
+
+He also expected to shut down the spell well before it got that far. So this was good! All good results, so far. Better than expected.
+
+He glanced to Jane. The entire bubble he had put around her was bright white; the result of [Stillness] turning sound to light. Ophiel was there with her, in his white sunform, protecting her while Jane used her own lightform, looking rather blue.
+
+Erick noticed the waters ahead of him. Some fish under the waves had turned to mulched sushi. A lot of fish, actually. The water was pink and frothy and the mist off the waves was also pink in some places.
+
+Ah.
+
+Erick pulled his aura inward, trying to mitigate the damage—
+
+He immediately turned his aura off, as his own [Personal Ward] began to flicker bright white, taking damage, and the gong sounds ramped up to 11, and then well past 12. Without the shockwaves to support him Erick plummeted into the new hole in the beach. The ocean rushed in to congratulate him on his magical success with a bit of impromptu drowning.
+
+After an embarrassing rescue from Jane, Erick was once again on dry land.
+
+He joked, “I didn’t swallow any water this time!”
+
+“Yup!” Jane said, as she poked him with a dark glow. “You’re bleeding from the ears, though, and now you’re not.” She glanced to the air. “No Quest credit, that time.”
+
+“See! I was perfectly fine!” Erick threw a [Cleanse] over himself and turned saltwater into normal water and stray blood into thick air.
+
+“Don’t sound too much like Tenebrae, dad,” Jane said, as she moved back to her protective bubble.
+
+Erick cast his next aura.
+
+The waves ahead of him crashed down and turned into indistinct ripples that moved in every possible direction, including away from the land. Schools of fish that had come to eat the sushi results of the previous aura, began to move in uncoordinated ways.
+
+… Sand, disturbed from a dune, began to roll uphill.
+
+A blue box appeared.
+
+Discord Aura, instant, super large area, 1 mana per second
+
+<Shift the physical into discordant chaos.>
+
+Jane left her protected space, looking at everything. And then she looked at the footprints she was leaving. Holes in the sand resettled like water coming back together; like a tiny splash. That splash continued upward, to form footprints that extended above the sand, inverted.
+
+She walked closer to Erick, but eyed the upward footprints, saying, “That’s fucking weird.”
+
+Except the words came out as static; just barely above silence. Erick could only understand her because he noticed her lips moving. He instinctively read them when no sound came out.
+
+Jane waved the air in front of her and sent, ‘Sound wave canceling aura?’
+
+‘And a few more unintended effects.’ Erick sent, ‘The sand is acting weird. And so is the water. But… It’s actually quite relaxing.’
+
+‘Yup.’ Jane said, ‘Now turn it off.’
+
+Erick did so, then said, “The combination aura will be all of those effects, as I choose.”
+
+“No [Stillness]?” Jane said, “Make people think you’re shooting light when you blow shit up. Make it easier to move around with [Greater Lightwalk]. I noticed you had trouble walking, there.”
+
+“Eh… Maybe. But, no. I want this completely separate from lightform.” Erick said, “It’ll be a [Particle Domain Aura], or whatever it ends up being called.”
+
+“Light is a particle,” Jane teased.
+
+“… A valid point.” Erick said, “But, no. I want to be able to see through this magic; Not blind myself. And I don’t want there to be any elemental conversion shenanigans that other people can exploit. Adding [Stillness] would create way too much light.”
+
+“Fair enough. It was just an idea, anyway.” Jane poked him with another finger full of dark blue magic. “Whatever the case, if you don’t like what you make, you can always remake it in ten days.” She went back toward her protective space, saying, “Good luck!” just before ducking back into safety.
+
+Erick smiled at his daughter, then he turned back toward the water. He breathed. He held up a hand and began channeling mana through his new spells, to check to see if his new auras made any unintended sounds different from his Particle Spells. He expected static, just like all of his other Particle spells.
+
