@@ -116,3 +116,268 @@ The ceiling was shrouded in shadow, as were the caps of the mushroom trees. The 
 
 “What’s the plan?” Rina whispered. “Straight across?”
 
+Rain nodded. “The entrance to the Tunnel is on the other side. Just like the Forest, there’s really only one way forward. That doesn’t mean it will be easy, though. Once we get out into the cavern, the slimes will come for us, but that’s not the real danger. As long as you don’t get any of their acid on you, it will be fine. The real threat is the Fungiforms.”
+
+“Those Strangler things?” said Arlo, not attempting to keep his voice down at all. “Ha! I am not afraid!” His words echoed loudly through the cavern. Rain heard the tell-tale suck-plop of slimes detaching from the ceiling and falling to the floor. Detection confirmed that a few of them were headed in their direction, one of them particularly nearby.
+
+He sighed. “Rina, get your bow ready, Arlo just attracted some slimes. And no, not Stranglers, at least, probably not. Stumpers. They’re big, like three-stride-tall big. Mushroom men, basically. Tough, spongy skin, usually around level ten. Slow, but if you get hit, you’ll get turned into paste.”
+
+Kettel laughed. “I don’t care fer mushrooms. I vote ye just burn this whole place down.”
+
+Rain shook his head. “Bad idea. Fungiforms are flammable. Very flammable. They tend to explode if you set them on fire, just like those Kin did.”
+
+“I’m not seeing the problem there,” said Kettel.
+
+“Think for a minute,” Velika said. “We’ll wait.”
+
+Rain frowned. No need to be rude. “It’s not just the Stumpers,” he said, gesturing at the mushrooms covering the floor. “It’s a chemical-aspect thing. This zone, in particular. All of the mushrooms in here are just as flammable as the monsters. We’re here to get you lot a blue, not blast ourselves into orbit. I don’t think it would be quite that bad, but still. No fire.”
+
+“Orbit?” Bosco said, raising an eyebrow. “Like a circle?”
+
+Rain sighed. “Don’t worry about it. Rina, on your left.”
+
+Rina jumped, looking in the direction he had indicated. A tiny green slime was making its way toward them, no larger than a house cat. She nocked an arrow and drew back, then hesitated, looking at him for confirmation. “Didn’t you say you wanted to try something on these?”
+
+Rain’s frown faded. “Oh, yeah. Everyone, get back into the tunnel. It’s science time.”
+
+Everyone fell back, Velika included. It seemed she was as curious as the rest of them. Rain smiled as the Slime headed for him. I can’t believe I was ever afraid of these. Granted, the first one I fought was quite a bit bigger. It was still level one, though, just like this little guy.
+
+The white light of Purify wafted out to meet the monster, rolling over it like fog. As it did, the Slime quivered, stopping in its tracks. It sat there, wobbling uncertainly.
+
+A small reaction, but no change at 20% intensity. It’s still at full health. Let’s try 50%.
+
+Rain boosted the power. The white light grew stronger, now competing with the luminescent moss in brightness. The Slime freaked out, pulsating wildly. It started oozing back the way it had come.
+
+Oh no you don’t. 100%.
+
+As the light grew, something started happening within the Slime. The magic started seeping through its membrane, lighting it up from within. Still, it seemed to be resisting the spell, remaining as disgusting as ever as it made its best time toward the perceived safety of the mushroom trees.
+
+Going further. 200%.
+
+The full boost from Channel Mastery did the trick. Slowly, the Slime started changing color. It faded from dark muddy green to a translucent lime, like jello. It didn’t stop there. The color grew paler and paler until the Slime was completely transparent, like glass. He could see a single Tel floating within it, glimmering faintly.
+
+Rain jumped slightly as the chime of a kill notification sounded. Huh. That’s odd.
+
+The Slime hadn’t died. It was moving back toward them, no longer seeming to care about the spell that surrounded it. He pulled up the notification to check what had happened, deactivating Purify as he did so.
+
+You have Purified [Slime], Level 1
+
+Transformed to Crystal Slime (Neutral), Level 1
+
+25 Experience Gained
+
+Taming Possible
+
+“Ah,” Velika said, walking past him to crouch down and peer at the Slime. “I’ve always wondered where Crystal Slimes came from. Now I know.”
+
+“What’s it mean?” said Breggeh, looking at the Slime. “What did you do to it? Why isn’t it trying to attack us anymore?”
+
+Rain shook his head, watching as the Slime bumped into Velika’s leg, then started trying to climb her. She kicked it away, sending it to splatter against the ground near Samson. It reformed quickly, seemingly unhurt. Samson took a step back as it started moving in his direction.
+
+“They’re pets,” said Rina, intercepting the Slime. She knelt down to poke at it with her finger, making a large indent. It glommed onto her hand, and she laughed, standing. “My little sister has a big one. She bought it from a trader, though. I never knew you could make them.” She turned to look at Rain. “Do you mind if I keep it?”
+
+Rain shrugged, watching the Slime as it crawled up Rina’s arm, heading for her shoulder. It froze when it encountered the sleeve of her shirt, pausing as if confused. That’s…kinda adorable. “Sure, you can have it, I guess. My interface says it isn’t friendly, though, just neutral. Maybe try feeding it or something. Also, don’t let it near your face. It could still be dangerous.” He looked at Velika questioningly. “Do you need to be a Tamer to tame a monster?”
+
+Velika shrugged. “No idea. I do know that she won’t be able to take it out of here unless she manages it, though. Even real Tamers can’t do that. Anyway, as fascinating as all of this is, that’s enough playing around. I don’t want to be down here all week.”
+
+Rain nodded. “Right, back to business. Form up, people. I’ll warn you if I see a Fungiform. As for the Slimes…” Damn it, now I kinda feel bad about killing them.
+
+“No mercy,” Arlo said, looking at Rina’s Slime with distaste. “Monsters are not pets. You should get rid of that thing.”
+
+Rina shook her head. “No, I’m keeping him. I think I just decided. I’m going to be a Tamer once I’m awakened. This little guy is just too cute.”
+
+Arlo scoffed. “Ridiculous.”
+
+“I have to agree,” said Samson. “Tamers are weak. You should learn the sword. I could teach you if you’d like.”
+
+“Depths, enough,” said Velika, running her hands through her hair. “Rain, get them moving. No more purifying Slimes. They’re here to learn to fight and to get a blue, not to make friends with boogers.”
+
+“Right,” he said. He glanced at the Crystal Slime as they continued. It had tangled itself in Rina’s hair, and she was struggling to pull it free with a tolerant smile on her face. He laughed softly. Best spell ever.
+
+Unsurprisingly, you could not just Purify anything. There were limits. Slimes seemed to be something of a special case. They were filthy, low-level, and water-based, a trifecta of weaknesses that made them particularly vulnerable to the spell.
+
+Fungiform Stumpers were none of these things. Purify did nothing.
+
+“Dodge!” Rain shouted, keeping Force Ward active at 75% absorption. He’d already learned that blocking the monster’s heavy blows completely was a bad idea. Stopping its two-handed smash at Breggeh had cost him over four thousand mana and resulted in a spike of pain that had felt like an icepick through his skull.
+
+Kettel darted back, stumbling as the ground shook from the impact of the tree trunk sized limb. The Fungiform Stumper was enormous, its height closer to three meters than three stride. It had two massive legs that supported the main trunk of its body, which was fully the thickness of an industrial refrigerator. It had no head, only a red mushroom cap, speckled with glowing orange patches. Two massive arms hung from where the cap met the trunk, hanging almost to the ground. Its body was made of spongy white flesh, with a few smaller mushrooms poking out here and there.
+
+The monster retracted its arm and raised one of its feet to stomp at Kettel instead. Rain cursed. “Come on, Velika! If one of them gets hit like Bosco did, they could die!”
+
+“So they should avoid getting hit, then,” Velika said with a shrug. “The thing is so fucking slow, a baby could dodge it. Stop freaking out, everyone. Just dodge and counter.”
+
+“Yer not the one it’s tryin’ to make intah mash!” Kettel shouted, jabbing at the Stumper with the end of Rain’s staff. Unsurprisingly, it did nothing. That didn’t stop Kettel from trying again, striking three more times before he was forced to scramble away.
+
+“Switch out!” yelled Arlo, trying to edge around Kettel to get at the monster. Kettel ignored him, continuing his relentless and futile assault.
+
+They were fighting in a corridor between chambers, with very little room to maneuver. It was only possible for one or two people to engage the monster at a time, and it was refusing to be drawn out into the open. Rina had tried shooting it, but her arrows had simply bounced off. Rain had wanted to freeze it from a distance, but Velika had rejected that idea.
+
+“Move, peasant!” shouted Arlo, swishing his rapier angrily.
+
+“No!” shouted Kettel, “I don’t need yer help. I got this!”
+
+Rain swore. “Kettel, get back. Arlo’s right. You’re not doing damage. Arlo, get in there. Samson, try to get around it.”
+
+“There’s no point,” said Samson, calmly. “Its skin is too tough. We should retreat.”
+
+“Unacceptable,” Velika said. “Listen to your commander.”
+
+Rain grit his teeth in anger. He’d already tried to call a retreat when Bosco had gotten hit, but Velika had vetoed him. Attack was the only option she would allow.
+
+It wasn’t completely hopeless, however. The enchanted weapons of the nobles were doing damage to the monster’s health bar, even if there was no physical sign of it. If they wore it down enough, then they’d start drawing blood, or whatever the mushroom equivalent of blood was.
+
+Unfortunately, there was no time to explain the mechanics of health to the unawakened. Rain grabbed the back of Kettel’s shirt and dragged him out of the way, making room for Arlo to engage. “Get in there!”
+
+“Hah-HAH!” Arlo shouted, flourishing his rapier needlessly and rushing forward. “Have at thee!” He started poking at the monster with rapid strikes. The narrow sword was bending alarmingly with each hit, the point failing to penetrate the spongy flesh of the Fungiform. That didn’t seem to discourage him, which was a good thing. It was having an effect, if only a small one. The monster’s health was down by about a third at this point, slowly being chipped away as Arlo kept stabbing.
+
+“Moving in!” Samson shouted. He darted under the monster’s clumsy swing and rolled between its legs, coming up behind it. He spun, then started laying into it with his sword using long, drawing cuts. The Fungiform roared, which was disconcerting, considering its lack of a mouth. It shook furiously, the orange spots on its cap flaring brightly as it spewed a cloud of spores from its gills.
+
+Rain was ready, activating Purify to wipe them from the air before switching back to Force Ward. It wasn’t the first time the Stumper had tried that little trick. He had no idea what the spores would do, and he had no interest in finding out.
+
+He glanced at the party display and cursed. The others’ stamina was getting low, Arlo’s in particular.
+
+“Rain, let me go!” shouted Kettel, struggling. “I can help!”
+
+Rain pushed him away from the fight, releasing his shirt. “Go get Bosco’s spear. Breggeh, how’s he doing?”
+
+“Still unconscious,” Breggeh said, looking up at him from where she was kneeling at Bosco’s side.
+
+Rain cursed and looked back at the battle. “Damn it all.”
+
+Bosco had gotten clubbed by the Stumper and been sent flying. If that wasn’t bad enough, he’d landed head-first and helmetless on a rock. Rain had Force Ward set to 50% for the hit, acting on Velika’s advice. Fortunately, the Citizen had been right about how Force Ward worked. She hadn’t explained in detail, but Rain had a decent idea of what had happened.
+
+The ridiculous damage from the monster’s opening strike at Breggeh had come from the fact that he’d been running the spell at 100%. In essence, he’d tried to stop the monster’s massive arm completely. Since it hit like a truck, that was not ideal. Stopping a truck was hard.
+
+At 50%, Force Ward softened the blow but didn’t stop Bosco from getting launched into the air. The initial hit had only done thirty damage, with the landing against the rock doing closer to seventy. Without Force Ward, Bosco would have been dead, not just unconscious. With Force Ward at 100%, Rain would have run out of mana, and Bosco would have still gone flying, only without the protection of the spell. There would have been nothing to save his skull from the rock.
+
+Something was definitely screwy with how Force Ward dealt with momentum. After what had happened to Bosco, he’d upped it to 75%, and was hoping that he wouldn’t have to find out whether that was enough.
+
+Damn it, Velika, what the hell are you thinking!
+
+“Here!” Kettel said, arriving with Bosco’s spear. “Arlo, switch!”
+
+To Rain’s surprise, Arlo actually listened, falling back to make way for Kettel. The blue-clad noble was panting heavily, his stamina almost empty.
+
+Kettel yelled wordlessly, stabbing at the monster’s leg with the spear. The point skittered off to the side, doing no noticeable damage. Rain’s eyes widened. What the…
+
+“It’s bound,” said Velika, then started laughing. “Why the fuck does he have a bound weapon? He can’t even charge the thing! Oh gods, this town.” Her laughter echoed through the cavern as Kettel stabbed again and again, the hits sliding off without penetrating.
+
+“Getting…tired,” Samson panted, dodging backward. The Stumper had focused its attention on him, now that Arlo had retreated. Unlike the humans, the monstrous mushroom was still going strong.
+
+“Velika, damn it!” Rain shouted.
+
+“Fine,” Velika said, still chuckling. “You can go in and save them.”
+
+I meant you, not me. He shook his head. This was no time for cowardice. “Rina, start shooting again. Its health is at about a third. The arrows might be able to penetrate now.”
+
+“What?” gasped Arlo. “Only a third?”
+
+Rain clenched his fists. “Kettel, get back! It’s my turn!”
+
+“Fuck yeah!” laughed Kettel, ducking away as an arrow sprouted from the Stumper’s cap. “Kick its ass, Rain!”
+
+Rain grimaced, then stepped forward, waiting for an opening. He debated taking the spear from Kettel but decided that it hardly mattered. I don’t need a weapon. I am the weapon. He unclasped his cloak and dropped it to the floor, tossing aside his bag and bandoleer as well. He couldn’t rely on Force Ward alone, and he didn’t want to break anything.
+
+The opening came as the monster lifted its leg up high to stomp at Samson.
+
+Velocity.
+
+Rain moved. He felt his armor drag at him as he kicked off from the ground, his body’s acceleration boosted by almost 1000%, fully twice the boost he’d used against the Plague Rat. He smashed into the back of the creature’s leg as if he’d been launched from a cannon. The spongy limb exploded into pulp, already weakened by the creature’s low health.
+
+Completely out of control, Rain flew out from under the toppling monster, scraping and bouncing along the floor as he skidded to a stop. He’d activated Force Ward in time, the hit costing him less than a thousand mana. Damage was hard to calculate, as he had no way of knowing what portion had been blocked by the spell as opposed to his armor. He hadn’t felt a thing.
+
+The Stumper fell like a tree, its leg quite literally chopped out from under it. Its torso hit the ground with a whump of impact. Kettel cheered as Rain scrambled back to his feet. That worked better than expected.
+
+“Everyone, back!” he shouted, then walked cautiously toward the creature. It reached out toward him, trying to drag itself in his direction. He stopped out of its range and moved back, outpacing it easily. Its health was low, less than a tenth remaining. Rina raised her bow, but he held up his hand to stop her. Let’s see how much resistance you have. He hesitated, then shook his head. Refrigerate.
+
+Refrigerate (10/10)
+
+18-20 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 3 meters
+
+Cost: 5 mp/s
+
+He canceled it after a second, watching the monster’s health bar. It hadn’t changed. At least 20, then. Refrigerate.
+
+Refrigerate (10/10)
+
+36-41 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 3 meters
+
+Cost: 10 mp/s
+
+Hum. Still nothing. At least 40? That, or it’s got so much health that I can’t see the difference in the bar. Damn it. I need floating damage numbers. Another thing for the list. Refrigerate.
+
+Refrigerate (10/10)
+
+89-102 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 3 meters
+
+Cost: 25 mp/s
+
+This time, he saw the bar move, so he kept the spell going. The creature’s health was dropping, ever so slowly. He checked his mana and cursed. He’d probably run out before it died, and he didn’t want to try a Nova. His breath fogged the air as he turned to face his companions. “Rina.”
+
+The archer nodded, drawing back her bow. The Stumper had almost stopped moving, the slowing effect of Refrigerate taking hold as frost built up on its body. When Rina’s arrow hit, its arm cracked at the shoulder, falling off completely as the flesh shattered. Rina kept shooting. The last sliver of its health disappeared just as Rain’s mana ran out completely.
+
+Your party has defeated [Fungiform Stumper], Level 11
+
+Your Contribution: 25%
+
+412 Experience Earned
+
+“Damn, Rain, that was cold,” Kettel said. “And I don’t mean the temperature. Ye fuckin’ executed the thing! An’ what ye did to its leg! Hells!”
+
+Rain shook his head, frowning as the adrenaline started draining away. Why am I feeling sympathy for a mushroom? It would have killed us if we didn’t kill it first. I need to get over this shit if I’m going to be an adventurer. Damn my bleeding heart.
+
+“Well, that’s that,” Velika said. “Let’s take a five-minute rest, then we move on. I took a little look around while you lot were playing. There’s plenty more where that one came from. We wouldn’t want to keep them waiting.”
+
+Rain shook his head, his temper flaring. I am so done with her bullshit. He walked away from the Citizen, then turned and sat near the groaning form of Bosco. “We rest here,” he said, his gaze meeting Velika’s. She looked amused. “I can recover quickly, but not that quickly. If you can’t wait, you’re welcome to go and clear the area yourself. The rest of us are staying here until we recover. Someone keep watch.” He didn’t wait for her reply, activating Aura Focus and letting his senses fade away.
+
+Level 11, my ass.
+
+Velika hummed to herself quietly, whittling on a chunk of mushroom tree with a dagger. One of the purple ones, of course. She liked the color.
+
+The unawakened were nattering away, singing the praises of the Night Cleaner. The kid, Kettel, was even trying to come up with a new nickname for him. Most of his ideas were terrible. ‘Death Zone’ had a bit of a ring to it, though, even if it was a total exaggeration. She found it amusing how easily impressed they were. What Rain had done was hardly anything special. The nobles, at least, should have known better. It was like they’d never seen a real adventurer before.
+
+Velika looked over at Rain. I have to admit, he IS a decent showman. Very flashy. Good sense of drama. Not much to back it up, though. At least he finally stood up to me. It turns out there’s a hint of a spine under that armor after all.
+
+As they were in a lair, the party screen had let her see how close the man had come to the edge. Running out of mana was death for a mage, nine times out of ten. And he was definitely a mage; there was little doubt of that at this point. His defenses were terrible, to the point that he’d managed to injure himself with his own spells, even with them being as weak as they were. Still, she doubted that any of the unawakened had noticed he’d been hurt. They couldn’t see his health, and he had hidden his injury well.
+
+She could see why he’d tried to hide it from them. Kin were nothing. Hardly a threat to anyone with a few levels under their belt. They were only dangerous because of their numbers, and even then, not very. She would admit that he was well-suited to dealing with swarm types, but bruisers were another story.
+
+She didn’t know what his level was, but no adventurer with armor like his should have had any trouble with something like the Stumper. She was dying to ask him about the smith who had made it, but that would lead to an inconvenient line of questioning. There was a distinct lack of cervidians within the barrier. No, it was better that he thought she didn’t care about the sword anymore, now that she was a Citizen and had a Citizen’s resources.
+
+She sighed, touching her breastbone. It still hurt. A Citizen’s resources... Yeah right. Westbridge, when I get out of here, I am going to murder you. Twice. No, three times.
+
+To distract herself, she returned to inspecting the adventurer’s armor, marveling at the joints. It was impressive, even if the man inside wasn’t. He had wowed the dimwits with the body slam that he’d used to cripple the Stumper, but any real warrior could have done as much without breaking a sweat. Even when he’d used the cold aura, the damage had been piddly compared to how fast his mana had been dropping.
+
+She sighed. No, not impressive at all. Except for the absurd mana regeneration. And that monster-dissolving cleaning spell. And the temperature control… And the speed aura… She paused, tapping her knife on her chin and looking up at the ceiling. Okay, fine, he’s not TOTALLY useless. This fucking town, though. Who the hells wants to be a Dynamo? He’s got no balance, no power, and no future. He’ll never make it past the wall before he gets himself killed unless… Unless someone strong takes him in…
+
+She looked back at the meditating adventurer speculatively. Humm. Maybe I can convince him to take Spring if he doesn’t already have it. Now THAT would be worthwhile. My own Beacon. Now there’s an idea. I just need to persuade him to work for me instead of the Watch...
+
+She chuckled and went back to carving.
+
+It shouldn’t be hard. I guess Rina’s not the only one who found a pet today.
+
+Sentinel Tabot swore softly, standing and brushing the snow from his pants. He’d lost the trail.
+
+The Guilder was good. Very good. She’d vanished into the trees after spending a single night in their camp. Unfortunately, he’d been on duty and unable to talk to her before she’d disappeared. Today was his free day, though, and he’d decided to use it to track her down. Partly, he was curious about what she was doing in the forest, but more importantly, he wanted to see if she would be interested in joining him for a drink. She had the most beautiful eyes. His plans had been stymied, however. Her tracks led to this clearing, then vanished.
+
+He’d been all over the area, investigating the pathetic shack and the various signs of habitation. Clearly, someone had been camping out here and started working on the foundation for a more permanent dwelling. He walked over to the edge of the hole and looked into it, wonderingly.
+
+Did she know whoever was living out here? I wonder if—Ah!
+
+Tabot reached up to his neck, then lowered his hand to look at his fingers. They came away red. His eyes flicked to his health, and his heart filled with despair. He was already dead.
+
+He tried to turn to see his attacker, but failed, falling to his knees. The despair was already fading, replaced with an odd sense of calm. Damn. I guess I’ll never know if she would have agreed to that drink.
+
+His vision darkened as he toppled forward, falling into the pit and staining the snow crimson with his blood.

@@ -234,3 +234,396 @@ Rain smiled at Val’s expression. He stepped forward to untie Stint’s binding
 
 “They are not,” Tallheart said.
 
+“Let’s go already. Someone give me a damn light,” Carten said, walking into the darkness without waiting for a response. Rain used Detection to make sure that he wasn’t going to run into anything nasty. Ameliah sent her light to lead the way, moving to walk beside the big man.
+
+“You stay in the middle where I can see you,” Val said, giving Stint a push. “Don’t try anything.”
+
+Jamus laid a friendly hand on Stint’s shoulder. “Don’t worry. We’ll keep you safe. Val and I will watch the rear. Tallheart, will you make sure nothing happens to our friend here?”
+
+Tallheart moved to tower over the anxious-looking scout. Stint looked up at him with a concerned expression. Tallheart stared back. “I do not bite, human,” he said.
+
+Rain grinned, moving to walk beside the smith as the group followed Ameliah and Carten down the tunnel. Rain looked at the description of the armor again. Now that it had a little charge, the numbers had changed. He was also feeling a curious pressure start to build up, like a weight on his shoulders that had nothing to do with the mass of the metal.
+
+Dark Revenant’s Armor [Bound]
+
+Durability: 1,309/13,338 [1,309]
+
+Hardness: 804 [207]
+
+Material: Dark Steel
+
+Mana Conversion: 99.9%
+
+Mana Saturation: 0/13,202 mp
+
+Mana Dissipation: 92 mp/s
+
+Mana Capacitance Rune
+
+24/14,209 mp
+
+Import Efficiency: 1%
+
+Export Efficiency: 0%
+
+Enhanced Durability Rune [Active]
+
++12,029 durability, 20 mp/day
+
+Enhanced Hardness Rune [Active]
+
++597 hardness, 25 mp/day
+
+Enhanced Dark Resistance Rune [Active]
+
++50 dark resistance, 20 mp/day
+
+Dark Regeneration Rune [Inactive]
+
++1 durability/s, 0.8 mp/s
+
+Rain looked at Tallheart, moving the screen to the side so it didn’t block his view of the antlered man. “Hey, about this armor. I’ve got some questions.”
+
+Tallheart sighed. “Very well. Ask. Promise you will stop if there is danger?”
+
+Rain laughed. “Of course. Don’t worry, Tallheart. I could probably handle this lair on my own now.”
+
+Carten snorted. Ameliah glanced back at him and shook her head, then returned her attention to the darkness ahead of him. Yeah, that’s fair. I shouldn’t make light of it, but it’s hard to take the danger seriously with what Immolate did to those bats last time. I suppose if the ram shows up… Rain checked his mana, halting the transfer to the armor. He didn’t want to be empty if something unexpected happened. The feeling of weight from the armor didn’t go away even after he stopped feeding it mana.
+
+“Right,” he said. “First things first, why does it feel so…heavy all of a sudden?”
+
+“Soulstrain,” Val said before Tallheart could answer. The smith nodded.
+
+…Shit. “Is it going to get worse if I keep charging it?”
+
+“Probably,” Val said. “How strong is the enchantment?”
+
+Rain shrugged. “I don’t have a reference point, just those crappy stat rings. Oh, can I recharge those somehow?”
+
+“Do not worry,” Tallheart said. “You will get used to it. It should not be too strong for you. And no. You cannot.”
+
+“It says they have a reservoir? Is that different from a Capacitance rune? It must be. Why do they show up in my inventory then? I’m not even wearing them, they’re in my pack… How does Mana Manipulation—”
+
+Tallheart grumbled unhappily.
+
+“Oh. Sorry, I’m getting off track.” Rain paused, trying to order his questions. Ok, the first thing I need to know is, what does this mean for my defenses. He pulled up his Statistics display.
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+200
+
+200
+
+0
+
+100%
+
+H.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Stamina
+
+200
+
+200
+
+0
+
+100%
+
+S.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+1.66/s
+
+0.21/s
+
+-0.05/s
+
+812.0%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+51
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Humm. Dark resistance is up by 50, which is awesome. No change to Force Resistance though, or any of the others. Armor must not work like that. Durability is probably how much damage the armor itself can take. How much of that makes it to me…yeah, it’s probably complicated. I don’t see it helping much if I get punched by a troll. I suppose it would spread out the impact…
+
+Rain decided to keep things simple. First, he needed his assumption confirmed. “Durability is how much damage the armor can take before it breaks?”
+
+Tallheart nodded. “Essentially.”
+
+“And hardness is…”
+
+“Physical damage resistance.”
+
+“But for the armor, and not me?” Rain asked. Tallheart nodded again. Wow. So anything that does less than 800 damage or so won’t even scratch it. That’s…a lot. I think? More than Ameliah’s casual punch did when we were playing with Force Ward, anyway.
+
+“What about magical force? Or other kinds of magic? Does Hardness work?”
+
+“No. Mana will be absorbed by the metal until it reaches saturation,” Tallheart said.
+
+Well then. That’s…wow. This says the saturation limit is thirteen thousand. That’s like thirteen thousand extra health as far as magical attacks are concerned. And then there’s dissipation. If that does what I think it does—
+
+“Pretty great, ain’t it?” Carten said, looking back over his shoulder. “That’s why Jamus’ll never beat me in a real fight. I’m practically immune to mana.”
+
+“Yeah,” Rain agreed. This is a game-changer. Wait… “Does this mean my own mana will get sucked in, too? Everything worked fine with the chainmail, it just got a bit glowy…”
+
+“You should be fine,” Jamus said. Tallheart was silent, letting the mage explain. “Metal always redirects mana flow, but it can’t actually absorb it within the domain of your soul. That should extend a few finger-widths from your body.”
+
+Rain thought about it. Makes sense, I guess… The domain of my soul, huh? Wait a second… “Why do Velocity and Force Ward work on Carten? They’re mana too, and his armor is even thicker than mine.”
+
+“No idea,” Jamus said. “You’d have to ask another aura user. You’ll have trouble finding one, though. Staavo might be able to help you.”
+
+Rain sighed. It never ends. Ok, one last question. I think Tallheart might lose it if I keep bothering him. “Last thing. How do I activate the regeneration rune? The others turned on on their own, but this one still says ‘inactive’.”
+
+“It will only activate in darkness,” Tallheart said.
+
+Oh, ‘Dark’ Regeneration. I get it. The Lunar Orbs must be preventing it from working. I need to get a cloak or something. Wait, would that work, or does it need to actually be dark out, as in night time? Fucking damn it. I wonder if I can convince Tallheart to write me an instruction manual…
+
+The group reached the core room without incident. The low-leveled monsters of the lair provided little challenge. Since Jamus and Val had been practicing under the influence of his Winter aura, they’d both gotten significantly stronger. Even Carten was more effective than ever, probably benefiting from the multitude of kills he’d racked up, even if Rain’s mana did nothing for him. The core panic was easily dealt with, leaving them standing around the stone pillar holding the core.
+
+“What now? We just break it?” Rain asked.
+
+“Yes,” Ameliah said.
+
+“And you’re sure it’s not alive?”
+
+“Yes.”
+
+“Really sure?”
+
+Ameliah sighed. “We don’t have the time for this. They’ll have noticed their scout is gone by now. We still need to walk back and get away before they get here.”
+
+Rain nodded. “Does it matter who breaks it? Do we all need to do damage or something?”
+
+Ameliah shook her head. “No. Everyone in the party will receive the full accolade, no matter who breaks it.”
+
+Rain looked at Stint. “What about him?”
+
+Val looked at the scout. “What do you mean? What about him?”
+
+Rain shrugged. “The…accolade? It’s not divided, right? Can we invite him to the party or something?”
+
+“Why?” Val asked.
+
+“Why not?” Jamus countered. “I don’t suppose it would cost us anything?” He looked at Ameliah for confirmation. She shook her head.
+
+“Stint,” Ameliah said. “Will you promise not to tell your master anything about us?”
+
+Stint nodded. “Yeah. I won’t tell a soul. I swear.”
+
+Ameliah smiled. “Good.”
+
+Rain’s eyes flicked to the party display. Stint’s name and vitals were now displayed, the same as the others. “Wait, how did you do that?” He looked at Ameliah.
+
+She smiled. “It’s about mindset. It was as much him deciding to join us as anything that I did.”
+
+“Oh,” Rain said. Parties are weird.
+
+“We done?” Carten said, tapping his foot impatiently.
+
+“Hang on,” Rain said. “I want to try something.”
+
+He placed his hand on the core. The gem was solid, though he still had trouble making out any detail on its light-devouring surface. He couldn’t feel anything coming from it through the metal of his gauntlet.
+
+Ok, here goes nothing. He focused, expelling mana through his hand, trying to force it into the core. The mana exited his body, passing through the metal of his gauntlet and fading from his senses. He couldn’t tell if anything was making it inside the gem.
+
+Ameliah shook her head. “That won’t work. You need dark-aspect mana if you want to refill a dark-aspect core.”
+
+“Oh,” Rain said, stopping and stepping back. “How do I get dark-aspect mana?”
+
+“Enough,” Tallheart rumbled. He reached out with a hand and grasped the core. He squeezed. There was a crack, and then suddenly, Rain was somewhere else.
+
+He stumbled. There was nothing in every direction, just a featureless plane of swirling darkness. Despite the fact that there was no light, he could still see. He looked down at himself, then gasped. What the fuck?
+
+His armor was gone. As were his clothes. His body was made of translucent bluish light. Is this…my soul? Why is my soul naked?
+
+His thoughts were interrupted by a dark light, rushing toward him. He lacked the words to describe how it could shine with darkness, yet it did. It was like the light given off by his armor when he channeled mana into it, but much stronger. The light stopped to hover in front of his eyes. It was coming from a small tile of some dark metal, about the same size and shape as an adventurer’s plate. There were words stamped on it.
+
+He reached out to touch it, his spectral hand wavering as it made contact with the metal. It felt real enough. He stared at the black metal, reading the words stamped into it.
+
+Accolade of the Everdeep Fortress
+
++10 Perception
+
+With no warning, he was back in his body, the black plate clasped in his gauntlet. “Woah!” he gasped.
+
+“That was most alarming,” Jamus said, staring at his own copy of the black plate. The light was gone, the plates appearing as nothing more than jet-black pieces of metal. Rain looked around, seeing that everyone had one. He blinked. Is it brighter in here? There was no sign of the shattered core. The darkness seemed to have fled, but he didn’t know if that was just because the core was gone, or if his senses had actually been improved. He pulled up his status. His perception was now listed as 20. He looked back down at the plate. Just having this makes me see better?
+
+“What the depths is this!” Stint gasped, staring into the darkness around himself. “Where did all of this come from?” He waved his hands, reaching for something. Rain looked up, unsure what the man was talking about.
+
+“That’s your interface,” Ameliah said. “Congratulations. You’re awakened now.”
+
+Rain raised his eyebrows. “You can awaken someone by breaking a lair core?”
+
+“Apparently,” Ameliah said. “I wasn’t sure. It’s not something I’ve tried before. Unclaimed cores aren’t exactly easy to find.”
+
+Stint sank to his knees, tears rolling down his face. “Thank you. Thank you so much.”
+
+Rain smiled, looking at the man, then back to his own plate, then down at his armor. This is what it’s all about. I’m going to awaken the world.
+
+The room shuddered. Rain glanced up at the ceiling. A giant crack splintered through the stone as his eyes widened in horror.
+
+“Time to go,” said Jamus. Tallheart hoisted Stint to his feet and dragged him toward the portal. Rain wasted no time following the others out of the collapsing lair. Ameliah was the last out. She walked through calmly, not looking back as the swirling darkness of the portal behind her vanished. The core room was briefly visible before it was buried in an avalanche of stone. Rain coughed as dust filled the tunnel.
+
+“Fuck,” Carten said, then he laughed. “Ya could have warned us about that.”
+
+Val dusted himself off, then sent his light down the tunnel. “Come on. We should hurry.”
+
+Rain followed. As he walked, he examined the plate. An accolade, huh? It feels like…huh. What if I… He concentrated on the odd sensation. Abruptly, the plate vanished from his hand. What the? He concentrated again. The plate reappeared just as abruptly.
+
+“It’s tied to your soul,” Tallheart explained, watching him. “I recommend keeping it hidden.”
+
+Rain looked at him. “Tied to my soul?”
+
+“Yes,” the smith rumbled. “Do not let anyone see it that you do not trust.”
+
+“Why?” Rain asked.
+
+“So no one tries to kill you,” Ameliah said. “When you die, the accolade will be free for anyone to take.”
+
+Rain gulped, making the metal plate vanish again. He could still feel it, somehow, floating within him. Well, that’s alarming. He looked at Tallheart worriedly. He just said he’s been in many lairs before. He must have more of these… As if the bounty on cervidians wasn’t bad enough.
+
+He looked at Stint. “Hey.”
+
+Stint looked at him, his eyes wide.
+
+Can I trust him? I don’t know a thing about him…
+
+Stint shrunk back. “Don’t!” he said, staring at Rain with fear in his eyes. Rain blinked, realizing how imposing he must look wearing full platemail. Wordlessly, he raised a hand to his visor, sliding it up slowly, revealing his face. The whole front of the helmet slid up smoothly, allowing him to lock eyes with the scout.
+
+“I’m not going to hurt you,” Rain said, staring at Stint with a serious expression. “I just need you to promise you won’t tell a soul about this. As far as you know, there was no lair. We were never here. You never saw us. And there definitely wasn’t a cervidian. Do you understand?”
+
+Stint nodded furiously. “I understand.”
+
+“Good,” Val said, cutting into the conversation. He leaned in to stare at Stint, pulling his lips back into a vicious smile. “Because if not…”
+
+Rain pushed him away lightly. “Stop it. That isn’t necessary.”
+
+Val laughed. “Fine.”
+
+The group made it back to the entrance of the mine without encountering anything, monstrous or otherwise. Carten poked his head out the door, surveying the immediate surroundings.
+
+“All clear,” he said, stepping out into the open. “Let’s get gone.”
+
+They returned to their camp, quickly loading up the cart with their belongings, as well as a decent number of metal bars and Tallheart’s crucible. He squished it down using his skills, removing the legs and compacting it so it would fit in the cart. Rain shook his head. I’m never going to get used to that. Tallheart also retrieved his anvil, but wisely didn’t try to put the massive chunk of iron on the flimsy wooden cart bed.
+
+“Come on, we’ll circle around this way,” Ameliah said, hitching up the horse. She led them away from the camp, heading into the hills. She pushed a boulder out of the way, making space for the cart, then swore at the giant hole that had been left in the landscape. Stint stopped, staring at the hole, his mouth agape.
+
+Rain smiled. Tell me about it, man.
+
+Stint shook his head, recovering from his surprise. “She’ll follow you. Lady Vekuavak. You can’t hide what happened here. She’ll know someone stripped the mine, even if she doesn’t know about the lair.”
+
+“Not much we can do about that,” Jamus said. “We’ll just have to outrun her. She won’t know it was us as long as she doesn’t see all this metal. Someone throw a blanket over the cart or something.”
+
+Stint shook his head again. “She’ll catch you. She’s fast. You don’t know her like I do. She’s awakened too, and she’s not going to let this go.”
+
+“All the more reason to hurry,” Ameliah said.
+
+“I’ll…stay here,” Stint said. “I can slow her down. If I can convince her that you were gone by the time I got here…”
+
+“I don’ like that plan,” Carten said. “He’ll squeal, and we’ll be fucked.”
+
+“I agree,” Val said.
+
+“No, I won’t!” Stint said, looking at them anxiously. “I promised.”
+
+Rain sighed. “It’s not about what you promised.” Carten and Val are right. We can’t let him go. Not yet. He’ll give it away, whether he wants to or not. “Leave the cart. We’ll travel faster without it. The metal, too. If she at least gets that, maybe she won’t be as mad.”
+
+“I agree,” Jamus said, unhitching the horse quickly. “Grab what you can. Let’s go.”
+
+Tallheart stared at his crucible and the piles of metal. Wordlessly, he set down the anvil and walked to the cart. He dug his fingers into the crucible, pulling the Heat Cryst free. He picked up two of the iron bars, tucking them into a pouch along with the Heat Cryst. Next, he removed the filters, setting them aside. He laid his hands back on the crucible, pushing. He compacted it down into a sphere, then lowered his hands with a sigh. He picked up the filters and stepped away, leaving the remains of the crucible and the rest of the metal behind. He set the filters atop his anvil, then lifted the whole thing.
+
+Damn it. Rain grabbed his own pack, settling it across his shoulders. He’d already adjusted the straps, using aoaka hide to extend them so he could wear it over his armor. The water barrel, the cauldron, and a few other things were also abandoned, the others taking their packs and getting ready for a long walk back to Fel Sadanis. Stint looked on anxiously. Rain handed him his bow and quiver. “Come on. You’re with us now.”
+
+Ameliah nodded, then pointed off into the hills. “We need to move. Carten, guide the horse. Rain, do the thing.” She took off at a slow jog.
+
+Rain activated Velocity, slowly increasing the boost so as to not alarm Stint or the horse. He hustled after Ameliah, conscious of the weight of the armor he was wearing. He grimaced. Jogging. I hate jogging.

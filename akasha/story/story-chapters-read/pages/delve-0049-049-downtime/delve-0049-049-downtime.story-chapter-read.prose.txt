@@ -238,3 +238,192 @@ Humm. Assuming it levels the same way as my auras do, at rank 10, Solar Ray woul
 
 “Hey Val, do you mind if I ask a question about Solar Ray?”
 
+“Go ahead. It’s a foundation skill; it’s hardly a state secret how it works,” Val said, pointing at the rock with two fingers. There was another flash as he fired again.
+
+Interesting. He doesn’t fire it from his palm like the skill says.
+
+“How much damage does it do at rank 10?” Rain asked.
+
+“Low damage, unless I boost it.”
+
+“How much specifically?”
+
+“That…is asking too much. No offense, but I don’t want people finding out how much Focus I have.”
+
+“How about base then, without the added Focus?”
+
+“Not everybody thinks math is as fun as you do, Rain.”
+
+“Right, sorry. How about mana? How much does it use?”
+
+“10 mp per shot.”
+
+“Really? It doesn’t cost more as it ranks up?”
+
+“Correct. Single target abilities usually don’t.”
+
+Huh. 3.5 dmg/mp is a lot better than 0.35 dmg/mp. I think I’m starting to see why Jamus says the offensive auras are inefficient. Immolate is at something like 2 dmg/mp/second, and that’s with Aura Synergy boosting it. Still, it does hit everything in the postcode...
+
+No, auras are still better in my mind. Everyone should take them. They don’t though, and it isn’t because they’re stupid. Just because they don’t have an education system, it doesn’t mean everyone is a moron. I need more data. Maybe other stuff is different too, like the focus scaling, or how much the damage increases at each rank.
+
+Val stopped firing. “I’m out. Essence Well, please.”
+
+Rain nodded and activated the skill, keeping the rate slow to preserve the efficiency. He blacklisted himself to work on IFF while giving Val as much mana as was possible. The blue rings that formed around Val moved slowly, but not nearly as slowly as those around himself. The speed of the rings seemed to be directly tied to the transfer rate.
+
+“Can you pump it up?” Val said. “That’s really slow.”
+
+“Slow is efficient,” Rain said with a shrug.
+
+Or is it…
+
+His previous line of inquiry temporarily set aside, he brought up the display for Essence Well, which he was currently running at 5% of its nominal rate.
+
+Essence Well (10/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 0.71 mp/s
+
+Efficiency: 100%
+
+Range: 14.2 meters
+
+Table time.
+
+He opened his notebook and flipped to the very last empty page. He quickly ratcheted through the steps of Channel Mastery, recording the listed rate and efficiency.
+
+Channel Mastery (%)
+
+Rate (mp/s)
+
+Eff (%)
+
+0
+
+0
+
+100
+
+5
+
+0.71
+
+100
+
+10
+
+1.42
+
+100
+
+15
+
+2.13
+
+100
+
+20
+
+2.84
+
+66
+
+19
+
+2.70
+
+72
+
+18
+
+2.56
+
+78
+
+17
+
+2.41
+
+87
+
+16
+
+2.27
+
+98
+
+Damn it. I need a notebook with a sort function. Whatever. I already knew it capped at 100% efficiency, so 15% intensity seems like it would be the best setpoint. Ignoring the fact that IFF isn’t perfect, I can give Val 2 mana a second. I have 5,100 mana, so I could transfer all of that in…2,500 seconds, however long that is. Umm, 3,600 seconds is an hour, so like 45 minutes or something. Too damn slow.
+
+Val started shooting again, only firing a pulse every five seconds or so. Rain left the skill at 15% power while he continued to think about the underlying formulas.
+
+I think we can do better. Ah, what the heck, it isn’t like I have anything else to do. Optimization time.
+
+If I can transfer more mana to him in less time, we might be able to get this done faster. The more time I spend using Essence Well, the less time I’m using Winter. If I can transfer a bunch all at once, then regenerate with Winter, I might be able to give him more mana in less time overall, while getting more experience myself. Let’s do this.
+
+Rain scribbled in his notebook.
+
+Problem: What is the optimal balance between Essence Well and Winter for the maximum average transfer of mana?
+
+TR = Transfer Rate
+
+TE = Transfer Efficiency
+
+MU = Mana Used (me)
+
+MU = TR / TE -> How much mana I use when using Essence Well
+
+ET = Extra Terrestrial Essence Well Time
+
+MT = Mana Transferred
+
+MT = ET * TR → How much mana Val gets
+
+WT = Winter Time
+
+T = ET + WT → How long we do this for in total
+
+MR = Mana Regenerated → How much I regen while we are doing this.
+
+RR = My base M.Regen = 0.2 mp/s
+
+WP = Winter Power = 5.5 (without Aura Focus)
+
+WR = My rate with winter = RR * WP = ~1 mp/s
+
+MR = ET * RR + WR * WT
+
+MR = ET * RR + WR (T - ET)
+
+OTR = Overall Transfer Rate → The thing I care about
+
+OTR = MT / T
+
+MR = ER * RR * WR*T - WR*ET
+
+MR/WR/ER - ER*RR = WR*T
+
+T = MR/WR/ER + ER*RR/WR
+
+T = (MR/WR/ER - ER*RR)/WR
+
+OTR = MT / (MR/WR/ER - ER*RR)/WR
+
+…Fuck
+
+Rain sighed and closed his notebook. He felt like he’d gotten lost somewhere along the way. Plus, he was out of paper.
+
+15% transfer rate will be fine. I’ll try this again later when I’m—
+
+Rain’s thoughts were interrupted by the sound of retching. He looked up to see Val doubled over, spraying chunks of rockmelon across the ground.
+
+“Shit, are you ok?” he said, clambering to his feet. He dropped Essence Well and hurried over to him.
+
+“Damn headache,” Val said. “Keep going. I’m fine.”
+
+“Yeah, no,” Rain said. He checked his own mana. He’d transferred several thousand mp to Val in the space of a half-hour while he’d been playing with numbers. Apparently, that was too much. He hadn’t even considered that he might overwhelm Val’s mana usage capacity, thus rendering his entire calculation moot.
+
+He used Purify quickly to clean up the mess, then sighed and stared at Val. “You’re done. This is probably mana use soulstrain. Why didn’t you say anything?”
+
+“I won’t let a little soulstrain beat me,” Val said, rubbing at his temples. “Come on, start it up again.”
+
+“Val, you’re an idiot. You know that?”

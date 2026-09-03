@@ -90,3 +90,436 @@ Malleable Ring [Bound]
 
 Durability: 102/102
 
+Material: Grand Arcane Gold
+
+Mana Capacitance Rune
+
+0/226 mp
+
+Import Efficiency: 75%
+
+Export Efficiency: 0%
+
+Stat Enhancement Rune Complex [Inactive]
+
+Maximum Allocation: 287 points
+
+Cost: 1 mp/point/day
+
+Subordinate Metallic Unity Rune [Active]
+
+Rain’s jaw dropped as he read through the enchantments listed on the ring. The flexible stat boost was what he’d asked for, but the strength of it was beyond his wildest expectations. How did he make it so strong? Grand Arcane Gold? What the hell is that? Subordinate Metallic Unity? Huh?
+
+Rain pushed mana into the ring, easily bringing the capacitor up to full. He focused on the enchantment. There were six fuzzy runes that felt like inputs within the complex enchantment. His sense was fuzzy, Mana Manipulation not giving him a clear picture of what was going on within the metal. Those must be the controls. There’s six of them because there are six stats to choose from. Tentatively, he pressed on one of them with his mind, willing it to activate.
+
+“AAAAAAAAAAAHHHHHHHHH!” Rain screamed as his world was consumed by fire. His bones felt like they were burning from the inside as if the marrow had been replaced with lava. The pain vanished after a few seconds of absolute agony. Rain collapsed, but his fall was arrested by Tallheart.
+
+“Why did you do that? Did I not warn you?” Tallheart said, lowering him to the ground. Rain tasted blood. He’d bitten his lip when Tallheart had caught him. He looked down at his hand, noticing that the ring had been removed, along with the finger of his gauntlet. He looked back at Tallheart, panting.
+
+“What the fuck was that?! It felt like—”
+
+“That was soulstrain. I told you to be careful.”
+
+“I was being careful!” Rain protested. “I barely touched it!”
+
+“Clearly not,” Tallheart said. He propped Rain up and offered him the ring again, still on the metal finger of the gauntlet. “Try again. This time, do not try to activate the full enchantment at once.”
+
+Rain hesitantly took the finger but didn’t slip it back on. He glared at Tallheart. “We need to talk about what constitutes a proper warning.” He spat, trying to clear the blood from his mouth. “Would it have killed you to explain how to activate it safely?”
+
+Tallheart shook his head. “I am sorry. It is not something that can be explained. The process of mentally controlling an enchantment is different for everyone.”
+
+Damn it that fucking hurt. Rain sighed and slipped the finger back on to the gauntlet, trying to stop his hands from shaking. Carefully, oh so carefully he extended his senses again, feeling for the runes within the metal. His sense was vague, Mana Manipulation not having the resolution to see what was going on.
+
+Fuck this. Okay, System, I want a control panel for this thing. Enough with just going by feel. Come on. He focused. Almost immediately, a blue panel popped up in front of him. He blinked in surprise. He’d been expecting to have to fight tooth and nail to get the system to give him a dialog for the ring. Contrary to his expectations, it had appeared with barely any effort. Why? Rain looked over the dialog. There were six sliders like on a soundboard for mixing audio, each labeled with the name of a stat and with markings going from zero to 100%. There was a small number zero displayed in a box above each slider, just below the label. If I can make something like this, why can’t I make a damn calculator?
+
+Carefully, he slid the slider marked ‘Recovery’ up. The number displayed below the label climbed and he stopped when it got to 50. He didn’t feel a thing. He pulled open his menus to make sure that the ring was working.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 9128/22750
+
+Dynamo
+
+Health
+
+200
+
+Stamina
+
+200
+
+Mana
+
+5100
+
+Strength
+
+10
+
+Recovery
+
+60[10]
+
+Endurance
+
+10
+
+Vigor
+
+10
+
+Focus
+
+10
+
+Clarity
+
+200
+
+Free Stat Points
+
+0
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+200
+
+200
+
+0
+
+100%
+
+H.Regen
+
+600/day
+
+600/day
+
+0/day
+
+100%
+
+Stamina
+
+200
+
+200
+
+0
+
+100%
+
+S.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+1.67/s
+
+0.21/s
+
+-0.05/s
+
+820.0%
+
+Movement Speed
+
+10
+
+Perception
+
+20
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+51
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Holy shit, it’s working! This is great! My lip should heal at like six times normal speed. As far as the system is concerned, the stat boost applies immediately. Jamus said that the soul needs to get used to the stats, but I don’t think that’s really it. It’s the body that needs time to adapt, not the soul. Until you’re used to it, you can’t get the full benefit of the boost.
+
+For Strength, it’s easy to see the effect; it just means how strong you are. For Recovery, it’s how much health you can regenerate before you start feeling sick and weak. I shouldn’t leave it like this for long unless I want more pain. I guess spreading things out would be the best way for now.
+
+Rain played with the sliders, careful not to exceed a total boost of 180 points. He could feel the heat in his bones starting to return as he passed 150, a warning that he was approaching his limit. He’d have to get used to stat boosts in general, as well as the stats themselves. He decided to err on the side of caution and boost each stat by 20, rather than trying to push it any further. He closed the window and reviewed his modified status.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 9128/22750
+
+Dynamo
+
+Health
+
+600
+
+Stamina
+
+600
+
+Mana
+
+6750
+
+Strength
+
+30[10]
+
+Recovery
+
+30[10]
+
+Endurance
+
+30[10]
+
+Vigor
+
+30[10]
+
+Focus
+
+30[10]
+
+Clarity
+
+220[200]
+
+Free Stat Points
+
+0
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+600
+
+600
+
+0
+
+100%
+
+H.Regen
+
+300/day
+
+300/day
+
+0/day
+
+100%
+
+Stamina
+
+600
+
+600
+
+0
+
+100%
+
+S.Regen
+
+300/day
+
+300/day
+
+0/day
+
+100%
+
+Mana
+
+6750
+
+6750
+
+0
+
+100%
+
+M.Regen
+
+1.87/s
+
+0.234/s
+
+-0.05/s
+
+820.0%
+
+Movement Speed
+
+10
+
+Perception
+
+20
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+53
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+He laughed and flipped up his visor to beam at Tallheart. “Tallheart, this is disgusting!”
+
+Tallheart frowned. “What is disgusting? Is there something wrong?”
+
+Rain laughed again and shook his head. “No, the ring is amazing. It just feels…dirty. It’s too strong.” He flicked on his HUD to check his stamina and health. The menus didn’t display the current values for his vitals, just the total. As he expected, the bars on his HUD weren’t full. He’d have to regenerate the points.
+
+“I am glad you like it,” Tallheart said. “It is the most intricate piece of enchantment I have ever done on an item that small. It was only barely within my skill.”
+
+“How did you even do this, Tallheart?” Rain said, staring at his statistics in wonder. “This changes everything!”
+
+Tallheart smiled. “It was not easy. I needed to add a GranCryst to the metal for it to support the required runic density.”
+
+Rain blinked. “A…GranCryst? Those are like normal Crysts, but super rare, right? Oh, that explains it. Grand Arcane Gold…” Rain paled as he looked down at the ring adorning his finger. “Tallheart, no, you can’t just do something like that. Now I owe you like…shit, a few thousand Tel? Where did you even get one of those? Here, take it back. I can’t accept this.”
+
+Tallheart laughed, surprising Rain as he fumbled with the gauntlet, trying to remove the ring. “No,” the antlered man said. “You will accept it. I have had that Cryst for many years. It has little value for me. This is the type of thing that it is meant for. I am…happy that I was able to use it at last.”
+
+“Tallheart, no. It’s too much. I need to pay you back.”
+
+Tallheart shook his head. “You already have.”
+
+“Huh?” Rain said.
+
+“You do not understand. It is not about Tel.”
+
+“What do you mean?”
+
+Tallheart pointed to the trench. “Jamus would not do that. He is a friend, yes, but he is sleeping in his house in the city, not camping in the forest with me. You have been working on that all morning. That you would do so…it means…much. That is not all. The metal. The supplies. The coffee. Even your questions. It is nice…to be with people again.”
+
+“Tallheart, I…”
+
+“Thank you, Rain,” the smith said, nodding to him. He turned his back and walked off in the direction of the trench. “Come. There is work to do.”

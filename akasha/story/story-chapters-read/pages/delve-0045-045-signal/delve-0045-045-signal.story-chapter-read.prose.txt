@@ -500,3 +500,46 @@ Amplify is 2x power, Aura Focus is 3x power, and Channel Mastery is 2x power. Fo
 
 Would reducing the damage I took from that fall by half have been enough? I guess so, seeing as I’m still alive and all… Wait, did I even have enough mana to cover that? The cost right now is pretty insane. Blocking 200 damage would cost me over 10,000 mana. Would that cause undermana, or would the skill just cancel? What does undermana even do, anyway? Memory loss? I can’t remember the impact, which is probably for the best, but everything up to that point is crystal clear. I feel like I should be traumatized or something…
 
+Best not to dwell on it. Where was I?
+
+Oh, right. Yesterday, Force Ward would have cost 1 mp/dmg mitigated, times 54 for all the mods. That means, with a full mana pool, I could have blocked 100 damage with another 100 getting through because of the 50% rate. I didn’t have full mana, maybe around half, so the skill would have blocked 50 damage, with me taking the remaining 50, plus whatever else was left from the fall after I ran out of mana. In hindsight, Extend Aura was a bad idea, but I kinda had other things on my mind.
+
+Ameliah said my health was totally empty, so that means a fall of 50 meters caused at least 450 points of damage. It had to have been close. I don’t think I’d have survived without the skill, or without the Strength ring, or without the immediate healing. I wonder if I reached terminal velocity?
+
+Rain sighed and dropped the skill, dismissing all of his windows and switching back to Winter. He was running on fumes after transferring all of his mana to Jamus with Essence Well. He let his head fall back against the wall with a thump.
+
+I really almost died. Did die, depending on your definition. That’s three times now. Once in the sewer, once with the Kin, and now once more by falling off a cliff. I’m catching up to Val at a worrying rate. Wait, no, I forgot about the Musk Wolf. Four times.
+
+Rain shivered and pulled himself up to his feet with the help of the wall. It was time to get going unless he wanted to add death by dehydration to the list.
+
+“Ready to go?” Val asked.
+
+Rain nodded. “Yup. So, tell me about this essence monster you saw.”
+
+Val grinned. “Crafty bugger. It’s a little rodent thing, about the size of a lago, but it’s level five and fast as lightning. It was sitting there on the bridge when we climbed out, mocking me. It stuck around just long enough for me to see its name, then scampered across. I would have had the damn thing, too, if Ameliah hadn’t stopped me.”
+
+“You’d have gotten yourself killed, and you know it,” Ameliah said. “There were more bats, remember?”
+
+“Yeah, yeah,” Val said. “I’d have been fine. I had plenty of mana by then.”
+
+Ameliah gave him a skeptical look as they started moving down the tunnel, but didn’t make an issue out of it.
+
+“Anyway,” Val said. “If you see something called a ‘Dire Darkmonk’, don’t so much as look at it funny. It’s alright if you’re around, but I need 100% contribution. If it comes after you, don’t block it, don’t kick it, don’t shoot it, don’t do anything that might cause damage. Just get the hell out of the way and let me deal with it.”
+
+“I’ve been meaning to ask about that,” Rain said. “Contribution…I’ve noticed it’s different in here. Outside, I got credit for pointing out those slimes, even though I didn’t actually do anything to them other than find them. In here, though, only stuff I’ve damaged directly has counted. Those bats, for example. Sending them into the wall gave me 100% contribution for the ones that fell to their deaths. Who determines contribution, and why did the rules change?”
+
+Ameliah sighed. “In a lair, contribution is damage based only. Nothing else will affect it. Not healing, not mana regeneration, not even buffs like Velocity. As for why, that can wait. We’re still in danger. You can ask all the questions you want when we’re back on the surface.”
+
+“Right, sorry,” he said. Ameliah had been very tolerant of Carten’s loud description of the battle, though she had looked uncomfortable while the gregarious man had been lavishing her with praise. Rain shook his head and resolved to keep his mind on the issue at hand, namely their survival. He was feeling the absence of the Strength ring on his finger keenly.
+
+He switched to Detection and released a pulse, searching for monsters. Immediately, he got a hit from straight behind them. He whirled, turning to face the source of the signal. There was only one, and it felt slippery to his mind, even though he had used a full-strength Detection Nova. He scanned the darkness, seeing nothing.
+
+“What is it,” Jamus asked, but Rain held up a hand for him to wait. It hadn’t felt like the signal was moving toward them.
+
+On a hunch, he used Detection Nova once more, this time searching for a very specific type of monster. Again, the signal came back to him, about 25 meters back along the tunnel in the darkness.
+
+“Um, Val…” he whispered.
+
+“Yeah?” Val asked, keeping his voice down to match.
+
+“Your Darkmonk,” Rain said softly. “It’s following us.” He smiled. “And it’s alone.”

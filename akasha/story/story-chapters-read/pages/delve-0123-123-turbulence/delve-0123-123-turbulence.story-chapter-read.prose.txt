@@ -168,3 +168,448 @@ Different metals are better for different things.
 
 Enchanting metal is challenging because of how it interacts with mana.
 
+Various ways around it, some more limited than others.
+
+*Irritated rumbling noises*
+
+Info from Myth and Reason:
+
+Alchemists make special materials like adamant.
+
+Some crafters take it as a secondary tree.
+
+Many crafters require special equipment.
+
+Crafting is expensive.
+
+Both for equipment and materials.
+
+Non-awakened can craft!
+
+Meloni can make basic potions.
+
+General Notes:
+
+Worker
+
+Common
+
+Requirement: None
+
+Effect: 50% boost to non-combat skills
+
+Warning: Experience may no longer be gained through combat
+
+Haven’t been able to find a clear answer on what counts as a “non-combat” skill.
+
+Crafters take a long time to get going.
+
+Skilled crafters get snapped up by nobles and the Bank.
+
+There are rumors of non-basic crafting classes (more than one tree, etc.).
+
+Nothing concrete.
+
+There’s this smith Karamaugin, who’s apparently hot shit.
+
+No idea where he lives, or even if he’s still alive.
+
+Only person I’ve heard of who makes goldplate stuff.
+
+There are ‘insight’ skills that help you intuit things.
+
+Spooky brain magic?
+
+System/culture seems to encourage artisanship.
+
+Replaceable parts --> not a thing.
+
+Todo: industrial revolution? Bad idea?
+
+Medium Trees
+
+Metalworking
+
+Skills for working with metal
+
+Metalworker
+
+Uncommon, hidden
+
+Requirement: Four skills in Metalworking at rank five
+
+Effect: 50% boost to non-combat skills
+
+Effect: +3 cap for Metalworking tree
+
+Warning: Experience may no longer be gained through combat
+
+Stoneworking
+
+Skills for working with stone/crystal
+
+Class unknown
+
+Natureworking
+
+Skills for working with wood/plants/cloth/paper/hide/bone/fur etc.
+
+Class unknown
+
+Augment Trees
+
+Chemistry
+
+Messing with molecules
+
+Magical molecules might be a thing, see health potions
+
+Chemist
+
+Uncommon, hidden
+
+Requirement: Four skills in Chemistry at rank five
+
+Effect: 50% boost to non-combat skills
+
+Effect: +3 cap for Chemistry tree
+
+Warning: Experience may no longer be gained through combat
+
+Alchemy
+
+Messing with atoms
+
+Magical atoms might be a thing, see adamant
+
+Alchemist
+
+Uncommon, hidden
+
+Requirement: Four skills in Alchemy at rank five
+
+Effect: 50% boost to non-combat skills
+
+Effect: +3 cap for Alchemy tree
+
+Warning: Experience may no longer be gained through combat
+
+Runecrafting
+
+Skills for direct magical enchantment
+
+Class unknown
+
+Discipline Trees
+
+Armor Crafting
+
+Making armor
+
+Class - Armorsmith, details unknown
+
+Weapon Crafting
+
+Making weapons
+
+Class - Weaponsmith, details unknown
+
+Artificing
+
+Making jewelry and magical tools
+
+Class unknown
+
+Example Builds
+
+Traditional Weaponsmith
+
+Weapon Crafting, Metalworking, Runecrafting
+
+Bowyer
+
+Weapon Crafting, Natureworking, Runecrafting
+
+Jeweler
+
+Stoneworking, Artificing, Runecrafting
+
+Potion Brewer
+
+Chemistry, Alchemy, Natureworking
+
+As simple as it seemed, there was a lot to unpack there, and some of it might even be wrong, given the limited knowledge of those Rain had been able to talk to. They’d all have to figure it out together as they went along. He hadn’t specified what kind of crafters he wanted for the last two slots, especially since he hadn’t expected many applicants.
+
+The first winner of the draw was Shena, the woodcarver, who’d decided to become a Woodsmith.
+
+Yes, they really called it that.
+
+A Woodsmith was a maker of wooden weapons, the primary tree being either Weapon Crafting or Natureworking. Shena had elected to start off with Natureworking, hoping that she’d end up more versatile in the long run. Romer, the scribe, was going for Runecrafting as his primary tree, intending to specialize in scrolls and the like. Beyond that, he’d also be able to enchant Shena’s weapons for her, at least until she got her own skills with runes going later on.
+
+Rain tilted his head, then opened up yet another window. He scrolled to the bottom, then added a new item, typing in a few more details.
+
+todo.odt
+
+B
+
+U
+
+I
+
+…
+
+* Make a spreadsheet application
+
+* Teach people Diggy Diggy Hole as a marching song
+
+* Talk to Tallheart about Forgewagon dashboard
+
+* See if Dozer can learn math
+
+* Invent printing press
+
+** Shena, carve letters
+
+** Reason, make ink
+
+** Staavo, build press
+
+** Rain, compose infodumps
+
+** Romer…rune stamps? Mass-produce scrolls? Possible?
+
+Waving away the window, Rain dismissed his keyboard and closed out his entire interface again. He’d come in here to get a break from the constant theorycrafting, not just do more. Even he had his limit. There were still a few hours until he’d scheduled the drawing for the next eight slots, and he wanted to be refreshed by then, which meant he needed to think about something else.
+
+Meditation would help, but I can’t do that in here. Not alone. I’m not that crazy. I could work on my interface, but I’m too frazzled at the moment to code. What I really need is a book. Proper fiction. I wonder if—
+
+Rain looked up, distracted by a flash of linksight. He examined the feeling, focusing on the barest hint of flavor that came with the sense of connection. I’ll guess…Jamus? He opened the party display.
+
+Essed Frostbarrows
+
+Rank 9
+
+0%
+
+Health
+
+Stamina
+
+Mana
+
+Rain
+
+86%
+
+62%
+
+94%
+
+Tallheart
+
+100%
+
+99%
+
+100%
+
+Damn! Rain thumped his knee lightly with a fist. Wrong again. It’s so hard to tell people apart. I’ll keep working on it.
+
+He got to his feet, walking over to the door. He couldn’t see anyone in the darkness, but he raised his hand and waved anyway. Tallheart would be able to see him easily, backlit as he was by the light from the core.
+
+Rain didn’t have long to wait before the antlered smith appeared, casually walking through the thermal barrier and into the circle of illuminated snow. He was wearing his company cloak over his armor but showed no sign that the cold had bothered him in the slightest. Rain smiled. That was way less than five minutes. He totally ran, then slowed down to pretend like he didn’t for dramatic effect. Oh, Tallheart.
+
+“Hey,” Rain said, greeting his friend. “What’s up?”
+
+Tallheart rumbled in reply. “Hello, Rain.”
+
+“Something going on out there I need to know about?”
+
+“No,” Tallheart said simply as he reached the building.
+
+Rain nodded, moving back inside, so he wasn’t blocking the doorway. Ameliah would have just Messaged me if they needed me for something. He watched as Tallheart entered the core room, then looked around, his eyes lingering on the core.
+
+Rain waited patiently.
+
+“Hmm,” Tallheart said, gesturing at the core. “Beautiful.” He closed his eyes, then sighed. “Quiet.”
+
+“Exactly,” Rain said. “It’s nice in here. Peaceful. It’s a shame the core wants to kill us, but then, we are planning to break it after all.”
+
+Tallheart nodded, then shifted aside his cloak, revealing that he’d been carrying a square wooden board. He held it out to show it to Rain. “Play?”
+
+Rain laughed, recognizing the grid carved into the wood. It was a Ranks board. Good timing, Tallheart. It’s like he read my mind. “Absolutely.”
+
+Hours later, Rain was standing back outside the lair, his hand resting against the barrier as he inspected the numbers written here. “Okay,” he said, taking his hand away. “We’re still good.” He turned to face the assembled group of eight before him, considering what to say.
+
+The drawing had gone about as well as he’d expected—not well at all—but the arguing was done now. It had taken a while, and Rain had somehow made it through without strangling anyone for being selfish. That wouldn’t have been possible had he not been in a good mood. It was amazing what a few rounds of Ranks had done for his mental state, even though he’d lost horribly.
+
+“Everyone ready?” he asked.
+
+“Yes, si—, um. Rain,” Tarny said. The others shifted excitedly, reminding Rain of penguins from their awkward movements. They were all bundled up to survive the arctic temperatures inside, the lack of proper gear counteracted by just adding layers.
+
+Rain nodded to Tarny, then glanced back at the roster he still had open.
+
+essed_core_slots.odt
+
+B
+
+U
+
+I
+
+DPS
+
+Fredek - Passivist (!) [Physical Passive]
+
+Telen - Rogue [Dagger Combat]
+
+Corrin - Geomancer [Geoevocation or Earth Manipulation]
+
+Clubbs - Hydromancer [Hydroevocation or Water Manipulation]
+
+Tank
+
+Lago - Shield+Sword [Heavy Armor]
+
+Support
+
+Ruce - Diviner [Divination]
+
+Tarny - Beacon [Utility Auras]
+
+Crafting
+
+Mollo - Jeweler [Artificing]
+
+He dismissed the display, satisfied after reading it through one last time. The DPS slots would round out their elements nicely and provide significant utility out of combat. He’d had less time to discuss builds with the second group in detail, but there’d be plenty of opportunities for that later. They knew not to spend any skill or stat points without discussing it with him and Ameliah first.
+
+“Fuckin’ depths, Captain,” Mollo cursed, tugging down the scarf covering his face. “Can we bloody go, or are you not fucking done staring at nothing? I’m hotter than a fucking forge under all this damn shit. Depths, my bloody balls are practically swimming in an ocean of my own rotten crotch sweat.”
+
+“Gross,” Rain said, scrunching up his face. “And watch your language, Mollo. We’ve talked about this. I WILL have Reason make soap, just so I can feed it to you. A curse here or there is fine, but if you keep inserting them between every other word, our supply is going to run out. Save some for the rest of us, yeah?”
+
+“Uh, right,” Mollo said. “Sorry, Captain. It’s just, fu—” He coughed as Rain narrowed his eyes. “Sorry.”
+
+“Honestly, I can’t believe you were a servant,” Telen said. “What noble would put up with you?”
+
+“Shut your damn hole, merc bastard,” Mollo snapped at him.
+
+Rain sighed, rubbing at the bridge of his nose. “Fix your scarf, Mollo. It’s time.”
+
+“You’re sure it’s not dangerous?” Ruce asked. The former farmhand was clutching nervously at the miner’s pick he was carrying.
+
+“It’ll be fine, Ruce,” said Corrin before Rain could respond, laying a hand on the barrier. The lair’s rank appeared, as well as its integrity, still showing zero. “Don’t be a coward. Nothing’s going to spawn in there.”
+
+“Stop planting flags,” Rain said, shaking his head. “You’re right, though. If it hasn’t recovered yet, it’s unlikely that it will in the five minutes it takes you to get to the core. Go on in. All together now, like we discussed. Weapons at the ready.”
+
+Rain watched with trepidation as one-by-one, the party members slipped through the barrier. He glanced at his clock as the last figure disappeared, then began to pace. This is going to be a long five minutes.
+
+Ameliah had raised some earthen walls in a semi-circle around this segment of the barrier to create a staging area, but it wasn’t a part of the main camp. It only took Rain eleven steps to go from one edge to the other. He knew because he’d started counting. Rationally, there was almost no danger, given everything he knew about how the world worked. On the other hand, something ALWAYS goes wrong. Mlem must have a number for that rule. I should ask him.
+
+Rain stopped pacing and touched the barrier. It still showed zero percent integrity, and as he pressed harder, it pressed back with a strength that he knew to be unyielding. He sighed and stepped back, then looked up, searching for Ameliah.
+
+She was somewhere up there, he knew. In addition to monitoring the lair—none of them knew what would happen when the core broke, including where the party would come out—she was also keeping an eye on the main camp as well as the group Tallheart had taken scavenging for metal in the surrounding farmhouses. It wasn’t a guarantee that Essed would be there when the barrier collapsed, and Tallheart was running low on iron.
+
+After a moment, Rain spotted her at last, so high that she was just a light speck against the backdrop of the gray sky. Her white cloak had made it difficult to distinguish her from the clouds, and Rain was sure he’d only managed it thanks to his perception accolade. He smiled. Flying is so awesome. I need to ask her again about taking me. I forgot about it in all the shuffle.
+
+With a sigh, he returned his thoughts to the ground, glancing at his clock as he once more checked the integrity of the lair. Four minutes gone. Still safe at zero. They should be getting to the core soon.
+
+Four minutes turned into five as Rain resumed pacing, then ten, and then fifteen. By twenty minutes, Rain was sweating, pressing his hand against the barrier and clenching his teeth. It shouldn’t have taken them this long. Did they get stuck? He looked back up at the sky and hunted for Ameliah, not finding her this time. He waved his arms, hoping that she at least could see him, then slapped his hand back against the magical wall. How long does it take to swing a pickaxe? Shit, they could be down and freezing to death, and there’s nothing I can—
+
+Rain’s heart lurched as motion caught his eye, and he turned to see a bundled form exit the barrier slightly to his left. The force against his hand vanished. His fingers slipped through, and Rain yanked them back from the cold of the void as he spun to face the unidentified party member. “What happened?” he demanded, rushing over.
+
+“We couldn’t break it,” Corrin said, pulling away his scarf. He took a deep breath, then turned to face Rain. One by one, the others exited behind him as he spoke. “The picks made it through the ice no problem, but when we got to the core, we couldn’t scratch it. We mined all around it until it was just hanging there in the air, but nothing we could do would move it or harm it in any way.”
+
+“Slime-humping magic rock,” Mollo said.
+
+“Not even a scratch?” Rain asked in disbelief, looking at the frustrated faces staring back at him. “That shouldn’t have happened. Ameliah said—”
+
+There was a thump of impact, and Rain whirled.
+
+“I said what?” Ameliah asked, rising from her heavy landing. “What’s going on?”
+
+“They couldn’t break the core,” Rain answered, gesturing.
+
+“Picks just bounced right off it,” Fredek supplied. He cracked his knuckles. “Couldn’t break it with my hands, either. It was like punching a wall.”
+
+“Clubbs even tried licking it,” Corrin said. “Don’t worry, he’s still got his tongue.”
+
+“Huh,” Ameliah said.
+
+“We’re thinking you need to be awakened,” Corrin said, glancing at the others. “Seriously, we tried everything.”
+
+“Not everything,” Ruce said. “We need an enchanted weapon like I said. We need Samson’s sword.”
+
+Rain shook his head. “His sword is bound. The enchantment won’t work for anyone else.” He turned to Ameliah. “It’s a good idea, though. Do you think an enchanted weapon would help?” Or dynamite. I can ask Reason… No, that’s probably a bad idea.
+
+Ameliah shrugged. “I have no idea. Tallheart might know, and even if he doesn’t, he could make us something to test it.”
+
+Rain shook his head. “Tallheart won’t make an unbound enchanted weapon. Not even one that’s bound, not unless he trusts them like family. Maybe he’ll make an exception for this, then melt it back down after. I’ll ask him. Can you send him a Message to come back to camp?”
+
+Ameliah shook her head. “It’s easier if I just take you to him.” She held out her arms. “Come on. You wanted to go flying, didn’t you?”
+
+Rain blinked, staring at her open arms.
+
+“What about us?” Corrin asked.
+
+“Head back to the main camp,” Ameliah said. “There aren’t any monsters around, and it isn’t far. You’ll be fine. This is going to take a while.”
+
+“Bloody shit in a shitpot,” Mollo said, kicking at the ground.
+
+“Mollo, seriously, what did I say?” Rain said. After a moment, he sighed. “Just be patient, all of you. We’ll get this straightened out.” He turned to Ameliah, taking a step closer. “Okay, I’m ready.”
+
+Ameliah nodded, then wrapped her arms around him firmly. “Hang on,” she said, her mouth next to his ear.
+
+“Lucky bastard,” Rain distinctly heard Mollo mutter under his breath. He smiled as he hugged Ameliah back, being careful of his enhanced strength, not that he thought he’d be able to hurt her, even if he’d tried.
+
+Ameliah spoke a quick phrase of nonsense, then there was a flash of white light, and the two of them lurched diagonally into the air.
+
+“Ah!” Ameliah gasped. There was another flash accompanied by a quick jerk as they changed trajectory suddenly, zig-zagging back the other way. Rain hadn’t been ready for it, and his head thunked against Ameliah’s, her hair getting in his face as it was whipped by the force. “Crap,” she swore, and there was another jerk and flash of light.
+
+“What’s going on?” Rain asked, looking down. They were already over ten meters in the air. His stomach was doing backflips in a way that was only partly from the vertigo.
+
+“It’s your armor,” Ameliah said. There was another jerk, and Rain saw that the flare of light that accompanied it was indeed coming from him. “It’s interfering with the spell more than I thought it would,” she continued. “Normally I can compensate…” Another jerk. “I think I’m getting it. Don’t let go.”
+
+Their speed increased as they drunkenly lurched into the sky, but not that much—perhaps to twenty kilometers per hour. Ameliah continued speaking into his ear as she struggled to correct their trajectory. “The spell isn’t meant to work on multiple people,” she said. “I’m forcing my soul to override yours so it treats us both as one. Otherwise, your armor would just absorb the— Damn!” They lurched again, their heads thunking together once more. “It’s a good thing you’re not wearing your helmet,” Ameliah said. “I’d end up with a lump the size of a goose egg.”
+
+“What do you mean, forcing your soul to override mine?” Rain asked, not at all bothered by the soreness on the side of his head.
+
+“If you stopped fighting me, it would help,” Ameliah said, not really answering the question as she jerkily guided them up over the top of the lair.
+
+“I’m not fighting you,” he said. At least, I don’t think I am…
+
+“You are,” Ameliah replied firmly. “You might not mean to, but with your soul the way it is, I don’t know. Try to focus on flying. You have to WANT the spell to work on you. It’s just like any other kind of magic.”
+
+“Like a buff?” Rain asked, the connection clicking in his mind. Buffs worked even on metal-armored targets because the recipients viewed them as beneficial. Their souls would prevent the metal from dissipating the positive magic. Debuffs, on the other hand, were rejected. The metal was treated exactly the same as the rest of the target’s defenses in terms of the order that the effect was applied. An unaware target would have a neutral response, which was what made healing someone who’d been stunned or knocked unconscious difficult. It required the healer to do more or less what Ameliah said she was doing right now.
+
+Rain concentrated. I want to be flying. The ground tilted worryingly below them, and he clenched his teeth. Happy thoughts. Happy thoughts. You’re flying, dingus, and Ameliah is hugging the shit out of you!
+
+The effect was almost immediate. Their flight smoothed out considerably, the light fading from Rain’s armor, though their speed didn’t increase. He laughed, squeezing tighter as he watched the treetops shrink below them. “Faster!”
+
+“You’re insane,” Ameliah said, incredulous. “Ugh, my stomach. Redirection is one thing. At least I know that it’s coming. That was—HEY!” They lurched violently, gravity suddenly asserting its hold and sending them plummeting like a stone until Ameliah compensated. The flash of light was almost blinding this time.
+
+“Sorry!” Rain said, grinning. He’d shifted his focus to wanting to be down. It looked like it had worked, though Ameliah had been able to mostly overpower him.
+
+“You shouldn’t be able to do that!” she said, craning her head away so she could glare at him. “And don’t even try to pretend like that wasn’t on purpose.”
+
+“It was, you’re right.” Rain said, grinning. “I couldn’t help myself.”
+
+“You and your tests,” Ameliah said. She snorted and rolled her eyes, sounding equal parts annoyed and amused.
+
+“Oh hey, there’s Tallheart!” Rain said, removing one arm to point to the side. They wobbled as their center of mass shifted. “We must be moving faster than I thought!”
+
+“I will drop you,” Ameliah threatened. “Just hold still.”
+
+Rain shook his head. “You won’t. I trust you.”
+
+“I mean on purpose,” she said. “Obviously.”
+
+Rain shook his head confidently. “You won’t.”
+
+“Oh, just get ready to land,” Ameliah sighed.
+
+“I’m ready,” Rain said, watching the ground rushing toward them. With gravity assisting, they were really picking up some speed now. The wind howled in his ears, and he prepped Force Ward, just in case something went wrong.
+
+Moments before impact, Ameliah cut their speed sharply. Rain’s knees slammed into hers as his feet hit the ground, interrupting both of their attempts to cushion the landing. They tumbled, hitting the ground and rolling together until they broke apart and collapsed to a halt sprawled next to each other.
+
+Amid the falling spray of disturbed snow from the impact, Rain became aware of the rhythmic sound of metal hitting metal. After a moment, he realized what it was. Tallheart was clapping.
+
+“Well done,” the smith said, rumbling with amusement.

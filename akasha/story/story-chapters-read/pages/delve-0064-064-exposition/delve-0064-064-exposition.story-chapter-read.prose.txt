@@ -566,3 +566,674 @@ Range: 18 meters
 
 Cost: 10 mp/hr
 
+Spring (0/10) (+)
+
+Boost S.Regen by 18% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/hr
+
+Summer (0/10) (+)
+
+Boost H.Regen by 18% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/hr
+
+Tier 1
+
+Velocity (10/10)
+
+180.00% boost to speed for all entities
+
+Range: 18 meters
+
+Cost: 10 mp/s
+
+Detection (10/10)
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 2.07 mm
+
+Range: 18 meters
+
+Cost: 10 mp/s
+
+Energy Well (0/10)
+
+Convert mana to stamina and transfer to all entities within range, including user
+
+Transfer Rate: 1.8 sp/s
+
+Efficiency: 20%
+
+Range: 1.8 meters
+
+Requires 5 ranks in Spring
+
+Life Well (0/10)
+
+Convert mana to health and transfer to all entities within range, including user
+
+Transfer Rate: 1.8 hp/s
+
+Efficiency: 20%
+
+Range: 1.8 meters
+
+Requires 5 ranks in Summer
+
+Essence Well (10/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 18 mp/s
+
+Efficiency: 20%
+
+Range: 18 meters
+
+Tier 2
+
+Acuity (0/10) (+)
+
+18% boost to physical senses for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/s
+
+Requires 10 ranks in Detection
+
+Requires 10 ranks in Essence Well
+
+Precision (0/10)
+
+18% boost to physical precision for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/s
+
+Requires 10 ranks in Velocity
+
+Requires 10 ranks in Energy Well
+
+Tier 3
+
+Empire of Brawn (0/10)
+
+Boost Strength by 18 for all entities
+
+Range: 1.8 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Life Well
+
+Empire of Grit (0/10)
+
+Boost Endurance by 18 for all entities
+
+Range: 1.8 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Energy Well
+
+Empire of Will (0/10) (+)
+
+Boost Focus by 18 for all entities
+
+Range: 1.8 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Essence Well
+
+Tier 4
+
+Locked
+
+Already have five points in here, unfortunately. I want all of the things! This is the best tree out of everything, and not just because Purify is the best spell ever.
+
+Still, if I have one free point to play with, it could go here. Empire of Will sounds like the obvious choice at first, but it wouldn’t actually help me directly. I can only use one aura at a time, and focus is kinda wasted on auras anyway. If I’m in a party, it would let me boost all the other mages quite a bit though. That could be the key to getting past level 18. If I can’t help myself kill a blue, I can help someone else help me do it. Thank you for helping us help you help us all…
+
+Portal is such a great game. Now I want cake, damn it.
+
+Are there any other options in here? I could take Acuity… Hardly seems important at the moment, unless I want to make cake taste even more amazing. What would boosting my senses that much even do? Would an Acuity Nova make everyone black out from the massive overload of sensation? Boosting everything by a thousand percent seems like a Bad Thing. Existence would be pain, every breeze a hurricane, every vibration a jackhammer to the skull. It can’t work like that, can it?
+
+Questions, questions.
+
+Spring and Summer are options. Summer seems like it would be a decent choice. I have no way of healing myself without that. Still, it would be slow. I can just buy scrolls or something, or always hang out with a real healer like Ameliah. It’s a good skill, but not last-free-skill-point-maybe-forever good.
+
+As he finished with the utility auras, he noticed that Ameliah was back, so he paused to fill up a small pot with water and set it over the fire to boil. Tallheart was making the pan for Jamus, so it looked like breakfast would be soon. Getting the coffee ready seemed like a good idea.
+
+“What’s that for?” Ameliah asked as he placed the pan on the frame over the fire.
+
+“I’m making coffee. Have you ever had it?”
+
+Ameliah shook her head. “Can’t say that I have. Isn’t it expensive?”
+
+“Yup,” Rain said. “Three Tel for this tiny packet.” He pulled it out of a pocket to show her. “Probably more. I think I got a really good deal. Still, there’s barely enough for a cup or two. You’re welcome to try some once it’s ready, but we’re going to have to split it four ways. There won’t be much.”
+
+Ameliah shrugged. “I’ll try it. You’ve had it before?”
+
+“Every day for like ten years. It was much cheaper where I come from. You could get a huge bag of beans for the equivalent of a few copper if you bought the cheap stuff.”
+
+“Well, if you say it’s good, it must be good.”
+
+“It is,” Rain said, smiling. “It’s a bit of an acquired taste for some, though. It’s a bit bitter. Anyway, I’m working on sorting through all my skill options. Poke me or something when the water starts boiling.” He tucked the packet back into his cloak.
+
+“Do you want my opinion on anything?” Ameliah asked.
+
+“Yeah, I’d like that,” Rain said. “I need to narrow it down first, though. I’ll ask for everyone’s input after breakfast, then I’m going into the city to talk to Jamus’s scholar friend.”
+
+Ameliah nodded. “I’ll see if there are any cups in the supplies.”
+
+Rain smiled wistfully as he turned his attention back to his skills. Hah, I never thought I’d actually start to like camping. If my dad could see me now… I should tell them about the incident with the bear. That would make a good story to have over breakfast. Anyway, I should hurry up. The water will boil soon. Aura Metamagic is next.
+
+Aura Metamagic
+
+Tier 0
+
+Extend Aura (10/10)
+
+Extend aura range by 10 meters
+
+Multiply aura mana cost by 300%
+
+Amplify Aura (10/10)
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Tier 1
+
+Aura Focus (10/10)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 300%
+
+Multiply aura range by 300%
+
+Multiply aura mana cost by 300%
+
+User loses all external senses while focusing
+
+Aura Synergy (10/10)
+
+Increase all aura output by 1.0% for each rank in any aura
+
+Effective boost: 80.0%
+
+Tier 2
+
+Aura IFF (10/10)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 0.0% aura output
+
+Prismatic Intent (0/10)
+
+User may maintain 2 auras simultaneously
+
+Requires 10 ranks in Aura Synergy
+
+Requires 1 rank in 15 different auras
+
+Tier 3
+
+Aura Compression (0/10) (+)
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 0.2% per meter of compression
+
+Requires 50 ranks in Aura Metamagic
+
+Requires 10 ranks in Aura IFF
+
+Tier 4
+
+Locked
+
+Nothing new, nothing hidden, just the same old skill sitting there teasing me. Prismatic Intent would change everything! The requirement of fifteen auras is crazy. I’ve already got five skills in here, but I could save a point for it and get it right at 25.
+
+Do I want to do that though? I can’t forget that I need to get past level 18 first. Aura Compression would help quite a bit with that. If that 0.2% goes to 2% at rank 10, then that’s a 200% boost to a Nova if I bring the range down. And for free, too. Problem is that it would kill me. I’ve only got 1 skill point for now. If I take Compression, I’m stuck with Immolate and Refrigerate. If I take Shroud, everything will be weaker, but I’ll probably be able to use it freely. I guess it depends on how strong of a ring Tallheart can make me from the crown. If I can deal with the mageburn, then Compression sounds like a great pick.
+
+As an aside, I need to figure out what my limit is in terms of equipment. The armor doesn’t feel oppressive anymore, meaning I got used to it, but I can’t just keep stacking enchantments forever. At some point, soulstrain will kick in. The degree to which I can boost my stats is going to have a big impact on which skill is the best pick…
+
+Anyway, one more tree to look at. There’s a new skill in there, too. I’ve had days to think about Suppression and Discombobulate, but I only unlocked tier-three Magical Utility last night. It looked good at a glance, but I was too tired to really think about it.
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (10/10)
+
+Multiply base mana by 300%
+
+Tier 1
+
+Mana Manipulation (5/10) Exp: 1040/2200
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 600.0 mp/s (fcs)
+
+Channel Mastery (10/10)
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Skill mana cost modified by intensity adjustment
+
+Overcharge (0/10) (+)
+
+Delay cast of an immediate spell to charge it with mana
+
+Charge time reduced by mana manipulation
+
+Boost effect intensity by up to 120%
+
+Maximum mana charge 120%
+
+Requires 5 ranks in Intrinsic Focus
+
+Tier 2
+
+Magical Synergy (10/10)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+25.0% of Focus contributes to M.Regen
+
+25.0% of Clarity contributes to Mana
+
+Tier 3
+
+Mana Sight (0/10)
+
+Passively perceive mana within the environment
+
+Resolution is 10% of that of mundane optical sight
+
+Activate to perceive mana within entities
+
+Active Cost: 10 mp/s
+
+Compatible with other sensory skills at 10% resolution while activated
+
+Requires 10 ranks in Mana Manipulation
+
+Tier 4
+
+Locked
+
+Again, I’ve already got 5 skills in here, but I could use my extra point on Mana Sight if I wanted to. It looks like it is going to be really useful in the future. Magical Utility is right. The passive alone is great, but the active would let me guess how strong a mage is, just by looking at them. That’s hard to pass up. It only requires 10 ranks in Mana Manipulation, too, which shouldn’t be hard. Huh. I wonder why it has such an easy requirement? All the other tier-three skills had much steeper…
+
+…Or did they? Now that I think about it, Mana Manipulation has a shitty exp ratio. Getting it to rank 10 would be stupidly difficult for anyone who isn’t a Dynamo. I’m betting lots of people take it to keep their equipment running, but very few people max it. There’s no real need to; the base transfer rate is already plenty for any practical use I can think of. That means that Mana Sight is probably really rare. Only high-level mages would be able to unlock it after a lifetime of using Mana Manipulation. Cool. I’m totally getting that once I can spare a point. Not right now though.
+
+So. What do I want to do? I think it’s between Shroud and Aura Compression. It all depends on the equipment. If I can get to the point where I can use Immolate and Refrigerate freely without killing myself, then Compression is better. If not, Shroud all the way. I’ll see what the others think. For now, water’s boiling.
+
+He left the pot on the fire for the moment as he needed to grind up the beans. Fortunately, he’d found a mortar and pestle last night with the supplies. Jamus had probably wanted it for grinding spices or something, but it would work well enough for coffee. He dumped the roasted beans out of their little packet into the stone bowl and started smashing at them with the pestle. He managed to reduce them to a coarse powder, though it took him longer than he’d anticipated.
+
+“Is that what I think it is?” Jamus said, walking over with his brand new pan and a sack of potatoes.
+
+Rain grinned. “If you think it’s coffee, then yes, it is.”
+
+“Humm. Fancy. I haven’t had coffee in…wow. Ten years?” Jamus said. He set the pan near the fire and sat down to work on the potatoes. He started shredding them into a wooden bowl using something that looked like a cheese grater.
+
+“Wait, where’d you get that?”
+
+Jamus laughed. “You were right. Tallheart is a metal wizard.”
+
+Tallheart and Ameliah joined them around the fire as Rain carefully removed the pot from the heat. He dumped out a little of the water, estimating how much he needed for the quantity of coffee that he had. Once he was satisfied, he dumped the grounds in and swirled them around. I wonder if the metal wizard can make a proper coffee pot?
+
+“Coffee?” Tallheart asked, breathing in deeply. “Where did you find that?”
+
+Rain shrugged. “Some random guy in the market was selling it. You’ve had it before?”
+
+“Yes,” Tallheart said. “It grows in the southern tip of Bellost. I had not expected to find it here.” He watched as Rain swirled the darkening water. “You are doing that wrong.”
+
+Rain rolled his eyes. “Hey, cut me some slack. I’m working with limited tools here. Besides, I’ve got a plan.” He waited for the coffee to brew, swirling it around occasionally. Ameliah returned with ceramic mugs, setting them down on the ground nearby. Perfect.
+
+“Thanks, Ameliah.” He nodded to her, then carefully poured the still-brewing coffee into the mugs, grounds and all. He only had enough to fill each one half-way.
+
+“This smells interesting,” Ameliah said, picking up one of the cups and sniffing at it. “How long do we have to wait?”
+
+Rain shrugged. “It’s probably ready now. Might be a bit hot. Hang on one second. Time for a magic trick.” He took a deep breath and concentrated. “Coffee is supposed to be filtered, meaning that there shouldn’t be any grounds in these mugs. Therefore…Purify!”
+
+The white light of the skill filled the clearing, swirling as it diffused through the liquid inside the mugs. He gave it a few seconds, then canceled the skill. He picked up one of the mugs and peered into it. The grounds had disappeared.
+
+Jamus laughed. “Well, I suppose that’s one way to do it.” He picked up one of the mugs. “Now, if only I had some cream and sugar.”
+
+Rain glared at him in mock outrage. “We are no longer friends. Coffee is meant to be taken black, as nature intended.”
+
+“Too bitter,” Jamus said, blowing on his mug. “Still, I thank you. This is a nice treat.”
+
+Tallheart picked up a mug and took a deliberate sip. He closed his eyes and smiled. Rain blinked. Wow. I think that’s the happiest I’ve ever seen him. The coffee was worth every Tel.
+
+He picked up his own mug, waiting for it to cool a bit. He wasn’t about to risk his tongue, no matter how good it smelled. Ameliah sniffed at hers curiously, then took a sip. She immediately made a face.
+
+She looked at him accusingly. “Thanks, I hate it.”
+
+Rain laughed. “It grows on you. If I ever get any more, you can try it with some cream I guess. I draw the line there, though. Adding sugar is just wrong.”
+
+He took a tiny sip from his mug. Still too hot, and a bit weak, but I’ll take it. Oh coffee, how I’ve missed you. He smiled, looking around at the others. “While we wait for the potatoes, let me tell you about the time my dad and I went camping. I was about eight years old. My mom was away for the week, so we decided…”
+
+Rain and Jamus walked through the city, heading for the wealthier district. As they walked, Jamus filled him in on the man they were going to see. Apparently, Staavo wasn’t just some scholar, he’d also been an adventurer for many years before retiring. He’d lost his foot to something called a ‘dunch’ early-on in his career and been unable to get it healed in time for it to regenerate. He’d been a swordsman, but the injury had forced him to change his plan. He’d switched to magic, coming up with a hybrid build that let him fight despite his hindered mobility. He’d never made it past bronzeplate, however. The sacrifices that he’d had to make to change course like that had left him gimped in more than one way.
+
+He eventually retired, but not before becoming quite rich, even by the standards of the Guild. According to Jamus, he was good with money, and even though he was weaker than other adventurers of his level, he made up for it with planning and patience. Nowadays, he was a bit of a recluse, living out of his tower and pursuing whatever topics caught his interest. Skills and builds were one of those topics, which made sense given his past, but he was also interested in many other things, such as history, politics, and nature. Jamus warned Rain that the man had a somewhat difficult personality. They briefly discussed how to handle the upcoming conversation, stopping when they arrived at Staavo’s home.
+
+The scholar lived in a stone tower situated near the wall of the city. It was four stories tall and looked out of place amid the upscale homes surrounding it. Given its position near the wall, Rain figured that it probably used to be something else, such as a guard tower. The top two floors peeked past the parapet of the wall, giving it what was probably a decent view of the surrounding area.
+
+Rain was unsure what to expect as Jamus knocked on the door. Prior to hearing about Staavo’s past, he’d been anticipating him to be some sort of off-brand Deckard Cain; long bushy white beard, bald head, dusty robes stained with ink, the works. However, the description of a retired one-legged warrior-turned-mage had him thinking of a gristly old pirate with a pegleg and a crossbow. It was a very bizarre image, completely at odds with how Jamus had described his personality. Rain had no idea how it had gotten stuck in his brain.
+
+The door opened to Jamus’s continued knocking, revealing that Rain’s first guess had been closer, which wasn’t surprising. Staavo was an older man, perhaps in his late 70s judging by his face and his short white hair. Contrary to Rain’s original expectations, he didn’t have a beard. He was wearing a plain white tunic and dark breeches, not a stereotypical scholar robe from fantasy. Rain’s eyes flicked down to his feet. Both of his boots looked normal; whatever prosthetic the man had, it wasn’t a crude peg leg.
+
+“Aaah, my eyes. Jamus, don’t you know it’s too early in the day to be wearing something that bright?” the man said, grinning at the orange-clad mage.
+
+“I always wear this, Staavo,” Jamus said, smiling back.
+
+“Don’t remind me. Who’s in the evil tin can? I thought you were bringing me a mage?” He had an interesting accent. It sounded almost Scottish, or maybe Irish. It was difficult for Rain to predict what that would sound like, given that they were speaking common and not English. His mental model of the man was only becoming more and more confused as time went on.
+
+Jamus gestured to Rain. “Staavo, this is Rain. Rain, Staavo.”
+
+Rain offered his hand to the man to shake, but he didn’t take it. Instead, he looked him up and down, brazenly inspecting him from head to toe.
+
+“Interesting. I’ve never seen armor like that before, and I’ve seen a lot of things. Wouldn’t kill you to add some color, though. Just don’t get carried away.” He waved his hand in Jamus’s direction before finally grasping Rain’s gauntlet and giving it a perfunctory shake.
+
+Staavo gave Jamus a flat look. “This better be worth my time. You said you were bringing me someone interesting, not some platemail-wearing pillock.” He abruptly turned around and walked back into his tower, leaving them standing on the doorstep. He called back at them from inside without turning around. “Well, you might as well come in. Wipe your damned feet, meathead.”
+
+Meathead? Should I be offended?
+
+Jamus chuckled. “Don’t say I didn’t warn you. Anyway, don’t mind him. He’s always like that.”
+
+Rain and Jamus followed Staavo into the ground floor of the tower. In contrast to the utilitarian exterior, the room was downright cozy. A fire burned in a hearth and plush-upholstered chairs surrounded a wooden table in the center of the room. The walls were decorated with colorful fabrics, some bearing intricate designs. Of the most interest to Rain were the numerous bookshelves, loaded down with books of all shapes and sizes. Staavo motioned to the chairs. “Have a seat. Tea, Jamus? And for you? What do you drink? The blood of the innocent?”
+
+Rain laughed and reached up to raise his visor. He hesitated, then decided to remove his helmet entirely. “Just tea,” he said, setting the helmet on the table. “I’m much less evil than I look.”
+
+Staavo grunted. “Scruffy is what you are. Fine. Make yourself at home. I’ll just be a minute.”
+
+Rain scratched at his stubbly chin. Staavo had a point. He hadn’t been keeping up with shaving since he’d gotten his armor. His hair could also use a trim. He and Jamus sat in two of the chairs as Staavo walked to the hearth, retrieving a kettle.
+
+Jamus cleared his throat. “You know, you could hire a servant to do that for you. I know you can afford it.”
+
+“Bah. I don’t want someone moving all my stuff.” Staavo said as he poured tea into three cups. It looked like it had already been brewed in the kettle. He placed them on a tray and made his way back over to the table. He didn’t appear to be having any trouble despite his age and the fact that he was supposedly missing a foot.
+
+He dropped himself into a chair, then pushed the tray over toward Rain and Jamus. “There, tea. Niceties dealt with. Let’s get right into it, shall we?”
+
+Jamus laughed. “Straight to the point as always, Staavo. Very well,” he reached out and grabbed a cup of tea. Rain left his where it was to cool for the moment. Jamus nodded at Rain. “So, Rain here likes to ask questions. Full disclosure, I have a little bet going with a friend of mine about which one of you runs screaming from the room first. Care to know who I bet on?”
+
+“Bah,” Staavo said. He turned his attention to Rain. “So, questions, huh? Well, I’ve got some of those too. First, are you a mage, or aren’t you?”
+
+Rain cleared his throat. “I’m a mage.”
+
+“Then what’s with the armor?”
+
+“It keeps me safe and it doesn’t mess with my spells. I’m kind of squishy.”
+
+“Squishy?” Staavo asked
+
+Jamus leaned forward. “That’s another thing about Rain. He sometimes uses some really strange expressions. It’s because he only started learning common about a month ago. Mostly from that book I borrowed from you, in fact.”
+
+Staavo grinned. “Ah, now I’m getting interested. I’ll be wanting that book back, by the way. What are you, a Dynamo? Some sort of equipment user spec? What’s the transfer rate on that armor? No, that can’t be it. Body enhancement? Something that doesn’t require targeting? Auras, maybe?”
+
+Wow, he jumped straight to it. He’s got to have all the skill trees memorized just like I do. He nodded, digging around in his pouch to retrieve Staavo’s book. “Yes, Dynamo. And I use Auras.” He set the book on the table.
+
+Staavo raised an eyebrow, not even glancing at the book. “Did your mother drop you on your head as a kid or something?” Jamus snorted, choking on his tea.
+
+Rain blinked. “Ouch. And no, she didn’t, thank you.”
+
+Staavo grinned. “Fine, fine. I’ll admit it isn’t the stupidest thing I’ve ever heard. Dynamo would be pretty much the only way to make those damn skills useful. The offensive ones anyway. The utility ones are actually not bad, but everyone’s all ‘oh no, I don’t want to be a support’. Idiots. One support skill doesn’t make you any less of a fighter.”
+
+Rain smiled. I think I like this guy.
+
+“What level are you, boy?” Staavo asked.
+
+“Staavo, rude!” Jamus said.
+
+“Like I care,” Staavo said. “Well? Out with it.”
+
+Rain shrugged. I don’t really care either. The Watch already knows approximately how strong I am. The cat’s already out of the bag. “Eighteen.”
+
+Staavo whistled. “Lucky blue? Or are you some noble’s get?”
+
+“The first one,” Rain said. Here goes. I hope this plan doesn’t backfire on me. “I’m…not exactly from around here. I was teleported. I woke up in the forest about a day west of the city and got saved by some passing adventurers. There was an essence monster after me; Jamus says the teleportation attracted it. They killed it, I got some of the credit, and, well, now I’m here.”
+
+Staavo’s eyes locked on to him with interest as he sat forward. “Teleported? To the forest? Without a receiving platform? From far enough away that you didn’t even speak common? I take it that this was against your will?”
+
+Rain nodded. “Yes, against my will. Well, ‘without my knowledge’ might be more accurate.”
+
+“Fascinating. I can count the number of people who could do something like that on one hand. Where are you from, boy? Some secret enclave of legendary mages?”
+
+Rain shook his head. He took a deep breath. Time to set the hook. “There’s no magic where I’m from.”
+
+“Horseshit,” Staavo said.
+
+“I believe him, Staavo,” Jamus said. “The stories he’s told…” He looked at Rain and chuckled. “Well, the stories he’s tried to tell, anyway. Where he comes from is very…different. He’s a bit crap at explaining, though.”
+
+“Tell me,” Staavo said, staring at Rain, his tea forgotten.
+
+Got him. “No,” Rain said, smiling at the look of indignation on Staavo’s face. He held up a hand to forestall his response. “I’ll tell you all about it, but first, I have some questions of my own.”
+
+Staavo narrowed his eyes and looked at Jamus. “This was your plan,” he said accusingly.
+
+Jamus laughed. “I’m innocent. This little plan was Rain’s idea. All I told him was that you tend to get hyper-focused on anything that catches your attention and that you don’t care about what other people want. Am I wrong?”
+
+Staavo glared at Jamus. Suddenly, his affronted expression broke as if it had never been. He smiled and sat back with a laugh. “Ha! Fine, I know when I’ve been outplayed. Ask what you want to ask. Humm, let’s say…fifteen minutes? Then it’s my turn.”
+
+Rain stuck out his hand. “Deal.”
+
+Staavo grasped it and shook it much more enthusiastically than he had last time. He turned to Jamus. “Go get me my hourglass. It’s on my desk upstairs.”
+
+“Wow,” Jamus said, standing up. “You’re taking this seriously. Don’t start without me. I don’t want to miss this.”
+
+“To the depths with that,” Staavo said. “His time started a minute ago.”
+
+Rain smiled as Jamus hurried toward the stairs. “I guess I’d better get started then. Ok, here’s the rules. I ask, you answer. You can ask me questions about the topic at hand, but I can ignore you if I want to. I’ll only answer if I think the discussion will help me understand. I want to stay on topic, so anything that is only about your own curiosity will have to wait for your turn.”
+
+Staavo chuckled. “Fine, agreed. Jamus, where did you find this guy? He’s got some spirit in him, even if he does look like a tiny mouse under that armor. Talking to me like that in my own living room.” Jamus didn’t respond, the hem of his robe disappearing through the opening to the second floor.
+
+Why does everyone think I look like a mouse? He cleared his throat. “Okay, first question. We were already talking about this a little bit, so I’ll start here. Why don’t more people pick Dynamo?”
+
+“Really? And I was just starting to think you were clever. That should be obvious.”
+
+“Humor me.”
+
+Staavo shrugged. “It’s your time. People don’t pick it because it’s a dead end. Either you get to level five and stop investing in Clarity, or you stick it out and end up weaker than a kitten by the time you get to silver. In the first case, you hamstring yourself when it comes time to pick a class advancement, and in the second, you won’t even get there.”
+
+That matches up with what I know so far. “Okay, how weak is weak? What kind of things can another level 18 mage do that I can’t?”
+
+“I have no idea what you can do,” said Staavo. “As for other mages, Jamus should be around that level. Idiot won’t tell me the damn number.”
+
+“No, I won’t,” said Jamus, descending the stairs, hourglass in hand. He strode back to the table and set it down, plopping into his chair. Rain sipped at his tea as Staavo upended the hourglass.
+
+The old man pointed at a line. “When the sand gets to here, that’s ten minutes. You’ve already used five. Then it’s my turn.” Jamus picked up his tea and settled back into his plush chair.
+
+Rain nodded, not wanting to make an issue about the fact that Staavo was blatantly overestimating the time. He’d pushed him enough. “Okay, I need to get an idea of the relative strength of various people. The Watch says I’m category three. Is that—” Rain cut his question off as Jamus started choking on his tea again. I was going to ask if that was normal for someone of my level, but I think Jamus just gave me the answer.
+
+“Really? With auras?” Staavo said, leaning forward. “How?”
+
+Rain smiled. “I’m not answering that yet. How strong is an average bronzeplate at my level?”
+
+Staavo grumbled something under his breath that was too low for Rain to make out. He answered grudgingly. “Category two, usually, unless they really messed themselves up. Category three isn’t unheard of, but it isn’t exactly common. The fact that auras are AOE is probably helping you quite a bit, at least if your goal is to have the Watch breathing down your neck.”
+
+“And monsters? At category three, do I have any hope of defeating something at, say, level 25?”
+
+“Not bloody likely,” Staavo said. “If you were a category three striker, then maybe. But AOE? I doubt it. Monsters are stronger than humans as a rule. You’d probably have trouble with something even at your own level, for all that the Watch calls you a threat.”
+
+“How much stronger?” Rain asked, glancing at the hourglass. He still had time.
+
+“Depends on the monster as much as the human,” Staavo said. “You’d do fine against a swarm type I suppose. Kin or something. Not likely you’d find a blue like that, though. They’re usually the big ones. Like I said, Dynamo’s a dead end. What good is slaughtering thousands of Kin if you can never raise your cap?”
+
+Jamus tapped his foot, considering. “I don’t know, Staavo, I think the mountains of Tel and the adoration of the populace might go a long way.”
+
+Good point Jamus. Rain looked back at Staavo. “In general, though, monsters are stronger than humans?”
+
+“Yes,” Staavo said.
+
+I’m not sure I buy that. Maybe they’re only stronger because people aren’t properly optimizing themselves. Maybe monster strength tracks the best possible progression, legendary classes and so forth…
+
+“Is that all the questions you had?” Staavo said, nodding to the hourglass. “Time’s almost up.”
+
+Rain smiled. “I’m in no hurry. I’ll get another turn once you’re done. I’ll stay here as long as it takes.”
+
+Jamus laughed. “I warned you, Staavo. I told you he was your equal when it came to curiosity.”
+
+Rain cut in, interrupting Staavo’s response. He wanted to get the rest of his questions about Dynamos out of the way before the break, at least. “Back to Dynamos. People don’t take the class because they think it’s weak. Sure, I’ll buy that. I don’t agree with it, but I’ll buy it. Tell me about the other monoliths. Same story there? Too weak?”
+
+“Yes and no,” Staavo said. “Animus and Fortifico have the opposite problem. They’re too strong. They tear themselves apart.”
+
+“Just to confirm, Animus is Focus and Fortifico is Strength?”
+
+Staavo nodded.
+
+“Okay, they tear themselves apart how? Soulstrain?”
+
+Staavo shook his head. “Not as such. It’s more basic than that. If you’ve got too much Strength without enough Endurance, you’ll hurt yourself every time you so much as lift a finger. A Fortifico has got tons of health, sure, but it’s soft. It counts for nothing if you lose a few hundred hp every time you get up to go to the bathroom. And without Recovery, you’ll never get better. A Fortifico is good for sudden, massive bursts of strength, but more often than not, they’ll kill themselves in the process. Practically nobody takes it, outside of the Empire of Adamant.”
+
+“Outside of the Empire—no, I’ll come back to that. I have a bunch of questions about them for later. What about Animus? Why don’t people take that one? Same reason?”
+
+“Yes,” Staavo said. “It’s slightly more common, but still rare. Not enough Clarity means massive headaches. If it gets bad enough, you start blacking out any time you so much as think about using mana. By the time an Animus gets up to your level, they’re completely useless unless they’ve either given up and put points in Clarity, or gotten themselves a bunch of equipment and accolades. It’s more doable than Fortifico since it’s only one stat they need to worry about, but then there’s still the health problem. One good whack and they’re done. Again, outside of the Empire, you don’t really see it.”
+
+Damn it, now I really want to ask about the Empire. They use the monoliths for something? He shook his head. He had to stay on topic. “What about the Endurance monolith? What’s that called?”
+
+“Tortugo. It’s where the term ‘turtle’ comes from. No issues with hurting yourself, but no real way to do damage either. There’s probably other side-effects, but I don’t know them. It’s even less common than the other two. Not even the Empire bothers with it.”
+
+Rain nodded. “Vivificant is Recovery. I’ve met one of those, so I think I see why it isn’t exactly popular. Looks painful. Any other reason people don’t take it? They could wear armor, just like I do. Seems like the lack of a deep health pool is a solvable problem.”
+
+Staavo shrugged. “More people take it than Fortifico. They think they can deal with the pain and outlast their opponents. They’re usually wrong, but there you have it. It isn’t as good as Dynamo in my opinion, yet more people take it because it lets them wear metal.” Rain opened his mouth to respond, but Staavo raised a hand to stop him.
+
+“You think you’re cute with your auras, but imagine what you could do if you had some real attack spells. You’re clearly not from around here, but you must have heard of Endless, no? She’s the reason idiots like you take Dynamo in the first place. Just because she managed to survive past bronze, it doesn’t mean you will. You’re either going to get stuck or killed. All the recovery monoliths have that problem. No health and no damage. And that’s your time.”
+
+Rain looked at the hourglass. The sand was indeed above the line. He sighed. “At least let me finish with the monoliths. There’s one left.”
+
+“Nope,” Staavo said. “My turn.”
+
+“I’ll give you a grace period too,” Rain said. “Within reason.”
+
+Jamus laughed. “Come on, Staavo. Humor him.”
+
+“Fine,” Staavo said. “The last one is Dustrio, and it’s not as good as it sounds. Weakest of the lot. At least Tortugos are decent in a party as a damage sponge. Dustrios are a waste of space.”
+
+“And why’s that?” Rain asked.
+
+“You know how when you work too hard or for too long you get sore?” Staavo asked. Rain nodded. “Well, imagine how you’d feel after running for three days straight. Having pathetic health regen means that they’re pretty much always in pain. You’ve got to keep healing them to stop them from falling apart. Add that to the lack of damage, and, well, there you have it. Useless.”
+
+Wow, that sounds pretty awful. Talk about cursed with awesome. Being able to run for days sounds great, but…yeah, no. No thanks. I think I really dodged a bullet here. Dynamo sounds like it’s the only one that’s viable. He shook his head, seeing that Staavo was staring at him impatiently. “Ok, so to sum up, Dynamo is the only monolithic class that is any good?”
+
+“Did I say that?” Staavo said, turning to Jamus. Jamus shrugged. Staavo sighed. “Fine, I’ll admit, it’s the least bad, followed by Vivificant. It’s still pretty damn awful, though. No damage, no defense, no endurance, just buckets of mana. Fine if you want to charge a teleportation platform for a living, but for an adventurer? Bah. Stupidity. The overmana’s not worth it.”
+
+I disagree. I learned an entire language in less than a month. Plus, Tallheart’s making me a ring right now that will solve a lot of my problems. No point defending my choice right now, though. He sighed. “Okay, your turn.”
+
+“Fucking finally!” Staavo said, flipping over the hourglass. “I’ve got until this runs out, then five more minutes besides.”
+
+Jamus laughed. “I knew that this was going to be a good show.”
+
+“Quiet, you,” Staavo said. He turned back to Rain. “What in the name of all the hells and the bottomless depths do you mean when you say there’s no magic where you’re from?”
+
+Jamus tossed aside a pistachio shell and chewed happily, his neck swiveling back and forth between Rain and Staavo as they exchanged questions. The hourglass had long since run empty and been forgotten. All pretense of sticking to the time limits had gone out the window barely an hour into their discussion. Jamus had ducked out a few hours after that, only just returning with his snack in hand.
+
+He cracked open another pistachio and tossed the nut into his mouth, listening as the two argued. Pistachios were truly the best food for watching such things, even if they were almost as expensive as coffee. He briefly considered offering some to the two combatants but decided against it. They probably hadn’t even noticed that he’d returned. Hells, he didn’t even know if Rain would recognize them. The nuts were rare; there was no telling if they’d had them on his world. He tossed away another shell as Staavo slammed his hand down on the table.
+
+“What does that mean, moves forward by pushing air out the back?”
+
+“You didn’t answer my question,” Rain said, staring back at him. “Remember the rule.”
+
+“Fine, forty-two. Now, explain how pushing air lets you fly without magic.”
+
+Rain sighed. “I explained Newton’s laws to you already. You push air out the back of the engine, and it pushes the plane forward. It’s basic physics. You should know how it works. You drew like fifty birds in that book of yours. How could flight be such a mystery? Next question, how do you know lair hearts aren’t alive?”
+
+Staavo grumbled. “It’s been proven time and again. They can’t learn, they can’t grow, they can’t reproduce. Not alive. What stops it from just falling down?”
+
+“The plane? Lift. Air pushes the wings up and keeps it going, as long as it’s moving fast enough. Seriously, it is the same as birds. Why is this so difficult for you?”
+
+Staavo pounded his hand on the table. “Birds fly because they’re light. They’re built to do it, just like fish are built to breathe water. Humans can’t fly without magic. That is a fact! We’re too heavy. And these planes of yours are even more preposterous if they’re made of metal like you’re saying. It’s a simple matter of weight ratios. Why are you laughing?”
+
+“Monty Python,” Rain said. Jamus grinned. He’d have to ask Rain about this ‘Monty Python’ person one day. It wasn’t the first time it had come up.
+
+Staavo just looked confused. “What?”
+
+“Never mind. It’s my turn. How common are lairs? How often do they spawn?”
+
+“Rare, and not often. How fast is fast enough?”
+
+“That wasn’t an answer.”
+
+“Fine, damn you! There’s probably a few hundred managed lairs on the continent. The Empire and the DKE don’t exactly publish their numbers.”
+
+“And how often do new ones spawn?”
+
+“That was two questions. You need to answer mine before I answer yours. Don’t think I don’t see what you’re doing, trying to ask two at once.”
+
+Rain sighed. “It varies based on the size of the plane. Hundreds of kilometers an hour.”
+
+“What the heck is a kilometer?”
+
+“What the heck is a stride?”
+
+“Damn it, just answer the damn question.”
+
+“You first!”
+
+Jamus struggled with a particularly difficult pistachio. He hated the ones that refused to open. He debated whether it was worth getting up to get something to smash it.
+
+Staavo sat back, running his hands through his hair. “Damn it, whatever. Enough about your flying machines. Tell me about electricity again. How do you get it?”
+
+“No. You still haven’t answered my question. How often do lairs spawn?”
+
+“A few dozen a month,” Staavo snapped. “Happy?”
+
+“No. A few dozen a month in what area? On the continent? On the planet?”
+
+“The continent. On the surface, anyway. It’s not like there’s many people willing to search the depths. It’s dangerous down there. Now, the electricity?”
+
+“We make it in power plants. They burn coal or other stuff to make steam, then that turns a generator. That’s like an engine, but in reverse. That makes the electricity. Then, we send it down metal wires to where it needs to go.”
+
+“How does the generator make it?”
+
+“I don’t know, magnets?”
+
+Staavo shook his head. “That’s not helpful. I don’t even know what that word means. What is a…magnet?”
+
+Rain considered. “You must have them, I just don’t know the word. They’re like, really clingy rocks.”
+
+“Don’t you start with that again. You have the strangest descriptions for things I’ve ever heard. I still don’t believe you about the cat snakes.”
+
+“Ferrets, and why are we even talking about them again? For that matter, how did we even get there in the first place?”
+
+“It isn’t a real animal, and you know it.”
+
+“Neither is a lago, then.”
+
+“You’ve seen a lago, you said it yourself. For all I know, you’re making these…ferrets up completely.”
+
+Jamus smiled and ate another pistachio. You couldn’t pay for this kind of entertainment.

@@ -390,3 +390,148 @@ Efficiency: 19%
 
 Range: 8.66 meters
 
+Ah, good. Channel mastery and aura focus sort-of cancel out as far as the efficiency is concerned. Makes sense, I think. 5 mp/s at 19% efficiency means…ah, fuck it. Call it 20%. I’m not doing long division right now. 25 mp/s used, 5 of which I get back...or less, depending on how many people are around. I wonder if the horse counts… Damn it. Rain sighed.
+
+I guess I’ll have plenty of time to think about it while I’m chilling in the ol’ sensory deprivation tank. For now, I’ll call the cost 20 a second to make the math easy. I have around 3000 mana, so 3000/20 is 150 seconds. I can feel the error bars growing on this calculation.
+
+Ok, what now…
+
+…
+
+…
+
+Damn. I lost where I was going with this. Ummm...
+
+Oh, right, that was it. The base cost of the skill is 21 mp/s. With just aura focus it is…
+
+Rain activated it to check.
+
+56 mp/s. That’s a difference of 35 mp/s. I’m pretty sure that the difference in mana is what counts for modifiers like aura focus.
+
+Next, with just channel mastery at minimum...10mp/s, so that’s an 11mp/s difference. Negative though. I don’t think it matters. I didn’t lose exp when I was pinging all day looking for metal. It must take the absolute value or something.
+
+Ow, my head.
+
+Summing up. For every second I use essence well with aura focus and minimum channeling, I should get about 10 exp on the skill itself, 5 exp on channel mastery, and 18 exp on aura focus. Or 10, 10, and 36. I’m still not sure if the modifier experience is halved or not. I could also be completely wrong about all of this…
+
+…I’ll just assume I’m not wrong.
+
+Taking the pessimistic case, 150 seconds of usage should net 1,500 exp on essence well, 750 exp on channel mastery, and 2,700 exp on aura focus. I can do that every hour or so, thanks to winter. It’s still early in the day, so if I do it 10 times, that’s 27,000 experience for aura focus. It is rank five and tier 1, so 27,000 minus the 2,200 exp required for rank 6, then the 3,200 for rank seven…
+
+Rain scratched and scribbled in his notebook for a few more minutes, then forced himself to close it and put it away.
+
+I think there’s a chance. If my math is right—and that is a huge ‘if’—I think I can get it to rank 10 by nightfall if I really push. I need to do a few rounds with extend aura, too. Forgetting that and having it stuck at level nine would really suck.
+
+Hooray for spending the whole day in the void I guess. This is going to be boring as fuuuuuuck. I’m going to need time to level aura IFF, though. It doesn’t just start at 100%, so I’d like a day at least to train it before we go in. I wonder if I can convince them to wait a few days...
+
+Hearing a noise, he looked up to see Jamus limping towards him, with a laughing Carten following behind. “You see, Jamus? What did using all that mana get you? A headache? You didn’t even overload my armor.”
+
+“Blah blah. I’m weak against metal and you know it. Try fighting me without it next time.”
+
+“Fine, you’re on, but you don’t get to use magic.”
+
+“How is that fair? I’m a mage. Magic is what I do!”
+
+“And armor is what I do. Your point?”
+
+“Oh, be quiet. My head is killing me.”
+
+“Hah. That’s two wins for me today. Once in combat, and once with words.”
+
+Jamus ignored Carten’s provocation. As he reached the cart, he motioned for Tallheart to stop the horse so he could get up. “Rain, make with the essence well, please. My head is killing me.”
+
+“Sure thing. Just a second, though. Do you want Ameliah to take a look at your leg first?”
+
+“It’ll be fine. I just rolled my ankle,” Jamus said, setting himself down in the cart and rubbing his temples. “The aura, please? It feels like I’ve got a spike going straight through my brain. I bet you’ve never even felt mana starvation. Must be nice.”
+
+“Ok, hang on.”
+
+Rain leaned against the pile of gear in the cart to secure himself and activated essence well, using aura focus and minimum channeling as he’d planned. He counted out the seconds, running out of mana around the two-minute mark. It was a bit less than he’d calculated, but he chalked it up to reckless abuse of rounding and the fact that he was only getting a small fraction of the mana back due to the proximity of his companions. Interestingly, he noticed that his share had increased part-way through the channel for some reason.
+
+He opened his eyes to see that only Jamus and Tallheart remained with him near the wagon. The others were walking back towards them, returning from outside the range of the aura. He turned to Jamus, raising an eyebrow.
+
+“They were stealing all the mana.”
+
+“Oh, right. That makes sense. I should’ve thought of that.”
+
+“Next time, please prioritize the guy with the splitting headache. Also, why were you giving mana to the horse?”
+
+“Ha, well, I guess that answers one of my questions. Sorry Jamus, I can’t pick who gets it until I get IFF, just like with the offensive auras. I’m training aura focus today so I can unlock it. I should be able to get it to rank 10 by tomorrow, hopefully.”
+
+“Oh, right. I remember you said something about it dividing the mana equally. Sorry for being snappy, my head is still killing me. It hurts to think.”
+
+“Stick around, I’ll be good to do that again in an hour or so. Until then, winter should help you a bit. I’m using aura focus, though, so I’m just going to be lying here with the other potatoes.”
+
+“That sounds stimulating,” Jamus said, his tone thick with sarcasm.
+
+“I know, right? Don’t worry, I’ve got some math homework to do. Should keep me busy.”
+
+“I’m not even going to ask,” Jamus said, lying back and closing his eyes.
+
+“Ok, here I go. Just wave my arms around or something if you need me.”
+
+Rain wedged himself into the pile of supplies and sighed, closing his eyes as well.
+
+I’d kill for a montage right about now...
+
+The hours passed uneventfully. Rain lay in the cart, trying to entertain himself with mathematics in the void of his own mind. He’d kept himself busy by running through the numbers a few more times, hindered as he was by the lack of his notebook.
+
+He’d also spent a good amount of time playing around with his interface. He didn’t really change anything, but he felt that it would be good to practice moving things around and adjusting the display without touching the panels. It was much harder that way than it was when he used his hands, the panels responding reluctantly to his thoughts. It could simply have been his high Clarity that was improving his ability in manipulating the system, but he figured that practice couldn’t hurt. It wasn’t like he had much else to do, after all.
+
+By the time the group stopped for lunch, he’d completed four cycles and was more than ready for a break. When he opened his eyes, he was met by a group of faces staring down at him. He sat up, looking around.
+
+“What?” he asked, staring at his companions’ grinning faces. Belatedly, he realized that he was sitting on the ground near a campfire, not in the back of the wagon. Carten broke out into raucous laughter, followed quickly by Val and Jamus. Ameliah grinned and covered her mouth, fighting not to join in. Even Tallheart’s face showed signs of merriment, crinkles forming around his eyes and the corners of his mouth.
+
+“You drew something on my face, didn’t you?” Rain deadpanned.
+
+“What? No,” Said Jamus. “What gives you that idea?”
+
+“Please. I might not have finished college, but I did stay in the freshmen dorms for a full year.”
+
+“What?”
+
+“Just give me a mirror, will you?”
+
+Jamus handed him a polished circle of copper from a pocket. Taking it, Rain angled it so he could make out his own reflection in the shiny metal.
+
+“Huh, I’m a mouse,” he said, fighting a smile and handing the mirror back to Jamus. “Got any cheese? I’m starving.” He looked straight at Ameliah and twitched his whiskers as he said this, keeping his face as serious as possible.
+
+Ameliah gave up and joined the others in laughter. Carten, who was already barely keeping it together, lost it completely. He slapped the ground and guffawed uncontrollably. Rain grinned. Once everything calmed down, he wiped the soot off his face and accepted a bowl of soup from Jamus, delighted to see that he’d done the cooking instead of Val.
+
+The shoulder piece of Carten’s armor was sitting in the middle of the fire, and Tallheart eventually pulled it out and started hammering it back into shape against his anvil. It looked like the others had already eaten, so Rain took his time finishing his soup while he waited for the smith to finish his work. He helped pack up the camp once everyone was ready to go, using purify without any modifiers to avoid adding even more variables to his experiment.
+
+He settled himself back in the cart and resumed training. He managed seven more cycles before they stopped for the night. For the last three, he’d used extend aura instead of aura focus, calculating that it should be enough to bring it to level 10 as well. He’d had the time to run the numbers after all.
+
+They had a late supper and Rain volunteered to take the first watch, seeing as he’d been taking it easy on the cart for the whole day. He woke Carten up after a few hours, then used one last round of essence well before slipping off to sleep.
+
+Yawning, Rain sat up and stretched, working out a crick in his neck. He looked around the clearing, seeing his companions stirring as birds chirped and the soft dawn light brushed across their campsite. Groggily, he pulled up his training log, his eagerness to review his progress subdued by his still sleepy brain.
+
+Training Overview
+
+General Experience Earned
+
+Stamina Use: 11
+
+Mana Use: 62318
+
+[Level Up] [Level Up] [Level Up]
+
+Skill Experience Earned
+
+Extend Aura: 3023 [Rank Up]
+
+Winter: 432 [Rank Up]
+
+Aura Focus: 22655 [Rank Up] [Rank Up] [Rank Up] [Rank Up] [Rank Up]
+
+Channel Mastery: 16561 [Rank Up] [Rank Up] [Rank Up] [Rank Up] [Rank Up]
+
+Aura Synergy: 1398 [Rank Up] [Rank Up]
+
+Essence Well: 16564 [Rank Up] [Rank Up] [Rank Up] [Rank Up] [Rank Up]
+
+Magical Synergy: 26523 [Rank Up] [Rank Up] [Rank Up]
+
+Rain’s eyes widened as they traveled down the panel hanging in front of him, then flicked back to the top. He read through it a second time, more slowly.
+
+“Holy shit,” he said in a raspy voice, then cleared his throat. “I think I might have gone a bit overboard…”

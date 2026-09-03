@@ -458,3 +458,212 @@ Evertorches? Was that what they had me setting up in the sewer? They just looked
 
 “Cavern’s ahead. Somethin’ in there.” Carten whispered. “Goin’ in. Send the light up.”
 
+Val did so as soon as Carten moved out into the chamber, revealing the circular cavern. The ceiling was higher here, supported in a few places by large wooden beams. It was uneven, some parts clearly having been excavated and others looking more like a natural cave. Rain wasn’t that worried about the scenery at the moment. He searched the dim cavern with his eyes, looking for whatever had caused the noise Jamus had heard.
+
+Rain’s ears caught an abrupt sucking pop and he whipped his gaze upward. He saw a blobby creature falling in the darkness, having detached from the ceiling with the telltale sound of a slime. It landed with a wet splut and started moving toward them. Unlike the ones in the sewer or the forest, this slime was an inky black. Focusing on it in the dim light brought up its description on his HUD.
+
+Dark Slime? Level 2? Huh…
+
+“Just a slime,” Carten said, glancing at it, then moving out into the center of the cavern. He ignored the slime moving towards him, watching for any other threats.
+
+“I’ve got it,” Val said. There was a sudden flash of white light. Rain blinked; his eyes had adapted to the dark and the sudden light was painful. The slime collapsed, its inky insides spilling out of the hole that Val had punched in its membrane. Checking his notifications quickly, Rain registered a sub-1% contribution and a few experience for the kill.
+
+I guess I’m in the party then. Not like I had anything to do with killing that thing…
+
+A flicker of movement caught the corner of his eye. “There’s another one,” he said, pointing at the ceiling. Val blasted it, and it fell with a sickening splatter, dead before it hit the ground.
+
+Ten percent contribution that time? I really need to figure out how this party stuff works.
+
+“Can you make that light any brighter?” Jamus asked, looking at Val. The soft white light from the two orbs wasn’t nearly as strong as torchlight, barely fighting back the shadows.
+
+Val shook his head. “Not until next level.”
+
+“Damn. How about you, Ameliah?”
+
+“No.”
+
+“Double damn,” Jamus said. “Carten, this is why I told you to bring torches.”
+
+“Shut it, Jamus, I know,” Carten grumbled.
+
+“Hang on, I’ll try Detection,” Rain said, activating the aura and searching for monsters in general. He got a few hits from within the cavern, as well as a few more down one of the side passages. The range was up to 21 meters due to Extend Aura and Aura Synergy.
+
+He pointed, and Val sent his light over to reveal three more slimes squeezed into a crack in the ceiling.
+
+“Let me,” Jamus said, then blasted the slimes with bolts of blue energy. The slimes detonated when struck, showering the floor of the cave with their putrid insides. Some of the black gunk landed on Rain’s shoulder and he jumped back, far too late.
+
+Strangely, the slime didn’t smell anywhere near as bad as he had expected. It had a pungent odor to be sure, but it was deep and metallic, not the rancid scent of a dumpster on a hot day.
+
+He activated purify, not bothering with any modifiers and just letting the spell do its work. The slime evaporated, and he canceled the skill after a few seconds.
+
+“Humm,” Jamus said. “Can you leave that on? The light isn’t that bright, but it goes pretty far.”
+
+“I suppose I could…” Rain said, re-activating the skill. At the base rate of 100mp/min, he could keep it running quite a while. “I can’t use Winter while I do it though.”
+
+“Just while we check the cavern, then,” Jamus said.
+
+“What’s the point of those puny lights if Rain can light up the whole damn cavern at once?” Carten asked, looking at Val and Ameliah. Rain winced, but Val and Ameliah didn’t seem bothered by the offhanded insult.
+
+“Lunar Orb might not be bright, but once we get into the lair I doubt Rain’s aura will be enough,” Val said.
+
+“It’s practically free, Carten,” Ameliah explained, sending her orb over to orbit around his head. “And it won’t be suppressed by the darkness in the lair.”
+
+“Damn spell is annoying,” Val said, twirling his own light around his fingers. “Took ages to get it to rank 10, and it is still barely better than a candle.”
+
+“Then why take it?” Carten asked.
+
+“It’s more than enough, if you improve your vision,” Ameliah said.
+
+“And how am I supposed to do that? Squint?” Carten asked loudly. His voice echoed as it bounced off the walls.
+
+“There’s still more of them, you know. Down there,” Rain said, pointing at the smallest of the tunnels.
+
+“Don’t rely on that too much, Rain,” Jamus cautioned. “Remember, nothing is absolute. This is a dark-aspect lair, so the likelihood of monsters being able to evade Detection is even greater than normal.”
+
+Rain gulped. “I thought we weren’t in the lair yet?”
+
+“This is just spillover. The fact that there are Dark Slimes around is good proof that there really is a lair down there.”
+
+“Don’t be so sure,” Ameliah said. “Remember, there weren’t supposed to be Kin outside either. A rank shift isn’t out of the question.”
+
+“What? Not likely. This area has been stable for thousands of years…”
+
+Rank shift? That can happen?
+
+“Enough, let’s clear out the last of them,” Val said, heading down the tunnel Rain had mentioned.
+
+“Wait, I’ll go first,” Carten said.
+
+“They’re just slimes,” Val laughed.
+
+“You don’t know that,” Carten argued.
+
+“Rain? You just felt slimes, right?” Val asked.
+
+“I’m not sure. I could check again. If I boost the power I can kinda get a better sense of what’s what. It’s hard to explain.”
+
+“Don’t bother,” Jamus said. “Save your mana. Let the turtle do his job.”
+
+“Jamus is right for once. I’ve got this one.” Carten shouldered Val out of the way, heading over to the indicated tunnel and squeezing himself into it. Val and Jamus followed him.
+
+Turtle? Hah. That fits.
+
+“Rain,” Tallheart said, standing in the center of the room.
+
+“Yeah?”
+
+“There was metal here?”
+
+“Oh, right. It was in the walls of the tunnel leading down to the next level, over there.” Rain pointed. “I’ll show you after we take care of the monsters.”
+
+“I will wait here,” Tallheart said. Rain nodded and started to follow the others into the tunnel, but paused, looking back.
+
+“You’ll be okay in the dark?”
+
+“I’ll stay with him until you get back,” Ameliah said.
+
+Rain nodded and hustled to catch up with the others.
+
+They’ll be fine. Me, I’m not so sure about. Slimes are one thing, but if there are dark hounds down here… Well, they aren’t worse than the Kin. We should be able to deal with it.
+
+Rain double-checked his blacklist to make sure everyone was exempt from his attack auras. If they did get surrounded, worst case he could just burn his way out and hope that the dogs would go down before his companions.
+
+It didn’t come to that, at least not in this tunnel. The signal turned out to have come from slimes after all. The tunnel wasn’t wide enough for either of the mages to get a shot off past the hulking form of Carten. The armored man simply squished them into the wall by walking forward with his shields held in front of him. Fortunately for Carten, Rain’s purification aura was still running.
+
+He switched to Detection once the mess was taken care of and did a quick ping for more monsters. He used full power, noticing a small sliver of his mana disappear as he activated the pulse.
+
+“That’s the last of them,” he said, then switched his focus, searching for Tel. His ping came back with several signals. There was one coming from below Carten’s feet, as well as a few from back in the main chamber. “Carten, there’s a Tel at your feet.”
+
+“I see it,” Carten said, setting aside one of his shields and stooping to collect it.
+
+“Right, check the other tunnels, then on to the next level,” Jamus said.
+
+The tunnel was too narrow for Carten to trade places with him, so Rain led the way back to the main chamber. Once there, he used Detection again, collecting two more Tel. He was about to add them to his own pouch, but Carten stopped him with a hand.
+
+“Hey now, those go in here,” he said, holding out a small leather bag. “We’ll split it up when we’re done.”
+
+“Oh, sure,” Rain said, adding the two Tel to the bag. Carten nodded, pulling the string tight and tossing the bag to him. “You hang on tight to that. Wouldn’t want to lose our fortune.”
+
+“How much did we get?” Val asked.
+
+“Three whole Tel,” Rain said with a shrug.
+
+“Don’t worry,” Jamus said, “we’re not even in the lair yet.”
+
+They quickly checked the remaining side tunnels for monsters, finding nothing. Once Jamus was satisfied that the area was secure, they collected Ameliah and Tallheart and proceeded down the large tunnel that led to the lower chamber. Rain searched the walls as they went, tracing his hand along a vein of what was probably coal until he saw some of the grayish rocks he had noticed last time.
+
+“Here, Tallheart, this any good?” he asked, pointing.
+
+Tallheart walked over to him, fortunately not having to bend his neck quite so badly in the larger tunnel. He touched a gauntleted finger to the stone, then frowned. “Iron. Impure.”
+
+“Is that an issue? Can’t you refine it or something? Maybe a skill?”
+
+“Use Detection,” Tallheart rumbled. “Look for tin.”
+
+“Sure, you got it. Why tin though?” Rain asked, activating his aura. He felt several signals coming from around them, but none of them were clear.
+
+“It melts easily.”
+
+“There’s some around. It’s fuzzy, though. I’m not sure what that means.”
+
+“Perhaps it is impure, same as the iron?” Jamus said, peering over Rain’s shoulder to see what they were looking at.
+
+Rain considered this for a moment. “I suppose.”
+
+“Show me,” Tallheart said.
+
+“Well, there’s a good bit of it over that way, maybe twenty meters,” Rain said, pointing directly at one of the walls of the tunnel. “That’s not particularly helpful though. There’s a smaller signal coming from straight ahead. I’ll let you know when we’re close.”
+
+Rain kept pinging as they continued down the tunnel, using Channel Mastery to keep the mana usage in check. Unfortunately, he didn’t find any deposits that were close enough by the time they reached the lower chamber.
+
+As before, they entered cautiously, scanning for danger. This time, however, the area was deserted. Detection didn’t turn up anything when Rain checked for monsters, but he did sense a good deposit of tin only a short distance within one of the walls. “Here,” he said, pointing. “It isn’t that deep. If we had a pick or something, we could probably get to it.
+
+Wordlessly, Tallheart nodded and removed his hammer from his belt. He eyed the wall, then motioned Rain back.
+
+“Um…Tallheart?” Jamus asked.
+
+“Yes?”
+
+“Maybe be gentle?”
+
+“Do not worry, Jamus. I will not damage the ceiling.”
+
+‘Gentle’, as it turned out, meant sharp, powerful blows that sent chips of stone flying everywhere and echoed through the entire chamber. It took Tallheart only a few minutes to strike the vein of tin. He reached into the wall and broke off a large chunk of a dark, crystalline looking rock.
+
+“Is that what you need, Tallheart?” Rain asked. It didn’t look like metal at all, but he was no geologist. If Detection registered it as a valid target of his search, then it was probably a safe bet that whatever the mineral was, tin made up a good part of it.
+
+This skill is crazy. I definitely need to play with it more later.
+
+“Yes,” Tallheart said, pulling out a sack from the pack he was carrying. He started filling it, hammering at the wall and sifting through the resulting rubble. “Go on. I will remain here.”
+
+“You’re sure you don’t want to come into the lair with us?” Rain asked, looking for the others, but finding only Ameliah looking back at him. “Wait, where did they go?”
+
+“They went ahead to check the other tunnels. Val said you were taking too long.”
+
+“Typical.” Rain shook his head.
+
+“I will remain here,” Tallheart repeated. “You two do not need to wait for me.”
+
+“But what about light?” Rain asked.
+
+“I will be fine,” Tallheart said. He stopped hammering and reached inside his pack, removing a small, wooden case. He opened it to reveal, of all things, a pair of metal-framed glasses. He settled them onto the bridge of his nose, then returned the case to his pack.
+
+Those are…actually pretty stylish. He looks sort of like a college professor with them on. You know, other than the antlers. And the armor… Ok, he looks nothing like a college professor.
+
+“Magic?” Rain asked.
+
+“Magic,” Tallheart confirmed.
+
+“Rare magic,” Ameliah said, appreciatively.
+
+Tallheart resumed pounding at the wall.
+
+“You sure you’ll be okay alone?” Rain asked.
+
+“I have been alone for many years,” The antlered man said slowly. His mouth softened into a smile. “I thank you for your concern.”
+
+“Come on,” Ameliah said. “We should catch up with the others. I’m not sure I trust them to wait for us.”
+
+Rain started to follow her, but stopped at the sound of Tallheart’s gravely voice.
+
+“Rain.” He lowered his hammer and turned to look over his shoulder. There was a very faint blueish glow shining within the lenses of his glasses. His expression was serious. “Do not die.”

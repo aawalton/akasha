@@ -450,3 +450,540 @@ I could boost that even more, too, Amplify would double it, and so would channel
 
 Oh shit, just thought of a downside. They only will use mana when things take damage, so training them will suck. Val would probably see that as an upside. As if he needs an excuse for more sparring. I suppose I could just use it on the dark hounds and then rake in the exp while Carten beats them up. Not sure making the fight harder is a good idea though. This is all probably moot anyway; I won’t be able to level it enough by the time we get there. Maybe once we are back in the city I can use it on slimes or something. Slime punching bags. Now that’s an image.
 
+Tier 3…no. Not for the defensive auras. 10k is a lot for something I might not use. I might unlock tier 3 for one of the other trees though. I have enough to unlock two of them…
+
+“Hey Val,”
+
+“Yeah?” said Val, looking over.
+
+“When you are capped, does experience bank itself up or something, or do you just not get it?”
+
+“The second one. Why?”
+
+“Thanks. No reason,” Rain said, not feeling like explaining.
+
+Yeah, like I thought. Use it or lose it. It isn’t going to build up behind the scenes. Sitting at the cap does me no good, so I might as well unlock everything I can. Next up, offensive auras, including tier 2.
+
+Offensive Auras
+
+Tier 1
+
+Radiance (0/10) (+)
+
+9-10 light (fcs) damage per second to entities
+
+Brightens environment (fcs)
+
+Range: 1.19 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Immolate
+
+Shroud (0/10) (+)
+
+9-10 dark (fcs) damage per second to entities
+
+Darkens environment (fcs)
+
+Range: 1.19 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Refrigerate
+
+Shear (0/10)
+
+9-10 force (fcs) damage per second to entities and environment
+
+Not occluded by mundane materials
+
+Range: 1.19 meters
+
+Cost: 10 mp/s
+
+Requires 15 ranks in Offensive Auras
+
+Tier 2
+
+Corrosion (0/10)
+
+9-10 chemical (fcs) damage per second to entities and environment
+
+Sufficient damage disrupts health regeneration
+
+Range: 1.19 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Shroud
+
+Requires 10 ranks in Refrigerate
+
+Fulmination (0/10)
+
+9-10 arcane (fcs) damage per second to entities and environment
+
+Sufficient damage causes paralysis
+
+Range: 1.19 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Radiance
+
+Requires 10 ranks in Immolate
+
+Tier 3
+
+Locked
+
+I could take shroud or radiance now. Light damage would be useful against dark hounds, but we’ve got Val for that. Can’t get shear yet. I could level up immolate and refrigerate today, though, and take it tomorrow. It’s an option...
+
+Two new ones in tier two. Corrosion sounds like it would be acid. Nasty. Fulmination… doesn’t that mean lightning or something? It says arcane, though. Jamus uses arcane magic, and those whips of his look like they have a lightning aspect. Maybe it’s related? Anyway, not useful at the moment. No point unlocking tier 3 until I check the others. Utility auras, whaddya got for me?
+
+Utility Auras
+
+Tier 0
+
+Summer (0/10) (+)
+
+Boost H.Regen by 12% for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/hr
+
+Spring (0/10) (+)
+
+Boost S.Regen by 12% for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/hr
+
+Tier 1
+
+Life Well (0/10)
+
+Convert mana to health and transfer to all entities within range, including user
+
+Transfer Rate: 1.188 hp/s
+
+Efficiency: 20%
+
+Range: 1.19 meters
+
+Requires 5 ranks in Summer
+
+Energy Well (0/10)
+
+Convert mana to stamina and transfer to all entities within range, including user
+
+Transfer Rate: 1.188 sp/s
+
+Efficiency: 20%
+
+Range: 1.19 meters
+
+Requires 5 ranks in Spring
+
+Tier 2
+
+Precision (0/10)
+
+11.88% boost to physical precision for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/s
+
+Requires 10 ranks in Velocity
+
+Requires 10 ranks in Energy Well
+
+Acuity (0/10)
+
+11.88% boost to physical senses for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/s
+
+Requires 10 ranks in Detection
+
+Requires 10 ranks in Essence Well
+
+Tier 3
+
+Locked
+
+The seasons and the wells... Yup, nothing new there. I know about Fall, but I can’t see it. There must be a corresponding well too. I wonder what it does.
+
+Some new ones in tier 2. Precision and acuity huh? ‘Enhanced senses’ is self-explanatory, but a boost to physical precision? What does that mean? Well, either way, I can’t take them yet. I’ll think about it later. Tier 3…yeah, I kinda want to know. Utility auras have been good to me so far.
+
+As Rain spent the 10,000 experience to unlock the third tier, an unsettling feeling slithered into his gut. He swayed, grabbing at the side of the cart for support.
+
+“Urk,” he choked. “What the hell is this?”
+
+“What?” Jamus asked.
+
+“I unlocked a skill tier, and now I feel awful. Shit, it’s getting worse.”
+
+“You probably overtaxed your soul.”
+
+“What the fuck does that mean? Urgh.” Rain asked, squeezing his eyes shut. He’d broken out in a cold, clammy sweat.
+
+“Just give it a minute. You’ll be fine. Maybe hold off on the skill tree unlocks for a little bit.”
+
+“I think I’m gonna be sick!” Rain fought to keep his breakfast down, hanging his head over the side of the cart. “Stop, stop,” he panted, waving at Carten urgently. He clambered down as the big man brought the horse to a stop. Val moved to help him. Rain frantically waved to warn him, then heaved, chunks of ration bar and bile splattering onto the dirt road.
+
+“Augh! Nasty!” Val cursed, jumping back.
+
+“What happened?” Ameliah asked, approaching rapidly from where she’d been walking up the road. She laid a hand on Rain and he felt healing rush through him, though it did nothing for his nausea. He dry-heaved, but there was nothing left in his stomach to come up. She activated purify and the swirling white light started to work on removing the mess.
+
+“Soulstrain,” rumbled Tallheart.
+
+“Ah,” Ameliah said. “Rain, take deep breaths. It will pass.”
+
+Rain followed instructions, fighting to bring his spasming stomach muscles under control. “What the fuck is going on?” he managed.
+
+“Don’t worry, it isn’t serious,” Jamus said, stepping closer now that the mess was more or less gone. “Various things can cause it. Using too much mana all at once, being healed too many times in a short period, a few other things. In this case, massive experience loss. What was it, tier 3?”
+
+“Yeah,” Rain panted, still not feeling any better. He wiped the sweat from his forehead.
+
+“That would do it. You’re paying for that rare class of yours. Your soul hasn’t had enough time to get used to that level of power.”
+
+Rain flopped to the ground and stuck his head between his knees, still breathing deeply. “How long is this going to last?”
+
+“It depends. I’m guessing not more than a half-hour.”
+
+“Ugh, this is awful. Why does nobody warn me about stuff like this? How was I supposed to know that spending experience would—” Rain gagged and choked as his muscles spasmed, trying to void his already empty stomach.
+
+“Sorry,” Jamus said. “I didn’t even think of it. I had no idea you could even access tier 3 skills yet. You must be higher level than I am now.”
+
+Rain focused on his breathing, fighting the continuing spasms in his stomach. He flashed from hot to cold, then back to hot again. Ameliah kept her hand on his back, occasionally healing him. It helped to soothe his clenched muscles but didn’t do much more than that. The symptoms persisted for what felt like days, but eventually they started to ease. He lifted his head out from between his knees. “I’m ok. I think it’s passing.”
+
+“Good,” Tallheart said, offering Rain his hand and hauling him to his feet. “Do not do that again today. It will be worse the second time.”
+
+Rain nodded feebly and pulled himself back up onto the cart. Ameliah climbed in with him and sat nearby, ready to catch him should he topple over. Carten clucked to the horse and they started moving again. They rode in silence for a few minutes, Rain’s breathing slowly returning to normal.
+
+“Are you okay now?” Ameliah asked.
+
+“I’ll be fine. Thanks.” He forced a grimace into a smile.
+
+“You should be careful when you do things like that,” Jamus said, walking beside the cart. “10,000 experience is a significant loss for the soul. I haven’t seen that strong of a case of soulstrain in years.”
+
+“Why? What is it about using experience that causes...that?”
+
+“Health, mana, and stamina are traits of your soul, not your body. Experience is the same. Spending that much all at once would be like losing an equivalent quantity of health. It is...traumatic. More so for you, due to the rate at which your soul has grown.” Jamus said.
+
+“What...is a soul? The term in my language is...vague. I’m not sure I’m translating it right.”
+
+Ameliah laughed softly. “It is the same here. There are various theories, but no real proof of anything. Some would tell you that it is a gift from the gods; others would argue that it does not exist at all. It depends on who you talk to.”
+
+“What do you believe?” he asked, turning to her.
+
+“Humm. I like to think of it as a deep pool of power within myself. I add to it with experience, and it rewards me with the strength and skill that I need to survive. As for whether it is divine…I leave that to the scholars.”
+
+“Well said,” Val agreed. “Now, enough philosophy. What did you get for all that trouble? Anything good?”
+
+“I hope so. I haven’t looked yet. Got a bit distracted.”
+
+“Well? Look already!” Carten shouted back over his shoulder. Ameliah rolled her eyes but didn’t comment. Rain pushed questions of the soul out of his mind and tried to ignore his lingering nausea. He brought up his newly revealed skill options and paused to consider them.
+
+Utility Auras
+
+Tier 3
+
+Empire of Will (0/10)
+
+Boost Focus by 12 for all entities
+
+Range: 1.19 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Essence Well
+
+Empire of Grit (0/10)
+
+Boost Endurance by 12 for all entities
+
+Range: 1.19 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Energy Well
+
+Empire of Brawn (0/10)
+
+Boost Strength by 12 for all entities
+
+Range: 1.19 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Life Well
+
+Tier 4
+
+Locked
+
+Now those are some suitably metal skill names. Empire of Brawn? I love it. Looks like they give flat stat boosts. That’s...strong. Really strong. With the kind of range I’m getting up to now...yeah. Instant army: just add grit. Mana cost is the highest I’ve seen so far though. I’m gonna need even more regen. I wonder if there is a hidden one of these for Clarity or the other regen stats.
+
+The requirements are pretty high, though I could take the Focus one tomorrow, probably. I’ll have to think about that. For now, I think I need to fill Carten in before he explodes.
+
+Rain cleared his throat. “Who wants to know what is in tier 3 of utility auras?”
+
+“Me!” shouted Carten, raising his hand like a schoolchild. Rain laughed at his eager expression. The others were also looking his way with interest on their faces. This is going to restart that whole argument again, and I don’t even care.
+
+“Right, so there are three of them. I think I’ll call them the ‘imperial auras’. They’re a set, like the seasons and the wells. Empire of Will is a flat boost to Focus for everyone in range. Twelve points at rank 1, cost is 20 mana a second. Empire of Grit and Empire of Brawn are the same, but for Endurance and Strength.”
+
+“Ooo! Oooooo!” Carten grunted as he listened, his eyes lighting up. “The Endurance one! That’s the winner!”
+
+“For you, maybe,” said Jamus. “I’d prefer the focus one, myself.”
+
+“What? You need the Endurance even more than I do, you orange scarecrow. Everyone needs endurance.”
+
+“Humm, I suppose you have a point, Carten,” Jamus mused. “Rain could benefit from it quite a bit too.”
+
+“Wait, did you just agree with me?” Carten stopped to stare at Jamus as he walked past. “That means I win!”
+
+“No, Carten, I’m not saying it is what he should take, just that I saw the value in it. Focus would be better.”
+
+“You’re both wrong,” Val said. “The strength one is the best. That’s the obvious choice.” He ran a hand through his hair, which he was busy retying back into his usual neat ponytail. Carten turned to glare at him.
+
+“And why’s that?” he said loudly.
+
+“He needs health more than he needs resistances. A single big hit would kill him, and shaving a few damage off the top wouldn’t make a difference. He doesn’t have enough depth. Even if he does get a healing aura, that wouldn’t—”
+
+“That’s what the physical ward skill is for, ya idiot. Rain, you find it yet?”
+
+“Yeah, it’s tier 2,” Rain responded, watching as Jamus flailed with his hands, trying to butt his way back into the conversation. To his surprise, it was Ameliah who cut in over him.
+
+“Well, I’m not sitting around for more of this,” she said, hopping off the cart. “Rain, those all sound good. Use your judgment. Tallheart, want to come scouting with me?”
+
+Tallheart nodded and the two silent figures walked off to the side of the road, leaving the others to their argument.
+
+Ha, I don’t blame her. They’ll be at it for hours.
+
+Rain did his best to tune them out and brought up his menus again. He still had two more skill trees to look at. He brought up Magical Utility first, more to check for new hidden skills than anything else.
+
+Magical Utility
+
+Tier 1
+
+Overcharge (0/10) (+)
+
+Delay cast of an immediate spell to charge it with mana
+
+Charge time reduced by mana manipulation
+
+Boost effect intensity by up to 120%
+
+Maximum mana charge 120%
+
+Requires 5 ranks in Intrinsic Focus
+
+Mana Manipulation (0/10) (+)
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 120.0 mp/s (fcs)
+
+Requires 5 ranks in Intrinsic Clarity
+
+Tier 2
+
+Tier 3
+
+Locked
+
+Nope, nothing new. It’s so lame that Magical Synergy was the only thing in tier 2. Channel mastery was in this tree, but it was hidden until I had two ‘channeled’ skills at rank 5. I’m betting that this tree has a ton of skills like that; I just don’t meet the requirements for them. I wonder why Overcharge isn’t hidden? Auras aren’t ‘immediate’ skills, are they? No, it would have said if it was revealed by meeting the requirement like Channel Mastery did…
+
+Bah. I was hoping for something else to boost mana regen, but there’s nothing useful to me right now. I’ll have enough experience to unlock tier 3 tomorrow, but…
+
+He waved to attract Jamus’s attention. “Sorry to interrupt, Jamus. Quick question. This ‘soulstrain’ thing. How long until I can unlock stuff again without puking my guts out? Oh, and should I be afraid of using mana, now that my soul is already ‘overtaxed’, as you said?”
+
+“You should be fine in a few days. Take it slow. You usually won’t know you’re near the edge until it’s already too late. As for excessive mana use, your high Clarity must be protecting you, otherwise...”
+
+“Thanks, Jamus. As you were.”
+
+Rain looked at the tier 3 unlock button, then sighed and dismissed the window.
+
+Last but not least, Aura Metamagic.
+
+Aura Metamagic
+
+Tier 2
+
+Aura IFF (0/10) (+)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 90.0% aura output
+
+Requires 10 ranks in Amplify Aura
+
+Requires 10 ranks in Extend Aura
+
+Requires 10 ranks in Aura Focus
+
+Prismatic Intent (0/10)
+
+User may maintain 2 auras simultaneously
+
+Requires 10 ranks in Aura Synergy
+
+Requires 1 rank in 15 different auras
+
+Tier 3
+
+Locked
+
+There it is! No longer grayed out. Excellent. Damn, no hidden skills anywhere in all of this. Oh well. I’m taking IFF. I’ll think about what else I want later. Maybe these chuckleheads will actually come to a consensus. Nah, probably not.
+
+Rain spent one of his free skill points on IFF and then closed out all of his menus and prepared to test the effect of the new skill.
+
+Let’s see, how does this work? Ummm, ok. Essence well transfers… He pulled up the skill in its own window.
+
+Essence Well (9/10) Exp: 689/7400
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 10.692 mp/s
+
+Efficiency: 20%
+
+Range: 10.7 meters
+
+...10.7 mp/s. First test, include everybody as a control case.
+
+Rain dropped Winter, then activated Essence Well with no modifiers whatsoever. He checked the mana drain, seeing it at 51 mp/s as expected. 53 mp/s would be the cost of the skill given the 20% efficiency; however, it would also be providing 2 mp/s to Carten, Jamus, Val, himself, and Mr. Ed. He wondered if the horse—whose real name he didn’t actually know—might be affected by all the overmana it was getting.
+
+I suppose a talking horse wouldn't be that much stranger than what I’ve seen so far. Anyway, IFF Test Case 1: Nobody.
+
+Rain concentrated, trying to focus on the concept of a blacklist. He mentally excluded all five of them from the effect of his aura. Essence Well activated, the familiar blue rings forming around the four humans and the horse. Rain saw the mana drain listed at around 46 mp/s.
+
+Ok, so that’s working. I’ll check the full math later. Aura IFF Test Case 2: Greed.
+
+Rain removed himself from the blacklist, watching the numbers closely. His mana drain increased from 46 mp/s to 50.5 mp/s.
+
+Ok, that wasn’t quite what I expected. I should be getting more than they are, so the total drain should have gone down…No, wait. The well auras are weird. I’m actually transferring more mana and paying the efficiency tax on the increased transfer. Humm. More research is needed. Aura IFF Test Case 3: Selfless.
+
+He reversed his blacklist, concentrating on blocking the aura effect for only himself, but not the others. The drain changed again, increasing to 51.5 mp/s.
+
+Humm. I think I’m going to have to work this one out later. The math isn’t straightforward. Let’s try an easier example. Aura IFF Test Case 4: Winter.
+
+Rain left his blacklist alone and activated Winter instead of Essence Well. His statistics display showed a multiplier of 164% for his mana regeneration. After removing himself from the blacklist, he saw it jump back up to 171%. The cost of the skill didn’t change.
+
+That’s straightforward. Man, this is going to be trouble. I’m going to have to keep track of the blacklist settings for each aura. Winter is for friendlies, Refrigerate is for enemies, and the wells…yeah. I need to think about that one. It would also be nice if I could get a whitelist instead of a blacklist for the offensive auras. I don’t want to accidentally freeze someone solid if they wander into range and I don’t know about them.
+
+Ok, 200 Clarity, don’t fail me now. I can’t get a calculator, fine, I’ll accept that, but IFF is a skill within the system. A little support isn’t too much to ask for.
+
+Rain focused on what he wanted. After a few seconds, the outline of a blue panel flickered into being in front of him. It was unstable, fuzzing around the edges and crackling with interference. Rain’s eyes widened; nothing like this had happened when he’d tried to summon the calculator. He focused harder, willing the panel into being. He felt a strange resistance in his mind, but he didn’t relent, forcing the system to bend to his will. His head started to throb as the tension built and built. Suddenly, the resistance broke and the panel popped into place as if it had always been there.
+
+Aura IFF Configuration
+
+Winter | Essence Well | Refrigerate | < | > |
+
+Blacklist
+
+Richmond Rain Stroudwater
+
+Nice! Exactly what I…oh no.
+
+Rain squinted his eyes shut and held on to the side of the wagon. The feeling of nausea that had appeared when he unlocked tier 3 had returned. Thankfully it wasn’t nearly as strong as it had been before. He fought it down, taking deep steadying breaths. The feeling passed after a few minutes. None of his companions even seemed to notice, so intent were they on their argument.
+
+Ooh, message received. Messing with the system strains the soul. Got it.
+
+Returning to the new panel, he investigated its features. He was able to tab through his auras and add or remove items from the blacklist for each one. To his delight, the panel remembered the specific list for each skill, even if he closed and re-opened it.
+
+Awesome. And I can still change the list without having to open the panel if I want to. Now, can I make it use a whitelist instead?
+
+Rain switched the panel to show the settings for Refrigerate, then concentrated, trying to switch the mode. He felt the same sense of resistance in his mind, so he stopped for fear of further straining his soul.
+
+The resistance means it is probably possible, whatever the skill description for IFF says. I’ll push tomorrow. My soul is tender and I’ve puked enough for one day.
+
+Rain removed himself from the blacklist for Winter, restoring it to default settings. Then, with another thought, he added “enemies” as an entry. He defined this to mean anyone that he considered hostile. The panel seemed to accept it without complaint.
+
+Cool. I’ll set all my other skills up in a bit. For now, I need to figure out how to train IFF. A 10% reduction isn’t going to cut it. I guess more mana means more experience as always, so I’ll blacklist everything and use a shit-ton of mana.
+
+Rain sighed, resigning himself to a few more hours of the sensory deprivation tank that was Aura Focus. He activated Essence Well with minimum intensity, blacklisting everyone, including the horse. Immediately, he spotted a problem. He pulled up the display for Essence Well again to check the current state of the skill.
+
+Essence Well (9/10) Exp: 689/7400
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 1.0692 mp/s
+
+Efficiency: 100%
+
+Range: 10.7 meters
+
+1mp/s transfer at 100% efficiency—so 5000 seconds to drain my mana pool. That won’t do. Channel mastery is rank 9 now, so this would be 10% of normal power. I guess 100% is the limit for efficiency. Damn, I was hoping to get more out than I put in. Oh well, I’ll figure out the formula later.
+
+I want to get Essence Well to rank 10, so I need it to use a decent amount of mana. That means I need to hold back on holding back. Let’s not make it complicated for once. 50% power for the first round. I’ll do the math while I’m in the tank.
+
+He let the transfer rate of essence well rise until about 50%, then held it there until his mana ran dry. He switched his modifiers over for Winter, using everything that he could to boost it. He could have skipped out on Aura Focus, now that it was maxed, but it was actually the cost multiplier that he was most interested in right now. It was time to power-level Winter at last.
+
+As his senses faded away, he brought up his panel to do the math on how long he’d have to stay like this. He did a double-take at the numbers displayed on the skill description as well as his statistics panel.
+
+Winter (6/10) Exp: 90/1600
+
+Boost M.Regen by 813% for all entities
+
+Range: 57 meters
+
+Cost: 308 mp/hr
+
+Mana Statistics
+
+Total
+
+Base
+
+Mult
+
+Add
+
+Unit
+
+Mana
+
+5100
+
+5100
+
+100%
+
+0
+
+mp
+
+M.Regen
+
+109.9
+
+12.6
+
+913%
+
+-5.13
+
+mp/min
+
+Holy shit. An 800% boost to everyone in a 57-meter radius? That’s insane! Just under 50 minutes to regenerate 5000 mana. I knew it would multiply, but seeing it like this is just...wow.
+
+I wonder if anyone will notice the difference. They don’t have anywhere near as much Clarity as I do, but an 800% boost is still gonna raise some eyebrows. Even more so if they figure out the range. I can’t wait to see their faces when I come out of this! This is going to be a loooong 50 minutes.

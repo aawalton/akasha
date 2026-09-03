@@ -1072,3 +1072,1014 @@ Requirement
 
 10 (presumed) Winter
 
+10 (presumed) Spring
+
+10 (presumed) Summer
+
+Bottom Line
+
+Take Fall after Summer
+
+Again, Ameliah offered to take it
+
+Wouldn’t be as strong
+
+Would take her time to rank up the other seasons
+
+She could dump them afterward, but still
+
+Other Stuff
+
+Further ranking of skills is not productive. There are too many unknowns. This section is just to help me think things through by typing them out.
+
+Discombobulate vs Suppression
+
+Suppression is a non-lethal mage killer
+
+Discombobulate is a highly-lethal everything-killer
+
+Suppression likely has some hidden characteristics
+
+Otherwise, why take it over Discombobulate?
+
+More research is needed
+
+Higher-Tier Skills
+
+Generally better, one would think
+
+Require more experience to level
+
+Might benefit the soul????
+
+Higher chance of unlocking tier-4s
+
+Hidden Skills
+
+2-element combo Offensive Auras
+
+Heat/Cold is an opposed pair
+
+No combo exists
+
+Reasonable, therefore, that opposed pairs are invalid
+
+If combos exist, they would therefore be:
+
+Cold/Dark
+
+Heat/Light
+
+Force/Mental
+
+Arcane/Chemical
+
+2-element combo Defensive Auras
+
+Plausible
+
+Offense-Defense combos
+
+Plausible
+
+Fastest path to test would be Heat Ward or Cold Ward at level 19
+
+Heat/Cold Ward redundant (for self) given current resistances
+
+With Prismatic, could use a ward to protect allies from OA, but not mana-efficient
+
+Acuity/Precision
+
+There is a clear alignment here
+
+Even if they don’t unlock anything, they will complement each other
+
+Elemental Refinement Unlocks
+
+Possible combo with any skill that has an element
+
+Mana Manipulation Unlocks
+
+There is one hidden skill per tree that requires MM
+
+Just a matter of finding it...
+
+Full board combos
+
+4 Seasons
+
+All but confirmed that the first 3 unlock Fall
+
+4 Imperial Auras
+
+Symmetry suggests there is a fourth
+
+8 Element Defensive Combo
+
+Apart from being able to defend against anything, possible that this would unlock something
+
+8 Element Offensive Combo
+
+Again, possible
+
+8/8 Offensive/Defensive Combo
+
+Maybe maybe maybe
+
+Upcoming Biomes
+
+If needed, I can take the appropriate ward or Offensive Aura
+
+Within the above constraints, ofc
+
+Wards don’t have the efficiency to compete with the damage down here, but are better than nothing
+
+Skills that aren’t Aura Skills, “One Point Wonders”
+
+Arcane Mastery
+
+Still need to verify that all Utility Auras count as Arcane
+
+90% sure, but my interface won’t tell me :(
+
+Requires Arcane Bolt :(
+
+Message
+
+Coms are vital
+
+Would require 5 points to get D:
+
+#todo invent radio instead
+
+Other element masteries, physical intrinsics, physical synergies, elemental resistance passives...
+
+Y’all got any more of them skill points?
+
+Tamer Skills
+
+Revive Dozer
+
+I tamed him without them, but that’s tier 0...
+
+Flight/Airwalk
+
+Lots of prereqs…
+
+There may be other ways to fly. Air magic, maybe, or straight-up Force? Lavarro can fly. I need to find a way to ask Mahria for details without pissing her off... #todo
+
+More?
+
+Some stuff, like katas, basic crafting, etc. can be done without skills
+
+Need to prioritize my time
+
+Solution space is massive. Feels like O(2n) to sift through it...
+
+Skill
+
+Rank
+
+Tree
+
+Tier
+
+Element
+
+Order
+
+Refrigerate
+
+10
+
+OA (1)
+
+0
+
+Cold
+
+0
+
+Extend Aura
+
+10
+
+AM (1)
+
+0
+
+None
+
+1
+
+Purify
+
+10
+
+UA (1)
+
+0
+
+Arcane
+
+2
+
+Winter
+
+10
+
+UA (2)
+
+0
+
+Arcane
+
+3
+
+Intrinsic Clarity
+
+10
+
+MU (1)
+
+0
+
+None
+
+4
+
+Amplify Aura
+
+10
+
+AM (2)
+
+0
+
+None
+
+5
+
+Detection
+
+10
+
+UA (3)
+
+1
+
+Arcane
+
+6
+
+Aura Focus
+
+10
+
+AM (3)
+
+1
+
+None
+
+7
+
+Channel Mastery
+
+10
+
+MU (2)
+
+1
+
+None
+
+8
+
+Intrinsic Focus
+
+10
+
+MU (3)
+
+0
+
+None
+
+9
+
+Velocity
+
+10
+
+UA (4)
+
+1
+
+Arcane
+
+10
+
+Immolate
+
+10
+
+OA (2)
+
+0
+
+Heat
+
+11
+
+Magical Synergy
+
+10
+
+MU (4)
+
+2
+
+None
+
+12
+
+Aura Synergy
+
+10
+
+AM (4)
+
+1
+
+None
+
+13
+
+Essence Well
+
+10
+
+UA (5)
+
+1
+
+Arcane
+
+14
+
+Aura IFF
+
+10
+
+AM (5)
+
+2
+
+None
+
+15
+
+Force Ward
+
+10
+
+DA (1)
+
+2
+
+Force
+
+16
+
+Mana Manipulation
+
+10
+
+MU (5)
+
+1
+
+None
+
+17
+
+Aura Compression
+
+10
+
+AM (6)
+
+3
+
+None
+
+18
+
+Mental Ward
+
+0
+
+DA (2)
+
+1
+
+Mental
+
+19
+
+Radiance
+
+0
+
+OA (3)
+
+1
+
+Light
+
+20
+
+Shroud
+
+0
+
+OA (4)
+
+1
+
+Dark
+
+21
+
+Chemical Ward
+
+0
+
+DA (3)
+
+1
+
+Chemical
+
+22
+
+Suppression
+
+0
+
+DA (4)
+
+3
+
+Arcane
+
+23
+
+Arcane Ward
+
+0
+
+DA (5)
+
+1
+
+Arcane
+
+24
+
+Fulmination
+
+0
+
+OA (5)
+
+2
+
+Arcane
+
+25
+
+Prismatic Intent
+
+0
+
+AM
+
+2
+
+None
+
+26
+
+Ethereal Aura
+
+0
+
+AM
+
+3
+
+None
+
+27
+
+Spring
+
+0
+
+UA
+
+0
+
+Arcane
+
+28
+
+Summer
+
+0
+
+UA
+
+0
+
+Arcane
+
+29
+
+Fall
+
+0
+
+UA
+
+0
+
+Arcane
+
+30
+
+Discombobulate
+
+0
+
+OA
+
+3
+
+Mental
+
+999
+
+Mana Sight
+
+0
+
+MU
+
+3
+
+Arcane
+
+999
+
+Elemental Refinement
+
+0
+
+MU
+
+3
+
+None
+
+999
+
+Overcharge
+
+0
+
+MU
+
+1
+
+None
+
+999
+
+Acuity
+
+0
+
+UA
+
+2
+
+Arcane
+
+999
+
+Empire of Brawn
+
+0
+
+UA
+
+3
+
+Arcane
+
+999
+
+Empire of Grit
+
+0
+
+UA
+
+3
+
+Arcane
+
+999
+
+Empire of Will
+
+0
+
+UA
+
+3
+
+Arcane
+
+999
+
+Energy Well
+
+0
+
+UA
+
+1
+
+Arcane
+
+999
+
+Life Well
+
+0
+
+UA
+
+1
+
+Arcane
+
+999
+
+Precision
+
+0
+
+UA
+
+2
+
+Arcane
+
+999
+
+Shear
+
+0
+
+OA
+
+1
+
+Force
+
+Alt
+
+Cold Ward
+
+0
+
+DA
+
+0
+
+Cold
+
+Alt
+
+Dark Ward
+
+0
+
+DA
+
+1
+
+Dark
+
+Alt
+
+Heat Ward
+
+0
+
+DA
+
+0
+
+Heat
+
+Alt
+
+Light Ward
+
+0
+
+DA
+
+1
+
+Light
+
+Alt
+
+Corrosion
+
+0
+
+OA
+
+2
+
+Chemical
+
+Alt
+
+Rain rubbed his neck. It was a lot to think about.
+
+First and foremost, there was the requirement for Legendary Dynamo—not the pure Clarity piece of it, which went without saying, but the need to have five skills each in five separate skill trees. Specializations were picked at the same time as the class itself, and they were final. You couldn’t just take the class and pick trees later once you filled them in. While technically a person could pick a class anyway, forfeiting any specializations they didn’t qualify for, that was NOT an option.
+
+It was an agonizing restriction, yet strangely welcome. Decision paralysis was much less of a problem the fewer options you had.
+
+Theoretically, all of the Offensive or Defensive Auras Rain knew about were on the table. Discombobulate was an exception, locked out by its requirement until after he picked his class. Suppression was possible, but if he wanted to take it, then his options were further restricted. He’d need to take an aura of each element first.
+
+To avoid boxing himself into any corners, Rain had gone through his table and marked where each tree and element was satisfied. Even though he was sure he had everything correct now, he’d spent hours and hours agonizing over this version of the list, checking, rechecking, and then rechecking again.
+
+Rain clenched his jaw, stopping himself from going through it all again. Today, he just needed to pick what came first.
+
+If the next biome is Arcane, Arcane Ward comes first. If it’s Dark, I take Radiance. If it’s Light, I take Shroud. If it’s Chem, Chem Ward. Otherwise, Mental Ward. It has the highest chance of a combo with Force Ward. Besides, nobody is stealing my memes. I won’t allow it.
+
+Rain nodded to himself, closing the panels and turning his head to check on Ameliah, still asleep beside him. Or not. He blinked, finding her watching him with a smile on her lips. How long has she—
+
+“Hi,” Ameliah whispered, giving him a knowing look. “Been up long?”
+
+Rain did his best to look innocent. “I did sleep, I swear.” Damn. I wanted to make her breakfast before she woke up.
+
+Ameliah laughed softly, then moved in for a good-morning kiss.
+
+Two hours later, Rain and Ameliah stood side by side, watching with interest as Tallheart carefully reassembled the Depth Gauge. The Fire Moss was glowing warmly now, bathing their camp in reddish light. Tallheart had removed his gauntlets—a rare sight—and was working with a pair of tweezers. One by one, he placed Tel into sockets in the inscribed stone disk that they’d found sitting below the instrument’s dial.
+
+The Tel he was using were the same ones that had been in there originally, not replacements. Each was inscribed with an identical, intricate rune. That in itself was amazing. Drawing those runes would have been like carving rice—possible, but incredibly difficult. Tallheart didn’t know what the runes actually did, either. The Depth Gauge had a metal housing, but its guts were all stone and crystal. It was outside his area of expertise.
+
+“Hmm,” the smith said as he replaced the last Tel and set down his tweezers. Carefully, he placed the painted dial over the stone disk, lined it up, and pressed until it snapped into the case with a click. He replaced the indicator needle next, fixing it to the dial with a tiny screw.
+
+“Here,” he said, holding the completed instrument out to Rain. “You have unnatural luck. You should be the one to charge it.”
+
+“If you say so,” Rain said, taking the device from him gingerly. “It isn’t going to explode or anything, is it?”
+
+“It may,” Tallheart said simply.
+
+Rain nodded, preparing himself for a surprise as he fed a trickle of mana into the delicate instrument. The needle twitched, then rose smoothly, stopping to hover at fifteen.
+
+“Still the same,” Ameliah said with a sigh. “It’s either still working, or still broken the same way.”
+
+“Mmm,” Tallheart said, packing up his tools. “We shall see.”
+
+Rain nodded, prodding the needle ever so gently with a fingertip, then watching it spring back into place. It was moving more freely now, if nothing else. There’d been a bit of dust trapped inside the mechanism that had been causing it to get stuck, but otherwise, there’d been no apparent damage. He shook his head, then snapped the lid closed. “We need another one of these. Relying on just one reading is a bad idea. It’s a single point of failure.”
+
+“Yes,” Tallheart said, frowning as he flexed his left hand before replacing his gauntlet.
+
+Rain’s eyes flicked to Ameliah’s pack, where the Arcane GranCryst was tucked away safely, then to Tallheart’s metal carriers, where the valis now rested in ingot form. He looked back to Tallheart, then cleared his throat. “What do you need to fix your gauntlet, anyway? Can you use the valis to do it?”
+
+Tallheart shook his head slowly. “More metals are required, as well as several GranTel and GranCrysts. Not just Arcane. All elements.”
+
+“Ah,” Rain said. “Multi-layer kind of deal?”
+
+“Yes,” Tallheart said, gesturing to his armor at large. It was slightly battered, just as it had been since the day Rain had met him. “Repairing even the cosmetic damage would not be easy. It is a waste of resources.” He inclined his head to Ameliah. “Ones that may be better spent.”
+
+Ameliah nodded, rubbing at her neck awkwardly. “I still don’t like that you aren’t getting anything out of this.”
+
+“I am,” Tallheart said, rumbling by way of non-elaboration. “Have you decided what type of weapon you will use?”
+
+“I...yes,” Ameliah said.
+
+“Oh?” Rain asked, suddenly excited.
+
+Ameliah glanced at him, then back at Tallheart, before looking down at her feet. “I’m going for Lilly’s build, mostly. Sharpshooting, Elemental Archery, Heavy Armor, and Equipment Use are the four main trees I’ll be pulling skills from. I’m keeping Airwalk, plus my usuals if I can. I’ve used some of the bow skills before, but I’ll have to level the stuff in Heavy Armor and Equipment Use from nothing. We knew that was going to be an issue, whatever weapon I picked.” She looked up, meeting Tallheart’s eyes. “A bow is the best option. We need the range.”
+
+“Mmm,” Tallheart said. If the mention of Lilly bothered him, he didn’t show it. “If we can find enough adamant, I can make something...passable. Grand Arcane Valis would make a worthy core, but it would not serve on its own.”
+
+Rain grinned, looking between his friends before gesturing toward the trees. “Well, what are we waiting for? Let’s go get some adamant, then.”
+
+They packed up quickly, leaving behind nothing save a metal marker for Detection. The walk back to the site of the battle with the Hababa Shaman King was uneventful, with Ameliah simply Fireballing the occasional monster that they encountered. When Rain questioned her about it, asking whether she, as their ace, should be wasting mana like that, she’d said to stop worrying about such a small amount of mana. She insisted that she was doing it to train her Focus tolerance, but Rain suspected the real reason was that she was trying to help him without admitting it. He’d mentioned to her that he was trying to avoid leveling. If they’d used the same combat strategy that they’d been using, the kill experience would have pushed him up to level twenty in short order.
+
+He was grateful to her, whatever her motivation. Detection would soon push him over the threshold—he wasn’t about to turn off their early warning system—but since he could control when the experience was applied, he’d still be able to run the experiment he wanted. He intended to be inside his soul when the next application occurred.
+
+Soon enough, they arrived, finding the battleground mostly as they’d left it. They’d suspected there might be a few Hababas waiting for them, but there were none to be seen. Instead, they found a few dozen Lava Slimes, likely freshly spawned overnight. The monsters were grouped up loosely, a moderate distance away around the edge of the lava lake.
+
+The lake itself had drained a bit, Rain saw, having still been filling up when they’d left. There was a hardened rim of stone showing where it had retreated from its banks, and there was now an outlet where the lava had found its way back to its original path. The stone outcropping with the cave stood at the center of a small island at the center of the lake, the lava never having reached that high.
+
+“What are we doing about that?” Ameliah asked, gesturing vaguely and interrupting Rain’s observation.
+
+“The Lava Slimes?” Rain asked, trying to guess what she’d been pointing at.
+
+Ameliah shook her head. “No, the lava itself. It might have swallowed up some of the adamant shards.” She raised her hand. “The slimes aren’t a problem. I don’t care how Heat resistant they are.”
+
+Without chanting, she lobbed a Fireball toward the nearest of the creatures, still at least fifty meters away. That was a good thing, as when the projectile struck, there was a violent explosion, and the Lava Slime ceased to be. Burning globs of molten stone rained down everywhere nearby, hissing and steaming as they struck the ground. The system rewarded Rain with a single point of experience, apparently for witnessing the show.
+
+“The Force component is plenty,” Ameliah said in satisfaction, lowering her arm.
+
+“Right,” Rain said, nodding, watching the remaining slimes as they proceeded to flip their shit. They oozed around in panic, clearly unsure where the attack had come from.
+
+Ameliah started walking toward the lake, looking over her shoulder to speak to Rain and Tallheart. “I can dip back into Geomancer and dig a new channel to drain the lake. Or I could just use a shovel, I suppose. I don’t plan on swimming in lava if I can help it.”
+
+Rain blinked, then quickly wriggled out of his pack. He dropped his shield too, as it was clear enough he wouldn’t need it, then hurried after her. Tallheart didn’t follow, busy removing his mobile forge.
+
+Rain caught up to Ameliah right at the edge of the lake, stopping beside her to stand on the brittle crust surrounding it. He pinged with Detection to make sure there were no Lava Slimes lurking beneath the surface, then reached into a pocket and retrieved the Depth Gauge, wrapped up in a sock. Strapping the fragile instrument to the inside of his shield was convenient, but not the greatest idea in retrospect.
+
+“Well?” Ameliah asked, watching him out of the corner of her eye as she monitored the Lava Slimes.
+
+Rain clicked his tongue as he checked the gauge, finding that it still read fifteen. “Still the same,” he said, wrapping it back up and tucking it away.
+
+“Oh well.” Ameliah shrugged. “Uh oh, looks like they saw us,” she said, utterly failing to sound concerned.
+
+Rain looked up to see that the entire pack of slimes had started oozing in their direction around the lake, taking the long way.
+
+“They can’t swim?” Rain asked, raising an eyebrow.
+
+“Apparently not,” Ameliah said, raising her arm. She began casually Fireballing them, occasionally taking out two or three at a time. It was hard to take them as a serious threat after seeing that, so Rain returned his attention to something else that was bothering him.
+
+He gestured at the lake, struggling to articulate his thoughts. “Why is this lava here at all? I mean, there’s no obvious source of heat. I would have thought it would have all cooled long before it made it this far into the cavern. It’s just flowing along the surface, not welling up from below or anything.”
+
+“It’s the Heat mana,” Ameliah said, pausing her assault to glance at him, and Rain noticed that there were droplets of sweat forming on her forehead. “It’s everywhere. Also, aren’t you hot in there?”
+
+Rain grinned beneath his helmet. “Not at all. Thermal Regulation, remember? It’s amazing how well it works with the visor down. The air’s just a bit warm coming in.” He paused, tilting his head. “Still stinks, though. The fumes probably aren’t great for our lungs, but Chem resistance should take care of that. Detection says there’s plenty of oxygen.”
+
+He knelt, then carefully poked at the lava with one of his adamant fingertips. It felt thick and gooey, like molten marshmallow. Some of it stuck to his fingertip as he pulled it away, still glowing brightly. He checked his saturation gauge, finding that it hadn’t budged, which wasn’t surprising.
+
+Environmental mana didn’t get absorbed by metal nearly as quickly as the mana that made up spells. If it did, the world would have been a much easier place to live in. All you’d need to do would be to pave your streets with iron, and then you could build a city anywhere you wanted without fear of monster spawns—that was if mana had anything to do with spawns in the first place. It seemed more likely that ambient mana and monster spawns were both symptoms of the same underlying cause, namely ambient essence.
+
+Rain stood, thinking hard as he continued staring at his glowing fingertip. The heat had started to overwhelm the thermal regulation enchantment. It wasn’t painful, just a bit warm. He shook his head, looking back at Ameliah. “So it’s staying hot because we’re in a Heat biome?”
+
+“Mmm,” Tallheart said.
+
+Rain didn’t jump, though Detection hadn’t given him any warning. He simply expected it at this point. He pivoted smoothly to find the smith standing right behind him.
+
+“Such things are common enough,” Tallheart continued, sounding slightly disappointed at the lack of a reaction. He snorted, then approached the edge and knelt before plunging his hand fully into the lava. Moments later, he rumbled in satisfaction. “Iron. Good.”
+
+“Oh?” Rain asked, glancing at Ameliah, who had just sniped off the last of the Lava Slimes. Rain used Detection to verify that she’d gotten them all, then pinged again at high power, trying to sense the iron Tallheart had felt. The entire lake lit up in his mind, and he smiled. Looking back at his finger, he gave it a little flick, attempting to dislodge the glob of lava, only now starting to cool. Irritatingly, it remained stuck. I shouldn’t try this without my gauntlets, Heat resistance or not. I mean, damn. Could an unawakened person even stand here?
+
+Tallheart rose, freeing his own hand of lava by whipping it down through the air faster than Rain could see. “Hmm,” he rumbled, looking coolly out over the lake. “I will construct a full smelter and begin extraction. We must still gather the blade shards, however. The more adamant we find, the less iron I will need to condense.” He paused, scratching at the base of one of his antlers. “Even so, I believe we will be here for some time. This is a valuable opportunity.” He lowered his hand, then turned to face Rain. “We should not move on until I have constructed a full suit of armor for Ameliah and have added a layer of adamant to yours.”
+
+“Awesome,” Rain said, unable to contain his grin. Struck by a thought, he used Refrigerate to solidify the clump of lava still stubbornly clinging to his fingertip. Once it was mostly cool, it began to crumble, and he was able to pry it loose with his other hand. “What about the cave, though? Shouldn’t we explore that first before we set up camp?”
+
+“Yes, we should,” Ameliah said. She turned, then spread her arms wide, beckoning to them as if inviting them to a group hug. “Come here, you two. I’ll Airwalk us over.”
+
+Rain grinned, eagerly moving to accept her invitation. Tallheart, on the other hand, snorted, then turned to walk back toward their packs.
+
+“Tallheart, come on, we need you,” Ameliah said as Rain clung to her side, but the smith ignored her. After a moment, he turned to face the direction of the cave, then broke into a sprint. Just before he reached the lake’s edge, he jumped, shattering the brittle stone with the force of his takeoff. He soared through the air in a graceful arc, easily clearing the forty-odd meters to land on the island surrounding the stone outcropping.
+
+“Oh,” Ameliah said with a snort. Without warning, she scooped Rain off his feet, shifting him to a princess carry with no apparent effort. “Easier with just one, anyway. Stop squirming.”
+
+Rain smiled behind his helmet, relaxing into her arms after he recovered from the shock. I...don’t hate this.
+
+Ameliah snorted, then jumped out over the lava. Zigzagging with each footstep, she bounded across, staying a few meters above the surface until landing safely on the other side. She straightened herself up from the landing, then looked down at Rain and raised an eyebrow. “No screaming?”
+
+Rain laughed. “Of course not. You’d never drop me.”
+
+Ameliah promptly dropped him.
+
+“Enough play,” Tallheart said sternly as Rain continued laughing from his position on the ground. “We face the unknown.”
+
+Rain closed his mouth quickly. “Sorry.” He got to his feet, then used Detection at full power, getting a response from the cave, diagonally down at the very limit of his range. He pointed. “Monster that way, about a hundred meters. Hang on.” Several pings later, he relaxed, shaking his head. “It’s just a Hababa. A regular one.” He pinged a few more times, then smiled. “The cave slopes down gently for about fifty meters, then there’s a vertical shaft and a passage below that. It looks like we were right about this being the way forward. The Hababa is at the bottom of the shaft, and it hasn’t moved since I picked it up.”
+
+“Okay, wait here,” Ameliah said, turning back toward the lake. “I’m going to go get your shield before we say hello. Actually, I’ll get all our stuff. It will be safer in the cave than it is out in the open.”
+
+Rain nodded. “That’s probably a good idea. I’d help, but, you know…” He shrugged. “Can’t fly.”
+
+“Don’t worry about it,” Ameliah said, jumping away. She spun in mid-air, then, amazingly, seemed to perch there as she waved back to them, “Rain, keep an eye on Tallheart, would you? You know how he’s always running off.”
+
+“Hmph,” Tallheart snorted, sounding amused. He moved to stand next to Rain, watching her as she spun away and resumed her progress toward the shore. When she touched down, he turned to Rain, smiling slightly. “She has improved.”
+
+“At Airwalk?” Rain asked, smiling back. “Yeah, she’s really getting the hang of it, even with her boots on.”
+
+“No,” Tallheart said, shaking his head. “That is true, but it is not what I was referring to.”
+
+“What do you mean, then?” Rain asked.
+
+“She has improved at managing you. She told you to watch me, but her statement was intended for—”
+
+“I got it, Tallheart, I got it,” Rain interrupted, waving him off. “I don’t need...managing. It’s just hard for me to feel afraid of stuff when you two are around. You’re so strong that it’s ridiculous.” He pointed at the cave. “For crying out loud, I just detected a reaper-class monster, and it made me feel better, not worse.”
+
+“Hmm,” Tallheart rumbled in acceptance. “It is true. The unknown is the greater fear.”
+
+“Right, well, let’s see if we can do something about that,” Rain said, pulling out the Depth Gauge and removing it from its protective sock. He flipped open the cover, then sighed. “Still fifteen. Let’s wait till she’s back to check what it says inside.”
+
+“Wise,” Tallheart said. The silence stretched for a moment, then he spoke again. “To be clear, I was joking. You do not require management, merely occasional guidance.”
+
+Rain smiled and opened his mouth, but his response was interrupted by a heavy thud as Ameliah landed. She was wearing the Double Gamgee and was holding Tallheart’s mobile forge in one hand, his metal cases in the other, and her own pack in her teeth by one of the straps. She’d threaded her arm through the grips of Rain’s shield, wedging it high on her upper arm so she could manage everything else. She spat out the strap as he stared, leaving her pack to fall to the ground, then bent to set Tallheart’s stuff down more gently.
+
+“What?” she asked, seeing them watching her.
+
+Rain chuckled. “Nothing. I’ve brought in groceries before.”
+
+Ameliah smiled, looking slightly confused. She didn’t ask, though, simply handing him his shield. “Here.”
+
+“Thanks,” Rain said, accepting it. He verified that none of the potion bottles strapped to its back had slipped free, then slid his arm through the straps. Once it was secure, he looked up at his friends and gestured vaguely in the direction of the cave with the hand holding the Depth Gauge. “Shall we?”
+
+Ameliah nodded, summoning her Lunar Orb and sending it zipping into the cave. She and Tallheart followed it inside, with Rain bringing up the rear. By unspoken agreement, the three of them slowed down as they continued, until they were moving at a cautious, near-silent creep. Rain, for one, was really feeling the cramped darkness pressing down on him. They’d been underground this whole time, of course, but it hadn’t felt like it back in the Ashen Jungle. Perhaps some of his unease came from his attention on the Depth Gauge, grasped tightly in his hand. With each step he took, the needle wavered ever so slightly from the motion. Slowly but surely, however, it was rising. “Sixteen,” he whispered, informing the others as it passed the next demarcation.
+
+Ameliah nodded without looking back, speaking in a slightly louder voice. “I can see a drop ahead. We’re almost—”
+
+“OOH!”
+
+Rain froze, tensing as the echoes of the Hababa’s call rebounded from the tunnel walls. The others had frozen as well, and the three of them waited breathlessly until silence returned, then began to stretch. Ameliah cautiously motioned them forward, and they proceeded until she and Tallheart were right at the edge, looking down, with Rain lingering behind. She glanced back at him, then gave a slight shake of her head.
+
+She can’t see it. Rain gestured to her quickly, using hand code. “It is still there. No other monsters that I can feel.”
+
+“Lure it?” Ameliah replied, also in hand code. Rain nodded in agreement, and she tapped Tallheart on the shoulder, then repeated the first sign. “Lure?”
+
+“Yes,” Tallheart said at a normal volume. The echoes of his voice were immediately drowned out by a booming cry that turned into a continuing stream of protest. On and on, the Hababa screeched and clamored, like the enormous angry monkey that it was.
+
+“Nice work!” Ameliah yelled over the noise, summoning a Fireball above her palm and sending the Lunar Orb out over the edge. “Wait, did you actually know what sign I was using?”
+
+“Yes,” Tallheart replied, just as loudly. “I did.”
+
+Rain shook his head, his ears ringing from the continuing racket. “It still isn’t moving!” he yelled.
+
+“If it will not come to us, we will go to it,” Tallheart replied, beckoning to Rain to join them. “Come.”
+
+Rain nodded, tucking away the depth gauge. He moved up to the edge, then looked down. It was about fifty meters to the bottom, the same height that had almost killed him once before—had killed him, depending on your definition.
+
+He felt no fear.
+
+Ameliah sent her Lunar Orb down, and its light soon illuminated the Hababa, crumpled in a heap at the bottom of the shaft, still screaming at them. As the light washed over it, its anger seemed to double, the volume of its cries somehow rising another few notches. Rain couldn’t see its health from here, but it looked...not well.
+
+“Something’s wrong with it!” Ameliah shouted.
+
+Without warning, Tallheart jumped. Ameliah looked at Rain quickly, surprise on her face, then she jerked her head toward the edge before jumping off herself. Not wanting to be left behind, Rain followed without hesitation, activating Force Ward and drawing his mattock as he fell. By the time he landed, the echoes of the Hababa’s screams were already fading.
+
+“It was left here,” Tallheart said, lifting his fist from the bloody crater where the monster’s head had been. “The others abandoned it. Hmm. Or they were the ones to cripple it in the first place.”
+
+“You really think so?” Ameliah asked, Tallheart nodding in response. “I wonder what it did to piss them off.”
+
+Tallheart shook his head. “That is not it. I believe it was left here as bait for something below.” He rumbled deeply. “Or perhaps as an offering.”
+
+Rain felt a shiver run down his spine. The air was thick down here somehow. Cool, too, he realized. Thermal Regulation had reversed direction.
+
+“An offering for what?” Ameliah asked. “I’m not buying it. Stop trying to scare us. Rain, is there anything else down here?”
+
+“Just tunnels,” Rain said. That had been the first thing he’d checked after landing. “No monsters, at least...” he swallowed heavily, “not ones that I can sense.”
+
+“Did you use full power?” Ameliah asked.
+
+Rain nodded, looking around. “Of course. What’s wrong with the air? It feels...weird. Thick. Are we in a new biome?”
+
+“I can’t tell yet,” Ameliah said, shaking her head. “The ambient mana is neutral. I agree with you about the air, though. What does Detection say?”
+
+“It’s fine as far as I can tell,” Rain said with a helpless shrug, having just checked exactly that. “Nitrogen, oxygen...no carbon monoxide. Anyone got a canary?”
+
+“Come along,” Tallheart said, starting off down the continuing tunnel, stopping to look back at them when they didn’t immediately follow. “We are in a liminal space. It should not be much further.”
+
+Rain nodded, glancing once more at the broken Hababa. He didn’t feel the need to use Purify, even though it was a grisly scene. With Dozer strained out of his soul, that particular compulsion was gone. Dozer, be glad you’re still asleep. I’m not sure how much you’d like it down here. Rain shook his head, then hurried to follow Tallheart and Ameliah, seeing that they were both waiting for him.
+
+As they continued, the tunnel occasionally branched off, but Rain kept them from taking any wrong turns. It was a maze down here, it seemed, but so far, there’d been only one main passage. The other offshoots either ended in dead-ends or narrowed to impassability. Save for the sound of their footsteps, it was as silent as a crypt. The air seemed to grow thicker and thicker, too, dragging at them like they were wading through soup. Rain gradually became aware of pain from his hand, and he had to force himself to release his death grip on his mattock.
+
+Tallheart’s right. The unknown really is the worst. Where are all the monsters?
+
+Finally, Ameliah raised a hand, stopping them. “I’m sure now. There’s still a bit of a mix to the mana, but getting more Arcane the further we go.” Her voice sounded strange. Deeper than normal.
+
+“Hmm, good,” Tallheart said. “The Crysts will be useful.” His voice was deeper too, and for him, that was saying something. When he rumbled, the noise was even more like an earthquake than usual. “Do you sense anything ahead, Rain?”
+
+Rain shook his head. “Nothing new. I would have told you if there was.” Wow, I sound strange too. He cleared his throat. Focus. It’s just some Arcane bullshit. “The tunnel continues. No monsters or big chambers ahead. Let me check the Depth Gauge.” He slipped his mattock back through his belt, then fished the instrument out of his pouch. He flicked open the lid, then cursed. “Damn.”
+
+“What is it?” Ameliah asked, glancing back at him. “It didn’t break, did it?”
+
+“No,” Rain said, turning it toward her so she could see for herself. The needle was pressed hard against the stop at the end of the dial, right above the number twenty. “Looks like we’re on our own from here. I guess fixing it was a waste of time.”
+
+“Mmm,” Tallheart said, turning and walking past Rain back up the tunnel. “Come. It would be best not to linger. We now know what we will face. The next biome will be Arcane, and it is at a rank nearing the wall. We must prepare.”
+
+Rain nodded, turning to follow. A prickle ran across his neck, and he glanced over his shoulder at the darkness, then back down to the Depth Gauge, still clutched in his hand. His lungs felt heavy—like they were full of liquid instead of air.
+
+Wordlessly, he opened his interface.
+
+Arcane Ward it is.

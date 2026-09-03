@@ -442,3 +442,258 @@ He motioned for Rain to hand him one of the rings, so he removed the focus-boost
 
 “What?! It is going to break? Can you fix it?”
 
+“I could, but why? It would be better to make one that would last. This was made for a smith to practice, or to keep customers coming back.” The antlered man shook his head. “Humans,” he sighed.
+
+Rain slipped the ring back on and spun it around his finger, thinking.
+
+“So you could make a better one? What would you need?”
+
+“For a ring? Metal, of course. Gold would work, at a minimum. <Something> is wasted on a ring. It could be done, but there is no reason to waste so much.
+
+“<Something?>”
+
+“That ring is made of it, but it has not been <something> enough to hold the enchantment.”
+
+Oh, iron. Iron is wasted on a ring, he said. So different metals are good for different things?
+
+“How about copper?”
+
+I could get Jamus to trade in some of my Tel for coins, and then we could melt them down… Damn, how hot do you need to get metal before it melts?
+
+Tallheart snorted at this. He didn’t dignify the question with a response.
+
+“I can probably find metal. I have a skill. If I do, can you make something?”
+
+Tallheart’s eyes flashed at this. “A skill to find metal?” The sudden excitement in his voice shocked Rain. “Please try, even if all you can find is copper or <something>. I have been wandering this forest for two years and all I have found is in that pile.”
+
+Tallheart pointed to the small pile of metal scraps outside the door of the hut. “I want to make something again, even if it is trash.” There was a fire burning behind the man’s eyes as he looked back to Rain.
+
+“Two years? That is all you found? Why stay here? Why not find a mine or something?”
+
+“The Watch does not bother me here. Humans use this forest for wood, but little else. If I left, I would be hunted.”
+
+“Oh, sorry. Umm. Could we ask Jamus to bring us some metal?”
+
+“I have thought of that. It would not be enough. I do not want to ask it of him.”
+
+“He could have someone else bring it to you… Shit, I forgot. It might be hard to find a… good merchant. A good human merchant.”
+
+“Welcome to my life.”
+
+Rain tried not to smile. The familiar phrase from the man had struck him as funny due to how unexpected it was and the serious tone with which he had said it. He didn’t want his reaction to offend the man, so he schooled his face to stillness.
+
+“What should I look for? With my skill, I mean. What metal?”
+
+“Anything. Iron would be best. I will need an anvil, first. Your skill, how does it work?”
+
+“I can sense things in a… radius? Is that the word? Radius?”
+
+“Yes. How large?”
+
+“A few meters. Oh, sorry, you don’t know meters. Umm... maybe from here to the hut?”
+
+Tallheart’s face sunk at this.
+
+“Too small.”
+
+“It goes down too. I can feel things under the ground. It is a… a… Damn.”
+
+“A sphere?” Tallheart asked, placing the tips of his gauntleted fingers together to form the shape.
+
+“Yes, a sphere. Thank you.”
+
+“Then perhaps there is a chance. You will have to walk and use the skill frequently. Can you do that?”
+
+“I think so, if I only use it quickly. It takes a lot of mana.”
+
+“Is that an issue? I know how you mages can be with hoarding mana.”
+
+“It shouldn’t be. My regeneration is… insane.”
+
+“Oh?”
+
+“Yes, I am not a… normal... mage.”
+
+“Humph. I should have expected it. You are a very strange human.”
+
+“Thanks?”
+
+Tallheart got to his feet, throwing the core of his apple into the fire. “Give me an hour. I will make you a shovel.”
+
+“A shovel?”
+
+“If there is metal here, I have not found it. That means it is under the ground.”
+
+Rain watched as Tallheart walked over to the pile of metal scraps outside of the hut. He pawed through them, collecting a few of the larger pieces. He brought them back over to the fire and tossed them in. The largest piece was a bucket with the bottom rusted through. There were a few other recognizable items, such as a tin cup and what might have been a piece of a copper lantern.
+
+“Are you sure that the fire will be hot enough?” Rain asked.
+
+“It is not.”
+
+“Then how...”
+
+“Enough questions. You are worse than Jamus.” Tallheart made a shooing motion.
+
+Rain retreated to the other side of the fire to give the man space to work. He still needed to dry out and he was planning to watch, but he didn’t want to get in the way. It didn’t look like there was going to be much to see for a little while though. Tallheart was slowly feeding the fire with more wood as he waited for the metal to heat.
+
+Maybe he has some skill to make the fire hotter? I didn’t see anything like that in any of the craftsman trees, but it could be a higher tier.
+
+Suddenly, Rain realized that the reward for reaching rank ten in a skill might not be nothing after all. He pulled up his skills menu and opened the full list of items in the magical utility tree. He could only see the tier 0 skills he had already reviewed, along with the option to spend experience to reveal the next tier.
+
+Level ten means I probably meet the prerequisite for a tier 1 ability. For 100 experience, I’d be an idiot not to at least look.
+
+Rain spent the required experience and watched as a new set of skills was revealed.
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (+)
+
+Multiply base mana by 120%
+
+Tier 1
+
+Overcharge
+
+Delay cast of an immediate spell to charge it with mana
+
+Charge time reduced by mana manipulation
+
+Boost effect intensity by up to 120%
+
+Maximum mana charge 120%
+
+Requires 5 ranks in Intrinsic Focus
+
+Mana Manipulation (0/10) (+)
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 140.0 mp/s (fcs)
+
+Requires 5 ranks in Intrinsic Clarity
+
+Channel Mastery (0/10) (+)
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 90%
+
+Maximum skill intensity: 110%
+
+Skill mana cost modified by intensity adjustment
+
+Hidden Skill, Revealed by Meeting Requirement
+
+Requires 5 ranks in 2 channeled skills
+
+Requires 10 ranks in Intrinsic Clarity or Intrinsic Focus
+
+Tier 2
+
+Locked
+
+His eyes were immediately drawn to the glowing blue text near the bottom.
+
+Hidden? There are hidden skills too? What does it do? Allows intuitive control of channeled skills? Auras are channeled skills, right? They must be, if I meet the requirement. I guess there is a way to control them after all. Makes sense that Jamus wouldn’t know about it; he said he didn’t have any channeled skills. Yeah, I’m taking this. Oh, hang on, let me check one thing. I’m pretty sure I am right about this, but I want to make sure.
+
+“Tallheart?”
+
+“What?”
+
+“Sorry, I have one more question.”
+
+Tallheart gave a sigh and motioned for him to go ahead. “One question.”
+
+“Ok, I will make this quick. If I have two skills that affect the strength of something, do the numbers add, or multiply?”
+
+“Multiply, usually.”
+
+“Awesome, thanks.”
+
+Tallheart nodded, then stood. “Do not touch the fire,” he said, then headed off for the treeline. Rain put aside his curiosity about where the man was going and looked back to his menu. He put a point in channel mastery and applied the changes.
+
+This is exactly what I wanted. Well, one of the things I wanted, anyway. Amplify aura is 160%, aura focus is 120%, and now another 110% from channel mastery. Shit, I need paper.
+
+Opening his notebook, Rain worked through the multiplication. He had a bit of trouble. His grade-school skills had been atrophied by a lifetime of easy access to a calculator. Eventually, he came up with a factor of 2.1 for the combined effect of the skills. He smiled. It would only get better as each of the support skills leveled up. The mana cost would be similarly multiplied, but channel mastery would also let him reduce the intensity to save mana when he didn’t need full power.
+
+Already having winter active, he tried to activate channel mastery to boost the skill as he did with amplify aura. Nothing happened, however. Confused, Rain brought up his skills to re-read the description.
+
+Allows intuitive control… Humm, so can I just…
+
+Instead of trying to activate a modifier, Rain simply willed additional mana into the feeling of winter. To his delight, he could sense the flow of mana into the skill increase. It was now working like he thought it should have originally. The barrier that he felt in his mind when he used a skill now felt sort-of squishy. He could freely vary the strength of the aura, within the bounds of channel mastery.
+
+Increasing it to max, he pulled up his statistics menu to see that his regeneration had increased to 557 mp/hr, up from 540. The math checked out. Tallheart had been right; the skills multiplied.
+
+Nice! I need to practice this so it ranks up.
+
+Rain was interrupted from further experimentation by Tallheart’s return. The man was carrying a large hunk of granite, about the size of a mini-fridge. Rain’s eyes bulged as he dropped the rock next to the fire with a whump of impact.
+
+It is going to take me a while to get used to that.
+
+Tallheart inspected the rock, then adjusted it slightly so a mostly flat spot was on top. He then knelt next to the rock and placed his hammer on top. Rain stood to watch as Tallheart moved dangerously close to the fire. He reached straight into it with his gauntleted hands, heedless of the flames. Rain stopped himself from shouting in alarm. He moved to get a better angle so he could see what Tallheart was doing.
+
+The man had grabbed the metal bucket with both hands and pressed it flat. The fire wasn’t hot enough to make the metal glow, but Tallheart was folding it easily, like it was cardboard. He kept folding it on itself until he had a small twist of metal about the size of a fist. He squeezed this tightly in both hands, then brought it out of the fire and placed it on the rock. He hit it lightly with his hammer, flattening it down. He then returned it to the fire.
+
+He repeated this with the other metal pieces until they were all small lumps of different colors sitting amid the coals. The metal looked ragged and torn, not being anywhere near hot enough to properly weld itself together. Rain stayed silent.
+
+Tallheart reached into a pouch at his waist and retrieved two Tel. They looked tiny, held in his gauntleted fingers. He placed them on the rock, then retrieved the smallest of the lumps of metal. Rain thought it had been the tin cup, but he wasn’t sure. Tallheart pushed the Tel into the lump of metal with his fingers. Instead of shattering like Rain had expected, the crystals sank into the metal easily. The smith placed the lump of metal back on the rock and picked up his hammer.
+
+He pounded it flat, the strength of his blows ringing in the clearing. He must have been holding back considerably as the granite anvil didn’t immediately explode from the force. The metal started to weld to itself after he had folded and flattened it a few times. If nothing else, the Tel appeared to have made the metal easier to work.
+
+He retrieved the next lump of metal, copper this time, and added it to the first. As he hammered and folded, the two metals mixed in a way that didn’t seem right to Rain. The color changed from gray to yellowish as the copper mixed with the tin.
+
+Bronze? Did he just make bronze?
+
+Tallheart didn’t stop there. He added in the remaining small pieces of metal but left the large hunk of iron in the fire. He added in two more Tel as well, pressing them into the metal and continuing to knead it like dough. The metal was starting to turn red from heat. Rain was sure that it was more from the abuse Tallheart was laying on it than it was from the fire.
+
+Finally, Tallheart retrieved the lump of iron and added it to the mix. The colors of the various metals melded together under the assault of his hammer, blending into a uniform brownish gray. Once they were completely mixed, Tallheart started pounding the lump of metal out into a flat shape on the stone. The outline of a shovel blade quickly formed before Rain’s eyes. The metal wasn’t behaving like he expected at all. The way Tallheart shaped it seemed far, far too easy. The man had even made a socket for the handle to attach to the shovel blade by rolling up a section of the metal and pinching it back together with his fingers.
+
+Metal doesn’t work like that!
+
+Rain’s indignation didn’t change the reality of what he was seeing. Tallheart had somehow melded together all of the various metals into an alloy that made no physical sense. Rain was no metallurgist, but he knew you couldn’t just weld bronze to steel. The Tel must have changed something about the process, that or Tallheart was doing some magical bullshit with a skill.
+
+The metal of the shovel blade was still glowing red hot, but Tallheart tossed it back into the fire before standing and stretching his legs. He replaced the hammer on the loop at his belt and turned to Rain. He sized him up, then moved towards the pile of spare branches to find a handle of a suitable length.
+
+Rain realized that his mouth was open and closed it quickly.
+
+So that is what smithing looks like when you add magic to the mix?
+
+He looked at the granite boulder. Its surface was shattered from the repeated impacts of Tallheart’s hammer.
+
+I can’t even imagine what he could do with proper tools. That was crazy.
+
+Tallheart returned in a minute with a relatively straight branch. He reached into the fire to retrieve the shovel blade. Counterintuitively, it looked like it had cooled during its stay in the fire. He lined up the end of the branch and pressed it into the socket he had forged in the shovel blade. The wet wood smoked and hissed as Tallheart squeezed the socket tight, locking it in place.
+
+He handed the completed shovel to Rain, the wood still smoking slightly where the head had been attached to the handle. Rain took it carefully, making sure to keep his hands far away from the hot metal.
+
+“Don’t you have to… put it in water or something? To cool the metal fast?”
+
+“No.”
+
+“I am impressed. This looks really good.”
+
+“It is not.”
+
+“You should have seen the spear I made.”
+
+“We work with what we have.”
+
+“Don’t worry, I’ll find you some metal. Do you want to come with me?”
+
+“I will stay here. There are a few small pieces of metal left. It was good to make something again. I will continue.”
+
+“Tallheart, you’re smiling.”
+
+“I suppose I am.” The man laughed. “Go on. You have digging to do.”
+
+Tallheart’s happiness was infectious and Rain was grinning as he walked into the trees despite the cold and wet start to his day.

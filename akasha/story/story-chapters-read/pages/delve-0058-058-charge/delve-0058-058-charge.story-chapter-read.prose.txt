@@ -548,3 +548,104 @@ Gus shook his head. “No. The main branch handles that. You won’t know until 
 
 “Pull?”
 
+“The main branch pulls the contents of the log ledgers from all the guild branches across Earth. Then, they push the contents of the roll ledgers back to us, including any updates to the scores and rankings from the previous week. We just need to record who does what, and they take care of the accounting. Nice and easy, unless your boss doesn’t trust the clerks in the main branch, that is.” Gus sighed.
+
+“How’s that work? I mean, physically?”
+
+“Magic,” Gus said curtly.
+
+Rain smiled. Of course it’s magic. I should stop bothering Gus and get on with it. Time’s wasting. “Put me down for the slime quest then.”
+
+“You really sure about that? Did I mention it’s level 7? Depths if I know how something that strong got down there. That armor aside, you’re still a bronzeplate. Going off alone is a good way to get killed.”
+
+“I think I’ll be okay. I’ve killed stuff of that level before,” Rain said, thinking of the Kin. Those were level 6, and I took care of them…I wouldn’t say easily. A single burst of refrigerate was all it took, though. I’m much stronger now. It should be fine. “Can I take more than one quest at a time?”
+
+“Sure,” Gus said. “Nothing stopping you. If you start piling them up, though, you’ll lose points. You’re supposed to share with your fellow adventurers, not just sit on a bunch of uncompleted quests. If you’re not going to finish something, bring it back for relisting. Generally, you’ve got a week before I assume you’re dead and relist it anyway.”
+
+“And losing points is bad? What does it mean that I’m negative?”
+
+“It means you’re on Halgrave’s shit list. That isn’t enough of a downside for you?”
+
+“Well, that’s bad, I’ll grant you, but I was thinking of more specific consequences. Like a fine or something.”
+
+“Nothing specific. It’s just a sword measuring contest. Not many people care about it around here. Still, you’ll probably want to do something about it if you ever plan on heading to a real city. Some of the other branches set point minimums for accepting quests. Worrying about it’s not worth the headache, in my opinion.”
+
+He sounds bitter. I bet he used to care about his rank quite a bit. Probably a touchy subject now that he’s just manning the desk. I wonder why he gave up adventuring? It doesn’t look like he’s ever taken an arrow to the knee…
+
+“Thanks for explaining, Gus. Can you tell me what this quest is? The posting is really vague. It’s just numbers and this symbol. What does 2000x6 mean?”
+
+Gus glanced at the posting. “Oh. That. That’s a charge request. The white flame means mana. 2,000 is the adjusted quantity, and the 6 is the number of items to be charged. I take it you’ve noticed it’s as cold as shit in here?”
+
+Rain nodded. “I was wondering about that.”
+
+“This quest is to charge up the damn heater plates, but nobody’s taking it because the reward is pathetic. No sane person would blow that much mana for a paltry 10 Tel, but that’s all the guild can afford. It’s 2,000 mana each, not total.”
+
+Rain grinned under his helmet. “I think I can help you out there. Sign me up. I’m guessing they’re capacitive?”
+
+“Yeah…” Gus said. He looked at Rain. “You’re sure you’re up to that? You can do math, right?”
+
+Rain laughed. “Yes, I can do math. It won’t be a problem. Trust me.”
+
+Gus shrugged. “Well, if you do manage to do it in less than a week, you’ll earn some points with me if nothing else. I think my lips are turning blue.” He pulled out another ledger, noting down Rain’s badge number and the two quests, marking them as accepted. Huh. That one’s written in common. Must be the log ledger. The roll ledger is the other one. Maybe it’s in some sort of cipher?
+
+Rain shrugged. “Well, might as well get right to it. I see three plates out here. Where are the others?”
+
+“There’s another in the training room, one in the bunkroom, and a spare in storage. The rest of the guild does well enough as long as those are all running.”
+
+“Right. Well, I’m cold too. I’ll start with these three.” Rain walked over to the plates by the wall and studied them.
+
+I could just warm the whole place up with Immolate, but that strikes me as a capital ‘B’ Bad Idea. Even if I didn’t set the guild on fire, it wouldn’t actually get me anything long-term. It’s not worth the risk.
+
+He laid his hand on one of the dormant plates and pushed a puff of mana into it, focusing as he had to identify the items in his inventory. Now that he knew the knack of it, that part was easy. A new window appeared as the mana returned to him.
+
+Heater Plate
+
+Durability: 10/10
+
+Material: Heat Copper
+
+Unknown
+
+Mana Capacitance Rune
+
+0/1,000 mp
+
+Import Efficiency: 50%
+
+Export Efficiency: 0%
+
+Heat Rune [inactive]
+
+Unknown
+
+Activation Rune [inactive]
+
+Unknown
+
+Huh. Heat Copper? Lame name, but I suppose it makes sense. Why can’t I see its properties? And why can’t I see what the heat rune does? Also, the efficiency of the capacitance rune is waaaaaay better than what Tallheart gave me on my Armor. Why? Why? Why? Bah. Less think, more charge.
+
+Rain focused, pushing his mana into the enchantment. He watched as the charge listed on the panel quickly increased to full. The plate didn’t activate, though. He looked over to Gus. “It’s full, how do I turn it on?”
+
+“Really?” Gus said. “Hit the rune that looks like a little star.”
+
+Rain looked at the plate, spotting the rune at the bottom right. He pressed it with a finger, and the runes scrawled across the surface flared to life. The blast of heat given off by the plate was immediate and intense, causing Rain to step back. “Woah.”
+
+“Wow,” Gus said. “You’ve changed even more than I thought. You sure you’re okay after using all that mana? How long is it going to take you to recover from that?”
+
+Rain smirked. He walked to the next plate and charged it up in the same way, activating it before moving on to the third. This one was already on, glowing weakly, but still quite hot. He switched it off and sat on one of the benches to wait while it cooled. He’d need to refill his mana anyway. He glanced over at Gus. “I need a minute for this one. Hold that thought. I’m gonna…meditate for a bit. Don’t let anyone bother me while I’m sitting here.”
+
+Haha, nice face, Gus. Close your mouth before you catch any flies. Not that there are any flies in here. Silly expression.
+
+Rain paused. He’d already put the safety on all of his offensive skills, but he hadn’t seen a need to bother adjusting Winter. Now, however, he was second-guessing that. Just because Gus hadn’t noticed the aura, it didn’t mean casually boosting everyone’s mana regen by thousands of percent was a smart move. He’d heard about how the Empire treated its aura users, after all. He had no interest in becoming a slave to some noble who was walking past. The powerful aura was probably leaking into the street through the gaps in the shutters. He pulled up the settings for Winter and set IFF to reduce the effect by 90% for everyone but himself and his friends. ‘Friends’ wasn’t a category that the system allowed, unfortunately, so he had to list them all by name. There. That’s a good compromise. I can still help strangers at the guild, but I won’t draw too much attention to myself.
+
+…It’s still a little suspicious. I’d probably be smarter not to use it at all…
+
+No. I don’t want to be like that asshole who wouldn’t heal Val. What was his name? Wallace? No, the mana must flow. Can I get it to cap differently? If I make it always stay at a 100% boost, it will just look like I’ve got the base skill maxed.
+
+He concentrated on his menu. He felt the familiar resistance in his mind that signaled the change would be possible. It didn’t feel like the system was going to fight him too strongly this time, either. I haven’t unlocked any skill tiers today, so this shouldn’t hurt too badly. I’m still not sure those two types of soulstrain are even in the same category. There’s definitely some overlap between the flavors.
+
+He pushed until an option appeared on the menu to limit the output to a flat level, rather than a fraction of the skill’s output. It took him a few minutes of effort, and he was feeling a bit woozy by the end of it. It had been harder than he’d expected. I’m starting to get the feeling that it will let me change whatever I want, as long as it is a reasonable way for the interface to work. IFF is a skill that lets me limit power output to specific people, so however I want to visualize that is fine. It just needs a little bit of persuasion.
+
+Right, so now, no matter what modifiers I use on Winter, the mana boost will only go over 100% for the specific people on this list. That works for me. If I need to juice someone up, I’ll just add them to the list. Oh, hey, this is going to be a really convenient way to limit things like Velocity too, even on myself. Maybe I don’t need that calculator after all. Actually, that’s basically what this is. I just convinced the system to calculate the setting for IFF based on the power of the skill. It’s just solving for x automatically when I change the modifiers. Nice.
+
+Satisfied with the settings, he activated Aura Focus. Every so often, he’d stop Winter and fire off a quick pulse of Detection to make sure nobody was sneaking up on him. He didn’t exactly trust Gus to keep him safe. Rain smiled as he waited, feeling the torrent of mana pouring into his body from Winter with the sense given to him by Mana Manipulation. Easy money.

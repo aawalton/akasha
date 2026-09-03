@@ -100,3 +100,96 @@ When he was ready, he got back to his feet. He took a running stance, then used 
 
 Over the sound of his own heartbeat, he heard a rushing sound echoing down the tunnel. It quickly grew to a roar as a torrent of water gushed out of the tunnel, carrying the remains of the barrier with it. Purify hadn’t been able to dissolve it entirely, but it had weakened it enough for it to succumb to the pressure of the water. Rain gagged. The smell was awful. He activated Purify again to protect his sensitive nose from the onslaught. I sure hope this perception thing doesn’t end up being a curse.
 
+The water slowed to a trickle after a few minutes. Rain cautiously stepped around the corner and moved back up the tunnel. He kept Purify going, destroying the remaining filth as he walked, leaving only clean, wet stone. He stopped as he reached the head of the tunnel. The barrier was back, but it was different. This time, it was almost entirely slime, very little debris. The big slime must have blocked it again. It must have some slime generation skill or something. Well, I could dissolve it right here and now, but… He switched to Detection. Yup, there’s still water on the other side. The level’s come down, though. Back down the tunnel I go.
+
+Rain had to repeat his trick three more times before he was satisfied that the chamber on the other side of the barrier had been drained. The last time, only the barest trickle of water had come down the tunnel after his Purification Nova. He was dead tired from sprinting down the tunnel in his armor, so he walked back up slowly, bringing a torch he’d stolen from the wall with him this time. I need to practice with Velocity more. Moving in the armor while I’m boosted is pretty tough.
+
+He saw that the barrier had been rebuilt once more as he reached the end of the tunnel. Low on mana again, he stopped to regenerate. He forced himself to ignore the smell coming from the barrier, waiting as Winter did its work. This really reeks. I seem to be able to tolerate it, though. Come to think of it, light doesn’t seem to bother me, even though I can see a lot better in the dark now. Maybe it isn’t as simple as just turning up the gain on everything. More research is needed. Later, though. I’ve been down here long enough.
+
+He activated his overlay, restoring his health, mana, and stamina bars. He’d taken to leaving them off most of the time, but since he was going to be in combat, he wanted them there. Below his health was a new bar showing him the durability of his armor in gray. It was still mostly empty of course. Rain had convinced the system to add it yesterday, so its presence wasn’t a surprise. The bar would also show him the armor’s mana saturation, filling with a transparent bluish highlight as the metal absorbed magical attacks.
+
+Finally ready, he dropped Winter and switched back to Purify. Here we go. He let the aura work on the barrier, not rushing it. The slime slowly dissolved under the onslaught of the white light. Rain stepped back as the barrier lost cohesion, not wanting to get any of it on his armor. He could just clean it away, of course, but for all he knew, the stuff would etch the metal.
+
+He raised the torch. By its light, he could see that the room behind the barrier was fairly large. The floor was damp, but there was no obvious source for the water that had previously filled it. There were several other plugs of slime blocking off archways leading in other directions. There was no sign of the monster. Rain shrugged. I bet it’s on the ceiling. I’m not falling for that again.
+
+He wound up and tossed the torch into the center of the room where it fell to the stones with a clatter and a hiss. The orange flames lit the room but didn’t reach quite to the ceiling. Still, nothing happened. Ok, slime. Hiding time is over. He switched to Detection and scanned the room at a low intensity. The slime was lurking on the ceiling directly over his tunnel, waiting to drop on him the moment he set foot into the room. He estimated its distance at around 15 meters above him. There were no other entities within 18 meters. You’re in for a surprise, Mr. Slime. Auras go around corners. I’m not even going to have to leave the tunnel.
+
+Rain switched to Immolate. The skill was on whitelist mode, with only “monsters” listed on the display. The slime was classified as a monster, as confirmed by Detection, so he was good to go. “Let’s get cooking.” He grinned, activating the skill at 25% power. Good thing there was nobody around to hear that line. He pulled open the description for the skill as the wave of heat blasted out from the entrance to the tunnel, expanding to fill the room.
+
+Immolate (10/10)
+
+33-38 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 18 meters
+
+Cost: 12.5 mp/s
+
+There was a softer-than-expected noise as the slime detached from the wall above the tunnel. Counter to Rain’s expectations, it didn’t fall straight down. It launched itself out into the chamber, probably to get away from the sudden and unexpected heat. Rain kept the skill up as the slime flew away. He’d need to drop it eventually, but that was more out of a concern of parboiling himself in his armor than it was from running out of mana.
+
+The slime landed near the torch with the sound of a billion blown noses. Rain finally got a good look at it. It was the same shade of greenish-brown as the other sewer slimes, but much, much larger. It was easily the size of a house. The light of the torch glinted off of a tiny metal crown perched atop its body. Rain’s interface showed him the slime’s name, level, and health, the last appearing as a red bar.
+
+Level 7 Mucus King? Really? Who names these things? And why does it have a crown?
+
+The slime gathered itself up, then started pulsating angrily. It didn’t seem to want to come any closer, staying at the edge of the Immolation aura. Rain had a choice. He could either extend the aura and risk collateral damage or move out into the chamber. Fuck me, I’m going in. 18 meters is bad enough. I can’t risk extending it any further. I don’t want to send fire shooting out of all the storm drains in the city. He gritted his teeth. Here I go.
+
+He started walking toward the Mucus King, his footsteps loud on the rapidly drying stone floor. The slime squelched its way backward but quickly ran out of room. Rain’s aura covered the entire chamber, filling it with the foul odor of cooking sewage. He gagged as he breathed in the putrid steam that was starting to rise from the floor but didn’t drop the aura.
+
+The slime quivered in outrage as it reached the wall, the tiny crown wobbling atop its gelatinous mass. Rain watched the slime’s health bar carefully. It’s starting to drop, but it’s getting pretty hot in here. Should I switch to Refrigerate? No, I don’t want to put out the torch. Plus, those slimes in the forest were flammable. I wonder if this one—oh. There it goes.
+
+The Mucus King burst into flame, its surface lighting up all at once and throwing off clouds of putrid, greenish smoke as the greasy flames spread. Rain’s eyes widened as the flaming ball of snot launched itself at him, flying through the air with terrifying speed. He threw himself to the side, desperately trying to get out from under the disgusting fireball. The slime landed with a horrible splatter that sent flaming droplets of filth flying in all directions. Rain felt a few of the blobs splatter on the back of his armor as he ran. Oh fuck! Should have switched to Refrigerate after all!
+
+He glanced over his shoulder. The flaming slime was right behind him, squelching along the floor as it chased him around the chamber. Shit. I think I can outrun it for a while, but its health bar isn’t dropping any faster, despite being on fire. How much health does this fucking thing have?
+
+Rain glanced at his mana bar. He’d been holding Immolate for at least a minute now. His mana was down by about a fifth, but the slime had lost less health than that. Bullshit that’s a normal amount of health for a level 7 monster. It must have damage reduction or something. Let’s see how you like 50% power!
+
+Immolate (10/10)
+
+66-76 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 18 meters
+
+Cost: 25 mp/s
+
+The display hovering to his right updated as Rain kept running. His armor was glowing with a reddish light as the heat rolled off him, the mana interacting with the metal. He coughed as the smoke filling the room grew thicker, the air growing heavy and unbearably hot. His lungs were burning as he dove for the tunnel, having made a full circuit of the room. He dropped Immolate as he reached it, switching to Purify to clear the air. He kept running as the slime slammed itself into the mouth of the tunnel, squeezing itself in after him.
+
+Rain glanced back at it. Its health was down to about half now, and it was still on fire. The putrid smoke fought with the light of Purify as the slime oozed down the tunnel toward him. Rain glanced at his own mana. It was also at about half. The increased damage of the skill had clearly been more effective in overcoming the slime’s defense. He checked his own health. It was down a few points, confirmed by the fact his lungs were burning and his armor felt like an oven wrapped around him.
+
+Okay, fuck this. Switching to Refrigerate. Let’s see how you deal with cold. 100% power!
+
+Refrigerate (10/10)
+
+132-151 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 18 meters
+
+Cost: 50 mp/s
+
+The floating skill card switched immediately to Refrigerate, the system automatically responding to Rain’s desire. The whitish light of Purify was blasted away by the sudden wave of cold. His armor shone with a furious blue light as he slowed to a stop, daring the slime to get closer. The flames guttered and died as the temperature in the hallway plummeted. The greasy smoke froze and started falling to the ground like snow. Ice crystallized across the surface of the slime as it ground to a halt, stuck in the tunnel. He watched its health drop rapidly, keeping an eye on his own mana. The slime’s health was falling faster. Got you.
+
+The slime died, frozen solid. The system announced its death with the familiar chime of a kill notification. Rain collapsed to his knees in relief. He only had a few hundred mana left and he was starting to lose feeling in his extremities. The cold in the tunnel was bitter, far, far worse than the coldest winter. He quickly used the last of his mana on Immolate, bringing the temperature in the tunnel back up to bearable, if arctic, levels.
+
+What the fuck was that? No way that thing was only level 7. Something is seriously wrong here. The Kin weren’t nearly that tough, and they were the same damn level. Holy shitballs it’s cold!
+
+Rain was shivering violently as he drew himself up to sit against the wall of the tunnel. He glanced at his health. He’d lost some more, bringing him down to about 190 remaining. His skin and lungs felt raw, burned first by the heat and steam, then by the acrid smoke, and lastly by the bitter cold. Damn it. I didn’t need to push it that hard. If I’d taken my time, I wouldn’t have hurt myself so much. I could have retreated to regenerate instead of trying to do it all at once. There’s no way it could regenerate health faster than I can regenerate mana.
+
+Cold as he was, he activated Winter with Aura Focus. He needed mana and he needed it now. The feeling of the chill deepened, but he knew it was just in his head. He canceled the skill after a few seconds, using Immolate to further warm the air. He repeated this a few times until the temperature in the tunnel was bearable and the slimesicle next to him was starting to melt. The smell was atrocious, but he didn’t even care anymore. After breathing the horrible smoke, this was practically pleasant.
+
+I need some better resistances if I’m going to do something like this again. The armor does jack shit against the blowback. It’s not mana, it’s just the temperature of the air. That tears it. I’m taking the darkness aura next. Too much dark never hurt anyone. Fuck, my lungs.
+
+Rain coughed, then clamped his teeth together. He focused on his breathing, trying to keep it calm and steady, using Purify periodically to clear the air as the slime melted. He felt better after a while; his lungs were inflamed, but no longer screaming at him. The remains of the frozen Mucus King eventually succumbed to Purify, leaving behind 6 Tel, the crown, and a shiny greenish gem that Rain assumed was some type of Cryst. The crown brightened Rain’s spirits considerably. It was very heavy and looked like it was made of gold. Unfortunately, it wasn’t any bigger than a normal human-sized crown, despite the fact that the Mucus King had been the size of a house.
+
+His excitement was dampened considerably when he used Detection to search for gold. The crown only gave off a faint reading. It was far from pure. Further checking revealed that it had a much stronger response for Lead. Damn it, it’s only plated, not solid. Still, it’s probably worth something. I’ll see if Tallheart can separate it out. A golden strength ring would be wonderful.
+
+Rain painfully got to his feet and sighed. Crap. I have to walk back now, don’t I? Before he left, he checked the room that the slime had been living in for further treasures. It was filled with sludge, but not much else. He cleared it all away with Purify, figuring that the room served some purpose. Leaving the other passages blocked was probably a bad idea. Even if there was no water flowing into the chamber now, that didn't mean it was always like that.
+
+He trudged down the tunnel to retrieve his pack, tucking the crown inside. He replaced the torch on the wall from where he had stolen it. It had somehow managed to stay lit through all of the excitement. Whatever magic kept the evertorches burning, it seemed to be pretty reliable.
+
+The walk back was excruciating. His muscles were badly strained by all the running that he’d been doing. By the time he made it out of the sewer, it was dark and the snow was still falling heavily. Rain’s skin felt raw within his armor as he trudged through the city, heading for the gate. Eventually, he stopped and dug his blanket out from his pack, wrapping it around himself as a makeshift cloak. People were still out and about, despite the storm. He felt them staring at him as he walked, but he didn’t care.
+
+As hurt as he was, he knew he could make it to Tallheart’s clearing without putting himself in any serious danger. He wanted Ameliah to heal him, not that asshole at the guild. It was the principle of the thing. Charging for healing wasn’t right, even if he could now afford it. He continually cursed himself for being stubborn as he trudged along, but he refused to give in. I’m level 18, damn it. How the fuck did that go so wrong? Level 7 my ass.
