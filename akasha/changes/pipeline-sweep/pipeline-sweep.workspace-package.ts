@@ -6,7 +6,20 @@ export const pipelineSweep = {
   slug: "pipeline-sweep",
   definition: "what carries every unfinished pipeline, workflow and step to its next status",
   manifest: "json",
-  partSlugs: ["module/pipeline-page-statuses", "module/pipeline-row-entities"],
+  partSlugs: [
+    "module/dispatch-guards",
+    "module/pipeline-deciding",
+    "module/pipeline-page-statuses",
+    "module/pipeline-row-entities",
+    "module/retry-deciding",
+    "module/retry-running",
+    "module/step-deciding",
+    "module/sweep-cluster-reading",
+    "module/sweep-effects",
+    "module/sweep-page-reading",
+    "module/sweep-tick",
+    "module/workflow-deciding",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -17,9 +30,8 @@ export const pipelineSweep = {
       statement: "A page row that states no seq is passed over rather than read as a pipeline.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "The deciding, the cluster reading and the writing this package is for are still in tools/lib.",
+      invariantKind: "departure",
+      statement: "A retry puts steps back to pending through the same writer the sweep uses.",
     },
   ],
 } as const satisfies WorkspacePackage

@@ -1,13 +1,20 @@
 import { CeilingExceeded, describeErr, withCeiling } from "@akasha/ci-containers/ci-reaper-ceiling"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Step } from "@akasha/pipeline-sweep/pipeline-row-entities"
-import { type ContainerReading, readCiContainers } from "./cluster.ts"
-import { decidePipeline } from "./decide-pipeline.ts"
-import { decideStep } from "./decide-step.ts"
-import { decideWorkflow } from "./decide-workflow.ts"
-import { stepsByTitle } from "./dispatch-guards.ts"
-import { applyEffect, describe, type Effect } from "./effects.ts"
-import { definitionReader, kinOf, readSnapshot } from "./pages.ts"
+import { stepsByTitle } from "../dispatch-guards/dispatch-guards.module.code.ts"
+import { decidePipeline } from "../pipeline-deciding/pipeline-deciding.module.code.ts"
+import { decideStep } from "../step-deciding/step-deciding.module.code.ts"
+import {
+  type ContainerReading,
+  readCiContainers,
+} from "../sweep-cluster-reading/sweep-cluster-reading.module.code.ts"
+import { applyEffect, describe, type Effect } from "../sweep-effects/sweep-effects.module.code.ts"
+import {
+  definitionReader,
+  kinOf,
+  readSnapshot,
+} from "../sweep-page-reading/sweep-page-reading.module.code.ts"
+import { decideWorkflow } from "../workflow-deciding/workflow-deciding.module.code.ts"
 
 export const LOG = "sweep-pipeline-pages:"
 

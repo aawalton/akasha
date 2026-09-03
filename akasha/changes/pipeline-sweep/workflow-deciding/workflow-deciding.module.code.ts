@@ -18,7 +18,7 @@ import {
   WORKFLOW_TERMINAL,
 } from "@akasha/pipeline-sweep/pipeline-page-statuses"
 import type { Pipeline, Step, Workflow } from "@akasha/pipeline-sweep/pipeline-row-entities"
-import { type Effect, transition } from "./effects.ts"
+import { type Effect, transition } from "../sweep-effects/sweep-effects.module.code.ts"
 
 export const DEPLOYED_COMMIT_MATCH = "deployed-commit-match"
 

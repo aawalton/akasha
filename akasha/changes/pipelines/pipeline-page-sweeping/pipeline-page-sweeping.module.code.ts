@@ -5,7 +5,7 @@ import {
   runBoundedSweepTick,
   TICK_CEILING_MS,
   TICK_MS,
-} from "@tools/lib/sweep-pipeline-pages/tick"
+} from "@akasha/pipeline-sweep/sweep-tick"
 import {
   sleptUntilStopped,
   stopsOnSignal,

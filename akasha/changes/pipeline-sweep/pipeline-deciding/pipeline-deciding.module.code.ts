@@ -13,7 +13,7 @@ import {
   WORKFLOW_TERMINAL,
 } from "@akasha/pipeline-sweep/pipeline-page-statuses"
 import type { Pipeline, Workflow } from "@akasha/pipeline-sweep/pipeline-row-entities"
-import { type Effect, transition } from "./effects.ts"
+import { type Effect, transition } from "../sweep-effects/sweep-effects.module.code.ts"
 
 function heldBehindOnMain(pipeline: Pipeline, sameBranch: readonly Pipeline[]): boolean {
   if (pipeline.branch !== MAIN_BRANCH) return false

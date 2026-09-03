@@ -507,7 +507,11 @@
     "akasha/changes/pipeline-sweep": {
       "name": "@akasha/pipeline-sweep",
       "dependencies": {
+        "@akasha/ci-containers": "workspace:*",
+        "@akasha/file-system": "workspace:*",
+        "@akasha/markdown-pages": "workspace:*",
         "@akasha/pages-system": "workspace:*",
+        "@tools/lib": "workspace:*",
       },
     },
     "akasha/changes/test-fanout": {
@@ -1008,6 +1012,7 @@
         "@akasha/git": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-system": "workspace:*",
+        "@akasha/pipeline-sweep": "workspace:*",
         "@akasha/service-system": "workspace:*",
         "@akasha/test-fanout": "workspace:*",
         "@akasha/workflow-language": "workspace:*",

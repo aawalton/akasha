@@ -12,7 +12,7 @@ import {
   type Workflow,
   workflowIn,
 } from "@akasha/pipeline-sweep/pipeline-row-entities"
-import { load } from "../page-query.ts"
+import { load } from "@tools/lib/page-query"
 
 export interface Snapshot {
   readonly pipelines: readonly Pipeline[]

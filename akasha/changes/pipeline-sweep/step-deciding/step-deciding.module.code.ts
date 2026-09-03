@@ -14,15 +14,15 @@ import {
   STEP_TERMINAL,
 } from "@akasha/pipeline-sweep/pipeline-page-statuses"
 import type { Step, Workflow } from "@akasha/pipeline-sweep/pipeline-row-entities"
-import type { ContainerReading } from "./cluster.ts"
 import {
   allTerminal,
   blockerOf,
   dependenciesOf,
   whenConditionMet,
   workflowIsHealthy,
-} from "./dispatch-guards.ts"
-import { type Effect, transition } from "./effects.ts"
+} from "../dispatch-guards/dispatch-guards.module.code.ts"
+import type { ContainerReading } from "../sweep-cluster-reading/sweep-cluster-reading.module.code.ts"
+import { type Effect, transition } from "../sweep-effects/sweep-effects.module.code.ts"
 
 export const LAUNCH_TIMEOUT_MS = 900_000
 

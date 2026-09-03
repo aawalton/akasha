@@ -3,10 +3,24 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./dispatch-guards": "./dispatch-guards/dispatch-guards.module.code.ts",
+    "./pipeline-deciding": "./pipeline-deciding/pipeline-deciding.module.code.ts",
     "./pipeline-page-statuses": "./pipeline-page-statuses/pipeline-page-statuses.module.code.ts",
-    "./pipeline-row-entities": "./pipeline-row-entities/pipeline-row-entities.module.code.ts"
+    "./pipeline-row-entities": "./pipeline-row-entities/pipeline-row-entities.module.code.ts",
+    "./retry-deciding": "./retry-deciding/retry-deciding.module.code.ts",
+    "./retry-running": "./retry-running/retry-running.module.code.ts",
+    "./step-deciding": "./step-deciding/step-deciding.module.code.ts",
+    "./sweep-cluster-reading": "./sweep-cluster-reading/sweep-cluster-reading.module.code.ts",
+    "./sweep-effects": "./sweep-effects/sweep-effects.module.code.ts",
+    "./sweep-page-reading": "./sweep-page-reading/sweep-page-reading.module.code.ts",
+    "./sweep-tick": "./sweep-tick/sweep-tick.module.code.ts",
+    "./workflow-deciding": "./workflow-deciding/workflow-deciding.module.code.ts"
   },
   "dependencies": {
-    "@akasha/pages-system": "workspace:*"
+    "@akasha/ci-containers": "workspace:*",
+    "@akasha/file-system": "workspace:*",
+    "@akasha/markdown-pages": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@tools/lib": "workspace:*"
   }
 }
