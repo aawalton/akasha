@@ -1,7 +1,6 @@
-
 import { spawnSync } from "node:child_process"
 import { writeSync } from "node:fs"
-import type { LogSink } from "./supervisor-console.ts"
+import type { LogSink } from "@akasha/seat-system/supervisor-console"
 
 const OSC_BACKGROUND_RESET = "\x1b]111\x07"
 
@@ -28,16 +27,14 @@ export function recordTermiosState(tag: string, getSink: () => LogSink): undefin
   }
   try {
     getSink()("TERMIOS", `at=${ts} tag=${tag} isatty=${isatty} stty=${stty}`)
-  } catch {
-  }
+  } catch {}
 }
 
 export function applySttySane(): undefined {
   if (process.stdin.isTTY !== true) return
   try {
     spawnSync("stty", ["sane", "-F", "/dev/tty"], { stdio: "ignore" })
-  } catch {
-  }
+  } catch {}
 }
 
 let installed = false
@@ -54,20 +51,17 @@ export function installSupervisorTerminalGuard(opts: {
 
   try {
     writeSync(1, OSC_BACKGROUND_RESET)
-  } catch {
-  }
+  } catch {}
 
   process.on("exit", () => {
     recordTermiosState("exit-handler-entry", opts.getSink)
     try {
       writeSync(1, TERMINAL_MODE_RESET)
-    } catch {
-    }
+    } catch {}
     applySttySane()
     try {
       writeSync(1, OSC_BACKGROUND_RESET)
-    } catch {
-    }
+    } catch {}
     recordTermiosState("exit-handler-post-restore", opts.getSink)
   })
 

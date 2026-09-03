@@ -1,7 +1,6 @@
-
-import { configDirForAccount, LOG } from "./supervisor-config.ts"
-import { execvpe, isProcessAlive } from "./supervisor-exec.ts"
-import { buildHandoffEnv } from "./supervisor-handoff-env.ts"
+import { configDirForAccount, LOG } from "@akasha/seat-system/supervisor-config"
+import { execvpe, isProcessAlive } from "@akasha/seat-system/supervisor-exec"
+import { buildHandoffEnv } from "@akasha/seat-system/supervisor-handoff-env"
 import { getProxyOwnerAgentIdForSelfHeal } from "./supervisor-self-heal-state"
 import { getInheritedClaude, processes } from "./supervisor-state.ts"
 

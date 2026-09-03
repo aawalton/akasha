@@ -1,31 +1,27 @@
-
+import {
+  parseClaimedRedelivery,
+  parseLimitResume,
+  parseRcDegraded,
+  parseRemoteControl,
+  parseRestartNotice,
+  parseUncertainWait,
+  parseWaitResume,
+} from "@akasha/seat-system/supervisor-decide-payload"
+import { RULE_DECISIONS } from "@akasha/seat-system/supervisor-decide-rules"
 import { notices } from "./compose-notices.ts"
+import { fail } from "./lib/command.ts"
 import { decideClaimedRedelivery } from "./lib/decide-claimed-redelivery.ts"
 import {
   decideLimitResume,
   LIMIT_RESUME_FLOOR_MS,
   type LimitResumeDecision,
 } from "./lib/decide-limit-resume.ts"
-import {
-  decideWaitResume,
-  type WaitResumeDecision,
-} from "./lib/decide-wait-resume.ts"
 import { decideRcDegradedBatch } from "./lib/decide-rc-degraded.ts"
 import { decideRemoteControlBatch } from "./lib/decide-remote-control.ts"
 import { planRestartNotice, type ResumeNotices } from "./lib/decide-restart-notice.ts"
 import { decideUncertainBlockBatch } from "./lib/decide-uncertain-wait.ts"
+import { decideWaitResume, type WaitResumeDecision } from "./lib/decide-wait-resume.ts"
 import { readPayload, record, rejectUnknownFlags } from "./lib/payload.ts"
-import { RULE_DECISIONS } from "./lib/supervisor-decide-rules.ts"
-import {
-  parseClaimedRedelivery,
-  parseLimitResume,
-  parseWaitResume,
-  parseRcDegraded,
-  parseRemoteControl,
-  parseRestartNotice,
-  parseUncertainWait,
-} from "./lib/supervisor-decide-payload.ts"
-import { fail } from "./lib/command.ts"
 
 const NUDGE_NOTICE = "limit-resume-nudge"
 const WAIT_NUDGE_NOTICE = "wait-resume-nudge"
@@ -88,8 +84,7 @@ const DECISIONS: Readonly<Record<string, (value: unknown, path: string) => unkno
   remoteControl: (value, path) => decideRemoteControlBatch(parseRemoteControl(value, path)),
   claimedRedelivery: (value, path) => decideClaimedRedelivery(parseClaimedRedelivery(value, path)),
   limitResume: (value, path) => limitResumeAnswer(decideLimitResume(parseLimitResume(value, path))),
-  waitResume: (value, path) =>
-    waitResumeAnswer(decideWaitResume(parseWaitResume(value, path))),
+  waitResume: (value, path) => waitResumeAnswer(decideWaitResume(parseWaitResume(value, path))),
   rcDegraded: (value, path) => decideRcDegradedBatch(parseRcDegraded(value, path)),
   restartNotice: (value, path) => {
     const { event, ctx } = parseRestartNotice(value, path)
@@ -107,7 +102,9 @@ export function answer(payload: Record<string, unknown>): Record<string, unknown
   }
   const stray = asked.filter((key) => !KEYS.includes(key))
   if (stray.length > 0) {
-    fail(`\`${stray.join("`, `")}\` names no decision this command makes — it takes ${KEYS.join(", ")}`)
+    fail(
+      `\`${stray.join("`, `")}\` names no decision this command makes — it takes ${KEYS.join(", ")}`
+    )
   }
   const answers: Record<string, unknown> = {}
   for (const key of asked) {
@@ -122,7 +119,9 @@ function rejectArguments(argv: readonly string[]): void {
   rejectUnknownFlags(argv, [], [])
   const [first] = argv
   if (first !== undefined) {
-    fail(`\`${first}\` is an argument and this command takes none — the whole call is the JSON on stdin`)
+    fail(
+      `\`${first}\` is an argument and this command takes none — the whole call is the JSON on stdin`
+    )
   }
 }
 

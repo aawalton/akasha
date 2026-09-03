@@ -1,12 +1,13 @@
+import { createAgent } from "@akasha/seat-system/supervisor-agent-create"
+import type { SeatResume } from "@akasha/seat-system/supervisor-args"
+import { liveChildExitRule } from "@akasha/seat-system/supervisor-child-exit-rule"
+import { spawnOrAdoptChild } from "@akasha/seat-system/supervisor-child-spawn"
+import { reconcileClaimedRedelivery } from "@akasha/seat-system/supervisor-claimed-reconcile"
+import { LOG } from "@akasha/seat-system/supervisor-config"
+import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
+import { readOwnTranscriptTail } from "./agent-io-probe.ts"
 import { claimSeatSupervision } from "./seat-supervisor-claim.ts"
-import { createAgent } from "./supervisor-agent-create"
-import type { SeatResume } from "./supervisor-args.ts"
-import { liveChildExitRule } from "./supervisor-child-exit-rule.ts"
-import { spawnOrAdoptChild } from "./supervisor-child-spawn.ts"
-import { reconcileClaimedRedelivery } from "./supervisor-claimed-reconcile.ts"
-import { LOG } from "./supervisor-config.ts"
-import { USER_ID } from "./user-id"
-import type { buildAgentLogRedirect } from "./supervisor-console.ts"
+import { keepSeatTranscript } from "./supervisor-heartbeat-beat.ts"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,
@@ -17,18 +18,20 @@ import {
   type SeatSpawnDecider,
 } from "./supervisor-interactive-spawn.ts"
 import { ANNOUNCE, sendMessage, USER_SOURCE } from "./supervisor-limit-resume-send.ts"
-import { readOwnTranscriptTail } from "./agent-io-probe.ts"
 import { readClaimedBefore, releaseMessageClaim } from "./supervisor-message-claim.ts"
 import type { ClearRebindHooks } from "./supervisor-rebind.ts"
 import type { CarriedAgentName } from "./supervisor-rebind-carry.ts"
 import type { ClearRebindDeps } from "./supervisor-rebind-deps.ts"
 import { redeliveryHoldoff } from "./supervisor-redelivery-holdoff.ts"
-import { setCurrentAgentIdForSelfHeal, setCurrentSessionIdForSelfHeal } from "./supervisor-self-heal-state"
-import { keepSeatTranscript } from "./supervisor-heartbeat-beat.ts"
-import { sessionProjectDir } from "./supervisor-session-project-dir.ts"
+import {
+  setCurrentAgentIdForSelfHeal,
+  setCurrentSessionIdForSelfHeal,
+} from "./supervisor-self-heal-state"
 import type { AgentIdHandle } from "./supervisor-self-identity.ts"
+import { sessionProjectDir } from "./supervisor-session-project-dir.ts"
 import { processes, setRestoreConsoleHandle } from "./supervisor-state.ts"
 import type { AgentProcess, InheritedProc } from "./supervisor-types.ts"
+import { USER_ID } from "./user-id"
 
 export async function openIteration(args: {
   agentId: string | null

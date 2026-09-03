@@ -1,9 +1,9 @@
+import { LOG } from "@akasha/seat-system/supervisor-config"
 import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,
 } from "@akasha/seat-system/supervisor-limit-resume-effects"
 import { shape } from "./shape.ts"
-import { LOG } from "./supervisor-config.ts"
 import {
   REMOTE_CONTROL_DECISION,
   RemoteControlVerdictShape,

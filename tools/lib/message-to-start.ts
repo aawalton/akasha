@@ -1,26 +1,24 @@
 import { type ChildProcess, spawn } from "node:child_process"
 import { writeFile } from "node:fs/promises"
 import type { Readable } from "node:stream"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { REPO_ROOT } from "@akasha/seat-system/supervisor-config"
 import {
+  decideRecipient,
+  names,
   type Recipient,
   type SeatRow,
   type Stated,
-  decideRecipient,
-  names,
   seatsStating,
 } from "./message-to.ts"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { handlerDerives } from "./seat-answering.ts"
 import { SEAT_MODE_HEADLESS } from "./seat-modes.ts"
-import { REPO_ROOT } from "./supervisor-config.ts"
 
 const PATIENCE_MS = 120_000
 
 const OPS_BIN = "dotfiles/bin"
 
-function reachingOps(
-  env: Record<string, string | undefined>
-): Record<string, string | undefined> {
+function reachingOps(env: Record<string, string | undefined>): Record<string, string | undefined> {
   const dir = `${rootFor(resolveRoots(), AKASHA)}/${OPS_BIN}`
   const path = env.PATH ?? ""
   return path.split(":").includes(dir) ? env : { ...env, PATH: `${dir}:${path}` }
@@ -177,10 +175,7 @@ export type Reached =
   | { readonly kind: "seat"; readonly seat: SeatRow; readonly revive: boolean }
   | { readonly kind: "refuse"; readonly reason: string }
 
-export async function reachSeat(
-  stated: Stated,
-  senderAgentId: string | null
-): Promise<Reached> {
+export async function reachSeat(stated: Stated, senderAgentId: string | null): Promise<Reached> {
   const live = decideRecipient(stated, await seatsStating(stated, true))
   if (live.kind === "seat") return { kind: "seat", seat: live.seat, revive: false }
 

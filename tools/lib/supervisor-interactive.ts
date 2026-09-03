@@ -1,30 +1,28 @@
-
-import type { SeatResume } from "./supervisor-args.ts"
-import { LOG, SEAT_START_DIR } from "./supervisor-config.ts"
-import type { buildAgentLogRedirect } from "./supervisor-console.ts"
-import { decideBootResume } from "./supervisor-args.ts"
+import type { SeatResume } from "@akasha/seat-system/supervisor-args"
+import { decideBootResume } from "@akasha/seat-system/supervisor-args"
+import { LOG, SEAT_START_DIR } from "@akasha/seat-system/supervisor-config"
+import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
+import { liveDeferredRestartRule } from "@akasha/seat-system/supervisor-deferred-restart-rule"
 import { bootInteractiveSession } from "./supervisor-interactive-boot.ts"
-import { type InteractiveOpts } from "./supervisor-interactive-boot-contract"
+import type { InteractiveOpts } from "./supervisor-interactive-boot-contract"
 import {
   acquireIterationChild,
   assembleIterationProcess,
   openIteration,
 } from "./supervisor-interactive-iteration.ts"
-import { finalizeInteractiveExit } from "./supervisor-interactive-spawn.ts"
 import type { RunInteractiveSeams } from "./supervisor-interactive-seams.ts"
+import { finalizeInteractiveExit } from "./supervisor-interactive-spawn.ts"
 import { settleIterationExit, wireIteration } from "./supervisor-interactive-wire.ts"
 import { dispatchPostExitOutcome } from "./supervisor-iteration-outcome.ts"
 import { buildLoopState } from "./supervisor-loop-state.ts"
 import { askProxyAdoption } from "./supervisor-proxy-adoption-rule.ts"
 import { askProxyLiveness } from "./supervisor-proxy-liveness-rule.ts"
 import type { CarriedAgentName } from "./supervisor-rebind-carry"
-import { setSelfHealIdleProbe } from "./supervisor-self-heal-state"
 import { askReExecJitterMs } from "./supervisor-self-heal-jitter-rule.ts"
-import { liveDeferredRestartRule } from "./supervisor-deferred-restart-rule.ts"
+import { setSelfHealIdleProbe } from "./supervisor-self-heal-state"
 import { isShuttingDown } from "./supervisor-state.ts"
 import { recordTermiosState } from "./supervisor-terminal.ts"
 import type { AgentProcess } from "./supervisor-types.ts"
-
 
 export async function runInteractive(
   prompt: string,

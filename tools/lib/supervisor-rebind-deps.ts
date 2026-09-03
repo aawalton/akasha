@@ -1,11 +1,10 @@
-
-import { createAgent, type RowAgentLaunch } from "./supervisor-agent-create.ts"
-import { keepSeatSession, takeSeatPage } from "./supervisor-heartbeat-beat.ts"
-import { launchFrom } from "./seat-flex.ts"
-import { principalOf } from "./seat-principal.ts"
+import { createAgent, type RowAgentLaunch } from "@akasha/seat-system/supervisor-agent-create"
 import { akashaSeatIdForName } from "./seat-akasha-beside.ts"
+import { launchFrom } from "./seat-flex.ts"
 import { pageValuesOf } from "./seat-page-values.ts"
 import { seatNameForAgent } from "./seat-presence-read.ts"
+import { principalOf } from "./seat-principal.ts"
+import { keepSeatSession, takeSeatPage } from "./supervisor-heartbeat-beat.ts"
 
 // A seat's name is its page's stem while that page stands, and the slug its akasha page is named
 // for once it does not. Both spell the same name.

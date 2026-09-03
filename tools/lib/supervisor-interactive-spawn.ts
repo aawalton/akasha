@@ -1,21 +1,20 @@
-
-import { buildInteractiveCLIArgs } from "./claude-launch-args.ts"
 import {
   resolveAgentEffortLevel,
   resolveAutoCompactWindow,
   resolveFallbackModel,
-  resolveSubagentModel,
   resolveResumeThresholds,
+  resolveSubagentModel,
   resolveSubagentSpawnDepth,
   resolveToolTimeout,
   resolveWorkerModel,
-} from "./supervisor-account-config.ts"
-import type { spawnClaudeChild } from "./supervisor-adopt.ts"
-import { processCleanup } from "./supervisor-agent-cleanup"
-import type { SeatResume } from "./supervisor-args.ts"
-import { materializeBootPrompt } from "./supervisor-boot-prompt.ts"
-import { stage } from "./supervisor-boot-stage.ts"
-import { LOG } from "./supervisor-config.ts"
+} from "@akasha/seat-system/supervisor-account-config"
+import type { spawnClaudeChild } from "@akasha/seat-system/supervisor-adopt"
+import { processCleanup } from "@akasha/seat-system/supervisor-agent-cleanup"
+import type { SeatResume } from "@akasha/seat-system/supervisor-args"
+import { materializeBootPrompt } from "@akasha/seat-system/supervisor-boot-prompt"
+import { stage } from "@akasha/seat-system/supervisor-boot-stage"
+import { LOG } from "@akasha/seat-system/supervisor-config"
+import { buildInteractiveCLIArgs } from "./claude-launch-args.ts"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,
@@ -25,10 +24,7 @@ import { resolveMcpConfig } from "./supervisor-mcp.ts"
 import type { CarriedAgentName } from "./supervisor-rebind-carry"
 import type { ClearRebindDeps } from "./supervisor-rebind-deps.ts"
 import { isPendingReExec } from "./supervisor-self-heal-state"
-import {
-  disallowedToolsForLaunch,
-  resolveSubagentDefinitions,
-} from "./supervisor-spawn-agents.ts"
+import { disallowedToolsForLaunch, resolveSubagentDefinitions } from "./supervisor-spawn-agents.ts"
 import { materializeSpawnSettings } from "./supervisor-spawn-settings.ts"
 import { setOAuthProxyHandle } from "./supervisor-state.ts"
 import type { AgentProcess } from "./supervisor-types.ts"
@@ -109,10 +105,7 @@ export async function buildIterationSpawnOpts(args: {
 
   const [model, settingsPath] = await Promise.all([
     opts.modelOverride ?? stage("worker-model", resolveWorkerModel()),
-    stage(
-      "spawn-settings",
-      materializeSpawnSettings({ remoteControlAtStartup: remoteControlOn })
-    ),
+    stage("spawn-settings", materializeSpawnSettings({ remoteControlAtStartup: remoteControlOn })),
   ])
   const [
     autoCompactWindow,

@@ -1,8 +1,7 @@
-
 import { existsSync } from "node:fs"
+import type { SeatResume } from "@akasha/seat-system/supervisor-args"
 import { flagsAlwaysPassed, flagsPassedWithMcpConfig } from "./launch-flags.ts"
 import { alwaysAllowedTools } from "./tool-access.ts"
-import type { SeatResume } from "./supervisor-args.ts"
 
 export type McpServerConfig =
   | { type: "http"; url: string; headers?: Record<string, string> }

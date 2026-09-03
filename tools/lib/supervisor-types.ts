@@ -1,5 +1,4 @@
-
-import type { ChildExitStatus } from "./supervisor-child-exit-rule.ts"
+import type { ChildExitStatus } from "@akasha/seat-system/supervisor-child-exit-rule"
 
 export type PipedProc = {
   stdin: import("bun").FileSink

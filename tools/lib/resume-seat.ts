@@ -1,22 +1,21 @@
-
-import {
-  materializeLocalTranscript,
-  type MaterializeTranscriptResult,
-} from "./transcript-materialize.ts"
-import { terminatePriorAgentTree } from "./seat-recovery.ts"
-import { clearRequestedAction } from "./supervisor-agent-action-clear.ts"
-import { dataError, operationalError } from "./exit.ts"
+import { clearRequestedAction } from "@akasha/seat-system/supervisor-agent-action-clear"
+import { SEAT_START_DIR } from "@akasha/seat-system/supervisor-config"
 import { decideReviveLaunch } from "./decide-revive-launch.ts"
 import { DEFAULT_ACCOUNT } from "./default-account.ts"
-import { SEAT_START_DIR } from "./supervisor-config.ts"
+import { dataError, operationalError } from "./exit.ts"
 import {
-  launchSeatUnderTmux,
   type LaunchSeatOpts,
   type LaunchSeatResult,
+  launchSeatUnderTmux,
 } from "./launch-seat-tmux.ts"
 import { resolveRelaunchTarget } from "./relaunch-target.ts"
 import type { SeatPresence } from "./seat-proc-key.ts"
+import { terminatePriorAgentTree } from "./seat-recovery.ts"
 import { decideSpawnGuard, type SpawnGuardDecision, type SpawnGuardInput } from "./spawn-guard.ts"
+import {
+  type MaterializeTranscriptResult,
+  materializeLocalTranscript,
+} from "./transcript-materialize.ts"
 
 export interface ResumeTarget {
   readonly name: string | null
@@ -25,9 +24,7 @@ export interface ResumeTarget {
   readonly sessionId: string | null
 }
 
-export type ResolvedResumeTarget =
-  | { readonly target: ResumeTarget }
-  | { readonly error: string }
+export type ResolvedResumeTarget = { readonly target: ResumeTarget } | { readonly error: string }
 
 export interface SeatHandle {
   readonly agentId: string
@@ -52,9 +49,7 @@ export interface MaterializeInput {
 export interface ResumeSeatDeps {
   readonly resolveTarget: (agentId: string) => Promise<ResolvedResumeTarget>
   readonly decideGuard: (input: SpawnGuardInput) => SpawnGuardDecision
-  readonly materializeTranscript: (
-    input: MaterializeInput
-  ) => Promise<MaterializeTranscriptResult>
+  readonly materializeTranscript: (input: MaterializeInput) => Promise<MaterializeTranscriptResult>
   readonly clearRequestedAction: (agentId: string) => Promise<void>
   readonly terminatePriorTree: (agentId: string) => Promise<readonly number[]>
   readonly launch: (opts: LaunchSeatOpts) => Promise<LaunchSeatResult>

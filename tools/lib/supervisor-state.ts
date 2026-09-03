@@ -1,8 +1,7 @@
-
-import type { AgentActionSubsystem } from "./supervisor-agent-action-types.ts"
-import type { ChildExitClassification } from "./supervisor-child-exit-rule.ts"
-import type { LogSink } from "./supervisor-console.ts"
-import type { SupervisorHandoff } from "./supervisor-handoff-env.ts"
+import type { AgentActionSubsystem } from "@akasha/seat-system/supervisor-agent-action-types"
+import type { ChildExitClassification } from "@akasha/seat-system/supervisor-child-exit-rule"
+import type { LogSink } from "@akasha/seat-system/supervisor-console"
+import type { SupervisorHandoff } from "@akasha/seat-system/supervisor-handoff-env"
 import type { SupervisorOAuthProxyHandle } from "./supervisor-spawn-oauth-proxy.ts"
 import type { AgentProcess } from "./supervisor-types.ts"
 

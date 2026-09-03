@@ -1,9 +1,9 @@
 import { readFileSync } from "node:fs"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { expandHome } from "@akasha/seat-system/supervisor-claude-config"
+import { HOME_DIR } from "@akasha/seat-system/supervisor-config"
 import type { McpServerConfig } from "./claude-launch-args.ts"
 import { shape } from "./shape.ts"
-import { expandHome } from "./supervisor-claude-config.ts"
-import { HOME_DIR } from "./supervisor-config.ts"
 
 export type { McpServerConfig }
 

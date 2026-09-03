@@ -1,18 +1,18 @@
-import { keepBeside } from "./seat-beside.ts"
 import { akashaRoot, resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { LOG } from "@akasha/seat-system/supervisor-config"
 import type { BeatReport } from "../seat-page-beat.ts"
 import type { Outcome } from "./gated-write.ts"
+import { keepBeside } from "./seat-beside.ts"
 import { nameFromHistory } from "./seat-page-history.ts"
+import { formatSeatProcKey, readSeatProcKey } from "./seat-proc-key.ts"
+import { composedNameOf } from "./seat-rename.ts"
+import { clearRotated } from "./seat-rotated-session.ts"
+import { keepSession } from "./seat-session.ts"
+import { keepTranscript } from "./seat-transcript-path.ts"
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
 } from "./supervisor-self-heal-state.ts"
-import { formatSeatProcKey, readSeatProcKey } from "./seat-proc-key.ts"
-import { composedNameOf } from "./seat-rename.ts"
-import { LOG } from "./supervisor-config.ts"
-import { clearRotated } from "./seat-rotated-session.ts"
-import { keepSession } from "./seat-session.ts"
-import { keepTranscript } from "./seat-transcript-path.ts"
 
 const BEAT = "seat-page-beat.ts"
 
@@ -27,8 +27,7 @@ function reportFrom(output: string, code: number): BeatReport {
     if (typeof parsed === "object" && parsed !== null && "outcome" in parsed) {
       return parsed as BeatReport
     }
-  } catch {
-  }
+  } catch {}
   const said = output.trim()
   return {
     outcome: {
@@ -47,7 +46,10 @@ function runBeat(args: readonly string[]): BeatReport {
     })
     return reportFrom(proc.stdout.toString(), proc.exitCode ?? 1)
   } catch (err) {
-    return { outcome: { kind: "refused", detail: `the seat page writer did not run: ${String(err)}` }, seat: null }
+    return {
+      outcome: { kind: "refused", detail: `the seat page writer did not run: ${String(err)}` },
+      seat: null,
+    }
   }
 }
 
@@ -60,7 +62,10 @@ async function runBeatAsync(args: readonly string[]): Promise<BeatReport> {
     const output = await new Response(proc.stdout).text()
     return reportFrom(output, await proc.exited)
   } catch (err) {
-    return { outcome: { kind: "refused", detail: `the seat page writer did not run: ${String(err)}` }, seat: null }
+    return {
+      outcome: { kind: "refused", detail: `the seat page writer did not run: ${String(err)}` },
+      seat: null,
+    }
   }
 }
 
@@ -78,7 +83,9 @@ export function keepSeatSession(agentId: string, sessionId: string): void {
   keepSession(agentId, sessionId)
   const report = runBeat(["--agent", agentId, "--session", sessionId])
   if (report.outcome.kind === "refused") {
-    console.error(`${LOG} the session did not reach ${report.seat ?? agentId}: ${report.outcome.detail}`)
+    console.error(
+      `${LOG} the session did not reach ${report.seat ?? agentId}: ${report.outcome.detail}`
+    )
   }
 }
 

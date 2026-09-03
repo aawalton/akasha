@@ -1,10 +1,9 @@
-
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { LOG } from "@akasha/seat-system/supervisor-config"
 import { instantOf } from "./oauth-page-db.ts"
 import { accountStateFromPage } from "./oauth-page-state.ts"
 import { computePacingDerivations, formatPaceHours } from "./usage-derivations.ts"
-import { LOG } from "./supervisor-config.ts"
 
 export function writePacingSnapshot(account: string, configDir: string): void {
   try {

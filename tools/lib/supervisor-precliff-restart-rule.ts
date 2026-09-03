@@ -1,6 +1,5 @@
-
+import { askRule, type RuleAnswer } from "@akasha/seat-system/supervisor-ask-rule"
 import { shape } from "./shape.ts"
-import { askRule, type RuleAnswer } from "./supervisor-ask-rule.ts"
 import type { AskDecide } from "./supervisor-resume-asks.ts"
 
 const RULE = "preCliffRestartRule"

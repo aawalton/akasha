@@ -1,12 +1,12 @@
-import { LOG } from "./supervisor-config.ts"
-import { armDeferredRestart } from "./supervisor-deferred-restart.ts"
-import type { DeferredRestartRuleSource } from "./supervisor-deferred-restart-rule.ts"
-import { isProcessAlive } from "./supervisor-exec.ts"
+import { LOG } from "@akasha/seat-system/supervisor-config"
+import { armDeferredRestart } from "@akasha/seat-system/supervisor-deferred-restart"
+import type { DeferredRestartRuleSource } from "@akasha/seat-system/supervisor-deferred-restart-rule"
+import { isProcessAlive } from "@akasha/seat-system/supervisor-exec"
 import { liveIdleRule } from "./supervisor-idle-rule.ts"
-import { getInheritedClaude } from "./supervisor-state.ts"
-import { defaultRunInstall, type SelfHealRunInstall } from "./supervisor-self-heal-install.ts"
 import { reExecAsked, takeReExecAsk } from "./supervisor-reexec-mark.ts"
+import { defaultRunInstall, type SelfHealRunInstall } from "./supervisor-self-heal-install.ts"
 import type { SelfHealJitterRuleSource } from "./supervisor-self-heal-jitter-rule.ts"
+import { getInheritedClaude } from "./supervisor-state.ts"
 
 export function inheritedClaudePid(): number | null {
   const inherited = getInheritedClaude()

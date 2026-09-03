@@ -1,4 +1,10 @@
 import { join } from "node:path"
+import {
+  fileSink,
+  LOG_MAX_BYTES,
+  pageSink,
+  redirectConsoleToSink,
+} from "@akasha/seat-system/supervisor-console"
 import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
 import {
   clearAccountTerminal,
@@ -14,7 +20,6 @@ import {
   type OAuthProxyStateToWrite,
   writeProxyStateQuietly,
 } from "../seat-proxy-state.ts"
-import { fileSink, LOG_MAX_BYTES, pageSink, redirectConsoleToSink } from "../supervisor-console.ts"
 import { startOAuthProxy } from "./gateway.ts"
 import { parseBootEnv } from "./parse-boot-env.ts"
 

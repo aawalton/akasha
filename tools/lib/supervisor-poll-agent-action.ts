@@ -1,6 +1,5 @@
-
-import type { AgentActionEvent } from "./supervisor-agent-action-types.ts"
-import { LOG } from "./supervisor-config.ts"
+import type { AgentActionEvent } from "@akasha/seat-system/supervisor-agent-action-types"
+import { LOG } from "@akasha/seat-system/supervisor-config"
 import { controlOf } from "./seat-control.ts"
 
 // The pages under akasha's supervisor-action page type, spelled as they are there.

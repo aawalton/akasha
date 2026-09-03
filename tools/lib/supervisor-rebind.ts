@@ -1,12 +1,10 @@
-
-import { AGENT_LAUNCH_OPENED, AGENT_LAUNCH_SPAWNED } from "./supervisor-env.ts"
-import type { RowAgentLaunch } from "./supervisor-agent-create.ts"
-import { carriedForSeat, type CarriedAgentName } from "./supervisor-rebind-carry.ts"
-import type { ClearRebindDeps } from "./supervisor-rebind-deps.ts"
-import { LOG } from "./supervisor-config.ts"
+import type { RowAgentLaunch } from "@akasha/seat-system/supervisor-agent-create"
+import { LOG } from "@akasha/seat-system/supervisor-config"
+import { AGENT_LAUNCH_OPENED, AGENT_LAUNCH_SPAWNED } from "@akasha/seat-system/supervisor-env"
 import { keepSeatTranscript } from "./supervisor-heartbeat-beat.ts"
+import { type CarriedAgentName, carriedForSeat } from "./supervisor-rebind-carry.ts"
+import type { ClearRebindDeps } from "./supervisor-rebind-deps.ts"
 import type { AgentProcess } from "./supervisor-types.ts"
-
 
 export type ClearRebindHooks = {
   selectedAccount: string
@@ -50,7 +48,10 @@ export async function performClearRebind(
       stated === AGENT_LAUNCH_SPAWNED || stated === AGENT_LAUNCH_OPENED ? stated : null
     predecessorParent = predecessor?.parent ?? null
   } catch (err) {
-    console.error(`${LOG} /clear rebind: reading the predecessor ${oldAgentId} for name carry-over failed:`, err)
+    console.error(
+      `${LOG} /clear rebind: reading the predecessor ${oldAgentId} for name carry-over failed:`,
+      err
+    )
   }
   try {
     await deps.markStopped(oldAgentId)

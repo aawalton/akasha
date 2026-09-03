@@ -1,5 +1,4 @@
-
-import { LOG } from "./supervisor-config.ts"
+import { LOG } from "@akasha/seat-system/supervisor-config"
 import { recordHeartbeat } from "./supervisor-heartbeat-beat.ts"
 
 export const HEARTBEAT_INTERVAL_MS = 30_000

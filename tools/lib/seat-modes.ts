@@ -1,4 +1,4 @@
-import { AGENT_LAUNCH_OPENED, AGENT_LAUNCH_SPAWNED } from "./supervisor-env.ts"
+import { AGENT_LAUNCH_OPENED, AGENT_LAUNCH_SPAWNED } from "@akasha/seat-system/supervisor-env"
 
 export const SEAT_MODE_INTERACTIVE = "interactive"
 

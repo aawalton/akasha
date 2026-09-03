@@ -1,8 +1,7 @@
-
-import type { resolveClaudeHandoff } from "./supervisor-adopt.ts"
-import type { RowAgentLaunch } from "./supervisor-agent-create.ts"
-import type { buildAgentLogRedirect } from "./supervisor-console.ts"
-import type { buildCredentialSubsystem } from "./supervisor-credentials.ts"
+import type { resolveClaudeHandoff } from "@akasha/seat-system/supervisor-adopt"
+import type { RowAgentLaunch } from "@akasha/seat-system/supervisor-agent-create"
+import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
+import type { buildCredentialSubsystem } from "@akasha/seat-system/supervisor-credentials"
 import type { startPerAgentMonitors } from "./supervisor-monitors-wire.ts"
 import type { ProxyAdoptionRuleSource } from "./supervisor-proxy-adoption-rule.ts"
 import type { ProxyLivenessRuleSource } from "./supervisor-proxy-liveness-rule.ts"

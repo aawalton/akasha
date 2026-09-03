@@ -1,5 +1,4 @@
-
-import type { SeatResume } from "./supervisor-args.ts"
+import type { SeatResume } from "@akasha/seat-system/supervisor-args"
 import type { CarriedAgentName } from "./supervisor-rebind-carry.ts"
 import type { AgentIdHandle } from "./supervisor-self-identity.ts"
 

@@ -1,16 +1,17 @@
-
-import { shape } from "./shape.ts"
-import { reconcileAgentBootFiles, resolveClaudeHandoff } from "./supervisor-adopt.ts"
-import { selectAccountAndWriteCredential } from "./supervisor-agent.ts"
-import { createAgent } from "./supervisor-agent-create"
-import { configDirForAccount, LOG } from "./supervisor-config.ts"
-import { buildCredentialSubsystem } from "./supervisor-credentials.ts"
-import { AGENT_LAUNCH_OPENED, AGENT_LAUNCH_SPAWNED } from "./supervisor-env.ts"
+import { reconcileAgentBootFiles, resolveClaudeHandoff } from "@akasha/seat-system/supervisor-adopt"
+import { selectAccountAndWriteCredential } from "@akasha/seat-system/supervisor-agent"
+import { createAgent } from "@akasha/seat-system/supervisor-agent-create"
+import { configDirForAccount, LOG } from "@akasha/seat-system/supervisor-config"
+import { buildCredentialSubsystem } from "@akasha/seat-system/supervisor-credentials"
+import { AGENT_LAUNCH_OPENED, AGENT_LAUNCH_SPAWNED } from "@akasha/seat-system/supervisor-env"
 import {
   parseSupervisorHandoffEnv,
   resolveProxyOwnerAgentId,
   SUPERVISOR_HANDOFF_ENV_KEYS,
-} from "./supervisor-handoff-env.ts"
+} from "@akasha/seat-system/supervisor-handoff-env"
+import { computeModelGatewayTreeVersion } from "./model-gateway-tree-version"
+import { claimSeatSupervision } from "./seat-supervisor-claim.ts"
+import { shape } from "./shape.ts"
 import type {
   InteractiveBootArgs,
   InteractiveSessionBoot,
@@ -23,16 +24,13 @@ import {
   stateSeatDefaults,
 } from "./supervisor-seat-defaults.ts"
 import { setProxyOwnerAgentIdForSelfHeal } from "./supervisor-self-heal-state"
-import { claimSeatSupervision } from "./seat-supervisor-claim.ts"
 import { createAgentIdHandle } from "./supervisor-self-identity.ts"
-import { computeModelGatewayTreeVersion } from "./model-gateway-tree-version"
 import {
   setInheritedClaude,
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "./supervisor-state.ts"
 import { toolRestrictions } from "./tool-access.ts"
-
 
 const ENV_OPTIONAL = shape.string().optional()
 

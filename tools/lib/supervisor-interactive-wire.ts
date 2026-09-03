@@ -1,26 +1,23 @@
-
-import { buildAgentActionSubsystem } from "./supervisor-agent-action.ts"
-import { consumeThenProxySwap } from "./supervisor-agent-action-clear"
-import { clearRequestedAction } from "./supervisor-agent-action-clear.ts"
-import type { PendingAgentAction } from "./supervisor-agent-action-types.ts"
-import { liveChildExitRule } from "./supervisor-child-exit-rule.ts"
-import { wireSessionRotatedWatcher } from "./supervisor-clear-rebind-wire.ts"
-import { LOG } from "./supervisor-config.ts"
-import type { buildAgentLogRedirect } from "./supervisor-console.ts"
-import { liveDeferredRestartRule } from "./supervisor-deferred-restart-rule.ts"
+import { buildAgentActionSubsystem } from "@akasha/seat-system/supervisor-agent-action"
+import {
+  clearRequestedAction,
+  consumeThenProxySwap,
+} from "@akasha/seat-system/supervisor-agent-action-clear"
+import type { PendingAgentAction } from "@akasha/seat-system/supervisor-agent-action-types"
+import { liveChildExitRule } from "@akasha/seat-system/supervisor-child-exit-rule"
+import { wireSessionRotatedWatcher } from "@akasha/seat-system/supervisor-clear-rebind-wire"
+import { LOG } from "@akasha/seat-system/supervisor-config"
+import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
+import { liveDeferredRestartRule } from "@akasha/seat-system/supervisor-deferred-restart-rule"
 import { liveIdleRule } from "./supervisor-idle-rule.ts"
 import type { InteractiveSessionBoot } from "./supervisor-interactive-boot-contract.ts"
 import { startPreCliffRestartMonitor } from "./supervisor-precliff-restart.ts"
 import { askPreCliffRestart } from "./supervisor-precliff-restart-rule.ts"
 import { triggerProxySwap } from "./supervisor-proxy-version.ts"
-import type { ClearRebindDeps } from "./supervisor-rebind-deps.ts"
 import type { ClearRebindHooks } from "./supervisor-rebind.ts"
+import type { ClearRebindDeps } from "./supervisor-rebind-deps.ts"
 import type { AgentIdHandle } from "./supervisor-self-identity.ts"
-import {
-  isShuttingDown,
-  setAgentActionHandler,
-  setObservedChildExit,
-} from "./supervisor-state.ts"
+import { isShuttingDown, setAgentActionHandler, setObservedChildExit } from "./supervisor-state.ts"
 import type { AgentProcess, InheritedProc } from "./supervisor-types.ts"
 
 export interface IterationWiring {
