@@ -1,0 +1,1 @@
+Pre-session coaching digest read entirely over pages data: available equipment + load increments, per-movement last working set / best / progression target, the last session of the focus, active mobility readings + trend, and the standing constraints for that focus. --focus is optional — it defaults to today's scheduled focus from the active weekly schedule.

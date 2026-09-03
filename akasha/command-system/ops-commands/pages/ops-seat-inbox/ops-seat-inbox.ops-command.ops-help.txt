@@ -1,0 +1,23 @@
+List the messages standing in your recipient directory and take them.
+
+A message is a file under `messages/<recipient>/`, and reading one is that
+file ceasing to stand — so draining here is the same act the channel
+listener performs when it delivers to a live session. This is the pull
+counterpart: a seat holding no listener, or one that was never live to hear
+a message arrive, drains it from here.
+
+Identity defaults to the `AGENT_ID` env var (the calling session). Pass
+the seat's name, or `--agent-id <uuid|prefix|name|#seq>`, to drain a specific
+identity's directory — both resolve to the seat currently holding that handle.
+
+By default returns the messages nothing has claimed and takes them.
+`--peek` returns them WITHOUT taking any (inspect without consuming).
+`--all` also lists messages a live listener has claimed but not yet taken.
+A claim is orphaned when the seat holding it restarted mid-delivery, and the
+message then reaches nobody until the claim is released. So `--all` WITHOUT
+`--peek` takes those too: asking for them by name and draining is the act
+that clears an orphan, and it is the only thing that does so on demand.
+
+Default stdout: one TSV line per message — `<id>\t<from>\t<warrant>\t<body>`.
+--json stdout: an array of `{ id, from, warrant, claimed_at, body }`.
+Nothing waiting → empty stdout, exit 0.

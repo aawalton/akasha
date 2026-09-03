@@ -1,0 +1,21 @@
+Takes one page type. Renames each of its files to carry the page type between the stem and the
+markdown suffix, then rewrites that page type's `files:` to match by name anywhere rather than by
+folder. Until this runs, a page file's type is told by the folder holding it; after it, by the
+file's own name, and the folder is free to say something else.
+
+NOTHING MOVES. Each file keeps every folder it sat in. The old glob goes on matching the renamed
+files throughout, because a glob ending `*.md` matches a name ending `.md` however many suffixes
+come before it. So there is no moment where a page matches nothing.
+
+IDENTITY IS ASSERTED, NOT ASSUMED. A page whose file states no `id:` takes one derived from its
+path, and a page whose file states no `slug:` takes one derived from its stem. Renaming either
+would mint a different page rather than carry this one. Both are computed for the old path and
+the new before anything lands, and a page whose slug or id would differ is named and refused.
+
+READING RECORDS FOLLOW. A seat records what it has read against the absolute path of the file,
+so a rename empties that record and the seat is asked to read it all again. Every record naming
+a renamed page is rewritten in the same run, keeping what it never named.
+
+SIDECARS FOLLOW TOO, that being `ops mv`'s survey rather than this command's: an attachment, a
+rows file, an uncommitted file or a sops file standing beside a page goes where the page goes,
+and everything citing the old path is repointed.

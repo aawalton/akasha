@@ -1,0 +1,4 @@
+Rebuild the local account-alias snapshot from the `alias-index:` each account page
+states. The shell-init alias generator (`aw init bash`) reads this file to emit the `cN`
+family without reading the pages itself. Run it to repair drift, or on a fresh
+workstation to materialize the snapshot (provisioning calls it for exactly this).
