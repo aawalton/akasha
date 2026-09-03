@@ -7,5 +7,5 @@ export const viking = {
   title: "Viking",
   relationshipCurrentCircle: "acquaintances",
   relationshipMetAt: "ESO Tavern 2026",
-  notes: "txt",
+  relationshipNotes: "txt",
 } as const satisfies Relationship
