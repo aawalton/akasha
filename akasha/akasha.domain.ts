@@ -46,6 +46,7 @@ export const akasha = {
     "workspace-package/digit-padding",
     "workspace-package/id-minting",
     "workspace-package/file-page-identity",
+    "workspace-package/icloud-photos-access",
     "workspace-package/checkout-version",
     "domain/temper",
     "domain/story-engine",

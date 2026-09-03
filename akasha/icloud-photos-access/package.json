@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/icloud-photos-access",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./icloud-share": "./icloud-share/icloud-share.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/errors-core": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
