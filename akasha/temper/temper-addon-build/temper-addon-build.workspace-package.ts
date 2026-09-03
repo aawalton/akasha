@@ -46,5 +46,10 @@ export const temperAddonBuild = {
       statement:
         "A build runs on the workstation holding the transpiler rather than in the cluster.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "Every Temper addon is exercised against a real ESO client with nobody at a keyboard.",
+    },
   ],
 } as const satisfies WorkspacePackage
