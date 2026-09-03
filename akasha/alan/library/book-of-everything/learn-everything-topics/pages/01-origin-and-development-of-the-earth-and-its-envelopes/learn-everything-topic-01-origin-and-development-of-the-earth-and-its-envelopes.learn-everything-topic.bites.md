@@ -1,0 +1,4 @@
+- The secondary atmosphere/oceans: primary captured atmosphere lost → current air & water are outgassed (± cometary/asteroidal delivery). Where did the water actually come from? (and that its provenance proportions are genuinely debated).
+- The differentiation mechanism: why iron sinks (a molten body, density under gravity — the "iron catastrophe") and what powered the melt.
+- Radiogenic decay as the *ongoing* engine (plate tectonics, the geodynamo) — connect back to the Atoms nuclear physics.
+- Headroom: the Moon-forming giant impact (Theia) — mantle-composition Moon, post-core-differentiation ejection; resets the early atmosphere.

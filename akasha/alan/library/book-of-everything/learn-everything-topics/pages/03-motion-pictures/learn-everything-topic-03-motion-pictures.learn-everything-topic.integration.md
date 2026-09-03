@@ -1,0 +1,5 @@
+- **Film ↔ Photography** (strong) — factor 1 (live-action > animated = indexicality) is his held Barthes/indexicality node (~Expert), reused as the *floor* of the film-reality stack.
+- **Film ↔ semiotics / modality** — factor 3 (truth-framing) is Kress & van Leeuwen modality (Branches of Knowledge › semiotics).
+- **Film ↔ philosophy of fiction** — Currie, Searle on the logical status of fictional discourse.
+- **Film ↔ "theory of representation" hub** (cross-Part) — the same representation seam as his Teotihuacan / Information-Theory representation node.
+- **Film ↔ philosophy of art / aesthetics** (Node B) — the literal-vs-experiential truth split and the Poetics rederivation are aesthetic-truth structure, which powers this node's reality decomposition.

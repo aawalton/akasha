@@ -1,0 +1,4 @@
+- The dynamo loop-feedback mechanism — re-test whether the taught bite is now held (what supplies the reinforcing loop geometry in a homogeneous core with no windings).
+- Chemical vs mechanical layering: lithosphere ≠ crust; the asthenosphere; why the mechanical divisions don't line up with the compositional ones.
+- Seismic discontinuities by name (Moho, Gutenberg, Lehmann) and what each marks; the core–mantle boundary and the D″ layer (headroom).
+- Composition: what the inner/outer core and mantle are actually made of, and how it's constrained (density + seismic velocity + meteorite analogues).

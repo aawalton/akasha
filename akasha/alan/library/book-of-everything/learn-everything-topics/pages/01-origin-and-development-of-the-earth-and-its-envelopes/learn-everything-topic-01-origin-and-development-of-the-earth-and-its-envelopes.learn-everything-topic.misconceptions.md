@@ -1,0 +1,2 @@
+- **Radiogenic heat as "nuclear fission"** — corrected to radioactive **decay** (spontaneous decay of U / Th / K; fission is induced splitting in reactors and bombs).
+- **Atmosphere + oceans as settled layers of the original soup, sorted by density** — partially corrected: he moved to a dynamic-flux view under the oxygen challenge, but never reached the *secondary* (outgassed / delivered) origin of water and nitrogen; he still half-holds the original-layer model for the non-biogenic envelopes (carried into Frontier).

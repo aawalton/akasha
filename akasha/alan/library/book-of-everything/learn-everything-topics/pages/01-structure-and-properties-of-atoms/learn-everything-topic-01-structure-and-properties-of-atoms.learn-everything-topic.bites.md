@@ -1,0 +1,4 @@
+- Generate the periodic-table shape (2 / 8 / 18 …) from quantum numbers + Pauli (orbital counts 1 / 3 / 5 / 7 × 2 spins) — set up this session but not walked; the clean D2→D3 separator, not yet cleared.
+- What sets atomic size (Bohr radius as the uncertainty/Coulomb truce) — he assembled this *with* cues; test whether he can now run it unaided.
+- The math of shell geometry — why 2n², orbital shapes, quantum-number counting — explicitly banked by him as a "someday" bite (mattering-signal).
+- Wire Pauli to both the periodic table and the solidity of matter (degeneracy pressure) as one principle.

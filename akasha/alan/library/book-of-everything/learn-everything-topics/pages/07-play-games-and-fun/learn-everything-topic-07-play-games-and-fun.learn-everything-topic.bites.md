@@ -1,0 +1,4 @@
+1. **Attach the canon to the derivations** — Suits' *Grasshopper* (the lusory attitude ≈ his constitutive game definition), Huizinga's *Homo Ludens* (magic circle), Caillois (agon/alea/mimicry/ilinx), Koster's *Theory of Fun*, flow. Convert generation into field-fluent recognition.
+2. **The live "what does fun track" dispute** — Koster (learning) vs flow (challenge/skill) vs Caillois (irreducible plurality); he engaged the substance, hasn't met it as the field's open question.
+3. **Resolve his own flagged loose ends** — artificial constraints as the "bounded, fair, repeatable, contained" tradeoff-generator (their surviving value once demoted from necessary); the preference generate-vs-settle question (he answered "both," via Nature/Nurture/Choice).
+4. **Formalize consequence-containment** — the magic circle as the half of the game/real-stakes distinction his model reached for.

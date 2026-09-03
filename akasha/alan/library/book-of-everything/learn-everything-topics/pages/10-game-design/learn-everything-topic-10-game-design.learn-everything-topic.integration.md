@@ -1,0 +1,6 @@
+- **Theory of Play, Games & Fun** (strong, bidirectional) — his design judgment is *downstream of* his own axioms of play; the realness-of-progress kill and the un-solving doctrine are applications of his fun/meaningful-choices model. This craft cell is the applied art whose foundation is that theory.
+- **Software architecture / his engineering principles** (strong) — he reuses feature-flags ("deployed ≠ enabled"), expand-contract, purity, and dev-server-in-worktree as *design* tools, not just build tools.
+- **Systems thinking & optimization** (strong) — player-side he reverse-engineered the live optimization (lead = base output, support scales with lead, flatten-to-equal-rank to collapse cross-level comparison, brute-forced 6-choose-3), and named dominant-strategy / opportunity-cost / sink-vs-decision distinctions.
+- **His attraction-map (consistency↔safety / novelty↔arousal)** (medium) — used directly as a design lens ("avoid partial consistency"; differences create meaningful choices).
+- **ESO / Temper** (medium) — his live design reference for what the craft does well.
+- **Human Behavior & Experience** (weak edge) — engagement/motivation psychology of the player.

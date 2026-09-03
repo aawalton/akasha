@@ -1,0 +1,3 @@
+- The cut / montage: what meaning lives *between* two images edge-to-edge that a single photograph can't carry.
+- The two engagement engines: indexical presence vs constructed meaning-density / total authorship — why Arcane hits hard despite being "safe" (animated, hence low on the indexicality floor).
+- The open probe: whether experiential truth sits ON the reality dimension at all, or is a separate axis.

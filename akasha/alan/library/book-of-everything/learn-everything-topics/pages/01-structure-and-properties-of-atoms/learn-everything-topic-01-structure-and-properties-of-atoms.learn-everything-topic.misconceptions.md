@@ -1,0 +1,6 @@
+- **Atomic stability via electron-electron repulsion** — broken on the hydrogen counterexample (one electron, nothing to repel, yet the most stable atom).
+- **Stability as a force-balance (EM-vs-gravity equilibrium)** — corrected: every force in the atom points inward (gravity ~40 orders too weak anyway); stability is not a force but the *kinetic cost of confinement* (uncertainty principle).
+- **Solidity of matter as electrostatic repulsion** — corrected: it is **degeneracy pressure** from Pauli exclusion (pressing forces electrons up into higher unoccupied states), not a repulsive force.
+- **Shell capacity as physical "more room"** ("more space → more electrons per shell") — corrected: capacity is quantum-state counting (orbitals × 2 spin labels), not physical room.
+- **Strong vs weak nuclear force conflated** — strong binds the nucleus; weak drives decay.
+- Partial/watch: Pauli held fuzzily at first — he asked the precise frontier question himself (is it repulsion or a fundamental quantum incompatibility?) and chose the right one (fundamental, not a force) when pressed.

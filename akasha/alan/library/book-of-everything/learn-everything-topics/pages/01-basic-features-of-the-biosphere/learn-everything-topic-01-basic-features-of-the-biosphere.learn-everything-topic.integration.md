@@ -1,0 +1,1 @@
+_Inbound edge (archivist-recorded, awaiting interview):_ **The Earth › Earth's History › Origin and Development of the Earth and Its Envelopes** ↔ this node, via **biogenic O₂ / the Great Oxidation Event** — life reshaping Earth's atmosphere couples Earth-history to the biosphere (the oxygen envelope is secondary and biological in origin). A cross-Part bridge (Part 2 ↔ Part 3).

@@ -1,0 +1,3 @@
+- **Theory of Play, Games & Fun** (strong, bidirectional) — the un-solving doctrine is a direct application of his meaningful-choices axiom; choice-collapse in a solved game is why play stops being fun. The theory cell is the foundation; this leaf is the applied engagement craft. ↔ `04-human-life/.../07-play-games-and-fun`.
+- **Game Design (parent)** (strong, bidirectional) — this is the parent's load-bearing engagement principle, the clearest instance of his doctrine-over-mechanics split.
+- **Systems thinking & optimization** (strong) — solved-game choice-collapse (tic-tac-toe → why finite idle games die) is an optimization-landscape argument.

@@ -1,0 +1,6 @@
+- **Game Design (craft)** (strong, bidirectional) — this theory is the *foundation* of his design judgment; the un-solving doctrine and realness-of-progress kill are applications of the meaningful-choices axiom. → `06-art/02-particular-arts/10-game-design`.
+- **Theory of the Arts / aesthetics** (strong edge) — the aesthetic reading of play (games as an art form) connects here, but play is the broader category (sport, gambling, children's play, non-art games), so this is its home and aesthetics is the edge. → `06-art/01-art-in-general`.
+- **Epistemics / belief & justification** (strong) — the gambling lens runs entirely on *justified vs unjustified belief* (card-counter vs gambler; superstition; learned helplessness; overconfidence/local-maxima as the belief-gate failure modes).
+- **Decision theory** (strong) — non-dominated choices as the core of "meaningful choice"; dominant strategies; the play↔media differentia.
+- **His attraction-map & motivation psychology** (medium) — consistency↔safety / novelty↔arousal mapped onto Fun as an emergent design pattern, not a definitional attribute.
+- **Philosophy of mind / his self-model** (medium) — his single-attention-slot biconditional (instrumental ⇒ joyless) and "no desire→belief bridge" frame his zero-tolerance-for-illusion as a mechanism, kept as load-bearing Alan-specifics.

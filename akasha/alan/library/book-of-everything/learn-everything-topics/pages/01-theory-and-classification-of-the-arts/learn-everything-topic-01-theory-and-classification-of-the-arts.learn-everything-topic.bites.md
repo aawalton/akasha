@@ -1,0 +1,7 @@
+- A dedicated aesthetics / philosophy-of-art cell wants expanding (archivist owns) — the aesthetic-truth material currently lands on this Theory-of-the-Arts ancestor.
+- The mimesis tradition and its critics.
+- Whether experiential ("universal") truth is a separate dimension from the reality axis entirely (the open probe Ali handed him).
+- Expression theories of art.
+- Make him explicitly recognize the autonomism/moralism dispute as a *live* frontier (the step from taking a side to seeing the debate) — the D5 reach.
+- Whether experiential ("universal") truth sits ON the reality dimension at all, or off it entirely (open probe Ali handed him).
+- The mimesis tradition and expression-vs-representation theories (untested breadth above D4).

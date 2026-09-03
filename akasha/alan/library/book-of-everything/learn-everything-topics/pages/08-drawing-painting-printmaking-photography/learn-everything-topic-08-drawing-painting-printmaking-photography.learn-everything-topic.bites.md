@@ -1,0 +1,3 @@
+- The formal/technical axis: composition as a formal grammar (why a composition holds); printmaking's matrix-and-multiple ontology; the four production technologies' material specifics; drawing-as-foundational-vs-subordinate (disegno vs colore).
+- The historical arc: photography relieving painting of its likeness-duty as one (overdetermined) strand toward abstraction.
+- The real edge he named: closing the gap from conceptual map to aesthetic appreciation — enjoyment past the immediate surface hit.

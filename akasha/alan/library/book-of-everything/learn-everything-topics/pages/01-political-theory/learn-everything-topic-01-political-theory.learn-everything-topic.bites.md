@@ -1,0 +1,3 @@
+- **Emperor vs Shogun** (Japan ~1185–1868) — the cleanest natural experiment for his power/legitimacy split (Emperor = legitimacy / ritual apex; Shogun = power / military rule; mutually dependent). Also Merovingian rois fainéants + Carolingian mayors of the palace. Throw this first.
+- Weber's legal-rational / traditional / charismatic as ideal-types-that-blend — don't let him grade a regime as exactly one.
+- Pin descriptive vs normative legitimacy explicitly (the easiest conflation in this area).

@@ -1,12 +1,14 @@
 import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
 
-export const profile = {
-  id: "01a065a7-085b-701e-8335-c90f8b9e72d8",
+export const learnEverythingTopic06Art = {
+  id: "01a065a7-0855-7035-9dec-bb5c55953c09",
   pageTypeSlug: "learn-everything-topic",
-  slug: "profile",
-  node: "Everything",
+  slug: "learn-everything-topic-06-art",
+  node: "Art",
   depth: 0,
-  coverage: 0.05,
+  coverage: 0.27,
   scoredOn: "2026-06-19",
   status: "unopened",
+  partOfSlugs: ["profile"],
+  integration: "md",
 } as const satisfies LearnEverythingTopic

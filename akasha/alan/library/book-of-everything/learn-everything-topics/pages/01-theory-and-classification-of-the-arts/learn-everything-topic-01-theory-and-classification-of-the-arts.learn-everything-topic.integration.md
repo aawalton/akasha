@@ -1,0 +1,3 @@
+- **Powers the Film node** (strong) — supplies the reality-decomposition's truth axis (Node A: Art › Particular Arts › Motion Pictures); the literal/experiential split settled the animated-documentary case there.
+- **Same representation seam** as his Teotihuacan / Information-Theory "theory of representation" hub (cross-Part).
+- **Philosophy of fiction** — Currie / Searle on the logical status of fictional discourse.
