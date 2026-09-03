@@ -1,9 +1,8 @@
-
 import { closeSync, mkdirSync, openSync } from "node:fs"
 import { join } from "node:path"
+import { pidsListeningOn, portIsHeld } from "@akasha/utils-process/port-holding"
 import { modelGatewayEntrypoint } from "./model-gateway-tree-version.ts"
 import { pidAliveOrRefuse } from "./pid-signal.ts"
-import { pidsListeningOn, portIsHeld } from "./port-listener-pid.ts"
 import { readProcEnvVar } from "./proc-environ.ts"
 import { type OAuthProxyState, readProxyState } from "./seat-proxy-state.ts"
 import { readAdoptedClaudeProxyPort } from "./supervisor-adopted-claude-port.ts"
