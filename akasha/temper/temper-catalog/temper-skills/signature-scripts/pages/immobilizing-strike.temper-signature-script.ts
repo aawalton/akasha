@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const immobilizingStrike = {
-  id: "01a05fce-295f-7a05-823f-c70089f09b82",
+  id: "019e46b5-7e1d-75b0-87d7-93f75fbed5a2",
   pageTypeSlug: "temper-signature-script",
   slug: "immobilizing-strike",
   title: "Immobilizing Strike",

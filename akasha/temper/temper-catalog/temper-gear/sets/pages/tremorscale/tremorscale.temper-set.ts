@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const tremorscale = {
-  id: "01a05fde-b3b4-798f-b66c-0b49fc4c4062",
+  id: "019e6484-6020-7ef0-b469-a92f1af03ca6",
   pageTypeSlug: "temper-set",
   slug: "tremorscale",
   title: "Tremorscale",

@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const knightsValor = {
-  id: "01a05fce-295f-7d7c-a1fa-31853a428e02",
+  id: "019e46b5-7e19-77bb-9d7d-6491294c8491",
   pageTypeSlug: "temper-signature-script",
   slug: "knights-valor",
   title: "Knight's Valor",

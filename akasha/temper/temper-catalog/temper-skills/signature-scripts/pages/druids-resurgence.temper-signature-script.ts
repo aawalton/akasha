@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const druidsResurgence = {
-  id: "01a05fce-295d-77f1-a168-ad3d66e2844a",
+  id: "019e46b5-7e24-79c7-b519-97d697258c8a",
   pageTypeSlug: "temper-signature-script",
   slug: "druids-resurgence",
   title: "Druid's Resurgence",

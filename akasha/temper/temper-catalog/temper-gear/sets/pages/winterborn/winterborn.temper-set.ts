@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const winterborn = {
-  id: "01a05fde-b3cd-7209-bbe3-c275b5c75323",
+  id: "019e6484-5fda-7d66-a1e3-ce214607a3b2",
   pageTypeSlug: "temper-set",
   slug: "winterborn",
   title: "Winterborn",

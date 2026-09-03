@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const fencersParry = {
-  id: "01a05fce-295e-74c6-8cb7-adbe9c7a68f7",
+  id: "019e46b5-7e28-71b8-83e4-23361a64a4ed",
   pageTypeSlug: "temper-signature-script",
   slug: "fencers-parry",
   title: "Fencer's Parry",

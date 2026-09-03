@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const syvarrasScales = {
-  id: "01a05fde-b3a4-7459-af3f-79d78ac06409",
+  id: "019e66e7-6a9d-710d-966e-c48574701466",
   pageTypeSlug: "temper-set",
   slug: "syvarras-scales",
   title: "Syvarra's Scales",

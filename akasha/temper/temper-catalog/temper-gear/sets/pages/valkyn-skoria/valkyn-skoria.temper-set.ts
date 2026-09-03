@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const valkynSkoria = {
-  id: "01a05fde-b3bc-743d-91d6-fb2980aeb1b6",
+  id: "019e6484-6021-7dd6-8949-0a91264ce102",
   pageTypeSlug: "temper-set",
   slug: "valkyn-skoria",
   title: "Valkyn Skoria",

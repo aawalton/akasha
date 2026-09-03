@@ -1,7 +1,7 @@
 import type { TemperSkillBar } from "../temper-skill-bar.page-type.ts"
 
 export const backupSkillBar = {
-  id: "01a05fd0-d54e-7250-8b90-9651e6a25175",
+  id: "019e2fc4-3e97-73ab-9816-94ffaec4b8ae",
   pageTypeSlug: "temper-skill-bar",
   slug: "backup-skill-bar",
   title: "Backup Bar",

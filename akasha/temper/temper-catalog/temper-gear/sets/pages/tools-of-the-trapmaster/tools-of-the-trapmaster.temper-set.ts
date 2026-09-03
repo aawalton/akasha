@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const toolsOfTheTrapmaster = {
-  id: "01a05fde-b3b0-70fb-ba4a-2df9073b900f",
+  id: "019e66e7-6a25-72ce-b975-d54a43d19e24",
   pageTypeSlug: "temper-set",
   slug: "tools-of-the-trapmaster",
   title: "Tools of the Trapmaster",

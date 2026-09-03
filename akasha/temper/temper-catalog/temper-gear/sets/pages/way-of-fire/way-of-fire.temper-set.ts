@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const wayOfFire = {
-  id: "01a05fde-b3c9-7b25-88f6-618109a680fd",
+  id: "019e66e7-6aae-7d27-89e8-72b189121573",
   pageTypeSlug: "temper-set",
   slug: "way-of-fire",
   title: "Way of Fire",

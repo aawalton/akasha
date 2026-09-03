@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const tavasFavor = {
-  id: "01a05fde-b3a5-791d-8405-0c4e32344fca",
+  id: "019e668e-9a69-7bb9-bb95-82450fde090f",
   pageTypeSlug: "temper-set",
   slug: "tavas-favor",
   title: "Tava's Favor",

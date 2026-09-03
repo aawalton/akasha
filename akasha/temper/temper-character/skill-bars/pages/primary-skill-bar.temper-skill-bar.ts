@@ -1,7 +1,7 @@
 import type { TemperSkillBar } from "../temper-skill-bar.page-type.ts"
 
 export const primarySkillBar = {
-  id: "01a05fd0-d54f-74f8-8877-f9e9c14a5b2b",
+  id: "019e2fc4-3e94-7bfc-a0fd-8e710e9df56e",
   pageTypeSlug: "temper-skill-bar",
   slug: "primary-skill-bar",
   title: "Primary Bar",

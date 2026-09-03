@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const willpower = {
-  id: "01a05fde-b3cc-7c06-b19a-eae15aa4f498",
+  id: "019e66ec-79fc-7049-98d7-ba8363977a09",
   pageTypeSlug: "temper-set",
   slug: "willpower",
   title: "Willpower",

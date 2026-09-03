@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const umbralEdge = {
-  id: "01a05fde-b3b9-7dad-8a9a-e2c92b4f31cf",
+  id: "019e6484-5fe9-7a79-8f46-ec9df21a58d5",
   pageTypeSlug: "temper-set",
   slug: "umbral-edge",
   title: "Umbral Edge",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const undauntedUnweaver = {
-  id: "01a05fde-b3ba-755a-ad5b-0e345dd48a3d",
+  id: "019e66e6-a0e2-7aec-aeef-13a7beaae689",
   pageTypeSlug: "temper-set",
   slug: "undaunted-unweaver",
   title: "Undaunted Unweaver",

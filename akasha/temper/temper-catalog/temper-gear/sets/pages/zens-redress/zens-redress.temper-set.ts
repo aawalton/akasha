@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const zensRedress = {
-  id: "01a05fde-b3d4-75f0-97c2-3e4e3b86f1a4",
+  id: "019e66e6-a0e9-764e-976e-fa8493df0ea8",
   pageTypeSlug: "temper-set",
   slug: "zens-redress",
   title: "Z'en's Redress",

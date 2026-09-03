@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const steadfastsMettle = {
-  id: "01a05fdc-9741-70bc-968f-354bb5aa3de3",
+  id: "019e66e7-6a91-7c59-9dfa-6803036c47e2",
   pageTypeSlug: "temper-set",
   slug: "steadfasts-mettle",
   title: "Steadfast's Mettle",

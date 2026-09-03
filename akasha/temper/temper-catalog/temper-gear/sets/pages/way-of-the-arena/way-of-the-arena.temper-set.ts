@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const wayOfTheArena = {
-  id: "01a05fde-b3c9-754e-ae5c-f269fb1c4aab",
+  id: "019e668e-9a74-785a-9079-bdb7c8f63bdf",
   pageTypeSlug: "temper-set",
   slug: "way-of-the-arena",
   title: "Way of the Arena",

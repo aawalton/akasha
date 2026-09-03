@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const voidcaller = {
-  id: "01a05fde-b3c5-7bc7-9757-079e0bae5c7b",
+  id: "019e66e7-6aa9-7dcb-8aab-e65afd08ce04",
   pageTypeSlug: "temper-set",
   slug: "voidcaller",
   title: "Voidcaller",

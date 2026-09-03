@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const stygian = {
-  id: "01a05fde-b39e-7355-8ad4-358cfb546013",
+  id: "019e66e7-6a95-7683-8a17-c166ab2edb58",
   pageTypeSlug: "temper-set",
   slug: "stygian",
   title: "Stygian",

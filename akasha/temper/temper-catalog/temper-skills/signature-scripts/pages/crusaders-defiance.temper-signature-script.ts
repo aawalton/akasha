@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const crusadersDefiance = {
-  id: "01a05fce-295d-7f5a-8dca-ab57dccc6f28",
+  id: "019e46b5-7e26-7ee3-9da7-1a5aaf91a1a1",
   pageTypeSlug: "temper-signature-script",
   slug: "crusaders-defiance",
   title: "Crusader's Defiance",

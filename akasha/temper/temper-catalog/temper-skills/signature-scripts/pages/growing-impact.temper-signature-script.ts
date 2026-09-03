@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const growingImpact = {
-  id: "01a05fce-295e-7902-8382-28398a2852f6",
+  id: "019e46b5-7e2d-7b04-8acc-43125f0be8b1",
   pageTypeSlug: "temper-signature-script",
   slug: "growing-impact",
   title: "Growing Impact",

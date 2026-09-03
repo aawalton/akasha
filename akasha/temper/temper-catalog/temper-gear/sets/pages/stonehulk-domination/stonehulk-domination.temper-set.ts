@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const stonehulkDomination = {
-  id: "01a05fdc-9742-77d4-bb6f-8c001ba669c1",
+  id: "019e66e7-6a21-76b7-a3a2-e3aa4f296a2c",
   pageTypeSlug: "temper-set",
   slug: "stonehulk-domination",
   title: "Stonehulk Domination",

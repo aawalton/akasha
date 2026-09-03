@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const stormweaversCavort = {
-  id: "01a05fde-b39d-7f61-802b-e47abb3e841d",
+  id: "019e6484-603b-72d9-9f93-df2e269c50eb",
   pageTypeSlug: "temper-set",
   slug: "stormweavers-cavort",
   title: "Stormweaver's Cavort",

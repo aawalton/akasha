@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const vicecanonOfVenom = {
-  id: "01a05fde-b3c2-7e4a-8562-4cb415b069ea",
+  id: "019e66ec-79c1-7ba3-aaea-cc3b891d7534",
   pageTypeSlug: "temper-set",
   slug: "vicecanon-of-venom",
   title: "Vicecanon of Venom",

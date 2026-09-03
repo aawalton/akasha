@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const torcOfTonalConstancy = {
-  id: "01a05fde-b3b1-764b-bed6-5da546d5a624",
+  id: "019e6484-6043-7243-9e9b-5c40fa86ada0",
   pageTypeSlug: "temper-set",
   slug: "torc-of-tonal-constancy",
   title: "Torc of Tonal Constancy",

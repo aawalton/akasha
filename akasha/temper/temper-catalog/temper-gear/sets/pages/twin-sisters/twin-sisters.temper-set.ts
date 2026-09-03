@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const twinSisters = {
-  id: "01a05fde-b3b8-732b-9599-95a0c7bc53b7",
+  id: "019e66e7-6aa0-7cf5-bd2f-9619798b3bf1",
   pageTypeSlug: "temper-set",
   slug: "twin-sisters",
   title: "Twin Sisters",

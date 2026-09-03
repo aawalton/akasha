@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const theSaintAndTheSeducer = {
-  id: "01a05fde-b3a9-7c52-a7a5-f8e45127d278",
+  id: "019e6484-603d-7973-abd5-92bf0f4d2712",
   pageTypeSlug: "temper-set",
   slug: "the-saint-and-the-seducer",
   title: "The Saint and the Seducer",

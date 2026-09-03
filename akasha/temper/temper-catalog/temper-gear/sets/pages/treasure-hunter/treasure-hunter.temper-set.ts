@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const treasureHunter = {
-  id: "01a05fde-b3b4-77ed-96fd-3442c4961c50",
+  id: "019e66e6-a0da-7f61-9182-8ebc85778d20",
   pageTypeSlug: "temper-set",
   slug: "treasure-hunter",
   title: "Treasure Hunter",

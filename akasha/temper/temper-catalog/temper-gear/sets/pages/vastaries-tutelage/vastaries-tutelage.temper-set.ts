@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const vastariesTutelage = {
-  id: "01a05fde-b3bf-78d0-92bd-4b4c65e7d69a",
+  id: "019e668e-9a73-79c9-b6d2-64bd85a65bfc",
   pageTypeSlug: "temper-set",
   slug: "vastaries-tutelage",
   title: "Vastarie's Tutelage",

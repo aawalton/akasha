@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const trinimacsValor = {
-  id: "01a05fde-b3b5-76a3-9d38-0e03383f0f23",
+  id: "019e66e7-6a9f-79b3-a491-70e7cafef46a",
   pageTypeSlug: "temper-set",
   slug: "trinimacs-valor",
   title: "Trinimac's Valor",

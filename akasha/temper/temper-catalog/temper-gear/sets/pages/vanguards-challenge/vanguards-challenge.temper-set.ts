@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const vanguardsChallenge = {
-  id: "01a05fde-b3be-786e-be97-2bbb2c8ff995",
+  id: "019e66ec-79a6-74c2-bf18-d4b4227f5436",
   pageTypeSlug: "temper-set",
   slug: "vanguards-challenge",
   title: "Vanguard's Challenge",

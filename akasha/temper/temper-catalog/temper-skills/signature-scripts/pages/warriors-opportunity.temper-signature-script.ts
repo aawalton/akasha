@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const warriorsOpportunity = {
-  id: "01a05fce-2961-7c89-bf0f-a8337630da61",
+  id: "019e46b5-7e2b-7eff-8e10-b466537051a3",
   pageTypeSlug: "temper-signature-script",
   slug: "warriors-opportunity",
   title: "Warrior's Opportunity",

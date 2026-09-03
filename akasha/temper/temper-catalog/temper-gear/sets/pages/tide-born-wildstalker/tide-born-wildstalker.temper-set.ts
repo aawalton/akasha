@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const tideBornWildstalker = {
-  id: "01a05fde-b3ae-7b52-9723-96a81a81cc59",
+  id: "019e66e7-6a23-7f07-99b2-1c3d7a1bb1ac",
   pageTypeSlug: "temper-set",
   slug: "tide-born-wildstalker",
   title: "Tide-Born Wildstalker",

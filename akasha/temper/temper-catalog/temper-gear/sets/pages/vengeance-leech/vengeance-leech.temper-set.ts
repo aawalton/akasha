@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const vengeanceLeech = {
-  id: "01a05fde-b3c0-7266-bd5f-35b54bf1728e",
+  id: "019e66ec-79b4-712e-93a9-8975720bd6d2",
   pageTypeSlug: "temper-set",
   slug: "vengeance-leech",
   title: "Vengeance Leech",

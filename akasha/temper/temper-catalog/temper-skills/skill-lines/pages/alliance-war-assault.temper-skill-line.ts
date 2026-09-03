@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const allianceWarAssault = {
-  id: "01a05fce-2965-7fe5-a4c7-9f6423a2734b",
+  id: "019e61dc-f1ce-7741-a5c3-6915eac5e6b9",
   pageTypeSlug: "temper-skill-line",
   slug: "alliance-war-assault",
   title: "Assault",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const witchmanArmor = {
-  id: "01a05fde-b3ce-7938-b81c-77b26eeb1643",
+  id: "019e66e7-6ab6-79a6-a18e-105ab54f1315",
   pageTypeSlug: "temper-set",
   slug: "witchman-armor",
   title: "Witchman Armor",

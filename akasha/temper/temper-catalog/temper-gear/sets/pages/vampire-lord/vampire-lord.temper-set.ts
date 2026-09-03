@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const vampireLord = {
-  id: "01a05fde-b3bd-7ec8-8b05-19bf9bb732a6",
+  id: "019e66e7-6aa4-7ad9-b9b9-987cc1a153f5",
   pageTypeSlug: "temper-set",
   slug: "vampire-lord",
   title: "Vampire Lord",

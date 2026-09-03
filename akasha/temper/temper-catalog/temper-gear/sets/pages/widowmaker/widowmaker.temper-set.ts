@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const widowmaker = {
-  id: "01a05fde-b3cb-7a50-ba8e-c8fcad4d8e7b",
+  id: "019e66e6-a0e8-74f8-9784-48b230f1e17f",
   pageTypeSlug: "temper-set",
   slug: "widowmaker",
   title: "Widowmaker",

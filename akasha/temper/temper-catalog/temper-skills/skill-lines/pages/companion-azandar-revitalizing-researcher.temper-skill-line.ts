@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionAzandarRevitalizingResearcher = {
-  id: "01a05fce-2968-7a76-a41b-dc182a5e43c5",
+  id: "019e61dc-f214-7515-98f6-0428ca9efceb",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-azandar-revitalizing-researcher",
   title: "Revitalizing Researcher",

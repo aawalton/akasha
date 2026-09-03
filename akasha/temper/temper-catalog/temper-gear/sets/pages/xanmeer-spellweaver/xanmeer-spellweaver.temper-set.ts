@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const xanmeerSpellweaver = {
-  id: "01a05fde-b3d2-755d-b54d-315c1070a953",
+  id: "019e66e7-6a2b-74da-ba9d-9ef177bca14e",
   pageTypeSlug: "temper-set",
   slug: "xanmeer-spellweaver",
   title: "Xanmeer Spellweaver",

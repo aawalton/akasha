@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const wilderqueensArch = {
-  id: "01a05fde-b3cb-7346-9e9d-879768e2cf65",
+  id: "019e66e7-6ab1-76ce-863f-964ef7a17e53",
   pageTypeSlug: "temper-set",
   slug: "wilderqueens-arch",
   title: "Wilderqueen's Arch",

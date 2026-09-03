@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const threadsOfWar = {
-  id: "01a05fde-b3ac-7077-add5-655f79592234",
+  id: "019e668e-9a6c-77dc-95f9-a53aeacba0df",
   pageTypeSlug: "temper-set",
   slug: "threads-of-war",
   title: "Threads of War",

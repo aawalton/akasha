@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const voidBash = {
-  id: "01a05fde-b3c4-77ed-baeb-14a8b585d742",
+  id: "019e6484-5fd9-706e-b092-fb9b92bcf419",
   pageTypeSlug: "temper-set",
   slug: "void-bash",
   title: "Void Bash",

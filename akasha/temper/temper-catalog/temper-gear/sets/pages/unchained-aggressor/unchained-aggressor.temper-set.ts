@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const unchainedAggressor = {
-  id: "01a05fde-b3b9-7622-b5e9-2f38e8b77de0",
+  id: "019e668e-9a70-7e07-b644-085ea51b3c74",
   pageTypeSlug: "temper-set",
   slug: "unchained-aggressor",
   title: "Unchained Aggressor",

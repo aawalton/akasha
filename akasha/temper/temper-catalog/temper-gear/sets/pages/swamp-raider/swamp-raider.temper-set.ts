@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const swampRaider = {
-  id: "01a05fde-b3a0-7583-b1a1-b1885f2a6b0c",
+  id: "019e66e7-6a96-788c-855b-5b5d24fb3f36",
   pageTypeSlug: "temper-set",
   slug: "swamp-raider",
   title: "Swamp Raider",

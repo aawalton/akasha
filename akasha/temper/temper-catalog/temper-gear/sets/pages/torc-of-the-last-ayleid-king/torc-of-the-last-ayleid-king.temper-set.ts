@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const torcOfTheLastAyleidKing = {
-  id: "01a05fde-b3b1-7283-a3b0-35ac8306ab81",
+  id: "019e6484-6041-7a15-a959-0ed692cc80b9",
   pageTypeSlug: "temper-set",
   slug: "torc-of-the-last-ayleid-king",
   title: "Torc of the Last Ayleid King",

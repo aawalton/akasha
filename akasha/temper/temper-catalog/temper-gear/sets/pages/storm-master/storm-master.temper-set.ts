@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const stormMaster = {
-  id: "01a05fde-b39b-7fc7-9a8a-55d0b498dd74",
+  id: "019e66e6-a0cc-7119-bfe8-7322d1e263a8",
   pageTypeSlug: "temper-set",
   slug: "storm-master",
   title: "Storm Master",

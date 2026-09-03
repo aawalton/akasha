@@ -1,7 +1,7 @@
 import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.ts"
 
 export const racial = {
-  id: "01a05fce-2964-7747-a312-42ff49b6f39b",
+  id: "019e2fc7-4af8-7d18-b7ae-5f611085b256",
   pageTypeSlug: "temper-skill-line-category",
   slug: "racial",
   title: "Racial",

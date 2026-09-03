@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const varensLegacy = {
-  id: "01a05fde-b3bf-7bc6-b710-3821d0b67160",
+  id: "019e668e-9a72-7b18-b371-4adc22e15d16",
   pageTypeSlug: "temper-set",
   slug: "varens-legacy",
   title: "Varen's Legacy",

@@ -1,7 +1,7 @@
 import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.ts"
 
 export const companion = {
-  id: "01a05fce-2963-7591-ac58-49b576983390",
+  id: "019e2fc7-4afa-704c-b32b-dcdacbbb127d",
   pageTypeSlug: "temper-skill-line-category",
   slug: "companion",
   title: "Companion",

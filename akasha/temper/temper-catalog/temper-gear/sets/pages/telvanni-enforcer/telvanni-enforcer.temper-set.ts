@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const telvanniEnforcer = {
-  id: "01a05fde-b3a6-7612-bbae-f4efdd9f6d31",
+  id: "019e66e6-a0d2-780d-bc7f-8b995fab4265",
   pageTypeSlug: "temper-set",
   slug: "telvanni-enforcer",
   title: "Telvanni Enforcer",

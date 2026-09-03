@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const trialByFire = {
-  id: "01a05fde-b3b5-7d23-a319-1be81176d209",
+  id: "019e668e-9a6e-73cb-8573-fd7cec7a033b",
   pageTypeSlug: "temper-set",
   slug: "trial-by-fire",
   title: "Trial by Fire",

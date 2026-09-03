@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const sagesRemedy = {
-  id: "01a05fce-2961-74d9-8153-e7ef49bc4598",
+  id: "019e46b5-7e22-76ed-81aa-790f2c92ce84",
   pageTypeSlug: "temper-signature-script",
   slug: "sages-remedy",
   title: "Sage's Remedy",

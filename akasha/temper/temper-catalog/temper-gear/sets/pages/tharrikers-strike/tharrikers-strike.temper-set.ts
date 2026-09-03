@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const tharrikersStrike = {
-  id: "01a05fde-b3a7-7074-9c5d-d9de13af5276",
+  id: "019e668e-9a6b-78e1-b9fe-5f24c50aec4b",
   pageTypeSlug: "temper-set",
   slug: "tharrikers-strike",
   title: "Tharriker's Strike",

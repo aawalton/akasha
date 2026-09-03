@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const stoneHusk = {
-  id: "01a05fdc-9743-7497-a0fb-beece47adb3d",
+  id: "019e6484-6019-7596-b603-551f7c9b0d59",
   pageTypeSlug: "temper-set",
   slug: "stone-husk",
   title: "Stone Husk",

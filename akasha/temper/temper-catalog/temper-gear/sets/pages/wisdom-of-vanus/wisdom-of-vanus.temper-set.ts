@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const wisdomOfVanus = {
-  id: "01a05fde-b3cd-793b-81c7-73da2c6a83f0",
+  id: "019e66e7-6ab4-71b2-b679-27808e19c95e",
   pageTypeSlug: "temper-set",
   slug: "wisdom-of-vanus",
   title: "Wisdom of Vanus",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const toothrow = {
-  id: "01a05fde-b3b1-7beb-83fb-964dc1667c3a",
+  id: "019e66e6-a0d7-7e4b-97ef-dafc54efde95",
   pageTypeSlug: "temper-set",
   slug: "toothrow",
   title: "Toothrow",

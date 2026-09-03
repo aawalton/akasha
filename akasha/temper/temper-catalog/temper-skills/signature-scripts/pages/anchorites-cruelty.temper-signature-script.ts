@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const anchoritesCruelty = {
-  id: "01a05fce-295b-7b64-8c11-5b95cf2af9a6",
+  id: "019e46b5-7e20-7414-8f7d-e202fdea640c",
   pageTypeSlug: "temper-signature-script",
   slug: "anchorites-cruelty",
   title: "Anchorite's Cruelty",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const warMachine = {
-  id: "01a05fde-b3c6-7eca-81ad-58860a2adcd0",
+  id: "019e66ec-7f0b-7eed-b54a-642ed05a7282",
   pageTypeSlug: "temper-set",
   slug: "war-machine",
   title: "War Machine",

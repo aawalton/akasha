@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const vestmentOfOlorime = {
-  id: "01a05fde-b3c1-7b1a-b2d7-c403ff40d5f8",
+  id: "019e66ec-7edd-7f91-92d7-97ba8d53834e",
   pageTypeSlug: "temper-set",
   slug: "vestment-of-olorime",
   title: "Vestment of Olorime",

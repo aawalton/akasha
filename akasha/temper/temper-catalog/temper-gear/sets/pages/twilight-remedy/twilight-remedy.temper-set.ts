@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const twilightRemedy = {
-  id: "01a05fde-b3b7-7ca5-a8b4-cb2bc095b6c1",
+  id: "019e66ec-7ece-7ac4-a18c-1c6a13b1ec85",
   pageTypeSlug: "temper-set",
   slug: "twilight-remedy",
   title: "Twilight Remedy",

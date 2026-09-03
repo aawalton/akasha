@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const tzogvinsWarband = {
-  id: "01a05fde-b3b8-73a3-aad1-4c9f13eaafad",
+  id: "019e66e6-a0de-744c-ad91-f1875f3412bf",
   pageTypeSlug: "temper-set",
   slug: "tzogvins-warband",
   title: "Tzogvin's Warband",

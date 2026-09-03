@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const twiceFangedSerpent = {
-  id: "01a05fde-b3b6-73fc-a872-196ee89acc2a",
+  id: "019e66ec-7ebf-7796-a304-b5a51b852574",
   pageTypeSlug: "temper-set",
   slug: "twice-fanged-serpent",
   title: "Twice-Fanged Serpent",

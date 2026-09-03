@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const theMoragTong = {
-  id: "01a05fde-b3a9-7b02-8e30-13f858a935d3",
+  id: "019e66ec-797c-7561-83dd-845686823519",
   pageTypeSlug: "temper-set",
   slug: "the-morag-tong",
   title: "The Morag Tong",

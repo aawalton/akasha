@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const whitestrakesRetribution = {
-  id: "01a05fde-b3ca-7cf5-843f-ffd3d447d877",
+  id: "019e668e-9a75-77a0-8d45-c84c42e3c597",
   pageTypeSlug: "temper-set",
   slug: "whitestrakes-retribution",
   title: "Whitestrake's Retribution",

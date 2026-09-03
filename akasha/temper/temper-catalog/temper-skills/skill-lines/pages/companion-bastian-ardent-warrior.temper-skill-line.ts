@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionBastianArdentWarrior = {
-  id: "01a05fce-2969-7c13-9522-45d87874232e",
+  id: "019e61dc-f1f8-73d6-b103-dae1ac68511a",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-bastian-ardent-warrior",
   title: "Ardent Warrior",

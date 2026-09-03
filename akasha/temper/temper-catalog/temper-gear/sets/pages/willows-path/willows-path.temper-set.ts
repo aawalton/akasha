@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const willowsPath = {
-  id: "01a05fde-b3cc-70a0-a5ae-deaa53ebaa4d",
+  id: "019e668e-9a76-7b8a-9f2e-f5c1e6f0ae06",
   pageTypeSlug: "temper-set",
   slug: "willows-path",
   title: "Willow's Path",

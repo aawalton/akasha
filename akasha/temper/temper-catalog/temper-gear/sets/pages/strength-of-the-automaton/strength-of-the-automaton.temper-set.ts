@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const strengthOfTheAutomaton = {
-  id: "01a05fde-b39e-765f-a2a5-266da916ebc8",
+  id: "019e66e6-a0cd-729a-8fda-cd82ea656329",
   pageTypeSlug: "temper-set",
   slug: "strength-of-the-automaton",
   title: "Strength of the Automaton",

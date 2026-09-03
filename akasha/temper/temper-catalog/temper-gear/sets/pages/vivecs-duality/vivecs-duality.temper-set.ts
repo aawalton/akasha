@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const vivecsDuality = {
-  id: "01a05fde-b3c4-7b14-8fb0-9369c339ab02",
+  id: "019e66e7-6aa8-7996-96d5-d7e516b7bf6e",
   pageTypeSlug: "temper-set",
   slug: "vivecs-duality",
   title: "Vivec's Duality",

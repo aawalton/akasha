@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const talfygsTreachery = {
-  id: "01a05fde-b3a4-7c02-9225-f2053635f88a",
+  id: "019e66e6-a0d0-757f-b6cd-f6c5c33a91f9",
   pageTypeSlug: "temper-set",
   slug: "talfygs-treachery",
   title: "Talfyg's Treachery",

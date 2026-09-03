@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const wildImpulse = {
-  id: "01a05fde-b3cb-7867-bba5-a89a0346b137",
+  id: "019e6484-5fd9-7e92-aa16-0c3ca1b78321",
   pageTypeSlug: "temper-set",
   slug: "wild-impulse",
   title: "Wild Impulse",

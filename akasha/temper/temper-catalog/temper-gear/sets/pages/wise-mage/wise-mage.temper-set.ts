@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const wiseMage = {
-  id: "01a05fde-b3ce-7b27-bb41-3e67cad6359a",
+  id: "019e66ec-7f2a-7efc-bd43-829b854ad840",
   pageTypeSlug: "temper-set",
   slug: "wise-mage",
   title: "Wise Mage",

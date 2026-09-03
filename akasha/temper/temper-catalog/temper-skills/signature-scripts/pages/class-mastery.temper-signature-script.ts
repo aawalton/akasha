@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const classMastery = {
-  id: "01a05fce-295d-7f69-b529-09386f89b180",
+  id: "019e46b5-7e21-7592-8641-5b79beabc190",
   pageTypeSlug: "temper-signature-script",
   slug: "class-mastery",
   title: "Class Mastery",

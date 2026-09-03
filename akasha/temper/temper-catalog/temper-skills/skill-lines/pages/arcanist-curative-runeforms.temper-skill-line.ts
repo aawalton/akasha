@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const arcanistCurativeRuneforms = {
-  id: "01a05fce-2966-7748-b864-0c98655165c9",
+  id: "019e61dc-f1bb-7e14-8b92-b79675e26f76",
   pageTypeSlug: "temper-skill-line",
   slug: "arcanist-curative-runeforms",
   title: "Curative Runeforms",

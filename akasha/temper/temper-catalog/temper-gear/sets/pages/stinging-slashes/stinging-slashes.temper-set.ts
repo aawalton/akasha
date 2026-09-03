@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const stingingSlashes = {
-  id: "01a05fdc-9742-75a8-86e5-74881d573ccc",
+  id: "019e6484-5fd5-75d6-b949-b347d26d5ff6",
   pageTypeSlug: "temper-set",
   slug: "stinging-slashes",
   title: "Stinging Slashes",

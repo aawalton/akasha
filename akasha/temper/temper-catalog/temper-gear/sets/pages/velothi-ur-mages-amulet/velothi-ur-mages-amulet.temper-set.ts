@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const velothiUrMagesAmulet = {
-  id: "01a05fde-b3c0-77c0-a00f-b52263672d43",
+  id: "019e6484-6044-7b18-ab3b-6139519f6ab3",
   pageTypeSlug: "temper-set",
   slug: "velothi-ur-mages-amulet",
   title: "Velothi Ur-Mage's Amulet",

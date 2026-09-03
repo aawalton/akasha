@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const wizardsRiposte = {
-  id: "01a05fde-b3cf-736d-8312-fa01e2e3ce9b",
+  id: "019e66ec-7a09-7f60-a5a7-317664a7433f",
   pageTypeSlug: "temper-set",
   slug: "wizards-riposte",
   title: "Wizard's Riposte",

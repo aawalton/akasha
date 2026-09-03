@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const warMaiden = {
-  id: "01a05fde-b3c7-7098-9aa9-475ecd64ad0f",
+  id: "019e66e7-6aab-70cc-8df9-2fe7b441df91",
   pageTypeSlug: "temper-set",
   slug: "war-maiden",
   title: "War Maiden",

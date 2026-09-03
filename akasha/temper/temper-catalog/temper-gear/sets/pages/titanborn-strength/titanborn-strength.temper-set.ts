@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const titanbornStrength = {
-  id: "01a05fde-b3af-7f3f-8f51-a27f6e517a5f",
+  id: "019e66e6-a0d6-7d7f-85a6-2f6ed988f791",
   pageTypeSlug: "temper-set",
   slug: "titanborn-strength",
   title: "Titanborn Strength",

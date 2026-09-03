@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const swordSinger = {
-  id: "01a05fde-b3a1-755e-a1d9-cbe9802831af",
+  id: "019e66e7-6a97-7d21-9698-6f99a08a58fb",
   pageTypeSlug: "temper-set",
   slug: "sword-singer",
   title: "Sword-Singer",

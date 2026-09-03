@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const wayfarersMastery = {
-  id: "01a05fce-2962-7faf-a27d-69e3561a4ba4",
+  id: "019e46b5-7e2b-723d-b70a-2d2ffe80f007",
   pageTypeSlug: "temper-signature-script",
   slug: "wayfarers-mastery",
   title: "Wayfarer's Mastery",

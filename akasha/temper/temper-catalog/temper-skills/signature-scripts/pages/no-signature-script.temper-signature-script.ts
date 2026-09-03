@@ -1,7 +1,7 @@
 import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
 
 export const noSignatureScript = {
-  id: "01a05fce-2960-7334-8730-ff4eaf9ee1fe",
+  id: "019e46b5-7e11-7dd2-9c07-3031b4b7eb69",
   pageTypeSlug: "temper-signature-script",
   slug: "no-signature-script",
   title: "No Signature Script",
