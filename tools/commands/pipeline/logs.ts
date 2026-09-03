@@ -1,8 +1,7 @@
-
 export const summary = "Fetch pod logs for one step of a pipeline (via Loki)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { chooseLogsDiagnostic, describeBounds } from "../../lib/loki-diagnostics.ts"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { chooseLogsDiagnostic, describeBounds } from "@akasha/service-system/log-bound-saying"
 import {
   fetchAllLokiLogs,
   fetchLokiLogs,
@@ -11,10 +10,10 @@ import {
   LOKI_RETENTION_LABEL,
   parseLokiDuration,
   parseLokiPositiveInt,
-} from "../../lib/loki-fetch.ts"
+} from "@akasha/service-system/loki-log-fetching"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { getPipelineBySeq, resolveStepPodName } from "../../lib/pipeline-pages/read.ts"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

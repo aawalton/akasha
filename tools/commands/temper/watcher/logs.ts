@@ -1,18 +1,19 @@
-export const summary = "Read workstation watcher.log + tray.log as JSONL ({timestamp, line, source, level}) — mirrors `ops loki logs`."
+export const summary =
+  "Read workstation watcher.log + tray.log as JSONL ({timestamp, line, source, level}) — mirrors `ops loki logs`."
 
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import type { CommandHelp } from "../../../ops/surface.ts"
+import { parseLokiDuration } from "@akasha/service-system/loki-log-fetching"
+import { watcherLogDir } from "@akasha/temper-watcher/watcher-paths"
 import { dataError, inputError } from "../../../lib/exit.ts"
-import { parseLokiDuration } from "../../../lib/loki-fetch.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { mergeNewestFirst } from "../../../lib/temper-watcher-merge-newest-first.ts"
-import { watcherLogDir } from "@akasha/temper-watcher/watcher-paths"
 import {
   type LogSource,
   type ParsedLogLine,
   parseLogLine,
 } from "../../../lib/temper-watcher-parse-log-line.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 const LOG_DIR_FLAG = "--log-dir"
 

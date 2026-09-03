@@ -1,8 +1,6 @@
 export const summary = "Fetch pod logs from Loki (JSONL; filter with jq)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { inputError } from "../../lib/exit.ts"
-import { chooseLogsDiagnostic, describeBounds } from "../../lib/loki-diagnostics.ts"
+import { chooseLogsDiagnostic, describeBounds } from "@akasha/service-system/log-bound-saying"
 import {
   fetchAllLokiLogs,
   fetchLokiLogs,
@@ -11,9 +9,11 @@ import {
   LOKI_RETENTION_LABEL,
   parseLokiDuration,
   parseLokiPositiveInt,
-} from "../../lib/loki-fetch.ts"
+} from "@akasha/service-system/loki-log-fetching"
+import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { commitSha40, inputsHash12 } from "../../lib/workflow-dsl/ci-identifiers.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
