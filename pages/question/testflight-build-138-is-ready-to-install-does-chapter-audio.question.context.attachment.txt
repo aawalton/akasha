@@ -1,1 +1,0 @@
-Build 138 carries all three shell fixes: #15686 (chapter audio — tap play on the latest Ione chapter; the old 'Error' should be gone, seek should work), #15690 (pull-to-refresh false-fires killed — just note over normal use whether random full refreshes stopped; web side already live), #15692 (count badge visible on mobile). Your confirmation closes #15686 and #15690.

@@ -1,1 +1,0 @@
-The editor has no distinct 'context menu above the keyboard'; the only above-keyboard surface is the accessory bar, and its trash-icon path is the one we already fixed. Your 04:02Z option tap flipped the question answered but the pre-#15519 resolve surface never delivered which option you chose. Worker-15514-b is holding the keyboard fix on this answer.

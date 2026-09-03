@@ -1,1 +1,0 @@
-You flagged that the sticky top bar slides up out of the safe area instead of hiding in focus mode. Worker-15536-b is fixing hide-all-chrome now (plus surface-0 and the missing block-actions bar). This decides the hidden state's one remaining element: title visible as a floating breadcrumb vs completely clean canvas.

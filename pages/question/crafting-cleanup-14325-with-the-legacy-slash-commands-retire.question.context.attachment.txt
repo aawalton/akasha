@@ -1,1 +1,0 @@
-The folded crafting addons (WritWorthy/CraftStore/PotionMaker) answered /writworthy, //cs, /potionmaker — all retired per your ruling. The replacement Temper-native commands exist but have no discovery surface. My lean is (a): one /temper help command listing every Temper slash command — a single discoverable entry point that scales as domains add commands.

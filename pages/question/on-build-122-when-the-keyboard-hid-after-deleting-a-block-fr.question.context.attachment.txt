@@ -1,1 +1,0 @@
-The editor has only one above-keyboard surface (the accessory bar: indent/outdent/move/turn-into/duplicate/delete). Its trash icon is the path we already fixed, so pinning the exact failing affordance decides where the remaining fix goes. A screenshot works too if none of these match.

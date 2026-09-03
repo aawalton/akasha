@@ -1,9 +1,0 @@
-WHAT HAPPENED: CNPG promoted postgres-cnpg-2 (node-02) at 07-24 16:44:01Z, timeline 11. Why the old primary was lost is unknown — postgres logs rotated. Estate mean latency went 0.225 -> 0.823 ms and has stayed there.
-
-MEASURED (byte-identical work, shared hit=47, zero temp buffers, single-threaded): node-02 median 753.8 ms vs node-03 365.3 ms = 2.06x slower, and node-02's BEST run is 1.42x worse than node-03's WORST. Distributions disjoint. node-02 = i7-7800X (Skylake-X 2017, 6 cores); node-03 = i7-10700F (Comet Lake 2020, 8 cores). The failover moved the DB from a 2020 8-core box to a 2017 6-core box.
-
-TWO THINGS I AM FIXING REGARDLESS, no decision needed: #16149 CI step pods have no anti-affinity and land on the primary's node (a sweep shard was the 2nd-largest CPU consumer on node-02 at 1361m); #16060 voice-infer is nodeName-pinned to node-02 on a justification already proven false.
-
-WHY IT NEEDS YOU: a deliberate switchover is a production DB failover, your risk call not mine. And athena's nine-day 'we have handled 47% more load at a quarter the latency' control was measured entirely on node-03 — so node-02's headroom is unestablished, while the fleet is ramping (pipelines 0 -> 215 -> 290 across 07-23/24/25). Waiting risks finding the new ceiling in production.
-
-Nothing is data-threatening; this is performance and headroom only.

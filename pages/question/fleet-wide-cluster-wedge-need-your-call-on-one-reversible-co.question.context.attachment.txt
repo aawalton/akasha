@@ -1,1 +1,0 @@
-node-03 stuck-cordoned ~12min (manual kubectl, no active upgrade, node healthy) → strands storage-bound registry+git-transport+postgres replica → registry down → fleet-wide ErrImagePull, 23 workers crashlooping + pipeline lag, still spreading. Fix: kubectl uncordon node-03 (reversible). Control-plane node + your standing node-decisions-are-mine gate = your call: go or hold.

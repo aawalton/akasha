@@ -1,5 +1,0 @@
-You ruled today that Aelwyn's morning ritual comes out. Her handoff flagged the air-quality gate as the risky part — asthmatic bronchitis, a flare costs weeks, and the medicine domain deliberately does not build a second reader of that fact because this gate exists.
-
-I measured it and the risk is smaller than it looked. The gate is NOT only in the ritual. There is a live coaching-constraint row ("Air quality is a hard medical gate", tagged for every focus) that I watched render in `bun ops exercise digest` just now, and it says to check `bun ops tracking air-quality` before ever recommending outdoor work. The verb itself is standalone. So after the removal the gate still fires at session time — at the moment of exertion, which is arguably the better place for it. Same for Vyvanse: the dose lives on a live recurring task and `bun ops meds taken-today` reads it.
-
-So nothing about the medical fact is lost. What is lost is the unprompted daily beat — hearing the one-word air verdict and a meds nudge each morning without asking for either. That is a preference about what reaches you unbidden, not a safety question, which is why I'm asking rather than deciding.

@@ -1,1 +1,0 @@
-aranya (ground layer) update: node-03 off-network 30+ min after a hung reboot. Everything else is stable and SAFE — DB primary healthy, all running work fine, no data risk. Only new CI pushes/deploys are wedged until node-03 returns (they retry fine once it's back). aranya owns the recovery and will send an all-clear; the physical power-cycle is the only part that needs you.

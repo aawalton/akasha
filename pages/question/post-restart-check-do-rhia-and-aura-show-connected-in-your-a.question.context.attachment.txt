@@ -1,1 +1,0 @@
-Both were deliberately restarted after your both-dark confirm (~1-2 min ago; sessions preserved). If either is STILL dark, its boot missed registration again — I hold off on further restarts (no thrashing) and escalate that seat into #15611, the boot-registration root-cause row this pattern just earned.
