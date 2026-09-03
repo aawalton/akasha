@@ -506,6 +506,14 @@
         "@tools/lib": "workspace:*",
       },
     },
+    "akasha/changes/test-fanout": {
+      "name": "@akasha/test-fanout",
+      "dependencies": {
+        "@akasha/checks": "workspace:*",
+        "@tools/lib": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/changes/workflow-language": {
       "name": "@akasha/workflow-language",
       "dependencies": {
@@ -3651,6 +3659,8 @@
     "@akasha/temper-watcher": ["@akasha/temper-watcher@workspace:akasha/temper/temper-watcher"],
 
     "@akasha/temper-web": ["@akasha/temper-web@workspace:akasha/temper/temper-web"],
+
+    "@akasha/test-fanout": ["@akasha/test-fanout@workspace:akasha/changes/test-fanout"],
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
 

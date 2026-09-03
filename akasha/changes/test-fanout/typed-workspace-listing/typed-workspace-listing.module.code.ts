@@ -1,11 +1,7 @@
 #!/usr/bin/env bun
 
-import { loadTestStepInputs } from "../../../checks/cluster-checks/modules/test-step-loading/test-step-loading.module.code.ts"
-import {
-  findTestBearingRoots,
-  TEST_TYPES,
-  type TestType,
-} from "../../../checks/cluster-checks/modules/test-step-paths/test-step-paths.module.code.ts"
+import { loadTestStepInputs } from "@akasha/checks/test-step-loading"
+import { findTestBearingRoots, TEST_TYPES, type TestType } from "@akasha/checks/test-step-paths"
 
 function isTestType(value: string): value is TestType {
   return TEST_TYPES.some((t) => t === value)

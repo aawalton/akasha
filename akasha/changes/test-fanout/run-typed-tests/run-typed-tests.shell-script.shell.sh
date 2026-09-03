@@ -2,7 +2,8 @@
 
 set -e -o pipefail
 
-FANOUT_DIR="$(cd -- "$(dirname -- "$(readlink -f -- "${BASH_SOURCE[0]}")")" && pwd -P)"
+SCRIPT_DIR="$(cd -- "$(dirname -- "$(readlink -f -- "${BASH_SOURCE[0]}")")" && pwd -P)"
+FANOUT_DIR="$(dirname -- "$SCRIPT_DIR")"
 
 WORKSPACE_ROOT="$1"
 TEST_TYPE="$2"
@@ -26,7 +27,7 @@ PARALLELISM="${TYPE_PARALLELISM[$TEST_TYPE]:-12}"
 
 cd "${WORKSPACE_ROOT}"
 
-BEARING_ROOTS=$(bun "${FANOUT_DIR}/list-typed-workspaces.ts" \
+BEARING_ROOTS=$(bun "${FANOUT_DIR}/typed-workspace-listing/typed-workspace-listing.module.code.ts" \
   "${WORKSPACE_ROOT}" "${TEST_TYPE}")
 
 if [ -z "$BEARING_ROOTS" ]; then
@@ -49,14 +50,16 @@ export CRASH_LIST_FILE="$CRASH_LIST"
 export ASSERTED_COUNT_FILE="$ASSERTED_COUNTS"
 
 attribute_failure() {
-  bun "${FANOUT_DIR}/attribute-fanout-failure.ts" \
+  bun "${FANOUT_DIR}/fanout-failure-attribution/fanout-failure-attribution.module.code.ts" \
     --log "$FANOUT_LOG" --test-type "$TEST_TYPE" >&2 || true
 }
+
+WORKSPACE_TESTS_SH="${FANOUT_DIR}/run-workspace-tests/run-workspace-tests.shell-script.shell.sh"
 
 set +e
 echo "$BEARING_ROOTS" \
   | xargs -P "$PARALLELISM" -I {} \
-    bash "${FANOUT_DIR}/run-workspace-tests.sh" \
+    bash "${WORKSPACE_TESTS_SH}" \
       "${WORKSPACE_ROOT}" "{}" "${INPUTS_HASH}" "${TEST_TYPE}" \
   | tee -a "$FANOUT_LOG"
 PHASE1_RC="${PIPESTATUS[1]}"
@@ -92,7 +95,7 @@ while IFS= read -r pkg; do
   [ -z "$pkg" ] && continue
   echo "[run-typed-tests] ${TEST_TYPE}: isolated re-run of ${pkg}"
   set +e
-  bash "${FANOUT_DIR}/run-workspace-tests.sh" \
+  bash "${WORKSPACE_TESTS_SH}" \
     "${WORKSPACE_ROOT}" "${pkg}" "${INPUTS_HASH}" "${TEST_TYPE}" \
     | tee -a "$FANOUT_LOG"
   RERUN_RC="${PIPESTATUS[0]}"

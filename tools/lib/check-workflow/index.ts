@@ -179,7 +179,7 @@ function checkConfigs(codeRoot: string): readonly CheckConfig[] {
         SUPABASE_SERVICE_ROLE_KEY: secret(SECRETS.SUPABASE_SERVICE_ROLE_KEY),
       },
       commands: (ci) => [
-        `bash "$AKASHA_ROOT/tools/lib/ci-test-fanout/run-typed-tests.sh" ${ci.workspace} ${testStep.testType} ${ci.inputsHash}`,
+        `bash "$AKASHA_ROOT/akasha/changes/test-fanout/run-typed-tests/run-typed-tests.shell-script.shell.sh" ${ci.workspace} ${testStep.testType} ${ci.inputsHash}`,
       ],
     })
   )

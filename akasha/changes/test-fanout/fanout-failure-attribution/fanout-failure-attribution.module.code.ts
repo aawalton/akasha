@@ -6,8 +6,8 @@ import {
   type FanoutTriageResult,
   normalizeLogInput,
   UNATTRIBUTED_SECTION,
-} from "../triage-fanout-log.ts"
-import { renderResult } from "../triage-fanout-render.ts"
+} from "@tools/lib/triage-fanout-log"
+import { renderResult } from "@tools/lib/triage-fanout-render"
 
 const PREFIX = "[run-typed-tests]"
 

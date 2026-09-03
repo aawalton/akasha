@@ -2,7 +2,8 @@
 
 import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
-import type { Repo } from "@akasha/pages-system/markdown-document"
+import { CODE_REPO } from "@akasha/checks/repo-scope"
+import { TEST_TYPES } from "@akasha/checks/test-step-paths"
 import { buildFrom, readAt } from "@tools/lib/graph/held-snapshot"
 import {
   IMPORT_DYNAMIC_EDGE_TYPE,
@@ -17,7 +18,6 @@ import { repoTree } from "@tools/lib/graph/producers/lib/repo-tree"
 import { workspaceDirsAt } from "@tools/lib/graph/producers/lib/workspace-dirs"
 import { transitiveClosure } from "@tools/lib/graph/queries/transitive"
 import type { BuildContext } from "@tools/lib/graph/types"
-import { TEST_TYPES } from "../../../checks/cluster-checks/modules/test-step-paths/test-step-paths.module.code.ts"
 import {
   computeTestReachability,
   type ReachabilityHelpers,
@@ -25,8 +25,6 @@ import {
 
 const PREFIX = "[compute-reverse-reachability]"
 const SCHEMA_VERSION = 2
-
-const CODE_REPO: Repo = "code"
 
 const ROOT_MARKER = "bun.lock"
 

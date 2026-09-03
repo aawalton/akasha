@@ -145,9 +145,9 @@ export const STATIC_CHECKS: CheckConfig[] = [
     dispatchNodeTypes: [...TS_POPULATION, ...PACKAGE_POPULATION],
     dispatchNodes: [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-test-step-paths.ts",
-      "ts-file:instructions:tools/lib/check-workflow/test-step-paths.ts",
-      "ts-file:instructions:tools/lib/check-workflow/test-step-loader.ts",
-      "ts-file:instructions:tools/lib/ci-test-fanout/list-typed-workspaces.ts",
+      "ts-file:instructions:akasha/checks/cluster-checks/modules/test-step-paths/test-step-paths.module.code.ts",
+      "ts-file:instructions:akasha/checks/cluster-checks/modules/test-step-loading/test-step-loading.module.code.ts",
+      "ts-file:instructions:akasha/changes/test-fanout/typed-workspace-listing/typed-workspace-listing.module.code.ts",
     ],
     script: "infra/cluster-checks/src/checks/check-test-step-paths.ts",
   },

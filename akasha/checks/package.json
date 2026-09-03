@@ -5,7 +5,10 @@
   "exports": {
     "./change-walking": "./modules/change-walking/change-walking.module.code.ts",
     "./checking": "./modules/checking/checking.module.code.ts",
-    "./judging": "./modules/judging/judging.module.code.ts"
+    "./judging": "./modules/judging/judging.module.code.ts",
+    "./repo-scope": "./cluster-checks/modules/repo-scope/repo-scope.module.code.ts",
+    "./test-step-loading": "./cluster-checks/modules/test-step-loading/test-step-loading.module.code.ts",
+    "./test-step-paths": "./cluster-checks/modules/test-step-paths/test-step-paths.module.code.ts"
   },
   "dependencies": {
     "@akasha/k8s-synth": "workspace:*",

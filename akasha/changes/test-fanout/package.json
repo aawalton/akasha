@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/test-fanout",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./fanout-failure-attribution": "./fanout-failure-attribution/fanout-failure-attribution.module.code.ts",
+    "./reverse-reachability-artifact": "./reverse-reachability-artifact/reverse-reachability-artifact.module.code.ts",
+    "./test-reverse-reachability": "./test-reverse-reachability/test-reverse-reachability.module.code.ts",
+    "./test-selection": "./test-selection/test-selection.module.code.ts",
+    "./typed-workspace-listing": "./typed-workspace-listing/typed-workspace-listing.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/checks": "workspace:*",
+    "@tools/lib": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
