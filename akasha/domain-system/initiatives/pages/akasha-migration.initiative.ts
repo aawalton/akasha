@@ -23,6 +23,7 @@ export const akashaMigration = {
     "Add intent to the initiative to keep track of what is in flight. Remove intent from the initiative when it is done.",
     "Do not simply copy files into the akasha folder. The new system has a different structure, so files need to be adapted for the new structure.",
     "Create new page types, page properties, and page property types as needed to accomplish the work, parallel to existing patterns in the new system when possible.",
+    "There is a full backup reference copy at `/var/home/walton/repos/akasha-backup-2026-09-02`, so do not hesitate to ablate migrated or obsoleted files from the repo. Do not edit the backup copy.",
     "Remove files outside the akasha folder whose content has migrated into the folder.",
     "Do not change this list of constraints.",
     "Set a systemd reminder to remind you of the initiative objective and these constraints every 15 minutes to avoid getting stuck.",
