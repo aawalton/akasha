@@ -9,15 +9,17 @@
   "dependencies": {
     "@akasha/ci-benchmark": "workspace:*",
     "@akasha/ci-containers": "workspace:*",
-    "@akasha/k8s-synth": "workspace:*",
     "@akasha/git": "workspace:*",
     "@akasha/graph-system": "workspace:*",
+    "@akasha/k8s-synth": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-eso-typings": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@akasha/wandering-inn": "workspace:*",
+    "@akasha/workflow-language": "workspace:*",
     "@akasha/workflow-selection": "workspace:*"
   }
 }

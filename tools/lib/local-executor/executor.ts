@@ -1,6 +1,7 @@
 import { mkdtemp, rm } from "node:fs/promises"
 import { homedir, tmpdir } from "node:os"
 import { join } from "node:path"
+import { requireEnv } from "@akasha/utils-narrow/require-env"
 import { z } from "zod"
 import {
   DIRECT_BUILDKIT_HOST,
@@ -10,10 +11,8 @@ import {
   isPortOpen,
 } from "./cluster-access.ts"
 import { executeStepOnce } from "./execute-step.ts"
-import { requireEnv } from "./narrow.ts"
 import { pruneLocalLogs, streamProcessOutput } from "./tee.ts"
 import type { PipelineContext, StepConfig, StepResult } from "./types.ts"
-
 
 export interface LocalExecutor {
   workspaceMountPath: () => string

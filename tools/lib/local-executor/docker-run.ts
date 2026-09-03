@@ -1,5 +1,6 @@
 import { homedir } from "node:os"
 import { join } from "node:path"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { z } from "zod"
 import {
   DIRECT_BUILDKIT_HOST,
@@ -12,7 +13,6 @@ import {
 } from "./cluster-access.ts"
 import { containerRuntime } from "./container-runtime.ts"
 import { localCacheDir } from "./local-cache.ts"
-import { requireFirst } from "./narrow.ts"
 import { streamProcessOutput } from "./tee.ts"
 import type { PipelineContext, StepConfig } from "./types.ts"
 
