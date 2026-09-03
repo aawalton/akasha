@@ -1,6 +1,6 @@
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { seaweedFSObjectStoreFromEnv } from "../object-store.ts"
-import { imageObjectKey } from "../object-store-keys"
+import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
+import { imageObjectKey } from "@akasha/object-store/object-store-key"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import { coverUrl } from "@akasha/pages-url/cover-url"
 import { landRow, mergeRow } from "./generation-log"

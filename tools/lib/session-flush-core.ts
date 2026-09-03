@@ -1,7 +1,7 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { type FlushStatus, flushOutcome } from "./session-flush-decide.ts"
-import type { ObjectStore } from "./object-store.ts"
+import type { ObjectStore } from "@akasha/object-store/seaweedfs-store"
 import {
   getDefaultObjectStore,
   sessionObjectKeyFor,

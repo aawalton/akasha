@@ -5,7 +5,7 @@ import {
   UPSCALE_SERVING_NAMESPACE,
 } from "../upscale-serving-job.ts"
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { makeSeaweedFSObjectStore } from "../../object-store.ts"
+import { makeSeaweedFSObjectStore } from "@akasha/object-store/seaweedfs-store"
 import { z } from "zod"
 
 const JOB_WAIT_TIMEOUT_MS = 31 * 60_000

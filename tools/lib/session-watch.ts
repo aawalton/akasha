@@ -2,7 +2,7 @@ import { existsSync, readdirSync, unwatchFile, watchFile } from "node:fs"
 import { stat } from "node:fs/promises"
 import { sessionOf } from "./seat-session.ts"
 import { transcriptOf } from "./seat-transcript-path.ts"
-import type { ObjectStore } from "./object-store.ts"
+import type { ObjectStore } from "@akasha/object-store/seaweedfs-store"
 import {
   getDefaultObjectStore,
   sessionObjectKeyFor,

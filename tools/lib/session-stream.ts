@@ -1,6 +1,6 @@
 
 import { existsSync, statSync } from "node:fs"
-import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "./object-store.ts"
+import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 
 export function sessionObjectKeyFor(agentId: string): string {
   return `sessions/${agentId}.jsonl`

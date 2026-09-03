@@ -1,8 +1,8 @@
 import { coverUrl } from "@akasha/pages-url/cover-url"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { operationalError } from "./exit.ts"
-import { seaweedFSObjectStoreFromEnv } from "./object-store.ts"
-import { imageObjectKey } from "./object-store-keys"
+import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
+import { imageObjectKey } from "@akasha/object-store/object-store-key"
 import { patchRow, writeRow } from "./page-rows-write.ts"
 
 export const GENERATION_LOG = "alan"

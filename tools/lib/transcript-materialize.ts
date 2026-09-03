@@ -1,8 +1,8 @@
 
 import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { dataError } from "./exit.ts"
-import { type ObjectStore } from "./object-store.ts"
-import { seaweedFsMissingEnvVars } from "./object-store-config"
+import { type ObjectStore } from "@akasha/object-store/seaweedfs-store"
+import { seaweedFsMissingEnvVars } from "@akasha/object-store/seaweedfs-config"
 import { sanitizeTranscriptForResume } from "./session-jsonl.ts"
 import {
   getDefaultObjectStore,
