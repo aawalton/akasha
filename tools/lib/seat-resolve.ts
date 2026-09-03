@@ -23,7 +23,18 @@ export function scan(root: string): Found {
   const frontmatter = new Map<string, Frontmatter>()
   for (const relPath of listDocuments(root)) {
     if (isDirty(relPath)) continue
-    frontmatter.set(relPath, parseFrontmatter(readFileSync(`${root}/${relPath}`, "utf8")))
+    // The tree is walked once and read afterwards, so a migration carrying pages out of
+    // `pages/` takes a document away inside that gap. A document already gone by the time
+    // it is read is one this scan has nothing to say about, and every other fault still
+    // throws: a read that fails for any reason but absence is not a moved page.
+    let body: string
+    try {
+      body = readFileSync(`${root}/${relPath}`, "utf8")
+    } catch (cause) {
+      if ((cause as NodeJS.ErrnoException).code !== "ENOENT") throw cause
+      continue
+    }
+    frontmatter.set(relPath, parseFrontmatter(body))
   }
   const standing = domainsStanding(root)
   for (const one of standing) frontmatter.set(one.relPath, one.frontmatter)
