@@ -3,13 +3,20 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./day-of-week": "./day-of-week/day-of-week.module.code.ts",
+    "./equipment-kit": "./equipment-kit/equipment-kit.module.code.ts",
     "./exercise-choosing": "./exercise-choosing/exercise-choosing.module.code.ts",
     "./exercise-finding": "./exercise-finding/exercise-finding.module.code.ts",
-    "./exercise-history": "./exercise-history/exercise-history.module.code.ts",
-    "./exercise-naming": "./exercise-naming/exercise-naming.module.code.ts",
     "./exercise-rows": "./exercise-rows/exercise-rows.module.code.ts",
     "./exercise-vocabulary": "./exercise-vocabulary/exercise-vocabulary.module.code.ts",
-    "./selection-policy": "./selection-policy/selection-policy.module.code.ts"
+    "./mobility-derive": "./mobility-derive/mobility-derive.module.code.ts",
+    "./movement-scoring": "./movement-scoring/movement-scoring.module.code.ts",
+    "./selection-policy": "./selection-policy/selection-policy.module.code.ts",
+    "./session-derive": "./session-derive/session-derive.module.code.ts",
+    "./set-history": "./set-history/set-history.module.code.ts",
+    "./set-progression": "./set-progression/set-progression.module.code.ts",
+    "./set-volume": "./set-volume/set-volume.module.code.ts",
+    "./slot-templates": "./slot-templates/slot-templates.module.code.ts"
   },
   "dependencies": {
     "@akasha/day": "workspace:*",

@@ -7,13 +7,16 @@ export const exerciseAccess = {
   definition: "how the exercise pages are reached and what their fields may carry",
   manifest: "json",
   partSlugs: [
+    "module/day-of-week",
     "module/exercise-choosing",
     "module/exercise-finding",
-    "module/exercise-history",
-    "module/exercise-naming",
     "module/exercise-rows",
     "module/exercise-vocabulary",
+    "module/mobility-derive",
     "module/selection-policy",
+    "module/session-derive",
+    "module/set-history",
+    "module/set-volume",
   ],
   invariants: [
     {
