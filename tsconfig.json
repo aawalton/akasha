@@ -22,7 +22,7 @@
       "path": "./infra/auth-proxy"
     },
     {
-      "path": "./temper/web"
+      "path": "./akasha/temper/temper-web"
     },
     {
       "path": "./akasha/smilingjenny/smilingjenny-web"

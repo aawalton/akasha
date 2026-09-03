@@ -37,7 +37,6 @@
     "shared/vscode-typings",
     "temper/player-completion",
     "temper/scripts",
-    "temper/web",
     "tools/lib",
     "tools/ops"
   ],

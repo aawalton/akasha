@@ -1,3 +1,4 @@
+import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
 import "./temper-web-look/temper-web-look.stylesheet.styles.css"
 import "./temper-declared-effects/temper-declared-effects.module.code.ts"
 import {
@@ -38,6 +39,7 @@ import {
   isRouteErrorResponse,
   Link,
   Links,
+  type LinksFunction,
   type LoaderFunctionArgs,
   Meta,
   type MetaFunction,
@@ -59,6 +61,16 @@ const AUTH_CONFIG: AuthRouteConfig = {
 }
 
 const SHOWING_STACK = process.env.NODE_ENV !== "production"
+
+export const links: LinksFunction = () => [
+  {
+    rel: "preload",
+    href: geistSansWoff2,
+    as: "font",
+    type: "font/woff2",
+    crossOrigin: "anonymous",
+  },
+]
 
 export const meta: MetaFunction = () => [
   { title: "Temper | The Ultimate ESO Build Editor & Optimizer" },
