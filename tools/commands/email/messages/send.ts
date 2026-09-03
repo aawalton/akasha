@@ -1,7 +1,8 @@
 export const summary = "Send a Gmail message (optionally a threaded reply) and print the result as JSON"
 
 import type { CommandHelp } from "../../../ops/surface.ts"
-import { buildComposeInput, emailGoogle } from "../../../lib/email-code.ts"
+import { buildComposeInput } from "@akasha/google-email/compose-input-from-arguments"
+import { emailGoogle } from "@akasha/google-email/email-operations"
 import { COMPOSE_FLAGS, GMAIL_ENV_VARS } from "../../../lib/email-help.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 

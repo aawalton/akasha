@@ -2,7 +2,7 @@ export const summary = "One-time OAuth consent flow that mints the Gmail refresh
 
 import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
 import type { CommandHelp } from "../../../ops/surface.ts"
-import { emailGoogle } from "../../../lib/email-code.ts"
+import { emailGoogle } from "@akasha/google-email/email-operations"
 import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
 import { parseArgs } from "../../../lib/parse-args.ts"
 

@@ -1,7 +1,7 @@
 export const summary = "Unsubscribe from a message via its List-Unsubscribe headers (RFC 8058 one-click / mailto)"
 
 import type { CommandHelp } from "../../ops/surface.ts"
-import { emailGoogle } from "../../lib/email-code.ts"
+import { emailGoogle } from "@akasha/google-email/email-operations"
 import { GMAIL_ENV_VARS } from "../../lib/email-help.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 
