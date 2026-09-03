@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const rogueTrap = {
   id: "01a0657d-02b6-725d-90da-01b9a4a7478c",

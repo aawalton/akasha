@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const shadowleap = {
   id: "01a0657d-02bf-7105-8970-ee113932c0ee",

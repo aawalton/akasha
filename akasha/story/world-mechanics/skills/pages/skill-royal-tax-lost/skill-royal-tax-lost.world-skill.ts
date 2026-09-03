@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const skillRoyalTaxLost = {
   id: "01a0657d-02c6-700e-b110-da5fba98e382",

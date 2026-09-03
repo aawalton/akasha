@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const royalGriffinPeck = {
   id: "01a0657d-02b7-7afa-a00e-a6fcf85985cf",

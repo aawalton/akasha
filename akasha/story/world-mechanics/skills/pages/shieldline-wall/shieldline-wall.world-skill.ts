@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const shieldlineWall = {
   id: "01a0657d-02c0-794a-899a-20bfded64e47",

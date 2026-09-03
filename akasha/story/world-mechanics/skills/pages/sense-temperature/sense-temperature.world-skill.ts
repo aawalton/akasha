@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const senseTemperature = {
   id: "01a0657d-02be-7679-9582-0764e3688789",

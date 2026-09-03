@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const skillChangeKeenShotSilverstakeSpreadshot = {
   id: "01a0657d-02c5-7b97-b6d9-bf0a051c57f4",

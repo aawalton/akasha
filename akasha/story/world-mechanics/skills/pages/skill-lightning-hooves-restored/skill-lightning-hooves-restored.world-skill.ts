@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const skillLightningHoovesRestored = {
   id: "01a0657d-02c6-79a0-98b4-0e8be6724aa4",

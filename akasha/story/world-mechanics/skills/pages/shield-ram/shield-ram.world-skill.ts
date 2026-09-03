@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const shieldRam = {
   id: "01a0657d-02c0-77ff-80c5-63ca15701a1c",

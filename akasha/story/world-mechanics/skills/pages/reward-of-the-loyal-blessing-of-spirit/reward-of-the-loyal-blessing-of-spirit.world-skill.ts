@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const rewardOfTheLoyalBlessingOfSpirit = {
   id: "01a0657d-02b2-7ab3-9d38-56af5753aba1",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const royalPactOfServiceClassAscensions = {
   id: "01a0657d-02b7-7e07-9e28-48973de933a0",

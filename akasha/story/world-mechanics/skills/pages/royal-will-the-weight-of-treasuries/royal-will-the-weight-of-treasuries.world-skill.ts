@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const royalWillTheWeightOfTreasuries = {
   id: "01a0657d-02b7-7da5-be28-3a08edc5a0fa",

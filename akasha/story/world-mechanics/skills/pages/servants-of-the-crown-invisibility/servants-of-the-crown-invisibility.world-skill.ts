@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const servantsOfTheCrownInvisibility = {
   id: "01a0657d-02bf-7f93-85ca-c9086785264c",

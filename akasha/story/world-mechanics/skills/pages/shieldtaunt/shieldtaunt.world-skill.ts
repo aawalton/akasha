@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const shieldtaunt = {
   id: "01a0657d-02c0-7824-9a9d-e72d34d2e28b",

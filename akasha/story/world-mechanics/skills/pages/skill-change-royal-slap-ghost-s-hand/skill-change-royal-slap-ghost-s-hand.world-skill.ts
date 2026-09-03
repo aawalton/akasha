@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const skillChangeRoyalSlapGhostSHand = {
   id: "01a0657d-02c6-7b2b-9d61-547b46c780f9",

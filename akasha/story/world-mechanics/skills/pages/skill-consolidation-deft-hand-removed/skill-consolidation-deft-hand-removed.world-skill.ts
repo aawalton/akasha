@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const skillConsolidationDeftHandRemoved = {
   id: "01a0657d-02c6-716c-94f6-096d97dfee8d",

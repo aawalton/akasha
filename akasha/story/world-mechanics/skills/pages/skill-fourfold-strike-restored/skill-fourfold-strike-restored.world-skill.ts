@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const skillFourfoldStrikeRestored = {
   id: "01a0657d-02c6-7469-b2c9-35198f4ae6e1",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const senseIntention = {
   id: "01a0657d-02be-700f-88f6-7786a0c14085",

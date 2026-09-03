@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const scytheOfCarnageArmyCleaver = {
   id: "01a0657d-02b8-737d-a747-ca5b5789fe09",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const royalBodyguardTwoOfLifeTwoOfDeath = {
   id: "01a0657d-02b6-7f37-9100-255f5604ef6c",

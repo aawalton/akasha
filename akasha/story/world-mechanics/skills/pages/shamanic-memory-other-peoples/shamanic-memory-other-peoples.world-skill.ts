@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const shamanicMemoryOtherPeoples = {
   id: "01a0657d-02bf-7649-9b84-465452677a2a",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const servantSOrder = {
   id: "01a0657d-02bf-7223-a9a7-71704a9e03a5",

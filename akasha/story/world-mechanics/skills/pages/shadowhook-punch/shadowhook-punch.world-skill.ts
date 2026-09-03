@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const shadowhookPunch = {
   id: "01a0657d-02bf-7905-b268-82936540266e",

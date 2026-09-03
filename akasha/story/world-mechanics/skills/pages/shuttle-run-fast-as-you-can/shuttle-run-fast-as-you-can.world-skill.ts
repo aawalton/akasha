@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const shuttleRunFastAsYouCan = {
   id: "01a0657d-02c1-7a03-9839-a5c4dac9b26b",

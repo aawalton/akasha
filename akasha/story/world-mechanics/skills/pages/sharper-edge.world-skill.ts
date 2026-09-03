@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const sharperEdge = {
   id: "01a0657d-02bf-7fdb-8f8b-7159b42be6ba",

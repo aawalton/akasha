@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const secondLifeANewIdentity = {
   id: "01a0657d-02b8-75c6-ad5d-f29633922c61",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const seithoreBasicHandling = {
   id: "01a0657d-02b8-7bb8-81cc-906f631910ad",

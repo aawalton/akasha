@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const senseCorruption = {
   id: "01a0657d-02b9-7a80-a572-251ed0ca3235",

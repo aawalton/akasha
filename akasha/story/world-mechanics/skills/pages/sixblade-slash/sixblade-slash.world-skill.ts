@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const sixbladeSlash = {
   id: "01a0657d-02c5-776f-a3b9-a679d1a57fdc",

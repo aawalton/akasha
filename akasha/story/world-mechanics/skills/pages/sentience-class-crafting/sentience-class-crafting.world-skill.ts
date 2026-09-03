@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const sentienceClassCrafting = {
   id: "01a0657d-02bf-7e90-9378-3253cc932aac",

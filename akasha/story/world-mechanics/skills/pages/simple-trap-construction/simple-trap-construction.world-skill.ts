@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const simpleTrapConstruction = {
   id: "01a0657d-02c5-78bc-888b-0d5c7378052e",

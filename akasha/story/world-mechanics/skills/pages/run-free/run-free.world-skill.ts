@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const runFree = {
   id: "01a0657d-02b7-7c79-9630-c799f1604992",

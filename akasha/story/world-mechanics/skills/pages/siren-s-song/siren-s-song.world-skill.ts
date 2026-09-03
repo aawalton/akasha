@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const sirenSSong = {
   id: "01a0657d-02c5-74db-b4b2-908d771a7674",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const skillGreaterArtifactAnalysisRemoved = {
   id: "01a0657d-02c6-7266-8406-3d2bf5a09455",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const sidearmThreeRecklessShots = {
   id: "01a0657d-02c1-766c-b224-d1e961953bf4",

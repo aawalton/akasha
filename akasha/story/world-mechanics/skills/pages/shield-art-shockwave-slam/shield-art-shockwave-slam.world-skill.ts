@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const shieldArtShockwaveSlam = {
   id: "01a0657d-02c0-7246-9df3-64bd4ce72f2e",

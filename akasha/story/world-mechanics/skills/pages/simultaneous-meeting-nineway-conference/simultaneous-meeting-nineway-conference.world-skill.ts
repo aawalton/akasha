@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const simultaneousMeetingNinewayConference = {
   id: "01a0657d-02c5-7ef1-80ce-eb07f9221caf",
