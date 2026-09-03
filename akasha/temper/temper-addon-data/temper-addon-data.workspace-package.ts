@@ -23,6 +23,7 @@ export const temperAddonData = {
     "module/food-mappings",
     "module/inventory-trait-mappings",
     "module/mapping-renders",
+    "module/mined-motif-coverage",
     "module/mined-restore-potions",
     "module/mundus-mappings",
     "module/passive-skill-mappings",
