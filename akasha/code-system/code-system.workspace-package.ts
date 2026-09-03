@@ -44,5 +44,6 @@ export const codeSystem = {
     "module/code-lint",
     "module/package-manifest",
     "module/shape-progress",
+    "module/carried-file",
   ],
 } as const satisfies WorkspacePackage
