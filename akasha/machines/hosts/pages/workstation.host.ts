@@ -1,8 +1,10 @@
 import type { Host } from "../host.page-type.ts"
 
 export const workstation = {
-  id: "01a0658e-e3ce-7fa9-867a-4b80810640de",
+  id: "01a06590-e94f-7a8c-a9bf-dd26522b8fd3",
   pageTypeSlug: "host",
   slug: "workstation",
   definition: "Alan's Linux desktop",
+  title: "Workstation",
+  settled: true,
 } as const satisfies Host

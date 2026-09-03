@@ -1,15 +1,25 @@
 import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
+import type { Settled } from "./properties/settled.boolean-property.ts"
 
-export type Host = Domain
+export type Host = Domain & {
+  title: Title
+  settled?: Settled
+}
 
 export const host = {
-  id: "01a0658e-e3ce-771e-8e98-27ff4beeede6",
+  id: "01a06590-e94f-7d6f-a415-867286e194a2",
   pageTypeSlug: "page-type",
   slug: "host",
   definition: "a place the system runs programs",
   pluralSlug: "hosts",
   extendsSlug: "page-type/domain",
+  partSlugs: ["boolean-property/settled"],
+  properties: [
+    { pagePropertySlug: "title", required: true, many: false },
+    { pagePropertySlug: "settled", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -17,8 +27,7 @@ export const host = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A host is a domain, so what it is stands in its definition rather than in a title.",
+      statement: "A host is a domain, so what it is stands in its definition as well as its title.",
     },
   ],
 } as const satisfies PageType
