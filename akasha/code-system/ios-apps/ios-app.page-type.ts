@@ -1,5 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
+import type { AppProfileName } from "./properties/app-profile-name.text-property.ts"
 import type { AscCapabilities } from "./properties/asc-capabilities.text-property.ts"
 import type { BuildScript } from "./properties/build-script.relation-property.ts"
 import type { BundleId } from "./properties/bundle-id.text-property.ts"
@@ -14,12 +15,16 @@ import type { MacBuildLockDir } from "./properties/mac-build-lock-dir.text-prope
 import type { MacBuildNumberFile } from "./properties/mac-build-number-file.text-property.ts"
 import type { MacWwwStagingRel } from "./properties/mac-www-staging-rel.text-property.ts"
 import type { MarketingVersion } from "./properties/marketing-version.text-property.ts"
+import type { NativeShellRepoPath } from "./properties/native-shell-repo-path.text-property.ts"
 import type { SpaSourcePath } from "./properties/spa-source-path.text-property.ts"
 import type { StageScript } from "./properties/stage-script.relation-property.ts"
 import type { WebEntry } from "./properties/web-entry.file-property.ts"
 import type { WebEnvPath } from "./properties/web-env-path.text-property.ts"
+import type { WidgetBundleId } from "./properties/widget-bundle-id.text-property.ts"
+import type { WidgetProfileName } from "./properties/widget-profile-name.text-property.ts"
 
 export type IosApp = WorkspacePackage & {
+  appProfileName: AppProfileName
   ascCapabilities?: AscCapabilities
   buildScript?: BuildScript
   bundleId: BundleId
@@ -34,10 +39,13 @@ export type IosApp = WorkspacePackage & {
   macBuildNumberFile?: MacBuildNumberFile
   macWwwStagingRel?: MacWwwStagingRel
   marketingVersion: MarketingVersion
+  nativeShellRepoPath?: NativeShellRepoPath
   spaSourcePath?: SpaSourcePath
   stageScript?: StageScript
   webEntry?: WebEntry
   webEnvPath?: WebEnvPath
+  widgetBundleId?: WidgetBundleId
+  widgetProfileName?: WidgetProfileName
 }
 
 export const iosApp = {
@@ -63,6 +71,7 @@ export const iosApp = {
     "shell-script/stage-web-entry",
     "shell-script/widget-components",
     "shell-script/write-capacitor-config",
+    "text-property/app-profile-name",
     "text-property/asc-capabilities",
     "text-property/bundle-id",
     "text-property/default-device-udid",
@@ -73,11 +82,15 @@ export const iosApp = {
     "text-property/mac-build-number-file",
     "text-property/mac-www-staging-rel",
     "text-property/marketing-version",
+    "text-property/native-shell-repo-path",
     "text-property/spa-source-path",
     "text-property/web-env-path",
+    "text-property/widget-bundle-id",
+    "text-property/widget-profile-name",
   ],
   extendsSlug: "page-type/workspace-package",
   properties: [
+    { pagePropertySlug: "app-profile-name", required: true, many: false },
     { pagePropertySlug: "asc-capabilities", required: false, many: true, max: null },
     { pagePropertySlug: "build-script", required: false, many: false },
     { pagePropertySlug: "bundle-id", required: true, many: false },
@@ -92,10 +105,13 @@ export const iosApp = {
     { pagePropertySlug: "mac-build-number-file", required: false, many: false },
     { pagePropertySlug: "mac-www-staging-rel", required: false, many: false },
     { pagePropertySlug: "marketing-version", required: true, many: false },
+    { pagePropertySlug: "native-shell-repo-path", required: false, many: false },
     { pagePropertySlug: "spa-source-path", required: false, many: false },
     { pagePropertySlug: "stage-script", required: false, many: false },
     { pagePropertySlug: "web-entry", required: false, many: false },
     { pagePropertySlug: "web-env-path", required: false, many: false },
+    { pagePropertySlug: "widget-bundle-id", required: false, many: false },
+    { pagePropertySlug: "widget-profile-name", required: false, many: false },
   ],
   invariants: [
     {

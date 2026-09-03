@@ -6,6 +6,7 @@ export const smilingjenny = {
   slug: "smilingjenny",
   definition: "the app on Jenny's phone and the shell it runs in",
   manifest: "json",
+  appProfileName: "smilingjenny app App Store",
   ascCapabilities: ["PUSH_NOTIFICATIONS"],
   bundleId: "me.smilingjenny.app",
   buildScript: "shell-script/build-sim",
@@ -16,7 +17,10 @@ export const smilingjenny = {
   macBuildLockDir: "$HOME/.appstoreconnect/deploy-testflight-smilingjenny.lock",
   macBuildNumberFile: "$HOME/.appstoreconnect/testflight-build-number-smilingjenny",
   marketingVersion: "1.0",
+  nativeShellRepoPath: "akasha:akasha/code-system/ios-apps/pages/smilingjenny",
   webEntry: "html",
+  widgetBundleId: "me.smilingjenny.app.widgets",
+  widgetProfileName: "smilingjenny widget App Store",
   partSlugs: [
     "ios-program/smilingjenny-app",
     "ios-program/smilingjenny-decode-harness",
