@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const purifyingBloodRe = {
   id: "01a0657d-029a-7e15-9514-0951ee485261",

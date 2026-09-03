@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const recreateImage = {
   id: "01a0657d-02a6-7cbd-9982-57afa55ade24",

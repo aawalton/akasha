@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const razorbladeOars = {
   id: "01a0657d-02a4-742d-881f-1bdd76548f30",

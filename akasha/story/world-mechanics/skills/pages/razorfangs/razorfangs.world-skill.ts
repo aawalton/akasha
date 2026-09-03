@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const razorfangs = {
   id: "01a0657d-02a4-7c91-bd00-42897c1b450c",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const reputationUnpredictableUncertainty = {
   id: "01a0657d-02b1-789a-ad51-70f81b5c5142",

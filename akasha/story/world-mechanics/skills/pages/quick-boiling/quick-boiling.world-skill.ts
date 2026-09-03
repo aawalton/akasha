@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const quickBoiling = {
   id: "01a0657d-029b-7e2f-9cee-ad239099f3fe",

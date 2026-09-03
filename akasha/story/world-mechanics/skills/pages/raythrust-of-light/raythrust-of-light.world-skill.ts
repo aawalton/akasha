@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const raythrustOfLight = {
   id: "01a0657d-02a4-7a17-bb30-284e8520391a",

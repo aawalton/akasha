@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const reputationMyFamousName = {
   id: "01a0657d-02b1-70ff-9145-cf7dd9ac1c7e",

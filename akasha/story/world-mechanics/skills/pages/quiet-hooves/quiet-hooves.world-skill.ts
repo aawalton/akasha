@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const quietHooves = {
   id: "01a0657d-029c-7d7f-927e-abf410beb7f5",

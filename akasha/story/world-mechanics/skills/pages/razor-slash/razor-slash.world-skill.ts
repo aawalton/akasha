@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const razorSlash = {
   id: "01a0657d-02a4-73cf-9368-a0bb8e02dc04",

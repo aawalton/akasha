@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const rejectContractExplosiveWords = {
   id: "01a0657d-02af-797f-896e-7efcf9c95e69",

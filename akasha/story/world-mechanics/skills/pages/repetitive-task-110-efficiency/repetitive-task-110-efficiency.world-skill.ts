@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const repetitiveTask110Efficiency = {
   id: "01a0657d-02b0-77b8-8ffd-ededd9d0daa9",

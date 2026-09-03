@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const recklessAdvance = {
   id: "01a0657d-02a6-7e84-8cfd-a214a2ad6031",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const readerSTemporaryCopy = {
   id: "01a0657d-02a5-72a7-a98b-77885f9dd8df",

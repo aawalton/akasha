@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const resourceLocatorThePassphraseOfImlerith = {
   id: "01a0657d-02b1-7496-8090-a9300186273d",

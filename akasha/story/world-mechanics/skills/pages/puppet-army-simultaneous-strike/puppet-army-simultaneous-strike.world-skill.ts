@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const puppetArmySimultaneousStrike = {
   id: "01a0657d-029a-762f-a922-22bdf60328d2",

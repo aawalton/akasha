@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const redirectedBalance = {
   id: "01a0657d-02a6-7874-a504-1a4630b963e3",

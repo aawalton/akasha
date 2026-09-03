@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const removeStitches = {
   id: "01a0657d-02b0-7824-9d63-db75bb823ac5",

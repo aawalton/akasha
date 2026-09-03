@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const rechargeMinorWand = {
   id: "01a0657d-02a5-7839-9917-7a148a0c9f6c",

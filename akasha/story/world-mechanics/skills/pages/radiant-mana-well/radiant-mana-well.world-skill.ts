@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const radiantManaWell = {
   id: "01a0657d-029c-719c-b95a-0c0f9b8fa329",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const removeDesire = {
   id: "01a0657d-02b0-7bc5-af01-3aa5264d3fc7",

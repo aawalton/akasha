@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const pubOfBestMoments = {
   id: "01a0657d-0297-7c2a-b19e-9539a38bdda1",

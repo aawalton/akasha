@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const publicDecoy = {
   id: "01a0657d-0297-76f5-a90b-7fe84801acef",

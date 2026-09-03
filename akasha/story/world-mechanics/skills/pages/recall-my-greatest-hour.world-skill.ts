@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const recallMyGreatestHour = {
   id: "01a0657d-02a5-7fff-9c3c-d45a025cdf03",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const reviveGolemsAutonomousWeekly = {
   id: "01a0657d-02b2-7629-964e-0127c6841b88",

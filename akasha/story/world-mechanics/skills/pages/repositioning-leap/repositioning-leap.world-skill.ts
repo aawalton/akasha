@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const repositioningLeap = {
   id: "01a0657d-02b1-7390-9717-afdc8149c1a5",

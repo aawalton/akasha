@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const revitalizingTouch = {
   id: "01a0657d-02b2-734a-971d-27d849261102",

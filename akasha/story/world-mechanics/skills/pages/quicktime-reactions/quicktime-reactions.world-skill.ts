@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const quicktimeReactions = {
   id: "01a0657d-029c-7159-bec2-1522dd763c23",

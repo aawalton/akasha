@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const realityRewindTime = {
   id: "01a0657d-02a5-743b-82bf-67610acccf26",

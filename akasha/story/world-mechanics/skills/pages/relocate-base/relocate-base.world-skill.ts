@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const relocateBase = {
   id: "01a0657d-02b0-7123-9044-26357e048f0c",

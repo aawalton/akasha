@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const rainOfArrows = {
   id: "01a0657d-029c-7e16-9f91-c7d8782ad4e4",
