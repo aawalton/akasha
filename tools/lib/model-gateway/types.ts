@@ -1,4 +1,3 @@
-import type { RefreshOutcome } from "../oauth-credentials.ts"
 import type { OAuthEffects } from "../oauth-effects.ts"
 
 export type OAuthProxy = {
@@ -10,8 +9,6 @@ export type OAuthProxy = {
 export type StartOAuthProxyOptions = {
   logPrefix?: string
   port: number
-  onRefreshOutcome?: (account: string, outcome: RefreshOutcome) => void
-  isAccountTerminal?: (account: string) => boolean
   getLogDir?: () => string
   upstreamIdleTimeoutMs?: number
   downstreamKeepaliveMs?: number

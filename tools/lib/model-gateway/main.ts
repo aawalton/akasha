@@ -6,20 +6,13 @@ import {
   redirectConsoleToSink,
 } from "@akasha/seat-system/supervisor-console"
 import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
-import { seatNameForAgent } from "../../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { logWriter } from "../log-append.ts"
+import { seatNameForAgent } from "../seat-presence-read.ts"
 import {
   clearProxyState,
   type OAuthProxyStateToWrite,
   writeProxyStateQuietly,
-} from "../../../akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
-import {
-  clearAccountTerminal,
-  isAccountTerminal,
-  markAccountTerminal,
-} from "../account-terminal.ts"
-import { reportOAuthRecovered, reportTerminalOAuthError } from "../agent-health-write.ts"
-import { logWriter } from "../log-append.ts"
-import { LIVE_HEALTH, writeRefreshHealth, writeTerminalHealth } from "../oauth-account-health.ts"
+} from "../seat-proxy-state.ts"
 import { startOAuthProxy } from "./gateway.ts"
 import { parseBootEnv } from "./parse-boot-env.ts"
 
@@ -54,39 +47,6 @@ function main(): undefined {
     upstreamIdleTimeoutMs: env.upstreamIdleTimeoutMs,
     downstreamKeepaliveMs: env.downstreamKeepaliveMs,
     unixSocketPath: supervisorSocketPath(env.agentId),
-    isAccountTerminal: (account) => isAccountTerminal(account),
-    onRefreshOutcome: (refreshedAccount, outcome) => {
-      const isRegistrationAccount = refreshedAccount === env.registrationAccount
-      const agentId = env.agentId
-      void writeRefreshHealth(
-        { account: refreshedAccount, outcome, logPrefix: LOG_PREFIX },
-        LIVE_HEALTH
-      ).catch((err) => console.error(`${LOG_PREFIX} writeRefreshHealth failed:`, err))
-      if (outcome.ok) {
-        if (clearAccountTerminal(refreshedAccount)) {
-          if (isRegistrationAccount) {
-            reportOAuthRecovered(refreshedAccount, "OAuth refresh succeeded", LOG_PREFIX)
-          }
-        }
-        return
-      }
-      console.error(
-        `${LOG_PREFIX} OAuth refresh failed for account=${refreshedAccount} (${outcome.code ?? "unknown"}): ${outcome.reason}`
-      )
-      if (outcome.terminal && markAccountTerminal(refreshedAccount)) {
-        void writeTerminalHealth(
-          { account: refreshedAccount, logPrefix: LOG_PREFIX },
-          LIVE_HEALTH
-        ).catch((err) => console.error(`${LOG_PREFIX} writeTerminalHealth failed:`, err))
-        if (isRegistrationAccount) {
-          reportTerminalOAuthError(
-            refreshedAccount,
-            { code: outcome.code, description: outcome.description },
-            LOG_PREFIX
-          )
-        }
-      }
-    },
     logPrefix: LOG_PREFIX,
   })
 
