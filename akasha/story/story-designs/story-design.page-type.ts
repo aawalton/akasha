@@ -15,27 +15,27 @@ import type { DungeonNature } from "./properties/dungeon-nature.text-property.ts
 import type { GbwwReadings } from "./properties/gbww-readings.text-property.ts"
 import type { MemoryDistribution } from "./properties/memory-distribution.text-property.ts"
 import type { Narrator } from "./properties/narrator.text-property.ts"
-import type { Premise } from "./properties/premise.text-property.ts"
-import type { ReaderFraming } from "./properties/reader-framing.text-property.ts"
 import type { SeriesName } from "./properties/series-name.text-property.ts"
 import type { SeriesStatus } from "./properties/series-status.text-property.ts"
 import type { StoryGenre } from "./properties/story-genre.text-property.ts"
+import type { StoryPremise } from "./properties/story-premise.text-property.ts"
+import type { StoryReaderFraming } from "./properties/story-reader-framing.text-property.ts"
+import type { StoryThemes } from "./properties/story-themes.text-property.ts"
+import type { StoryTone } from "./properties/story-tone.text-property.ts"
 import type { Structure } from "./properties/structure.text-property.ts"
-import type { Themes } from "./properties/themes.text-property.ts"
 import type { TimelineDistribution } from "./properties/timeline-distribution.text-property.ts"
-import type { Tone } from "./properties/tone.text-property.ts"
 import type { VisualStyle } from "./properties/visual-style.text-property.ts"
 import type { WritingPhilosophy } from "./properties/writing-philosophy.text-property.ts"
 
 export type StoryDesign = Page & {
   title: Title
   worldSlug?: WorldSlug
-  premise?: Premise
+  premise?: StoryPremise
   genre?: StoryGenre
-  tone?: Tone
-  themes?: Themes
+  tone?: StoryTone
+  themes?: StoryThemes
   visualStyle?: VisualStyle
-  readerFraming?: ReaderFraming
+  readerFraming?: StoryReaderFraming
   narrator?: Narrator
   system?: DesignSystem
   arcStructure?: ArcStructure
@@ -67,12 +67,12 @@ export const storyDesign = {
   partSlugs: [
     "file-property/prose",
     "relation-property/world-slug",
-    "text-property/premise",
+    "text-property/story-premise",
     "text-property/story-genre",
-    "text-property/tone",
-    "text-property/themes",
+    "text-property/story-tone",
+    "text-property/story-themes",
     "text-property/visual-style",
-    "text-property/reader-framing",
+    "text-property/story-reader-framing",
     "text-property/narrator",
     "text-property/design-system",
     "text-property/arc-structure",
@@ -94,12 +94,12 @@ export const storyDesign = {
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "world-slug", required: false, many: false },
-    { pagePropertySlug: "premise", required: false, many: false },
+    { pagePropertySlug: "story-premise", required: false, many: false },
     { pagePropertySlug: "story-genre", required: false, many: false },
-    { pagePropertySlug: "tone", required: false, many: false },
-    { pagePropertySlug: "themes", required: false, many: false },
+    { pagePropertySlug: "story-tone", required: false, many: false },
+    { pagePropertySlug: "story-themes", required: false, many: false },
     { pagePropertySlug: "visual-style", required: false, many: false },
-    { pagePropertySlug: "reader-framing", required: false, many: false },
+    { pagePropertySlug: "story-reader-framing", required: false, many: false },
     { pagePropertySlug: "narrator", required: false, many: false },
     { pagePropertySlug: "design-system", required: false, many: false },
     { pagePropertySlug: "arc-structure", required: false, many: false },
