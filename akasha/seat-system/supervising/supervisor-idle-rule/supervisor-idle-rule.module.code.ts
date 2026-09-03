@@ -1,15 +1,11 @@
 import { askRule, type RuleAnswer } from "@akasha/seat-system/supervisor-ask-rule"
+import type { IdleObservation } from "@akasha/seat-system/supervisor-idle-decide"
 import { shape } from "@tools/lib/shape"
 import type { AskDecide } from "@tools/lib/supervisor-resume-asks"
 
 const RULE = "idleRule"
 
-export type IdleObservation = {
-  inFlight: number | null
-  busyChildren: number | null
-  inFlightDispatchChildren: number | null
-  claudePresent: boolean
-}
+export type { IdleObservation }
 
 export type BusyChildDetail = { pid: string; cmdline: string; ageMs: number | null }
 
