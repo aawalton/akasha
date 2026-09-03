@@ -38,7 +38,7 @@ describe("what a block carries into its own continuation", () => {
   })
 
   test("everything else on the block is left behind, safety and start and notes alike", () => {
-    const clone = cloneOpenSessionForSafetyChange(OPEN) as Record<string, unknown>
+    const clone = cloneOpenSessionForSafetyChange(OPEN) as unknown as Record<string, unknown>
     for (const key of [
       "id",
       "seq",
