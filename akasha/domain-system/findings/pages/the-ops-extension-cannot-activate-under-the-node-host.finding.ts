@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theOpsExtensionCannotActivateUnderTheNodeHost = {
+  id: "01a06882-b069-7994-8961-ec642313ae4e",
+  pageTypeSlug: "finding",
+  slug: "the-ops-extension-cannot-activate-under-the-node-host",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "The ops extension the editor host loads cannot activate. Its entry reaches unguarded `Bun.spawn` and `Bun.spawnSync` through `akasha/command-system/commit-reading` and `akasha/utils-run/running`, and the host is node rather than bun. Its manifest `main` is TypeScript needing a bundle, and the `ops editor-extension bundle` step that wrote one names a verb the dispatcher no longer carries, so `code-editor/tools/promote.sh` refuses at its bundling step before it ships anything.",
+  evidence:
+    "Measured 2026-09-03, after `9ab62921` retired the old `editor-extension/` shell at the repo root.\n\n`bun tools/extension-node-clean.ts --no-run`, repointed at the akasha manifest, exits 2: REFUSED `akasha/editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts` reaches `Bun.spawn` in `akasha/command-system/commit-reading/commit-reading.module.code.ts` and `Bun.spawnSync` in `akasha/utils-run/running/running.module.code.ts`. Two further reaches are carried as guarded and unproved: `Bun.Transpiler` in `pages-system` page-value, `Bun.main` in `tools/lib/live-store-write-guard.ts`.\n\nThe instrument sees its subject rather than reporting a blind zero. It derived its one entry from the manifest `main`, and swept 6 of the 82 `*.module.code.ts` under `akasha/editor-extension` as unreached, so 76 stand inside the entry's bundle. `observation-writer-main` is among the six and would be refused on being wired in. None of this was visible while the tool named `editor-extension`, whose `src/` had already gone.\n\nThe bundling step. `bun tools/ops/cli.ts` lists its verbs in 40 lines and none matches `extension`; the control is that the `seat` verbs it does carry are listed. So `promote.sh:314` `\"$OPS\" editor-extension bundle` exits 1. That break predates this work and is not the deletion's.\n\nThe artefact's `extensions/ops` was a symlink to the deleted folder and resolved to nothing. It now names `akasha/editor-extension/ops-extension`, whose `main` is `./extension-entry/extension-entry.module.code.ts` — TypeScript the host cannot load without the bundle nothing now writes.\n\nUntested: whether the two unguarded reaches run at activation or only on a path a panel takes.",
+} as const satisfies Finding
