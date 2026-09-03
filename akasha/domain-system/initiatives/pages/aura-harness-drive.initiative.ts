@@ -14,6 +14,7 @@ export const auraHarnessDrive = {
     },
     { statement: "Alan's core stoplights are sleep, safety, surplus and capacity." },
     { statement: "Alan's daily upkeep habits read as six attribute stoplights." },
+    { statement: "The Inboxes group has no Texts stoplight." },
     { statement: "Both stoplight sets draw as widgets in Alan's native app." },
     { statement: "Both stoplight sets draw as sections in the code editor's status bar." },
     { statement: "Every attribute's daily input is recorded where the harness can read it." },
@@ -40,5 +41,6 @@ export const auraHarnessDrive = {
     "Alan is AuDHD and is recovering from severe autistic burnout, so executive function is a major bottleneck. Recovery is expected to run into 2030.",
     "Alan's harness carries his memory and his executive function; the game of it is how it works rather than what it is for.",
     "The gamification already built is mid-migration and parts of it will be rebuilt from first principles.",
+    "Attribute points are counted forward from the day an attribute begins, and no earlier day is backfilled.",
   ],
 } as const satisfies Initiative
