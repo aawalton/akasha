@@ -8,6 +8,6 @@ export const collection = {
   pageTypeSlug: "relation-property",
   slug: "collection",
   propertySlug: "collection",
-  definition: "the collection the place is part of",
+  definition: "the location collection a place or an offer is part of",
   targetPageTypeSlug: "page-type/location-collection",
 } as const satisfies RelationProperty
