@@ -29,9 +29,8 @@ export type Asked = { readonly prompt: string; readonly seed: number }
 
 export function askedIn(raw: string): Asked {
   const found = SEED_PINNED.exec(raw)
-  const pinned = found?.[1]
-  if (pinned === undefined) return { prompt: raw.trim(), seed: drawSeed() }
-  return { prompt: raw.slice(found[0].length).trim(), seed: Number(pinned) }
+  if (found?.[1] === undefined) return { prompt: raw.trim(), seed: drawSeed() }
+  return { prompt: raw.slice(found[0].length).trim(), seed: Number(found[1]) }
 }
 
 export function alive(pid: number): boolean {

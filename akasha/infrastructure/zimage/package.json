@@ -7,8 +7,6 @@
     "./zimage-models": "./zimage-models/zimage-models.module.code.ts"
   },
   "dependencies": {
-    "@akasha/errors-core": "workspace:*",
-    "@akasha/utils-system": "workspace:*",
-    "@infra/comfy": "workspace:*"
+    "@akasha/comfy": "workspace:*"
   }
 }
