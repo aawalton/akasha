@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const armOfTheStoneGiant = {
   id: "01a06572-95b4-7ad1-bd90-1aba09206fc5",

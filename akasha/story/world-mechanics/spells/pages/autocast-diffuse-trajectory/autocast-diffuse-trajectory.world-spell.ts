@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const autocastDiffuseTrajectory = {
   id: "01a06572-95b5-7070-999d-25bbcfb81671",

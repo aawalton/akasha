@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const bindSpellGeyserOfTheWaterSerpent = {
   id: "01a06572-95b5-7ced-9a40-9d9a9273a259",

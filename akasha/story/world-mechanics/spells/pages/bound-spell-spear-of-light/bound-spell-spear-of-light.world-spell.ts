@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const boundSpellSpearOfLight = {
   id: "01a06572-95b7-73c3-b960-82d721880081",

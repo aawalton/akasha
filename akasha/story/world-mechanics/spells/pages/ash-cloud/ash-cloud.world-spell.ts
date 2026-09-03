@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const ashCloud = {
   id: "01a06572-95b5-7c69-8a99-8e30c858857d",

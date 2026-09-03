@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const boundSpellBlackfireFireball = {
   id: "01a06572-95b7-764b-9bf3-4289b2003940",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const beguilingAroma = {
   id: "01a06572-95b5-725c-a883-d8b4cf0a2c40",

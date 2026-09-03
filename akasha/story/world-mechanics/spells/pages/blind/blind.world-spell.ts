@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const blind = {
   id: "01a06572-95b6-790c-830c-a5bace40ad28",

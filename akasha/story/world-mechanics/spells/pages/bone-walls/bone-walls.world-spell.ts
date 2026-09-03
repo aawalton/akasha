@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const boneWalls = {
   id: "01a06572-95b7-7219-97c9-c583a52fcb02",

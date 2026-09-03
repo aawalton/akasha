@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const abacaxemSAnalRetentiveFrictionLightBridge = {
   id: "01a06572-95b2-7daa-8266-20dbe21b8422",

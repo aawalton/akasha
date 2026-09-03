@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const spell15SecondMessage = {
   id: "01a06572-95b2-7538-9024-2589e2d0262a",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const boundCompression = {
   id: "01a06572-95b7-7775-8e89-cc84fe021d16",

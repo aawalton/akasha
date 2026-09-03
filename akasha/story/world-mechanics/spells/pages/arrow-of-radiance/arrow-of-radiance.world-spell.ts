@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const arrowOfRadiance = {
   id: "01a06572-95b4-7ad0-8602-e486f7e8c48c",

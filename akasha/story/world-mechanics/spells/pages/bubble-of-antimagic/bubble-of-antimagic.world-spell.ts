@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const bubbleOfAntimagic = {
   id: "01a06572-95b7-70b9-bcdb-8114e65c3c83",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const auraMute = {
   id: "01a06572-95b5-73bf-aacb-f970259247cb",

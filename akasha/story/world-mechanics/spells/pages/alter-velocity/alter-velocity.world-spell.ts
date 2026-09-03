@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const alterVelocity = {
   id: "01a06572-95b4-740e-a508-7bb3ae7b9262",

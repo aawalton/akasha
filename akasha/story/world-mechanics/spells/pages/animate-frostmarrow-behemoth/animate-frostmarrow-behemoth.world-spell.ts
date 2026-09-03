@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const animateFrostmarrowBehemoth = {
   id: "01a06572-95b4-723a-befd-eb5789782921",

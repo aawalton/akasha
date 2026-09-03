@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const activateGreaterTeleportationRune = {
   id: "01a06572-95b3-7f82-820a-dd233f62552a",

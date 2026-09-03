@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const bladeOfTheAdamantium = {
   id: "01a06572-95b6-77b4-a40f-94bec4e3cb56",

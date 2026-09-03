@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const bloodseedsBirevineToricelShieldplantSendipeBush = {
   id: "01a06572-95b6-765a-b786-f52cb4d3c397",

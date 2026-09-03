@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const beacon = {
   id: "01a06572-95b5-7099-b0bf-b2e79d365070",

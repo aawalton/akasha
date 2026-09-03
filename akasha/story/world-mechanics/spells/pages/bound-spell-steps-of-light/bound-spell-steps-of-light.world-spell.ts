@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const boundSpellStepsOfLight = {
   id: "01a06572-95b7-71ed-804c-2bf99c3f0b02",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const blueBolt = {
   id: "01a06572-95b6-7a6c-ac7e-4b52c58241d4",

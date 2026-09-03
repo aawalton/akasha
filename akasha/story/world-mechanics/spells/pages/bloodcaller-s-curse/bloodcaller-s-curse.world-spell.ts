@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const bloodcallerSCurse = {
   id: "01a06572-95b6-7feb-8230-fec76cc120b9",

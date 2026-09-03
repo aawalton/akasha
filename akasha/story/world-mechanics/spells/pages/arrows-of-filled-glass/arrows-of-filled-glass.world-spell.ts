@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const arrowsOfFilledGlass = {
   id: "01a06572-95b4-70fa-8eb6-6f6517426a60",

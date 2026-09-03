@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const boneWheel = {
   id: "01a06572-95b7-7622-a440-8fe701ebe2aa",

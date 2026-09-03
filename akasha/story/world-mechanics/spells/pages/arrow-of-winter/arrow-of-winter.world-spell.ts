@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const arrowOfWinter = {
   id: "01a06572-95b4-76a0-a7ff-9fdb6c56f62b",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const avalancheOfTheStoneGiant = {
   id: "01a06572-95b5-75ef-a2d2-7e59b653e413",

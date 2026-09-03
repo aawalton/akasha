@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const bloodScythes = {
   id: "01a06572-95b6-77c2-9e9e-a2408224823f",

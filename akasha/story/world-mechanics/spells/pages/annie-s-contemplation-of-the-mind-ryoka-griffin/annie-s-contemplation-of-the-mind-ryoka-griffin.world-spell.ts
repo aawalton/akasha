@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const annieSContemplationOfTheMindRyokaGriffin = {
   id: "01a06572-95b4-7d19-9c69-de803983811a",

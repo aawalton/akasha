@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const beamOfFire = {
   id: "01a06572-95b5-7bb2-b33d-06353c958c8e",

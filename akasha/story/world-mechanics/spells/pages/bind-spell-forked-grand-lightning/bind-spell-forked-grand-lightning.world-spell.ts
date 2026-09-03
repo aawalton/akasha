@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const bindSpellForkedGrandLightning = {
   id: "01a06572-95b5-766d-8ccc-946d754755a5",

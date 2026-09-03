@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const boltOfTheLightningGiant = {
   id: "01a06572-95b7-78ae-b79c-eb390f15644c",

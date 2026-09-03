@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const weatherRanger = {
   id: "01a06586-0a76-7ba1-a648-1f3f86bc82b5",

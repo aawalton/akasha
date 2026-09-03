@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const boarSStrength = {
   id: "01a06572-95b6-7d46-9953-ca891a8e7cac",

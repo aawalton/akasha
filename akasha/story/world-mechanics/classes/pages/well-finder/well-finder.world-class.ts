@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const wellFinder = {
   id: "01a06586-0a76-76ed-a8f5-dabf7d99b027",

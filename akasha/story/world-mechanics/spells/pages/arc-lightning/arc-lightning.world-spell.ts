@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const arcLightning = {
   id: "01a06572-95b4-7fb3-87e0-57555f843183",

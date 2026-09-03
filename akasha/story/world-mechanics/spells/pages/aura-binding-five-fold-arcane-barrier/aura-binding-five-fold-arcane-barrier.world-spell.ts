@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const auraBindingFiveFoldArcaneBarrier = {
   id: "01a06572-95b5-76ab-ba0d-666ae4ef6306",

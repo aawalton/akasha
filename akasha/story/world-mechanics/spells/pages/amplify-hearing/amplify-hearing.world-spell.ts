@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const amplifyHearing = {
   id: "01a06572-95b4-7ff8-a419-f562251820c2",

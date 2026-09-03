@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const breathOfLifeExtended = {
   id: "01a06572-95b7-7d2f-b95a-3008bd20622e",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const blueRayOfLesserDisintegration = {
   id: "01a06572-95b6-748f-ad8c-b6cb8dfdf411",

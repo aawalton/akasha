@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const batSEars = {
   id: "01a06572-95b5-7fcf-a679-0613de9b2ffc",

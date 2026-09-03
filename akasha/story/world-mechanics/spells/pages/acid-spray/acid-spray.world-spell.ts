@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const acidSpray = {
   id: "01a06572-95b3-7d4c-9737-aa3986bf84c8",

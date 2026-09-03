@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const boundSpellParalysisBolt = {
   id: "01a06572-95b7-705c-8802-d07873845234",

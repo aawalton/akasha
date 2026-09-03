@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const boltOfSpite = {
   id: "01a06572-95b6-7787-b6b8-ade55a8e8ff9",

@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const analysisManaTrace = {
   id: "01a06572-95b4-7678-b6b5-e9cc653fc8f4",

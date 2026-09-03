@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const boundSpellImpactShockwave = {
   id: "01a06572-95b7-768b-b1ed-5305cb65728b",

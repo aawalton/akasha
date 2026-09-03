@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const autocastIceSpikes = {
   id: "01a06572-95b5-7d52-bfc5-884c21b26b7f",

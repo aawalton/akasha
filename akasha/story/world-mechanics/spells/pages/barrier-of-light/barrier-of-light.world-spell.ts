@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const barrierOfLight = {
   id: "01a06572-95b5-775b-993b-19a935c8c967",

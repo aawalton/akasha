@@ -1,4 +1,4 @@
-import type { WorldSpell } from "../../../world-spell.page-type.ts"
+import type { WorldSpell } from "../../world-spell.page-type.ts"
 
 export const autocastLightArrow = {
   id: "01a06572-95b5-76cb-af0f-ba2a94647d8d",
