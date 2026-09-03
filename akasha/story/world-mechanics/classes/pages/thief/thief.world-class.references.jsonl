@@ -1,0 +1,526 @@
+{"id":"01a0657e-026a-7e9c-b5a2-57537763a263","chapterSlug":"rw1-38","paragraph":8,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-77fb-bb54-3e2c1b95aef0","chapterSlug":"rw1-38","paragraph":76,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-764a-b8e5-72da3f2d644d","chapterSlug":"rw1-37","paragraph":241,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7874-9ce1-55549c9a0b3c","chapterSlug":"rw1-57 H","paragraph":262,"wording":"[Thief]","event":"named","effectQuote":"her footfalls barely made any sound despite her rapid approach"}
+{"id":"01a0657e-026a-753f-b093-c541911afcc3","chapterSlug":"rw1-00 C","paragraph":167,"wording":"[Thief]","event":"named","holderSlug":"vincent","holderQuote":"He’s got a [Thief] class—although it was from learning to set and disable traps and sneaking around, not from stealing things."}
+{"id":"01a0657e-026a-725b-82c0-173432e89633","chapterSlug":"rw1-00 C","paragraph":194,"wording":"[Thief]","event":"named","holderSlug":"vincent","holderQuote":"He’s a Level 14 [Thief] with several skills that let him set traps, move around stealthily, and so on, but the levels have also made him stronger."}
+{"id":"01a0657e-026a-7b04-9f82-0ec1db63ce62","chapterSlug":"rw3-05 L","paragraph":82,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7602-8799-765761fb66db","chapterSlug":"rw3-23 L","paragraph":163,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7cc7-b1b8-3b30b006d59c","chapterSlug":"rw3-16","paragraph":75,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7736-aefe-71f3a6e75bf5","chapterSlug":"rw3-16","paragraph":128,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7fa3-936b-7401282953d9","chapterSlug":"rw3-36","paragraph":124,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7051-8889-f9da133e17a6","chapterSlug":"rw3-36","paragraph":207,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7efc-9976-08440a372c10","chapterSlug":"rw3-41","paragraph":493,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7f32-88a7-e56483c2250f","chapterSlug":"rw3-41","paragraph":493,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7489-a73d-bc28f054bbbc","chapterSlug":"rw4-14 L","paragraph":26,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-79f7-9188-8948f3b80c3d","chapterSlug":"rw1-04 C","paragraph":43,"wording":"[Thief]","event":"named","effectQuote":"who can create secret containers about their person","effectClaimed":true}
+{"id":"01a0657e-026a-7e69-9b0a-bc3f975a8c5d","chapterSlug":"rw5-06 M","paragraph":137,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7e07-88d8-98e34b82431a","chapterSlug":"rwInterlude - Flos","paragraph":173,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7441-9c89-23d5e9020796","chapterSlug":"rw5-18 S","paragraph":515,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7c3a-9cd8-589cde633db6","chapterSlug":"rwInterlude - Krshia","paragraph":47,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7127-a6b0-7a371aba258f","chapterSlug":"rw5-49","paragraph":262,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7359-8e44-ea49844dcb9a","chapterSlug":"rw5-49","paragraph":729,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-75a3-9a9a-9b1cee3c85ea","chapterSlug":"rw6-00","paragraph":37,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7be9-9a38-ef51e38289ba","chapterSlug":"rw6-06 D","paragraph":145,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"geneva-scala"}
+{"id":"01a0657e-026a-7969-8933-8ddd99bf5421","chapterSlug":"rw6-08","paragraph":277,"wording":"[Thief]","event":"named","holderSlug":"lyonette","claimed":true,"claimedBySlug":"Lism","holderQuote":"An accusatory claw was pointed at Lyonette. She flushed as all eyes turned towards her."}
+{"id":"01a0657e-026a-7aeb-9d11-a9ed7998c8c8","chapterSlug":"rw6-08","paragraph":279,"wording":"[Thief]","event":"named","holderSlug":"lyonette","claimed":true,"claimedBySlug":"Lism","holderQuote":"An accusatory claw was pointed at Lyonette. She flushed as all eyes turned towards her."}
+{"id":"01a0657e-026a-7f12-a8c2-cc6f71f4f0e7","chapterSlug":"rw6-08","paragraph":279,"wording":"[Thief]","event":"named","holderSlug":"lyonette","claimed":true,"claimedBySlug":"Lism","holderQuote":"An accusatory claw was pointed at Lyonette. She flushed as all eyes turned towards her."}
+{"id":"01a0657e-026a-71ee-8871-94ac47bda3db","chapterSlug":"rw6-08","paragraph":425,"wording":"[Thief]","event":"named","holderSlug":"lyonette","claimed":true,"claimedBySlug":"zevara","holderQuote":"Why should I entertain that idea? You barged into my office, you’re a former [Thief], and those artifacts are quite valuable."}
+{"id":"01a0657e-026a-7c1d-85d2-36d15060ece6","chapterSlug":"rw6-08","paragraph":435,"wording":"[Thief]","event":"named","holderSlug":"lyonette","holderQuote":"Zevara almost dropped the quill she was holding. She glanced up at Lyonette."}
+{"id":"01a0657e-026a-7b02-abe1-bfd1651dfb1c","chapterSlug":"rw6-33 E","paragraph":314,"wording":"[Thief]","event":"named","holderQuote":"This is a chronicle of an adventurer’s life. Not an adventurer, but…the tales of Thivian Stormless, the famous hero known as the Lightning Thief. Do you know of him?"}
+{"id":"01a0657e-026a-79c1-9c44-7d1abe216d78","chapterSlug":"rw6-33 E","paragraph":358,"wording":"[Thief]","event":"named","holderQuote":"Thivian Stormless. He swept Gallheart a bow."}
+{"id":"01a0657e-026a-70c7-b397-c927743f9779","chapterSlug":"rw6-33 E","paragraph":359,"wording":"[Thief]","event":"named","holderQuote":"Thivian Stormless. He swept Gallheart a bow."}
+{"id":"01a0657e-026a-7f75-9f1c-c3a644a7a62b","chapterSlug":"rw6-17 S","paragraph":25,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7bcb-8855-c4f474b357f3","chapterSlug":"rw6-17 S","paragraph":197,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-708f-b4fe-7c412aa18d64","chapterSlug":"rw6-17 S","paragraph":274,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7e9f-b6d2-5e0aee8be762","chapterSlug":"rw6-19 H","paragraph":73,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7e60-894a-ae8f46cf1309","chapterSlug":"rw6-19 H","paragraph":73,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7fdf-a215-6c215ad5a5a0","chapterSlug":"rw6-19 H","paragraph":140,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7ba3-9855-cdff732e7642","chapterSlug":"rw6-19 H","paragraph":144,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7a96-a54b-aa7e37f67ef1","chapterSlug":"rw6-19 H","paragraph":148,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7313-ae78-df31b0b07b51","chapterSlug":"rw6-19 H","paragraph":154,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-77e8-b770-f2dcd7c79f7a","chapterSlug":"rw6-26","paragraph":259,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7b4e-b96c-25110368025c","chapterSlug":"rw6-27 M","paragraph":778,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-732d-ad70-d630a8ec29c6","chapterSlug":"rw6-34 E","paragraph":380,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7007-b438-ac5b20bb2a24","chapterSlug":"rw6-34 E","paragraph":383,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7de9-b6dc-d38cc5bc5146","chapterSlug":"rw6-34 E","paragraph":384,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7a93-b8f6-4ad848b6ae75","chapterSlug":"rw6-34 E","paragraph":386,"wording":"[Thief]","event":"named","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-75b3-9fd8-f2f14deb9d57","chapterSlug":"rw6-34 E","paragraph":386,"wording":"[Thief]","event":"named","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-74e0-b9c6-aa1c95148e04","chapterSlug":"rw6-34 E","paragraph":387,"wording":"[Thief]","event":"named","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-74d1-b736-a214c9442d7b","chapterSlug":"rw6-34 E","paragraph":390,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Beniar","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-7555-adf9-4ec2b33a73fc","chapterSlug":"rw6-34 E","paragraph":391,"wording":"[Thief]","event":"named","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-7b6a-9614-4a64ecca56ac","chapterSlug":"rw6-34 E","paragraph":401,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Beniar","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-7b21-946a-de0d918bab05","chapterSlug":"rw6-34 E","paragraph":405,"wording":"[Thief]","event":"named","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-785a-9069-49eb0bee1cc4","chapterSlug":"rw6-34 E","paragraph":407,"wording":"[Thief]","event":"named","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-78e2-b349-3272918c5cd5","chapterSlug":"rw6-34 E","paragraph":408,"wording":"[Thief]","event":"named","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-724f-8f8b-aeeeae1cdbbc","chapterSlug":"rw6-34 E","paragraph":411,"wording":"[Thief]","event":"named","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-7fdd-97fc-7f85a3a3646d","chapterSlug":"rw6-34 E","paragraph":416,"wording":"[Thief]","event":"named","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-799b-8bab-1683a3660d28","chapterSlug":"rw6-34 E","paragraph":421,"wording":"[Thief]","event":"named","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-74b5-9909-fbb101c12137","chapterSlug":"rw6-34 E","paragraph":423,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Beniar","holderQuote":"“Master Elmmet?”"}
+{"id":"01a0657e-026a-729b-b978-581dcd34ac8f","chapterSlug":"rw6-34 E","paragraph":425,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Alvais","holderQuote":"Elmmet’s one of Lancrel’s big leaders. [Thief] or not, they see you kicking him and there will be another fight."}
+{"id":"01a0657e-026a-7241-a5b0-47b81caf736e","chapterSlug":"rw6-34 E","paragraph":432,"wording":"[Thief]","event":"named","holderQuote":"It was Master Elmmet all this time? Disgusting. The man was a [Councilman]!"}
+{"id":"01a0657e-026a-7b64-93b1-75e79cc978aa","chapterSlug":"rw6-34 E","paragraph":441,"wording":"[Thief]","event":"named","holderQuote":"It was Master Elmmet all this time? Disgusting. The man was a [Councilman]!"}
+{"id":"01a0657e-026a-79ee-9c81-8a80281ed6b8","chapterSlug":"rw6-34 E","paragraph":447,"wording":"[Thief]","event":"named","holderQuote":"It was Master Elmmet all this time? Disgusting. The man was a [Councilman]!"}
+{"id":"01a0657e-026a-7eb1-ab1b-4876ba59a7f5","chapterSlug":"rw6-34 E","paragraph":451,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Prost","holderQuote":"It was Master Elmmet all this time? Disgusting. The man was a [Councilman]!"}
+{"id":"01a0657e-026a-75ad-aac8-06db6d56bca1","chapterSlug":"rw6-34 E","paragraph":465,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7aa8-a326-90bc0974a279","chapterSlug":"rw6-34 E","paragraph":467,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7126-9ab4-151122fa06a4","chapterSlug":"rw6-34 E","paragraph":491,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-79ce-9a1b-9cb238f4f704","chapterSlug":"rw6-34 E","paragraph":735,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"durene","holderQuote":"this business with Master Elmmet may be a problem in itself."}
+{"id":"01a0657e-026a-782f-a223-72d6a5c0dc76","chapterSlug":"rw6-34 E","paragraph":737,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"rie","holderQuote":"Level 30 [Thief]. Probably [Master of Faces] as a Skill."}
+{"id":"01a0657e-026a-7033-884a-9556d8165765","chapterSlug":"rwInterlude - Numbtongue (Pt-1)","paragraph":150,"wording":"[Thief]","event":"named","holderQuote":"“Shut up, Yapper. You. Clear off. We’re busy.”"}
+{"id":"01a0657e-026a-76d4-b0af-09ea9cbb4430","chapterSlug":"rwInterlude - Numbtongue (Pt-1)","paragraph":152,"wording":"[Thief]","event":"named","holderQuote":"“Shut up, Yapper. You. Clear off. We’re busy.”"}
+{"id":"01a0657e-026a-7e15-8724-053676193551","chapterSlug":"rwInterlude - Numbtongue (Pt-1)","paragraph":158,"wording":"[Thief]","event":"named","holderQuote":"“Shut up, Yapper. You. Clear off. We’re busy.”"}
+{"id":"01a0657e-026a-7d7e-b5ef-39c50777f16e","chapterSlug":"rwInterlude - Numbtongue (Pt-1)","paragraph":160,"wording":"[Thief]","event":"named","holderQuote":"“Shut up, Yapper. You. Clear off. We’re busy.”"}
+{"id":"01a0657e-026a-73d4-9989-b8670b732e2b","chapterSlug":"rwInterlude - Numbtongue (Pt-1)","paragraph":172,"wording":"[Thief]","event":"named","holderQuote":"She looked at the trembling [Thief], Yapper."}
+{"id":"01a0657e-026a-785f-8432-87cbaac72f99","chapterSlug":"rwInterlude - Numbtongue (Pt-1)","paragraph":177,"wording":"[Thief]","event":"named","holderQuote":"She looked at the trembling [Thief], Yapper."}
+{"id":"01a0657e-026a-7da2-b437-cf7ffb4a330d","chapterSlug":"rwInterlude - Numbtongue (Pt-1)","paragraph":199,"wording":"[Thief]","event":"named","holderQuote":"She wiped her dagger on Yapper’s front as the [Thief] stood, paralyzed, and sheathed it in disgust."}
+{"id":"01a0657e-026a-723c-bce0-c1ce415b8d15","chapterSlug":"rwInterlude - Numbtongue (Pt-2)","paragraph":611,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7231-be62-5b3d7c250d4f","chapterSlug":"rwInterlude - Numbtongue (Pt-2)","paragraph":792,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-73be-bc15-37ef9a43d422","chapterSlug":"rwInterlude - The Titan's Question","paragraph":49,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-73d9-974e-b61008b4a7ca","chapterSlug":"rw6-38","paragraph":156,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-762d-8213-d71197c0a324","chapterSlug":"rw6-56","paragraph":107,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7f20-a9ef-2f09fd81b759","chapterSlug":"rw6-51 A","paragraph":272,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7cc8-841b-b4598f40f31a","chapterSlug":"rw6-51 A","paragraph":275,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7326-a892-7f2ee4eef615","chapterSlug":"rw6-37 E","paragraph":131,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-798d-8235-a44d4c8b8f03","chapterSlug":"rw6-37 E","paragraph":133,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"prost","holderQuote":"“I don’t have time for lies, Master Elmmet. I’m only asking you one question. With all to see. Are you the [Thief] who’s been stealing from Riverfarm all this time?”"}
+{"id":"01a0657e-026a-77ba-bf7c-acf332f8c334","chapterSlug":"rw6-37 E","paragraph":137,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-70b4-89f8-c295633a1326","chapterSlug":"rw6-37 E","paragraph":137,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7cee-903c-b7a69678e14b","chapterSlug":"rw6-37 E","paragraph":139,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-76b6-8b8a-6037f4d40b5f","chapterSlug":"rw6-37 E","paragraph":143,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"prost","holderQuote":"“You see your man Elmmet. He refuses to answer one question! Is he the [Thief]? He could free himself from the pillory this moment if he answered. If he continues to refuse, I will find him guilty for the dozens of thefts that have plagued Riverfarm. All of them.”"}
+{"id":"01a0657e-026a-7fa5-ae60-e15d6ba367a1","chapterSlug":"rw6-37 E","paragraph":144,"wording":"[Thief]","event":"named","holderSlug":"elmmet","holderQuote":"Lancrel’s folk stared back uncertainly. Many looked at Elmmet with distrust, and Prost was relieved to see some were clear thinkers. But too many listened to the [Thief] as he hoarsely shouted."}
+{"id":"01a0657e-026a-7224-b076-69c26d1817be","chapterSlug":"rw6-37 E","paragraph":147,"wording":"[Thief]","event":"named","holderSlug":"elmmet","holderQuote":"Prost lost his temper and bellowed at the man. The [Thief] flinched, but he still had that desperate confidence in his eyes."}
+{"id":"01a0657e-026a-78e4-8204-2f6935e68737","chapterSlug":"rw6-37 E","paragraph":147,"wording":"[Thief]","event":"named","holderSlug":"elmmet","holderQuote":"No matter what anyone said—if Prost couldn’t get the man to admit his crimes, it didn’t matter. He was a [Thief], and Prost would make sure he was jailed."}
+{"id":"01a0657e-026a-7dbc-bc2c-e722a21b3091","chapterSlug":"rw6-37 E","paragraph":147,"wording":"[Thief]","event":"named","holderSlug":"elmmet","holderQuote":"Prost was sure driving out Elmmet would just see him reappear as the [Thief] and cause more trouble, and as for anything else—"}
+{"id":"01a0657e-026a-7a5d-af73-d703d8c7320d","chapterSlug":"rw6-37 E","paragraph":152,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7a1d-a785-8a7b51bd2647","chapterSlug":"rw6-37 E","paragraph":152,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"Beatica","holderQuote":"“Of course not! I believe everyone present saw exactly what they claimed. But magic—Skills—they can fake a man’s face, can’t they? What if the [Thief] used his [Master of Faces] Skill to impersonate Elmmet? Mister Prost, can we be certain beyond any shadow of a doubt that this is our [Thief] and not a wrongly accused man?”"}
+{"id":"01a0657e-026a-7263-a570-abb641ddc041","chapterSlug":"rw6-37 E","paragraph":155,"wording":"[Thief]","event":"named","holderSlug":"elmmet","holderQuote":"She probably didn’t even care for Elmmet, Prost suspected, but if the damn [Thief] was found guilty, it would throw her authority into question."}
+{"id":"01a0657e-026a-782c-992d-9f6900770fb0","chapterSlug":"rw6-37 E","paragraph":164,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"Helm","holderQuote":"“Stop twisting your words, woman! That man’s a [Thief], and he deserves exile, a noose, or just a few broken bones! He’s guilty, and you Lancrel lot are just protecting him because he’s your big [Councilman]! As corrupt as all of you city-dwelling—”"}
+{"id":"01a0657e-026a-77e5-9ae8-ca26b6d4b850","chapterSlug":"rw6-37 E","paragraph":168,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"prost","holderQuote":"“Master Elmmet. Swear on this truth stone you aren’t the [Thief]. Or I will consider you as such. If you believe the truth stone to be a lie, say it anyways, and we’ll test this stone for all to see. But swear on it!”"}
+{"id":"01a0657e-026a-7a54-a0db-fc46201c63dd","chapterSlug":"rw6-37 E","paragraph":170,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"elmmet","holderQuote":"“I—I—ask my wife and daughter! They’ll vouch that I’m no [Thief]! Ask them!”"}
+{"id":"01a0657e-026a-7b39-89bd-1375e7915322","chapterSlug":"rw6-37 E","paragraph":181,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"hedag","holderQuote":"“I see a lot of bother over a simple matter! You say this man’s a [Thief]? You want to know what crime he deserves? Well, I say, call on a [Guardsman]! Or failing that, call on me! I’ve seen the bad and good sort long enough. And I’ve a Skill to put all questions to rest.”"}
+{"id":"01a0657e-026a-70b4-a526-8f8adf790f4d","chapterSlug":"rw6-37 E","paragraph":211,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"hedag","holderQuote":"“Why, it’s the man’s sins, Mister Steward. All laid out for us to see. Every crime he’s done. From back to front. It marks him as [Thief] and wife beater. And more, I’ll wager. Can’t you feel the truth of it? Will anyone say it’s not so? I dare you, for my Skill tells all truths, and it cannot be swayed by magic nor lies!”"}
+{"id":"01a0657e-026a-7cce-ab81-3eb8afda35aa","chapterSlug":"rw6-37 E","paragraph":225,"wording":"[Thief]","event":"named","holderSlug":"elmmet","holderQuote":"Someone muttered that behind Prost. A hard line, and it came from Beycalt, a [Forewoman] who stared at the [Thief] with disgust."}
+{"id":"01a0657e-026a-7004-972f-693ee2f5a13e","chapterSlug":"rw6-37 E","paragraph":226,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"hedag","holderQuote":"“Some’d say so, Miss. But it’s harder to say. The old laws change from village to village. Some would string up a man who beat his daughter half as hard. Others look the other way. But a [Thief]? There’s a penalty for a [Thief], sure enough. And it’s this.”"}
+{"id":"01a0657e-026a-7f56-a18a-9839fb9346c4","chapterSlug":"rw6-37 E","paragraph":226,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"hedag","holderQuote":"“Some’d say so, Miss. But it’s harder to say. The old laws change from village to village. Some would string up a man who beat his daughter half as hard. Others look the other way. But a [Thief]? There’s a penalty for a [Thief], sure enough. And it’s this.”"}
+{"id":"01a0657e-026a-76b1-94ec-a692c729041f","chapterSlug":"rw6-37 E","paragraph":228,"wording":"[Thief]","event":"named","holderSlug":"elmmet","holderQuote":"Prost stared down at the hand as it landed on the ground. A long-fingered hand with no hair on it. Good for a [Thief]. But not so much severed. Elmmet stared at his stump of a hand in shock."}
+{"id":"01a0657e-026a-7757-9925-f8b842e2c6c9","chapterSlug":"rw6-37 E","paragraph":234,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"hedag","holderQuote":"“So that’s for a child beaten. The hand’s for a [Thief].”"}
+{"id":"01a0657e-026a-73ef-950c-40242a6e1d2b","chapterSlug":"rw6-37 E","paragraph":238,"wording":"[Thief]","event":"named","holderSlug":"elmmet","claimed":true,"claimedBySlug":"hedag","holderQuote":"“And? It’s a punishment as old as time. Drakes do it in their cities. And in some cities around here it’s done. A hand for a [Thief]. A blow for a child-beater.”"}
+{"id":"01a0657e-026a-7f18-8988-77a7ec24536c","chapterSlug":"rw6-42 E","paragraph":234,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-70b5-94ba-5adf42d5eae0","chapterSlug":"rw6-42 E","paragraph":262,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7d6b-a4b9-25abbc39a1e9","chapterSlug":"rw6-57","paragraph":166,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7d24-a560-b8ec9e87b6f5","chapterSlug":"rwInterlude - Queens and Dragons","paragraph":400,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-70e4-8b6a-80f35fa2a5bd","chapterSlug":"rw7-00","paragraph":105,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-770f-bebb-fe7cca7e244b","chapterSlug":"rw7-00","paragraph":357,"wording":"[Thief]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"one of the Gnolls","holderQuote":"“She owns a pet bee. And she was a [Thief]! We expelled her from the city, but there she is. An [Innkeeper]. Credit to her, I say, all things forgiven.”"}
+{"id":"01a0657e-026a-7c79-b656-dba57603a433","chapterSlug":"rw6-61 L","paragraph":442,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7f73-868e-c2258c0b524c","chapterSlug":"rw6-61 L","paragraph":444,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-721d-a191-6ced0c68bc58","chapterSlug":"rw6-61 L","paragraph":447,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-70dd-9a5a-bc3240511f60","chapterSlug":"rw6-61 L","paragraph":449,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-70d4-b2d5-571dbb7ac10b","chapterSlug":"rw6-61 L","paragraph":450,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7d4c-9ceb-f3a5efc9c1ff","chapterSlug":"rw6-61 L","paragraph":479,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7ea6-834b-c73bd1831bbb","chapterSlug":"rw6-61 L","paragraph":479,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7541-8da4-656565b6cc81","chapterSlug":"rw6-61 L","paragraph":495,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7ce2-b181-f947cc05eb7e","chapterSlug":"rw6-61 L","paragraph":497,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-70d2-bd82-2bcad7bc59c9","chapterSlug":"rw6-61 L","paragraph":503,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7ad3-bb43-93dfd1f8ab7f","chapterSlug":"rw6-61 L","paragraph":519,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7832-9cb8-ca5af28e71d8","chapterSlug":"rw6-61 L","paragraph":523,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-72f1-9325-fa55d307c857","chapterSlug":"rw6-61 L","paragraph":524,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7b59-ad85-814476671139","chapterSlug":"rw6-61 L","paragraph":534,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7038-b21a-97511b3bea8e","chapterSlug":"rw6-61 L","paragraph":539,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-762e-b074-f31650e63fa2","chapterSlug":"rw6-61 L","paragraph":545,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7631-9da2-c5ecbe4736d4","chapterSlug":"rw6-61 L","paragraph":550,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7fdc-9e7d-e3366ec8fd38","chapterSlug":"rw6-61 L","paragraph":550,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-72ae-aab2-7f6cc2bee39a","chapterSlug":"rw6-61 L","paragraph":561,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-752a-bcca-653ffbb69cbe","chapterSlug":"rw6-61 L","paragraph":561,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7540-964a-6ef7f1a75ebb","chapterSlug":"rw6-61 L","paragraph":565,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7f46-88ac-ac65fa07ba38","chapterSlug":"rw6-61 L","paragraph":569,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-726b-b7b6-edf1fba31bcd","chapterSlug":"rw6-61 L","paragraph":599,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7f86-9c7f-59fde6deb4c7","chapterSlug":"rw6-61 L","paragraph":602,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7141-ab6d-d2fe25b1e4f4","chapterSlug":"rw6-61 L","paragraph":625,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-781f-93d4-f819c99dfa62","chapterSlug":"rw6-61 L","paragraph":649,"wording":"[Thief]","event":"named","holderSlug":"reric-feltpaw","holderQuote":"“I have a name and a location. Reric Feltpaw. He lives nearby. He entered this bar fifteen minutes ago and attempted to locate a buyer for the flowers he stole from Miss Solstice.”"}
+{"id":"01a0657e-026a-7494-b3a5-db5bfd5f9d63","chapterSlug":"rw6-61 L","paragraph":650,"wording":"[Thief]","event":"named","holderSlug":"reric-feltpaw","holderQuote":"“I have a name and a location. Reric Feltpaw. He lives nearby. He entered this bar fifteen minutes ago and attempted to locate a buyer for the flowers he stole from Miss Solstice.”"}
+{"id":"01a0657e-026a-7052-be1f-e06f9dc9abc0","chapterSlug":"rw6-61 L","paragraph":662,"wording":"[Thief]","event":"named","holderSlug":"reric-feltpaw","holderQuote":"And running into Jerci and Klbkch, who were poised at the alleyway. The [Thief] saw Jerci as she sprang out, and he dodged around her with an oath. Klbkch stuck out a foot, and Reric went flying."}
+{"id":"01a0657e-026a-75e2-b971-0301dd320738","chapterSlug":"rw6-61 L","paragraph":663,"wording":"[Thief]","event":"named","holderSlug":"reric-feltpaw","holderQuote":"And running into Jerci and Klbkch, who were poised at the alleyway. The [Thief] saw Jerci as she sprang out, and he dodged around her with an oath. Klbkch stuck out a foot, and Reric went flying."}
+{"id":"01a0657e-026a-7a2c-96f2-dd29a211ae90","chapterSlug":"rw6-61 L","paragraph":665,"wording":"[Thief]","event":"named","holderSlug":"reric-feltpaw","holderQuote":"And running into Jerci and Klbkch, who were poised at the alleyway. The [Thief] saw Jerci as she sprang out, and he dodged around her with an oath. Klbkch stuck out a foot, and Reric went flying."}
+{"id":"01a0657e-026a-7557-9aa3-a41f474f46e7","chapterSlug":"rw6-61 L","paragraph":665,"wording":"[Thief]","event":"named","holderSlug":"reric-feltpaw","holderQuote":"And running into Jerci and Klbkch, who were poised at the alleyway. The [Thief] saw Jerci as she sprang out, and he dodged around her with an oath. Klbkch stuck out a foot, and Reric went flying."}
+{"id":"01a0657e-026a-79e8-bfc5-e57509eadb6c","chapterSlug":"rw6-61 L","paragraph":670,"wording":"[Thief]","event":"named","holderSlug":"reric-feltpaw","holderQuote":"He didn’t leave, but he watched without lifting a hand to help or saying a word, his arms crossed. Tkrn cuffed the Gnoll, showing Jerci how to make sure he didn’t get away before they could place his paws in manacles. He called out an explanation to the few citizens who wanted to know what had gone on, collected Erin’s flowers from Reric’s belt, and then Jerci and Tkrn marched the [Thief] towards the Watch house."}
+{"id":"01a0657e-026a-7570-92a4-adb3fac6d93b","chapterSlug":"rw6-61 L","paragraph":676,"wording":"[Thief]","event":"named","holderSlug":"reric-feltpaw","holderQuote":"He didn’t leave, but he watched without lifting a hand to help or saying a word, his arms crossed. Tkrn cuffed the Gnoll, showing Jerci how to make sure he didn’t get away before they could place his paws in manacles. He called out an explanation to the few citizens who wanted to know what had gone on, collected Erin’s flowers from Reric’s belt, and then Jerci and Tkrn marched the [Thief] towards the Watch house."}
+{"id":"01a0657e-026a-7ea8-b43d-1b27cd81c91a","chapterSlug":"rw6-61 L","paragraph":679,"wording":"[Thief]","event":"named","holderSlug":"reric-feltpaw","holderQuote":"Jerci glanced at Tkrn. He stared at Klbkch, but the Antinium had gone back to observational mode. Well, Tkrn had handled arrests. He shot a glance at her over his shoulder as Reric whimpered; they were heading into populated streets and some of Liscor’s citizens were staring at the [Thief] as he was marched forwards."}
+{"id":"01a0657e-026a-74c3-8950-3322ec5d18f9","chapterSlug":"rw6-62 L","paragraph":422,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Desril","holderQuote":"“She got knifed in the middle of the night because she was a damn [Thief].”"}
+{"id":"01a0657e-026a-753e-b799-d6d660d10e01","chapterSlug":"rw6-63 P","paragraph":553,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Desirel","holderQuote":"“Here, it’s just incidents. The [Thief]’s probably part of a new gang that moved in. They’re kicking up a fuss; putting out [Thieves] and even robbing folk on the street! The Watch is trying to get them, but the gang’ll probably abandon anyone who gets caught and leave in a few days.”"}
+{"id":"01a0657e-026a-764c-b2f3-2f4c758bbb7d","chapterSlug":"rw6-63 P","paragraph":575,"wording":"[Thief]","event":"named","holderSlug":"wesle-salkis","claimed":true,"claimedBySlug":"Wesle","holderQuote":"“You know, I actually understood some of that. I should try to study a [Thief]. That would be a useful person to imitate.”"}
+{"id":"01a0657e-026a-709d-9372-79cf5872bf42","chapterSlug":"rw6-63 P","paragraph":581,"wording":"[Thief]","event":"named","holderSlug":"rima","holderQuote":"They’d all been upstanding citizens, aside from Rima. And she’d only been arrested as a [Thief] once."}
+{"id":"01a0657e-026a-786f-a2aa-b5a729177a83","chapterSlug":"rw6-63 P","paragraph":749,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7e95-87f3-a31db019c450","chapterSlug":"rw6-63 P","paragraph":752,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7525-a421-7cd5774e01fe","chapterSlug":"rw7-05 P","paragraph":884,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-77d5-80a6-287e11f244ee","chapterSlug":"rw7-05 P","paragraph":918,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-739d-b9c1-184ca58eb416","chapterSlug":"rw7-05 P","paragraph":919,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7544-891e-6324305054cc","chapterSlug":"rw7-05 P","paragraph":919,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7f81-90ee-cda35aaf62d7","chapterSlug":"rw7-05 P","paragraph":936,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7113-ad54-2cc8038e94ab","chapterSlug":"rw7-05 P","paragraph":995,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7139-be95-da4d451f0095","chapterSlug":"rw7-07","paragraph":1104,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7a77-bb4f-1f3fb8233e19","chapterSlug":"rwInterlude - Lifting Ants","paragraph":399,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7501-a512-c84fbe1d95b8","chapterSlug":"rw7-16 L","paragraph":156,"wording":"[Thief]","event":"named","holderSlug":"lyonette","holderQuote":"They knew her. The [Thief] who’d caused so much trouble. But no one said anything. Lyonette had been forgiven by both the Watch and Krshia."}
+{"id":"01a0657e-026a-7bc8-9365-6b8f87c07dfc","chapterSlug":"rw7-16 L","paragraph":167,"wording":"[Thief]","event":"named","holderSlug":"lyonette","holderQuote":"They knew who she was. Even if what they knew was that she was a former [Thief], or that she was Lyonette of The Wandering Inn. But some knew, and Lyonette was being—polite. To Krshia. And because they saw that, it mattered."}
+{"id":"01a0657e-026a-7189-bae8-16cb8afbe1c7","chapterSlug":"rw7-15 R","paragraph":60,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7095-8d40-de03cf549e67","chapterSlug":"rw7-15 R","paragraph":1217,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7742-8df4-10838dee76a0","chapterSlug":"rwInterlude - Strategists at Sea (Pt- 2)","paragraph":223,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-73be-b6d2-107d52da1bf1","chapterSlug":"rwInterlude - Strategists at Sea (Pt- 2)","paragraph":531,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"seborn-sailwinds","holderQuote":"Captain Therrium is a lawless"}
+{"id":"01a0657e-026a-7622-a74a-35f4c2714b0f","chapterSlug":"rw7-20","paragraph":146,"wording":"[Thief]","event":"named","holderQuote":"Maviola didn’t seem surprised to see him."}
+{"id":"01a0657e-026a-7be0-b24d-ba42dafafdc4","chapterSlug":"rw7-20","paragraph":1705,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Bethal Walchaís","holderQuote":"It called to her. Maviola El stared into Liscor. And she felt it. In her chest. In the inn itself. It burned."}
+{"id":"01a0657e-026a-7945-8388-2560987beb1c","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":727,"wording":"[Thief]","event":"named","holderQuote":"Ratici was a [Thief]. Well—broadly. Just like Wilovan was a ‘[Thug]’. But the dapper Gnoll just sat back, looking…patient."}
+{"id":"01a0657e-026a-77ca-95bd-54cd1ffb5879","chapterSlug":"rwInterlude - A Night in the Inn","paragraph":728,"wording":"[Thief]","event":"named","holderQuote":"Ratici was a [Thief]. Well—broadly. Just like Wilovan was a ‘[Thug]’. But the dapper Gnoll just sat back, looking…patient."}
+{"id":"01a0657e-026a-7c9f-b3c8-40925f00b4f2","chapterSlug":"rw7-23 LM","paragraph":517,"wording":"[Thief]","event":"named","holderQuote":"Her hair was mussed, disorderly from sharing a room with Ceria on a floor-mattress. She was in the same clothes as yesterday since her clothing—and her money pouch had been stolen by Thomast."}
+{"id":"01a0657e-026a-7847-b4cb-3a96a3573934","chapterSlug":"rw7-23 LM","paragraph":521,"wording":"[Thief]","event":"named","holderQuote":"Her hair was mussed, disorderly from sharing a room with Ceria on a floor-mattress. She was in the same clothes as yesterday since her clothing—and her money pouch had been stolen by Thomast."}
+{"id":"01a0657e-026a-7cd3-8a82-bec91ccfeae2","chapterSlug":"rw7-23 LM","paragraph":581,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7690-b7d9-687b83fc3e02","chapterSlug":"rw7-23 LM","paragraph":581,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7306-bb84-20a7fceb1378","chapterSlug":"rw7-40 ER","paragraph":424,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-78e5-9c36-e1fab5f55125","chapterSlug":"rw7-26","paragraph":1274,"wording":"[Thief]","event":"named","holderQuote":"Ratici quietly stood in The Wandering Inn. Alone, but for a few staff members hurrying into the kitchen. He walked upstairs, not invisible or camouflaged."}
+{"id":"01a0657e-026a-7f00-8ca7-b8c52d8ef48b","chapterSlug":"rw7-26","paragraph":1280,"wording":"[Thief]","event":"named","holderQuote":"The voice was frustrated. Important, but Ratici liked to chat, even to the rich and powerful. He wasn’t lesser than them. The [Thief] bent to his task, speaking casually."}
+{"id":"01a0657e-026a-7801-9132-26f84447330a","chapterSlug":"rw7-30","paragraph":1321,"wording":"[Thief]","event":"named","holderSlug":"bethal-walchais","claimed":true,"claimedBySlug":"maviola-el","holderQuote":"“You—deserved it. You petty [Thief].”"}
+{"id":"01a0657e-026a-791a-a715-d3962d5a7e0b","chapterSlug":"rw7-43 G","paragraph":61,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"The two Gentlemen Callers seated themselves. Ratici yawned into a claw. Wilovan sniffed the air. It was the Drake who said it."}
+{"id":"01a0657e-026a-7f25-98f9-925ea2b70dcf","chapterSlug":"rw7-43 G","paragraph":81,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"The cup of tea woke both men up—and their bladders. Ratici stood."}
+{"id":"01a0657e-026a-77c1-976e-e4c8fa765809","chapterSlug":"rw7-43 G","paragraph":82,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"The cup of tea woke both men up—and their bladders. Ratici stood."}
+{"id":"01a0657e-026a-7503-8937-f0a9acbb4dcb","chapterSlug":"rw7-43 G","paragraph":95,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"If it was possible for a [Thief] to be in hell, it was Ratici, knowing he couldn’t steal that bag of holding the Goblin was carrying. But, dead gods, he was going to get some of that if he had to win it! The Drake produced a worn set of magical cards and Numbtongue sat forwards."}
+{"id":"01a0657e-026a-799b-b8b4-1dd1ad9101df","chapterSlug":"rw7-43 G","paragraph":103,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"He was so engaged in drawing the Hobgoblin in that Ratici made one mistake. Numbtongue glanced at how relaxed the Drake [Thief] was around him, even with the softener of the gold dust vial. He smiled himself. Until the Drake won the next three rounds of cards."}
+{"id":"01a0657e-026a-7a7c-87f7-1f72e8cff931","chapterSlug":"rw7-43 G","paragraph":112,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"A master [Thief] could win against people who didn’t know he was playing. Wilovan scowled at Ratici. His friend hadn’t come back to the table, so Wilovan had tipped and gone after him. Now he was being unsporting."}
+{"id":"01a0657e-026a-76e5-a80e-4a6116861ccb","chapterSlug":"rw7-43 G","paragraph":142,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"Numbtongue listened to the advice. He matched the bet and stayed in. Ratici coughed; one of the pool player’s daggers dropped off his belt with a loud clatter."}
+{"id":"01a0657e-026a-72a4-9f3e-142e9ad43a39","chapterSlug":"rw7-43 G","paragraph":149,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"Ratici wheedled. Numbtongue still hadn’t produced the blue diamond. The Hobgoblin hesitated."}
+{"id":"01a0657e-026a-7369-9213-149a27418205","chapterSlug":"rw7-43 G","paragraph":154,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"Ratici wheedled. Numbtongue still hadn’t produced the blue diamond. The Hobgoblin hesitated."}
+{"id":"01a0657e-026a-7479-94d0-cc9c5ab1a6a4","chapterSlug":"rw7-43 G","paragraph":171,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"Ratici snorted. Wilovan blinked."}
+{"id":"01a0657e-026a-7c36-be8e-8de79f48e383","chapterSlug":"rw7-43 G","paragraph":171,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"Ratici snorted. Wilovan blinked."}
+{"id":"01a0657e-026a-729e-beae-8fa07a333cb8","chapterSlug":"rw7-43 G","paragraph":758,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"However—Ratici did. He called out as he looked at Numbtongue."}
+{"id":"01a0657e-026a-7c53-a8f8-6acec9e15a11","chapterSlug":"rwInterlude - Experiments in Golems","paragraph":328,"wording":"[Thief]","event":"named","holderSlug":"nsiia","holderQuote":"Nsiia was no [Thief]. She had debated taking the class, but ended up turning it down. She’d never level high enough stealing like this, and it wasn’t a class that would help her, even if it gave her amazing stealth Skills. She could not help Tiqr just by running away."}
+{"id":"01a0657e-026a-7510-98df-28138aeb3ad6","chapterSlug":"rwInterlude - Experiments in Golems","paragraph":837,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7423-ac82-41cf4f0de30b","chapterSlug":"rw7-56","paragraph":674,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7339-a8de-d732835f2295","chapterSlug":"rw7-56","paragraph":1271,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-716e-87c2-5734d4bdd7c4","chapterSlug":"rw7-56","paragraph":1278,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-727e-b09c-6da6cc5cb488","chapterSlug":"rw7-56","paragraph":1279,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-79cc-b2a8-8aa6a356ab9e","chapterSlug":"rw7-56","paragraph":1282,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-77e1-a1fb-49e213ecb13b","chapterSlug":"rw7-56","paragraph":1284,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7450-b291-98e7b36043a9","chapterSlug":"rw7-56","paragraph":1336,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-71e2-bf42-969a3e8e9575","chapterSlug":"rw7-56","paragraph":1342,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"erin-solstice"}
+{"id":"01a0657e-026a-7b64-bfde-7fb4fa56f7e0","chapterSlug":"rw7-48 K","paragraph":398,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Wilovan","holderQuote":"The [Thief] looked around as Wilovan stood next to him. The shorter Drake adjusted his cap."}
+{"id":"01a0657e-026a-7b75-aeeb-db6549d2d3c3","chapterSlug":"rw7-48 K","paragraph":421,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Wilovan","holderQuote":"“Right, right. The thing is, Wilovan, I have noticed a few things. The first thing is that there’s no door here.”"}
+{"id":"01a0657e-026a-7cc1-9bc6-970baebb5f51","chapterSlug":"rw7-48 K","paragraph":421,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Wilovan","holderQuote":"“Right, right. The thing is, Wilovan, I have noticed a few things. The first thing is that there’s no door here.”"}
+{"id":"01a0657e-026a-7ec1-bed1-1b8d2210506f","chapterSlug":"rw7-48 K","paragraph":427,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-76e3-9bca-dd82dc32ff31","chapterSlug":"rw7-44","paragraph":411,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7667-98cb-fbe995cf767b","chapterSlug":"rw7-53","paragraph":432,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7724-bcbe-6c70894c161f","chapterSlug":"rw7-52","paragraph":267,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Wilovan","holderQuote":"“To be more precise, in the interest of honesty, Miss Erin, Ratici here is the finest [Thief] you’d ever lay eyes on, which is an indictment, of course, in his line of work as it were. And I’m a humble [Thug]. A fellow with a club who taps folks and absconds with coin. Dishonest men that we are, you can see why we’d hesitate to introduce ourselves before now.”"}
+{"id":"01a0657e-026a-7c9e-aa70-9b99569eb1df","chapterSlug":"rw7-52","paragraph":270,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"erin-solstice","holderQuote":"“To be more precise, in the interest of honesty, Miss Erin, Ratici here is the finest [Thief] you’d ever lay eyes on, which is an indictment, of course, in his line of work as it were. And I’m a humble [Thug]. A fellow with a club who taps folks and absconds with coin. Dishonest men that we are, you can see why we’d hesitate to introduce ourselves before now.”"}
+{"id":"01a0657e-026a-72d1-a268-d4cd51c25abb","chapterSlug":"rw7-52","paragraph":287,"wording":"[Thief]","event":"named","holderQuote":"The duo sighed even as Erin realized she hadn’t phrased that quite right. Wilovan looked at Ratici. The [Thief] glared at Erin."}
+{"id":"01a0657e-026a-7573-95a1-a81ce1398fbd","chapterSlug":"rw7-52","paragraph":297,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7e77-b319-62fef2a018b8","chapterSlug":"rw7-52","paragraph":1074,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7fd4-a5e5-15416f356f3e","chapterSlug":"rw7-55 E","paragraph":311,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7855-ade3-96e0bec6382b","chapterSlug":"rw7-55 E","paragraph":419,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7869-9426-4c61f499883d","chapterSlug":"rw7-55 E","paragraph":628,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-72b7-aa30-206cc3167bb0","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":246,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7016-903e-f45bdcca5f3c","chapterSlug":"rw7-57","paragraph":1216,"wording":"[Thief]","event":"named","holderQuote":"Wilovan tipped up his tricorne and the [Thief] calmly took a sip."}
+{"id":"01a0657e-026a-757a-aea7-e3dc6d98a31c","chapterSlug":"rw7-60","paragraph":42,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7566-83af-8c048028b417","chapterSlug":"rw7-60","paragraph":1167,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-71d5-89db-6689f4b42689","chapterSlug":"rw8-10","paragraph":456,"wording":"[Thief]","event":"named","holderQuote":"The winner of the thousand foot dash ran across the plains. The Thief of Clouds, one of the most infamous Gnolls that no one was proud of, ran into the distance and abruptly—vanished. The [Riders] spread out, calling for anti-invisibility or camouflage spells, but they never found them."}
+{"id":"01a0657e-026a-7398-876c-6cbb5db21782","chapterSlug":"rw8-10","paragraph":458,"wording":"[Thief]","event":"named","holderQuote":"The winner of the thousand foot dash ran across the plains. The Thief of Clouds, one of the most infamous Gnolls that no one was proud of, ran into the distance and abruptly—vanished. The [Riders] spread out, calling for anti-invisibility or camouflage spells, but they never found them."}
+{"id":"01a0657e-026a-770a-aa75-a5e66066aaa3","chapterSlug":"rw8-10","paragraph":460,"wording":"[Thief]","event":"named","holderQuote":"The winner of the thousand foot dash ran across the plains. The Thief of Clouds, one of the most infamous Gnolls that no one was proud of, ran into the distance and abruptly—vanished. The [Riders] spread out, calling for anti-invisibility or camouflage spells, but they never found them."}
+{"id":"01a0657e-026a-7aaf-9c5c-d6da40761e46","chapterSlug":"rw8-10","paragraph":461,"wording":"[Thief]","event":"named","holderQuote":"The winner of the thousand foot dash ran across the plains. The Thief of Clouds, one of the most infamous Gnolls that no one was proud of, ran into the distance and abruptly—vanished. The [Riders] spread out, calling for anti-invisibility or camouflage spells, but they never found them."}
+{"id":"01a0657e-026a-7610-b885-bdb7581da2c4","chapterSlug":"rw8-10","paragraph":1028,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7f4e-b3ea-0fa1b2e83b95","chapterSlug":"rw8-02","paragraph":562,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-79c1-bfa9-caf1001b4600","chapterSlug":"rw8-00","paragraph":578,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7319-8645-86c9194b1814","chapterSlug":"rw8-00","paragraph":641,"wording":"[Thief]","event":"named","holderSlug":"lyonette","holderQuote":"The [Princess] stood. Lyonette du Marquin of Calanfer. 6th Princess to the throne. Zevara regarded the note Chaldion had sent her."}
+{"id":"01a0657e-026a-7d9f-b736-f8ea64a10150","chapterSlug":"rw8-00","paragraph":960,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7bd6-afd7-1352f5643aec","chapterSlug":"rw8-07 L","paragraph":1137,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"“It’s fine, Wilovan. Thank you for looking around. I don’t know what this is—something wrong, Ratici?”"}
+{"id":"01a0657e-026a-7e38-871e-96e7096999b7","chapterSlug":"rw8-07 L","paragraph":1140,"wording":"[Thief]","event":"used","holderSlug":"ratici","holderQuote":"Lyonette blinked. She wondered what made Ratici’s [Thief] senses tingle. She glanced at Wilovan.","effectQuote":"Lyonette blinked. She wondered what made Ratici’s [Thief] senses tingle. She glanced at Wilovan."}
+{"id":"01a0657e-026a-7742-aa13-7530188e2ae5","chapterSlug":"rw8-13 F","paragraph":552,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7e6f-8def-150a981e8845","chapterSlug":"rw8-14 N","paragraph":532,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7132-aea5-b0724ba5f5e1","chapterSlug":"rw8-14 N","paragraph":555,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7893-80b7-e5da86013618","chapterSlug":"rw8-14 N","paragraph":564,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-72c2-bd5c-44e745a6463f","chapterSlug":"rw8-14 N","paragraph":603,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7f9c-9932-2b8ce0b51728","chapterSlug":"rw8-14 N","paragraph":646,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7ac0-b885-be541387c34b","chapterSlug":"rw8-14 N","paragraph":689,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-78e3-87ed-d4a69578d803","chapterSlug":"rw8-14 N","paragraph":738,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7820-bee4-cb1be522f0d0","chapterSlug":"rw8-23","paragraph":48,"wording":"[Thief]","event":"named","holderSlug":"mrsha","holderQuote":"Not actual gold; Mrsha had little use for actual gold since even the most accepting [Shopkeepers] still asked too many questions if Mrsha wandered up to the counter and tried to pay with five gold coins for a hundred cookies. She’d gotten in real trouble the one time she tried to stand on Visma’s shoulders in a big coat and they’d thought she was a [Thief]…"}
+{"id":"01a0657e-026a-72ff-a714-8f17a536c24d","chapterSlug":"rwInterlude - Paradigm Shift (Pt- 2)","paragraph":635,"wording":"[Thief]","event":"named","holderSlug":"zelkyr","claimed":true,"claimedBySlug":"eldavin","holderQuote":"“The Heartflame Boots! Your master stole the treasure of his people to guard his petty desires!”"}
+{"id":"01a0657e-026a-7027-ba9f-f9bd1b399611","chapterSlug":"rw8-17 H","paragraph":900,"wording":"[Thief]","event":"named","holderSlug":"rags","holderQuote":"Rags was stealing the idea of the Shock Orb! She’d memorized what was inside, to try and recreate later. It would be hard, but no one would know she had been here except Mrsha the Thiefcatcher. And here was a [Thief] of…a [Thought Thief]! An ideas-stealer, the worst kind of thief!"}
+{"id":"01a0657e-026a-7ed0-94d2-f05c6240bc01","chapterSlug":"rw8-16","paragraph":424,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7004-b00e-a1c2153887f5","chapterSlug":"rw8-20","paragraph":762,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7499-9548-694bddb7cb57","chapterSlug":"rw8-20","paragraph":873,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7a84-99b6-7a094dfb4850","chapterSlug":"rw8-22 HE","paragraph":530,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-70ec-9dc5-492383c5ef6c","chapterSlug":"rw8-22 HE","paragraph":539,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7918-9a8b-9713b48e3cc3","chapterSlug":"rw8-22 HE","paragraph":543,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7414-a2a5-8845a6e09020","chapterSlug":"rw8-22 HE","paragraph":548,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7229-b30a-a9276ac6973f","chapterSlug":"rw8-22 HE","paragraph":549,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7cc9-a73c-7ec9434fcd7f","chapterSlug":"rw8-22 HE","paragraph":579,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7eca-af22-9e14bd3ac735","chapterSlug":"rw8-22 HE","paragraph":596,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7f1f-87f8-611392f7ad79","chapterSlug":"rw8-22 HE","paragraph":617,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7b6a-8964-7cd752877c11","chapterSlug":"rw8-22 HE","paragraph":623,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-78db-a0da-b345971449a6","chapterSlug":"rw8-22 HE","paragraph":628,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7040-a3c0-2a524aa854a9","chapterSlug":"rw8-22 HE","paragraph":641,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-75cf-84f9-637cc528415b","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":152,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-700d-85d5-714f89fb8ebd","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":154,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7dd0-b3db-db47aff0c6de","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":155,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7437-9ff5-ad8d83e61ae8","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":158,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7e51-aede-3274f7f33442","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":158,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-734b-9cad-53ae17334935","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":159,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7607-82f3-1340f3a2126f","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":161,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-70f5-a724-276da92340c1","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":163,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7256-a049-70b2fba558c9","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":172,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-79ba-8379-47f1eb4ab381","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":174,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7e02-9809-859442acde7b","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":178,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-73cd-b564-2ffb5d846296","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":187,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-76c3-b063-041dbf0f42f3","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":286,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7be6-8f59-526b3a0912ba","chapterSlug":"rw8-24","paragraph":1099,"wording":"[Thief]","event":"named","holderSlug":"ryoka-griffin","claimed":true,"claimedBySlug":"unidentified pursuer","holderQuote":"“You won’t escape me. Not you, [Thief]!”"}
+{"id":"01a0657e-026a-7ec2-9e3e-9a4d0146bde2","chapterSlug":"rw8-24","paragraph":1105,"wording":"[Thief]","event":"named","holderSlug":"ryoka-griffin","claimed":true,"claimedBySlug":"unidentified pursuer","holderQuote":"“—not escape. You are hunted, [Thief]! I know your name—”"}
+{"id":"01a0657e-026a-7210-a081-8eb6dc9ecb6e","chapterSlug":"rw8-25 KH","paragraph":726,"wording":"[Thief]","event":"named","holderQuote":"The female [Thief] shivered. Her name was Rexes, and she was a Cotton-caste [Thief]. Her strings were frayed, but she had old, silk arms, which made them fast—too bad her legs hadn’t been as fast, or she wouldn’t have been caught."}
+{"id":"01a0657e-026a-7e03-81b0-477c096e3ffa","chapterSlug":"rw8-25 KH","paragraph":738,"wording":"[Thief]","event":"named","holderQuote":"The female [Thief] shivered. Her name was Rexes, and she was a Cotton-caste [Thief]. Her strings were frayed, but she had old, silk arms, which made them fast—too bad her legs hadn’t been as fast, or she wouldn’t have been caught."}
+{"id":"01a0657e-026a-7a71-b44d-fb718142c253","chapterSlug":"rw8-25 KH","paragraph":738,"wording":"[Thief]","event":"named","holderQuote":"The female [Thief] shivered. Her name was Rexes, and she was a Cotton-caste [Thief]. Her strings were frayed, but she had old, silk arms, which made them fast—too bad her legs hadn’t been as fast, or she wouldn’t have been caught."}
+{"id":"01a0657e-026a-7ddc-bead-cf120a4ada73","chapterSlug":"rw8-25 KH","paragraph":749,"wording":"[Thief]","event":"named","holderQuote":"The female [Thief] shivered. Her name was Rexes, and she was a Cotton-caste [Thief]. Her strings were frayed, but she had old, silk arms, which made them fast—too bad her legs hadn’t been as fast, or she wouldn’t have been caught."}
+{"id":"01a0657e-026a-77cf-98f6-dd758e8c0d22","chapterSlug":"rw8-25 KH","paragraph":798,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-76f6-8808-bd8e893b829d","chapterSlug":"rw8-25 KH","paragraph":973,"wording":"[Thief]","event":"named","holderQuote":"Rexel looked at Yvlon. The [Armsmistress] was feeling at the stump of her other arm. The [Thief] nodded."}
+{"id":"01a0657e-026a-79be-9621-cfab735e9222","chapterSlug":"rwInterlude - The Pets of Innworld","paragraph":726,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7201-9bd7-2956e16f2575","chapterSlug":"rw8-30","paragraph":929,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7cd0-a4d6-b7da22221664","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":90,"wording":"[Thief]","event":"named","holderQuote":"She grinned superiorly at him with a cracked beak. Cawe had heard all about Pisces’ story. He glowered back."}
+{"id":"01a0657e-026a-7f98-a1ed-8a579156d988","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":184,"wording":"[Thief]","event":"named","holderQuote":"It was about Skills or trust. He didn’t know if he could trust Bearig or Cawe, but they were close to him and it was good to make friends. Cawe could be helpful, though. He learned she was not, in fact, a [Thief] when he offended her by using the class."}
+{"id":"01a0657e-026a-717f-95f7-3f6ed060e8b2","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":189,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7922-9901-0a2839c05191","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":462,"wording":"[Thief]","event":"named","holderQuote":"Magic, not tumblers. Another reason no [Thief] would free themselves, not even Cawe. He didn’t reply as the [Guard] taunted him, merely memorized the key’s shape."}
+{"id":"01a0657e-026a-74a1-ad6e-86ca7fa680ce","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":1750,"wording":"[Thief]","event":"named","holderSlug":"pisces","claimed":true,"claimedBySlug":"Pisces","holderQuote":"The other [Slaves] glanced up at the fancy Wistram-word. Pisces lay there, gazing up at Cawe. He saw her cracked beak open and the [Pickpocket] grinned."}
+{"id":"01a0657e-026a-7b75-9a2d-a2c5232f25ba","chapterSlug":"rw8-32","paragraph":391,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-73c8-9618-de39a0d163e6","chapterSlug":"rw8-32","paragraph":558,"wording":"[Thief]","event":"named","holderSlug":"cawe","claimed":true,"claimedBySlug":"Igheriz","holderQuote":"Ah, Miss Human. There are always many stories. How can you trust a [Thief]’s word over mine? Let me just—"}
+{"id":"01a0657e-026a-7b86-bf7f-d5036ec22def","chapterSlug":"rw8-32","paragraph":808,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-79f2-a339-8a86f92a0863","chapterSlug":"rw8-33 R","paragraph":243,"wording":"[Thief]","event":"named","holderSlug":"ryoka-griffin","claimed":true,"claimedBySlug":"the voice","holderQuote":"Only one man in the gathering could move that fast. There was a curse from above in a tongue Ryoka had never heard."}
+{"id":"01a0657e-026a-7468-8a82-1d47a3850d55","chapterSlug":"rw8-34 R","paragraph":118,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7570-a0ca-478f71e68113","chapterSlug":"rw8-34 R","paragraph":398,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7dd1-be2b-434f5d6ad347","chapterSlug":"rw8-34 R","paragraph":431,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7a7e-b03b-71990038b28e","chapterSlug":"rw8-34 R","paragraph":986,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-79f8-a741-c8725500ebbe","chapterSlug":"rwInterlude - Songs and Stories","paragraph":229,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7521-b6f0-6538b85a6419","chapterSlug":"rw8-45 O","paragraph":163,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"Ratici looked at Wilovan. The Gnoll was checking a menu, glancing around. The restaurant section was set in the center, and to the sides were the gambling tables."}
+{"id":"01a0657e-026a-78a8-9042-a7c4790f52ac","chapterSlug":"rw8-45 O","paragraph":315,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"Wilovan nudged Ratici as the Drake snapped at last. Poruniv’s eyes narrowed. He glared at the [Thief]."}
+{"id":"01a0657e-026a-7b47-8142-ee309d50a075","chapterSlug":"rw8-45 O","paragraph":348,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"The air turned to fire. Wilovan inhaled flames and bellowed, the first sound he’d made. Ratici tore out of the flames and saw the Drake named Ecleeif standing there, pointing a finger. No spell. The [Sorcerer] just pointed and the air turned to flame. He backed up, cursing, shooting a spell in his off-hand with a wand as Ratici dove at him."}
+{"id":"01a0657e-026a-7ea3-bc1e-5912d81abbc9","chapterSlug":"rw8-45 O","paragraph":348,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"The air turned to fire. Wilovan inhaled flames and bellowed, the first sound he’d made. Ratici tore out of the flames and saw the Drake named Ecleeif standing there, pointing a finger. No spell. The [Sorcerer] just pointed and the air turned to flame. He backed up, cursing, shooting a spell in his off-hand with a wand as Ratici dove at him."}
+{"id":"01a0657e-026a-717a-aa48-7e683af81b60","chapterSlug":"rw8-45 O","paragraph":365,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"The air turned to fire. Wilovan inhaled flames and bellowed, the first sound he’d made. Ratici tore out of the flames and saw the Drake named Ecleeif standing there, pointing a finger. No spell. The [Sorcerer] just pointed and the air turned to flame. He backed up, cursing, shooting a spell in his off-hand with a wand as Ratici dove at him."}
+{"id":"01a0657e-026a-7ad2-8999-bf72858db124","chapterSlug":"rw8-45 O","paragraph":395,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"Ratici grabbed Wilovan and he tumbled over the wall. Rickel leapt and landed hard, swearing. Ratici nimbly dove and landed like a cat—but he tossed down one last object before he did."}
+{"id":"01a0657e-026a-79d2-b9a1-7d61c3ae6f31","chapterSlug":"rw8-45 O","paragraph":781,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7ef7-8477-a9b9f3c41001","chapterSlug":"rw8-45 O","paragraph":792,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7e91-ad00-8dce4ec3e0be","chapterSlug":"rw8-45 O","paragraph":792,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-7461-9c23-41c68f8724fc","chapterSlug":"rw8-45 O","paragraph":794,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-75f9-aeb8-64c7f77175ec","chapterSlug":"rw8-42","paragraph":118,"wording":"[Thief]","event":"named","holderSlug":"vetn","holderQuote":"And the other Gnoll, the long-legged, fast sprinter. Vetn, or as they called him, the Thief of Clouds. Two famous individuals who actually knew each other. Who, unbeknownst to the rest of the world, were actually friends. It was thanks to Sellme that the Thief of Clouds had his iconic name."}
+{"id":"01a0657e-026a-73dd-98de-9e1c7f99164a","chapterSlug":"rw8-42","paragraph":150,"wording":"[Thief]","event":"named","holderSlug":"vetn","holderQuote":"Marwsh was indeed going insane with noise and activity. Their army was marching out the gates, following the Gnolls. Vetn shook his head."}
+{"id":"01a0657e-026a-77a7-a2ed-2ec58d4cbb9d","chapterSlug":"rw8-42","paragraph":204,"wording":"[Thief]","event":"named","holderSlug":"vetn","holderQuote":"“Vetn, you’re too stingy. I don’t have much money…”"}
+{"id":"01a0657e-026a-77c3-a4e0-77da4c11a01c","chapterSlug":"rw8-42","paragraph":541,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-741f-974a-271b83c28d62","chapterSlug":"rw8-50","paragraph":288,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-77d0-8184-33a8666d7580","chapterSlug":"rw8-37 H","paragraph":803,"wording":"[Thief]","event":"named","holderSlug":"femithain","holderQuote":"he had held his tongue because Femithain was not a [Thief]."}
+{"id":"01a0657e-026a-7a41-a74a-d1818f5f68af","chapterSlug":"rw8-35","paragraph":764,"wording":"[Thief]","event":"named","holderQuote":"They told her these things…perhaps to make her angry. To curry favor, like Rexel, the [Storm Bandit], or Leprel, the [Thief]."}
+{"id":"01a0657e-026a-754b-905d-54b29b803371","chapterSlug":"rw8-39","paragraph":241,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026a-76ab-a172-8363ca661b25","chapterSlug":"rw8-36 H","paragraph":364,"wording":"[Thief]","event":"named","holderQuote":"Queen Yisame was re-reading one of her favorite books. The Lightning Thief and the Eye of Baleros, a somewhat-accurate retelling of the actual [Thief], Thivian Stormless."}
+{"id":"01a0657e-026a-7372-8bcc-1c9e7edb10bd","chapterSlug":"rw8-36 H","paragraph":381,"wording":"[Thief]","event":"named","holderQuote":"The Thief of Clouds is a noteworthy new [Thief]; this humble [Writer] cannot yet identify more than a few salient facts."}
+{"id":"01a0657e-026b-7304-9826-2b0fabb2eef5","chapterSlug":"rw8-36 H","paragraph":383,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-74a1-a2bd-e768ba5cf5d2","chapterSlug":"rw8-36 H","paragraph":392,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-72f9-addd-9b28d875c59f","chapterSlug":"rw8-36 H","paragraph":393,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7e80-a9c3-f5e7ddcc526e","chapterSlug":"rw8-36 H","paragraph":393,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7f43-bf24-fac1a7fac338","chapterSlug":"rw8-36 H","paragraph":570,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-76af-8af1-57381536fdce","chapterSlug":"rw8-36 H","paragraph":624,"wording":"[Thief]","event":"named","holderQuote":"Leprel explained again. The [Thief] was dripping with water; she’d bathed for the first time since being caught."}
+{"id":"01a0657e-026b-7f2f-b5af-5666edf1f5a3","chapterSlug":"rw8-36 H","paragraph":626,"wording":"[Thief]","event":"named","holderQuote":"Leprel explained again. The [Thief] was dripping with water; she’d bathed for the first time since being caught."}
+{"id":"01a0657e-026b-7e00-a356-9b07057b96ea","chapterSlug":"rw8-48 H","paragraph":84,"wording":"[Thief]","event":"named","holderQuote":"After the bout, Rexel made the proclamation to Leprel, the [Thief] and her teammate in the three-woman team. Yvlon was sitting on a bench as an [Arena Healer] gingerly tended to her wounds."}
+{"id":"01a0657e-026b-72b1-849b-4f84b8c84aab","chapterSlug":"rw8-48 H","paragraph":300,"wording":"[Thief]","event":"named","holderQuote":"“Some use swords. I’ve never heard of him…Leprel?”"}
+{"id":"01a0657e-026b-750a-869f-8d7be5a7f816","chapterSlug":"rw8-53 FH","paragraph":461,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7237-996a-3daf71719e66","chapterSlug":"rw8-54 H","paragraph":218,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7eaf-b3be-9e31721d0f1f","chapterSlug":"rw8-54 H","paragraph":542,"wording":"[Thief]","event":"named","holderQuote":"Yvlon put on the hood silently and stared at Leprel and Rexel. The [Thief] and [Storm Bandit] followed the other three [Gladiators] into the capital of Nerrhavia’s Fallen. Rexel grinned at Yvlon."}
+{"id":"01a0657e-026b-7088-a057-951cb30ffeb1","chapterSlug":"rw8-55 L","paragraph":285,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"Wilovan smiled. Ratici watched him standing there, only wearing his undergarments. The Drake [Thief] coughed."}
+{"id":"01a0657e-026b-7e07-96d1-6568ef2ff3d8","chapterSlug":"rw8-55 L","paragraph":355,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-758b-93b1-79d51e4ab6d8","chapterSlug":"rw8-55 L","paragraph":398,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7eb1-840e-92ab0802591f","chapterSlug":"rw8-57 H","paragraph":54,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7d4d-bfb1-4d2deb56a50c","chapterSlug":"rw8-57 H","paragraph":56,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7bed-aec2-60c674fc5ffe","chapterSlug":"rw8-57 H","paragraph":70,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7b34-9fc3-53c0c3bf4826","chapterSlug":"rw8-63 K","paragraph":321,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-742f-9c54-5ca048a1d17e","chapterSlug":"rwInterlude – Hectval (Pt- 3)","paragraph":1141,"wording":"[Thief]","event":"named","holderQuote":"That was possibly why Thief had developed her habit."}
+{"id":"01a0657e-026b-79e6-b4fa-bc106b6d0002","chapterSlug":"rw8-66","paragraph":190,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7aed-ba68-cf49b5d1fcdd","chapterSlug":"rw8-66","paragraph":461,"wording":"[Thief]","event":"named","holderQuote":"Vetn edged as far back from Lehra as he could. The Thief of Clouds"}
+{"id":"01a0657e-026b-7c1c-967b-0f4b2288a6aa","chapterSlug":"rw8-66","paragraph":999,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7620-85d3-06ad6e32a842","chapterSlug":"rw8-66","paragraph":1008,"wording":"[Thief]","event":"named","holderQuote":"Mrsha and Mrell both stared at him, and the [Thief] unapologetically began dipping the carrot"}
+{"id":"01a0657e-026b-77e7-b139-faa765996447","chapterSlug":"rw8-66","paragraph":1064,"wording":"[Thief]","event":"named","holderQuote":"everyone but Vetn was caught off-guard, and the [Thief] didn’t stop Mrsha"}
+{"id":"01a0657e-026b-70aa-979e-9fe7b58e300d","chapterSlug":"rw8-66","paragraph":1137,"wording":"[Thief]","event":"named","holderQuote":"Vetn remarked neutrally"}
+{"id":"01a0657e-026b-70a5-b772-5949858eed2b","chapterSlug":"rw8-68","paragraph":687,"wording":"[Thief]","event":"named","holderSlug":"ryoka-griffin","claimed":true,"claimedBySlug":"Rhisveri","holderQuote":"Rhisveri was wrong when he called her a minor [Thief]."}
+{"id":"01a0657e-026b-7419-b1eb-aee19459a47e","chapterSlug":"rwInterlude - The Isles of Goblin and Minos","paragraph":332,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7adb-a5ac-bcec5473a496","chapterSlug":"rw8-83","paragraph":405,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7762-a023-0142b923d9a6","chapterSlug":"rw8-83","paragraph":413,"wording":"[Thief]","event":"named","holderQuote":"Vetn tried to dodge, and a hand grabbed his throat."}
+{"id":"01a0657e-026b-73a3-b644-0ab90729d0db","chapterSlug":"rw8-82 (Pt. 2)","paragraph":115,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-72fb-ab7b-26a343c13d74","chapterSlug":"rw8-79","paragraph":476,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7c0d-b270-959088fde195","chapterSlug":"rw8-81","paragraph":407,"wording":"[Thief]","event":"named","holderQuote":"Empress Nsiia of Tiqr."}
+{"id":"01a0657e-026b-7819-98c0-375c7f481e26","chapterSlug":"rw8-84","paragraph":415,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-78e5-bd8f-b30ffca3396f","chapterSlug":"rw8-84","paragraph":552,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-70b0-a67c-3720cad7f668","chapterSlug":"rw8-85","paragraph":379,"wording":"[Thief]","event":"named","holderQuote":"Lulv stabbed Vetn in the shoulder and buried a knife in the [Thief]’s arm"}
+{"id":"01a0657e-026b-7f68-a99e-e4289fc328ef","chapterSlug":"rw9-02","paragraph":53,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-74a0-9df3-cb7f499ceb19","chapterSlug":"rw9-13","paragraph":1069,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7c4e-a00e-94144055d991","chapterSlug":"rw9-14 VM","paragraph":659,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7e4d-8a1a-787822930df3","chapterSlug":"rw9-17 R","paragraph":240,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7c06-b37a-75cb0624ad87","chapterSlug":"rw9-17 R","paragraph":245,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-771c-8ca1-74c4588992d0","chapterSlug":"rw9-17 R","paragraph":247,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7b85-b42c-99f5eb32c584","chapterSlug":"rw9-17 R","paragraph":350,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7513-9315-42057df59880","chapterSlug":"rw9-17 R","paragraph":722,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-73d0-b6f5-ee62b8de0ef7","chapterSlug":"rw9-17 R","paragraph":724,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7520-876d-5534859fe481","chapterSlug":"rw9-17 R","paragraph":726,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7c25-b5dd-b1d0fe3027e9","chapterSlug":"rw9-17 R","paragraph":727,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7c30-b593-00d7b2496f1f","chapterSlug":"rw9-17 R","paragraph":727,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7f6e-b4c0-11241fb8fa69","chapterSlug":"rw9-17 R","paragraph":729,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7564-acc5-ce3629d6cd48","chapterSlug":"rw9-17 R","paragraph":734,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-722f-990d-9a38ca164304","chapterSlug":"rw9-17 R","paragraph":736,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7937-be29-6ad9bcf86349","chapterSlug":"rw9-17 R","paragraph":738,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7cf5-b1e4-e11e034c54c9","chapterSlug":"rw9-17 R","paragraph":1060,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7da6-aac1-11bf60562864","chapterSlug":"rw9-17 R","paragraph":1065,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-75f3-81d0-1706d18c67a9","chapterSlug":"rw9-17 R","paragraph":1070,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7c4c-b81f-eb3c80337de7","chapterSlug":"rw9-17 R","paragraph":1074,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7566-9c1f-728c6011cf42","chapterSlug":"rw9-17 R","paragraph":1080,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-74a9-8b0a-7deb4f2cb3c4","chapterSlug":"rw9-17 R","paragraph":1082,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-79fd-a0f6-270d21d7425d","chapterSlug":"rw9-17 R","paragraph":1086,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-70b3-99db-56045f6227aa","chapterSlug":"rw9-17 R","paragraph":1088,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7017-ae56-27959f74c686","chapterSlug":"rw9-17 R","paragraph":1090,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-76c0-bedb-d29dac36c79e","chapterSlug":"rw9-17 R","paragraph":1106,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-75c8-b6c3-741408c9fe23","chapterSlug":"rw9-17 R","paragraph":1107,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7233-8bb0-c28af62d91e9","chapterSlug":"rw9-17 R","paragraph":1108,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7512-bfb1-488398c21f80","chapterSlug":"rw9-17 R","paragraph":1109,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-778e-80d2-c9bf59d0835f","chapterSlug":"rw9-17 R","paragraph":1113,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7695-a9c9-94af2e68c02b","chapterSlug":"rw9-17 R","paragraph":1115,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7f2b-acd6-ba96059b7e46","chapterSlug":"rw9-17 R","paragraph":1132,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-760f-bbbd-578e4ea3f12b","chapterSlug":"rw9-17 R","paragraph":1132,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-76a2-b5ec-534f130f33ba","chapterSlug":"rw9-17 R","paragraph":1149,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7b81-b20d-ce5cd8dd6938","chapterSlug":"rw9-17 R","paragraph":1150,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7f53-a5da-715a4dbcc068","chapterSlug":"rw9-17 R","paragraph":1156,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-73dc-846c-7efec911f2fb","chapterSlug":"rw9-17 R","paragraph":1164,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7457-8c7c-034bc0e979b8","chapterSlug":"rw9-17 R","paragraph":1165,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-788a-ab50-a70c435ebdbe","chapterSlug":"rw9-17 R","paragraph":1166,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7c11-a2ed-2ffc2e5dac63","chapterSlug":"rw9-19","paragraph":505,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7311-a35f-732bcd3f82bd","chapterSlug":"rw9-20","paragraph":171,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-75eb-936b-5e1716a98252","chapterSlug":"rw9-20","paragraph":175,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7de7-a8ce-c777bed31f5c","chapterSlug":"rw9-20","paragraph":178,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-737a-866d-4d5407bda0d5","chapterSlug":"rw9-20","paragraph":178,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7ce0-8b34-dd4c764a9cc8","chapterSlug":"rw9-20","paragraph":182,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7850-a83f-e87c6bd7d498","chapterSlug":"rw9-20","paragraph":184,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7ef8-8b2c-1d27d14f0553","chapterSlug":"rw9-20","paragraph":187,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-78f9-91e5-1c5c50c6c736","chapterSlug":"rw9-20","paragraph":211,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"qwera","holderQuote":"I needed a [Thief] to stop a [Thief]."}
+{"id":"01a0657e-026b-713a-81a1-9aee4f01f913","chapterSlug":"rw9-20","paragraph":211,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7183-b588-7a763768fe8a","chapterSlug":"rw9-20","paragraph":453,"wording":"[Thief]","event":"named","holderSlug":"mrsha","claimed":true,"claimedBySlug":"wailant","holderQuote":"Come back, you salt-[Thief]! I’ll teach you to nab my damn omelet!"}
+{"id":"01a0657e-026b-79c2-863a-71068ee81f2b","chapterSlug":"rw9-20","paragraph":512,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7575-bad9-edffd5be1fb8","chapterSlug":"rw9-20","paragraph":512,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-723e-b46e-64dab4919721","chapterSlug":"rwInterlude – Halfseekers (Pt- 9)","paragraph":77,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-70cd-a26d-b6431fefd990","chapterSlug":"rwInterlude - Stories","paragraph":743,"wording":"[Thief]","event":"named","holderSlug":"bviora","holderQuote":"Oh, and her age. She couldn’t have been twenty yet…and that crystal hand"}
+{"id":"01a0657e-026b-7ab0-87ec-a2b3e2aee2ff","chapterSlug":"rwInterlude - Stories","paragraph":750,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7dca-a627-505f7c91ee5c","chapterSlug":"rwInterlude - Stories","paragraph":769,"wording":"[Thief]","event":"named","holderSlug":"vetn","claimed":true,"claimedBySlug":"Bviora","holderQuote":"Oh, come on. I thought you were a good [Thief]"}
+{"id":"01a0657e-026b-7185-bbb8-05865400f65c","chapterSlug":"rwInterlude - Stories","paragraph":781,"wording":"[Thief]","event":"named","holderSlug":"vetn","holderQuote":"Vetn hadn’t seen more than a few things made of the rare metal"}
+{"id":"01a0657e-026b-7642-9df7-136f29c4c179","chapterSlug":"rwInterlude - Stories","paragraph":783,"wording":"[Thief]","event":"named","holderSlug":"bviora","claimed":true,"claimedBySlug":"Vetn","holderQuote":"Or I walk, Bviora. You’re too suspicious."}
+{"id":"01a0657e-026b-782d-a5b7-cdda8f450e5b","chapterSlug":"rwInterlude - Stories","paragraph":783,"wording":"[Thief]","event":"named","holderSlug":"vetn","claimed":true,"claimedBySlug":"Vetn","holderQuote":"Or I walk, Bviora. You’re too suspicious."}
+{"id":"01a0657e-026b-715b-abc8-4e9630d151dd","chapterSlug":"rwInterlude - Stories","paragraph":789,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7014-ba06-aabfa3521602","chapterSlug":"rwInterlude - Stories","paragraph":803,"wording":"[Thief]","event":"named","holderSlug":"bviora","claimed":true,"claimedBySlug":"Vetn","holderQuote":"Vetn folded his arms, and Bviora turned beet red"}
+{"id":"01a0657e-026b-7e68-bc1c-4bca14a00c91","chapterSlug":"rwInterlude - Stories","paragraph":805,"wording":"[Thief]","event":"named","holderSlug":"bviora","holderQuote":"Vetn’s real guess was that Bviora was an agent of some other power"}
+{"id":"01a0657e-026b-7246-ad2d-bc43fa69955b","chapterSlug":"rwInterlude - Stories","paragraph":819,"wording":"[Thief]","event":"named","holderQuote":"Thivian Stormless. Bviora raised her crystal hand"}
+{"id":"01a0657e-026b-7a6a-b71d-e84d348f4644","chapterSlug":"rwInterlude - Stories","paragraph":819,"wording":"[Thief]","event":"named","holderQuote":"Thivian Stormless. Bviora raised her crystal hand"}
+{"id":"01a0657e-026b-7b34-8bc0-558618722d62","chapterSlug":"rwInterlude - Stories","paragraph":900,"wording":"[Thief]","event":"named","holderQuote":"he was not yet the Lightning Thief, just a young [Thief] who had made his mark stealing from Archmage Zelkyr’s Golems"}
+{"id":"01a0657e-026b-7789-a992-c2370729d8ea","chapterSlug":"rwInterlude - Halfseekers (Pt- 4)","paragraph":885,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7f25-8384-2db0ba102b04","chapterSlug":"rwInterlude - Halfseekers (Pt- 4)","paragraph":888,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-700b-9dfb-0bf26c4f82d7","chapterSlug":"rw9-41 (Pt. 1)","paragraph":714,"wording":"[Thief]","event":"named","holderQuote":"Vetn walked into the room. The Gnoll [Thief] eyed the dirty bowls stacked up, the paints strewn about, and the mess."}
+{"id":"01a0657e-026b-70a4-b0cc-ded9a44ec6df","chapterSlug":"rw10-23 LMGY","paragraph":305,"wording":"[Thief]","event":"named","holderSlug":"moltin","holderQuote":"Moltin was still thrown in jail for a full day"}
+{"id":"01a0657e-026b-747b-8466-dd4c4fc5d3a7","chapterSlug":"rw10-55 F","paragraph":329,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7948-92e4-8f63e542d9a7","chapterSlug":"rw10-55 F","paragraph":341,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Blithe","holderQuote":"He was a [Thief], not some killer."}
+{"id":"01a0657e-026b-716b-8347-aeaabdc2c8ff","chapterSlug":"rwInterlude - Halfseekers (Pt- 5)","paragraph":243,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7164-9e4c-c724ce1eba3b","chapterSlug":"rw10-38 E","paragraph":720,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7ba7-b269-e54e10997cbc","chapterSlug":"rw10-59 T","paragraph":2216,"wording":"[Thief]","event":"named","holderSlug":"tessa-sharpclaw","claimed":true,"claimedBySlug":"Lyonette","holderQuote":"I was caught in Liscor as a [Thief]."}
+{"id":"01a0657e-026b-7813-a135-746ccfb0a75e","chapterSlug":"rw10-13","paragraph":1685,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7363-9d7d-6425157e1dd6","chapterSlug":"rwInterlude – Halfseekers (Pt- 7)","paragraph":1454,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-791d-9c03-ca8b64eda89e","chapterSlug":"rwInterlude – Halfseekers (Pt- 7)","paragraph":1462,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7cf5-b403-3dea0c01197d","chapterSlug":"rw10-40 T","paragraph":679,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-73a5-85b8-57915621735f","chapterSlug":"rw9-49","paragraph":631,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7fda-9002-88aab4630724","chapterSlug":"rwInterlude - Barelle the [Bard]","paragraph":83,"wording":"[Thief]","event":"named","holderQuote":"the Lightning Thief’s final adventure came to a close"}
+{"id":"01a0657e-026b-7108-9b2d-6c1331198e52","chapterSlug":"rw10-33 MNK","paragraph":389,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7c64-bacc-28de8aa8dcfa","chapterSlug":"rw9-50","paragraph":438,"wording":"[Thief]","event":"named","holderSlug":"vetn","holderQuote":"The Gnoll [Thief] was next in line. Vetn looked a bit sleep-deprived, stressed"}
+{"id":"01a0657e-026b-7c7b-93db-eb4c759aa174","chapterSlug":"rw9-50","paragraph":466,"wording":"[Thief]","event":"named","holderSlug":"vetn","holderQuote":"Vetn? He was a [Renowned Masterthief of Treasures]."}
+{"id":"01a0657e-026b-7b33-bdd3-80b7f9d4d0e5","chapterSlug":"rw9-50","paragraph":473,"wording":"[Thief]","event":"named","holderSlug":"vetn","holderQuote":"But they translated into a perfect turn, and Vetn was running left as he reappeared five steps away from Klbkch and Garry."}
+{"id":"01a0657e-026b-779d-9c96-a8b83b064d7f","chapterSlug":"rw9-50","paragraph":486,"wording":"[Thief]","event":"named","holderSlug":"vetn","claimed":true,"claimedBySlug":"Klbkch","holderQuote":"I ignored you because you were Erin’s guest. Once a [Thief], always."}
+{"id":"01a0657e-026b-78c7-9a16-5fe4eec69440","chapterSlug":"rw9-50","paragraph":511,"wording":"[Thief]","event":"named","holderSlug":"vetn","holderQuote":"Klbkch felt Vetn tensing through the sword’s tip buried in the [Thief]’s shoulder."}
+{"id":"01a0657e-026b-772d-858a-2176454b8693","chapterSlug":"rw9-50","paragraph":523,"wording":"[Thief]","event":"named","holderSlug":"bviora","holderQuote":"He aimed at the [Thief] he didn’t know, the young woman with the crystal hand."}
+{"id":"01a0657e-026b-7cdc-b10e-899cfda86d19","chapterSlug":"rw9-50","paragraph":528,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-730a-8605-48c5b685ff8e","chapterSlug":"rw9-50","paragraph":717,"wording":"[Thief]","event":"named","holderSlug":"vetn","holderQuote":"In one hour, Vetn and Bviora had used every second of it well."}
+{"id":"01a0657e-026b-79cd-98b3-150d3b4f6cc6","chapterSlug":"rw9-50","paragraph":944,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7c78-b3d5-b035bb4f0e72","chapterSlug":"rw9-50","paragraph":1037,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-783f-bada-589ac0947468","chapterSlug":"rw9-50","paragraph":1222,"wording":"[Thief]","event":"named","holderQuote":"A book written by Krsysl Wordsmith, one of the many authors who’d contributed to the apparently-factual accounts of the [Thief]’s adventures."}
+{"id":"01a0657e-026b-7e6f-957f-1199a9ad5d56","chapterSlug":"rw9-50","paragraph":1274,"wording":"[Thief]","event":"named","holderSlug":"vetn","holderQuote":"What was true was this: Vetn was gone, and he had been ready to leave."}
+{"id":"01a0657e-026b-7748-bb72-3302324e6169","chapterSlug":"rw9-50","paragraph":1279,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-70d9-be17-0db299841ff4","chapterSlug":"rw9-50","paragraph":1299,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7c4b-bfe4-95dc4f0fe4da","chapterSlug":"rw9-50","paragraph":1309,"wording":"[Thief]","event":"named","holderSlug":"vetn","claimed":true,"claimedBySlug":"Vetn","holderQuote":"I’m a [Thief], Erin. A miserable [Thief]."}
+{"id":"01a0657e-026b-7ef4-8357-9c87d30b3ccc","chapterSlug":"rw9-50","paragraph":1309,"wording":"[Thief]","event":"named","holderSlug":"vetn","claimed":true,"claimedBySlug":"Vetn","holderQuote":"I’m a [Thief], Erin. A miserable [Thief]."}
+{"id":"01a0657e-026b-78f1-82f8-f016830aeca4","chapterSlug":"rw9-50","paragraph":1315,"wording":"[Thief]","event":"named","holderSlug":"bviora","holderQuote":"He was with her, now, and the girl, the young [Thief] with her father’s hand, flexed it."}
+{"id":"01a0657e-026b-7182-86ed-ee9dad8e5a7e","chapterSlug":"rw9-50","paragraph":1370,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7ea4-a133-1c8164925fb6","chapterSlug":"rw9-51 Z","paragraph":76,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7d5a-80e7-7f8a30857697","chapterSlug":"rwInterlude - Halfseekers (Pt- 2)","paragraph":42,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7f34-b6b4-7d4aa269c793","chapterSlug":"rw10-60 YN","paragraph":694,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-71cc-b5a5-d636cc8d298a","chapterSlug":"rw10-60 YN","paragraph":698,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7937-87fc-3d65fcf1c1dc","chapterSlug":"rw10-60 YN","paragraph":699,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-784b-b6f9-9dff3507b533","chapterSlug":"rw10-60 YN","paragraph":900,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7449-b413-b7644cdee6e7","chapterSlug":"rw10-60 YN","paragraph":915,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-75f5-bf47-ba6f86bcc350","chapterSlug":"rw9-62","paragraph":762,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7325-8f66-9d1c79f85f7e","chapterSlug":"rw9-27 RC","paragraph":251,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"caught up with Ratici and Wilovan"}
+{"id":"01a0657e-026b-7bc3-bf57-e32a59391fc2","chapterSlug":"rw9-27 RC","paragraph":290,"wording":"[Thief]","event":"named","holderSlug":"ratici","holderQuote":"Ratici proffered Wilovan a letter"}
+{"id":"01a0657e-026b-7929-b829-9293daa9ca7a","chapterSlug":"rw10-61 Y","paragraph":16,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-71e7-815b-d01cd60c0aac","chapterSlug":"rw9-29","paragraph":328,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-76b0-9378-d94097d81907","chapterSlug":"rw9-29","paragraph":1439,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7180-8e96-5bf1419adc6c","chapterSlug":"rw9-29","paragraph":1588,"wording":"[Thief]","event":"named","holderQuote":"The Thief of Clouds landed, paws dropping the arrows and blades he’d caught."}
+{"id":"01a0657e-026b-7435-8c68-e7364e08bbfa","chapterSlug":"rw10-03 Y","paragraph":1408,"wording":"[Thief]","event":"named","claimed":true,"holderQuote":"The [Knight] saw Insill sneak into the wagon—or rather, he saw Insill stroll over"}
+{"id":"01a0657e-026b-73bd-bbdd-6bc0ca1e69db","chapterSlug":"rw10-03 Y","paragraph":1423,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7a9c-aee6-82c1e947ed08","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":919,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Lyonette","holderQuote":"Lyonette came over, and they spoke through the bars"}
+{"id":"01a0657e-026b-71c8-bf60-f8e2d60a0fde","chapterSlug":"rwInterlude - Beginnings","paragraph":171,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-79e1-a06b-45f16fab5a98","chapterSlug":"rwInterlude - Beginnings","paragraph":171,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7ef9-94e0-5bc5c950957c","chapterSlug":"rw9-65","paragraph":348,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7ac8-96eb-57129bb0ebc3","chapterSlug":"rw9-65","paragraph":374,"wording":"[Thief]","event":"named","holderSlug":"vetn","holderQuote":"he was the better [Thief] by far."}
+{"id":"01a0657e-026b-78bd-b0e3-009c28941508","chapterSlug":"rw9-65","paragraph":496,"wording":"[Thief]","event":"named","holderSlug":"vetn","claimed":true,"claimedBySlug":"Tesy","holderQuote":"you don’t have to help Bviora for a [Thief]’s honor."}
+{"id":"01a0657e-026b-7046-8611-b3137c84f8d5","chapterSlug":"rw9-65","paragraph":537,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7843-b3d2-b9011e34112e","chapterSlug":"rw9-65","paragraph":736,"wording":"[Thief]","event":"named","holderSlug":"bviora","holderQuote":"The [Thief] whispered as the waters rose, dragging Vetn down."}
+{"id":"01a0657e-026b-7a55-b02d-b724f2e068d9","chapterSlug":"rw10-37 GDI (Pt. 3)","paragraph":513,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7eea-9de4-976401d459d6","chapterSlug":"rw9-28","paragraph":392,"wording":"[Thief]","event":"named","holderSlug":"wilovan","holderQuote":"Wilovan looked annoyed"}
+{"id":"01a0657e-026b-7ea7-82c9-ec559bf8b7a3","chapterSlug":"rw9-28","paragraph":607,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-729d-81ec-18a6e424a602","chapterSlug":"rw9-28","paragraph":609,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7c80-944e-60092639682b","chapterSlug":"rw9-28","paragraph":872,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-73f5-af19-5488dc37705b","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1116,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7439-9ac0-45bbe8867d94","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1135,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7cca-9acd-f64439bead57","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1416,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-79af-979d-b837e74b6d51","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1771,"wording":"[Thief]","event":"named","holderSlug":"zevara","claimed":true,"claimedBySlug":"Beneckham","holderQuote":"You [Thief]! That’s my bicycle!"}
+{"id":"01a0657e-026b-7f5b-b74b-68a40ae2b82c","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1828,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7deb-addd-01e06e309d8f","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1872,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-72ad-851d-a90b2eb4482a","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1873,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7697-a50c-e410a8ebc8d1","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1881,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7aef-9db5-4292b9f2c3fb","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1883,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-794d-87ae-72553fa65673","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1887,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7064-b0d5-6df65f7ddb24","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1887,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-75b1-853d-d1fe135ef304","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1888,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-71c5-b3f2-09b843150014","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1903,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7bb0-a0a6-4420ae05399c","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1907,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7d0a-a9d8-0ed54098c241","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1908,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7e6c-abde-521ab5ae1ca5","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1911,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-79bc-bdf6-e73f533d38e0","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1920,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7898-ab0f-9f7bb375234f","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1927,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7396-b199-7dcc69f59679","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1931,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7ffe-a8e9-fc89f6e9c21a","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1931,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7b4b-bc08-49d48f85e1d5","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1940,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7e91-ae30-0164343b9542","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1944,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-746b-99fe-b8c130819181","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1952,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7bf4-b681-ac9dd8ad5c74","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1957,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-78fb-a2cf-341b0b83efde","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1960,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7759-96c2-27b102b64b14","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1981,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7262-88cf-8a46ed95277e","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1989,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-75d7-b8f1-ad7c4f1c7dd8","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":2058,"wording":"[Thief]","event":"named","holderSlug":"relc","holderQuote":"Relc parted ways with her there; he was better than she since he’d lost the [Thief]"}
+{"id":"01a0657e-026b-7f31-899f-03a655a628b9","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":2059,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7123-9750-7f0a3bbf61c7","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":2073,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7896-886c-a964477bd3d5","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":2074,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7e11-832e-af2499948c8b","chapterSlug":"rw10-44 Z (Pt. 2)","paragraph":548,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-709e-91e8-3fc689b946d2","chapterSlug":"rw10-44 Z (Pt. 2)","paragraph":550,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7ae1-8e1a-72ad59af61ed","chapterSlug":"rw10-44 Z (Pt. 2)","paragraph":789,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7d74-800d-64fc61894e55","chapterSlug":"rw10-44 Z (Pt. 2)","paragraph":1912,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Visma","holderQuote":"Visma peered up from the latest doll in her collection"}
+{"id":"01a0657e-026b-7919-bdbd-634dd3bf7c53","chapterSlug":"rw10-08 (Pt. 2)","paragraph":935,"wording":"[Thief]","event":"named","holderQuote":"was in the company of Bviora, a lesser-known [Thief]"}
+{"id":"01a0657e-026b-7f9d-bdbe-b8ed548418a2","chapterSlug":"rw10-57 F","paragraph":644,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-74a4-a2c6-983bd8fe6f9d","chapterSlug":"rw9-31","paragraph":1350,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-70a0-9839-2d00b8ea3d1d","chapterSlug":"rw9-32","paragraph":447,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-70ca-8af0-081114659535","chapterSlug":"rw10-45 L","paragraph":909,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-75eb-8b53-7ec6428d2f42","chapterSlug":"rwInterlude - Liska","paragraph":238,"wording":"[Thief]","event":"named","holderQuote":"Shashi Slisfang was a 5’5’’ Drake who was eighteen years old"}
+{"id":"01a0657e-026b-7b40-a545-c689a06aea44","chapterSlug":"rwInterlude - Liska","paragraph":1013,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7058-878a-061cf848c5b5","chapterSlug":"rw10-64 FN","paragraph":2267,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7b71-80ca-58fdf26e17c8","chapterSlug":"rw9-30","paragraph":357,"wording":"[Thief]","event":"named","holderQuote":"Not even Vetn, an acclaimed expert [Thief]—even if he refused to fight"}
+{"id":"01a0657e-026b-75a3-ba23-286701e53429","chapterSlug":"rw9-30","paragraph":418,"wording":"[Thief]","event":"named","holderQuote":"Lady Ieka Imarris was still staring"}
+{"id":"01a0657e-026b-71c8-9488-9d59a1253165","chapterSlug":"rw9-30","paragraph":427,"wording":"[Thief]","event":"named","holderQuote":"Lady Ieka Imarris was still staring"}
+{"id":"01a0657e-026b-728a-a867-779bf19e58f5","chapterSlug":"rw9-30","paragraph":432,"wording":"[Thief]","event":"named","claimed":true,"claimedBySlug":"Ieka Imarris","holderQuote":"And you’re the best [Thief] in the city right now"}
+{"id":"01a0657e-026b-701b-83fb-f6b456d61d34","chapterSlug":"rwInterlude - Innovation and Invention","paragraph":238,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7bde-a86d-59279c69aa44","chapterSlug":"rw9-38 TV (Pt. 2)","paragraph":149,"wording":"[Thief]","event":"named"}
+{"id":"01a0657e-026b-7ca2-8180-40e880740d0e","chapterSlug":"rw9-38 TV (Pt. 1)","paragraph":1427,"wording":"[Thief]","event":"named"}
