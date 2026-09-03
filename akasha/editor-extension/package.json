@@ -6,6 +6,7 @@
     "./agent-tree-ids": "./agent-tree-ids/agent-tree-ids.module.code.ts",
     "./domain-tree-ids": "./domain-tree-ids/domain-tree-ids.module.code.ts",
     "./page-tree-ids": "./page-tree-ids/page-tree-ids.module.code.ts",
+    "./palette": "./palette/palette.module.code.ts",
     "./panel-domains": "./panel-domains/panel-domains.module.code.ts",
     "./seat-mode": "./seat-mode/seat-mode.module.code.ts",
     "./seat-page": "./seat-page/seat-page.module.code.ts",
@@ -15,6 +16,7 @@
     "./work-tree-ids": "./work-tree-ids/work-tree-ids.module.code.ts"
   },
   "dependencies": {
+    "@akasha/design-tokens": "workspace:*",
     "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
   },

@@ -17,6 +17,7 @@ export const editorExtension = {
     "module/seat-mode",
     "module/agent-tree-ids",
     "module/seat-page",
+    "module/palette",
   ],
   invariants: [
     {
