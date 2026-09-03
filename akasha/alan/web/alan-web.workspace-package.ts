@@ -12,5 +12,6 @@ export const alanWeb = {
     "module/capacitor-bridge",
     "module/capacitor-cors",
     "module/declared-effects",
+    "module/use-mark-notification-read",
   ],
 } as const satisfies WorkspacePackage

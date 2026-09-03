@@ -7,9 +7,11 @@
     "./api-origin": "./api-origin/api-origin.module.code.ts",
     "./capacitor-bridge": "./capacitor-bridge/capacitor-bridge.module.code.ts",
     "./capacitor-cors": "./capacitor-cors/capacitor-cors.module.code.ts",
-    "./declared-effects": "./declared-effects/declared-effects.module.code.ts"
+    "./declared-effects": "./declared-effects/declared-effects.module.code.ts",
+    "./use-mark-notification-read": "./use-mark-notification-read/use-mark-notification-read.module.code.ts"
   },
   "dependencies": {
+    "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages-url": "workspace:*",

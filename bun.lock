@@ -144,6 +144,7 @@
     "akasha/alan/web": {
       "name": "@akasha/alanwalton-web",
       "dependencies": {
+        "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-url": "workspace:*",
