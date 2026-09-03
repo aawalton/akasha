@@ -5,6 +5,7 @@ export const eso = {
   pageTypeSlug: "domain",
   slug: "eso",
   definition: "Alan's play of The Elder Scrolls Online",
+  partSlugs: ["workspace-package/eso-wallpapers"],
   invariants: [
     {
       invariantKind: "gap",

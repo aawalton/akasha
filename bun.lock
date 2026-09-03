@@ -159,6 +159,13 @@
         "react": "^18 || ^19",
       },
     },
+    "akasha/alan/eso/eso-wallpapers": {
+      "name": "@akasha/eso-wallpapers",
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/alan/fitness/commands": {
       "name": "@akasha/exercise-commands",
       "dependencies": {
@@ -176,16 +183,6 @@
         "@akasha/pages-system": "workspace:*",
         "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "akasha/alan/fitness/session-planning": {
-      "name": "@akasha/session-planning",
-      "dependencies": {
-        "@akasha/day": "workspace:*",
-        "@akasha/exercise-access": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
       },
     },
     "akasha/alan/library/book-of-everything": {
@@ -3123,6 +3120,8 @@
 
     "@akasha/errors-core": ["@akasha/errors-core@workspace:akasha/errors-core"],
 
+    "@akasha/eso-wallpapers": ["@akasha/eso-wallpapers@workspace:akasha/alan/eso/eso-wallpapers"],
+
     "@akasha/exercise-access": ["@akasha/exercise-access@workspace:akasha/alan/fitness/exercise-access"],
 
     "@akasha/exercise-commands": ["@akasha/exercise-commands@workspace:akasha/alan/fitness/commands"],
@@ -3254,8 +3253,6 @@
     "@akasha/seaweedfs": ["@akasha/seaweedfs@workspace:akasha/infrastructure/seaweedfs"],
 
     "@akasha/service-system": ["@akasha/service-system@workspace:akasha/service-system"],
-
-    "@akasha/session-planning": ["@akasha/session-planning@workspace:akasha/alan/fitness/session-planning"],
 
     "@akasha/shell": ["@akasha/shell@workspace:akasha/shell"],
 

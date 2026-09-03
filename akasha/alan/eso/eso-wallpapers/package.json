@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/eso-wallpapers",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./eso-wallpaper-crop": "./eso-wallpaper-crop/eso-wallpaper-crop.module.code.ts",
+    "./eso-wallpaper-download": "./eso-wallpaper-download/eso-wallpaper-download.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
