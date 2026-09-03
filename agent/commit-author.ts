@@ -1,8 +1,8 @@
+import { writerIn } from "@akasha/command-system/reading"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { seat } from "@akasha/seat-system/seat-page-type"
 import { displayNameOf, personaAt } from "../tools/lib/akasha-personas.ts"
 import { pageTextOf } from "../tools/lib/seat-page-values.ts"
-import { writerId } from "./writer.ts"
 
 const PERSONA_SLUG_KEY = "persona-slug"
 
@@ -54,7 +54,7 @@ export function commitAuthor(): string {
   if (answered !== null) return answered
   let found = CLAUDE_AUTHOR
   try {
-    const writer = writerId()
+    const writer = writerIn(process.env)
     const persona = writer === null ? null : personaOf(writer)
     found =
       persona === null || persona === defaultPersona()
