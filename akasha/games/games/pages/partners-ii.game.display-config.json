@@ -1,0 +1,38 @@
+{
+  "pollMs": 1800,
+  "modules": {
+    "hud": {
+      "pools": [
+        {
+          "key": "hp",
+          "max": "hpMax",
+          "color": "red",
+          "label": "VITALITY"
+        },
+        {
+          "key": "focus",
+          "max": "focusMax",
+          "color": "blue",
+          "label": "ESSENCE"
+        },
+        {
+          "key": "stamina",
+          "max": "stamMax",
+          "color": "green",
+          "label": "STAMINA"
+        }
+      ]
+    },
+    "sheet": {},
+    "actionBox": {},
+    "storySoFar": {
+      "source": "turns"
+    },
+    "chapterProse": {
+      "titles": "hidden",
+      "history": "full",
+      "pastTurns": "muted",
+      "systemWindows": true
+    }
+  }
+}

@@ -1,0 +1,36 @@
+import type { Game } from "../game.page-type.ts"
+
+export const haremHotel = {
+  id: "01a0673e-7218-7001-8cc9-aee31fd19b31",
+  pageTypeSlug: "game",
+  slug: "harem-hotel",
+  title: "Harem Hotel",
+  unitSlug: "words",
+  externalId: "harem-hotel",
+  gameEngine: "awen",
+  coordinatorAgent: "awen-gm--harem-hotel",
+  controlledEntityKind: "single",
+  mechanicsWeight: "heavy",
+  resolution: "formula",
+  currentSession: 1,
+  premise:
+    "You wake at the bottom of a hotel with no memory of arriving — no name for how you got here, no reason it exists. A pane of pale letters measures your soul and goes quiet. The Harem Hotel rises: clear the challenge at the far end of the floor and the whole floor climbs, endlessly, as far as anyone has ever gone. You are alone at first. You will not stay that way — every fifth height the risen floor opens somewhere new, and a woman is there. The hallway grows her a room. Adventure is how you climb. The women are why it matters — and, if you earn it, how you grow stronger.",
+  tone: "Warm, playful, charged — a place you live, not a tower you endure. The name is cheeky; the machine underneath is serious. Combat is real and can kill. Intimacy is explicit when earned, plain-register, never rushed. The mystery of the place is real and behaves as if it has a logic you cannot yet see.",
+  readerFraming:
+    "Second person, present tense. You are yourself, Alan, arrived at the bottom of the Harem Hotel with no memory of arriving.",
+  maintainsLore: true,
+  maintainsDesign: true,
+  genre: ["litrpg", "adventure", "progression"],
+  config: "json",
+  displayConfig: "json",
+  gmContext: "json",
+  narrativeContinuity: "json",
+  rulebook: "json",
+  resolutionMechanism: "json",
+  turns: "jsonl",
+  entities: "jsonl",
+  states: "jsonl",
+  rolls: "jsonl",
+  loreEntries: "jsonl",
+  designEntries: "jsonl",
+} as const satisfies Game

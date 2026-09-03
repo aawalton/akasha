@@ -1,0 +1,13 @@
+{
+  "bonds": "Every companion has a bond track with visible stages: Stranger, Companion, Confidant, Beloved, Linked. Stages are earned in play — attention, honesty, risk carried for each other. Thresholds are hidden. Intimacy is never automatic; the final stage is always a mutual choice.",
+  "party": "The active party holds at most five, you included. Companions not adventuring live at the manor and pursue their own lives there.",
+  "stats": "Six attributes: Might, Grace, Vitality, Mind, Essence, Presence. Attributes grow at level-up and through training, deeds, and bonds.",
+  "levels": "Experience comes from adventure, discovery, and clever play. Levels raise attribute points and unlock skill capacity. The curve is hidden.",
+  "skills": "Skills are learned by doing and deepened by training. Ranked; ranks are visible, advancement thresholds are not.",
+  "talents": "Every person carries exactly one personal Talent, unique to them. Talents do not level; they deepen. How is hidden.",
+  "sessions": "A session ends only when the GM declares it ended.",
+  "inventory": "Carried gear is slotted; the manor holds a shared stash. Significant items have their own sheets.",
+  "affinities": "Affinities exist. That is all the rulebook says about affinities.",
+  "resolution": "Outcomes weigh planning first and luck second. All rolls are made behind the screen, seeded and logged where the GM cannot re-roll unseen. No formulas are ever shown.",
+  "playerFacing": true
+}

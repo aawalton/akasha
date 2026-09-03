@@ -1,0 +1,53 @@
+{
+  "frames": [
+    {
+      "id": "table",
+      "name": "The Table (Caer Arianrhod balcony)",
+      "description": "The real people playing the game on the balcony of Caer Arianrhod."
+    },
+    {
+      "id": "game-world",
+      "name": "The Game World",
+      "description": "The tale itself — the world the characters adventure in."
+    }
+  ],
+  "frameMap": [
+    {
+      "character": "alan",
+      "identities": {
+        "table": "Alan, the player",
+        "game-world": "the monk (first-person narrator)"
+      }
+    },
+    {
+      "character": "mari",
+      "identities": {
+        "table": "Mari, herself at the table",
+        "game-world": "the wet-haired girl"
+      }
+    },
+    {
+      "character": "aria",
+      "identities": {
+        "table": "Aria, the DM",
+        "game-world": "the voice of the world"
+      }
+    },
+    {
+      "rule": "Table-only until she arrives; never present in the game world.",
+      "character": "ceri",
+      "identities": {
+        "table": "Ceri — the empty seat, not yet arrived"
+      }
+    }
+  ],
+  "narration": {
+    "rule": "First-person Alan (the monk) throughout; all other characters in third person.",
+    "person": "first",
+    "povCharacter": "alan"
+  },
+  "transitions": {
+    "marking": "boundaries-only",
+    "convention": "Dissolve imagery marks each frame transition at the boundary; within a frame, no per-line frame distinctions."
+  }
+}

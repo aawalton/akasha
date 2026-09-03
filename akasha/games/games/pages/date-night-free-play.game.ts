@@ -1,7 +1,7 @@
 import type { Game } from "../game.page-type.ts"
 
 export const dateNightFreePlay = {
-  id: "01a0673e-2db5-7000-b156-cc74c8a46bf3",
+  id: "01a0673e-7217-7000-b5d8-4224c8a46bf3",
   pageTypeSlug: "game",
   slug: "date-night-free-play",
   title: "Date Night — Free Play",

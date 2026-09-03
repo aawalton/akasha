@@ -1,0 +1,35 @@
+{
+  "pollMs": 1800,
+  "modules": {
+    "hud": {
+      "pools": [
+        {
+          "key": "hp",
+          "max": "hpMax",
+          "color": "red",
+          "label": "VITAE"
+        },
+        {
+          "key": "focus",
+          "max": "focusMax",
+          "color": "blue",
+          "label": "FOCUS"
+        },
+        {
+          "key": "stamina",
+          "max": "stamMax",
+          "color": "green",
+          "label": "STAMINA"
+        }
+      ]
+    },
+    "sheet": {},
+    "beatLog": {
+      "systemWindows": true
+    },
+    "actionBox": {},
+    "storySoFar": {
+      "source": "stateLedger"
+    }
+  }
+}

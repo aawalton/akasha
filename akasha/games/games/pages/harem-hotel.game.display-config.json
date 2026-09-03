@@ -1,0 +1,40 @@
+{
+  "pollMs": 1800,
+  "modules": {
+    "hud": {
+      "pools": [
+        {
+          "key": "health",
+          "max": "healthMax",
+          "color": "red",
+          "label": "HEALTH"
+        },
+        {
+          "key": "mana",
+          "max": "manaMax",
+          "color": "blue",
+          "label": "MANA"
+        },
+        {
+          "key": "stamina",
+          "max": "staminaMax",
+          "color": "green",
+          "label": "STAMINA"
+        }
+      ]
+    },
+    "sheet": {},
+    "quests": {},
+    "beatLog": {
+      "systemWindows": true
+    },
+    "actionBox": {},
+    "storySoFar": {
+      "source": "stateLedger"
+    },
+    "chapterProse": {
+      "history": "full",
+      "systemWindows": true
+    }
+  }
+}

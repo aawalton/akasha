@@ -1,0 +1,27 @@
+import type { Game } from "../game.page-type.ts"
+
+export const theTower = {
+  id: "01a0673e-7219-7001-b3bc-6d9f1be588cb",
+  pageTypeSlug: "game",
+  slug: "the-tower",
+  title: "The Tower",
+  unitSlug: "words",
+  externalId: "the-tower",
+  gameEngine: "awen",
+  coordinatorAgent: "awen-gm--the-tower",
+  controlledEntityKind: "single",
+  mechanicsWeight: "heavy",
+  resolution: "formula",
+  genre: ["litrpg"],
+  displayConfig: "json",
+  gmContext: "json",
+  rulebook: "json",
+  resolutionMechanism: "json",
+  turns: "jsonl",
+  entities: "jsonl",
+  states: "jsonl",
+  rolls: "jsonl",
+  characters: "jsonl",
+  towerFloors: "jsonl",
+  towerSessions: "jsonl",
+} as const satisfies Game
