@@ -21,7 +21,7 @@ node_field() {
   local node_id="$1"
   local field="$2"
   local nodes_file
-  nodes_file="$(cd "${_DEPLOY_LIB_DIR}/.." && pwd)/scripts/bootstrap/nodes.json"
+  nodes_file="$(cd "${_DEPLOY_LIB_DIR}/../.." && pwd)/akasha/infrastructure/cluster-operations/nodes.json"
   local val
   val="$(jq -r --arg id "$node_id" --arg f "$field" '.[] | select(.id==$id) | .[$f]' "$nodes_file")"
   { [ -n "$val" ] && [ "$val" != "null" ]; } || die "nodes.json: no '$field' for node '$node_id'"

@@ -39,7 +39,7 @@ export default workflow("ci-images", {
           "set -e",
           ...CI_IMAGE_SERVICES.map(
             (svc) =>
-              `bun ${ci.workspace}/infra/scripts/src/generate-dockerfiles.ts --service ${svc}`
+              `bun ${ci.workspace}/akasha/infrastructure/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts --service ${svc}`
           ),
         ],
         environment: { HUSKY: "0" },

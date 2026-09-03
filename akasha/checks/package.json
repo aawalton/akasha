@@ -14,6 +14,7 @@
     "./test-step-paths": "./cluster-checks/modules/test-step-paths/test-step-paths.module.code.ts"
   },
   "dependencies": {
+    "@akasha/dockerfiles": "workspace:*",
     "@akasha/k8s-synth": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
     "@tools/lib": "workspace:*",

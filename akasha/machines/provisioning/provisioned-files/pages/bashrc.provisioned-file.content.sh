@@ -146,7 +146,6 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 eval "$("${AKASHA_ROOT:-$HOME/repos/akasha}/dotfiles/bin/akasha" shell-init-bash)"
 export DISABLE_COST_WARNINGS=1
 
-export PATH="$AKASHA_ROOT/infra/scripts:$PATH"
 
 # The launchers `rg`, `btw5`, `wallpaper-black`, `find-session` and `ci-cost-snapshot` are
 # linked into ~/.local/bin by setup-symlinks.sh, which is already on PATH above, rather

@@ -68,16 +68,16 @@ function buildApplyStep(
         }
         if (serverSide) {
           throw new Error(
-            "kubectlApply: serverSide=true is not supported with directory+excludes+no-imageSubstitution; either narrow `files` to a single yaml or extend ci-apply-manifests.sh to honor --server-side"
+            "kubectlApply: serverSide=true is not supported with directory+excludes+no-imageSubstitution; either narrow `files` to a single yaml or extend the ci-apply-manifests shell script to honor --server-side"
           )
         }
         if (namespace === null) {
           throw new Error(
-            "kubectlApplyClusterScoped: a directory `files` is not supported; ci-apply-manifests.sh takes a namespace positionally. Name a single yaml instead."
+            "kubectlApplyClusterScoped: a directory `files` is not supported; the ci-apply-manifests shell script takes a namespace positionally. Name a single yaml instead."
           )
         }
         return [
-          `sh "$AKASHA_ROOT/infra/scripts/ci-apply-manifests.sh" ${allExcludes.map((e) => `--exclude ${e}`).join(" ")} ${namespace} ${files}`,
+          `sh "$AKASHA_ROOT/akasha/infrastructure/cluster-operations/ci-apply-manifests/ci-apply-manifests.shell-script.shell.sh" ${allExcludes.map((e) => `--exclude ${e}`).join(" ")} ${namespace} ${files}`,
         ]
       }
 

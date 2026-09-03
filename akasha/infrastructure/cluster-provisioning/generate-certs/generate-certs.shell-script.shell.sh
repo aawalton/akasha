@@ -27,7 +27,7 @@ CERT_MIN_REMAINING=$((30 * 86400))
 CA_SUBJECT="/CN=cluster-ca"
 PGBOUNCER_SUBJECT="/CN=pgbouncer.pgbouncer.svc.cluster.local"
 
-NODES_FILE="${PKG_DIR}/scripts/bootstrap/nodes.json"
+NODES_FILE="${AKASHA_ROOT}/akasha/infrastructure/cluster-operations/nodes.json"
 [[ -f "$NODES_FILE" ]] || die "nodes.json not found: $NODES_FILE"
 
 PGB_SAN_DNS=(

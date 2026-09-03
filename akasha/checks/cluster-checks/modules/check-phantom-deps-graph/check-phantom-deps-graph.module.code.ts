@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
+import { getWorkspaceDeps } from "@akasha/dockerfiles/dockerfile-deps"
 import type { z } from "zod"
-import { getWorkspaceDeps } from "../../../../../infra/scripts/src/generate-dockerfiles-deps.ts"
 import { createEngine } from "../../../../../tools/lib/graph/engine.ts"
 import { readAt } from "../../../../../tools/lib/graph/held-snapshot.ts"
 import { fileNodeProducer } from "../../../../../tools/lib/graph/producers/file/file.node.producer.ts"

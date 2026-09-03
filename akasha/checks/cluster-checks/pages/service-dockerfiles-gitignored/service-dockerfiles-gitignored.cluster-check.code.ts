@@ -3,9 +3,9 @@
 import { spawnSync } from "node:child_process"
 import { existsSync, readFileSync } from "node:fs"
 import { join, relative } from "node:path"
-import { SERVICES } from "../../../../../infra/scripts/src/generate-dockerfiles-registry.ts"
-import { getOutputPath } from "../../../../../infra/scripts/src/generate-dockerfiles-tool.ts"
-import { parseDockerfileExtensions } from "../../../../../infra/scripts/src/generate-dockerfiles-types.ts"
+import { parseDockerfileExtensions } from "@akasha/dockerfiles/dockerfile-extensions"
+import { SERVICES } from "@akasha/dockerfiles/dockerfile-services"
+import { getOutputPath } from "@akasha/dockerfiles/dockerfile-tool-image"
 import { parseArgs, REPO_ROOT_FLAG } from "../../modules/cli-args/cli-args.module.code.ts"
 import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
@@ -19,7 +19,8 @@ if (import.meta.main) refuseRetired()
 
 const PREFIX = "[service-dockerfiles-gitignored]"
 
-const REGISTRY_REL = "infra/scripts/src/generate-dockerfiles-registry.ts"
+const REGISTRY_REL =
+  "akasha/infrastructure/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
 
 interface Violation {
   service: string

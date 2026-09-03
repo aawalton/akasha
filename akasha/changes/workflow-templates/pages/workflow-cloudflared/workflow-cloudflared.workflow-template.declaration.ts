@@ -37,7 +37,7 @@ export default workflow("cloudflared", {
         "set -e",
         `LIVE_HASH=$(kubectl get configmap cloudflared-config -n cloudflared -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || true)`,
         `if [ "$LIVE_HASH" = "${ci.inputsHash}" ]; then echo "[skip] Content hash ${ci.inputsHash} matches live configmap — skipping"; exit 0; fi`,
-        `bun ${ci.workspace}/infra/scripts/src/generate-tunnel-config.ts > /tmp/cloudflared-configmap.yaml`,
+        `bun ${ci.workspace}/akasha/infrastructure/cluster-manifests/tunnel-config/tunnel-config.module.code.ts > /tmp/cloudflared-configmap.yaml`,
         "kubectl apply -f /tmp/cloudflared-configmap.yaml",
       ],
       dependsOn: [
@@ -98,7 +98,7 @@ export default workflow("cloudflared", {
         `LIVE_HASH=$(kubectl get configmap cloudflared-config -n cloudflared -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || true)`,
         `if [ "$LIVE_HASH" = "${ci.inputsHash}" ]; then echo "[skip] Content hash ${ci.inputsHash} matches — DNS already synced"; exit 0; fi`,
 
-        `bun ${ci.workspace}/infra/scripts/src/generate-tunnel-config.ts > /tmp/cloudflared-configmap.yaml`,
+        `bun ${ci.workspace}/akasha/infrastructure/cluster-manifests/tunnel-config/tunnel-config.module.code.ts > /tmp/cloudflared-configmap.yaml`,
         `_DEPLOY_LIB_DIR=${ci.workspace}/infra/lib`,
         `. ${ci.workspace}/infra/lib/deploy-functions.sh`,
         "mkdir -p /tmp/.cloudflare",
@@ -130,7 +130,7 @@ export default workflow("cloudflared", {
         `. ${ci.workspace}/infra/lib/deploy-functions.sh`,
         "mkdir -p /tmp/.cloudflare",
         'echo "${CLOUDFLARE_API_TOKEN}" > /tmp/.cloudflare/api-token',
-        `jq -r '.[] | select(.hostname) | "\\(.hostname) \\(.host)"' ${ci.workspace}/infra/scripts/bootstrap/nodes.json | while IFS=" " read -r h ip; do add_dns_a_record "$h" "$ip"; done`,
+        `jq -r '.[] | select(.hostname) | "\\(.hostname) \\(.host)"' ${ci.workspace}/akasha/infrastructure/cluster-operations/nodes.json | while IFS=" " read -r h ip; do add_dns_a_record "$h" "$ip"; done`,
       ],
       dependsOn: ["cloudflared-generate-and-apply-config"],
       backendOptions: {

@@ -35,7 +35,7 @@ export default workflow("auth-proxy", {
         commands: (ci) => [
           "set -e",
 
-          `bun ${ci.workspace}/infra/scripts/src/generate-dockerfiles.ts --app auth-proxy`,
+          `bun ${ci.workspace}/akasha/infrastructure/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts --app auth-proxy`,
         ],
         environment: { HUSKY: "0" },
         backendOptions: {

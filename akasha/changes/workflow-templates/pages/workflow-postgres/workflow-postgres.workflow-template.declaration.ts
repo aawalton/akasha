@@ -177,7 +177,7 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
         cache: false,
         image: IMAGES.CI,
         preCommands: (ci) => [
-          `bun ${ci.workspace}/infra/scripts/src/generate-dockerfiles.ts --service gfs-promoter`,
+          `bun ${ci.workspace}/akasha/infrastructure/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts --service gfs-promoter`,
         ],
       }),
       skipIfTagExists: () => GFS_PROMOTER_IMAGE_TAG,

@@ -79,9 +79,9 @@ export const STATIC_CHECKS: CheckConfig[] = [
     alwaysRun: true,
     dispatchNodeTypes: [...PACKAGE_POPULATION, "json-file", "dockerfile-file"],
     dispatchNodes: [
-      "ts-file:code:infra/scripts/src/generate-dockerfiles-registry.ts",
-      "ts-file:code:infra/scripts/src/generate-dockerfiles-tool.ts",
-      "ts-file:code:infra/scripts/src/generate-dockerfiles-types.ts",
+      "ts-file:code:akasha/infrastructure/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts",
+      "ts-file:code:akasha/infrastructure/dockerfiles/dockerfile-tool-image/dockerfile-tool-image.module.code.ts",
+      "ts-file:code:akasha/infrastructure/dockerfiles/dockerfile-extensions/dockerfile-extensions.module.code.ts",
       "ts-file:instructions:infra/cluster-checks/src/checks/check-service-dockerfiles-gitignored.ts",
     ],
     script: "infra/cluster-checks/src/checks/check-service-dockerfiles-gitignored.ts",
