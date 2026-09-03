@@ -16,6 +16,7 @@ export const akashaMigration = {
   constraints: [
     "Nothing is out of reach and everything may break while the migration runs. Completing the migration is the sole priority, not keeping systems outside akasha stable while it proceeds.",
     "Do not stop. If you are unsure what to do in a specific case, file a finding, make a decision, and then keep going. Do not stop to ask Alan for guidance.",
+    "Fix small issues inline rather than filing them as findings or asking for approval.",
     "Do not work on the initiative directly. Delegate and coordinate work through subagents.",
     "Make massively parallel progress. Aim to have at least 20 concurrent direct subagents whenever you can use them to do productive work. Maximum 40 concurrent direct subagents.",
     "Add intent to the initiative to keep track of what is in flight. Remove intent from the initiative when it is done.",
