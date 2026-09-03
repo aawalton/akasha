@@ -16,7 +16,6 @@ export type ScopedPopulation = {
   readonly kind: string
   readonly under: string
 }
-export const GRAPH_EXEMPT_DIRS: ReadonlySet<string> = new Set(["__fixtures__", "generated"])
 export const MEMBERSHIP_ALL: ClosureMembership = { kind: "all" }
 export const membershipCoversPath: (
   graph: Graph,
