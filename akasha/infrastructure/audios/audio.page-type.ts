@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 
 export const audio = {
-  id: "01a06855-9977-78a6-a512-4c4f79ce5467",
+  id: "019f189b-018c-74b8-920b-845fe171aee7",
   pageTypeSlug: "page-type",
   slug: "audio",
   definition: "one sound the system holds",
