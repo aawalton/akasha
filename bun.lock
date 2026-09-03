@@ -172,10 +172,7 @@
         "@akasha/command-system": "workspace:*",
         "@akasha/day": "workspace:*",
         "@akasha/exercise-access": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/named-for": "workspace:*",
         "@akasha/pages-system": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
         "@tools/lib": "workspace:*",
       },
     },
@@ -964,6 +961,14 @@
         "@akasha/service-system": "workspace:*",
         "@akasha/workflow-language": "workspace:*",
         "@tools/lib": "workspace:*",
+      },
+    },
+    "akasha/infrastructure/dockerfiles": {
+      "name": "@akasha/dockerfiles",
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+        "@akasha/workspace-paths": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "akasha/infrastructure/inference-clients": {
@@ -3151,6 +3156,8 @@
     "@akasha/design-tokens": ["@akasha/design-tokens@workspace:akasha/design/tokens"],
 
     "@akasha/digit-padding": ["@akasha/digit-padding@workspace:akasha/digit-padding"],
+
+    "@akasha/dockerfiles": ["@akasha/dockerfiles@workspace:akasha/infrastructure/dockerfiles"],
 
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
 

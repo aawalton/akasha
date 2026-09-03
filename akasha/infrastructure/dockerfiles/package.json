@@ -1,0 +1,21 @@
+{
+  "name": "@akasha/dockerfiles",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./dockerfile-builder": "./dockerfile-builder/dockerfile-builder.module.code.ts",
+    "./dockerfile-bun-service": "./dockerfile-bun-service/dockerfile-bun-service.module.code.ts",
+    "./dockerfile-deps": "./dockerfile-deps/dockerfile-deps.module.code.ts",
+    "./dockerfile-extensions": "./dockerfile-extensions/dockerfile-extensions.module.code.ts",
+    "./dockerfile-imports": "./dockerfile-imports/dockerfile-imports.module.code.ts",
+    "./dockerfile-nextjs": "./dockerfile-nextjs/dockerfile-nextjs.module.code.ts",
+    "./dockerfile-services": "./dockerfile-services/dockerfile-services.module.code.ts",
+    "./dockerfile-tool-image": "./dockerfile-tool-image/dockerfile-tool-image.module.code.ts",
+    "./dockerfile-writing": "./dockerfile-writing/dockerfile-writing.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/workspace-paths": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
