@@ -30,6 +30,7 @@ export const person = {
     "phone-number-property/phone",
     "relation-property/answered-by",
     "text-property/supabase-auth-user-id",
+    "domain/email",
   ],
   properties: [
     { pagePropertySlug: "answered-by", required: true, many: false },

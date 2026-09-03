@@ -5,6 +5,7 @@ export const gitRepos = {
   pageTypeSlug: "domain",
   slug: "git-repos",
   definition: "the versioned text stores",
+  partSlugs: ["domain/dirty"],
   invariants: [
     {
       invariantKind: "departure",

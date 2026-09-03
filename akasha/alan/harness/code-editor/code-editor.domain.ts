@@ -5,6 +5,7 @@ export const codeEditor = {
   pageTypeSlug: "domain",
   slug: "code-editor",
   definition: "a workbench of files, groups, panels and terminals",
+  partSlugs: ["domain/code-editor-group-layout"],
   invariants: [
     {
       invariantKind: "departure",

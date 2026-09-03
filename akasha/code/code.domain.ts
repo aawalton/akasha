@@ -5,6 +5,7 @@ export const code = {
   pageTypeSlug: "domain",
   slug: "code",
   definition: "the code a machine runs",
+  partSlugs: ["domain/code-audit-ast-unused"],
   directives: [
     {
       directiveKind: "rule",

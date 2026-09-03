@@ -30,6 +30,8 @@ export const domain = {
     "text-property/invariant-statement",
     "text-property/plural-slug",
     "text-property/warrant",
+    "domain/domain-championing",
+    "domain/domain-parent",
   ],
   pageTypeSlug: "page-type",
   slug: "domain",
