@@ -6,4 +6,6 @@ export const walk = {
   slug: "walk",
   title: "Walk",
   defaultDifficulty: 1,
+  icon: "file-text",
+  seq: 4,
 } as const satisfies SessionActivity

@@ -6,4 +6,6 @@ export const piano = {
   slug: "piano",
   title: "Piano",
   defaultDifficulty: 3,
+  icon: "file-text",
+  seq: 34,
 } as const satisfies SessionActivity

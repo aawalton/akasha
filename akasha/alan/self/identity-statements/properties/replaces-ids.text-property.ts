@@ -3,7 +3,7 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type ReplacesIds = string
 
 export const replacesIds = {
-  id: "01a06575-c2b8-73db-b8d8-90f8c077e2b6",
+  id: "01a06589-d12a-778f-9981-1bf1271716b6",
   pageTypeSlug: "text-property",
   slug: "replaces-ids",
   propertySlug: "replaces-ids",

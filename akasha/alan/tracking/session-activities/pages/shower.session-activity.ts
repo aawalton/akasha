@@ -6,4 +6,5 @@ export const shower = {
   slug: "shower",
   title: "Shower",
   defaultDifficulty: 1,
+  seq: 42,
 } as const satisfies SessionActivity

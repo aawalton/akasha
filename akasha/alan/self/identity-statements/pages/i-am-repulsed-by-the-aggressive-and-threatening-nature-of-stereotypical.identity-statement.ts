@@ -12,4 +12,5 @@ export const iAmRepulsedByTheAggressiveAndThreateningNatureOfStereotypical = {
   identityStatementStatus: "current",
   identityStatementTags: ["attraction"],
   identityStatementValueSlug: "love",
+  icon: "file-text",
 } as const satisfies IdentityStatement

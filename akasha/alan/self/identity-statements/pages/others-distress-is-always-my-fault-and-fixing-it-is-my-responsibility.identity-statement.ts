@@ -12,4 +12,5 @@ export const othersDistressIsAlwaysMyFaultAndFixingItIsMyResponsibility = {
   replacedByIds: ["019ea810-a3ef-7a27-a4b3-23a8ffc2693c"],
   identityStatementStatus: "deprecated",
   identityStatementValueSlug: "love",
+  icon: "file-text",
 } as const satisfies IdentityStatement

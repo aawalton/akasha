@@ -6,4 +6,6 @@ export const jen = {
   slug: "jen",
   title: "Jen",
   defaultDifficulty: 3,
+  icon: "file-text",
+  seq: 6,
 } as const satisfies SessionActivity

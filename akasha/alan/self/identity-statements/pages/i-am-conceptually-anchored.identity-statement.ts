@@ -12,4 +12,5 @@ export const iAmConceptuallyAnchored = {
   replacedByIds: ["019ea810-a0c2-7f24-8e19-ea2e2cf82da7"],
   identityStatementStatus: "current",
   identityStatementValueSlug: "faith",
+  icon: "file-text",
 } as const satisfies IdentityStatement

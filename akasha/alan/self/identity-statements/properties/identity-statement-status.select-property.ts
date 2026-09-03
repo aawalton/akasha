@@ -1,7 +1,7 @@
 import type { SelectProperty } from "@akasha/pages-system/select-property"
 
 export const identityStatementStatus = {
-  id: "01a06575-c2b8-7db8-9ffb-c08798cedf75",
+  id: "01a06589-d12a-74bc-abb2-1fad00fc5a44",
   pageTypeSlug: "select-property",
   slug: "identity-statement-status",
   propertySlug: "identity-statement-status",

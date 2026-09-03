@@ -13,4 +13,5 @@ export const iAmAlmostNeverHungry = {
   identityStatementStatus: "current",
   identityStatementTags: ["eat"],
   identityStatementValueSlug: "health",
+  icon: "file-text",
 } as const satisfies IdentityStatement

@@ -6,4 +6,6 @@ export const sleep = {
   slug: "sleep",
   title: "Sleep",
   defaultDifficulty: 0,
+  icon: "file-text",
+  seq: 1,
 } as const satisfies SessionActivity

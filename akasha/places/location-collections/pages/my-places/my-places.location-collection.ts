@@ -6,4 +6,5 @@ export const myPlaces = {
   slug: "my-places",
   title: "My Places",
   locationCollectionDescription: "txt",
+  icon: "file-text",
 } as const satisfies LocationCollection

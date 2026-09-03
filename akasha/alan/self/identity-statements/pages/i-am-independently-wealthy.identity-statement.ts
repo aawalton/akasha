@@ -12,4 +12,5 @@ export const iAmIndependentlyWealthy = {
   replacesIds: ["019ea810-ad04-7400-899d-55b1bcc17a75"],
   identityStatementStatus: "planned",
   identityStatementValueSlug: "wealth",
+  icon: "file-text",
 } as const satisfies IdentityStatement

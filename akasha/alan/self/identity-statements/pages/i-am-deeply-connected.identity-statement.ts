@@ -12,4 +12,5 @@ export const iAmDeeplyConnected = {
   replacesIds: ["019ea810-aef2-7f07-9d0d-ac0226b92f1d"],
   identityStatementStatus: "planned",
   identityStatementValueSlug: "love",
+  icon: "file-text",
 } as const satisfies IdentityStatement

@@ -12,4 +12,5 @@ export const iHaveAUniquePerspective = {
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
   identityStatementValueSlug: "faith",
+  icon: "file-text",
 } as const satisfies IdentityStatement

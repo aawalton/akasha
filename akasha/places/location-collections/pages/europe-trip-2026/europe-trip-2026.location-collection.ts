@@ -5,4 +5,5 @@ export const europeTrip2026 = {
   pageTypeSlug: "location-collection",
   slug: "europe-trip-2026",
   title: "Europe Trip 2026",
+  icon: "file-text",
 } as const satisfies LocationCollection

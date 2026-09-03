@@ -12,4 +12,5 @@ export const iAmAnOmnivorousAutodidact = {
   replacedByIds: ["019ea810-a30f-7bbe-bbf1-37ac53f014d6"],
   identityStatementStatus: "deprecated",
   identityStatementValueSlug: "learn",
+  icon: "file-text",
 } as const satisfies IdentityStatement

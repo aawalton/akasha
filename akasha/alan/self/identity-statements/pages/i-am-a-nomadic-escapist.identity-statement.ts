@@ -12,4 +12,5 @@ export const iAmANomadicEscapist = {
   replacedByIds: ["019ea810-a3b7-7521-ae2c-d90aca3fedcb"],
   identityStatementStatus: "deprecated",
   identityStatementValueSlug: "fun",
+  icon: "file-text",
 } as const satisfies IdentityStatement

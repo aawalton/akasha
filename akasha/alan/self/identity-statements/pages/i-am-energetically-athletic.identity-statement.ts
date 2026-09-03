@@ -13,4 +13,5 @@ export const iAmEnergeticallyAthletic = {
   identityStatementStatus: "in-progress",
   identityStatementTags: ["move"],
   identityStatementValueSlug: "health",
+  icon: "file-text",
 } as const satisfies IdentityStatement

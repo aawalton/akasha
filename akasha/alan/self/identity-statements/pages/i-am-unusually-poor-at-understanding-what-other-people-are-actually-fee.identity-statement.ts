@@ -12,4 +12,5 @@ export const iAmUnusuallyPoorAtUnderstandingWhatOtherPeopleAreActuallyFee = {
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
   identityStatementValueSlug: "love",
+  icon: "file-text",
 } as const satisfies IdentityStatement

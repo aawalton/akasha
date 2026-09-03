@@ -20,4 +20,5 @@ export const iAmProfoundlyNeurodivergent = {
   ],
   identityStatementTags: ["neurodiversity"],
   identityStatementValueSlug: "faith",
+  icon: "file-text",
 } as const satisfies IdentityStatement

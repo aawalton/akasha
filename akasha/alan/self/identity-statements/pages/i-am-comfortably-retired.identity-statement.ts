@@ -12,4 +12,5 @@ export const iAmComfortablyRetired = {
   replacedByIds: ["019ea810-a0f8-717c-9ccf-c564d72efbce"],
   identityStatementStatus: "current",
   identityStatementValueSlug: "wealth",
+  icon: "file-text",
 } as const satisfies IdentityStatement

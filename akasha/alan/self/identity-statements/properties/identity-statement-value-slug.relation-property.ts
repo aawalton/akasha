@@ -4,7 +4,7 @@ import type { RelationProperty } from "@akasha/pages-system/relation-property"
 export type IdentityStatementValueSlug = Slug
 
 export const identityStatementValueSlug = {
-  id: "01a06575-c2b8-7ba0-93a4-b5f286d9514c",
+  id: "01a06589-d12a-7bf8-a7f0-c5b1f1ad9a15",
   pageTypeSlug: "relation-property",
   slug: "identity-statement-value-slug",
   propertySlug: "identity-statement-value-slug",

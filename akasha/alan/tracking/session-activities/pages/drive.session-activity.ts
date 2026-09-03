@@ -6,4 +6,6 @@ export const drive = {
   slug: "drive",
   title: "Drive",
   defaultDifficulty: 2,
+  icon: "file-text",
+  seq: 35,
 } as const satisfies SessionActivity

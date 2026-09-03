@@ -8,9 +8,10 @@ export const iHaveToInventManyOfMyOwnSolutions = {
   about: "myself",
   identityStatementLevel: 1,
   notionId: "135abad415ac424fab700e084ba1c784",
-  parentItemId: "019ea810-abf2-7594-b0b9-5f75e82da4a8",
+  parentStatementSlug: "i-am-profoundly-neurodivergent",
   identityStatementRank: "b-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
   identityStatementValueSlug: "wealth",
+  icon: "file-text",
 } as const satisfies IdentityStatement

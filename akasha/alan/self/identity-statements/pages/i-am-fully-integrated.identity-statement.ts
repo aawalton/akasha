@@ -12,4 +12,5 @@ export const iAmFullyIntegrated = {
   replacesIds: ["019ea810-ad3c-752f-a9a1-9420bd9acbbf"],
   identityStatementStatus: "planned",
   identityStatementValueSlug: "faith",
+  icon: "file-text",
 } as const satisfies IdentityStatement

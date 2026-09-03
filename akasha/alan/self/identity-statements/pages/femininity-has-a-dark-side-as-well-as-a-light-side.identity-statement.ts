@@ -8,9 +8,10 @@ export const femininityHasADarkSideAsWellAsALightSide = {
   about: "reality",
   identityStatementLevel: 1,
   notionId: "2d95cf0bf24a8094b32dcab98b94cc27",
-  parentItemId: "019ea810-a42b-73cd-a534-a062d7d7131e",
+  parentStatementSlug: "my-psychological-gender-is-80-masculine",
   identityStatementRank: "s-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["gender"],
   identityStatementValueSlug: "faith",
+  icon: "file-text",
 } as const satisfies IdentityStatement

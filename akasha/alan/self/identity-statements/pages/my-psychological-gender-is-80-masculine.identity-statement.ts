@@ -13,4 +13,5 @@ export const myPsychologicalGenderIs80Masculine = {
   subItemIds: ["019ea810-a462-7c1c-bd25-f345fde6b5f4", "019ea810-a49b-704e-9024-30dba6c09061"],
   identityStatementTags: ["gender"],
   identityStatementValueSlug: "faith",
+  icon: "file-text",
 } as const satisfies IdentityStatement

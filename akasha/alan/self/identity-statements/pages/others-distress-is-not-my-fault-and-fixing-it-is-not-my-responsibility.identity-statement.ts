@@ -12,4 +12,5 @@ export const othersDistressIsNotMyFaultAndFixingItIsNotMyResponsibility = {
   replacesIds: ["019ea810-afcf-7488-b489-e55be2438037"],
   identityStatementStatus: "in-progress",
   identityStatementValueSlug: "love",
+  icon: "file-text",
 } as const satisfies IdentityStatement

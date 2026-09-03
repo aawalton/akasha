@@ -12,4 +12,5 @@ export const iAmAPlayfulCreator = {
   replacesIds: ["019ea810-af95-75ec-aec8-c77dbf0bb514"],
   identityStatementStatus: "in-progress",
   identityStatementValueSlug: "fun",
+  icon: "file-text",
 } as const satisfies IdentityStatement

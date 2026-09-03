@@ -13,4 +13,5 @@ export const iAmContentWhenIAm80Full = {
   identityStatementStatus: "planned",
   identityStatementTags: ["eat"],
   identityStatementValueSlug: "health",
+  icon: "file-text",
 } as const satisfies IdentityStatement

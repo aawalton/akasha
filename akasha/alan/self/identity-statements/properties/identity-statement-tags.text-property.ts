@@ -3,7 +3,7 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type IdentityStatementTags = string
 
 export const identityStatementTags = {
-  id: "01a06575-c2b8-79ab-b470-483a0bca78ed",
+  id: "01a06589-d12a-7333-86bf-1af16ee18944",
   pageTypeSlug: "text-property",
   slug: "identity-statement-tags",
   propertySlug: "identity-statement-tags",

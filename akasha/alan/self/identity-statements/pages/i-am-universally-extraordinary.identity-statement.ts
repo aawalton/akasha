@@ -8,9 +8,10 @@ export const iAmUniversallyExtraordinary = {
   about: "myself",
   identityStatementLevel: 1,
   notionId: "9382ba041c964415a7dc94ca61c2e71f",
-  parentItemId: "019ea810-abf2-7594-b0b9-5f75e82da4a8",
+  parentStatementSlug: "i-am-profoundly-neurodivergent",
   identityStatementRank: "a-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
   identityStatementValueSlug: "faith",
+  icon: "file-text",
 } as const satisfies IdentityStatement

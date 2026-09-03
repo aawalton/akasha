@@ -12,4 +12,5 @@ export const iAmSociallyIsolated = {
   replacedByIds: ["019ea810-a12d-7368-a087-5ade2b10c157"],
   identityStatementStatus: "current",
   identityStatementValueSlug: "love",
+  icon: "file-text",
 } as const satisfies IdentityStatement

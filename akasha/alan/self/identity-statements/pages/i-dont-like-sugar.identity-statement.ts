@@ -7,9 +7,10 @@ export const iDontLikeSugar = {
   title: "I don’t like sugar",
   identityStatementLevel: 0,
   notionId: "2d95cf0bf24a80edb7dffd68af99eeef",
-  parentItemId: "019ea810-a37e-7a29-b31e-004f0245a7bd",
+  parentStatementSlug: "i-am-whole-food-plant-based",
   identityStatementRank: "b-rank",
   identityStatementStatus: "planned",
   identityStatementTags: ["eat"],
   identityStatementValueSlug: "health",
+  icon: "file-text",
 } as const satisfies IdentityStatement

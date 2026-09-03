@@ -6,4 +6,6 @@ export const read = {
   slug: "read",
   title: "Read",
   defaultDifficulty: 1,
+  icon: "file-text",
+  seq: 3,
 } as const satisfies SessionActivity

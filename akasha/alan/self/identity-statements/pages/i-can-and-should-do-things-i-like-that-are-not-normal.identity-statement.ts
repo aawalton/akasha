@@ -8,9 +8,10 @@ export const iCanAndShouldDoThingsILikeThatAreNotNormal = {
   about: "myself",
   identityStatementLevel: 1,
   notionId: "2dd5cf0bf24a8009b777f607cc8b9f66",
-  parentItemId: "019ea810-abf2-7594-b0b9-5f75e82da4a8",
+  parentStatementSlug: "i-am-profoundly-neurodivergent",
   identityStatementRank: "a-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
   identityStatementValueSlug: "faith",
+  icon: "file-text",
 } as const satisfies IdentityStatement
