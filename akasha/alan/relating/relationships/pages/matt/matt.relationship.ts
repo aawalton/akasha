@@ -8,5 +8,5 @@ export const matt = {
   relationshipCurrentCircle: "acquaintances",
   relationshipMetAt: "ESO Tavern 2026",
   relationshipRole: "Philosophy student",
-  notes: "txt",
+  relationshipNotes: "txt",
 } as const satisfies Relationship

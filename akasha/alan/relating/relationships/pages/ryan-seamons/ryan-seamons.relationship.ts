@@ -16,5 +16,5 @@ export const ryanSeamons = {
     "Colleagues at Latitude Games (AI Dungeon); also worked together at an earlier company before that",
   relationshipPhone: "+18012055722",
   relationshipRole: "COO & board member (former colleague; Alan was CTO)",
-  notes: "txt",
+  relationshipNotes: "txt",
 } as const satisfies Relationship

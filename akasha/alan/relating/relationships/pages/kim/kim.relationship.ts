@@ -7,5 +7,5 @@ export const kim = {
   title: "Kim",
   relationshipCurrentCircle: "acquaintances",
   relationshipMetAt: "ESO Tavern 2026",
-  notes: "txt",
+  relationshipNotes: "txt",
 } as const satisfies Relationship
