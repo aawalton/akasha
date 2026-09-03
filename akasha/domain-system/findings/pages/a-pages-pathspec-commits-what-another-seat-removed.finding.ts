@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aPagesPathspecCommitsWhatAnotherSeatRemoved = {
+  id: "01a0673c-4ed9-719f-84dc-ffa781b39428",
+  pageTypeSlug: "finding",
+  slug: "a-pages-pathspec-commits-what-another-seat-removed",
+  domainSlug: "domain/ablation",
+  claim:
+    "Commit 7de8fdacd5 is messaged `ablate the book and book-series markdown` and carries 2,221 deletions: 1,738 the message is about, and 483 another seat had removed seconds earlier from `pages/learn-everything-topic` and `pages/gbww-reading`. `git commit -m <why> -- pages` stages by path rather than by what the committing agent touched, so while a swarm runs it collects whatever else is mid-ablation under that path, and the message answers for part of what it commits.",
+  evidence:
+    "Measured 2026-09-03. `git show --name-status 7de8fdacd5` deletes 1,579 files under `pages/book`, 159 under `pages/book-series`, 271 under `pages/learn-everything-topic` and 212 under `pages/gbww-reading`, and changes nothing else. The commit landed 06:24:30; the 483 came off disk about ten seconds earlier, each proved field for field against the page it had landed as, and 177 of them proved byte for byte against the prose beside that page. Nothing was lost: akasha still holds 271 topic pages with 177 readings beside them and 212 reading pages. The repository is right; only the record of why is wrong.\n\nWhat it costs is attribution. `git log -- pages/gbww-reading` now answers with a commit about books, and so does `git log -- pages/book`, so neither the reason behind 483 of the deletions nor the seat that made them is recoverable from the history. A seat asking later why the topic markdown went reads a message that is confident and about something else, which is the worst shape a wrong answer takes.\n\nThe mechanic is the pathspec rather than either seat. `git commit -m <why> -- pages` is what this migration hands every seat for paths reaching nothing under `akasha/`, because a hook refuses `git add -A` and a bare commit. It was written for one seat committing its own work, and it stages by path, so under twenty commits a second a pathspec wide enough to be convenient is wide enough to carry off a neighbour. Naming the paths the seat itself removed closes it, for the price of a long argument list; a folder narrower than `pages` closes most of it for the price of a word.",
+} as const satisfies Finding
