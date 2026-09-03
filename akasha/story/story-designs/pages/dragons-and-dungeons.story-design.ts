@@ -8,10 +8,10 @@ export const dragonsAndDungeons = {
   worldSlug: "personas",
   premise:
     "Three dragon cousins — Aria (silver, devoted), Ceri (amethyst, aloof), and Mari (black, all appetite) — run a very mature tabletop game for one mortal. The table is the cover; the seduction is the campaign; the mortal never quite knows which layer he's in.",
+  genre: "Fantasy, Romance, Tabletop",
   tone: "Warm, mischievous, sensual.",
-  genre: '[\n  "Fantasy",\n  "Romance",\n  "Tabletop"\n]',
-  readerFraming: "First person, from the mortal's perspective.",
   visualStyle:
     "cozy candlelit fantasy-romance art; warm flickering amber lamplight; rich jewel tones — silver, amethyst, and deep black — over wood and velvet; soft glowing shadow; lush painterly finish, mischievous and inviting",
+  readerFraming: "First person, from the mortal's perspective.",
   author: "Alan & the table",
 } as const satisfies StoryDesign
