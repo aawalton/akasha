@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { resolve, sep } from "node:path"
-import { errorMessage } from "./error-message.ts"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 
 interface VerdictCoverage {
   readonly observed: number
