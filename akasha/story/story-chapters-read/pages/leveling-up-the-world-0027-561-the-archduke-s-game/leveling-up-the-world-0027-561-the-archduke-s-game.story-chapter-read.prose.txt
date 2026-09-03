@@ -1,19 +1,3 @@
----
-id: b622194f-75a9-54b0-81cb-1c2fe53c5bef
-page-type-slug: story-chapter-royal-road
-title: "561. The Archduke's Game"
-slug: 0027-561-the-archduke-s-game
-partOf: leveling-up-the-world
-position: 27
-ownLength: 2155
-unit: words
-ownProgress: 2155
-publishedAt: 2022-08-04
-link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/963719/561-the-archdukes-game"
-royalRoadId: "963719"
-markedReadAt: "2026-06-29T22:41:05.568Z"
----
-
 A cool breeze greeted Dallion as he entered his realm. The echoes had changed things a bit, transforming the landmass into a crescent island connected through miles long suspended bridge to an archipelago of islands. Each of the main guardians had their own domains: the haprsisword had retained her tower close to the shore, Vihrogon had his “lodge” inland, surrounded by trees. The bowl dryad guardian had a simple wooden dome nearby, next to a small pond. She was the only inhabitant of Dallion’s domain that preferred to live in the simplest conditions possible. Maybe it was to make her spend as much time as possible in the realm itself.
 
 On that note, Dallion was seriously worried about Vihrogon. The armadil shield guardian was spending more and more time in his lodge, rarely talking to anyone, and even more rarely leaving his domain.

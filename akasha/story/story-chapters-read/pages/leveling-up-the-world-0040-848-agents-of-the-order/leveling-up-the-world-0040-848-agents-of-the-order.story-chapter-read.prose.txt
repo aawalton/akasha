@@ -1,19 +1,3 @@
----
-id: 504f79da-5710-5fea-ad02-0a9caacfeae7
-page-type-slug: story-chapter-royal-road
-title: "848. Agents of the Order"
-slug: 0040-848-agents-of-the-order
-partOf: leveling-up-the-world
-position: 40
-ownLength: 2053
-unit: words
-ownProgress: 2053
-publishedAt: 2023-12-19
-link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1448226/848-agents-of-the-order"
-royalRoadId: "1448226"
-markedReadAt: "2026-06-29T22:41:33.305Z"
----
-
 Going back to his room was always a bittersweet experience. Technically, Dallion didn’t need to stay there. He tended to sleep in his realm or in the wilderness. At one point, he used it to have private conversations with one person or another, but that, too, had ended. Thanks to the duchess, his communication with Eury remained through magic letters, and other than Diroh there wasn’t anyone else he trusted enough to bring here.
 
 Piles of glass, metal, stone, and wooden objects covered parts of the floor. Some of them were brand new, some had been improved dozens of times. In all cases, they had been created by Dallion with the sole purpose of improving his skills. It would have been easy for him to use his domain ruler powers and stash them away. Ironically, he held his personal realm in a much greater regard, preferring to keep it neat and tidy.

@@ -1,19 +1,3 @@
----
-id: bd8d38b1-5857-52f0-a930-50635a75cfc3
-page-type-slug: story-chapter-royal-road
-title: "850. Green Moon Visit"
-slug: 0042-850-green-moon-visit
-partOf: leveling-up-the-world
-position: 42
-ownLength: 2044
-unit: words
-ownProgress: 2044
-publishedAt: 2023-12-23
-link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1452138/850-green-moon-visit"
-royalRoadId: "1452138"
-markedReadAt: "2026-06-29T22:41:36.952Z"
----
-
 Five Moons glowed in the sky. The Blue Moon and Cyan Moons were missing, pushing the light towards the warmer part of the color spectrum. There was no telling whether the missing Moons were upset, or they didn’t wish to look upon the world at this time.
 
 To this day, Dallion knew quite little about the Moons. His interactions had made him know some of their personalities a bit. The copyettes and clerics he was in communication with occasionally would let slip a crumb of information, but a lot of the practical bits remained pure speculation.

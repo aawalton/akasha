@@ -1,19 +1,3 @@
----
-id: ef440d74-efac-501a-b481-b008f33eeef4
-page-type-slug: story-chapter-royal-road
-title: "652. Taste of Magic"
-slug: 0030-652-taste-of-magic
-partOf: leveling-up-the-world
-position: 30
-ownLength: 2060
-unit: words
-ownProgress: 2060
-publishedAt: 2022-12-09
-link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1059143/652-taste-of-magic"
-royalRoadId: "1059143"
-markedReadAt: "2026-06-29T22:41:11.907Z"
----
-
 Where the hell is it? Twenty instances of Dallion shot bolts into the darkness. No red rectangles emerged.
 
 At this distance even the blue flames weren’t able to illuminate the terrain sufficiently for the guardian to become visible. All that Dallion had to go by were the guard marker cones.

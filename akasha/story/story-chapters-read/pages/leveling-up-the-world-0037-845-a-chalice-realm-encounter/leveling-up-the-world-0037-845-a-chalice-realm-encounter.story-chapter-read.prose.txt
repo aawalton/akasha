@@ -1,19 +1,3 @@
----
-id: 10ba8525-21ad-5dda-871c-3fba04690b99
-page-type-slug: story-chapter-royal-road
-title: "845. A Chalice Realm Encounter"
-slug: 0037-845-a-chalice-realm-encounter
-partOf: leveling-up-the-world
-position: 37
-ownLength: 2057
-unit: words
-ownProgress: 2057
-publishedAt: 2023-12-15
-link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1444248/845-a-chalice-realm-encounter"
-royalRoadId: "1444248"
-markedReadAt: "2026-06-29T22:41:26.507Z"
----
-
 Griffin remains filled the chamber. In a past era, this had been the treasure vault of a throne room, now fallen to neglect. Traps and protective spells had kept it from being looted for centuries, though after millennia those had faded and rusted away, allowing for creatures from the wilderness to make it their home. Later still, the creatures had been killed off by hunters, though not all valuables had been taken away.
 
 Twenty magic circles glowed on the far wall of the chamber, shooting aether daggers with the speed of hail in a hurricane. Individually, Dallion could avoid each and every one of them, but in such large numbers, he was forced to rely on his armadil shield and combat splitting.

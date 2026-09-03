@@ -1,19 +1,3 @@
----
-id: 65395e7e-3b80-5c8d-9611-0c6473edc9d4
-page-type-slug: story-chapter-royal-road
-title: "846. Fourth Moonstone"
-slug: 0038-846-fourth-moonstone
-partOf: leveling-up-the-world
-position: 38
-ownLength: 2070
-unit: words
-ownProgress: 2070
-publishedAt: 2023-12-17
-link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1445553/846-fourth-moonstone"
-royalRoadId: "1445553"
-markedReadAt: "2026-06-29T22:41:29.322Z"
----
-
 The lake turned platinum the moment Dallion touched it with the tip of his harpsisword. Ripples formed, spreading along the surface in perfect circles.
 
 Looking at it for a few moments longer, Dallion bent down and put his hand in. Instantly, the surface hardened in an attempt to trap his hand. Thanks to his reaction trait, Dallion easily pulled his hand out before that could happen.
