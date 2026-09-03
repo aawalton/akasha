@@ -13,12 +13,6 @@
       "path": "./infra/ci-workflows"
     },
     {
-      "path": "./infra/loki-service"
-    },
-    {
-      "path": "./infra/seaweedfs"
-    },
-    {
       "path": "./infra/auth-proxy"
     },
     {
@@ -35,6 +29,15 @@
     },
     {
       "path": "./infra/eso-rig"
+    },
+    {
+      "path": "./infra/git-transport"
+    },
+    {
+      "path": "./infra/git-porcelain"
+    },
+    {
+      "path": "./infra/git-cli"
     },
     {
       "path": "./infra/inference"

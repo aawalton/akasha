@@ -65,7 +65,7 @@
         "**/*.ts"
       ]
     },
-    "infra/loki-service": {
+    "akasha/infrastructure/loki-service": {
       "entry": [],
       "project": [
         "**/*.ts"
@@ -84,7 +84,7 @@
         "**/*.ts"
       ]
     },
-    "infra/seaweedfs": {
+    "akasha/infrastructure/seaweedfs": {
       "entry": [
         "src/tunnel-routes.ts"
       ],
