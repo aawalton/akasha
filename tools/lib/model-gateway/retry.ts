@@ -1,10 +1,10 @@
-import { type IdleResettable, UPSTREAM_IDLE_TIMEOUT_TOKEN } from "./idle-timeout.ts"
+import { type IdleResettable, UPSTREAM_IDLE_TIMEOUT_TOKEN } from "@akasha/agents/idle-timeout"
 import {
   buildKeepaliveEmitter,
   KEEPALIVE_COMMENT_BYTES,
   type KeepaliveEmitter,
   type KeepaliveOptions,
-} from "./keepalive.ts"
+} from "@akasha/agents/keepalive"
 import { buildAnthropicSseErrorFrame } from "./sse-error-frame.ts"
 
 export const TRANSPORT_RETRY_BACKOFF_MS = [200, 800] as const

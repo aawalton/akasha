@@ -1,8 +1,8 @@
+import type { HoldRegistry } from "@akasha/agents/hold-registry"
 import type { OAuthCredential } from "@akasha/agents/oauth-types"
 import type { OAuthEffects } from "../oauth-effects.ts"
 import type { PickAccount } from "./account-picker.ts"
 import type { Forward } from "./forward.ts"
-import type { HoldRegistry } from "./hold-registry.ts"
 import type { ObserverSlot } from "./observer-slot.ts"
 import { runPreForwardQueue } from "./pre-forward-queue.ts"
 

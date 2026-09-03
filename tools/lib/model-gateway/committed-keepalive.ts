@@ -1,12 +1,12 @@
 import { classifyCommittedServed, mapStatusToSseError } from "@akasha/agents/committed-outcome"
-import type { HoldRegistry } from "./hold-registry.ts"
+import type { HoldRegistry } from "@akasha/agents/hold-registry"
 import {
   buildKeepaliveEmitter,
   DEFAULT_DOWNSTREAM_KEEPALIVE_MS,
   KEEPALIVE_COMMENT_BYTES,
   type KeepaliveEmitter,
   type KeepaliveTimers,
-} from "./keepalive.ts"
+} from "@akasha/agents/keepalive"
 import type { ObserverSlot } from "./observer-slot.ts"
 import { runPickPipeline } from "./pick-pipeline.ts"
 import type { PickPipelineDeps, PickPipelineOutcome } from "./pick-pipeline-types.ts"

@@ -1,3 +1,4 @@
+import type { HoldRegistry } from "@akasha/agents/hold-registry"
 import {
   decideQueueStep,
   SILENT_QUEUE_BUDGET_MS,
@@ -6,7 +7,6 @@ import {
 import { formatPoolEligibilityBreakdown, summarizePool } from "../oauth-selection.ts"
 import { parseClientStreamFlag } from "./client-stream.ts"
 import { buildCommittedKeepaliveResponse } from "./committed-keepalive.ts"
-import type { HoldRegistry } from "./hold-registry.ts"
 import type { ObserverSlot } from "./observer-slot.ts"
 import { runPickPipeline } from "./pick-pipeline.ts"
 import type { PickPipelineDeps } from "./pick-pipeline-types.ts"

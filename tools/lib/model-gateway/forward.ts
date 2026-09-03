@@ -1,5 +1,5 @@
+import { fetchWithIdleGuard } from "@akasha/agents/idle-timeout"
 import { copyRequestHeaders, copyResponseHeaders } from "@akasha/agents/proxy-headers"
-import { fetchWithIdleGuard } from "./idle-timeout.ts"
 import type { ObserverSlot } from "./observer-slot.ts"
 import { pullFirstChunkAndWrap } from "./retry.ts"
 import { buildStreamObserver, type ShutdownFlushRegistry } from "./transport-log.ts"

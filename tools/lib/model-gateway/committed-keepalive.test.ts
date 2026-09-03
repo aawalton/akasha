@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
+import { buildHoldRegistry } from "@akasha/agents/hold-registry"
+import type { KeepaliveTimers } from "@akasha/agents/keepalive"
 import { buildCommittedKeepaliveResponse } from "./committed-keepalive.ts"
-import { buildHoldRegistry } from "./hold-registry.ts"
-import type { KeepaliveTimers } from "./keepalive.ts"
 import type { ObserverSlot } from "./observer-slot.ts"
 import type { PickPipelineDeps, PickPipelineOutcome } from "./pick-pipeline-types.ts"
 
