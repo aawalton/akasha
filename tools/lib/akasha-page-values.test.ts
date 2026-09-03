@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import { cpSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join, resolve } from "node:path"
+import { forgetRowsPages } from "@akasha/markdown-pages/page-rows"
 import {
   akashaValuesAt,
   isAkashaPage,
@@ -10,7 +11,6 @@ import {
 } from "@akasha/pages-system/akasha-page-values"
 import { dropDerivers } from "./deriver-hold.ts"
 import { answer } from "./page-query.ts"
-import { forgetRowsPages } from "./page-rows.ts"
 
 const REPO = resolve(import.meta.dir, "..", "..")
 

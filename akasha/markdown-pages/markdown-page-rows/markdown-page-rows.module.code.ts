@@ -1,12 +1,15 @@
 import { statSync } from "node:fs"
-import type { Held, Values } from "@akasha/markdown-pages/page-file-values"
-import { rowsFileOf, rowsPartsOf } from "@akasha/markdown-pages/rows-file"
-import { textAt } from "@akasha/markdown-pages/text-at"
 import { isAkashaPage, kebabisedRow } from "@akasha/pages-system/akasha-page-values"
 import { isAddressable, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { carried } from "@akasha/pages-system/page-carry"
 import { isMissing } from "@akasha/utils-fs/missing"
+import type {
+  Held,
+  Values,
+} from "../markdown-page-file-values/markdown-page-file-values.module.code.ts"
+import { rowsFileOf, rowsPartsOf } from "../markdown-rows-file/markdown-rows-file.module.code.ts"
+import { textAt } from "../markdown-text-at/markdown-text-at.module.code.ts"
 
 const NAMING: readonly string[] = ["slug", "id"]
 

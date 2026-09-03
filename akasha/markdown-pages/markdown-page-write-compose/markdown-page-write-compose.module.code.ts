@@ -1,15 +1,30 @@
 import { idOfFilePage as pageId } from "@akasha/file-page-identity"
-import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
-import { attachmentKeysFor } from "@akasha/markdown-pages/page-attachment-keys"
-import type { Rendered } from "@akasha/markdown-pages/page-property-types"
-import { pageTypePathIn } from "@akasha/markdown-pages/page-types"
-import { uncommittedKeysFor } from "@akasha/markdown-pages/page-uncommitted-keys"
-import { bodyIn, frontOf, statedIn, textIn } from "@akasha/markdown-pages/page-write-text"
-import { type Split, splitValues, type Value } from "@akasha/markdown-pages/page-write-values"
-import { type Where, whereFor } from "@akasha/markdown-pages/page-write-where"
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { statesNextSeq, takeSeqOf } from "./page-seq.ts"
+import {
+  diskFileTree,
+  type FileTree,
+} from "../markdown-file-tree/markdown-file-tree.module.code.ts"
+import { attachmentKeysFor } from "../markdown-page-attachment-keys/markdown-page-attachment-keys.module.code.ts"
+import type { Rendered } from "../markdown-page-property-types/markdown-page-property-types.module.code.ts"
+import { statesNextSeq, takeSeqOf } from "../markdown-page-seq/markdown-page-seq.module.code.ts"
+import { pageTypePathIn } from "../markdown-page-types/markdown-page-types.module.code.ts"
+import { uncommittedKeysFor } from "../markdown-page-uncommitted-keys/markdown-page-uncommitted-keys.module.code.ts"
+import {
+  bodyIn,
+  frontOf,
+  statedIn,
+  textIn,
+} from "../markdown-page-write-text/markdown-page-write-text.module.code.ts"
+import {
+  type Split,
+  splitValues,
+  type Value,
+} from "../markdown-page-write-values/markdown-page-write-values.module.code.ts"
+import {
+  type Where,
+  whereFor,
+} from "../markdown-page-write-where/markdown-page-write-where.module.code.ts"
 
 const PAGE_ID = "id"
 

@@ -1,6 +1,7 @@
 import { fileStemOf } from "@akasha/file-page-identity"
 import { diskFileTree } from "@akasha/markdown-pages/file-tree"
 import { slugNamed } from "@akasha/markdown-pages/page-address"
+import { codeValueFor } from "@akasha/markdown-pages/page-code-values"
 import {
   BACK,
   EXPRESSION,
@@ -31,6 +32,7 @@ import {
   reducedFrom,
   underivable,
 } from "@akasha/markdown-pages/page-reach"
+import { rowsPagesIn } from "@akasha/markdown-pages/page-rows"
 import { placeOf, scanIn } from "@akasha/markdown-pages/page-types"
 import { declarationsFromFiles } from "@akasha/markdown-pages/property-declarations"
 import { NONE, textAt } from "@akasha/markdown-pages/text-at"
@@ -45,8 +47,6 @@ import {
   WALK_BOUND,
 } from "@akasha/pages-system/page-derive-shape"
 import { keptIn, narrowing } from "@akasha/pages-system/page-narrow"
-import { codeValueFor } from "./page-code-values.ts"
-import { rowsPagesIn } from "./page-rows.ts"
 
 const NAMES_NOBODY: ReadonlyMap<string, readonly string[]> = new Map()
 

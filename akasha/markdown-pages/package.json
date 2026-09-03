@@ -60,7 +60,14 @@
     "./tracked": "./markdown-tracked/markdown-tracked.module.code.ts",
     "./uncommitted": "./markdown-uncommitted/markdown-uncommitted.module.code.ts",
     "./page-rows-home": "./markdown-page-rows-home/markdown-page-rows-home.module.code.ts",
-    "./page-type-declared": "./markdown-page-type-declared/markdown-page-type-declared.module.code.ts"
+    "./page-type-declared": "./markdown-page-type-declared/markdown-page-type-declared.module.code.ts",
+    "./page-code-values": "./markdown-page-code-values/markdown-page-code-values.module.code.ts",
+    "./page-rows": "./markdown-page-rows/markdown-page-rows.module.code.ts",
+    "./page-rows-resolve": "./markdown-page-rows-resolve/markdown-page-rows-resolve.module.code.ts",
+    "./page-seq": "./markdown-page-seq/markdown-page-seq.module.code.ts",
+    "./page-commit-queue": "./markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts",
+    "./page-write-commit": "./markdown-page-write-commit/markdown-page-write-commit.module.code.ts",
+    "./page-write-compose": "./markdown-page-write-compose/markdown-page-write-compose.module.code.ts"
   },
   "dependencies": {
     "@akasha/code-system": "workspace:*",
@@ -69,6 +76,7 @@
     "@akasha/file-system": "workspace:*",
     "@akasha/git": "workspace:*",
     "@akasha/pages-system": "workspace:*",
+    "@akasha/seat-system": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "minimatch": "^9.0.9",
     "yaml": "^2.8.1"

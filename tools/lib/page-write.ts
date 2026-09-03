@@ -10,14 +10,14 @@ import {
 import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
 import { attachmentKeysFor } from "@akasha/markdown-pages/page-attachment-keys"
 import { rowsHoldingsFor } from "@akasha/markdown-pages/page-property-types"
+import { landOne } from "@akasha/markdown-pages/page-write-commit"
+import { patchedText, withId, withSeq } from "@akasha/markdown-pages/page-write-compose"
 import { frontOf, textIn } from "@akasha/markdown-pages/page-write-text"
 import { type Attachment, splitValues, type Value } from "@akasha/markdown-pages/page-write-values"
 import { type Where, whereFor } from "@akasha/markdown-pages/page-write-where"
 import { partNumberOf, rowsFileOf, rowsPartOf, rowsPartsOf } from "@akasha/markdown-pages/rows-file"
 import { patchUncommitted, removeUncommitted } from "@akasha/markdown-pages/uncommitted"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { landOne } from "./page-write-commit.ts"
-import { patchedText, withId, withSeq } from "./page-write-compose.ts"
 
 export interface Taken {
   readonly at: string

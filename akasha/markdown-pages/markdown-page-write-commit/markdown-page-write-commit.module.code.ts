@@ -8,9 +8,12 @@ import {
 } from "@akasha/command-system/harness-landing"
 import { commitPaths } from "@akasha/git/git-committing"
 import { whileHoldingLanding } from "@akasha/git/git-landing-lock"
-import type { Where } from "@akasha/markdown-pages/page-write-where"
 import { refuseALiveTestWrite } from "@akasha/pages-system/live-store-write-guard"
-import { deferringCommits, queueCommit } from "./page-commit-queue.ts"
+import {
+  deferringCommits,
+  queueCommit,
+} from "../markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts"
+import type { Where } from "../markdown-page-write-where/markdown-page-write-where.module.code.ts"
 
 export function commitPages(
   root: string,

@@ -1155,6 +1155,7 @@
         "@akasha/file-system": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/pages-system": "workspace:*",
+        "@akasha/seat-system": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "minimatch": "^9.0.9",
         "yaml": "^2.8.1",

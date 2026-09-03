@@ -1,9 +1,9 @@
 import { stageOf } from "@akasha/code-system/shape-progress"
-import type { Held } from "@akasha/markdown-pages/page-file-values"
-import type { Reached } from "@akasha/markdown-pages/page-reach"
 import type { Property } from "@akasha/pages-system/markdown-property"
 import { seatIsAttached } from "@akasha/seat-system/seat-attached"
 import { type SeatPresence, statedProcessPresence } from "@akasha/seat-system/seat-proc-key"
+import type { Held } from "../markdown-page-file-values/markdown-page-file-values.module.code.ts"
+import type { Reached } from "../markdown-page-reach/markdown-page-reach.module.code.ts"
 
 const SUPERVISOR_PROCESS = "supervisor-process"
 
