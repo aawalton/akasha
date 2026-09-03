@@ -1,6 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
+import type { Note } from "../set-logs/properties/note.text-property.ts"
 import type { Context } from "./properties/context.select-property.ts"
 import type { MobilityReadingDate } from "./properties/mobility-reading-date.calendar-date-property.ts"
 import type { MobilityReadingMetric } from "./properties/mobility-reading-metric.select-property.ts"
@@ -16,6 +17,7 @@ export type MobilityReading = Page & {
   side: Side
   mobilityReadingValueNum?: MobilityReadingValueNum
   mobilityReadingValueText: MobilityReadingValueText
+  note?: Note
 }
 
 export const mobilityReading = {
@@ -41,11 +43,16 @@ export const mobilityReading = {
     { pagePropertySlug: "side", required: true, many: false },
     { pagePropertySlug: "mobility-reading-value-num", required: false, many: false },
     { pagePropertySlug: "mobility-reading-value-text", required: true, many: false },
+    { pagePropertySlug: "note", required: false, many: false },
   ],
   invariants: [
     {
       invariantKind: "absence",
       statement: "A reading names no session it was taken in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The human read of a reading always stands, and the number beside it may not.",
     },
   ],
 } as const satisfies PageType
