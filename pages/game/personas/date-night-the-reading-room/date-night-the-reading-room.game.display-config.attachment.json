@@ -1,8 +1,0 @@
-{
-  "pollMs": 5000,
-  "modules": {
-    "chapterProse": {
-      "history": "full"
-    }
-  }
-}
