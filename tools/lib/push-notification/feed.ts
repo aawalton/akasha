@@ -152,6 +152,36 @@ export async function readNotificationsAfter(sentAfter: string): Promise<readonl
   return read
 }
 
+export interface Sourced {
+  readonly source: string | null
+  readonly sentAt: string
+}
+
+/**
+ * The newest notifications carrying one kind, newest first.
+ *
+ * This answers what `surplus-fall` used to ask the old registry for directly: rows of one kind,
+ * with their `source` and `sent-at`, newest first. It reads `kind` and `source` by those
+ * spellings because those are the property pages' PROPERTYSLUGS and what every row carries; the
+ * pages themselves are slugged `notification-kind` and `notification-source`.
+ *
+ * Like every reader here this throws rather than answering empty where a feed cannot be read. A
+ * caller deciding whether a thing was already said must not read "unreadable" as "not said".
+ */
+export async function newestOfKind(kind: string, atOnce: number): Promise<readonly Sourced[]> {
+  const kept = everyRow().filter((row) => row["kind"] === kind)
+  const sorted = [...kept].sort((one, two) =>
+    String(two["sent-at"]).localeCompare(String(one["sent-at"]))
+  )
+  const read: Sourced[] = []
+  for (const row of sorted.slice(0, atOnce)) {
+    const sentAt = textIn(row, "sent-at")
+    if (sentAt === null) continue
+    read.push({ source: textIn(row, "source"), sentAt })
+  }
+  return read
+}
+
 export async function newestNotificationAt(): Promise<string | null> {
   let newest: string | null = null
   for (const row of everyRow()) {

@@ -1,10 +1,8 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { ALAN_PERSON } from "../notify.ts"
-import { askComposed } from "../page-query-client.ts"
-import { writeNotification } from "../push-notification/feed.ts"
-import { NOTIFICATION_PAGE_TYPE_SLUG } from "../push-notification/payload.ts"
+import { newestOfKind, writeNotification } from "../push-notification/feed.ts"
 import { type Readout, readReading, readSleepHours, resolveOneReadout } from "./readout.ts"
-import { decideFall, isTierColor, tierAt, TIER_ORDER, type TierColor } from "./tier.ts"
+import { decideFall, isTierColor, TIER_ORDER, type TierColor, tierAt } from "./tier.ts"
 
 export const WORKER_NAME = "surplus-fall-notifier"
 
@@ -52,27 +50,20 @@ export function tierInSource(said: unknown): TierColor | null {
 // The day is matched by running each `sent-at` back through `getEsoDayStr`, the same function the
 // tick takes its day from. A window of timestamps would have to know where Alan's day begins, and
 // would drift from it the moment that moved.
+//
+// THE FEED IS READ THROUGH AKASHA. This asked the old markdown registry for page type
+// `notification` until that page type was ablated, after which every ask was refused and this threw
+// on any fall, so no surplus-fall push reached Alan at all. `newestOfKind` reads the same rows out
+// of the feed's sidecar. It still throws where the feed cannot be read, which is what this wants:
+// it answers what was already said today, and reading "unreadable" as "nothing was said" would
+// push the same fall again every five minutes.
 export async function tierSaidOn(day: string): Promise<TierColor | null> {
-  const asked = await askComposed({
-    "page-type": NOTIFICATION_PAGE_TYPE_SLUG,
-    where: { kind: { is: KIND } },
-    keys: ["source", "sent-at"],
-    "sort-by": "sent-at",
-    descending: true,
-    limit: SAID_AT_ONCE,
-  })
-  if (!asked.ok) {
-    throw new Error(
-      `tierSaidOn: the feed went unread, so what was already said today is unknown and saying it again would be a guess: ${asked.why}`
-    )
-  }
+  const said = await newestOfKind(KIND, SAID_AT_ONCE)
   let worst: TierColor | null = null
-  for (const row of asked.rows) {
-    const sentAt = row.values["sent-at"]
-    if (typeof sentAt !== "string") continue
-    const at = new Date(sentAt)
+  for (const one of said) {
+    const at = new Date(one.sentAt)
     if (Number.isNaN(at.getTime()) || getEsoDayStr(at) !== day) continue
-    const tier = tierInSource(row.values.source)
+    const tier = tierInSource(one.source)
     if (tier === null) continue
     if (worst === null || isWorse(tier, worst)) worst = tier
   }
