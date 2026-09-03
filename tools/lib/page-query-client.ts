@@ -1,9 +1,9 @@
-import type { WriteAct } from "./page-landing-judge.ts"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { WriteAct } from "@akasha/pages-system/page-landing-judge"
 import { answered, askedFrom } from "./page-query-answer.ts"
 import { written } from "./page-query-landing.ts"
 import type { Said } from "./page-query-request.ts"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const SAYS = "[page-query]"
 

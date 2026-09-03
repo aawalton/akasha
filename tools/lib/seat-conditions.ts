@@ -1,7 +1,7 @@
-import { answer } from "./page-query.ts"
-import { type Values } from "./page-file-values.ts"
-import { textOf } from "./page-query-values.ts"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { textOf } from "@akasha/pages-system/page-query-values"
+import type { Values } from "./page-file-values.ts"
+import { answer } from "./page-query.ts"
 
 const NONE = "none"
 
@@ -42,7 +42,9 @@ export function readSeatConditions(): SeatConditions {
     throw new Error(`no \`${PAGE_TYPE}\` page stands, so nothing states what a seat runs under`)
   }
   if (second !== undefined) {
-    throw new Error(`${found.n} \`${PAGE_TYPE}\` pages stand where one carries them, so none of them holds`)
+    throw new Error(
+      `${found.n} \`${PAGE_TYPE}\` pages stand where one carries them, so none of them holds`
+    )
   }
   return {
     model: stated(row.values, "model"),

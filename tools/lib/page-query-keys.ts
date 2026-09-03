@@ -1,4 +1,4 @@
-import { type Carries } from "./page-derive-shape.ts"
+import type { Carries } from "@akasha/pages-system/page-derive-shape"
 import { BODY } from "./page-file-values.ts"
 import type { PageQuery } from "./page-query.ts"
 

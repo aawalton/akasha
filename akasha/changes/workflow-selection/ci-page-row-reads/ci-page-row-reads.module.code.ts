@@ -1,5 +1,5 @@
-import type { Row } from "@tools/lib/page-derive-shape"
-import { listOf as listIn, textOf as textIn } from "@tools/lib/page-query-values"
+import type { Row } from "@akasha/pages-system/page-derive-shape"
+import { listOf as listIn, textOf as textIn } from "@akasha/pages-system/page-query-values"
 
 export function textOf(row: Row, key: string): string | null {
   const one = textIn(row.values, key)

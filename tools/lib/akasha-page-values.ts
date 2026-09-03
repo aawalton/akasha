@@ -14,10 +14,10 @@
  * spells one. One turn, in one place, so the two halves answer to the same names.
  */
 
+import { carried } from "@akasha/pages-system/page-carry"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import { wholeValue } from "@akasha/pages-system/page-uncommitted"
 import { valueAt } from "@akasha/pages-system/page-value"
-import { carried } from "./page-carry.ts"
 import type { Held, Values } from "./page-file-values.ts"
 import { kebabizeKey } from "./tracking/keys.ts"
 
@@ -41,7 +41,10 @@ export const PAGE_TYPE_SLUG = "page-type-slug"
  * a body that does state them keeps what it states — the days the migration converted state both,
  * and a reader that overwrote them would answer about a file rather than about a page.
  */
-export function valuesOfDeclared(relPath: string, declared: Readonly<Record<string, unknown>>): Values {
+export function valuesOfDeclared(
+  relPath: string,
+  declared: Readonly<Record<string, unknown>>
+): Values {
   const values: Record<string, Held> = {}
   for (const [key, held] of Object.entries(declared)) values[kebabizeKey(key)] = carried(held)
   const parted = partedIn(relPath)

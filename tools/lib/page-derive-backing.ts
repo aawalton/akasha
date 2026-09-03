@@ -1,9 +1,8 @@
-import { type Kind } from "./page-declared.ts"
-import type { Property } from "../../page/property/property.ts"
-import { type Backed, type Relation } from "./page-derive-shape.ts"
-import { placeOf } from "../../page/page-types.ts"
 import { isAddressable } from "@akasha/pages-system/checkout-roots"
-
+import type { Backed, Relation } from "@akasha/pages-system/page-derive-shape"
+import { placeOf } from "../../page/page-types.ts"
+import type { Property } from "../../page/property/property.ts"
+import type { Kind } from "./page-declared.ts"
 
 export interface Backing {
   readonly isFiled: (pageType: string) => boolean
@@ -32,7 +31,11 @@ export function backingOver(
     for (const kind of chainOf(pageType))
       for (const [key, declaration] of declared.get(kind) ?? [])
         if (!found.has(key) && declaration.target !== null)
-          found.set(key, { key, target: declaration.target, slugProperty: declaration.slugProperty })
+          found.set(key, {
+            key,
+            target: declaration.target,
+            slugProperty: declaration.slugProperty,
+          })
     return [...found.values()]
   }
 

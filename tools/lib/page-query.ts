@@ -1,20 +1,20 @@
-import { type Backed, type Row } from "./page-derive-shape.ts"
-import { type Held, type Values } from "./page-file-values.ts"
-import { deriverFor } from "./deriver-hold.ts"
 import { idOfFilePage as pageId, slugOfFilePage as pageSlug } from "@akasha/file-page-identity"
+import { isAddressable } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
+import type { Backed, Row } from "@akasha/pages-system/page-derive-shape"
+import { listOf, textOf } from "@akasha/pages-system/page-query-values"
+import { diskFileTree } from "../../page/file-tree.ts"
+import { pagesOf, reposOf } from "../../page/page-types.ts"
+import { registryOf } from "../../page/property/registry.ts"
+import { textAt } from "../../page/text/text.ts"
+import { deriverFor } from "./deriver-hold.ts"
+import type { Held, Values } from "./page-file-values.ts"
 import { bind, type Given, isRefused, QUERY_PAGE_TYPE, type Refused } from "./page-query-bind.ts"
 import { comparing, stated } from "./page-query-compare.ts"
 import { queryOf } from "./page-query-fields.ts"
 import { carriesFor } from "./page-query-keys.ts"
 import { NOTHING, reduced, reducedFault } from "./page-query-reduce.ts"
-import { listOf, textOf } from "./page-query-values.ts"
-import { diskFileTree } from "../../page/file-tree.ts"
-import { registryOf } from "../../page/property/registry.ts"
-import { pagesOf, reposOf } from "../../page/page-types.ts"
-import { textAt } from "../../page/text/text.ts"
-import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { isAddressable } from "@akasha/pages-system/checkout-roots"
 import { WAKE_DAY, type Woke, wokeOn } from "./wake-day.ts"
 
 export const UNREACHED = "names no page type whose pages are files"
@@ -112,7 +112,10 @@ function passes(values: Values, test: Test, typeOf: (key: string) => string | nu
     if (!test.contains.every((wanted) => held.includes(wanted.toLowerCase()))) return false
   }
   if (test.endsWith !== undefined && (one === null || !one.endsWith(test.endsWith))) return false
-  if (test.empty !== undefined && (one === null && listOf(values, test.key).length === 0) !== test.empty) {
+  if (
+    test.empty !== undefined &&
+    (one === null && listOf(values, test.key).length === 0) !== test.empty
+  ) {
     return false
   }
   if (test.atOrAfter !== undefined && (one === null || comparing(type)(one, test.atOrAfter) < 0)) {
@@ -202,7 +205,10 @@ export function answer(roots: Roots, query: PageQuery, at: number = Date.now()):
   const woke = tests.some((one) => statedIn(one).includes(WAKE_DAY)) ? wokeOn(roots, at) : null
   const asked = tests.map((one) => resolving(one, typeOf(one.key), at, woke))
   const unseen = new Set(
-    tests.filter(valued).map((test) => test.key).filter((key) => typeOf(key) === null)
+    tests
+      .filter(valued)
+      .map((test) => test.key)
+      .filter((key) => typeOf(key) === null)
   )
   const unfound = new Set((query.keys ?? []).filter((key) => typeOf(key) === null))
   const matched: Row[] = []

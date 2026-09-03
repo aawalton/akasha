@@ -1,10 +1,10 @@
-import { diskFileTree } from "../../page/file-tree.ts"
-import { TRACKING_DAY } from "./page-query-day.ts"
-import { dayNameOf } from "./tracking/day-place.ts"
-import { declaredFor } from "../page/page-rows-home.ts"
-import { kebabized } from "../../page/property/key-spelling.ts"
-import type { PageQuery, Test } from "./page-query.ts"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { TRACKING_DAY } from "@akasha/pages-system/page-query-day"
+import { diskFileTree } from "../../page/file-tree.ts"
+import { kebabized } from "../../page/property/key-spelling.ts"
+import { declaredFor } from "../page/page-rows-home.ts"
+import type { PageQuery, Test } from "./page-query.ts"
+import { dayNameOf } from "./tracking/day-place.ts"
 
 export type Given = Readonly<Record<string, string | readonly string[]>>
 
@@ -57,7 +57,10 @@ function untakenSays(name: string): string {
   return `\`${name}\` is no parameter this service reads${points}; a composed query states \`page-type\`, and may state ${listed(may)}`
 }
 
-export function composedFrom(query: PageQuery, fields: Readonly<Record<string, unknown>>): PageQuery {
+export function composedFrom(
+  query: PageQuery,
+  fields: Readonly<Record<string, unknown>>
+): PageQuery {
   const untaken = Object.keys(fields)
     .filter((one) => !COMPOSED_FIELDS.includes(one))
     .map(untakenSays)
@@ -77,7 +80,9 @@ function unstatedSays(name: string, permitted: ReadonlySet<string>): string {
 
 export function documentKeys(roots: Roots): ReadonlySet<string> | null {
   const declared = declaredFor(diskFileTree(roots), QUERY_PAGE_TYPE)
-  return declared === null ? null : new Set([...COMPOSED_FIELDS, ...declared.map((one) => one.name)])
+  return declared === null
+    ? null
+    : new Set([...COMPOSED_FIELDS, ...declared.map((one) => one.name)])
 }
 
 export function documentFrom(
@@ -153,14 +158,17 @@ function split(one: string): readonly string[] {
   return one.split(",").map((each) => each.trim())
 }
 
-function readTaken(name: string, type: string, held: string | readonly string[]): readonly string[] | Refused {
+function readTaken(
+  name: string,
+  type: string,
+  held: string | readonly string[]
+): readonly string[] | Refused {
   if (!TAKE_TYPES.includes(type)) {
     return {
       refused: `\`${name}\` is taken as \`${type}\`, which is no type an argument may be: ${TAKE_TYPES.join(", ")}`,
     }
   }
-  const values =
-    typeof held !== "string" ? [...held] : type === LIST_TAKE ? split(held) : [held]
+  const values = typeof held !== "string" ? [...held] : type === LIST_TAKE ? split(held) : [held]
   if (values.length === 0) return { refused: `\`${name}\` was given nothing` }
   if (type !== LIST_TAKE && values.length !== 1) {
     return {
@@ -178,12 +186,18 @@ function untaken(name: string, key: string, slot: string, saying: string): strin
   return `\`${SLOT_SAYS[slot] ?? slot}\` on \`${key}\` names \`$${name}\`, which this query does not take; ${saying}`
 }
 
-function heldFor(query: PageQuery, given: Given, saying: string): Map<string, readonly string[]> | Refused {
+function heldFor(
+  query: PageQuery,
+  given: Given,
+  saying: string
+): Map<string, readonly string[]> | Refused {
   const held = new Map<string, readonly string[]>()
   for (const [name, type] of Object.entries(query.takes ?? {})) {
     const supplied = given[name]
     if (supplied === undefined) {
-      return { refused: `\`${name}\` is an argument this query takes and it was not given; ${saying}` }
+      return {
+        refused: `\`${name}\` is an argument this query takes and it was not given; ${saying}`,
+      }
     }
     const read = readTaken(name, type, supplied)
     if (isRefused(read)) return read

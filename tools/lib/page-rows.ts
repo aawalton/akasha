@@ -1,12 +1,12 @@
 import { statSync } from "node:fs"
-import { rowsFileOf, rowsPartsOf } from "../../page/rows-file.ts"
-import { isAkashaPage, kebabisedRow } from "./akasha-page-values.ts"
-import { carried } from "./page-carry.ts"
-import type { Held, Values } from "./page-file-values.ts"
-import { textAt } from "../../page/text/text.ts"
-import { isMissing } from "@akasha/utils-fs/missing"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
 import { isAddressable, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { carried } from "@akasha/pages-system/page-carry"
+import { isMissing } from "@akasha/utils-fs/missing"
+import { rowsFileOf, rowsPartsOf } from "../../page/rows-file.ts"
+import { textAt } from "../../page/text/text.ts"
+import { isAkashaPage, kebabisedRow } from "./akasha-page-values.ts"
+import type { Held, Values } from "./page-file-values.ts"
 
 const NAMING: readonly string[] = ["slug", "id"]
 
@@ -103,7 +103,9 @@ function readParsed(
     const read = valuesOfLine(line)
     const values = read === null || !akasha ? read : (kebabisedRow(read) as Values)
     if (values === null) {
-      faults.push(`line ${index + 1} of \`${repo}:${relPath}\` is not one JSON object, so it names no page`)
+      faults.push(
+        `line ${index + 1} of \`${repo}:${relPath}\` is not one JSON object, so it names no page`
+      )
       continue
     }
     const whole = values[of] === undefined ? { ...values, [of]: parentNamed } : values
@@ -140,7 +142,14 @@ export function rowsPagesIn(
   // Which half the parent page is in decides how its rows are spelled, and nothing else does.
   const akasha = isAkashaPage(parentRel)
   for (const path of parts.length === 0 ? [`${root}/${relPath}`] : parts) {
-    const read = readParsed(root, repo, path.slice(root.length + 1), parentNamed, `${on}-slug`, akasha)
+    const read = readParsed(
+      root,
+      repo,
+      path.slice(root.length + 1),
+      parentNamed,
+      `${on}-slug`,
+      akasha
+    )
     for (const why of read.faults) fault(why)
     pages.push(...read.pages)
   }

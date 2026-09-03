@@ -1,7 +1,7 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import type { Row } from "@akasha/pages-system/page-derive-shape"
+import { textOf } from "@akasha/pages-system/page-query-values"
 import { PagesMissing, readFilePages } from "@tools/lib/file-pages"
-import type { Row } from "@tools/lib/page-derive-shape"
-import { textOf } from "@tools/lib/page-query-values"
 import { writePage } from "@tools/lib/page-write"
 import { z } from "zod"
 

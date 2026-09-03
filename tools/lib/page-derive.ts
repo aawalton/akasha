@@ -1,18 +1,43 @@
+import { fileStemOf } from "@akasha/file-page-identity"
+import { isAddressable } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import {
+  type Carries,
+  type Deriver,
+  type Row,
+  WALK_BOUND,
+} from "@akasha/pages-system/page-derive-shape"
+import { keptIn, narrowing } from "@akasha/pages-system/page-narrow"
+import { diskFileTree } from "../../page/file-tree.ts"
+import { slugNamed } from "../../page/page-address.ts"
+import { placeOf, scanIn } from "../../page/page-types.ts"
+import { declarationsFromFiles } from "../../page/property/declarations.ts"
+import type { Property } from "../../page/property/property.ts"
+import { NONE, textAt } from "../../page/text/text.ts"
+import { akashaValuesAt, isAkashaPage } from "./akasha-page-values.ts"
 import { codeValueFor } from "./page-code-values.ts"
-import { rowsPagesIn } from "./page-rows.ts"
 import {
   BACK,
-  ROWS,
-  fallbackOf,
   EXPRESSION,
   FROM,
+  fallbackOf,
   type Kind,
   kindsIn,
+  ROWS,
   TARGET,
 } from "./page-declared.ts"
-import type { Property } from "../../page/property/property.ts"
-import { declarationsFromFiles } from "../../page/property/declarations.ts"
-import { diskFileTree } from "../../page/file-tree.ts"
+import { backingOver } from "./page-derive-backing.ts"
+import { formulasOver } from "./page-derive-formula.ts"
+import { foundIn, indexingOver } from "./page-derive-index.ts"
+import { noteUnreadable } from "./page-fault.ts"
+import {
+  BODY,
+  type Held,
+  type Read,
+  valuesIn,
+  withLarge,
+  withUncommitted,
+} from "./page-file-values.ts"
 import {
   along,
   listing,
@@ -21,21 +46,7 @@ import {
   reducedFrom,
   underivable,
 } from "./page-reach.ts"
-import { noteUnreadable } from "./page-fault.ts"
-import { akashaValuesAt, isAkashaPage } from "./akasha-page-values.ts"
-import { BODY, type Held, type Read, valuesIn, withUncommitted, withLarge } from "./page-file-values.ts"
-import { placeOf } from "../../page/page-types.ts"
-import { NONE, textAt } from "../../page/text/text.ts"
-import { fileStemOf } from "@akasha/file-page-identity"
-import { scanIn } from "../../page/page-types.ts"
-import { foundIn, indexingOver } from "./page-derive-index.ts"
-import { keptIn, narrowing } from "./page-narrow.ts"
-import { slugNamed } from "../../page/page-address.ts"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { isAddressable } from "@akasha/pages-system/checkout-roots"
-import { backingOver } from "./page-derive-backing.ts"
-import { formulasOver } from "./page-derive-formula.ts"
-import { type Carries, type Deriver, type Row, WALK_BOUND } from "./page-derive-shape.ts"
+import { rowsPagesIn } from "./page-rows.ts"
 
 const NAMES_NOBODY: ReadonlyMap<string, readonly string[]> = new Map()
 
@@ -162,8 +173,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
       declaration.on,
       declaration.name,
       declaration.uncommitted,
-      (why) =>
-      faults.add(why)
+      (why) => faults.add(why)
     ).map((one) => ({ ...one, kind: target }))
   }
 
@@ -225,8 +235,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     yield* filedPagesOf(kind)
     for (const declaration of carriers.get(kind) ?? [])
       for (const parentKind of beneath(declaration.on))
-        for (const parent of walkPages(parentKind, chain))
-          yield* rowsPagesFor(parent, declaration)
+        for (const parent of walkPages(parentKind, chain)) yield* rowsPagesFor(parent, declaration)
   }
 
   const pagesOf = (kind: string): Iterable<Page> => ({
@@ -249,12 +258,17 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     bound: WALK_BOUND,
   }
 
-  const namersFor = (declaration: Property, depth: number): ReadonlyMap<string, readonly string[]> => {
+  const namersFor = (
+    declaration: Property,
+    depth: number
+  ): ReadonlyMap<string, readonly string[]> => {
     const held = namers.get(declaration.slug)
     if (held !== undefined) return held
     const source = declaration.back === null ? undefined : bySlug.get(declaration.back)
     if (source === undefined) {
-      faults.add(`\`${BACK}\` on \`${declaration.slug}\` names \`${declaration.back}\`, which no property declares`)
+      faults.add(
+        `\`${BACK}\` on \`${declaration.slug}\` names \`${declaration.back}\`, which no property declares`
+      )
       namers.set(declaration.slug, NAMES_NOBODY)
       return NAMES_NOBODY
     }
@@ -320,7 +334,9 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     }
     if (declaration.back !== null) {
       if (declaration.from.length > 0) {
-        faults.add(`\`${declaration.slug}\` states both \`${FROM}\` and \`${BACK}\`, and a property states one or the other`)
+        faults.add(
+          `\`${declaration.slug}\` states both \`${FROM}\` and \`${BACK}\`, and a property states one or the other`
+        )
         return null
       }
       if (depth >= WALK_BOUND) return null
@@ -367,8 +383,12 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     return { at: page.at, values }
   }
 
-  const { isFiled, isHeld, relations, backed } = backingOver(kinds, declared, carriers, chainOf, (why) =>
-    faults.add(why)
+  const { isFiled, isHeld, relations, backed } = backingOver(
+    kinds,
+    declared,
+    carriers,
+    chainOf,
+    (why) => faults.add(why)
   )
 
   const rows = (pageType: string): Iterable<Row> | null => {
@@ -387,5 +407,13 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     return page === undefined ? null : rowOf(page, derivedOn(page.kind))
   }
 
-  return { rows, one, relations, backed, typeOf, attachmentKeys: largeKeys, faults: () => [...faults].sort() }
+  return {
+    rows,
+    one,
+    relations,
+    backed,
+    typeOf,
+    attachmentKeys: largeKeys,
+    faults: () => [...faults].sort(),
+  }
 }

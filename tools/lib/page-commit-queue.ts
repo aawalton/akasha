@@ -1,5 +1,3 @@
-import { commitAuthor } from "../../agent/commit-author.ts"
-import { commitPaths, whileHoldingLanding } from "../../repo/git/git.ts"
 import {
   clearJournal,
   type Queued,
@@ -7,7 +5,9 @@ import {
   rootStands,
   writeJournal,
   writerAlive,
-} from "./page-landing-journal.ts"
+} from "@akasha/pages-system/page-landing-journal"
+import { commitAuthor } from "../../agent/commit-author.ts"
+import { commitPaths, whileHoldingLanding } from "../../repo/git/git.ts"
 
 export const QUIET_MS = 500
 
@@ -176,7 +176,12 @@ function actsIn(one: Waiting, relPaths: readonly string[]): ReadonlyMap<string, 
 }
 
 function landTogether(root: string, one: Waiting, relPaths: readonly string[]): Landing {
-  const got = commitPaths(root, relPaths, messageFor(actsIn(one, relPaths), relPaths.length), commitAuthor())
+  const got = commitPaths(
+    root,
+    relPaths,
+    messageFor(actsIn(one, relPaths), relPaths.length),
+    commitAuthor()
+  )
   return got.ok ? { made: relPaths, reason: null } : { made: got.nothing, reason: got.reason }
 }
 

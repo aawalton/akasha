@@ -1,4 +1,6 @@
-import type { Held } from "./page-file-values.ts"
+export type Held = string | readonly string[] | null
+
+export type Values = Readonly<Record<string, Held>>
 
 function jsonOf(value: unknown): string {
   return JSON.stringify(value) ?? ""
@@ -21,6 +23,8 @@ export function carried(value: unknown): Held {
 export function carriedIn(value: unknown): Held {
   if (typeof value === "string") return value.trim() === "" ? [] : [value.trim()]
   if (value === null || value === undefined) return []
-  if (Array.isArray(value)) return value.map((one) => (typeof one === "string" ? one.trim() : carriedText(one)))
+  if (Array.isArray(value)) {
+    return value.map((one) => (typeof one === "string" ? one.trim() : carriedText(one)))
+  }
   return jsonOf(value)
 }

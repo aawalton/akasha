@@ -1,8 +1,7 @@
-
+import type { WriteAct } from "@akasha/pages-system/page-landing-judge"
 import { messagePageAddress } from "./message-page-address.ts"
 import { names, undeclared } from "./message-to.ts"
 import { reachSeat, resumeSeat } from "./message-to-start.ts"
-import type { WriteAct } from "./page-landing-judge.ts"
 import { resolveSeatTarget } from "./seat-handle.ts"
 
 const MESSAGE = "message"

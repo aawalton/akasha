@@ -1,5 +1,5 @@
+import type { Row } from "@akasha/pages-system/page-derive-shape"
 import type { PageQuery } from "./page-query.ts"
-import type { Row } from "./page-derive-shape.ts"
 
 const NUMBER = "number"
 

@@ -1,5 +1,13 @@
 import { createHash } from "node:crypto"
-import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
+import {
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  readFileSync,
+  renameSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
 
@@ -7,10 +15,14 @@ const DIR_ENV = "PAGE_LANDING_JOURNAL_DIR"
 
 const EXT = ".json"
 
+const STATE = [".local", "state", "page-landings"]
+
+const NAMED = 16
+
 export function journalDir(): string {
   const named = process.env[DIR_ENV]
   if (named !== undefined && named.trim() !== "") return named
-  return join(process.env.HOME ?? homedir(), ".local", "state", "page-landings")
+  return join(process.env.HOME ?? homedir(), ...STATE)
 }
 
 export interface Queued {
@@ -27,7 +39,10 @@ export interface Journal {
 }
 
 function fileFor(root: string): string {
-  return join(journalDir(), `${createHash("sha1").update(root).digest("hex").slice(0, 16)}${EXT}`)
+  return join(
+    journalDir(),
+    `${createHash("sha1").update(root).digest("hex").slice(0, NAMED)}${EXT}`
+  )
 }
 
 export function writeJournal(one: Journal): void {
@@ -41,8 +56,7 @@ export function writeJournal(one: Journal): void {
 export function clearJournal(root: string): void {
   try {
     rmSync(fileFor(root))
-  } catch {
-  }
+  } catch {}
 }
 
 function journalIn(text: string): Journal | null {
@@ -80,7 +94,9 @@ function journalIn(text: string): Journal | null {
 export function readJournals(): readonly Journal[] {
   let names: readonly string[]
   try {
-    names = readdirSync(journalDir()).filter((one) => one.endsWith(EXT)).sort()
+    names = readdirSync(journalDir())
+      .filter((one) => one.endsWith(EXT))
+      .sort()
   } catch {
     return []
   }

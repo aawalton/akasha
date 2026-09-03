@@ -1,6 +1,8 @@
+const SLUG = "slug"
+
 export function narrowing(only: readonly string[] | undefined): ReadonlySet<string> | null {
   if (only === undefined) return null
-  return new Set([...only, "slug"])
+  return new Set([...only, SLUG])
 }
 
 export function keptIn<T>(

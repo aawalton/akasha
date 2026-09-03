@@ -1,15 +1,13 @@
-import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { carried, carriedIn, type Held, type Values } from "@akasha/pages-system/page-carry"
 import { attachmentFileOf } from "../../page/attachment-file.ts"
 import { textField } from "../../page/frontmatter.ts"
-import { carried, carriedIn } from "./page-carry.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
+import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
 export const BODY = "body"
 
 export const ATTACHMENT = "attachment"
 
-export type Held = string | readonly string[] | null
-
-export type Values = Readonly<Record<string, Held>>
+export type { Held, Values }
 
 export interface Read {
   readonly values: Values

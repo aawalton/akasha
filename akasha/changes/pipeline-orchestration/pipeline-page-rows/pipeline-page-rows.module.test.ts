@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Row } from "@tools/lib/page-derive-shape"
+import type { Row } from "@akasha/pages-system/page-derive-shape"
 import { seqIn, textIn } from "./pipeline-page-rows.module.code.ts"
 
 function rowOf(values: Record<string, unknown>): Row {

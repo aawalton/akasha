@@ -1,6 +1,6 @@
-import { deriver } from "./page-derive.ts"
-import { type Carries, type Deriver, type Row } from "./page-derive-shape.ts"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Carries, Deriver, Row } from "@akasha/pages-system/page-derive-shape"
+import { deriver } from "./page-derive.ts"
 
 let deriverTtlMs = 0
 

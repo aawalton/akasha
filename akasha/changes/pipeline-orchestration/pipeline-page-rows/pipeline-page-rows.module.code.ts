@@ -1,5 +1,5 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import type { Row } from "@tools/lib/page-derive-shape"
+import type { Row } from "@akasha/pages-system/page-derive-shape"
 import { answer, type PageQuery, UNREACHED } from "@tools/lib/page-query"
 import { LOG } from "../orchestrator-log/orchestrator-log.module.code.ts"
 

@@ -1,7 +1,7 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import type { Row } from "@tools/lib/page-derive-shape"
+import type { Row } from "@akasha/pages-system/page-derive-shape"
+import { textOf } from "@akasha/pages-system/page-query-values"
 import { answer } from "@tools/lib/page-query"
-import { textOf } from "@tools/lib/page-query-values"
 
 const STEP = "step"
 

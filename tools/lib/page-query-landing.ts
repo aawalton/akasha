@@ -1,15 +1,15 @@
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { isRowAct, type WriteAct } from "@akasha/pages-system/page-landing-judge"
 import { dropDerivers } from "./deriver-hold.ts"
 import { refuseALiveTestWriteIn } from "./live-store-write-guard.ts"
-import { dropAnswers } from "./page-query-hold.ts"
 import { reaching, revived } from "./message-reach-write.ts"
 import { comparedResponse } from "./page-compare.ts"
-import { isRowAct, type WriteAct } from "./page-landing-judge.ts"
+import { dropAnswers } from "./page-query-hold.ts"
 import { asRecord, isValue, namedSafely, type Said, said } from "./page-query-request.ts"
 import { patchRows, removeRow, writeRows } from "./page-rows-write.ts"
-import { patchPage, patchState, removePage, writePage, type Written } from "./page-write.ts"
-import { type Value } from "./page-write-values.ts"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { patchPage, patchState, removePage, type Written, writePage } from "./page-write.ts"
+import type { Value } from "./page-write-values.ts"
 
 export const WRITE_ROUTE =
   /^\/(write-row|patch-row|remove-row|write|patch-if|patch-state|patch|remove)\/([a-z0-9-]+)\/(.+)$/
@@ -26,8 +26,10 @@ function landedFor(
   named: string,
   rows: readonly Record<string, unknown>[]
 ): Written | null {
-  if (act === "write") return writePage(roots, pageType, name, values as Record<string, Value>, writer)
-  if (act === "patch") return patchPage(roots, pageType, name, values as Record<string, Value>, writer)
+  if (act === "write")
+    return writePage(roots, pageType, name, values as Record<string, Value>, writer)
+  if (act === "patch")
+    return patchPage(roots, pageType, name, values as Record<string, Value>, writer)
   if (act === "remove") return removePage(roots, pageType, name, writer)
   if (act === "write-row") return writeRows(roots, pageType, name, rows, writer)
   if (act === "patch-row") return patchRows(roots, pageType, name, rows, writer)
@@ -90,18 +92,26 @@ async function writing(
   const body = asRecord(parsed)
   const writer = body?.["writer"]
   if (typeof writer !== "string" || writer.trim() === "") {
-    return said({ error: "a write names its `writer`, which lands in the commit that records it" }, 400)
+    return said(
+      { error: "a write names its `writer`, which lands in the commit that records it" },
+      400
+    )
   }
   const values = asRecord(body?.["values"] ?? null) ?? {}
   const listed = body?.["rows"]
   const rows = Array.isArray(listed)
-    ? listed.map((one) => asRecord(one)).filter((one): one is Record<string, unknown> => one !== null)
+    ? listed
+        .map((one) => asRecord(one))
+        .filter((one): one is Record<string, unknown> => one !== null)
     : null
   const namedRow = body?.["named"]
   if (act === "remove-row") {
     if (typeof namedRow !== "string" || namedRow.trim() === "") {
       return said(
-        { error: "`remove-row` names the row it takes away in `named`, which is that row's own `slug` or `id`" },
+        {
+          error:
+            "`remove-row` names the row it takes away in `named`, which is that row's own `slug` or `id`",
+        },
         400
       )
     }
@@ -147,7 +157,16 @@ async function writing(
     return said(answer.body, answer.status)
   }
   const named = typeof namedRow === "string" ? namedRow.trim() : ""
-  const landed = landedFor(roots, act, pageType, name, values, writer.trim(), named, rows ?? [values])
+  const landed = landedFor(
+    roots,
+    act,
+    pageType,
+    name,
+    values,
+    writer.trim(),
+    named,
+    rows ?? [values]
+  )
   stage("land")
   if (landed === null) {
     const why = isRowAct(act)
@@ -157,7 +176,11 @@ async function writing(
   }
   if (landed.refused !== undefined) {
     return said(
-      { error: `the gates refused what this \`${act}\` would land:\n${landed.refused}`, pageType, name },
+      {
+        error: `the gates refused what this \`${act}\` would land:\n${landed.refused}`,
+        pageType,
+        name,
+      },
       400
     )
   }

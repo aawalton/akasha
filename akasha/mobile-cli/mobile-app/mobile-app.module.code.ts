@@ -1,8 +1,8 @@
 import { InputError } from "@akasha/errors-core/exit-code"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import type { Row } from "@akasha/pages-system/page-derive-shape"
+import { listOf, textOf } from "@akasha/pages-system/page-query-values"
 import { readFilePages } from "@tools/lib/file-pages"
-import type { Row } from "@tools/lib/page-derive-shape"
-import { listOf, textOf } from "@tools/lib/page-query-values"
 
 export interface MobileApp {
   readonly slug: string

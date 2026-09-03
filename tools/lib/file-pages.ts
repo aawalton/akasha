@@ -1,13 +1,15 @@
-import { answer, UNREACHED } from "./page-query.ts"
-import { type Row } from "./page-derive-shape.ts"
-import { textOf } from "./page-query-values.ts"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import type { Row } from "@akasha/pages-system/page-derive-shape"
+import { textOf } from "@akasha/pages-system/page-query-values"
+import { answer, UNREACHED } from "./page-query.ts"
 
 export class PagesUnread extends Error {
   readonly pageType: string
   readonly why: string
   constructor(pageType: string, why: string) {
-    super(`the \`${pageType}\` pages went unread, so no page can be called present or missing: ${why}`)
+    super(
+      `the \`${pageType}\` pages went unread, so no page can be called present or missing: ${why}`
+    )
     this.name = "PagesUnread"
     this.pageType = pageType
     this.why = why
