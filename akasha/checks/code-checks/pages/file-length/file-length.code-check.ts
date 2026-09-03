@@ -22,7 +22,7 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry file carries the `jsonl` extension.",
+      statement: "An entry file carries the `jsonl` or the `json` extension.",
     },
     {
       invariantKind: "departure",
