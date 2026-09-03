@@ -13,7 +13,11 @@ export const answerPageWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "A write is recorded against the name of this app.",
+      statement: "A write is recorded against the name the caller writes as.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name a site writes as is stated once, at the site's first write.",
     },
     {
       invariantKind: "departure",

@@ -19,5 +19,9 @@ export const navIconSvg = {
       invariantKind: "departure",
       statement: "An icon is loaded only when the icon is drawn.",
     },
+    {
+      invariantKind: "departure",
+      statement: "How heavy a stroke a site draws its icons with is passed in.",
+    },
   ],
 } as const satisfies Module

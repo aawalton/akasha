@@ -1,9 +1,16 @@
 import { readPageWrite, runPageWrite, TAKES, writesAs } from "@akasha/pages-access/answer-write"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 
-writesAs("temper-web")
+let named: string | null = null
 
-export async function answerPageWrite(request: Request): Promise<Response> {
+function namedOnce(writer: string): void {
+  if (named === writer) return
+  writesAs(writer)
+  named = writer
+}
+
+export async function answerPageWrite(request: Request, writer: string): Promise<Response> {
+  namedOnce(writer)
   const { user, headers } = await getUser(request)
   if (user === null) {
     return Response.json(

@@ -2184,6 +2184,15 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/web-page-answers": {
+      "name": "@akasha/web-page-answers",
+      "dependencies": {
+        "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
+        "lucide-react": "^0.576.0",
+      },
+    },
     "akasha/web-security-headers": {
       "name": "@akasha/web-security-headers",
     },
@@ -3599,6 +3608,8 @@
     "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
 
     "@akasha/web-build-version": ["@akasha/web-build-version@workspace:akasha/version/web-build"],
+
+    "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:akasha/web-page-answers"],
 
     "@akasha/web-security-headers": ["@akasha/web-security-headers@workspace:akasha/web-security-headers"],
 

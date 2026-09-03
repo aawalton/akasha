@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/web-page-answers",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./answer-page-types": "./.server/answer-page-types/answer-page-types.module.code.ts",
+    "./answer-page-write": "./.server/answer-page-write/answer-page-write.module.code.ts",
+    "./answer-pages": "./.server/answer-pages/answer-pages.module.code.ts",
+    "./nav-icon-svg": "./nav-icon-svg/nav-icon-svg.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-core": "workspace:*",
+    "@akasha/supabase-rr": "workspace:*",
+    "lucide-react": "^0.576.0"
+  }
+}

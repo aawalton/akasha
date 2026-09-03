@@ -3,6 +3,8 @@ import dynamicIconImports from "lucide-react/dynamicIconImports"
 
 export const NAV_ICON_ACCENT = "oklch(0.63 0.13 73)"
 
+export const NAV_ICON_STROKE_WIDTH = 2
+
 type IconKey = keyof typeof dynamicIconImports
 
 const FALLBACK_KEY: IconKey = "file-text"
@@ -39,7 +41,8 @@ function serializeIconNode(node: IconNode): string {
 
 export async function buildNavIconSvg(
   rawIcon: string | null | undefined,
-  color: string = NAV_ICON_ACCENT
+  color: string = NAV_ICON_ACCENT,
+  strokeWidth: number = NAV_ICON_STROKE_WIDTH
 ): Promise<string> {
   const kebab = resolveIconName(rawIcon)
   const key: IconKey = isIconKey(kebab) ? kebab : FALLBACK_KEY
@@ -52,7 +55,7 @@ export async function buildNavIconSvg(
     `viewBox="0 0 24 24"`,
     `fill="none"`,
     `stroke="${escapeAttr(color)}"`,
-    `stroke-width="2"`,
+    `stroke-width="${strokeWidth}"`,
     `stroke-linecap="round"`,
     `stroke-linejoin="round"`,
   ].join(" ")
