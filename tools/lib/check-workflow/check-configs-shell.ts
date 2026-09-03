@@ -1,4 +1,4 @@
-import { IMAGES } from "../workflow-dsl/images"
+import { IMAGES } from "@akasha/workflow-language/images"
 import type { CheckConfig } from "./check-configs-types.ts"
 
 export const SHELL_CHECKS: CheckConfig[] = [

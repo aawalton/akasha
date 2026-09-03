@@ -1,5 +1,5 @@
+import type { CIContext, DiscoveredWorkflow, Step } from "@akasha/workflow-language/workflow-types"
 import { discoverWorkflows } from "../workflow-dsl/discovery.ts"
-import type { CIContext, DiscoveredWorkflow, Step } from "../workflow-dsl/types.ts"
 import { applyContext, PIPELINE_SA } from "./applies.ts"
 
 export interface EngineStep {

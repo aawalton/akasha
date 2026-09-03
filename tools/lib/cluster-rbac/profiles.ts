@@ -1,6 +1,6 @@
 import { readdirSync } from "node:fs"
 import { join } from "node:path"
-import type { NamespaceProfile } from "../workflow-dsl/rbac-types.ts"
+import type { NamespaceProfile } from "@akasha/workflow-language/rbac-types"
 
 export const RBAC_DIR = "tools/lib/rbac"
 

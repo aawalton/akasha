@@ -1,5 +1,5 @@
-import { IMAGES } from "../workflow-dsl/images"
-import { type Step } from "../workflow-dsl/types"
+import { IMAGES } from "@akasha/workflow-language/images"
+import type { Step } from "@akasha/workflow-language/workflow-types"
 
 export const BENCHMARK_RUNNER_IMAGE = "oven/bun:benchmark"
 

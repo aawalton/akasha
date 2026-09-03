@@ -1,12 +1,15 @@
+import { IMAGES } from "@akasha/workflow-language/images"
+import { SECRETS, secret } from "@akasha/workflow-language/secrets"
 import type { PopulationEntry } from "../graph/queries/membership.ts"
-import { IMAGES } from "../workflow-dsl/images"
-import { SECRETS, secret } from "../workflow-dsl/secrets"
 import { GRAPH_ARTIFACT_CHECKS } from "./check-configs-graph.ts"
 import { REPO_PATH_CHECKS } from "./check-configs-repo-paths.ts"
 import { SHELL_CHECKS } from "./check-configs-shell.ts"
-import { type CheckConfig, treeShaArgs, WORKFLOW_SURFACE_POPULATION } from "./check-configs-types.ts"
+import {
+  type CheckConfig,
+  treeShaArgs,
+  WORKFLOW_SURFACE_POPULATION,
+} from "./check-configs-types.ts"
 import { WIDGET_MIRROR_CHECKS } from "./check-configs-widget.ts"
-
 
 const TS_POPULATION: readonly PopulationEntry[] = ["ts-file", "tsx-file"]
 const YAML_POPULATION: readonly PopulationEntry[] = ["yaml-file", "yml-file"]
@@ -65,7 +68,9 @@ export const STATIC_CHECKS: CheckConfig[] = [
   {
     name: "image-tags",
     dispatchNodeTypes: [...YAML_POPULATION, "dockerfile-file", "workflow"],
-    dispatchNodes: ["ts-file:instructions:tools/lib/workflow-dsl/images.ts"],
+    dispatchNodes: [
+      "ts-file:instructions:akasha/changes/workflow-language/images/images.module.code.ts",
+    ],
     script: "infra/cluster-checks/src/checks/check-image-tags.ts",
     args: treeShaArgs,
   },
@@ -94,7 +99,7 @@ export const STATIC_CHECKS: CheckConfig[] = [
     dispatchNodes: [
       "ts-file:instructions:tools/commands/check-image-tools.ts",
       "ts-file:instructions:tools/lib/check-workflow/shell-command-binaries.ts",
-      "ts-file:instructions:tools/lib/workflow-dsl/images.ts",
+      "ts-file:instructions:akasha/changes/workflow-language/images/images.module.code.ts",
     ],
     script: "tools/commands/check-image-tools.ts",
     args: (ci) => ["--code-root", ci.workspace],

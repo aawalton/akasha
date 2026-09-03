@@ -1,8 +1,8 @@
-import { IMAGES, REGISTRY } from "../../../../../tools/lib/workflow-dsl/images"
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import { buildkitBuild } from "../../../../../tools/lib/workflow-dsl/templates/buildkit"
-import type { CIContext } from "../../../../../tools/lib/workflow-dsl/types"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { buildkitBuild } from "@akasha/workflow-language/buildkit"
+import { IMAGES, REGISTRY } from "@akasha/workflow-language/images"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
+import type { CIContext } from "@akasha/workflow-language/workflow-types"
 
 const BUN_NATIVE = IMAGES.BUN_ALPINE
 const PUBLIC_BUN = IMAGES.BUN

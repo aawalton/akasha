@@ -1,12 +1,16 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { IMAGES } from "../workflow-dsl/images.ts"
-import { SECRETS, secret } from "../workflow-dsl/secrets.ts"
-import { step } from "../workflow-dsl/step.ts"
-import { workflow } from "../workflow-dsl/workflow.ts"
-import type { BackendOptions, CIContext, Step, Workflow } from "../workflow-dsl/types.ts"
+import { IMAGES } from "@akasha/workflow-language/images"
+import { SECRETS, secret } from "@akasha/workflow-language/secrets"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
+import type {
+  BackendOptions,
+  CIContext,
+  Step,
+  Workflow,
+} from "@akasha/workflow-language/workflow-types"
 import { STATIC_CHECKS } from "./check-configs.ts"
-import { type CheckConfig } from "./check-configs-types.ts"
 import { acyclicityChecks } from "./check-configs-acyclicity.ts"
 import { addonChecks } from "./check-configs-addons.ts"
 import {
@@ -37,6 +41,7 @@ import {
 } from "./check-configs-service-typecheck.ts"
 import { SOURCE_SCANNER_CHECKS } from "./check-configs-source-scanners.ts"
 import { buildTypecheckChecks } from "./check-configs-typecheck.ts"
+import type { CheckConfig } from "./check-configs-types.ts"
 import { TYPESAFETY_CHECKS } from "./check-configs-typesafety.ts"
 import { CHECK_WORKFLOW_DISPATCH_NODE_TYPES } from "./check-workflow-watch.ts"
 import { readFunctionalType } from "./functional-type.ts"

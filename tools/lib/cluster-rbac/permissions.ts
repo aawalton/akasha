@@ -1,4 +1,4 @@
-import type { NonResourceRule, Rule } from "../workflow-dsl/rbac-types.ts"
+import type { NonResourceRule, Rule } from "@akasha/workflow-language/rbac-types"
 
 export interface RbacRequirement {
   readonly apiGroup: string
@@ -65,9 +65,7 @@ export function tupleSet(
   return held
 }
 
-export function patchRuleWhitelist(
-  rules: Iterable<Rule | NonResourceRule>
-): ReadonlySet<string> {
+export function patchRuleWhitelist(rules: Iterable<Rule | NonResourceRule>): ReadonlySet<string> {
   const names = new Set<string>()
   for (const rule of rules) {
     if (!isResourceRule(rule)) continue

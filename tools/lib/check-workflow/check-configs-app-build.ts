@@ -1,4 +1,4 @@
-import { SECRETS, secret } from "../workflow-dsl/secrets"
+import { SECRETS, secret } from "@akasha/workflow-language/secrets"
 import { BUNDLE_REUSE_DIST_ENV } from "./addons-resolve.ts"
 import type { CheckConfig } from "./check-configs-types"
 

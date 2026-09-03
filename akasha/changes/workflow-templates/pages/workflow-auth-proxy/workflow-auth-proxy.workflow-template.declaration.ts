@@ -1,10 +1,10 @@
-import { IMAGES, REGISTRY } from "../../../../../tools/lib/workflow-dsl/images"
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import { buildkitBuild } from "../../../../../tools/lib/workflow-dsl/templates/buildkit"
-import { deploySetImage } from "../../../../../tools/lib/workflow-dsl/templates/deploy"
-import { kubectlApply } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { applyRbac } from "../../../../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { buildkitBuild } from "@akasha/workflow-language/buildkit"
+import { deploySetImage } from "@akasha/workflow-language/deploy"
+import { IMAGES, REGISTRY } from "@akasha/workflow-language/images"
+import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 export default workflow("auth-proxy", {
   kind: "foundation",

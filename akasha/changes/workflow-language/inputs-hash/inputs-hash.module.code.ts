@@ -1,7 +1,11 @@
 import { createHash } from "node:crypto"
 import { join } from "node:path"
 import { z } from "zod"
-import { type CommitSha40, type InputsHash12, inputsHash12 } from "./ci-identifiers.ts"
+import {
+  type CommitSha40,
+  type InputsHash12,
+  inputsHash12,
+} from "../ci-identifiers/ci-identifiers.module.code.ts"
 
 const ARRAY_BUFFER_SCHEMA = z.instanceof(ArrayBuffer)
 

@@ -1,6 +1,6 @@
-import { IMAGES } from "../../../../../tools/lib/workflow-dsl/images"
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "@akasha/workflow-language/images"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 const RUNTIME_CLASS_MANIFEST =
   "infra/k8s/src/nvidia-device-plugin/generated/nvidia-runtime-class.generated.yaml"

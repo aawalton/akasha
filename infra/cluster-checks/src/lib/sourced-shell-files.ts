@@ -4,9 +4,9 @@ import {
   inputsHash12,
   toShortSha7,
   treeSha40,
-} from "../../../../tools/lib/workflow-dsl/ci-identifiers.ts"
-import { discoverWorkflows } from "../../../../tools/lib/workflow-dsl/discovery.ts"
+} from "@akasha/workflow-language/ci-identifiers"
 import { z } from "zod"
+import { discoverWorkflows } from "../../../../tools/lib/workflow-dsl/discovery.ts"
 
 const SOURCE_CAPTURE = z.tuple([z.string(), z.string()])
 

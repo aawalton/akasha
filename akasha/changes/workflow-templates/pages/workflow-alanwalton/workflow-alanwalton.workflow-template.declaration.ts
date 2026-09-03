@@ -1,9 +1,9 @@
-import { IMAGES } from "../../../../../tools/lib/workflow-dsl/images"
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import { kubectlApply } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { applyRbac } from "../../../../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { sopsDecryptApply } from "../../../../../tools/lib/workflow-dsl/templates/sops-decrypt"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "@akasha/workflow-language/images"
+import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 export const workflows = [
   workflow("alanwalton", {

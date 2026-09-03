@@ -1,9 +1,9 @@
+import type { Step, Workflow } from "@akasha/workflow-language/workflow-types"
 import { z } from "zod"
 import { runWorkflow } from "../bootstrap-workflow/index.ts"
 import { LocalExecutor } from "../local-executor/executor"
 import type { PipelineContext, StepConfig } from "../local-executor/types"
 import { discoverWorkflows } from "../workflow-dsl/discovery.ts"
-import type { Step, Workflow } from "../workflow-dsl/types"
 import {
   COLD_STAGE_STEP_NAMES,
   type PhaseSelection,

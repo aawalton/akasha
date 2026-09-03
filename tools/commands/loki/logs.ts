@@ -10,9 +10,9 @@ import {
   parseLokiDuration,
   parseLokiPositiveInt,
 } from "@akasha/service-system/loki-log-fetching"
+import { commitSha40, inputsHash12 } from "@akasha/workflow-language/ci-identifiers"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { commitSha40, inputsHash12 } from "../../lib/workflow-dsl/ci-identifiers.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {

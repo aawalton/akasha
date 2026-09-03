@@ -1,11 +1,11 @@
-import { IMAGES, REGISTRY } from "../../../../../tools/lib/workflow-dsl/images"
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import { buildkitBuild } from "../../../../../tools/lib/workflow-dsl/templates/buildkit"
-import { kubectlApply } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { applyRbac } from "../../../../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { sopsDecryptApply } from "../../../../../tools/lib/workflow-dsl/templates/sops-decrypt"
-import type { CIContext, Step } from "../../../../../tools/lib/workflow-dsl/types"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { buildkitBuild } from "@akasha/workflow-language/buildkit"
+import { IMAGES, REGISTRY } from "@akasha/workflow-language/images"
+import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
+import type { CIContext, Step } from "@akasha/workflow-language/workflow-types"
 
 const IMAGE_TAG_CNPG = `${REGISTRY}/cluster/postgres-cnpg:18-ts2.24-pgcron-pgnet-wal2json-pgjsonschema-r1`
 

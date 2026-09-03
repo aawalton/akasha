@@ -1,6 +1,6 @@
-import { kubectlApply } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
-import { deploySourceSync } from "../../../../../tools/lib/workflow-dsl/templates/source-sync.ts"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow.ts"
+import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { deploySourceSync } from "@akasha/workflow-language/source-sync"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 export default workflow("git-transport", {
   kind: "foundation",

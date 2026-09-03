@@ -1,9 +1,13 @@
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { canonicalize } from "@akasha/pages-system/repo-path"
+import type {
+  DiscoveredWorkflow,
+  Workflow,
+  WorkflowKind,
+} from "@akasha/workflow-language/workflow-types"
 import { attachmentPathFor } from "../../../page/attachment-file.ts"
 import { answer } from "../page-query.ts"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { canonicalize } from "@akasha/pages-system/repo-path"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import type { DiscoveredWorkflow, Workflow, WorkflowKind } from "./types.ts"
 
 export const WORKFLOW_TEMPLATE_PAGE_TYPE = "workflow-template"
 export const DECLARATION_KEY = "declaration"
@@ -118,11 +122,7 @@ function attachDiscovery(workflow: Workflow, page: WorkflowPage): DiscoveredWork
   }
 }
 
-function statedBy(
-  held: unknown,
-  page: WorkflowPage,
-  context: DeclarationContext
-): unknown {
+function statedBy(held: unknown, page: WorkflowPage, context: DeclarationContext): unknown {
   if (typeof held !== "function") return held
   try {
     return (held as (context: DeclarationContext) => unknown)(context)

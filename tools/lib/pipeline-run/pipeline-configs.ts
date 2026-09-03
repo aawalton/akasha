@@ -1,23 +1,27 @@
 import { createHash } from "node:crypto"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import type { PopulationEntry } from "../graph/queries/membership.ts"
-import { type SeedFile, type SeedSource, seedFilesFor } from "../graph/queries/seed-files.ts"
-import { buildSnapshot } from "../graph/snapshot.ts"
-import type { Graph, NodeId } from "../graph/types.ts"
 import {
   commitSha40,
   type InputsHash12,
   inputsHash12,
   toShortSha7,
-} from "../workflow-dsl/ci-identifiers.ts"
-import { discoverWorkflows } from "../workflow-dsl/discovery.ts"
+} from "@akasha/workflow-language/ci-identifiers"
 import {
   computeInputsHash,
   computeInputsHashAtCommit,
   makeDegradedInputsGraphError,
-} from "../workflow-dsl/inputs-hash.ts"
-import type { CIContext, DiscoveredWorkflow, WorkflowKind } from "../workflow-dsl/types.ts"
+} from "@akasha/workflow-language/inputs-hash"
+import type {
+  CIContext,
+  DiscoveredWorkflow,
+  WorkflowKind,
+} from "@akasha/workflow-language/workflow-types"
+import type { PopulationEntry } from "../graph/queries/membership.ts"
+import { type SeedFile, type SeedSource, seedFilesFor } from "../graph/queries/seed-files.ts"
+import { buildSnapshot } from "../graph/snapshot.ts"
+import type { Graph, NodeId } from "../graph/types.ts"
+import { discoverWorkflows } from "../workflow-dsl/discovery.ts"
 import { intersectWithTreePaths, listCommitTreePaths } from "./pipeline-configs-graph-file-set.ts"
 import type { LoadConfigsTimings } from "./pipeline-configs-types.ts"
 import { getCommitTreeSha } from "./tree-sha.ts"
@@ -45,7 +49,6 @@ export interface WorkflowConfig {
   readonly inputsHash: InputsHash12
   readonly steps: readonly WorkflowStepConfig[]
 }
-
 
 const ANY_BRANCH = "*"
 
@@ -166,9 +169,7 @@ export async function loadAllWorkflowConfigs(
     discovered.map(async (pipeline): Promise<WorkflowConfig> => {
       const named = seedFiles.get(pipeline.name) ?? []
       const codeNamed = named.filter((one) => one.repo === CODE_REPO).map((one) => one.path)
-      const instructionsNamed = named
-        .filter((one) => one.repo !== CODE_REPO)
-        .map((one) => one.path)
+      const instructionsNamed = named.filter((one) => one.repo !== CODE_REPO).map((one) => one.path)
       const fromCode = intersectWithTreePaths(codeNamed, treePathsSet)
       const fromInstructions = instructionsNamed
         .filter((path) => standsIn(args.akashaRoot, path))

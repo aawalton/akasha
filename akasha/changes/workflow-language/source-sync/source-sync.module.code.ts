@@ -1,6 +1,6 @@
-import { IMAGES } from "../images.ts"
-import type { CIContext, Step } from "../types.ts"
-import { selectLivePodCommands } from "./pod-selection.ts"
+import { IMAGES } from "../images/images.module.code.ts"
+import { selectLivePodCommands } from "../pod-selection/pod-selection.module.code.ts"
+import type { CIContext, Step } from "../workflow-types/workflow-types.module.code.ts"
 
 interface DeploySourceSyncConfig {
   name: string

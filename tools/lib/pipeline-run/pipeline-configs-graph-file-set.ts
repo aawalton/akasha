@@ -1,4 +1,4 @@
-import type { CommitSha40 } from "../workflow-dsl/ci-identifiers.ts"
+import type { CommitSha40 } from "@akasha/workflow-language/ci-identifiers"
 import { awaitSpawnWithTimeout } from "./await-spawn-with-timeout.ts"
 
 export const LS_TREE_CEILING_MS = 60_000

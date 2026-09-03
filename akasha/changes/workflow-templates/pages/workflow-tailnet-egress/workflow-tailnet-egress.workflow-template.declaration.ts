@@ -1,6 +1,6 @@
-import { kubectlApply } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
-import { applyRbac } from "../../../../../tools/lib/workflow-dsl/templates/rbac-apply.ts"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow.ts"
+import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 export default workflow("tailnet-egress", {
   kind: "foundation",

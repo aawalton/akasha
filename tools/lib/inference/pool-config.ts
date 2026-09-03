@@ -1,4 +1,4 @@
-import { hashFiles } from "../workflow-dsl/inputs-hash.ts"
+import { hashFiles } from "@akasha/workflow-language/inputs-hash"
 import { launchdLabel, serviceDir } from "./naming"
 import type { InferenceHost, InferenceService } from "./schema"
 import type { PoolConfig } from "./traffic-cop-config.ts"

@@ -1,5 +1,5 @@
-import { IMAGES } from "../images.ts"
-import type { Step } from "../types.ts"
+import { IMAGES } from "../images/images.module.code.ts"
+import type { Step } from "../workflow-types/workflow-types.module.code.ts"
 
 interface ApplyRbacConfig {
   name: string

@@ -1,4 +1,4 @@
-import { treeSha40, type TreeSha40 } from "../workflow-dsl/ci-identifiers.ts"
+import { type TreeSha40, treeSha40 } from "@akasha/workflow-language/ci-identifiers"
 import { awaitSpawnWithTimeout } from "./await-spawn-with-timeout.ts"
 
 export const TREE_SHA_CEILING_MS = 30_000

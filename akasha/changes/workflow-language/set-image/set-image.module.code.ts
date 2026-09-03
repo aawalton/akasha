@@ -1,4 +1,4 @@
-import type { CIContext } from "../types.ts"
+import type { CIContext } from "../workflow-types/workflow-types.module.code.ts"
 
 export interface SetImageCommandsConfig {
   namespace: string

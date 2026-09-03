@@ -1,4 +1,4 @@
-import type { NonResourceRule, Rule } from "../workflow-dsl/rbac-types.ts"
+import type { NonResourceRule, Rule } from "@akasha/workflow-language/rbac-types"
 import { LABELS } from "./rules.ts"
 
 function inlineArray(values: readonly string[]): string {

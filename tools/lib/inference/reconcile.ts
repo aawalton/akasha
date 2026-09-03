@@ -1,7 +1,7 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join, relative } from "node:path"
-import { computeInputsHash } from "../workflow-dsl/inputs-hash.ts"
 import { OperationalError } from "@akasha/errors-core/exit-code"
+import { computeInputsHash } from "@akasha/workflow-language/inputs-hash"
 import { buildApplyScript, buildPruneScript, buildQueryScript } from "./build-script"
 import { buildGuiSessionProbeScript, decideGuiSession } from "./gui-session"
 import { getHost } from "./hosts"

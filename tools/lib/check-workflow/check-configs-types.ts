@@ -1,6 +1,6 @@
-import type { NodeId } from "../graph/types.ts"
+import type { BackendOptions, CIContext, SecretRef } from "@akasha/workflow-language/workflow-types"
 import type { PopulationEntry, ScopedPopulation } from "../graph/queries/membership.ts"
-import type { BackendOptions, CIContext, SecretRef } from "../workflow-dsl/types.ts"
+import type { NodeId } from "../graph/types.ts"
 export const treeShaArgs = (ci: CIContext): readonly string[] => ["--tree-sha", ci.treeSha]
 
 export const WORKFLOW_SURFACE_POPULATION: ScopedPopulation = {
@@ -15,7 +15,10 @@ export const WORKFLOW_DSL_POPULATION: ScopedPopulation = {
 
 export const TS_POPULATION: readonly PopulationEntry[] = ["ts-file", "tsx-file"]
 
-export const TS_GRAPH_INPUT_POPULATION: readonly PopulationEntry[] = [...TS_POPULATION, "tsconfig-file"]
+export const TS_GRAPH_INPUT_POPULATION: readonly PopulationEntry[] = [
+  ...TS_POPULATION,
+  "tsconfig-file",
+]
 
 interface CheckConfigCommon {
   name: string

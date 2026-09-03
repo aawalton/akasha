@@ -1,7 +1,7 @@
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import { checksumHashCommands } from "../../../../../tools/lib/workflow-dsl/templates/checksum-hash"
-import { verifyRolloutCommands } from "../../../../../tools/lib/workflow-dsl/templates/verify-rollout"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { checksumHashCommands } from "@akasha/workflow-language/checksum-hash"
+import { step } from "@akasha/workflow-language/step"
+import { verifyRolloutCommands } from "@akasha/workflow-language/verify-rollout"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 const PUBLIC_KUBECTL =
   "bitnami/kubectl@sha256:6e2cdb22d6ab7264ea198c717f555e30536b54029d26c8781b9f25f78951b564"

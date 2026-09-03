@@ -1,4 +1,4 @@
-import type { NonResourceRule, Rule } from "../workflow-dsl/rbac-types.ts"
+import type { NonResourceRule, Rule } from "@akasha/workflow-language/rbac-types"
 
 export const LABELS = {
   "app.kubernetes.io/name": "pipeline-engine",

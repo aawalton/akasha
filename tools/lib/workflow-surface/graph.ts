@@ -1,4 +1,4 @@
-import type { WorkflowKind } from "../workflow-dsl/types.ts"
+import type { WorkflowKind } from "@akasha/workflow-language/workflow-types"
 import type { SurfaceWorkflow } from "./surface.ts"
 
 export interface WorkflowGraphViolation {

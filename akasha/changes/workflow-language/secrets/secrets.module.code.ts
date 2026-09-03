@@ -1,4 +1,4 @@
-import type { SecretRef } from "./types.ts"
+import type { SecretRef } from "../workflow-types/workflow-types.module.code.ts"
 
 export const SECRETS = {
   AGE_SECRET_KEY: "AGE_SECRET_KEY",

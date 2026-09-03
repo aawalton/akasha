@@ -1,6 +1,18 @@
-import type { PopulationEntry } from "../graph/queries/membership.ts"
-import type { NodeId } from "../graph/types.ts"
-import type { CommitSha40, InputsHash12, ShortSha7, TreeSha40 } from "./ci-identifiers.ts"
+import type {
+  CommitSha40,
+  InputsHash12,
+  ShortSha7,
+  TreeSha40,
+} from "../ci-identifiers/ci-identifiers.module.code.ts"
+
+export type NodeId = string
+
+export type ScopedPopulation = {
+  readonly kind: string
+  readonly under: string
+}
+
+export type PopulationEntry = string | ScopedPopulation
 
 export type WorkflowKind = "preparation" | "foundation" | "checks" | "apps" | "cleanup"
 

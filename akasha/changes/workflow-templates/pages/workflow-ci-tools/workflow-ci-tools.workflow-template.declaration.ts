@@ -1,7 +1,7 @@
-import { IMAGES } from "../../../../../tools/lib/workflow-dsl/images"
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import { kubectlApply } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "@akasha/workflow-language/images"
+import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 export default workflow("ci-tools", {
   kind: "foundation",

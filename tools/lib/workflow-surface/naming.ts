@@ -1,5 +1,5 @@
+import type { WorkflowKind } from "@akasha/workflow-language/workflow-types"
 import { buildPodName, POD_NAME_MAX_LEN } from "../pipeline-run/pod-name.ts"
-import type { WorkflowKind } from "../workflow-dsl/types.ts"
 import type { SurfaceStep, SurfaceWorkflow } from "./surface.ts"
 
 export const NAME_SHAPE = /^[a-z][a-z0-9-]*$/

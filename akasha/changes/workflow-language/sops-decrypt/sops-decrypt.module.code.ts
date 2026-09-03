@@ -1,6 +1,6 @@
-import { IMAGES } from "../images.ts"
-import { SECRETS, secret } from "../secrets.ts"
-import type { CIContext, Step } from "../types.ts"
+import { IMAGES } from "../images/images.module.code.ts"
+import { SECRETS, secret } from "../secrets/secrets.module.code.ts"
+import type { CIContext, Step } from "../workflow-types/workflow-types.module.code.ts"
 
 interface SopsDecryptApplyConfig {
   name: string

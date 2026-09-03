@@ -1,11 +1,11 @@
-import { z } from "zod"
 import {
   commitSha40,
   inputsHash12,
   shortSha7,
   treeSha40,
-} from "../workflow-dsl/ci-identifiers.ts"
-import type { CIContext, WorkflowKind } from "../workflow-dsl/types.ts"
+} from "@akasha/workflow-language/ci-identifiers"
+import type { CIContext, WorkflowKind } from "@akasha/workflow-language/workflow-types"
+import { z } from "zod"
 
 const EVERY_KIND: Readonly<Record<WorkflowKind, true>> = {
   preparation: true,
@@ -106,10 +106,7 @@ export type WorkflowSurface = z.infer<typeof WorkflowSurfaceSchema>
 export const surfaceFilePaths = (surface: WorkflowSurface): readonly string[] =>
   surface.files.map((file) => file.sourcePath)
 
-export const commandsFor = (
-  step: SurfaceStep,
-  contextId: ProbeContextId
-): readonly string[] => {
+export const commandsFor = (step: SurfaceStep, contextId: ProbeContextId): readonly string[] => {
   const index = PROBE_CONTEXT_IDS.indexOf(contextId)
   const entry = step.resolved[index]
   if (entry === undefined) {

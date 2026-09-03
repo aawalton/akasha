@@ -438,6 +438,12 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/changes/workflow-language": {
+      "name": "@akasha/workflow-language",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/checks": {
       "name": "@akasha/checks",
       "dependencies": {
@@ -3680,6 +3686,8 @@
     "@akasha/web-security-headers": ["@akasha/web-security-headers@workspace:akasha/web-security-headers"],
 
     "@akasha/web-static-assets": ["@akasha/web-static-assets@workspace:akasha/web-static-assets"],
+
+    "@akasha/workflow-language": ["@akasha/workflow-language@workspace:akasha/changes/workflow-language"],
 
     "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:akasha/workspace-paths"],
 

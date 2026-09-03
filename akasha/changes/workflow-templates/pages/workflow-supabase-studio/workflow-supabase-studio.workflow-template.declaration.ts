@@ -1,9 +1,9 @@
-import { IMAGES } from "../../../../../tools/lib/workflow-dsl/images.ts"
-import { step } from "../../../../../tools/lib/workflow-dsl/step.ts"
-import { kubectlApply } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
-import { applyRbac } from "../../../../../tools/lib/workflow-dsl/templates/rbac-apply.ts"
-import { verifyRolloutCommands } from "../../../../../tools/lib/workflow-dsl/templates/verify-rollout.ts"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow.ts"
+import { IMAGES } from "@akasha/workflow-language/images"
+import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+import { step } from "@akasha/workflow-language/step"
+import { verifyRolloutCommands } from "@akasha/workflow-language/verify-rollout"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 const SKIP_CHECK = [
   "CURRENT_HASH=$(kubectl get configmap supabase-studio-pipeline-state -n supabase-studio -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || echo \"\")",

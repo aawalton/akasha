@@ -1,9 +1,9 @@
+import type { DiscoveredWorkflow, Step } from "@akasha/workflow-language/workflow-types"
 import {
   type DeclarationContext,
   discoverWorkflows,
   workflowPages,
 } from "../workflow-dsl/discovery.ts"
-import type { DiscoveredWorkflow, Step } from "../workflow-dsl/types.ts"
 import {
   PROBE_CONTEXT_IDS,
   PROBE_CONTEXTS,

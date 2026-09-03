@@ -1,10 +1,10 @@
-import { IMAGES } from "../../../../../tools/lib/workflow-dsl/images"
-import { SECRETS, secret } from "../../../../../tools/lib/workflow-dsl/secrets"
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import { kubectlApply } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { applyRbac } from "../../../../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { verifyRolloutCommands } from "../../../../../tools/lib/workflow-dsl/templates/verify-rollout"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "@akasha/workflow-language/images"
+import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+import { SECRETS, secret } from "@akasha/workflow-language/secrets"
+import { step } from "@akasha/workflow-language/step"
+import { verifyRolloutCommands } from "@akasha/workflow-language/verify-rollout"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 const SKIP_CHECK = [
   "CURRENT_HASH=$(kubectl get configmap prometheus-pipeline-state -n prometheus -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || echo \"\")",

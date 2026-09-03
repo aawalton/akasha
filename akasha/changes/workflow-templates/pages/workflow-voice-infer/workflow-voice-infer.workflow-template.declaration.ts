@@ -1,10 +1,10 @@
-import { IMAGES } from "../../../../../tools/lib/workflow-dsl/images"
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import { checksumHashCommands } from "../../../../../tools/lib/workflow-dsl/templates/checksum-hash"
-import { kubectlApply } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { applyRbac } from "../../../../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { verifyRolloutCommands } from "../../../../../tools/lib/workflow-dsl/templates/verify-rollout"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { checksumHashCommands } from "@akasha/workflow-language/checksum-hash"
+import { IMAGES } from "@akasha/workflow-language/images"
+import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+import { step } from "@akasha/workflow-language/step"
+import { verifyRolloutCommands } from "@akasha/workflow-language/verify-rollout"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 const MIRROR_S3_CREDS_CMD =
   "kubectl get secret seaweedfs-creds -n seaweedfs -o json | " +

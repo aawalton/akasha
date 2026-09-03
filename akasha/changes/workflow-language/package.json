@@ -1,0 +1,30 @@
+{
+  "name": "@akasha/workflow-language",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./buildkit": "./buildkit/buildkit.module.code.ts",
+    "./checksum-hash": "./checksum-hash/checksum-hash.module.code.ts",
+    "./ci-identifiers": "./ci-identifiers/ci-identifiers.module.code.ts",
+    "./deploy": "./deploy/deploy.module.code.ts",
+    "./images": "./images/images.module.code.ts",
+    "./inputs-hash": "./inputs-hash/inputs-hash.module.code.ts",
+    "./kubectl-apply": "./kubectl-apply/kubectl-apply.module.code.ts",
+    "./pod-selection": "./pod-selection/pod-selection.module.code.ts",
+    "./rbac-apply": "./rbac-apply/rbac-apply.module.code.ts",
+    "./rbac-types": "./rbac-types/rbac-types.module.code.ts",
+    "./retry-transient-ddl": "./retry-transient-ddl/retry-transient-ddl.module.code.ts",
+    "./rollback-image": "./rollback-image/rollback-image.module.code.ts",
+    "./secrets": "./secrets/secrets.module.code.ts",
+    "./set-image": "./set-image/set-image.module.code.ts",
+    "./sops-decrypt": "./sops-decrypt/sops-decrypt.module.code.ts",
+    "./source-sync": "./source-sync/source-sync.module.code.ts",
+    "./step": "./step/step.module.code.ts",
+    "./verify-rollout": "./verify-rollout/verify-rollout.module.code.ts",
+    "./workflow": "./workflow/workflow.module.code.ts",
+    "./workflow-types": "./workflow-types/workflow-types.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}

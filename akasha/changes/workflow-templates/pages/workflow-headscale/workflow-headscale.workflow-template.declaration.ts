@@ -1,10 +1,10 @@
-import { IMAGES } from "../../../../../tools/lib/workflow-dsl/images.ts"
-import { step } from "../../../../../tools/lib/workflow-dsl/step.ts"
-import { checksumHashCommands } from "../../../../../tools/lib/workflow-dsl/templates/checksum-hash.ts"
-import { kubectlApply } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
-import { applyRbac } from "../../../../../tools/lib/workflow-dsl/templates/rbac-apply.ts"
-import { sopsDecryptApply } from "../../../../../tools/lib/workflow-dsl/templates/sops-decrypt.ts"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow.ts"
+import { checksumHashCommands } from "@akasha/workflow-language/checksum-hash"
+import { IMAGES } from "@akasha/workflow-language/images"
+import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 const MIRROR_S3_CREDS_CMD =
   "kubectl get secret seaweedfs-creds -n seaweedfs -o json | " +

@@ -1,4 +1,4 @@
-import type { Workflow } from "./types.ts"
+import type { Workflow } from "../workflow-types/workflow-types.module.code.ts"
 
 const DEFAULT_WHEN = { event: "push" } as const
 

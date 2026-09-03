@@ -1,10 +1,10 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
+import type { DiscoveredWorkflow, Step } from "@akasha/workflow-language/workflow-types"
 import {
   discoverWorkflows,
   workflowPages,
 } from "../../../../../tools/lib/workflow-dsl/discovery.ts"
-import type { DiscoveredWorkflow, Step } from "../../../../../tools/lib/workflow-dsl/types.ts"
-import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import {
   PROBE_CONTEXT_IDS,
   PROBE_CONTEXTS,

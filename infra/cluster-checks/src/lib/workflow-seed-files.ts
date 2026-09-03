@@ -2,17 +2,17 @@ import {
   isScopedPopulation,
   type NodeType,
   type ScopedNodeTypePopulation,
-} from "../../../../tools/lib/workflow-dsl/types.ts"
+} from "@akasha/workflow-language/workflow-types"
+import { z } from "zod"
+import { K8S_RESOURCE_NODE_TYPE } from "../../../../tools/lib/graph/producers/k8s/types"
+import { PACKAGE_NODE_TYPE } from "../../../../tools/lib/graph/producers/package/types"
+import { WORKFLOW_NODE_TYPE } from "../../../../tools/lib/graph/producers/pipeline/types"
 import {
   closureFromSeeds,
   importGraphClosureFromSeeds,
 } from "../../../../tools/lib/graph/queries/closure.ts"
 import type { Graph, Node } from "../../../../tools/lib/graph/types.ts"
 import { graphNodeId } from "./graph-node-id.ts"
-import { z } from "zod"
-import { K8S_RESOURCE_NODE_TYPE } from "../../../../tools/lib/graph/producers/k8s/types"
-import { PACKAGE_NODE_TYPE } from "../../../../tools/lib/graph/producers/package/types"
-import { WORKFLOW_NODE_TYPE } from "../../../../tools/lib/graph/producers/pipeline/types"
 
 const PathAttrsSchema = z.object({ path: z.string() }).passthrough()
 const WorkflowSourcePathAttrsSchema = z.object({ sourcePath: z.string() }).passthrough()

@@ -1,8 +1,8 @@
-import { IMAGES } from "../images.ts"
-import type { CIContext, Step } from "../types.ts"
-import { rollbackImageCommands } from "./rollback-image.ts"
-import { setImageCommands } from "./set-image.ts"
-import { verifyRolloutCommands } from "./verify-rollout.ts"
+import { IMAGES } from "../images/images.module.code.ts"
+import { rollbackImageCommands } from "../rollback-image/rollback-image.module.code.ts"
+import { setImageCommands } from "../set-image/set-image.module.code.ts"
+import { verifyRolloutCommands } from "../verify-rollout/verify-rollout.module.code.ts"
+import type { CIContext, Step } from "../workflow-types/workflow-types.module.code.ts"
 
 interface DeploySetImageConfig {
   name: string

@@ -1,7 +1,7 @@
-import { REGISTRY } from "../../../../../tools/lib/workflow-dsl/images"
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import { buildkitBuild } from "../../../../../tools/lib/workflow-dsl/templates/buildkit"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { buildkitBuild } from "@akasha/workflow-language/buildkit"
+import { REGISTRY } from "@akasha/workflow-language/images"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 const PUBLIC_BUN = "debian:bookworm-slim"
 

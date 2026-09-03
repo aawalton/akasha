@@ -1,15 +1,19 @@
 export const summary =
   "Rule that every kubectl command a pipeline-engine step runs is covered by a permission the engine holds"
 
-import type { CommandHelp } from "../ops/surface.ts"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
+import type { Rule } from "@akasha/workflow-language/rbac-types"
 import { examinePopulation } from "../lib/check-workflow/population.ts"
 import {
   exitOnResult,
   exitOnToolError,
   type Violation,
 } from "../lib/check-workflow/violation-reporter.ts"
-import { type EngineStep, type EngineSurface, engineSurface } from "../lib/cluster-rbac/engine-steps.ts"
+import {
+  type EngineStep,
+  type EngineSurface,
+  engineSurface,
+} from "../lib/cluster-rbac/engine-steps.ts"
 import { parseKubectlCommands } from "../lib/cluster-rbac/kubectl.ts"
 import {
   buildPermissions,
@@ -20,8 +24,8 @@ import {
 import { allProfiles } from "../lib/cluster-rbac/profiles.ts"
 import { clusterRoleRules } from "../lib/cluster-rbac/rules.ts"
 import { parseArgs } from "../lib/parse-args.ts"
-import type { Rule } from "../lib/workflow-dsl/rbac-types.ts"
 import { SURFACE_ROOT_FLAGS, surfaceRoots } from "../lib/workflow-surface/roots.ts"
+import type { CommandHelp } from "../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: SURFACE_ROOT_FLAGS,
@@ -30,10 +34,7 @@ export const help: CommandHelp = {
     { code: 1, meaning: "a command is uncovered, or names a kind the parser cannot model" },
     { code: 2, meaning: "the workflows did not load, or none ran under the engine account" },
   ],
-  examples: [
-    "ops check-rbac-pipelines",
-    "ops check-rbac-pipelines --code-root ~/repos/akasha",
-  ],
+  examples: ["ops check-rbac-pipelines", "ops check-rbac-pipelines --code-root ~/repos/akasha"],
 }
 
 const PREFIX = "[rbac-pipelines]"

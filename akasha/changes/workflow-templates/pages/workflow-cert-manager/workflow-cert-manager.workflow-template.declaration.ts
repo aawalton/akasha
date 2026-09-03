@@ -1,8 +1,8 @@
-import { IMAGES } from "../../../../../tools/lib/workflow-dsl/images"
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import { applyRbac } from "../../../../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { sopsDecryptApply } from "../../../../../tools/lib/workflow-dsl/templates/sops-decrypt"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "@akasha/workflow-language/images"
+import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 const SKIP_CHECK = [
   "CURRENT_HASH=$(kubectl get configmap cert-manager-pipeline-state -n cert-manager -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || echo \"\")",

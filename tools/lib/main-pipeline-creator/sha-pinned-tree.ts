@@ -9,7 +9,7 @@ import {
 } from "node:fs"
 import { readdir, rm } from "node:fs/promises"
 import { dirname, join, resolve } from "node:path"
-import type { CommitSha40 } from "../workflow-dsl/ci-identifiers.ts"
+import type { CommitSha40 } from "@akasha/workflow-language/ci-identifiers"
 
 const ARCHIVE_CEILING_MS = 30_000
 
@@ -38,11 +38,7 @@ function randomSuffix(): string {
   return Math.random().toString(36).slice(2, 10)
 }
 
-async function waitFor(
-  proc: Bun.Subprocess,
-  label: string,
-  ceilingMs: number
-): Promise<number> {
+async function waitFor(proc: Bun.Subprocess, label: string, ceilingMs: number): Promise<number> {
   let timer: ReturnType<typeof setTimeout> | undefined
   const ceiling = new Promise<never>((_resolve, reject) => {
     timer = setTimeout(() => {

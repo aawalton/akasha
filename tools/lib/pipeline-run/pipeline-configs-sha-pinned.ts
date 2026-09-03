@@ -1,9 +1,9 @@
+import type { CommitSha40 } from "@akasha/workflow-language/ci-identifiers"
 import { askGraph } from "../graph/ask.ts"
 import type { Graph } from "../graph/types.ts"
-import type { CommitSha40 } from "../workflow-dsl/ci-identifiers.ts"
+import { withShaPinnedTree } from "../main-pipeline-creator/sha-pinned-tree.ts"
 import { loadAllWorkflowConfigs, type WorkflowConfig } from "./pipeline-configs.ts"
 import type { LoadConfigsTimings } from "./pipeline-configs-types.ts"
-import { withShaPinnedTree } from "../main-pipeline-creator/sha-pinned-tree.ts"
 
 const SHORT_SHA_LEN = 7
 

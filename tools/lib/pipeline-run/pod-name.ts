@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto"
-import { commitSha40, toShortSha7 } from "../workflow-dsl/ci-identifiers.ts"
+import { commitSha40, toShortSha7 } from "@akasha/workflow-language/ci-identifiers"
 
 export const POD_NAME_MAX_LEN = 63
 

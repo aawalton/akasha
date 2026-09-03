@@ -1,5 +1,5 @@
-import { kubectlApply } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 export const workflows = [
   workflow("alanwalton-atlas-foundation", {

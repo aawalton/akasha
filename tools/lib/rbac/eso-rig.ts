@@ -1,4 +1,4 @@
-import type { NamespaceProfile } from "../workflow-dsl/rbac-types.ts"
+import type { NamespaceProfile } from "@akasha/workflow-language/rbac-types"
 
 export const packageName = "@infra/eso-rig"
 

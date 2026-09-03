@@ -1,11 +1,11 @@
-import { z } from "zod"
 import {
   commitSha40,
   inputsHash12,
   shortSha7,
   treeSha40,
-} from "../../../../../tools/lib/workflow-dsl/ci-identifiers.ts"
-import type { CIContext, Workflow } from "../../../../../tools/lib/workflow-dsl/types.ts"
+} from "@akasha/workflow-language/ci-identifiers"
+import type { CIContext, Workflow } from "@akasha/workflow-language/workflow-types"
+import { z } from "zod"
 
 const WorkflowKindSchema = z.enum(["preparation", "foundation", "checks", "apps", "cleanup"])
 

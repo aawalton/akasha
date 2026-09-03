@@ -1,7 +1,7 @@
-import { IMAGES } from "../../../../../tools/lib/workflow-dsl/images"
-import { step } from "../../../../../tools/lib/workflow-dsl/step"
-import type { Step } from "../../../../../tools/lib/workflow-dsl/types"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "@akasha/workflow-language/images"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
+import type { Step } from "@akasha/workflow-language/workflow-types"
 import { routedCheckCommand } from "../../tools/lib/check-workflow/run-check-routing.ts"
 
 const CI_TOOLCHAIN_URLS = {

@@ -1,5 +1,5 @@
-import { IMAGES } from "../images.ts"
-import type { CIContext, Step } from "../types.ts"
+import { IMAGES } from "../images/images.module.code.ts"
+import type { CIContext, Step } from "../workflow-types/workflow-types.module.code.ts"
 
 export function wrapBuildctlWithRetry(buildctlCmd: string): string {
   return `# buildctl with transient-gRPC retry (6 attempts, ~170s budget — project #9769)

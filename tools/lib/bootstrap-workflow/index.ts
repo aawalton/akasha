@@ -1,16 +1,16 @@
-import type { LocalExecutor } from "../local-executor/executor.ts"
-import type { PipelineContext } from "../local-executor/types.ts"
-import { requireGet } from "../narrow.ts"
-import { getCommitTreeSha } from "../pipeline-run/tree-sha.ts"
 import {
   commitSha40,
   type InputsHash12,
   inputsHash12,
   toShortSha7,
   treeSha40,
-} from "../workflow-dsl/ci-identifiers.ts"
-import { computeInputsHash } from "../workflow-dsl/inputs-hash.ts"
-import type { CIContext, Workflow } from "../workflow-dsl/types.ts"
+} from "@akasha/workflow-language/ci-identifiers"
+import { computeInputsHash } from "@akasha/workflow-language/inputs-hash"
+import type { CIContext, Workflow } from "@akasha/workflow-language/workflow-types"
+import type { LocalExecutor } from "../local-executor/executor.ts"
+import type { PipelineContext } from "../local-executor/types.ts"
+import { requireGet } from "../narrow.ts"
+import { getCommitTreeSha } from "../pipeline-run/tree-sha.ts"
 import { dslStepToConfig, dslStepToNode, type StepStatus } from "./dsl.ts"
 import {
   evaluateWhenCondition,

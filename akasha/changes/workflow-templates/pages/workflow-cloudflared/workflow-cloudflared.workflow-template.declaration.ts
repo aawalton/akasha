@@ -1,11 +1,11 @@
-import { IMAGES } from "../../../../../tools/lib/workflow-dsl/images.ts"
-import { SECRETS, secret } from "../../../../../tools/lib/workflow-dsl/secrets.ts"
-import { step } from "../../../../../tools/lib/workflow-dsl/step.ts"
-import { checksumHashCommands } from "../../../../../tools/lib/workflow-dsl/templates/checksum-hash.ts"
-import { kubectlApplyClusterScoped } from "../../../../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
-import { applyRbac } from "../../../../../tools/lib/workflow-dsl/templates/rbac-apply.ts"
-import { sopsDecryptApply } from "../../../../../tools/lib/workflow-dsl/templates/sops-decrypt.ts"
-import { workflow } from "../../../../../tools/lib/workflow-dsl/workflow.ts"
+import { checksumHashCommands } from "@akasha/workflow-language/checksum-hash"
+import { IMAGES } from "@akasha/workflow-language/images"
+import { kubectlApplyClusterScoped } from "@akasha/workflow-language/kubectl-apply"
+import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+import { SECRETS, secret } from "@akasha/workflow-language/secrets"
+import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { step } from "@akasha/workflow-language/step"
+import { workflow } from "@akasha/workflow-language/workflow"
 
 export default workflow("cloudflared", {
   kind: "foundation",

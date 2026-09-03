@@ -1,6 +1,7 @@
-export const summary = "Rule that every binary a composed CI step runs is one its target image carries"
+export const summary =
+  "Rule that every binary a composed CI step runs is one its target image carries"
 
-import type { CommandHelp } from "../ops/surface.ts"
+import { IMAGE_TOOLS, IMAGES } from "@akasha/workflow-language/images"
 import { examinePopulation } from "../lib/check-workflow/population.ts"
 import { commandBinaries } from "../lib/check-workflow/shell-command-binaries.ts"
 import {
@@ -8,11 +9,16 @@ import {
   exitOnToolError,
   type Violation,
 } from "../lib/check-workflow/violation-reporter.ts"
-import { IMAGE_TOOLS, IMAGES } from "../lib/workflow-dsl/images"
-import { buildWorkflowSurface } from "../lib/workflow-surface/build"
-import { commandsFor, type ProbeContextId, type SurfaceStep, type SurfaceWorkflow } from "../lib/workflow-surface/surface"
-import { readUnder, SURFACE_ROOT_FLAGS, surfaceRoots } from "../lib/workflow-surface/roots.ts"
 import { parseArgs } from "../lib/parse-args.ts"
+import { buildWorkflowSurface } from "../lib/workflow-surface/build"
+import { readUnder, SURFACE_ROOT_FLAGS, surfaceRoots } from "../lib/workflow-surface/roots.ts"
+import {
+  commandsFor,
+  type ProbeContextId,
+  type SurfaceStep,
+  type SurfaceWorkflow,
+} from "../lib/workflow-surface/surface"
+import type { CommandHelp } from "../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [...SURFACE_ROOT_FLAGS],

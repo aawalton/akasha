@@ -1,6 +1,6 @@
+import type { CIContext } from "@akasha/workflow-language/workflow-types"
 import { z } from "zod"
 import { PROBE_CONTEXTS } from "../workflow-surface/surface.ts"
-import type { CIContext } from "../workflow-dsl/types.ts"
 
 export const PIPELINE_SA = "pipeline-engine"
 
