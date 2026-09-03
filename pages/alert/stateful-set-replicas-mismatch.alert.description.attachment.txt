@@ -1,1 +1,0 @@
-{{ $labels.statefulset }} has {{ $value }} ready replicas but a different desired count — a pod is not becoming Ready.
