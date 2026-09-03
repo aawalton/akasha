@@ -1,8 +1,7 @@
-
 import { appendFile, mkdir } from "node:fs/promises"
 import { seatNameForSupervisorPid } from "./seat-presence-read.ts"
 import { shape } from "./shape.ts"
-import { type Infer } from "./shape-core"
+import type { Infer } from "./shape-core"
 
 const MS_PER_MINUTE = 60_000
 
@@ -36,56 +35,6 @@ export function spoolFileForMinute(index: number): string {
 
 export function spoolLine(record: TypingMinuteRecord): string {
   return `${JSON.stringify(record)}\n`
-}
-
-export function parseSpool(contents: string): {
-  readonly records: readonly TypingMinuteRecord[]
-  readonly dropped: number
-} {
-  const records: TypingMinuteRecord[] = []
-  let dropped = 0
-  for (const line of contents.split("\n")) {
-    if (line.trim() === "") continue
-    const record = parseSpoolLine(line)
-    if (record === undefined) {
-      dropped += 1
-    } else {
-      records.push(record)
-    }
-  }
-  return { records, dropped }
-}
-
-function parseSpoolLine(line: string): TypingMinuteRecord | undefined {
-  try {
-    const parsed = TypingMinuteRecordSchema.safeParse(JSON.parse(line))
-    return parsed.success ? parsed.data : undefined
-  } catch {
-    return undefined
-  }
-}
-
-export function selectShippable(
-  records: readonly TypingMinuteRecord[],
-  shippedThrough: number,
-  throughMinute: number
-): readonly TypingMinuteRecord[] {
-  const seen = new Set<string>()
-  const out: TypingMinuteRecord[] = []
-  for (const record of records) {
-    if (record.minute <= shippedThrough) continue
-    if (record.minute > throughMinute) continue
-    const key = `${record.minute} ${record.seat}`
-    if (seen.has(key)) continue
-    seen.add(key)
-    out.push(record)
-  }
-  out.sort((a, b) => a.minute - b.minute || a.seat.localeCompare(b.seat))
-  return out
-}
-
-export function distinctMinutes(records: readonly TypingMinuteRecord[]): number {
-  return new Set(records.map((r) => r.minute)).size
 }
 
 function readSeatName(pid: number): Promise<string | undefined> {
@@ -124,8 +73,7 @@ export function createTypingMinuteRecorder(
           const seat = await resolveSeat(options.pid)
           if (seat === undefined) return
           await append(index, spoolLine({ minute: index, seat }))
-        } catch {
-        }
+        } catch {}
       })()
     },
   }
