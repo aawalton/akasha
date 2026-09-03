@@ -219,7 +219,7 @@ const realCommands = {
 }
 
 // A named member answers itself; everything else answers the permissive Proxy, so a member this
-// does not name behaves exactly as it does under `extension-node-clean`.
+// does not name behaves exactly as it does under `node-cleanliness`.
 function overlaid(real) {
   return new Proxy(real, {
     get: (target, key) => (key in target ? target[key] : anything()),
@@ -338,7 +338,7 @@ function makeContext() {
 // A namespace import answers `undefined` for a member the module does not export, and `undefined`
 // travels: the first run of this drew five empty panels and said `Cannot read properties of
 // undefined (reading 'createOutputChannel')`, because the stub was CJS and a namespace import of a
-// CJS Proxy carries no named export at all. `tools/extension-panels-draw.ts` reads the members the
+// CJS Proxy carries no named export at all. `panel-reading` reads the members the
 // bundle reaches and refuses to judge where one is not exported here, so a member added to the
 // extension cannot quietly become `undefined` and empty every panel at once.
 
@@ -397,7 +397,7 @@ export const workspace = overlaid({
 export const env = overlaid({
   clipboard: overlaid({ writeText: async () => undefined, readText: async () => "" }),
   openExternal: async () => true,
-  appName: "extension-panels-draw",
+  appName: "panel-reading",
 })
 
 export const __report = report
