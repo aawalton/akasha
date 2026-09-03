@@ -27,7 +27,7 @@ export const migrateAlanAndJennyToAkasha = {
       statement:
         "The packages under Alan's site that name no package of their own stand in akasha.",
       workingMemory:
-        "The stated blocker is gone and so is half the work: `app/questions` was deleted rather than migrated, at `4b763e9df4`. So this is 2 files, not 6, both in `app/hooks`, and neither reaches `@shared/pages-ui` at all. `use-mark-notification-read.ts` imports `@akasha/pages-ui` since `080d49481e` and escapes nowhere, so it could land today. `use-mark-read-on-end.ts` has 2 `~/lib/*` reaches, one fewer since `dc0ebc8f50`. `alanwalton/web/dist/` is stale from 08-31 and re-derives the old counts.",
+        "1 file left. `use-mark-notification-read.ts` landed at `013216479c` as `akasha/alan/web/use-mark-notification-read`, its one importer repointed and the old file deleted at `070d3b25d1`. What remains is `use-mark-read-on-end.ts`, held back by 2 reaches — `~/lib/offline-text` and `~/lib/read-completion` — neither of which exists under akasha. So this waits on the interior, as intent 3 does. `alanwalton/web/dist/` is stale from 08-31 and re-derives the old counts.",
     },
     {
       statement: "The routes of Alan's site stand in akasha.",
