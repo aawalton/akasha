@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const necropotence = {
-  id: "01a05fdb-7d44-7cc5-9b64-341ced40ac4e",
+  id: "019e66e7-6a73-7bbc-86bc-b8e13d1c522a",
   pageTypeSlug: "temper-set",
   slug: "necropotence",
   title: "Necropotence",

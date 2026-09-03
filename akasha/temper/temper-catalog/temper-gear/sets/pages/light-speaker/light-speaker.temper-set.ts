@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const lightSpeaker = {
-  id: "01a05fdb-7d33-7bc0-b1b7-be4f8a9e4bb6",
+  id: "019e66e6-a09f-7e46-a6bc-ee9684c1539b",
   pageTypeSlug: "temper-set",
   slug: "light-speaker",
   title: "Light Speaker",

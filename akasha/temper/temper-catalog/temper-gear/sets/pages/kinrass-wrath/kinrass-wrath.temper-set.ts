@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const kinrassWrath = {
-  id: "01a05fda-f7f5-7942-8d53-90c665ba96f8",
+  id: "019e66e6-a098-76d2-bca4-c16905e8eee3",
   pageTypeSlug: "temper-set",
   slug: "kinrass-wrath",
   title: "Kinras's Wrath",

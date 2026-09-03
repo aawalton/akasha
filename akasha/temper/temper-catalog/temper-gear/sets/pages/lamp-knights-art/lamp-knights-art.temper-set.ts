@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const lampKnightsArt = {
-  id: "01a05fda-f7fa-78e9-9650-b8efb45b6e4e",
+  id: "019e66e7-6a0e-71af-9fbd-4450e10253dd",
   pageTypeSlug: "temper-set",
   slug: "lamp-knights-art",
   title: "Lamp Knight's Art",

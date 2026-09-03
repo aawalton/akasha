@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const handOfMephala = {
-  id: "01a05fda-f7e3-7b8e-ac1d-a7ba562e0fed",
+  id: "019e66e6-a08a-7943-9f5c-d018b73bac47",
   pageTypeSlug: "temper-set",
   slug: "hand-of-mephala",
   title: "Hand of Mephala",

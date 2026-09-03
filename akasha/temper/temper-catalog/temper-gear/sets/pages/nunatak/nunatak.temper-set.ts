@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const nunatak = {
-  id: "01a05fdb-7d4c-7eba-b819-d6fcb71af487",
+  id: "019e6484-600e-71a5-b264-37fe9c87833a",
   pageTypeSlug: "temper-set",
   slug: "nunatak",
   title: "Nunatak",

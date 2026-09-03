@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const nobleDuelistsSilks = {
-  id: "01a05fdb-7d49-7f84-a72b-8fd0427ce919",
+  id: "019e66e6-a0a9-7d4e-9eba-17e903746126",
   pageTypeSlug: "temper-set",
   slug: "noble-duelists-silks",
   title: "Noble Duelist's Silks",

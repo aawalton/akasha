@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const leviathan = {
-  id: "01a05fdb-7d32-7341-ab86-76392a2e38e0",
+  id: "019e66e6-a09e-7e77-a4ee-eebf4398b2fa",
   pageTypeSlug: "temper-set",
   slug: "leviathan",
   title: "Leviathan",

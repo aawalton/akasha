@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const innateAxiom = {
-  id: "01a05fda-f7f0-786a-bd96-a3c4d1230da8",
+  id: "019e668e-9a4b-7807-9909-0827a7901901",
   pageTypeSlug: "temper-set",
   slug: "innate-axiom",
   title: "Innate Axiom",

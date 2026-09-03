@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const kynesKiss = {
-  id: "01a05fda-f7f8-7941-a9fa-040433a84d58",
+  id: "019e66ec-77d0-79ba-8665-1fe0aef9f1a4",
   pageTypeSlug: "temper-set",
   slug: "kynes-kiss",
   title: "Kyne's Kiss",

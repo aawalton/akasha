@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const ironFlask = {
-  id: "01a05fda-f7f1-7454-8be8-38fa1627283c",
+  id: "019e668e-9a4c-75a3-8756-94ae97036a6e",
   pageTypeSlug: "temper-set",
   slug: "iron-flask",
   title: "Iron Flask",

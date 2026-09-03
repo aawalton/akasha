@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const magickaFurnace = {
-  id: "01a05fdb-7d38-701f-b5c1-5766adb90483",
+  id: "019e66e6-a0a1-70bc-9884-1bdf3e1ab117",
   pageTypeSlug: "temper-set",
   slug: "magicka-furnace",
   title: "Magicka Furnace",

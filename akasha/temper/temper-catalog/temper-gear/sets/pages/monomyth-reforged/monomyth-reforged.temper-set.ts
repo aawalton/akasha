@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const monomythReforged = {
-  id: "01a05fdb-7d41-7afd-81f0-26dbee0d67ed",
+  id: "019e66e7-6a12-7f86-a40a-91390da3f7e2",
   pageTypeSlug: "temper-set",
   slug: "monomyth-reforged",
   title: "Monomyth Reforged",

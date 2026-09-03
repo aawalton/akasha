@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const netchOil = {
-  id: "01a05fdb-7d45-744c-8429-0ac8d387e0da",
+  id: "019e66ec-7829-70c8-a276-25554a5919e7",
   pageTypeSlug: "temper-set",
   slug: "netch-oil",
   title: "Netch Oil",

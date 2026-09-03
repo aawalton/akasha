@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const grothdarr = {
-  id: "01a05fda-f7e1-7bc5-9165-9d1d83af7648",
+  id: "019e6484-5ff9-70e7-831e-db83ac174eb8",
   pageTypeSlug: "temper-set",
   slug: "grothdarr",
   title: "Grothdarr",

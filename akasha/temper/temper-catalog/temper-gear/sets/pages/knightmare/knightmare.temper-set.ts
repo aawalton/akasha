@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const knightmare = {
-  id: "01a05fda-f7f6-7dfc-b26e-a706fac888ed",
+  id: "019e66e6-a09a-7a92-9c53-42cfd1114bf9",
   pageTypeSlug: "temper-set",
   slug: "knightmare",
   title: "Knightmare",

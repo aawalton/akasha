@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const jailersTenacity = {
-  id: "01a05fda-f7f2-78f9-b4f4-fed39ce7a4f9",
+  id: "019e66e6-a095-71f5-9991-324e5d231440",
   pageTypeSlug: "temper-set",
   slug: "jailers-tenacity",
   title: "Jailer's Tenacity",

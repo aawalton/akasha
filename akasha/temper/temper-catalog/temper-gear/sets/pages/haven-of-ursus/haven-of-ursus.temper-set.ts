@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const havenOfUrsus = {
-  id: "01a05fda-f7e5-7566-8e4a-997981a6aae8",
+  id: "019e66e6-a08c-79e8-bc3c-68956a7fa46a",
   pageTypeSlug: "temper-set",
   slug: "haven-of-ursus",
   title: "Haven of Ursus",

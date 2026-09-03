@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const maligaligsMaelstrom = {
-  id: "01a05fdb-7d39-7921-9eca-bf142869746d",
+  id: "019e66e6-a0a2-7649-8fd9-ea60940df192",
   pageTypeSlug: "temper-set",
   slug: "maligaligs-maelstrom",
   title: "Maligalig's Maelstrom",

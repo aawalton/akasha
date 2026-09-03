@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const lawOfJulianos = {
-  id: "01a05fda-f7fa-76d8-885d-aa3e960e4f2f",
+  id: "019e668e-9a4e-7fd9-8979-f5c3d2d55924",
   pageTypeSlug: "temper-set",
   slug: "law-of-julianos",
   title: "Law of Julianos",

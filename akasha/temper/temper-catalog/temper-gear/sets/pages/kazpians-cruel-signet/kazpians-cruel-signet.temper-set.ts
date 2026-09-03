@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const kazpiansCruelSignet = {
-  id: "01a05fda-f7f4-7da4-9368-2e1d56ed263b",
+  id: "019e66e7-6a0c-7d62-960b-33d5a1b0500f",
   pageTypeSlug: "temper-set",
   slug: "kazpians-cruel-signet",
   title: "Kazpian's Cruel Signet",

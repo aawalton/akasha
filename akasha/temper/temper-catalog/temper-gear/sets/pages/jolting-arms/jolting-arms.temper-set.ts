@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const joltingArms = {
-  id: "01a05fda-f7f3-7b69-ba7a-e4ea49896454",
+  id: "019e66e6-a096-731b-bea0-3dda054ba36b",
   pageTypeSlug: "temper-set",
   slug: "jolting-arms",
   title: "Jolting Arms",

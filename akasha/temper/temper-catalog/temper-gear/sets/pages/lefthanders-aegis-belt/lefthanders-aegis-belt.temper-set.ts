@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const lefthandersAegisBelt = {
-  id: "01a05fda-f7fb-7758-bd0f-88afe53855df",
+  id: "019e6484-602e-7ed5-9334-3cdff22510e8",
   pageTypeSlug: "temper-set",
   slug: "lefthanders-aegis-belt",
   title: "Lefthander's Aegis Belt",

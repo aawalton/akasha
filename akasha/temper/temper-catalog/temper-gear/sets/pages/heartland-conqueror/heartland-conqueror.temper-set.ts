@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const heartlandConqueror = {
-  id: "01a05fda-f7e6-74fd-a692-b3768ee94029",
+  id: "019e668e-9a47-7334-a8fe-0040c5cc9e43",
   pageTypeSlug: "temper-set",
   slug: "heartland-conqueror",
   title: "Heartland Conqueror",

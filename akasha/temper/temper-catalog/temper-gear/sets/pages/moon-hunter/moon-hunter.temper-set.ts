@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const moonHunter = {
-  id: "01a05fdb-7d42-7695-bc38-2b21099578f6",
+  id: "019e66e6-a0a5-781a-b267-8dbffaacedd9",
   pageTypeSlug: "temper-set",
   slug: "moon-hunter",
   title: "Moon Hunter",

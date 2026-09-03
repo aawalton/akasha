@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const encratissBehemoth = {
-  id: "01a05fda-f7cf-70e5-b10f-ad32ffc32b26",
+  id: "019e6484-5ff4-7d41-904b-e34338afa40f",
   pageTypeSlug: "temper-set",
   slug: "encratiss-behemoth",
   title: "Encratis's Behemoth",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const graveStakeCollector = {
-  id: "01a05fda-f7e0-721c-9d73-301e6adae6f0",
+  id: "019e668e-9a46-75a1-9ad0-14b98eb8bd04",
   pageTypeSlug: "temper-set",
   slug: "grave-stake-collector",
   title: "Grave-Stake Collector",

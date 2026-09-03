@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const impregnableArmor = {
-  id: "01a05fda-f7ef-7c8e-9787-4a5e46b2e57f",
+  id: "019e66ec-7791-7b37-a1ab-1a2550855033",
   pageTypeSlug: "temper-set",
   slug: "impregnable-armor",
   title: "Impregnable Armor",

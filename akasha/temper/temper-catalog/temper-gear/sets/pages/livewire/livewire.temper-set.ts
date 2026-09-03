@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const livewire = {
-  id: "01a05fdb-7d34-73fb-94da-fc763045ccf2",
+  id: "019e66e7-6a6b-7503-ba5d-dc13eeda4594",
   pageTypeSlug: "temper-set",
   slug: "livewire",
   title: "Livewire",

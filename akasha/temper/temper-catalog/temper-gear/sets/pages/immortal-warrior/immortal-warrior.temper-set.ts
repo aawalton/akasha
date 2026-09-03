@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const immortalWarrior = {
-  id: "01a05fda-f7ee-7224-a137-23f599a146b6",
+  id: "019e66ec-7b45-7304-944e-5104b712d901",
   pageTypeSlug: "temper-set",
   slug: "immortal-warrior",
   title: "Immortal Warrior",

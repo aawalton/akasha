@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const gryphonsFerocity = {
-  id: "01a05fda-f7e2-7841-802c-b035daf2fd53",
+  id: "019e66e7-6a64-7000-aaf3-8090cee05cb1",
   pageTypeSlug: "temper-set",
   slug: "gryphons-ferocity",
   title: "Gryphon's Ferocity",

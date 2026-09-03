@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const galerionsRevenge = {
-  id: "01a05fda-f7db-7f54-a33f-3be22411767b",
+  id: "019e66ec-7744-7a9b-8473-140f8152bab2",
   pageTypeSlug: "temper-set",
   slug: "galerions-revenge",
   title: "Galerion's Revenge",

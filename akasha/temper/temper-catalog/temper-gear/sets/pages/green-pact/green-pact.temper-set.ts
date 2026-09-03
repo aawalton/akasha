@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const greenPact = {
-  id: "01a05fda-f7e1-7676-84e0-ac493168dbc4",
+  id: "019e66e7-6a62-7c22-b914-0f105e1e4e51",
   pageTypeSlug: "temper-set",
   slug: "green-pact",
   title: "Green Pact",

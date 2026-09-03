@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const elfBane = {
-  id: "01a05fda-f7ce-77aa-9d09-01a8c8065d79",
+  id: "019e66ec-7702-74ad-9658-c91841ee8e38",
   pageTypeSlug: "temper-set",
   slug: "elf-bane",
   title: "Elf Bane",

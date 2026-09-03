@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const lekisFocus = {
-  id: "01a05fda-f7fc-7b5b-988b-d5135594e6bd",
+  id: "019e66ec-77e9-7c58-a330-b7559ff9d419",
   pageTypeSlug: "temper-set",
   slug: "lekis-focus",
   title: "Leki's Focus",

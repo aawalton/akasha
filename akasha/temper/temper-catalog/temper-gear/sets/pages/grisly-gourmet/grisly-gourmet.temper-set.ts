@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const grislyGourmet = {
-  id: "01a05fda-f7e1-70c1-bb35-bbc15a94c835",
+  id: "019e66e6-a087-7567-98a1-8d730dbbf9d0",
   pageTypeSlug: "temper-set",
   slug: "grisly-gourmet",
   title: "Grisly Gourmet",

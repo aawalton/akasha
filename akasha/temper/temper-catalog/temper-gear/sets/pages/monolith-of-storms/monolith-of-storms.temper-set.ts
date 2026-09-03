@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const monolithOfStorms = {
-  id: "01a05fdb-7d40-7239-95df-159daea269b1",
+  id: "019e6484-5fe3-7102-acad-95bab72dbb1c",
   pageTypeSlug: "temper-set",
   slug: "monolith-of-storms",
   title: "Monolith of Storms",

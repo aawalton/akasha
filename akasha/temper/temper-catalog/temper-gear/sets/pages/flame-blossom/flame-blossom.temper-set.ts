@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const flameBlossom = {
-  id: "01a05fda-f7d7-7dc3-9806-ea3924c4c278",
+  id: "019e66e6-a07f-709b-9af6-c7f0d5cc24ed",
   pageTypeSlug: "temper-set",
   slug: "flame-blossom",
   title: "Flame Blossom",

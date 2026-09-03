@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const fellowshipsFortitude = {
-  id: "01a05fda-f7d7-7911-915b-9386965f2dfe",
+  id: "019e66e7-6a04-7600-a1ec-dc13b6710115",
   pageTypeSlug: "temper-set",
   slug: "fellowships-fortitude",
   title: "Fellowship's Fortitude",

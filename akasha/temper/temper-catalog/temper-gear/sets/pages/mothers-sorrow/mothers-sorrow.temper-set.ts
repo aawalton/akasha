@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const mothersSorrow = {
-  id: "01a05fdb-7d43-755e-8ab6-20f21515148f",
+  id: "019e66e7-6a72-786b-bfb9-86258a0e4cc4",
   pageTypeSlug: "temper-set",
   slug: "mothers-sorrow",
   title: "Mother's Sorrow",

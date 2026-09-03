@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const hanusCompassion = {
-  id: "01a05fda-f7e3-70e5-b1ef-62966b1503e0",
+  id: "019e66e6-a08b-7940-ac31-5d4fbdfc1116",
   pageTypeSlug: "temper-set",
   slug: "hanus-compassion",
   title: "Hanu's Compassion",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const esotericEnvironmentGreaves = {
-  id: "01a05fda-f7d1-7c47-ba58-b4cf96eac9fb",
+  id: "019e6484-602b-737a-aba2-f774183c3e7f",
   pageTypeSlug: "temper-set",
   slug: "esoteric-environment-greaves",
   title: "Esoteric Environment Greaves",

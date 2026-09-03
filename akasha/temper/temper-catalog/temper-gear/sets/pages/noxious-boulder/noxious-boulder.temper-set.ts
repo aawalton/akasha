@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const noxiousBoulder = {
-  id: "01a05fdb-7d4b-73be-90b0-d4ca486e46f7",
+  id: "019e66e7-6a14-728d-ae1e-cf31fb6aa995",
   pageTypeSlug: "temper-set",
   slug: "noxious-boulder",
   title: "Noxious Boulder",

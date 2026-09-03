@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const hawksEye = {
-  id: "01a05fda-f7e5-76fe-9dd7-3787e39192df",
+  id: "019e66ec-775e-78af-9f85-3fffbdb0411d",
   pageTypeSlug: "temper-set",
   slug: "hawks-eye",
   title: "Hawk's Eye",

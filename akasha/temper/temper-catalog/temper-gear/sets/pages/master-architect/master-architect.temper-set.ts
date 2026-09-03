@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const masterArchitect = {
-  id: "01a05fdb-7d3c-7cbd-bdf1-461241a57390",
+  id: "019e66ec-7bb5-7eb1-a3f2-47c16c0a6e5c",
   pageTypeSlug: "temper-set",
   slug: "master-architect",
   title: "Master Architect",

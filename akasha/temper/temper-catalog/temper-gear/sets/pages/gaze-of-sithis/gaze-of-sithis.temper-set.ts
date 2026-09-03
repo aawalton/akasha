@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const gazeOfSithis = {
-  id: "01a05fda-f7dc-7ebc-b1fb-f1720c51081f",
+  id: "019e6484-602d-709f-b5b4-039483724c7c",
   pageTypeSlug: "temper-set",
   slug: "gaze-of-sithis",
   title: "Gaze of Sithis",

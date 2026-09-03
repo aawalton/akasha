@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const histWhisperer = {
-  id: "01a05fda-f7ea-7ccb-9d2b-bd2ee570faa1",
+  id: "019e668e-9a49-7c43-9da7-5ed1b607b626",
   pageTypeSlug: "temper-set",
   slug: "hist-whisperer",
   title: "Hist Whisperer",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const lightOfCyrodiil = {
-  id: "01a05fdb-7d33-777b-b804-6c09457f1d26",
+  id: "019e66ec-77f6-75e8-8b3d-5781ce3797c7",
   pageTypeSlug: "temper-set",
   slug: "light-of-cyrodiil",
   title: "Light of Cyrodiil",

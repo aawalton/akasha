@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const elementalCatalyst = {
-  id: "01a05fda-f7ce-7e90-b22a-10c243c3cd14",
+  id: "019e66e6-a07b-7d69-ba01-6eea8194b308",
   pageTypeSlug: "temper-set",
   slug: "elemental-catalyst",
   title: "Elemental Catalyst",

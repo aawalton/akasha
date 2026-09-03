@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const kagrenacsHope = {
-  id: "01a05fda-f7f4-74f3-8b82-7869b64ac97f",
+  id: "019e668e-9a4d-7367-99ed-016a9515db13",
   pageTypeSlug: "temper-set",
   slug: "kagrenacs-hope",
   title: "Kagrenac's Hope",

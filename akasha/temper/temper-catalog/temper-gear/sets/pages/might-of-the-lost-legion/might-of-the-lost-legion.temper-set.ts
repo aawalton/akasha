@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const mightOfTheLostLegion = {
-  id: "01a05fdb-7d3f-78fc-8b43-6c75983e661f",
+  id: "019e668e-9a52-7d49-8c93-aa8005b594f5",
   pageTypeSlug: "temper-set",
   slug: "might-of-the-lost-legion",
   title: "Might of the Lost Legion",

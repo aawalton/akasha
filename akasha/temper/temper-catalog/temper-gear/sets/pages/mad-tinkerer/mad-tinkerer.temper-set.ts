@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const madTinkerer = {
-  id: "01a05fdb-7d37-7477-940a-d1d97d6f487d",
+  id: "019e66e7-6a6d-7c44-97ab-9ff9faba3f49",
   pageTypeSlug: "temper-set",
   slug: "mad-tinkerer",
   title: "Mad Tinkerer",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const enervatingAura = {
-  id: "01a05fda-f7d0-7f41-84da-6613f73d0809",
+  id: "019e66ec-771b-7fbf-9254-0d86cce5fb5b",
   pageTypeSlug: "temper-set",
   slug: "enervating-aura",
   title: "Enervating Aura",

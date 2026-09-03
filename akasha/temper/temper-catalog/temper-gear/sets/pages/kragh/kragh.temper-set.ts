@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const kragh = {
-  id: "01a05fda-f7f7-7041-865c-c82ca4063a81",
+  id: "019e6484-6000-7d6f-97fa-f0972a15b69a",
   pageTypeSlug: "temper-set",
   slug: "kragh",
   title: "Kra'gh",

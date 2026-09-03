@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const moraScribesThesis = {
-  id: "01a05fdb-7d42-7dea-bf92-129edd14a1dc",
+  id: "019e66ec-7bd2-7e65-9eaa-3f712fdf1b66",
   pageTypeSlug: "temper-set",
   slug: "mora-scribes-thesis",
   title: "Mora Scribe's Thesis",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const gossamer = {
-  id: "01a05fda-f7de-7df7-8c3b-2bdfb451e08f",
+  id: "019e66e6-a084-72cf-9272-e2e9734e3aef",
   pageTypeSlug: "temper-set",
   slug: "gossamer",
   title: "Gossamer",

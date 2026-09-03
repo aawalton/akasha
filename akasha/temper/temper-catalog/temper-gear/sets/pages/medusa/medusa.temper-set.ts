@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const medusa = {
-  id: "01a05fdb-7d3d-7c4a-b98e-59cdb02d0bc5",
+  id: "019e66e6-a0a3-777b-9da1-0970ce7fbb9c",
   pageTypeSlug: "temper-set",
   slug: "medusa",
   title: "Medusa",

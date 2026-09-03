@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const nibenayBayBattlereeve = {
-  id: "01a05fdb-7d46-7e00-8d1c-495b523efb4f",
+  id: "019e66ec-7835-7f2c-9d40-9a59816a0607",
   pageTypeSlug: "temper-set",
   slug: "nibenay-bay-battlereeve",
   title: "Nibenay Bay Battlereeve",

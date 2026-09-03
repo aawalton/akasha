@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const hitisHearth = {
-  id: "01a05fda-f7ea-772e-ad5a-1c842ad01b2a",
+  id: "019e66e6-a08f-7cf1-8344-ca95a3d12170",
   pageTypeSlug: "temper-set",
   slug: "hitis-hearth",
   title: "Hiti's Hearth",

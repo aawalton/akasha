@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const healersHabit = {
-  id: "01a05fda-f7e5-7121-bfaf-154bef80f447",
+  id: "019e6484-5fb3-787d-a6b4-5f7260be75df",
   pageTypeSlug: "temper-set",
   slug: "healers-habit",
   title: "Healer's Habit",

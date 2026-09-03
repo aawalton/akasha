@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const infernalGuardian = {
-  id: "01a05fda-f7f0-781f-9e1a-b935e143c7da",
+  id: "019e6484-5ffd-7eba-99d5-fbe17911d79c",
   pageTypeSlug: "temper-set",
   slug: "infernal-guardian",
   title: "Infernal Guardian",

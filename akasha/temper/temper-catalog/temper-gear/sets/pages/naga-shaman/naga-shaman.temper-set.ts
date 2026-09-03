@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const nagaShaman = {
-  id: "01a05fdb-7d44-71c6-8efd-8ca654638f55",
+  id: "019e668e-9a54-78b8-8f2d-ee3fa1d103af",
   pageTypeSlug: "temper-set",
   slug: "naga-shaman",
   title: "Naga Shaman",

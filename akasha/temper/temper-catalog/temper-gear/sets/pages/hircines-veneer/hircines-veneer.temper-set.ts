@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const hircinesVeneer = {
-  id: "01a05fda-f7e9-7b08-8e3e-07ad9ba7eb61",
+  id: "019e66e6-a08e-7bb2-abb4-0017e8855ce6",
   pageTypeSlug: "temper-set",
   slug: "hircines-veneer",
   title: "Hircine's Veneer",

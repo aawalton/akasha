@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const nixHoundsHowl = {
-  id: "01a05fdb-7d49-7a3d-924b-8d3bdfd50e7f",
+  id: "019e66e6-a0a8-7bd3-94b5-d929f8fea3a9",
   pageTypeSlug: "temper-set",
   slug: "nix-hounds-howl",
   title: "Nix-Hound's Howl",

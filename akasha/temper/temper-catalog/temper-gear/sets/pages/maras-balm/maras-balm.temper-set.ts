@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const marasBalm = {
-  id: "01a05fdb-7d3a-7f92-989a-e1faa3a0e97b",
+  id: "019e66ec-7802-7ef2-8558-b166c472f418",
   pageTypeSlug: "temper-set",
   slug: "maras-balm",
   title: "Mara's Balm",

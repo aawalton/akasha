@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const glacialGuardian = {
-  id: "01a05fda-f7dd-7442-a4d3-8332b8034f71",
+  id: "019e66e6-a082-7e3c-9f5b-f6eaf77fe0c6",
   pageTypeSlug: "temper-set",
   slug: "glacial-guardian",
   title: "Glacial Guardian",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const oakensoulRing = {
-  id: "01a05fdb-7d4c-7985-a1c9-63652c8051b7",
+  id: "019e6484-6032-7931-99f1-cb62879e7663",
   pageTypeSlug: "temper-set",
   slug: "oakensoul-ring",
   title: "Oakensoul Ring",

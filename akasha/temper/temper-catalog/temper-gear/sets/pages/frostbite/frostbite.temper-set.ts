@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const frostbite = {
-  id: "01a05fda-f7da-7e3e-80fa-b813a57cbc84",
+  id: "019e66e7-6a60-76b3-a505-da5def8b7a30",
   pageTypeSlug: "temper-set",
   slug: "frostbite",
   title: "Frostbite",

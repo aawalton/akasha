@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const gryphonsReprisal = {
-  id: "01a05fda-f7e2-7893-8065-3cf11795127f",
+  id: "019e66e6-a088-76f6-8a79-3a07e066ddac",
   pageTypeSlug: "temper-set",
   slug: "gryphons-reprisal",
   title: "Gryphon's Reprisal",

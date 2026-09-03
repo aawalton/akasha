@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const healingMage = {
-  id: "01a05fda-f7e6-7116-b817-ecd45731330e",
+  id: "019e66ec-7b33-7c6c-91c1-fc2803cb1ead",
   pageTypeSlug: "temper-set",
   slug: "healing-mage",
   title: "Healing Mage",

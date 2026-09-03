@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const graveInevitability = {
-  id: "01a05fda-f7e0-7851-b3c6-426a786a4d39",
+  id: "019e66e6-a086-7470-a8c2-382fb76395f1",
   pageTypeSlug: "temper-set",
   slug: "grave-inevitability",
   title: "Grave Inevitability",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const fiordsLegacy = {
-  id: "01a05fda-f7d7-780b-8bb3-6c9d7db337ae",
+  id: "019e66e7-6a5e-7043-9e2c-eefaca335082",
   pageTypeSlug: "temper-set",
   slug: "fiords-legacy",
   title: "Fiord's Legacy",

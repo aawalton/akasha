@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const leechingPlate = {
-  id: "01a05fda-f7fb-7c62-95e5-595cb31ab919",
+  id: "019e66e6-a09d-7d91-a011-3944309adfd6",
   pageTypeSlug: "temper-set",
   slug: "leeching-plate",
   title: "Leeching Plate",

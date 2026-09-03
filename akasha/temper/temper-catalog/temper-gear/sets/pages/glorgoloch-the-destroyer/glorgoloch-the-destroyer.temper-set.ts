@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const glorgolochTheDestroyer = {
-  id: "01a05fda-f7dd-7d47-9b2d-d0ecc7b6dfda",
+  id: "019e6484-5ff8-70eb-9d0a-31724d8a7fd0",
   pageTypeSlug: "temper-set",
   slug: "glorgoloch-the-destroyer",
   title: "Glorgoloch the Destroyer",

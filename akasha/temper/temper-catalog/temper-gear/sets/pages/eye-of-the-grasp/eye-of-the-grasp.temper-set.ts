@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const eyeOfTheGrasp = {
-  id: "01a05fda-f7d4-76c4-a442-792e1a3ddcc4",
+  id: "019e66e7-6a5c-7d0c-bcdf-532e5bed1ba7",
   pageTypeSlug: "temper-set",
   slug: "eye-of-the-grasp",
   title: "Eye of the Grasp",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const elementalSuccession = {
-  id: "01a05fda-f7ce-798b-b161-743602782410",
+  id: "019e6484-5fa9-7498-a3d1-0deb1cf2af01",
   pageTypeSlug: "temper-set",
   slug: "elemental-succession",
   title: "Elemental Succession",

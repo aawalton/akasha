@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const nocturnalsPloy = {
-  id: "01a05fdb-7d4a-7a7b-bbca-0a4d00d4545c",
+  id: "019e66ec-7842-7eb0-8c9f-e0ae172502f9",
   pageTypeSlug: "temper-set",
   slug: "nocturnals-ploy",
   title: "Nocturnal's Ploy",

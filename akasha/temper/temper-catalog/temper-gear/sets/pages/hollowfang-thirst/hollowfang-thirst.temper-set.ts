@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const hollowfangThirst = {
-  id: "01a05fda-f7eb-7b0a-9825-fb1f25c6a15a",
+  id: "019e66e6-a091-70c4-a5dc-dd5c5176a646",
   pageTypeSlug: "temper-set",
   slug: "hollowfang-thirst",
   title: "Hollowfang Thirst",

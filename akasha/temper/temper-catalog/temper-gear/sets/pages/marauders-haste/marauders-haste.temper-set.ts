@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const maraudersHaste = {
-  id: "01a05fdb-7d3a-7cbe-b1f5-bfd1b4ab73de",
+  id: "019e66e7-6a6e-7fae-a220-4bf8ec9e5c66",
   pageTypeSlug: "temper-set",
   slug: "marauders-haste",
   title: "Marauder's Haste",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const graceOfTheAncients = {
-  id: "01a05fda-f7df-7efd-b0f3-27c63b9d1d75",
+  id: "019e66ec-7751-7c04-9a76-1d1ab336223c",
   pageTypeSlug: "temper-set",
   slug: "grace-of-the-ancients",
   title: "Grace of the Ancients",

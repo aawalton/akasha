@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const netchsTouch = {
-  id: "01a05fdb-7d45-72e0-a4f9-a616664a09ec",
+  id: "019e66e6-a0a6-7970-a904-f20aec092c31",
   pageTypeSlug: "temper-set",
   slug: "netchs-touch",
   title: "Netch's Touch",

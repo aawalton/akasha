@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const markOfThePariah = {
-  id: "01a05fdb-7d3b-7f13-bbba-0e9a99574c55",
+  id: "019e66e7-6a70-731e-b9ee-f93458e0097b",
   pageTypeSlug: "temper-set",
   slug: "mark-of-the-pariah",
   title: "Mark of the Pariah",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const fasallasGuile = {
-  id: "01a05fda-f7d6-7602-94e3-9bd06ece8ee2",
+  id: "019e66ec-7736-7152-8949-ec9236ca243b",
   pageTypeSlug: "temper-set",
   slug: "fasallas-guile",
   title: "Fasalla's Guile",

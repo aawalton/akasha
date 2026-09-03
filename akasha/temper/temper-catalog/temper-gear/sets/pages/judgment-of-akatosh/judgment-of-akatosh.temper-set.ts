@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const judgmentOfAkatosh = {
-  id: "01a05fda-f7f3-7bd7-ab04-2f42c8249fd4",
+  id: "019e66ec-77b7-747c-9f0c-cdd5e4c26953",
   pageTypeSlug: "temper-set",
   slug: "judgment-of-akatosh",
   title: "Judgment of Akatosh",

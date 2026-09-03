@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const hewAndSunder = {
-  id: "01a05fda-f7e7-7581-811b-ff07db3a01eb",
+  id: "019e66ec-776b-7853-90da-0eae67b58a4e",
   pageTypeSlug: "temper-set",
   slug: "hew-and-sunder",
   title: "Hew and Sunder",

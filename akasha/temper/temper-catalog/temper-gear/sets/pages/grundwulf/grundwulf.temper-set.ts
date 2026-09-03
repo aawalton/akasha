@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const grundwulf = {
-  id: "01a05fda-f7e2-7757-b5c7-0f3bac955dff",
+  id: "019e6484-5ffa-7037-9692-7990e6f76f0d",
   pageTypeSlug: "temper-set",
   slug: "grundwulf",
   title: "Grundwulf",

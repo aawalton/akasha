@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const nazaray = {
-  id: "01a05fdb-7d44-79b5-ab31-9eab3024ba0c",
+  id: "019e6484-600a-7e09-95b2-cca3c0806806",
   pageTypeSlug: "temper-set",
   slug: "nazaray",
   title: "Nazaray",

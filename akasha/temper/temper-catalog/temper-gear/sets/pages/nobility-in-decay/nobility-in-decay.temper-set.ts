@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const nobilityInDecay = {
-  id: "01a05fdb-7d49-7a21-95ec-111c8cbe6b8b",
+  id: "019e6484-5fe4-71d7-bd87-5305193f871a",
   pageTypeSlug: "temper-set",
   slug: "nobility-in-decay",
   title: "Nobility in Decay",

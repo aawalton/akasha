@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const harpoonersWadingKilt = {
-  id: "01a05fda-f7e4-71b3-8a89-fe4d801a95bc",
+  id: "019e6484-602e-7043-895a-166b947d21e2",
   pageTypeSlug: "temper-set",
   slug: "harpooners-wading-kilt",
   title: "Harpooner's Wading Kilt",

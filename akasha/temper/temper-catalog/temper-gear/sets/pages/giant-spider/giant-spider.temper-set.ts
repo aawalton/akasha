@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const giantSpider = {
-  id: "01a05fda-f7dd-7de0-a476-d40531d84daf",
+  id: "019e6484-604a-7aee-84d6-770c3afbe211",
   pageTypeSlug: "temper-set",
   slug: "giant-spider",
   title: "Giant Spider",

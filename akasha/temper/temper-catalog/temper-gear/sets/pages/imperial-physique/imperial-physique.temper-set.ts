@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const imperialPhysique = {
-  id: "01a05fda-f7ee-7a51-806d-e83e9d379cd0",
+  id: "019e66ec-7785-70ad-bd7a-7bd02f6eba38",
   pageTypeSlug: "temper-set",
   slug: "imperial-physique",
   title: "Imperial Physique",

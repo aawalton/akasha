@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const macabreVintage = {
-  id: "01a05fdb-7d36-7e42-892d-053e1b174108",
+  id: "019e66e7-6a6c-7791-a85f-4d8c093a8e1c",
   pageTypeSlug: "temper-set",
   slug: "macabre-vintage",
   title: "Macabre Vintage",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const jerallMountainsWarchief = {
-  id: "01a05fda-f7f2-7f0a-b493-35e5837f58f6",
+  id: "019e66ec-77aa-7c9f-8b90-b78aae664f61",
   pageTypeSlug: "temper-set",
   slug: "jerall-mountains-warchief",
   title: "Jerall Mountains Warchief",

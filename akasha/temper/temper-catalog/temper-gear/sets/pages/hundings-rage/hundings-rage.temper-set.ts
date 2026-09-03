@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const hundingsRage = {
-  id: "01a05fda-f7eb-72bf-a773-2b91b6ec67e6",
+  id: "019e668e-9a4a-7a60-b133-202f23bd9532",
   pageTypeSlug: "temper-set",
   slug: "hundings-rage",
   title: "Hunding's Rage",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const ironblood = {
-  id: "01a05fda-f7f1-7984-a36a-ad993d3b90ed",
+  id: "019e66e6-a093-728e-8676-d4ef1d9ee1bc",
   pageTypeSlug: "temper-set",
   slug: "ironblood",
   title: "Ironblood",
