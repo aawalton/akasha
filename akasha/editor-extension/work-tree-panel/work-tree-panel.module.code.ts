@@ -1,0 +1,175 @@
+import { dropDerivers } from "@tools/lib/deriver-hold"
+import * as vscode from "vscode"
+import { repositoryPath, unreachableMessage } from "../harness-call/harness-call.module.code.ts"
+import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+import { SEAT_SIDECAR_GLOB, seatDirs } from "../seat-turn-colors/seat-turn-colors.module.code.ts"
+import { createSettledRefresh } from "../settled-refresh/settled-refresh.module.code.ts"
+import { recolor } from "../work-tree-colors/work-tree-colors.module.code.ts"
+import { REFRESH_COMMAND, VIEW_ID } from "../work-tree-ids/work-tree-ids.module.code.ts"
+import {
+  countRows,
+  readWorkColors,
+  readWorkTree,
+  workKeys,
+} from "../work-tree-reading/work-tree-reading.module.code.ts"
+import type { WorkNode, WorkTree } from "../work-tree-rows/work-tree-rows.module.code.ts"
+import {
+  createWorkDecorationProvider,
+  createWorkTree,
+} from "../work-tree-view/work-tree-view.module.code.ts"
+
+const FEATURE = "work-tree"
+
+const SETTLE_MS = 2_000
+
+const CORPUS_GLOB = "akasha/**/*.initiative.ts"
+
+// A REPAINT IS CHEAP AND A SEAT MOVES OFTEN, so the quiet a seat's write waits through is short
+// enough that a turn changing color is drawn while Alan is still looking at what set it off.
+const SEAT_SETTLE_MS = 25
+
+let output: vscode.OutputChannel
+
+export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
+  output = vscode.window.createOutputChannel("Ops: Work Tree")
+  context.subscriptions.push(output)
+
+  const tree = createWorkTree()
+  const view = vscode.window.createTreeView<WorkNode>(VIEW_ID, {
+    treeDataProvider: tree.provider,
+    showCollapseAll: true,
+    showExpandAll: true,
+    showFilter: true,
+  })
+  view.message = "Reading the initiatives…"
+  context.subscriptions.push(tree, view)
+
+  let total = 0
+
+  let current: WorkTree | undefined
+
+  const describe = (): undefined => {
+    const matched = tree.matchCount()
+    view.description =
+      matched === undefined ? (total === 1 ? "1 row" : `${total} rows`) : `${matched} of ${total}`
+    return undefined
+  }
+
+  const refresh = async (trigger: string): Promise<undefined> => {
+    try {
+      const next = await readWorkTree()
+      tree.replace(next)
+      current = next
+      watchCorpus(next.repo)
+      const rows = countRows(next.roots)
+      total = rows
+      describe()
+      view.badge = {
+        value: rows,
+        tooltip: rows === 1 ? "1 row" : `${rows} rows`,
+      }
+      view.message = undefined
+      const keys = workKeys(next.roots)
+      const duplicated = keys.filter((key, at) => keys.indexOf(key) !== at)
+      output.appendLine(`[${trigger}] ${rows} initiative(s) from ${next.repo}`)
+      recordObservation(FEATURE, {
+        outcome: "ok",
+        counts: {
+          initiatives: rows,
+          drawnMoreThanOnce: new Set(duplicated).size,
+        },
+      })
+      if (duplicated.length > 0) {
+        output.appendLine(
+          `[${trigger}] drawn more than once: ${[...new Set(duplicated)].join(", ")}`
+        )
+        void vscode.window.showWarningMessage(
+          `Work: ${new Set(duplicated).size} row(s) are drawn more than once. ` +
+            "See the Ops: Work Tree output."
+        )
+      }
+    } catch (err) {
+      view.message = unreachableMessage(err)
+      output.appendLine(`[${trigger}] read failed: ${String(err)}`)
+      recordObservation(FEATURE, { outcome: "failed", failure: String(err) })
+    }
+    return undefined
+  }
+
+  const settled = createSettledRefresh(SETTLE_MS, refresh)
+
+  // A SEAT MOVING REPAINTS RATHER THAN RE-READS. Reading the colors opens no initiative page, so a
+  // turn changing color costs a small fraction of the tree, and a repaint that moves no color
+  // leaves the rows exactly as they stand.
+  const repaint = async (trigger: string): Promise<undefined> => {
+    if (current === undefined) {
+      return undefined
+    }
+    try {
+      const next = recolor(current, await readWorkColors())
+      if (next === undefined) {
+        return undefined
+      }
+      current = next
+      tree.replace(next)
+      output.appendLine(`[${trigger}] recolored`)
+    } catch (err) {
+      output.appendLine(`[${trigger}] the colors could not be read: ${String(err)}`)
+    }
+    return undefined
+  }
+
+  const settledSeats = createSettledRefresh(SEAT_SETTLE_MS, repaint)
+
+  context.subscriptions.push(
+    settledSeats,
+    ...seatDirs().map((dir) => {
+      const seats = vscode.workspace.createFileSystemWatcher(
+        new vscode.RelativePattern(vscode.Uri.file(dir), SEAT_SIDECAR_GLOB)
+      )
+      seats.onDidChange(() => settledSeats.request("seat written"))
+      seats.onDidCreate(() => settledSeats.request("seat added"))
+      seats.onDidDelete(() => settledSeats.request("seat removed"))
+      return seats
+    })
+  )
+
+  let watched: string | undefined
+  const watchCorpus = (named: string): undefined => {
+    if (watched !== undefined) {
+      return undefined
+    }
+    const repo = repositoryPath(named)
+    watched = repo
+    // AN INITIATIVE WRITTEN DROPS WHAT WAS DERIVED FROM THE ONE BEFORE IT, so the read that
+    // follows composes the tree from the files as they now are rather than from a held answer.
+    const moved = (why: string) => (): void => {
+      dropDerivers()
+      settled.request(why)
+    }
+    const watcher = vscode.workspace.createFileSystemWatcher(
+      new vscode.RelativePattern(vscode.Uri.file(repo), CORPUS_GLOB)
+    )
+    context.subscriptions.push(
+      watcher,
+      watcher.onDidChange(moved("written")),
+      watcher.onDidCreate(moved("added")),
+      watcher.onDidDelete(moved("removed"))
+    )
+    output.appendLine(`watching ${repo}/${CORPUS_GLOB}, re-reading ${SETTLE_MS}ms after it settles`)
+    return undefined
+  }
+
+  context.subscriptions.push(
+    settled,
+    view.onDidChangeFilterValue((pattern) => {
+      tree.filter(pattern)
+      describe()
+    }),
+    vscode.window.registerFileDecorationProvider(createWorkDecorationProvider()),
+    vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual"))
+  )
+
+  await refresh("activate")
+  return undefined
+}

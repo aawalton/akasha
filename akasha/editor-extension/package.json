@@ -8,11 +8,13 @@
     "./champions-tree": "./champions-tree/champions-tree.module.code.ts",
     "./command-server-client": "./command-server-client/command-server-client.module.code.ts",
     "./domain-tree-ids": "./domain-tree-ids/domain-tree-ids.module.code.ts",
+    "./domain-tree-panel": "./domain-tree-panel/domain-tree-panel.module.code.ts",
     "./editor-group": "./editor-group/editor-group.module.code.ts",
     "./group-stoplights": "./group-stoplights/group-stoplights.module.code.ts",
     "./harness-call": "./harness-call/harness-call.module.code.ts",
     "./page-tree-assemble": "./page-tree-assemble/page-tree-assemble.module.code.ts",
     "./page-tree-ids": "./page-tree-ids/page-tree-ids.module.code.ts",
+    "./page-tree-panel": "./page-tree-panel/page-tree-panel.module.code.ts",
     "./palette": "./palette/palette.module.code.ts",
     "./panel-domains": "./panel-domains/panel-domains.module.code.ts",
     "./seat-mode": "./seat-mode/seat-mode.module.code.ts",
@@ -32,7 +34,8 @@
     "./tree-filter": "./tree-filter/tree-filter.module.code.ts",
     "./window-identity": "./window-identity/window-identity.module.code.ts",
     "./work-initiatives": "./work-initiatives/work-initiatives.module.code.ts",
-    "./work-tree-ids": "./work-tree-ids/work-tree-ids.module.code.ts"
+    "./work-tree-ids": "./work-tree-ids/work-tree-ids.module.code.ts",
+    "./work-tree-panel": "./work-tree-panel/work-tree-panel.module.code.ts"
   },
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",

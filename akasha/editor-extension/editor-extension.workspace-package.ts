@@ -55,6 +55,17 @@ export const editorExtension = {
     "module/transcript-sources",
     "module/transcript-view",
     "module/turn-color-scheme",
+    "module/domain-tree-reading",
+    "module/domain-tree-view",
+    "module/domain-tree-panel",
+    "module/page-tree-reading",
+    "module/page-tree-view",
+    "module/page-tree-panel",
+    "module/work-tree-rows",
+    "module/work-tree-colors",
+    "module/work-tree-reading",
+    "module/work-tree-view",
+    "module/work-tree-panel",
   ],
   invariants: [
     {
