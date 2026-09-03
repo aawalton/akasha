@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const fourOfAlansDaysCarryNutritionPointsAFixtureWrote = {
+  id: "01a068d1-d568-7000-923f-fbdf0be899c2",
+  pageTypeSlug: "finding",
+  slug: "four-of-alans-days-carry-nutrition-points-a-fixture-wrote",
+  domainSlug: "domain/plants",
+  claim:
+    "Four wake-day pages state nutrition points no food Alan ate accounts for. 2026-08-24 states 2400, 2026-08-26 1920, 2026-08-27 5240 and 2026-08-29 280, and each is exactly forty grams times the number of `fixture-broccoli` food entries another lane seeded on that day. The seeds went through the nutrition roll-up onto Alan's own day and were never taken back off. The migration was right to leave the fixtures behind, so a reader that counts the food entries standing today reads zero on all four, and it is the recorded figure that is wrong rather than the reader.",
+  evidence:
+    "Measured 2026-09-03 at commit 58618742ca. `asking` over `wake-day` for `nutritionPoints` gives 28 days above zero. Recomputing each from the `food-entry` pages over that day's wake window reproduces the recorded figure exactly on 40 of the 41 days that carry food entries, from 2026-06-18 to 2026-08-23 — 2026-06-19 200, 2026-06-21 523, 2026-06-24 640, 2026-08-10 735, 2026-08-13 1036. Three further days state a figure with no food entry anywhere near them: 2026-08-26 1920, 2026-08-27 5240, 2026-08-29 280. With 2026-08-24 that is four.\n\nThe backup at `/var/home/walton/repos/akasha-backup-2026-09-02/pages/food-entry` holds 333 markdown food entries against 87 pages in akasha. All 246 that did not come across are named `fixture-broccoli` but one, which is `guard-control-broccoli`, and they fall on exactly those four days: 60 on 2026-08-24, 48 on 2026-08-26, 131 on 2026-08-27, 7 on 2026-08-29. Every one carries `plant-grams: 40`. 60x40=2400, 48x40=1920, 131x40=5240, 7x40=280 — each equals what the day states, to the gram. No real entry is among the 246, and no akasha page is absent from the markdown, so the food-entry migration is complete on Alan's own data.\n\n`attribute-constitution.readout.test.ts` already names 5240 as a figure that is no longer the source, so the number has been noticed before without its origin being written down.\n\nWhat this does not settle: whether the four days should be recomputed. Doing so would edit Alan's recorded values, which no reader needed to be fixed and which this lane did not touch. Not measured: whether any other page type carries a figure the same broccoli seeds wrote.",
+} as const satisfies Finding
