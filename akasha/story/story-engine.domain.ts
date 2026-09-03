@@ -8,6 +8,7 @@ export const storyEngine = {
   partSlugs: [
     "page-type/story-chapter-played",
     "page-type/story-played",
+    "page-type/story-turn-played",
     "page-type/world",
     "workspace-package/story-engine-core",
     "workspace-package/story-ui",
