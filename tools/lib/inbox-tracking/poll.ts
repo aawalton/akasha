@@ -55,7 +55,6 @@ export async function pollInboxCounts(
     ["email", () => pollEmail()],
     ["tasks", () => pollDue(dayStr, TO_DO_PAGE_TYPE_SLUG)],
     ["temperTasks", () => pollDue(dayStr, TEMPER_TASK_PAGE_TYPE_SLUG)],
-    ["texts", () => fetchUnreadCount()],
   ]
 
   const polled = await Promise.all(
