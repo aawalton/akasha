@@ -10,10 +10,13 @@ import type { Following } from "./properties/following.boolean-property.ts"
 import type { OwnLength } from "./properties/own-length.number-property.ts"
 import type { OwnProgress } from "./properties/own-progress.number-property.ts"
 import type { PartOfSlugs } from "./properties/part-of-slugs.relation-property.ts"
+import type { PartsLengthInWords } from "./properties/parts-length-in-words.number-property.ts"
+import type { PartsProgressInWords } from "./properties/parts-progress-in-words.number-property.ts"
 import type { Position } from "./properties/position.number-property.ts"
 import type { Rank } from "./properties/rank.rank-property.ts"
 import type { Status } from "./properties/status.select-property.ts"
 import type { UnitSlug } from "./properties/unit-slug.relation-property.ts"
+import type { UnitWords } from "./properties/unit-words.number-property.ts"
 
 export type Collection = Page & {
   author?: CollectionAuthor
@@ -23,12 +26,15 @@ export type Collection = Page & {
   ownLength?: OwnLength
   ownProgress?: OwnProgress
   partOfSlugs?: PartOfSlugs
+  partsLengthInWords?: PartsLengthInWords
+  partsProgressInWords?: PartsProgressInWords
   position?: Position
   publishedAt?: CollectionPublishedAt
   rank?: Rank
   status?: Status
   tags?: readonly CollectionTags[]
   unitSlug?: UnitSlug
+  unitWords?: UnitWords
   collectionTypeSlug?: CollectionTypeSlug
 }
 
@@ -57,7 +63,10 @@ export const collection = {
     "instant-property/published-at",
     "number-property/own-length",
     "number-property/own-progress",
+    "number-property/parts-length-in-words",
+    "number-property/parts-progress-in-words",
     "number-property/position",
+    "number-property/unit-words",
     "one-of-property/collection-published-at",
     "page-type/unit",
     "rank-property/rank",
@@ -97,6 +106,9 @@ export const collection = {
     { pagePropertySlug: "total-progress-in-words", required: false, many: false },
     { pagePropertySlug: "total-remaining", required: false, many: false },
     { pagePropertySlug: "total-remaining-in-words", required: false, many: false },
+    { pagePropertySlug: "parts-length-in-words", required: false, many: false },
+    { pagePropertySlug: "parts-progress-in-words", required: false, many: false },
+    { pagePropertySlug: "unit-words", required: false, many: false },
   ],
   invariants: [
     {

@@ -1,5 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+import type { CharacterSortOrder } from "./properties/character-sort-order.number-property.ts"
 import type { EffectiveCharacter } from "./properties/effective-character.text-property.ts"
 import type { LastCompletedAt } from "./properties/last-completed-at.instant-property.ts"
 import type { Progress } from "./properties/progress.page-property-entry.ts"
@@ -7,6 +8,7 @@ import type { ProgressCurrent } from "./properties/progress-current.number-prope
 import type { ProgressTotal } from "./properties/progress-total.number-property.ts"
 
 export type TemperTask = TemperProgressThing & {
+  characterSortOrder?: CharacterSortOrder
   effectiveCharacter?: EffectiveCharacter
   lastCompletedAt?: LastCompletedAt
   progress?: Progress
@@ -23,6 +25,7 @@ export const temperTask = {
   extendsSlug: "page-type/temper-progress-thing",
   partSlugs: [
     "instant-property/last-completed-at",
+    "number-property/character-sort-order",
     "number-property/progress-current",
     "number-property/progress-total",
     "page-property-entry/progress",
@@ -38,6 +41,7 @@ export const temperTask = {
     { pagePropertySlug: "progress", required: false, many: false },
     { pagePropertySlug: "progress-total", required: false, many: false },
     { pagePropertySlug: "progress-current", required: false, many: false },
+    { pagePropertySlug: "character-sort-order", required: false, many: false },
   ],
   invariants: [
     {
