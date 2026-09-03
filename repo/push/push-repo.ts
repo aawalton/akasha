@@ -1,6 +1,6 @@
 import { git } from "@akasha/git/git-capping"
+import { releasePushLock, takePushLock, writePushState } from "@akasha/git/git-push-handoff"
 import { pushBranch, remoteOf } from "@akasha/git/git-pushing"
-import { releasePushLock, takePushLock, writePushState } from "./push.ts"
 
 const PUSH_CEILING_MS = 120_000
 
