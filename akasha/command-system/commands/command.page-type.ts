@@ -34,6 +34,7 @@ export const command = {
     "command/seat",
     "command/service",
     "command/test",
+    "command/track",
     "command/tracking",
     "command/write",
     "record-property/taking",
