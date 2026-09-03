@@ -5,11 +5,15 @@ export const allAboutAlan = {
   pageTypeSlug: "domain",
   slug: "all-about-alan",
   definition: "the notes on who Alan is",
-  partSlugs: ["page-type/all-about-alan-topic"],
+  partSlugs: [
+    "page-type/all-about-alan-experiment",
+    "page-type/all-about-alan-model",
+    "page-type/all-about-alan-topic",
+  ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The notes are part of Alan rather than a description of him.",
+      statement: "The notes are part of Alan rather than a description of Alan.",
     },
     {
       invariantKind: "absence",
