@@ -13,7 +13,9 @@ export const reading = {
     "module/chapter-choosing",
     "module/story-choosing",
     "module/offline-reading",
+    "page-type/book",
     "page-type/book-chapter",
+    "page-type/book-series",
     "page-type/scripture-passage",
   ],
 } as const satisfies WorkspacePackage
