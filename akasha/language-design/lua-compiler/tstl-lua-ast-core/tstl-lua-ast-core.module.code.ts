@@ -193,8 +193,6 @@ export interface Node extends TextRange {
   flags: NodeFlags
 }
 
-export type NodeKindMap = {}
-
 export function cloneNode<T extends Node>(node: T): T {
   return { ...node }
 }

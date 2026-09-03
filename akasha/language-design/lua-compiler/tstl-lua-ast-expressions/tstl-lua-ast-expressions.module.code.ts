@@ -443,26 +443,3 @@ export type Expression =
   | TableIndexExpression
   | ParenthesizedExpression
   | ConditionalExpression
-
-declare module "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts" {
-  interface NodeKindMap {
-    [SyntaxKind.NilKeyword]: NilLiteral
-    [SyntaxKind.TrueKeyword]: BooleanLiteral
-    [SyntaxKind.FalseKeyword]: BooleanLiteral
-    [SyntaxKind.DotsKeyword]: DotsLiteral
-    [SyntaxKind.ArgKeyword]: ArgLiteral
-    [SyntaxKind.NumericLiteral]: NumericLiteral
-    [SyntaxKind.StringLiteral]: StringLiteral
-    [SyntaxKind.FunctionExpression]: FunctionExpression
-    [SyntaxKind.TableFieldExpression]: TableFieldExpression
-    [SyntaxKind.TableExpression]: TableExpression
-    [SyntaxKind.UnaryExpression]: UnaryExpression
-    [SyntaxKind.BinaryExpression]: BinaryExpression
-    [SyntaxKind.CallExpression]: CallExpression
-    [SyntaxKind.MethodCallExpression]: MethodCallExpression
-    [SyntaxKind.Identifier]: Identifier
-    [SyntaxKind.TableIndexExpression]: TableIndexExpression
-    [SyntaxKind.ParenthesizedExpression]: ParenthesizedExpression
-    [SyntaxKind.ConditionalExpression]: ConditionalExpression
-  }
-}

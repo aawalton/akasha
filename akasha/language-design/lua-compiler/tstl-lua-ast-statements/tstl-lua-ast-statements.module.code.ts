@@ -375,24 +375,3 @@ export type Statement =
   | BreakStatement
   | ContinueStatement
   | ExpressionStatement
-
-declare module "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts" {
-  interface NodeKindMap {
-    [SyntaxKind.File]: File
-    [SyntaxKind.Block]: Block
-    [SyntaxKind.DoStatement]: DoStatement
-    [SyntaxKind.VariableDeclarationStatement]: VariableDeclarationStatement
-    [SyntaxKind.AssignmentStatement]: AssignmentStatement
-    [SyntaxKind.IfStatement]: IfStatement
-    [SyntaxKind.WhileStatement]: WhileStatement
-    [SyntaxKind.RepeatStatement]: RepeatStatement
-    [SyntaxKind.ForStatement]: ForStatement
-    [SyntaxKind.ForInStatement]: ForInStatement
-    [SyntaxKind.GotoStatement]: GotoStatement
-    [SyntaxKind.LabelStatement]: LabelStatement
-    [SyntaxKind.ReturnStatement]: ReturnStatement
-    [SyntaxKind.BreakStatement]: BreakStatement
-    [SyntaxKind.ContinueStatement]: ContinueStatement
-    [SyntaxKind.ExpressionStatement]: ExpressionStatement
-  }
-}
