@@ -9,4 +9,5 @@ export const rafaemaColoseuvia = {
   esoCharacterId: "8796093041077699",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 8,
+  completion: "json",
 } as const satisfies TemperAccountCharacter

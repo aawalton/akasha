@@ -6,4 +6,5 @@ export const account9ba554f7Cb1848bbA709Ec935a895ca7 = {
   slug: "account-9ba554f7-cb18-48bb-a709-ec935a895ca7",
   title: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   key: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  completion: "json",
 } as const satisfies TemperAccount

@@ -9,4 +9,5 @@ export const ceriaSpringwater = {
   esoCharacterId: "8796093045974297",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 14,
+  completion: "json",
 } as const satisfies TemperAccountCharacter

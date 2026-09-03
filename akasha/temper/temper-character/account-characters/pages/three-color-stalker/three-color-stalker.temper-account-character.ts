@@ -9,4 +9,5 @@ export const threeColorStalker = {
   esoCharacterId: "8796093022613905",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 4,
+  completion: "json",
 } as const satisfies TemperAccountCharacter

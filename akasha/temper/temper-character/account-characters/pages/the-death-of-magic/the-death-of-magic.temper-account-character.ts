@@ -9,4 +9,5 @@ export const theDeathOfMagic = {
   esoCharacterId: "8796093072548641",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 19,
+  completion: "json",
 } as const satisfies TemperAccountCharacter
