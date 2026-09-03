@@ -37,7 +37,6 @@
     "infra/zimage",
     "lua-compiler",
     "media/cli",
-    "native-shell/atlas",
     "readouts",
     "shared/utils-test",
     "shared/vscode-typings",
