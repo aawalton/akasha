@@ -1,8 +1,6 @@
 import type { Fetcher } from "@akasha/pages-system-service/calling"
 import { deviceTokensFor, dropDeviceToken } from "@akasha/person-system/device-token"
 
-export const PAGE_TYPE = "device-token"
-
 /**
  * Where the pages system service answers on this workstation.
  *
