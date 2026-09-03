@@ -1,3 +1,4 @@
+import { computePacingDerivations } from "@akasha/agents/claude-account-pacing"
 import type { OAuthCredential } from "@akasha/agents/oauth-types"
 import { holdBesideAccount } from "./claude-account-akasha.ts"
 import { backoffExpiryMs } from "./oauth-at-limit-expiry.ts"
@@ -12,7 +13,6 @@ import {
   recordRepollAttempt,
   recordUsageRateLimited,
 } from "./oauth-usage-repoll-gate.ts"
-import { computePacingDerivations } from "./usage-derivations.ts"
 
 const repollGateStates = new Map<string, RepollGateState>()
 

@@ -1,5 +1,5 @@
+import { hoursUntilReset } from "@akasha/agents/claude-account-pacing"
 import type { AccountState } from "@akasha/agents/oauth-types"
-import { hoursUntilReset } from "./usage-derivations.ts"
 
 export type IneligibilityReason = "five-hour-maxed" | "seven-day-maxed"
 
