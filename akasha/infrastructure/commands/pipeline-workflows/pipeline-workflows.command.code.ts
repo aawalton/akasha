@@ -1,11 +1,6 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import {
-  getPipelineBySeq,
-  listWorkflowsForPipeline,
-  optionalString,
-} from "@tools/lib/pipeline-pages/read"
-import {
   aloneIn,
   answering,
   asJson,
@@ -17,6 +12,11 @@ import {
   told,
   wordsIn,
 } from "../pipeline-answering/pipeline-answering.module.code.ts"
+import {
+  getPipelineBySeq,
+  listWorkflowsForPipeline,
+  optionalString,
+} from "../pipeline-page-reading/pipeline-page-reading.module.code.ts"
 
 const STATUS = "--status"
 

@@ -10,7 +10,6 @@ import {
   parseLokiDuration,
   parseLokiPositiveInt,
 } from "@akasha/service-system/loki-log-fetching"
-import { getPipelineBySeq, resolveStepPodName } from "@tools/lib/pipeline-pages/read"
 import {
   aloneIn,
   answering,
@@ -22,6 +21,10 @@ import {
   seqOf,
   wordsIn,
 } from "../pipeline-answering/pipeline-answering.module.code.ts"
+import {
+  getPipelineBySeq,
+  resolveStepPodName,
+} from "../pipeline-page-reading/pipeline-page-reading.module.code.ts"
 
 const WORKFLOW = "--workflow"
 

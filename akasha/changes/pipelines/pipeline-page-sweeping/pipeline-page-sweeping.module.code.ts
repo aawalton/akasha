@@ -1,5 +1,5 @@
+import { CeilingExceeded } from "@akasha/ci-containers/ci-reaper-ceiling"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { CeilingExceeded } from "@tools/lib/sweep-pipeline-pages/ceiling"
 import {
   LOG,
   runBoundedSweepTick,

@@ -8,7 +8,7 @@ function asNumber(value: unknown): number | undefined {
   return typeof value === "number" ? value : undefined
 }
 
-export function pipelineSubject(row: Row): string {
+export function pipelineSubjectOf(row: Row): string {
   const seq = asNumber(row.seq)
   const branch = asString(row.branch)
   const commitSha = asString(row.commit)

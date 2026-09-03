@@ -1,3 +1,4 @@
+import { getCommitTreeSha } from "@akasha/git/tree-sha"
 import {
   commitSha40,
   type InputsHash12,
@@ -10,7 +11,6 @@ import type { CIContext, Workflow } from "@akasha/workflow-language/workflow-typ
 import type { LocalExecutor } from "../local-executor/executor.ts"
 import type { PipelineContext } from "../local-executor/types.ts"
 import { requireGet } from "../narrow.ts"
-import { getCommitTreeSha } from "../pipeline-run/tree-sha.ts"
 import { dslStepToConfig, dslStepToNode, type StepStatus } from "./dsl.ts"
 import {
   evaluateWhenCondition,

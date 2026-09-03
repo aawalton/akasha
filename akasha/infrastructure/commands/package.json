@@ -3,6 +3,8 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./pipeline-page-reading": "./pipeline-page-reading/pipeline-page-reading.module.code.ts",
+    "./pipeline-subject": "./pipeline-subject/pipeline-subject.module.code.ts",
     "./step-cost-summary": "./step-cost-summary/step-cost-summary.module.code.ts",
     "./step-row-format": "./step-row-format/step-row-format.module.code.ts",
     "./step-solo-time": "./step-solo-time/step-solo-time.module.code.ts"

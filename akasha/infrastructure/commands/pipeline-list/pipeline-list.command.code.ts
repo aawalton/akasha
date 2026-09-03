@@ -1,7 +1,6 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { commitSha40, toShortSha7 } from "@akasha/workflow-language/ci-identifiers"
-import { listPipelines, optionalNumber, optionalString } from "@tools/lib/pipeline-pages/read"
 import {
   answering,
   asJson,
@@ -12,6 +11,11 @@ import {
   told,
   wordsIn,
 } from "../pipeline-answering/pipeline-answering.module.code.ts"
+import {
+  listPipelines,
+  optionalNumber,
+  optionalString,
+} from "../pipeline-page-reading/pipeline-page-reading.module.code.ts"
 
 const BRANCH = "--branch"
 

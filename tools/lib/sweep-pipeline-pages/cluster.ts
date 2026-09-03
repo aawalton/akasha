@@ -1,5 +1,5 @@
+import { withCeiling } from "@akasha/ci-containers/ci-reaper-ceiling"
 import { shape } from "../shape.ts"
-import { withCeiling } from "./ceiling.ts"
 
 export const CI_NAMESPACE = "ci"
 

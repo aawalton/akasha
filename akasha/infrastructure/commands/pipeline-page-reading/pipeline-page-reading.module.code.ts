@@ -1,10 +1,19 @@
-import { dataError, operationalError } from "../exit.ts"
-import { answer, type PageQuery, UNREACHED } from "../page-query.ts"
+import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { PIPELINE, STEP, WORKFLOW } from "../sweep-pipeline-pages/statuses.ts"
-import { pipelineNotFoundMessage, type Row, pipelineSubject } from "./subject.ts"
+import { answer, type PageQuery, UNREACHED } from "@tools/lib/page-query"
+import {
+  pipelineNotFoundMessage,
+  pipelineSubjectOf,
+  type Row,
+} from "../pipeline-subject/pipeline-subject.module.code.ts"
 
 export type { Row }
+
+const PIPELINE = "pipeline"
+
+const WORKFLOW = "workflow"
+
+const STEP = "step"
 
 const STEP_PAGE_LIMIT = 2000
 
@@ -35,11 +44,11 @@ function rowFromValues(values: Readonly<Record<string, unknown>>): Row {
 }
 
 export function requireString(row: Row, key: string, context: string): string {
-  const held = asString(row[key])
-  if (held === undefined) {
-    throw operationalError(`${context}: expected string at "${key}", got ${typeof row[key]}`)
+  const stated = asString(row[key])
+  if (stated === undefined) {
+    throw new OperationalError(`${context}: expected string at "${key}", got ${typeof row[key]}`)
   }
-  return held
+  return stated
 }
 
 export function optionalString(row: Row, key: string): string | undefined {
@@ -47,11 +56,11 @@ export function optionalString(row: Row, key: string): string | undefined {
 }
 
 export function requireNumber(row: Row, key: string, context: string): number {
-  const held = row[key]
-  if (typeof held !== "number") {
-    throw operationalError(`${context}: ${key} is ${typeof held}, and a number was wanted`)
+  const stated = row[key]
+  if (typeof stated !== "number") {
+    throw new OperationalError(`${context}: ${key} is ${typeof stated}, and a number was wanted`)
   }
-  return held
+  return stated
 }
 
 export function optionalNumber(row: Row, key: string): number | undefined {
@@ -59,16 +68,16 @@ export function optionalNumber(row: Row, key: string): number | undefined {
 }
 
 export function optionalSeqRef(row: Row, key: string): number | undefined {
-  const held = row[key]
-  if (typeof held === "number") return Number.isInteger(held) ? held : undefined
-  if (typeof held !== "string" || held.trim() === "") return undefined
-  const parsed = Number(held)
+  const stated = row[key]
+  if (typeof stated === "number") return Number.isInteger(stated) ? stated : undefined
+  if (typeof stated !== "string" || stated.trim() === "") return undefined
+  const parsed = Number(stated)
   return Number.isInteger(parsed) ? parsed : undefined
 }
 
 function askRows(roots: Roots, query: PageQuery, context: string): readonly Row[] {
   const found = answer(roots, query)
-  if (found === null) throw operationalError(`${context}: \`${query.pageType}\` ${UNREACHED}`)
+  if (found === null) throw new OperationalError(`${context}: \`${query.pageType}\` ${UNREACHED}`)
   return found.rows.map((row) => rowFromValues(row.values))
 }
 
@@ -82,12 +91,12 @@ export function getPipelineBySeq(roots: Roots, seq: number): Row {
     { pageType: PIPELINE, where: [{ key: "seq", is: String(seq) }], limit: 1 },
     "pipeline lookup"
   )
-  if (row === null) throw dataError(pipelineNotFoundMessage(seq))
+  if (row === null) throw new DataError(pipelineNotFoundMessage(seq))
   return row
 }
 
 function resolvedPipelineRefusal(pipeline: Row, detail: string): Error {
-  return dataError(`${detail} — ${pipelineSubject(pipeline)}`)
+  return new DataError(`${detail} — ${pipelineSubjectOf(pipeline)}`)
 }
 
 export interface ListPipelinesArgs {

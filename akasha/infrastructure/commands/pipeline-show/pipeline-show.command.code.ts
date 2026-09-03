@@ -2,16 +2,6 @@ import type { Answer } from "@akasha/command-system/calling"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import {
-  getPipelineBySeq,
-  listStepsForPipeline,
-  listWorkflowsForPipeline,
-  optionalNumber,
-  optionalString,
-  type Row,
-  summarizeWorkflows,
-  type WorkflowStatusSummary,
-} from "@tools/lib/pipeline-pages/read"
-import {
   aloneIn,
   answering,
   asJson,
@@ -23,6 +13,16 @@ import {
   told,
   wordsIn,
 } from "../pipeline-answering/pipeline-answering.module.code.ts"
+import {
+  getPipelineBySeq,
+  listStepsForPipeline,
+  listWorkflowsForPipeline,
+  optionalNumber,
+  optionalString,
+  type Row,
+  summarizeWorkflows,
+  type WorkflowStatusSummary,
+} from "../pipeline-page-reading/pipeline-page-reading.module.code.ts"
 
 const SWITCHES = [JSON_SAID]
 

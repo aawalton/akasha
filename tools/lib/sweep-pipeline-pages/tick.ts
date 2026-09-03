@@ -1,5 +1,5 @@
+import { CeilingExceeded, describeErr, withCeiling } from "@akasha/ci-containers/ci-reaper-ceiling"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { CeilingExceeded, describeErr, withCeiling } from "./ceiling.ts"
 import { type ContainerReading, readCiContainers } from "./cluster.ts"
 import { decidePipeline } from "./decide-pipeline.ts"
 import { decideStep } from "./decide-step.ts"
@@ -101,13 +101,13 @@ function sweepOnce(
   return applied
 }
 
-async function containersOrNone(
-  say: Say
-): Promise<ReadonlyMap<string, ContainerReading> | null> {
+async function containersOrNone(say: Say): Promise<ReadonlyMap<string, ContainerReading> | null> {
   try {
     return await readCiContainers()
   } catch (err) {
-    say(`the cluster was not read, so no step moves off \`launching\` or \`running\` this tick: ${describeErr(err)}`)
+    say(
+      `the cluster was not read, so no step moves off \`launching\` or \`running\` this tick: ${describeErr(err)}`
+    )
     return null
   }
 }
@@ -133,10 +133,7 @@ export async function runSweepTick(
   )
 }
 
-export async function runBoundedSweepTick(
-  roots: Roots,
-  signal: AbortSignal
-): Promise<SweepReport> {
+export async function runBoundedSweepTick(roots: Roots, signal: AbortSignal): Promise<SweepReport> {
   return withCeiling("a tick of the pipeline page sweep", TICK_CEILING_MS, () =>
     runSweepTick(roots, signal)
   )

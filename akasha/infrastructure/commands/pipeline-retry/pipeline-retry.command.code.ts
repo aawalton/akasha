@@ -1,12 +1,6 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import {
-  getPipelineBySeq,
-  listStepsForPipeline,
-  optionalNumber,
-  optionalString,
-} from "@tools/lib/pipeline-pages/read"
 import { type Reading as Decided, decideRetry } from "@tools/lib/pipeline-retry/decide"
 import { runRetry } from "@tools/lib/pipeline-retry/run"
 import { servedTip } from "@tools/lib/served-tip"
@@ -22,6 +16,12 @@ import {
   told,
   wordsIn,
 } from "../pipeline-answering/pipeline-answering.module.code.ts"
+import {
+  getPipelineBySeq,
+  listStepsForPipeline,
+  optionalNumber,
+  optionalString,
+} from "../pipeline-page-reading/pipeline-page-reading.module.code.ts"
 
 const WORKFLOW = "--workflow"
 

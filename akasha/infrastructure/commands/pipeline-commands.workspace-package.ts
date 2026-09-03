@@ -18,6 +18,8 @@ export const pipelineCommands = {
     "command/pipeline-workflows",
     "command/tests-triage-fanout",
     "module/pipeline-answering",
+    "module/pipeline-page-reading",
+    "module/pipeline-subject",
     "module/step-cost-summary",
     "module/step-row-format",
     "module/step-solo-time",
