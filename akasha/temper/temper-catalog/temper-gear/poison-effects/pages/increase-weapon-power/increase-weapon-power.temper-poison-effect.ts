@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const increaseWeaponPower = {
-  id: "01a05fd8-a43c-7b48-920e-b6e30ee4aaf0",
+  id: "019e21f7-0f6c-77a9-a08d-1a513e9fdac0",
   pageTypeSlug: "temper-poison-effect",
   slug: "increase-weapon-power",
   title: "Increase Weapon Power",

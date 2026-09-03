@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const restoreStamina = {
-  id: "01a05fd8-a43e-7ffe-8586-95d335ec6b96",
+  id: "019e21f7-0f5f-7afa-81bb-e7056a972eac",
   pageTypeSlug: "temper-poison-effect",
   slug: "restore-stamina",
   title: "Restore Stamina",

@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const waywardGuardian = {
-  id: "01a05fd7-41f0-7747-b414-fba3ed822593",
+  id: "019e5a46-c471-7c69-b208-54b228318bea",
   pageTypeSlug: "temper-motif-style",
   slug: "wayward-guardian",
   title: "Wayward Guardian",

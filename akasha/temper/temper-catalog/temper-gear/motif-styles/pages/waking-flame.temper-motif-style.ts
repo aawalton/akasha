@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const wakingFlame = {
-  id: "01a05fd7-41f0-7e2d-97c5-4ae212d41456",
+  id: "019e5a46-c47a-7f60-ba76-979afa8d9d20",
   pageTypeSlug: "temper-motif-style",
   slug: "waking-flame",
   title: "Waking Flame",

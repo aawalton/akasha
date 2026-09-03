@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const silverDawn = {
-  id: "01a05fd7-41ec-7dcf-85ca-aa3f742836db",
+  id: "019e5a46-c419-79ce-9251-5837ba5d4762",
   pageTypeSlug: "temper-motif-style",
   slug: "silver-dawn",
   title: "Silver Dawn",

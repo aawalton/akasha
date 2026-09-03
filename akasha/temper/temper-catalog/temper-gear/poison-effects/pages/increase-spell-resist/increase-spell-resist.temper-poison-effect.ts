@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const increaseSpellResist = {
-  id: "01a05fd8-a43b-78ea-9f28-c6175033c26d",
+  id: "019e21f7-0f63-77a6-86c5-d670efaa9f65",
   pageTypeSlug: "temper-poison-effect",
   slug: "increase-spell-resist",
   title: "Increase Spell Resistance",

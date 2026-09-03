@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const coldsnap = {
-  id: "01a05fd7-41d8-7772-8237-a181bfedd4b6",
+  id: "019e5a46-c427-79cd-a956-bb371baa3fb0",
   pageTypeSlug: "temper-motif-style",
   slug: "coldsnap",
   title: "Coldsnap",

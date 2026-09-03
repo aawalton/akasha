@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const subcategoryMagicka = {
-  id: "01a05fcc-d8b6-7dc1-a957-c219ed118c48",
+  id: "019e2fcd-59f0-72e5-a590-a13126d6dc64",
   pageTypeSlug: "temper-metric-tree",
   slug: "subcategory-magicka",
   title: "Magicka",

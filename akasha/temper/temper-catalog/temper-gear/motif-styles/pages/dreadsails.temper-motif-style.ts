@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const dreadsails = {
-  id: "01a05fd7-41db-7046-8c15-da21de86fb02",
+  id: "019e5a46-c495-7d65-bf02-250855e0177b",
   pageTypeSlug: "temper-motif-style",
   slug: "dreadsails",
   title: "Dreadsails",

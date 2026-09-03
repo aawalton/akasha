@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const silkenRing = {
-  id: "01a05fd7-41eb-7dc3-8181-c0a3015a3140",
+  id: "019e5a46-c3e3-78a9-bd96-3e2ecc7ec310",
   pageTypeSlug: "temper-motif-style",
   slug: "silken-ring",
   title: "Silken Ring",

@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const assassinsLeague = {
-  id: "01a05fd7-41d6-76f4-9073-fb9b8be25741",
+  id: "019e5a46-c3cf-7a83-81ad-e48e57d26740",
   pageTypeSlug: "temper-motif-style",
   slug: "assassins-league",
   title: "Assassins League",

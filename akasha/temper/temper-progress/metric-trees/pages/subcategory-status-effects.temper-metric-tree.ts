@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const subcategoryStatusEffects = {
-  id: "01a05fcc-d8b8-755a-97d1-2b3613e76123",
+  id: "019e2fcd-59cb-7c2d-8a6c-80ea21698730",
   pageTypeSlug: "temper-metric-tree",
   slug: "subcategory-status-effects",
   title: "Status Effects",

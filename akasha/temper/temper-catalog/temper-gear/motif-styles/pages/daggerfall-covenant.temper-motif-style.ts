@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const daggerfallCovenant = {
-  id: "01a05fd7-41d9-7b4f-bd54-d1e441070840",
+  id: "019e5a46-c3c2-782b-9f37-05a93d6bff22",
   pageTypeSlug: "temper-motif-style",
   slug: "daggerfall-covenant",
   title: "Daggerfall Covenant",

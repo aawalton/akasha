@@ -1,7 +1,7 @@
 import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
 
 export const expeditionIntellectProphecyMagickaRestore = {
-  id: "01a05fd8-a445-76a2-9ea8-41a81e0bae34",
+  id: "019e21f6-406d-7179-93dd-5091240957e8",
   pageTypeSlug: "temper-potion-crafted",
   slug: "expedition-intellect-prophecy-magicka-restore",
   title: "Essence of Spell Critical",

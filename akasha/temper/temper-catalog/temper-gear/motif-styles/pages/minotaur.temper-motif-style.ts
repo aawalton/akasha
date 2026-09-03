@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const minotaur = {
-  id: "01a05fd7-41e5-7e36-91e4-4c4f9d9a37ae",
+  id: "019e5a46-c3d9-7cc0-b8c3-f7c852e633c6",
   pageTypeSlug: "temper-motif-style",
   slug: "minotaur",
   title: "Minotaur",

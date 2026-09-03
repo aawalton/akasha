@@ -1,7 +1,7 @@
 import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
 
 export const vitalityProtectionResistancePhysical = {
-  id: "01a05fd8-a44b-7380-b840-eae3aa3acb7a",
+  id: "019e21f6-4045-7f82-bf12-19cb6068b0b6",
   pageTypeSlug: "temper-potion-crafted",
   slug: "vitality-protection-resistance-physical",
   title: "Essence of Vitality",

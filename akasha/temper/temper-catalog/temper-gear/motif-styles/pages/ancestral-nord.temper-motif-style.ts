@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const ancestralNord = {
-  id: "01a05fd7-41d2-79a1-b017-8973a3f07563",
+  id: "019e5a46-c453-737e-bfc4-60d87f69c103",
   pageTypeSlug: "temper-motif-style",
   slug: "ancestral-nord",
   title: "Ancestral Nord",

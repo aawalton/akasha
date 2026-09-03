@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const trinimac = {
-  id: "01a05fd7-41ef-7c64-bed1-a18c729e51c3",
+  id: "019e5a46-c3b8-7505-aeb9-66bc38b0d942",
   pageTypeSlug: "temper-motif-style",
   slug: "trinimac",
   title: "Trinimac",

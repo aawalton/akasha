@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const subcategoryStealth = {
-  id: "01a05fcc-d8b8-7b6d-8f0b-e9adbe5abe83",
+  id: "019e2fcd-5a87-73a6-b7d4-823090b88888",
   pageTypeSlug: "temper-metric-tree",
   slug: "subcategory-stealth",
   title: "Stealth",

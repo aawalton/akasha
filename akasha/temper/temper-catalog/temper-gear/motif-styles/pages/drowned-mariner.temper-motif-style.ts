@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const drownedMariner = {
-  id: "01a05fd7-41dc-7d4b-9695-cb98d4204732",
+  id: "019e5a46-c4a7-791f-ab62-5c35a5ffc24f",
   pageTypeSlug: "temper-motif-style",
   slug: "drowned-mariner",
   title: "Drowned Mariner",

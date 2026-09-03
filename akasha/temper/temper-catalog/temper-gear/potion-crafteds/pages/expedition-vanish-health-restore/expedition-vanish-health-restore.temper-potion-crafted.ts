@@ -1,7 +1,7 @@
 import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
 
 export const expeditionVanishHealthRestore = {
-  id: "01a05fd8-a445-7bab-a510-c3146a2b680f",
+  id: "019e21f6-406e-7dd6-a6ca-a6252a9bbcfe",
   pageTypeSlug: "temper-potion-crafted",
   slug: "expedition-vanish-health-restore",
   title: "Essence of Speed",

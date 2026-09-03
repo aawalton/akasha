@@ -1,7 +1,7 @@
 import type { TemperPotionCrown } from "../../temper-potion-crown.page-type.ts"
 
 export const crownTriRestorationPotion = {
-  id: "01a05fd8-a44c-7e6d-b0c3-d248fa72618f",
+  id: "019e21f5-7534-7436-a51b-5d921f4e306f",
   pageTypeSlug: "temper-potion-crown",
   slug: "crown-tri-restoration-potion",
   title: "Crown Tri-Restoration Potion",

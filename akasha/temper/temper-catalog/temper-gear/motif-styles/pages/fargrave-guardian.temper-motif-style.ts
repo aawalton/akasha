@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const fargraveGuardian = {
-  id: "01a05fd7-41df-7b5b-8352-b8b1aa519af2",
+  id: "019e5a46-c492-7d8b-ae8b-91ed4938b8de",
   pageTypeSlug: "temper-motif-style",
   slug: "fargrave-guardian",
   title: "Fargrave Guardian",

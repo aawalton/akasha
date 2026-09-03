@@ -1,7 +1,7 @@
 import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
 
 export const heroismVanishHealthRestore = {
-  id: "01a05fd8-a449-7d5a-bfaa-c9f7bf4ab4ba",
+  id: "019e21f6-4067-7a27-b972-2d109d92401f",
   pageTypeSlug: "temper-potion-crafted",
   slug: "heroism-vanish-health-restore",
   title: "Essence of Invisible",

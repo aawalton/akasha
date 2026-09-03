@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const subcategoryPotions = {
-  id: "01a05fcc-d8b7-7c2c-8180-432a5f534e8f",
+  id: "019e2fcd-5ab4-7d87-aaa6-32ee8b6ca14d",
   pageTypeSlug: "temper-metric-tree",
   slug: "subcategory-potions",
   title: "Potions",

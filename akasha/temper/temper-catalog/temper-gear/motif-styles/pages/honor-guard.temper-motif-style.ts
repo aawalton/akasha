@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const honorGuard = {
-  id: "01a05fd7-41e1-7ba3-992f-23b49aa5cb10",
+  id: "019e5a46-c41f-73eb-a080-d91401b88c50",
   pageTypeSlug: "temper-motif-style",
   slug: "honor-guard",
   title: "Honor Guard",

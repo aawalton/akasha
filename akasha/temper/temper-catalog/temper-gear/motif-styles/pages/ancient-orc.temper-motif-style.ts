@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const ancientOrc = {
-  id: "01a05fd7-41d4-7712-8cc2-078d4c235d5c",
+  id: "019e5a46-c3b2-7de5-b05d-f28fdfe64eb7",
   pageTypeSlug: "temper-motif-style",
   slug: "ancient-orc",
   title: "Ancient Orc",

@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const dreadhorn = {
-  id: "01a05fd7-41db-79c8-a904-f0918a60b0c1",
+  id: "019e5a46-c3fe-74de-a286-db21cbd42ff3",
   pageTypeSlug: "temper-motif-style",
   slug: "dreadhorn",
   title: "Dreadhorn",

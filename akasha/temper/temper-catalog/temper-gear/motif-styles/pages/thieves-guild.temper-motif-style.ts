@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const thievesGuild = {
-  id: "01a05fd7-41ef-7f33-8b4a-6043a0a08e55",
+  id: "019e5a46-c3d2-7323-8b0b-7d7e11b4f5cb",
   pageTypeSlug: "temper-motif-style",
   slug: "thieves-guild",
   title: "Thieves Guild",

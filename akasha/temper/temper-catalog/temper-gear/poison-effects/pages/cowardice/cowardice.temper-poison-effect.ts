@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const cowardice = {
-  id: "01a05fd8-a438-799d-ac27-78ff956f45af",
+  id: "019e21f7-0f6b-7703-9110-bdf64a6df8de",
   pageTypeSlug: "temper-poison-effect",
   slug: "cowardice",
   title: "Cowardice",

@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const akaviri = {
-  id: "01a05fd7-41d1-7716-ab28-9ea6572ad81c",
+  id: "019e5a46-c3a3-76fe-8d73-a4f54445187a",
   pageTypeSlug: "temper-motif-style",
   slug: "akaviri",
   title: "Akaviri",

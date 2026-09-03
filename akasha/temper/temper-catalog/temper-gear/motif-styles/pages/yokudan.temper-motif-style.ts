@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const yokudan = {
-  id: "01a05fd7-41f2-7777-ae5d-40facf1a513b",
+  id: "019e5a46-c3a6-7cd2-b268-45fad9f4abc4",
   pageTypeSlug: "temper-motif-style",
   slug: "yokudan",
   title: "Yokudan",

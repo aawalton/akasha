@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const sapiarch = {
-  id: "01a05fd7-41ea-70b6-ae79-e09ac540d551",
+  id: "019e5a46-c40e-79cb-8aa9-3a4a9eb6fa76",
   pageTypeSlug: "temper-motif-style",
   slug: "sapiarch",
   title: "Sapiarch",

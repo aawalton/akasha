@@ -1,7 +1,7 @@
 import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
 
 export const enduranceFortitudeSavageryHealthRestoreStaminaRestore = {
-  id: "01a05fd8-a443-7c1e-ac0d-dd17f2a5ffc2",
+  id: "019e21f6-4064-7f1a-b15d-8c7656e32d5d",
   pageTypeSlug: "temper-potion-crafted",
   slug: "endurance-fortitude-savagery-health-restore-stamina-restore",
   title: "Essence of Weapon Crit",

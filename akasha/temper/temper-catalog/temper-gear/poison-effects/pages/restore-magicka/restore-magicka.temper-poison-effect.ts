@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const restoreMagicka = {
-  id: "01a05fd8-a43e-715c-a19d-7f61cf058a9e",
+  id: "019e21f7-0f5a-7596-a05b-4941725bbbb6",
   pageTypeSlug: "temper-poison-effect",
   slug: "restore-magicka",
   title: "Restore Magicka",

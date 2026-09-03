@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const trueSworn = {
-  id: "01a05fd7-41ef-73e5-a0d6-f4ce841cc2d6",
+  id: "019e5a46-c477-7d3b-93d3-6d1141d5ab94",
   pageTypeSlug: "temper-motif-style",
   slug: "true-sworn",
   title: "True-Sworn",

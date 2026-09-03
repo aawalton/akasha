@@ -1,7 +1,7 @@
 import type { TemperMine } from "../../temper-mine.page-type.ts"
 
 export const eso = {
-  id: "01a05fda-9353-7a30-bed8-2e6e74f252c5",
+  id: "01a01d1a-a9eb-7000-aece-4fc7f8d2be92",
   pageTypeSlug: "temper-mine",
   slug: "eso",
   title: "ESO",

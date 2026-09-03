@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const greymoor = {
-  id: "01a05fd7-41e0-79a0-9b5b-896e57e6b99b",
+  id: "019e5a46-c44d-734a-ae2f-108d0591d598",
   pageTypeSlug: "temper-motif-style",
   slug: "greymoor",
   title: "Greymoor",

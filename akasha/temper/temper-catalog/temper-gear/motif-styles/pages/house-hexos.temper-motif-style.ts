@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const houseHexos = {
-  id: "01a05fd7-41e1-7370-a23f-0539c4204305",
+  id: "019e5a46-c474-7a1a-a212-f68cd026535f",
   pageTypeSlug: "temper-motif-style",
   slug: "house-hexos",
   title: "House Hexos",

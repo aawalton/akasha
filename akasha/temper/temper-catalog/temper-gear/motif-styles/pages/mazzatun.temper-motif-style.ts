@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const mazzatun = {
-  id: "01a05fd7-41e4-7698-b120-54a39796a44b",
+  id: "019e5a46-c3e6-7263-819f-1fd80702601a",
   pageTypeSlug: "temper-motif-style",
   slug: "mazzatun",
   title: "Mazzatun",

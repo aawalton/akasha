@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const nighthollow = {
-  id: "01a05fd7-41e7-7fd3-8ab3-7fd0b3cad7fc",
+  id: "019e5a46-c46c-70f3-b49f-83f9887e1dae",
   pageTypeSlug: "temper-motif-style",
   slug: "nighthollow",
   title: "Nighthollow",

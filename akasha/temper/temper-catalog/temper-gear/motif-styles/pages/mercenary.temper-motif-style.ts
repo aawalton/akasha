@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const mercenary = {
-  id: "01a05fd7-41e5-75e9-839f-36c03a93c401",
+  id: "019e5a46-c3ad-70e0-97c7-d00478895610",
   pageTypeSlug: "temper-motif-style",
   slug: "mercenary",
   title: "Mercenary",

@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const apostle = {
-  id: "01a05fd7-41d4-716c-873f-2c2585adefee",
+  id: "019e5a46-c401-7158-a634-088df9f46b40",
   pageTypeSlug: "temper-motif-style",
   slug: "apostle",
   title: "Apostle",

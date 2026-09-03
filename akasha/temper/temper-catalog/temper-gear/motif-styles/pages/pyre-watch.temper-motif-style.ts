@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const pyreWatch = {
-  id: "01a05fd7-41e9-7be9-b58b-6feba2c5745c",
+  id: "019e5a46-c447-708e-867e-18dea4743ed9",
   pageTypeSlug: "temper-motif-style",
   slug: "pyre-watch",
   title: "Pyre Watch",

@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const blessedInheritor = {
-  id: "01a05fd7-41d6-7d9c-8347-8a33df1b7aa3",
+  id: "019e5a46-c4b3-7769-83f0-b2623fe3f48b",
   pageTypeSlug: "temper-motif-style",
   slug: "blessed-inheritor",
   title: "Blessed Inheritor",

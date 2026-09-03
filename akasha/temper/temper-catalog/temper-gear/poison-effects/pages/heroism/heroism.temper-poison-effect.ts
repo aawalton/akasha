@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const heroism = {
-  id: "01a05fd8-a43a-7bd8-9f64-60d9cf380aad",
+  id: "019e21f7-0f7d-7533-82cf-702e548dfd20",
   pageTypeSlug: "temper-poison-effect",
   slug: "heroism",
   title: "Heroism",

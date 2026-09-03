@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const pellitine = {
-  id: "01a05fd7-41e8-73cd-af14-18c87e3a2434",
+  id: "019e5a46-c42f-7e7b-b4fb-ce8005b5c97c",
   pageTypeSlug: "temper-motif-style",
   slug: "pellitine",
   title: "Pellitine",

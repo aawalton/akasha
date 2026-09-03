@@ -1,7 +1,7 @@
 import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
 
 export const intellectProphecySorceryMagickaRestore = {
-  id: "01a05fd8-a449-7608-9de7-5f58cf6a1554",
+  id: "019e21f6-4065-7d5c-a414-89a62ad66e2d",
   pageTypeSlug: "temper-potion-crafted",
   slug: "intellect-prophecy-sorcery-magicka-restore",
   title: "Essence of Spell Power",

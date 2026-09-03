@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const speed = {
-  id: "01a05fd8-a43f-784b-a270-008973ab8f80",
+  id: "019e21f7-0f76-7c03-b681-748d33683851",
   pageTypeSlug: "temper-poison-effect",
   slug: "speed",
   title: "Speed",

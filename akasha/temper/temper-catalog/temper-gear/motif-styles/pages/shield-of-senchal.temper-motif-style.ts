@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const shieldOfSenchal = {
-  id: "01a05fd7-41eb-7787-8496-85ca98f7b656",
+  id: "019e5a46-c441-72e8-9c91-d0653df36b69",
   pageTypeSlug: "temper-motif-style",
   slug: "shield-of-senchal",
   title: "Shield of Senchal",

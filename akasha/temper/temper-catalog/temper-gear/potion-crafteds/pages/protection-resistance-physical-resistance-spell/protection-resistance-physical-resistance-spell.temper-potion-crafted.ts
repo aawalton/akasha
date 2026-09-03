@@ -1,7 +1,7 @@
 import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
 
 export const protectionResistancePhysicalResistanceSpell = {
-  id: "01a05fd8-a44a-7651-8b1e-3d0186fe05d4",
+  id: "019e21f6-4040-729a-8efc-1b36559d376f",
   pageTypeSlug: "temper-potion-crafted",
   slug: "protection-resistance-physical-resistance-spell",
   title: "Essence of Physical Resistance",

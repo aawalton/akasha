@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const increaseArmor = {
-  id: "01a05fd8-a43a-7be7-b629-94b3938d1b7b",
+  id: "019e21f7-0f66-7ae7-8005-0e1df608a596",
   pageTypeSlug: "temper-poison-effect",
   slug: "increase-armor",
   title: "Increase Physical Resistance",

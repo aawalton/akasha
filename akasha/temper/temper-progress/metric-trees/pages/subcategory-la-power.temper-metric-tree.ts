@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const subcategoryLaPower = {
-  id: "01a05fcc-d8b5-7a25-92c5-0b3ddfdbc345",
+  id: "019e2fcd-598f-7464-ab98-9bc7d37aedd1",
   pageTypeSlug: "temper-metric-tree",
   slug: "subcategory-la-power",
   title: "LA Power",

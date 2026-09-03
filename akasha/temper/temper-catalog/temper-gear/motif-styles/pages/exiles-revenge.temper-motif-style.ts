@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const exilesRevenge = {
-  id: "01a05fd7-41de-7dd2-ad75-9303812e5947",
+  id: "019e5a46-c4ce-7a6d-8851-52d7fd0e9952",
   pageTypeSlug: "temper-motif-style",
   slug: "exiles-revenge",
   title: "Exile's Revenge",

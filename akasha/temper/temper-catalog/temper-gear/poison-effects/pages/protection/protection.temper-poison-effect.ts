@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const protection = {
-  id: "01a05fd8-a43d-79e2-94ea-cbfb1da41e3c",
+  id: "019e21f7-0f78-7519-8606-007c7e60fcce",
   pageTypeSlug: "temper-poison-effect",
   slug: "protection",
   title: "Protection",

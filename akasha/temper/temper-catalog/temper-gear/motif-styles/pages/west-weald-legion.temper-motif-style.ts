@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const westWealdLegion = {
-  id: "01a05fd7-41f1-7978-b36f-89cdda8eade7",
+  id: "019e5a46-c4c8-76ef-b6f8-3354743aca60",
   pageTypeSlug: "temper-motif-style",
   slug: "west-weald-legion",
   title: "West Weald Legion",

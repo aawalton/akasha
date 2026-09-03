@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const houseRedoran = {
-  id: "01a05fd7-41e2-7b7f-b2ba-0e8a4418a0a9",
+  id: "019e5a46-c3f6-7716-962c-64961ebca441",
   pageTypeSlug: "temper-motif-style",
   slug: "house-redoran",
   title: "House Redoran",

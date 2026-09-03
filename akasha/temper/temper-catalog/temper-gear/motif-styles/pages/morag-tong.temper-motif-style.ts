@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const moragTong = {
-  id: "01a05fd7-41e6-7e89-8b9e-0a7169c309c4",
+  id: "019e5a46-c3bd-7815-b1c9-1d043f131ac4",
   pageTypeSlug: "temper-motif-style",
   slug: "morag-tong",
   title: "Morag Tong",

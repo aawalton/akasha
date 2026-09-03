@@ -1,7 +1,7 @@
 import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
 
 export const fortitudeIntellectProphecyHealthRestoreMagickaRestore = {
-  id: "01a05fd8-a447-7941-8c85-eae234c2c9be",
+  id: "019e21f6-405d-700c-8033-aab4d9498ed0",
   pageTypeSlug: "temper-potion-crafted",
   slug: "fortitude-intellect-prophecy-health-restore-magicka-restore",
   title: "Essence of Spell Critical",

@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const seaGiant = {
-  id: "01a05fd7-41eb-7711-82bf-b051e2f6d22c",
+  id: "019e5a46-c450-7501-8cd7-48334107bbf8",
   pageTypeSlug: "temper-motif-style",
   slug: "sea-giant",
   title: "Sea Giant",

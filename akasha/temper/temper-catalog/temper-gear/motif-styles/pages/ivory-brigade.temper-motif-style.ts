@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const ivoryBrigade = {
-  id: "01a05fd7-41e3-7bcc-ad7a-1adb9306bdc1",
+  id: "019e5a46-c484-7061-8f55-15105f5e78ff",
   pageTypeSlug: "temper-motif-style",
   slug: "ivory-brigade",
   title: "Ivory Brigade",

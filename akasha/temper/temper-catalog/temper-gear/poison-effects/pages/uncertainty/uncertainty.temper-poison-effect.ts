@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const uncertainty = {
-  id: "01a05fd8-a43f-759d-9dd9-feb140a1662a",
+  id: "019e21f7-0f6f-7ad0-85d3-ac6bbe655d81",
   pageTypeSlug: "temper-poison-effect",
   slug: "uncertainty",
   title: "Uncertainty",

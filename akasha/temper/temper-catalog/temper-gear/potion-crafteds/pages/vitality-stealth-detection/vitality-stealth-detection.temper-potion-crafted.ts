@@ -1,7 +1,7 @@
 import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
 
 export const vitalityStealthDetection = {
-  id: "01a05fd8-a44b-7c8e-bb51-dfd7dbdbbe56",
+  id: "019e21f6-4048-78df-a946-724662503ccb",
   pageTypeSlug: "temper-potion-crafted",
   slug: "vitality-stealth-detection",
   title: "Essence of Detection",

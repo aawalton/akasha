@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const ravageHealth = {
-  id: "01a05fd8-a43d-7550-9456-2348f8b3cf96",
+  id: "019e21f7-0f57-7f81-81da-b399eeadb42b",
   pageTypeSlug: "temper-poison-effect",
   slug: "ravage-health",
   title: "Ravage Health",

@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const orderOfTheHour = {
-  id: "01a05fd7-41e7-79e6-86d9-f592e588324c",
+  id: "019e5a46-c3dc-72c3-afaf-3e897f0aeb65",
   pageTypeSlug: "temper-motif-style",
   slug: "order-of-the-hour",
   title: "Order of the Hour",

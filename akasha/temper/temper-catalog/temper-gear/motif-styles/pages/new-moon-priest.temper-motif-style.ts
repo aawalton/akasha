@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const newMoonPriest = {
-  id: "01a05fd7-41e6-72b9-992a-9f00390f4ce7",
+  id: "019e5a46-c43e-725a-8482-958f58a55ffe",
   pageTypeSlug: "temper-motif-style",
   slug: "new-moon-priest",
   title: "New Moon Priest",

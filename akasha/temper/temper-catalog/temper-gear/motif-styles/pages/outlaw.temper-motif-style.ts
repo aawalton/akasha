@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const outlaw = {
-  id: "01a05fd7-41e7-77ac-8b04-0c0b3ad10e3a",
+  id: "019e5a46-c3b5-7a34-b96b-05ecc6833b55",
   pageTypeSlug: "temper-motif-style",
   slug: "outlaw",
   title: "Outlaw",

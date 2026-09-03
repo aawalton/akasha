@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const malacath = {
-  id: "01a05fd7-41e4-77e1-acf6-e2b8c238dd7c",
+  id: "019e5a46-c3ba-7f3f-ba5a-bccc0bee726e",
   pageTypeSlug: "temper-motif-style",
   slug: "malacath",
   title: "Malacath",

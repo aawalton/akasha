@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const scribesOfMora = {
-  id: "01a05fd7-41ea-7fdd-8666-a33befe09721",
+  id: "019e5a46-c4b0-7808-b34c-a2b107e316ba",
   pageTypeSlug: "temper-motif-style",
   slug: "scribes-of-mora",
   title: "Scribes of Mora",

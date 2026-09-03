@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const subcategoryMitigation = {
-  id: "01a05fcc-d8b7-79fa-8223-16a97f1e8910",
+  id: "019e2fcd-59e7-76b5-a049-6675d833b256",
   pageTypeSlug: "temper-metric-tree",
   slug: "subcategory-mitigation",
   title: "Mitigation",

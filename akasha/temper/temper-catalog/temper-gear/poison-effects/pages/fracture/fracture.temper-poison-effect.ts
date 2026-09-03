@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const fracture = {
-  id: "01a05fd8-a439-7130-be8b-5f7be8a02d8e",
+  id: "019e21f7-0f68-75f6-9e3d-fc3dc0eeaa27",
   pageTypeSlug: "temper-poison-effect",
   slug: "fracture",
   title: "Fracture",

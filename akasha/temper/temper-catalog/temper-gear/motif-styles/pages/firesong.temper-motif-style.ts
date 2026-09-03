@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const firesong = {
-  id: "01a05fd7-41df-73bc-9427-ed82a3d865db",
+  id: "019e5a46-c4aa-77ed-98d5-24d3daa03b44",
   pageTypeSlug: "temper-motif-style",
   slug: "firesong",
   title: "Firesong",

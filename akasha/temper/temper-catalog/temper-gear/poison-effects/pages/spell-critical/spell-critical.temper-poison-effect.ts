@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const spellCritical = {
-  id: "01a05fd8-a43f-70ae-bd34-aefd2a04e3ca",
+  id: "019e21f7-0f6e-7a42-931c-f0a5f1850ed0",
   pageTypeSlug: "temper-poison-effect",
   slug: "spell-critical",
   title: "Spell Critical",

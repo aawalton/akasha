@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const deadKeeper = {
-  id: "01a05fd7-41d9-746f-8d1e-ec0288418de0",
+  id: "019e5a46-c4b9-76dd-862a-8a73e36a670b",
   pageTypeSlug: "temper-motif-style",
   slug: "dead-keeper",
   title: "Dead Keeper",

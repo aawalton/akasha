@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const subcategoryTargetDamage = {
-  id: "01a05fcc-d8b8-7fe0-987f-0de5377a8fb1",
+  id: "019e2fcd-5a8c-74b7-8326-cdac36c56d6c",
   pageTypeSlug: "temper-metric-tree",
   slug: "subcategory-target-damage",
   title: "Damage",

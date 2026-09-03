@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const defile = {
-  id: "01a05fd8-a438-7aab-8a7e-16d39c7eaa3f",
+  id: "019e21f7-0f7c-7854-a0c1-63580dc90e94",
   pageTypeSlug: "temper-poison-effect",
   slug: "defile",
   title: "Defile",

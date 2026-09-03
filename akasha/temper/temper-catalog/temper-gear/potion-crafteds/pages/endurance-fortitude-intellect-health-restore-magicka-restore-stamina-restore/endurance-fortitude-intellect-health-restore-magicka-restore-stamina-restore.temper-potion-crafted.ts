@@ -1,7 +1,7 @@
 import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
 
 export const enduranceFortitudeIntellectHealthRestoreMagickaRestoreStaminaRestore = {
-  id: "01a05fd8-a442-7fda-8a63-7c172a5a0d6d",
+  id: "019e21f6-404e-775b-9146-bebdd4e0704b",
   pageTypeSlug: "temper-potion-crafted",
   slug: "endurance-fortitude-intellect-health-restore-magicka-restore-stamina-restore",
   title: "Essence of Health",

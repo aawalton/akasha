@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const shardborn = {
-  id: "01a05fd7-41eb-78a3-8cf1-a4e42c3d071b",
+  id: "019e5a46-c4c5-786a-8bc5-de893e45d956",
   pageTypeSlug: "temper-motif-style",
   slug: "shardborn",
   title: "Shardborn",

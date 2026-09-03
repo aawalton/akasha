@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const draugr = {
-  id: "01a05fd7-41da-7c2c-8ec8-822344e3ab03",
+  id: "019e5a46-c3d7-7385-b3ff-c30448a6742a",
   pageTypeSlug: "temper-motif-style",
   slug: "draugr",
   title: "Draugr",

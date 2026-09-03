@@ -1,7 +1,7 @@
 import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
 
 export const hindrance = {
-  id: "01a05fd8-a43a-7f6c-9852-7b2637bafbce",
+  id: "019e21f7-0f77-7884-82d0-ee5f2a49b5fe",
   pageTypeSlug: "temper-poison-effect",
   slug: "hindrance",
   title: "Hindrance",

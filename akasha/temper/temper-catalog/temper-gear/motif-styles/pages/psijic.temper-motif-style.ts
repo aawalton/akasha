@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const psijic = {
-  id: "01a05fd7-41e8-7fcb-99d7-ea4a0637a4ae",
+  id: "019e5a46-c40b-7dc0-a409-6c0d459ed0b7",
   pageTypeSlug: "temper-motif-style",
   slug: "psijic",
   title: "Psijic",

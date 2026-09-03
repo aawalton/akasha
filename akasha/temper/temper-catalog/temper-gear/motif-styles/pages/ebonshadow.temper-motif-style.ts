@@ -1,7 +1,7 @@
 import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 
 export const ebonshadow = {
-  id: "01a05fd7-41dd-7377-893f-145e00d773ab",
+  id: "019e5a46-c403-7fa5-800f-4f93759d1d2a",
   pageTypeSlug: "temper-motif-style",
   slug: "ebonshadow",
   title: "Ebonshadow",

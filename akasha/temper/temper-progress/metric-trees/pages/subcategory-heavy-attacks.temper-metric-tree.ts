@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const subcategoryHeavyAttacks = {
-  id: "01a05fcc-d8b5-79ac-b072-f7ca6afca036",
+  id: "019e2fcd-59a9-7d6f-83e8-8779445a10d1",
   pageTypeSlug: "temper-metric-tree",
   slug: "subcategory-heavy-attacks",
   title: "Heavy Attacks",
