@@ -10,7 +10,6 @@ import {
   planAstGrepWatch,
 } from "../../../akasha/checks/cluster-checks/modules/ast-grep-rules/ast-grep-rules.module.code.ts"
 import { findFiles } from "../../../akasha/checks/cluster-checks/modules/file-finding/file-finding.module.code.ts"
-import type { CheckConfig } from "./check-configs-types"
 
 const sgconfigSchema = z.looseObject({ ruleDirs: z.array(z.string()).default([]) })
 const packageJsonSchema = z.looseObject({ name: z.string().optional() })
@@ -97,20 +96,4 @@ export function astGrepWatchPlan(codeRoot: string): ReturnType<typeof planAstGre
     listAstGrepWorkspaces(codeRoot)
   )
   return gaps.length === 0 ? plan : { seeds: plan.seeds, repoWide: true }
-}
-
-export const astGrepCheck = (codeRoot: string): CheckConfig => {
-  const plan = astGrepWatchPlan(codeRoot)
-  return {
-    name: "ast-grep",
-    dispatchNodes: [
-      ...plan.seeds,
-      "ts-file:instructions:infra/cluster-checks/src/checks/check-ast-grep.ts",
-      "ts-file:instructions:tools/lib/check-workflow/ast-grep-rules.ts",
-      "ts-file:instructions:tools/lib/check-workflow/check-configs-ast-grep.ts",
-    ],
-    dispatchNodeTypes: ["yaml-file", "yml-file"],
-    alwaysRun: plan.repoWide,
-    script: "infra/cluster-checks/src/checks/check-ast-grep.ts",
-  }
 }
