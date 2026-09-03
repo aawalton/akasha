@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const receivingPositiveSignal = {
   id: "01a06594-c67c-7009-b01e-978647cc71dd",
