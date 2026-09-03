@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "All renames DONE (f3f078c0cf, 51be81b353, 764498d4dd, 4c2fc57b38). The 8 term hits name real files and keys outside the tree: barred sense, unreachable name, so they land judged rather than renamed. 6 of 77 ported, each verified identical to source after formatting. A landing is ATOMIC — manifest, partSlugs and both bodies in ONE `akasha write` — and they contend, so landings serialize. 18 leaves left, then topological order; `harness-call.ts` is the hinge. Never repoint the 4 symlinks first.",
+        "All renames DONE. 9 modules in `akasha/editor-extension` (7 leaf ports + 2 net-new); folders, partSlugs and exports agree. Of 77 src files 24 are leaves, 17 unported. `CommandServerClient` dissolved to `servingFrom` at 6ccb189fc9, so its leaf is portable now — all 9 tests hold unchanged and the wire key the server reads is pinned. `ObservationWriterClient` is the last class; its test comes FIRST because it has none and it writes Alan's observations. A landing is ATOMIC and landings serialize.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
