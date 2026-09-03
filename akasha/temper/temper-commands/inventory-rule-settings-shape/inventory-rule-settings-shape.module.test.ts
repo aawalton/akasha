@@ -30,8 +30,8 @@ test("a key written by a newer temper is carried through rather than refused", (
     rules: [{ id: "a", categoryId: "weapons", action: "sell", laterKey: 9 }],
     laterSlice: { anything: true },
   })
-  expect((held as Record<string, unknown>).laterSlice).toEqual({ anything: true })
-  expect((held.rules[0] as Record<string, unknown>).laterKey).toBe(9)
+  expect(held).toMatchObject({ laterSlice: { anything: true } })
+  expect(held.rules[0]).toMatchObject({ laterKey: 9 })
 })
 
 test("item rules and buy rules are read where they are there", () => {

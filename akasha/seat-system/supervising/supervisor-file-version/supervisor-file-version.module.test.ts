@@ -7,6 +7,7 @@ import {
   importGraph,
   NOTHING_DELIVERED,
   readTextOrNull,
+  type VersionWatch,
 } from "./supervisor-file-version.module.code.ts"
 
 const TREE: Readonly<Record<string, string>> = {
@@ -77,7 +78,7 @@ test("a fresh version waits for its debounce before it is delivered", () => {
 })
 
 test("a version that keeps changing is delivered once it is overdue", () => {
-  let watch = { delivered: "v1", steady: null, changedSinceMs: null }
+  let watch: VersionWatch = { delivered: "v1", steady: null, changedSinceMs: null }
   let at = 0
   let held = decideVersionDelivery(watch, "v2", at)
   expect(held.deliver).toBe(false)

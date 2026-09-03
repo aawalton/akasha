@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { asPid } from "../supervisor-exec/supervisor-exec.module.code.ts"
 import {
   buildHandoffEnv,
   CLAUDE_ACCOUNT_ENV,
@@ -13,7 +14,7 @@ import {
 } from "./supervisor-handoff-env.module.code.ts"
 
 const WHOLE = {
-  pid: 4242,
+  pid: asPid(4242),
   processId: "p",
   account: "aawalton",
   configDir: "/tmp/config",

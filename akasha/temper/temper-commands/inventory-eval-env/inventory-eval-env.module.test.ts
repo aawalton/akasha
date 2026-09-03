@@ -73,7 +73,7 @@ test("what only the running game knows is answered unknown rather than guessed",
   const env = envOf(knowing({}))
   expect(env.getCurrentCharacter()).toBe("unknown")
   expect(env.getConsumableStock(1, "111")).toBe("unknown")
-  expect(env.isTraitResearched(1, 2, "111")).toBe("unknown")
+  expect(env.isTraitResearched("111", 2, "Sharpened")).toBe("unknown")
   expect(env.getTransmuteCrystalCap()).toBe("unknown")
 })
 

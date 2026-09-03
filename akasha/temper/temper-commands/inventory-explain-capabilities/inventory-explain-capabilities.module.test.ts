@@ -7,8 +7,8 @@ import {
   resolveItemFromInventory,
 } from "./inventory-explain-capabilities.module.code.ts"
 
-function itemAt(itemId: number, name: string): Record<string, unknown> {
-  return { itemId, name, stackCount: 1 }
+function itemAt(itemId: number, itemName: string): Record<string, unknown> {
+  return { itemId, itemName, stackCount: 1 }
 }
 
 const DB = {
@@ -61,13 +61,13 @@ describe("explainCapabilities", () => {
 describe("resolveItemFromInventory", () => {
   test("without a character it takes the most recently scanned place", () => {
     const found = resolveItemFromInventory(caps, DB, 45336)
-    expect(found?.item.name).toBe("newer ore")
+    expect(found?.item.itemName).toBe("newer ore")
     expect(found?.location).toBe("backpack")
   })
 
   test("with a character it takes that character alone", () => {
     const found = resolveItemFromInventory(caps, DB, 45336, "1000")
-    expect(found?.item.name).toBe("worn ore")
+    expect(found?.item.itemName).toBe("worn ore")
     expect(found?.location).toBe("worn")
   })
 
@@ -88,13 +88,13 @@ describe("allBagItems", () => {
   test("reaches every item in every bag of every place", () => {
     expect(
       allBagItems(caps, DB)
-        .map((one) => one.item.name)
+        .map((one) => one.item.itemName)
         .sort()
     ).toEqual(["banked ore", "newer ore", "packed ore", "worn ore"])
   })
 
   test("carries the place each item is held in", () => {
-    const held = new Map(allBagItems(caps, DB).map((one) => [one.item.name, one.location]))
+    const held = new Map(allBagItems(caps, DB).map((one) => [one.item.itemName, one.location]))
     expect(held.get("worn ore")).toBe("worn")
     expect(held.get("packed ore")).toBe("backpack")
     expect(held.get("banked ore")).toBe("bank")

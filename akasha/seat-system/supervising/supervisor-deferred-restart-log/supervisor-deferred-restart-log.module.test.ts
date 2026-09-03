@@ -63,7 +63,7 @@ test("an override says the children it is overriding", async () => {
   const said: string[] = []
   logPastCliffOverride(
     3_600_000,
-    () => Promise.resolve([{ pid: 7, ageMs: 60_000, cmdline: "claude" }]),
+    () => Promise.resolve([{ pid: "7", ageMs: 60_000, cmdline: "claude" }]),
     (line) => said.push(line)
   )
   await Bun.sleep(1)

@@ -72,7 +72,7 @@ describe("wordFilling", () => {
   test("refuses the same thing said twice over", () => {
     const read = wordsIn(["--contact", "mary", "mary"], VALUED, SWITCHES)
     if ("refused" in read) throw new Error("this reads")
-    expect("refused" in wordFilling(read, "--contact", "a contact")).toBe(true)
+    expect(wordFilling(read, "--contact", "a contact")).toHaveProperty("refused")
   })
 })
 

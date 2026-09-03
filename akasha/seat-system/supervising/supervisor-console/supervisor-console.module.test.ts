@@ -39,7 +39,9 @@ test("a line the page refuses lands in the fallback rather than being lost", () 
   const fell: string[] = []
   let refusal: string | null = "the page is full"
   const writer = { write: () => undefined, refused: () => refusal }
-  const sink = pageSink(writer as never, "a", (level, text) => fell.push(`${level} ${text}`))
+  const sink = pageSink(writer as never, "a", (level, text) => {
+    fell.push(`${level} ${text}`)
+  })
   sink("LOG", "one")
   expect(fell).toHaveLength(2)
   expect(fell[0]).toContain(SUPERVISOR_CONSOLE_SOURCE)
@@ -54,14 +56,18 @@ test("a line the page refuses lands in the fallback rather than being lost", () 
 test("a page that refuses nothing sends nothing to the fallback", () => {
   const fell: string[] = []
   const writer = { write: () => undefined, refused: () => null }
-  pageSink(writer as never, "a", (level, text) => fell.push(`${level} ${text}`))("LOG", "one")
+  pageSink(writer as never, "a", (level, text) => {
+    fell.push(`${level} ${text}`)
+  })("LOG", "one")
   expect(fell).toHaveLength(0)
 })
 
 test("a redirected console is put back as it was", () => {
   const seen: string[] = []
   const before = console.log
-  const restore = redirectConsoleToSink((level, text) => seen.push(`${level} ${text}`))
+  const restore = redirectConsoleToSink((level, text) => {
+    seen.push(`${level} ${text}`)
+  })
   console.log("said", 1)
   console.error(new Error("thrown"))
   restore()

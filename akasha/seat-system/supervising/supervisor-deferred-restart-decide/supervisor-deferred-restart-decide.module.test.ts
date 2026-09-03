@@ -13,7 +13,7 @@ import {
 
 test("one idle tick short of the streak does not fire", () => {
   const held = decideDeferredRestart(INITIAL_DEFERRED_RESTART_STATE, { idle: true })
-  expect(held.fire).toBe(IDLE_STREAK_TO_RESTART === 1)
+  expect(held.fire).toBe(false)
   expect(held.state.idleStreak).toBe(1)
 })
 
