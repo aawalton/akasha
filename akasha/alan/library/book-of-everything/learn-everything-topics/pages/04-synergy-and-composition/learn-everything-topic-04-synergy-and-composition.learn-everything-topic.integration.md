@@ -1,0 +1,4 @@
+- **Game Design (parent)** (strong, bidirectional) — a mechanic-heavy leaf reconstructed player-side; the system was Aura's design.
+- **Engagement Loops and Re-optimization** (medium) — summed-pairwise-synergy lineups are a concrete way a composition space re-opens the optimum. ↔ sibling leaf `01-...`.
+- **Systems thinking & optimization** (strong) — brute-forced 6-choose-3 and located the synergy peaks; grasped hidden-synergy-map **discovery-not-disclosure**.
+- **Theory of Play, Games & Fun** (medium, bidirectional) — composition depth is a meaningful-choices source. ↔ `04-human-life/.../07-play-games-and-fun`.

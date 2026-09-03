@@ -1,0 +1,4 @@
+- The untested technical axis: the **solar/lunar reckoning problem** and **intercalation as a locus of authority** (who controls the leap-month / leap-day — observational sighting vs mathematized computus). Derivable from his coordination core? This is the breadth probe that would confirm or bracket a clean D4 across the *whole* field.
+- The **field frontier** (the D4→D5 line): the contested status of the cyclical/linear and eternal-return theses, costly-signaling theory's reach — can he tell the settled questions from the live ones in the academic study of sacred time?
+- The **total-power integral** he flagged as unmeasurable: is there a principled way to compare rare-high-potency vs frequent-low-potency ritual regimes? He left it standing honestly; it's a real open thread.
+- Name the second-order mechanism himself next time (common knowledge) rather than reaching its doorstep — a small recall-vs-rebuild check on his strongest area.

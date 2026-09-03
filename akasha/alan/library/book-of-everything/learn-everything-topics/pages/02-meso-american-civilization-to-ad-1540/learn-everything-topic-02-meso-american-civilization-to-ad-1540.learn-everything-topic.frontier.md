@@ -1,0 +1,1 @@
+The whole culture area as a unit was never assessed — the interview probed one descendant (the Aztec/Mexica and the Spanish conquest, scored on the 06 child) deeply and left the rest of the field cold. The connective tissue that makes "Mesoamerica" one civilization is seeded as the next bite on the 01 overview child.

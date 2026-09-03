@@ -1,0 +1,4 @@
+- **Game Design (parent)** (strong, bidirectional) — one of the parent's four principle leaves; the precondition that makes progression *feel* real.
+- **Theory of Play, Games & Fun** (strong, bidirectional) — realness-of-progress is a fun axiom: meaningless (non-canonical) progress isn't fun. ↔ `04-human-life/.../07-play-games-and-fun`.
+- **Software architecture / his engineering principles** (strong) — decomposed scratch-play to keep build-speed via a **dev-server in a worktree** while protecting the one canonical save; user-scoped saves + a test user is an isolation pattern.
+- **Authoring and GM Doctrine** (medium) — both are authoring-stance leaves about owning the consequential frame. ↔ sibling leaf `06-...`.

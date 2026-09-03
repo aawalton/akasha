@@ -1,0 +1,1 @@
+_Opened-and-waiting:_ opening probe delivered this session (cell drawn as a fresh leaf); Alan did not answer before session close. Thread is opened but deliberately left unscored — resume by re-cueing the same probe.

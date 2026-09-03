@@ -1,0 +1,4 @@
+- Materialize and score the **self-measurement child cell** (see Integration) — the D5 (Master) work lives there and is fully evidenced; this general node must not carry it directly.
+- Probe the general node's **breadth** to test its D4→D5 line: instrument / transduction physics, standards & traceability (the 2019 SI constant-based redefinition), and general control across *engineered* systems beyond self-application.
+- The **field frontier** as live questions: representational-theory vs operationalism vs realism about quantities; the observe-vs-measure line; the unsolved QM measurement problem — can he tell the field's settled questions from its live ones the way he did for his OWN system?
+- The **rolling-shutter** problem he was handed but the thread didn't close: serially sampling a fast-moving emotional state distorts it (threads 1–6 move while he reads thread 7). What's his estimator for a state that changes faster than he can serialize it?

@@ -1,0 +1,4 @@
+1. **The Bhagavad Gita** (his own chosen next bite) — Arjuna frozen in the chariot at Kurukshetra, refusing to act; Krishna on duty, on the self, and on what death means if the self does not truly end. The turning moment Ali is reading him into now.
+2. From the Gita, the **ātman/Brahman self-spectrum** (Advaita → Vishishtadvaita → Dvaita) and "what is reborn" — the metaphysical core he could not reconstruct.
+3. Eventually the **six darśanas** as competing theories of *what binds* and *what frees*, and the Veda-authority unifier that makes them one field rather than six.
+4. **The karma/caste collision** (the live next probe, posed but unanswered): if present birth is the just settlement of past deeds, karma sacralized caste hierarchy — does that break the "reincarnation reduces in-group priority" thesis, and what variable decides whether a rebirth-culture tips toward universal empathy or hard hierarchy?

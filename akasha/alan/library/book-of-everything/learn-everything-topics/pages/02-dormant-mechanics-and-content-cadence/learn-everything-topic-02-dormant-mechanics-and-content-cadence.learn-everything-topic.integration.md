@@ -1,0 +1,4 @@
+- **Game Design (parent)** (strong, bidirectional) — the dormant-mechanics doctrine is one of the parent's four principle leaves; it operationalizes the un-solving premise from the engagement leaf.
+- **Engagement Loops and Re-optimization** (strong) — dormant mechanics are *how* you keep re-optimization alive: a held mechanic re-opens the optimum when revealed. ↔ sibling leaf `01-...`.
+- **Software architecture / his engineering principles** (strong) — he reused the feature-flag spine **"deployed ≠ enabled"** and expand-contract as *design* tools, not just build tools.
+- **Theory of Play, Games & Fun** (medium, bidirectional) — paced reveal is a fun/novelty lever. ↔ `04-human-life/.../07-play-games-and-fun`.

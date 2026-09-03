@@ -1,0 +1,3 @@
+- **Game Design (parent)** (strong, bidirectional) — a mechanic-heavy leaf where he reconstructed Aura's design player-side; sits below the parent's integrative doctrine.
+- **Theory of Play, Games & Fun** (medium, bidirectional) — sinks and opportunity cost exist to preserve meaningful choices over time. ↔ `04-human-life/.../07-play-games-and-fun`.
+- **Systems thinking & optimization** (strong) — reverse-engineered the cost-curve asymmetry (cheap-early / expensive-late → catch-up grind) as an optimization read.

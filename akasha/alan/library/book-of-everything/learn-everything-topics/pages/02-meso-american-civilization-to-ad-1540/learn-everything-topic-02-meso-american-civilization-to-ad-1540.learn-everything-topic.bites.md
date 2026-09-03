@@ -1,0 +1,2 @@
+- Open the culture-area substrate via the 01 overview child (calendars / numerals / ballgame / shared pantheon diffusion).
+- The sibling polities never opened: Olmec (02), Classic Maya (03), Teotihuacan (04), Toltec/Tula (05).

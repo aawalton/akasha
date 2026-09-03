@@ -1,0 +1,2 @@
+- Gate-design patterns: one-way latches, gate-on-a-mechanic-independent-metric.
+- Content-pipeline models in live-service games — how cadence is scheduled and staged.

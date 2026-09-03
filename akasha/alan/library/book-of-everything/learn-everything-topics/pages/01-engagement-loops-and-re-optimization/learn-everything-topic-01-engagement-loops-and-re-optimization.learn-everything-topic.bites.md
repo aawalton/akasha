@@ -1,0 +1,3 @@
+- Idle/incremental progression-curve patterns (the genre he's actually building in).
+- The compulsion-loop / appointment-mechanic literature — to attach field names to his derived principle.
+- Reward-schedule and session-pacing vocabulary, so recognition catches up to generation.

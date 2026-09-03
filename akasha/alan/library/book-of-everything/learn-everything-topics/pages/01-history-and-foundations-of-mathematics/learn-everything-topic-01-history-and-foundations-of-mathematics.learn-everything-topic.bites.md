@@ -1,0 +1,3 @@
+- Derive the halting / diagonal construction from scratch (the predictor-that-contradicts-itself), and connect it explicitly to Gödel's incompleteness and Chaitin's Ω — the "one diagonal, three theorems" unification. This is the bracket-from-above turned into a study target.
+- Expand this section JIT: a **limits / metamathematics** child (Gödel–Turing–Chaitin) distinct from the **history** and the **foundations programs** (logicism / formalism / intuitionism / set theory), most of which went unprobed.
+- The two-walls result: is the within-branch barrier to self-prediction *really* overdetermined (Born-rule ∥ halting), or do the two walls collapse into one under a computational account of measurement?

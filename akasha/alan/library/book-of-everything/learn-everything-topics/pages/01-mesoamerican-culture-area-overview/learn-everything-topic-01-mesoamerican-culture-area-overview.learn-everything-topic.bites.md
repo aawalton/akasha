@@ -1,0 +1,3 @@
+- The Calendar Round: how the 260-day and 365-day counts interlock and why the 52-year cycle matters.
+- Base-20 bar-and-dot numerals and the Maya concept of positional zero.
+- The ballgame, the shared pantheon (Quetzalcoatl / Tlaloc), and monumental pyramids as diffusion markers across non-contemporaneous polities.

@@ -1,0 +1,3 @@
+- **Game Design (parent)** (strong, bidirectional) — one of the parent's four principle leaves; the authoring doctrine that governs how difficulty and reveals are placed.
+- **Theory of Play, Games & Fun** (strong, bidirectional) — the no-self-trap rule and the anticipation hook are play-psychology principles (agency, forward-pull). ↔ `04-human-life/.../07-play-games-and-fun`.
+- **Progress Realness and Save Design** (medium) — both are authoring-stance leaves: the designer owns the consequential frame the player acts inside. ↔ sibling leaf `07-...`.

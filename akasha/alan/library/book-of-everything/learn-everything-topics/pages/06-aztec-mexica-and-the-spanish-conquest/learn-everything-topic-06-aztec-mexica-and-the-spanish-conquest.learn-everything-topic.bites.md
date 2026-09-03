@@ -1,0 +1,3 @@
+- The internal structure of the Aztec state: the Triple Alliance, the altepetl, the tlatoani, the tribute economy's actual mechanics.
+- Tenochtitlan's infrastructure (chinampas, causeways, the lake system) and what the city's scale implies about the polity.
+- The post-conquest transition: encomienda and how Spain repurposed tribute-hegemony.

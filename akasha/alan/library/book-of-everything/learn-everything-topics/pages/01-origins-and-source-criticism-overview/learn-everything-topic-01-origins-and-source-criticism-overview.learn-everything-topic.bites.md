@@ -1,0 +1,3 @@
+- The library/world re-entanglement left warm: does population × carrying-capacity (the cultural-accumulation loading rate) collapse the Holocene-vs-Eemian "library" door back into a slow climate story, or stay independent?
+- The two-tier split of "civilization": monumentality + social complexity (no surplus-class) vs cities/states/writing (a food-freed scribe class) — where each tier's real prerequisite sits.
+- Decipherment as an inverse problem (Linear A still unread) — the self-bridgeable cross-link to the Information Theory leaf.

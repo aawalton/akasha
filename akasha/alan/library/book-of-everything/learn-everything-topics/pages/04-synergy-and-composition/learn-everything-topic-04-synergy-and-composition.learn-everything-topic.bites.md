@@ -1,0 +1,2 @@
+- Synergy-graph design — authoring the pairing space rather than solving it.
+- How composition spaces are tuned to stay un-brute-forceable.

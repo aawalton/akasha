@@ -1,0 +1,2 @@
+- The GM/encounter-authoring craft — its full reveal and difficulty-placement toolkit.
+- Reveal-pacing patterns (silent-discovery vs informed-consent, teaser hooks).

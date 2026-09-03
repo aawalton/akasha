@@ -1,0 +1,2 @@
+- Balance-gating patterns — designing the gate, not just reading it.
+- Dominant-strategy elimination as a deliberate design move.

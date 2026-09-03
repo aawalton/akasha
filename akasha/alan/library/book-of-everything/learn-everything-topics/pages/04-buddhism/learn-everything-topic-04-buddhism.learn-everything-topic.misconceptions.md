@@ -1,0 +1,1 @@
+None this session — his reconstruction was structurally correct. His "energy conserved rather than the identity itself" framing is a sound analogy for dependent origination: what persists is the causal / moral continuity, not a self-substance.

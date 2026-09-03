@@ -1,0 +1,2 @@
+- Economy and sink design — geometric cost curves, the sink-vs-decision dominant-strategy fix.
+- Cost-curve math; prestige-layer balancing.

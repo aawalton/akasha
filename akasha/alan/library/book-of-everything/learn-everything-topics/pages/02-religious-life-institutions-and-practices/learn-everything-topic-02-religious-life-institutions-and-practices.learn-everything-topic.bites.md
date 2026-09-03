@@ -1,0 +1,3 @@
+- Expand the node into the institutional taxonomy (monasticism, sacrifice, pilgrimage, priestly succession) and test whether each derives from the constitutive-ritual core — the formal false-compactness probe on a top-of-Expert node.
+- Surface the ritual-vs-coercion co-evolution debate: does "ritual constitutes community" survive as a discovery, or is it a chosen origin story?
+- Have him sort his own claims into definitional vs empirical — the bridge toward seeing his framework's limits (the D5 move).

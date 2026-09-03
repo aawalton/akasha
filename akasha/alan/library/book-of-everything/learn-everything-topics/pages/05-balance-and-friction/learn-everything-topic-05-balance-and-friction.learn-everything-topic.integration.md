@@ -1,0 +1,4 @@
+- **Game Design (parent)** (strong, bidirectional) — a mechanic-heavy leaf reconstructed player-side; the gating was Aura's design.
+- **Synergy and Composition** (strong) — negative synergy and friction are the same composition surface read from the cost side. ↔ sibling leaf `04-...`.
+- **Theory of Play, Games & Fun** (medium, bidirectional) — friction and dominant-strategy avoidance protect meaningful choice. ↔ `04-human-life/.../07-play-games-and-fun`.
+- **Systems thinking & optimization** (strong) — opportunity cost and dominant-strategy reasoning are his optimization vocabulary applied to balance.
