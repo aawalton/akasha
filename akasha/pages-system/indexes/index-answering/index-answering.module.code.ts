@@ -13,7 +13,7 @@ import type { Value } from "@akasha/pages-system/page-value"
 import {
   entryShapesAt,
   type Schema as Filed,
-  filePropertiesAt,
+  fileKeysAt,
   pageTypesIn,
   type SidecarsBy,
   schemaAt,
@@ -49,7 +49,7 @@ export type Answering = {
   readonly entryShapesAt: () => ReadonlySet<string>
   readonly everyOfType: (pageTypeSlug: string) => readonly Listed[]
   readonly everyPath: () => readonly string[]
-  readonly filePropertiesAt: () => ReadonlyMap<string, string | null>
+  readonly fileKeysAt: () => ReadonlyMap<string, string | null>
   readonly idsNaming: (id: string, propertySlug: string) => readonly string[]
   readonly importersOf: (path: string) => readonly string[]
   readonly kindsUnder: (slug: string) => ReadonlySet<string>
@@ -82,7 +82,7 @@ export function answeringOver(reading: Reading, root: string | null, pageOf: Pag
     entryShapesAt: () => entryShapesAt(reading),
     everyOfType: (pageTypeSlug) => everyOfType(reading, pageTypeSlug),
     everyPath: () => everyPath(reading),
-    filePropertiesAt: () => filePropertiesAt(reading),
+    fileKeysAt: () => fileKeysAt(reading),
     idsNaming: (id, propertySlug) => idsNaming(reading, id, propertySlug),
     importersOf: (path) => importersOf(root, path, reading),
     kindsUnder: (slug) => kindsUnder(slug, reading, pageOf),

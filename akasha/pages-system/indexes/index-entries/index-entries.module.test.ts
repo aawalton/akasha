@@ -3,8 +3,8 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { readingAt } from "../index-surface/index-surface.module.code.ts"
 import {
-  filePropertiesAt,
-  filePropertiesIn,
+  fileKeysAt,
+  fileKeysIn,
   pathsOf,
   schemaAt,
   uniquePropertiesAt,
@@ -34,7 +34,7 @@ test("the properties held in a file are the ones the file shape is", () => {
     { id: "3", pageTypeSlug: "domain", slug: "code" },
   ]
 
-  expect([...filePropertiesIn(values)]).toEqual([["code", null]])
+  expect([...fileKeysIn(values)]).toEqual([["code", null]])
 })
 
 test("a file property is filed under the key a page carries rather than under its own slug", () => {
@@ -43,7 +43,7 @@ test("a file property is filed under the key a page carries rather than under it
   ]
   const value = { id: A, pageTypeSlug: "type-declaration", slug: "a", d: "ts" }
 
-  expect([...filePropertiesIn(values)]).toEqual([["d", null]])
+  expect([...fileKeysIn(values)]).toEqual([["d", null]])
   expect(pathsOf(value, "/repo/a.type-declaration.ts", "/repo", filedAs({ d: null }))).toEqual([
     "a.type-declaration.ts",
     "a.type-declaration.d.ts",
@@ -62,7 +62,7 @@ test("a property whose name is written in camel is filed under its kebab slug", 
 test("the properties held in a file are read from the schema the index carries", () => {
   const { root } = grounded()
 
-  expect([...filePropertiesAt(readingAt(root))]).toEqual([["code", null]])
+  expect([...fileKeysAt(readingAt(root))]).toEqual([["code", null]])
 })
 
 test("a property stating the name its file stands under claims that name in the page's own directory", () => {
@@ -224,7 +224,7 @@ test("a schema line stating a file name says the property is held in a file of t
     fileName: "package.json",
   })
 
-  expect([...filePropertiesAt(readingAt(index))]).toEqual([["manifest", "package.json"]])
+  expect([...fileKeysAt(readingAt(index))]).toEqual([["manifest", "package.json"]])
 })
 
 test("a stated file name holds a property in a file whatever page type the property is", () => {
@@ -236,5 +236,5 @@ test("a stated file name holds a property in a file whatever page type the prope
     fileName: "package.json",
   })
 
-  expect([...filePropertiesAt(readingAt(index))]).toEqual([["manifest", "package.json"]])
+  expect([...fileKeysAt(readingAt(index))]).toEqual([["manifest", "package.json"]])
 })

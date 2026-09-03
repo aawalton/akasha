@@ -3,7 +3,7 @@ import { basename, dirname, join } from "node:path"
 import type { Naming } from "@akasha/code-system/code-specifier"
 import { reachesIn, reachingOver } from "@akasha/code-system/package-manifest"
 import type { Value } from "@akasha/pages-system/page-value"
-import { filePropertiesAt, pathsOf, under } from "../index-entries/index-entries.module.code.ts"
+import { fileKeysAt, pathsOf, under } from "../index-entries/index-entries.module.code.ts"
 import { everyPath, importersIn } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import { readingOf } from "../index-surface/index-surface.module.code.ts"
@@ -55,7 +55,7 @@ export function reachingIn(
 }
 
 export function reachingAt(given: string | Reading, bodyAt: Body): Naming {
-  return reachingIn(everyPath(given), filePropertiesAt(given), bodyAt)
+  return reachingIn(everyPath(given), fileKeysAt(given), bodyAt)
 }
 
 export function reachingFor(root: string): Naming {

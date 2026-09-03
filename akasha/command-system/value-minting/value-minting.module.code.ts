@@ -134,7 +134,7 @@ function entriedOnto(shadow: Shadow, changes: readonly FileEdit[]): Minted {
   const shapes = shadow.index.entryShapesAt()
   if (shapes.size === 0) return { changes, filled: [] }
   const pageTypes = shadow.index.pageTypesIn()
-  const fileProperties = new Set(shadow.index.filePropertiesAt().keys())
+  const fileProperties = new Set(shadow.index.fileKeysAt().keys())
   const held: FileEdit[] = []
   const filled: Filled[] = []
   for (const one of changes) {

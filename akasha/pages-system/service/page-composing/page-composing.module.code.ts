@@ -1,5 +1,5 @@
 import { listedAt } from "@akasha/indexes"
-import { filePropertiesAt } from "@akasha/indexes/entries"
+import { fileKeysAt } from "@akasha/indexes/entries"
 import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages-system/page-body"
 import { type Carried, propertiesFrom, sourceIn } from "@akasha/pages-system/page-type-properties"
 import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
@@ -43,7 +43,7 @@ export function orderedIn(carried: readonly Carried[]): readonly Carried[] {
 const PAGES = "pages"
 
 export function besideItsPage(root: string, carried: readonly Carried[]): boolean {
-  const filed = filePropertiesAt(root)
+  const filed = fileKeysAt(root)
   return carried.some((one) => filed.has(one.propertySlug))
 }
 

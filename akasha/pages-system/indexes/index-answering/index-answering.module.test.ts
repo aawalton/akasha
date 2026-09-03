@@ -9,11 +9,7 @@ import {
   sourceIn,
 } from "@akasha/pages-system/page-type-properties"
 import type { Value } from "@akasha/pages-system/page-value"
-import {
-  filePropertiesAt,
-  pageTypesIn,
-  schemaAt,
-} from "../index-entries/index-entries.module.code.ts"
+import { fileKeysAt, pageTypesIn, schemaAt } from "../index-entries/index-entries.module.code.ts"
 import {
   everyOfType,
   everyPath,
@@ -130,7 +126,7 @@ test("every question answers what the reader beneath it answers with the reading
   expect(index.declaringOf(SLUG_ID)).toEqual(declaringOf(reading, SLUG_ID))
   expect(index.everyOfType(MODULE)).toEqual(everyOfType(reading, MODULE))
   expect(index.everyPath()).toEqual(everyPath(reading))
-  expect(index.filePropertiesAt()).toEqual(filePropertiesAt(reading))
+  expect(index.fileKeysAt()).toEqual(fileKeysAt(reading))
   expect(index.idsNaming(TYPE_ID, "extends-slug")).toEqual(
     idsNaming(reading, TYPE_ID, "extends-slug")
   )
@@ -201,7 +197,7 @@ test("no question falls back to the index at a root, even one handed in for some
   expect(() => index.everyPath()).toThrow(NOT_THERE)
   expect(() => index.listedAt(MODULE, "held")).toThrow(NOT_THERE)
   expect(() => index.listedById(HELD_ID)).toThrow(NOT_THERE)
-  expect(() => index.filePropertiesAt()).toThrow(NOT_THERE)
+  expect(() => index.fileKeysAt()).toThrow(NOT_THERE)
   expect(() => index.kindsUnder(PAGE_TYPE)).toThrow(NOT_THERE)
   expect(() => index.knownIn()).toThrow(NOT_THERE)
 })

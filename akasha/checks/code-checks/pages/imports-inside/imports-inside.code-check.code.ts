@@ -79,7 +79,7 @@ export function namingFor(change: Change, shadow: Shadow): Naming {
   if (found !== undefined) return found
   const bodyAt = (path: string): string | null => textIn(change, path)
   const named = [...shadow.index.everyPath(), ...workspacesIn(bodyAt(MANIFEST))]
-  const made = reachingIn(named, shadow.index.filePropertiesAt(), bodyAt)
+  const made = reachingIn(named, shadow.index.fileKeysAt(), bodyAt)
   HELD.set(shadow, made)
   return made
 }

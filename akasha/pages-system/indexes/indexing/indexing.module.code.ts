@@ -32,8 +32,8 @@ import { valueIn } from "../index/value/index-value.index.code.ts"
 import { indexValue } from "../index/value/index-value.index.ts"
 import {
   type Entry,
-  filePropertiesAt,
-  filePropertiesIn,
+  fileKeysAt,
+  fileKeysIn,
   type Identifier,
   pageTypesIn,
   sidecarsIn,
@@ -192,7 +192,7 @@ export function rebuiltFrom(
     if (value !== null) held.push({ path, value })
   }
   const values = held.map((one) => one.value)
-  const fileProperties = filePropertiesIn(values)
+  const fileProperties = fileKeysIn(values)
   const unique = uniquePropertiesIn(values)
   const schema = held.flatMap((one) => schemaIn(one.value))
   refusingEmpty(unique, held.length)
@@ -281,7 +281,7 @@ export function settlingOver(
 ): Settling {
   const reading = asBuilt(given)
   const pageTypes = pageTypesIn(reading)
-  const filed = filePropertiesAt(reading)
+  const filed = fileKeysAt(reading)
   const noted: string[] = []
   const readInto = (body: string | null, path: string): Value | null => {
     if (body === null || !pageShaped(path, filed)) return null
@@ -301,7 +301,7 @@ export function settlingOver(
   }))
 
   const left = held.flatMap((one) => (one.now === null ? [] : [one.now]))
-  const fileProperties = new Map<string, string | null>([...filed, ...filePropertiesIn(left)])
+  const fileProperties = new Map<string, string | null>([...filed, ...fileKeysIn(left)])
   const sidecars = sidecarsOver(reading, left)
   const naming = reachingSettled(reading, held, moving, repo, fileProperties)
   const { was: wasNaming, reread } = rereadOver(reading, held, repo, fileProperties, naming)

@@ -118,7 +118,7 @@ export function reasonsIn(
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const heldInAFile = shadow.index.filePropertiesAt()
+  const heldInAFile = shadow.index.fileKeysAt()
   return overEachFile(change, (given) => reasonsIn(given, heldInAFile))
 }
 

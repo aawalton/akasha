@@ -79,7 +79,7 @@ export function missingFor(
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = shadow.index.pageTypesIn()
-  const fileProperties = shadow.index.filePropertiesAt()
+  const fileProperties = shadow.index.fileKeysAt()
   const said: Judged[] = []
   for (const page of pagesTouchedBy(change, pageTypes, shadow.index)) {
     said.push(...missingFor(change, page, fileProperties))

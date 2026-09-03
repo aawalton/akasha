@@ -268,7 +268,7 @@ export function unreachedIn(
 }
 
 function configNamed(shadow: Shadow): string | null {
-  return shadow.index.filePropertiesAt().get(CAPACITOR_CONFIG) ?? null
+  return shadow.index.fileKeysAt().get(CAPACITOR_CONFIG) ?? null
 }
 
 function thereIn(change: Change, folder: string): (named: string) => boolean {

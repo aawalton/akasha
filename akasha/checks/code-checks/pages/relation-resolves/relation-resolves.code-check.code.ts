@@ -56,7 +56,7 @@ export function namersOf(
   shadow: Shadow,
   properties: readonly string[]
 ): readonly string[] {
-  const heldInAFile = shadow.index.filePropertiesAt()
+  const heldInAFile = shadow.index.fileKeysAt()
   const found = new Set<string>()
   for (const path of change.changed) {
     if (change.after(path) !== null) continue

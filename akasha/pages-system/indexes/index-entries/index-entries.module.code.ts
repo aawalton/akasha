@@ -51,7 +51,7 @@ function besides(pageTypeSlug: string | null): boolean {
   return pageTypeSlug === FILE_PROPERTY || pageTypeSlug === ENTRY_PROPERTY
 }
 
-export function filePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, string | null> {
+export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string | null> {
   const found = new Map<string, string | null>()
   for (const value of values) {
     const key = textAt(value, "propertySlug")
@@ -225,8 +225,8 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
   return found
 }
 
-export function filePropertiesAt(given: string | Reading): ReadonlyMap<string, string | null> {
-  return answered(given, "", "which properties are held in a file", (reading) => {
+export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string | null> {
+  return answered(given, "", "which keys any page type holds in a file", (reading) => {
     const found = new Map<string, string | null>()
     for (const held of schemaAt(reading).values()) {
       if (held.fileName !== null) found.set(held.propertySlug, held.fileName)

@@ -348,7 +348,7 @@ export function partsOver(
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const shapes = shapesIn(change.root, shadow)
   const pageTypes = shadow.index.pageTypesIn()
-  const stated = shadow.index.filePropertiesAt()
+  const stated = shadow.index.fileKeysAt()
   const fileProperties = new Set<string>(stated.keys())
   const filing = namesFiling(stated)
   const naming = reachingIn(shadow.index.everyPath(), stated, (path) => textIn(change, path))
