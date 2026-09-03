@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
-import { findFiles } from "../../../akasha/checks/cluster-checks/modules/file-finding/file-finding.module.code.ts"
-import { resolveConfigAppDir } from "./rr-server-module-imports.ts"
+import { findFiles } from "../file-finding/file-finding.module.code.ts"
+import { resolveConfigAppDir } from "../rr-server-module-imports/rr-server-module-imports.module.code.ts"
 
 export interface RouterApp {
   readonly configPath: string

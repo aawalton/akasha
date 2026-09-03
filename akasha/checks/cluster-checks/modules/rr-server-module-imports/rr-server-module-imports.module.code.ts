@@ -1,8 +1,8 @@
 import { dirname, join, resolve } from "node:path"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import ts from "typescript"
 import { z } from "zod"
-import type { Violation } from "../../../akasha/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.code.ts"
-import { requireMatchPositional } from "../narrow.ts"
+import type { Violation } from "../violation-reporting/violation-reporting.module.code.ts"
 
 const APP_DIRECTORY_RE = /appDirectory\s*:\s*["']([^"']+)["']/
 const APP_DIRECTORY_CAPTURE_SCHEMA = z.tuple([z.string()])

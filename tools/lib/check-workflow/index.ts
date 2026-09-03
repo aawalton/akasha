@@ -11,6 +11,13 @@ import type {
   Workflow,
 } from "@akasha/workflow-language/workflow-types"
 import { readFunctionalType } from "../../../akasha/checks/cluster-checks/modules/functional-type/functional-type.module.code.ts"
+import { discoverRouterApps } from "../../../akasha/checks/cluster-checks/modules/router-app-discovery/router-app-discovery.module.code.ts"
+import { loadTestStepInputs } from "../../../akasha/checks/cluster-checks/modules/test-step-loading/test-step-loading.module.code.ts"
+import {
+  generateTestSteps,
+  type TestType,
+} from "../../../akasha/checks/cluster-checks/modules/test-step-paths/test-step-paths.module.code.ts"
+import { selectUnbuiltRouterApps } from "../../../akasha/checks/cluster-checks/modules/unbuilt-router-apps/unbuilt-router-apps.module.code.ts"
 import { STATIC_CHECKS } from "./check-configs.ts"
 import { acyclicityChecks } from "./check-configs-acyclicity.ts"
 import { addonChecks } from "./check-configs-addons.ts"
@@ -44,11 +51,7 @@ import { buildTypecheckChecks } from "./check-configs-typecheck.ts"
 import type { CheckConfig } from "./check-configs-types.ts"
 import { TYPESAFETY_CHECKS } from "./check-configs-typesafety.ts"
 import { CHECK_WORKFLOW_DISPATCH_NODE_TYPES } from "./check-workflow-watch.ts"
-import { discoverRouterApps } from "./router-apps.ts"
 import { routedCheckCommand } from "./run-check-routing.ts"
-import { loadTestStepInputs } from "./test-step-loader.ts"
-import { generateTestSteps, type TestType } from "./test-step-paths.ts"
-import { selectUnbuiltRouterApps } from "./unbuilt-router-apps.ts"
 
 const STEP_PREFIX = "check-"
 

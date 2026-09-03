@@ -3,7 +3,7 @@
 import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import { CODE_REPO } from "../../../akasha/checks/cluster-checks/modules/repo-scope/repo-scope.module.code.ts"
-import { TEST_TYPES } from "../check-workflow/test-step-paths.ts"
+import { TEST_TYPES } from "../../../akasha/checks/cluster-checks/modules/test-step-paths/test-step-paths.module.code.ts"
 import { buildFrom, readAt } from "../graph/held-snapshot.ts"
 import {
   IMPORT_DYNAMIC_EDGE_TYPE,

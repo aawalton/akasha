@@ -2,18 +2,18 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { relative, resolve } from "node:path"
-import {
-  extractRouteModulePaths,
-  type ServerInClientViolation,
-  scanFileForServerLeaks,
-} from "../../../../../tools/lib/check-workflow/rr-server-module-imports"
-import { discoverUnbuiltRouterApps } from "../../../../../tools/lib/check-workflow/unbuilt-router-apps"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import { findFiles } from "../../modules/file-finding/file-finding.module.code.ts"
 import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import { remediationHint } from "../../modules/remediation-doc/remediation-doc.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  extractRouteModulePaths,
+  type ServerInClientViolation,
+  scanFileForServerLeaks,
+} from "../../modules/rr-server-module-imports/rr-server-module-imports.module.code.ts"
+import { discoverUnbuiltRouterApps } from "../../modules/unbuilt-router-apps/unbuilt-router-apps.module.code.ts"
 import {
   exitOnResult,
   exitOnToolError,

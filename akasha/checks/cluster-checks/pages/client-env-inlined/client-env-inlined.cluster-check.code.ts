@@ -2,12 +2,6 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
-import { discoverRouterApps } from "../../../../../tools/lib/check-workflow/router-apps"
-import {
-  extractRouteModulePaths,
-  isServerModulePath,
-  isTestFilePath,
-} from "../../../../../tools/lib/check-workflow/rr-server-module-imports"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   type ClientEnvViolation,
@@ -18,6 +12,12 @@ import { findFiles } from "../../modules/file-finding/file-finding.module.code.t
 import { examineFilePopulation } from "../../modules/population/population.module.code.ts"
 import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { discoverRouterApps } from "../../modules/router-app-discovery/router-app-discovery.module.code.ts"
+import {
+  extractRouteModulePaths,
+  isServerModulePath,
+  isTestFilePath,
+} from "../../modules/rr-server-module-imports/rr-server-module-imports.module.code.ts"
 import { exitOnResult } from "../../modules/violation-reporting/violation-reporting.module.code.ts"
 
 if (import.meta.main) refuseRetired()

@@ -2,8 +2,15 @@ import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { z } from "zod"
-import { groupTestFilesByType, type TestType } from "./test-step-paths.ts"
-import { computeTransitiveClosure, type PackageJson, type WorkspaceInfo } from "./workspace-deps.ts"
+import {
+  groupTestFilesByType,
+  type TestType,
+} from "../test-step-paths/test-step-paths.module.code.ts"
+import {
+  computeTransitiveClosure,
+  type PackageJson,
+  type WorkspaceInfo,
+} from "../workspace-deps/workspace-deps.module.code.ts"
 
 const TEST_FILE_GLOB = "**/*.{unit,property,component}.test.{ts,tsx}"
 

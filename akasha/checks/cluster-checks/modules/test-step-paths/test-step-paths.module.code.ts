@@ -1,4 +1,4 @@
-import type { NodeId } from "../graph/types.ts"
+import type { NodeId } from "@akasha/workflow-language/workflow-types"
 export const TEST_TYPES = ["unit", "property", "component"] as const
 export type TestType = (typeof TEST_TYPES)[number]
 

@@ -1,40 +1,13 @@
 import { SECRETS, secret } from "@akasha/workflow-language/secrets"
+import {
+  ADDON_BUNDLE_BUILD_PACKAGES,
+  type AppBuildTarget,
+  appBuildSlug,
+} from "../../../akasha/checks/cluster-checks/modules/app-build-packages/app-build-packages.module.code.ts"
 import { BUNDLE_REUSE_DIST_ENV } from "./addons-resolve.ts"
 import type { CheckConfig } from "./check-configs-types"
 
 const ADDON_BUILD_CHECK_NAME = "addon-build"
-
-export const ADDON_BUNDLE_BUILD_PACKAGES: ReadonlySet<string> = new Set(["@akasha/temper-web"])
-
-export interface AppBuildCandidate {
-  readonly name: string
-  readonly dir: string
-  readonly hasBuildScript: boolean
-}
-
-export interface AppBuildTarget {
-  readonly name: string
-  readonly dir: string
-}
-
-export function appBuildSlug(dir: string): string {
-  return dir.replaceAll("/", "-")
-}
-
-export function selectAppBuildPackages(
-  entries: readonly AppBuildCandidate[]
-): readonly AppBuildTarget[] {
-  const selected = entries
-    .filter((e) => e.hasBuildScript)
-    .map((e) => ({ name: e.name, dir: e.dir }))
-    .sort((a, b) => a.dir.localeCompare(b.dir))
-  if (selected.length === 0) {
-    throw new Error(
-      `selectAppBuildPackages: none of the ${entries.length} workspace(s) given declares a \`scripts.build\`, so every app-build gate would vanish from the \`check\` workflow and the branch would go green one bundler pass shorter. Refusing rather than gating nothing.`
-    )
-  }
-  return selected
-}
 
 export function buildAppBuildChecks(packages: readonly AppBuildTarget[]): readonly CheckConfig[] {
   return [...packages]

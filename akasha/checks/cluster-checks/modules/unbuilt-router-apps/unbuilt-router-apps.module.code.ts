@@ -1,6 +1,9 @@
-import { selectAppBuildPackages } from "./check-configs-app-build.ts"
-import { discoverRouterApps, type RouterApp } from "./router-apps.ts"
-import { loadWorkspaces } from "./test-step-loader.ts"
+import { selectAppBuildPackages } from "../app-build-packages/app-build-packages.module.code.ts"
+import {
+  discoverRouterApps,
+  type RouterApp,
+} from "../router-app-discovery/router-app-discovery.module.code.ts"
+import { loadWorkspaces } from "../test-step-loading/test-step-loading.module.code.ts"
 
 export function selectUnbuiltRouterApps(
   apps: readonly RouterApp[],
