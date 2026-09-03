@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { shape } from "@tools/lib/shape"
 import type { Infer } from "@tools/lib/shape-core"
-import type { notices as composedNotices } from "../../compose-notices-GONE/compose-notices.module.code.ts"
+import type { notices as composedNotices } from "../../compose-notices/compose-notices.module.code.ts"
 
 const LOG = "[resume-notices]"
 const COMPOSE_COMMAND = "compose-notices"
