@@ -13,6 +13,7 @@ export const editorExtension = {
     "module/domain-tree-ids",
     "module/page-tree-ids",
     "module/work-tree-ids",
+    "module/status-bar-theme",
   ],
   invariants: [
     {
