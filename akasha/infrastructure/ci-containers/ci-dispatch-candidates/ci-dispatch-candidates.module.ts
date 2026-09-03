@@ -9,12 +9,28 @@ export const ciDispatchCandidates = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A step naming no title, no workflow or no pipeline is skipped rather than dispatched.",
+      statement: "A step naming no title is skipped rather than dispatched.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A step naming no workflow or no pipeline is skipped rather than dispatched.",
     },
     {
       invariantKind: "departure",
       statement: "A step's definition is handed in rather than read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page is read from the checkout standing on the workstation rather than over a network.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A query names every key the reading takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type that goes unread is thrown over rather than answered as empty.",
     },
   ],
 } as const satisfies Module

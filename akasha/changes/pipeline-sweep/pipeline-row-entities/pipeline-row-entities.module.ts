@@ -32,5 +32,18 @@ export const pipelineRowEntities = {
       invariantKind: "departure",
       statement: "A moment that does not parse is read as unstated rather than as zero.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A flag is the boolean a page states rather than the word `true`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count is the number a page states rather than digits in text.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key takes the spelling the page type declares rather than the spelling markdown used.",
+    },
   ],
 } as const satisfies Module

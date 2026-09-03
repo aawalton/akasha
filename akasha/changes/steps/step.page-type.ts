@@ -23,6 +23,7 @@ import type { StepSeq } from "./properties/step-seq.text-property.ts"
 import type { StepSkipReason } from "./properties/step-skip-reason.text-property.ts"
 import type { StepStartedAt } from "./properties/step-started-at.instant-property.ts"
 import type { StepStatus } from "./properties/step-status.select-property.ts"
+import type { StepTitle } from "./properties/step-title.text-property.ts"
 import type { StepWhenConditions } from "./properties/step-when-conditions.text-property.ts"
 import type { StepWorkflowSeq } from "./properties/step-workflow-seq.relation-property.ts"
 
@@ -51,6 +52,7 @@ export type Step = Page & {
   skipReason?: StepSkipReason
   startedAt?: StepStartedAt
   status?: StepStatus
+  title?: StepTitle
   whenConditions?: StepWhenConditions
 }
 
@@ -85,6 +87,7 @@ export const step = {
     "text-property/step-launch-refused-reason",
     "text-property/step-seq",
     "text-property/step-skip-reason",
+    "text-property/step-title",
     "text-property/step-when-conditions",
   ],
   extendsSlug: "page-type/page",
@@ -160,13 +163,18 @@ export const step = {
       default: "pending",
       uncommitted: true,
     },
+    { pagePropertySlug: "step-title", required: false, many: false },
     { pagePropertySlug: "step-when-conditions", required: false, many: true, max: null },
   ],
   mortal: true,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A step carries a gate of its own, so a workflow may dispatch only some steps.",
+      statement: "A step carries a gate of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A workflow may dispatch only some of the steps under it.",
     },
     {
       invariantKind: "departure",
@@ -174,7 +182,7 @@ export const step = {
     },
     {
       invariantKind: "departure",
-      statement: "A step runs on the cluster, whatever machine drives it.",
+      statement: "A step runs on the cluster whatever machine drives the sweep.",
     },
   ],
 } as const satisfies PageType

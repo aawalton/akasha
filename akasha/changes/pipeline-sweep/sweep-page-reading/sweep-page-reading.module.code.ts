@@ -1,18 +1,20 @@
 import { whereFor } from "@akasha/markdown-pages/page-write-where"
 import { readUncommitted } from "@akasha/markdown-pages/uncommitted"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import type { Row } from "@akasha/pages-system/page-derive-shape"
-import { UNREACHED } from "@akasha/pages-system/page-query-shape"
+import { asking, type Row } from "@akasha/pages-system-service/asking"
 import { PIPELINE, STEP, WORKFLOW } from "@akasha/pipeline-sweep/pipeline-page-statuses"
 import {
+  PIPELINE_KEYS,
   type Pipeline,
   pipelineIn,
+  STEP_KEYS,
   type Step,
   stepIn,
+  WORKFLOW_KEYS,
   type Workflow,
   workflowIn,
 } from "@akasha/pipeline-sweep/pipeline-row-entities"
-import { load } from "@tools/lib/page-query"
 
 export interface Snapshot {
   readonly pipelines: readonly Pipeline[]
@@ -20,15 +22,17 @@ export interface Snapshot {
   readonly steps: readonly Step[]
 }
 
-function rowsOf(roots: Roots, pageType: string): Iterable<Row> {
-  const found = load(roots, pageType)
-  if (found === null) {
-    throw new Error(`\`${pageType}\` ${UNREACHED}, so the sweep has nothing to read`)
+function rowsOf(root: string, pageTypeSlug: string, keys: readonly string[]): readonly Row[] {
+  const asked = asking(root, { pageTypeSlug, keys })
+  if ("refused" in asked) {
+    throw new Error(
+      `\`${pageTypeSlug}\` went unread, so the sweep has nothing to read: ${asked.refused}`
+    )
   }
-  return found
+  return asked.rows
 }
 
-function held<T>(rows: Iterable<Row>, of: (row: Row) => T | null): readonly T[] {
+function held<T>(rows: readonly Row[], of: (row: Row) => T | null): readonly T[] {
   const out: T[] = []
   for (const row of rows) {
     const one = of(row)
@@ -38,10 +42,11 @@ function held<T>(rows: Iterable<Row>, of: (row: Row) => T | null): readonly T[] 
 }
 
 export function readSnapshot(roots: Roots): Snapshot {
+  const root = rootFor(roots, AKASHA)
   return {
-    pipelines: held(rowsOf(roots, PIPELINE), pipelineIn),
-    workflows: held(rowsOf(roots, WORKFLOW), workflowIn),
-    steps: held(rowsOf(roots, STEP), stepIn),
+    pipelines: held(rowsOf(root, PIPELINE, PIPELINE_KEYS), pipelineIn),
+    workflows: held(rowsOf(root, WORKFLOW, WORKFLOW_KEYS), workflowIn),
+    steps: held(rowsOf(root, STEP, STEP_KEYS), stepIn),
   }
 }
 

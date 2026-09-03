@@ -1,8 +1,7 @@
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import type { Values } from "@akasha/pages-system/page-carry"
-import { UNREACHED } from "@akasha/pages-system/page-query-shape"
-import { listOf, textOf } from "@akasha/pages-system/page-query-values"
-import { answer } from "@tools/lib/page-query"
+import { textAt } from "@akasha/pages-system/page-value"
+import { asking, type Row } from "@akasha/pages-system-service/asking"
 import { onMainBranch } from "../ci-dispatch-placement/ci-dispatch-placement.module.code.ts"
 import {
   type Candidate,
@@ -17,7 +16,28 @@ import {
 
 export const DISPATCHING = "dispatching"
 
-/** Was `PagesUnread` in `tools/lib/file-pages.ts`; this was its one reader. */
+const STEP_KEYS: readonly string[] = [
+  "seq",
+  "title",
+  "status",
+  "dependsOn",
+  "workflowSeq",
+  "pipelineSeq",
+  "dispatchWaitSince",
+  "neverFitSince",
+]
+
+const WORKFLOW_KEYS: readonly string[] = ["seq", "slug", "kind", "status", "inputsHash"]
+
+const PIPELINE_KEYS: readonly string[] = [
+  "seq",
+  "branch",
+  "node",
+  "status",
+  "commit",
+  "instructionsCommit",
+]
+
 class PagesUnread extends Error {
   readonly pageType: string
   readonly why: string
@@ -31,13 +51,24 @@ class PagesUnread extends Error {
   }
 }
 
-/**
- * A step's definition is the one thing a candidate needs that no page query answers: it is a
- * nested record in the markdown page's uncommitted sidecar, and every query path flattens it to
- * a string. The sidecar store lives outside akasha, so the runner hands this in rather than a
- * module here reaching for it.
- */
 export type StepDefinitions = (stepSeq: string) => Readonly<Record<string, unknown>>
+
+function listed(row: Row, key: string): readonly string[] {
+  const one = row[key]
+  if (typeof one === "string") return [one]
+  if (!Array.isArray(one)) return []
+  return one.filter((each): each is string => typeof each === "string")
+}
+
+function askedFor(
+  roots: Roots,
+  pageType: string,
+  query: Omit<Parameters<typeof asking>[1], "pageTypeSlug">
+): readonly Row[] {
+  const asked = asking(rootFor(roots, AKASHA), { pageTypeSlug: pageType, ...query })
+  if ("refused" in asked) throw new PagesUnread(pageType, asked.refused)
+  return asked.rows
+}
 
 function momentOf(raw: string | null): number | null {
   if (raw === null) return null
@@ -63,11 +94,11 @@ function largest(a: Requests, b: Requests): Requests {
   }
 }
 
-function byKey(rows: readonly { readonly values: Values }[], key: string): Map<string, Values> {
-  const held = new Map<string, Values>()
+function byKey(rows: readonly Row[], key: string): Map<string, Row> {
+  const held = new Map<string, Row>()
   for (const row of rows) {
-    const named = textOf(row.values, key)
-    if (named !== null && !held.has(named)) held.set(named, row.values)
+    const named = textAt(row, key)
+    if (named !== null && !held.has(named)) held.set(named, row)
   }
   return held
 }
@@ -76,33 +107,30 @@ function unique(said: readonly (string | null)[]): readonly string[] {
   return [...new Set(said.filter((one): one is string => one !== null))]
 }
 
-async function pagesBySeq(
+function pagesBySeq(
   roots: Roots,
   pageType: string,
+  keys: readonly string[],
   seqs: readonly string[]
-): Promise<Map<string, Values>> {
+): Map<string, Row> {
   if (seqs.length === 0) return new Map()
-  const found = answer(roots, { pageType, where: [{ key: "seq", in: seqs }] })
-  if (found === null) throw new PagesUnread(pageType, UNREACHED)
-  return byKey(found.rows, "seq")
+  return byKey(askedFor(roots, pageType, { where: { seq: { in: seqs } }, keys }), "seq")
 }
 
-async function pipelineMaxRequests(
+function pipelineMaxRequests(
   roots: Roots,
   unboundPipelineSeqs: readonly string[],
   definitions: StepDefinitions
-): Promise<Map<string, Requests>> {
+): Map<string, Requests> {
   const most = new Map<string, Requests>()
   if (unboundPipelineSeqs.length === 0) return most
-  const found = answer(roots, {
-    pageType: "step",
-    where: [{ key: "pipeline-seq", in: unboundPipelineSeqs }],
-    keys: ["seq", "pipeline-seq"],
+  const rows = askedFor(roots, "step", {
+    where: { pipelineSeq: { in: unboundPipelineSeqs } },
+    keys: ["seq", "pipelineSeq"],
   })
-  if (found === null) throw new PagesUnread("step", UNREACHED)
-  for (const row of found.rows) {
-    const stepSeq = textOf(row.values, "seq")
-    const pipelineSeq = textOf(row.values, "pipeline-seq")
+  for (const row of rows) {
+    const stepSeq = textAt(row, "seq")
+    const pipelineSeq = textAt(row, "pipelineSeq")
     if (stepSeq === null || pipelineSeq === null) continue
     const asked = requestsOf(definitions(stepSeq))
     const held = most.get(pipelineSeq)
@@ -111,54 +139,54 @@ async function pipelineMaxRequests(
   return most
 }
 
-export function scanDispatchingSteps(roots: Roots, limit: number): readonly Values[] {
-  const found = answer(roots, {
-    pageType: "step",
-    where: [{ key: "status", is: DISPATCHING }],
+export function scanDispatchingSteps(roots: Roots, limit: number): readonly Row[] {
+  return askedFor(roots, "step", {
+    where: { status: { is: DISPATCHING } },
+    keys: STEP_KEYS,
     sortBy: "seq",
     limit,
   })
-  if (found === null) throw new PagesUnread("step", UNREACHED)
-  return found.rows.map((row) => row.values)
 }
 
 export async function enrich(
   roots: Roots,
-  steps: readonly Values[],
+  steps: readonly Row[],
   skipped: (line: string) => void,
   definitions: StepDefinitions
 ): Promise<readonly Candidate[]> {
   if (steps.length === 0) return []
 
-  const workflows = await pagesBySeq(
+  const workflows = pagesBySeq(
     roots,
     "workflow",
-    unique(steps.map((one) => textOf(one, "workflow-seq")))
+    WORKFLOW_KEYS,
+    unique(steps.map((one) => textAt(one, "workflowSeq")))
   )
-  const pipelines = await pagesBySeq(
+  const pipelines = pagesBySeq(
     roots,
     "pipeline",
-    unique(steps.map((one) => textOf(one, "pipeline-seq")))
+    PIPELINE_KEYS,
+    unique(steps.map((one) => textAt(one, "pipelineSeq")))
   )
 
   const unbound = unique(
     [...pipelines.values()]
-      .filter((one) => !onMainBranch(textOf(one, "branch") ?? "") && textOf(one, "node") === null)
-      .map((one) => textOf(one, "seq"))
+      .filter((one) => !onMainBranch(textAt(one, "branch") ?? "") && textAt(one, "node") === null)
+      .map((one) => textAt(one, "seq"))
   )
-  const most = await pipelineMaxRequests(roots, unbound, definitions)
+  const most = pipelineMaxRequests(roots, unbound, definitions)
 
   const out: Candidate[] = []
   for (const step of steps) {
-    const stepSeq = textOf(step, "seq")
+    const stepSeq = textAt(step, "seq")
     if (stepSeq === null) {
       skipped("a dispatching step names no seq, so nothing addresses its page")
       continue
     }
-    const workflowSeq = textOf(step, "workflow-seq")
-    const pipelineSeq = textOf(step, "pipeline-seq")
+    const workflowSeq = textAt(step, "workflowSeq")
+    const pipelineSeq = textAt(step, "pipelineSeq")
     if (workflowSeq === null || pipelineSeq === null) {
-      skipped(`step ${stepSeq} names no workflow-seq or no pipeline-seq`)
+      skipped(`step ${stepSeq} names no workflowSeq or no pipelineSeq`)
       continue
     }
     const workflow = workflows.get(workflowSeq)
@@ -169,13 +197,13 @@ export async function enrich(
       )
       continue
     }
-    const workflowStatus = textOf(workflow, "status")
-    const pipelineStatus = textOf(pipeline, "status")
+    const workflowStatus = textAt(workflow, "status")
+    const pipelineStatus = textAt(pipeline, "status")
     if (workflowStatus === null || pipelineStatus === null) {
       skipped(`step ${stepSeq} sits under an ancestor with no status`)
       continue
     }
-    const stepName = textOf(step, "title")
+    const stepName = textAt(step, "title")
     if (stepName === null) {
       skipped(`step ${stepSeq} has no title, and its title is the name its container carries`)
       continue
@@ -185,23 +213,23 @@ export async function enrich(
     out.push({
       stepSeq,
       stepName,
-      dependsOn: listOf(step, "depends-on"),
+      dependsOn: listed(step, "dependsOn"),
       workflowSeq,
-      workflowSlug: textOf(workflow, "slug") ?? "unknown",
-      workflowKind: textOf(workflow, "kind") ?? "unknown",
+      workflowSlug: textAt(workflow, "slug") ?? "unknown",
+      workflowKind: textAt(workflow, "kind") ?? "unknown",
       workflowStatus,
       pipelineSeq,
       pipelineStatus,
-      pipelineBranch: textOf(pipeline, "branch") ?? "",
-      pipelineCommit: textOf(pipeline, "commit") ?? "",
-      pipelineInstructionsCommit: textOf(pipeline, "instructions-commit") ?? "",
-      inputsHash: textOf(workflow, "inputs-hash"),
-      assignedNode: textOf(pipeline, "node"),
+      pipelineBranch: textAt(pipeline, "branch") ?? "",
+      pipelineCommit: textAt(pipeline, "commit") ?? "",
+      pipelineInstructionsCommit: textAt(pipeline, "instructionsCommit") ?? "",
+      inputsHash: textAt(workflow, "inputsHash"),
+      assignedNode: textAt(pipeline, "node"),
       definition,
       requests,
       pipelineMaxRequests: most.get(pipelineSeq) ?? requests,
-      dispatchWaitSince: momentOf(textOf(step, "dispatch-wait-since")),
-      neverFitSince: momentOf(textOf(step, "never-fit-since")),
+      dispatchWaitSince: momentOf(textAt(step, "dispatchWaitSince")),
+      neverFitSince: momentOf(textAt(step, "neverFitSince")),
     })
   }
   return out
