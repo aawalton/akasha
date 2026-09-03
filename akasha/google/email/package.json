@@ -14,7 +14,9 @@
     "./attachments": "./gmail-attachments/gmail-attachments.module.code.ts",
     "./history": "./gmail-history/gmail-history.module.code.ts",
     "./unsubscribe": "./list-unsubscribe/list-unsubscribe.module.code.ts",
-    "./inbound-adapter": "./gmail-inbound-adapter/gmail-inbound-adapter.module.code.ts"
+    "./inbound-adapter": "./gmail-inbound-adapter/gmail-inbound-adapter.module.code.ts",
+    "./gmail-mailbox": "./gmail-mailbox/gmail-mailbox.module.code.ts",
+    "./forwarded-message": "./forwarded-message/forwarded-message.module.code.ts"
   },
   "dependencies": {
     "@akasha/email-inbound": "workspace:*",

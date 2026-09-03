@@ -19,6 +19,8 @@ export const googleEmail = {
     "module/gmail-history",
     "module/list-unsubscribe",
     "module/gmail-inbound-adapter",
+    "module/gmail-mailbox",
+    "module/forwarded-message",
   ],
   invariants: [
     {
