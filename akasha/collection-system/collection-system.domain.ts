@@ -9,6 +9,7 @@ export const collectionSystem = {
     "page-type/collection-type",
     "page-type/collection",
     "page-type/collection-external",
+    "page-type/royal-road-account",
     "page-type/sync",
     "page-type/sync-run",
     "workspace-package/great-courses",
