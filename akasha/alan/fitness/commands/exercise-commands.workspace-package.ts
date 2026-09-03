@@ -30,6 +30,7 @@ export const exerciseCommands = {
     "command/exercise-today",
     "module/exercise-said",
     "module/exercise-saying",
+    "module/exercise-writing",
   ],
   invariants: [
     {

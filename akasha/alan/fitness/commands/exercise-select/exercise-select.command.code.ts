@@ -1,13 +1,13 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { FOCUS_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
 import { readSelectionPolicy } from "@akasha/exercise-access/selection-policy"
+import { loadSelectorInputs } from "@akasha/session-planning/session-loading"
 import type {
   PlannedSlot,
   SelectionDecision,
   SelectionEnvelope,
-} from "@collections/exercises/selection/selector"
-import { selectSession } from "@collections/exercises/selection/selector"
-import { loadSelectorInputs } from "@collections/exercises/selection/selector-load"
+} from "@akasha/session-planning/session-selection"
+import { selectSession } from "@akasha/session-planning/session-selection"
 import {
   asJson,
   DATA,
@@ -57,11 +57,11 @@ export function decisionRows(d: SelectionDecision): readonly string[] {
   const beaten =
     d.rejected.length > 0
       ? d.rejected
-          .map((one) => `${one.name} (${one.blend.toFixed(PLACES)}, ${one.reason})`)
+          .map((one) => `${one.title} (${one.blend.toFixed(PLACES)}, ${one.reason})`)
           .join("; ")
       : EMPTY
   const rows = [
-    `[${d.sortOrder + 1}] ${d.role} ${d.exerciseName}\t${scores}`,
+    `[${d.sortOrder + 1}] ${d.role} ${d.title}\t${scores}`,
     `    features: ${features}`,
     `    rules: ${d.rulesFired.join(", ")}`,
   ]
@@ -121,7 +121,7 @@ export async function exerciseSelect(argv: readonly string[] = []): Promise<Answ
       "#\trole\tmovement\tpattern\tsets\treps\trir\tprogression",
       ...plan.slots.map(
         (slot) =>
-          `${slot.sortOrder + 1}\t${slot.role}\t${slot.exerciseName}\t${slot.movementPattern}` +
+          `${slot.sortOrder + 1}\t${slot.role}\t${slot.title}\t${slot.movementPattern}` +
           `\t${slot.targetSets}\t${repRangeOf(slot)}\tRIR${slot.targetRir}\t${progressionOf(slot)}`
       ),
     ]

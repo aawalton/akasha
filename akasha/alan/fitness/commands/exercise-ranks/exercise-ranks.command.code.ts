@@ -1,12 +1,10 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { exerciseNamed } from "@akasha/exercise-access/exercise-finding"
+import { type Row, rowsFor, titleOf } from "@akasha/exercise-access/exercise-rows"
+import type { GoalScores } from "@akasha/exercise-access/movement-scoring"
+import { movementFeaturesIn, scoreMovement } from "@akasha/exercise-access/movement-scoring"
+import type { GoalWeights } from "@akasha/exercise-access/selection-policy"
 import { readSelectionPolicy } from "@akasha/exercise-access/selection-policy"
-import { displayTitle } from "@collections/exercises/cli/fields"
-import { resolveExercise } from "@collections/exercises/cli/resolve"
-import { getPages } from "@collections/exercises/pages/access"
-import type { Page } from "@collections/exercises/pages/page"
-import { movementFeaturesFromPage } from "@collections/exercises/selection/movement-features"
-import type { GoalScores, GoalWeights } from "@collections/exercises/selection/scorer"
-import { scoreMovement } from "@collections/exercises/selection/scorer"
 import {
   asJson,
   countIn,
@@ -28,8 +26,11 @@ const DEFAULT_LIMIT = 15
 
 const CATALOG_READ_LIMIT = 2000
 
+const EXERCISE = "exercise"
+
 const SELECT_FIELDS = [
   "id",
+  "slug",
   "title",
   "exerciseCategory",
   "mechanic",
@@ -58,12 +59,12 @@ export function refsIn(csv: string): readonly string[] {
     .filter((one) => one !== "")
 }
 
-export function rankedBy(pages: readonly Page[], weights: GoalWeights): readonly RankedMovement[] {
-  return pages
-    .map((page) => ({
-      id: page.id,
-      name: displayTitle(page),
-      scores: scoreMovement(movementFeaturesFromPage(page), weights),
+export function rankedBy(rows: readonly Row[], weights: GoalWeights): readonly RankedMovement[] {
+  return rows
+    .map((row) => ({
+      id: row.id,
+      name: titleOf(row),
+      scores: scoreMovement(movementFeaturesIn(row), weights),
     }))
     .sort((a, b) => b.scores.blend - a.scores.blend)
 }
@@ -81,6 +82,20 @@ export function rowOf(one: RankedMovement, at: number): string {
   )
 }
 
+async function namedRows(
+  refs: readonly string[]
+): Promise<{ readonly rows: readonly Row[] } | { readonly refused: readonly string[] }> {
+  const rows: Row[] = []
+  const refusals: string[] = []
+  for (const ref of refs) {
+    const found = await exerciseNamed(ref)
+    if ("refused" in found) refusals.push(found.refused)
+    else rows.push(found.row)
+  }
+  if (refusals.length > 0) return { refused: refusals }
+  return { rows }
+}
+
 export async function exerciseRanks(argv: readonly string[] = []): Promise<Answer> {
   const said = wordsIn(argv, SHAPE)
   if ("refused" in said) return refusedBy(said.refused)
@@ -94,17 +109,17 @@ export async function exerciseRanks(argv: readonly string[] = []): Promise<Answe
 
   try {
     const weights = readSelectionPolicy().weights
-    const pages =
+    const found =
       refs !== null
-        ? await Promise.all(refs.map((ref) => resolveExercise(ref)))
-        : (
-            await getPages({
-              pageTypeSlug: "exercise",
-              select: SELECT_FIELDS,
-              limit: CATALOG_READ_LIMIT,
-            })
-          ).rows
-    const ranked = rankedBy(pages, weights)
+        ? await namedRows(refs)
+        : await rowsFor({
+            pageTypeSlug: EXERCISE,
+            select: SELECT_FIELDS,
+            limit: CATALOG_READ_LIMIT,
+          })
+    if ("refused" in found) return refusedBy(found.refused, DATA)
+    if ("unread" in found) return refusedBy([found.unread], DATA)
+    const ranked = rankedBy(found.rows, weights)
     const shown = refs !== null ? ranked : ranked.slice(0, limit)
 
     if (wantsJson(said)) return asJson({ weights, movements: shown })

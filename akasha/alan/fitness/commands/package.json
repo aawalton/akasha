@@ -11,6 +11,7 @@
     "@akasha/named-for": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@akasha/pages-system-service": "workspace:*",
+    "@akasha/session-planning": "workspace:*",
     "@tools/lib": "workspace:*"
   }
 }

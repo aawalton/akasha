@@ -1,14 +1,13 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { exerciseNamed, openSession } from "@akasha/exercise-access/exercise-finding"
+import { boolIn, numberIn, rowsFor, textIn } from "@akasha/exercise-access/exercise-rows"
 import { FOCUS_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
 import { readSelectionPolicy } from "@akasha/exercise-access/selection-policy"
-import { fieldBool, fieldNum, fieldStr } from "@collections/exercises/cli/fields"
-import { resolveExercise, resolveOpenSession } from "@collections/exercises/cli/resolve"
-import { getPages } from "@collections/exercises/pages/access"
-import type { SessionSet } from "@collections/exercises/selection/next-set"
-import { decideNextSet, partitionSkips } from "@collections/exercises/selection/next-set"
-import type { SelectionEnvelope, SelectorInputs } from "@collections/exercises/selection/selector"
-import { selectSession } from "@collections/exercises/selection/selector"
-import { loadSelectorInputs } from "@collections/exercises/selection/selector-load"
+import type { SessionSet } from "@akasha/session-planning/next-set"
+import { decideNextSet, partitionSkips } from "@akasha/session-planning/next-set"
+import { loadSelectorInputs } from "@akasha/session-planning/session-loading"
+import type { SelectionEnvelope, SelectorInputs } from "@akasha/session-planning/session-selection"
+import { selectSession } from "@akasha/session-planning/session-selection"
 import {
   asJson,
   DATA,
@@ -32,6 +31,8 @@ const FOCUS_CHOICES: readonly string[] = FOCUS_OPTIONS
 
 const SESSION_SET_LIMIT = 200
 
+const SET_LOG = "set-log"
+
 const TIME_BASED = "time-based"
 
 const NO_LOAD = "pick one allowing the range at the RIR target"
@@ -41,7 +42,10 @@ export function withoutSkipped(
   skipped: ReadonlySet<string>
 ): SelectorInputs {
   if (skipped.size === 0) return inputs
-  return { ...inputs, candidates: inputs.candidates.filter((one) => !skipped.has(one.id)) }
+  return {
+    ...inputs,
+    candidates: inputs.candidates.filter((one) => !skipped.has(one.exerciseSlug)),
+  }
 }
 
 export function coverageLine(envelope: SelectionEnvelope): string {
@@ -51,30 +55,47 @@ export function coverageLine(envelope: SelectionEnvelope): string {
   return `covered this week: ${coveredSaid} · still open: ${gapsSaid}`
 }
 
-async function sessionSets(
-  sessionSlug: string
-): Promise<ReadonlyMap<string, readonly SessionSet[]>> {
-  const rows = await getPages({
-    pageTypeSlug: "set-log",
+type Logged =
+  | { readonly byMovement: ReadonlyMap<string, readonly SessionSet[]> }
+  | { readonly refused: string }
+
+async function sessionSets(sessionSlug: string): Promise<Logged> {
+  const rows = await rowsFor({
+    pageTypeSlug: SET_LOG,
     where: [{ key: "sessionSlug", eq: sessionSlug }],
     select: ["id", "exerciseSlug", "setNumber", "reps", "rpe", "isWarmup"],
     limit: SESSION_SET_LIMIT,
   })
+  if ("unread" in rows) return { refused: rows.unread }
   const byMovement = new Map<string, SessionSet[]>()
   for (const row of rows.rows) {
-    if (fieldBool(row, "isWarmup") === true) continue
-    const exerciseSlug = fieldStr(row, "exerciseSlug")
+    if (boolIn(row, "isWarmup") === true) continue
+    const exerciseSlug = textIn(row, "exerciseSlug")
     if (exerciseSlug === undefined) continue
     const held = byMovement.get(exerciseSlug) ?? []
     held.push({
-      setNumber: fieldNum(row, "setNumber") ?? held.length + 1,
-      reps: fieldNum(row, "reps") ?? null,
-      rpe: fieldNum(row, "rpe") ?? null,
+      setNumber: numberIn(row, "setNumber") ?? held.length + 1,
+      reps: numberIn(row, "reps") ?? null,
+      rpe: numberIn(row, "rpe") ?? null,
     })
     byMovement.set(exerciseSlug, held)
   }
   for (const sets of byMovement.values()) sets.sort((a, b) => a.setNumber - b.setNumber)
-  return byMovement
+  return { byMovement }
+}
+
+async function skippedSlugs(
+  refs: readonly string[]
+): Promise<{ readonly slugs: ReadonlySet<string> } | { readonly refused: readonly string[] }> {
+  const slugs = new Set<string>()
+  const refusals: string[] = []
+  for (const ref of refs) {
+    const found = await exerciseNamed(ref)
+    if ("refused" in found) refusals.push(found.refused)
+    else if (found.row.slug !== null) slugs.add(found.row.slug)
+  }
+  if (refusals.length > 0) return { refused: refusals }
+  return { slugs }
 }
 
 export function repsOf(low: number, high: number): string {
@@ -89,32 +110,31 @@ export async function exerciseNextSet(argv: readonly string[] = []): Promise<Ans
   if (typeof focus === "object" && focus !== null) return refusedBy(focus.refused)
 
   try {
-    const session = await resolveOpenSession(said.named[SESSION])
+    const found = await openSession(said.named[SESSION], new Date())
+    if ("refused" in found) return refusedBy([found.refused], DATA)
+    const session = found.row
     if (session.slug === null) {
       return refusedBy([`session ${session.id} carries no slug, so nothing names it`], DATA)
     }
-    const skipRefs = said.repeated[SKIP] ?? []
-    const skipped = new Set(
-      (await Promise.all(skipRefs.map((ref) => resolveExercise(ref))))
-        .map((page) => page.slug)
-        .filter((slug): slug is string => slug !== null)
-    )
+    const skipping = await skippedSlugs(said.repeated[SKIP] ?? [])
+    if ("refused" in skipping) return refusedBy(skipping.refused, DATA)
 
-    const [loaded, loggedByExercise] = await Promise.all([
+    const [loaded, logged] = await Promise.all([
       loadSelectorInputs(focus, new Date(), readSelectionPolicy()),
       sessionSets(session.slug),
     ])
+    if ("refused" in logged) return refusedBy([logged.refused], DATA)
     if (loaded.inputs === null) {
       return refusedBy([
         `no focus is scheduled for ${loaded.dayStr} — say \`${FOCUS} <${FOCUS_CHOICES.join("|")}>\` to train anyway`,
       ])
     }
 
-    const skips = partitionSkips(skipped, loaded.inputs.sessionPerformed)
+    const skips = partitionSkips(skipping.slugs, loaded.inputs.sessionPerformed)
     const { plan, envelope } = selectSession(withoutSkipped(loaded.inputs, skips.toExclude))
     const decision = decideNextSet({
       plan,
-      loggedByExercise,
+      loggedByExercise: logged.byMovement,
       skippedAfterPerforming: skips.afterPerforming,
     })
 
@@ -137,8 +157,8 @@ export async function exerciseNextSet(argv: readonly string[] = []): Promise<Ans
     if (wantsJson(said)) {
       return asJson({
         status: "set",
-        movement: slot.exerciseName,
-        exerciseId: slot.exerciseId,
+        movement: slot.title,
+        exerciseSlug: slot.exerciseSlug,
         set: setNumber,
         ofSets: slot.targetSets,
         reps,
@@ -148,7 +168,7 @@ export async function exerciseNextSet(argv: readonly string[] = []): Promise<Ans
       })
     }
     return told([
-      `movement\t${slot.exerciseName}`,
+      `movement\t${slot.title}`,
       `set\t${setNumber} of ${slot.targetSets}`,
       `reps\t${reps}`,
       `load\t${load ?? NO_LOAD}`,

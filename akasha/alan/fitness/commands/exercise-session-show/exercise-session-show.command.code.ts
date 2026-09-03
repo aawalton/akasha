@@ -1,11 +1,17 @@
 import type { Answer } from "@akasha/command-system/calling"
+import { openSession } from "@akasha/exercise-access/exercise-finding"
+import {
+  boolIn,
+  numberIn,
+  type Row,
+  rowFor,
+  rowsFor,
+  textIn,
+  titleOf,
+} from "@akasha/exercise-access/exercise-rows"
 import { readBodyweight } from "@akasha/exercise-access/selection-policy"
-import { displayTitle, fieldBool, fieldNum, fieldStr } from "@collections/exercises/cli/fields"
-import { resolveOpenSession } from "@collections/exercises/cli/resolve"
-import { getPage, getPages } from "@collections/exercises/pages/access"
-import type { Page } from "@collections/exercises/pages/page"
-import type { VolumeSetInput } from "@collections/exercises/tracking/volume"
-import { computeSessionVolume } from "@collections/exercises/tracking/volume"
+import type { VolumeSetInput } from "@akasha/exercise-access/set-volume"
+import { computeSessionVolume } from "@akasha/exercise-access/set-volume"
 import {
   asJson,
   DATA,
@@ -23,6 +29,12 @@ const SHAPE = { valued: [SESSION], switches: [JSON_SAID] }
 const STRENGTH = "strength"
 
 const EMPTY = "-"
+
+const EXERCISE = "exercise"
+
+const SET_LOG = "set-log"
+
+const SCHEDULE_DAY = "schedule-day"
 
 export type MovementInfo = {
   readonly title: string
@@ -44,24 +56,24 @@ export type SetLine = {
 }
 
 export function setLinesOf(
-  rows: readonly Page[],
+  rows: readonly Row[],
   movements: ReadonlyMap<string, MovementInfo>
 ): readonly SetLine[] {
   return rows
     .map((row) => {
-      const exerciseSlug = fieldStr(row, "exerciseSlug")
+      const exerciseSlug = textIn(row, "exerciseSlug")
       const info = exerciseSlug !== undefined ? movements.get(exerciseSlug) : undefined
       return {
         exercise: info?.title ?? exerciseSlug ?? EMPTY,
-        setNumber: fieldNum(row, "setNumber") ?? 0,
-        reps: fieldNum(row, "reps"),
-        weight: fieldNum(row, "weight"),
-        rpe: fieldNum(row, "rpe"),
-        isWarmup: fieldBool(row, "isWarmup") ?? false,
-        note: fieldStr(row, "note"),
-        activityType: fieldStr(row, "activityType"),
-        durationSeconds: fieldNum(row, "durationSeconds"),
-        distance: fieldNum(row, "distance"),
+        setNumber: numberIn(row, "setNumber") ?? 0,
+        reps: numberIn(row, "reps"),
+        weight: numberIn(row, "weight"),
+        rpe: numberIn(row, "rpe"),
+        isWarmup: boolIn(row, "isWarmup") ?? false,
+        note: textIn(row, "note"),
+        activityType: textIn(row, "activityType"),
+        durationSeconds: numberIn(row, "durationSeconds"),
+        distance: numberIn(row, "distance"),
       }
     })
     .sort((a, b) => {
@@ -79,10 +91,14 @@ export function rowOf(line: SetLine): string {
   )
 }
 
-async function titleBySlug(pageTypeSlug: string, slug: string | undefined): Promise<string | null> {
-  if (slug === undefined) return null
-  const page = await getPage({ pageTypeSlug, where: [{ key: "slug", eq: slug }] })
-  return page !== null ? displayTitle(page) : null
+async function titleBySlug(
+  pageTypeSlug: string,
+  slug: string | undefined
+): Promise<{ readonly title: string | null } | { readonly refused: string }> {
+  if (slug === undefined) return { title: null }
+  const found = await rowFor({ pageTypeSlug, where: [{ key: "slug", eq: slug }] })
+  if ("unread" in found) return { refused: found.unread }
+  return { title: found.row === null ? null : titleOf(found.row) }
 }
 
 export async function exerciseSessionShow(argv: readonly string[] = []): Promise<Answer> {
@@ -90,59 +106,67 @@ export async function exerciseSessionShow(argv: readonly string[] = []): Promise
   if ("refused" in said) return refusedBy(said.refused)
 
   try {
-    const session = await resolveOpenSession(said.named[SESSION])
+    const found = await openSession(said.named[SESSION], new Date())
+    if ("refused" in found) return refusedBy([found.refused], DATA)
+    const session = found.row
     if (session.slug === null) {
       return refusedBy([`session ${session.id} carries no slug, so nothing names it`], DATA)
     }
-    const setLogs = await getPages({
-      pageTypeSlug: "set-log",
+    const setLogs = await rowsFor({
+      pageTypeSlug: SET_LOG,
       where: [{ key: "sessionSlug", eq: session.slug }],
     })
+    if ("unread" in setLogs) return refusedBy([setLogs.unread], DATA)
     const exerciseSlugs = [
       ...new Set(
         setLogs.rows
-          .map((row) => fieldStr(row, "exerciseSlug"))
+          .map((row) => textIn(row, "exerciseSlug"))
           .filter((slug): slug is string => slug !== undefined)
       ),
     ]
     const movements = new Map<string, MovementInfo>()
     if (exerciseSlugs.length > 0) {
-      const rows = await getPages({
-        pageTypeSlug: "exercise",
+      const rows = await rowsFor({
+        pageTypeSlug: EXERCISE,
         where: [{ key: "slug", in: exerciseSlugs }],
         select: ["id", "slug", "title", "loadFactor", "implementCount"],
+        limit: exerciseSlugs.length,
       })
+      if ("unread" in rows) return refusedBy([rows.unread], DATA)
       for (const row of rows.rows) {
         if (row.slug === null) continue
         movements.set(row.slug, {
-          title: fieldStr(row, "title") ?? row.slug,
-          loadFactor: fieldNum(row, "loadFactor"),
-          implementCount: fieldNum(row, "implementCount"),
+          title: textIn(row, "title") ?? row.slug,
+          loadFactor: numberIn(row, "loadFactor"),
+          implementCount: numberIn(row, "implementCount"),
         })
       }
     }
 
     const bodyweight = readBodyweight()
     const volumeInputs: readonly VolumeSetInput[] = setLogs.rows.map((row) => {
-      const exerciseSlug = fieldStr(row, "exerciseSlug")
+      const exerciseSlug = textIn(row, "exerciseSlug")
       const info = exerciseSlug !== undefined ? movements.get(exerciseSlug) : undefined
       return {
-        reps: fieldNum(row, "reps"),
-        weight: fieldNum(row, "weight"),
-        isWarmup: fieldBool(row, "isWarmup"),
-        activityType: fieldStr(row, "activityType"),
+        reps: numberIn(row, "reps"),
+        weight: numberIn(row, "weight"),
+        isWarmup: boolIn(row, "isWarmup"),
+        activityType: textIn(row, "activityType"),
         loadFactor: info?.loadFactor,
         implementCount: info?.implementCount,
       }
     })
 
+    const scheduleDay = await titleBySlug(SCHEDULE_DAY, textIn(session, "scheduleDaySlug"))
+    if ("refused" in scheduleDay) return refusedBy([scheduleDay.refused], DATA)
+
     const header = {
       id: session.id,
-      title: displayTitle(session),
-      date: fieldStr(session, "workoutSessionDate") ?? null,
-      scheduleDay: await titleBySlug("schedule-day", fieldStr(session, "scheduleDaySlug")),
-      startedAt: fieldStr(session, "workoutSessionStartedAt") ?? null,
-      completedAt: fieldStr(session, "workoutSessionCompletedAt") ?? null,
+      title: titleOf(session),
+      date: textIn(session, "workoutSessionDate") ?? null,
+      scheduleDay: scheduleDay.title,
+      startedAt: textIn(session, "workoutSessionStartedAt") ?? null,
+      completedAt: textIn(session, "workoutSessionCompletedAt") ?? null,
       totalVolume: computeSessionVolume(volumeInputs, bodyweight),
     }
     const lines = setLinesOf(setLogs.rows, movements)
