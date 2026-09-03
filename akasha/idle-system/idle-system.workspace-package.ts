@@ -7,6 +7,7 @@ export const idleSystem = {
   definition: "the rules an idle game's roster earns and grows by",
   manifest: "json",
   partSlugs: [
+    "page-type/idle-persona-card",
     "module/idle-state",
     "module/idle-constants",
     "module/idle-gacha-state",

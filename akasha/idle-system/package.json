@@ -12,7 +12,8 @@
     "./gacha-heat": "./idle-gacha-heat/idle-gacha-heat.module.code.ts",
     "./rate": "./idle-rate/idle-rate.module.code.ts",
     "./accrual": "./idle-accrual/idle-accrual.module.code.ts",
-    "./draw": "./idle-draw/idle-draw.module.code.ts"
+    "./draw": "./idle-draw/idle-draw.module.code.ts",
+    "./idle-persona-card": "./idle-persona-cards/idle-persona-card.page-type.ts"
   },
   "dependencies": {
     "zod": "^4.3.6"
