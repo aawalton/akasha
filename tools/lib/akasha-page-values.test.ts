@@ -9,14 +9,14 @@ import { answer } from "./page-query.ts"
 
 const REPO = resolve(import.meta.dir, "..", "..")
 
-const DAY = "day-2026-08-31.daily-tracking.ts"
+const DAY = "wake-day-2026-08-31.wake-day.ts"
 
-const DAY_BODY = `import type { DailyTracking } from "../daily-tracking.page-type.ts"
+const DAY_BODY = `import type { WakeDay } from "../../wake-day.page-type.ts"
 
-export const day20260831 = {
+export const wakeDay20260831 = {
   id: "01a05582-adf0-7000-973b-9313436f9e7e",
-  pageTypeSlug: "daily-tracking",
-  slug: "day-2026-08-31",
+  pageTypeSlug: "wake-day",
+  slug: "wake-day-2026-08-31",
   title: "@date:2026-08-31",
   date: "2026-08-31",
   version: "3.0",
@@ -24,19 +24,19 @@ export const day20260831 = {
   inboxTasksClearedToday: false,
   meals: ["one", "two"],
   sessions: "jsonl",
-} as const satisfies DailyTracking
+} as const satisfies WakeDay
 `
 
 /** The same day as akasha's own composer writes one: the file name states the slug and the type. */
-const COMPOSED = "day-2026-09-02.daily-tracking.ts"
+const COMPOSED = "wake-day-2026-09-02.wake-day.ts"
 
-const COMPOSED_BODY = `import type { DailyTracking } from "../daily-tracking.page-type.ts"
+const COMPOSED_BODY = `import type { WakeDay } from "../../wake-day.page-type.ts"
 
-export const day20260902 = {
+export const wakeDay20260902 = {
   id: "01a05fff-0000-7000-8000-000000000001",
   title: "@date:2026-09-02",
   date: "2026-09-02",
-} as const satisfies DailyTracking
+} as const satisfies WakeDay
 `
 
 /** A row beside an akasha page is camel, because that is the spelling `akasha write` judges. */
@@ -56,11 +56,11 @@ function corpus(): string {
     join(root, "pages", "page-property-definition"),
     { recursive: true }
   )
-  const days = join(root, "akasha", "alan", "daily-tracking", "daily-trackings")
+  const days = join(root, "akasha", "alan", "tracking", "daily", "wake-days", "pages")
   mkdirSync(days, { recursive: true })
   writeFileSync(join(days, DAY), DAY_BODY)
   writeFileSync(join(days, COMPOSED), COMPOSED_BODY)
-  writeFileSync(join(days, "day-2026-08-31.daily-tracking.sessions.jsonl"), ROWS)
+  writeFileSync(join(days, "wake-day-2026-08-31.wake-day.sessions.jsonl"), ROWS)
   dropDerivers()
   forgetRowsPages()
   return root
@@ -68,12 +68,12 @@ function corpus(): string {
 
 describe("the values an akasha page declares", () => {
   test("a `.ts` page is one and a `.md` page is not", () => {
-    expect(isAkashaPage("akasha/alan/x/day-2026-03-05.daily-tracking.ts")).toBe(true)
+    expect(isAkashaPage("akasha/alan/x/wake-day-2026-03-05.wake-day.ts")).toBe(true)
     expect(isAkashaPage("pages/daily-tracking/2026-03-05.daily-tracking.md")).toBe(false)
   })
 
   test("camel keys become kebab and every value is carried as text", () => {
-    const values = valuesOfDeclared("x/day-2026-03-05.daily-tracking.ts", {
+    const values = valuesOfDeclared("x/wake-day-2026-03-05.wake-day.ts", {
       healthPoints: 2.2166,
       inboxTasksClearedToday: false,
       meals: ["one", "two"],
@@ -84,18 +84,18 @@ describe("the values an akasha page declares", () => {
   })
 
   test("a body stating no slug and no page type takes both off its file name", () => {
-    const values = valuesOfDeclared("x/day-2026-03-05.daily-tracking.ts", { date: "2026-03-05" })
-    expect(values["slug"]).toBe("day-2026-03-05")
-    expect(values["page-type-slug"]).toBe("daily-tracking")
+    const values = valuesOfDeclared("x/wake-day-2026-03-05.wake-day.ts", { date: "2026-03-05" })
+    expect(values["slug"]).toBe("wake-day-2026-03-05")
+    expect(values["page-type-slug"]).toBe("wake-day")
   })
 
   test("a body stating them keeps what it states", () => {
-    const values = valuesOfDeclared("x/day-2026-03-05.daily-tracking.ts", {
-      slug: "day-2026-03-05",
-      pageTypeSlug: "daily-tracking",
+    const values = valuesOfDeclared("x/wake-day-2026-03-05.wake-day.ts", {
+      slug: "wake-day-2026-03-05",
+      pageTypeSlug: "wake-day",
     })
-    expect(values["slug"]).toBe("day-2026-03-05")
-    expect(values["page-type-slug"]).toBe("daily-tracking")
+    expect(values["slug"]).toBe("wake-day-2026-03-05")
+    expect(values["page-type-slug"]).toBe("wake-day")
   })
 
   test("a camel row is turned and a kebab row is left as it stands", () => {
@@ -123,7 +123,7 @@ describe("the query engine reads both halves of one page type", () => {
       })
       expect(one?.n).toBe(1)
       expect(one?.rows[0]?.values["health-points"]).toBe("2.2166")
-      expect(one?.rows[0]?.values["slug"]).toBe("day-2026-08-31")
+      expect(one?.rows[0]?.values["slug"]).toBe("wake-day-2026-08-31")
 
       // The day whose body states neither slug nor page type is found all the same.
       const composed = answer(roots, {
@@ -131,14 +131,14 @@ describe("the query engine reads both halves of one page type", () => {
         where: [{ key: "date", is: "2026-09-02" }],
       })
       expect(composed?.n).toBe(1)
-      expect(composed?.rows[0]?.values["slug"]).toBe("day-2026-09-02")
+      expect(composed?.rows[0]?.values["slug"]).toBe("wake-day-2026-09-02")
 
       const sessions = answer(roots, { pageType: "session-tracking" })
       expect(sessions?.n).toBe(1)
       const row = sessions?.rows[0]?.values
       expect(row?.["start-time"]).toBe("2026-08-30T23:22:00.000Z")
       expect(row?.["daily-tracking"]).toBe("01a05582-adf0-7000-973b-9313436f9e7e")
-      expect(row?.["daily-tracking-slug"]).toBe("day-2026-08-31")
+      expect(row?.["daily-tracking-slug"]).toBe("wake-day-2026-08-31")
     } finally {
       rmSync(root, { recursive: true, force: true })
       dropDerivers()
