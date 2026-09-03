@@ -8,6 +8,8 @@ export const generation = {
   pluralSlug: "generations",
   partSlugs: [
     "page-type/audio",
+    "page-type/generation-log",
+    "page-type/image",
     "workspace-package/upscale",
     "workspace-package/wan",
     "workspace-package/zimage",
