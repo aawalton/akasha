@@ -10,7 +10,7 @@ export const akashaMigration = {
     {
       statement: "All files in the akasha repo are in the akasha subfolder.",
       workingMemory:
-        "Now 568 outside akasha against 137,298 inside, from 69,894 and 32,904 at dispatch: tools/lib 317, page-property-definition 145, tools loose 32, readouts 10, root 4. The largest single block is a 125-file model-gateway closure held by tools/lib/model-gateway-tree-version.ts, 9 readers. MEASURED: a census spelling `@tools/lib/<stem>.ts` misses the extensionless specifier; 7 of 12 apparent zeros had live readers, 2 under running units.",
+        "472 outside akasha against 137,414 inside, from 69,894 and 32,904 at dispatch: tools/lib flat 192, page-property-definition 71, model-gateway 31, tools loose 26, tracking 25, daily-tracking 20. MEASURED: the gateway closure is resolved at runtime from main.ts following relative specifiers only, and it read 148 at 12:15, 23 at 13:05, 125 now, so a liveness census expires and must be re-measured immediately before landing a removal. Two workstation services throw every ten seconds.",
     },
     {
       statement: "Alan's own records are akasha pages.",
