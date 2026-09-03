@@ -1,0 +1,10 @@
+{
+  "name": "@types/vscode",
+  "version": "1.110.0",
+  "private": true,
+  "description": "the editor fork's own API, presented where a typecheck under akasha/ can find it",
+  "types": "vscode-typings.type-declaration.d.ts",
+  "files": [
+    "vscode-typings.type-declaration.d.ts"
+  ]
+}
