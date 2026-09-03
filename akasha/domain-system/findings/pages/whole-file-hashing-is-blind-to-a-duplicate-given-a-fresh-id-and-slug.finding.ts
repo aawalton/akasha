@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const wholeFileHashingIsBlindToADuplicateGivenAFreshIdAndSlug = {
+  id: "01a06769-dbe1-734f-bd0f-8c4c34983f90",
+  pageTypeSlug: "finding",
+  slug: "whole-file-hashing-is-blind-to-a-duplicate-given-a-fresh-id-and-slug",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "Hashing whole files finds the same content filed under a different stem and finds nothing at all when the same content is filed with a freshly minted id and slug, which is the shape a migration produces. Demonstrated over one pair: whole-file hashing answered no duplicate and hashing the body alone answered one. A distinctness check therefore has three arms, hashing the whole file, hashing the body with id and slug taken out, and reading slug and id for repeats.",
+  evidence:
+    "Measured 2026-09-03 over the alert, refusal and domain families as they landed.\n\nTHE DEMONSTRATION. I took a landed page, `akasha/infrastructure/alerts/pages/*.alert.ts`, and composed a copy of it carrying a new id and a new slug and nothing else changed. Hashing the two whole files gives two hashes and answers zero duplicates. Hashing the two bodies with the `id` and `slug` lines taken out gives one hash twice and answers one. Same pair of files, same run, opposite answers. A migration re-minting ids is exactly the process that makes the second copy, so the arm most lanes reach for first is the arm blind to what a migration does.\n\nEACH ARM WAS SEEDED BEFORE ITS ZERO WAS BELIEVED. A byte-identical copy under a second stem was planted and the first arm found it. A body-identical copy carrying a fresh id and slug was planted and the second arm found it. Two files sharing a slug were planted and the third arm found it. Only then were the true readings taken.\n\nTHE TRUE READINGS. 65 alert pages, 27 refusal pages and 169 domain pages, 261 in all, answered zero on every arm: no whole file repeated, no body repeated once id and slug were taken out, no slug repeated, no id repeated.\n\nWHY THE THIRD ARM EARNS ITS PLACE ALONGSIDE THE SECOND. The second arm answers whether two pages say the same thing. The third answers whether two pages are reached by the same name, which can happen between pages whose bodies differ, and a slug is declared unique among the pages of its page type. Neither arm implies the other.\n\nThe arms cost one run each over a family and the families here are small enough that all three ran in seconds.",
+} as const satisfies Finding
