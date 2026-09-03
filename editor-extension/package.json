@@ -1,5 +1,5 @@
 {
-  "name": "ops",
+  "name": "ops-unmigrated",
   "displayName": "Ops",
   "description": "Workstation-local helpers paired with the ops CLI. 'ops' is a placeholder name taken from the CLI; the editor has not been named, and naming it is a process of its own.",
   "publisher": "vscode",
