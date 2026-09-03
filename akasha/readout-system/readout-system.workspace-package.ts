@@ -11,6 +11,7 @@ export const readoutSystem = {
     "page-type/readout-group",
     "page-type/readout-scale",
     "page-type/readout-widget",
+    "page-type/value",
     "module/readout-answering",
     "module/readout-asking",
     "module/readout-body",
