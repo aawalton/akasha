@@ -2,11 +2,7 @@ import type { Answer } from "@akasha/command-system/calling"
 import { computeItemStock } from "@akasha/temper-items-core/compute-item-stock"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
 import { computeBuyShortfall } from "@akasha/temper-items-rules-core/buy-rule-eval"
-import {
-  assembleSnapshot,
-  latestSnapshot,
-  snapshotChunks,
-} from "@tools/lib/temper-inventory/snapshot-read"
+import { latestSnapshot, snapshotDatabase } from "@tools/lib/temper-inventory/snapshot-read"
 import { USER_ID } from "@tools/lib/user-id"
 import {
   answering,
@@ -44,7 +40,7 @@ const UNREAD: Standing = { currentTotal: null, shortfall: null }
 async function latestInventory(): Promise<InventoryDatabase | null> {
   const header = await latestSnapshot(USER_ID)
   if (header === null) return null
-  return assembleSnapshot(await snapshotChunks(header.slug))
+  return snapshotDatabase(header.slug)
 }
 
 async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {

@@ -1,4 +1,10 @@
+import { existsSync } from "node:fs"
+import { readFile } from "node:fs/promises"
+import { join } from "node:path"
+import { listedAt } from "@akasha/indexes"
 import { askComposed } from "@akasha/pages-query/store-spelled-asking"
+import { codeRoot } from "@akasha/pages-system/code-root"
+import { besideAt } from "@akasha/pages-system/page-file-name"
 import { assembleInventory } from "@akasha/temper-items-core/assemble-inventory"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
 import { shape } from "../shape.ts"
@@ -77,4 +83,26 @@ export async function assembleSnapshot(
   chunks: readonly Chunk[]
 ): Promise<InventoryDatabase | null> {
   return assembleInventory(chunks)
+}
+
+const DATA_PROPERTY = "data"
+
+const HELD = "json"
+
+// The chunk pages record only how the transport divided a reading; the bytes
+// themselves stand in the snapshot’s own data file, already rejoined, so a
+// reading is read from that file rather than from chunk rows.
+export async function snapshotDatabase(slug: string): Promise<InventoryDatabase | null> {
+  const root = codeRoot()
+  const found = listedAt(root, SNAPSHOT_PAGE_TYPE, slug)[0]
+  if (found === undefined) return null
+  const beside = besideAt(found.path, DATA_PROPERTY, HELD)
+  if (beside === null) return null
+  const at = join(root, beside)
+  if (!existsSync(at)) return null
+  try {
+    return JSON.parse(await readFile(at, "utf8")) as InventoryDatabase
+  } catch {
+    return null
+  }
 }
