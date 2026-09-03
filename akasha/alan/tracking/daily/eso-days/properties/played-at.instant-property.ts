@@ -7,11 +7,5 @@ export const playedAt = {
   pageTypeSlug: "instant-property",
   slug: "played-at",
   propertySlug: "played-at",
-  definition: "when a play of a track finished",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A play's instant is when the play finished rather than when the play began.",
-    },
-  ],
+  definition: "when a play happened",
 } as const satisfies InstantProperty
