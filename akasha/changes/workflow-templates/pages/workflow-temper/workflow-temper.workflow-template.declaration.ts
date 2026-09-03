@@ -9,7 +9,11 @@ export const workflows = [
     dependsOn: ["ci-images", "preparation"],
     when: { branch: "main", event: "push" },
     steps: [
-      applyRbac({ name: "temper-apply-rbac", rbacFile: "tools/lib/rbac/temper-web.ts" }),
+      applyRbac({
+        name: "temper-apply-rbac",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/temper-web-rbac/temper-web-rbac.module.code.ts",
+      }),
       kubectlApply({
         name: "temper-infra-apply-service",
         namespace: "temper",

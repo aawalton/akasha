@@ -3,8 +3,8 @@
   "private": true,
   "type": "module",
   "dependencies": {
+    "@akasha/cluster-manifests": "workspace:*",
     "@akasha/command-system": "workspace:*",
-    "@akasha/talos": "workspace:*",
-    "@tools/lib": "workspace:*"
+    "@akasha/talos": "workspace:*"
   }
 }

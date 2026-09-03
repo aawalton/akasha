@@ -9,7 +9,11 @@ export const workflows = [
     dependsOn: ["ci-images", "preparation"],
     when: { branch: "main", event: "push" },
     steps: [
-      applyRbac({ name: "audhdalan-apply-rbac", rbacFile: "tools/lib/rbac/audhdalan-web.ts" }),
+      applyRbac({
+        name: "audhdalan-apply-rbac",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/audhdalan-web-rbac/audhdalan-web-rbac.module.code.ts",
+      }),
       kubectlApply({
         name: "audhdalan-infra-apply-service",
         namespace: "audhdalan",

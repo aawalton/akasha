@@ -16,7 +16,8 @@ export default workflow("cert-manager", {
   steps: [
     applyRbac({
       name: "cert-manager-apply-rbac",
-      rbacFile: "tools/lib/rbac/cert-manager.ts",
+      rbacFile:
+        "akasha/infrastructure/cluster-manifests/cert-manager-rbac/cert-manager-rbac.module.code.ts",
     }),
     {
       ...sopsDecryptApply({

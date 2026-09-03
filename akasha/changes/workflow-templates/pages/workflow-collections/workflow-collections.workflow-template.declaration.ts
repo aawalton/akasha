@@ -12,7 +12,8 @@ export const workflows = [
     steps: [
       applyRbac({
         name: "collections-apply-rbac",
-        rbacFile: "tools/lib/rbac/collections.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/collections-rbac/collections-rbac.module.code.ts",
       }),
       sopsDecryptApply({
         name: "collections-infra-apply-secrets",

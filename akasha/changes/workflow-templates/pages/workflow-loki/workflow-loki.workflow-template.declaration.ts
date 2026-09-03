@@ -24,7 +24,10 @@ export default workflow("loki", {
     }),
 
     {
-      ...applyRbac({ name: "loki-apply-rbac", rbacFile: "tools/lib/rbac/loki.ts" }),
+      ...applyRbac({
+        name: "loki-apply-rbac",
+        rbacFile: "akasha/infrastructure/cluster-manifests/loki-rbac/loki-rbac.module.code.ts",
+      }),
       dependsOn: ["loki-apply-namespace"],
     },
 

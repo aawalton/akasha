@@ -26,7 +26,8 @@ export default workflow("headscale", {
     }),
     applyRbac({
       name: "headscale-apply-rbac",
-      rbacFile: "tools/lib/rbac/headscale.ts",
+      rbacFile:
+        "akasha/infrastructure/cluster-manifests/headscale-rbac/headscale-rbac.module.code.ts",
     }),
     sopsDecryptApply({
       name: "headscale-apply-secret",

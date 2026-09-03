@@ -25,7 +25,8 @@ export default workflow("eso-rig", {
     {
       ...applyRbac({
         name: "eso-rig-apply-rbac",
-        rbacFile: "tools/lib/rbac/eso-rig.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/eso-rig-rbac/eso-rig-rbac.module.code.ts",
       }),
       dependsOn: ["eso-rig-apply-namespace"],
     },

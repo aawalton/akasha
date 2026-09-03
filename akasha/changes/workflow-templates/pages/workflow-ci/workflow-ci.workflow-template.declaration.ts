@@ -17,7 +17,7 @@ export default workflow("ci", {
         commands: () => [
           "set -e",
           `[ -n "$AKASHA_ROOT" ] || { echo "ERROR: emitting the deploy ClusterRole needs AKASHA_ROOT, and this step container was given none, so the account it would grant cannot be read" >&2; exit 1; }`,
-          `bun "$AKASHA_ROOT/tools/ops/cli.ts" cluster-rbac-manifest > /tmp/pipeline-rbac.yaml`,
+          `bun "$AKASHA_ROOT/akasha/command-system/cli/cli.module.code.ts" cluster-rbac-manifest > /tmp/pipeline-rbac.yaml`,
           "kubectl apply -f /tmp/pipeline-rbac.yaml",
         ],
         backendOptions: {

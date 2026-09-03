@@ -11,7 +11,8 @@ export const workflows = [
     steps: [
       applyRbac({
         name: "archive-of-worlds-apply-rbac",
-        rbacFile: "tools/lib/rbac/archive-of-worlds-web.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/archive-of-worlds-web-rbac/archive-of-worlds-web-rbac.module.code.ts",
       }),
       kubectlApply({
         name: "archive-of-worlds-infra-apply-service",

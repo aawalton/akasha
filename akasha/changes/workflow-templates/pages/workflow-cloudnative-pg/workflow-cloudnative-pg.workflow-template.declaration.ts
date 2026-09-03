@@ -30,7 +30,8 @@ export default workflow("cloudnative-pg", {
     {
       ...applyRbac({
         name: "cloudnative-pg-apply-rbac",
-        rbacFile: "tools/lib/rbac/cloudnative-pg.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/cloudnative-pg-rbac/cloudnative-pg-rbac.module.code.ts",
       }),
       dependsOn: ["cloudnative-pg-apply-namespace"],
     },

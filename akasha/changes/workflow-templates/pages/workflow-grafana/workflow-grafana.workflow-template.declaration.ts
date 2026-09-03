@@ -26,7 +26,8 @@ export default workflow("grafana", {
     {
       ...applyRbac({
         name: "grafana-apply-rbac",
-        rbacFile: "tools/lib/rbac/grafana.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/grafana-rbac/grafana-rbac.module.code.ts",
       }),
       dependsOn: ["grafana-apply-namespace"],
     },

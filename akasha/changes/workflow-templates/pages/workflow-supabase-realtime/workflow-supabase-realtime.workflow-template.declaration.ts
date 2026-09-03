@@ -29,7 +29,8 @@ export default workflow("supabase-realtime", {
     {
       ...applyRbac({
         name: "supabase-realtime-apply-rbac",
-        rbacFile: "tools/lib/rbac/supabase-realtime.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/supabase-realtime-rbac/supabase-realtime-rbac.module.code.ts",
       }),
       dependsOn: ["supabase-realtime-apply-namespace"],
     },

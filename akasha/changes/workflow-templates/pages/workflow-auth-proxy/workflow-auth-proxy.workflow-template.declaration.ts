@@ -21,7 +21,8 @@ export default workflow("auth-proxy", {
     {
       ...applyRbac({
         name: "auth-proxy-apply-rbac",
-        rbacFile: "tools/lib/rbac/auth-proxy.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/auth-proxy-rbac/auth-proxy-rbac.module.code.ts",
       }),
       dependsOn: ["auth-proxy-apply-namespace"],
     },

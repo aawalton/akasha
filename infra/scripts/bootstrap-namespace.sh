@@ -109,7 +109,7 @@ fi
 
 log "Step 4: Applying CI pipeline RBAC for namespace '$NAMESPACE'"
 
-ops cluster-rbac-manifest | kubectl apply -f -
+akasha cluster-rbac-manifest | kubectl apply -f -
 ok "CI pipeline RBAC applied for '$NAMESPACE'"
 
 echo ""

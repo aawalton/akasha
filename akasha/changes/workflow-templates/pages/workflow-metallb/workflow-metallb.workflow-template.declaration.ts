@@ -13,7 +13,10 @@ export default workflow("metallb", {
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
   steps: [
-    applyRbac({ name: "metallb-apply-rbac", rbacFile: "tools/lib/rbac/metallb.ts" }),
+    applyRbac({
+      name: "metallb-apply-rbac",
+      rbacFile: "akasha/infrastructure/cluster-manifests/metallb-rbac/metallb-rbac.module.code.ts",
+    }),
     {
       ...step({
         name: "metallb-apply-ip-pool",

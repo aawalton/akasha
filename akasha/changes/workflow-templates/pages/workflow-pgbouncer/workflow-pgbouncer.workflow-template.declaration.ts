@@ -26,7 +26,8 @@ export default workflow("pgbouncer", {
     {
       ...applyRbac({
         name: "pgbouncer-apply-rbac",
-        rbacFile: "tools/lib/rbac/pgbouncer.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },

@@ -11,7 +11,16 @@ export interface RbacProfileSource {
 
 function listProfileSources(root: string): readonly string[] {
   const glob = new Bun.Glob(RBAC_GLOB)
-  return [...glob.scanSync({ cwd: root, onlyFiles: true })].sort().map((rel) => join(root, rel))
+  let found: readonly string[]
+  try {
+    found = [...glob.scanSync({ cwd: root, onlyFiles: true })]
+  } catch (cause) {
+    throw new Error(
+      `no RBAC profile source under ${root} could be looked for, and every namespace role is ` +
+        `declared in one of them: ${cause instanceof Error ? cause.message : String(cause)}`
+    )
+  }
+  return [...found].sort().map((rel) => join(root, rel))
 }
 
 export async function profileSources(root: string): Promise<readonly RbacProfileSource[]> {

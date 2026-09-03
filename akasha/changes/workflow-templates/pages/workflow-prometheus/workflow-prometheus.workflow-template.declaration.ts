@@ -26,7 +26,8 @@ export default workflow("prometheus", {
     {
       ...applyRbac({
         name: "prometheus-apply-rbac",
-        rbacFile: "tools/lib/rbac/prometheus.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/prometheus-rbac/prometheus-rbac.module.code.ts",
       }),
       dependsOn: ["prometheus-apply-namespace"],
     },

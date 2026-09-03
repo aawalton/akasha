@@ -11,7 +11,11 @@ export const workflows = [
     dependsOn: ["ci-images", "preparation", "seaweedfs"],
     when: { branch: "main", event: "push" },
     steps: [
-      applyRbac({ name: "alanwalton-apply-rbac", rbacFile: "tools/lib/rbac/alanwalton-web.ts" }),
+      applyRbac({
+        name: "alanwalton-apply-rbac",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/alanwalton-web-rbac/alanwalton-web-rbac.module.code.ts",
+      }),
       kubectlApply({
         name: "alanwalton-infra-apply-service",
         namespace: "alanwalton",

@@ -19,7 +19,8 @@ export default workflow("pod-janitor", {
     {
       ...applyRbac({
         name: "pod-janitor-apply-rbac",
-        rbacFile: "tools/lib/rbac/pod-janitor.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/pod-janitor-rbac/pod-janitor-rbac.module.code.ts",
       }),
       dependsOn: ["pod-janitor-apply-namespace"],
     },

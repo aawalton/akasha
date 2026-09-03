@@ -11,7 +11,8 @@ export const workflows = [
     steps: [
       applyRbac({
         name: "smilingjenny-apply-rbac",
-        rbacFile: "tools/lib/rbac/smilingjenny-web.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/smilingjenny-web-rbac/smilingjenny-web-rbac.module.code.ts",
       }),
       kubectlApply({
         name: "smilingjenny-infra-apply-service",

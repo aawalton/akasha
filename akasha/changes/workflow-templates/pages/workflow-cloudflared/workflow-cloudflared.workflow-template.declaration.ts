@@ -20,7 +20,8 @@ export default workflow("cloudflared", {
     }),
     applyRbac({
       name: "cloudflared-apply-rbac",
-      rbacFile: "tools/lib/rbac/cloudflared.ts",
+      rbacFile:
+        "akasha/infrastructure/cluster-manifests/cloudflared-rbac/cloudflared-rbac.module.code.ts",
     }),
     sopsDecryptApply({
       name: "cloudflared-apply-secret",

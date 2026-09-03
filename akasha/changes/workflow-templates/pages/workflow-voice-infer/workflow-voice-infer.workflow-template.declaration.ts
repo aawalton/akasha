@@ -33,7 +33,8 @@ export default workflow("voice-infer", {
     {
       ...applyRbac({
         name: "voice-infer-apply-rbac",
-        rbacFile: "tools/lib/rbac/voice-infer.ts",
+        rbacFile:
+          "akasha/infrastructure/cluster-manifests/voice-infer-rbac/voice-infer-rbac.module.code.ts",
       }),
       dependsOn: ["voice-infer-apply-namespace"],
     },

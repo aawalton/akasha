@@ -23,7 +23,7 @@ const profiles = mod.profiles ?? mod.default;
 if (!Array.isArray(profiles) || profiles.length === 0) {
   throw new Error('${rbacFile} exports no profiles, so this step would apply an empty document and report success');
 }
-const { LABELS } = await import('$AKASHA_ROOT/tools/lib/cluster-rbac/rules.ts');
+const { LABELS } = await import('$AKASHA_ROOT/akasha/infrastructure/cluster-manifests/rbac-identity/rbac-identity.module.code.ts');
 function inlineArray(arr) { return '[' + arr.map(s => '\\"' + s + '\\"').join(', ') + ']'; }
 function formatLabels(indent, labels) {
   const pad = ' '.repeat(indent);
