@@ -1,5 +1,4 @@
 import { readMemInfoKb } from "@akasha/utils-system/memory-guard"
-import { withTickDeadline } from "@tools/lib/tick-deadline"
 import {
   GLOBAL_MIN_AVAIL_KB,
   GLOBAL_MIN_FREE_SWAP_KB,
@@ -27,6 +26,7 @@ import {
   readSupervisorPids,
   readUserPidSnapshots,
 } from "../memory-reaper-read/memory-reaper-read.module.code.ts"
+import { withTickDeadline } from "../tick-deadline/tick-deadline.module.code.ts"
 
 export type ReaperState = { lastGlobalKillAtMs: number | null }
 

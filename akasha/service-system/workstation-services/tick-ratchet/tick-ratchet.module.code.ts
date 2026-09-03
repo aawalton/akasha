@@ -21,10 +21,7 @@ export interface TickRatchet {
   readonly why: () => string
 }
 
-export function tickRatchet(
-  name: string,
-  threshold: number = TICKS_BEFORE_ENDING
-): TickRatchet {
+export function tickRatchet(name: string, threshold: number = TICKS_BEFORE_ENDING): TickRatchet {
   if (!Number.isInteger(threshold) || threshold < 1) {
     throw new Error(
       `tickRatchet: \`${name}\` set a threshold of ${threshold}, and a run of throws is counted in whole ticks from one`

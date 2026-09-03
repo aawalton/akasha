@@ -1,3 +1,4 @@
+import { TICKS_BEFORE_ENDING, tickRatchet } from "@akasha/service-system/tick-ratchet"
 import {
   LOG,
   runBoundedSurplusFallTick,
@@ -5,7 +6,6 @@ import {
   TICK_MS,
   WORKER_NAME,
 } from "@tools/lib/surplus-fall/tick"
-import { TICKS_BEFORE_ENDING, tickRatchet } from "@tools/lib/tick-ratchet"
 import {
   sleptUntilStopped,
   stopsOnSignal,

@@ -1,4 +1,3 @@
-
 export class TickDeadlineExceededError extends Error {
   constructor(message: string) {
     super(message)

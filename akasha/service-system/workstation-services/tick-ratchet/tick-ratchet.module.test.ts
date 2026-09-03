@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { tickRatchet, TICKS_BEFORE_ENDING } from "./tick-ratchet.ts"
+import { TICKS_BEFORE_ENDING, tickRatchet } from "./tick-ratchet.module.code.ts"
 
 test("a fresh ratchet is not spent", () => {
   const ratchet = tickRatchet("here")

@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./tick-deadline": "./supervising/tick-deadline/tick-deadline.module.code.ts",
     "./alert-recipient-decide": "./recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.code.ts",
     "./blocked-principal-decide": "./recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.code.ts",
     "./channel-delivery": "./channel-delivery/channel-delivery.module.code.ts",
