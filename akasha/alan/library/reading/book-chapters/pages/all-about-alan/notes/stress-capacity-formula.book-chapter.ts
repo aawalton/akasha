@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const stressCapacityFormula = {
   id: "01a06594-c684-7012-b049-2b1694055b98",
