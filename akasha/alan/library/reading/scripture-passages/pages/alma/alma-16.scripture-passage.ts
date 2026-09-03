@@ -9,4 +9,6 @@ export const alma16 = {
   translation: "book-of-mormon",
   position: 110,
   passageText: "txt",
+  status: "not-started",
+  externalId: "alma16",
 } as const satisfies ScripturePassage

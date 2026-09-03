@@ -9,4 +9,6 @@ export const scripturePassage2Nephi18 = {
   translation: "book-of-mormon",
   position: 39,
   passageText: "txt",
+  status: "not-started",
+  externalId: "2nephi18",
 } as const satisfies ScripturePassage

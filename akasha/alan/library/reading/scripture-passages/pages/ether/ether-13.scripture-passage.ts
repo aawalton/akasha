@@ -9,4 +9,6 @@ export const ether13 = {
   translation: "book-of-mormon",
   position: 226,
   passageText: "txt",
+  status: "not-started",
+  externalId: "ether13",
 } as const satisfies ScripturePassage
