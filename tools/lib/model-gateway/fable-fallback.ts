@@ -1,5 +1,5 @@
+import { shape } from "@akasha/utils-narrow/shape"
 import type { Infer } from "@akasha/utils-narrow/shape-core"
-import { shape } from "../shape.ts"
 
 const FABLE_MODEL_PREFIX = "claude-fable-"
 

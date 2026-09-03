@@ -1,9 +1,9 @@
 import { appendFileSync } from "node:fs"
 import { basename, join } from "node:path"
+import { shape } from "@akasha/utils-narrow/shape"
 import type { Infer } from "@akasha/utils-narrow/shape-core"
 import { seatNameForAgent } from "../../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import { type LogWriter, logWriter } from "../log-append.ts"
-import { shape } from "../shape.ts"
 import type { StreamObserver } from "./retry.ts"
 
 const TRANSPORT_SOURCE = "supervisor-transport"

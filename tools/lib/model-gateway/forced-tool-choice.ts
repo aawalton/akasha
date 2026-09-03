@@ -1,6 +1,5 @@
-
+import { shape } from "@akasha/utils-narrow/shape"
 import { AnthropicErrorEnvelopeSchema } from "../oauth-schemas.ts"
-import { shape } from "../shape.ts"
 
 const FORCED_TOOL_CHOICE_MESSAGE_PREFIX = "tool_choice forces tool use is not compatible"
 

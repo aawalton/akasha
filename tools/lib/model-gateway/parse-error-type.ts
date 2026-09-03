@@ -1,4 +1,4 @@
-import { shape } from "../shape.ts"
+import { shape } from "@akasha/utils-narrow/shape"
 
 const ErrorTypeEnvelopeSchema = shape.looseObject({
   error: shape.looseObject({ type: shape.string() }),

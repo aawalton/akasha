@@ -1,4 +1,4 @@
-import { shape } from "../shape.ts"
+import { shape } from "@akasha/utils-narrow/shape"
 
 const StreamFlagShape = shape.looseObject({ stream: shape.boolean().optional() })
 

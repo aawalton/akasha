@@ -1,6 +1,6 @@
+import { shape } from "@akasha/utils-narrow/shape"
 import type { Infer } from "@akasha/utils-narrow/shape-core"
 import { isExtendedWire, stripExtendedWire } from "../model-vocab.ts"
-import { shape } from "../shape.ts"
 
 const ModelRequestSchema = shape.looseObject({ model: shape.string().optional() })
 
