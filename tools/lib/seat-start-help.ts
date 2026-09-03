@@ -1,5 +1,5 @@
+import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import type { CommandHelp } from "../ops/surface.ts"
-import { DEFAULT_ACCOUNT } from "./default-account.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -41,7 +41,8 @@ export const help: CommandHelp = {
       name: "--domain",
       argLabel: "<slug>",
       valueShape: "token",
-      description: "Where this seat works — any document declaring `slug:`. Outranks the persona's owned domain.",
+      description:
+        "Where this seat works — any document declaring `slug:`. Outranks the persona's owned domain.",
     },
     {
       name: "--principal",
@@ -98,7 +99,11 @@ export const help: CommandHelp = {
         "a --principal naming neither a person nor the fleet, a persona and a principal that cannot\n" +
         "both be true, or `--start-mode headless` with no prompt)",
     },
-    { code: 2, meaning: "data error (name already held, or the bind guard refused the shape) — nothing created" },
+    {
+      code: 2,
+      meaning:
+        "data error (name already held, or the bind guard refused the shape) — nothing created",
+    },
   ],
   examples: [
     "ops seat start --persona athena --principal alan",

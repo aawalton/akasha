@@ -7,6 +7,7 @@ import {
   principalIsPerson,
   refuseAnswering,
 } from "@akasha/seat-system/seat-answering"
+import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
@@ -21,7 +22,6 @@ import {
   principals,
 } from "../../lib/compose-seat-name.ts"
 import { compositionOf, decideSpawnName } from "../../lib/decide-spawn-name.ts"
-import { DEFAULT_ACCOUNT } from "../../lib/default-account.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
 import { parseArgs } from "../../lib/parse-args.ts"

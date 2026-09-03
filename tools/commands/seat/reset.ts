@@ -2,9 +2,9 @@ export const summary =
   "Reset a seat: take the agent out of it and sit a new one down holding every declaration it states"
 
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import { isSeatMode, SEAT_MODE_HEADLESS, SEAT_MODES } from "@akasha/seat-system/seat-modes"
 import { composeSeatName } from "../../lib/compose-seat-name.ts"
-import { DEFAULT_ACCOUNT } from "../../lib/default-account.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { killSeatSession, launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
 import { parseArgs } from "../../lib/parse-args.ts"

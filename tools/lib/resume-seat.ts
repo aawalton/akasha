@@ -1,7 +1,7 @@
+import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import { clearRequestedAction } from "@akasha/seat-system/supervisor-agent-action-clear"
 import { SEAT_START_DIR } from "@akasha/seat-system/supervisor-config"
 import { decideReviveLaunch } from "./decide-revive-launch.ts"
-import { DEFAULT_ACCOUNT } from "./default-account.ts"
 import { dataError, operationalError } from "./exit.ts"
 import {
   type LaunchSeatOpts,

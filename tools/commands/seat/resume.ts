@@ -1,5 +1,6 @@
 export const summary = "Bring a seat back on the session it was bound to, live or stopped"
 
+import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
@@ -8,7 +9,6 @@ import {
 } from "@akasha/seat-system/seat-modes"
 import { parseWindowDuration } from "../../lib/active-core.ts"
 import { readTranscriptMtimeMs } from "../../lib/agent-io-probe.ts"
-import { DEFAULT_ACCOUNT } from "../../lib/default-account.ts"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
 import {
   holdSeatPaneOpen,
