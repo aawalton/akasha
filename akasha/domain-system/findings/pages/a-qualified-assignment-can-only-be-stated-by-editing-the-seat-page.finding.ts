@@ -4,7 +4,7 @@ export const aQualifiedAssignmentCanOnlyBeStatedByEditingTheSeatPage = {
   id: "01a06554-71ab-7000-a66c-865ae9e759cf",
   pageTypeSlug: "finding",
   slug: "a-qualified-assignment-can-only-be-stated-by-editing-the-seat-page",
-  domainSlug: "domain/seat-stating",
+  domainSlug: "workspace-package/seat-system",
   claim:
     "The seat command cannot state which page type an assignment is addressed under, so an assignment whose slug two page types carry is settable only by editing the seat page by hand.",
   evidence:
