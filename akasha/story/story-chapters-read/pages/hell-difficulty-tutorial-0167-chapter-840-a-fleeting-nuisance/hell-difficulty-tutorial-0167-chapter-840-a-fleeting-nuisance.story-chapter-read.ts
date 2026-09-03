@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0167Chapter840AFleetingNuisance = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0167-chapter-840-a-fleeting-nuisance",
   title: "Chapter 840 - A fleeting nuisance",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 167,
   ownLength: 4676,
   unitSlug: "words",

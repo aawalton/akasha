@@ -5,7 +5,7 @@ export const thePathOfAscension0184ThePathOfAscensionChapter484 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-path-of-ascension-0184-the-path-of-ascension-chapter-484",
   title: "The Path of Ascension Chapter 484",
-  partOfSlugs: ["the-path-of-ascension"],
+  partOfSlugs: ["story-read/the-path-of-ascension"],
   position: 184,
   ownLength: 6265,
   unitSlug: "words",

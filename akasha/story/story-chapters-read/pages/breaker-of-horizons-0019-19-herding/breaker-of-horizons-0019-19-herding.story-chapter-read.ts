@@ -5,7 +5,7 @@ export const breakerOfHorizons001919Herding = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0019-19-herding",
   title: "19. Herding",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 19,
   ownLength: 2346,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0101Chapter776ImportantThings = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0101-chapter-776-important-things",
   title: "Chapter 776 - Important things",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 101,
   ownLength: 2409,
   unitSlug: "words",

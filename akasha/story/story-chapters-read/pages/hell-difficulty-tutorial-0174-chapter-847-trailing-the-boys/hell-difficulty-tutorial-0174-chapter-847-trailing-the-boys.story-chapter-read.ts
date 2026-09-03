@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0174Chapter847TrailingTheBoys = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0174-chapter-847-trailing-the-boys",
   title: "Chapter 847 - Trailing The Boys",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 174,
   ownLength: 2311,
   unitSlug: "words",

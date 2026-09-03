@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0117Chapter792AdjustingTheObjective = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0117-chapter-792-adjusting-the-objective",
   title: "Chapter 792 - Adjusting the objective",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 117,
   ownLength: 2280,
   unitSlug: "words",

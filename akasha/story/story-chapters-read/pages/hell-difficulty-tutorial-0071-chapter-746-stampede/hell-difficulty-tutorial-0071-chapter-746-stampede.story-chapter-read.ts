@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0071Chapter746Stampede = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0071-chapter-746-stampede",
   title: "Chapter 746 - Stampede",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 71,
   ownLength: 3124,
   unitSlug: "words",

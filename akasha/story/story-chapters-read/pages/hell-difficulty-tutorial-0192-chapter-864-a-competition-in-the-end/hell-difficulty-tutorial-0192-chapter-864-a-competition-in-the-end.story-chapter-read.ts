@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0192Chapter864ACompetitionInTheEnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0192-chapter-864-a-competition-in-the-end",
   title: "Chapter 864 - A Competition in the end",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 192,
   ownLength: 2425,
   unitSlug: "words",

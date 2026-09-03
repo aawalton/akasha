@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0120Chapter794NewTrait = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0120-chapter-794-new-trait",
   title: "Chapter 794 - New trait",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 120,
   ownLength: 2279,
   unitSlug: "words",

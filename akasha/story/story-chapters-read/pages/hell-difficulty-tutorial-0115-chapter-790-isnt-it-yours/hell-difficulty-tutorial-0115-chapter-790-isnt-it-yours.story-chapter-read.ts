@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0115Chapter790IsntItYours = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0115-chapter-790-isnt-it-yours",
   title: "Chapter 790 - Isn't it yours?",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 115,
   ownLength: 2960,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0068Chapter743Earthling = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0068-chapter-743-earthling",
   title: "Chapter 743 - Earthling",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 68,
   ownLength: 2388,
   unitSlug: "words",

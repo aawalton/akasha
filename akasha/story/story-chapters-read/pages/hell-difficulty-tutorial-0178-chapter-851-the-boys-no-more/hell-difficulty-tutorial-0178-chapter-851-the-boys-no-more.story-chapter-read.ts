@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0178Chapter851TheBoysNoMore = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0178-chapter-851-the-boys-no-more",
   title: "Chapter 851 - The Boys No More",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 178,
   ownLength: 2390,
   unitSlug: "words",

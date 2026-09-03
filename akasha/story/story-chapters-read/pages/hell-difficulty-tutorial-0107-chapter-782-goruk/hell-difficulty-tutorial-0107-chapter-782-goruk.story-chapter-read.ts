@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0107Chapter782Goruk = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0107-chapter-782-goruk",
   title: "Chapter 782 - Goruk",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 107,
   ownLength: 2408,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0191Chapter863Intruders = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0191-chapter-863-intruders",
   title: "Chapter 863 - Intruders",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 191,
   ownLength: 2442,
   unitSlug: "words",

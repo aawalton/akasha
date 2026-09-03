@@ -5,7 +5,7 @@ export const thePathOfAscension0028ThePathOfAscensionBook2OnAmazonLinks = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-path-of-ascension-0028-the-path-of-ascension-book-2-on-amazon-links",
   title: "The Path of Ascension Book 2 On Amazon - Links ",
-  partOfSlugs: ["the-path-of-ascension"],
+  partOfSlugs: ["story-read/the-path-of-ascension"],
   position: 28,
   ownLength: 201,
   unitSlug: "words",

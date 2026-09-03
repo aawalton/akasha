@@ -5,7 +5,7 @@ export const breakerOfHorizons001313Mania = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0013-13-mania",
   title: "13. Mania",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 13,
   ownLength: 2352,
   unitSlug: "words",

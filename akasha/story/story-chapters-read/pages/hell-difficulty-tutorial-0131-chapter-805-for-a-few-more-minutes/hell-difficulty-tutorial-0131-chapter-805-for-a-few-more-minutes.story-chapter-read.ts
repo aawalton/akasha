@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0131Chapter805ForAFewMoreMinutes = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0131-chapter-805-for-a-few-more-minutes",
   title: "Chapter 805 - For a few more minutes",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 131,
   ownLength: 2050,
   unitSlug: "words",

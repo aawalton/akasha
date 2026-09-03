@@ -5,7 +5,7 @@ export const breakerOfHorizons00077DinnerAndDuel = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0007-7-dinner-and-duel",
   title: "7. Dinner and Duel",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 7,
   ownLength: 2099,
   unitSlug: "words",

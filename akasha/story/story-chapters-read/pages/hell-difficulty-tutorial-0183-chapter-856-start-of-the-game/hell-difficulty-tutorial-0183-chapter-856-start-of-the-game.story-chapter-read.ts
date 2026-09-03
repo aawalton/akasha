@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0183Chapter856StartOfTheGame = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0183-chapter-856-start-of-the-game",
   title: "Chapter 856 - Start of the Game",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 183,
   ownLength: 2397,
   unitSlug: "words",

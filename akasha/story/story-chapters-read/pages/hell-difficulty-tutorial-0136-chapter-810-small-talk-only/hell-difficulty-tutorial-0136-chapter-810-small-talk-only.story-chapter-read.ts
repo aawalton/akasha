@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0136Chapter810SmallTalkOnly = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0136-chapter-810-small-talk-only",
   title: "Chapter 810 - Small Talk Only",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 136,
   ownLength: 3370,
   unitSlug: "words",

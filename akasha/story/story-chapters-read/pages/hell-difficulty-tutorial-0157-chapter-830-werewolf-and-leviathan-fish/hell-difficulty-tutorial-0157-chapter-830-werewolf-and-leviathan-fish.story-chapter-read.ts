@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0157Chapter830WerewolfAndLeviathanFish = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0157-chapter-830-werewolf-and-leviathan-fish",
   title: "Chapter 830 - Werewolf and Leviathan Fish",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 157,
   ownLength: 2489,
   unitSlug: "words",

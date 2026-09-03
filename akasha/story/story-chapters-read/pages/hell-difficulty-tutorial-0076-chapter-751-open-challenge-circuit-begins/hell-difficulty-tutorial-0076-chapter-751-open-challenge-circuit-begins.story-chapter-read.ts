@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0076Chapter751OpenChallengeCircuitBegins = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0076-chapter-751-open-challenge-circuit-begins",
   title: "Chapter 751 - Open Challenge Circuit begins",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 76,
   ownLength: 3004,
   unitSlug: "words",

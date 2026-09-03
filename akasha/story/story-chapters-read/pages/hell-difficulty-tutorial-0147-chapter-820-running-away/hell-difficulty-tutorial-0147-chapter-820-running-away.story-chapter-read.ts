@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0147Chapter820RunningAway = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0147-chapter-820-running-away",
   title: "Chapter 820 - Running away",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 147,
   ownLength: 2483,
   unitSlug: "words",

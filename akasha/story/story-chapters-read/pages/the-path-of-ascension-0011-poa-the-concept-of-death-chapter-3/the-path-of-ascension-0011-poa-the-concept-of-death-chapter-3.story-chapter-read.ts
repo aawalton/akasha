@@ -5,7 +5,7 @@ export const thePathOfAscension0011PoaTheConceptOfDeathChapter3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-path-of-ascension-0011-poa-the-concept-of-death-chapter-3",
   title: "PoA The Concept of Death Chapter 3",
-  partOfSlugs: ["the-path-of-ascension"],
+  partOfSlugs: ["story-read/the-path-of-ascension"],
   position: 11,
   ownLength: 6068,
   unitSlug: "words",

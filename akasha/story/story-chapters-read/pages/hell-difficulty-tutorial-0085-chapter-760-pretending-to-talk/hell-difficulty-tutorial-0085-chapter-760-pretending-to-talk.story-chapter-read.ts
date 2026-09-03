@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0085Chapter760PretendingToTalk = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0085-chapter-760-pretending-to-talk",
   title: "Chapter 760 - Pretending to talk",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 85,
   ownLength: 2727,
   unitSlug: "words",

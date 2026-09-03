@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0166Chapter839SystemWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0166-chapter-839-system-war",
   title: "Chapter 839 - System War",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 166,
   ownLength: 2796,
   unitSlug: "words",

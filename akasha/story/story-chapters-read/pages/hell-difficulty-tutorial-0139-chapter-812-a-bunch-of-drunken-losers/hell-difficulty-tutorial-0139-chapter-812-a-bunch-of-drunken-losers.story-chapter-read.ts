@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0139Chapter812ABunchOfDrunkenLosers = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0139-chapter-812-a-bunch-of-drunken-losers",
   title: "Chapter 812 - A bunch of drunken losers",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 139,
   ownLength: 2358,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0198Chapter870MidPristine = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0198-chapter-870-mid-pristine",
   title: "Chapter 870 - Mid Pristine",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 198,
   ownLength: 2316,
   unitSlug: "words",

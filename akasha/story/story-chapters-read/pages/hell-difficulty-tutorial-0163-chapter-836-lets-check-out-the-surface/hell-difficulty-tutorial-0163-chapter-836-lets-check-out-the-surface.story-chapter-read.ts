@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0163Chapter836LetsCheckOutTheSurface = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0163-chapter-836-lets-check-out-the-surface",
   title: "Chapter 836 - Let's check out the surface!",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 163,
   ownLength: 2597,
   unitSlug: "words",

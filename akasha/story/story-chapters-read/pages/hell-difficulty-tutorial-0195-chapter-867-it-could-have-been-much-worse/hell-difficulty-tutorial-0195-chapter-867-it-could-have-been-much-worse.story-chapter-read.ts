@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0195Chapter867ItCouldHaveBeenMuchWorse = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0195-chapter-867-it-could-have-been-much-worse",
   title: "Chapter 867 - It could have been much worse",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 195,
   ownLength: 3091,
   unitSlug: "words",

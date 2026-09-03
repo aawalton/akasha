@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0144Chapter817BoysVsAWeirdSpider = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0144-chapter-817-boys-vs-a-weird-spider",
   title: "Chapter 817 - Boys vs a weird spider",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 144,
   ownLength: 2315,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0162Chapter835ThisIsWhatIHaveToDealWith = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0162-chapter-835-this-is-what-i-have-to-deal-with",
   title: "Chapter 835 - This is what I have to deal with",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 162,
   ownLength: 3058,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0172Chapter845OverlyDiligent = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0172-chapter-845-overly-diligent",
   title: "Chapter 845 - Overly Diligent",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 172,
   ownLength: 2962,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0090Chapter765Mora = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0090-chapter-765-mora",
   title: "Chapter 765 - Mora",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 90,
   ownLength: 2472,
   unitSlug: "words",

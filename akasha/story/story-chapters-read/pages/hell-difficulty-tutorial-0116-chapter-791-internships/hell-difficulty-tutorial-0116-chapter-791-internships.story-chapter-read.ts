@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0116Chapter791Internships = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0116-chapter-791-internships",
   title: "Chapter 791 - Internships",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 116,
   ownLength: 2530,
   unitSlug: "words",

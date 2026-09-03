@@ -5,7 +5,7 @@ export const breakerOfHorizons002121ArcanaReframed = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0021-21-arcana-reframed",
   title: "21. Arcana Reframed",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 21,
   ownLength: 2152,
   unitSlug: "words",

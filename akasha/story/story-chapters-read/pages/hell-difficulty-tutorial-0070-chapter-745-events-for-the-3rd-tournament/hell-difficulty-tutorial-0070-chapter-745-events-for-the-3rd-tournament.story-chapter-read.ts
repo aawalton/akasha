@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0070Chapter745EventsForThe3rdTournament = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0070-chapter-745-events-for-the-3rd-tournament",
   title: "Chapter 745 - Events for the 3rd tournament",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 70,
   ownLength: 2634,
   unitSlug: "words",

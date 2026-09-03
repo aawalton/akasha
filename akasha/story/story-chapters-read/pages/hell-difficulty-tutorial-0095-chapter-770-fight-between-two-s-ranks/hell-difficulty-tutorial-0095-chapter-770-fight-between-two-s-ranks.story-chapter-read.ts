@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0095Chapter770FightBetweenTwoSRanks = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0095-chapter-770-fight-between-two-s-ranks",
   title: "Chapter 770 - Fight between two S-ranks",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 95,
   ownLength: 2481,
   unitSlug: "words",

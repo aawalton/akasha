@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0088Chapter763JustAsILikeIt = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0088-chapter-763-just-as-i-like-it",
   title: "Chapter 763 - Just as I like it",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 88,
   ownLength: 2483,
   unitSlug: "words",

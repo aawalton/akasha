@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0134Chapter808AndWhoMightYouBe = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0134-chapter-808-and-who-might-you-be",
   title: "Chapter 808 - And who might you be?",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 134,
   ownLength: 2247,
   unitSlug: "words",

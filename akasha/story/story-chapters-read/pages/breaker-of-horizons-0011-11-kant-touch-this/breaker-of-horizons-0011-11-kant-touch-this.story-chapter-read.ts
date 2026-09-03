@@ -5,7 +5,7 @@ export const breakerOfHorizons001111KantTouchThis = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0011-11-kant-touch-this",
   title: "11. Kant Touch This",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 11,
   ownLength: 2226,
   unitSlug: "words",

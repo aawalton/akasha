@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0202Chapter874WhatHappened = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0202-chapter-874-what-happened",
   title: "Chapter 874 - What happened?",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 202,
   ownLength: 2151,
   unitSlug: "words",

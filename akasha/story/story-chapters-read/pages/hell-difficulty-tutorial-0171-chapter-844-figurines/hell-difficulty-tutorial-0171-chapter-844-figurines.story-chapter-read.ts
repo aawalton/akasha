@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0171Chapter844Figurines = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0171-chapter-844-figurines",
   title: "Chapter 844 - Figurines",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 171,
   ownLength: 2155,
   unitSlug: "words",

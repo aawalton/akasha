@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0080Chapter755WhereAreYouHeaded = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0080-chapter-755-where-are-you-headed",
   title: "Chapter 755 - Where are you headed?",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 80,
   ownLength: 4049,
   unitSlug: "words",

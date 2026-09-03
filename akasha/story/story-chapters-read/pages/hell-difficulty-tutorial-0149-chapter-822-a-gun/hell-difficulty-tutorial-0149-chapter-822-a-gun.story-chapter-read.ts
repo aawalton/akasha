@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0149Chapter822AGun = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0149-chapter-822-a-gun",
   title: "Chapter 822 - A gun",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 149,
   ownLength: 2530,
   unitSlug: "words",

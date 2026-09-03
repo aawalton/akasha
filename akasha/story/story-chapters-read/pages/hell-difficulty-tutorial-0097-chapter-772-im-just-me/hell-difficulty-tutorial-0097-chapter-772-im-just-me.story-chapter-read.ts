@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0097Chapter772ImJustMe = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0097-chapter-772-im-just-me",
   title: "Chapter 772 - I'm just me",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 97,
   ownLength: 2095,
   unitSlug: "words",

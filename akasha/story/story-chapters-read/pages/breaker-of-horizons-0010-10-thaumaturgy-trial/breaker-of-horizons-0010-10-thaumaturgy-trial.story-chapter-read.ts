@@ -5,7 +5,7 @@ export const breakerOfHorizons001010ThaumaturgyTrial = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0010-10-thaumaturgy-trial",
   title: "10. Thaumaturgy Trial",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 10,
   ownLength: 2365,
   unitSlug: "words",

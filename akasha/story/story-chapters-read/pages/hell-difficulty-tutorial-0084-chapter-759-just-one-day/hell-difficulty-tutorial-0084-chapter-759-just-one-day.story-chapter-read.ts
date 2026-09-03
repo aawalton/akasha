@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0084Chapter759JustOneDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0084-chapter-759-just-one-day",
   title: "Chapter 759 - Just one day",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 84,
   ownLength: 2488,
   unitSlug: "words",

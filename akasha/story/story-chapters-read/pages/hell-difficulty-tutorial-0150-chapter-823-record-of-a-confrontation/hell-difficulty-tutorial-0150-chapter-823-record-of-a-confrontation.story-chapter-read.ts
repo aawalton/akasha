@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0150Chapter823RecordOfAConfrontation = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0150-chapter-823-record-of-a-confrontation",
   title: "Chapter 823 - Record of a confrontation",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 150,
   ownLength: 2381,
   unitSlug: "words",

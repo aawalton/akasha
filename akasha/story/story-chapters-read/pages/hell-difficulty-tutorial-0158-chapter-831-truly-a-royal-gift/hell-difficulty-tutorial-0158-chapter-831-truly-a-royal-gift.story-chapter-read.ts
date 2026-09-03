@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0158Chapter831TrulyARoyalGift = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0158-chapter-831-truly-a-royal-gift",
   title: "Chapter 831 - Truly, a royal gift",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 158,
   ownLength: 2489,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const breakerOfHorizons002323PiercingTheVeil = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0023-23-piercing-the-veil",
   title: "23. Piercing the Veil",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 23,
   ownLength: 2585,
   unitSlug: "words",

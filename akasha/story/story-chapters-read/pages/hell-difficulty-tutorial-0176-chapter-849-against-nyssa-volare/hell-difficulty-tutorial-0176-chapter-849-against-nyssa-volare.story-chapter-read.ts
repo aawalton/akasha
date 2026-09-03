@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0176Chapter849AgainstNyssaVolare = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0176-chapter-849-against-nyssa-volare",
   title: "Chapter 849 - Against Nyssa Volare",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 176,
   ownLength: 1938,
   unitSlug: "words",

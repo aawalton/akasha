@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0173Chapter846BloodOnTheMandibles = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0173-chapter-846-blood-on-the-mandibles",
   title: "Chapter 846 - Blood on the Mandibles",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 173,
   ownLength: 2528,
   unitSlug: "words",

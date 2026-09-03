@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0123Chapter797Empathy = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0123-chapter-797-empathy",
   title: "Chapter 797 - Empathy",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 123,
   ownLength: 2531,
   unitSlug: "words",

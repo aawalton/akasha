@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0201Chapter873Contingencies = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0201-chapter-873-contingencies",
   title: "Chapter 873 - Contingencies",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 201,
   ownLength: 2212,
   unitSlug: "words",

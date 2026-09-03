@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0124Chapter798BeneathTheInversePyramid = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0124-chapter-798-beneath-the-inverse-pyramid",
   title: "Chapter 798 - Beneath the Inverse Pyramid",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 124,
   ownLength: 2629,
   unitSlug: "words",

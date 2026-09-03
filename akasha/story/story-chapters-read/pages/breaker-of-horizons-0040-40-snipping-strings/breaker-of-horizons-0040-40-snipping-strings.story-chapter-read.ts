@@ -5,7 +5,7 @@ export const breakerOfHorizons004040SnippingStrings = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0040-40-snipping-strings",
   title: "40. Snipping Strings",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 40,
   ownLength: 2554,
   unitSlug: "words",

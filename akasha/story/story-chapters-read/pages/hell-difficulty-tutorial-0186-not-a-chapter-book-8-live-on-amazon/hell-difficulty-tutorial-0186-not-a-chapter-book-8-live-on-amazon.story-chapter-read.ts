@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0186NotAChapterBook8LiveOnAmazon = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0186-not-a-chapter-book-8-live-on-amazon",
   title: "Not a Chapter - Book 8 Live on Amazon!",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 186,
   ownLength: 222,
   unitSlug: "words",

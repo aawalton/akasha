@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0094Chapter769BoundTogether = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0094-chapter-769-bound-together",
   title: "Chapter 769 - Bound together",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 94,
   ownLength: 2163,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0121Chapter795YourGuysFault = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0121-chapter-795-your-guys-fault",
   title: "Chapter 795 - Your guys’ fault",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 121,
   ownLength: 2074,
   unitSlug: "words",

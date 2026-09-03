@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0100Chapter775Trade = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0100-chapter-775-trade",
   title: "Chapter 775 - Trade",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 100,
   ownLength: 2252,
   unitSlug: "words",

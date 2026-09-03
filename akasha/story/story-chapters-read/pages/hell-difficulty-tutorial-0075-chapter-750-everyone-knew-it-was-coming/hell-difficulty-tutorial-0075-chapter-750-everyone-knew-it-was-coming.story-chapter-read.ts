@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0075Chapter750EveryoneKnewItWasComing = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0075-chapter-750-everyone-knew-it-was-coming",
   title: "Chapter 750 - Everyone knew it was coming",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 75,
   ownLength: 2308,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0133Chapter807IdBetterCleanItUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0133-chapter-807-id-better-clean-it-up",
   title: "Chapter 807 - I'd better clean it up",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 133,
   ownLength: 2563,
   unitSlug: "words",

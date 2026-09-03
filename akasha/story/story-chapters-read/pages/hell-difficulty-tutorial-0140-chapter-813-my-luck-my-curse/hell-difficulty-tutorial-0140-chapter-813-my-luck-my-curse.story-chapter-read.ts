@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0140Chapter813MyLuckMyCurse = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0140-chapter-813-my-luck-my-curse",
   title: "Chapter 813 - My luck. My curse.",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 140,
   ownLength: 2916,
   unitSlug: "words",

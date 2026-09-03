@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0081Chapter756ThreatAssessmentExtreme = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0081-chapter-756-threat-assessment-extreme",
   title: "Chapter 756 - Threat Assessment: Extreme",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 81,
   ownLength: 2229,
   unitSlug: "words",

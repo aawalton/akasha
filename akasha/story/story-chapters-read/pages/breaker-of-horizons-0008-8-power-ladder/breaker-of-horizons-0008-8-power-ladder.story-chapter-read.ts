@@ -5,7 +5,7 @@ export const breakerOfHorizons00088PowerLadder = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0008-8-power-ladder",
   title: "8. Power Ladder",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 8,
   ownLength: 1896,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0181Chapter854Spectators = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0181-chapter-854-spectators",
   title: "Chapter 854 - Spectators",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 181,
   ownLength: 2434,
   unitSlug: "words",

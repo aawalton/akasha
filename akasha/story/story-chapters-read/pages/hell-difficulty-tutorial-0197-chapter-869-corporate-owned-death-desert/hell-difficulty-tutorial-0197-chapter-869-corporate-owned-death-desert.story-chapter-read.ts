@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0197Chapter869CorporateOwnedDeathDesert = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0197-chapter-869-corporate-owned-death-desert",
   title: "Chapter 869 - Corporate owned death desert",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 197,
   ownLength: 2160,
   unitSlug: "words",

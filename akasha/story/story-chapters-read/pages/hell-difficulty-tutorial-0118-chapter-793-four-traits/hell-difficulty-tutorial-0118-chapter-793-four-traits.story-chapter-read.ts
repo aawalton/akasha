@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0118Chapter793FourTraits = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0118-chapter-793-four-traits",
   title: "Chapter 793 - Four traits",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 118,
   ownLength: 2415,
   unitSlug: "words",

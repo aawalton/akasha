@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0190Chapter862GlassHouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0190-chapter-862-glass-house",
   title: "Chapter 862 - Glass House",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 190,
   ownLength: 2194,
   unitSlug: "words",

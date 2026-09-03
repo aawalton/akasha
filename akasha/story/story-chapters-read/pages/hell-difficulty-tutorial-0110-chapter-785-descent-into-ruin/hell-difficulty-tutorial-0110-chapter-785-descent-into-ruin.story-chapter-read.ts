@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0110Chapter785DescentIntoRuin = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0110-chapter-785-descent-into-ruin",
   title: "Chapter 785 - Descent into Ruin",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 110,
   ownLength: 2192,
   unitSlug: "words",

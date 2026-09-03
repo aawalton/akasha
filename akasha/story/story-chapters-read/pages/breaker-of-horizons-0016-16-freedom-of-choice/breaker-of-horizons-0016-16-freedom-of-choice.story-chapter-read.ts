@@ -5,7 +5,7 @@ export const breakerOfHorizons001616FreedomOfChoice = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0016-16-freedom-of-choice",
   title: "16. Freedom of Choice",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 16,
   ownLength: 2345,
   unitSlug: "words",

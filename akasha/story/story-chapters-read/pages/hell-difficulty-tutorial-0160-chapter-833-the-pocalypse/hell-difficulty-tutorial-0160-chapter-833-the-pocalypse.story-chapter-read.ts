@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0160Chapter833ThePocalypse = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0160-chapter-833-the-pocalypse",
   title: "Chapter 833 - The ****pocalypse",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 160,
   ownLength: 2960,
   unitSlug: "words",

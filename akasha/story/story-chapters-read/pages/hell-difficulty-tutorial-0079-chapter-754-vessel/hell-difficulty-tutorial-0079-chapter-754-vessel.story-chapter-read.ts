@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0079Chapter754Vessel = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0079-chapter-754-vessel",
   title: "Chapter 754 - Vessel",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 79,
   ownLength: 2373,
   unitSlug: "words",

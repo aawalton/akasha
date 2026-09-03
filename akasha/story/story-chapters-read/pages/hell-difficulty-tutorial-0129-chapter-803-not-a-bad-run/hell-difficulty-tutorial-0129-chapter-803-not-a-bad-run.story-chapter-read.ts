@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0129Chapter803NotABadRun = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0129-chapter-803-not-a-bad-run",
   title: "Chapter 803 - Not a bad run",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 129,
   ownLength: 2129,
   unitSlug: "words",

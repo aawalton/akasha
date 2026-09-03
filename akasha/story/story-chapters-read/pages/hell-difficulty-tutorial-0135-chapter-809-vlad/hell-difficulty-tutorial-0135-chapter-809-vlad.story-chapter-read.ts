@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0135Chapter809Vlad = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0135-chapter-809-vlad",
   title: "Chapter 809 - Vlad",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 135,
   ownLength: 2262,
   unitSlug: "words",

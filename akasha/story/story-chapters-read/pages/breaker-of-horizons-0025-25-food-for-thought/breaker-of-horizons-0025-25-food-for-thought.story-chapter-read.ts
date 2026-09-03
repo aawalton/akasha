@@ -5,7 +5,7 @@ export const breakerOfHorizons002525FoodForThought = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0025-25-food-for-thought",
   title: "25. Food for Thought",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 25,
   ownLength: 2369,
   unitSlug: "words",

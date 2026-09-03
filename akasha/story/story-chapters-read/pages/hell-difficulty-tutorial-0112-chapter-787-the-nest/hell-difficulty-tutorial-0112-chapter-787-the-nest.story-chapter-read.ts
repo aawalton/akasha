@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0112Chapter787TheNest = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0112-chapter-787-the-nest",
   title: "Chapter 787 - The Nest",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 112,
   ownLength: 2125,
   unitSlug: "words",

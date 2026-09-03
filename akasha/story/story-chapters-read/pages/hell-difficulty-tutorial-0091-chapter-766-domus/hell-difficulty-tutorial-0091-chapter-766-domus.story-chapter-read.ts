@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0091Chapter766Domus = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0091-chapter-766-domus",
   title: "Chapter 766 - Domus",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 91,
   ownLength: 2581,
   unitSlug: "words",

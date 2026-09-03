@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0073Chapter748HowDoYouBecomeAnAbsolute = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0073-chapter-748-how-do-you-become-an-absolute",
   title: "Chapter 748 - How do you become an Absolute?",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 73,
   ownLength: 2272,
   unitSlug: "words",

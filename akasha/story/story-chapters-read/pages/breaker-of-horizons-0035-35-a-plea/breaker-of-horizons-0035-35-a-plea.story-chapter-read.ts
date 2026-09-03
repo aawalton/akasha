@@ -5,7 +5,7 @@ export const breakerOfHorizons003535APlea = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0035-35-a-plea",
   title: "35. A Plea",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 35,
   ownLength: 2144,
   unitSlug: "words",

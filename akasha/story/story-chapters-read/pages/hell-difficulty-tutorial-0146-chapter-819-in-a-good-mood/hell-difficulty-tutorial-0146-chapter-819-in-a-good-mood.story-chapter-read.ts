@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0146Chapter819InAGoodMood = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0146-chapter-819-in-a-good-mood",
   title: "Chapter 819 - In a good mood",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 146,
   ownLength: 2158,
   unitSlug: "words",

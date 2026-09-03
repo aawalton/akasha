@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0148Chapter821OurResponsibility = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0148-chapter-821-our-responsibility",
   title: "Chapter 821 - Our responsibility",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 148,
   ownLength: 1918,
   unitSlug: "words",

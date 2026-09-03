@@ -5,7 +5,7 @@ export const breakerOfHorizons00022AThiefOfMemory = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0002-2-a-thief-of-memory",
   title: "2. A Thief of Memory",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 2,
   ownLength: 2446,
   unitSlug: "words",

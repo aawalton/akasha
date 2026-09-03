@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0078Chapter753AGlassOfJuice = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0078-chapter-753-a-glass-of-juice",
   title: "Chapter 753 - A glass of juice",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 78,
   ownLength: 3059,
   unitSlug: "words",

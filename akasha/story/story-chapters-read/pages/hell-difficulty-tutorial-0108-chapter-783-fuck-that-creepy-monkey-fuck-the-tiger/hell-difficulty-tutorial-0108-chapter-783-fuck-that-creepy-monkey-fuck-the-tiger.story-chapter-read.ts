@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0108Chapter783FuckThatCreepyMonkeyFuckTheTige
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0108-chapter-783-fuck-that-creepy-monkey-fuck-the-tiger",
   title: "Chapter 783 - Fuck that creepy monkey, fuck the tiger, fuck Skippy",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 108,
   ownLength: 2183,
   unitSlug: "words",

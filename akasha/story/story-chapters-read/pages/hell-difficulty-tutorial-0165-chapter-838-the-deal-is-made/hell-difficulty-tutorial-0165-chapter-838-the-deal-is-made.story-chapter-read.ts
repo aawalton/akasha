@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0165Chapter838TheDealIsMade = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0165-chapter-838-the-deal-is-made",
   title: "Chapter 838 - The deal is made",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 165,
   ownLength: 3085,
   unitSlug: "words",

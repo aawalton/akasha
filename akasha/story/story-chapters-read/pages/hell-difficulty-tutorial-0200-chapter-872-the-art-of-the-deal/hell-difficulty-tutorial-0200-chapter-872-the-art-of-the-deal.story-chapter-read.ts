@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0200Chapter872TheArtOfTheDeal = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0200-chapter-872-the-art-of-the-deal",
   title: "Chapter 872 - The Art of the Deal",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 200,
   ownLength: 2510,
   unitSlug: "words",

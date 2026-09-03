@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0086Chapter761EightGoldCoins = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0086-chapter-761-eight-gold-coins",
   title: "Chapter 761 - Eight gold coins",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 86,
   ownLength: 3028,
   unitSlug: "words",

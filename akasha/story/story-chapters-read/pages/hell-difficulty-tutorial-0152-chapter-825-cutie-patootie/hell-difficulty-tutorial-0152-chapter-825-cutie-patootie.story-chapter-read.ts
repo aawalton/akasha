@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0152Chapter825CutiePatootie = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0152-chapter-825-cutie-patootie",
   title: "Chapter 825 - Cutie patootie",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 152,
   ownLength: 2400,
   unitSlug: "words",

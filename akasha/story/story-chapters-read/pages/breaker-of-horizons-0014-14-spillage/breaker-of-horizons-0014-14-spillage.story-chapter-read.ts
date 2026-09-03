@@ -5,7 +5,7 @@ export const breakerOfHorizons001414Spillage = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0014-14-spillage",
   title: "14. Spillage",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 14,
   ownLength: 2371,
   unitSlug: "words",

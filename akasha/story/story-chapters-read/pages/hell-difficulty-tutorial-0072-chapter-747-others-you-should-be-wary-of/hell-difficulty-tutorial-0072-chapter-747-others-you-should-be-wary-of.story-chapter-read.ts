@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0072Chapter747OthersYouShouldBeWaryOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0072-chapter-747-others-you-should-be-wary-of",
   title: "Chapter 747 - Others you should be wary of",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 72,
   ownLength: 2484,
   unitSlug: "words",

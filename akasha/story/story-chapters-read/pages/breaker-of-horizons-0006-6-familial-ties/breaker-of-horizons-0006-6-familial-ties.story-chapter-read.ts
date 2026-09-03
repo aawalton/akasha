@@ -5,7 +5,7 @@ export const breakerOfHorizons00066FamilialTies = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0006-6-familial-ties",
   title: "6. Familial Ties",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 6,
   ownLength: 2174,
   unitSlug: "words",

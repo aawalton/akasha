@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0138SideStoryNonCanonANyaToRemember = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0138-side-story-non-canon-a-nya-to-remember",
   title: "Side story (non-canon) - A Nya to Remember",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 138,
   ownLength: 2474,
   unitSlug: "words",

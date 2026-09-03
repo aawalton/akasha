@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0082Chapter757PartyPooperAndGrumpy = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0082-chapter-757-party-pooper-and-grumpy",
   title: "Chapter 757 - Party pooper and Grumpy",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 82,
   ownLength: 2099,
   unitSlug: "words",

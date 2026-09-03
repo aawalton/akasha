@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0099Chapter774Vegetarian = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0099-chapter-774-vegetarian",
   title: "Chapter 774 - Vegetarian",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 99,
   ownLength: 2384,
   unitSlug: "words",

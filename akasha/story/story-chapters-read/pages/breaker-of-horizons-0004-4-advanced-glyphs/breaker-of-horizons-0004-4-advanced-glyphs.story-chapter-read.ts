@@ -5,7 +5,7 @@ export const breakerOfHorizons00044AdvancedGlyphs = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0004-4-advanced-glyphs",
   title: "4. Advanced Glyphs",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 4,
   ownLength: 3202,
   unitSlug: "words",

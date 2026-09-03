@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0126Chapter800EveryoneAboard = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0126-chapter-800-everyone-aboard",
   title: "Chapter 800 - Everyone aboard",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 126,
   ownLength: 2531,
   unitSlug: "words",

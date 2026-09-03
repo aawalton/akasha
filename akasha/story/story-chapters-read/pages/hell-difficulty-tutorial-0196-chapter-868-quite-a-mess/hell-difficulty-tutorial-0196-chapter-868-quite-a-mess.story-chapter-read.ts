@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0196Chapter868QuiteAMess = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0196-chapter-868-quite-a-mess",
   title: "Chapter 868 - Quite a mess",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 196,
   ownLength: 2255,
   unitSlug: "words",

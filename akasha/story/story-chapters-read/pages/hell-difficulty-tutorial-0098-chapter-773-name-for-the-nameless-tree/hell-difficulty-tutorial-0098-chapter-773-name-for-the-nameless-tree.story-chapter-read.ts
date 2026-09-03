@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0098Chapter773NameForTheNamelessTree = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0098-chapter-773-name-for-the-nameless-tree",
   title: "Chapter 773 - Name for the Nameless Tree",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 98,
   ownLength: 2382,
   unitSlug: "words",

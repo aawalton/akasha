@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0168Chapter841KeepYourselfTogether = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0168-chapter-841-keep-yourself-together",
   title: "Chapter 841 - Keep yourself together",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 168,
   ownLength: 2530,
   unitSlug: "words",

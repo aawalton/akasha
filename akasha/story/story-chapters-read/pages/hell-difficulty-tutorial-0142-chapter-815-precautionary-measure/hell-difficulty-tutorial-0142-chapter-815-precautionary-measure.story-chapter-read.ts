@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0142Chapter815PrecautionaryMeasure = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0142-chapter-815-precautionary-measure",
   title: "Chapter 815 - Precautionary measure",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 142,
   ownLength: 2228,
   unitSlug: "words",

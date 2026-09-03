@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0143Chapter816AnAmbush = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0143-chapter-816-an-ambush",
   title: "Chapter 816 - An ambush",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 143,
   ownLength: 2087,
   unitSlug: "words",

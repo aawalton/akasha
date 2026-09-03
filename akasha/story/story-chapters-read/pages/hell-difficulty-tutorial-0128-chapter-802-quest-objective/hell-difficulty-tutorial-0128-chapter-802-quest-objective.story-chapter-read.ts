@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0128Chapter802QuestObjective = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0128-chapter-802-quest-objective",
   title: "Chapter 802 - Quest objective",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 128,
   ownLength: 2297,
   unitSlug: "words",

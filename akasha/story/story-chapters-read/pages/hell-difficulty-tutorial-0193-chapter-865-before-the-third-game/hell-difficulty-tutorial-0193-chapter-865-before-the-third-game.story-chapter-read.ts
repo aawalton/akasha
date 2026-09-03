@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0193Chapter865BeforeTheThirdGame = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0193-chapter-865-before-the-third-game",
   title: "Chapter 865 - Before the third game",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 193,
   ownLength: 2358,
   unitSlug: "words",

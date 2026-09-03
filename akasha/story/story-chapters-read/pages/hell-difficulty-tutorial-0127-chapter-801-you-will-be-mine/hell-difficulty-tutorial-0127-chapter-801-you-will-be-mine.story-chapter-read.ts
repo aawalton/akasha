@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0127Chapter801YouWillBeMine = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0127-chapter-801-you-will-be-mine",
   title: "Chapter 801 - You will be mine",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 127,
   ownLength: 2374,
   unitSlug: "words",

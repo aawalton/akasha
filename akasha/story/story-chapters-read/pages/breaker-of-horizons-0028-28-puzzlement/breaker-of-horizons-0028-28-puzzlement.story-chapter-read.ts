@@ -5,7 +5,7 @@ export const breakerOfHorizons002828Puzzlement = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0028-28-puzzlement",
   title: "28. Puzzlement",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 28,
   ownLength: 2493,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0125Chapter799VaultNumber2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0125-chapter-799-vault-number-2",
   title: "Chapter 799 - Vault number 2",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 125,
   ownLength: 2173,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0159Chapter832LurkerAfterLurker = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0159-chapter-832-lurker-after-lurker",
   title: "Chapter 832 - Lurker After Lurker",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 159,
   ownLength: 2169,
   unitSlug: "words",

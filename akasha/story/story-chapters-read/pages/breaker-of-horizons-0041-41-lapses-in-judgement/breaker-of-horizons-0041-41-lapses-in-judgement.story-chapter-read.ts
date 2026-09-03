@@ -5,7 +5,7 @@ export const breakerOfHorizons004141LapsesInJudgement = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0041-41-lapses-in-judgement",
   title: "41. Lapses in Judgement",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 41,
   ownLength: 2214,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0130Chapter804TwoWyverns = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0130-chapter-804-two-wyverns",
   title: "Chapter 804 - Two Wyverns",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 130,
   ownLength: 2565,
   unitSlug: "words",

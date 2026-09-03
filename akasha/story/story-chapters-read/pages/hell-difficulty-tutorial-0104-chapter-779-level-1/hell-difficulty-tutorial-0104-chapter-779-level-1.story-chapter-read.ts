@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0104Chapter779Level1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0104-chapter-779-level-1",
   title: "Chapter 779 - Level 1",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 104,
   ownLength: 2119,
   unitSlug: "words",

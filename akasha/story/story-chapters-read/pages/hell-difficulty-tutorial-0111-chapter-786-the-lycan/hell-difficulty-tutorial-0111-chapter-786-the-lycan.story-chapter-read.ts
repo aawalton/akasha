@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0111Chapter786TheLycan = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0111-chapter-786-the-lycan",
   title: "Chapter 786 - The Lycan",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 111,
   ownLength: 2489,
   unitSlug: "words",

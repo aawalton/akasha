@@ -5,7 +5,7 @@ export const breakerOfHorizons002929FeyAfield = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0029-29-fey-afield",
   title: "29. Fey Afield",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 29,
   ownLength: 2399,
   unitSlug: "words",

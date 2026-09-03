@@ -5,7 +5,7 @@ export const breakerOfHorizons004242AWalkInTheDark = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0042-42-a-walk-in-the-dark",
   title: "42. A Walk in the Dark",
-  partOfSlugs: ["breaker-of-horizons"],
+  partOfSlugs: ["story-read/breaker-of-horizons"],
   position: 42,
   ownLength: 2637,
   unitSlug: "words",

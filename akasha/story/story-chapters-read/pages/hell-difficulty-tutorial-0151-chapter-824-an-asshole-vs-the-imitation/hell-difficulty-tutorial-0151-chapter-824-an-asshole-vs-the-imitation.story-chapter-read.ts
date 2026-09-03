@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0151Chapter824AnAssholeVsTheImitation = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0151-chapter-824-an-asshole-vs-the-imitation",
   title: "Chapter 824 - An Asshole vs. the Imitation",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 151,
   ownLength: 2298,
   unitSlug: "words",

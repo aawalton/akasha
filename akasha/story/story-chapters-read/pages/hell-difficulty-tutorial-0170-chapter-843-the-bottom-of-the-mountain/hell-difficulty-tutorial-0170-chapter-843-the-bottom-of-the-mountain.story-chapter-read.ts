@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0170Chapter843TheBottomOfTheMountain = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0170-chapter-843-the-bottom-of-the-mountain",
   title: "Chapter 843 - The Bottom of the Mountain",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 170,
   ownLength: 2232,
   unitSlug: "words",

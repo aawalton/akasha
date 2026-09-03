@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0169Chapter842HeartMindAndBody = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0169-chapter-842-heart-mind-and-body",
   title: "Chapter 842 - Heart, mind, and body.",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 169,
   ownLength: 2378,
   unitSlug: "words",

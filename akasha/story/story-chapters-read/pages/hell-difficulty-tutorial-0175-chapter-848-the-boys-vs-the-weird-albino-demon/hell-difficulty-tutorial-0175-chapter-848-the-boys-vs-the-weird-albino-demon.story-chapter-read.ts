@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0175Chapter848TheBoysVsTheWeirdAlbinoDemon = 
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0175-chapter-848-the-boys-vs-the-weird-albino-demon",
   title: "Chapter 848 - The boys vs the weird albino demon",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 175,
   ownLength: 2661,
   unitSlug: "words",

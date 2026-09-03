@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0187Chapter859IMiscalculated = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0187-chapter-859-i-miscalculated",
   title: "Chapter 859 - I miscalculated",
-  partOfSlugs: ["hell-difficulty-tutorial"],
+  partOfSlugs: ["story-read/hell-difficulty-tutorial"],
   position: 187,
   ownLength: 2704,
   unitSlug: "words",
