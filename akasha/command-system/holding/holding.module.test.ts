@@ -39,10 +39,14 @@ function repoWith(named: Readonly<Record<string, string>>): string {
 
 const ADMITS: Judging = { named: ["admits"], checksFor: () => ["admits"], over: () => [] }
 
-const AT_ONCE = ["b", "c", "d", "e"]
+const AT_ONCE = Array.from(
+  { length: 40 },
+  (_, at) =>
+    `p${String.fromCharCode(97 + Math.floor(at / 26))}${String.fromCharCode(97 + (at % 26))}`
+)
 
 const idOf = (one: string): string =>
-  `01a04e11-0000-7000-8000-00000000000${AT_ONCE.indexOf(one) + 3}`
+  `01a04e11-0000-7000-8000-${String(AT_ONCE.indexOf(one) + 3).padStart(12, "0")}`
 
 const pageOf = (one: string): string =>
   `export const ${one} = { id: "${idOf(one)}", pageTypeSlug: "domain", slug: "${one}" }\n`
@@ -111,7 +115,7 @@ test("landings at once each land, and none takes another back", async () => {
   const kids = AT_ONCE.map((one) =>
     running(landsOn(root, `akasha/${one}.domain.ts`, pageOf(one), ready(one), go))
   )
-  expect(await until(() => AT_ONCE.every((one) => existsSync(ready(one))))).toBe(true)
+  expect(await until(() => AT_ONCE.every((one) => existsSync(ready(one))), 120000)).toBe(true)
   writeFileSync(go, "go")
   expect(await Promise.all(kids.map((one) => one.exited))).toEqual(AT_ONCE.map(() => 0))
   const carried = CARRIED.map((one) => one.path)
@@ -123,7 +127,7 @@ test("landings at once each land, and none takes another back", async () => {
     expect(idFiledIn(root, idOf(one))).toBe(true)
     expect(listedFiledIn(root, "domain", one)).toBe(true)
   }
-})
+}, 120000)
 
 test("a hold whose holder is gone is taken rather than waited on", async () => {
   const root = repoWith({ "one.txt": "committed" })
