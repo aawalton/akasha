@@ -61,6 +61,8 @@ export const track = {
     "amend moves the stretches on either side to keep the day contiguous, and --leave-gap leaves them alone.",
     "drop leaves the gap it makes behind unless --mend is said.",
     "--relationship names a relationship by its id or by its title, and amend replaces what a stretch carried rather than adding to it.",
+    "a title carrying one of a relationship's aliases tags the stretch with that relationship, with no flag said, and what --relationship names is kept beside it.",
+    "an alias more than one relationship carries tags neither, and says nothing about it, since no act that writes stops to ask.",
     "a line handed to file opens with a wall time, carries the title next, and closes with the safety and the difficulty run together.",
     "each line handed to file ends where the line after it begins, and the last line of the set is left open.",
     "the lines handed to file are judged as a set and refused as a set, and a set that is sound lands as one commit.",
@@ -245,6 +247,22 @@ export const track = {
     {
       invariantKind: "departure",
       statement: "A `split` carries the relationships of the stretch it parts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A title carrying a relationship's alias tags the stretch with that relationship.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relationship a title tags is kept beside one `--relationship` names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An alias more than one relationship carries tags neither and refuses nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A title is read for aliases by every act that sets one.",
     },
     {
       invariantKind: "departure",
