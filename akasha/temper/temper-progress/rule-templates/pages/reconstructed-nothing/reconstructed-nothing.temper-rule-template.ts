@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const reconstructedNothing = {
-  id: "01a05fd0-4de5-7bb0-ac1c-dc31295d8175",
+  id: "019e3104-260d-7216-94db-9f9abfd643f3",
   pageTypeSlug: "temper-rule-template",
   slug: "reconstructed-nothing",
   title: "Protect reconstructed gear",

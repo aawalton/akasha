@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedMendersBondRestoreResources = {
-  id: "01a05fd2-7c42-7e44-af0a-0d7216ff99a5",
+  id: "019e6471-15b2-7aab-b278-4d90fd0cb75e",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-menders-bond-restore-resources",
   title: "Restorative Bond",

@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedMendersBondDamageShield = {
-  id: "01a05fd2-7c41-7c9b-8c68-22102368fa70",
+  id: "019e6471-15ad-7273-b0ad-4215c46dffa5",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-menders-bond-damage-shield",
   title: "Warding Bond",

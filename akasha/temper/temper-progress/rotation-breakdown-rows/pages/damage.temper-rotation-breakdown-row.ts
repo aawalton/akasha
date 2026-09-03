@@ -1,7 +1,7 @@
 import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.ts"
 
 export const damage = {
-  id: "01a05fc9-c60f-7147-a2d9-fb9e6e35a039",
+  id: "019e5d79-3e47-73af-91ef-f14c33c428c5",
   pageTypeSlug: "temper-rotation-breakdown-row",
   slug: "damage",
   title: "Damage",

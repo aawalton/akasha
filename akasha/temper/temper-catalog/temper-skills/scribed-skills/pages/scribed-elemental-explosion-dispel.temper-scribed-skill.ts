@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedElementalExplosionDispel = {
-  id: "01a05fd2-7c3e-79d5-a6e8-9cb0c81b938f",
+  id: "019e6471-15a2-73dc-b5c8-edd4e0508113",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-elemental-explosion-dispel",
   title: "Dispelling Explosion",

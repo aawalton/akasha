@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const worthlessDestroy = {
-  id: "01a05fd0-4dea-7a1a-acd4-939d7aa201c4",
+  id: "019e3104-262e-7641-92a5-c6fd26067689",
   pageTypeSlug: "temper-rule-template",
   slug: "worthless-destroy",
   title: "Destroy worthless items",

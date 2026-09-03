@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const craftedConsumablesNothing = {
-  id: "01a05fd0-4dde-7f6f-bd4b-a6a4d7cb1218",
+  id: "019e3104-260c-727e-bb79-241dd40a8002",
   pageTypeSlug: "temper-rule-template",
   slug: "crafted-consumables-nothing",
   title: "Protect crafted consumables",

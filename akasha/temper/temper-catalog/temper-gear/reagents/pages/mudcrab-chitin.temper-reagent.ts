@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const mudcrabChitin = {
-  id: "01a05fd8-a455-7409-a461-7b1630b406ad",
+  id: "019e21f7-3b1f-7598-8279-e510dfe1a76a",
   pageTypeSlug: "temper-reagent",
   slug: "mudcrab-chitin",
   title: "Mudcrab Chitin",

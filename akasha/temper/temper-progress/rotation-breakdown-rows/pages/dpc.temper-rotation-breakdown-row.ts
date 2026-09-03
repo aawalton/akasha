@@ -1,7 +1,7 @@
 import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.ts"
 
 export const dpc = {
-  id: "01a05fc9-c610-7f4d-86b7-e7fee4547c73",
+  id: "019e5d79-3e4f-7eb1-b051-87789d5ba591",
   pageTypeSlug: "temper-rotation-breakdown-row",
   slug: "dpc",
   title: "DPC",

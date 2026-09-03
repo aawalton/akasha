@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const valuableNothing = {
-  id: "01a05fd0-4de9-7ffb-b5c9-a63c5606c761",
+  id: "019e3104-2611-7048-800c-d9e518987d2d",
   pageTypeSlug: "temper-rule-template",
   slug: "valuable-nothing",
   title: "Protect valuable items",

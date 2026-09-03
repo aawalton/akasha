@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const equipmentDeconstruct = {
-  id: "01a05fd0-4ddf-7189-8f92-d75be8f796fe",
+  id: "019e3104-261c-7239-bced-7a7c2ac03bce",
   pageTypeSlug: "temper-rule-template",
   slug: "equipment-deconstruct",
   title: "Deconstruct leftover equipment",

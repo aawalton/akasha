@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedShieldThrowPull = {
-  id: "01a05fd2-7c45-745c-98f5-d30f7ba01c1c",
+  id: "019e6471-15b9-7250-bfc8-4eba81eef89d",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-shield-throw-pull",
   title: "Leashing Throw",

@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedShieldThrowMultiTarget = {
-  id: "01a05fd2-7c44-7ca4-9a5d-2c3eb37d7a14",
+  id: "019e6471-15b7-751c-ae3d-4d690f7d56be",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-shield-throw-multi-target",
   title: "Shattering Throw",

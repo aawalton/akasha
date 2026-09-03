@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const masterWritsBank = {
-  id: "01a05fd0-4de2-71af-844a-d1987a34a9bd",
+  id: "019e3104-2617-7629-b790-576e7d97a15b",
   pageTypeSlug: "temper-rule-template",
   slug: "master-writs-bank",
   title: "Bank master writs",

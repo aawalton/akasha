@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const containersOpen = {
-  id: "01a05fd0-4ddd-785b-b62d-f240c54bfa7e",
+  id: "019e3104-2608-73dd-9d1c-a7890d444f99",
   pageTypeSlug: "temper-rule-template",
   slug: "containers-open",
   title: "Open containers",

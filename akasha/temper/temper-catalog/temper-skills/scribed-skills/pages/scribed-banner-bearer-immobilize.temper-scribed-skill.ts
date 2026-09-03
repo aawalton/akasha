@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedBannerBearerImmobilize = {
-  id: "01a05fd2-7c3b-7a47-8b55-9be18dbf6efc",
+  id: "019e6471-1595-79a0-931e-a2b50195b8b9",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-banner-bearer-immobilize",
   title: "Binding Banner",

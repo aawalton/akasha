@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const craftingCraftBag = {
-  id: "01a05fd0-4dde-749b-8570-b93fe6e5890b",
+  id: "019e3104-261e-7926-9502-ce21cea7fc4b",
   pageTypeSlug: "temper-rule-template",
   slug: "crafting-craft-bag",
   title: "Stow crafting materials",

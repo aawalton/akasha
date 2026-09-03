@@ -1,7 +1,7 @@
 import type { TemperRace } from "../temper-race.page-type.ts"
 
 export const redguard = {
-  id: "01a05fc5-1692-7e30-a47d-1018f5ce67d1",
+  id: "019e2fc3-a997-7eb8-8aac-6cf5741adfe5",
   pageTypeSlug: "temper-race",
   slug: "redguard",
   title: "Redguard",

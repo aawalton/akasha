@@ -1,7 +1,7 @@
 import type { TemperRace } from "../temper-race.page-type.ts"
 
 export const noRace = {
-  id: "01a05fc5-1690-76c8-b9d5-fe34d4e35d25",
+  id: "019e2fc3-a982-7de1-8f83-c35c6c7957d5",
   pageTypeSlug: "temper-race",
   slug: "no-race",
   title: "No Race",

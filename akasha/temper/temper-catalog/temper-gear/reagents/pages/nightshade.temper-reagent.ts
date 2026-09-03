@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const nightshade = {
-  id: "01a05fd8-a455-76b9-9a5f-baa7b166b0c2",
+  id: "019e21f7-3b20-7fa2-9748-abb3c5b67fee",
   pageTypeSlug: "temper-reagent",
   slug: "nightshade",
   title: "Nightshade",

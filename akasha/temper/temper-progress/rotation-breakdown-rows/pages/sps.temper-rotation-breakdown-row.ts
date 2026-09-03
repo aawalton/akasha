@@ -1,7 +1,7 @@
 import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.ts"
 
 export const sps = {
-  id: "01a05fc9-c612-7a47-9ce8-9dafb09759c3",
+  id: "019e5d79-3e55-7eb3-863e-aaba96922048",
   pageTypeSlug: "temper-rotation-breakdown-row",
   slug: "sps",
   title: "SPS",

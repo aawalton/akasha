@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const dragonsBile = {
-  id: "01a05fd8-a452-7ebf-8b5d-5746e9ebd169",
+  id: "019e21f7-3b14-71cb-989c-b634ad936d67",
   pageTypeSlug: "temper-reagent",
   slug: "dragons-bile",
   title: "Dragon's Bile",

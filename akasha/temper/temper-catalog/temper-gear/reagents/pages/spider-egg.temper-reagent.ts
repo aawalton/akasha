@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const spiderEgg = {
-  id: "01a05fd8-a456-7360-a474-a6cce8cc8fd5",
+  id: "019e21f7-3b24-73f5-9872-99b465b90f46",
   pageTypeSlug: "temper-reagent",
   slug: "spider-egg",
   title: "Spider Egg",

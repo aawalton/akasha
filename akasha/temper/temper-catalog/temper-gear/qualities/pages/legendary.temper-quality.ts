@@ -1,7 +1,7 @@
 import type { TemperQuality } from "../temper-quality.page-type.ts"
 
 export const legendary = {
-  id: "01a05fd5-2053-7822-80ea-04e37ea397a3",
+  id: "019e2fc4-de1c-764e-8434-e02224db4355",
   pageTypeSlug: "temper-quality",
   slug: "legendary",
   title: "Legendary",

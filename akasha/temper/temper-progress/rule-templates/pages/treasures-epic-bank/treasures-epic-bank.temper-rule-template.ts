@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const treasuresEpicBank = {
-  id: "01a05fd0-4de8-7864-b611-3c89ab795816",
+  id: "019e3104-2620-7fe8-87df-816b5a447437",
   pageTypeSlug: "temper-rule-template",
   slug: "treasures-epic-bank",
   title: "Bank epic+ treasures",

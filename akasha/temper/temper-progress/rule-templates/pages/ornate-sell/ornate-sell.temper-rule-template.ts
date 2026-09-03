@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const ornateSell = {
-  id: "01a05fd0-4de3-71b6-8618-5cc4e17db71e",
+  id: "019e3104-2613-7620-a301-5c9e506a7b7a",
   pageTypeSlug: "temper-rule-template",
   slug: "ornate-sell",
   title: "Sell ornate gear",

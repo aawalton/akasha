@@ -1,7 +1,7 @@
 import type { TemperRace } from "../temper-race.page-type.ts"
 
 export const orc = {
-  id: "01a05fc5-1691-7a01-8128-4e1d8e0ab4aa",
+  id: "019e2fc3-a996-7284-8ef0-00982dfebbca",
   pageTypeSlug: "temper-race",
   slug: "orc",
   title: "Orc",

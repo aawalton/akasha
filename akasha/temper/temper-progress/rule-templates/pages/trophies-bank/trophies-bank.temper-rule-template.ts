@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const trophiesBank = {
-  id: "01a05fd0-4de9-7a25-9571-a7b5e98ae22e",
+  id: "019e3104-2621-7ca2-8422-38d1ebaf66d8",
   pageTypeSlug: "temper-rule-template",
   slug: "trophies-bank",
   title: "Bank trophies",

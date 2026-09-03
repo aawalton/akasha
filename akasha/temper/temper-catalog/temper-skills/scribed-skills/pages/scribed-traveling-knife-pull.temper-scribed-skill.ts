@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedTravelingKnifePull = {
-  id: "01a05fd2-7c52-7951-9cc2-54f63f9c793b",
+  id: "019e6471-15e2-7420-a2ef-ab24fa489416",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-traveling-knife-pull",
   title: "Leashing Knife",

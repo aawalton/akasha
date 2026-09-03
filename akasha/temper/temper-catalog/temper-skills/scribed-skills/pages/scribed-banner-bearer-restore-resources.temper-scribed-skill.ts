@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedBannerBearerRestoreResources = {
-  id: "01a05fd2-7c3d-7745-af9f-fcb8e68664bf",
+  id: "019e6471-159f-7589-8387-0ebe410bb8a3",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-banner-bearer-restore-resources",
   title: "Restorative Banner",

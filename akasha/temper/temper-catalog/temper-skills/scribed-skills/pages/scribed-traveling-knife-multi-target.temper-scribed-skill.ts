@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedTravelingKnifeMultiTarget = {
-  id: "01a05fd2-7c51-78b0-918d-292d9df30321",
+  id: "019e6471-15df-7596-9c06-02ab44ba7578",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-traveling-knife-multi-target",
   title: "Shattering Knife",

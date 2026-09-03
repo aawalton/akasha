@@ -1,7 +1,7 @@
 import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.ts"
 
 export const dps = {
-  id: "01a05fc9-c610-7aed-b43d-132c1075b030",
+  id: "019e5d79-3e4d-7336-9e7b-c551cecef7d7",
   pageTypeSlug: "temper-rotation-breakdown-row",
   slug: "dps",
   title: "DPS",

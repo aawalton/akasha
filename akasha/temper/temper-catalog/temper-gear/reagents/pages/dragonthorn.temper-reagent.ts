@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const dragonthorn = {
-  id: "01a05fd8-a453-724a-ac8f-53bee699f83d",
+  id: "019e21f7-3b17-7bda-9f80-d46932033b33",
   pageTypeSlug: "temper-reagent",
   slug: "dragonthorn",
   title: "Dragonthorn",

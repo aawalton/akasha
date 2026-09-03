@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const powderedMotherOfPearl = {
-  id: "01a05fd8-a456-7b8f-9060-b2ec31886e24",
+  id: "019e21f7-3b22-795b-861d-1ec33cba9bab",
   pageTypeSlug: "temper-reagent",
   slug: "powdered-mother-of-pearl",
   title: "Powdered Mother of Pearl",

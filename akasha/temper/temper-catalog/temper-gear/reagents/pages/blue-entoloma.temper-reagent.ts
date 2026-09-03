@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const blueEntoloma = {
-  id: "01a05fd8-a44f-73ff-83a7-6fea366c78e0",
+  id: "019e21f7-3b05-7e64-bbca-b537ab77410a",
   pageTypeSlug: "temper-reagent",
   slug: "blue-entoloma",
   title: "Blue Entoloma",

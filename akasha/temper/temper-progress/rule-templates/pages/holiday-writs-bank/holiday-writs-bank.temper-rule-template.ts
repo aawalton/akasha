@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const holidayWritsBank = {
-  id: "01a05fd0-4de1-7e59-a6dc-7eaa47e93b03",
+  id: "019e3104-2616-7977-9a0f-2495efca465c",
   pageTypeSlug: "temper-rule-template",
   slug: "holiday-writs-bank",
   title: "Bank holiday writs",

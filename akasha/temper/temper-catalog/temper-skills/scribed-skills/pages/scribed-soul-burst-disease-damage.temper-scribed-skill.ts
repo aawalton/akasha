@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedSoulBurstDiseaseDamage = {
-  id: "01a05fd2-7c49-79ce-99ad-ee360400f02b",
+  id: "019e6471-15c4-7ec0-8e41-4206c141d937",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-soul-burst-disease-damage",
   title: "Pestilent Burst",

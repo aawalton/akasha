@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const glyphsDeconstruct = {
-  id: "01a05fd0-4de0-71ec-ab11-aa7c6b92e445",
+  id: "019e3104-261c-7f8f-9381-55d36b62a9c8",
   pageTypeSlug: "temper-rule-template",
   slug: "glyphs-deconstruct",
   title: "Deconstruct glyphs",

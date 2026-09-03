@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedBannerBearerPhysicalDamage = {
-  id: "01a05fd2-7c3d-7d70-b40b-69edb6eb8c48",
+  id: "019e6471-159d-7dc5-b1b0-e2a913419032",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-banner-bearer-physical-damage",
   title: "Sundering Banner",

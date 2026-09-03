@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const drinkNormalSell = {
-  id: "01a05fd0-4ddf-7fbe-ad15-fc424dff8da0",
+  id: "019e3104-262c-7bdc-801a-ba1782a26c77",
   pageTypeSlug: "temper-rule-template",
   slug: "drink-normal-sell",
   title: "Sell basic drinks",

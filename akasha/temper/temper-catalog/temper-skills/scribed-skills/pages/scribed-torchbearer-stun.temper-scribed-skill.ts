@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedTorchbearerStun = {
-  id: "01a05fd2-7c4d-7458-83a7-7bafe47390fd",
+  id: "019e6471-15d4-715d-92f9-31e7853df28e",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-torchbearer-stun",
   title: "Dazing Torch",

@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const goldStock = {
-  id: "01a05fd0-4de0-7543-a739-4a1cc29271f7",
+  id: "019e3104-2604-7bfa-b202-1d8e5fce47aa",
   pageTypeSlug: "temper-rule-template",
   slug: "gold-stock",
   title: "Stock gold",

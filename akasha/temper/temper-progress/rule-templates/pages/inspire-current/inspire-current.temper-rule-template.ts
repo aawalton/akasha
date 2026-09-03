@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const inspireCurrent = {
-  id: "01a05fd0-4de1-7aae-a03d-1251893951c4",
+  id: "019e3104-2614-7fae-9ee7-2ef21026f460",
   pageTypeSlug: "temper-rule-template",
   slug: "inspire-current",
   title: "Deconstruct for inspiration",

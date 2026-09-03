@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedBannerBearerMultiTarget = {
-  id: "01a05fd2-7c3c-7ea2-89a0-3353653d90da",
+  id: "019e6471-159b-78eb-bd7b-bee179530341",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-banner-bearer-multi-target",
   title: "Shattering Banner",

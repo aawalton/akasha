@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedTorchbearerHealing = {
-  id: "01a05fd2-7c4d-76cd-a6d0-f2b070488da0",
+  id: "019e6471-15d1-7354-9eac-080b61ce74b7",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-torchbearer-healing",
   title: "Healing Torch",

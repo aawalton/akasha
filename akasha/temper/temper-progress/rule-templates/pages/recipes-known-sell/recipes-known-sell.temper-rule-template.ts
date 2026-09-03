@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const recipesKnownSell = {
-  id: "01a05fd0-4de5-72b6-a1c0-06691edc7d7a",
+  id: "019e3104-2628-7b7f-bd11-f6d4ad45e189",
   pageTypeSlug: "temper-rule-template",
   slug: "recipes-known-sell",
   title: "Sell known recipes",

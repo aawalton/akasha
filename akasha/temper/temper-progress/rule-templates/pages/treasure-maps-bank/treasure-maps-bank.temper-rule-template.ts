@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const treasureMapsBank = {
-  id: "01a05fd0-4de7-775b-b0b7-eae413c348ad",
+  id: "019e3104-2618-7f6b-9442-fb9a11ef7939",
   pageTypeSlug: "temper-rule-template",
   slug: "treasure-maps-bank",
   title: "Bank treasure maps",

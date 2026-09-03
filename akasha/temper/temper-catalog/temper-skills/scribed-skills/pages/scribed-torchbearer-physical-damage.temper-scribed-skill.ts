@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedTorchbearerPhysicalDamage = {
-  id: "01a05fd2-7c4d-7aea-9c1e-e678a414fd41",
+  id: "019e6471-15d3-72b1-a018-b801c227b835",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-torchbearer-physical-damage",
   title: "Sundering Torch",

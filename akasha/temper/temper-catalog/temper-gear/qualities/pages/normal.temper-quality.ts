@@ -1,7 +1,7 @@
 import type { TemperQuality } from "../temper-quality.page-type.ts"
 
 export const normal = {
-  id: "01a05fd5-2054-7b36-915b-a18091332ee9",
+  id: "019e2fc4-de11-7612-823a-5adf6684ab21",
   pageTypeSlug: "temper-quality",
   slug: "normal",
   title: "Normal",

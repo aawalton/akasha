@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const toolsBank = {
-  id: "01a05fd0-4de7-7986-aaa1-23f08af0fb36",
+  id: "019e3104-2620-7327-ad6d-ed207296369c",
   pageTypeSlug: "temper-rule-template",
   slug: "tools-bank",
   title: "Bank tools",

@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const treasuresStolenFence = {
-  id: "01a05fd0-4de8-75f3-9e55-dd1b8c0aa58e",
+  id: "019e3104-2626-7e2a-8df5-d83385768ba5",
   pageTypeSlug: "temper-rule-template",
   slug: "treasures-stolen-fence",
   title: "Fence stolen treasures",

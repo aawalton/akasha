@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const poisonsNormalSell = {
-  id: "01a05fd0-4de4-7ead-b116-3047ed03789a",
+  id: "019e3104-262b-7172-acfb-0833ef728080",
   pageTypeSlug: "temper-rule-template",
   slug: "poisons-normal-sell",
   title: "Sell basic poisons",

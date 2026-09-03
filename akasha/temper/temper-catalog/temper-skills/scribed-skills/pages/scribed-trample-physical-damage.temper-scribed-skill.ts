@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedTramplePhysicalDamage = {
-  id: "01a05fd2-7c4f-72d3-a3ac-8c29184f0712",
+  id: "019e6471-15d9-7bef-9f70-63075b632837",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-trample-physical-damage",
   title: "Sundering Trample",

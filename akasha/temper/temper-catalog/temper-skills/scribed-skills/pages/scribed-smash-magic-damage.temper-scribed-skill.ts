@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedSmashMagicDamage = {
-  id: "01a05fd2-7c47-714e-8539-7bbd4efb0dcd",
+  id: "019e6471-15be-7995-8e56-7484726d3fbd",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-smash-magic-damage",
   title: "Magical Smash",

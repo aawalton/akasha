@@ -1,7 +1,7 @@
 import type { TemperRace } from "../temper-race.page-type.ts"
 
 export const argonian = {
-  id: "01a05fc5-168f-7213-aab4-2fcb8ba5d5c1",
+  id: "019e2fc3-a988-7b52-8a61-82061a6ac032",
   pageTypeSlug: "temper-race",
   slug: "argonian",
   title: "Argonian",

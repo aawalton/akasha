@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const tasksStolen = {
-  id: "01a05fd0-4de6-7ee8-9356-fd6b2592bf21",
+  id: "019e3104-2615-7cda-ba54-233e6c758ff2",
   pageTypeSlug: "temper-rule-template",
   slug: "tasks-stolen",
   title: "Launder stolen task items",

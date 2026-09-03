@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const emeticRussula = {
-  id: "01a05fd8-a453-746f-9522-2f839fddceb5",
+  id: "019e21f7-3b18-7e6e-835c-7568dfe11ec9",
   pageTypeSlug: "temper-reagent",
   slug: "emetic-russula",
   title: "Emetic Russula",

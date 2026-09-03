@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const treasuresSell = {
-  id: "01a05fd0-4de8-749c-86ed-eb97687c739b",
+  id: "019e3104-2627-7b26-8ce5-f198e4be0e34",
   pageTypeSlug: "temper-rule-template",
   slug: "treasures-sell",
   title: "Sell common treasures",

@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const questItemsNothing = {
-  id: "01a05fd0-4de4-7cef-8b1e-8ae5d32f538a",
+  id: "019e3104-261b-7569-b3d0-250b209440ea",
   pageTypeSlug: "temper-rule-template",
   slug: "quest-items-nothing",
   title: "Protect quest items",

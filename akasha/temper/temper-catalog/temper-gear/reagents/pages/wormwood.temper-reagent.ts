@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const wormwood = {
-  id: "01a05fd8-a458-78cc-a355-3a27631f0ec9",
+  id: "019e21f7-3b2a-714b-be75-0e5d4a48cf12",
   pageTypeSlug: "temper-reagent",
   slug: "wormwood",
   title: "Wormwood",

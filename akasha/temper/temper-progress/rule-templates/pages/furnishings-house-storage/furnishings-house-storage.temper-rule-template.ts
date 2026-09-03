@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const furnishingsHouseStorage = {
-  id: "01a05fd0-4de0-7ed7-baea-d7001b1818d1",
+  id: "019e3104-2623-7821-a2ec-6231f73b4a1b",
   pageTypeSlug: "temper-rule-template",
   slug: "furnishings-house-storage",
   title: "Store furniture in housing",

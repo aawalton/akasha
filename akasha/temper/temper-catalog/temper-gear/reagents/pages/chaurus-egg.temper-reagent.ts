@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const chaurusEgg = {
-  id: "01a05fd8-a450-73ae-9482-fbe6264c0469",
+  id: "019e21f7-3b0c-7757-bdb2-01abe41fb21a",
   pageTypeSlug: "temper-reagent",
   slug: "chaurus-egg",
   title: "Chaurus Egg",

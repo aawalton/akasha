@@ -1,7 +1,7 @@
 import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.ts"
 
 export const uptime = {
-  id: "01a05fc9-c613-7092-bdf8-59841acd8980",
+  id: "019e5d79-3e5b-7c6e-b98e-2fbe5c695e05",
   pageTypeSlug: "temper-rotation-breakdown-row",
   slug: "uptime",
   title: "Uptime",

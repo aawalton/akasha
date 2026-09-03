@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const vileCoagulant = {
-  id: "01a05fd8-a457-74e2-a237-f1c90878a378",
+  id: "019e21f7-3b26-7c69-ace9-bedf3b87e28d",
   pageTypeSlug: "temper-reagent",
   slug: "vile-coagulant",
   title: "Vile Coagulant",

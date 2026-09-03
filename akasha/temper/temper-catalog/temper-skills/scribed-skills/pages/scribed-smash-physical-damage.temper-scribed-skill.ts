@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedSmashPhysicalDamage = {
-  id: "01a05fd2-7c47-7b59-aeb9-1cfc038d576f",
+  id: "019e6471-15bf-78a6-a27d-ba04ff92a4a2",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-smash-physical-damage",
   title: "Sundering Smash",

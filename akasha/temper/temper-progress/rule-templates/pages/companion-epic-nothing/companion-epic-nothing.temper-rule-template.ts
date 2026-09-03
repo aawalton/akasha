@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const companionEpicNothing = {
-  id: "01a05fd0-4ddc-7e31-a19e-eb4b1a4a20d7",
+  id: "019e3104-2609-739b-88ff-73723337601b",
   pageTypeSlug: "temper-rule-template",
   slug: "companion-epic-nothing",
   title: "Protect epic+ companion gear",

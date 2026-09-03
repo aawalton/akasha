@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const legendaryNothing = {
-  id: "01a05fd0-4de2-7642-b914-d73902dd2b02",
+  id: "019e3104-260a-7328-8521-8944b7303b8a",
   pageTypeSlug: "temper-rule-template",
   slug: "legendary-nothing",
   title: "Protect legendary gear",

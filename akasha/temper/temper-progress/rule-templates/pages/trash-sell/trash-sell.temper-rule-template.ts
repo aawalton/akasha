@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const trashSell = {
-  id: "01a05fd0-4de7-7608-9d2b-eb97ba8d597a",
+  id: "019e3104-2624-7509-9de0-8c51f78d2dfa",
   pageTypeSlug: "temper-rule-template",
   slug: "trash-sell",
   title: "Sell trash",

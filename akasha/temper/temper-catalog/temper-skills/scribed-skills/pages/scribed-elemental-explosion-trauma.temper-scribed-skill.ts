@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedElementalExplosionTrauma = {
-  id: "01a05fd2-7c40-7bac-ab33-b0bee38b985f",
+  id: "019e6471-15ac-73f1-aff3-6dae761ad6e7",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-elemental-explosion-trauma",
   title: "Traumatic Explosion",

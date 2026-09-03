@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedTrampleTrauma = {
-  id: "01a05fd2-7c50-7eb4-aac1-a9aef8727189",
+  id: "019e6471-15db-7a6d-af94-80ab86bb480a",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-trample-trauma",
   title: "Traumatic Trample",

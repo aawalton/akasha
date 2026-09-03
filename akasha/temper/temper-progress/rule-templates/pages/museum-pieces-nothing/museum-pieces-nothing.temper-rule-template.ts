@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const museumPiecesNothing = {
-  id: "01a05fd0-4de3-7004-98e1-0e09087ea561",
+  id: "019e3104-261a-78c9-ad6d-5f414754c1c5",
   pageTypeSlug: "temper-rule-template",
   slug: "museum-pieces-nothing",
   title: "Protect museum pieces",

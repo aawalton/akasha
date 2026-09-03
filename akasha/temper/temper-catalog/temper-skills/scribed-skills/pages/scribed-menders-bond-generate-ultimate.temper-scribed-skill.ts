@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedMendersBondGenerateUltimate = {
-  id: "01a05fd2-7c41-73e3-985c-2f44068bfb3e",
+  id: "019e6471-15ae-71fb-8f1a-02628563bf2a",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-menders-bond-generate-ultimate",
   title: "Heroic Bond",

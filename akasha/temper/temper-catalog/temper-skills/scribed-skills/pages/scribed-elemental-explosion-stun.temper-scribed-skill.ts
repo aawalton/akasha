@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedElementalExplosionStun = {
-  id: "01a05fd2-7c40-7345-94ec-b0a87f76d921",
+  id: "019e6471-15ab-7473-89e0-d26cf9c1486e",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-elemental-explosion-stun",
   title: "Dazing Explosion",

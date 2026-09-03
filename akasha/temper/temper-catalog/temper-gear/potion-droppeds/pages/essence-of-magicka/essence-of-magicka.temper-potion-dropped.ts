@@ -1,7 +1,7 @@
 import type { TemperPotionDropped } from "../../temper-potion-dropped.page-type.ts"
 
 export const essenceOfMagicka = {
-  id: "01a05fd8-a44d-780d-b3d4-4311194f3401",
+  id: "019e21f5-bdb6-710e-9cd3-9e2950cf08bd",
   pageTypeSlug: "temper-potion-dropped",
   slug: "essence-of-magicka",
   title: "Essence of Magicka",

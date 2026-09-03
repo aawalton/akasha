@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedTorchbearerGenerateUltimate = {
-  id: "01a05fd2-7c4c-7f6e-8236-9988b265442c",
+  id: "019e6471-15d0-74be-a29a-c1a5e3e16824",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-torchbearer-generate-ultimate",
   title: "Heroic Torch",

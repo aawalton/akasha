@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedShieldThrowTaunt = {
-  id: "01a05fd2-7c45-740a-9a9e-cef11cdb6393",
+  id: "019e6471-15ba-71eb-b259-a3fcda755d40",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-shield-throw-taunt",
   title: "Goading Throw",

@@ -1,7 +1,7 @@
 import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
 
 export const foodNormalSell = {
-  id: "01a05fd0-4de0-73de-9562-15cdd9031841",
+  id: "019e3104-262b-7ed8-9aad-80ace952cc0f",
   pageTypeSlug: "temper-rule-template",
   slug: "food-normal-sell",
   title: "Sell basic food",

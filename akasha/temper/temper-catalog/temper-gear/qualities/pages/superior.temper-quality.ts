@@ -1,7 +1,7 @@
 import type { TemperQuality } from "../temper-quality.page-type.ts"
 
 export const superior = {
-  id: "01a05fd5-2054-7383-856d-2065ffce85f6",
+  id: "019e2fc4-de16-7b96-aecb-4c8af4cf242a",
   pageTypeSlug: "temper-quality",
   slug: "superior",
   title: "Superior",

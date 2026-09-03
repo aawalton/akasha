@@ -1,7 +1,7 @@
 import type { TemperPotionCrown } from "../../temper-potion-crown.page-type.ts"
 
 export const goldCoastWarriorElixir = {
-  id: "01a05fd8-a44d-71bc-bd4e-ab101b87798a",
+  id: "019e21f5-753a-7729-8bf8-b76b38588b3c",
   pageTypeSlug: "temper-potion-crown",
   slug: "gold-coast-warrior-elixir",
   title: "Gold Coast Warrior Elixir",

@@ -1,7 +1,7 @@
 import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.ts"
 
 export const hpc = {
-  id: "01a05fc9-c611-757f-acc7-541eddf0dbc9",
+  id: "019e5d79-3e59-73fb-a873-ffcb44523624",
   pageTypeSlug: "temper-rotation-breakdown-row",
   slug: "hpc",
   title: "HPC",

@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedMendersBondMagicDamage = {
-  id: "01a05fd2-7c42-73d9-aac0-88555d4ee22d",
+  id: "019e6471-15b0-7bf4-85d7-2a2cbd4b66b5",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-menders-bond-magic-damage",
   title: "Magical Bond",

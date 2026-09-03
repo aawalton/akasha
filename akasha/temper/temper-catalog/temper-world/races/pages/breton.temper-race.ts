@@ -1,7 +1,7 @@
 import type { TemperRace } from "../temper-race.page-type.ts"
 
 export const breton = {
-  id: "01a05fc5-168f-71f5-b7e4-a5592a2ace50",
+  id: "019e2fc3-a98d-7c38-861f-4e8de608aeb7",
   pageTypeSlug: "temper-race",
   slug: "breton",
   title: "Breton",

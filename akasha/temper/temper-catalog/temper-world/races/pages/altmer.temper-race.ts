@@ -1,7 +1,7 @@
 import type { TemperRace } from "../temper-race.page-type.ts"
 
 export const altmer = {
-  id: "01a05fc5-168e-73e3-99a5-0aaaa76c43af",
+  id: "019e2fc3-a986-716c-9ff3-32a385297c37",
   pageTypeSlug: "temper-race",
   slug: "altmer",
   title: "High Elf",

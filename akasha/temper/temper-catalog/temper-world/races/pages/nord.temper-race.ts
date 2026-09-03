@@ -1,7 +1,7 @@
 import type { TemperRace } from "../temper-race.page-type.ts"
 
 export const nord = {
-  id: "01a05fc5-1691-7862-8c35-9394371c160e",
+  id: "019e2fc3-a994-78b3-9095-88d0fdee520c",
   pageTypeSlug: "temper-race",
   slug: "nord",
   title: "Nord",

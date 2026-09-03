@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedSoulBurstImmobilize = {
-  id: "01a05fd2-7c4a-77df-b8e6-6e2a16476250",
+  id: "019e6471-15c8-79f2-b18b-83fab0cc8bfa",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-soul-burst-immobilize",
   title: "Binding Burst",

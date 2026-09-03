@@ -1,7 +1,7 @@
 import type { TemperReagent } from "../temper-reagent.page-type.ts"
 
 export const crimsonNirnroot = {
-  id: "01a05fd8-a451-7cd9-8a7a-bb9f7059bc49",
+  id: "019e21f7-3b12-7958-836d-1cf8db4411cb",
   pageTypeSlug: "temper-reagent",
   slug: "crimson-nirnroot",
   title: "Crimson Nirnroot",

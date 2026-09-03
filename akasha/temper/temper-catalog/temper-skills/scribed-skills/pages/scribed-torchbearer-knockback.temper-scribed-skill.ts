@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedTorchbearerKnockback = {
-  id: "01a05fd2-7c4d-7acc-95ac-f911c79ef9f1",
+  id: "019e6471-15d2-723a-8f9d-d9a283ec54e4",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-torchbearer-knockback",
   title: "Repelling Torch",
