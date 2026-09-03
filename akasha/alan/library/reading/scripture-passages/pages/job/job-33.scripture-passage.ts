@@ -9,6 +9,7 @@ export const job33 = {
   position: 33,
   ownLength: 0,
   ownProgress: 0,
+  unitSlug: "words",
   status: "not-started",
   externalId: "job33",
 } as const satisfies ScripturePassage

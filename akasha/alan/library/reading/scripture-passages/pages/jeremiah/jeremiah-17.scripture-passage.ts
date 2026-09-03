@@ -9,6 +9,7 @@ export const jeremiah17 = {
   position: 17,
   ownLength: 0,
   ownProgress: 0,
+  unitSlug: "words",
   status: "not-started",
   externalId: "jeremiah17",
 } as const satisfies ScripturePassage

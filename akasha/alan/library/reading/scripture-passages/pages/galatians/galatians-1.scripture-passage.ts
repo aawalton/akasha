@@ -9,6 +9,7 @@ export const galatians1 = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
+  unitSlug: "words",
   status: "not-started",
   externalId: "galatians1",
 } as const satisfies ScripturePassage
