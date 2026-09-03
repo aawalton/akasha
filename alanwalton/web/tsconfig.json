@@ -36,9 +36,6 @@
     },
     {
       "path": "../../infra/k8s-types"
-    },
-    {
-      "path": "../../shared/utils-test"
     }
   ],
   "include": [

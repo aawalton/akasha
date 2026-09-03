@@ -76,7 +76,7 @@
   },
   "devDependencies": {
     "@react-router/dev": "7.15.1",
-    "@shared/utils-test": "workspace:*",
+    "@akasha/testing-system": "workspace:*",
     "@tailwindcss/vite": "^4.1.9",
     "@types/bun": "^1.3.9",
     "@types/node": "^25",
