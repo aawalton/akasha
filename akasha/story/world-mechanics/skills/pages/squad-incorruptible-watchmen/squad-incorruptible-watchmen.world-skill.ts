@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const squadIncorruptibleWatchmen = {
   id: "01a0657d-02ee-7433-b950-86ea078fa005",

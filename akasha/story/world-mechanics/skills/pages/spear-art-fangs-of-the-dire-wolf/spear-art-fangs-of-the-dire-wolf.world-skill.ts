@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const spearArtFangsOfTheDireWolf = {
   id: "01a0657d-02c7-71f6-9a68-1004014d4d78",

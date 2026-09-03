@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const summonJumpRamp = {
   id: "01a0657d-02fe-77e4-90fb-bd4fc4055a7f",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const summonThePinkCarriageOfMagnoliaReinhart = {
   id: "01a0657d-0302-7dd9-a92c-bc9fe2a4172a",

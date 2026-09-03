@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const spiritguardDeflection = {
   id: "01a0657d-02ee-74c5-b40f-6ccd34eca991",

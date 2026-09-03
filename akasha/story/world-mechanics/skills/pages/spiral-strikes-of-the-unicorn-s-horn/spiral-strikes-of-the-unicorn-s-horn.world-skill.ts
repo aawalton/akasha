@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const spiralStrikesOfTheUnicornSHorn = {
   id: "01a0657d-02ee-7de4-a018-a4f5f793c83f",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const summonPatrol = {
   id: "01a0657d-02fe-7a16-8368-1bbc7278f615",

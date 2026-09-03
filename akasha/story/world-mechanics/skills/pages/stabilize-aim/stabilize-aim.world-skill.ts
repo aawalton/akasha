@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const stabilizeAim = {
   id: "01a0657d-02ee-7dd2-a0c8-ccceaa0152b5",

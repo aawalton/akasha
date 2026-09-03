@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const staffFlurryOfEfficiency = {
   id: "01a0657d-02ee-706e-9b28-f289062163b4",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const spellReflectionBarrierLesser = {
   id: "01a0657d-02ed-7c76-9f5f-c5ce7eae1c4d",

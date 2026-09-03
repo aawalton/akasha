@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const summonAlliesWolvesOfTheNorth = {
   id: "01a0657d-02fe-7c43-ac30-c245446751b1",

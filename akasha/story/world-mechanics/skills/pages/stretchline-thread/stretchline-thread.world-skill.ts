@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const stretchlineThread = {
   id: "01a0657d-02fe-7803-a525-373ec5049580",

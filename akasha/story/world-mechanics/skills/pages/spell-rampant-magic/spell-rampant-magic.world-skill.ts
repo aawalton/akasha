@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const spellRampantMagic = {
   id: "01a0657d-02ed-7116-841c-15f31f990cd5",

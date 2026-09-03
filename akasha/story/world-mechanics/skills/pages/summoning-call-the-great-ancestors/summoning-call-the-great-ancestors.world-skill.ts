@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const summoningCallTheGreatAncestors = {
   id: "01a0657d-0302-744c-9a9a-3301add99fee",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const slowMetabolismRe = {
   id: "01a0657d-02c6-711b-b15e-f17261d24f2f",

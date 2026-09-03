@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const spellEfficiencyStellarMagic = {
   id: "01a0657d-02ed-787b-8abf-f76cfbcdf25f",

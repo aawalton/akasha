@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const summonSwordOfLight = {
   id: "01a0657d-02ff-7f00-9560-0d532885f9d8",

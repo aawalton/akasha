@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const spearArtTheGreatDesertOpens = {
   id: "01a0657d-02c7-7e01-b0cc-bd86edc8c5a7",

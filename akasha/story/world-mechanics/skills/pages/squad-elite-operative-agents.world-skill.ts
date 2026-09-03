@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const squadEliteOperativeAgents = {
   id: "01a0657d-02ee-7c1e-9faf-a7d326939266",

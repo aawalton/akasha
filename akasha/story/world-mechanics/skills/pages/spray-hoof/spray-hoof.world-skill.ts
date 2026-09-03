@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const sprayHoof = {
   id: "01a0657d-02ee-70dc-8911-bb38cfe4d7e5",

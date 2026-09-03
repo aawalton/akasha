@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const sleekwaterAdvance = {
   id: "01a0657d-02c6-7607-8da7-4c1f3c753dd6",

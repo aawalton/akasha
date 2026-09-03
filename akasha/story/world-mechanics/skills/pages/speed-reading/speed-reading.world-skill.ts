@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const speedReading = {
   id: "01a0657d-02ed-7322-9db0-f1eed7971f1f",

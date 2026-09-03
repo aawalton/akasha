@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const stealthguard = {
   id: "01a0657d-02fa-7515-938e-ced1457ab163",

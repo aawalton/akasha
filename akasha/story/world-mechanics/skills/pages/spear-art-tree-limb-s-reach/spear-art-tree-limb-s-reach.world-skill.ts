@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const spearArtTreeLimbSReach = {
   id: "01a0657d-02c8-71d6-848b-660f9088af07",

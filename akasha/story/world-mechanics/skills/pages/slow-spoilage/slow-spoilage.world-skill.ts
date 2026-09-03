@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const slowSpoilage = {
   id: "01a0657d-02c7-7a6e-8176-dc6a7326cd83",

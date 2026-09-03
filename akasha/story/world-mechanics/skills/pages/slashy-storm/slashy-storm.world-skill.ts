@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const slashyStorm = {
   id: "01a0657d-02c6-77e9-973c-b46425fa104e",

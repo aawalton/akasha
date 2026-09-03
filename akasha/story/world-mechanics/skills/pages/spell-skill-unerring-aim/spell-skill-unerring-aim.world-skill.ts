@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const spellSkillUnerringAim = {
   id: "01a0657d-02ed-76cc-8edf-cce126d05e1e",

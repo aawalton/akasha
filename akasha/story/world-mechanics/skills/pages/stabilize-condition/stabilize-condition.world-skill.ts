@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const stabilizeCondition = {
   id: "01a0657d-02ee-7e03-9b51-3138f7ae14f2",

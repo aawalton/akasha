@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const superiorAerialAwareness = {
   id: "01a0657d-0302-72c4-ac44-62a936354807",

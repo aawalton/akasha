@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const stormOfDaggers = {
   id: "01a0657d-02fb-7cf5-80e6-a981325751e9",

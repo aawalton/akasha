@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const suddenUpdraft = {
   id: "01a0657d-02fe-7778-bd3f-8e22ab6d02ca",
