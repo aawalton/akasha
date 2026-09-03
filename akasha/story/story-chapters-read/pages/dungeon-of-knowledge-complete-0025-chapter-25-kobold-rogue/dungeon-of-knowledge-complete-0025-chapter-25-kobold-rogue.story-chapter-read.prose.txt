@@ -1,0 +1,103 @@
+Everyone knows about the existence of dungeons. Adventurers risk their lives for fame and fortune to defeat the denizens that inhabit these strange places. Once you graduate from the rank of Novice, you, too, will be asked to delve into dungeons to protect our lands and people.
+
+But what are dungeons, really? Some say dungeons are manifestations of mana or acts of the gods. Some are convinced they are a class, a type of creature, an artifact, or a crystal. Others believe they are all connected to a single entity that grows or controls them.
+
+All of this is unfounded speculation.
+
+Dungeons exist to consume. They create an enormous amount of high-density mana as a byproduct of their normal function. This mana attracts monsters, which are then killed by the dungeon’s defenses and consumed for experience and growth – just like with your classes. However, dungeon magic respawns its defenses – sometimes in hours – and often allows the dungeon to learn to summon what it eats, resulting in new and more powerful defenders being added to its repertoire.
+
+Do not feed a dungeon. When you delve, do not leave anything behind – corpses, food, items, packs, trash – everything remaining will fuel the dungeon’s growth.
+
+What dungeons are most feared for is the phenomenon known in common parlance as a ‘dungeon-break’ and it is to this phenomenon that we will devote much of our discussion. When a dungeon ejects monsters, they often seem to go into a frenzy and then rampage around the countryside causing chaos and destruction. These monsters never return to the dungeon, perhaps indicating that the dungeon has discarded them.
+
+While the existence of sentient dungeons is a highly controversial topic, and the subject of endless debate, I can say for certain that I have encountered dungeons that were intelligent enough to eject non-frenzied monsters to loot nearby towns for corpses and material which were then brought back to feed the dungeon. Yes, non-frenzied – flying in the face of hundreds of years of established research. If you ever find yourselves in a dungeon that begins behaving unpredictably, get out, and get help immediately.
+
+Dungeon-breaks vary in severity from a few low-level monsters, which can be handled by a simple quest at the local Adventurers Guild, to much more dangerous events better classified as natural disasters. In 1193, for example, a previously undiscovered dungeon in the Elorthian Empire ejected a horde of several thousand Armored Drakes, all of which were of an abnormally high level. Quelling the break demanded the combined might of the entire Empire and the damage destroyed half the cities along its western coast. It took years to control the break and the Empire never recovered from this disaster, causing it to splinter into the modern kingdoms of today. It is this type of event – and many like it – that has resulted in most kingdoms adopting the pragmatic policy of wiping out everything in a dungeon as soon as it is discovered.
+
+There is one known way to trigger a dungeon-break intentionally. When the final boss is killed, all remaining live monsters will be ejected as a dungeon-break in the final death-throes of the dungeon. This is why Pathfinders must always clear the entire dungeon before killing the final boss.
+
+It goes without saying that intentionally provoking a dungeon-break is a capital crime in most civilized nations.
+
+- Lyeneru Silverleaf, Lecture to Novices at the Elven Pathfinders Guild, Ciradyl Chapter.
+
+Ali fled through the endless darkness, alone. The soles of her bare feet slapped painfully against the cold stone pavement. Her headlong flight sent her plunging deeper and deeper into the maze of twisted streets, past the endless parade of dark stone ruins. The icy fingers of dread clawed at her gut as the things stalking her in the shadows drew ever closer. Her skin crawled under the malevolent gaze of their glowing red eyes boring into her back. The soft chittering of the hunters whispered in her mind, and her legs suddenly froze, inexplicably rooted to the ground. She screamed – but no sound emerged, only the creeping shuffle from behind. Slowly she turned, her eyes widening at the sight of a wickedly gleaming dagger in the darkness.
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 7
+
+Ali woke with a start, covered in sweat and shaking. Frantically, she looked around for the Kobold rogues but found only Mato sitting by the door of the house they were camping in. He nodded kindly toward her.
+
+Just a dream.
+
+While it was a dream, she had been waking up to the same dream every day. Each time she was endlessly fleeing from rogues she couldn’t see or escape, only to wake as the final Ambush attack arrived. I’m depressed and terrified. She finally admitted it to herself. The last three days they had spent returning from the library had sent her spiraling downward into despair. Even Mato had been overly concerned. She knew it, but nothing seemed to help.
+
+The biggest problem was that her fear was not irrational. In three days, her domain withdrawal would kill her. That was, if she didn’t die from a rusty dagger or stray Fireball first. She glanced at her health total, already knowing what she would see.
+
+Health: 60/60 (-70% Domain Withdrawal)
+
+Wouldn’t even need a Fireball. Tripping over a cracked paving stone might just do it.
+
+“Shh,” Mato cautioned. In the distance, she heard the clicking of Kobold talons striking stone and the soft sounds of their strange chirping voices.
+
+Warrior – Kobold – level 10Warrior – Kobold – level 7Mage – Kobold – level 8
+
+The two warriors seemed to be having an argument, with the larger one gesturing emphatically at the air with his rusty sword, while the Fire Mage followed along a few paces behind, head bowed in contemplation, as if she were staring at her own tattered crimson robes.
+
+“Shall we attack?” Mato whispered.
+
+Ali considered. She would have to worry about hidden rogues no matter what. But it was rare to find patrols that were within their level range, and they were quickly running out of time. She nodded her agreement to Mato before the patrol got too close. She felt his body twisting in the darkness next to her as he prepared himself.
+
+With a roar, Mato charged the warriors, slamming into them with a loud crash. Ali sent all her wolves except one to attack the Fire Mage.
+
+“Guard me,” she instructed, crouching down behind the last wolf.
+
+Immediately, the Kobold mage began to summon her fire, illuminating the dark street with ominous red flickering light. Ali’s wolves spread out and began harrying her, darting in and out with snapping jaws and wicked snarls while Ali unleashed her Arcane Bolts on the mage, intent on killing her as fast as she could. The Fire Mages were by far the most dangerous Kobold they had encountered; left alone, it would make short work of them.
+
+With a loud detonation, the Fireball exploded among Ali’s wolves, tossing the charred and lifeless bodies of the two lowest-level wolves into a wall. Her two Alphas continued to press their attack despite having suffered grievous burn wounds. Standing close enough to take advantage of Mato’s aura, her stomach knotted with a queasy blend of hunger and disgust at the sudden stench of sulfur and overcooked meat.
+
+The Bear fought off to the side, his back up against a low, crumbling wall, actively engaged with the two Kobold Warriors, fortunately looking to be in okay shape so far. At least his healing magic is active. He still tended to forget it when his rage took over.
+
+Suddenly, the wolf guarding her growled, hackles raised, nose sniffing the air intently. Eyes widening, Ali scrambled backward. With a snarl, the wolf snapped at the air, but instead of the expected clack of teeth slamming together, there was a horrifying crunch, and warm crimson blood sprayed across Ali’s shirt. A midnight-black Kobold materialized before her with a wild screech of pain, its wrist clamped in the jaws of her Starving Wolf. Its free arm moved in a sudden blur, and Ali looked down to find a dagger embedded in her chest, still in the grasp of wicked Kobold claws.
+
+Oh…
+
+The Kobold rogue yanked the dagger free. Ali felt it slipping out from between her ribs, but to her astonishment, there was no blood. She gasped, touching her skin, but there was no sign of a wound to be found. Nor could she feel any pain.
+
+How… It was as if her wound had vanished, drawn off into the aether by some mysterious force.
+
+The wiry Kobold hissed in apparent disbelief, lunging with the dagger once more, but this time, Ali reacted. Her barrier popped into existence, blocking the dagger strike with a loud crack. She scrambled backward, raising a shaking hand to shoot. Golden Arcane Bolts weaved erratically through the air, but her focus was steadier than her hands by far, and they adjusted mid-flight, slamming into the rogue with a steady thump, thump, thump as it struggled to free itself from the grip of the wolf’s jaws. Ali backed away further and further as the rogue stabbed furiously at the neck and shoulders of the wolf hanging on to his mangled wrist with grim determination. A loud detonation sent a concussion wave through her body, but she ignored it and focused entirely on the rogue in front of her.
+
+With a final, vicious overhead strike, the rogue plunged its dagger through the skull of the wolf and turned on her. Ali yelped and hid behind her barrier as she directed more and more bolts to circle around, slamming into his black-scaled hide. He dodged back and forth, trying to pass her barrier, Ali frantically recreating it to block him each time. Obviously frustrated, the rogue slammed his daggers into her barrier repeatedly, and, to her horror, small cracks and chips began to mar the golden surface under the power of his assault. Releasing her Arcane Bolt spell, she shoved some of her rapidly dwindling mana into Grasping Roots. The rogue howled furiously as the thick, gnarled roots entangled his legs and tail, but Ali simply scrambled back further, tossing up a precautionary barrier, and began to empty her mana into a new flight of Arcane Bolts.
+
+See how you enjoy the taste of these!
+
+Suddenly, the rogue stumbled, and three more bolts slammed into him before he collapsed among the roots. Before Ali could register her relief, an intense ball of flame collided with her barrier and detonated. The barrier shattered and her body was lifted off the ground in a wave of heat and pressure that slammed her through the doorway of the house behind her, and into the wall on the opposite side. She crumpled to the ground, and in her daze, she realized she had forgotten about the most dangerous enemy of all. She had just enough awareness to throw up another barrier before a sizzling Firebolt slammed into it. That would have been my head. Still on the ground, Ali fixed her attention on the murderous Fire Mage. Pouring her remaining mana into her Arcane Bolts, she watched the graceful curves of radiance as they arced around her barrier and out of the doorway to hammer into the mage’s sternum, leaving small smoking holes in her crimson robes.
+
+The Kobold staggered backward with an aghast wheeze that seemed to ironically mimic the precipitous decline of Ali’s mana pool, before suddenly crumpling in a lifeless heap. Ali winced. Ouch. So, that’s what too little vitality looks like … guess the Alpha must have wounded it before?
+
+Ali sucked in a deep, ragged breath, coughed at the acrid stench in the air, dragged herself up, and limped over to the downed rogue. She deconstructed the corpse and all his gear to restore her mana while surveying the remains of the battlefield. Her Alpha Wolves were both reduced to smoking corpses, while Mato was engaged with the last remaining Kobold Warrior. He had several nasty wounds on his torso and especially on his left foreleg, but they were slowly closing under the influence of his still active healing magic. Ali sighed in relief, spending her newly restored mana to add her Arcane Bolts to the attack, while she stepped cautiously closer. Mato must have been close to finishing it already because it dropped quickly after a few strikes of her arcane magic.
+
+Mato quickly shifted back, stumbling a little from slowly closing wounds on his legs as he walked over to join her.
+
+“Did you… take that dagger wound?” she asked.
+
+“Yes,” he said quietly, slumping down to the ground to sit near her, breathing heavily.
+
+“Thanks.”
+
+He saved my life. Ali rubbed her chest where a phantom pain still lingered. It had been a strike of power and precision – an Ambush, she sensed – and she had been certain she was dead.
+
+Ali surveyed the remnants of the pitched battle strewn across the street, realizing that every single one of her wolves had been destroyed by the Fire Mage. In her panic over the rogue attack, she had made a grave mistake. Ignoring the mage could so easily have gotten them both killed. Her internal litany of rebuke at her failure trailed off as she noticed her Grimoire appear and flip itself open.
+
+Quickly, she checked the notifications, surprised that she hadn’t registered the building pressure of the completed imprint.
+
+Your group has defeated Dagger Rogue – Kobold – level 8.Your group has defeated Fire Mage – Kobold – level 8.Your group has defeated Warrior – Kobold – level 7-10 x2.Identify has reached level 7.Imprint: Kobold completed.Imprint: Crude Dagger completed. Imprint: Crude Leather Armor completed.
+
+Ali blinked once at the glowing notifications and then checked her Grimoire. In all her despair, she had forgotten the basics of how her Grimoire worked. She had been deconstructing Kobolds for days. Equipment too? That’s interesting. Now I can make rusty daggers and smelly Kobold armor.
+
+At once, she concentrated on her Grimoire, selecting the last empty chapter for the Kobold imprint.
+
+Mato got up to begin dragging the corpses of the Kobolds over for her to dispose of. He glanced at her curiously, clearly noticing her Grimoire was out and glowing.
+
+“I got something,” she explained, channeling her mana into the imprint. A couple of minutes later, a lean, black-scaled Kobold rogue suddenly appeared before her. All her dreams and terror around these Kobold rogues flooded her mind and she took an involuntary step backwards; in the corner of her eye, she saw Mato stiffen, clearly on the verge of rushing to protect her. But the creature simply bowed low and spoke quietly, his voice filled with familiar chirping sounds. Ali’s Sage of Learning drained a few points of her mana as it tried to help her understand the creature’s intent, but its speech remained unintelligible. At least she knew the Kobold was hers, and not a threat.
+
+Your reserved mana has increased by +60.Rogue – Kobold – level 8
