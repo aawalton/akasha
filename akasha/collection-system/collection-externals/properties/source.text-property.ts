@@ -1,6 +1,12 @@
 import type { TextProperty } from "@akasha/pages-system/text-property"
 
-export type Source = "kindle" | "musicbrainz" | "the-great-courses" | "the-wandering-inn" | "tmdb"
+export type Source =
+  | "kindle"
+  | "musicbrainz"
+  | "royal-road"
+  | "the-great-courses"
+  | "the-wandering-inn"
+  | "tmdb"
 
 export const source = {
   id: "01a063de-2c60-701e-9aed-2067429a2664",
@@ -17,7 +23,7 @@ export const source = {
     },
     {
       invariantKind: "departure",
-      statement: "A provider is named here before a page may state it.",
+      statement: "A provider is named here before a page may state that provider.",
     },
     {
       invariantKind: "gap",
