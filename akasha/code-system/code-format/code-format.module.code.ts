@@ -1,7 +1,10 @@
 import { join } from "node:path"
 import { bytes } from "@akasha/utils-run/running"
+import { classifyExtension, type FileKind } from "../file-kind/file-kind.module.code.ts"
 
 const BIOME_AT = "node_modules/.bin/biome"
+
+const FORMATS: ReadonlySet<FileKind> = new Set<FileKind>(["ts", "tsx", "js", "jsx", "css"])
 
 const CHECKS = "check"
 
@@ -21,6 +24,8 @@ function sameAs(one: Uint8Array, other: Uint8Array): boolean {
 
 export function formattedBody(root: string, path: string, body: Uint8Array): Formatted {
   const held: Formatted = { body, changed: false }
+  const kind = classifyExtension(path)
+  if (kind === null || !FORMATS.has(kind)) return held
   try {
     const done = bytes([join(root, BIOME_AT), CHECKS, REWRITES, `${OVER}${path}`], {
       cwd: root,

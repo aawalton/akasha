@@ -53,7 +53,19 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the formatter does not handle comes back unchanged.",
+      statement: "A body of a kind the formatter does not own comes back unformatted.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The formatter answers a heavy check mark as a square root sign.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The formatter answers a zero-width space as the replacement character.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The formatter makes those substitutions whatever kind the path names.",
     },
     {
       invariantKind: "departure",
@@ -84,16 +96,16 @@ export const codeFormat = {
       statement: "Nothing restates the config.",
     },
     {
-      invariantKind: "absence",
-      statement: "Which paths are worth formatting is not answered here.",
+      invariantKind: "departure",
+      statement: "Which kinds the formatter owns is answered here rather than by the formatter.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Those kinds are named here rather than read off the formatter's own config.",
     },
     {
       invariantKind: "absence",
       statement: "A caller hands in a path and a body.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "The formatter itself decides what the formatter touches.",
     },
   ],
 } as const satisfies Module
