@@ -1,4 +1,10 @@
-
+import {
+  decidePending,
+  type OutboundRecency,
+  PENDING_VERDICTS,
+  pendingAllowsStopAlone,
+} from "@akasha/seat-system/seat-pending"
+import { fail } from "./command.ts"
 import { decideRevivePlacement, REVIVE_PLACEMENTS } from "./decide-revive-placement.ts"
 import {
   decideSpawnName,
@@ -6,17 +12,10 @@ import {
   SPAWN_NAME_DECISIONS,
 } from "./decide-spawn-name.ts"
 import { bool, maybe, num, obj, oneOf, str } from "./narrow.ts"
-import { SEAT_PRESENCES } from "./seat-proc-key.ts"
-import {
-  decidePending,
-  PENDING_VERDICTS,
-  type OutboundRecency,
-  pendingAllowsStopAlone,
-} from "./pending-decide.ts"
 import { decideRelaunchName, RELAUNCH_NAME_OUTCOMES } from "./relaunch-name.ts"
+import { SEAT_PRESENCES } from "./seat-proc-key.ts"
 import { decideSkillTokenGuard, SKILL_TOKEN_GUARD_DECISIONS } from "./skill-token-guard.ts"
 import { decideSpawnGuard, SPAWN_GUARD_DECISIONS } from "./spawn-guard.ts"
-import { fail } from "./command.ts"
 
 function sub(
   value: unknown,
@@ -72,8 +71,7 @@ export const AGENT_RULE_DECISIONS: Readonly<
   skillTokenGuard: (value, path) =>
     sub(value, path, {
       decisions: () => SKILL_TOKEN_GUARD_DECISIONS,
-      decideSkillTokenGuard: (v, p) =>
-        decideSkillTokenGuard(str(obj(v, p).prompt, `${p}.prompt`)),
+      decideSkillTokenGuard: (v, p) => decideSkillTokenGuard(str(obj(v, p).prompt, `${p}.prompt`)),
     }),
 
   relaunchName: (value, path) =>
