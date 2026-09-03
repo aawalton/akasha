@@ -1,16 +1,16 @@
-export const summary = "Pretty-print the addon's most recent explain trace from TemperInventory.lua diagnostics"
+export const summary =
+  "Pretty-print the addon's most recent explain trace from TemperInventory.lua diagnostics"
 
-import type { CommandHelp } from "../../../ops/surface.ts"
-import { inputError } from "../../../lib/exit.ts"
-import { parseArgs } from "../../../lib/parse-args.ts"
+import { readLastExplain } from "@akasha/temper-commands/explain-replay-reading"
 import {
   formatExplainWalk,
   type JsonOutput,
   type RuleTraceRow,
 } from "@akasha/temper-explain/explain-walk"
-import { TEMPER_INVENTORY_LUA, savedVarsFile } from "../../../lib/temper-inventory-paths.ts"
-import { readLastExplain } from "../../../lib/temper-inventory/replay-explain.ts"
-
+import { inputError } from "../../../lib/exit.ts"
+import { parseArgs } from "../../../lib/parse-args.ts"
+import { savedVarsFile, TEMPER_INVENTORY_LUA } from "../../../lib/temper-inventory-paths.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

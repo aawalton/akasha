@@ -1,10 +1,10 @@
-export const summary = "Print the addon's rolling ring of equipment master-writ CRAFT traces (station context, resolved pattern, verify observations, and the outcome/bail of each craft execute()) from TemperInventory.lua diagnostics"
+export const summary =
+  "Print the addon's rolling ring of equipment master-writ CRAFT traces (station context, resolved pattern, verify observations, and the outcome/bail of each craft execute()) from TemperInventory.lua diagnostics"
 
-import type { CommandHelp } from "../../../ops/surface.ts"
+import { readMasterCraftTraces } from "@akasha/temper-commands/master-craft-trace-reading"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { readMasterCraftTraces } from "../../../lib/temper-inventory/master-craft-trace.ts"
-import { TEMPER_INVENTORY_LUA, savedVarsFile } from "../../../lib/temper-inventory-paths.ts"
-
+import { savedVarsFile, TEMPER_INVENTORY_LUA } from "../../../lib/temper-inventory-paths.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

@@ -1,10 +1,10 @@
-export const summary = "Print the addon's most recent banking-session ESO-script-profiler capture (per-source rollups, top closures by inclusive/self ms, total Lua ms vs GC ms) from TemperInventory.lua diagnostics"
+export const summary =
+  "Print the addon's most recent banking-session ESO-script-profiler capture (per-source rollups, top closures by inclusive/self ms, total Lua ms vs GC ms) from TemperInventory.lua diagnostics"
 
-import type { CommandHelp } from "../../../ops/surface.ts"
+import { readBankProfile } from "@akasha/temper-commands/bank-profile-reading"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { readBankProfile } from "../../../lib/temper-inventory/bank-profile.ts"
-import { TEMPER_INVENTORY_LUA, savedVarsFile } from "../../../lib/temper-inventory-paths.ts"
-
+import { savedVarsFile, TEMPER_INVENTORY_LUA } from "../../../lib/temper-inventory-paths.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

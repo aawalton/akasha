@@ -8,7 +8,7 @@ import {
   type JsonOutput,
   type RuleTraceRow,
 } from "@akasha/temper-explain/explain-walk"
-import { readLastExplain } from "@tools/lib/temper-inventory/replay-explain"
+import { readLastExplain } from "../explain-replay-reading/explain-replay-reading.module.code.ts"
 
 const INPUT = 1
 

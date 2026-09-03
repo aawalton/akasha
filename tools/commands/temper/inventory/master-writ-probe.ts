@@ -1,10 +1,10 @@
-export const summary = "Print the addon's most recent /tempermwprobe master-writ journal capture (every step + condition, raw API fields) from TemperInventory.lua diagnostics"
+export const summary =
+  "Print the addon's most recent /tempermwprobe master-writ journal capture (every step + condition, raw API fields) from TemperInventory.lua diagnostics"
 
-import type { CommandHelp } from "../../../ops/surface.ts"
+import { readMasterWritProbe } from "@akasha/temper-commands/master-writ-probe-reading"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { readMasterWritProbe } from "../../../lib/temper-inventory/master-writ-probe.ts"
-import { TEMPER_INVENTORY_LUA, savedVarsFile } from "../../../lib/temper-inventory-paths.ts"
-
+import { savedVarsFile, TEMPER_INVENTORY_LUA } from "../../../lib/temper-inventory-paths.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

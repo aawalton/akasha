@@ -3,7 +3,7 @@ import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
-import { readMasterCraftTraces } from "@tools/lib/temper-inventory/master-craft-trace"
+import { readMasterCraftTraces } from "../master-craft-trace-reading/master-craft-trace-reading.module.code.ts"
 
 const INPUT = 1
 

@@ -3,7 +3,7 @@ import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
-import { readBankTrace } from "@tools/lib/temper-inventory/bank-trace"
+import { readBankTrace } from "../bank-trace-reading/bank-trace-reading.module.code.ts"
 
 const INPUT = 1
 

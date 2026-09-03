@@ -1,8 +1,6 @@
-import { DataError } from "@akasha/errors-core/exit-code"
-import { savedVariablesRootSchema } from "@akasha/temper-saved-variables/account-wide"
 import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
-import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { z } from "zod"
+import { readInventoryDiagnostic } from "../inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
 
 const SIGNALS_SCHEMA = z
   .object({
@@ -152,43 +150,11 @@ const ACCOUNT_WIDE_SCHEMA = z
   })
   .passthrough()
 
-const ROOT_SCHEMA = savedVariablesRootSchema(ACCOUNT_WIDE_SCHEMA)
-
 export async function readLastExplain(inventoryPath: string): Promise<ExplainTrace> {
-  const file = Bun.file(inventoryPath)
-  if (!(await file.exists())) {
-    throw new DataError(`TemperInventory.lua: file not found at ${inventoryPath}`)
-  }
-  let content: string
-  try {
-    content = await file.text()
-  } catch (err) {
-    const reason = err instanceof Error ? err.message : String(err)
-    throw new DataError(`TemperInventory.lua: failed to read ${inventoryPath} — ${reason}`)
-  }
-
-  const rawRoot = parseLuaSavedVariablesFile(content, "TemperInventory_SavedVariables")
-  const root = ROOT_SCHEMA.parse(rawRoot)
-
-  const defaultTable = root.Default
-  if (!defaultTable) {
-    throw new DataError(`TemperInventory.lua at ${inventoryPath}: missing Default table`)
-  }
-
-  const accountKeys = Object.keys(defaultTable).filter((k) => k.startsWith("@"))
-  if (accountKeys.length === 0) {
-    throw new DataError(
-      `TemperInventory.lua at ${inventoryPath}: no @<account> entry under Default`
-    )
-  }
-
-  for (const key of accountKeys) {
-    const account = defaultTable[key]
-    const trace = account?.$AccountWide?.diagnostics?.lastExplain
-    if (trace !== undefined) return trace
-  }
-
-  throw new DataError(
-    `TemperInventory.lua at ${inventoryPath}: no diagnostics.lastExplain under any @<account>/$AccountWide (have you run the in-game explain keybind?)`
+  return await readInventoryDiagnostic(
+    inventoryPath,
+    ACCOUNT_WIDE_SCHEMA,
+    (wide) => wide.diagnostics?.lastExplain,
+    "no diagnostics.lastExplain (have you run the in-game explain keybind?)"
   )
 }

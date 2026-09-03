@@ -1,10 +1,10 @@
-export const summary = "Print the addon's most recent banking-session perf trace (per-phase ms brackets, move counts, net-worth recompute walk stats) from TemperInventory.lua diagnostics"
+export const summary =
+  "Print the addon's most recent banking-session perf trace (per-phase ms brackets, move counts, net-worth recompute walk stats) from TemperInventory.lua diagnostics"
 
-import type { CommandHelp } from "../../../ops/surface.ts"
+import { readBankTrace } from "@akasha/temper-commands/bank-trace-reading"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { readBankTrace } from "../../../lib/temper-inventory/bank-trace.ts"
-import { TEMPER_INVENTORY_LUA, savedVarsFile } from "../../../lib/temper-inventory-paths.ts"
-
+import { savedVarsFile, TEMPER_INVENTORY_LUA } from "../../../lib/temper-inventory-paths.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

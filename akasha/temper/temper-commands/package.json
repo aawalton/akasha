@@ -2,8 +2,17 @@
   "name": "@akasha/temper-commands",
   "private": true,
   "type": "module",
+  "exports": {
+    "./bank-profile-reading": "./bank-profile-reading/bank-profile-reading.module.code.ts",
+    "./bank-trace-reading": "./bank-trace-reading/bank-trace-reading.module.code.ts",
+    "./explain-replay-reading": "./explain-replay-reading/explain-replay-reading.module.code.ts",
+    "./inventory-diagnostics-reading": "./inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts",
+    "./master-craft-trace-reading": "./master-craft-trace-reading/master-craft-trace-reading.module.code.ts",
+    "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts"
+  },
   "dependencies": {
     "@akasha/command-system": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@akasha/temper-addon-build": "workspace:*",
     "@akasha/temper-addon-data": "workspace:*",
@@ -13,9 +22,11 @@
     "@akasha/temper-eso-typings": "workspace:*",
     "@akasha/temper-hud-components": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
+    "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/temper-upstream-data": "workspace:*",
     "@akasha/temper-watcher": "workspace:*",
     "@akasha/utils-run": "workspace:*",
-    "@tools/lib": "workspace:*"
+    "@tools/lib": "workspace:*",
+    "zod": "^4.3.6"
   }
 }

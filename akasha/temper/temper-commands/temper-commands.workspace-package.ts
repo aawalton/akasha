@@ -81,6 +81,12 @@ export const temperCommands = {
     "command/temper-watcher-status",
     "module/code-outside-akasha",
     "module/inventory-rule-calling",
+    "module/bank-profile-reading",
+    "module/bank-trace-reading",
+    "module/explain-replay-reading",
+    "module/inventory-diagnostics-reading",
+    "module/master-craft-trace-reading",
+    "module/master-writ-probe-reading",
   ],
   invariants: [
     {
