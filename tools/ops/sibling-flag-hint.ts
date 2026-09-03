@@ -1,6 +1,5 @@
-
+import { expandProseRoutes } from "@akasha/command-system/prose-routing"
 import type { Command } from "./surface.ts"
-import { expandProseRoutes } from "../lib/prose-route.ts"
 
 const MAX_NAMED_COMMANDS = 3
 
@@ -27,8 +26,7 @@ export async function readSiblingFlagSurfaces(
         for (const alias of flag.aliases ?? []) surfaceNames.push(alias)
       }
       surfaces.push({ path: cmd.path, surfaceNames })
-    } catch {
-    }
+    } catch {}
   }
   return surfaces
 }

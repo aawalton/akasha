@@ -37,6 +37,7 @@ export const commandSystem = {
     "module/patching",
     "module/drafting",
     "module/applying",
+    "module/prose-routing",
   ],
   invariants: [
     {

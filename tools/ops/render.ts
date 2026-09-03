@@ -1,11 +1,12 @@
-
-import type { Command, CommandHelp, HelpEnvVar, HelpExit, HelpPositional } from "./surface.ts"
+import { expandProseRoutes } from "@akasha/command-system/prose-routing"
 import { UNCLASSIFIED_EXIT_HELP } from "../lib/exit.ts"
-import { expandProseRoutes } from "../lib/prose-route.ts"
+import type { Command, CommandHelp, HelpEnvVar, HelpExit, HelpPositional } from "./surface.ts"
 
 export function renderListing(prefix: readonly string[], commands: readonly Command[]): string {
   const header =
-    prefix.length === 0 ? "Usage: ops <command> [flags]" : `Usage: ops ${prefix.join(" ")} <command> [flags]`
+    prefix.length === 0
+      ? "Usage: ops <command> [flags]"
+      : `Usage: ops ${prefix.join(" ")} <command> [flags]`
   const width = Math.max(...commands.map((c) => c.path.join(" ").length))
   const lines: string[] = [header, "", "Commands:"]
   for (const cmd of commands) {

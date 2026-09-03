@@ -12,6 +12,7 @@
     "./holding": "./holding/holding.module.code.ts",
     "./landing": "./landing/landing.module.code.ts",
     "./piping": "./piping/piping.module.code.ts",
+    "./prose-routing": "./prose-routing/prose-routing.module.code.ts",
     "./reading": "./reading/reading.module.code.ts",
     "./rooting": "./rooting/rooting.module.code.ts",
     "./scratching": "./scratching/scratching.module.code.ts",
@@ -21,11 +22,13 @@
   "dependencies": {
     "@akasha/agents": "workspace:*",
     "@akasha/analysis-complexity": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@akasha/inference-clients": "workspace:*",
     "@akasha/inference-runs": "workspace:*",
     "@akasha/wan": "workspace:*",
     "@akasha/zimage": "workspace:*",
     "@tools/lib": "workspace:*",
+    "@tools/ops": "workspace:*",
     "typescript": "5.9.3"
   }
 }

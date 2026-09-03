@@ -1,5 +1,5 @@
-import { inputError } from "./exit.ts"
-import type { FlagValueShape, HelpFlag } from "../ops/surface.ts"
+import { InputError } from "@akasha/errors-core/exit-code"
+import type { FlagValueShape, HelpFlag } from "@tools/ops/surface"
 
 export const PROSE_ROUTE_SUFFIX = "-file"
 
@@ -100,7 +100,7 @@ export function planProseRouteReads(
     const value = supplied.get(routeFlag)
     if (value === undefined || value === true) continue
     if (supplied.get(proseFlag) !== undefined)
-      throw inputError(`${proseFlag}: cannot be set both as ${proseFlag} and ${routeFlag}`)
+      throw new InputError(`${proseFlag}: cannot be set both as ${proseFlag} and ${routeFlag}`)
     reads.push({
       routeFlag,
       proseFlag,
