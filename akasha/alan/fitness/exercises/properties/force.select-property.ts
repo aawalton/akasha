@@ -1,7 +1,7 @@
 import type { SelectProperty } from "@akasha/pages-system/select-property"
 
 export const force = {
-  id: "01a0657b-1ad2-7cf8-a25e-a0fcc84ade65",
+  id: "01a0657e-2bbf-7e84-8d89-c9451bbec33a",
   pageTypeSlug: "select-property",
   slug: "force",
   propertySlug: "force",

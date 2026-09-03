@@ -1,7 +1,7 @@
 import type { SelectProperty } from "@akasha/pages-system/select-property"
 
 export const mechanic = {
-  id: "01a0657b-1ad2-7865-9244-68634645f334",
+  id: "01a0657e-2bbf-7358-a603-36a24d364e4e",
   pageTypeSlug: "select-property",
   slug: "mechanic",
   propertySlug: "mechanic",

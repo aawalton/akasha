@@ -3,7 +3,7 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type ExerciseExternalId = string
 
 export const exerciseExternalId = {
-  id: "01a0657b-1ad2-726a-b3a2-745a5e020626",
+  id: "01a0657e-2bbf-7990-a068-0de2e0ed328c",
   pageTypeSlug: "text-property",
   slug: "exercise-external-id",
   propertySlug: "exercise-external-id",

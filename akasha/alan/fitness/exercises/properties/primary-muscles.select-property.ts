@@ -1,7 +1,7 @@
 import type { SelectProperty } from "@akasha/pages-system/select-property"
 
 export const primaryMuscles = {
-  id: "01a0657b-1ad2-73b7-b592-0f37857e4d31",
+  id: "01a0657e-2bc0-76e6-9024-ceadf74cf40b",
   pageTypeSlug: "select-property",
   slug: "primary-muscles",
   propertySlug: "primary-muscles",

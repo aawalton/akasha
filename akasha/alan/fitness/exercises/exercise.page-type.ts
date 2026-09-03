@@ -59,7 +59,7 @@ export type Exercise = Page & {
 }
 
 export const exercise = {
-  id: "01a0657b-1ad1-72de-b90d-9caf7a145765",
+  id: "01a0657e-2bbf-7c1f-a05c-77af77f54cbf",
   pageTypeSlug: "page-type",
   slug: "exercise",
   definition: "one movement Alan can be programmed to perform",

@@ -1,7 +1,7 @@
 import type { SelectProperty } from "@akasha/pages-system/select-property"
 
 export const exerciseCategory = {
-  id: "01a0657b-1ad2-7c07-9614-2b442a9b20ad",
+  id: "01a0657e-2bbf-7a67-8e51-2974d08e36a8",
   pageTypeSlug: "select-property",
   slug: "exercise-category",
   propertySlug: "exercise-category",

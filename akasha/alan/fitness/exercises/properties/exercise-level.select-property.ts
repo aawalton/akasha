@@ -1,7 +1,7 @@
 import type { SelectProperty } from "@akasha/pages-system/select-property"
 
 export const exerciseLevel = {
-  id: "01a0657b-1ad2-79f9-b0e4-eef1c6391ed7",
+  id: "01a0657e-2bbf-7f68-a4a5-f41e8a919b89",
   pageTypeSlug: "select-property",
   slug: "exercise-level",
   propertySlug: "exercise-level",

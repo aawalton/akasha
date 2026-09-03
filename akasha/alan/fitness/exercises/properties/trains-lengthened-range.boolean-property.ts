@@ -3,7 +3,7 @@ import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
 export type TrainsLengthenedRange = boolean
 
 export const trainsLengthenedRange = {
-  id: "01a0657b-1ad2-7f1e-999d-3b48aa3035a9",
+  id: "01a0657e-2bc0-7519-942f-92178841ec74",
   pageTypeSlug: "boolean-property",
   slug: "trains-lengthened-range",
   propertySlug: "trains-lengthened-range",

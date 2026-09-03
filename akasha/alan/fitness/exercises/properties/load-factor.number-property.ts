@@ -3,7 +3,7 @@ import type { NumberProperty } from "@akasha/pages-system/number-property"
 export type LoadFactor = number
 
 export const loadFactor = {
-  id: "01a0657b-1ad2-7c7b-a824-89db4f814b6e",
+  id: "01a0657e-2bbf-7aaa-8416-91fe9f47a3a9",
   pageTypeSlug: "number-property",
   slug: "load-factor",
   propertySlug: "load-factor",

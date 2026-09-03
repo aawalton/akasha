@@ -1,7 +1,7 @@
 import type { SelectProperty } from "@akasha/pages-system/select-property"
 
 export const secondaryPattern = {
-  id: "01a0657b-1ad2-7346-8015-0d3854a4a268",
+  id: "01a0657e-2bc0-7adf-acea-1bc5294c147f",
   pageTypeSlug: "select-property",
   slug: "secondary-pattern",
   propertySlug: "secondary-pattern",

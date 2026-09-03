@@ -3,7 +3,7 @@ import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
 export type IsBallistic = boolean
 
 export const isBallistic = {
-  id: "01a0657b-1ad2-794d-8071-3e174f04d9ee",
+  id: "01a0657e-2bbf-788d-a2d8-02eafb826a19",
   pageTypeSlug: "boolean-property",
   slug: "is-ballistic",
   propertySlug: "is-ballistic",

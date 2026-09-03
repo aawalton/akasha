@@ -1,7 +1,7 @@
 import type { SelectProperty } from "@akasha/pages-system/select-property"
 
 export const equipment = {
-  id: "01a0657b-1ad2-7885-a009-6a7d5fec92a6",
+  id: "01a0657e-2bbf-71e9-85bc-e347194f49ca",
   pageTypeSlug: "select-property",
   slug: "equipment",
   propertySlug: "equipment",

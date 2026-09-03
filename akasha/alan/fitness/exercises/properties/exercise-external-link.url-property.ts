@@ -3,7 +3,7 @@ import type { UrlProperty } from "@akasha/pages-system/url-property"
 export type ExerciseExternalLink = string
 
 export const exerciseExternalLink = {
-  id: "01a0657b-1ad2-735b-b34f-72959c69d8a0",
+  id: "01a0657e-2bbf-7c94-837e-2188bc435439",
   pageTypeSlug: "url-property",
   slug: "exercise-external-link",
   propertySlug: "exercise-external-link",

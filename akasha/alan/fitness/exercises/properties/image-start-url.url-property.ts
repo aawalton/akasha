@@ -3,7 +3,7 @@ import type { UrlProperty } from "@akasha/pages-system/url-property"
 export type ImageStartUrl = string
 
 export const imageStartUrl = {
-  id: "01a0657b-1ad2-7b0a-8705-47ed0c3ba25f",
+  id: "01a0657e-2bbf-7c1e-a193-0af8283b27cf",
   pageTypeSlug: "url-property",
   slug: "image-start-url",
   propertySlug: "image-start-url",

@@ -1,7 +1,7 @@
 import type { SelectProperty } from "@akasha/pages-system/select-property"
 
 export const skillCost = {
-  id: "01a0657b-1ad2-7c4b-8883-f9e0e0c32a48",
+  id: "01a0657e-2bc0-70b8-9883-2ec311b92460",
   pageTypeSlug: "select-property",
   slug: "skill-cost",
   propertySlug: "skill-cost",
