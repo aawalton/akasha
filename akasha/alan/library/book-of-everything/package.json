@@ -8,9 +8,11 @@
     "./coverage-status": "./coverage-status/coverage-status.module.code.ts",
     "./node-profile": "./node-profile/node-profile.module.code.ts",
     "./random-leaf-select": "./random-leaf-select/random-leaf-select.module.code.ts",
-    "./status-tree": "./status-tree/status-tree.module.code.ts"
+    "./status-tree": "./status-tree/status-tree.module.code.ts",
+    "./topic-tree": "./topic-tree/topic-tree.module.code.ts"
   },
   "dependencies": {
+    "@akasha/indexes": "workspace:*",
     "@akasha/pages-system": "workspace:*"
   }
 }

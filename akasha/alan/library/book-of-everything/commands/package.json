@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/book-of-everything-commands",
+  "private": true,
+  "type": "module",
+  "exports": {},
+  "dependencies": {
+    "@akasha/book-of-everything": "workspace:*",
+    "@akasha/command-system": "workspace:*",
+    "@akasha/indexes": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@akasha/pages-system-service": "workspace:*"
+  }
+}

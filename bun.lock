@@ -179,7 +179,18 @@
     "akasha/alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
+        "@akasha/indexes": "workspace:*",
         "@akasha/pages-system": "workspace:*",
+      },
+    },
+    "akasha/alan/library/book-of-everything/commands": {
+      "name": "@akasha/book-of-everything-commands",
+      "dependencies": {
+        "@akasha/book-of-everything": "workspace:*",
+        "@akasha/command-system": "workspace:*",
+        "@akasha/indexes": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages-system-service": "workspace:*",
       },
     },
     "akasha/alan/library/reading": {
@@ -3023,6 +3034,8 @@
     "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:akasha/audhdalan/audhdalan-web"],
 
     "@akasha/book-of-everything": ["@akasha/book-of-everything@workspace:akasha/alan/library/book-of-everything"],
+
+    "@akasha/book-of-everything-commands": ["@akasha/book-of-everything-commands@workspace:akasha/alan/library/book-of-everything/commands"],
 
     "@akasha/browser-launch-env": ["@akasha/browser-launch-env@workspace:akasha/browser/launch-env"],
 

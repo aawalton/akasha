@@ -14,6 +14,7 @@ export const bookOfEverything = {
     "module/coverage-fold",
     "module/coverage-status",
     "module/status-tree",
+    "module/topic-tree",
     "module/random-leaf-select",
   ],
   invariants: [

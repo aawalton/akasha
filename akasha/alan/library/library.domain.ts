@@ -10,6 +10,7 @@ export const library = {
     "domain/watching",
     "workspace-package/reading",
     "workspace-package/book-of-everything",
+    "workspace-package/book-of-everything-commands",
     "domain/book-of-everything",
     "domain/learn-everything",
     "domain/litrpg-books",

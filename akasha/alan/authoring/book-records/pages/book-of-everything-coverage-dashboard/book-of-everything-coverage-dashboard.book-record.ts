@@ -7,6 +7,6 @@ export const bookOfEverythingCoverageDashboard = {
   title: "Book of Everything — Coverage Dashboard",
   definition: "how far the coverage of the Book of Everything got when last folded",
   bookSlug: "book-of-everything",
-  keptBy: "ops ali fold",
+  keptBy: "akasha ali-fold",
   writing: "md",
 } as const satisfies BookRecord
