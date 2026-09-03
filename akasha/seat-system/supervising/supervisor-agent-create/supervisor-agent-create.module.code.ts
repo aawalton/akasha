@@ -1,4 +1,4 @@
-import { refuseParentless } from "@tools/lib/refuse-parentless"
+import { refuseParentless } from "@akasha/seat-system/seat-parentless-refusal"
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 export type RowAgentLaunch = "spawned" | "opened"

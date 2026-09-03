@@ -1,4 +1,4 @@
-import type { SeatResumeDriver } from "@tools/lib/decide-seat-resume"
+import type { SeatResumeDriver } from "@akasha/seat-system/seat-resume-driver"
 
 export type { SeatResumeDriver }
 

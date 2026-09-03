@@ -1,7 +1,7 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { callSeatAt, type SeatCall, seatCallIn } from "@akasha/seat-system/supervisor-seat-defaults"
 import { SEAT_COMMAND_REL } from "@akasha/seat-system/terminal-seat-stating"
-import { ASSIGNMENTS, ATTRIBUTES } from "./attributes.ts"
+import { ASSIGNMENTS, ATTRIBUTES } from "@tools/lib/attributes"
 
 export interface StatedIdentity {
   readonly persona?: string
@@ -9,6 +9,7 @@ export interface StatedIdentity {
   readonly role?: string
 }
 
+/** The call that checks what was stated, or null where nothing was stated to check. */
 export function resolveCall(stated: StatedIdentity): SeatCall | null {
   const held = stated as Readonly<Record<string, unknown>>
   const slots: Record<string, string> = {}
@@ -20,6 +21,7 @@ export function resolveCall(stated: StatedIdentity): SeatCall | null {
   return { ...slots, resolve: true }
 }
 
+/** The refusal a stated identity earns, or null where it checks out or states nothing. */
 export async function resolveStatedIdentity(stated: StatedIdentity): Promise<string | null> {
   const call = resolveCall(stated)
   if (call === null) return null

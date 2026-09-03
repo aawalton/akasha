@@ -1,4 +1,3 @@
-
 export type SeatResumeDriver =
   | "argv-prompt"
   | "inbound-message"
