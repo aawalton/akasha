@@ -198,3 +198,6 @@ The human looked at the bear.
 
 The bear looked at the human.
 
+“This is a very strange day,” both of them said at the same time.
+
+And then they kept fighting.

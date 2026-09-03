@@ -150,3 +150,400 @@ And so, Erick extended his glowing white aura (which was also different, because
 
 Some Mana Altering made up the difference between Benevolence and Healing.
 
+With a bit more aura control and shaping, Erick flickered more actual Elemental Healing into the droplet in the center of the chamber, to begin to form the actual spell. Whatever white glows remained in the air began to filter out of the collection point, while more cerulean blue power filtered inward. Four points of mana became the basis for Elemental Healing to inhabit the body. One remaining mana was to time the release of Elemental Healing properly, and to ensure the other four mana did their job properly. The five point spell was not a large spell, but that’s all [Rejuvenation] needed to be, because it wasn’t focused on healing anything in particular. It was just a buffing spell, basically, and in a very specific way where true intent or specific actions were not needed, or wanted.
+
+Then Erick blasted the collection point with intent, crystallizing mana into magic.
+
+A tiny cerulean dot of a metamond coalesced into the air, taking a great deal of the blue glows of the chamber with it, and implying a whole lot of stuff with that simple action. That exact same thing had happened all the other times Erick had made a metamond; that dimming of a specific element, almost like it had drained out of the chamber. Which it had.
+
+First, Erick plucked the new metamond out of the air and used his ring of [Identify] on it.
+
+Rejuvenation, instant, touch, 5 mana per cast
+
+Grant a touched target increased healing, condensing a week of recuperation to 10 minutes.
+
+So that was good. Exactly what he wanted to make. The little cerulean dot glowed, while the interior was filled with fractals like a pane of artistically-shattered glass. It looked normal; just like the other ones Erick had made before. Except now, Erick could really try to understand what had happened in this creation.
+
+There had obviously been a mana drain in the air, which would account for the lessening of Elemental Healing glows in the air. This could only mean that, even though Erick had made a 5 point spell, the crystallization of that spell had taken a lot more than 5 mana. How much more, though? According to what Erick remembered of his previous experiments, and this one here, it had taken…
+
+“Maybe 400 mana? 425, to crystallize?”
+
+Erick flicked his aura at his bracelet and began to pump more Benevolence mana into the air, to restore what was lost, because it wasn’t just the Elemental Healing that had been taken. The Benevolence in the air had decreased, too.
+
+Erick tried an experiment with his next [Rejuvenation].
+
+He barely put any effort into that creation at all, simply crushing Elemental Healing together to see what popped out.
+
+Harmful Healing, instant, touch, 47 mana per cast
+
+Cause unknown healing effects in the target, with a greatly increased chance of causing cancers and other malignancies. NOTICE: Using this spell on yourself or any other friendly target will heal them once, and use up one of their Saves. If the target has no more Saves, then this spell will allow the target 2 minutes of life, and then they will be forcibly resurrected on the entrance floor, where they will be expelled from the dungeon to receive proper treatment.
+
+Erick smiled a little bit at the brilliant little gem in his hands. That was a pretty insidious little spell, and it looked no different than [Rejuvenation]. Higher mana cost, much different effect, and proof that Erick needed to actually try to make Healing Magic down here; the Script wasn’t here to smooth over bad outcomes, and, his Wizardry didn’t smooth over bad outcomes, either.
+
+It was time to see exactly where the line lay between good, useful mana crystals, and bad, harmful mana crystals, and what sort of oddities Erick could make on that spectrum.
+
+- - - -
+
+Erick calculated a few different things that told him almost nothing at all, but which fell in line with what was generally known with mana crystals.
+
+It took about 500 mana to make a basic meta-diamond, with the cheaper final-cost ones costing less atmospheric mana to create them. [Rejuvenation] took about 400 mana from the chamber, and only cost 5 mana to activate. [Harmful Healing] took 650 mana from the air, and cost anywhere from 30 to 65 mana to activate. By really focusing on actually making [Harmful Healing], and not some other Healing spell, Erick was able to make a [Harmful Healing] that only took 30 mana to activate, and which drained 500-ish mana from the air.
+
+So that told him that directed thoughts created spells with less mana costs and mana-from-the-air, which was pretty much his experience with mana anyway. It was good to know that some baseline understandings remained the same.
+
+But every single cerulean gem he produced ended up being the same size.
+
+Erick started to wonder why that was. Shouldn’t a spell that cost 650 mana from the air be bigger than one that cost 450? The mana density of crystals was a variable thing, of course, so that accounted for some of it, but not all. The fractals inside [Rejuvenation] were a lot less intense than the fractals inside [Harmful Healing], though.
+
+And normal mana crystals did not have fractals… Or at least that’s how it was according to the books Erick had gotten from Kirginatharp, and from other sources.
+
+“So obviously there’s some sort of crushing going on,” Erick mused to himself, as he held up one [Rejuvenation], and one of his larger [Harmful Healings]. “Some sort of… inner infinity? Instead of expanding outward, the gems expand their magic inward? Well that sort of makes sense.”
+
+All metamonds were round things, and a little squishy when they were inside a mana chamber. Outside of a mana chamber they were perfectly spherical and hard as, well, diamonds.
+
+All the shapes for mana crystals inside the books were of normal crystal shapes, and all normal mana crystals expanded outward as they grew. But meta-diamonds expanded inward… Somewhat.
+
+Erick’s staff, with its fist-sized iridescent white metamond, was a clear outlier, but that spellwork was also the largest metamond spellwork Erick had done so far. Staring into the interior of that gem was like staring into a kaleidoscope funhouse without end.
+
+So now Erick needed to do some tests with making bigger and bigger spells. Just cramming everything he could cram into—
+
+Well. No.
+
+Actually. Erick needed to do something actually constructive. And so Erick crushed all of his [Harmful Healing]s and took half an hour to change them all into [Rejuvenation]s.
+
+That satisfied his bargain with the Iron Bandits! Now, moving on…
+
+Erick decided to make Bolts of every possible flavor, and begin mushing them together just to see what happened.
+
+- - - -
+
+[Fire Bolt] with an [Air Bolt] became [Plasma Bolt], which was a rather normal occurrence. All three spells had rather normal-looking [Identify] results, too, because Erick didn’t spend more than a single moment making any of them, and so they were simple.
+
+Fire Bolt, instant, long range, 5 mana
+
+A bolt of fire unerringly strikes a target, igniting them for fire damage.
+
+Air Bolt, instant, long range, 5 mana
+
+A semi-invisible bolt of air unerringly strikes a target, and might unbalance them.
+
+Plasma Bolt, instant, long range, 10 mana
+
+A bolt of plasma unerringly strikes a target, enveloping the target in highly damaging plasma for a short time.
+
+One gem of glowing red fractals, the size of a thumbnail. One gem filled with vaguely magenta fractures. Together, they became one gem filled with bright pink fractures, which wasn’t any bigger than the original two gems. So there was definitely some condensing happening there.
+
+Erick broke that [Plasma Bolt] and the room filled with the thousand-ish mana of the original two Bolts. With that much saturation, re-condensation happened almost instantly…
+
+Erick could have stopped that recombination. But he decided not to. No aura touched the liquid mana. No intent reached the pink glows—
+
+The gem coalesced again, all on its own. It was a little larger than it had been before, so something was happening there, too. Odd. Erick [Identify]ed it.
+
+Uncontained Plasma, instant, touch, 50 mana
+
+Release a burst of plasma.
+
+“… I’m pretty sure that one would literally blow up in my face if I tried to use it.”
+
+Erick crushed the gem, releasing the mana back into the air.
+
+This time, he put intent into the working, to make a Bolt exactly as he had made through the combination of the Fire and Air magics.
+
+A pale pink dot once again coalesced out of the air. It was the same size as the previous [Plasma Bolt] had been —small as a thumbnail— but did it [Identify] the same?
+
+Yes, it did.
+
+Plasma Bolt, instant, long range, 10 mana
+
+A bolt of plasma unerringly strikes a target, enveloping the target in highly damaging plasma for a short time.
+
+Erick frowned in concentration. “I think I need to take pictures, or something, to compare the interior fractals… Could I make that here?”
+
+Making such a spell under the Script would be rather difficult, but Erick knew how he would do it. There’d be Particle Magic involved, for sure. Some light to scan, and then some polymer-drawing/drawing from the CO2 in the air, to lay down a copy of an image onto a sheet of plastic paper that the spell would create at that moment…
+
+Or maybe, Erick could take ready-made paper, some light or maybe Elemental Radiance, and scorch an image into that paper—
+
+Ah.
+
+Erick had actually planned to make a one-way-mirror [Force Wall], hadn’t he? So he could stop people from spying on his property.
+
+Ah. Let’s do that, then…
+
+A few hours later, and after deciding that he didn’t want to make a simple mirror and that he wanted to make something much more useful, Erick had to stop with his experiments because he was getting lightheaded, and he rapidly realized that the mana chamber didn’t have any vents for air.
+
+Erick burst out of the chamber, breathed clearly for the first time in an hour, laughed a little, and then went back in to collect the few hundred meta-diamonds he had made. All of those metamonds went into the front room and Erick went back into the mana chamber.
+
+He’d return to the property-illusion spellwork when he felt like it, but otherwise, there were so many other things that were much more fun right now.
+
+- - - -
+
+A knocking broke Erick from his focus.
+
+And then he realized that anyone knocking on his door was at his door, which was inside his property, and no one should be able to do that? According to Kinder?
+
+Erick was partway through condensing the next metamond but he didn’t have to finish, so he opened the door to the mana chamber and all the mana in the room flooded out into the 50% density of the house—
+
+Another knocking.
+
+… Not at the door, though. More like, in the air?
+
+Erick went to the front door and opened it up.
+
+A group of people stood at the edge of his property. They had wagons filled with crates and boxes of all sorts. Rebecca was there with them, standing in front, shining in her silver fullplate. She saw Erick at the door, and then she smiled, and knocked on the empty air in front of her, at Erick’s property line. The air vibrated at her gauntleted touch, sounding much like the knocking at a front door.
+
+Ah. So the property line was rather solid, then. Good to know.
+
+“Hello again!” Rebecca said, “We’re here for the first exchange of hopefully many.”
+
+“One minute!” Erick went back into the house and made sure he was presentable, and that he had on the right metamonds to hide himself from mana sense, which he did. And then he went back outside, rushing to the gate, saying, “Welcome, welcome. You’re all invited in.”
+
+Rebecca smiled and stepped through the empty air, onto the property line. “I am eager to see what you’ve made, and also to set up all the stuff we spoke about. We’ve also got a full setup of blankets, pillows, some extra furniture, and otherwise. And a bunch of metiron to sell to you, and money to exchange for [Rejuvenation]s.”
+
+“That all sounds really great! Thank you.” Erick waved them forward. “Come on in.”
+
+Rebecca moved forward and her people followed as she asked, “Where would you like your workshop set up? It cannot be outside. We don’t get rain all that often, but it does happen rather regularly.”
+
+Erick led the way into his house. “This way.” He moved toward the mage tower, saying, “I was wondering if you had the capability to retrofit the mage tower into a full workshop, with all the stuff I found in Marii’s tower on the second floor. I liked that setup. You will have to knock out the second floor.”
+
+A pile of a good 500 gems sat on the dining table, there in the middle of the front room. Erick gave them no mind as he passed them by, but Rebecca’s eyes went wide as she took them all in. And then she moved right along.
+
+“Oh sure.” Rebecca followed Erick into the mage tower. She looked up at the wooden floor overhead, and said, “We can open the tower up. Shaping spells are another rare drop, but we have all of those available and usable by our people, and they’re easier to make than [Rejuvenation]s. Speaking of which…?”
+
+Erick smirked. He went back to where the gems sat in half-organized piles on the dining room table, like precious stones being divided after a heist. There was probably some better way to organize them, but Erick didn’t really care to do that right now. He knew which were which, anyway.
+
+Erick gestured to a pile of cerulean spheres, saying, “There’s 20 of them there. I would have made more, but I didn’t care to. I would be fine with making actual bracelets, too, and I will be doing that as soon as my workshop is properly created.”
+
+Rebecca stared at the gems, her grin turning a tiny bit surprised and overwhelmed, the corner of her mouth rising to show a rather long canine. “Ah… This is rather amazing— May I [Identify] one?”
+
+“Oh sure. Go ahead.”
+
+Rebecca stepped forward and plucked a cerulean gem from the pile. The words for [Rejuvenation] appeared in the air, exactly as Erick promised. Rebecca chuckled. “We need to get you some more resources!”
+
+“I would like to speak to others who have had success with metamond creation. You know they’re mana crystals, right? These things cannot be made on Veird, but they can be made here.”
+
+Rebecca’s eyes glinted as her gaze fixed upon Erick. “Not many people know that… But of course you do.”
+
+“The mana crystals here are different from how they usually are, and I want to find out how, exactly.”
+
+Rebecca looked at Erick for a moment longer, then said, “I would speak of this some other time, in a more private setting. For now, would you like to get your workshop installed?”
+
+“Of course!”
+
+Rebecca motioned for the first of the workers to come into the house, while she asked Erick about money for the metamonds, and Erick agreed to what he had already stated; 150,000 gold apiece. An actual Bracelet of [Self Rejuvenation] would work better than a wand of the same, and Erick offered to make and sell those for 250,000, but while the Iron Bandits’ coffers were deep, they weren’t that deep. Or at least they weren’t deep enough for Rebecca to approve such a sale right now. Other people might take him up on the offer, though.
+
+To pay him for 20 [Rejuvenation]s took little more than Rebecca saying, “Payment of 150,000 gold from the Iron Bandits to Ashes Woodfield, per [Rejuvenation] metamond, to be carried out now.”
+
+The 20 metamonds vanished from the table, and some ghostly writing appeared in the air in front of Erick, indicating the transfer. The gentle rain of coins sounded out from the storage room, and Erick smiled.
+
+“I didn’t know it would do that?” Erick stepped over to the storage room. “… Ah? I guess the transfer is mostly in a banking sort of way? I don’t see millions of gold on my floor, or in the chests.”
+
+Rebecca stayed outside of the storage room, as she said, “Tell the dungeon to display the current gold total.”
+
+“… Dungeon: display current gold finances.”
+
+Balance: 3,000,000 G
+
+“Well alright then.”
+
+The words began to fade almost as fast as they appeared.
+
+Rebecca said, “We don’t carry gold around too much, except to bring it in to deposit into storage and to use in some of the places around town. For the smaller amounts. Some people take their gold out to Veird, but Greendale has a pretty aggressive tax rate and they’re rather pushy about it, too.”
+
+Erick smiled as he said, “Feel free to look over the other gems if you want, or I can tell you if I might have something you want.”
+
+“We have store space in the main square if you wish to set up a store. We’ll sell everything you make for you, for 5% of the final cost. Or, if we purchase what you make, then we’ll pay you the full cost.” Rebecca said, “But honestly, except for the [Rejuvenation]s, most people can make their own necessary magics, or they find them as special rewards in the lower levels of the dungeons. Commissions for specialty items are probably where you would be making your most money, and unless my information network is malfunctioning, you told everyone that you desired to do specialty commissions yesterday.”
+
+“… Yesterday?” Erick looked out the window. It was still bright as noon out there. “… Has it been a full day already?”
+
+Rebecca smiled gently. “It’s been about 13 hours since last I saw you, Ashes, and the sun doesn’t set down here all that often.”
+
+“I need to get home.” Wood groaned and snapped in the other room, echoing throughout the house as stone flowed like rushing sand. The workers wouldn’t be done for another hour, at least. “... But I can wait a little while longer.”
+
+Rebecca said, “They’ll work quickly, but not instantaneously. Besides, there are still some small matters to discuss… Unless it is vitally important that you get back right now?”
+
+“I can wait a little while longer.”
+
+A nod. “I’ll keep it short, then. If you wish to have us act as a front for your commissions, then we can do that, too. We’ll take 5% of the commission fee from that, but other than that, we can handle all of the customer-facing aspects of that interaction.”
+
+“… Well now. There’s a nice idea. Sure. I’ll agree to you all sorting out the commissions for me, but I’ll decide what I want to make, and I’ll have the clients meet with me or the other way around, on my own time schedule.”
+
+“Agreed. Now about the specialty items that the Iron Bandits want made, if you’re available for that?”
+
+“Sure?”
+
+“Bracelets of [Hidden Wind]. All the Health metamonds you can make. Reflective shields. And the largest, best [Blood Corruption] weapon you can make, which will allow us to infect a target and then run away, letting the monster die on its own without us needing to put ourselves in close range danger.”
+
+“Ah… Hm.” Erick went to the table of metamonds, and plucked out a few pastel pink and black and white metamonds. “[Hidden Wind], of varying strengths. Health is easy enough to make. Reflections are fine; I can make those. The [Blood Corruption]… I’ll make one, and you can report back to me how it worked in the field before I make more. I’m not comfortable making weaponry, but I understand the need for it. I would much rather make buffing or defensive magic.” Erick [Identify]ed his belt. “Like this.”
+
+Belt of Many Functions, attuned artifact, 50/50, 50/50, 50/50
+
+Blessed Memory, self, perfect buff, 1 mana per minute
+
+Your mind is a palace.
+
+Eternal Benediction, self, perfect buff, 1 mana per minute
+
+Your body is a fortress.
+
+Benediction of the Unseen, self, perfect buff, 1 mana per minute
+
+Mana does not record your presence unless you desire it so.
+
+Mana Density Multiplier: 75%
+
+Rebecca read the air and her eyes went wide. “… I feel we might need to reevaulate the level of requests we can ask of you…” She went quiet for a moment, then reoriented, saying, “Forget the [Blood Corruption]. Let us discuss buffing magic…”
+
+Half an hour later, Rebecca’s people (who were now Erick’s people, in a way) had placed groceries in the pantry, [Eternal Preservation Ward]s all over the kitchen, a bunch of new furniture here and there, and also, of course, they had remade the mage tower into a proper workshop. Erick was out one second floor library, but now he had metalworking furnaces, an anvil, hammers of all sorts, chain and pulley warehouse-crate movement systems attached to the tracks high up, and a much, much less chance of anything burning up, since the entire interior of the mage tower was now layered with stone.
+
+It looked professional.
+
+And, according to what Erick could see, there were no spying magics nestled into any corners here or there, though he would certainly be going over all of that with a fine-tooth look later. He bid Rebecca and the rest of the Iron Bandits farewell and escorted them off the property.
+
+Once Erick was alone again, he said, “Dungeon: Remove all of my property permissions granted to anyone else.”
+
+Done.
+
+And that was that.
+
+Erick had a few sheets of paper with some buffing magic requests from the Iron Bandits to fulfill next time he was back, but for now, he exited the dungeon.
+
+As Erick stepped out of the dungeon keep, all of the inquisitors were gone and the sky was full of stars. Ophiel tackled him lovingly, and Erick sent warm affection Ophiel’s way, and soon they were off, into the sky, headed back home.
+
+- - - -
+
+Erick spent the morning making pancakes for everyone. Kiri would have taken her pancakes to-go, because though she had barely gotten any sleep, she needed to get back to work, for people depended on her, and she wanted to be depended on. She was the Gatemaster, now, even though House Benevolence still hadn’t announced that to the world, and likely wouldn’t until after Yggdrasil’s resealing went well.
+
+But Erick couldn’t see Kiri like that; halfway run down. He offered her, “Would you like Ophiel to give you some [Hasted Shelter]s every now and then?”
+
+He had offered her this option once before. She had said ‘no’, then.
+
+But this time Kiri froze, as the pure desire to say ‘yes’ almost caused her to say yes. She knew ‘yes’ was the easy answer, though, and not one that she should actually rely upon. “… Yes, for a good night’s sleep. But then no. Phagar still doesn’t want me using Time Magic.”
+
+“You can rely on me more than you do.”
+
+Kiri smiled softly. “I know. Thank you, anyway.” And then she stressed, “So about that Shelter for the next 16 hours…”
+
+Erick chuckled.
+
+Soon enough, Kiri went back to bed, for a truly good sleep.
+
+After Kiri got back to work, which was only 20 minutes after Erick cast the Shelter, Erick decided to sleep, too. His bed was comfortable, and Ophiel twittered in a little bit of joy upon the headboard as Erick fell asleep. He was not in a [Hasted Shelter], and that was kinda great.
+
+- - - -
+
+Erick returned to his home in the dungeon with a current goal and some secondary goals that would come later. Eventually he’d begin making some [Rejuvenation]s and Bracelets of [Self Rejuvenation]s to sell in town, but before that, he wanted to obscure his property with illusion magics.
+
+But there was a problem.
+
+“I can make a wand of illusion, that makes a wall that I have to recast every once in a while, or I can make a wall of permanent illusions that I never have to cast again, or I can make a mana crystal that automatically casts the illusion wall for me… Which might be possible.”
+
+Erick looked around his workshop. It looked great; it was very ready for the creation of whatever Erick wanted to create. Rebecca had even left behind some metiron ingots for Erick to make whatever he wanted to make out of them.
+
+“… The wand is too easy,” Erick decided.
+
+He was going to go for the impossible magic; the metiron and metamond that made its own spellwork, automatically. You couldn’t do that on Veird. But according to what Erick had read of mana crystals…
+
+“It should be doable here… Maybe.”
+
+Erick got to work. First, he made some basic metamonds that would serve as tests. He ran into a problem on his very first creation.
+
+Force Wall, instant, medium range, 50 MP
+
+Create a stable, stationary wall of hardened mana. Lasts a long while.
+
+Standing in the mana chamber, holding the metamond, Erick read the description floating in the air again, then said, “You were supposed to be colored and fading through the spectrum to visually show your remaining stability.”
+
+… Maybe he needed to plug it into a wand to see if he had made it right. [Identify] and even Script boxes didn’t always tell the whole story.
+
+So Erick exited the mana chamber and went to the forge. Making a wand was easy enough, but making a single one would still take Erick a good hour of various prep work and the final execution, while making ten at once would only add another half hour to his workload.
+
+So Erick made ten wands.
+
+After cooling down a wand, Erick slotted the [Force Wall] into the wand, and [Identify]ed it.
+
+Wand of [Force Wall], attuned artifact, 100/100
+
+Create a stable, stationary wall of hardened mana, directly in front of you. Lasts a long while. 50 mana per cast.
+
+A test outside the house produced a flat wall of transparent white Force, positioned perfectly up and down, and perpendicular to where Erick pointed. This was different from how it was in the Script. With this metiron, there was no ability to shift the angle of the wall, or to shift the shape; what Erick put into the wand was what he got.
+
+Which was perhaps part of the problem.
+
+Erick looked at the octahedral wand, with its white gem at the base, and muttered, “I should have primed you with coloring first… And a whole bunch of other stuff.”
+
+Erick discovered another nuance of metirons that he had known, but which hadn’t really registered until that moment, when he needed to dismiss the [Force Wall] to take the direct route to his front door.
+
+And the Wall didn’t cancel.
+
+“… No canceling of set-and-forget spells in metirons, eh?” Erick frowned. He looked down at his wand, and at the metamond he had made and set into the hilt. He narrowed his eyes at that glowing whiteness, and mentally commanded it to cancel; for the metamond itself to unravel.
+
+Nothing happened.
+
+He tried again.
+
+Nothing.
+
+“… I guess… The mana crystal is out of my power once I make it? Well… That’s certainly a difference.”
+
+Erick wasn’t sure how he felt about that.
+
+Erick walked around the Wall, and went back to the workshop. An hour later, he came out with another wand in his hands. This one was also octahedral, but its gem was twice as large as the original had been, and it was much more prismatic than white.
+
+Wand of the [Prismatic Wall], attuned artifact, 500/500
+
+Create a stable, stationary wall of hardened mana, directly in front of you. The wall registers damage done to sections through progressive color fading, starting at white, then fading through blue to red. Lasts a very long while. 100 mana per cast.
+
+The first white walls that Erick had put up were still there when he cast his new spellwork upon the front yard. As magic took hold in the air before Erick, it took the shape of hexagons, like a hundred small shields interlocking, spreading out from left to right in a slightly curved shield 5 meters in every direction.
+
+Erick evaluated what he was seeing. Among the first things he noticed was that this Force Magic didn’t have any mana density modifier, so it would work well in 0% mana density air. So that was good.
+
+And then Erick went up and tapped one of the hexagons. It remained white.
+
+He punched the hexagon.
+
+It rapidly flashed from white to… Only barely purple. Erick smiled at that. And then he punched it seven more times. When he was done, that section of the wall was translucent blue, or roughly 10% weaker than it had been when it was first cast, if Erick had made that magic correctly, anyway. He felt he had.
+
+His punches weren’t worth much down here in the Glittering Depths, where his Stats and innate power as a dragon were quite lessened. But he still wore his Belt of Many Functions, and that still had his body enhancement magic going strong, so he was punching… Quite a bit above his weight class. Erick wasn’t sure how much damage he could do with a punch, but it was enough to put a dent in a very, very well made [Force Wall].
+
+And now, he had a [Force Wall] that should fade through colors as it lost spellframe cohesion. It was the perfect tool to test the veracity of the theory that mana crystals could automagically cast their own spellwork, because if the hexagons stayed white, then that meant that the spellwork was fully strong, all the time.
+
+The metirons and metamonds were already capable of constantly casting a spell when it affected a body, but ‘the body’ was a very solid magically-identifiable baseline, which gave off mana all the time, so that made sense. A designated spot of air, or something as ephemeral as ‘a property line’ was not easily understood by magic at all.
+
+… Now Erick just needed to figure out how to make ‘a property line’ magically recognizable.
+
+… The dungeon was doing it, after all.
+
+And look! The dungeon was also creating a nice demarcation line at his property line, with a mana flow differential.
+
+For his first test, Erick went to the wall of his property and set the wand atop the tumbled stone, half inside his property, half outside. With the mana density in the property at 50% and the mana density outside at 100%, this might work.
+
+Maybe, the wand would cast magic on its own if Erick left it there long enough…
+
+It was a long shot! But it might work that way!
+
+Erick watched for a few minutes, both with his eyes, and with his mana sense.
+
+And nothing happened.
+
+Maybe it needed something more to get some automatic magic happening. How about just a gem? No metiron? Erick could place a single gem on the property wall, too. So Erick went back into the house and made himself another [Prismatic Wall] metamond.
+
+With a new 6 centimeter-wide prismatic marble in his hand, Erick went to check on the wand he had left sticking halfway off of his property. And he paused.
+
+“Ah. Well. I should have expected that, in retrospect.”
+
+The wand was gone. Someone had stolen it.
+
+Erick just laughed. And then he laughed more as he went back to the house and tried to think up some different source of mana flowing possibilities.
+
+“How about a series of wands, each pointing at each other in something of a circle…” Erick hummed as he sketched an idea on paper. “It can be that rune for [Renew], with the [Prismatic Wall] gem at the top.”
+
+… Might work.
+
+A few hours later, Erick had a prototype. It flashed lights, it poured mana in a contained circle, and it leaked everywhere, while the suspended, untouched [Prismatic Wall] gem hung in the gap of the [Renew] ring, and did nothing at all.
+
+“So that’s not working.”
+
+… Could be a problem with mana containment, or with efficiency, or Erick could be completely wrong about how this worked. He could at least work on containment better.
+
+“How about something to gather ambient mana and flow that ambient mana…”
+
+Well that required Erick to put a Domain into a metamond, which was yet another difficulty...

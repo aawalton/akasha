@@ -174,3 +174,546 @@ Erick watched her go for a moment, then he went off to the mana chamber room.
 
 The mana chamber room held three different cubes like the ones Erick saw back at the arcanaeum, on floor 1, each of them three meters wide on all sides. A few tables sat opposite the mana chambers, ready with tools of all sorts and to hold whatever projects anyone might be working on. This was clearly a space where many different people could all work on their own projects at the same time.
 
+Erick took up the entire space himself. After having the people he rescued, who held his loot, set out that loot from the R&R missions on the left-most table, Erick began sorting it as he desired, tapping his new Ring of [Identify] on everything, one by one.
+
+Most of the metamonds were attack magics, like [Wind Cutter] and [Fireball]. Most of them, and especially [Fireball], had similar displays to what Erick would expect to find in a blue box from the Script, but different. Erick recalled the standard blue box for [Fireball].
+
+- -
+
+Fireball, instant, long range, 75 mana
+
+Launch a quick ball of fire that explodes on contact, damaging a medium area for 50 + 2x WIL and igniting everything touched, dealing WIL damage per second for 10 seconds.
+
+- -
+
+But the floating text for the [Fireball] of the Glittering Depths read:
+
+Fireball, instant, long range, 75 mana
+
+Launch a quick ball of fire that explodes on contact, damaging a medium area for 100 damage and igniting everything touched, dealing 25 damage per second for 10 seconds.
+
+Mana Density Multiplier: 50%
+
+The damage of the [Fireball] of the Glittering Depths was flat, without any modifiers. Erick suspected it was based on a person with 25 Willpower. This told Erick a lot about a lot, but he’d organize those thoughts later.
+
+That MDM number was concerning. A bunch of the stuff Erick used [Identify] on came back with that ‘Mana Density Multiplier’, but certainly not all. [Wind Cutter] was at 50%, just like [Fireball]. But [Water Bolt] was at 95%. [Stone Shot] didn’t have an MDM.
+
+Didn’t take a genius to understand that every single spell that had a large area of effect component was hit hard by the Mana Density Multiplier. Spells that conjured some solid thing and then threw it, like [Stone Shot], weren’t affected at all.
+
+All the spells inside Erick’s gear, surprisingly, didn’t have an MDM at all. He would have expected a few things, like [Self Rejuvenation] and his Lightning Rod to have that mana density drawback, since they were both buff or debuff spells and those things seemed like they would dissipate in the mana density disparity between his body and the dungeon (or an enemy’s body and the dungeon).
+
+Erick had a quick think.
+
+Spells were like balloons filled with just enough air to fill them out, and not to actually expand them at all. Depending on the environment a spell was cast into, that spell would act based on its environment. Perhaps the best notion of what was happening here, with this MDM entry, was what happened when you cast an air spell underwater, or when you cast a water spell (meant for underwater combat) above water. Or an air spell inside stone (but not really the other way around, since stone was rather non-compressible, in most scenarios.)
+
+At high interior mana pressure as compared to outside space, a spell would either grow physically larger than expected and thus weaker, or fail altogether. At equalized mana pressure, a spell would act as expected, doing what you made it to do. At a high exterior mana pressure, a spell, once cast, would collapse inward, with a smaller area of effect, or fail, as the flows of intent and magic inside the spell could not move as they were made to move.
+
+High exterior mana pressure existed in places like the tunnels near the Core of Veird, where mana flowed through the planet in flying rivers thick enough to see with the naked eye, where monsters roamed in order to naturally draw all that thick mana into their own grand rads. In there, spells didn’t so much fail due to mana pressure… So maybe not like there at all.
+
+That was probably due to the Script, though.
+
+Moving on.
+
+Equalized mana pressure happened almost everywhere else on Veird.
+
+Past the Edge of Veird, and also here, in the Glittering Depths, almost all spells had a higher interior mana pressure than the emptiness everywhere else. So spells like this [Fireball] metamond, which created an effect outside of a body… Had some sort of low multiplier?
+
+Erick wasn’t sure exactly what this ‘multiplier’ meant. Was it a thing that area of effect spells had, to explain how they would act in this environment down here? Or was it a purposeful effect, imposed upon area spells by the dungeon?
+
+… Erick was leaning on the idea that it was some sort of estimated behavior, a way to tell the user that it would have a ‘50% effect’ (whatever that meant) because dungeons were meant to be places of learning. If the dungeon was doing weird shit to your magic, making your magic act in strange ways that it would never act like anywhere else, then those dungeons were generally shit. Grand Dungeons, like these Glittering Depths… Sure, it had a Second Script, but it was meant to be a learning place, and it was a learning place, with lessons that could be learned and then taken outside the dungeon.
+
+… And with that in mind, Erick suspected spells with a low MDM were highly affected by mana density, and spells with a high MDM were not affected at all; spells like [Stone Shot].
+
+Stone Shot, instant, long range, 5 mana
+
+A bolt of stone strikes where you aim.
+
+But [Water Bolt] had a bit of MDM, because it was a ‘splash’.
+
+Water Bolt, instant, long range, 5 mana
+
+A highly distracting bolt of water unerringly splashes a target.
+
+Mana Density Multiplier: 95%
+
+Water was prone to shifts in density a little, so that 95% was understandable, but Water’s malleability was nothing like Fire and Air, while Stone was rock solid through most conjuring, simply because Stone was… Well. Stone.
+
+Erick might put [Fireball] inside one of his extra wands and see what happened; to actually test his theories. He expected to make a [Fireball] that was… Larger and weaker, probably.
+
+Anyway. Moving on to other theories and crafting...
+
+Why did his Rod of the Lightning Guardian not have any MDM at all? Why did [Self Rejuvenation] not have an MDM?
+
+Rod of the Lightning Guardian, attuned artifact, 1000/1000
+
+Spend a variable amount of mana to empower the rod with Benevolent Lightning. Touching any living thing with this empowerment will inflict a lingering destruction unto the touched target, disrupting auras, exterior magic, and steadily causing physical damage.
+
+Bracelet of [Self Rejuvenation], attuned artifact, 99/100
+
+Continually heal at ten times normal rate.
+
+Overcharge healing for 25 mana, condensing a week of healing into 10 minutes.
+
+So things got complicated here.
+
+Erick started at the beginning.
+
+A body, which was currently under the control of a soul, had a sort of ‘stickiness’ or ‘merge-ability’ to it, when it came to certain magics. Healing magics, primarily. Both normal-living-things, and monsters with a core had souls that controlled their bodies. Normal people had souls all throughout their bodies. Monsters (and people like Erick) had souls inside their cores, which exuded control over the body through a natural ‘aura like’ effect; but it wasn’t the soul, exactly.
+
+Health, as that which existed on Veird, was an example of this sort of soul-control a living soul had over the body it inhabited.
+
+But there was no Health in this dungeon, without actually using a metamond for Health.
+
+And here’s the big thing: without Health, the body was completely vulnerable to interior spellwork. Erick could have taken his rod and stabbed it into one of Fyuri’s wounds, or whatever, and fried her from the inside. Even touching her body at all had fried her much, much more deeply than was possible on Veird, where Health would have stopped that from happening.
+
+And so, without Health… Shouldn’t these spells that affected living things be stripped away, as mana was stripped away from people, here in the dungeon?
+
+Well.
+
+Obviously not.
+
+Erick’s rod’s lightning and the [Self Rejuvenation] were obviously working their power on the soul-animated body, and not being pulled away or negated by the dungeon’s mana vacuum.
+
+So that was half of the answer as to why his bracelet and the rod both did not have a multiplier; they both functioned to affect a body.
+
+… But Healing Magic outside of the Script went off of the blueprint of the soul… And Erick’s soul was fully contained into his core, as was the case with most people who had cores. So there were some interesting interactions happening there.
+
+For Erick’s purposes, the Healing found in the Glittering Depths had to be tied to the physical body more than it was tied to the soul, because if it was tied to the soul, then Erick wouldn’t have had any physical changes at all when he came into the dungeon. Or maybe he had that backwards?
+
+Erick had adjusted his body through [Perfected Polymorph] and gained a temporary Familiar Form called ‘Ashes Woodfield’.
+
+But this Form is not the one he had made earlier.
+
+Erick looked down at himself.
+
+His hair was a bit longer, and he was a bit more muscular than he had made himself, before he stepped into the dungeon today. A little younger, too. Erick had initially thought all of that was due to some sort of resonance with the memory of the dungeon and the Dark and Ashes-of-the-Old-Cosmology, but perhaps this change was a conflict of soul versus body, and brought to a conclusion outside of Erick’s expertise because of the generalized Healing Magic of his [Self Rejuvenation] bracelet.
+
+Was this Wizardry? Making him look more like how Ashes should have looked?
+
+… No way to really know, though, without extensive magical testing, and another talk with Atunir.
+
+Could also have something to do with his draconic soul, and Erick, in his heart of hearts, wanting to be more handsome than he had originally made Ashes… Because yes, he was a bit vain sometimes. Who didn’t want to look pretty!
+
+So maybe this different form was from the disconnect between his body, his soul, and what he wanted, and what he made, and how Elemental Healing was working here in the dungeon…
+
+Erick almost chuckled.
+
+He was quite far out of his depth right now! All of these tiny things coming together in odd ways!
+
+Erick was rather sure that if some academically inclined person desired to make a name for themselves in the Healing arts, then they might want to come to the Glittering Depths to do safe Healing Magic experiments in a low-mana environment. Dragons and normal people; both would be good to have down here, doing experiments. Sure, it was a dungeon with different rules of magic, but the Glittering Depths was specifically made to help people understand magic in a low mana environment; not to fuck up peoples’ basic understanding of how magic worked.
+
+So, perhaps, the Glittering Depths, free of all Script interference, might actually be the purest expression of magery anywhere on this planet… Except for maybe Melemizargo’s own, personal dungeons.
+
+Even Ar’Cosmos, with its anti-Script nature, couldn’t boast this level of pure magic, basic and unmangled.
+
+… Was someone already doing this, though? Seems like someone might. But Erick couldn’t recall if he knew of anyone trying to figure out Healing Magic in low mana, non-Script environments. Such research would be good for civilization, for once they got past Veird and into outer space, mana would behave like itself, instead of like how the Relevant Entities decided it should behave.
+
+… Did Erick want to do that research himself?
+
+No. Not really. He did not have enough time for such a distraction, and he did not want to become a hermit, living inside a dungeon, separate from Veird and the people he cared about.
+
+… Maybe he could set up a lab at the Edge of the Script? That might be nice. Safer than being inside a dungeon, but not by much at all…
+
+Maybe.
+
+Anyway!
+
+Healing Magic and various bodily-affecting magic probably worked (arguably) reasonably normal in a low mana environment, because the body was a natural ‘conductor’ for mana-based effects (with that whole ‘it’s the aura, but not really the aura’ thing happening here).
+
+And that wasn’t even bringing up the complications of monsters and healing! Monsters had bodies separate from their souls, which made their bodies easier to repair because an attack on the body did not attack the soul, as was the case with what happened to most other people when you cut off their arms, or what-have-you. If a person got their arm cut off, and they were not healed for a long time, then the soul that existed in that arm would gradually fade away and/or retract, and that unfortunate person would need to get a [Reincarnation] from Erick in order to regain their arm, because the arm would be gone.
+
+And that whole thing was complicated, too.
+
+On Veird, Healing Magic worked perfectly fine to heal people with degrading soul conditions, because the Script heavily supported that action. But gradually, if the underlying soul damage wasn’t healed, either through powerful magic (for large, dangerous injuries) or time and careful healing (for smaller injuries, since souls did heal over time), then the person’s ‘healed’ body would gradually fail in those areas where their soul didn’t reach anymore.
+
+Healing Magic was incredibly complicated, but here in the Glittering Depths, Erick felt he was seeing Healing Magic unaffected by the Script for the first time.
+
+He was also seeing how magic worked in vacuums.
+
+Erick used his [Identify] ring on his belt, to check out [Unsensible].
+
+He got another surprise.
+
+Belt of Many Functions, attuned artifact, 0, 0, 247/250
+
+(Empty)
+
+(Empty)
+
+Unsensible, self, low grade buff, 25 mana
+
+Let no one else mana sense your self. Lasts 10 minutes.
+
+Automatically recast when spell fades.
+
+Mana Density Multiplier: 75%
+
+That ‘Automatic’ clause was something Erick had never found on a Script-based spell, and that it labeled itself as a ‘buff’ was different too. Buffs were usually harmful to people, because they messed with the nature of one’s soul. But [Unsensible] had not harmed Erick at all, as far as he could tell…
+
+Maybe it was harming him? He couldn’t tell, though? He had only been using it for a few hours?
+
+… It probably was harming him.
+
+Erick flicked his aura through the belt, and turned off the [Unsensible].
+
+… And he waited.
+
+He waited for the crash of a stressed soul, and for the weakness of a buff —any buff at all— leaving the body…
+
+And he felt… Just fine? Weird.
+
+Okay. [Unsensible] was doing something that was not normally possible under the Script; reactivations aside, buffing magic should stress the soul. Erick reactivated the [Unsensible], and considered what might be happening.
+
+… And he looked fine. His soul, inside his core, was fine?
+
+… So the Script was either purposefully disincentivizing buff spells, or this Second Script inside the Glittering Depths was enabling buff spells in some odd sort of way…
+
+Perhaps…
+
+Maybe since the Glittering Depths didn’t actually interact with a delver’s soul until much later in the dungeon (when it actually started giving out base increased mana production that worked everywhere) and instead had a delver use dungeon mana to do everything, this allowed buff spells to work well, here?
+
+Erick hadn’t done much with buffing or debuffing magic, except in a general sense to understand them, in a long while. Perhaps he should talk to Syllea Wyrmrest at Treehome and see if she had any more insights into buffing and debuffing magic; she had helped Erick a long time ago with that sort of stuff, and all that magic was her favorite type.
+
+Anyway.
+
+[Unsensible] had an MDM. This was probably because it made an aura that existed outside of his body, and did not stop right at his skin. This was probably to include his clothes and weapons and stuff like that. This also meant that it drained his mana more than it normally would, in a full-mana environment.
+
+Erick was rather sure that the Mana Density Multiplier of [Unsensible] was the reason that it wasn’t topped off on mana. Erick wasn’t running his [Meditation] amulet right now, so his regeneration was around 5.9 mana every minute, which was going into every single piece of gear on him. [Unsensible] and [Self Rejuvenation] were the only things active right now, so they were taking all of that mana.
+
+But [Self Rejuvenation] was down 1 mana, sitting at 99/100. That was a constant drain, though. Whenever it reached 100, it flickered down to 99, constantly suffusing him with Healing, with the rate going up when necessary, like in the middle of a fight. That tiny trickle wasn’t enough to actually heal him from any of his wounds in a fight, but it was noticeable, and it was probably as much as that spell could do without causing him cancers.
+
+[Unsensible] was down 3 mana, which meant that it was a different kind of spell; one that activated an effect, and then waited till that effect went away before activating again (which was new, and interesting, and you couldn’t do that under the Script!). It was also a spell that activated outside of his body, marking his space in reality as ‘unsensible’ to mana sense.
+
+And it was activating more than every 10 minutes, for that exact reason. It was making magic, and the lack of mana density in the air all around sucked that spellwork away. Erick wasn’t wholly sure of the timing on that, but he would keep an eye on it, as he moved on to other parts of his loot, and other thoughts.
+
+Erick used his new Ring of [Identify] on [Benediction].
+
+Benediction, self, perfect buff, 10 mana
+
+Empower the target in every physical way. Lasts 10 minutes.
+
+Erick smiled as plans formed in his mind. “I’m gonna use that with… Maybe… Every self-empowering spell I have here.”
+
+Yes.
+
+That would do nicely.
+
+Sure, making magic here in the Glittering Depths might not be like making spells on Veird, and he couldn’t take any of these spells with him out there, but this environment itself was the real prize of this whole dungeon experience. This was good practice for making a lab past the Edge of Veird, where he could work on mana crystals outside of the Script, and outside of the influence of the Dark.
+
+Erick certainly wouldn’t be making a simple staircase to the Edge, like Holo had done. The gravity alone in that single, stable location, was crushing. No; Erick would have to make an orbital lab, so that gravity didn’t pancake him or other mages he invited out there to play with magics outside of the Script.
+
+But for now, Erick decided to work on a generalized buffing spell for use here in the dungeon.
+
+Erick had several plans for the Glittering Depths. Discovering Ashes’s storyline and why it called to him was but one of his goals. He had a few more. He wanted to use all this stuff he learned here to make a true orbital platform outside of the Script, in order to play around with real magic, out there in the void of space.
+
+But before all that, Erick would need to clear away the dangers of floor 2.
+
+So Erick grabbed [Memorize], which was a basic Elemental Book memory enhancement spell, and [Benediction], along with a bunch of other stuff, and went into a mana chamber. He closed the door behind him, flicked his aura through his Rod of the Lightning Guardian, causing mana to flood into the confined space like a thin fog.
+
+As the air began to fill with white mana, Erick relaxed, ready for the relaxation that came last time when he—
+
+And then he frowned, as a pressure built. A twitch of anger zapped across Erick’s mind. Fuck. His core was equalized with the manasphere of the second floor. But as the mana pressure increased in here…
+
+With a sigh, Erick reinforced the barrier of his core against exterior mana, and ensured that the dungeon mana didn’t invade his own. Whelp! It was nice to not worry about a manasphere/core differential while it lasted, but now Erick was on the other end of the equation. Mana pressed in against Erick, and Erick knew that if he did not have a core, that he would have been fine. But he had a core, and he felt squished.
+
+Better than monsterizing, though.
+
+Experiments in mana crystals and on orbital platforms might have to wait until after Erick became a Full Wizard, and didn’t need to worry about core/soul/body discrepancies.
+
+Eh.
+
+Put it on the list of goals!
+
+- - - -
+
+Four hours later, Erick opened the chamber and white fog spilled out into the world where it rapidly vanished into the manasphere in every direction.
+
+Making mana crystals was kinda fun!
+
+Erick hadn’t managed anything too spectacular, for he had only really stretched what he knew mana crystals could do with the creation of the breastplate, so he was almost 100% sure that all of these spells he had made were repeatable on Veird, if he felt like making them.
+
+And that, right there, was concerning.
+
+As he began putting his new items out on the tables, Erick recalled the words that had splashed through the air when he exited the dungeon at the end of Floor 1: “Upon leaving, all of your collected items will turn into non-functional iron crystals and iron gems, but they will regain functionality after re-entering the Glittering Depths, provided they have not been altered. Altered items might not function the same way inside the Glittering Depths! Alter an item at your own risk!”
+
+All of this mana crystal magic he had made would translate to Veird just fine.
+
+All of these metamonds and metirons, and how this here specifically functioned… Well.
+
+Erick was 100% certain that he could make a mana crystal that functioned like a metamond, if he could actually make such a thing on Veird. If mana crystals were allowed, but they weren’t, except in very extreme cases that actually violated the rules of the Script; like with Erick’s Full Wizard crystal form. Now that was Wizardry. A clear violation of the Script.
+
+Of course, one just had to go to Ar’Cosmos to make a mana crystal; so that problem was solved. Erick even had some mana crystals back home that worked just fine outside of Ar’Cosmos. They couldn’t be made here on Veird, but they could certainly be imported.
+
+Mana crystals were just pure enchantments in crystal form, and those worked across all worldly boundaries.
+
+The metirons would be ‘tougher’ to make on Veird. Such a creation would have to be some heavily runed thing. But Erick had already done such workings on the iron Gates of the Gate Network, so maybe it wouldn’t be too bad?
+
+Atunir had even said that all this stuff in here could work outside a Second Script Glittering Depths space, with a bit of work. Spaceships, and junk like that.
+
+… It was quite possible that, if not for certain transformations that happened around the entrance of the Glittering Depths...
+
+Erick asked the dungeon, “Glittering Depths? You purposefully transform these meta-diamonds into non-functional things, don’t you?” Erick looked up, asking, “They could work fine on Veird, but you ensure that they do not. Correct?”
+
+Kinder walked into the room. “Talking to yourself, sir?”
+
+Erick turned to the man from Greensoil. “… You weren’t there a moment ago.”
+
+Kinder frowned. “I was outside, sitting on that bench out there and trying not to fall asleep, guarding you while you worked and prepared to interrupt you in case you were needed for defense.” Kinder professed, “I take my job seriously, sir, even if you seem not to, being inside those chambers for hours on end.”
+
+Erick rolled his eyes. “Yeah yeah.”
+
+“So what did you make, sir?” Kinder stood on his tippy toes, craning his neck to see all the stuff Erick had laid out on the tables, as he asked, “Not much weaponry?”
+
+The weaponry would come later, as soon as Erick truly figured out what he wanted his weapon to be, but he had made a bunch of low level metamonds that would serve that function… Probably. Those metamonds rested in his fanny pack, for he did not want them on display.
+
+But since Kinder was asking about it… Did Kinder have viewing access on Erick, here in the dungeon?
+
+… Or was he just being curious, and worried, because he didn’t see any weaponry, and weaponry was what was needed to combat the dangers out there, upon the plains.
+
+Eh.
+
+“I’m still thinking of what I want the weapon to be, so for now, it’s a bunch of defensive stuff.” Erick waved his hand with the Ring of [Identify] over the items, saying, “Nothing too interesting; just preparation for bigger fights and faster movement. I decided to unattune a few things since I’m close to my 10/10 metamond cap.”
+
+Breastplate of [Regenerating Health], unattuned artifact, 250/250
+
+You have Health when wearing this breastplate. 1000 Health. Regenerates with your mana.
+
+Bracelet of [Hidden Wind], attuned artifact, 100/100
+
+Step lively through the wind and the light. 1 mana per step.
+
+Shield of [Reflection], unattuned artifact, 250/250
+
+Reflect high-grade and lesser targeted spellwork.
+
+Wand of [Rejuvenation], unattuned artifact, 100/100
+
+For 5 mana, grant a touched target increased healing, condensing a week of recuperation to 10 minutes.
+
+Erick passed his hand across his belt, saying, “This one is perhaps the most interesting.”
+
+Belt of Many Functions, attuned artifact, 50/50, 50/50, 50/50
+
+Blessed Memory, self, perfect buff, 1 mana per minute
+
+Your mind is a palace.
+
+Eternal Benediction, self, perfect buff, 1 mana per minute
+
+Your body is a fortress.
+
+Benediction of the Unseen, self, perfect buff, 1 mana per minute
+
+Mana does not record your presence unless you desire it so.
+
+Mana Density Multiplier: 75%
+
+“I changed up almost everything about the belt. I added mental and physical benediction-class buffs, and I made the [Unsensible] a lot better. Still has that Density Multiplier stuff, though, since it exists partially outside the body. I imagine it’ll tick maybe 10 mana per minute in a full mana vacuum, but that’s still fine.” Erick looked at Kinder, adding, “You want me to make you any copies of any of this? That offer is only if you want to go out and hunt red tabards with me, though.”
+
+Kinder’s mouth hung open as he read the floating text. He was at a loss for words long before Erick began explaining what he had made. It was only several seconds after Erick stopped talking, that Kinder exclaimed, “… HOW?!” And then he gushed, “The mana costs alone are crazy! You actually managed to do a true at-cost [Rejuvenation]?! And what you did to [Unsensible]. Fuck. That’s a lot better than—”
+
+Kinder stopped talking as he realized he was saying too much.
+
+Erick just smiled. “I’ve had a whole lot of practice with spellwork in all sorts of environments long before I came here, Kinder.”
+
+“… Apparently, sir.”
+
+Erick nodded, then asked, “Are you ready to drop this act and tell me why you chose to follow me into this dungeon? Who are you working for?”
+
+With rote practice, Kinder said, “Not sure what that means, sir.” He added, “And I’m working for Insten, for freedom from our oppressors. Same as you.”
+
+“… Sure. I’ll believe you for a while.” Erick began putting on some of the items he had created, starting with the belt. As the metal slipped around his waist Erick gasped at the sudden feeling of his senses heightening and his mind clearing. Once again, he was able to count Kinder’s individual eyelashes, and see all of his various microexpressions that very much separated the man from the NPCs elsewhere in Marii’s keep. The man was barely sweating, but he was still sweating. He was nervous, and well trained not to show it. As Erick felt his body rapidly acclimate to being stronger, and to the entire world feeling less oppressive in gravity, in general exhaustion, and all sorts of ways, Erick said, “Now that’s the good stuff.”
+
+The shield and breastplate remained on the table, for they would be too bulky for what he needed to do next, but Erick put the Bracelet of [Hidden Wind] on his unoccupied wrist. Erick flicked power through the bracelet and the weight of the world seemed to lose its grip on him, as though Erick was airstepping with [Air Body]. Light and Shadow began to bend around him, fucking up his sight and turning the world into the reflection of a carnival mirror, but Erick just waited a moment, and the funhouse effect dimmed as the magic settled down. He could once again see where he was looking, as the magic began to recognize where he was looking and clear a path.
+
+Erick moved his head around, and his clarity of sight lagged behind, but it caught up well enough.
+
+He stepped backward—
+
+And catapulted backward, smashing right into a wall and crashing to the ground, to land on his hands and end the [Hidden Steps] effect. He rose, with all the dignity of a man who had experienced a non-lethal, embarrassing spell malfunction. It was not the first time for Erick. “… That’ll take some practice.”
+
+With wide eyes, and completely glossing over Erick’s malfunction, Kinder said, “You copied Scout’s magic.”
+
+“Aye. Seemed simple enough to make.”
+
+“She got that [Invisible Steps]— [Hidden Steps] is what it’s called. Not [Invisible Steps]. She got that bracelet from the Mountain for meritorious service. Cost them… I’m not sure what it cost them. But I know that those bracelets are near-impossible to get right. You can’t make them with a spell tome.”
+
+Erick smiled again. “I’ve been making magic for a long time, Kinder.” Erick picked up the broken Staff of the Anti-Magus, saying, “And now I’m going to make a sniper metiron, use it to clear out this floor of the dungeon, and then come back here to play around with mana crystals.” He spoke to the air, “If the mana crystals made here still work on Veird, like I think they will, I might spend a good month here playing around with all these mana crystals.”
+
+Words appeared.
+
+Invalid command. Are you in need of special assistance, Ashes Woodfield? Transport to the entrance is just an ask away.
+
+“Nope. Thanks though.” Erick hefted the half staff in his hands, and felt kinda good about the thrill of discovery he was about to embark upon. “Gonna make my own help.” He turned to Kinder, and said, “Tell me if I’m needed to repel an attack, or whatever.”
+
+Kinder slammed his fist against his chest without missing a beat. “Before you do that, sir! We could use that wand of [Drinking Food] for the people, sir!”
+
+“… Oh. Right.” Erick looked to the mana chambers. “I was in there for a while, wasn’t I?”
+
+Kinder added, “And. Uh. Since you made a [Rejuvenation] wand… Few of our healers survived, but Architect Marii has some Healing Magics so we’re limping along, but we don’t got any proper priests with real healing, so we’re kinda hurting. A lot. Any additional healing would help.”
+
+Erick felt a sudden stab of shame. “Right.” Erick put the broken staff back down and grabbed the two requested wands. First thing Erick did was attune the Wand of [Rejuvenation], bringing him up to 10/10 metamonds in use. Attuning took little more than a will-to-power and an empty metamond slot, but un-attuning took 10 minutes, so he couldn’t switch his loadout in combat, but outside of a battle it was easy enough to do that. He’d remove one or both of his utility wands later. For now, the Wand of [Rejuvenation] and the Wand of [Drinking Food] got used. “Let’s go feed and heal some people.”
+
+Kinder almost glowed as a smile broke across his face. “Thank you, sir.”
+
+- - - -
+
+As soon as Erick saw the tired, dirty, hungry, and injured people he had left in the care of the Marii and her people, Erick realized he had fucked up. It didn’t matter if they were all NPCs, and they felt as much real pain as a slime could feel, it was still fucked up to leave them in that pain. Marii was currently kneeling beside a man on a blanket on the ground, trying to heal the man, her hands glowing cerulean blue. It wasn’t working so well. She was covered in blood and she had a bunch of assistants helping her, either with preparing people for healing later, or doing aftercare, but there were at least twenty people that needed healing, and nine of them were comatose. Added to that, there were a hundred other people in the courtyard, and undoubtedly more stuffed away in all parts of the castle. The place was packed before Erick had gotten here with his rescues, and now it was overflowing.
+
+Everyone was getting in everyone’s ways.
+
+Erick needed to take care of the people he already had rescued, if for no other ‘real’ reason than to make sure this place ran better than it currently was. Erick instantly roped Kinder into helping him, but Kinder seemed prepared for that even before Erick asked.
+
+Soon, Erick had gone through the crowd, tapping the most injured people with [Rejuvenation], while Kinder got the kitchens up and running. After Erick was done in the courtyard, he went to those kitchens and held his Wand of [Drinking Food] over a large, self-heating black pot and began filling it up with lukewarm oatmeal, while Kinder got the bowls and spoons ready. Marii’s base was quite large and well defended, but it was meant for a crew of about 20 people. The pipes still carried water into the castle from somewhere, but the place had run out of food as soon as it started taking in refugees, which Erick guessed had started yesterday, and then continued on even after Erick had arrived several hours ago. Erick watched, right then, as the front doors to the courtyard opened and more refugees showed up and filed into the castle.
+
+There were probably 500 or 600 people here, now.
+
+And all of them seemed hungry.
+
+The line to Erick’s food cauldron was thickening up, just like the oatmeal inside the cauldron itself. It actually began to look appetizing, too, once it wasn’t so liquidy. Erick didn’t have to organize anything. The soldiers got that done, while Kinder ladled them bowls. Erick had more mana in him than just for making oatmeal, though, so he tapped the people who passed by with a [Rejuvenation] from his other wand, to ensure everyone was in good, healthy order.
+
+It was simple, good work, even if it was done inside a memory of a land long past, the people were rather more memories than real themselves, and Erick was cutting into his goals of playing around with mana crystals. There was always time to help people, and this way, Erick got a chance to see everyone in the castle.
+
+Two hours later, as the last person passed through with a bowl, Erick offered a tap of [Rejuvenation], but the soldier shook their head. They explained that they had already been through the line three times.
+
+When it was over, Erick happily said to Kinder, “I haven’t been able to do anything that simple and nice for people in a long time. I kinda miss it.”
+
+Kinder side-eyed Erick. “But you do this all the time—? Ah. The healing is new.”
+
+Erick chuckled. “I usually work on a much larger scale than this. It gets impersonal at that scale.”
+
+“You must have hit your head pretty hard out there.”
+
+“I probably did.” Erick stretched, popping his back, and then rolling his shoulders. He put his wands back into his back fannypack, and said, “Time to make a magical sniping staff and kill some memories of Riam.”
+
+Kinder muttered to himself, “Weird coping mechanism, but alright.”
+
+Erick almost tried to prove his sincerity of words with some hard evidence that the people here were not full people, that they were just facsimiles; Erick had seen every single person in the castle as they went through his food line, after all. The easiest ‘proof’ that no one here was real was that the people around here repeated the same words whenever you asked them questions.
+
+A better proof lay in the souls of these NPCs. Every single person in this castle, except for Erick, had a soul as thin and barely-there as a slime. The dungeon had given these NPCs some complicated instructions, for sure. But they were still fake people.
+
+Kinder had some sort of obfuscation on him that made his soul appear like all the rest of the NPCs. Marii had the same thing on her, too… Probably. Marii was much more of an NPC than Kinder. Erick had caught the red-head saying the exact same thing, word for word, to the people she healed more in-depth than Erick was able to heal, which she had continued to do the entire time Erick was making food.
+
+Erick wasn’t going to say anything about souls and the nature of reality to anyone here, though, because that reminded him too much of what Melemizargo used to say about all the people of Veird, except for when he spoke of Erick, Rozeta, or Jane.
+
+- - - -
+
+Magic was weird outside of the Script, Erick thought to himself, as he entered the metiron workshop.
+
+There was no true Mana Altering outside of the Script, for starters.
+
+People were born with the mana they had, and they had to work hard to discover what they were good at, or figure out how to manually Mana Alter, which still wasn’t a pure sort of thing. But in the Script, the Skill Mana Altering allowed anyone to conjure whatever mana they were trying to conjure from the shared pool of Script mana that everyone contributed to.
+
+Erick had long ago learned aura control, and singing to the mana to ‘flavor’ his own mana properly, but if he was casting, for instance, a plain [Water Bolt] or other basic Water spell from the Script, then the Script would give him Water mana for that spell. If he were to hum the tune of Elemental Water, what he was truly doing there was helping the mana, and thus the Script, to properly target Water mana to give him for that Water Magic.
+
+Casting Water Magic on his own, through aura control and Benevolence and self-creation, was a lot more difficult. He could still manually Mana Alter, of course. Not only did Benevolence lend itself very well to becoming any Element Erick wanted it to become, but Erick was also rather good at manual magic.
+
+And, of course, mana was possibility, and possibility can change if it is sufficiently primed to change.
+
+That’s what the Glittering Depths was doing here with mana crystals.
+
+Mana crystals, on their own, were very, very good at innately Mana Altering all the mana that passed through them. This was because mana crystals, much like Erick singing to the mana, caused a harmonic convergence in the nearby mana, which propagated a localized change in the nature of the mana that passed through or near the mana crystal.
+
+So what happened here, with these metirons and metamonds, was that people pumped mana into their meta-irons, and the metiron would act as a conductor for the metamonds, allowing that mana to pass through that metamond, which was a mana crystal chock full of alterings, shapings, and the imbuing of intent, to create magic. That magic would then get conducted back through the metiron, and happen as it was directed to happen.
+
+People were able to make mana do the same sort of things through other sorts of enchanted objects, like wands of [Fireball] on Veird, made with various Elemental Fire materials and spellwork, or like with Erick’s manalight-infused All Stat rings, which was a resonance of a different sort. That particular resonance between wavelength of light and Script-assigned colors caused a confluence of reactions in a soul which caused an empowerment of Stats. Even runed metals, as one would use in a runic web or other sorts of enchantments, were just words inscribed into metal so that the Script and mana itself could understand and then act upon those words. All of magic and enchanting were simply ways for people to communicate with the mana, and for the mana to respond back.
+
+What this dungeon was doing with mana crystals was like… Higher order mana crystal magic.
+
+Erick had some experience with mana crystals before, but not nearly enough. Here, in this dungeon, he was getting some rather good experience.
+
+And so, Erick picked up the broken Staff of the Anti-Magus and rolled the meter-long length of silver metal in his hands. He inspected the tangle of wires and branch-like extensions at the top of the staff.
+
+He considered Mana Altering, and he wondered what he wanted to make of this weapon, exactly. Through some clever combinations of the basic six types of metamonds he had found on the battlefields outside (or been rewarded for rescuing people), Erick could make literally any small magic he desired. He didn’t simply have access to Stone and Water, he also had Ooze when Stone and Water came together, and if he added in a twist of the right Intent, he had Elemental Tree.
+
+He could even take some Elemental Healing, throw some proper Bloody intent at it, and make Elemental Blood, even though he had no Elemental Blood starter metamonds at all.
+
+… Erick hummed at that thought.
+
+Elemental Blood might be one of the best options for offensive use here, in the Glittering Depths, where most people didn’t have Health, since Health was the primary way in which Blood Magic was defended against. Any Blood Magic would probably rip through the NPC enemies out there like a knife through paper.
+
+And Erick had Health, now, so he wouldn’t be vulnerable to his own weapon. All he needed to do was wear that Breastplate of [Health Regeneration] he had made earlier. That’d be 1000 Health right there, which was a lot for the average person to have.
+
+And yet, as Erick set down the broken staff, and went over to the modeling wax, he considered the wider implications of creating a super-weapon inside this dungeon. He was rather sure that he could do exactly that, too; he could make a super weapon.
+
+Here, in this dungeon, Erick could make an auto-killing magic that could shoot as fast as an automatic machine gun, firing auto-targeting [Blood Bolt]s that mowed down whole groups of people. Such a creation was what the dungeon wanted for the completion of floor 2, after all. A super weapon that could alter the course of war.
+
+… Erick did not like killing people, even if they were ‘not real’.
+
+He much preferred helping people.
+
+Looking back on it, he was kinda appalled how easily he had devolved into killing those Riam soldiers, in the Rescue and Revenge quests. Usually he tried to talk down situations like this, but then again, usually he was far and away the most powerful person in… Well almost the whole world, actually. On Veird, he could force people to bend to his will, and ensure everyone came out the other side of those confrontations without getting messed up too much.
+
+But here, at this lower power level, Erick had gone with the flow of the dungeon, and killed people he would have otherwise tried to ‘save’… Even though there is no saving any of these people.
+
+They weren’t real. They couldn’t actually be saved.
+
+People had tried to save NPCs they found in dungeons long before now. Usually what happened was a person had to physically drag their desired NPC out of a dungeon, because the NPC would never go willingly. The NPC would usually be screaming and fighting their captor the whole way, too, because they knew that absolute death awaited them if they stepped outside of a dungeon. Which is exactly what would happen in almost all cases. An unawakened NPC would break like shattered magic long before they reached the dungeon entrance.
+
+But sometimes, some NPCs would wander to the dungeon entrance on their own, notice the barrier that their friends couldn’t even see, and then they would step through, and become a real person. If Erick weren’t so sure that Kinder was already a real person, pretending to be fake, then he would try to rescue the man from the Glittering Depths, or at least show him the front door.
+
+He had done that a lot when he helped Destiny to liberate the Freelands and their slave dungeons, all those years ago.
+
+Was this another one of those situations? Was the Glittering Depths a slave dungeon?
+
+Probably not.
+
+There was no real danger that Erick was killing real people, here. Any weapon he made would just get used against NPCs, which, while horrible, wasn’t all that bad.
+
+But people and ideas and objects came out of dungeons all the time. Memories and possibilities in the mana turned from subjective Reality, to mundane factual reality. And in that case...
+
+Erick looked down at the blocks of wax he was about to carve, and at the weapon he was about to make…
+
+This weapon would be real.
+
+As Erick considered what he was going to make, he knew for a fact that he could reproduce this weapon outside of the Glittering Depths, as soon as he figured out a way to make mana crystals on Veird.
+
+He could always ‘tunnel’ out of the Glittering Depths into another dungeon somewhere nearby, like Kiri had done during her Worldly Path. She had gone into the Grand Dungeon at Freeland and come out at the Benevolence Grand Dungeon at Candlepoint. Erick could maybe do the same thing and bring an intact meta-weapon out onto Veird, or at least the mana crystals, which was the big thing.
+
+Maybe. It might work that way.
+
+Anyway!
+
+Erick didn’t have [Metalshape] here in this dungeon, so he had to do this the long way.
+
+He grabbed some bulk wax and some heated wands and sculpting tools, and began fashioning the general shape of the weapon he would make out of the broken ‘Staff of the Anti-Magus’. The base metal was already primed to cut through magical defenses, if Erick was understanding that wording correctly, so that was his starting position. All of that would probably vanish as soon as he turned the metal liquid, though.
+
+So really, Erick could make anything he wanted…
+
+Form follows function, and Erick had some functions he might be putting into this weapon already. Those functions weighed on Erick’s mind, and in his fanny pack. They had all been tests; little more than aura controlled mana, cycled down to crystal and imbued with perfect intent, even if the final product remained unknown, for now.
+
+And that had worked out well, because Erick was very good at making magic, and this stuff was the most basic magic there was.
+
+Long Bolt, instant, long range, 5 mana
+
+A bolt unerringly strikes a distant target.
+
+Targeted Insta-Bolt, instant, long range, 7 mana
+
+Aim a bolt to unerringly and near-instantly strike a specific area on a target.
+
+Bleeding Bolt, instant, long range, 7 mana
+
+A bolt of blood unerringly strikes a target, causing the target to bleed.
+
+Burrowing Bolt, instant, long range, 7 mana
+
+A bolt of burrowing force unerringly strikes a target, inflicting deep damage
+
+Decay Bolt, instant, long range, 7 mana
+
+A bolt of spreading decay unerringly strikes a target, inflicting a spreading rot.
+
+Explosion Bolt, instant, long range, 7 mana
+
+A bolt of explosive force unerringly strikes a target, and detonates.
+
+Multi-Bolt, instant, long range, 10 mana
+
+A bolt of force homes onto a target, before splitting and inevitably striking multiple times.
+
+All of them were created with the lowest power settings that Erick could manage; 2-to-5 mana for a delivery system and the rest of the spell cost for the desired effect. Separately, they were almost useless. On Veird, under the Script, not a single one of these spells would do more than 10 or 25 damage to a person. That [Bleeding Bolt] would probably hit for no actual damage at all, cause a bleed only if it hit a vulnerable area, and then prevent a body from naturally staunching that bleed for maybe ten seconds, at most. But together, and here in the dungeon where no one had any Health, this sort of combination would be devastating against a single target.
+
+Which is exactly what Erick planned to use them for.
+
+So Erick sculpted wax in the shape of a sniper staff.
