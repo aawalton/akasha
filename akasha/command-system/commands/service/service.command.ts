@@ -13,13 +13,18 @@ export const service = {
       said: "install",
       takes: "the act, which is to put a service's units where systemd reads them",
     },
-    { said: "<slug>", takes: "the service to install, named by the slug its page carries" },
+    { said: "restart", takes: "the act, which is to ask systemd to run a service's unit afresh" },
+    { said: "start", takes: "the act, which is to ask systemd to run a service's unit" },
+    { said: "stop", takes: "the act, which is to ask systemd to end a service's unit" },
+    { said: "<slug>", takes: "the service acted on, named by the slug its page carries" },
     { said: "--all", takes: "every workstation service akasha carries" },
     { said: "--dry-run", takes: "say what would happen and change nothing" },
   ],
   helpNotes: [
     "the act stands first and one call names one act.",
     "a service is named or `--all` is said, never both.",
+    "`--all` belongs to `install`, and one service is started, stopped or restarted at a time.",
+    "a scheduled service is reached by its timer, and one that is not by its service unit.",
     "a unit is written under your home and reached by a link systemd reads, which is how it is known to be ours.",
     "a unit of ours that the pages no longer account for is disabled and taken away.",
     "a page stating `enabled: false` is installed and stopped rather than left uninstalled.",
@@ -55,8 +60,12 @@ export const service = {
       statement: "Nothing here is installed for the whole machine.",
     },
     {
+      invariantKind: "departure",
+      statement: "An act asking systemd names the one unit systemd was told to enable.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here restarts a service that is already running what it should.",
+      statement: "An install restarts no service whose units are unchanged.",
     },
     {
       invariantKind: "gap",
