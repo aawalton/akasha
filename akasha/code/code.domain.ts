@@ -5,4 +5,36 @@ export const code = {
   pageTypeSlug: "domain",
   slug: "code",
   definition: "the code a machine runs",
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Bounded Wait",
+      act: "Give every wait a ceiling, and fail at that ceiling with the reason the wait was for.",
+      warrant:
+        "An unbounded wait emits nothing, neither finished nor failed, so nothing alerts and nothing retries.",
+      aids: [
+        "Bound the whole wait, not each attempt.",
+        "Never go on past the ceiling without the result.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Split First",
+      act: "Split an authored file too big to read in one answer before you change it, never around it.",
+      warrant:
+        "A write needs a body read, and no read returns this one, so the two refusals point at each other.",
+      aids: ["The split is derived, not authored.", "A part still too big to read is not split."],
+    },
+    {
+      directiveKind: "rule",
+      name: "Real Path",
+      act: "Resolve a filesystem path to its real location where the path is made.",
+      warrant:
+        "Two spellings of a path open the same file, so nothing fails until a comparison quietly answers no.",
+      aids: [
+        "Follow the symlink; `path.resolve` does not.",
+        "Where nothing is there yet, resolve the parent.",
+      ],
+    },
+  ],
 } as const satisfies Domain
