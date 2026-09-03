@@ -1,13 +1,13 @@
-import { folderIn } from "../../page/page-types.ts"
-import { categoryRuleSet } from "./category-rule-set.ts"
 import {
+  type Condition as ConditionIn,
   covers as coversIn,
   locationOf,
+  type Match as MatchIn,
   mispaired,
   parseMatch as parseMatchIn,
-  type Condition as ConditionIn,
-  type Match as MatchIn,
-} from "./rules-engine.ts"
+} from "@akasha/rules-engine/rule-conditions"
+import { folderIn } from "../../page/page-types.ts"
+import { categoryRuleSet } from "./category-rule-set.ts"
 
 function foldersOf(): Record<string, string> {
   const folders: Record<string, string> = {}

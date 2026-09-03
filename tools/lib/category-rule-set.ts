@@ -1,6 +1,6 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { ruleSetOf, globFor, globsOf } from "./rules-engine-rule-set.ts"
-import type { RuleSet } from "./rules-engine.ts"
+import type { RuleSet } from "@akasha/rules-engine/rule-conditions"
+import { globFor, globsOf, ruleSetOf } from "./rules-engine-rule-set.ts"
 
 const RULE_SET = "category-rule"
 
@@ -12,11 +12,9 @@ function readRuleSet(): RuleSet {
     kinds: {
       code: {
         glob: globFor(globs, "code", RULE_SET),
-        constraints: null,
       },
       agent: {
         glob: globFor(globs, "agent", RULE_SET),
-        constraints: null,
       },
     },
   }

@@ -1,14 +1,20 @@
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
-import type { RepoView } from "./check.ts"
-import { emailRuleSet } from "./email-rule-set.ts"
-import { parseMatch, ruleFolderOf, ruleLocation } from "./email-rule.ts"
-import type { Condition } from "./email-rule.ts"
-import { rulesOf } from "./email-rules.ts"
-import type { Rule } from "./email-rules.ts"
-import type { Message } from "./gmail.ts"
+import {
+  type Case,
+  CEILING,
+  eachCase,
+  type Matchable,
+  matches,
+} from "@akasha/rules-engine/rule-partition"
 import { refusalText } from "../../refusal/refusal.ts"
-import type { RuleSubject, Group, Meeting, Printers, Unreadable } from "./rules-subject.ts"
-import { CEILING, eachCase, matches, type Case, type Matchable } from "./rules-partition.ts"
+import type { RepoView } from "./check.ts"
+import type { Condition } from "./email-rule.ts"
+import { parseMatch, ruleFolderOf, ruleLocation } from "./email-rule.ts"
+import { emailRuleSet } from "./email-rule-set.ts"
+import type { Rule } from "./email-rules.ts"
+import { rulesOf } from "./email-rules.ts"
+import type { Message } from "./gmail.ts"
+import type { Group, Meeting, Printers, RuleSubject, Unreadable } from "./rules-subject.ts"
 
 export const MESSAGES = "distinguishable message(s)"
 

@@ -1,12 +1,11 @@
-
-import { readFileSync, readdirSync } from "node:fs"
-import { listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
+import { readdirSync, readFileSync } from "node:fs"
 import { fileStemOf } from "@akasha/file-page-identity"
-import { parseMatch, ruleFolderIn, ruleKinds } from "./email-rule.ts"
+import { type Case, matches as matchesIn } from "@akasha/rules-engine/rule-partition"
+import { listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import type { Condition } from "./email-rule.ts"
+import { parseMatch, ruleFolderIn, ruleKinds } from "./email-rule.ts"
 import { emailRuleSet } from "./email-rule-set.ts"
 import type { Message } from "./gmail.ts"
-import { matches as matchesIn, type Case } from "./rules-partition.ts"
 
 export type Action = "notify" | "unsubscribe"
 

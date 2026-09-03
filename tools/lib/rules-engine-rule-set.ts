@@ -1,14 +1,22 @@
-import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { existsSync, readFileSync } from "node:fs"
-import { slugNamed } from "../../page/page-address.ts"
-import { type PageType, pagesOf, placeDirOf, placeOf, PROPERTY_GLOBS, scanIn, reposOf } from "../../page/page-types.ts"
-import { blockOf, stringAt } from "../../page/text/text.ts"
 import { fileStemOf } from "@akasha/file-page-identity"
-import { diskFileTree } from "../../page/file-tree.ts"
-import { registryOf } from "../../page/property/registry.ts"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import type { Field, FieldType, Normalizer, RuleSet } from "./rules-engine.ts"
-import { parseVocabulary, valuesOf } from "./rules-normalizer.ts"
+import type { Field, FieldType, Normalizer, RuleSet } from "@akasha/rules-engine/rule-conditions"
+import { parseVocabulary, valuesOf } from "@akasha/rules-engine/rule-vocabulary"
+import { diskFileTree } from "../../page/file-tree.ts"
+import { slugNamed } from "../../page/page-address.ts"
+import {
+  type PageType,
+  PROPERTY_GLOBS,
+  pagesOf,
+  placeDirOf,
+  placeOf,
+  reposOf,
+  scanIn,
+} from "../../page/page-types.ts"
+import { registryOf } from "../../page/property/registry.ts"
+import { blockOf, stringAt } from "../../page/text/text.ts"
 
 export const RULE_SET_AT = `${placeDirOf("rules-engine-rule-set")}/`
 
@@ -21,7 +29,6 @@ function ruleSetAt(roots: Roots, ruleSet: string): string {
   if (named !== undefined) return named
   throw new Error(`no rule set stands for \`${ruleSet}\``)
 }
-
 
 interface Read {
   readonly one: (key: string) => string | null
@@ -57,10 +64,14 @@ interface Claim {
 function claimOf(roots: Roots, type: PageType | undefined, slug: string): Claim {
   const repo = type === undefined ? undefined : reposOf(type)[0]
   if (type === undefined || repo === undefined)
-    throw new Error(`\`${slug}\` names no page type that claims a file, so its values cannot be read`)
+    throw new Error(
+      `\`${slug}\` names no page type that claims a file, so its values cannot be read`
+    )
   const root = roots[repo]
   if (root === undefined)
-    throw new Error(`\`${slug}\` is filed into \`${repo}\`, which is not cloned here, so its values cannot be read`)
+    throw new Error(
+      `\`${slug}\` is filed into \`${repo}\`, which is not cloned here, so its values cannot be read`
+    )
   const standing = pagesOf(root, type, repo)
   const only = standing[0]
   return { root, at: standing.length === 1 && only !== undefined ? only : placeOf(type.slug) }
@@ -88,7 +99,9 @@ function definitionsOn(appliesTo: string, roots: Roots): readonly Read[] {
     found.push({ key, stated })
   }
   if (found.length === 0)
-    throw new Error(`no property definition states \`defined-on-slug: ${appliesTo}\`, so nothing says what its fields are`)
+    throw new Error(
+      `no property definition states \`defined-on-slug: ${appliesTo}\`, so nothing says what its fields are`
+    )
   return found.sort((one, two) => one.key.localeCompare(two.key)).map((one) => one.stated)
 }
 
@@ -108,7 +121,11 @@ function fieldsOf(appliesTo: string, roots: Roots, types: readonly PageType[]): 
   return fields
 }
 
-function normalizerOf(appliesTo: string, roots: Roots, types: readonly PageType[]): Normalizer | null {
+function normalizerOf(
+  appliesTo: string,
+  roots: Roots,
+  types: readonly PageType[]
+): Normalizer | null {
   for (const stated of definitionsOn(appliesTo, roots)) {
     const subject = stated.one("normalized-from")
     const by = stated.one("normalized-by-slug")
@@ -144,14 +161,19 @@ export function globsOf(ruleSet: string, roots: Roots): Readonly<Record<string, 
   return globs
 }
 
-export function ruleSetOf(ruleSet: string, roots: Roots): Pick<RuleSet, "name" | "fields" | "path" | "normalizer"> {
+export function ruleSetOf(
+  ruleSet: string,
+  roots: Roots
+): Pick<RuleSet, "name" | "fields" | "path" | "normalizer"> {
   const types = registryOf(diskFileTree(roots))
   const relPath = ruleSetAt(roots, ruleSet)
   const stated = readAt(rootFor(roots, AKASHA), relPath)
   const appliesTo = stated.one("applies-to-slug")
   const pattern = stated.one("path-pattern")
-  if (appliesTo === null) throw new Error(`\`${relPath}\` states no \`applies-to-slug\`, so nothing says what it decides`)
-  if (pattern === null) throw new Error(`\`${relPath}\` states no \`path-pattern\`, so no rule's path can be read`)
+  if (appliesTo === null)
+    throw new Error(`\`${relPath}\` states no \`applies-to-slug\`, so nothing says what it decides`)
+  if (pattern === null)
+    throw new Error(`\`${relPath}\` states no \`path-pattern\`, so no rule's path can be read`)
   return {
     name: ruleSet,
     fields: fieldsOf(appliesTo, roots, types),
@@ -160,9 +182,15 @@ export function ruleSetOf(ruleSet: string, roots: Roots): Pick<RuleSet, "name" |
   }
 }
 
-export function globFor(globs: Readonly<Record<string, string>>, kind: string, ruleSet: string): string {
+export function globFor(
+  globs: Readonly<Record<string, string>>,
+  kind: string,
+  ruleSet: string
+): string {
   const at = globs[kind]
   if (at === undefined)
-    throw new Error(`no \`${kind}\` page type extends \`${ruleSet}\`, so nothing says where its rules stand`)
+    throw new Error(
+      `no \`${kind}\` page type extends \`${ruleSet}\`, so nothing says where its rules stand`
+    )
   return at
 }

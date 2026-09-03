@@ -1,8 +1,14 @@
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
-import type { Check, CheckOutcome, RepoView } from "./check.ts"
+import type { RuleSet } from "@akasha/rules-engine/rule-conditions"
+import {
+  type Case,
+  CEILING,
+  eachCase,
+  type Matchable,
+  matches,
+} from "@akasha/rules-engine/rule-partition"
 import { judge, over, skip } from "@akasha/verdict/outcome"
-import type { RuleSet } from "./rules-engine.ts"
-import { CEILING, eachCase, matches, type Case, type Matchable } from "./rules-partition.ts"
+import type { Check, CheckOutcome, RepoView } from "./check.ts"
 
 export interface Unreadable {
   readonly relPath: string
@@ -48,7 +54,12 @@ interface Aspect<S> {
   readonly close: (state: S, subject: RuleSubject, root: string, group: Group) => Closing
 }
 
-function checkOver<S>(name: string, subject: RuleSubject, absent: string, aspect: Aspect<S>): Check {
+function checkOver<S>(
+  name: string,
+  subject: RuleSubject,
+  absent: string,
+  aspect: Aspect<S>
+): Check {
   return (repo: RepoView): CheckOutcome => {
     const root = rootFor(repo.roots, AKASHA)
     const groups = subject.groupsOf(repo)

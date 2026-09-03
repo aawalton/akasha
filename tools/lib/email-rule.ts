@@ -1,11 +1,11 @@
-import { emailRuleSet } from "./email-rule-set.ts"
 import {
+  type Condition as ConditionIn,
   covers as coversIn,
   locationOf,
-  parseMatch as parseMatchIn,
-  type Condition as ConditionIn,
   type Match as MatchIn,
-} from "./rules-engine.ts"
+  parseMatch as parseMatchIn,
+} from "@akasha/rules-engine/rule-conditions"
+import { emailRuleSet } from "./email-rule-set.ts"
 
 export interface RuleLocation {
   readonly person: string

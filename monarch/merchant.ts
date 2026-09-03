@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { normalize, parseVocabulary } from "../tools/lib/rules-normalizer.ts"
+import { normalize, parseVocabulary } from "@akasha/rules-engine/rule-vocabulary"
 import { pageFileIn } from "../page/page-file.ts"
 import { placeDirOf } from "../page/page-types.ts"
 import { descriptionOf, type Subject } from "./transaction.ts"

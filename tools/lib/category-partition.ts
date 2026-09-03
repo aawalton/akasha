@@ -1,9 +1,9 @@
-import { categoryRuleSet } from "./category-rule-set.ts"
-import { ruleFolder, parseMatch, ruleLocation } from "./category-rule.ts"
-import type { RepoView } from "./check.ts"
+import type { Case, Matchable } from "@akasha/rules-engine/rule-partition"
 import { refusalText } from "../../refusal/refusal.ts"
-import type { RuleSubject, Group, Meeting, Printers, Unreadable } from "./rules-subject.ts"
-import type { Case, Matchable } from "./rules-partition.ts"
+import { parseMatch, ruleFolder, ruleLocation } from "./category-rule.ts"
+import { categoryRuleSet } from "./category-rule-set.ts"
+import type { RepoView } from "./check.ts"
+import type { Group, Meeting, Printers, RuleSubject, Unreadable } from "./rules-subject.ts"
 
 export const TRANSACTIONS = "distinguishable transaction(s)"
 
