@@ -11,7 +11,11 @@ export const cutFingerprint = {
     {
       invariantKind: "departure",
       statement:
-        "The mobile-cut pages here are markdown files under pages/mobile-cut at the checkout root.",
+        "Every `mobile-cut` page is a TypeScript page in a folder of its own inside akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cut source that cannot be read raises rather than reading as no cut taken.",
     },
     {
       invariantKind: "absence",
@@ -45,7 +49,7 @@ export const cutFingerprint = {
     },
     {
       invariantKind: "departure",
-      statement: "A filed cut carries the id the cut's own address yields rather than a minted id.",
+      statement: "A filed cut mints its own id rather than deriving one from where it stands.",
     },
     {
       invariantKind: "departure",

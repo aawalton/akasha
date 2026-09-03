@@ -60,10 +60,5 @@ export const mobileCut = {
       invariantKind: "departure",
       statement: "A cut names the app it is of rather than repeating what that app is.",
     },
-    {
-      invariantKind: "gap",
-      statement:
-        "The cut fingerprint module reads and files cuts as markdown rather than from here.",
-    },
   ],
 } as const satisfies PageType

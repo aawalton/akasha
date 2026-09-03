@@ -1133,6 +1133,7 @@
       "name": "@akasha/mobile-cli",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
+        "@akasha/command-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/file-page-identity": "workspace:*",
         "@akasha/git": "workspace:*",
