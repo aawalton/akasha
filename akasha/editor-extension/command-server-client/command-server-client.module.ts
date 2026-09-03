@@ -32,6 +32,11 @@ export const commandServerClient = {
     {
       invariantKind: "departure",
       statement:
+        "A caller naming a lease bound replaces the server's number here rather than tightening it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "An answer older than the bound is refused here though the server let the answer through.",
     },
     {
