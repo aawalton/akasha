@@ -9,6 +9,7 @@
     "./harness-launch": "./harness-launch/harness-launch.module.code.ts",
     "./prewarm": "./prewarm/prewarm.module.code.ts",
     "./read-only-harness": "./read-only-harness/read-only-harness.module.code.ts",
+    "./storage-state-reading": "./storage-state-reading/storage-state-reading.module.code.ts",
     "./target-guard": "./target-guard/target-guard.module.code.ts",
     "./worktree-git-facts": "./worktree-git-facts/worktree-git-facts.module.code.ts"
   },
@@ -16,6 +17,7 @@
     "@akasha/browser-launch-env": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",
+    "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
   },
   "optionalDependencies": {
