@@ -11,7 +11,7 @@ const SUFFIX = ".json"
 
 // What the kept answers are allowed to stand in on disk. Answers worked out from different states
 // stand beside one another rather than replacing each other, so nothing in the writing path takes
-// an old state away and the set is bounded from outside it. services/sweep-page-answers.ts bounds
+// an old state away and the set is bounded from outside it. akasha/pages-system/page-answer-sweeping bounds
 // it in time, hourly, by taking away what has gone unused for a day. This bounds it in bytes,
 // because time alone is no bound when the churn is unbounded: a whole state's answers measured
 // 1.24MB in this checkout and a busy hour laid down 20.9MB of them, which is around 500MB in the
@@ -84,7 +84,10 @@ function standingAt(dir: string, name: string): Standing | null {
 // Only a finished answer is ever weighed or taken away. `writeFileAtomicSync` renames from
 // `<path>.tmp-<pid>-<random>`, and another checkout's write may be standing at one of those while
 // this runs, so a name that is not an answer is left alone rather than pulled out from under it.
-function looseIn(dir: string, held: string): { readonly total: number; readonly loose: Standing[] } {
+function looseIn(
+  dir: string,
+  held: string
+): { readonly total: number; readonly loose: Standing[] } {
   let names: readonly string[]
   try {
     names = readdirSync(dir)
