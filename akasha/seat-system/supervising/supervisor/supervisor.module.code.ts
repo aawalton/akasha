@@ -1,3 +1,4 @@
+import { shutdown } from "@akasha/seat-system/supervisor-lifecycle"
 import {
   getRestoreConsoleHandle,
   processes,
@@ -5,7 +6,6 @@ import {
   setShutdownSinkGetter,
 } from "@akasha/seat-system/supervisor-state"
 import { installSupervisorTerminalGuard } from "@akasha/seat-system/supervisor-terminal"
-import { shutdown } from "@tools/lib/supervisor-lifecycle"
 import { parseArgs } from "../supervisor-args/supervisor-args.module.code.ts"
 import { liveChildExitRule } from "../supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {

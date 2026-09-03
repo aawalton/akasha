@@ -18,8 +18,8 @@ import {
   SYSTEM_SOURCE,
   sendMessage,
 } from "@akasha/seat-system/supervisor-limit-resume-send"
-import { readOwnTranscriptTail } from "./agent-io-probe.ts"
-import { USER_ID } from "./user-id.ts"
+import { readOwnTranscriptTail } from "@tools/lib/agent-io-probe"
+import { USER_ID } from "@tools/lib/user-id"
 
 export { type AskDecide, LIMIT_RESUME_DECISION }
 

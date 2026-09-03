@@ -167,6 +167,11 @@ export const seatSystem = {
     "module/supervisor-proxy-adoption-rule",
     "module/supervisor-proxy-liveness-rule",
     "module/supervisor-session-project-dir",
+    "module/supervisor-lifecycle",
+    "module/supervisor-limit-resume",
+    "module/supervisor-monitors-wire",
+    "module/supervisor-precliff-restart",
+    "module/supervisor-proxy-liveness",
   ],
   invariants: [
     {

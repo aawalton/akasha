@@ -8,9 +8,9 @@ import { handleVersionUpdate } from "@akasha/seat-system/supervisor-self-heal"
 import { SUPERVISOR_SCRIPT } from "@akasha/seat-system/supervisor-self-heal-state"
 import { getAgentActionHandler, getOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import { startWaitResumeMonitor } from "@akasha/seat-system/supervisor-wait-resume"
-import { computeModelGatewayTreeVersion } from "./model-gateway-tree-version.ts"
-import { startLimitResumeMonitor } from "./supervisor-limit-resume.ts"
-import { startProxyLivenessMonitor } from "./supervisor-proxy-liveness.ts"
+import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
+import { startLimitResumeMonitor } from "../supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
+import { startProxyLivenessMonitor } from "../supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"
 
 export type PerAgentMonitors = {
   heartbeatTimer: ReturnType<typeof setInterval>

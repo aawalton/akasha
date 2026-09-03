@@ -9,6 +9,7 @@ import {
   resolveProxyOwnerAgentId,
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "@akasha/seat-system/supervisor-handoff-env"
+import { startPerAgentMonitors } from "@akasha/seat-system/supervisor-monitors-wire"
 import { installProxyVersionSubsystem } from "@akasha/seat-system/supervisor-proxy-version"
 import {
   AGENT_MODE_HEADLESS,
@@ -25,7 +26,6 @@ import {
 import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
 import { claimSeatSupervision } from "@tools/lib/seat-supervisor-claim"
 import { shape } from "@tools/lib/shape"
-import { startPerAgentMonitors } from "@tools/lib/supervisor-monitors-wire"
 import { toolRestrictions } from "@tools/lib/tool-access"
 import type {
   InteractiveBootArgs,

@@ -9,6 +9,7 @@ import { wireSessionRotatedWatcher } from "@akasha/seat-system/supervisor-clear-
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
 import { liveDeferredRestartRule } from "@akasha/seat-system/supervisor-deferred-restart-rule"
+import { startPreCliffRestartMonitor } from "@akasha/seat-system/supervisor-precliff-restart"
 import { askPreCliffRestart } from "@akasha/seat-system/supervisor-precliff-restart-rule"
 import { triggerProxySwap } from "@akasha/seat-system/supervisor-proxy-version"
 import type { ClearRebindHooks } from "@akasha/seat-system/supervisor-rebind"
@@ -20,7 +21,6 @@ import {
   setObservedChildExit,
 } from "@akasha/seat-system/supervisor-state"
 import type { AgentProcess, InheritedProc } from "@akasha/seat-system/supervisor-types"
-import { startPreCliffRestartMonitor } from "@tools/lib/supervisor-precliff-restart"
 import { liveIdleRule } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import type { InteractiveSessionBoot } from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 

@@ -3,7 +3,7 @@ import type {
   PreCliffObservation,
   PreCliffRestartRuleSource,
 } from "@akasha/seat-system/supervisor-precliff-restart-rule"
-import { requestedActionOf } from "./seat-control.ts"
+import { requestedActionOf } from "@tools/lib/seat-control"
 
 const PRECLIFF_INTERVAL_MS = 60_000
 
