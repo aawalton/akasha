@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const prayer = {
   id: "01a06594-c67c-7005-88c7-e28450d30ba1",
