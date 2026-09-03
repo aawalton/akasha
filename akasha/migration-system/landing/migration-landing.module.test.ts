@@ -1,14 +1,32 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { existsSync, mkdirSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Composed, Landing } from "./migration-landing.module.code.ts"
 import {
   batchesOf,
+  emptiedUnder,
   messageFor,
   migrationLanded,
   mistakenIn,
   unitsOf,
 } from "./migration-landing.module.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+function heard(): { readonly lines: string[]; readonly saying: (line: string) => undefined } {
+  const lines: string[] = []
+  return {
+    lines,
+    saying: (line: string): undefined => {
+      lines.push(line)
+    },
+  }
+}
 
 const LANDED: Answer = { report: ["committed as abc"], refusals: [], code: 0 }
 
@@ -149,7 +167,7 @@ test("a batch refused leaves the batches before it landed", () => {
   expect(said.code).toBe(1)
 })
 
-test("three batches refused in a row stop the migration and say so", () => {
+test("three batches refused stop the migration and say so", () => {
   const held = takingDown([REFUSED, REFUSED, REFUSED, LANDED])
   const said = migrationLanded("/root", {
     calledAs: "test",
@@ -157,12 +175,13 @@ test("three batches refused in a row stop the migration and say so", () => {
     composed: composedOf(8),
     files: 2,
     landing: held.landing,
+    saying: heard().saying,
   })
   expect(held.asked.length).toBe(3)
-  expect(said.halted).toContain("3 batches in a row were refused")
+  expect(said.halted).toContain("3 of 4 batches were refused")
 })
 
-test("a batch that landed clears the count of those refused in a row", () => {
+test("a batch that landed does not clear the count of those refused", () => {
   const held = takingDown([REFUSED, REFUSED, LANDED, REFUSED, REFUSED])
   const said = migrationLanded("/root", {
     calledAs: "test",
@@ -170,8 +189,75 @@ test("a batch that landed clears the count of those refused in a row", () => {
     composed: composedOf(10),
     files: 2,
     landing: held.landing,
+    saying: heard().saying,
   })
-  expect(held.asked.length).toBe(5)
-  expect(said.halted).toBe(null)
-  expect(said.refused.length).toBe(4)
+  expect(held.asked.length).toBe(4)
+  expect(said.halted).toContain("3 of 5 batches were refused")
+  expect(said.refused.length).toBe(3)
+})
+
+test("a refused batch is said to a caller that reads nothing back", () => {
+  const held = takingDown([LANDED, REFUSED, LANDED])
+  const told = heard()
+  migrationLanded("/root", {
+    calledAs: "test",
+    subject: "one",
+    composed: composedOf(6),
+    files: 2,
+    landing: held.landing,
+    saying: told.saying,
+  })
+  expect(told.lines.some((one) => one.includes("batch 2 of 3 was refused"))).toBe(true)
+  expect(told.lines.some((one) => one.includes("this migration is partial"))).toBe(true)
+})
+
+test("a migration every batch of which lands says nothing", () => {
+  const held = takingDown([])
+  const told = heard()
+  migrationLanded("/root", {
+    calledAs: "test",
+    subject: "one",
+    composed: composedOf(4),
+    files: 2,
+    landing: held.landing,
+    saying: told.saying,
+  })
+  expect(told.lines).toEqual([])
+})
+
+test("a body composed twice is said as well as answered", () => {
+  const told = heard()
+  migrationLanded("/root", {
+    calledAs: "test",
+    subject: "one",
+    composed: [
+      { path: "one.ts", body: "a" },
+      { path: "one.ts", body: "b" },
+    ],
+    landing: takingDown([]).landing,
+    saying: told.saying,
+  })
+  expect(told.lines.some((one) => one.includes("composed twice"))).toBe(true)
+})
+
+test("a directory a refused batch left holding nothing is taken away", () => {
+  const root = scratch.rootFor("migration-landing-")
+  mkdirSync(join(root, "pages", "one"), { recursive: true })
+  const swept = emptiedUnder(root, ["pages/one/a.ts"])
+  expect(swept).toEqual([join("pages", "one"), "pages"])
+  expect(existsSync(join(root, "pages"))).toBe(false)
+})
+
+test("a directory still holding something is left alone", () => {
+  const root = scratch.rootFor("migration-landing-")
+  mkdirSync(join(root, "pages", "one"), { recursive: true })
+  writeFileSync(join(root, "pages", "one", "kept.ts"), "x")
+  expect(emptiedUnder(root, ["pages/one/a.ts"])).toEqual([])
+  expect(existsSync(join(root, "pages", "one"))).toBe(true)
+})
+
+test("the root itself is never taken away", () => {
+  const root = scratch.rootFor("migration-landing-")
+  expect(emptiedUnder(root, ["a.ts"])).toEqual([])
+  expect(existsSync(root)).toBe(true)
 })

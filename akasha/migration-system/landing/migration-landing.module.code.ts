@@ -1,5 +1,5 @@
-import { existsSync, readFileSync } from "node:fs"
-import { join } from "node:path"
+import { existsSync, readdirSync, readFileSync, rmdirSync } from "node:fs"
+import { dirname, join, relative, resolve, sep } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
 import type { Answer } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
@@ -27,6 +27,8 @@ export type Landing = (
   message: string
 ) => Answer
 
+export type Saying = (line: string) => undefined
+
 export type Migration = {
   readonly calledAs: string
   readonly subject: string
@@ -35,6 +37,7 @@ export type Migration = {
   readonly bytes?: number
   readonly haltAfter?: number
   readonly landing?: Landing
+  readonly saying?: Saying
 }
 
 export type Batch = {
@@ -55,6 +58,7 @@ export type Migrated = {
   readonly batches: readonly Said[]
   readonly refused: readonly Said[]
   readonly mistaken: readonly string[]
+  readonly swept: readonly string[]
   readonly halted: string | null
   readonly code: number
 }
@@ -71,6 +75,32 @@ export function editOf(one: Composed): FileEdit {
 export function weightOf(one: Composed): number {
   const body = bodyOf(one)
   return body === null ? 0 : body.byteLength
+}
+
+export function toStandardError(line: string): undefined {
+  process.stderr.write(`${line}\n`)
+}
+
+export function emptiedUnder(root: string, paths: readonly string[]): readonly string[] {
+  const top = resolve(root)
+  const swept: string[] = []
+  const seen = new Set<string>()
+  for (const path of paths) {
+    let at = dirname(resolve(top, path))
+    while (at !== top && at.startsWith(`${top}${sep}`)) {
+      if (seen.has(at)) break
+      seen.add(at)
+      if (!existsSync(at)) {
+        at = dirname(at)
+        continue
+      }
+      if (readdirSync(at).length > 0) break
+      rmdirSync(at)
+      swept.push(relative(top, at))
+      at = dirname(at)
+    }
+  }
+  return swept
 }
 
 export function mistakenIn(composed: readonly Composed[]): readonly string[] {
@@ -180,9 +210,12 @@ export function readBack(root: string, composed: readonly Composed[]): ReadBack 
 }
 
 export function migrationLanded(root: string, asked: Migration): Migrated {
+  const saying = asked.saying ?? toStandardError
   const mistaken = mistakenIn(asked.composed)
   if (mistaken.length > 0) {
-    return { landed: [], batches: [], refused: [], mistaken, halted: null, code: 1 }
+    for (const one of mistaken) saying(`migration ${asked.subject}: ${one}`)
+    saying(`migration ${asked.subject}: nothing landed, and every body was left composed`)
+    return { landed: [], batches: [], refused: [], mistaken, swept: [], halted: null, code: 1 }
   }
   const landing = asked.landing ?? landedMechanically
   const halts = asked.haltAfter ?? HALTS
@@ -190,7 +223,7 @@ export function migrationLanded(root: string, asked: Migration): Migrated {
   const said: Said[] = []
   const refused: Said[] = []
   const landed: string[] = []
-  let running = 0
+  const swept: string[] = []
   let halted: string | null = null
   for (const [index, held] of batches.entries()) {
     const at = index + 1
@@ -202,20 +235,34 @@ export function migrationLanded(root: string, asked: Migration): Migrated {
     said.push(one)
     if (answer.code === LANDED) {
       landed.push(...paths)
-      running = 0
       continue
     }
     refused.push(one)
-    running += 1
-    if (running < halts) continue
-    halted = `${running} batches in a row were refused, so the rest of ${asked.subject} was left alone`
+    const many = `${paths.length} file${paths.length === 1 ? "" : "s"}`
+    saying(
+      `migration ${asked.subject}: batch ${at} of ${batches.length} was refused answering ${answer.code}, and ${many} did not land`
+    )
+    for (const line of one.said) saying(`migration ${asked.subject}:   ${line}`)
+    for (const gone of emptiedUnder(root, paths)) {
+      swept.push(gone)
+      saying(`migration ${asked.subject}: ${gone} was left holding nothing and was taken away`)
+    }
+    if (refused.length < halts) continue
+    halted = `${refused.length} of ${batches.length} batches were refused, so the rest of ${asked.subject} was left alone`
+    saying(`migration ${asked.subject}: ${halted}`)
     break
+  }
+  if (refused.length > 0) {
+    saying(
+      `migration ${asked.subject}: ${landed.length} of ${asked.composed.length} files landed and ${refused.length} of ${batches.length} batches were refused, so this migration is partial`
+    )
   }
   return {
     landed,
     batches: said,
     refused,
     mistaken: [],
+    swept,
     halted,
     code: refused.length === 0 ? 0 : 1,
   }

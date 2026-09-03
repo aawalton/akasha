@@ -43,7 +43,7 @@ export const migrationSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "The migration handed in may state `haltAfter` or `landing`.",
+      statement: "The migration handed in may state `haltAfter` or `landing` or `saying`.",
     },
     {
       invariantKind: "departure",
@@ -65,6 +65,14 @@ export const migrationSystem = {
     {
       invariantKind: "departure",
       statement: "A landing is never believed from the code a landing answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing says on standard error every batch that landing refused.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A migration that says nothing landed every batch of that migration.",
     },
     {
       invariantKind: "departure",

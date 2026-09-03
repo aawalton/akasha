@@ -78,7 +78,19 @@ export const migrationLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "Three batches refused in a row stop the migration.",
+      statement: "Three batches refused stop the migration.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The three are counted across the whole migration rather than in a row.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`haltAfter` is that count.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller may state another count.",
     },
     {
       invariantKind: "departure",
@@ -86,7 +98,48 @@ export const migrationLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A batch that landed clears the count of batches refused in a row.",
+      statement: "A batch that lands does not clear the count of batches already refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch refused is said on standard error as that batch is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a refused batch answered is said under the batch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A migration that refused a batch closes by saying the migration is partial.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller that reads nothing back still learns that a migration was partial.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A migration every batch of which lands says nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller may hand in `saying` to take the said lines instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A directory a refused batch left holding nothing is taken away and named among `swept`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A directory holding a file or a directory is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root itself is never taken away.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An empty directory is no record of a folder somebody started.",
     },
     {
       invariantKind: "departure",
