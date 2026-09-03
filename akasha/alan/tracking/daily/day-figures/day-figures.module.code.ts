@@ -8,12 +8,12 @@ import { checkFormula, type DeclaredType, type Shape } from "@akasha/pages-formu
  * name rather than left out of the shape: a key missing from the shape reads exactly like a key
  * misspelt in a formula, and the two want opposite answers.
  */
-export const KIND_OF: Readonly<Record<string, DeclaredType["kind"]>> = {
-  "number-property": "number",
-  "text-property": "text",
-  "boolean-property": "boolean",
-  "instant-property": "instant",
-  "calendar-date-property": "date",
+export const KIND_OF: Readonly<Record<string, DeclaredType>> = {
+  "number-property": { kind: "number" },
+  "text-property": { kind: "text" },
+  "boolean-property": { kind: "boolean" },
+  "instant-property": { kind: "instant" },
+  "calendar-date-property": { kind: "date" },
 }
 
 /** The sorts of part that carry no value a formula can read, and so stand outside the shape. */

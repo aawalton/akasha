@@ -56,7 +56,7 @@ describe("the figures a wake day works out", () => {
 
   test("a sort of property with no kind written down is refused rather than dropped", () => {
     expect(() => shapeOf(["no-such-property/whatever"])).toThrow(/no kind is written down/)
-    expect(KIND_OF["number-property"]).toBe("number")
+    expect(KIND_OF["number-property"]).toEqual({ kind: "number" })
   })
 
   test("a figure reading a key no day carries is refused", () => {
