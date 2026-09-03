@@ -7,6 +7,7 @@
     "./answer-mark": "./answer-mark/answer-mark.module.code.ts",
     "./data-place": "./data-place/data-place.module.code.ts",
     "./exclusive": "./exclusive/exclusive.module.code.ts",
-    "./lock-holder": "./lock-holder/lock-holder.module.code.ts"
+    "./lock-holder": "./lock-holder/lock-holder.module.code.ts",
+    "./lock-holder-runs": "./lock-holder-runs/lock-holder-runs.module.code.ts"
   }
 }

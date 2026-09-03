@@ -1,6 +1,5 @@
-
 import { writeFileSync } from "node:fs"
-import { gitBytes } from "../git/git.ts"
+import { gitBytes } from "@akasha/git/git-capping"
 
 export function difference(prior: string, now: string, workspace: string): string | null {
   const base = `${workspace}/base`
@@ -12,5 +11,7 @@ export function difference(prior: string, now: string, workspace: string): strin
   const lines = new TextDecoder().decode(run.stdout).split("\n")
   const at = lines.findIndex((line) => line.startsWith("@@ "))
   if (at === -1) return null
-  return ["--- as you last read it", "+++ as it stands now", ...lines.slice(at)].join("\n").trimEnd()
+  return ["--- as you last read it", "+++ as it stands now", ...lines.slice(at)]
+    .join("\n")
+    .trimEnd()
 }

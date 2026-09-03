@@ -1,7 +1,7 @@
-import { provision, type StoreVariant } from "./benchmark-code.ts"
-import { git } from "../../repo/git/git.ts"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { git } from "@akasha/git/git-capping"
 import { type Hostname, hostnameSelector } from "@akasha/k8s-types/hostnames"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { provision, type StoreVariant } from "./benchmark-code.ts"
 
 const DEFAULT_NAMESPACE = "ci"
 

@@ -8,7 +8,11 @@
     "./git-running": "./running/git-running.module.code.ts",
     "./porcelain-status": "./porcelain-status/porcelain-status.module.code.ts",
     "./porcelain-status-reading": "./porcelain-status-reading/porcelain-status-reading.module.code.ts",
-    "./tree-sha": "./tree-sha/tree-sha.module.code.ts"
+    "./tree-sha": "./tree-sha/tree-sha.module.code.ts",
+    "./git-committing": "./git-committing/git-committing.module.code.ts",
+    "./git-landing-lock": "./git-landing-lock/git-landing-lock.module.code.ts",
+    "./git-pathspec": "./git-pathspec/git-pathspec.module.code.ts",
+    "./git-pushing": "./git-pushing/git-pushing.module.code.ts"
   },
   "dependencies": {
     "@akasha/code-system": "workspace:*",

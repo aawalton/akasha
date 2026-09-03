@@ -9,13 +9,15 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname } from "node:path"
-import { commitAuthor } from "../../agent/commit-author.ts"
 import { exclusively } from "@akasha/file-system/exclusive"
-import { patchAside } from "./body-aside.ts"
-import { GATED } from "../../patches/patch.ts"
-import { commitPaths, gitAskingPaths, gitIgnoring, heldByRepo, whileHoldingLanding } from "../git/git.ts"
-import { handOffPush, pushStandingLines } from "../push/push.ts"
+import { commitPaths } from "@akasha/git/git-committing"
+import { whileHoldingLanding } from "@akasha/git/git-landing-lock"
+import { gitAskingPaths, gitIgnoring, heldByRepo } from "@akasha/git/git-pathspec"
 import { AKASHA } from "@akasha/pages-system/checkout-roots"
+import { commitAuthor } from "../../agent/commit-author.ts"
+import { GATED } from "../../patches/patch.ts"
+import { handOffPush, pushStandingLines } from "../push/push.ts"
+import { patchAside } from "./body-aside.ts"
 
 const SHEBANG = "#!"
 
@@ -155,7 +157,10 @@ export function landFiles(one: Landings): Landed {
       : mechanical === false
         ? []
         : entries.filter((held) => mechanical.has(held.relPath))
-  const touching = [...entries.map((held) => held.relPath), ...composing.map((held) => held.relPath)]
+  const touching = [
+    ...entries.map((held) => held.relPath),
+    ...composing.map((held) => held.relPath),
+  ]
   const unheld = strayed(root, removing)
   if (unheld === null) {
     throw new LandingRefused(gitCouldNotSay(`what history holds of ${removing.join(", ")}`))
@@ -225,7 +230,9 @@ export function landFiles(one: Landings): Landed {
     ...wrote,
     ...alongside,
     ...gone,
-    ...carrying.filter((held) => carriedHeld.has(held.from)).flatMap((held) => [held.from, held.to]),
+    ...carrying
+      .filter((held) => carriedHeld.has(held.from))
+      .flatMap((held) => [held.from, held.to]),
   ]
   let sha: string | null
   try {
@@ -298,7 +305,11 @@ export function land(
       before: byteSize(`${root}/${entry.relPath}`),
       after: byteCount(entry.body),
     })),
-    ...removing.map((relPath) => ({ relPath, before: byteSize(`${root}/${relPath}`), after: null })),
+    ...removing.map((relPath) => ({
+      relPath,
+      before: byteSize(`${root}/${relPath}`),
+      after: null,
+    })),
   ]
   const carriedLines = carrying.map((held) => `        ${held.from}  carried to ${held.to}`)
   if (dryRun) {
@@ -334,7 +345,9 @@ export function land(
       ...carriedLines,
       ...(landed.unheld.length === 0
         ? []
-        : [`        NO HISTORY HOLDS WHAT WENT AT ${landed.unheld.join(", ")}, which git never tracked`]),
+        : [
+            `        NO HISTORY HOLDS WHAT WENT AT ${landed.unheld.join(", ")}, which git never tracked`,
+          ]),
       landed.sha === null
         ? "commit: nothing to commit — the repo already held this"
         : `commit: ${landed.sha}`,

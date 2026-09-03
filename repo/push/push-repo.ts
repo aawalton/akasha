@@ -1,4 +1,5 @@
-import { git, pushBranch, remoteOf } from "../git/git.ts"
+import { git } from "@akasha/git/git-capping"
+import { pushBranch, remoteOf } from "@akasha/git/git-pushing"
 import { releasePushLock, takePushLock, writePushState } from "./push.ts"
 
 const PUSH_CEILING_MS = 120_000

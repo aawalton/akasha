@@ -1,9 +1,9 @@
-import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { git } from "@akasha/git/git-capping"
+import { secretAt } from "@akasha/pages-system/page-file-name"
+import { type Secrets, secretsIn } from "@akasha/pages-system/page-secret"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
 import { parseAllDocuments, stringify } from "yaml"
-import { git } from "../../repo/git/git.ts"
-import { sidecarFor, valuesIn } from "../../tools/lib/page-secret.ts"
 import type { Plan } from "../deploy/deploy.ts"
 import { type Ran, runKubectlOn } from "../kubectl/kubectl.ts"
 import { DeployRefused } from "../refusal/refusal.ts"
@@ -110,21 +110,22 @@ function placedAt(pages: readonly SecretPage[]): ReadonlyMap<string, SecretPage>
 }
 
 function valueOf(akasha: string, page: SecretPage): string {
-  const sidecar = sidecarFor(page.relPath)
+  const sidecar = secretAt(page.relPath)
   if (sidecar === null) {
     throw new DeployRefused(`${page.relPath} is not a page, so no sops file names its value`)
   }
-  let cipher: string
+  let read: Secrets | null
   try {
-    cipher = readFileSync(join(akasha, sidecar), "utf8")
-  } catch {
+    read = secretsIn(akasha, page.relPath)
+  } catch (thrown) {
+    throw new DeployRefused(thrown instanceof Error ? thrown.message : String(thrown))
+  }
+  if (read === null) {
     throw new DeployRefused(
       `${page.slug} places a value in ${page.resourceName} under ${page.resourceKey}, and ${sidecar} does not exist, so it holds no value to place`
     )
   }
-  const read = valuesIn(akasha, sidecar, cipher)
-  if (read.values === null) throw new DeployRefused(read.why)
-  const held = read.values.get(VALUE_KEY)
+  const held = read.get(VALUE_KEY)
   if (held === undefined) {
     throw new DeployRefused(
       `${sidecar} carries no \`${VALUE_KEY}\`, which is the key a secret page keeps its value under`
