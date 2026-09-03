@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { readingIn, valuesOfType, type Valued } from "@akasha/indexes"
+import { readingIn, type Valued, valuesOfType } from "@akasha/indexes"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { slugAt, textAt, type Value } from "@akasha/pages-system/page-value"
 import { sayAnswer } from "./lib/answer.ts"
@@ -26,9 +26,9 @@ declares; then the property pages themselves, under the kind of property each on
 A property carrying properties of its own — a record, an entry — holds those beneath it
 in the second tree, which is the only place they can hang.
 
-A PROPERTY IS NAMED BARE WHERE THAT IS UNAMBIGUOUS AND \`kind/slug\` WHERE IT IS NOT,
-which is the rule a page type's own \`pagePropertySlug\` is written by. One slug in this
-corpus needs it.
+A PROPERTY IS NAMED BARE WHERE THAT IS UNAMBIGUOUS AND \`kind/slug\` WHERE IT IS NOT.
+One slug here needs the longer form. A declaration reaches its property under either
+name, because a slug doubled when the declaration was written is often single by now.
 
   --help  This.
 `
@@ -109,14 +109,35 @@ function propertyKindsIn(types: ReadonlyMap<string, Value>): ReadonlySet<string>
   return found
 }
 
-// A PROPERTY'S NAME, bare where one page carries the slug and `kind/slug` where two do. This is
-// the rule akasha writes `pagePropertySlug` by — the one ambiguous slug in this corpus is written
-// qualified in every declaration naming it — so reading and writing follow the same rule, and a
-// name resolves to the page it was written for rather than to whichever kind was read first.
+// A PROPERTY'S NAME AS THIS TREE WRITES IT, bare where one page carries the slug and `kind/slug`
+// where two do, so the tree shows the shorter name wherever the shorter name is unambiguous. This
+// says how a property is named here and not which names reach it — `reachOver` says that.
 function namingOver(held: readonly Held[]): (kind: string, slug: string) => string {
   const carried = new Map<string, number>()
   for (const one of held) carried.set(one.slug, (carried.get(one.slug) ?? 0) + 1)
   return (kind, slug) => ((carried.get(slug) ?? 0) > 1 ? `${kind}/${slug}` : slug)
+}
+
+// EITHER NAME REACHES A PROPERTY, the bare slug or `kind/slug`, which is the grammar `reaches`
+// already holds every other relation value to. What broke here was keying what is accepted off
+// how many pages carry the slug today: a declaration is written qualified while the slug is
+// doubled, and a later landing that drops the double leaves that name written and still correct.
+// So every landing that de-duplicated a property slug made each declaration naming it a refusal
+// here, and the count grew with the cleanup rather than with any bad declaration. A qualified
+// name that narrows to two pages is refused rather than resolved to one of them.
+function reachOver(held: readonly Held[]): (named: string) => Held | undefined {
+  const byBare = new Map<string, Held>()
+  for (const one of held) if (!byBare.has(one.slug)) byBare.set(one.slug, one)
+  const byQualified = new Map<string, Held[]>()
+  for (const one of held) {
+    const at = `${one.kind}/${one.slug}`
+    byQualified.set(at, [...(byQualified.get(at) ?? []), one])
+  }
+  return (named) => {
+    const found = byQualified.get(named)
+    if (found !== undefined) return found.length === 1 ? found[0] : undefined
+    return byBare.get(named)
+  }
 }
 
 function baseOf(kind: string): string {
@@ -131,11 +152,12 @@ function baseOf(kind: string): string {
 function typeOf(one: Held, said: Declaration): string {
   const target = slugAt(one.value, "targetPageTypeSlug")
   const format = slugAt(one.value, "nameFormatSlug")
-  const inner = target !== null
-    ? `${baseOf(one.kind)}(${target})`
-    : format !== null
-      ? `${baseOf(one.kind)}(${format})`
-      : baseOf(one.kind)
+  const inner =
+    target !== null
+      ? `${baseOf(one.kind)}(${target})`
+      : format !== null
+        ? `${baseOf(one.kind)}(${format})`
+        : baseOf(one.kind)
   const bound = said.max === undefined || said.max === null ? "" : `, max ${said.max}`
   const listed = said.many === true ? `list(${inner}${bound})` : inner
   return said.required === true ? listed : `${listed} | none`
@@ -168,11 +190,7 @@ export function answersFrom(
     }
   }
   const naming = namingOver(held)
-  const byName = new Map(held.map((one) => [naming(one.kind, one.slug), one]))
-  const byBare = new Map<string, Held>()
-  for (const one of held) if (!byBare.has(one.slug)) byBare.set(one.slug, one)
-
-  const reach = (named: string): Held | undefined => byName.get(named) ?? byBare.get(named)
+  const reach = reachOver(held)
 
   const types: Row[] = []
   for (const one of pageTypes) {
@@ -221,7 +239,7 @@ export function answersFrom(
   if (unresolved.length > 0) {
     throw new Error(
       `the index answered ${unresolved.length} declaration(s) naming no property page: ` +
-      unresolved.sort().join("; ")
+        unresolved.sort().join("; ")
     )
   }
 
