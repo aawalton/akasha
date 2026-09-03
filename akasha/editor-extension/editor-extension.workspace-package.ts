@@ -28,6 +28,7 @@ export const editorExtension = {
     "module/terminal-lookup",
     "module/harness-call",
     "module/terminal-pids",
+    "module/subagent-core",
   ],
   invariants: [
     {
