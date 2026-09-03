@@ -23,10 +23,13 @@ export async function mirroredWindow(window?: FetchedWindow): Promise<readonly M
   const rows: MirroredRow[] = []
   for (const month of await readMonths(monthsOver(window, await monthSlugs()))) {
     for (const line of month.transactions) {
-      if (window !== undefined && (line.date < window.startDate || line.date > window.endDate)) {
+      if (
+        window !== undefined &&
+        (line.transactionDay < window.startDate || line.transactionDay > window.endDate)
+      ) {
         continue
       }
-      rows.push({ monarchId: line["monarch-id"], updatedAt: line["updated-at"] ?? null })
+      rows.push({ monarchId: line.monarchId, updatedAt: line.monarchUpdatedAt ?? null })
     }
   }
   return rows
@@ -36,7 +39,7 @@ export async function pendingIds(): Promise<readonly string[]> {
   const held: string[] = []
   for (const month of await readMonths()) {
     for (const line of month.transactions) {
-      if (line.pending === true) held.push(line["monarch-id"])
+      if (line.pending === true) held.push(line.monarchId)
     }
   }
   return held

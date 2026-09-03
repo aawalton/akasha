@@ -1,9 +1,4 @@
-import { readFile } from "node:fs/promises"
-import { newPageNameFor } from "../page/page-types.ts"
-import { registryOf } from "../page/property/registry.ts"
-import { diskFileTree } from "../page/file-tree.ts"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { join } from "node:path"
+import { exportedAs, typedAs } from "@akasha/pages-system/page-export-name"
 import type { MonarchAccount, MonarchCategory, MonarchHolding, MonarchTag } from "./client.ts"
 import {
   ACCOUNT_FOLDER,
@@ -22,12 +17,8 @@ import { through } from "./land-files.ts"
 
 export type Value = string | number | boolean
 
-const BARE = /^[a-z][a-z0-9-]*$/
-const YAML_WORDS = new Set(["true", "false", "null", "yes", "no", "on", "off", "y", "n"])
-
-function quoted(value: Value): string {
-  if (typeof value === "number" || typeof value === "boolean") return String(value)
-  if (BARE.test(value) && !YAML_WORDS.has(value)) return value
+function written(value: unknown): string {
+  if (Array.isArray(value)) return `[${value.map((one) => written(one)).join(", ")}]`
   return JSON.stringify(value)
 }
 
@@ -50,22 +41,43 @@ function disambiguated(base: string, monarchId: string, taken: ReadonlySet<strin
   return `${stem}-${monarchId.slice(-6)}`
 }
 
-export function withFrontmatter(text: string, values: Readonly<Record<string, Value>>): string {
-  const lines = text.split("\n")
-  if (lines[0] !== "---") throw new Error("this page carries no frontmatter to write into")
-  const close = lines.indexOf("---", 1)
-  if (close === -1) throw new Error("this page's frontmatter never closes")
-  const head = lines.slice(1, close)
-  const left = new Map(Object.entries(values))
-  const written = head.map((line) => {
-    const name = /^([a-z0-9-]+):/.exec(line)?.[1]
-    if (name === undefined || !left.has(name)) return line
-    const held = left.get(name) as Value
-    left.delete(name)
-    return `${name}: ${quoted(held)}`
-  })
-  for (const [name, held] of left) written.push(`${name}: ${quoted(held)}`)
-  return ["---", ...written, "---", ...lines.slice(close + 1)].join("\n")
+/** The keys a page states, in the order a page states them. */
+const AHEAD = ["id", "pageTypeSlug", "slug", "title", "definition", "monarchId"]
+
+function ordered(value: Readonly<Record<string, unknown>>): readonly string[] {
+  const rest = Object.keys(value).filter((key) => !AHEAD.includes(key))
+  return [...AHEAD.filter((key) => key in value), ...rest]
+}
+
+/**
+ * A page is one TypeScript file holding one exported object named for the page's slug. This
+ * composes the whole body rather than patching a line of it, because there is no frontmatter to
+ * patch any more: what a page states, it states in that one object.
+ */
+/** The width the formatter wraps a line at, stated once in `biome.json`. */
+const WIDTH = 100
+
+/** A value whose line runs past the width stands on a line of its own, as the formatter puts it. */
+function stated(key: string, value: unknown): readonly string[] {
+  const said = written(value)
+  const one = `  ${key}: ${said},`
+  return one.length <= WIDTH ? [one] : [`  ${key}:`, `    ${said},`]
+}
+
+export function pageText(
+  pageTypeSlug: string,
+  value: Readonly<Record<string, unknown>>
+): string {
+  const slug = String(value.slug)
+  const lines = ordered(value).flatMap((key) => stated(key, value[key]))
+  return [
+    `import type { ${typedAs(pageTypeSlug)} } from "../${pageTypeSlug}.page-type.ts"`,
+    "",
+    `export const ${exportedAs(slug)} = {`,
+    ...lines,
+    `} as const satisfies ${typedAs(pageTypeSlug)}`,
+    "",
+  ].join("\n")
 }
 
 export interface Wanted {
@@ -77,20 +89,15 @@ export interface Wanted {
 }
 
 function minted(pageTypeSlug: string, slug: string, wanted: Wanted, defined: boolean): string {
-  const keys = Object.entries(wanted.values).map(([name, held]) => `${name}: ${quoted(held)}`)
-  const head = [
-    "---",
-    `page-type-slug: ${pageTypeSlug}`,
-    `title: ${JSON.stringify(wanted.title)}`,
-    `slug: ${quoted(slug)}`,
-    ...(defined ? [`domain-parent-slug: ${pageTypeSlug}`] : []),
-    `monarch-id: ${JSON.stringify(wanted.monarchId)}`,
-    ...keys,
-    "---",
-    "",
-  ]
-  if (!defined) return head.join("\n")
-  return [...head, "# Definition", "", `- **${wanted.title}** — ${wanted.definition}`, ""].join("\n")
+  return pageText(pageTypeSlug, {
+    id: Bun.randomUUIDv7(),
+    pageTypeSlug,
+    slug,
+    title: wanted.title,
+    ...(defined ? { definition: wanted.definition } : {}),
+    monarchId: wanted.monarchId,
+    ...wanted.values,
+  })
 }
 
 export interface Landing {
@@ -101,8 +108,7 @@ export interface Landing {
 }
 
 function namedForType(pageTypeSlug: string, slug: string): string {
-  const type = registryOf(diskFileTree(resolveRoots())).find((one) => one.slug === pageTypeSlug)
-  return type === undefined ? `${slug}.md` : newPageNameFor(type, slug)
+  return `${slug}.${pageTypeSlug}.ts`
 }
 
 export async function landing(
@@ -116,7 +122,7 @@ export async function landing(
   const taken = new Set<string>()
   for (const page of standing) {
     taken.add(page.slug)
-    const id = keyOf(page, "monarch-id")
+    const id = keyOf(page, "monarchId")
     if (id !== null && id !== "") byMonarchId.set(id, page)
   }
   const items: WriteItem[] = []
@@ -144,10 +150,10 @@ export async function landing(
       if (keyOf(page, name) !== String(held)) drifted[name] = held
     }
     if (Object.keys(drifted).length === 0) continue
-    const before = await readFile(join(page.root, page.path), "utf8")
-    const after = withFrontmatter(before, drifted)
-    if (after === before) continue
-    items.push({ file_path: page.path, content: after })
+    items.push({
+      file_path: page.path,
+      content: pageText(pageTypeSlug, { ...page.value, ...drifted }),
+    })
     moved.push(`${page.slug} (${Object.keys(drifted).join(", ")})`)
   }
   return { items, minted: made, changed: moved, slugs }
@@ -159,12 +165,12 @@ export function accountWanted(a: MonarchAccount): Wanted {
     title: a.displayName,
     slugFrom: a.displayName,
     values: {
-      "display-name": a.displayName,
-      "current-balance": a.currentBalance,
-      "type-name": a.typeName,
+      accountDisplayName: a.displayName,
+      currentBalance: a.currentBalance,
+      accountType: a.typeName,
       asset: a.isAsset,
-      active: a.deactivatedAt === null && !a.syncDisabled,
-      hidden: a.isHidden,
+      accountActive: a.deactivatedAt === null && !a.syncDisabled,
+      accountHidden: a.isHidden,
     },
     definition: `one balance Monarch reports as ${a.typeName}.`,
   }
@@ -172,8 +178,8 @@ export function accountWanted(a: MonarchAccount): Wanted {
 
 export function categoryWanted(c: MonarchCategory): Wanted {
   const values: Record<string, Value> = {}
-  if (c.groupName !== null) values["group-name"] = c.groupName
-  if (c.groupType !== null) values["group-type"] = c.groupType
+  if (c.groupName !== null) values.categoryGroup = c.groupName
+  if (c.groupType !== null) values.categoryGroupType = c.groupType
   return {
     monarchId: c.id,
     title: c.name,
@@ -185,8 +191,8 @@ export function categoryWanted(c: MonarchCategory): Wanted {
 
 export function tagWanted(t: MonarchTag): Wanted {
   const values: Record<string, Value> = {}
-  if (t.color !== null) values.color = t.color
-  if (t.order !== null) values.order = t.order
+  if (t.color !== null) values.tagColour = t.color
+  if (t.order !== null) values.tagPlace = t.order
   return {
     monarchId: t.id,
     title: t.name,
@@ -198,11 +204,11 @@ export function tagWanted(t: MonarchTag): Wanted {
 
 export function holdingWanted(accountSlug: string, h: MonarchHolding): Wanted {
   const values: Record<string, Value> = {
-    "account-slug": accountSlug,
-    "security-name": h.securityName,
+    accountSlug,
+    securityName: h.securityName,
     quantity: h.quantity,
-    "cost-basis": h.basis ?? 0,
-    "total-value": h.totalValue,
+    costBasis: h.basis ?? 0,
+    holdingValue: h.totalValue,
   }
   if (h.ticker !== null) values.ticker = h.ticker
   return {

@@ -1,11 +1,7 @@
-
 import { readFile, readdir } from "node:fs/promises"
 import { join } from "node:path"
-import { parse } from "../page/document/parse.ts"
-import type { Document } from "@akasha/pages-system/markdown-document"
 import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
-import { placeDirOf } from "../page/page-types.ts"
+import { valueAt, type Value } from "@akasha/pages-system/page-value"
 
 const roots = resolveRoots()
 
@@ -13,34 +9,44 @@ export const AKASHA = rootFor(roots, AKASHA_REPO)
 
 const MONTH_TYPE = "monarch-month"
 
-export const MONTHS_FOLDER = placeDirOf(MONTH_TYPE)
-export const HOLDING_FOLDER = placeDirOf("monarch-holding")
-export const CATEGORY_FOLDER = placeDirOf("monarch-category")
-export const ACCOUNT_FOLDER = placeDirOf("monarch-account")
-export const TAG_FOLDER = placeDirOf("monarch-tag")
-export const DIRECTION_FOLDER = placeDirOf("monarch-direction")
+/** Every Monarch page family stands under this one folder inside akasha. */
+const MONARCH = "akasha/alan/harness/monarch"
 
+export const MONTHS_FOLDER = `${MONARCH}/monarch-months/pages`
+export const HOLDING_FOLDER = `${MONARCH}/monarch-holdings/pages`
+export const CATEGORY_FOLDER = `${MONARCH}/monarch-categories/pages`
+export const ACCOUNT_FOLDER = `${MONARCH}/monarch-accounts/pages`
+export const TAG_FOLDER = `${MONARCH}/monarch-tags/pages`
+export const DIRECTION_FOLDER = `${MONARCH}/monarch-directions/pages`
+export const MERCHANT_FOLDER = `${MONARCH}/monarch-merchants/pages`
+
+/**
+ * One line of the `transactions` entry file standing beside a month page.
+ *
+ * The keys are the entry shape's own, declared at
+ * `akasha/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts`.
+ * They are camel because a page property is read by its key rather than by its slug.
+ */
 export interface TransactionLine {
   readonly id: string
-  readonly "monarch-id": string
-  readonly "updated-at"?: string
-  readonly date: string
+  readonly monarchId: string
+  readonly monarchUpdatedAt?: string
+  readonly transactionDay: string
   readonly amount: number
-  readonly description?: string
+  readonly statementLine?: string
   readonly merchant?: string
-  readonly account?: string
-  readonly "account-slug"?: string
-  readonly "category-slug"?: string
-  readonly "category-source"?: string
-  readonly "category-decided-by"?: string
-  readonly "tag-slugs"?: readonly string[]
-  readonly notes?: string
+  readonly accountName?: string
+  readonly accountSlug?: string
+  readonly categorySlug?: string
+  readonly categorySource?: string
+  readonly categoryDecidedBy?: string
+  readonly tagSlugs?: readonly string[]
+  readonly transactionNote?: string
   readonly pending?: boolean
   readonly recurring?: boolean
   readonly split?: boolean
-  readonly "needs-review"?: boolean
-  readonly "hide-from-reports"?: boolean
-  readonly "amazon-order-number"?: string
+  readonly needsReview?: boolean
+  readonly amazonOrderNumber?: string
 }
 
 export interface MonthPage {
@@ -50,77 +56,84 @@ export interface MonthPage {
   readonly transactions: readonly TransactionLine[]
 }
 
-function scalar(document: Document, name: string): string | null {
-  const key = document.frontmatter.find((one) => one.name === name)
-  if (key === undefined || key.value.kind !== "scalar") return null
-  const text = key.value.value.text.trim()
-  if (text.length >= 2 && text.startsWith('"') && text.endsWith('"')) {
-    return text.slice(1, -1).replace(/\\"/g, '"').replace(/\\\\/g, "\\")
-  }
-  return text
-}
-
 export interface PageFile {
   readonly slug: string
   readonly title: string
   readonly root: string
   readonly path: string
-  readonly document: Document
+  readonly value: Value
 }
 
-async function pagesIn(root: string, folder: string): Promise<readonly PageFile[]> {
-  const names = (await readdir(join(root, folder))).filter((name) => name.endsWith(".md")).sort()
+function pageNamesIn(names: readonly string[], type: string): readonly string[] {
+  return names.filter((name) => name.endsWith(`.${type}.ts`)).sort()
+}
+
+async function pagesIn(root: string, folder: string, type: string): Promise<readonly PageFile[]> {
+  const names = pageNamesIn(await readdir(join(root, folder)), type)
   const found: PageFile[] = []
   for (const name of names) {
     const path = `${folder}/${name}`
-    const document = parse(await readFile(join(root, path), "utf8"), path)
-    const slug = scalar(document, "slug")
-    if (slug === null) throw new Error(`${path}: no \`slug\`, so nothing names this page`)
-    found.push({ slug, title: scalar(document, "title") ?? slug, root, path, document })
+    const value = valueAt(path, root)
+    if (value === null) throw new Error(`${path}: no page value, so nothing names this page`)
+    const slug = value.slug
+    if (typeof slug !== "string") throw new Error(`${path}: no \`slug\`, so nothing names this page`)
+    const title = typeof value.title === "string" ? value.title : slug
+    found.push({ slug, title, root, path, value })
   }
   return found
 }
 
+/** Read one of a page's values as text. The name is the property's key, in camel. */
 export function keyOf(page: PageFile, name: string): string | null {
-  return scalar(page.document, name)
+  const held = page.value[name]
+  if (typeof held === "string") return held
+  if (typeof held === "number" || typeof held === "boolean") return String(held)
+  return null
 }
 
 export async function categoryPages(): Promise<readonly PageFile[]> {
-  return pagesIn(AKASHA, CATEGORY_FOLDER)
+  return pagesIn(AKASHA, CATEGORY_FOLDER, "monarch-category")
 }
 
 export async function accountPages(): Promise<readonly PageFile[]> {
-  return pagesIn(AKASHA, ACCOUNT_FOLDER)
+  return pagesIn(AKASHA, ACCOUNT_FOLDER, "monarch-account")
 }
 
 export async function tagPages(): Promise<readonly PageFile[]> {
-  return pagesIn(AKASHA, TAG_FOLDER)
+  return pagesIn(AKASHA, TAG_FOLDER, "monarch-tag")
 }
 
 export async function holdingPages(): Promise<readonly PageFile[]> {
-  return pagesIn(AKASHA, HOLDING_FOLDER)
+  return pagesIn(AKASHA, HOLDING_FOLDER, "monarch-holding")
 }
 
 export async function directionPages(): Promise<readonly PageFile[]> {
-  return pagesIn(AKASHA, DIRECTION_FOLDER)
+  return pagesIn(AKASHA, DIRECTION_FOLDER, "monarch-direction")
 }
 
+export async function merchantPages(): Promise<readonly PageFile[]> {
+  return pagesIn(AKASHA, MERCHANT_FOLDER, "monarch-merchant")
+}
+
+/** The slug of the month a day falls in. A month page is slugged `month-` ahead of the month. */
 export function monthOf(date: string): string {
-  return date.slice(0, 7)
+  return `month-${date.slice(0, 7)}`
 }
 
+/** A month page stands in a folder of its own, the entry file beside it. */
 export function monthPagePath(slug: string): string {
-  return `${MONTHS_FOLDER}/${slug}.${MONTH_TYPE}.md`
+  return `${MONTHS_FOLDER}/${slug}/${slug}.${MONTH_TYPE}.ts`
 }
 
 export function sidecarOf(slug: string): string {
-  return `${MONTHS_FOLDER}/${slug}.${MONTH_TYPE}.transactions.jsonl`
+  return `${MONTHS_FOLDER}/${slug}/${slug}.${MONTH_TYPE}.transactions.jsonl`
 }
 
 export async function monthSlugs(): Promise<readonly string[]> {
-  return (await readdir(join(AKASHA, MONTHS_FOLDER)))
-    .filter((name) => name.endsWith(`.${MONTH_TYPE}.md`))
-    .map((name) => pageStemOf(name))
+  const entries = await readdir(join(AKASHA, MONTHS_FOLDER), { withFileTypes: true })
+  return entries
+    .filter((entry) => entry.isDirectory())
+    .map((entry) => entry.name)
     .sort()
 }
 
@@ -167,10 +180,10 @@ export async function readTransactionsBetween(
   const held: TransactionLine[] = []
   for (const month of await readMonths(slugs)) {
     for (const line of month.transactions) {
-      if (line.date >= from && line.date <= to) held.push(line)
+      if (line.transactionDay >= from && line.transactionDay <= to) held.push(line)
     }
   }
-  return held.sort((one, other) => one.date.localeCompare(other.date))
+  return held.sort((one, other) => one.transactionDay.localeCompare(other.transactionDay))
 }
 
 export async function readAllTransactions(): Promise<readonly TransactionLine[]> {
@@ -186,7 +199,7 @@ export interface PlacedLine {
 
 export async function findTransaction(monarchId: string): Promise<PlacedLine | null> {
   for (const month of await readMonths()) {
-    const line = month.transactions.find((one) => one["monarch-id"] === monarchId)
+    const line = month.transactions.find((one) => one.monarchId === monarchId)
     if (line !== undefined) return { month: month.slug, line }
   }
   return null
@@ -198,7 +211,7 @@ export async function transactionsById(
   const held = new Map<string, PlacedLine>()
   for (const month of await readMonths()) {
     for (const line of month.transactions) {
-      if (ids.has(line["monarch-id"])) held.set(line["monarch-id"], { month: month.slug, line })
+      if (ids.has(line.monarchId)) held.set(line.monarchId, { month: month.slug, line })
     }
   }
   return held

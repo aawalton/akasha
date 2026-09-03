@@ -1,7 +1,6 @@
 
 import type { MonarchTransaction } from "./client.ts"
 import type { Movement } from "./amazon-match.ts"
-import { ORDER_NUMBER_KEY } from "./amazon-match.ts"
 import type { FetchDay } from "./notes-write.ts"
 import { AI_TAG_ID, liveTransaction, mayWriteNotes, writeNoteIfEmpty } from "./notes-write.ts"
 import { findTransaction } from "./files.ts"
@@ -19,12 +18,12 @@ export function landed(stored: string | null, orderNumber: string): boolean {
 export async function recordOrderNumber(monarchId: string, orderNumber: string): Promise<boolean> {
   const placed = await findTransaction(monarchId)
   if (placed === null) throw new Error(`no month sidecar carries transaction ${monarchId}`)
-  if (placed.line[ORDER_NUMBER_KEY] === orderNumber) return false
+  if (placed.line.amazonOrderNumber === orderNumber) return false
   await patchTransactionLines(
-    new Map([[monarchId, { [ORDER_NUMBER_KEY]: orderNumber }]]),
+    new Map([[monarchId, { amazonOrderNumber: orderNumber }]]),
     `monarch: transaction ${monarchId} carries Amazon order ${orderNumber}`
   )
-  const back = (await findTransaction(monarchId))?.line[ORDER_NUMBER_KEY]
+  const back = (await findTransaction(monarchId))?.line.amazonOrderNumber
   if (back !== orderNumber) {
     throw new Error(
       `the line for ${monarchId} read back ${JSON.stringify(back)} rather than ${orderNumber}, ` +

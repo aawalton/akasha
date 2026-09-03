@@ -19,7 +19,7 @@ export async function categoryTitles(): Promise<ReadonlyMap<string, string>> {
 export async function categoryMonarchId(slug: string): Promise<string> {
   const page = (await categoryPages()).find((one) => one.slug === slug)
   if (page === undefined) throw new Error(`no category stands at \`${slug}\``)
-  const held = keyOf(page, "monarch-id")
+  const held = keyOf(page, "monarchId")
   if (held === null) {
     throw new Error(`${page.path} names no \`monarch-id\`, so nothing can be posted back for it`)
   }

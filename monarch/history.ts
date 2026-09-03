@@ -20,14 +20,14 @@ export interface HistoryRow {
 }
 
 function rowOf(line: TransactionLine, titles: ReadonlyMap<string, string>): HistoryRow {
-  const category = line["category-slug"] ?? null
+  const category = line.categorySlug ?? null
   return {
-    monarchId: line["monarch-id"],
-    date: line.date,
+    monarchId: line.monarchId,
+    date: line.transactionDay,
     amount: line.amount,
     merchant: line.merchant ?? "",
-    statement: line.description ?? "",
-    account: line.account ?? "",
+    statement: line.statementLine ?? "",
+    account: line.accountName ?? "",
     isRecurring: line.recurring === true,
     isSplit: line.split === true,
     standingCategory: category === null ? "" : (titles.get(category) ?? category),
@@ -55,7 +55,7 @@ export async function readSince(from: string): Promise<readonly HistoryRow[]> {
 }
 
 export async function readTransaction(monarchId: string): Promise<HistoryRow> {
-  const found = (await readAllTransactions()).filter((line) => line["monarch-id"] === monarchId)
+  const found = (await readAllTransactions()).filter((line) => line.monarchId === monarchId)
   if (found.length !== 1) {
     throw new Error(`transaction ${monarchId} resolved ${found.length} pages, expected exactly 1`)
   }

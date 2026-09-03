@@ -36,17 +36,17 @@ function has(text: string, part: string): boolean {
 }
 
 function rowOf(line: TransactionLine, titles: ReadonlyMap<string, string>, from: string): Row {
-  const slug = line["category-slug"]
+  const slug = line.categorySlug
   return {
-    monarchId: line["monarch-id"],
-    date: line.date,
+    monarchId: line.monarchId,
+    date: line.transactionDay,
     amount: line.amount,
-    account: line.account ?? "",
+    account: line.accountName ?? "",
     merchant: line.merchant ?? "",
-    statement: line.description ?? "",
+    statement: line.statementLine ?? "",
     category: slug === undefined ? "" : (titles.get(slug) ?? slug),
-    trusted: line.date >= from,
-    notes: line.notes ?? "",
+    trusted: line.transactionDay >= from,
+    notes: line.transactionNote ?? "",
   }
 }
 

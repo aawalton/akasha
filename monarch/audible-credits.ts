@@ -19,7 +19,7 @@ interface BookTransfer {
 async function categoryIds(): Promise<ReadonlyMap<string, string>> {
   const held = new Map<string, string>()
   for (const page of await categoryPages()) {
-    const id = keyOf(page, "monarch-id")
+    const id = keyOf(page, "monarchId")
     if (id !== null && id !== "") held.set(page.title, id)
   }
   if (held.size === 0) throw new Error("categoryIds: no category file carries a monarch id")

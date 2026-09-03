@@ -1,10 +1,11 @@
 
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { landBodies } from "../tools/lib/gated-landing.ts"
 import type { MonarchTransaction } from "./client.ts"
 import { accountPages, categoryPages, keyOf, monthOf, monthSlugs, sidecarOf, tagPages } from "./files.ts"
-import type { TransactionLine } from "./files.ts"
+import type { PageFile, TransactionLine } from "./files.ts"
 import { AKASHA, monthPagePath } from "./files.ts"
 import { AKASHA as AKASHA_REPO } from "@akasha/pages-system/checkout-roots"
 
@@ -19,11 +20,11 @@ export interface WriteItem {
 }
 
 async function byMonarchId(
-  pages: () => Promise<readonly { slug: string; path: string; document: unknown }[]>
+  pages: () => Promise<readonly PageFile[]>
 ): Promise<ReadonlyMap<string, string>> {
   const held = new Map<string, string>()
   for (const page of await pages()) {
-    const id = keyOf(page as never, "monarch-id")
+    const id = keyOf(page, "monarchId")
     if (id !== null && id !== "") held.set(id, page.slug)
   }
   return held
@@ -39,8 +40,8 @@ export interface SlugMaps {
 export async function slugMaps(): Promise<SlugMaps> {
   const accountNames = new Map<string, string>()
   for (const page of await accountPages()) {
-    const id = keyOf(page, "monarch-id")
-    if (id !== null) accountNames.set(id, keyOf(page, "display-name") ?? page.title)
+    const id = keyOf(page, "monarchId")
+    if (id !== null) accountNames.set(id, keyOf(page, "accountDisplayName") ?? page.title)
   }
   return {
     accounts: await byMonarchId(accountPages),
@@ -63,25 +64,24 @@ export function lineOf(t: MonarchTransaction, maps: SlugMaps): TransactionLine |
   if (accountSlug === undefined) return null
   const line: Record<string, unknown> = {
     id: Bun.randomUUIDv7(),
-    "monarch-id": t.id,
-    "updated-at": raw(t, "updatedAt"),
-    date: t.date,
+    monarchId: t.id,
+    monarchUpdatedAt: raw(t, "updatedAt"),
+    transactionDay: t.date,
     amount: t.amount,
-    description: raw(t, "plaidName"),
+    statementLine: raw(t, "plaidName"),
     merchant: t.merchant?.name ?? null,
-    account: maps.accountNames.get(t.account.id) ?? t.account.name,
-    "account-slug": accountSlug,
-    "category-slug": t.category === null ? null : (maps.categories.get(t.category.id) ?? null),
-    "tag-slugs": t.tags.flatMap((tag) => {
+    accountName: maps.accountNames.get(t.account.id) ?? t.account.name,
+    accountSlug,
+    categorySlug: t.category === null ? null : (maps.categories.get(t.category.id) ?? null),
+    tagSlugs: t.tags.flatMap((tag) => {
       const slug = maps.tags.get(tag.id)
       return slug === undefined ? [] : [slug]
     }),
-    notes: t.notes,
+    transactionNote: t.notes,
     pending: t.pending || null,
     recurring: t.isRecurring || null,
     split: t.isSplitTransaction || null,
-    "needs-review": t.needsReview || null,
-    "hide-from-reports": t.hideFromReports || null,
+    needsReview: t.needsReview || null,
   }
   const held: Record<string, unknown> = {}
   for (const [key, value] of Object.entries(line)) {
@@ -104,16 +104,26 @@ async function existing(slug: string): Promise<readonly TransactionLine[]> {
   }
 }
 
+/**
+ * A month page is a TypeScript page standing in a folder of its own, the transactions entry file
+ * beside it. The slug opens `month-` ahead of the year and month, which is where the dates below
+ * are cut from.
+ */
 function monthPage(slug: string): string {
-  const year = Number.parseInt(slug.slice(0, 4), 10)
-  const name = `${MONTH_NAMES[Number.parseInt(slug.slice(5, 7), 10) - 1]} ${year}`
+  const covered = slug.slice("month-".length)
+  const year = Number.parseInt(covered.slice(0, 4), 10)
+  const name = `${MONTH_NAMES[Number.parseInt(covered.slice(5, 7), 10) - 1]} ${year}`
   return [
-    "---",
-    "page-type-slug: monarch-month",
-    `title: "${name}"`,
-    `slug: "${slug}"`,
-    `starts-on: "${slug}-01"`,
-    "---",
+    `import type { MonarchMonth } from "../../monarch-month.page-type.ts"`,
+    "",
+    `export const ${exportedAs(slug)} = {`,
+    `  id: "${Bun.randomUUIDv7()}",`,
+    `  pageTypeSlug: "monarch-month",`,
+    `  slug: "${slug}",`,
+    `  title: ${JSON.stringify(name)},`,
+    `  startsOn: "${covered}-01",`,
+    `  transactions: "jsonl",`,
+    `} as const satisfies MonarchMonth`,
     "",
   ].join("\n")
 }
@@ -122,23 +132,23 @@ export const ARRIVED_FROM_MONARCH = "monarch"
 
 function carried(standing: TransactionLine, arriving: TransactionLine): TransactionLine {
   const held: Record<string, unknown> = { ...arriving, id: standing.id }
-  const order = standing["amazon-order-number"]
-  if (order !== undefined) held["amazon-order-number"] = order
+  const order = standing.amazonOrderNumber
+  if (order !== undefined) held.amazonOrderNumber = order
 
-  const stands = standing["category-slug"]
-  const source = standing["category-source"]
-  const by = standing["category-decided-by"]
-  const landing = arriving["category-slug"]
+  const stands = standing.categorySlug
+  const source = standing.categorySource
+  const by = standing.categoryDecidedBy
+  const landing = arriving.categorySlug
   const ours = source !== undefined && source !== ARRIVED_FROM_MONARCH
 
   if (landing === stands || (ours && landing !== stands)) {
-    if (stands !== undefined) held["category-slug"] = stands
-    else delete held["category-slug"]
-    if (source !== undefined) held["category-source"] = source
-    if (by !== undefined) held["category-decided-by"] = by
+    if (stands !== undefined) held.categorySlug = stands
+    else delete held.categorySlug
+    if (source !== undefined) held.categorySource = source
+    if (by !== undefined) held.categoryDecidedBy = by
   } else if (landing !== undefined) {
-    held["category-source"] = ARRIVED_FROM_MONARCH
-    delete held["category-decided-by"]
+    held.categorySource = ARRIVED_FROM_MONARCH
+    delete held.categoryDecidedBy
   }
   return held as unknown as TransactionLine
 }
@@ -146,7 +156,8 @@ function carried(standing: TransactionLine, arriving: TransactionLine): Transact
 function sortLines(lines: readonly TransactionLine[]): readonly TransactionLine[] {
   return [...lines].sort(
     (one, other) =>
-      one.date.localeCompare(other.date) || one["monarch-id"].localeCompare(other["monarch-id"])
+      one.transactionDay.localeCompare(other.transactionDay) ||
+      one.monarchId.localeCompare(other.monarchId)
   )
 }
 
@@ -156,26 +167,23 @@ export function merged(
   retiring: ReadonlySet<string>
 ): { readonly lines: readonly TransactionLine[]; readonly held: readonly string[] } {
   const kept = new Map<string, TransactionLine>()
-  for (const line of standing) kept.set(line["monarch-id"], line)
+  for (const line of standing) kept.set(line.monarchId, line)
   const held: string[] = []
   for (const line of arriving) {
-    const id = line["monarch-id"]
+    const id = line.monarchId
     const before = kept.get(id)
     if (before === undefined) {
       kept.set(
         id,
-        line["category-slug"] === undefined
+        line.categorySlug === undefined
           ? line
-          : ({ ...line, "category-source": ARRIVED_FROM_MONARCH } as TransactionLine)
+          : ({ ...line, categorySource: ARRIVED_FROM_MONARCH } as TransactionLine)
       )
       continue
     }
     const after = carried(before, line)
-    if (
-      before["category-slug"] !== line["category-slug"] &&
-      after["category-slug"] === before["category-slug"]
-    ) {
-      held.push(`${id} (${String(before["category-source"])})`)
+    if (before.categorySlug !== line.categorySlug && after.categorySlug === before.categorySlug) {
+      held.push(`${id} (${String(before.categorySource)})`)
     }
     kept.set(id, after)
   }
@@ -183,8 +191,44 @@ export function merged(
   return { lines: sortLines([...kept.values()]), held }
 }
 
+/**
+ * The keys an entry states, in the order the entry shape declares them, at
+ * `akasha/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts`.
+ * A line is written in this order however it was built, so a resync that changes nothing
+ * rewrites nothing.
+ */
+const ENTRY_KEYS = [
+  "id",
+  "monarchId",
+  "monarchUpdatedAt",
+  "transactionDay",
+  "amount",
+  "merchant",
+  "accountName",
+  "accountSlug",
+  "categorySlug",
+  "statementLine",
+  "transactionNote",
+  "categorySource",
+  "categoryDecidedBy",
+  "amazonOrderNumber",
+  "tagSlugs",
+  "split",
+  "recurring",
+  "needsReview",
+  "pending",
+]
+
+function lineText(line: TransactionLine): string {
+  const held = line as unknown as Record<string, unknown>
+  const said: Record<string, unknown> = {}
+  for (const key of ENTRY_KEYS) if (key in held) said[key] = held[key]
+  for (const key of Object.keys(held)) if (!(key in said)) said[key] = held[key]
+  return JSON.stringify(said)
+}
+
 function sidecarText(lines: readonly TransactionLine[]): string {
-  return lines.map((row) => JSON.stringify(row)).join("\n") + (lines.length > 0 ? "\n" : "")
+  return lines.map((row) => lineText(row)).join("\n") + (lines.length > 0 ? "\n" : "")
 }
 
 export type LinePatch = Readonly<Record<string, unknown>>
@@ -201,9 +245,9 @@ export async function patchTransactionLines(
     const standing = await existing(month)
     let changed = false
     const lines = standing.map((line) => {
-      const patch = patches.get(line["monarch-id"])
+      const patch = patches.get(line.monarchId)
       if (patch === undefined) return line
-      unfound.delete(line["monarch-id"])
+      unfound.delete(line.monarchId)
       const held: Record<string, unknown> = { ...line }
       for (const [key, value] of Object.entries(patch)) {
         if (value === null || value === undefined) delete held[key]
@@ -261,7 +305,7 @@ export async function landTransactionFiles(
   const gone = new Set(retiring)
   const touched = new Map<string, TransactionLine[]>()
   for (const line of arriving) {
-    const month = monthOf(line.date)
+    const month = monthOf(line.transactionDay)
     const held = touched.get(month) ?? []
     held.push(line)
     touched.set(month, held)
@@ -270,7 +314,7 @@ export async function landTransactionFiles(
     for (const month of await monthSlugs()) {
       if (touched.has(month)) continue
       const standing = await existing(month)
-      if (standing.some((line) => gone.has(line["monarch-id"]))) touched.set(month, [])
+      if (standing.some((line) => gone.has(line.monarchId))) touched.set(month, [])
     }
   }
   if (touched.size === 0) return []

@@ -7,6 +7,37 @@ import { merchantOf } from "./merchant.ts"
 import type { Subject } from "./transaction.ts"
 import { accountKey, cents, dayGap, descriptionOf } from "./transaction.ts"
 
+/**
+ * What a rule page states it tests, as the pages carry it since the rules moved into akasha.
+ * The keys and comparisons are the two select properties' own values, declared at
+ * `akasha/alan/harness/monarch/category-rules/properties/match-key.select-property.ts` and
+ * `.../match-comparison.select-property.ts`. A page holding a word outside these lists is refused
+ * rather than skipped, so a select property gaining a value here is a loud failure.
+ */
+export const MATCH_KEYS = ["merchant", "sign", "account", "amount", "month", "date"] as const
+
+export type MatchKey = (typeof MATCH_KEYS)[number]
+
+export const MATCH_COMPARISONS = ["is", "is-not", "on-or-after", "is-before"] as const
+
+export type MatchComparison = (typeof MATCH_COMPARISONS)[number]
+
+export interface Match {
+  readonly key: MatchKey
+  readonly comparison: MatchComparison
+  readonly values: readonly string[]
+}
+
+/** Every comparison this reader consumes, by the key it is stated against. */
+export const COMPARISONS_READ: Readonly<Record<MatchKey, readonly MatchComparison[]>> = {
+  merchant: ["is"],
+  sign: ["is", "is-not"],
+  account: ["is", "is-not"],
+  amount: ["is", "is-not"],
+  month: ["is", "is-not"],
+  date: ["on-or-after", "is-before"],
+}
+
 export type Outcome =
   | { readonly kind: "categorize"; readonly category: string }
   | { readonly kind: "reserve" }

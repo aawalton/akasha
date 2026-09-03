@@ -14,10 +14,10 @@ export async function amazonMovements(
   const held: Movement[] = []
   for (const line of await readAllTransactions()) {
     if (!namesAmazon(line)) continue
-    if (line.date < AMAZON_SINCE) continue
-    if ((line.notes ?? "") !== "") continue
+    if (line.transactionDay < AMAZON_SINCE) continue
+    if ((line.transactionNote ?? "") !== "") continue
     if (!wanted(line.amount)) continue
-    held.push(movementOf(line["monarch-id"], line.date, line.amount))
+    held.push(movementOf(line.monarchId, line.transactionDay, line.amount))
   }
   return held
 }

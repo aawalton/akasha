@@ -9,8 +9,8 @@ export interface CategoryDecision {
 }
 
 export interface RecordedDecision {
-  readonly "category-source": DecidedSource
-  readonly "category-decided-by": string
+  readonly categorySource: DecidedSource
+  readonly categoryDecidedBy: string
 }
 
 export function recordDecision(decision: CategoryDecision): RecordedDecision {
@@ -22,5 +22,5 @@ export function recordDecision(decision: CategoryDecision): RecordedDecision {
         "take issue with, which is the whole reason this is written down."
     )
   }
-  return { "category-source": decision.source, "category-decided-by": decidedBy }
+  return { categorySource: decision.source, categoryDecidedBy: decidedBy }
 }

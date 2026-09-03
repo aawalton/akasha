@@ -74,6 +74,13 @@ const MONTHS = [
   "December",
 ]
 
+/** The calendar number of a month named in a rule's `month` clause, which names it in words. */
+export function monthNumberFrom(name: string, at: string): number {
+  const found = MONTHS.findIndex((one) => one.toLowerCase() === name.trim().toLowerCase())
+  if (found < 0) throw new Error(`${at}: "${name}" is not a month`)
+  return found + 1
+}
+
 export function describeDateClauses(clauses: DateClauses): readonly string[] {
   const parts: string[] = []
   if (clauses.onOrAfter !== null) parts.push(`date >= ${clauses.onOrAfter}`)

@@ -10,7 +10,6 @@ export const REFUND_DAYS_AFTER = 21
 
 export const MAX_NOTE_CHARS = 900
 
-export const ORDER_NUMBER_KEY = "amazon-order-number"
 
 export interface Movement {
   readonly monarchId: string

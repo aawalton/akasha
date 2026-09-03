@@ -1,6 +1,5 @@
 #!/usr/bin/env bun
 
-import { ORDER_NUMBER_KEY } from "./amazon-match.ts"
 import { readAllTransactions } from "./files.ts"
 import { categoryTitles } from "./rule-pages.ts"
 
@@ -74,12 +73,12 @@ export async function pairedRows(): Promise<readonly PairRow[]> {
   const titles = await categoryTitles()
   const held: PairRow[] = []
   for (const line of await readAllTransactions()) {
-    const orderNumber = line[ORDER_NUMBER_KEY]
+    const orderNumber = line.amazonOrderNumber
     if (orderNumber === undefined || orderNumber === "") continue
-    const slug = line["category-slug"]
+    const slug = line.categorySlug
     held.push({
-      monarchId: line["monarch-id"],
-      date: line.date.slice(0, 10),
+      monarchId: line.monarchId,
+      date: line.transactionDay.slice(0, 10),
       amountCents: Math.round(line.amount * 100),
       category: slug === undefined ? null : (titles.get(slug) ?? slug),
       orderNumber,
@@ -104,7 +103,7 @@ async function main(): Promise<void> {
         rows.some((r) => r.orderNumber === o && r.amountCents > 0)
     )
   )
-  console.log(`${rows.length} transaction(s) carry ${ORDER_NUMBER_KEY}, across ${orders.size} order(s)`)
+  console.log(`${rows.length} transaction(s) carry amazonOrderNumber, across ${orders.size} order(s)`)
   console.log(`${paired.size} order(s) hold both a charge and a refund, which is what this can ask about`)
 
   const found = divergentPairs(rows)

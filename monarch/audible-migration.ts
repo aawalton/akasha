@@ -30,23 +30,23 @@ export async function audibleCharges(): Promise<readonly Charge[]> {
   const monarchIds = new Map<string, string>()
   const titles = new Map<string, string>()
   for (const page of await categoryPages()) {
-    const id = keyOf(page, "monarch-id")
+    const id = keyOf(page, "monarchId")
     if (id !== null && id !== "") monarchIds.set(page.slug, id)
     titles.set(page.slug, page.title)
   }
   const held: Charge[] = []
   for (const line of await readAllTransactions()) {
-    if (line.date < FROM_DATE) continue
+    if (line.transactionDay < FROM_DATE) continue
     if ((line.merchant ?? "") === MERCHANT) continue
-    if (!names(line.merchant) && !names(line.description) && !names(line.notes)) continue
-    const slug = line["category-slug"]
+    if (!names(line.merchant) && !names(line.statementLine) && !names(line.transactionNote)) continue
+    const slug = line.categorySlug
     held.push({
-      monarchId: line["monarch-id"],
-      date: line.date,
+      monarchId: line.monarchId,
+      date: line.transactionDay,
       amount: line.amount,
       categoryId: slug === undefined ? "" : (monarchIds.get(slug) ?? ""),
       categoryName: slug === undefined ? "" : (titles.get(slug) ?? slug),
-      notes: line.notes ?? "",
+      notes: line.transactionNote ?? "",
     })
   }
   return held.sort((one, other) => one.date.localeCompare(other.date))
