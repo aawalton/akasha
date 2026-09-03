@@ -11,7 +11,7 @@ import { composedNameOf } from "@tools/lib/seat-rename"
 import { clearRotated } from "@tools/lib/seat-rotated-session"
 import { keepSession } from "@tools/lib/seat-session"
 import { keepTranscript } from "@tools/lib/seat-transcript-path"
-import type { BeatReport } from "../../seat-page-beat/seat-page-beat.module.code.ts"
+import type { BeatReport } from "../../seat-page-beat-renamed/seat-page-beat.module.code.ts"
 import {
   formatSeatProcKey,
   readSeatProcKey,
