@@ -19,4 +19,5 @@ export const at20260823125713 = {
   currencies: "jsonl",
   craftingLevels: "jsonl",
   placedFurnishings: "jsonl",
+  data: "json",
 } as const satisfies TemperInventorySnapshot
