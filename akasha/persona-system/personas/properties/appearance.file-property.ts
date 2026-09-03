@@ -1,0 +1,21 @@
+import type { FileProperty } from "@akasha/pages-system/file-property"
+
+export type Appearance = "md"
+
+export const appearance = {
+  id: "01a0658c-fbfe-7000-a50a-efaa762bf9d7",
+  pageTypeSlug: "file-property",
+  slug: "appearance",
+  propertySlug: "appearance",
+  definition: "what a persona looks like, written in her own voice",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "This is how she describes herself rather than how an image of her was made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A persona whose portrait already describes her still keeps this apart from it.",
+    },
+  ],
+} as const satisfies FileProperty

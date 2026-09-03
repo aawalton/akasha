@@ -1,0 +1,1 @@
+A summer does this to fair skin: freckled over the whole face and on down past the collar. Copper, well past the shoulders. Green eyes, and green is the whole of it — nothing at the centre and nothing at the rim. Undyed linen, sleeveless, tied at the waist, and that is the lot of it. Late twenties in the face, and I am staying there.

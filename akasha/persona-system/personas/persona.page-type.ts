@@ -2,6 +2,7 @@ import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Phone } from "@akasha/person-system/phone"
 import type { RoleSlug } from "@akasha/seat-system/role-slug"
+import type { Appearance } from "./properties/appearance.file-property.ts"
 import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.text-property.ts"
 import type { EmailAddress } from "./properties/email-address.email-address-property.ts"
 import type { GreenDayPoints } from "./properties/green-day-points.number-property.ts"
@@ -18,6 +19,7 @@ import type { VoiceReferenceSha256 } from "./properties/voice-reference-sha256.t
 export type Persona = Domain & {
   purpose?: Purpose
   portrait?: Portrait
+  appearance?: Appearance
   roleSlug?: RoleSlug
   valueSlug?: ValueSlug
   origin?: Origin
@@ -41,6 +43,7 @@ export const persona = {
   extendsSlug: "page-type/domain",
   partSlugs: [
     "email-address-property/email-address",
+    "file-property/appearance",
     "file-property/portrait",
     "number-property/green-day-points",
     "number-property/total-points",
@@ -99,6 +102,7 @@ export const persona = {
   properties: [
     { pagePropertySlug: "purpose", required: false, many: false },
     { pagePropertySlug: "portrait", required: false, many: false },
+    { pagePropertySlug: "appearance", required: false, many: false },
     { pagePropertySlug: "role-slug", required: false, many: false },
     { pagePropertySlug: "value-slug", required: false, many: false },
     { pagePropertySlug: "origin", required: false, many: false },
@@ -120,6 +124,10 @@ export const persona = {
     {
       invariantKind: "departure",
       statement: "Her portrait is a file beside her page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What she looks like is a second file beside her page.",
     },
     {
       invariantKind: "departure",
