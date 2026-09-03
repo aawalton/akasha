@@ -10,12 +10,34 @@ import {
 } from "../markdown-page-types/markdown-page-types.module.code.ts"
 import { RUNTIME_MARK } from "../markdown-runtime-mark/markdown-runtime-mark.module.code.ts"
 
+// The code the answers were worked out by. A folder here is asked for its tree oid, so a change to
+// any file under it moves the mark, and answers kept under the old one are left behind rather than
+// served. `ownDirs` demands every name here resolve at HEAD, so one git does not hold takes the
+// mark to null and turns the whole answer cache off for every reader in the checkout.
+//
+// MEASURED 2026-09-03 at 734da6c197. `page` and `refusal` were named here after 773aff3771 carried
+// that code into `akasha/markdown-pages` and deleted both from HEAD. Both were left on disk as
+// empty directories, so `existsSync` passed them and `git rev-parse HEAD:page` then failed: the
+// mark was null for every reader here, and 156 kept registry answers were stranded under marks
+// nothing works out any more. Absent from disk they would have failed `ownDirs` on the count
+// instead, so the cache was off either way, and neither state says so out loud.
+//
+// WHAT THE MARK COVERS. The markdown page files reach it through `PAGE_SHAPE_GLOBS` and
+// `PAGE_SHAPE_NAMED`, and every one of those ends `.md`. A `*.page-type.ts` under `akasha/` is in
+// none of those folders and matches none of those names, so nothing about it reaches the mark.
+// That is right while the registry reads markdown alone, and it is what has to change first if the
+// registry is ever unioned to read the akasha half. Seeded and measured: renaming the slug inside a
+// `.page-type.ts` left the mark at 7ab1fa35 and a union-shaped reader went on serving the old slug
+// out of the cache, while the same rename in a `.page-type.md` moved the mark to 7ca4e6cf and the
+// answer came back fresh. Stale there is a wrong answer rather than a refusal, and no reader
+// outside could tell.
 export const CODE_DIRS: readonly string[] = [
   "akasha/code-system/shape-progress",
   "akasha/command-system/during-call",
   "akasha/file-system/answer-keeping",
   "akasha/file-system/answer-mark",
   "akasha/file-system/exclusive",
+  "akasha/markdown-pages",
   "akasha/pages-system/checkout-roots",
   "akasha/pages-system/pages/markdown-document",
   "akasha/pages-system/pages/markdown-page-at",
@@ -24,8 +46,6 @@ export const CODE_DIRS: readonly string[] = [
   "akasha/pages-system/repo-path",
   "akasha/utils-fs/atomic-write",
   "akasha/utils-fs/missing",
-  "page",
-  "refusal",
   "repo",
 ]
 
