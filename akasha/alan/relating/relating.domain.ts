@@ -11,4 +11,19 @@ export const relating = {
     "page-type/relationship-deposit",
     "page-type/relationship-topic",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A relationship is Alan's own record of somebody rather than somebody the system reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relationship names a person only where the system reaches that person.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relationship's circle is Alan's own ladder rather than a rung of closeness.",
+    },
+  ],
 } as const satisfies Domain
