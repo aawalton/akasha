@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theEquipmentItemPagesLeftFourReadersOutsideAkashaWithNothingToRead = {
+  id: "01a06865-7f46-7b41-9c2e-30df41ab77c2",
+  pageTypeSlug: "finding",
+  slug: "the-equipment-item-pages-left-four-readers-outside-akasha-with-nothing-to-read",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "The five `equipment-item` pages carried into akasha at fc1988ab37 and the five markdown pages went in the same commit, but four readers outside akasha still ask the old pages folder for page type `equipment-item` and now get nothing: `collections/exercises/src/selection/selector-load.ts:84`, `collections/exercises/src/tracking/digest.ts:237`, `tools/commands/exercise/equipment-list.ts:27` and `tools/commands/exercise/equipment-set.ts:102-107`. The equipment the selector loads a movement with reads empty until those four are repointed at `akasha/alan/fitness/equipment-items/pages/`.",
+  evidence:
+    "Measured 2026-09-03. The data is not lost: all five pages stand at `akasha/alan/fitness/equipment-items/pages/<slug>/<slug>.equipment-item.ts` keeping their original ids, and the markdown blobs are reachable at 8e49bdb1eb, 6d885c0c8c, ec55219795, 8e37970bde and a98079eaca.\n\nThe same class of reader was caught in time for `selection-policy`: nine akasha exercise commands reach `readSelectionPolicy()` in `akasha/alan/fitness/exercise-access/selection-policy/selection-policy.module.code.ts`, which read the markdown page through `answer(resolveRoots(), { pageType })`. That module was repointed at the akasha page in the same commit as the ablation (34d21ceed6) and was proved to return the same fifteen numbers before the markdown went. `equipment-item` was ablated before its consumers were surveyed, which is the sequencing error; the survey belongs before the landing, not after.\n\nSeparately, `akasha/pages-system/page-queries/pages/option-lists-all.page-query.ts` asks of page type `option-list`, which has no pages anywhere now that the six markdown option lists have gone at 7e4c22fd5a. Their values are carried as `select-values` on `anchor-direction`, `anchor-standing`, `anchor-kind` and `anchor-tier`, as the six `closeness-level` pages, and as the four `model-family` pages, so `option-list` will never gain pages of its own and that query answers nothing.",
+} as const satisfies Finding
