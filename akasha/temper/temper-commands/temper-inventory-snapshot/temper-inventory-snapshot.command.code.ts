@@ -1,17 +1,12 @@
-import { writeFile } from "node:fs/promises"
-import { resolve } from "node:path"
+import { existsSync } from "node:fs"
+import { readFile, writeFile } from "node:fs/promises"
+import { join, resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
-import {
-  assembleSnapshot,
-  latestSnapshot,
-  SNAPSHOT_PAGE_TYPE,
-  type SnapshotHeader,
-  snapshotChunks,
-  snapshotWithId,
-} from "@tools/lib/temper-inventory/snapshot-read"
+import { listedAt, listedById, slugsOfType } from "@akasha/indexes"
+import { besideAt } from "@akasha/pages-system/page-file-name"
+import { valueAt } from "@akasha/pages-system/page-value"
 import { USER_ID } from "@tools/lib/user-id"
 
 const INPUT = 1
@@ -28,9 +23,19 @@ const JSON_FLAG = "--json"
 
 const SPACES = 2
 
+const PAGE_TYPE = "temper-inventory-snapshot"
+
+const DATA_PROPERTY = "data"
+
+const HELD = "json"
+
+const ACCOUNT_PAGE = "accountPage"
+
+type Standing = { readonly path: string; readonly id: string }
+
 export type Read =
   | {
-      readonly snapshotId: string | null
+      readonly named: string | null
       readonly latest: boolean
       readonly outPath: string | null
       readonly json: boolean
@@ -39,7 +44,7 @@ export type Read =
 
 export function readIn(argv: readonly string[]): Read {
   const refusals: string[] = []
-  let snapshotId: string | null = null
+  let named: string | null = null
   let latest = false
   let outPath: string | null = null
   let json = false
@@ -70,67 +75,51 @@ export function readIn(argv: readonly string[]): Read {
       )
       continue
     }
-    if (snapshotId !== null) {
+    if (named !== null) {
       refusals.push(
-        `\`${one}\` follows the snapshot already named, and one call joins one snapshot`
+        `\`${one}\` follows the snapshot already named, and one call reads one snapshot`
       )
       continue
     }
-    snapshotId = one
+    named = one
   }
-  if (snapshotId !== null && latest) {
+  if (named !== null && latest) {
     refusals.push(`a call names a snapshot or says \`${LATEST}\`, and this said both`)
   }
-  if (snapshotId === null && !latest) {
-    refusals.push(`name the snapshot joined back together, or say \`${LATEST}\` for the newest one`)
+  if (named === null && !latest) {
+    refusals.push(`name the snapshot read, or say \`${LATEST}\` for the newest one`)
   }
   if (refusals.length > 0) return { refused: refusals }
-  return { snapshotId, latest, outPath, json }
+  return { named, latest, outPath, json }
 }
 
-type Found = { readonly header: SnapshotHeader } | { readonly why: string; readonly code: number }
-
-async function headerFor(read: Exclude<Read, { refused: readonly string[] }>): Promise<Found> {
-  let header: SnapshotHeader | null
-  try {
-    header = read.latest
-      ? await latestSnapshot(USER_ID)
-      : await snapshotWithId(read.snapshotId ?? "")
-  } catch (thrown) {
-    return { why: whyOf(thrown), code: OPERATIONAL }
-  }
-  if (header !== null) return { header }
-  return {
-    why: read.latest
-      ? `the account ${USER_ID} holds no ${SNAPSHOT_PAGE_TYPE} page, so there is none to join`
-      : `no ${SNAPSHOT_PAGE_TYPE} page carries the id ${read.snapshotId ?? ""}`,
-    code: DATA,
-  }
+function standingNamed(root: string, said: string): Standing | null {
+  const byId = listedById(root, said)
+  if (byId !== null) return { path: byId.path, id: byId.id }
+  const bySlug = listedAt(root, PAGE_TYPE, said)[0]
+  return bySlug === undefined ? null : { path: bySlug.path, id: bySlug.id }
 }
 
-type Joined =
-  | { readonly db: InventoryDatabase; readonly chunkCount: number }
-  | { readonly why: string; readonly code: number }
+// A snugly ordered slug does the sorting: the page type holds that a slug opens
+// with `at-` ahead of the moment the reading was taken, so the widest slug is
+// the newest reading and no page body is read to find it.
+function standingLatest(root: string): Standing | null {
+  const slugs = [...slugsOfType(root, PAGE_TYPE)].sort().reverse()
+  for (const slug of slugs) {
+    const found = listedAt(root, PAGE_TYPE, slug)[0]
+    if (found === undefined) continue
+    const value = valueAt(found.path, root)
+    if (value === null || value[ACCOUNT_PAGE] !== USER_ID) continue
+    return { path: found.path, id: found.id }
+  }
+  return null
+}
 
-async function joinedFrom(header: SnapshotHeader): Promise<Joined> {
-  let chunkCount = 0
-  let db: InventoryDatabase | null
-  try {
-    const chunks = await snapshotChunks(header.slug)
-    chunkCount = chunks.length
-    db = await assembleSnapshot(chunks)
-  } catch (thrown) {
-    return { why: whyOf(thrown), code: OPERATIONAL }
-  }
-  if (db === null) {
-    return {
-      why:
-        `snapshot ${header.id} did not join back together — ${String(chunkCount)} chunk(s) ` +
-        `stand where its header names ${String(header["chunk-count"])}`,
-      code: DATA,
-    }
-  }
-  return { db, chunkCount }
+function dataFileFor(root: string, standing: Standing): string | null {
+  const beside = besideAt(standing.path, DATA_PROPERTY, HELD)
+  if (beside === null) return null
+  const at = join(root, beside)
+  return existsSync(at) ? at : null
 }
 
 export async function temperInventorySnapshot(
@@ -141,13 +130,38 @@ export async function temperInventorySnapshot(
   if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
   const root = given === undefined ? process.cwd() : resolve(given.root)
 
-  const found = await headerFor(read)
-  if ("why" in found) return refused(found.why, found.code)
+  let standing: Standing | null
+  try {
+    standing = read.latest ? standingLatest(root) : standingNamed(root, read.named ?? "")
+  } catch (thrown) {
+    return refused(whyOf(thrown), OPERATIONAL)
+  }
+  if (standing === null) {
+    return refused(
+      read.latest
+        ? `the account ${USER_ID} carries no ${PAGE_TYPE} page, so there is none to read`
+        : `no ${PAGE_TYPE} page is reached by \`${read.named ?? ""}\`, as an id or as a slug`,
+      DATA
+    )
+  }
 
-  const joined = await joinedFrom(found.header)
-  if ("why" in joined) return refused(joined.why, joined.code)
+  const dataFile = dataFileFor(root, standing)
+  if (dataFile === null) {
+    return refused(
+      `snapshot ${standing.id} carries no data file, which is how a reading whose pieces ` +
+        "rejoined to no JSON document stands",
+      DATA
+    )
+  }
 
-  const said = read.json ? JSON.stringify(joined.db) : JSON.stringify(joined.db, null, SPACES)
+  let db: unknown
+  try {
+    db = JSON.parse(await readFile(dataFile, "utf8"))
+  } catch (thrown) {
+    return refused(`${dataFile} holds no whole JSON document — ${whyOf(thrown)}`, DATA)
+  }
+
+  const said = read.json ? JSON.stringify(db) : JSON.stringify(db, null, SPACES)
   if (read.outPath === null) return { report: said.split("\n"), refusals: [], code: 0 }
 
   const at = resolve(root, read.outPath)
@@ -157,10 +171,7 @@ export async function temperInventorySnapshot(
     return refused(`the record was not written to ${at} — ${whyOf(thrown)}`, OPERATIONAL)
   }
   return {
-    report: [
-      `wrote snapshot ${found.header.id} into ${at}, ` +
-        `joined from ${String(joined.chunkCount)} chunk(s)`,
-    ],
+    report: [`wrote snapshot ${standing.id} into ${at}, read whole from ${dataFile}`],
     refusals: [],
     code: 0,
   }
