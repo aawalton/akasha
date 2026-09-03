@@ -23,6 +23,7 @@ export const editorExtension = {
     "module/window-identity",
     "module/settled-refresh",
     "module/activation",
+    "module/group-stoplights",
   ],
   invariants: [
     {

@@ -7,6 +7,7 @@
     "./agent-tree-ids": "./agent-tree-ids/agent-tree-ids.module.code.ts",
     "./domain-tree-ids": "./domain-tree-ids/domain-tree-ids.module.code.ts",
     "./editor-group": "./editor-group/editor-group.module.code.ts",
+    "./group-stoplights": "./group-stoplights/group-stoplights.module.code.ts",
     "./page-tree-ids": "./page-tree-ids/page-tree-ids.module.code.ts",
     "./palette": "./palette/palette.module.code.ts",
     "./panel-domains": "./panel-domains/panel-domains.module.code.ts",
@@ -22,6 +23,7 @@
   },
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",
+    "@akasha/readout-system": "workspace:*",
     "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
   },
