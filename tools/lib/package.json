@@ -23,7 +23,6 @@
     "@akasha/utils-run": "workspace:*",
     "@akasha/wandering-inn": "workspace:*",
     "@akasha/workflow-language": "workspace:*",
-    "@akasha/workflow-selection": "workspace:*",
-    "@akasha/temper-commands": "workspace:*"
+    "@akasha/workflow-selection": "workspace:*"
   }
 }

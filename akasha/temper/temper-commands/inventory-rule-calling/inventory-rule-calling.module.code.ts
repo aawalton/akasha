@@ -25,10 +25,10 @@ import { emitJson, emitTsv } from "@tools/lib/format-output"
 import {
   BUY_RULE_COLUMNS,
   ITEM_RULE_COLUMNS,
-  inventorySettings,
   itemRuleRow,
   RULE_SHOW_COLUMNS,
-} from "@tools/lib/temper-inventory"
+} from "../inventory-rule-rows/inventory-rule-rows.module.code.ts"
+import { inventorySettings } from "../inventory-settings-handle/inventory-settings-handle.module.code.ts"
 
 export const INPUT = 1
 

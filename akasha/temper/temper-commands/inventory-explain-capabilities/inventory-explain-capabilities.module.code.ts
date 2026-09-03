@@ -1,13 +1,3 @@
-import {
-  type CharacterKnowledge,
-  loadTemperCharactersFromPath,
-} from "@akasha/temper-commands/inventory-characters-reading"
-import {
-  type CompiledInventoryConfig,
-  loadTemperInventoryConfigFromPath,
-} from "@akasha/temper-commands/inventory-config-reading"
-import { buildCliEvalEnv } from "@akasha/temper-commands/inventory-eval-env"
-import { cliItemFactsFromInventoryItem } from "@akasha/temper-commands/inventory-item-facts"
 import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
 import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
 import type {
@@ -30,6 +20,16 @@ import type {
 } from "@akasha/temper-items-rules-eval/eval-result"
 import { walkRules } from "@akasha/temper-items-rules-eval/evaluator"
 import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
+import {
+  type CharacterKnowledge,
+  loadTemperCharactersFromPath,
+} from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import {
+  type CompiledInventoryConfig,
+  loadTemperInventoryConfigFromPath,
+} from "../inventory-config-reading/inventory-config-reading.module.code.ts"
+import { buildCliEvalEnv } from "../inventory-eval-env/inventory-eval-env.module.code.ts"
+import { cliItemFactsFromInventoryItem } from "../inventory-item-facts/inventory-item-facts.module.code.ts"
 
 export type {
   CharacterKnowledge,

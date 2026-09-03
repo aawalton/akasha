@@ -7,7 +7,7 @@ import {
   capacityFilter,
   planInputs,
   ruleMatcher,
-} from "@tools/lib/temper-inventory-plan-code"
+} from "../inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 
 const INPUT = 1
 

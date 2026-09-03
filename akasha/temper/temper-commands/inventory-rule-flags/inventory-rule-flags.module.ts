@@ -22,6 +22,10 @@ export const inventoryRuleFlags = {
     },
     {
       invariantKind: "departure",
+      statement: "The sources a buy rule may take are the ones the rules package declares.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A condition and a destination chain arrive as JSON.",
     },
     {

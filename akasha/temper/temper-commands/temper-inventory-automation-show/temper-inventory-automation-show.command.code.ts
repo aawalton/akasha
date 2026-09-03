@@ -5,7 +5,7 @@ import {
   type AutomationSettings,
   inventorySettings,
   type Toggles,
-} from "@tools/lib/temper-inventory"
+} from "../inventory-settings-handle/inventory-settings-handle.module.code.ts"
 
 const INPUT = 1
 

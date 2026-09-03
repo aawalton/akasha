@@ -10,13 +10,18 @@
     "./inventory-config-reading": "./inventory-config-reading/inventory-config-reading.module.code.ts",
     "./inventory-diagnostics-reading": "./inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts",
     "./inventory-eval-env": "./inventory-eval-env/inventory-eval-env.module.code.ts",
+    "./inventory-explain-capabilities": "./inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts",
     "./inventory-item-facts": "./inventory-item-facts/inventory-item-facts.module.code.ts",
+    "./inventory-parity-capabilities": "./inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts",
     "./inventory-parity-routing": "./inventory-parity-routing/inventory-parity-routing.module.code.ts",
     "./inventory-parity-trace": "./inventory-parity-trace/inventory-parity-trace.module.code.ts",
+    "./inventory-plan-capabilities": "./inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts",
     "./inventory-plan-inputs": "./inventory-plan-inputs/inventory-plan-inputs.module.code.ts",
     "./inventory-rule-flags": "./inventory-rule-flags/inventory-rule-flags.module.code.ts",
+    "./inventory-rule-rows": "./inventory-rule-rows/inventory-rule-rows.module.code.ts",
     "./inventory-rule-settings-shape": "./inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts",
     "./inventory-settings-access": "./inventory-settings-access/inventory-settings-access.module.code.ts",
+    "./inventory-settings-handle": "./inventory-settings-handle/inventory-settings-handle.module.code.ts",
     "./inventory-snapshot-reading": "./inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts",
     "./master-craft-trace-reading": "./master-craft-trace-reading/master-craft-trace-reading.module.code.ts",
     "./master-writ-probe-reading": "./master-writ-probe-reading/master-writ-probe-reading.module.code.ts"
@@ -46,6 +51,8 @@
     "@akasha/temper-inventory-automation": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*",
     "@akasha/temper-items-rules-eval": "workspace:*",
+    "@akasha/temper-items-rules-matcher": "workspace:*",
+    "@akasha/temper-items-rules-routing": "workspace:*",
     "@akasha/temper-items-rules-routing-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*"
   }

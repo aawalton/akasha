@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { InputError } from "@akasha/errors-core/exit-code"
 import {
+  BUY_SOURCE_VALUES,
   itemActionValues,
   narrowItemAction,
   narrowMoveToDestination,
@@ -9,6 +10,11 @@ import {
   parseConditionsJson,
   parseDestinationChainJson,
 } from "./inventory-rule-flags.module.code.ts"
+
+test("a buy source the rules package declares is taken", () => {
+  expect(BUY_SOURCE_VALUES).toEqual(["merchant"])
+  expect(BUY_SOURCE_VALUES.find((one) => one === "merchant")).toBe("merchant")
+})
 
 test("an action the rules package declares is taken", () => {
   expect(narrowItemAction("sell", "--action")).toBe("sell")

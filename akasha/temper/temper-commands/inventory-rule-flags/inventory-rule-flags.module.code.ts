@@ -1,4 +1,5 @@
 import { InputError } from "@akasha/errors-core/exit-code"
+import type { BuySource } from "@akasha/temper-items-rules-core/buy-rule-types"
 import {
   type CategoryRule,
   type DestinationChain,
@@ -11,6 +12,8 @@ import { RULE_CONSTANT_KEYS } from "@akasha/temper-items-rules-core/rule-constan
 import { z } from "zod"
 
 export const STOCK_SCOPE_VALUES = ["current-character", "any-character"] as const
+
+export const BUY_SOURCE_VALUES: readonly BuySource[] = ["merchant"]
 
 export function itemActionValues(): readonly ItemAction[] {
   return ITEM_ACTION_VALUES

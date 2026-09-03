@@ -1,19 +1,3 @@
-import {
-  type CharacterKnowledge,
-  loadTemperCharactersFromPath,
-} from "@akasha/temper-commands/inventory-characters-reading"
-import {
-  type CompiledInventoryConfig,
-  loadTemperInventoryConfigFromPath,
-  parseTemperInventoryConfig,
-} from "@akasha/temper-commands/inventory-config-reading"
-import {
-  buildMatcherContext,
-  DEFAULT_CHARACTERS_PATH,
-  DEFAULT_INVENTORY_PATH,
-  type InventoryPlanInputs,
-  loadInventoryPlanInputs,
-} from "@akasha/temper-commands/inventory-plan-inputs"
 import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
 import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
@@ -37,6 +21,22 @@ import type {
   VenueStop,
 } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
+import {
+  type CharacterKnowledge,
+  loadTemperCharactersFromPath,
+} from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import {
+  type CompiledInventoryConfig,
+  loadTemperInventoryConfigFromPath,
+  parseTemperInventoryConfig,
+} from "../inventory-config-reading/inventory-config-reading.module.code.ts"
+import {
+  buildMatcherContext,
+  DEFAULT_CHARACTERS_PATH,
+  DEFAULT_INVENTORY_PATH,
+  type InventoryPlanInputs,
+  loadInventoryPlanInputs,
+} from "../inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
 
 export type {
   CapacityAudit,

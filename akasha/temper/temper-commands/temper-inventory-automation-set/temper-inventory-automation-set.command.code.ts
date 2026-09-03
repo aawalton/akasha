@@ -8,7 +8,10 @@ import {
   parseValue,
   type ToggleValue,
 } from "@akasha/temper-inventory-automation/automation-toggle-change"
-import { type AutomationSettings, inventorySettings } from "@tools/lib/temper-inventory"
+import {
+  type AutomationSettings,
+  inventorySettings,
+} from "../inventory-settings-handle/inventory-settings-handle.module.code.ts"
 
 const INPUT = 1
 

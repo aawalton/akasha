@@ -14,13 +14,13 @@ import {
   type RuleEvalResult,
   resolveItemFromInventory,
   type WalkTrace,
-} from "@tools/lib/temper-explain-code"
+} from "../inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import {
   type MatchedRoute,
   type ParityAddonTrace,
   parityAddonTrace,
   parityRouting,
-} from "@tools/lib/temper-parity-code"
+} from "../inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
 
 const INPUT = 1
 

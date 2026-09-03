@@ -1,7 +1,6 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { bulkUpdateBuyRules } from "@akasha/temper-items-rules-core/buy-rule-settings"
 import type { BuyRule, BuySource } from "@akasha/temper-items-rules-core/buy-rule-types"
-import { BUY_SOURCE_CHOICES } from "@tools/lib/temper-rule-flags"
 import {
   ACTIVE,
   answering,
@@ -22,6 +21,7 @@ import {
   webIn,
   wholeOf,
 } from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import { BUY_SOURCE_VALUES } from "../inventory-rule-flags/inventory-rule-flags.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-buy-rule-update"
 
@@ -42,7 +42,7 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
   const said = held.get(SOURCE)
   let source: BuySource | undefined
   if (said !== undefined) {
-    source = BUY_SOURCE_CHOICES.find((one) => one === said)
+    source = BUY_SOURCE_VALUES.find((one) => one === said)
     if (source === undefined) {
       return refusing(
         `\`${SOURCE}\` names \`${said}\`, which is no source a buy rule buys at`,
