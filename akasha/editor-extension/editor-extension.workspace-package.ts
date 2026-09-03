@@ -6,7 +6,12 @@ export const editorExtension = {
   slug: "editor-extension",
   definition: "what the editor draws of the system it sits in",
   manifest: "json",
-  partSlugs: ["module/work-initiatives", "module/panel-domains", "module/terminal-marks"],
+  partSlugs: [
+    "module/work-initiatives",
+    "module/panel-domains",
+    "module/terminal-marks",
+    "module/domain-tree-ids",
+  ],
   invariants: [
     {
       invariantKind: "departure",

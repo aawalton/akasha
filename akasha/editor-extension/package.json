@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./domain-tree-ids": "./domain-tree-ids/domain-tree-ids.module.code.ts",
     "./panel-domains": "./panel-domains/panel-domains.module.code.ts",
     "./terminal-marks": "./terminal-marks/terminal-marks.module.code.ts",
     "./work-initiatives": "./work-initiatives/work-initiatives.module.code.ts"
