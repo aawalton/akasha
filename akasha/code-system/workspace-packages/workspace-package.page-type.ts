@@ -18,6 +18,11 @@ export const workspacePackage = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A package manifest holds only the dependencies its package manager installs.",
+    },
+
+    {
+      invariantKind: "departure",
       statement: "A workspace package holds its manifest at the root of its own folder.",
     },
     {

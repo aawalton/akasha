@@ -19,6 +19,11 @@ export const domainSystem = {
   ],
   invariants: [
     {
+      invariantKind: "gap",
+      statement: "Everything Alan wants done is a finding or an intent.",
+    },
+
+    {
       invariantKind: "departure",
       statement: "Context a choice does not need does not reach the agent making that choice.",
     },

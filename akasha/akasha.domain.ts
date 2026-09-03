@@ -62,11 +62,17 @@ export const akasha = {
     "domain/machines",
     "domain/games",
     "domain/rules-engine",
+    "domain/language-design",
     "domain/archive-of-worlds",
     "domain/audhdalan",
     "domain/smilingjenny",
   ],
   invariants: [
+    {
+      invariantKind: "gap",
+      statement: "Nothing is in akasha that nothing deployed reaches.",
+    },
+
     {
       invariantKind: "departure",
       statement: "The akasha system is the `akasha` subfolder in the `akasha` repo.",

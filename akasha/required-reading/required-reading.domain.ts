@@ -8,6 +8,48 @@ export const requiredReading = {
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "Required reading is a declared reading and everything that reading names in turn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A document may require a second document that requires the first back.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing outside akasha asks an agent what the agent has read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat refused for an unread document may read and search.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A seat refused for an unread document does nothing else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat is allowed to act where nothing identifies the agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An akasha write is refused where nothing identifies the agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A context replaced takes every reading the agent has made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body in the system prompt survives a context replacement.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A record names the body read apart from the body a mechanical change left.",
+    },
+
+    {
+      invariantKind: "departure",
       statement: "An act is refused until its required reading is read.",
     },
     {
@@ -51,6 +93,18 @@ export const requiredReading = {
     },
   ],
   directives: [
+    {
+      directiveKind: "rule",
+      name: "Route Not Text",
+      act: "Name the reading and the route that records it; never hand the agent the text.",
+      warrant:
+        "Handed text is disbelieved or truncated, and the record then shows a reading that never happened.",
+      aids: [
+        "Send neither the text nor a stand-in for it.",
+        "A line quoted to point at work is not the text.",
+      ],
+    },
+
     {
       directiveKind: "principle",
       name: "Dilution",

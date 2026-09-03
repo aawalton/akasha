@@ -24,6 +24,40 @@ export const design = {
   directives: [
     {
       directiveKind: "principle",
+      name: "Nothing Nearer",
+      act: "Let nothing sit nearer a thing than what it belongs with.",
+      warrant:
+        "Distance is read before anything else, so a wrong gap beats any border you add to fix it.",
+      aids: [
+        "Judge the gaps on the render, not in the code.",
+        "Widen the gap between groups, not every gap.",
+      ],
+    },
+    {
+      directiveKind: "principle",
+      name: "Same Kind Same Way",
+      act: "Show a thing the way its kind is already shown.",
+      warrant:
+        "A reader learns a kind once and knows it everywhere, until a second way makes them learn it twice.",
+      aids: [
+        "Follow a kind exactly, or add one where none fits.",
+        "Take the kind from all instances, not the nearest.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Standardized Palette",
+      act: "Reference a design-system token; never write the value it resolves to.",
+      warrant:
+        "A literal value is right the moment you write it, and falls behind when the palette moves.",
+      aids: [
+        "Pick the token whose meaning fits, or add one.",
+        "Build a new value from the token, not its number.",
+      ],
+    },
+
+    {
+      directiveKind: "principle",
       name: "Nothing Unexplained",
       act: "Give every difference a reader can see a reason they can find.",
       warrant:

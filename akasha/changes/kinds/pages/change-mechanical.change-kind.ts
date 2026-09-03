@@ -9,6 +9,15 @@ export const changeMechanical = {
   runsWarrants: false,
   invariants: [
     {
+      invariantKind: "absence",
+      statement: "A mechanical change is not shown to Alan line by line.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A mechanical change does not rewrite authored prose.",
+    },
+
+    {
       invariantKind: "departure",
       statement:
         "A fault a mechanical change lands is a fault in the program that composed the change.",
