@@ -209,8 +209,12 @@ test("a single value declared many is refused, and a list declared single is ref
   ])
 })
 
-test("a page type that declares nothing anywhere carries nothing", () => {
-  expect(declaredIn("no-such-type")).toEqual([])
+test("a page type the index does not name is refused, and the check's own reading passes over", () => {
+  // This asked the strict reading for `no-such-type` and expected `[]`, which conflated a page
+  // type that is not there with one that carries nothing. Seven page types really were absent from
+  // the identity index while their files sat on disk, and every one read as declaring nothing.
+  expect(() => declaredIn("no-such-type")).toThrow("`no-such-type` names no page type here")
+  expect(world.index.propertiesIfNamed("no-such-type")).toBe(null)
 })
 
 test("a list repeating a value is refused, and one carrying each once is not", () => {
