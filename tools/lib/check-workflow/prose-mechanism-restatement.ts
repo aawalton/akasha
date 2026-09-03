@@ -40,6 +40,7 @@ export const PROSE_FORM = {
   yaml: { kind: "unlexed" },
   yml: { kind: "unlexed" },
   json: { kind: "unlexed" },
+  jsonl: { kind: "unlexed" },
   toml: { kind: "unlexed" },
   txt: { kind: "unlexed" },
   lock: { kind: "unlexed" },
@@ -53,6 +54,7 @@ export const PROSE_FORM = {
   conf: { kind: "unlexed" },
   ignore: { kind: "unlexed" },
   "sops-config": { kind: "unlexed" },
+  "sops-secret": { kind: "unlexed" },
 } as const satisfies Record<FileKind, ProseForm>
 
 function isFileKind(key: string): key is FileKind {

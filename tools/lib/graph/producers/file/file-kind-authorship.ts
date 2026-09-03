@@ -10,6 +10,7 @@ import { IGNORE_FILE_NODE_TYPE } from "./ignore-file/types.ts"
 import { IMAGE_FILE_NODE_TYPE } from "./image-file/types.ts"
 import { JS_FILE_NODE_TYPE, JSX_FILE_NODE_TYPE } from "./js-file/types.ts"
 import { JSON_FILE_NODE_TYPE } from "./json-file/types.ts"
+import { JSONL_FILE_NODE_TYPE } from "./jsonl-file/types.ts"
 import { LOCK_FILE_NODE_TYPE } from "./lock-file/types.ts"
 import { LUA_FILE_NODE_TYPE } from "./lua-file/types.ts"
 import { MD_FILE_NODE_TYPE } from "./md-file/types.ts"
@@ -17,6 +18,7 @@ import { PYTHON_FILE_NODE_TYPE } from "./python-file/types.ts"
 import { RUST_FILE_NODE_TYPE } from "./rust-file/types.ts"
 import { SH_FILE_NODE_TYPE } from "./sh-file/types.ts"
 import { SOPS_CONFIG_FILE_NODE_TYPE } from "./sops-config-file/types.ts"
+import { SOPS_SECRET_FILE_NODE_TYPE } from "./sops-secret-file/types.ts"
 import { SQL_FILE_NODE_TYPE } from "./sql-file/types.ts"
 import { SWIFT_FILE_NODE_TYPE } from "./swift-file/types.ts"
 import { SYSTEMD_UNIT_FILE_NODE_TYPE } from "./systemd-unit-file/types.ts"
@@ -51,6 +53,7 @@ export const FILE_KIND_FACTS = {
   yaml: { nodeType: YAML_FILE_NODE_TYPE, authorship: "serialized" },
   yml: { nodeType: YML_FILE_NODE_TYPE, authorship: "serialized" },
   json: { nodeType: JSON_FILE_NODE_TYPE, authorship: "serialized" },
+  jsonl: { nodeType: JSONL_FILE_NODE_TYPE, authorship: "serialized" },
   toml: { nodeType: TOML_FILE_NODE_TYPE, authorship: "serialized" },
   txt: { nodeType: TXT_FILE_NODE_TYPE, authorship: "serialized" },
   lock: { nodeType: LOCK_FILE_NODE_TYPE, authorship: "serialized" },
@@ -65,6 +68,7 @@ export const FILE_KIND_FACTS = {
   conf: { nodeType: CONF_FILE_NODE_TYPE, authorship: "serialized" },
   ignore: { nodeType: IGNORE_FILE_NODE_TYPE, authorship: "serialized" },
   "sops-config": { nodeType: SOPS_CONFIG_FILE_NODE_TYPE, authorship: "serialized" },
+  "sops-secret": { nodeType: SOPS_SECRET_FILE_NODE_TYPE, authorship: "serialized" },
 } as const satisfies Record<FileKind, FileKindFacts>
 
 export type FileKindNodeType = (typeof FILE_KIND_FACTS)[FileKind]["nodeType"]
