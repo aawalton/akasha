@@ -114,3 +114,92 @@ Permanent Talent 1: Arcane Nullfield 8
 
 Permanent Talent 2: Immortal Body 6
 
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 84400/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 564
+
+Regenerative Focus: 5740/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 3
+
+Mystical Discernment 4
+
+Forewarning 2
+
+Arcane Insight 4
+
+Evasion 1
+
+Mental Vault 5
+
+Tutoring 9
+
+Parkour 9
+
+Visibility Control 5
+
+High-tier Disguise 5
+
+High-tier Battle Cry 3
+
+Aura Control 5

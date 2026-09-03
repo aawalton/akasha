@@ -116,3 +116,64 @@ I don’t even know if he can use anything other than axes, she thought, but it 
 
 “Sure,” Malika said, turning her attention to the armor pieces. They could consider boosting their options by farming the dungeon after their primary objective had been completed. Calen almost certainly had a plan by now, and by the time they came back, they’d undoubtedly be stronger.
 
+How did I jump from fleeing for my life to farming Haverron? I must be mad. Grinning to herself, she picked up the first armor piece.
+
+Grim Visage of the Frozen Storm – level 215A sleek, ages-darkened mithril helm. Runes of power have been etched around the angular eye slots, emitting an aura of potency that can be felt from several feet away. +117 Strength+93 Intelligence+46 Vitality+5 to skill level of Sword skills+35% to ResistanceGrants level 71 Unholy Might skillRequirements: Strength 753, Intelligence 430.Quality: Rare, Set.Value: 238 gold.Head – Full Helm – Mithril
+
+The Grim Visage was a full helm, covering everything, save for the narrow slot for the eyes, and it had been brushed to a matte finish. Either age or some forging process had darkened the mithril, dulling the characteristic silvery shine. Impressive. She set it aside carefully.
+
+Malika manhandled the heavy breastplate toward her for closer inspection.
+
+Battle Plate of the Frozen Storm – level 212Similar to the standard Devastation Knight full body plate armor, this piece features several personalized enhancements, including more potent ice magic enchantments, prominent mithril ridges, and several short spikes designed to deflect blows from the most vulnerable areas.Armor: 3052.+35% to Armor.+32% to Resistance.+116 Strength.+92 Dexterity.+46 Vitality.35% chance to cast level 61 Ice Barrier when hit.Requirements: Strength 742.Quality: Rare, Set.Value: 257 gold.Body – Full Plate – Mithril
+
+A second rare piece, the Battle Plate, was similar to many they’d looted off roaming Devastation Knights already; however, it was larger and better enchanted. Malika eyed the Ice Barrier enchantment closely. If Thuli could learn that one, he was going to find himself in even greater demand very quickly.
+
+Rime Encrusted Gauntlets of the Frozen Storm – level 211Dark, articulated heavy gauntlets that grow thick ridges and razor-sharp spikes of ice. The right gauntlet has been fitted with a short but sturdy length of chain intended to be attached to a weapon, preventing the wielder from being disarmed in battle.Added Ice damage on hit.Added Death damage on hit.+115 Intelligence.+92 Strength.+32% to Attack Speed.15% chance to cast level 71 Arctic Blast when hit.Requirements: Intelligence 739, Strength 422.Quality: Rare, Set.Value: 203 gold.Hands – Heavy Gauntlets – Mithril
+
+“These all look like they were made as a matching set,” Malika mused, although there was no sign of a mana signature on the pieces. “Ice and death damage on this one.” She set it aside and picked up the boots.
+
+Dread Walkers of the Frozen Storm – level 195Sabatons made from beautifully articulated plates of mithril.+107 Strength.+85 Dexterity.+42 Wisdom.+40% to Movement Speed.+4 to skill level of Movement skills.Grants level 71 Free Action skill.Requirements: Dexterity 683, Strength 390.Quality: Rare, Set.Value: 188 gold.Feet – Sabatons – Mithril
+
+“Oh, my…” Malika exclaimed upon appraising Haverron’s boots.
+
+“What?” Calen asked, bending over and peering curiously at the boots, even though he had no ability to inspect items.
+
+“This has forty percent to movement speed, plus four to movement skills, and grants the Free Action skill.”
+
+Calen let out a slow whistle. “Unstoppable.”
+
+The armor set was all unbelievably good, providing a veritable wealth of skill procs, granted skills, and high-level enchantments. From personal experience, she knew that the ice barriers and arctic blast procs were incessant and annoying. While Malika had a storage ring full of lower-level versions of all these items, it was great to have the pinnacle of the Devastation Knights’ equipment. Likely, she needed Ali to learn them soon; otherwise, she was going to run out of space.
+
+She reached out to pick up two rings, one dark and disturbingly ominous, and the other glittering like fresh frost.
+
+Arctic Band of the Frozen Storm – level 200A shimmering, silvery band that remains cold to the touch.+110 Intelligence.+88 Wisdom.+44 Vitality.+112% spell power to Ice skills.18% chance to inflict level 127 Ice Vulnerability curse on hit.+5% of your damage is returned as Mana over 30 seconds.Requirements: Intelligence 700.Quality: Rare, Set.Value: 299 gold.Ring – Mithril
+
+An ice mage’s dream, Malika thought, turning the ring over a few times, enjoying how the silvery reflection was warped by the frost that continually formed on the surface.
+
+“Hey, Ali,” she said, sharing the appraisal. “Good for your ice mages, maybe?”
+
+Ali studied the ring for a moment and then her gaze locked with Malika’s, her eyes widening in amazement. “An Ice Vulnerability curse and mana leech? I just wish my trolls were high enough level to use it already.”
+
+Malika just smiled, retrieving the three others she had collected from the horde of Death Knights they had to kill just to access Haverron’s plaza. “Here you go, these are a few lower-level variants.”
+
+“Oh! That’s enough to learn them!” But then Ali paused. “Hey, what does the ‘set’ mean in the Quality? That doesn’t show for me when I use Identify on it.”
+
+“I think it’s just that they’re made to match,” Malika said, holding the mithril ring up to the breastplate lying on the ground to show how closely the colors and designs matched. “Notice how all the armor pieces have the same dark finish, and they all have ‘Frozen Storm’ in the name?” But as she drew the ring toward the breastplate, both items pulsed with a soft, subtle glow.
+
+Huh? What is that?
+
+She pulled the ring back, and the glow faded, only to return when she brought it closer once more. On a hunch, she touched the ring to the breastplate and used Appraise a second time.
+
+Arctic Band of the Frozen Storm – level 200A shimmering, silvery band that remains cold to the touch. One of five items in the Frozen Storm set.+110 Intelligence.+88 Wisdom.+44 Vitality.+112% spell power to Ice skills.18% chance to inflict level 127 Ice Vulnerability curse on hit.+5% of your damage is returned as Mana over 30 seconds.Frozen Storm (2 piece): +50 Vitality.Frozen Storm (3 piece): +20% to Curse damage.Frozen Storm (4 piece): +50% spell power to Ice skills.Frozen Storm (5 piece): +4 to skill level of Ice skills.Requirements: Intelligence 700.Quality: Rare, Set.Value: 299 gold.Ring – Mithril
+
+“Oh, wow, Ali! Look at this!” Malika exclaimed, sharing the hidden set bonuses.
+
+“That’s incredible,” Ali gasped, “It only gets the benefits when the items are close? Do you think Thuli or Lydia can learn to make set enchantments?”
+
+“I think you have to wear multiple pieces to activate the hidden bonuses,” Malika said. At least that seemed obvious once her Appraise had revealed the details. It was pure serendipity that she had noticed it at all; every time she had looted the other Death Knight corpses, she had stored the armor pieces one at a time and never really looked at them other than separately. “We should definitely let the crafters know about this.”
+
+Malika smiled at Ali’s enthusiasm as she deconstructed all rings and armor spread out across the snow and ice, totally absorbed in what her Grimoire was inscribing.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

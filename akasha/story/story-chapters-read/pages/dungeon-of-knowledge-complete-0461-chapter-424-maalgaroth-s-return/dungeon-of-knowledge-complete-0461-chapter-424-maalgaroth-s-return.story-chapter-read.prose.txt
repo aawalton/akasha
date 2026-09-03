@@ -108,3 +108,50 @@ Several minutes later, the chime sounded.
 
 Your group has defeated Fungaloth Ravager – Fungal Aberration – level 146 (Nature / Death).Greater Living Essence x2.Essence of Rot x11.Dungeon of Knowledge has reached level 143 (+2).+20 attribute points.Arcane Insight has reached level 80.Arcane Recall has reached level 42.Barrier has reached level 78.Empowered Summoner has reached level 66.Domain Mastery has reached level 45 (+2).Minion Teleport has reached level 39.Your Dagger Rogue has reached level 100 (+5).Your Dagger Rogue has met the requirements for class evolution.Your Acolyte of Azryet has reached level 100 (+2).Your Acolyte of Azryet has met the requirements for class evolution.
 
+As soon as the chime sounded, all resistance to her domain collapsed, and Ali surged through the Landing, claiming all the plants and mana for herself. With a simple teleport, she approached the corpse and deconstructed it.
+
+[Sage of Learning]Domain Magic analyzed: Attribute Enhancement (Endurance).Domain Magic analyzed: Stunning Rend.Domain Magic analyzed: Ascendant Resilience.
+
+Ali winced at the painful sensation of even more mana being shoved into her mana pool, the excess grounding itself nearby in spontaneous bolts of arcane energy that leaked from her body whenever she moved. All through the chamber, adventurers collapsed, flopping down to the ground to recover from their ordeal. But she had just learned two new domain magic skills.
+
+Stunning RendSource: Fungaloth RavagerStamina: Empower a Melee attack to inflict Stun and Armor Reduction. Duration: 30 seconds. Recharge: 1 minute. Skill – Domain Magic
+
+A martial ability? That’s unusual. She didn’t know if stamina-based martial abilities were rarer, but her collection seemed to favor spells and magic over melee or martial abilities. Getting a new powerful domain magic for her melee monsters was exciting. Got a lot of design work ahead with Calen, I guess… we need to think about this though. I can’t be so exposed next time.
+
+Ascendant ResilienceRequirements: Attribute Enhancement (Endurance)Source: Fungaloth RavagerAll damage taken is reduced by 2% per class level greater than the attacker. Skill – Domain Magic
+
+Well, that explains it. Calen’s shrewd insight had deduced the skill’s properties surprisingly accurately. All around the Landing, adventurers shot surreptitious glances at her, as if uncertain whether they could approach her or talk to her. Perhaps it was that she was the result of their long struggle, or, she realized, she had simply destroyed the corpse of their foe without a single word. Or perhaps it was the fearsome magical discharges that burst from her Mana Saturation every now and then.
+
+Ali answered by sharing the three Domain Magic skills she had just analyzed with the entire group, and the room filled with sudden murmurs and exclamations of surprise or recognition as they understood why their fight had been so impossible.
+
+Ascendant Resilience. It was a ridiculous ability for a guild stuck at the evolution boundary. Most of them would have been doing four percent of their damage or less, the boss being forty-six levels above their highest members.
+
+“Aliandra?”
+
+Ali glanced up to find Aiden approaching with an expression of nervous uncertainty on his face. She smiled up at him, hoping to ease his feelings, but a loud crack and an arcing bolt of golden arcane magic discharged into the ground beside her, startling them both.
+
+“Sorry, I’m suffering from Mana Saturation,” she said. “Consuming the dungeon’s domain is straining my mana pool, and the excess is bleeding off like that.” It was still rather painful, to be honest, even with all her training under Azryet’s tender care. Worse, with the consumption of the domain in the Landing, she had just cut off the domain connection for the other two wings, and her minions could hear the rush of monsters approaching as the bottom half of the Blooming Rot triggered a dungeon break.
+
+“Are you ok?” he asked.
+
+“Yes, I’ll be alright. Thank you for coming to rescue me. Calen said the way back to the shrine is mostly straightforward, so whenever everyone is recovered, I think reclaiming it should be our priority. I want to unlock those who have the least time left.”
+
+Ali’s words sent a visible ripple of relief and maybe a touch of overdue excitement through the attentive adventurer groups who were trying, rather unsuccessfully, to look like they were not eavesdropping.
+
+“Thank you,” Aiden said.
+
+“Thank you all for coming to rescue me,” Ali said, smiling around her.
+
+“Whatever, I was only in it for the levels,” someone quipped from the back of the room, only to be clouted across the earhole. “Oh, come on! Who doesn’t love blatant lies?”
+
+“I think some fungal rot got to your brain,” Aiden informed him. “Go hug that tree.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

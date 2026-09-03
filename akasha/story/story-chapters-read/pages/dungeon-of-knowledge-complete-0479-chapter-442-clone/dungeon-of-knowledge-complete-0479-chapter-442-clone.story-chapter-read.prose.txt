@@ -82,3 +82,76 @@ Ali turned to the isolated far treant boss and registered surprise. “Twenty-fi
 
 An explosion of blood erupted into the air, runes forming from the droplets, swirling up to circle the brow of every melee class in the raid. Ali’s kobolds reacted instantly, dropping large heals onto the blood shaman who had sacrificed so much of her life for the ridiculous buff spell. Ali pointed her wand at her trolls, giving them a quick dose of Winter’s Desolate Celerity, causing their ice bolts to accelerate to ridiculous speed.
 
+It's probably close enough, she thought, spending mana like crazy to boost the nature and arcane damage granted by Empowered Summoner to all her minions. Empowered Summoner granted all her minions, regardless of class or affinity, additional nature and arcane damage on hit. Channeling mana into the new Power Infusion advancement dramatically boosted that nature and arcane damage across the entire raid, but Ali was not prepared for what it did to her Sylvan Druids and her Eyes of Agnor. Possessing an innate affinity for nature and arcane respectively, the channeled Power Infusion drastically increased their base power. Both Eyes of Agnor blazed with golden power, their golden Arcane Bolt streams suddenly searingly intense. Arcane Mana Burn unleashed as a painfully bright cone of golden magic. On the ground, the Dark Druids began to shine with pulsing, viridian power, and Ali gasped to see the sudden potency of their healing spells.
+
+And then Calen ignited the twisted forest with the blazing glory of his Righteous Fury.
+
+Ali watched with bated breath. A flicker of a formation told her Lira had moved, but she appeared on a different treant in the group of three, not choosing to block their assault. The formation for Dark Restoration appeared within the isolated Treant, and Ali launched her Disruption darts, ripping the nascent spell to shreds. Lira flickered again, but this time, she appeared up in the air above the battlefield as a screeching specter, darting around in a frenzy. Ali ignored her, intent instead on the rapidly plummeting health of the massive Treant.
+
+Something is going to happen. She was certain of it. But the health continued to spiral downward, and then, without much ceremony, the massive treant slumped over, branches falling still. A joyous cheer erupted from the raid as they realized their achievement.
+
+“How dare you! You killed my tree!”
+
+“Basir, split yours out next,” Calen instructed.
+
+Lira vanished, appearing within one of the remaining three treants. Suddenly, all the mana from the remaining treants transferred to the one possessed by Lira, and then Ali saw something that instantly obliterated her excitement and joy.
+
+“Fuck! It’s casting respawn!” Without hesitation, Ali launched a disruption that shattered across the invulnerable tree trunk. In frustration, she shared the description of the Clone domain magic and the almost forgotten ability it granted.
+
+CloneRequirements: Creature with mana.Source: Living FlameDomain Respawn creates two [boss] or three [raid] identical copies of this monster. Each clone of the enhanced monster gains the following skill:Mana: You may domain respawn any dead clone. Requires full mana pool and focus – getting hit cancels the summoning. Cast Time: 10 seconds. Skill – Domain Magic
+
+She threw everything she had against the treant, anything in range, but the presence of Lira’s avatar within the massive tree rendered it immune to all damage.
+
+Ten seconds later, the spell completed, and a fresh Malevolent Lirasian Oak spawned.
+
+Calen stared in dismay as his arrows bounced ineffectually from the tree, and it completed its intricate casting. The domain surged, and a huge Malevolent Lirasian Oak materialized, spawned to fresh life from the dungeon’s mana. The corpse of the old one still remained, a testament to their now-hollow achievement.
+
+How can anyone beat that? People were shouting, demanding his attention, but his mind was stuck on the unavoidable conclusion. It’s not possible. There’s no way. He couldn’t see anything they could do. Out on the battlefield, Sabri, reliable as ever, picked up the new treant and put it back in the proper spot, ensuring the integrity of the raid and the safe zone they had established, giving him some much-needed time to think. To collect himself.
+
+The problem was that Lira’s avatar could possess any tree, and in doing so, she could make it immune to damage. So, she could just possess the tree for long enough to always resummon whichever treant they managed to kill. By itself, that meant they could never make progress – there was no way they could out-damage the domain mana of a dungeon.
+
+We need to retreat.
+
+“Calen!”
+
+“What?” he asked, realizing Ali had been calling for him for a while, and she had resorted to shouting with several of her minions simultaneously.
+
+“Why did she protect the respawn when she could have just blocked us from killing the tree in the first place?”
+
+“I… don’t know,” he said, turning back and staring at the dead tree in surprise. Why? It was a tricky question to answer, and he was certain Ali was onto something. If he could just understand it, perhaps he could find a clue to unlock this mess.
+
+What all happened? Step through the process.
+
+Biting his lip in the hope that pain would help him focus, he began to rapidly review the fight in his mind. He had asked Ali for a status when the tree hit twenty-five percent left, just in case there was any form of Enrage skill. He remembered calling for Bloodlust and using his Righteous Fury. In the excitement of the massive increase in damage and how close they were to their first kill, he had ignored Lira’s possession bouncing about among the trees, but it had happened a couple of times, and yet she had never jumped to the beleaguered tree tanked out there by Sabri. It’s not a range issue. It can’t be, he thought, knowing Lira had annoyed the melee by jumping to that tree several times earlier in the fight.
+
+No, it’s something more…
+
+And then it came to him in a flash.
+
+“Split all the trees!” Calen roared, sending four motes flying to four different corners of a large square to mark the positions.
+
+“What did you figure out?” Lyeneru asked. A question he realized the whole raid needed answered.
+
+“She can’t possess the tree when it’s low – twenty or twenty-five percent,” he answered. He wasn’t precise on the exact number yet, but it must be close to that. “I’m almost certain. She had many opportunities and failed to do so – it cannot be a coincidence.”
+
+“Oh, you’re right,” Lyeneru said, clearly running the scenario through her mind rapidly and coming to the same conclusion he had. “You want to burn them all down simultaneously?”
+
+“Yes. At least, let’s get them all below twenty percent before we take them out.”
+
+“That’s going to be hard with the healing – Aliandra cannot Disrupt all of them,” Vivian said, entering the conversation.
+
+“I’ll make some more Bone Champions,” Ali said, producing her Grimoire with a flourish in the middle of the barrier. “The trees are low, if we keep denying them mana, we should be able to restrict the heals and summons. The Mortal Wounds will limit the setback when the heals get through.”
+
+“This is a workable plan,” Lyeneru said. “Hard, but it should work if we have perfect execution.”
+
+“Ok,” Calen said. It was good to have Lyeneru and Vivian’s counsel here; if they saw the plan as workable, he felt a lot better about it. “Begin with Havok’s tree,” he called out, directing the raid to the tree with the most damage so far.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

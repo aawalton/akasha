@@ -126,3 +126,66 @@ Boundless Aura
 
 Denial of Mysticism
 
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 729
+
+Regenerative Focus: 3639/7390
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 4
+
+Inspiration 8
+
+Impulse 5
+
+Mystical Discernment 7
+
+Forewarning 6
+
+Arcane Insight 9
+
+Evasion 3
+
+Mental Vault 7
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 8

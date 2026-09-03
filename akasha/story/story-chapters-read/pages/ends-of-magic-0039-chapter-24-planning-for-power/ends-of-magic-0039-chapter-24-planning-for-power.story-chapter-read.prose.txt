@@ -124,3 +124,114 @@ You can easily cause spells to fail, and can usually make it a catastrophic fail
 
 You have gained the class skill Legendkiller.
 
+You will become stronger, faster, and tougher the greater your enemy is. This skill will not equalize the gap, but it means that any foe can be fought.
+
+You have gained the class skill Bane of Myth.
+
+Abilities based on fame, history, or worship will fail against you.
+
+You have gained the class skill To the Ends of Davrar.
+
+Enemies more potent than you that flee you during combat will be hindered in their flight. You will know their position, and any pursuit will be easier and faster.
+
+Nathan finished reading through the skills and just sat there for a second. He didn’t feel any different beyond a certain edge of clarity that probably came from Limitless Focus. But most of his skills would only kick in when he got into a fight.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 4
+
+Inspiration 8
+
+Impulse 5
+
+Mystical Discernment 7
+
+Forewarning 6
+
+Arcane Insight 9
+
+Evasion 3
+
+Mental Vault 7
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 7

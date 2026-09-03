@@ -138,3 +138,64 @@ Selective Dispel
 
 The Living World
 
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 5
+
+Inspiration 8
+
+Impulse 6
+
+Mystical Discernment 8
+
+Forewarning 6
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 8
+
+Veracity 3
+
+Whiplash 1
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 8

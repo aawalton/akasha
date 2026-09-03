@@ -106,3 +106,114 @@ Three points. All of Ali’s contingencies and plans suddenly crystallized. This
 
 She unsummoned her expectant blood shaman and then immediately resummoned him, spending a point of Authority. The magic formations deepened, clarifying dramatically as the energy of her authority drew out the essence of magic, and in moments, her troll reappeared. But the version of Joraa standing before her was nothing like the one from moments before. His very essence had been reforged, and what she saw under the scrutiny of her best perception skills was a tier three entity that in some fundamental way radiated a purity of form and structure, as if he now embodied the primal nature of a troll, of a shaman, of Aman Rak itself.
 
+He shone in Ali’s enhanced perceptions, not like the bluntness of a blazing sun, but like that indefinable elegance of a master dancer whose movement captured the attention for reasons that were hard to define. She even found it hard to tell if the sensation was primarily due to her external mana sight or the inner awareness of her Troll via the rich and vibrant connection she had with him. She would have loved to spend hours down here studying the nuances, holed up with her shrine and her skills, measuring the difference between Joraa and an ordinary Blood Shaman, but her friends were closing in on one of the most dangerous, eldritch bosses she’d ever faced, and they were down a healer.
+
+Blood Siphon, she decided, reaching for Domain Mastery to empower her advanced minion, but at the last moment, she hesitated. Blood Siphon was indeed a signature skill of the blood shamans of Aman Rak, and amplifying it would grant the raid a powerful increase in healing. However, with so many people present in the raid, the troll could access an ability which was far more unique and potentially devastating.
+
+Ali considered it for no more than a second before she changed her mind and applied her enchantments. Yes, let’s do this!
+
+World Walker applied to Bloodwielder of Aman Rak.Elite Domain Enhancement applied to Bloodwielder of Aman Rak.Amplify Skill (Bloodlust) applied. Domain Enhancement complete.Your reserved mana has increased by +8820.
+
+Ali studied her minion, enjoying the grin on his tusked face as he explored his new power. Over eight thousand mana for an elite monster was expensive, but Joraa was a third-tier, domain-enhanced entity that was not bound to the domain itself and therefore did not benefit from the Domain Mastery cost reduction. Still, mana was a small price to pay for the immense versatility he represented.
+
+“Wait just a minute,” Ali said, making a snap decision. “I will send you back with another ally.”
+
+“As you wish, Seeker,” Joraa said, examining his newly improved totems. Unexpectedly, he added in a low growl, “I thirst to serve in battle!”
+
+She blinked in surprise but chose to act neutrally. “Soon.”
+
+Could there ever be a skill, a tier, which would allow her to release minions like Joraa back into full life? Perhaps it was just a dream.
+
+Ali wielded the magic of her Grimoire once again, this time summoning a fresh Fractured Archon and spending a second point of Authority. For the archon, she amplified its signature skill, Celestial Mirror Image, having been lucidly reminded of its effectiveness by Calen’s demonstration before she sent both of them off to the Crypt of Kings to rejoin the raid, already halfway through the temple labyrinth.
+
+Seven of eight world walkers, and one point of Authority to improve defenses here. She pursed her lips with a little nod of her head, satisfied that everything was going according to plan. At least as much as possible amidst the chaos.
+
+Aah, here it is. Calen stepped into the familiar amphitheater room and stopped just inside the doorway, his eyes scanning the surroundings. Like last time, the temple labyrinth had been altered, and the layout was entirely different, but his tracking skills had advanced in the meantime, and hunting down the Well of Eternity by memory and senses had proved easy enough.
+
+The air within the chamber shimmered eerily with the trails of the ghosts as they rode the boundary between the mortal and spirit realms with abilities that weren’t quite enough for him to capture, but still close enough to see the remnants thereof. By far the majority of what he already knew to be Dark Souls circled a great pillar of uncannily glowing shadows that billowed up from the Well of Eternity, flawed and twisted by the taint of eldritch magic, but otherwise a strangely subdued mirror of the Well of Souls back at Ciradyl.
+
+At least the touch of the eldritch wasn’t permanent – he had seen what the Well looked like after its guardian had been dispatched. The adventurers fell silent as they filed into the room, instinctively recognizing the danger.
+
+“Ok, Calen. Do you want to recap this boss?” Lyeneru asked, her voice carrying to all, even though hushed. The entire group set up on the edge of the amphitheater, taking their cue from his own reluctance to enter further. The Well of Eternity was clearly visible over in the center, and the occasional ominous stirring within the waters broadcast to anyone who cared to look that something lurked within.
+
+“Sure,” Calen said. “There are close to a hundred Dark Souls haunting the Well of Eternity, shifting between here and the Spirit Realm. We will need to pull them far from the center because we don’t want to deal with any of them while challenging the boss. They are incorporeal, invisible, and can flee to the Spirit Realm at will.”
+
+“Pests, in other words,” Mato grumbled.
+
+“As the bear said, they’re pests,” Calen agreed. “If we pull too many at once, we will wipe quickly because of the immense power of their Lightning Bolt attacks.”
+
+“I can make some Lightning Resistance potions quickly,” Basil offered. He didn’t have to speak twice and he already had a dozen takers.
+
+Calen continued, “Baaoht Yll’shuum is an Undead Eldritch Monstrosity that inhabits the Well – it is a little over level two hundred and thirty. Its main attacks are tentacle strikes, summoned parasitic monsters that will infect you with insanity and confusion, and an Exile ability that takes you to a nightmare realm. Just looking at him is an assault on your sanity, so Mental Fortitude and any Wisdom buffs are a requirement.”
+
+“Only that?” Aiden asked sarcastically.
+
+Calen’s lips twisted. “If only. It distributes a curse that Ali believes is inflicted by looking at it. It’s called The Creeping Nightmare, and it’s a stealth curse that requires highly advanced perception skills to even notice. If you can detect it, please dispel it quickly; otherwise, we will be overwhelmed by mental attacks. It looks like this…” He quickly shared the curse details with the group.
+
+You have been cursed with The Creeping Nightmare.You are plagued by confusion, nightmares, hallucinations, and insanity.Stealth (This curse is hidden from perception and awareness).You are insane, proportional to the count of The Creeping Nightmare.Resistance to mind-altering effects is reduced by 5% (per count).When the count reaches 100, your mind’s defenses are overwhelmed by The Creeping Nightmare, and you become permanently trapped within it, thrall to its caster.Curse – Count: 15
+
+“Holy shit, that’s evil!” Devan exclaimed.
+
+“The consolation is the boss doesn’t have that much health considering its level. The challenge is hanging onto enough sanity to actually hit it,” Calen said mildly.
+
+“You said there is an Exile ability? What do we do if we are targeted with that?” Lyeneru asked, her quick glare quelling a murmuring that had followed Calen’s blunt statement.
+
+“If you get Exiled, just find a hiding spot and wait. The Nightmare is populated with horrifying monsters, but the Mental Fortitude elixirs we brought should greatly reduce the duration. Keep an eye out for people who are frozen and make sure they don’t get overrun with parasites. Again, the key is keeping The Creeping Nightmare curse from rising too high and allowing the Exiled people to succumb to the horrors,” Calen explained.
+
+Of course, Basil immediately asked, “Is this the Nightmare where Aliandra found the Eternal Reverie flowers?”
+
+“Yes, but she grows them in the dungeon now, and you can get the same skill-ups farming them there a lot easier,” Mato said. “It’s safer than risking those monsters.”
+
+“How do we deal with the parasites?” Lyeneru asked.
+
+“Fire,” Calen answered. “Mostly they will go for the tank, but we found fireballs will burn them off pretty effectively.”
+
+That prompted no small measure of excitement from the pyromaniacs in the guild, and a fatalistic eyeroll from Mato.
+
+“Havok, holy fire works, too,” Ali’s Divine Archon added.
+
+“Smite,” Havok said, saluting with his blade.
+
+“Anything else?” Lyeneru asked.
+
+“He summons eldritch eyes – the same ones that you’ve all seen haunting Aliandra – they have True Sight, so stealth or invisibility won’t work while they’re around.”
+
+Several of the rogues and assassins could be heard muttering very foul curses – some even in demonic and trollish, courtesy of Ali’s eagerness to teach every language she knew, which, by now, Calen was certain was all of them.
+
+“Be prepared for whispers, mental, and death-affinity attacks,” Calen finished.
+
+“If there are no questions, let’s buff up and begin,” Lyeneru announced. “Potions, everyone!”
+
+“I’ll pull the first of the ghosts,” Calen said, cycling through the viewpoints of all his Motes of Light, including the ones he had following Ali back home, just in case, before summoning his Mirror Image clone army.
+
+“Watch your left flank!” Moira screamed. Below her, the tanks shifted in near-flawless concert, the burnished wall of steel and mithril all that protected the small blob of the living in the sea of the dead.
+
+At least from the swords, that is, Moira thought to herself. She reached deeply within, drawing on her arcane mana reserves while her hands traced out the runes in the air before her. Glowing trails of purple lingered in the air, thrumming with the power of her ritual.
+
+She fed more mana to it, making it grow. Her evolution to the second tier had been good to her, stretching her already-unique class in powerful ways. As soon as she’d taken the field at Southport, Dragovich had assigned her team to the frontlines, even though they’d been freshly raised to platinum. It had been harrowing, a thorough baptism by ice and death, but they had reaped the Lich’s Death Knights until he’d finally turned tail and run.
+
+A hundred levels of growth later, and here she was, facing the sea of the dead once more. There were, she had to admit, a hell of a lot more of them this time. As the raid teams braced, holding their positions below, a fucking third-tier void dragon unleashed an aerial bombardment somewhere to their left, while monsters manning the battlements unleashed a ceaseless rain of fire and ice into the unrelenting withered masses.
+
+Finally, she added a touch of her lightning and her ritual completed. Her mana rippled, turning inside out, and then rushed down and outward, projecting her domain of influence. Far wider than it had once been, her ritual more than covered the whole raid group. Throughout her domain, she suddenly felt them – ugly knots of darkness that infested her friends. She pushed outward with her domain and ate the first one.
+
+Crunchy, she decided. Quickly, she repurposed the fragmented runes, recasting them anew, and instead of a Damage Reflection curse, she threw it out as an Arc Lightning. Again, she found one, and consumed it, each time choosing to reform the spells into something deadly or moving the curses back onto the dead.
+
+“Ritual up!” she shouted, still eating curses like candy. Sure, her anti-curse ritual was specialized, but against Death Knights, she was in her element. She grinned as every last reflection curse detonated as lightning damage through the sea of the dead. Right below her, Galeth’s ridiculous Holy Avenger blazed with intense light, and he began reaping zombies and ghouls.
+
+Perfect. Her ritual should last for ten minutes.
+
+On the far side of the field, her gaze found the towering pillar of darkness that marked the Blind Lich, seated astride his enormous skeletal dragon and surrounded by a set of personal guards – Death Knights of such power she could not even identify their levels. Fresh undead spilled endlessly forth from his dark necromantic spell like rain, scampering, moaning, or screeching as they appeared before they rushed into the fray. He’d never taken the field personally at Southport, and it bothered Moira greatly that she could not fathom why. Still, staring at him was unlikely to gain her any answers. They had their job, and they would do it well.
+
+Just as she was turning her attention to the fight below her, something happened that dragged her attention back. With an unearthly screech, the Lich dismounted and drew power to himself. Enough power that Moira could see it plainly from across the largest battlefield she had ever known.
+
+She shivered.
+
+He sliced his hand downward and tore through the fabric of reality. A dark pulsating slash that hovered in the air.
+
+Then, his Death Knights stepped through the jagged portal, their heavy, stained, mithril boots striding out onto a rich carpet of moss-covered ground, and on the other side, she glimpsed a grove of familiar, beautifully spreading oaks.
+
+Shit! That can’t be good!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

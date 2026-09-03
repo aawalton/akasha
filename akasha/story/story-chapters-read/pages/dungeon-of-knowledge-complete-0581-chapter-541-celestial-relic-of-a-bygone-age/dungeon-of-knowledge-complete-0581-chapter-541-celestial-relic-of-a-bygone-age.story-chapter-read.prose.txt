@@ -106,3 +106,114 @@ Your group has defeated Mistral Rager – Elemental – level 182-187 (Wind) Swa
 
 Mato growled, “Annoying.”
 
+“Wind magic,” Ali grumbled. She set to her task of deconstructing each of the strange wind elemental corpses. They were insubstantial cores of wind, but somehow still held together by some coherence, dropping several greater wind essences as soon as her magic disrupted them.
+
+Variant: Mistral Rager added to Imprint: Elemental.
+
+“At least we got something out of this,” Malika said, collecting the essences quickly.
+
+Still following her kobold priest, plummeting far below, Ali grimaced, bracing herself as the solid rock of an island, thinly coated in grass, rushed up toward the poor kobold’s terrified eyes. A prickle of curiosity spilled out from Ali to her priest as she caught sight of the strange floating rock with the chaotically glowing mana. What is …
+
+The plucky priest refused to close her eyes, showing Ali the rapidly growing image of the small island’s surface with a few scattered trees. That’s… holy mana? A… divine rock? A sympathetic instant of pain and a sensation of cracking and splatting tore through her connection to the hapless kobold, all the details slowed to excruciating by her passive mental haste, and then nothing. Ali didn’t even feel the snapping of her mana reservation.
+
+Your Priest of Azryet – Kobold – level 229 (Holy) has died.
+
+“Ali? What happened?” Malika said, rushing forward to catch or heal her.
+
+“Sorry. I’m ok,” Ali gasped, reeling from the power of the connection and the sensation of impact. “My kobold priest just hit the ground,” she explained.
+
+Malika grimaced.
+
+Ali passed her the last few essences, freeing herself to open her Grimoire. She quickly resummoned her kobold priest, who appeared and simply stood there for a long few moments before fixing Ali with a stare.
+
+“Are you ok?” Ali asked.
+
+“Yes, Ancient Mistress,” the kobold managed, bowing deeply. “Thank you for staying with me.”  But beneath the calm, the priest’s tumultuous emotions surged across the connection to Ali. “I beg for forgiveness; I will not fail you again.”
+
+“You were brave,” Ali said, knowing what she had been thinking in her final moment. “Thank you for showing me the island.” And only then did the emotions begin to subside.
+
+Suddenly, the kobold yipped in surprise, and Ali checked in with her to find she’d earned an unexpected boon.
+
+You have earned the title: Terminal VelocityComplete a three-kilometer fall unaided.You can use Feather Fall if you fall for more than ten seconds. Recharge: 24 hours.Title
+
+“Oh, you earned a title!” Ali exclaimed. Azryet had explained that these once-a-day skill boons were common titles. Not particularly useful, to be honest, she could easily do better with a half-dozen potions and a storage ring, but the truth was she had not – a fact that she intended to remedy immediately. Flight potions for everyone – of course! Why didn’t I think of that before? It was fortunate she already knew the imprint – nothing high-enough level to allow for effective combat, but they should be sufficient for getting the victims of those blasts back on solid ground without crashing. Ali shuddered at the remembered sensation of striking a hard rock surface at liquefication speed. Her emotional connection with the ego of her minions had grown dramatically with its advancement to the second tier, and she couldn’t afford to have it become a liability in combat.
+
+Still, now she had a new challenge, and one that had her heart thumping anew. “I… I should name you.” Azryet had insisted that this stop was a potent tool for advancing and that the name chosen was important.
+
+“Yip,” her kobold yipped, staring at her with wide, expectant eyes.
+
+Cheeks burning in shame at the recollection of her prior naming failure, Ali instantly discarded ‘Dropsy’ and ‘Azryet’s Little Falling Star’ and several others which her mind treacherously supplied – to utter those would be cruelty incarnate. No, it needs to be significant. She was brave. Even if the sight of an unusual rock was nothing of note, the poor kobold had felt her interest and stared death in the face to accommodate her curiosity.
+
+“You will be…” Ali said. Something… draconic?
+
+Her kobold held her breath.
+
+“Mirianth?” Ali blurted out all at once.
+
+The surge of relief that filled Ali’s heart when her kobold cheered happily was far larger than anyone would ever catch her admitting.
+
+Calen zipped across the ground, fully invisible to most forms of sight, and flying so low he barely cleared the swishing blades of grass, all to avoid the gaze of the elementals sweeping across the skies in great swooping arcs. They soared through the powerful streams of wind and swirled into the tangled whorls and vortices as the conflicting stormfronts collided.
+
+The patrolling behavior of the wind elementals nearer the ground was so unpredictable that he had been forced to pull a wide swathe, clearing the entire side of the forested area just to be safe. Especially with the disruptive Wind Buffet attack that knocked anything lighter than Mato and Tol’brekk flying. Still, things dramatically improved after the first batch; their fighting strategy was better, and Ali’s stopping to make everyone a healthy supply of Potions of Flying instantly lowered the risk. That, and not being so near the edge.
+
+Also, he was learning to read them better. Once he’d figured out how to time his shot for when they were rounding a boulder or a tree, he’d pulled only six of the group, successfully separating them. After that, the fights became trivial. His wings pulsed silently as he shot through the forest, enjoying a short respite from the unrelenting winds still howling overhead.
+
+He emerged from the trees into the clearing at the center of the island, as he had several times already, but though he waited there for several minutes, no new wind elementals flew into view.
+
+Just you left, he thought, studying the strange celestial being hovering above the glowing rock.
+
+Fractured Archon – Celestial – level 257 (Wind / Light)[Explorer]Category: Spawned MonsterThreat Level: Third TierMonster Type: Celestial, ArchonDamage: Wind, Light.Known Abilities: Unknown.
+
+He frowned a little as he regarded their next foe. Light affinity. Celestials were beings from a higher realm – this he knew for certain – though which realm this thing hailed from was anyone’s guess. Little else was known about them, unfortunately. For instance, did they take after elementals, and would his own light magic have any effect on it? Would it heal? He would be unable to tell until after he was already committed.
+
+Most of Calen’s defensive skills relied on illusion and light magic, and if they did not work, he had little else beyond sheer speed and agility. He had seen the instantaneous beam attacks the Fractured Archon could unleash from its eyes; there would be little chance of dodging such a thing if he couldn’t predict it.
+
+He shook off his apprehension and summoned his bow. This was nothing like the Death Knight he had pulled for Lyeneru when he was at one third of its level. Nor would he have to pull it particularly far – his friends lay in wait at the edge of the forest nearby. He paused for a moment. This might not be a dungeon, but rule number one still applied: have an escape plan.
+
+With a thought, he summoned several motes of light, spreading them far and wide as potential teleportation destinations.
+
+He drew back Lunaré’s Lament’s bowstring, holding it to his cheek as he stilled his breath and channeled his stamina. Power built within the bow, growing stronger by the second until his arms trembled from the force and the bowstring vibrated under his fingers.
+
+He released.
+
+His arrow leapt across the clearing, igniting with light as he imbued his ammunition enchantments upon the expensive mithril arrow en route. The Fractured Archon shimmered like a disturbed reflection upon a moonlit pond, and suddenly it shifted sideways. It did not move. First, it was in one location, and then it was simply in a slightly different one.
+
+His powerful, enchanted arrow flew right through the hole in its alabaster chest.
+
+Fuck. He’d just burned the lion’s share of his stamina on that shot, and now, there was no leech to restore it. When last had he missed a stationary target? Well, not stationary. Cunning.
+
+The Celestial Archon rotated its head, regarding him with a mostly featureless and expressionless face, save for the eyes, which shone with power. It shimmered once more, and nine identical images rippled outward from its body to confront him. Nine hands raised in unison, and nine streams of near-invisible crescent blades of wind shot out, like a perfectly synchronized ballet.
+
+He snapped off a volley of instantaneous, armor-piercing arrows, trailing chains of light, toward the line of Fractured Archons, but the shackles of his Grappling Shot enchantment fell to the ground, unable to adhere to the celestial being. Not waiting to witness the response to his attack, Calen launched himself through the forest, deploying decoys and grasping for his Eclipse skill and its protective shroud of invisibility. He maneuvered his Motes of Light, popping out a few fresh ones to leave a trail through the forest as he zigzagged around the whistling wind blades that shredded the trees, turning them into explosions of splinters, leaves, and sap.
+
+He teleported forward, avoiding the shrapnel.
+
+A resonant hum rose to a rapid crescendo. Trees shook. Dust and pebbles rose into the air, dancing with the thrumming vibration. A sudden, searing heat shot past his face as two blindingly intense beams vaporized the decoy beside him. The beams whipped around in a broad arc, slicing through a second decoy and leaving a trail of severed trees and burning brush on the ground in front of him.
+
+Whoa! Good to know! Calen dodged sideways, shooting a mote and a decoy off in opposite directions, trying to lure the next shot away from himself, but the next searing beam swept through the entire forest, taking out all the decoys on the left and biting deep into his left thigh. There was no blood, the wound cauterized instantly by the beam of intense light, but the stench of burnt flesh and the debilitating pain sent him veering off toward the ground, spinning head over heels.
+
+It was the only thing that saved him.
+
+The third blast burned through the space he had just vacated with such blinding intensity and waves of heat that he could feel his skin scorching from several feet away. With his combat invisibility on recharge, he had no recourse. He corrected his headlong, careening plunge, teleporting further and taking a controlled dive deeper into the trees, hoping to foil the follow-up attacks with partial cover, but the searing blasts and the toppled burning trees told him just how likely that was to work.
+
+His only option now was speed. He downed a mana potion and poured everything into Azrael’s Wings, pushing himself to the limit as he shot through the forest, not even entertaining the notion of trying to shoot backward for fear of losing ground. Beams sizzled by, tracking his path and forcing him to dodge back and forth while avoiding falling trees and exploding branches. Blades of wind rippled out continuously, creating little explosions of dust or leaves, depending on what they hit.
+
+Adrenaline pumping, heart racing, he teleported again, and then shot out of the forest and zipped past Mato before he wheeled about and raised his bow.
+
+Nine apparitions of light flew over the smoking forest, beams blazing from their eyes in perfect synchronization.
+
+“Calen?” Malika asked.
+
+Even in his frantic headlong flight from the Fractured Archon, Calen had not lost his wits. He shifted the mote he had following the monster, bathing the mirror images in light, and his Eyes of the Archon revealed the truth. “Second from the left,” he said, identifying the real Fractured Archon. “I can’t ground it.”
+
+“Got it,” Malika said, sprinting into the air to confront the flying celestial.
+
+But as the intrepid monk sprinted through the air, dozens of bright, shining orbs of light shot outward, circling its head like a blazing halo. Unlike Calen’s motes of light, these were elementals, easily identified by Explorer. Their brilliance grew blinding, and suddenly beams were flying everywhere as Malika blurred, dodging and healing herself through the suddenly impassable air.
+
+“What the heck is that?” Ali asked.
+
+“Bad news,” Calen panted.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -92,3 +92,98 @@ Permanent Talent 1: Magical Destruction 4
 
 Permanent Talent 2: Immortal Body 8
 
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 9
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 4
+
+Forewarning 8
+
+The Truth of Magic 4
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 4
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 6
+
+Aura Mastery 4
