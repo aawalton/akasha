@@ -1,15 +1,15 @@
 import { afterEach, describe, expect, test } from "bun:test"
-import { mkdtempSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { homedir, tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import {
   askServed,
-  servingFrom,
-  type Serving,
   CommandServerRefusal,
   REFUSAL_GONE,
   REFUSAL_LEASE,
   REFUSAL_OVER_LEASE,
+  type Serving,
+  servingFrom,
 } from "@akasha/editor-extension/command-server-client"
 import { LEASE_ENV, VERBS_SERVED } from "./lib/verb-served.ts"
 import { VERBS_LOADABLE, verbsAdrift } from "./verb-server.ts"
@@ -28,7 +28,7 @@ const BUN = join(homedir(), ".bun", "bin", "bun")
 
 const SERVER = join(import.meta.dir, "verb-server.ts")
 
-const WORKING_PAGE = "pages/domain/agent-turn-working.md"
+const WORKING_PAGE = "akasha/seat-system/seat-turn-states/pages/working.seat-turn-state.ts"
 
 const ASK_MS = 20_000
 
@@ -44,9 +44,12 @@ function rootWith(colour: string): string {
 }
 
 function colourIn(at: string, colour: string): undefined {
+  // The page as `agent-turn-colors` loads one: the body is transpiled and evaluated, and the type
+  // import a landed page carries is erased before that, so a root of our own needs no node_modules.
   writeFileSync(
     join(at, WORKING_PAGE),
-    `---\nslug: agent-turn-working\ncolor-slug: ${colour}\n---\n\nA seat's working turn.\n`
+    `export const working = {\n  pageTypeSlug: "seat-turn-state",\n  slug: "working",\n` +
+      `  definition: "an agent taking a turn",\n  colorSlug: "${colour}",\n} as const\n`
   )
   return undefined
 }
