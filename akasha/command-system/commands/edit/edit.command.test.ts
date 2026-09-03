@@ -191,8 +191,6 @@ test("a path outside the akasha folder is changed and said to be unjudged, unles
   expect(said.refusals).toEqual([])
   expect(said.report.join("\n")).toContain("went unjudged — tools/two.ts")
   expect(readFileSync(join(root, "tools/two.ts"), "utf8")).toBe("delta\n")
-  const dry = [...changing(root, "b", "delta", "beta", "tools/two.ts"), "--dry-run"]
-  expect(edit(dry, givenIn(root)).report.join("\n")).toContain("would go unjudged — tools/two.ts")
   const inner = edit(changing(root, "c", "delta", "beta", ".git/config"), givenIn(root))
   expect(inner.refusals[0]).toContain("`.git/`")
   const top = edit(changing(root, "d", "delta", "beta", "tools"), givenIn(root))
@@ -247,16 +245,6 @@ test("an empty passage names no place and is refused", () => {
   const said = edit(changing(root, "a", "", "delta"), givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("names no place")
-})
-
-test("a dry run gates and writes nothing at all", () => {
-  const root = repoWith({ "akasha/one.ts": "alpha\n" })
-  const was = headOf(root)
-  const said = edit([...changing(root, "a", "alpha", "delta"), "--dry-run"], givenIn(root))
-  expect(said.code).toBe(0)
-  expect(said.report.join("\n")).toContain("nothing was written")
-  expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\n")
-  expect(headOf(root)).toBe(was)
 })
 
 test("breaking the glass runs no check and says so in the commit", () => {

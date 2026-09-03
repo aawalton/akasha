@@ -4,7 +4,6 @@ import {
   BREAK_GLASS,
   bytesAt,
   DRAFT,
-  DRY_RUN,
   landingAsked,
   mistaking,
   textAt,
@@ -48,7 +47,7 @@ const NEW_FILE = "--new-file"
 
 const VALUED = [FILE_PATH, OLD_FILE, NEW_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
-const BARE = [DRY_RUN, DRAFT]
+const BARE = [DRAFT]
 
 type Stated = {
   readonly old: string
@@ -298,7 +297,7 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
         "edit",
         changes.map((one) => one.path)
       ),
-    dryRun: argv.includes(DRY_RUN),
+    dryRun: false,
     draft: argv.includes(DRAFT),
     glass: glass.glass,
     unmoved,
@@ -319,13 +318,13 @@ export function editing(argv: readonly string[], given: Given, piping: Piping): 
   const asked = askedWith(argv, given, piping)
   if (!("changes" in asked)) return asked
   const answer = landingAsked(given, asked)
-  if (answer.code === 0 && !asked.dryRun && asked.draft !== true) {
+  if (answer.code === 0 && asked.draft !== true) {
     dropReadings(
       given.root,
       asked.changes.filter((one) => one.body === null).map((one) => one.path)
     )
   }
-  if (answer.code !== 0 || !asked.dryRun) return answer
+  if (answer.code !== 0 || asked.draft !== true) return answer
   const said = judgedByNothing(outsideOf(asked.changes.map((one) => one.path)), true)
   return { ...answer, report: [...said, ...answer.report] }
 }
