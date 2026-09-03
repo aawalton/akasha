@@ -4,13 +4,13 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
-import { LOG } from "../tools/lib/ci-orchestrator/log.ts"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { LOG } from "@akasha/pipeline-orchestration/orchestrator-log"
 import {
   runBoundedOrchestratorTick,
   TICK_CEILING_MS,
   TICK_MS,
-} from "../tools/lib/ci-orchestrator/tick.ts"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+} from "@akasha/pipeline-orchestration/orchestrator-tick"
 
 const HELP = `bun services/ci-orchestrator.ts — the standing driver over every live pipeline
 

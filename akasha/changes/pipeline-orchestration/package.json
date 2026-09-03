@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/pipeline-orchestration",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./branch-failure-answering": "./branch-failure-answering/branch-failure-answering.module.code.ts",
+    "./branch-resolution-decision": "./branch-resolution-decision/branch-resolution-decision.module.code.ts",
+    "./desired-pipelines": "./desired-pipelines/desired-pipelines.module.code.ts",
+    "./orchestrator-log": "./orchestrator-log/orchestrator-log.module.code.ts",
+    "./orchestrator-tick": "./orchestrator-tick/orchestrator-tick.module.code.ts",
+    "./pipeline-page-rows": "./pipeline-page-rows/pipeline-page-rows.module.code.ts",
+    "./pipeline-statuses": "./pipeline-statuses/pipeline-statuses.module.code.ts",
+    "./tick-ceiling": "./tick-ceiling/tick-ceiling.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-system": "workspace:*",
+    "@akasha/workflow-selection": "workspace:*",
+    "@tools/lib": "workspace:*"
+  }
+}

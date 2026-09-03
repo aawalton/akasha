@@ -19,7 +19,9 @@ export function decideBranchResolution(input: BranchResolutionInput): BranchReso
   if (failedNames.length === 0) return { answeredElsewhere: false, unwitnessed: [] }
 
   const answered = new Set(
-    input.witnesses.filter((one) => one.pipelineSeq > input.pipelineSeq).map((one) => one.workflowName)
+    input.witnesses
+      .filter((one) => one.pipelineSeq > input.pipelineSeq)
+      .map((one) => one.workflowName)
   )
   const unwitnessed = failedNames.filter((name) => !answered.has(name))
   return { answeredElsewhere: unwitnessed.length === 0, unwitnessed }

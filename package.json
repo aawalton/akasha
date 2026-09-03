@@ -35,6 +35,7 @@
     "@akasha/k8s-synth": "workspace:*",
     "@akasha/music-choosing": "workspace:*",
     "@akasha/pages-url": "workspace:*",
+    "@akasha/pipeline-orchestration": "workspace:*",
     "@akasha/spotify": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-server": "workspace:*",

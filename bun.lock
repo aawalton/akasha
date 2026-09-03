@@ -22,6 +22,7 @@
         "@akasha/k8s-types": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/pipeline-orchestration": "workspace:*",
         "@akasha/spotify": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
@@ -459,6 +460,14 @@
       "name": "@akasha/calendar-sync",
       "dependencies": {
         "zod": "^4.3.6",
+      },
+    },
+    "akasha/changes/pipeline-orchestration": {
+      "name": "@akasha/pipeline-orchestration",
+      "dependencies": {
+        "@akasha/pages-system": "workspace:*",
+        "@akasha/workflow-selection": "workspace:*",
+        "@tools/lib": "workspace:*",
       },
     },
     "akasha/changes/workflow-language": {
@@ -3200,6 +3209,8 @@
     "@akasha/personas-core": ["@akasha/personas-core@workspace:akasha/personas-core"],
 
     "@akasha/pipeline-commands": ["@akasha/pipeline-commands@workspace:akasha/infrastructure/commands"],
+
+    "@akasha/pipeline-orchestration": ["@akasha/pipeline-orchestration@workspace:akasha/changes/pipeline-orchestration"],
 
     "@akasha/plain-language": ["@akasha/plain-language@workspace:akasha/domain-system/plain-language"],
 

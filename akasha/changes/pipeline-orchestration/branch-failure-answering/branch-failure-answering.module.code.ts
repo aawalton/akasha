@@ -1,11 +1,19 @@
-import { patchPage, patchState } from "../page-write.ts"
-import { type Value } from "../page-write-values.ts"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import type { Ceiling } from "./ceiling.ts"
-import { decideBranchResolution, type PassedWorkflowWitness } from "./decide-branch-resolution.ts"
-import { LOG } from "./log.ts"
-import { rowsOf, seqIn, textIn } from "./pages.ts"
-import { ANSWERED_ELSEWHERE, CASCADABLE_STATUSES, FAILED, PASSED } from "./statuses.ts"
+import { patchPage, patchState } from "@tools/lib/page-write"
+import type { Value } from "@tools/lib/page-write-values"
+import {
+  decideBranchResolution,
+  type PassedWorkflowWitness,
+} from "../branch-resolution-decision/branch-resolution-decision.module.code.ts"
+import { LOG } from "../orchestrator-log/orchestrator-log.module.code.ts"
+import { rowsOf, seqIn, textIn } from "../pipeline-page-rows/pipeline-page-rows.module.code.ts"
+import {
+  ANSWERED_ELSEWHERE,
+  CASCADABLE_STATUSES,
+  FAILED,
+  PASSED,
+} from "../pipeline-statuses/pipeline-statuses.module.code.ts"
+import type { Ceiling } from "../tick-ceiling/tick-ceiling.module.code.ts"
 
 const SEQ = "seq"
 

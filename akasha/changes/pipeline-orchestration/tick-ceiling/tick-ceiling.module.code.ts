@@ -1,4 +1,4 @@
-import { LOG } from "./log.ts"
+import { LOG } from "../orchestrator-log/orchestrator-log.module.code.ts"
 
 export interface Ceiling {
   readonly reached: () => boolean

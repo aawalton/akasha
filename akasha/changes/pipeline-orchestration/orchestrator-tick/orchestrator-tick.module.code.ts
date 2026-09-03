@@ -1,8 +1,8 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { resolveBranchFailures } from "./branch-resolution.ts"
-import { ceilingIn } from "./ceiling.ts"
-import { loadDesiredPipelines } from "./desired-pipelines.ts"
-import { LOG } from "./log.ts"
+import { resolveBranchFailures } from "../branch-failure-answering/branch-failure-answering.module.code.ts"
+import { loadDesiredPipelines } from "../desired-pipelines/desired-pipelines.module.code.ts"
+import { LOG } from "../orchestrator-log/orchestrator-log.module.code.ts"
+import { ceilingIn } from "../tick-ceiling/tick-ceiling.module.code.ts"
 
 export const TICK_MS = 60_000
 

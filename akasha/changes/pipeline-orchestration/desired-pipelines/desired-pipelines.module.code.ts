@@ -1,10 +1,10 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { rowsOf, seqIn, textIn } from "./pages.ts"
+import { rowsOf, seqIn, textIn } from "../pipeline-page-rows/pipeline-page-rows.module.code.ts"
 import {
   NON_TERMINAL_PIPELINE_STATUSES,
   NON_TERMINAL_STEP_STATUSES,
   NON_TERMINAL_WORKFLOW_STATUSES,
-} from "./statuses.ts"
+} from "../pipeline-statuses/pipeline-statuses.module.code.ts"
 
 const SEQ = "seq"
 
