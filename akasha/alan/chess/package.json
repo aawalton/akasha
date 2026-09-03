@@ -10,7 +10,8 @@
     "./chess-game": "./game/chess-game.module.code.ts",
     "./chess-game-loop": "./game-loop/chess-game-loop.module.code.ts",
     "./chess-game-record": "./game-record/chess-game-record.module.code.ts",
-    "./chess-board": "./board/chess-board.module.code.tsx"
+    "./chess-board": "./board/chess-board.module.code.tsx",
+    "./chess-puzzle-lichess": "./puzzle-lichess/chess-puzzle-lichess.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",

@@ -19,6 +19,7 @@ export const chess = {
     "module/chess-eval-bar",
     "module/chess-move-list",
     "module/chess-state",
+    "module/chess-puzzle-lichess",
     "stylesheet/chess-board-look",
     "page-type/chess-game",
     "page-type/chess-progress",
