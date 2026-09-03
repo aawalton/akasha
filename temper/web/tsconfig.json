@@ -53,9 +53,6 @@
   },
   "references": [
     {
-      "path": "../../akasha/infrastructure/k8s-types"
-    },
-    {
       "path": "../player-completion"
     }
   ],

@@ -15,10 +15,5 @@
   "exclude": [
     "node_modules",
     "dist"
-  ],
-  "references": [
-    {
-      "path": "../k8s-types"
-    }
   ]
 }

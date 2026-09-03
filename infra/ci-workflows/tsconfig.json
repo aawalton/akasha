@@ -16,10 +16,5 @@
     "node_modules",
     "dist",
     "./**/*.test.ts"
-  ],
-  "references": [
-    {
-      "path": "../k8s-types"
-    }
   ]
 }
