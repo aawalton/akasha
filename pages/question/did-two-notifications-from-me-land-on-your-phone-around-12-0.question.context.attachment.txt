@@ -1,0 +1,7 @@
+Last thing standing between #16903 and done. The project fixed a real bug: a persona's second question to you was being silently swallowed — it returned success, handed back a question id, and nothing reached you. Now every distinct question opens its own page and fires its own push.
+
+Proving it meant actually sending you two, at ~12:04Z. Both were labelled as needing no answer, both are resolved, and your badge is back to 0. Two notifications was the floor for demonstrating it at all.
+
+Everything else in this tree I verified by observation. This one I can't: our rows record that a push was ISSUED, and only your phone records that one ARRIVED. Accepting "the row says we sent it" as proof of delivery would close the project by committing the exact defect it fixed.
+
+A "no" would mean the notify path fired and the page resolved while nothing reached you — the one failure this tree couldn't rule out from its side.

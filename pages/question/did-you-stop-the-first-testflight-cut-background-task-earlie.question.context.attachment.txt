@@ -1,0 +1,1 @@
+The first 'bun ops mobile deploy-testflight' run was SIGTERM'd mid-rsync. Journal shows no system killer (memory fine, reapers idle), so the remaining suspects are a tap from your app or an unexplained harness kill. If it wasn't you, I file an investigation row; the re-run succeeded either way (build 123).

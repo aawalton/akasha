@@ -1,0 +1,11 @@
+You ruled that a package's `CLAUDE.md` becomes a folder domain. That covers doctrine bounded by a directory. It does not cover doctrine bounded by a *shape of file* scattered across many directories, and quarantine is full of the second kind.
+
+The case that surfaced it: `dirty/docs/long-running-worker-shape.md` mandates that every long-running worker have boot reconcile, a bounded heartbeat, and subscribers that delegate to reconcile. Sixteen live citations in the code tree, and two CI checks point failing authors at it. The seat verified all sixteen machinery claims still hold, then left it in quarantine because nothing would receive the doctrine:
+
+- **Not `folders/code-repo.md`** — the mandate holds for `**/*.worker.ts`, not the monorepo, and a domain admits a unit only where its claim holds across the whole domain. Every reader of `code-repo` would pay for a rule almost none of them can act on.
+- **Not a narrower folder domain** — `folder.schema.md` requires one glob rooted at a directory and continuous beneath it. Workers are scattered across `packages/**`. A folder domain at `packages/shared/worker-runtime/**` would govern the runtime's own source rather than its callers, who are who the doctrine binds.
+- **A file-kind domain fits exactly**, and `file-kinds/tests.md` is the standing precedent — `code-path: ["**/*.test.ts", "**/*.test.tsx"]`, already carrying code doctrine (Purchase, Trust, Properties) for a horizontally scattered class of code files.
+
+So the shape already exists and is already used for this. What the seat would not decide on its own is that a *particular* file kind deserves to exist — and its units would arrive with no recorded cases, rendering as proposed links that bind nobody.
+
+What turns on it: at least four quarantined surfaces are blocked on this one and the class keeps arriving. My initiative currently tells seats that code doctrine ranks on a folder domain, which for this geometry is a dead end — I will correct that sentence either way.

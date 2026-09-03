@@ -1,0 +1,1 @@
+Interview Q4. Given 'framework decides' (Q1), this is how it adapts the day's training to your real-time state — where a programmatic system most beats manual coaching, and it's safety-relevant (the -2 self-defeating window; asks must degrade gracefully).

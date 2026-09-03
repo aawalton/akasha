@@ -1,0 +1,12 @@
+Knowledge documents are the main shape the code-tree ingestion is landing in, and every one lands a `code-path:` key under this unsettled rule — so a ruling changes what is being built right now, and retro-fits cheaply while the corpus is small.
+
+The key is sold on one promise: hand the document to whoever is about to edit anything that would falsify it, at the moment of the edit. Six independent readings hit a case where it cannot:
+
+1. A universal over a repo-wide seam ("every consumer routes through this function") is falsified by any file anywhere, so the honest glob is `packages/**` — which the same section forbids. The seat repaired it by naming the one reader it found, which turns a universal into an instance and lets a second reader appear in silence.
+2. A generated SQL file is named, but what an editor actually opens is the TypeScript twin; the glob catches the change one commit late rather than at the keystroke.
+3. A whole class has no falsifier in either tree — facts about the vendored closed-source `claude` CLI, falsified by an upgrade.
+4. A claim sitting inside a *reason* rather than in the mechanism is falsifiable by files the glob never names.
+5. Which files falsify a body is only knowable after stage 3's checks, but the task judges frontmatter at stage 2 — so the key is settled against what the document appears to be about, which is the exact failure the schema's own Why singles out.
+6. Nothing validates that a `code-path:` glob names anything extant, so a renamed directory leaves a document silently governing nothing.
+
+All six are recorded at `questions/knowledge-document-reach.md`. Nothing is blocked — seats keep landing keys on their own judgment, which is why the corpus is accumulating inconsistent ones.
