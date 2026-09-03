@@ -36,6 +36,7 @@ struct AlanWaltonWidgets: WidgetBundle {
         ClaudeUsageWidget()
         InboxStoplightsWidget()
         UpkeepStoplightsWidget()
+        AttributeStoplightsWidget()
         CategorizeWidget()
         SafetyLevelWidget()
         SurplusWidget()
