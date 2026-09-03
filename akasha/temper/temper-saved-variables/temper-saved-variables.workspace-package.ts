@@ -25,5 +25,15 @@ export const temperSavedVariables = {
       invariantKind: "constraint",
       statement: "What the game wrote is taken as written rather than corrected.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A read of a saved-variables file is as old as the game's last write of that file.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "The game writes a saved-variables file on a reload or a quit rather than as an addon acts.",
+    },
   ],
 } as const satisfies WorkspacePackage
