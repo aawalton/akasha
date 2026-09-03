@@ -1,0 +1,299 @@
+{
+  "name": "ops",
+  "displayName": "Ops",
+  "description": "Workstation-local helpers paired with the ops CLI. 'ops' is a placeholder name taken from the CLI; the editor has not been named, and naming it is a process of its own.",
+  "publisher": "vscode",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./extension-entry/extension-entry.module.code.ts",
+  "contributes": {
+    "viewsContainers": {
+      "secondarySidebar": [
+        {
+          "id": "opsAgents",
+          "title": "Agents",
+          "icon": "$(organization)"
+        },
+        {
+          "id": "opsDomains",
+          "title": "Domains",
+          "icon": "$(type-hierarchy)"
+        },
+        {
+          "id": "opsWork",
+          "title": "Work",
+          "icon": "$(checklist)"
+        },
+        {
+          "id": "opsPages",
+          "title": "Pages",
+          "icon": "$(symbol-structure)"
+        }
+      ]
+    },
+    "views": {
+      "opsAgents": [
+        {
+          "id": "opsAgentTree",
+          "name": "Agents"
+        }
+      ],
+      "opsDomains": [
+        {
+          "id": "opsDomainTree",
+          "name": "Domains"
+        }
+      ],
+      "opsWork": [
+        {
+          "id": "opsWorkTree",
+          "name": "Work"
+        }
+      ],
+      "opsPages": [
+        {
+          "id": "opsPageTree",
+          "name": "Pages"
+        }
+      ]
+    },
+    "commands": [
+      {
+        "command": "agentTerminalName.syncNow",
+        "title": "Ops Terminal Rename: Sync Now"
+      },
+      {
+        "command": "opsStatusBar.refreshNow",
+        "title": "Ops Status Bar: Refresh Now"
+      },
+      {
+        "command": "opsTranscript.open",
+        "title": "Ops: Open Seat Transcript"
+      },
+      {
+        "command": "opsAgentTree.refreshNow",
+        "title": "Ops Agents: Refresh Now",
+        "icon": "$(refresh)"
+      },
+      {
+        "command": "opsDomainTree.refreshNow",
+        "title": "Ops Domains: Refresh Now",
+        "icon": "$(refresh)"
+      },
+      {
+        "command": "opsWorkTree.refreshNow",
+        "title": "Ops Work: Refresh Now",
+        "icon": "$(refresh)"
+      },
+      {
+        "command": "opsPageTree.refreshNow",
+        "title": "Ops Pages: Refresh Now",
+        "icon": "$(refresh)"
+      },
+      {
+        "command": "opsAgentTree.placeInteractive",
+        "category": "Ops Agents",
+        "title": "Run Interactively"
+      },
+      {
+        "command": "opsAgentTree.placeHeadless",
+        "category": "Ops Agents",
+        "title": "Run Headless"
+      },
+      {
+        "command": "opsAgentTree.runStop",
+        "category": "Ops Agents",
+        "title": "Stop"
+      },
+      {
+        "command": "opsAgentTree.runResume",
+        "category": "Ops Agents",
+        "title": "Resume"
+      },
+      {
+        "command": "opsAgentTree.runReset",
+        "category": "Ops Agents",
+        "title": "Reset"
+      },
+      {
+        "command": "opsAgentTree.copySeatName",
+        "category": "Ops Agents",
+        "title": "Copy Seat Name"
+      },
+      {
+        "command": "opsAgentTree.openPage",
+        "category": "Ops Agents",
+        "title": "Open Page"
+      }
+    ],
+    "menus": {
+      "view/title": [
+        {
+          "command": "opsAgentTree.refreshNow",
+          "when": "view == opsAgentTree",
+          "group": "navigation"
+        },
+        {
+          "command": "opsDomainTree.refreshNow",
+          "when": "view == opsDomainTree",
+          "group": "navigation"
+        },
+        {
+          "command": "opsWorkTree.refreshNow",
+          "when": "view == opsWorkTree",
+          "group": "navigation"
+        },
+        {
+          "command": "opsPageTree.refreshNow",
+          "when": "view == opsPageTree",
+          "group": "navigation"
+        }
+      ],
+      "view/item/context": [
+        {
+          "command": "opsAgentTree.placeInteractive",
+          "when": "view == opsAgentTree && viewItem =~ /^seat\\..+\\.headless$/",
+          "group": "1_place@1"
+        },
+        {
+          "command": "opsAgentTree.placeHeadless",
+          "when": "view == opsAgentTree && viewItem =~ /^seat\\..+\\.interactive$/",
+          "group": "1_place@1"
+        },
+        {
+          "command": "opsAgentTree.runStop",
+          "when": "view == opsAgentTree && viewItem =~ /^seat\\.running\\./",
+          "group": "2_run@1"
+        },
+        {
+          "command": "opsAgentTree.runResume",
+          "when": "view == opsAgentTree && viewItem =~ /^seat\\.stopped\\./",
+          "group": "2_run@1"
+        },
+        {
+          "command": "opsAgentTree.runReset",
+          "when": "view == opsAgentTree && viewItem =~ /^seat\\./",
+          "group": "2_run@2"
+        },
+        {
+          "command": "opsAgentTree.copySeatName",
+          "when": "view == opsAgentTree && viewItem =~ /^seat\\./",
+          "group": "6_copypath@1"
+        },
+        {
+          "command": "opsAgentTree.openPage",
+          "when": "view == opsAgentTree",
+          "group": "0_open@1"
+        }
+      ],
+      "editor/title/context/replace": [
+        {
+          "command": "opsAgentTree.placeInteractive",
+          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsHeadless",
+          "group": "1_place@1"
+        },
+        {
+          "command": "opsAgentTree.placeHeadless",
+          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsInteractive",
+          "group": "1_place@1"
+        },
+        {
+          "command": "opsAgentTree.runStop",
+          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsRunning",
+          "group": "2_run@1"
+        },
+        {
+          "command": "opsAgentTree.runResume",
+          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsStopped",
+          "group": "2_run@1"
+        },
+        {
+          "command": "opsAgentTree.runReset",
+          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabs",
+          "group": "2_run@2"
+        },
+        {
+          "command": "opsAgentTree.copySeatName",
+          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabs",
+          "group": "6_copypath@1"
+        }
+      ]
+    },
+    "colors": [
+      {
+        "id": "ops.color.blue",
+        "description": "The gemstone blue the corpus names, drawn on a row whose turn state names it.",
+        "defaults": {
+          "dark": "#2c5a9d",
+          "light": "#2c5a9d",
+          "highContrast": "#2c5a9d",
+          "highContrastLight": "#2c5a9d"
+        }
+      },
+      {
+        "id": "ops.color.green",
+        "description": "The gemstone green the corpus names, drawn on a row whose turn state names it.",
+        "defaults": {
+          "dark": "#2d8c57",
+          "light": "#2d8c57",
+          "highContrast": "#2d8c57",
+          "highContrastLight": "#2d8c57"
+        }
+      },
+      {
+        "id": "ops.color.orange",
+        "description": "The gemstone orange the corpus names, drawn on a row whose turn state names it.",
+        "defaults": {
+          "dark": "#be5a0a",
+          "light": "#be5a0a",
+          "highContrast": "#be5a0a",
+          "highContrastLight": "#be5a0a"
+        }
+      },
+      {
+        "id": "ops.color.purple",
+        "description": "The gemstone purple the corpus names, drawn on a row whose turn state names it.",
+        "defaults": {
+          "dark": "#7c4ca3",
+          "light": "#7c4ca3",
+          "highContrast": "#7c4ca3",
+          "highContrastLight": "#7c4ca3"
+        }
+      },
+      {
+        "id": "ops.color.red",
+        "description": "The gemstone red the corpus names, drawn on a row whose turn state names it.",
+        "defaults": {
+          "dark": "#a51c32",
+          "light": "#a51c32",
+          "highContrast": "#a51c32",
+          "highContrastLight": "#a51c32"
+        }
+      },
+      {
+        "id": "ops.color.yellow",
+        "description": "The gemstone yellow the corpus names, drawn on a row whose turn state names it.",
+        "defaults": {
+          "dark": "#b87b11",
+          "light": "#b87b11",
+          "highContrast": "#b87b11",
+          "highContrastLight": "#b87b11"
+        }
+      }
+    ]
+  },
+  "dependencies": {
+    "@akasha/editor-extension": "workspace:*"
+  }
+}
