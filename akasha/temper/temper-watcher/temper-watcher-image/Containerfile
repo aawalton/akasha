@@ -1,3 +1,13 @@
+FROM oven/bun:1.3.14-alpine AS icon-builder
+WORKDIR /icon
+# The crate's icon is a page property carried beside its page as base64 json, so no
+# file in akasha holds a NUL byte. This stage writes the bytes back out under the name
+# the carrier states, and carried-file refuses where the sha256 it states is not what
+# came out, which fails this RUN rather than baking a wrong icon.
+COPY akasha/code-system/carried-file/carried-file.module.code.ts ./carried-file.ts
+COPY akasha/temper/watcher-tray/watcher-tray.rust-crate.icon.json ./carrier.json
+RUN mkdir -p /out && bun -e 'const { carriedIn } = await import("./carried-file.ts"); const one = carriedIn(await Bun.file("carrier.json").text(), "watcher-tray.rust-crate.icon.json"); await Bun.write("/out/" + one.name, one.bytes)'
+
 FROM rust:1.95-alpine3.23 AS rust-builder
 ARG COMMIT_SHA
 ENV COMMIT_SHA=${COMMIT_SHA}
@@ -6,8 +16,8 @@ RUN rustup target add x86_64-pc-windows-gnu
 WORKDIR /build
 # The crate is held as pages under akasha/temper/watcher-tray. These COPY lines are
 # the seam rust-crate calls for: each module is copied to the name Cargo reads, which
-# is the `moduleName` its page states. The icon stays outside akasha because
-# crate-icon-path holds that a crate's icon lives outside it.
+# is the `moduleName` its page states. The icon comes from icon-builder, which writes
+# the bytes the crate's `icon` property carries to the name include_bytes! reads.
 COPY akasha/temper/watcher-tray/Cargo.toml ./Cargo.toml
 COPY akasha/temper/watcher-tray/build.rs ./build.rs
 COPY akasha/temper/watcher-tray/pages/watcher-tray-main/watcher-tray-main.rust-module.rust.rs ./src/main.rs
@@ -16,7 +26,7 @@ COPY akasha/temper/watcher-tray/pages/watcher-tray-logger/watcher-tray-logger.ru
 COPY akasha/temper/watcher-tray/pages/watcher-tray-supervisor/watcher-tray-supervisor.rust-module.rust.rs ./src/supervisor.rs
 COPY akasha/temper/watcher-tray/pages/watcher-tray-tray/watcher-tray-tray.rust-module.rust.rs ./src/tray.rs
 COPY akasha/temper/watcher-tray/pages/watcher-tray-updater/watcher-tray-updater.rust-module.rust.rs ./src/updater.rs
-COPY temper-watcher/tray/assets ./assets
+COPY --from=icon-builder /out ./assets
 RUN mkdir -p .cargo && \
     echo '[target.x86_64-pc-windows-gnu]' > .cargo/config.toml && \
     echo 'linker = "x86_64-w64-mingw32-gcc"' >> .cargo/config.toml && \

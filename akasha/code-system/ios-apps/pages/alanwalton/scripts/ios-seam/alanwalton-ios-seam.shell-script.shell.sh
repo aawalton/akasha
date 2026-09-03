@@ -10,15 +10,31 @@ HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PACKAGE="$(cd "$HERE/../.." && pwd)"
 IOS_APP_DIR="$(cd "$PACKAGE/../.." && pwd)"
 AKASHA_HERE="$(cd "$IOS_APP_DIR/.." && pwd)"
-# akasha holds text, and a 1024px PNG is not text — no check can read it, so the
-# akasha commands refuse it. The icon is the one thing this shell still keeps outside.
-REPO_ROOT="$(cd "$AKASHA_HERE/../.." && pwd)"
+# The 1024px app icon is a page property carried beside the app's page as base64
+# json, so no file in akasha holds a NUL byte. This writes the bytes back out and
+# refuses where the sha256 the carrier states is not what came out.
+carried_file_out() {
+  local carrier="$1" out="$2" b64 want have
+  b64="$(sed -n 's/^  "base64": "\(.*\)"$/\1/p' "$carrier")"
+  want="$(sed -n 's/^  "sha256": "\(.*\)",$/\1/p' "$carrier")"
+  if [[ -z "$b64" || -z "$want" ]]; then
+    echo "ERROR: $carrier carries no file — it names no base64 line and no sha256 line." >&2
+    return 1
+  fi
+  printf '%s' "$b64" | openssl base64 -d -A > "$out"
+  have="$(shasum -a 256 "$out" | cut -d' ' -f1)"
+  if [[ "$want" != "$have" ]]; then
+    echo "ERROR: $carrier says its bytes are $want and what came out is $have." >&2
+    return 1
+  fi
+}
 
 PLIST="ios/App/App/Info.plist"
 APPDELEGATE="ios/App/App/AppDelegate.swift"
 CONFIG="ios/App/App/capacitor.config.json"
 APPICONSET="ios/App/App/Assets.xcassets/AppIcon.appiconset"
-ICON_SOURCE="$REPO_ROOT/native-shell/alanwalton/ios-icon/AppIcon-1024.png"
+ICON_CARRIER="$PACKAGE/alanwalton.ios-app.icon.json"
+ICON_SOURCE="$(mktemp -d)/AppIcon-1024.png"
 PB="/usr/libexec/PlistBuddy"
 
 # The akasha sources this seam reads are found from this script; everything it
@@ -111,10 +127,11 @@ if [[ ! -f "$CONFIG" ]]; then
   echo "ERROR: $CONFIG not found — run 'npx cap add ios' first." >&2
   exit 1
 fi
-if [[ ! -f "$ICON_SOURCE" ]]; then
-  echo "ERROR: $ICON_SOURCE not found — the committed 1024 app icon is missing." >&2
+if [[ ! -f "$ICON_CARRIER" ]]; then
+  echo "ERROR: $ICON_CARRIER not found — the 1024 app icon is carried there as base64 json." >&2
   exit 1
 fi
+carried_file_out "$ICON_CARRIER" "$ICON_SOURCE"
 if [[ "$WIDGET_ENABLED" == "1" ]]; then
   if [[ ! -f "$WIDGET_INFO_PLIST" ]]; then
     echo "ERROR: $WIDGET_INFO_PLIST not found — the widget extension's Info.plist stands beside its akasha ios-program page, and Xcode has no target without it. Its Swift stands in akasha too, as ios-component pages, and copy_widget_components refuses on its own if one the program names is missing." >&2
