@@ -1,9 +1,6 @@
 {
   "references": [
     {
-      "path": "./infra/k8s"
-    },
-    {
       "path": "./infra/scripts"
     },
     {
