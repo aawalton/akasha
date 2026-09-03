@@ -1,3 +1,4 @@
+import { claimSeatSupervision } from "@akasha/seat-system/seat-supervisor-claim"
 import { type ClearRebindHooks, performClearRebind } from "@akasha/seat-system/supervisor-rebind"
 import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
 import { watchSeatRotation } from "@akasha/seat-system/supervisor-rotation-watch"
@@ -9,7 +10,6 @@ import type { AgentIdHandle } from "@akasha/seat-system/supervisor-self-identity
 import { setRestoreConsoleHandle } from "@akasha/seat-system/supervisor-state"
 import type { AgentProcess } from "@akasha/seat-system/supervisor-types"
 import { rotatedOf } from "@tools/lib/seat-rotated-session"
-import { claimSeatSupervision } from "@tools/lib/seat-supervisor-claim"
 import type { buildAgentLogRedirect } from "../supervisor-console/supervisor-console.module.code.ts"
 import { clearSeatRotation } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 

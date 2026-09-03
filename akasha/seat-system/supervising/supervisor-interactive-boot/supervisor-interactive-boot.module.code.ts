@@ -1,3 +1,4 @@
+import { claimSeatSupervision } from "@akasha/seat-system/seat-supervisor-claim"
 import { reconcileAgentBootFiles, resolveClaudeHandoff } from "@akasha/seat-system/supervisor-adopt"
 import { selectAccountAndWriteCredential } from "@akasha/seat-system/supervisor-agent"
 import { createAgent } from "@akasha/seat-system/supervisor-agent-create"
@@ -24,7 +25,6 @@ import {
   setRestoreConsoleHandle,
 } from "@akasha/seat-system/supervisor-state"
 import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
-import { claimSeatSupervision } from "@tools/lib/seat-supervisor-claim"
 import { shape } from "@tools/lib/shape"
 import { toolRestrictions } from "@tools/lib/tool-access"
 import type {

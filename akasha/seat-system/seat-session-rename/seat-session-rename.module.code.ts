@@ -48,7 +48,7 @@ export function sessionNote(outcome: SessionRename, was: string | null, now: str
     case "no-session":
       return ""
     case "renamed":
-      return `; its tmux session moved with it`
+      return "; its tmux session moved with it"
     case "taken":
       return `; its tmux session is still ${was}, a live session already holding ${now}`
     case "failed":

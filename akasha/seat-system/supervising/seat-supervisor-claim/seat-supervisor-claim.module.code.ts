@@ -1,12 +1,12 @@
 import { LOG } from "@akasha/seat-system/supervisor-config"
-import { agentHolderProcess } from "./seat-presence-read.ts"
+import { agentHolderProcess } from "@tools/lib/seat-presence-read"
 import {
   formatSeatProcKey,
   parseSeatProcKey,
   readSeatProcKey,
   type SeatPresence,
   statedProcessPresence,
-} from "./seat-proc-key.ts"
+} from "@tools/lib/seat-proc-key"
 
 export interface SeatSupervisionInput {
   readonly holderProcess: string | null

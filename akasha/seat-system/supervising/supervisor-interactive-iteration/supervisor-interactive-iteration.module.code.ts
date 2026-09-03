@@ -1,3 +1,4 @@
+import { claimSeatSupervision } from "@akasha/seat-system/seat-supervisor-claim"
 import { createAgent } from "@akasha/seat-system/supervisor-agent-create"
 import type { SeatResume } from "@akasha/seat-system/supervisor-args"
 import { liveChildExitRule } from "@akasha/seat-system/supervisor-child-exit-rule"
@@ -27,7 +28,6 @@ import { sessionProjectDir } from "@akasha/seat-system/supervisor-session-projec
 import { processes, setRestoreConsoleHandle } from "@akasha/seat-system/supervisor-state"
 import type { AgentProcess, InheritedProc } from "@akasha/seat-system/supervisor-types"
 import { readOwnTranscriptTail } from "@tools/lib/agent-io-probe"
-import { claimSeatSupervision } from "@tools/lib/seat-supervisor-claim"
 import { USER_ID } from "@tools/lib/user-id"
 import { keepSeatTranscript } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type {

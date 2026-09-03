@@ -1,4 +1,5 @@
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
+import { terminatePriorAgentTree } from "@akasha/seat-system/seat-recovery"
 import { resolveRelaunchTarget } from "@akasha/seat-system/seat-relaunch-target"
 import { decideReviveLaunch } from "@akasha/seat-system/seat-revive-launch-decide"
 import { clearRequestedAction } from "@akasha/seat-system/supervisor-agent-action-clear"
@@ -10,7 +11,6 @@ import {
   launchSeatUnderTmux,
 } from "./launch-seat-tmux.ts"
 import type { SeatPresence } from "./seat-proc-key.ts"
-import { terminatePriorAgentTree } from "./seat-recovery.ts"
 import { decideSpawnGuard, type SpawnGuardDecision, type SpawnGuardInput } from "./spawn-guard.ts"
 import {
   type MaterializeTranscriptResult,

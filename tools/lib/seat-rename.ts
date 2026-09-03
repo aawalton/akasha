@@ -1,20 +1,14 @@
-
 import { basename } from "node:path"
-import { FLEET, type NameableSeat, composeSeatName } from "./compose-seat-name.ts"
-import { pageValuesOf } from "./seat-page-values.ts"
+import { renameSeatSession, sessionNote } from "@akasha/seat-system/seat-session-rename"
+import { composeSeatName, FLEET, type NameableSeat } from "./compose-seat-name.ts"
 import { restateSeatName } from "./seat-name-restate.ts"
+import { pageValuesOf } from "./seat-page-values.ts"
 import { seatNameForAgent } from "./seat-presence-read.ts"
-import { renameSeatSession, sessionNote } from "./seat-session-rename.ts"
 
 const SLOT_JOINER = "|"
 
 function slotsOf(seat: NameableSeat): string {
-  return [
-    seat.attributes.persona,
-    seat.attributes.domain,
-    seat.attributes.role,
-    seat.principal,
-  ]
+  return [seat.attributes.persona, seat.attributes.domain, seat.attributes.role, seat.principal]
     .map((one) => one ?? "")
     .join(SLOT_JOINER)
 }
