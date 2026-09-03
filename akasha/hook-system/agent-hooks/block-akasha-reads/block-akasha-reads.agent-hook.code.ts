@@ -51,8 +51,9 @@ export function refusalFor(shown: string): string {
     "",
     "`--file-path` repeats, so several files come back from one call.",
     "",
-    "LET THE OUTPUT REACH YOU. A read piped, redirected into a file, or sent to /dev/null is",
-    "refused and records nothing, because what the record says is that the body reached you.",
+    "LET THE OUTPUT REACH YOU. A read piped or sent to /dev/null is refused and records nothing,",
+    "because what the record says is that the body reached you. A read redirected into a file is",
+    "allowed and recorded, so a body you never open counts as read. Open what you redirect.",
     "A body you already hold comes back as one line rather than the file, and `--full` returns",
     "the body anyway.",
   ].join("\n")
