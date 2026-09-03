@@ -1,90 +1,24 @@
-import { spawnSync } from "node:child_process"
 import { createHash } from "node:crypto"
 import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  CAPPED_CEILING_MS,
+  type GitBytes,
+  type GitResult,
+  git,
+  gitBytes,
+  gitCapped,
+  NETWORK_CEILING_MS,
+  ranGit as ran,
+  gitTextOf as text,
+} from "@akasha/git/git-capping"
 import { holderProcessRuns } from "../holder/holder.ts"
 
-export interface GitResult {
-  readonly code: number
-  readonly stdout: string
-  readonly stderr: string
-}
-
-const NETWORK_SUBCOMMANDS = new Set(["push", "fetch", "ls-remote"])
-
-export interface GitBytes {
-  readonly code: number
-  readonly stdout: Uint8Array
-  readonly stderr: string
-}
-
-export const NETWORK_CEILING_MS = 10_000
-
-const OUTPUT_CEILING = 256 * 1024 * 1024
-
-const EMPTY = new Uint8Array()
-
-interface Ran {
-  readonly code: number
-  readonly stdout: Uint8Array
-  readonly stderr: Uint8Array
-}
-
-function ran(
-  root: string,
-  args: readonly string[],
-  taking: { readonly input?: Uint8Array; readonly ceilingMs?: number } = {}
-): Ran {
-  const done = spawnSync("git", [...args], {
-    cwd: root,
-    maxBuffer: OUTPUT_CEILING,
-    ...(taking.input === undefined ? {} : { input: Buffer.from(taking.input) }),
-    ...(taking.ceilingMs === undefined ? {} : { timeout: taking.ceilingMs }),
-  })
-  const stderr = done.stderr ?? EMPTY
-  if (done.error !== undefined) {
-    const why = new TextEncoder().encode(done.error.message)
-    return { code: -1, stdout: done.stdout ?? EMPTY, stderr: stderr.length > 0 ? stderr : why }
-  }
-  return { code: done.status ?? -1, stdout: done.stdout ?? EMPTY, stderr }
-}
-
-function text(bytes: Uint8Array): string {
-  return new TextDecoder().decode(bytes).trim()
-}
+export type { GitBytes, GitResult }
+export { CAPPED_CEILING_MS, git, gitBytes, gitCapped, NETWORK_CEILING_MS }
 
 function sleepSync(ms: number): void {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
-}
-
-export function gitBytes(
-  root: string,
-  args: readonly string[],
-  ceilingMs: number = NETWORK_CEILING_MS
-): GitBytes {
-  const network = NETWORK_SUBCOMMANDS.has(args[0] ?? "")
-  const proc = ran(root, args, network ? { ceilingMs } : {})
-  return { code: proc.code, stdout: proc.stdout, stderr: text(proc.stderr) }
-}
-
-export function git(
-  root: string,
-  args: readonly string[],
-  ceilingMs: number = NETWORK_CEILING_MS
-): GitResult {
-  const raw = gitBytes(root, args, ceilingMs)
-  return { code: raw.code, stdout: new TextDecoder().decode(raw.stdout).trim(), stderr: raw.stderr }
-}
-
-export const CAPPED_CEILING_MS = 10_000
-
-export function gitCapped(
-  root: string,
-  args: readonly string[],
-  ceilingMs: number = CAPPED_CEILING_MS
-): GitResult {
-  const proc = ran(root, args, { ceilingMs })
-  return { code: proc.code, stdout: text(proc.stdout), stderr: text(proc.stderr) }
 }
 
 const LANDING_LOCK = "harness-landing.lock"
@@ -133,8 +67,7 @@ export function whileHoldingLanding<T>(
       if (!holderProcessRuns(path)) {
         try {
           rmSync(path)
-        } catch {
-        }
+        } catch {}
       }
       const left = until - Date.now()
       if (left <= 0) {
@@ -153,8 +86,7 @@ export function whileHoldingLanding<T>(
   } finally {
     try {
       if (readFileSync(path, "utf8").trim() === String(process.pid)) rmSync(path)
-    } catch {
-    }
+    } catch {}
   }
 }
 
@@ -413,7 +345,13 @@ export function pushBranch(root: string, ceilingMs: number = NETWORK_CEILING_MS)
   const branch = head.stdout
   const push = git(root, ["push", remote, `HEAD:refs/heads/${branch}`], ceilingMs)
   if (push.code === 0) {
-    return { failed: false, line: `push:   pushed to ${remote} (${branch})`, remote, branch, reason: null }
+    return {
+      failed: false,
+      line: `push:   pushed to ${remote} (${branch})`,
+      remote,
+      branch,
+      reason: null,
+    }
   }
   const reason = push.stderr !== "" ? push.stderr : `git push exited ${push.code}`
   return {

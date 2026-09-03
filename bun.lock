@@ -814,6 +814,7 @@
     "akasha/git": {
       "name": "@akasha/git",
       "dependencies": {
+        "@akasha/code-system": "workspace:*",
         "@akasha/utils-run": "workspace:*",
         "zod": "^4.3.6",
       },
