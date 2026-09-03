@@ -6,6 +6,7 @@ export const attributeIntelligence = {
   slug: "attribute-intelligence",
   definition: "the points Alan earned on a day for the words he added about what he is learning",
   code: "ts",
+  test: "ts",
   label: "Intelligence",
   unit: "points",
   place: 5,

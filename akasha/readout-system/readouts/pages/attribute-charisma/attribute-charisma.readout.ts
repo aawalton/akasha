@@ -6,6 +6,7 @@ export const attributeCharisma = {
   slug: "attribute-charisma",
   definition: "the points Alan earned on a day for the hours he was more safe than challenged",
   code: "ts",
+  test: "ts",
   label: "Charisma",
   unit: "points",
   place: 6,

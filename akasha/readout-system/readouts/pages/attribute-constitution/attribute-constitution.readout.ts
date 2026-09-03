@@ -6,6 +6,7 @@ export const attributeConstitution = {
   slug: "attribute-constitution",
   definition: "the points Alan earned on a day for the whole plants he ate",
   code: "ts",
+  test: "ts",
   label: "Constitution",
   unit: "points",
   place: 3,

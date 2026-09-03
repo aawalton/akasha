@@ -6,6 +6,7 @@ export const attributeStrength = {
   slug: "attribute-strength",
   definition: "the points Alan earned on a day for the weight he moved",
   code: "ts",
+  test: "ts",
   label: "Strength",
   unit: "points",
   place: 1,

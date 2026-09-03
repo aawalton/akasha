@@ -6,6 +6,7 @@ export const attributeEndurance = {
   slug: "attribute-endurance",
   definition: "the points Alan earned on a day for the calories he burned moving",
   code: "ts",
+  test: "ts",
   label: "Endurance",
   unit: "points",
   place: 2,
