@@ -15,7 +15,7 @@ export const akashaMigration = {
     {
       statement: "The story chapters are akasha pages.",
       workingMemory:
-        "19,080 files: story-chapter-royal-road 18,091, story-chapter-wandering-inn 832, the read and written records the rest. akasha/story/story-chapters-played/pages/ already holds the target shape, with prose split across prose.partN.txt beside-files. Blocked in part on the beside-file grammar fix, since the grammar does not match partN today and a move or remove orphans the parts.",
+        "19,080 files: story-chapter-royal-road 18,091 and story-chapter-wandering-inn 832, the read and written records the rest. The beside-file grammar now carries partN and uncommitted sidecars (77721a3a40), so this is unblocked. story-chapter-played means a chapter of a story nobody wrote, the wrong invariant for a real serial or for Alan's own fiction, so the types needed are siblings of it. Number parts contiguously from part1; a gap is refused at write time.",
     },
     {
       statement: "The game content is akasha pages.",
