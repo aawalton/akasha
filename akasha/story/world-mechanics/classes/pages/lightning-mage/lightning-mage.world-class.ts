@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const lightningMage = {
   id: "01a0657e-138e-7b13-a91e-065378bb3bd2",

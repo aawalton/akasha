@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const longstriderScout = {
   id: "01a0657e-138f-7a1e-9a5a-350c68952273",
