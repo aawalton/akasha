@@ -20,6 +20,7 @@ import { resolveStatedIdentity } from "@akasha/seat-system/seat-stated-identity"
 import { refuseStatedName } from "@akasha/seat-system/seat-stated-name-refusal"
 import { refuseStatedParent } from "@akasha/seat-system/seat-stated-parent-refusal"
 import type { StatedAgentSlots } from "@akasha/seat-system/supervisor-rebind-deps"
+import { setTurnState } from "@akasha/seat-system/turn-records"
 import {
   composeSeatName,
   FLEET,
@@ -38,7 +39,6 @@ import { refuseHeldName } from "../../lib/seat-name-claim.ts"
 import { composedNameOf } from "../../lib/seat-rename.ts"
 import { defaultFor } from "../../lib/seat-resolve.ts"
 import { help } from "../../lib/seat-start-help.ts"
-import { setTurnState } from "../../lib/seat-turn.ts"
 import { type StatedIdentity, spawnSeat } from "../../lib/spawn-seat.ts"
 import { stateSpawnedSeat } from "../../lib/state-spawned-seat.ts"
 

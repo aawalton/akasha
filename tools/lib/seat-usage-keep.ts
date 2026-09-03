@@ -1,4 +1,4 @@
-import { keepSeatUsage, usageIn } from "./seat-usage.ts"
+import { keepSeatUsage, usageIn } from "@akasha/seat-system/seat-usage"
 
 const agent = process.argv[2] ?? ""
 

@@ -1,4 +1,4 @@
-import type { SeatRecord } from "./seat-record.ts"
+import type { SeatRecord } from "@tools/lib/seat-record"
 
 export type TurnRecord = SeatRecord
 
@@ -6,11 +6,12 @@ export type TurnRecord = SeatRecord
 // had nowhere to land once the old store stopped being written; the reads have answered null since
 // the reads moved to akasha, a step earlier.
 //
-// NOTHING WRITES THEM EITHER. `akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json` registers exactly one hook, `block-ops-cli`.
-// The two inference hooks that reach `turn-end-decide` — where `stopped` is the one value any of
-// these ever carries that the readers do not already assume — are unregistered, as are all six
-// agent hooks. What is left calls `setTurnState(agent, "idle")`, and `stampIn` reads a missing
-// stamp as `idle` too, so even a landed write would say what its absence already says.
+// NOTHING WRITES THEM EITHER. `agents.agent-settings.harness-settings.json` registers exactly one
+// hook, `block-ops-cli`. The two inference hooks that reach `turn-end-decide` — where `stopped` is
+// the one value any of these ever carries that the readers do not already assume — are
+// unregistered, as are all six agent hooks. What is left calls `setTurnState(agent, "idle")`, and
+// `stampIn` reads a missing stamp as `idle` too, so even a landed write would say what its absence
+// already says.
 //
 // So this is not a value being lost. It is a record nobody keeps, described as one.
 //
@@ -22,23 +23,23 @@ export type TurnRecord = SeatRecord
 // The way back is the same for all three: register the hooks, declare the property on the seat page
 // type in akasha, name it in `CARRIED`, and restore these bodies. The middle step is the one with
 // no gate on it — see `seat-system`'s upkeep invariant.
-export function turnEndReadingOf(agent: string): TurnRecord | null {
+export function turnEndReadingOf(_agent: string): TurnRecord | null {
   return null
 }
 
-export function setTurnEndReading(agent: string, value: string): void {}
+export function setTurnEndReading(_agent: string, _value: string): void {}
 
-export function turnStateOf(agent: string): TurnRecord | null {
+export function turnStateOf(_agent: string): TurnRecord | null {
   return null
 }
 
-export function setTurnState(agent: string, value: string): void {}
+export function setTurnState(_agent: string, _value: string): void {}
 
-export function turnPendingSourceOf(agent: string): TurnRecord | null {
+export function turnPendingSourceOf(_agent: string): TurnRecord | null {
   return null
 }
 
-export function setTurnPendingSource(agent: string, value: string): void {}
+export function setTurnPendingSource(_agent: string, _value: string): void {}
 
 function keptLine(label: string, recorded: TurnRecord | null, absent: string): string {
   const said =

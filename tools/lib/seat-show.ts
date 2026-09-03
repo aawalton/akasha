@@ -1,27 +1,32 @@
-
-import { ATTRIBUTES, type Attributes, type Mode, type ModeRecord, ownAttributesOf } from "./attributes.ts"
-import { documentsOnDemand } from "./documents-on-demand.ts"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { declaredSeatReading } from "./declared-seat-reading.ts"
-import { documentNamed } from "./seat-attribute.ts"
-import type { Args } from "./seat-args.ts"
-import { initiativeLine } from "./seat-initiative.ts"
-import { flexLine } from "./seat-flex.ts"
-import { principalLine } from "./seat-principal.ts"
-import { registrationAccountLine } from "./seat-registration-account.ts"
-import { onCallLine } from "./seat-on-call.ts"
-import { seatNameForAgent } from "./seat-presence-read.ts"
-import { type Stated, statedOf } from "./seat-stated.ts"
-import { seatTurnStateLine, seatTurnStateOf } from "./seat-turn-state.ts"
-import { pendingLines, pendingOf } from "./seat-turn-pending.ts"
-import { workingLines, workingOf } from "./seat-turn-working.ts"
 import {
   turnEndReadingLine,
   turnEndReadingOf,
   turnPendingSourceLine,
   turnPendingSourceOf,
-} from "./seat-turn.ts"
+} from "@akasha/seat-system/turn-records"
+import { workingLines, workingOf } from "@akasha/seat-system/turn-working"
+import {
+  ATTRIBUTES,
+  type Attributes,
+  type Mode,
+  type ModeRecord,
+  ownAttributesOf,
+} from "./attributes.ts"
 import { fail } from "./command.ts"
+import { declaredSeatReading } from "./declared-seat-reading.ts"
+import { documentsOnDemand } from "./documents-on-demand.ts"
+import type { Args } from "./seat-args.ts"
+import { documentNamed } from "./seat-attribute.ts"
+import { flexLine } from "./seat-flex.ts"
+import { initiativeLine } from "./seat-initiative.ts"
+import { onCallLine } from "./seat-on-call.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
+import { principalLine } from "./seat-principal.ts"
+import { registrationAccountLine } from "./seat-registration-account.ts"
+import { type Stated, statedOf } from "./seat-stated.ts"
+import { pendingLines, pendingOf } from "./seat-turn-pending.ts"
+import { seatTurnStateLine, seatTurnStateOf } from "./seat-turn-state.ts"
 
 export function showLines(agent: string, args: Args): readonly string[] {
   const setting = [
@@ -87,7 +92,9 @@ export function describe(attributes: Attributes): readonly string[] {
     onCall: false,
     principal: null,
   }
-  const shown = new Map(declaredSeatReading(stated, roots, documents).map((one) => [one.claimant, one]))
+  const shown = new Map(
+    declaredSeatReading(stated, roots, documents).map((one) => [one.claimant, one])
+  )
   for (const key of ATTRIBUTES) {
     const held = attributes[key]
     if (held === undefined) {

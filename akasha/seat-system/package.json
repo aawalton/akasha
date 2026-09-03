@@ -51,6 +51,7 @@
     "./seat-stated-name-refusal": "./seat-stated-name-refusal/seat-stated-name-refusal.module.code.ts",
     "./seat-stated-parent-refusal": "./seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts",
     "./seat-stopping": "./seat-stopping/seat-stopping.module.code.ts",
+    "./seat-usage": "./seat-usage/seat-usage.module.code.ts",
     "./subagent-presence": "./subagents/presence/subagent-presence.module.code.ts",
     "./supervisor": "./supervising/supervisor/supervisor.module.code.ts",
     "./supervisor-account-config": "./supervising/supervisor-account-config/supervisor-account-config.module.code.ts",
@@ -166,7 +167,9 @@
     "./supervisor-wait-resume": "./supervising/supervisor-wait-resume/supervisor-wait-resume.module.code.ts",
     "./supervisor-wait-resume-answer": "./supervising/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts",
     "./supervisor-wait-resume-decide": "./supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts",
-    "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts"
+    "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts",
+    "./turn-records": "./seat-turn/turn-records/turn-records.module.code.ts",
+    "./turn-working": "./seat-turn/turn-working/turn-working.module.code.ts"
   },
   "dependencies": {
     "@akasha/utils-system": "workspace:*",

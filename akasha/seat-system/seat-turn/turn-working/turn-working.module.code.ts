@@ -1,4 +1,3 @@
-
 export const WORKING_KEY = "turn-working"
 
 export const TURN_WORKING_COMPONENTS = ["active-turn", "compacting"] as const
@@ -41,13 +40,13 @@ export function anyWorkingRead(working: TurnWorking): boolean {
 // It comes back by declaring the property in akasha, naming it in `RECORDS`, and registering the
 // hooks — in that order, because `keepBesideUnder` now refuses a key akasha does not declare rather
 // than dropping the write.
-export function workingOf(agent: string): TurnWorking {
+export function workingOf(_agent: string): TurnWorking {
   return {}
 }
 
 export function setWorking(
-  agent: string,
-  values: Partial<Record<TurnWorkingComponent, boolean>>
+  _agent: string,
+  _values: Partial<Record<TurnWorkingComponent, boolean>>
 ): void {}
 
 export function workingLines(working: TurnWorking): readonly string[] {

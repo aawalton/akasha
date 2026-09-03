@@ -1,12 +1,16 @@
-
 import {
   type TurnRecord,
   turnEndReadingOf,
   turnPendingSourceOf,
   turnStateOf,
-} from "./seat-turn.ts"
-import { type TurnPending, anyPendingRead, pendingOf, pendingOn } from "./seat-turn-pending.ts"
-import { type TurnWorking, anyWorking, anyWorkingRead, workingOf } from "./seat-turn-working.ts"
+} from "@akasha/seat-system/turn-records"
+import {
+  anyWorking,
+  anyWorkingRead,
+  type TurnWorking,
+  workingOf,
+} from "@akasha/seat-system/turn-working"
+import { anyPendingRead, pendingOf, pendingOn, type TurnPending } from "./seat-turn-pending.ts"
 
 export const SEAT_TURN_STAMPS = ["idle", "stopped"] as const
 
@@ -86,6 +90,7 @@ export function seatTurnStateOf(agent: string): SeatTurnReading {
 }
 
 export function seatTurnStateLine(reading: SeatTurnReading): string {
-  const said = reading.waitingOn === null ? reading.state : `${reading.state} on ${reading.waitingOn}`
+  const said =
+    reading.waitingOn === null ? reading.state : `${reading.state} on ${reading.waitingOn}`
   return `  ${"state".padEnd(8)} ${said}`
 }

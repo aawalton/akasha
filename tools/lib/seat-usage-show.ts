@@ -1,4 +1,4 @@
-import { contextTokensOf, modelOf } from "./seat-usage.ts"
+import { contextTokensOf, modelOf } from "@akasha/seat-system/seat-usage"
 
 const agent = process.argv[2] ?? ""
 const model = agent === "" ? null : modelOf(agent)

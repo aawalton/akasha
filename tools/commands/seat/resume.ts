@@ -7,6 +7,7 @@ import {
   SEAT_MODE_INTERACTIVE,
   SEAT_MODES,
 } from "@akasha/seat-system/seat-modes"
+import { setTurnState } from "@akasha/seat-system/turn-records"
 import { parseWindowDuration } from "../../lib/active-core.ts"
 import { readTranscriptMtimeMs } from "../../lib/agent-io-probe.ts"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
@@ -29,7 +30,6 @@ import { seatRecord } from "../../lib/seat-facts.ts"
 import { resolveSeatTargetFromFlagOrEnv } from "../../lib/seat-handle.ts"
 import { sweepSupersededAgentTrees } from "../../lib/seat-recovery.ts"
 import { help } from "../../lib/seat-resume-help.ts"
-import { setTurnState } from "../../lib/seat-turn.ts"
 import { shape } from "../../lib/shape.ts"
 import { decideSubagentGuard } from "../../lib/subagent-guard.ts"
 import { standingSubagentsOf } from "../../lib/subagent-page.ts"

@@ -4,6 +4,7 @@ export const summary =
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import { isSeatMode, SEAT_MODE_HEADLESS, SEAT_MODES } from "@akasha/seat-system/seat-modes"
+import { setTurnState } from "@akasha/seat-system/turn-records"
 import { composeSeatName } from "../../lib/compose-seat-name.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { killSeatSession, launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
@@ -15,7 +16,6 @@ import { type SeatFromHistory, seatFromHistory } from "../../lib/seat-page-histo
 import { principalSeatNameOf } from "../../lib/seat-principal.ts"
 import { help } from "../../lib/seat-reset-help.ts"
 import { pageWouldCompose, type Stated, statedOf } from "../../lib/seat-stated.ts"
-import { setTurnState } from "../../lib/seat-turn.ts"
 import { stateSpawnedSeat } from "../../lib/state-spawned-seat.ts"
 import { A_RESET, stopSeat } from "../../lib/stop-seat.ts"
 
