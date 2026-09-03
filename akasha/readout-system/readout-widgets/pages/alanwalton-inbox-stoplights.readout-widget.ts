@@ -11,7 +11,7 @@ export const alanwaltonInboxStoplights = {
   families: ["small"],
   feed: "https://alanwalton.com/api/inbox-stoplights",
   galleryName: "Inboxes",
-  galleryDescription: "Your five inbox stoplights, at a glance.",
+  galleryDescription: "Your three inbox stoplights, at a glance.",
   opens: "capacitor://localhost/nav/tasks-a7242626",
   groupSlugs: ["inboxes"],
   place: 3,
