@@ -1,0 +1,27 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const standingCalfRaiseBodyweight = {
+  id: "019ee5fe-9a46-7c8b-8fa3-37e443f9ffd6",
+  pageTypeSlug: "exercise",
+  slug: "standing-calf-raise-bodyweight",
+  title: "Standing Calf Raise (Bodyweight)",
+  exerciseCategory: "strength",
+  equipment: "body-only",
+  force: "push",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0.06,
+  mechanic: "isolation",
+  movementPattern: "isolation-other",
+  muscleFocus: "legs",
+  primaryMuscles: ["calves"],
+  scoringMode: "reps",
+  sfrScore: 4,
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

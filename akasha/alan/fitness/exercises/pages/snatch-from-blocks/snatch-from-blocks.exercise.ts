@@ -1,0 +1,45 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const snatchFromBlocks = {
+  id: "019ebc78-7c41-767c-9fd6-1ecece20feab",
+  pageTypeSlug: "exercise",
+  slug: "snatch-from-blocks",
+  title: "Snatch from Blocks",
+  exerciseCategory: "olympic-weightlifting",
+  equipment: "barbell",
+  exerciseExternalId: "Snatch_from_Blocks",
+  exerciseExternalLink:
+    "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Snatch_from_Blocks",
+  force: "pull",
+  gripDemand: "high",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_from_Blocks/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_from_Blocks/0.jpg",
+  implementCount: 1,
+  isBallistic: true,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "expert",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "hinge",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps"],
+  scoringMode: "reps",
+  secondaryMuscles: [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower-back",
+    "shoulders",
+    "traps",
+    "triceps",
+  ],
+  sfrScore: 2,
+  skillCost: "high",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise
