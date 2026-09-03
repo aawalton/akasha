@@ -198,6 +198,8 @@ export function alreadyBuilt(held: InPod | null, sha: string): boolean {
 export function syncScript(sha: string): string {
   return [
     `rm -f ${REPO_PATH}/.git/index.lock`,
+    `find ${REPO_PATH}/.git/refs ${REPO_PATH}/.git/logs/refs -name '*.lock' -delete 2>/dev/null || true`,
+    `trap 'rm -f ${REPO_PATH}/.git/index.lock' EXIT INT TERM`,
     `cd ${REPO_PATH}`,
     "git fetch origin main",
     `git reset --hard ${sha}`,
