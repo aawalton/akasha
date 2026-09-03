@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aManifestExportIsClobberedMinutesAfterYouVerifyIt = {
+  id: "01a068b6-b2b2-7000-8afe-e09efe0cf150",
+  pageTypeSlug: "finding",
+  slug: "a-manifest-export-is-clobbered-minutes-after-you-verify-it",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "Verifying a manifest export right after your own landing is not enough. Another lane's whole-file landing can take the line out minutes later, and by then you have moved on and your check has passed. The window is not the landing, it is the whole time your block is open, so the export audit belongs at the end of a block as well as after each landing. Verified once and left, an export that resolved when you checked it can be gone before you report.",
+  evidence:
+    'Measured 2026-09-03, and this is the same mechanism as a-whole-file-landing-reverts-a-sibling-workers-lines-with-code-zero, caught from the other side: not by the worker who wrote the stale body but by the worker whose line went, three commits later.\n\nAt 13:01:59 I landed bd6ba745cd, which added `"./gated-landing"` to akasha/command-system/package.json and moved tools/lib/gated-landing.ts under it. I then verified: Bun.resolveSync answered the module path for @akasha/command-system/gated-landing, and bun build --target=bun tools/run-supervisor.ts exited 0. Both true when taken.\n\nAt 13:05:16, 197 seconds later, 5d76216c65 added `"./checked-landing"` to the same manifest from a snapshot read before my commit. Its diff is +1/-1 in one hunk: one line added, my line deleted. It reads as an ordinary addition, its author is Akasha with no session trailer, and it returned 0.\n\nI found it only because my next landing\'s verification step re-ran the build, which had gone from exit 0 to exit 1 and named two readers: tools/lib/message-file.ts:2 and tools/lib/page-seq.ts:4. Two akasha modules name that same specifier. Had my block ended at the earlier check I would have reported a working move and left a broken build behind, with my own verification honestly recording success.\n\nThe audit that catches it is cheap and does not need the build. For every export line a block adds, read the key back out of the manifest on disk at the end of the block. I ran it over sixteen export lines across five manifests and it named the one that was gone; the other fifteen were intact, so this is one collision rather than a pattern, and the check is a few seconds. Put back at 542f097c25, after which the build was green again.',
+} as const satisfies Finding
