@@ -27,7 +27,7 @@ SESSION_ID=$(echo "$INPUT" | jq -r '.session_id // "unknown"' 2>/dev/null || ech
 AGENT_COUNT=0
 if [ -n "${AGENT_ID:-}" ]; then
   HERE="$REPO/tools"
-  AGENT_COUNT=$("$BUN_BIN" "$HERE/lib/seat-children-live.ts" "$AGENT_ID" 2>/dev/null || echo 0)
+  AGENT_COUNT=$("$BUN_BIN" "$AKASHA/seat-system/seat-children/seat-children.module.code.ts" "$AGENT_ID" 2>/dev/null || echo 0)
   case "$AGENT_COUNT" in '' | *[!0-9]*) AGENT_COUNT=0 ;; esac
   printf '%s' "$INPUT" | "$BUN_BIN" "$HERE/lib/seat-usage-keep.ts" "$AGENT_ID" >/dev/null 2>&1 || true
 fi

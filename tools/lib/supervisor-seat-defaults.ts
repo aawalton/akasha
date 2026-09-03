@@ -1,9 +1,8 @@
-
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { SEAT_COMMAND_REL } from "../aw/init/state-seat.ts"
-import { attributesOf, recordedModeOf } from "./attributes.ts"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { SEAT_COMMAND_REL } from "@akasha/seat-system/terminal-seat-stating"
+import { attributesOf, recordedModeOf } from "./attributes.ts"
 import { onCallOf } from "./seat-on-call.ts"
 import { defaultSlots } from "./seat-resolve.ts"
 
@@ -107,6 +106,5 @@ export async function stateSeatDefaults(opts: {
   if (entry === null) return
   try {
     await callSeatAt(entry, defaultSeatCall(opts.agentId, opts.mode))
-  } catch {
-  }
+  } catch {}
 }
