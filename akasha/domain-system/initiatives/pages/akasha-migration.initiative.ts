@@ -25,7 +25,7 @@ export const akashaMigration = {
     {
       statement: "Nothing outside akasha duplicates what is already inside it.",
       workingMemory:
-        "AN OLD PAGE TYPE NAMES ITS SUCCESSOR: `files: akasha:<path>` in its front matter, verified daily-tracking to wake-day. Take that road; a rename defeats slug matching and constraint 20 defeats prose matching. Ablating a page type before its counterpart lands manufactures absence for every definition pointing at it. Body-only distinctness must strip id, slug AND the export name. 10,469 sidecars hold 126,962 rows; a folder sweep destroys them.",
+        "FIVE WAYS AN INSTRUMENT LIES, every one measured tonight. Four report absence because they never looked: `| head` truncation, a pipeline degraded to matching nothing, searching by name where a rename leaves only content, and `grep -r` skipping symlinks. One reports a difference that is not there: heuristic comparison across a transform, where you must transform the input and compare bytes. Seed a fault the way real data arrives, and pin every count to a commit.",
     },
   ],
   constraints: [
