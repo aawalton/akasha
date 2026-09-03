@@ -30,11 +30,11 @@ test("a summary is what the subject says after its first colon", () => {
 })
 
 test("the marks Amazon writes into a subject are struck before it is read", () => {
-  expect(summaryFromSubject("Ordered: \\u2066A Book\\u2069")).toBe("A Book")
+  expect(summaryFromSubject("Ordered: \u2066A Book\u2069")).toBe("A Book")
 })
 
 test("an item with no stated price is kept with no price rather than dropped", () => {
-  const items = itemsFromBody(["* A Book", "  Quantity: 2", "* A Pen"].join("\\n"))
+  const items = itemsFromBody(["* A Book", "  Quantity: 2", "* A Pen"].join("\n"))
   expect(items.map((one) => one.name)).toEqual(["A Book", "A Pen"])
   expect(items[0]?.quantity).toBe(2)
   expect(items[1]?.quantity).toBe(1)
