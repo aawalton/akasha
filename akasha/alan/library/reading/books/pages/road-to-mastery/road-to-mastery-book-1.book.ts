@@ -13,7 +13,7 @@ export const roadToMasteryBook1 = {
   ownLength: 184000,
   ownProgress: 184000,
   publishedAt: "2023-05-30",
-  partOfSlugs: ["road-to-mastery"],
+  partOfSlugs: ["book-series/road-to-mastery"],
   source: "kindle",
   externalId: "B0BW9X6H59",
   externalLink: "https://amazon.com/dp/B0BW9X6H59",

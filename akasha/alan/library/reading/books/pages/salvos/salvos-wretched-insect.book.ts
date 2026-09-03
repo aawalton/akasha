@@ -11,7 +11,7 @@ export const salvosWretchedInsect = {
   position: 7,
   ownLength: 97500,
   publishedAt: "2022-08-02",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["book-series/salvos"],
   source: "kindle",
   externalId: "B0B4R3Q5PZ",
   externalLink: "https://amazon.com/dp/B0B4R3Q5PZ",

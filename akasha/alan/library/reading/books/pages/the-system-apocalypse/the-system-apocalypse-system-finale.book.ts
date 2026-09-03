@@ -13,7 +13,7 @@ export const theSystemApocalypseSystemFinale = {
   ownLength: 119000,
   ownProgress: 119000,
   publishedAt: "2022-03-01",
-  partOfSlugs: ["the-system-apocalypse"],
+  partOfSlugs: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B09DQSNMNB",
   externalLink: "https://amazon.com/dp/B09DQSNMNB",

@@ -11,7 +11,7 @@ export const salvosBeast = {
   position: 11,
   ownLength: 110750,
   publishedAt: "2023-11-01",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["book-series/salvos"],
   source: "kindle",
   externalId: "B0C6FYQ95H",
   externalLink: "https://amazon.com/dp/B0C6FYQ95H",

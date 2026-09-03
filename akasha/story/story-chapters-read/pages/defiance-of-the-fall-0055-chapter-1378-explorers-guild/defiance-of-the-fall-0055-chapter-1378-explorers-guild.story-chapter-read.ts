@@ -5,7 +5,7 @@ export const defianceOfTheFall0055Chapter1378ExplorersGuild = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0055-chapter-1378-explorers-guild",
   title: "Chapter 1,378 - Explorer's Guild",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 55,
   ownLength: 3043,
   unitSlug: "words",

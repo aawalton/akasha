@@ -5,7 +5,7 @@ export const defianceOfTheFall0058Chapter1381Idiche = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0058-chapter-1381-idiche",
   title: "Chapter 1,381 - Idiche",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 58,
   ownLength: 3462,
   unitSlug: "words",

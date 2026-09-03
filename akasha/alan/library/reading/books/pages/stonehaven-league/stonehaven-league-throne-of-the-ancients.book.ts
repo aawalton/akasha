@@ -12,7 +12,7 @@ export const stonehavenLeagueThroneOfTheAncients = {
   ownLength: 87500,
   ownProgress: 87500,
   publishedAt: "2019-08-13",
-  partOfSlugs: ["stonehaven-league"],
+  partOfSlugs: ["book-series/stonehaven-league"],
   source: "kindle",
   externalId: "B07W584LKQ",
   externalLink: "https://amazon.com/dp/B07W584LKQ",

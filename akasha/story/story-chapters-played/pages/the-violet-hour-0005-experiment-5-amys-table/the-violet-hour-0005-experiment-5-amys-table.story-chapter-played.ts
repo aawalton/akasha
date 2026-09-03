@@ -5,7 +5,7 @@ export const theVioletHour0005Experiment5AmysTable = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-violet-hour-0005-experiment-5-amys-table",
   title: "Experiment 5 — Amy's Table",
-  partOfSlugs: ["the-violet-hour"],
+  partOfSlugs: ["story-played/the-violet-hour"],
   position: 5,
   ownLength: 898,
   unitSlug: "words",

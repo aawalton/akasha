@@ -12,7 +12,7 @@ export const worldTreeTrilogyDemonLords = {
   ownLength: 109750,
   ownProgress: 109750,
   publishedAt: "2019-02-07",
-  partOfSlugs: ["world-tree-trilogy"],
+  partOfSlugs: ["book-series/world-tree-trilogy"],
   source: "kindle",
   externalId: "B07NHLQP7F",
   externalLink: "https://amazon.com/dp/B07NHLQP7F",

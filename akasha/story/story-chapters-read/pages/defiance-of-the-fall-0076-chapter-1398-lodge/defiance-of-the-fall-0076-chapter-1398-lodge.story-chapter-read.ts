@@ -5,7 +5,7 @@ export const defianceOfTheFall0076Chapter1398Lodge = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0076-chapter-1398-lodge",
   title: "Chapter 1,398 - Lodge",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 76,
   ownLength: 3044,
   unitSlug: "words",

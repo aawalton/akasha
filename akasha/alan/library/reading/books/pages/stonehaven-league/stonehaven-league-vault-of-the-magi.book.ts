@@ -12,7 +12,7 @@ export const stonehavenLeagueVaultOfTheMagi = {
   ownLength: 93500,
   ownProgress: 93500,
   publishedAt: "2019-03-28",
-  partOfSlugs: ["stonehaven-league"],
+  partOfSlugs: ["book-series/stonehaven-league"],
   source: "kindle",
   externalId: "B07PPVXTKX",
   externalLink: "https://amazon.com/dp/B07PPVXTKX",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0007Chapter6BornForCarnage = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0007-chapter-6-born-for-carnage",
   title: "Chapter 6 - Born for Carnage",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 7,
   ownLength: 1633,
   unitSlug: "words",

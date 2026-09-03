@@ -12,7 +12,7 @@ export const theSystemApocalypseCitiesInChains = {
   ownLength: 86500,
   ownProgress: 86500,
   publishedAt: "2018-06-01",
-  partOfSlugs: ["the-system-apocalypse"],
+  partOfSlugs: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B07DGJM4D6",
   externalLink: "https://amazon.com/dp/B07DGJM4D6",

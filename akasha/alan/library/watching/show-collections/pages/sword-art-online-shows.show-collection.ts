@@ -5,7 +5,7 @@ export const swordArtOnlineShows = {
   pageTypeSlug: "show-collection",
   slug: "sword-art-online-shows",
   title: "Sword Art Online Shows",
-  partOfSlugs: ["sword-art-online"],
+  partOfSlugs: ["fandom/sword-art-online"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

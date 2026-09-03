@@ -5,7 +5,7 @@ export const defianceOfTheFall0024Chapter1348Whitfall = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0024-chapter-1348-whitfall",
   title: "Chapter 1,348 - Whitfall",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 24,
   ownLength: 2768,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0041Chapter1364MercurialSacks = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0041-chapter-1364-mercurial-sacks",
   title: "Chapter 1,364 - Mercurial Sacks",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 41,
   ownLength: 2841,
   unitSlug: "words",

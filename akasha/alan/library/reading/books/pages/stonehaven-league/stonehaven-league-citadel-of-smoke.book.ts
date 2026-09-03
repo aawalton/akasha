@@ -12,7 +12,7 @@ export const stonehavenLeagueCitadelOfSmoke = {
   ownLength: 104500,
   ownProgress: 104500,
   publishedAt: "2018-12-04",
-  partOfSlugs: ["stonehaven-league"],
+  partOfSlugs: ["book-series/stonehaven-league"],
   source: "kindle",
   externalId: "B07KWHZ69V",
   externalLink: "https://amazon.com/dp/B07KWHZ69V",

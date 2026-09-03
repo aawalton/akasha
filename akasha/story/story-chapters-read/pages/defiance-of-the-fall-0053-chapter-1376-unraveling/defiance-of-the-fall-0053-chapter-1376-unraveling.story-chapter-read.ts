@@ -5,7 +5,7 @@ export const defianceOfTheFall0053Chapter1376Unraveling = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0053-chapter-1376-unraveling",
   title: "Chapter 1,376 - Unraveling",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 53,
   ownLength: 3204,
   unitSlug: "words",

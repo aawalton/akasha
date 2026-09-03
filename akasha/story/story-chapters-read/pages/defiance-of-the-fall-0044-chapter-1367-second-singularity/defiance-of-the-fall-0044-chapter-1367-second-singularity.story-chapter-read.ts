@@ -5,7 +5,7 @@ export const defianceOfTheFall0044Chapter1367SecondSingularity = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0044-chapter-1367-second-singularity",
   title: "Chapter 1,367 - Second Singularity",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 44,
   ownLength: 2971,
   unitSlug: "words",

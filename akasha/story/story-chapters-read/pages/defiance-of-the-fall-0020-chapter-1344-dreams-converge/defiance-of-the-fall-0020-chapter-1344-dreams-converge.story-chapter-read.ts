@@ -5,7 +5,7 @@ export const defianceOfTheFall0020Chapter1344DreamsConverge = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0020-chapter-1344-dreams-converge",
   title: "Chapter 1,344 - Dreams Converge",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 20,
   ownLength: 2991,
   unitSlug: "words",

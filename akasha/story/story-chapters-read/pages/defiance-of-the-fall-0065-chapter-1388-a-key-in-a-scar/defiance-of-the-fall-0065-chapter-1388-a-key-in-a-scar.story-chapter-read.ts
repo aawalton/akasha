@@ -5,7 +5,7 @@ export const defianceOfTheFall0065Chapter1388AKeyInAScar = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0065-chapter-1388-a-key-in-a-scar",
   title: "Chapter 1,388 - A Key in a Scar",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 65,
   ownLength: 3046,
   unitSlug: "words",

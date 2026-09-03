@@ -5,7 +5,7 @@ export const defianceOfTheFall0062Chapter1385EggedOn = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0062-chapter-1385-egged-on",
   title: "Chapter 1,385 - Egged On",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 62,
   ownLength: 3106,
   unitSlug: "words",

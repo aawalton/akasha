@@ -5,7 +5,7 @@ export const defianceOfTheFall0086Chapter1407Perfection = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0086-chapter-1407-perfection",
   title: "Chapter 1,407 - Perfection",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 86,
   ownLength: 2890,
   unitSlug: "words",

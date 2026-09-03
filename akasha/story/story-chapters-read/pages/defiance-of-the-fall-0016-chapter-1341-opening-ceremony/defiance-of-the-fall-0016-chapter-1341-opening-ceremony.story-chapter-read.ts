@@ -5,7 +5,7 @@ export const defianceOfTheFall0016Chapter1341OpeningCeremony = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0016-chapter-1341-opening-ceremony",
   title: "Chapter 1,341 - Opening Ceremony",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 16,
   ownLength: 3081,
   unitSlug: "words",

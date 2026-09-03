@@ -5,7 +5,7 @@ export const defianceOfTheFall0064Chapter1387BleedingThrough = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0064-chapter-1387-bleeding-through",
   title: "Chapter 1,387 - Bleeding Through",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 64,
   ownLength: 3270,
   unitSlug: "words",

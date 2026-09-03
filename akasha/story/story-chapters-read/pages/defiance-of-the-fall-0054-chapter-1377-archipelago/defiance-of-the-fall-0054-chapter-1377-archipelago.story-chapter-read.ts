@@ -5,7 +5,7 @@ export const defianceOfTheFall0054Chapter1377Archipelago = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0054-chapter-1377-archipelago",
   title: "Chapter 1,377 - Archipelago",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 54,
   ownLength: 3358,
   unitSlug: "words",

@@ -13,7 +13,7 @@ export const theWayOfTheShamanTheSecretOfTheDarkForest = {
   ownLength: 149000,
   ownProgress: 149000,
   publishedAt: "2016-07-04",
-  partOfSlugs: ["the-way-of-the-shaman"],
+  partOfSlugs: ["book-series/the-way-of-the-shaman"],
   source: "kindle",
   externalId: "B01HZ4TYDM",
   externalLink: "https://amazon.com/dp/B01HZ4TYDM",

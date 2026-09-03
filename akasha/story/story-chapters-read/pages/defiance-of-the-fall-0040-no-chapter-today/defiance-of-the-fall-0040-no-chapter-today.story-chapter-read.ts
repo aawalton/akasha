@@ -5,7 +5,7 @@ export const defianceOfTheFall0040NoChapterToday = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0040-no-chapter-today",
   title: "No chapter today",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 40,
   ownLength: 84,
   unitSlug: "words",

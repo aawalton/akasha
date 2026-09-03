@@ -12,7 +12,7 @@ export const stonehavenLeagueTempleOfSorrow = {
   ownLength: 95500,
   ownProgress: 95500,
   publishedAt: "2018-04-24",
-  partOfSlugs: ["stonehaven-league"],
+  partOfSlugs: ["book-series/stonehaven-league"],
   source: "kindle",
   externalId: "B07CJPX61L",
   externalLink: "https://amazon.com/dp/B07CJPX61L",

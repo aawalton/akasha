@@ -5,7 +5,7 @@ export const defianceOfTheFall0045Chapter1368Sidetracked = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0045-chapter-1368-sidetracked",
   title: "Chapter 1,368 - Sidetracked",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 45,
   ownLength: 3247,
   unitSlug: "words",

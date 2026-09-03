@@ -13,7 +13,7 @@ export const theSystemApocalypseRedeemerOfTheDead = {
   ownLength: 80250,
   ownProgress: 80250,
   publishedAt: "2017-10-24",
-  partOfSlugs: ["the-system-apocalypse"],
+  partOfSlugs: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B075NR9RCH",
   externalLink: "https://amazon.com/dp/B075NR9RCH",

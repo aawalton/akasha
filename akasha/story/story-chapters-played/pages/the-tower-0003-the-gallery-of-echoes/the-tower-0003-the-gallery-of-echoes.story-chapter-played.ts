@@ -5,7 +5,7 @@ export const theTower0003TheGalleryOfEchoes = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-tower-0003-the-gallery-of-echoes",
   title: "The Gallery of Echoes",
-  partOfSlugs: ["the-tower"],
+  partOfSlugs: ["story-played/the-tower"],
   position: 3,
   ownLength: 9521,
   unitSlug: "words",

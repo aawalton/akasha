@@ -5,7 +5,7 @@ export const defianceOfTheFall0072Chapter1394OverturningDestiny = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0072-chapter-1394-overturning-destiny",
   title: "Chapter 1,394 - Overturning Destiny",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 72,
   ownLength: 2905,
   unitSlug: "words",

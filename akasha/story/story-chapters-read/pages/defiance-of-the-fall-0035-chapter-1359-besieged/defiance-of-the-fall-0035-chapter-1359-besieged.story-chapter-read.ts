@@ -5,7 +5,7 @@ export const defianceOfTheFall0035Chapter1359Besieged = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0035-chapter-1359-besieged",
   title: "Chapter 1,359 - Besieged",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 35,
   ownLength: 2977,
   unitSlug: "words",

@@ -12,7 +12,7 @@ export const somniaOnlineFusion = {
   ownLength: 106500,
   ownProgress: 106500,
   publishedAt: "2020-04-14",
-  partOfSlugs: ["somnia-online"],
+  partOfSlugs: ["book-series/somnia-online"],
   source: "kindle",
   externalId: "B086TW144S",
   externalLink: "https://amazon.com/dp/B086TW144S",

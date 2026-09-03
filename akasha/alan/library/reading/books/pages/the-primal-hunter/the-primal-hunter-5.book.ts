@@ -13,7 +13,7 @@ export const thePrimalHunter5 = {
   ownLength: 168500,
   ownProgress: 168500,
   publishedAt: "2023-03-03",
-  partOfSlugs: ["the-primal-hunter"],
+  partOfSlugs: ["book-series/the-primal-hunter"],
   source: "kindle",
   externalId: "B0BNJGXC6J",
   externalLink: "https://amazon.com/dp/B0BNJGXC6J",

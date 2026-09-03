@@ -5,7 +5,7 @@ export const defianceOfTheFall0018Chapter1343WeaknessShift = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0018-chapter-1343-weakness-shift",
   title: "Chapter 1,343 - Weakness, Shift",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 18,
   ownLength: 3239,
   unitSlug: "words",

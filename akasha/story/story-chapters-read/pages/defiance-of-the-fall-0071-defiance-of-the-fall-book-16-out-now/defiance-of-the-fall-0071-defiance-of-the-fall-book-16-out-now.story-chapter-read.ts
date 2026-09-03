@@ -5,7 +5,7 @@ export const defianceOfTheFall0071DefianceOfTheFallBook16OutNow = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0071-defiance-of-the-fall-book-16-out-now",
   title: "Defiance of the Fall Book 16 out now!",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 71,
   ownLength: 68,
   unitSlug: "words",

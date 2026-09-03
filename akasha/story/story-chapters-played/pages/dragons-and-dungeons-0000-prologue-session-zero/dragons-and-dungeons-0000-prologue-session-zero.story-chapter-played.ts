@@ -5,7 +5,7 @@ export const dragonsAndDungeons0000PrologueSessionZero = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0000-prologue-session-zero",
   title: "Prologue — Session Zero",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 0,
   ownLength: 1055,
   unitSlug: "words",

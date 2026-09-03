@@ -5,7 +5,7 @@ export const dragonsAndDungeons0004Chapter4TheNameInTheFire = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0004-chapter-4-the-name-in-the-fire",
   title: "Chapter 4 — The Name in the Fire",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 4,
   ownLength: 2061,
   unitSlug: "words",

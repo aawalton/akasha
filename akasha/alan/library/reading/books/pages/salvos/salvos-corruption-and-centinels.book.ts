@@ -11,7 +11,7 @@ export const salvosCorruptionAndCentinels = {
   position: 5,
   ownLength: 101750,
   publishedAt: "2022-03-02",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["book-series/salvos"],
   source: "kindle",
   externalId: "B09S3ZVK8L",
   externalLink: "https://amazon.com/dp/B09S3ZVK8L",

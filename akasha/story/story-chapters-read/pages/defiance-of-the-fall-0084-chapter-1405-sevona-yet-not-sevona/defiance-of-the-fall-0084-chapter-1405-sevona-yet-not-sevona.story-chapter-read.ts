@@ -5,7 +5,7 @@ export const defianceOfTheFall0084Chapter1405SevonaYetNotSevona = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0084-chapter-1405-sevona-yet-not-sevona",
   title: "Chapter 1,405 - Sevona yet not Sevona",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 84,
   ownLength: 2786,
   unitSlug: "words",

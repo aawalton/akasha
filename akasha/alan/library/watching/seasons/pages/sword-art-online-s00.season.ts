@@ -6,7 +6,7 @@ export const swordArtOnlineS00 = {
   slug: "sword-art-online-s00",
   title: "Specials",
   position: 0,
-  partOfSlugs: ["sword-art-online"],
+  partOfSlugs: ["show/sword-art-online"],
   publishedAt: "2012-10-24",
   posterPath: "/70kMQ47IG9ddLTEZz7iJSeysbgI.jpg",
   voteAverage: 0,

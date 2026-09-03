@@ -12,7 +12,7 @@ export const somniaOnlineDistortion = {
   ownLength: 86750,
   ownProgress: 86750,
   publishedAt: "2019-08-22",
-  partOfSlugs: ["somnia-online"],
+  partOfSlugs: ["book-series/somnia-online"],
   source: "kindle",
   externalId: "B07WR6FG96",
   externalLink: "https://amazon.com/dp/B07WR6FG96",

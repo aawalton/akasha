@@ -5,7 +5,7 @@ export const defianceOfTheFall0034Chapter1358AlleyCelestial = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0034-chapter-1358-alley-celestial",
   title: "Chapter 1,358 - Alley Celestial",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 34,
   ownLength: 2624,
   unitSlug: "words",

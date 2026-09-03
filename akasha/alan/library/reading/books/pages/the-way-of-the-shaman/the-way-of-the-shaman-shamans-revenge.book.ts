@@ -12,7 +12,7 @@ export const theWayOfTheShamanShamansRevenge = {
   ownLength: 140250,
   ownProgress: 140250,
   publishedAt: "2017-08-20",
-  partOfSlugs: ["the-way-of-the-shaman"],
+  partOfSlugs: ["book-series/the-way-of-the-shaman"],
   source: "kindle",
   externalId: "B074V8YB1M",
   externalLink: "https://amazon.com/dp/B074V8YB1M",

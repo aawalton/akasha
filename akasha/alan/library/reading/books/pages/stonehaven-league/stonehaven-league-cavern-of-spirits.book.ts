@@ -12,7 +12,7 @@ export const stonehavenLeagueCavernOfSpirits = {
   ownLength: 99000,
   ownProgress: 99000,
   publishedAt: "2018-09-20",
-  partOfSlugs: ["stonehaven-league"],
+  partOfSlugs: ["book-series/stonehaven-league"],
   source: "kindle",
   externalId: "B07HB6L6X9",
   externalLink: "https://amazon.com/dp/B07HB6L6X9",

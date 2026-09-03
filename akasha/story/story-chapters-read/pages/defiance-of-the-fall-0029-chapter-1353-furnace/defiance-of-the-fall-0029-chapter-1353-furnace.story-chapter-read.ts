@@ -5,7 +5,7 @@ export const defianceOfTheFall0029Chapter1353Furnace = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0029-chapter-1353-furnace",
   title: "Chapter 1,353 - Furnace",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 29,
   ownLength: 2882,
   unitSlug: "words",

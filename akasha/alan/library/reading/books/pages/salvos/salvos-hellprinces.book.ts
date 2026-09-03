@@ -11,7 +11,7 @@ export const salvosHellprinces = {
   position: 9,
   ownLength: 191750,
   publishedAt: "2023-02-01",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["book-series/salvos"],
   source: "kindle",
   externalId: "B0BH1J57WT",
   externalLink: "https://amazon.com/dp/B0BH1J57WT",

@@ -12,7 +12,7 @@ export const stonehavenLeagueEchoesOfTheSystem = {
   ownLength: 68250,
   ownProgress: 68250,
   publishedAt: "2019-12-24",
-  partOfSlugs: ["stonehaven-league"],
+  partOfSlugs: ["book-series/stonehaven-league"],
   source: "kindle",
   externalId: "B082RH3RP7",
   externalLink: "https://amazon.com/dp/B082RH3RP7",

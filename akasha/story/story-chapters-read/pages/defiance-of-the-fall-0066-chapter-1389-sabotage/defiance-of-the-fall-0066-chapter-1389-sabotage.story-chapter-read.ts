@@ -5,7 +5,7 @@ export const defianceOfTheFall0066Chapter1389Sabotage = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0066-chapter-1389-sabotage",
   title: "Chapter 1,389 - Sabotage",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 66,
   ownLength: 3053,
   unitSlug: "words",

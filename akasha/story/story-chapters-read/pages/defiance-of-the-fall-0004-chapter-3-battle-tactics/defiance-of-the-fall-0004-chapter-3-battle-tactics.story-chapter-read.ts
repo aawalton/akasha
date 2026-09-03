@@ -5,7 +5,7 @@ export const defianceOfTheFall0004Chapter3BattleTactics = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0004-chapter-3-battle-tactics",
   title: "Chapter 3 - Battle Tactics",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 4,
   ownLength: 1608,
   unitSlug: "words",

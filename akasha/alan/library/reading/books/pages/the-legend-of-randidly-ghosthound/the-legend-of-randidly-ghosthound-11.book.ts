@@ -12,7 +12,7 @@ export const theLegendOfRandidlyGhosthound11 = {
   ownLength: 192000,
   ownProgress: 192000,
   publishedAt: "2025-05-21",
-  partOfSlugs: ["the-legend-of-randidly-ghosthound"],
+  partOfSlugs: ["book-series/the-legend-of-randidly-ghosthound"],
   source: "kindle",
   externalId: "B0DT4WVCMS",
   externalLink: "https://amazon.com/dp/B0DT4WVCMS",

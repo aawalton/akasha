@@ -5,7 +5,7 @@ export const defianceOfTheFall0049Chapter1372PoisedMeadows = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0049-chapter-1372-poised-meadows",
   title: "Chapter 1,372 - Poised Meadows",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 49,
   ownLength: 3126,
   unitSlug: "words",

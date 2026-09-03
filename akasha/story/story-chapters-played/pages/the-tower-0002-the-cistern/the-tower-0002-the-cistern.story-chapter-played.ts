@@ -5,7 +5,7 @@ export const theTower0002TheCistern = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-tower-0002-the-cistern",
   title: "The Cistern",
-  partOfSlugs: ["the-tower"],
+  partOfSlugs: ["story-played/the-tower"],
   position: 2,
   ownLength: 10971,
   unitSlug: "words",

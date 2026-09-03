@@ -12,7 +12,7 @@ export const theWhisperingCrystalsUntamedSpirit = {
   ownLength: 128000,
   ownProgress: 128000,
   publishedAt: "2023-03-02",
-  partOfSlugs: ["the-whispering-crystals"],
+  partOfSlugs: ["book-series/the-whispering-crystals"],
   source: "kindle",
   externalId: "B0BX1TZ2TD",
   externalLink: "https://amazon.com/dp/B0BX1TZ2TD",

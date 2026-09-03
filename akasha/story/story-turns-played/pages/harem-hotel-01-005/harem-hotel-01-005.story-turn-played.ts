@@ -4,7 +4,7 @@ export const haremHotel01005 = {
   id: "01a064bd-7cca-7a0c-8283-e98dd0e6a595",
   pageTypeSlug: "story-turn-played",
   slug: "harem-hotel-01-005",
-  partOfSlugs: ["harem-hotel"],
+  partOfSlugs: ["story-played/harem-hotel"],
   position: 5,
   ownLength: 189,
   unitSlug: "words",

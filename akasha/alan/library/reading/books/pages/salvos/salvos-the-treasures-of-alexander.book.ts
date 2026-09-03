@@ -11,7 +11,7 @@ export const salvosTheTreasuresOfAlexander = {
   position: 8,
   ownLength: 102000,
   publishedAt: "2022-10-02",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["book-series/salvos"],
   source: "kindle",
   externalId: "B0B8DDXHB8",
   externalLink: "https://amazon.com/dp/B0B8DDXHB8",

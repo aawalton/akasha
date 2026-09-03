@@ -5,7 +5,7 @@ export const swordArtOnlineBooks = {
   pageTypeSlug: "book-collection",
   slug: "sword-art-online-books",
   title: "Sword Art Online Books",
-  partOfSlugs: ["sword-art-online"],
+  partOfSlugs: ["fandom/sword-art-online"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const defianceOfTheFall0008Chapter7Outpost = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0008-chapter-7-outpost",
   title: "Chapter 7 - Outpost",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 8,
   ownLength: 1533,
   unitSlug: "words",

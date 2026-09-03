@@ -12,7 +12,7 @@ export const theSystemApocalypseForbiddenZone = {
   ownLength: 107500,
   ownProgress: 107500,
   publishedAt: "2021-09-01",
-  partOfSlugs: ["the-system-apocalypse"],
+  partOfSlugs: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B09B84Y15P",
   externalLink: "https://amazon.com/dp/B09B84Y15P",

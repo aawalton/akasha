@@ -5,7 +5,7 @@ export const dragonsAndDungeons0003Chapter3TheKinFire = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0003-chapter-3-the-kin-fire",
   title: "Chapter 3 — The Kin-Fire",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 3,
   ownLength: 2290,
   unitSlug: "words",

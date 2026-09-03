@@ -5,7 +5,7 @@ export const defianceOfTheFall0002Chapter1RollForSurvival = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0002-chapter-1-roll-for-survival",
   title: "Chapter 1 - Roll For Survival",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 2,
   ownLength: 1563,
   unitSlug: "words",

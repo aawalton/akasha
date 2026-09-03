@@ -5,7 +5,7 @@ export const defianceOfTheFall0005Chapter4Alone = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0005-chapter-4-alone",
   title: "Chapter 4 - Alone",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 5,
   ownLength: 1691,
   unitSlug: "words",

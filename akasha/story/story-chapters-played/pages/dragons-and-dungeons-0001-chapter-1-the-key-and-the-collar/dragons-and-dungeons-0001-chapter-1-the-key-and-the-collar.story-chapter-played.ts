@@ -5,7 +5,7 @@ export const dragonsAndDungeons0001Chapter1TheKeyAndTheCollar = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0001-chapter-1-the-key-and-the-collar",
   title: "Chapter 1 — The Key and the Collar",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 1,
   ownLength: 1432,
   unitSlug: "words",

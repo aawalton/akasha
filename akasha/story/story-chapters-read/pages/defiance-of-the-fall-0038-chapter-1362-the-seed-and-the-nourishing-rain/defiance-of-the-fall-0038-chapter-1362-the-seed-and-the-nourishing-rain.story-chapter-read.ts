@@ -5,7 +5,7 @@ export const defianceOfTheFall0038Chapter1362TheSeedAndTheNourishingRain = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0038-chapter-1362-the-seed-and-the-nourishing-rain",
   title: "Chapter 1,362 - The Seed and the Nourishing Rain",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 38,
   ownLength: 2989,
   unitSlug: "words",

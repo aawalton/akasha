@@ -12,7 +12,7 @@ export const readyPlayerOneReadyPlayerTwo = {
   position: 2,
   ownLength: 91750,
   publishedAt: "2020-11-24",
-  partOfSlugs: ["ready-player-one"],
+  partOfSlugs: ["book-series/ready-player-one"],
   source: "kindle",
   externalId: "B08BYWH6CS",
   externalLink: "https://amazon.com/dp/B08BYWH6CS",

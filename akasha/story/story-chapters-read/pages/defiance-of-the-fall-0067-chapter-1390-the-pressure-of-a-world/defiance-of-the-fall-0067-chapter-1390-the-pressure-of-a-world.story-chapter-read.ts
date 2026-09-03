@@ -5,7 +5,7 @@ export const defianceOfTheFall0067Chapter1390ThePressureOfAWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0067-chapter-1390-the-pressure-of-a-world",
   title: "Chapter 1,390 - The Pressure of a World",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 67,
   ownLength: 3149,
   unitSlug: "words",

@@ -11,7 +11,7 @@ export const salvosThePlaguelands = {
   position: 3,
   ownLength: 180750,
   publishedAt: "2021-08-01",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["book-series/salvos"],
   source: "kindle",
   externalId: "B098D3HJST",
   externalLink: "https://amazon.com/dp/B098D3HJST",

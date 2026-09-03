@@ -5,7 +5,7 @@ export const defianceOfTheFall0048Chapter1371Longanimity = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0048-chapter-1371-longanimity",
   title: "Chapter 1,371 - Longanimity",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 48,
   ownLength: 3118,
   unitSlug: "words",

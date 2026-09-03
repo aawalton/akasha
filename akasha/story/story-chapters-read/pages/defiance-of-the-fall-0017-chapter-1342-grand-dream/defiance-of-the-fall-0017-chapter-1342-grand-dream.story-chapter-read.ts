@@ -5,7 +5,7 @@ export const defianceOfTheFall0017Chapter1342GrandDream = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0017-chapter-1342-grand-dream",
   title: "Chapter 1,342 - Grand Dream",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 17,
   ownLength: 3227,
   unitSlug: "words",

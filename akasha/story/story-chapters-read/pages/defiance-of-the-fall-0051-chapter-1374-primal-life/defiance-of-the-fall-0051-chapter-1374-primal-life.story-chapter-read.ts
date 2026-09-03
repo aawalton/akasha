@@ -5,7 +5,7 @@ export const defianceOfTheFall0051Chapter1374PrimalLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0051-chapter-1374-primal-life",
   title: "Chapter 1,374 - Primal Life",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 51,
   ownLength: 3039,
   unitSlug: "words",

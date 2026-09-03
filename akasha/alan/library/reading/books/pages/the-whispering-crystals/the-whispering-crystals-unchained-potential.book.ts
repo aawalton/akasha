@@ -12,7 +12,7 @@ export const theWhisperingCrystalsUnchainedPotential = {
   ownLength: 91250,
   ownProgress: 91250,
   publishedAt: "2022-06-04",
-  partOfSlugs: ["the-whispering-crystals"],
+  partOfSlugs: ["book-series/the-whispering-crystals"],
   source: "kindle",
   externalId: "B09ZRJPB8J",
   externalLink: "https://amazon.com/dp/B09ZRJPB8J",

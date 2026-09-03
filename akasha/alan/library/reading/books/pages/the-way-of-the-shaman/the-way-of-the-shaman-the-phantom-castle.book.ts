@@ -13,7 +13,7 @@ export const theWayOfTheShamanThePhantomCastle = {
   ownLength: 148250,
   ownProgress: 148250,
   publishedAt: "2016-11-28",
-  partOfSlugs: ["the-way-of-the-shaman"],
+  partOfSlugs: ["book-series/the-way-of-the-shaman"],
   source: "kindle",
   externalId: "B01M8JW7DQ",
   externalLink: "https://amazon.com/dp/B01M8JW7DQ",

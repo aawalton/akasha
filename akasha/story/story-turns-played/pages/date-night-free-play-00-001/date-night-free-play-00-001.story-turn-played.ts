@@ -4,7 +4,7 @@ export const dateNightFreePlay00001 = {
   id: "01a064bd-7cc5-75e5-86d6-1ae94f5e022d",
   pageTypeSlug: "story-turn-played",
   slug: "date-night-free-play-00-001",
-  partOfSlugs: ["date-night-free-play"],
+  partOfSlugs: ["story-played/date-night-free-play"],
   position: 1,
   ownLength: 498,
   unitSlug: "words",

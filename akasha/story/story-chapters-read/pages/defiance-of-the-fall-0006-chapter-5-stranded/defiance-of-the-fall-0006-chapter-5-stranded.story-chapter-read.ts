@@ -5,7 +5,7 @@ export const defianceOfTheFall0006Chapter5Stranded = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0006-chapter-5-stranded",
   title: "Chapter 5 - Stranded",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 6,
   ownLength: 1269,
   unitSlug: "words",

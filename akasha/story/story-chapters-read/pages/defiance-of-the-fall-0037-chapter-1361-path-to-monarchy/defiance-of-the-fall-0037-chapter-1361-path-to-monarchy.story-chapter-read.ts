@@ -5,7 +5,7 @@ export const defianceOfTheFall0037Chapter1361PathToMonarchy = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0037-chapter-1361-path-to-monarchy",
   title: "Chapter 1,361 - Path to Monarchy",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 37,
   ownLength: 3088,
   unitSlug: "words",

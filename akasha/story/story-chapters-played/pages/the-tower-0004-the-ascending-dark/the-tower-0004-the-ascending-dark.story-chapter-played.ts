@@ -5,7 +5,7 @@ export const theTower0004TheAscendingDark = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-tower-0004-the-ascending-dark",
   title: "The Ascending Dark",
-  partOfSlugs: ["the-tower"],
+  partOfSlugs: ["story-played/the-tower"],
   position: 4,
   ownLength: 6047,
   unitSlug: "words",

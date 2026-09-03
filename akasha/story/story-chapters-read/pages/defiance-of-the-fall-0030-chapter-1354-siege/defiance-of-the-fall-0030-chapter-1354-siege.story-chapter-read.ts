@@ -5,7 +5,7 @@ export const defianceOfTheFall0030Chapter1354Siege = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0030-chapter-1354-siege",
   title: "Chapter 1,354 - Siege",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 30,
   ownLength: 3174,
   unitSlug: "words",

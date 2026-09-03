@@ -5,7 +5,7 @@ export const dragonsAndDungeons0017GraveGoodsAndAColdMap = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0017-grave-goods-and-a-cold-map",
   title: "Grave-Goods and a Cold Map",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 17,
   ownLength: 900,
   unitSlug: "words",

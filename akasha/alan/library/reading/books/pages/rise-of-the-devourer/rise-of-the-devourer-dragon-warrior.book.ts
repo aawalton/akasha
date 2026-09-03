@@ -11,7 +11,7 @@ export const riseOfTheDevourerDragonWarrior = {
   position: 3,
   ownLength: 110750,
   publishedAt: "2024-07-03",
-  partOfSlugs: ["rise-of-the-devourer"],
+  partOfSlugs: ["book-series/rise-of-the-devourer"],
   source: "kindle",
   externalId: "B0CSL7F49D",
   externalLink: "https://amazon.com/dp/B0CSL7F49D",

@@ -11,7 +11,7 @@ export const salvosCuriousBeginnings = {
   position: 1,
   ownLength: 102500,
   publishedAt: "2021-01-12",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["book-series/salvos"],
   source: "kindle",
   externalId: "B08SQD1DLR",
   externalLink: "https://amazon.com/dp/B08SQD1DLR",

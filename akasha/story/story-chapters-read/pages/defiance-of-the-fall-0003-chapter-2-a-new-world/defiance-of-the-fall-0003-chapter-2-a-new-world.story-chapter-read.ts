@@ -5,7 +5,7 @@ export const defianceOfTheFall0003Chapter2ANewWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0003-chapter-2-a-new-world",
   title: "Chapter 2 - A New World",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 3,
   ownLength: 1502,
   unitSlug: "words",

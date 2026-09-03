@@ -5,7 +5,7 @@ export const dragonsAndDungeons0006TheRoadSouth = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0006-the-road-south",
   title: "The Road South",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 6,
   ownLength: 2909,
   unitSlug: "words",

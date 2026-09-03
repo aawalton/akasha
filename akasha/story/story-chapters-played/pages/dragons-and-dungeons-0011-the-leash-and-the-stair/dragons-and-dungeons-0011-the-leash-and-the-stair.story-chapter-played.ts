@@ -5,7 +5,7 @@ export const dragonsAndDungeons0011TheLeashAndTheStair = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0011-the-leash-and-the-stair",
   title: "The Leash and the Stair",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 11,
   ownLength: 1197,
   unitSlug: "words",

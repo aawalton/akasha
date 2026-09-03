@@ -12,7 +12,7 @@ export const theSystemApocalypseCoastOnFire = {
   ownLength: 94500,
   ownProgress: 94500,
   publishedAt: "2018-09-01",
-  partOfSlugs: ["the-system-apocalypse"],
+  partOfSlugs: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B07GT69BBL",
   externalLink: "https://amazon.com/dp/B07GT69BBL",

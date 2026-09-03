@@ -5,7 +5,7 @@ export const dragonsAndDungeons0016SessionTwoTheDoorAtCaerArianrhod = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0016-session-two-the-door-at-caer-arianrhod",
   title: "Session Two — The Door at Caer Arianrhod",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 16,
   ownLength: 784,
   unitSlug: "words",

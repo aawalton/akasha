@@ -5,7 +5,7 @@ export const defianceOfTheFall0081WritingSeclusionAnnouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0081-writing-seclusion-announcement",
   title: "Writing Seclusion Announcement",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 81,
   ownLength: 290,
   unitSlug: "words",

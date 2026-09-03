@@ -5,7 +5,7 @@ export const defianceOfTheFall0047Chapter1370WelcomeToTheBorder = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0047-chapter-1370-welcome-to-the-border",
   title: "Chapter 1,370 - Welcome to the Border",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 47,
   ownLength: 3017,
   unitSlug: "words",

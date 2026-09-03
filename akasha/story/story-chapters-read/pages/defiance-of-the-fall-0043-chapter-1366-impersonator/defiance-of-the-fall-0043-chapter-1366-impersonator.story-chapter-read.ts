@@ -5,7 +5,7 @@ export const defianceOfTheFall0043Chapter1366Impersonator = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0043-chapter-1366-impersonator",
   title: "Chapter 1,366 - Impersonator",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 43,
   ownLength: 2759,
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const partners01015 = {
   id: "01a064bd-7ccc-786b-aab1-d7291edee7a9",
   pageTypeSlug: "story-turn-played",
   slug: "partners-01-015",
-  partOfSlugs: ["partners"],
+  partOfSlugs: ["story-played/partners"],
   position: 15,
   ownLength: 221,
   unitSlug: "words",

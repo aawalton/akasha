@@ -5,7 +5,7 @@ export const defianceOfTheFall0014Chapter1339HuntingGods = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0014-chapter-1339-hunting-gods",
   title: "Chapter 1,339 - Hunting Gods",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 14,
   ownLength: 3232,
   unitSlug: "words",

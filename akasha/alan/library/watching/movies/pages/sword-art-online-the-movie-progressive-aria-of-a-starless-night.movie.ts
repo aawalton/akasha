@@ -9,7 +9,7 @@ export const swordArtOnlineTheMovieProgressiveAriaOfAStarlessNight = {
     "Asuna Yuuki had never played online games until accidentally putting on the NerveGear for Sword Art Online, the world’s first VRMMORPG. She soon finds herself and other players trapped inside a game, where if a player dies in the game, they die in the real world. As she continues to live on in this world where death is always a step away, a solitary swordsman named Kirito appears before her.",
   ownLength: 97,
   unitSlug: "minutes",
-  partOfSlugs: ["sword-art-online"],
+  partOfSlugs: ["fandom/sword-art-online"],
   publishedAt: "2021-10-30",
   productionStatus: "released",
   genres: ["Animation", "Action", "Fantasy", "Science Fiction"],

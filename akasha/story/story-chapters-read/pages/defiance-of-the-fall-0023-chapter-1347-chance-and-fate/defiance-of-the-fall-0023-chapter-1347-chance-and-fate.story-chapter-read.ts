@@ -5,7 +5,7 @@ export const defianceOfTheFall0023Chapter1347ChanceAndFate = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0023-chapter-1347-chance-and-fate",
   title: "Chapter 1,347 - Chance and Fate",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 23,
   ownLength: 2699,
   unitSlug: "words",

@@ -13,7 +13,7 @@ export const worldTreeTrilogyWorldTreesEnd = {
   ownLength: 118750,
   ownProgress: 118750,
   publishedAt: "2019-09-14",
-  partOfSlugs: ["world-tree-trilogy"],
+  partOfSlugs: ["book-series/world-tree-trilogy"],
   source: "kindle",
   externalId: "B07XM4ML2C",
   externalLink: "https://amazon.com/dp/B07XM4ML2C",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0011Chapter1336LoveTriangle = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0011-chapter-1336-love-triangle",
   title: "Chapter 1,336 - Love Triangle",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 11,
   ownLength: 2907,
   unitSlug: "words",

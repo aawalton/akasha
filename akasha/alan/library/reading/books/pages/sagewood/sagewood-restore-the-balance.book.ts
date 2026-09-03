@@ -11,7 +11,7 @@ export const sagewoodRestoreTheBalance = {
   position: 4,
   ownLength: 83000,
   publishedAt: "2025-04-23",
-  partOfSlugs: ["sagewood"],
+  partOfSlugs: ["book-series/sagewood"],
   source: "kindle",
   externalId: "B0F1NH8N3G",
   externalLink: "https://amazon.com/dp/B0F1NH8N3G",

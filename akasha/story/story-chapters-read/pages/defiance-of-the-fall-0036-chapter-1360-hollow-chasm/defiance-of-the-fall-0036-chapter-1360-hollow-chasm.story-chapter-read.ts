@@ -5,7 +5,7 @@ export const defianceOfTheFall0036Chapter1360HollowChasm = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0036-chapter-1360-hollow-chasm",
   title: "Chapter 1,360 - Hollow Chasm",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 36,
   ownLength: 2847,
   unitSlug: "words",

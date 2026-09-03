@@ -12,7 +12,7 @@ export const readyPlayerOneBook1 = {
   position: 1,
   ownLength: 96750,
   publishedAt: "2011-08-16",
-  partOfSlugs: ["ready-player-one"],
+  partOfSlugs: ["book-series/ready-player-one"],
   source: "kindle",
   externalId: "B004J4WKUQ",
   externalLink: "https://amazon.com/dp/B004J4WKUQ",

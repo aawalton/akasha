@@ -5,7 +5,7 @@ export const defianceOfTheFall0015Chapter1340Bazaar = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0015-chapter-1340-bazaar",
   title: "Chapter 1,340 - Bazaar",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 15,
   ownLength: 3109,
   unitSlug: "words",

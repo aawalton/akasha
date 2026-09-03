@@ -12,7 +12,7 @@ export const theWayOfTheShamanClansWar = {
   ownLength: 138750,
   ownProgress: 138750,
   publishedAt: "2018-02-12",
-  partOfSlugs: ["the-way-of-the-shaman"],
+  partOfSlugs: ["book-series/the-way-of-the-shaman"],
   source: "kindle",
   externalId: "B079N9DBB9",
   externalLink: "https://amazon.com/dp/B079N9DBB9",

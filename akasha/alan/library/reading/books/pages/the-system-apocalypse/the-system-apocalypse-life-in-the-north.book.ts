@@ -13,7 +13,7 @@ export const theSystemApocalypseLifeInTheNorth = {
   ownLength: 93000,
   ownProgress: 93000,
   publishedAt: "2017-07-02",
-  partOfSlugs: ["the-system-apocalypse"],
+  partOfSlugs: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B073PNL3BP",
   externalLink: "https://amazon.com/dp/B073PNL3BP",

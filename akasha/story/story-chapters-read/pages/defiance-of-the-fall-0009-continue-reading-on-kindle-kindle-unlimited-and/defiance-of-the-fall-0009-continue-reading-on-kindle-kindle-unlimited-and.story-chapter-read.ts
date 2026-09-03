@@ -5,7 +5,7 @@ export const defianceOfTheFall0009ContinueReadingOnKindleKindleUnlimitedAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0009-continue-reading-on-kindle-kindle-unlimited-and",
   title: "Continue reading on Kindle, Kindle Unlimited, and Audible",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 9,
   ownLength: 144,
   unitSlug: "words",

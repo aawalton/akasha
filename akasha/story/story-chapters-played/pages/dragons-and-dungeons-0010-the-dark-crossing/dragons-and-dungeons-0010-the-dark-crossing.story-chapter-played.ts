@@ -5,7 +5,7 @@ export const dragonsAndDungeons0010TheDarkCrossing = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0010-the-dark-crossing",
   title: "The Dark Crossing",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 10,
   ownLength: 1559,
   unitSlug: "words",

@@ -11,7 +11,7 @@ export const rebornAsADemonicTree8 = {
   position: 8,
   ownLength: 144500,
   publishedAt: "2026-03-04",
-  partOfSlugs: ["reborn-as-a-demonic-tree"],
+  partOfSlugs: ["book-series/reborn-as-a-demonic-tree"],
   source: "kindle",
   externalId: "B0FRNDNY5N",
   externalLink: "https://amazon.com/dp/B0FRNDNY5N",

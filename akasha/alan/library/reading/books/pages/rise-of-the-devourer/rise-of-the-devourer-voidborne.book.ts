@@ -11,7 +11,7 @@ export const riseOfTheDevourerVoidborne = {
   position: 1,
   ownLength: 123000,
   publishedAt: "2023-10-24",
-  partOfSlugs: ["rise-of-the-devourer"],
+  partOfSlugs: ["book-series/rise-of-the-devourer"],
   source: "kindle",
   externalId: "B0CFG59XP9",
   externalLink: "https://amazon.com/dp/B0CFG59XP9",

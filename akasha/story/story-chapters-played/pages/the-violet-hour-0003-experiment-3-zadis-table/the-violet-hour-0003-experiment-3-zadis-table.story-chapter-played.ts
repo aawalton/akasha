@@ -5,7 +5,7 @@ export const theVioletHour0003Experiment3ZadisTable = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-violet-hour-0003-experiment-3-zadis-table",
   title: "Experiment 3 — Zadi's Table",
-  partOfSlugs: ["the-violet-hour"],
+  partOfSlugs: ["story-played/the-violet-hour"],
   position: 3,
   ownLength: 1008,
   unitSlug: "words",

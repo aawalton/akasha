@@ -5,7 +5,7 @@ export const dragonsAndDungeons0002Chapter2IntoTheStorm = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0002-chapter-2-into-the-storm",
   title: "Chapter 2 — Into the Storm",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 2,
   ownLength: 1138,
   unitSlug: "words",

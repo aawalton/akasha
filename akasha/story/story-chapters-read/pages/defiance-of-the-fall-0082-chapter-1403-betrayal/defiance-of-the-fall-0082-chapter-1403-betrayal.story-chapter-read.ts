@@ -5,7 +5,7 @@ export const defianceOfTheFall0082Chapter1403Betrayal = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0082-chapter-1403-betrayal",
   title: "Chapter 1,403 - Betrayal",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 82,
   ownLength: 3191,
   unitSlug: "words",

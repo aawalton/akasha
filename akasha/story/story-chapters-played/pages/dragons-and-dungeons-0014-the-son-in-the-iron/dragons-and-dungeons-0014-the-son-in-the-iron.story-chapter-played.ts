@@ -5,7 +5,7 @@ export const dragonsAndDungeons0014TheSonInTheIron = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0014-the-son-in-the-iron",
   title: "The Son in the Iron",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 14,
   ownLength: 1479,
   unitSlug: "words",

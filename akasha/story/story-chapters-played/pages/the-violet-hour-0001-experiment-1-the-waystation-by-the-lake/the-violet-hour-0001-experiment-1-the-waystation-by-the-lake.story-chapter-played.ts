@@ -5,7 +5,7 @@ export const theVioletHour0001Experiment1TheWaystationByTheLake = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-violet-hour-0001-experiment-1-the-waystation-by-the-lake",
   title: "Experiment 1 — The Waystation by the Lake",
-  partOfSlugs: ["the-violet-hour"],
+  partOfSlugs: ["story-played/the-violet-hour"],
   position: 1,
   ownLength: 997,
   unitSlug: "words",

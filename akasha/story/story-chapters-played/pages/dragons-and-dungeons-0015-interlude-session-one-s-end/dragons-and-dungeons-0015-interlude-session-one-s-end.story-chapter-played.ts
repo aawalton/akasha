@@ -5,7 +5,7 @@ export const dragonsAndDungeons0015InterludeSessionOneSEnd = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0015-interlude-session-one-s-end",
   title: "Interlude — Session One's End",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 15,
   ownLength: 1648,
   unitSlug: "words",

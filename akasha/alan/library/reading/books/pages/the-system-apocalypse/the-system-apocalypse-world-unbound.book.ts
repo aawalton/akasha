@@ -12,7 +12,7 @@ export const theSystemApocalypseWorldUnbound = {
   ownLength: 99250,
   ownProgress: 99250,
   publishedAt: "2019-01-01",
-  partOfSlugs: ["the-system-apocalypse"],
+  partOfSlugs: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B07LF675B1",
   externalLink: "https://amazon.com/dp/B07LF675B1",

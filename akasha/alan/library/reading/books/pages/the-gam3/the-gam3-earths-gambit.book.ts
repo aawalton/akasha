@@ -13,7 +13,7 @@ export const theGam3EarthsGambit = {
   ownLength: 102250,
   ownProgress: 102250,
   publishedAt: "2017-08-15",
-  partOfSlugs: ["the-gam3"],
+  partOfSlugs: ["book-series/the-gam3"],
   source: "kindle",
   externalId: "B074R284RB",
   externalLink: "https://amazon.com/dp/B074R284RB",

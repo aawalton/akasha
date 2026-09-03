@@ -5,7 +5,7 @@ export const dragonsAndDungeons0008TheWellspring = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0008-the-wellspring",
   title: "The Wellspring",
-  partOfSlugs: ["dragons-and-dungeons"],
+  partOfSlugs: ["story-played/dragons-and-dungeons"],
   position: 8,
   ownLength: 1763,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0052Chapter1375Anima = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0052-chapter-1375-anima",
   title: "Chapter 1,375 - Anima",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 52,
   ownLength: 2946,
   unitSlug: "words",
