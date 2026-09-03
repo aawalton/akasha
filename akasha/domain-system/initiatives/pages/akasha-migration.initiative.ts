@@ -55,5 +55,6 @@ export const akashaMigration = {
     "Moving the akasha subfolder to the repo root is the last step. Execute it when everything else is done rather than halting for Alan.",
     "Do not change this list of constraints.",
     "Keep a reminder to remind you of the initiative objective and these constraints every 15 minutes to avoid getting stuck.",
+    "Only you run `akasha audit`, and only in the background. Subagents never run it. Each peaks near 17 GB for fifteen minutes, so several at once cost us the model service.",
   ],
 } as const satisfies Initiative
