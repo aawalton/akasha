@@ -12,6 +12,36 @@ export const akashaMigration = {
       workingMemory:
         "102,798 files tracked: 32,905 in akasha, 69,893 outside. 64,226 of those outside are `pages/`, content to adapt across 261 folders, whose page types and properties mostly do not exist yet; the bulk migrates programmatically once they do. Alan puts 10,000-20,000 of the outside files as already accreted and never ablated, so sweeping those is the cheapest first mass. 11 tracked files sit at the repo root, and the subfolder becomes the root at the end, which is how this intent is finally met.",
     },
+    {
+      statement: "The story chapters are akasha pages.",
+      workingMemory:
+        "19,080 files: story-chapter-royal-road 18,091, story-chapter-wandering-inn 832, the read and written records the rest. akasha/story/story-chapters-played/pages/ already holds the target shape, with prose split across prose.partN.txt beside-files. Blocked in part on the beside-file grammar fix, since the grammar does not match partN today and a move or remove orphans the parts.",
+    },
+    {
+      statement: "The game content is akasha pages.",
+      workingMemory:
+        "21,300 files and the largest single assignment: skill 8,972, class 8,380, spell 3,597, then item, condition, enchantment, title, quest and the smaller kinds. One shared shape to be found first, page types built once, then the mass through landedMechanically. Distinct from the temper family despite the overlapping vocabulary.",
+    },
+    {
+      statement: "The temper pages are akasha pages.",
+      workingMemory:
+        "6,100 files across some 90 temper-* folders, split between one agent on the twelve over 100 files and one on the 78-folder tail. The first owns the shared design and records it in akasha early so the second follows rather than inventing a second scheme. Many tail folders are controlled vocabularies that should collapse rather than become pages.",
+    },
+    {
+      statement: "Alan's own records are akasha pages.",
+      workingMemory:
+        "Roughly 9,300 files: persona-day 2,079 against the live persona system, the library family near 2,600, location 1,210, exercise 884, relationship 697, food-entry 333, the car hierarchy 644, monarch and money near 700. Accuracy matters more than speed here and some of it is live data the running system reads.",
+    },
+    {
+      statement: "The code outside akasha is akasha modules.",
+      workingMemory:
+        "tools 1,649, dirty 1,506, infra 716, lua-compiler 288, editor-extension 84, and the smaller service and deploy directories. Target shape is module page plus code beside plus test, and workspace packages whose manifest names every way in. Load-bearing: the supervisor, the second commit path, and whatever is actively writing code-editor-* pages tonight.",
+    },
+    {
+      statement: "Nothing outside akasha duplicates what is already inside it.",
+      workingMemory:
+        "Alan puts 10,000-20,000 outside files as already accreted and never ablated, the cheapest first mass. Removal requires a positive per-file content match that the content is reachable inside akasha, never that a folder was migrated. A shared ablation check is being built for every agent to use. Ground truth for what existed before tonight is the read-only backup.",
+    },
   ],
   constraints: [
     "Nothing is out of reach and everything may break while the migration runs. Completing the migration is the sole priority, not keeping systems outside akasha stable while it proceeds.",
