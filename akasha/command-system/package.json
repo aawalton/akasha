@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./asking": "./asking/asking.module.code.ts",
+    "./checked-landing": "./checked-landing/checked-landing.module.code.ts",
     "./calling": "./calling/calling.module.code.ts",
     "./command": "./commands/command.page-type.ts",
     "./committing": "./committing/committing.module.code.ts",
@@ -17,8 +18,7 @@
     "./rooting": "./rooting/rooting.module.code.ts",
     "./scratching": "./scratching/scratching.module.code.ts",
     "./scratching/testing": "./scratching/scratching.module.test-fixtures.ts",
-    "./value-minting": "./value-minting/value-minting.module.code.ts",
-    "./gated-landing": "./gated-landing/gated-landing.module.code.ts"
+    "./value-minting": "./value-minting/value-minting.module.code.ts"
   },
   "dependencies": {
     "@akasha/agents": "workspace:*",

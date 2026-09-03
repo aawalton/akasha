@@ -1,24 +1,12 @@
 import { expect, test } from "bun:test"
 import { landedMechanically } from "@akasha/command-system/asking"
+import { landedChecked } from "@akasha/command-system/checked-landing"
 import type { Composed } from "../landing/migration-landing.module.code.ts"
-import {
-  CHECKED,
-  landedChecked,
-  landingFor,
-  takesAway,
-} from "./migration-checked-landing.module.code.ts"
+import { landingFor, takesAway } from "./migration-checked-landing.module.code.ts"
 
 const WROTE: Composed = { path: "akasha/one.ts", body: "one" }
 
 const TOOK: Composed = { path: "akasha/two.ts", body: null }
-
-test("the checked kind runs the checks", () => {
-  expect(CHECKED.runsChecks).toBe(true)
-})
-
-test("the checked kind runs no warrant", () => {
-  expect(CHECKED.runsWarrants).toBe(false)
-})
 
 test("bodies that only write take nothing away", () => {
   expect(takesAway([WROTE, WROTE])).toBe(false)

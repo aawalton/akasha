@@ -25,14 +25,6 @@ export const migrationCheckedLanding = {
       statement: "A migration owes no reading for what a program composed.",
     },
     {
-      invariantKind: "constraint",
-      statement: "Only a path under akasha reaches a check.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A path outside akasha is judged by no check.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here decides which files a migration takes away.",
     },
