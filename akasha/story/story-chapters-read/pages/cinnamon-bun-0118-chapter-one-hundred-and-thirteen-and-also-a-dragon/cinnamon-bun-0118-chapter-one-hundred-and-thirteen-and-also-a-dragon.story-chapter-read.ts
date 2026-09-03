@@ -5,7 +5,7 @@ export const cinnamonBun0118ChapterOneHundredAndThirteenAndAlsoADragon = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0118-chapter-one-hundred-and-thirteen-and-also-a-dragon",
   title: "Chapter One Hundred and Thirteen - And Also a Dragon",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 118,
   ownLength: 1947,
   unitSlug: "words",

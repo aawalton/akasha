@@ -5,7 +5,7 @@ export const cinnamonBun0028ChapterTwentySixSellingForABargain = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0028-chapter-twenty-six-selling-for-a-bargain",
   title: "Chapter Twenty-Six - Selling for a Bargain",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 28,
   ownLength: 2086,
   unitSlug: "words",

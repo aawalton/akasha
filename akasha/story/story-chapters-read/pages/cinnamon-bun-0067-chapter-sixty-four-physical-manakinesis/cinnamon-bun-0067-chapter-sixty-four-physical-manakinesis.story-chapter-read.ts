@@ -5,7 +5,7 @@ export const cinnamonBun0067ChapterSixtyFourPhysicalManakinesis = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0067-chapter-sixty-four-physical-manakinesis",
   title: "Chapter Sixty-Four - Physical Manakinesis",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 67,
   ownLength: 1978,
   unitSlug: "words",

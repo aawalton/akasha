@@ -5,7 +5,7 @@ export const cinnamonBun0193ChapterOneHundredAndEightySixReadyToDo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0193-chapter-one-hundred-and-eighty-six-ready-to-do",
   title: "Chapter One Hundred and Eighty-Six - Ready to do Violence on Their Behalf",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 193,
   ownLength: 2009,
   unitSlug: "words",

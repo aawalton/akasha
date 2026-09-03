@@ -5,7 +5,7 @@ export const cinnamonBun0103ChapterOneHundredNoStringsAttached = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0103-chapter-one-hundred-no-strings-attached",
   title: "Chapter One Hundred - No Strings Attached",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 103,
   ownLength: 3597,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0171ChapterOneHundredAndSixtyFiveNegotreeations = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0171-chapter-one-hundred-and-sixty-five-negotreeations",
   title: "Chapter One Hundred and Sixty-Five - Negotreeations",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 171,
   ownLength: 2021,
   unitSlug: "words",

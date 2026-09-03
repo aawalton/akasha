@@ -5,7 +5,7 @@ export const cinnamonBun0058ChapterFiftyFiveRevelations = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0058-chapter-fifty-five-revelations",
   title: "Chapter Fifty-Five - Revelations",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 58,
   ownLength: 2004,
   unitSlug: "words",

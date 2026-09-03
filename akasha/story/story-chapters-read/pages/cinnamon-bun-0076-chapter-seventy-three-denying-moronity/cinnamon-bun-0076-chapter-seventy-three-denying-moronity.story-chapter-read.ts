@@ -5,7 +5,7 @@ export const cinnamonBun0076ChapterSeventyThreeDenyingMoronity = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0076-chapter-seventy-three-denying-moronity",
   title: "Chapter Seventy-Three - Denying Moronity",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 76,
   ownLength: 1937,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0094ChapterNinetyOneCoreValues = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0094-chapter-ninety-one-core-values",
   title: "Chapter Ninety-One - Core Values",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 94,
   ownLength: 1973,
   unitSlug: "words",

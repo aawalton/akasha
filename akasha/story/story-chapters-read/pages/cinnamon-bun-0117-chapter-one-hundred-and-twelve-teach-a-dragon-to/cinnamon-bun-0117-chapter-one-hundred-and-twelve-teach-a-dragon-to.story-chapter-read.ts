@@ -5,7 +5,7 @@ export const cinnamonBun0117ChapterOneHundredAndTwelveTeachADragonTo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0117-chapter-one-hundred-and-twelve-teach-a-dragon-to",
   title: "Chapter One Hundred and Twelve - Teach a Dragon To Fish...",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 117,
   ownLength: 2049,
   unitSlug: "words",

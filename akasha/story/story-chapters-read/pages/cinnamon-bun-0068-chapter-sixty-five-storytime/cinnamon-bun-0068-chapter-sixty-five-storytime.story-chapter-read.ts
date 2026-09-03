@@ -5,7 +5,7 @@ export const cinnamonBun0068ChapterSixtyFiveStorytime = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0068-chapter-sixty-five-storytime",
   title: "Chapter Sixty-Five - Storytime",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 68,
   ownLength: 1920,
   unitSlug: "words",

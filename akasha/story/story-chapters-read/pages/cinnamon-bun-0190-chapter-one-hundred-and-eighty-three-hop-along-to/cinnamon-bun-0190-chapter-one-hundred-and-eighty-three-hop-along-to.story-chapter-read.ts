@@ -5,7 +5,7 @@ export const cinnamonBun0190ChapterOneHundredAndEightyThreeHopAlongTo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0190-chapter-one-hundred-and-eighty-three-hop-along-to",
   title: "Chapter One Hundred and Eighty-Three - Hop Along to Hopsalot",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 190,
   ownLength: 1971,
   unitSlug: "words",

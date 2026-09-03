@@ -5,7 +5,7 @@ export const cinnamonBun0147ChapterOneHundredAndFortyTwoHesARealFixer = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0147-chapter-one-hundred-and-forty-two-hes-a-real-fixer",
   title: "Chapter One Hundred and Forty-Two - He’s a Real Fixer-Upper",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 147,
   ownLength: 1981,
   unitSlug: "words",

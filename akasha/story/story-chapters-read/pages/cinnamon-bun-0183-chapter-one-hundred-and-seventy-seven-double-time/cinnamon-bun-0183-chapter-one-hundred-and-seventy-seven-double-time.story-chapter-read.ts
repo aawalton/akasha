@@ -5,7 +5,7 @@ export const cinnamonBun0183ChapterOneHundredAndSeventySevenDoubleTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0183-chapter-one-hundred-and-seventy-seven-double-time",
   title: "Chapter One Hundred and Seventy-Seven - Double-Time",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 183,
   ownLength: 1923,
   unitSlug: "words",

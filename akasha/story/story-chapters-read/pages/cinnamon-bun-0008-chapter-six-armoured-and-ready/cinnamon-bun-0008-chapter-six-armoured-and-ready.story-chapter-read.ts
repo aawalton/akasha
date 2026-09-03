@@ -5,7 +5,7 @@ export const cinnamonBun0008ChapterSixArmouredAndReady = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0008-chapter-six-armoured-and-ready",
   title: "Chapter Six - Armoured and Ready",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 8,
   ownLength: 2096,
   unitSlug: "words",

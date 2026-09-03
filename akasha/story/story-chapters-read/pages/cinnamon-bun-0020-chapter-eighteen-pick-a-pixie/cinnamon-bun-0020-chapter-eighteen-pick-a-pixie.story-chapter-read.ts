@@ -5,7 +5,7 @@ export const cinnamonBun0020ChapterEighteenPickAPixie = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0020-chapter-eighteen-pick-a-pixie",
   title: "Chapter Eighteen - Pick a Pixie",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 20,
   ownLength: 1935,
   unitSlug: "words",

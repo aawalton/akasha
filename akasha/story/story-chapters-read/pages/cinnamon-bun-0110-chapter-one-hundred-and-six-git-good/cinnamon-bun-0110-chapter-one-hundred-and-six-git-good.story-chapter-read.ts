@@ -5,7 +5,7 @@ export const cinnamonBun0110ChapterOneHundredAndSixGitGood = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0110-chapter-one-hundred-and-six-git-good",
   title: "Chapter One Hundred and Six - Git Good",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 110,
   ownLength: 1979,
   unitSlug: "words",

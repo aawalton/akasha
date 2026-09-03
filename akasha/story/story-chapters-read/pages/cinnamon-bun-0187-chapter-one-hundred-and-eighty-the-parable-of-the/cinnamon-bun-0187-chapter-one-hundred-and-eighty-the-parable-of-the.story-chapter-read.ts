@@ -5,7 +5,7 @@ export const cinnamonBun0187ChapterOneHundredAndEightyTheParableOfThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0187-chapter-one-hundred-and-eighty-the-parable-of-the",
   title: "Chapter One Hundred and Eighty - The Parable of the Baker Knight",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 187,
   ownLength: 1992,
   unitSlug: "words",

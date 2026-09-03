@@ -5,7 +5,7 @@ export const cinnamonBun0158ChapterOneHundredAndFiftyTwoPeaceThrough = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0158-chapter-one-hundred-and-fifty-two-peace-through",
   title: "Chapter One Hundred and Fifty-Two - Peace Through Overwhelming Friendpower",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 158,
   ownLength: 1933,
   unitSlug: "words",

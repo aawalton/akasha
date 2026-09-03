@@ -5,7 +5,7 @@ export const cinnamonBun0169ChapterOneHundredAndSixtyThreeHello = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0169-chapter-one-hundred-and-sixty-three-hello",
   title: "Chapter One Hundred and Sixty-Three - Hello Darkwoods, My Old Friend",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 169,
   ownLength: 1985,
   unitSlug: "words",

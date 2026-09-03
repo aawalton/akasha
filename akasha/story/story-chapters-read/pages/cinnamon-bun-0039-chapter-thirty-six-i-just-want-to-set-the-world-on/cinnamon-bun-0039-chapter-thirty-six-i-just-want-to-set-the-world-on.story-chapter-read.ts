@@ -5,7 +5,7 @@ export const cinnamonBun0039ChapterThirtySixIJustWantToSetTheWorldOn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0039-chapter-thirty-six-i-just-want-to-set-the-world-on",
   title: "Chapter Thirty-Six - I Just Want to Set the World on Fire",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 39,
   ownLength: 2052,
   unitSlug: "words",

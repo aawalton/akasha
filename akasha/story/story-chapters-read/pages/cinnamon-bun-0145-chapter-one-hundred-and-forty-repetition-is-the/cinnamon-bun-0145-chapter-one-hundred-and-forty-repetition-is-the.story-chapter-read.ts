@@ -5,7 +5,7 @@ export const cinnamonBun0145ChapterOneHundredAndFortyRepetitionIsThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0145-chapter-one-hundred-and-forty-repetition-is-the",
   title: "Chapter One Hundred and Forty - Repetition is the Mother of All Learning",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 145,
   ownLength: 1906,
   unitSlug: "words",

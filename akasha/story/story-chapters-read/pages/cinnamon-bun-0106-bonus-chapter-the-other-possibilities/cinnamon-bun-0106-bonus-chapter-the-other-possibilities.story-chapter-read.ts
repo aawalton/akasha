@@ -5,7 +5,7 @@ export const cinnamonBun0106BonusChapterTheOtherPossibilities = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0106-bonus-chapter-the-other-possibilities",
   title: "Bonus Chapter: The Other Possibilities",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 106,
   ownLength: 2010,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0156ChapterOneHundredAndFiftyACanadian = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0156-chapter-one-hundred-and-fifty-a-canadian",
   title: "Chapter One Hundred and Fifty - A Canadian Riftwalker in the Harpies' Court",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 156,
   ownLength: 2012,
   unitSlug: "words",

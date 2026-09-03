@@ -5,7 +5,7 @@ export const cinnamonBun0134ChapterOneHundredAndTwentyNineOblivious = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0134-chapter-one-hundred-and-twenty-nine-oblivious",
   title: "Chapter One Hundred and Twenty-Nine - Oblivious",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 134,
   ownLength: 2085,
   unitSlug: "words",

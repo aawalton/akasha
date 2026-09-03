@@ -5,7 +5,7 @@ export const cinnamonBun0126ChapterOneHundredAndTwentyOneGangstaBun = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0126-chapter-one-hundred-and-twenty-one-gangsta-bun",
   title: "Chapter One Hundred and Twenty-One - Gangsta Bun",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 126,
   ownLength: 2033,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0168ChapterOneHundredAndSixtyTwoDineAnotherDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0168-chapter-one-hundred-and-sixty-two-dine-another-day",
   title: "Chapter One Hundred and Sixty-Two - Dine Another Day",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 168,
   ownLength: 2016,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0085ChapterEightyTwoCasusBellyache = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0085-chapter-eighty-two-casus-bellyache",
   title: "Chapter Eighty-Two - Casus Bellyache",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 85,
   ownLength: 1934,
   unitSlug: "words",

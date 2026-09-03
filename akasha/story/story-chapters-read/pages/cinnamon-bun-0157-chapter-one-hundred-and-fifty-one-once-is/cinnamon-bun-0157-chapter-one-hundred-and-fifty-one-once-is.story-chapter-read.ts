@@ -5,7 +5,7 @@ export const cinnamonBun0157ChapterOneHundredAndFiftyOneOnceIs = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0157-chapter-one-hundred-and-fifty-one-once-is",
   title: "Chapter One Hundred and Fifty-One - Once is Happenstance, Twice is Enemy Action",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 157,
   ownLength: 1966,
   unitSlug: "words",

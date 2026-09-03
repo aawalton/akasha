@@ -5,7 +5,7 @@ export const cinnamonBun0014ChapterTwelveTeaTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0014-chapter-twelve-tea-time",
   title: "Chapter Twelve - Tea Time",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 14,
   ownLength: 2026,
   unitSlug: "words",

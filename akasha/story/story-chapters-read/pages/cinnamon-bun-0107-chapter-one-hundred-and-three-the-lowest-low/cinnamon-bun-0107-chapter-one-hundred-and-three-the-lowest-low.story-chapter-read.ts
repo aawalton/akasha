@@ -5,7 +5,7 @@ export const cinnamonBun0107ChapterOneHundredAndThreeTheLowestLow = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0107-chapter-one-hundred-and-three-the-lowest-low",
   title: "Chapter One Hundred and Three - The Lowest Low",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 107,
   ownLength: 2029,
   unitSlug: "words",

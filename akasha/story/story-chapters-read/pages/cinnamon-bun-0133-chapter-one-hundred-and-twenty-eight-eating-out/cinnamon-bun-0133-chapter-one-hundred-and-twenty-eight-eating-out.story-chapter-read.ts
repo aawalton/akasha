@@ -5,7 +5,7 @@ export const cinnamonBun0133ChapterOneHundredAndTwentyEightEatingOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0133-chapter-one-hundred-and-twenty-eight-eating-out",
   title: "Chapter One Hundred and Twenty-Eight - Eating Out",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 133,
   ownLength: 1927,
   unitSlug: "words",

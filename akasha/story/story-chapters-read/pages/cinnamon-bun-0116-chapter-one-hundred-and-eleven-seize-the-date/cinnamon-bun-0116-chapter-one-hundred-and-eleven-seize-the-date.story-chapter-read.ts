@@ -5,7 +5,7 @@ export const cinnamonBun0116ChapterOneHundredAndElevenSeizeTheDate = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0116-chapter-one-hundred-and-eleven-seize-the-date",
   title: "Chapter One Hundred and Eleven - Seize the Date",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 116,
   ownLength: 1971,
   unitSlug: "words",

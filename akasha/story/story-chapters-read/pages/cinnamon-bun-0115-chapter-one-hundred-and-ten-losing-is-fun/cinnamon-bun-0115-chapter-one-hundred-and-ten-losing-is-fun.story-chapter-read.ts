@@ -5,7 +5,7 @@ export const cinnamonBun0115ChapterOneHundredAndTenLosingIsFun = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0115-chapter-one-hundred-and-ten-losing-is-fun",
   title: "Chapter One Hundred and Ten - Losing is Fun",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 115,
   ownLength: 2017,
   unitSlug: "words",

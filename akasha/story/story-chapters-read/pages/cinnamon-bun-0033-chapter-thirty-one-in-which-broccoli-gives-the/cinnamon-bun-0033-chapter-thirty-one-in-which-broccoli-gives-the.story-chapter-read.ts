@@ -5,7 +5,7 @@ export const cinnamonBun0033ChapterThirtyOneInWhichBroccoliGivesThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0033-chapter-thirty-one-in-which-broccoli-gives-the",
   title: "Chapter Thirty-One - In Which Broccoli Gives the Locals Weaponry",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 33,
   ownLength: 1959,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0178ChapterOneHundredAndSeventyTwoFetchingHelp = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0178-chapter-one-hundred-and-seventy-two-fetching-help",
   title: "Chapter One Hundred and Seventy-Two - Fetching Help II: Re-Re-Kidnapping",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 178,
   ownLength: 1980,
   unitSlug: "words",

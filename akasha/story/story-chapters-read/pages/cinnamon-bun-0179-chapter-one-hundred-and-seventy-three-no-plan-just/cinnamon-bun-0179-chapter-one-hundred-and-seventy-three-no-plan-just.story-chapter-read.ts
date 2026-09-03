@@ -5,7 +5,7 @@ export const cinnamonBun0179ChapterOneHundredAndSeventyThreeNoPlanJust = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0179-chapter-one-hundred-and-seventy-three-no-plan-just",
   title: "Chapter One Hundred and Seventy-Three - No Plan, Just Survive Contact With the Enemy",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 179,
   ownLength: 1977,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0038ChapterThirtyFiveASparkInTheNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0038-chapter-thirty-five-a-spark-in-the-night",
   title: "Chapter Thirty-Five - A Spark in the Night",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 38,
   ownLength: 2010,
   unitSlug: "words",

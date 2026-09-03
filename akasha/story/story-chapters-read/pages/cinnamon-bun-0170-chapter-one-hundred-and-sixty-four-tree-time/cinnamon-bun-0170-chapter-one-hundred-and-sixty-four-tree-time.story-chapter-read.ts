@@ -5,7 +5,7 @@ export const cinnamonBun0170ChapterOneHundredAndSixtyFourTreeTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0170-chapter-one-hundred-and-sixty-four-tree-time",
   title: "Chapter One Hundred and Sixty-Four - Tree Time",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 170,
   ownLength: 1968,
   unitSlug: "words",

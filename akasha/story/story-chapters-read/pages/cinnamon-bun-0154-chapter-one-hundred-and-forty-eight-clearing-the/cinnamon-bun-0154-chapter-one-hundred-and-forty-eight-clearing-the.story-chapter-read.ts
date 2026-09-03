@@ -5,7 +5,7 @@ export const cinnamonBun0154ChapterOneHundredAndFortyEightClearingThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0154-chapter-one-hundred-and-forty-eight-clearing-the",
   title: "Chapter One Hundred and Forty-Eight - Clearing the Air",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 154,
   ownLength: 1979,
   unitSlug: "words",

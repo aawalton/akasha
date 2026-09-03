@@ -5,7 +5,7 @@ export const cinnamonBun0175ChapterOneHundredAndSixtyNineRebelsWithout = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0175-chapter-one-hundred-and-sixty-nine-rebels-without",
   title: "Chapter One Hundred and Sixty-Nine - Rebels Without (Much of) a Cause",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 175,
   ownLength: 1996,
   unitSlug: "words",

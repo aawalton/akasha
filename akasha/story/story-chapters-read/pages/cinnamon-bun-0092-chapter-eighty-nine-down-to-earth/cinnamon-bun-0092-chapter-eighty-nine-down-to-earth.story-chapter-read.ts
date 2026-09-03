@@ -5,7 +5,7 @@ export const cinnamonBun0092ChapterEightyNineDownToEarth = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0092-chapter-eighty-nine-down-to-earth",
   title: "Chapter Eighty-Nine - Down to Earth",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 92,
   ownLength: 2016,
   unitSlug: "words",

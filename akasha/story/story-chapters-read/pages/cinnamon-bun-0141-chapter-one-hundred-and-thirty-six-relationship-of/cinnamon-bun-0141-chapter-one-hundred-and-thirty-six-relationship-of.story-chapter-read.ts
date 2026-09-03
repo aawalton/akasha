@@ -5,7 +5,7 @@ export const cinnamonBun0141ChapterOneHundredAndThirtySixRelationshipOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0141-chapter-one-hundred-and-thirty-six-relationship-of",
   title: "Chapter One Hundred and Thirty-Six - Relationship of Fools",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 141,
   ownLength: 1879,
   unitSlug: "words",

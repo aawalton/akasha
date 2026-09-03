@@ -5,7 +5,7 @@ export const cinnamonBun0200ChapterOneHundredAndNinetyThreeCleanThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0200-chapter-one-hundred-and-ninety-three-clean-the",
   title: "Chapter One Hundred and Ninety-Three - Clean the Walking Dead",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 200,
   ownLength: 1963,
   unitSlug: "words",

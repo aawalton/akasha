@@ -5,7 +5,7 @@ export const cinnamonBun0048ChapterFortyFiveUpskirtDown = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0048-chapter-forty-five-upskirt-down",
   title: "Chapter Forty-Five - Upskirt Down",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 48,
   ownLength: 2071,
   unitSlug: "words",

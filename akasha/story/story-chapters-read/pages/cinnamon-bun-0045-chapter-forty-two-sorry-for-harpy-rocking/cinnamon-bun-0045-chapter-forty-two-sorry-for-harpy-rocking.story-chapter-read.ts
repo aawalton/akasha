@@ -5,7 +5,7 @@ export const cinnamonBun0045ChapterFortyTwoSorryForHarpyRocking = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0045-chapter-forty-two-sorry-for-harpy-rocking",
   title: "Chapter Forty-Two - Sorry for Harpy Rocking",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 45,
   ownLength: 2037,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0140ChapterOneHundredAndThirtyFiveGreatBallsOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0140-chapter-one-hundred-and-thirty-five-great-balls-of",
   title: "Chapter One Hundred and Thirty-Five - Great Balls of Fire",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 140,
   ownLength: 2159,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0062ChapterFiftyNineLordAbrahamBristlecone = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0062-chapter-fifty-nine-lord-abraham-bristlecone",
   title: "Chapter Fifty-Nine - LORD ABRAHAM BRISTLECONE!",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 62,
   ownLength: 2064,
   unitSlug: "words",

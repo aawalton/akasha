@@ -5,7 +5,7 @@ export const cinnamonBun0082ChapterSeventyNineHappyDance = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0082-chapter-seventy-nine-happy-dance",
   title: "Chapter Seventy-Nine - Happy Dance",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 82,
   ownLength: 1959,
   unitSlug: "words",

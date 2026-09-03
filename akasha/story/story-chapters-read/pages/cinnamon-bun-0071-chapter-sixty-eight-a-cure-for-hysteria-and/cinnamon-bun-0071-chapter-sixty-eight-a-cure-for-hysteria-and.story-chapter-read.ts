@@ -5,7 +5,7 @@ export const cinnamonBun0071ChapterSixtyEightACureForHysteriaAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0071-chapter-sixty-eight-a-cure-for-hysteria-and",
   title: "Chapter Sixty-Eight - A Cure for Hysteria and Loneliness",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 71,
   ownLength: 2145,
   unitSlug: "words",

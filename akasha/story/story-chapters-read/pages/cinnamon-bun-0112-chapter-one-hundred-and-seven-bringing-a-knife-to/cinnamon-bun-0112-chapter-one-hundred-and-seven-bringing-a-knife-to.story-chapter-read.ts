@@ -5,7 +5,7 @@ export const cinnamonBun0112ChapterOneHundredAndSevenBringingAKnifeTo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0112-chapter-one-hundred-and-seven-bringing-a-knife-to",
   title: "Chapter One Hundred and Seven - Bringing a Knife to a Chair Fight",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 112,
   ownLength: 1989,
   unitSlug: "words",

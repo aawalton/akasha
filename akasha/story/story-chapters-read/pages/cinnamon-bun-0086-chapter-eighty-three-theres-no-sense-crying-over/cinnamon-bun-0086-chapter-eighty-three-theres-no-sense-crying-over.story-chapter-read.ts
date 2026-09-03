@@ -5,7 +5,7 @@ export const cinnamonBun0086ChapterEightyThreeTheresNoSenseCryingOver = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0086-chapter-eighty-three-theres-no-sense-crying-over",
   title: "Chapter Eighty-Three - There's No Sense Crying Over Every Mistake",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 86,
   ownLength: 2029,
   unitSlug: "words",

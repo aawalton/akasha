@@ -5,7 +5,7 @@ export const cinnamonBun0049ChapterFortySixASlimeySituation = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0049-chapter-forty-six-a-slimey-situation",
   title: "Chapter Forty-Six - A Slimey Situation",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 49,
   ownLength: 2044,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0101ChapterNinetyEightBunOfHerWord = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0101-chapter-ninety-eight-bun-of-her-word",
   title: "Chapter Ninety-Eight - Bun of Her Word",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 101,
   ownLength: 1966,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0139ChapterOneHundredAndThirtyFourFamilyMatters = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0139-chapter-one-hundred-and-thirty-four-family-matters",
   title: "Chapter One Hundred and Thirty-Four - Family Matters Matter",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 139,
   ownLength: 1989,
   unitSlug: "words",

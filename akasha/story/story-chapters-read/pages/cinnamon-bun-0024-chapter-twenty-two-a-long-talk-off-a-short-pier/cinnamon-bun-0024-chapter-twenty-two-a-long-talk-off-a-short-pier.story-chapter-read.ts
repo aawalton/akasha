@@ -5,7 +5,7 @@ export const cinnamonBun0024ChapterTwentyTwoALongTalkOffAShortPier = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0024-chapter-twenty-two-a-long-talk-off-a-short-pier",
   title: "Chapter Twenty-Two - A Long Talk Off a Short Pier",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 24,
   ownLength: 1949,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0132ChapterOneHundredAndTwentySevenAPoetAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0132-chapter-one-hundred-and-twenty-seven-a-poet-and",
   title: "Chapter One Hundred and Twenty-Seven - A Poet, and Also a Dragon",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 132,
   ownLength: 2006,
   unitSlug: "words",

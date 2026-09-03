@@ -5,7 +5,7 @@ export const theLegendOfRandidlyGhosthound0604Chapter2339 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-legend-of-randidly-ghosthound-0604-chapter-2339",
   title: "Chapter 2339",
-  partOfSlugs: ["the-legend-of-randidly-ghosthound"],
+  partOfSlugs: ["story-read/the-legend-of-randidly-ghosthound"],
   position: 604,
   ownLength: 1892,
   ownProgress: 1892,

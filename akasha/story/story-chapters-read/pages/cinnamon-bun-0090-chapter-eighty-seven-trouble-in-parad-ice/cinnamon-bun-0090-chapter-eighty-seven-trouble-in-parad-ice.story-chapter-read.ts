@@ -5,7 +5,7 @@ export const cinnamonBun0090ChapterEightySevenTroubleInParadIce = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0090-chapter-eighty-seven-trouble-in-parad-ice",
   title: "Chapter Eighty-Seven -Trouble in Parad-ice!",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 90,
   ownLength: 2001,
   unitSlug: "words",

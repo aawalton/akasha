@@ -5,7 +5,7 @@ export const cinnamonBun0095ChapterNinetyTwoMakingFriendsAtTheNext = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0095-chapter-ninety-two-making-friends-at-the-next",
   title: "Chapter Ninety-Two - Making Friends at the Next Level",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 95,
   ownLength: 1919,
   unitSlug: "words",

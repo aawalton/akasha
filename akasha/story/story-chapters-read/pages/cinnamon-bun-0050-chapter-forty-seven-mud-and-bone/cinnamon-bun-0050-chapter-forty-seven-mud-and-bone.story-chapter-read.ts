@@ -5,7 +5,7 @@ export const cinnamonBun0050ChapterFortySevenMudAndBone = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0050-chapter-forty-seven-mud-and-bone",
   title: "Chapter Forty-Seven - Mud and Bone",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 50,
   ownLength: 1959,
   unitSlug: "words",

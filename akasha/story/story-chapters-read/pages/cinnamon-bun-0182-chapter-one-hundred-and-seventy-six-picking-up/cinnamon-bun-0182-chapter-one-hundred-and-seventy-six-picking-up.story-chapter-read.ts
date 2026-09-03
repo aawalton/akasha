@@ -5,7 +5,7 @@ export const cinnamonBun0182ChapterOneHundredAndSeventySixPickingUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0182-chapter-one-hundred-and-seventy-six-picking-up",
   title: "Chapter One Hundred and Seventy-Six - Picking Up Strays",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 182,
   ownLength: 1914,
   unitSlug: "words",

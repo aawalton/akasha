@@ -5,7 +5,7 @@ export const cinnamonBun0205ChapterOneHundredAndNinetyEightEverybunyWas = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0205-chapter-one-hundred-and-ninety-eight-everybuny-was",
   title: "Chapter One Hundred and Ninety-Eight - Everybuny was Draugr Fighting",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 205,
   ownLength: 1943,
   unitSlug: "words",

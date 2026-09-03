@@ -5,7 +5,7 @@ export const cinnamonBun0181ChapterOneHundredAndSeventyFiveJumpingShip = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0181-chapter-one-hundred-and-seventy-five-jumping-ship",
   title: "Chapter One Hundred and Seventy-Five - Jumping Ship",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 181,
   ownLength: 2023,
   unitSlug: "words",

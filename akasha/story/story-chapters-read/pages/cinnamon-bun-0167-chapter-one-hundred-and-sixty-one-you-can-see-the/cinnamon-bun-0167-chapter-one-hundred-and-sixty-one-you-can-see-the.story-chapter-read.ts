@@ -6,7 +6,7 @@ export const cinnamonBun0167ChapterOneHundredAndSixtyOneYouCanSeeThe = {
   slug: "cinnamon-bun-0167-chapter-one-hundred-and-sixty-one-you-can-see-the",
   title:
     "Chapter One Hundred and Sixty-One - You Can See The Forest Because the Trees Are Chopped Down",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 167,
   ownLength: 1959,
   unitSlug: "words",

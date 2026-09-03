@@ -5,7 +5,7 @@ export const cinnamonBun0081ChapterSeventyEightGlasslighting = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0081-chapter-seventy-eight-glasslighting",
   title: "Chapter Seventy-Eight - Glasslighting",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 81,
   ownLength: 2341,
   unitSlug: "words",

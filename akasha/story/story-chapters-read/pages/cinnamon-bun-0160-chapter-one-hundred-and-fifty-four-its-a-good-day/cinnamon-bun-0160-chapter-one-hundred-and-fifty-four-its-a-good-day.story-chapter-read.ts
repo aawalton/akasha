@@ -5,7 +5,7 @@ export const cinnamonBun0160ChapterOneHundredAndFiftyFourItsAGoodDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0160-chapter-one-hundred-and-fifty-four-its-a-good-day",
   title: "Chapter One Hundred and Fifty-Four - It's a Good Day to Dine",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 160,
   ownLength: 1945,
   unitSlug: "words",

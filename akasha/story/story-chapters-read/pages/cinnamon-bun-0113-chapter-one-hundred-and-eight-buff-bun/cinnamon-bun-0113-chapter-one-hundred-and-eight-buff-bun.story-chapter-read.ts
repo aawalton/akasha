@@ -5,7 +5,7 @@ export const cinnamonBun0113ChapterOneHundredAndEightBuffBun = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0113-chapter-one-hundred-and-eight-buff-bun",
   title: "Chapter One Hundred and Eight - Buff Bun",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 113,
   ownLength: 1956,
   unitSlug: "words",

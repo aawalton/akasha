@@ -5,7 +5,7 @@ export const cinnamonBun0172ChapterOneHundredAndSixtySixDiplomatreeIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0172-chapter-one-hundred-and-sixty-six-diplomatree-ii",
   title: "Chapter One Hundred and Sixty-Six - Diplomatree II: Treety Harder",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 172,
   ownLength: 2013,
   unitSlug: "words",

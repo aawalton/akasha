@@ -5,7 +5,7 @@ export const cinnamonBun0078ChapterSeventyFiveFlowerPicking = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0078-chapter-seventy-five-flower-picking",
   title: "Chapter Seventy-Five - Flower Picking",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 78,
   ownLength: 1948,
   unitSlug: "words",

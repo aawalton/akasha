@@ -5,7 +5,7 @@ export const cinnamonBun0012ChapterTenMushroomHop = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0012-chapter-ten-mushroom-hop",
   title: "Chapter Ten - Mushroom Hop",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 12,
   ownLength: 1960,
   unitSlug: "words",

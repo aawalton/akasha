@@ -5,7 +5,7 @@ export const cinnamonBun0100ChapterNinetySevenEnterTheDragon = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0100-chapter-ninety-seven-enter-the-dragon",
   title: "Chapter Ninety-Seven - Enter the Dragon",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 100,
   ownLength: 1933,
   unitSlug: "words",

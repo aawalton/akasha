@@ -5,7 +5,7 @@ export const cinnamonBun0138ChapterOneHundredAndThirtyThreeOfCourseYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0138-chapter-one-hundred-and-thirty-three-of-course-you",
   title: "Chapter One Hundred and Thirty-Three - Of Course You Realize this Maybe War",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 138,
   ownLength: 2099,
   unitSlug: "words",

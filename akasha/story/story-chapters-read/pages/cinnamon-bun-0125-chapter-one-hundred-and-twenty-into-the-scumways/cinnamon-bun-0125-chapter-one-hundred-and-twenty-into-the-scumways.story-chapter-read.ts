@@ -5,7 +5,7 @@ export const cinnamonBun0125ChapterOneHundredAndTwentyIntoTheScumways = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0125-chapter-one-hundred-and-twenty-into-the-scumways",
   title: "Chapter One Hundred and Twenty - Into the Scumways",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 125,
   ownLength: 2186,
   unitSlug: "words",

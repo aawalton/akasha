@@ -5,7 +5,7 @@ export const cinnamonBun0151ChapterOneHundredAndFortyFiveThePatricians = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0151-chapter-one-hundred-and-forty-five-the-patricians",
   title: "Chapter One Hundred and Forty-Five - The Patrician's Armor",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 151,
   ownLength: 1942,
   unitSlug: "words",

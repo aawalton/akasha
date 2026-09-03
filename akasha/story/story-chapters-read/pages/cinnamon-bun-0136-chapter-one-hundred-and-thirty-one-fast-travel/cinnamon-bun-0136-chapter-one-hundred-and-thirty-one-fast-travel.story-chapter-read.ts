@@ -5,7 +5,7 @@ export const cinnamonBun0136ChapterOneHundredAndThirtyOneFastTravel = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0136-chapter-one-hundred-and-thirty-one-fast-travel",
   title: "Chapter One Hundred and Thirty-One - Fast Travel",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 136,
   ownLength: 2089,
   unitSlug: "words",

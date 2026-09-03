@@ -5,7 +5,7 @@ export const cinnamonBun0032ChapterThirtyAVeryHandsomeTree = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0032-chapter-thirty-a-very-handsome-tree",
   title: "Chapter Thirty - A Very Handsome Tree",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 32,
   ownLength: 1990,
   unitSlug: "words",

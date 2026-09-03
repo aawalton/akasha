@@ -5,7 +5,7 @@ export const cinnamonBun0061ChapterFiftyEightOpportunityComesKicking = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0061-chapter-fifty-eight-opportunity-comes-kicking",
   title: "Chapter Fifty-Eight - Opportunity Comes Kicking",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 61,
   ownLength: 2017,
   unitSlug: "words",

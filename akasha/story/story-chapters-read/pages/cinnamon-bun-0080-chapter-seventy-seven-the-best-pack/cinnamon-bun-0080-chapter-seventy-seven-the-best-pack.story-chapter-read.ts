@@ -5,7 +5,7 @@ export const cinnamonBun0080ChapterSeventySevenTheBestPack = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0080-chapter-seventy-seven-the-best-pack",
   title: "Chapter Seventy-Seven - The Best Pack",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 80,
   ownLength: 2020,
   unitSlug: "words",

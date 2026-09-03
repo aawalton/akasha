@@ -5,7 +5,7 @@ export const cinnamonBun0055ChapterFiftyTwoHardToIgnore = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0055-chapter-fifty-two-hard-to-ignore",
   title: "Chapter Fifty-Two - Hard to Ignore",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 55,
   ownLength: 1933,
   unitSlug: "words",

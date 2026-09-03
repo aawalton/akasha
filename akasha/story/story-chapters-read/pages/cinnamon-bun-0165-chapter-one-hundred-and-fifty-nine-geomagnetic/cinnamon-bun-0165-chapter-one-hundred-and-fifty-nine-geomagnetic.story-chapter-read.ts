@@ -5,7 +5,7 @@ export const cinnamonBun0165ChapterOneHundredAndFiftyNineGeomagnetic = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0165-chapter-one-hundred-and-fifty-nine-geomagnetic",
   title: "Chapter One Hundred and Fifty-Nine - Geomagnetic Wandering",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 165,
   ownLength: 1962,
   unitSlug: "words",

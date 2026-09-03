@@ -5,7 +5,7 @@ export const cinnamonBun0188ChapterOneHundredAndEightyOneCastingA = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0188-chapter-one-hundred-and-eighty-one-casting-a",
   title: "Chapter One Hundred and Eighty-One - Casting a Shadow Over Insmouth",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 188,
   ownLength: 1941,
   unitSlug: "words",

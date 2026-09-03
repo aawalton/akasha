@@ -5,7 +5,7 @@ export const cinnamonBun0203ChapterOneHundredAndNinetySixMatchmaking101 = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0203-chapter-one-hundred-and-ninety-six-matchmaking-101",
   title: "Chapter One Hundred and Ninety-Six - Matchmaking 101 With Momma",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 203,
   ownLength: 1931,
   unitSlug: "words",

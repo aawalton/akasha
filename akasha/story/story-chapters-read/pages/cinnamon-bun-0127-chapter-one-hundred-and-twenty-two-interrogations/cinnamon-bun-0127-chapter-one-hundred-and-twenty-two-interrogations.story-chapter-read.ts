@@ -5,7 +5,7 @@ export const cinnamonBun0127ChapterOneHundredAndTwentyTwoInterrogations = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0127-chapter-one-hundred-and-twenty-two-interrogations",
   title: "Chapter One Hundred and Twenty-Two - Interrogations",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 127,
   ownLength: 2038,
   unitSlug: "words",

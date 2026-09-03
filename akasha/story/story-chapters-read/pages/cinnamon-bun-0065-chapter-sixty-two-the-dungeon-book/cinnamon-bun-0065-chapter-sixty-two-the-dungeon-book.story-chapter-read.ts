@@ -5,7 +5,7 @@ export const cinnamonBun0065ChapterSixtyTwoTheDungeonBook = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0065-chapter-sixty-two-the-dungeon-book",
   title: "Chapter Sixty-Two - The Dungeon Book",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 65,
   ownLength: 2126,
   unitSlug: "words",

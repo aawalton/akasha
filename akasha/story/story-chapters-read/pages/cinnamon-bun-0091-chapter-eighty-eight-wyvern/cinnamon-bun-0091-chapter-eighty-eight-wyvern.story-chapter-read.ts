@@ -5,7 +5,7 @@ export const cinnamonBun0091ChapterEightyEightWyvern = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0091-chapter-eighty-eight-wyvern",
   title: "Chapter Eighty-Eight - Wyvern",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 91,
   ownLength: 1973,
   unitSlug: "words",

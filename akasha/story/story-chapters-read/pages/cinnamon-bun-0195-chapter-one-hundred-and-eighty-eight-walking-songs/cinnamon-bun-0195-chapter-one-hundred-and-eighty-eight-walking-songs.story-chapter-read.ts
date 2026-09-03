@@ -5,7 +5,7 @@ export const cinnamonBun0195ChapterOneHundredAndEightyEightWalkingSongs = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0195-chapter-one-hundred-and-eighty-eight-walking-songs",
   title: "Chapter One Hundred and Eighty-Eight - Walking Songs",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 195,
   ownLength: 1908,
   unitSlug: "words",

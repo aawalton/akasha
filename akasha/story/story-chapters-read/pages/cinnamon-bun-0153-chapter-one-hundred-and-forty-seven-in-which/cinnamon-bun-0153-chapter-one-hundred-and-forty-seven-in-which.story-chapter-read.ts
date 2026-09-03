@@ -5,7 +5,7 @@ export const cinnamonBun0153ChapterOneHundredAndFortySevenInWhich = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0153-chapter-one-hundred-and-forty-seven-in-which",
   title: "Chapter One Hundred and Forty-Seven - In Which Broccoli Gets to Wear Many Hats",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 153,
   ownLength: 1843,
   unitSlug: "words",

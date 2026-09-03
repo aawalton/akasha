@@ -5,7 +5,7 @@ export const cinnamonBun0201ChapterOneHundredAndNinetyFourTheDeadOn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0201-chapter-one-hundred-and-ninety-four-the-dead-on",
   title: "Chapter One Hundred and Ninety-Four - The Dead on Their Feet",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 201,
   ownLength: 2001,
   unitSlug: "words",

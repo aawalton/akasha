@@ -5,7 +5,7 @@ export const cinnamonBun0010ChapterEightALookIntoThePast = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0010-chapter-eight-a-look-into-the-past",
   title: "Chapter Eight - A Look into the Past",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 10,
   ownLength: 2044,
   unitSlug: "words",

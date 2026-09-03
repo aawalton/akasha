@@ -5,7 +5,7 @@ export const cinnamonBun0135ChapterOneHundredAndThirtyHopingForABetter = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0135-chapter-one-hundred-and-thirty-hoping-for-a-better",
   title: "Chapter One Hundred and Thirty - Hoping For a Better Tomorrow",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 135,
   ownLength: 1934,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0097ChapterNinetyFourDanceDanceBeevolution = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0097-chapter-ninety-four-dance-dance-beevolution",
   title: "Chapter Ninety-Four - Dance Dance Beevolution",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 97,
   ownLength: 2015,
   unitSlug: "words",

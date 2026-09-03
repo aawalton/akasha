@@ -5,7 +5,7 @@ export const cinnamonBun0128ChapterOneHundredAndTwentyThreeAnOldName = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0128-chapter-one-hundred-and-twenty-three-an-old-name",
   title: "Chapter One Hundred and Twenty-Three - An Old Name",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 128,
   ownLength: 1989,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0130ChapterOneHundredAndTwentyFiveBad = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0130-chapter-one-hundred-and-twenty-five-bad",
   title: "Chapter One Hundred and Twenty-Five - Bad Implications",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 130,
   ownLength: 1978,
   unitSlug: "words",

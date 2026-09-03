@@ -5,7 +5,7 @@ export const cinnamonBun0120ChapterOneHundredAndFifteenDragonRiderOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0120-chapter-one-hundred-and-fifteen-dragon-rider-of",
   title: "Chapter One Hundred and Fifteen - Dragon Rider of Bun",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 120,
   ownLength: 2036,
   unitSlug: "words",

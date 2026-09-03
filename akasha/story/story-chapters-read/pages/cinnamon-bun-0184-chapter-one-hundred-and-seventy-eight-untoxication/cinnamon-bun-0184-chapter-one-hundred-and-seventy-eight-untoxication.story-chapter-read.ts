@@ -5,7 +5,7 @@ export const cinnamonBun0184ChapterOneHundredAndSeventyEightUntoxication = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0184-chapter-one-hundred-and-seventy-eight-untoxication",
   title: "Chapter One Hundred and Seventy-Eight - Untoxication",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 184,
   ownLength: 1946,
   unitSlug: "words",

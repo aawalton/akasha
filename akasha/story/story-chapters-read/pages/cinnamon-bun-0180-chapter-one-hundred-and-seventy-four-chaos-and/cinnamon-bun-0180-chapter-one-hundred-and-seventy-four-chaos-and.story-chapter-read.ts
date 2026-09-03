@@ -5,7 +5,7 @@ export const cinnamonBun0180ChapterOneHundredAndSeventyFourChaosAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0180-chapter-one-hundred-and-seventy-four-chaos-and",
   title: "Chapter One Hundred and Seventy-Four - Chaos and Anarchy and Other Sorts of Fun",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 180,
   ownLength: 2141,
   unitSlug: "words",

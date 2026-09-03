@@ -5,7 +5,7 @@ export const cinnamonBun0037ChapterThirtyFourTheEmbersOfMagic = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0037-chapter-thirty-four-the-embers-of-magic",
   title: "Chapter Thirty-Four - The Embers of Magic",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 37,
   ownLength: 2734,
   unitSlug: "words",

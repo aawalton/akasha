@@ -5,7 +5,7 @@ export const cinnamonBun0099ChapterNinetySixTheRustyRaven = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0099-chapter-ninety-six-the-rusty-raven",
   title: "Chapter Ninety-Six - The Rusty Raven",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 99,
   ownLength: 1977,
   unitSlug: "words",

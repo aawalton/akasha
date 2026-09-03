@@ -5,7 +5,7 @@ export const cinnamonBun0104ChapterOneHundredAndOneEvolution = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0104-chapter-one-hundred-and-one-evolution",
   title: "Chapter One Hundred and One - Evolution",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 104,
   ownLength: 2029,
   unitSlug: "words",

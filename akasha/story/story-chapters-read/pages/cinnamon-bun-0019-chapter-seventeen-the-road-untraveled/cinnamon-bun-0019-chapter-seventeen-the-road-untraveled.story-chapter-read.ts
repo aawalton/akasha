@@ -5,7 +5,7 @@ export const cinnamonBun0019ChapterSeventeenTheRoadUntraveled = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0019-chapter-seventeen-the-road-untraveled",
   title: "Chapter Seventeen - The Road Untraveled",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 19,
   ownLength: 1993,
   unitSlug: "words",

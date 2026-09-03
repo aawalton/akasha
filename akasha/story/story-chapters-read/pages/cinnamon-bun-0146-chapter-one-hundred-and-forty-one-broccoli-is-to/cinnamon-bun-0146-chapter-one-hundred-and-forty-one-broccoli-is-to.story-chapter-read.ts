@@ -5,7 +5,7 @@ export const cinnamonBun0146ChapterOneHundredAndFortyOneBroccoliIsTo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0146-chapter-one-hundred-and-forty-one-broccoli-is-to",
   title: "Chapter One Hundred and Forty-One - Broccoli is to Ceremony as Bulls are to China Shops",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 146,
   ownLength: 1999,
   unitSlug: "words",

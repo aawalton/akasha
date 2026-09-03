@@ -5,7 +5,7 @@ export const cinnamonBun0023ChapterTwentyOneTinyFishHugePond = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0023-chapter-twenty-one-tiny-fish-huge-pond",
   title: "Chapter Twenty-One - Tiny Fish Huge Pond",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 23,
   ownLength: 2019,
   unitSlug: "words",

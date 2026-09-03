@@ -5,7 +5,7 @@ export const cinnamonBun0199ChapterOneHundredAndNinetyTwoMaidItOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0199-chapter-one-hundred-and-ninety-two-maid-it-out",
   title: "Chapter One Hundred and Ninety-Two - Maid it Out Alive",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 199,
   ownLength: 1820,
   unitSlug: "words",

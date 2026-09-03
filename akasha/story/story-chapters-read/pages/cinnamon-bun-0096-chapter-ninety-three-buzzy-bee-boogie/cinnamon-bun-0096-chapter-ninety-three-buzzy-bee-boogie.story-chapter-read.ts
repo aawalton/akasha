@@ -5,7 +5,7 @@ export const cinnamonBun0096ChapterNinetyThreeBuzzyBeeBoogie = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0096-chapter-ninety-three-buzzy-bee-boogie",
   title: "Chapter Ninety-Three - Buzzy Bee Boogie",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 96,
   ownLength: 1958,
   unitSlug: "words",

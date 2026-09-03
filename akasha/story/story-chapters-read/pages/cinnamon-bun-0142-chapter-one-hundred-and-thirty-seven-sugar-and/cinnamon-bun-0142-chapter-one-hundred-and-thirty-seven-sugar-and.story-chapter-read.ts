@@ -5,7 +5,7 @@ export const cinnamonBun0142ChapterOneHundredAndThirtySevenSugarAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0142-chapter-one-hundred-and-thirty-seven-sugar-and",
   title: "Chapter One Hundred and Thirty-Seven - Sugar and Spice",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 142,
   ownLength: 1964,
   unitSlug: "words",

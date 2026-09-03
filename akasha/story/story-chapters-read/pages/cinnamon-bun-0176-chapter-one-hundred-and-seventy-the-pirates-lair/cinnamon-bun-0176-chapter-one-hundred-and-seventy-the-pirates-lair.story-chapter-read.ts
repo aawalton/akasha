@@ -5,7 +5,7 @@ export const cinnamonBun0176ChapterOneHundredAndSeventyThePiratesLair = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0176-chapter-one-hundred-and-seventy-the-pirates-lair",
   title: "Chapter One Hundred and Seventy - The Pirate's Lair",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 176,
   ownLength: 1983,
   unitSlug: "words",

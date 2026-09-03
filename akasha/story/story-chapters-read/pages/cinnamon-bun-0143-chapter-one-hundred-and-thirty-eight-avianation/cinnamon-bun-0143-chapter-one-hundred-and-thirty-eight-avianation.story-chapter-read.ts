@@ -5,7 +5,7 @@ export const cinnamonBun0143ChapterOneHundredAndThirtyEightAvianation = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0143-chapter-one-hundred-and-thirty-eight-avianation",
   title: "Chapter One Hundred and Thirty-Eight - Avianation",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 143,
   ownLength: 2016,
   unitSlug: "words",

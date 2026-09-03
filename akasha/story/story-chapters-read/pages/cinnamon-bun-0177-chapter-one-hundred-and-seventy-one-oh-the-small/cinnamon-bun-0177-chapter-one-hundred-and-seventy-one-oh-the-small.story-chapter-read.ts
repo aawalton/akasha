@@ -5,7 +5,7 @@ export const cinnamonBun0177ChapterOneHundredAndSeventyOneOhTheSmall = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0177-chapter-one-hundred-and-seventy-one-oh-the-small",
   title: "Chapter One Hundred and Seventy-One - Oh, The Small Manatee",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 177,
   ownLength: 1953,
   unitSlug: "words",

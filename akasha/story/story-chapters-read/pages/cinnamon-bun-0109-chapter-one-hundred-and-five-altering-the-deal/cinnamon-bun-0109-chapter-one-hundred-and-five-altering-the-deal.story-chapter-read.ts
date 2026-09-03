@@ -5,7 +5,7 @@ export const cinnamonBun0109ChapterOneHundredAndFiveAlteringTheDeal = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0109-chapter-one-hundred-and-five-altering-the-deal",
   title: "Chapter One Hundred and Five - Altering the Deal",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 109,
   ownLength: 1995,
   unitSlug: "words",

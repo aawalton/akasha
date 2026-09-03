@@ -5,7 +5,7 @@ export const cinnamonBun0149ChapterOneHundredAndFortyFourLaVogueDeLa = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0149-chapter-one-hundred-and-forty-four-la-vogue-de-la",
   title: "Chapter One Hundred and Forty-Four - La Vogue de la Résistance",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 149,
   ownLength: 1972,
   unitSlug: "words",

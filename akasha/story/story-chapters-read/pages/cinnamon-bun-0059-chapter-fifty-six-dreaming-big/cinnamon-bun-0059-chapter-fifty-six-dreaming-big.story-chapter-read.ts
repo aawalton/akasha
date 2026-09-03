@@ -5,7 +5,7 @@ export const cinnamonBun0059ChapterFiftySixDreamingBig = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0059-chapter-fifty-six-dreaming-big",
   title: "Chapter Fifty-Six - Dreaming Big",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 59,
   ownLength: 1885,
   unitSlug: "words",

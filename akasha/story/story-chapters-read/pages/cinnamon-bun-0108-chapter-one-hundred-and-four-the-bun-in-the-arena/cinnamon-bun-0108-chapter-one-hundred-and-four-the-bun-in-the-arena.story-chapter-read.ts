@@ -5,7 +5,7 @@ export const cinnamonBun0108ChapterOneHundredAndFourTheBunInTheArena = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0108-chapter-one-hundred-and-four-the-bun-in-the-arena",
   title: "Chapter One Hundred and Four - The Bun in the Arena",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 108,
   ownLength: 2045,
   unitSlug: "words",

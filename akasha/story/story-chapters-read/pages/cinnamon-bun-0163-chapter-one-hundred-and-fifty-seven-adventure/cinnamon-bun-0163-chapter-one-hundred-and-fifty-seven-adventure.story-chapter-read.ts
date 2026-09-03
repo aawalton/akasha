@@ -5,7 +5,7 @@ export const cinnamonBun0163ChapterOneHundredAndFiftySevenAdventure = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0163-chapter-one-hundred-and-fifty-seven-adventure",
   title: "Chapter One Hundred and Fifty-Seven - Adventure Waits for No Bun",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 163,
   ownLength: 1893,
   unitSlug: "words",

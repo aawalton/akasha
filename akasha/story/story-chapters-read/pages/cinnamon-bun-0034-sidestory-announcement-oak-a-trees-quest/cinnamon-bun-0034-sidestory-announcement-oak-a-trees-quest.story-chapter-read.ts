@@ -5,7 +5,7 @@ export const cinnamonBun0034SidestoryAnnouncementOakATreesQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0034-sidestory-announcement-oak-a-trees-quest",
   title: "Sidestory Announcement - Oak: A Tree's Quest",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 34,
   ownLength: 168,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0060ChapterFiftySevenPomf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0060-chapter-fifty-seven-pomf",
   title: "Chapter Fifty-Seven - Pomf",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 60,
   ownLength: 1983,
   unitSlug: "words",

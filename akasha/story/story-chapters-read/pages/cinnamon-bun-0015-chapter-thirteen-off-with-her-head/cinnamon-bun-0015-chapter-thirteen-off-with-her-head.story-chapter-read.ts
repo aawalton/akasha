@@ -5,7 +5,7 @@ export const cinnamonBun0015ChapterThirteenOffWithHerHead = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0015-chapter-thirteen-off-with-her-head",
   title: "Chapter Thirteen - Off With Her Head",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 15,
   ownLength: 1969,
   unitSlug: "words",

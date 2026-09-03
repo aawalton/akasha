@@ -5,7 +5,7 @@ export const cinnamonBun0002ChapterZeroACallToAdventure = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0002-chapter-zero-a-call-to-adventure",
   title: "Chapter Zero - A Call to Adventure",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 2,
   ownLength: 2179,
   unitSlug: "words",

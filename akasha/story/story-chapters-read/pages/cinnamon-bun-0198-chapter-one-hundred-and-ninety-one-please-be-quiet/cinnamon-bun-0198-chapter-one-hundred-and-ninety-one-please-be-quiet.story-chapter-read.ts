@@ -5,7 +5,7 @@ export const cinnamonBun0198ChapterOneHundredAndNinetyOnePleaseBeQuiet = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0198-chapter-one-hundred-and-ninety-one-please-be-quiet",
   title: "Chapter One Hundred and Ninety-One - Please Be Quiet in the Library",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 198,
   ownLength: 1991,
   unitSlug: "words",

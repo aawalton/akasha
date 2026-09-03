@@ -5,7 +5,7 @@ export const cinnamonBun0191ChapterOneHundredAndEightyFourTheVillage = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0191-chapter-one-hundred-and-eighty-four-the-village",
   title: "Chapter One Hundred and Eighty-Four - The Village Hidden in the Leaves",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 191,
   ownLength: 2056,
   unitSlug: "words",

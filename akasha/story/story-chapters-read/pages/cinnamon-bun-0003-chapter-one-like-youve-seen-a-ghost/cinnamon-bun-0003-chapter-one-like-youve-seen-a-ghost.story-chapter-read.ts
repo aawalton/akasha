@@ -5,7 +5,7 @@ export const cinnamonBun0003ChapterOneLikeYouveSeenAGhost = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0003-chapter-one-like-youve-seen-a-ghost",
   title: "Chapter One - Like You've Seen a Ghost",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 3,
   ownLength: 2063,
   unitSlug: "words",

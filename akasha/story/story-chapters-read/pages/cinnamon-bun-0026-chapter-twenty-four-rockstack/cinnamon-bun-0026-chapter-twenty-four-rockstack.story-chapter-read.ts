@@ -5,7 +5,7 @@ export const cinnamonBun0026ChapterTwentyFourRockstack = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0026-chapter-twenty-four-rockstack",
   title: "Chapter Twenty-Four - Rockstack",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 26,
   ownLength: 1983,
   unitSlug: "words",

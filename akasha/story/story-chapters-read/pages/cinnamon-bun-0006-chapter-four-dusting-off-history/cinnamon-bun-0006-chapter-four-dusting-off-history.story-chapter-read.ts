@@ -5,7 +5,7 @@ export const cinnamonBun0006ChapterFourDustingOffHistory = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0006-chapter-four-dusting-off-history",
   title: "Chapter Four - Dusting Off History",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 6,
   ownLength: 2120,
   unitSlug: "words",

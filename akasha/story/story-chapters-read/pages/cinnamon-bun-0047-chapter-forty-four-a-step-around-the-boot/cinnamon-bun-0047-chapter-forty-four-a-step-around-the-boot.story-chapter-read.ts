@@ -5,7 +5,7 @@ export const cinnamonBun0047ChapterFortyFourAStepAroundTheBoot = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0047-chapter-forty-four-a-step-around-the-boot",
   title: "Chapter Forty-Four - A Step Around the Boot",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 47,
   ownLength: 1982,
   unitSlug: "words",

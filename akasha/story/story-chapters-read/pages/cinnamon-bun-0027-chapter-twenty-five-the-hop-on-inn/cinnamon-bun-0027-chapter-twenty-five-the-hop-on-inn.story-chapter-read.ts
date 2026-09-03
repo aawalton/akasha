@@ -5,7 +5,7 @@ export const cinnamonBun0027ChapterTwentyFiveTheHopOnInn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0027-chapter-twenty-five-the-hop-on-inn",
   title: "Chapter Twenty-Five - The Hop On Inn",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 27,
   ownLength: 2111,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0137ChapterOneHundredAndThirtyTwoHarpingOn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0137-chapter-one-hundred-and-thirty-two-harping-on",
   title: "Chapter One Hundred and Thirty-Two - Harping on Friendship",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 137,
   ownLength: 2017,
   unitSlug: "words",

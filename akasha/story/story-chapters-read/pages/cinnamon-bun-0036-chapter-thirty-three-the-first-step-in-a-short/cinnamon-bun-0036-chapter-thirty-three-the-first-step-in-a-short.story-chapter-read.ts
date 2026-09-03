@@ -5,7 +5,7 @@ export const cinnamonBun0036ChapterThirtyThreeTheFirstStepInAShort = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0036-chapter-thirty-three-the-first-step-in-a-short",
   title: "Chapter Thirty-Three - The First Step in a Short Journey",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 36,
   ownLength: 2034,
   unitSlug: "words",

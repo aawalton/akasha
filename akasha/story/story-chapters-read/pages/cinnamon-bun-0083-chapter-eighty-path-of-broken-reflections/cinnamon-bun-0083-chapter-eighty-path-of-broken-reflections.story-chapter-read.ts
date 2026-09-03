@@ -5,7 +5,7 @@ export const cinnamonBun0083ChapterEightyPathOfBrokenReflections = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0083-chapter-eighty-path-of-broken-reflections",
   title: "Chapter Eighty - Path of Broken Reflections",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 83,
   ownLength: 2082,
   unitSlug: "words",

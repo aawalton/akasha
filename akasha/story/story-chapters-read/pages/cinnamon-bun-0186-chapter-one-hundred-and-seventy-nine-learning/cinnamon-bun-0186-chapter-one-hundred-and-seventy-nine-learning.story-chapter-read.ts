@@ -5,7 +5,7 @@ export const cinnamonBun0186ChapterOneHundredAndSeventyNineLearning = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0186-chapter-one-hundred-and-seventy-nine-learning",
   title: "Chapter One Hundred and Seventy-Nine - Learning About the Feet of the Master",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 186,
   ownLength: 2114,
   unitSlug: "words",

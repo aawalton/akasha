@@ -5,7 +5,7 @@ export const cinnamonBun0144ChapterOneHundredAndThirtyNineThePartyBoat = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0144-chapter-one-hundred-and-thirty-nine-the-party-boat",
   title: "Chapter One Hundred and Thirty-Nine - The Party Boat is Already Split",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 144,
   ownLength: 1866,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0098ChapterNinetyFiveDungeonKnownAs = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0098-chapter-ninety-five-dungeon-known-as",
   title: "Chapter Ninety-Five - Dungeon Known As...",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 98,
   ownLength: 1988,
   unitSlug: "words",
