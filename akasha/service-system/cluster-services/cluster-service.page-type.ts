@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Service } from "../services/service.page-type.ts"
-import type { Schedule } from "./properties/cluster-service-schedule.text-property.ts"
+import type { ClusterServiceSchedule } from "./properties/cluster-service-schedule.text-property.ts"
 import type { ContainerPort } from "./properties/container-port.number-property.ts"
 import type { Image } from "./properties/image.text-property.ts"
 import type { ManifestCode } from "./properties/manifest-code.text-property.ts"
@@ -16,7 +16,7 @@ export type ClusterService = Service & {
   image: Image
   replicas?: Replicas
   containerPort?: ContainerPort
-  schedule?: Schedule
+  schedule?: ClusterServiceSchedule
   manifestCode: ManifestCode
 }
 
@@ -42,7 +42,7 @@ export const clusterService = {
     "text-property/namespace",
     "text-property/resource-kind",
     "text-property/resource-name",
-    "text-property/schedule",
+    "text-property/cluster-service-schedule",
   ],
   properties: [
     { pagePropertySlug: "resource-kind", required: true, many: false },
@@ -51,7 +51,7 @@ export const clusterService = {
     { pagePropertySlug: "image", required: true, many: false },
     { pagePropertySlug: "replicas", required: false, many: false },
     { pagePropertySlug: "container-port", required: false, many: false },
-    { pagePropertySlug: "schedule", required: false, many: false },
+    { pagePropertySlug: "cluster-service-schedule", required: false, many: false },
     { pagePropertySlug: "manifest-code", required: true, many: false },
   ],
   invariants: [
@@ -78,8 +78,12 @@ export const clusterService = {
     },
     {
       invariantKind: "departure",
+      statement: "A cluster service states replicas only where its kind carries replicas.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A cluster service states replicas and a container port only where its kind carries them.",
+        "A cluster service states a container port only where its kind carries a container port.",
     },
     {
       invariantKind: "departure",

@@ -1,6 +1,6 @@
 import type { TextProperty } from "@akasha/pages-system/text-property"
 
-export type Schedule = string
+export type ClusterServiceSchedule = string
 
 export const clusterServiceSchedule = {
   id: "01a06587-c73c-74e9-8542-4de33139539f",
@@ -17,7 +17,7 @@ export const clusterServiceSchedule = {
     },
     {
       invariantKind: "departure",
-      statement: "A workload the cluster starts on no schedule states none.",
+      statement: "A workload the cluster starts by hand carries no schedule.",
     },
   ],
 } as const satisfies TextProperty
