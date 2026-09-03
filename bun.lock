@@ -3007,24 +3007,6 @@
         "@types/node": "^25.9.5",
       },
     },
-    "infra/scripts": {
-      "name": "@infra/scripts",
-      "dependencies": {
-        "@akasha/cluster-manifests": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-url": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@akasha/workspace-paths": "workspace:*",
-        "typescript": "^5.8.3",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-      },
-      "optionalDependencies": {
-        "playwright-core": "1.61.1",
-      },
-    },
     "readouts": {
       "name": "readouts",
       "dependencies": {
@@ -3883,8 +3865,6 @@
     "@happy-dom/global-registrator": ["@happy-dom/global-registrator@20.11.8", "", { "dependencies": { "@types/node": ">=20.0.0", "happy-dom": "^20.11.8" } }, "sha512-lkgRN26nWeYCsoron3bup+egcmpUTV3VsLS/d4rDyo/hwKivUIl8mkLtuk+sVaIdPZUpGFzcdOpt/1CPaW5Bpg=="],
 
     "@hono/node-server": ["@hono/node-server@2.1.1", "", { "peerDependencies": { "hono": "^4" } }, "sha512-ELuehkj5VCBdgEw9zs+ivkKwyzzUCSQuE96YmiPvn1ECBoZCczbFXJLeEGMTYjphP6gydh4pHMqEYPVMYUVgQg=="],
-
-    "@infra/scripts": ["@infra/scripts@workspace:infra/scripts"],
 
     "@ionic/cli-framework-output": ["@ionic/cli-framework-output@2.2.8", "", { "dependencies": { "@ionic/utils-terminal": "2.3.5", "debug": "^4.0.0", "tslib": "^2.0.1" } }, "sha512-TshtaFQsovB4NWRBydbNFawql6yul7d5bMiW1WYYf17hd99V6xdDdk3vtF51bw6sLkxON3bDQpWsnUc9/hVo3g=="],
 
