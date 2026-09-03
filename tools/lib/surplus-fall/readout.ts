@@ -1,6 +1,7 @@
 import type { Query } from "@akasha/pages-system-service/asking"
 import { askingFor } from "@akasha/pages-system-service/calling"
-import { climbs, rungsIn, statedAt } from "@akasha/readout-system/readout-tier"
+import { climbs, rungsIn } from "@akasha/readout-system/readout-tier"
+import { sleepIn } from "@akasha/readout-system/upkeep-sleep"
 import { surplusIn } from "@akasha/readout-system/upkeep-surplus"
 import { onTheWorkstation } from "../push-notification/store.ts"
 import { dayValuesByDate } from "../tracking/day-place.ts"
@@ -26,9 +27,10 @@ import { isTierColor, type Rung } from "./tier.ts"
 // tier said here and the tile on the website are taken off one function rather than two that can
 // drift. The split is that akasha says what a reading means and the funnel says where the day is.
 //
-// `sleep-hours` has no reducer of its own, so `statedAt` — the same one `surplusIn` reads its own
-// keys with — is applied to the key below. The `sleep-hours-on-day` readout query names the same
-// key, so the two agree.
+// The sleep half reads the same way. `sleepIn` is the reducer the `upkeep-sleep` readout reduces
+// its own key with, so the sleep read here and the sleep on the website come off one function
+// rather than two free to disagree. This file used to apply `statedAt` to the key itself, which
+// was that same arithmetic written a second time under a comment saying no reducer existed.
 export const SLEEP_HOURS_KEY = "sleep-hours"
 
 const SURPLUS_KEYS = ["surplus-hours", SLEEP_HOURS_KEY, "spend-hours"] as const
@@ -142,5 +144,5 @@ export async function readReading(day: string): Promise<number | null> {
 export async function readSleepHours(day: string): Promise<number | null> {
   const values = await dayValuesByDate(day, [SLEEP_HOURS_KEY])
   if (values === null) return null
-  return statedAt(values[SLEEP_HOURS_KEY])
+  return sleepIn(values)
 }
