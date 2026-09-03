@@ -3,6 +3,7 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type Source =
   | "kindle"
   | "musicbrainz"
+  | "open-library"
   | "royal-road"
   | "the-great-courses"
   | "the-wandering-inn"

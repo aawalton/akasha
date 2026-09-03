@@ -2,10 +2,22 @@ import type { PageType } from "@akasha/pages-system/page-type"
 import type { CollectionExternal } from "../../../../collection-system/collection-externals/collection-external.page-type.ts"
 import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
 import type { BookKind } from "./properties/book-kind.select-property.ts"
+import type { Isbn } from "./properties/isbn.text-property.ts"
+import type { Isbn13 } from "./properties/isbn13.text-property.ts"
+import type { OriginalPublicationYear } from "./properties/original-publication-year.number-property.ts"
+import type { PageCount } from "./properties/page-count.number-property.ts"
+import type { Publisher } from "./properties/publisher.text-property.ts"
+import type { Rating } from "./properties/rating.number-property.ts"
 
 export type Book = CollectionExternal & {
   title: Title
   kind: BookKind
+  isbn?: Isbn
+  isbn13?: Isbn13
+  publisher?: Publisher
+  originalPublicationYear?: OriginalPublicationYear
+  rating?: Rating
+  pageCount?: PageCount
 }
 
 export const book = {
@@ -15,15 +27,38 @@ export const book = {
   definition: "one book Alan reads or writes",
   pluralSlug: "books",
   extendsSlug: "page-type/collection-external",
-  partSlugs: ["select-property/book-kind", "text-property/title"],
+  partSlugs: [
+    "number-property/original-publication-year",
+    "number-property/page-count",
+    "number-property/rating",
+    "select-property/book-kind",
+    "text-property/isbn",
+    "text-property/isbn13",
+    "text-property/publisher",
+    "text-property/title",
+  ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "book-kind", required: true, many: false },
+    { pagePropertySlug: "isbn", required: false, many: false },
+    { pagePropertySlug: "isbn13", required: false, many: false },
+    { pagePropertySlug: "publisher", required: false, many: false },
+    { pagePropertySlug: "original-publication-year", required: false, many: false },
+    { pagePropertySlug: "rating", required: false, many: false },
+    { pagePropertySlug: "page-count", required: false, many: false },
   ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A book's own length is counted in the words the book runs to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A book's page count is the edition's own figure and is no length.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A book names the author as the author is written rather than as a page.",
     },
     {
       invariantKind: "departure",
