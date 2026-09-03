@@ -1,7 +1,7 @@
-import { isAttachmentExtension } from "@akasha/markdown-pages/attachment-file"
-import type { FileTree } from "@akasha/markdown-pages/file-tree"
 import { ATTACHMENT } from "@akasha/pages-system/page-value-key"
-import { declarationsFor } from "./page-property-types.ts"
+import { isAttachmentExtension } from "../markdown-attachment-file/markdown-attachment-file.module.code.ts"
+import type { FileTree } from "../markdown-file-tree/markdown-file-tree.module.code.ts"
+import { declarationsFor } from "../markdown-page-property-types/markdown-page-property-types.module.code.ts"
 
 export { ATTACHMENT }
 

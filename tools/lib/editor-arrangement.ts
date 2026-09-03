@@ -1,14 +1,14 @@
 import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
 import { type PageType, pagesOf, reposOf } from "@akasha/markdown-pages/page-types"
+import { statedIn, textIn } from "@akasha/markdown-pages/page-write-text"
+import type { Value } from "@akasha/markdown-pages/page-write-values"
+import { whereFor } from "@akasha/markdown-pages/page-write-where"
 import { registryOf } from "@akasha/markdown-pages/property-registry"
 import { readUncommitted } from "@akasha/markdown-pages/uncommitted"
 import { isAddressable } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import { removePage, writePage } from "./page-write.ts"
-import { statedIn, textIn } from "./page-write-text.ts"
-import type { Value } from "./page-write-values.ts"
-import { whereFor } from "./page-write-where.ts"
 
 export const WRITER = "editor-pages-writer"
 

@@ -1,8 +1,8 @@
-import { placeOf } from "@akasha/markdown-pages/page-types"
 import { isAddressable } from "@akasha/pages-system/checkout-roots"
 import type { Property } from "@akasha/pages-system/markdown-property"
 import type { Backed, Relation } from "@akasha/pages-system/page-derive-shape"
-import type { Kind } from "./page-declared.ts"
+import type { Kind } from "../markdown-page-declared/markdown-page-declared.module.code.ts"
+import { placeOf } from "../markdown-page-types/markdown-page-types.module.code.ts"
 
 export interface Backing {
   readonly isFiled: (pageType: string) => boolean

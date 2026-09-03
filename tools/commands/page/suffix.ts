@@ -3,6 +3,15 @@ export const summary = "Name a page type's files for their page type, and file t
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { diskFileTree } from "@akasha/markdown-pages/file-tree"
 import {
+  ID,
+  identityOf,
+  locationFreeGlob,
+  MARKDOWN,
+  READINGS,
+  rekeyReadings,
+  suffixedPath,
+} from "@akasha/markdown-pages/page-suffix"
+import {
   type PageType,
   pagesOf,
   pageTypePathIn,
@@ -16,15 +25,6 @@ import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
 import { landMoves } from "../../../move/move.ts"
 import { land } from "../../lib/command.ts"
 import { inputError, operationalError } from "../../lib/exit.ts"
-import {
-  ID,
-  identityOf,
-  locationFreeGlob,
-  MARKDOWN,
-  READINGS,
-  rekeyReadings,
-  suffixedPath,
-} from "../../lib/page-suffix.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 

@@ -1,7 +1,16 @@
 import type { Property } from "@akasha/pages-system/markdown-property"
-import { fallbackOf, OVER, REDUCTION, RELATION, TARGET } from "./page-declared.ts"
-import { foundIn } from "./page-derive-index.ts"
-import type { Held, Values } from "./page-file-values.ts"
+import {
+  fallbackOf,
+  OVER,
+  REDUCTION,
+  RELATION,
+  TARGET,
+} from "../markdown-page-declared/markdown-page-declared.module.code.ts"
+import { foundIn } from "../markdown-page-derive-index/markdown-page-derive-index.module.code.ts"
+import type {
+  Held,
+  Values,
+} from "../markdown-page-file-values/markdown-page-file-values.module.code.ts"
 
 export const NUMBER = "number"
 

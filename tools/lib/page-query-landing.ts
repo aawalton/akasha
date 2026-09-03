@@ -1,3 +1,4 @@
+import type { Value } from "@akasha/markdown-pages/page-write-values"
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { isRowAct, type WriteAct } from "@akasha/pages-system/page-landing-judge"
@@ -15,7 +16,6 @@ import { refuseALiveTestWriteIn } from "./live-store-write-guard.ts"
 import { comparedResponse } from "./page-compare.ts"
 import { patchRows, removeRow, writeRows } from "./page-rows-write.ts"
 import { patchPage, patchState, removePage, type Written, writePage } from "./page-write.ts"
-import type { Value } from "./page-write-values.ts"
 
 export const WRITE_ROUTE =
   /^\/(write-row|patch-row|remove-row|write|patch-if|patch-state|patch|remove)\/([a-z0-9-]+)\/(.+)$/

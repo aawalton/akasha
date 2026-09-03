@@ -1,8 +1,8 @@
+import type { Value } from "@akasha/markdown-pages/page-write-values"
+import type { Where } from "@akasha/markdown-pages/page-write-where"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { takeSeqsOf } from "../page-seq.ts"
 import { patchPage, patchState, writePage } from "../page-write.ts"
-import { type Value } from "../page-write-values.ts"
-import { type Where } from "../page-write-where.ts"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { PIPELINE } from "./pages.ts"
 import { PIPELINE_SEQS, STEP_SEQS, WORKFLOW_SEQS } from "./seqs.ts"
 
@@ -89,12 +89,7 @@ function workflowValues(plan: WorkflowPlan, pipelineSeq: number, seq: number): V
   return values
 }
 
-function stepValues(
-  plan: StepPlan,
-  pipelineSeq: number,
-  workflowSeq: number,
-  seq: number
-): Values {
+function stepValues(plan: StepPlan, pipelineSeq: number, workflowSeq: number, seq: number): Values {
   const values: Values = {
     seq,
     title: plan.title,

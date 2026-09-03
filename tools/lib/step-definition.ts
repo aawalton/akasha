@@ -1,6 +1,6 @@
+import { whereFor } from "@akasha/markdown-pages/page-write-where"
 import { readUncommitted } from "@akasha/markdown-pages/uncommitted"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { whereFor } from "./page-write-where.ts"
 
 const STEP = "step"
 

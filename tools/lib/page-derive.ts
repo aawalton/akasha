@@ -1,6 +1,36 @@
 import { fileStemOf } from "@akasha/file-page-identity"
 import { diskFileTree } from "@akasha/markdown-pages/file-tree"
 import { slugNamed } from "@akasha/markdown-pages/page-address"
+import {
+  BACK,
+  EXPRESSION,
+  FROM,
+  fallbackOf,
+  type Kind,
+  kindsIn,
+  ROWS,
+  TARGET,
+} from "@akasha/markdown-pages/page-declared"
+import { backingOver } from "@akasha/markdown-pages/page-derive-backing"
+import { formulasOver } from "@akasha/markdown-pages/page-derive-formula"
+import { foundIn, indexingOver } from "@akasha/markdown-pages/page-derive-index"
+import { noteUnreadable } from "@akasha/markdown-pages/page-fault"
+import {
+  BODY,
+  type Held,
+  type Read,
+  valuesIn,
+  withLarge,
+  withUncommitted,
+} from "@akasha/markdown-pages/page-file-values"
+import {
+  along,
+  listing,
+  type Reached as Page,
+  type Reaching,
+  reducedFrom,
+  underivable,
+} from "@akasha/markdown-pages/page-reach"
 import { placeOf, scanIn } from "@akasha/markdown-pages/page-types"
 import { declarationsFromFiles } from "@akasha/markdown-pages/property-declarations"
 import { NONE, textAt } from "@akasha/markdown-pages/text-at"
@@ -16,36 +46,6 @@ import {
 import { keptIn, narrowing } from "@akasha/pages-system/page-narrow"
 import { akashaValuesAt, isAkashaPage } from "./akasha-page-values.ts"
 import { codeValueFor } from "./page-code-values.ts"
-import {
-  BACK,
-  EXPRESSION,
-  FROM,
-  fallbackOf,
-  type Kind,
-  kindsIn,
-  ROWS,
-  TARGET,
-} from "./page-declared.ts"
-import { backingOver } from "./page-derive-backing.ts"
-import { formulasOver } from "./page-derive-formula.ts"
-import { foundIn, indexingOver } from "./page-derive-index.ts"
-import { noteUnreadable } from "./page-fault.ts"
-import {
-  BODY,
-  type Held,
-  type Read,
-  valuesIn,
-  withLarge,
-  withUncommitted,
-} from "./page-file-values.ts"
-import {
-  along,
-  listing,
-  type Reached as Page,
-  type Reaching,
-  reducedFrom,
-  underivable,
-} from "./page-reach.ts"
 import { rowsPagesIn } from "./page-rows.ts"
 
 const NAMES_NOBODY: ReadonlyMap<string, readonly string[]> = new Map()

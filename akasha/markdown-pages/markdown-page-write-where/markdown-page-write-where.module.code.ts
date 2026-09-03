@@ -1,8 +1,16 @@
 import { join } from "node:path"
 import { fileStemOf as slugOf } from "@akasha/file-page-identity"
-import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
-import { parseFrontmatter, textField } from "@akasha/markdown-pages/frontmatter"
-import { MARKDOWN } from "@akasha/markdown-pages/page-file"
+import { isAddressable } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import {
+  diskFileTree,
+  type FileTree,
+} from "../markdown-file-tree/markdown-file-tree.module.code.ts"
+import {
+  parseFrontmatter,
+  textField,
+} from "../markdown-frontmatter/markdown-frontmatter.module.code.ts"
+import { MARKDOWN } from "../markdown-page-file/markdown-page-file.module.code.ts"
 import {
   folderIn,
   newPageNameFor,
@@ -12,11 +20,9 @@ import {
   scanIn,
   soleRepoOf,
   typeSlotOf,
-} from "@akasha/markdown-pages/page-types"
-import { registryOf } from "@akasha/markdown-pages/property-registry"
-import { textAt } from "@akasha/markdown-pages/text-at"
-import { isAddressable } from "@akasha/pages-system/checkout-roots"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+} from "../markdown-page-types/markdown-page-types.module.code.ts"
+import { registryOf } from "../markdown-property-registry/markdown-property-registry.module.code.ts"
+import { textAt } from "../markdown-text-at/markdown-text-at.module.code.ts"
 
 export interface Where {
   readonly root: string

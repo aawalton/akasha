@@ -1,9 +1,15 @@
+import type { Where } from "@akasha/markdown-pages/page-write-where"
 import { commitAuthor } from "../../agent/commit-author.ts"
 import { commitPaths, whileHoldingLanding } from "../../repo/git/git.ts"
-import { deferringCommits, queueCommit } from "./page-commit-queue.ts"
+import {
+  type Commit,
+  commitNamed,
+  type Landed,
+  type Landings,
+  landFiles,
+} from "../../repo/land/land.ts"
 import { refuseALiveTestWrite } from "./live-store-write-guard.ts"
-import { type Commit, type Landed, type Landings, commitNamed, landFiles } from "../../repo/land/land.ts"
-import { type Where } from "./page-write-where.ts"
+import { deferringCommits, queueCommit } from "./page-commit-queue.ts"
 
 export function commitPages(
   root: string,
@@ -11,7 +17,9 @@ export function commitPages(
   message: string
 ): string | null {
   if (relPaths.length === 0) return null
-  const landed = whileHoldingLanding(root, () => commitPaths(root, relPaths, message, commitAuthor()))
+  const landed = whileHoldingLanding(root, () =>
+    commitPaths(root, relPaths, message, commitAuthor())
+  )
   if (!landed.ok) return landed.reason
   return landed.value.ok ? null : landed.value.reason
 }

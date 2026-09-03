@@ -1,5 +1,5 @@
-import { slugNamed } from "@akasha/markdown-pages/page-address"
-import type { Reached } from "./page-reach.ts"
+import { slugNamed } from "../markdown-page-address/markdown-page-address.module.code.ts"
+import type { Reached } from "../markdown-page-reach/markdown-page-reach.module.code.ts"
 
 export function foundIn<Found>(
   index: ReadonlyMap<string, Found>,

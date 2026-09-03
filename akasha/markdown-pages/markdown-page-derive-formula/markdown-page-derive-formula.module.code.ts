@@ -8,8 +8,8 @@ import {
 } from "@akasha/pages-formula"
 import { heldBy, valuedAs } from "@akasha/pages-formula/held"
 import type { Property } from "@akasha/pages-system/markdown-property"
-import { EXPRESSION } from "./page-declared.ts"
-import type { Held } from "./page-file-values.ts"
+import { EXPRESSION } from "../markdown-page-declared/markdown-page-declared.module.code.ts"
+import type { Held } from "../markdown-page-file-values/markdown-page-file-values.module.code.ts"
 
 export type Reads = (named: string) => Held
 

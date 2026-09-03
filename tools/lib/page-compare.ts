@@ -2,21 +2,21 @@ import { existsSync } from "node:fs"
 
 import { exclusively } from "@akasha/file-system/exclusive"
 import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { attachmentKeysFor } from "@akasha/markdown-pages/page-attachment-keys"
+import { declarationsFor } from "@akasha/markdown-pages/page-property-types"
+import { uncommittedKeysFor } from "@akasha/markdown-pages/page-uncommitted-keys"
+import { rewritten, statedIn, textIn } from "@akasha/markdown-pages/page-write-text"
+import { splitValues, type Value } from "@akasha/markdown-pages/page-write-values"
+import { type Where, whereFor } from "@akasha/markdown-pages/page-write-where"
 import {
   readUncommitted,
   uncommittedPathFor,
   writeUncommitted,
 } from "@akasha/markdown-pages/uncommitted"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { attachmentKeysFor } from "./page-attachment-keys.ts"
-import { declarationsFor } from "./page-property-types.ts"
-import { uncommittedKeysFor } from "./page-uncommitted-keys.ts"
 import { landAttachments } from "./page-write.ts"
 import { commitAll } from "./page-write-commit.ts"
 import { patchedText } from "./page-write-compose.ts"
-import { rewritten, statedIn, textIn } from "./page-write-text.ts"
-import { splitValues, type Value } from "./page-write-values.ts"
-import { type Where, whereFor } from "./page-write-where.ts"
 
 export type Compared =
   | { readonly outcome: "won"; readonly at: Where; readonly commitError: string | null }

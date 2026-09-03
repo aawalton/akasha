@@ -1,6 +1,6 @@
+import type { Values } from "@akasha/markdown-pages/page-file-values"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { textOf } from "@akasha/pages-system/page-query-values"
-import type { Values } from "./page-file-values.ts"
 import { answer } from "./page-query.ts"
 
 const NONE = "none"

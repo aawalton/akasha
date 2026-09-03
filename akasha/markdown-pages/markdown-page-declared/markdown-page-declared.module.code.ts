@@ -1,19 +1,19 @@
 import { onceInCall } from "@akasha/command-system/during-call"
-import { rootsKey } from "@akasha/markdown-pages/file-tree"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
+import type { Property } from "@akasha/pages-system/markdown-property"
+import { rootsKey } from "../markdown-file-tree/markdown-file-tree.module.code.ts"
+import type { Held } from "../markdown-page-file-values/markdown-page-file-values.module.code.ts"
 import {
   type Filed,
   filedIn,
   PAGE_TYPE_GLOBS,
   repoPlacings,
   scanIn,
-} from "@akasha/markdown-pages/page-types"
-import type { Held as Declaring } from "@akasha/markdown-pages/property-stating"
-import { blockOf, stringAt, textAt } from "@akasha/markdown-pages/text-at"
-import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
-import type { Property } from "@akasha/pages-system/markdown-property"
-import type { Held } from "./page-file-values.ts"
+} from "../markdown-page-types/markdown-page-types.module.code.ts"
+import type { Held as Declaring } from "../markdown-property-stating/markdown-property-stating.module.code.ts"
+import { blockOf, stringAt, textAt } from "../markdown-text-at/markdown-text-at.module.code.ts"
 
 export const FROM = "from"
 

@@ -1,9 +1,9 @@
-import { attachmentFileOf } from "@akasha/markdown-pages/attachment-file"
-import { textField } from "@akasha/markdown-pages/frontmatter"
-import { blockOf, textAt } from "@akasha/markdown-pages/text-at"
-import { readUncommitted } from "@akasha/markdown-pages/uncommitted"
 import { carried, carriedIn, type Held, type Values } from "@akasha/pages-system/page-carry"
 import { ATTACHMENT, BODY } from "@akasha/pages-system/page-value-key"
+import { attachmentFileOf } from "../markdown-attachment-file/markdown-attachment-file.module.code.ts"
+import { textField } from "../markdown-frontmatter/markdown-frontmatter.module.code.ts"
+import { blockOf, textAt } from "../markdown-text-at/markdown-text-at.module.code.ts"
+import { readUncommitted } from "../markdown-uncommitted/markdown-uncommitted.module.code.ts"
 
 export type { Held, Values }
 export { ATTACHMENT, BODY }

@@ -6,16 +6,6 @@ import { duringOneCall } from "@akasha/command-system/during-call"
 import { idOfFilePage as pageId } from "@akasha/file-page-identity"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
-import { judgeRow } from "@akasha/markdown-pages/property-judge"
-import { partNumberOf, rowsFileOf, rowsPartOf } from "@akasha/markdown-pages/rows-file"
-import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
-import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import type { Property } from "@akasha/pages-system/markdown-property"
-import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
-import type { RowsHome } from "../page/page-rows-home.ts"
-import { declaredFor } from "../page/page-rows-home.ts"
-import { forgetRowsPages } from "./page-rows.ts"
 import {
   appendable,
   appendLines,
@@ -30,11 +20,21 @@ import {
   standingAt,
   standingIn,
   writeOutParts,
-} from "./page-rows-parts.ts"
+} from "@akasha/markdown-pages/page-rows-parts"
+import { type Where, whereFor } from "@akasha/markdown-pages/page-write-where"
+import { judgeRow } from "@akasha/markdown-pages/property-judge"
+import { partNumberOf, rowsFileOf, rowsPartOf } from "@akasha/markdown-pages/rows-file"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
+import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Property } from "@akasha/pages-system/markdown-property"
+import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
+import type { RowsHome } from "../page/page-rows-home.ts"
+import { declaredFor } from "../page/page-rows-home.ts"
+import { forgetRowsPages } from "./page-rows.ts"
 import { RowsHomeUnresolved, rowsHomeFor } from "./page-rows-resolve.ts"
 import type { Written } from "./page-write.ts"
 import { commitAll } from "./page-write-commit.ts"
-import { type Where, whereFor } from "./page-write-where.ts"
 
 interface ResolvedHome {
   readonly at: Where

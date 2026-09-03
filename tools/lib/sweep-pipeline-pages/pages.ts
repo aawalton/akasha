@@ -1,3 +1,4 @@
+import { whereFor } from "@akasha/markdown-pages/page-write-where"
 import { readUncommitted } from "@akasha/markdown-pages/uncommitted"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Row } from "@akasha/pages-system/page-derive-shape"
@@ -12,7 +13,6 @@ import {
   workflowIn,
 } from "@akasha/pipeline-sweep/pipeline-row-entities"
 import { load } from "../page-query.ts"
-import { whereFor } from "../page-write-where.ts"
 
 export interface Snapshot {
   readonly pipelines: readonly Pipeline[]

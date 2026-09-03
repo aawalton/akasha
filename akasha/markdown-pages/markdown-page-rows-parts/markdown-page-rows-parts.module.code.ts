@@ -1,8 +1,12 @@
 import { appendFileSync, readFileSync, statSync } from "node:fs"
-import { partNumberOf, rowsPartOf, rowsPartsOf } from "@akasha/markdown-pages/rows-file"
 import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
 import { isMissing } from "@akasha/utils-fs/missing"
+import {
+  partNumberOf,
+  rowsPartOf,
+  rowsPartsOf,
+} from "../markdown-rows-file/markdown-rows-file.module.code.ts"
 
 export const NAMING: readonly string[] = ["slug", "id"]
 

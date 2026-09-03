@@ -1,4 +1,5 @@
 import { statSync } from "node:fs"
+import type { Held, Values } from "@akasha/markdown-pages/page-file-values"
 import { rowsFileOf, rowsPartsOf } from "@akasha/markdown-pages/rows-file"
 import { textAt } from "@akasha/markdown-pages/text-at"
 import { isAddressable, rootFor } from "@akasha/pages-system/checkout-roots"
@@ -6,7 +7,6 @@ import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { carried } from "@akasha/pages-system/page-carry"
 import { isMissing } from "@akasha/utils-fs/missing"
 import { isAkashaPage, kebabisedRow } from "./akasha-page-values.ts"
-import type { Held, Values } from "./page-file-values.ts"
 
 const NAMING: readonly string[] = ["slug", "id"]
 

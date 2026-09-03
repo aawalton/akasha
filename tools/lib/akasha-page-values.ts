@@ -14,11 +14,11 @@
  * spells one. One turn, in one place, so the two halves answer to the same names.
  */
 
+import type { Held, Values } from "@akasha/markdown-pages/page-file-values"
 import { carried } from "@akasha/pages-system/page-carry"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import { wholeValue } from "@akasha/pages-system/page-uncommitted"
 import { valueAt } from "@akasha/pages-system/page-value"
-import type { Held, Values } from "./page-file-values.ts"
 import { kebabizeKey } from "./tracking/keys.ts"
 
 /** What an akasha page's file is named, as against `.md` for a markdown one. */

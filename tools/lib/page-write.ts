@@ -8,16 +8,16 @@ import {
   writeAttachment,
 } from "@akasha/markdown-pages/attachment-file"
 import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { attachmentKeysFor } from "@akasha/markdown-pages/page-attachment-keys"
+import { rowsHoldingsFor } from "@akasha/markdown-pages/page-property-types"
+import { frontOf, textIn } from "@akasha/markdown-pages/page-write-text"
+import { type Attachment, splitValues, type Value } from "@akasha/markdown-pages/page-write-values"
+import { type Where, whereFor } from "@akasha/markdown-pages/page-write-where"
 import { partNumberOf, rowsFileOf, rowsPartOf, rowsPartsOf } from "@akasha/markdown-pages/rows-file"
 import { patchUncommitted, removeUncommitted } from "@akasha/markdown-pages/uncommitted"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { attachmentKeysFor } from "./page-attachment-keys.ts"
-import { rowsHoldingsFor } from "./page-property-types.ts"
 import { landOne } from "./page-write-commit.ts"
 import { patchedText, withId, withSeq } from "./page-write-compose.ts"
-import { frontOf, textIn } from "./page-write-text.ts"
-import { type Attachment, splitValues, type Value } from "./page-write-values.ts"
-import { type Where, whereFor } from "./page-write-where.ts"
 
 export interface Taken {
   readonly at: string
