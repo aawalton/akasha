@@ -16,7 +16,6 @@ export const agentHook = {
   pluralSlug: "agent-hooks",
   partSlugs: [
     "agent-hook/block-akasha-shell-writes",
-    "agent-hook/restore-akasha-when-dirty",
     "agent-hook/block-akasha-edits",
     "agent-hook/block-akasha-reads",
     "agent-hook/block-biome",
