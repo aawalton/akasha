@@ -44,6 +44,18 @@ export const sessionRows = {
       statement: "A relationship reading answers with the ids or with what refused them.",
     },
     {
+      invariantKind: "departure",
+      statement: "A title carrying an alias of a relationship tags the stretch with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An alias more than one relationship carries tags neither.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relationship a caller names is kept beside one a title tagged.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a file.",
     },

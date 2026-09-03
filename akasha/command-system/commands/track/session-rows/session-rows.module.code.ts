@@ -8,7 +8,11 @@ import {
   readSafety,
 } from "../session-leveling/session-leveling.module.code.ts"
 
-export type RelationshipPage = { readonly id: string; readonly title: string }
+export type RelationshipPage = {
+  readonly id: string
+  readonly title: string
+  readonly aliases: readonly string[]
+}
 
 export type RelationshipsReading =
   | { readonly read: "relationships"; readonly ids: readonly string[] }
@@ -175,6 +179,12 @@ export function tokensIn(occurrences: readonly string[]): readonly string[] {
   return held
 }
 
+export function aliasesIn(said: string): readonly string[] {
+  const found = /^\s*relationshipAliases:\s*\[([^\]]*)\]/m.exec(said)
+  if (found?.[1] === undefined) return []
+  return [...found[1].matchAll(/"([^"]*)"/g)].map((one) => one[1] ?? "")
+}
+
 export function relationshipsIn(root: string): readonly RelationshipPage[] {
   const at = join(root, RELATIONSHIPS_AT)
   const held: RelationshipPage[] = []
@@ -188,7 +198,7 @@ export function relationshipsIn(root: string): readonly RelationshipPage[] {
     const id = /^\s*id:\s*"([0-9a-f-]{36})"/m.exec(said)
     const title = /^\s*title:\s*"([^"]+)"/m.exec(said)
     if (id?.[1] === undefined || title?.[1] === undefined) continue
-    held.push({ id: id[1], title: title[1] })
+    held.push({ id: id[1], title: title[1], aliases: aliasesIn(said) })
   }
   return held
 }
@@ -232,13 +242,62 @@ export function idsForTokens(
 
 export function relationshipsFor(
   argv: readonly string[],
-  root: string
+  pages: readonly RelationshipPage[]
 ): RelationshipsReading | null {
   const occurrences = saidEachFor(argv, RELATIONSHIP)
   if (occurrences.length === 0) return null
-  const tokens = tokensIn(occurrences)
-  const named = tokens.some((one) => !UUID.test(one))
-  return idsForTokens(tokens, named ? relationshipsIn(root) : [])
+  return idsForTokens(tokensIn(occurrences), pages)
+}
+
+export function termOf(said: string): string {
+  return said
+    .normalize("NFKD")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim()
+}
+
+export function matchedIn(title: string, pages: readonly RelationshipPage[]): readonly string[] {
+  const said = termOf(title)
+  if (said === "") return []
+  const byTerm = new Map<string, Set<string>>()
+  for (const one of pages) {
+    for (const alias of one.aliases) {
+      const term = termOf(alias)
+      if (term === "") continue
+      const held = byTerm.get(term) ?? new Set<string>()
+      held.add(one.id)
+      byTerm.set(term, held)
+    }
+  }
+  const found: string[] = []
+  for (const [term, ids] of byTerm) {
+    if (ids.size !== 1) continue
+    if (!said.includes(term)) continue
+    for (const id of ids) if (!found.includes(id)) found.push(id)
+  }
+  return found.sort()
+}
+
+export function carriedIn(row: Row): readonly string[] {
+  const held = row.relationships
+  if (!Array.isArray(held)) return []
+  return held.filter((one): one is string => typeof one === "string")
+}
+
+export function taggedFor(
+  stated: readonly string[] | null,
+  title: string,
+  carried: readonly string[],
+  pages: readonly RelationshipPage[]
+): readonly string[] {
+  const held = [...(stated ?? carried)]
+  for (const id of matchedIn(title, pages)) if (!held.includes(id)) held.push(id)
+  return held
+}
+
+export function taggingOf(tags: readonly string[]): { relationships?: readonly string[] } {
+  return tags.length === 0 ? {} : { relationships: tags }
 }
 
 export function heldFor(root: string, day: string): Held | string {

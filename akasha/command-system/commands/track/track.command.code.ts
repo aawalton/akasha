@@ -15,6 +15,7 @@ import {
   activitiesIn,
   addressed,
   BARE,
+  carriedIn,
   DAY,
   DIFFICULTY,
   DRY_RUN,
@@ -33,12 +34,15 @@ import {
   openIn,
   type Row,
   relationshipsFor,
+  relationshipsIn,
   SESSION,
   START,
   saidFor,
   sayingFor,
   shownOf,
   TITLE,
+  taggedFor,
+  taggingOf,
   UNBUILT,
   VALUED,
 } from "./session-rows/session-rows.module.code.ts"
@@ -90,10 +94,10 @@ export function track(argv: readonly string[], given: Given): Answer {
     return faults.length === 0 ? telling("") : mistaking(faults)
   }
 
-  const tagging = relationshipsFor(rest, given.root)
+  const known = relationshipsIn(given.root)
+  const tagging = relationshipsFor(rest, known)
   if (tagging !== null && tagging.read === "refused") return mistaking(tagging.refusals)
-  const tagged: { relationships?: readonly string[] } =
-    tagging === null ? {} : { relationships: tagging.ids }
+  const stated = tagging === null ? null : tagging.ids
 
   const open = openIn(rows)
   if (act === "amend") {
@@ -105,7 +109,14 @@ export function track(argv: readonly string[], given: Given): Answer {
     const kept = typeof found.difficultyLevel === "string" ? found.difficultyLevel : undefined
     const changing: { safetyLevel?: string; difficultyLevel?: string } = { ...levels.levels }
     if (saidFor(rest, DIFFICULTY) === null) changing.difficultyLevel = kept
-    Object.assign(found, changing, { title }, tagged)
+    const carried = carriedIn(found)
+    const tags =
+      stated === null && saidFor(rest, TITLE) === null
+        ? carried
+        : taggedFor(stated, title, carried, known)
+    Object.assign(found, changing, { title })
+    if (tags.length === 0) delete found.relationships
+    else found.relationships = tags
     if (changing.difficultyLevel === undefined) delete found.difficultyLevel
     const faults = faultsIn(rows, held.page)
     if (faults.length > 0) return mistaking(faults)
@@ -144,6 +155,7 @@ export function track(argv: readonly string[], given: Given): Answer {
         title,
         startTime: reading.iso,
         dailyTracking: held.page,
+        ...taggingOf(taggedFor(stated, title, [], known)),
       }
       const safety = found[3]
       if (safety === undefined) {
@@ -215,16 +227,13 @@ export function track(argv: readonly string[], given: Given): Answer {
     const title = saidFor(rest, TITLE) ?? found.title
     const levels = levelsFor(rest, title, found, activities)
     if (levels.read === "refused") return mistaking(levels.refusals)
-    const carried = Array.isArray(found.relationships)
-      ? { relationships: found.relationships as readonly string[] }
-      : {}
     const next: Row = {
       id: mintedAt(now),
       title,
       startTime: reading.iso,
       dailyTracking: held.page,
       ...levels.levels,
-      ...(tagging === null ? carried : tagged),
+      ...taggingOf(taggedFor(stated, title, carriedIn(found), known)),
     }
     if (found.endTime !== undefined) next.endTime = found.endTime
     found.endTime = reading.iso
@@ -254,7 +263,7 @@ export function track(argv: readonly string[], given: Given): Answer {
         startTime: ended,
         dailyTracking: held.page,
         ...levels.levels,
-        ...tagged,
+        ...taggingOf(taggedFor(stated, title, [], known)),
       })
     }
     const faults = faultsIn(rows, held.page)
@@ -279,7 +288,7 @@ export function track(argv: readonly string[], given: Given): Answer {
       startTime: began,
       dailyTracking: held.page,
       ...levels.levels,
-      ...tagged,
+      ...taggingOf(taggedFor(stated, title, [], known)),
     }
     if (act === "log") {
       const ended = saidFor(rest, END)
