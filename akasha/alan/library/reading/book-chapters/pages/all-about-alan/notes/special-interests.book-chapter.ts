@@ -1,7 +1,7 @@
 import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const specialInterests = {
-  id: "01a06593-c4ee-7014-8e8d-716857fb0afb",
+  id: "01a06594-c684-7009-ba22-b17757fb0afb",
   pageTypeSlug: "book-chapter",
   slug: "special-interests",
   title: "Special interests",
