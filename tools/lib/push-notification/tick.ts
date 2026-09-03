@@ -4,7 +4,7 @@ import { type Notification, newestNotificationAt, readNotificationsAfter } from 
 import {
   buildApnsPayload,
   buildSharedApnsPayload,
-  notificationRoute,
+  notificationFeedRoute,
   type Recipient,
   recipientsFor,
 } from "./payload.ts"
@@ -58,7 +58,9 @@ async function fanOut(args: {
         const said = await args.sender.send(token.deviceToken, payload, token.bundleId)
         if (said.kind === "prune") {
           await pruneDeviceToken(token.deviceToken)
-          say(`${args.what}: dropped a dead token on ${token.bundleId} (${said.status} ${said.reason})`)
+          say(
+            `${args.what}: dropped a dead token on ${token.bundleId} (${said.status} ${said.reason})`
+          )
         } else if (said.kind === "error") {
           complain(`${args.what}: ${token.bundleId} refused it (${said.status})`, said.reason)
         } else {
@@ -83,7 +85,7 @@ export async function pushNotification(args: {
 }): Promise<void> {
   const one = args.notification
   const what = `notification ${one.id}`
-  const route = notificationRoute({ slug: null, title: one.title, id: one.id })
+  const route = notificationFeedRoute(one.feed)
   await fanOut({
     sender: args.sender,
     recipients: recipientsFor({ ownerUserId: args.alanUserId, kind: one.kind }),

@@ -43,6 +43,18 @@ export interface Notification {
   readonly link: string | null
   readonly kind: string | null
   readonly sentAt: string
+  readonly feed: Feed
+}
+
+/**
+ * The akasha page one feed is, named the way a link to it is built.
+ *
+ * A notification is a row rather than a page, so a reader sent to one notification is sent to the
+ * feed the row stands in. That takes the FEED page's slug and id, never the row's own id.
+ */
+export interface Feed {
+  readonly slug: string
+  readonly id: string
 }
 
 export type Landed =
@@ -112,41 +124,53 @@ export async function writeNotification(
   return { ok: true, at: made.queue.at() }
 }
 
+type Held = {
+  readonly feed: Feed
+  readonly row: Readonly<Record<string, unknown>>
+}
+
 /**
- * Every notification row standing in every feed.
+ * Every notification row standing in every feed, each beside the feed page it was read from.
  *
  * Its predecessor asked the old registry for page type `notification`, which spanned all feeds
  * rather than one person's, so this spans them too. One feed stands today; reading only that one
- * would narrow what these two functions mean without saying so.
+ * would narrow what these three functions mean without saying so.
+ *
+ * The feed comes back with the row because a row has no page of its own to link to.
  */
-function everyRow(): readonly Readonly<Record<string, unknown>>[] {
-  const found: Readonly<Record<string, unknown>>[] = []
+function everyRow(): readonly Held[] {
+  const found: Held[] = []
   for (const one of valuesOfType(akashaRoot(), NOTIFICATION_FEED_PAGE_TYPE_SLUG)) {
-    found.push(...rowsFor(one.path))
+    const feed: Feed = {
+      slug: textIn(one.value, "slug") ?? "",
+      id: textIn(one.value, "id") ?? "",
+    }
+    for (const row of rowsFor(one.path)) found.push({ feed, row })
   }
   return found
 }
 
 export async function readNotificationsAfter(sentAfter: string): Promise<readonly Notification[]> {
-  const kept = everyRow().filter((row) => {
-    const at = row["sent-at"]
+  const kept = everyRow().filter((held) => {
+    const at = held.row["sent-at"]
     return typeof at === "string" && at >= sentAfter
   })
   const sorted = [...kept].sort((one, two) =>
-    String(one["sent-at"]).localeCompare(String(two["sent-at"]))
+    String(one.row["sent-at"]).localeCompare(String(two.row["sent-at"]))
   )
   const read: Notification[] = []
-  for (const row of sorted.slice(0, NOTIFICATIONS_AT_ONCE)) {
-    const id = textIn(row, "id")
-    const sentAt = textIn(row, "sent-at")
+  for (const held of sorted.slice(0, NOTIFICATIONS_AT_ONCE)) {
+    const id = textIn(held.row, "id")
+    const sentAt = textIn(held.row, "sent-at")
     if (id === null || sentAt === null) continue
     read.push({
       id,
-      title: textIn(row, "title") ?? "",
-      body: textIn(row, "body") ?? "",
-      link: textIn(row, "link"),
-      kind: textIn(row, "kind"),
+      title: textIn(held.row, "title") ?? "",
+      body: textIn(held.row, "body") ?? "",
+      link: textIn(held.row, "link"),
+      kind: textIn(held.row, "kind"),
       sentAt,
+      feed: held.feed,
     })
   }
   return read
@@ -169,23 +193,23 @@ export interface Sourced {
  * caller deciding whether a thing was already said must not read "unreadable" as "not said".
  */
 export async function newestOfKind(kind: string, atOnce: number): Promise<readonly Sourced[]> {
-  const kept = everyRow().filter((row) => row["kind"] === kind)
+  const kept = everyRow().filter((held) => held.row["kind"] === kind)
   const sorted = [...kept].sort((one, two) =>
-    String(two["sent-at"]).localeCompare(String(one["sent-at"]))
+    String(two.row["sent-at"]).localeCompare(String(one.row["sent-at"]))
   )
   const read: Sourced[] = []
-  for (const row of sorted.slice(0, atOnce)) {
-    const sentAt = textIn(row, "sent-at")
+  for (const held of sorted.slice(0, atOnce)) {
+    const sentAt = textIn(held.row, "sent-at")
     if (sentAt === null) continue
-    read.push({ source: textIn(row, "source"), sentAt })
+    read.push({ source: textIn(held.row, "source"), sentAt })
   }
   return read
 }
 
 export async function newestNotificationAt(): Promise<string | null> {
   let newest: string | null = null
-  for (const row of everyRow()) {
-    const at = row["sent-at"]
+  for (const held of everyRow()) {
+    const at = held.row["sent-at"]
     if (typeof at !== "string" || at === "") continue
     if (newest === null || at > newest) newest = at
   }
