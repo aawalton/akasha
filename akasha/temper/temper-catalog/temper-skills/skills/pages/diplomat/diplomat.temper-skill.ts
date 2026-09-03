@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const diplomat = {
-  id: "01a05fd0-8e0c-795c-902c-e42c344c8355",
+  id: "019e624a-12c5-79ba-a5dc-59b38c7d5322",
   pageTypeSlug: "temper-skill",
   slug: "diplomat",
   title: "Diplomat",

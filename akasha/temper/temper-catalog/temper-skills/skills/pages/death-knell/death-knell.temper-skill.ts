@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const deathKnell = {
-  id: "01a05fd0-8e01-720f-826e-b2dad0368af2",
+  id: "019e6245-a645-766b-adc0-bfff3b36d51d",
   pageTypeSlug: "temper-skill",
   slug: "death-knell",
   title: "Death Knell",

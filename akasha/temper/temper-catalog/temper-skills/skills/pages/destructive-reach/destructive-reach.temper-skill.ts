@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const destructiveReach = {
-  id: "01a05fd0-8e09-7c6e-aa4b-90839ac10461",
+  id: "019e6226-00e5-79ff-b30c-29db3fd45117",
   pageTypeSlug: "temper-skill",
   slug: "destructive-reach",
   title: "Destructive Reach",

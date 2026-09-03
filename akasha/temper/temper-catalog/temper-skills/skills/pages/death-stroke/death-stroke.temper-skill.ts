@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const deathStroke = {
-  id: "01a05fd0-8e01-770c-a323-0a07639572cb",
+  id: "019e6f53-a09f-76a3-be5c-3eff12ca8a87",
   pageTypeSlug: "temper-skill",
   slug: "death-stroke",
   title: "Death Stroke",

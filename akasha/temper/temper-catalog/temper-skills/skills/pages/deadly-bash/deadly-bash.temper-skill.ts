@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const deadlyBash = {
-  id: "01a05fd0-8dff-7b86-80cf-b6bde605188f",
+  id: "019e6226-00df-7f02-9920-43196ff5859c",
   pageTypeSlug: "temper-skill",
   slug: "deadly-bash",
   title: "Deadly Bash",

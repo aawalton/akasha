@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const cutpurse = {
-  id: "01a05fd0-8df3-7b0c-a665-1d8ef394d089",
+  id: "019e624a-12c4-7739-87f3-6cc555a094a6",
   pageTypeSlug: "temper-skill",
   slug: "cutpurse",
   title: "Cutpurse",

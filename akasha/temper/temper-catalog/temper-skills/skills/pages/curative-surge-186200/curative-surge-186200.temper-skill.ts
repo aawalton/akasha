@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const curativeSurge186200 = {
-  id: "01a05fd0-8df3-7cf2-ad92-ad5e750c44c0",
+  id: "019e6f53-a055-7fb6-abc0-0cca9bc92a34",
   pageTypeSlug: "temper-skill",
   slug: "curative-surge-186200",
   title: "Curative Surge",

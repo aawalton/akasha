@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const conjuredWard = {
-  id: "01a05fd0-43a0-776e-8cd9-9cf428d39e65",
+  id: "019e6f53-a015-7189-a4df-3773295059b5",
   pageTypeSlug: "temper-skill",
   slug: "conjured-ward",
   title: "Conjured Ward",

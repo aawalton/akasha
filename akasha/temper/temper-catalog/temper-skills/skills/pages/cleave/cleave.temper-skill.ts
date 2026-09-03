@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const cleave = {
-  id: "01a05fd0-4398-7aca-aa9f-183f2cf070ed",
+  id: "019e6f53-9ff8-7a2a-a7f2-24ec39b7e91a",
   pageTypeSlug: "temper-skill",
   slug: "cleave",
   title: "Cleave",

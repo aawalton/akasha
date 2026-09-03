@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const deepFissure86015 = {
-  id: "01a05fd0-8e03-770c-969d-5c6faaf5e7d4",
+  id: "019e6f53-a0a7-7ab0-9af5-b97144521978",
   pageTypeSlug: "temper-skill",
   slug: "deep-fissure-86015",
   title: "Deep Fissure",

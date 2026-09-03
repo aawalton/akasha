@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const cycleOfLife30972 = {
-  id: "01a05fd0-8df5-780d-aac8-1e38308e8b2a",
+  id: "019e6f53-a05d-7173-8876-adfd88adb012",
   pageTypeSlug: "temper-skill",
   slug: "cycle-of-life-30972",
   title: "Cycle of Life",

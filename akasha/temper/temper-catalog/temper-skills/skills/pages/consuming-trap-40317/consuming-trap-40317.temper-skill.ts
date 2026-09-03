@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const consumingTrap40317 = {
-  id: "01a05fd0-43a1-7ec7-8199-bd77aa0681b9",
+  id: "019e6f53-a01c-7463-95c1-51c8821c41e9",
   pageTypeSlug: "temper-skill",
   slug: "consuming-trap-40317",
   title: "Consuming Trap",

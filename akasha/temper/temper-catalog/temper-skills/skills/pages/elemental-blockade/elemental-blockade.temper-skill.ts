@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const elementalBlockade = {
-  id: "01a05fd0-8e15-716a-ae90-8b3fb30ddbf2",
+  id: "019e6226-00e8-7de2-bb9b-61ecec9219c6",
   pageTypeSlug: "temper-skill",
   slug: "elemental-blockade",
   title: "Elemental Blockade",

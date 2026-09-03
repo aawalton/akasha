@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const corrosiveArmor17878 = {
-  id: "01a05fd0-8de8-7762-844b-f575f8e9a0fc",
+  id: "019e6f53-a028-761e-a9fa-32a564b36db0",
   pageTypeSlug: "temper-skill",
   slug: "corrosive-armor-17878",
   title: "Corrosive Armor",

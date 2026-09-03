@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const disintegratingDragonfire = {
-  id: "01a05fd0-8e0d-7c01-9d2d-66d050a1b8a3",
+  id: "019e6245-a659-76d8-85de-0915d28c4549",
   pageTypeSlug: "temper-skill",
   slug: "disintegrating-dragonfire",
   title: "Disintegrating Dragonfire",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const cruxweaverArmor = {
-  id: "01a05fd0-8def-7e66-9149-03a8a19505a0",
+  id: "019e6245-a627-7fde-872d-60e8dd00d7a5",
   pageTypeSlug: "temper-skill",
   slug: "cruxweaver-armor",
   title: "Cruxweaver Armor",

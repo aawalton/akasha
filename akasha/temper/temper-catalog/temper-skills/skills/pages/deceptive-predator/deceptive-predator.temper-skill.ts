@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const deceptivePredator = {
-  id: "01a05fd0-8e02-7ceb-bda0-8e91b11ca71f",
+  id: "019e6245-a648-7ce5-8107-c17b9c3d2ada",
   pageTypeSlug: "temper-skill",
   slug: "deceptive-predator",
   title: "Deceptive Predator",

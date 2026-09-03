@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const deepSlash38268 = {
-  id: "01a05fd0-8e04-7152-b7a4-608e2c0a826c",
+  id: "019e6f53-a0aa-7710-9bde-ca4242893c42",
   pageTypeSlug: "temper-skill",
   slug: "deep-slash-38268",
   title: "Deep Slash",

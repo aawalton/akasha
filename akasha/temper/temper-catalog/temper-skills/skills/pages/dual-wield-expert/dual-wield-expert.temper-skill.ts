@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const dualWieldExpert = {
-  id: "01a05fd0-8e12-73cf-881e-13c7abb1375a",
+  id: "019e6226-00e8-70bc-a563-a202d9a3cd1b",
   pageTypeSlug: "temper-skill",
   slug: "dual-wield-expert",
   title: "Dual Wield Expert",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const daedricTomb24842 = {
-  id: "01a05fd0-8df7-70e4-9d6b-8bf8c17cf54f",
+  id: "019e6f53-a06a-777c-b8df-1196f63600b3",
   pageTypeSlug: "temper-skill",
   slug: "daedric-tomb-24842",
   title: "Daedric Tomb",

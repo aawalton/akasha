@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const criticalCharge = {
-  id: "01a05fd0-8dec-7e8e-b34e-70db8dc67778",
+  id: "019e6f53-a035-7736-8071-908d23594fbe",
   pageTypeSlug: "temper-skill",
   slug: "critical-charge",
   title: "Critical Charge",

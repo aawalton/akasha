@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const deafeningRoar39114 = {
-  id: "01a05fd0-8e00-71d0-9136-0fcdb25f6bf6",
+  id: "019e6f53-a095-7769-9564-2537b4200857",
   pageTypeSlug: "temper-skill",
   slug: "deafening-roar-39114",
   title: "Deafening Roar",

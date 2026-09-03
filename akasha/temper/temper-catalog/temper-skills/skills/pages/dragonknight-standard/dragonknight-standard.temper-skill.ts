@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const dragonknightStandard = {
-  id: "01a05fd0-8e10-7518-b737-e8bb560183ac",
+  id: "019e6f53-a0e8-75f4-b139-ac959397b730",
   pageTypeSlug: "temper-skill",
   slug: "dragonknight-standard",
   title: "Dragonknight Standard",

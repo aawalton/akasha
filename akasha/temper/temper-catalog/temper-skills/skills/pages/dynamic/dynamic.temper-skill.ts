@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const dynamic = {
-  id: "01a05fd0-8e12-7166-93cb-1c1b89042b80",
+  id: "019e624a-12c6-7e45-b811-15e2bd1600cd",
   pageTypeSlug: "temper-skill",
   slug: "dynamic",
   title: "Dynamic",

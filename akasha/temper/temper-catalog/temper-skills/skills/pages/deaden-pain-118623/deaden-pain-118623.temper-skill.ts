@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const deadenPain118623 = {
-  id: "01a05fd0-8dfe-7646-9358-78ba13e2230b",
+  id: "019e6f53-a08c-7599-adeb-1fe73d4ef237",
   pageTypeSlug: "temper-skill",
   slug: "deaden-pain-118623",
   title: "Deaden Pain",

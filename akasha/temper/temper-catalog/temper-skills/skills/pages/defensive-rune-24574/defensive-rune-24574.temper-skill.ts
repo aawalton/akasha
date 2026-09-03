@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const defensiveRune24574 = {
-  id: "01a05fd0-8e05-7d50-a940-358274f55028",
+  id: "019e6f53-a0b1-71e0-8ca1-afa977f7be57",
   pageTypeSlug: "temper-skill",
   slug: "defensive-rune-24574",
   title: "Defensive Rune",

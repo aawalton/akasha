@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const defensivePosture = {
-  id: "01a05fd0-8e05-7c71-9371-eca699939dfe",
+  id: "019e6f53-a0ae-7584-992d-ab635c96d9fb",
   pageTypeSlug: "temper-skill",
   slug: "defensive-posture",
   title: "Defensive Posture",

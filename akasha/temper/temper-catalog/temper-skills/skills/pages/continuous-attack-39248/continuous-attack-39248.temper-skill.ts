@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const continuousAttack39248 = {
-  id: "01a05fd0-43a2-76f0-94f0-db4d578bd6fe",
+  id: "019e6f53-a01f-7119-9156-c9d9cd60d8d3",
   pageTypeSlug: "temper-skill",
   slug: "continuous-attack-39248",
   title: "Continuous Attack",

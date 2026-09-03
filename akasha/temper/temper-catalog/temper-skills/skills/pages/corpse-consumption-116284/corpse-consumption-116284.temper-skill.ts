@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const corpseConsumption116284 = {
-  id: "01a05fd0-8de8-71c0-820d-e48c4f8d1de0",
+  id: "019e6f53-a025-7a6b-b86f-16c612eea501",
   pageTypeSlug: "temper-skill",
   slug: "corpse-consumption-116284",
   title: "Corpse Consumption",

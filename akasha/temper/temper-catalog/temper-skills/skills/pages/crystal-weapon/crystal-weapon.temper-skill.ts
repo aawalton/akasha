@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const crystalWeapon = {
-  id: "01a05fd0-8df0-7eb7-a710-9e9ae67ca288",
+  id: "019e6245-a62a-7d81-ad96-56d92097d6d0",
   pageTypeSlug: "temper-skill",
   slug: "crystal-weapon",
   title: "Crystal Weapon",

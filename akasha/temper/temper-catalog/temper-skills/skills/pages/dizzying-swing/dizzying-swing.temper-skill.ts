@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const dizzyingSwing = {
-  id: "01a05fd0-8e0e-770c-a70f-0abea9b7c955",
+  id: "019e6226-00e6-76bf-8ae4-f58279539e73",
   pageTypeSlug: "temper-skill",
   slug: "dizzying-swing",
   title: "Dizzying Swing",

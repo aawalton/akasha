@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const devour = {
-  id: "01a05fd0-8e0b-780f-8654-d4114fdec64b",
+  id: "019e6251-4ca6-7e14-911a-f8adbad41d36",
   pageTypeSlug: "temper-skill",
   slug: "devour",
   title: "Insatiable Hunger",

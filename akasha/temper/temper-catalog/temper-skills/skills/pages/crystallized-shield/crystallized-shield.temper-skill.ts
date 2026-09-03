@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const crystallizedShield = {
-  id: "01a05fd0-8df1-7e72-8e66-d0001fd47b09",
+  id: "019e6f53-a04d-7d86-91fe-597e30fe9f8b",
   pageTypeSlug: "temper-skill",
   slug: "crystallized-shield",
   title: "Crystallized Shield",

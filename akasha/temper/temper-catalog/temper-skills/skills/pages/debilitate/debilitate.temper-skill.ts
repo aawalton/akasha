@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const debilitate = {
-  id: "01a05fd0-8e02-7998-9781-fa002da8bb0d",
+  id: "019e6245-a646-7e99-8b91-8490561cd1eb",
   pageTypeSlug: "temper-skill",
   slug: "debilitate",
   title: "Debilitate",

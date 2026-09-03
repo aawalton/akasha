@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const destructiveTouch = {
-  id: "01a05fd0-8e0a-7a88-a58f-7fc99170938a",
+  id: "019e6f53-a0c6-7483-8c7e-aba123c6fe74",
   pageTypeSlug: "temper-skill",
   slug: "destructive-touch",
   title: "Destructive Touch",

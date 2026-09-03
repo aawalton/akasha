@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const darkShade35434 = {
-  id: "01a05fd0-8dfb-7327-bec2-281290031467",
+  id: "019e6f53-a07c-789e-97c2-3daae20106c6",
   pageTypeSlug: "temper-skill",
   slug: "dark-shade-35434",
   title: "Dark Shade",

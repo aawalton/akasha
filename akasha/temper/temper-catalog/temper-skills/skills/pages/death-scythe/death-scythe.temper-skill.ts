@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const deathScythe = {
-  id: "01a05fd0-8e01-764f-a076-5a797df5412b",
+  id: "019e6f53-a09e-7430-b8e2-eea875bfda39",
   pageTypeSlug: "temper-skill",
   slug: "death-scythe",
   title: "Death Scythe",

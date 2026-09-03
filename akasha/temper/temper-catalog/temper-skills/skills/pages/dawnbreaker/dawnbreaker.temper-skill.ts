@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const dawnbreaker = {
-  id: "01a05fd0-8dfd-7ea9-a0ab-12e67415de6a",
+  id: "019e6f53-a086-7ceb-8c5e-b47d1573ffe5",
   pageTypeSlug: "temper-skill",
   slug: "dawnbreaker",
   title: "Dawnbreaker",

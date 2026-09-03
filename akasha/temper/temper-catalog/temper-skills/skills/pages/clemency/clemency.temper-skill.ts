@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const clemency = {
-  id: "01a05fd0-4398-757d-9867-0e08351e8244",
+  id: "019e6238-c2a9-7366-9007-3d595e1e9f16",
   pageTypeSlug: "temper-skill",
   slug: "clemency",
   title: "Clemency",

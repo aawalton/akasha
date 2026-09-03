@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const earthshieldMantle = {
-  id: "01a05fd0-8e13-754f-b0ff-31d701304ad7",
+  id: "019e6245-a65d-7e0d-a1b7-7bfc181fbe2d",
   pageTypeSlug: "temper-skill",
   slug: "earthshield-mantle",
   title: "Earthshield Mantle",

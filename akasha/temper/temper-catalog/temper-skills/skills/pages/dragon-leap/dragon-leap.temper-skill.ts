@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const dragonLeap = {
-  id: "01a05fd0-8e0f-71a4-8319-06e3011331fb",
+  id: "019e6f53-a0e5-7595-ba78-0c8095515409",
   pageTypeSlug: "temper-skill",
   slug: "dragon-leap",
   title: "Dragon Leap",

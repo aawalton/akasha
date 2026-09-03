@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const elementalSusceptibility = {
-  id: "01a05fd0-8e18-73cc-8da5-a5b9e1b46bdd",
+  id: "019e6226-00ed-717a-9f0e-6e4fe6cf90cd",
   pageTypeSlug: "temper-skill",
   slug: "elemental-susceptibility",
   title: "Elemental Susceptibility",

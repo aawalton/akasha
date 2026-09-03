@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const dampenMagic = {
-  id: "01a05fd0-8df8-7040-a4a2-6490b9a91b6c",
+  id: "019e6238-c2af-770a-a818-9bbc8af0326d",
   pageTypeSlug: "temper-skill",
   slug: "dampen-magic",
   title: "Dampen Magic",

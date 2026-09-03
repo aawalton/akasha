@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const conditioning117752 = {
-  id: "01a05fd0-439f-72e4-8188-c37776c62c36",
+  id: "019e6f53-a013-7f7f-9bac-ab27ed4aeb1e",
   pageTypeSlug: "temper-skill",
   slug: "conditioning-117752",
   title: "Conditioning",

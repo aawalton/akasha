@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const deflectBolts = {
-  id: "01a05fd0-8e06-701a-adb6-41e336b57d44",
+  id: "019e6226-00e3-72e9-a75e-070995b32016",
   pageTypeSlug: "temper-skill",
   slug: "deflect-bolts",
   title: "Deflect Bolts",

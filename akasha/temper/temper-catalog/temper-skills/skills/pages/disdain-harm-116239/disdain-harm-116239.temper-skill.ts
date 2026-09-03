@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const disdainHarm116239 = {
-  id: "01a05fd0-8e0d-7dd3-94f2-2e36fd048875",
+  id: "019e6f53-a0d3-7a9c-82af-3115bfd4d63f",
   pageTypeSlug: "temper-skill",
   slug: "disdain-harm-116239",
   title: "Disdain Harm",
