@@ -167,3 +167,135 @@ The rune pedestal waited.
 
 This time, when the transfer hit, it felt different. Not the expansion of perception — Magnesis had been a new sense, a new way of seeing. This was the addition of force. The vibration ran through his palm and up his arm and settled in his hands, and his hands felt heavier. Not with weight. With potential. Something had been added to what he could do, and this addition was not about perception. It was about destruction.
 
+```stat-screen
+    SHEIKAH SLATE UPDATED
+    ---
+    Rune Acquired: REMOTE BOMB
+    Detonate a remotely triggered bomb. Round or cube.
+    ---
+```
+
+He held out his hand. A sphere appeared — materialising from the slate's interface in a shimmer of blue light, solid, warm, the size of a melon. It sat in his palm with a fizzing energy, a contained vibration that felt alive. Not patient like the metal under Magnesis. Eager. The round bomb wanted to move.
+
+He set it on the ground. It rolled, gently, following the chamber's slight incline.
+
+He switched. A cube appeared in his hand — the same weight, the same fizzing energy, but inert. Stable. It sat where he placed it and did not move. Two shapes. Same explosion. Different temperaments. He noticed this with his hands before he understood it with his mind.
+
+The first puzzle was a cracked wall. Fracture lines ran through the stone in a pattern that looked deliberate — designed to break, designed to teach. He placed the cube bomb at the wall's base, retreated ten paces, and detonated.
+
+The blast was louder than he expected. The wall came apart in a shower of stone fragments and dust, and the shock wave pressed against his chest like a flat hand. Behind the wall: the next chamber. Destruction as key. Not moving things. Removing them.
+
+The second puzzle was a catapult platform — a stone slab balanced on a fulcrum, weighted with rubble. He placed a bomb beside the rubble, detonated, and the blast launched the counterweight clear. The slab tipped. He rode it up. The physics were clean and satisfying, and for a moment the shrine felt less like a trial and more like a lesson taught by someone who enjoyed teaching.
+
+The third puzzle involved timing. A stone ball rolled along a track toward a gap. He dropped a round bomb alongside it — the bomb rolling in parallel, matching the ball's speed — and detonated at the precise moment the blast would carry the ball across the gap onto a pressure plate. The plate depressed. The gate opened. The joy of it was small and specific and real: two objects, one explosion, perfect coordination.
+
+Then the final chamber opened, and the joy stopped.
+
+---
+
+It was waiting for him.
+
+A machine — smaller than the one in the Abbey, compact, built low to the ground on mechanical legs. A single blue eye, Sheikah blue, bright and clear, nothing like the corrupted pink of the thing on the surface. This eye tracked him the moment he entered the chamber. The machine rose from its resting position and drew a weapon — a short, glowing blade, the same blue-white as the shrine's illumination.
+
+A test. The shrine had taught him a tool and now it was testing him under pressure.
+
+The machine attacked in patterns. Two-swing combo — horizontal, then diagonal — followed by a pause. Telegraphed but fast. His body read the rhythm before his mind catalogued it. Step back, step back, strike. The new sword connected and the impact rang through the chamber, and the machine staggered but recovered instantly, its mechanical legs finding purchase on the smooth stone.
+
+It swung again. He was late.
+
+The blade caught his forearm — not a glance but a full cut, the edge biting through cloth and into the muscle beneath. Heat first, then pain, bright and immediate and deep. The slate chimed.
+
+```stat-screen
+    [Damage received.]
+    Hearts: || (2/3)
+    ---
+```
+
+A full heart gone. From one hit. He stepped back. The machine pressed forward, its patterns precise, its blue eye unblinking. It didn't panic. It didn't rush. It had been built for this — built to fight properly, to test a person who was supposed to be worth testing.
+
+His forearm burned. The cut was deep enough to bleed through his sleeve, the muscle beneath the skin hot and protesting. The pain clarified everything. The chamber smelled of ozone and hot metal. His breathing was loud in the shrine's acoustics, amplified, returned to him with a precision that made his own heartbeat audible.
+
+His body adjusted. The muscle memory that had moved him through the creature camps — the instinctive footwork, the unconscious economy of motion — engaged fully against an opponent that demanded it. He circled. He waited. The machine swung its two-hit combo, and he stepped inside the pause and struck three times — short, precise, the sword finding the gaps in the machine's casing where the metal was thinner.
+
+Then he had an idea.
+
+He dropped a round bomb. Stepped back. The machine advanced over it. He detonated.
+
+The blast lifted the machine off its legs. It hit the ground, skidded, and its eye flickered — the targeting system stuttering, recalibrating. He was on it before the calibration finished. Three more strikes. Four. The sword bit into metal and the impacts jarred up his wrist and the machine was trying to stand and he hit it again and it stopped trying.
+
+The eye dimmed. The machine settled onto the stone floor, its legs folding beneath it, its weapon clattering free. A sword — the same glowing blade it had wielded, blue-white Sheikah metal, lighter than any weapon he'd held. He picked it up. It hummed in his hand, the vibration matching the shrine's own frequency, and his grip settled around it with an ease that felt like recognition.
+
+This was the first weapon that felt designed for his hand. Not scavenged. Not stolen. Placed here, in a trial, as a reward. The shrine had tested him, then armed him. The pattern was becoming familiar.
+
+It would break. Eventually. Everything here did.
+
+---
+
+The monk was identical.
+
+Same platform. Same posture. Same robes, same hat, same geometric eye symbol. Ancient and preserved and waiting. A different person in the same position, saying the same prayer, prepared for the same ending.
+
+*Your resourcefulness in overcoming this trial speaks to the promise of a hero.*
+
+The same words. Exactly the same. Word for word. A different monk, a different shrine, the same sentence. And the dissolution — the soft gold light, the gentle unmaking, the sphere of warmth that drifted to his slate — was the same too. The same process. The same ending. The same gift.
+
+But he was not the same.
+
+He watched the glow spread through the monk's hands and he watched the body begin to soften and this time his body did something his mind hadn't chosen. His head inclined. Not a full bow. Not a gesture of prayer — he didn't know what prayer was. An acknowledgment. The monk had been here. The monk was gone because of him. The monk had waited in the dark for longer than kingdoms lasted and said one sentence and turned into light and the sentence had called him a hero and the word still meant nothing but the weight of it was settling into his chest like something that would not dissolve.
+
+```stat-screen
+    SHRINE OF TRIALS
+    ---
+    Ja Baij Shrine
+    Trial: Bomb Trial
+    ---
+    Spirit Orb acquired.
+    Spirit Orbs: 2/4
+    ---
+```
+
+Two orbs. Two people who had dissolved to give them to him.
+
+He stood in the empty chamber. The platform was bare. The robes were gone. The space where a person had spent ten thousand years was just stone. But the warmth in the slate was heavier now — doubled, the weight of two gifts given freely, without barter or violence. They were the first things he carried that had been given to him by someone who wanted nothing in return except that he be worth the giving.
+
+The orbs' purpose was a mystery. What the monks had been, why they had waited, how a person could sit in the dark for ten thousand years and still have a sentence ready — none of it made sense. And there were more of them — the old man had said four on this plateau, and the shrine's count said he'd found two, and somewhere out there were more of them — sitting in shrines he hadn't found, waiting for the same person, prepared for the same ending.
+
+He climbed the elevator. The shrine's blue-gold light receded below him. The surface world returned — wind, temperature, the late-afternoon sky streaked with orange and pink. He stepped onto the grass.
+
+---
+
+Evening had found the Plateau while he was underground.
+
+The sun was low, the shadows long. The light had turned the colour of warm metal, and the grass moved in the breeze with the slow, heavy rhythm of a place settling into rest. Birds called from the treeline — tentative, the way they always were near the Abbey, as though they knew what lived there too.
+
+He stood at the shrine's entrance and looked east.
+
+The machine was there. Two hundred paces, maybe three. Its dome half-buried, its legs locked in the earth, its eye dark and dormant. From here, in this light, it looked like a stone. Harmless. Just another ruin in a landscape built from them.
+
+He had a sword now. A real one — the blue-white blade from the shrine, humming in its sheath, twenty points of attack. He had bombs. He had Magnesis. He had the muscle memory of a swordsman whose skills preceded his memory, and he had two Spirit Orbs warming the slate on his hip and the beginning of an understanding that was not yet knowledge but was no longer ignorance.
+
+Could he fight it?
+
+The math assembled itself — not in numbers, but in physical memory. The stone blocks that had slammed against the machine's dome without leaving a mark. The beam that had turned a wall to rubble in a single shot. The sword in his hand, twenty points of attack, maybe fifteen hits before it broke. His best weapon against a thing that stone couldn't scratch.
+
+Not yet.
+
+But the calculation itself was new. Two days ago, the machine had been incomprehensible — a force beyond his understanding, pure terror, a thing that existed in a category he had no tools to address. Now it was a problem. An unsolvable problem, but a problem with parameters. He could see the shape of it. He could measure the gap between what he was and what he would need to be.
+
+That was growth. Not strength — not yet. The ability to measure the distance.
+
+The machine's eye was dark. He looked at it. He did not look away.
+
+The monks had waited ten thousand years. He could wait a few more days.
+
+He turned from the Abbey and walked toward the old man's campfire, where smoke was already rising against the darkening sky. The Plateau was smaller than it had been this morning. Not physically — conceptually. It was becoming known. He had walked its trails and entered its shrines and fought its creatures and measured its worst danger, and the sealed perimeter that had felt like a prison two days ago was beginning to feel like a classroom.
+
+The cooking fire was just embers when he arrived, but the old man added a log and it caught, and the warmth spread through the cooling air and found his face. The old man handed him food without speaking. Link ate. The food was good. The silence between them was comfortable now — not the silence of strangers but the silence of two people who had agreed on what mattered and didn't need to keep saying it.
+
+Someone had built this place. Four shrines, evenly spaced. One guide who knew everything. One sealed edge. A curriculum designed for one student.
+
+He didn't know who. He didn't know why. But the monks had called him *hero*, and the old man was waiting by the fire with food he'd already prepared, and the two remaining shrine glows pulsed against the darkening sky like promises.
+
+Two down. Two to go.
+
+He walked toward the smoke.
