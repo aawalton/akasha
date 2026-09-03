@@ -6,6 +6,8 @@ import type { CollectionDescription } from "./properties/collection-description.
 import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.ts"
 import type { CollectionTags } from "./properties/collection-tags.text-property.ts"
 import type { Following } from "./properties/following.boolean-property.ts"
+import type { OwnLength } from "./properties/own-length.number-property.ts"
+import type { OwnProgress } from "./properties/own-progress.number-property.ts"
 import type { PartOfSlugs } from "./properties/part-of-slugs.relation-property.ts"
 import type { Position } from "./properties/position.number-property.ts"
 import type { Rank } from "./properties/rank.rank-property.ts"
@@ -17,6 +19,8 @@ export type Collection = Page & {
   completedAt?: CollectionCompletedAt
   description?: CollectionDescription
   following?: Following
+  ownLength?: OwnLength
+  ownProgress?: OwnProgress
   partOfSlugs?: PartOfSlugs
   position?: Position
   publishedAt?: CollectionPublishedAt
@@ -37,6 +41,8 @@ export const collection = {
     "calendar-date-property/published-day",
     "instant-property/collection-completed-at",
     "instant-property/published-at",
+    "number-property/own-length",
+    "number-property/own-progress",
     "number-property/position",
     "one-of-property/collection-published-at",
     "page-type/unit",
@@ -54,6 +60,8 @@ export const collection = {
     { pagePropertySlug: "collection-completed-at", required: false, many: false },
     { pagePropertySlug: "collection-description", required: false, many: false },
     { pagePropertySlug: "following", required: false, many: false, default: "false" },
+    { pagePropertySlug: "own-length", required: false, many: false },
+    { pagePropertySlug: "own-progress", required: false, many: false },
     { pagePropertySlug: "part-of-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "position", required: false, many: false },
     { pagePropertySlug: "collection-published-at", required: false, many: false },
@@ -83,6 +91,14 @@ export const collection = {
     {
       invariantKind: "upkeep",
       statement: "No collection counts as part of a larger collection twice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A collection's own length is counted in the unit the collection names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A collection holding only parts states a length of its own of nothing.",
     },
   ],
 } as const satisfies PageType

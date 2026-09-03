@@ -6,10 +6,10 @@ import type { LastSyncedAt } from "./properties/last-synced-at.calendar-date-pro
 import type { Source } from "./properties/source.text-property.ts"
 
 export type CollectionExternal = Collection & {
-  externalId: ExternalId
-  externalLink: ExternalLink
-  source: Source
-  lastSyncedAt: LastSyncedAt
+  externalId?: ExternalId
+  externalLink?: ExternalLink
+  source?: Source
+  lastSyncedAt?: LastSyncedAt
 }
 
 export const collectionExternal = {
@@ -26,10 +26,10 @@ export const collectionExternal = {
   ],
   extendsSlug: "page-type/collection",
   properties: [
-    { pagePropertySlug: "external-id", required: true, many: false },
-    { pagePropertySlug: "external-link", required: true, many: false },
-    { pagePropertySlug: "source", required: true, many: false },
-    { pagePropertySlug: "last-synced-at", required: true, many: false },
+    { pagePropertySlug: "external-id", required: false, many: false },
+    { pagePropertySlug: "external-link", required: false, many: false },
+    { pagePropertySlug: "source", required: false, many: false },
+    { pagePropertySlug: "last-synced-at", required: false, many: false },
   ],
   invariants: [
     {
@@ -39,6 +39,14 @@ export const collectionExternal = {
     {
       invariantKind: "departure",
       statement: "What a person records about a collection outlives every sync.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A provider that answered with no id leaves the collection stating none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A collection never synced states no moment it was synced at.",
     },
   ],
 } as const satisfies PageType
