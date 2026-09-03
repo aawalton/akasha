@@ -8,6 +8,7 @@ export const markdownPages = {
   manifest: "json",
   partSlugs: [
     "module/markdown-attachment-file",
+    "module/markdown-body-not-utf8",
     "module/markdown-document-frontmatter",
     "module/markdown-document-holes",
     "module/markdown-document-position",
@@ -78,8 +79,15 @@ export const markdownPages = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "This reads markdown pages, which `@akasha/pages-system` does not read and does not replace file for file.",
+      statement: "This reads markdown pages.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`@akasha/pages-system` does not read a markdown page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`@akasha/pages-system` does not replace this package file for file.",
     },
     {
       invariantKind: "gap",
