@@ -66,7 +66,7 @@ describe("fileFingerprint", () => {
 describe("cutRecordCall", () => {
   test("names every value the fingerprint carries, so nothing is recomputed to file it", () => {
     const said = cutRecordCall("alanwalton", FP)
-    expect(said).toContain("mobile cut-record")
+    expect(said).toContain("akasha mobile-cut-record")
     expect(said).toContain("--app alanwalton")
     expect(said).toContain("--build-number 199")
     expect(said).toContain(`--main-sha ${FP.mainSha}`)
