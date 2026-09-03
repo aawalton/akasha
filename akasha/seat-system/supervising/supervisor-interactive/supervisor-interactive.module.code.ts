@@ -3,26 +3,29 @@ import { decideBootResume } from "@akasha/seat-system/supervisor-args"
 import { LOG, SEAT_START_DIR } from "@akasha/seat-system/supervisor-config"
 import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
 import { liveDeferredRestartRule } from "@akasha/seat-system/supervisor-deferred-restart-rule"
-import { bootInteractiveSession } from "./supervisor-interactive-boot.ts"
-import type { InteractiveOpts } from "./supervisor-interactive-boot-contract"
+import { buildLoopState } from "@tools/lib/supervisor-loop-state"
+import { askProxyAdoption } from "@tools/lib/supervisor-proxy-adoption-rule"
+import { askProxyLiveness } from "@tools/lib/supervisor-proxy-liveness-rule"
+import type { CarriedAgentName } from "@tools/lib/supervisor-rebind-carry"
+import { askReExecJitterMs } from "@tools/lib/supervisor-self-heal-jitter-rule"
+import { setSelfHealIdleProbe } from "@tools/lib/supervisor-self-heal-state"
+import { isShuttingDown } from "@tools/lib/supervisor-state"
+import { recordTermiosState } from "@tools/lib/supervisor-terminal"
+import type { AgentProcess } from "@tools/lib/supervisor-types"
+import { bootInteractiveSession } from "../supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"
+import type { InteractiveOpts } from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import {
   acquireIterationChild,
   assembleIterationProcess,
   openIteration,
-} from "./supervisor-interactive-iteration.ts"
-import type { RunInteractiveSeams } from "./supervisor-interactive-seams.ts"
-import { finalizeInteractiveExit } from "./supervisor-interactive-spawn.ts"
-import { settleIterationExit, wireIteration } from "./supervisor-interactive-wire.ts"
-import { dispatchPostExitOutcome } from "./supervisor-iteration-outcome.ts"
-import { buildLoopState } from "./supervisor-loop-state.ts"
-import { askProxyAdoption } from "./supervisor-proxy-adoption-rule.ts"
-import { askProxyLiveness } from "./supervisor-proxy-liveness-rule.ts"
-import type { CarriedAgentName } from "./supervisor-rebind-carry"
-import { askReExecJitterMs } from "./supervisor-self-heal-jitter-rule.ts"
-import { setSelfHealIdleProbe } from "./supervisor-self-heal-state"
-import { isShuttingDown } from "./supervisor-state.ts"
-import { recordTermiosState } from "./supervisor-terminal.ts"
-import type { AgentProcess } from "./supervisor-types.ts"
+} from "../supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"
+import type { RunInteractiveSeams } from "../supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
+import { finalizeInteractiveExit } from "../supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
+import {
+  settleIterationExit,
+  wireIteration,
+} from "../supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"
+import { dispatchPostExitOutcome } from "../supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"
 
 export async function runInteractive(
   prompt: string,

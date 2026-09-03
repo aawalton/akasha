@@ -1,6 +1,6 @@
 import { askRule, type RuleAnswer } from "@akasha/seat-system/supervisor-ask-rule"
-import { shape } from "./shape.ts"
-import type { AskDecide } from "./supervisor-resume-asks.ts"
+import { shape } from "@tools/lib/shape"
+import type { AskDecide } from "@tools/lib/supervisor-resume-asks"
 
 const RULE = "idleRule"
 

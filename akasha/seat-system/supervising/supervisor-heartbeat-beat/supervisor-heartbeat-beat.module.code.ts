@@ -1,20 +1,24 @@
 import { akashaRoot, resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { LOG } from "@akasha/seat-system/supervisor-config"
-import type { BeatReport } from "../seat-page-beat.ts"
-import type { Outcome } from "./gated-write.ts"
-import { keepBeside } from "./seat-beside.ts"
-import { nameFromHistory } from "./seat-page-history.ts"
-import { formatSeatProcKey, readSeatProcKey } from "./seat-proc-key.ts"
-import { composedNameOf } from "./seat-rename.ts"
-import { clearRotated } from "./seat-rotated-session.ts"
-import { keepSession } from "./seat-session.ts"
-import { keepTranscript } from "./seat-transcript-path.ts"
+import type { Outcome } from "@tools/lib/gated-write"
+import { keepBeside } from "@tools/lib/seat-beside"
+import { nameFromHistory } from "@tools/lib/seat-page-history"
+import { formatSeatProcKey, readSeatProcKey } from "@tools/lib/seat-proc-key"
+import { composedNameOf } from "@tools/lib/seat-rename"
+import { clearRotated } from "@tools/lib/seat-rotated-session"
+import { keepSession } from "@tools/lib/seat-session"
+import { keepTranscript } from "@tools/lib/seat-transcript-path"
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
-} from "./supervisor-self-heal-state.ts"
+} from "@tools/lib/supervisor-self-heal-state"
 
 const BEAT = "seat-page-beat.ts"
+
+export interface BeatReport {
+  readonly outcome: Outcome
+  readonly seat: string | null
+}
 
 function beatArgv(args: readonly string[]): readonly string[] {
   return [`${akashaRoot()}/tools/${BEAT}`, ...args]

@@ -1,7 +1,7 @@
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import { pollSupervisorFileVersion } from "@akasha/seat-system/supervisor-file-version"
+import { buildHeartbeatMonitor } from "@akasha/seat-system/supervisor-heartbeat"
 import { computeModelGatewayTreeVersion } from "./model-gateway-tree-version.ts"
-import { buildHeartbeatMonitor } from "./supervisor-heartbeat.ts"
 import { startLimitResumeMonitor } from "./supervisor-limit-resume.ts"
 import { pollAgentAction } from "./supervisor-poll-agent-action.ts"
 import { startProxyLivenessMonitor } from "./supervisor-proxy-liveness.ts"

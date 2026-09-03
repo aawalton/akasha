@@ -14,20 +14,23 @@ import type { SeatResume } from "@akasha/seat-system/supervisor-args"
 import { materializeBootPrompt } from "@akasha/seat-system/supervisor-boot-prompt"
 import { stage } from "@akasha/seat-system/supervisor-boot-stage"
 import { LOG } from "@akasha/seat-system/supervisor-config"
-import { buildInteractiveCLIArgs } from "./claude-launch-args.ts"
+import { buildInteractiveCLIArgs } from "@tools/lib/claude-launch-args"
+import { armForceExitTimer } from "@tools/lib/supervisor-lifecycle"
+import { resolveMcpConfig } from "@tools/lib/supervisor-mcp"
+import type { CarriedAgentName } from "@tools/lib/supervisor-rebind-carry"
+import type { ClearRebindDeps } from "@tools/lib/supervisor-rebind-deps"
+import { isPendingReExec } from "@tools/lib/supervisor-self-heal-state"
+import {
+  disallowedToolsForLaunch,
+  resolveSubagentDefinitions,
+} from "@tools/lib/supervisor-spawn-agents"
+import { materializeSpawnSettings } from "@tools/lib/supervisor-spawn-settings"
+import { setOAuthProxyHandle } from "@tools/lib/supervisor-state"
+import type { AgentProcess } from "@tools/lib/supervisor-types"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,
-} from "./supervisor-interactive-boot-contract.ts"
-import { armForceExitTimer } from "./supervisor-lifecycle.ts"
-import { resolveMcpConfig } from "./supervisor-mcp.ts"
-import type { CarriedAgentName } from "./supervisor-rebind-carry"
-import type { ClearRebindDeps } from "./supervisor-rebind-deps.ts"
-import { isPendingReExec } from "./supervisor-self-heal-state"
-import { disallowedToolsForLaunch, resolveSubagentDefinitions } from "./supervisor-spawn-agents.ts"
-import { materializeSpawnSettings } from "./supervisor-spawn-settings.ts"
-import { setOAuthProxyHandle } from "./supervisor-state.ts"
-import type { AgentProcess } from "./supervisor-types.ts"
+} from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 
 export type SeatSpawnDecider = (
   agentId: string | null,

@@ -9,16 +9,20 @@ import { wireSessionRotatedWatcher } from "@akasha/seat-system/supervisor-clear-
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
 import { liveDeferredRestartRule } from "@akasha/seat-system/supervisor-deferred-restart-rule"
-import { liveIdleRule } from "./supervisor-idle-rule.ts"
-import type { InteractiveSessionBoot } from "./supervisor-interactive-boot-contract.ts"
-import { startPreCliffRestartMonitor } from "./supervisor-precliff-restart.ts"
-import { askPreCliffRestart } from "./supervisor-precliff-restart-rule.ts"
-import { triggerProxySwap } from "./supervisor-proxy-version.ts"
-import type { ClearRebindHooks } from "./supervisor-rebind.ts"
-import type { ClearRebindDeps } from "./supervisor-rebind-deps.ts"
-import type { AgentIdHandle } from "./supervisor-self-identity.ts"
-import { isShuttingDown, setAgentActionHandler, setObservedChildExit } from "./supervisor-state.ts"
-import type { AgentProcess, InheritedProc } from "./supervisor-types.ts"
+import { startPreCliffRestartMonitor } from "@tools/lib/supervisor-precliff-restart"
+import { askPreCliffRestart } from "@tools/lib/supervisor-precliff-restart-rule"
+import { triggerProxySwap } from "@tools/lib/supervisor-proxy-version"
+import type { ClearRebindHooks } from "@tools/lib/supervisor-rebind"
+import type { ClearRebindDeps } from "@tools/lib/supervisor-rebind-deps"
+import type { AgentIdHandle } from "@tools/lib/supervisor-self-identity"
+import {
+  isShuttingDown,
+  setAgentActionHandler,
+  setObservedChildExit,
+} from "@tools/lib/supervisor-state"
+import type { AgentProcess, InheritedProc } from "@tools/lib/supervisor-types"
+import { liveIdleRule } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import type { InteractiveSessionBoot } from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 
 export interface IterationWiring {
   actionSubsystem: ReturnType<typeof buildAgentActionSubsystem>

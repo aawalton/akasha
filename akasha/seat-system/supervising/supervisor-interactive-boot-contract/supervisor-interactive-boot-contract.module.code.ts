@@ -2,11 +2,11 @@ import type { resolveClaudeHandoff } from "@akasha/seat-system/supervisor-adopt"
 import type { RowAgentLaunch } from "@akasha/seat-system/supervisor-agent-create"
 import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
 import type { buildCredentialSubsystem } from "@akasha/seat-system/supervisor-credentials"
-import type { startPerAgentMonitors } from "./supervisor-monitors-wire.ts"
-import type { ProxyAdoptionRuleSource } from "./supervisor-proxy-adoption-rule.ts"
-import type { ProxyLivenessRuleSource } from "./supervisor-proxy-liveness-rule.ts"
-import type { AgentIdHandle } from "./supervisor-self-identity.ts"
-import type { ToolRestrictions } from "./tool-access.ts"
+import type { startPerAgentMonitors } from "@tools/lib/supervisor-monitors-wire"
+import type { ProxyAdoptionRuleSource } from "@tools/lib/supervisor-proxy-adoption-rule"
+import type { ProxyLivenessRuleSource } from "@tools/lib/supervisor-proxy-liveness-rule"
+import type { AgentIdHandle } from "@tools/lib/supervisor-self-identity"
+import type { ToolRestrictions } from "@tools/lib/tool-access"
 
 export type InteractiveOpts = {
   resume: boolean

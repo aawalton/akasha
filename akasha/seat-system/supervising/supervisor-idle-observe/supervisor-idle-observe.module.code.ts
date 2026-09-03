@@ -1,10 +1,14 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
-import { principalSeatIdOf } from "./seat-principal.ts"
-import { agentPresence } from "./seat-presence-read.ts"
-import { akashaSeatsThatExist } from "./seat-akasha-beside.ts"
-import type { SeatPresence } from "./seat-proc-key.ts"
-import { shape } from "./shape.ts"
-import type { BusyChildDetail, IdleObservation, IdleRuleSource } from "./supervisor-idle-rule.ts"
+import { akashaSeatsThatExist } from "@tools/lib/seat-akasha-beside"
+import { agentPresence } from "@tools/lib/seat-presence-read"
+import { principalSeatIdOf } from "@tools/lib/seat-principal"
+import type { SeatPresence } from "@tools/lib/seat-proc-key"
+import { shape } from "@tools/lib/shape"
+import type {
+  BusyChildDetail,
+  IdleObservation,
+  IdleRuleSource,
+} from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 
 const INFLIGHT_FETCH_TIMEOUT_MS = 1_000
 

@@ -9,28 +9,28 @@ import {
   resolveProxyOwnerAgentId,
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "@akasha/seat-system/supervisor-handoff-env"
-import { computeModelGatewayTreeVersion } from "./model-gateway-tree-version"
-import { claimSeatSupervision } from "./seat-supervisor-claim.ts"
-import { shape } from "./shape.ts"
-import type {
-  InteractiveBootArgs,
-  InteractiveSessionBoot,
-} from "./supervisor-interactive-boot-contract.ts"
-import { startPerAgentMonitors } from "./supervisor-monitors-wire.ts"
-import { installProxyVersionSubsystem } from "./supervisor-proxy-version.ts"
+import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
+import { claimSeatSupervision } from "@tools/lib/seat-supervisor-claim"
+import { shape } from "@tools/lib/shape"
+import { startPerAgentMonitors } from "@tools/lib/supervisor-monitors-wire"
+import { installProxyVersionSubsystem } from "@tools/lib/supervisor-proxy-version"
 import {
   AGENT_MODE_HEADLESS,
   AGENT_MODE_INTERACTIVE,
   stateSeatDefaults,
-} from "./supervisor-seat-defaults.ts"
-import { setProxyOwnerAgentIdForSelfHeal } from "./supervisor-self-heal-state"
-import { createAgentIdHandle } from "./supervisor-self-identity.ts"
+} from "@tools/lib/supervisor-seat-defaults"
+import { setProxyOwnerAgentIdForSelfHeal } from "@tools/lib/supervisor-self-heal-state"
+import { createAgentIdHandle } from "@tools/lib/supervisor-self-identity"
 import {
   setInheritedClaude,
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
-} from "./supervisor-state.ts"
-import { toolRestrictions } from "./tool-access.ts"
+} from "@tools/lib/supervisor-state"
+import { toolRestrictions } from "@tools/lib/tool-access"
+import type {
+  InteractiveBootArgs,
+  InteractiveSessionBoot,
+} from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 
 const ENV_OPTIONAL = shape.string().optional()
 

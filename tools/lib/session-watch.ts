@@ -1,19 +1,15 @@
 import { existsSync, readdirSync, unwatchFile, watchFile } from "node:fs"
 import { stat } from "node:fs/promises"
+import type { ObjectStore } from "@akasha/object-store/seaweedfs-store"
+import { keepSeatTranscript } from "@akasha/seat-system/supervisor-heartbeat-beat"
 import { sessionOf } from "./seat-session.ts"
 import { transcriptOf } from "./seat-transcript-path.ts"
-import type { ObjectStore } from "@akasha/object-store/seaweedfs-store"
+import { readTranscriptSessionId } from "./session-jsonl.ts"
 import {
   getDefaultObjectStore,
   sessionObjectKeyFor,
   syncSessionFileToObjectStore,
 } from "./session-stream.ts"
-import { readTranscriptSessionId } from "./session-jsonl.ts"
-import { keepSeatTranscript } from "./supervisor-heartbeat-beat.ts"
-
-
-
-
 
 const FALLBACK_AFTER_MS = 15_000
 
@@ -36,12 +32,9 @@ async function reach(): Promise<Reached | null> {
   return { store }
 }
 
-
 async function transcriptSessionId(at: Reached, filePath: string): Promise<string | null> {
   try {
-    return readTranscriptSessionId(
-      await Bun.file(filePath).slice(0, SESSION_ID_PROBE_BYTES).text()
-    )
+    return readTranscriptSessionId(await Bun.file(filePath).slice(0, SESSION_ID_PROBE_BYTES).text())
   } catch {
     return null
   }
@@ -67,7 +60,10 @@ export function watchSessionFile(agentId: string, _sessionId: string, projDir: s
   const syncState = { lastFlushedOffset: 0 }
   const refused = new Set<string>()
   const reached = reach().catch((err) => {
-    console.error("[session-watch] the object store did not answer:", err instanceof Error ? err.message : String(err))
+    console.error(
+      "[session-watch] the object store did not answer:",
+      err instanceof Error ? err.message : String(err)
+    )
     return null
   })
 
@@ -107,7 +103,11 @@ export function watchSessionFile(agentId: string, _sessionId: string, projDir: s
     })
   }
 
-  const beginWatching = async (at: Reached, path: string, via: "seat" | "fallback"): Promise<boolean> => {
+  const beginWatching = async (
+    at: Reached,
+    path: string,
+    via: "seat" | "fallback"
+  ): Promise<boolean> => {
     if (refused.has(path)) return false
     const own = sessionOf(agentId)?.value ?? null
     const held = await transcriptSessionId(at, path)
@@ -123,7 +123,9 @@ export function watchSessionFile(agentId: string, _sessionId: string, projDir: s
     keepSeatTranscript(agentId, path)
     console.log(`[session-watch] watching ${path} (via ${via})`)
     watchFile(path, { interval: 3_000 }, onChange)
-    void doUpload(at, path).catch((err) => console.error("[session-watch] initial upload error:", err))
+    void doUpload(at, path).catch((err) =>
+      console.error("[session-watch] initial upload error:", err)
+    )
     return true
   }
 

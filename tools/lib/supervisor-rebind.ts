@@ -1,7 +1,7 @@
 import type { RowAgentLaunch } from "@akasha/seat-system/supervisor-agent-create"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import { AGENT_LAUNCH_OPENED, AGENT_LAUNCH_SPAWNED } from "@akasha/seat-system/supervisor-env"
-import { keepSeatTranscript } from "./supervisor-heartbeat-beat.ts"
+import { keepSeatTranscript } from "@akasha/seat-system/supervisor-heartbeat-beat"
 import { type CarriedAgentName, carriedForSeat } from "./supervisor-rebind-carry.ts"
 import type { ClearRebindDeps } from "./supervisor-rebind-deps.ts"
 import type { AgentProcess } from "./supervisor-types.ts"

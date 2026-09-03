@@ -5,33 +5,33 @@ import { spawnOrAdoptChild } from "@akasha/seat-system/supervisor-child-spawn"
 import { reconcileClaimedRedelivery } from "@akasha/seat-system/supervisor-claimed-reconcile"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
-import { readOwnTranscriptTail } from "./agent-io-probe.ts"
-import { claimSeatSupervision } from "./seat-supervisor-claim.ts"
-import { keepSeatTranscript } from "./supervisor-heartbeat-beat.ts"
+import { readOwnTranscriptTail } from "@tools/lib/agent-io-probe"
+import { claimSeatSupervision } from "@tools/lib/seat-supervisor-claim"
+import { ANNOUNCE, sendMessage, USER_SOURCE } from "@tools/lib/supervisor-limit-resume-send"
+import { readClaimedBefore, releaseMessageClaim } from "@tools/lib/supervisor-message-claim"
+import type { ClearRebindHooks } from "@tools/lib/supervisor-rebind"
+import type { CarriedAgentName } from "@tools/lib/supervisor-rebind-carry"
+import type { ClearRebindDeps } from "@tools/lib/supervisor-rebind-deps"
+import { redeliveryHoldoff } from "@tools/lib/supervisor-redelivery-holdoff"
+import {
+  setCurrentAgentIdForSelfHeal,
+  setCurrentSessionIdForSelfHeal,
+} from "@tools/lib/supervisor-self-heal-state"
+import type { AgentIdHandle } from "@tools/lib/supervisor-self-identity"
+import { sessionProjectDir } from "@tools/lib/supervisor-session-project-dir"
+import { processes, setRestoreConsoleHandle } from "@tools/lib/supervisor-state"
+import type { AgentProcess, InheritedProc } from "@tools/lib/supervisor-types"
+import { USER_ID } from "@tools/lib/user-id"
+import { keepSeatTranscript } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,
-} from "./supervisor-interactive-boot-contract.ts"
+} from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import {
   applyCarriedName,
   buildIterationSpawnOpts,
   type SeatSpawnDecider,
-} from "./supervisor-interactive-spawn.ts"
-import { ANNOUNCE, sendMessage, USER_SOURCE } from "./supervisor-limit-resume-send.ts"
-import { readClaimedBefore, releaseMessageClaim } from "./supervisor-message-claim.ts"
-import type { ClearRebindHooks } from "./supervisor-rebind.ts"
-import type { CarriedAgentName } from "./supervisor-rebind-carry.ts"
-import type { ClearRebindDeps } from "./supervisor-rebind-deps.ts"
-import { redeliveryHoldoff } from "./supervisor-redelivery-holdoff.ts"
-import {
-  setCurrentAgentIdForSelfHeal,
-  setCurrentSessionIdForSelfHeal,
-} from "./supervisor-self-heal-state"
-import type { AgentIdHandle } from "./supervisor-self-identity.ts"
-import { sessionProjectDir } from "./supervisor-session-project-dir.ts"
-import { processes, setRestoreConsoleHandle } from "./supervisor-state.ts"
-import type { AgentProcess, InheritedProc } from "./supervisor-types.ts"
-import { USER_ID } from "./user-id"
+} from "../supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
 
 export async function openIteration(args: {
   agentId: string | null

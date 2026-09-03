@@ -2,8 +2,8 @@ import { parseArgs } from "@akasha/seat-system/supervisor-args"
 import { liveChildExitRule } from "@akasha/seat-system/supervisor-child-exit-rule"
 import { assertBootFiles, LOG, REQUIRED_BOOT_FILES } from "@akasha/seat-system/supervisor-config"
 import { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
-import { runInteractive } from "./supervisor-interactive.ts"
-import type { RunInteractiveSeams } from "./supervisor-interactive-seams.ts"
+import { runInteractive } from "@akasha/seat-system/supervisor-interactive"
+import type { RunInteractiveSeams } from "@akasha/seat-system/supervisor-interactive-seams"
 import { shutdown } from "./supervisor-lifecycle.ts"
 import {
   getRestoreConsoleHandle,
