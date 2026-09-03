@@ -33,19 +33,6 @@
       "project": [
         "**/*.ts"
       ]
-    },
-    "infra/scripts": {
-      "entry": [
-        "**/*.test.{ts,tsx}",
-        "migrations/**/*.ts",
-        "src/clean-stale-folders.ts",
-        "src/docs-validator/export.ts",
-        "src/install.ts",
-        "src/verify-workspace-bins.ts"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
     }
   }
 }

@@ -12,10 +12,6 @@ node_modules/
 dist/
 *.tsbuildinfo
 
-# infra/scripts/__fixtures__ is a fixture tree whose fake node_modules/ and
-# dist/ folders are the thing under test, so it is exempt from the two rules
-# above.
-!infra/scripts/__fixtures__/**
 
 # Declarations tsc emits beside the .ts they came from. Hand-written
 # declarations live under types/ or in the trees named below, and none of those
