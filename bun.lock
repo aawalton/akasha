@@ -762,13 +762,6 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/icloud-photos-access": {
-      "name": "@akasha/icloud-photos-access",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "akasha/id-minting": {
       "name": "@akasha/id-minting",
     },
@@ -3250,8 +3243,6 @@
     "@akasha/hook-system": ["@akasha/hook-system@workspace:akasha/hook-system"],
 
     "@akasha/icloud-photos": ["@akasha/icloud-photos@workspace:akasha/icloud-photos"],
-
-    "@akasha/icloud-photos-access": ["@akasha/icloud-photos-access@workspace:akasha/icloud-photos-access"],
 
     "@akasha/id-minting": ["@akasha/id-minting@workspace:akasha/id-minting"],
 
