@@ -80,7 +80,11 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "Every body is formatted before the gate sees the body.",
+      statement: "A body of a kind the formatter owns is formatted before the gate sees the body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body of any other kind reaches the gate as the caller handed the body in.",
     },
     {
       invariantKind: "departure",
