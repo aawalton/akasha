@@ -1,16 +1,17 @@
-export const summary = "Hand back one never-opened leaf (status == unopened) for the audit sweep — the disjoint complement of the rotation queue; deterministic first or --random, branch-scopable via --under"
+export const summary =
+  "Hand back one never-opened leaf (status == unopened) for the audit sweep — the disjoint complement of the rotation queue; deterministic first or --random, branch-scopable via --under"
 
 import { randomInt } from "node:crypto"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { flattenLeaves } from "../../lib/book-of-everything-coverage-status.ts"
+import { flattenLeaves } from "@akasha/book-of-everything/coverage-status"
 import {
   filterByStatus,
   type Rng,
   selectWithoutReplacement,
-} from "../../lib/book-of-everything-random-leaf-select.ts"
-import { readStatusTree, resolveBookDir } from "../../lib/book-of-everything-status-tree.ts"
+} from "@akasha/book-of-everything/random-leaf-select"
+import { readStatusTree, resolveBookDir } from "@akasha/book-of-everything/status-tree"
 import { inputError, isInputError, isOperationalError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -78,7 +79,7 @@ export default async function aliNextUnscored(args: readonly string[]): Promise<
     if (picked === undefined) throw operationalError("internal: no leaf selected")
     chosen = { path: picked.path, label: picked.label, status: picked.status }
   } catch (e) {
-    if ((isInputError(e)) || (isOperationalError(e))) throw e
+    if (isInputError(e) || isOperationalError(e)) throw e
     throw operationalError(e instanceof Error ? e.message : String(e))
   }
 

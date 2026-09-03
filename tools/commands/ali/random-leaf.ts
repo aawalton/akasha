@@ -1,20 +1,21 @@
-export const summary = "Draw uniformly-random leaf node(s) from the Book of Everything using real OS entropy — filtered by status, scopable to a part or subtree, drawn without replacement"
+export const summary =
+  "Draw uniformly-random leaf node(s) from the Book of Everything using real OS entropy — filtered by status, scopable to a part or subtree, drawn without replacement"
 
 import { randomInt } from "node:crypto"
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, relative } from "node:path"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { readNodeLabel, readStatusField } from "../../lib/book-of-everything-profile.ts"
+import { bookRoot } from "@akasha/book-of-everything/books-root"
+import { readNodeLabel, readStatusField } from "@akasha/book-of-everything/node-profile"
 import {
   filterByStatus,
   type Leaf,
   type Rng,
   type StatusFilter,
   selectWithoutReplacement,
-} from "../../lib/book-of-everything-random-leaf-select.ts"
-import { bookRoot } from "../../lib/book-of-everything-root.ts"
+} from "@akasha/book-of-everything/random-leaf-select"
 import { inputError, isInputError, isOperationalError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -47,7 +48,10 @@ export const help: CommandHelp = {
   exits: [
     { code: 0, meaning: "the drawn leaves were printed, one per line" },
     { code: 1, meaning: "input error — a flag value was out of range or named no node directory" },
-    { code: 3, meaning: "operational error — no matching leaf in scope, or the tree failed to read" },
+    {
+      code: 3,
+      meaning: "operational error — no matching leaf in scope, or the tree failed to read",
+    },
   ],
   examples: [
     "ops ali random-leaf",
@@ -129,7 +133,8 @@ export default async function aliRandomLeaf(args: readonly string[]): Promise<vo
     } else if (part !== undefined) {
       const prefix = String(part).padStart(2, "0")
       const match = readdirSync(BOOK_ROOT, { withFileTypes: true }).find(
-        (e) => e.isDirectory() && e.name.startsWith(`${prefix}-`) && isNodeDir(join(BOOK_ROOT, e.name))
+        (e) =>
+          e.isDirectory() && e.name.startsWith(`${prefix}-`) && isNodeDir(join(BOOK_ROOT, e.name))
       )
       if (match === undefined) throw inputError(`no part directory found for --part ${part}`)
       start = join(BOOK_ROOT, match.name)
@@ -146,7 +151,7 @@ export default async function aliRandomLeaf(args: readonly string[]): Promise<vo
     const rng: Rng = (bound) => randomInt(bound)
     drawn = selectWithoutReplacement(candidates, count, rng)
   } catch (e) {
-    if ((isInputError(e)) || (isOperationalError(e))) throw e
+    if (isInputError(e) || isOperationalError(e)) throw e
     throw operationalError(e instanceof Error ? e.message : String(e))
   }
 

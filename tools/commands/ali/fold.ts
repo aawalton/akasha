@@ -1,22 +1,23 @@
-export const summary = "Fold computed mastery C bottom-up over the whole Book of Everything tree, write each node's C back into its profile.md, and regenerate DASHBOARD.md"
+export const summary =
+  "Fold computed mastery C bottom-up over the whole Book of Everything tree, write each node's C back into its profile.md, and regenerate DASHBOARD.md"
 
 import { readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { CommandHelp } from "../../ops/surface.ts"
+import { bookRoot } from "@akasha/book-of-everything/books-root"
 import {
   type CoverageNode,
   computeCoverage,
   formatScore,
-} from "../../lib/book-of-everything-coverage-fold.ts"
+} from "@akasha/book-of-everything/coverage-fold"
 import {
   displayTitle,
   readNodeLabel,
   readNumberField,
   replaceComputedScore,
-} from "../../lib/book-of-everything-profile.ts"
-import { bookRoot } from "../../lib/book-of-everything-root.ts"
+} from "@akasha/book-of-everything/node-profile"
 import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   irreversible: "irreversible",
@@ -76,7 +77,11 @@ function zip(disk: DiskNode, folded: ReturnType<typeof computeCoverage>): Comput
   return { disk, c: folded.c, children }
 }
 
-function writeBack(disk: DiskNode, computedC: number, children: readonly ComputedPair[]): undefined {
+function writeBack(
+  disk: DiskNode,
+  computedC: number,
+  children: readonly ComputedPair[]
+): undefined {
   const path = join(disk.dir, "profile.md")
   writeFileSync(path, replaceComputedScore(readFileSync(path, "utf-8"), computedC))
   for (const { disk: d, c, children: cc } of children) writeBack(d, c, cc)

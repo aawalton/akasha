@@ -1,15 +1,16 @@
-export const summary = "Measurement coverage of the Book of Everything (audit phase): fraction assessed at all (status != \"unopened\", not D), with both the stable 177-section headline and the live materialized detail, per Part/Division"
+export const summary =
+  'Measurement coverage of the Book of Everything (audit phase): fraction assessed at all (status != "unopened", not D), with both the stable 177-section headline and the live materialized detail, per Part/Division'
 
-import type { CommandHelp } from "../../ops/surface.ts"
 import {
   buildCoverageReport,
   type CoverageReport,
   coveragePercent,
   type MeasuredCount,
-} from "../../lib/book-of-everything-coverage-status.ts"
-import { readStatusTree } from "../../lib/book-of-everything-status-tree.ts"
+} from "@akasha/book-of-everything/coverage-status"
+import { readStatusTree } from "@akasha/book-of-everything/status-tree"
 import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
