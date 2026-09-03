@@ -1,4 +1,3 @@
-
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export function classifyRateLimitDeath(text: string): boolean {
@@ -24,7 +23,10 @@ export const SUPERVISOR_DECIDE_COMMAND = "supervisor-decide"
 export const SUPERVISOR_DECIDE_CEILING_MS = 5_000
 
 export function askSupervisorDecide(stdin: string): Promise<unknown> {
-  return askCommandAt(`${rootFor(resolveRoots(), AKASHA)}/tools/${SUPERVISOR_DECIDE_COMMAND}.ts`, stdin)
+  return askCommandAt(
+    `${rootFor(resolveRoots(), AKASHA)}/tools/${SUPERVISOR_DECIDE_COMMAND}.ts`,
+    stdin
+  )
 }
 
 async function askCommandAt(entry: string, stdin: string): Promise<unknown> {

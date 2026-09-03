@@ -8,9 +8,9 @@ import {
   unlinkSync,
 } from "node:fs"
 import { dirname } from "node:path"
-import { logWriter, type LogWriter } from "./log-append.ts"
+import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
+import { type LogWriter, logWriter } from "./log-append.ts"
 import { seatNameForAgent } from "./seat-presence-read.ts"
-import { supervisorsRootDir } from "./supervisor-log-path.ts"
 
 export type RotationOptions = {
   maxBytes: number
@@ -64,7 +64,10 @@ export function pageSink(writer: LogWriter, agentId: string, fallback: LogSink):
     if (refused === null) return
     if (refused !== named) {
       named = refused
-      fallback("ERROR", `[${SUPERVISOR_CONSOLE_SOURCE}] the seat log page refuses these lines, so they land here instead: ${refused}`)
+      fallback(
+        "ERROR",
+        `[${SUPERVISOR_CONSOLE_SOURCE}] the seat log page refuses these lines, so they land here instead: ${refused}`
+      )
     }
     fallback(level, text)
   }
@@ -131,8 +134,7 @@ export function buildAgentLogRedirect(supervisorsDir: string = DEFAULT_SUPERVISO
             if (line.trim() !== "") activeSink("BOOTSTRAP", line)
           try {
             unlinkSync(bootstrapPath)
-          } catch {
-          }
+          } catch {}
         }
       }
       activePath = agentPath

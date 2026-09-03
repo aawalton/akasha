@@ -1,4 +1,3 @@
-
 const DB_CALL_TIMEOUT_MS = 5_000
 
 export async function withTimeout<T>(promise: Promise<T>, label: string): Promise<T> {

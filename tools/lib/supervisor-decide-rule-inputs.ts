@@ -1,4 +1,9 @@
-
+import type { IdleObservation } from "@akasha/seat-system/supervisor-idle-decide"
+import {
+  INITIAL_PROXY_LIVENESS_STATE,
+  type ProxyLivenessState,
+} from "@akasha/seat-system/supervisor-proxy-liveness-decide"
+import { bool, maybe, num, obj, oneOf, str } from "./narrow.ts"
 import type {
   ChildExitClassification,
   ChildExitObservation,
@@ -6,17 +11,11 @@ import type {
 } from "./supervisor-child-exit-decide.ts"
 import { STOP_REASON } from "./supervisor-child-exit-decide.ts"
 import {
-  INITIAL_DEFERRED_RESTART_STATE,
   type DeferredRestartConfig,
   type DeferredRestartObservation,
   type DeferredRestartState,
+  INITIAL_DEFERRED_RESTART_STATE,
 } from "./supervisor-deferred-restart-decide.ts"
-import type { IdleObservation } from "./supervisor-idle-decide.ts"
-import {
-  INITIAL_PROXY_LIVENESS_STATE,
-  type ProxyLivenessState,
-} from "./supervisor-proxy-liveness-decide.ts"
-import { bool, maybe, num, obj, oneOf, str } from "./narrow.ts"
 
 export function idleObservation(value: unknown, path: string): IdleObservation {
   const o = obj(value, path)
@@ -76,7 +75,10 @@ export function deferredRestartState(value: unknown, path: string): DeferredRest
   }
 }
 
-export function deferredRestartObservation(value: unknown, path: string): DeferredRestartObservation {
+export function deferredRestartObservation(
+  value: unknown,
+  path: string
+): DeferredRestartObservation {
   const o = obj(value, path)
   const obs: DeferredRestartObservation = { idle: bool(o.idle, `${path}.idle`) }
   if (o.busyReason !== undefined) obs.busyReason = str(o.busyReason, `${path}.busyReason`)
@@ -88,7 +90,8 @@ export function deferredRestartObservation(value: unknown, path: string): Deferr
 export function deferredRestartConfig(value: unknown, path: string): DeferredRestartConfig {
   const o = obj(value, path)
   const config: DeferredRestartConfig = {}
-  if (o.ceilingTicks !== undefined) config.ceilingTicks = num(o.ceilingTicks, `${path}.ceilingTicks`)
+  if (o.ceilingTicks !== undefined)
+    config.ceilingTicks = num(o.ceilingTicks, `${path}.ceilingTicks`)
   if (o.staleTicks !== undefined) config.staleTicks = num(o.staleTicks, `${path}.staleTicks`)
   return config
 }

@@ -4,8 +4,8 @@ export const tool = {
 } as const
 
 import { readdirSync, rmSync, statSync } from "node:fs"
+import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
 import { akashaSeatsThatExist } from "../tools/lib/seat-akasha-beside.ts"
-import { supervisorsRootDir } from "../tools/lib/supervisor-log-path.ts"
 
 const HELP = `bun services/sweep-supervisor-logs.ts — delete the log directory of every departed supervisor
 

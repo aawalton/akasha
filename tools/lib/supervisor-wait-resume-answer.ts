@@ -1,7 +1,6 @@
-
+import { SUPERVISOR_DECIDE_COMMAND } from "@akasha/seat-system/supervisor-limit-resume-effects"
 import { shape } from "./shape.ts"
-import { type Infer } from "./shape-core"
-import { SUPERVISOR_DECIDE_COMMAND } from "./supervisor-limit-resume-effects.ts"
+import type { Infer } from "./shape-core"
 
 export const WAIT_RESUME_DECISION = "waitResume"
 
@@ -26,8 +25,7 @@ const WaitResumeAnswerShape = shape.object({
   ]),
 })
 
-export type WaitResumeVerdict =
-  Infer<typeof WaitResumeAnswerShape>[typeof WAIT_RESUME_DECISION]
+export type WaitResumeVerdict = Infer<typeof WaitResumeAnswerShape>[typeof WAIT_RESUME_DECISION]
 
 export type WaitResumeQuestion = {
   readonly deathDetected: true

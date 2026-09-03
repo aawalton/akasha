@@ -1,6 +1,8 @@
-
+import {
+  askSupervisorDecide,
+  SUPERVISOR_DECIDE_COMMAND,
+} from "@akasha/seat-system/supervisor-limit-resume-effects"
 import { LOG } from "./supervisor-config.ts"
-import { askSupervisorDecide, SUPERVISOR_DECIDE_COMMAND } from "./supervisor-limit-resume-effects.ts"
 import type { AskDecide } from "./supervisor-resume-asks.ts"
 
 export type RuleAnswer<T> = { readonly value: T; readonly notice: string | null }

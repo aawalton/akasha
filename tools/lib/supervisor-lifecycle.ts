@@ -1,13 +1,17 @@
-
+import { shouldWriteTerminalStoppedStatus } from "@akasha/seat-system/supervisor-lifecycle-death-write"
 import { shape } from "./shape.ts"
 import type { ChildExitRuleSource } from "./supervisor-child-exit-rule.ts"
 import { LOG } from "./supervisor-config.ts"
-import { shouldWriteTerminalStoppedStatus } from "./supervisor-lifecycle-death-write.ts"
 import { takeSeatPage } from "./supervisor-heartbeat-beat.ts"
 import { teardownProxyVersionSubscription } from "./supervisor-proxy-version.ts"
 import { attemptInPlaceReExec } from "./supervisor-reexec.ts"
 import { resolveReExecArgv } from "./supervisor-self-heal.ts"
-import { getCurrentAgentIdForSelfHeal, isPendingReExec, SUPERVISOR_SCRIPT, teardownVersionSubscription } from "./supervisor-self-heal-state"
+import {
+  getCurrentAgentIdForSelfHeal,
+  isPendingReExec,
+  SUPERVISOR_SCRIPT,
+  teardownVersionSubscription,
+} from "./supervisor-self-heal-state"
 import { killProcessesForShutdown, recordShutdownEvent } from "./supervisor-shutdown-procs.ts"
 import {
   activeLifecycles,
@@ -16,7 +20,6 @@ import {
   processes,
   setShuttingDown,
 } from "./supervisor-state.ts"
-
 
 const SHUTDOWN_FORCE_EXIT_MS = 10_000
 const SHUTDOWN_SIGKILL_BACKSTOP_MS = 1_500
@@ -61,8 +64,7 @@ export function armForceExitTimer(signal: string): () => void {
       recordShutdownEvent("sigkill-backstop", { signal })
       try {
         process.kill(process.pid, "SIGKILL")
-      } catch {
-      }
+      } catch {}
     }, SHUTDOWN_SIGKILL_BACKSTOP_MS).unref()
     process.exit(1)
   }, SHUTDOWN_FORCE_EXIT_MS)

@@ -1,4 +1,3 @@
-
 export type PreCliffObservation = {
   childAgeMs: number | null
   alreadyArmed: boolean

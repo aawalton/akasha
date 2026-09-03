@@ -1,4 +1,3 @@
-
 export type ProxyAdoptionInput = {
   readonly hasLiveProxy: boolean
   readonly versionMatches: boolean

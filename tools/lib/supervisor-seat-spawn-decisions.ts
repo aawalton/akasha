@@ -1,10 +1,13 @@
+import {
+  askSupervisorDecide,
+  SUPERVISOR_DECIDE_COMMAND,
+} from "@akasha/seat-system/supervisor-limit-resume-effects"
 import { shape } from "./shape.ts"
 import { LOG } from "./supervisor-config.ts"
-import { askSupervisorDecide, SUPERVISOR_DECIDE_COMMAND } from "./supervisor-limit-resume-effects.ts"
 import {
-  readRemoteControlQuestion,
   REMOTE_CONTROL_DECISION,
   RemoteControlVerdictShape,
+  readRemoteControlQuestion,
   remoteControlFallback,
   seatLabel,
 } from "./supervisor-remote-control-default.ts"

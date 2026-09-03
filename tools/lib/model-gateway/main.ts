@@ -1,23 +1,22 @@
 import { join } from "node:path"
-import { clearAccountTerminal, isAccountTerminal, markAccountTerminal } from "../account-terminal.ts"
-import { reportOAuthRecovered, reportTerminalOAuthError } from "../agent-health-write.ts"
-import { LIVE_HEALTH, writeRefreshHealth, writeTerminalHealth } from "../oauth-account-health.ts"
-import { logWriter } from "../log-append.ts"
-import { seatNameForAgent } from "../seat-presence-read.ts"
+import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
 import {
-  fileSink,
-  LOG_MAX_BYTES,
-  pageSink,
-  redirectConsoleToSink,
-} from "../supervisor-console.ts"
-import { startOAuthProxy } from "./gateway.ts"
-import { parseBootEnv } from "./parse-boot-env.ts"
+  clearAccountTerminal,
+  isAccountTerminal,
+  markAccountTerminal,
+} from "../account-terminal.ts"
+import { reportOAuthRecovered, reportTerminalOAuthError } from "../agent-health-write.ts"
+import { logWriter } from "../log-append.ts"
+import { LIVE_HEALTH, writeRefreshHealth, writeTerminalHealth } from "../oauth-account-health.ts"
+import { seatNameForAgent } from "../seat-presence-read.ts"
 import {
   clearProxyState,
   type OAuthProxyStateToWrite,
   writeProxyStateQuietly,
 } from "../seat-proxy-state.ts"
-import { supervisorSocketPath } from "../supervisor-log-path.ts"
+import { fileSink, LOG_MAX_BYTES, pageSink, redirectConsoleToSink } from "../supervisor-console.ts"
+import { startOAuthProxy } from "./gateway.ts"
+import { parseBootEnv } from "./parse-boot-env.ts"
 
 const LOG_PREFIX = "[oauth-proxy]"
 

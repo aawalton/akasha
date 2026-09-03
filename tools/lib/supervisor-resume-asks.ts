@@ -1,8 +1,10 @@
-
+import {
+  askSupervisorDecide,
+  SUPERVISOR_DECIDE_COMMAND,
+} from "@akasha/seat-system/supervisor-limit-resume-effects"
 import { shape } from "./shape.ts"
-import { type Infer, type ShapeError } from "./shape-core"
+import type { Infer, ShapeError } from "./shape-core"
 import { LOG } from "./supervisor-config.ts"
-import { askSupervisorDecide, SUPERVISOR_DECIDE_COMMAND } from "./supervisor-limit-resume-effects.ts"
 import { SUPERVISOR_NOTICE_PREFIX } from "./supervisor-resume-notices.ts"
 
 const RESTART_NOTICE_DECISION = "restartNotice"

@@ -1,4 +1,20 @@
-
+import {
+  isIdleForPreservingRestart,
+  isIdleForPreservingRestartPastCliff,
+  isIgnoredMcpChildCmdline,
+  preservingRestartBusyReason,
+} from "@akasha/seat-system/supervisor-idle-decide"
+import {
+  decidePreCliffRestart,
+  type PreCliffObservation,
+} from "@akasha/seat-system/supervisor-precliff-restart-decide"
+import {
+  decideProxyAdoption,
+  type ProxyAdoptionInput,
+} from "@akasha/seat-system/supervisor-proxy-adoption-decide"
+import { decideProxyLiveness } from "@akasha/seat-system/supervisor-proxy-liveness-decide"
+import { fail } from "./command.ts"
+import { arr, bool, maybe, num, obj, str } from "./narrow.ts"
 import {
   classifyChildExit,
   collapseChildExitStatus,
@@ -6,36 +22,6 @@ import {
   decodeWaitStatus,
   STOP_REASON,
 } from "./supervisor-child-exit-decide.ts"
-import {
-  decideDeferredRestart,
-  EDGE_CONNECTION_CLIFF_OVERRIDE_MS,
-  EDGE_CONNECTION_CLIFF_PREEMPT_MS,
-  INITIAL_DEFERRED_RESTART_STATE,
-  resolveMaxDeferMs,
-  resolvePreCliffOverrideMs,
-  resolveStaleWedgeMs,
-} from "./supervisor-deferred-restart-decide.ts"
-import {
-  isIdleForPreservingRestart,
-  isIdleForPreservingRestartPastCliff,
-  isIgnoredMcpChildCmdline,
-  preservingRestartBusyReason,
-} from "./supervisor-idle-decide.ts"
-import {
-  decidePreCliffRestart,
-  type PreCliffObservation,
-} from "./supervisor-precliff-restart-decide.ts"
-import {
-  decideProxyAdoption,
-  type ProxyAdoptionInput,
-} from "./supervisor-proxy-adoption-decide.ts"
-import {
-  decideProxyLiveness,
-} from "./supervisor-proxy-liveness-decide.ts"
-import {
-  computeReExecJitterMs,
-  resolveMaxReExecJitterMs,
-} from "./supervisor-self-heal-jitter-decide.ts"
 import {
   childExitClassification,
   childExitObservation,
@@ -47,8 +33,19 @@ import {
   proxyLivenessState,
   rawEnv,
 } from "./supervisor-decide-rule-inputs.ts"
-import { arr, bool, maybe, num, obj, str } from "./narrow.ts"
-import { fail } from "./command.ts"
+import {
+  decideDeferredRestart,
+  EDGE_CONNECTION_CLIFF_OVERRIDE_MS,
+  EDGE_CONNECTION_CLIFF_PREEMPT_MS,
+  INITIAL_DEFERRED_RESTART_STATE,
+  resolveMaxDeferMs,
+  resolvePreCliffOverrideMs,
+  resolveStaleWedgeMs,
+} from "./supervisor-deferred-restart-decide.ts"
+import {
+  computeReExecJitterMs,
+  resolveMaxReExecJitterMs,
+} from "./supervisor-self-heal-jitter-decide.ts"
 
 function sub(
   value: unknown,

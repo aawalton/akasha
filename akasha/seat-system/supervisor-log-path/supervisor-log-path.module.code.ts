@@ -1,4 +1,3 @@
-
 import { join } from "node:path"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 

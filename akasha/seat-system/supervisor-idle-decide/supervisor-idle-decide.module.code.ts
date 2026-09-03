@@ -1,4 +1,3 @@
-
 export type IdleObservation = {
   inFlight: number | null
   busyChildren: number | null

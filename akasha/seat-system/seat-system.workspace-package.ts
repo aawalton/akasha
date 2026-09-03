@@ -34,6 +34,14 @@ export const seatSystem = {
     "module/seat-stating",
     "module/seat-stopping",
     "module/subagent-presence",
+    "module/supervisor-idle-decide",
+    "module/supervisor-iteration-outcome-db",
+    "module/supervisor-lifecycle-death-write",
+    "module/supervisor-precliff-restart-decide",
+    "module/supervisor-proxy-adoption-decide",
+    "module/supervisor-proxy-liveness-decide",
+    "module/supervisor-limit-resume-effects",
+    "module/supervisor-log-path",
   ],
   invariants: [
     {

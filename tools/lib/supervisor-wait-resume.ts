@@ -1,23 +1,19 @@
-
-import {
-  classifyTurnEndErrorDeath,
-  CONNECTION_STATUS,
-} from "./classify-turn-end-error-death.ts"
+import { askSupervisorDecide } from "@akasha/seat-system/supervisor-limit-resume-effects"
+import { readOwnTranscriptTail } from "./agent-io-probe.ts"
+import { CONNECTION_STATUS, classifyTurnEndErrorDeath } from "./classify-turn-end-error-death.ts"
 import { WAIT_MAX_MS, waitMs } from "./decide-wait-resume.ts"
-import { USER_ID } from "./user-id.ts"
 import {
   ANNOUNCE,
   hasRecentInboundMessage,
-  sendMessage,
   SYSTEM_SOURCE,
+  sendMessage,
 } from "./supervisor-limit-resume-send.ts"
-import { readOwnTranscriptTail } from "./agent-io-probe.ts"
-import { askSupervisorDecide } from "./supervisor-limit-resume-effects.ts"
 import {
-  askWaitResume,
   type AskDecide,
+  askWaitResume,
   type WaitResumeVerdict,
 } from "./supervisor-wait-resume-answer.ts"
+import { USER_ID } from "./user-id.ts"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000
 
