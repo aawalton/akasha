@@ -98,6 +98,35 @@ export const migrationSystem = {
     },
     {
       invariantKind: "departure",
+      statement: "A file is reached on its slug and its fields rather than on its page id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No migration into akasha has carried a page id across.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A sidecar is judged on evidence of the sidecar rather than on the page beside the sidecar.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type absent from akasha is answered apart from a slug absent from akasha.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Content regrouped at another grain reads as unreached rather than as reached.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A folder unreached here may be migrated already under another page type.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "`takeableIn` alone is no ground for calling a folder unmigrated.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A landing here runs no check.",
     },
     {

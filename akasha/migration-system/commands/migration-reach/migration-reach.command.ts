@@ -21,6 +21,9 @@ export const migrationReach = {
     "the recipe: compose the new bodies, land them with `migrationLanded`, read them back with `readBack`, sweep the old paths here, then land the takeable ones as removals.",
     "`--takeable` is what a migration feeds back in as removals, so nothing unreached is ever composed as one.",
     "the code is 0 where every path asked after is reached and 2 where any one of them is not.",
+    "the key is page type and slug corroborated by a field value of the old file. page ids are re-minted on every migration, so an id match reaches almost nothing.",
+    "LIMIT: content regrouped at another grain reads as unreached. a page type akasha carries none of is said as such, so look for the content under another page type before migrating again.",
+    "a sidecar is judged on its own evidence. a page being reached says nothing about the file beside it.",
   ],
   invariants: [
     {
