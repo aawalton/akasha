@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const infuseWitchcraft = {
   id: "01a06575-981e-71f2-aefe-f8c4a805782c",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const innPartialReconstruction = {
   id: "01a06575-981f-7fed-a710-7ffe36be9bfc",

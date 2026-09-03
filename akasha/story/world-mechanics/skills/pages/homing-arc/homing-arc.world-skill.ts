@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const homingArc = {
   id: "01a06575-981a-7b06-b4df-cc31aad5e32e",

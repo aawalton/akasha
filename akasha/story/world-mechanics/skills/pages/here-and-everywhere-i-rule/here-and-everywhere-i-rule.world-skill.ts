@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const hereAndEverywhereIRule = {
   id: "01a06575-9819-76c1-8eac-44d48d573fb9",

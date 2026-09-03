@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const inflictCurseSelf = {
   id: "01a06575-981e-713f-8f59-964285a84934",

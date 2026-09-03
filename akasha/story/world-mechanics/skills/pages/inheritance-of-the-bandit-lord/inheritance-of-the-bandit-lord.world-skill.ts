@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const inheritanceOfTheBanditLord = {
   id: "01a06575-981e-7b57-91ab-29dd9ea5c7f1",

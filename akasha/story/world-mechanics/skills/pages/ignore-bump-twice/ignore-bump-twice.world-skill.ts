@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const ignoreBumpTwice = {
   id: "01a06575-981c-7ebf-85db-17ca53b67a97",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const heavyPush = {
   id: "01a06575-9819-7318-b80c-c737fab3fd6c",

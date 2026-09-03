@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const indirectHex = {
   id: "01a06575-981e-70be-855f-e134e9361fca",

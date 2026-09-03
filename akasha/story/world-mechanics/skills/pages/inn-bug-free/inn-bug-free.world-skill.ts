@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const innBugFree = {
   id: "01a06575-981e-71bd-a0c7-ccb024c19f97",

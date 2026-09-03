@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const hygenicHands = {
   id: "01a06575-981b-7fcb-a220-bc191bf66e13",

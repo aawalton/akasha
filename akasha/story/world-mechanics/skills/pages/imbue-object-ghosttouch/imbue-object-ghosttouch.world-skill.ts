@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const imbueObjectGhosttouch = {
   id: "01a06575-981c-766c-a0a6-fdfacb3f7042",

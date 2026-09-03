@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const iCutTheWorldUnseen = {
   id: "01a06575-981b-7996-ba64-19f4d7574a87",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const impactArrow = {
   id: "01a06575-981d-75a3-b287-85316418e517",

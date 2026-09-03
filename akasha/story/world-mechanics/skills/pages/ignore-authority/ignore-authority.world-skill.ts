@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const ignoreAuthority = {
   id: "01a06575-981c-7ade-878b-ae4b3ae11bd8",

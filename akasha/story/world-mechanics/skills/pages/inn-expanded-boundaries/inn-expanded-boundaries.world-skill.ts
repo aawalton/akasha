@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const innExpandedBoundaries = {
   id: "01a06575-981e-724d-a778-f0ce50a514ad",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const ingredientsCulturalShift = {
   id: "01a06575-981e-7d62-8bbd-a51f6b58d51b",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const innReinforcedStructure = {
   id: "01a06575-981f-7958-948d-44c2fbc481b2",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const inklessFurRe = {
   id: "01a06575-981e-7e7d-8275-cd87bbb845d7",

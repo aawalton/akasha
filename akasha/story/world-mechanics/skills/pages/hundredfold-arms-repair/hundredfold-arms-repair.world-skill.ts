@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const hundredfoldArmsRepair = {
   id: "01a06575-981b-74f3-9e37-812659b29888",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const iFearNoFlame = {
   id: "01a06575-981b-71f9-b2c2-077ec96e5af7",

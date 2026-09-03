@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const healthyRearing = {
   id: "01a06575-9819-7444-b0d0-674f804e313a",

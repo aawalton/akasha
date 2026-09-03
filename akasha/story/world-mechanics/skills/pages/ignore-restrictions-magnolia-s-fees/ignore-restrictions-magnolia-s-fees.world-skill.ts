@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const ignoreRestrictionsMagnoliaSFees = {
   id: "01a06575-981c-748e-b580-ee438ab7149f",

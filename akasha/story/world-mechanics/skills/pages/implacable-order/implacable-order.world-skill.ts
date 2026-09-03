@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const implacableOrder = {
   id: "01a06575-981d-7885-8f09-663fe5c55785",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const impartialObserver = {
   id: "01a06575-981d-7cd7-9c62-9bf5662e1fae",

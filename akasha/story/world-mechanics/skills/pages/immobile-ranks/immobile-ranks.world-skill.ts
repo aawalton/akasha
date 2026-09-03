@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const immobileRanks = {
   id: "01a06575-981c-7696-8c4d-966df44d7a47",

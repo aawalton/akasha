@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const hostTheThinkingRoom = {
   id: "01a06575-981a-78fd-8f86-567a510e3ca5",

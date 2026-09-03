@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const impalingLunge = {
   id: "01a06575-981d-7e1e-b001-0af98bebedc7",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const identifyTrueNameDaily = {
   id: "01a06575-981c-79e4-b4e0-f24b8c1749e0",

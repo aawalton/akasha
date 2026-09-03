@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const honestGiftExchange = {
   id: "01a06575-981a-7a19-a0fe-42cafca55954",

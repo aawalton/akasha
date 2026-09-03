@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const iceMagicAffinity = {
   id: "01a06575-981c-74e0-9dad-ab088aa1e698",

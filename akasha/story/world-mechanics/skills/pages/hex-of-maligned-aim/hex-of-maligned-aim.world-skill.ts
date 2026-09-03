@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const hexOfMalignedAim = {
   id: "01a06575-9819-71d5-b5cb-36ba98fc3126",

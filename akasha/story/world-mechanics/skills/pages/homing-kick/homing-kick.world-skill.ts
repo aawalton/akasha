@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const homingKick = {
   id: "01a06575-981a-72bb-82f3-a242e20ab090",

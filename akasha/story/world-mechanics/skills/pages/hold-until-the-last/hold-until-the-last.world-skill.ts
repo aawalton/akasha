@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const holdUntilTheLast = {
   id: "01a06575-981a-7e73-af06-d1e03098062d",

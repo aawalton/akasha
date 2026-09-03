@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const impactCharge = {
   id: "01a06575-981d-70ce-aa2e-823180ce206a",

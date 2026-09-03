@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const imitationOfMightMightyJaganismet = {
   id: "01a06575-981c-77b2-98f4-b5a4982e60b3",

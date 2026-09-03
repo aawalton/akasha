@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const infuseColor = {
   id: "01a06575-981e-717c-bfe5-44b9d95135b7",

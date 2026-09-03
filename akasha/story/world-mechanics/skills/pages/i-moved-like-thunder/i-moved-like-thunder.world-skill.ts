@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const iMovedLikeThunder = {
   id: "01a06575-981c-7440-9300-90cf36a8ec45",

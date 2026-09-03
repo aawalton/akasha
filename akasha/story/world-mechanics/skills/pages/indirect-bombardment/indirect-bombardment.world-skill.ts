@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const indirectBombardment = {
   id: "01a06575-981e-779c-a232-d1a643bbfbf0",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const innEmployeeBenefitsLegendaryHealingSlimeEggletsOfHappiness = {
   id: "01a06575-981e-7dd7-b462-e3581282bb61",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const immunityFlames = {
   id: "01a06575-981d-7162-b7b7-2e2fb8466519",

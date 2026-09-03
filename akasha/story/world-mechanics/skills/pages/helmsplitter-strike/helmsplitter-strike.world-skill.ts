@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const helmsplitterStrike = {
   id: "01a06575-9819-7d87-b277-3b4345eee8ca",

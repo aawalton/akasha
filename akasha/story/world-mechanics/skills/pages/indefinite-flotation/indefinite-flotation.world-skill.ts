@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const indefiniteFlotation = {
   id: "01a06575-981e-7db0-8612-9d019009b6f2",

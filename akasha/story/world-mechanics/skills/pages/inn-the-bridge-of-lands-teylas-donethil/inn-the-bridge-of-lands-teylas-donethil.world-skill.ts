@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const innTheBridgeOfLandsTeylasDonethil = {
   id: "01a06575-981f-74fa-84bf-06aef7d2c184",

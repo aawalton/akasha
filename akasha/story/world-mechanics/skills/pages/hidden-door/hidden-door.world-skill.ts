@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const hiddenDoor = {
   id: "01a06575-981a-7850-afc7-cd99999b120a",

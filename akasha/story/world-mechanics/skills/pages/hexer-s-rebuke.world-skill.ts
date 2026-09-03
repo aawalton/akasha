@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const hexerSRebuke = {
   id: "01a06575-9819-7f5d-af89-ae474a186d03",

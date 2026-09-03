@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const heartbreakSCompensationHalfcostMagicTier02 = {
   id: "01a06575-9819-7272-a7a5-cb94a86c5806",

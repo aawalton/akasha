@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const inertStirringRod = {
   id: "01a06575-981e-77c6-9a3d-c408885db352",

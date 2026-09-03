@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const helperSIncreasedExperienceTheWanderingInn = {
   id: "01a06575-9819-7073-a5bd-e8676147e4e0",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const heavilyReinforcedPipes = {
   id: "01a06575-9819-74b0-a331-5f99cd04326a",

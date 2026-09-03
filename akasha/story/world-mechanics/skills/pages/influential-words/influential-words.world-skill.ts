@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const influentialWords = {
   id: "01a06575-981e-7e63-81eb-67ac0ec827a5",

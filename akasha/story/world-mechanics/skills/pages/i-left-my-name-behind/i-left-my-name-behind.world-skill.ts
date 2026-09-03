@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const iLeftMyNameBehind = {
   id: "01a06575-981b-7e60-a471-8ac9eeb32b47",

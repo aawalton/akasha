@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const imitationOfMightIertTheNagaSHound = {
   id: "01a06575-981c-7bb1-ba1e-b1ce2165df7c",

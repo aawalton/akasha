@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const hellfirePalm = {
   id: "01a06575-9819-7833-bf90-96b08aea0517",

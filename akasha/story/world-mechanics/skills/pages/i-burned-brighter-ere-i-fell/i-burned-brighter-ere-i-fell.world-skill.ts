@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const iBurnedBrighterEreIFell = {
   id: "01a06575-981b-7190-83c1-e066459e6642",

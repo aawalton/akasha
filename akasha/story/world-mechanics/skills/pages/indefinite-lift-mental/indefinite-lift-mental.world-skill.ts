@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const indefiniteLiftMental = {
   id: "01a06575-981e-77ee-a8e4-ddec26f887be",

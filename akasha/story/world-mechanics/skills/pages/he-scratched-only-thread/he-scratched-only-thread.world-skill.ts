@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const heScratchedOnlyThread = {
   id: "01a06575-9818-7e46-b536-c77efefd9455",

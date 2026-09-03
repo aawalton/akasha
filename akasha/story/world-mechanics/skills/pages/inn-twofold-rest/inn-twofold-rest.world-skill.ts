@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const innTwofoldRest = {
   id: "01a06575-981f-75c3-8936-d155c7134eb7",

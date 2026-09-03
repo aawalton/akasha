@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const honorSShieldSingleUse = {
   id: "01a06575-981a-73ba-8e2f-e1c34e532f7b",

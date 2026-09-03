@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const inspectWardSConditionMrsha = {
   id: "01a06575-981f-75b8-9c7e-52d10eb0e1ed",

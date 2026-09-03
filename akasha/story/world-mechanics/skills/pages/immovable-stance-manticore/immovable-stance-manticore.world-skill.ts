@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const immovableStanceManticore = {
   id: "01a06575-981d-7a6b-8ca9-2720a0f9b7ba",

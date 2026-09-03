@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const hookPunch = {
   id: "01a06575-981a-7f2f-a1d8-48a9dac49008",

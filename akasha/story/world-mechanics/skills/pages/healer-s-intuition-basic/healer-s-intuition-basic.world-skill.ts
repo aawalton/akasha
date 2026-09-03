@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const healerSIntuitionBasic = {
   id: "01a06575-9819-74e7-bca3-495faf272e2e",
