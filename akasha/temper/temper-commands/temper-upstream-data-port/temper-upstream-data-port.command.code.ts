@@ -2,9 +2,12 @@ import { realpathSync } from "node:fs"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages-system/code-root"
-// The porters still stand under `tools/lib`, so they are reached by the name the
-// manifest gives that package rather than by a path climbing out of akasha.
-import { porterFor, UPSTREAM_LIBRARIES } from "@tools/lib/temper-upstream-data/libraries"
+import { port as portHousing } from "@akasha/temper-upstream-data/housing-upstream-port"
+import { port as portMapData } from "@akasha/temper-upstream-data/map-data-upstream-port"
+import { port as portTreasure } from "@akasha/temper-upstream-data/treasure-upstream-port"
+import type { UpstreamLibrary } from "@akasha/temper-upstream-data/upstream-libraries"
+import { libraryNamed, UPSTREAM_LIBRARIES } from "@akasha/temper-upstream-data/upstream-libraries"
+import { port as portZone } from "@akasha/temper-upstream-data/zone-upstream-port"
 
 const SAID_WRONG = 1
 
@@ -17,6 +20,13 @@ const CODE_ROOT_FLAG = "--code-root"
 const CODE_ROOT_ENV = "CODE_ROOT"
 
 const TAKING_A_VALUE = [CODE_ROOT_FLAG]
+
+const PORTED_BY: Record<UpstreamLibrary, (codeRoot: string) => Promise<void>> = {
+  housing: portHousing,
+  "lib-map-data": portMapData,
+  "lib-treasure": portTreasure,
+  "lib-zone": portZone,
+}
 
 function valuesOf(argv: readonly string[], flag: string): readonly string[] {
   const found: string[] = []
@@ -63,7 +73,7 @@ export async function temperUpstreamDataPort(argv: readonly string[] = []): Prom
   }
 
   const named = names[0] as string
-  const library = UPSTREAM_LIBRARIES.find((one) => one === named)
+  const library = libraryNamed(named)
   if (library === undefined) {
     return refused(
       `${named} is no upstream library this ports — it carries ${carried()}`,
@@ -85,8 +95,7 @@ export async function temperUpstreamDataPort(argv: readonly string[] = []): Prom
   process.env[CODE_ROOT_ENV] = root
 
   try {
-    const porter = await porterFor(library)
-    await porter.port(root)
+    await PORTED_BY[library](root)
   } catch (thrown) {
     return refused(`${library} was not ported whole into ${root}: ${messageOf(thrown)}`, FAILED)
   }

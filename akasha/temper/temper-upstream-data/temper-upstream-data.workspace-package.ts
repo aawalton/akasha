@@ -12,6 +12,10 @@ export const temperUpstreamData = {
     "module/zone-eso-stubs",
     "module/leaf-dump",
     "module/upstream-leaf-reading",
+    "module/housing-upstream-port",
+    "module/map-data-upstream-port",
+    "module/treasure-upstream-port",
+    "module/zone-upstream-port",
     "module/housing-upstream-verify",
     "module/map-data-upstream-verify",
     "module/treasure-upstream-verify",
@@ -42,6 +46,10 @@ export const temperUpstreamData = {
       invariantKind: "departure",
       statement:
         "A ruling is refused where the upstream files it reads are not on this workstation.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A library is ported by the one module named for that library.",
     },
   ],
 } as const satisfies WorkspacePackage
