@@ -1,0 +1,1 @@
+Lets the quiet hold, her gaze drifting easy to the rain and back to him, the warmth of her settling without a word — and after a moment, just lets a soft breath of contentment out, the smallest unhurried sign she's right here in it with him, no need to be anywhere else.

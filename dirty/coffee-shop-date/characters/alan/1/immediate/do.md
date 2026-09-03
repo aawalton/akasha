@@ -1,0 +1,1 @@
+Let the silence hold one more beat, then meet her eyes with a small, unguarded smile and say something plain and present — naming the moment rather than performing past it: a quiet "this is good," the rain and the warmth and her, an invitation for her to fill the open afternoon however she likes.

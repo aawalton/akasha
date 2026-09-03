@@ -1,0 +1,1 @@
+Warm, settled, a low steady gladness with no hurry in it. Tenderness at the shared hush — at the fact that they can sit in it without either of them needing to fill it. Underneath, the quiet, less-spoken thing: a wish to be met in this same ease, here, in return.

@@ -1,0 +1,1 @@
+They're here, finally, the meeting they arranged — out of the weather, settled, nothing pressing on either side. The silence isn't an awkward gap to paper over; it's the kind that only lands when you're easy with someone. The whole open afternoon is theirs. He noticed she found the corner first and tipped her head toward it — she's reading the room the same way he would.
