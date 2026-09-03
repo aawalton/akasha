@@ -954,6 +954,10 @@
     },
     "akasha/persona-system": {
       "name": "@akasha/persona-system",
+      "dependencies": {
+        "@akasha/pages-system": "workspace:*",
+        "@tools/lib": "workspace:*",
+      },
     },
     "akasha/personas-core": {
       "name": "@akasha/personas-core",

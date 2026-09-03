@@ -18,5 +18,6 @@ export const personaSystem = {
     "page-type/persona-wallpaper",
     "page-type/persona-wallpaper-notification",
     "page-type/persona-points-source",
+    "module/persona-targets",
   ],
 } as const satisfies WorkspacePackage
